@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-02-08 07:05:39
+updated: 2025-02-09 07:04:54
 ---
 
 # motorcycles
 
-(date: 2025-02-08 07:05:39)
+(date: 2025-02-09 07:04:54)
+
+---
+
+## Watch the Most Insane Yamaha R6-Swapped Dirt Bike Take Flight
+
+date: 2025-02-08, from: Ride Apart, Electric Motorcycle News
+
+This video is a banger from start to finish. 
+
+<br> 
+
+<https://www.rideapart.com/news/750028/r6-swapped-dirt-bike/>
 
 ---
 
@@ -33,7 +45,7 @@ Let's get dirty.
 
 ---
 
-## Polaris To Make Further Cuts After Laying off 10% of Workforce
+## Polaris Will Have To Make Further Cost Cuts This Year, Says CEO
 
 date: 2025-02-07, from: Ride Apart, Electric Motorcycle News
 
@@ -402,16 +414,4 @@ It’s one of the simpler “smart helmets” we’ve seen, and it might actuall
 <br> 
 
 <https://www.rideapart.com/news/749158/livall-mc1-pro-carbon-smart-helmet/>
-
----
-
-## Honda Monkey and Dax Get Sweet New Colors for 2025, In Some Places
-
-date: 2025-02-01, from: Ride Apart, Electric Motorcycle News
-
-If you want a Monkey in the US, you get one color choice. In Europe, you get three. 
-
-<br> 
-
-<https://www.rideapart.com/news/749154/honda-monkey-dax-colors-europe/>
 

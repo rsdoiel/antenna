@@ -1,21 +1,21 @@
 ---
 title: parks
-updated: 2025-02-08 07:05:39
+updated: 2025-02-09 07:04:54
 ---
 
 # parks
 
-(date: 2025-02-08 07:05:39)
+(date: 2025-02-09 07:04:54)
 
 ---
 
-## Grand Canyon National Park Announces 2026 Noncommercial River Trip Lottery Period
+## Celebrate Black History Month with California State Parks
 
-date: 2025-02-01, from: Press Releases
+date: 2025-02-08, from: California State Parks blog
 
-On Saturday, February 1, 2025, the National Park Service will begin accepting applications for noncommercial river trip permits to raft the Colorado River through Grand Canyon National Park for specific launch dates within calendar year 2026. https://www.nps.gov/grca/learn/news/non-commercial-river-lottery-announced-2026.htm 
+Black History Month, celebrated every February, honors the achievements, history, and contributions of African Americans in shaping society. It serves as a powerful reminder of the past while encouraging ongoing dialogue and recognition of Black achievements in all fields. Now more than ever, we are proud to elevate the full history of California and celebrate [&#8230;] 
 
 <br> 
 
-<https://www.nps.gov/grca/learn/news/non-commercial-river-lottery-announced-2026.htm>
+<https://castateparks.wordpress.com/2025/02/07/celebrate-black-history-month-with-california-state-parks/>
 

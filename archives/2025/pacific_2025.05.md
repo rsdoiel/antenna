@@ -1,11 +1,457 @@
 ---
 title: pacific
-updated: 2025-02-08 07:05:35
+updated: 2025-02-09 07:04:51
 ---
 
 # pacific
 
-(date: 2025-02-08 07:05:35)
+(date: 2025-02-09 07:04:51)
+
+---
+
+## No nene killed since speed limit lowered on Kalanianaole
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>No nene have been struck by traffic on Kalanianaole Street in Hilo since the speed limit was reduced in 2023.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/hawaii-news/no-nene-killed-since-speed-limit-lowered-on-kalanianaole/>
+
+---
+
+## Under the big top: Super American Circus comes to Hilo this week
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>The Super American Circus 2025 is in Hawaii, showcasing some of the world&#8217;s most amazing spectacles.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/hawaii-news/under-the-big-top-super-american-circus-comes-to-hilo-this-week/>
+
+---
+
+## Judge halts access to Treasury payment systems by Elon Musk’s team
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge early Saturday temporarily restricted access by Elon Musk&#8217;s government efficiency program to the Treasury Department&#8217;s payment and data systems, saying there was a risk of &#8220;irreparable harm.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/nation-world-news/judge-halts-access-to-treasury-payment-systems-by-elon-musks-team/>
+
+---
+
+## Contested case could decide fate of Papaikou’s ‘Falls on Fire’
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>A Papaikou property owner&#8217;s plan to host an annual &#8220;Burning Man-style&#8221; festival on his land is being challenged by neighbors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/hawaii-news/contested-case-could-decide-fate-of-papaikous-falls-on-fire/>
+
+---
+
+## Trump administration moves to send $8 billion in arms to Israel, bypassing some lawmakers
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>The State Department has given Congress formal notification that it plans to move forward with sales of more than $8 billion in weapons to Israel, bypassing an informal review process that was ongoing in one House committee.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/nation-world-news/trump-administration-moves-to-send-8-billion-in-arms-to-israel-bypassing-some-lawmakers/>
+
+---
+
+## Super Bowl parade a reminder ‘New Orleans is still in business’
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW ORLEANS &#8212; Mardi Gras floats with bead-tossing revelers cruised through New Orleans on Saturday as the city celebrated its record-tying 11th Super Bowl hosting gig with a stout security presence after a New Year&#8217;s Day attack.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/nation-world-news/super-bowl-parade-a-reminder-new-orleans-is-still-in-business/>
+
+---
+
+## Amid concern over Trump order, New Yorkers rally to support trans youth
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Bells, drums and chants rang out Saturday afternoon in Union Square in Manhattan as thousands of New Yorkers gathered to protest an executive order from the Trump administration targeting transgender children and teens.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/nation-world-news/amid-concern-over-trump-order-new-yorkers-rally-to-support-trans-youth/>
+
+---
+
+## Hamas makes gaunt Israeli hostages thank captors before release
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Hamas released three Israeli hostages Saturday in exchange for 183 Palestinians jailed by Israel, in a staged handover where rifle-toting Hamas fighters prodded their gaunt captives to give short speeches, effectively at gunpoint, thanking the militants who had held them captive for 16 months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/nation-world-news/hamas-makes-gaunt-israeli-hostages-thank-captors-before-release/>
+
+---
+
+## Tent city rising at Guantánamo Bay
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>GUANT&#193;NAMO BAY, Cuba &#8212; The Trump administration has moved more than 30 people described as Venezuelan gang members to the U.S. Navy base at Guant&#225;namo Bay, as U.S. forces and homeland security staff prepare a tent city for potentially thousands of migrants.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/nation-world-news/tent-city-rising-at-guantanamo-bay/>
+
+---
+
+## Volcano Watch: Assembly of volcano scientists to gather in Hilo
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>What is the collective noun for a group of volcano scientists? While some tongue-in-cheek responses might be &#8220;an eruption of volcanologists&#8221; or &#8220;a swarm of seismologists,&#8221; we&#8217;ll stick to &#8220;an assembly of volcano scientists.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/features/volcano-watch-assembly-of-volcano-scientists-to-gather-in-hilo/>
+
+---
+
+## Steves: Croatia’s past lives on in modern-day Split
+
+date: 2025-02-09, from: Hawaii Tribune Harold
+
+
+				<p>Lounging alongside the Adriatic Sea, on the famed Dalmatian Coast, Split is a bustling metropolis, serious port city, major transit hub, and top sightseeing destination, all rolled into one. It hums with the vibrancy you&#8217;d expect from Croatia&#8217;s second-largest city (after capital Zagreb), plus the seaside ambiance of sleepier coastal towns.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/09/features/steves-croatias-past-lives-on-in-modern-day-split/>
+
+---
+
+## Guam's ex-Veteran Center chief facing OIG probe for 'serious misconduct'
+
+date: 2025-02-09, from: Pacific Island Times
+
+The Department of Veterans Affairs' Office of the Inspector General is investigating Edward “Doc” Santos for alleged serious misconduct. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-ex-veteran-center-chief-facing-oig-probe-for-serious-misconduct>
+
+---
+
+## From womb to canvas: The evolution of Dorathina Herrero’s work
+
+date: 2025-02-09, from: Pacific Island Times
+
+“Like all my work, the title comes after the work is done. I feel this body of work reflects literal phases in my life as a woman." 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/from-womb-to-canvas-the-evolution-of-dorathina-herrero-s-work>
+
+---
+
+## Caught in crossfire between AG, Guam governor: What’s the government’s actual plan for the homeless?
+
+date: 2025-02-09, from: Pacific Island Times
+
+“The encampments are dangerous, unsanitary, unsightly, repel repeat tourists and are illegal.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/caught-in-crossfire-between-ag-guam-governor-what-s-the-government-s-actual-plan-for-the-homeless>
+
+---
+
+## Life on the streets: A closer look at homelessness on Guam
+
+date: 2025-02-08, from: Pacific Island Times
+
+“My day-to-day life is about helping the homeless family out here,” Bowermaster said. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/life-on-the-streets-a-closer-look-at-homelessness-on-guam>
+
+---
+
+## Friends on the Lions bandwagon
+
+date: 2025-02-08, from: Pacific Island Times
+
+Lessons from Everyday Life By Theodore Lewis   Bridgman, MI —The bandwagon for the Detroit Lions this year has had to add many additional... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/friends-on-the-lions-bandwagon>
+
+---
+
+## A fishing season that’s over in a splash
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>As fishing goes, the sturgeon-spearing season on Black Lake in Cheboygan, Michigan, may be the shortest in the country: six fish long. Starting at 8 a.m. Feb. 1, about 500 fishers hoped to throw spears at sturgeon passing under the ice until the sixth and final fish was caught 17 minutes later, the fastest season ever.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/features/a-fishing-season-thats-over-in-a-splash/>
+
+---
+
+## Small plane with 10 dead found crashed in Alaska
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>The mangled wreckage of a plane with 10 bodies inside was found Friday near the western coast of Alaska and is believed to be the aircraft that vanished the day before, a spokesperson for the U.S. Coast Guard in Alaska said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/small-plane-with-10-dead-found-crashed-in-alaska/>
+
+---
+
+## Trump says he will announce reciprocal tariffs next week
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump indicated he was ready to broaden his trade war Friday, saying that he would announce reciprocal tariffs on other countries next week. Such a measure would raise the levies the United States charges on imports to match what other countries charge on American products, a move that could trigger new trade fights.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trump-says-he-will-announce-reciprocal-tariffs-next-week/>
+
+---
+
+## US job growth slows in January; unemployment rate at 4.0%
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. job growth slowed more than expected in January after robust gains in the prior two months, but a 4.0% unemployment rate probably will give the Federal Reserve cover to hold off cutting interest rates at least until June.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/us-job-growth-slows-in-january-unemployment-rate-at-4-0/>
+
+---
+
+## Trump says he will dismiss Kennedy Center board members and install himself as chair
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump announced his intention Friday to bring the John F. Kennedy Center for the Performing Arts in Washington more firmly under his control, saying he would dismiss several board members and install himself as chair.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trump-says-he-will-dismiss-kennedy-center-board-members-and-install-himself-as-chair/>
+
+---
+
+## Sweden to tighten gun laws after mass shooting at school
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>OREBRO, Sweden &#8212; Sweden&#8217;s right-wing government said on Friday it would seek to tighten gun laws in the wake of the country&#8217;s deadliest mass shooting at an adult education center where the attacker appeared to have used several of his own licensed rifles.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/sweden-to-tighten-gun-laws-after-mass-shooting-at-school/>
+
+---
+
+## Young aides emerge as enforcers in Musk’s broadside against government
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; At the end of his third week bulldozing through the federal government, Elon Musk sat down to give Vice President JD Vance a 90-minute briefing on his efforts to dismantle the bureaucracy. Musk was not alone.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/young-aides-emerge-as-enforcers-in-musks-broadside-against-government/>
+
+---
+
+## State high court probes conditions of Maui wildfires settlement
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Supreme Court justices posed many exacting, and sometimes skeptical, questions Thursday to attorneys in a case pertaining to the validity of a $4 billion deal to settle Maui wildfire litigation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/hawaii-news/state-high-court-probes-conditions-of-maui-wildfires-settlement/>
+
+---
+
+## Judge says he will freeze elements of Trump plan to shut down USAID
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge said Friday that he would order the Trump administration to halt for now some elements of its attempt to shut down the United States Agency for International Development.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/judge-says-he-will-freeze-elements-of-trump-plan-to-shut-down-usaid/>
+
+---
+
+## Trump’s executive orders leave imprint on the Fed
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump has so far restrained himself from trying to meddle with the Federal Reserve on matters related to monetary policy during his second term. But some of the more than 50 executive orders he has signed since returning to the White House are leaving an imprint on the central bank.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trumps-executive-orders-leave-imprint-on-the-fed/>
+
+---
+
+## Be ready for Valentine’s Day, only a week away
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>Valentine&#8217;s Day is almost upon us so it is important to tell your loved ones how much you care.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/features/be-ready-for-valentines-day-only-a-week-away/>
+
+---
+
+## Police ID motorcyclist killed in Pahoa crash
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified the motorcyclist who died in a traffic collision involving a dump truck in Pahoa on Feb. 3 as 36-year-old Wallace Zimmerman of Pahoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/hawaii-news/police-id-motorcyclist-killed-in-pahoa-crash/>
+
+---
+
+## Coast Guard finds wreckage of missing Alaska plane; all 10 on board killed
+
+date: 2025-02-08, updated: 2025-02-09, from: Marianas Variety
+
+(Reuters) — The U.S. Coast Guard in Alaska found the wreckage of a small plane atop frozen sea ice on Friday, after the aircraft suddenly lost altitude on Thursday and the crash killed all 10 people on board, officials said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/coast-guard-finds-wreckage-of-missing-alaska-plane-all-10-on-board-killed/article_23c52616-e5db-11ef-aea6-a7caa5ed0707.html>
+
+---
+
+## 24 football players selected academic All-Mountain West
+
+date: 2025-02-08, from: University of Hawaiʻi News
+
+<p>To be eligible for Academic All-Conference honors, student-athletes must maintain a cumulative <abbr title="grade point average">GPA</abbr> of 3.0 or better.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/uh-football-academic-all-mountain-west/">24 football players selected academic All-Mountain West</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/uh-football-academic-all-mountain-west/>
+
+---
+
+## Donahue named preseason All-Big West, baseball ‘Bows picked fourth
+
+date: 2025-02-08, from: University of Hawaiʻi News
+
+<p>The ‘Bows open the 2025 season on February 14 against Marshall at Les Murakami Stadium.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/baseball-all-big-west-preseason/">Donahue named preseason All-Big West, baseball ‘Bows picked fourth</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/baseball-all-big-west-preseason/>
+
+---
+
+## Kauaʻi CC works to fund scholarship for graduating island seniors
+
+date: 2025-02-08, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Hoolei">Ho&#699;olei</span> Scholarship Fund aims to cover first-year tuition (after financial aid) for every senior graduating from a public or charter high school on <span aria-label="Kauai">Kaua&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/kauai-cc-works-to-fund-hoolei-scholarship/">Kauaʻi <abbr>CC</abbr> works to fund scholarship for graduating island seniors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/kauai-cc-works-to-fund-hoolei-scholarship/>
+
+---
+
+## How genetics, lifestyle promote cognitive health in older adults
+
+date: 2025-02-08, from: University of Hawaiʻi News
+
+<p>Work, volunteering and leisure activities are associated with better cognitive health in older adults, even for those at genetic risk for Alzheimer’s.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/cognitive-health-older-adults/">How genetics, lifestyle promote cognitive health in older adults</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/cognitive-health-older-adults/>
 
 ---
 
@@ -523,6 +969,42 @@ date: 2025-02-07, from: Island Times
 
 ---
 
+## Top Tips for Starting a New Business
+
+date: 2025-02-07, updated: 2025-02-07, from: Marianas Variety
+
+(StatePoint) Starting a small business is an exciting journey, and one that many Americans hope to make a reality. More than six in 10 U.S. adults say they would prefer to be their own boss, according to a Shopify-Gallup Entrepreneurship study. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/business_and_careers/top-tips-for-starting-a-new-business/article_5c73b250-ec42-529f-8061-e0c066326907.html>
+
+---
+
+## Stock Your Fridge and Pantry Right With These Tips
+
+date: 2025-02-07, updated: 2025-02-07, from: Marianas Variety
+
+(StatePoint) With a growing number of products lining grocery store shelves, feeding your household can often feel like solving a complicated puzzle. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/food_recipes_entertaining/stock-your-fridge-and-pantry-right-with-these-tips/article_e051a085-24f4-514f-a0c8-d6a8b0df2d02.html>
+
+---
+
+## How to Upgrade Your Household Shopping Routine
+
+date: 2025-02-07, updated: 2025-02-07, from: Marianas Variety
+
+(StatePoint) From cleaning essentials to beauty supplies, store aisles are packed with brands competing for your loyalty. Making sense of all the labels and product features can be a challenge, that is, without proper guidance. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/how-to-upgrade-your-household-shopping-routine/article_7e4b4b46-62b2-5da0-a392-41982ff29725.html>
+
+---
+
 ## THE 2025 SHOOTS SUMMIT HAWAI‘I – Chee for Three!
 
 date: 2025-02-07, from: HIKI NŌ ON PBS HAWAIʻI
@@ -655,7 +1137,7 @@ date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
 
 ## How to boost your savings: Smart strategies to save with intention
 
-date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+date: 2025-02-06, updated: 2025-02-08, from: Marianas Variety
 
 (BPT) - Savings can help meet unexpected expenses, fund short-term spending goals and protect against unanticipated life events. At the same time, leaving too much of your money uninvested can jeopardize long-term financial goals like retirement. Set a goal to be more intentional with your savings by getting clear on your savings goals, ensuring your savings earn a competitive return and putting excess cash to work for your long-term financial goals. 
 
@@ -679,7 +1161,7 @@ by S. Holt Aunt Fran had called with my mother&#8217;s death announcement. She w
 
 ## Green flag on Rota
 
-date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+date: 2025-02-06, updated: 2025-02-09, from: Marianas Variety
 
 (BECQ) — The Bureau of Environmental and Coastal Quality analyzed marine water samples collected from Rota's recreational beaches and storm drainages this week. None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards.  Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
 
@@ -691,7 +1173,7 @@ date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
 
 ## Traffic delays and temporary sewer odor along Micro Beach Road, Garapan
 
-date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+date: 2025-02-06, updated: 2025-02-09, from: Marianas Variety
 
 (Commonwealth Utilities Corporation) — There will be traffic delays and sewage odor along Micro Beach Road in Lower Miha, Garapan due to an ongoing sewer line replacement project. The odor is expected as existing sewer lines are exposed and replaced during the construction process. 
 
@@ -703,7 +1185,7 @@ date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
 
 ## US immigration raids target illegal immigrants in Aurora, Colorado
 
-date: 2025-02-06, updated: 2025-02-06, from: Marianas Variety
+date: 2025-02-06, updated: 2025-02-09, from: Marianas Variety
 
 (Reuters) — Officers from several U.S. federal agencies searched for illegal immigrant1 on Wednesday in Aurora, the Colorado city with a large migrant population where President Donald Trump laid out his immigration policies during his campaign. 
 
@@ -3073,222 +3555,4 @@ date: 2025-02-02, updated: 2025-02-02, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/news/national/trump-imposes-tariffs-on-mexico-canada-and-china-risking-trade-war/article_371b4280-e104-11ef-ba94-07fc188520e7.html>
-
----
-
-## 'A wonderful cup of tea'
-
-date: 2025-02-01, from: Pacific Island Times
-
-My own guitar-playing phase began in 1982, after spending a year on Namu, an outer atoll in the Marshall Islands. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/a-wonderful-cup-of-coffee>
-
----
-
-## A medical plane carrying a child patient and 5 others crashes in Philadelphia, setting homes ablaze
-
-date: 2025-02-01, updated: 2025-02-02, from: Marianas Variety
-
-PHILADELPHIA (AP) — A medical transport jet transporting a child who had just completed treatment for a life-threatening condition, her mother and four others crashed into a Philadelphia neighborhood shortly after takeoff Friday evening, exploding in a fireball that engulfed several homes. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/a-medical-plane-carrying-a-child-patient-and-5-others-crashes-in-philadelphia-setting-homes/article_947b8798-e0a8-11ef-8ba1-37bb08a1cd08.html>
-
----
-
-## Trump administration plans to scrutinize FBI agents for possible purge
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>The Trump administration plans to scrutinize thousands of FBI agents involved in Jan. 6 investigations, setting the stage for a possible purge that goes far beyond the bureau&#8217;s leaders to target rank-and-file agents, according to internal documents and people familiar with the matter.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/trump-administration-plans-to-scrutinize-fbi-agents-for-possible-purge/>
-
----
-
-## Trump will hit Mexico, Canada and China with tariffs
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump plans to impose stiff tariffs on Mexico, Canada and China today, a move aimed at pressuring America&#8217;s largest trading partners into accepting more migrants and halting the flow of migrants and drugs into the United States.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/trump-will-hit-mexico-canada-and-china-with-tariffs/>
-
----
-
-## Immigrant communities in hiding: ‘People think ICE is everywhere’
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>At a barbershop in Los Angeles, only one of the 10 chairs was occupied on what would ordinarily be a busy evening. In San Francisco, a middle school student&#8217;s erroneous information about seeing an immigration officer on a city bus prompted the school district to send parents a warning<strong>.</strong></p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/immigrant-communities-in-hiding-people-think-ice-is-everywhere/>
-
----
-
-## Washington crash renews concerns about air safety lapses
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>Clues emerging from the moments before the deadly collision Wednesday night between an Army helicopter and an American Airlines passenger jet suggest that multiple layers of the country&#8217;s aviation safety apparatus failed, according to flight recordings, a preliminary internal report from the Federal Aviation Administration, interviews with current and former air traffic controllers and others briefed on the matter.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/washington-crash-renews-concerns-about-air-safety-lapses/>
-
----
-
-## Syria’s new president pledges unity in first address
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>DAMASCUS, Syria &#8212; The newly appointed president of Syria, Ahmed al-Sharaa, pledged in a speech Thursday to create an inclusive transitional government that reflects Syria&#8217;s diversity and that will lead the country until it can hold &#8220;free and fair elections.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/syrias-new-president-pledges-unity-in-first-address/>
-
----
-
-## Kennedy says he will give HPV vaccine lawsuit proceeds to his son
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>Robert F. Kennedy Jr. told lawmakers in responses to questions released Friday that he would divest his interest in litigation against a major HPV vaccine maker and would sign over the financial stake to an adult son.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/kennedy-says-he-will-give-hpv-vaccine-lawsuit-proceeds-to-his-son/>
-
----
-
-## 6 feared dead after medical plane crashes near Philadelphia mall
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>A small medical plane carrying six people crashed near a shopping center in northeast Philadelphia on Friday night, leaving no apparent survivors, sending a large fireball into the air and engulfing vehicles and homes in flames, authorities said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/6-feared-dead-after-medical-plane-crashes-near-philadelphia-mall/>
-
----
-
-## New York doctor indicted in Louisiana for sending abortion pills there
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>A state grand jury in Louisiana has indicted a New York doctor for providing abortion pills to a Louisiana resident. The case appears to be the first time criminal charges have been filed against an abortion provider for sending pills into a state with an abortion ban.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/new-york-doctor-indicted-in-louisiana-for-sending-abortion-pills-there/>
-
----
-
-## Health officials struggle to comply with DEI and gender orders
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>Federal and state health officials and staff members scrambled Friday to comply with a 5 p.m. deadline by the Trump administration to terminate any programs that promote &#8220;gender ideology,&#8221; and to withdraw documents and any other media that may do so.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/health-officials-struggle-to-comply-with-dei-and-gender-orders/>
-
----
-
-## U.S. economy finished the year on strong note, but faces hurdles
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>Growth slowed but remained resilient at the end of 2024, leaving the U.S. economy on solid footing heading into a new year &#8212; and a new presidential administration &#8212; that is full of uncertainty.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/u-s-economy-finished-the-year-on-strong-note-but-faces-hurdles/>
-
----
-
-## Norway seizes Russian-crewed ship suspected of cutting an undersea cable
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>OSLO, Norway &#8212; The authorities in Norway have seized a Russian-crewed ship that is suspected of damaging an undersea cable in an act of sabotage in the Baltic Sea, the Norwegian police said on Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/nation-world-news/norway-seizes-russian-crewed-ship-suspected-of-cutting-an-undersea-cable/>
-
----
-
-## A fish farm offered 40,000 pounds of salmon for free. There was a catch.
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>The offer was too good for the Food Bank of Central New York to pass up. A local fish farm was going out of business, and it wanted to donate more than 40,000 pounds of sushi-grade salmon.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/features/a-fish-farm-offered-40000-pounds-of-salmon-for-free-there-was-a-catch/>
-
----
-
-## Tropical Gardening: Coffee flowering now means abundant harvests coming this fall
-
-date: 2025-02-01, from: Hawaii Tribune Harold
-
-
-				<p>The dry weather from Thanksgiving to January created conditions for heavy flowering when a rainy spell in mid January stimulated a big flush of flowering shortly thereafter. When Kona has a wet winter and flowering is intermitant, it results in a longer harvest season. This year harvest shoud be concentrated thus making the harvest short and heavy if all else goes well.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/01/features/tropical-gardening-coffee-flowering-now-means-abundant-harvests-coming-this-fall/>
-
----
-
-## Guam governor turns the tables on critics, fires off FOIA letters to Terlaje and Moylan
-
-date: 2025-02-01, from: Pacific Island Times
-
-Gov. Lou Leon Guerrero has called into question the motive behind Sen. Therese Terlaje’s bill proposing a public-private partnership for GMH 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/governor-turns-the-tables-on-critics-fires-off-foia-letters-to-terlaje-moylan>
 

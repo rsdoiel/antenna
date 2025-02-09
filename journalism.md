@@ -1,11 +1,98 @@
 ---
 title: journalism
-updated: 2025-02-08 07:05:38
+updated: 2025-02-09 07:04:53
 ---
 
 # journalism
 
-(date: 2025-02-08 07:05:38)
+(date: 2025-02-09 07:04:53)
+
+---
+
+## CSUN Art Galleries celebrate Chicanas with “Bajitas y Suavecitas” exhibit
+
+date: 2025-02-09, from: The Sundail (CSUN Student Newspaper)
+
+Centered around Chicanas in lowrider culture, the CSUN Art Galleries “Bajitas y Suavecitas” exhibit curated by Denise Sandoval, professor of Chicano/a Studies, aims to highlight women in the lowrider space... 
+
+<br> 
+
+<https://sundial.csun.edu/189748/arts-entertainment/csun-art-galleries-celebrate-chicanas-with-bajitas-y-suavecitas-exhibit/>
+
+---
+
+## Westwood power outage affects apartments around UCLA
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 8 at 5:40 p.m.</em>
+Some Westwood residents lost power twice Saturday.
+Residents living on Glenrock Avenue, Levering Avenue and Midvale Avenue reported power outages beginning around 2:10 p.m., with power still out as of 3:35 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/08/westwood-power-outage-affects-apartments-around-ucla/>
+
+---
+
+## VOVE’s End of Year Showcase: A celebration of music
+
+date: 2025-02-08, from: The Sundail (CSUN Student Newspaper)
+
+CSUN&#8217;s student-run record label, Five of Five Entertainment (VOVE), wrapped up last semester with their high-energy End of Year Showcase on Sunday, Dec. 15, 2024. The event was hosted by... 
+
+<br> 
+
+<https://sundial.csun.edu/189710/arts-entertainment/voves-end-of-year-showcase-a-celebration-of-music/>
+
+---
+
+## On The Steps Episode 2: UCLA celebrates Lunar New Year
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+This week, the Daily Bruin looks at how students welcomed the Year of the Snake. We also take you inside Cherry Pop Records, UCLA&#8217;s student run record label, and the most recent men&#8217;s tennis game against Berkeley. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/on-the-steps-episode-2-ucla-celebrates-lunar-new-year/>
+
+---
+
+## Helping Hands Across the Country for LA Fire Relief
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Across the nation, people are coming together to support those impacted by the devastating Los Angeles fires. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/helping-hands-across-the-country-for-la-fire-relief/>
+
+---
+
+## Nimoy Theater wins architectural award for renovations highlighting historic roots
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The newly renovated Nimoy Theater in Westwood won the Best Hospitality Project Award at the Los Angeles Business Council&#8217;s 54th Annual Architectural Awards this October.
+The recent renovations recognized the theater&#8217;s transformation from a historic cinema into a modern state-of-the-art performance space. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/nimoy-theater-wins-architectural-award-for-renovations-highlighting-historic-roots/>
+
+---
+
+## Santa Anita Donation Drive Unites Community After Wildfires
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A massive impromptu donation center for victims devastated by the Eaton and Palisades wildfires was held in the parking lot of the Santa Anita Racetrack in Arcadia CA on January 12. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/santa-anita-donation-drive-unites-community-after-wildfires/>
 
 ---
 
@@ -1034,106 +1121,4 @@ Overdose deaths among young people have been rising for years, said Joseph Fried
 <br> 
 
 <https://dailybruin.com/2025/02/01/experts-discuss-fentanyls-role-in-overdose-deaths-share-prevention-plans/>
-
----
-
-## Bruin Baking: Winter Holiday Cookies
-
-date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-In the spirit of winter, join Daily Bruin reporter Nora Gallagher as she revisits the holidays by trying out new Christmas cookie recipes. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/01/bruin-baking-winter-holiday-cookies/>
-
----
-
-## PRIME: Not just athletes
-
-date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-Dakotah Tyler started watching astronomy documentaries while rehabilitating a knee injury. He developed a fascination with the cosmos after realizing that his life – just like many planets and stars – was a mere speck in the infinite expanse of the universe. 
-
-<br> 
-
-<https://prime.dailybruin.com/primeblackathletes>
-
----
-
-## On The Steps Episode 1: Community comes together in aftermath of LA fires
-
-date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-This week, Daily Bruin Video looks at the community response to recent wildfires. We talk to students who evacuated the hill during week one, and we bring you stories of donation events from Altadena to New York. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/31/on-the-steps-episode-1-community-comes-together-in-aftermath-of-la-fires/>
-
----
-
-## USAC Cultural Affairs commissioner to face USA Judicial Board in Friday hearing
-
-date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-A member of the Undergraduate Students Association Council is set to face an antisemitism allegation before the USA Judicial Board on Friday.
-USAC Cultural Affairs Commissioner Alicia Verdugo has been accused by Bella Brannon, a fourth-year public affairs and religion student, of deliberately not hiring Jewish students &#8211; including Brannon &#8211; who applied to the commission during its fall 2024 hiring cycle. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/31/usac-cultural-affairs-commissioner-to-face-usa-judicial-board-in-friday-hearing/>
-
----
-
-## The Quad: Students transition their study habits as they start college
-
-date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-The abrupt transition from high school to college may leave Bruins reevaluating their study habits.
-Bradley Bohall, a third-year biology student, said his habit of last-minute cramming was not sustainable for the rigorous quarter system in college. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/31/the-quad-students-transition-their-study-habits-as-they-start-college/>
-
----
-
-## UCPD arrests 2 people for suspected mail theft from off-campus buildings
-
-date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-UCPD arrested two people in connection with the theft of mail from off-campus buildings Friday.
-The crime was reported around 4:30 a.m. Friday. Officers made contact with the suspects at the intersection of Midvale and Levering Avenue, according to an emailed statement from Jeffrey Chobanian, UCPD’s Acting Captain of the Administrative Bureau.&#160;
-Officers recovered pepper spray and what they suspected to be methamphetamine from the suspects, along with multiple objects suspected to be burglary tools – including a hammer, crowbars, pliers, screwdrivers and keys – Chobanian said in the statement.&#160; Mail had been stolen from University Apartments North among other buildings, he added
-The suspects were brought to Los Angeles County jail and face charges of burglary, mail theft, identity theft, misappropriation of lost property, possession of narcotics, possession of drug paraphernalia, possession of burglary tools and possession of tear gas. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/31/ucpd-arrests-2-people-for-suspected-mail-theft-from-off-campus-buildings/>
-
----
-
-## Regents discuss FAFSA changes for mixed-status families, policing reform for UC
-
-date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-SAN FRANCISCO &#8211; The UC Board of Regents heard a statement from UCLA Chancellor Julio Frenk and discussed new university initiatives, safety plans and updates on academic programs at its Jan. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/31/regents-discuss-fafsa-changes-for-mixed-status-families-policing-reform-for-uc/>
-
----
-
-## Album review: The Weeknd awaits the next day in his 6th studio album, “Hurry Up Tomorrow”
-
-date: 2025-02-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-For The Weeknd, tomorrow has finally arrived.
-Abel Tesfaye – the Canadian superstar who performs under the moniker The Weeknd – released his sixth studio album “Hurry Up Tomorrow” on Friday, which arrives three years after his last full-length LP “Dawn FM.” The new project covers 22 songs over 84 minutes of music and marks the end of a trilogy of The Weeknd’s albums that began with “After Hours” in 2020. 
-
-<br> 
-
-<https://dailybruin.com/2025/01/31/the-weeknd-awaits-the-next-day-in-his-6th-studio-album-hurry-up-tomorrow/>
 

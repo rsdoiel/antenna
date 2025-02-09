@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-02-08 07:05:41
+updated: 2025-02-09 07:04:55
 ---
 
 # food
 
-(date: 2025-02-08 07:05:41)
+(date: 2025-02-09 07:04:55)
+
+---
+
+## Blessed Be The Coffee Fruit: Lubberly Shrubbery Selections From The Coffee Experts At Sprudge
+
+date: 2025-02-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. A weekly selection of coffees from the Sprudge Roasters Village. 
+
+<br> 
+
+<https://sprudge.com/blessed-be-the-coffee-fruit-lubberly-shrubbery-selections-from-the-coffee-experts-at-sprudge-272410.html>
+
+---
+
+## 23 Grapefruit Recipes to Perk Up Your Day
+
+date: 2025-02-08, from: Bon Appetet
+
+Like a citrusy poppy seed cake, a sparkling amaro cocktail, and a twist on lemon bars. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/grapefruit-recipes>
 
 ---
 
@@ -1076,64 +1100,4 @@ date: 2025-02-02, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/football-season-snacking/>
-
----
-
-## Join the BA Bake Club
-
-date: 2025-02-01, from: Bon Appetet
-
-Test kitchen baking experts Jesse Szewczyk and Shilpa Uskokovic share must-make recipes and answer your burning questions. 
-
-<br> 
-
-<https://www.bonappetit.com/story/bake-club>
-
----
-
-## Tiramisu Basque Cheesecake
-
-date: 2025-02-01, from: Bon Appetet
-
-Two of our all-time favorite desserts, now in one new classic. 
-
-<br> 
-
-<https://www.bonappetit.com/recipe/tiramisu-basque-cheesecake>
-
----
-
-## 23 Recipes With Phyllo Dough, Both Sweet and Savory
-
-date: 2025-02-01, from: Bon Appetet
-
-Like ruffled guava and goat cheese pie, cheesy sesame seed crackers, pistachio baklava, and more. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/recipes-with-phyllo-dough>
-
----
-
-## A Citrusy Oatmeal to Chase Away the Winter Blues
-
-date: 2025-02-01, from: Bon Appetet
-
-February's Feel-Good Food Plan is filled with bright recipes and soothing habits. 
-
-<br> 
-
-<https://www.bonappetit.com/story/feel-good-food-plan-february-2025>
-
----
-
-## Super Citrusy Oatmeal
-
-date: 2025-02-01, from: Bon Appetet
-
-The ultimate antidote to the winter blues. 
-
-<br> 
-
-<https://www.bonappetit.com/recipe/super-citrusy-oatmeal>
 

@@ -1,11 +1,157 @@
 ---
 title: socal north
-updated: 2025-02-08 07:05:34
+updated: 2025-02-09 07:04:50
 ---
 
 # socal north
 
-(date: 2025-02-08 07:05:34)
+(date: 2025-02-09 07:04:50)
+
+---
+
+## Meet Orange County's master of love
+
+date: 2025-02-09, updated: 2025-02-09, from: The LAist
+
+As the clerk-recorder of Orange County, Hugh Nguyen has many duties — including coming up with new ways to make it easy for folks to put a ring on it. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/meet-orange-countys-master-of-love>
+
+---
+
+## Why this part of Glendale will always be Kansas City Chiefs country
+
+date: 2025-02-09, updated: 2025-02-09, from: The LAist
+
+Chiefs Coach Andy Reid left his mark as a player at Glendale College and has given back to the school after becoming an NFL legend. 
+
+<br> 
+
+<https://laist.com/news/education/why-this-part-of-glendale-will-always-be-kansas-city-chiefs-country>
+
+---
+
+## His house survived the Eaton Fire — for now, he's figured out a way to stay
+
+date: 2025-02-09, updated: 2025-02-09, from: The LAist
+
+Rob Caves and his partner's Christmas Tree Lane home survived the Eaton Fire, like the majority of houses on his block. But with ash in the air and no drinkable water, few of his neighbors have returned. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/his-house-survived-the-eaton-fire-for-now-hes-figured-out-a-way-to-stay>
+
+---
+
+## Reparations study seeks remedies for harm done to LA's Black communities
+
+date: 2025-02-09, updated: 2025-02-09, from: The LAist
+
+The study, led by L.A.’s Reparations Advisory Commission, makes more than 60 recommendations organized into categories, including racial terror, housing segregation, and political disenfranchisement. 
+
+<br> 
+
+<https://laist.com/news/politics/reparations-study-los-angeles-black-communities>
+
+---
+
+## House burned to the ground by Eaton Fire in escrow for $550,000
+
+date: 2025-02-08, updated: 2025-02-09, from: The LAist
+
+The house was listed for $450,000. Its listing agent expects escrow to close early next week. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/house-burned-to-the-ground-by-eaton-fire-in-escrow-for-550-000>
+
+---
+
+## Santa Clarita Voices Is On Air!
+
+date: 2025-02-08, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin In today’s fast-paced world, finding the time to stay informed and learn about new subjects can be a challenge; which is why I have always been a huge fan of the ease and flexibility of podcasts whether I’m using my AirPods to listen while exercising, playing through the car while [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/08/santa-clarita-voices-is-on-air/">Santa Clarita Voices Is On Air!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/08/santa-clarita-voices-is-on-air/>
+
+---
+
+## Newsom OK’s a $25 million fund for California to sue the Trump administration
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+Gov. Gavin Newsom today approved $25 million for anticipated legal challenges against the Trump administration, positioning California to once again lead the resistance to the MAGA movement — just as the state is seeking federal assistance for the Los Angeles region’s recovery from devastating fires. 
+
+<br> 
+
+<https://laist.com/news/politics/newsom-oks-a-25-million-fund-for-california-to-sue-the-trump-administration>
+
+---
+
+## I thought my family keepsakes were gone after the fire. Then I found these volunteers
+
+date: 2025-02-08, updated: 2025-02-09, from: The LAist
+
+Churchgoers recruited by Samaritan’s Purse have helped hundreds of Altadenans recover valuables. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/samaritans-purse-rubble-eaton-fire>
+
+---
+
+## Go Fact Yourself quiz for February 8
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+This week on Go Fact Yourself, it's our "Best of Football" special. Think you know your Super Bowl facts? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-february-8>
+
+---
+
+## Which SoCal sea creatures are struggling? Check their grades
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+The Aquarium of the Pacific releases its first report card on local sea life. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/aquarium-of-the-pacific-socal-marine-species>
+
+---
+
+## Newsom urges both sides in Kaiser mental health strike to find resolution after fires
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+Gov. Gavin Newsom sent a letter to Kaiser and the union president urging them to settle the strike through mediation. 
+
+<br> 
+
+<https://laist.com/news/health/newsom-kaiser-mental-health-strike-mediation>
+
+---
+
+## Water utilities are flushing pipes to clean drinking water after the fires. Here’s what to know
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+Pushing out contaminants allows a fresh supply of water to come in. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-ladwp-water-quality-do-not-drink-eaton-palisades>
 
 ---
 
@@ -200,7 +346,7 @@ A 2019 infrastructure report card gave the state’s levees a "D," citing that d
 
 ## Saving Cupcake: The mission to rescue Pasadena's class pets from the Eaton Fire
 
-date: 2025-02-07, updated: 2025-02-07, from: The LAist
+date: 2025-02-07, updated: 2025-02-08, from: The LAist
 
 A bunny rescue grew into a district-wide effort to locate, save and care for lizards, snakes, rats and fish at a half-a-dozen schools. 
 
@@ -1280,102 +1426,4 @@ Big tech energy needs, including for artificial intelligence, has elected offici
 <br> 
 
 <https://laist.com/news/artificial-intelligence-is-bringing-nuclear-power-back-from-the-dead-maybe-even-in-california>
-
----
-
-## Hours before planned Palisades' public reopening, Bass reverses course
-
-date: 2025-02-01, updated: 2025-02-02, from: The LAist
-
-Reopening of the Palisades was scheduled for 8 a.m. Sunday. But on Saturday night, L.A. Mayor Karen Bass said checkpoints will remain in place, after she secured additional law enforcement resources from Gov. Gavin Newsom. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/palisades-to-reopen-sunday>
-
----
-
-## Make It Date Night at The MAIN This Valentine’s Day
-
-date: 2025-02-01, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin With Valentine’s Day just around the corner, planning the perfect date night might feel overwhelming—but don’t worry, Old Town Newhall has you covered! The City’s premier arts and entertainment district is the ultimate destination for a memorable evening, offering a charming blend of history, entertainment and dining. Start your night [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/02/01/make-it-date-night-at-the-main-this-valentines-day/">Make It Date Night at The MAIN This Valentine’s Day</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/02/01/make-it-date-night-at-the-main-this-valentines-day/>
-
----
-
-## Malibu’s ocean life isn’t safe from fire, and the worst effects are yet to come
-
-date: 2025-02-01, updated: 2025-02-01, from: The LAist
-
-Marine biologists prepare to study damage from debris flows, nutrient imbalance and toxic contaminants. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/malibu-fire-impacts-ocean-life>
-
----
-
-## 17 employees helped save the Getty Villa from the fires. They're telling other museums how it was done
-
-date: 2025-02-01, updated: 2025-02-01, from: The LAist
-
-Museums in New York and Chicago want to hear what worked and what didn’t at the Getty Villa. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/employees-helped-save-the-getty-villa-from-the-fires>
-
----
-
-## Waymo is taking on LA freeways. Keep calm and carry on
-
-date: 2025-02-01, updated: 2025-02-01, from: The LAist
-
-It's actually easier for Waymo to tackle Los Angeles' freeways than our surface streets. Go figure. 
-
-<br> 
-
-<https://laist.com/news/transportation/waymo-freeways-los-angeles>
-
----
-
-## Go Fact Yourself quiz for February 1
-
-date: 2025-02-01, updated: 2025-02-01, from: The LAist
-
-Our celebrity panelists Drew Carey and Yesika Salgado go head to head this week on their knowledge of garage rock and the film 'Dirty Dancing.' Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-february-1>
-
----
-
-## 17 employees helped save the Getty Villa from the fires. They're telling other museums how it was done
-
-date: 2025-02-01, updated: 2025-02-01, from: The LAist
-
-Museums in New York and Chicago want to hear what worked and what didn’t at the Getty Villa. 
-
-<br> 
-
-<https://laist.com/news/employees-helped-save-the-getty-villa-from-the-fires>
-
----
-
-## Here’s how LA County plans to spend your tax dollars on homelessness
-
-date: 2025-02-01, updated: 2025-02-01, from: The LAist
-
-County officials recommend some cuts to homeless services, part of a changing approach ahead of the Measure A sales tax kicking in in April. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/homeless-funding-prevention-cuts-measure-a-services>
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-08 07:05:39
+updated: 2025-02-09 07:04:54
 ---
 
 # retro computing
 
-(date: 2025-02-08 07:05:39)
+(date: 2025-02-09 07:04:54)
+
+---
+
+## b.log 2025/02/08 - ESP32 SDK craziness, The Letterbox gizmo, Linky weirdness.
+
+date: 2025-02-08, from: Richard Murray's blog
+
+ESP32 SDK craziness, The Letterbox gizmo, Linky weirdness. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250208>
 
 ---
 
@@ -102,28 +114,4 @@ date: 2025-02-02, from: FreeDOS News
 <br> 
 
 <https://sourceforge.net/p/freedos/news/2025/02/mgrx-151/>
-
----
-
-## Discwasher SpikeMaster
-
-date: 2025-02-01, from: Computer ads from the Past
-
-Meet the Mighty SpikeMaster, Protector of Computers. 
-
-<br> 
-
-<https://computeradsfromthepast.substack.com/p/discwasher-spikemaster>
-
----
-
-## b.log 2025/02/01 - Electricity bill, Enedis, DeepSeek, Defining Sex, Cluck!
-
-date: 2025-02-01, from: Richard Murray's blog
-
-Electricity bill, Enedis, DeepSeek, Defining Sex, Cluck! 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20250201>
 

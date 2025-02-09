@@ -1,11 +1,241 @@
 ---
 title: home
-updated: 2025-02-08 07:05:39
+updated: 2025-02-09 07:04:53
 ---
 
 # home
 
-(date: 2025-02-08 07:05:39)
+(date: 2025-02-09 07:04:53)
+
+---
+
+## Black Hills Spruce Care and Growing Guide with Ultimate Tips
+
+date: 2025-02-09, from: Yard Life blog
+
+<p>The Black Hills Spruce (Picea glauca var. densata) is a dense, slow-growing evergreen tree that is native to North America. ... </p>
+<p class="read-more-container"><a title="Black Hills Spruce Care and Growing Guide with Ultimate Tips" class="read-more button" href="https://ownyardlife.com/black-hills-spruce-care-and-growing-guide-with-ultimate-tips/#more-23272" aria-label="Read more about Black Hills Spruce Care and Growing Guide with Ultimate Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/black-hills-spruce-care-and-growing-guide-with-ultimate-tips/">Black Hills Spruce Care and Growing Guide with Ultimate Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/black-hills-spruce-care-and-growing-guide-with-ultimate-tips/>
+
+---
+
+## How to Choose the Best Location to Grow Roses in Your Yard
+
+date: 2025-02-09, from: The Gardener's Path
+
+<p>A poorly placed rose might not bloom, or it may struggle with disease. That’s why it’s important to pick the best spot in your garden. The right sun, spacing, and soil will make all the difference between a plant that lives up to its potential, and one that fails to thrive. This guide provides all the info you need.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-rose-location/">How to Choose the Best Location to Grow Roses in Your Yard</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-rose-location/>
+
+---
+
+## Titan Arum (Amorphophallus titanum) Care and Growing Guide
+
+date: 2025-02-09, from: Yard Life blog
+
+<p>Titan Arum (Amorphophallus titanum), also known as the &#8220;corpse flower,&#8221; is one of the rarest and most fascinating plants in ... </p>
+<p class="read-more-container"><a title="Titan Arum (Amorphophallus titanum) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/titan-arum-amorphophallus-titanum-care-and-growing-guide/#more-23264" aria-label="Read more about Titan Arum (Amorphophallus titanum) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/titan-arum-amorphophallus-titanum-care-and-growing-guide/">Titan Arum (Amorphophallus titanum) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/titan-arum-amorphophallus-titanum-care-and-growing-guide/>
+
+---
+
+## Raising Backyard Chickens 101: The Best Beginner’s Guide
+
+date: 2025-02-08, from: Homestead and Chil
+
+<p>Here is the ultimate beginner's guide on responsibly raising chickens. This article will cover everything from where to get chickens, how to provide them a safe and happy habitat, free ranging considerations, daily care, food, water and more! </p>
+<p>The post <a href="https://homesteadandchill.com/raising-backyard-chickens-101-beginners-guide/">Raising Backyard Chickens 101: The Best Beginner&#8217;s Guide</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/raising-backyard-chickens-101-beginners-guide/>
+
+---
+
+## How to Grow and Care for Evergreen Dogwood
+
+date: 2025-02-08, from: The Gardener's Path
+
+<p>Evergreen dogwoods (Cornus capitata) stand out from their Cornus cousins thanks to the pretty white spring flowers followed by strawberry-like fruit, with gorgeous green foliage that doesn't drop in the fall. Learn how to grow and care for these low-maintenance landscape trees in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-evergreen-dogwood/">How to Grow and Care for Evergreen Dogwood</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-evergreen-dogwood/>
+
+---
+
+## From Comfort Foods to Date Night Dishes, These Are the Recipes to Cook in February
+
+date: 2025-02-08, from: Sunset Magazine - Living in the West
+
+February is finally here. What better way to celebrate a new month than trying out new dishes for the Super Bowl, Valentine's Day, and more. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/february-recipe-ideas>
+
+---
+
+## Going out for Valentine’s Day Is Overrated. Make These Date Night Recipes at Home Instead.
+
+date: 2025-02-08, from: Sunset Magazine - Living in the West
+
+Set the mood for romance this Valentine's Day or on any special occasion by cooking up these Valentine's Day recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/valentines-day-recipes>
+
+---
+
+## How to Save Mustard Green Seeds for Planting
+
+date: 2025-02-08, from: The Gardener's Path
+
+<p> Fast-growing and spicy, homegrown mustard greens will produce a lot of seeds that can be collected and stored for future planting. Saving seeds from your plants is an economical way to ensure a bountiful crop of your favorite varieties in future seasons. Discover when and how to harvest your own mustard green seeds.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/save-mustard-green-seeds/">How to Save Mustard Green Seeds for Planting</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/save-mustard-green-seeds/>
+
+---
+
+## Bitterroot (Lewisia rediviva) Care and Growing Guide
+
+date: 2025-02-08, from: Yard Life blog
+
+<p>Bitterroot (Lewisia rediviva) is a stunning perennial plant native to western North America. Known for its vibrant, cup-shaped flowers and ... </p>
+<p class="read-more-container"><a title="Bitterroot (Lewisia rediviva) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/bitterroot-lewisia-rediviva-care-and-growing-guide/#more-23259" aria-label="Read more about Bitterroot (Lewisia rediviva) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/bitterroot-lewisia-rediviva-care-and-growing-guide/">Bitterroot (Lewisia rediviva) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/bitterroot-lewisia-rediviva-care-and-growing-guide/>
+
+---
+
+## Sabal Palmetto (Cabbage Palm) Care and Growing Guide
+
+date: 2025-02-08, from: Yard Life blog
+
+<p>Sabal palmetto, also known as the cabbage palm, is a hardy and iconic palm tree native to the southeastern United ... </p>
+<p class="read-more-container"><a title="Sabal Palmetto (Cabbage Palm) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/sabal-palmetto-cabbage-palm-care-and-growing-guide/#more-23255" aria-label="Read more about Sabal Palmetto (Cabbage Palm) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/sabal-palmetto-cabbage-palm-care-and-growing-guide/">Sabal Palmetto (Cabbage Palm) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/sabal-palmetto-cabbage-palm-care-and-growing-guide/>
+
+---
+
+## Paper Birch (Betula papyrifera) Care and Growing Guide
+
+date: 2025-02-08, from: Yard Life blog
+
+<p>Paper Birch (Betula papyrifera), also known as white birch or canoe birch, is a deciduous tree native to North America. ... </p>
+<p class="read-more-container"><a title="Paper Birch (Betula papyrifera) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/paper-birch-betula-papyrifera-care-and-growing-guide/#more-23251" aria-label="Read more about Paper Birch (Betula papyrifera) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/paper-birch-betula-papyrifera-care-and-growing-guide/">Paper Birch (Betula papyrifera) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/paper-birch-betula-papyrifera-care-and-growing-guide/>
+
+---
+
+## Loblolly Pine (Pinus taeda) Care and Growing Guide
+
+date: 2025-02-08, from: Yard Life blog
+
+<p>Loblolly Pine (Pinus taeda) is one of the most common pine species in the southeastern United States. Its rapid growth, ... </p>
+<p class="read-more-container"><a title="Loblolly Pine (Pinus taeda) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/loblolly-pine-pinus-taeda-care-and-growing-guide/#more-23246" aria-label="Read more about Loblolly Pine (Pinus taeda) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/loblolly-pine-pinus-taeda-care-and-growing-guide/">Loblolly Pine (Pinus taeda) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/loblolly-pine-pinus-taeda-care-and-growing-guide/>
+
+---
+
+## Quaking Aspen (Populus tremuloides) Care and Growing Guide
+
+date: 2025-02-08, from: Yard Life blog
+
+<p>Quaking Aspen (Populus tremuloides) is a beautiful and fast-growing deciduous tree known for its vibrant yellow fall foliage and distinctive ... </p>
+<p class="read-more-container"><a title="Quaking Aspen (Populus tremuloides) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/quaking-aspen-populus-tremuloides-care-and-growing-guide/#more-23239" aria-label="Read more about Quaking Aspen (Populus tremuloides) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/quaking-aspen-populus-tremuloides-care-and-growing-guide/">Quaking Aspen (Populus tremuloides) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/quaking-aspen-populus-tremuloides-care-and-growing-guide/>
+
+---
+
+## Oregon Grape (Mahonia aquifolium) Care and Growing Guide
+
+date: 2025-02-08, from: Yard Life blog
+
+<p>Oregon Grape (Mahonia aquifolium) is an evergreen shrub known for its striking yellow flowers, holly-like leaves, and deep blue berries. ... </p>
+<p class="read-more-container"><a title="Oregon Grape (Mahonia aquifolium) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/oregon-grape-mahonia-aquifolium-care-and-growing-guide/#more-23233" aria-label="Read more about Oregon Grape (Mahonia aquifolium) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/oregon-grape-mahonia-aquifolium-care-and-growing-guide/">Oregon Grape (Mahonia aquifolium) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/oregon-grape-mahonia-aquifolium-care-and-growing-guide/>
+
+---
+
+## Gardenia jasminoides (Cape jasmine) Care and Growing Guide
+
+date: 2025-02-08, from: Yard Life blog
+
+<p>Gardenia jasminoides, commonly known as Cape Jasmine, is an evergreen shrub that is widely admired for its captivating fragrance and ... </p>
+<p class="read-more-container"><a title="Gardenia jasminoides (Cape jasmine) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/gardenia-jasminoides-cape-jasmine-care-and-growing-guide/#more-23229" aria-label="Read more about Gardenia jasminoides (Cape jasmine) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/gardenia-jasminoides-cape-jasmine-care-and-growing-guide/">Gardenia jasminoides (Cape jasmine) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/gardenia-jasminoides-cape-jasmine-care-and-growing-guide/>
+
+---
+
+## 30 Stunning Flowers That Bloom at Night (Pictures and Names)
+
+date: 2025-02-08, from: Yard Life blog
+
+<p>Flowers that bloom at night possess an ethereal beauty that captivates garden enthusiasts and nature lovers alike. These nocturnal blooms ... </p>
+<p class="read-more-container"><a title="30 Stunning Flowers That Bloom at Night (Pictures and Names)" class="read-more button" href="https://ownyardlife.com/30-stunning-flowers-that-bloom-at-night-pictures-and-names/#more-23189" aria-label="Read more about 30 Stunning Flowers That Bloom at Night (Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-stunning-flowers-that-bloom-at-night-pictures-and-names/">30 Stunning Flowers That Bloom at Night (Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-stunning-flowers-that-bloom-at-night-pictures-and-names/>
 
 ---
 
@@ -433,18 +663,6 @@ Savvy gardeners know winter is a critical season for setting up your landscape f
 <br> 
 
 <https://www.sunset.com/home-garden/garden-basics/winter-gardening-tasks>
-
----
-
-## Going Out for Valentine’s Day Is Overrated. Make These Date Night Recipes at Home Instead.
-
-date: 2025-02-06, from: Sunset Magazine - Living in the West
-
-Set the mood for romance this Valentine's Day or on any special occasion by cooking up these Valentine's Day recipes. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/valentines-day-recipes>
 
 ---
 
@@ -1228,94 +1446,4 @@ date: 2025-02-02, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/how-to-grow-kale/>
-
----
-
-## Easy Sourdough Pancakes Recipe (Discard or Active Starter) + Topping Ideas
-
-date: 2025-02-01, from: Homestead and Chil
-
-<p>You're going to love these fluffy, golden sourdough pancakes. You can use discarded sourdough starter or active starter in this recipe. Homemade sourdough pancakes are absolutely delicious, and more nutritious than boxed pancake mix!</p>
-<p>The post <a href="https://homesteadandchill.com/sourdough-pancakes/">Easy Sourdough Pancakes Recipe (Discard or Active Starter) + Topping Ideas</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/sourdough-pancakes/>
-
----
-
-## How to Grow and Care for Urn Plants (Silver Vase Bromeliad)
-
-date: 2025-02-01, from: The Gardener's Path
-
-<p>Urn plant, aka silver vase, is an epiphytic bromeliad native to the Brazilian rainforests. It features variegated foliage streaked with silver and dramatic pinkish-purple, lily-like blooms. Learn how to grow and care for Aechmea fasciata outdoors in Zones 10 to 11 or as a houseplant in this guide. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-urn-plant/">How to Grow and Care for Urn Plants (Silver Vase Bromeliad)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/houseplants/grow-urn-plant/>
-
----
-
-## These Braises and Brines Will Instantly Elevate Dinner
-
-date: 2025-02-01, from: Sunset Magazine - Living in the West
-
-Extract all the flavor you can from meat with these braises and brines. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/braises-brines-recipes>
-
----
-
-## How One Oakland Couple Turned Their Garage into the Guest Suite of Their Dreams
-
-date: 2025-02-01, from: Sunset Magazine - Living in the West
-
-The six-month renovation of the Rockridge Casita in Oakland reveals an adorable space for guests and homeowners alike. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/garage-makeover-guest-suite>
-
----
-
-## You Can Turn Your Neglected Garage into a Party Pavilion. Here’s How to Do It
-
-date: 2025-02-01, from: Sunset Magazine - Living in the West
-
-When a Pasadena couple wanted to transform a garage into stylish place to host friends—and watch baseball games—designer Liza Reyes stepped up to the plate to create this ultimate party pavilion. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/garage-party-pavilion>
-
----
-
-## This 3-Car Garage and Boathouse Has a Stunning Surprise Upstairs
-
-date: 2025-02-01, from: Sunset Magazine - Living in the West
-
-The owners of a Montana property originally wanted a three-car garage, but the project evolved into boathouse guest dwelling. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/montana-boathouse-garage-guesthouse>
-
----
-
-## January in Jacques’ Food Garden
-
-date: 2025-02-01, from: Greg Alder's blog, Yard Post
-
-<p>&#8220;Be Your Own Farmer,&#8221; reads the sticker on the back of Jacques&#8217; truck. And he lives it. And his family reaps the rewards. As do I. I&#8217;ve never visited Jacques&#8217; place without him taking me on a tour and sharing samples of whatever is ripe. What&#8217;s more, even as some of the food plants that [&#8230;]</p>
-<p>The post <a href="https://gregalder.com/yardposts/january-in-jacques-food-garden/">January in Jacques&#8217; Food Garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
- 
-
-<br> 
-
-<https://gregalder.com/yardposts/january-in-jacques-food-garden/>
 

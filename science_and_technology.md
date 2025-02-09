@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-02-08 07:05:36
+updated: 2025-02-09 07:04:51
 ---
 
 # science and technology
 
-(date: 2025-02-08 07:05:36)
+(date: 2025-02-09 07:04:51)
+
+---
+
+## Does DOGE have what it takes to actually tackle billions in US govt IT spending?
+
+date: 2025-02-08, updated: 2025-02-09, from: The Register (UK I.T. News)
+
+<h4>Tesla’s DIY ERP legend meets the messy reality of entrenched federal contracts</h4> <p><strong>Comment</strong>  Tesla reportedly decided not to upgrade its SAP&#39;s enterprise software a decade ago, opting to build its own system instead. Now, with Elon Musk heading up the Trump-blessed US Department of Government Efficiency (DOGE), his cost-cutting mindset could have major implications for federal IT spending - and the big tech vendors cashing in on government contracts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/08/doge_us_goverment_tech_spending/>
+
+---
+
+## France, UAE to drop €50B on AI mega-datacenter. Still nowhere near America’s $500B bet
+
+date: 2025-02-08, updated: 2025-02-08, from: The Register (UK I.T. News)
+
+<h4>Oh look, a mini Stargate, how quaint</h4> <p>The United Arab Emirates (UAE) and France this week announced plans for a one-gigawatt AI datacenter campus dedicated to advancing development of artificial intelligence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/08/uae_france_dc_ai/>
+
+---
+
+## New boss for Roscosmos as Yury Borisov binned
+
+date: 2025-02-08, updated: 2025-02-08, from: The Register (UK I.T. News)
+
+<h4>Vladimir Putin opens airlock after just three years</h4> <p>Roscosmos boss Yury Borisov has been fired from the Russian space agency by executive order of the country&#39;s president, Vladimir Putin.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/08/roscosmos_new_leader/>
+
+---
+
+## Amazon, Google asked to explain why they were serving ads on sites hosting CSAM
+
+date: 2025-02-08, updated: 2025-02-09, from: The Register (UK I.T. News)
+
+<h4>And US government adverts at that, say senators</h4> <p><strong>Updated</strong>  US Senators Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) on Friday sent letters to the CEOs of Amazon and Google asking why their ad businesses fund websites hosting child sexual abuse material (CSAM) and allow government ads to appear on sites with illegal imagery.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/08/amazon_google_accused_of_monetizing/>
 
 ---
 
@@ -3350,52 +3398,4 @@ date: 2025-02-02, updated: 2025-02-02, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/02/raymond_chen_restarts_updates/>
-
----
-
-## Intel has officially missed the boat for AI in the datacenter
-
-date: 2025-02-01, updated: 2025-02-02, from: The Register (UK I.T. News)
-
-<h4>But it still has a chance at the network edge and the PC</h4> <p><strong>Comment</strong>  Any hope Intel may have had of challenging rivals Nvidia and AMD for a slice of the AI accelerator market dissolved on Thursday as yet another GPU architecture was scrapped.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/01/intel_ai_datacenter/>
-
----
-
-## DeepSeek or DeepFake? Our vultures circle China's hottest AI
-
-date: 2025-02-01, updated: 2025-02-03, from: The Register (UK I.T. News)
-
-<h4>If this keeps Silicon Valley on its toes and honest, who are we to complain?</h4> <p><strong>Kettle</strong>  There&#39;s really only one topic for the Kettle this week. DeepSeek.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/01/deepseek_kettle_ai/>
-
----
-
-## Discover How Four Black College Students Sparked a Nationwide Civil Rights Movement, on This Date in 1960
-
-date: 2025-02-01, from: Smithsonian Magazine
-
-By sitting down to lunch at a North Carolina department store, the brave men inspired many others to take part in nonviolent acts of civil disobedience 
-
-<br> 
-
-<https://www.smithsonianmag.com/smart-news/discover-how-four-black-college-students-sparked-a-nationwide-civil-rights-movement-on-this-date-in-1960-180985908/>
-
----
-
-## Windows 11 stages a comeback – still miles behind older sibling
-
-date: 2025-02-01, updated: 2025-02-01, from: The Register (UK I.T. News)
-
-<h4>Microsoft&#39;s latest OS claws back market share from Windows 10, but the finish line is a long way off</h4> <p>Microsoft appears to be starting the year with a rebound in Windows 11 adoption as the latest figures show the operating system reversing its recent months&#39; long declines.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/01/windows_11_statcounter/>
 

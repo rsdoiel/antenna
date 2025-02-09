@@ -1,11 +1,175 @@
 ---
 title: going electric
-updated: 2025-02-08 07:05:40
+updated: 2025-02-09 07:04:54
 ---
 
 # going electric
 
-(date: 2025-02-08 07:05:40)
+(date: 2025-02-09 07:04:54)
+
+---
+
+## E-quipment highlight: Husqvarna Automower EPOS electric robot lawnmowers
+
+date: 2025-02-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Husqvarna_580L_535_AWD_EPOS__1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>They may look like beefed up Roombas, but the new 535 and AWD 580L EPOS robotic lawn mowers from Husqvarna leverage the brand’s decades of outdoor power products expertise to deliver commercial-grade capability in an innovative package.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,husqvarna,robots" data-layer-viewtype="unknown" data-post-id="401088" href="https://electrek.co/2025/02/09/e-quipment-highlight-husqvarna-automower-epos-electric-robot-lawnmowers/#more-401088" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/09/e-quipment-highlight-husqvarna-automower-epos-electric-robot-lawnmowers/>
+
+---
+
+## New EU copyright spurs hope of an electrified Lancia Fulvia comeback
+
+date: 2025-02-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/LanciaFulvia2003.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a new copyright filing at the European Union Intellectual Property Office (EUIPO) from January 30th, Stellantis has reserved exclusive rights to apply the <a href="https://en.wikipedia.org/wiki/Lancia_Fulvia">Fulvia</a> name to, “powered vehicles for use on land.” And, while that’s a long way from a confirmation – there’s reason to hope.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lancia,stellantis" data-layer-viewtype="unknown" data-post-id="401070" href="https://electrek.co/2025/02/09/new-eu-copyright-spurs-hope-of-an-electrified-lancia-fulvia-comeback/#more-401070" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/09/new-eu-copyright-spurs-hope-of-an-electrified-lancia-fulvia-comeback/>
+
+---
+
+## How adult-site OnlyFans helped this high-tech handlebar come to market
+
+date: 2025-02-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/flitedeck-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’ve spent years following interesting high-tech developments in the e-bike industry, often while the more traditional non-electric cycling industry has had to make do with comparatively lower-tech leaps. But now all cyclists can rejoice in an interesting new “smart handlebar” that happens to have gotten a friendly helping hand from an unlikely source.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="401092" href="https://electrek.co/2025/02/09/how-adult-site-onlyfans-helped-this-high-tech-handlebar-come-to-market/#more-401092" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/09/how-adult-site-onlyfans-helped-this-high-tech-handlebar-come-to-market/>
+
+---
+
+## Is this America’s first electric refrigerated catering truck for aviation?
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Mallaghan-Launches-North-Americas-First-Electric-Catering-Truck-3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global airport ground support equipment (GSE) manufacturer Mallaghan just deployed what it says is North America’s first ever fully electric refrigerated catering truck designed specifically for the aviation industry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="airports,aviation,commercial-evs" data-layer-viewtype="unknown" data-post-id="401052" href="https://electrek.co/2025/02/08/is-this-americas-first-electric-refrigerated-catering-truck-for-aviation/#more-401052" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/is-this-americas-first-electric-refrigerated-catering-truck-for-aviation/>
+
+---
+
+## Tesla Sales Are Tanking Across The World
+
+date: 2025-02-08, from: Inside EVs News
+
+Blame the Musk Effect, declining EV subsidies or all of the above. But Tesla's global sales are off to a very bad start for 2025. 
+
+<br> 
+
+<https://insideevs.com/news/750076/tesla-sales-tanking-globally/>
+
+---
+
+## A Tesla Model 3 Slow-Charged In -15 Degree Temperatures. Here’s How It Went
+
+date: 2025-02-08, from: Inside EVs News
+
+Can a Level 1 charger top up the batteries after a freezing night outside? 
+
+<br> 
+
+<https://insideevs.com/news/749828/tesla-model-3-freezing-night-level-1-charger/>
+
+---
+
+## Pet Valu deploys electric semi trucks so pets can breathe a bit easier
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/pet_valu-electric-volvo.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>They may not <em>purr</em> like a well-tuned diesel, but Pet Valu has added two brand-new, whisper-quiet Volvo VNR Electric semi trucks to its growing logistics fleet as part of the company’s ongoing effort to transform its supply chain into one that’s more efficient, and more sustainable.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="401033" href="https://electrek.co/2025/02/08/pet-valu-deploys-electric-semi-trucks-so-pets-can-breathe-a-bit-easier/#more-401033" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/pet-valu-deploys-electric-semi-trucks-so-pets-can-breathe-a-bit-easier/>
+
+---
+
+## Milestone: TRC reaches $2 billion in commercial ZEV funding
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/commercial-truck-CASH.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Consulting firm TRC has made a name for itself in the clean trucking space both for managing <a href="https://electrek.co/?s=act+expo">the ACT Expo</a> and helping commercial fleets navigate the increasingly complex world of ZEV incentives. This week, the company reached a major milestone: <strong>$2 billion in funding</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,funding" data-layer-viewtype="unknown" data-post-id="401020" href="https://electrek.co/2025/02/08/milestone-trc-reaches-2-billion-in-commercial-zev-funding/#more-401020" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/milestone-trc-reaches-2-billion-in-commercial-zev-funding/>
+
+---
+
+## Lucid Aims To Be 20% Car Company, 80% Tech Supplier: CEO
+
+date: 2025-02-08, from: Inside EVs News
+
+Peter Rawlinson said the goal is to get Lucid tech into Hondas and Toyotas, and the cars are a "shop window" to do that. 
+
+<br> 
+
+<https://insideevs.com/news/750043/lucid-ceo-supplier-peter-rawlinson/>
+
+---
+
+## First ever electric rail car mover gets to work at Port of Baltimore [video]
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/baltimore_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Helen Delich Bentley Port of Baltimore has announced a first for the contemporary American maritime industry: a battery-electric rail car mover that can organize the rail yard without dirtying up the air around it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-railcar" data-layer-viewtype="unknown" data-post-id="401000" href="https://electrek.co/2025/02/08/first-ever-electric-rail-car-mover-gets-to-work-at-port-of-baltimore-video/#more-401000" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/first-ever-electric-rail-car-mover-gets-to-work-at-port-of-baltimore-video/>
+
+---
+
+## Awesomely Weird Alibaba EV of the Week: This four-wheeled e-bike/car
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/cargo-bike-alibaba.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>When it comes to oddities of the electric vehicle variety, it doesn’t take much to pique my interest. If it’s got an electric motor and a funky shape, I’m down to clown. But being an electric bicycle guy through and through, anytime we can work some good ol’ pedaling action into the mix, I’m all the happier. And this week’s edition of the <a href="http://electrek.co/guides/alibaba">Awesomely Weird Alibaba Electric Vehicle of the Week </a>sure tickles my fancy!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba,ebikes" data-layer-viewtype="unknown" data-post-id="399346" href="https://electrek.co/2025/02/08/awesomely-weird-alibaba-ev-of-the-week-this-four-wheeled-e-bike-car/#more-399346" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/awesomely-weird-alibaba-ev-of-the-week-this-four-wheeled-e-bike-car/>
 
 ---
 
@@ -78,6 +242,10 @@ date: 2025-02-07, from: Electrek Feed
 date: 2025-02-07, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla sale dropping, the tariff situation, the Nissan/Honda deal falling through, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Electrek_372.mp3"></audio></figure>
 
 
 
@@ -1747,52 +1915,4 @@ date: 2025-02-02, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/02/01/will-the-new-trump-tariffs-on-china-increase-electric-bike-prices/>
-
----
-
-## Dannar Power Station concept continues to evolve beyond “just” power
-
-date: 2025-02-01, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/City-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Dannar keeps adapting its Mobile Power Station to meet the needs of the electrified off road market, bringing power to forests, construction sites, and rural farms when it’s needed. But now, the MPS doing more than just provide the power to do the work – its moving dirt!</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment,mobile-charging" data-layer-viewtype="unknown" data-post-id="400016" href="https://electrek.co/2025/02/01/dannar-power-station-concept-continues-to-evolve-beyond-just-power/#more-400016" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/02/01/dannar-power-station-concept-continues-to-evolve-beyond-just-power/>
-
----
-
-## Oshkosh airport of the future features autonomous ground support EVs
-
-date: 2025-02-01, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/osh-kosh.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leveraging its advanced autonomy stack, <a href="https://electrek.co/2024/09/12/us-postal-service-electric-trucks-are-finally-here-and-drivers-love-them/">Oshkosh</a> corporation’s AeroTech group has debuted a series of electric support vehicles for the “Airport of the Future” that includes this driverless, electric baggage and cargo handler.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="aviation,commercial-evs,oshkosh" data-layer-viewtype="unknown" data-post-id="399992" href="https://electrek.co/2025/02/01/oshkosh-airport-of-the-future-features-autonomous-ground-support-evs/#more-399992" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/02/01/oshkosh-airport-of-the-future-features-autonomous-ground-support-evs/>
-
----
-
-## Renewables to continue driving US power generation growth – EIA
-
-date: 2025-02-01, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/pexels-photo-433308.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Renewable capacity additions, especially solar, will continue to drive the growth of US power generation over the next two years, according to the US Energy Information Administration (EIA). </p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,solar,oil-and-gas,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="399962" href="https://electrek.co/2025/01/31/renewables-us-power-generation-growth-eia/#more-399962" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/01/31/renewables-us-power-generation-growth-eia/>
 
