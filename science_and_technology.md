@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-02-10 03:29:54
+updated: 2025-02-10 07:11:47
 ---
 
 # science and technology
 
-(date: 2025-02-10 03:29:54)
+(date: 2025-02-10 07:11:47)
+
+---
+
+## The biggest microcode attack in our history is underway
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>When your state machines are vulnerable, all bets are off</h4> <p><strong>Opinion</strong>  All malicious attacks on digital systems have one common aim: taking control. Mostly, that means getting a CPU somewhere to turn traitor, running code that silently steals or scrambles your data. That code can ride into the system in a whole spectrum of ways, but usually it has to be in memory somewhere at some time, making it amenable to counter-attack.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/microcode_attack_trump_musk/>
+
+---
+
+## Sri Lanka goes bananas after monkey unplugs nation
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>Simian saboteur or a grid screaming for modernization?</h4> <p>Sri Lanka&#39;s electricity grid was brought down nationwide on Sunday after monkey business struck a power station south of the capital of Colombo.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/sri_lanka_monkey_blackout/>
+
+---
+
+## Euclid Discovers Einstein Ring in Our Cosmic Backyard
+
+date: 2025-02-10, from: NASA breaking news
+
+Euclid, an ESA (European Space Agency) mission with NASA contributions, has made a surprising discovery in our cosmic backyard: a phenomenon called an Einstein ring. An Einstein ring is light from a distant galaxy bending to form a ring that appears aligned with a foreground object. The name honors Albert Einstein, whose general theory of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/universe/euclid-discovers-einstein-ring-in-our-cosmic-backyard/>
+
+---
+
+## US news org still struggling to print papers a week after 'cybersecurity event'
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>Publications across 25 states either producing smaller issues or very delayed ones</h4> <p>US newspaper publisher Lee Enterprises is one week into tackling a nondescript &#34;cybersecurity event,&#34; saying the related investigation may take &#34;weeks or longer&#34; to complete.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/us_newspapers_lee_enterprises_cyberattack/>
+
+---
+
+## CentOS Connect conference announces return of Firefox
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>OKD project also has its own immutable CentOS image, which could be fun</h4> <p><strong>FOSDEM 2025</strong>  CentOS Connect, the FOSDEM-adjacent meetup, delivered a few notable updates: Firefox is returning as a native package on CentOS, an immutable Stream variant is being explored, and AlmaLinux is doing things its own way.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/centos_firefox/>
+
+---
+
+## Legacy systems running UK's collector are taxing – in more ways than one
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>Costs for fixing them and keeping them working up by 390%, NAO report reveals</h4> <p>Costs associated with the remediation of the UK tax collector&#39;s legacy systems have risen by up to 390 percent, according to a new report from government auditors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/legacy_costs_hmrc/>
 
 ---
 

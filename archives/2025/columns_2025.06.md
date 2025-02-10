@@ -1,11 +1,67 @@
 ---
 title: columns
-updated: 2025-02-10 03:29:54
+updated: 2025-02-10 07:11:47
 ---
 
 # columns
 
-(date: 2025-02-10 03:29:54)
+(date: 2025-02-10 07:11:47)
+
+---
+
+##  Kendrick Lamar&#8217;s Super Bowl Halftime Show. Kendrick said, &#8220;The revolution &#8216;bout to... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046179-kendrick-lamars-super-bow>
+
+---
+
+##  Judith Butler: &#8220;Once you decide that a single vulnerable minority can be... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046177-judith-butler-once-you-de>
+
+---
+
+## CentOS Connect conference announces return of Firefox
+
+date: 2025-02-10, updated: 2025-02-10, from: Liam Proven's articles at the Register
+
+<h4><span class="label">FOSDEM 2025</span> OKD project also has its own immutable CentOS image, which could be fun</h4>
+      <p>CentOS Connect, the FOSDEM-adjacent meetup, delivered a few notable updates: Firefox is returning as a native package on CentOS, an immutable Stream variant is being explored, and AlmaLinux is doing things its own way.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/02/10/centos_firefox/>
+
+---
+
+## Pairwise Authentication of Humans
+
+date: 2025-02-10, updated: 2025-02-10, from: Bruce Schneier blog
+
+<p>Here&#8217;s an <a href="https://ksze.github.io/PeerAuth/">easy</a> system for two humans to remotely authenticate to each other, so they can be sure that neither are digital impersonations.</p>
+<blockquote><p>To mitigate that risk, I have developed this simple solution where you can setup a unique time-based one-time passcode (TOTP) between any pair of persons.</p>
+<p>This is how it works:</p>
+<ol>
+<li>Two people, Person A and Person B, sit in front of the same computer and open this page;
+<li>They input their respective names (e.g. Alice and Bob) onto the same page, and click &#8220;Generate&#8221;;
+<li>The page will generate two TOTP QR codes, one for Alice and one for Bob;
+...</li></li></li></ol></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/pairwise-authentication-of-humans.html>
 
 ---
 
@@ -30,6 +86,18 @@ On Friday, President Donald Trump issued an executive order &#8220;protecting Se
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/february-9-2025>
+
+---
+
+##  Some Wild Ice Skating 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/some-wild-ice-skating>
 
 ---
 

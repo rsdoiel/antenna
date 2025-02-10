@@ -1,11 +1,83 @@
 ---
 title: north america
-updated: 2025-02-10 03:29:53
+updated: 2025-02-10 07:11:46
 ---
 
 # north america
 
-(date: 2025-02-10 03:29:53)
+(date: 2025-02-10 07:11:46)
+
+---
+
+## Morning Roundup: The Democracy Index and Three Reminders of What's Going On
+
+date: 2025-02-10, from: The Contrarian
+
+February 9: Introducing Joyce Vance's Democracy Index! In addition, this morning featured a searing column from Jen Rubin--a pithy guide to what's what as we enter another week of Trump's sad regime 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-the-democracy-index>
+
+---
+
+## How families, and not just retirees, depend on Social Security
+
+date: 2025-02-10, from: Market Place
+
+More and more children are living with older adults drawing Social Security. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/how-families-and-not-just-retirees-depend-on-social-security/>
+
+---
+
+## How military bands are used as “soft power”
+
+date: 2025-02-10, from: Market Place
+
+Military bands can act as "broad instruments of diplomatic power," says Staff Sergeant Justis MacKenzie. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/how-military-bands-are-used-as-soft-power/>
+
+---
+
+## The number of jobs added to the U.S. economy in late 2024 was revised upward by 100,000
+
+date: 2025-02-10, from: Market Place
+
+But it might not be as good news as one might think for the labor market. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/the-number-of-jobs-added-to-the-u-s-economy-in-late-2024-was-revised-upward-by-100000/>
+
+---
+
+## The Democracy Index
+
+date: 2025-02-10, from: The Contrarian
+
+*An Introduction and an Invitation* 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index>
+
+---
+
+## Three Reminders for the Week Ahead
+
+date: 2025-02-10, from: The Contrarian
+
+No matter what diluted truth corporate and billionaire media are proposing, make no mistake: Musk and PINO (President in Name Only) Trump are hurting everyday Americans, and Republicans are complicit 
+
+<br> 
+
+<https://contrarian.substack.com/p/three-reminders-for-the-week-ahead>
 
 ---
 
@@ -275,6 +347,8 @@ ABOARD AIR FORCE ONE — U.S. President Donald Trump said Sunday that he will a
 
 
 Trump, speaking to reporters on Air Force One, also said he will announce reciprocal tariffs Tuesday or Wednesday, to take effect almost immediately.
+
+
 
 
 Trump, during his first term, imposed tariffs of 25% on steel and 10% on aluminum, but later granted several trading partners duty-free quotas, including Canada, Mexico and Brazil.

@@ -1,11 +1,23 @@
 ---
 title: home
-updated: 2025-02-10 03:29:56
+updated: 2025-02-10 07:11:49
 ---
 
 # home
 
-(date: 2025-02-10 03:29:56)
+(date: 2025-02-10 07:11:49)
+
+---
+
+## Cloak Your Interiors in Darkness
+
+date: 2025-02-10, from: Dwell
+
+Bored of the all-white interiors trend? With the right tone and lighting, moody, dark colors can make your space feel cozy (and not like a coffin). 
+
+<br> 
+
+<https://www.dwell.com/article/how-to-use-dark-colors-decorating-interiors-bfc82b20>
 
 ---
 

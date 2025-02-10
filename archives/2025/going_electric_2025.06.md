@@ -1,11 +1,99 @@
 ---
 title: going electric
-updated: 2025-02-10 03:29:57
+updated: 2025-02-10 07:11:50
 ---
 
 # going electric
 
-(date: 2025-02-10 03:29:57)
+(date: 2025-02-10 07:11:50)
+
+---
+
+## Lift’s new Lift5 and LiftX electric foil surfboards make ripping over water easy
+
+date: 2025-02-10, from: Electrek Feed
+
+Foil wings are changing the way that watercraft operate. Foils are now exploding in water transport, from surfing to boating... 
+
+<br> 
+
+<https://electrek.co/2025/02/10/lifts-new-lift5-and-liftx-electric-foil-surfboards-make-ripping-over-water-easy/>
+
+---
+
+## Mercedes-Benz EQB EV Recalled Over Battery Fire Risk
+
+date: 2025-02-10, from: Inside EVs News
+
+The automaker recommends owners only charge their EVs up to 80% state of charge until the fix is applied. 
+
+<br> 
+
+<https://insideevs.com/news/750204/mercedes-benz-eqb-ev-recall-battery-fire-risk/>
+
+---
+
+## The Volvo EX30 Gets The Cross Country Treatment And Now It's Even Cooler
+
+date: 2025-02-10, from: Inside EVs News
+
+This is the first fully electric Volvo to bear the Cross Country badge, and it now looks like a little EV overlander. 
+
+<br> 
+
+<https://insideevs.com/news/750199/volvo-ex30-cross-country-debut/>
+
+---
+
+## Renault's New Electric Vans Revive Estafette, Goelette Names
+
+date: 2025-02-10, from: Inside EVs News
+
+There’s also a new Renault Trafic, and they’re all based on a newly developed 800V skateboard platform. 
+
+<br> 
+
+<https://insideevs.com/news/750186/renault-estafette-goelette-trafic-ev-vans/>
+
+---
+
+## This “sold-out” street-legal electric motorcycle is also an electric snowmobile
+
+date: 2025-02-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/combat-bike-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s a tale as old as time. A man takes a ride on an electric motorcycle and thinks to himself, “This is great, but you know what it’s missing? The ability to morph into an electric snowmobile, too.”</p>
+
+
+
+<p>Ok, perhaps it’s not the most common thought among us. But that hasn’t stopped it from apparently becoming a reality thanks to Canadian designer Steven Foster, who has now spent three years developing and testing that exact concept to bring the Avvenire Combat e-motorcycle to life.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="400180" href="https://electrek.co/2025/02/10/this-sold-out-street-legal-electric-motorcycle-is-also-an-electric-snowmobile/#more-400180" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/10/this-sold-out-street-legal-electric-motorcycle-is-also-an-electric-snowmobile/>
+
+---
+
+## All the EVs (and PHEVs) you can buy with 0% financing in February 2025 [Updated]
+
+date: 2025-02-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Honda_Prologue_MAIN.png?w=1400" /></div><p>Lease deals get all the hype, but most people still want to own the car after they’re done making all those payments on it. If that sounds like you, and you’ve been waiting for the interest rates on auto loans to drop, you’re in luck: there are a bunch of great plug-in cars you can buy with 0% financing this February!</p>
+
+
+
+<p><strong>Update 09FEB25</strong>: added some fresh 0% deals.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals" data-layer-viewtype="unknown" data-post-id="400091" href="https://electrek.co/2025/02/10/all-the-evs-and-phevs-you-can-buy-with-0-financing-in-february-2025/#more-400091" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/10/all-the-evs-and-phevs-you-can-buy-with-0-financing-in-february-2025/>
 
 ---
 
@@ -41,7 +129,7 @@ date: 2025-02-10, from: Electrek Feed
 
 date: 2025-02-10, from: Inside EVs News
 
-It offers peace of mind, but the car is more expensive to buy or lease than before. 
+Free charging is offset by a big price increase. 
 
 <br> 
 

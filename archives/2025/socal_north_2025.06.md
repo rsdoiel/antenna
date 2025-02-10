@@ -1,11 +1,47 @@
 ---
 title: socal north
-updated: 2025-02-10 03:29:53
+updated: 2025-02-10 07:11:46
 ---
 
 # socal north
 
-(date: 2025-02-10 03:29:53)
+(date: 2025-02-10 07:11:46)
+
+---
+
+## Best things to do this week in LA and SoCal: February 10 - 13
+
+date: 2025-02-10, updated: 2025-02-10, from: The LAist
+
+Find some early Valentine’s Day surprises, check out the Pan African Film Festival, see a tribute to California’s women artists in Orange and more of the best things to do. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-southern-california-february-10-13>
+
+---
+
+## Tenants left in limbo after asking landlords and city officials to address smoke damage
+
+date: 2025-02-10, updated: 2025-02-10, from: The LAist
+
+One month after the fires, many renters still can’t move back to their homes because their landlords won’t say when, or if, they plan to clean up toxic ash. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-fires-rental-housing-smoke-damage-repairs-tenant-landlord-pasadena>
+
+---
+
+## LA County more than doubled its mental health crisis teams in four years. But it still needs more
+
+date: 2025-02-10, updated: 2025-02-10, from: The LAist
+
+The county is still a long way from its goal of reducing response times to 30 minutes on average, so it is exploring ways to incentivize qualified job candidates. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-mental-health-crisis-teams-response-times>
 
 ---
 

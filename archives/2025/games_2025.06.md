@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-02-10 03:29:55
+updated: 2025-02-10 07:11:48
 ---
 
 # games
 
-(date: 2025-02-10 03:29:55)
+(date: 2025-02-10 07:11:48)
+
+---
+
+## Civilization 7, Tomb Raider, and more new games out this week
+
+date: 2025-02-10, updated: 2025-02-07, from: Polygon Website
+
+Progress is the theme of the new game releases this week, whether it’s building an empire over the course of history or piecing your life back together and writing a song about it. These new games challenge you with meaningful, incremental progress in the face of what can feel like impossible odds. It’s not always [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/519889/best-new-game-releases-feb-10-civilization-7-tomb-raider-remastered>
+
+---
+
+## When does the second Monster Hunter Wilds open beta start?
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Monster Hunter Wilds’s open beta 2 provides another opportunity to test the next of Capcom’s action role-playing series before its launch later this month. While previously there was a staggered rollout starting with PS5 owners, this time all platforms can play from the off, and for those who can’t play over the first set of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/519440/beta-2-times-dates-second-open>
+
+---
+
+## How to get Finality&#8217;s Auger in Destiny 2
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Finality&#8217;s Auger is an exotic weapon in Destiny 2, and is a possible reward from completing the Sundered Doctrine dungeon. This Linear Fusion Rifle is a powerhouse in the power slot, with some interesting tricks up its frilly sleeves, and pairs up nicely with perks and features of the the Episode is debuts in — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/521334/finalitys-auger-get-drop-rate>
+
+---
+
+## Destiny 2 Sundered Doctrine dungeon guide and walkthrough
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+The Sundered Doctrine dungeon takes Destiny 2 players back to Rhulk&#8217;s Pyramid for more monsters, more riddles, and most importantly, more loot. Veterans of the Vow of the Disciple raid will recognise the mechanics here, albeit with some new twists. Sundered Doctrine is on the shorter side as far as dungeons go, with just three [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/521312/sundered-doctrine-dungeon-guide-walkthrough-encounter-symbols>
 
 ---
 

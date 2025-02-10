@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-02-10 03:29:55
+updated: 2025-02-10 07:11:48
 ---
 
 # weather
 
-(date: 2025-02-10 03:29:55)
+(date: 2025-02-10 07:11:48)
 
 ---
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Mon Feb 10 10:33:02 UTC 2025
+## SPC - No watches are valid as of Mon Feb 10 14:41:02 UTC 2025
 
 date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Feb 10 10:33:02 UTC 2025. 
+No watches are valid as of Mon Feb 10 14:41:02 UTC 2025. 
 
 <br> 
 
@@ -33,15 +33,76 @@ No watches are valid as of Mon Feb 10 10:33:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Mon Feb 10 10:33:02 UTC 2025
+## SPC - No MDs are in effect as of Mon Feb 10 14:41:02 UTC 2025
 
 date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Feb 10 10:33:02 UTC 2025. 
+No Mesoscale Discussions are in effect as of Mon Feb 10 14:41:02 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Feb 10, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0645 AM CST Mon Feb 10 2025
+
+Valid 101300Z - 111200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms are possible from central Texas across
+southeast Oklahoma into western Arkansas tonight.
+
+...TX/OK/AR...
+Recent satellite imagery shows a well-defined shortwave trough off
+the southern CA/Baja CA coast. This feature is forecast to progress
+quickly east-northeastward throughout the day, traversing the
+Southwest/northern Mexico and reaching the southern Plains by
+tomorrow morning. Airmass ahead of this feature across the southern
+Plains is currently cool and dry, with the moist airmass still
+offshore. Mass response ahead of the approaching shortwave will lead
+to some modest airmass modification, with upper 50s/low 60s surface
+dewpoints potentially reaching the TX Hill Country/central TX by
+tomorrow morning. Even with these moistening low levels, warm
+mid-level temperatures will preclude buoyancy and deep convection
+across much of the TX Coastal Plain.
+
+Greater thunderstorm potential is anticipated farther north in
+corridor from the Edwards Plateau into southeast OK and western AR
+about 200 mi northwest of the primary synoptic boundary. Here,
+aforementioned mass response and associated strengthening of the
+low-level southwesterly flow will lead to moderate to strong
+low-level warm-air advection and the development of modest elevated
+buoyancy (generally above 800-750 mb). Isolated thunderstorms will
+be possible as early as this afternoon across southeastern OK and
+western AR. Persistent warm-air advection will likely contribute to
+a continued potential for isolated thunderstorms across this region
+throughout the evening. This persistent warm-air advection will also
+help support the development of modest buoyancy into TX as mid-level
+temperatures cool ahead of the approaching shortwave. Resulting
+buoyancy combined with increasing large-scale ascent should result
+in addition isolated thunderstorm development from north TX into the
+Edwards Plateau, largely after 06Z. Limited buoyancy should keep the
+severe potential low throughout the period.
+
+..Mosier/Broyles.. 02/10/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -300,59 +361,4 @@ isolated/uncertain for unconditional probabilities.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day2otlk_0700.html>
-
----
-
-## SPC Feb 9, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-02-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0648 AM CST Sun Feb 09 2025
-
-Valid 091300Z - 101200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-A low risk for a few thunderstorms exists early in the period across
-the Mid-South region.
-
-...Synopsis...
-Broadly cyclonic flow aloft, with several embedded shortwave
-troughs, is expected across the northern CONUS today. Largely zonal
-flow is anticipated across the southern CONUS, with negligible
-height changes. Recent surface analysis shows an expansive area of
-high pressure associated with a dry, continental airmass covering
-much of the central and eastern CONUS. A weak frontal boundary is in
-place from the TX Coastal Plains northeastward across the Southeast
-States into NC, between the cooler and dry airmass to its north and
-the modified Gulf airmass to its south. A slow southward progression
-of this front is anticipated throughout the day, with this front
-likely extending from southern GA westward along the Gulf Coast into
-South TX by 12Z Monday.
-
-...Arklatex into the Mid-South...
-Modest warm-air advection across the frontal zone mentioned in the
-synopsis is contributing to showers and isolated thunderstorms
-across Arkansas this morning. 12Z LZK sounding sampled the airmass
-supporting these showers and thunderstorms well, with a notable warm
-nose contributing to scant elevated buoyancy above about 850 mb. The
-warm-air advection is expected to persist over the region for at
-least the next several hours, while it gradually shifts eastward and
-weakens. This will support the potential for isolated thunderstorms
-this morning from the Arklatex eastward into the Mid-South, with the
-overall thunderstorm potential diminishing with eastern extent.
-
-..Mosier/Broyles.. 02/09/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 

@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-02-10 03:29:53
+updated: 2025-02-10 07:11:47
 ---
 
 # pacific
 
-(date: 2025-02-10 03:29:53)
+(date: 2025-02-10 07:11:47)
 
 ---
 
@@ -196,6 +196,78 @@ By Ron Rocky Coloma   In the village of Dededo, 18-year-old Andrea Lajato loung
 <br> 
 
 <https://www.pacificislandtimes.com/post/the-temu-craze-why-guam-s-bargain-hunters-are-addicted-to-china-s-online-market-place>
+
+---
+
+## US service member, three contractors killed in Philippine aircraft crash
+
+date: 2025-02-09, updated: 2025-02-10, from: Marianas Variety
+
+WASHINGTON/MANILA (Reuters) — One U.S. military service member and three defense contractors were killed on Thursday when their aircraft crashed in the southern Philippines, the U.S. military said. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/us-service-member-three-contractors-killed-in-philippine-aircraft-crash/article_e8f4936a-e6c4-11ef-b658-8726e1afa5a2.html>
+
+---
+
+## USPS and US Postal Inspection Service warn public about romance scams ahead of Valentine’s Day
+
+date: 2025-02-09, updated: 2025-02-10, from: Marianas Variety
+
+WASHINGTON (USPS) — With Valentine’s Day approaching, the U.S. Postal Service and the U.S. Postal Inspection Service want consumers to be aware they may be targeted for romance scams, a deceptive form of fraud that preys on individuals seeking companionship. These scams often start online but frequently escalate to requests for money or valuables sent through the mail, leading to devasting financial and emotional losses for victims. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/usps-and-us-postal-inspection-service-warn-public-about-romance-scams-ahead-of-valentine-s/article_4de784c8-e6c3-11ef-92eb-e376d9b901a6.html>
+
+---
+
+## Marianas Business Network to host special event featuring Commerce, Labor secretaries
+
+date: 2025-02-09, updated: 2025-02-10, from: Marianas Variety
+
+(MBN) — The Marianas Business Network is thrilled to announce an exclusive event featuring two distinguished guest speakers: Secretary of Commerce Remedio Mafnas and Secretary of Labor Leila Staffler. It will take place on Thursday, Feb. 13, 2024, from 6 p.m. to 8 p.m. at Pepoy’s Restaurant Banquet Room in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/marianas-business-network-to-host-special-event-featuring-commerce-labor-secretaries/article_ed480bcc-e692-11ef-bae8-c3a17967e95a.html>
+
+---
+
+## Lions to hold Health Fair on Feb. 16
+
+date: 2025-02-09, updated: 2025-02-10, from: Marianas Variety
+
+THE Lions Clubs International in Region II, District 204, will hold its annual Health Fair on Feb. 16, 2025, Sunday, from 7 a.m. to 12 noon at the Joeten-Daidai Social Hall of Mt. Carmel Cathedral. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/lions-to-hold-health-fair-on-feb-16/article_a0e314de-e692-11ef-98ab-27998ea53539.html>
+
+---
+
+## Triple J honors Kilili for 16 years of service to the CNMI
+
+date: 2025-02-09, updated: 2025-02-10, from: Marianas Variety
+
+IN a heartfelt tribute to leadership and service, Triple J honored former U.S. Congressman Gregorio Kilili Camacho Sablan for his 16 years as the first elected representative of the Commonwealth of the Northern Mariana Islands to the United States Congress. The recognition took place during a luncheon held on Friday, Feb. 7, hosted by Robert H. Jones, chairman and CEO of Triple J Enterprises, alongside company managers at Surf Club Restaurant in Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/triple-j-honors-kilili-for-16-years-of-service-to-the-cnmi/article_f15f489a-e6c1-11ef-a5f5-4b683534f815.html>
+
+---
+
+## Philippines’ VP Duterte prepared for impeachment, father welcome to join defense team
+
+date: 2025-02-09, updated: 2025-02-10, from: Marianas Variety
+
+MANILA (Reuters) — Philippine Vice President Sara Duterte said on Friday she had been preparing since last year for impeachment and would welcome on her defense team her firebrand father, former President Rodrigo Duterte, if interested to join. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/philippines-vp-duterte-prepared-for-impeachment-father-welcome-to-join-defense-team/article_435cc796-e6c5-11ef-ba20-3f4ca6f48ada.html>
 
 ---
 

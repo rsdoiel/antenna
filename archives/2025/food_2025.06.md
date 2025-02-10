@@ -1,11 +1,101 @@
 ---
 title: food
-updated: 2025-02-10 03:29:57
+updated: 2025-02-10 07:11:50
 ---
 
 # food
 
-(date: 2025-02-10 03:29:57)
+(date: 2025-02-10 07:11:50)
+
+---
+
+## The Sprudge Guide To Coffee In Antalya, Turkey
+
+date: 2025-02-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Antalya, Turkey. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-antalya-turkey-270179.html>
+
+---
+
+## Hot Ones' Sean Evans on the Humanizing Power of Hot Sauce
+
+date: 2025-02-10, from: Bon Appetet
+
+The internet’s favorite Heat Miser sits down to talk about how Hot Ones changed the celeb interview for the better 
+
+<br> 
+
+<https://www.bonappetit.com/story/hot-ones-sean-evans-hot-sauce>
+
+---
+
+## Tell Us Your Breast Milk Coffee Stories
+
+date: 2025-02-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. We genuinely want to know. 
+
+<br> 
+
+<https://sprudge.com/tell-us-your-breast-milk-coffee-stories-272276.html>
+
+---
+
+## Coffee Science Foundation and ZHAW Launch Defects Research Project
+
+date: 2025-02-10, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With funding from the Specialty Coffee Association (SCA), the Coffee Science Foundation (CSF) and the Zurich University of Applied Sciences (ZHAW) just launched a new research project on green coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/10/coffee-science-foundation-and-zhaw-launch-defects-research-project/>
+
+---
+
+## Florida’s Musa Coffee Makes a Splash with Coffees Grown and Roasted in Colombia
+
+date: 2025-02-10, from: Daily Coffee News
+
+<div><img width="620" height="358" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-620x358.jpg" class="attachment-large size-large wp-post-image" alt="Musa Coffee 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-620x358.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-300x173.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-150x86.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-768x443.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>University of Florida men&#8217;s swim team captain Joaquin Gonzalez Pinero is diving deeper into the family business of specialty coffee with the launch of Musa Coffee, a roasting, wholesale and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/10/floridas-musa-coffee-makes-a-splash-with-coffees-grown-and-roasted-in-colombia/>
+
+---
+
+## Coffee News Club: Week of February 10th
+
+date: 2025-02-10, from: The Fresh Cup
+
+<p>Lots of news this week: Fake beans, Canadians change the name of Americanos, and coffee hits $4 per pound.</p>
+<p>The post <a href="https://freshcup.com/coffee-news-club-week-of-february-10th/">Coffee News Club: Week of February 10th</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/coffee-news-club-week-of-february-10th/>
+
+---
+
+## Mini Chocolate Cheesecake for Two
+
+date: 2025-02-10, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2008/02/Mini-Chocolate-Cheesecake-for-Two-1200-3797.jpg"/></div>
+<p>Mini chocolate cheesecakes! Valentine&#8217;s Day is coming and I could not help but think about my favourite dessert, chocolate cheesecake! This is classic baked cheesecake that&#8217;s flavoured with melted dark chocolate. I usually just make a large cheesecake but when it&#8217;s a special occasion for two I pull out the mini cheesecake pans! This recipe...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/chocolate-cheesecake/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/chocolate-cheesecake/">Mini Chocolate Cheesecake for Two</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/chocolate-cheesecake/>
 
 ---
 
@@ -22,6 +112,32 @@ date: 2025-02-10, from: Isebel Eats
 <br> 
 
 <https://www.isabeleats.com/chile-relleno-soup/>
+
+---
+
+## Sweet and Sour Chicken Recipe
+
+date: 2025-02-10, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/sweet-and-sour-chicken/" title="Sweet and Sour Chicken Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/01/Sweet-and-Sour-Chicken-Recipe3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Mike taking a piece of Sweet and Sour Chicken from the bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/01/Sweet-and-Sour-Chicken-Recipe3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/01/Sweet-and-Sour-Chicken-Recipe3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/01/Sweet-and-Sour-Chicken-Recipe3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/01/Sweet-and-Sour-Chicken-Recipe3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/01/Sweet-and-Sour-Chicken-Recipe3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/01/Sweet-and-Sour-Chicken-Recipe3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/01/Sweet-and-Sour-Chicken-Recipe3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chinese sweet and sour chicken is the takeout classic you can make at home with crispy chicken stir fried with bell peppers and pineapple in an easy sauce.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/sweet-and-sour-chicken/">Sweet and Sour Chicken Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/sweet-and-sour-chicken/>
+
+---
+
+## Copycat Subway Raspberry Cheesecake Cookies
+
+date: 2025-02-10, from: Taste of Home
+
+Try a homemade take with these copycat Subway raspberry cheesecake cookies! The soft, chewy treats have loads of raspberry and white chocolate flavor. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-subway-raspberry-cheesecake-cookies/>
 
 ---
 
