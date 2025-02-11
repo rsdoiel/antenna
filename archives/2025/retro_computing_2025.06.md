@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-02-10 07:11:49
+updated: 2025-02-10 16:51:31
 ---
 
 # retro computing
 
-(date: 2025-02-10 07:11:49)
+(date: 2025-02-10 16:51:31)
+
+---
+
+## LibreOffice 25.2 Has Arrived
+
+date: 2025-02-10, from: Linux Magazine
+
+<p>If you've been hoping for a release that offers more UI customizations, you're in for a treat.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/LibreOffice-25.2-Has-Arrived>
+
+---
+
+## TuxCare Has a Big AlmaLinux 9 Announcement in Store
+
+date: 2025-02-10, from: Linux Magazine
+
+<p>TuxCare announced it has successfully completed a Security Technical Implementation Guide for AlmaLinux OS 9.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/TuxCare-Has-a-Big-AlmaLinux-9-Announcement-in-Store>
 
 ---
 

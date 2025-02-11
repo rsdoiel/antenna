@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-10 07:11:48
+updated: 2025-02-10 16:51:29
 ---
 
 # games
 
-(date: 2025-02-10 07:11:48)
+(date: 2025-02-10 16:51:29)
+
+---
+
+## Phasmophobia’s 2025 roadmap includes a new map
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Phasmophobia, the wildly popular co-op ghost hunting game, has been blowing up on Twitch since at least 2020, and developers Kinetic Games said Monday that it’s sold more than 22 million copies so far. In 2025, the team has a jam-packed developmental roadmap, including plans for an updated look for its famously nondescript player character [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/521775/phasmophobia-new-map-2025-roadmap>
+
+---
+
+## All candy cloud machine recipes in Hello Kitty Island Adventure
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+The candy cloud machine is among the last cooking stations you’ll unlock in Hello Kitty Island Adventure, and it allows you to make cotton candy clouds for your besties to much on. While no characters have candy clouds as their “favorite” items to be gifted, some of the items, like the Toasted Marshmallow Cloud, are [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hello-kitty-island-adventure-guides/521576/all-candy-cloud-machine-recipes-unlock-upgrade-kiki-lala>
+
+---
+
+## Cyrus is a cruel and vital addition to your Pokémon TCG Pocket deck
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Cyrus is a trainer card that’s taken over battles in Pokémon TCG Pocket. In the video games, he’s the big boss of the devious Team Galactic and a major antagonist in the Sinnoh generation. Ever since the Space-Time Smackdown expansion hit TCG Pocket in January, he’s also become a popular card in several decks that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/520122/cyrus-best-trainer-card>
+
+---
+
+## Build yourself a memorable Valentine’s Day with these floral Lego sets
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Don’t shoot the messenger, but Valentine’s Day is coming up quickly. It’s happening Friday, Feb. 14, and if you’re looking to share an experience with your valentine this year in addition to whatever else you might have planned, consider one of Lego’s floral bouquets. It has a vast selection, with each one providing simple instructions [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/515189/best-lego-valentines-day-flowers-sets>
+
+---
+
+## How to heal your units in Civilization 7
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Healing your units after a retreat is critical to winning wars in Civilization 7 — a game where wars are inevitable, even if you’re not looking for a Military Victory. But healing in Civilization 7 isn’t very straightforward, and your units will continue to hang out at low health unless you know what to do. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/521490/healing-units-how-to-heal-civ-7>
+
+---
+
+## Ayaneo 3 is a Steam Deck on steroids — in every way
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+It felt like magic. The Steam Deck played practically everything when Valve launched the handheld in 2022. By toggling to low graphical settings, even Elden Ring ran on the diminutive screen. But in 2025, gaming’s latest visual spectacles — including critical darlings Indiana Jones and Dragon’s Dogma 2 — won’t boot on Valve’s now-aging hardware. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/hardware/521687/ayaneo-3-hands-on-impressions>
+
+---
+
+## Your Marvel Rivals rank isn&#8217;t safe from upcoming midseason patch
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Hold your competitive rank close, because it’s going to disappear next week when Marvel Rivals’ midseason patch drops. In a dev diary post today, developer NetEase announced that ranks will be reset twice per season: once at the beginning and once halfway through. “After careful observations and consideration, we have concluded that players&#8217; ranks during [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/521682/marvel-rivals-mid-season-rank-reset-season-1>
+
+---
+
+## Civ 7 isn&#8217;t even out yet and there&#8217;s already a mod fixing its UI
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Sid Meier’s Civilization 7 doesn’t officially launch until Tuesday, but players have already assembled a laundry list of criticisms for the latest installment of the 4X franchise, many of them pointed particularly at the obtuse UI and lack of basic features from previous entries. Firaxis has already released a statement detailing plans for upcoming changes [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/521547/civilization-civ-7-ui-mod-sukritact>
+
+---
+
+## The White Lotus, Yellowjackets, Cobra Kai’s finale, and more new TV this week
+
+date: 2025-02-10, updated: 2025-02-07, from: Polygon Website
+
+I know I say this every week, but: Damn, what a Severance. But Apple’s workplace dystopia is not the only new TV this week, and while this week is a bit lighter on new releases, there’s still plenty to cover here. The White Lotus and Yellowjackets alone would be major news! Both back for their [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/514141/new-tv-netflix-white-lotus-yellowjackets-season-3-cobra-kai-finale>
+
+---
+
+## Civilization 7 data mining uncovers new leaders, Atomic Age
+
+date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
+
+Sid Meier’s Civilization 7 doesn’t officially launch until Feb. 11, but that hasn’t stopped folks from data mining the strategy game during its advanced access period and potentially uncovering future content. A user of the r/civ subreddit shared their findings after exploring the Civilization 7 code over the weekend. This digging found mention of new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/521577/sid-meier-civilization-7-datamine-dlc-pirates>
 
 ---
 

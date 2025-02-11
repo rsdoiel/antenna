@@ -1,11 +1,239 @@
 ---
 title: science and technology
-updated: 2025-02-10 07:11:47
+updated: 2025-02-10 16:51:27
 ---
 
 # science and technology
 
-(date: 2025-02-10 07:11:47)
+(date: 2025-02-10 16:51:27)
+
+---
+
+## Some workers already let AI do the thinking for them, Microsoft researchers find
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Dammit, that was our job here at <i>The Reg</i>. Now if you get a task you don&#39;t understand, you may assume AI has the answers</h4> <p>Some knowledge workers risk becoming over-reliant on generative AI and their problem-solving skills may decline as a result, according to a study penned by researchers from Microsoft Research and Carnegie Mellon University.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_study_ai_critical_thinking/>
+
+---
+
+## Sols 4447–4449: Looking Back at the Marker Band Valley
+
+date: 2025-02-10, from: NASA breaking news
+
+Earth planning date: Friday, Feb. 7, 2025 We are continuing our merry way alongside “Texoli” butte, heading toward the boxworks feature in the distance, our next major waypoint. This is a series of large-scale ridges, which appear from orbital data to be a complex fracture network.   Of course, we don’t actually expect to get there […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4447-4449-looking-back-at-the-marker-band-valley/>
+
+---
+
+## Oasis: a small, statically-linked Linux system
+
+date: 2025-02-10, from: OS News
+
+You might think the world of Linux distributions is a rather boring, settled affair, but there&#8217;s actually a ton of interesting experimentation going on in the Linux world. From things like NixOS with its unique packaging framework, to the various immutable distributions out there like the Fedora Atomic editions, there&#8217;s enough uniqueness to go around to find a lid for every pot. Oasis Linux surely falls into this category. One of its main unique characteristics is that it&#8217;s entirely statically linked. All software in the base system is linked statically, including the display server (velox) and web browser (netsurf). Compared to dynamic linking, this is a simpler mechanism which eliminates problems with upgrading libraries, and results in completely self-contained binaries that can easily be copied to other systems. ↫ Oasis GitHub page That&#8217;s not all it has to offer, though. It also offers fast and 100% reproducible builds, it&#8217;s mostly ISO C conformant, and it has minimal bootstrap dependencies &#8211; all you need is a &#8220;POSIX system with git, lua, curl, a sha256 utility, standard compression utilities, and an x86_64-linux-musl cross compiler&#8221;. The ISO C-comformance is a crucial part of one of Oasis&#8217; goals: to be buildable with cproc, a small, very strict C11 compiler. It has no package manager, but any software outside of Oasis itself can be installed and managed with pkgsrc or Nix. Another important goal of the project is to be extremely easy to understand, and its /etc directory is honestly a sight to behold, and as the project proudly claims, the most complex file in there is rc.init at a mere 16 lines. The configuration files are indeed incredibly easy to understand, which is a breath of fresh air compared to the archaic stuff in commercial UNIX or the complex stuff in modern Linux distributions that I normally deal with. I&#8217;m not sure is Oasis would make for a good, usable day-to-day operating system, but I definitely like what they&#8217;re putting down. 
+
+<br> 
+
+<https://www.osnews.com/story/141713/oasis-a-small-statically-linked-linux-system-2/>
+
+---
+
+## Redox’ relibc becomes a stable ABI
+
+date: 2025-02-10, from: OS News
+
+The Redox project has posted its usual monthly update, and this time, we&#8217;ve got a major milestone creeping within reach. Thanks to Anhad Singh for his amazing work on Dynamic Linking! In this southern-hemisphere-Redox-Summer-of-Code project, Anhad has implemented dynamic linking as the default build method for many recipes, and all new porting can use dynamic linking with relatively little effort. This is a huge step forward for Redox, because relibc can now become a stable ABI. And having a stable ABI is one of the prerequisites for Redox to reach “Release 1.0”. ↫ Ribbon and Ron Williams A major step forward for Redox, and one of those things not everyone might think about when they consider the state of an operating system. This wasn&#8217;t all of the news this month, though, as Redox also received a port of the LOVE game engine, which powers quite a few successful indie games, like the recent hit Balatro. Thanks to this port, you can now play Balatro on Redox, which is pretty cool &#8211; and highlights just how far Redox has already come. On top of these major two headlines, there&#8217;s a ton of improvements all over the operating system, mostly at the lower levels. 
+
+<br> 
+
+<https://www.osnews.com/story/141711/redox-relibc-becomes-a-stable-abi/>
+
+---
+
+## All your 8Base are belong to us: Ransomware crew busted in global sting
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>Dark web site seized, four cuffed in Thailand</h4> <p>An international police operation spanning the US, Europe, and Asia has shuttered the 8Base ransomware crew&#39;s dark web presence and resulted in the arrest of four European suspects accused of stealing $16 million from more than 1,000 victims worldwide.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/8base_police_arrrest/>
+
+---
+
+## Mount Everest from Space
+
+date: 2025-02-10, from: NASA breaking news
+
+Crew aboard space shuttle Columbia captured this image of Mount Everest on Nov. 30, 1996, during the STS-80 mission. STS-80, the final shuttle flight of 1996, was highlighted by the successful deployment, operation, and retrieval of two free-flying research spacecraft. See more photos from this mission. Image credit: NASA 
+
+<br> 
+
+<https://www.nasa.gov/image-article/mount-everest-from-space/>
+
+---
+
+## NASA Awards Launch Service Task Order for Pandora Mission
+
+date: 2025-02-10, from: NASA breaking news
+
+NASA has selected SpaceX of Starbase, Texas, to provide the launch service for the agency’s Pandora mission, which will study at least 20 known exoplanets and their host stars to find out how changes in stars affect our observations of exoplanet atmospheres. The selection is part of NASA’s Venture-Class Acquisition of Dedicated and Rideshare (VADR) [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-launch-service-task-order-for-pandora-mission/>
+
+---
+
+## Station Science Top News: Feb. 7, 2025
+
+date: 2025-02-10, from: NASA breaking news
+
+Measuring water loss from space This study showed that the International Space Station’s ECOSTRESS instrument estimates of evapotranspiration (transfer of water to the atmosphere from Earth’s surface and plants) are comparable to ground-based reference values. This finding suggests space measurements could provide guidance for improved water management on large scales. Worsening droughts due to climate [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/station-science-top-news-feb-7-2025/>
+
+---
+
+## Intel loses another exec as datacenter, AI chief named Nokia CEO
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>Justin Hotard tapped to replace Pekka Lundmark at the Finnish telco</h4> <p>Intel is going to need more than a new CEO after its Datacenter and AI (DCAI) chief on Monday announced he&#39;s leaving to run Nokia as its next chief executive.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/intel_hotard_nokia/>
+
+---
+
+## Rediscovering Plan 9 from Bell Labs
+
+date: 2025-02-10, from: OS News
+
+During a weekend of tidying up &#8211; you know, the kind of chore where you’re knee-deep in old boxes before you realize it. Digging through the dusty cables and old, outdated user manuals, I found something that I had long forgotten: an old&#160;Plan 9&#160;distribution. Judging by the faded ink and slight warping of the disk sleeve, it had to be from around 1994 or 1995. I couldn’t help but wonder: why had I kept this? Back then, I was curious about Plan 9. It was a forward-thinking OS that never quite reached full potential. Holding that disk, however, it felt more like a time capsule, a real reminder of computing’s advancements and adventurous spirit in the 1990s. ↫ Bill Dyer at It&#8217;s FOSS As the article notes, 9front is the way to go if you want to try Plan 9 today. Plan 9/9front appeals to a very specific type of person, but when you dive into the excellent &#8211; and incredibly entertaining &#8211; documentation, it really seems quite easy to grasp and get started with. There&#8217;s definitely things you&#8217;ll need to unlearn and some compromises you&#8217;ll need to make, but I think you&#8217;ll be able to get a lot more work done than you might think. Also, if you start adding software to 9front, you get to use the best GitHub alternative of all time: shithub. That alone makes it worth it to try 9front. 
+
+<br> 
+
+<https://www.osnews.com/story/141705/rediscovering-plan-9-from-bell-labs/>
+
+---
+
+## Reclassification is making US tech job losses look worse than they are
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>IT hiring ticks up in January, but unemployment climbs to 5.7%</h4> <p>The latest job numbers from the US Bureau of Labor Statistics make IT hiring look like it&#39;s in freefall, but that&#39;s not the case at all, says consultancy firm Janco. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/january_it_hiring/>
+
+---
+
+## Meta's plan to erase 5% of workforce starts today
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>&#39;Intense year&#39; ahead, warned Zuck. Got to spend billions on AI and work to stay out of Trump&#39;s bad books</h4> <p>Meta has confirmed to <em>The Register</em> that today marks the start of a mass redundancy process with thousands of workers getting the chop.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/meta_to_toss_5_of/>
+
+---
+
+## NASA-Led Study Pinpoints Areas Sinking, Rising Along California Coast
+
+date: 2025-02-10, from: NASA breaking news
+
+The elevation changes may seem small — amounting to fractions of inches per year — but they can increase or decrease local flood risk, wave exposure, and saltwater intrusion. Tracking and predicting sea level rise involves more than measuring the height of our oceans: Land along coastlines also inches up and down in elevation. Using [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/nisar/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/>
+
+---
+
+## FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time
+
+date: 2025-02-10, from: OS News
+
+A complete guide to configuring FreeBSD as an audiophile audio server: setting up system and audio subsystem parameters, real-time operation, bit-perfect signal processing, and the best methods for enabling and parameterising the system graphic equalizer (equalizer) and high-quality audio equalization with FFmpeg filters. Linux users will also find useful information, especially in the context of configuring and personalising the MPD player and filters. ↫ Marcin Szewczyk-Wilgan FreeBSD is a much more capable desktop and workstation operating system than it gets credit for, especially with the Linux world sucking all the air out of the room, but you do often need to do a little more and dive a little deeper into the operating system to get it to do what you want. In the case of audio, Szewczyk-Wilgan explains that he thinks it&#8217;s even ahead of Linux, due to being able to &#8220;precisely track the parameters of the audio device along with the system kernel parameters and modify them&#8221;, as well as FreeBSD having better support for real-time operation. This guide is an incredibly detailed explanation of which options and configurations you should use in FreeBSD to turn it into an audio server. This clearly isn&#8217;t for everyone, and I assume most audio experts won&#8217;t be considering FreeBSD, but what this article demonstrates is that it&#8217;s very, very much possible to do so. 
+
+<br> 
+
+<https://www.osnews.com/story/141703/freebsd-and-hi-fi-audio-setup-bit-perfect-equalizer-real-time/>
+
+---
+
+## T-Mobile goes live with beta of satellite phone service for the US
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>Free text messages for users of its own and rival networks during test period</h4> <p>T-Mobile US has started a public beta of its Direct-to-Cell service using Starlink satellites, offering just text messages for now, with data and voice calls coming later. Access will be free until July – after which it will cost $15 per month.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/tmobile_goes_live_with_beta/>
+
+---
+
+## Three years of ephemeral NixOS: my experience resetting root on every boot
+
+date: 2025-02-10, from: OS News
+
+We had a bit of a bug caused by changes we made to make quotes look better, but we&#8217;ve fixed it now, so we&#8217;re back on track (you may need to do a force-reload in your browser). Sorry for the disruption &#8211; and if you want to stay up-to-date on such issues next time it (inevitably) happens, you should follow the OSNews Fedi account (or just bookmark it without following it, if you&#8217;re not interested in social media). Anyway, back to the news! Fresh OS installs are bliss. But the joy fades quickly as installing and uninstalling programs leave behind a trail of digital debris. Even configuration management and declarative systems like NixOS miss crucial bits, like the contents of /var/lib or stray dotfiles. This debris isn’t just unsightly. It can be load-bearing, crucial to the functioning of your system, but outside of your control, and not preserved on rebuilds. Full system backups merely preserve this chaos. I wanted a clean slate, automatically, every boot. “Erase your darlings” inspired an idea in the NixOS community: allowlisting files and directories that persist across reboots. Anything not on the list gets wiped. The simplest implementation involves mounting / as a tmpfs (i.e.&#160;in RAM), and then bind-mounting or symlinking the allowlisted items to a disk-backed filesystem. ↫ Tuxes.uk I dabbled in NixOS over the past week or so, and while I find it intriguing and can definitely see a use for it, I also found it rather needlessly cumbersome and over-engineered for something as simple as a desktop system. I felt like I was taking a whole bunch of additional steps to do basic things, without needing any of the benefits Nix and NixOS bring. This doesn&#8217;t mean Nix and NixOS are bad &#8211; just that for me, personally, it doesn&#8217;t fill any need I have. Taking the Nix concept as far as starting with a completely fresh installation on every boot sounds absolutely insane to me. Of course, it&#8217;s not entirely fresh on every reboot, as several applications and important configuration elements do survive the reboot, but it&#8217;s still quite drastic compared to what everyone else is doing. Unsurprisingly, there are a few issues; it&#8217;s hard to know what really needs and doesn&#8217;t need saving, there might be some unexpected issues because software doesn&#8217;t expect to be wiped, and so on. Overall though, it seems to work susprisingly well, and for a specific type of person, this is definitely bliss. 
+
+<br> 
+
+<https://www.osnews.com/story/141701/three-years-of-ephemeral-nixos-my-experience-resetting-root-on-every-boot/>
+
+---
+
+## Boeing warns SLS staff that job cuts could be on the way
+
+date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+
+<h4>Overdue, over budget and now... perhaps just over?</h4> <p>Boeing has notified staff that hundreds of jobs could be eliminated if the Artemis program is canceled or heavily revised.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/10/boeing_warns_sls_staff_that/>
+
+---
+
+## Undergraduate Upends a 40-Year-Old Data Science Conjecture
+
+date: 2025-02-10, from: Quanta Magazine
+
+A young computer scientist and two colleagues show that searches within data structures called hash tables can be much faster than previously deemed possible.            <p>The post <a href="https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/" target="_blank">Undergraduate Upends a 40-Year-Old Data Science Conjecture</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/>
+
+---
+
+## NASA Scientists Spot Candidate for Speediest Exoplanet System
+
+date: 2025-02-10, from: NASA breaking news
+
+Astronomers may have discovered a scrawny star bolting through the middle of our galaxy with a planet in tow. If confirmed, the pair sets a new record for the fastest-moving exoplanet system, nearly double our solar system’s speed through the Milky Way. The planetary system is thought to move at least 1.2 million miles per [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/universe/nasa-scientists-spot-candidate-for-speediest-exoplanet-system/>
 
 ---
 
@@ -18,6 +246,18 @@ date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/10/microcode_attack_trump_musk/>
+
+---
+
+## Newly Minted Ph.D. Studies Phytoplankton with NASA’s FjordPhyto Project
+
+date: 2025-02-10, from: NASA breaking news
+
+FjordPhyto is a collective effort where travelers on tour expedition vessels in Antarctica help scientists at Scripps Institution of Oceanography and Universidad Nacional de La Plata study phytoplankton. Now project leader Dr. Allison Cusick has a Ph.D.! . Dr. Cusick studies how melting glaciers influence phytoplankton in the coastal regions. She wrote her doctoral dissertation […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/newly-minted-ph-d-studies-phytoplankton-with-nasas-fjordphyto-project/>
 
 ---
 
@@ -133,7 +373,7 @@ date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
 
 date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
 
-<h4>Order requires destruction of departmental data accessed by Musky men</h4> <p>Trump administration policies that allowed Elon Musk&#39;s Department of Government Efficiency to access systems and data at the Bureau of the Fiscal Service (BFS) have left the org “more vulnerable to hacking” according to Paul A. Engelmayer, Judge of the United States District Court for the Southern District of New York.…</p> 
+<h4>Order requires destruction of departmental data accessed by Musky men</h4> <p>Trump administration policies that allowed Elon Musk&#39;s Department of Government Efficiency to access systems and data at the Bureau of the Fiscal Service (BFS) have left the org “more vulnerable to hacking” according to federal Judge Paul A. Engelmayer in New York City.…</p> 
 
 <br> 
 

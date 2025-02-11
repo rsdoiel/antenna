@@ -1,11 +1,1029 @@
 ---
 title: north america
-updated: 2025-02-10 07:11:46
+updated: 2025-02-10 16:51:26
 ---
 
 # north america
 
-(date: 2025-02-10 07:11:46)
+(date: 2025-02-10 16:51:26)
+
+---
+
+## What the Westminster show dogs' names mean
+
+date: 2025-02-11, from: VOA News USA
+
+They have names that could make a random password generator cry uncle.
+
+
+Meet, for example, GCHG CH Calicops Sassafras Gonnakikurass.
+
+“She’s a saucy girl. Her name says it all,” Fred Ortiz said as he groomed the Brussels griffon to compete Monday at the Westminster Kennel Club dog show.
+
+
+Her name says ... what exactly? Well, ponder the final part, and you may understand what her owners are wryly getting at. But in any event, you can just call her Wrassy.
+
+
+Westminster’s main competition began Monday with breed-by-breed judging that leads to U.S. dogdom's most illustrious best in show prize, awarded Tuesday night. The kennel club held agility and obedience contests Saturday, as well as other events.
+
+
+If show dogs are the aristocrats of the canine world, they often have the names, titles and nicknames to match.
+
+
+Their “registered,” or formal, names are the ones used for showing. Those long, confounding-sounding appellations are packed with show-dog information.
+
+
+Clumps of capital letters at the beginning, and sometimes also the end, signify the dogs’ achievements in various sports. “GCHG” and “CH,” for example, denote various levels of championship in the traditional, breed-by-breed judging.
+
+
+After those titles, the first word in a registered name generally indicates the kennel, or breeding program, that produced the dog. Other kennels or dogs in the pedigree might get a shout-out at the end.
+
+
+
+
+Meanwhile, show dogs have “call names” that they go by on a day-to-day basis. A dog might also have had a different “puppy name” bestowed by its breeder and later changed by its eventual owner.
+
+
+The portmanteau words and puzzling phrases in registered names are partly meant to avoid duplication with other dogs in registries that go back over a century.
+
+
+But many breeders also use patterns to help them remember which litter was which.
+
+
+Professional dog handlers and sometime miniature schnauzer breeders Rachel Adams and Alberto Montila name their litters in alphabetical order — one litter had names that start with “A,” the next with “B,” and so on, Adams said Monday. She was blow-drying a French bulldog named GCHG CH Elysium’s Adventurous Rapscallion D’Assisi, better known as Finn.
+
+
+When Amie McLaughlin picks names for her litters of Norwegian buhunds, she just likes to have pun.
+
+
+“I like the name to be something that someone looks at and says, ‘Oh, that’s cute,'” said McLaughlin, of Kent, Washington.
+
+
+A dog she bred and guided Monday, GCH CH Cloudpointe Nothing Betta Than This CGC, was born into a fish-themed litter (hence “Betta,” a type of Southeast Asian fish). He goes by Eirik when he's at home with co-owner Sarah Woodworth in Paloa, Hawaii.
+
+
+GCH CH Aberdeen's Zoltar RN BN-V — just Zoltar, to his friends — has owners who appreciate humor, too. For one thing, they share their Los Angeles-area home with a shaggy, clownish, 120-pound otterhound who likes to cuddle.
+
+
+Comedian and actor Chris Hardwick, who owns the dog with his wife, model and actor Lydia Hearst, named Zoltar for the fortune-telling machine that makes a teenager grow to adult proportions overnight in the movie “Big.”
+
+
+“We knew he was going to grow,” and plenty big, explained Hearst.
+
+
+Zoltar got some recognition Monday from the judge, but the dog's cousin Melody, aka GCHS CH Dobhran’s Alexa Play Some Music, won best of breed.
+
+
+Hardwick and Hearst were also cheering on the French bulldog breed winner called Sassy, or GCHS Diva's Sassafras Lass. She and other breed winners were headed into a semifinal round Monday night.
+
+
+
+
+Sassy is owned and was co-bred by Hearst's mother, newspaper heir Patricia Hearst Shaw. Famous in the 1970s for her abduction and involvement in a robbery by a radical group, she's been renowned in recent years for her Frenchies and other show dogs.
+
+
+Colton Johnson and his family name their litters of old English sheepdogs by themes, such as songs, movies, money, or — appropriately — fluffy things.
+
+
+One of those “fluff” dogs is GCH CH Bugaboo's Give Me S'more, who lolled on a table while Johnson brushed him Monday.
+
+
+“It’s his spa day,” joked Johnson, of Colorado Springs, Colorado.
+
+
+The dog’s call name is Graham, as in the crackers that join toasted marshmallow and chocolate to make s’mores. The Johnsons considered calling him Marsh or Mallow, but those names didn't stick.
+
+
+Three-year-old Graham is a grandson of Swagger, the old English sheepdog whom Johnson handled to a second-place finish at Westminster in 2013.
+
+
+Last year's runner-up, a German shepherd named GCHP Kaleef's Mercedes, is back this year for a last hurrah and won her breed Monday. The 5-year-old will retire from showing after this event, co-owner Dr. Cynthian Wilhelmy said.
+
+
+As for her name, “I wanted something German and something that represented excellence,” said Wilhelmy, of Martinsburg, West Virginia. “Classic, reliable and excellent — that's Mercedes.” 
+
+<br> 
+
+<https://www.voanews.com/a/what-the-westminster-show-dogs-names-mean-/7970021.html>
+
+---
+
+## Democrats look for ways to oppose Trump administration's changes while in the minority
+
+date: 2025-02-11, from: VOA News USA
+
+Democratic lawmakers criticized what they called the Trump administration’s “extreme” efforts to reshape the U.S. government, vowing to oppose those changes despite limited political capital in both chambers of the U.S. Congress.
+
+
+House Democratic leader Hakeem Jeffries said on the chamber’s floor Monday that Republicans were departing from their campaign pledge not to follow Project 2025, a conservative blueprint for reshaping the U.S. government.
+
+
+“This year, Republicans have spent all of their time implementing the most extreme parts of Project 2025 and have done nothing to lower the high cost of living,” Jeffries said.
+
+
+Congressional Republicans say Trump is exercising broad presidential authority to reevaluate government agencies. Trump is accomplishing this through Elon Musk, a multibillionaire whom he put in charge of the Department of Government Efficiency, or DOGE, whose aim is to reduce federal spending.
+
+
+Senate Minority Leader Chuck Schumer wrote in a letter to colleagues that Democrats have a four-pronged strategy to oppose the Trump administration’s actions: oversight, litigation, legislation, and communication and mobilization.
+
+
+Schumer also said Democrats would continue to support litigation in the courts to stop the funding freeze and to prevent federal employees from being laid off.
+
+
+Vice President JD Vance criticized those judicial decisions, writing on X, “If a judge tried to tell a general how to conduct a military operation, that would be illegal. If a judge tried to command the attorney general in how to use her discretion as a prosecutor, that's also illegal. Judges aren't allowed to control the executive's legitimate power.”
+
+
+Democratic Senator Chris Murphy responded on X Monday, “For those of us who believe we are in the middle of a constitutional crisis, this is the meat of it. Trump and Vance are laying the groundwork to ignore the courts — democracy’s last line of defense against unchecked executive power.”
+
+
+Senate Democrats also announced a new whistleblowers portal for federal civil service employees and public servants to disclose information about wrongdoing.
+
+
+In a statement, they said, “As Senate Republicans refuse to fulfill their constitutional duty to provide a check on the Executive Branch, Senate Democrats remain steadfast in our commitment to uncovering the truth. We are prepared to issue demand letters, preserve public records, conduct public hearings, and pursue legal action where necessary.”
+
+
+Schumer said Democrats would support legislation funding the U.S. government but called on Republicans to negotiate in a bipartisan fashion. A short-term resolution funding the U.S. government expires on March 14. Any bill funding the government past that date needs 60 votes in the U.S. Senate to pass. Republicans currently hold the majority in the chamber with 53 seats. 
+
+<br> 
+
+<https://www.voanews.com/a/democrats-look-for-ways-to-oppose-trump-administration-s-changes-while-in-the-minority-/7970251.html>
+
+---
+
+## As tariffs take effect, Beijing and Washington look back to 2020 deal
+
+date: 2025-02-11, from: VOA News USA
+
+New Chinese tariffs on a range of U.S. goods went into effect Monday, following U.S. President Donald Trump’s decision to impose a 10% tariff on Chinese products last week. Tariffs of 25% on steel and aluminum are next.
+
+
+Despite the tariffs and rising tensions, both sides seem reluctant to launch into a full-on trade war, analysts say.
+
+
+Beijing has its plate full battling its own internal economic struggles, and for now President Trump has deferred most of his promised tariffs on the world’s second-largest economy.
+
+
+Last week, The Wall Street Journal reported that Beijing is preparing to offer to return to a so-called “Phase 1” trade deal that was signed during Trump’s first term.
+
+
+The Trump administration has sent its own signals as well. 
+
+
+Trump has called for the Office of the United States Trade Representative to review the first phase of the U.S.-China trade agreement and determine whether Beijing has fulfilled its commitments in the contract.
+
+
+Last week, Jamieson Greer, Trump’s nominee for U.S. trade representative, said he would assess China's compliance with the first phase of the agreement quickly upon his appointment to ensure the implementation of the deal. Greer also said he would use it as a starting point in relations with China.
+
+
+
+
+What is the Phase 1 deal?
+
+
+On January 15, 2020, Trump and Chinese Vice Premier Liu He signed the Phase 1 agreement, which laid out several terms for trade between the world’s two biggest economies. The deal called on the United States to cut some of its imposed tariffs on China and included a commitment from Beijing to buy more U.S. products and implement certain reforms.
+
+
+The 96-page agreement, divided into eight sections, placed a big emphasis on reducing the U.S. trade deficit with China, and protecting domestic industries by cracking down on Chinese trade practices, such as nontariff trade barriers, intellectual property violations and the forced transfer of technology without adequate compensation.
+
+
+
+
+The agreement mandated that China purchase at least $200 billion in U.S. products and services over a two-year period from January 1, 2020, to December 31, 2021. It also required that Beijing stop subsidizing strategic sectors and give fairer treatment to American companies in terms of regulation.
+
+
+Despite those commitments from China, data from a report published in 2022 by the Peterson Institute for International Economics in Washington showed that Beijing did not reach its purchase target.
+
+
+The report also showed that Beijing has completed 57% of the spending laid out in the agreement, a total that is lower than the level of China's purchase of goods from the United States before the U.S.-China trade war.
+
+
+Although China was not expected to fully meet its commitments, the agreement did have some benefits for Washington, as it helped decrease Washington’s trade deficit with Beijing.
+
+
+
+
+Starting point
+
+
+Analysts say the agreement may be revisited as a starting point for new trade discussions.
+
+
+“The two sides need to start somewhere. Phase 1 may at least provide some common language that both sides will be familiar with so as to get that ball rolling,” Chad Brown, senior fellow at the Peterson Institute for International Economics, explained to VOA in an emailed response Friday.
+
+
+Denny Roy, a senior fellow at the East-West Center in Hawaii, says the Phase 1 agreement has two advantages for acting as a foundation for U.S.-China trade discussions.
+
+
+“First, the two sides reached a similar agreement before, so they know it’s feasible,” he told VOA in an emailed response on Friday.
+
+
+He also explained that using the agreement “suits both sides’ interests.”
+
+
+"Trump wants to claim he has resolved the bilateral trade imbalance, which he sees as his primary measure of success," he explained, noting that this agreement supports that narrative.
+
+
+He added that the deal benefits Beijing by allowing China to avoid making significant structural reforms.
+
+
+Roy, however, adds that several factors make an agreement between Washington and Beijing difficult.
+
+
+“A major bilateral economic deal would depend on avoiding a strategic crisis, which might occur over Taiwan or the South China Sea, or an encounter between U.S. and Chinese ships or aircraft that escalates, or something like the spy balloon incident,” he said.
+
+
+Early in 2023, the discovery of a Chinese spy balloon floating through U.S. airspace delayed a U.S. diplomatic visit to the country by then-Secretary of State Antony Blinken. The ballon was eventually shot down. 
+
+<br> 
+
+<https://www.voanews.com/a/as-tariffs-take-effect-beijing-and-washington-look-back-to-2020-deal/7970267.html>
+
+---
+
+## Arizona adds endangered bat to list of night-flying creatures that frequent the state
+
+date: 2025-02-10, from: VOA News USA
+
+FLAGSTAFF, ARIZONA — Scientists have long suspected that Mexican long-nosed bats migrate through southeastern Arizona, but without capturing and measuring the night-flying creatures, proof has been elusive. 
+
+
+Researchers say they now have a way to tell the endangered species apart from other bats by analyzing saliva the nocturnal mammals leave behind when sipping nectar from plants and residential hummingbird feeders. 
+
+
+Bat Conservation International, a nonprofit group working to end the extinction of bat species worldwide, teamed up with residents from southeastern Arizona, southwestern New Mexico and west Texas for the saliva-swabbing campaign. 
+
+
+The samples of saliva left along potential migration routes were sent to a lab at Northern Arizona University in Flagstaff, where researchers looked for environmental DNA — or eDNA — to confirm that the bats cycle through Arizona and consider the region their part-time home. 
+
+
+The Mexican long-nosed bat has been listed as endangered under the Endangered Species Act since 1988, and is the only one in Arizona with that federal protection. It is an important species for pollinating cactus, agave and other desert plants. 
+
+
+
+
+Officials from the U.S. Fish and Wildlife Service and the Arizona Game and Fish Department announced the discovery in late January. While expanding Arizona's list of bat species to 29 is exciting, wildlife managers say the use of this novel, noninvasive method to nail it down also deserves to be celebrated. 
+
+
+“If we were trying to identify the species in the absence of eDNA, biologists could spend hours and hours trying to catch one of these bats, and even then, you’re not guaranteed to be successful,” said Angie McIntire, a bat specialist for the Arizona's Game and Fish Department. “By sampling the environment, eDNA gives us an additional tool for our toolkit." 
+
+
+Every spring, Mexican long-nosed bats traverse a lengthy migratory path north from Mexico into the southwestern U.S., following the sweet nectar of their favorite blooming plants like breadcrumbs. They return along the same route in the fall. 
+
+
+The bat conservation group recruited ordinary citizens for the mission, giving them kits to swab samples from bird feeders throughout the summer and fall. 
+
+
+Inside the university lab, microbiology major Anna Riley extracted the DNA from hundreds of samples and ran them through machines that ultimately could detect the presence of bats. Part of the work involved a steady hand, with Riley using a syringe of sorts to transfer diluted DNA into tiny vials before popping them into a centrifuge. 
+
+
+Sample after sample, vial after vial, the meticulous work took months. 
+
+
+“There’s a big database that has DNA sequences of not every animal but most species, and so we could compare our DNA sequences we got from these samples to what’s in the database," Riley said. "A little bit like a Google search — you’ve got your question, you’re asking Google, you plug it into the database, and it turns up you’ve got a bat, and you have this kind of bat.” 
+
+
+Kristen Lear, of the conservation group, said the collection of eDNA has been used successfully for determining the presence of other kinds of wildlife in various environments, so the group proposed trying it with bats. 
+
+
+“They do apparently leave behind a lot of spit on these plants and hummingbird feeders,” Lear said. 
+
+<br> 
+
+<https://www.voanews.com/a/arizona-adds-endangered-bat-to-list-of-night-flying-creatures-that-frequent-the-state/7970013.html>
+
+---
+
+## Evening Roundup: Constitutional Principles and post-Super Bowl Commentary 
+
+date: 2025-02-10, from: The Contrarian
+
+February 10: Posts by Anthony Michael Kreis, Austin Sarat, Contrarian Allison Rice, Eric Schnure, Andy Borowitz, The Democracy Index, and Jen Rubin! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-constitutional-principles>
+
+---
+
+## 15 cases of measles in Texas county with numerous vaccine exemptions
+
+date: 2025-02-10, from: VOA News USA
+
+Fifteen measles cases — mostly in school-aged children — have been confirmed in a small county in West Texas with one of the highest rates of vaccine exemptions in the state.
+
+
+South Plains Public Health District Director Zach Holbrooks said Monday that his department was first notified in late January about the first two cases in Gaines County, which he said were “two children who had seen a physician in Lubbock.”
+
+
+Some of the cases appear to be connected to private religious schools in the district, said Holbrooks, who cautioned that the investigation is ongoing.
+
+
+“I wouldn’t say they’re all connected, but our teams are looking into exposure sites and the background of those cases," he said.
+
+
+Local health officials set up a drive-through vaccination clinic last week and are offering screening services to residents.
+
+
+The U.S. saw a rise in measles cases in 2024, including an outbreak in Chicago that sickened more than 60. This month, health officials in metro Atlanta are working to contain a measles case that spread to two unvaccinated family members.
+
+
+Texas law allows children to get an exemption from school vaccines for reasons of conscience, including religious beliefs.
+
+
+The percentage of kids with exemptions has risen over the last decade from .76% in 2014 to 2.32% last year, according to Texas Department of State Health Services data.
+
+
+Gaines County has one of the highest rates in Texas of school-aged children who opt out of at least one required vaccine: Nearly 14% of children from kindergarten through grade 12 had an exemption in the 2023-24 school year, which is more than five times the state average of 2.32% and beyond the national rate of 3.3%.
+
+
+But the number of unvaccinated kids in the county is likely significantly higher, DSHS spokesperson Lara Anton said, because Gaines County has many children who are homeschooled and whose data would not be reported.
+
+
+The measles, mumps and rubella vaccines are a two-shot series: The first is recommended at 12 to 15 months old and second between 4 to 6 years old. The vaccine is required to attend most public schools in the U.S.
+
+
+But vaccination rates have declined nationwide since the COVID-19 pandemic and most states are below the 95% vaccination threshold for kindergartners — the level needed to protect communities against measles outbreaks. Lawmakers across the country have proposed various vaccine requirement changes at a time when anti-vaccine activist Robert F. Kennedy Jr. is awaiting confirmation as the secretary of Health and Human Services.
+
+
+One of the early Gaines County cases traveled to neighboring New Mexico while they were still infectious, Anton said, but there were no immediate reports of infection. New Mexico Department of Health spokesperson Robert Nott said the agency has been in communication with Texas officials but there was no known exposure to measles in his state.
+
+
+“We're going to watch this very closely,” Nott said.
+
+
+Two cases of measles were reported in early January in the Houston area, but Holbrooks said the West Texas cases don't appear to be connected.
+
+
+Measles is a highly contagious virus that can survive in the air for up to two hours. Up to 9 out of 10 people who are susceptible will get the virus if exposed, according to the U.S. Centers for Disease Control and Prevention. Before the vaccine was introduced in 1963, the U.S. saw some 3 million to 4 million cases per year. Now, it's usually fewer than 200 in a normal year. 
+
+<br> 
+
+<https://www.voanews.com/a/cases-of-measles-in-texas-county-with-numerous-vaccine-exemptions-/7970000.html>
+
+---
+
+## US judge keeps block on Trump federal buyout plan in place for now
+
+date: 2025-02-10, from: VOA News USA
+
+BOSTON/WASHINGTON — A U.S. judge kept his block on President Donald Trump's buyout plan for federal employees in place on Monday while he considers whether to impose it for a longer period of time. 
+
+
+The decision by U.S. District Judge George O'Toole in Boston prevents Trump's administration from implementing the buyout plan for now, giving a temporary victory to labor unions that have sued to stop it entirely. 
+
+
+More than 2 million federal civilian employees had faced a midnight deadline Monday to accept the proposal. It is unclear when O'Toole will rule on the request by the unions. 
+
+
+The buyout effort is part of a far-reaching plan by Trump and his allies to reduce the size and rein in the actions of the federal bureaucracy. Trump, who returned to the presidency on Jan. 20, has accused the federal workforce of undercutting his agenda during his first term in office, from 2017 to 2021. 
+
+
+Unions have urged their members not to accept the buyout offer — saying Trump's administration cannot be trusted to honor it — but about 65,000 federal employees had signed up for the buyouts as of Friday, according to a White House official. 
+
+
+Reuters has been unable to independently verify that number, which does not include a breakdown of workers from each agency. 
+
+
+The offer promises to pay employees their regular salaries and benefits until October without requiring them to work, but that may not be ironclad. Current spending laws expire on March 14, and there is no guarantee that salaries would be funded beyond that point. 
+
+
+At a court hearing, U.S. Justice Department attorney Eric Hamilton called the buyout plan a "humane off-ramp" for those frustrated by Trump's decision to reduce the size of the workforce and end the ability of many of them to work from home. 
+
+
+But a lawyer for the unions said the plan had been carried out in a "slap dash" fashion with little regard to how it might disrupt operations at agencies such as the Department of Veterans Affairs. 
+
+
+"They failed to consider the continued functioning of government," lawyer Elena Goldstein said. 
+
+
+The administration had initially proposed a deadline of last Thursday before O'Toole, an appointee of Democratic former President Bill Clinton, extended it so he could consider the case. 
+
+
+Trump has tasked Tesla CEO and SpaceX founder Elon Musk, the world's richest person, with overseeing the purge of federal employees through his Department of Government Efficiency, which is not an actual government agency. 
+
+
+Musk's actions have sown panic among federal workers and prompted public protests. His actions also have led to a flood of calls to U.S. lawmakers by voters worried about the access that Musk's team has been given to sensitive information in government computer systems that contain data on federal payments to Americans and personal details of federal workers. 
+
+
+Several lawsuits 
+
+
+The unions and Democratic attorneys general have brought lawsuits challenging Trump's rapid remaking of government and won some initial victories. 
+
+
+A union that represents Consumer Financial Protection Bureau workers has filed a lawsuit seeking to block acting chief Russell Vought's move to suspend CFPB activities, one of several legal challenges that Trump's administration now faces. 
+
+
+Democratic attorneys general from 22 U.S. states filed a lawsuit on Monday in Boston challenging sharp cuts to federal grant funding for universities, medical centers and other research institutions by the Trump administration. 
+
+
+An effort to hollow out the U.S. Agency for International Development is partially on hold after a judge's ruling. 
+
+
+Trump's effort to freeze trillions of dollars in federal loans, grants and other financial assistance has also been paused in a separate case. A federal judge in Rhode Island on Monday ruled that the administration must restore all domestic funding while he considers the case. 
+
+
+On Saturday, a judge temporarily blocked Musk's entity from accessing government systems used to process trillions of dollars in payments at the Treasury Department. 
+
+<br> 
+
+<https://www.voanews.com/a/us-judge-keeps-block-on-trump-federal-buyout-plan-in-place-for-now/7969998.html>
+
+---
+
+## Trump signs executive orders on steel, aluminum tariffs
+
+date: 2025-02-10, from: VOA News USA
+
+Washington — President Donald Trump moved to substantially raise tariffs on steel and aluminum imports on Monday, canceling exemptions and duty-free quotas for major suppliers Canada, Mexico, Brazil and other countries in a move that could boost the risk of a multifront trade war. 
+
+
+Trump signed proclamations that raised the tariff rate on aluminum imports to 25% from the previous 10% that he imposed in 2018 to aid the struggling sector. His action reinstates a 25% tariff on millions of tons of steel imports and aluminum imports that had been entering the U.S. duty free under quota deals, exemptions and thousands of product exclusions. 
+
+
+The proclamations were extensions of Trump's 2018 Section 232 national security tariffs to protect steel and aluminum makers. A White House official said the exemptions had eroded the effectiveness of these measures. 
+
+
+Trump also will impose a new North American standard requiring steel imports to be "melted and poured" and aluminum to be "smelted and cast" in the region to curb imports of minimally processed Chinese steel into the U.S. 
+
+
+The order also targets downstream steel products that use imported steel for tariffs. 
+
+
+Trump's trade adviser Peter Navarro said the measures would help U.S. steel and aluminum producers and shore up America's economic and national security. 
+
+
+"The steel and aluminum tariffs 2.0 will put an end to foreign dumping, boost domestic production and secure our steel and aluminum industries as the backbone and pillar industries of America's economic and national security," he told reporters. 
+
+
+"This isn't just about trade. It's about ensuring that America never has to rely on foreign nations for critical industries like steel and aluminum." 
+
+
+Trump first broached the steel and aluminum action on Sunday, adding that he would also announce a further set of reciprocal tariffs later in the week, drawing warnings of retaliation from trade partners. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-signs-executive-orders-on-steel-aluminum-tariffs/7970007.html>
+
+---
+
+## A lot of things changed in January — but not consumers’ inflation forecasts
+
+date: 2025-02-10, from: Market Place
+
+Consumers still forecast about 3% inflation, according to a New York Federal Reserve Bank survey. Responses also reflect a looser job market. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/a-lot-of-things-changed-in-january-but-not-consumers-inflation-forecasts/>
+
+---
+
+## 2 US deportation flights head to Venezuela, alleged gang members aboard
+
+date: 2025-02-10, from: VOA News USA
+
+Two planes carrying Venezuelan migrants deported from the United States — the first since a January deal between the administration of U.S. President Donald Trump and Venezuelan President Nicolas Maduro — are heading to Venezuela, the South American country's government said Monday. 
+
+
+The flights, run by Venezuelan airline Conviasa, are part of a plan to repatriate thousands of migrants who fled Venezuela "because of economic sanctions and the campaigns of psychological warfare against our country," the government statement said. 
+
+
+Some of the people on the flight are allegedly involved in illegal activities with the Tren de Aragua gang, the statement said and will be vigorously investigated for criminal ties. 
+
+
+Trump envoy Richard Grenell met with Maduro in Caracas on Jan. 31, where the two men discussed migration and sanctions, among other issues. Grenell left the South American country with six Americans who had been held by Venezuelan authorities. 
+
+
+The Trump administration has said it is a priority to deport members of Tren de Aragua from the U.S. and Trump himself said after Grenell's visit that Maduro agreed to receive all Venezuelan illegal migrants and provide for their transportation back home. 
+
+
+The Venezuelan government says it destroyed Tren de Aragua within its borders in 2023. 
+
+
+Trump's administration has also moved to remove deportation protection from about 348,000 Venezuelans in the U.S., who could lose work permits and then be deported in April. 
+
+
+More than 7 million Venezuelan migrants have left their country in recent years amid a sustained economic and social collapse blamed by the government on sanctions by the United States and others. 
+
+
+Maduro and several allies have been indicted by the United States on drug trafficking charges and international observers and the country's opposition say a July election which gave Maduro his third term was fraudulent. 
+
+<br> 
+
+<https://www.voanews.com/a/us-deportation-flights-head-to-venezuela-alleged-gang-members-aboard/7970003.html>
+
+---
+
+## Aside from Trump tariffs, steel and aluminum have little in common
+
+date: 2025-02-10, from: Market Place
+
+The metals are paired as targets for import duties, but they serve different markets. Domestic steel has spare capacity, aluminum not so much. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/aside-from-trump-tariffs-steel-and-aluminum-have-little-in-common/>
+
+---
+
+## Trump calls for halting penny production, saying it's too expensive
+
+date: 2025-02-10, from: VOA News USA
+
+RICHMOND, VIRGINIA  — The lowly penny, the forgotten mainstay of coin jars and car cupholders everywhere, may soon be no more.
+
+
+President Donald Trump announced Sunday he's ordered his administration to cease production of the 1-cent coin, whose buying power is long past its prime.
+
+
+Advocates for ditching the penny cite its high production cost — currently almost 4 cents per penny, according to the U.S. Mint — and limited utility. Fans of the penny cite its usefulness in charity drives and relative bargain in production costs compared with the nickel, which costs almost 14 cents to mint.
+
+
+Trump's surprise order comes after decades of unsuccessful efforts to pitch the penny.
+
+
+"Only tradition explains our stubborn attachment to the penny. But sometimes traditions get ridiculous," the Farmers' Almanac said in its 1989 edition.
+
+
+Here's a look at some questions surrounding Trump's order.
+
+
+Can Trump really order the Treasury to stop minting pennies without Congress' approval?
+
+
+Yes, according to legal scholar Laurence H. Tribe, the Carl M. Loeb University Professor of Constitutional Law Emeritus at Harvard University.
+
+
+U.S. code gives the Treasury Secretary the authority to mint and issue coins "in amounts the secretary decides are necessary to meet the needs of the United States."
+
+
+If Treasury Secretary Scott Bessent decides the amount necessary for the penny is zero, he's within his legal rights, Tribe said.
+
+
+"Unlike a lot of what the new administration has been doing pursuant to the flood of executive orders since January 20, this action seems to me entirely lawful and fully constitutional," Tribe said, referring to the aggressive executive action Trump's taken on other issues since taking office.
+
+
+Congress, which dictates currency specifications like the size and metal content of coins, could make Trump's order permanent through law. But past congressional efforts to ditch the penny have failed.
+
+
+Pennies are mostly made of zinc, and the American zinc lobby has been a major opponent to suggestions that the penny be eliminated.
+
+
+How many pennies are in circulation?
+
+
+It depends on what you mean by circulation.
+
+
+Pennies are the most popular coin made by the U.S. Mint, which reported making 3.2 billion of them last year. That's more than half of all the new coins it made last year.
+
+
+MIT Professor Jeff Gore, who founded Citizens to Retire the Penny, said coins are supposed to stay in circulation for about 30 years and that in the last three decades the U.S. Mint has made about 250 billion pennies.
+
+
+But, he says, "because nobody wants to use pennies, they fall out of active circulation much faster than other coins."
+
+
+If pennies sit in drawer for a decade, Gore asks, "Does that qualify as being in circulation?"
+
+
+Will Americans miss pennies?
+
+
+Experience in other countries suggests no.
+
+
+Canada started phasing out its penny a dozen years ago and urged store owners to round prices to the nearest nickel for cash transactions. Electronic purchases were still billed to the nearest cent. The move came after New Zealand, Australia, the Netherlands and others dropped their lowest-denomination coins.
+
+
+After dropping the penny or its equivalent, those countries have not looked back.
+
+
+What comes next?
+
+
+Trump's order, which he announced in a social media post as he was departing New Orleans after watching the first half of the Super Bowl, was the latest in his administration's rapid-fire efforts to cut government costs.
+
+
+"Let's rip the waste out of our great nation's budget, even if it's a penny at a time," Trump wrote in his post, which was light on details about plans for a post-penny future.
+
+
+After Canada stopped minting new pennies, it began recycling them for their "valuable" copper and zinc, according to a 2022 report from the Canadian Mint. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-calls-for-halting-penny-production-saying-it-s-too-expensive-/7969975.html>
+
+---
+
+## Boston man cleared of US charges he acted as Chinese agent
+
+date: 2025-02-10, from: VOA News USA
+
+Boston — A jury found a Boston man not guilty on Monday of U.S. charges that he acted as an unlawful agent of China's government by supplying officials information about individuals, dissidents and groups in the local Chinese community. 
+
+
+Litang Liang, 65, was acquitted in federal court of charges that he acted as an unregistered Chinese agent in a case brought in 2023 that U.S. authorities had portrayed as part of their commitment to counter efforts by China's government ato silence its critics abroad. 
+
+
+Liang, a China-born U.S. citizen, had denied the charges and pleaded not guilty. His lawyer during the trial called the charges "ridiculous" and called them an effort to chill the free speech of a local community activist who advocated for the "reunification" of democratically governed Taiwan with mainland China -- a view in harmony with China's leaders. 
+
+
+"Justice has finally arrived," Liang told reporters through a translator following the verdict. 
+
+
+U.S. Attorney Leah Foley, whose office pursued the case, said in a statement that while prosecutors "respect the jury's decision, we are disappointed in (Monday's) verdict." 
+
+
+Liang had worked at a hotel and for years had been an active member in his union as well as a community organizer and activist in the Chinese-American community in Boston, according to his lawyer, Derege Demissie. 
+
+
+Assistant U.S. Attorney Timothy Kistner told jurors on Friday during closing arguments in the case that China's government sought out Liang because it "wanted someone already involved in the community who knew the people who were there." 
+
+
+Prosecutors said Liang from 2018 to 2022 provided Chinese officials with information on individuals and shared details about dissidents and groups with pro-Taiwan leanings. 
+
+
+Prosecutors said that in 2018, after traveling to Beijing for meetings with an arm of the Chinese Communist Party, Liang founded the New England Alliance for the Peaceful Unification of China, which focused on promoting China's goals with Taiwan. 
+
+
+China views democratically governed Taiwan as its own territory. Taiwan rejects Beijing's sovereignty claims, saying only the island's people can decide their future. 
+
+
+Prosecutors said Liang, also at the direction of Chinese officials, in 2019 organized a counter-demonstration against pro-democracy protesters, and in 2022 provided an official with a Chinese agency, tasked with investigating political dissidents, information on two potential local recruits. 
+
+
+Demissie in his closing argument to the jury countered that Liang made no secret of his activism and that his prosecution infringed on Liang's right to free speech under the U.S. Constitution's First Amendment. 
+
+
+"This case would have meant nothing if it did not involve China," Demissie said. "That's what this is about. And it had the purpose of scaring people, and it achieved that purpose." 
+
+<br> 
+
+<https://www.voanews.com/a/7969980.html>
+
+---
+
+## Shhh, You Can Talk After the Commercials
+
+date: 2025-02-10, from: The Contrarian
+
+At Least We Had the Ads... 
+
+<br> 
+
+<https://contrarian.substack.com/p/shhh-you-can-talk-after-the-commercials>
+
+---
+
+## The case for sports: The rest is still unwritten
+
+date: 2025-02-10, from: The Contrarian
+
+Sports, like democracy, gives us hope. But, with democracy, we can make a difference. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-case-for-sports-the-rest-is-still>
+
+---
+
+## US judge says Trump administration violated order lifting spending freeze
+
+date: 2025-02-10, from: VOA News USA
+
+A U.S. judge on Monday said President Donald Trump's administration violated a court order lifting a broad freeze on federal spending and directed the government to immediately release any withheld funds. 
+
+
+U.S. District Judge John McConnell in Providence, Rhode Island, had already blocked the funding freeze with a temporary restraining order on Jan. 31, but a group of Democratic state attorneys general who sued to block the move said last week that the government was still withholding funds. 
+
+
+The Trump administration on Monday said it is appealing. 
+
+
+"The broad categorical and sweeping freeze of federal funds is, as the court found, likely unconstitutional and has caused and continues to cause irreparable harm to a vast portion of this country," McConnell said on Monday. "These pauses in funding violate the plain text of the TRO." 
+
+
+McConnell said all funding must be restored at least until he can hold a hearing on the states' motion for a longer-term order. 
+
+
+On Feb. 6, a lawyer with the office of Democratic New York Attorney General Letitia James told McConnell that state agencies were still having difficulty accessing federal funds, including billions of dollars for infrastructure projects under the Inflation Reduction Act. 
+
+
+The Trump administration had told states it believed the order did not apply to certain environmental and infrastructure spending, and that some payments were delayed for "operational and administrative reasons." 
+
+
+However, McConnell said his order had been "clear and unambiguous" in applying to all funding frozen in response to sweeping executive orders by Trump. 
+
+
+The states originally sued the administration over a memorandum from the White House's Office of Management and Budget announcing a wide-ranging freeze of federal spending. Soon after the lawsuit was filed, OMB rescinded that memo. 
+
+
+The memo was part of a larger Trump administration push to tighten federal spending and reshape the federal bureaucracy, which has sparked a flurry of lawsuits. 
+
+
+In a separate case over Trump's push to dismantle the U.S. Agency for International Development, federal employee unions have accused the administration of violating a court order reinstating USAID workers who were placed on administrative leave. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-ordered-to-restore-all-frozen-federal-spending/7969952.html>
+
+---
+
+## Consumers spend just as much on restaurants lately, just on fewer occasions
+
+date: 2025-02-10, from: Market Place
+
+The average American puts about 60% of their food budget toward groceries and 40% toward eating out, according to Circana.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/consumers-spend-just-as-much-on-restaurants-lately-just-on-fewer-occasions/>
+
+---
+
+## VOA Mandarin: China courts India as Trump, Modi vow to deepen ties
+
+date: 2025-02-10, from: VOA News USA
+
+Indian Prime Minister Narendra Modi is scheduled to visit the U.S. on Wednesday. President Donald Trump announced Modi's White House visit as India's foreign secretary, Vikram Misri, met with Chinese Foreign Minister Wang Yi in Beijing, where they agreed to restore bilateral ties and resume direct flights and pilgrimages by Indian pilgrims to a holy site in Tibet. 
+
+
+While Modi's government has shifted toward populist policies, China launched an aggressive public relations campaign in 2024 to improve its standing with India. Analysts view China's diplomatic push as a response to the deepening U.S.-India partnership and Beijing's desire to maintain regional influence, particularly given expected tensions with the Trump administration. 
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-china-courts-india-as-trump-modi-vow-to-deepen-ties-/7969940.html>
+
+---
+
+## Do safety inspections make your car safer or put your wallet at risk?
+
+date: 2025-02-10, from: Market Place
+
+Texas has joined the list of states that don't require annual vehicle check-ups. With or without the regulation, there are costs for motorists. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/do-safety-inspections-make-your-car-safer-or-put-your-wallet-at-risk/>
+
+---
+
+## It’s not just home prices and mortgage rates. Insurance and property taxes are higher these days, too.
+
+date: 2025-02-10, from: Market Place
+
+Home insurance premiums are 52% higher than they were in 2020, and the average homeowner is now putting about a third of their monthly payment to taxes and insurance. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/its-not-just-home-prices-and-mortgage-rates-insurance-and-property-taxes-are-higher-these-days-too/>
+
+---
+
+## Ohio data center boom shows Big Tech planting seeds in Middle America
+
+date: 2025-02-10, from: Market Place
+
+Journalist Mya Frazier wrote about sequoia-sized electric power poles, farmland price inflation and the impact on communities.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/10/ohio-power-lines-data-center-energy/>
+
+---
+
+## VOA Persian: With no new nuclear deal, Iran to remain under maximum pressure, US says
+
+date: 2025-02-10, from: VOA News USA
+
+The restored maximum pressure campaign on Iran will continue if it does not want a new nuclear deal, the ‌State Department said, while reiterating Washington’s commitment to preventing Iran from acquiring a nuclear weapon. 
+
+
+“If the Iranian regime does not want a deal, the president is clear, Iran will remain under the restored maximum pressure campaign,” a State Department spokesperson told VOA Persian on Monday, referring to President Donald Trump’s willingness to discuss a new deal with Iran. 
+
+
+Trump wrote on Truth Social that he seeks a “Verified Nuclear Peace Agreement, which will let Iran peacefully grow and prosper” in return for ensuring that the Islamic Republic “cannot have a Nuclear Weapon.” 
+
+
+Click here for the full story in Persian. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-persian-with-no-new-nuclear-deal-iran-to-remain-under-maximum-pressure-us-says/7969927.html>
+
+---
+
+## JD Vance's impatience with constitutional niceties won't buy him friends on the court
+
+date: 2025-02-10, from: The Contrarian
+
+The idea that the president alone gets to determine what his &#8220;legitimate&#8221; powers are would make Nixon smile. 
+
+<br> 
+
+<https://contrarian.substack.com/p/jd-vances-impatience-with-constitutional>
+
+---
+
+## US defense chief headed to Europe for NATO, Ukraine meetings
+
+date: 2025-02-10, from: VOA News USA
+
+Pentagon — New U.S. Defense Secretary Pete Hegseth is headed to Europe, his first international trip since taking office last month.
+
+
+Hegseth departed from Joint Base Andrews, just outside of Washington, early Monday, for stops in Germany, Belgium and Poland.
+
+
+In Germany, the defense secretary is scheduled to visit the headquarters for U.S. European Command, and U.S. Africa Command, getting updates on developments in both regions. 
+
+
+
+
+From Germany, Hegseth will travel to Brussels for the NATO Defense Ministerial and a meeting of the Ukraine Defense Contact Group on Wednesday and Thursday.
+
+
+U.S. defense officials say Hegseth is expected to press U.S. allies in Europe to increase their defense spending and take more of a leadership role for challenges facing Europe.
+
+
+He is also expected to echo U.S. President Donald Trump’s call for a diplomatic end to the war between Russia and Ukraine, which is about to enter its third year.
+
+
+The meeting of the Ukraine Defense Contact Group — a group of almost 50 countries who have pledged to support Ukraine in its efforts to repel Russia — is the first to take place during the new Trump administration and will be the first led by a country other than the U.S.
+
+
+This week’s meeting, the 26th, will be led by Britain.
+
+
+Britain’s Defense Ministry, in a statement Thursday said the meeting will focus on “priorities for Ukraine as the international community continues to work together to support Ukraine in its fight against [Russian President Vladimir] Putin’s illegal invasion.”
+
+
+The Pentagon, in a statement previewing Hegseth’s participation in the meeting, said in addition to emphasizing Trump’s push for a diplomatic resolution to the war, the secretary, “will also highlight the need for increased European leadership on security assistance to Ukraine.”
+
+
+
+
+Following the meetings in Brussels, Hegseth is scheduled to travel to Poland to meet with leaders there and visit with U.S. troops.
+
+
+Of note, the U.S. defense secretary said he is skipping the annual Munich Security Conference in Germany, which bills itself as “the world's leading forum for debating international security policy,” which gets underway Friday.
+
+
+“We're not going to the Munich Security Conference,” Hegseth told defense officials and troops at a town hall meeting last Friday at the Pentagon.
+
+
+“We're instead going to Poland to see the troops out there and we're going to Germany to see EUCOM and AFRICOM,” he said. “I would much rather talk to troops than go to cocktail parties. That's my job.”
+
+
+Instead, the U.S. is set to be represented in Munich by Vice President JD Vance and Secretary of State Marco Rubio. 
+
+<br> 
+
+<https://www.voanews.com/a/us-defense-chief-headed-to-europe-for-nato-ukraine-meetings/7969820.html>
+
+---
+
+## Musk looks to make rapid changes at several US government agencies
+
+date: 2025-02-10, from: VOA News USA
+
+President Donald Trump’s point person for making rapid changes at U.S. governmental agencies is Elon Musk, the chief executive of carmaker Tesla and aerospace company SpaceX. Congressional Democrats say that the Trump-backed multibillionaire's attempt to reduce federal government spending is wrong. Michelle Quinn looks at what Musk has been doing in Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/musk-looks-to-make-rapid-changes-at-several-us-government-agencies/7964758.html>
+
+---
+
+##  Musk Targets His Companies’ Regulators 
+
+date: 2025-02-10, from: The Lever News
+
+ The billionaire’s push to kill the CFPB followed his social media company’s deal that might have been scrutinized by the agency.  
+
+<br> 
+
+<https://www.levernews.com/musk-targets-his-companies-regulators/>
+
+---
+
+## We rejected kingly power once. We must do so again.
+
+date: 2025-02-10, from: The Contrarian
+
+Constitutional principles are so deeply wedded to the American experience that they transcend presidential administrations. 
+
+<br> 
+
+<https://contrarian.substack.com/p/we-rejected-kingly-power-once-we>
+
+---
+
+## Re-Construction and Altadena
+
+date: 2025-02-10, from: Capital and Main
+
+<p>From uprising to fires, Blacks in L.A. continue the fight against erasure.</p>
+<p>The post <a href="https://capitalandmain.com/re-construction-and-altadena">Re-Construction and Altadena</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/re-construction-and-altadena>
+
+---
+
+## Opening statements begin in trial of man accused of trying to kill Salman Rushdie
+
+date: 2025-02-10, from: VOA News USA
+
+Mayville, New York — Lawyers began delivering opening statements Monday at the trial of the man charged with trying to fatally stab author Salman Rushdie in front of a lecture audience in western New York.  
+
+
+Rushdie, 77, is expected to testify during the trial of Hadi Matar, bringing the writer face-to-face with his knife-wielding attacker for the first time in more than two years.  
+
+
+Rushdie, the Booker Prize-winning author, had been about to speak about keeping writers safe from harm in August 2022 when Matar ran toward him on the stage at the Chautauqua Institution Amphitheater. Matar stabbed Rushdie more than a dozen times in the neck, stomach, chest, hand and right eye, leaving him partially blind and with permanent damage to one hand. 
+
+
+
+
+The Indian-born British-American author detailed the attack and his long, painful recovery in a memoir, "Knife: Meditations After an Attempted Murder," released last year. Rushdie had worried for his safety since his 1989 novel "The Satanic Verses" was denounced as blasphemous by many Muslims and led to Iran's Ayatollah Ruhollah Khomeini issuing a fatwa calling for his death.  
+
+
+Rushdie spent years in hiding, but had traveled freely over the past quarter century after Iran announced it would not enforce the decree.  
+
+
+The trial is taking place as the 36th anniversary of the fatwa — Feb. 14, 1989 — approaches.  
+
+
+Matar, 27, of Fairview, New Jersey, is charged with attempted murder and assault. He has pleaded not guilty.  
+
+
+A jury was selected last week. Matar was in court throughout the three-day process, taking notes and consulting with his attorneys. He calmly said, "Free Palestine" while being led in to court Monday past members of the media taking photographs and video.  
+
+
+Matar's defense faced a challenging start after it was announced that his lawyer, Nathaniel Barone, was hospitalized with an undisclosed illness and would not attend the start of the trial.  
+
+
+Judge David Foley refused a defense request to postpone opening statements, instead instructing an associate of Barone to deliver the defense's opening statement in his place.
+
+
+Once testimony is underway, the trial is expected to last a week to 10 days. Jurors will be shown video and photos from the day of the attack, which ended when onlookers rushed Matar and held him until police arrived.  
+
+
+The event's moderator, Henry Reese, co-founder of City of Asylum in Pittsburgh, was also wounded. Matar told investigators he traveled by bus to Chautauqua, about 120 kilometers south of Buffalo. He is believed to have slept in the grounds of the arts and academic retreat the night before the attack.  
+
+
+Matar's attorney has not indicated what his defense will be. In a separate indictment, federal authorities allege Matar was motivated by a terrorist organization's endorsement of a fatwa, or edict, calling for Rushdie's death.  
+
+
+A later trial on the federal charges — terrorism transcending national boundaries, providing material support to terrorists and attempting to provide material support to a terrorist organization — will be scheduled in U.S. District Court in Buffalo.  
+
+
+Rushdie has been one of the world's most celebrated authors since the 1981 publication of "Midnight's Children," winner of the Booker Prize. His other works include the novels "Shame" and "Victory City," which he had completed shortly before the 2022 stabbing, and the 2012 memoir "Joseph Anton," in which he wrote about his time in hiding.
+
+
+In the federal indictment, authorities allege Matar believed the edict was backed by the Lebanon-based militant group Hezbollah and endorsed in a 2006 speech by the group's then-leader, Hassan Nasrallah. 
+
+<br> 
+
+<https://www.voanews.com/a/opening-statements-begin-in-trial-of-man-accused-of-trying-to-kill-salman-rushdie/7969468.html>
+
+---
+
+## Third federal judge blocks Trump's birthright citizenship order
+
+date: 2025-02-10, from: VOA News USA
+
+Concord, New Hampshire — A third federal judge on Monday blocked President Donald Trump's executive order ending birthright citizenship for the children of people who are in the U.S. illegally.  
+
+
+The ruling from U.S. District Judge Joseph N. Laplante in New Hampshire comes after two similar rulings by judges in Seattle and Maryland last week. A lawsuit filed by the American Civil Liberties Union contends that Trump's order violates the Constitution and "attempts to upend one of the most fundamental American constitutional values."  
+
+
+Trump's Republican administration has asserted that children of noncitizens are not "subject to the jurisdiction" of the United States and therefore are not entitled to citizenship.  
+
+
+The administration is appealing the Seattle judge's block on Trump's executive order.  
+
+
+At the heart of the lawsuits in the three cases is the 14th Amendment to the Constitution, ratified in 1868 after the Civil War and the Dred Scott Supreme Court decision, which held that Scott, an enslaved man, wasn't a citizen despite having lived in a state where slavery was outlawed.  
+
+
+In 1898, in a case known as United States v. Wong Kim Ark, the U.S. Supreme Court found the only children who did not automatically receive U.S. citizenship upon being born on U.S. soil were children of diplomats, who have allegiance to another government; enemies present in the U.S. during hostile occupation; those born on foreign ships; and those born to members of sovereign Native American tribes.  
+
+
+The U.S. is among about 30 countries where birthright citizenship — the principle of jus soli, or "right of the soil" — is applied. Most are in the Americas and Canada and Mexico are among them. 
+
+<br> 
+
+<https://www.voanews.com/a/third-federal-judge-blocks-trump-s-birthright-citizenship-order/7969406.html>
 
 ---
 

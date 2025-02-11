@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-02-10 07:11:48
+updated: 2025-02-10 16:51:28
 ---
 
 # weather
 
-(date: 2025-02-10 07:11:48)
+(date: 2025-02-10 16:51:28)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-02-10, from: Eastern Pacific Basin GIS Data
+date: 2025-02-11, from: Eastern Pacific Basin Tropical Cyclones
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Mon Feb 10 14:41:02 UTC 2025
+## SPC - No watches are valid as of Tue Feb 11 00:29:01 UTC 2025
 
-date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Feb 10 14:41:02 UTC 2025. 
+No watches are valid as of Tue Feb 11 00:29:01 UTC 2025. 
 
 <br> 
 
@@ -33,15 +33,114 @@ No watches are valid as of Mon Feb 10 14:41:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Mon Feb 10 14:41:02 UTC 2025
+## SPC - No MDs are in effect as of Tue Feb 11 00:29:01 UTC 2025
 
-date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Feb 10 14:41:02 UTC 2025. 
+No Mesoscale Discussions are in effect as of Tue Feb 11 00:29:01 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0222 PM CST Mon Feb 10 2025
+
+Valid 121200Z - 181200Z
+
+A progressive upper pattern is in store for the upcoming week into
+next weekend, with multiple surface cyclones poised to develop over
+the Plains states and eject eastward in tandem with supporting
+mid-level troughs. Surface cyclone development is expected in the
+southern Plains with the approach of the first mid-level trough,
+supporting dry downslope flow across far western Texas Day 3
+(Wednesday). 25 mph sustained westerly surface winds and 15 percent
+RH will overspread drying fuels over the Trans Pecos region,
+necessitating the maintenance of 70 percent Critical probabilities.
+The passage of another mid-level trough, surface low, and
+accompanying downslope flow, is likely on Day 6 (Saturday), where
+dry and windy conditions across far western Texas warrants 40
+percent Critical probabilities. Some precipitation accumulations are
+possible just east of the Trans Pecos on Wednesday, which may
+influence the eastern extent of fire weather highlights for both
+Days 3 and 6 in future outlooks. After Saturday, relatively
+quiescent fire weather conditions are likely before another
+mid-level trough approaches beyond the extended outlook time frame.
+
+..Squitieri.. 02/10/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
+
+---
+
+## SPC Feb 10, 2025 2000 UTC Day 1 Convective Outlook
+
+date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0157 PM CST Mon Feb 10 2025
+
+Valid 102000Z - 111200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected through tonight.
+
+...20z Update...
+The previous forecast remains largely unchanged with minor
+adjustments. Broad-scale ascent/warm air advection is increasing
+across portions of the southern Plains, with elevated showers
+ongoing within a weakly unstable air mass. Gradual intensification
+of these showers into widely scattered thunderstorms is likely over
+the southern Plains and ArkLaTex tonight. The thunder area was
+expanded slightly farther east to better cover higher thunder
+potential from recent guidance. Otherwise, the severe risk remains
+low. See the prior outlook for additional info.
+
+..Lyons.. 02/10/2025
+
+.PREV DISCUSSION... /ISSUED 1019 AM CST Mon Feb 10 2025/
+
+...Central/North Texas and eastern Oklahoma/western Arkansas...
+Broadly cyclonic flow aloft will continue over the CONUS with
+gradual trough amplification over the northern Intermountain West,
+Great Basin and Lower Colorado River Valley. Focused by increasing
+warm advection and isentropic ascent within the elevated frontal
+zone, thunderstorms may develop as early as this afternoon across
+south-central/eastern Oklahoma into western Arkansas, and then more
+broadly late tonight in a northeast-southwest corridor across
+North/central Texas toward the Edwards Plateau. While vertical shear
+will be strong within the cloud-bearing layer, seasonally mild
+mid-level temperatures and residual subsidence-related capping in
+the mid-levels will likely preclude meaningful hail potential with
+this elevated convection.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
 
 ---
 

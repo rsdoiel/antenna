@@ -1,11 +1,88 @@
 ---
 title: pacific
-updated: 2025-02-10 07:11:47
+updated: 2025-02-10 16:51:27
 ---
 
 # pacific
 
-(date: 2025-02-10 07:11:47)
+(date: 2025-02-10 16:51:27)
+
+---
+
+## Climate change course for Egyptian government taught by UH professor
+
+date: 2025-02-10, from: University of Hawaiʻi News
+
+<p>Bob Richmond taught a course on climate change for government, private sector and academic leaders in Cairo, Egypt in January.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/10/climate-change-course-egypt/">Climate change course for Egyptian government taught by <abbr>UH</abbr> professor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/10/climate-change-course-egypt/>
+
+---
+
+## UH Alumni: Presidential awardee credits College of Education’s supportive community
+
+date: 2025-02-10, from: University of Hawaiʻi News
+
+<p>Presidential awardee Greg Kent formed lasting relationships at the College of Education.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/10/uh-alumni-greg-kent/"><abbr>UH</abbr> Alumni: Presidential awardee credits College of Education’s supportive community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/10/uh-alumni-greg-kent/>
+
+---
+
+## UH opposes NIH plan to cut research funding support
+
+date: 2025-02-10, from: University of Hawaiʻi News
+
+<p>&#8220;By limiting this essential support, the federal government is stepping back from its long-standing commitment to advancing medical innovation.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/10/uh-opposes-nih-plan-to-cut-research-funding-support/"><abbr>UH</abbr> opposes NIH plan to cut research funding support</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/10/uh-opposes-nih-plan-to-cut-research-funding-support/>
+
+---
+
+## Philippine studies aims to strengthen islands’ connection
+
+date: 2025-02-10, from: University of Hawaiʻi News
+
+<p>Patricia Halagao and Lorenzo Perillo are the new co-directors of the <abbr>UH</abbr> M&#257;noa Center for Philippine Studies.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/10/philippine-studies-aims-to-strengthen-islands-connection/">Philippine studies aims to strengthen islands’ connection</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/10/philippine-studies-aims-to-strengthen-islands-connection/>
+
+---
+
+## Attorney General Lopez sues Trump Administration for defunding medical and public health innovation research
+
+date: 2025-02-10, from: University of Hawaiʻi News
+
+<p>The coalition is challenging the Trump Administration’s attempt to unilaterally cut &#8220;indirect cost&#8221; reimbursements at every research institution throughout the country.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/10/ag-lopez-sues-trump-administration-for-defunding-medical-public-health-research/">Attorney General Lopez sues Trump Administration for defunding medical and public health innovation research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/10/ag-lopez-sues-trump-administration-for-defunding-medical-public-health-research/>
+
+---
+
+## Mildred and Giuseppe
+
+date: 2025-02-10, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Daniel Thomas Moran At the delicatessen on Henry St. in The Heights, he was the senior counterman at only sixteen years of age. The 8th grade diploma from P.S. 32 over on Union made him the family scholar at &#8230; <a href="https://hawaiipacificreview.org/2025/02/10/mildred-and-giuseppe/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/02/10/mildred-and-giuseppe/>
 
 ---
 

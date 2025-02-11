@@ -1,11 +1,74 @@
 ---
 title: libraries
-updated: 2025-02-10 07:11:48
+updated: 2025-02-10 16:51:30
 ---
 
 # libraries
 
-(date: 2025-02-10 07:11:48)
+(date: 2025-02-10 16:51:30)
+
+---
+
+## Balkans occidentaux: promotion militaire de la paix
+
+date: 2025-02-14, from: ETH Zurich, recently added
+
+Renaud, Lucas
+Möckli, Daniel 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/721492>
+
+---
+
+## The Lost Girl, by D. H. Lawrence
+
+date: 2025-02-10, from: Standard Ebooks, new releaases
+
+A young woman in the English Midlands struggles to find a direction in life. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/d-h-lawrence/the-lost-girl>
+
+---
+
+## Day in Review (February 10–13)
+
+date: 2025-02-10, from: Association of Research Libraries News
+
+<p>Last Updated on February 10, 2025, 4:59 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 11 &#124; Wednesday, February 12 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-10-13/">Day in Review (February 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-february-10-13/>
+
+---
+
+## The Swiss Family Robinson, by Johann David Wyss
+
+date: 2025-02-10, from: Standard Ebooks, new releaases
+
+A Swiss family is shipwrecked on a remote island in the East Indies. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/johann-david-wyss/the-swiss-family-robinson/mary-jane-godwin_william-godwin>
+
+---
+
+## The Cruise of the Alerte, by E. F. Knight
+
+date: 2025-02-10, from: Standard Ebooks, new releaases
+
+An English journalist sets sail in search of treasure buried on a remote desert island. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/e-f-knight/the-cruise-of-the-alerte>
 
 ---
 

@@ -1,11 +1,310 @@
 ---
 title: columns
-updated: 2025-02-10 07:11:47
+updated: 2025-02-10 16:51:28
 ---
 
 # columns
 
-(date: 2025-02-10 07:11:47)
+(date: 2025-02-10 16:51:28)
+
+---
+
+## Pining for the Patriarchy
+
+date: 2025-02-11, from: Dan Rather's Steady
+
+A scorched-earth campaign to keep it intact 
+
+<br> 
+
+<https://steady.substack.com/p/pining-for-the-patriarchy>
+
+---
+
+## What did you expect?  Of course the Trump administration will defy court orders!
+
+date: 2025-02-10, updated: 2025-02-10, from: Ron Garret
+
+I'm not sure whether to laugh or cry over this:Federal judges have issued President Donald Trump
+ stinging legal rebukes in the early clashes over his blitz of executive
+ orders, and two of his top aides have responded by suggesting that his 
+administration defy the courts and move forward with its agenda.There’s no indication that Trump has adopted such a strategy, although a U.S. judge in Rhode 
+
+<br> 
+
+<https://blog.rongarret.info/2025/02/what-did-you-expect-of-course-trump.html>
+
+---
+
+## ★ Nike’s ‘So Win’ Won the Super Bowl
+
+date: 2025-02-10, updated: 2025-02-10, from: Daring Fireball
+
+My favorite (and least favorite) ads from Super Bowl 59. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/nikes_so_win_won_the_super_bowl>
+
+---
+
+##  Democracy is Crumbling. Is Anybody Doing Anything? Sherrilyn Ifill has a list... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046188-democracy-is-crumbling-is>
+
+---
+
+## [Sponsor] Clerk — Complete User Management for Your iOS Application
+
+date: 2025-02-10, updated: 2025-02-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://go.clerk.com/2n40MWr>
+
+---
+
+##  Five Former Treasury Secretaries: Our Democracy Is Under Siege. &#8220;[We&#8217;re writing] this... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046187-five-former-treasury-secr>
+
+---
+
+##  Voting for the Mayor Who Promised to Blow Up the City Doesn&#8217;t... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046186-voting-for-the-mayor-who>
+
+---
+
+## Nixon's letter to Elon Musk
+
+date: 2025-02-10, from: Robert Reich's blog
+
+From the Borowitz Report (February 9, 2025) 
+
+<br> 
+
+<https://robertreich.substack.com/p/nixons-letter-to-elon-musk>
+
+---
+
+##  How People & Institutions in Budding Autocracies Obey in Advance 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/how-people-institutions-in-budding-autocracies-obey-in-advance>
+
+---
+
+##  One of the attributes of the modern condition is an inability to... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046184-one-of-the-attributes-of>
+
+---
+
+## February 9, 2025
+
+date: 2025-02-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156875019/39c431e8ef5ae341361ce5661200bede.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156875019/39c431e8ef5ae341361ce5661200bede.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-9-2025-8ae>
+
+---
+
+##  From Greg Storey, a list of &#8220;ways to take in information without... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046178-from-greg-storey-a-list>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-10, from: Miguel de Icaza Mastondon feed)
+
+<p>New England Godot user meeting is this afternoon at the Microsoft NERD Center.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113981056498387080>
+
+---
+
+##  &#8220;The private companies in control of social-media networks possess an unprecedented ability... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046183-the-private-companies-in->
+
+---
+
+## On Regrets and Their Absence
+
+date: 2025-02-10, from: Doc Searls (at Harvard), New Old Blog
+
+Somebody just gave the 31st upvote to my answer to the Quora question &#8220;What do you regret as you get older?&#8221; So I thought it might be worth repeating. Here’s a short list: Not learning at least one other language. Not learning a musical instrument (or to sing) well enough to play in a group. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/02/10/on-regrets-and-their-absence/>
+
+---
+
+##  It&#8217;s a Coup, But It&#8217;s Not Just Musk&#8217;s Coup 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/its-a-coup-but-its-not-just-musks-coup>
+
+---
+
+## It's past time to wake up
+
+date: 2025-02-10, from: Dave Winer's Scripting News
+
+<p>At some point soon we’re going to have to stop business as usual. Remember when we realized Covid was deadly and we’d have to radically change our lives to survive? Most of us did that. We’re going to do that soon re the overthrow of our government and looting of the economy.</p>
+<p>It was remarkable watching the SuperBowl last night, you could conclude everything is normal. It’s not. We’re going to have to start shutting down all the services we can to make the point to our fellow citizens that we, the United States, are not coming back from this without major change.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/10/162800.html?title=itsPastTimeToWakeUp>
+
+---
+
+##  This is a great thread on how an ordinary person stepped up... 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046180-this-is-a-great-thread>
+
+---
+
+## Musk roots the world economy
+
+date: 2025-02-10, from: Dave Winer's Scripting News
+
+<p>First, that's just a theory, but I need to get your attention. </p>
+<p>Rooting a computer means you own it. You have superuser powers. You can do anything, install or uninstall anything.</p>
+<p>Mostly journalism has been reporting "He has our social security numbers." Sigh. That's not nearly the problem folks.</p>
+<p>With root access on the financial computers of the US, you can delete debt. Trump <a href="https://www.foxbusiness.com/politics/trump-suggests-us-may-have-less-debt-than-thought-because-fraud">threatened</a> to do that last night, in a really menacing way. They are smart fellows those guys. </p>
+<p>You want to destroy the world economy? Start deleting records of debt to the US treasury. Ask an economist if you don't believe me.</p>
+<p>More likely is they want to hold the world economy hostage, and then they will take their demands of Gaza and Canada more seriously. It's clever because it doesn't require soldiers, not one shot will be fired. My guess is that they already have this power. </p>
+<p>BTW, here's SQL code that randomly deletes 1 in 5 records in a table named inventory. </p>
+<ul>
+<li><code>delete from inventory where rand () < 0.2;</code></li>
+</ul>
+<p>Run that command on the debt of the United States, and voila, the greatest depression ever.</p>
+<p>You don't have to be a math wiz to come up with that, btw. You can <a href="https://chatgpt.com/share/67aa0be8-91f0-8012-987f-89d8b8edba21">ask ChatGPT</a>. And before you blame ChatGPT this would be an early exercise in a textbook on SQL programming.</p>
+<p>Deleting the debt would be like trying to withdraw money from your account at a bank and them saying they have no record of you having an account. The US treasury is basically the root bank of the entire world economy. It's where people store their money.  </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/10/160321.html?title=muskRootsTheWorldEconomy>
+
+---
+
+##  The Power of Chaos 
+
+date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-power-of-chaos>
+
+---
+
+## 2025-02-07 I bought some tea
+
+date: 2025-02-10, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-07-i-bought-some-tea">2025-02-07 I bought some tea</h1>
+
+<p>I buy tea about once a year. I also buy a lot of coffee but I have never compared the two. Probably a mistake. At one point I weighed the coffee beans for my Mokka pot and got 17g. I make two of these per day. That’s about 12.5kg per year and probably costs CHF 250.- per year, plus coffee in coffee houses and restaurants.</p>
+
+<p>Anyway, taking pictures of the labels with my phone, relying on the optical character recognition so I can copy and paste this into <a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a>’s <a href="http://www.panix.com/~perin/babelcarp/">Babel Carp</a>, “a Chinese Tea Lexicon”, and reading the entriss is how I also spend extra time with the tea.</p>
+
+<ul>
+<li>Ye Lai Xiang (50g / CHF 41.50), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E5%87%A4%E5%87%B0%E5%8D%95%E4%B8%9B&amp;define=1">凤凰单丛</a>, Phoenix Single Bush, descended from Shuixian trees growing in Fenghuanshan, i.e., the Phoenix Mountains in Chao An, called 夜来香 or Nocturnal Fragrance, maybe due to roasting over lychee wood (although last time I bought it wasn’t nearly as strong as I remembered I still want back that lychee fragrance)</li>
+<li>Ya Shi Xiang Dong Pian (50g / CHF 55.00), another 凤凰单丛, this one being <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E9%B8%AD%E5%B1%8E%E9%A6%99%E5%86%AC%E7%89%87&amp;define=1">鸭屎香冬片</a> or “Smells Like Duck Shit” – this is confusing! – from Taiwan</li>
+<li>Gang Kou Cha Meer Oolong (100g / CHF 55.00), <a href="http://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E6%B8%AF%E5%8F%A3%E8%8C%B6&amp;define=1">港口茶</a>, harbour tea from Pingtung in Taiwan</li>
+<li>Jinggu 2016 ( 357g / CHF 180.00), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E6%99%AE%E6%B4%B1%E7%94%9F%E9%A5%BC%E5%8F%A4%E6%A0%91%E8%8C%B6&amp;define=1">普洱生饼古树茶</a>, Pu Er Shen Bing Gu Shu Cha, i.e., raw Pu Er from old trees in 景谷, Jinggu; this one is the cheapest I could get, being neither from the east nor west of the Mekong river from from further north; they had cakes from 2015 up to 2024, all at the same price, and I didn’t know which ones to pick so I picked an older one – was this a good choice?</li>
+<li>Jin Jiang Hui Ming (50g / CHF 40.00), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E9%87%91%E5%A5%96%E6%83%A0%E6%98%8E&amp;define=1">金奖惠明</a>, green tea  grown by the She Zu; it got a gold medal in 1915! 😄 Huiming is the name of a local temple</li>
+<li>Tama Ryokucha Hinpyoukai (50g / CHF 35.00),</li>
+<li>Gen Mai Bancha (125g / CHF 17.50)</li>
+<li>Hojicha (70g / CHF 13.50)</li>
+<li>Shincha Yame (100g / CHF 40.00)</li>
+<li>Sencha Hoshino (50g / CHF 42.50)</li>
+</ul>
+
+<p>Some everyday tea like Genmaicha and Hojicha; some Sencha; some green tea from China, and a Pu Er cake. I am an absolutely clueless buyer of tea and essentially I just know that my price range goes up to around CHF 60.-/50g.</p>
+
+<p>Nevertheless, in my hubris I wrote <a href="2024-10-22-chinese-tea">preparing Chinese tea for beginners</a>. In a way, I feel like you can’t do this journey all in one go, so I wrote what I thought was important to me when I got started and I’m hoping to read more from people further along.</p>
+
+<p>Let me know if you have books or articles to recommend.</p>
+
+<p><a class="tag" href="/search/?q=%23Tea">#Tea</a></p>
+
+<p><strong>2025-02-10</strong>. The Tama Ryokucha Hinpyoukai is intense! 😍</p>
+
+<p><img loading="lazy" src="2025-02-07-tea-1.jpg" alt="" /></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-07-tea>
 
 ---
 
@@ -264,7 +563,7 @@ How to deal with their tyranny
 
 ## Eddy and Tim’s Excellent Super Bowl Adventure
 
-date: 2025-02-09, updated: 2025-02-09, from: Daring Fireball
+date: 2025-02-09, updated: 2025-02-10, from: Daring Fireball
 
  
 
@@ -276,7 +575,7 @@ date: 2025-02-09, updated: 2025-02-09, from: Daring Fireball
 
 ## The Internet Archive Unveils Marble Bust of Aaron Swartz
 
-date: 2025-02-09, updated: 2025-02-09, from: Daring Fireball
+date: 2025-02-09, updated: 2025-02-10, from: Daring Fireball
 
  
 

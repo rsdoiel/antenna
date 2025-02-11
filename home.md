@@ -1,11 +1,157 @@
 ---
 title: home
-updated: 2025-02-10 07:11:49
+updated: 2025-02-10 16:51:30
 ---
 
 # home
 
-(date: 2025-02-10 07:11:49)
+(date: 2025-02-10 16:51:30)
+
+---
+
+## Red Steel and Brick Enliven a ’70s Rowhouse Renovation in London
+
+date: 2025-02-10, from: Dwell
+
+A beam marking a bump out matches stair railing, flooring, and an eve at the home’s entry. 
+
+<br> 
+
+<https://www.dwell.com/article/elemental-house-archmongers-energy-efficient-renovation-e65235e8>
+
+---
+
+## 9 of the Best Grape Hyacinth Varieties for Your Garden
+
+date: 2025-02-10, from: The Gardener's Path
+
+<p>For an easy pop of bright color and sweet perfume, muscari bulbs are a great plant-and-forget solution. Wonderfully low-maintenance and reliable, they send up stands of rich blue, purple, and white flowers in the early spring garden. Read all about the 9 best grape hyacinth varieties for the garden right here.  </p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-grape-hyacinth-varieties/">9 of the Best Grape Hyacinth Varieties for Your Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-grape-hyacinth-varieties/>
+
+---
+
+## Bay Area collaborative pilots 5-10-year leases for urban farms on city property
+
+date: 2025-02-10, from: Urban Ag blog
+
+<a href="http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=61642&utm_source=RSS&utm_medium=RSS&utm_campaign=RSS%2BFeed"><img src="https://ucanr.edu/blogs/UrbanAg/blogfiles/111221small.jpg" align="left" border="0"></a>Image: &quot;urban farming,&quot; by Elizabeth Lloyd on Flickr, CC BY 2.0.
+Growing food in urban and peri-urban environments has many documented and diverse benefits, including enhancing food sovereignty and building community. But the high market value of city parcels means that finding and staying on land is a top challenge for urban farmers, according to a 2024 California Food and Farming Alliance grower survey.
+In California, the state&apos;s flagship policy to address stable land access for urban...<br clear="all"> 
+
+<br> 
+
+<http://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=61642&utm_source=RSS&utm_medium=RSS&utm_campaign=RSS%2BFeed>
+
+---
+
+## Before & After: Ann Edgerton Takes the ’80s Out of Her Texas Ranch House
+
+date: 2025-02-10, from: Dwell
+
+The Dwell 24 alumnus jumps into Hill Country life with a holistic remodel that pairs vintage finds with new works from her furniture studio, Muhly. "I really like fresh starts," she says. "Like, let’s leave it all behind, you know?" 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-hill-country-retreat-edgerton-studio-muhly-ranch-house-renovation-e3f8b0d4>
+
+---
+
+## Wait Till You See the Pool at This Monolithic Portugal Home Asking $4M
+
+date: 2025-02-10, from: Dwell
+
+Set in the Algarve region, the brutalist compound made of board-formed concrete is not your average countryside getaway. 
+
+<br> 
+
+<https://www.dwell.com/article/frame-house-pedro-domingos-concrete-brutalist-algarve-portugal-real-estate-7a7c25b7>
+
+---
+
+## What Do the Different Driving Modes On Your Car Actually Do?
+
+date: 2025-02-10, from: Family Handyman Blog
+
+<p>Driving modes streamline your ride by tweaking fuel consumption, handling, performance and comfort. We'll tell you all about them.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/every-driving-mode-explained/">What Do the Different Driving Modes On Your Car Actually Do?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/every-driving-mode-explained/>
+
+---
+
+## Why Your Car Makes Noise in Cold Weather and What To Do About It
+
+date: 2025-02-10, from: Family Handyman Blog
+
+<p>With over 50 years in the automotive industry, I can honestly say that cars do not like the cold. One challenge I faced was when customers would...</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-makes-noise-when-its-cold/">Why Your Car Makes Noise in Cold Weather and What To Do About It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-makes-noise-when-its-cold/>
+
+---
+
+## Is Your Ryobi Mower a Fire Hazard? 200,000 Mowers Recalled
+
+date: 2025-02-10, from: Family Handyman Blog
+
+<p>Ryobi mowers are being recalled over a fire risk. Check if your model is affected and what to do next.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ryobi-lawn-mower-recall/">Is Your Ryobi Mower a Fire Hazard? 200,000 Mowers Recalled</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ryobi-lawn-mower-recall/>
+
+---
+
+## Restore Your Stainless Steel’s Luster With Olive Oil
+
+date: 2025-02-10, from: Family Handyman Blog
+
+<p>Humble olive oil can replace that spray bottle of stainless steel polish. Here are pros and cons, plus how to use it like a pro.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/clean-stainless-steel-with-olive-oil/">Restore Your Stainless Steel’s Luster With Olive Oil</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/clean-stainless-steel-with-olive-oil/>
+
+---
+
+## How to Grow and Care for Cranesbill Geraniums
+
+date: 2025-02-10, from: The Gardener's Path
+
+<p>Hardy geraniums are prized for their reliable performance, pretty flowers, easy habits, and long bloom time of early summer through to frost. Highly versatile in sun to part shade, they shine in containers, as fillers, ground covers, or massed into drifts. Learn how to grow and care for cranesbill geraniums in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/cranesbill-geranium/">How to Grow and Care for Cranesbill Geraniums</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/cranesbill-geranium/>
+
+---
+
+## These Are the Best Plane Snacks from Trader Joe’s to Bring on Your Next Trip
+
+date: 2025-02-10, from: Sunset Magazine - Living in the West
+
+These healthy-ish snacks will sate you on your next trip and save you money on airport food the next time you travel. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-plane-snacks-trader-joes>
 
 ---
 
@@ -18,6 +164,30 @@ Bored of the all-white interiors trend? With the right tone and lighting, moody,
 <br> 
 
 <https://www.dwell.com/article/how-to-use-dark-colors-decorating-interiors-bfc82b20>
+
+---
+
+## The Ultimate Malibu Summer Itinerary
+
+date: 2025-02-10, from: Sunset Magazine - Living in the West
+
+Malibu is an iconic California beach getaway. A local shares the best things to do, eat, drink, and see in Malibu. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/things-to-do-in-malibu>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-10, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 

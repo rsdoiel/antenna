@@ -1,11 +1,83 @@
 ---
 title: journalism
-updated: 2025-02-10 07:11:48
+updated: 2025-02-10 16:51:29
 ---
 
 # journalism
 
-(date: 2025-02-10 07:11:48)
+(date: 2025-02-10 16:51:29)
+
+---
+
+## Welcome Black 2025: Fostering Student Connections
+
+date: 2025-02-10, from: The Sundail (CSUN Student Newspaper)
+
+Over a hundred students gathered in the Northridge Center at the University Student Union, accompanied by music and tables from different clubs and organizations to celebrate Welcome Black. As part... 
+
+<br> 
+
+<https://sundial.csun.edu/189818/news/welcome-black-2025-fostering-student-connections/>
+
+---
+
+## Embracing community at Bienvenida
+
+date: 2025-02-10, from: The Sundail (CSUN Student Newspaper)
+
+“You&#8217;re not just another number to CSUN; you&#8217;re not just another student who&#8217;s trying to get a degree. You&#8217;re a person… we&#8217;re acknowledging who you are [and] where you came... 
+
+<br> 
+
+<https://sundial.csun.edu/189812/news/embracing-community-at-bienvenida/>
+
+---
+
+## Bruin to Bruin: Swiping Out Hunger with Rachel Sumekh
+
+date: 2025-02-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Host Kayla Hayempour talks with UCLA alum Rachel Sumekh, founder of Swipe Out Hunger, about turning a small campus initiative into a national movement against college food insecurity. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/10/bruin-to-bruin-swiping-out-hunger-with-rachel-sumekh/>
+
+---
+
+## Gallery: Japanese Student Association brings music and culture to Matsuri
+
+date: 2025-02-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+On Jan. 23, the Japanese Student Association held the Matsuri festival on Kerckhoff Patio. In collaboration with the Undergraduate Students Association Council’s Campus Events Commission, the festival showcased several booths with cultural food and games. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/10/gallery-japanese-student-association-brings-music-and-culture-to-matsuri/>
+
+---
+
+## Mental health matters: Free counseling services
+
+date: 2025-02-10, from: The Sundail (CSUN Student Newspaper)
+
+University Counseling Services (UCS) aims to provide free, high-quality counseling services for students who need mental health support to achieve academic success. According to the UCS website, free services include... 
+
+<br> 
+
+<https://sundial.csun.edu/189802/news/mental-health-matters-free-counseling-services/>
+
+---
+
+## Paul Torrens Health Forum speakers discuss health care under Trump administration
+
+date: 2025-02-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Speakers at the Paul Torrens Health Forum predicted that the Trump administration’s proposed health care budget cuts could threaten the coverage of millions of Californians and Americans alike. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/10/paul-torrens-health-forum-speakers-discuss-health-care-under-trump-administration/>
 
 ---
 
@@ -23,12 +95,12 @@ date: 2025-02-10, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## Thornton Student Council calls for CPT reduction
+## Open letter calls to remove international student work restrictions
 
 date: 2025-02-10, from: The Daily Trojan (USC Student Newspaper)
 
 <p>International students must pay extra tuition to accept off-campus work positions.</p>
-<p>The post <a href="https://dailytrojan.com/2025/02/10/thornton-student-council-calls-for-cpt-reduction/">Thornton Student Council calls for CPT reduction</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/10/thornton-student-council-calls-for-cpt-reduction/">Open letter calls to remove international student work restrictions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
