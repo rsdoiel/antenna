@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-02-10 17:34:38
+updated: 2025-02-11 07:08:49
 ---
 
 # libraries
 
-(date: 2025-02-10 17:34:38)
+(date: 2025-02-11 07:08:49)
 
 ---
 
@@ -19,6 +19,34 @@ Möckli, Daniel
 <br> 
 
 <http://hdl.handle.net/20.500.11850/721492>
+
+---
+
+## Participate in Fair Use/Fair Dealing Week!
+
+date: 2025-02-11, from: Association of Research Libraries News
+
+<p>Last Updated on February 11, 2025, 9:59 am ET Let us know what your library is planning for Fair Use/Fair Dealing Week 2025, February 24–28. This is the 12th annual...</p>
+<p>The post <a href="https://www.arl.org/blog/participate-in-fair-use-fair-dealing-week/">Participate in Fair Use/Fair Dealing Week!</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/participate-in-fair-use-fair-dealing-week/>
+
+---
+
+## DEIA and Doing the Right Thing
+
+date: 2025-02-11, from: Scholarly Kitchen
+
+<p>Now is a time when we must continue to stand against censorship and to support the scholarly community in both our words and our actions, according to our ethics and beliefs. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/11/deia-and-doing-the-right-thing/">DEIA and Doing the Right Thing</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/11/deia-and-doing-the-right-thing/>
 
 ---
 

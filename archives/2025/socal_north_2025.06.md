@@ -1,11 +1,47 @@
 ---
 title: socal north
-updated: 2025-02-10 17:34:35
+updated: 2025-02-11 07:08:47
 ---
 
 # socal north
 
-(date: 2025-02-10 17:34:35)
+(date: 2025-02-11 07:08:47)
+
+---
+
+## JPL laid off its K-12 education team. Now teachers lament how to fill the gap
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+During the latest round of layoffs, the tiny team was among the hundreds let go. And though some parts of the educational program remain, educators across the country mourn what was lost. 
+
+<br> 
+
+<https://laist.com/news/education/jet-propulsion-laboratory-jpl-k12-education-team-layoffs>
+
+---
+
+## Five LA food trucks you should try right now
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+Fish tacos with pineapple salsa, plantains with rice custard and black beans, and stuffed bulgogi beef burgers bring zing to the food truck scene. 
+
+<br> 
+
+<https://laist.com/news/food/five-la-food-trucks-you-should-try-right-now>
+
+---
+
+## Pandemic recovery continues, but students still lag behind 2019 test scores
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+But education researchers at Harvard and Stanford say there are bright spots — some individual school districts have surpassed pre-pandemic achievements. 
+
+<br> 
+
+<https://laist.com/news/education/california-pandemic-education-recovery-scorecard-2025>
 
 ---
 
@@ -57,11 +93,11 @@ The funds, known as “indirect costs,” help universities maintain expensive l
 
 ---
 
-## Judge further pauses Trump's 'Fork in the Road' resignation offer to federal employees
+## Trump's 'Fork in the Road' resignation offer for federal workers is in judge's hands
 
 date: 2025-02-11, updated: 2025-02-11, from: The LAist
 
-A federal judge in Boston extended his pause on the Trump administration's "Fork in the Road" offer to federal employees until he issues a subsequent decision. 
+After a hearing on Monday, a federal judge in Boston extended a stay on the deadline for federal employees to accept the Trump administration's resignation offer while he considers the arguments. 
 
 <br> 
 
@@ -273,7 +309,7 @@ As the clerk-recorder of Orange County, Hugh Nguyen has many duties — includin
 
 ## Reparations study seeks remedies for harm done to LA's Black communities
 
-date: 2025-02-09, updated: 2025-02-09, from: The LAist
+date: 2025-02-09, updated: 2025-02-10, from: The LAist
 
 The study, led by L.A.’s Reparations Advisory Commission, makes more than 60 recommendations organized into categories, including racial terror, housing segregation, and political disenfranchisement. 
 

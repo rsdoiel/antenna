@@ -1,11 +1,35 @@
 ---
 title: weather
-updated: 2025-02-10 17:34:37
+updated: 2025-02-11 07:08:48
 ---
 
 # weather
 
-(date: 2025-02-10 17:34:37)
+(date: 2025-02-11 07:08:48)
+
+---
+
+## SPC - No watches are valid as of Tue Feb 11 15:01:02 UTC 2025
+
+date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Feb 11 15:01:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Feb 11 15:01:02 UTC 2025
+
+date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Feb 11 15:01:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -21,27 +45,96 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Tue Feb 11 01:01:02 UTC 2025
+## SPC Feb 11, 2025 1300 UTC Day 1 Convective Outlook
 
 date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Feb 11 01:01:02 UTC 2025. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0647 AM CST Tue Feb 11 2025
+
+Valid 111300Z - 121200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FROM SOUTHEAST
+TEXAS AND THE LOWER MISSISSIPPI VALLEY INTO SOUTHERN MISSISSIPPI AND
+CENTRAL ALABAMA....
+
+...SUMMARY...
+Isolated to scattered thunderstorms are possible from the southern
+Plains into the lower Mississippi Valley. Some strong to severe
+thunderstorms are possible from southeast Texas and the Lower
+Mississippi Valley into southern Mississippi and central Alabama.
+
+...Synopsis...
+A pair of shortwave troughs are expected to progress through the
+southern Plains today as the cyclonic flow aloft across the western
+CONUS deepens. The first of these shortwaves is currently moving
+through the southern High Plains while the second remains off the
+coast of the northern Baja Peninsula. Both of those shortwaves are
+expected to progress quickly eastward, with the lead wave reaching
+the Mid-Atlantic by early Wednesday and the second shortwave
+reaching central TX.
+
+...Lower MS Valley into southern/central MS and AL...
+As mentioned in the synopsis, the lead shortwave trough is currently
+moving through the southern High Plains, with preceding warm-air
+advection contributing to an expansive area of precipitation from
+the TX Hill Country into the Mid-South. General expectation is that
+this area of precipitation will gradually shift northeastward
+throughout the day, remaining just ahead of the eastward-progressing
+shortwave. Low-level moisture return ahead of the first wave will be
+modest, particularly across TX where the modified Gulf moisture will
+likely remain confined to the coastal plain. Farther east, greater
+inland moisture advection is anticipated, with mid 60s dewpoints
+advection through much of the Lower MS Valley by the early
+afternoon. Lower 60s dewpoints are likely in the central portions of
+MS and AL by the late afternoon/early evening. 
+
+Even with this low-level moisture advection, mid-level temperatures
+will remain warm, keeping the overall buoyancy modest (i.e. MUCAPE
+less than 1000 J/kg) across the region. In contrast to the modest
+buoyancy, vertical shear will be quite strong, with effective bulk
+shear over 50 kt from the Lower MS Valley into AL and MS during the
+afternoon and evening. This strong vertical shear may be able to
+compensate for the lower buoyancy, and there could be a window for a
+few strong to severe storms this afternoon/evening along and ahead
+of the cold front from southern MS into southern and central AL.
+Primary risk would be damaging wind gusts, but enough low-level
+shear exists for a low-probability tornado threat as well.
+
+...Southern Plains late tonight...
+Strong large-scale forcing for ascent will spread across the
+southern High Plains and into west TX late tonight ahead of the
+second shortwave trough mentioned in the synopsis. Notable
+moistening between 850 and 700 mb combined with mid-level cooling
+will help support modest elevated buoyancy. Thunderstorms are
+expected to develop across West TX tonight before then spreading
+eastward/northeastward into more of OK and north/central TX. Much of
+this activity will be displaced well north/northwest of front and
+greater low-level moisture. Some hail is possible, but updraft depth
+and duration will be limited by weak buoyancy, and the current
+expectation is for any hail to remain very isolated. 
+
+As these storms move east/southeast with time, some interaction
+could occur with a warm front gradually moving northward into more
+of southeast TX early Wednesday morning. Increased buoyancy as well
+as enhanced mesoscale ascent in the vicinity of the front is
+expected to result in greater thunderstorm depth and duration.
+Vertical shear will remain strong as well, with all of these factors
+supporting a greater severe potential across southeast TX and
+adjacent far southwestern LA early Wednesday morning. Damaging gusts
+and/or a brief tornado are the primary threats.
+
+..Mosier/Broyles.. 02/11/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
 
 <br> 
 
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Tue Feb 11 01:01:02 UTC 2025
-
-date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Feb 11 01:01:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 
@@ -185,67 +278,6 @@ this elevated convection.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Feb 10, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0645 AM CST Mon Feb 10 2025
-
-Valid 101300Z - 111200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Isolated thunderstorms are possible from central Texas across
-southeast Oklahoma into western Arkansas tonight.
-
-...TX/OK/AR...
-Recent satellite imagery shows a well-defined shortwave trough off
-the southern CA/Baja CA coast. This feature is forecast to progress
-quickly east-northeastward throughout the day, traversing the
-Southwest/northern Mexico and reaching the southern Plains by
-tomorrow morning. Airmass ahead of this feature across the southern
-Plains is currently cool and dry, with the moist airmass still
-offshore. Mass response ahead of the approaching shortwave will lead
-to some modest airmass modification, with upper 50s/low 60s surface
-dewpoints potentially reaching the TX Hill Country/central TX by
-tomorrow morning. Even with these moistening low levels, warm
-mid-level temperatures will preclude buoyancy and deep convection
-across much of the TX Coastal Plain.
-
-Greater thunderstorm potential is anticipated farther north in
-corridor from the Edwards Plateau into southeast OK and western AR
-about 200 mi northwest of the primary synoptic boundary. Here,
-aforementioned mass response and associated strengthening of the
-low-level southwesterly flow will lead to moderate to strong
-low-level warm-air advection and the development of modest elevated
-buoyancy (generally above 800-750 mb). Isolated thunderstorms will
-be possible as early as this afternoon across southeastern OK and
-western AR. Persistent warm-air advection will likely contribute to
-a continued potential for isolated thunderstorms across this region
-throughout the evening. This persistent warm-air advection will also
-help support the development of modest buoyancy into TX as mid-level
-temperatures cool ahead of the approaching shortwave. Resulting
-buoyancy combined with increasing large-scale ascent should result
-in addition isolated thunderstorm development from north TX into the
-Edwards Plateau, largely after 06Z. Limited buoyancy should keep the
-severe potential low throughout the period.
-
-..Mosier/Broyles.. 02/10/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

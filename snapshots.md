@@ -1,11 +1,171 @@
 ---
 title: snapshots
-updated: 2025-02-10 17:34:41
+updated: 2025-02-11 07:08:51
 ---
 
 # snapshots
 
-(date: 2025-02-10 17:34:41)
+(date: 2025-02-11 07:08:51)
+
+---
+
+## Wikipedia Prepares for 'Increase in Threats' to US Editors From Musk and His Allies
+
+date: 2025-02-11, from: 404 Media Group
+
+The Wikimedia Foundation says it will likely roll out features previously used to protect editors in authoritarian countries more widely.  
+
+<br> 
+
+<https://www.404media.co/wikipedia-prepares-for-increase-in-threats-to-us-editors-from-musk-and-his-allies/>
+
+---
+
+## The New Cro-Magnon Era, What American Oligarchs Have Lost, and Trump's Views on Opera
+
+date: 2025-02-11, from: Tina Brown
+
+We&#8217;re only three weeks into the Ugly American era and it&#8217;s already unbearable. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/the-new-cro-magnon-era-what-american>
+
+---
+
+## An Alternate Cookie Reality
+
+date: 2025-02-11, updated: 2025-02-11, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/02/11/an-alternate-cookie-reality/>
+
+---
+
+## My Head Talks With Contrarians
+
+date: 2025-02-11, from: Paul Krugman
+
+A podcast from the other day 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/my-head-talks-with-contrarians>
+
+---
+
+## Preparing for AI
+
+date: 2025-02-11, from: O'Reilly Radar
+
+Submit a proposal for a talk at our new virtual conference, Coding with AI: The End of Software Development as We Know It. Proposals must be submitted by March 5; the conference will take place April 24, 2025, from 11AM to 3PM EDT. When tools like GitHub Copilot first appeared, it was received wisdom that AI [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/preparing-for-ai-2/>
+
+---
+
+## Washington’s Birthday: the Federal Holiday
+
+date: 2025-02-11, from: National Archives, Pieces of History blog
+
+On February 17, 2025, we&#8217;ll be celebrating &#8220;Washington&#8217;s Birthday,&#8221; which is the official title of the federally recognized holiday. Visit the National Archives website to learn more about our records related to George Washington—and other U.S. Presidents. This post was originally published in 2015. George Washington led the Continental Army during the Revolutionary War, presided &#8230; <a href="https://prologue.blogs.archives.gov/2025/02/11/washingtons-birthday-the-federal-holiday/" class="more-link">Continue reading <span class="screen-reader-text">Washington&#8217;s Birthday: the Federal Holiday</span></a> 
+
+<br> 
+
+<https://prologue.blogs.archives.gov/2025/02/11/washingtons-birthday-the-federal-holiday/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-11, from: Dave Winer's linkblog)
+
+Paul Krugman explains why Trump wants to close the CFPB. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/springtime-for-scammers?publication_id=277517&post_id=156876364&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Springtime for Scammers
+
+date: 2025-02-11, from: Paul Krugman
+
+Financial predation now has friends in high places 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/springtime-for-scammers>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-11, from: Dave Winer's linkblog)
+
+Focus on preventing H5N1 outbreaks, not containing them. 
+
+<br> 
+
+<https://www.statnews.com/2025/02/11/h5n1-avian-bird-flu-nipah-virus-prevention-containment/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-11, from: Dave Winer's linkblog)
+
+Trump demands $500B in rare earths from Ukraine for continued support. 
+
+<br> 
+
+<https://www.politico.eu/article/trump-demands-500b-in-rare-earths-from-ukraine-for-support/>
+
+---
+
+## Do US states with more renewable energy have more expensive electricity?
+
+date: 2025-02-11, from: Hannah Richie at Substack
+
+Despite California being the poster child of high prices, the data suggests no. 
+
+<br> 
+
+<https://www.sustainabilitybynumbers.com/p/us-states-electricity-sources-prices>
+
+---
+
+## Did Elon Musk just Mu$k Sam Altman?
+
+date: 2025-02-11, from: Gary Marcus blog
+
+With some bonus eye candy to lighten the mood 
+
+<br> 
+
+<https://garymarcus.substack.com/p/did-elon-musk-just-muk-sam-altman>
+
+---
+
+## The Eggshell’s Outer Shell
+
+date: 2025-02-11, updated: 2025-02-11, from: Tedium site
+
+Just in time for the eggs to completely fall out of the affordability range of the middle class, let’s talk about egg cartons. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16960044/egg-carton-history>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-11, from: Dave Winer's linkblog)
+
+Why do kindness influencers get criticised? 
+
+<br> 
+
+<https://www.bbc.com/news/articles/c23v3kxknrno>
 
 ---
 

@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-02-10 17:34:37
+updated: 2025-02-11 07:08:48
 ---
 
 # games
 
-(date: 2025-02-10 17:34:37)
+(date: 2025-02-11 07:08:48)
+
+---
+
+## Monster Hunter Wilds is the series’ friendliest entry yet — but not at the expense of hardcore fans, its creators say
+
+date: 2025-02-11, updated: 2025-02-10, from: Polygon Website
+
+Monster Hunter is an undeniable critical and commercial success for Capcom, but the game maker doesn’t seem content to simply cater to its (admittedly massive) existing audience with this year’s entry, Monster Hunter Wilds. The next game in the Monster Hunter franchise aims to be friendlier than ever to newcomers, as Capcom hopes to welcome [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/521156/monster-hunter-wilds-interview-preview>
+
+---
+
+## The 25 best Nintendo Switch games
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+Looking for the best games on the Nintendo Switch? What follows is a living list of the 25 Switch games we recommend everyone play or watch — in case you’re new to the system or you’re just looking for something new to play. The Switch has been around almost eight years, has sold more than [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch/2018/9/4/17549714/best-nintendo-switch-games>
+
+---
+
+## Daybreak, Wavelength publisher CMYK doubles down on card games with Magenta
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+CMYK, a publisher known for taking chances in the tabletop space, is announcing something very different for 2025. The publisher that brought you breakout board game hits like Wavelength and Daybreak has a new line of high-concept card games called Magenta. Polygon received an exclusive early preview of the first four games in the series [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/521771/magenta-card-games-line-cmyk-preorder-release-date-price-daybreak-wavelength-publisher>
+
+---
+
+## Netflix’s new  Witcher movie puts Geralt in DC Animated mode
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+Geralt of Rivia has walked the many perilous paths of the Continent, and broken through in nearly every medium. Netflix’s new animated movie The Witcher: Sirens of the Deep fully brings him into the realm of animation, where the monster hunter, free of realistic physics, blasts fire from his hands and pummels sea monsters like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-witcher/521890/witcher-sirens-of-the-deep-anime-netflix-review-studio-mir>
+
+---
+
+## Can Luvdisc be shiny in Pokémon Go?
+
+date: 2025-02-11, updated: 2025-02-10, from: Polygon Website
+
+Luvdisc, the rendezvous Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Luvdisc can be shiny in Pokémon Go! Luvdisc isn’t meta in any form, sadly. It’s just a little guy with a pretty good shiny! What is the shiny rate for Luvdisc in Pokémon Go? As per old research by [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/521538/can-luvdisc-be-shiny>
 
 ---
 

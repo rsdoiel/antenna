@@ -1,11 +1,63 @@
 ---
 title: going electric
-updated: 2025-02-10 17:34:40
+updated: 2025-02-11 07:08:50
 ---
 
 # going electric
 
-(date: 2025-02-10 17:34:40)
+(date: 2025-02-11 07:08:50)
+
+---
+
+## Tesla Drivers Are The Worst In The Country: Study
+
+date: 2025-02-11, from: Inside EVs News
+
+Tesla surpassed Ram to have the worst drivers in the United States due to a sharp increase in accident rates. 
+
+<br> 
+
+<https://insideevs.com/news/750265/tesla-drivers-are-worst-ev-safety-study/>
+
+---
+
+## BMW: EVs With Huge Batteries 'Don’t Make Sense'
+
+date: 2025-02-11, from: Inside EVs News
+
+Efficiency is much more important than stuffing massive batteries into EVs. 
+
+<br> 
+
+<https://insideevs.com/news/750314/bmw-evs-with-big-batteries-dont-make-sense/>
+
+---
+
+## New Rivian EVs Have A Big Discount, But You'll Need A Gas Car To Get It
+
+date: 2025-02-11, from: Inside EVs News
+
+Rivian will cut up to $6,000 off the sticker if you offer up an ICE vehicle for a trade-in. 
+
+<br> 
+
+<https://insideevs.com/news/750284/rivian-r1t-r1s-disounts-q1-2025/>
+
+---
+
+## Chicago EV deals, Amazon delivery vans for all, and visits from the FBI!
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/2025-nissan-leaf-16x9-1.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://www.youtube.com/@ElectrekDaily"></a>On today’s wheelin’ and dealin’ episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we take a look at a $9,140 deal on a 2025 Nissan LEAF*** in Chicago, things you can do with a robotic lawnmower, and talk about the tough times Tesla is experiencing while its CEO asks if you’ve seen Kyle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="auto-show,elon-musk,ev-deals,quick-charge" data-layer-viewtype="unknown" data-post-id="401369" href="https://electrek.co/2025/02/10/chicago-ev-deals-amazon-delivery-vans-for-all-and-visits-from-the-fbi/#more-401369" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/10/chicago-ev-deals-amazon-delivery-vans-for-all-and-visits-from-the-fbi/>
 
 ---
 

@@ -1,11 +1,179 @@
 ---
 title: health
-updated: 2025-02-10 17:34:40
+updated: 2025-02-11 07:08:50
 ---
 
 # health
 
-(date: 2025-02-10 17:34:40)
+(date: 2025-02-11 07:08:50)
+
+---
+
+## Human reference microbiome profiles of different body habitats in healthy individuals
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThis study aimed to establish the human reference microbiome profiles in blood, saliva, and stool of healthy individuals, serving as reference values to identify microbiome alterations in human disease.MethodsThe study population consisted of a reference group of healthy adults and a second group consisting of adults with periodontal disease (PD). Blood, saliva, and stool samples were subjected to 16S rRNA sequencing. Reference intervals of alpha diversity indices were calculated. To reduce the effects of inherent limitations of microbiome data, the taxonomic profiles of the reference group were estimated as log-scaled fold change (logFC) in the abundance of microorganisms between two habitats within the subjects. ResultsFor stool and saliva microbiomes, differences in the abundances of Firmicutes, Patescibacteria, and Verrucomicrobia distinguished healthy from PD subjects (95% confidence interval (CI) of logFC: [−0.18, 0.31], [−1.19, −0.34], and [−3.68, −2.90], respectively). Differences in the abundances of Cyanobacteria, Fusobacteria, and Tenericutes in stool and blood microbiome of healthy subjects fell within 95% CI of logFC [−0.38, 0.61], [−4.14, −3.01], and [1.66, 2.77], respectively. In saliva and blood, differences in the abundances of Epsilonbacteraeota, Firmicutes, Fusobacteria, and Proteobacteria could be used as reference values (95% CI of logFC: [−3.67, −2.47], [−0.35, 0.49], [−4.59, −3.26], and [−1.20, 0.07], respectively).DiscussionAs the reference microbiome profiles could discern healthy subjects and individuals with PD, a relatively mild disease state, they can be applied as reference values representing the healthy status of the microbiome and for screening of disease states, preferably in preclinical stages. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1478136>
+
+---
+
+## Vascular endothelial growth factor A: friend or foe in the pathogenesis of HIV and SARS-CoV-2 infections?
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+This review article discusses the role of vascular endothelial growth factor A (VEGF-A) in the pathogenesis of SARS-CoV-2 and HIV infection, both conditions being renowned for their impact on the vascular endothelium. The processes involved in vascular homeostasis and angiogenesis are reviewed briefly before exploring the interplay between hypoxia, VEGF-A, neuropilin-1 (NRP-1), and inflammatory pathways. We then focus on SARS-CoV-2 infection and show how the binding of the viral pathogen to the angiotensin-converting enzyme 2 receptor, as well as to NRP-1, leads to elevated levels of VEGF-A and consequences such as coagulation, vascular dysfunction, and inflammation. HIV infection augments angiogenesis via several mechanisms, most prominently, by the trans-activator of transcription (tat) protein mimicking VEGF-A by binding to its receptor, VEGFR-2, as well as upregulation of NRP-1, which enhances the interaction between VEGF-A and VEGFR-2. We propose that the elevated levels of VEGF-A observed during HIV/SARS-CoV-2 co-infection originate predominantly from activated immune cells due to the upregulation of HIF-1α by damaged endothelial cells. In this context, a few clinical trials have described a diminished requirement for oxygen therapy during anti-VEGF treatment of SARS-CoV-2 infection. The currently available anti-VEGF therapy strategies target the binding of VEGF-A to both VEGFR-1 and VEGFR-2. The blocking of both receptors could, however, lead to a negative outcome, inhibiting not only pathological, but also physiological angiogenesis. Based on the examination of published studies, this review suggests that treatment targeting selective inhibition of VEGFR-1 may be beneficial in the context of SARS-CoV-2 infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1458195>
+
+---
+
+## Editorial: Understanding biofilms: recent trends and developments
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1566230>
+
+---
+
+## Discovery of amino acid substitutions in penicillin-binding proteins associated with adaptation to D-Ala-D-Lac in vancomycin-resistant Enterococcus faecalis
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+The bacterial cell wall, essential for structural integrity, is synthesized with penicillin-binding proteins (PBPs). Vancomycin-resistant enterococci (VRE) evades vancomycin by replacing D-Ala-D-Ala in their cell wall precursors with D-Ala-D-Lac, reducing the drug’s effectiveness. However, how PBPs-which typically use D-Ala-D-Ala as a substrate-adapt to recognize D-Ala-D-Lac remains unclear. Here, we performed Sanger sequencing and alignment of PBP genes from both vancomycin-susceptible and -resistant E. faecalis strains to identify mutations, following amplification by PCR. We then applied homology modeling to assess structural impacts of these changes on PBPs and conducted docking studies to investigate ligand-binding interactions. For the first time, we identified specific adaptations in certain VRE PBPs that may facilitate the D-Ala-D-Lac utilization. We found that PBP1B, PBP2A, PBP3 showed changes, while PBP1A, PBP2B and PBP4 remained unchanged. Notably, a threonine-to-asparagine substitution at location 491 in PBP1B leads to a shift in substrate preference from D-Ala-D-Ala to D-Ala-D-Lac. Similar structural changes in PBP3 suggest that the presence of changed and unchanged PBPs within the same classes suggests compensatory interactions, indicating a teamwork among multiple PBPs. These insights into PBPs provide a deeper understanding of D-Ala-D-Lac utilization in VRE, may be used to develop new therapeutic agents to combat vancomycin resistance. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1522114>
+
+---
+
+## Distinct vaginal microbiome and metabolome profiles in women with preterm delivery following cervical cerclage
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+Preterm birth (PTB) is a major cause of infant morbidity and mortality. The aim of this study was to investigate the effect of vaginal microbiota and metabolites on the outcome of pregnant women. In this study, a total of 127 pregnant women provided written informed consent prior to enrollment in accordance with the approved institutional guidelines, but only 45 pregnancies met the experimental requirements, and then blood and cervical vaginal fluid (CVF) samples were collected before delivery (at the second week after cervical cerclage). Pregnant women with PTB exhibited high white blood cell and neutrophil contents, high neutrophil-to-lymphocyte ratio (NLR), and high systemic inflammation response index (SIRI) in the blood. Vaginal microbiome revealed that the proportion of beneficial bacteria (including Lactobacillus, [Ruminococcus] gnavus group, and Megamonas) significantly decreased in the PTB group, and the proportion of harmful bacteria (including Desulfovibrionaceae, Helicobacter, and Gardnerella) significantly increased, which is strongly related to the biochemical parameters of blood (white blood cells, neutrophils, NLR, and SIRI). In addition, vaginal metabolomics-based liquid chromatography–Orbitrap–tandem mass spectrometry (LC-Orbitrap-MS/MS) found that the alteration in vaginal metabolites in pregnant women with PTB is involved in starch and sucrose metabolism; arginine and praline metabolism; galactose metabolism; purine metabolism; arginine metabolism; tryptophan metabolism and N-glycan biosynthesis; cysteine and methionine metabolism; taurine and hypotaurine metabolism; amino acid metabolism; propanoate metabolism; valine, leucine, and isoleucine biosynthesis; glycine, serine, and threonine metabolism; and steroid hormone biosynthesis. These results elaborated that distinct vaginal microbiome and metabolome profiles in women with preterm delivery following cervical cerclage provide valuable information for establishing the prediction models for PTB. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1444028>
+
+---
+
+## SHASI-ML: a machine learning-based approach for immunogenicity prediction in Salmonella vaccine development
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionAccurate prediction of immunogenic proteins is crucial for vaccine development and understanding host-pathogen interactions in bacterial diseases, particularly for Salmonella infections which remain a significant global health challenge.MethodsWe developed SHASI-ML, a machine learning-based framework for predicting immunogenic proteins in Salmonella species. The model was trained and validated using a curated dataset of experimentally verified immunogenic and non-immunogenic proteins. Three distinct feature groups were extracted from protein sequences: global properties, sequence-derived features, and structural information. The Extreme Gradient Boosting (XGBoost) algorithm was employed for model development and optimization.ResultsSHASI-ML demonstrated robust performance in identifying bacterial immunogens, achieving 89.3% precision and 91.2% specificity. When applied to the Salmonella enterica serovar Typhimurium proteome, the model identified 292 novel immunogenic protein candidates. Global properties emerged as the most influential feature group in prediction accuracy, followed by structural and sequence information. The model showed superior recall and F1-scores compared to existing computational approaches.DiscussionThese findings establish SHASI-ML as an efficient computational tool for prioritizing immunogenic candidates in Salmonella vaccine development. By streamlining the identification of vaccine candidates early in the development process, this approach significantly reduces experimental burden and associated costs. The methodology can be applied to guide and optimize both research and industrial-scale production of Salmonella vaccines, potentially accelerating the development of more effective immunization strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1536156>
+
+---
+
+## The advancement of nanosystems for drug delivery in the prevention and treatment of dental caries
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+The dental caries remains a globally prevalent disease. Although its incidence has decrease due to enhancements in sanitation policies and public health measures, the treatment and prevention of dental caries still pose significant challenges. Within the oral cavity, traditional drug delivery systems suffer from limitation such as inadequate tissue penetration, short duration of action at target site, and low specificity, which minimally affect the prevention and treatment of dental caries. Consequently, nanosystem for drug delivery, offering enhanced drug stability, solubility, and bio-availability while reducing side effects, garnering attention increasing attention in the fight against dental caries. Therefore, this review examines the role of nanosystems for drug delivery in combating dental caries by inhibiting bacteria survival, biofilm formation, demineralization, and promoting remineralization, and exploring their potential to become the mainstream means of prevention and treatment of dental caries in future. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1546816>
+
+---
+
+## Gut microbiota dysfunction in Crohn’s disease
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionCrohn’s disease (CD) results from alterations in the gut microbiota and the immune system. However, the exact metabolic dysfunctions of the gut microbiota during CD are still unclear. Here, we investigated metagenomic functions using PICRUSt2 during the course of CD to better understand microbiota-related disease mechanisms and provide new insights for novel therapeutic strategies.MethodsWe performed 16S rRNA-based microbial profiling of 567 faecal samples collected from a cohort of 383 CD patients, including 291 remissions (CR), 177 mild-moderate (CM) and 99 severe (CS) disease states. Gene and pathway composition was assessed using PICRUSt2 analyses of 16S data.ResultsAs expected, changes in alpha and beta diversity, in interaction networks and increases in Proteobacteria abundance were associated with disease severity. However, microbial function was more consistently disrupted than composition from CR, to CM and then to CS. Major shifts in oxidative stress pathways and reduced carbohydrate and amino acid metabolism in favour of nutrient transport were identified in CS compared to CR. Virulence factors involved in host invasion, host evasion and inflammation were also increased in CS.ConclusionsThis functional metagenomic information provides new insights into community-wide microbial processes and pathways associated with CD pathogenesis. This study paves the way for new advanced strategies to rebalance gut microbiota and/or eliminate oxidative stress, and biofilm to downregulate gut inflammation. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1540352>
+
+---
+
+## Microbial dysbiosis in periodontitis and peri-implantitis: pathogenesis, immune responses, and therapeutic
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+The oral microbiome comprises over 700 distinct species, forming complex biofilms essential for maintaining oral and systemic health. When the microbial homeostasis in the periodontium is disrupted, pathogens within the biofilm can cause periodontitis and peri-implantitis, inducing host immune responses. Understanding the role of microbial communities and the immune mechanisms in oral health and disease is crucial for developing improved preventive, diagnostic and therapeutic strategies. However, many questions remain about how changes in bacterial populations contribute to the development and progression of these conditions. An electronic and manual literature search was conducted using PubMed, Excerpta Medica, Frontiers Reports and the Wiley Online Library databases for relevant articles. Data from these publications were extracted and the overall findings were summarized in a narrative manner. The variations in microbial communities and immune responses of periodontitis and peri-implantitis are explored. Dysbiosis of the subgingival microbiome—characterized by an increase in pathogenic bacteria such as Porphyromonas gingivalis, Tannerella forsythia, and Aggregatibacter actinomycetemcomitans—plays a pivotal role in the initiation and progression of periodontitis. As for peri-implantitis, alterations include a higher abundance of opportunistic pathogens and reduced microbial diversity around implants. Moreover, oral dysbiosis potentially influencing systemic health through immune-mediated pathways. Regional immunity of periodontium involving neutrophils, T helper cells-17, and immune-related cytokines is crucial for maintaining periodontal homeostasis and responding to microbial imbalances. Additionally, the impact of non-mechanical treatments—such as probiotics and laser therapy—on the oral microbiome is discussed, demonstrating their potential in managing microbial dysbiosis. These findings underscore that bacterial dysbiosis is a central factor in the development of periodontitis and peri-implantitis. Maintaining microbial balance is essential for preventing these diseases, and interventions targeting the microbiome could enhance treatment outcomes. Strategies focusing on controlling pathogenic bacteria, modulating immune responses, and promoting tissue regeneration are key to restoring periodontal stability. Further research is needed to clarify the mechanisms underlying the transition from peri-implant mucositis to peri-implantitis and to optimize prevention and treatment approaches, considering the complex interactions between the microbiome and host immunity. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1517154>
+
+---
+
+## Current and future therapeutic options for chronic hepatitis D virus infection
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+In the last few years there have been innovations in HDV therapy which have brought new excitement in the scientific community also considering the few therapeutic opportunities. Recently, new molecular targets have been identified, both in monotherapy and in combination with peginterferon alpha (PegIFNα). Evaluating this review of the literature of the last ten years, HDV-related chronic hepatitis seems to have become a potentially curable disease, a statement that was unthinkable a few years ago. There are old and new weapons at our disposal. The old weapons are PegIFNα and recently PegIFN-lambda (PegIFNλ). PegIFNα, for which there are more data, appears to be an excellent combination regimen, if not contraindicated, both for Bulevirtide (BLV), data supported by important clinical trials and real-world studies, and probably for lonarfanib, although in the latter case the results are not yet definitive as the studies are fewer. However, data on long-term follow-up are needed. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1382017>
+
+---
+
+## Comprehensive analysis of the mechanisms conferring resistance to phenamacril in the Fusarium species
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+The filamentous fungal genus Fusarium contains many species that cause catastrophic diseases in fruits, cereal, and vegetables. These diseases cause substantial losses in yield and contaminate affected crops with toxins. This causes huge losses in the agricultural sector and threatens human and animal health. The most efficient approach to control the Fusarium spp. is fungicide application. Phenamacril is a site-specific fungicide that exerts its antifungal effect on sensitive Fusarium spp. It is a new fungicide developed that targets Fusarium graminearum by inhibiting myosin-5, an important protein in fungal growth and disease development. Because of its remarkable specificity, the new fungicide phenamacril is regarded as environmentally benign. However, many research findings have reported the emergence of the resistance of Fusarium spp. to phenamacril in both the field and laboratory. This article comprehensively analyzes the mechanisms underlying Fusarium spp. resistance to phenamacril. We examine the molecular, genetic, and environmental factors contributing to this resistance. We emphasize the importance of continued research and integrating different approaches to monitoring and managing drug-resistant Fusarium spp. populations. Integrating current inventions to inform strategies for sustainable disease control practices, and increase plant health, and yield will contribute to ongoing global efforts to achieve food and nutritional sustainability for the world's rapidly growing population while ensuring the effectiveness of the fungicidal product. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1536532>
+
+---
+
+## Role of E-cadherin in epithelial barrier dysfunction: implications for bacterial infection, inflammation, and disease pathogenesis
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+Epithelial barriers serve as critical defense lines against microbial infiltration and maintain tissue homeostasis. E-cadherin, an essential component of adherens junctions, has emerged as a pivotal molecule that secures epithelial homeostasis. Lately, its pleiotropic role beyond barrier function, including its involvement in immune responses, has become more evident. Herein, we delve into the intricate relationship between (dys)regulation of epithelial homeostasis and the versatile functionality of E-cadherin, describing complex mechanisms that underlie barrier integrity and disruption in disease pathogenesis such as bacterial infection and inflammation, among others. Clinical implications of E-cadherin perturbations in host pathophysiology are emphasized; downregulation, proteolytic phenomena, abnormal localization/signaling and aberrant immune reactions are linked with a broad spectrum of pathology beyond infectious diseases. Finally, potential therapeutic interventions that may harness E-cadherin to mitigate barrier-associated tissue damage are explored. Overall, this review highlights the crucial role of E-cadherin in systemic health, offering insights that could pave the way for strategies to reinforce/restore barrier integrity and treat related diseases. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1506636>
+
+---
+
+## Surveillance of SARS-CoV-2 variants in Henan, China from 2023 to 2024
+
+date: 2025-02-11, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveIn January 2023, China implemented the “Class B Management” policy, marking a new phase in COVID-19 control. As new SARS-CoV-2 variants continue to emerge, some have shown significant immune evasion, posing challenges to epidemic control efforts. To manage the pandemic effectively, Henan Province launched a surveillance program for SARS-CoV-2 variants, systematically analyzing their clinical characteristics and epidemiological patterns.MethodsThis study collected genomic sequence data from 5,965 COVID-19 cases between January 1, 2023, and March 17, 2024, using the Henan Province SARS-CoV-2 variant surveillance system. Genome sequence analysis was performed with CLC Genomics Workbench, and genotyping and sequence alignment were carried out using the Nextclade platform. The clinical severity of different variants was assessed in relation to patient sex, age, clinical classification, and vaccination status.ResultsBetween Week 1 of 2023 and Week 11 of 2024, a total of 5,965 complete SARS-CoV-2 genome sequences were obtained, including 3,004 male (50.36%) and 2,961 female (49.64%) cases. The majority of cases were mild (5,451 cases, 91.38%), followed by moderate (311 cases, 5.21%) and severe or critical cases (203 cases, 3.4%). The predominant variants included BA.5.2, XBB, and BA.2.86. BA.5.2 was dominant until April 2023, after which it was gradually replaced by XBB. From December 2023, BA.2.86 began to increase and became the predominant variant by January 2024. The XBB variant exhibited a significantly lower rate of severe cases, with most infections being mild (P < 0.05). Male patients, the elderly, and certain variants (e.g., BA.5.2) were associated with more severe outcomes, while XBB and BA.2.86 showed lower pathogenicity, with a marked reduction in severe and fatal cases (P < 0.05).ConclusionAs SARS-CoV-2 variants evolve, the incidence of severe cases has progressively decreased. Both XBB and BA.2.86 variants exhibit lower pathogenicity. This study provides vital scientific evidence on the epidemiological features, clinical manifestations, and control strategies of SARS-CoV-2 variants. It underscores the importance of continuous viral surveillance and genomic sequencing to guide public health decision-making. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1511114>
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2025-02-10, from: People's CDC
+
+This is the People's CDC bi-weekly update for February 10, 2025! This Weather Report from the People’s CDC sheds light on the ongoing COVID situation in the US. 
+
+<br> 
+
+<https://peoplescdc.org/2025/02/10/peoples-cdc-covid-19-weather-report-91/>
 
 ---
 

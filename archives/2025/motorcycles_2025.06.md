@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-02-10 17:34:39
+updated: 2025-02-11 07:08:49
 ---
 
 # motorcycles
 
-(date: 2025-02-10 17:34:39)
+(date: 2025-02-11 07:08:49)
+
+---
+
+## This Swedish EV Motorcycle Company Is Putting Together Its Own Racing Series
+
+date: 2025-02-11, from: Ride Apart, Electric Motorcycle News
+
+Could this open doors to more electric motorcycle racing series all over the world?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750189/rgnt-turbo-one-make-racing-series/>
+
+---
+
+## KTM Creditor Accusing Brand Of Rail-Roading Restructuring, Could Cause Collapse
+
+date: 2025-02-11, from: Ride Apart, Electric Motorcycle News
+
+One creditor is saying KTM is using "delaying tactics" in regards to a restructuring proposal. 
+
+<br> 
+
+<https://www.rideapart.com/news/750246/ktm-creditor-whitebox-advisors-llc-akv-insolvency-debt/>
+
+---
+
+## Suzuki Just Dropped Its First EV 2-Wheeler, and It Can Match Your Hayabusa
+
+date: 2025-02-11, from: Ride Apart, Electric Motorcycle News
+
+What's he first thing you'd electrify if you were Suzuki? A global bestseller, of course. 
+
+<br> 
+
+<https://www.rideapart.com/news/750254/suzuki-ev-address-hayabusa-green/>
+
+---
+
+## T-Mobile and Starlink Have Satellite Communications Now, But I'd Still Use a Garmin
+
+date: 2025-02-11, from: Ride Apart, Electric Motorcycle News
+
+You're about to have service everywhere. 
+
+<br> 
+
+<https://www.rideapart.com/news/750234/t-mobile-starlink-satellite-communications-backcountry-elon-musk/>
+
+---
+
+## Does a 125cc V-Twin Cruiser Even Make Sense?
+
+date: 2025-02-11, from: Ride Apart, Electric Motorcycle News
+
+Tiny pistons, big personality—or so Hyosung hopes.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750117/hyosung-gv125x-release-europe/>
+
+---
+
+## Everything at King of the Hammers Just Got Beat By a UTV
+
+date: 2025-02-11, from: Ride Apart, Electric Motorcycle News
+
+Suck it, trophy trucks.  
+
+<br> 
+
+<https://www.rideapart.com/news/750268/can-am-maverick-r-king-of-the-hammers-overall-win/>
+
+---
+
+## The sound of silence
+
+date: 2025-02-11, from: Herman Bear Blog
+
+Thoughts on being in my head 
+
+<br> 
+
+<https://herman.bearblog.dev/silence/>
 
 ---
 

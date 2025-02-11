@@ -1,11 +1,133 @@
 ---
 title: home
-updated: 2025-02-10 17:34:39
+updated: 2025-02-11 07:08:49
 ---
 
 # home
 
-(date: 2025-02-10 17:34:39)
+(date: 2025-02-11 07:08:49)
+
+---
+
+## How Do We Preserve Architectural History and Prepare for the Future at the Same Time?
+
+date: 2025-02-11, from: Dwell
+
+The author of a new book that calls for reforming U.S. preservation policies discusses why we need to consider how we ascribe value to buildings, and a climate that’s rapidly changing what we can keep at all. 
+
+<br> 
+
+<https://www.dwell.com/article/erica-avrami-second-order-preservation-history-racism-climate-change-4396ac95-1599b371>
+
+---
+
+## What Does It Mean When You See a White Butterfly?
+
+date: 2025-02-11, from: Yard Life blog
+
+<p>White butterflies are often associated with spirituality, transformation, and messages from the universe. Many cultures and belief systems view these ... </p>
+<p class="read-more-container"><a title="What Does It Mean When You See a White Butterfly?" class="read-more button" href="https://ownyardlife.com/what-does-it-mean-when-you-see-a-white-butterfly/#more-23366" aria-label="Read more about What Does It Mean When You See a White Butterfly?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-does-it-mean-when-you-see-a-white-butterfly/">What Does It Mean When You See a White Butterfly?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-does-it-mean-when-you-see-a-white-butterfly/>
+
+---
+
+## How Big Will a Leopard Gecko Get? Growth Stages & Care Tips
+
+date: 2025-02-11, from: Yard Life blog
+
+<p>Leopard geckos (Eublepharis macularius) are one of the most popular pet reptiles due to their docile nature, striking patterns, and ... </p>
+<p class="read-more-container"><a title="How Big Will a Leopard Gecko Get? Growth Stages &#038; Care Tips" class="read-more button" href="https://ownyardlife.com/how-big-will-a-leopard-gecko-get-growth-stages-care-tips/#more-23363" aria-label="Read more about How Big Will a Leopard Gecko Get? Growth Stages &#038; Care Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-big-will-a-leopard-gecko-get-growth-stages-care-tips/">How Big Will a Leopard Gecko Get? Growth Stages &#038; Care Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-big-will-a-leopard-gecko-get-growth-stages-care-tips/>
+
+---
+
+## 45 Stunning Flowers That Attract Hummingbirds (With Pictures)
+
+date: 2025-02-11, from: Yard Life blog
+
+<p>Hummingbirds are drawn to vibrant, nectar-rich blooms, making flower-filled gardens a paradise for these tiny, energetic birds. Choosing the right ... </p>
+<p class="read-more-container"><a title="45 Stunning Flowers That Attract Hummingbirds (With Pictures)" class="read-more button" href="https://ownyardlife.com/45-stunning-flowers-that-attract-hummingbirds-with-pictures/#more-23351" aria-label="Read more about 45 Stunning Flowers That Attract Hummingbirds (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-stunning-flowers-that-attract-hummingbirds-with-pictures/">45 Stunning Flowers That Attract Hummingbirds (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-stunning-flowers-that-attract-hummingbirds-with-pictures/>
+
+---
+
+## 50 Beautiful Flowers That Bloom in Summer (With Pictures)
+
+date: 2025-02-11, from: Yard Life blog
+
+<p>Summer is the season of vibrant colors, and nothing enhances a garden like stunning flowers that bloom in summer. Whether ... </p>
+<p class="read-more-container"><a title="50 Beautiful Flowers That Bloom in Summer (With Pictures)" class="read-more button" href="https://ownyardlife.com/50-beautiful-flowers-that-bloom-in-summer-with-pictures/#more-23333" aria-label="Read more about 50 Beautiful Flowers That Bloom in Summer (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-beautiful-flowers-that-bloom-in-summer-with-pictures/">50 Beautiful Flowers That Bloom in Summer (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-beautiful-flowers-that-bloom-in-summer-with-pictures/>
+
+---
+
+## Urgent Action: Defend Public Lands, Protect Native Plants
+
+date: 2025-02-11, from: California Native Plants Society
+
+<p>Currrent federal actions pose an imminent threat to the integrity of public lands nationwide, and here in California. Your Congressional representatives need to hear from you now.</p>
+<p>The post <a href="https://www.cnps.org/conservation/urgent-action-defend-public-lands-protect-native-plants-42353">Urgent Action: Defend Public Lands, Protect Native Plants</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/conservation/urgent-action-defend-public-lands-protect-native-plants-42353>
+
+---
+
+## A Hilltop Mid-Century Modern Bungalow in Los Angeles Is a Zen Sanctuary
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+Set atop a hill in Los Angeles, this two bedroom, one-bathroom home had the most spectacular views, but needed some attention and upgrades. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/echo-park-hilltop-bungalow>
+
+---
+
+## It’s Not Too Late to Plan a Romantic Valentine’s Day Road Trip. Here’s Where to Go.
+
+date: 2025-02-10, from: Sunset Magazine - Living in the West
+
+Valentine's Day is next Friday, February 14, and it's not too late to plan a getaway. Here are quick and easy road trips to spark romance. 
+
+<br> 
+
+<https://www.sunset.com/travel/road-trips/valentines-day-road-trips>
+
+---
+
+## 5 Tiny Tweaks That Will Make Your Home Infinitely More Organized
+
+date: 2025-02-10, from: Sunset Magazine - Living in the West
+
+Sometimes it can just take a few tiny tweaks to get your home organized. Professional home organizers share easy organizing tips. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/easy-organizing-tips>
 
 ---
 
@@ -21,6 +143,18 @@ A beam marking a bump out matches stair railing, flooring, and an eve at the hom
 
 ---
 
+## Yes, You Should Travel to L.A. Right Now. Here’s How to Do It Mindfully.
+
+date: 2025-02-10, from: Sunset Magazine - Living in the West
+
+Tourism to Los Angeles has the possibility of helping it rebuild after the wildfires, if done right. Here's how to do so mindfully. 
+
+<br> 
+
+<https://www.sunset.com/travel/la-tourism-after-wildfires>
+
+---
+
 ## 9 of the Best Grape Hyacinth Varieties for Your Garden
 
 date: 2025-02-10, from: The Gardener's Path
@@ -32,6 +166,18 @@ date: 2025-02-10, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/best-grape-hyacinth-varieties/>
+
+---
+
+## 6 Bad Restaurant Behavior Insiders Are Begging You Avoid
+
+date: 2025-02-10, from: Sunset Magazine - Living in the West
+
+Don't be one of those rude diners at a restaurant. Insiders explain the restuarant etiquette mistakes to avoid the next time you go out. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/bad-restaurant-etiquette>
 
 ---
 

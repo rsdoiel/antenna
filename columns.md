@@ -1,11 +1,94 @@
 ---
 title: columns
-updated: 2025-02-10 17:34:37
+updated: 2025-02-11 07:08:48
 ---
 
 # columns
 
-(date: 2025-02-10 17:34:37)
+(date: 2025-02-11 07:08:48)
+
+---
+
+## disabling cert checks: we have not learned much
+
+date: 2025-02-11, from: Daniel Stenberg Blog
+
+And by that I mean the global &#8220;we&#8221; as in the world of developers. In the beginning there was SSL When I first learned about SSL and how to use it in the mid to late 1990s, it took me a while to realize and understand the critical importance of having the client verifying the &#8230; <a href="https://daniel.haxx.se/blog/2025/02/11/disabling-cert-checks-we-have-not-learned-much/" class="more-link">Continue reading <span class="screen-reader-text">disabling cert checks: we have not learned much</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/02/11/disabling-cert-checks-we-have-not-learned-much/>
+
+---
+
+## The Book of Lives
+
+date: 2025-02-11, from: Margaret Atwood's substack
+
+A memoir of sorts. 
+
+<br> 
+
+<https://margaretatwood.substack.com/p/the-book-of-lives>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-11, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2023/03/27/successionPoster.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://this.how/feedland/">A note to users</a> of feedland.org and feedland.com. We'll be turning the servers off sometime before the end of March. I haven't chosen the actual date yet. In the meantime, Please <a href="https://this.how/feedland/#1739205763000">download</a> a copy of your subscription list before the shutdown, it's incredibly easy. You can also <a href="https://github.com/scripting/feedlandInstall/blob/main/README.md">run your own</a> FeedLand. I started a <a href="https://github.com/scripting/feedlandSupport/issues/245">thread</a> on the support site if you have questions, remember the comment <a href="https://this.how/commentGuidelines/">guidelines</a>. I've learned a lot from the experience of running FeedLand this way, looking forward to trying some other configurations. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/02/11.html#a125607>
+
+---
+
+## Trusted Encryption Environments
+
+date: 2025-02-11, updated: 2025-02-10, from: Bruce Schneier blog
+
+<p>Really good&#8212;and detailed&#8212;<a href="https://dl.acm.org/doi/pdf/10.1145/3634737.3644993">survey</a> of Trusted Encryption Environments (TEEs.)</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/trusted-encryption-environments.html>
+
+---
+
+## Trump’s biggest corruption yet
+
+date: 2025-02-11, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-biggest-corruption-yet>
+
+---
+
+## February 10, 2025 
+
+date: 2025-02-11, from: Heather Cox Richardson blog
+
+As soon as President Donald Trump took office, his administration froze great swaths of government funding, apparently to test the theory popular with Project 2025 authors that the 1974 law forbidding the president from &#8220;impounding&#8221; money Congress had appropriated was unconstitutional. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-10-2025>
+
+---
+
+## ★ Fox’s New Scorebug Graphic Design, and Our Innate Resistance to Change
+
+date: 2025-02-11, updated: 2025-02-11, from: Daring Fireball
+
+Different doesn’t always mean better. But better necessarily implies different. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/fox_new_scorebug_graphic_design>
 
 ---
 
@@ -96,7 +179,7 @@ date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
 
 ---
 
-## Nixon's letter to Elon Musk
+## Nixon’s letter to Elon Musk
 
 date: 2025-02-10, from: Robert Reich's blog
 

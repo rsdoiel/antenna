@@ -1,11 +1,587 @@
 ---
 title: north america
-updated: 2025-02-10 17:34:34
+updated: 2025-02-11 07:08:46
 ---
 
 # north america
 
-(date: 2025-02-10 17:34:34)
+(date: 2025-02-11 07:08:46)
+
+---
+
+## Morning Roundup: Talking Feds, Rhode Island, and Wasted Words
+
+date: 2025-02-11, from: The Contrarian
+
+February 11: Talking Feds with the Contrarians, Jen Rubin interviews Norm Eisen on what transpired in a Rhode Island courtroom yesterday, and we learn of our "word of the week" we may as well banish. 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-talking-feds-rhode>
+
+---
+
+## How blue state Republicans could shape Congressional legislation this year
+
+date: 2025-02-11, from: Market Place
+
+Republicans have a slim majority in the House of Representatives — and those from liberal states could throw their weight around. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/11/how-blue-state-republicans-could-shape-congressional-legislation-this-year/>
+
+---
+
+## The Trump administration has ordered the CFPB to stop its work. What does the agency do?
+
+date: 2025-02-11, from: Market Place
+
+The Consumer Financial Protection Bureau, which regulates financial products on behalf of the public, has returned billions of dollars to consumers. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/11/cfpb-consumer-financial-protection-bureau-trump-administration/>
+
+---
+
+## Too Many Musks on the Field
+
+date: 2025-02-11, from: The Contrarian
+
+An all-contrarian roundtable&#8212;Paul Krugman, Norm Eisen, and Jen Rubin&#8212;chronicles the first signs of pushback against Trump&#8217;s constitutional assaults and analyzes the vacuous tariffs initiatives. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156887660/cff7add93b22b926a08c7249078908c7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156887660/cff7add93b22b926a08c7249078908c7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/too-many-musks-on-the-field>
+
+---
+
+## Vance tells Europeans that heavy regulation could kill AI
+
+date: 2025-02-11, from: VOA News USA
+
+Paris — U.S. Vice President JD Vance told Europeans on Tuesday their "massive" regulations on artificial intelligence could strangle the technology, and rejected content moderation as "authoritarian censorship."
+
+
+The mood on AI has shifted as the technology takes root, from one of concerns around safety to geopolitical competition, as countries jockey to nurture the next big AI giant.
+
+
+Vance, setting out the Trump administration's America First agenda, said the United States intended to remain the dominant force in AI and strongly opposed the European Union's far tougher regulatory approach.
+
+
+"We believe that excessive regulation of the AI sector could kill a transformative industry," Vance told an AI summit of CEOs and heads of state in Paris.
+
+
+"We feel very strongly that AI must remain free from ideological bias and that American AI will not be co-opted into a tool for authoritarian censorship," he added.
+
+
+Vance criticized the "massive regulations" created by the EU's Digital Services Act, as well as Europe's online privacy rules, known by the acronym GDPR, which he said meant endless legal compliance costs for smaller firms.
+
+
+"Of course, we want to ensure the internet is a safe place, but it is one thing to prevent a predator from preying on a child on the internet, and it is something quite different to prevent a grown man or woman from accessing an opinion that the government thinks is misinformation," he said.
+
+
+European lawmakers last year approved the bloc's AI Act, the world's first comprehensive set of rules governing the technology.
+
+
+Vance is leading the American delegation at the Paris summit.
+
+
+
+
+Vance also appeared to take aim at China at a delicate moment for the U.S. technology sector.
+
+
+Last month, Chinese startup DeepSeek freely distributed a powerful AI reasoning model that some said challenged U.S. technology leadership. It sent shares of American chip designer Nvidia down 17%.
+
+
+"From CCTV to 5G equipment, we're all familiar with cheap tech in the marketplace that's been heavily subsidized and exported by authoritarian regimes," Vance said.
+
+
+But he said that "partnering with them means chaining your nation to an authoritarian master that seeks to infiltrate, dig in and seize your information infrastructure. Should a deal seem too good to be true? Just remember the old adage that we learned in Silicon Valley: if you aren't paying for the product, you are the product."
+
+
+Vance did not mention DeepSeek by name. There has been no evidence of information being able to surreptitiously flow through the startup's technology to China’s government, and the underlying code is freely available to use and view. However, some government organizations have reportedly banned DeepSeek’s use.
+
+
+Speaking after Vance, French President Emmanuel Macron said that he was fully in favor of trimming red tape, but he stressed that regulation was still needed to ensure trust in AI, or people would end up rejecting it. "We need a trustworthy AI," he said.
+
+
+European Commission chief Ursula von der Leyen also said the EU would cut red tape and invest more in AI.
+
+
+
+
+In a bilateral meeting, Vance and von der Leyen were also likely to discuss Trump's substantial increase of tariffs on steel.
+
+
+OpenAI CEO Sam Altman was expected to address the summit on Tuesday. A consortium led by Musk said on Monday it had offered $97.4 billion to buy the nonprofit controlling OpenAI.
+
+
+Altman promptly posted on X: "no thank you but we will buy twitter for $9.74 billion if you want."
+
+
+The technology world has closely watched whether the Trump administration will ease recent antitrust enforcement that had seen the U.S. sue or investigate the industry's biggest players.
+
+
+Vance said the U.S. would champion American AI -- which big players develop -- he also said: "Our laws will keep Big Tech, little tech, and all other developers on a level playing field." 
+
+<br> 
+
+<https://www.voanews.com/a/vance-tells-europeans-that-heavy-regulation-could-kill-ai-/7970615.html>
+
+---
+
+## Words and Phrases We Could Do Without
+
+date: 2025-02-11, from: The Contrarian
+
+In the Musk-Trump regime, &#8220;appropriations&#8221; has come to mean something more like &#8220;suggestions&#8221; or &#8220;ceilings.&#8221; 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-1ee>
+
+---
+
+## Modi to meet Trump with focus on trade, immigration and strategic ties
+
+date: 2025-02-11, from: VOA News USA
+
+New Delhi — As Indian Prime Minister Narendra Modi heads to the United States for a two-day visit starting Wednesday, officials in New Delhi expressed optimism that the visit will herald a renewed and substantive partnership. However analysts said there will be contentious issues to navigate on trade and immigration, which are among U.S. President Donald Trump’s top priorities.
+
+
+Underlining that Modi will be meeting Trump within weeks of his taking office, Indian foreign secretary Vikram Misri said India-U.S. ties are solid and that “this has been one of our strongest international partnerships.”
+
+
+Modi will reach Washington after visiting France, where he is attending a global conference on artificial intelligence.
+
+
+Trade is important for both countries and India has taken steps to demonstrate that it is ready to address concerns of Trump, who has named India among countries that are “very big tariff abusers.” In a phone conversation with Modi last month, Trump called for moving toward a fair bilateral trading relationship.
+
+
+His top economic adviser, Kevin Hassett, repeated such concerns on Monday. "India has enormously high" tariffs that lock out imports, he said in an interview with CNBC.
+
+
+
+
+New Delhi, which wants to avoid trade tensions with the U.S., announced earlier this month that it will lower import duties on some items that will benefit American exports such as high-end motorcycles and cars.
+
+
+It also may offer other concessions that could help American goods gain market access to India and boost energy imports from the U.S., say analysts.
+
+
+“New Delhi thought it would take a first step and try to resolve differences on trade. But, certainly, as a great negotiator and bargainer, he [Trump] will ask for more,” said Chintamani Mahapatra, founder of the Kalinga School of Indo Pacific Studies. “India also bargains very well. So, somehow, we will try to make a compromise that will benefit both.”
+
+
+For India, the stakes are high — the U.S. is its largest trading partner. Bilateral trade between the two countries was $118 billion, with a surplus of about $32 billion in India’s favor in 2023.
+
+
+India has not been impacted so far by Trump’s tariff impositions — the latest 25 percent tariffs he imposed on steel and aluminum imports will have merely a marginal impact on India, as New Delhi is a small exporter of steel to the U.S., according to Indian officials.
+
+
+Strengthening security and defense ties with the U.S., Indian officials say will also be discussed in Washington. According to analysts that could include potential purchases of weapon systems and technology. In the recent phone conversation with Modi, President Trump had called on Modi to increase procurement of American-made security equipment.
+
+
+India, the world’s largest spender on military equipment, needs a range of weapons systems to modernize its military. As it diversifies its purchases from its traditional weapons supplier, Russia, India has been purchasing more arms from countries like France, Israel and the United States.
+
+
+“The U.S. is a little concerned that it is losing out on the India [security] buys, so it has stepped up pressure to sell India a lot more defense equipment than India has bought in the last few years,” according to Rahul Bedi, defense analyst in New Delhi. “There is likely to be initiatives on transport aircraft, surveillance aircraft for the navy, and possibly even fighter aircraft, as well as a lot of technology transfers for aircraft engines, infantry combat vehicles.”
+
+
+Immigration is another issue of concern to both countries. Although India has cooperated with the U.S. and said it is ready to take back undocumented migrants, reports of 104 undocumented Indians being shackled for 40 hours while being brought back to India on a military plane last week from the U.S. led to an uproar and protests by opposition parties.
+
+
+
+
+Indian officials have said that New Delhi will call for better treatment during future deportations.
+
+
+At the same time, India’s top priority during discussions will be to protect legal channels of immigration for skilled Indian workers and students heading to American universities. Indians are the largest beneficiaries of H1B visas, which allow U.S. employers to hire foreign professionals in specialized fields, such as technology.
+
+
+“People-to-people relationships constitute the bedrock of our deepening ties with the United States,” Indian foreign minister, Subrahmanyam Jaishankar told lawmakers, while responding to concerns about the transport and treatment of the deportees.
+
+
+In a statement before leaving New Delhi, Modi called his upcoming meeting with Trump an opportunity to build upon the successes of their collaboration in Trump’s first term.
+
+
+
+
+Mutual concerns about an assertive China are likely to keep the two countries aligned, according to analysts. Along with the U.S., Australia and Japan, India is a partner in the Quad, a strategic security grouping focused on the Indo-Pacific. Analysts point out that the two countries have convergence on geostrategic issues.
+
+
+“It was president Trump in his first term, who dusted off the Quad, which was in a dormant state for about ten years, and he was solely responsible for reviving it,” said Mahapatra. “This is an area where both the countries have a lot of things in common for maintaining peace, stability and contributing to the growth story in the Indo-Pacific region.” 
+
+<br> 
+
+<https://www.voanews.com/a/modi-to-meet-trump-with-focus-on-trade-immigration-and-strategic-ties-/7970558.html>
+
+---
+
+## Virginia governor declares storm emergency as snow and ice bear down on mid-Atlantic states
+
+date: 2025-02-11, from: VOA News USA
+
+A wintry mess was bearing down on mid-Atlantic states Tuesday with forecasts of significant snow and ice accumulations prompting warnings of potential power outages.
+
+
+The National Weather Service said travel would become treacherous Tuesday through early Wednesday in much of Virginia and West Virginia.
+
+
+Virginia Republican Gov. Glenn Youngkin on Monday declared a state of emergency ahead of the storm, allowing state agencies to assist local governments. Schools and government offices throughout Virginia were set to be closed Tuesday.
+
+
+The heaviest snow, up to 25.4 centimeters, was forecast in portions of northern and central Virginia and eastern West Virginia. Ice accumulations could range from a glaze in Kentucky and West Virginia to 1.3 centimeters in the Roanoke Valley of southwest Virginia, the weather service said. Power outages and tree damage were likely in places with heavy ice buildups.
+
+
+“Did you think winter was over? Think again!” the weather service's office in Blacksburg, Virginia, said in a post on the social media platform X.
+
+
+Appalachian Power, which serves 1 million customers in West Virginia, Virginia and Tennessee, said it has requested 700 additional workers from neighboring utilities to assist with problems by Tuesday morning.
+
+
+In northern Virginia, the National Park Service closed a portion of the George Washington Memorial Parkway, a narrow highway that winds its way through woods along the Potomac River. The parkway connects multiple small national park sites and has historically been a trouble spot during winter storms for abandoned cars that created a slalom course for snowplows and other vehicles.
+
+
+Winter storm warnings extended from Kentucky to southern New Jersey, and a flood watch was posted for a wide swath of Kentucky, Tennessee, southwest Virginia and northern Georgia. The snow-and-ice mix was expected to become all rain as temperatures climb by Wednesday afternoon.
+
+
+A separate storm system is set to bring heavy snow from Kansas and Missouri to the Great Lakes on Wednesday, the weather service said.
+
+
+Dangerous cold was forecast Tuesday from an Arctic air mass stretching from Portland, Oregon, to the Great Lakes.
+
+
+The temperature was expected to bottom out Tuesday morning at minus 36 degrees Celsius in Butte, Montana, where over the past two winters at least five people died due to cold exposure, said Brayton Erickson, executive director of the Butte Rescue Mission. Advocates for the homeless in the city of about 35,000 planned to be out on the streets distributing sleeping bags, jackets, mittens and other cold weather gear to anyone who needs them, Erickson said.
+
+
+“When it gets this cold, we kind of pull out all the stops,” he said. “Having all those resources available literally can save their life or keep them from frostbite.” 
+
+<br> 
+
+<https://www.voanews.com/a/virginia-governor-declares-storm-emergency-as-snow-and-ice-bear-down-on-mid-atlantic-states/7970427.html>
+
+---
+
+## Private jets collide at Scottsdale Airport in Arizona, killing 1 person, authorities say
+
+date: 2025-02-11, from: VOA News USA
+
+SCOTTSDALE, Ariz.  — One person was killed and others were injured when a private jet owned by Mötley Crüe singer Vince Neil collided with another jet Monday afternoon at the Scottsdale Airport in Arizona, authorities said.
+
+
+Neil's jet was landing at the airport when it veered off the runway and collided with another parked plane, Neil's representative Worrick Robinson, IV, said in a statement. There were two pilots and two passengers on Neil’s plane, but he was not among them.
+
+
+“Mr. Neil’s thoughts and prayers go out to everyone involved, and he is grateful for the critical aid of all first responders assisting today," Robinson said.
+
+
+The arriving jet veered off the runway and collided with the Gulfstream 200 jet that was parked, according to Kelli Kuester, aviation planning and outreach coordinator at the Scottsdale Airport. It appeared that the primary landing gear of the arriving jet failed, resulting in the collision, she said.
+
+
+Kuester said four people were on the arriving jet, which had come from Austin, Texas, and one person was in the parked plane.
+
+
+Two people injured in the collision were taken to trauma centers and one was in stable condition at a hospital, Scottsdale Fire Department Capt. Dave Folio said. He said they were working to recover the body of the person killed in the collision.
+
+
+“Our thoughts and prayers go out to everybody involved in this,” Folio said.
+
+
+The runway has been closed and will remain closed “for the foreseeable future,” Kuester said.
+
+
+Scottsdale Mayor Lisa Borowsky said in a statement that she is closely monitoring the situation and is in touch with the airport, police and federal agencies.
+
+
+“On behalf of the city of Scottsdale, we offer our deepest condolences to those involved in the accident and for those who have been taken to our trauma center for treatment,” she said. “We will keep all affected by this tragedy in our prayers.”
+
+
+The airport is a popular hub for jets coming in and out of the Phoenix area, especially during big sports weekends like the Waste Management Phoenix Open golf tournament, which attracts huge crowds just a few miles away.
+
+
+The Scottsdale collision comes after three major U.S. aviation disasters in the past two weeks. 
+
+
+A commercial jetliner and an Army helicopter collided near the nation’s capital on Jan. 29, killing 67 people. A medical transportation plane crashed in Philadelphia on Jan. 31, killing the six people on board and another person on the ground. And last week a small commuter plane crashed in western Alaska on its way to the hub community of Nome, killing all 10 people on board. 
+
+<br> 
+
+<https://www.voanews.com/a/private-jets-collide-at-scottsdale-airport-in-arizona-killing-1-person-authorities-say/7970380.html>
+
+---
+
+## Trump imposes 25% tariffs on steel, aluminum imports
+
+date: 2025-02-11, from: VOA News USA
+
+U.S. President Donald Trump on Monday announced a 25% tariff on aluminum and steel tariffs that could hit Canada and Mexico, the top two exporters to the U.S., the hardest. Trump’s ongoing trade offensive also provoked chiding from the U.S.’ top competitor, China. VOA correspondent Anita Powell reports from the White House. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-imposes-25-tariffs-on-steel-aluminum-imports/7970363.html>
+
+---
+
+## Back to plastic: Trump announces US policy ‘to end the use of paper straws’
+
+date: 2025-02-11, from: VOA News USA
+
+President Donald Trump issued an executive order Monday declaring that it is “the policy of the United States to end the use of paper straws.”
+
+
+Former President Joe Biden’s administration, in an attempt to phase out federal purchases of single-use plastics, announced a plan in July 2024 to replace plastics with reusable, compostable and highly recyclable products.
+
+
+Trump’s order Monday stated that paper straws “are nonfunctional, use chemicals that may carry risks to human health, are more expensive to produce than plastic straws, and often force users to use multiple straws.”
+
+
+He also noted that paper straws are often individually wrapped in plastic, which undermines the environmental argument for their use.
+
+
+“It’s a ridiculous situation. We’re going back to plastic straws,” Trump said Monday as he signed the order.
+
+
+The Biden policy aimed to get plastic straws and other single-use plastics out of federal food service operations, events and packaging by 2027, and from all federal operations by 2035.
+
+
+Trump declared President Joe Biden’s policy “DEAD!” in a social media post over the weekend.
+
+
+In his Monday order, he instructed agency officials to stop buying paper straws and make sure paper straws are no longer provided within agency buildings.
+
+
+He also directed officials to create a national strategy to end the use of paper straws within 45 days.
+
+
+Information from The Associated Press was used in this report. 
+
+<br> 
+
+<https://www.voanews.com/a/back-to-plastic-trump-announces-us-policy-to-end-the-use-of-paper-straws-/7970362.html>
+
+---
+
+## Trump imposes 25% tariffs on steel, aluminum imports
+
+date: 2025-02-11, from: VOA News USA
+
+White House — President Donald Trump on Monday fired another volley in his ongoing trade war, announcing 25% tariffs on steel and aluminum imports and canceling exemptions and duty-free quotas for major suppliers.
+
+
+“It’s a big deal,” Trump said, the thick black marker in his right hand hovering over the executive order.
+
+
+“This is the beginning of making America rich again,” he said, dragging his distinctive jagged signature over the paper.
+
+
+
+
+Billionaire financier Howard Lutnick, Trump’s nominee to lead the Commerce Department, watched from over Trump’s left shoulder in the Oval Office. Trump's trade adviser said this move will help domestic producers and support U.S. economic and national security. Lutnick spoke of the 120,000 jobs this could bring back.
+
+
+“You are the president who is standing up for the American steelworker, and I am just tremendously impressed and delighted to stand next to you,” Lutnick said.
+
+
+The nuts and bolts
+
+
+Trump’s proclamations raised the rate on aluminum imports to 25% from the previous 10% that he imposed in 2018 to aid the struggling sector. And he restored a 25% tariff on millions of tons of steel and aluminum imports.
+
+
+Trump’s actions also will impose a new North American standard requiring steel imports to be "melted and poured" and aluminum to be "smelted and cast" in the region to curb imports of minimally processed Chinese steel.
+
+
+The order also targets downstream steel products that use imported steel for tariffs.
+
+
+Trump's trade adviser, Peter Navarro, said the measures would help U.S. steel and aluminum producers and shore up America's economic and national security.
+
+
+"The steel and aluminum tariffs 2.0 will put an end to foreign dumping, boost domestic production and secure our steel and aluminum industries as the backbone and pillar industries of America's economic and national security," he told reporters.
+
+
+"This isn't just about trade. It's about ensuring that America never has to rely on foreign nations for critical industries like steel and aluminum," Navarro said.
+
+
+What now?
+
+
+Trump first broached the steel and aluminum action Sunday — and the move drew instant pushback in what is unfolding as a tit-for-tat exchange.
+
+
+Earlier Monday, Beijing enacted additional tariffs on U.S. goods as a countermeasure to Trump’s earlier 10% hike on Chinese goods.
+
+
+“There are no winners in trade wars and tariff wars,” said Guo Jiakun, a spokesperson for China’s Ministry of Foreign Affairs. “They harm the interests of the people of both countries. What is needed now is not unilateral tariff increases but equal dialogue and consultation based on mutual respect. We urge the U.S. to correct its wrong practices and stop politicizing and instrumentalizing economic and trade issues.”
+
+
+Most economists believe tariffs raise consumer prices. Scholars of supply chains and logistics say Trump’s move also raises major global policy questions.
+
+
+“It's not clear whether this is a negotiating strategy, whether this is going to be permanent,” said Professor Sunderesh Heragu of Oklahoma State University. “Is this only restricted to Canada, Mexico and China as it is now, or is it going to expand to the European Union, for example, or even the BRICS countries, of which, you know, Brazil, Russia, India, China, South Africa and 12 or 14 other countries, are part of?”
+
+
+He said these concerns may prompt countries to realign their trade relationships, which will likely alarm producers.
+
+
+“It clearly causes a lot of confusion, and you know, businesses, again, hate uncertainty,” Heragu said. “So, they're going to put everything on pause. That means, you know, there could be a decrease in production activity, while at the same time, the tariffs could have inflationary effects.”
+
+
+Some in the automotive industry in Detroit, the U.S.’ “Motor City,” echoed that concern.
+
+
+"Sudden tariffs to a system — there isn't a lot of good that comes out of that,” said Glenn Stevens Jr., executive director of MichAuto and vice president of automotive and mobility initiatives at the Detroit Regional Chamber.
+
+
+Studies attempting to understand the impact of these moves yield mixed pictures. The Washington, D.C.-based Tax Foundation estimates that the tariffs will generate around $100 billion each year in federal tax revenue.
+
+
+Another analysis shows they could “impose significant costs on the broader economy: disrupting supply chains, raising costs for businesses, eliminating hundreds of thousands of jobs and ultimately driving up consumer prices.”
+
+
+Some information for this article came from Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-imposes-25-tariffs-on-steel-aluminum-imports/7970355.html>
+
+---
+
+## Jen Rubin in conversation with Lily Geismer 
+
+date: 2025-02-11, from: The Contrarian
+
+(video) 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156898197/ce539a5a11bfdaae0adb0791cd1dfe5a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156898197/ce539a5a11bfdaae0adb0791cd1dfe5a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-in-conversation-with-lily>
+
+---
+
+## Hamas threatens to delay hostage release
+
+date: 2025-02-11, from: VOA News USA
+
+Hamas officials accused Israel of violating a ceasefire agreement Monday and threatened to delay releasing more hostages, prompting U.S. President Donald Trump to say “all hell is going to break out” if all the remaining hostages are not turned over by Saturday.
+
+
+The next exchange was set for Saturday, with three more Israelis set to be freed in exchange for hundreds of Palestinian prisoners jailed by Israel.
+
+
+A spokesperson for Hamas' armed wing, the al-Qassam Brigades, said in a statement the militants remain committed to the ceasefire terms “as long as the occupation adheres to them.”
+
+
+Hamas accused Israel of delaying the return of displaced Palestinians to northern Gaza, although hundreds of thousands have returned. The group said Palestinians were targeted “with airstrikes and gunfire across various areas” and Israel has failed “to facilitate the entry of humanitarian aid as agreed.”
+
+
+However, a United Nations official said 12,600 humanitarian aid trucks have entered Gaza since the ceasefire began and the immediate threat of famine has dissipated.
+
+
+Israeli Defense Minister Israel Katz said any delay by Hamas would be “a complete violation” of the ceasefire agreement. He placed the Israeli military on the highest level of alert.
+
+
+In Washington Monday, Trump said he would propose canceling the ceasefire agreement if all the remaining hostages being held in Gaza were not released by 12 o’clock Saturday, but he did not specify whether that was noon or midnight, and he did not indicate a time zone. 
+
+
+He also said he might withhold aid to Jordan and Egypt if they don't take Palestinian refugees being relocated from Gaza.
+
+
+Since the ceasefire took effect last month, Hamas has freed 21 hostages while Israel has released more than 730 prisoners.
+
+
+Trump has proposed moving Palestinians living in Gaza to an unspecified location outside the territory. Under his plan for the enclave, they would have no right to return.
+
+
+In an interview with Fox News released Monday, he called his plan for the narrow territory along the shores of the Mediterranean Sea a "real estate development for the future."
+
+
+“I would own it," he said, adding that the 2.3 million Palestinians now living in war-ravaged Gaza would be moved to as many as six different sites outside Gaza under a plan that the Arab world, as well as U.S. allies and adversaries alike, have already rejected.
+
+
+Trump, a billionaire New York real estate magnate before entering politics in 2015, did not say where the Palestinians would be relocated. But when asked by Fox anchor Bret Baier if they would be allowed to return home to Gaza, Trump said, "No, they wouldn't, because they're going to have much better housing."
+
+
+"In other words, I'm talking about building a permanent place for them because if they have to return now, it'll be years before you could ever — it's not habitable,” Trump said of Gaza, decimated by 15 months of fighting between Israel and Hamas.
+
+
+In the Fox interview, Trump said he would build "beautiful communities" for the Palestinians.
+
+
+"Could be five, six, could be two. But we'll build safe communities, a little bit away from where they are, where all of this danger is," Trump said.
+
+
+On Sunday, Israeli troops withdrew from the Netzarim corridor, a narrow strip of land that bisects the territory. It allowed more Palestinians to return to the northern sector where they once lived, but much of the land has been leveled by fighting.
+
+
+Hamas spokesperson Abdel Latif Al-Qanoua said the withdrawal showed Hamas had "forced the enemy to submit to our demands" and that it thwarted Israeli Prime Minister Benjamin Netanyahu's “Illusion of achieving total victory."
+
+
+Israeli officials did not disclose how many soldiers withdrew or to where. Troops currently remain along Gaza's borders with Israel and Egypt and a full withdrawal is expected to be negotiated in a later stage of the initial 42-day ceasefire.
+
+
+During the first six-week phase of the ceasefire, Hamas is gradually releasing 33 Israeli hostages captured during its Oct. 7, 2023, attack on Israel in exchange for a pause in fighting, freedom for hundreds of Palestinian prisoners and a flood of humanitarian aid into Gaza. The deal also stipulated that Israeli troops would pull back from populated areas of Gaza as well as the Netzarim corridor.
+
+
+In the second phase, all remaining living hostages would be released in return for a complete Israeli withdrawal from Gaza and a "sustainable calm." But details are unclear and yet to be negotiated.
+
+
+The war in Gaza was triggered by the shock October 2023 Hamas terror attack on Israel that killed 1,200 people and led to the capture of 250 hostages. Israel’s counteroffensive killed more than 47,000 Palestinians, more than half of them women and children, according to local health authorities. Israel says the death toll includes 17,000 militants it has killed.
+
+
+Some information for this report came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/hamas-threatens-to-delay-hostage-release/7970331.html>
+
+---
+
+## Norm Eisen explains to Jen Rubin what happened in a Rhode Island courtroom...
+
+date: 2025-02-11, from: The Contrarian
+
+...and what comes next, for democracy and justice. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156896338/861045224ba80b802a94e0d9409d5b7a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156896338/861045224ba80b802a94e0d9409d5b7a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/norm-eisen-explains-to-jen-rubin>
+
+---
+
+## Justice Dept directs prosecutors to drop charges against New York mayor
+
+date: 2025-02-11, from: VOA News USA
+
+The Justice Department on Monday directed federal prosecutors in New York to drop corruption charges against New York Mayor Eric Adams, according to a memo from acting Deputy Attorney General Emil Bove.
+
+
+Bove, a political appointee of President Donald Trump, intervened in the case, saying the indictment of Adams interfered with his 2025 mayoral reelection campaign.
+
+
+A spokesperson for the U.S. Attorney's office in Manhattan, which brought the charges, declined to comment.
+
+
+Prosecutors have not yet indicated to the judge overseeing the case, U.S. District Judge Dale Ho in Manhattan, that they plan to drop the case, court records showed Monday evening.
+
+
+Adams was the subject of a five-count indictment charging him with accepting travel perks from Turkish officials and political donations from foreigners in exchange for taking actions to benefit Turkey.
+
+
+Adams pleaded not guilty. 
+
+<br> 
+
+<https://www.voanews.com/a/justice-dept-directs-prosecutors-to-drop-charges-against-new-york-mayor/7970311.html>
 
 ---
 

@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-02-10 17:34:36
+updated: 2025-02-11 07:08:47
 ---
 
 # science and technology
 
-(date: 2025-02-10 17:34:36)
+(date: 2025-02-11 07:08:47)
+
+---
+
+## I'm a security expert, and I almost fell for a North Korea-style deepfake job applicant …Twice
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Remote position, webcam not working, then glitchy AI face ... Red alert!</h4> <p>Twice, over the past two months, Dawid Moczadło has interviewed purported job seekers only to discover that these &#34;software developers&#34; were scammers using AI-based tools — likely to get hired at a security company also using artificial intelligence, and then steal source code or other sensitive IP.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/it_worker_scam/>
+
+---
+
+## Google confirms Gulf of Mexico renamed to appease Trump – but only in the US
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>So now everyone&#39;s happy</h4> <p>Google has changed the name of the Gulf of Mexico on Google Maps to comply with a Donald Trump whim – but only for American users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/google_maps_gulf_of_mexico/>
+
+---
+
+## Microsoft open sources PostgreSQL extensions to muscle in on NoSQL
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>But will it set a real standard for MongoDB alternatives?</h4> <p><strong>Analysis</strong>  When Microsoft rolled out an open source extension stack for PostgreSQL to handle document-style data, it wasn&#39;t just taking aim at MongoDB – the dominant NoSQL player – but also blurring the lines between relational and non-relational databases, according to one expert.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_postgresql_extensions/>
+
+---
+
+## DeepMind working on distributed training of large AI models
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Alternate process could be a game changer if they can make it practicable</h4> <p>Is distributed training the future of AI? As the shock of the DeepSeek release fades, its legacy may be an awareness that alternative approaches to model training are worth exploring, and DeepMind researchers say they&#39;ve come up with a way of making distributed training much more efficient.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/deepmind_distributed_model_training_research/>
+
+---
+
+## Already three years late, NHS finance system replacement delayed again
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Project to swap out Oracle E-Business Suite gets another red rating from projects watchdog</h4> <p>The UK&#39;s largest NHS management body has postponed the replacement of its aging Oracle finance system again following more than three years of delays.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/nhs_finance_system_delayed/>
+
+---
+
+## Euro cloud crew says we-won't-sue deal with Microsoft is 'off-track'
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Overseas pals urge US tech giant to &#39;rapidly&#39; work on Azure Local project to make things right – sans licenses</h4> <p>Microsoft is not on track to meet technical commitments that form the basis of a settlement agreement intended to resolve a legal dispute over software licensing with a gaggle of cloud providers in Europe.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/microsoft_criticized_by_euro_cloud/>
+
+---
+
+## UK government using AI tools to check up on roadworthy testing centers
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Who tests the testers?</h4> <p>The UK&#39;s Department for Science, Innovation and Technology (DSIT) has produced a list showing how the country uses AI technologies to perform tasks ranging from speeding up the planning process to prioritizing the inspection of MOT testing centers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_tools_mot_testing/>
+
+---
+
+## RIP Raymond Bird: Designer of UK's first mass-produced business computer dies aged 101
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Engineer was behind the HEC series and more</h4> <p><strong>Obit</strong>  Raymond Bird, who developed the UK&#39;s first mass-produced business computer, the Hollerith Electronic Computer (HEC), has died at the digitally apropos age of 101.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/hollerith_electronic_computer_designer_raymond_bird/>
+
+---
+
+## Only 4 percent of jobs rely heavily on AI, with peak use in mid-wage roles
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Mid-salary knowledge jobs in tech, media, and education are changing. Folk in physical jobs have less to sweat about</h4> <p>Workers in just four percent of occupations use AI for three quarters of their tasks, according to research from Anthropic that explores how its Claude model is used.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/ai_impact_hits_midtohigh_wage_jobs/>
+
+---
+
+## NASA’s radiation tolerant computer lives up to its name after surviving Van Allen belts
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>&#39;RadPC&#39; flew on Firefly’s Ghost Riders in the Sky mission, which has left Earth Orbit and is headed for the Moon</h4> <p>NASA has revealed its experimental Radiation Tolerant Computer has made it through the famously and furiously radiating Van Allen belts in one piece.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/nasa_radpc_firefly_moon_mission/>
+
+---
+
+## January earthquake shook $165M off TSMC’s revenue forecast
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Promises production schedule will get back on track</h4> <p>Taiwanese chipmaking champion TSMC has revealed that a January earthquake will cost it millions.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/tsmc_taiwan_earthquake_financial_impact/>
+
+---
+
+## Apple warns 'extremely sophisticated attack' may be targeting iThings
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Cupertino mostly uses bland language when talking security, so this sounds nasty</h4> <p>Apple has warned that some iPhones and iPads may have been targeted by an “extremely sophisticated attack” and has posted patches that hopefully prevent it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/apple_ios_ipados_patches/>
 
 ---
 
@@ -249,6 +393,93 @@ date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
 
 ---
 
+## DARPA demos will test novel tech for building future large structures in space
+
+date: 2025-02-10, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">DARPA demos will test novel tech for building future large structures in space</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-10T09:25:48-05:00" title="Monday, February 10, 2025 - 09:25" class="datetime">Mon, 02/10/2025 - 09:25</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Manufacturing experiment will move from the lab to in-orbit evaluation</h4><p>&nbsp;</p></div>
+      
+
+      </div>
+  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--image paragraph--view-mode--default">
+    
+        
+      
+      
+      <img src="https://drupal.darpa.mil/sites/default/files/styles/wide_816/public/gallery/2025-02/program-darpa-nom4d-phase-3.jpg?itok=60Auqe-_" alt class="image-style-wide-816">
+
+
+
+      <figcaption class="padding-bottom-3">
+        Artist's concept depicts structural assembly and novel composite-forming process experiments to be conducted in space in 2026 during Phase 3 of DARPA's NOM4D program. 
+
+                  <span class="photo-credit">Source:  University of Illinois Urbana-Champaign</span>
+              </figcaption>
+
+    
+
+      </div>
+
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Based on outstanding technical progress by research teams to date, DARPA has pivoted the third and final phase of its <a href="https://drupal.darpa.mil/research/programs/novel-orbital-and-moon-manufacturing-materials-and-mass-efficient-design">NOM4D (pronounced <em>nō- mad</em>) program</a><a href="#1"><sup>[1]</sup></a> from planned further laboratory testing to conducting a pair of small-scale orbital demonstrations to evaluate novel materials and assembly processes in space.</p><p>As commercial space companies continue to expand access to orbit for U.S. economic and national security needs, a major roadblock for building large-scale structures in orbit remains: the size and weight limits imposed by a rocket’s cargo fairing. In 2022, DARPA introduced NOM4D to break this cargo-constraint mold by exploring a new paradigm. Instead of folding or compacting structures to fit them into a rocket fairing to be unfurled or deployed in space, DARPA proposed stowing novel lightweight raw materials in the rocket fairing that don’t need to be hardened for launch. The intent of this approach is to allow in-orbit construction of vastly larger and more mass-efficient structures than could ever fit in a rocket fairing. Additionally, this concept enables mass-efficient designs of structures that would sag under their own weight on Earth but are optimized for the low-gravity environment of space.</p><p>“Caltech [California Institute of Technology] and the University of Illinois Urbana-Champaign have demonstrated tremendous advances in the first two phases and have now partnered in Phase 3 with space-launch companies to conduct in-space testing of their novel assembly processes and materials,” said <a href="https://drupal.darpa.mil/about/people/andrew-detor">Andrew Detor, DARPA NOM4D program manager</a>. “Originally, Phase 3 was going to be about making things more precisely in the lab than we did in Phase 2. But we said, ‘You know, the maturity is there, and there would be more impact if we took the capabilities we have now and actually go demonstrate them in space to show that it can be done.’ Pushing the performers to do a demo in space means they can’t just sweep challenges under the rug like they could in a lab. You better figure out how it’s going to survive in the space environment.” &nbsp;</p><p>Caltech is focused on mass-efficient designs for in-space manufacturing and has teamed with Momentus Inc. to demonstrate its technology aboard the Momentus Vigoride Orbital Services Vehicle, launching into low-Earth orbit on the SpaceX Falcon 9 Transporter-16 mission scheduled for February 2026.</p><p>The Caltech experiment will be “free flying,” meaning it won’t involve human engagement once established in its orbit. Onboard cameras will provide real-time monitoring of structural assembly progress as a gantry robotic device autonomously assembles lightweight, composite fiber longerons (thin tubes) into a 1.4-meter-diameter circular truss to simulate the architectural structure of an antenna aperture. Think of it as an autonomous robotic assembly of a high-tech K’Nex or Tinkertoy structure to prove on a small scale that the manufacturing concept and materials function as designed in space.</p><p>“The Caltech demo won’t be building a radio frequency (RF) antenna with the required electronics; rather it will show us if their assembly tech works in space and if they can build a structure using thin composite tubes with surrogate RF mesh material hanging on the inside of the perimeter truss,” Detor said. “If the assembly technology is successful, this would be the first step toward scaling up to eventually building very large space-based structures in the future.” &nbsp;</p><p>The University of Illinois Urbana-Champaign is focused on in-space materials and manufacturing and has developed a high-precision, in-space composite-forming process. They have partnered with Voyager Space aiming for launch to the International Space Station aboard NASA’s Commercial Resupply Mission NG-24, tentatively scheduled for April 2026. Their demo will take place in the Bishop Airlock module attached to the space station.</p><p>“The University of Illinois team will be conducting demonstrations of their technology using a sleeve of carbon fiber that lays flat – sort of like one of those finger traps you played with as a kid – but it’s made of carbon fiber that becomes the hardened reinforced structure later in the process,” Detor said. “Then they have a liquid monomer, which are molecules that have not polymerized, so they’re not solid yet. The chemistry of those monomers is really engineered for space launch – it’s got the shelf life you need and it’s able to survive the temperatures in space.</p><p>“The UIUC team has developed a unique way to trigger the polymerization, or hardening, chemical reaction. The process for most carbon fiber-reinforced epoxy, such as your skis or your tennis racket might be made of, involves bagging up the whole structure, infusing resin into the carbon fiber preform, and putting the whole thing into an autoclave to heat it up. If you want to construct a large structure in space, you don’t have a 100-meter autoclave you can put something into to heat it. So, they’ve developed what’s called a ‘frontal polymerization’ method, where you just ignite one end of the inside of the tube and the reaction self-propagates, stiffening the carbon tubes without heating up the whole structure. In theory, you could extend the process to produce very large structures once the polymerization process starts. You’d only be limited by the amount of feedstock coming into the process.”</p><p>A third team in NOM4D Phase 3, the University of Florida, is not involved in the in-space demonstrations but is working on innovative laser sheet metal bending techniques that could provide valuable manufacturing possibilities in space.</p><p>“The University of Florida is maturing the ability to bend metal using lasers and is working very closely with NASA’s Marshall Space Flight Center in Huntsville, Alabama, to share their learnings,” Detor said. “Marshall has a laser space processing portfolio for welding and cutting metals, and we recently visited their facility to show them the University of Florida work and add bending metal to the capability mix.”</p><p>As NASA and commercial companies envision and develop plans for a space-based and lunar economy of the future, a major national security interest is space situational awareness – especially in the vast cislunar space, the region between Earth and the Moon. &nbsp;</p><p>“NOM4D aims to take the first small step to demo new technologies to see if in-orbit assembly of large structures is possible,” Detor said. “We’re paving the way for an in-space manufacturing ecosystem.</p><p>If we’re successful, we can look forward to scaling up this kind of technology to eventually build space-based RF antennas with 100-meter or greater diameter that would significantly improve our situational awareness of activity in the cislunar region and beyond. We can also envision NOM4D technologies enabling other massive structures in orbit, such as refueling stations for commercial or government spacecraft, spaced-based solar array farms, and many other commercial and national security applications.”</p><p id="1">[1] &nbsp;NOM4D stands for Novel Orbital and Moon Manufacturing, Materials, and Mass-efficient Design. The first two phases of the program included teams looking at Moon regolith (using Earth-based simulants) as a potential raw material for in-orbit manufacturing, but the final phase is focused solely on Earth-based materials and manufacturing processes for testing in space. No Moon-based technologies are being pursued in NOM4D.&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+        
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/news/podcast#68"><strong>Podcast: </strong>Space manufacturing | Ep 68</a></li><li><a href="https://drupal.darpa.mil/research/programs/novel-orbital-and-moon-manufacturing-materials-and-mass-efficient-design"><strong>Program:</strong> NOM4D</a></li><li><a href="https://drupal.darpa.mil/about/people/andrew-detor">Andrew Detor, program manager</a></li></ul></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/news/2025/novel-tech-space-structures>
+
+---
+
 ## Newly Minted Ph.D. Studies Phytoplankton with NASA’s FjordPhyto Project
 
 date: 2025-02-10, from: NASA breaking news
@@ -311,9 +542,9 @@ date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
 
 ## Legacy systems running UK's collector are taxing – in more ways than one
 
-date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+date: 2025-02-10, updated: 2025-02-11, from: The Register (UK I.T. News)
 
-<h4>Costs for fixing them and keeping them working up by 390%, NAO report reveals</h4> <p>Costs associated with the remediation of the UK tax collector&#39;s legacy systems have risen by up to 390 percent, according to a new report from government auditors.…</p> 
+<h4>Costs for fixing them and keeping them working up by 390%, NAO report reveals</h4> <p><strong>Updated</strong>  Costs associated with the remediation of the UK tax collector&#39;s legacy systems have risen by up to 390 percent, according to a new report from government auditors.…</p> 
 
 <br> 
 

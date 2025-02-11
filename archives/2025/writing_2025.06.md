@@ -1,11 +1,48 @@
 ---
 title: writing
-updated: 2025-02-10 17:34:37
+updated: 2025-02-11 07:08:48
 ---
 
 # writing
 
-(date: 2025-02-10 17:34:37)
+(date: 2025-02-11 07:08:48)
+
+---
+
+## The Book of Lives
+
+date: 2025-02-11, from: Margaret Atwoods Substack
+
+A memoir of sorts. 
+
+<br> 
+
+<https://margaretatwood.substack.com/p/the-book-of-lives>
+
+---
+
+## Best SFF of 2024: Financial Times
+
+date: 2025-02-11, from: Locus Magazine
+
+<p>For 2024, the Financial Times featured several genre books across their best-of lists in various categories.</p>
+<div class="mynomorebulletlist">
+<p>FT&#8217;s Science Fiction List (includes fantasy):</p>
+<ul>
+<li><strong>The Cautious Traveller’s Guide to the Wastelands, </strong>Sarah Brooks (Flatiron)</li>
+<li><strong>No One Is Safe!,</strong> Philip Fracassi (Lethe)</li>
+<li><strong>Extremophile,</strong> Ian Green (Head of Zeus)</li>
+<li><strong>Conan: City of the Dead, </strong>John C Hocking (Titan)</li>
+<li><strong>The Great When,</strong> Alan Moore (Bloomsbury)</li>
+</ul>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>FT&#8217;s general Fiction list includes several titles </p></div> <a href="https://locusmag.com/2025/02/best-sff-of-2024-financial-times/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/best-sff-of-2024-financial-times/>
 
 ---
 

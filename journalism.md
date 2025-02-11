@@ -1,11 +1,90 @@
 ---
 title: journalism
-updated: 2025-02-10 17:34:38
+updated: 2025-02-11 07:08:49
 ---
 
 # journalism
 
-(date: 2025-02-10 17:34:38)
+(date: 2025-02-11 07:08:49)
+
+---
+
+## Student, faculty-led committees propose sustainability graduation requirement
+
+date: 2025-02-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University Committee on Curriculum is the only body that can change the requirement.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/11/student-faculty-led-committees-propose-sustainability-graduation-requirement/">Student, faculty-led committees propose sustainability graduation requirement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/11/student-faculty-led-committees-propose-sustainability-graduation-requirement/>
+
+---
+
+## Refurbished Muslim prayer space, community center unveiled
+
+date: 2025-02-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>New additions include artwork, a library section and new furniture.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/11/refurbished-muslim-prayer-space-community-center-unveiled-at-usc/">Refurbished Muslim prayer space, community center unveiled</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/11/refurbished-muslim-prayer-space-community-center-unveiled-at-usc/>
+
+---
+
+## Navigating through a world without lyrics
+
+date: 2025-02-11, from: The Daily Trojan (USC Student Newspaper)
+
+<p>My evolution on instrumental music was a long-winded but cathartic journey. </p>
+<p>The post <a href="https://dailytrojan.com/2025/02/11/navigating-through-a-world-without-lyrics/">Navigating through a world without lyrics</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/11/navigating-through-a-world-without-lyrics/>
+
+---
+
+## Editorial Cartoon: “Screen Time Flies”
+
+date: 2025-02-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/02/10/editorial-cartoon-screen-time-flies/>
+
+---
+
+## USAC recap – Feb. 4
+
+date: 2025-02-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council ended its first meeting of the month Tuesday with a discussion about goals for the council’s future.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/10/usac-recap-feb-4-3/>
+
+---
+
+## AASPP celebrates Asian American and Pacific Islander communities
+
+date: 2025-02-11, from: The Sundail (CSUN Student Newspaper)
+
+The University Student Union (USU) is hosting its bi-annual APIDA Welcome event on Tuesday, Feb. 11, at the Northridge Center from 4 p.m. to 6 p.m. The non-profit regularly puts... 
+
+<br> 
+
+<https://sundial.csun.edu/189826/news/aaspp-celebrates-asian-american-and-pacific-islander-communities/>
 
 ---
 
