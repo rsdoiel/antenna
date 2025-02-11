@@ -27,7 +27,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = north_america socal_north pacific ham_radio science_and_technology columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft
+section_names = north_america socal_north pacific ham_radio science_and_technology columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft snapshots
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -35,12 +35,9 @@ html_files = $(addsuffix .html,$(section_names))
 
 build: harvest markdown html archives index.html forcecasts.html about.html README.html CITATION.cff dump
 
-world: build snapshots
+world: build
 
 california: harvest markdown html archives index.html forecasts.html about.html README.html CITATION.cff dump
-
-snapshots: .FORCE
-	cd snapshots && make
 
 website: markdown html archives index.html forecasts.html about.html README.html 
 
@@ -56,6 +53,9 @@ harvest: $(section_names)
 #
 food: .FORCE
 	-skimmer food.txt
+
+snapshots: .FORCE
+	-skimmer snapshots.txt
 
 north_america: .FORCE
 	-skimmer north_america.txt
@@ -181,6 +181,8 @@ clean: .FORCE
 	-rm writing.html 2>/dev/null
 	-rm health.md 2>/dev/null
 	-rm health.html 2>/dev/null
+	-rm snapshots.md 2>/dev/null
+	-rm snapshots.html 2>/dev/null
 	cd archives && make clean
 
 CITATION.cff: .FORCE

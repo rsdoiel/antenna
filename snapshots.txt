@@ -242,7 +242,7 @@ http://www.enlightenmenteconomics.com/blog/index.php/feed/ "~Enlightenment Econo
 http://www.multicores.org/blog/feed.rss "~Microcores blog"
 http://www.norvig.com/rss-feed.xml "~Peter Norvig's feed"
 http://www.retroprogramming.com/feeds/posts/default?alt=rss "~Retro Programming blog"
-http://www.spagmag.org/feed/ "~SPAG Magizine blog"
+#http://www.spagmag.org/feed/ "~SPAG Magizine blog"
 http://www.verticalfarm.com/?feed=rss2 "~Virtical Farm Blog"
 https://blog.system76.com/rss.xml "~System76 Blog"
 https://puri.sm/feed/ "~Purism News and Events"

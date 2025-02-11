@@ -13,7 +13,7 @@ Collection                                          Description of Posts        
 [Science & Technology](science_and_technology.html) Science and Technology                                             [science_and_technology.txt](science_and_technology.txt)
 [Columns](columns.html)                             Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Weather Forecasts](forecasts.html)                 [NOAA's](https://weather.gov) links, selected forecast pages
-[Snapshots](snapshots/)                             A Sometimes daily aggregation                                      [snapshots/news.txt](snapshots/news.txt)
+[Snapshots](snapshots.html)                         A aggregation from site around thre web                            [snapshots.txt](snapshots.txt)
 
 
 Other reading.
