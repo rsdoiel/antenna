@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-02-10 16:51:28
+updated: 2025-02-10 17:34:37
 ---
 
 # weather
 
-(date: 2025-02-10 16:51:28)
+(date: 2025-02-10 17:34:37)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-02-11, from: Eastern Pacific Basin Tropical Cyclones
+date: 2025-02-11, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Tue Feb 11 00:29:01 UTC 2025
+## SPC - No watches are valid as of Tue Feb 11 01:01:02 UTC 2025
 
 date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Feb 11 00:29:01 UTC 2025. 
+No watches are valid as of Tue Feb 11 01:01:02 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Tue Feb 11 00:29:01 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Feb 11 00:29:01 UTC 2025
+## SPC - No MDs are in effect as of Tue Feb 11 01:01:02 UTC 2025
 
 date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Feb 11 00:29:01 UTC 2025. 
+No Mesoscale Discussions are in effect as of Tue Feb 11 01:01:02 UTC 2025. 
 
 <br> 
 
@@ -45,9 +45,53 @@ No Mesoscale Discussions are in effect as of Tue Feb 11 00:29:01 UTC 2025.
 
 ---
 
+## SPC Feb 11, 2025 0100 UTC Day 1 Convective Outlook
+
+date: 2025-02-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0653 PM CST Mon Feb 10 2025
+
+Valid 110100Z - 111200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Severe thunderstorms are not expected tonight.
+
+...01z Update...
+
+850mb flow is beginning to increase across northern TX into
+southeast OK, partially in response to a weak southern stream
+short-wave trough that is approaching this region. Latest model
+guidance suggests LLJ will strengthen into the late evening hours
+then veer into the Arklatex by 11/12z. The strongest corridor of
+low-level warm advection is currently noted from central OK into the
+Ozarks. This appears to be the primary reason for ongoing elevated
+convection, with scattered updrafts penetrating levels that are
+favorable for lightning. 00z sounding from OUN supports this with
+450 J/kg MUCAPE if lifting a parcel around 2km AGL. With time, as
+temperatures cool aloft, lapse rates should adjust and permit
+convection to develop southwest across north-central TX into the
+Edwards Plateau. Buoyancy appears inadequate for severe hail.
+
+..Darrow.. 02/11/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
+
+---
+
 ## SPC Day 3-8 Fire Weather Outlook
 
-date: 2025-02-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-10, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 3-8 Fire Weather Outlook  

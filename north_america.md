@@ -1,11 +1,188 @@
 ---
 title: north america
-updated: 2025-02-10 16:51:26
+updated: 2025-02-10 17:34:34
 ---
 
 # north america
 
-(date: 2025-02-10 16:51:26)
+(date: 2025-02-10 17:34:34)
+
+---
+
+## Trump’s purge of federal workers and its historical parallels
+
+date: 2025-02-11, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>President Donald Trump&#8217;s recent steps to remove federal employees is drawing comparisons to government purges during the Red Scare of the 1950s. What’s at stake when government workers are pushed out? We&#8217;ll break it down. Plus, we&#8217;ll explain why a ruling in one of the lawsuits over Trump&#8217;s funding freeze is a biggie. Finally, tell us something good that happened to you lately!</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/02/10/us/trump-unfreezing-federal-grants-judge-ruling.html?smid=url-share" target="_blank" rel="noreferrer noopener">“Judge Rules That Trump Administration Defied Order to Unfreeze Billions in Federal Grants”</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2025-02-10/trump-to-loosen-enforcement-of-us-law-banning-overseas-bribes" target="_blank" rel="noreferrer noopener">“Trump Eases Enforcement of Law Banning Overseas Bribes”</a> by Bloomberg</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.politico.com/news/magazine/2025/02/06/government-workers-purge-1950s-communism-00202336" target="_blank" rel="noreferrer noopener">“What Happened the Last Time a President Purged the Bureaucracy”</a> from Politico</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.cbsnews.com/news/trump-approval-opinion-poll-2025-2-9/" target="_blank" rel="noreferrer noopener">“CBS News poll — Trump has positive approval amid &#8216;energetic&#8217; opening weeks; seen as doing what he promised”</a> by CBS News</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.wcvb.com/article/pig-kidney-xenotransplantation-massachusetts-general-hospital-2nd/63688672" target="_blank" rel="noreferrer noopener">“Second pig kidney transplant successfully completed at Massachusetts General Hospital”</a> from WCVB Channel 5</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.cnn.com/2025/02/07/health/pig-kidney-transplant-clinical-trials/index.html" target="_blank" rel="noreferrer noopener">“Experimental transplants with organs from gene-edited pigs see major steps forward”</a> from CNN</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.washingtonpost.com/lifestyle/2025/02/10/unc-chapel-hill-video-good-thing/" target="_blank" rel="noreferrer noopener">“A campus sign said ‘Tell us something good.’ Students delivered.”</a> by The Washington Post</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Tell us something good that happened to you recently! Email us at makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/10/mms_20250210_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftrumps-purge-of-federal-workers-and-its-historical-parallels&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/10/mms_20250210_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftrumps-purge-of-federal-workers-and-its-historical-parallels&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/trumps-purge-of-federal-workers-and-its-historical-parallels>
+
+---
+
+## Musk-led group makes $97.4 billion bid for control of OpenAI
+
+date: 2025-02-11, from: VOA News USA
+
+A consortium led by Elon Musk said Monday it has offered $97.4 billion to buy the nonprofit that controls OpenAI, another salvo in the billionaire's fight to block the artificial intelligence startup from transitioning to a for-profit firm.
+
+
+Musk's bid is likely to ratchet up longstanding tensions with OpenAI CEO Sam Altman over the future of the startup at the heart of a boom in generative AI technology. Altman on Monday promptly posted on X: "no thank you but we will buy twitter for $9.74 billion if you want."
+
+
+Musk cofounded OpenAI with Altman in 2015 as a nonprofit, but left before the company took off. He founded the competing AI startup xAI in 2023.
+
+
+Musk, the CEO of Tesla and owner of tech and social media company X, is a close ally of President Donald Trump. He spent more than a quarter of a billion dollars to help elect Trump, and leads the Department of Government Efficiency, a new arm of the White House tasked with radically shrinking the federal bureaucracy. Musk recently criticized a $500 billion OpenAI-led project announced by Trump at the White House.
+
+
+OpenAI is now trying to transition into a for-profit from a nonprofit entity, which it says is required to secure the capital needed for developing the best AI models.
+
+
+Musk sued Altman and others in August last year, claiming they violated contract provisions by putting profit ahead of the public good in the push to advance AI. In November, he asked a U.S. district judge for a preliminary injunction blocking OpenAI from converting to a for-profit structure.
+
+
+Musk's lawsuit against OpenAI and Altman says the founders originally approached him to fund a nonprofit focused on developing AI to benefit humanity, but that it was now focused on making money.
+
+
+"It's time for OpenAI to return to the open-source, safety-focused force for good it once was," Musk said in a statement Monday. "We will make sure that happens."
+
+
+Musk and OpenAI backer Microsoft did not immediately respond to requests for comment.
+
+
+"Musk's bid puts another wrinkle into OpenAI's quest to remove the nonprofit's control over its for-profit entity," said Rose Chan Loui, executive director of the UCLA Law Center for Philanthropy and Nonprofits.
+
+
+"This bid sets a marker for the valuation of the nonprofit's economic interests," she said. "If OpenAI values the nonprofit's interests at less than what Musk is offering, then they would have to show why."
+
+
+The consortium led by Musk includes his AI startup xAI, Baron Capital Group, Valor Management, Atreides Management, Vy Fund III, Emanuel Capital Management, and Eight Partners.
+
+
+XAI could merge with OpenAI following a deal, according to The Wall Street Journal which first reported Musk's offer earlier Monday. XAI recently raised $6 billion from investors at a valuation of $40 billion, sources have told Reuters.
+
+
+Throwing a wrench
+
+
+"This (bid) is definitely throwing a wrench in things," said Jonathan Macey, a Yale Law School professor specializing in corporate governance.
+
+
+"The nonprofit is supposed to take money to do whatever good deeds, and if OpenAI prefers to sell it to somebody else for less money, it's a concern for protecting the interests of the beneficiaries of the not-for-profit. If this was a public company, plaintiffs' lawyers would justifiably be lining up down the block to sue that transaction."
+
+
+OpenAI was valued at $157 billion in its last funding round, cementing its status as one of the most valuable private companies in the world. SoftBank Group is in talks to lead a funding round of up to $40 billion in OpenAI at a valuation of $300 billion, including the new funds, Reuters reported in January.
+
+
+Aside from any antitrust implications, a deal this size would need Musk and his consortium to raise enormous funds.
+
+
+"Musk's offer to buy OpenAI’s nonprofit should significantly complicate OpenAI’s current fundraising and the process of converting into a for-profit corporation," said Gil Luria, analyst at D.A. Davidson.
+
+
+"The offer seems to be backed by more credible investors ... OpenAI may not be able to ignore it. It will be the fiduciary responsibility of OpenAI’s board to decide whether this is a better offer, which could call into question the offer from SoftBank."
+
+
+Musk's stock in Tesla is valued at roughly $165 billion, according to LSEG data, but his leverage with banks is likely to be thin after his $44 billion buyout of the social media platform that was called Twitter in 2022. 
+
+<br> 
+
+<https://www.voanews.com/a/musk-led-group-makes-97-4-billion-bid-for-control-of-openai/7970292.html>
+
+---
+
+## Saipan: A birth tourism destination for Chinese mothers
+
+date: 2025-02-11, from: VOA News USA
+
+So-called birth tourism is not only happening on the U.S. mainland. Pregnant Chinese mothers have been heading to a U.S. territory much closer to home to have their babies and obtain for them coveted U.S. citizenship. VOA Mandarin’s Yu Yao and Jiu Dao have the details from Saipan, capital of the Northern Mariana Islands. Elizabeth Lee narrates. 
+
+<br> 
+
+<https://www.voanews.com/a/saipan-a-birth-tourism-destination-for-chinese-mothers-/7970287.html>
+
+---
+
+## Facing backlash over $500K salary, LA's wildfire recovery czar agrees to work for free
+
+date: 2025-02-11, from: VOA News USA
+
+LOS ANGELES — Steve Soboroff, a longtime fixture in Los Angeles civic life who is now serving as chief recovery officer for the city’s wildfire comeback, won’t take a salary after facing backlash over plans to pay him $500,000. He would have been paid through charitable donations, not with taxpayer money.
+
+
+Soboroff had defended the proposed salary of half-a-million dollars for three months of work, saying his expertise as a residential property developer made him worth the price. But after criticisms mounted from elected officials and residents, Los Angeles Mayor Karen Bass reversed course over the weekend and said Soboroff would receive no compensation. Soboroff is the city’s former police commissioner.
+
+
+“Steve is always there for LA. I spoke to him today and asked him to modify his agreement and work for free. He said yes. We agree that we don’t need anything distracting from the recovery work we’re doing," Bass said in a statement Saturday. She had named him to the recovery czar position on Jan. 17.
+
+
+A message seeking comment was left for Soboroff on Monday.
+
+
+Soboroff, 76, raised his family in the Pacific Palisades area, where nearly 7,000 homes were destroyed by last month's inferno. His son, NBC News journalist Jacob Soboroff, reported from the devastated neighborhood where he grew up.
+
+
+He was initially tasked with leading the first phase of the city’s wildfire rebuilding effort. On Friday though, Bass suggested that the scope of his work could be diminished, saying he would focus primarily on rebuilding the Palisades’ historic business district.
+
+
+Soboroff disputed that notion, saying he is regularly interacting with federal agencies.
+
+
+In addition to developing thousands of homes over decades, Soboroff served on the city’s Board of Police Commissioners and on the city commission that oversees the Department of Recreation and Parks — both volunteer positions.
+
+
+Before the salary reversal, he told the Los Angeles Times that he put aside other real estate and environmental consulting work to take on the role of the city's recovery officer.
+
+
+“I’ve been doing this for 35 years for free on some of the biggest civic projects for the city of Los Angeles. But nobody ever asked me to drop everything. This time they did,” Soboroff said. “And I said OK, under the condition that my pay not be taken out of city money, or from any wildfire survivors who would otherwise benefit from that money.”
+
+
+It wasn't clear which charitable organizations would have covered his pay. Los Angeles City Councilmember Monica Rodriguez, who sits on the committee overseeing the recovery, called the proposed salary “obscene.”
+
+
+Soboroff’s original salary was first reported by the Times. 
+
+<br> 
+
+<https://www.voanews.com/a/facing-backlash-over-500k-salary-la-s-wildfire-recovery-czar-agrees-to-work-for-free-/7970272.html>
 
 ---
 

@@ -1,11 +1,21 @@
 ---
 title: snapshots
-updated: 2025-02-10 16:51:32
+updated: 2025-02-10 17:34:41
 ---
 
 # snapshots
 
-(date: 2025-02-10 16:51:32)
+(date: 2025-02-10 17:34:41)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-11, from: Dave Winer's linkblog)
+
+Trump Administration Is Still Freezing Funds Despite Court Orders. 
+
+<br> 
+
+<https://www.propublica.org/article/trump-administration-funding-freeze-workarounds>
 
 ---
 

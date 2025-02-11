@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-02-10 16:51:26
+updated: 2025-02-10 17:34:35
 ---
 
 # socal north
 
-(date: 2025-02-10 16:51:26)
+(date: 2025-02-10 17:34:35)
 
 ---
 
@@ -45,7 +45,7 @@ It's the main U.S. agency tasked with overseeing the financial products and serv
 
 ---
 
-## California joins other 21 other states in suing Trump administration over cuts to federal research funds
+## California joins 21 other states in suing Trump administration over cuts to federal research funds
 
 date: 2025-02-11, updated: 2025-02-11, from: The LAist
 

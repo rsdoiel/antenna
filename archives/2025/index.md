@@ -25,8 +25,39 @@ title: Antenna Archives
 * [pacific 2025.01](pacific_2025.01.md)
 * [pacific 2025.00](pacific_2025.00.md)
 
-## Central Cost
+## North America
 
+* [north america 2025.06](north_america_2025.06.md)
+* [north america 2025.05](north_america_2025.05.md)
+* [north america 2025.04](north_america_2025.04.md)
+* [north america 2025.03](north_america_2025.03.md)
+* [north america 2025.02](north_america_2025.02.md)
+* [north america 2025.01](north_america_2025.01.md)
+* [north america 2025.00](north_america_2025.00.md)
+
+## Science & Technology
+
+* [science and technology 2025.06](science_and_technology_2025.06.md)
+* [science and technology 2025.05](science_and_technology_2025.05.md)
+* [science and technology 2025.04](science_and_technology_2025.04.md)
+* [science and technology 2025.03](science_and_technology_2025.03.md)
+* [science and technology 2025.02](science_and_technology_2025.02.md)
+* [science and technology 2025.01](science_and_technology_2025.01.md)
+* [science and technology 2025.00](science_and_technology_2025.00.md)
+
+## Columns
+
+* [columns 2025.06](columns_2025.06.md)
+* [columns 2025.05](columns_2025.05.md)
+* [columns 2025.04](columns_2025.04.md)
+* [columns 2025.03](columns_2025.03.md)
+* [columns 2025.02](columns_2025.02.md)
+* [columns 2025.01](columns_2025.01.md)
+* [columns 2025.00](columns_2025.00.md)
+
+## Snapshots
+
+* [snapshots 2025.06](snapshots_2025.06.md)
 
 ## Home, Garden & Urban Farm
 
@@ -48,15 +79,15 @@ title: Antenna Archives
 * [food 2025.01](food_2025.01.md)
 * [food 2025.00](food_2025.00.md)
 
-## Columns
+## Going Electric
 
-* [columns 2025.06](columns_2025.06.md)
-* [columns 2025.05](columns_2025.05.md)
-* [columns 2025.04](columns_2025.04.md)
-* [columns 2025.03](columns_2025.03.md)
-* [columns 2025.02](columns_2025.02.md)
-* [columns 2025.01](columns_2025.01.md)
-* [columns 2025.00](columns_2025.00.md)
+* [going electric 2025.06](going_electric_2025.06.md)
+* [going electric 2025.05](going_electric_2025.05.md)
+* [going electric 2025.04](going_electric_2025.04.md)
+* [going electric 2025.03](going_electric_2025.03.md)
+* [going electric 2025.02](going_electric_2025.02.md)
+* [going electric 2025.01](going_electric_2025.01.md)
+* [going electric 2025.00](going_electric_2025.00.md)
 
 ## Retro Computing
 
@@ -77,6 +108,16 @@ title: Antenna Archives
 * [libraries 2025.02](libraries_2025.02.md)
 * [libraries 2025.01](libraries_2025.01.md)
 * [libraries 2025.00](libraries_2025.00.md)
+
+## State Parks
+
+* [parks 2025.06](parks_2025.06.md)
+* [parks 2025.05](parks_2025.05.md)
+* [parks 2025.04](parks_2025.04.md)
+* [parks 2025.03](parks_2025.03.md)
+* [parks 2025.02](parks_2025.02.md)
+* [parks 2025.01](parks_2025.01.md)
+* [parks 2025.00](parks_2025.00.md)
 
 ## Student Journalism
 
