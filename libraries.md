@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-02-11 07:08:49
+updated: 2025-02-12 07:08:35
 ---
 
 # libraries
 
-(date: 2025-02-11 07:08:49)
+(date: 2025-02-12 07:08:35)
 
 ---
 
@@ -22,11 +22,37 @@ Möckli, Daniel
 
 ---
 
+## Vanishing Culture: Punch Card Knitting
+
+date: 2025-02-12, from: Internet Archive Blog
+
+The following guest post from digital humanities scholar Nichole Misako Nomura is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/02/12/vanishing-culture-punch-card-knitting/>
+
+---
+
+## Announcing the Rosenblum Award for Scholarly Publishing Impact
+
+date: 2025-02-12, from: Scholarly Kitchen
+
+<p>Five scholarly publishing associations partner to launch a new award recognizing innovation and impact in scholarly communications.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/12/announcing_rosenblum_award/">Announcing the Rosenblum Award for Scholarly Publishing Impact</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/12/announcing_rosenblum_award/>
+
+---
+
 ## Participate in Fair Use/Fair Dealing Week!
 
 date: 2025-02-11, from: Association of Research Libraries News
 
-<p>Last Updated on February 11, 2025, 9:59 am ET Let us know what your library is planning for Fair Use/Fair Dealing Week 2025, February 24–28. This is the 12th annual...</p>
+<p>Last Updated on February 12, 2025, 9:57 am ET Let us know what your library is planning for Fair Use/Fair Dealing Week 2025, February 24–28. This is the 12th annual...</p>
 <p>The post <a href="https://www.arl.org/blog/participate-in-fair-use-fair-dealing-week/">Participate in Fair Use/Fair Dealing Week!</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

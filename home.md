@@ -1,11 +1,252 @@
 ---
 title: home
-updated: 2025-02-11 07:08:49
+updated: 2025-02-12 07:08:35
 ---
 
 # home
 
-(date: 2025-02-11 07:08:49)
+(date: 2025-02-12 07:08:35)
+
+---
+
+## A Love Letter to the "She-Devil" Mansion, a Barbie Dreamhouse Turned Villain’s Lair
+
+date: 2025-02-12, from: Dwell
+
+In the 1989 comedy, the gaudy Long Island home of Meryl Streep’s character captures everything I love about romance novels in one big, pink package. 
+
+<br> 
+
+<https://www.dwell.com/article/a-love-letter-to-the-she-devil-mansion-a-barbie-dreamhouse-turned-villains-lair-353a6602>
+
+---
+
+## Flowering Dogwood (Cornus florida) Care and Growing Guide
+
+date: 2025-02-12, from: Yard Life blog
+
+<p>Flowering Dogwood (Cornus florida) is a beautiful and iconic tree known for its stunning spring blooms, vibrant fall foliage, and ... </p>
+<p class="read-more-container"><a title="Flowering Dogwood (Cornus florida) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/flowering-dogwood-cornus-florida-care-and-growing-guide/#more-23383" aria-label="Read more about Flowering Dogwood (Cornus florida) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/flowering-dogwood-cornus-florida-care-and-growing-guide/">Flowering Dogwood (Cornus florida) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/flowering-dogwood-cornus-florida-care-and-growing-guide/>
+
+---
+
+## How to Grow and Care for Rembrandt Tulips
+
+date: 2025-02-12, from: The Gardener's Path
+
+<p>Rembrandt tulips are truly the stuff of legend. They’re the flowers that started the infamous tulipmania of the mid-1600s, but the tulips of yore were infected with a nasty virus. Today's version is hardier and healthier than ever. Learn about where these gorgeous tulips came from and how to grow them in our guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-rembrandt-tulips/">How to Grow and Care for Rembrandt Tulips</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-rembrandt-tulips/>
+
+---
+
+## Wood Violet (Viola papilionacea) Care and Growing Guide
+
+date: 2025-02-12, from: Yard Life blog
+
+<p>Wood Violet, also known as Viola papilionacea, is a charming wildflower commonly found in North America. With its distinctive purple ... </p>
+<p class="read-more-container"><a title="Wood Violet (Viola papilionacea) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/wood-violet-viola-papilionacea-care-and-growing-guide/#more-23379" aria-label="Read more about Wood Violet (Viola papilionacea) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/wood-violet-viola-papilionacea-care-and-growing-guide/">Wood Violet (Viola papilionacea) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/wood-violet-viola-papilionacea-care-and-growing-guide/>
+
+---
+
+## Western White Pine (Pinus monticola) Care and Growing Guide
+
+date: 2025-02-12, from: Yard Life blog
+
+<p>Western White Pine (Pinus monticola), also known as mountain white pine, is a majestic evergreen tree native to the western ... </p>
+<p class="read-more-container"><a title="Western White Pine (Pinus monticola) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/western-white-pine-pinus-monticola-care-and-growing-guide/#more-23372" aria-label="Read more about Western White Pine (Pinus monticola) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/western-white-pine-pinus-monticola-care-and-growing-guide/">Western White Pine (Pinus monticola) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/western-white-pine-pinus-monticola-care-and-growing-guide/>
+
+---
+
+## The 2025 Sunset Travel Awards Open Soon—Here’s How to Enter
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+The Sunset Travel Awards celebrates the best of travel in the West and we're accepting submissions soon. Find out how to enter. 
+
+<br> 
+
+<https://www.sunset.com/travel/2024-sunset-travel-awards-submissions-open>
+
+---
+
+## Mark Your Calendar — IPM Achievement Awards scheduled for February 26
+
+date: 2025-02-11, from: Calfifornia Dept. Aggriculture blog
+
+The California Department of Pesticide Regulation (DPR) hosts the annual Integrated Pest Management (IPM) Achievement Awards to recognize IPM leaders for their achievements in the adoption and promotion of safer, more sustainable IPM practices in agricultural, urban, and wildland settings &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28546">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28546>
+
+---
+
+## These Brilliant Tips Will Make Drywall Work Easier and Faster
+
+date: 2025-02-11, from: Family Handyman Blog
+
+<p>Working with drywall is labor-intensive, time-consuming and dirty, but this collection of expert tips we've learned through our years of experience will make it easier. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/drywall-repair-patching-hanging-tips/">These Brilliant Tips Will Make Drywall Work Easier and Faster</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/drywall-repair-patching-hanging-tips/>
+
+---
+
+## Secret Hiding Places You’ve Never Thought Of
+
+date: 2025-02-11, from: Family Handyman Blog
+
+<p>Got some cash or valuables to hide? Try one of these clever, secret hiding places to protect those items from all but the smartest thieves.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/secret-hiding-places-in-your-house/">Secret Hiding Places You&#8217;ve Never Thought Of</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/secret-hiding-places-in-your-house/>
+
+---
+
+## If You See an Orange Tag on a Car, Here’s What It Means
+
+date: 2025-02-11, from: Family Handyman Blog
+
+<p>An orange tag on the window of a parked car is a message from law enforcement. What do you need to know?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/if-you-see-an-orange-tag-on-a-car-heres-what-it-means/">If You See an Orange Tag on a Car, Here&#8217;s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/if-you-see-an-orange-tag-on-a-car-heres-what-it-means/>
+
+---
+
+## Here’s Everything Worth Buying During IKEA’s Big Sleep Sale
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+IKEA’s Sleep Event will help you upgrade your bedroom for a better night's sleep. Save on mattresses, bedding, pillows, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/ikea-sleep-sale-2025>
+
+---
+
+## Two Artists Lovingly Restored This $740k Florida Bungalow
+
+date: 2025-02-11, from: Dwell
+
+The couple documented their DIY updates to the 1920s home, and gained a social media following in the process. 
+
+<br> 
+
+<https://www.dwell.com/article/casa-de-nunez-st-petersburg-bungalow-renovation-real-estate-d4364a90>
+
+---
+
+## They Camped Out for Two Years to Build a Home in a Catskills Quarry
+
+date: 2025-02-11, from: Dwell
+
+Living out of a DIY shed helped a couple map out a residence that perches on bluestone shale for tree and pond views. 
+
+<br> 
+
+<https://www.dwell.com/article/quarry-house-rsc-architects-passive-house-design-3dac2839>
+
+---
+
+## Bulbs, Corms, Tubers, and Rhizomes: What’s the Difference?
+
+date: 2025-02-11, from: The Gardener's Path
+
+<p>Flower bulbs is a general term used for a variety of underground rootstocks that includes bulbs, corms, rhizomes, and tubers, and covers a wide diversity of plants. And knowing how the different types grow is key for reliable, abundant flowers every year. Learn more about the different types of flower bulbs in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/bulb-types/">Bulbs, Corms, Tubers, and Rhizomes: What’s the Difference?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/bulb-types/>
+
+---
+
+## 6 Bad Restaurant Behaviors Insiders Are Begging You Avoid
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+Don't be one of those rude diners at a restaurant. Insiders explain the restuarant etiquette mistakes to avoid the next time you go out. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/bad-restaurant-etiquette>
+
+---
+
+## 20 Bungee Cord Hacks You’ll Wish You Knew Sooner
+
+date: 2025-02-11, from: Family Handyman Blog
+
+<p>These fantastic elastic cords are useful for more than just tying down tarps. Here are 19 other ideas to wrap your brain around.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/bungee-cord-hacks/">20 Bungee Cord Hacks You&#8217;ll Wish You Knew Sooner</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/bungee-cord-hacks/>
+
+---
+
+## Mold on Wood? Here’s the Best Way to Clean It
+
+date: 2025-02-11, from: Family Handyman Blog
+
+<p>Learn how to safely remove mold from wood and prevent regrowth with these simple cleaning tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-clean-mold-off-wood/">Mold on Wood? Here’s the Best Way to Clean It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-clean-mold-off-wood/>
+
+---
+
+## Toyota Recalls 140,000 Cars Over Major Safety Concerns — Is Yours On the List?
+
+date: 2025-02-11, from: Family Handyman Blog
+
+<p>There are over a hundred thousand cars impacted as Toyota recalls faulty vehicles. Several different models fail to meet safety standards. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/toyota-tacoma-camry-recall/">Toyota Recalls 140,000 Cars Over Major Safety Concerns — Is Yours On the List?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/toyota-tacoma-camry-recall/>
 
 ---
 
@@ -18,6 +259,18 @@ The author of a new book that calls for reforming U.S. preservation policies dis
 <br> 
 
 <https://www.dwell.com/article/erica-avrami-second-order-preservation-history-racism-climate-change-4396ac95-1599b371>
+
+---
+
+## 26 Wow-Worthy Valentine’s Day Gifts from the West
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+From heart-shaped cooking pots to vegan massage candles, your valentine is sure to love these gift ideas from brands based in the West. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/valentines-day-gift-idea>
 
 ---
 
@@ -48,6 +301,42 @@ date: 2025-02-11, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/how-big-will-a-leopard-gecko-get-growth-stages-care-tips/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 5 Flower Pairings That Are Perfect for Spring Planting
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+Author Brenna Estrada shares her favorite pansy pairings to plant this spring to give your garden a colorful refresh. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/spring-flower-pairings>
+
+---
+
+## A Hilltop Mid-Century Modern Bungalow in Los Angeles Is a Zen Sanctuary
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+Set atop a hill in Los Angeles, this two bedroom, one-bathroom home had the most spectacular views, but needed some attention and upgrades. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/echo-park-hilltop-bungalow>
 
 ---
 
@@ -92,18 +381,6 @@ date: 2025-02-11, from: California Native Plants Society
 <br> 
 
 <https://www.cnps.org/conservation/urgent-action-defend-public-lands-protect-native-plants-42353>
-
----
-
-## A Hilltop Mid-Century Modern Bungalow in Los Angeles Is a Zen Sanctuary
-
-date: 2025-02-11, from: Sunset Magazine - Living in the West
-
-Set atop a hill in Los Angeles, this two bedroom, one-bathroom home had the most spectacular views, but needed some attention and upgrades. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/echo-park-hilltop-bungalow>
 
 ---
 
@@ -169,15 +446,15 @@ date: 2025-02-10, from: The Gardener's Path
 
 ---
 
-## 6 Bad Restaurant Behavior Insiders Are Begging You Avoid
+## A Retired Couple Wanted a Home Where They Could Slow Down and Disconnect—Tour Their Retreat
 
 date: 2025-02-10, from: Sunset Magazine - Living in the West
 
-Don't be one of those rude diners at a restaurant. Insiders explain the restuarant etiquette mistakes to avoid the next time you go out. 
+Homeowners Jeff and Janis were looking for a home where they could embrace a slower pace and really disconnect. Tour their thoughtfully designed space. 
 
 <br> 
 
-<https://www.sunset.com/food-wine/restaurants/bad-restaurant-etiquette>
+<https://www.sunset.com/home-garden/home-tours/nicasio-west-marin-house>
 
 ---
 
@@ -325,18 +602,6 @@ Malibu is an iconic California beach getaway. A local shares the best things to 
 
 ---
 
-## Sunset.com Home Page
-
-date: 2025-02-10, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## 20 Tips on How to Get Rid of Woodpeckers in Your Yard
 
 date: 2025-02-10, from: Yard Life blog
@@ -465,18 +730,6 @@ date: 2025-02-09, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/video-planing-rough-sawn-lumber-with-a-jointer-and-planer/>
-
----
-
-## 5 Flower Pairings That Are Perfect for Spring Planting
-
-date: 2025-02-09, from: Sunset Magazine - Living in the West
-
-Author Brenna Estrada shares her favorite pansy pairings to plant this spring to give your garden a colorful refresh. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/spring-flower-pairings>
 
 ---
 

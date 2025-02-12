@@ -1,11 +1,127 @@
 ---
 title: writing
-updated: 2025-02-11 07:08:48
+updated: 2025-02-12 07:08:34
 ---
 
 # writing
 
-(date: 2025-02-11 07:08:48)
+(date: 2025-02-12 07:08:34)
+
+---
+
+## Understanding Scrivener’s Project Settings
+
+date: 2025-02-12, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/understanding-scriveners-project-settings>
+
+---
+
+## New Books: 11 February 2025
+
+date: 2025-02-11, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of February 11, 2025. </strong></p>
+<p>Harrison, John: <b>Residue: Paramentals Rising</b> (WordFire Press 978-1680577365, $15.99, 288pp, formats: hardcover, paperback, ebook, 02/11/2025)</p>
+<p>Paranomal dystopian novel. A woman searches for her missing sister in a post-disaster Quarantine Zone where paramentals – beings made of negative psychic  <a href="https://locusmag.com/2025/02/new-books-11-february-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/new-books-11-february-2025/>
+
+---
+
+## Multi-Cam TV Writing Tips from a Top Showrunner
+
+date: 2025-02-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/multi-cam-tv-writing-tips" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Michelle%20Nader%20sits%20on%20a%20cement%20wall%20by%20the%20edge%20of%20a%20pond%2c%20trees%20reflecting%20off%20the%20surface..png" alt="Michelle Nader sits on a cement wall by the edge of a pond, trees reflecting off the surface" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><a href="https://www.imdb.com/name/nm0618871/?ref_=fn_all_nme_1">Michelle Nader</a> is one of the most accomplished multi-cam and comedy writers working today.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/multi-cam-tv-writing-tips>
+
+---
+
+## HWA Scholarship from Hell Open
+
+date: 2025-02-11, from: Locus Magazine
+
+<p>The Horror Writers Association (HWA) has opened applications for its annual Scholarship from Hell.</p>
+<p>The Scholarship from Hell is awarded annually to an applicant interested in attending StokerCon and furthering a career in horror writing. Per the Scholarship&#8217;s webpage, the recipient will receive &#8220;domestic coach airfare (contiguous 48 states) to and from the StokerCon venue, $50 for luggage reimbursement, a 3-night stay at the convention, free registration to StokerCon, and  <a href="https://locusmag.com/2025/02/hwa-scholarship-from-hell-open/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/hwa-scholarship-from-hell-open/>
+
+---
+
+## Say Nothing with Joshua Zetumer
+
+date: 2025-02-11, from: John August blog
+
+Craig welcomes writer and showrunner Joshua Zetumer, creator of the limited series Say Nothing, to explore the process of dramatizing real events &#8212; particularly when the subject matter can be volatile. They discuss how to keep a sprawling historical epic from feeling like a lecture, keeping a consistent tone, humanizing complicated people, and how not [&#8230;]
+The post <a href="https://johnaugust.com/2025/say-nothing-with-joshua-zetumer">Say Nothing with Joshua Zetumer</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/675standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/675standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/say-nothing-with-joshua-zetumer>
+
+---
+
+## Uncanny Reader Poll Opens
+
+date: 2025-02-11, from: Locus Magazine
+
+<p>Uncanny Magazine has opened up its annual poll for readers&#8217; favorite fiction. On the poll, available here, readers select their three favorite original Uncanny stories from a list. Per an email, the poll closes on February 17, 2025.</p>
+<p>&#8220;Uncanny Magazine is an online Science Fiction and Fantasy magazine featuring passionate SF/F fiction and poetry, gorgeous prose, provocative nonfiction, and a deep investment in the diverse SF/F culture.&#8221; For more information  <a href="https://locusmag.com/2025/02/uncanny-reader-poll-opens/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/uncanny-reader-poll-opens/>
+
+---
+
+## Flash Fiction Online, Cast of Wonders, and Strange Horizons: Short Fiction Reviews by Charles Payseur
+
+date: 2025-02-11, from: Locus Magazine
+
+<p>Flash Fiction Online 10/24
+Cast of Wonders 10/20/24, 11/11/24
+Strange Horizons 10/21/24, 11/4/24</p>
+<p>Flash Fiction Online released an extra-large issue in honor of the spookiest month, which is capped off by <strong>Christine Lucas</strong>’s haunting “<strong>Final Harvest</strong>”, in which the daughter of a rather abusive and manipulative mother returns to perform said mother’s final rites – the harvest of nekrophyta that grows on the body of the dead.  <a href="https://locusmag.com/2025/02/flash-fiction-online-cast-of-wonders-and-strange-horizons-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/flash-fiction-online-cast-of-wonders-and-strange-horizons-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## Applications for Ignyte Awards Judges
+
+date: 2025-02-11, from: Locus Magazine
+
+<p>Fiyah magazine is seeking judges for the longlist judging cohort for its annual Ignyte Awards.</p>
+<p>Candidates should be &#8220;interested, available, organically well-read in diverse and inclusive titles in sffh, whether professionally or otherwise&#8230; Please be familiar with the Ignytes’ mission and backlist of nominated titles&#8230;.&#8221;</p>
+<p>The Ignyte Awards are given annually to works of speculative fiction, and are publicly voted from a shortlist.</p>
+<p>Selected judges will not be announced. Applications  <a href="https://locusmag.com/2025/02/applications-for-ignyte-awards-judges/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/applications-for-ignyte-awards-judges/>
 
 ---
 

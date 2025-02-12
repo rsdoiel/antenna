@@ -1,11 +1,431 @@
 ---
 title: science and technology
-updated: 2025-02-11 07:08:47
+updated: 2025-02-12 07:08:34
 ---
 
 # science and technology
 
-(date: 2025-02-11 07:08:47)
+(date: 2025-02-12 07:08:34)
+
+---
+
+## How Hans Bethe Stumbled Upon Perfect Quantum Theories
+
+date: 2025-02-12, from: Quanta Magazine
+
+Quantum calculations amount to sophisticated estimates. But in 1931, Hans Bethe intuited precisely how a chain of particles would behave — an insight that had far-reaching consequences.            <p>The post <a href="https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/" target="_blank">How Hans Bethe Stumbled Upon Perfect Quantum Theories</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-hans-bethe-stumbled-upon-perfect-quantum-theories-20250212/>
+
+---
+
+## SpaceX Crew Dragons swapped so ISS crew can go home early
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>&#39;Stranded&#39; Starliner astronauts set for a March homecoming</h4> <p>The crew of the Boeing Starliner test mission is set to return to Earth ahead of schedule after managers decided to swap the Crew Dragon originally planned for the Axiom-4 flight with Crew-10.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/spacex_crew_dragons_swapped_for/>
+
+---
+
+## Crimelords and spies for rogue states are working together, says Google
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Only lawmakers can stop them. Plus: software needs to be more secure, but what&#39;s in it for us?</h4> <p>Google says the the world&#39;s lawmakers must take action against the increasing links between criminal and state-sponsored cyber activity.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/google_state_cybercrime_report/>
+
+---
+
+## Recognizing Employee Excellence
+
+date: 2025-02-12, from: NASA breaking news
+
+Glenn Employees Earn Presidential Early Career Awards for Scientists and Engineers Two NASA Glenn Research Center employees were among 19 agency researchers recognized as recipients of the Presidential Early Career Award for Scientists and Engineers (PECASE).&#160; Lyndsey McMillon-Brown was recognized for leadership in photovoltaic research, development, and demonstrations. She was the principal investigator for a Science [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence/>
+
+---
+
+## NASA Fire Safety Test Took on Reduced Gravity
+
+date: 2025-02-12, from: NASA breaking news
+
+An experiment studying how solid materials catch fire and burn in the Moon&#8217;s gravity was launched on Blue Origin’s New Shepard suborbital flight this month.&#160; Developed by NASA’s Glenn Research Center in Cleveland together with Voyager Technologies, the Lunar-g Combustion Investigation (LUCI) will help researchers determine if conditions on the Moon – with reduced gravity [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-fire-safety-test-took-on-reduced-gravity/>
+
+---
+
+## NASA Glenn Holds Day of Remembrance
+
+date: 2025-02-12, from: NASA breaking news
+
+NASA observed its annual Day of Remembrance on Jan. 23, honoring the members of the NASA family who lost their lives in the pursuit of exploration and discovery for the benefit of humanity. The annual event acknowledges the crews of Apollo 1 and the space shuttles Challenger and Columbia.&#160; NASA Acting Administrator Janet Petro and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/nasa-glenn-holds-day-of-remembrance/>
+
+---
+
+## EU plans to 'mobilize' €200B to invest in AI to catch up with US and China
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Captain&#39;s Log, Stardate 3529.7 – oh yeah, Commish also withdrawing law that would help folks sue over AI harms</h4> <p>European Commission President Ursula von der Leyen says the EU will top up a continental AI push to hit €200 billion ($207 billion).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/eu_plans_to_mobilize_200b/>
+
+---
+
+## Why SAP may be mulling 2030 end of maintenance for legacy ERP
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Users&#39; sluggish migration of critical apps mean current deadline not workable, says analyst</h4> <p>By 2030, 40 percent of SAP customers currently using its legacy ERP systems will still not have migrated to the latest software, prompting the business apps giant to rethink its support deadline.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/gartner_sap_maintenance_2030/>
+
+---
+
+## UK government insiders say AI datacenters may be a pricey white elephant
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Economy-boosting bit barn? Not in my back yard, some locals expected to say</h4> <p>The British government is pressing ahead with &#34;AI Growth Zones&#34; amid fears the rush to build datacenters to power AI could backfire and leave the countryside littered with expensive high-tech &#34;white elephants.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/uk_gov_ai_datacenters/>
+
+---
+
+## AI summaries turn real news into nonsense, BBC finds
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Research after Apple Intelligence fiasco shows bots still regularly make stuff up</h4> <p>Still smarting from Apple Intelligence butchering a headline, the BBC has published research into how accurately AI assistants summarize news – and the results don&#39;t make for happy reading.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/bbc_ai_news_accuracy/>
+
+---
+
+## Murena boss says customers about to wake up from its cloud storage nightmare
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Four months since cloud drive kicked the bucket, but resolution comes today... hopefully</h4> <p><strong>Interview</strong>  How long can a cloud storage outage continue before customers finally give up the ghost? Management at Murena – /e/OS maker – must have wrestled with this at night, though they hope a fix is around the corner.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/murena_ceo_de_googling_android/>
+
+---
+
+## Oxford researchers pull off quantum first with distributed gate teleportation
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Einstein’s spooky action at a distance just got an upgrade</h4> <p>Oxford University researchers have taken a significant step toward large-scale distributed quantum computing by demonstrating the first successful quantum teleportation of a controlled quantum gate between two modules.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/oxford_quantum_gate_teleportation/>
+
+---
+
+## Ignorance really is bliss when you’re drowning in information
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>If only the joy of missing out was easier to achieve</h4> <p><strong>Column</strong>  I&#39;ve never seriously accepted the maxim &#34;ignorance is bliss&#34;. Now I&#39;m less sure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/ignorance_really_is_bliss/>
+
+---
+
+## After Copilot trial, government staff rated Microsoft's AI less useful than expected
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Not all bad news for Redmond as Australian agency also found strong ROI and some unexpected upsides</h4> <p>Australia’s Department of the Treasury has found that Microsoft’s Copilot can easily deliver return on investment, but staff exposed to the AI assistant came away from the experience less confident it will help them at work.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/australian_treasury_copilot_pilot_assessment/>
+
+---
+
+## February's Patch Tuesday sees Microsoft offer just 63 fixes
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t relax just yet: Redmond has made some certificate-handling changes that could trip unprepared admins</h4> <p><strong>Patch Tuesday</strong>  Microsoft’s February patch collection is mercifully smaller than January’s mega-dump. But don&#39;t get too relaxed – some deserve close attention, and other vendors have stepped in with plenty more fixes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/patch_tuesday_february_2025/>
+
+---
+
+## A win at last: Big-time blow to AI world in training data copyright scrap
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>You gotta fight ... for your Reuters ... to party</h4> <p>Thomson Reuters has won a partial summary judgment in a copyright case against shuttered AI firm Ross Intelligence, a decision that disallows fair use as a defense for training models on proprietary data without permission.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/thomson_reuters_wins_ai_copyright/>
+
+---
+
+## Microsoft wants to quit working on Army VR goggles, hand contract to Anduril
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Will the Pentagon get Luckey with a new IVAS vendor?</h4> <p>Microsoft plans to quit developing augmented-reality headsets for the US Army and have Oculus founder Palmer Luckey&#39;s Anduril Industries take over the gig.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/microsoft_gives_up_army_ivas/>
+
+---
+
+## Sols 4450-4451: Making the Most of a Monday
+
+date: 2025-02-12, from: NASA breaking news
+
+Earth planning date: Monday, Feb. 10, 2025 Last Saturday around 20:00 Pacific Standard Time I saw a 22-degree halo encircling our mostly-full Moon and Mars; an entire planet hanging in the sky between our Moon and the atmospheric phenomenon. As I took in the view I wondered what our rover was doing at that moment… […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4450-4451-making-the-most-of-a-monday/>
+
+---
+
+## Probe finds US Coast Guard has left maritime cybersecurity adrift
+
+date: 2025-02-11, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Numerous systemic vulnerabilities could scuttle $5.4T industry</h4> <p>Despite the escalating cyber threats targeting America&#39;s maritime transportation system, the US Coast Guard still lacks a comprehensive strategy to secure this critical infrastructure - nor does it have reliable access to data on cybersecurity vulnerabilities and past attacks, the Government Accountability Office (GAO) warns.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/coast_guard_cybersecurity_fail/>
+
+---
+
+## Yup, AMD's Elba and Giglio definitely sound like they work corporate security
+
+date: 2025-02-11, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Which is why Cisco is adding these Pensando DPUs to more switches</h4> <p>Cisco is cramming into more of its switches Pensando data processing units (DPUs) from AMD, which will be dedicated to handling security, storage, and other tasks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/cisco_amd_dpu/>
+
+---
+
+## NASA Invites Media to Artemis II Moon Mission Activities at Kennedy
+
+date: 2025-02-11, from: NASA breaking news
+
+Media are invited to visit NASA’s Kennedy Space Center in Florida, to capture imagery of the agency’s Artemis II Orion spacecraft and twin SLS (Space Launch System) solid rocket boosters for the first crewed Artemis mission around the Moon. The event is targeted for Friday, March 7. Subject matter experts from NASA and industry partners [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-artemis-ii-moon-mission-activities-at-kennedy/>
+
+---
+
+## Space Shuttle Endeavour Takes Flight
+
+date: 2025-02-11, from: NASA breaking news
+
+Blue mach diamonds from the main engine nozzles and bright exhaust from the solid rocket boosters mark the successful launch of space shuttle Endeavour 25 years ago on Feb. 11, 2000. The STS-99 mission crew – including astronauts from NASA, the National Space Development Agency of Japan (NASDA), and the European Space Agency (ESA) – [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/space-shuttle-endeavour-takes-flight/>
+
+---
+
+## 'Key kernel maintainers' still back Rust in the Linux kernel, despite the doubters
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Rustaceans could just wait for unwelcoming C coders to slowly SIGQUIT...</h4> <p>The Rust for Linux project is alive and well, despite suggestions to the contrary, even if not every Linux kernel maintainer is an ally.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/rust_for_linux_project_support/>
+
+---
+
+## NASA, SpaceX Invite Media to Watch Crew-10 Launch to Space Station
+
+date: 2025-02-11, from: NASA breaking news
+
+Media accreditation is open for the launch of NASA’s 10th rotational mission of a SpaceX Falcon 9 rocket and Dragon spacecraft, carrying astronauts to the International Space Station for a science expedition. The agency’s SpaceX Crew-10 mission is targeting launch on Wednesday, March 12, from Launch Complex 39A at NASA’s Kennedy Space Center in Florida. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-spacex-invite-media-to-watch-crew-10-launch-to-space-station/>
+
+---
+
+## Triplestrength hits victims with triple trouble: Ransomware, cloud hijacks, crypto-mining
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>These crooks have no chill</h4> <p>A previously unknown gang dubbed Triplestrength poses a triple threat to organizations: It infects victims&#39; computers with ransomware, then hijacks their cloud accounts to illegally mine for cryptocurrency.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/triplestrength_google/>
+
+---
+
+## NASA’s Mini Rover Team Is Packed for Lunar Journey
+
+date: 2025-02-11, from: NASA breaking news
+
+A trio of suitcase-size rovers and their base station have been carefully wrapped up and shipped off to join the lander that will deliver them to the Moon’s surface. Three small NASA rovers that will explore the lunar surface as a team have been packed up and shipped from the agency’s Jet Propulsion Laboratory in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/nasas-mini-rover-team-is-packed-for-lunar-journey/>
+
+---
+
+## NASA’s X-59 Turns Up Power, Throttles Through Engine Tests
+
+date: 2025-02-11, from: NASA breaking news
+
+NASA’s X-59 quiet supersonic research aircraft took another successful step toward flight with the conclusion of a series of engine performance tests. In preparation for the X-59’s planned first flight this year, NASA and Lockheed Martin successfully completed the aircraft’s engine run tests in January. The engine, a modified F414-GE-100 that powers the aircraft’s flight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/nasas-x-59-turns-up-power-throttles-through-engine-tests/>
+
+---
+
+## Building Blocks for Enhanced Mission Execution
+
+date: 2025-02-11, from: NASA breaking news
+
+BBEME Course Description: An interactive learning series designed to highlight critical interactions and various engagements across all GSFC locations, Facilities, and Institutes that lead to mission success. Themes include: strategic goals, current developments, mission success critical topics Instructional Strategy: •Facilitated panel discussions •Leadership engagements •One-on-one interactions •Facilitated case studies BBEME Workshops have been previously offered at [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/building-blocks-for-enhanced-mission-execution/>
+
+---
+
+## UK, US, Oz blast holes in LockBit's bulletproof hosting provider Zservers
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Huge if true: Brit Foreign Sec says Putin running a &#39;corrupt mafia state&#39;</h4> <p>One of the bulletproof hosting (BPH) providers used by the LockBit ransomware operation has been hit with sanctions in the US, UK, and Australia (AUKUS), along with six of its key allies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/aukus_zservers_lockbit_sanctions/>
+
+---
+
+## Final cumulative update for Exchange Server 2019 lands at last
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>End of the road in sight for venerable server</h4> <p>Administrators rejoice! The 2025 H1 Cumulative Update (aka CU15) for Exchange Server 2019 has finally arrived, marking the end of an era for the server application.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/exchange_server_2019_final_cu/>
+
+---
+
+## Man who binned 7,500 Bitcoin drive now wants to buy entire landfill to dig it up
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>More than a decade on, waste experts say the odds of finding those coins are next to nil</h4> <p>Denied permission to excavate a landfill in search of his missing Bitcoin, Newport, Wales resident James Howells has a new plan: buy the soon-to-be-capped dumping site outright from the city council.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/bitcoin_drive_landfill/>
+
+---
+
+## KDE Plasma 6.3 brings drawing tablet improvements
+
+date: 2025-02-11, from: OS News
+
+Speaking of KDE, Plasma 6.3 has been released. It brings with it a ton of improvements aimed at digital artists, such as much improved management and configuration of drawing tablets. You can now map an area of the tablet&#8217;s surface to a part of the screen, change the functions of stylus buttons, customise the pressure curve and range of a stylus, and much more. The entire settings panel for drawing tablets has also been redesigned to make it easier to find what you&#8217;re looking for. Plasma 6.3 also completely overhauls KWin&#8217;s fraction scaling. Fractional scaling in KWin will not try to snap everything to your display&#8217;s pixel grid, to reduce blurriness and make everything look sharper. KWin&#8217;s zoom effect also makes use of these improvements, making for a pixel-perfect zoom feature with a pixel grid overlay, which is great for artists and designers. This will be a very welcome improvement for people using e.g. 125% or 150% scaling on their displays. Hardware monitoring is much improved too, with System Monitor showing more information while using fewer resources, and KDE users on FreeBSD can now see GPU statistics too. There&#8217;s also a ton of small additions that are still quite welcome, like opening the menu editor instead of a properties dialog when clicking on Edit Application in a launcher menu&#8217;s context menu, the ability to clone panels, an option to turn of symbolic icons in Kickoff, a &#8220;Show Target&#8221; option in the context menu of symbolic links, and a lot more. KDE Plasma 6.3 will find its way to your distribution of choice soon enough. 
+
+<br> 
+
+<https://www.osnews.com/story/141718/kde-plasma-6-3-brings-drawing-tablet-improvements/>
+
+---
+
+## Man who SIM-swapped the SEC's X account pleads guilty
+
+date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
+
+<h4>Said to have asked search engine &#39;What are some signs that the FBI is after you?&#39;</h4> <p>An Alabama man is pleading guilty after being charged with SIM swapping the Securities and Exchange Commission&#39;s (SEC) X account in January last year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/sim_swapped_guilty_plea/>
+
+---
+
+## Moving KDE’s styling into the future
+
+date: 2025-02-11, from: OS News
+
+One of the major issues with KDE&#8217;s styling system is the fact that over the year, it has accumulated four ways of styling applications &#8211; which makes themeing and changing aspects of the default theme far more cumbersome than it should be. In fact, with the current version of KDE, it&#8217;s effectively impossible to consistently theme the entire KDE desktop, as several parts of it, like Kirigami applications, only inherit parts of the theme you&#8217;re applying. It&#8217;s a bit of a mess, and KDE is well aware of this. This problem is not new; we already identified it several years ago. Unfortunately, it also is not easy to solve. Some of the reasons it got to this state are simply inertia. Some things like Plasma&#8217;s SVG styling were developed as a way to improve styling in an era where a lot of the technologies we currently use did not exist yet. The solutions developed in those days have now existed for a pretty long time so we cannot suddenly drop them. Other reasons are more technical in nature, such as completely different rendering stacks. ↫ Arjen Hiemstra These different rendering stacks form the core of the problem, as they can&#8217;t use the same rendering code for everything. Currently, KDE tries to address the problem through a compatibility layer to tie everything together, but it&#8217;s not perfect, it has to be maintained, and it means they&#8217;re not utilising their rendering stacks to their fullest potential. The solution KDE is working on is called Union. However, there is another option, which is to take a step back and realise that we actually may not even want to share the rendering code, given that they are quite different. Instead, we need a description of what the element should look like, and then we can have specific rendering code that implements how to render that in the best way for a certain technology stack. ↫ Arjen Hiemstra Basically, an input layer will interpret file formats with style descrpitions, while an intermediate layer consists of a library that converts that interpretation into a more abstract description of what needs to be rendered. The final output layer then uses the data from the intermediate layer to tell the rendering stacks what to do. By standardising on the input format, say CSS, it&#8217;ll be much easier to impement themes or make changes. This effort is still far from done, but they&#8217;re making good progress. It ties into the Plasma Next initiative, which is, as the name implies, an effort to make changes to Plasma&#8217;s default look and feel. 
+
+<br> 
+
+<https://www.osnews.com/story/141716/moving-kdes-styling-into-the-future/>
+
+---
+
+## Oracle makes Fusion apps available on EU Sovereign Cloud
+
+date: 2025-02-11, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>GDPR-compliant service pitched for public sector orgs who can&#39;t pipe data offsite</h4> <p>Oracle is launching a Fusion Cloud Applications Suite (FCAS) on its Oracle EU Sovereign Cloud in a move designed to offer app users greater assurance in compliance with the region&#39;s data law.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/11/oracle_makes_fusion_apps_available/>
 
 ---
 
@@ -25,7 +445,7 @@ date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
 
 date: 2025-02-11, updated: 2025-02-11, from: The Register (UK I.T. News)
 
-<h4>So now everyone&#39;s happy</h4> <p>Google has changed the name of the Gulf of Mexico on Google Maps to comply with a Donald Trump whim – but only for American users.…</p> 
+<h4>So now everyone&#39;s happy</h4> <p><strong>Updated</strong>  Google has changed the name of the Gulf of Mexico on Google Maps to comply with a Donald Trump whim – but only for American users.…</p> 
 
 <br> 
 
@@ -203,9 +623,9 @@ The Redox project has posted its usual monthly update, and this time, we&#8217;v
 
 ## All your 8Base are belong to us: Ransomware crew busted in global sting
 
-date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+date: 2025-02-10, updated: 2025-02-11, from: The Register (UK I.T. News)
 
-<h4>Dark web site seized, four cuffed in Thailand</h4> <p>An international police operation spanning the US, Europe, and Asia has shuttered the 8Base ransomware crew&#39;s dark web presence and resulted in the arrest of four European suspects accused of stealing $16 million from more than 1,000 victims worldwide.…</p> 
+<h4>Dark web site seized, four cuffed in Thailand</h4> <p><strong>updated</strong>  An international police operation spanning the US, Europe, and Asia has shuttered the 8Base ransomware crew&#39;s dark web presence and resulted in the arrest of four European suspects accused of stealing $16 million from more than 1,000 victims worldwide.…</p> 
 
 <br> 
 
@@ -383,7 +803,7 @@ Astronomers may have discovered a scrawny star bolting through the middle of our
 
 ## The biggest microcode attack in our history is underway
 
-date: 2025-02-10, updated: 2025-02-10, from: The Register (UK I.T. News)
+date: 2025-02-10, updated: 2025-02-12, from: The Register (UK I.T. News)
 
 <h4>When your state machines are vulnerable, all bets are off</h4> <p><strong>Opinion</strong>  All malicious attacks on digital systems have one common aim: taking control. Mostly, that means getting a CPU somewhere to turn traitor, running code that silently steals or scrambles your data. That code can ride into the system in a whole spectrum of ways, but usually it has to be in memory somewhere at some time, making it amenable to counter-attack.…</p> 
 

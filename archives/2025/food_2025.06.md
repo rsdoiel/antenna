@@ -1,11 +1,205 @@
 ---
 title: food
-updated: 2025-02-11 07:08:50
+updated: 2025-02-12 07:08:37
 ---
 
 # food
 
-(date: 2025-02-11 07:08:50)
+(date: 2025-02-12 07:08:37)
+
+---
+
+## The Lever Launches ‘Map of Collectors’ for Specific Type of Espresso Enthusiasts
+
+date: 2025-02-12, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Luca &#038; Valentina collectors" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>There&#8217;s a type of espresso aficionado that becomes forever drawn to the hands-on experiences, quirky designs and fascinating mechanics of manual lever machines. For coffee people suffering from this affliction,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/12/the-lever-launches-map-of-collectors-for-specific-type-of-espresso-enthusiasts/>
+
+---
+
+## Crystal vs. Glass: What to Look for at the Antique Store
+
+date: 2025-02-12, from: Taste of Home
+
+<p>You can't beat the sparkle of real crystal.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/crystal-vs-glass/">Crystal vs. Glass: What to Look for at the Antique Store</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/crystal-vs-glass/>
+
+---
+
+## This Coffee Shop Went Viral. Here’s What Happened Next
+
+date: 2025-02-12, from: The Fresh Cup
+
+<p>Coffee Milano Cafe had its best-ever sales month after a TikTok video went viral. This example of earned media demonstrates how coffee businesses can leverage their own content for powerful marketing.</p>
+<p>The post <a href="https://freshcup.com/this-coffee-shop-went-viral-heres-what-happened-next/">This Coffee Shop Went Viral. Here’s What Happened Next</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/this-coffee-shop-went-viral-heres-what-happened-next/>
+
+---
+
+## Blended Pastina Soup
+
+date: 2025-02-12, from: Bon Appetet
+
+A blended soup for kids who don’t want to “see” their vegetables—or anyone else looking for a steamy bowl of chicken soup comfort. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/blended-pastina-soup>
+
+---
+
+## The Chicken Pastina My Toddler Adores
+
+date: 2025-02-12, from: Bon Appetet
+
+When he suddenly rejected vegetables, this recipe was the solution. 
+
+<br> 
+
+<https://www.bonappetit.com/story/small-plates-chicken-pastina>
+
+---
+
+## Tortitas de Papa
+
+date: 2025-02-12, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/tortitas-de-papa/"><img title="tortitas-de-papa-potato-cakes-featured-1" src="https://www.isabeleats.com/wp-content/uploads/2025/02/tortitas-de-papa-potato-cakes-featured-1-400x600.jpg" alt="Tortitas de papa freshly made and stacked on a dinner plate with a dollop of sour cream." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	These tortitas de papa (or Mexican-style potato cakes) are golden brown, crispy on the outside, and soft and cheesy on&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/tortitas-de-papa/>
+
+---
+
+## Ruggable Runner Review: An Easy-to-Clean Option That Dresses Up Hallways
+
+date: 2025-02-11, from: Taste of Home
+
+<p>Warm up your hallway with an easy-to-clean Ruggable runner. We tested it and can confirm it's a stylish addition to your space. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/ruggable-runner-review/">Ruggable Runner Review: An Easy-to-Clean Option That Dresses Up Hallways</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ruggable-runner-review/>
+
+---
+
+## Tuna Recall: Canned Tuna Sold at Trader Joe’s, Costco and More Recalled Over Botulism Risk
+
+date: 2025-02-11, from: Taste of Home
+
+<p>Check to see if any of these recalled canned tuna brands are in your pantry.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/tuna-recall-february-2025/">Tuna Recall: Canned Tuna Sold at Trader Joe&#8217;s, Costco and More Recalled Over Botulism Risk</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/tuna-recall-february-2025/>
+
+---
+
+## Rotisserie Chicken Soup
+
+date: 2025-02-11, from: Taste of Home
+
+In the mood for a warm bowl? Rotisserie chicken soup is a quick and easy weeknight meal that combines veggies, chicken and plump egg noodles in a savory broth. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/rotisserie-chicken-soup/>
+
+---
+
+## The Best Presidents Day Furniture Sales​ to Shop in 2025
+
+date: 2025-02-11, from: Taste of Home
+
+<p>February's deepest discounts are here! Save big during the best Presidents Day furniture sales​, handpicked by our senior shopping editor. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/presidents-day-furniture-sales/">The Best Presidents Day Furniture Sales​ to Shop in 2025</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/presidents-day-furniture-sales/>
+
+---
+
+## Ankarsrum Assistent Stand Mixer Review: It Took My Bread Baking to the Next Level
+
+date: 2025-02-11, from: Bon Appetet
+
+The Ankarsrum Assistent doesn't look or work like any other mixer you can use at home. 
+
+<br> 
+
+<https://www.bonappetit.com/story/ankarsrum-stand-mixer-review>
+
+---
+
+## Löfbergs Acquires 100% Stake in Denmark’s Peter Larsen Kaffe
+
+date: 2025-02-11, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Löfbergs Peter Larsen Kaffe" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>More than two decades after acquiring a 50% stake in Danish roasting company Peter Larsen Kaffe, Swedish coffee roasting company Löfbergs is acquiring a 100% stake. Claus Bertelsen, the longtime... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/11/lofbergs-acquires-100-stake-in-denmarks-peter-larsen-kaffe/>
+
+---
+
+## Aerflo Soda Maker Review: Is This Portable Soda Maker Any Good?
+
+date: 2025-02-11, from: Bon Appetet
+
+Have those bubbles wherever you go. 
+
+<br> 
+
+<https://www.bonappetit.com/story/aerflo-soda-maker-review>
+
+---
+
+## Strawberry Jell-O Mold
+
+date: 2025-02-11, from: Taste of Home
+
+Time to bring back a classic treat! We'll show you how to make a timeless strawberry Jell-O mold, provide tips on getting just-right layers, and tell you how to remove the gelatin from the mold. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-jell-o-mold/>
+
+---
+
+## The Hijacked Load: A Cautionary Tale for Coffee Professionals
+
+date: 2025-02-11, from: Daily Coffee News
+
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Desert Sun coffee truck" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As coffee professionals, we understand the importance of managing supply chains efficiently and securely. But what happens when that chain is compromised by cybercrime? Recently, I experienced a situation in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/11/the-hijacked-load-a-cautionary-tale-for-coffee-professionals/>
 
 ---
 
@@ -25,7 +219,7 @@ Start the day with boldly flavored huevos rancheros, the classic Mexican breakfa
 
 date: 2025-02-11, from: Daily Coffee News
 
-<div><img width="620" height="378" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-620x378.jpg" class="attachment-large size-large wp-post-image" alt="Quamar Alpha grinder 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-620x378.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-300x183.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-150x92.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-768x468.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1.jpg 1000w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian commercial coffee grinder company Quamar is launching a new line of grinders for busy cafes called Alpha that includes a variety of technological and design departures from previous Quamar... 
+<div><img width="620" height="378" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-620x378.jpg" class="attachment-large size-large wp-post-image" alt="Quamar Alpha grinder 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-620x378.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-300x183.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-150x92.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1-768x468.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Quamar-Alpha-grinder-1-1.jpg 1000w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Italian commercial coffee grinder company Quamar is launching a new line of grinders for busy cafes called Alpha that includes a variety of technological and design departures from previous Quamar... 
 
 <br> 
 
@@ -141,18 +335,6 @@ Lacking an actual tandoor, the air fryer might be the best way to make chicken t
 
 ---
 
-## Blended Pastina Soup
-
-date: 2025-02-11, from: Bon Appetet
-
-A blended soup for kids who don’t want to “see” their vegetables—or anyone else looking for a steamy bowl of chicken soup comfort. 
-
-<br> 
-
-<https://www.bonappetit.com/recipe/blended-pastina-soup>
-
----
-
 ## Microwaved Tofu With Butter and Soy Sauce
 
 date: 2025-02-11, from: Bon Appetet
@@ -201,11 +383,11 @@ Party-ready and delightfully simple, this fudgy cake will become your go-to host
 
 ---
 
-## What Should I Bring to a Dinner Party? (That Isn’t Wine)
+## What Should I Bring to a Dinner Party? (That Isn't Wine)
 
 date: 2025-02-11, from: Bon Appetet
 
-Nobody’s mad at an extra bottle of pinot noir, but these other items might be more helpful to the host. 
+Nobody’s mad at an extra bottle of Pinot Noir, but these other items might be more helpful to the host. 
 
 <br> 
 
@@ -359,7 +541,7 @@ date: 2025-02-10, from: The Sprudge
 
 date: 2025-02-10, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With funding from the Specialty Coffee Association (SCA), the Coffee Science Foundation (CSF) and the Zurich University of Applied Sciences (ZHAW) just launched a new research project on green coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-620x414.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/green-coffee.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>With funding from the Specialty Coffee Association (SCA), the Coffee Science Foundation (CSF) and the Zurich University of Applied Sciences (ZHAW) just launched a new research project on green coffee... 
 
 <br> 
 
@@ -371,7 +553,7 @@ date: 2025-02-10, from: Daily Coffee News
 
 date: 2025-02-10, from: Daily Coffee News
 
-<div><img width="620" height="358" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-620x358.jpg" class="attachment-large size-large wp-post-image" alt="Musa Coffee 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-620x358.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-300x173.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-150x86.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-768x443.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>University of Florida men&#8217;s swim team captain Joaquin Gonzalez Pinero is diving deeper into the family business of specialty coffee with the launch of Musa Coffee, a roasting, wholesale and... 
+<div><img width="620" height="358" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-620x358.jpg" class="attachment-large size-large wp-post-image" alt="Musa Coffee 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-620x358.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-300x173.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-150x86.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1-768x443.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Musa-Coffee-1-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>University of Florida men&#8217;s swim team captain Joaquin Gonzalez Pinero is diving deeper into the family business of specialty coffee with the launch of Musa Coffee, a roasting, wholesale and... 
 
 <br> 
 
@@ -415,7 +597,7 @@ date: 2025-02-10, from: Isebel Eats
 
 
 	<div>
-	<a href="https://www.isabeleats.com/chile-relleno-soup/"><img title="chile-relleno-soup-small-4" src="https://www.isabeleats.com/wp-content/uploads/2025/02/chile-relleno-soup-small-4-400x600.jpg" alt="Chile relleno soup served in a bowl with cheese on top." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	<a href="https://www.isabeleats.com/chile-relleno-soup/"><img title="chile-relleno-soup-small-6" src="https://www.isabeleats.com/wp-content/uploads/2025/02/chile-relleno-soup-small-6-400x600.jpg" alt="Creamy chile relleno soup in a bowl topped with cilantro and shredded cheese." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
 	</div>
 	This creamy chile relleno soup has all the flavors of the traditional Mexican dish &#8211; roasted poblanos and melted cheese&#8230; 
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-11 07:08:48
+updated: 2025-02-12 07:08:35
 ---
 
 # games
 
-(date: 2025-02-11 07:08:48)
+(date: 2025-02-12 07:08:35)
+
+---
+
+## One of the few horror movies to make me physically nauseous is leaving Hulu soon
+
+date: 2025-02-12, updated: 2025-02-11, from: Polygon Website
+
+Everyone’s horror pressure points are different. Either because of where or how you were raised, your lifestyle, or even just your own peculiarities, we have all encountered horror movie things that wig us out to no end that other people take in stride (and vice versa). Every ranking of scariness should be taken with a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/522126/titane-horror-movie-hulu-watch-made-me-sick>
+
+---
+
+## Amazon, Nintendo seek $7M judgment in counterfeit amiibo lawsuit
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+Amazon and Nintendo jointly filed a lawsuit in October 2023 against a group of counterfeit Nintendo sellers that the company said illegally sold fake amiibo and video game cartridges. Though the companies eventually learned the identities of the sellers, the alleged counterfeit sellers failed to respond to the lawsuit; Amazon and Nintendo filed documents on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/522449/amazon-nintendo-counterfeit-amiibo-cartridge-lawsuit>
+
+---
+
+## Elden Ring Nightreign comes out in May
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+The new Elden Ring is closer than you might think. FromSoftware announced on Wednesday that Elden Ring Nightreign, the new multiplayer spinoff of the studio’s excellent open-world game, is set for release on May 30. Nightreign was first announced at The Game Awards last December, with a gorgeous, but slightly mysterious, teaser trailer. FromSoftware also [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/playstation/522351/elden-ring-nightreign-release-date-price>
+
+---
+
+## Arcade legend Jeff Minter’s next remake is I, Robot: the first game with polygons
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+Jeff Minter, the legendary, iconoclastic arcade game designer, is back with another Atari remake. Once again, the author of the classic Tempest 2000 and its sequels has dug deep into Atari’s back catalog and unearthed a truly deep cut to apply his intense, psychedelic spin to. Last time, it was the notoriously difficult, unreleased curio [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/522526/jeff-minter-atari-i-robot>
+
+---
+
+## Elden Ring Nightreign is for the true Elden Ring junkies
+
+date: 2025-02-12, updated: 2025-02-11, from: Polygon Website
+
+Elden Ring Nightreign isn’t what I was expecting. I knew from the game’s announcement last year that it would be a co-op Elden Ring spinoff, that it would task players with surviving for three nights and facing off against a variety of new and old FromSoftware bosses. What I didn’t know until I played the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/522325/elden-ring-nightreign-preview-network-test>
+
+---
+
+## How to get the Barrow-Dyad Exotic in Destiny 2
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+The Barrow-Dyad is an Exotic Strand submachine gun from Destiny 2: Heresy, and it comes from an Exotic questline called “The Taken Path,” which culminates in the Exotic mission, “Derealize.” To get to all these quests and missions, however, you’ll need to do a lot of secret hunting around the solar system. In this guide, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/522319/barrow-dyad-exotic-smg-how-to-get>
+
+---
+
+## Your Marvel Rivals rank isn&#8217;t safe from upcoming midseason patch
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+Update: (Feb. 11): Marvel Rivals’ upcoming midseason patch will no longer impact your rank. Read more about that update here. Hold your competitive rank close, because it’s going to disappear next week when Marvel Rivals’ midseason patch drops. In a dev diary post today, developer NetEase announced that ranks will be reset twice per season: [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/521682/marvel-rivals-mid-season-rank-reset-season-1>
+
+---
+
+## Marvel Rivals cancels its controversial rank change after players revolt
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+Never mind, your rank is safe from the upcoming midseason patch in Marvel Rivals. NetEase has cancelled its plans for a surprise rank reset after players criticized the change on social media and the game’s Discord server. “After the release of Dev Talk 10 regarding the seasonal rank adjustment, we received a wealth of feedback [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/522149/marvel-rivals-midseason-rank-reset-reverted>
+
+---
+
+## You’re supposed to be confused in Civilization 7
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+There is a lot going on during every turn of Civilization 7. Each time you hit “next turn,” the computer is calculating the moves of other civilizations, factoring in your difficulty setting, proposing new wars, collecting new resources, selecting new items off the tech tree, and so on. Basically, math is always happening in Civilization [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/civilization-7-guides/514300/beginners-advice>
+
+---
+
+## Get every Pathfinder and Starfinder comic for just $18 at Humble
+
+date: 2025-02-11, updated: 2025-02-11, from: Polygon Website
+
+If you need to stock up on some light reading, Humble is currently offering a massive bundle of 71 Starfinder and Pathfinder comics for just $18. Published by Dynamite Entertainment! This bundle features every tale inspired by the fantasy and sci-fi TTRPG settings created by Paizo, and it’s certainly worth checking out if you’re a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/522103/starfinder-pathfinder-comics-paizo-humble-bundle-sale>
 
 ---
 
@@ -138,18 +258,6 @@ It felt like magic. The Steam Deck played practically everything when Valve laun
 <br> 
 
 <https://www.polygon.com/hardware/521687/ayaneo-3-hands-on-impressions>
-
----
-
-## Your Marvel Rivals rank isn&#8217;t safe from upcoming midseason patch
-
-date: 2025-02-10, updated: 2025-02-10, from: Polygon Website
-
-Hold your competitive rank close, because it’s going to disappear next week when Marvel Rivals’ midseason patch drops. In a dev diary post today, developer NetEase announced that ranks will be reset twice per season: once at the beginning and once halfway through. “After careful observations and consideration, we have concluded that players&#8217; ranks during [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/news/521682/marvel-rivals-mid-season-rank-reset-season-1>
 
 ---
 

@@ -1,11 +1,441 @@
 ---
 title: columns
-updated: 2025-02-11 07:08:48
+updated: 2025-02-12 07:08:34
 ---
 
 # columns
 
-(date: 2025-02-11 07:08:48)
+(date: 2025-02-12 07:08:34)
+
+---
+
+## It’s still adtech
+
+date: 2025-02-12, from: Doc Searls (at Harvard), New Old Blog
+
+This morning Wired published This Ad-Tech Company Is Powering Surveillance of US Military Personnel. It&#8217;s a good piece, which is typical of Wired lately. But what caught my eye was &#8220;Ad-Tech&#8221; in the headline. Some writers say &#8220;ad tech.&#8221; Others say &#8220;adtech&#8221; or &#8220;AdTech.&#8221; I&#8217;m highly leveraged in &#8220;adtech,&#8221; since I&#8217;ve now posted 160 pieces (including [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/02/12/its-still-adtech/>
+
+---
+
+## The United States is not a Silicon Valley company
+
+date: 2025-02-12, from: Dave Winer's Scripting News
+
+<p>I've had an experience few people have had, and it's relevant to the way all of us feel right now. The experience: Being part of a Silicon Valley company that was acquired by another Silicon Valley company. </p>
+<p>I was the CEO. I recognize the feeling, because Musk is acting as if he is the acquirer of a Silicon Valley company, and the company he has acquired in the USA. Or so he thinks. But the United States is not a Silicon Valley company where, you have departments and managers at every level, and each level must follow orders from the level above them. It doesn't work that way here. Deliberately. Very deliberately. </p>
+<p>There never has been a Silicon Valley company that gives each employee the rights and responsibilities of an American citizen. We don't take orders except in very exceptional circumstances, and then with all the rights guaranteed by the Constitution. That's why Musk and Trump are having so much trouble coming to grips with how this place works, because even the employees of the USA are voters and taxpayers and have rights that must be respected. That <i>will</i> be respected or all hell will break loose. </p>
+<p>Anyway, back to Silicon Valley acquisitions. Up to the point when you, the former CEO, are now a VP, and must take orders from the CEO, you didn't have to take orders from anyone, not even your board of directors. The CEO of the tech company is a lot like a citizen of the US, until they aren't a CEO any longer and have to do the bidding of the actual CEO (which is who Musk thinks he is relative to the USA). This is why even MAGAs who love Trump (or really the idea of Trump) aren't going to put up with his bullshit. American citizens, rich or poor, old or young, LBGTQ or whatever -- we all are <a href="https://en.wikipedia.org/wiki/Sovereign_state">sovereign</a>, ie we don't have to take orders from anyone, not even a supposed genius like Musk (sorry, but I am free to doubt his genius, something might take some getting used to by him). We don't take orders from him, or anyone else, except of course, as mentioned earlier under very special circumstances. </p>
+<p>Back to the disconnect in the Mind of Musk. Now you're supposed to sit here, quietly, while he rips apart the team you carefully built, the people you formed into a family with all its strengths and dysfunction. The new CEO (Musk) sweeps in with no idea what they're fucking with, and they don't want to hear about it. Finally you have to quit after a short time because you can't be part of the disaster they're creating. And always is a disaster, and sometimes they can dig out of it as he has done with Twitter, as we've seen many SV companies have. But again, for the 18th time, <i>the United States of America is not a Silicon Valley company.</i></p>
+<p>What triggered it for me was the story about how Musk didn't know he had terminated all cancer research being done by the US. Surrounded by yes men, they never would have told him. And he didn't want to hear it from a founder (like a congressperson or the head of the NIH or the acting Treasury secretary). This is going to be repeated over and over until the acquirer writes off the investment or who knows. His experience comes from acquiring Tesla and Twitter, which while they were large organizations are nothing compared with the United States. </p>
+<p>And ultimately the United States is going to chew up Musk and spit him out. We may be very damaged by the experience, but he will come out much worse than the country. Because we are not who he thinks we are. </p>
+<p>A great scene in Schindler's List. A concentration camp Jew, an engineer, tells the Nazi colonel he's fucking up. As he's about to blow her brains out, she says "this isn't going to make a difference." He proceeds. She was right. Musk should pay attention. The Nazis killed a lot of Jews, that's true. But there was no <a href="https://www.reddit.com/r/AskHistorians/comments/350uy7/where_did_hitler_come_up_the_idea_of_the_thousand/">thousand year Reich</a>, and Musk isn't going to Mars at least not this way.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/12/140926.html?title=theUnitedStatesIsNotASiliconValleyCompany>
+
+---
+
+## Don’t Buy This
+
+date: 2025-02-12, from: Doc Searls (at Harvard), New Old Blog
+
+Every so often a product shows up that is so bad somebody needs to sound a warning. So I&#8217;m sounding one for the Ion Retro Glow. For the last month or so, it&#8217;s been on display and selling at the Sams Club here in Bloomington, Indiana. That&#8217;s where I shot the photo above. At first I [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/02/12/dont-buy-this/>
+
+---
+
+## You Don't Need A Terminal Multiplexer on Your Desktop
+
+date: 2025-02-12, from: mrusme blog
+
+An opinion on the trend of *content creators* promoting Tmux and Zellij for
+desktop environments -- and why these setups may miss the point. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/you-dont-need-a-terminal-multiplexer-on-your-desktop/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-12, from: Miguel de Icaza Mastondon feed)
+
+<p>We are watching it in real time, but nice to have a roadmap: </p><p>“The Path to American Authoritarianism: What Comes After Democratic Breakdown”</p><p>Or “Why google and Apple renamed their maps”</p><p><a href="https://www.foreignaffairs.com/united-states/path-american-authoritarianism-trump" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">foreignaffairs.com/united-stat</span><span class="invisible">es/path-american-authoritarianism-trump</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113991107410015214>
+
+---
+
+## Web Components
+
+date: 2025-02-12, from: Jonudell blog
+
+The JavaScript industrial complex won’t crumble anytime soon. But the stage is set for a return to an ecosystem of reusable components accessible to business developers, only this time based on the universal web platform and its core standards. How To Build Web Components Using ChatGPT LLM series at The New Stack 
+
+<br> 
+
+<https://blog.jonudell.net/2025/02/12/web-components/>
+
+---
+
+## Delivering Malware Through Abandoned Amazon S3 Buckets
+
+date: 2025-02-12, updated: 2025-02-12, from: Bruce Schneier blog
+
+<p>Here&#8217;s a supply-chain attack just waiting to happen. A group of researchers searched for, and then registered, abandoned Amazon S3 buckets for about $400. These buckets contained software libraries that are still used. Presumably the projects don&#8217;t realize that they have been abandoned, and still ping them for patches, updates, and etc.</p>
+<blockquote><p>The TL;DR is that this time, we ended up discovering ~150 Amazon S3 buckets that had previously been used across commercial and open source software products, governments, and infrastructure deployment/update pipelines&#8212;and then abandoned...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html>
+
+---
+
+## Office Hours: What the hell are they really aiming to do?
+
+date: 2025-02-12, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-the-hell-are-they>
+
+---
+
+## February 11, 2025 
+
+date: 2025-02-12, from: Heather Cox Richardson blog
+
+On February 12, 1809, Nancy Hanks Lincoln gave birth to her second child, a son: Abraham. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-11-2025>
+
+---
+
+## The first broadway musical you saw as a teen is the greatest ever, even if the story is terrible (and that's ok)
+
+date: 2025-02-12, from: Matt Haughey blog
+
+<p>I&apos;ve always enjoyed plays and musicals and I have a couple friends in the business so I often get the inside scoop from that world when talking to them. </p><p>Over the course of my life, I&apos;ve probably gone to the theater 2-3 times a year, but</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/the-first-broadway-musical-you-saw-as-a-teen-is-the-greatest-ever-even-if-the-story-is-terrible-and-thats-ok/>
+
+---
+
+##  The Trump administration barred an AP reporter from an event because the... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046199-the-trump-administration->
+
+---
+
+##  Security expert Bruce Schneier & digital ethicist Davi Ottenheimer: &#8220;The U.S. government... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046198-security-expert-bruce-sch>
+
+---
+
+## iTools, Apple’s Original ‘Internet Strategy’, From January 2000
+
+date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2000/01/05Apple-Unveils-Internet-Strategy/>
+
+---
+
+## AI, China & Copium
+
+date: 2025-02-12, from: Om Malik blog
+
+When it comes to technology in general, and artificial intelligence in particular, it has been surreal to watch events unfold. From politicians in technology backwaters to opportunists and fashion billionaires, everyone has jumped on the “AI” version of Shinkansen. And if that wasn’t enough, the arrival of DeepSeek has unleashed a wave of fear, nationalism, &#8230; 
+
+<br> 
+
+<https://om.co/2025/02/11/ai-china-copium/>
+
+---
+
+##  Josh Marshall: &#8220;This new EO signed today appears to create DOGE as... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046197-josh-marshall-this-new-eo>
+
+---
+
+## Fraud and Musk
+
+date: 2025-02-12, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/fraud>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-12, from: Dave Winer's Scripting News)
+
+If only political reporters had the same knowledge of their subject as sports reporters do. 
+
+<br> 
+
+<http://scripting.com/2025/02/11.html#a015616>
+
+---
+
+## Wednesday 12 February, 2025
+
+date: 2025-02-12, from: John Naughton's online diary
+
+Poetry in Neon The Portico of the Fitzwilliam Museum in Cambridge the other night. The illuminated quotes are a part of the work of the American contemporary artist Glenn Ligon which can be found in galleries throughout the building. If &#8230; <a href="https://memex.naughtons.org/wednesday-12-february-2025/40432/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-12-february-2025/40432/>
+
+---
+
+## Apple Completes Pixelmator Acquisition
+
+date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/02/11/apple-completes-pixelmator-acquisition/>
+
+---
+
+## Apple Support: ‘About Migrating Apple Account Purchases Between Accounts’
+
+date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://support.apple.com/en-us/117267>
+
+---
+
+##  Law professors are a staid bunch. But: &#8220;We are in the midst... 
+
+date: 2025-02-11, updated: 2025-02-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046196-law-professors-are-a-stai>
+
+---
+
+## ‘The Wild True Story Behind Kendrick Lamar’s Super Bowl Halftime Show’
+
+date: 2025-02-11, updated: 2025-02-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wired.com/story/true-story-behind-kendrick-lamar-super-bowl-halftime-show/>
+
+---
+
+## February 10, 2025
+
+date: 2025-02-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156950983/2696ec5d14b02c50e36f5d36c46b344c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156950983/2696ec5d14b02c50e36f5d36c46b344c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-10-2025-030>
+
+---
+
+##  Pitching a Big Tent in an Emergency 
+
+date: 2025-02-11, updated: 2025-02-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/pitching-a-big-tent-in-an-emergency>
+
+---
+
+##  A federal judge has ordered the HHS, CDC, and FDA to restore... 
+
+date: 2025-02-11, updated: 2025-02-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046194-a-federal-judge-has-order>
+
+---
+
+##  The Trump administration is defying federal court orders and maintaining the funding... 
+
+date: 2025-02-11, updated: 2025-02-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046193-the-trump-administration->
+
+---
+
+##  I loved Russell Shorto&#8217;s The Island at the Center of the World... 
+
+date: 2025-02-11, updated: 2025-02-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046191-i-loved-russell-shortos-t>
+
+---
+
+## Build Box64 with Box32 for X86 emulation on RISC-V Linux
+
+date: 2025-02-11, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Build Box64 with Box32 for X86 emulation on RISC-V Linux</span>
+
+            <p></p>
+
+<p>Recently I've been <a href="https://github.com/geerlingguy/sbc-reviews/issues/65">testing a SiFive HiFive Premier P550</a>, and as part of that testing, I <em>of course</em> plugged in some AMD GPUs I had laying around.</p>
+
+<p>I'll get to that testing at a later date, but one thing I enjoy in my testing is finding what 3D accelerated games and other applications can be run on alternative architectures. With the great work from Wine and Proton over the years, a great many games run out of the box on Linux—and they can be made to run on Arm and RISC-V architectures with almost as much ease as Linux on X86/AMD64!</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 11, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/build-box64-box32-x86-emulation-on-risc-v-linux>
+
+---
+
+## Trump and Trudeau chat
+
+date: 2025-02-11, from: Dave Winer's Scripting News
+
+<p>First, the <a href="https://newrepublic.com/article/191367/trump-treasury-default-bond-market">New Republic</a> is beginning to think like Musk and Trump. But they have to think a bit more and ask how does this all tie together? </p>
+<p>Remember you have to consider events that would normally be unthinkable. And believe that Trump isn't actually president of the United States in any sense of what that meant in the past. He is sitting in the seat of the president. He has the powers of the president, but he does not represent the interests of the United States. </p>
+<p>He's going to use the US Treasury and the power of the dollar as the <a href="https://en.wikipedia.org/wiki/Reserve_currency#:~:text=A%20reserve%20currency%20is%20a,of%20their%20foreign%20exchange%20reserves.">reserve currency</a>, to buy himself a few toys to play with, like Canada, Greenland, Gaza and Panama, to start. </p>
+<p>To illustrate, here's the text of an imaginary conversation between Trump and Justin Trudeau, the prime minister of Canada. </p>
+<ul>
+<li>Trump: Hey Justin, how's it going?</li>
+<li>Trudeau: You know, not so good.</li>
+<li>Trump: I get it. Have you considered my offer?</li>
+<li>Trudeau: Yes. Either we surrender and become the 51st state, or you won't honor Canadian deposits in the US Treasury. </li>
+<li>Trump: That's right my friend.</li>
+<li>Trudeau: I don't see how we have any choice.</li>
+<li>Trump: I'm afraid that's correct. </li>
+<li>Trudeau: Semi-sarcastic: I pledge allegiance to the flag of the United States of America and Canada. </li>
+<li>Trump: You can leave out the Canada part. </li>
+<li>Trudeau: You can't blame me for trying.</li>
+<li>Trump: Have a nice day. 😀</li>
+</ul>
+<p>And then this <a href="https://www.youtube.com/watch?v=P4nYgfV2oJA&t=130s">scene from Goodfellas</a> demonstrates what's next for the former independent country of Canada. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/11/165017.html?title=trumpAndTrudeauChat>
+
+---
+
+##  Civil Servants Are Not America&#8217;s Enemies. &#8220;Washington created the modern civil service... 
+
+date: 2025-02-11, updated: 2025-02-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046192-civil-servants-are-not-am>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-11, from: Dave Winer's Scripting News)
+
+If you depend on not considering the unthinkable in 2025 then you aren't really thinking. 
+
+<br> 
+
+<http://scripting.com/2025/02/11.html#a162910>
+
+---
+
+##  Unsurprising: a recent study of 32M tweets from politicians from 27 countries... 
+
+date: 2025-02-11, updated: 2025-02-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046190-unsurprising-a-recent-stu>
+
+---
+
+##  Is Social Media Doing You Dirty? Apply the CUE Test. 
+
+date: 2025-02-11, updated: 2025-02-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/is-social-media-good-for-you-apply-the-cue-test>
 
 ---
 
@@ -35,7 +465,7 @@ A memoir of sorts.
 
 **@Dave Winer's Scripting News** (date: 2025-02-11, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2023/03/27/successionPoster.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://this.how/feedland/">A note to users</a> of feedland.org and feedland.com. We'll be turning the servers off sometime before the end of March. I haven't chosen the actual date yet. In the meantime, Please <a href="https://this.how/feedland/#1739205763000">download</a> a copy of your subscription list before the shutdown, it's incredibly easy. You can also <a href="https://github.com/scripting/feedlandInstall/blob/main/README.md">run your own</a> FeedLand. I started a <a href="https://github.com/scripting/feedlandSupport/issues/245">thread</a> on the support site if you have questions, remember the comment <a href="https://this.how/commentGuidelines/">guidelines</a>. I've learned a lot from the experience of running FeedLand this way, looking forward to trying some other configurations. <span class="spOldSchoolEmoji">😄</span> 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/02/28/presidentCarter.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://this.how/feedland/">A note to users</a> of feedland.org and feedland.com. We'll be turning the servers off sometime before the end of March. I haven't chosen the actual date yet. In the meantime, Please <a href="https://this.how/feedland/#1739205763000">download</a> a copy of your subscription list before the shutdown, it's incredibly easy. You can also <a href="https://github.com/scripting/feedlandInstall/blob/main/README.md">run your own</a> FeedLand. I started a <a href="https://github.com/scripting/feedlandSupport/issues/245">thread</a> on the support site if you have questions, remember the comment <a href="https://this.how/commentGuidelines/">guidelines</a>. I've learned a lot from the experience of running FeedLand this way, looking forward to trying some other configurations. <span class="spOldSchoolEmoji">😄</span> 
 
 <br> 
 
@@ -646,7 +1076,7 @@ How to deal with their tyranny
 
 ## Eddy and Tim’s Excellent Super Bowl Adventure
 
-date: 2025-02-09, updated: 2025-02-10, from: Daring Fireball
+date: 2025-02-09, updated: 2025-02-11, from: Daring Fireball
 
  
 

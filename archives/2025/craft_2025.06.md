@@ -1,11 +1,47 @@
 ---
 title: craft
-updated: 2025-02-11 07:08:51
+updated: 2025-02-12 07:08:37
 ---
 
 # craft
 
-(date: 2025-02-11 07:08:51)
+(date: 2025-02-12 07:08:37)
+
+---
+
+## Beading Plane – the MSG of the Moulding Plane World
+
+date: 2025-02-12, from: Lost Arg Press blog
+
+Most of the classes I teach involve at least one moment of fear for me, and that&#8217;s when I lend students my 3/16&#8243; Philly Planes beading plane. I love this plane, and love to put a bead on just about everything. Once you try one, you can&#8217;t stop! I&#8217;d be bereft without this tool. A... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/12/beading-plane-the-msg-of-the-moulding-plane-world/>
+
+---
+
+## Wood Properties
+
+date: 2025-02-11, from: Lost Arg Press blog
+
+The following is excerpted from the third edition of Christian Becksvoort’s “With the Grain: A Craftsman’s Guide to Understanding Wood.”&#160; It is, above all, succinct, easy to understand and perfectly suited for the furniture-maker. As important as what is in its 160 pages is what is not. It’s not a detailed analysis of cell growth.... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/11/wood-properties/>
+
+---
+
+## Maiwa's Dyeable Shimoga Shirt — The Perfect Layer
+
+date: 2025-02-11, updated: 2025-02-11, from: Maiwa blog (weaving and textiles)
+
+ 
+
+<br> 
+
+<https://maiwahandprints.blogspot.com/2025/02/maiwas-dyeable-shimoga-shirt-perfect.html>
 
 ---
 

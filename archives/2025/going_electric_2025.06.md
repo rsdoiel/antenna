@@ -1,11 +1,311 @@
 ---
 title: going electric
-updated: 2025-02-11 07:08:50
+updated: 2025-02-12 07:08:36
 ---
 
 # going electric
 
-(date: 2025-02-11 07:08:50)
+(date: 2025-02-12 07:08:36)
+
+---
+
+## Nissan's 'Pride' Doomed Its Emergency Merger With Honda
+
+date: 2025-02-12, from: Inside EVs News
+
+Also on Critical Materials today: Democrats say Trump's EV charging freeze is illegal, and Tesla's got a BYD problem on levels. 
+
+<br> 
+
+<https://insideevs.com/news/750481/nissan-honda-pride-tesla-cm/>
+
+---
+
+## Watch BYD’s ‘God’s Eye’ Rip This Supercar Around A Track Without Anyone Inside
+
+date: 2025-02-12, from: Inside EVs News
+
+The advanced driving assistance system was put through its paces on a Yangwange U9 electric supercar. 
+
+<br> 
+
+<https://insideevs.com/news/750428/byd-gods-eye-adas-autonomous-track-drive/>
+
+---
+
+## NYC is giving free e-bikes to delivery workers with shoddy or illegal electric bikes
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/nyc-bike-header-3-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>New York City’s Department of Transportation has a novel idea for helping get the most common uncertified e-bikes off the city’s streets: let their riders swap them for a safer UL-compliant electric bike for free.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="399808" href="https://electrek.co/2025/02/12/nyc-is-giving-free-e-bikes-to-delivery-workers-with-shoddy-or-illegal-electric-bikes/#more-399808" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/nyc-is-giving-free-e-bikes-to-delivery-workers-with-shoddy-or-illegal-electric-bikes/>
+
+---
+
+## Tesla Trademark Hints At Robovan Sharing Program
+
+date: 2025-02-12, from: Inside EVs News
+
+The company locked in "Robus," but that doesn't mean we'll see driverless Tesla Robovans roaming the streets anytime soon. 
+
+<br> 
+
+<https://insideevs.com/news/750473/tesla-robus-trademark-robotaxi-robovan/>
+
+---
+
+## Audi Q4 E-Tron Gets Cheaper Base Trim With Over 250 Miles Of Range
+
+date: 2025-02-12, from: Inside EVs News
+
+The new Audi Q4 E-Tron 40 comes with a 63 kWh battery pack. 
+
+<br> 
+
+<https://insideevs.com/news/750416/audi-q4-e-tron-40-base-trim-price-specs/>
+
+---
+
+## Global EV sales surge 18% y-o-y – but speed bumps lie ahead
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/BYD-sealion-7-Europe-front.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>London-based <a href="https://rhomotion.com/" target="_blank" rel="noreferrer noopener">Rho Motion</a> just dropped the latest numbers on global EV sales for January 2025, and here’s the headline: 1.3 million electric vehicles were sold worldwide. That’s down by more than a third from December’s record-breaking numbers, but don’t let that fool you – January 2025 still saw an 18% jump compared to the same month last year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,electric-vehicles,europe,ev-sales,evs,uk,united-states" data-layer-viewtype="unknown" data-post-id="401501" href="https://electrek.co/2025/02/11/global-ev-sales-surge-18-y-o-y-but-speed-bumps-lie-ahead/#more-401501" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/global-ev-sales-surge-18-y-o-y-but-speed-bumps-lie-ahead/>
+
+---
+
+## Kia’s electric sports car, the EV6 GT, is a steal at nearly $20,000 off
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Kia-EV6-GT-lease-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s electric sports car will smoke a Ferrari and Lamborghini off the line, and it’s already less than half the cost. Now, Kia’s 576 horsepower <a href="https://electrek.co/guides/kia-ev6-gt/">EV6 GT</a> is even cheaper to drive with nearly $20,000 in lease savings. Here’s how you can get your hands on one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia-ev6-gt" data-layer-viewtype="unknown" data-post-id="401496" href="https://electrek.co/2025/02/11/kias-ev-sports-car-just-got-nearly-20000-cheaper-to-lease/#more-401496" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/kias-ev-sports-car-just-got-nearly-20000-cheaper-to-lease/>
+
+---
+
+## Automakers Call For Gradual Tax Credit Phase-Out Instead Of Trump’s Rug Pull
+
+date: 2025-02-11, from: Inside EVs News
+
+Automakers warn that a rug-pull of the EV tax credit will cost jobs and raise prices. 
+
+<br> 
+
+<https://insideevs.com/news/750388/ev-tax-credit-gradual-phase/>
+
+---
+
+## In January, US EV prices held steady, incentive spending fell
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Group_98-e1702471801886.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>US EV prices held steady in January, and incentive spending dropped 3.1% from December, according to the latest monthly new-vehicle average transaction price (ATP) <a href="https://www.coxautoinc.com/wp-content/uploads/2025/02/January-2025-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf" target="_blank" rel="noreferrer noopener">report</a> from Cox Automotive’s Kelley Blue Book. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,kelley-blue-book,tesla,tesla-cybertruck,tesla-model-3,tesla-model-y" data-layer-viewtype="unknown" data-post-id="401486" href="https://electrek.co/2025/02/11/in-january-us-ev-prices-held-steady-incentive-spending-fell/#more-401486" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/in-january-us-ev-prices-held-steady-incentive-spending-fell/>
+
+---
+
+## Acura may bring back hybrids because it can only offer $20K EV discounts for so long
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/2024-Acura-ZDX-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda’s luxury <a href="https://electrek.co/guides/acura/">Acura</a> brand could be the latest to launch new hybrids as a bridge to fully electric vehicles. Despite over $20,000 in discounts, ZDX sales are not picking up as quickly as Acura expected.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,acura-zdx" data-layer-viewtype="unknown" data-post-id="401449" href="https://electrek.co/2025/02/11/acura-eyes-hybrids-because-20000-ev-discounts-are-not-enough/#more-401449" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/acura-eyes-hybrids-because-20000-ev-discounts-are-not-enough/>
+
+---
+
+## Why Lucid's CEO Thinks 180-Mile EVs Are 'The Future'
+
+date: 2025-02-11, from: Inside EVs News
+
+It sounds weird coming from the CEO of a company that makes EVs with over 500 miles or range. But hear him out.  
+
+<br> 
+
+<https://insideevs.com/news/750380/lucid-ceo-midsize-range-miles/>
+
+---
+
+## Jay Leno had to remind Tesla executives that the Roadster exists
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/05/Tesla-Guide-Gen.-2-Roadster-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a short but funny interaction, Jay Leno had to remind Tesla executives that the Roadster still exists – sort of, since it has been delayed seemingly indefinitely.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-roadster" data-layer-viewtype="unknown" data-post-id="401454" href="https://electrek.co/2025/02/11/jay-leno-had-to-remind-tesla-executives-that-the-roadster-exists/#more-401454" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/jay-leno-had-to-remind-tesla-executives-that-the-roadster-exists/>
+
+---
+
+## Trump Causing 'A Lot Of Cost And A Lot Of Chaos' In Auto Market: Ford CEO
+
+date: 2025-02-11, from: Inside EVs News
+
+Tariffs on Mexico and Canada "would blow a hole in the U.S. industry that we have never seen," he added. 
+
+<br> 
+
+<https://insideevs.com/news/750375/ford-ceo-on-trump-chaos/>
+
+---
+
+## Heybike’s new ALPHA all-terrain e-bike opens preorders at $1,599, Aiper Valentine’s sale, EGO Power+, Autel EV charger, more
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Heybike-ALPHA-All-Terrain-e-bike-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are headlined by <a href="https://9to5toys.com/2025/02/11/heybike-alpha-e-bike-1599-preorder-sale/">Heybike’s early bird preorder</a> sale on its latest <a href="https://9to5toys.com/2025/02/11/heybike-alpha-e-bike-1599-preorder-sale/">ALPHA All-Terrain e-bike</a>, a first from the brand’s Galaxy eDrive System, at <a href="https://9to5toys.com/2025/02/11/heybike-alpha-e-bike-1599-preorder-sale/">$1,599</a>. Next, we have <a href="https://9to5toys.com/2025/02/10/aiper-valentines-day-sale-from-130/">Aiper’s Valentine’s Day sale</a> with up to 40% discounts across its autonomous pool cleaners, like the <a href="https://9to5toys.com/2025/02/10/aiper-valentines-day-sale-from-130/">Surfer S1</a> Cordless Solar Robot Pool Skimmer that has fallen to <a href="https://9to5toys.com/2025/02/10/aiper-valentines-day-sale-from-130/">$300</a>, among others. We also spotted the <a href="https://9to5toys.com/2025/02/10/ego-power-56v-power-head-155/">EGO Power+ 56V Power Head</a>, which drives the brand’s Multi-Head System, down at <a href="https://9to5toys.com/2025/02/10/ego-power-56v-power-head-155/">$155</a> while attachments begin at $111. Lastly, we have <a href="https://9to5toys.com/2025/02/10/autel-maxicharger-ac-lite-50a-j1772-455-low/">Autel’s MaxiCharger AC Lite</a> Home Level 2 EV Charger dropping back down to its <a href="https://9to5toys.com/2025/02/10/autel-maxicharger-ac-lite-50a-j1772-455-low/">$455</a> Amazon low after being the center of a Lightning deal that has since ended, keeping the savings intact. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/02/10/ecoflow-2025-valentines-day-sale/">Valentine’s savings</a> from EcoFlow, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="401418" href="https://electrek.co/2025/02/11/heybike-alpha-e-bike-1599-aiper-ego-autel-more/#more-401418" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/heybike-alpha-e-bike-1599-aiper-ego-autel-more/>
+
+---
+
+## Honda’s Prologue EV joins the NHL for a green future
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Honda-Prologue-NHL-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda extended its partnership with the NHL, but it may look a little different this time. This season, NHL fans will get a good look at the <a href="https://electrek.co/guides/honda-prologue/">Prologue EV</a> as part of Honda’s efforts to “make the game more environmentally responsible.” Will we also catch a glimpse of its upcoming electric SUV and Saloon?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="401414" href="https://electrek.co/2025/02/11/honda-prologue-ev-joins-nhl-for-green-future/#more-401414" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/honda-prologue-ev-joins-nhl-for-green-future/>
+
+---
+
+## 2025 Hyundai Ioniq 5 Gets Discounts Until Its Tax Credits Are Back
+
+date: 2025-02-11, from: Inside EVs News
+
+The made-in-America Ioniq 5 doesn't qualify for tax credits, but it should soon. Here's what you need to know. 
+
+<br> 
+
+<https://insideevs.com/news/750372/ioniq-5-tax-credit-update/>
+
+---
+
+## Ford CEO warns Trump tariffs will ‘blow a hole’ in the US auto industry like we’ve never seen
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Ford-Mach-E-price-cuts.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As automakers brace for new tariffs on imports from Mexico and Canada, <a href="https://electrek.co/guides/ford/">Ford’s</a> CEO Jim Farley is warning the extra costs would be “devastating.” Farley said the additional tariffs, which could go into effect as soon as March 1, would be a “blow a hole” in the US auto industry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="401406" href="https://electrek.co/2025/02/11/ford-ceo-warns-trump-tariffs-will-blow-a-hole-in-us-auto-industry/#more-401406" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/ford-ceo-warns-trump-tariffs-will-blow-a-hole-in-us-auto-industry/>
+
+---
+
+## Tesla Is Facing Global Protests, Vandalism Over Elon Musk's Government Meddling
+
+date: 2025-02-11, from: Inside EVs News
+
+Plus, BYD can sell its carbon credits to offset tariffs, while Ford and GM are hit by China's retaliation tariffs. 
+
+<br> 
+
+<https://insideevs.com/news/750116/tesla-global-protests-musk-government/>
+
+---
+
+## Lucid (LCID) CEO predicts ‘exponential’ growth, and it’s not just from selling luxury EVs
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lucid-outpacing-rivals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Can <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> (LCID) make 1 million EVs a year? CEO Peter Rawlinson said this is his vision, and Lucid has ambitious plans to achieve it. After launching its first electric SUV, the Gravity, Lucid will enter the mass market with its midsize platform starting at around $50,000. Rawlinson said this is “finally when we compete directly with Tesla,” but the EV maker has even bigger plans to drive growth.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="401380" href="https://electrek.co/2025/02/11/lucid-lcid-predicts-exponential-growth-not-just-from-luxury-evs/#more-401380" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/lucid-lcid-predicts-exponential-growth-not-just-from-luxury-evs/>
+
+---
+
+## Tesla starts production at Megafactory in Shanghai
+
+date: 2025-02-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/GjeURuIXUAAqgfR_2dc083-e1739287076798.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has started production at its new Megafactory in Shanghai, its second such factory, and it is starting to ship to its first customer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla-megafactory-shanghai" data-layer-viewtype="unknown" data-post-id="401385" href="https://electrek.co/2025/02/11/tesla-starts-production-at-megafactory-in-shanghai/#more-401385" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/11/tesla-starts-production-at-megafactory-in-shanghai/>
+
+---
+
+## These 14 EVs Were Driven In Freezing Cold Until They Died
+
+date: 2025-02-11, from: Inside EVs News
+
+The ambient temperature was way below freezing during the Canadian Automobile Association’s winter range test. 
+
+<br> 
+
+<https://insideevs.com/news/750335/14-evs-canadian-winter-range-test/>
 
 ---
 

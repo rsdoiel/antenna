@@ -1,11 +1,479 @@
 ---
 title: pacific
-updated: 2025-02-11 07:08:47
+updated: 2025-02-12 07:08:33
 ---
 
 # pacific
 
-(date: 2025-02-11 07:08:47)
+(date: 2025-02-12 07:08:33)
+
+---
+
+## Kealakehe Regional Park project drags on
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Efforts to move the Kealakehe Regional Park project forward are underway, but a construction date has not been announced, county officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/hawaii-news/kealakehe-regional-park-project-drags-on/>
+
+---
+
+## Musk team announces millions in cuts to Education Department amid legal pushback
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Elon Musk&#8217;s cost-cutting effort announced a variety of cuts at the Education Department totaling over $900 million, apparently aimed at hobbling the department&#8217;s research arm, the Institute of Education Sciences.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/musk-team-announces-millions-in-cuts-to-education-department-amid-legal-pushback/>
+
+---
+
+## Two men accused in weekend robbery remain in custody
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Two Puna men charged in connection with an alleged armed robbery early Saturday morning in downtown Hilo remain in custody in Hawaii Community Correctional Center, unable to post bail.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/hawaii-news/two-men-accused-in-weekend-robbery-remain-in-custody/>
+
+---
+
+## Proposal may result in more parking at Akaka Falls
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>More parking spaces could added near Akaka Falls as a result of a landowner&#8217;s proposal under debate by Hawaii County planners.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/hawaii-news/proposal-may-result-in-more-parking-at-akaka-falls/>
+
+---
+
+## Sewage plant prompts emergency proclamation
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Mayor Kimo Alameda signed an emergency proclamation Tuesday in preparation for a potential failure of the Hilo Wastewater Treatment Plant in in Keaukaha.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/hawaii-news/sewage-plant-prompts-emergency-proclamation/>
+
+---
+
+## Acasio, 7 others sue state House
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>A former state senator from Hilo is suing the state House of Representatives, accusing the legislative body of violating the state Constitution by holding a Rules Committee meeting behind closed doors.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/hawaii-news/acasio-7-others-sue-state-house/>
+
+---
+
+## With Musk at his side, Trump orders US agencies to plan for ‘large-scale’ staff cuts
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump ordered U.S. agencies on Tuesday to work closely with top adviser Elon Musk&#8217;s effort to shrink the federal workforce by identifying government employees who can be laid off and functions that can be eliminated entirely.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/with-musk-at-his-side-trump-orders-us-agencies-to-plan-for-large-scale-staff-cuts/>
+
+---
+
+## Community college to host Filipino outreach event
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Community College has announced &#8220;Tulungan sa Kolehiyo,&#8221; a Filipino college outreach event designed to support Filipino students and families in their journey toward higher education.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/community/community-college-to-host-filipino-outreach-event/>
+
+---
+
+## Pulama Mauli Ola comes to Hilo
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Kapahi Ka Moana i Kai&#8221; is this year&#8217;s theme for the 2025 Pulama Mauli Ola event, which will be a celebration of the Hawaiian language and culture.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/community/pulama-mauli-ola-comes-to-hilo/>
+
+---
+
+## Kane named CEO of Parker Ranch Inc.
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; Micah Kane has been selected to be the next chief executive officer of Parker Ranch Inc.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/community/kane-named-ceo-of-parker-ranch-inc/>
+
+---
+
+## Mayor announces community meetings
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County Mayor Kimo Alameda invites the public to a series of community meetings that will provide opportunities for residents across Hawaii Island to speak with senior county leaders and hear updates about projects in their neighborhoods.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/community/mayor-announces-community-meetings/>
+
+---
+
+## Under Trump, billionaire climate champions have gone quiet
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Over the past decade or so, a group of America&#8217;s wealthiest individuals, largely from the tech industry, became some of the world&#8217;s biggest climate champions, pledging billions in highly public campaigns.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/under-trump-billionaire-climate-champions-have-gone-quiet/>
+
+---
+
+## Edison utility faces shareholder lawsuit over LA wildfires
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>The parent company of Southern California Edison has been sued for allegedly defrauding shareholders before the recent Los Angeles-area wildfires by assuring them it could shut down power lines to reduce the risk of catastrophic damage.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/edison-utility-faces-shareholder-lawsuit-over-la-wildfires/>
+
+---
+
+## Hegseth renames Fort Liberty to Fort Bragg
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Defense Secretary Pete Hegseth said Monday that he is renaming Fort Liberty, whose previous name honoring Confederate Gen. Braxton Bragg was changed in 2023 as part of a wider effort to eliminate military honors bestowed on individuals who rebelled against the Union during the Civil War.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/hegseth-renames-fort-liberty-to-fort-bragg/>
+
+---
+
+## Russia frees American schoolteacher Marc Fogel after four years
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Russia released American schoolteacher Marc Fogel on Tuesday following an unannounced visit to Moscow by U.S. special envoy Steve Witkoff and he was headed for a White House welcome, U.S. President Donald Trump said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/russia-frees-american-schoolteacher-marc-fogel-after-four-years/>
+
+---
+
+## ‘Serial swatter’ who made nearly 400 threatening calls gets 4 years in prison
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>An 18-year-old man was sentenced Tuesday to four years in prison for making nearly 400 false bomb threats and threats of violence to religious institutions, schools, universities and homes across the country, federal prosecutors said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/serial-swatter-who-made-nearly-400-threatening-calls-gets-4-years-in-prison/>
+
+---
+
+## Scientists detect shape-shifting along Earth’s solid inner core
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>The inner core at the center of the Earth, a ball of iron and nickel about 1,500 miles wide, may not be perfectly solid.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/scientists-detect-shape-shifting-along-earths-solid-inner-core/>
+
+---
+
+## News in Brief for February 12
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk&#8217;s financial disclosure will not be made public</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/news-in-brief-for-february-12/>
+
+---
+
+## Deb Haaland, ex-Interior secretary, is running for governor of New Mexico
+
+date: 2025-02-12, from: Hawaii Tribune Harold
+
+
+				<p>Deb Haaland, the former secretary of the Interior who was the first Native American to lead a Cabinet agency, on Tuesday announced a bid for governor of New Mexico.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/12/nation-world-news/deb-haaland-ex-interior-secretary-is-running-for-governor-of-new-mexico/>
+
+---
+
+## Powerless: the long siege of USAID is over
+
+date: 2025-02-12, from: Pacific Island Times
+
+Much has been and much more will be written about the looming abolition of USAID.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/powerless-the-long-siege-of-usaid-is-over>
+
+---
+
+## Moylan says USDOE abolition plan designed to decentralize education
+
+date: 2025-02-12, from: Pacific Island Times
+
+President Donald Trump’s plan to abolish the U.S. Department of Education is designed to decentralize education, Guam Del. James Moylan said 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/moylan-says-usdoe-abolition-plan-designed-to-decentralize-education>
+
+---
+
+## Hawaiian Word of the Week: Nūhou
+
+date: 2025-02-12, from: University of Hawaiʻi News
+
+<p>Nūhou&#8212;News.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/hawaiian-word-of-the-week-nuhou/">Hawaiian Word of the Week: Nūhou</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/hawaiian-word-of-the-week-nuhou/>
+
+---
+
+## UH President Hensel visits Honolulu Community College
+
+date: 2025-02-12, from: University of Hawaiʻi News
+
+<p>Honolulu <abbr>CC</abbr> students energized and reassured by meeting with <abbr>UH</abbr> President Wendy Hensel.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/hensel-visits-honolulu-cc/"><abbr>UH</abbr> President Hensel visits Honolulu Community College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/hensel-visits-honolulu-cc/>
+
+---
+
+## Letter to the Editor: The easy battles and the hard war against homelessness
+
+date: 2025-02-12, from: Pacific Island Times
+
+By Rob San Agustin   In many jurisdictions, the “easy” response to homelessness has been to criminalize it. The hard task is creating a... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/letter-to-the-editor-the-easy-battles-and-the-hard-war-against-homelessness>
+
+---
+
+## Fresh flowers, full hearts for Valentine’s Day event
+
+date: 2025-02-12, from: University of Hawaiʻi News
+
+<p>UH Mānoa’s pre-Valentine’s Day flower arranging event brought students, staff, and families together to spread joy through handmade bouquets.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/fresh-flowers-for-valentines-day/">Fresh flowers, full hearts for Valentine’s Day event</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/fresh-flowers-for-valentines-day/>
+
+---
+
+## “Just for Fun” culinary classes at UH Maui College
+
+date: 2025-02-12, from: University of Hawaiʻi News
+
+<p>The hands-on, non-credit culinary classes for the public will cover a range of topics.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/uhmc-public-culinary-classes/">“Just for Fun” culinary classes at <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/uhmc-public-culinary-classes/>
+
+---
+
+## Global art star to serve as UH Mānoa Inouye Chair
+
+date: 2025-02-12, from: University of Hawaiʻi News
+
+<p>Kapwani Kiwanga’s work has been exhibited in major institutions worldwide, from Munich to Shanghai.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/kiwanga-uh-manoa-inouye-chair/">Global art star to serve as <abbr>UH</abbr> Mānoa Inouye Chair</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/kiwanga-uh-manoa-inouye-chair/>
+
+---
+
+## UH alumna Brauer earns 2024 Rolex Yachtswoman of the Year
+
+date: 2025-02-12, from: University of Hawaiʻi News
+
+<p>Cole Brauer was honored after she made history as the first American woman to sail solo around the world, finishing second in the inaugural race.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/brauer-2024-rolex-yachtswoman-of-the-year/"><abbr>UH</abbr> alumna Brauer earns 2024 Rolex Yachtswoman of the Year</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/brauer-2024-rolex-yachtswoman-of-the-year/>
+
+---
+
+## Titriyski dominates as Big West Offensive Player of the Week
+
+date: 2025-02-12, from: University of Hawaiʻi News
+
+<p>Kristian Titriyski lead the Rainbow Warriors with 36 kills in their two-match split against Stanford, ranking among the top players nationally.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/titriyski-offensive-player-of-week/">Titriyski dominates as Big West Offensive Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/titriyski-offensive-player-of-week/>
+
+---
+
+## No day but today: UH Mānoa theatre and dance brings award-winning RENT to life
+
+date: 2025-02-12, from: University of Hawaiʻi News
+
+<p>The rock musical <em>RENT</em> will be live on stage February 28 to March 9 at Kennedy Theatre.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/manoa-theatre-dance-rent/">No day but today: <abbr>UH</abbr> Mānoa theatre and dance brings award-winning RENT to life</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/manoa-theatre-dance-rent/>
+
+---
+
+## How Somaliland could influence US  interests in the Pacific
+
+date: 2025-02-11, from: Pacific Island Times
+
+By Abdul Rafay Afzal In recent years, Somaliland has become a symbol of stability in a region (Horn of Africa) often defined by... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/how-somaliland-could-influence-us-interests-in-the-pacific>
+
+---
+
+## Opioid settlement online resource powered by Hawaiʻi Data Science Institute
+
+date: 2025-02-11, from: University of Hawaiʻi News
+
+<p>New online dashboard tracks opioid settlement funds.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/opioid-settlement-online-resource/">Opioid settlement online resource powered by Hawaiʻi Data Science Institute</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/opioid-settlement-online-resource/>
+
+---
+
+## Global conference to tackle climate, media preservation
+
+date: 2025-02-11, from: University of Hawaiʻi News
+
+<p>Hamilton Library will host the International Association of Sound and Audiovisual Archives annual conference, September 8&#8211;11, 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/11/hamilton-hosts-iasa-conference/">Global conference to tackle climate, media preservation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/11/hamilton-hosts-iasa-conference/>
+
+---
+
+## Why Chamorros call all Filipinos ‘Tagålu’ (and other naming mysteries)
+
+date: 2025-02-11, from: Pacific Island Times
+
+Live from Saipan By Zaldy Dandan Saipan  — In an op-ed published by Marianas Variety two months ago, a Chamorro language expert pointed... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/why-chamorros-call-all-filipinos-tag%C3%A5lu-and-other-naming-mysteries>
+
+---
+
+##  Shifting allegiances: politics, power and pandering in Washington and beyond
+
+date: 2025-02-11, from: Pacific Island Times
+
+Donald Trump Inside the Reef By Joyce McClure The administration in Washington has turned over once again after four orbits around the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/shifting-allegiances-politics-power-and-pandering-in-washington-and-beyond>
 
 ---
 
@@ -280,6 +748,34 @@ date: 2025-02-11, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/11/nation-world-news/musk-led-group-makes-97-4-billion-bid-for-control-of-openai/>
+
+---
+
+## Kilauea eruption resumes for 9th time
+
+date: 2025-02-11, from: Hawaii Tribune Harold
+
+
+				<p>The on again, off again eruption of Kilauea resumed at 10:16 a.m. today with lava fountains producing a lava flow on the Halema&#699;uma&#699;u crater floor.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/11/hawaii-news/kilauea-eruption-resumes-for-9th-time/>
+
+---
+
+## Hilo crash critically injures elderly pedestrian from Minnesota
+
+date: 2025-02-11, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a traffic collision in Hilo on Monday that left an elderly male pedestrian from Minnesota in critical condition.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/11/hawaii-news/hilo-crash-critically-injures-elderly-pedestrian-from-minnesota/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-11 07:08:50
+updated: 2025-02-12 07:08:36
 ---
 
 # retro computing
 
-(date: 2025-02-11 07:08:50)
+(date: 2025-02-12 07:08:36)
+
+---
+
+## AI: The Security Challenges of Liquid Neural Networks
+
+date: 2025-02-11, from: Paola Zaino's blog
+
+In this second article exploring Liquid Neural Networks (LNN), we&#8217;ll take a look at the security challenges behind developing both a foundational library and foundational models based on LNNs. Disclaimer This article is part of a series of articles that represent a short introduction to Liquid Neural Networks, related theory, and how they work. It [&#8230;] 
+
+<br> 
+
+<https://paolozaino.wordpress.com/2025/02/11/ai-the-security-challenges-of-liquid-neural-networks/>
 
 ---
 

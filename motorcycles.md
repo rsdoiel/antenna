@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-02-11 07:08:49
+updated: 2025-02-12 07:08:36
 ---
 
 # motorcycles
 
-(date: 2025-02-11 07:08:49)
+(date: 2025-02-12 07:08:36)
+
+---
+
+## Wyoming Stopped Its Own Public Lands Land Grab From Ever Starting, Good
+
+date: 2025-02-12, from: Ride Apart, Electric Motorcycle News
+
+Public lands FTW.  
+
+<br> 
+
+<https://www.rideapart.com/news/750382/wyoming-public-lands-land-grab-stopped/>
+
+---
+
+## This Honda Snow Bike Is a Super Rare Super Cub, and It Can Now Be Yours
+
+date: 2025-02-12, from: Ride Apart, Electric Motorcycle News
+
+You meet the nicest people on a Honda ... in winter! 
+
+<br> 
+
+<https://www.rideapart.com/news/750399/honda-ez-snow-snowbike-for-sale/>
+
+---
+
+## Buy This 1986 Kawasaki GPZ900R and Live Your Tom Cruise 'Top Gun' Dreams
+
+date: 2025-02-12, from: Ride Apart, Electric Motorcycle News
+
+If this isn't the bike that inspired your first motorcycling dreams, what was? 
+
+<br> 
+
+<https://www.rideapart.com/news/750398/1986-kawasaki-gpz900r-auction/>
+
+---
+
+## This Indian Startup Is Betting On Faster Electric Motorcycle Adoption
+
+date: 2025-02-12, from: Ride Apart, Electric Motorcycle News
+
+This is probably true, especially in countries that depend on motorcycles for day-to-day mobility.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750187/ola-electric-foresees-faster-ev-motorcycle-adoption/>
+
+---
+
+## How Much Would You Pay For This Mint, Still-Crated 1986 Honda Trike?
+
+date: 2025-02-12, from: Ride Apart, Electric Motorcycle News
+
+Someone successfully resisted riding this thing for decades, and it made them a whole lot of money. 
+
+<br> 
+
+<https://www.rideapart.com/news/750262/1986-honda-atc250r-crated/>
+
+---
+
+## Is Kawasaki Actually Serious About This New Motorcycle Voice Command Feature?
+
+date: 2025-02-12, from: Ride Apart, Electric Motorcycle News
+
+Would you pay an annual subscription just to talk to your motorcycle?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750280/kawasaki-voice-command-feature/>
 
 ---
 

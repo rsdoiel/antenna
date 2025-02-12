@@ -1,11 +1,208 @@
 ---
 title: socal north
-updated: 2025-02-11 07:08:47
+updated: 2025-02-12 07:08:33
 ---
 
 # socal north
 
-(date: 2025-02-11 07:08:47)
+(date: 2025-02-12 07:08:33)
+
+---
+
+## How to find a contractor to rebuild after LA fires
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+With building contractors in hot demand, the state licensing board is offering tips on how to find a reputable contractor. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/contractor-guide-rebuild-after-fires>
+
+---
+
+## Voters approved Measure HLA. Now the city needs to agree on a plan
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+L.A. leaders have yet to decide how to implement Measure HLA, which mandates street upgrades that prioritize cyclists, pedestrians and public transit. 
+
+<br> 
+
+<https://laist.com/news/transportation/measure-hla-planning-transportation-bikes-pedestrian-street-safety>
+
+---
+
+## Newsom declines to extend childcare provider benefits, but does order state to offer phone support
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+With fire relief money now lapsed, Gov. Newsom has ordered the state to reach out to providers to take them through what other benefits might be available to them. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/newsom-executive-order-childcare-provider-wildfire-call-assistance>
+
+---
+
+## Topanga Creek’s steelhead trout find a new home in Santa Barbara
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+The endangered fish were successfully relocated to Santa Barbara County after ash and debris from the Palisades Fire fouled their habitat. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/topanga-creeks-steelhead-trout-find-a-new-home-in-santa-barbara>
+
+---
+
+## Penalties for post-fire price gouging in LA County just got a lot more expensive
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+The L.A. County Board of Supervisors voted Tuesday to increase the maximum fine from $10,000 to $50,000. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-board-of-supervisors-vote-price-rent-gouging-penalty-50-thousand>
+
+---
+
+## LA’s Homeless Count needs more volunteers
+
+date: 2025-02-11, updated: 2025-02-12, from: The LAist
+
+As of Tuesday, around 3,400 volunteers had signed up. That's less than half of the total number of volunteers LAHSA requested. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/homeless-count-volunteers-los-angeles-sign-up-register>
+
+---
+
+## Canned tuna sold at Costco and Trader Joe's recalled over botulism risk
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+The voluntary recall covers 13 products sold at major grocery stores in 26 states and the District of Columbia. It was triggered by defective packaging that poses the risk of food poisoning. 
+
+<br> 
+
+<https://laist.com/news/food/canned-tuna-sold-at-costco-trader-joes-recalled-over-botulism-risk>
+
+---
+
+## Gutted courses, fewer majors, layoffs: Who will feel Cal State University’s 8% budget cut?
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+The California State University system is bracing for a cut of $375 million causing university officials to warn of fewer classes and faculty layoffs. 
+
+<br> 
+
+<https://laist.com/news/education/gutted-courses-fewer-majors-faculty-layoffs-cal-state-university-budget-cut>
+
+---
+
+## Judge orders restoration of federal health websites
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+The pages that are set to be revived include information for patients about HIV testing and HIV prevention medication, guidance on contraceptives and data on adolescent and youth mental health. 
+
+<br> 
+
+<https://laist.com/news/health/judge-orders-restoration-of-federal-health-websites>
+
+---
+
+## LA's top homelessness official signed $2.1 million contract with husband's employer
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+Government documents show Va Lecia Adams Kellum, who leads an agency that manages over $700 million in homeless services contracts each year, inked deals with the nonprofit where her husband is a senior staffer. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-services-authority-lahsa-va-lecia-adams-kellum-contracts-upward-bound-house>
+
+---
+
+## Huntington Beach's outspoken city attorney joins the Trump administration's Justice department
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+Michael Gates, who was first elected in 2014, calls the new job "an absolute honor, an absolute privilege." 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-city-attorney-joins-the-trump-administration-justice-department>
+
+---
+
+## South Pasadena Caltrans homes sell for thousands above asking
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+All of the proceeds from the sales, which were finalized before the fires, go into a new South Pasadena affordable housing fund. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/south-pasadena-caltrans-homes-sold-for-thousands-above-asking>
+
+---
+
+## Why clearing the brush around Los Angeles won't reduce wildfire danger
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+After thousands of homes were destroyed, many are looking for ways to make Los Angeles safer from wildfires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/brush-clearance-los-angeles-wont-reduce-wildfire-danger>
+
+---
+
+## The biggest storm of the year is about to hit. Prepare, but don't panic
+
+date: 2025-02-11, updated: 2025-02-11, from: The LAist
+
+Recently burned areas are likely to experience debris flows — especially during the heaviest periods of rain from Thursday afternoon through early Friday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/biggest-storm-year-february-mudslides-2025>
+
+---
+
+## LAPD Releases Name of Officer Involved in Pacoima Shooting
+
+date: 2025-02-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; The Los Angeles Police Department today released the name of the officer involved in a shooting at a Pacoima area motel that left a woman allegedly [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/11/lapd-releases-name-of-officer-involved-in-pacoima-shooting/">LAPD Releases Name of Officer Involved in Pacoima Shooting</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/11/lapd-releases-name-of-officer-involved-in-pacoima-shooting/>
+
+---
+
+## Dave Chappelle to Receive NAACP President’s Award in Pasadena
+
+date: 2025-02-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="512" height="717" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/wikipediaDaveChappelle.jpeg?fit=512%2C717&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/wikipediaDaveChappelle.jpeg?w=512&amp;ssl=1 512w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/wikipediaDaveChappelle.jpeg?resize=214%2C300&amp;ssl=1 214w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/wikipediaDaveChappelle.jpeg?resize=400%2C560&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/wikipediaDaveChappelle.jpeg?fit=512%2C717&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Comedian Dave Chappelle will be honored with the NAACP President&#8217;s Award at the 56th NAACP Image Awards in Pasadena this month,organizers announced today. The President&#8217;s Award [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/11/dave-chappelle-to-receive-naacp-presidents-award-in-pasadena/">Dave Chappelle to Receive NAACP President&#8217;s Award in Pasadena</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/11/dave-chappelle-to-receive-naacp-presidents-award-in-pasadena/>
 
 ---
 
@@ -49,7 +246,7 @@ But education researchers at Harvard and Stanford say there are bright spots —
 
 date: 2025-02-11, updated: 2025-02-11, from: The LAist
 
-Attorneys general from 22 states had filed a lawsuit seeking to block the policy that would dramatically change NIH's grant-making terms by limiting how much it will disburse for costs such as equipment and administration. 
+Attorneys general from 22 states had filed a lawsuit seeking to block the policy that would dramatically change NIH's grant-making by limiting how much it will disburse for overhead costs. 
 
 <br> 
 
@@ -109,7 +306,7 @@ After a hearing on Monday, a federal judge in Boston extended a stay on the dead
 
 date: 2025-02-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?w=1512&amp;ssl=1 1512w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?w=1512&amp;ssl=1 1512w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2022/03/rainmar28.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ANGELES (CNS) &#8211; Southland residents were living with cooler but dry conditions today, but forecasters warned that a strong storm system is making its way toward the region that [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/10/powerful-storm-expected-in-la-area-by-late-week/">Powerful Storm Expected in LA Area by Late Week</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -124,7 +321,7 @@ date: 2025-02-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="555" height="604" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?fit=555%2C604&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?w=555&amp;ssl=1 555w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?resize=276%2C300&amp;ssl=1 276w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?resize=400%2C435&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?fit=555%2C604&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="555" height="604" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?fit=555%2C604&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?w=555&amp;ssl=1 555w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?resize=276%2C300&amp;ssl=1 276w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?resize=400%2C435&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Burbank-Missing.jpg?fit=555%2C604&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>BURBANK (CNS) &#8211; Police sought the public&#8217;s assistance today in locating a 36-year-old man last seen in Burbank. Alejandro Sandoval was last seen on Jan. 28 near Lima Street and [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/10/police-seek-help-locating-missing-man-in-burbank/">Police Seek Help Locating Missing Man in Burbank</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
