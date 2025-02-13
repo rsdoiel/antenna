@@ -1,11 +1,165 @@
 ---
 title: food
-updated: 2025-02-12 07:08:37
+updated: 2025-02-13 07:09:13
 ---
 
 # food
 
-(date: 2025-02-12 07:08:37)
+(date: 2025-02-13 07:09:13)
+
+---
+
+## Spring Comes Early in Fort Worth with the New Ostara Coffee Roasters Cafe
+
+date: 2025-02-13, from: Daily Coffee News
+
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Ostara-Coffee-cafe-Fort-Worth-1-1-620x450.jpeg" class="attachment-large size-large wp-post-image" alt="Ostara Coffee cafe Fort Worth 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Ostara-Coffee-cafe-Fort-Worth-1-1-620x450.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Ostara-Coffee-cafe-Fort-Worth-1-1-300x218.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Ostara-Coffee-cafe-Fort-Worth-1-1-150x109.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Ostara-Coffee-cafe-Fort-Worth-1-1-768x557.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Ostara-Coffee-cafe-Fort-Worth-1-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A never-ending spring has sprung in Fort Worth, Texas, where women-owned Ostara Coffee Roasters&#8216; first brick-and-mortar location is now open for business. Named for the Pagan holiday that celebrates the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/13/spring-comes-early-in-fort-worth-with-the-new-ostara-coffee-roasters-cafe/>
+
+---
+
+## 5 Ways Technology Is Changing the Way We Eat
+
+date: 2025-02-13, from: Bon Appetet
+
+Advances in technology have already carried us and our food into a new age. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-future-of-food-is-now>
+
+---
+
+## Ground Beef Alfredo Pasta
+
+date: 2025-02-13, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/02/Ground-Beef-Alfredo-Pasta-1200-2820.jpg"/></div>
+<p>A quick and easy alfredo pasta with ground beef. Alfredo pasta is one of my favourites and it&#8217;s nice to add some meat! Normally I would top the pasta with some grilled or pan seared chicken, steak or shrimp but ground beef works really well in it! There is just something magical about that beefy...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/ground-beef-alfredo-pasta/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/ground-beef-alfredo-pasta/">Ground Beef Alfredo Pasta</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/ground-beef-alfredo-pasta/>
+
+---
+
+## The Secret Chick-fil-A Menu Hack You’ll Wish You Knew Sooner
+
+date: 2025-02-12, from: Taste of Home
+
+<p>You may not see a Chick-fil-A hot honey chicken sandwich on the menu, but this mouth-watering meal hack can happen with a strategic order.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chick-fil-a-hot-honey-chicken-sandwich/">The Secret Chick-fil-A Menu Hack You’ll Wish You Knew Sooner</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chick-fil-a-hot-honey-chicken-sandwich/>
+
+---
+
+## 15-Minute Teriyaki Chicken
+
+date: 2025-02-12, from: Bon Appetet
+
+Everyone’s favorite teriyaki glaze is shockingly easy and pantry-friendly. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/teriyaki-chicken-recipe>
+
+---
+
+## This Is Martha Stewart’s Secret Ingredient for a Perfect Mac and Cheese
+
+date: 2025-02-12, from: Taste of Home
+
+<p>It's the reason Martha's macaroni is ever-so-slightly pink.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/martha-stewart-mac-and-cheese/">This Is Martha Stewart&#8217;s Secret Ingredient for a Perfect Mac and Cheese</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/martha-stewart-mac-and-cheese/>
+
+---
+
+## Pepsi Zero Sugar vs. Coke Zero Sugar: Here’s the Difference
+
+date: 2025-02-12, from: Taste of Home
+
+<p>Coke Zero or Pepsi Zero: Which zero-sugar soda will fizz its way to the top?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/coke-zero-vs-pepsi-zero/">Pepsi Zero Sugar vs. Coke Zero Sugar: Here&#8217;s the Difference</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/coke-zero-vs-pepsi-zero/>
+
+---
+
+## Nectarous Brings Curated High-End Coffee Selections To Your Phone—No Subscription Required
+
+date: 2025-02-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Nectarous is a new SMS-based coffee service. 
+
+<br> 
+
+<https://sprudge.com/nectarous-brings-curated-high-end-coffee-selections-to-your-phone-no-subscription-required-274379.html>
+
+---
+
+## I Need Good Recipes for One
+
+date: 2025-02-12, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris, Jesse, and Kendra help listeners find inspiration and joy in cooking for themselves. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-good-recipes-for-one>
+
+---
+
+## STL Coffee Fest Comes To St. Louis  Later This Month
+
+date: 2025-02-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. STL Coffee Fest takes place Saturday, February 22nd at 18Rails inside City Foundry STL. 
+
+<br> 
+
+<https://sprudge.com/stl-coffee-fest-comes-to-st-louis-later-this-month-273124.html>
+
+---
+
+## Top Lot Gets $4,546/lb at Inaugural DMCC Specialty Coffee Auction in Dubai
+
+date: 2025-02-12, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Dubai-Coffee-Auction-620x413.webp" class="attachment-large size-large wp-post-image" alt="Dubai Coffee Auction" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Dubai-Coffee-Auction-620x413.webp 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dubai-Coffee-Auction-300x200.webp 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dubai-Coffee-Auction-150x100.webp 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dubai-Coffee-Auction-768x512.webp 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dubai-Coffee-Auction.webp 900w" sizes="(max-width: 620px) 100vw, 620px" /></div>The world of high-end coffee auctions reached gaudy new heights this week at the inaugural Dubai Multi Commodities Centre (DMCC) Specialty Coffee Auction, where multiple green coffees sold for thousands... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/12/top-lot-gets-4546-lb-at-inaugural-dmcc-specialty-coffee-auction-in-dubai/>
+
+---
+
+## Study: Coffee Reduces Type 2 Diabetes Risk, But Sweeteners Mess Things Up
+
+date: 2025-02-12, from: Daily Coffee News
+
+<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-with-sweetener-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="coffee with sweetener" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-with-sweetener-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-with-sweetener-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-with-sweetener-1-150x103.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-with-sweetener-1-768x530.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-with-sweetener-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A major new study found that drinking coffee is consistently linked to a lower risk of developing type 2 diabetes (T2D), although the protective effect is substantially weakened with the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/12/study-coffee-reduces-type-2-diabetes-risk-but-sweeteners-mess-things-up/>
 
 ---
 
@@ -13,7 +167,7 @@ updated: 2025-02-12 07:08:37
 
 date: 2025-02-12, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Luca &#038; Valentina collectors" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>There&#8217;s a type of espresso aficionado that becomes forever drawn to the hands-on experiences, quirky designs and fascinating mechanics of manual lever machines. For coffee people suffering from this affliction,... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Luca &#038; Valentina collectors" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Luca-Valentina-collectors.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>There&#8217;s a type of espresso aficionado that becomes forever drawn to the hands-on experiences, quirky designs and fascinating mechanics of manual lever machines. For coffee people suffering from this affliction,... 
 
 <br> 
 
@@ -159,7 +313,7 @@ The Ankarsrum Assistent doesn't look or work like any other mixer you can use at
 
 date: 2025-02-11, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Löfbergs Peter Larsen Kaffe" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>More than two decades after acquiring a 50% stake in Danish roasting company Peter Larsen Kaffe, Swedish coffee roasting company Löfbergs is acquiring a 100% stake. Claus Bertelsen, the longtime... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Löfbergs Peter Larsen Kaffe" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Lofbergs-Peter-Larsen-Kaffe.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>More than two decades after acquiring a 50% stake in Danish roasting company Peter Larsen Kaffe, Swedish coffee roasting company Löfbergs is acquiring a 100% stake. Claus Bertelsen, the longtime... 
 
 <br> 
 
@@ -195,7 +349,7 @@ Time to bring back a classic treat! We'll show you how to make a timeless strawb
 
 date: 2025-02-11, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Desert Sun coffee truck" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>As coffee professionals, we understand the importance of managing supply chains efficiently and securely. But what happens when that chain is compromised by cybercrime? Recently, I experienced a situation in... 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Desert Sun coffee truck" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Desert-Sun-coffee-truck.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>As coffee professionals, we understand the importance of managing supply chains efficiently and securely. But what happens when that chain is compromised by cybercrime? Recently, I experienced a situation in... 
 
 <br> 
 

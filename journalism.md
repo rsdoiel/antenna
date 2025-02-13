@@ -1,11 +1,304 @@
 ---
 title: journalism
-updated: 2025-02-12 07:08:35
+updated: 2025-02-13 07:09:11
 ---
 
 # journalism
 
-(date: 2025-02-12 07:08:35)
+(date: 2025-02-13 07:09:11)
+
+---
+
+## Federal judge stops plan to reduce NIH grants that could limit UC research funding
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+A federal judge halted a plan to cut National Institutes of Health grants in 22 states Monday, blocking a policy that would limit research funding across the UC. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/13/federal-judge-stops-plan-to-reduce-nih-grants-that-could-limit-uc-research-funding/>
+
+---
+
+## USC to partner with various research organizations to understand NIH freeze impact
+
+date: 2025-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Researchers are urged to continue the research uninterrupted.  </p>
+<p>The post <a href="https://dailytrojan.com/2025/02/13/usc-to-partner-with-various-research-organizations-to-understand-nih-freeze-impact/">USC to partner with various research organizations to understand NIH freeze impact</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/13/usc-to-partner-with-various-research-organizations-to-understand-nih-freeze-impact/>
+
+---
+
+## USC researchers discover method to fully recycle carbon fibers
+
+date: 2025-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The method can upcycle carbon fibers to restore 90% of the strength of original fibers.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/13/usc-researchers-discover-method-to-fully-recycle-carbon-fibers/">USC researchers discover method to fully recycle carbon fibers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/13/usc-researchers-discover-method-to-fully-recycle-carbon-fibers/>
+
+---
+
+## There were no winners in this year’s Super Bowl ads
+
+date: 2025-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Despite some relatively bright lights, the football broadcast’s commercials were underwhelming.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/13/there-were-no-winners-in-this-years-super-bowl-ads/">There were no winners in this year’s Super Bowl ads</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/13/there-were-no-winners-in-this-years-super-bowl-ads/>
+
+---
+
+## USAC appoints Joy Huang as new Facilities commissioner
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council voted unanimously Tuesday to appoint Joy Huang as its next Facilities commissioner.
+Huang, a third-year environmental science student, will succeed former Facilities Commissioner Alexandra Paul, who resigned in January. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/12/usac-appoints-joy-huang-as-new-facilities-commissioner/>
+
+---
+
+## PRIME: The Pad O’ Guys
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+“Frankly, I&#8217;m puzzled at you wanting to do a story about a 40-year-old, brief spat of screenwriting sales – a sort of temporary uptick or phenomenon – which had a bunch of nerds sitting around in a building.”
+I sat on a call with Shane Black, the creator of “Lethal Weapon” – and one of the best-paid screenwriters in Hollywood. 
+
+<br> 
+
+<https://features.dailybruin.com/2025/pad-o-guys-2025/>
+
+---
+
+## UCSA suit agreement halts Department of Government Efficiency student data access
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Trump administration agreed to pause Elon Musk&#8217;s Department of Government Efficiency&#8217;s access to student information after the UC Student Association sued to stop it. 
+The agreement will temporarily cease the disclosure of the United States Department of Education&#8217;s personal and financial information to DOGE through Monday. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/12/ucsa-suit-agreement-halts-department-of-government-efficiency-student-data-access/>
+
+---
+
+## Students, faculty evacuate lab classes following reports of unidentified odor
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and faculty in some lab classes were evacuated from Young Hall after unidentified odors were reported.
+Students reported smelling an unidentified odor around 3:15 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/12/students-faculty-evacuate-lab-classes-following-reports-of-unidentified-odor/>
+
+---
+
+## Chancellor Julio Frenk announces suspension of two pro-Palestine student groups
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 12 at 6:40 p.m.</em>
+Chancellor Julio Frenk announced Wednesday that the university suspended two pro-Palestine groups at UCLA.
+The move, announced in a campuswide email, comes after around 50 members of the two groups – Students for Justice in Palestine and Graduate Students for Justice in Palestine – protested outside of UC Regent Jay Sures’ Brentwood home Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/12/chancellor-julio-frenk-announces-suspension-of-two-pro-palestine-student-groups/>
+
+---
+
+## On The Steps Episode 3: UCLA First Thursdays gives back to fire victims
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+This week, we take you to UCLA First Thursdays as the bruin community comes together to support Angelenos effected by the recent wildfires. Then, we look at the music school&#8217;s faculty concert series and Softball&#8217;s opening tournament agains Indiana University. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/12/on-the-steps-episode-3-ucla-first-thursdays-gives-back-to-fire-victims/>
+
+---
+
+## Second Take: Minimalism endorses simplicity but mutes cultural, personal vibrancy
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Minimalism champions restraint yet kneels to the austere.
+Minimalism, often heralded as the pinnacle of aesthetic sophistication, has long dictated trends in design, fashion and, ultimately, lifestyle. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/12/second-take-minimalism-endorses-simplicity-but-mutes-cultural-personal-vibrancy/>
+
+---
+
+## UCLA Men’s Tennis Take On Cal Berkeley
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA men&#8217;s tennis took on our neighbors to the north, Cal Berkeley, in a fight between the Bruins and the Bears. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/12/ucla-mens-tennis-take-on-cal-berkeley/>
+
+---
+
+## Cherry Pop Records
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin reporter Amara Patel provides an inside look on UCLA&#8217;s own student-run record label, Cherry Pop Records. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/12/cherry-pop-records/>
+
+---
+
+## USC expects 10% acceptance rate for Class of 2029
+
+date: 2025-02-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University received about 83,000 applicants for the incoming freshman class.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/12/227041/">USC expects 10% acceptance rate for Class of 2029</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/12/227041/>
+
+---
+
+## ‘El cielo es el límite’: Occidental College celebra la inauguración del Instituto de Música John Branca
+
+date: 2025-02-12, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental College celebró el establecimiento de su programa más reciente con un concierto que incluyó presentaciones de grupos de a capella, un conjunto de Jazz, el coro, la Orquesta Sinfónica y un conjunto de profesores el 18 de octubre. El Instituto de Música John Branca fue anunciado por primera vez en junio después de que [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/02/12/el-cielo-es-el-limite-occidental-college-celebra-la-inauguracion-del-instituto-de-musica-john-branca/2914210">‘El cielo es el límite’: Occidental College celebra la inauguración del Instituto de Música John Branca</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/02/12/el-cielo-es-el-limite-occidental-college-celebra-la-inauguracion-del-instituto-de-musica-john-branca/2914210>
+
+---
+
+## Casi dos meses después de una inundación, la torre del campanario de Occidental vuelve a sonar
+
+date: 2025-02-12, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>La torre de campanas de Occidental volvió a sonar el 3 de octubre para el año académico 2024–2025. Anteriormente, la torre había dejado de funcionar debido a una inundación de ocho pulgadas en la sala de calderas del Centro de Estudiantes Johnson (JSC, por sus siglas en inglés) ocurrida el pasado 11 de agosto, según [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/02/12/casi-dos-meses-despues-de-una-inundacion-la-torre-del-campanario-de-occidental-vuelve-a-sonar/2914207">Casi dos meses después de una inundación, la torre del campanario de Occidental vuelve a sonar</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/02/12/casi-dos-meses-despues-de-una-inundacion-la-torre-del-campanario-de-occidental-vuelve-a-sonar/2914207>
+
+---
+
+## Veteran Resources at The Blend
+
+date: 2025-02-12, from: The Sundail (CSUN Student Newspaper)
+
+Every month, the Veterans Resource Center (VRC) hosts an event called “The Blend,” where a community organization showcases resources for student veterans. “Our Blend event is a variety of on... 
+
+<br> 
+
+<https://sundial.csun.edu/189852/news/veterans-resources-at-the-blend/>
+
+---
+
+## Listening Impact Circles launch with hope of people truly listening
+
+date: 2025-02-12, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Listening Impact Circles, the first initiative of the Presidential Advisory Group for Community and Dialogue (PAGCD) established last fall by President Tom Stritikus, begin Feb. 12. Interim Vice President for Student Affairs and Dean of Students Vivian Garay Santiago said these sessions were proposed to help develop spaces for dialogue and exchange of ideas and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/02/12/listening-impact-circles-launch-with-hope-of-people-truly-listening/2914150">Listening Impact Circles launch with hope of people truly listening</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/02/12/listening-impact-circles-launch-with-hope-of-people-truly-listening/2914150>
+
+---
+
+## Aleem Hossain’s ‘Weird Short Films’ inspires discussion about technology and the future of filmmaking
+
+date: 2025-02-12, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Media Arts &#38; Culture (MAC) Professor Aleem Hossain showcased “Three Weird Short Films” Feb. 6 to students, professors and Occidental community members at Choi Auditorium. A Q&#38;A session followed the screening, moderated by Jonathan Wysocki, an award-winning local filmmaker, previous visiting professor at Occidental and long-time peer of Hossain. Hossain said the short films are recent works, most of which were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/12/aleem-hossains-weird-short-films-inspires-discussion-about-technology-and-the-future-of-filmmaking/2914189">Aleem Hossain&#8217;s &#8216;Weird Short Films&#8217; inspires discussion about technology and the future of filmmaking</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/12/aleem-hossains-weird-short-films-inspires-discussion-about-technology-and-the-future-of-filmmaking/2914189>
+
+---
+
+## Oxy Live! with Ed Ruscha provides Occidental students with artistic insights
+
+date: 2025-02-12, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Oxy Live! A Conversation with Ed Ruscha hosted by Paul Holdengräber centered around themes underscoring the artist&#8217;s work, which began with a career studying commercial art at Chouinard in LA. According to Arthur G. Coons Professor in the History of Ideas Amy Lyford, Ruscha soon became enmeshed in the burgeoning pop art scene, which investigated contemporary commercialism and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/12/oxy-live-with-ed-ruscha-provides-occidental-students-with-artistic-insights/2914185">Oxy Live! with Ed Ruscha provides Occidental students with artistic insights</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/12/oxy-live-with-ed-ruscha-provides-occidental-students-with-artistic-insights/2914185>
+
+---
+
+## ‘An act of self-love’: Real Talk Series focuses on Demystifying Grief
+
+date: 2025-02-12, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>“Grief looks different for everyone — your relationship with grief does not have to look like someone else’s.” Along with coming in with an open mind, this was one of the community agreements participants read at the first event of the Real Talk: Demystifying Grief series, a conversation-based program facilitated by the Office of Equity [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/12/an-act-of-self-love-real-talk-series-focuses-on-demystifying-grief/2914183">&#8216;An act of self-love&#8217;: Real Talk Series focuses on Demystifying Grief</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/12/an-act-of-self-love-real-talk-series-focuses-on-demystifying-grief/2914183>
+
+---
+
+## Artist of the Week: Crochet artist Syd Neff stitches together community
+
+date: 2025-02-12, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Syd Neff (senior) said he first picked up the art of crochet in the spring of his first year at Occidental when he was drawn to a bok choy stuffed animal that his hall mate, Talise Snyder (senior), had crocheted. Now, Neff said he is in his second year producing Occidental&#8217;s student-run fashion show, where [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/12/artist-of-the-week-crochet-artist-syd-neff-stitches-together-community/2914181">Artist of the Week: Crochet artist Syd Neff stitches together community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/12/artist-of-the-week-crochet-artist-syd-neff-stitches-together-community/2914181>
 
 ---
 
@@ -69,7 +362,7 @@ date: 2025-02-12, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-02-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-A new matcha brand is mixing up Los Angeles&#8217; caffeine scene &#8211; and is now in Westwood.
+A new matcha brand is mixing up Los Angeles’ caffeine scene – and is now in Westwood.
 Ministry of Coffee added Nekohama matcha to its menu in October. 
 
 <br> 
@@ -159,7 +452,7 @@ The Undergraduate Students Association Council declared its lack of confidence i
 
 date: 2025-02-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Feb. 12 at 12:29 a.m.</em>
+<em>This post was updated Feb. 12 at 3:57 p.m.</em>
 Former Israeli politician and peace negotiator Yossi Beilin said during a Thursday lecture at UCLA that peace between Israel and Palestine is possible. 
 
 <br> 

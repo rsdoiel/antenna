@@ -1,11 +1,322 @@
 ---
 title: home
-updated: 2025-02-12 07:08:35
+updated: 2025-02-13 07:09:11
 ---
 
 # home
 
-(date: 2025-02-12 07:08:35)
+(date: 2025-02-13 07:09:11)
+
+---
+
+## Sedum Plant (Stonecrop) Care and Growing Guide (Most Detailed)
+
+date: 2025-02-13, from: Yard Life blog
+
+<p>Sedum, commonly known as stonecrop, is a versatile and low-maintenance succulent that thrives in various climates and conditions. With its ... </p>
+<p class="read-more-container"><a title="Sedum Plant (Stonecrop) Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/sedum-plant-stonecrop-care-and-growing-guide-most-detailed/#more-23427" aria-label="Read more about Sedum Plant (Stonecrop) Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/sedum-plant-stonecrop-care-and-growing-guide-most-detailed/">Sedum Plant (Stonecrop) Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/sedum-plant-stonecrop-care-and-growing-guide-most-detailed/>
+
+---
+
+## 9 of the Best Celery Cultivars for Your Garden
+
+date: 2025-02-13, from: The Gardener's Path
+
+<p>If you want to grow your own celery, you may not know that there are several different varieties available, including self-blanching types, bolt-resistant varieties, and even a unique cultivar with purple stems! Discover 9 of the best celery cultivars to grow at home and choose your favorite now. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-celery-cultivars/">9 of the Best Celery Cultivars for Your Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-celery-cultivars/>
+
+---
+
+## Bearded Dragon Lifespan: What Every Owner Should Know
+
+date: 2025-02-13, from: Yard Life blog
+
+<p>Bearded dragons are among the most beloved reptile pets worldwide, known for their docile nature, manageable size, and captivating behaviors. ... </p>
+<p class="read-more-container"><a title="Bearded Dragon Lifespan: What Every Owner Should Know" class="read-more button" href="https://ownyardlife.com/bearded-dragon-lifespan-what-every-owner-should-know/#more-23418" aria-label="Read more about Bearded Dragon Lifespan: What Every Owner Should Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/bearded-dragon-lifespan-what-every-owner-should-know/">Bearded Dragon Lifespan: What Every Owner Should Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/bearded-dragon-lifespan-what-every-owner-should-know/>
+
+---
+
+## Panther Chameleon Lifespan: How Long Do They Live in Captivity?
+
+date: 2025-02-13, from: Yard Life blog
+
+<p>Panther chameleons (Furcifer pardalis) are among the most colorful and captivating reptiles in the pet trade. Native to Madagascar, these ... </p>
+<p class="read-more-container"><a title="Panther Chameleon Lifespan: How Long Do They Live in Captivity?" class="read-more button" href="https://ownyardlife.com/panther-chameleon-lifespan-how-long-do-they-live-in-captivity/#more-23414" aria-label="Read more about Panther Chameleon Lifespan: How Long Do They Live in Captivity?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/panther-chameleon-lifespan-how-long-do-they-live-in-captivity/">Panther Chameleon Lifespan: How Long Do They Live in Captivity?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/panther-chameleon-lifespan-how-long-do-they-live-in-captivity/>
+
+---
+
+## Crested Gecko Humidity: Tips for a Healthy Environment
+
+date: 2025-02-13, from: Yard Life blog
+
+<p>Crested geckos, known for their striking appearance and gentle nature, have become popular pets worldwide. These nocturnal reptiles are native ... </p>
+<p class="read-more-container"><a title="Crested Gecko Humidity: Tips for a Healthy Environment" class="read-more button" href="https://ownyardlife.com/crested-gecko-humidity-tips-for-a-healthy-environment/#more-23410" aria-label="Read more about Crested Gecko Humidity: Tips for a Healthy Environment">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/crested-gecko-humidity-tips-for-a-healthy-environment/">Crested Gecko Humidity: Tips for a Healthy Environment</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/crested-gecko-humidity-tips-for-a-healthy-environment/>
+
+---
+
+## What Foods Can Bearded Dragons Eat Daily?
+
+date: 2025-02-13, from: Yard Life blog
+
+<p>Bearded dragons are popular pets known for their unique appearance and friendly nature. As omnivores, they require a balanced diet ... </p>
+<p class="read-more-container"><a title="What Foods Can Bearded Dragons Eat Daily?" class="read-more button" href="https://ownyardlife.com/what-foods-can-bearded-dragons-eat-daily/#more-23406" aria-label="Read more about What Foods Can Bearded Dragons Eat Daily?">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-foods-can-bearded-dragons-eat-daily/">What Foods Can Bearded Dragons Eat Daily?</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-foods-can-bearded-dragons-eat-daily/>
+
+---
+
+## 50 Perennial Flowers That Bloom All Summer (With Pictures)
+
+date: 2025-02-13, from: Yard Life blog
+
+<p>Perennial flowers are a gardener&#8217;s best friend, especially those that bloom all summer long. Unlike annuals that need replanting each ... </p>
+<p class="read-more-container"><a title="50 Perennial Flowers That Bloom All Summer (With Pictures)" class="read-more button" href="https://ownyardlife.com/50-perennial-flowers-that-bloom-all-summer-with-pictures/#more-23361" aria-label="Read more about 50 Perennial Flowers That Bloom All Summer (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-perennial-flowers-that-bloom-all-summer-with-pictures/">50 Perennial Flowers That Bloom All Summer (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-perennial-flowers-that-bloom-all-summer-with-pictures/>
+
+---
+
+## Sweet Pea Flowers Care and Growing Guide (Most Detailed)
+
+date: 2025-02-13, from: Yard Life blog
+
+<p>Sweet pea flowers, with their delicate petals and enchanting fragrance, have captivated gardeners for centuries. These charming blooms come in ... </p>
+<p class="read-more-container"><a title="Sweet Pea Flowers Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/sweet-pea-flowers-care-and-growing-guide-most-detailed/#more-23388" aria-label="Read more about Sweet Pea Flowers Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/sweet-pea-flowers-care-and-growing-guide-most-detailed/">Sweet Pea Flowers Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/sweet-pea-flowers-care-and-growing-guide-most-detailed/>
+
+---
+
+## Before and After: Modern Boho Magic on “Help! I Wrecked My House – Season 4, Episode 5”
+
+date: 2025-02-13, from: PHB blog
+
+<p>Embark on a transformative journey with us as we take you behind the scenes of our collaboration with Help! I Wrecked My House in Season 4, Episode 5. In this captivating episode, we faced a disaster of a space and embarked on a mission to turn it into a dream home.</p>
+<p>The post <a href="https://friendlycontractor.com/adu-home-additions-in-los-angeles-transforming-living-spaces-and-communities-copy/">Before and After: Modern Boho Magic on “Help! I Wrecked My House – Season 4, Episode 5”</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/adu-home-additions-in-los-angeles-transforming-living-spaces-and-communities-copy/>
+
+---
+
+## ADU Home Additions in Los Angeles: Transforming Living Spaces and Communities
+
+date: 2025-02-13, from: PHB blog
+
+<p>Accessory Dwelling Units (ADUs) are becoming an increasingly popular solution to housing shortages and rising real estate costs in urban areas. In Los Angeles, where the housing crisis is particularly acute, ADUs offer a practical and versatile solution. These secondary housing units, which can be attached or detached from the main property, provide additional living [&#8230;]</p>
+<p>The post <a href="https://friendlycontractor.com/adu-home-additions-in-los-angeles-transforming-living-spaces-and-communities/">ADU Home Additions in Los Angeles: Transforming Living Spaces and Communities</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/adu-home-additions-in-los-angeles-transforming-living-spaces-and-communities/>
+
+---
+
+## Black History Month — CDFA panel discussion on history, contributions, and progress
+
+date: 2025-02-12, from: Calfifornia Dept. Aggriculture blog
+
+CDFA&#8217;s Diversity, Equity, and Inclusion (DEI) Committee and the agency&#8217;s Office of Civil Rights hosted a Black History Month panel discussion this week. Moderated by CDFA Deputy Secretary of Administration and Finance Arima Kozina, the event highlighted the stories, experiences, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28562">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28562>
+
+---
+
+## Are These Lego-Like Bricks the Future of Construction?
+
+date: 2025-02-12, from: Family Handyman Blog
+
+<p>Discover the benefits of RENCO bricks, an intriguing Lego-shaped construction material.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-are-renco-bricks/">Are These Lego-Like Bricks the Future of Construction?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-are-renco-bricks/>
+
+---
+
+## Sunset Teamed up with Pendleton on a Limited-Edition Blanket—Here’s How to Get It
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+Sunset has team up with Pendleton to create a limited-edition blanket with artwork from a 1932 cover. It's available now at Modernism Week. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/sunset-pendleton-blanket>
+
+---
+
+## Removing Mold From Shower Calking, Step by Step
+
+date: 2025-02-12, from: Family Handyman Blog
+
+<p>When mold is growing on shower caulk, and not behind it, removal is fairly easy. In this post, a professional cleaner shows you how to do it.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/remove-mold-from-shower-caulking/">Removing Mold From Shower Calking, Step by Step</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/remove-mold-from-shower-caulking/>
+
+---
+
+## This Scandinavian-Style Home Was Designed to Withstand Snow and Fire
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+Every design choice in this house was made with the surrounding environment in mind, so it is fire- and snow-resilient. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/lake-tahoe-fire-and-snow-resilient-home>
+
+---
+
+## Here’s Everything Worth Buying During IKEA’s Big Sleep Sale
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+IKEA’s Sleep Event will help you upgrade your bedroom for a better night's sleep. Save on mattresses, bedding, pillows, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/ikea-sleep-sale-2025>
+
+---
+
+## Budget Breakdown: $49K of Curvy Cabinetry Solved This NYC Couple’s Storage Conundrum
+
+date: 2025-02-12, from: Dwell
+
+Architect Fareez Giga deploys a suite of custom built-ins to upgrade a 715-square-foot flat for a bibliophile and a passionate cook. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-astoria-apartment-renovation-fareez-giga-design-custom-cabinetry-1c92d16b>
+
+---
+
+## This Is How a Professional Organizer Packs Her Suitcase
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+A professional organizer shares her travel packing strategy. Use her tips to stay organized before, during, and after your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-packing-organization-tips>
+
+---
+
+## In London, an Earth-Toned Home Topped With a Green Roof Seeks $1.8M
+
+date: 2025-02-12, from: Dwell
+
+The minimalist-three bedroom home is made of brick, timber, and brushed steel—and it sports an especially striking stair. 
+
+<br> 
+
+<https://www.dwell.com/article/minimalist-home-renovation-nikjoo-architects-falwk-london-real-estate-2e37fe89>
+
+---
+
+## Can You Toss Pizza Boxes in the Recycling Bin? The Truth Revealed
+
+date: 2025-02-12, from: Family Handyman Blog
+
+<p>Which bin does your pizza box really belong in?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/can-you-recycle-pizza-boxes/">Can You Toss Pizza Boxes in the Recycling Bin? The Truth Revealed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/can-you-recycle-pizza-boxes/>
+
+---
+
+## Half the Floor Plan Is Outdoors at This Off-Grid Prefab in Washington
+
+date: 2025-02-12, from: Dwell
+
+Seattle firm Wittman Estes tests a modular concept designed to engage with its setting—in this case, Whidbey Island. 
+
+<br> 
+
+<https://www.dwell.com/article/wittman-estes-puzzle-prefab-modular-home-building-system-040199c2>
+
+---
+
+## How to Plant and Grow Turban Squash
+
+date: 2025-02-12, from: The Gardener's Path
+
+<p>Turban, aka Turk's turban squash is a winter variety instantly recognizable with its colorful, funky-shaped fruits that can weigh over five pounds. While not the most flavorful, the gourds can be used for stuffing and they make wonderful additions to autumn displays. Learn how to plant and grow Turk's turban in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-turban-squash/">How to Plant and Grow Turban Squash</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-turban-squash/>
+
+---
+
+## A Guide to Removing Surface Mold Safely and Quickly
+
+date: 2025-02-12, from: Family Handyman Blog
+
+<p>If your shower or walls are starting to look a little funky, here's how to safely remove that surface mold.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-clean-surface-mold/">A Guide to Removing Surface Mold Safely and Quickly</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-clean-surface-mold/>
 
 ---
 
@@ -18,6 +329,54 @@ In the 1989 comedy, the gaudy Long Island home of Meryl Streep’s character cap
 <br> 
 
 <https://www.dwell.com/article/a-love-letter-to-the-she-devil-mansion-a-barbie-dreamhouse-turned-villains-lair-353a6602>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## The Ultimate Insider Guide to Joshua Tree and the High Desert
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+A local shares her tips on what to do, eat, drink, and see in Joshua Tree and the other High Desert communities. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/what-do-in-joshua-tree-high-desert>
+
+---
+
+## Insider Guide: Palm Springs, California
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+In this insider guide, Christine Soto, owner of Dead or Alive Bar + Shop, shares her travel tips for exploring Palm Springs, California. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/palm-springs-california-things-to-do>
+
+---
+
+## The Ultimate Scottsdale, Arizona Itinerary
+
+date: 2025-02-12, from: Sunset Magazine - Living in the West
+
+This gem in the Sonoran Desert has so much to offer. Here's what to eat, do, shop, and more in Scottsdale, according to a local. 
+
+<br> 
+
+<https://www.sunset.com/travel/insider-guides/scottsdale-arizona-things-to-do>
 
 ---
 
@@ -146,19 +505,7 @@ date: 2025-02-11, from: Family Handyman Blog
 
 ---
 
-## Here’s Everything Worth Buying During IKEA’s Big Sleep Sale
-
-date: 2025-02-11, from: Sunset Magazine - Living in the West
-
-IKEA’s Sleep Event will help you upgrade your bedroom for a better night's sleep. Save on mattresses, bedding, pillows, and more. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/ikea-sleep-sale-2025>
-
----
-
-## Two Artists Lovingly Restored This $740k Florida Bungalow
+## Two Artists Lovingly Restored This $740K Florida Bungalow
 
 date: 2025-02-11, from: Dwell
 
@@ -167,6 +514,18 @@ The couple documented their DIY updates to the 1920s home, and gained a social m
 <br> 
 
 <https://www.dwell.com/article/casa-de-nunez-st-petersburg-bungalow-renovation-real-estate-d4364a90>
+
+---
+
+## The Muscle-Boosting Gardening Tip You Didn’t Know You Needed
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+Gardening isn’t just about tending to plants. Anyone who gets their hands dirty knows it’s a full-body workout. Here's how to train for it. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/gardening-as-a-workout>
 
 ---
 
@@ -205,6 +564,18 @@ Don't be one of those rude diners at a restaurant. Insiders explain the restuara
 <br> 
 
 <https://www.sunset.com/food-wine/restaurants/bad-restaurant-etiquette>
+
+---
+
+## These Recipes Are the Epitome of California Comfort Cooking—and They’re from L.A.’s Best New Wine Bar
+
+date: 2025-02-11, from: Sunset Magazine - Living in the West
+
+Bar Etoile in L.A.'s Melrose Hill district is setting the bar high for a new model of wine bars in the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/bar-etoile-los-angeles-recipes>
 
 ---
 
@@ -301,18 +672,6 @@ date: 2025-02-11, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/how-big-will-a-leopard-gecko-get-growth-stages-care-tips/>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-02-11, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

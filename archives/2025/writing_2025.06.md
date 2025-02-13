@@ -1,11 +1,145 @@
 ---
 title: writing
-updated: 2025-02-12 07:08:34
+updated: 2025-02-13 07:09:10
 ---
 
 # writing
 
-(date: 2025-02-12 07:08:34)
+(date: 2025-02-13 07:09:10)
+
+---
+
+## Scriptnotes, Episode 675: Say Nothing with Joshua Zetumer, Transcript
+
+date: 2025-02-12, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. A standard warning for people who are in the car with their kids, there’s some swearing in this episode. Craig Mazin: Hello and welcome. My name is Craig Mazin, and this is Scriptnotes, a podcast about screenwriting and things [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-675-say-nothing-with-joshua-zetumer-transcript">Scriptnotes, Episode 675: Say Nothing with Joshua Zetumer, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-675-say-nothing-with-joshua-zetumer-transcript>
+
+---
+
+## Hill-Agnus Wins 2024 Albertine Translation Prize
+
+date: 2025-02-12, from: Locus Magazine
+
+<p>The 2024 Albertine Translation Prize, which honors American publishers of French works translated into English, has been announced by Villa Albertine. The fiction prize was awarded to translator Eve Hill-Agnus for her translation of <strong>Ultramarine</strong> by Mariette Navarro (Deep Vellum), a seafaring novel with speculative elements.</p>
+<p>Villa Albertine is the cultural and educational division of the French Embassy in the U.S. The Prize winners are selected by a committee of  <a href="https://locusmag.com/2025/02/hill-agnus-wins-2024-albertine-translation-prize/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/hill-agnus-wins-2024-albertine-translation-prize/>
+
+---
+
+## ⚖️ The Balance of Power
+
+date: 2025-02-12, from: Interesting, a blog on writing
+
+And who has the power to say what counts as balanced. 
+
+<br> 
+
+<https://inneresting.substack.com/p/the-balance-of-power>
+
+---
+
+## 2025 PEN/Faulkner Longlist
+
+date: 2025-02-12, from: Locus Magazine
+
+<p>The ten-title 2025 PEN/Faulkner longlist for fiction has been announced, with a number of titles and authors of genre interest, including:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Ghostroots</strong>, ’Pemi Aguda (Norton)</li>
+<li><strong>The Mighty Red</strong>, Louise Erdrich (Harper)</li>
+<li><strong>James</strong>, Percival Everett (Doubleday)</li>
+<li><strong>There Is a Rio Grande in Heaven</strong>, Ruben Reyes, Jr. (Mariner)</li>
+<li><strong>Devil Is Fine</strong>, John Vercher (Celadon)</li>
+</ul>
+<p>The prize &#8220;honors the best published works of fiction by American citizens in </p></div> <a href="https://locusmag.com/2025/02/2025-pen-faulkner-longlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-pen-faulkner-longlist/>
+
+---
+
+## 2024 Highland Book Prize Longlist
+
+date: 2025-02-12, from: Locus Magazine
+
+<p>The longlist for the 2024 Highland Book Prize (Duais Leabhair na Gàidhealtachd) has been announced. Some titles of genre interest are amongst the 12 longlisted titles, including:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Storm’s Edge: Life, Death and Magic in the Islands of Orkney</strong>, Peter Marshall (William Collins)</li>
+<li><strong>Gliff</strong>, Ali Smith (Hamish Hamilton/Pantheon)</li>
+<li><strong>The Island at the Edge of Night</strong>, Lucy Strange (Chicken House)</li>
+</ul>
+<p>The Prize&#8217;s website states:</p>
+<p style="padding-left: 40px;">The Highland Book Prize, established </p></div> <a href="https://locusmag.com/2025/02/2024-highland-book-prize-longlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2024-highland-book-prize-longlist/>
+
+---
+
+## The Year in Review 2024 by Arley Sorg
+
+date: 2025-02-12, from: Locus Magazine
+
+<p>What happened, 2024? Where did we all go wrong?</p>
+<p>Even if it was a weird, rocky, stressful year in many ways, it was still another great year for fiction! After closing Fantasy Magazine in late 2023 I became a literary agent at kt literary, which meant that a lot of my read­ing time went to novel submissions. I retained my post as a reviewer for Lightspeed, among various other roles  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-arley-sorg/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-arley-sorg/>
+
+---
+
+## The Year in Review 2024 by Alexandra Pierce
+
+date: 2025-02-12, from: Locus Magazine
+
+<p>I’m going to focus here on the best books I read this year by women and nonbinary folks, and also separate them into a few categories; I need some way to organise my thoughts.</p>
+<p><strong>Novellas </strong></p>
+<p>Three amazing novellas stand out for 2024. Ann LeBlanc’s debut novella, <strong>The Transitive Prop­erties of Cheese </strong>is superficially a cheese heist in space; it also has a lot to say about bodies and identity and  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-alexandra-pierce/>
+
+---
+
+## Meera Menon on Breaking Zombie Genre Rules in ‘Didn't Die’
+
+date: 2025-02-12, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/meera-menon-breaking-zombie-genre-rules" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Kiran%20Deol%20wears%20headphones%20and%20stands%20next%20to%20a%20old%20vintage%20microphone%20staring%20of%20into%20the%20distance%20in%20Didnt%20Die%20%282025%29.png" alt="Kiran Deol wears headphones and stands next to an old vintage microphone, staring of into the distance in 'Didn't Die' (2025)" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>As screenwriters, we probably all have some variation of this dream—to make a film, and get accepted into a prestigious festival like Sundance or SXSW, and stand on the stage afterward to face an applauding crowd.<br><br>It’s a great dream. But how do you create a screenplay, and final project, that stands out among thousands of submissions?&nbsp;<br><br>To add another layer of potential difficulty, what if you’re making a genre film that some might see as overplayed? In this case, what if you make a <a href="https://blog.finaldraft.com/writer-director-abe-forsythe-serves-up-big-fun-in-little-monsters">movie with zombies</a>?&nbsp;<br><br>Since George Romero took us into that isolated farmhouse in <span style="font-style: italic;">Night of the Living Dead</span>, zombies have been something of a mainstay, appearing in almost every flavor of story under the sun.<br><br>Except, perhaps, as stand-ins for grief in a post-apocalyptic story following a snarky podcaster.<br><br>That’s loosely the plot of <span style="font-style: italic;">Didn’t Die</span>, which premiered in the Midnight section at the 2025 Sundance Film Festival.<br><br>Co-written and directed by <a href="https://www.imdb.com/name/nm3652021/">Meera Menon</a>, the film follows Vinita (<a href="https://www.imdb.com/name/nm1454280/?ref_=tt_cst_t_1">Kiran Deol</a>), a podcast host working during the zombie apocalypse while clinging to a thinning audience.&nbsp;<br><br>Rather than following traditional zombie tropes, Menon and co-writer Paul Gleason created something more intimate and smaller in scale—a quiet meditation on loss, survival, and finding meaning at the end of the world.<br><br>Menon is an experienced writer/director, whose work as director includes episodes of <span style="font-style: italic;">Westworld, Ms. Marvel, For All Mankind, The Terror,</span> and even <span style="font-style: italic;">The Walking Dead</span> (hey!). As a writer, her experience is in shorts and indies.&nbsp;<br><br>What’s interesting about her team’s approach is the film’s unconventional development. Working from a 40-page script, they built scenes through actor collaboration and on-set improv.<br><br>We talked with Menon about her writing process to uncover insights for screenwriters who want to <a href="https://blog.finaldraft.com/what-genre-is-my-screenplay">play in established genres</a>. She suggests that sometimes the best path forward isn’t following traditional rules. It might be more important to find your voice, and stick to it.<br><br><span style="font-weight: bold;">Final Draft: You talk about the film coming from a place of experiencing a lot of loss and catastrophe. What do you think is so therapeutic or cathartic about writing from these experiences?</span><br><br><span style="font-weight: bold;">Meera Menon</span>: It’s interesting because we made the film before experiencing a lot of loss recently. I think we wrote it from a place of fear and a search for answers.&nbsp;<br><br>Our movie has a lot of ideas batting around, and the script was developed in conversation with the actors. We asked ourselves, “What would you hold onto if the entire world around you fell apart?” Unfortunately we find ourselves asking that question too often these days.&nbsp;<br><br><span style="font-weight: bold;">Final Draft: What came first—the zombie story or the podcast host character? How did you develop the initial idea?</span><br><br><span style="font-weight: bold;">Menon</span>: The initial concept was to make a more character focused, meditative film set in the zombie apocalypse. We were very explicitly not looking to make <a href="https://blog.finaldraft.com/why-horror-never-dies">a horror film</a>, but rather, use the world to tell more of a ghost story, about living with the dead.&nbsp;<br><br>So the zombie story came first, and we felt that Kiran would be a dynamic hero at the center of the story, one who could carry the microphone quite literally.&nbsp;<br><br><span style="font-weight: bold;">Final Draft: You co-wrote the film with Paul Gleason. Could you describe your collaborative writing process?</span><br><br><span style="font-weight: bold;">Menon</span>: Paul and I wrote an <a href="https://www.finaldraft.com/learn/how-to-outline-a-screenplay/">outline</a> for the film that we gradually fleshed out with the actors. We held Zoom sessions with them in various groups to fill out their backstories and then let them largely improvise on set.&nbsp;<br><br>The entire process was very quick, very collaborative, very iterative. We wrote the first outline in September and were shooting in December.&nbsp;<br><br><span style="font-weight: bold;">Final Draft: The film is described as a dramedy. What’s your advice for finding that tone on the page?</span><br><br><span style="font-weight: bold;">Menon</span>: For me, this film was an experiment. The story navigates a journey through grief, and that is not a linear journey. One moment you are crying, the next laughing hysterically. I deliberately wanted to switch track between humor, dread, and poignancy because I feel like that is the journey that grief takes you on.&nbsp;<br><br>So I think tone is all about intention. And as long as your intention is clear, you can go anywhere you want.&nbsp;<br><br><span style="font-weight: bold;">Final Draft: The press notes mention you worked from a 40-page script. What made you decide to keep the script shorter and leave room for improvisation?</span><br><br><span style="font-weight: bold;">Menon</span>: I wanted to keep a light foot because we made this film quite quickly, with so few resources and the smallest of crews. Being loose with a script allowed us to make choices based on what worked, and not what the script was dictating.&nbsp;<br><br>You have to be open to the moment, always, but especially when the fun of the moment is your only and primary resource.&nbsp;<br><br><span style="font-weight: bold;">Final Draft: What’s your daily writing routine like when you’re working on a screenplay?</span><br><br><span style="font-weight: bold;">Menon</span>: I’m a morning person, so it’s usually 3-4 hours at my computer in the morning and then a lot of watching other movies in the afternoon.&nbsp;<br><br><span style="font-weight: bold;">Final Draft: What was the biggest writing challenge you faced with this project?</span><br><br><span style="font-weight: bold;">Menon</span>: I did not want to make a horror film, but rather, a story about family, loss and finding meaning in the zombie apocalypse.&nbsp;<br><br>As such, the flow of the movie was always going to be something crafted through feeling, and less through conventional structure. Making people okay with our approach in this genre will be a challenge, but one I am excited about as I think the zombie world is under-explored in terms of tone and genre.<br><br><span style="font-weight: bold;">Final Draft: What advice would you give to writers working on their first feature screenplay?</span><br><br><span style="font-weight: bold;">Menon</span>: Don’t be afraid to get weird.&nbsp;<br><br><span style="font-weight: bold;">Final Draft: Do you have any advice for getting a film into Sundance?</span><br><br><span style="font-weight: bold;">Menon</span>: I don’t, other than sticking to your guns. I think Sundance is still a place that appreciates truly <a href="https://blog.finaldraft.com/how-to-give-your-screenplay-your-voice">unique voices</a>, and the only way to stand out is to be yourself.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/meera-menon-breaking-zombie-genre-rules>
+
+---
+
+## Sorcery and Small Magics by Maiga Doocy: Review by Colleen Mondor
+
+date: 2025-02-12, from: Locus Magazine
+
+<p><strong>Sorcery and Small Magics</strong>, Maiga Doocy (Orbit 978-0-316-57675-8, $19.99, 400pp, tp) October 2024.</p>
+<p>When I settled in to read Maiga Doocy’s debut, <strong>Sorcery and Small Miracles</strong>, I expected an ‘‘en­emies to lovers’’ romance with magic between the unserious but sweet protagonist, Leovander ‘‘Leo’’ Loveage, and his classmate, the brooding, often surly, Sebastian Grimm. Both of them are students at the Fount, learning to be sorcerers for reasons that  <a href="https://locusmag.com/2025/02/sorcery-and-small-magics-by-maiga-doocy-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/sorcery-and-small-magics-by-maiga-doocy-review-by-colleen-mondor/>
 
 ---
 
@@ -30,8 +164,9 @@ date: 2025-02-11, from: Locus Magazine
 <p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
 
 <p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of February 11, 2025. </strong></p>
-<p>Harrison, John: <b>Residue: Paramentals Rising</b> (WordFire Press 978-1680577365, $15.99, 288pp, formats: hardcover, paperback, ebook, 02/11/2025)</p>
-<p>Paranomal dystopian novel. A woman searches for her missing sister in a post-disaster Quarantine Zone where paramentals – beings made of negative psychic  <a href="https://locusmag.com/2025/02/new-books-11-february-2025/" class="read-more">...Read More </a></p> 
+<p></p>
+<p>Becker, Elizabeth: <b>The Moonlight Healers</b> (Harlequin/Graydon House 978-1525830426, $30, 336pp, formats: hardcover, ebook, audiobook 02/11/2025)</p>
+<p>Louis Winston belongs to a family whose women possess magical healing powers, which they use by moonlight. She moves to her grandmother&#8217;s orchard,  <a href="https://locusmag.com/2025/02/new-books-11-february-2025/" class="read-more">...Read More </a></p> 
 
 <br> 
 

@@ -1,11 +1,299 @@
 ---
 title: going electric
-updated: 2025-02-12 07:08:36
+updated: 2025-02-13 07:09:12
 ---
 
 # going electric
 
-(date: 2025-02-12 07:08:36)
+(date: 2025-02-13 07:09:12)
+
+---
+
+## Kia teases revealing EV2, EV4 images for the first time ahead of their big debut this month
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Kia-EV4-first-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s official. We will finally get to see the new Kia EV2 and EV4 later this month for the first time. Kia just previewed several new models from its affordable EV series for the first time ahead of their big debut later this month. The teaser gives us a closer look at what to expect from the new <a href="https://electrek.co/guides/kia/">Kia</a> EV2 and EV4. Check out the images below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="401650" href="https://electrek.co/2025/02/13/kia-teases-first-look-new-ev2-ev4-ahead-debut/#more-401650" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/kia-teases-first-look-new-ev2-ev4-ahead-debut/>
+
+---
+
+## Isuzu To Build New EV Truck Factory In The U.S.
+
+date: 2025-02-13, from: Inside EVs News
+
+The $280 million manufacturing facility will assemble the battery-powered N-Series NRR EV, as well as combustion models. 
+
+<br> 
+
+<https://insideevs.com/news/750585/isuzu-trucks-south-carolina-ev-factory/>
+
+---
+
+## Volvo Wants U.S. Batteries For The EX90 As Tariffs 'Take A Bite' Out Of Profits
+
+date: 2025-02-13, from: Inside EVs News
+
+The Volvo EX90 is made in America, but its batteries come from China and are subject to increased import tariffs. 
+
+<br> 
+
+<https://insideevs.com/news/750559/volvo-ex-90-us-batteries-tariff/>
+
+---
+
+## The 2025 Ram ProMaster EV Is A Lot Cheaper And Goes Further
+
+date: 2025-02-13, from: Inside EVs News
+
+Ram added a new 12 and 13-foot cargo van option, offering up to 180 miles of range.  
+
+<br> 
+
+<https://insideevs.com/news/750541/ram-promaster-2025-ev-van/>
+
+---
+
+## Nobody wants a Cybertruck – including Tesla! Plus: Nissan news, pricey solar
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/ct-not-si-truck.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>On today’s downright giddy episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, at least one Cybertruck owner is sick of people making fun of his ride – but Tesla won’t let him trade it in. Plus, the Associated Press reports that Tesla is suing its own customers, and Nissan is adding AI to its EVs to its record time.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,quick-charge,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="401633" href="https://electrek.co/2025/02/12/nobody-wants-a-cybertruck-including-tesla-plus-nissan-news-pricey-solar/#more-401633" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/nobody-wants-a-cybertruck-including-tesla-plus-nissan-news-pricey-solar/>
+
+---
+
+## 17 clean energy projects will be built on former Appalachian coal mines
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/appalachian-coal-mine-clean-energy.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>The Nature Conservancy (<a href="https://www.nature.org/en-us/" target="_blank" rel="noreferrer noopener">TNC</a>) and the <a href="https://www.nature.org/en-us/about-us/where-we-work/priority-landscapes/appalachians/stories/cumberland-forest-community-fund/" target="_blank" rel="noreferrer noopener">Cumberland Forest Limited Partnership</a> are turning former Appalachian coal mines into clean energy hubs. They just announced new agreements with Sun Tribe Development and ENGIE to build 14 solar farms and three battery storage systems across 360 acres in Virginia, Tennessee, and Kentucky. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,kentucky,solar-power,tennessee,virginia" data-layer-viewtype="unknown" data-post-id="401624" href="https://electrek.co/2025/02/12/17-clean-energy-projects-appalachian-coal-mines/#more-401624" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/17-clean-energy-projects-appalachian-coal-mines/>
+
+---
+
+## US State Department has budget line for ‘Armored Teslas’ worth $400 million
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Cybertruck-tank-military.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US State Department’s procurement forecast for the 2025 budget includes an item called “Armored Teslas” worth $400 million.</p>
+
+
+
+<p>But worry not; it was approved under the Biden Administration, so Elon Musk’s DOGE will undoubtedly eliminate this waste. Right?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="401604" href="https://electrek.co/2025/02/12/us-state-department-has-budget-line-for-armored-teslas-worth-400-million/#more-401604" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/us-state-department-has-budget-line-for-armored-teslas-worth-400-million/>
+
+---
+
+## Trump’s tariffs could inflate onshore wind costs by up to 7%
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/rwe-and-rivian-sign-15-year-power-purchase-agreement.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Trump’s new trade tariffs and more import restrictions could drive up costs for US onshore wind power, potentially slowing down the industry’s momentum, according to a new report from <a href="https://www.woodmac.com/" target="_blank" rel="noreferrer noopener">Wood Mackenzie</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,tariffs,wind-power" data-layer-viewtype="unknown" data-post-id="401598" href="https://electrek.co/2025/02/12/trumps-tariffs-could-inflate-onshore-wind-costs-by-up-to-7/#more-401598" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/trumps-tariffs-could-inflate-onshore-wind-costs-by-up-to-7/>
+
+---
+
+## Here’s a better look at the new Nissan LEAF EV [Images]
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/New-Nissan-LEAF-spotted.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The new <a href="https://electrek.co/guides/nissan-leaf/">Nissan LEAF</a> already looks like a major upgrade. The little electric hatchback is due for a refresh, and we are finally getting a better idea of what to expect after the new model was spotted again in the US and Europe. New images reveal more of its crossover-like design.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="400972" href="https://electrek.co/2025/02/12/better-look-at-new-nissan-leaf-ev-images/#more-400972" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/better-look-at-new-nissan-leaf-ev-images/>
+
+---
+
+## Volvo’s new EX90 uses CATL batteries in the US, but that may change soon
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Volvo-EX30-EX90-prices-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although <a href="https://electrek.co/guides/volvo-ex90/">the EX90</a> is built in South Carolina, Volvo sources its batteries from China’s CATL. After raising EX90 prices due to extra tariffs, Volvo is now looking for US suppliers to cut costs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo,volvo-ex90" data-layer-viewtype="unknown" data-post-id="401579" href="https://electrek.co/2025/02/12/volvo-ex90-uses-catl-batteries-but-that-may-change-soon/#more-401579" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/volvo-ex90-uses-catl-batteries-but-that-may-change-soon/>
+
+---
+
+## Tesla says not taking Cybertruck trade-ins after owner tried to return his due to ‘anti-nazi harassment’
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-Cybertruck-nazi-sticker.jpg?quality=82&#038;strip=all&#038;w=1278" /></div><p>Tesla reportedly told a Cybertruck owner that it is currently not taking Cybertruck trade-ins after an owner tried to return his truck due to what he described as “anti-nazi harassment.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="401578" href="https://electrek.co/2025/02/12/tesla-says-not-taking-cybertruck-trade-ins-after-owner-tried-to-return-his-due-to-anti-nazi-harassment/#more-401578" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/tesla-says-not-taking-cybertruck-trade-ins-after-owner-tried-to-return-his-due-to-anti-nazi-harassment/>
+
+---
+
+## Rivian Warns Of Imminent $10,000 Price Hike For Canada
+
+date: 2025-02-12, from: Inside EVs News
+
+Rivian says R1 prices will increase $7,000 to $10,000 CAD because of the exchange rate between the U.S. and Canada.  
+
+<br> 
+
+<https://insideevs.com/news/750523/canadian-rivian-prices-2025-feburary/>
+
+---
+
+## Jeep’s new Recon EV made a surprise Super Bowl cameo [Video]
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Jeep-Recon-EV-Super-Bowl.jpeg?quality=82&#038;strip=all&#038;w=1204" /></div><p>Jeep’s Wrangler-inspired electric SUV made a surprise appearance during the big game on Sunday. <a href="https://electrek.co/guides/jeep/">Jeep</a> previewed the Recon EV during a Super Bowl ad, in which it took a shot at Ford. In the commercial, you can see Jeep’s new electric SUV looks ready to challenge the Ford Bronco.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-jeep,jeep" data-layer-viewtype="unknown" data-post-id="401561" href="https://electrek.co/2025/02/12/jeep-recon-ev-made-surprise-super-bowl-cameo-video/#more-401561" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/jeep-recon-ev-made-surprise-super-bowl-cameo-video/>
+
+---
+
+## EcoFlow flash sale takes 42% off RIVER 2 Pro and DELTA Pro Ultra power stations from $599, Camplux water heaters from $170 low, more
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/EcoFlow-RIVER-2-Pro-Portable-Power-Station-2.webp?w=1200" /></div><p>Today’s Green Deals are led by the first of EcoFlow’s Valentine’s Day flash sales, with both a <a href="https://9to5toys.com/2025/02/12/ecoflow-first-valentines-flash-sale-from-599/">RIVER 2 Pro</a> solar generator bundle and the <a href="https://9to5toys.com/2025/02/12/ecoflow-first-valentines-flash-sale-from-599/">DELTA Pro Ultra</a> Portable Power Station at up to 42% off and starting from <a href="https://9to5toys.com/2025/02/12/ecoflow-first-valentines-flash-sale-from-599/">$599</a>. Next, we have various sizes of <a href="https://9to5toys.com/2025/02/12/camplux-electric-tankless-water-heaters-from-170/">Camplux’s electric tankless water heaters</a> (8kW to 27kW) for under-sink and whole-bathroom support alike, all starting from a new <a href="https://9to5toys.com/2025/02/12/camplux-electric-tankless-water-heaters-from-170/">$170</a> low. There’s also <a href="https://9to5toys.com/2025/02/12/worx-nitro-hydroshot-plus-new-140-low/">Worx’s Nitro Hydroshot Plus</a> 20V 710 PSI portable electric pressure washer that is down at a new <a href="https://9to5toys.com/2025/02/12/worx-nitro-hydroshot-plus-new-140-low/">$140</a> low, as well as the return of <a href="https://9to5toys.com/2025/02/11/govee-smart-composter-300/">Govee’s Smart Electric Composter at $300</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/02/11/heybike-alpha-e-bike-1599-preorder-sale/">Heybike ALPHA e-bike</a> preorder discount, <a href="https://9to5toys.com/2025/02/10/aiper-valentines-day-sale-from-130/">Aiper’s Valentine’s sale</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="401557" href="https://electrek.co/2025/02/12/ecoflow-valentines-flash-sale-camplux-more/#more-401557" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/ecoflow-valentines-flash-sale-camplux-more/>
+
+---
+
+## Tesla Model Y Performance Refresh Is Coming Soon
+
+date: 2025-02-12, from: Inside EVs News
+
+Plus, a hotly-anticipated 7-seater and lower-priced versions are expected. 
+
+<br> 
+
+<https://insideevs.com/news/750510/tesla-model-y-performance-juniper/>
+
+---
+
+## Genesis is reportedly launching a luxury G70 EV sports sedan — Here’s what we know so far
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Genesis-G70-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Word on the street is the <a href="https://electrek.co/guides/genesis/">Genesis G70</a> is going all-electric. The luxury sports sedan is due for a complete overhaul, including a new look and a fully electric powertrain. Here’s what we know about the Genesis G70 EV so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="401541" href="https://electrek.co/2025/02/12/genesis-launch-luxury-g70-ev-sedan-what-we-know/#more-401541" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/genesis-launch-luxury-g70-ev-sedan-what-we-know/>
+
+---
+
+## Hyundai May Reveal Its Game-Changing Solid State Battery In March: Report
+
+date: 2025-02-12, from: Inside EVs News
+
+The automaker is reportedly betting on solid-state battery technology to eliminate range and charging anxieties. 
+
+<br> 
+
+<https://insideevs.com/news/750505/hyundai-solid-state-battery-ev-reveal-march/>
+
+---
+
+## Chinese car journalists are told not to be negative on Tesla as it sues customers and media
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/04/Tesla-china-protest-stunts.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>A new scathing report about Tesla just came out in China. It describes how the automaker is becoming trigger-happy, suing its own customers and the media while auto journalists are being told not to be negative about the American automaker.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="401530" href="https://electrek.co/2025/02/12/chinese-car-journalists-are-told-not-to-be-negative-on-tesla-as-it-sues-customers-and-media/#more-401530" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/chinese-car-journalists-are-told-not-to-be-negative-on-tesla-as-it-sues-customers-and-media/>
+
+---
+
+## Nissan follows BYD by bringing DeepSeek tech to its new N7 EV
+
+date: 2025-02-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Nissan-N7-EV-DeepSeek-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/nissan/">Nissan</a> is the latest to adopt DeepSeek tech for its new EV in China, the N7. The N7 will be the first joint venture brand electric car to feature DeepSeek’s R1 as the Japanese automaker fights to turn things around in the world’s largest EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,nissan" data-layer-viewtype="unknown" data-post-id="401527" href="https://electrek.co/2025/02/12/nissan-follows-byd-bringing-deepseek-tech-new-n7-ev/#more-401527" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/12/nissan-follows-byd-bringing-deepseek-tech-new-n7-ev/>
 
 ---
 
@@ -153,7 +441,7 @@ date: 2025-02-11, from: Electrek Feed
 
 date: 2025-02-11, from: Inside EVs News
 
-It sounds weird coming from the CEO of a company that makes EVs with over 500 miles or range. But hear him out.  
+It sounds weird coming from the CEO of a company that makes EVs with over 500 miles of range. But hear him out.  
 
 <br> 
 

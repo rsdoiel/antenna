@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-02-12 07:08:37
+updated: 2025-02-13 07:09:13
 ---
 
 # craft
 
-(date: 2025-02-12 07:08:37)
+(date: 2025-02-13 07:09:13)
+
+---
+
+## When Holdfast Holes Shrink
+
+date: 2025-02-13, from: Lost Arg Press blog
+
+After a few years of drying, my workbench’s benchtop shrank a bit. It’s not a big deal, but the drying process also shrank my 1” holdfast holes. And with a few of the holes it became difficult to insert the holdfast’s shaft. There are a few ways to open up the holes a bit. Reaming... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/13/when-holdfast-holes-shrink/>
+
+---
+
+## Closeout Sale on Two Books
+
+date: 2025-02-13, from: Lost Arg Press blog
+
+Here’s the news. We are closing out two of our historical reprints: Joseph Moxon’s “Mechanick Exercises” and Peter Nicholson’s “Mechanic’s Companion.” The books are now $13 each until we run out of stock. Act quickly to avoid disappointment. I’m grumpy about this sale because I hoped to keep these two properly bound, nicely printed books... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/13/closeout-sale-on-two-books/>
 
 ---
 

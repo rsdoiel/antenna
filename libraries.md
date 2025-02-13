@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-02-12 07:08:35
+updated: 2025-02-13 07:09:11
 ---
 
 # libraries
 
-(date: 2025-02-12 07:08:35)
+(date: 2025-02-13 07:09:11)
 
 ---
 
@@ -19,6 +19,20 @@ Möckli, Daniel
 <br> 
 
 <http://hdl.handle.net/20.500.11850/721492>
+
+---
+
+## Defending the “Walled Garden”: Yes, Academic Libraries Actually Should Focus on the Needs of Their Host Institutions
+
+date: 2025-02-13, from: Scholarly Kitchen
+
+<p>Academic libraries' first and most fundamental obligation is to support the work of their host institutions. This doesn't preclude global engagement, but may put constraints upon it.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/13/defending-the-walled-garden-yes-academic-libraries-actually-should-focus-on-the-needs-of-their-host-institutions/">Defending the &#8220;Walled Garden&#8221;: Yes, Academic Libraries Actually Should Focus on the Needs of Their Host Institutions</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/13/defending-the-walled-garden-yes-academic-libraries-actually-should-focus-on-the-needs-of-their-host-institutions/>
 
 ---
 

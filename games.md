@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-12 07:08:35
+updated: 2025-02-13 07:09:10
 ---
 
 # games
 
-(date: 2025-02-12 07:08:35)
+(date: 2025-02-13 07:09:10)
+
+---
+
+## Watch one of the best killer shark thrillers ever before it leaves Netflix
+
+date: 2025-02-13, updated: 2025-02-12, from: Polygon Website
+
+When it comes to shark movies, there are tiers, not rankings. There’s Jaws, all on its own at the very top, then a few genuinely great thrillers like The Shallows hanging around, and a bottom tier of absolute trash that should really never see the sun. But in between those last two is the vaunted, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/522616/47-meters-down-uncaged-netflix-shark-movie-good>
+
+---
+
+## Until Dawn director wanted to make his movie about ‘pretty much all’ horror genres
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+If you’ve been following the Until Dawn movie adaptation, you may be aware that the movie isn’t a straightforward retelling of the original Supermassive game released in 2015. It features a new set of teenagers meeting a variety of grisly fates, and instead of covering one miserable but finite stretch of time, the movie is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/522641/until-dawn-director-interview-horror-game-adaptation>
+
+---
+
+## Avowed is a grim scramble for resources with some decent story on top
+
+date: 2025-02-13, updated: 2025-02-12, from: Polygon Website
+
+Spend a few hours in Avowed, and you&#8217;ll start to feel as if the NPCs are obsessed with wood. Open any chest or lockbox, and inside you&#8217;ll find a branch or two hidden away for safekeeping. It might seem strange at first. But don&#8217;t worry — it won&#8217;t be long until you understand why it&#8217;s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/522593/avowed-review-xbox-pc>
+
+---
+
+## LOK is an absurdist puzzle game for the present moment
+
+date: 2025-02-13, updated: 2025-02-12, from: Polygon Website
+
+Absurdity is dead. Long live absurdity. Oh, hey, sorry. Been playing a lot of LOK Digital and reading the news. Both things live on my phone, so it’s easy to hop between them. Read a distressing headline? Boot up LOK and spell out LOLO. You’ll feel better. Well, no, you won’t feel better. But you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/521969/lok-digital-absurd-puzzle-game>
+
+---
+
+## What is the Destiny 2 raid and dungeon rotation this week?
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+Learning the raid and dungeon rotation in Destiny 2 is great for farming loot you don’t have yet, and for increasing your Power in Destiny 2. As of the Episode: Revenant update in October 2024, Bungie showcases which activity is featured (via an icon on the map), and there are now two featured raids and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule>
+
+---
+
+## Diablo 4 won’t have annual expansions after all
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+The next Diablo 4 expansion won’t be out in 2025, in spite of the studio’s previous comments about releasing them annually. Speaking at the DICE Summit in Las Vegas (via Bloomberg’s Jason Schreier), Diablo general manager Rod Fergusson said the follow-up to 2024’s Vessel of Hatred expansion won’t be out until 2026. “In his DICE [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo/523050/diablo-4-second-expansion-2026-rod-fergusson>
+
+---
+
+## Dreams of Another is a reminder that more games should fill the screen with particles
+
+date: 2025-02-12, updated: 2025-02-13, from: Polygon Website
+
+Sony revealed the latest in Q-Games’ PixelJunk series during its State of Play presentation Wednesday, and it’s a gorgeous shooter with a twist. Directed by Tomohisa Kuramitsu, who goes by “Baiyon” and is probably best known for his work on the PixelJunk Eden series, Dreams of Another is a shooter built around the idea that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/523254/dreams-of-another-pixeljunk-new-game>
+
+---
+
+## Everything announced at Sony’s February 2025 State of Play
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+It’s 2025, and Sony Interactive Entertainment is back with its first State of Play presentation for the year. Sony broadcasted 40 minutes worth of PlayStation 5 news, focused on what it described as “a creative and unique selection of exciting games from studios around the world.” And Sony really packed those 40 minutes with near [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/playstation/522584/everything-announced-sony-state-of-play-february-2025-trailers>
+
+---
+
+## Android users can finally watch Severance
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+I’m not someone who watches a lot of TV or movies on my iPhone or iPad, but I love knowing I have the option. Now, Android users will finally have the option of watching the streaming service’s small, but solid library on their phones and tablets, too. As first reported by Bloomberg, on Wednesday, Apple [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/523053/apple-tv-plus-android-app>
+
+---
+
+## Taylor Lautner to play Taylor Lautner in Taylor Lautner: Werewolf Hunter
+
+date: 2025-02-12, updated: 2025-02-12, from: Polygon Website
+
+Twilight star Taylor Lautner is set to play a fictionalized version of himself who, in addition to being a former teen hearthtrob who played a brooding werewolf, is also a werewolf hunter. Variety reports that the show is currently in development at Amazon MGM studios, with 30 Rock writer Daisy Gardner serving as showrunner. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/523111/taylor-lautner-twilight-jacob-black-werewolf-hunter>
 
 ---
 

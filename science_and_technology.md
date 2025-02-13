@@ -1,11 +1,371 @@
 ---
 title: science and technology
-updated: 2025-02-12 07:08:34
+updated: 2025-02-13 07:09:09
 ---
 
 # science and technology
 
-(date: 2025-02-12 07:08:34)
+(date: 2025-02-13 07:09:09)
+
+---
+
+## SAP snared in revenue trap unless it extends legacy ERP support
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>User can still push for perpetual licenses despite vendor&#39;s craving for subscription deals</h4> <p>In the sizeable global ERP market, SAP&#39;s biggest threat is not some other software giant like Oracle. It is its own legacy software supported by other vendors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/sap_erp_revenue_trap/>
+
+---
+
+## Lunar Space Station Module Will Journey to US ahead of NASA’s Artemis IV Moon Mission
+
+date: 2025-02-13, from: NASA breaking news
+
+A key element of the Gateway lunar space station has entered the cleanroom for final installations after completing environmental stress tests.  
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/lunar-space-station-module-will-journey-to-us-ahead-of-nasas-artemis-iv-moon-mission/>
+
+---
+
+## Diversity, equity, and inclusion is not an illusion, but it soon might be
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Global tech corps wrestle with policy disparity on either side of the Atlantic</h4> <p>Google may be the latest big tech corporation to scale back diversity, equity, and inclusion programs – but Arm, HPE, and Apple are going against the current direction of travel in their hiring and training policies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/diversity_equity_inclusion_tech/>
+
+---
+
+## North Korea targets crypto developers via NPM supply chain attack
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Yet another cash grab from Kim&#39;s cronies and an intel update from Microsoft</h4> <p>North Korea has changed tack: its latest campaign targets the NPM registry and owners of Exodus and Atomic cryptocurrency wallets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/north_korea_npm_crypto/>
+
+---
+
+## Undergrad and colleagues accidentally shred 40-year hash table gospel
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Student shows &#39;Uniform hashing is optimal&#39; was just wishful thinking</h4> <p>It isn&#39;t often that a decades-old assumption underpinning modern technology is overturned, but a recent paper based on the work of an undergraduate and his two co-authors has done just that.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/hash_table_breakthrough/>
+
+---
+
+## LibreOffice still kicking at 40, now with browser tricks and real-time collab
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Standard FOSS office suite continues to evolve in interesting new directions</h4> <p><strong>FOSDEM 2025</strong>  LibreOffice is a big, mature chunk of code now, but that doesn&#39;t make it impossible to teach it impressive new tricks. Some of them could make it more important than ever.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/libreoffice_wasm_zetaoffice/>
+
+---
+
+## Insurance giant finds claims rep that gives a damn (it's AI)
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Tech shows customers more humanity than its human staff</h4> <p>It doesn&#39;t sleep, it doesn&#39;t eat, and it doesn&#39;t get sick of dealing with incompetent customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/allstate_insurance_ai_rep/>
+
+---
+
+## WordPress war latest: Ploy to trademark Hosted WordPress, Managed WordPress derailed
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Objection from open source community heralded as &#39;great victory for the ecosystem&#39;</h4> <p>The WordPress Foundation&#39;s effort to trademark the terms HOSTED WORDPRESS and MANAGED WORDPRESS has been thwarted, for now, following a petition from a dissenting member of the open source WordPress community.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/wordpress_foundation_trademark_registrations_nixed/>
+
+---
+
+## Mysterious Palo Alto firewall reboots? You're not alone
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Limited-edition hotfix to get wider release before end of month</h4> <p>Administrators of Palo Alto Networks&#39; firewalls have complained the equipment falls over unexpectedly, and while a fix has bee prepared, it&#39;s not yet generally available.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/palo_alto_firewall/>
+
+---
+
+## Cisco says it’s already dug in to protect itself – and customers – if trade war breaks out
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Also reckons it can dodge DOGE</h4> <p>Cisco has prepared for trade war and thinks it can ride things out by reconfiguring its supply chain if that becomes necessary.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/cisco_q2_fy25/>
+
+---
+
+## Have I Been Pwned likely to ban resellers from buying subs, citing ‘sh*tty behavior’ and onerous support requests
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>‘What are customers actually getting from resellers other than massive price markups?’ asks Troy Hunt</h4> <p>Troy Hunt, proprietor of data breach lookup site Have I Been Pwned, is likely to ban resellers from the service.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/hibp_reseller_ban/>
+
+---
+
+## Feds want devs to stop coding 'unforgivable' buffer overflow vulnerabilities
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>FBI, CISA harrumph at Microsoft and VMware in call for coders to quit baking avoidable defects into stuff</h4> <p>US authorities have labelled buffer overflow vulnerabilities &#34;unforgivable defects”, pointed to the presence of the holes in products from the likes of Microsoft and VMware, and urged all software developers to adopt secure-by-design practices to avoid creating more of them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/fbi_cisa_unforgivable_buffer_overflow/>
+
+---
+
+## Sophos sheds 6% of staff after swallowing Secureworks
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>De-dupes some roles, hints others aren&#39;t needed as the infosec scene shifts</h4> <p>Nine days after completing its $859 million acquisition of managed detection and response provider Secureworks, Sophos has laid off around six percent of its staff.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/sophos_secureworks_layoff/>
+
+---
+
+## Larry Ellison wants to put all America's data, including DNA, in one big Oracle system for AI to study
+
+date: 2025-02-12, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>From the billionaire who said real-time surveillance is good for keeping us in check</h4> <p>If governments want AI to improve services and security for their citizens, then they need to put all their information in one place – even citizens’ genomic data – according to Larry Ellison, the Oracle database tycoon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/larry_ellison_wants_all_data/>
+
+---
+
+## IBM return-to-office order hits finance, ops teams amid push to dump staff for AI
+
+date: 2025-02-12, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Demand described as a &#39;soft layoff&#39;</h4> <p>IBM has begun what a source describes as a soft layoff for its Finance &amp; Operations business unit, in the form of a return-to-office (RTO) order.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/ibm_return_to_office_mandate/>
+
+---
+
+## 25 Years Ago: STS-99, the Shuttle Radar Topography Mission
+
+date: 2025-02-12, from: NASA breaking news
+
+On Feb. 11, 2000, space shuttle Endeavour took to the skies on its 14th trip into space on the Shuttle Radar Topography Mission (SRTM). The international STS-99 crew included Commander Kevin Kregel, Pilot Dominic Gorie, and Mission Specialists Gerhard Thiele of Germany representing the European Space Agency, Janet Kavandi, Janice Voss, who served as payload [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/25-years-ago-sts-99-the-shuttle-radar-topography-mission/>
+
+---
+
+## Trump’s cyber chief pick has little experience in The Cyber
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>GOP lawyer Sean Cairncross will be learning on the fly, as we also say hi to new intelligence boss Tulsi Gabbard</h4> <p>President Trump has reportedly chosen a candidate for National Cyber Director — another top tech appointee with no professional experience in that role.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/trump_cybersecurity_chief/>
+
+---
+
+## NASA’s Polar Ice Experiment Paves Way for Future Moon Missions
+
+date: 2025-02-12, from: NASA breaking news
+
+NASA’s Polar Resources Ice Mining Experiment-1 (PRIME-1) is preparing to explore the Moon’s subsurface and analyze where lunar resources may reside. The experiment’s two key instruments will demonstrate our ability to extract and analyze lunar soil to better understand the lunar environment and subsurface resources, paving the way for sustainable human exploration under the agency’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/kennedy/nasas-polar-ice-experiment-paves-way-for-future-moon-missions/>
+
+---
+
+## Arizona laptop farmer pleads guilty for funneling $17M to Kim Jong Un
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>300+ US companies, 70+ individuals hit by the fraudsters</h4> <p>An Arizona woman who created a &#34;laptop farm&#34; in her home to help fake IT workers pose as US-based employees has pleaded guilty in a scheme that generated over $17 million for herself... and North Korea.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/arizona_woman_laptop_farm_guilty/>
+
+---
+
+## A Rainbow-colored “Feather” in the Martian Sky
+
+date: 2025-02-12, from: NASA breaking news
+
+NASA&#8217;s Curiosity Mars rover captured this feather-shaped iridescent cloud just after sunset on Jan. 27, 2023. Studying the colors in iridescent clouds tells scientists something about particle size within the clouds and how they grow over time. These clouds were captured as part of a seasonal imaging campaign to study noctilucent, or &#8220;night-shining&#8221; clouds. A [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/a-rainbow-colored-feather-in-the-martian-sky/>
+
+---
+
+## Ransomware isn't always about the money: Government spies have objectives, too
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Analysts tell El Reg why Russia&#39;s operators aren&#39;t that careful, and why North Korea wants money AND data</h4> <p><strong>Feature</strong>  Ransomware gangsters and state-sponsored online spies fall on opposite ends of the cyber-crime spectrum.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/ransomware_nation_state_groups/>
+
+---
+
+## NASA’s Advancements in Space Continue Generating Products on Earth
+
+date: 2025-02-12, from: NASA breaking news
+
+The latest edition of NASA’s Spinoff publication, which highlights the successful transfer of agency technology to the commercial sector, is now available online. For nearly 25 years, NASA has supported crew working in low Earth orbit to learn about the space environment and perform research to advance deep space exploration. Astronauts aboard the International Space [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-advancements-in-space-continue-generating-products-on-earth/>
+
+---
+
+## DARPA skips the lab, will head to orbit to test space manufacturing tech
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Previous NOM4D experiments have gone so well, says project leader, that it&#39;s time to get real</h4> <p>After several years of lab-testing ideas for orbital manufacturing technology, the US Department of Defense&#39;s research arm has decided to head into orbit for the latest round of experiments. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/darpa_decides_to_skip_the/>
+
+---
+
+## Russia's Sandworm caught snarfing credentials, data from American and Brit orgs
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>&#39;Near-global&#39; initial access campaign active since 2021</h4> <p>An initial-access subgroup of Russia&#39;s Sandworm last year wriggled its way into networks within the US, UK, Canada and Australia, stealing credentials and data from &#34;a limited number of organizations,&#34; according to Microsoft.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/russias_sandworm_caught_stealing_credentials/>
+
+---
+
+## 15 Years Ago: STS-130 Delivers Tranquility and Cupola to Space Station
+
+date: 2025-02-12, from: NASA breaking news
+
+On Feb. 8, 2010, space shuttle Endeavour began its 24th trip into space, on the 20A assembly mission to the International Space Station, the 32nd shuttle flight to the orbiting lab. The STS-130 crew included Commander George Zamka, Pilot Terry Virts, and Mission Specialists Kathryn Hire, Stephen Robinson, Nicholas Patrick, and Robert Behnken. During the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/15-years-ago-sts-130-delivers-tranquility-and-cupola-to-space-station/>
+
+---
+
+## James Webb Space Telescope to size up asteroid 2024 YR4 before it rocks our world
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>40 m or 90 m? The difference matters in the case of impact</h4> <p>The James Webb Space Telescope (JWST) is to be pointed at asteroid 2024 YR4 to reduce uncertainty regarding the chances of the object impacting Earth in the coming years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/james_webb_asteroid_measuring/>
+
+---
+
+## Running hot? Server shipments forecast to cool in 2025
+
+date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+
+<h4>Supply chain and regulatory hurdles likely to shrink figures</h4> <p>US tech sanctions and supply chain readiness for racks of Nvidia&#39;s latest gear will likely cause AI server sales to cool-off in 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/12/trendforce_ai_servers/>
+
+---
+
+## Why Does the Moon Look Larger at the Horizon? We Asked a NASA Scientist: Episode 50
+
+date: 2025-02-12, from: NASA breaking news
+
+Why does the Moon look larger on the horizon? The short answer is, we don't know. 
+
+<br> 
+
+<https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/>
+
+---
+
+## NASA Telescopes Deliver Stellar Bouquet in Time for Valentine’s Day
+
+date: 2025-02-12, from: NASA breaking news
+
+A bouquet of thousands of stars in bloom has arrived. This composite image contains the deepest X-ray image ever made of the spectacular star forming region called 30 Doradus. By combining X-ray data from NASA’s Chandra X-ray Observatory (blue and green) with optical data from NASA’s Hubble Space Telescope (yellow) and radio data from the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-telescopes-deliver-stellar-bouquet-in-time-for-valentines-day/>
+
+---
+
+## NASA Successfully Joins Sunshade to Roman Observatory’s ‘Exoskeleton’
+
+date: 2025-02-12, from: NASA breaking news
+
+NASA’s Nancy Grace Roman Space Telescope team has successfully integrated the mission’s deployable aperture cover — a visor-like sunshade that will help prevent unwanted light from entering the telescope — to the outer barrel assembly, another structure designed to shield the telescope from stray light in addition to keeping it at a stable temperature. “It’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/universe/nasa-successfully-joins-sunshade-to-roman-observatorys-exoskeleton/>
 
 ---
 
@@ -119,9 +479,9 @@ date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
 
 ## AI summaries turn real news into nonsense, BBC finds
 
-date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+date: 2025-02-12, updated: 2025-02-13, from: The Register (UK I.T. News)
 
-<h4>Research after Apple Intelligence fiasco shows bots still regularly make stuff up</h4> <p>Still smarting from Apple Intelligence butchering a headline, the BBC has published research into how accurately AI assistants summarize news – and the results don&#39;t make for happy reading.…</p> 
+<h4>Research after Apple Intelligence fiasco shows bots still regularly make stuff up</h4> <p><strong>Updated</strong>  Still smarting from Apple Intelligence butchering a headline, the BBC has published research into how accurately AI assistants summarize news – and the results don&#39;t make for happy reading.…</p> 
 
 <br> 
 
@@ -167,7 +527,7 @@ date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
 
 ## After Copilot trial, government staff rated Microsoft's AI less useful than expected
 
-date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+date: 2025-02-12, updated: 2025-02-13, from: The Register (UK I.T. News)
 
 <h4>Not all bad news for Redmond as Australian agency also found strong ROI and some unexpected upsides</h4> <p>Australia’s Department of the Treasury has found that Microsoft’s Copilot can easily deliver return on investment, but staff exposed to the AI assistant came away from the experience less confident it will help them at work.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -179,7 +539,7 @@ date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
 
 ## February's Patch Tuesday sees Microsoft offer just 63 fixes
 
-date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
+date: 2025-02-12, updated: 2025-02-13, from: The Register (UK I.T. News)
 
 <h4>Don&#39;t relax just yet: Redmond has made some certificate-handling changes that could trip unprepared admins</h4> <p><strong>Patch Tuesday</strong>  Microsoft’s February patch collection is mercifully smaller than January’s mega-dump. But don&#39;t get too relaxed – some deserve close attention, and other vendors have stepped in with plenty more fixes.…</p> 
 
@@ -189,7 +549,7 @@ date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
 
 ---
 
-## A win at last: Big-time blow to AI world in training data copyright scrap
+## A win at last: Big blow to AI world in training data copyright scrap
 
 date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
 
@@ -201,7 +561,7 @@ date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
 
 ---
 
-## Microsoft wants to quit working on Army VR goggles, hand contract to Anduril
+## Microsoft wants to quit building Army VR goggles, hand contract to Anduril
 
 date: 2025-02-12, updated: 2025-02-12, from: The Register (UK I.T. News)
 

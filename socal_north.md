@@ -1,11 +1,303 @@
 ---
 title: socal north
-updated: 2025-02-12 07:08:33
+updated: 2025-02-13 07:09:09
 ---
 
 # socal north
 
-(date: 2025-02-12 07:08:33)
+(date: 2025-02-13 07:09:09)
+
+---
+
+## An asteroid could hit Earth in 7 years. Here's how astronomers are tracking it
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+Over the next several weeks, astronomers will be looking closely at an asteroid called 2024 YR4 that could be as big as a football field as they try to determine how likely it is to strike Earth in 2032. 
+
+<br> 
+
+<https://laist.com/news/an-asteroid-could-hit-earth-in-7-years-heres-how-astronomers-are-tracking-it>
+
+---
+
+## Air, soil, water and dust: New study focuses on long-term health impacts of  LA wildfire pollution
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+A team of researchers say they want to look at what exposure to toxins from thousands of burned structures does to people over time. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/study-tracks-health-impacts-pollution-la-wildfires>
+
+---
+
+## How to prepare for a power outage, and what to do when the lights are out
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+With extreme weather comes the possibility of power cuts. Here are some tips for what to do beforehand and on making it through an outage. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/power-outage-preparation-what-to-do>
+
+---
+
+## El California Worship Center Construye un Hogar en la Ciudad de San Fernando
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En el momento en que el Pastor Warryn S. Campbell II entró en el 214 de North Maclay Avenue en la ciudad de San Fernando, supo que finalmente había encontrado [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/el-california-worship-center-construye-un-hogar-en-la-ciudad-de-san-fernando/">El California Worship Center Construye un Hogar en la Ciudad de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/el-california-worship-center-construye-un-hogar-en-la-ciudad-de-san-fernando/>
+
+---
+
+## Líderes de Derechos Civiles Exigen Justicia para las Familias Negras de Altadena
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02062025_NAN-Memorial_SN_17.jpeg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Un servicio conmemorativo dirigido por el reverendo Al Sharpton, fundador y presidente de la Red de Acción Nacional (NAN, por sus siglas en inglés), pidió que se haga justicia para [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/lideres-de-derechos-civiles-exigen-justicia-para-las-familias-negras-de-altadena/">Líderes de Derechos Civiles Exigen Justicia para las Familias Negras de Altadena</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/lideres-de-derechos-civiles-exigen-justicia-para-las-familias-negras-de-altadena/>
+
+---
+
+## Horóscopo
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Esta semana te estás dando cuenta de algo importante: una distinción entre lo que se siente como bondad [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/horoscopo-202/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/horoscopo-202/>
+
+---
+
+## EVENTOS Locales – Semana de 13 de febrero, 2025
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Febrero 14 Proyección de la Película Black History Plaza Del Valle 8610 Van Nuys Blvd. Van Nuys 7:30 a.m. – 9 a.m. La proyección se llevará a cabo en [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/eventos-locales-semana-de-13-de-febrero-2025/">EVENTOS Locales &#8211; Semana de 13 de febrero, 2025 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/eventos-locales-semana-de-13-de-febrero-2025/>
+
+---
+
+## Las Víctimas del Incendio de Eaton Buscan Justicia por Sus Pérdidas
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02082025_Town-Hall_SN_06-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A medida que las cenizas se asientan, con miles de personas aún desplazadas, los refugios de emergencia cerrados y el mercado inmobiliario enfrentando un aumento de precios, las víctimas de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/las-victimas-del-incendio-de-eaton-buscan-justicia-por-sus-perdidas/">Las Víctimas del Incendio de Eaton Buscan Justicia por Sus Pérdidas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/las-victimas-del-incendio-de-eaton-buscan-justicia-por-sus-perdidas/>
+
+---
+
+## Sospechoso se Declara Inocente de Agresión a Estudiante de 13 Años
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/01302025_Sal-Torres_SN_01-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>John Paul Morreale se declaró inocente el 5 de febrero de una presunta agresión contra un estudiante negro de 13 años en la escuela secundaria Ernest Lawrence en Chatsworth. Morreale [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/sospechoso-se-declara-inocente-de-agresion-a-estudiante-de-13-anos/">Sospechoso se Declara Inocente de Agresión a Estudiante de 13 Años</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/sospechoso-se-declara-inocente-de-agresion-a-estudiante-de-13-anos/>
+
+---
+
+## Educadores de Prepartoria Chárter de El Camino Real en Huelga por un Mejor Salario
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="768" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?fit=768%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?w=1536&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=225%2C300&amp;ssl=1 225w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=768%2C1024&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=1152%2C1536&amp;ssl=1 1152w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=900%2C1200&amp;ssl=1 900w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=600%2C800&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=450%2C600&amp;ssl=1 450w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=300%2C400&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=150%2C200&amp;ssl=1 150w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=1200%2C1600&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=400%2C533&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?resize=706%2C941&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/signal-2025-02-10-121330_013.jpeg?fit=768%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Después de meses de negociaciones para obtener mejores salarios, los educadores de United Teachers Los Angeles (UTLA) en El Camino Real Charter High School en Woodland Hills comenzaron su huelga [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/educadores-de-prepartoria-charter-de-el-camino-real-en-huelga-por-un-mejor-salario/">Educadores de Prepartoria Chárter de El Camino Real en Huelga por un Mejor Salario</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/educadores-de-prepartoria-charter-de-el-camino-real-en-huelga-por-un-mejor-salario/>
+
+---
+
+## Líderes de Organizaciones Sin Fines de Lucro Discuten la Crisis de Inmigración con Legisladores Estatales
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="463" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?fit=1024%2C463&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?w=2008&amp;ssl=1 2008w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=300%2C136&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=1024%2C463&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=768%2C347&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=1536%2C694&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=1200%2C542&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=1568%2C708&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=2000%2C903&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=400%2C181&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?resize=706%2C319&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Immigration-Roundtable-01-e1739422143669.png?fit=1024%2C463&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los legisladores de California se reunieron con líderes de organizaciones sin fines de lucro que representan a organizaciones en el Valle de San Fernando y más allá para discutir los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/lideres-de-organizaciones-sin-fines-de-lucro-discuten-la-crisis-de-inmigracion-con-legisladores-estatales/">Líderes de Organizaciones Sin Fines de Lucro Discuten la Crisis de Inmigración con Legisladores Estatales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/lideres-de-organizaciones-sin-fines-de-lucro-discuten-la-crisis-de-inmigracion-con-legisladores-estatales/>
+
+---
+
+## Complejo de Viviendas Asequibles de 180 Unidades Abre Oficialmente en Panorama City
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=1536%2C1025&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=1568%2C1046&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Ribbon-Cutting-06.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los miembros de la comunidad y los funcionarios locales celebraron el corte de cinta oficial de Corazón del Valle, un nuevo desarrollo de viviendas en Panorama City que ofrece 180 [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/complejo-de-viviendas-asequibles-de-180-unidades-abre-oficialmente-en-panorama-city/">Complejo de Viviendas Asequibles de 180 Unidades Abre Oficialmente en Panorama City</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/complejo-de-viviendas-asequibles-de-180-unidades-abre-oficialmente-en-panorama-city/>
+
+---
+
+## El Parque Infantil Pioneer Park Reabre con Nuevos Equipos
+
+date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/PXL_20250208_183926483-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>novación, el parque infantil de Pioneer Park en la ciudad de San Fernando fue reinaugurado oficialmente el sábado 8 de febrero, con nuevos equipos de protección solar y juegos. El [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/12/el-parque-infantil-pioneer-park-reabre-con-nuevos-equipos/">El Parque Infantil Pioneer Park Reabre con Nuevos Equipos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/12/el-parque-infantil-pioneer-park-reabre-con-nuevos-equipos/>
+
+---
+
+## Historic protections sought for Terminal Island buildings
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+Two buildings left from a Japanese American fishing village will be considered for historic-cultural monument status. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/terminal-island-buildings-japanese-american-fishing-village>
+
+---
+
+## Some LA beaches reopen, but officials urge caution in Palisades runoff area
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+Recent ocean water testing found no risks to human health, according to health officials. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/beaches-palisades-reopen-testing-health-wildfire-runoff-advisory-rain>
+
+---
+
+## The first wave energy project in the U.S. is coming to the Port of LA. Here’s how it works
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+AltaSea, a nonprofit that develops the sustainable ocean economy, is shepherding the program at the Port of Los Angeles. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/first-wave-energy-project-coming-to-the-port-of-la>
+
+---
+
+## Mobile homes are some of California’s last affordable housing. Can they rebuild after LA fires?
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+Mobile home residents don't know when or if they will be able to rebuild their homes as questions swirl about insurance, funding and ownership. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/mobile-homes-are-some-of-californias-last-affordable-housing-can-they-rebuild-after-la-fires>
+
+---
+
+## To keep California high-risk insurer solvent, homeowners will face a one-time assessment
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+The FAIR Plan will impose a special charge on insurers and homeowners to cover $1 billion in L.A. wildfire costs. 
+
+<br> 
+
+<https://laist.com/news/to-keep-california-high-risk-insurer-solvent-homeowners-will-face-a-one-time-assessment>
+
+---
+
+## Potential for a hard, fast rain makes this week's storm a big deal
+
+date: 2025-02-12, updated: 2025-02-13, from: The LAist
+
+It's not the total amount of rain that's a concern. It's how hard that rain is going to fall. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/storm-significant-rain>
+
+---
+
+## Crushed by boulders, drowned in mud: How debris flows endanger LA’s fire-ravaged communities
+
+date: 2025-02-12, updated: 2025-02-13, from: The LAist
+
+San Gabriel Valley areas scarred by the Eaton Fire are at “high to very high risk” of debris flows this week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-debris-flows-endanger-fire-ravaged-communities>
+
+---
+
+## Flash flood warnings? Watches? We help you make sense of emergency alerts
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+We break down every type of flood notice from the National Weather Service and what you need to do at each step. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-flash-flood-warnings-watches-what-they-mean-southern-california>
+
+---
+
+## Lawsuit charges misuse of arts education funding at LAUSD schools
+
+date: 2025-02-12, updated: 2025-02-12, from: The LAist
+
+Student plaintiffs and the author of Proposition 28 join forces, alleging Los Angeles Unified improperly spent new arts money on existing teaching positions, not to add new educators. 
+
+<br> 
+
+<https://laist.com/news/education/lawsuit-charges-misuse-of-arts-education-funding-at-lausd-schools>
 
 ---
 
@@ -95,7 +387,7 @@ The voluntary recall covers 13 products sold at major grocery stores in 26 state
 
 ## Gutted courses, fewer majors, layoffs: Who will feel Cal State University’s 8% budget cut?
 
-date: 2025-02-11, updated: 2025-02-11, from: The LAist
+date: 2025-02-11, updated: 2025-02-12, from: The LAist
 
 The California State University system is bracing for a cut of $375 million causing university officials to warn of fewer classes and faculty layoffs. 
 
@@ -165,11 +457,11 @@ After thousands of homes were destroyed, many are looking for ways to make Los A
 
 ---
 
-## The biggest storm of the year is about to hit. Prepare, but don't panic
+## Evacuation warnings issued in LA and Orange counties. Heaviest rain on the way
 
-date: 2025-02-11, updated: 2025-02-11, from: The LAist
+date: 2025-02-11, updated: 2025-02-13, from: The LAist
 
-Recently burned areas are likely to experience debris flows — especially during the heaviest periods of rain from Thursday afternoon through early Friday. 
+Recently burned areas are likely to experience debris flows — especially during the heaviest periods of rain expected to fall Thursday afternoon into Friday morning. 
 
 <br> 
 

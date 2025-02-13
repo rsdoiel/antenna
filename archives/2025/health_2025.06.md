@@ -1,11 +1,47 @@
 ---
 title: health
-updated: 2025-02-12 07:08:36
+updated: 2025-02-13 07:09:12
 ---
 
 # health
 
-(date: 2025-02-12 07:08:36)
+(date: 2025-02-13 07:09:12)
+
+---
+
+## Trajectory of gut microbiota before and after pediatric cardiopulmonary bypass surgery
+
+date: 2025-02-13, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundVaried congenital heart disease (CHD) may induce gut microbiota dysbiosis due to intestinal hypoperfusion or/and hypoxemia. Microbiota dysbiosis has been found in preoperative infants and cardiopulmonary bypass (CPB) exacerbated it further. However, the trajectory of gut microbiota from pre- to early post-CPB and one-year later remains unexplored. We examined this trajectory in the two most common CHDs, i.e., left-to-right shunt (ventricular septal defect, VSD) vs. right-to-left shunt (tetralogy of Fallot, TOF).MethodsWe enrolled 13 infants with VSD and 11 with TOF, and collected fecal samples at pre- and early post-CPB. 10 and 12 age- and gender-matched healthy control infants were enrolled respectively. We also enrolled 13 and 9 gender- and CHD diagnosis- and operation-matched one-year post-CPB patients, and 8 age- and gender-matched healthy control children. 16S rRNA sequencing of fecal samples were performed.ResultsCompared to the control groups, both VSD and TOF pre-CPB groups had significantly increased Enterobacteriaceae and Shigella, and decreased Bifidobacterium (Ps ≤ 0.049). No significant change in microbial community diversity was observed between pre- and early post-CPB periods (Ps≥0.227). Compared with early post-CPB, one-year post-CPB groups had significantly increased short-chain fatty acids-producing microbes (Ps ≤ 0.025), and their microbial communities were close to that of the control group (Ps≥0.102). There was no significant difference in microbial communities between VSD and TOF groups in any of 3 periods (Ps≥0.055).ConclusionIn children with VSD or TOF, gut microbiota dysbiosis existed preoperatively and were not significantly altered by CPB. One-year post-CPB, microbiota significantly improved towards normal. Similar microbial communities were found between children with VSD and TOF throughout the perioperative and long-term postoperative periods. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2024.1470925>
+
+---
+
+## Editorial: Global excellence in bacteriology: Central and South America
+
+date: 2025-02-13, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1563952>
+
+---
+
+## Neurological and immunological characteristics of a novel immortalized bovine brainstem-derived cell line and its susceptibility to arbovirus infection
+
+date: 2025-02-13, from: Frontiers in Cellular and Infection Microbiology
+
+Immortalized bovine neuronal cell lines provide a reliable in vitro model for studying interactions with bovine infectious pathogens that target the host nervous system. Although we previously established an immortalized fetal bovine brain-derived FBBC-1 cell line, there are currently no other bovine neuronal cell lines commonly available. In the present study, we developed a novel immortalized cell line, IKBM, derived from the adult bovine brainstem by transferring a SV40 large T antigen gene using lentiviral vectors, and compared its characteristics to the FBBC-1 cell line. As with FBBC-1 cells, IKBM cells extended neurite-like processes in response to agents that increase cytosolic cyclic AMP levels. A comprehensive analysis using RNA sequencing demonstrated that both cell lines potentially possess neural progenitor cell-like properties and differentiate into dopaminergic neuron-like cells after induction of the outgrowth of neurite-like processes. Unexpectedly, we found that the mRNAs of multiple immunomodulatory molecules were highly expressed in IKBM cells, but not in FBBC-1 cells. Although IKBM cells were susceptible to infection with arboviruses (Akabane and Chuzan viruses) that cause neurological symptoms in cattle, viral titers were lower in IKBM cell cultures than in hamster lung-derived HmLu-1 cell cultures, which are frequently used to isolate arboviruses. The reduced production of viruses in IKBM cell cultures may be related to the high expression of immunomodulatory molecules in these cells. Therefore, IKBM and FBBC-1 cell lines offer the opportunity to develop unique in vitro models of the bovine nervous system for the study of host-pathogen interactions based on their respective properties. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1518808>
 
 ---
 

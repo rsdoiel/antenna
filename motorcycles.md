@@ -1,11 +1,108 @@
 ---
 title: motorcycles
-updated: 2025-02-12 07:08:36
+updated: 2025-02-13 07:09:12
 ---
 
 # motorcycles
 
-(date: 2025-02-12 07:08:36)
+(date: 2025-02-13 07:09:12)
+
+---
+
+## Production of Piaggio’s Ape Car To Leave Italy After 76 Years
+
+date: 2025-02-13, from: Ride Apart, Electric Motorcycle News
+
+But can you guess where production is going? 
+
+<br> 
+
+<https://www.rideapart.com/news/750538/ape-car-production-leaves-italy-for-india/>
+
+---
+
+## That Famous Turbine-Powered Superbike Has a New Special Edition, It's Still Nuts
+
+date: 2025-02-13, from: Ride Apart, Electric Motorcycle News
+
+Celebrating its 25th anniversary, the MTT is still positively insane. 
+
+<br> 
+
+<https://www.rideapart.com/news/750517/turbine-motorcycle-mtt-superbike-torque-special-edition/>
+
+---
+
+## This Chinese Motorcycle Wants To Give Euro And Japanese Sportbikes Heartburn
+
+date: 2025-02-13, from: Ride Apart, Electric Motorcycle News
+
+Its spec sheet actually surpasses some mainstream offerings.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750404/qj-motor-srk800rr-updates-tech-specs/>
+
+---
+
+## These 2 Maniacs Just Did The First Ever Dakar Rally Route On Vintage Yamahas
+
+date: 2025-02-13, from: Ride Apart, Electric Motorcycle News
+
+Do a pair of Yamaha XT500s still have what it takes, 40-plus years later? 
+
+<br> 
+
+<https://www.rideapart.com/news/750508/dakar-rally-yamaha-xt500-video/>
+
+---
+
+## Will We Ever See SHOEI's New Fitting System With 3D Scanning in the US?
+
+date: 2025-02-13, from: Ride Apart, Electric Motorcycle News
+
+So far, it's only being tested in Japan. 
+
+<br> 
+
+<https://www.rideapart.com/news/750395/shoel-3d-helmet-fitting-scanner/>
+
+---
+
+## Indian Motorcycle Just Killed Its Coolest Bike and Didn't Even Give It a Funeral
+
+date: 2025-02-13, from: Ride Apart, Electric Motorcycle News
+
+The news literally came in the form of a footnote. 
+
+<br> 
+
+<https://www.rideapart.com/news/750532/indian-ftr-1200-killed-2025/>
+
+---
+
+## Champions Prevail: Johnson & Truex Qualify for Daytona 500
+
+date: 2025-02-13, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Nightmares kept one awake. A new team kept the other a-wondering. The stressful week for Jimmie Johnson and Martin Truex Jr., weighing the reality of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/champions-prevail-johnson-truex-qualify-for-daytona-500/>
+
+---
+
+## 23XI Teammates Supporting Rookie Herbst: ‘He’s Got Everything in Front of Him’
+
+date: 2025-02-12, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer 23XI Racing is about to enter a new Monster Energy athlete to its Cup Series lineup with Riley Herbst. A three-time Xfinity Series winner, Herbst&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/23xi-teammates-supporting-rookie-herbst-hes-got-everything-in-front-of-him/>
 
 ---
 

@@ -1,11 +1,382 @@
 ---
 title: columns
-updated: 2025-02-12 07:08:34
+updated: 2025-02-13 07:09:10
 ---
 
 # columns
 
-(date: 2025-02-12 07:08:34)
+(date: 2025-02-13 07:09:10)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-13, from: Dave Winer's Scripting News)
+
+If the US were a company, what would its market capitalization be? 
+
+<br> 
+
+<http://scripting.com/2025/02/13.html#a145640>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-13, from: Dave Winer's Scripting News)
+
+If you’re getting bummed about the news, remember tonight there’s another new episode of <a href="https://daytona.scripting.com/search?q=Severance">Severance</a> to kvell about. 
+
+<br> 
+
+<http://scripting.com/2025/02/13.html#a145539>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-13, from: Dave Winer's Scripting News)
+
+Re-did the social media links at the bottom of each story page. <a href="https://imgs.scripting.com/2025/02/13/socialMediaLinks.png">Screen shot</a>. Used to be just RSS and Linkedin. I got rid of Linkedin because I never use it. Added Bluesky, Mastodon, Threads. Debated whether to remove Twitter, but it is still a way to follow my posts, the ones that go out through the linkblog. A lot of people still use Twitter. Had to include the latest version of Font-Awesome, but since my story pages don't otherwise use FA, I figured nothing could break. Haha. ;-) 
+
+<br> 
+
+<http://scripting.com/2025/02/13.html#a144406>
+
+---
+
+## 2025-02-07 I bought some tea
+
+date: 2025-02-13, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-07-i-bought-some-tea">2025-02-07 I bought some tea</h1>
+
+<p>I buy tea about once a year. I also buy a lot of coffee but I have never compared the two. Probably a mistake. At one point I weighed the coffee beans for my Mokka pot and got 17g. I make two of these per day. That’s about 12.5kg per year and probably costs CHF 250.- per year, plus coffee in coffee houses and restaurants.</p>
+
+<p>Anyway, taking pictures of the labels with my phone, relying on the optical character recognition so I can copy and paste this into <a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a>’s <a href="http://www.panix.com/~perin/babelcarp/">Babel Carp</a>, “a Chinese Tea Lexicon”, and reading the entriss is how I also spend extra time with the tea.</p>
+
+<ul>
+<li>Ye Lai Xiang (50g / CHF 41.50), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E5%87%A4%E5%87%B0%E5%8D%95%E4%B8%9B&amp;define=1">凤凰单丛</a>, Phoenix Single Bush, descended from Shuixian trees growing in Fenghuanshan, i.e., the Phoenix Mountains in Chao An, called 夜来香 or Nocturnal Fragrance, maybe due to roasting over lychee wood (although last time I bought it wasn’t nearly as strong as I remembered I still want back that lychee fragrance)</li>
+<li>Ya Shi Xiang Dong Pian (50g / CHF 55.00), another 凤凰单丛, this one being <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E9%B8%AD%E5%B1%8E%E9%A6%99%E5%86%AC%E7%89%87&amp;define=1">鸭屎香冬片</a> or “Smells Like Duck Shit” – this is confusing! – from Taiwan</li>
+<li>Gang Kou Cha Meer Oolong (100g / CHF 55.00), <a href="http://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E6%B8%AF%E5%8F%A3%E8%8C%B6&amp;define=1">港口茶</a>, harbour tea from Pingtung in Taiwan</li>
+<li>Jinggu 2016 ( 357g / CHF 180.00), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E6%99%AE%E6%B4%B1%E7%94%9F%E9%A5%BC%E5%8F%A4%E6%A0%91%E8%8C%B6&amp;define=1">普洱生饼古树茶</a>, Pu Er Shen Bing Gu Shu Cha, i.e., raw Pu Er from old trees in 景谷, Jinggu; this one is the cheapest I could get, being neither from the east nor west of the Mekong river from from further north; they had cakes from 2015 up to 2024, all at the same price, and I didn’t know which ones to pick so I picked an older one – was this a good choice?</li>
+<li>Jin Jiang Hui Ming (50g / CHF 40.00), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E9%87%91%E5%A5%96%E6%83%A0%E6%98%8E&amp;define=1">金奖惠明</a>, green tea  grown by the She Zu; it got a gold medal in 1915! 😄 Huiming is the name of a local temple</li>
+<li>Tama Ryokucha Hinpyoukai (50g / CHF 35.00), kept under shade for three weeks, giving it a gyokuro sencha touch, From Ureshino, Saga. This is the Tsuyuhikari plant variety.</li>
+<li>Gen Mai Bancha (125g / CHF 17.50)</li>
+<li>Hojicha (70g / CHF 13.50)</li>
+<li>Shincha Yame (100g / CHF 40.00)</li>
+<li>Sencha Hoshino (50g / CHF 42.50)</li>
+</ul>
+
+<p>Some everyday tea like Genmaicha and Hojicha; some Sencha; some green tea from China, and a Pu Er cake. I am an absolutely clueless buyer of tea and essentially I just know that my price range goes up to around CHF 60.-/50g.</p>
+
+<p>Nevertheless, in my hubris I wrote <a href="2024-10-22-chinese-tea">preparing Chinese tea for beginners</a>. In a way, I feel like you can’t do this journey all in one go, so I wrote what I thought was important to me when I got started and I’m hoping to read more from people further along.</p>
+
+<p>Let me know if you have books or articles to recommend.</p>
+
+<p><a class="tag" href="/search/?q=%23Tea">#Tea</a></p>
+
+<p><strong>2025-02-10</strong>. The Tama Ryokucha Hinpyoukai is intense! 😍</p>
+
+<p><img loading="lazy" src="2025-02-07-tea-1.jpg" alt="" /></p>
+
+<p><strong>2025-02-13</strong>. The Jin Jiang Hui Ming is very nice. Floral umami. It looks surprisingly light.</p>
+
+<p><img loading="lazy" src="2025-02-07-tea-2.jpg" alt="" /></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-07-tea>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-13, from: Miguel de Icaza Mastondon feed)
+
+<p>James Clancey added game sharing to Xogot which publishes to WebAssembly, try this from a desktop computer:</p><p><a href="https://share.xogot.com/clancey/antigolf" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">share.xogot.com/clancey/antigo</span><span class="invisible">lf</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113996553394894235>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Good morning macro data refiners</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113996485931853789>
+
+---
+
+## DOGE as a National Cyberattack
+
+date: 2025-02-13, updated: 2025-02-12, from: Bruce Schneier blog
+
+<p>In the span of just weeks, the US government has experienced what may be the most consequential security breach in its history&#8212;not through a sophisticated cyberattack or an act of foreign espionage, but through official orders by a billionaire with a poorly defined government role. And the implications for national security are profound.</p>
+<p>First, it was reported that people associated with the newly created Department of Government Efficiency (DOGE) had <a href="https://bsky.app/profile/wyden.senate.gov/post/3lh5ejpwncc23">accessed</a> <a href="https://www.nytimes.com/2025/02/01/us/politics/elon-musk-doge-federal-payments-system.html">the</a> <a href="https://nymag.com/intelligencer/article/elon-musk-doge-treasury-access-federal-payments.html">US</a> <a href="https://therecord.media/union-groups-sue-treasury-over-giving-doge-access-to-data">Treasury</a> computer system, giving them the ability to collect data on and potentially control the department&#8217;s roughly ...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/doge-as-a-national.html>
+
+---
+
+## LibreOffice still kicking at 40, now with browser tricks and real-time collab
+
+date: 2025-02-13, updated: 2025-02-13, from: Liam Proven's articles at the Register
+
+<h4><span class="label">FOSDEM 2025</span> Standard FOSS office suite continues to evolve in interesting new directions</h4>
+      <p>LibreOffice is a big, mature chunk of code now, but that doesn&#39;t make it impossible to teach it impressive new tricks. Some of them could make it more important than ever.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/02/13/libreoffice_wasm_zettaoffice/>
+
+---
+
+## Profiles in courage 
+
+date: 2025-02-13, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/profiles-in-courage>
+
+---
+
+## curl 8.12.1
+
+date: 2025-02-13, from: Daniel Stenberg Blog
+
+This is a quick follow-up patch release due to the number of ugly regressions in the 8.12.0 release. Release presentation Numbers the 265th release0 changes8 days (total: 9,827)65 bugfixes (total: 11,428)67 commits (total: 34,180)0 new public libcurl function (total: 96)0 new curl_easy_setopt() option (total: 306)0 new curl command line option (total: 267)25 contributors, 14 new &#8230; <a href="https://daniel.haxx.se/blog/2025/02/13/curl-8-12-1/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.12.1</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/02/13/curl-8-12-1/>
+
+---
+
+## February 12, 2025 
+
+date: 2025-02-13, from: Heather Cox Richardson blog
+
+Yesterday afternoon, in a bizarre performance, President Donald Trump hosted reporters in the Oval Office, the formal working space of the President of the United States. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-12-2025>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-13, from: Ryan Gantz Bluesky feed)
+
+how’s everybody doing 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lhztasb5ck26>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Good night macro data refiners</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113994526207630354>
+
+---
+
+## Apple Has Resumed Advertising on X for the First Time Since Late 2023
+
+date: 2025-02-13, updated: 2025-02-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/02/12/apple-resumes-advertising-on-x/>
+
+---
+
+## The Apple TV App Is Now Available on Android
+
+date: 2025-02-13, updated: 2025-02-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2025/02/the-apple-tv-app-is-now-available-on-android/>
+
+---
+
+##  The trailer for season six of The Handmaid&#8217;s Tale. Oh, no reason.... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046209-the-trailer-for-season-si>
+
+---
+
+## How WikiTok Was Created
+
+date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/gadgets/2025/02/new-wikitok-web-app-allows-infinite-tiktok-style-scroll-of-wikipedia/>
+
+---
+
+##  What can I do to fight this coup? &#8220;We will succeed because... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046207-what-can-i-do-to>
+
+---
+
+## WikiTok — Web App With TikTok-Style Interface for Exploring Random Wikipedia Articles
+
+date: 2025-02-12, updated: 2025-02-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://wikitok.vercel.app/>
+
+---
+
+##  Do Not Obey In Advance 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/do-not-obey-in-advance>
+
+---
+
+## Allison Johnson Reviews the Samsung Galaxy S25 and S25 Plus: ‘Incredibly Iterative’
+
+date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/reviews/610404/samsung-galaxy-s25-plus-review-screen-battery-camera>
+
+---
+
+## February 11, 2025
+
+date: 2025-02-12, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157018666/6266a39dd6e1781b5931207ad16a7243.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157018666/6266a39dd6e1781b5931207ad16a7243.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-11-2025-de2>
+
+---
+
+##  You&#8217;re Allowed to Feel like Garbage. &#8220;If you are a remotely informed... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046206-youre-allowed-to-feel-lik>
+
+---
+
+##  Trump&#8217;s Obsession With Immigration Is Really an Obsession With Segregation. His policies... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046205-trumps-obsession-with-imm>
+
+---
+
+##  Let This Radicalize You: Organizing and the Revolution of Reciprocal Care by... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046204-let-this-radicalize-you-o>
+
+---
+
+##  &#8220;We Are Hurtling Towards Having a Russian-Type Regime&#8221; 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/we-are-hurtling-towards-having-a-russian-type-regime>
+
+---
+
+##  Jamelle Bouie: Trump&#8217;s War on DEI Is Really a War on Civil... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046201-jamelle-bouie-trumps-war->
+
+---
+
+## The Information: Apple Chooses Alibaba as AI Partner in China
+
+date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theinformation.com/articles/apple-partners-with-alibaba-to-develop-ai-features-for-iphone-users-in-china?rc=jfy0lk>
+
+---
+
+##  Tressie McMillan Cottom&#8217;s latest is not easily summarized, but is well-worth a... 
+
+date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046200-tressie-mcmillan-cottoms->
 
 ---
 
@@ -25,14 +396,13 @@ This morning Wired published This Ad-Tech Company Is Powering Surveillance of US
 
 date: 2025-02-12, from: Dave Winer's Scripting News
 
-<p>I've had an experience few people have had, and it's relevant to the way all of us feel right now. The experience: Being part of a Silicon Valley company that was acquired by another Silicon Valley company. </p>
-<p>I was the CEO. I recognize the feeling, because Musk is acting as if he is the acquirer of a Silicon Valley company, and the company he has acquired in the USA. Or so he thinks. But the United States is not a Silicon Valley company where, you have departments and managers at every level, and each level must follow orders from the level above them. It doesn't work that way here. Deliberately. Very deliberately. </p>
+<p>I've had an experience few people have had, and it's relevant to the way all of us feel right now. The experience: Being part of a Silicon Valley company that was acquired by another Silicon Valley company. I was the CEO. </p>
+<p>I recognize the feeling, because Musk is acting as if he is the acquirer of a Silicon Valley company, and the company he has acquired in the USA. Or so he thinks. But the United States is not a Silicon Valley company where, you have departments and managers at every level, and each level must follow orders from the level above them. It doesn't work that way here. Deliberately. Very deliberately. </p>
 <p>There never has been a Silicon Valley company that gives each employee the rights and responsibilities of an American citizen. We don't take orders except in very exceptional circumstances, and then with all the rights guaranteed by the Constitution. That's why Musk and Trump are having so much trouble coming to grips with how this place works, because even the employees of the USA are voters and taxpayers and have rights that must be respected. That <i>will</i> be respected or all hell will break loose. </p>
 <p>Anyway, back to Silicon Valley acquisitions. Up to the point when you, the former CEO, are now a VP, and must take orders from the CEO, you didn't have to take orders from anyone, not even your board of directors. The CEO of the tech company is a lot like a citizen of the US, until they aren't a CEO any longer and have to do the bidding of the actual CEO (which is who Musk thinks he is relative to the USA). This is why even MAGAs who love Trump (or really the idea of Trump) aren't going to put up with his bullshit. American citizens, rich or poor, old or young, LBGTQ or whatever -- we all are <a href="https://en.wikipedia.org/wiki/Sovereign_state">sovereign</a>, ie we don't have to take orders from anyone, not even a supposed genius like Musk (sorry, but I am free to doubt his genius, something might take some getting used to by him). We don't take orders from him, or anyone else, except of course, as mentioned earlier under very special circumstances. </p>
 <p>Back to the disconnect in the Mind of Musk. Now you're supposed to sit here, quietly, while he rips apart the team you carefully built, the people you formed into a family with all its strengths and dysfunction. The new CEO (Musk) sweeps in with no idea what they're fucking with, and they don't want to hear about it. Finally you have to quit after a short time because you can't be part of the disaster they're creating. And always is a disaster, and sometimes they can dig out of it as he has done with Twitter, as we've seen many SV companies have. But again, for the 18th time, <i>the United States of America is not a Silicon Valley company.</i></p>
 <p>What triggered it for me was the story about how Musk didn't know he had terminated all cancer research being done by the US. Surrounded by yes men, they never would have told him. And he didn't want to hear it from a founder (like a congressperson or the head of the NIH or the acting Treasury secretary). This is going to be repeated over and over until the acquirer writes off the investment or who knows. His experience comes from acquiring Tesla and Twitter, which while they were large organizations are nothing compared with the United States. </p>
 <p>And ultimately the United States is going to chew up Musk and spit him out. We may be very damaged by the experience, but he will come out much worse than the country. Because we are not who he thinks we are. </p>
-<p>A great scene in Schindler's List. A concentration camp Jew, an engineer, tells the Nazi colonel he's fucking up. As he's about to blow her brains out, she says "this isn't going to make a difference." He proceeds. She was right. Musk should pay attention. The Nazis killed a lot of Jews, that's true. But there was no <a href="https://www.reddit.com/r/AskHistorians/comments/350uy7/where_did_hitler_come_up_the_idea_of_the_thousand/">thousand year Reich</a>, and Musk isn't going to Mars at least not this way.</p>
  
 
 <br> 
@@ -92,7 +462,7 @@ The JavaScript industrial complex won’t crumble anytime soon. But the stage is
 
 date: 2025-02-12, updated: 2025-02-12, from: Bruce Schneier blog
 
-<p>Here&#8217;s a supply-chain attack just waiting to happen. A group of researchers searched for, and then registered, abandoned Amazon S3 buckets for about $400. These buckets contained software libraries that are still used. Presumably the projects don&#8217;t realize that they have been abandoned, and still ping them for patches, updates, and etc.</p>
+<p>Here&#8217;s a <a href="https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/">supply-chain attack</a> just waiting to happen. A group of researchers searched for, and then registered, abandoned Amazon S3 buckets for about $400. These buckets contained software libraries that are still used. Presumably the projects don&#8217;t realize that they have been abandoned, and still ping them for patches, updates, and etc.</p>
 <blockquote><p>The TL;DR is that this time, we ended up discovering ~150 Amazon S3 buckets that had previously been used across commercial and open source software products, governments, and infrastructure deployment/update pipelines&#8212;and then abandoned...</p></blockquote> 
 
 <br> 
@@ -777,47 +1147,6 @@ date: 2025-02-10, updated: 2025-02-10, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/02/the-power-of-chaos>
-
----
-
-## 2025-02-07 I bought some tea
-
-date: 2025-02-10, from: Alex Schroeder's Blog
-
-<h1 id="2025-02-07-i-bought-some-tea">2025-02-07 I bought some tea</h1>
-
-<p>I buy tea about once a year. I also buy a lot of coffee but I have never compared the two. Probably a mistake. At one point I weighed the coffee beans for my Mokka pot and got 17g. I make two of these per day. That’s about 12.5kg per year and probably costs CHF 250.- per year, plus coffee in coffee houses and restaurants.</p>
-
-<p>Anyway, taking pictures of the labels with my phone, relying on the optical character recognition so I can copy and paste this into <a class="account" href="https://social.tchncs.de/@babelcarp" title="@babelcarp@social.tchncs.de">@babelcarp</a>’s <a href="http://www.panix.com/~perin/babelcarp/">Babel Carp</a>, “a Chinese Tea Lexicon”, and reading the entriss is how I also spend extra time with the tea.</p>
-
-<ul>
-<li>Ye Lai Xiang (50g / CHF 41.50), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E5%87%A4%E5%87%B0%E5%8D%95%E4%B8%9B&amp;define=1">凤凰单丛</a>, Phoenix Single Bush, descended from Shuixian trees growing in Fenghuanshan, i.e., the Phoenix Mountains in Chao An, called 夜来香 or Nocturnal Fragrance, maybe due to roasting over lychee wood (although last time I bought it wasn’t nearly as strong as I remembered I still want back that lychee fragrance)</li>
-<li>Ya Shi Xiang Dong Pian (50g / CHF 55.00), another 凤凰单丛, this one being <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E9%B8%AD%E5%B1%8E%E9%A6%99%E5%86%AC%E7%89%87&amp;define=1">鸭屎香冬片</a> or “Smells Like Duck Shit” – this is confusing! – from Taiwan</li>
-<li>Gang Kou Cha Meer Oolong (100g / CHF 55.00), <a href="http://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E6%B8%AF%E5%8F%A3%E8%8C%B6&amp;define=1">港口茶</a>, harbour tea from Pingtung in Taiwan</li>
-<li>Jinggu 2016 ( 357g / CHF 180.00), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E6%99%AE%E6%B4%B1%E7%94%9F%E9%A5%BC%E5%8F%A4%E6%A0%91%E8%8C%B6&amp;define=1">普洱生饼古树茶</a>, Pu Er Shen Bing Gu Shu Cha, i.e., raw Pu Er from old trees in 景谷, Jinggu; this one is the cheapest I could get, being neither from the east nor west of the Mekong river from from further north; they had cakes from 2015 up to 2024, all at the same price, and I didn’t know which ones to pick so I picked an older one – was this a good choice?</li>
-<li>Jin Jiang Hui Ming (50g / CHF 40.00), <a href="https://www.panix.com/~perin/babelcarp/babelcarp.cgi?phrase=%E9%87%91%E5%A5%96%E6%83%A0%E6%98%8E&amp;define=1">金奖惠明</a>, green tea  grown by the She Zu; it got a gold medal in 1915! 😄 Huiming is the name of a local temple</li>
-<li>Tama Ryokucha Hinpyoukai (50g / CHF 35.00),</li>
-<li>Gen Mai Bancha (125g / CHF 17.50)</li>
-<li>Hojicha (70g / CHF 13.50)</li>
-<li>Shincha Yame (100g / CHF 40.00)</li>
-<li>Sencha Hoshino (50g / CHF 42.50)</li>
-</ul>
-
-<p>Some everyday tea like Genmaicha and Hojicha; some Sencha; some green tea from China, and a Pu Er cake. I am an absolutely clueless buyer of tea and essentially I just know that my price range goes up to around CHF 60.-/50g.</p>
-
-<p>Nevertheless, in my hubris I wrote <a href="2024-10-22-chinese-tea">preparing Chinese tea for beginners</a>. In a way, I feel like you can’t do this journey all in one go, so I wrote what I thought was important to me when I got started and I’m hoping to read more from people further along.</p>
-
-<p>Let me know if you have books or articles to recommend.</p>
-
-<p><a class="tag" href="/search/?q=%23Tea">#Tea</a></p>
-
-<p><strong>2025-02-10</strong>. The Tama Ryokucha Hinpyoukai is intense! 😍</p>
-
-<p><img loading="lazy" src="2025-02-07-tea-1.jpg" alt="" /></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-02-07-tea>
 
 ---
 

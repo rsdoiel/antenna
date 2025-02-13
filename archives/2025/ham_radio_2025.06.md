@@ -1,11 +1,51 @@
 ---
 title: ham radio
-updated: 2025-02-12 07:08:33
+updated: 2025-02-13 07:09:09
 ---
 
 # ham radio
 
-(date: 2025-02-12 07:08:33)
+(date: 2025-02-13 07:09:09)
+
+---
+
+## Tracking preregulator boosts efficiency of PWM power DAC
+
+date: 2025-02-13, from: EDN Blog
+
+<img width="701" height="718" src="https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?fit=701%2C718" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?w=701 701w, https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?w=293 293w" sizes="(max-width: 701px) 100vw, 701px" /><p>Implementing another power DAC with an LM317 regulator into a PWM topology but this one adds a preregulator so it can run from a 5v rail.</p>
+<p>The post <a href="https://www.edn.com/tracking-preregulator-boosts-efficiency-of-pwm-power-dac/" data-wpel-link="internal">Tracking preregulator boosts efficiency of PWM power DAC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/tracking-preregulator-boosts-efficiency-of-pwm-power-dac/>
+
+---
+
+## Robert “Bob” Naumann, W5OV, Silent Key
+
+date: 2025-02-12, from: Amateur Radio Relay League News
+
+<p>Bob Naumann, W5OV, passed away at his home in Texas on February 10, 2025. Naumann was a mentor to many in the Amateur Radio Service, and well known in the ham radio contesting and DX community. He served on the headquarters staff of ARRL The National Association for Amateur Radio as Director of Operations from 2021 to 2024. He was an ARRL Life Member and a member of the ARRL Diamond Club.</p><p>ARRL C...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/robert-bob-naumann-w5ov-silent-key>
+
+---
+
+## The future of cybersecurity and the “living label”
+
+date: 2025-02-12, from: EDN Blog
+
+<img width="718" height="439" src="https://www.edn.com/wp-content/uploads/NIST-Labeling-considerations.png?fit=718%2C439" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/NIST-Labeling-considerations.png?w=718 718w, https://www.edn.com/wp-content/uploads/NIST-Labeling-considerations.png?w=300 300w" sizes="auto, (max-width: 718px) 100vw, 718px" /><p>Last month, the White House launched the Cyber Trust Mark; a large move towards the security of IoT devices.</p>
+<p>The post <a href="https://www.edn.com/the-future-of-cybersecurity-and-the-living-label/" data-wpel-link="internal">The future of cybersecurity and the “living label”</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-future-of-cybersecurity-and-the-living-label/>
 
 ---
 
@@ -13,7 +53,7 @@ updated: 2025-02-12 07:08:33
 
 date: 2025-02-11, from: EDN Blog
 
-<img width="908" height="516" src="https://www.edn.com/wp-content/uploads/Rheostat_Figure2.png?fit=908%2C516" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Rheostat_Figure2.png?w=908 908w, https://www.edn.com/wp-content/uploads/Rheostat_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/Rheostat_Figure2.png?w=768 768w" sizes="(max-width: 908px) 100vw, 908px" /><p>A programmable rheostat approach that minimizes both op-amp performance requirements and worst-case errors.</p>
+<img width="908" height="516" src="https://www.edn.com/wp-content/uploads/Rheostat_Figure2.png?fit=908%2C516" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rheostat_Figure2.png?w=908 908w, https://www.edn.com/wp-content/uploads/Rheostat_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/Rheostat_Figure2.png?w=768 768w" sizes="auto, (max-width: 908px) 100vw, 908px" /><p>A programmable rheostat approach that minimizes both op-amp performance requirements and worst-case errors.</p>
 <p>The post <a href="https://www.edn.com/a-class-of-programmable-rheostats/" data-wpel-link="internal">A class of programmable rheostats</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
