@@ -1,11 +1,109 @@
 ---
 title: health
-updated: 2025-02-13 07:09:12
+updated: 2025-02-14 07:09:10
 ---
 
 # health
 
-(date: 2025-02-13 07:09:12)
+(date: 2025-02-14 07:09:10)
+
+---
+
+## Enhanced invasion and survival of antibiotic- resistant Klebsiella pneumoniae pathotypes in host cells and strain-specific replication in blood
+
+date: 2025-02-14, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundKlebsiella pneumoniae is one of the most important opportunistic pathogens causing healthcare-associated and community-acquired infections worldwide. In recent years, the increase in antibiotic resistance and infections caused by hypervirulent K. pneumoniae poses great public health concerns. In this study, host-pathogen interactions of different K. pneumoniae strains of human and animal origins were analyzed in microbiological, cell-biological and immunological experiments.MethodsIn vitro infection experiments using representatives of different K. pneumoniae pathotypes and various epithelial and macrophage cell lines were executed analyzing adhesion, invasion and intracellular replication. Experimental conditions involved normoxia and hypoxia. Furthermore, survival and growth of further K. pneumoniae isolates expressing defined siderophores in blood (platelet concentrates, serum) was investigated. All experiments were done in triplicate and statistically significant differences were determined.ResultsSignificant differences in adhesion and invasion capability, phagocytosis resistance and intracellular replication were measured between different K. pneumoniae pathotypes. Especially, ESBL-producing K. pneumoniae isolates demonstrated increased invasion in host cell lines and survival in macrophages. A strong cytotoxic effect on intestinal cells was observed for hypervirulent K. pneumoniae. The results from our investigations of the growth behavior of K. pneumoniae in platelets and serum showed that siderophores and/or an enlarged capsule are not essential factors for the proliferation of (hypervirulent) K. pneumoniae strains in blood components.ConclusionOur in vitro experiments revealed new insights into the host-pathogen interactions of K. pneumoniae strains representing different pathovars and clonal lineages in different infectious contexts and hosts. While a clear limitation of our study is the limited strain set used for both infection and as potential host, the results are a further step for a better understanding of the pathogenicity of K. pneumoniae and its properties essential for different stages of colonization and infection. When developed further, these results may offer novel approaches for future therapeutics including novel “anti-virulence strategies”. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1522573>
+
+---
+
+## Molecular epidemiology and genetic dynamics of carbapenem-resistant hypervirulent Klebsiella pneumoniae in China
+
+date: 2025-02-14, from: Frontiers in Cellular and Infection Microbiology
+
+Carbapenem-resistant hypervirulent Klebsiella pneumoniae (CRhvKP) poses a significant global health threat due to its enhanced virulence and resistance. This study analyzed 5,036 publicly available K. pneumoniae genomes from China (2005–2023), identifying 1,538 CRhvKP genomes, accounting for 44.6% of carbapenem-resistant isolates and 69.5% of hypervirulent isolates. Predominant carbapenemases included blaKPC (92.1%), with an increasing prevalence of blaNDM and blaOXA-48-like genes. Most isolates (93.6%) carried both aerobactin and yersiniabactin genes. The genetic background showed high diversity, characterized by 36 sequence types (STs) and 22 capsule types, with high-risk endemic STs such as ST11, ST15, and ST23 being predominant. ST23 demonstrated enhanced virulence, whereas ST11 carried more resistance genes but showed minimal presence of iroBCDN genes. A core genome MLST analysis revealed that 89.0% of CRhvKP isolates clustered into 131 clonal groups, indicating widespread dissemination, particularly in eastern China. CR and hv plasmids, primarily IncF, IncH, and IncR types, showed distinct community structures, with CR plasmids demonstrating higher mobility and diversity. Crucially, we identified 40 CR-hv convergent plasmids across five STs, likely resulting from plasmid fusions, which have become increasingly prevalent in eastern China over the last decade. Furthermore, chromosomal integration of hv genes and blaKPC-2 was detected, underscoring the stable inheritance of these traits. Class 1 Integrons were present in 84.5% of CRhvKP strains, most notably in ST11 and least in ST23. These integrons harbored genes that confer resistance to various antibiotics, including blaIMP and blaVIM, with their content varying across different STs. This study highlights the genetic complexity, rapid dissemination, and increasing prevalence of CRhvKP in China, emphasizing the urgent need for enhanced genomic surveillance and targeted interventions to mitigate the threat posed by these multidrug-resistant and hypervirulent strains. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1529929>
+
+---
+
+## Characteristics of gut microbiota and metabolites in extrahepatic cholangiocarcinoma and their prognostic value for resectable lesions
+
+date: 2025-02-14, from: Frontiers in Cellular and Infection Microbiology
+
+This study aimed to investigate the relationship between gut microbiota composition, fecal metabolites, and postoperative prognosis in patients with extrahepatic cholangiocarcinoma (eCCA). A total of 53 patients with resectable eCCA and 21 healthy volunteers as a control group were included. 16S rRNA gene sequencing and metabolomic analyses revealed significant differences in the gut microbial community structure and altered fecal metabolites profiles between eCCA patients and healthy controls. Univariate and multivariate Cox regression analyses indicated that factors such as preoperative total bilirubin, indirect bilirubin, and specific metabolites were closely associated with overall survival in patients with eCCA post-surgery. The constructed nomogram model further demonstrated the predictive value of these factors, achieving a C-index of 0.718, with calibration curves confirming its strong predictive performance. In conclusion, gut microbiota composition and fecal metabolites play a crucial role in the surgical prognosis of eCCA patients, providing new insights for clinical prognostic assessment. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1523863>
+
+---
+
+## ChPDIA3 targeted by miR-126-x and miR-21-y responds to Vibrio harveyi infection in Crassostrea hongkongensis
+
+date: 2025-02-14, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe Hong Kong oyster (Crassostrea hongkongensis), as the main marine aquaculture shellfish in the South China Sea, not only has high economic and ecological value, but also is an ideal model for conducting research on pathogen-host interactions. In the cultivation process of C. hongkongensis, there is a challenge posed by vibrios. To improve the antibacterial strains of C. hongkongensis, we have studied the gene associated with immunity, PDIA3. Methods and findingsIn this study, we cloned the PDIA3 sequence of the C. hongkongensis, using the RACE technique. It has a total of 2081 bp and contains a 5'-UTR of 55 bp and a 3'-UTR of 547 bp. The ChPDIA3 gene sequence has an ORF frame that is 1479 bp in length and encodes 492 amino acids. Analysis of the phylogenetic tree constructed by Neighbor Joining method showed that ChPDIA3 clustered with other shellfishes into a single unit, which was consistent with the law of species evolution. DiscussionThe highest expression of ChPDIA3 was detected in gill tissues of the C. hongkongensis using RT-qPCR, and significantly higher expression in V. harveyi and LPS infection than Poly(I:C) (P<0.05). This may indicate that ChPDIA3 is primarily involved in the immune response against bacterial infections in the C. hongkongensis. The binding sites of miR-126-x, miR-21-y and ChPDIA3 were detected using dual luciferase experiments, respectively. The results showed that both miR-126-x and miR-21-y inhibited the 3'-UTR region of ChPDIA3. This suggested that both miR-126-x and miR-21-y inhibited ChPDIA3 expression. This study will help to further understand the function of ChPDIA3 in response to pathogen infection, thus providing new ideas for understanding the resistance and adaptation of the C. hongkongensis to Vibrio infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1533154>
+
+---
+
+## Global burden of reported lower respiratory system fungal infection
+
+date: 2025-02-14, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe epidemiological trend of lower respiratory tract fungal infections remains unclear. This study aims to quantify the global burden of these infections from 1990 to 2021 using data from the Global Burden of Disease Study 2021.MethodsData were analyzed at global, regional, and national levels, considering factors such as age, gender, region, and socio-demographic index (SDI). Key indicators included age-standardized disability-adjusted life-year (ASDR) and age-standardized mortality rates (ASMR).ResultsOn a global scale, the burden of lower respiratory fungal infections decreased significantly from 1990 to 2021, with a decline in mortality rates. Regionally, substantial disparities were observed among the 21 geographic super-regions. Nationally, Argentina experienced the greatest increase in ASDR and ASMR, while Finland showed the largest decrease, with average annual percentage changes (AAPC) below -5 for both indicators. Sex-based analysis revealed a notably higher burden in males compared to females. ASDR and ASMR were negatively correlated with SDI in most regions.ConclusionAlthough the global burden of lower respiratory tract fungal infections has decreased, it remains a substantial public health issue, particularly in low-SDI regions. There is an urgent need to implement targeted preventive measures to address this ongoing challenge. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1542922>
+
+---
+
+## Cell signaling in Ehrlichia infection and cancer: Parallels in pathogenesis
+
+date: 2025-02-14, from: Frontiers in Cellular and Infection Microbiology
+
+Ehrlichia chaffeensis (E. chaffeensis) has recently emerged as an intracellular bacterial pathogen with sophisticated survival mechanisms that include repurposing evolutionarily conserved eukaryotic cell signaling pathways for immune evasion. E. chaffeensis exploits four major developmental signaling pathways (Wnt, Notch, Hedgehog, and Hippo) using short linear motif (SLiM) ligand mimicry to initiate signaling cascades. Dysregulation of these major signaling pathways leading to unchecked cell survival is implicated in various diseases, most notably cancer. E. chaffeensis exploits Wnt, Notch, Hedgehog and Hippo signaling pathways to inhibit apoptosis and co-opt other cellular functions to promote infection. This review will explore the signaling pathways exploited during Ehrlichia infection and the new discoveries that have illuminated this interesting example of the cell signaling convergence in cellular infection and cancer biology. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1539847>
+
+---
+
+## A chionodracine-derived peptide, KHS-Cnd, as an anti-virulence agent against multidrug-resistant Acinetobacter baumannii clinical strains
+
+date: 2025-02-14, from: Frontiers in Cellular and Infection Microbiology
+
+About 71% of healthcare-associated infections are due to antibiotic-resistant bacteria, such as carbapenem-resistant A. baumannii, classified by World Health Organization into a critical priority group of pathogens. The antimicrobial resistance profile of A. baumannii relies on its ability to produce several virulence factors, including biofilm formation. Its ability to adhere and persist on surfaces as biofilm has contributed to its pathogenicity and drug resistance. In this study, the ability of an antimicrobial peptide (a chionodracine-derived peptide named KHS-Cnd) to inhibit or reduce biofilm formation was investigated as an example of a potential strategy to counteract infections caused by biofilm-forming pathogens. To this aim, the antimicrobial profiles were first analyzed in selected A. baumannii strains, two reference and six clinical strains, all biofilm-forming with different capability, regardless of whether they are drug resistant or sensitive. Successively, we investigated the bactericidal activity of the peptide that showed MIC values ranging from 5 to 10 µM and a significative antibiofilm activity on all tested strains at sub-inhibitory concentrations. In fact, KHS-Cnd can hinder biofilm A. baumannii strains formation with an inhibition percentage ranging between 65% and 10%. Also a statistically significant reduction of mature biofilm ranging from 20% to 50% was observed in four out of eight tested A. baumannii strains. KHS-Cnd impacts various stages of biofilm formation, including the inhibition of surface-associated and twitching motilities depending on the different strain. In particular, our results showed that only two strains possessed surface-associated motility that was strongly impaired by KHS-Cnd treatment; three clinical strains, instead, showed twitching motility, whose inhibition for two of them was evident after 24 h of incubation with peptide. Moreover, the invasion of pulmonary cells by A. baumannii was significantly impaired with a reduction of about 32% after treatment with 1.25 µM KHS-Cnd. Finally, when the peptide was used together with ceftazidime/avibactam against resistant A. baumannii strains, it was able to reduce the minimal inhibitory concentration of antibiotics needed to inhibit the microorganism growth. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1526246>
+
+---
+
+## Toxic Superfoods Debunked: A Kidney Stone Dietitian Review
+
+date: 2025-02-13, from: The Kidney Dietitian
+
+<p>If you haven&#8217;t heard of the book Toxic Superfoods by Sally Norton, I&#8217;d probably just skip this post. If you have read it, or heard Sally Norton speak, this one is for you! Toxic Superfoods and Sally Norton&#8217;s message center around how oxalate is &#8220;poisoning&#8221; all of us and that the healthcare system has been [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/toxic-superfoods/">Toxic Superfoods Debunked: A Kidney Stone Dietitian Review</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/toxic-superfoods/>
 
 ---
 

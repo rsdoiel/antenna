@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-02-13 07:09:09
+updated: 2025-02-14 07:09:06
 ---
 
 # ham radio
 
-(date: 2025-02-13 07:09:09)
+(date: 2025-02-14 07:09:06)
+
+---
+
+## Infineon expands package choices for SiC MOSFETs
+
+date: 2025-02-14, from: EDN Blog
+
+<img width="800" height="449" src="https://www.edn.com/wp-content/uploads/Infineon-CoolSiC-G2-Q-DPAK.jpg?fit=800%2C449" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Infineon-CoolSiC-G2-Q-DPAK.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-CoolSiC-G2-Q-DPAK.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-CoolSiC-G2-Q-DPAK.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Infineon has introduced Q-DPAK and TOLL package options to its lineup of 650-V CoolSiC Generation 2 MOSFETs.</p>
+<p>The post <a href="https://www.edn.com/infineon-expands-package-choices-for-sic-mosfets/" data-wpel-link="internal">Infineon expands package choices for SiC MOSFETs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/infineon-expands-package-choices-for-sic-mosfets/>
+
+---
+
+## Diodes afford ESD protection for automotive networks
+
+date: 2025-02-14, from: EDN Blog
+
+<img width="700" height="459" src="https://www.edn.com/wp-content/uploads/Nexperia-PESD1E.jpg?fit=700%2C459" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Nexperia-PESD1E.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Nexperia-PESD1E.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Nexperia’s PESD1ETH10 diodes protect sensitive electronics in 10Base-T1S in-vehicle networks from ESD damage.</p>
+<p>The post <a href="https://www.edn.com/diodes-afford-esd-protection-for-automotive-networks/" data-wpel-link="internal">Diodes afford ESD protection for automotive networks</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/diodes-afford-esd-protection-for-automotive-networks/>
+
+---
+
+## Software enables seamless IoT device management
+
+date: 2025-02-14, from: EDN Blog
+
+<img width="800" height="444" src="https://www.edn.com/wp-content/uploads/Congatec-aReady.IOT_.jpg?fit=800%2C444" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Congatec-aReady.IOT_.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Congatec-aReady.IOT_.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Congatec-aReady.IOT_.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>congatec’s aReady.IOT software building blocks offer secure IoT connectivity from aReady.COM computer-on-modules to the cloud.</p>
+<p>The post <a href="https://www.edn.com/software-enables-seamless-iot-device-management/" data-wpel-link="internal">Software enables seamless IoT device management</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/software-enables-seamless-iot-device-management/>
+
+---
+
+## QuickLogic enhances eFPGA design tool
+
+date: 2025-02-14, from: EDN Blog
+
+<img width="800" height="251" src="https://www.edn.com/wp-content/uploads/QuickLogic-Aurora.jpg?fit=800%2C251" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/QuickLogic-Aurora.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/QuickLogic-Aurora.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/QuickLogic-Aurora.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Version 2.9 of the Aurora embedded FPGA tool suite from QuickLogic enables seamless integration of block RAM and DSP functions.</p>
+<p>The post <a href="https://www.edn.com/quicklogic-enhances-efpga-design-tool/" data-wpel-link="internal">QuickLogic enhances eFPGA design tool</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/quicklogic-enhances-efpga-design-tool/>
+
+---
+
+## u-blox grows Bluetooth LE module portfolio
+
+date: 2025-02-14, from: EDN Blog
+
+<img width="700" height="443" src="https://www.edn.com/wp-content/uploads/u-blox-Nora-B2-variants.jpg?fit=700%2C443" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/u-blox-Nora-B2-variants.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/u-blox-Nora-B2-variants.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>New variants in the u-blox Nora-B2 Bluetooth LE 6.0 module family integrate Nordic’s entire nRF54L series of ultra-low power wireless SoCs.</p>
+<p>The post <a href="https://www.edn.com/u-blox-grows-bluetooth-le-module-portfolio/" data-wpel-link="internal">u-blox grows Bluetooth LE module portfolio</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/u-blox-grows-bluetooth-le-module-portfolio/>
+
+---
+
+## Why RISC-V is a viable option for safety-critical applications
+
+date: 2025-02-14, from: EDN Blog
+
+<img width="900" height="900" src="https://www.edn.com/wp-content/uploads/RISC-V_featured.jpg?fit=900%2C900" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/RISC-V_featured.jpg?w=900 900w, https://www.edn.com/wp-content/uploads/RISC-V_featured.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/RISC-V_featured.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RISC-V_featured.jpg?w=768 768w" sizes="auto, (max-width: 900px) 100vw, 900px" /><p>How the RISC-V architecture’s inherent traits align with the demands of functional safety standards like ISO 26262.</p>
+<p>The post <a href="https://www.edn.com/why-risc-v-is-a-viable-option-for-safety-critical-applications/" data-wpel-link="internal">Why RISC-V is a viable option for safety-critical applications</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/why-risc-v-is-a-viable-option-for-safety-critical-applications/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2025-02-13 07:09:09
 
 date: 2025-02-13, from: EDN Blog
 
-<img width="701" height="718" src="https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?fit=701%2C718" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?w=701 701w, https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?w=293 293w" sizes="(max-width: 701px) 100vw, 701px" /><p>Implementing another power DAC with an LM317 regulator into a PWM topology but this one adds a preregulator so it can run from a 5v rail.</p>
+<img width="701" height="718" src="https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?fit=701%2C718" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?w=701 701w, https://www.edn.com/wp-content/uploads/BoostedPWM_Figure1.png?w=293 293w" sizes="auto, (max-width: 701px) 100vw, 701px" /><p>Implementing another power DAC with an LM317 regulator into a PWM topology but this one adds a preregulator so it can run from a 5v rail.</p>
 <p>The post <a href="https://www.edn.com/tracking-preregulator-boosts-efficiency-of-pwm-power-dac/" data-wpel-link="internal">Tracking preregulator boosts efficiency of PWM power DAC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

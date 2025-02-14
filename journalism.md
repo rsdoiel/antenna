@@ -1,11 +1,78 @@
 ---
 title: journalism
-updated: 2025-02-13 07:09:11
+updated: 2025-02-14 07:09:08
 ---
 
 # journalism
 
-(date: 2025-02-13 07:09:11)
+(date: 2025-02-14 07:09:08)
+
+---
+
+## UCLA alumni-led ‘Four Women in Red’ raises awareness for Indigenous women
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article includes mentions of sexual violence that may be disturbing to some readers.
+To highlight the missing and murdered Indigenous women crisis, the Victory Theatre Center’s upcoming play, “Four Women in Red,” follows the story of four first women. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/ucla-alumni-led-four-women-in-red-raises-awareness-for-indigenous-women/>
+
+---
+
+## Power goes out multiple times in Westwood amid rains, flash flood warnings
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 14 at 1:30 a.m.</em>
+Parts of Westwood experienced multiple power outages Thursday night.&#160;
+Parts of Kelton Avenue and Ophir Drive were impacted by the outages, at least two of which were reported between 9 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/13/power-goes-out-multiple-times-in-westwood-amid-rains-flash-flood-warnings/>
+
+---
+
+## Dog walkers find community in early-morning meetups on UCLA’s campus
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Franklin D. Murphy Sculpture Garden spends its mornings filled with dogs.
+Beginning in May 2020, after the COVID-19 pandemic forced communities into lockdown, community member Keith Wilson and his Coton de Tulear named Bucky, walked around campus every day to stay active. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/13/dog-walkers-find-community-in-early-morning-meetups-on-uclas-campus/>
+
+---
+
+## Experts talk ways to combat antibiotic-resistant bacteria, protect global health
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA researchers identified a new strain of drug-resistant bacteria in a study published last December.
+ Three patients in Los Angeles County reported symptoms of an intestinal infection caused by Shigella bacteria across three months late last year. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/13/experts-talk-ways-to-combat-antibiotic-resistant-bacteria-protect-global-health/>
+
+---
+
+## Second Take: ‘Situationships’ are a tool to circumvent responsibility, shaped by social media
+
+date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 13 at 9:05 p.m.</em>
+We have found ourselves in a sticky situation…ship.
+The term “situationship” has emerged as the latest relationship type among Generation Z adults and adolescents. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/13/second-take-situationships-are-a-tool-to-circumvent-responsibility-shaped-by-social-media/>
 
 ---
 
@@ -13,6 +80,7 @@ updated: 2025-02-13 07:09:11
 
 date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 14 at 12:11 a.m.</em>
 A federal judge halted a plan to cut National Institutes of Health grants in 22 states Monday, blocking a policy that would limit research funding across the UC. 
 
 <br> 
@@ -93,8 +161,8 @@ I sat on a call with Shane Black, the creator of “Lethal Weapon” – and one
 
 date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Trump administration agreed to pause Elon Musk&#8217;s Department of Government Efficiency&#8217;s access to student information after the UC Student Association sued to stop it. 
-The agreement will temporarily cease the disclosure of the United States Department of Education&#8217;s personal and financial information to DOGE through Monday. 
+<em>This post was updated Feb. 13 at 11:58 p.m.</em>
+The Trump administration agreed to pause Elon Musk’s Department of Government Efficiency’s access to student information after the UC Student Association sued to stop it. 
 
 <br> 
 
@@ -106,8 +174,8 @@ The agreement will temporarily cease the disclosure of the United States Departm
 
 date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-Students and faculty in some lab classes were evacuated from Young Hall after unidentified odors were reported.
-Students reported smelling an unidentified odor around 3:15 p.m. 
+<em>This post was updated Feb. 13 at 11:50 p.m.</em>
+Students and faculty in some lab classes were evacuated from Young Hall after unidentified odors were reported. 
 
 <br> 
 
@@ -119,9 +187,9 @@ Students reported smelling an unidentified odor around 3:15 p.m.
 
 date: 2025-02-13, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated Feb. 12 at 6:40 p.m.</em>
+<em>This post was updated Feb. 13 at 11:45 p.m.</em>
 Chancellor Julio Frenk announced Wednesday that the university suspended two pro-Palestine groups at UCLA.
-The move, announced in a campuswide email, comes after around 50 members of the two groups – Students for Justice in Palestine and Graduate Students for Justice in Palestine – protested outside of UC Regent Jay Sures’ Brentwood home Feb. 
+The move, announced in a campuswide email, comes after around 50 members of the two groups – Students for Justice in Palestine and Graduate Students for Justice in Palestine at UCLA – protested outside of UC Regent Jay Sures’ Brentwood home Feb. 
 
 <br> 
 

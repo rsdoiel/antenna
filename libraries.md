@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-02-13 07:09:11
+updated: 2025-02-14 07:09:09
 ---
 
 # libraries
 
-(date: 2025-02-13 07:09:11)
+(date: 2025-02-14 07:09:09)
+
+---
+
+## Upholding Our Legacy of DEIA
+
+date: 2025-02-14, from: Scholarly Kitchen
+
+<p>Reflections on the current moment from SSP’s Board of Directors.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/14/upholding-our-legacy-of-deia/">Upholding Our Legacy of DEIA</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/14/upholding-our-legacy-of-deia/>
 
 ---
 
@@ -19,6 +33,34 @@ Möckli, Daniel
 <br> 
 
 <http://hdl.handle.net/20.500.11850/721492>
+
+---
+
+## ARL Has Love for Data Week
+
+date: 2025-02-13, from: Association of Research Libraries News
+
+<p>Last Updated on February 13, 2025, 11:44 am ET It’s raining data! “Hallelujah!” During Love Data Week, the international celebration of data focuses on building and engaging community around good...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-has-love-for-data-week/">ARL Has Love for Data Week</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-has-love-for-data-week/>
+
+---
+
+## Day in Review (February 10–13)
+
+date: 2025-02-13, from: Association of Research Libraries News
+
+<p>Last Updated on February 13, 2025, 2:20 pm ET Sign up to receive the Day in Review by email. Do you work for an ARL member library and have news...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-10-13/">Day in Review (February 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-february-10-13/>
 
 ---
 
@@ -99,20 +141,6 @@ A young woman in the English Midlands struggles to find a direction in life.
 <br> 
 
 <https://standardebooks.org/ebooks/d-h-lawrence/the-lost-girl>
-
----
-
-## Day in Review (February 10–13)
-
-date: 2025-02-10, from: Association of Research Libraries News
-
-<p>Last Updated on February 10, 2025, 4:59 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 11 &#124; Wednesday, February 12 &#124; Thursday,...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-10-13/">Day in Review (February 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
- 
-
-<br> 
-
-<https://www.arl.org/day-in-review/day-in-review-february-10-13/>
 
 ---
 

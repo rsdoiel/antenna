@@ -1,11 +1,267 @@
 ---
 title: going electric
-updated: 2025-02-13 07:09:12
+updated: 2025-02-14 07:09:11
 ---
 
 # going electric
 
-(date: 2025-02-13 07:09:12)
+(date: 2025-02-14 07:09:11)
+
+---
+
+## Wheel-E Podcast: Free NYC e-bikes, OnlyFans handlebars, more
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes an NYC program to give out free e-bikes to delivery riders, a new bicycle handlebar designed with help from Onlyfans, Vammo’s 1 million battery swaps, a new e-moto/e-snowmobile project, Lift electric hydrofoil boards, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="401818" href="https://electrek.co/2025/02/14/wheel-e-podcast-free-nyc-e-bikes-onlyfans-handlebars-more/#more-401818" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/wheel-e-podcast-free-nyc-e-bikes-onlyfans-handlebars-more/>
+
+---
+
+## All the best EV (and PHEV) rebate deals we could find for February 2025
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/dodge_charger_EVs.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Cynics will point at big rebates and claim they mean the vehicle isn’t selling, but that just exposes them as auto industry noobs. A rebate is a powerful finance tool that helps dealers overcome obstacles like negative equity, poor credit, down payment requirements, and interest rate objections – and, ultimately, get a deal done.</p>
+
+
+
+<p>If you’re dealing with any of the above, pay attention: these plug-in cars could get you behind the wheel of a new ride sooner than you think!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,rebates" data-layer-viewtype="unknown" data-post-id="401778" href="https://electrek.co/2025/02/14/all-the-best-ev-and-phev-rebate-deals-we-could-find-for-february-2025/#more-401778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/all-the-best-ev-and-phev-rebate-deals-we-could-find-for-february-2025/>
+
+---
+
+## Toyota’s Third-Generation Hydrogen Fuel Cell Promises More Range
+
+date: 2025-02-14, from: Inside EVs News
+
+Despite slow sales of the Mirai FCEV, the automaker is not giving up on hydrogen. 
+
+<br> 
+
+<https://insideevs.com/news/750736/toyota-3rd-generation-hydrogen-fuel-cell/>
+
+---
+
+## Porsche Will Cut 1,900 Jobs Amid Sluggish EV Growth
+
+date: 2025-02-14, from: Inside EVs News
+
+The staff reduction comes on top of other rounds of layoffs that affect 2,000 people. 
+
+<br> 
+
+<https://insideevs.com/news/750703/porsche-job-cuts-2025/>
+
+---
+
+## IEA: power use to soar through 2027, but renewables will keep up
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/pexels-photo-95719.jpeg?quality=82&#038;strip=all&#038;w=1500" /></div><p>The International Energy Agency’s (IEA) newly released “Electricity 2025” report predicts that global power consumption will jump nearly 4% annually through 2027. That’s like adding an entire Japan’s worth of electricity use every year for the next three years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,electrical-grid,solar,solar-power" data-layer-viewtype="unknown" data-post-id="401766" href="https://electrek.co/2025/02/13/iea-power-use-soars-through-2027-but-renewables-will-keep-up/#more-401766" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/iea-power-use-soars-through-2027-but-renewables-will-keep-up/>
+
+---
+
+## Mercedes-Benz DC fast chargers are rolling out in Canada
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Mercedes-Charging-Site.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Mercedes-Benz High-Power Charging network is expanding into Canada, with more than 2,500 fast chargers planned across Canada and the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,dc-fast-charging,mercedes-benz" data-layer-viewtype="unknown" data-post-id="401739" href="https://electrek.co/2025/02/13/mercedes-benz-dc-fast-chargers-are-rolling-out-in-canada/#more-401739" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/mercedes-benz-dc-fast-chargers-are-rolling-out-in-canada/>
+
+---
+
+## Hyundai officially launches its flagship IONIQ 9 in Korea, next stop is the US
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Hyundai-IONIQ-9-Korea.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai just launched its first flagship EV, the IONIQ 9, in South Korea. The <a href="https://electrek.co/guides/hyundai-ioniq-9/">IONIQ 9</a> is the largest Hyundai electric SUV with “best-in-class” interior space and features more driving range than any other  EV in its lineup. For those of you in the US, get ready. You’re up next.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="401737" href="https://electrek.co/2025/02/13/hyundai-ioniq-9-officially-launches-korea-next-stop-is-the-us/#more-401737" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/hyundai-ioniq-9-officially-launches-korea-next-stop-is-the-us/>
+
+---
+
+## Meet the Chevy Blazer EV.R, packing +1,300 horsepower from three electric motors
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Chevy-Blazer-EV.R-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Chevy just unveiled a ferocious new Blazer EV.R prototype. Based on the new <a href="https://electrek.co/guides/chevy-blazer-ev/">Blazer EV SS</a> and NASCAR’s tri-motor powertrain, the prototype delivers over 1,300 horsepower.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="blazer-ev,chevrolet,chevy-blazer-ev" data-layer-viewtype="unknown" data-post-id="401713" href="https://electrek.co/2025/02/13/chevy-blazer-ev-r-over-1300-horsepower/#more-401713" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/chevy-blazer-ev-r-over-1300-horsepower/>
+
+---
+
+## Oil-backed senators introduce bills to kill $7,500 EV tax credit, add $1,000 tax on electric cars
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/01/electric-vehicle-charging-vs-gasoline-e1484590338347.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Republican Senators have introduced bills to not only kill the $7,500 tax credit for electric vehicles but also add a $1,000 tax at the purchase of new EVs.</p>
+
+
+
+<p>President Trump campaigned on killing the $7,500 tax credit for electric vehicles. Therefore, it’s not surprising that it’s happening, but now we have a better idea of how.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="401716" href="https://electrek.co/2025/02/13/oil-backed-senators-introduce-bills-to-kill-7500-ev-tax-credit-add-1000-tax-on-electric-cars/#more-401716" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/oil-backed-senators-introduce-bills-to-kill-7500-ev-tax-credit-add-1000-tax-on-electric-cars/>
+
+---
+
+## Tesla turns to creative solutions to try to prevent charging cable thefts
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-cable-theft-prevention.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is testing a couple of creative solutions to try to prevent charging cable thefts at its Supercharging stations, which has become a serious problem for all charging station operators.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="401685" href="https://electrek.co/2025/02/13/tesla-turns-to-creative-solutions-to-try-to-prevent-charging-cable-thefts/#more-401685" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/tesla-turns-to-creative-solutions-to-try-to-prevent-charging-cable-thefts/>
+
+---
+
+## Lectric XPeak 1.0 e-bike with $727 in free gear (extra battery), Jackery Explorer 1000 v2 $459, EGO Power+ snow blower, Rexing, more
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/XPeak-1.0-Step-Thru-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leading today’s Green Deals is the continued clearance sale on <a href="https://9to5toys.com/2025/02/12/lectric-xpeak-1-0-1399/">Lectric’s XPeak 1.0 Step-Thru Off-Road e-bike</a> that is getting $727 in free gear (including an extra battery for double mileage) at <a href="https://9to5toys.com/2025/02/12/lectric-xpeak-1-0-1399/">$1,399</a>, as well as the options to start off or upgrade to the latest <a href="https://9to5toys.com/2025/02/12/lectric-xpeak-1-0-1399/">XPeak 2.0 models</a> that start from the same rate. Next, over at Amazon, Jackery is undercutting its direct sale’s pricing on the <a href="https://9to5toys.com/2025/02/12/jackery-explorer-1000-v2-459/">Explorer 1000 v2</a> Portable Power Station and dropping it to <a href="https://9to5toys.com/2025/02/12/jackery-explorer-1000-v2-459/">$459</a>. We also spotted the <a href="https://9to5toys.com/2025/02/13/ego-power-snow-blower-steel-auger-599/">EGO Power+ 56V 21-inch Cordless Electric Snow Blower</a> that is equipped with a steel auger and comes with two 5.0Ah batteries down at <a href="https://9to5toys.com/2025/02/13/ego-power-snow-blower-steel-auger-599/">$599</a>, as well as a one-day-only discount on <a href="https://9to5toys.com/2025/02/13/rexing-48a-tesla-extension-cable-230/">Rexing’s 20-foot 48A Tesla Extension Charging Cable to $230</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s various <a href="https://9to5toys.com/2025/02/12/camplux-electric-tankless-water-heaters-from-170/">Camplux electric tankless water heater</a> price cuts, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="401688" href="https://electrek.co/2025/02/13/lectric-xpeak-1-0-e-bike-jackery-ego-power-rexing-more/#more-401688" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/lectric-xpeak-1-0-e-bike-jackery-ego-power-rexing-more/>
+
+---
+
+## VinFast (VFS) delivered nearly 100,000 EVs last year, but here’s the catch
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/VinFast-VF-3-pre-orders-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>VinFast’s (VFS) deliveries surged last year, nearly tripling from 2023. Although <a href="https://electrek.co/guides/vinfast/">VinFast</a> delivered almost 100,000 EVs in 2024, nearly 90% were in its home market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="vinfast" data-layer-viewtype="unknown" data-post-id="401686" href="https://electrek.co/2025/02/13/vinfast-vfs-delivers-nearly-100k-evs-2024-but-theres-a-catch/#more-401686" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/vinfast-vfs-delivers-nearly-100k-evs-2024-but-theres-a-catch/>
+
+---
+
+## Porsche is cutting nearly 2,000 jobs in Germany as its EV struggles worsen
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Porsche-Taycan-deliveries-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/porsche/">Porsche</a> plans to cut 1,900 jobs in Germany by 2029 as it struggles with slumping EV sales. The luxury sports car maker has already warned of lower profits this year. With plans to reduce its workforce, is Porsche sounding the alarm?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche" data-layer-viewtype="unknown" data-post-id="401665" href="https://electrek.co/2025/02/13/porsche-cut-nearly-2000-german-jobs-ev-struggles-worsen/#more-401665" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/porsche-cut-nearly-2000-german-jobs-ev-struggles-worsen/>
+
+---
+
+## Solid-State Batteries Are In ‘Trailblazer’ Mode. What's Holding Them Up?
+
+date: 2025-02-13, from: Inside EVs News
+
+Solid-state batteries could enable 600-mile EVs and reduce fires. Now, battery makers are racing to get them over the finish line. 
+
+<br> 
+
+<https://insideevs.com/news/749893/evs-solid-state-batteries-near-finish-line-roadblocks/>
+
+---
+
+## Two New Bills Would Kill The EV Tax Credit, Slap $1,000 Tax On EV Purchases
+
+date: 2025-02-13, from: Inside EVs News
+
+Plus, Honda-Nissan merger is officially dead and Foxconn is coming for the scraps. 
+
+<br> 
+
+<https://insideevs.com/news/750527/ev-tax-credit-road-tax/>
+
+---
+
+## Tesla Takeover: protests planned at Tesla stores globally this weekend
+
+date: 2025-02-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Screenshot-2025-02-10-at-10.25.56 AM.png?w=1600" /></div><p>Tesla is being targeted by protests organized at its stores around the globe. The demonstrations planned for this Saturday appear to be a grassroots movement without a clear goal or leadership.</p>
+
+
+
+<p>The protestors are calling it the “Tesla Takeover”.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="401596" href="https://electrek.co/2025/02/13/tesla-takeover-protests-pla-at-stores-this-weekend-tesla-takeover/#more-401596" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/13/tesla-takeover-protests-pla-at-stores-this-weekend-tesla-takeover/>
 
 ---
 

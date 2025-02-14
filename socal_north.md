@@ -1,11 +1,205 @@
 ---
 title: socal north
-updated: 2025-02-13 07:09:09
+updated: 2025-02-14 07:09:05
 ---
 
 # socal north
 
-(date: 2025-02-13 07:09:09)
+(date: 2025-02-14 07:09:05)
+
+---
+
+## YouTube turns 20 years old today
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+Twenty years ago, three former PayPal employees activated the domain name "YouTube.com." The first YouTube video followed soon after. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/youtube-turns-20-years-old-today>
+
+---
+
+## Worst of year's biggest storm passes, but mudslide and debris flow risk remains
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+Rain Thursday and overnight into Friday caused mud and debris flows in some burn scar areas in Southern California 
+
+<br> 
+
+<https://laist.com/news/biggest-storm-february-mudslides-debris>
+
+---
+
+## LAUSD cellphone ban begins Tuesday, bringing hope and frustration
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+The ban on student cellphone use in the country’s second largest school district starts Tuesday. 
+
+<br> 
+
+<https://laist.com/news/education/los-angeles-unified-cell-phone-ban-february-2025-preview>
+
+---
+
+## Has homelessness changed under Mayor Bass? Here’s what you told us
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+LAist readers share what they’ve observed in their neighborhoods. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/homeless-survey-los-angeles-mayor-bass-laist>
+
+---
+
+## 5 places to get gorgeous chocolates for Valentine’s Day
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+No need to grab gas station flowers for your Valentine. Our list of chocolate shops has you covered. 
+
+<br> 
+
+<https://laist.com/news/food/5-places-to-get-gorgeous-chocolates-for-valentines-day>
+
+---
+
+## Rounding up what happened with Elon Musk and DOGE this week
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+Elon Musk has emerged as a key figure in President Trump's plans to reshape the government. Here's a recap of this week with the Department of Government Efficiency (DOGE) team he leads. 
+
+<br> 
+
+<https://laist.com/news/politics/this-week-in-doge-elon-musks-role-in-overhauling-america-inc>
+
+---
+
+## Art, Innovation and Community
+
+date: 2025-02-14, from: City of Santa Clarita
+
+<p>By Mayor Bill Miranda Since the beginning of time, art has been a unifying force, a medium through which people connect, express and envision the world in new and exciting ways. In Santa Clarita, the varied arts you see daily are not just a part of our culture, they are integral to our identity as [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/13/art-innovation-and-community/">Art, Innovation and Community</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/13/art-innovation-and-community/>
+
+---
+
+## Dating app cover-up: how Tinder, Hinge, and their corporate owner keep rape under wraps
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+The company behind more than a dozen dating apps, Match Group, has known for years about the abusive users on its platforms, but chooses to leave millions of people in the dark 
+
+<br> 
+
+<https://laist.com/news/dating-app-cover-up-tinder-hinge-corporate-owner-keep-rape-under-wraps>
+
+---
+
+## Families separated at the border are protected by a 2023 settlement. Will Trump honor it?
+
+date: 2025-02-13, updated: 2025-02-14, from: The LAist
+
+The ACLU and immigrant advocates are on alert for new actions which might undermine a 2023 settlement meant to protect immigrant families separated at the border under the first Trump presidency. 
+
+<br> 
+
+<https://laist.com/news/politics/families-separated-at-the-border-are-protected-by-a-2023-settlement-will-trump-honor-it>
+
+---
+
+## As financial aid applications lag, state urges college counselors to double their efforts
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+Completion rates for FAFSA and other support are down compared with last year, though the deadline has been extended for many SoCal students. 
+
+<br> 
+
+<https://laist.com/news/education/california-financial-aid-applications-completion-rates-fafsa-cadaa>
+
+---
+
+## Craft supplier Joann to close 60% of its stores across U.S. as it looks for a buyer
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+The move to close 500 stores comes after Joann declared bankruptcy for the second time in less than a year. 
+
+<br> 
+
+<https://laist.com/news/joann-to-close-stores-across-us>
+
+---
+
+## Over $600M in tax dollars will start rolling in soon under Measure A. Here’s how you can weigh in
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+The proposed spending plan is up for discussion today and a decision is expected as early as next month. And LAist wants to hear from you. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/measure-a-public-comment-tax-dollars-homeless>
+
+---
+
+## Retailers including Trader Joe's and Kroger have started limiting egg purchases
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+Egg farmers have been plagued by widespread outbreaks of bird flu. Experts say it's hard to predict when the industry will bounce back from the illness' effects. 
+
+<br> 
+
+<https://laist.com/news/food/retailers-including-trader-joes-and-kroger-have-started-limiting-egg-purchases>
+
+---
+
+## You could soon get hit with a ticket for parking in LA bus lanes or bus stops
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+The Bus Lane Enforcement Program will start issuing $293 citations on Monday along some bus routes. 
+
+<br> 
+
+<https://laist.com/news/transportation/you-could-soon-get-hit-with-a-ticket-for-parking-in-la-bus-lanes-or-bus-stops>
+
+---
+
+## Voter Game Plan: Get ready to vote in the 36th State Senate race
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+Your overview of the candidates and issues in the Feb. 25 special election. The top two vote-getters will face off in April unless one of the candidates wins more than 50% of the vote outright. 
+
+<br> 
+
+<https://laist.com/news/politics/voter-game-plan-guide-to-the-36th-state-senate-race>
+
+---
+
+## Best things to do Valentine's Day weekend in SoCal: February 14 - 16
+
+date: 2025-02-13, updated: 2025-02-13, from: The LAist
+
+Party your heart out at the Skyline Festival, enjoy a show celebrating the Nyamakala cirque tradition of West Africa, relax in the park with a sound bath, share a romantic dinner with your loved one and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-valentines-day-los-angeles-southern-california-february-14-16>
 
 ---
 
@@ -498,6 +692,18 @@ date: 2025-02-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 ---
 
+## Stuffed sweet plantains, gogi-gooey burgers and peanut salsa: LA food trucks to try right now
+
+date: 2025-02-11, updated: 2025-02-14, from: The LAist
+
+Yes, there's tacos, but there's so much more 
+
+<br> 
+
+<https://laist.com/news/food/five-la-food-trucks-you-should-try-right-now>
+
+---
+
 ## JPL laid off its K-12 education team. Now teachers lament how to fill the gap
 
 date: 2025-02-11, updated: 2025-02-11, from: The LAist
@@ -507,18 +713,6 @@ During the latest round of layoffs, the tiny team was among the hundreds let go.
 <br> 
 
 <https://laist.com/news/education/jet-propulsion-laboratory-jpl-k12-education-team-layoffs>
-
----
-
-## Five LA food trucks you should try right now
-
-date: 2025-02-11, updated: 2025-02-11, from: The LAist
-
-Fish tacos with pineapple salsa, plantains with rice custard and black beans, and stuffed bulgogi beef burgers bring zing to the food truck scene. 
-
-<br> 
-
-<https://laist.com/news/food/five-la-food-trucks-you-should-try-right-now>
 
 ---
 

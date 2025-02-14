@@ -1,11 +1,405 @@
 ---
 title: columns
-updated: 2025-02-13 07:09:10
+updated: 2025-02-14 07:09:07
 ---
 
 # columns
 
-(date: 2025-02-13 07:09:10)
+(date: 2025-02-14 07:09:07)
+
+---
+
+## Unpaid ‘Special Factory Employee’
+
+date: 2025-02-14, updated: 2025-02-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.newyorker.com/cartoons/daily-cartoon/thursday-february-13th-cookie-monster>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-14, from: Dave Winer's Scripting News)
+
+Anne Applebaum <a href="https://www.theatlantic.com/ideas/archive/2025/02/doge-civil-servant-purge/681671/?gift=f35zZN0v_gDFE8xNwlQAHd7I9nfBVsjGO27C-LzTrD8&utm_source=copy-link&utm_medium=social&utm_campaign=share">writing</a> in the Atlantic says that people in the US feel like we're living in an occupied country. I get it. That's what it feels like to be in a Silicon Valley company that has been acquired by another Silicon Valley company, a subject I <a href="http://scripting.com/2025/02/12/140926.html">wrote about</a> on Wednesday. I wish there was some way for us to communicate with each other about this, because I'm sure my description comes closer to the way Musk sees it, though they are very similar ideas. One of the defects of the social web is that we live in little bubbles and not much information is exchanged over bubble boundaries. So if anyone knows Applebaum, please send her a link to this post. Thanks. 
+
+<br> 
+
+<http://scripting.com/2025/02/14.html#a141047>
+
+---
+
+## AI and Civil Service Purges
+
+date: 2025-02-14, updated: 2025-02-13, from: Bruce Schneier blog
+
+<p>Donald Trump and Elon Musk&#8217;s chaotic approach to reform is upending government operations. Critical functions have been <a href="https://www.theguardian.com/us-news/2025/feb/05/musk-doge-takeover-usaid">halted</a>, tens of thousands of federal staffers are being encouraged to <a href="https://www.wsj.com/lifestyle/careers/federal-workers-accept-buyout-offers-be1c00fb">resign</a>, and congressional mandates are being <a href="https://thehill.com/business/5124133-democrats-bill-treasury-system-musk/">disregarded</a>. The next phase: The Department of Government Efficiency <a href="https://www.nytimes.com/2025/02/03/technology/musk-allies-ai-government.html">reportedly</a> wants to use AI to cut costs. According to <em>The Washington Post</em>, Musk&#8217;s group has started to <a href="https://www.washingtonpost.com/nation/2025/02/06/elon-musk-doge-ai-department-education/">run sensitive data</a> from government systems through AI programs to analyze spending and determine what could be pruned. This may lead to the elimination of human jobs in favor of automation. As one government official who has been tracking Musk&#8217;s DOGE team told the...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/ai-and-civil-service-purges.html>
+
+---
+
+## Overwhelm… Overreach… Overthrown.
+
+date: 2025-02-14, from: Michael Moore's blog
+
+How Trump Is Cooking His Own Goose. 
+
+<br> 
+
+<https://www.michaelmoore.com/p/overwhelm-overreach-overthrown>
+
+---
+
+## Say what this is: a coup. 
+
+date: 2025-02-14, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/say-what-it-is-a-coup>
+
+---
+
+## February 13, 2025 
+
+date: 2025-02-14, from: Heather Cox Richardson blog
+
+Four years ago today, on February 13, 2021, Senate Republicans acquitted former president Donald Trump of incitement of insurrection in his second impeachment trial. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-13-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Good night macro data refiners</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114000162479467504>
+
+---
+
+## Apple and Google Both Return TikTok to App Stores, After Letter of ‘Assurance’ From Attorney General Pam Bondi
+
+date: 2025-02-14, updated: 2025-02-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/612768/tiktok-app-store-apple-google-us-ban>
+
+---
+
+##  How to stop Trump&#8217;s power grab. &#8220;Trump isn&#8217;t inevitable. Here&#8217;s a plan... 
+
+date: 2025-02-14, updated: 2025-02-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046219-how-to-stop-trumps-power>
+
+---
+
+##  The Venn Diagram of Trump&#8217;s Authoritarian Actions 
+
+date: 2025-02-14, updated: 2025-02-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-venn-diagram-of-trumps-authoritarian-actions>
+
+---
+
+## Friday 14 February, 2025
+
+date: 2025-02-14, from: John Naughton's online diary
+
+Blooming heck! A truly amazing plant. We come down every morning and it’s done something new. Quote of the Day ”If it’s sent by ship, it’s cargo. If sent by road, it’s shipment.” Dave Allen Musical alternative to the morning’s &#8230; <a href="https://memex.naughtons.org/friday-14-february-2025/40437/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-14-february-2025/40437/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-14, from: Miguel de Icaza Mastondon feed)
+
+<p>One problem of developing with SwiftUI previews is that I get used to the look and optimize for my screen.</p><p>And then when I run it on device a month later, all the UI elements are tiny.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113999354399878763>
+
+---
+
+##  Really interesting essay about organizing: How Much Discomfort Is the Whole World... 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046217-really-interesting-essay->
+
+---
+
+## A Dangerous Bromance Is Back
+
+date: 2025-02-13, from: Dan Rather's Steady
+
+It&#8217;s already a win-win for the Russian president 
+
+<br> 
+
+<https://steady.substack.com/p/a-dangerous-bromance-is-back>
+
+---
+
+##  &#8220;Fuck the Middle Ground&#8221; 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/fuck-the-middle-ground>
+
+---
+
+## Quid Pro Cybertruck
+
+date: 2025-02-13, updated: 2025-02-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/02/12/us/politics/trump-tesla-musk-cybertruck.html>
+
+---
+
+##  House GOP has reintroduced the SAVE Act, which would require voters to... 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046216-house-gop-has-reintroduce>
+
+---
+
+## LLMs and World Models, Part 2
+
+date: 2025-02-13, from: Melanie Mitchell, AI Guide for Human Thinking
+
+Evidence For (and Against) Emergent World Models in LLMs 
+
+<br> 
+
+<https://aiguide.substack.com/p/llms-and-world-models-part-2>
+
+---
+
+## LLMs and World Models, Part 1
+
+date: 2025-02-13, from: Melanie Mitchell, AI Guide for Human Thinking
+
+How do Large Language Models Make Sense of Their &#8220;Worlds&#8221;? 
+
+<br> 
+
+<https://aiguide.substack.com/p/llms-and-world-models-part-1>
+
+---
+
+##  Elie Mystal on Elon Musk&#8217;s vision of neo-apartheid. &#8220;First and most important,... 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046215-elie-mystal-on-elon-musks>
+
+---
+
+## Tim Cook, on His Favorite Website, Teases Apple Product Launch Next Week
+
+date: 2025-02-13, updated: 2025-02-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/tim_cook/status/1890068457825394918>
+
+---
+
+##  Bad Company: Private Equity and the Death of the American Dream is... 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046210-bad-company-private-equit>
+
+---
+
+## Apple Account Purchase Migration Doesn’t Transfer TestFlight Enrollments
+
+date: 2025-02-13, updated: 2025-02-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mastodon.social/@bigzaphod/113991894534107860>
+
+---
+
+##  Is This the End of the American Constitution? 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/is-this-the-end-of-the-american-constitution>
+
+---
+
+##  On a scale of +10 (full democracy) to -10 (full autocracy), the... 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046213-on-a-scale-of-10>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-13, from: Miguel de Icaza Mastondon feed)
+
+<p>Logging a journey of typos:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/113998234032769048>
+
+---
+
+## February 12, 2025
+
+date: 2025-02-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157079153/467d21d32844477d1ea833c29989db82.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157079153/467d21d32844477d1ea833c29989db82.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-12-2025-3e1>
+
+---
+
+## Notes on the coup
+
+date: 2025-02-13, from: Tracy Durnell Blog
+
+Eighteen Points toward Strength and Solidarity in a Time of Fear and Despair by Mark R. Stoneman + To Stop The Coup, We Must Be Clear About The Truth: Two Plus Two Equals Four by Mike Brock This isn’t just wrong as a matter of law—it represents an attack on the very concept of law [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/13/notes-on-the-coup/>
+
+---
+
+##  RFK Jr. confirmed as secretary of the Health and Human Services Department.... 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046211-rfk-jr-confirmed-as-secre>
+
+---
+
+##  Heather Cox Richardson on the history of the liberal consensus, from Lincoln... 
+
+date: 2025-02-13, updated: 2025-02-13, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046208-heather-cox-richardson-on>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-13, from: Dave Winer's Scripting News)
+
+New motto: Pissing in the wind for the good of mankind. 
+
+<br> 
+
+<http://scripting.com/2025/02/13.html#a153240>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-13, from: Dave Winer's Scripting News)
+
+I wonder what Kurt Vonnegut would have thought of twitter-like systems? 
+
+<br> 
+
+<http://scripting.com/2025/02/13.html#a153224>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-13, from: Dave Winer's Scripting News)
+
+Here's the <a href="https://bsky.app/profile/bighugga.bsky.social/post/3li2yzagkyj2u">thread</a> that's created in the demo. 
+
+<br> 
+
+<http://scripting.com/2025/02/13.html#a153118>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-13, from: Dave Winer's Scripting News)
+
+Here's a <a href="https://www.youtube.com/watch?v=U2-Xbn92mXE">two-minute demo</a> of my new writing tool for Bluesky. This is quite a bit simpler than the last version, you log on directly to Bluesky, doesn't go through my server at all. This removes a whole layer of complexity for the user, and means a lot of people can use it without it having to scale up. Also made it simpler, more of a writing tool, closer to where I'd like this stuff to be when we have across-the-board textcasting support. Really focused on the flow for writers. 
+
+<br> 
+
+<http://scripting.com/2025/02/13.html#a150138>
 
 ---
 
@@ -36,6 +430,18 @@ Re-did the social media links at the bottom of each story page. <a href="https:/
 <br> 
 
 <http://scripting.com/2025/02/13.html#a144406>
+
+---
+
+## How to add a directory to your PATH
+
+date: 2025-02-13, updated: 2025-02-13, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/>
 
 ---
 
@@ -533,7 +939,7 @@ date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
 
 ## iTools, Apple’s Original ‘Internet Strategy’, From January 2000
 
-date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+date: 2025-02-12, updated: 2025-02-13, from: Daring Fireball
 
  
 
@@ -615,7 +1021,7 @@ date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
 
 ## Apple Support: ‘About Migrating Apple Account Purchases Between Accounts’
 
-date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+date: 2025-02-12, updated: 2025-02-13, from: Daring Fireball
 
  
 
@@ -843,11 +1249,11 @@ A memoir of sorts.
 
 ---
 
-## Trusted Encryption Environments
+## Trusted Execution Environments
 
-date: 2025-02-11, updated: 2025-02-10, from: Bruce Schneier blog
+date: 2025-02-11, updated: 2025-02-14, from: Bruce Schneier blog
 
-<p>Really good&#8212;and detailed&#8212;<a href="https://dl.acm.org/doi/pdf/10.1145/3634737.3644993">survey</a> of Trusted Encryption Environments (TEEs.)</p>
+<p>Really good&#8212;and detailed&#8212;<a href="https://dl.acm.org/doi/pdf/10.1145/3634737.3644993">survey</a> of Trusted Execution Environments (TEEs.)</p>
  
 
 <br> 

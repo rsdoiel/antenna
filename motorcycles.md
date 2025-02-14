@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-02-13 07:09:12
+updated: 2025-02-14 07:09:10
 ---
 
 # motorcycles
 
-(date: 2025-02-13 07:09:12)
+(date: 2025-02-14 07:09:10)
+
+---
+
+## KTM Reportedly Changes Mind, Wants To Repay Creditors At Once, Not Over Time
+
+date: 2025-02-14, from: Ride Apart, Electric Motorcycle News
+
+How will this affect what happens on February 25th? 
+
+<br> 
+
+<https://www.rideapart.com/news/750681/ktm-proposal-repay-creditors-early/>
+
+---
+
+## Watch One Dad Explain Why He Bought His Kids Dirt Bikes
+
+date: 2025-02-14, from: Ride Apart, Electric Motorcycle News
+
+Touching grass, togetherness, and critical thinking skills? Say less. 
+
+<br> 
+
+<https://www.rideapart.com/news/750685/get-kids-riding-bikes-early/>
+
+---
+
+## Would You Swap Out Your Vespa’s Two-Stroke Engine For A Fancy Electric Motor?
+
+date: 2025-02-14, from: Ride Apart, Electric Motorcycle News
+
+It’s a solid way to future-proof your classic scooter. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750549/retrokit-electric-motor-retrofit-vespa-classic/>
+
+---
+
+## Would You Ride These Retro-Styled Bobbers From Chinese Brand Hanway?
+
+date: 2025-02-14, from: Ride Apart, Electric Motorcycle News
+
+They seem like tempting additions to the growing small-displacement cruiser segment. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750548/hanway-bseries-bobbers-specs-features/>
+
+---
+
+## KTM North America Is Recalling Some Husqvarna, GasGas Bikes For Brake Issue
+
+date: 2025-02-14, from: Ride Apart, Electric Motorcycle News
+
+A defective component from a supplier is to blame. 
+
+<br> 
+
+<https://www.rideapart.com/news/750542/husqvarna-gasgas-brake-caliper-recall/>
+
+---
+
+## Zerofit’s Motorcycle IceSkin Base Layer Eradicates Sweat While Riding
+
+date: 2025-02-14, from: Ride Apart, Electric Motorcycle News
+
+But is it coming to the US? 
+
+<br> 
+
+<https://www.rideapart.com/news/750529/zerofit-motorcycle-iceskin-base-layer/>
+
+---
+
+## Marine 1 Arrives In Advance of President Donald J. Trump’s Visit To The 2025 NASCAR Daytona 500
+
+date: 2025-02-13, from: Kickin the Tires blog
+
+UPDATE: Marine 1, the president&#8217;s official helicopter has landed at Daytona Beach International Airport and is being unloaded from the transport plane. Marine 1 and support vehicles are expected to&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/president-donald-j-trump-plans-to-attend-2025-nascar-daytona-500/>
 
 ---
 

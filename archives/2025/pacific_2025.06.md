@@ -1,11 +1,668 @@
 ---
 title: pacific
-updated: 2025-02-13 07:09:09
+updated: 2025-02-14 07:09:05
 ---
 
 # pacific
 
-(date: 2025-02-13 07:09:09)
+(date: 2025-02-14 07:09:05)
+
+---
+
+## Thousands fired in US government as Trump, Musk purge federal workers
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. government began firing thousands of people at multiple agencies on Thursday as President Donald Trump and Elon Musk accelerate their purge of America&#8217;s federal bureaucracy, union sources and employees familiar with the moves told Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/thousands-fired-in-us-government-as-trump-musk-purge-federal-workers/>
+
+---
+
+## Grandmother sentenced to probation in child starvation case
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>A 67-year-old Hilo woman was sentenced Thursday to 10 years of probation for her role in starving her developmentally disabled 9-year-old granddaughter to death in 2016.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/hawaii-news/grandmother-sentenced-to-probation-in-child-starvation-case/>
+
+---
+
+## Waikoloa Village evacuation drill on Saturday
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>The annual Waikoloa Hulu Street Evacuation Drill will be held from 9 a.m.to 11 a.m. Saturday to allow residents of Waikoloa Village an opportunity to familiarize themselves with their community&#8217;s emergency evacuation route.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/hawaii-news/waikoloa-village-evacuation-drill-on-saturday/>
+
+---
+
+## Work on 2 Hamakua bridges should start this year
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>Rehabilitation of a pair of Hamakua bridges will begin later this year, but likely at an inflated cost from previous estimates.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/hawaii-news/work-on-2-hamakua-bridges-should-start-this-year/>
+
+---
+
+## Trump says he’ll rework global trading relations with ‘reciprocal’ tariffs
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Thursday set in motion a plan for new tariffs on other countries globally, an ambitious move that could shatter the rules of global trading and is likely to set off furious negotiations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/trump-says-hell-rework-global-trading-relations-with-reciprocal-tariffs/>
+
+---
+
+## Trump’s funding freezes bruise a core constituency: farmers
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Skylar Holden, a cattle rancher in Missouri, had signed a $240,000 cost-sharing contract with the Agriculture Department to add fencing and improve the watering system for his property. But after the Trump administration abruptly froze federal funding, Holden said, he was suddenly out tens of thousands of dollars and on the hook for tens of thousands more in labor and material costs, and risked losing his farm.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/trumps-funding-freezes-bruise-a-core-constituency-farmers/>
+
+---
+
+## In yearslong search for lost bitcoin, a final proposal: let me buy the landfill
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>What James Howells wants to do is, by his account, simple: buy a landfill, excavate tens of thousands of tons of trash, cart every piece by dump truck to a scanner with AI-trained detection technology, install a backup magnetic belt to pick up any lingering metallic objects and, thus, find the long-lost hard drive that contains his mistakenly discarded bitcoin key, worth somewhere around $800 million.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/in-yearslong-search-for-lost-bitcoin-a-final-proposal-let-me-buy-the-landfill/>
+
+---
+
+## Linda Mcmahon grilled over Trump efforts to shrink Education Dept.
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Linda McMahon, the sports entertainment mogul whom President Donald Trump has nominated to run the Education Department, told lawmakers Thursday that she envisioned a vastly diminished role for the agency in the future, and would seek to realize that vision if confirmed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/linda-mcmahon-grilled-over-trump-efforts-to-shrink-education-dept/>
+
+---
+
+## News in brief February 14
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>U.S. Navy aircraft carrier collides with merchant ship off Egypt</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/news-in-brief-february-14/>
+
+---
+
+## Trump says Saudi Arabia may host talks with Vladimir Putin on Ukraine
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>DUBAI, United Arab Emirates &#8212; When President Donald Trump said Wednesday that he might soon meet with his Russian counterpart, Vladimir Putin, to discuss an end to the nearly three-year war in Ukraine, he named what may have seemed like an unlikely venue for the talks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/trump-says-saudi-arabia-may-host-talks-with-vladimir-putin-on-ukraine/>
+
+---
+
+## US deports migrants from Asia to Panama
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration deported migrants from several Asian nations to Panama on Wednesday night, Panamanian and U.S. officials said, in a move that could signal much faster removals of immigrants who have remained in the United States because their countries have made it difficult to return them.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/us-deports-migrants-from-asia-to-panama/>
+
+---
+
+## US states say Trump illegally appointed Elon Musk to head DOGE
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A group of state attorneys general on Thursday sued to halt Elon Musk&#8217;s efforts to slash federal spending as head of President Donald Trump&#8217;s new government efficiency agency, escalating the legal fight over the billionaire&#8217;s influence in the White House.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/us-states-say-trump-illegally-appointed-elon-musk-to-head-doge/>
+
+---
+
+## Bird flu detected among US veterinarians tested last year, CDC says
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Bird flu infections were detected among cattle veterinarians tested last fall, including two people with no known exposure to animals with the virus, according to a report released by the U.S. Centers for Disease Control and Prevention on Thursday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/bird-flu-detected-among-us-veterinarians-tested-last-year-cdc-says/>
+
+---
+
+## How Elon Musk and the right are trying to recast reporting as ‘doxxing’
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>For years, journalists have written about the social media posts of government employees to help reveal the positions, motivations and actions of public officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/how-elon-musk-and-the-right-are-trying-to-recast-reporting-as-doxxing/>
+
+---
+
+## Infant mortality rises in states with abortion bans, study finds
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>Increases in infant mortality have been found in U.S. states that enacted abortion bans or severe restrictions after the Supreme Court overturned the landmark ruling that guaranteed a right to the procedure, U.S. researchers said on Thursday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/infant-mortality-rises-in-states-with-abortion-bans-study-finds/>
+
+---
+
+## Trump FBI pick Kash Patel clears Senate panel, headed for confirmation vote
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s pick to head the FBI, Kash Patel, won the approval of the Republican-controlled U.S. Senate Judiciary Committee on Thursday, clearing the way for a vote to confirm a director who has called for a radical reshaping of the nation&#8217;s top law enforcement agency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/trump-fbi-pick-kash-patel-clears-senate-panel-headed-for-confirmation-vote/>
+
+---
+
+## Southern California braces for storm damage in wildfire areas
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; A large swath of California was bracing Thursday for an intense bout of rain that could lead to flooding and cause debris flows in areas recently burned by wildfires.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/southern-california-braces-for-storm-damage-in-wildfire-areas/>
+
+---
+
+## Ancient DNA Study Unveils Unique Genetic Heritage of Palauans, Distinct from other Pacific Islanders
+
+date: 2025-02-14, from: Island Times
+
+<figure><img width="1024" height="621" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?fit=1024%2C621&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?resize=300%2C182&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?resize=1024%2C621&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?resize=768%2C465&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?resize=1200%2C727&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?resize=400%2C242&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?resize=706%2C428&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?fit=1024%2C621&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75630" data-permalink="https://islandtimes.org/ancient-dna-study-unveils-unique-genetic-heritage-of-palauans-distinct-from-other-pacific-islanders/20250213_100300/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?fit=1249%2C757&amp;ssl=1" data-orig-size="1249,757" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1739440980&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250213_100300" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?fit=300%2C182&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250213_100300.jpg?fit=780%2C473&amp;ssl=1" /></figure>
+<p>KOROR, Palau — A groundbreaking genetic study of the ancient Palauan remains has revealed new insights into the ancestry and migration patterns of Palau’s early inhabitants, distinguishing them from other Pacific Island populations. The findings suggest that the earliest Palauans who were here 3,200 years before the present already had mixed East Asian and Papuan [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ancient-dna-study-unveils-unique-genetic-heritage-of-palauans-distinct-from-other-pacific-islanders/">Ancient DNA Study Unveils Unique Genetic Heritage of Palauans, Distinct from other Pacific Islanders</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ancient-dna-study-unveils-unique-genetic-heritage-of-palauans-distinct-from-other-pacific-islanders/>
+
+---
+
+## Palau Health Care Fund’s Stability Relies on Investment Returns
+
+date: 2025-02-14, from: Island Times
+
+<p>By: L.N. Reklai KOROR, Palau — The Palau Health Care Fund (HCF), the nation’s medical insurance program, is sustaining itself largely through investment income, according to the latest report from the HCF Governing Committee. The report indicates that annual benefit payouts from both the National Health Insurance (NHI) and the Medical Savings Account (MSA) nearly [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-health-care-funds-stability-relies-on-investment-returns/">Palau Health Care Fund’s Stability Relies on Investment Returns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-health-care-funds-stability-relies-on-investment-returns/>
+
+---
+
+## Meked Besebes and Tekoi Enterprise
+
+date: 2025-02-14, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75625" data-permalink="https://islandtimes.org/meked-besebes-and-tekoi-enterprise/meked-besebes-and/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?fit=1249%2C703&amp;ssl=1" data-orig-size="1249,703" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Meked Besebes and" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Meked-Besebes-and-.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>Revitalizing Palauan Literature and Culture Koror, Palau – &#8220;Tekoi Enterprise, a company I founded in 2009, grew out of my love and interest in the art, culture, and history of the Pacific,&#8221; says Meked Besebes, founder of Tekoi Enterprise. &#8220;Its mission is to produce quality products in various forms that showcase the unique culture, history, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/meked-besebes-and-tekoi-enterprise/">Meked Besebes and Tekoi Enterprise</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/meked-besebes-and-tekoi-enterprise/>
+
+---
+
+## Palau lawmakers reintroduce Travel Document Bill for adopted non-citizen children
+
+date: 2025-02-14, from: Island Times
+
+<p>KOROR, Palau — A proposal to grant Machine Readable Convention Travel Documents (MRCTDs) to non-Palauan children adopted by Palauan citizens has been reintroduced in the Olbiil Era Kelulau (OEK) after failing to pass during the 11th OEK. The measure seeks to amend Chapter 12 of Title 13 of the Palau National Code, allowing stateless adopted [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-lawmakers-reintroduce-travel-document-bill-for-adopted-non-citizen-children/">Palau lawmakers reintroduce Travel Document Bill for adopted non-citizen children</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-lawmakers-reintroduce-travel-document-bill-for-adopted-non-citizen-children/>
+
+---
+
+## Aimeliik Youth perform RUK at 680 Palau Night Market
+
+date: 2025-02-14, from: Island Times
+
+<p>The post <a href="https://islandtimes.org/aimeliik-youth-perform-ruk-at-680-palau-night-market/">Aimeliik Youth perform RUK at 680 Palau Night Market</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/aimeliik-youth-perform-ruk-at-680-palau-night-market/>
+
+---
+
+## Highlights of 680 Palauan Night Market February 08, 2025
+
+date: 2025-02-14, from: Island Times
+
+<figure><img width="600" height="534" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/elsie.jpg?fit=600%2C534&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/elsie.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/elsie.jpg?resize=300%2C267&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/elsie.jpg?resize=400%2C356&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/elsie.jpg?fit=600%2C534&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75614" data-permalink="https://islandtimes.org/highlights-of-680-palauan-night-market-february-08-2025/elsie/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/elsie.jpg?fit=600%2C534&amp;ssl=1" data-orig-size="600,534" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="elsie" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/elsie.jpg?fit=300%2C267&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/elsie.jpg?fit=600%2C534&amp;ssl=1" /></figure>
+<p>Elsei Tellei: Art with a Cultural Touch Known for her artistic talent, Elsei Tellei has introduced a fresh selection of seasonal designs for Valentine’s Day. While she continues to sell her signature artwork, this year she’s offering Valentines stickers for water bottles and pelicans, incorporating the Palauan language into her pieces. “I like to incorporate [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/highlights-of-680-palauan-night-market-february-08-2025/">Highlights of 680 Palauan Night Market February 08, 2025</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/highlights-of-680-palauan-night-market-february-08-2025/>
+
+---
+
+## Moylan says USDOE abolition plan designed to decentralize education
+
+date: 2025-02-14, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; President Donald Trump’s plan to abolish the U.S Department of Education is designed to decentralize education, Guam Del. James Moylan said today. “The efforts would empower state and territorial school boards to adopt curriculums instead of being mandated to accept federal standards in lieu of securing certain funds,” Moylan said. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/moylan-says-usdoe-abolition-plan-designed-to-decentralize-education/">Moylan says USDOE abolition plan designed to decentralize education</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/moylan-says-usdoe-abolition-plan-designed-to-decentralize-education/>
+
+---
+
+## Palau to Roll out Wages and Salary Tax Refunds
+
+date: 2025-02-14, from: Island Times
+
+<p>Here’s When and How to Claim Yours! KOROR, Palau – The Bureau of Revenue &#38; Taxation (BRT) has released the schedule for the distribution of Wage and Salary Tax (WST) refunds for eligible Palauan citizen employees. The refunds will be available at the One Stop Shop Building near the Police Station in Koror from February [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-to-roll-out-wages-and-salary-tax-refunds/">Palau to Roll out Wages and Salary Tax Refunds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-to-roll-out-wages-and-salary-tax-refunds/>
+
+---
+
+## JICA and PICRC celebrate the conclusion of their coastal ecosystem management project
+
+date: 2025-02-14, from: Island Times
+
+<figure><img width="1024" height="544" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?fit=1024%2C544&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?resize=1024%2C544&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?resize=768%2C408&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?resize=1200%2C637&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?resize=400%2C212&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?resize=706%2C375&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?fit=1024%2C544&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75607" data-permalink="https://islandtimes.org/jica-and-picrc-celebrate-the-conclusion-of-their-coastal-ecosystem-management-project/pr_jccjica-group/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?fit=1249%2C663&amp;ssl=1" data-orig-size="1249,663" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;ILCE-6400&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1736422281&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;16&quot;,&quot;iso&quot;:&quot;3200&quot;,&quot;shutter_speed&quot;:&quot;0.00625&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_JCCJICA Group" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?fit=300%2C159&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR_JCCJICA-Group.jpg?fit=780%2C414&amp;ssl=1" /></figure>
+<p>On January 9, 2025, the Palau International Coral Reef Center (PICRC) and the Japan International Cooperation Agency (JICA) hosted the final Joint Coordination Committee (JCC) meeting for their ‘Project for Enhancement of Integrated Management of Coastal Ecosystem in Palau for Strengthening Their Resilience to Climate Change’. As the project wrapped up this month, the event [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/jica-and-picrc-celebrate-the-conclusion-of-their-coastal-ecosystem-management-project/">JICA and PICRC celebrate the conclusion of their coastal ecosystem management project</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/jica-and-picrc-celebrate-the-conclusion-of-their-coastal-ecosystem-management-project/>
+
+---
+
+## PICRC-JICA Coastal Project oﬃcially hands over Mangrove Guidebook to PCC
+
+date: 2025-02-14, from: Island Times
+
+<figure><img width="1024" height="541" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?fit=1024%2C541&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?resize=1024%2C541&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?resize=768%2C406&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?resize=1200%2C634&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?resize=400%2C211&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?resize=706%2C373&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?fit=1024%2C541&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75604" data-permalink="https://islandtimes.org/picrc-jica-coastal-project-o%ef%ac%83cially-hands-over-mangrove-guidebook-to-pcc/photo_mangroveguidebook/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?fit=1249%2C660&amp;ssl=1" data-orig-size="1249,660" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_Mangroveguidebook" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?fit=300%2C159&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Photo_Mangroveguidebook-.jpg?fit=780%2C412&amp;ssl=1" /></figure>
+<p>On February 5, the Palau International Coral Reef Center (PICRC) and the Japan International Cooperation Agency (JICA) oﬃcially handed over the comprehensive &#8220;Mangrove Guidebook, Okeburs er a Belau&#8221; to Palau Community College (PCC). This guidebook, developed over the past three years as part of the PICRC-JICA technical cooperation project, &#8220;Project for Enhancement of Integrated Management [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-jica-coastal-project-o%ef%ac%83cially-hands-over-mangrove-guidebook-to-pcc/">PICRC-JICA Coastal Project oﬃcially hands over Mangrove Guidebook to PCC</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-jica-coastal-project-o%ef%ac%83cially-hands-over-mangrove-guidebook-to-pcc/>
+
+---
+
+## Japan and Palau strengthen Tokubetsu ties in Summit meeting
+
+date: 2025-02-14, from: Island Times
+
+<figure><img width="600" height="400" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Japan-and-Palau-Strengthen1.jpg?fit=600%2C400&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Japan-and-Palau-Strengthen1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Japan-and-Palau-Strengthen1.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Japan-and-Palau-Strengthen1.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Japan-and-Palau-Strengthen1.jpg?fit=600%2C400&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75601" data-permalink="https://islandtimes.org/japan-and-palau-strengthen-tokubetsu-ties-in-summit-meeting/japan-and-palau-strengthen1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Japan-and-Palau-Strengthen1.jpg?fit=600%2C400&amp;ssl=1" data-orig-size="600,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Japan and Palau Strengthen1" data-image-description="" data-image-caption="&lt;p&gt;: Cabinet Public Affairs Office&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Japan-and-Palau-Strengthen1.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Japan-and-Palau-Strengthen1.jpg?fit=600%2C400&amp;ssl=1" /></figure>
+<p>Tokyo, Japan – February 12, 2025 – Prime Minister ISHIBA Shigeru and President Surangel S. Whipps, Jr. reaffirmed their nations’ special relationship during a 60-minutes-long summit meeting in Tokyo. This marks President Whipps&#8217; first official visit to Japan following his re-election for a second term. Prime Minister Ishiba welcomed the President’s visit soon after his [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-and-palau-strengthen-tokubetsu-ties-in-summit-meeting/">Japan and Palau strengthen Tokubetsu ties in Summit meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japan-and-palau-strengthen-tokubetsu-ties-in-summit-meeting/>
+
+---
+
+## Successful conclusion of the Mail Parcel interdiction training
+
+date: 2025-02-14, from: Island Times
+
+<figure><img width="1024" height="634" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?fit=1024%2C634&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?resize=1024%2C634&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?resize=768%2C475&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?resize=1200%2C743&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?resize=400%2C248&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?resize=706%2C437&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?fit=1024%2C634&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75598" data-permalink="https://islandtimes.org/successful-conclusion-of-the-mail-parcel-interdiction-training/successful-conclusion-of-the-mail-parcel-interdiction-training/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?fit=1249%2C773&amp;ssl=1" data-orig-size="1249,773" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Successful Conclusion of the Mail Parcel Interdiction Training" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?fit=300%2C186&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Successful-Conclusion-of-the-Mail-Parcel-Interdiction-Training.jpg?fit=780%2C483&amp;ssl=1" /></figure>
+<p>Koror, Palau – February 7, 2025 – The continued efforts of the Surangel S. Whipps, Jr. administration, in conjunction with his National Security Coordinating Office (NSCO), Bureau of Customs and Border Protection (BCBP), Division of Quarantine (DOQ), and Narcotics Enforcement Unit (NEU), in coordination with the Republic of Palau Postal Service (RPPS), are pleased to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/successful-conclusion-of-the-mail-parcel-interdiction-training/">Successful conclusion of the Mail Parcel interdiction training</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/successful-conclusion-of-the-mail-parcel-interdiction-training/>
+
+---
+
+## The Journey to Self-Acceptance
+
+date: 2025-02-14, from: Island Times
+
+<figure><img width="900" height="339" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=900%2C339&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?resize=300%2C113&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?resize=768%2C289&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?resize=400%2C151&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=900%2C339&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="51943" data-permalink="https://islandtimes.org/mind-and-spirit/womens-corner-new-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=900%2C339&amp;ssl=1" data-orig-size="900,339" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="women&#8217;s corner-new" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=300%2C113&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=780%2C294&amp;ssl=1" /></figure>
+<p>In our journey through life, we encounter a myriad of individuals. Some of them grapple with understanding the essence of who we truly are. Rather than seeking to empathize or appreciate our individuality, a few resort to deriding our distinctive traits, spinning our attributes into cruel jokes that belittle us. This behavior often springs from [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/the-journey-to-self-acceptance/">The Journey to Self-Acceptance</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/the-journey-to-self-acceptance/>
+
+---
+
+## Cook Islands-China deal details to be revealed ‘in the coming days’ – Mark Brown
+
+date: 2025-02-14, from: Island Times
+
+<p>RAROTONGA (RNZ PACIFIC) &#8212; Cook Islands Prime Minister Mark Brown says he is aware of the strong interest in the outcomes of his visit to China. The New Zealand government said that the Cook Islands failed to properly consult it on proposed agreements that Brown will be signing in Beijing this week. Brown&#8217;s visit to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cook-islands-china-deal-details-to-be-revealed-in-the-coming-days-mark-brown/">Cook Islands-China deal details to be revealed &#8216;in the coming days&#8217; &#8211; Mark Brown</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/cook-islands-china-deal-details-to-be-revealed-in-the-coming-days-mark-brown/>
+
+---
+
+## Media grapples with social media challenge
+
+date: 2025-02-14, from: Island Times
+
+<p>SUVA (FBC NEWS)&#8212;Mainstream media struggles to remain relevant to its audience in the face of social media’s increasing popularity. While speaking at the Annual Pacific Media Partnership Conference Tuesday, Managing Director for the Samoa Broadcasting Corporation Faiesea Matafeo highlighted that this should be a priority in the media space. “Our priority right now is to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/media-grapples-with-social-media-challenge/">Media grapples with social media challenge</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/media-grapples-with-social-media-challenge/>
+
+---
+
+## Papua New Guinea’s Internal Revenue Commission hit in major cyber attack but public only told of ‘system outage’
+
+date: 2025-02-14, from: Island Times
+
+<p>Exclusive by Papua New Guinea correspondent Marian Faa (ABC-Australia) Papua New Guinea&#8217;s version of the ATO has been targeted in a major cyber attack that has potentially exposed sensitive data of citizens and businesses. The Internal Revenue Commission was hit two weeks ago but is yet to advise the public, only saying there has been a [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/papua-new-guineas-internal-revenue-commission-hit-in-major-cyber-attack-but-public-only-told-of-system-outage/">Papua New Guinea&#8217;s Internal Revenue Commission hit in major cyber attack but public only told of &#8216;system outage&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/papua-new-guineas-internal-revenue-commission-hit-in-major-cyber-attack-but-public-only-told-of-system-outage/>
+
+---
+
+## Taiwan’s government accused of failing victims trapped in scam compounds
+
+date: 2025-02-14, from: Island Times
+
+<p>By Ilham Issak (ABC-Australia) Hsieh Yueh-peng describes himself as &#8220;a man who has been to hell and back&#8221;. &#8220;Three of my fingers are still numb,&#8221; Mr Hsieh told the ABC, rubbing his hands and flexing his fingers.&#160; The Taiwanese performer&#8217;s doctor told him it was a symptom of nerve damage, possibly due to the tight [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/taiwans-government-accused-of-failing-victims-trapped-in-scam-compounds/">Taiwan&#8217;s government accused of failing victims trapped in scam compounds</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/taiwans-government-accused-of-failing-victims-trapped-in-scam-compounds/>
+
+---
+
+## 2025 HIKI NŌ on PBS Hawaiʻi Winter Challenge: Small Actions, Big Impact
+
+date: 2025-02-14, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>In this episode of HIKI NŌ on PBS Hawai‘i, find out which schools produced the winning entries for HIKI NŌ’s 2025 Winter Challenge competition with host Jett Jarrett, a sophomore at Kalāheo High School on Oʻahu. Usually students have weeks to work on projects for HIKI NŌ, and lots of help from our teachers and [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/2025-hiki-no-on-pbs-hawai%ca%bbi-winter-challenge-small-actions-big-impact/">2025 HIKI NŌ on PBS Hawaiʻi Winter Challenge: Small Actions, Big Impact</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/2025-hiki-no-on-pbs-hawai%ca%bbi-winter-challenge-small-actions-big-impact/>
+
+---
+
+## Growing Hawaiʻi’s future: UH program brings modern business skills to local farmers
+
+date: 2025-02-13, from: University of Hawaiʻi News
+
+<p>More than 600 local farmers have graduated from <abbr>UH</abbr>’s GoFarm <span aria-label="Hawaii">Hawai&#699;i</span> program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/13/growing-hawaiis-future/">Growing Hawaiʻi’s future: <abbr>UH</abbr> program brings modern business skills to local farmers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/13/growing-hawaiis-future/>
+
+---
+
+## National award for Windward CC recognizes institutional transformation
+
+date: 2025-02-13, from: University of Hawaiʻi News
+
+<p>Windward <abbr>CC</abbr> received the 2025 ACE/Fidelity Investments Institutional Transformation Award for boosting enrollment and completion rates.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/13/national-award-for-windward-cc/">National award for Windward <abbr>CC</abbr> recognizes institutional transformation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/13/national-award-for-windward-cc/>
+
+---
+
+## Food, sex and colonialism in the Marianas
+
+date: 2025-02-13, from: Pacific Island Times
+
+As soon as they set foot in the Mariana Islands, the Spanish decided they wanted to change the CHamoru natives’ diet and sexual behaviors . 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/food-sex-and-colonialism-in-the-marianas>
+
+---
+
+## Kaʻieʻie Transfer Program: connecting community college students to 4-year degrees
+
+date: 2025-02-13, from: University of Hawaiʻi News
+
+<p><span aria-label="Kaieie">Ka&#699;ie&#699;ie</span> Program is transforming the transfer experience for <abbr>UH</abbr> community college students with specialized support and financial benefits.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/13/kaieie-transfer-program/">Kaʻieʻie Transfer Program: connecting community college students to 4-year degrees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/13/kaieie-transfer-program/>
+
+---
+
+## Floaters
+
+date: 2025-02-13, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Karen Regen Tuero Johnny helped me move out of our apartment, the one I’d found us two years and one month earlier. It was a decent-sized studio on Bleeker before it hits the Bowery, affordable only if shared, at &#8230; <a href="https://hawaiipacificreview.org/2025/02/13/floaters/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/02/13/floaters/>
+
+---
+
+## Bartolome couple wins MVariety's Valentine’s Day contest
+
+date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+
+HUSBAND and wife Romel and Jorgie Bartolome are the winners of the Marianas Variety’s #LoveintheMarianas story contest.The contest asked island couples to share on social media a picture or video of themselves enjoying our island paradise while also sharing a story about how they celebrate love.Out of the many contest entries, the Bartolome couple’s pictures and heartfelt captions stood out. For their efforts, they win an 18x12” canvas print of one of their photos.In her post, Jorgie says, “I swore off long-distance relationships in the past, had to go back home [because] of the pandemic, but this guy fought his way through to bring down the walls I’ve built despite being countries apart.”In an interview with Marianas Variety, Romel explained that he and Jorgie first met in 2019 when she was an intern at the Saipan World Resort’s kitchen and he was a staff member.He immediately had a crush, but was unable to approach her. That did not stop him from sending her that year a short and simple Thanksgiving greeting on Facebook Messenger.That got the ball rolling, but it was no stroll in the park for Romel. Yes, they began exchanging messages online and sometimes went out to eat—but only as friends, Jorgie clarified.“I didn’t like him,” she laughs. “When we went out for a quick [McDonald’s] date, he asked me if he could date me and I said no.”Jorgie said Romel must have taken her no as a final answer, and he gave her some space. In his absence, though, Jorgie realized that she missed him and began nursing a small crush of her own.That’s when they rekindled ties and began dating in earnest, just before the COVID-19 pandemic hit the world.Soon after, Jorgie had to go back to the Philippines, but Romel couldn’t let his ‘mahal’ [beloved] say ‘adios,’ and they kept in touch online.Around 2022, Romel was able to go to the Philippines. By then, he knew he couldn’t let Jorgie get away, and when he asked her again to be his girlfriend, she agreed.The couple moved back to Saipan in 2023 and tied the knot in November 2024.They both say they want to make Saipan their home.In her Instagram and Facebook posts of their photos, Jorgie said: “Everything about this place has ‘paradise’ written all over it.” 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/bartolome-couple-wins-mvarietys-valentine-s-day-contest/article_736a0592-e9be-11ef-bf0f-5be6ad9b8a33.html>
+
+---
+
+## Poetry
+
+date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_72afd3b8-e9f8-11ef-99e1-ffab5dddd5d7.html>
+
+---
+
+## 7th Mariana Islands Conservation Conference: Registration open, community invited
+
+date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+
+HAGÅTÑA — Exciting advances in regional marine and terrestrial conservation will be presented during the seventh Mariana Islands Conservation Conference. This annual event is organized by Tåno Tåsi yan Todu and will be held from March 10 to March 14, 2025, at the Dusit Thani Resort, Guåhan. Admission to the conference is free. Join us and register to attend the MICC at www.marianasterrestrialconservation.org/. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/7th-mariana-islands-conservation-conference-registration-open-community-invited/article_7f542806-e9ff-11ef-814f-3790b78b481c.html>
+
+---
+
+## Cook Islands prime minister discusses marine, climate and economics in China visit
+
+date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+
+WELLINGTON (Reuters) — Cook Islands Prime Minister Mark Brown said on Thursday he had held discussions with institutions on marine science, climate resilience and economic cooperation so far during a trip to China that has raised national security concerns in New Zealand. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/cook-islands-prime-minister-discusses-marine-climate-and-economics-in-china-visit/article_5e5c7a1a-ea02-11ef-b488-0f3d9cd45d5c.html>
+
+---
+
+## Governor nominates WIA chief to Civil Service Commission
+
+date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios has nominated Workforce Investment Agency Director Frances A. Torres to the Civil Service Commission. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-nominates-wia-chief-to-civil-service-commission/article_eeb9b3c6-e9bb-11ef-a913-97911fafb74a.html>
+
+---
+
+## Philippine military eyes more upgrades, including ‘dream’ submarines
+
+date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+
+MANILA (Reuters) — The Philippines is looking to buy more military hardware to modernize its arsenal, including additional BrahMos missiles from India and at least two submarines, the chief of the armed forces said on Wednesday. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/philippine-military-eyes-more-upgrades-including-dream-submarines/article_3596dbee-ea01-11ef-9f3d-b7bf5b259820.html>
+
+---
+
+## US judge allows Trump to proceed with government employee buyout
+
+date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+
+BOSTON/WASHINGTON (Reuters) — A U.S. judge on Wednesday allowed President Donald Trump's administration to move ahead with a buyout program for federal workers that could usher tens of thousands of workers off government payrolls as part of a sweeping effort to downsize the U.S. civil service. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-judge-allows-trump-to-proceed-with-government-employee-buyout/article_f1e65f08-ea02-11ef-92e0-9fd07b07a4e4.html>
+
+---
+
+## Magofna to introduce bills that would ‘attract global investments’
+
+date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+
+SENATOR Corina L. Magofna will introduce today, Friday, Feb. 14, three pieces of legislation that would “attract global investments.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/magofna-to-introduce-bills-that-would-attract-global-investments/article_e80bc25a-e9b4-11ef-8a5b-77e6bd218ac3.html>
 
 ---
 
@@ -272,6 +929,20 @@ date: 2025-02-13, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/13/community/sign-waving-event-to-cast-spotlight-on-drug-addiction-and-prevention/>
+
+---
+
+## Brown Water Advisory issued for West Hawaii
+
+date: 2025-02-13, from: Hawaii Tribune Harold
+
+
+				<p>A Brown Water Advisory has been issued today for West Hawaii from South Point to Pololu Valley in North Kohala.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/13/hawaii-news/brown-water-advisory-issued-for-west-hawaii/>
 
 ---
 

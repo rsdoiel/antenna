@@ -1,11 +1,507 @@
 ---
 title: snapshots
-updated: 2025-02-13 07:09:13
+updated: 2025-02-14 07:09:12
 ---
 
 # snapshots
 
-(date: 2025-02-13 07:09:13)
+(date: 2025-02-14 07:09:12)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Mark Cuban: Trump gives sales pitches, Dems show charts. One goes viral. The other is ignored and forgotten. #amen 
+
+<br> 
+
+<https://bsky.app/profile/mcuban.bsky.social/post/3li5fkoray22u>
+
+---
+
+## Elon Musk, Welfare Queen
+
+date: 2025-02-14, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>This past weekend, Elon Musk called me cruel, mean and deceitful.  Two and half years ago I called him a welfare queen.  You decide. This post was published August 19, 2022. What’s the most successful venture capital firm in history? Kleiner Perkins and Sequoia Capital backed many internet-era success stories. Andreessen Horowitz? No, one organization [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/elon-musk-welfare-queen/">Elon Musk, Welfare Queen</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/elon-musk-welfare-queen/>
+
+---
+
+## CanSat: A tiny, can-sized, Raspberry Pi-powered satellite
+
+date: 2025-02-14, from: Raspberry Pi News (.com)
+
+<p>What would you do if you had to create a satellite the size of a drinks can? Space-bound students answer this question with CanSat.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/cansat-a-tiny-can-sized-raspberry-pi-powered-satellite/">CanSat: A tiny, can-sized, Raspberry Pi-powered satellite</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/cansat-a-tiny-can-sized-raspberry-pi-powered-satellite/>
+
+---
+
+## The Incident
+
+date: 2025-02-14, updated: 2025-02-14, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/02/14/the-incident/>
+
+---
+
+## Overwhelm… Overreach… Overthrown.
+
+date: 2025-02-14, from: Michael Moore's blog
+
+How Trump Is Cooking His Own Goose. 
+
+<br> 
+
+<https://www.michaelmoore.com/p/overwhelm-overreach-overthrown>
+
+---
+
+## Lies, Damned Lies and Trumpflation
+
+date: 2025-02-14, from: Paul Krugman
+
+Big worries &#8212; and some investment advice 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/lies-damned-lies-and-trumpflation>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Team Musk thinks U.S. should be governed by AI, not your vote. 
+
+<br> 
+
+<https://www.inquirer.com/columnists/attytood/trump-musk-doge-coup-media-wired-20250211.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Four score and seven years ago.. 
+
+<br> 
+
+<https://www.nytimes.com/interactive/2025/02/13/us/doc-annotation-letter-to-bondi.html?unlocked_article_code=1.wk4.yGGI.t7vz0b67OSzH>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+The Overlook: Your New Voice in Community Journalism. Hey we got a new community news org. What a nice surprise! 😀 
+
+<br> 
+
+<https://theoverlooknews.com/the-overlook-your-new-voice-in-community-journalism/>
+
+---
+
+## Anyone Can Push Updates to the DOGE.gov Website
+
+date: 2025-02-14, from: 404 Media Group
+
+"THESE 'EXPERTS' LEFT THEIR DATABASE OPEN." 
+
+<br> 
+
+<https://www.404media.co/anyone-can-push-updates-to-the-doge-gov-website-2/>
+
+---
+
+## files-to-prompt 0.5
+
+date: 2025-02-14, updated: 2025-02-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/files-to-prompt/releases/tag/0.5">files-to-prompt 0.5</a></strong></p>
+My <code>files-to-prompt</code> tool (<a href="https://simonwillison.net/2024/Apr/8/files-to-prompt/">originally built using Claude 3 Opus back in April</a>) had been accumulating a bunch of issues and PRs - I finally got around to spending some time with it and pushed a fresh release:</p>
+<blockquote>
+<ul>
+<li>New <code>-n/--line-numbers</code> flag for including line numbers in the output. Thanks, <a href="https://github.com/danclaytondev">Dan Clayton</a>. <a href="https://github.com/simonw/files-to-prompt/pull/38">#38</a></li>
+<li>Fix for utf-8 handling on Windows. Thanks, <a href="https://github.com/david-jarman">David Jarman</a>. <a href="https://github.com/simonw/files-to-prompt/pull/36">#36</a></li>
+<li><code>--ignore</code> patterns are now matched against directory names as well as file names, unless you pass the new <code>--ignore-files-only</code> flag. Thanks, <a href="https://github.com/nmpowell">Nick Powell</a>. <a href="https://github.com/simonw/files-to-prompt/pull/30">#30</a></li>
+</ul>
+</blockquote>
+<p>I use this tool myself on an almost daily basis - it's fantastic for quickly answering questions about code. Recently I've been plugging it into Gemini 2.0 with its 2 million token context length, running recipes like this one:</p>
+<pre><code>git clone https://github.com/bytecodealliance/componentize-py
+cd componentize-py
+files-to-prompt . -c | llm -m gemini-2.0-pro-exp-02-05 \
+  -s 'How does this work? Does it include a python compiler or AST trick of some sort?'
+</code></pre>
+<p>I ran that question against the <a href="https://github.com/bytecodealliance/componentize-py">bytecodealliance/componentize-py</a> repo - which provides a tool for turning Python code into compiled WASM - and got <a href="https://gist.github.com/simonw/a9d72e7f903417fb49e1d7a531ee8f97">this really useful answer</a>.</p>
+<p>Here's another example. I decided to have o3-mini review how Datasette handles concurrent SQLite connections from async Python code - so I ran this:</p>
+<pre><code>git clone https://github.com/simonw/datasette
+cd datasette/datasette
+files-to-prompt database.py utils/__init__.py -c | \
+  llm -m o3-mini -o reasoning_effort high \
+  -s 'Output in markdown a detailed analysis of how this code handles the challenge of running SQLite queries from a Python asyncio application. Explain how it works in the first section, then explore the pros and cons of this design. In a final section propose alternative mechanisms that might work better.'
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab">the result</a>. It did an extremely good job of explaining how my code works - despite being fed just the Python and none of the other documentation. Then it made some solid recommendations for potential alternatives.</p>
+<p>I added a couple of follow-up questions (using <code>llm -c</code>) which resulted in <a href="https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab?permalink_comment_id=5438685#gistcomment-5438685">a full working prototype</a> of an alternative threadpool mechanism, plus <a href="https://gist.github.com/simonw/76c8c433f4a65cf01a5c9121453683ab?permalink_comment_id=5438691#gistcomment-5438691">some benchmarks</a>.</p>
+<p>One final example: I decided to see if there were any undocumented features in <a href="https://litestream.io/">Litestream</a>, so I checked out the repo and ran a prompt against just the <code>.go</code> files in that project:</p>
+<pre><code>git clone https://github.com/benbjohnson/litestream
+cd litestream
+files-to-prompt . -e go -c | llm -m o3-mini \
+  -s 'Write extensive user documentation for this project in markdown'
+</code></pre>
+<p>Once again, o3-mini provided a <a href="https://gist.github.com/simonw/cbf339032f99fee72af5fd5455bc7235">really impressively detailed</a> set of unofficial documentation derived purely from reading the source.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/webassembly">webassembly</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/async">async</a>, <a href="https://simonwillison.net/tags/datasette">datasette</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/litestream">litestream</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/14/files-to-prompt/#atom-everything>
+
+---
+
+## How to add a directory to your PATH
+
+date: 2025-02-14, updated: 2025-02-14, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/">How to add a directory to your PATH</a></strong></p>
+<em>Classic</em> Julia Evans piece here, answering a question which you might assume is obvious but very much isn't.</p>
+<p>Plenty of useful tips in here, plus the best explanation I've ever seen of the three different Bash configuration options:</p>
+<blockquote>
+<p>Bash has three possible config files: <code>~/.bashrc</code>, <code>~/.bash_profile</code>, and <code>~/.profile</code>.</p>
+<p>If you're not sure which one your system is set up to use, I'd recommend testing this way:</p>
+<ol>
+<li>add <code>echo hi there</code> to your <code>~/.bashrc</code></li>
+<li>Restart your terminal</li>
+<li>If you see "hi there", that means <code>~/.bashrc</code> is being used! Hooray!</li>
+<li>Otherwise remove it and try the same thing with <code>~/.bash_profile</code></li>
+<li>You can also try <code>~/.profile</code> if the first two options don't work.</li>
+</ol>
+</blockquote>
+<p>This article also reminded me to <a href="https://simonwillison.net/2024/Oct/15/path-tips-on-wizard-zines/">try which -a again</a>, which gave me this confusing result for <code>datasette</code>:</p>
+<pre><code>% which -a datasette
+/opt/homebrew/Caskroom/miniconda/base/bin/datasette
+/Users/simon/.local/bin/datasette
+/Users/simon/.local/bin/datasette
+</code></pre>
+<p>Why is the second path in there twice? I figured out how to use <code>rg</code> to search just the dot-files in my home directory:</p>
+<pre><code>rg local/bin -g '/.*' --max-depth 1
+</code></pre>
+<p>And found that I have both a <code>.zshrc</code> and <code>.zprofile</code> file that are adding that to my path:</p>
+<pre><code>.zshrc.backup
+4:export PATH="$PATH:/Users/simon/.local/bin"
+
+.zprofile
+5:export PATH="$PATH:/Users/simon/.local/bin"
+
+.zshrc
+7:export PATH="$PATH:/Users/simon/.local/bin"
+</code></pre>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/julia-evans">julia-evans</a>, <a href="https://simonwillison.net/tags/zsh">zsh</a>, <a href="https://simonwillison.net/tags/bash">bash</a>, <a href="https://simonwillison.net/tags/ripgrep">ripgrep</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/14/how-to-add-a-directory-to-your-path/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-13, from: Dave Winer's linkblog)
+
+The Weak Strongman. 
+
+<br> 
+
+<https://snyder.substack.com/p/the-weak-strongman?publication_id=310897&post_id=157101378&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Lilbits: New Apple hardware, Asahi Linux shakeup, Android 16 Beta 2, and Amazon makes backing up Kindle eBooks tougher,
+
+date: 2025-02-13, from: Liliputing
+
+<p>This week Apple launched an Apple TV+ app for Android, which means you can watch Severance on your Pixel phone without using a web browser. Next week the company plans to launch some new hardware &#8211; most likely a new iPhone SE, but a current-gen mid-range iPhone could be just one of several new products [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-new-apple-hardware-asahi-linux-shakeup-android-16-beta-2-and-amazon-makes-backing-up-kindle-ebooks-tougher/">Lilbits: New Apple hardware, Asahi Linux shakeup, Android 16 Beta 2, and Amazon makes backing up Kindle eBooks tougher,</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-new-apple-hardware-asahi-linux-shakeup-android-16-beta-2-and-amazon-makes-backing-up-kindle-ebooks-tougher/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-02-13, from: Tomosino's Mastodon feed)
+
+<p>I ate a lot of cheese and also a lot of peanut butter. </p><p>Definitely unrelated: this room smells funny</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/113998793832225298>
+
+---
+
+**@Rob Pike's blog** (date: 2025-02-13, from: Rob Pike's blog)
+
+<p>&nbsp;</p>
+
+<title>On Bloat</title>
+
+<h1>On Bloat</h1>
+
+<p>
+  The link below holds the slides from a talk I gave last year for the Commonwealth Bank of Australia's annual tech conference. They are mostly self-explanatory, with the possible exception of the "attractive nuisance" slide, for which I explained how a small package with good intentions can accumulate both a large set of dependents and a large set of dependencies, turning it into a vector for bloat and malfeasance.
+</p>
+
+Click here: <a href="https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub?start=false&loop=false&delayms=3000">On Bloat</a> 
+
+<br> 
+
+<https://commandcenter.blogspot.com/2025/02/on-bloat-these-are-slides-from-talk-i.html>
+
+---
+
+## shot-scraper 1.6 with support for HTTP Archives
+
+date: 2025-02-13, updated: 2025-02-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/shot-scraper/releases/tag/1.6">shot-scraper 1.6 with support for HTTP Archives</a></strong></p>
+New release of my <a href="https://shot-scraper.datasette.io/">shot-scraper</a> CLI tool for taking screenshots and scraping web pages.</p>
+<p>The big new feature is <a href="https://en.wikipedia.org/wiki/HAR_(file_format)">HTTP Archive (HAR)</a> support. The new <a href="https://shot-scraper.datasette.io/en/stable/har.html">shot-scraper har command</a> can now create an archive of a page and all of its dependents like this:</p>
+<pre><code>shot-scraper har https://datasette.io/
+</code></pre>
+<p>This produces a <code>datasette-io.har</code> file (currently 163KB) which is JSON representing the full set of requests used to render that page. Here's <a href="https://gist.github.com/simonw/b1fdf434e460814efdb89c95c354f794">a copy of that file</a>. You can visualize that <a href="https://ericduran.github.io/chromeHAR/?url=https://gist.githubusercontent.com/simonw/b1fdf434e460814efdb89c95c354f794/raw/924c1eb12b940ff02cefa2cc068f23c9d3cc5895/datasette.har.json">here using ericduran.github.io/chromeHAR</a>.</p>
+<p><img alt="The HAR viewer shows a line for each of the loaded resources, with options to view timing information" src="https://static.simonwillison.net/static/2025/har-viewer.jpg" /></p>
+<p>That JSON includes full copies of all of the responses, base64 encoded if they are binary files such as images.</p>
+<p>You can add the <code>--zip</code> flag to instead get a <code>datasette-io.har.zip</code> file, containing JSON data in <code>har.har</code> but with the response bodies saved as separate files in that archive.</p>
+<p>The <code>shot-scraper multi</code> command lets you run <code>shot-scraper</code> against multiple URLs in sequence, specified using a YAML file. That command now takes a <code>--har</code> option (or <code>--har-zip</code> or <code>--har-file name-of-file)</code>, <a href="https://shot-scraper.datasette.io/en/stable/multi.html#recording-to-an-http-archive">described in the documentation</a>, which will produce a HAR at the same time as taking the screenshots.</p>
+<p>Shots are usually defined in YAML that looks like this:</p>
+<div class="highlight highlight-source-yaml"><pre>- <span class="pl-ent">output</span>: <span class="pl-s">example.com.png</span>
+  <span class="pl-ent">url</span>: <span class="pl-s">http://www.example.com/</span>
+- <span class="pl-ent">output</span>: <span class="pl-s">w3c.org.png</span>
+  <span class="pl-ent">url</span>: <span class="pl-s">https://www.w3.org/</span></pre></div>
+
+<p>You can now omit the <code>output:</code> keys and generate a HAR file without taking any screenshots at all:</p>
+<div class="highlight highlight-source-yaml"><pre>- <span class="pl-ent">url</span>: <span class="pl-s">http://www.example.com/</span>
+- <span class="pl-ent">url</span>: <span class="pl-s">https://www.w3.org/</span></pre></div>
+
+<p>Run like this:</p>
+<pre><code>shot-scraper multi shots.yml --har
+</code></pre>
+<p>Which outputs:</p>
+<pre><code>Skipping screenshot of 'https://www.example.com/'
+Skipping screenshot of 'https://www.w3.org/'
+Wrote to HAR file: trace.har
+</code></pre>
+<p><code>shot-scraper</code> is built on top of Playwright, and the new features use the <a href="https://playwright.dev/python/docs/next/api/class-browser#browser-new-context-option-record-har-path">browser.new_context(record_har_path=...)</a> parameter.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/shot-scraper">shot-scraper</a>, <a href="https://simonwillison.net/tags/playwright">playwright</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/scraping">scraping</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/13/shot-scraper/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-13, from: Dave Winer's linkblog)
+
+RFK Jr. sworn in as Trump&#39;s health secretary after close Senate vote. #here #we #go 
+
+<br> 
+
+<https://apnews.com/article/rfk-trump-health-secretary-vote-5dbefeef0537dc241e6fb33b8f2a748b>
+
+---
+
+## Reuters Wins AI Copyright Case
+
+date: 2025-02-13, from: Michael Tsai
+
+Kate Knibbs (Hacker News): Thomson Reuters has won the first major AI copyright case in the United States. In 2020, the media and technology conglomerate filed an unprecedented AI copyright lawsuit against the legal AI startup Ross Intelligence. In the complaint, Thomson Reuters claimed the AI firm reproduced materials from its legal research firm Westlaw. [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/13/reuters-wins-ai-copyright-case/>
+
+---
+
+## Gemmell Is Back to Mac
+
+date: 2025-02-13, from: Michael Tsai
+
+Matt Gemmell (Mastodon): Almost eight and a half years ago, I switched to using an iPad as my full-time computer, having come from decades of having Macs. In recent years we did get an emergency-use shared/household M2 MacBook Air, which my wife would occasionally take out of the cupboard. Now, that laptop has become my [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/13/gemmell-is-back-to-mac/>
+
+---
+
+## Chinese App Store Antitrust Probe
+
+date: 2025-02-13, from: Michael Tsai
+
+Tim Hardwick: China&#8217;s State Administration for Market Regulation (SAMR) is said to have been critically examining Apple&#8217;s practices and holding discussions with the company since last year, specifically about its 30% commission on in-app purchases and restrictions on external payment services, according to the outlet&#8217;s sources.Chinese regulators are said to be particularly focused on whether [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/13/chinese-app-store-antitrust-probe/>
+
+---
+
+## NSDocument Auto Saving and File Types
+
+date: 2025-02-13, from: Michael Tsai
+
+Gus Mueller: Has anyone successfully come up with strategies for opting into NSDocument&#8217;s autosavesInPlace, but only for certain file types? I&#8217;ve looked into overriding scheduleAutosaving and friends, but nothing really works. TextEdit just throws up an alert saying &#8220;hey, lossy file format&#8221;. Is this the best I can do? Brian Webster: The issue is if [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/13/nsdocument-auto-saving-and-file-types/>
+
+---
+
+## Thomson Reuters v. Ross: The First AI Fair Use Ruling Fails to Persuade
+
+date: 2025-02-13, from: Authors Union blogs
+
+Facts of the Case On February 11, Third Circuit Judge Stephanos Bibas (sitting by designation for the U.S.&#160; District Court of Delaware) issued a new summary judgment ruling in Thomson Reuters v. ROSS Intelligence. He overruled his previous decision from 2023 which held that a jury must decide the fair use question. The decision was [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/02/13/thomson-reuters-v-ross-the-first-ai-fair-use-ruling-fails-to-persuade/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-13, from: Dave Winer's linkblog)
+
+What countries have the longest life expectancies in the world? 
+
+<br> 
+
+<https://qz.com/best-countries-longest-life-expectancy-1851758161/slides/12>
+
+---
+
+## MSXBOOK is a cheap retro laptop designed for compatibility with a 1980s Japanese PC platform
+
+date: 2025-02-13, from: Liliputing
+
+<p>The makers of the BOOK 8088, Pocket 386, and Hand 386 line of portable retro computers are back with a new model called the MSXBOOK. Like other products from 8086Yes!, the MSXBOOK is a compact computer with retro hardware that allows you to run software designed for decades-old computers without the need to rely on [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/msxbook-is-a-cheap-retro-laptop-designed-for-compatibility-with-a-1980s-japanese-pc-platform/">MSXBOOK is a cheap retro laptop designed for compatibility with a 1980s Japanese PC platform</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/msxbook-is-a-cheap-retro-laptop-designed-for-compatibility-with-a-1980s-japanese-pc-platform/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-13, from: Dave Winer's linkblog)
+
+Trump’s renaming of the Gulf of Mexico is not triumphant but pathetic. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/02/gulf-america-mexico-defeat/681682/?gift=f35zZN0v_gDFE8xNwlQAHeC8nizgTmmhcOe5Osc7Cac&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Lawyers Caught Citing AI-Hallucinated Cases Call It a 'Cautionary Tale'
+
+date: 2025-02-13, from: 404 Media Group
+
+The attorneys filed court documents referencing eight non-existent cases, then admitted it was a "hallucination" by an AI tool.  
+
+<br> 
+
+<https://www.404media.co/lawyers-caught-citing-ai-hallucinated-cases-call-it-a-cautionary-tale/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-13, from: Dave Winer's linkblog)
+
+Trump administration is set to purchase $400 million worth of armored Teslas. 
+
+<br> 
+
+<https://www.mprnews.org/story/2025/02/13/npr-trump-administration-order-400-million-worth-of-armored-teslas>
+
+---
+
+## Privacy, Psychology, and the Power of Personal Data
+
+date: 2025-02-13, from: Guy Kawasaki blog
+
+Insights from Sandra Matz. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/privacy-psychology-and-the-power>
+
+---
+
+## Glimmer of Justice: The Krupp Diamond, an FBI Investigation turned Hollywood Romance
+
+date: 2025-02-13, from: National Archives, Text Message blog
+
+The National Archives&#8217; Special Access and FOIA Program has recently made the Federal Bureau of Investigation (FBI) case file on the Krupp Diamond theft (87-HQ-46974) accessible online via the National Archives Catalog. The Krupp Diamond, also known as the “Elizabeth Taylor Diamond,” is an asscher cut 33.19-carat stone. Its facets are arranged in parallel lines &#8230; <a href="https://text-message.blogs.archives.gov/2025/02/13/glimmer-of-justice-the-krupp-diamond-an-fbi-investigation-turned-hollywood-romance/" class="more-link">Continue reading <span class="screen-reader-text">Glimmer of Justice: The Krupp Diamond, an FBI Investigation turned Hollywood Romance</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/02/13/glimmer-of-justice-the-krupp-diamond-an-fbi-investigation-turned-hollywood-romance/>
+
+---
+
+## Launching Interop 2025
+
+date: 2025-02-13, from: Mozilla Developer Network blog
+
+<p>Interop 2025 continues the mission to make the web more consistent across browsers, building on 2024’s 95% interoperability score. This year, 19 focus areas target key developer needs and long-standing issues, including WebRTC improvements, Storage Access API, and CSS Zoom. </p>
+<p>The post <a href="https://hacks.mozilla.org/2025/02/interop-2025/">Launching Interop 2025</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<br> 
+
+<https://hacks.mozilla.org/2025/02/interop-2025/>
+
+---
+
+## A ‘True Crime’ Documentary Series Has Millions of Views. The Murders Are All AI-Generated
+
+date: 2025-02-13, from: 404 Media Group
+
+The creator of a viral "true crime" series where the murders were all invented by AI explains how he did it. 
+
+<br> 
+
+<https://www.404media.co/a-true-crime-documentary-series-has-millions-of-views-the-murders-are-all-ai-generated/>
+
+---
+
+## If you're not using npm specifiers, you're doing it wrong
+
+date: 2025-02-13, updated: 2025-02-13, from: Deno blog
+
+One common way to import npm packages is with transpile services like esm.sh or unpkg.com, which
+converts npm modules to esm and hosts them on the web. However, since Deno 2, which supports npm natively, we recommend using npm specifiers. Here's why.
+ 
+
+<br> 
+
+<https://deno.com/blog/not-using-npm-specifiers-doing-it-wrong>
 
 ---
 
@@ -335,6 +831,18 @@ date: 2025-02-13, from: This is history podcast
 <br> 
 
 <https://therestishistory.com/539-horror-in-the-congo-the-crimes-of-empire-part-2/>
+
+---
+
+## Extensible Wasm Applications with Go
+
+date: 2025-02-13, updated: 2025-02-13, from: Go language blog
+
+Go 1.24 enhances WebAssembly capabilities with function export and reactor mode 
+
+<br> 
+
+<https://go.dev/blog/wasmexport>
 
 ---
 
@@ -819,11 +1327,11 @@ BuzzFeed, the ultimate social media team player, decides that it needs a social 
 
 ---
 
-## This Adtech Company is Powering Surveillance of U.S. Military Personnel
+## The Murky Ad-Tech World Powering Surveillance of US Military Personnel
 
 date: 2025-02-12, from: 404 Media Group
 
-In a letter to a US senator, a Florida-based data broker says it obtained sensitive data on US military members from a Lithuanian company, revealing the global nature of commercial online ad surveillance. 
+A Florida data broker told a US senator it obtained sensitive data on US military members in Germany from a Lithuanian firm, which denies involvement—revealing the opaque nature of online ad surveillance. 
 
 <br> 
 

@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-02-13 07:09:10
+updated: 2025-02-14 07:09:08
 ---
 
 # games
 
-(date: 2025-02-13 07:09:10)
+(date: 2025-02-14 07:09:08)
+
+---
+
+## How The Sims franchise leader went from QA to Maxis’ top creative role
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+For nearly four years, Lyndsay Pearson has led The Sims franchise as the creative franchise vice president at Maxis. But her legacy at the studio, owned by Electronic Arts, spans more than 20 years as she worked her way up from a quality assurance tester on The Sims, moving into an associate producer role for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-sims/522273/sims-franchise-lyndsay-pearson-25-anniversary>
+
+---
+
+## Somebody spilled Nier and Pokémon all over this Metroidvania
+
+date: 2025-02-14, updated: 2025-02-13, from: Polygon Website
+
+Each year, hundreds of games try to smash together beloved franchises into something shamelessly, shallowly commercial. At first blush, you might mistake Ender Magnolia: Bloom in the Mist for one of these offenders. The new 2D indie game combines the design of Metroid, the look and sound of Nier, and the progression of Mega Man [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/523325/ender-magnolia-review-steam-switch-metroidvania>
+
+---
+
+## Astro Bot wins big at DICE as Indiana Jones takes home 3 awards
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Astro Bot won five awards, including Game of the Year, at Thursday’s 28th annual DICE Awards — a game industry awards ceremony, taking place at the DICE conference in Las Vegas, that often follows the Game Awards’ lead. The other big winners of the night were Helldivers 2, Balatro, and Indiana Jones and the Great [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/523903/dice-awards-winners-2025-astro-bot>
+
+---
+
+## Was Captain America: Brave New World’s post-credits scene shot in 2010?
+
+date: 2025-02-13, updated: 2025-02-14, from: Polygon Website
+
+The 35th MCU movie, Captain America: Brave New World, comes with a lot of questions MCU movies only sporadically face, like “How does this relate to current politics?”, along with the usual ones, like “What should I watch to prepare for this movie?” and “Does it have a post-credits scene?” Brave New World does have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/523800/captain-america-brave-new-worlds-post-credits-scene>
+
+---
+
+## The new STALKER 2 patch is going to save you lots of time
+
+date: 2025-02-13, updated: 2025-02-14, from: Polygon Website
+
+STALKER 2: Heart of Chornobyl arrived late last year in a fairly incomplete state. Technical issues with graphics, animations, sound, and quest design were the biggest problems. But taken together, they combined to drain computer and console resources. The only option left to developers at GSC Game World was to dial back the efficacy of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/523856/stalker-2-1-2-new-update-patch-notes-weapon-condition-a-life>
+
+---
+
+## Pokémon TCG Pocket schedule of events for Space-Time Smackdown
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+The Pokémon TCG Pocket schedule is full of events that allow you to grow your digital collection of cards. The developers have run several events as part of the game’s Space-Time Smackdown expansion at the time of publication. The content of each event can vary greatly; some require you to battle, whereas some focus on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/522567/schedule-events-all-dates>
+
+---
+
+## The best gaming chairs
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+The best gaming chairs provide comfort, style, and features that normal office chairs can’t match. Sure, getting one might run you a few hundred dollars more than perhaps you were expecting to pay, but the same rationale for splashing cash on a good bed works here, too. That is to say, if you’re sitting at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/23885770/best-gaming-chairs>
+
+---
+
+## All the new video games launching in 2025
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+After a brutal year for the video game industry, 2025 is looking brighter and much busier&#160;— if only because Rockstar Games plans to release Grand Theft Auto 6 in 2025, and Nintendo promises to deliver the Switch 2 and a bunch of new games to launch with it. Those aren’t the only highly anticipated sequels [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming>
+
+---
+
+## Nvidia’s cheapest RTX 50-series GPU will launch in March
+
+date: 2025-02-13, updated: 2025-02-13, from: Polygon Website
+
+Nvidia has had issues keeping up with demand for its new, premium GeForce RTX 5080 and 5090 graphics cards, but the show must go on. It has two more cards to put out this winter, the RTX 5070 Ti and the RTX 5070, and they’re launching soon. The $749 RTX 5070 Ti — the more [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/523766/nvidia-rtx-5070-ti-gpu-launch-date>
 
 ---
 

@@ -1,11 +1,415 @@
 ---
 title: home
-updated: 2025-02-13 07:09:11
+updated: 2025-02-14 07:09:09
 ---
 
 # home
 
-(date: 2025-02-13 07:09:11)
+(date: 2025-02-14 07:09:09)
+
+---
+
+## What Do Iguanas Eat? Discover the Perfect Diet for Your Pet
+
+date: 2025-02-14, from: Yard Life blog
+
+<p>Iguanas are fascinating reptiles known for their vibrant colors and unique personalities. However, to keep them healthy and happy, it&#8217;s ... </p>
+<p class="read-more-container"><a title="What Do Iguanas Eat? Discover the Perfect Diet for Your Pet" class="read-more button" href="https://ownyardlife.com/what-do-iguanas-eat-discover-the-perfect-diet-for-your-pet/#more-23453" aria-label="Read more about What Do Iguanas Eat? Discover the Perfect Diet for Your Pet">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-iguanas-eat-discover-the-perfect-diet-for-your-pet/">What Do Iguanas Eat? Discover the Perfect Diet for Your Pet</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-do-iguanas-eat-discover-the-perfect-diet-for-your-pet/>
+
+---
+
+## Heavy Metal Gives This $643K Lisbon Flat an Industrial Edge
+
+date: 2025-02-14, from: Dwell
+
+The newly renovated apartment has a kitchen wrapped in mesh, a mirrored bathroom door, and a stainless steel shower curtain. 
+
+<br> 
+
+<https://www.dwell.com/article/industrial-loft-renovation-abac-architects-lisbon-real-estate-2e1bf0ed>
+
+---
+
+## Garage ADU Conversion Cost
+
+date: 2025-02-14, from: PHB blog
+
+<p>Embark on a transformative journey with us as we take you behind the scenes of our collaboration with Help! I Wrecked My House in Season 4, Episode 5. In this captivating episode, we faced a disaster of a space and embarked on a mission to turn it into a dream home.</p>
+<p>The post <a href="https://friendlycontractor.com/garage-adu-conversion-cost/">Garage ADU Conversion Cost</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/garage-adu-conversion-cost/>
+
+---
+
+## Home Remodeling Contractors In My Area
+
+date: 2025-02-14, from: PHB blog
+
+<p>Embark on a transformative journey with us as we take you behind the scenes of our collaboration with Help! I Wrecked My House in Season 4, Episode 5. In this captivating episode, we faced a disaster of a space and embarked on a mission to turn it into a dream home.</p>
+<p>The post <a href="https://friendlycontractor.com/home-remodeling-contractors-in-my-area/">Home Remodeling Contractors In My Area</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/home-remodeling-contractors-in-my-area/>
+
+---
+
+## Woolly Bear Caterpillars: Everything You Need to Know
+
+date: 2025-02-14, from: Yard Life blog
+
+<p>Woolly bear caterpillars are among the most recognizable insects in North America, known for their fuzzy bodies and the folklore ... </p>
+<p class="read-more-container"><a title="Woolly Bear Caterpillars: Everything You Need to Know" class="read-more button" href="https://ownyardlife.com/woolly-bear-caterpillars-everything-you-need-to-know/#more-23446" aria-label="Read more about Woolly Bear Caterpillars: Everything You Need to Know">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/woolly-bear-caterpillars-everything-you-need-to-know/">Woolly Bear Caterpillars: Everything You Need to Know</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/woolly-bear-caterpillars-everything-you-need-to-know/>
+
+---
+
+## Tent Caterpillars Identification and Control Tips
+
+date: 2025-02-14, from: Yard Life blog
+
+<p>Tent caterpillars are a common pest known for forming silky nests in the branches of trees, particularly in spring. These ... </p>
+<p class="read-more-container"><a title="Tent Caterpillars Identification and Control Tips" class="read-more button" href="https://ownyardlife.com/tent-caterpillars-identification-and-control-tips/#more-23442" aria-label="Read more about Tent Caterpillars Identification and Control Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/tent-caterpillars-identification-and-control-tips/">Tent Caterpillars Identification and Control Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/tent-caterpillars-identification-and-control-tips/>
+
+---
+
+## Tips for Growing ‘Sweet Dani’ Lemon Basil in Your Herb Garden
+
+date: 2025-02-14, from: The Gardener's Path
+
+<p>‘Sweet Dani’ basil is a lemon cultivar that stands out for several reasons. It’s more disease-resistant than other basils and it grows fast, with a clean, sweet lemon flavor that can be used in savory and sweet dishes. No wonder it’s an award-winning herb! Our guide provides all the details you need to grow your own.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-sweet-dani-lemon-basil/">Tips for Growing ‘Sweet Dani’ Lemon Basil in Your Herb Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-sweet-dani-lemon-basil/>
+
+---
+
+## What Do Caterpillars Eat? Top Plants Caterpillars Love
+
+date: 2025-02-14, from: Yard Life blog
+
+<p>Caterpillars are fascinating creatures that play a vital role in the ecosystem. Not only do they serve as food for ... </p>
+<p class="read-more-container"><a title="What Do Caterpillars Eat? Top Plants Caterpillars Love" class="read-more button" href="https://ownyardlife.com/what-do-caterpillars-eat-top-plants-caterpillars-love/#more-23436" aria-label="Read more about What Do Caterpillars Eat? Top Plants Caterpillars Love">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-do-caterpillars-eat-top-plants-caterpillars-love/">What Do Caterpillars Eat? Top Plants Caterpillars Love</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-do-caterpillars-eat-top-plants-caterpillars-love/>
+
+---
+
+## Portulaca Flowers Care and Growing Guide (Most Detailed)
+
+date: 2025-02-14, from: Yard Life blog
+
+<p>Portulaca, commonly known as moss rose or purslane, is a vibrant, low-maintenance flowering plant that thrives in sunny conditions. Its ... </p>
+<p class="read-more-container"><a title="Portulaca Flowers Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/portulaca-flowers-care-and-growing-guide-most-detailed/#more-23432" aria-label="Read more about Portulaca Flowers Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/portulaca-flowers-care-and-growing-guide-most-detailed/">Portulaca Flowers Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/portulaca-flowers-care-and-growing-guide-most-detailed/>
+
+---
+
+## 3 Simple Ways to Whitewash Wood
+
+date: 2025-02-14, from: Family Handyman Blog
+
+<p>Whitewashing is a great way to add a little farmhouse style to any project. Here are 3 ways to do it.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-3-simple-ways-to-whitewash-wood/">3 Simple Ways to Whitewash Wood</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-3-simple-ways-to-whitewash-wood/>
+
+---
+
+## Bathroom Remodeling LA
+
+date: 2025-02-14, from: PHB blog
+
+<p>Embark on a transformative journey with us as we take you behind the scenes of our collaboration with Help! I Wrecked My House in Season 4, Episode 5. In this captivating episode, we faced a disaster of a space and embarked on a mission to turn it into a dream home.</p>
+<p>The post <a href="https://friendlycontractor.com/bathroom-remodeling-la/">Bathroom Remodeling LA</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/bathroom-remodeling-la/>
+
+---
+
+## Garage ADU Conversion Plans by Preferred Home Builders
+
+date: 2025-02-14, from: PHB blog
+
+<p>Embark on a transformative journey with us as we take you behind the scenes of our collaboration with Help! I Wrecked My House in Season 4, Episode 5. In this captivating episode, we faced a disaster of a space and embarked on a mission to turn it into a dream home.</p>
+<p>The post <a href="https://friendlycontractor.com/garage-adu-conversion-plans-by-preferred-home-builders/">Garage ADU Conversion Plans by Preferred Home Builders</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/garage-adu-conversion-plans-by-preferred-home-builders/>
+
+---
+
+## A Dream Come True on HGTV’s “Help! I Wrecked My House”
+
+date: 2025-02-14, from: PHB blog
+
+<p>Embark on a transformative journey with us as we take you behind the scenes of our collaboration with Help! I Wrecked My House in Season 4, Episode 5. In this captivating episode, we faced a disaster of a space and embarked on a mission to turn it into a dream home.</p>
+<p>The post <a href="https://friendlycontractor.com/a-dream-come-true-on-hgtvs-help-i-wrecked-my-house/">A Dream Come True on HGTV’s “Help! I Wrecked My House”</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/a-dream-come-true-on-hgtvs-help-i-wrecked-my-house/>
+
+---
+
+## California Wild Rice Salads: Nutritious + Flavorful
+
+date: 2025-02-13, from: California Grown
+
+<p>Discover the perfect wild rice salads! From nutty and hearty to fresh and zesty, explore creative ways to elevate your salads with bold flavors, seasonal ingredients, and vibrant dressings. Healthy, delicious, and easy to make! When it comes to versatile grains, California Wild Rice is a standout. This unique grain is not a true rice [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/california-wild-rice-salads/" data-wpel-link="internal" target="_self">California Wild Rice Salads: Nutritious + Flavorful</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/california-wild-rice-salads/>
+
+---
+
+## The Definitive House Cleaning Guide: Tasks for Every Day, Week, Month, and Year
+
+date: 2025-02-13, from: Family Handyman Blog
+
+<p>Review our expert-approved, scheduled cleaning checklist to help keep your home free from allergens, sanitary and running smoothly.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/house-cleaning-checklist/">The Definitive House Cleaning Guide: Tasks for Every Day, Week, Month, and Year</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/house-cleaning-checklist/>
+
+---
+
+## If You See a Porch On Someone’s Roof, Here’s What It Means
+
+date: 2025-02-13, from: Family Handyman Blog
+
+<p>Learn the history behind these unique architecture designs.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/widows-walk/">If You See a Porch On Someone&#8217;s Roof, Here’s What It Means</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/widows-walk/>
+
+---
+
+## Can You Put Microfiber Cloths in the Dryer? Here’s the Deal
+
+date: 2025-02-13, from: Family Handyman Blog
+
+<p>Microfiber cloths are miracle cleaning tools, but if they don't work as well after they've been through the wash, here's what you're doing wrong.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-wash-microfiber-cloths/">Can You Put Microfiber Cloths in the Dryer? Here&#8217;s the Deal</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-wash-microfiber-cloths/>
+
+---
+
+## 12 Cool Ideas To Repurpose An Old Fireplace
+
+date: 2025-02-13, from: Family Handyman Blog
+
+<p>If you're looking for ways to repurpose a fireplace, we've got you covered. No matter your budget, you'll find an idea you love. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/non-functioning-fireplace-decor-ideas/">12 Cool Ideas To Repurpose An Old Fireplace</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/non-functioning-fireplace-decor-ideas/>
+
+---
+
+## 10 Easy DIY Projects To Increase Kitchen Cabinet and Drawer Storage
+
+date: 2025-02-13, from: Family Handyman Blog
+
+<p>If you're looking for some DIY cabinet organizer inspiration, you've come to the right place. We've got several easy options for you to try.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/kitchen-cabinet-drawer-storage-projects/">10 Easy DIY Projects To Increase Kitchen Cabinet and Drawer Storage</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/kitchen-cabinet-drawer-storage-projects/>
+
+---
+
+## What Does It Mean When Your Phone Says SOS?
+
+date: 2025-02-13, from: Family Handyman Blog
+
+<p>You might not think about your cell service indicators on a day to day basis, but in an emergency you need to know what they mean.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/what-does-it-mean-when-your-phone-says-sos/">What Does It Mean When Your Phone Says SOS?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/what-does-it-mean-when-your-phone-says-sos/>
+
+---
+
+## 17 Tips For Using Spray Foam Insulation
+
+date: 2025-02-13, from: Family Handyman Blog
+
+<p>Despite the obvious drawbacks-it's messy, sticky and impossible to remove once it cures-there's nothing better than spray foam for sealing energy-wasting air leaks (an so much more!). These are our best ways to use spray foam around your home.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/spray-foam-tips/">17 Tips For Using Spray Foam Insulation</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/spray-foam-tips/>
+
+---
+
+## How Much Internet Speed Do I Really Need?
+
+date: 2025-02-13, from: Family Handyman Blog
+
+<p>Find the right internet speed for your household based on your preferences and needs with input from professional IT technician.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/internet-speed-guide/">How Much Internet Speed Do I Really Need?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/internet-speed-guide/>
+
+---
+
+## Cookbook Club: The Zuni Café Cookbook
+
+date: 2025-02-13, from: Sunset Magazine - Living in the West
+
+My monthly cookbook club met to pay homage to Judi Rogers and the Zuni Café Cookbook, and it was one of our most delicious and satisfying meals together. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/cookbook-club-the-zuni-cafe-cookbook>
+
+---
+
+## This Perfume Smells Like Chocolate Dipped Ice Cream and Is the Perfect Last-Minute Valentine’s Day Gift
+
+date: 2025-02-13, from: Sunset Magazine - Living in the West
+
+The delicious Dipped in Chocolate scent is available at Salt & Straw's scoop shops and is the perfect gift for Valentine's Day. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/salt-and-straw-valentines-day-perfume>
+
+---
+
+## Here’s How the Winter Storms Will Impact Travel—and What to Do If They Mess Up Your Plans
+
+date: 2025-02-13, from: Sunset Magazine - Living in the West
+
+With heavy storms underway on the West Coast, here's how to best stay prepared according to meteorologists at The Weather Channel. 
+
+<br> 
+
+<https://www.sunset.com/travel/winter-storm-california-travel-tips>
+
+---
+
+## 6 Bad Restaurant Behaviors Insiders Are Begging You Avoid
+
+date: 2025-02-13, from: Sunset Magazine - Living in the West
+
+Don't be one of those rude diners at a restaurant. Insiders explain the restuarant etiquette mistakes to avoid the next time you go out. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/restaurants/bad-restaurant-etiquette>
+
+---
+
+## A Sky-Blue Eichler Springs Up in the Bay Area for $995K
+
+date: 2025-02-13, from: Dwell
+
+The lightly refreshed midcentury has tongue-and-groove ceilings, a large central atrium, and a backyard filled with fruit trees. 
+
+<br> 
+
+<https://www.dwell.com/article/joseph-eichler-jones-emmons-bay-area-real-estate-0a277a61>
+
+---
+
+## A Larger-Than-Average Home for the Street Still Plays Nice With Its Melbourne Neighborhood
+
+date: 2025-02-13, from: Dwell
+
+Yellow blinds, soft-shouldered rooflines, and a fenceless front yard with seating are meant to create an inviting atmosphere at the two-level family residence. 
+
+<br> 
+
+<https://www.dwell.com/article/cloud-street-house-steffen-welsch-architects-family-home-rammed-earth-design-f59d534e>
+
+---
+
+## My Search For a Modular (and Stylish) Storage Solution for Loft Living
+
+date: 2025-02-13, from: Dwell
+
+When I needed one piece of furniture to play many roles, I let midcentury modern design lead the way. 
+
+<br> 
+
+<https://www.dwell.com/article/my-search-for-a-modular-and-stylish-storage-solution-for-loft-living-7a17d4b4>
+
+---
+
+## Types of Daffodil Flowers: 13 Outstanding Divisions
+
+date: 2025-02-13, from: The Gardener's Path
+
+<p>Daffodils are a glorious symbol of spring, sweetly perfumed in bright colors and with a myriad of flower types in varying sizes and shapes. And with three different flowering times, you can enjoy their cheery blooms all season long. Learn about the types of daffodil varieties in 13 classifications in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/daffodil-types/">Types of Daffodil Flowers: 13 Outstanding Divisions</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/daffodil-types/>
 
 ---
 
@@ -24,6 +428,30 @@ date: 2025-02-13, from: Yard Life blog
 
 ---
 
+## The Muscle-Boosting Gardening Tip You Didn’t Know You Needed
+
+date: 2025-02-13, from: Sunset Magazine - Living in the West
+
+Gardening isn’t just about tending to plants. Anyone who gets their hands dirty knows it’s a full-body workout. Here's how to train for it. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/gardening-as-a-workout>
+
+---
+
+## The 2025 Sunset Travel Awards Open Soon—Here’s How to Enter
+
+date: 2025-02-13, from: Sunset Magazine - Living in the West
+
+The Sunset Travel Awards celebrates the best of travel in the West and we're accepting submissions soon. Find out how to enter. 
+
+<br> 
+
+<https://www.sunset.com/travel/2025-sunset-travel-awards-submissions-open>
+
+---
+
 ## 9 of the Best Celery Cultivars for Your Garden
 
 date: 2025-02-13, from: The Gardener's Path
@@ -35,6 +463,18 @@ date: 2025-02-13, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/best-celery-cultivars/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-13, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -138,6 +578,19 @@ date: 2025-02-13, from: PHB blog
 <br> 
 
 <https://friendlycontractor.com/adu-home-additions-in-los-angeles-transforming-living-spaces-and-communities-copy/>
+
+---
+
+## Before and After: Modern Boho Magic on “Help! I Wrecked My House – Season 4, Episode 5”
+
+date: 2025-02-13, from: PHB blog
+
+<p>Embark on a transformative journey with us as we take you behind the scenes of our collaboration with Help! I Wrecked My House in Season 4, Episode 5. In this captivating episode, we faced a disaster of a space and embarked on a mission to turn it into a dream home.</p>
+<p>The post <a href="https://friendlycontractor.com/before-and-after-modern-boho-magic-on-help-i-wrecked-my-house-season-4-episode-5/">Before and After: Modern Boho Magic on “Help! I Wrecked My House – Season 4, Episode 5”</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/before-and-after-modern-boho-magic-on-help-i-wrecked-my-house-season-4-episode-5/>
 
 ---
 
@@ -332,18 +785,6 @@ In the 1989 comedy, the gaudy Long Island home of Meryl Streep’s character cap
 
 ---
 
-## Sunset.com Home Page
-
-date: 2025-02-12, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## The Ultimate Insider Guide to Joshua Tree and the High Desert
 
 date: 2025-02-12, from: Sunset Magazine - Living in the West
@@ -517,18 +958,6 @@ The couple documented their DIY updates to the 1920s home, and gained a social m
 
 ---
 
-## The Muscle-Boosting Gardening Tip You Didn’t Know You Needed
-
-date: 2025-02-11, from: Sunset Magazine - Living in the West
-
-Gardening isn’t just about tending to plants. Anyone who gets their hands dirty knows it’s a full-body workout. Here's how to train for it. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/garden-basics/gardening-as-a-workout>
-
----
-
 ## They Camped Out for Two Years to Build a Home in a Catskills Quarry
 
 date: 2025-02-11, from: Dwell
@@ -555,15 +984,15 @@ date: 2025-02-11, from: The Gardener's Path
 
 ---
 
-## 6 Bad Restaurant Behaviors Insiders Are Begging You Avoid
+## This Opulent Decor Choice Is Poised to Become the Biggest Design Trend of 2025
 
 date: 2025-02-11, from: Sunset Magazine - Living in the West
 
-Don't be one of those rude diners at a restaurant. Insiders explain the restuarant etiquette mistakes to avoid the next time you go out. 
+Move over, color-drenching. It turns out that dousing your entire room in one shade is so last year. Now it's all about material drenching. 
 
 <br> 
 
-<https://www.sunset.com/food-wine/restaurants/bad-restaurant-etiquette>
+<https://www.sunset.com/home-garden/design/material-drenching-trend>
 
 ---
 

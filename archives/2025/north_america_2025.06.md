@@ -1,23 +1,1187 @@
 ---
 title: north america
-updated: 2025-02-13 07:09:08
+updated: 2025-02-14 07:09:04
 ---
 
 # north america
 
-(date: 2025-02-13 07:09:08)
+(date: 2025-02-14 07:09:04)
 
 ---
 
-## Morning Roundup: Hypocrisy and Suspect 180s
+## A third of Americans have more credit card debt than emergency savings, poll finds
 
-date: 2025-02-13, from: The Contrarian
+date: 2025-02-14, from: Market Place
 
-February 13: Featuring Jen Rubin, Mimi Rocah, Jennifer Rodgers and more... 
+It's a sign that higher prices are still weighing on many household budgets. 
 
 <br> 
 
-<https://contrarian.substack.com/p/morning-roundup-hypocrisy-and-suspect>
+<https://www.marketplace.org/2025/02/14/a-third-of-americans-have-more-credit-card-debt-than-emergency-savings-poll-finds/>
+
+---
+
+## Morning Roundup: A lot of love for undaunted federal employees
+
+date: 2025-02-14, from: The Contrarian
+
+February 14: Featuring Jen Rubin, Mimi Rocah, Kelsi Brown Corkran, Ruben Bolling and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-a-lot-of-love-for>
+
+---
+
+## Jen Rubin and Mimi Rocah explain the SDNY resignations
+
+date: 2025-02-14, from: The Contrarian
+
+Yesterday, the acting Manhattan US attorney, Danielle Sassoon, resigned after being directed by Emil Bove to drop the corruption charges against NYC mayor Eric Adams. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157142431/c6b51e1e8abd4670a63d60e8b7c504b1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157142431/c6b51e1e8abd4670a63d60e8b7c504b1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-mimi-rocah-explain>
+
+---
+
+## Tom the Dancing Bug: Friday's Comic
+
+date: 2025-02-14, from: The Contrarian
+
+Donald and John: A boy ex-ex-President and his Imaginary Publicist 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-fridays-comic-d6a>
+
+---
+
+## Taiwan pledges chip talks and investment in bid to ease Trump’s concerns
+
+date: 2025-02-14, from: VOA News USA
+
+TAIPEI — Taiwan President Lai Ching-te pledged on Friday to talk with the United States about President Donald Trump’s concerns over the chip industry and to increase U.S. investment and buy more from the country, while also spending more on defense.
+
+
+Trump spoke critically about Taiwan on Thursday, saying he aimed to restore U.S. manufacturing of semiconductor chips and repeating claims about Taiwan having taken away the industry he wanted back in the United States.
+
+
+Speaking to reporters after holding a meeting of the National Security Council at the presidential office, Lai said that the global semiconductor supply chain is an ecosystem in which the division of work among various countries is important.
+
+
+"We of course are aware of President Trump's concerns," Lai said.
+
+
+"Taiwan's government will communicate and discuss with the semiconductor industry and come up with good strategies. Then we will come up with good proposals and engage in further discussions with the United States," he added.
+
+
+Democratic countries including the United States should come together to build a global alliance for AI chips and a "democratic supply chain" for advanced chips, Lai said.
+
+
+"While admittedly we have the advantage in semiconductors, we also see it as Taiwan's responsibility to contribute to the prosperity of the international community."
+
+
+Taiwan is home to the world's largest contract chipmaker, TSMC, a major supplier to companies including Apple and Nvidia, and a crucial part of the developing AI industry.
+
+
+
+
+TSMC is investing $65 billion in new factories in the U.S. state of Arizona, a project begun in 2020 under Trump's first administration.
+
+
+TSMC's Taipei-listed shares closed down 2.8% on Friday, underperforming the broader market, which ended off 1.1%.
+
+
+A senior Taiwan security official, speaking to reporters on condition of anonymity in order to speak more freely, said if TSMC judged it was feasible to increase its U.S. investment, Taiwan's government would help in talks with the United States.
+
+
+TSMC did not immediately respond to a request for comment.
+
+
+The official added that communications between Taiwan and U.S. economic, security and defense officials at present was "quite good" and "strong support from the United States can be felt".
+
+
+US support 
+
+
+The United States, like most countries, has no formal diplomatic ties with Chinese-claimed Taiwan, but is the democratically governed island's most important international backer and arms supplier.
+
+
+
+
+Trump cheered Taiwan last week after a joint U.S.-Japan statement following Japanese Prime Minister Shigeru Ishiba's visit to Washington called for "maintaining peace and stability across the Taiwan Strait" and voiced support for "Taiwan's meaningful participation in international organizations."
+
+
+But Taiwan also runs a large trade surplus with the United States, which surged 83% last year, with the island's exports to the U.S. hitting a record $111.4 billion, driven by demand for high-tech products such as semiconductors.
+
+
+Lai said that the United States is Taiwan's largest foreign investment destination, and that Taiwan is the United States' most reliable trade partner.
+
+
+Trump has also previously criticized Taiwan, which faces a growing military threat from China, for not spending enough on defense, a criticism he has made of many U.S. allies.
+
+
+"Taiwan must demonstrate our determination to defend ourselves," Lai said, adding his government is working to propose a special budget this year to boost defense spending from 2.5% of its GDP to 3%.
+
+
+His government is involved in a standoff with parliament, where opposition parties hold a majority, over cuts to the budget, including defense spending.
+
+
+"Certainly, more and more friends and allies have expressed concern to us, worried whether Taiwan's determination for its self-defense has weakened," Lai said. 
+
+<br> 
+
+<https://www.voanews.com/a/taiwan-pledges-chip-talks-and-investment-in-bid-to-ease-trump-s-concerns-/7974979.html>
+
+---
+
+## Undaunted
+
+date: 2025-02-14, from: The Contrarian
+
+The unsung heroes of the federal government 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-aea>
+
+---
+
+## Trump hosts India’s leader, inks US defense, energy sales
+
+date: 2025-02-14, from: VOA News USA
+
+US President Donald Trump on Thursday made a range of energy and defense agreements with Indian Prime Minister Narendra Modi on his first visit to the White House in Trump’s second term. But the gains were offset by Trump’s threat to impose reciprocal tariffs on trading partners, something India sought to avoid. VOA’s Anita Powell reports from the White House. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-hosts-india-s-leader-inks-us-defense-energy-sales/7974723.html>
+
+---
+
+## Trump’s immigration policies to expand mass deportations and detentions
+
+date: 2025-02-14, from: VOA News USA
+
+The Trump administration is moving quickly with its mass deportation plans by sending some migrants to Guantanamo Bay in Cuba and rapidly deporting others. VOA’s immigration reporter Aline Barros brings us this story. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-immigration-policies-to-expand-mass-deportations-and-detentions/7974695.html>
+
+---
+
+## Guam a doorway to US for Chinese asylum-seekers
+
+date: 2025-02-14, from: VOA News USA
+
+President Donald Trump’s immigration policy has mainly been focused on migrants trying to cross into the US at its border with Mexico, some having made the perilous trek from as far as South America. Out in the western Pacific Ocean, some Chinese are taking an equally dangerous route into the US VOA's Yu Yao and Jiu Dao have their story, narrated by Elizabeth Lee. 
+
+<br> 
+
+<https://www.voanews.com/a/guam-a-doorway-to-us-for-chinese-asylum-seekers/7974674.html>
+
+---
+
+## Google drops pledge against AI for weapons, surveillance
+
+date: 2025-02-14, from: VOA News USA
+
+Technology company Google recently broke with its long-standing policy against developing AI weapons. VOA's Matt Dibble has more from Silicon Valley. 
+
+<br> 
+
+<https://www.voanews.com/a/google-drops-pledge-against-ai-for-weapons-surveillance-/7974653.html>
+
+---
+
+## This final note — on democracy and this economy
+
+date: 2025-02-14, from: Market Place
+
+This final note on the way out today … … about what’s happening in … … and to … … this economy right now … … an economy that I’m obliged to remind you … … affects everyone. A lot of what happens in American capitalism is far from perfect. We all know that. But [&#8230;] 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/13/this-final-note-on-democracy-and-this-economy/>
+
+---
+
+## Russian Vinnik back in Moscow after prisoner swap, news agency says
+
+date: 2025-02-14, from: VOA News USA
+
+Alexander Vinnik, a Russian national convicted of cybercrime and released by U.S. authorities as part of a prisoner swap, arrived in Moscow on Thursday and thanked President Vladimir Putin and others for arranging the exchange, state news agency RIA said.
+
+
+Vinnik, who pleaded guilty in May 2024 to charges of conspiracy to commit money laundering, told RIA in a dispatch issued after midnight that he was at home with his family.
+
+
+He said he had flown on a U.S. plane that stopped in Poland and not in Turkey as his lawyer had said.
+
+
+Quoted by RIA, Vinnik thanked Putin, Russian Foreign Minister Sergey Lavrov, Russian diplomats and special services, his lawyers "and especially my family."
+
+
+He added: "What can I say? And I can also thank [U.S. President Donald] Trump. On the whole, without him, things would probably have been difficult."
+
+
+Leonid Slutsky, head of the foreign affairs committee of Russia's State Duma, the lower house of parliament, told the Tass news agency that Vinnik's return home was "yet another victory for Russian diplomacy and all services and agencies associated with his liberation."
+
+
+Unlike previous instances of Russians returning home after a prisoner swap, there was little fanfare around Vinnik's arrival.
+
+
+Vinnik operated a cryptocurrency exchange, BTC-e, through which he was suspected of funneling $4 billion in proceeds from ransomware attacks, identity theft, drug rings and other criminal activity.
+
+
+He was freed by the United States from prison in return for Moscow's release of American schoolteacher Marc Fogel, who returned home on Tuesday. 
+
+<br> 
+
+<https://www.voanews.com/a/russian-vinnik-back-in-moscow-after-prisoner-swap-news-agency-says-/7974639.html>
+
+---
+
+## How to actually tackle government waste
+
+date: 2025-02-14, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Elon Musk and his DOGE team have been inside the pipes of the federal government on a mission to cut government spending and root out waste. We know government waste exists. But today, we&#8217;ll explain the problem with the way DOGE is going about it. Plus, blue state Republicans and their newfound power! And, stick around for your daily dose of positive news: We&#8217;ll hear about some of the good things that have been happening to &#8220;Make Me Smart&#8221; listeners. (Keep ‘em coming!)</p>
+<p>Here’s everything we talked about:</p>
+<ul>
+<li>Watch: <a href="https://www.youtube.com/watch?v=rlY-UWuLqng&amp;t=8s" target="_blank" rel="noreferrer noopener">Watch live: House DOGE subcommittee holds first hearing on federal spending</a> on YouTube<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://rollcall.com/2025/02/12/doge-fight-new-subcommittee-holds-its-first-house-hearing/" target="_blank" rel="noreferrer noopener">“DOGE fight: New subcommittee holds its first House hearing”</a> by Roll Call<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.theatlantic.com/ideas/archive/2025/02/doge-government-contractors/681661/" target="_blank" rel="noreferrer noopener">“The Government Waste DOGE Should Be Cutting”</a> from The Atlantic<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.gao.gov/products/gao-24-106608" target="_blank" rel="noreferrer noopener">Improper Payments and Fraud: How They Are Related but Different</a> from the Government Accountability Office</li>
+<li>Watch: <a href="https://www.youtube.com/watch?v=PgkZGhnHLXE" target="_blank" rel="noreferrer noopener">Happening Now: Powell Testifies Before Senate Banking Committee</a> on YouTube<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://apnews.com/article/cfpb-trump-vought-consumer-protection-52e00309b2f1b55d4de6eadd0057bd50" target="_blank" rel="noreferrer noopener">“What does having the Consumer Financial Protection Bureau on hold mean for consumers?”</a> from AP News<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.marketplace.org/2025/02/11/how-blue-state-republicans-could-shape-congressional-legislation-this-year/" target="_blank" rel="noreferrer noopener">“How blue state Republicans could shape Congressional legislation this year”</a> by Marketplace</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/13/mms_20250213_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fhow-to-actually-tackle-government-waste&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/13/mms_20250213_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fhow-to-actually-tackle-government-waste&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/how-to-actually-tackle-government-waste>
+
+---
+
+## Trump administration lays off probationary employees, plans 'large-scale' cuts
+
+date: 2025-02-14, from: VOA News USA
+
+washington — The Trump administration on Thursday intensified its sweeping efforts to shrink the size of the federal workforce, the nation's largest employer, by ordering agencies to lay off nearly all probationary employees who had not yet gained civil service protection — potentially affecting hundreds of thousands of workers.
+
+
+In addition, workers at some agencies were warned that large workplace cuts would be coming.
+
+
+The decision on probationary workers, who generally have less than a year on the job, came from the Office of Personnel Management, which serves as a human resources department for the federal government. The notification was confirmed by a person familiar with the matter, who spoke on condition of anonymity because of a lack of authorization to discuss the matter publicly.
+
+
+It's expected to be the first step in sweeping layoffs throughout the federal government. President Donald Trump signed an executive order Tuesday that told agency leaders to plan for "large-scale reductions in force."
+
+
+Elon Musk, whom Trump has given wide leeway to slash government spending with his Department of Government Efficiency, called Thursday for the country to "delete entire agencies" from the federal government.
+
+
+"I think we do need to delete entire agencies as opposed to leave a lot of them behind," Musk said as he spoke via a videocall to the World Governments Summit in Dubai, United Arab Emirates. "If we don't remove the roots of the weed, then it's easy for the weed to grow back."
+
+
+'Vast unraveling'
+
+
+Paul Light, an expert on the federal government and professor emeritus of public service at New York University, said it seemed like the administration was "inventing new methods for destroying government capacity."
+
+
+By laying people off, the government will be able to accomplish fewer things.
+
+
+"It's a vast unraveling of what federal agencies do," he said.
+
+
+Thursday's order was an expansion of previous directions from OPM, which told agencies earlier this week that probationary employees should be fired if they weren't meeting high standards. It's not clear how many workers are in a probationary period. According to government data maintained by OPM, there were 220,000 workers with under a year on the job as of March 2024, the most recent data available.
+
+
+The firing of probationary employees began earlier this week, and it has included workers at the Consumer Financial Protection Bureau and the Department of Education.
+
+
+At least 39 workers were fired from the Education Department on Wednesday, according to a union that represents agency workers, including civil rights workers, special education specialists and student aid officials.
+
+
+The civilian federal workforce, not including military personnel and postal workers, is made up of about 2.4 million people. While about 20% of the workers are in Washington and the neighboring states of Maryland and Virginia, more than 80% live outside the capital region.
+
+
+Trump's initial attempt to downsize the workforce was the deferred resignation program, commonly described as a buyout, which offered to pay people until September 30 if they agreed to quit. The White House said 75,000 people signed up, and a federal judge cleared a legal roadblock for the program on Wednesday.
+
+
+However, the number of workers who took the offer was lower than the administration's target, and Trump has made it clear that he would take further steps to lay people off.
+
+
+Employees at the National Science Foundation and Housing and Urban Development Department were told this week that large reductions in the workforce, in some cases a halving of the workforce, would be coming, according to a person familiar with the situation who spoke on condition of anonymity because of a lack of authorization to discuss it.
+
+
+The National Science Foundation was told to expect a 25% to 50% reduction in force within two months, while the Housing and Urban Development Department was told to plan for a 50% reduction, the person said.
+
+
+Employees at the National Oceanic and Atmospheric Administration were also bracing Thursday for reductions in their workforce.
+
+
+The order Trump signed Tuesday stipulated that government functions not required by law would be prioritized for cuts and hiring would be restricted. With exceptions for functions such as public safety, only one employee can be added for every four who leave. In addition, new hires would generally need the approval from a representative of the DOGE, expanding the influence of Musk's team. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-lays-off-probationary-employees-plans-large-scale-cuts/7974612.html>
+
+---
+
+## Trump takes tit-for-tat trade action with tariffs
+
+date: 2025-02-14, from: VOA News USA
+
+WASHINGTON  — U.S. President Donald Trump on Thursday took what could become his most consequential action involving international trade early in his second administration.
+
+
+Trump, who signed a memorandum calling for reciprocal tariffs, told a group of reporters in the Oval Office that “if you build your product in the United States, there are no tariffs.”
+
+
+The goal is to bring down America’s budget deficit, estimated to be approaching $2 trillion.
+
+
+The president added that the action “is fair to all. No other country can complain.”
+
+
+Trump ordered Howard Lutnick and Jamieson Greer, his picks for commerce secretary and U.S. trade representative, respectively, to lead teams to calculate new import taxes on America’s trading partners. To assess the amounts, they are to take into consideration other countries’ tariff rates, subsidies to industry, value-added taxes — which are common in the European Union — regulations and undervaluing of currencies.
+
+
+The EU value-added tax is the “poster child” for unfair trade, Peter Navarro, the president’s senior counselor for trade, told reporters on Thursday.
+
+
+Modi visit
+
+
+Trump put his signature on the edict just hours before welcoming Indian Prime Minister Narendra Modi to the White House.
+
+
+India is expected to be one of the countries most affected by the action. India has relatively high tariff and non-tariff barriers on numerous American exports. It has faced pressure from Washington to reduce its 100% tariff on walnuts, the 70% levy on apples and the 60% import tax on dairy products.
+
+
+Other sectors include smartphones, pork and poultry, and medical devices. India reduced a 100% tariff on Harley-Davidson motorcycles — an iconic brand deeply embedded in the economy of the Midwestern state of Wisconsin — to 50% in 2018.
+
+
+The two countries announced on Thursday an energy agreement to make the United States the primary supplier of oil and gas to India.
+
+
+Trump, alongside Modi, at a Thursday evening news conference said he would pave the way for the United States to sell F-35 Stealth fighter jets to India and the two leaders would work to make tariff cuts in order to reduce America’s nearly $50 billion trade deficit with India.
+
+
+“Prime Minister Modi and I agreed we would begin negotiations to address the long-standing disparities,” Trump said.
+
+
+Modi said he and Trump have set a “target of more than doubling our bilateral trade to attain $500 billion by 2030. Our teams will work on concluding very soon a mutually beneficial trade agreement.”
+
+
+In response to a reporter’s question about the reciprocal tariffs, Trump confirmed India would also be targeted.
+
+
+“Whatever India charges, we’re charging them,” he said.
+
+
+Some high-ranking government officials in New Delhi have suggested finding a way to appease the U.S. president amid concern that he could negotiate a sweeping trade deal with India’s neighbor and rival, China, according to Aparna Pande, director of the Hudson Institute’s Initiative on the Future of India and South Asia.
+
+
+If Trump and China’s leader, Xi Jinping, were to forge a sweeping trade pact, “India could face a double challenge — on the trade/economic front and the strategic big picture front,” Pande told VOA on Thursday.
+
+
+“India is a country that Trump has railed against in the past, although I don't think it's a particular obsession of his in the way that China is, because China is a major strategic competitor to the United States. Or the way Canada and Mexico are, because they are the bordering countries,” according to Milan Vaishnav, director of the South Asia program at the Carnegie Endowment for International Peace.
+
+
+Since being sworn into office on Jan. 20 for his second nonconsecutive term as president, Trump has moved quickly on the trade front. He imposed, and then put on hold amid further negotiations, across-the-board 25% tariffs on nearly all products from America’s two continental neighbors, Canada and Mexico.
+
+
+He placed a flat 10% tariff on all Chinese goods, which prompted Beijing to respond with countertariffs of 10% to 15% on crude oil, liquefied natural gas, farm machinery and some other U.S. products. Economists say the tariffs cover about $450 billion worth of Chinese goods, while the Chinese tariffs hit $15 billion to $20 billion in American products.  
+
+
+Trump characterized his actions as a way to pressure those three countries into doing more to stop the flow of the synthetic opioid fentanyl into the United States. He also has blamed Canada and Mexico for being lax in preventing migrants from crossing their borders into the U.S.
+
+
+Trump earlier this week announced that effective in March, all steel and aluminum imports will be taxed at a minimum of 25%, an action analysts predict could significantly raise sticker prices at automotive dealerships in North America.
+
+
+'Stagflationary shock'
+
+
+Analysts say Trump’s tariff actions will hurt the growth of the U.S. economy this year. 
+
+
+“Tariffs impart a modest stagflationary shock to an economy," according to a report issued Thursday by financial services provider Wells Fargo. “The U.S. economy entered 2025 with a fair amount of momentum, but we look for real GDP growth to downshift a bit over the next few quarters as the price-boosting effects of tariffs erode growth in real income, thereby weighing on growth in real consumer spending.”
+
+
+Peter Harrell, who was jointly appointed to the White House National Security Council and National Economic Council in the previous administration of President Joe Biden, said Trump “promised us he would be a ‘tariff man’ and he is certainly delivering.”
+
+
+“I think this is only part of the tariffs we are likely to see or at least threatened” over the coming months, Harrell said Thursday morning on “The Capital Cable,” a livestream program of the Center for Strategic and International Studies’ (CSIS) Korea Chair.
+
+
+These actions or the threat of them give the Trump administration leverage by having “a tariff bazooka ready to fire,” said Harrell, currently a Carnegie nonresident fellow.
+
+
+On the same livestream, Philip Luck, director of the CSIS economic program, warned that Trump’s “Fortress America” will result in Americans paying “really high costs” due to retaliatory actions by Washington’s trading partners. If the president’s goal is to use such trade actions partly to increase the cash coffers, tariff revenue is approximately 1.5% of government revenue, “so it’s tiny,” Luck said.
+
+
+The United States is in a dominant position as the largest economy and well-integrated into the global trading system, giving it leverage built up over an 80-year period, but Trump’s actions could squander that goodwill, Luck said.
+
+
+“We’ve been a reliable partner for a long period of time,” he noted, with the United States traditionally setting tariffs through negotiations involving international groups such as the World Trade Organization. 
+
+
+“There’s a lot of anxiety, bordering on panic in [South] Korea,” because Trump, immediately in his second term, is using tariffs for noneconomic reasons, said Yeo Han-Koo, a senior fellow at the Peterson Institute for International Economics
+
+
+“U.S. policymakers really need to see the strategic angle” amid the regional competition with China and how they can collaborate with Tokyo and Seoul, suggested Yeo, who as South Korea’s trade minister coinciding with Trump’s first term was at the negotiating table across from American officials.
+
+
+Shipbuilding, civil nuclear power and biopharmaceuticals are three sectors where the United States, Japan and South Korea could cooperate to help counter Beijing’s rising trade and military influence, Yeo suggested.
+
+
+Iram Abbasi of VOA’s Urdu Service contributed to this report. Some information came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-takes-tit-for-tat-trade-action-with-tariffs-/7974339.html>
+
+---
+
+## Evening Roundup: Another front opens in the battle to save democracy
+
+date: 2025-02-14, from: The Contrarian
+
+Featuring pro-democracy columns and videos from Jen Rubin, Norm Eisen, Eric Swawell and Mich&#232;le Taylor and a cartoon by RJ Matson. Plus, we want to hear from you. 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-another-front-opens>
+
+---
+
+## How small businesses are navigating tariff turmoil
+
+date: 2025-02-13, from: Market Place
+
+Whether they're paying more to import bananas, ship furniture or change suppliers, it all involves paying more — after a long bout of inflation. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/13/small-business-tariffs-imports-taxes-prices-shipping/>
+
+---
+
+## Attention: Contrarians' Day Alert! 
+
+date: 2025-02-13, from: The Contrarian
+
+*Special Alert from The Contrarian* 
+
+<br> 
+
+<https://contrarian.substack.com/p/attention-contrarians-day-alert>
+
+---
+
+## Jen and Norm talk Elon Musk and DOGE
+
+date: 2025-02-13, from: The Contrarian
+
+Elon Musk was not elected by the American people, and he certainly was not confirmed by the Senate. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157107756/97f8e68382b3b3a3e27070fdb1c03767.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157107756/97f8e68382b3b3a3e27070fdb1c03767.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-and-norm-talk-elon-musk-and-doge>
+
+---
+
+## When prices fall in the PPI, do prices fall at the store?
+
+date: 2025-02-13, from: Market Place
+
+January's producer price index shows big drops in the cost of fruit and veggies. But wholesale vs. retail isn't an apples-to-apples comparison. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/13/when-prices-fall-in-the-ppi-do-prices-fall-at-the-store/>
+
+---
+
+## Federal judge pauses Trump order restricting gender-affirming care for trans youth
+
+date: 2025-02-13, from: VOA News USA
+
+BALTIMORE — A federal judge on Thursday temporarily blocked President Donald Trump's recent executive order aimed at restricting gender-affirming health care for transgender people under age 19.
+
+
+The judge's ruling came after a lawsuit was filed earlier this month on behalf of families with transgender or nonbinary children who allege their health care has been compromised by the president's order. A national group for family of LGBTQ+ people and a doctors organization are also plaintiffs in the court challenge, one of many lawsuits opposing one of the many executive orders Trump has issued.
+
+
+Judge Brendan Hurson, who was nominated by former President Joe Biden, granted the plaintiffs' request for a temporary restraining order following a hearing in federal court in Baltimore. The ruling, in effect for 14 days, essentially puts Trump's directive on hold while the case proceeds. The restraining order could also be extended.
+
+
+Shortly after taking office, Trump signed an executive order directing federally run insurance programs to exclude coverage for gender-affirming care. That includes Medicaid, which covers such services in some states, and TRICARE for military families. Trump's order also called on the Department of Justice to vigorously pursue litigation and legislation to oppose the practice.
+
+
+The lawsuit includes several accounts from families of appointments being canceled as medical institutions react to the new directive.
+
+
+Attorneys for the plaintiffs argue Trump's executive order is "unlawful and unconstitutional" because it seeks to withhold federal funds previously authorized by Congress and because it violates anti-discrimination laws while infringing on the rights of parents.
+
+
+Like legal challenges to state bans on gender-affirming care, the lawsuit also alleges the policy is discriminatory because it allows federal funds to cover the same treatments when they're not used for gender transition.
+
+
+Some hospitals immediately paused gender-affirming care, including prescriptions for puberty blockers and hormone therapy, while they assess how the order affects them.
+
+
+Trump's approach on the issue represents an abrupt change from the Biden administration, which sought to explicitly extend civil rights protections to transgender people. Trump has used strong language in opposing gender-affirming care, asserting falsely that "medical professionals are maiming and sterilizing a growing number of impressionable children under the radical and false claim that adults can change a child's sex."
+
+
+Major medical groups such as the American Medical Association and the American Academy of Pediatrics support access to gender-affirming care.
+
+
+Young people who persistently identify as a gender that differs from their sex assigned at birth are first evaluated by a team of professionals. Some may try a social transition, involving changing a hairstyle or pronouns. Some may later also receive puberty blockers or hormones. Surgery is extremely rare for minors. 
+
+<br> 
+
+<https://www.voanews.com/a/federal-judge-pauses-trump-order-restricting-gender-affirming-care-for-trans-youth-/7974321.html>
+
+---
+
+## Prosecutors quit after being ordered to end case against New York mayor
+
+date: 2025-02-13, from: VOA News USA
+
+NEW YORK — The top federal prosecutor in Manhattan resigned Thursday after refusing a Justice Department order to drop corruption charges against New York City Mayor Eric Adams. Two senior Justice Department officials also quit after the department leadership in Washington moved to seize control of the case.
+
+
+Danielle Sassoon, a Republican serving as interim U.S. attorney for the Southern District of New York, announced her resignation in an email to her staff. The move was confirmed by a spokesperson for the office. Adams' case has yet to be dropped.
+
+
+After Sassoon declined to dismiss the case, the department's public integrity section in Washington was asked to take over, according to a person familiar with the matter. Two senior officials who oversee the unit, including the acting chief, resigned in response, according to the person, who spoke on the condition of anonymity to discuss personnel matters.
+
+
+The exits came days after a high-ranking Justice Department official directed federal prosecutors in New York to end the case against Adams, a Democrat who was accused of accepting illegal campaign contributions and bribes of free or discounted travel from people who wanted to buy his influence. He has pleaded not guilty.
+
+
+Acting Deputy Attorney General Emil Bove said in a memo Monday that the case should be dismissed so Adams could aid President Donald Trump's immigration crackdown and campaign for reelection free from facing criminal charges. The primary is four months away and Adams has multiple challengers.
+
+
+Bove had directed that be done as soon as "practicable," but there have been no public statements or actions by the prosecution team. On Wednesday, Attorney General Pam Bondi said she would "look into" why the case had yet to be dismissed. As of Thursday afternoon, the charges remained in place.
+
+
+In the email to her staff, Sassoon did not give a reason for her resignation. In the note, the contents of which were obtained by The Associated Press, she said she had just submitted her resignation to Bondi.
+
+
+"As I told her, it has been my greatest honor to represent the United States and to pursue justice as a prosecutor in the Southern District of New York," Sassoon wrote.
+
+
+The Justice Department did not ask Sassoon to resign, according to a department official who spoke on condition of anonymity.
+
+
+The department declined public comment on Sassoon's exit. A message seeking comment was left for Adams' attorney, Alex Spiro. A spokesperson for the mayor did not immediately respond to a request for comment.
+
+
+The government's decision to end the Adams case because of political considerations, rather than the strength or weakness of the evidence, alarmed some career prosecutors who said it was a departure from long-standing norms.
+
+
+The directive from Bove, a former Trump personal lawyer, was all the more remarkable because Bove had been a longtime prosecutor and supervisor in the Southern District and because department leaders are historically reluctant to intervene in cases where charges have been brought — particularly in an office as prestigious as that U.S. attorney's office.
+
+
+Bove's memo also steered clear of any legal basis for the dismissal despite decades of department tradition dictating that charging decisions are to be guided by facts, evidence and the law.
+
+
+Sassoon, a former clerk for the late U.S. Supreme Court Justice Antonin Scalia, was not the prosecutor who brought the case against Adams last year. That was then-U.S. Attorney Damian Williams, who stepped down after Trump's election victory in November.
+
+
+Sassoon had only been tapped to serve as acting U.S. attorney on January 21, the day after Trump took office.
+
+
+Her role was intended to be temporary. Trump in November nominated Jay Clayton, the former chairman of the U.S. Securities and Exchange Commission, to the post, an appointment that must be confirmed by the Senate. That has not happened yet.
+
+
+The Southern District of New York is among the largest and most prominent prosecutor's offices in the U.S., with a long track record of tackling Wall Street malfeasance, political corruption and international terrorism.
+
+
+It has a tradition of independence from Washington, something that has earned it the nickname "the sovereign district."
+
+
+During Trump's first term, the office prosecuted both the president's personal lawyer, Michael Cohen, and his strategic adviser, Steve Bannon, in separate cases. Cohen pleaded guilty to tax evasion and campaign finance charges. Trump ended the federal fraud case against Bannon by pardoning him, though nearly identical charges were then brought by state prosecutors.
+
+
+This is the second Justice Department tussle in five years between Washington and New York officials to result in a dramatic leadership turnover.
+
+
+In 2020, William Barr, who served as one of Trump's attorneys general during his first term pushed out Geoffrey Berman, the U.S. attorney in Manhattan, in a surprise nighttime announcement. Berman initially refused to resign his position, creating a brief standoff with Barr, but did so after an assurance that his investigations into allies of Trump would not be disturbed.
+
+
+Sassoon joined the U.S. attorney's office in 2016. In 2023 she helped lead the fraud prosecution of Sam Bankman-Fried, founder of the cryptocurrency exchange FTX. More recently, she had served as the office's co-chief of criminal appeals.
+
+
+Adams was indicted in September on charges that while he worked as Brooklyn borough president, he accepted over $100,000 in illegal campaign contributions and lavish travel perks such as expensive flight upgrades, luxury hotel stays and even a trip to a bathhouse.
+
+
+The indictment said a Turkish official who helped facilitate the trips then leaned on Adams for favors, including asking him to lobby the Fire Department to let a newly constructed, 36-story diplomatic building open in time for a planned visit by Turkey's president.
+
+
+Prosecutors said they had proof that Adams personally directed political aides to solicit foreign donations and disguise them to help the campaign qualify for a city program that provides a generous, publicly funded match for small dollar donations. Under federal law, foreign nationals are banned from contributing to U.S. election campaigns.
+
+
+As recently as Jan. 6, prosecutors had indicated their investigation remained active, writing in court papers that they continued to "uncover additional criminal conduct by Adams."
+
+
+Bove said in his memo that Justice Department officials in Washington hadn't evaluated the evidence in the case before deciding it should be dropped — at least until after the mayoral election in November.
+
+
+Federal agents also had been investigating other senior Adams aides. It was unclear what would happen to that side of the probe. 
+
+<br> 
+
+<https://www.voanews.com/a/prosecutors-quit-after-being-ordered-to-end-case-against-new-york-mayor/7974287.html>
+
+---
+
+## Transportation and warehousing prices both rose in January
+
+date: 2025-02-13, from: Market Place
+
+Logistics prices typically rise in January. But this year, other factors could be pushing transportation and warehousing costs up as well, including concerns about tariffs. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/13/transportation-and-warehousing-prices-both-rose-in-january-ppi-inflation-producers/>
+
+---
+
+## China says its unemployment rate is “stable,” but job seekers remain gloomy
+
+date: 2025-02-13, from: Market Place
+
+China's job hunters say there are fewer decent jobs and more applicants, whether they're seeking manual work or office positions. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/13/china-says-its-unemployment-rate-is-stable-but-job-seekers-remain-gloomy/>
+
+---
+
+## Trump wants denuclearization talks with Russia and China, hopes for defense spending cuts
+
+date: 2025-02-13, from: VOA News USA
+
+WASHINGTON  — President Donald Trump said Thursday that he wants to restart nuclear arms control talks with Russia and China and that eventually he hopes all three countries could agree to cut their massive defense budgets in half.
+
+
+Speaking to reporters in the Oval Office, Trump lamented the hundreds of billions of dollars being invested in rebuilding the nation's nuclear deterrent and said he hopes to gain commitments from the U.S. adversaries to cut their own spending.
+
+
+“There’s no reason for us to be building brand-new nuclear weapons. We already have so many,” Trump said. “You could destroy the world 50 times over, 100 times over. And here we are building new nuclear weapons, and they’re building nuclear weapons.”
+
+
+“We’re all spending a lot of money that we could be spending on other things that are actually, hopefully, much more productive," Trump said.
+
+
+While the U.S. and Russia have held massive stockpiles of weapons since the Cold War, Trump predicted that China would catch up in its capability to exact nuclear devastation “within five or six years.”
+
+
+He said if the weapons were ever called to use, “that’s going to be probably oblivion.” 
+
+
+Trump said he would look to engage in nuclear talks with the two countries once “we straighten it all out" in the Middle East and Ukraine.
+
+
+“One of the first meetings I want to have is with President Xi [Jinping] of China, President [Vladimir] Putin of Russia. And I want to say, ‘Let’s cut our military budget in half.’ And we can do that. And I think we’ll be able to.”
+
+
+Trump in his first term tried and failed to bring China into nuclear arms reduction talks when the U.S. and Russia were negotiating an extension of a pact known as New START. Russia suspended its participation in the treaty during the Biden administration, as the U.S. and Russia continued on massive programs to extend the lifespans or replace their Cold War-era nuclear arsenals. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-wants-denuclearization-talks-with-russia-china-hopes-for-defense-spending-cuts/7974285.html>
+
+---
+
+## VOA Spanish: Migrants on Mexico-US border to return to their countries
+
+date: 2025-02-13, from: VOA News USA
+
+Some of the migrants stranded on Mexico's northern border have decided to return to their countries, given the border restrictions adopted by U.S. President Donald Trump.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-migrants-on-mexico-us-border-to-return-to-their-countries/7974277.html>
+
+---
+
+## VOA Creole: Congressman asks Trump to renew TPS for Haitians
+
+date: 2025-02-13, from: VOA News USA
+
+Republican Congressman Mike Lawler of New York told VOA in an exclusive interview that he will ask President Donald Trump to renew Temporary Protected Status for Haitians. TPS will expire for current holders in February 2026. Lawler told VOA that gang violence, drug and arms trafficking, and overall lack of security make it untenable to deport the Haitians.
+
+
+Click here for the full story in Creole. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-creole-congressman-asks-trump-to-renew-tps-for-haitians/7974259.html>
+
+---
+
+## VOA Russian: Expert says Trump needs ‘carrot and stick’ with Putin
+
+date: 2025-02-13, from: VOA News USA
+
+As U.S. President Donald Trump announced talks to end Russia’s war with Ukraine, Eurasia Group President Ian Bremmer in an exclusive interview with VOA Russian describes how Trump will need to use a carrot and a stick to persuade Vladimir Putin to agree to a ceasefire. Bremmer believes that although Trump has far more leverage over Ukraine's Volodymyr Zelenskyy than over Putin, the U.S. president can successfully achieve the end of the war by using hard-line approach and negotiating tactics.
+
+
+Click here for the full story in Russian. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-russian-expert-says-trump-needs-carrot-and-stick-with-putin/7974250.html>
+
+---
+
+## Building new housing on federally owned land could shrink the national shortage
+
+date: 2025-02-13, from: Market Place
+
+"This is one area where there does appear to be convergence between Democrats and Republicans," said UChicago professor Mike Albertus. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/13/building-new-housing-on-federally-owned-land-could-shrink-the-national-shortage/>
+
+---
+
+## Despite high interest rates, home sellers are coming off the sidelines
+
+date: 2025-02-13, from: Market Place
+
+Some are even cutting prices, reflecting motivation to lock in years of gains. Sellers' rising median age might be a factor.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/13/despite-high-interest-rates-home-sellers-are-coming-off-the-sidelines/>
+
+---
+
+##  Tim Scott Is “Proud” To Protect His Donors’ Junk Fees 
+
+date: 2025-02-13, from: The Lever News
+
+ Sen. Tim Scott took millions from banks and said exorbitant customer fees “should not be disturbing or illegal.” Now he’s overseeing financial agencies and trying to reinstate junk fees.  
+
+<br> 
+
+<https://www.levernews.com/tim-scott-is-proud-to-protect-his-donors-junk-fees/>
+
+---
+
+## Jen Rubin and Kelsi Brown Corkran on ICE raids in churches
+
+date: 2025-02-13, from: The Contrarian
+
+Jen Rubin and Kelsi Brown Corkran discuss the religious freedom lawsuit challenging ICE enforcement actions in churches. The lawsuit was brought against the Department of Homeland Security by the Institute for Constitutional Advocacy and Protection (ICAP) at Georgetown Law, which Kelsi is the Supreme Court Director of. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157095518/280e919950b056461ead850b6ace4518.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157095518/280e919950b056461ead850b6ace4518.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-kelsi-brown-corkran>
+
+---
+
+## Pentagon chief calls on NATO partners to increase role in Europe’s defense
+
+date: 2025-02-13, from: VOA News USA
+
+PENTAGON — U.S. Secretary of Defense Pete Hegseth has called for NATO’s European members to increase their role in the defense of Europe as the United States focuses on defending the alliance’s Pacific flank.
+
+
+It is a move that he says will likely require European allies to significantly increase defense spending from 2% of GDP to about 5% of GDP.
+
+
+"We can talk all we want about values. Values are important, but you can't shoot values, you can't shoot flags, and you can't shoot strong speeches. There is no replacement for hard power," Hegseth told reporters on Thursday at NATO headquarters in Brussels.
+
+
+Last year, NATO’s European allies collectively spent 2% of their GDP, amounting to about $380 billion, for the first time after setting a 2% defense spending goal in 2014. The U.S. currently spends about 3.5% of its GDP on defense. Canada, the other non-European NATO ally, currently spends about 1.4% of its GDP on defense.
+
+
+
+
+“NATO is a great alliance, the most successful defense alliance in history, but to endure for the future, our partners must do far more for Europe's defense,” Hegseth said. He emphasized that deterrence of Chinese aggression “in the Pacific is one that really can only be led by the United States.”
+
+
+He said the U.S. does not seek conflict with China, nor does it feel that conflict with China is inevitable, but he contended the administration must work with allies to ensure deterrence in the Indo-Pacific is "hard power deterrence, not just reputational.”
+
+
+Russia-Ukraine war
+
+
+On Wednesday, Hegseth said keeping Ukraine’s pre-invasion boundaries is an “unrealistic objective” in its war against Russian aggression, as was the expectation that Ukraine would join NATO. He advocated for a negotiated end to the war with security guarantees backed by European and non-European troops that would not include U.S. forces.
+
+
+
+
+German Defense Minister Boris Pistorius said Ukraine’s potential membership in NATO and whether it should concede any territory should not be decided before peace talks start, referring to Hegseth’s comments as “concessions” made by the United States.
+
+
+"Vladimir Putin responds to strength,” Hegseth said on Thursday when asked whether the U.S. was decreasing Ukraine’s leverage.
+
+
+“No one's going to get everything that they want, understanding who committed the aggression in the first place," he added, referring to Putin.
+
+
+NATO Secretary General Mark Rutte reiterated his support for higher defense spending and appeared to defend Hegseth’s comments on Ukraine not joining the alliance. Rutte said on Thursday that while NATO must “make sure that Vladimir Putin never ever tries again to attack Ukraine,” he said, “it has never been a promise to Ukraine that as part of a peace deal, they would be part of NATO.”
+
+
+The European Union’s top diplomat warned that any peace deal struck between the United States and Russia — without Ukraine or the EU — will fail.
+
+
+“Trump says that the killing should stop. Putin can stop the killing by stopping bombing Ukraine. This is doable if there is a will,” said Kaja Kallas, the EU high representative for foreign affairs and security policy. She added that any agreement without Ukraine at the table amounts to appeasement.
+
+
+Kallas’ comments reflected those of many NATO allies at Thursday’s meeting following U.S. President Donald Trump’s call with Putin and Trump's signaling that talks on Ukraine between the two were imminent.
+
+
+After Thursday’s NATO ministerial gathering, Hegseth travels to Poland for what the Pentagon said will be talks with leaders about “bilateral defense cooperation, continued deterrence efforts along NATO's eastern flank and Poland's leadership as a model ally in defense investment and burden-sharing in NATO.”
+
+
+Some information for this report was provided by The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/pentagon-chief-calls-on-nato-partners-to-increase-role-in-europe-s-defense/7974207.html>
+
+---
+
+## Walking away from the Human Rights Council leaves a void that will be filled
+
+date: 2025-02-13, from: The Contrarian
+
+The United States again leaves the only multilateral venue dedicated to addressing human rights abuses, allowing bad actors to set the terms. 
+
+<br> 
+
+<https://contrarian.substack.com/p/walking-away-from-the-human-rights>
+
+---
+
+## Number of accused 'high-threat' migrants at Guantanamo Bay rising
+
+date: 2025-02-13, from: VOA News USA
+
+WASHINGTON — The U.S. military is now housing about 68 detainees at its prison at Guantanamo Bay, Cuba, as part of an effort to assist the Department of Homeland Security with mass deportations. 
+
+
+The commander of U.S. Southern Command, which oversees the U.S. naval base at Guantanamo Bay, shared the updated figure with lawmakers Wednesday, but said he could not yet provide details on how much it will cost to house the growing number of individuals. 
+
+
+Admiral Alvin Holsey said those efforts include both the detention of individuals described by DHS officials as “high-threat criminal aliens” and eventually holding up to 30,000 non-violent migrants slated for deportation. 
+
+
+
+
+“We're doing a phased approach,” Holsey told members of the Senate Armed Services Committee, adding that the base has the capacity now to hold about 2,500 non-violent migrants. 
+
+
+“We’re working with DHS to understand the flow of migrants,” he said. “We’re not going to go to 30,000 unless we know that migrant flow will come. So, we're waiting at this point.” 
+
+
+U.S. Transportation Command told VOA on Monday that there have been at least five flights of migrants to Guantanamo Bay, each aboard a C-17 or C-130 military cargo plane. 
+
+
+Most of the flights, according to multiple officials, have carried between 10 and 15 detainees. 
+
+
+
+
+Homeland Security Secretary Kristi Noem, who visited the prison facility last Friday and oversaw the transfer of the third flight of detainees to the detention center, has repeatedly described the men as “murderers and vicious gang members” from Venezuela and as “the worst of the worst.” 
+
+
+In one social media post, Noem said that at least one of the migrants sent to Guantanamo Bay had confessed to murder, while others were wanted for attempted murder, assault, weapons trafficking and impersonation. 
+
+
+One official, speaking to VOA on the condition of anonymity to discuss the deportation efforts, said that all of the individuals held at Guantanamo Bay have been issued final deportation orders. But DHS has not yet provided charging documents or other details regarding the crimes the detainees are accused of committing.  
+
+
+
+
+On Wednesday, the American Civil Liberties Union, along with several immigration rights groups, filed a lawsuit against DHS, alleging the detainees being held at the Guantanamo Bay prison facility have been improperly denied access to lawyers. 
+
+
+“By hurrying immigrants off to a remote island cut off from lawyers, family, and the rest of the world, the Trump administration is sending its clearest signal yet that the rule of law means nothing to it," according to a statement from ACLU lead attorney Lee Gelernt. 
+
+
+"It will now be up to the courts to reaffirm that the rule of law governs our nation,” he added. 
+
+
+According to the ACLU and the other groups, one of the plaintiffs in the lawsuit, Eucaris Carolina Gomez Lugo, learned her brother had been sent to Guantanamo Bay only after seeing him in a photo. 
+
+
+The group also said she was shocked to learn that the government was alleging he was a member of the Tren de Aragua Venezuelan street gang. 
+
+
+DHS dismissed the lawsuit’s allegations. 
+
+
+“There is a system for phone utilization to reach lawyers,” said a senior Homeland Security official in a written statement shared with VOA. 
+
+
+"If the AMERICAN Civil Liberties Union cares more about highly dangerous criminal aliens including murderers & vicious gang members than they do about American citizens—they should change their name," the official added, responding to the lawsuit only on the condition of anonymity. 
+
+<br> 
+
+<https://www.voanews.com/a/number-of-accused-high-threat-migrants-at-guantanamo-bay-rising/7974147.html>
+
+---
+
+## Global AI race is on, world leaders say at Paris summit
+
+date: 2025-02-13, from: VOA News USA
+
+At this week’s Artificial Intelligence Action Summit in Paris, world leaders and technologists gathered to discuss the rapidly evolving field of generative artificial intelligence. Many are eager to join the global AI race, while others are proceeding with caution. Tina Trinh reports. 
+
+<br> 
+
+<https://www.voanews.com/a/global-ai-race-is-on-world-leaders-say-at-paris-summit/7974111.html>
+
+---
+
+## How new scanners at US-Mexico border detect fentanyl
+
+date: 2025-02-13, from: VOA News USA
+
+The Trump administration is seeking Mexico’s assistance in stemming the flow of fentanyl across the border into the U.S. Last year, high-tech scanners were installed at a port of entry in Arizona to detect the illegal drug. VOA Senior Washington Correspondent Carolyn Presutti reports from that port. 
+
+<br> 
+
+<https://www.voanews.com/a/how-new-scanners-at-us-mexico-border-detect-fentanyl/7974092.html>
+
+---
+
+## Jen Rubin and Congressman Eric Swalwell discuss USAID and Foreign Policy
+
+date: 2025-02-13, from: The Contrarian
+
+Jen Rubin and Congressman Eric Swalwell discuss Trump and Musk&#8217;s impact on the United States&#8217; standing on the global stage. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157034268/6e95aa67f4266d50c675dd737e7379b3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157034268/6e95aa67f4266d50c675dd737e7379b3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-congressman-eric-swalwell>
+
+---
+
+##  Elon Doesn’t Want You To Know His DEI Past 
+
+date: 2025-02-13, from: The Lever News
+
+ Tesla recently said diversity, equity, and inclusion were integrated “into the DNA of our company.” Then Musk flipped after legal actions.  
+
+<br> 
+
+<https://www.levernews.com/elon-doesnt-want-you-to-know-his-dei-past/>
+
+---
+
+## Los Angeles Developer Agrees to Meet With Tenants Facing Displacement
+
+date: 2025-02-13, from: Capital and Main
+
+<p>Mayor Karen Bass expedited the project to help combat the city’s housing crisis. But these renters are fighting to stay in their homes.</p>
+<p>The post <a href="https://capitalandmain.com/los-angeles-developer-agrees-to-meet-with-tenants-facing-displacement">Los Angeles Developer Agrees to Meet With Tenants Facing Displacement</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/los-angeles-developer-agrees-to-meet-with-tenants-facing-displacement>
+
+---
+
+## Musk and son
+
+date: 2025-02-13, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/musk-and-son>
+
+---
+
+## Jen and Norm’s Morning Live
+
+date: 2025-02-13, from: The Contrarian
+
+A recording from Norm and Jen's Morning livestream 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157064806/3c89f1eab0a08f0579b7906f43809e0c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157064806/3c89f1eab0a08f0579b7906f43809e0c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-and-norms-morning-live>
+
+---
+
+## US aircraft carrier collides with merchant ship near Egypt
+
+date: 2025-02-13, from: VOA News USA
+
+WASHINGTON — The aircraft carrier USS Harry S. Truman was involved in a collision at sea with a merchant vessel near Port Said, Egypt, the Navy said Thursday.
+
+
+The collision occurred late Wednesday while both ships were moving. It did not result in flooding or injuries aboard the carrier, and there was no damage to the ship's propulsion systems, the Navy said in a statement.
+
+
+None of the crew on the merchant ship, the Besiktas-M, were injured either, according to a defense official who spoke on the condition of anonymity to provide details that had not yet been made public.
+
+
+The Truman, which is based in Norfolk, Virginia, deployed in September to the Mediterranean and the Middle East. It had just completed a port call in Souda Bay, Greece. 
+
+<br> 
+
+<https://www.voanews.com/a/us-aircraft-carrier-collides-with-merchant-ship-near-egypt/7973912.html>
+
+---
+
+## Zelenskyy rejects bilateral US-Russia pact to end Moscow's war against Ukraine
+
+date: 2025-02-13, from: VOA News USA
+
+Ukrainian President Volodymyr Zelenskyy said Thursday that his country would not accept any agreement on its fate decided bilaterally by Russia and the United States on how to end Moscow’s three-year war on Ukraine without Kyiv’s involvement.
+
+
+"We, as an independent country, simply will not be able to accept any agreements without us," Zelenskyy told reporters as he visited a nuclear plant on his way to the Munich Security Conference, where he plans to meet Friday with U.S. Vice President JD Vance and Secretary of State Marco Rubio.
+
+
+U.S. President Donald Trump spoke Wednesday with Russian President Vladimir Putin, and they agreed that negotiations to end the war should start immediately, with Trump suggesting the two of them might soon hold a summit in Saudi Arabia. Trump later talked with Zelenskyy and informed him of his discussions with Putin.
+
+
+
+
+On Thursday, Zelenskyy said, "Today it's important that everything does not go according to Putin's plan, in which he wants to do everything to make his negotiations bilateral” with the U.S.
+
+
+Still, on Wednesday, Zelenskyy said after talking with Trump, “We discussed many nuances, diplomatic, military, economic, and President Trump informed me of what Putin told him. We believe that America’s power is enough to, together with us, together with all partners, pressure Russia and Putin toward peace."
+
+
+
+
+Zelenskyy said he talked with Polish Prime Minister Donald Tusk on Thursday, telling him that “no negotiations with Putin can begin without a united position from Ukraine, Europe, and the U.S. I emphasized that Ukraine must negotiate from a position of strength, with strong and reliable security guarantees, and that NATO membership would be the most cost-effective for partners.”
+
+
+“Another key guarantee is serious investment in Ukraine’s defense industry. I also warned world leaders against trusting Putin’s claims of readiness to end the war,” Zelenskyy said.
+
+
+Trump said, in all caps on his Truth Social media platform on Thursday, “Great talks with Russia and Ukraine yesterday. Good possibility of ending that horrible, very bloody war!!!”
+
+
+Trump’s phone call with Putin came after U.S. Defense Secretary Pete Hegseth told other NATO defense chiefs that Ukraine’s goal of restoring its 2014 borders was unrealistic and that the U.S. does not foresee Ukraine joining NATO, the West’s key military alliance, as part of a negotiated settlement of Russia’s war on Ukraine.
+
+
+
+
+Moscow’s forces now hold about 20% of Ukrainian territory, including the Crimean Peninsula it unilaterally annexed in 2014.
+
+
+Zelenskyy said it was important for the United States and Ukraine to draw up a plan to end the war before talking to the Russian side. Ukraine has said it is working on a Zelenskyy-Trump meeting, but nothing firm has been announced.
+
+
+Zelenskyy said he did not discuss the possibility of NATO membership during his phone call with Trump, although he said he knew that the United States was against the idea. NATO’s 32-nation bloc says it is committed to eventual Ukraine NATO membership but not while the Russia-Ukraine war rages.
+
+
+Russian officials and state-backed media appeared triumphant after Wednesday’s call between Trump and Putin that lasted more than an hour.
+
+
+“To us, the position of the current [U.S.] administration is much more appealing,” Kremlin spokesman Dmitry Peskov said Thursday.
+
+
+Dmitry Medvedev, the deputy chair of Russia’s National Security Council, said in an online statement, “The presidents of Russia and the U.S. have talked at last. This is very important in and of itself.”
+
+
+Trump in the past has declined to say he wants Ukraine to win the war against Russia. On Wednesday, after talking with Putin and Zelenskyy, he said, “I’m backing Ukraine, but I do want security for our money,” with U.S. officials suggesting recently that Ukraine agree to supply the U.S. with rare earth minerals for manufacture of technology products in exchange for continued military support. 
+
+<br> 
+
+<https://www.voanews.com/a/zelenskyy-rejects-bilateral-us-russia-pact-to-end-moscow-s-war-against-ukraine-/7973916.html>
+
+---
+
+##  Trump’s Purge vs. Roberts’ Memo 
+
+date: 2025-02-13, from: The Lever News
+
+ A document written by the chief justice may complicate the DOJ’s new push to get the high court to bless the president’s firings.  
+
+<br> 
+
+<https://www.levernews.com/trumps-purge-vs-roberts-memo/>
+
+---
+
+## The Data Center Surge Is Slowing the Phaseout of Fossil Fuels
+
+date: 2025-02-13, from: Capital and Main
+
+<p>Amid health concerns, residents in a Virginia community push back on proposed gas plant.</p>
+<p>The post <a href="https://capitalandmain.com/the-data-center-surge-is-slowing-the-phaseout-of-fossil-fuels">The Data Center Surge Is Slowing the Phaseout of Fossil Fuels</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-data-center-surge-is-slowing-the-phaseout-of-fossil-fuels>
+
+---
+
+## What does Trump’s planned rollback of efficiency standards mean for consumers?
+
+date: 2025-02-13, from: Market Place
+
+The Trump administration and Republican-majority Congress are making reducing the number of federal rules and regulations a priority.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/13/trump-rollback-energy-effiency-standards-appliances-light-bulbs/>
+
+---
+
+## Chris Hayes With His #1 Bestselling Book, “The Sirens’ Call”
+
+date: 2025-02-13, from: The Contrarian
+
+In a special edition of Talking Feds Substack with Harry Litman, Harry sits down with Chris Hayes before a live San Diego audience on the evening when Hayes&#8217;s new book, &#8220;The Sirens&#8217; Call,&#8221; was named to the top position on the New York Times&#8217;s Bestseller List. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157070586/e9715e5feb8dc82dd1a97d3dc7bc88e3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157070586/e9715e5feb8dc82dd1a97d3dc7bc88e3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/chris-hayes-with-his-1-bestselling>
 
 ---
 
@@ -30,6 +1194,18 @@ The problem is that investors can make more money right now building other kinds
 <br> 
 
 <https://www.marketplace.org/2025/02/13/retail-vacancy-rates-developers/>
+
+---
+
+## Morning Roundup: Hypocrisy and Suspect 180s
+
+date: 2025-02-13, from: The Contrarian
+
+February 13: Featuring Jen Rubin, Mimi Rocah, Jennifer Rodgers and more... 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-hypocrisy-and-suspect>
 
 ---
 

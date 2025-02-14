@@ -1,11 +1,142 @@
 ---
 title: writing
-updated: 2025-02-13 07:09:10
+updated: 2025-02-14 07:09:07
 ---
 
 # writing
 
-(date: 2025-02-13 07:09:10)
+(date: 2025-02-14 07:09:07)
+
+---
+
+## New Book YouTube Video Is Up!
+
+date: 2025-02-13, from: Locus Magazine
+
+<p>It&#8217;s February 11th and we&#8217;ve got an excellent new video for all of you! Subscribe to the YouTube channel so we can keep you up-to-date on all the top new SF, Fantasy, Horror, and YA releases of the week! We hope you&#8217;ll continue to support what we do and come back next week for another video!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2025/02/new-book-youtube-video-is-up/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/new-book-youtube-video-is-up/>
+
+---
+
+## Thomson Reuters v. Ross: The First AI Fair Use Ruling Fails to Persuade
+
+date: 2025-02-13, from: Author's Union blog
+
+Facts of the Case On February 11, Third Circuit Judge Stephanos Bibas (sitting by designation for the U.S.&#160; District Court of Delaware) issued a new summary judgment ruling in Thomson Reuters v. ROSS Intelligence. He overruled his previous decision from 2023 which held that a jury must decide the fair use question. The decision was [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/02/13/thomson-reuters-v-ross-the-first-ai-fair-use-ruling-fails-to-persuade/>
+
+---
+
+## Witchcraft for Wayward Girls by Grady Hendrix: Review by Ian Mond
+
+date: 2025-02-13, from: Locus Magazine
+
+<p><strong>Witchcraft for Wayward Girls</strong>, Grady Hendrix (Berkley 978-0-59354-898-1, $30.00, 496pp, hc) January 2025.</p>
+<p>What better way to start the year than reading a novel by my favourite horror author, Grady Hendrix. If you’ve been following Hendrix’s work, you’ll know he’s been putting his unique spin on the tropes of horror fiction. He’s tackled exorcisms (<strong>My Best Friend’s Exorcism</strong>), demonic rock ’n’ roll (<strong>We Sold Our Souls</strong> <a href="https://locusmag.com/2025/02/witchcraft-for-wayward-girls-by-grady-hendrix-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/witchcraft-for-wayward-girls-by-grady-hendrix-review-by-ian-mond/>
+
+---
+
+## Society of Authors Translation Prize Winners
+
+date: 2025-02-13, from: Locus Magazine
+
+<p>The British organization Society of Authors has announced the winners and runners-up for its 2024 Translation Prizes. The Prizes, &#8220;celebrating translation around the globe,&#8221; honor works translated into English across several categories.</p>
+<p>A total of eight winning works and several runners-up were recognized, with titles and authors of genre interest including:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Kibogo</strong>, Scholastique Mukasonga, trans. by Mark Polizzotti (Daunt/Archipelago) — runner up, Scott Moncrieff Prize for translation from French</li></ul></div> <a href="https://locusmag.com/2025/02/society-of-authors-translation-prize-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/society-of-authors-translation-prize-winners/>
+
+---
+
+## Holiday Slashers: How ‘Heart Eyes’ Scares Up a Killer Concept
+
+date: 2025-02-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-heart-eyes-scares-up-a-killer-concept" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20a%20person%20wearing%20a%20mask%20with%20glowing%20hearts%20as%20the%20eyes%20in%20Heart%20Eyes.png" alt="Image of a person wearing a mask with glowing hearts as the eyes in 'Heart Eyes'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p><span style="font-weight: bold;">Roses are red / Violets are blue / Heart Eyes is the new holiday slasher / At a theater near you</span></p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-heart-eyes-scares-up-a-killer-concept>
+
+---
+
+## Write On: Comedy Writing with Brent Forrester
+
+date: 2025-02-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-comedy-writing-with-brent-forrester" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Emmy-Winning%20Writer%20Brent%20Forrester.png" alt="Write On Logo of a cell phone featuring a poster of 'The Office' with headphones around it. Green amplitude shown in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“My recommendation to anybody who is writing animation is to take advantage of the things you can do in animation that you can’t do in live action, which is to spend an infinite amount of money, right? If you and I are going to write a scene and you say, ‘Oh, let’s set it on a battleship, but then space aliens come and suddenly we’re transported to Jupiter,’ it better be animation because if it’s not, we’re never going to be able to shoot that. But if it is animation, that’s exactly what we should be doing all the time. You want to create the most expensive set in the world because it costs nothing to draw that battleship and send us to Jupiter. And that’s really the glory of an animated show,” says Brent Forrester, about what he learned writing for <em>The Simpsons</em> for three seasons.&nbsp;<br><br>On today’s episode, we chat with Emmy-winning writer Brent Forrester about his prolific comedy writing career that includes shows like <em>The Office, King of the Hill</em> and <em>Space Force</em>. He shares why the writing room for <em>The Simpsons</em> was so intimidating and his surprise when <em>The Office</em> showrunners had to teach him the specific tone and structure for the show after he turned in his first episode and just wasn’t getting it.&nbsp;<br><br>“I had gotten the tone wrong – it was largely my attempt to make it wall to wall funny. I wasn’t getting that you really had to make it serious. There were other aspects, too, that I had to pick up. One of them is the use of what are called ‘talking heads.’ It’s when the character speaks directly to camera. It comes from reality TV where they pull the subject of a reality show aside and ask them a question and they just speak directly to camera. So we stole that device and it’s<br>a great crutch for writers because one of the hardest things for us is getting the exposition across,” says Forrester.&nbsp;<br><br>He also shares his advice for writing a great TV pilot that will hook the reader and offers a simple formula for writing jokes by mixing the sacred with the profane.&nbsp;<br><br>To hear more, listen to the podcast.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-comedy-writing-with-brent-forrester>
+
+---
+
+## Year-in-Review: 2024 Magazine Summary
+
+date: 2025-02-13, from: Locus Magazine
+
+<p></p>
+<p>Oh, we love our magazines! It was a great year for some, but the final year for others. Venues changed frequency (usually down), others moved away from print, some added other forums and opportunities for readers. Overall, we saw fewer new venues than in previous years. Revenue is still coming from Kickstarter, Patreon, and other crowdfunding for a lot of the mags, who are still largely putting fiction up for  <a href="https://locusmag.com/2025/02/year-in-review-2024-magazine-summary/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/year-in-review-2024-magazine-summary/>
+
+---
+
+## 2025 Compton Crook Award Finalists
+
+date: 2025-02-13, from: Locus Magazine
+
+<p>The Baltimore Science Fiction Society (BSFS) has announced the finalists for the 2025 Compton Crook Award:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Stars Too Fondly</strong>, Emily Hamilton (Harper Voyager)</li>
+<li><strong>Sun of Blood and Ruin</strong>, Mariely Lares (Harper Voyager)</li>
+<li><strong>The Book of Love</strong>, Kelly Link (Random House)</li>
+<li><strong>The Wings Upon Her Back</strong>, Samantha Mills (Tachyon)</li>
+<li><strong>Someone You Can Build a Nest In</strong>, John Wiswell (DAW)</li>
+<li style="list-style-type: none;"></li>
+</ul>
+</div>
+<p>The award honors the best debut  <a href="https://locusmag.com/2025/02/2025-compton-crook-award-finalists/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-compton-crook-award-finalists/>
 
 ---
 

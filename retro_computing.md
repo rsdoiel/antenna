@@ -1,11 +1,73 @@
 ---
 title: retro computing
-updated: 2025-02-13 07:09:12
+updated: 2025-02-14 07:09:10
 ---
 
 # retro computing
 
-(date: 2025-02-13 07:09:12)
+(date: 2025-02-14 07:09:10)
+
+---
+
+## Rougol February 2025 meeting on monday - Rob Sprowson
+
+date: 2025-02-14, from: Icon Bar, RISC OS News
+
+The February 2025 Rougol meeting is on Monday 17th February and features Rob Sprowson. He will be showing various BBC coprocessors including the his ARM7TDMI copro. The action kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2167.html>
+
+---
+
+## WROCC Newsletter Volume 42:11 reviewed
+
+date: 2025-02-14, from: Icon Bar, RISC OS News
+
+WROCC magazine is now fully up to date and the February edition (42:11) popped into my mailbox last week. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2169.html>
+
+---
+
+## b.log 2025/02/13 - It's all doom and gloom, It's not all doom and gloom.
+
+date: 2025-02-13, from: Richard Murray's blog
+
+It's all doom and gloom, It's not all doom and gloom. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250213>
+
+---
+
+## Plasma 6.3 Now Available
+
+date: 2025-02-13, from: Linux Magazine
+
+<p>Plasma desktop v6.3 has a couple of pretty nifty tricks up its sleeve.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Plasma-6.3-Now-Available>
+
+---
+
+## Computers and Games Love Story
+
+date: 2025-02-13, from: Computer History: Stores
+
+<p>Computers and computer games grew up together and have been inseparable now for over 40 years. It’s been a match made in heaven for the billions of people worldwide that enjoy playing games on computers. Explore highlights of some of our favorite computer game artifacts from the collection.</p>
+<p>The post <a href="https://computerhistory.org/stories/computers-and-games-love-story/">Computers and Games Love Story</a> appeared first on <a href="https://computerhistory.org">CHM</a>.</p>
+ 
+
+<br> 
+
+<https://computerhistory.org/stories/computers-and-games-love-story/>
 
 ---
 

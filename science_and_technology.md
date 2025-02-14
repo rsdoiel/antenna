@@ -1,17 +1,377 @@
 ---
 title: science and technology
-updated: 2025-02-13 07:09:09
+updated: 2025-02-14 07:09:06
 ---
 
 # science and technology
 
-(date: 2025-02-13 07:09:09)
+(date: 2025-02-14 07:09:06)
+
+---
+
+## The Largest Sofa You Can Move Around a Corner
+
+date: 2025-02-14, from: Quanta Magazine
+
+A new proof reveals the answer to the decades-old “moving sofa” problem. It highlights how even the simplest optimization problems can have counterintuitive answers.            <p>The post <a href="https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/" target="_blank">The Largest Sofa You Can Move Around a Corner</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-largest-sofa-you-can-move-around-a-corner-20250214/>
+
+---
+
+## Critical PostgreSQL bug tied to zero-day attack on US Treasury
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>High-complexity bug unearthed by infoseccers, as Rapid7 probes exploit further</h4> <p>A high-severity SQL injection bug in the PostgreSQL interactive tool was exploited alongside the zero-day used to break into the US Treasury in December, researchers say.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/postgresql_bug_treasury/>
+
+---
+
+## International Space Station's out-of-this-world selfie booth turns 15
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>The Cupola continues to offer the best views in the universe</h4> <p>It has been 15 years since the ultimate selfie booth, the Cupola, was attached to the International Space Station (ISS).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/15_years_iss_cupola/>
+
+---
+
+## AWS vacates its board seat at European cloud crew CISPE
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>... weeks after US titan was outvoted by other members to let Microsoft join the Euro cloud trade association</h4> <p>Amazon&#39;s Web Services wing has exited the board of CISPE (cloud infrastructure service providers in Europe), following a recent update to the Articles of Association that means only corporations based in the region can serve.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/aws_vacates_board_seat_at_cispe/>
+
+---
+
+## 2 charged over alleged New IRA terrorism activity linked to cops' spilled data
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Officer says mistakenly published police details were shared &#39;a considerable amount of times&#39;</h4> <p>Two suspected New IRA members were arrested on Tuesday and charged under the Terrorism Act 2000 after they were found in possession of spreadsheets containing details of staff that the Police Service of Northern Ireland (PSNI) mistakenly published online.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/two_charged_psni_data/>
+
+---
+
+## Hubble Captures a Cosmic Cloudscape
+
+date: 2025-02-14, from: NASA breaking news
+
+The universe is a dusty place, as this NASA/ESA Hubble Space Telescope image featuring swirling clouds of gas and dust near the Tarantula Nebula reveals. Located in the Large Magellanic Cloud about 160,000 light-years away in the constellations Dorado and Mensa, the Tarantula Nebula is the most productive star-forming region in the nearby universe, home […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-a-cosmic-cloudscape/>
+
+---
+
+## Voda-Three name post-merger top team, keep schtum on layoffs
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Union estimates up to 1,600 job on the line</h4> <p>Vodafone and Three have detailed the exec line-up taking the reins of post-merger UK biz, yet there is no word on when the deal will close, what name it will take, or how many staff face the chop to cut role duplication.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/vodathree_name_postmerger_top_team/>
+
+---
+
+## Watchdog ponders why Apple doesn't apply its strict app tracking rules to itself
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Germany&#39;s Federal Cartel Office voices concerns iPhone maker may be breaking competition law</h4> <p>Apple is feeling the heat over its acclaimed iPhone privacy policy after a German regulator&#39;s review of iOS tracking consent alleged that the tech giant exempted itself from the rules it enforces on third-party developers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/apple_app_tracking_probe/>
+
+---
+
+## Techie cleaned up criminally bad tech support that was probably also an actual crime
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Outsourcing is not supposed to involve taking clients&#39; hardware out of their building to your house</h4> <p><strong>On Call</strong>  If it&#39;s Friday, it&#39;s time for another edition of On Call, our reader-contributed column in which you tell tales of crimes against tech support.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/on_call/>
+
+---
+
+## Sols 4452-4453: Keeping Warm and Keeping Busy
+
+date: 2025-02-14, from: NASA breaking news
+
+Earth planning date: Wednesday, Feb. 12, 2025 I woke up this morning to my weather app telling me it felt like minus 15° C (5°F) outside. On days like this, it can take me a little longer to get myself up and out into the world. Curiosity has a similar problem — as we head […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4452-4453-keeping-warm-and-keeping-busy/>
+
+---
+
+## HPE says blocking Juniper buy is a sure Huawei to ensure China and Cisco thrive
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Analyst argues stopping the deal benefits Switchzilla by preventing rise of strong challenger for AI networks</h4> <p>HPE has fired back at the US Department of Justice’s objection to its takeover of Juniper Networks, with arguments that include an assertion that blocking the deal will benefit Huawei and therefore have national security implications.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/hpe_rebuts_doj_juniper/>
+
+---
+
+## Chinese AI marches on as Baidu makes its chatbot free, Alibaba scores Apple deal
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>New ‘Deep Search’ thinking and planning bot to go up against peoples’ champion DeepSeek</h4> <p>Chinese AI continued to march onto the world stage this week, with Alibaba and Baidu both taking major strides.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/chinese_ai_baidu_alibaba/>
+
+---
+
+## Lawyers face judge's wrath after AI cites made-up cases in fiery hoverboard lawsuit
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Talk about court red-handed</h4> <p>Demonstrating yet again that uncritically trusting the output of generative AI is dangerous, attorneys involved in a product liability lawsuit have apologized to the presiding judge for submitting documents that cite non-existent legal cases.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/attorneys_cite_cases_hallucinated_ai/>
+
+---
+
+## Chinese spies suspected of 'moonlighting' as tawdry ransomware crooks
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Some employees steal sticky notes, others &#39;borrow&#39; malicious code</h4> <p>A crew identified as a Chinese government-backed espionage group appears to have started moonlighting as a ransomware player – further evidence that lines are blurring between nation-state cyberspies and financially motivated cybercriminals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/chinese_spies_ransomware_moonlighting/>
+
+---
+
+## JotaleaOS: a very tiny hobby operating system
+
+date: 2025-02-14, from: OS News
+
+JotaleaOS is an open source, minimalistic, experimental operating system made by Jotalea, designed for extreme low-resource environments. It does not support external programs or games, as it lacks a standard application execution environment. The system is entirely self-contained, running only its built-in commands. ↫ JotaleaOS website Exactly what is says on the tin: a tiny operating system created entirely as a learning experience. That&#8217;s it. 
+
+<br> 
+
+<https://www.osnews.com/story/141725/jotaleaos-a-very-tiny-hobby-operating-system/>
+
+---
+
+## Fedora should not push its users to its own Flatpak repository
+
+date: 2025-02-13, from: OS News
+
+Unlike most (all?) other distributions with built-in Flatpak support, Fedora maintains its own repository of Flatpak applications. Everyone else defaults to using Flathub, where developers of applications themselves tend to publish their Flatpaks. Fedora&#8217;s &#8216;shadow Flathub&#8217; sometimes leads to problems, with Fedora-made Flatpaks containing bugs and brokenness, while presenting themselves as official, developer-made Flatpaks. In turn, users complain to the developers, while the issues they experience are actually caused by Fedora making its own Flatpaks. One of the applications this happened to is OBS, and over three weeks ago the OBS project requested that either the broken, unofficial Fedora Flatpak be removed, or that it be made clear that the Flatpak was third-party. This request seems entirely reasonable to me, and it would be fairly trivial for Fedora to do this. In fact, I think respecting this request is merely common decency. Sadly, the Fedora project thought differently, and just&#8230; Ignored the request. And so the OBS project escalated the issue. This is a formal request to remove all of our branding, including but not limited to, our name, our logo, any additional IP belonging to the OBS Project, from your distribution. Failure to comply may result in further legal action taken. We expect a response within the next 7 business days (By Friday, February 21st, 2025). ↫ Joel Bethke It seems this caught the attention of the Fedora project, as within less than 24 hours, a formal request was made by the maintainer of Fedora&#8217;s OBS RPM package to have the broken OBS Flatpak removed. It seems there&#8217;s no official process to follow for making such a request, but I hope it gets through and honoured, if only because, like I said above, it would be common decency to do so. I do wish to go back to the original OBS complaint, though, as it poses the question most of you are asking yourselves at this point. I would also like some sort of explanation on why someone thought it was a good idea to take a Flatpak that was working perfectly fine, break it, and publish it at a higher priority to our official builds. We spend an enormous amount of effort on our official Flatpak published to Flathub to ensure everything is working as well as it can be. ↫ Joel Bethke Why does Fedora maintain its own shadow-Flathub, set at a higher priority than the real Flathub? There&#8217;s a few reasons, as detailed in this Fedora Magazine article from 2022. There&#8217;s the obvious stuff like Fedora only allowing free and open source software, whereas Flathub also allows proprietary software, meaning that if Fedora ships with the Flathub repository enabled and prioritised, it would violate Fedora&#8217;s policies. You can argue back and forth about this, but Fedora&#8217;s policy being what it is, I can see where they&#8217;re coming from. The article mentions Flathub will split proprietary applications from free and open source ones, but I can&#8217;t find any word on if this has happened already. A second big difference are the sources where the Flatpaks are drawn from. While Flathub allows and all sources, with their packages reusing Debian packages, Ubuntu Snaps, tarballs, AppImages, and more, Fedora exclusively reuses its own RPM packages when creating its Flatpak packages. Furthermore, Fedora Flatpaks use the Docker-like OCI format to publish applications (which ties into the Fedora Registry), while Flathub uses OSTree. Lastly, Fedora Flatpaks use one, single, big underlying runtime, while Flathub has a number of different, smaller runtimes. The issue here seems to be that the motivations for maintaining a Flatpak repository differ greatly between Flathub and Fedora, but one has to wonder how much of that actually matters to users. Maintaining your own, separate Flatpak repository that effectively duplicates the work developers do when publishing to Flathub is not only wasteful, but also prone to cause bugs, issues, and outdated Flatpaks &#8211; which in turn causes strife with the original developers of the applications who have to deal with problems causes not by their own work, but by Fedora &#8211; problems that they can&#8217;t even fix. I don&#8217;t think this situation makes any sense to perpetuate, and it&#8217;s high time Fedora defaults to Flathub for Flatpak applications. It will reduce the workload on package maintainers, prevent needless packaging bugs, improve the experience for users, and make developers happier. It&#8217;s a no-brainer at this point. 
+
+<br> 
+
+<https://www.osnews.com/story/141723/fedora-should-not-push-its-users-to-its-own-flatpak-repository/>
+
+---
+
+## After clash over Rust in Linux, now Asahi lead quits distro, slams Linus' kernel leadership
+
+date: 2025-02-13, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>I fought the Torv and ... the Torv won</h4> <p>Hector Martin, project lead of Asahi Linux, resigned from that effort early Friday, Japan Standard Time, citing developer burnout, demanding users, and Linus Torvalds&#39;s handling of the integration of Rust code into the open source kernel.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/ashai_linux_head_quits/>
+
+---
+
+## NASA Tests Drones to Provide Micrometeorology, Aid in Fire Response
+
+date: 2025-02-13, from: NASA breaking news
+
+In Aug. 2024, a team of NASA researchers and partners gathered in Missoula, to test new drone-based technology for localized forecasting, or micrometeorology. Researchers attached wind sensors to a drone, NASA’s Alta X quadcopter, aiming to provide precise and sustainable meteorological data to help predict fire behavior. Wildfires are increasing in number and severity around [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-tests-drones-to-provide-micrometeorology-aid-in-fire-response/>
+
+---
+
+## The Next Full Moon is the Snow Moon
+
+date: 2025-02-13, from: NASA breaking news
+
+The next full moon will be Wednesday morning, Feb. 12, 2025, appearing opposite the Sun (in Earth longitude) at 8:53 a.m. EST. The Moon will appear full for about three days around this time, from Monday night into early Thursday evening. The bright star Regulus will appear near the full moon. The Maine Farmers’ Almanac […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-snow-moon/>
+
+---
+
+## How NASA’s Lunar Trailblazer Will Make a Looping Voyage to the Moon
+
+date: 2025-02-13, from: NASA breaking news
+
+Before arriving at the Moon, the small satellite mission will use the gravity of the Sun, Earth, and Moon over several months to gradually line up for capture into lunar orbit. NASA’s Lunar Trailblazer arrived in Florida recently in advance of its launch later this month and has been integrated with a SpaceX Falcon 9 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/how-nasas-lunar-trailblazer-will-make-a-looping-voyage-to-the-moon/>
+
+---
+
+## Reddit’s first public year shows growth, but Wall Street’s still not happy
+
+date: 2025-02-13, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>User numbers fall short, triggering investor sell-off</h4> <p>Reddit&#39;s first year as a public company delivered solid results by most earnings metrics, but try telling that to Wall Street: Falling short on one key growth target sent shares tumbling despite an otherwise upbeat year-end report.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/reddit_posts_earnings/>
+
+---
+
+## More victims of China's Salt Typhoon crew emerge: Telcos just now hit via Cisco bugs
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Networks in US and beyond compromised by Beijing&#39;s super-snoops pulling off priv-esc attacks</h4> <p>China&#39;s Salt Typhoon spy crew exploited vulnerabilities in Cisco devices to compromise at least seven devices linked to global telecom providers and other orgs, in addition to its previous victim count.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/salt_typhoon_pwned_7_more/>
+
+---
+
+## Giving NASA’s CADRE a Hand
+
+date: 2025-02-13, from: NASA breaking news
+
+One of three small lunar rovers — part of a NASA technology demonstration called CADRE (Cooperative Autonomous Distributed Robotic Exploration) — is prepared for shipping in a clean room on Jan. 29, 2025, at NASA’s Jet Propulsion Laboratory in Southern California. The project is designed to show that a group of robots can collaborate to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/giving-nasas-cadre-a-hand/>
+
+---
+
+## Tribal Library Co-Design STEM Space Workshop
+
+date: 2025-02-13, from: NASA breaking news
+
+Christine Shupla and Claire Ratcliffe Adams, from the NASA Science Activation program’s NASA@ My Library project, facilitated a professional development Co-Design Space Science, Technology, Engineering, &#038; Mathematics (STEM) Workshop for Tribal libraries on August 29, 2024, hosted at the New Mexico State Library. The workshop was planned with input from Cassandra Osterloh (the New Mexico […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/tribal-library-co-design-stem-space-workshop/>
+
+---
+
+## Analysts welcome ACID transactions on real-time distributed Aerospike
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>The little database company with big users gaining fans as it adds consistency to speed and scale</h4> <p>With its 8.0 release, distributed multi-model database Aerospike has added ACID transactions to support large-scale online transaction processing (OLTP) applications in a move it claims is an industry first.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/aerospike_acid_transactions/>
+
+---
+
+## US lawmakers press Trump admin to oppose UK's order for Apple iCloud backdoor
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>Senator, Congressman tell DNI to threaten infosec agreements if Blighty won&#39;t back down</h4> <p>US lawmakers want newly confirmed Director of National Intelligence Tulsi Gabbard to back up her tough talk on backdoors. They&#39;re urging her to push back on the UK government&#39;s reported order for Apple to weaken iCloud security for government access.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/us_demand_uk_apple_backdoor_close/>
+
+---
+
+## NASA Readies Moon Rocket for the Future with Manufacturing Innovation
+
+date: 2025-02-13, from: NASA breaking news
+
+NASA’s Artemis campaign will send astronauts, payloads, and science experiments into deep space on NASA’s SLS (Space Launch System) super heavy-lift Moon rocket. Starting with Artemis IV, the Orion spacecraft and its astronauts will be joined by other payloads atop an upgraded version of the SLS, called Block 1B. SLS Block 1B will deliver initial [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/nasa-readies-moon-rocket-for-the-future-with-manufacturing-innovation/>
+
+---
+
+## NASA’s SPHEREx Space Telescope Will Seek Life’s Ingredients
+
+date: 2025-02-13, from: NASA breaking news
+
+Where is all the water that may form oceans on distant planets and moons? The SPHEREx astrophysics mission will search the galaxy and take stock. Every living organism on Earth needs water to survive, so scientists searching for life outside our solar system, are often guided by the phrase “follow the water.” Scheduled to launch [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/universe/nasas-spherex-space-telescope-will-seek-lifes-ingredients/>
+
+---
+
+## WD told to pay half a billion in patent damages before biz splits
+
+date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+
+<h4>With drivemaker poised to become 2 publicly traded companies, judge says he has &#39;concerns&#39; over restructuring</h4> <p>Western Digital has less than a week to file a bond or stump up the $553 million it owes in a patent infringement case, after a federal judge on Tuesday denied the company a stay of execution while it tries to get the ruling overturned.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/13/western_digital_told_to_cough/>
+
+---
+
+## In the Starlight: Tristan McKnight Brings NASA’s Historic Moments to Life
+
+date: 2025-02-13, from: NASA breaking news
+
+For more than a decade, Tristan McKnight has been a driving force behind some of NASA’s most iconic events, orchestrating the behind-the-scenes magic that brings each historic moment to life while sharing the agency’s advancements with the public.&#160; As a multimedia producer on the audiovisual team at Johnson Space Center in Houston, McKnight produces and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/in-the-starlight-tristan-mcknight-brings-nasas-historic-moments-to-life/>
 
 ---
 
 ## SAP snared in revenue trap unless it extends legacy ERP support
 
-date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+date: 2025-02-13, updated: 2025-02-14, from: The Register (UK I.T. News)
 
 <h4>User can still push for perpetual licenses despite vendor&#39;s craving for subscription deals</h4> <p>In the sizeable global ERP market, SAP&#39;s biggest threat is not some other software giant like Oracle. It is its own legacy software supported by other vendors.…</p> 
 
@@ -61,7 +421,7 @@ date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
 
 date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
 
-<h4>Student shows &#39;Uniform hashing is optimal&#39; was just wishful thinking</h4> <p>It isn&#39;t often that a decades-old assumption underpinning modern technology is overturned, but a recent paper based on the work of an undergraduate and his two co-authors has done just that.…</p> 
+<h4>Student shows &#39;uniform hashing is optimal&#39; was just wishful thinking</h4> <p>It isn&#39;t often that a decades-old assumption underpinning modern technology is overturned, but a recent paper based on the work of an undergraduate and his two co-authors has done just that.…</p> 
 
 <br> 
 
@@ -129,11 +489,11 @@ date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
 
 ---
 
-## Have I Been Pwned likely to ban resellers from buying subs, citing ‘sh*tty behavior’ and onerous support requests
+## Have I Been Pwned likely to ban resellers from buying subs, citing 'sh*tty behavior' and onerous support requests
 
-date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+date: 2025-02-13, updated: 2025-02-14, from: The Register (UK I.T. News)
 
-<h4>‘What are customers actually getting from resellers other than massive price markups?’ asks Troy Hunt</h4> <p>Troy Hunt, proprietor of data breach lookup site Have I Been Pwned, is likely to ban resellers from the service.…</p> 
+<h4>&#39;What are customers actually getting from resellers other than massive price markups?&#39; asks Troy Hunt</h4> <p>Troy Hunt, proprietor of data breach lookup site Have I Been Pwned, is likely to ban resellers from the service.…</p> 
 
 <br> 
 
@@ -1235,7 +1595,7 @@ date: 2025-02-10, from: Darpa News
   <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
     
       
-            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/news/podcast#68"><strong>Podcast: </strong>Space manufacturing | Ep 68</a></li><li><a href="https://drupal.darpa.mil/research/programs/novel-orbital-and-moon-manufacturing-materials-and-mass-efficient-design"><strong>Program:</strong> NOM4D</a></li><li><a href="https://drupal.darpa.mil/about/people/andrew-detor">Andrew Detor, program manager</a></li></ul></div>
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><h4>Resources</h4><ul style="list-style-type:disc;margin-left:0;"><li><a href="https://drupal.darpa.mil/news/podcast#68"><strong>Podcast: </strong>Space manufacturing | Ep 68</a></li><li><a href="https://drupal.darpa.mil/research/programs/novel-orbital-and-moon-manufacturing-materials-and-mass-efficient-design"><strong>Program:</strong> NOM4D</a></li><li><a href="https://drupal.darpa.mil/about/people/andrew-detor"><strong>Program Manager:</strong> Andrew Detor</a></li></ul></div>
       
 
       </div>
