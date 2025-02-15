@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-02-14 07:09:10
+updated: 2025-02-15 07:08:09
 ---
 
 # retro computing
 
-(date: 2025-02-14 07:09:10)
+(date: 2025-02-15 07:08:09)
+
+---
+
+## Rob Sprowson at the Coprocabana – 17th February
+
+date: 2025-02-14, from: RiscOS Story
+
+AKA The Duke of Sussex in London The guest speaker at the next RISC OS User Group of London (ROUGOL) meeting will be Rob Sprowson, who may or may not have yellow feathers in his hair1. RISC OS users who have been around since the 8-bit era will remember that it was possible with the BBC computer to attach an external device containing a different CPU, turning the computer itself into little more than an input/output system for that device &#8211; and one such unit produced by Acorn was the&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/rob-sprowson-rougol-17th-february/>
+
+---
+
+## Phone number validation app PhoneVal released
+
+date: 2025-02-14, from: RiscOS Story
+
+Kevin Wells has released yet another application that makes use of Wget in order to relay information to and from the application programmer interface (API) of a website, giving the user easy access to the data it provides. This time the application is designed to look up information about a phone number, and is called PhoneVal. The full description of PhoneVal is that it&#8217;s an &#8216;International Phone Number Validation&#8217; application. Fed with a phone number and country, the software will communicate with the remote API &#8211; this time the Number&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/phoneval-1-00/>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-02-14, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 23: The Bloodless Mutiny 
+
+<br> 
+
+<https://www.filfre.net/2025/02/this-week-on-the-analog-antiquarian/>
 
 ---
 
@@ -128,4 +164,16 @@ Rick's Statement on the UK Online Safety Act, The seventeen 'harms', Storm damag
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250209>
+
+---
+
+## b.log 2025/02/08 - ESP32 SDK craziness, The Letterbox gizmo, Linky weirdness.
+
+date: 2025-02-08, from: Richard Murray's blog
+
+ESP32 SDK craziness, The Letterbox gizmo, Linky weirdness. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250208>
 

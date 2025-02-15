@@ -1,11 +1,215 @@
 ---
 title: going electric
-updated: 2025-02-14 07:09:11
+updated: 2025-02-15 07:08:10
 ---
 
 # going electric
 
-(date: 2025-02-14 07:09:11)
+(date: 2025-02-15 07:08:10)
+
+---
+
+## Cox: EVs are America’s future, but policy will set the pace
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Honda-US-rivals.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The US EV market closed out 2024 on a high note despite swirling uncertainty about the future of federal tax incentives. Cox Automotive’s newly released <a href="https://www.coxautoinc.com/market-insights/q4-2024-ev-sales/" target="_blank" rel="noreferrer noopener">Q4 data</a> shows a record 365,824 EVs sold – up 15.2% from the previous quarter – and annual EV sales of 1.3 million, a 7% increase from 2023. </p>
+
+
+
+<p>We spoke with Stephanie Valdez Streaty, strategic planning director at Cox Automotive, about how these strong numbers underscore growing consumer interest in electrified transportation, even as key federal policies remain in flux. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-blazer-ev,chevy-equinox-ev,cox-automotive,electric-vehicles,ev-lease,honda-prologue,kia-ev3,tesla-model-3,tesla-model-y" data-layer-viewtype="unknown" data-post-id="401913" href="https://electrek.co/2025/02/14/cox-automotive-ev-policy/#more-401913" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/cox-automotive-ev-policy/>
+
+---
+
+## More And More People Want EVs, Actually
+
+date: 2025-02-14, from: Inside EVs News
+
+The percentage of car shoppers planning to buy an EV shot up in 2024.  
+
+<br> 
+
+<https://insideevs.com/news/750792/ev-demand-study-cdk-2025/>
+
+---
+
+## Podcast: GOP moves on EV tax credit, Tesla takeover/takedown, $20,000 VW EV, and more
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the GOP’s move to kill the EV tax credit, Tesla takeover/takedown, $20,000 VW EV, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Electrek_373.mp3"></audio></figure>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="401887" href="https://electrek.co/2025/02/14/podcast-gop-moves-on-ev-tax-credit-tesla-takeover-takedown-20000-vw-ev-and-more/#more-401887" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/podcast-gop-moves-on-ev-tax-credit-tesla-takeover-takedown-20000-vw-ev-and-more/>
+
+---
+
+## Chevy’s Equinox EV is cheaper to finance than the gas model with up to $8,500 in savings
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Chevy-Equinox-EV-finance.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/chevy-equinox-ev/">Chevy Equinox EV</a> is now available to finance at 0% APR with up to $8,500 in savings. At that rate, it’s even cheaper to finance than the gas-powered model right now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet-equinox-ev,chevy-equinox-ev" data-layer-viewtype="unknown" data-post-id="401892" href="https://electrek.co/2025/02/14/chevy-equinox-ev-cheaper-to-finance-than-gas-model/#more-401892" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/chevy-equinox-ev-cheaper-to-finance-than-gas-model/>
+
+---
+
+## EV Sales Exploded At The End Of 2024. Here's Why
+
+date: 2025-02-14, from: Inside EVs News
+
+Consumers rushed to buy EVs to beat the threat of having the tax credit repealed. 
+
+<br> 
+
+<https://insideevs.com/news/750789/ev-registration-beat-tax-credit/>
+
+---
+
+## Big Oil is mad the candidate it bought is raising its costs with tariffs
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Air_pollution3.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The oil industry is asking for carveouts from tariffs which will raise its cost of doing business – and your cost of energy – after spending tens of millions in bribes on a candidate that promised to raise everyone’s costs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="oil-and-gas,tariffs" data-layer-viewtype="unknown" data-post-id="401864" href="https://electrek.co/2025/02/14/big-oil-is-mad-the-candidate-it-bought-is-raising-its-costs-with-tariffs/#more-401864" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/big-oil-is-mad-the-candidate-it-bought-is-raising-its-costs-with-tariffs/>
+
+---
+
+## Rad Power’s latest sale drops RadRunner Plus e-bike to new $1,499 low, Bluetti and Jackery Valentine’s offers take 60% off units, more
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Rad-Power-RadRunner-Plus-Utility-e-bike.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Today’s Green Deals are seeing three separate sales with new low prices in each, starting with <a href="https://9to5toys.com/2025/02/13/rad-powers-presidents-day-sale-from-1099/">Rad Power’s Presidents’ Day sale</a> that is offering up to $500 in savings across a massive lineup of e-bikes, with its <a href="https://9to5toys.com/2025/02/13/rad-powers-presidents-day-sale-from-1099/">RadRunner Plus Utility e-bike</a> dropping to a new <a href="https://9to5toys.com/2025/02/13/rad-powers-presidents-day-sale-from-1099/">$1,499</a> low. Keep in mind for this sale though – some of the offers are ending February 17 while others continue to February 26. Next, <a href="https://9to5toys.com/2025/02/14/bluetti-valentines-day-sale-ac180-new-436-low/">Bluetti’s Valentine’s Day sale</a> is taking up to 60% off its power stations, like the popular <a href="https://9to5toys.com/2025/02/14/bluetti-valentines-day-sale-ac180-new-436-low/">AC180 model</a> that is hitting a new <a href="https://9to5toys.com/2025/02/14/bluetti-valentines-day-sale-ac180-new-436-low/">$436</a> low, among others. Bringing up the rear is <a href="https://9to5toys.com/2025/02/14/jackery-valentines-flash-sale-new-1799-low/">Jackery’s Valentine’s Day flash sale</a> that is running alongside its <a href="https://9to5toys.com/2025/02/07/jackerys-tax-season-sale-from-90/">Tax Season Savings sale</a> and dropping select offers to lower rates through the weekend, like the <a href="https://9to5toys.com/2025/02/14/jackery-valentines-flash-sale-new-1799-low/">Explorer 2000 Plus Solar Generator bundle</a> with two 200W panels at a new <a href="https://9to5toys.com/2025/02/14/jackery-valentines-flash-sale-new-1799-low/">$1,799</a> low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/02/12/lectric-xpeak-1-0-1399/">Lectric Xpeak 1.0</a> clearance sale, the <a href="https://9to5toys.com/2025/02/13/ego-power-snow-blower-steel-auger-599/">EGO Power+ snow blower</a> discounts, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="401860" href="https://electrek.co/2025/02/14/rad-power-presidents-day-sale-bluetti-jackery-more/#more-401860" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/rad-power-presidents-day-sale-bluetti-jackery-more/>
+
+---
+
+## Here’s a better look at the $20,000 Volkswagen ID.1 EV ahead of its debut next month
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volkswagen-ID.1EVERY-1-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In less than a month, <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> will unveil its smallest and most affordable electric car from its ID lineup. The new EV is expected to hit the market as the ID.1, starting at around €20,000, or just over $20,000. With its world premiere just around the corner, Volkswagen is giving us a closer look at ID.EVERY 1 show car.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="401863" href="https://electrek.co/2025/02/14/volkswagen-previews-20000-id-1-ev-ahead-of-march-debut/#more-401863" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/volkswagen-previews-20000-id-1-ev-ahead-of-march-debut/>
+
+---
+
+## BYD may have a new power play in EV lithium mining, documents reveal
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/BYD-Shark-pickup-Brazil.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s largest EV maker does not look to be slowing down anytime soon. Newly discovered documents show that <a href="https://electrek.co/guides/byd/">BYD</a> may have a new power play in the works regarding mining rights in “Brazil’s lithium valley.” The move could be its biggest outside of China as it expands into the West.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="401847" href="https://electrek.co/2025/02/14/byd-may-have-new-power-play-ev-lithium-mining/#more-401847" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/byd-may-have-new-power-play-ev-lithium-mining/>
+
+---
+
+## Jeep Is Offering Huge Discounts On The Wagoneer S Right Now
+
+date: 2025-02-14, from: Inside EVs News
+
+A combination of incentives could knock $10,500 off the price. 
+
+<br> 
+
+<https://insideevs.com/news/750784/jeep-wagoneer-s-huge-discount/>
+
+---
+
+## Tesla offers up to $6,000 Cybertruck discounts as inventory pile up
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Tesla-Cybertruck-Mexico.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is ramping up its discounts on Cybertruck as inventory for the electric pickup truck is piling up amid demand issues.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="401834" href="https://electrek.co/2025/02/14/tesla-offers-up-to-6000-cybertruck-discounts-as-inventory-pile-up/#more-401834" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/tesla-offers-up-to-6000-cybertruck-discounts-as-inventory-pile-up/>
+
+---
+
+## Tesla Cybertruck's FSD Crash Raises Red Flags For Robotaxi Launch
+
+date: 2025-02-14, from: Inside EVs News
+
+We also discuss why the apparent slowdown in EV charger growth is overblown and Scout's headaches regarding direct sales. 
+
+<br> 
+
+<https://insideevs.com/news/750773/tesla-cybertruck-crash-fsd-robotaxi-safety-concerns/>
+
+---
+
+## Volkswagen confirms new £25K ID.2X is coming next year as the electric T-Cross replacement
+
+date: 2025-02-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/Volkswagen-affordable-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In September, <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> will unveil the electric T-Cross at IAA Mobility, dubbed the ID.2X. CEO Thomas Schäfer confirmed the mini electric SUV’s name on Thursday, which is expected to go in 2026 starting at around £25,000 ($31,000).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen" data-layer-viewtype="unknown" data-post-id="401822" href="https://electrek.co/2025/02/14/volkswagen-confirms-25k-id-2x-electric-t-cross-replacement/#more-401822" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/volkswagen-confirms-25k-id-2x-electric-t-cross-replacement/>
 
 ---
 
@@ -14,6 +218,10 @@ updated: 2025-02-14 07:09:11
 date: 2025-02-14, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes an NYC program to give out free e-bikes to delivery riders, a new bicycle handlebar designed with help from Onlyfans, Vammo’s 1 million battery swaps, a new e-moto/e-snowmobile project, Lift electric hydrofoil boards, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Wheel-e_82.mp3"></audio></figure>
 
 
 
@@ -1431,4 +1639,120 @@ date: 2025-02-09, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/02/09/how-adult-site-onlyfans-helped-this-high-tech-handlebar-come-to-market/>
+
+---
+
+## Is this America’s first electric refrigerated catering truck for aviation?
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Mallaghan-Launches-North-Americas-First-Electric-Catering-Truck-3.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Global airport ground support equipment (GSE) manufacturer Mallaghan just deployed what it says is North America’s first ever fully electric refrigerated catering truck designed specifically for the aviation industry.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="airports,aviation,commercial-evs" data-layer-viewtype="unknown" data-post-id="401052" href="https://electrek.co/2025/02/08/is-this-americas-first-electric-refrigerated-catering-truck-for-aviation/#more-401052" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/is-this-americas-first-electric-refrigerated-catering-truck-for-aviation/>
+
+---
+
+## Tesla Sales Are Tanking Across The World
+
+date: 2025-02-08, from: Inside EVs News
+
+Blame the Musk Effect, declining EV subsidies or all of the above. But Tesla's global sales are off to a very bad start for 2025. 
+
+<br> 
+
+<https://insideevs.com/news/750076/tesla-sales-tanking-globally/>
+
+---
+
+## A Tesla Model 3 Slow-Charged In -15 Degree Temperatures. Here’s How It Went
+
+date: 2025-02-08, from: Inside EVs News
+
+Can a Level 1 charger top up the batteries after a freezing night outside? 
+
+<br> 
+
+<https://insideevs.com/news/749828/tesla-model-3-freezing-night-level-1-charger/>
+
+---
+
+## Pet Valu deploys electric semi trucks so pets can breathe a bit easier
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/pet_valu-electric-volvo.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>They may not <em>purr</em> like a well-tuned diesel, but Pet Valu has added two brand-new, whisper-quiet Volvo VNR Electric semi trucks to its growing logistics fleet as part of the company’s ongoing effort to transform its supply chain into one that’s more efficient, and more sustainable.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="401033" href="https://electrek.co/2025/02/08/pet-valu-deploys-electric-semi-trucks-so-pets-can-breathe-a-bit-easier/#more-401033" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/pet-valu-deploys-electric-semi-trucks-so-pets-can-breathe-a-bit-easier/>
+
+---
+
+## Milestone: TRC reaches $2 billion in commercial ZEV funding
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/commercial-truck-CASH.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Consulting firm TRC has made a name for itself in the clean trucking space both for managing <a href="https://electrek.co/?s=act+expo">the ACT Expo</a> and helping commercial fleets navigate the increasingly complex world of ZEV incentives. This week, the company reached a major milestone: <strong>$2 billion in funding</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,funding" data-layer-viewtype="unknown" data-post-id="401020" href="https://electrek.co/2025/02/08/milestone-trc-reaches-2-billion-in-commercial-zev-funding/#more-401020" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/milestone-trc-reaches-2-billion-in-commercial-zev-funding/>
+
+---
+
+## Lucid Aims To Be 20% Car Company, 80% Tech Supplier: CEO
+
+date: 2025-02-08, from: Inside EVs News
+
+Peter Rawlinson said the goal is to get Lucid tech into Hondas and Toyotas, and the cars are a "shop window" to do that. 
+
+<br> 
+
+<https://insideevs.com/news/750043/lucid-ceo-supplier-peter-rawlinson/>
+
+---
+
+## First ever electric rail car mover gets to work at Port of Baltimore [video]
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/baltimore_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Helen Delich Bentley Port of Baltimore has announced a first for the contemporary American maritime industry: a battery-electric rail car mover that can organize the rail yard without dirtying up the air around it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-railcar" data-layer-viewtype="unknown" data-post-id="401000" href="https://electrek.co/2025/02/08/first-ever-electric-rail-car-mover-gets-to-work-at-port-of-baltimore-video/#more-401000" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/first-ever-electric-rail-car-mover-gets-to-work-at-port-of-baltimore-video/>
+
+---
+
+## Awesomely Weird Alibaba EV of the Week: This four-wheeled e-bike/car
+
+date: 2025-02-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/cargo-bike-alibaba.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>When it comes to oddities of the electric vehicle variety, it doesn’t take much to pique my interest. If it’s got an electric motor and a funky shape, I’m down to clown. But being an electric bicycle guy through and through, anytime we can work some good ol’ pedaling action into the mix, I’m all the happier. And this week’s edition of the <a href="http://electrek.co/guides/alibaba">Awesomely Weird Alibaba Electric Vehicle of the Week </a>sure tickles my fancy!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba,ebikes" data-layer-viewtype="unknown" data-post-id="399346" href="https://electrek.co/2025/02/08/awesomely-weird-alibaba-ev-of-the-week-this-four-wheeled-e-bike-car/#more-399346" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/08/awesomely-weird-alibaba-ev-of-the-week-this-four-wheeled-e-bike-car/>
 

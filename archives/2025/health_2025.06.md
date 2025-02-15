@@ -1,11 +1,11 @@
 ---
 title: health
-updated: 2025-02-14 07:09:10
+updated: 2025-02-15 07:08:09
 ---
 
 # health
 
-(date: 2025-02-14 07:09:10)
+(date: 2025-02-15 07:08:09)
 
 ---
 
@@ -368,4 +368,16 @@ BackgroundRapid and accurate diagnosis of tuberculosis, particularly rifampin (R
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2025.1534268>
+
+---
+
+## Call Maryland Governor Moore, tell him to stop Elon Musk’s breach of our health data systems.
+
+date: 2025-02-08, from: People's CDC
+
+We cannot allow them to loot their way through federal government! Take action now! 
+
+<br> 
+
+<https://peoplescdc.org/2025/02/08/call-maryland-governor/>
 

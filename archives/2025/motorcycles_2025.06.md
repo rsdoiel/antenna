@@ -1,11 +1,71 @@
 ---
 title: motorcycles
-updated: 2025-02-14 07:09:10
+updated: 2025-02-15 07:08:09
 ---
 
 # motorcycles
 
-(date: 2025-02-14 07:09:10)
+(date: 2025-02-15 07:08:09)
+
+---
+
+## NASCAR Truck Series: Pérez de Lara, Mosack and Ruggiero look to stand out in star-studded rookie class
+
+date: 2025-02-14, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer In a rookie class featuring the likes of Toni Breidinger, the most-followed NASCAR driver on social media, and an actor in Frankie Muniz, it isn’t&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-truck-series-perez-de-lara-mosack-and-ruggiero-look-to-stand-out-in-star-studded-rookie-class/>
+
+---
+
+## Helio Castroneves: ‘We Will Learn More For The Race”
+
+date: 2025-02-14, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer A critical moment in Helio Castroneves&#8217; debut with Trackhouse Racing, debut Daytona 500 and NASCAR Cup Series debut came to a sudden stop Thursday night.&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/helio-castroneves-we-will-learn-more-for-the-race/>
+
+---
+
+## Ty Dillon’s Raw Speed ‘Quite Obvious’ Heading into Daytona 500
+
+date: 2025-02-14, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer A daring block Thursday night by Ty Dillon nearly ended the first Duel 150 in chaos. It was a confident move by a driver operating&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/ty-dillons-raw-speed-quite-obvious-heading-into-daytona-500/>
+
+---
+
+## GALLERY: Thursday Duels at Daytona
+
+date: 2025-02-14, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Speedweek at Daytona International Speedway ran its first races Thursday night. The Duels for the Cup Series set the field for Sunday&#8217;s 67th Daytona 500,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-thursday-duels-at-daytona/>
+
+---
+
+## New Florida Bills Would Allow UTVs on Public Roads, Despite Warnings
+
+date: 2025-02-14, from: Ride Apart, Electric Motorcycle News
+
+This is bound to divide opinions.  
+
+<br> 
+
+<https://www.rideapart.com/news/750674/florida-utv-bill-public-roads/>
 
 ---
 
@@ -156,7 +216,7 @@ So far, it's only being tested in Japan.
 
 ---
 
-## Indian Motorcycle Just Killed Its Coolest Bike and Didn't Even Give It a Funeral
+## [UPDATE] Indian Motorcycle Just Killed Its Coolest Bike and Didn't Even Give It a Funeral
 
 date: 2025-02-13, from: Ride Apart, Electric Motorcycle News
 
@@ -448,4 +508,16 @@ Suzuki's S-Mall merch store is celebrating its fourth anniversary in style.
 <br> 
 
 <https://www.rideapart.com/news/749890/limited-edition-suzuki-watches-2025-kentex/>
+
+---
+
+## Watch the Most Insane Yamaha R6-Swapped Dirt Bike Take Flight
+
+date: 2025-02-08, from: Ride Apart, Electric Motorcycle News
+
+This video is a banger from start to finish. 
+
+<br> 
+
+<https://www.rideapart.com/news/750028/r6-swapped-dirt-bike/>
 

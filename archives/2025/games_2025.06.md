@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-02-14 07:09:08
+updated: 2025-02-15 07:08:07
 ---
 
 # games
 
-(date: 2025-02-14 07:09:08)
+(date: 2025-02-15 07:08:07)
+
+---
+
+## New Witcher on Netflix, Flow, and every movie new to streaming this week
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, there’s a new Witcher animated movie, featuring the return of Geralt’s video game voice actor, the excellent animated movie Flow, about a cat escaping [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/522038/new-movies-watch-streaming-witcher-netflix-flow>
+
+---
+
+## Practical Pockets treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Practical Pockets is unusual as far as Avowed treasure maps go. This Emerald Stair map is looking out from the treasure&#8217;s location, not showing you where it is. Lucky for you, the location is within close reach and has few enemies patrolling nearby (unlike the region’s Painter&#8217;s Regret treasure map map). The reward at the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524444/practical-pockets-treasure-map-location-solution-reward>
+
+---
+
+## Painter’s Regret treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Painter&#8217;s Regret is one of the first treasure maps you can get in the Emerald Stair region of Avowed — and potentially one of the more dangerous quests there as well. The map itself is in a safe area, but the treasure location is surrounded by a group high-level enemies. Your reward is a trinket [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524484/painters-regret-treasure-map-location-solution-reward>
+
+---
+
+## Earthly Aegis treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Earthly Aegis is a tough map to track down in Avowed&#8216;s Emerald Stair region. It&#8217;s tucked away in a hard-to-find house, and finding the treasure itself involves a bit of investigation. If you prefer playing things safe with a shield in hand, this is one treasure map not to miss. This Avowed guide shows where [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524507/earthly-aegis-treasure-map-location-solution-reward>
+
+---
+
+## Why is the Red Hulk red? 
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+In Marvel Comics, green is the color of rage — and the color of gamma-mutated superheroes and villains. The Hulk is green, the Leader is green, She-Hulk is green, the Abomination is green. So the release of (or the trailers for) Captain America: Brave New World may have prompted an obvious question in your mind.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/524402/why-is-hulk-red-captain-america-brave-new-world>
+
+---
+
+## Intimidating Feline Codpiece treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Intimidating Feline Codpiece is one of the vaguest treasure maps in Avowed, offering only a skyline and some rocks as clues to its location in Dawnshore. The road to this treasure location takes you through the wilderness and past some dangerous enemies, so make sure you&#8217;ve got some food or potions on-hand before heading out. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524369/intimidating-feline-codpiece-treasure-map-location-solution-reward>
+
+---
+
+## Woedica&#8217;s Inheritance treasure map location and solution in Avowed
+
+date: 2025-02-14, updated: 2025-02-14, from: Polygon Website
+
+Finding the Woedica&#8217;s Inheritance treasure map solution in Avowed involves a trick of perspective and possibly some unorthodox quest-finding methods, depending on your luck. Unlike the other maps in Dawnshore, Captain Henqua’s Spoils and Intimidating Feline Codpiece, you need to make a bit of story progress before you can acquire Woedica&#8217;s Inheritance. If you favor [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524370/woedicas-inheritance-treasure-map-location-solution-reward>
 
 ---
 
@@ -642,4 +726,52 @@ Sony’s PlayStation Network was down from Friday to Saturday evening. Surpassin
 <br> 
 
 <https://www.polygon.com/news/521195/playstation-network-down-outage-psn>
+
+---
+
+## How to watch the Super Bowl for free
+
+date: 2025-02-08, updated: 2025-02-08, from: Polygon Website
+
+The Super Bowl is airing this Sunday, Feb. 9, with the kickoff happening at 6:30 p.m. EST. In case you didn’t already know, the matchup is between the Philadelphia Eagles and the Kansas City Chiefs. Whether you’re mainly interested in the ads, the big game, or the halftime show headlined by Kendrick Lamar, we’ve got [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/518394/super-bowl-streaming-free-2025>
+
+---
+
+## The best Star Trek fan event of the year joyfully celebrates the franchise’s worst episode
+
+date: 2025-02-08, updated: 2025-02-08, from: Polygon Website
+
+Star Trek fans celebrate a lot of holidays. There’s Star Trek Day on Sept. 8, the anniversary of the premiere of Star Trek: The Original Series. There’s First Contact Day on April 5, the anniversary of the fictional date on which humanity made first contact with Vulcan visitors. One might even celebrate Captain Picard Day [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/star-trek/520026/voyager-threshold-day-tumblr-salamander-lizard>
+
+---
+
+## Helldivers 2’s game director speaks on a frantic first year and the future of the Galactic War
+
+date: 2025-02-08, updated: 2025-02-07, from: Polygon Website
+
+Helldivers 2 has reached its first anniversary, marking what’s been a wild year for Arrowhead Game Studios. The co-op action shooter took off as soon as it was released on Feb. 8, 2024, enjoying an explosive launch with hundreds of thousands more players than Arrowhead expected. I’ve been logging in consistently throughout the first year, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/520244/helldivers-2-arrowhead-1-year-anniversary-retrospective-future>
+
+---
+
+## The best thrillers to watch on Netflix this February
+
+date: 2025-02-08, updated: 2025-02-07, from: Polygon Website
+
+We may still be in the midst of winter, but that hasn’t stopped Netflix from throwing a few great thrillers onto its streaming service. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they pair well with an upcoming release. Other titles might be new additions [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/519566/best-thriller-movies-netflix-watch-january-2025>
 

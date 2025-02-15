@@ -1,11 +1,289 @@
 ---
 title: snapshots
-updated: 2025-02-14 07:09:12
+updated: 2025-02-15 07:08:11
 ---
 
 # snapshots
 
-(date: 2025-02-14 07:09:12)
+(date: 2025-02-15 07:08:11)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Men claiming to be DOGE flee City Hall after demanding records. 
+
+<br> 
+
+<https://sfstandard.com/2025/02/14/doge-elon-musk-san-francisco-city-hall-demand-records/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Staten Island Democrats endorse Cuomo for Mayor race. 
+
+<br> 
+
+<https://nypost.com/2025/02/14/us-news/nyc-staten-island-democrats-endorse-cuomo-for-mayor-race/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Louisiana officially ends mass vaccinations as RFK Jr. comes to power. 
+
+<br> 
+
+<https://arstechnica.com/health/2025/02/louisiana-officially-ends-mass-vaccinations-as-rfk-jr-comes-to-power/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Podcast: Dems must campaign 365 days every year. 
+
+<br> 
+
+<https://shownotes.scripting.com/scripting/2025/02/14/demsMustCampaign365DaysEveryYear.html>
+
+---
+
+## Netflix Content Accidentally in TV App
+
+date: 2025-02-14, from: Michael Tsai
+
+Tim Hardwick: Netflix appears to have softened its stance on Apple TV integration, with some users in the US now reporting seeing prompts to connect their Netflix accounts directly to Apple&#8217;s TV app.[&#8230;]The integration currently seems restricted to Netflix Original content rather than the service&#8217;s full catalog of licensed shows and movies. When users select [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/14/netflix-content-accidentally-in-tv-app/>
+
+---
+
+## Asahi Linux Lead Resigns
+
+date: 2025-02-14, from: Michael Tsai
+
+Hector Martin (via Hacker News): When Apple released the M1, I realized that making it run Linux was my dream project. The technical challenges were the same as my console homebrew projects of the past (in fact, much bigger), but this time, the platform was already open - there was no need for a jailbreak, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/14/asahi-linux-lead-resigns/>
+
+---
+
+## One Year With the Vision Pro
+
+date: 2025-02-14, from: Michael Tsai
+
+Jason Snell: A year on, I can&#8217;t in good conscience recommend that anyone buy one. It&#8217;s a glimpse of a potential future and a developer kit for potential future Apple platforms, but that&#8217;s about it. [&#8230;] Vision Pro is a tremendous video player. [&#8230;] If there&#8217;s a single feature that would actually sell Vision Pros, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/14/one-year-with-the-vision-pro/>
+
+---
+
+## TikTok Back in the App Store
+
+date: 2025-02-14, from: Michael Tsai
+
+Juli Clover: TikTok is once again available for download from the App Store, which means it can be installed on iPhones and will be able to receive updates. Apple&#8217;s decision to start distributing TikTok again comes after a letter sent from U.S. Attorney General Pam Bondi, according to Bloomberg, but the letter has not been [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/14/tiktok-back-in-the-app-store/>
+
+---
+
+## Asus NUC 13 Pro family expands to include models with Raptor Lake-H chips
+
+date: 2025-02-14, from: Liliputing
+
+<p>The NUC 13 Pro is a mini PC that launched in early 2023 back when Intel was still managing the NUC brand. At the time the little computer was available with processor options that included 15-watt Intel Raptor Lake-U and 28-watt Raptor Lake-H chips. But now that Asus has taken over the NUC line the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/asus-nuc-13-pro-family-expands-to-include-models-with-raptor-lake-h-chips/">Asus NUC 13 Pro family expands to include models with Raptor Lake-H chips</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/asus-nuc-13-pro-family-expands-to-include-models-with-raptor-lake-h-chips/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-02-14, from: Tomosino's Mastodon feed)
+
+<p>Aurora from the cabin. <a href="https://tilde.zone/tags/iceland" class="mention hashtag" rel="tag">#<span>iceland</span></a></p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114004216409212916>
+
+---
+
+## PureOS Crimson Development Report: January 2025
+
+date: 2025-02-14, from: Purism News and Events
+
+<p>Welcome back!  In our last update, we had exciting news - it's now possible to flash a PureOS Crimson image to your Librem 5.</p>
+<p>That's a large step toward our first milestone.  Now, we need essential functionality.  The goal of the first milestone is to enable broad testing of applications by the community, and essential functionality has to work in order to get good feedback about applications.</p>
+<p>For a phone, sound is about as essential as it gets.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-january-2025/">PureOS Crimson Development Report: January 2025</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/pureos-crimson-development-report-january-2025/>
+
+---
+
+## Pomera DM250 distraction-free digital typewriter coming to the US Feb 18 for $499 (or less)
+
+date: 2025-02-14, from: Liliputing
+
+<p>The Pomera DM250 is a portable digital typewriter that combines a keyboard large enough for touch-typing with a 7 inch transflective black and white LCD display. Designed primarily for use as a distraction-free writing tool, it&#8217;s basically a portable word processor rather than a full-fledged laptop computer. First launched in Japan in 2022, folks in other parts [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pomera-dm250-distraction-free-digital-typewriter-coming-to-the-us-feb-18-for-499/">Pomera DM250 distraction-free digital typewriter coming to the US Feb 18 for $499 (or less)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pomera-dm250-distraction-free-digital-typewriter-coming-to-the-us-feb-18-for-499/>
+
+---
+
+## More AI Problems
+
+date: 2025-02-14, from: Stephen Smith's blog
+
+Introduction Last time, I blogged on the recent court case where Meta was caught training their AIs on pirated copyrighted material downloaded from pirate torrent sites. Since then, there was another copyright case judgement against an AI company, a major international political AI conference, discussions of AIs contribution to global warming and I received feedback [&#8230;] 
+
+<br> 
+
+<https://smist08.wordpress.com/2025/02/14/more-ai-problems/>
+
+---
+
+## Researcher Captures Contents of ‘DEI.gov’ Before It Was Hidden Behind a Password
+
+date: 2025-02-14, from: 404 Media Group
+
+The list includes budget claims like "$3.4 million for Malaysian drug-fueled gay sex app" and "Disbursed $15,000 to 'queer' Muslim writers in India."  
+
+<br> 
+
+<https://www.404media.co/dei-waste-gov-doge-list-behind-password/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Department of Education Told Employees to End Support for Transgender Students. 
+
+<br> 
+
+<https://www.propublica.org/article/department-of-education-transgender-students-email>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+Elon Musk’s Toxicity Could Spell Disaster for Tesla. 
+
+<br> 
+
+<https://www.wired.com/story/elon-musks-toxicity-could-spell-disaster-for-tesla/>
+
+---
+
+## ACEMAGIC F3A is a Ryzen AI 9 HX 370 mini PC with dual 2.5 GbE LAN and up to 96GB RAM
+
+date: 2025-02-14, from: Liliputing
+
+<p>The ACEMAGIC F3A is a small desktop computer with an RGB light strip just under the lid, support for up to 96GB of DDR5-5600 dual-channel memory, and up to 4TB of PCIe NVMe storage. It&#8217;s also one of a growing number of mini PCs powered by an AMD Ryzen AI 9 HX 370 Strix Point 12-core, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acemagic-f3a-is-a-ryzen-ai-9-hx-370-mini-pc-with-dual-2-5-gbe-lan-and-up-to-96gb-ram/">ACEMAGIC F3A is a Ryzen AI 9 HX 370 mini PC with dual 2.5 GbE LAN and up to 96GB RAM</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acemagic-f3a-is-a-ryzen-ai-9-hx-370-mini-pc-with-dual-2-5-gbe-lan-and-up-to-96gb-ram/>
+
+---
+
+## Trump Admin Adds Note Rejecting ‘Gender Ideology’ on Sites Court Ordered Them to Restore
+
+date: 2025-02-14, from: 404 Media Group
+
+FDA and HHS sites now note that “The Trump Administration rejects gender ideology and condemns the harms it causes to children.” 
+
+<br> 
+
+<https://www.404media.co/trump-admin-adds-note-rejecting-gender-ideology-on-sites-court-ordered-them-to-restore/>
+
+---
+
+## New Rust, Old Drama
+
+date: 2025-02-14, updated: 2025-02-14, from: Tedium site
+
+The periodic Rust-induced conflicts happening with the Linux kernel hint at underlying generational problems facing the project. And it’s already led a prominent maintainer to quit. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16962800/asahi-linux-kernel-rust-drama>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-14, from: Dave Winer's linkblog)
+
+DOGE’s ‘Genius’ Coders Launch Website So Full Of Holes, Anyone Can Write To It. 
+
+<br> 
+
+<https://www.techdirt.com/2025/02/14/doges-genius-coders-launch-website-so-full-of-holes-anyone-can-write-to-it/>
+
+---
+
+## How to Find Climate Data and Science the Trump Administration Doesn’t Want You to See
+
+date: 2025-02-14, from: Guy Kawasaki blog
+
+Eric Nost, University of Guelph, and Alejandro Paz, Massachusetts Institute of Technology (MIT) 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/how-to-find-climate-data-and-science>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-02-14, from: Robert's feed at BlueSky)
+
+NOTE TO SELF: When software you're maintaining is consistently difficult to document well and keep the documentation up to date. Maybe it is too complex. 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3li5o7vfkbk2u>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-02-14, from: Tomosino's Mastodon feed)
+
+<p>I have another <a href="https://tilde.zone/tags/solarpunk" class="mention hashtag" rel="tag">#<span>solarpunk</span></a> talk coming up in <a href="https://tilde.zone/tags/reykjavik" class="mention hashtag" rel="tag">#<span>reykjavik</span></a> <a href="https://tilde.zone/tags/iceland" class="mention hashtag" rel="tag">#<span>iceland</span></a> on the 26th at 18:30. It's free at Hafnar Haus. I'm planning on talking about how we create symbols in our communities and culture and what that means for the emerging genre. <a href="https://www.facebook.com/events/1384170762582287/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">facebook.com/events/1384170762</span><span class="invisible">582287/</span></a></p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114003240780106342>
+
+---
+
+## Behind the Blog: Backdoors and the Miracle of Wikipedia
+
+date: 2025-02-14, from: 404 Media Group
+
+This week, we discuss Apple's iCloud, Wikipedia as a miracle of humankind, and good soup. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-backdoors-and-the-miracle-of-wikipedia/>
 
 ---
 
@@ -215,6 +493,19 @@ date: 2025-02-14, updated: 2025-02-14, from: Simon Willison’s Weblog
 <br> 
 
 <https://simonwillison.net/2025/Feb/14/how-to-add-a-directory-to-your-path/#atom-everything>
+
+---
+
+## Setting up my Raspberry Pi 500, a Portable Workstation
+
+date: 2025-02-14, from: Robert's Ramblings
+
+Quick notes on configuring a Raspberry Pi 500 as a portable workstation along with a price list.
+ 
+
+<br> 
+
+<https://rsdoiel.github.io/blog/2025/02/14/Review_Pi-500_as_portable_workstation.html>
 
 ---
 
@@ -2382,4 +2673,281 @@ A demonized paper from three years ago that has stood the test of time
 <br> 
 
 <https://garymarcus.substack.com/p/five-ways-in-which-the-last-3-months>
+
+---
+
+## I had my AI "oh f***" moment and I'm a student, now what?
+
+date: 2025-02-08, from: Geoffrey Hunntley's blog
+
+<blockquote>What follows is an email that arrived in my inbox moments ago, reproduced in it&apos;s entirety. I&apos;ll be doing a response letter, after I get some sleep. For now, discuss at <a href="https://x.com/GeoffreyHuntley/status/1888365040572751973?ref=ghuntley.com">https://x.com/GeoffreyHuntley/status/1888365040572751973</a></blockquote><p>Hi there,<br><br>So, I read your blog post &quot;</p> 
+
+<br> 
+
+<https://ghuntley.com/im-a-student/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+Federal judge condemns Trump&#39;s attack on birthright citizenship from the bench. 
+
+<br> 
+
+<https://slate.com/news-and-politics/2025/02/federal-judge-birthright-citizenship-donald-trump-ignore-law.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+Trans Children Are God’s Gifts. 
+
+<br> 
+
+<https://www.texasobserver.org/trans-children-gods-gifts/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+How Sam Altman Sidestepped Elon Musk to Win Over Donald Trump. 
+
+<br> 
+
+<https://www.nytimes.com/2025/02/08/technology/sam-altman-elon-musk-trump.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+Trump fires archivist of the United States. 
+
+<br> 
+
+<https://www.cbsnews.com/news/trump-fires-archivist-of-the-united-states-colleen-shogan/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+Who is helping Elon Musk gut the US government? 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/feb/08/elon-musk-doge-team-staff>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+In the midst of all the michegas, the Mets signed Pete Alonso for a two-year contract. We don&#39;t need any more butt-hurt these days. 
+
+<br> 
+
+<https://www.newsweek.com/sports/mlb/really-worried-about-pete-alonso-after-mets-deal-says-former-mlb-network-host-2027588>
+
+---
+
+## You are using Cursor AI incorrectly...
+
+date: 2025-02-08, from: Geoffrey Hunntley's blog
+
+<p>I&apos;m hesitant to give this advice away for free, but I&apos;m gonna push past it and share it anyway. You&apos;re using Cursor incorrectly.</p><p>Over the last few weeks I&apos;ve been doing /zooms with software engineers - from entry level, to staff level</p> 
+
+<br> 
+
+<https://ghuntley.com/stdlib/>
+
+---
+
+## Quoting Salvatore Sanfilippo
+
+date: 2025-02-08, updated: 2025-02-08, from: Simon Willison’s Weblog
+
+<blockquote cite="https://antirez.com/news/145"><p>[...] We are destroying software with complex build systems.</p>
+<p>We are destroying software with an absurd chain of dependencies, making everything bloated and fragile.</p>
+<p>We are destroying software telling new programmers: “Don’t reinvent the wheel!”. But, reinventing the wheel is how you learn how things work, and is the first step to make new, different wheels. [...]</p></blockquote>
+<p class="cite">&mdash; <a href="https://antirez.com/news/145">Salvatore Sanfilippo</a>, We are destroying software</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/salvatore-sanfilippo">salvatore-sanfilippo</a>, <a href="https://simonwillison.net/tags/programming">programming</a>, <a href="https://simonwillison.net/tags/software-engineering">software-engineering</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/8/salvatore-sanfilippo/#atom-everything>
+
+---
+
+## Social machines
+
+date: 2025-02-08, from: Enlightenment Economics
+
+My friend Wendy Hall co-authored a 2019 book The Theory and Practice of Social Machines, which I read only recently. The central idea of a social machine is very interesting &#8211; a social network connected by digital devices, a human-machine &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/02/social-machines/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/02/social-machines/>
+
+---
+
+## What Happens if this Hazardous Asteroid Hits Earth?
+
+date: 2025-02-08, from: 404 Media Group
+
+A 1,600-foot-wide asteroid has a 0.037% chance of impacting Earth on September 24, 2182. What if we punch that unlucky ticket? 
+
+<br> 
+
+<https://www.404media.co/what-happens-if-this-hazardous-asteroid-hits-earth/>
+
+---
+
+## What the Edwardians Could Teach Trump About Trade (Wonkish)
+
+date: 2025-02-08, from: Paul Krugman
+
+Canada yesterday, Japan today: Another bogus trade complaint 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/what-the-edwardians-could-teach-trump>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+The Courts Can’t Stop the Trump-Musk Coup. 
+
+<br> 
+
+<https://www.thenation.com/article/politics/courts-cant-stop-the-trump-musk-coup/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+Is Donald Trump Afraid of Elon Musk? 
+
+<br> 
+
+<https://www.vanityfair.com/news/story/is-donald-trump-afraid-of-elon-musk>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+Feds putting the kibosh on national EV charging program. 
+
+<br> 
+
+<https://arstechnica.com/uncategorized/2025/02/feds-putting-the-kibosh-on-national-ev-charging-program/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+Federal judge blocks Musk’s DOGE from access to Treasury Dept. material. 
+
+<br> 
+
+<https://wapo.st/3CQNnDN>
+
+---
+
+## Trade Flows and Trade Balances
+
+date: 2025-02-08, from: Paul Krugman
+
+A primer for the confused 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156550392/fe0fb0d4f955b763a4aafa8afaa58d2f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/156550392/fe0fb0d4f955b763a4aafa8afaa58d2f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/trade-flows-and-trade-balances>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+The Government’s Computing Experts Say They Are Terrified. 
+
+<br> 
+
+<https://www.theatlantic.com/technology/archive/2025/02/elon-musk-doge-security/681600/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+The Eater List of New York City Slices. #pizza 
+
+<br> 
+
+<https://ny.eater.com/maps/best-pizza-slice-nyc>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+No funding, no future: Emory students will graduate into hopelessness. 
+
+<br> 
+
+<https://www.emorywheel.com/article/2025/02/no-funding-no-future-emory-students-will-graduate-into-hopelessness>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+Heather Cox Richardson’s nightly report. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-7-2024-144?publication_id=20533&post_id=156719026&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Trump Fires National Archives Director Colleen Shogan
+
+date: 2025-02-08, from: 404 Media Group
+
+“This evening, President Trump fired me. No cause or reason was cited." 
+
+<br> 
+
+<https://www.404media.co/trump-fires-national-archives-director-colleen-shogan/>
+
+---
+
+## Broken Bits
+
+date: 2025-02-08, updated: 2025-02-08, from: Tedium site
+
+Bitly, the link-shortening service used by millions, decides it’s going to drop an ad between you and your link. Don’t like it? It’ll cost ya. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16958500/bitly-terms-of-service-change>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
+
+The Sims re-release shows what’s wrong with big publishers and single-player games. 
+
+<br> 
+
+<https://arstechnica.com/gaming/2025/02/the-sims-re-release-shows-whats-wrong-with-big-publishers-and-single-player-games/>
+
+---
+
+## Minimizing the runtime of a SQL DAG
+
+date: 2025-02-08, from: Max Halford Blog
+
+<p>I recently looked into reducing the runtime of <a href="https://www.carbonfact.com/">Carbonfact</a>&rsquo;s SQL DAG. Our DAG is made up of roughly 160 SQL queries. It takes about 10 minutes to run with BigQuery, using on-demand pricing. It&rsquo;s decent. However, the results of our DAG feed customer dashboards, and we have the (bad) habit of refreshing the DAG several times a day. Reducing the runtime by a few minutes can be a nice quality-of-life improvement.</p> 
+
+<br> 
+
+<https://maxhalford.github.io/blog/minimizing-sql-dag-runtime/>
 

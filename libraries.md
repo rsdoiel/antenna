@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-02-14 07:09:09
+updated: 2025-02-15 07:08:08
 ---
 
 # libraries
 
-(date: 2025-02-14 07:09:09)
+(date: 2025-02-15 07:08:08)
+
+---
+
+## January/February 2025
+
+date: 2025-02-14, from: Association of Research Libraries News
+
+<p>Last Updated on February 14, 2025, 3:49 pm ET ARL Public Policy Briefing (January/February 2025) This issue includes: AI Policy CARL Participates in AI Consultation Copyright and Fair Use/Fair Dealing...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/january-february-2025/">January/February 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/january-february-2025/>
+
+---
+
+## Poetry, by Edward Thomas
+
+date: 2025-02-14, from: Standard Ebooks, new releaases
+
+A collection of poetry by Edward Thomas. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/edward-thomas/poetry>
 
 ---
 
@@ -20,6 +46,18 @@ date: 2025-02-14, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/02/14/upholding-our-legacy-of-deia/>
+
+---
+
+## Announcing the new OpenCitations Logo: a fresh look to reflect our vision
+
+date: 2025-02-14, from: Open Citation blog at Hypotheses.org
+
+When navigating our social media platforms in the past three days, you may have noticed a blurred and colourful spot in the place of our usual logo. We hope we didn&#8217;t worry you too much, generating alarming thoughts like “Someone has hacked the OpenCitations profile!” or even simple ones like “Do I have a smudge on my screen?”. That blurry image was just meant to spark interest and curiosity and today it has been replaced by an intriguing character accompanying the name “OpenCitations”. It’s &#8230; <a href="https://opencitations.hypotheses.org/3797" class="more-link">Continue reading <span class="screen-reader-text">Announcing the new OpenCitations Logo: a fresh look to reflect our vision</span></a> 
+
+<br> 
+
+<https://opencitations.hypotheses.org/3797>
 
 ---
 

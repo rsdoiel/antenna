@@ -1,11 +1,71 @@
 ---
 title: ham radio
-updated: 2025-02-14 07:09:06
+updated: 2025-02-15 07:08:05
 ---
 
 # ham radio
 
-(date: 2025-02-14 07:09:06)
+(date: 2025-02-15 07:08:05)
+
+---
+
+## ARRL Headquarters will be closed on Monday, February 17, 2025
+
+date: 2025-02-14, from: Amateur Radio Relay League News
+
+<p>ARRL Headquarters will be closed on Monday, February 17, 2025, in observance of President’s Day. There won't be any W1AW bulletins or code practice that day. ARRL HQ will reopen on Tuesday, February 18, 2025 at 8 AM EST.</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-headquarters-will-be-closed-on-monday-february-17-2025>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-02-14, from: Amateur Radio Relay League News
+
+<p>NOAA reports a G1 (Minor) geomagnetic Storm Watch has been issued<br />for 14 Feb, 2025. A coronal hole high speed stream is expected to<br />move into a position favorable for enhanced interaction between the<br />high speed stream and Earth's magnetosphere. These enhancements are<br />likely to cause elevated geomagnetic responses, with G1 (Minor)<br />storm levels likely.<br /><br />From Spaceweather.com: Another solar wind stream i...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-1>
+
+---
+
+## RigExpert’s Administrative Office Destroyed in Russian Missile Attack — Production Remains Intact
+
+date: 2025-02-14, from: Amateur Radio Relay League News
+
+<p>On February 12, 2025, RigExpert’s administrative office, in Kyiv, Ukraine, was destroyed by a Russian ballistic missile. All employees are reported to be safe.</p><p>RigExpert is a leading manufacturer of antenna and cable analyzers and officials said they are committed to restoring operations as soon as possible.</p><p>“Our top priority is the safety of our team and the continuity of our operations,” said A...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/rigexpert-s-administrative-office-destroyed-in-russian-missile-attack-production-remains-intact>
+
+---
+
+## Grant will Help Young Amateur Radio Operators Become Contesters
+
+date: 2025-02-14, from: Amateur Radio Relay League News
+
+<p>A $10,000 grant to the University of Scranton,<i> </i>from the Frankford Radio Club (FRC)in Pennsylvania, will support the development of a contest dashboard that will leverage the popularity of amateur radio operator contests to benefit science, technology, students and Ham Radio Science Citizen Investigation (HamSCI) community members.</p><p>Through the grant, a team of university students, faculty, and FR...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/grant-will-help-young-amateur-radio-operators-become-contesters>
+
+---
+
+## Amateur Radio Emergency Service Renews Relationship with Red Cross in Puerto Rico
+
+date: 2025-02-14, from: Amateur Radio Relay League News
+
+<p>Amateur Radio Emergency Service® (ARES®) in the Puerto Rico Section of ARRL The Narional Association for Amateur Radio® has signed a renewal Memorandum of Understanding (MOU) with the American Red Cross Puerto Rico Region. The agreement establishes a framework of cooperation and a close working relationship with ARRL ARES volunteers.</p><p>Both ARES and the Red Cross agree that, with the resources of ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/amateur-radio-emergency-service-renews-relationship-with-red-cross-in-puerto-rico>
 
 ---
 

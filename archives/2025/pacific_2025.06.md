@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-02-14 07:09:05
+updated: 2025-02-15 07:08:05
 ---
 
 # pacific
 
-(date: 2025-02-14 07:09:05)
+(date: 2025-02-15 07:08:05)
 
 ---
 
@@ -244,6 +244,20 @@ date: 2025-02-14, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/14/nation-world-news/southern-california-braces-for-storm-damage-in-wildfire-areas/>
+
+---
+
+## Highly venomous sea snake found ashore in Hilo
+
+date: 2025-02-14, from: Hawaii Tribune Harold
+
+
+				<p>A highly venomous yellow-bellied sea snake was found washed up on the shore at Honoli&#8216;i Beach in Hilo last week, according to the state Department of Agriculture.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/14/hawaii-news/highly-venomous-sea-snake-found-ashore-in-hilo/>
 
 ---
 
@@ -2805,4 +2819,260 @@ date: 2025-02-09, from: Pacific Island Times
 <br> 
 
 <https://www.pacificislandtimes.com/post/caught-in-crossfire-between-ag-guam-governor-what-s-the-government-s-actual-plan-for-the-homeless>
+
+---
+
+## Life on the streets: A closer look at homelessness on Guam
+
+date: 2025-02-08, from: Pacific Island Times
+
+“My day-to-day life is about helping the homeless family out here,” Bowermaster said. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/life-on-the-streets-a-closer-look-at-homelessness-on-guam>
+
+---
+
+## Friends on the Lions bandwagon
+
+date: 2025-02-08, from: Pacific Island Times
+
+Lessons from Everyday Life By Theodore Lewis   Bridgman, MI —The bandwagon for the Detroit Lions this year has had to add many additional... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/friends-on-the-lions-bandwagon>
+
+---
+
+## A fishing season that’s over in a splash
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>As fishing goes, the sturgeon-spearing season on Black Lake in Cheboygan, Michigan, may be the shortest in the country: six fish long. Starting at 8 a.m. Feb. 1, about 500 fishers hoped to throw spears at sturgeon passing under the ice until the sixth and final fish was caught 17 minutes later, the fastest season ever.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/features/a-fishing-season-thats-over-in-a-splash/>
+
+---
+
+## Small plane with 10 dead found crashed in Alaska
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>The mangled wreckage of a plane with 10 bodies inside was found Friday near the western coast of Alaska and is believed to be the aircraft that vanished the day before, a spokesperson for the U.S. Coast Guard in Alaska said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/small-plane-with-10-dead-found-crashed-in-alaska/>
+
+---
+
+## Trump says he will announce reciprocal tariffs next week
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump indicated he was ready to broaden his trade war Friday, saying that he would announce reciprocal tariffs on other countries next week. Such a measure would raise the levies the United States charges on imports to match what other countries charge on American products, a move that could trigger new trade fights.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trump-says-he-will-announce-reciprocal-tariffs-next-week/>
+
+---
+
+## US job growth slows in January; unemployment rate at 4.0%
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. job growth slowed more than expected in January after robust gains in the prior two months, but a 4.0% unemployment rate probably will give the Federal Reserve cover to hold off cutting interest rates at least until June.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/us-job-growth-slows-in-january-unemployment-rate-at-4-0/>
+
+---
+
+## Trump says he will dismiss Kennedy Center board members and install himself as chair
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump announced his intention Friday to bring the John F. Kennedy Center for the Performing Arts in Washington more firmly under his control, saying he would dismiss several board members and install himself as chair.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trump-says-he-will-dismiss-kennedy-center-board-members-and-install-himself-as-chair/>
+
+---
+
+## Sweden to tighten gun laws after mass shooting at school
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>OREBRO, Sweden &#8212; Sweden&#8217;s right-wing government said on Friday it would seek to tighten gun laws in the wake of the country&#8217;s deadliest mass shooting at an adult education center where the attacker appeared to have used several of his own licensed rifles.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/sweden-to-tighten-gun-laws-after-mass-shooting-at-school/>
+
+---
+
+## Young aides emerge as enforcers in Musk’s broadside against government
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; At the end of his third week bulldozing through the federal government, Elon Musk sat down to give Vice President JD Vance a 90-minute briefing on his efforts to dismantle the bureaucracy. Musk was not alone.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/young-aides-emerge-as-enforcers-in-musks-broadside-against-government/>
+
+---
+
+## State high court probes conditions of Maui wildfires settlement
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Supreme Court justices posed many exacting, and sometimes skeptical, questions Thursday to attorneys in a case pertaining to the validity of a $4 billion deal to settle Maui wildfire litigation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/hawaii-news/state-high-court-probes-conditions-of-maui-wildfires-settlement/>
+
+---
+
+## Judge says he will freeze elements of Trump plan to shut down USAID
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge said Friday that he would order the Trump administration to halt for now some elements of its attempt to shut down the United States Agency for International Development.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/judge-says-he-will-freeze-elements-of-trump-plan-to-shut-down-usaid/>
+
+---
+
+## Trump’s executive orders leave imprint on the Fed
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump has so far restrained himself from trying to meddle with the Federal Reserve on matters related to monetary policy during his second term. But some of the more than 50 executive orders he has signed since returning to the White House are leaving an imprint on the central bank.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trumps-executive-orders-leave-imprint-on-the-fed/>
+
+---
+
+## Be ready for Valentine’s Day, only a week away
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>Valentine&#8217;s Day is almost upon us so it is important to tell your loved ones how much you care.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/features/be-ready-for-valentines-day-only-a-week-away/>
+
+---
+
+## Police ID motorcyclist killed in Pahoa crash
+
+date: 2025-02-08, from: Hawaii Tribune Harold
+
+
+				<p>Police have identified the motorcyclist who died in a traffic collision involving a dump truck in Pahoa on Feb. 3 as 36-year-old Wallace Zimmerman of Pahoa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/08/hawaii-news/police-id-motorcyclist-killed-in-pahoa-crash/>
+
+---
+
+## Coast Guard finds wreckage of missing Alaska plane; all 10 on board killed
+
+date: 2025-02-08, updated: 2025-02-09, from: Marianas Variety
+
+(Reuters) — The U.S. Coast Guard in Alaska found the wreckage of a small plane atop frozen sea ice on Friday, after the aircraft suddenly lost altitude on Thursday and the crash killed all 10 people on board, officials said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/coast-guard-finds-wreckage-of-missing-alaska-plane-all-10-on-board-killed/article_23c52616-e5db-11ef-aea6-a7caa5ed0707.html>
+
+---
+
+## 24 football players selected academic All-Mountain West
+
+date: 2025-02-08, from: University of Hawaiʻi News
+
+<p>To be eligible for Academic All-Conference honors, student-athletes must maintain a cumulative <abbr title="grade point average">GPA</abbr> of 3.0 or better.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/uh-football-academic-all-mountain-west/">24 football players selected academic All-Mountain West</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/uh-football-academic-all-mountain-west/>
+
+---
+
+## Donahue named preseason All-Big West, baseball ‘Bows picked fourth
+
+date: 2025-02-08, from: University of Hawaiʻi News
+
+<p>The ‘Bows open the 2025 season on February 14 against Marshall at Les Murakami Stadium.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/baseball-all-big-west-preseason/">Donahue named preseason All-Big West, baseball ‘Bows picked fourth</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/baseball-all-big-west-preseason/>
+
+---
+
+## Kauaʻi CC works to fund scholarship for graduating island seniors
+
+date: 2025-02-08, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Hoolei">Ho&#699;olei</span> Scholarship Fund aims to cover first-year tuition (after financial aid) for every senior graduating from a public or charter high school on <span aria-label="Kauai">Kaua&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/kauai-cc-works-to-fund-hoolei-scholarship/">Kauaʻi <abbr>CC</abbr> works to fund scholarship for graduating island seniors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/kauai-cc-works-to-fund-hoolei-scholarship/>
+
+---
+
+## How genetics, lifestyle promote cognitive health in older adults
+
+date: 2025-02-08, from: University of Hawaiʻi News
+
+<p>Work, volunteering and leisure activities are associated with better cognitive health in older adults, even for those at genetic risk for Alzheimer’s.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/07/cognitive-health-older-adults/">How genetics, lifestyle promote cognitive health in older adults</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/07/cognitive-health-older-adults/>
 

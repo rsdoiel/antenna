@@ -1,138 +1,31 @@
 ---
 title: weather
-updated: 2025-02-14 07:09:07
+updated: 2025-02-15 07:08:06
 ---
 
 # weather
 
-(date: 2025-02-14 07:09:07)
+(date: 2025-02-15 07:08:06)
 
 ---
 
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+## NHC Atlantic Outlook
 
-date: 2025-02-14, from: Eastern Pacific Basin GIS Data
+date: 2025-02-14, from: Graphical Tropical Weather Outlooks
 
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
-<br> 
-
-<https://www.nhc.noaa.gov/>
-
----
-
-## SPC - No watches are valid as of Fri Feb 14 13:54:02 UTC 2025
-
-date: 2025-02-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Fri Feb 14 13:54:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Fri Feb 14 13:54:02 UTC 2025
-
-date: 2025-02-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Fri Feb 14 13:54:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Feb 14, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-02-14, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0648 AM CST Fri Feb 14 2025
-
-Valid 141300Z - 151200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Severe thunderstorms are unlikely today and tonight.
-
-...Synopsis and Discussion...
-A large-scale upper trough over the western CONUS will further
-amplify today as it moves over the Southwest and southern/central
-Rockies. In association with this feature and related cold mid-level
-temperatures, isolated thunderstorms appear possible across parts of
-the southern Great Basin and Four Corners vicinity. But, overall
-coverage/intensity of this convection should be limited by meager
-low-level moisture.
-
-As a surface low eventually consolidates from the central into
-southern High Plains through tonight, low-level moisture will
-continue to stream northward across parts of TX and the lower MS
-Valley. Even though mid-level lapse rates are expected to remain
-modest, around 500-1000 J/kg of MUCAPE should eventually develop
-over these areas late this evening into the overnight hours.
-Large-scale ascent with the upper trough should generally remain to
-the west of this developing warm sector. But, strong low-level warm
-advection and related lift should encourage showers and
-thunderstorms to develop, especially after 06Z across portions of
-the Ozarks/Mid-South. Some of these elevated thunderstorms could
-produce hail, but this should generally remain sub-severe given the
-marginal thermodynamic environment forecast.
-
-..Gleason/Broyles.. 02/14/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=2">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_2d0_resize.gif" alt="Atlantic 2-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><a href="https://www.nhc.noaa.gov/gtwo.php?basin=atlc&amp;fdays=7">
+<img src="https://www.nhc.noaa.gov/xgtwo/resize/two_atl_7d0_resize.gif" alt="Atlantic 7-Day Graphical Outlook Image" width="400" height="326" /></a>
+<br /><br />
+<div class='textbackground'><div class='textproduct'><br />
+ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Tropical Weather Outlook<br>NWS National Hurricane Center Miami FL<br>700 PM EST Sat Nov 30 2024<br><br>For the North Atlantic...Caribbean Sea and the Gulf of America:<br><br>Tropical cyclone formation is not expected during the next 7 days.<br><br>This is the last regularly scheduled Tropical Weather Outlook of <br>the 2024 Atlantic Hurricane Season. Routine issuance of the <br>Tropical Weather Outlook will resume on May 15, 2025. During the <br>off-season, Special Tropical Weather Outlooks will be issued as <br>conditions warrant.<br><br>$$<br>Forecaster Beven<br><br>NNNN<br><br></div></div><br />
  
 
 <br> 
 
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-02-14, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0139 AM CST Fri Feb 14 2025
-
-Valid 151200Z - 161200Z
-
-...Synopsis...
-A surface low will continue to shift eastward and deepen across the
-southern Plains on D2 - Saturday. Moisture return will be ongoing
-across portions of eastern/central Texas eastern Oklahoma and the
-southeastern US. Further west across far western Texas, windy and
-dry conditions are expected amid a warm/dry westerly downslope flow
-regime. Relative humidity reductions to 15-20 percent and sustained
-winds 20-25 mph will overlap. Recent fuel guidance would suggest
-that fuel moisture is above normal in this region, though some
-drying can be expected on D1 - Friday. As a few additional hours of
-elevated to critical meteorological conditions are forecast on D2 -
-Saturday, additional response in drying of grasses and fine fuels
-will support maintaining an Elevated risk across portions of far
-western Texas.
-
-..Thornton.. 02/14/2025
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+<https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
 
 ---
 

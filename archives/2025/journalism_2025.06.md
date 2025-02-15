@@ -1,11 +1,199 @@
 ---
 title: journalism
-updated: 2025-02-14 07:09:08
+updated: 2025-02-15 07:08:07
 ---
 
 # journalism
 
-(date: 2025-02-14 07:09:08)
+(date: 2025-02-15 07:08:07)
+
+---
+
+## Winner Takes All: Fall in love with the decade’s best deep-cut love songs this Valentine’s Day
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Love is in the air across Los Angeles.
+As Valentine’s Day causes couples to reflect on their relationships and sparks new romances, love songs of every genre continue to soundtrack important emotional moments and memories. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/winner-takes-all-fall-in-love-with-the-decades-best-deep-cut-love-songs-this-valentines-day/>
+
+---
+
+## Q&A: New Associate Vice Chancellor Steve Lurie talks campus safety, transparency
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Just 10 days after starting work as UCLA&#8217;s associate vice chancellor for campus and community safety, Steve Lurie discussed his plans for the role with campus politics editor Shiv Patel. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/qa-new-associate-vice-chancellor-steve-lurie-talks-campus-safety-transparency/>
+
+---
+
+## Album review: The Lumineers’ timely lyrics shine on ‘Automatic’ despite mediocre instrumentation
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Lumineers&#8217; newest album is automatically divergent from their previous works.
+Known for their stomp-and-holler sound and singalong melodies, The Lumineers are introducing a fresh note with their fifth studio album, &#8220;Automatic.&#8221; While the project consists of a laconic 11 songs spanning less than 33 minutes, its extraordinary lyrics provide a lasting impression, even when the instrumentation noticeably fizzles out. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/album-review-the-lumineers-timely-lyrics-shine-on-automatic-despite-mediocre-instrumentation/>
+
+---
+
+## AFSCME Local 3299 announces strike against UC for Feb. 26, 27
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+A major UC union announced Friday that it will go on a two-day strike later this month.
+The American Federation of State, County and Municipal Employees Local 3299 – which represents service, patient care and skilled crafts workers&#160;– called on its workers to strike Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/afscme-local-3299-announces-strike-against-uc-for-feb-26-27/>
+
+---
+
+## Armen Davoudian weaves together Persian, Armenian culture through poetry
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Armen Davoudian combined Persian and Armenian culture with English to reflect on life abroad and in the United States during a poetry reading Wednesday.
+Davoudian, a doctoral student studying English at Stanford, read poems about his mother, father, grandfather and others in his life at the Hammer Museum. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/armen-davoudian-weaves-together-persian-armenian-culture-through-poetry/>
+
+---
+
+## USC expects about 10% acceptance rate for 2029
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University got around 83,000 applicants for the incoming freshman class.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/usc-expects-about-10-acceptance-rate-for-2029/">USC expects about 10% acceptance rate for 2029</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/usc-expects-about-10-acceptance-rate-for-2029/>
+
+---
+
+## Nike After Dark tour visits USC Village
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event saw students run a 5K for the chance to win free new Nike Vomero 18s. </p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/nike-after-dark-tour-visits-usc-village/">Nike After Dark tour visits USC Village</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/nike-after-dark-tour-visits-usc-village/>
+
+---
+
+## USC launches new executive order resource website
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The page includes links to executive orders, agency memos and USC guidance.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/usc-launches-new-executive-order-resource-website/">USC launches new executive order resource website</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/usc-launches-new-executive-order-resource-website/>
+
+---
+
+## 2025 USG senatorial candidate profiles
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A closer look at the candidates running for USG senate.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/2025-usg-senatorial-candidate-profiles-2/">2025 USG senatorial candidate profiles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/2025-usg-senatorial-candidate-profiles-2/>
+
+---
+
+## USG leaders react to tumultuous year
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The organization lost a president and four senators for various reasons this year.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/usg-year-in-review/">USG leaders react to tumultuous year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/usg-year-in-review/>
+
+---
+
+## UTSA bolsters community for undocumented Trojans
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The new assembly provides resources to support the success of this population.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/undocumented-trojan-success-center/">UTSA bolsters community for undocumented Trojans</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/undocumented-trojan-success-center/>
+
+---
+
+## 2025 USG presidential candidate profiles
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A closer look at the eight candidates running for USG senate.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/2025-usg-presidential-candidate-profiles/">2025 USG presidential candidate profiles</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/2025-usg-presidential-candidate-profiles/>
+
+---
+
+## Expressions of Love
+
+date: 2025-02-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/expressions-of-love/>
+
+---
+
+## USC replaces apartment meal plan with more expensive option
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Flex120 meal swipes works at most restaurants in Tutor Campus Center. </p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/usc-replaces-apartment-meal-plan-with-more-expensive-option/">USC replaces apartment meal plan with more expensive option</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/usc-replaces-apartment-meal-plan-with-more-expensive-option/>
 
 ---
 
@@ -19,6 +207,76 @@ To highlight the missing and murdered Indigenous women crisis, the Victory Theat
 <br> 
 
 <https://dailybruin.com/2025/02/14/ucla-alumni-led-four-women-in-red-raises-awareness-for-indigenous-women/>
+
+---
+
+## Classifieds – February 14, 2025
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/classifieds-february-14-2025/">Classifieds &#8211; February 14, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/classifieds-february-14-2025/>
+
+---
+
+## The Weekly Frame III: Art
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Art is more than just what you find in these art schools; there is art within every aspect of life and even within the process of making more art.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/the-weekly-frame-iii-art/">The Weekly Frame III: Art</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/the-weekly-frame-iii-art/>
+
+---
+
+## Lessons in globetrotting
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Physical and mental health and academic obligations should be balanced during study abroad to foster a far more adaptable approach to life.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/lessons-in-globetrotting/">Lessons in globetrotting</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/lessons-in-globetrotting/>
+
+---
+
+## Stephen Sondheim shines in ‘Old Friends’
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Sondheim Review is a truly celebratory evening honoring the musical theatre legend.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/stephen-sondheim-shines-in-old-friends/">Stephen Sondheim shines in ‘Old Friends’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/stephen-sondheim-shines-in-old-friends/>
+
+---
+
+## Alex Coco — from Trojan to trailblazer
+
+date: 2025-02-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The 2016 SCA alum is nominated for Best Picture at the 97th Academy Awards.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/14/alex-coco-from-trojan-to-trailblazer/">Alex Coco — from Trojan to trailblazer</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/14/alex-coco-from-trojan-to-trailblazer/>
 
 ---
 
@@ -73,6 +331,19 @@ The term “situationship” has emerged as the latest relationship type among G
 <br> 
 
 <https://dailybruin.com/2025/02/13/second-take-situationships-are-a-tool-to-circumvent-responsibility-shaped-by-social-media/>
+
+---
+
+## USC women’s basketball has tough test in undefeated Bruins
+
+date: 2025-02-13, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/02/13/usc-womens-basketball-has-tough-test-in-undefeated-bruins/">USC women&#8217;s basketball has tough test in undefeated Bruins</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/13/usc-womens-basketball-has-tough-test-in-undefeated-bruins/>
 
 ---
 
@@ -910,4 +1181,79 @@ Centered around Chicanas in lowrider culture, the CSUN Art Galleries “Bajitas 
 <br> 
 
 <https://sundial.csun.edu/189748/arts-entertainment/csun-art-galleries-celebrate-chicanas-with-bajitas-y-suavecitas-exhibit/>
+
+---
+
+## Westwood power outage affects apartments around UCLA
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 9 at 11:05 p.m.</em>
+Some Westwood residents lost power twice Saturday.
+Residents living on Glenrock Avenue, Levering Avenue and Midvale Avenue reported power outages beginning around 2:10 p.m., with power still out as of 3:35 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/08/westwood-power-outage-affects-apartments-around-ucla/>
+
+---
+
+## VOVE’s End of Year Showcase: A celebration of music
+
+date: 2025-02-08, from: The Sundail (CSUN Student Newspaper)
+
+CSUN&#8217;s student-run record label, Five of Five Entertainment (VOVE), wrapped up last semester with their high-energy End of Year Showcase on Sunday, Dec. 15, 2024. The event was hosted by... 
+
+<br> 
+
+<https://sundial.csun.edu/189710/arts-entertainment/voves-end-of-year-showcase-a-celebration-of-music/>
+
+---
+
+## On The Steps Episode 2: UCLA celebrates Lunar New Year
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+This week, the Daily Bruin looks at how students welcomed the Year of the Snake. We also take you inside Cherry Pop Records, UCLA&#8217;s student run record label, and the most recent men&#8217;s tennis game against Berkeley. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/on-the-steps-episode-2-ucla-celebrates-lunar-new-year/>
+
+---
+
+## Helping Hands Across the Country for LA Fire Relief
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Across the nation, people are coming together to support those impacted by the devastating Los Angeles fires. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/helping-hands-across-the-country-for-la-fire-relief/>
+
+---
+
+## Nimoy Theater wins architectural award for renovations highlighting historic roots
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb 9 at 11:50 p.m.</em>
+The newly renovated Nimoy Theater in Westwood won the Best Hospitality Project award at the Los Angeles Business Council’s 54th Annual Architectural Awards this October. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/nimoy-theater-wins-architectural-award-for-renovations-highlighting-historic-roots/>
+
+---
+
+## Santa Anita Donation Drive Unites Community After Wildfires
+
+date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A massive impromptu donation center for victims devastated by the Eaton and Palisades wildfires was held in the parking lot of the Santa Anita Racetrack in Arcadia CA on January 12. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/07/santa-anita-donation-drive-unites-community-after-wildfires/>
 

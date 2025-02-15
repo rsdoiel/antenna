@@ -1,11 +1,115 @@
 ---
 title: writing
-updated: 2025-02-14 07:09:07
+updated: 2025-02-15 07:08:07
 ---
 
 # writing
 
-(date: 2025-02-14 07:09:07)
+(date: 2025-02-15 07:08:07)
+
+---
+
+## 😈 #236 - Hostility Toward the User
+
+date: 2025-02-14, from: Interesting, a blog on writing
+
+When your frustration is a feature, not a bug. 
+
+<br> 
+
+<https://inneresting.substack.com/p/236-hostility-toward-the-user>
+
+---
+
+## New Entangled YA Imprints
+
+date: 2025-02-14, from: Locus Magazine
+
+<p>Entangled Publishing has announced two new YA imprints, Mayhem Books and Mischief Books.</p>
+<p>Mayhem Books is meant for teens 16 and older &#8220;who aren&#8217;t ready for New Adult fiction just yet, but are searching for a similar level of romance and action.&#8221; Their first titles, due later this year, will come from Elise Kova, Shannon J. Spann, and Nisha J. Tuli.</p>
+<p>Mischief Books is coming in 2026, and is directed  <a href="https://locusmag.com/2025/02/new-entangled-ya-imprints/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/new-entangled-ya-imprints/>
+
+---
+
+## 12:01 Books Imprint
+
+date: 2025-02-14, from: Locus Magazine
+
+<p>Atria and Emily Bestler Books have announced the launch of a new horror imprint, 12:01 Books, to &#8220;develop and publish a carefully curated list of horror novels, working with emerging and established creators and authors to launch compelling books and films.&#8221;</p>
+<p>The imprint was created in partnership with producer Scott Glassgold of 12:01 films and Emily Bestler, publisher of Emily Bestler Books, with the deal facilitated by Liz Parker of  <a href="https://locusmag.com/2025/02/1201-books-imprint/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/1201-books-imprint/>
+
+---
+
+## The Garden by Nick Newman: Review by Gary K. Wolfe
+
+date: 2025-02-14, from: Locus Magazine
+
+<p><strong>The Garden</strong>, Nick Newman (Doubleday UK 978-0-85752-999-2, £16.99, 288pp, hc) January 2025. (Putnam 978-0-59371-773-8, $29.00, 320pp, hc) February 2025.</p>
+<p>Depending on your frame of reference, any tale of two sisters living in ritualized isolation until some guy shows up to disrupt everything can evoke anything from Tennessee Williams to Shirley Jackson, especially <strong>We Have Always Lived in the Castle</strong>. The latter seems especially apt with Nick Newman’s <strong>The </strong> <a href="https://locusmag.com/2025/02/the-garden-by-nick-newman-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-garden-by-nick-newman-review-by-gary-k-wolfe/>
+
+---
+
+## Featured Friday: Love Stinks
+
+date: 2025-02-14, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we dump Valentines Day and focus on how most love stories end &#8212; heartbreak. Whether because of cheating, divorce, murder or just naturally drifting apart, these characters all know the pain of relationships not [&#8230;]
+The post <a href="https://johnaugust.com/2025/featured-friday-love-stinks">Featured Friday: Love Stinks</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/featured-friday-love-stinks>
+
+---
+
+## Sleeping Worlds Have No Memory by Yaroslav Barsukov: Review by Paul Di Filippo
+
+date: 2025-02-14, from: Locus Magazine
+
+<p><strong>Sleeping Worlds Have No Memory</strong>, Yaroslav Barsukov (CAEZIK SF &#38; Fantasy ‎ 978-1647101367, trade paperback, 300pp, $19.99) November 2024</p>
+<p>Simply put, this is the most impressive debut novel I have encountered since Simon Jimenez’s <b>The Vanished Birds</b>. It actually has a lot of similarities to that previous exemplar. Not in subject matter—<b>Birds</b> was a postmodern space opera, while <b>Memory</b> is an almost New Weird science fantasy—but in  <a href="https://locusmag.com/2025/02/sleeping-worlds-have-no-memory-by-yaroslav-barsukov-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/sleeping-worlds-have-no-memory-by-yaroslav-barsukov-review-by-paul-di-filippo/>
+
+---
+
+## The Year in Review 2024 by Russell Letson
+
+date: 2025-02-14, from: Locus Magazine
+
+<p><strong>Trawling and Tunneling Through the Genres</strong></p>
+<p>I did not cast my net very wide this year – nine 2024 titles, with a couple of late 2023s and one early 2025 item included in the calen­dar year’s columns – and while the catch was small, everything I caught was a keeper, evidence of the variety that the fields of science fiction and fantasy continue to generate. I also noticed (again) how  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-russell-letson/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-russell-letson/>
+
+---
+
+## Clarkesworld: Short Fiction Reviews by A.C. Wise
+
+date: 2025-02-14, from: Locus Magazine
+
+<p>Clarkesworld 11/24</p>
+<p><strong>Resa Nelson</strong>’s “<strong>LuvHome™</strong>” in Clarkes­world’s November issue adopts a light tone to tell the story of a woman locked out by her smart house, which claims to be doing it for her own good, refusing to let her back in until she meets new people, changes her habits, and gets out of her current rut. “<strong>Luminous Glass, Vibrant Seeds</strong>” by <strong>D.A. Xiaolin Spires </strong> <a href="https://locusmag.com/2025/02/clarkesworld-short-fiction-reviews-by-a-c-wise-5/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/clarkesworld-short-fiction-reviews-by-a-c-wise-5/>
 
 ---
 
@@ -85,7 +189,7 @@ date: 2025-02-13, from: Final Draft blog
 <div class="hs-featured-image-wrapper"> 
  <a href="https://blog.finaldraft.com/write-on-comedy-writing-with-brent-forrester" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Emmy-Winning%20Writer%20Brent%20Forrester.png" alt="Write On Logo of a cell phone featuring a poster of 'The Office' with headphones around it. Green amplitude shown in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
 </div> 
-<p>“My recommendation to anybody who is writing animation is to take advantage of the things you can do in animation that you can’t do in live action, which is to spend an infinite amount of money, right? If you and I are going to write a scene and you say, ‘Oh, let’s set it on a battleship, but then space aliens come and suddenly we’re transported to Jupiter,’ it better be animation because if it’s not, we’re never going to be able to shoot that. But if it is animation, that’s exactly what we should be doing all the time. You want to create the most expensive set in the world because it costs nothing to draw that battleship and send us to Jupiter. And that’s really the glory of an animated show,” says Brent Forrester, about what he learned writing for <em>The Simpsons</em> for three seasons.&nbsp;<br><br>On today’s episode, we chat with Emmy-winning writer Brent Forrester about his prolific comedy writing career that includes shows like <em>The Office, King of the Hill</em> and <em>Space Force</em>. He shares why the writing room for <em>The Simpsons</em> was so intimidating and his surprise when <em>The Office</em> showrunners had to teach him the specific tone and structure for the show after he turned in his first episode and just wasn’t getting it.&nbsp;<br><br>“I had gotten the tone wrong – it was largely my attempt to make it wall to wall funny. I wasn’t getting that you really had to make it serious. There were other aspects, too, that I had to pick up. One of them is the use of what are called ‘talking heads.’ It’s when the character speaks directly to camera. It comes from reality TV where they pull the subject of a reality show aside and ask them a question and they just speak directly to camera. So we stole that device and it’s<br>a great crutch for writers because one of the hardest things for us is getting the exposition across,” says Forrester.&nbsp;<br><br>He also shares his advice for writing a great TV pilot that will hook the reader and offers a simple formula for writing jokes by mixing the sacred with the profane.&nbsp;<br><br>To hear more, listen to the podcast.&nbsp;</p> 
+<p>“My recommendation to anybody who is writing animation is to take advantage of the things you can do in animation that you can’t do in live action, which is to spend an infinite amount of money, right? If you and I are going to write a scene and you say, ‘Oh, let’s set it on a battleship, but then space aliens come and suddenly we’re transported to Jupiter,’ it better be animation because if it’s not, we’re never going to be able to shoot that. But if it is animation, that’s exactly what we should be doing all the time. You want to create the most expensive set in the world because it costs nothing to draw that battleship and send us to Jupiter. And that’s really the glory of an animated show,” says Brent Forrester, about what he learned writing for <em>The Simpsons</em> for three seasons.&nbsp;<br><br>On today’s episode, we chat with Emmy-winning writer Brent Forrester about his prolific comedy writing career that includes shows like <em>The Office, King of the Hill</em> and <em>Space Force</em>. He shares why the writing room for <em>The Simpsons</em> was so intimidating and his surprise when <em>The Office</em> showrunners had to teach him the specific tone and structure for the show after he turned in his first episode and just wasn’t getting it.&nbsp;<br><br>“I had gotten the tone wrong – it was largely my attempt to make it wall to wall funny. I wasn’t getting that you really had to make it serious. There were other aspects, too, that I had to pick up. One of them is the use of what are called ‘talking heads.’ It’s when the character speaks directly to camera. It comes from reality TV where they pull the subject of a reality show aside and ask them a question and they just speak directly to camera. So we stole that device and it’s a great crutch for writers because one of the hardest things for us is getting the exposition across,” says Forrester.&nbsp;<br><br>He also shares his advice for writing a great TV pilot that will hook the reader and offers a simple formula for writing jokes by mixing the sacred with the profane.&nbsp;<br><br>To hear more, listen to the podcast.&nbsp;</p> 
 <div> 
  <br> 
  <div> 
@@ -628,4 +732,54 @@ The rules for the competition can be found <A HREF="https://ifdb.org/news?item=1
 <br> 
 
 <https://ifdb.org/news?item=162>
+
+---
+
+## 💭 #235 - The Golden Age of Nostalgia
+
+date: 2025-02-08, from: Interesting, a blog on writing
+
+There's never been a better time to remember the good old days. 
+
+<br> 
+
+<https://inneresting.substack.com/p/235-the-golden-age-of-nostalgia>
+
+---
+
+## She’s Always Hungry by Eliza Clark: Review by Ian Mond
+
+date: 2025-02-08, from: Locus Magazine
+
+<p><strong>She’s Always Hungry</strong>, Eliza Clark (Harper Perennial 978-0-06339-326-4, $17.99, 240pp, tp) November 2024.</p>
+<p>Eliza Clark has been on my radar for several years since her debut novel, <strong>Boy Parts</strong>, was released by Influx Press in 2020, followed by her best-selling second novel, <strong>Penance</strong>. (You won’t be surprised to learn that I own both but have read neither.) Her eclectic first collection, <strong>She’s Always Hungry</strong>, which gathers  <a href="https://locusmag.com/2025/02/shes-always-hungry-by-eliza-clark-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/shes-always-hungry-by-eliza-clark-review-by-ian-mond/>
+
+---
+
+## The Year in Review 2024 by Colleen Mondor
+
+date: 2025-02-08, from: Locus Magazine
+
+<p>As we are given carte blanche to write about books however we wish in these annual essays, I am going to indulge myself and share some thoughts on the titles I read in the past year that particularly impressed and/or made me happy. There were several surprises, including <strong>Annie LeBlanc Is Not Dead Yet </strong>by Molly Morris. This coming-of-age drama veers from the expected as soon as the reader realizes  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-colleen-mondor/>
+
+---
+
+## HWA News
+
+date: 2025-02-08, from: Locus Magazine
+
+<p>The Horror Writers Associa­tion (HWA) has announced a collaboration with the University of Pittsburgh Library System (ULS). ULS has committed to a ten-year Legacy Sponsorship for the HWA’s annual conference Stokercon starting in 2025. HWA says,</p>
+<p>The Archives &#38; Special Collections Department within the ULS is home to the prestigious horror studies collection which includes an extraordinary array of rare books, film and literary archives, pulps, comics, and much more.  <a href="https://locusmag.com/2025/02/hwa-news/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/hwa-news/>
 

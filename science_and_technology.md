@@ -1,11 +1,314 @@
 ---
 title: science and technology
-updated: 2025-02-14 07:09:06
+updated: 2025-02-15 07:08:05
 ---
 
 # science and technology
 
-(date: 2025-02-14 07:09:06)
+(date: 2025-02-15 07:08:05)
+
+---
+
+## SonicWall firewalls now under attack: Patch ASAP or risk intrusion via your SSL VPN
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Roses are red, violets are blue, CVE-2024-53704 is sweet for a ransomware crew</h4> <p>Miscreants are actively abusing a high-severity authentication bypass bug in unpatched internet-facing SonicWall firewalls following the public release of proof-of-concept exploit code.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/sonicwall_firewalls_under_attack_patch/>
+
+---
+
+## Huanan Zhang
+
+date: 2025-02-14, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">Huanan Zhang</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-14T16:35:31-05:00" title="Friday, February 14, 2025 - 16:35" class="datetime">Fri, 02/14/2025 - 16:35</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Dr. Huanan Zhang joined DARPA in January 2025 as a program manager in the Microsystems Technology Office.</p><p>His research interests include advanced semiconductor processing technologies and microsystems for biological applications.&nbsp;</p><p>Prior to DARPA, he served as a research associate professor in Chemical Engineering at the University of Utah.&nbsp;</p><p>Zhang holds a Bachelor’s Degree in chemical engineering from the Massachusetts Institute of Technology and a PhD in chemical engineering from the University of Michigan.</p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="#contact"><span>Contact me</span><svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/about/people/huanan-zhang>
+
+---
+
+## NASA Inspires High School Engineering Club
+
+date: 2025-02-14, from: NASA breaking news
+
+A group of enthusiastic high school students recently visited NASA to learn about facilities and capabilities that enable the agency’s researchers to explore, innovate, and inspire for the benefit of humanity. Engineering club students from Palmdale High School in California were able to connect classroom lessons to real-world applications, sparking curiosity and ambition while at [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-inspires-high-school-engineering-club/>
+
+---
+
+## 2024 State-of-the-Art Small Spacecraft Technology Report is Released
+
+date: 2025-02-14, from: NASA breaking news
+
+NASA’s Small Spacecraft Systems Virtual Institute (S3VI) is&#160;pleased to announce the official release of the highly anticipated 2024 State-of-the-Art Small Spacecraft Technology report. This significant accomplishment was made possible by the contributions of numerous dedicated people across NASA who graciously supported the preparation of the document as authors and reviewers. We also want to extend [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/2024-state-of-the-art-small-spacecraft-technology-report-is-released/>
+
+---
+
+## Our world faces 'unprecedented' spike in electricity demand
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>And it&#39;s not just datacenters driving the need for 3,500 TWh of new energy generation by 2027</h4> <p>The world is going to need a lot of new electricity generation in the next three years to keep up with an &#34;unprecedented&#34; spike in demand, says the International Energy Agency (IEA) – and it&#39;s going to be a tough goal to meet. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/iea_global_electricity_demand/>
+
+---
+
+## Summary of the 10th DSCOVR EPIC and NISTAR Science Team Meeting
+
+date: 2025-02-14, from: NASA breaking news
+
+Introduction The 10th Deep Space Climate Observatory (DSCOVR) Earth Polychromatic Camera (EPIC) and National Institute of Standards and Technology (NIST) Advanced Radiometer [NISTAR] Science Team Meeting (STM) was held October 16–18, 2024. Over 50 scientists attended, most of whom were from NASA’s Goddard Space Flight Center (GSFC), with several participating from other NASA centers, U.S. universities, and U.S. Department of […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/summary-of-the-10th-dscovr-epic-and-nistar-science-team-meeting/>
+
+---
+
+## NASA Sets Coverage of Firefly’s First Robotic Commercial Moon Landing
+
+date: 2025-02-14, from: NASA breaking news
+
+With a suite of NASA science and technology on board, Firefly Aerospace is targeting no earlier than 3:45 a.m. EST on Sunday, March 2, to land the Blue Ghost lunar lander on the Moon. Blue Ghost is slated to touch down near Mare Crisium, a plain in the northeast quadrant on the near side of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-of-fireflys-first-robotic-commercial-moon-landing/>
+
+---
+
+## An Afternoon of Family Science and Rocket Exploration in Alaska
+
+date: 2025-02-14, from: NASA breaking news
+
+On Tuesday, January 28th, Fairbanks BEST Homeschool joined the Geophysical Institute for an afternoon of rocket exploration, hands-on activities, and stargazing inside a planetarium. This event was free and open to the public. Despite their frigid winter weather, 200 attendees were curious about the scientific endeavors of Alaska-based researchers alongside cutting-edge investigations conducted by NASA […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/an-afternoon-of-family-science-and-rocket-exploration-in-alaska/>
+
+---
+
+## A Stellar Bouquet
+
+date: 2025-02-14, from: NASA breaking news
+
+This image, released on Feb. 12, 2025, is the deepest X-ray image ever made of the spectacular star forming region called 30 Doradus. By combining X-ray data from NASA’s Chandra X-ray Observatory (blue and green) with optical data from NASA’s Hubble Space Telescope (yellow) and radio data from the Atacama Large Millimeter/submillimeter Array (orange), this [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/a-stellar-bouquet/>
+
+---
+
+## Users await the fine print on SAP Business Suite reboot
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Cloud-based revival should come with &#39;a corresponding discount scale,&#39; customers say</h4> <p>SAP users have asked for transparent discounting and commercial arrangements following the business app giant&#39;s relaunch of Business Suite and extended alliance with Databricks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/sap_business_suite_revival/>
+
+---
+
+## David Meyer
+
+date: 2025-02-14, from: Darpa News
+
+<span class="field field--name-title field--type-string field--label-hidden">David Meyer</span>
+<span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>thomas.sakell…</span></span>
+<span class="field field--name-created field--type-created field--label-hidden"><time datetime="2025-02-14T12:02:36-05:00" title="Friday, February 14, 2025 - 12:02" class="datetime">Fri, 02/14/2025 - 12:02</time>
+</span>
+
+      <div class="field field--name-field-paragraph-type field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">  <div class="content-width-x-large margin-x-auto paragraph paragraph--type--_-columns-2-1 paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+        <div class="layout layout--twocol-two-one">
+          <div class="layout__region layout__region--top">
+        
+      </div>
+    
+          <div class="layout__region layout__region--first">
+          
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--body paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-body-with-summary field--type-text-with-summary field--label-hidden field__item"><p>Dr. David Meyer joined DARPA in February 2025 as a program manager in the Microsystems Technology Office.&nbsp;</p><p>His research interests include electronic, optoelectronic, and acoustic applications of ultrawide bandgap materials and devices, parallelization of microscale and nanoscale additive manufacturing, and multifunctional distributed membrane microsystems.&nbsp;</p><p>Meyer previously served as the head of the Electromagnetic Technologies Branch at the Naval Research Laboratory, where he managed a host of basic and applied research projects related to emerging thin film materials and microwave &amp; millimeter-wave analog electronics for defense applications.&nbsp;</p><p>Meyer received his doctorate in materials science and engineering from Pennsylvania State University, where his research focused on the development of silicon nitride passivation layers for gallium nitride high electron mobility transistors.</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p></div>
+      
+
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--second">
+          <div class="content-width-x-large margin-x-auto paragraph paragraph--type--from-library paragraph--view-mode--default">
+    
+              <div class="grid-col-fill">
+      
+      
+            <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__item">
+  <div class="content-width-x-large margin-x-auto desktop:padding-top-0 mobile-lg:padding-top-5 paragraph paragraph--type--right-rail paragraph--view-mode--default">
+    
+      
+      <div class="field field--name-field-right-rail-paragraph field--type-entity-reference-revisions field--label-hidden field__items mx-0 min-[576px]:mx-6 max-[1420px]:mx-0">
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+            <div class="clearfix text-formatted field field--name-field-text field--type-text-long field--label-hidden field__item"><p>&nbsp;</p><p><a class="primary-button-light primary-button-padding" href="#contact"><span>Contact me</span><svg id="right" viewBox="0 -7 30 35"><path d="M0.5 9.35772H20.9956L14.2001 2.29941L16.4134 0L27 11L16.4134 22L14.2001 19.7006L20.9956 12.6423H0.5V9.35772Z" fill="currentColor" /></svg></a></p></div>
+      
+
+      </div>
+</div>
+          </div>
+  
+
+      </div>
+</div>
+      
+
+              </div>
+      
+      </div>
+
+      </div>
+    
+          <div class="layout__region layout__region--bottom">
+        
+      </div>
+      </div>
+
+
+              </div>
+      
+      </div>
+</div>
+              <div class="field__item">
+  <div class="content-width-x-large margin-x-auto mobile-x-padding-full paragraph paragraph--type--text paragraph--view-mode--default">
+    
+      
+
+      </div>
+</div>
+          </div> 
+
+<br> 
+
+<https://drupal.darpa.mil/about/people/david-meyer>
+
+---
+
+## Datacenter energy demand in bitbarn 'capital of the world' Virginia nearly doubled in second half of 2024
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>Dominion Energy already eyeing another 26 GW worth of datacenter demand</h4> <p>Demand for electricity from datacenters in Virginia nearly doubled in the second half of 2024, power supplier Dominion Energy said of the region, which is home to &#34;Datacenter Alley&#34;.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/datacenter_power_virginia/>
+
+---
+
+## Why do younger coders struggle to break through the FOSS graybeard barrier?
+
+date: 2025-02-14, updated: 2025-02-14, from: The Register (UK I.T. News)
+
+<h4>The hurdles are higher than you might imagine</h4> <p><strong>FOSDEM 2025</strong>  Getting involved with open source projects is a great way to build experience in development, documentation, internationalization, and more – but it&#39;s not as easy as it should be.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/14/youngsters_in_foss/>
 
 ---
 
@@ -217,7 +520,7 @@ date: 2025-02-13, updated: 2025-02-14, from: The Register (UK I.T. News)
 
 date: 2025-02-13, from: NASA breaking news
 
-In Aug. 2024, a team of NASA researchers and partners gathered in Missoula, to test new drone-based technology for localized forecasting, or micrometeorology. Researchers attached wind sensors to a drone, NASA’s Alta X quadcopter, aiming to provide precise and sustainable meteorological data to help predict fire behavior. Wildfires are increasing in number and severity around [&#8230;] 
+In Aug. 2024, a team of NASA researchers and partners gathered in Missoula, Montana to test new drone-based technology for localized forecasting, or micrometeorology. Researchers attached wind sensors to a drone, NASA’s Alta X quadcopter, aiming to provide precise and sustainable meteorological data to help predict fire behavior. Wildfires are increasing in number and severity [&#8230;] 
 
 <br> 
 
@@ -395,7 +698,7 @@ A key element of the Gateway lunar space station has entered the cleanroom for f
 
 ## Diversity, equity, and inclusion is not an illusion, but it soon might be
 
-date: 2025-02-13, updated: 2025-02-13, from: The Register (UK I.T. News)
+date: 2025-02-13, updated: 2025-02-14, from: The Register (UK I.T. News)
 
 <h4>Global tech corps wrestle with policy disparity on either side of the Atlantic</h4> <p>Google may be the latest big tech corporation to scale back diversity, equity, and inclusion programs – but Arm, HPE, and Apple are going against the current direction of travel in their hiring and training policies.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -1785,4 +2088,52 @@ date: 2025-02-09, updated: 2025-02-09, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/09/asia_tech_news_in_brief/>
+
+---
+
+## Does DOGE have what it takes to actually tackle billions in US govt IT spending?
+
+date: 2025-02-08, updated: 2025-02-09, from: The Register (UK I.T. News)
+
+<h4>Tesla’s DIY ERP legend meets the messy reality of entrenched federal contracts</h4> <p><strong>Comment</strong>  Tesla reportedly decided not to upgrade its SAP&#39;s enterprise software a decade ago, opting to build its own system instead. Now, with Elon Musk heading up the Trump-blessed US Department of Government Efficiency (DOGE), his cost-cutting mindset could have major implications for federal IT spending - and the big tech vendors cashing in on government contracts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/08/doge_us_goverment_tech_spending/>
+
+---
+
+## France, UAE to drop €50B on AI mega-datacenter. Still nowhere near America’s $500B bet
+
+date: 2025-02-08, updated: 2025-02-08, from: The Register (UK I.T. News)
+
+<h4>Oh look, a mini Stargate, how quaint</h4> <p>The United Arab Emirates (UAE) and France this week announced plans for a one-gigawatt AI datacenter campus dedicated to advancing development of artificial intelligence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/08/uae_france_dc_ai/>
+
+---
+
+## New boss for Roscosmos as Yury Borisov binned
+
+date: 2025-02-08, updated: 2025-02-08, from: The Register (UK I.T. News)
+
+<h4>Vladimir Putin opens airlock after just three years</h4> <p>Roscosmos boss Yury Borisov has been fired from the Russian space agency by executive order of the country&#39;s president, Vladimir Putin.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/08/roscosmos_new_leader/>
+
+---
+
+## Amazon, Google asked to explain why they were serving ads on sites hosting CSAM
+
+date: 2025-02-08, updated: 2025-02-09, from: The Register (UK I.T. News)
+
+<h4>And US government adverts at that, say senators</h4> <p><strong>Updated</strong>  US Senators Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) on Friday sent letters to the CEOs of Amazon and Google asking why their ad businesses fund websites hosting child sexual abuse material (CSAM) and allow government ads to appear on sites with illegal imagery.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/08/amazon_google_accused_of_monetizing/>
 

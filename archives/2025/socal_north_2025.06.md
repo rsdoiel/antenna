@@ -1,11 +1,220 @@
 ---
 title: socal north
-updated: 2025-02-14 07:09:05
+updated: 2025-02-15 07:08:04
 ---
 
 # socal north
 
-(date: 2025-02-14 07:09:05)
+(date: 2025-02-15 07:08:04)
+
+---
+
+## Eviction protections for renters who lost jobs after the fires fails key LA City Council vote
+
+date: 2025-02-14, updated: 2025-02-15, from: The LAist
+
+After a contentious debate pitting landlords against renters — and councilmembers against each other — a post-fire eviction proposal didn’t secure enough votes to pass. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-fire-eviction-protections-proposal-vote>
+
+---
+
+## Housing advocates suing city of LA over rezoning requirements
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+The organizations accuse the city of failing to meet a state-mandated deadline for additional housing development. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/housing-advocates-suing-city-of-la-over-rezoning-requirements>
+
+---
+
+## Judge sets April hearing to consider shutdown of Los Padrinos juvenile hall
+
+date: 2025-02-14, updated: 2025-02-15, from: The LAist
+
+A state board found last year that the county repeatedly failed to meet minimum staffing requirements at the facility. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/judge-considers-shutdown-los-padrinos-juvenile-hall>
+
+---
+
+## Taco Bell Security Guard Fired After Viral Video of Him Slapping a Woman in the Face
+
+date: 2025-02-14, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="595" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?fit=1024%2C595&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?w=2104&amp;ssl=1 2104w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=1024%2C595&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=768%2C446&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=1536%2C892&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=2048%2C1189&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=1200%2C697&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=1568%2C911&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=2000%2C1162&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=400%2C232&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?resize=706%2C410&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Taco-Bell.jpg?fit=1024%2C595&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A coalition of African American leaders is calling for the immediate arrest of a Taco Bell Cantina security guard after a viral video revealed him hitting an African American woman [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/14/taco-bell-security-guard-fired-after-viral-video-of-him-slapping-a-woman-in-the-face/">Taco Bell Security Guard Fired After Viral Video of Him Slapping a Woman in the Face</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/14/taco-bell-security-guard-fired-after-viral-video-of-him-slapping-a-woman-in-the-face/>
+
+---
+
+## People remember the things they lost in the LA fires — tangible or not
+
+date: 2025-02-14, updated: 2025-02-15, from: The LAist
+
+Families who lost their homes go about their days thinking of the things they lost in the deadly firestorm. 
+
+<br> 
+
+<https://laist.com/news/people-remember-the-things-they-lost-in-the-la-fires>
+
+---
+
+## Thousands of UC employees vote to strike amid federal funding threats
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+The three-day work stoppage over alleged unfair labor practices is later this month. 
+
+<br> 
+
+<https://laist.com/news/education/thousands-of-uc-employees-vote-to-strike-amid-federal-funding-threats>
+
+---
+
+## LA parking reform pioneer remembered for humor, dedication
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+Donald Shoup died at home in L.A. at age 86 earlier in February. Students and peers remember the former professor for his dry wit and relentless study of parking policy. 
+
+<br> 
+
+<https://laist.com/news/transportation/donald-shoup-parking-ucla-obit>
+
+---
+
+## How Trump’s K-12 plans will — and won’t — change California schools
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+Trump wants to change education on several fronts, but it’s not clear yet how that will play out in California. 
+
+<br> 
+
+<https://laist.com/news/education/trump-k-12-plans-california-schools>
+
+---
+
+## Front Row Center to Present “Disconnect” at The MAIN
+
+date: 2025-02-14, from: City of Santa Clarita
+
+<p>Join One Man on a Wild Journey into the Afterlife! Eric Clarke and Front Row Theatre are thrilled to announce the premiere of the original production Disconnect at The MAIN. Disconnect from your phones and join Frank on a wild ride into the afterlife in Disconnect, a theatrical production that explores many philosophical questions, including [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/14/front-row-center-to-present-disconnect-at-the-main/">Front Row Center to Present &#8220;Disconnect&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/14/front-row-center-to-present-disconnect-at-the-main/>
+
+---
+
+## Lancers end season on a high note
+
+date: 2025-02-14, from: Catalina Islander
+
+Comeback forces tie-breaker, but Avalon comes up short The Avalon boys basketball team ended its season on Wednesday, Feb. 5, against Webb High School 52-39 on the mainland, but they did not go down without a fight. The Lancers earned a 3rd place tie with Webb in league play by beating them at home in [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/lancers-end-season-on-a-high-note/>
+
+---
+
+## Catalina Island Health presents free talk about diabetes
+
+date: 2025-02-14, from: Catalina Islander
+
+Nearly 12% of the United States population has diabetes. That is approximately 38.4 million people. It is prevalent enough that you likely know, or are related to, someone who is diabetic. To better understand diabetes, Catalina Island Health has asked Dr. Aimee Warren to share information about it during an upcoming installment of its free [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/catalina-island-health-presents-free-talk-about-diabetes/>
+
+---
+
+## Harbor Activity Report: January 2025
+
+date: 2025-02-14, from: Catalina Islander
+
+On the 7th a local sail boat, without the owner on board, broke loose from the mooring and hit another sailboat during a Gale Warning. Harbor Patrol was able to get the concrete sail boat under tow and secured it to 2 moorings away from other moored vessels. On the 8th, the same concrete sail [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/harbor-activity-report-january-2025/>
+
+---
+
+## December 2024 visitor count up 0.7%
+
+date: 2025-02-14, from: Catalina Islander
+
+December 2024 saw 0.7% more visitors than December 2023, according to data recently released by Love Catalina Island Tourism Authority (also known as the Chamber of Commerce).“December’s total arrival count was above the three, five and ten-year averages by 4.3%, 33.9% and 28.2% respectively. Cross Channel Counts above include 818 arrivals at Two Harbors this [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/december-2024-visitor-count-up-0-7/>
+
+---
+
+## Pet of the Week: Elvis
+
+date: 2025-02-14, from: Catalina Islander
+
+This is Elvis. He is a sweet and gentle young guy, only 8 months old. Elvis loves snuggling up in a cozy corner, and gets along well with all other animals. For more information about our Pet of the Week, or donating toward care of this cat, contact catalinahumane.org, or call (310) 510-1900. Download QR 
+
+<br> 
+
+<https://thecatalinaislander.com/pet-of-the-week-elvis/>
+
+---
+
+## Should builders permit their own projects? Post-fire LA considers a radical idea
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+The recent spate of L.A. fires has led many different parties to re-examine state and local approaches to building approval. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/builders-permit-their-own-projects-post-fire-la>
+
+---
+
+## New poll details America's views on Trump's immigration plans: deportation, citizenship, border wall
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+A new NPR/Ipsos poll shows growing support for some restrictions on immigration. Still, many elements of President Trump's sweeping crackdown are unpopular with Democrats and independents. 
+
+<br> 
+
+<https://laist.com/news/immigration-poll-shows-growing-support-for-restrictions-but-deep-divisions-remain>
+
+---
+
+## ICE, schools and children: what families should know
+
+date: 2025-02-14, updated: 2025-02-14, from: The LAist
+
+If you're worried your family could be affected by Trump's mass deportation plans, here's what experts and advocates recommend telling young people about their rights. 
+
+<br> 
+
+<https://laist.com/news/politics/ice-schools-and-children-what-families-should-know>
 
 ---
 
@@ -243,7 +452,7 @@ With extreme weather comes the possibility of power cuts. Here are some tips for
 
 date: 2025-02-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02122025_California-Worship-Center_SN_11-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En el momento en que el Pastor Warryn S. Campbell II entró en el 214 de North Maclay Avenue en la ciudad de San Fernando, supo que finalmente había encontrado [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/12/el-california-worship-center-construye-un-hogar-en-la-ciudad-de-san-fernando/">El California Worship Center Construye un Hogar en la Ciudad de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -651,6 +860,20 @@ After thousands of homes were destroyed, many are looking for ways to make Los A
 
 ---
 
+## Santa Clarita Voices Episode Three Available Now
+
+date: 2025-02-11, from: City of Santa Clarita
+
+<p>The Official Podcast of Santa Clarita Explores the City’s Vast Parks System The City of Santa Clarita is excited to announce the release of the third episode of Santa Clarita Voices, the City’s official podcast that highlights the stories, experiences and conversations from City leaders, businesses and organizations. This episode features City of Santa Clarita [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/11/santa-clarita-voices-episode-three-available-now/">Santa Clarita Voices Episode Three Available Now</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/11/santa-clarita-voices-episode-three-available-now/>
+
+---
+
 ## Evacuation warnings issued in LA and Orange counties. Heaviest rain on the way
 
 date: 2025-02-11, updated: 2025-02-13, from: The LAist
@@ -696,7 +919,7 @@ date: 2025-02-11, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-02-11, updated: 2025-02-14, from: The LAist
 
-Yes, there's tacos, but there's so much more 
+Yes, there are tacos, but there's so much more. 
 
 <br> 
 
@@ -999,4 +1222,102 @@ The study, led by L.A.’s Reparations Advisory Commission, makes more than 60 r
 <br> 
 
 <https://laist.com/news/politics/reparations-study-los-angeles-black-communities>
+
+---
+
+## House burned to the ground by Eaton Fire in escrow for $550,000
+
+date: 2025-02-08, updated: 2025-02-09, from: The LAist
+
+The house was listed for $450,000. Its listing agent expects escrow to close early next week. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/house-burned-to-the-ground-by-eaton-fire-in-escrow-for-550-000>
+
+---
+
+## Santa Clarita Voices Is On Air!
+
+date: 2025-02-08, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin In today’s fast-paced world, finding the time to stay informed and learn about new subjects can be a challenge; which is why I have always been a huge fan of the ease and flexibility of podcasts whether I’m using my AirPods to listen while exercising, playing through the car while [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/08/santa-clarita-voices-is-on-air/">Santa Clarita Voices Is On Air!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/08/santa-clarita-voices-is-on-air/>
+
+---
+
+## Newsom OK’s a $25 million fund for California to sue the Trump administration
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+Gov. Gavin Newsom today approved $25 million for anticipated legal challenges against the Trump administration, positioning California to once again lead the resistance to the MAGA movement — just as the state is seeking federal assistance for the Los Angeles region’s recovery from devastating fires. 
+
+<br> 
+
+<https://laist.com/news/politics/newsom-oks-a-25-million-fund-for-california-to-sue-the-trump-administration>
+
+---
+
+## I thought my family keepsakes were gone after the fire. Then I found these volunteers
+
+date: 2025-02-08, updated: 2025-02-10, from: The LAist
+
+Churchgoers recruited by Samaritan’s Purse have helped hundreds of Altadenans recover valuables. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/samaritans-purse-rubble-eaton-fire>
+
+---
+
+## Go Fact Yourself quiz for February 8
+
+date: 2025-02-08, updated: 2025-02-12, from: The LAist
+
+This week on Go Fact Yourself, it's our "Best of Football" special. Think you know your Super Bowl facts? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-february-8>
+
+---
+
+## Which SoCal sea creatures are struggling? Check their grades
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+The Aquarium of the Pacific releases its first report card on local sea life. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/aquarium-of-the-pacific-socal-marine-species>
+
+---
+
+## Newsom urges both sides in Kaiser mental health strike to find resolution after fires
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+Gov. Gavin Newsom sent a letter to Kaiser and the union president urging them to settle the strike through mediation. 
+
+<br> 
+
+<https://laist.com/news/health/newsom-kaiser-mental-health-strike-mediation>
+
+---
+
+## Water utilities are flushing pipes to clean drinking water after the fires. Here’s what to know
+
+date: 2025-02-08, updated: 2025-02-08, from: The LAist
+
+Pushing out contaminants allows a fresh supply of water to come in. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-ladwp-water-quality-do-not-drink-eaton-palisades>
 

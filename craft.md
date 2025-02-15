@@ -1,11 +1,25 @@
 ---
 title: craft
-updated: 2025-02-14 07:09:11
+updated: 2025-02-15 07:08:10
 ---
 
 # craft
 
-(date: 2025-02-14 07:09:11)
+(date: 2025-02-15 07:08:10)
+
+---
+
+## Teisco Top Twenty Vintage Bass Guitar For Sale
+
+date: 2025-02-14, from: A Luthier's blog
+
+<p>&nbsp;</p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4qXO3eOwzsmSgG6CsvVEBXho4ryFmP6y4NJ0d73pMr-tcrvAJs7G2jLK8_5296njUTn-UT1bwdqpYV88mr-F-SbfC_lAm9uU3kUWmy_Am7pI9eciqjmqQh5TI75jl9MceHRuuafC1FcY7Y9OBI4Nl5gcDwv2yvvFsSkQM_CZQSmrIDx0qSRGq/s1800/tt1.JPG" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1013" data-original-width="1800" height="225" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4qXO3eOwzsmSgG6CsvVEBXho4ryFmP6y4NJ0d73pMr-tcrvAJs7G2jLK8_5296njUTn-UT1bwdqpYV88mr-F-SbfC_lAm9uU3kUWmy_Am7pI9eciqjmqQh5TI75jl9MceHRuuafC1FcY7Y9OBI4Nl5gcDwv2yvvFsSkQM_CZQSmrIDx0qSRGq/w400-h225/tt1.JPG" width="400" /></a></div><p class="MsoNormal"><span style="background-color: black;"><span style="color: white;">I’ve just put the Top Twenty bass, that you might have seen
+me restoring last year, up for sale on eBay </span><a href="https://www.ebay.co.uk/itm/176841327710?_skw=top+twenty+bass&amp;itmmeta=01JM2FKGGZESAS20Z75YDT1Y0K&amp;hash=item292c90845e:g:dDwAAOSwtL5nrLL7&amp;itmprp=enc%3AAQAKAAAA0FkggFvd1GGDu0w3yXCmi1e%2BKYodx5zrbBBgepfFxtOqoIHGtN99WaOzM7wNOPioybrUeRCL4j6VN6xSJa2GHoCDzN9%2FwGOib83PHs%2FBDMtZts8H52TbR9%2BrzgJ3gwKO3kzVgvZ3WxgVkmg1SEP04ndCK5ebx7jSyvDtHAHx9s56iI2bfqtVrNuN%2BwKkXdrvzBmLrbUsHzpAZaQKD6Zll4rYws69qmcDiI4AeMLzbxDGmz3KQ%2B50xcbl5YPeUqMwhSS37qL9paPUpOEH%2FCVz8H8%3D%7Ctkp%3ABk9SR9aIzs-gZQ" target="_blank"><span style="color: #fcff01;">here’s the listing.</span><span style="color: white;"><o:p></o:p></span></a></span></p><p class="MsoNormal"><span style="background-color: black; color: white;">I’ve had great fun playing it, but with my Phoenix bass now complete,
+it’s time to pass it on.</span><o:p></o:p></p><br /><p></p> 
+
+<br> 
+
+<https://guitar-maker.blogspot.com/2025/02/teisco-top-twenty-vintage-bass-guitar.html>
 
 ---
 
@@ -30,6 +44,18 @@ Here’s the news. We are closing out two of our historical reprints: Joseph Mox
 <br> 
 
 <https://blog.lostartpress.com/2025/02/13/closeout-sale-on-two-books/>
+
+---
+
+## Diamond Files vs. Traditional Files: The Best Tools for Fretwork & Nut Slotting
+
+date: 2025-02-12, from: Learn The Art of Lutherie
+
+ 
+
+<br> 
+
+<https://theartoflutherie.com/diamond-files/>
 
 ---
 
