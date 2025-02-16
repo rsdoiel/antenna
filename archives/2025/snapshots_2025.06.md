@@ -1,11 +1,439 @@
 ---
 title: snapshots
-updated: 2025-02-15 07:08:11
+updated: 2025-02-16 07:08:33
 ---
 
 # snapshots
 
-(date: 2025-02-15 07:08:11)
+(date: 2025-02-16 07:08:33)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-16, from: Dave Winer's linkblog)
+
+Timothy Snyder: Affirmative Action for Dictators. 
+
+<br> 
+
+<https://snyder.substack.com/p/affirmative-action-for-dictators?publication_id=310897&post_id=157240982&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## More Than You Wanted to Know About Tariffs
+
+date: 2025-02-16, from: Paul Krugman
+
+Trump has it all wrong. Surprise! 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/more-than-you-wanted-to-know-about>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-16, from: Dave Winer's linkblog)
+
+The three most likely ways Republicans will try to cut Medicaid. 
+
+<br> 
+
+<https://www.msnbc.com/opinion/msnbc-opinion/medicaid-cuts-republicans-trump-budget-rcna191928>
+
+---
+
+## The end of End-to-End?
+
+date: 2025-02-16, from: Status-Q blog
+
+If you have heard about the UK goverment&#8217;s recent demand to Apple that it be given access to everyone&#8217;s encrypted data, you may have sighed a deep sigh, or you may have wondered what all the fuss was about. This article by James O&#8217;Malley is a very nice summary.. Extract: &#8220;The British constitution has many <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/02/16/13063/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/02/16/13063/>
+
+---
+
+## Does this man never stop producing wonderful stuff?
+
+date: 2025-02-16, from: Status-Q blog
+
+Bill Bailey, a couple of years ago, though some of his comments are rather poignant today: (Direct Link to YouTube) 
+
+<br> 
+
+<https://statusq.org/archives/2025/02/16/13057/>
+
+---
+
+## Introducing Perplexity Deep Research
+
+date: 2025-02-16, updated: 2025-02-16, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research">Introducing Perplexity Deep Research</a></strong></p>
+Perplexity become the <em>third</em> company to release a product with "Deep Research" in the name.</p>
+<ul>
+<li>Google's Gemini Deep Research: <a href="https://blog.google/products/gemini/google-gemini-deep-research/">Try Deep Research and our new experimental model in Gemini, your AI assistant</a> on  December 11th 2024</li>
+<li>OpenAI's ChatGPT Deep Research: <a href="https://openai.com/index/introducing-deep-research/">Introducing deep research</a> - February 2nd 2025</li>
+</ul>
+<p>And now <a href="https://www.perplexity.ai/hub/blog/introducing-perplexity-deep-research">Perplexity Deep Research</a>, announced on February 14th.</p>
+<p>The three products all do effectively the same thing: you give them a task, they go out and accumulate information from a large number of different websites and then use long context models and prompting to turn the result into a report. All three of them take several minutes to return a result.</p>
+<p>In my <a href="https://simonwillison.net/2025/Jan/10/ai-predictions/#one-year-code-research-assistants">AI/LLM predictions post on January 10th</a> I expressed skepticism at the idea of "agents", with the exception of coding and research specialists. I said:</p>
+<blockquote>
+<p>It makes intuitive sense to me that this kind of research assistant can be built on our current generation of LLMs. They’re competent at driving tools, they’re capable of coming up with a relatively obvious research plan (look for newspaper articles and research papers) and they can synthesize sensible answers given the right collection of context gathered through search.</p>
+<p>Google are particularly well suited to solving this problem: they have the world’s largest search index and their Gemini model has a 2 million token context. I expect Deep Research to get a whole lot better, and I expect it to attract plenty of competition.</p>
+</blockquote>
+<p>Just over a month later I'm feeling pretty good about that prediction!
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/perplexity">perplexity</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/16/introducing-perplexity-deep-research/#atom-everything>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-02-15, from: Tomosino's Mastodon feed)
+
+<p>My book has a character experiencing a really long story. I'm really not into the story within a story thing. I'm impatient to get back to my story the whole time.</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114010463477401387>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-02-15, from: Tomosino's Mastodon feed)
+
+<p>More <a href="https://tilde.zone/tags/aurora" class="mention hashtag" rel="tag">#<span>aurora</span></a> from the cabin in <a href="https://tilde.zone/tags/iceland" class="mention hashtag" rel="tag">#<span>iceland</span></a> . They're putting on a nice show this weekend</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114010152485248341>
+
+---
+
+## Ink Console is a handheld game console with an E Ink display and a focus on interactive stories (Crowdfunding)
+
+date: 2025-02-15, from: Liliputing
+
+<p>Most modern handheld gaming devices are designed to let you play PC, mobile, or console games on the go. But the Ink Console is something different. It&#8217;s positioned as a cross between a game console and an eBook reader, developer Dana Puch plans to launch a Crowd Supply crowdfunding campaign for the device on March 1. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ink-console-is-a-handheld-game-console-with-an-e-ink-display-and-a-focus-on-interactive-stories-crowdfunding/">Ink Console is a handheld game console with an E Ink display and a focus on interactive stories (Crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ink-console-is-a-handheld-game-console-with-an-e-ink-display-and-a-focus-on-interactive-stories-crowdfunding/>
+
+---
+
+## Quoting Kevin Samuel
+
+date: 2025-02-15, updated: 2025-02-15, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should"><p>[...] if your situation allows it, always try uv first. Then fall back on something else if that doesn’t work out.</p>
+<p>It is the Pareto solution because it's easier than trying to figure out what you should do and you will rarely regret it. Indeed, the cost of moving to and from it is low, but the value it delivers is quite high.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.bitecode.dev/p/a-year-of-uv-pros-cons-and-should">Kevin Samuel</a>, Bite code!</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/astral">astral</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/15/kevin-samuel/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+“New York cannot be represented by someone whose loyalty to the city is compromised,” Mr. McCall wrote. 
+
+<br> 
+
+<https://www.nytimes.com/2025/02/15/nyregion/cuomo-mccall-mayor-nyc.html>
+
+---
+
+## Run LLMs on macOS using llm-mlx and Apple's MLX framework
+
+date: 2025-02-15, updated: 2025-02-15, from: Simon Willison’s Weblog
+
+<p><a href="https://github.com/simonw/llm-mlx">llm-mlx</a> is a brand new plugin for my <a href="https://llm.datasette.io/">LLM</a> Python Library and CLI utility which builds on top of Apple's excellent <a href="https://github.com/ml-explore/mlx">MLX array framework library</a> and <a href="https://pypi.org/project/mlx-lm/">mlx-lm</a> package. If you're a terminal user or Python developer with a Mac this may be the new easiest way to start exploring local Large Language Models.</p>
+<h4 id="running-llama-3-2-3b-using-llm-mlx">Running Llama 3.2 3B using llm-mlx</h4>
+<p>If you haven't already got LLM installed you'll need <a href="https://llm.datasette.io/en/stable/setup.html">to install it</a> - you can do that in a bunch of different ways - in order of preference I like <code>uv tool install llm</code> or <code>pipx install llm</code> or <code>brew install llm</code> or <code>pip install llm</code>.</p>
+<p>Next, install the new plugin (macOS only):</p>
+<div class="highlight highlight-source-shell"><pre>llm install llm-mlx</pre></div>
+<p>Now download and register a model. Llama 3.2 3B is an excellent first choice - it's pretty small (a 1.8GB download) but is a surprisingly capable starter model.</p>
+<div class="highlight highlight-source-shell"><pre>llm mlx download-model mlx-community/Llama-3.2-3B-Instruct-4bit</pre></div>
+<p>This will download 1.8GB of model weights from <a href="https://huggingface.co/mlx-community/Llama-3.2-3B-Instruct-4bit">mlx-community/Llama-3.2-3B-Instruct-4bit</a> on Hugging Face and store them here:</p>
+<pre><code>~/.cache/huggingface/hub/models--mlx-community--Llama-3.2-3B-Instruct-4bit
+</code></pre>
+<p>Now you can start running prompts:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m mlx-community/Llama-3.2-3B-Instruct-4bit <span class="pl-s"><span class="pl-pds">'</span>Python code to traverse a tree, briefly<span class="pl-pds">'</span></span></pre></div>
+<p>Which <a href="https://gist.github.com/simonw/85ce6a0faf1a58a243f9e5f4b2daeb3d">output this</a> for me:</p>
+<blockquote>
+<p>Here's a brief example of how to traverse a tree in Python:</p>
+<pre><span class="pl-k">class</span> <span class="pl-v">Node</span>:
+    <span class="pl-k">def</span> <span class="pl-en">__init__</span>(<span class="pl-s1">self</span>, <span class="pl-s1">value</span>):
+        <span class="pl-s1">self</span>.<span class="pl-c1">value</span> <span class="pl-c1">=</span> <span class="pl-s1">value</span>
+        <span class="pl-s1">self</span>.<span class="pl-c1">children</span> <span class="pl-c1">=</span> []
+
+<span class="pl-k">def</span> <span class="pl-en">traverse_tree</span>(<span class="pl-s1">node</span>):
+    <span class="pl-k">if</span> <span class="pl-s1">node</span> <span class="pl-c1">is</span> <span class="pl-c1">None</span>:
+        <span class="pl-k">return</span>
+    
+    <span class="pl-en">print</span>(<span class="pl-s1">node</span>.<span class="pl-c1">value</span>)
+    
+    <span class="pl-k">for</span> <span class="pl-s1">child</span> <span class="pl-c1">in</span> <span class="pl-s1">node</span>.<span class="pl-c1">children</span>:
+        <span class="pl-en">traverse_tree</span>(<span class="pl-s1">child</span>)
+
+<span class="pl-c"># Example usage:</span>
+<span class="pl-s1">root</span> <span class="pl-c1">=</span> <span class="pl-en">Node</span>(<span class="pl-s">"A"</span>)
+<span class="pl-s1">root</span>.<span class="pl-c1">children</span> <span class="pl-c1">=</span> [<span class="pl-en">Node</span>(<span class="pl-s">"B"</span>), <span class="pl-en">Node</span>(<span class="pl-s">"C"</span>)]
+<span class="pl-s1">root</span>.<span class="pl-c1">children</span>[<span class="pl-c1">0</span>].<span class="pl-c1">children</span> <span class="pl-c1">=</span> [<span class="pl-en">Node</span>(<span class="pl-s">"D"</span>), <span class="pl-en">Node</span>(<span class="pl-s">"E"</span>)]
+<span class="pl-s1">root</span>.<span class="pl-c1">children</span>[<span class="pl-c1">1</span>].<span class="pl-c1">children</span> <span class="pl-c1">=</span> [<span class="pl-en">Node</span>(<span class="pl-s">"F"</span>)]
+
+<span class="pl-en">traverse_tree</span>(<span class="pl-s1">root</span>)  <span class="pl-c"># Output: A, B, D, E, C, F</span></pre>
+<p>In this example, we define a <code>Node</code> class to represent each node in the tree, with a <code>value</code> attribute and a list of <code>children</code>. The <code>traverse_tree</code> function recursively visits each node in the tree, printing its value.</p>
+<p>This is a basic example of a tree traversal, and there are many variations and optimizations depending on the specific use case.</p>
+</blockquote>
+<p>That generation ran at an impressive <a href="https://gist.github.com/simonw/85ce6a0faf1a58a243f9e5f4b2daeb3d?permalink_comment_id=5440701#gistcomment-5440701">152 tokens per second</a>!</p>
+<p>That command was a bit of a mouthful, so let's assign an alias to the model:</p>
+<div class="highlight highlight-source-shell"><pre>llm aliases <span class="pl-c1">set</span> l32 mlx-community/Llama-3.2-3B-Instruct-4bit</pre></div>
+<p>Now we can use that shorter alias instead:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m l32 <span class="pl-s"><span class="pl-pds">'</span>a joke about a haggis buying a car<span class="pl-pds">'</span></span></pre></div>
+<p>(The <a href="https://gist.github.com/simonw/af322b399ce448f766d9349d9dc1cb5d#response">joke</a> isn't very good.)</p>
+<p>As with other models supported by LLM, you can also pipe things to it. Here's how to get it to explain a piece of Python code (in this case <a href="https://github.com/simonw/llm-mlx/blob/0.2/llm_mlx.py">itself</a>):</p>
+<div class="highlight highlight-source-shell"><pre>cat llm_mlx.py <span class="pl-k">|</span> llm -m l32 <span class="pl-s"><span class="pl-pds">'</span>explain this code<span class="pl-pds">'</span></span></pre></div>
+<p>The response started like this:</p>
+<blockquote>
+<p>This code is a part of a larger project that uses the Hugging Face Transformers library to create a text-to-text conversational AI model. The code defines a custom model class <code>MlxModel</code> and a set of command-line interface (CLI) commands for working with MLX models. [...]</p>
+</blockquote>
+<p>Here's <a href="https://gist.github.com/simonw/a577c820b18591d4825b70679cee3f9c">the rest of the response</a>. I'm pretty amazed at how well it did for a tiny 1.8GB model!</p>
+
+<p>This plugin can only run models that have been converted to work with Apple's MLX framework. Thankfully the <a href="https://huggingface.co/mlx-community">mlx-community</a> organization on Hugging Face has published over 1,000 of these. A few I've tried successfully:</p>
+<ul>
+<li>
+<code>mlx-community/Qwen2.5-0.5B-Instruct-4bit</code> - <a href="https://huggingface.co/mlx-community/Qwen2.5-0.5B-Instruct-4bit">278MB</a>
+</li>
+<li>
+<code>mlx-community/Mistral-7B-Instruct-v0.3-4bit</code> - <a href="https://huggingface.co/mlx-community/Mistral-7B-Instruct-v0.3-4bit">4.08GB</a>
+</li>
+<li>
+<code>mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit</code> - <a href="https://huggingface.co/mlx-community/DeepSeek-R1-Distill-Qwen-32B-4bit">18.5GB</a>
+</li>
+<li>
+<code>mlx-community/Llama-3.3-70B-Instruct-4bit</code> - <a href="https://huggingface.co/mlx-community/Llama-3.3-70B-Instruct-4bit">40GB</a>
+</li>
+</ul>
+<p>That last one needs a machine with 64GB of RAM to run but is <em>very</em> capable - I wrote about trying out the Ollama version of Llama 3.3 70B in <a href="https://simonwillison.net/2024/Dec/9/llama-33-70b/">I can now run a GPT-4 class model on my laptop</a> back in December.</p>
+<div class="highlight highlight-source-shell"><pre>llm mlx download-model mlx-community/Llama-3.3-70B-Instruct-4bit</pre></div>
+<p><img src="https://static.simonwillison.net/static/2025/mlx-download-llama-33.jpg" alt="Screenshot of the download-model command running against the Llama 3.3 70B model, it shows fetching 13 files and displays progress bars for 8 different safetensors files each weighing between 2.6 and 3.3GB." style="max-width: 100%;" /></p>
+<p>For larger models like that I recommend using the <code>llm chat</code> command as that ensures they stay in memory for multiple rounds of the conversation:</p>
+<div class="highlight highlight-source-shell"><pre>llm chat -m mlx-community/Llama-3.3-70B-Instruct-4bit</pre></div>
+<p>Activity Monitor shows the process using 37.5GB of RAM while the model is running.</p>
+<p>Some of these jokes are actually pretty good!</p>
+<blockquote>
+<pre><code>Chatting with mlx-community/Llama-3.3-70B-Instruct-4bit
+Type 'exit' or 'quit' to exit
+Type '!multi' to enter multiple lines, then '!end' to finish
+&gt; hi
+How's your day going so far? Is there something I can help you with or would you like to chat?
+&gt; jokes about weird animals please
+Here are a few:
+
+1. Why did the axolotl go to therapy? Because it was struggling to come to terms with its identity crisis... and also because it had a lot of "regrowing" to do!
+2. What did the aye-aye say to the other aye-aye when they were out on a date? "You've got a finger on the pulse of my heart!"
+3. Why did the naked mole rat go to the party? Because it was a "hair-raising" experience and it wanted to get to the "root" of the fun!
+4. What do you call a group of flamingos playing instruments? The Pink Floyd... of the avian world, of course!
+5. Why did the blobfish go to the doctor? It had a "gut" feeling something was wrong... and also because it was feeling a little "deflated"!
+
+Want more? I've got a whole zoo of 'em!
+</code></pre>
+</blockquote>
+<p>That ran at <a href="https://gist.github.com/simonw/ec99b6cf65ae61256a34f3ac269951dc">8.8 tokens per second</a>.</p>
+
+<p>You can use LLM models from your Python code as well. The README includes <a href="https://github.com/simonw/llm-mlx/blob/0.2.1/README.md#using-models-from-python">documentation on how to do this</a> - TLDR:</p>
+
+<pre><span class="pl-k">import</span> <span class="pl-s1">llm</span>
+<span class="pl-s1">model</span> <span class="pl-c1">=</span> <span class="pl-s1">llm</span>.<span class="pl-c1">get_model</span>(<span class="pl-s">"mlx-community/Llama-3.2-3B-Instruct-4bit"</span>)
+<span class="pl-en">print</span>(<span class="pl-s1">model</span>.<span class="pl-c1">prompt</span>(<span class="pl-s">"hi"</span>).<span class="pl-c1">text</span>())</pre>
+
+<h4 id="mlx-and-mlx-lm">MLX and mlx-lm</h4>
+<p>The secret sauce behind this new plugin is Apple's <a href="https://github.com/ml-explore/mlx">MLX library</a>, which as been improving at an extraordinary pace over the past year - it first launched on GitHub just in November of 2023.</p>
+<p>The core library is C++, but the MLX team at Apple also maintain a <a href="https://github.com/ml-explore/mlx-examples">mlx-examples</a> repo with a wealth of Python examples, including the <a href="https://github.com/ml-explore/mlx-examples/blob/main/llms/README.md">mlx-lm</a> and <a href="https://github.com/ml-explore/mlx-examples/tree/main/whisper">mlx-whisper</a> packages.</p>
+<p>The community around it is growing too. I'm particularly impressed by Prince Canuma's <a href="https://github.com/Blaizzy/mlx-vlm">mlx-vlm</a> library for accessing multi-modal vision LLMs - I'd love to get that working as an LLM plugin once I figure out <a href="https://github.com/Blaizzy/mlx-vlm/issues/68">how to use it for conversations</a>.</p>
+<p>I've used MLX for <a href="https://simonwillison.net/tags/mlx/">a few experiments</a> in the past, but <a href="https://twitter.com/awnihannun/status/1890524526821126620">this tweet</a> from MLX core developer Awni Hannun finally convinced me to wrap it up as an LLM plugin:</p>
+<blockquote>
+<p>In the latest MLX small LLMs are a lot faster.</p>
+<p>On M4 Max 4-bit Qwen 0.5B generates 1k tokens at a whopping 510 toks/sec. And runs at over 150 tok/sec on iPhone 16 pro.</p>
+</blockquote>
+<p>This is <em>really</em> good software. This small team at Apple appear to be almost single-handedly giving NVIDIA's CUDA a run for their money!</p>
+<h4 id="building-the-plugin">Building the plugin</h4>
+<p>The <a href="https://github.com/simonw/llm-mlx">llm-mlx</a> plugin came together pretty quickly. The <a href="https://github.com/simonw/llm-mlx/blob/0.1/llm_mlx.py">first version</a> was ~100 lines of Python, much of it repurposed from my existing <a href="https://github.com/simonw/llm-gguf">llm-gguf</a> plugin.</p>
+<p>The hardest problem was figuring out how to hide the Hugging Face progress bars that displayed every time it attempted to access a model!</p>
+<p>I eventually found the <code>from huggingface_hub.utils import disable_progress_bars</code> utility function by piping library code through Gemini 2.0.</p>
+<p>I then added <a href="https://github.com/simonw/llm-mlx/issues/3">model options support</a> allowing you to pass options like this:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m l32 <span class="pl-s"><span class="pl-pds">'</span>a greeting<span class="pl-pds">'</span></span> -o temperature 1.0 -o seed 2</pre></div>
+<p>So far using a fixed seed <a href="https://github.com/simonw/llm-mlx/issues/3#issuecomment-2661025591">appears to produce repeatable results</a>, which is exciting for writing more predictable tests in the future.</p>
+
+<p>For the <a href="https://github.com/simonw/llm-mlx/blob/0.2/tests/test_mlx.py">automated tests</a> that run in GitHub Actions I decided to use a small model - I went with the tiny 75MB <a href="https://huggingface.co/mlx-community/SmolLM-135M-Instruct-4bit/tree/main">mlx-community/SmolLM-135M-Instruct-4bit</a> (explored <a href="https://simonwillison.net/2025/Feb/7/pip-install-llm-smollm2/">previously</a>). I configured GitHub Actions to cache the model in between CI runs by adding the following YAML to my <a href="https://github.com/simonw/llm-mlx/blob/0.2/.github/workflows/test.yml">.github/workflows/test.yml</a> file:</p>
+<div class="highlight highlight-source-yaml"><pre>    - <span class="pl-ent">name</span>: <span class="pl-s">Cache models</span>
+      <span class="pl-ent">uses</span>: <span class="pl-s">actions/cache@v4</span>
+      <span class="pl-ent">with</span>:
+        <span class="pl-ent">path</span>: <span class="pl-s">~/.cache/huggingface</span>
+        <span class="pl-ent">key</span>: <span class="pl-s">${{ runner.os }}-huggingface-</span></pre></div>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/15/llm-mlx/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+Sheryl Crow Sells Tesla, Donates Proceeds to National Public Radio. 
+
+<br> 
+
+<https://www.vanityfair.com/style/story/sheryl-crow-elon-musk-tesla-npr>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+Trump Is Gutting Efforts to Combat Foreign Election Interference. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/02/trump-cisa-foreign-election-interference/>
+
+---
+
+## trot
+
+date: 2025-02-15, updated: 2025-02-15, from: Robin Rendle Essays
+
+ 
+
+<br> 
+
+<https://robinrendle.com/notes/trot/>
+
+---
+
+## Antarctica's Only Insect
+
+date: 2025-02-15, from: 404 Media Group
+
+This week: A tale of creative cryopreservation, Transylvania's 16th-century weather reports, and dancing turtles. 
+
+<br> 
+
+<https://www.404media.co/antarcticas-only-insect/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+The web before the web. 
+
+<br> 
+
+<http://scripting.com/2025/02/15/131146.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+People say our new Secy of Defense is stupid. I&#39;m sure he&#39;s not, he just works for Putin. Don&#39;t forget what we figured out five years ago. It&#39;s still true today. 
+
+<br> 
+
+<https://apnews.com/article/nato-ukraine-us-hegseth-trump-russia-a3ca747b102cae6737436596444a32d0>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+The Dems don&#39;t do positioning. The Repubs run circles around Dems. They are masters at positioning. It&#39;s not hard, you just have to decide to do it. 
+
+<br> 
+
+<https://en.wikipedia.org/wiki/Positioning_(marketing)>
+
+---
+
+## From Orban to Trump, Part I: Talking with Kim Lane Scheppele
+
+date: 2025-02-15, from: Paul Krugman
+
+How Hungary foreshadowed dark times for America 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/from-orban-to-trump-part-i-talking>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+Zelenskyy: ‘The time has come’ for a European army. 
+
+<br> 
+
+<https://www.politico.eu/article/ukraine-volodymyr-zelenskyy-time-has-come-european-army-munich-security-conference/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+Trump layoffs include CDC disease outbreak investigators. 
+
+<br> 
+
+<https://www.statnews.com/2025/02/14/trump-cdc-cuts-include-epidemic-intelligence-service-outbreak-investigators/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+‘No Point Negotiating’ With Putin, Says Navalny’s Widow. 
+
+<br> 
+
+<https://www.kyivpost.com/post/47186>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+Musk is like The Joker, as played by Heath Ledger. “Do I look like a guy with a plan?” Heh. No. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=NWeh4A600E0>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+Trump officials fired nuclear staff not realizing they oversee the country’s weapons stockpile, sources say. 
+
+<br> 
+
+<https://www.cnn.com/2025/02/14/climate/nuclear-nnsa-firings-trump/index.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-15, from: Dave Winer's linkblog)
+
+Trump is almost 2 billion in debt and the amount is growing 
+
+<br> 
+
+<https://www.cnn.com/2024/10/31/politics/video/trump-debt-growing-dan-alexander-ebof-digvid?cid=ios_app>
 
 ---
 
@@ -2673,281 +3101,4 @@ A demonized paper from three years ago that has stood the test of time
 <br> 
 
 <https://garymarcus.substack.com/p/five-ways-in-which-the-last-3-months>
-
----
-
-## I had my AI "oh f***" moment and I'm a student, now what?
-
-date: 2025-02-08, from: Geoffrey Hunntley's blog
-
-<blockquote>What follows is an email that arrived in my inbox moments ago, reproduced in it&apos;s entirety. I&apos;ll be doing a response letter, after I get some sleep. For now, discuss at <a href="https://x.com/GeoffreyHuntley/status/1888365040572751973?ref=ghuntley.com">https://x.com/GeoffreyHuntley/status/1888365040572751973</a></blockquote><p>Hi there,<br><br>So, I read your blog post &quot;</p> 
-
-<br> 
-
-<https://ghuntley.com/im-a-student/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-Federal judge condemns Trump&#39;s attack on birthright citizenship from the bench. 
-
-<br> 
-
-<https://slate.com/news-and-politics/2025/02/federal-judge-birthright-citizenship-donald-trump-ignore-law.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-Trans Children Are God’s Gifts. 
-
-<br> 
-
-<https://www.texasobserver.org/trans-children-gods-gifts/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-How Sam Altman Sidestepped Elon Musk to Win Over Donald Trump. 
-
-<br> 
-
-<https://www.nytimes.com/2025/02/08/technology/sam-altman-elon-musk-trump.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-Trump fires archivist of the United States. 
-
-<br> 
-
-<https://www.cbsnews.com/news/trump-fires-archivist-of-the-united-states-colleen-shogan/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-Who is helping Elon Musk gut the US government? 
-
-<br> 
-
-<https://www.theguardian.com/us-news/2025/feb/08/elon-musk-doge-team-staff>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-In the midst of all the michegas, the Mets signed Pete Alonso for a two-year contract. We don&#39;t need any more butt-hurt these days. 
-
-<br> 
-
-<https://www.newsweek.com/sports/mlb/really-worried-about-pete-alonso-after-mets-deal-says-former-mlb-network-host-2027588>
-
----
-
-## You are using Cursor AI incorrectly...
-
-date: 2025-02-08, from: Geoffrey Hunntley's blog
-
-<p>I&apos;m hesitant to give this advice away for free, but I&apos;m gonna push past it and share it anyway. You&apos;re using Cursor incorrectly.</p><p>Over the last few weeks I&apos;ve been doing /zooms with software engineers - from entry level, to staff level</p> 
-
-<br> 
-
-<https://ghuntley.com/stdlib/>
-
----
-
-## Quoting Salvatore Sanfilippo
-
-date: 2025-02-08, updated: 2025-02-08, from: Simon Willison’s Weblog
-
-<blockquote cite="https://antirez.com/news/145"><p>[...] We are destroying software with complex build systems.</p>
-<p>We are destroying software with an absurd chain of dependencies, making everything bloated and fragile.</p>
-<p>We are destroying software telling new programmers: “Don’t reinvent the wheel!”. But, reinventing the wheel is how you learn how things work, and is the first step to make new, different wheels. [...]</p></blockquote>
-<p class="cite">&mdash; <a href="https://antirez.com/news/145">Salvatore Sanfilippo</a>, We are destroying software</p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/salvatore-sanfilippo">salvatore-sanfilippo</a>, <a href="https://simonwillison.net/tags/programming">programming</a>, <a href="https://simonwillison.net/tags/software-engineering">software-engineering</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Feb/8/salvatore-sanfilippo/#atom-everything>
-
----
-
-## Social machines
-
-date: 2025-02-08, from: Enlightenment Economics
-
-My friend Wendy Hall co-authored a 2019 book The Theory and Practice of Social Machines, which I read only recently. The central idea of a social machine is very interesting &#8211; a social network connected by digital devices, a human-machine &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/02/social-machines/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<br> 
-
-<http://www.enlightenmenteconomics.com/blog/index.php/2025/02/social-machines/>
-
----
-
-## What Happens if this Hazardous Asteroid Hits Earth?
-
-date: 2025-02-08, from: 404 Media Group
-
-A 1,600-foot-wide asteroid has a 0.037% chance of impacting Earth on September 24, 2182. What if we punch that unlucky ticket? 
-
-<br> 
-
-<https://www.404media.co/what-happens-if-this-hazardous-asteroid-hits-earth/>
-
----
-
-## What the Edwardians Could Teach Trump About Trade (Wonkish)
-
-date: 2025-02-08, from: Paul Krugman
-
-Canada yesterday, Japan today: Another bogus trade complaint 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/what-the-edwardians-could-teach-trump>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-The Courts Can’t Stop the Trump-Musk Coup. 
-
-<br> 
-
-<https://www.thenation.com/article/politics/courts-cant-stop-the-trump-musk-coup/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-Is Donald Trump Afraid of Elon Musk? 
-
-<br> 
-
-<https://www.vanityfair.com/news/story/is-donald-trump-afraid-of-elon-musk>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-Feds putting the kibosh on national EV charging program. 
-
-<br> 
-
-<https://arstechnica.com/uncategorized/2025/02/feds-putting-the-kibosh-on-national-ev-charging-program/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-Federal judge blocks Musk’s DOGE from access to Treasury Dept. material. 
-
-<br> 
-
-<https://wapo.st/3CQNnDN>
-
----
-
-## Trade Flows and Trade Balances
-
-date: 2025-02-08, from: Paul Krugman
-
-A primer for the confused 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156550392/fe0fb0d4f955b763a4aafa8afaa58d2f.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/156550392/fe0fb0d4f955b763a4aafa8afaa58d2f.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://paulkrugman.substack.com/p/trade-flows-and-trade-balances>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-The Government’s Computing Experts Say They Are Terrified. 
-
-<br> 
-
-<https://www.theatlantic.com/technology/archive/2025/02/elon-musk-doge-security/681600/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-The Eater List of New York City Slices. #pizza 
-
-<br> 
-
-<https://ny.eater.com/maps/best-pizza-slice-nyc>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-No funding, no future: Emory students will graduate into hopelessness. 
-
-<br> 
-
-<https://www.emorywheel.com/article/2025/02/no-funding-no-future-emory-students-will-graduate-into-hopelessness>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-Heather Cox Richardson’s nightly report. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/february-7-2024-144?publication_id=20533&post_id=156719026&isFreemail=true&r=w33x&triedRedirect=true>
-
----
-
-## Trump Fires National Archives Director Colleen Shogan
-
-date: 2025-02-08, from: 404 Media Group
-
-“This evening, President Trump fired me. No cause or reason was cited." 
-
-<br> 
-
-<https://www.404media.co/trump-fires-national-archives-director-colleen-shogan/>
-
----
-
-## Broken Bits
-
-date: 2025-02-08, updated: 2025-02-08, from: Tedium site
-
-Bitly, the link-shortening service used by millions, decides it’s going to drop an ad between you and your link. Don’t like it? It’ll cost ya. 
-
-<br> 
-
-<https://feed.tedium.co/link/15204/16958500/bitly-terms-of-service-change>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-08, from: Dave Winer's linkblog)
-
-The Sims re-release shows what’s wrong with big publishers and single-player games. 
-
-<br> 
-
-<https://arstechnica.com/gaming/2025/02/the-sims-re-release-shows-whats-wrong-with-big-publishers-and-single-player-games/>
-
----
-
-## Minimizing the runtime of a SQL DAG
-
-date: 2025-02-08, from: Max Halford Blog
-
-<p>I recently looked into reducing the runtime of <a href="https://www.carbonfact.com/">Carbonfact</a>&rsquo;s SQL DAG. Our DAG is made up of roughly 160 SQL queries. It takes about 10 minutes to run with BigQuery, using on-demand pricing. It&rsquo;s decent. However, the results of our DAG feed customer dashboards, and we have the (bad) habit of refreshing the DAG several times a day. Reducing the runtime by a few minutes can be a nice quality-of-life improvement.</p> 
-
-<br> 
-
-<https://maxhalford.github.io/blog/minimizing-sql-dag-runtime/>
 

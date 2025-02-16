@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-02-15 07:08:07
+updated: 2025-02-16 07:08:30
 ---
 
 # games
 
-(date: 2025-02-15 07:08:07)
+(date: 2025-02-16 07:08:30)
+
+---
+
+## Does art need to be ‘fixed’?
+
+date: 2025-02-16, updated: 2025-02-14, from: Polygon Website
+
+In 2012, Roger Ebert wrote, “I remain convinced that in principle, video games cannot be art.” The question of what is or isn’t art feels tired in 2025, but the ever-shifting defenses of why can still be intriguing. In this interview excerpt, game designer Sam Barlow and podcaster Justin McElroy explore Ebert’s reasoning for saying [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/521436/sam-barlow-justin-mcelroy-art-fixed>
+
+---
+
+## Porygon-Z is the weirdest card to hit Pokémon TCG Pocket
+
+date: 2025-02-16, updated: 2025-02-15, from: Polygon Website
+
+The release of the Space-Time Smackdown expansion for Pokémon TCG Pocket has resulted in one of the most diverse metas in the game to date. Some people opt for decks based on heavy hitters like Palkia ex whereas others might try to chip away at opponents with cards like Darkrai ex. Those cards are all [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/523583/porygon-z-deck-best>
+
+---
+
+## The animated movie Flow went through big changes on its way to the Oscars
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+While the cat protagonist from the Oscar-nominated animated movie Flow is getting a lot of (deserved) love — and will get more now that Flow is streaming on Max — the movie actually has a whole cast of animals, which hunker together on a tiny boat adrift in the middle of rapidly rising waters. In addition [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/524245/flow-director-cat-bird-dog-animals>
+
+---
+
+## 5 great co-op games are on deep discount in Steam’s new sale
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Whether you’re celebrating Valentine’s Day with a weekend of gaming togetherness or just somebody with a gaming pal looking for a great deal, Steam’s Couch Co-Op Fest — running through Feb. 18 — has a ton of amazing cooperative games marked down significantly. The list of included games is long, but several of them stuck [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/524005/best-co-op-games-steam-sale-portal-2-tetris-effect>
+
+---
+
+## Captain America: Brave New World is a mess — but the ‘5D’ version I saw was even messier
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Marvel’s new MCU installment Captain America: Brave New World was beset by production delays and big, story-shifting reshoots. The end result is kind of a mess. That mess was compounded during a “5D” screening of the movie I saw on Thursday night, which turned the traditional theatergoing experience into an event where I was caked [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/524340/captain-america-brave-new-world-5d-filthy-version>
+
+---
+
+## The Sims 4 creative director on why The Sims is special: ‘We’re not a game that judges you for who you are, how you play’
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Before Anna Huerta worked at Maxis, owned by Electronic Arts, on The Sims 4, she still played the game professionally. The success of The Sims as a franchise made it one of those games that other companies were always chasing, and to begin to understand it, you’ve got to play it not just as a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-sims/522300/the-sims-4-anna-huerta-creative-director>
+
+---
+
+## The best horror to watch on Netflix this February
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Winter may be slowly coming to an end, but the cold and dark months haven’t quite closed out just yet. To help you pass the time indoors, Netflix has got a nice little selection of horror movies at the moment, to keep things creepy and cozy. This month, we handpicked a few of the best [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/523884/best-horror-movies-netflix-watch-february-2025>
+
+---
+
+## Hoopa Unbound counters, weakness, and best moveset in Pokémon Go
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Hoopa Unbound is showing up in raids during Pokémon Go’s Hoopa Unbound Raid Day event that runs on Saturday, Feb. 15 from 2-5 p.m. in your local time. During this event, Hoopa will show up in raids as a five-star target. You’ll also get up to five free raid passes from spinnin gym discs and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/524035/hoopa-unbound-counters-weakness-best-moveset>
 
 ---
 
@@ -726,52 +822,4 @@ Sony’s PlayStation Network was down from Friday to Saturday evening. Surpassin
 <br> 
 
 <https://www.polygon.com/news/521195/playstation-network-down-outage-psn>
-
----
-
-## How to watch the Super Bowl for free
-
-date: 2025-02-08, updated: 2025-02-08, from: Polygon Website
-
-The Super Bowl is airing this Sunday, Feb. 9, with the kickoff happening at 6:30 p.m. EST. In case you didn’t already know, the matchup is between the Philadelphia Eagles and the Kansas City Chiefs. Whether you’re mainly interested in the ads, the big game, or the halftime show headlined by Kendrick Lamar, we’ve got [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/tv/518394/super-bowl-streaming-free-2025>
-
----
-
-## The best Star Trek fan event of the year joyfully celebrates the franchise’s worst episode
-
-date: 2025-02-08, updated: 2025-02-08, from: Polygon Website
-
-Star Trek fans celebrate a lot of holidays. There’s Star Trek Day on Sept. 8, the anniversary of the premiere of Star Trek: The Original Series. There’s First Contact Day on April 5, the anniversary of the fictional date on which humanity made first contact with Vulcan visitors. One might even celebrate Captain Picard Day [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/star-trek/520026/voyager-threshold-day-tumblr-salamander-lizard>
-
----
-
-## Helldivers 2’s game director speaks on a frantic first year and the future of the Galactic War
-
-date: 2025-02-08, updated: 2025-02-07, from: Polygon Website
-
-Helldivers 2 has reached its first anniversary, marking what’s been a wild year for Arrowhead Game Studios. The co-op action shooter took off as soon as it was released on Feb. 8, 2024, enjoying an explosive launch with hundreds of thousands more players than Arrowhead expected. I’ve been logging in consistently throughout the first year, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/q-and-a/520244/helldivers-2-arrowhead-1-year-anniversary-retrospective-future>
-
----
-
-## The best thrillers to watch on Netflix this February
-
-date: 2025-02-08, updated: 2025-02-07, from: Polygon Website
-
-We may still be in the midst of winter, but that hasn’t stopped Netflix from throwing a few great thrillers onto its streaming service. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they pair well with an upcoming release. Other titles might be new additions [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/movies/519566/best-thriller-movies-netflix-watch-january-2025>
 

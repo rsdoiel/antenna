@@ -1,11 +1,436 @@
 ---
 title: pacific
-updated: 2025-02-15 07:08:05
+updated: 2025-02-16 07:08:28
 ---
 
 # pacific
 
-(date: 2025-02-15 07:08:05)
+(date: 2025-02-16 07:08:28)
+
+---
+
+## Trump suggests no laws are broken if he’s ‘saving his country’
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Saturday posted on social media a single sentence that appears to encapsulate his attitude as he tests the nation&#8217;s legal and constitutional boundaries in the process of upending the federal government and punishing his perceived enemies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/nation-world-news/trump-suggests-no-laws-are-broken-if-hes-saving-his-country/>
+
+---
+
+## Adams to sue Trump administration over clawback of migrant shelter funds
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>New York Mayor Eric Adams intends to sue the Trump administration by the end of next week over its clawback of $80 million in federal funding meant to cover the cost of housing migrants in the city, according to a letter from City Hall.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/nation-world-news/adams-to-sue-trump-administration-over-clawback-of-migrant-shelter-funds/>
+
+---
+
+## Funding is sought again for Puna alternate traffic route study
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>State officials are still seeking to restore funds for a study of alternate traffic routes into Puna, even as Hawaii County officials try to figure out what went wrong.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/hawaii-news/funding-is-sought-again-for-puna-alternate-traffic-route-study/>
+
+---
+
+## Police discipline reported: HPD terminations, suspensions documented for lawmakers
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>One Hawaii Police Department officer was fired in 2024, one terminated in 2023 is in binding arbitration hoping to regain his badge, while a third discharged in 2023 has returned to the force as a result of his grievance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/hawaii-news/police-discipline-reported-hpd-terminations-suspensions-documented-for-lawmakers/>
+
+---
+
+## Bill would subsidize fencing to control ungulates
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>A proposal to help subsidize the installation of animal control fences is the only survivor of four bills in the state Legislature aimed at controlling pigs, goats and sheep.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/hawaii-news/bill-would-subsidize-fencing-to-control-ungulates/>
+
+---
+
+## Steves: Orvieto is what an Italian hill town should be
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>Orvieto is one of the most striking, memorable, and enjoyable hill towns in central Italy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/features/steves-orvieto-is-what-an-italian-hill-town-should-be/>
+
+---
+
+## Ukraine rejects US demand for half of its mineral resources
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>President Volodymyr Zelenskyy of Ukraine, during a closed-door meeting Wednesday, rejected an offer by the Trump administration to relinquish half of the country&#8217;s mineral resources in exchange for U.S. support, according to five people briefed on the proposal or with direct knowledge of the talks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/nation-world-news/ukraine-rejects-us-demand-for-half-of-its-mineral-resources/>
+
+---
+
+## 15 Hindu pilgrims reported dead in stampede at New Delhi rail station
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>Fifteen people died in a stampede Saturday at New Delhi&#8217;s main railway station as a crush of pilgrims were trying to make their way to a huge Hindu festival in northern India, an official said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/nation-world-news/15-hindu-pilgrims-reported-dead-in-stampede-at-new-delhi-rail-station/>
+
+---
+
+## German chancellor rebukes Vance for supporting party that downplays Nazis
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>MUNICH &#8212; Chancellor Olaf Scholz of Germany on Saturday accused U.S. Vice President JD Vance of unacceptably interfering in his country&#8217;s imminent elections on behalf of a party that has played down atrocities committed by the Nazis 80 years ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/nation-world-news/german-chancellor-rebukes-vance-for-supporting-party-that-downplays-nazis/>
+
+---
+
+## Forest Service layoffs and frozen funds increase the risk from wildfires
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>Despite being in office for less than a month, the Trump administration has already made the United States more exposed to catastrophic wildfires in ways that will be difficult to reverse, current and former federal employees say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/nation-world-news/forest-service-layoffs-and-frozen-funds-increase-the-risk-from-wildfires/>
+
+---
+
+## Israel and Hamas make 6th exchange, keeping ceasefire intact for now
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Hamas freed three more Israeli hostages Saturday as Israel released 369 Palestinian prisoners, prolonging a fragile ceasefire in the Gaza Strip that appeared to be teetering only days ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/nation-world-news/israel-and-hamas-make-6th-exchange-keeping-ceasefire-intact-for-now/>
+
+---
+
+## Amazon union push falls short at North Carolina warehouse
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>Amazon workers voted overwhelmingly against a bid to unionize their North Carolina warehouse, the National Labor Relations Board said Saturday, the latest setback in labor organizing efforts at the e-commerce giant.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/nation-world-news/amazon-union-push-falls-short-at-north-carolina-warehouse/>
+
+---
+
+## Volcano Watch: What’s shaking? Earthquake alerts explained
+
+date: 2025-02-16, from: Hawaii Tribune Harold
+
+
+				<p>Earthquakes are a common occurrence in Hawaii. If you subscribe to emergency, earthquake or volcano notifications, the shaking you feel might be followed by a message summarizing the earthquake. Have you ever wondered why the magnitude of an earthquake you felt might differ slightly between a message you received, a post you saw on social media, or what the local news reported?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/16/features/volcano-watch-whats-shaking-earthquake-alerts-explained/>
+
+---
+
+## Guam group's claims against Air Force reinstated; Ninth Circuit rules NEPA applies to toxic waste disposal activities
+
+date: 2025-02-15, from: Pacific Island Times
+
+The Ninth Circuit Court has upheld a local environmental group’s legal standing to challenge the U.S. Air Force’s plan to dispose of toxic w 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-group-s-claims-against-air-force-reinstated-ninth-circuit-rules-nepa-applies-to-toxic-waste-di>
+
+---
+
+## Gabbard’s intelligence role will be tested immediately
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s Tulsi Gabbard will be tested immediately on how she will handle threats to national security and U.S. troops as America&#8217;s new director of national intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/hawaii-news/gabbards-intelligence-role-will-be-tested-immediately/>
+
+---
+
+## Seeking a Mar-a-Lago vibe, Trump considers paving over grass in Rose Garden
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump has been busy upending the federal government, reorienting U.S. foreign policy, threatening trade wars and winning confirmation for his Cabinet choices.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/seeking-a-mar-a-lago-vibe-trump-considers-paving-over-grass-in-rose-garden/>
+
+---
+
+## Bracing for a shutdown fight, Democrats warn their votes are not a given
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; One month out from a deadline to avert a government shutdown, Republicans in Congress are struggling to find the votes to extend federal funding, and Democrats are issuing a stark warning: Don&#8217;t look at us this time.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/bracing-for-a-shutdown-fight-democrats-warn-their-votes-are-not-a-given/>
+
+---
+
+## Judge extends restrictions on Musk’s access to sensitive Treasury data
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A case that could test the ability of other branches of government to act as checks on the Trump administration began Friday with a hearing on whether Elon Musk and his young aides should have access to the Treasury&#8217;s most sensitive payment and data systems.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/judge-extends-restrictions-on-musks-access-to-sensitive-treasury-data/>
+
+---
+
+## Trump is newly unleashed on trade, with global consequences
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump is pursuing a far more aggressive trade policy than he embraced in his first term, allowing his unfettered instincts about how to put America at the forefront to guide him with little pretense of investigations or extended deliberations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/trump-is-newly-unleashed-on-trade-with-global-consequences/>
+
+---
+
+## Layoffs expand at federal agencies, part of Trump purge
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration Friday accelerated plans for widespread workforce cuts across the government, as employees at multiple federal agencies learned they would be losing their jobs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/layoffs-expand-at-federal-agencies-part-of-trump-purge/>
+
+---
+
+## Vance tells Europeans to stop shunning parties deemed extreme
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>MUNICH &#8212; Vice President JD Vance told European leaders Friday that their biggest security threat was not military aggression from Russia or China, or election meddling from Moscow. Rather, he said, it was what he called &#8220;the enemy within&#8221; &#8212; their own suppression of abortion protests and other forms of free speech and the sidelining of parties considered extremist.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/vance-tells-europeans-to-stop-shunning-parties-deemed-extreme/>
+
+---
+
+## Hamas names hostages set for release today
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Hamas on Friday published the names of three more hostages to be released, signaling that an impasse over the immediate future of the ceasefire with Israel had been overcome after days of recriminations between the two sides.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/hamas-names-hostages-set-for-release-today/>
+
+---
+
+## Trump will withhold money from schools that require COVID vaccines
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Friday ordered that federal funding be withheld from schools and universities that require students to be vaccinated against COVID, White House officials said, another step in the administration&#8217;s campaign against coronavirus vaccine requirements.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/trump-will-withhold-money-from-schools-that-require-covid-vaccines/>
+
+---
+
+## US asks judge to drop Adams case after Manhattan prosecutor quits
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Federal prosecutors in Washington formally asked a judge Friday to drop corruption charges against Mayor Eric Adams of New York City after the acting U.S. attorney in Manhattan resigned in the face of an order to carry out the request.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/us-asks-judge-to-drop-adams-case-after-manhattan-prosecutor-quits/>
+
+---
+
+## Trump’s funding freeze raises a new question: Is the government’s word good?
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; As the Trump administration continues to withhold billions of dollars for climate and clean energy spending &#8212; despite two federal judges ordering the money released &#8212; concerns are growing that the U.S. government could skip out on its legal commitments.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/trumps-funding-freeze-raises-a-new-question-is-the-governments-word-good/>
+
+---
+
+## Rafter is briefly ‘swallowed’ by whale in Chile, as his father films
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>Paddling through choppy waters under cloudy skies, Adri&#225;n Simancas and his father were packrafting only a few yards from each other when something huge lunged, mouth open, from the waves below.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/rafter-is-briefly-swallowed-by-whale-in-chile-as-his-father-films/>
+
+---
+
+## Tropical Gardening: Hawaii almost perfect, and the DOA wants to keep it that way
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>Some might disagree, but recent travels in the tropical world to discover a better place has brought me to the conclusion that we are blessed and should appreciate what we have here at home.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/features/tropical-gardening-hawaii-almost-perfect-and-the-doa-wants-to-keep-it-that-way/>
+
+---
+
+## Historic Native Hawaiian art unveiled at Honolulu Hale
+
+date: 2025-02-15, from: University of Hawaiʻi News
+
+<p>Carpentry, art and theatre faculty and students collaborate with Native Hawaiian artist Meleanna Aluli Meyer to create a never-before-seen artwork.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/14/historic-native-hawaiian-art-honolulu-hale/">Historic Native Hawaiian art unveiled at Honolulu Hale</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/14/historic-native-hawaiian-art-honolulu-hale/>
+
+---
+
+## Smart ways to budget your tax refund
+
+date: 2025-02-14, updated: 2025-02-14, from: Marianas Variety
+
+(BPT) - Tax season is here, and many Americans are eagerly awaiting their tax refunds. While it might be tempting to splurge on something fun, there are other clever ways to use this extra cash to improve your financial budget this tax season. Here are three savvy tips to help you budget your tax refund: 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/smart-ways-to-budget-your-tax-refund/article_6a28ca24-5206-5614-b0b9-153ac6b064f7.html>
+
+---
+
+## Make Your Car Your Valentine: Mercury Insurance Advises How to Save on Auto Repairs
+
+date: 2025-02-14, updated: 2025-02-14, from: Marianas Variety
+
+(BPT) - Regularly Showing Your Car Some Love Can Save on Auto Repairs 
+
+<br> 
+
+<https://www.mvariety.com/online_features/seasonal/make-your-car-your-valentine-mercury-insurance-advises-how-to-save-on-auto-repairs/article_3c964363-aad1-519c-8640-a5da21195295.html>
+
+---
+
+## The Time Thief Affecting More Than Half of Americans: Poor Mental Health
+
+date: 2025-02-14, updated: 2025-02-14, from: Marianas Variety
+
+(NAPSI)—The latest GeneSight® Mental Health Monitor survey shows that nearly half of Americans feel they have lost time in their lives due to poor mental health. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/the-time-thief-affecting-more-than-half-of-americans-poor-mental-health/article_8338bbc1-07e6-5bbb-82e8-2de1c2ef3180.html>
 
 ---
 
@@ -507,6 +932,42 @@ date: 2025-02-14, from: Island Times
 
 ---
 
+## Brains vs. Brawn: Putting the Latest Tech to the Test
+
+date: 2025-02-14, updated: 2025-02-14, from: Marianas Variety
+
+(StatePoint) Before making a big tech purchase, it’s a good idea to compare product claims with third-party research. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/brains-vs-brawn-putting-the-latest-tech-to-the-test/article_88ae3004-add6-5376-8b10-66ff40478722.html>
+
+---
+
+## Tips to Support Your Digestive Health
+
+date: 2025-02-14, updated: 2025-02-14, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/tips-to-support-your-digestive-health/article_5abfa207-e6b4-527d-a1f2-b25a4c4bfcaa.html>
+
+---
+
+## 4 Ways Financial Professionals Recommend You Spend Your Tax Refund
+
+date: 2025-02-14, updated: 2025-02-14, from: Marianas Variety
+
+(StatePoint) Receiving a tax refund this year? While it can be tempting to impulse spend, if you want to really treat yourself, financial professionals recommend using the payout for practical expenses. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/money_and_finance/4-ways-financial-professionals-recommend-you-spend-your-tax-refund/article_9f2d8182-6c22-5fab-a1fe-1a76e26a5860.html>
+
+---
+
 ## 2025 HIKI NŌ on PBS Hawaiʻi Winter Challenge: Small Actions, Big Impact
 
 date: 2025-02-14, from: HIKI NŌ ON PBS HAWAIʻI
@@ -544,6 +1005,30 @@ The post <a href="https://www.hawaii.edu/news/2025/02/13/national-award-for-wind
 <br> 
 
 <https://www.hawaii.edu/news/2025/02/13/national-award-for-windward-cc/>
+
+---
+
+## Oaklawn Hot Springs Extends Lead as Arkansas’ premier resort destination
+
+date: 2025-02-13, updated: 2025-02-15, from: Marianas Variety
+
+(BPT) - Long heralded as one of America's top destinations for thoroughbred racing, Oaklawn Hot Springs has solidified its reputation as a premier destination for luxury travel by securing four distinguished recognitions in the 2025 Forbes Travel Guide (FTG) and Star Awards. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/travel/oaklawn-hot-springs-extends-lead-as-arkansas-premier-resort-destination/article_cb4db30d-5b08-523b-a5be-e7c6c7f764fc.html>
+
+---
+
+## AI chatbots are becoming romance scammers — and 1 in 3 people admit they could fall for one
+
+date: 2025-02-13, updated: 2025-02-15, from: Marianas Variety
+
+(BPT) - By McAfee 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/ai-chatbots-are-becoming-romance-scammers-and-1-in-3-people-admit-they-could-fall/article_0c3bd2e4-bb9f-5580-9bae-01031a30568c.html>
 
 ---
 
@@ -586,7 +1071,7 @@ by Karen Regen Tuero Johnny helped me move out of our apartment, the one I’d f
 
 ## Bartolome couple wins MVariety's Valentine’s Day contest
 
-date: 2025-02-13, updated: 2025-02-13, from: Marianas Variety
+date: 2025-02-13, updated: 2025-02-16, from: Marianas Variety
 
 HUSBAND and wife Romel and Jorgie Bartolome are the winners of the Marianas Variety’s #LoveintheMarianas story contest.The contest asked island couples to share on social media a picture or video of themselves enjoying our island paradise while also sharing a story about how they celebrate love.Out of the many contest entries, the Bartolome couple’s pictures and heartfelt captions stood out. For their efforts, they win an 18x12” canvas print of one of their photos.In her post, Jorgie says, “I swore off long-distance relationships in the past, had to go back home [because] of the pandemic, but this guy fought his way through to bring down the walls I’ve built despite being countries apart.”In an interview with Marianas Variety, Romel explained that he and Jorgie first met in 2019 when she was an intern at the Saipan World Resort’s kitchen and he was a staff member.He immediately had a crush, but was unable to approach her. That did not stop him from sending her that year a short and simple Thanksgiving greeting on Facebook Messenger.That got the ball rolling, but it was no stroll in the park for Romel. Yes, they began exchanging messages online and sometimes went out to eat—but only as friends, Jorgie clarified.“I didn’t like him,” she laughs. “When we went out for a quick [McDonald’s] date, he asked me if he could date me and I said no.”Jorgie said Romel must have taken her no as a final answer, and he gave her some space. In his absence, though, Jorgie realized that she missed him and began nursing a small crush of her own.That’s when they rekindled ties and began dating in earnest, just before the COVID-19 pandemic hit the world.Soon after, Jorgie had to go back to the Philippines, but Romel couldn’t let his ‘mahal’ [beloved] say ‘adios,’ and they kept in touch online.Around 2022, Romel was able to go to the Philippines. By then, he knew he couldn’t let Jorgie get away, and when he asked her again to be his girlfriend, she agreed.The couple moved back to Saipan in 2023 and tied the knot in November 2024.They both say they want to make Saipan their home.In her Instagram and Facebook posts of their photos, Jorgie said: “Everything about this place has ‘paradise’ written all over it.” 
 
@@ -2819,260 +3304,4 @@ date: 2025-02-09, from: Pacific Island Times
 <br> 
 
 <https://www.pacificislandtimes.com/post/caught-in-crossfire-between-ag-guam-governor-what-s-the-government-s-actual-plan-for-the-homeless>
-
----
-
-## Life on the streets: A closer look at homelessness on Guam
-
-date: 2025-02-08, from: Pacific Island Times
-
-“My day-to-day life is about helping the homeless family out here,” Bowermaster said. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/life-on-the-streets-a-closer-look-at-homelessness-on-guam>
-
----
-
-## Friends on the Lions bandwagon
-
-date: 2025-02-08, from: Pacific Island Times
-
-Lessons from Everyday Life By Theodore Lewis   Bridgman, MI —The bandwagon for the Detroit Lions this year has had to add many additional... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/friends-on-the-lions-bandwagon>
-
----
-
-## A fishing season that’s over in a splash
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>As fishing goes, the sturgeon-spearing season on Black Lake in Cheboygan, Michigan, may be the shortest in the country: six fish long. Starting at 8 a.m. Feb. 1, about 500 fishers hoped to throw spears at sturgeon passing under the ice until the sixth and final fish was caught 17 minutes later, the fastest season ever.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/features/a-fishing-season-thats-over-in-a-splash/>
-
----
-
-## Small plane with 10 dead found crashed in Alaska
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>The mangled wreckage of a plane with 10 bodies inside was found Friday near the western coast of Alaska and is believed to be the aircraft that vanished the day before, a spokesperson for the U.S. Coast Guard in Alaska said.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/small-plane-with-10-dead-found-crashed-in-alaska/>
-
----
-
-## Trump says he will announce reciprocal tariffs next week
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump indicated he was ready to broaden his trade war Friday, saying that he would announce reciprocal tariffs on other countries next week. Such a measure would raise the levies the United States charges on imports to match what other countries charge on American products, a move that could trigger new trade fights.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trump-says-he-will-announce-reciprocal-tariffs-next-week/>
-
----
-
-## US job growth slows in January; unemployment rate at 4.0%
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. job growth slowed more than expected in January after robust gains in the prior two months, but a 4.0% unemployment rate probably will give the Federal Reserve cover to hold off cutting interest rates at least until June.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/us-job-growth-slows-in-january-unemployment-rate-at-4-0/>
-
----
-
-## Trump says he will dismiss Kennedy Center board members and install himself as chair
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump announced his intention Friday to bring the John F. Kennedy Center for the Performing Arts in Washington more firmly under his control, saying he would dismiss several board members and install himself as chair.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trump-says-he-will-dismiss-kennedy-center-board-members-and-install-himself-as-chair/>
-
----
-
-## Sweden to tighten gun laws after mass shooting at school
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>OREBRO, Sweden &#8212; Sweden&#8217;s right-wing government said on Friday it would seek to tighten gun laws in the wake of the country&#8217;s deadliest mass shooting at an adult education center where the attacker appeared to have used several of his own licensed rifles.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/sweden-to-tighten-gun-laws-after-mass-shooting-at-school/>
-
----
-
-## Young aides emerge as enforcers in Musk’s broadside against government
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; At the end of his third week bulldozing through the federal government, Elon Musk sat down to give Vice President JD Vance a 90-minute briefing on his efforts to dismantle the bureaucracy. Musk was not alone.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/young-aides-emerge-as-enforcers-in-musks-broadside-against-government/>
-
----
-
-## State high court probes conditions of Maui wildfires settlement
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>Hawaii Supreme Court justices posed many exacting, and sometimes skeptical, questions Thursday to attorneys in a case pertaining to the validity of a $4 billion deal to settle Maui wildfire litigation.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/hawaii-news/state-high-court-probes-conditions-of-maui-wildfires-settlement/>
-
----
-
-## Judge says he will freeze elements of Trump plan to shut down USAID
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; A federal judge said Friday that he would order the Trump administration to halt for now some elements of its attempt to shut down the United States Agency for International Development.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/judge-says-he-will-freeze-elements-of-trump-plan-to-shut-down-usaid/>
-
----
-
-## Trump’s executive orders leave imprint on the Fed
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump has so far restrained himself from trying to meddle with the Federal Reserve on matters related to monetary policy during his second term. But some of the more than 50 executive orders he has signed since returning to the White House are leaving an imprint on the central bank.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/nation-world-news/trumps-executive-orders-leave-imprint-on-the-fed/>
-
----
-
-## Be ready for Valentine’s Day, only a week away
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>Valentine&#8217;s Day is almost upon us so it is important to tell your loved ones how much you care.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/features/be-ready-for-valentines-day-only-a-week-away/>
-
----
-
-## Police ID motorcyclist killed in Pahoa crash
-
-date: 2025-02-08, from: Hawaii Tribune Harold
-
-
-				<p>Police have identified the motorcyclist who died in a traffic collision involving a dump truck in Pahoa on Feb. 3 as 36-year-old Wallace Zimmerman of Pahoa.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/08/hawaii-news/police-id-motorcyclist-killed-in-pahoa-crash/>
-
----
-
-## Coast Guard finds wreckage of missing Alaska plane; all 10 on board killed
-
-date: 2025-02-08, updated: 2025-02-09, from: Marianas Variety
-
-(Reuters) — The U.S. Coast Guard in Alaska found the wreckage of a small plane atop frozen sea ice on Friday, after the aircraft suddenly lost altitude on Thursday and the crash killed all 10 people on board, officials said. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/coast-guard-finds-wreckage-of-missing-alaska-plane-all-10-on-board-killed/article_23c52616-e5db-11ef-aea6-a7caa5ed0707.html>
-
----
-
-## 24 football players selected academic All-Mountain West
-
-date: 2025-02-08, from: University of Hawaiʻi News
-
-<p>To be eligible for Academic All-Conference honors, student-athletes must maintain a cumulative <abbr title="grade point average">GPA</abbr> of 3.0 or better.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/07/uh-football-academic-all-mountain-west/">24 football players selected academic All-Mountain West</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/07/uh-football-academic-all-mountain-west/>
-
----
-
-## Donahue named preseason All-Big West, baseball ‘Bows picked fourth
-
-date: 2025-02-08, from: University of Hawaiʻi News
-
-<p>The ‘Bows open the 2025 season on February 14 against Marshall at Les Murakami Stadium.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/07/baseball-all-big-west-preseason/">Donahue named preseason All-Big West, baseball ‘Bows picked fourth</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/07/baseball-all-big-west-preseason/>
-
----
-
-## Kauaʻi CC works to fund scholarship for graduating island seniors
-
-date: 2025-02-08, from: University of Hawaiʻi News
-
-<p>The <span aria-label="Hoolei">Ho&#699;olei</span> Scholarship Fund aims to cover first-year tuition (after financial aid) for every senior graduating from a public or charter high school on <span aria-label="Kauai">Kaua&#699;i</span>.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/07/kauai-cc-works-to-fund-hoolei-scholarship/">Kauaʻi <abbr>CC</abbr> works to fund scholarship for graduating island seniors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/07/kauai-cc-works-to-fund-hoolei-scholarship/>
-
----
-
-## How genetics, lifestyle promote cognitive health in older adults
-
-date: 2025-02-08, from: University of Hawaiʻi News
-
-<p>Work, volunteering and leisure activities are associated with better cognitive health in older adults, even for those at genetic risk for Alzheimer’s.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/07/cognitive-health-older-adults/">How genetics, lifestyle promote cognitive health in older adults</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/07/cognitive-health-older-adults/>
 

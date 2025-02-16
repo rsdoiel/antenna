@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-02-15 07:08:09
+updated: 2025-02-16 07:08:31
 ---
 
 # retro computing
 
-(date: 2025-02-15 07:08:09)
+(date: 2025-02-16 07:08:31)
 
 ---
 
@@ -164,16 +164,4 @@ Rick's Statement on the UK Online Safety Act, The seventeen 'harms', Storm damag
 <br> 
 
 <https://heyrick.eu/blog/index.php?diary=20250209>
-
----
-
-## b.log 2025/02/08 - ESP32 SDK craziness, The Letterbox gizmo, Linky weirdness.
-
-date: 2025-02-08, from: Richard Murray's blog
-
-ESP32 SDK craziness, The Letterbox gizmo, Linky weirdness. 
-
-<br> 
-
-<https://heyrick.eu/blog/index.php?diary=20250208>
 

@@ -1,11 +1,59 @@
 ---
 title: libraries
-updated: 2025-02-15 07:08:08
+updated: 2025-02-16 07:08:31
 ---
 
 # libraries
 
-(date: 2025-02-15 07:08:08)
+(date: 2025-02-16 07:08:31)
+
+---
+
+## Understanding the distributional effects of recurrent floods in the Philippines
+
+date: 2025-02-21, from: ETH Zurich, recently added
+
+Sauer I.J.; Walsh B.; Frieler K.; Bresch D.N.; Otto C. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/720104>
+
+---
+
+## Nordenholt’s Million, by J. J. Connington
+
+date: 2025-02-15, from: Standard Ebooks, new releaases
+
+After a strain of bacteria causes the collapse of the world’s food supply, a plutocrat creates a refuge to try to ensure the survival of a chosen few. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/j-j-connington/nordenholts-million>
+
+---
+
+## Model-based Imitation Learning from Observation for input estimation in monitored systems
+
+date: 2025-02-15, from: ETH Zurich, recently added
+
+Liu, Wei; Lai, Zhilu; Stoura, Charikleia D.; Bacsa, Kiran; Chatzi, Eleni 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713432>
+
+---
+
+## Numerical simulations of subduction, relamination and accretion of magmatic arcs – implications for continent-ocean convergent margins
+
+date: 2025-02-15, from: ETH Zurich, recently added
+
+Maierová, Petra; Schulmann, Karel; Gerya, Taras 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713503>
 
 ---
 

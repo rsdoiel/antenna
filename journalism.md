@@ -1,11 +1,113 @@
 ---
 title: journalism
-updated: 2025-02-15 07:08:07
+updated: 2025-02-16 07:08:30
 ---
 
 # journalism
 
-(date: 2025-02-15 07:08:07)
+(date: 2025-02-16 07:08:30)
+
+---
+
+## Saving Hearts’ UCLA chapter hosts free screening event for underserved community
+
+date: 2025-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Cardiologists and students from UCLA convened at Valencia High School to provide free heart screenings Feb. 1.
+The Saving Hearts Foundation at UCLA was founded in 2014 after three UCLA students lost a family friend to a sudden cardiac arrest event. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/15/saving-hearts-ucla-chapter-hosts-free-screening-event-for-underserved-community/>
+
+---
+
+## UCPD arrests person for drug possession during bicycle stop in Sawtelle
+
+date: 2025-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD arrested a person for drug possession Saturday morning.
+Police arrested the suspect during a bicycle stop at La Grange Avenue and Pontius Avenue in Sawtelle at 3 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/15/ucpd-arrests-person-for-drug-possession-during-bicycle-stop-in-sawtelle/>
+
+---
+
+## Theater review: ‘Noises Off’ brings humor to Geffen Playhouse with successfully reimagined script
+
+date: 2025-02-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Much unlike its title, audiences of &#8220;Noises Off” will find themselves laughing from beginning to end.
+Playing at the Geffen Playhouse through March 9, the cast of “Noises Off” will slap, kiss and drink themselves into oblivion, bringing a now-classically farcical time for theatergoers to the heart of Westwood. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/15/theater-review-noises-off-brings-humor-to-geffen-playhouse-with-successfully-reimagined-script/>
+
+---
+
+## Alumnus-written play ‘Good Tidings’ unpacks spirituality, explores communal bonds
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+When the spiritual leader of a commune dies, all within it are left reeling.
+“Good Tidings,” a UCLA alumnus-written play presented by Los Angeles Theatre Initiative, is hosting its three LA previews Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/15/alumnus-written-play-good-tidings-unpacks-spirituality-explores-communal-bonds/>
+
+---
+
+## Second Take: History of ‘Saturday Night Live’ proves its importance in entertainment, society
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+After 50 years on air, the success of &#8220;Saturday Night Live&#8221; doesn&#8217;t need to be measured in laughter.
+NBC&#8217;s award-winning late-night sketch comedy series will celebrate its 50th anniversary with a three-hour special this weekend. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/15/second-take-history-of-saturday-night-live-proves-its-importance-in-entertainment-society/>
+
+---
+
+## UPTE-CWA 9119 to conduct 3-day strike against UC at end of February
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+A research and technical workers union announced plans for a three-day strike, becoming the second union to announce a strike against the University of California on Friday.&#160;
+The University Professional and Technical Employees-Communications Workers of America 9119 – which represents research and technical workers – called the strike, which will take place on all 10 UC campuses from Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/upte-cwa-9119-to-conduct-3-day-strike-against-uc-at-end-of-february/>
+
+---
+
+## From Me to You
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/from-me-to-you/>
+
+---
+
+## Editorial Cartoon: “Bruin Up Some Love”
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/editorial-cartoon-bruin-up-some-love/>
 
 ---
 
@@ -344,6 +446,30 @@ date: 2025-02-13, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2025/02/13/usc-womens-basketball-has-tough-test-in-undefeated-bruins/>
+
+---
+
+## Trump wants news outlets to get on board with “Gulf of America” — or else. Will they?
+
+date: 2025-02-13, from: Nieman Journalism Lab
+
+Place names are political. When they change, it&#8217;s often the result of someone&#8217;s victory, whether political or military. When Saigon became Ho Chi Minh City or St. Petersburg became Leningrad, you knew there was a new boss in town. Other times, it&#8217;s a sign that someone or something has fallen out of public favor —... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/trump-wants-news-outlets-to-get-on-board-with-gulf-of-america-or-else-will-they/>
+
+---
+
+## BBC News finds that AI tools “distort” its journalism into “a confused cocktail” with many errors
+
+date: 2025-02-13, from: Nieman Journalism Lab
+
+When the BBC tested four generative AI tools on articles on its own site, it found many &#8220;significant issues&#8221; and factual errors, the company said in a report released Tuesday. The BBC gave four AI assistants — OpenAI&#8217;s ChatGPT, Microsoft&#8217;s Copilot, Google&#8217;s Gemini, and Perplexity — &#8220;access to our website for the duration of the research1... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/bbc-news-finds-that-ai-tools-distort-its-journalism-into-a-confused-cocktail-with-many-errors/>
 
 ---
 
@@ -876,6 +1002,18 @@ The Department of Africana Studies celebrated Black History Month with the event
 
 ---
 
+## If you ask New York Times reporters to spend less time on Twitter, will they? (Spoiler: yes)
+
+date: 2025-02-11, from: Nieman Journalism Lab
+
+It&#8217;s a question that&#8217;s crossed the minds of countless news executives over the past two decades: How can I get my reporters to spend less time on Twitter? For years, Twitter offered journalists an enthralling mix of community, excitement, and eyeballs. It was a buzzing global newsroom, where you could watch big stories break in... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/if-you-ask-new-york-times-reporters-to-spend-less-time-on-twitter-will-they-spoiler-yes/>
+
+---
+
 ## Get creative at the Creative Maker studio
 
 date: 2025-02-11, from: The Sundail (CSUN Student Newspaper)
@@ -1003,6 +1141,30 @@ Host Kayla Hayempour talks with UCLA alum Rachel Sumekh, founder of Swipe Out Hu
 
 ---
 
+## The (nearly) full list of Good Daily’s AI-generated local newsletters
+
+date: 2025-02-10, from: Nieman Journalism Lab
+
+On January 27, I published a story on Good Daily, a network of AI-generated local newsletters that over the past year has quietly spread to 355 towns and cities across the U.S. Since our story ran, I’ve received requests to share a list of all the newsletters we’ve identified. These requests have come in from... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/the-nearly-full-list-of-good-dailys-ai-generated-local-newsletters/>
+
+---
+
+## “Lightning in a bottle”: Meredith Clark on Black Twitter’s journalistic impact, legacy — and writing its “obituary”
+
+date: 2025-02-10, from: Nieman Journalism Lab
+
+Meredith Clark’s research started when she attended the National Black Journalists Association convention in New Orleans in 2012. As a journalist and a graduate student at the University of North Carolina, Chapel Hill, she wanted to study how Black people use Twitter. At the conference, she passed out cards asking attendees to tweet at her... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/lightning-in-a-bottle-meredith-clark-on-black-twitters-journalistic-impact-legacy-and-writing-its-obituary/>
+
+---
+
 ## Gallery: Japanese Student Association brings music and culture to Matsuri
 
 date: 2025-02-10, from: The Daily Bruin (UCLA Student Newspaper)
@@ -1012,6 +1174,18 @@ On Jan. 23, the Japanese Student Association held the Matsuri festival on Kerckh
 <br> 
 
 <https://dailybruin.com/2025/02/10/gallery-japanese-student-association-brings-music-and-culture-to-matsuri/>
+
+---
+
+## Less is more, and discounts work: A new study looks at the minutiae of paywall strategy
+
+date: 2025-02-10, from: Nieman Journalism Lab
+
+On its surface, the definition of a paywall is straightforward: A digital popup that blocks you from reading the story you clicked on unless you pay up. But the catch-all term “paywall” conceals several smaller decisions that go into designing exactly how much a reader sees as a news org coaxes them to subscribe. Do... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/less-is-more-and-discounts-work-a-new-study-looks-at-the-minutiae-of-paywall-strategy/>
 
 ---
 
@@ -1181,79 +1355,4 @@ Centered around Chicanas in lowrider culture, the CSUN Art Galleries “Bajitas 
 <br> 
 
 <https://sundial.csun.edu/189748/arts-entertainment/csun-art-galleries-celebrate-chicanas-with-bajitas-y-suavecitas-exhibit/>
-
----
-
-## Westwood power outage affects apartments around UCLA
-
-date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Feb. 9 at 11:05 p.m.</em>
-Some Westwood residents lost power twice Saturday.
-Residents living on Glenrock Avenue, Levering Avenue and Midvale Avenue reported power outages beginning around 2:10 p.m., with power still out as of 3:35 p.m. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/08/westwood-power-outage-affects-apartments-around-ucla/>
-
----
-
-## VOVE’s End of Year Showcase: A celebration of music
-
-date: 2025-02-08, from: The Sundail (CSUN Student Newspaper)
-
-CSUN&#8217;s student-run record label, Five of Five Entertainment (VOVE), wrapped up last semester with their high-energy End of Year Showcase on Sunday, Dec. 15, 2024. The event was hosted by... 
-
-<br> 
-
-<https://sundial.csun.edu/189710/arts-entertainment/voves-end-of-year-showcase-a-celebration-of-music/>
-
----
-
-## On The Steps Episode 2: UCLA celebrates Lunar New Year
-
-date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-This week, the Daily Bruin looks at how students welcomed the Year of the Snake. We also take you inside Cherry Pop Records, UCLA&#8217;s student run record label, and the most recent men&#8217;s tennis game against Berkeley. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/07/on-the-steps-episode-2-ucla-celebrates-lunar-new-year/>
-
----
-
-## Helping Hands Across the Country for LA Fire Relief
-
-date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-Across the nation, people are coming together to support those impacted by the devastating Los Angeles fires. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/07/helping-hands-across-the-country-for-la-fire-relief/>
-
----
-
-## Nimoy Theater wins architectural award for renovations highlighting historic roots
-
-date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated Feb 9 at 11:50 p.m.</em>
-The newly renovated Nimoy Theater in Westwood won the Best Hospitality Project award at the Los Angeles Business Council’s 54th Annual Architectural Awards this October. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/07/nimoy-theater-wins-architectural-award-for-renovations-highlighting-historic-roots/>
-
----
-
-## Santa Anita Donation Drive Unites Community After Wildfires
-
-date: 2025-02-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-A massive impromptu donation center for victims devastated by the Eaton and Palisades wildfires was held in the parking lot of the Santa Anita Racetrack in Arcadia CA on January 12. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/07/santa-anita-donation-drive-unites-community-after-wildfires/>
 

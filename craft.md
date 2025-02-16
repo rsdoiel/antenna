@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-02-15 07:08:10
+updated: 2025-02-16 07:08:32
 ---
 
 # craft
 
-(date: 2025-02-15 07:08:10)
+(date: 2025-02-16 07:08:32)
+
+---
+
+## LAP Open Wire Feb. 15, 2025
+
+date: 2025-02-15, from: Lost Arg Press blog
+
+Got a woodworking question? Post in the comments below between now and 5 p.m. Eastern, and we&#8217;ll do our best to answer. In between answering, Chris is getting ready for an upcoming class and video shoot with Jerome Bias, and I&#8217;m working on a personal project (so if we don&#8217;t answer right away, that&#8217;s why).... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/15/lap-open-wire-feb-15-2025/>
 
 ---
 

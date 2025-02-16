@@ -1,11 +1,1878 @@
 ---
 title: north america
-updated: 2025-02-15 07:08:03
+updated: 2025-02-16 07:08:27
 ---
 
 # north america
 
-(date: 2025-02-15 07:08:03)
+(date: 2025-02-16 07:08:27)
+
+---
+
+##  Will You Be My Monopolist? 
+
+date: 2025-02-16, from: The Lever News
+
+ The government is picking fights with our allies and icing out consumer protections, plus more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/will-you-be-my-monopolist/>
+
+---
+
+## White South Africans gather in support of Trump, his claims they are victims of racism
+
+date: 2025-02-16, from: VOA News USA
+
+PRETORIA, SOUTH AFRICA — Some white South Africans showed support for President Donald Trump on Saturday and gathered at the U.S. Embassy in Pretoria to claim they are victims of racism by their own government.
+
+
+Hundreds of protesters held placards that read "Thank God for President Trump" and displayed other messages criticizing what they see as racist laws instituted by the South African government that discriminate against the white minority.
+
+
+Many were from the Afrikaner community that Trump focused on in an executive order a week ago that cut aid and assistance to the Black-led South African government. In the order, Trump said South Africa's Afrikaners, who are descendants of mainly Dutch colonial settlers, were being targeted by a new law that allows the government to expropriate private land. 
+
+
+The South African government has denied its new law is tied to race and says Trump's claims over the country and the law have been full of misinformation and distortions. 
+
+
+Trump said land was being expropriated from Afrikaners — which the order referred to as "racially disfavored landowners" — when no land has been taken under the law. Trump also announced a plan to offer Afrikaners refugee status in the U.S. They are only one part of South Africa's white minority. 
+
+
+In a speech to Parliament this week, South African President Cyril Ramaphosa said the forced removal of any people from their land will never be allowed in South Africa again after millions of Blacks were dispossessed of property under the apartheid system of white minority rule and hundreds of years of colonialism before that. 
+
+
+"The people of this country know the pain of forced removals," Ramaphosa said. He said the land law does not allow any arbitrary taking of land and only refers to land that can be redistributed for the public good. 
+
+
+The Trump administration's criticism and punishment of South Africa has elevated a long-standing dilemma in the country over moves to address the wrongs of centuries of white minority rule that oppressed the Black majority. 
+
+
+According to the government, the land law aims to fairly address the inequality that the majority of farmland in South Africa is owned by whites, even though they make up just 7% of the country's population. 
+
+
+White protesters on Saturday held banners referencing the expropriation law but also other affirmative action policies put in place by the government since the end of apartheid in 1994 to advance opportunities for Blacks. Those laws, known as Black Economic Empowerment, have been a source of frustration for some white people.
+
+
+Influential Trump adviser Elon Musk — who was raised in South Africa — has also criticized South Africa’s government and claimed it is anti-white for years, although some have questioned his motivations. He has recently failed to get a license for his Starlink satellite internet service in South Africa because it doesn’t meet the country’s affirmative action criteria.
+
+
+While race has long framed South African politics, the country has been largely successful in reconciling its racially diverse people in the years after apartheid. The current government is made up of a coalition of 10 Black-led and white-led political parties that are working together. 
+
+<br> 
+
+<https://www.voanews.com/a/white-south-africans-gather-in-support-of-trump-and-his-claims-that-they-are-victims-of-racism/7976735.html>
+
+---
+
+## Breakfast is booming at US restaurants. Is it also contributing to high egg prices?
+
+date: 2025-02-16, from: VOA News USA
+
+It's a chicken-and-egg problem: Restaurants are struggling with record-high U.S. egg prices, but their omelets, scrambles and huevos rancheros may be part of the problem.
+
+
+Breakfast is booming at U.S. eateries. First Watch, a restaurant chain that serves breakfast, brunch and lunch, nearly quadrupled its locations over the past decade to 570. Eggs Up Grill has 90 restaurants in nine southern states, up from 26 in 2018. Florida-based Another Broken Egg Café celebrated its 100th restaurant last year.
+
+
+Fast-food chains are also adding more breakfast items. Starbucks, which launched egg bites in 2017, now has a breakfast menu with 12 separate items containing eggs. Wendy's reintroduced breakfast in 2020 and offers 10 items with eggs.
+
+
+Reviews website Yelp said 6,421 breakfast and brunch businesses opened in the United States last year, 23% more than in 2019.
+
+
+In normal times, producers could meet the demand for all those eggs. But an ongoing bird flu outbreak, which so far has forced farms to slaughter nearly 159 million chickens, turkeys and other birds — including nearly 47 million since the start of December — is making supplies scarcer and pushing up prices. In January, the average price of eggs in the U.S. hit a record $4.95 per dozen.
+
+
+The percentage of eggs that go to U.S. restaurants versus other places, like grocery stores or food manufacturers, is not publicly available. U.S. Foods, a restaurant supplier, and Cal-Maine Foods, the largest U.S. producer of shell eggs, did not respond to The Associated Press' requests for comment.
+
+
+But demand from restaurants is almost certainly growing. Foot traffic at U.S. restaurants has grown the most since 2019 for morning meals, 2019, according to market research firm Circana. Pre-lunchtime hours accounted for 21% of total restaurant visits in 2024.
+
+
+
+
+Breakfast sandwiches are the most popular order during morning visits, Circana said, and 70% of the breakfast sandwiches on U.S. menus include eggs.
+
+
+Eggs Up Grill CEO Ricky Richardson said breakfast restaurants took off after the COVID pandemic because people longed for comfort and connection. As inflation made food more expensive, customers saw breakfast and lunch as more affordable options for eating out, he said.
+
+
+The growth in restaurant demand reverses a pattern that emerged during the pandemic, when consumers tried to stock up on eggs for home use but restaurants needed fewer of them because many of them had to close for a time, according to Brian Earnest, a lead economist for animal proteins at CoBank.
+
+
+U.S. egg consumption declined for more than five decades before reaching a low of 247 per person in 2008, according to data from the U.S. Department of Agriculture. As nutritional research and marketing established eggs as an inexpensive protein source instead of heart-clogging cholesterol bombs, per capita consumption of egg products grew to the equivalent of 292 fresh eggs in 2019, the data shows.
+
+
+"Consumers think eggs are really fresh, so if you're making something with eggs, you know it's fresh," Earnest said.
+
+
+Before the pandemic reduced demand and bird flu outbreaks impacted supplies, the USDA had forecast that Americans would continue eating more eggs. By 2023, the most recent year for which annual data is available, they were down to 249 eggs per person.
+
+
+Other trends have impacted the economics of eggs. To address animal rights concerns, McDonald's and some other companies have switched to 100% cage-free eggs, which limits the sources they will buy from. Ten states, including California and Colorado, have passed laws restricting egg sales to products from cage-free environments.
+
+
+"It makes the market much more complicated than it was 20 years ago," Earnest said.
+
+
+The higher prices are hitting restaurants hard. Wholesale egg prices hit a national average of $7.34 per dozen last week, according to the U.S. Department of Agriculture. That was 51% higher than at the beginning of the year. Wholesale costs may be higher than retail prices since grocers use eggs as a loss leader to get customers in the door.
+
+
+Some chains, like Waffle House, have added a surcharge to help offset the cost of eggs. Others may turn to egg substitutes like tapioca starch for some recipes or cut egg dishes from the menu, said Phil Kafarakis, the president and CEO of the International Foodservice Manufacturers Association.
+
+
+First Watch President and CEO Chris Tomasso said eggs are critical for the chain's brand and are found in the majority of its offerings, whether at the center of the plate or as an ingredient in batters. So far, he said, the company has been able to obtain the eggs it needs and isn't charging extra for them.
+
+
+First Watch is also increasing portion sizes for non-egg items like meat and potatoes, Tomasso said.
+
+
+Richardson, of Eggs Up Grill, said he recently met with franchisees to discuss adding a surcharge but they decided against it.
+
+
+"Eggs have always been and will continue to be an important part of American diets," Richardson said. 
+
+<br> 
+
+<https://www.voanews.com/a/breakfast-is-booming-at-us-restaurants-is-it-also-contributing-to-high-egg-prices-/7975967.html>
+
+---
+
+## US man sues travel company after hippo kills wife on Zambia trip
+
+date: 2025-02-16, from: VOA News USA
+
+A New Jersey man whose wife was killed in a horrific hippopotamus attack last year during a safari in Africa is suing the U.S. company that arranged the trip, alleging it failed to ensure their safety and did not adequately screen and supervise the tour guides.
+
+
+Craig and Lisa Manders were on a guided walk in Zambia in June when a hippo charged out of the water, grabbed Lisa Manders by its mouth and crushed her head and body with its bite, according to the lawsuit filed against African Portfolio, a safari tour company based in Greenwich, Connecticut. The company denies the lawsuit's allegations.
+
+
+The lawsuit, filed Feb. 5 in Stamford, Connecticut, alleges that as a horrified Craig Manders watched the attack, the tour guides — including at least one armed with a rifle — walked away without helping the couple. Lisa Manders, 70, suffered catastrophic injuries and died shortly after, the lawsuit says.
+
+
+"We're doing this because this should never have happened," said Paul Slager, an attorney who is representing Craig Manders with his law partner, Nicole Coates. "There are basic safety standards that businesses are expected to follow, and that includes people in the safari tour industry. And those were not followed, and the consequences here were absolutely devastating."
+
+
+Slager said the lawsuit seeks monetary damages that have not yet been determined, as well as accountability for Lisa Manders' death and keeping others safe in the future. He said Craig Manders was not giving interviews.
+
+
+The Manderses, of Cranford, New Jersey, were on a special anniversary trip and it was their first time in Africa, Slager said. Lisa Manders had worked in the financial industry for over 40 years and loved cooking, traveling and visiting New York City, where she was born in Queens in 1953, according to her obituary. The couple had three children and a granddaughter.
+
+
+The company's lawyer, Rodney Gould, said it was not negligent or reckless in connection with Lisa Manders' death. He said African Portfolio only arranged the couple's lodging and the owners of the lodging, Chiawa Safaris in Zambia, provided the tour guides.
+
+
+"It's a horrible tragedy when somebody goes on one of these trips and is injured or killed. It's awful," Gould said. "I think it's important to understand what African Portfolio's role in this is. It's a tour operator. It arranges trips. It puts together the pieces."
+
+
+
+
+He added, "My client didn't conduct the safari. It arranged it. It booked all the components."
+
+
+Gould also said the company was not negligent in vetting Chiawa, because it has an excellent reputation. He said African Portfolio will either ask a judge to dismiss the lawsuit or request that the matter go to arbitration, which was a condition of an agreement the Manderses signed for the trip.
+
+
+In a statement, African Portfolio did not directly address the lawsuit. It said Chiawa arranged the walking safari and guests were accompanied by an experienced and highly trained guide, a ranger and an armed National Park scout. It said Chiawa told authorities that safety measures were implemented before the attack and "repeated warnings" were issued to guests to return to the safety of the vehicle "during the incident."
+
+
+Asked whether the guests were warned about the hippo before the attack, African Portfolio said in an email only that "the statement is an accurate reflection of the events as we understand them." Gould declined to comment.
+
+
+The company also said its founder flew to Zambia immediately after the attack and joined Chiawa's owner in ensuring that "everything possible was being done to support the family and all those involved. Our thoughts and prayers continue to be with the family, and everyone else involved in this tragic incident."
+
+
+The lawsuit, which does not mention Chiawa, says African safaris are "inherently dangerous activities" because of the unpredictability and sometime aggressive nature of wild animals, and they require careful planning and execution to be completed safely. It says African Portfolio vetted and oversaw the tour guides and vouched that they were competent, qualified and trained to keep people safe.
+
+
+The suit alleges that African Portfolio "encouraged and/or permitted" the Manderses to be exposed to an "avoidable and highly dangerous encounter with a dangerous hippopotamus in the Zambian wilderness." It also accuses the company of failing to provide safe conditions during the wilderness walk and failing to ensure that the tour guides were adequately selected, screened, supervised and trained to provide a safe experience.
+
+
+African Portfolio also failed to take adequate steps to protect the Manderses before and during the attack, the suit alleges.
+
+
+Hippos are the world's second-largest land mammals after elephants, measuring about 3.5 meters long and about 1.5 meters tall, according to International Fund for Animal Welfare. The average male hippo weighs about 3,200 kilograms.
+
+
+Hippos are known to be territorial and aggressive at times. A year before Lisa Manders died, seven people were killed in the southern African nation of Malawi when a hippo charged into a canoe and capsized it on a river. Estimates of how many people are killed by hippos each year vary, with lower figures beginning at around 500.
+
+
+Lisa Manders suffered "significant premorbid fear and emotional pain, suffering and mental anguish" before her death, the suit says. Craig Manders suffered severe and debilitating emotional and psychological injuries that have made it difficult for him to cope with daily routines, it says.
+
+
+The lawsuit is seeking damages on allegations of negligence and recklessness.
+
+
+"He's suing both for the loss of his wife and the impact that has on him and his life," Slager said. "And he also has a claim for having witnessed what happened to her, having seen the attack, which is unthinkable. It's unimaginable." 
+
+<br> 
+
+<https://www.voanews.com/a/us-man-sues-travel-company-after-hippo-kills-wife-on-zambia-trip-/7974670.html>
+
+---
+
+## Photos lost in US disasters find way home with help from people who care
+
+date: 2025-02-16, from: VOA News USA
+
+LOS ANGELES — Hollowed-out homes. Cars entombed by mud. Unpeopled roads. Belongings reduced to dirt and debris. 
+
+
+It all took a toll on Taylor Schenker. 
+
+
+After Hurricane Helene last September, Schenker was upset by the deluge of images of Asheville, North Carolina. "This storm has taken so much," she said, "and it's so jarring to see the photos of the horrible devastation."
+
+
+So less than a week after the storm, she set out to do something about the wide-scale loss. 
+
+
+While helping a friend search for belongings cast downriver, she stumbled on a handful of photos of strangers — mud-caked, curled up in tree branches and stuck under river rocks. The images captured family reunions, newborn babies, weddings, birthday parties, beloved pets and school portraits. 
+
+
+"These tiny photos had been through so much and miraculously had washed up and were in decent enough condition that you could see what they were," said Schenker, 27. "It stuck with me." 
+
+
+To reclaim the search phrase "photos from Helene," she created an Instagram for "something positive, which is reuniting people with their memories." She set up a post-office box, linked up with a volunteer search and rescue crew, and ultimately uncovered more than 500 photos — or what she calls "little needles in a haystack." 
+
+
+When Schenker made her first match, she got chills. 
+
+
+Then, sitting in her car, she cried. 
+
+
+
+
+Photos found amid muck 
+
+
+We hold onto photos to keep memories alive — of people, places and moments that might otherwise fade. Or sometimes are ripped away abruptly. 
+
+
+Schenker has since returned more than 70 such images. A stack of them were hand-delivered to Mary Moss, whose car was destroyed by an uprooted tree as she and her husband evacuated the Asheville home where they had lived for almost 40 years. 
+
+
+"It was really kind of overwhelming at first when she handed me those pictures. I just couldn't even speak," Moss said. "You don't expect something as fragile as photos to be retrieved." 
+
+
+Months later, they've received some FEMA assistance and found a temporary home, which they're gradually furnishing with church donations. But some things are irreplaceable. 
+
+
+"This is not really about losing the home and all the material stuff in there. But what's been devastating is that that was everything we had of Tommy," she said of their son who died at age 12 from a genetic disorder. "It's those memories and the little things, the photos, that you can't replace." 
+
+
+As Schenker later understood it, "When they lost their home, they lost virtually all proof that this child existed." 
+
+
+"It is such a privilege to look into the intimate moments of people's lives," she said. "They've literally lost everything and they can't ever recreate those childhood photos." 
+
+
+
+
+In photos Schenker found nearly 3 miles (5 kilometers) from the Moss family home, Tommy is seen as a 2-year-old dressed like an angel for a Christmas pageant. In another, he is wearing a toddler-sized suit; in yet another, he's playing at daycare alongside his younger brother Dallas. 
+
+
+"It is just breathtaking," Moss said. "This is one thing that the river didn't get to take — or didn't get to keep." 
+
+
+Smoke, water, ash, soot
+
+
+More than 2,000 miles (3,200 kilometers) away, in the Altadena foothills of Los Angeles, Claire Schwartz, 31, began to collect photos with a similar idea: Find images, post them online, try to unite them with their owners. 
+
+
+After the Eaton fire, but before the first rain, she panicked. When rain and ash mix, it makes lye, which destroys photos. "Someone has to do this ASAP," she remembers thinking to herself. "And I realized it had to be me — because nobody else was doing it." 
+
+
+Luca Ackerman, a New York-based photo conservator, cautions that mold can start to develop 48 hours after water exposure. To slow the deterioration process, he freezes such prints — and advised to not wipe off any surfaces, which can drag toxic oils across the print, "driving particles deeper into the material." Some photos are so brittle, too, that when touched they may disintegrate. 
+
+
+
+
+In the wake of disasters, conservators like Ackerman are deployed in volunteer rotations with the National Heritage Responders. Rapidly, he trains art handlers and museum staff how to treat sensitive materials, whether they are damaged by smoke, water, ash or soot. 
+
+
+Wearing a respirator, nitrile gloves and booties, Schwartz swiftly set out to salvage photos — finding them alongside pages from yearbooks, sheet music, and children's art in nearby parks, neighbors' front yards and a golf course. 
+
+
+"The wind has scattered everything, everywhere. And trash is mixed in with precious mementos everywhere you look," she said. "It's just absolutely bizarre how stuff clumps together and travels as a unit." 
+
+
+Finding the photographed people
+
+
+Normally, a local library would take in found items, but the Altadena Public Library, along with more than 9,000 homes, burned to the ground. Librarians are redirecting residents who have found photos to Schwartz. 
+
+
+She adopted parts of her process from what she learned as an archival intern at the Corita Art Center — protecting photos in acid-free, glassine envelopes and storing them in a waterproof box in a temperature-controlled room with good air circulation. 
+
+
+Last week, she made her first match: disposable camera photos of teenagers, smiling, in prom dresses and glittering tiaras. The image is flecked with damage, but all four corners are intact. 
+
+
+"It's funny — you formulate these ideas of who the person is," Schwartz said. "She was kind of exactly what I pictured, just really friendly and bubbly and lovely — you could tell that just from her photos." 
+
+
+Schwartz's house survived because her neighbors stayed behind to fight the fire themselves, but the landscape around it — full of burned-out lots, ghostly palm trees and blackened telephone poles — is otherworldly and changed. "It looks like the moon. It looks like another planet. It doesn't look like home." 
+
+
+Nearby is Joshua Simpson, a photographer who lost his Altadena home and studio, along with decades of film negatives, silver gelatin prints and camera equipment. But something meaningful survived. 
+
+
+"The very first thing we found was this beautiful vintage print of my mother-in-law holding my wife when she was a newborn baby," said Simpson. The black-and-white photo carries an extra layer of poignancy, as his mother-in-law died just few months ago. "We were both pretty overjoyed in that moment. It felt a little magical finding that one." 
+
+
+Above all, Ackerman said, personal safety comes first. "When you're picking up people's heirlooms or family photographs, that can be traumatic — even if they're not yours," he said. 
+
+
+When people survive catastrophic events such as wildfires or hurricanes, and are left to cope with loss, they may express a wide range of emotions — from overwhelmed to outraged to numb sometimes all at once. Tragedies, though, can also strengthen the ties in communities, and people like Schenker and Schwartz are Exhibits A and B. 
+
+
+"Disasters like this really bring out the best in people," Moss said. "You know, I can laugh or I can cry about it — and I choose to laugh about it. Fortunately, we didn't lose the most important thing. That's lives." 
+
+<br> 
+
+<https://www.voanews.com/a/how-photos-lost-in-american-disasters-find-their-way-home-with-a-little-help-from-people-who-care-/7974676.html>
+
+---
+
+## Fistfights, anthem boos in stormy US-Canada ice hockey clash
+
+date: 2025-02-16, from: VOA News USA
+
+MONTREAL — Three fights in the first nine seconds and a chorus of deafening boos for the US national anthem marked a stormy ice hockey clash between the United States and Canada in Montreal on Saturday.
+
+
+An emotionally charged showdown between the star-studded lineups of the North American rivals -- which comes against a backdrop of political tension between the two neighboring countries -- erupted into violence from the opening puck drop at Montreal's Bell Centre.
+
+
+The U.S. squad clinched a spot in the 4 Nations Face-Off final Thursday at Boston with a 3-1 victory, but the result was almost a footnote to the mayhem that marked the start of a game played before a fiercely partisan Canadian crowd.
+
+
+With Canadian Prime Minister Justin Trudeau in the crowd, home fans booed The Star-Spangled Banner before the game, catcalls that have become a regular feature at NHL and NBA games in Canada since U.S. President Donald Trump threatened to impose tariffs on Canadian goods crossing U.S. borders.
+
+
+Then came three fights in nine seconds.
+
+
+"I just think it's very indicative of what this means to the players," U.S. coach Mike Sullivan said. "There's two teams out there that are very competitive, that have a ton of pride for their respective teams and their countries.
+
+
+"For me, when you have an investment in trying to win like the way that it occurred -- I think that's an indication of it. What an incredible hockey game."
+
+
+Canada coach Jon Cooper, the two-time Stanley Cup champion coach for Tampa Bay who will guide the Canadian 2026 Olympic team, said the melee in the first moments was not prearranged.
+
+
+"It wasn't planned," Cooper said. "That wasn't two coaches throwing guys over and saying 'This is happening' -- none of that happened. That was as organic as it gets."
+
+
+At the opening puck drop, the gloves came off for real on the ice as Canada's Brandon Hagel and Matthew Tkachuk of the United States began swinging punches as the crowd went wild and teammates skated back to give the brawlers a clear stage at center ice.
+
+
+Referees restored order, sent the combatants to the penalty box and tried to restart the game, only for Canada's Sam Bennett and Brady Tkachuk of the Americans to drop their gloves and trade punches until officials could break them apart, Tkachuk following his brother into the penalty box.
+
+
+The game was restarted but only got to nine seconds before American J.T. Miller and Canada's Colton Parayko began the third and final fight.
+
+
+'Jacked up'
+
+
+Asked about U.S. players having agreed on the fight-filled start beforehand on a group chat, Sullivan said he was unaware of such a move.
+
+
+"These guys care very much about winning," he said. "Brady and Matthew, they play the game with so much emotion -- and they're leaders in so many ways.
+
+
+"It's just an indication of how much these guys care and how bad they want to win. I was not aware of it. Obviously, there's a lot of energy around this game. I knew we were going to be jacked up to play."
+
+
+Top NHL players from the United States and Canada had not faced off against each other for their home nations since the 2016 World Cup of Hockey, the league's best traditionally skipping the world championships and the NHL having chosen not to send its players to the 2018 PyeongChang or 2022 Beijing Winter Olympics.
+
+
+"It was probably I guess 10 years of no international hockey exhaled in a minute and a half," Cooper said.
+
+
+The intense drama continued once the game began in earnest with Canada going ahead on Connor McDavid's goal 5:31 into the first period.
+
+
+But the Americans equalized on Jake Guentzel's goal at 10:15 of the first period and the U.S. went ahead to stay on Dylan Larkin's tally at 13:33 of the second period. The Americans sealed the triumph on Guentzel's empty-net goal with 1:19 remaining in the third period. 
+
+<br> 
+
+<https://www.voanews.com/a/fistfights-anthem-boos-in-stormy-us-canada-ice-hockey-clash/7976716.html>
+
+---
+
+## US, South Korea, Japan reaffirm pledge to seek denuclearization of North Korea
+
+date: 2025-02-16, from: VOA News USA
+
+MUNICH  — The United States, Japan and South Korea renewed their "resolute" pledge to seek the "complete denuclearization" of North Korea, according to a joint statement from the three allies released Saturday.
+
+
+The statement came after new U.S. Secretary of State Marco Rubio held his first meetings with South Korean Foreign Minister Cho Tae-yul and Japan's top diplomat Takeshi Iwaya on the sidelines of the Munich Security Conference on Saturday.
+
+
+"The Secretary and Foreign Ministers reaffirmed their resolute commitment to the complete denuclearization of the Democratic People's Republic of Korea (DPRK) in accordance with the United Nations Security Council Resolutions (UNSCRs)," it said.
+
+
+"They expressed their serious concerns over and the need to address together the DPRK's nuclear and missile programs, malicious cyber activities including cryptocurrency thefts, and increasing military cooperation with Russia," it added.
+
+
+The three sent a "strong warning" that they "will not tolerate any provocations or threats to their homelands," and vowed to maintain and strengthen international sanctions against Pyongyang.
+
+
+They also said they were committed to "the immediate resolution of the issues of abductees, detainees, and unrepatriated prisoners of war as well as the issue of separated families."
+
+
+Largely cut off from the world diplomatically and economically, and under a bevy of sanctions, North Korea with its ongoing nuclear weapons program has been a major thorn in the side of the United States for years.
+
+
+President Donald Trump, who had a rare series of meetings with Kim Jong Un during his first term in office, has said he will reach out again to the North Korean leader, calling Kim a "smart guy."
+
+
+Despite Trump's diplomatic overtures, North Korea said in January that its nuclear program would continue "indefinitely."
+
+
+Pyongyang also said earlier this month it would not tolerate any "provocation" by the United States after Rubio called it a "rogue state" in a radio interview.
+
+
+It has also slammed a visit by a U.S. nuclear submarine to a naval base in South Korea this month as a "hostile military act."
+
+
+A summit between Trump and Kim in Hanoi collapsed in 2019 over talks on sanctions relief and what Pyongyang would be willing to give up in return. 
+
+<br> 
+
+<https://www.voanews.com/a/us-south-korea-japan-reaffirm-pledge-to-seek-denuclearization-of-north-korea/7976702.html>
+
+---
+
+## US fires 20 immigration judges from backlogged courts
+
+date: 2025-02-16, from: VOA News USA
+
+SAN DIEGO, CALIFORNIA — The administration of U.S. President Donald Trump has fired 20 immigration judges without explanation, a union official said Saturday amid sweeping moves to shrink the size of the federal government. 
+
+
+On Friday, 13 judges who had yet to be sworn in and five assistant chief immigration judges were dismissed without notice, said Matthew Biggs, president of the International Federation of Professional & Technical Engineers, which represents federal workers. Two other judges were fired under similar circumstances in the last week. 
+
+
+It was unclear if they would be replaced. The U.S. Justice Department's Executive Office for Immigration Review, which runs the courts and oversees its roughly 700 judges, did not immediately respond to a request for comment Saturday. 
+
+
+Immigration courts are backlogged with more than 3.7 million cases, according to Syracuse University's Transactional Records Access Clearinghouse. Applicants can wait years for their asylum case to be decided. There is support across the political spectrum for more judges and support staff, though the first Trump administration also pressured some judges to decide cases more quickly. 
+
+
+The Trump administration earlier replaced five top court officials, including Mary Cheng, the agency's acting director. Sirce Owen, the current leader and previously an appellate immigration judge, has issued a slew of new instructions, many reversing policies of the Biden administration. 
+
+
+Last month, the Justice Department halted financial support for nongovernmental organizations to provide information and guidance to people facing deportation but restored funding after a coalition of nonprofit groups filed a federal lawsuit. 
+
+
+The firings touch on two top Trump priorities: mass deportations and shrinking the size of the federal government. On Thursday, it ordered agencies to lay off nearly all probationary employees who had not yet gained civil service protection, potentially affecting hundreds of thousands of workers. Probationary workers generally have less than a year on the job. 
+
+<br> 
+
+<https://www.voanews.com/a/us-fires-20-immigration-judges-from-backlogged-courts-/7976698.html>
+
+---
+
+## US East faces flooding as snow forecast for Northeast, cold in Midwest
+
+date: 2025-02-16, from: VOA News USA
+
+LOUISVILLE, KENTUCKY — Much of the Eastern U.S. endured a renewed round of harsh, soggy weather Saturday, with snowstorms predicted in the Northeast and heavy winds bringing the threat of tornadoes to the Mississippi Valley.
+
+
+The states of Kentucky, Tennessee, West Virginia and Arkansas were under flood warnings, and people were warned by the National Weather Service to stay off the roads. Parts of western Kentucky could face up to 20.3 centimeters of rain.
+
+
+Governor Andy Beshear preemptively declared a state of emergency in Kentucky, where flash flooding was expected into Sunday.
+
+
+"We want to specifically put assets in places that flood and have flooded in the past," Beshear said on social media.
+
+
+Photos posted by authorities and users on social media showed cars and buildings underwater in Warren County, Kentucky, and in Buchanan County, Virginia, where the sheriff's office said multiple roads were blocked by mudslides.
+
+
+The Simpson County Office of Emergency Management in Kentucky said authorities performed several rescues from stalled-out vehicles in floodwaters.
+
+
+"Stay home if you can," the office said on Facebook.
+
+
+Flash flooding was possible in the Mississippi, Tennessee and Ohio valleys, the weather service said. In Tennessee, flash flood warnings were issued for much of the middle of the state through the evening.
+
+
+The National Weather Service called the expected rain a "major, potentially historic, flash flood event."
+
+
+Meanwhile heavy snow was expected to blanket much of New England and then transition to sleet, making travel nearly impossible. The heaviest accumulations — possibly 30.5 centimeters or more — were expected in upstate New York and portions of northern New England.
+
+
+"Ice accumulations up to a quarter inch (half a centimeter) are forecast for some areas, making driving conditions dangerous. Heavy icing in some locations may result in downed trees and power outages," the weather service warned.
+
+
+
+
+Snow and arctic temperatures swept much of the Midwest and Upper Plains, covering roads in eastern Nebraska, northern Iowa and much of Wisconsin. Winter weather advisories were issued for parts of those states and Michigan, with up to 10.6 centimeters of snow predicted throughout Iowa, southern Wisconsin and most of Michigan by Sunday evening.
+
+
+Frigid polar vortex
+
+
+Meteorologists said the U.S. was about to get its 10th and coldest polar vortex stretching event this season, with the northern Rockies and northern Plains first in line. Weather forces in the Arctic are combining to push the chilly air that usually stays near the North Pole into the U.S. and Europe.
+
+
+In Denver, where temperatures were expected to dip as low as minus 10 degrees Celsius over the weekend, the city opened shelters for those living on the streets.
+
+
+Forecasters reported 2.5 centimeters of snow falling every hour just north of Denver.
+
+
+The weather service also warned of extreme cold in the Upper Plains over the coming days, with wind chills ranging from minus 34 degree Celsius to as low as minus 51 degrees Celsius in parts of western Montana, North Dakota, northern South Dakota and western Minnesota. People in those areas were urged to stay indoors and make provisions to shelter livestock and other animals.
+
+
+California struggles with mudslides
+
+
+Dry weather returned to Southern California after the strongest storm of the year. But the risk of rockslides and mudslides on wildfire-scarred hillsides continued because dangerous slides can strike even after rain stops, particularly in areas where vegetation that helps keep soil anchored has burned away.
+
+
+Water, debris and boulders rushed down the mountain in the city of Sierra Madre on Thursday night, trapping at least one car in the mud and damaging several homes with mud and debris. Bulldozers cleaned up mud-covered streets in the city of 10,000 people.
+
+
+A storm in the Sierra Nevada dumped 1.8 meters of snow over 36 hours. Two Mammoth Mountain ski patrol workers were caught in an avalanche during avalanche mitigation work Friday morning, the resort said in a Facebook post. One was extracted and was responsive, while the other was taken to a hospital with serious injuries. 
+
+<br> 
+
+<https://www.voanews.com/a/us-east-faces-flooding-as-snow-forecast-for-northeast-cold-in-midwest-/7976695.html>
+
+---
+
+## IRS to lay off thousands of probationary workers in tax season
+
+date: 2025-02-16, from: VOA News USA
+
+WASHINGTON — The U.S. Internal Revenue Service (IRS) will lay off thousands of probationary workers in the middle of tax season, according to two sources familiar with the agency's plans, and the cuts could happen as soon as next week.
+
+
+The Trump administration intensified sweeping efforts to shrink the size of the federal workforce. It is doing it by ordering agencies to lay off nearly all probationary employees who had not yet gained civil service protection.
+
+
+It's unclear how many IRS workers will be affected.
+
+
+Previously, the administration announced a plan to offer buyouts to almost all federal employees through a "deferred resignation program" to quickly reduce the government workforce. The program deadline was Feb. 6, and administration officials said employees who accept will be able to stop working while still collecting a paycheck until Sept. 30.
+
+
+However, IRS employees involved in the 2025 tax season were told they will not be allowed to accept a buyout offer from the Trump administration until after the taxpayer filing deadline, according to a letter sent recently to IRS employees.
+
+
+It is unclear how many workers will be impacted by the layoff announcement plan. Representatives from the U.S. Treasury and IRS did not respond to Associated Press requests for comment.
+
+
+Jan. 27 was the official start date of the 2025 tax season, and the IRS expects more than 140 million tax returns to be filed by the April 15 deadline. The Biden administration invested heavily in the IRS through an $80 billion infusion of funds in Democrats' Inflation Reduction Act, which included plans to hire tens of thousands of new employees to help with customer service and enforcement as well as new technology to update the tax collection agency.
+
+
+Republicans have been successful at clawing back that money, and billionaire Elon Musk and his Department of Government Efficiency have called for the U.S. to "delete entire agencies" from the federal government as part of his plan to radically cut spending and restructure its priorities.
+
+
+Elected officials are trying to fight against DOGE plans. Attorneys general from 14 states challenged the authority of DOGE to access sensitive government data and exercise "virtually unchecked power" in a lawsuit filed Thursday.
+
+
+The lawsuit, filed in federal court in Washington, says the actions taken by Musk at the helm of DOGE can only be taken by a nominated and Senate-confirmed official. It cites constitutional provisions that delineate the powers of Congress and the president. 
+
+<br> 
+
+<https://www.voanews.com/a/irs-to-lay-off-thousands-of-probationary-workers-in-tax-season/7976685.html>
+
+---
+
+## Central African Republic soldiers kidnapped by mercenaries, advocates allege
+
+date: 2025-02-15, from: VOA News USA
+
+BANGUI, CENTRAL AFRICAN REPUBLIC — Human rights advocates and politicians in Central African Republic claim soldiers who disappeared after being detained last month were kidnapped by mercenaries backed by Russia. The Kremlin has in recent years deepened ties with the gold- and diamond-rich country's military and government.
+
+
+Celestin Bakoyo and Elie Ngouengue — two soldiers who led a Wagner Group-aligned militia fighting rebels in the country's southeast — were reportedly detained on January 24 at a police station in the country's capital.
+
+
+Ernest Mizedio, a politician from the region, told The Associated Press that the two soldiers were among a group arrested earlier by Russian mercenaries tasked with training militia members and incorporating them into the army.
+
+
+"We searched without success for where they took them," he said, noting that supporters had inquired with both law enforcement and Russian security contractors about their whereabouts. "They said they had nothing to offer us and knew nothing of their situation."
+
+
+Mizedio, a member of one of Central African Republic's opposition parties, said there had been marches and protests decrying the arrests in the country's southeast.
+
+
+Neither Wagner nor the military responded to AP's requests for comment on the disappearance. However, a police officer, speaking on the condition of anonymity, said mercenaries were gradually vying for position and replacing officers on the ground in conflict zones.
+
+
+Before going missing, the two had come to the capital to open new bank accounts to access their earnings after being integrated into the army. The backlash against their disappearance comes as Russia expands its military and economic presence throughout Africa, using mercenaries to quell rebellion and fight extremists.
+
+
+Joseph Bindoumi, president of Central African Republic's League for Human Rights, denounced the disappearances, called them kidnappings and said even if the soldiers were accused of crimes, their whereabouts should be known.
+
+
+"We have the right to know if standard procedures are being followed. We have the right to see people to ensure their well-being and to ensure their parents, advocates and lawyers can visit them," he said.
+
+
+Central African Republic was one of the first places the mercenaries became active. Amid years of conflict between government forces and predominantly Muslim rebels, citizens and officials credited the Russian mercenaries with fighting back armed groups who tried to overtake Bangui in 2021.
+
+
+Yet they've been dogged by reports of recklessly disregarding human rights and civilian welfare. A 2023 investigation from the U.S.-based watchdog group The Sentry found that mercenaries train the army on torture tactics and as part of the fight against armed groups opposed to the government had carried out killings, torture and rape. 
+
+<br> 
+
+<https://www.voanews.com/a/central-african-republic-soldiers-kidnapped-by-mercenaries-advocates-allege-/7976454.html>
+
+---
+
+## US braces for flooding; parts of California face mudslides
+
+date: 2025-02-15, from: VOA News USA
+
+SIERRA MADRE, CALIFORNIA — Much of the Eastern United States braced for a renewed round of harsh, soggy weather Saturday, with thunderstorms and melting snow combining to pound the Ohio and Tennessee valleys. The lower Mississippi valley was facing the threat of strong tornadoes. 
+
+
+Kentucky, Tennessee, West Virginia and Arkansas were under flood warnings, and residents were warned by the National Weather Service to stay off roads. Parts of western Kentucky could face up to eight inches of rain. 
+
+
+"This may be a major, potentially historic, flash flood event," the NWS said. 
+
+
+Heavy snow, meanwhile, was expected to blanket much of New England and then transition to sleet, making travel nearly impossible, the NWS said. 
+
+
+In northern New York, heavy mixed precipitation is expected throughout the weekend. Weather forecasters said residents should expect snow, sleet and ice accumulations of six to 13 inches and wind gusts as high as 72 kilometers per hour (45 miles per hour) late Saturday and Sunday. 
+
+
+"Power outages and tree damage are likely due to the ice and strong winds. Travel could be very difficult to nearly impossible, the NWS said. 
+
+
+California struggles with mudslides 
+
+
+In Southern California on Friday, a mountain community near the Eaton Fire burn scar dug out of roads submerged in sludge after the strongest storm of the year swept through the area, unleashing debris flows and muddy messes in several neighborhoods recently torched by wildfires. 
+
+
+Dry weather returned to the region but the risk of rock and mudslides on wildfire-scarred hillsides continued Friday since dangerous slides can strike even after rain stops, particularly in scorched areas where vegetation that helps keep soil anchored has burned away. 
+
+
+Water, debris and boulders rushed down the mountain in the city of Sierra Madre on Thursday night, trapping at least one car in the mud and damaging several home garages with mud and debris. Bulldozers on Friday were cleaning up the mud-covered streets in the city of 10,000 people. 
+
+
+Sierra Madre officials issued evacuation orders for areas affected by the Eaton Fire, warning that fire, police and public works personnel would not enter areas experiencing active mud and debris flows and anyone who remained in a home under evacuation orders would need to shelter in place until areas are deemed safe for city personnel to enter. Residents of the city also had to evacuate during the Eaton Fire, which destroyed 15 homes in the community. 
+
+
+In Pacific Palisades on Friday, some residents washed their mud-covered driveways and bulldozers worked to clear mud-coated roads not far from where, just weeks ago, officials moved abandoned cars after people fleeing last month's wildfires got stuck in traffic and fled on foot. 
+
+
+Southern California reported 2.5 to 7 centimeters (1 to 3 inches) of rain in coastal areas and valleys and 7.6 to 15.2 centimeters (3 to 6 inches) across the coastal slopes Thursday, said Mike Wofford, a meteorologist with the weather service. 
+
+
+The precipitation was badly needed, as much of Southern California remains in extreme or severe drought, according to the U.S. Drought Monitor. In neighboring Nevada, the weather service said it recorded a measurable amount of rain in Las Vegas, ending a streak of 214 days without precipitation. 
+
+
+A storm in the Sierra Nevada mountains dumped 1.8 meters (6 feet) of snow over 36 hours. Two ski patrol staff from Mammoth Mountain were caught in an avalanche during avalanche mitigation work Friday morning, the resort said in a Facebook post. One was extracted and was responsive, while the other was taken to a hospital with serious injuries. 
+
+
+More winter weather descending
+
+
+Meteorologists warn that the U.S. is about to get its 10th and coldest polar vortex stretching event this season. Weather forces in the Arctic are combining to push the chilly air that usually stays near the North Pole into the U.S. and Europe. The latest projected cold outbreak should first hit the northern Rockies and northern Plains on Saturday and then stick around all next week. 
+
+
+In Denver, Colorado, where temperatures are expected to dip as low as minus 10 degrees Celsius (14 degrees Fahrenheit) over the weekend, the city has extended its cold weather shelters for those living on the streets. The Denver Coliseum — an arena with some 10,000 seats — will be opened Saturday for additional space, while a free bus will loop between the shelters across the city. 
+
+<br> 
+
+<https://www.voanews.com/a/us-braces-for-flooding-parts-of-california-face-mudslides-/7976445.html>
+
+---
+
+## Carafano: 'A free, independent Ukraine is in America's best interest'
+
+date: 2025-02-15, from: VOA News USA
+
+WASHINGTON — James Carafano, senior counselor to the president and national security expert at The Heritage Foundation, responsible for its defense and foreign policy team, spoke with VOA's Ukraine Service about the Trump administration's goals and considerations in the negotiation process to achieve peace in Ukraine.
+
+
+He explained that while not a vital interest, a free and independent Ukraine that can defend itself is in America's best interests, and he outlined how to achieve this goal.
+
+
+Voice of America: How do you and The Heritage Foundation see ending the war in Ukraine, and what is the strategy behind it?
+
+
+
+
+James Carafano, The Heritage Foundation: It is in America's best interest that there be a free and independent Ukraine that can defend itself. And the reason for that is the United States. The United States is a global power with global interests and global responsibilities.
+
+
+A peaceful Europe, whole, free and at peace, that is a vital American interest. The trans Atlantic community is important to us. And the number one threat, physical threat to that is the destabilizing actions of Russia. And the most concerning and destabilizing action is the security of the Eastern front of NATO and Ukraine, that is free and independent, that can defend itself is an obstacle to the Russians, whether it's in NATO or not.
+
+
+Now, to be honest, it's not a vital interest in the United States. For the practical matter is, the United Europe can defend itself and the United States can defend Europe if Ukraine's occupied by Russia. Now having said that, are we way better off? I mean, way, way better off with the Russians on the other side of Ukraine? And the answer is "absolutely."
+
+
+At this point, what is in America's interest is that the war stops and that there is a ceasefire that is both from a strategic perspective to preserve Ukraine, and that we have to be realistic about Ukraine's capacity to recover territory that's been occupied. But also from a humanitarian perspective, and I think this is very deeply reflected in our president. More Ukrainians dying is never going to reconquer all of Ukrainian territory. A war of attrition is never going to create a stronger Ukraine.
+
+
+I think everybody is focused on what the deal looks like. I think the deals are relevant. Stopping the war is the objective. The real question is, what do we do the day after the war to ensure there's a free and independent Ukraine in the future?
+
+
+VOA: The defense secretary said we don't want Minsk 3.0. Are we falling into the trap of Munich 2.0, where we appease the dictator, give away territories, embolden the aggressor, and end up in a world war?
+
+
+Carafano: I don't think that's the peace that the U.S. envisions. So, I'll tell you what appeasement would be. Appeasement would be giving the Russians something at the negotiating table that they didn't win on the battlefield. That's appeasement.
+
+
+Recognizing that the Russians have territory they have and the inability of the Ukraine [forces] to retake that territory — maybe they trade territory, I don't know — that's called being realistic.
+
+
+VOA: If Russia is allowed to keep its spoils of war, what message would it send to other would-be aggressors?
+
+
+Carafano: That Russia has failed. Russia's goal was to conquer and destroy Ukraine. It failed. Russia's goal was to have NATO fall apart. It failed. If Russia is stopped in Ukraine, and look what they have achieved, they've achieved some marginal territorial gains at the cost of destroying the Russian army, crippling the Russian economy, and making themselves a global pariah. If that's a victory, it's a kind of really weird Pyrrhic victory.
+
+
+VOA: Then, why would [Defense Secretary] Pete Hegseth articulate these concessions?
+
+
+Carafano: They're not concessions. They are statements of reality. We all know it's true. If you give Putin something at the negotiation table that he wasn't able to take on the battlefield, that is a concession. So, if for example you said, Ukraine has to give up the sovereignty of its territory even its occupied territory, I would say that's a really bad deal. That's a concession. We have never ever forced any country to actually give up the sovereignty of its territory."
+
+
+VOA: What about [Ukraine`s membership] in NATO? Here is a counterargument: Why Russia should have a veto power over NATO?
+
+
+Carafano: First of all, Hegseth has never said Russia should have a veto power over the entry of Ukraine into NATO. Hegseth has said, "This is not going to be part of the negotiation and Ukraine is not going to get into NATO now." That's no different from the Biden policy and that's actually just a reflection of reality. NATO is a consensus organization. Every member has to agree. Every member does not agree. So, we all know, the Russians know, we know, everybody in NATO knows, Ukraine is not going to get NATO membership now."
+
+
+VOA: What about the future?
+
+
+Carafano: He didn't say that Ukraine shouldn't join NATO in the future. He just said that NATO membership is not going to be part of the negotiation.
+
+
+VOA: So, the main issue here is security guarantees.
+
+
+Carafano: That's also wrong. Somehow that we're going to say something that's going deter Putin in the future. That's nonsense and ridiculous. What's going to deter Putin in the future is, does Ukraine have the capacity to defend itself?
+
+
+VOA: So how do we deter the Russians?
+
+
+Carafano: We have a Ukraine as a country that can defend itself and that is free, and its economy grows, and it builds a defense industrial base. And we strengthen NATO because that will equally deter the Russians.
+
+
+And we do the other things, which by the way Donald Trump is going to do already, whether there's a peace deal or not. Donald Trump is going to put a lot of pressure on the Russians. He's going to lower the price of oil. He's going to increase sanctions. He's going to [do] a lot of things that are going to hamstring the Russian economy. Russia is going to be weaker. He's going to do a lot of things to go after the Iranians. So, the Iranians are going to have a lot less capacity to support the Russians. He's going to do a lot of things to put a lot of pressure on the Chinese.
+
+
+The Chinese are going to be less able to support the Russians. Donald Trump can do a lot to North Korea.
+
+
+Regardless of what happens in the actual peace deal in Ukraine, Trump is going to do a lot to the Russians, the Chinese, the North Koreans and the Iranians that really diminishes their capacity to sustain this war. 
+
+<br> 
+
+<https://www.voanews.com/a/carafano-a-free-independent-ukraine-is-in-america-s-best-interest-/7976425.html>
+
+---
+
+## Quid pro quo? Hell no! (aka Sassoon-er or Later Trump Will Go)
+
+date: 2025-02-15, from: The Contrarian
+
+Publisher's Roundup, Week #5 
+
+<br> 
+
+<https://contrarian.substack.com/p/quid-pro-quo-hell-no-aka-sassoon>
+
+---
+
+## US citizen detained in Russia, accused of drug smuggling
+
+date: 2025-02-15, from: VOA News USA
+
+MOSCOW — A Moscow court has ordered a U.S. citizen suspected of drug smuggling held in pre-trial detention for 30 days, the Moscow courts press service said Saturday, days after a Moscow-Washington prisoner swap that the White House called a diplomatic thaw and a step toward ending the fighting in Ukraine. 
+
+
+The U.S. citizen, whom Saturday's statement named as Kalob Wayne Byers, was detained after airport customs officials found cannabis-laced marmalade in his baggage. 
+
+
+Russian police said the 28-year-old American had attempted to smuggle a "significant amount" of drugs into the country, the Interfax agency reported, citing Russia's Federal Customs Service. The agency said the American was detained at Moscow's Vnukovo airport after flying in from Istanbul on February 7. 
+
+
+Mash, a Russian Telegram channel with links to the security services, said the U.S. citizen faces up to seven years in prison if convicted. 
+
+
+There was no immediate comment from the U.S. State Department. 
+
+
+The Washington-Moscow prisoner exchange this month saw Alexander Vinnik, a Russian cryptocurrency expert who faced Bitcoin fraud charges in the United States, returned to Russia in exchange for American Marc Fogel, a teacher from Pennsylvania who was detained in 2021 when traveling to Russia to work at a school. 
+
+
+Fogel had been serving a 14-year sentence for having what his family and supporters said was medically prescribed marijuana. President Joe Biden's administration designated Fogel as wrongfully detained in December. 
+
+
+President Donald Trump on Wednesday upended three years of U.S. policy toward Ukraine, saying he and Russian leader Vladimir Putin had agreed to begin negotiations on ending the conflict following a lengthy direct phone call. 
+
+<br> 
+
+<https://www.voanews.com/a/us-citizen-detained-in-russia-accused-of-drug-smuggling-/7976409.html>
+
+---
+
+## US counterterror official warns of growing global threat
+
+date: 2025-02-15, from: VOA News USA
+
+WASHINGTON — A senior U.S. counterterrorism official is cautioning that the threat from global jihadists has expanded significantly, although the resources to counter them have declined.
+
+
+Sebastian Gorka, deputy assistant to President Donald Trump and senior director for counterterrorism, on Feb. 11 told a Washington conference organized by the American Foreign Policy Council that he based the current threat assessment on several factors.
+
+
+“Number one, jihadist groups are more geographically dispersed than ever before, with networks extending across the Sahel, Central and East Africa, the Middle East and Central Asia,” he said.
+
+
+“To cite just one example, West African countries like Benin and Togo, that once had little exposure to jihadi threats, are now seeing jihadi Sunni actors in their territory and elsewhere, affecting their national sovereignty.”
+
+
+Benin and Togo have reported attacks by al-Qaida, an expansion of the violence the terror group is carrying out in Niger, Mali and Burkina Faso.
+
+
+Gorka said militant groups are increasingly capable and using new forms of technology to execute their deadly missions.
+
+
+Gorka said that militants “remain highly adaptive entities.”
+
+
+“If you look at their use of social media, especially encrypted apps to communicate, these individuals have acclimatized to the new technological environment,” he said.
+
+
+One of Trump’s main campaign promises in last year’s election was to tighten security along the U.S. border and deport migrants without legal status. He signed an executive order declaring a national emergency at the border. Gorka argued that border vulnerabilities give militants an advantage.
+
+
+“The global jihadi actors are poised to capitalize on global security vulnerabilities, especially the fact that, for four years, we have had no southern border,” Gorka said.
+
+
+Former President Joe Biden defended his immigration policies during the 2024 presidential election campaign and blamed the Republicans for walking back on a bipartisan immigration bill. Biden said Trump was involved in sinking the bill.
+
+
+The Middle East
+
+
+Gorka said militant groups in the Middle East, including Hezbollah and Hamas, which the United States, Britain and other Western nations have designated as terrorist groups, have been severely marginalized.
+
+
+“Let's just be blunt — since the heinous, tragic massacre of more Jews than have ever been killed since the end of the Shoah [Holocaust] in 1945, since Oct. 7, our friends in Israel have literally redrawn the map of the region,” he said.
+
+
+The war in Gaza was triggered by the October 2023 Hamas terror attack on Israel that killed 1,200 people and led to the capture of 250 hostages. Israel’s counteroffensive has killed more than 48,200 Palestinians, more than half of them women and children, according to Gaza health authorities. Israel says the death toll includes 17,000 militants it has killed.
+
+
+“As a result, groups like Hezbollah and Hamas have been radically degraded,” Gorka said. This has paved the way for what? The collapse of the [Bashar al-] Assad regime in Syria, which together represent devastating blows to the greatest global sponsor of terrorism as a nation-state — Iran's capability to hurt our interests and the interests of our friends and partners.”
+
+
+US airstrikes in Somalia
+
+
+Gorka also gave more details about the airstrikes on Feb. 1 that targeted Islamic State group militants in Somalia’s northeastern region of Puntland.
+
+
+The strikes were carried out by the U.S. Africa Command and authorized by Trump and coordinated with Somalia.
+
+
+“We told the president, ‘There is a cave complex in northern Somalia full of ISIS,” he said, using an acronym for the Islamic State group. “We have been surveilling it for years, but the last administration refused to take action.”
+
+
+According to the Africa Command, 14 militants were killed, including Ahmed Maeleninine, who was described as a "recruiter, financier and external operations leader responsible for the deployment of jihadists into the United States and across Europe."
+
+
+Somali officials said he is from Oman, although the U.S. has not commented on his nationality.
+
+
+“The person you saw in the footage is not just a foot soldier,” Gorka said as video of the airstrike was played. “He is a recruiter, trainer and financier for ISIS, one of the guys who is hard to replace. We had been surveilling him for months.”
+
+
+The strikes were carried out by fighter jets launched from the USS Harry S. Truman, which was in the Red Sea at the time.
+
+
+Trump confirmed ordering a precision military airstrikes on the same day.
+
+
+
+
+Somali forces in Puntland this week reported success against the militants. Scores were killed after Puntland forces repelled a complex attack from the militants in the early hours of Feb. 11.
+
+
+The U.S. has been training elite Somali forces known as Danab, which means “lightning.” So far, there has been no publicly known change of US security support to Somalia.
+
+
+VOA’s Farsi Service contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/us-counterterror-official-warns-of-growing-global-threat/7976386.html>
+
+---
+
+## Stars galore celebrate 'Saturday Night Live' in concert
+
+date: 2025-02-15, from: VOA News USA
+
+NEW YORK — By the time Cher sang “If I Could Turn Back Time,” it seemed as if time had indeed been turned back and every single “Saturday Night Live” musical guest of 50 years had magically found their way to Radio City Music Hall.
+
+
+Of course, it was only a smattering. But “SNL50: The Homecoming Concert” boasted an epic lineup. It was an evening of memorable solo performances and often fascinating, one-time-only collaborations.
+
+
+The concert, hosted by Jimmy Fallon, was only one element of what has become an enormous celebration of the show’s 50 years in existence, leading up to Sunday’s “SNL50: The Anniversary Special," live from Studio 8H.
+
+
+But Friday night was all about music.
+
+
+ 
+
+
+
+
+Return of the 1990s
+
+
+If a decade can win the night, let’s hear it for the 1990s. A classic performance from that decade was most likely to get the Radio City audience on its feet, singing along and pulling out their phones to record.
+
+
+The Backstreet Boys proved irresistible when they broke into “I Want it That Way.” Snoop Dogg may have sung “Gin and Juice,” but he was trailed by enough smoke to give nearby audience members a contact high.
+
+
+Wearing a gigantic coat befitting a winter night, Lauryn Hill commanded the stage with Wyclef Jean, and the crowd melted at the first notes of “Killing Me Softly.”
+
+
+Some comics can do music
+
+
+Naturally, some former “SNL” cast members reprised old characters, with varying levels of success.
+
+
+The Culps, the stuffy music teachers played by Will Ferrell and Ana Gasteyer, hit harder and funnier than they ever did on the show. Their attempts at being current were hilarious and they even worked in a few verses of “Not Like Us,” with a plea for harmony between Kendrick Lamar and Drake.
+
+
+Andy Samberg and Chris Parnell’s “Lazy Sunday” was welcome, but too short. Lady Gaga was a good sport, replacing Justin Timberlake to sing about a Christmas gift whose title can't be repeated here. But Bill Murray’s lounge singer "foursome” routine with Gasteyer, Maya Rudolph and Cecily Strong fell a bit flat.
+
+
+ 
+
+
+
+
+They love Michaels
+
+
+“SNL” creator Lorne Michaels didn’t perform, but he was referred to all night long.
+
+
+“I love you, Lorne Michaels,” declared Miley Cyrus, dedicating her hit song “Flowers” to the show's founder.
+
+
+Raitt, finishing “I Can’t Make You Love Me,” thanked Michaels for having her on the show so many times.
+
+
+“Let’s give it up for Lorne,” said former cast member Adam Sandler, introducing a collaboration between Post Malone and Nirvana. “We love you buddy.”
+
+
+And Marcus Mumford, lead singer of the British folk band Mumford & Sons, said he was there to represent Michaels' admirers from across the pond.
+
+
+Creative collaborations
+
+
+The night featured fascinating collaborations that brought together musicians of all kinds.
+
+
+Cyrus teamed with Brittany Howard to sing Queen’s “Crazy Little Thing Called Love.”
+
+
+Arcade Fire joined with David Byrne, St. Vincent and the Preservation Hall Jazz Band to perform David Bowie’s “Heroes.” Byrne later also collaborated with Robyn, in matching khaki suits, for “Dancing on My Own” and “This Must Be the Place (Naive Melody).”
+
+
+And for Raitt's second song, she sat down with Chris Martin, the Coldplay frontman becoming her pianist for “I Can’t Make You Love Me.”
+
+
+In another collab of sorts, the B-52s were joined on “Love Shack” by former and current SNL cast members Fred Armisen, Bowen Yang and Sarah Sherman, singing the “bang bang” lyrics.
+
+
+Lady Gaga collaborated with herself, singing both parts of “Shallow” and bringing down the house.
+
+
+ 
+
+
+
+
+Most valuable player
+
+
+Questlove is more associated with the “Tonight” show, but he is proving to be the MVP of these “Saturday Night Live” anniversary festivities.
+
+
+Not only did the drummer produce the splendid documentary on the “SNL” musical legacy, but he effortlessly kept the beat with The Roots, his legendary hip-hop group and “Tonight” show house band, as they covered every style imaginable, from Snoop to Eddie Vedder to Brandi Carlile. Byrne bowed in appreciation.
+
+
+A second Nirvana reunion
+
+
+For the second time in as many weeks, the surviving members of Nirvana reunited.
+
+
+Rather than the quartet of women who fronted the band for the Fire Aid concert, Malone took Kurt Cobain’s place Friday.
+
+
+Their version of “Smells Like Teen Spirit” was fierce, a reminder of why the song packed such a wallop when it was first heard. 
+
+<br> 
+
+<https://www.voanews.com/a/stars-galore-celebrate-saturday-night-live-in-concert/7976367.html>
+
+---
+
+## US defense secretary's Europe debut irks allies, wins Trump's nod
+
+date: 2025-02-15, from: VOA News USA
+
+WASHINGTON — U.S. Defense Secretary Pete Hegseth's attention-grabbing overseas debut may have irritated some key Republicans and alienated allies in Europe, where his statements on Ukraine and NATO went down like a lead balloon.
+
+
+But his forceful comments gained him a nod from one key listener: U.S. President Donald Trump.
+
+
+And Hegseth — who on Saturday wraps up a weeklong trip to Belgium, Germany and Poland — delivered a message at the heart of Trump's “America First” agenda.
+
+
+Speaking at the NATO headquarters in Brussels on Wednesday, Hegseth said that a return to Ukraine's pre-2014 borders was unrealistic, and that the Trump administration does not see NATO membership for Kyiv as part of a solution to the war triggered by Russia's 2022 invasion.
+
+
+Trump broadly backed Hegseth's remarks on Thursday on NATO membership, saying, "I think probably that's true," because, he said, Putin would not allow Ukraine to join the military alliance.
+
+
+"I thought his comments were good yesterday, and they're probably good today," Trump said.
+
+
+Senator Roger Wicker, the Republican who leads the Pentagon's main oversight committee in the Senate, had championed Hegseth's nomination throughout a bruising confirmation review in which Democrats united against the nominee and three Republicans joined them, as questions were raised about Hegseth's qualifications, temperament and views about women in combat.
+
+
+Asked whether he spent a lot of political capital getting Hegseth, a military veteran and former Fox News personality, confirmed, Wicker said: "I surely did, yes."
+
+
+
+
+Republican Congressman Mike Turner said issues like the future of NATO membership for Ukraine should not be taken off the table.
+
+
+"We don't need members of the Cabinet, President Trump's Cabinet, to be defining those in the public," Turner said Friday on CNN.
+
+
+Republican Congressman Don Bacon responded to Hegseth's comments by saying that there should be moral clarity on who started the war.
+
+
+"There are consequences of rewarding the invader even if its leader foolishly led over 700,000 of its citizens to slaughter," Bacon said on social media platform X.
+
+
+Uncle Sam or Uncle Sucker?
+
+
+Trump has played down any tensions. On Friday, he said he had not seen Wicker's comments but would reach out to him and Hegseth.
+
+
+"Roger's a very good friend of mine, and Pete is obviously, he's been doing a great job," Trump said.
+
+
+Hegseth, in what some analysts saw as walking back his remarks, clarified on Thursday that Trump was the one who would ultimately decide what was on or off the table in the Ukraine talks.
+
+
+Calling Trump the world's best negotiator, Hegseth said it would not be appropriate for him to "declare what President Trump will do or won't do, what will be in or what will be out."
+
+
+He also delivered a message that resonates with Trump and his “America First” agenda: Europe has been taking advantage of the United States.
+
+
+Hegseth spoke about Europe's reliance on costly U.S. military deployments for its defense. Trump has criticized Europe over what he sees as its unfair tariffs against American goods.
+
+
+The United States and European Union have the world's largest commercial relationship, trading $1.55 trillion of goods and services in 2023.
+
+
+Speaking to reporters at NATO headquarters, Hegseth said: "Make no mistake: President Trump will not allow anyone to turn Uncle Sam into 'Uncle Sucker.'"
+
+
+In Trump's first term, NATO was seen as a red line for his Pentagon chiefs. Jim Mattis, his first defense secretary, resigned in part because of Trump's skepticism toward NATO.
+
+
+America's European allies were critical of Hegseth.
+
+
+"I think that was clumsy. I think that was a mistake," German Defense Minister Boris Pistorius said, also criticizing Trump.
+
+
+European foreign policy chief Kaja Kallas went further. "It is appeasement. It has never worked," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-defense-secretary-s-europe-debut-irks-allies-wins-trump-s-nod/7976197.html>
+
+---
+
+##  YOU LOVE TO SEE IT: A City Runs Clean 
+
+date: 2025-02-15, from: The Lever News
+
+ A major city cleans up its act, states water local news deserts, indie bookstores kindle competition, and mergers must happen out in the open.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-a-city-runs-clean/>
+
+---
+
+## US Justice Department asks court to dismiss charges against NYC mayor
+
+date: 2025-02-15, from: VOA News USA
+
+NEW YORK — The U.S. Justice Department asked a court Friday to dismiss corruption charges against New York City Mayor Eric Adams, with a top official from Washington intervening after federal prosecutors in Manhattan rebuffed his demands to drop the case and some quit in protest.
+
+
+Acting Deputy Attorney General Emil Bove, the department’s second-in-command, and lawyers from the public integrity section and criminal division filed paperwork asking to end the case. They contend that it was marred by appearances of impropriety and that letting it continue would interfere with the mayor’s reelection bid.
+
+
+A judge must still approve the request.
+
+
+The filing came hours after Bove convened a call with the prosecutors in the Justice Department’s public integrity section — which handles corruption cases — and gave them an hour to pick two people to sign onto the motion to dismiss, saying those who did so could be promoted, according to a person familiar with the matter.
+
+
+After prosecutors got off the call with Bove, the consensus among the group was that they would all resign. But a veteran prosecutor stepped up out of concern for the jobs of the younger people in the unit, said the person, who spoke on the condition of anonymity to discuss details of the private meeting.
+
+
+The three-page dismissal motion bore Bove's signature and the names of Edward Sullivan, the public integrity section’s senior litigation counsel, and Antoinette Bacon, a supervisory official in the department’s criminal division. No one from the federal prosecutor’s office in Manhattan, which brought the Adams case, signed the document.
+
+
+
+
+The move came five days into a showdown between Justice Department leadership in Washington and its Manhattan office, which has long prided itself on its independence as it has taken on Wall Street malfeasance, political corruption and international terrorism. At least seven prosecutors in Manhattan and Washington quit rather than carry out Bove’s directive to halt the case, including interim Manhattan U.S. Attorney Danielle Sassoon and the acting chief of the public integrity section in Washington.
+
+
+The Justice Department said in its motion to Judge Dale E. Ho that it was seeking to dismiss Adams’ charges with the option of refiling them later. Ho had yet to act on the request as of Friday evening.
+
+
+“I imagine the judge is going to want to explore what his role is under the rules,” said Joshua Naftalis, a former Manhattan federal prosecutor who is not involved in Adams’ case. “I would expect the court to either ask the parties to come in person to court or to file papers, or both.”
+
+
+Bove said earlier this week that U.S. President Donald Trump’s permanent, appointed Manhattan U.S. attorney, who has yet to be confirmed by the Senate, can decide whether to refile the charges after the November election.
+
+
+Adams faces a Democratic primary in June, with several challengers lined up. His trial had been on track to be held in the spring. Bove said that continuing the prosecution would interfere with Adams’ ability to govern, posing “unacceptable threats to public safety, national security, and related federal immigration initiatives and policies," the dismissal motion said.
+
+
+Among other things, it said, the case caused Adams to be denied access to sensitive information necessary to help protect the city.
+
+
+Adams pleaded not guilty in September to charges he accepted more than $100,000 in illegal campaign contributions and lavish travel perks from foreign nationals looking to buy his influence while he was Brooklyn borough president campaigning to be mayor. Although critical in the past, Adams has bonded at times with Trump recently and visited him at his Florida golf club last month.
+
+
+The president has criticized the case against Adams and said he was open to giving the mayor, who was a registered Republican in the 1990s, a pardon.
+
+
+Bove sent a memo Monday directing Sassoon, a Republican, to drop the case. He argued the mayor was needed in Trump’s immigration crackdown and echoed Adams’ claims that the case was retaliation for his criticism of Biden administration immigration policies.
+
+
+Instead of complying, Sassoon resigned Thursday, along with five high-ranking Justice Department officials in Washington. A day earlier, she sent a letter to Trump’s new attorney general, Pam Bondi, asking her to meet and reconsider the directive to drop the case.
+
+
+
+
+Sassoon suggested in her letter that Ho “appears likely to conduct a searching inquiry" as to why the case should be dismissed. She noted that in at least one instance, a judge has rejected such a request as contrary to the public interest.
+
+
+“A rigorous inquiry here would be consistent with precedent and practice in this and other districts," she wrote.
+
+
+Seven former Manhattan U.S. attorneys, including James Comey, Geoffrey S. Berman and Mary Jo White, issued a statement lauding Sassoon’s “commitment to integrity and the rule of law."
+
+
+On Friday, Hagan Scotten, an assistant U.S. attorney in Manhattan who worked for Sassoon and had a leading role in Adams' case, became the seventh prosecutor to resign — and blasted Bove in the process. Scotten wrote in a resignation letter to Bove that it would take a “fool” or a “coward” to meet his demand to drop the charges, "But it was never going to be me.” He told Bove he was “entirely in agreement” with Sassoon’s decision.
+
+
+Scotten and other Adams case prosecutors were suspended with pay on Thursday by Bove, who launched a probe of the prosecutors that he said would determine whether they kept their jobs.
+
+
+Scotten is an Army veteran who earned two Bronze medals serving in Iraq as a Special Forces troop commander. He graduated from Harvard Law School at the top of his class in 2010 and clerked for Chief Justice John Roberts.
+
+
+In her letter to Bondi, Sassoon accused Adams’ lawyers of offering what amounted to a “quid pro quo” — his help on immigration in exchange for dropping the case — when they met with Justice Department officials in Washington last month. Adams' lawyer Alex Spiro said Thursday that the allegation of a quid pro quo was a “total lie."
+
+
+“We were asked if the case had any bearing on national security and immigration enforcement and we truthfully answered it did," Spiro said in an email to reporters.
+
+
+
+
+On Friday, Adams added: “I never offered — nor did anyone offer on my behalf — any trade of my authority as your mayor for an end to my case. Never.”
+
+
+Scotten seconded Sassoon’s objections in his letter, writing: “No system of ordered liberty can allow the Government to use the carrot of dismissing charges, or the stick of threatening to bring them again, to induce an elected official to support its policy objectives."
+
+
+The prosecutor, who appeared in court for various hearings in the case, said he was following “a tradition in public service of resigning in a last-ditch effort to head off a serious mistake." He said he could see how a president such as Trump, with a background in business and politics, “might see the contemplated dismissal-with-leverage as a good, if distasteful, deal.” But he said any prosecutor “would know that our laws and traditions do not allow using the prosecutorial power to influence other citizens, much less elected officials, in this way.” 
+
+<br> 
+
+<https://www.voanews.com/a/us-justice-department-asks-court-to-dismiss-charges-against-nyc-mayor/7976083.html>
+
+---
+
+## No need for one country to control chip industry, Taiwan official says
+
+date: 2025-02-15, from: VOA News USA
+
+TAIPEI, TAIWAN — There is no need for one country to control the semiconductor industry, which is complex and needs a division of labor, Taiwan's top technology official said on Saturday after U.S. President Donald Trump criticized the island's chip dominance.
+
+
+Trump repeated claims on Thursday that Taiwan had taken the industry and he wanted it back in the United States, saying he aimed to restore U.S. chip manufacturing.
+
+
+Wu Cheng-wen, head of Taiwan's National Science and Technology Council, did not name Trump in a Facebook post but referred to Taiwan President Lai Ching-te's comments on Friday that the island would be a reliable partner in the democratic supply chain of the global semiconductor industry.
+
+
+Wu wrote that Taiwan has in recent years often been asked how its semiconductor industry had become an internationally acclaimed benchmark.
+
+
+"How did we achieve this? Obviously, we did not gain this for no reason from other countries," he said, recounting how the government developed the sector from the 1970s, including helping found TSMC, now the world's largest contract chipmaker, in 1987.
+
+
+"This shows that Taiwan has invested half a century of hard work to achieve today's success, and it certainly wasn't something taken easily from other countries."
+
+
+Each country has its own specialty for chips, from Japan making chemicals and equipment to the United States, which is "second to none" on the design and application of innovative systems, Wu said.
+
+
+"The semiconductor industry is highly complex and requires precise specialization and division of labor. Given that each country has its own unique industrial strengths, there is no need for a single nation to fully control or monopolize all technologies globally."
+
+
+Taiwan is willing to be used as a base to assist "friendly democratic countries" in playing their appropriate roles in the semiconductor supply chain, Wu said. 
+
+<br> 
+
+<https://www.voanews.com/a/no-need-for-one-country-to-control-chip-industry-taiwan-official-says/7976061.html>
+
+---
+
+## Ukraine would have ‘low chance to survive’ without US support, Zelenskyy says
+
+date: 2025-02-15, from: VOA News USA
+
+Ukraine would have a "very, very difficult" time surviving without U.S. military support to fend off Russia’s invasion, President Volodymyr Zelenskyy said in a interview broadcast the night before he is scheduled to address the Munich Security Conference.
+
+
+"Probably it will be very, very, very difficult. And of course, you know in all the difficult situations, you have a chance," he told NBC News. "But we will have low chance -- low chance to survive without support of the United States."
+
+
+Zelenskyy also said that Ukraine has increased its war production but not enough to make up for what it would lose if it did not have U.S. backing.
+
+
+Zelenskyy on Feb. 14 took part in a day of meetings and news briefings at the Munich Security Conference as efforts to seek a resolution to the war ramp up. The Ukrainian president is scheduled to deliver a speech on diplomacy and prospects for Ukraine's future at the conference on Feb. 15.
+
+
+He will take the spotlight after meeting with top U.S. officials, including Vice President JD Vance, who stressed the need for a "durable, lasting peace" in Ukraine in his speech to the conference on Feb. 14. Zelenskyy told Vance that Ukraine wants "security guarantees" from Washington before any negotiations with Russia on ending almost three years of war.
+
+
+Zelenskyy said in the interview that he doesn’t want to think about Ukraine not being a strategic partner of the United States because it would damage Ukrainian morale, but added, "We have to think about it."
+
+
+The United States has sent mixed signals on its strategy, sparking worry in Kyiv that Ukraine could be forced into a bad deal that leaves Putin emboldened.
+
+
+U.S. Defense Secretary Pete Hegseth told NATO defense ministers earlier this week that it's "unrealistic" to expect Ukraine's borders to return to their pre-2014 positions and said NATO membership is not seen by the White House as part of the solution to the conflict.
+
+
+Ukraine demands Russia withdraw from captured territory and says it must receive NATO membership or equivalent security guarantees to prevent Moscow from attacking again.
+
+
+Speaking in Warsaw on Feb. 14, he again warned that America's European NATO partners would have to do far more for their own defense and to secure a future Ukraine peace.
+
+
+Hegseth also argued that you "don't have to trust" President Vladimir Putin to negotiate with Russia.
+
+
+Two days earlier U.S. President Donald Trump said he had a "lengthy and highly productive" phone call with Putin and said they agreed that their teams should begin negotiations immediately.
+
+
+Zelenskyy responded by saying he wouldn't accept any deals made without Ukraine's involvement.
+
+
+Asked in the interview if he believed that Ukraine would be vulnerable in another few years if a cease-fire were reached, Zelenskyy said: "Yes, I think this can be."
+
+
+He said Putin wanted to come to the negotiating table not to end the war but to get a cease-fire deal to lift some sanctions on Russia and allow Moscow's military to regroup.
+
+
+"This is really what he wants. He wants pause, prepare, train, take off some sanctions, because of ceasefire," Zelenskyy said.
+
+
+Vance, who is representing Trump at the high-profile gathering of world leaders and foreign policy experts, said the United States wants "the kind of peace that's going to have Eastern Europe in conflict just a couple years down the road."
+
+
+There have been a number of "good conversations" with Ukraine, and more would follow "in the days, weeks and months to come," Vance said.
+
+
+Zelenskyy agreed, calling the meeting with Vance "a good conversation" and said Kyiv wants to work toward ending Russia's war in Ukraine, but added that "we need real security guarantees."
+
+
+Some information for this report came from NBC News. 
+
+<br> 
+
+<https://www.voanews.com/a/ukraine-would-have-low-chance-to-survive-without-us-support-zelenskyy-says/7976050.html>
+
+---
+
+## Why is Trump pausing US anti-bribery law?
+
+date: 2025-02-15, from: VOA News USA
+
+washington — U.S. President Donald Trump signed an executive order this week pausing almost all enforcement of a decades-old U.S. anti-bribery law.
+
+
+The law, known as the Foreign Corrupt Practices Act, makes it illegal for both U.S. firms and foreign companies with a U.S. connection to bribe foreign officials.
+
+
+Transparency advocates have credited the U.S. Justice Department's vigorous enforcement of the law over the past two decades with curbing foreign corruption. Critics, including business leaders, however, have long complained that the law puts U.S. companies at a disadvantage in international markets where certain business practices are common.
+
+
+Trump, a longtime critic of the FCPA, voiced those concerns during the Oval Office signing ceremony on Monday.
+
+
+"It sounds good on paper, but in practicality it's a disaster," Trump said. "It means that if an American goes to a foreign country and starts doing business there legally, legitimately or otherwise, it's almost a guaranteed investigation, indictment, and nobody wants to do business with the Americans because of it."
+
+
+Here is a breakdown of the law and the implications of the executive order for foreign bribery and U.S. business.
+
+
+What is the FCPA?
+
+
+The FCPA is a U.S. law that prohibits companies from providing cash payments or valuable gifts to foreign officials for business advantages. While the law exempts certain "facilitation payments," it prohibits the use of third parties to make bribes.
+
+
+The FCPA was enacted in 1977 following post-Watergate investigations that revealed widespread foreign bribery by U.S.-based multinational corporations. Congress, concerned about the impact on U.S. foreign policy and international standing, responded by criminalizing such practices, imposing prison terms and substantial penalties on violators.
+
+
+Though initially focused on American companies, the law's jurisdiction has expanded substantially. It now extends to any foreign business or individual with connections to the U.S. This broad reach enables prosecutors to pursue cases against foreign firms — for example, a Dutch company with a subsidiary based in Ohio accused of paying off Chinese officials through another subsidiary in Thailand.
+
+
+The law has had a significant impact on the development of anti-corruption laws around the world. In 1997, the Paris-based Organization for Economic Cooperation and Development used the FCPA as a model for its Anti-Bribery Convention, which now has 46 member countries.
+
+
+While enforcement of FCPA was negligible in the decades following its enactment, the early 2000s marked a significant shift. The Justice Department and the Securities and Exchange Commission, the two agencies responsible for enforcing FCPA’s provisions, ramped up enforcement, driven in part by emerging business scandals and new congressional requirements for corporate governance and financial reporting.
+
+
+How has the law been used in recent years?
+
+
+In recent years, U.S. foreign bribery law enforcement has been robust, with the Justice Department and the SEC opening nearly 174 investigations between 2018 and 2021. Last year, the Justice Department alone filed 17 enforcement actions under the law.
+
+
+Latin America has emerged as a particular hot spot for U.S. investigators in recent years.
+
+
+In 2016, two Brazilian companies agreed to pay a combined $3.5 billion after pleading guilty in a sprawling international foreign bribery case. U.S. authorities investigated the case in part because the illicit payments were made through U.S. bank accounts. 
+
+
+
+
+In 2020, Airbus SE, the European aircraft maker, agreed to pay nearly $4 billion to resolve foreign bribery charges brought in the U.S., Britain and France. Airbus admitted using intermediaries to bribe government officials and airline executives to win lucrative contracts in China and other countries. 
+
+
+In January 2024, SAP SE, a German software company with offices in the U.S., agreed to pay $220 million to resolve investigations into bribery payments to South African and Indonesia officials.
+
+
+In December, AAR Corp., an Illinois-based aviation services company, agreed to pay more than $55 million to resolve investigations into bribery payments to government officials in Nepal and South Africa.
+
+
+Several cases have involved India. In November, prosecutors charged three former employees of a Canadian institutional investor in connection with a bribery scheme involving Indian billionaire Gautam Adani and two other executives.
+
+
+Why is Trump pausing FCPA enforcement?
+
+
+Trump, a real estate tycoon-turned-president, has been a vocal critic of the law since well before his first term. In 2012, he called it a "horrible" and "ridiculous" statute that impeded U.S. companies’ ability to do business abroad.
+
+
+Despite his criticism, FCPA enforcement actually surged during his first term in office, with 2000 marking a record-breaking year, according to the Morrison Foerster law firm.
+
+
+The executive order frames the pause in enforcement as part of the president's broader agenda to "advance American economic and national security by eliminating excessive barriers to American commerce abroad."
+
+
+The order says the FCPA's scope has been "stretched beyond proper bounds and abused in a manner that harms the interests of the United States." A White House fact sheet on the order released Monday says the "overenforcement" of the law harms U.S. companies and "infringes on the President's Article II authority to conduct foreign affairs."
+
+
+This concern about aggressive enforcement isn't new, said Mike Koehler, a law professor and leading authority on the FCPA, who noted that both Republicans and Democrats have raised similar issues over the past two decades.
+
+
+"There has been a focus on the quantity of enforcement actions compared to the quality of those enforcement actions," Koehler told VOA. "Enforcement has in many cases has gone so far off the rails that this law is being enforced in ways that do put companies at a competitive disadvantage."
+
+
+Transparency advocates, however, warn that suspending enforcement could deal a significant blow to global anti-bribery efforts.
+
+
+"This pause will work to the advantage of unscrupulous business actors around the world who until now feared U.S. criminal pursuits," Transparency International said in a statement calling on other OECD Anti-Bribery Convention members to increase their enforcement following the U.S. shift in policy.
+
+
+What are the implications for investigating foreign bribery?
+
+
+The executive order imposes a six-month freeze on foreign bribery investigations by the Justice Department. Almost all FCPA cases will be suspended while Attorney General Pam Bondi conducts a review and revises enforcement guidelines. The executive order gives Bondi discretion to extend the pause for an additional six months.
+
+
+Bondi, however, has directed federal prosecutors to prioritize FCPA cases involving cartels and transnational criminal organizations.
+
+
+And corporate lawyers were quick to caution clients that the executive order doesn't give them free rein.
+
+
+"Bribery is still illegal," attorneys at the Arnold & Porter law firm wrote in an analysis of the executive order. "The FCPA remains on the books; Congress has not repealed it. And many other state, federal and foreign laws still prohibit bribery." 
+
+<br> 
+
+<https://www.voanews.com/a/why-is-trump-pausing-us-anti-bribery-law-/7976000.html>
+
+---
+
+## Goodyear Blimp at 100: 'Floating piece of Americana' still thrives
+
+date: 2025-02-15, from: VOA News USA
+
+DAYTONA BEACH, FLORIDA — Flying a few hundred feet above the streets and shores of Daytona Beach, the Goodyear Blimp draws a crowd.  
+
+
+Onlookers stare and point. Drivers pull over for better looks, snapping pictures, recording videos and trying to line up the perfect selfie.  
+
+
+For some, it's nostalgic. For others, it's a glimpse at a larger-than-life advertising icon. 
+
+
+At 100 years old, the blimp is an ageless star in the sky. And the 246-foot-long airship will be in the background of the Daytona 500 on Sunday — roughly 1,500 feet above Daytona International Speedway, actually — to celebrate its latest and greatest anniversary tour.  
+
+
+Even though remote camera technologies — drones, mostly — are improving regularly and changing the landscape of aerial footage, the blimp continues to carve out a niche. 
+
+
+At Daytona, with the usual 40-car field racing around a 2½-mile super speedway, views from the blimp aptly provide the scope of the event.  
+
+
+"It's great to show the pack racing," Fox Sports director Artie Kempner said, adding that he expected to use aerial shots from the blimp about 50 times during Sunday's race. 
+
+
+
+
+ The Goodyear Blimp has been a regular at major sporting events since flying above the 1955 Rose Bowl. A few years later, it became a service vehicle for television coverage while simultaneously functioning as a highly visible advertising platform.  
+
+
+It's been at every Daytona 500 since 1962. During that streak, blimps have undergone wholesale changes and improved dramatically: steering technology, safety innovations, high-definition cameras, gyro-stabilized aerial views and much quieter rides thanks to relocated engines and propellers.  
+
+
+Nowadays, riding on the blimp isn't much different than traveling on a small plane.  
+
+
+The 12-seater comes with reclining seats, tray tables, seatbelts, a safety briefing and a bathroom with amazing views. A few windows serve as the only air conditioning onboard. The blimp offers a smooth ride even at top speed, creeping along at 73 mph — well below the cars pushing 200 mph on the track. 
+
+
+"It's an iconic symbol for our nation, a floating piece of Americana," blimp pilot Jensen Kervern said. "There's nothing like it in the world."
+
+
+ 
+
+
+
+
+The blimp has covered more than 2,500 events and taken more than 500,000 passengers for rides, according to Goodyear.  
+
+
+Former President Ronald Reagan might be the most famous passenger, and rapper Ice Cube raised the blimp's street cred when he included a line about it in his 1992 song titled "It Was A Good Day."  
+
+
+But not just anyone can climb aboard.  
+
+
+Rides are invitation only, even though phones at blimp headquarters — the three U.S.-based airships are housed in California, Florida and Ohio — ring off the hook with people inquiring about buying a ride.  
+
+
+As part of the blimp's 100-year anniversary celebration, however, Goodyear is giving three U.S. residents a chance to join the exclusive club and win a ride.  
+
+
+The sweepstakes will provide each winner a certificate for two to fly on the blimp. The prize also includes $3,000 for travel expenses to one of Goodyear's airship hangars. It would be a once-in-a-lifetime experience, no doubt. The blimp flies low enough to spot pods of dolphins or flotillas of sea turtles in the Atlantic Ocean.  
+
+
+The view over Daytona International Speedway is equally stunning, with the ability to see every inch of the famed track while watching (and hearing) race cars turning laps. 
+
+
+Already in 2025, the Goodyear fleet has flown over the Rose Bowl, the Orange Bowl, the Pro Bowl and Pebble Beach. Its upcoming schedule includes the Academy Awards, Coachella and WrestleMania.  
+
+
+But will the blimp survive another 100 years? Drone imagery and resolution continue to improve along with maneuverability, stability and flight longevity. And where drones can be flown by one person, the Goodyear Blimp crew at Daytona tops 20 staffers.  
+
+
+But given the blimp's longevity, adaptability and celebrity, no one should bet against it sticking around for generations to come.
+
+
+"Despite changes in technology and our environment, people still get so excited to see the blimp," Kervern said. "It's just an iconic symbol for our nation." 
+
+<br> 
+
+<https://www.voanews.com/a/goodyear-blimp-at-100-floating-piece-of-americana-still-thrives-/7974664.html>
+
+---
+
+## With doors closed to the US, asylum-seekers turn a new life in Mexico
+
+date: 2025-02-15, from: VOA News USA
+
+MEXICO CITY — When Angelica Delgado took a one-way flight to Mexico as she fled Cuba in December, she was set on seeking asylum in the United States.
+
+
+But after President Donald Trump effectively slammed the door on asylum-seekers crossing the U.S. border when he took office last month, the 23-year-old recalibrated her plans.
+
+
+She decided she would seek protection in Mexico.
+
+
+"Like almost all Cubans, our objective was to go to the United States," she said. "It wasn't in our plans to stay, but now we have to face reality."
+
+
+Amid a clampdown on asylum under Trump and tightening restrictions in recent years under the Biden administration, Delgado is among a growing number of migrants from across the world to ditch — or at least pause — their ambitions of reaching the U.S., and focus instead on building a life in Mexico.
+
+
+Migrants trying to apply for asylum in Mexico in January more than tripled compared to the monthly average from the previous year, according to an international official with knowledge of the numbers who was not authorized to discuss them publicly. Mexico's refugee agency has not yet published figures for January.
+
+
+"All of these policies Trump is pushing are leading more people to seek international protection in Mexico," said Andrés Ramírez, former director of the Mexican Commission for Refugee Aid, which processes asylum cases.
+
+
+Delgado was among hundreds of migrants from Cuba, Venezuela, Haiti, Afghanistan and other countries gathering outside the refugee agency in Mexico City after Trump unleashed executive orders last month meant to slash access to asylum and militarize the border.
+
+
+The Associated Press spoke to around a half-dozen people who had asylum appointments in the U.S. through the Biden-era app, CBP One, that Trump canceled on Inauguration Day. They were left stranded on the Mexican side of the border, their dreams of a legal pathway into the U.S. snuffed.
+
+
+Many more said they now intended to seek asylum in Mexico, citing increasingly harsh restrictions in recent years in the U.S. or what they said was anti-immigrant sentiment there.
+
+
+"Now, it's the Mexican dream," said a Mexican man helping Haitian friends try to get an appointment this month to apply for asylum in Mexico following the Trump executive orders.
+
+
+
+
+Delgado, her partner and many others had put their hopes on pathways opened by the Biden administration to legally seek asylum in the U.S. They said they had no intention of hiring a smuggler to enter the U.S. illegally.
+
+
+They said the risks of returning to Cuba were too great following a government clampdown on protests in recent years.
+
+
+"Crossing illegally isn't an option for us. We'd rather stay here" in Mexico, Delgado said, adding that if they crossed illegally into the U.S. and were caught "they'll deport us and they'll send us back to Cuba."
+
+
+Delgado, who is an architect, and her partner, a doctor, aren't able to work in their fields in Mexico because their training in Cuba is not recognized there, she said. So for now she's washing dishes in a market.
+
+
+Mexico has long opened its doors to refugees and exiles, but asylum applications have soared in recent years, growing from 1,295 in 2013 to a record 140,982 in 2023.
+
+
+That number dipped to 78,975 in 2024, as the CBP One app allowed migrants in southern Mexico to apply for appointments for entry into the U.S. before heading to the northern border.
+
+
+The rise in petitions for asylum in Mexico may not result in an immediate uptick in refugees there as only a couple hundred applications can be processed each day, fueling criticism about Mexico's capacity to take on the burgeoning asylum demand.
+
+
+Amid criticisms over the backlog, President Claudia Sheinbaum has sharply boosted funding for Mexican agencies handling migration and asylum.
+
+
+Venezuelan asylum-seeker Harry Luzardo, 37, said life in Mexico is an improvement after scrambling for years to scrape by in Ecuador and Chile.
+
+
+Ecuador, Chile, Peru and Colombia were once the epicenter of the exodus of 8 million people from Venezuela, fleeing spiraling economic and political crises.
+
+
+But with little international aid and an array of their own economic and security crises, Chile was among countries that began closing their doors to migrants.
+
+
+"In Chile, you don't receive any kind of support," Luzardo said, waiting patiently in line earlier this month to make an asylum petition request in Mexico City. "In Chile, there's nothing for migrants."
+
+
+Luzardo left Venezuela four years ago, but unable to get legal status to stay and work in Chile, he decided he'd try his luck at reuniting with family in the U.S.
+
+
+Now, with that door closed, Mexico is his plan B.
+
+
+"For now, I feel good here," he said. Still, he conceded, he'd rather be in the U.S. 
+
+<br> 
+
+<https://www.voanews.com/a/with-doors-closed-to-the-us-asylum-seekers-turn-a-new-life-in-mexico/7974697.html>
+
+---
+
+## Southern California slammed with debris flows, mudslides
+
+date: 2025-02-15, from: VOA News USA
+
+After days of heavy rain, the strongest storm of the year brought dangerous debris flows and rock- and mudslides across Southern California on Friday, including in several areas that last month were ablaze with devastating fires.
+
+
+Some areas in the region received as much as 12 centimeters of rain this week, the National Weather Service said.
+
+
+"There are plenty of reports of debris flow," meteorologist Scott Kleebauer of the weather service said Friday.
+
+
+The scorched earth left behind by the fires is now particularly vulnerable to the water-fueled rock- and mudslides, as the vegetation that once anchored the soil was burned away.
+
+
+While this week’s rain is beginning to ease, that does not mean the slides will stop. The drenched soil can continue to move even after the rain subsides.
+
+
+Parts of the iconic Pacific Coast Highway were shut down Thursday because of flooding and mudslides.
+
+
+In Pacific Palisades, a highway intersection was under a meter of sludge.
+
+
+Photographs posted on social media showed parked cars in Pacific Palisades covered in mud up to their windows. Bulldozers have been assigned to the area to clean up the muck.
+
+
+In one harrowing experience Thursday, a member of the Los Angeles Fire Department was driving along the Pacific Coast Highway when a debris flow swept his vehicle into the ocean. Erik Scott, a spokesperson for the fire department, said the driver was able to get out of his vehicle and reportedly suffered only minor injuries.
+
+
+In Sierra Madre, a city of 10,000 that was the site of last month’s Eaton Fire, a boulder-strewn mudslide damaged several homes.
+
+
+“It happened very quickly but it was very loud, and you could even hear the ground or feel the ground shaking,” Bull Duvall, who has lived in Sierra Madre for 28 years, told The Associated Press. City officials issued an evacuation order warning residents that emergency responders would not enter locations with active mud and debris flows.
+
+
+The National Weather Service confirmed Friday that a weak tornado hit a mobile home community Thursday in Oxnard, California. There were no reports of deaths or injuries at Country Club Mobile Estates, but property damage included ripped roofs and downed power lines.
+
+
+The rain was badly needed in the region, much of which is still suffering from drought.
+
+
+In nearby Nevada, Las Vegas was glad to see rain Thursday, after enduring more than 200 days without precipitation. A National Weather Service Las Vegas post said, “Las Vegas has officially measured 0.01 inch of rainfall this morning, effectively ending our dry streak of 214 days without measurable rain.” 
+
+<br> 
+
+<https://www.voanews.com/a/southern-california-slammed-with-debris-flows-mudslides/7975988.html>
+
+---
+
+## US deports 119 migrants from several nations to Panama
+
+date: 2025-02-15, from: VOA News USA
+
+PANAMA CITY, PANAMA — Panama has received the first U.S. flight carrying deportees from other nations as the Trump administration takes Panama up on its offer to act as a stopover for expelled migrants, the Central American nation's president said Thursday. 
+
+
+"Yesterday a flight from the United States Air Force arrived with 119 people from diverse nationalities of the world," President Jose Raul Mulino said Thursday in his weekly press briefing. He said there were migrants from China, Uzbekistan, Pakistan, Afghanistan, and other countries, aboard. 
+
+
+The president said it was the first of three planned flights that were expected to total about 360 people. "It's not something massive," he said. 
+
+
+The migrants were expected to be moved to a shelter in Panama's Darien region before being returned to their countries, Mulino said. 
+
+
+Asked later Thursday why Panama was acting as a stopover for these deportations, Deputy Foreign Minister Carlos Ruiz Hernandez said that it was something the U.S. government had requested. He also said the U.S. government was paying for the repatriations through U.N. immigration agencies. 
+
+
+The migrants who arrived Wednesday had been detained after crossing the U.S. border and did not have criminal records, he said. 
+
+
+Last week, U.S. Secretary of State Marco Rubio met with Mulino in Panama. While U.S. President Donald Trump's demands to retake control of the Panama Canal dominated the visit, Mulino also discussed Panama's efforts to slow migration through the Darien Gap and he offered Panama as a bridge to send U.S. deportees back to their countries. 
+
+
+Rubio secured agreements on the trip with Guatemala and El Salvador as well, to accept migrants from other nations in what was seen as the laying groundwork for expanding U.S. capacity to speedily deport migrants. 
+
+
+Migration through the Darien Gap connecting Panama and Colombia was down about 90% in January compared to the same month a year earlier. 
+
+
+Since Mulino entered office last year, Panama has made dozens of deportation flights, most funded by the U.S. government. 
+
+
+Ruiz said Thursday that Panama "has been completely willing to participate and cooperate in this request they have made of us." 
+
+<br> 
+
+<https://www.voanews.com/a/us-deports-119-migrants-from-several-nations-to-panama-/7975954.html>
+
+---
+
+## A gulf between the White House and the press
+
+date: 2025-02-15, from: Market Place, Make me Smart
+
+<p>Associated Press journalists have been blocked from accessing spaces like the Oval Office after the organization opted not to use the term &#8220;Gulf of America.&#8221; We&#8217;ll unpack the conundrum this creates for other news outlets covering the White House. And, while the GOP eyes spending cuts to key social safety net programs, some Republican representatives are feeling pressure from their constituents. We&#8217;ll get into it. Plus, a penny for your thoughts on getting rid of the penny. We&#8217;ll weigh in during a round of Half Full/Half Empty!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/02/14/nyregion/adams-prosecutor-hagan-scotten-quits.html" target="_blank" rel="noreferrer noopener">&#8220;Hagan Scotten, Adams’s Lead Prosecutor, Quits Defiantly&#8221;</a> from The New York Times</li>
+<li><a href="https://www.politico.com/news/2025/02/14/doge-trump-omb-gop-00204435" target="_blank" rel="noreferrer noopener">&#8220;Republicans rush to soften Trump’s cuts&#8221;</a> from Politico</li>
+<li><a href="https://www.politico.com/live-updates/2025/02/14/congress/vulnerable-house-republican-bresnahan-warns-against-benefit-cuts-00204354" target="_blank" rel="noreferrer noopener">&#8220;Vulnerable Republican fires warning shot on House budget&#8221;</a> from Politico</li>
+<li><a href="https://www.nytimes.com/2025/02/14/us/politics/mar-a-lago-trump-grass-rose-garden.html" target="_blank" rel="noreferrer noopener">&#8220;Seeking a Mar-a-Lago Vibe, Trump Considers Paving Over Grass in Rose Garden&#8221;</a> from The New York Times</li>
+<li><a href="https://www.nytimes.com/2025/02/14/us/politics/white-house-ap-gulf-of-mexico.html?smid=nytcore-ios-share&amp;referringSource=articleShare" target="_blank" rel="noreferrer noopener">&#8220;White House Will Continue to Bar Associated Press in Gulf of Mexico Fight&#8221;</a> from The New York Times</li>
+<li><a href="https://www.washingtonpost.com/opinions/2025/02/14/ap-white-house-trump-gulf-america/" target="_blank" rel="noreferrer noopener">&#8220;Opinion | ‘Gulf of America’ leads to AP removal from Trump White House events&#8221;</a> from The Washington Post</li>
+<li><a href="https://money.usnews.com/money/personal-finance/family-finance/articles/this-is-how-much-the-average-couple-spends-on-valentines-day" target="_blank" rel="noreferrer noopener">&#8220;This Is How Much the Average Couple Spends on Valentine&#8217;s Day&#8221;</a> from U.S. News</li>
+<li><a href="https://www.nytimes.com/2025/02/13/technology/tiktok-apple-google-app-stores.html" target="_blank" rel="noreferrer noopener">&#8220;Apple and Google Restore TikTok to App Stores in the U.S.&#8221;</a> from The New York Times</li>
+<li><a href="https://www.marketplace.org/2025/02/12/fin-fluencers-financial-influencers-social-media-advice-money-trust/" target="_blank" rel="noreferrer noopener">&#8220;Americans are turning to social media for financial advice&#8221;</a> from Marketplace</li>
+<li><a href="https://www.instyle.com/flare-jeans-for-spring-2025-9487506" target="_blank" rel="noreferrer noopener">&#8220;So, This 2000s Denim Trend Is About to Blow Up for Spring 2025&#8221;</a> from InStyle</li>
+<li><a href="https://www.wsj.com/personal-finance/trump-penny-us-mint-explained-36db52f6" target="_blank" rel="noreferrer noopener">&#8220;What Trump’s Plan to Stop Minting Pennies Means for Consumers&#8221;</a> from The Wall Street Journal</li>
+</ul>
+<p>Got a question or comment for the hosts? Email <a href="mailto:makemesmart@marketplace.org" target="_blank" rel="noreferrer noopener">makemesmart@marketplace.org</a> or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/14/mms_20250214_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fa-gulf-between-the-white-house-and-the-press&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/14/mms_20250214_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fa-gulf-between-the-white-house-and-the-press&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/a-gulf-between-the-white-house-and-the-press>
+
+---
+
+## California Will Fight Trump Order Ending Transgender Health Care for Minors
+
+date: 2025-02-15, from: Capital and Main
+
+<p>As far-right and religious groups celebrate the presidential decree, some hospitals are halting their gender-affirming treatment for youth under 19 years old.</p>
+<p>The post <a href="https://capitalandmain.com/california-will-fight-trump-order-ending-transgender-health-care-for-minors">California Will Fight Trump Order Ending Transgender Health Care for Minors</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/california-will-fight-trump-order-ending-transgender-health-care-for-minors>
+
+---
+
+## Ukraine, US weigh critical minerals agreement
+
+date: 2025-02-15, from: VOA News USA
+
+Ukraine’s vast reserves of critical minerals give it the potential to be a strategic supplier for the West. President Donald Trump is considering a deal that would continue U.S. support for Ukraine in the war against Russia in exchange for access to its minerals. That proposed agreement is set for discussion at the Munich Security Conference. Myroslava Gongadze has the story from Warsaw, with reporting from Anna Chernikova in Kyiv. 
+
+<br> 
+
+<https://www.voanews.com/a/ukraine-us-weigh-critical-minerals-agreement-/7975947.html>
+
+---
+
+## Chicago nonprofit helps undocumented migrants afraid to leave home
+
+date: 2025-02-15, from: VOA News USA
+
+Amid nationwide immigration raids, a community organization in Chicago is helping undocumented migrants who say they are afraid to leave their homes for fear of being detained. Veronica Villafane narrates this report by Enrique Garcia Fuentes. 
+
+<br> 
+
+<https://www.voanews.com/a/chicago-nonprofit-helps-undocumented-migrants-afraid-to-leave-home-/7975935.html>
+
+---
+
+## Helicopter crew might not have heard tower's instructions before crash, say investigators
+
+date: 2025-02-15, from: VOA News USA
+
+WASHINGTON — The crew of the Army helicopter that collided in midair with an American Airlines jet near Washington's Ronald Reagan National Airport may have had inaccurate altitude readings in the moments before the crash, and also may not have heard key instructions from air traffic controllers to move behind the plane, investigators said Friday.
+
+
+National Transportation Safety Board Chairwoman Jennifer Homendy told reporters that the recording from the Black Hawk helicopter cockpit suggested an incomplete radio transmission may have left the crew without an understanding of how it should shift position just before the January 29 crash, in which all 67 aboard the two aircraft were killed.
+
+
+"That transmission was interrupted — it was stepped on," she said, leaving them unable to hear the words "pass behind the" because the helicopter's microphone key was pressed at the same moment.
+
+
+The helicopter pilots also may have missed part of another communication, when the tower said the jet was shifting to a different runway, she said.
+
+
+Homendy said the helicopter was on a check flight that night where the pilot was undergoing an annual test and a test on using night vision goggles. Investigators believe the crew was wearing night vision goggles throughout the flight.
+
+
+It will take more than a year to get the final NTSB report on the collision, and Homendy warned reporters that many issues were still being investigated.
+
+
+"We're only a couple weeks out" from the crash, she said. "We have a lot of work to do."
+
+
+The collision was the deadliest plane crash in the U.S. since 2001, when a jet slammed into a New York City neighborhood just after takeoff, killing all 260 people on board and five more on the ground.
+
+
+William Waldock, professor of safety science at Embry-Riddle Aeronautical University, said stepped-on transmissions — where a pressed microphone key blocks incoming communication — is a well-known problem in aviation.
+
+
+"It's an old story and it's one of the problems oftentimes with radio communications," he said.
+
+
+The collision likely occurred at an altitude of about 325 feet, investigators have said, which would put the Black Hawk above its 200-foot limit for that location.
+
+
+Cockpit conversations a few minutes before the crash indicated conflicting altitude data, Homendy said, with the helicopter's pilot calling out that they were then at 300 feet, but the instructor pilot saying it was 400 feet, Homendy said.
+
+
+"We are looking at the possibility there may be bad data," she said.
+
+
+That generation of Black Hawks typically has two types of altimeters – one relying on barometric pressure and the other on radio frequency signals bounced off the ground. Helicopter pilots typically rely on barometric readings while flying, but the helicopter's black box captures its radio altitude.
+
+
+The radio altitude at the time of the impact put the Black Hawk at 278 feet, Homendy said.
+
+
+"But I want to caution, that does not mean that's what the Black Hawk crew was seeing on the barometric altimeters in the cockpit," she said.
+
+
+Waldock said the helicopter pilots, with their night vision goggles interfering with their peripheral vision, may have wrongly focused on a plane that took off just before the collision.
+
+
+"If they did indeed lock onto that departing airplane and assume that's the traffic they were supposed to be avoiding, they didn't see the other airplane coming," he said.
+
+
+The Army has said the Black Hawk crew was highly experienced and accustomed to the crowded skies around the nation's capital. 
+
+<br> 
+
+<https://www.voanews.com/a/helicopter-crew-might-not-have-heard-tower-s-instructions-before-crash-say-investigators/7975930.html>
+
+---
+
+## A publisher and chef paired up to open a bookstore-restaurant
+
+date: 2025-02-15, from: Market Place
+
+CCB Bistro &#038; Vine is a wine bar, restaurant and bookstore all in one located in Rock Hill, South Carolina.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/14/a-publisher-and-chef-paired-up-to-open-a-bookstore-restaurant/>
 
 ---
 
@@ -7719,1019 +9586,4 @@ Such stopgap measures, called continuing resolutions (CRs), generally fund gover
 <br> 
 
 <https://www.voanews.com/a/spending-bill-talks-bog-down-after-trump-s-efforts-to-slash-government-/7968287.html>
-
----
-
-## Ukrainians in Colorado open food truck featuring traditional food
-
-date: 2025-02-08, from: VOA News USA
-
-Ukrainians Yevhenia and Kostiantyn Mukhin fled Kherson in 2022 with nothing but a backpack. They made their way to Denver, Colorado, determined to rebuild their lives, but also to spread the joy of Ukrainian culture. Svitlana Prystynska reports the story narrated by Anna Rice. 
-
-<br> 
-
-<https://www.voanews.com/a/ukrainians-in-colorado-open-food-truck-featuring-traditional-food/7968087.html>
-
----
-
-## US declares interest in developing African mining sector
-
-date: 2025-02-08, from: VOA News USA
-
-CAPE TOWN, SOUTH AFRICA — The administration of U.S. President Donald Trump is interested in developing the mining sector in Africa. On the first day of his second term, Trump signed an executive order focusing on minerals, mineral extraction, and mineral processing.
-
-
-"Mainly in the United States but if you read closely there are also multiple references in that executive order to international partnerships and you know, cooperating with partner nations," said Scott Woodard, the acting deputy assistant secretary of state for energy transformation at the U.S. State Department.
-
-
-Woodard spoke at a recent African mining conference — also known as an indaba — in Cape Town, South Africa.
-
-
-Moderator Zainab Usman, director of the Africa Program at the Carnegie Endowment for International Peace, asked Woodard whether the U.S. understands that in addition to mineral extraction, Africans want projects that add value to the raw material in order to boost the continent's industrialization.
-
-
-Woodard replied that the Trump administration is still putting together its policies.
-
-
-In recent years, America's investment in the African minerals needed for cleaner energy has been driven by the Export-Import Bank of the United States.
-
-
-In 2022, the U.S. entered into agreements with the Democratic Republic of Congo and Zambia to establish a supply chain for electric vehicle batteries, underscoring its interest in both countries' copper, lithium and cobalt resources.
-
-
-The U.S. also has funded the rebuilding of the Lobito Rail Corridor, which will transport minerals from Congo, Zambia and Angola on the west coast.
-
-
-Speaking in the exhibition hall during the indaba, Zambia's minister of transport and logistics, Frank Tayali, thanked the U.S. for its leadership.
-
-
-"We have something like a $350 billion gap in terms of infrastructure gap financing that the continent needs," said Tayali. "Now this focus on infrastructure development is really key in helping the African economies to be able to improve so that they are able to look after their people more effectively."
-
-
-China, meanwhile, is invested in rehabilitating the Tanzania-Zambia Railway Authority — known as TAZARA — to bolster rail and sea transport in East Africa.
-
-
-And in South Africa, the conference's host country, transport and logistics problems at the state-owned Transnet railway system are being considered.
-
-
-"The CEO of Transnet is very open about the state of the rail network," said Allan Seccombe, head of communications at the Minerals Council of South Africa. " ... it needs a lot of work."
-
-
-How will they raise the money?
-
-
-"They are going out on public tenders to try and get that investment in," said Allan Seccombe, head of communications at the Minerals Council of South Africa. "Also, significantly they're speaking to their customers who are by and large, large mining companies to maybe through tariffs they can invest in the rail network, improve it, then have private trains they can operate on the network." 
-
-<br> 
-
-<https://www.voanews.com/a/us-declares-interest-in-developing-african-mining-sector-/7968007.html>
-
----
-
-## Trump administration sends third flight of detainees to Guantanamo
-
-date: 2025-02-08, from: VOA News USA
-
-PENTAGON — The top U.S. homeland security official got a firsthand look at the detention center at Guantanamo Bay, visiting the U.S. naval base in Cuba on Friday, posting video of what appears to be a third flight of "high-threat illegal aliens" to arrive at the facility. 
-
-
-Homeland Security Secretary Kristi Noem shared details of her visit on her official account on the X social media platform, promising, "Vicious gang members will no longer have safe haven in our country."
-
-
-
-
-Noem did not share details about how many detainees were offloaded from what appeared to be a military cargo jet or about the crimes with which they are charged or of which they are suspected of having committed.  
-
-
-The Homeland Security Department and U.S. Immigration and Customs Enforcement have yet to respond to requests for details. 
-
-
-U.S. Southern Command, which oversees operations at Guantanamo Bay, did not comment on the number of flights but told VOA Saturday that the detention facility is now housing "over three dozen individuals." 
-
-
-SOUTHCOM also said it "is prepared to support operations for holding illegal aliens as directed by the Department of Defense" and that any new arrivals "will be treated safely and humanely in accordance with international humanitarian standards." 
-
-
-Immigrants' rights groups, including the American Civil Liberties Union, on Friday sent DHS, the State Department and the Pentagon a letter demanding information and immediate access to the individuals sent to the prison facility at Guantanamo Bay. 
-
-
-"The Constitution, and federal and international law prohibit the government from using Guantánamo as a legal black hole," the groups stated. "We therefore request that the government provide our organizations access to the noncitizens detained at Guantánamo so that those individuals will have access to legal counsel, and so advocates and the public can understand the conditions under which the government is detaining them." 
-
-
-Noem, in another post on X late Friday, said she was at Guantanamo Bay "checking out some of the operations we're standing up to house the worst of the worst and illegal criminals that are in the United States of America."                  
-
-
-"They won't be there for long," she added, while also thanking U.S. President Donald Trump for his hard work to "make America safe again." 
-
-
-
-
-Noem's visit to Guantanamo Bay came a day after the arrival of a second flight of "high-threat illegal aliens," whom she described on social media as "murderers & vicious gang members."  
-
-
-In a separate post, earlier Friday, Noem said the detainees were all Venezuelan gang members. She said one detainee had confessed to murder, while others were wanted for attempted murder, assault, weapons trafficking and impersonation.     
-
-
-A U.S. official, speaking to VOA on the condition of anonymity to discuss the operation, said Thursday's flight aboard a U.S. military cargo plane carried 13 "high threat" individuals.  
-
-
-DHS has not yet provided charging documents or other details regarding the crimes the detainees are accused of committing.  
-
-
-The first 10 undocumented migrants arrived at the detention facility Tuesday, also on board a C-17. Officials have said all the migrants are being held in jail cells under the supervision of officers with ICE.  
-
-
-
-
-Homeland security officials said the 10 migrants who arrived Tuesday were members of Tren de Aragua, a Venezuelan street gang with transnational reach. Officials did not say when or how they were first taken into custody.   
-
-
-The White House has announced plans to designate Tren de Aragua as a Foreign Terrorist Organization.     
-
-
-U.S. defense officials have called the detention of the high-threat migrants at Guantanamo Bay detention facility a temporary measure.   
-
-
-Defense Secretary Pete Hegseth on Friday emphasized the military's commitment under President Donald Trump to secure the U.S. southern border with Mexico.  
-
-
-"We've seen an invasion," Hegseth told a town hall meeting with Pentagon employees. "From people all around the world who I'm sure many of them want to seek a better life. I understand that."    
-
-
-"But we also don't know who millions of them are, what their intentions are, why they're here," he said. "That creates a very real national security threat."  
-
-
-Since Trump's executive order last month, the Pentagon has deployed hundreds of Marines to Guantanamo to expand the facilities to support holding operations for undocumented immigrants.   
-
-
-That includes preparing the detention center, known mostly for housing military prisoners and terror suspects, including those involved in the September 11, 2001, attacks and members of the Taliban.    
-
-
-It also includes setting up tents and other facilities to house non-violent migrants on another section of the base to prepare for as many as 30,000 migrants who will stay there until they can be deported to their countries of origin or to other countries willing to take them.     
-
-
-Closing Guantanamo          
-
-
-Democratic administrations under Barack Obama and Joe Biden had sought to close the detention camp, which was built by the George W. Bush administration in 2002, following the U.S. invasion of Afghanistan that began shortly after the 9/11 attacks of 2001.     
-
-
-Human rights groups have criticized the Trump administration's move to use Guantanamo as a holding center for migrants, some warning it would amount to a human rights catastrophe.   
-
-
-At its height during the global war on terror, the detention facility held about 680 prisoners. As of January 6, there were just 15 detainees at the facility, according to the Pentagon.      
-
-
-Before being used to detain terror suspects, the U.S. naval facility also was used to house migrants from Cuba and Haiti in the early 1990s.   
-
-
-Carla Babb, Patsy Widakuswara, Aline Barros contributed to this story. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-administration-sends-third-flight-of-detainees-to-guantanamo-/7968070.html>
-
----
-
-## Afrikaner groups in South Africa decline Trump’s resettlement plan
-
-date: 2025-02-08, from: VOA News USA
-
-CAPE TOWN, SOUTH AFRICA — Groups representing some of South Africa's white minority responded Saturday to a plan by President Donald Trump to offer them refugee status and resettlement in the United States by saying: thanks, but no thanks.
-
-
-The plan was detailed in an executive order Trump signed Friday that stopped all aid and financial assistance to South Africa as punishment for what the Trump administration said were “rights violations” by the government against some of its white citizens.
-
-
-The Trump administration accused the South African government of allowing violent attacks on white Afrikaner farmers and introducing a land expropriation law that enables it to “seize ethnic minority Afrikaners' agricultural property without compensation.”
-
-
-
-
-The South African government has denied there are any concerted attacks on white farmers and has said that Trump's description of the new land law is full of misinformation and distortions.
-
-
-On Saturday, two of the most prominent groups representing Afrikaners said they would not be taking up Trump's offer of resettlement in the U.S.
-
-
-“Our members work here, and want to stay here, and they are going to stay here," said Dirk Hermann, chief executive of the Afrikaner trade union Solidarity, which says it represents about 2 million people. “We are committed to build a future here. We are not going anywhere.”
-
-
-At the same news conference, Kallie Kriel, the CEO of the Afrikaner lobby group AfriForum, said: "We have to state categorically: We don’t want to move elsewhere."
-
-
-Trump's move to sanction South Africa, a key U.S. trading partner in Africa, came after he and his South African-born adviser Elon Musk accused its Black leadership of having an anti-white stance. But the portrayal of Afrikaners as a downtrodden group that needed to be saved would surprise most South Africans.
-
-
-“It is ironic that the executive order makes provision for refugee status in the U.S. for a group in South Africa that remains amongst the most economically privileged," South Africa's Foreign Ministry said.
-
-
-There was "a campaign of misinformation and propaganda" aimed at South Africa, the ministry said.
-
-
-Whites in South Africa still generally have a much better standard of living than Blacks more than 30 years after the end of the apartheid system of white minority rule in 1994. Despite being a small minority, whites still own about 70% of South Africa's private farmland. A study in 2021 by the South Africa Human Rights Commission said 1% of whites were living in poverty compared with 64% of Blacks.
-
-
-Trump's action against South Africa has given international attention to a sentiment among some white South Africans that they are being discriminated against as a form of payback for apartheid. The leaders of the apartheid government were Afrikaners.
-
-
-Solidarity, AfriForum and others are strongly opposed to the new land expropriation law, saying it will target land owned by whites who have worked to develop that land for years. They also say an equally contentious language law that's recently been passed seeks to remove or limit their Afrikaans language in schools, while they have often criticized South Africa's affirmative action policies in business that promote the interests of Blacks as racist laws.
-
-
-“This government is allowing a certain section of the population to be targeted,” said AfriForum's Kriel, who thanked Trump for raising the case of Afrikaners.
-
-
-The South African government says the laws that have been criticized are aimed at the incredibly difficult task of redressing the wrongs of colonialism and then nearly a half-century of apartheid, when Blacks were stripped of their land and almost all their rights. 
-
-<br> 
-
-<https://www.voanews.com/a/white-south-africans-reject-trump-s-resettlement-plan/7967974.html>
-
----
-
-## White House order halts Myanmar refugee resettlement deal with Thailand
-
-date: 2025-02-08, from: VOA News USA
-
-BANGKOK — The head of a Thai parliamentary committee that oversees border affairs and refugee camp officials told VOA the suspension by the United States of refugee admissions has halted a resettlement deal the U.S. struck with Thailand last year to take in thousands of Myanmar families.
-
-
-About 90,000 refugees from Myanmar are in Thailand in a string of nine sealed-off camps along the countries’ shared border. Some have lived in the camps since the mid-1980s, fleeing decades of fighting between Myanmar’s military and ethnic-minority rebel groups vying for autonomy. Most are ethnic minority Karen.
-
-
-After more than a year of talks and planning, the United States agreed to start taking in some of the refugees last year, although the U.S. State Department would not say how many of them might resettle. However, Thai lawmaker Rangsiman Rome, and an aid worker previously told VOA that local United Nations High Commissioner for Refugees staff told them in 2023 that it could be up to 10,000 per year, a claim the U.N. would not confirm or deny.
-
-
-The first groups of 25 families left the camps for the United States in July.
-
-
-U.S. President Donald Trump said that during the previous four years — the term of former President Joe Biden — “the United States has been inundated with record levels of migration, including through the U.S. Refugee Admissions Program,” and he suspended the program by executive order Jan. 20, effective a week later.
-
-
-The administration is allowing only case-by-case exceptions, “until such time as the further entry into the United States of refugees aligns with the interests of the United States.”
-
-
-The U.S. Embassy in Bangkok declined to comment to VOA on the order’s impact on the resettlement deal the United States and Thailand struck last year.
-
-
-Asked about the deal’s fate, a U.S. State Department spokesperson told VOA it was “coordinating with implementing partners to suspend refugee arrivals to the United States” and refused further comment.
-
-
-Rangsiman, who chairs the Thai House of Representatives National Security, Border Affairs, National Strategy and National Reform Committee, which monitors the refugee camps, confirmed Friday that Trump's order has put a stop to the deal, at least for the time being.
-
-
-“We are aware that the deal is on hold but still waiting for updates from related departments if this deal can be renegotiated,” he told VOA.
-
-
-Officials and spokespersons for the Thai government and ministries involved in managing the deal either refused to speak with VOA or did not reply to requests for comment.
-
-
-
-
-Camp administrators told VOA that all work vetting and preparing the refugees in the camps for resettlement to the U.S., including interviews and medical checks, has stopped since the White House order.
-
-
-“After the 20th, after the announcement, everything stopped,” said Nido, who goes by one name, the vice chairman of the committee managing day-to-day operations at the Umpiem camp in Tak province.
-
-
-“On the 27th, many people from the camp had to go for their second vaccination. The doctors and nurses were there already preparing to vaccinate. But when the people arrived, they said there were some changes, so they had to stop the vaccination process. They told the people they will have to stop this process for a while, but they could not say for how long,” he said. “The interviews, the vaccinations — they had to stop it.”
-
-
-Bweh Say, secretary of the Karen Refugee Committee that oversees the individual camp committees, said he was told by UNHCR staff that resettlement work was on hold across all the camps.
-
-
-“Some of their staff, when we sit together, we talk together … they said [it has] stopped,” he said.
-
-
-The UNHCR has been helping Thailand and the United States run the resettlement program, but it refused to comment to VOA on the impact of the suspension of the U.S. refugee admissions program, USRAP.
-
-
-Camp officials and refugee advocates say the deal between Thailand and the U.S. was the only foreseeable chance in the near term for thousands of families to have a future other than as permanent refugees.
-
-
-The Myanmar military’s overthrow of a democratically elected government in 2021 amplified violence in the country, setting off a civil war that has killed thousands of civilians.
-
-
-Thailand itself will not allow the refugees to settle outside the camps and mostly denies them the chance to work or study outside the camps legally. Aid and advocacy groups that work with the refugees have described rising despair, drug abuse and violence.
-
-
-No other country besides the United States has taken up Thailand’s call to resettle the refugees in large numbers.
-
-
-“This [deal] is very important for the refugees. Some of us have been staying in the camps for decades — two or almost three. Children have been born here,” said Nido, a refugee himself who fled Myanmar nearly 20 years ago.
-
-
-“The situation in Myanmar now is very terrible,” he said. “A lot of conflict and fighting. It’s not possible to go back. It’s also not possible to be recognized as a Thai national or to get Thai ID, and when you’re stateless, it is very hard to move around or find work.”
-
-
-Inside the camps, jobs are hard to come by except for running a small shop or working with an aid group for a modest stipend. Schools are barred from teaching the Thai curriculum or language, leaving little chance for a higher education. Monthly food allowances, funded by international donors, barely keep pace with inflation.
-
-
-Since Trump took office, the dismantling of the U.S. Agency for International Development also has compelled the clinics it was funding across the camps to close, forcing the refugees onto Thailand’s own public health care system. The Thai government has vowed to plug the gap, but media reports say it is struggling.
-
-
-Some critics say the USAID programs are wasteful and promote an agenda that fosters dependence without addressing the root of the problem. A Justice Department official, Brett Shumate, said Friday, “The president has decided there is corruption and fraud at USAID,” although he did not detail the alleged mismanagement.
-
-
-“If they could return [to Myanmar], if the situation [were] safe, of course everyone would want to return to their homes. But since it is impossible, then resettlement is one of their first options,” said Wahkushee Tenner, a former refugee from the camps who now runs the Karen Peace Support Network, a nongovernment group based in Thailand that advocates for the Karen.
-
-
-“Resettlement is not the best option,” she said, “but there is no best … option.” 
-
-<br> 
-
-<https://www.voanews.com/a/white-house-order-halts-myanmar-refugee-resettlement-deal-with-thailand/7967957.html>
-
----
-
-##  YOU LOVE TO SEE IT: Whale Of A Win 
-
-date: 2025-02-08, from: The Lever News
-
- Right whales get their rights back, abortion providers are handed a shield, Trump has an antitrust moment, and a tractor company is told to repair its values.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-whale-of-a-win/>
-
----
-
-## Stradivari violin made in 1714 sells for $11.3M
-
-date: 2025-02-08, from: VOA News USA
-
-NEW YORK — A violin made in 1714 by the legendary luthier Antonio Stradivari sold for $11.3 million at an auction in New York on Friday, short of estimates that would have made it the most expensive instrument ever sold. 
-
-
-Sotheby's auction house had estimated that the "Joachim-Ma Stradivarius" violin could sell for between $12 million and $18 million, with the higher end of the range potentially eclipsing the record-breaking $15.9 million someone paid for another Stradivari violin at auction more than a decade ago. 
-
-
-The "Joachim-Ma Stradivarius" is regarded as one of Stradivari's best works, built during his "Golden Period" at the height of his craftsmanship and acoustic mastery, according to the auction house. 
-
-
-
-
-Adding to the intrigue, the violin is believed to have influenced legendary composer Johannes Brahms when he wrote the famed "Violin Concerto in D Major" and was actually played during the concerto's 1879 premiere. 
-
-
-"This extraordinary violin represents the pinnacle of craftsmanship and classical music history, its unparalleled sound and storied provenance captivating collectors and musicians alike," Mari-Claudia Jimenez, chair at Sotheby's. "The Joachim-Ma Stradivarius garnered global attention, achieving one of the highest prices ever for a musical instrument — an acknowledgment of its rarity and historical importance." 
-
-
-$2M increase in seconds
-
-
-Bidding at Sotheby's began at $8 million and within seconds shot up to $10 million, as auctioneer Phyllis Kao scanned the room, looking for someone to put up $10.5 million. 
-
-
-"Am I selling? At $10 million," she said, looking to potential bidders. 
-
-
-The room was quiet. 
-
-
-"Last chance, at $10 million," she said. "I can sell, and I will, at $10 million, unless you go on." 
-
-
-"Sold. $10 million," she said, banging a gavel. 
-
-
-The final price includes auction house fees. 
-
-
-Sale funds scholarships
-
-
-The name of the instrument comes from two of its famous violin virtuoso owners, Joseph Joachim of Hungary and Si-Hon Ma of China. Ma's estate gifted the violin to the New England Conservatory in Boston after his death. 
-
-
-The conservatory will use the proceeds to fund student scholarships. 
-
-
-"The sale is transformational for future students, and proceeds will establish the largest named endowed scholarship at New England Conservatory," said Andrea Kalyn, president of New England Conservatory. "It has been an honor to have the Joachim-Ma Stradivari on campus, and we are eager to watch its legacy continue on the world stage." 
-
-<br> 
-
-<https://www.voanews.com/a/hold-for-wknd---stradivari-violin-made-in-1714-sells-for-11-3m-/7967516.html>
-
----
-
-## Alaska lawmakers ask Trump to retain Denali's name, not change it to Mount McKinley
-
-date: 2025-02-08, from: VOA News USA
-
-JUNEAU, ALASKA — The Alaska Legislature passed a resolution Friday urging President Donald Trump to reverse course and retain the name of North America's tallest peak as Denali rather than change it to Mount McKinley.
-
-
-Trump, on his first day in office, signed an executive order calling for the name to revert to Mount McKinley, an identifier inspired by President William McKinley, who was from Ohio and never set foot in Alaska.
-
-
-He said he planned to "restore the name of a great president, William McKinley, to Mount McKinley, where it should be and where it belongs. President McKinley made our country very rich through tariffs and through talent."
-
-
-The 19-0 vote in the state Senate came just over a week after the House passed the measure 31-8.
-
-
-The resolution was sponsored by Rep. Maxine Dibert, a Democrat who is Koyukon Athabascan. Members of that tribe bestowed the name Denali, or "the high one," on the mountain in interior Alaska.
-
-
-"Denali is more than a mountain," Dibert of Fairbanks said in a news release. "It's a cornerstone of Alaska's history, a tribute to our diverse culture and a testament to the people who have cherished this land for millennia."
-
-
-The Interior Department late last month announced efforts were underway to implement Trump's renaming order, even though state leaders haven't seen the matter as settled. An Interior spokesperson, J. Elizabeth Peace, earlier this week said the agency did not have any further updates.
-
-
-According to the National Park Service, a prospector in 1896 dubbed the peak Mount McKinley for William McKinley, who was elected president that year. Although there were challenges to the McKinley name at the time it was announced, maps had already been circulated with the mountain's name in place.
-
-
-The name was formally recognized by the U.S. government until it was changed in 2015 by the Obama administration to Denali.
-
-
-The name change reflected the traditions of Alaska Natives and the preference of many Alaskans, underscored by a push by state leaders decades earlier. The 6,190-meter mountain in Denali National Park and Preserve on clear days can be see from hundreds of kilometers away.
-
-
-"Denali is the name of our mountain; a name of great importance to Alaska Natives and everyone across our state," House Speaker Bryce Edgmon, an independent from Dillingham, said in the news release. "It is clear from the bipartisan support in the legislature that Alaskans should decide." 
-
-<br> 
-
-<https://www.voanews.com/a/alaska-lawmakers-ask-trump-to-retain-denali-s-name-not-change-it-to-mount-mckinley/7967506.html>
-
----
-
-## North Korea says its nuclear weapons not a 'bargaining chip' as Trump, Ishiba meet
-
-date: 2025-02-08, from: VOA News USA
-
-SEOUL, SOUTH KOREA — North Korea said on Saturday its nuclear weapons are not meant for negotiations but are intended for combat use against enemies that threaten its people and world peace, its state media reported.
-
-
-The statement comes after U.S. President Donald Trump hosted Japanese Prime Minister Shigeru Ishiba at the White House on Friday. The two leaders expressed their commitment to ensuring North Korea ends its nuclear weapons program.
-
-
-KCNA did not mention the meeting between the U.S. and Japanese leaders but instead cited reported comments by officials of NATO and the EU that reiterated demands for a complete denuclearization of North Korea.
-
-
-"We say this clearly again: Our nuclear weapons are not an advertisement to get anyone's recognition and even less a bargaining chip to be exchanged for some money," KCNA said in a statement.
-
-
-"Our nuclear forces are for unwavering combat use to swiftly eliminate any attempts by enemy forces that infringe on our country's sovereignty and the safety of our people and threaten world peace," it said.
-
-
-North Korea has not responded directly to overtures from Trump to resume contact with its leader Kim Jong Un and instead stressed its intention to "bolster" its nuclear forces.
-
-
-Trump said on Friday he "will have relations with North Korea and with Kim Jong Un," adding he had a good rapport with Kim. The two held unprecedented summit meetings during Trump's first presidency.
-
-
-On Jan. 20 when he was inaugurated for his second term, Trump said the North was a "nuclear power," raising questions whether he would pursue arms reduction talks rather than denuclearization negotiations.
-
-
-"The two leaders expressed their serious concerns over and the need to address North Korea’s nuclear and missile programs and reaffirmed their resolute commitment to the complete denuclearization of North Korea," a joint statement by Trump and Ishiba issued after their talks said. 
-
-<br> 
-
-<https://www.voanews.com/a/north-korea-says-its-nuclear-weapons-not-a-bargaining-chip-as-trump-ishiba-meet/7967579.html>
-
----
-
-## US approves sale of $7.4B in bombs, missiles to Israel
-
-date: 2025-02-08, from: VOA News USA
-
-WASHINGTON — The United States on Friday announced the approval of the sale of more than $7.4 billion in bombs, missiles and related equipment to Israel, which has used American-made weapons to devastating effect during the war in Gaza.
-
-
-The State Department has signed off on the sale of $6.75 billion in bombs, guidance kits and fuses, in addition to $660 million in Hellfire missiles, according to the U.S. Defense Security Cooperation Agency (DSCA).
-
-
-The proposed sale of the bombs "improves Israel's capability to meet current and future threats, strengthen its homeland defense, and serves as a deterrent to regional threats," DSCA said in a statement.
-
-
-And the missile sale would "improve Israel's capability to meet current and future threats by improving the ability of the Israeli Air Force to defend Israel's borders, vital infrastructure, and population centers," it said.
-
-
-Israel launched a hugely destructive offensive against Hamas in Gaza in October 2023 in response to an unprecedented attack by the Palestinian militant group that month. Hamas has been designated a terrorist organization by the United States, United Kingdom, European Union and others.
-
-
-The war has devastated much of Gaza -- a narrow coastal territory on the Mediterranean -- resulting in the displacement of much of its population, but a ceasefire has been in effect since last month, bringing a halt to the deadly conflict and providing for the release of hostages seized by Hamas.
-
-
-In response to concerns over civilian deaths, then-President Joe Biden's administration blocked a shipment of 907-kilogram bombs to Israel -- larger than those in the latest proposed sale -- but his successor, Donald Trump, reportedly approved the shipment after returning to office.
-
-
-While the State Department has approved the sale of the bombs and missiles, the transactions still need to be approved by Congress, which is unlikely to block the provision of the weapons to Washington's closest ally in the Middle East. 
-
-<br> 
-
-<https://www.voanews.com/a/us-approves-sale-of-7-4b-in-bombs-missiles-to-israel/7967574.html>
-
----
-
-## US Justice Department disbands teams investigating corruption, election interference
-
-date: 2025-02-08, from: VOA News USA
-
-The U.S. Department of Justice will refocus much of its staff and resources on the "total elimination" of drug cartels and transnational criminal organizations in the United States while disbanding units dedicated to prosecuting white-collar crime and kleptocrats and tracking foreign efforts to influence U.S. elections.
-
-
-The change, announced in a set of memos issued this week by newly sworn-in Attorney General Pam Bondi, is part of a major reorientation of a department that President Donald Trump says has been "weaponized" against him since the end of his first term in office.
-
-
-In a memo issued Wednesday, her first day in office, Bondi called for a "fundamental change in mindset and approach" when it comes to combating drug cartels.
-
-
-"We must do more than try to mitigate the enormous harms these groups cause in America," Bondi wrote. "It is not enough to stem the tide of deadly poisons, such as fentanyl, that these groups distribute in our homeland. Rather, we must harness the resources of the Department of Justice and empower federal prosecutors throughout the country to work urgently with the Department of Homeland Security and other parts of the government toward the goal of eliminating these threats to U.S. sovereignty."
-
-
-Kleptocracy programs eliminated
-
-
-The same memo outlined Bondi's moves to do away with specific units in the department.
-
-
-Among those eliminated were two dedicated to targeting kleptocrats — public figures who use their authority to steal resources from their own people.
-
-
-The Kleptocracy Asset Recovery Initiative, established in 2010, worked to identify the assets of kleptocrats, seize them and return them to the countries from which they were stolen.
-
-
-Task Force KleptoCapture, a separate unit, was formed in early 2022 in the wake of Russia's full-scale invasion of Ukraine. The unit targeted oligarchs close to Russian President Vladimir Putin and enforced sanctions against Russia by the U.S. and its allies after the invasion.
-
-
-"Attorneys assigned to those initiatives shall return to their prior posts," Bondi's memo said, "and resources currently devoted to those efforts shall be committed to the total elimination of Cartels and TCOs."
-
-
-
-
-The Criminal Division's unit focused on bringing prosecutions under the Foreign Corrupt Practices Act, she said, "shall prioritize investigations related to foreign bribery that facilitates the criminal operations of Cartels and TCOs, and shift focus away from investigations and cases that do not involve such a connection."
-
-
-In 2024 alone, the FCPA unit secured hundreds of millions of dollars in settlement payments from companies found guilty of bribing public officials.
-
-
-Prosecutions under the Foreign Extortion Prevention Act were also redirected under the new instructions.
-
-
-Anticorruption groups concerned
-
-
-Gary Kalman, the executive director of Transparency International U.S., told VOA that the changes to DOJ priorities could have dire consequences for the global fight against public corruption.
-
-
-"The elimination of kleptocracy initiatives is a concern in that those initiatives were providing valuable coordination and information-sharing services amongst different departments and with some of our overseas allies," Kalman said.
-
-
-"Those networks had some encouraging results and enabled investigations to move more quickly," he said. "Dismantling those programs will likely have a negative effect on our ability to investigate and prosecute cases."
-
-
-Regarding the change in focus for FCPA and FEPA investigations, Kalman said, much will depend on how the administration chooses to define "transnational criminal organizations."
-
-
-FCPA and FEPA violations "are by nature, transnational crimes," he pointed out. So, he said, it's difficult to know for sure what kind of investigations will be prioritized.
-
-
-"For example, do they consider the Iranian government an 'organization'?" he asked.
-
-
-In an analysis of the Justice Department's moves, a group of attorneys at the law firm Arnold & Porter argued that the department's new posture might lead to more FCPA cases.
-
-
-"FCPA enforcement might actually increase, at least in certain areas," they wrote. "For example, DOJ might more aggressively prosecute FCPA violations related directly to Mexico and other Latin American countries, as well as China — places that the Trump administration has identified publicly as sources of transnational criminal activity, including trafficking of illegal narcotics."
-
-
-Foreign influence prosecutions refocused
-
-
-In a separate memo, Bondi revealed that the Department of Justice will also disband the Foreign Influence Task Force, established in 2017 to investigate efforts by state actors, such as Russia and China, to influence U.S. public opinion, particularly around elections.
-
-
-Trump has been highly critical of efforts by law enforcement to identify and root out foreign interference in U.S. elections, especially after a report by special counsel Robert Mueller, in 2019, found extensive evidence that Russian influence operations had been mounted to benefit Trump's candidacy during the 2016 presidential election.
-
-
-In her memo, Bondi wrote, "To free resources to address more pressing priorities, and end risks of further weaponization and abuses of prosecutorial discretion, the Foreign Influence Task Force shall be disbanded."
-
-
-Election integrity advocates were dismayed by the decision.
-
-
-Susannah Goodman, the director of election security for the activist organization Common Cause, said in a statement that the decision to disband FITF is a "terrible mistake" that will leave state and local election infrastructure without critical support.
-
-
-"The FITF provides critical protection to safeguard our votes and our elections from the intelligence services of hostile foreign governments including Russia, China and Iran," Goodman said.
-
-
-"We know that foreign governments have been interfering in our elections for decades and even more expansively beginning during the 2016 election cycle. It is hard to imagine a more pressing priority than protecting our elections from foreign interference," she said.
-
-
-"States and local officials — who run our elections — do not have the resources and expertise to go toe-to-toe with highly sophisticated foreign intelligence services," she said. 
-
-<br> 
-
-<https://www.voanews.com/a/us-justice-department-disbands-teams-investigating-corruption-election-interference/7967503.html>
-
----
-
-## Why do you still get unwanted calls from telemarketers?
-
-date: 2025-02-08, from: Market Place
-
- Phone companies have the technology to block unwanted calls, but some haven’t prioritized doing so. 
- 
-
-<br> 
-
-<https://www.marketplace.org/2025/02/07/why-do-you-still-get-unwanted-calls-from-telemarketers/>
-
----
-
-## Wreckage of missing Alaska plane found; no survivors
-
-date: 2025-02-08, from: VOA News USA
-
-The wreckage of a small commuter plane missing in Alaska has been found, Coast Guard officials said Friday. All 10 people aboard the plane — nine passengers and a pilot — are dead, according to media reports.
-
-
-Coast Guard spokesperson Mike Salerno said rescuers saw the crash from their helicopter as they flew over the Cessna 208 Caravan’s last known location. Two rescue swimmers were lowered to investigate the scene, Salerno said.
-
-
-Several groups were involved in the search for the plane, including the Alaska State Troopers, the U.S. Coast Guard, Alaska Air National Guard, Alaska Army National Guard and local search teams.
-
-
-Authorities said a Jayhawk helicopter was brought in Friday morning to help with the search.
-
-
-The FBI provided technical assistance, including cellphone analysis, to help locate the aircraft.
-
-
-The Bering Air flight was traveling in western Alaska, just south of the Arctic Circle, from Unalakleet to Nome. Alaska State Troopers said they were notified Thursday at 4 p.m. about the missing plane.
-
-
-The U.S. Coast Guard said on X the flight’s last known position was 19 kilometers offshore.
-
-
-Early Friday, the Nome fire department posted on X that it was conducting a ground search, but weather and visibility conditions were hampering the department's air search. The department urged people not to form their own search parties because of hazardous weather conditions in the region, which is prone to sudden snow squalls and high winds.
-
-
-Airplanes are often the only method of transportation between rural Alaskan villages.
-
-
-Nome is well-known as the last stop in the Iditarod Trail Sled Dog Race.
-
-
-This is the third major U.S. aviation incident in recent days. On Jan. 29, a commercial airliner and an Army helicopter collided near Reagan National Airport outside Washington. Two days later, a medical transport plane crashed into a Philadelphia neighborhood shortly after takeoff, killing six people onboard and another person on the street.
-
-
-Some information for this report came from The Associated Press. 
-
-<br> 
-
-<https://www.voanews.com/a/wreckage-of-missing-alaska-plane-found-no-survivors/7967549.html>
-
----
-
-## The NFL has financial rules to level the playing field. So why do the Chiefs dominate?
-
-date: 2025-02-08, from: Market Place
-
-Policies to encourage fairness are a double-edged sword. 
- 
-
-<br> 
-
-<https://www.marketplace.org/2025/02/07/the-nfl-has-financial-rules-to-level-the-playing-field-so-why-do-the-chiefs-dominate/>
-
----
-
-## Trump, Ishiba declare ‘new golden age’ for US-Japan ties
-
-date: 2025-02-08, from: VOA News USA
-
-President Donald Trump and Prime Minister Shigeru Ishiba met at the White House on Friday, declaring a “new golden age” for U.S.-Japan ties. The visit came amid Trump’s early foreign policy moves that have rattled allies and adversaries alike. White House Bureau Chief Patsy Widakuswara has this report. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-ishiba-declare-new-golden-age-for-us-japan-ties/7967540.html>
-
----
-
-## 19 states sue to stop DOGE from accessing Americans' personal data
-
-date: 2025-02-08, from: VOA News USA
-
-Nineteen Democratic attorneys general sued President Donald Trump on Friday to stop Elon Musk's Department of Government Efficiency from accessing Treasury Department records that contain sensitive personal data such as Social Security and bank account numbers for millions of Americans.
-
-
-The case, filed in federal court in New York City, alleges the Trump administration allowed Musk's team access to the Treasury Department's central payment system in violation of federal law.
-
-
-The payment system handles tax refunds, Social Security benefits, veterans' benefits and much more, sending out trillions of dollars every year while containing an expansive network of Americans' personal and financial data.
-
-
-The White House did not immediately respond to a request for comment.
-
-
-Musk's Department of Government Efficiency, also known as DOGE, was created to discover and eliminate what the Trump administration has deemed to be wasteful government spending. DOGE's access to Treasury records, as well as its inspection of various government agencies, has ignited widespread concern among critics over the increasing power of Musk, while supporters have cheered the idea of reining in government finances.
-
-
-
-
-Musk has made fun of criticism of DOGE on his X social media platform while saying it is saving taxpayers millions of dollars.
-
-
-New York Attorney General Letitia James, whose office filed the lawsuit, said DOGE's access to the Treasury Department's data raises security problems and the possibility for an illegal freeze in federal funds.
-
-
-"This unelected group, led by the world's richest man, is not authorized to have this information, and they explicitly sought this unauthorized access to illegally block payments that millions of Americans rely on, payments for health care, child care and other essential programs," James said in a video message released by her office.
-
-
-James, a Democrat who has been one of Trump's chief antagonists, said the president does not have the power to give away American's private information to anyone he chooses, and he cannot cut federal payments approved by Congress.
-
-
-Also on the lawsuit are Arizona, California, Colorado, Connecticut, Delaware, Hawaii, Illinois, Maine, Maryland, Massachusetts, Minnesota, Nevada, New Jersey, North Carolina, Oregon, Rhode Island, Vermont, and Wisconsin.
-
-
-The suit alleges that DOGE's access to the Treasury records could interfere with funding appropriated by Congress, which would exceed the Treasury Department's statutory authority. The case also argues that the DOGE access violates federal administrative law and the U.S. Constitution's separation of powers doctrine.
-
-
-It also accuses Treasury Secretary Scott Bessent of changing the department's longstanding policy for protecting sensitive personally identifiable information and financial information to allow Musk's DOGE team access to its payment systems.
-
-
-"This decision failed to account for legal obligations to protect such data and ignored the privacy expectations of federal fund recipients," including states, veterans, retirees and taxpayers, the lawsuit says.
-
-
-Connecticut Attorney General William Tong said it's not clear what DOGE is doing with the information in the Treasury systems.
-
-
-"This is the largest data breach in American history," Tong said in a statement. "DOGE is an unlawfully constituted band of renegade tech bros combing through confidential records, sensitive data and critical payment systems. What could go wrong?"
-
-
-The Treasury Department has said the review is about assessing the integrity of the system and that no changes are being made. According to two people familiar with the process, Musk's team began its inquiry looking for ways to suspend payments made by the U.S. Agency for International Development, which Trump and Musk are attempting to dismantle. The two people spoke with The Associated Press on condition of anonymity for fear of retaliation.
-
-
-Separately, Democratic lawmakers are seeking a Treasury Department investigation of DOGE's access to the government's payment system.
-
-
-Also, labor unions and advocacy groups have sued to block the payments system review over concerns about its legality. A judge in Washington on Thursday temporarily restricted access to two employees with "read only" privileges. 
-
-<br> 
-
-<https://www.voanews.com/a/states-sue-to-stop-doge-from-accessing-americans-personal-data/7967515.html>
-
----
-
-## Trump orders freeze of aid to South Africa, cites country's land expropriation law
-
-date: 2025-02-08, from: VOA News USA
-
-washington — President Donald Trump signed an executive order Friday formalizing his announcement earlier this week that he'll freeze assistance to South Africa because of its law aiming to address some of the wrongs of South Africa's racist apartheid era — a law the White House says amounts to discrimination against the country's white minority. 
-
-
-"As long as South Africa continues to support bad actors on the world stage and allows violent attacks on innocent disfavored minority farmers, the United States will stop aid and assistance to the country," the White House said in a summary of the order. The White House said Trump is also going to announce a program to resettle white South African farmers and their families as refugees. 
-
-
-Trump was responding to a new law in South Africa that gives the government powers in some instances to expropriate land from people. The White House said the law "blatantly discriminates against ethnic minority Afrikaners." 
-
-
-The Expropriation Act was signed into law by South African President Cyril Ramaphosa last month and allows the government to take land in specific instances where it is not being used, or where it would be in the public interest if it were redistributed. 
-
-
-It aims to address some of the wrongs of South Africa's racist apartheid era, when land was taken away from Black people and they were forced to live in areas designated for nonwhites. 
-
-
-Elon Musk, who is a close Trump ally and head of Trump's new Department of Government Efficiency, has highlighted that law in recent social media posts and cast it as a threat to South Africa's white minority. Musk was born in South Africa. 
-
-
-The order also references South Africa's role in bringing accusations of genocide against Israel before the International Court of Justice. 
-
-
-The halt in foreign aid to South Africa comes amid a broader pause in most U.S. overseas assistance under Trump, as he looks to shift to what he calls an "America First" foreign policy. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-orders-freeze-of-aid-to-south-africa-cites-country-s-land-expropriation-law/7967514.html>
-
----
-
-## Are Trump’s firings legal?
-
-date: 2025-02-08, from: Market Place, Make me Smart
-
-<p><!-- wp:paragraph --></p>
-<p>President Donald Trump has fired <a href="https://www.marketplace.org/2025/02/07/president-trump-has-fired-multiple-government-officials-can-he/">dozens </a>of government officials since he took office. The latest is the chair of the Federal Election Commission. But is any of this legal? We’ll get into it. Plus: A &#8220;Make Me Smart&#8221; alum shares the trauma of losing his home in the Los Angeles fires. Finally, we’ll wrap with a dose of uplifting news (thanks to you!) and a round of our favorite game, Half Full/Half Empty!</p>
-<p>Here’s everything we talked about today:</p>
-<ul>
-<li><a href="https://www.cbsnews.com/news/democratic-fec-chair-ellen-weintraub-trump-fired-her/" target="_blank" rel="noreferrer noopener">“Democratic FEC Chair Ellen Weintraub says Trump fired her. She says it&#8217;s not  legal.”</a> from CBS News</li>
-</ul>
-<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
-<ul>
-<li><a href="https://campaignlegal.org/press-releases/trump-illegally-attempts-fire-federal-election-commission-chair-ellen-weintraub" target="_blank" rel="noreferrer noopener">“Trump Illegally Attempts to Fire Federal Election Commission Chair Ellen Weintraub”</a> from Campaign Legal Center</li>
-</ul>
-<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
-<ul>
-<li><a href="https://www.townandcountrymag.com/leisure/arts-and-culture/a63526559/oscar-nominated-short-films-watch-stream-2025/" target="_blank" rel="noreferrer noopener">“How to Watch All the 2025 Oscar Nominated Short Films”</a> by Town &amp; Country magazine</li>
-</ul>
-<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
-<ul>
-<li><a href="https://www.erininthemorning.com/p/2025-trans-girl-scouts-to-order-cookies" target="_blank" rel="noreferrer noopener">“2025 Trans Girl Scouts To Order Cookies From!”</a> by Erin in the Morning</li>
-</ul>
-<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
-<ul>
-<li><a href="https://www.nytimes.com/2025/02/07/us/eaton-fire-california-home-trauma.html?unlocked_article_code=1.vE4.ub6i.UKDs-WOEDM27&amp;smid=url-share" target="_blank" rel="noreferrer noopener">“The Trauma of Losing Your Home in the Eaton Fire”</a> from The New York Times</li>
-</ul>
-<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
-<ul>
-<li><a href="https://www.marketplace.org/2025/02/07/a-los-angeles-area-developer-gives-advice-on-rebuilding-after-the-fires/" target="_blank" rel="noreferrer noopener">“A Los Angeles-area developer gives advice on rebuilding after the fires”</a> from Marketplace</li>
-</ul>
-<p><!-- /wp:list-item --></p>
-<p><!-- /wp:list --> <!-- wp:paragraph --></p>
-<p>Got a question or comment for the hosts? Email us at <a href="mailto:makemesmart@marketplace.org" target="_blank" rel="noreferrer noopener">makemesmart@marketplace.org</a> or leave us a voicemail at 508-U-B-SMART.</p>
-<p><!-- /wp:paragraph --></p>
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/07/mms_20250207_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fare-trumps-firings-legal&awCollectionId=mkp-MMsmrt"></source>
-</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/07/mms_20250207_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fare-trumps-firings-legal&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
-
-<https://www.marketplace.org/shows/make-me-smart/are-trumps-firings-legal>
-
----
-
-## After expanding a successful sports business, Colorado couple are still trying to see a profit
-
-date: 2025-02-08, from: Market Place
-
-"Growth, as they say, eats cash," said Christine Herron, co-founder of Achieve Sports in Aurora, Colorado. 
-
-<br> 
-
-<https://www.marketplace.org/2025/02/07/colorado-couple-recreational-sports-small-business/>
-
----
-
-## US homeland security leader official set to visit Guantanamo Bay
-
-date: 2025-02-08, from: VOA News USA
-
-PENTAGON — The top U.S. homeland security official was set to get a firsthand look at the detention center at Guantanamo Bay, visiting the U.S. naval base in Cuba a day after sending a second flight of "high-threat illegal aliens" to be held there.
-
-
-Homeland Security Secretary Kristi Noem announced the trip Friday in a social media post on X, while sharing photos of detainees she described as "murderers & vicious gang members" being offloaded from a U.S. military transport jet before being taken to the prison facility.
-
-
-
-
-In a separate post earlier Friday, Noem said the detainees were all Venezuelan gang members. She said one detainee had confessed to murder, while others were wanted for attempted murder, assault, weapons trafficking and impersonation.
-
-
-DHS has not yet provided charging documents or other details regarding the crimes the detainees are accused of committing.
-
-
-A U.S. official, speaking to VOA on the condition of anonymity to discuss the operation, said Thursday's flight aboard a U.S. military C-130 cargo plane carried 13 "high-threat" individuals.
-
-
-The first 10 undocumented migrants, described by U.S. officials as the "the worst of the worst," arrived at the detention facility Tuesday, also on board a C-130. Officials have said all the migrants are being held under the watch of officers with U.S. Immigration and Customs Enforcement.
-
-
-
-
-Homeland Security officials said the 10 migrants who arrived Tuesday were members of Tren de Aragua, a Venezuelan street gang with transnational reach. Officials did not say when or how they were first taken into custody.
-
-
-The White House has announced plans to designate Tren de Aragua as a Foreign Terrorist Organization.
-
-
-U.S. defense officials have called the detention of the high-threat migrants at Guantanamo Bay detention facility a temporary measure.
-
-
-Defense Secretary Pete Hegseth on Friday, though, emphasized the military's commitment under President Donald Trump to secure the U.S. southern border with Mexico.
-
-
-"We've seen an invasion," Hegseth told a town hall meeting with Pentagon employees. "From people all around the world who I'm sure many of them want to seek a better life. I understand that.
-
-
-"But we also don't know who millions of them are, what their intentions are, why they're here," he said. "That creates a very real national security threat."
-
-
-Since Trump's executive order last month, the Pentagon has deployed hundreds of Marines to Guantanamo to expand the facilities to support holding operations for undocumented immigrants.
-
-
-That includes preparing the detention center, known mostly for housing military prisoners and terror suspects, including those involved in the September 11, 2001, attacks and members of the Taliban.
-
-
-It also includes setting up tents and other facilities to house nonviolent migrants on another section of the base to prepare for as many as 30,000 migrants who will stay there until they can be deported to their countries of origin or other countries willing to take them.
-
-
-Closing Guantanamo 
-
-
-Democratic administrations under former Presidents Barack Obama and Joe Biden had sought to close the detention camp, which was built by the administration of former President George W. Bush in 2002, following the U.S. invasion of Afghanistan that began shortly after the 9/11 attacks of 2001.
-
-
-Human rights groups have criticized the Trump administration's move to use Guantanamo as a holding center for migrants, with some warning it would amount to a human rights catastrophe.
-
-
-At its height during the global war on terror, the detention facility held about 680 prisoners. As of Jan. 6, there were just 15 detainees at the facility, according to the Pentagon.
-
-
-Before being used to detain terror suspects, the U.S. naval facility was also used to house migrants from Cuba and Haiti in the early 1990s. 
-
-<br> 
-
-<https://www.voanews.com/a/us-homeland-security-leader-official-set-to-visit-guantanamo-bay/7967295.html>
-
----
-
-## Wage growth accelerated in first month of 2025
-
-date: 2025-02-08, from: Market Place
-
-Average hourly earnings rose 0.5% from December and 4.1% year over year, outpacing forecasts as well as inflation. Was it just a blip? 
- 
-
-<br> 
-
-<https://www.marketplace.org/2025/02/07/wage-growth-accelerated-in-first-month-of-2025/>
-
----
-
-## Casino mogul asks US Supreme Court to revisit landmark defamation rule
-
-date: 2025-02-08, from: VOA News USA
-
-washington — Casino mogul Steve Wynn has asked the U.S. Supreme Court to hear an appeal that, if granted, could give the justices a chance to revisit libel protections for journalists enshrined in a landmark 1964 ruling that has been questioned by two conservative justices and President Donald Trump. 
-
-
-The court established a stringent limit on defamation claims by public figures more than 60 years ago in its New York Times v. Sullivan decision involving the U.S. Constitution's First Amendment protections for freedom of speech and the press.  
-
-
-Wynn, the former CEO of Wynn Resorts and former finance chair of the Republican National Committee, is appealing a decision by Nevada's top court to dismiss his defamation suit against The Associated Press and one of its journalists. The court found Wynn failed to show a disputed 2018 news report containing allegations of sexual assault had been published with "actual malice."  
-
-
-The Supreme Court in New York Times v. Sullivan and subsequent decisions set a standard that in order to win a libel suit, a public figure must demonstrate the offending statement was made with "actual malice," meaning with knowledge it was false or with reckless disregard as to whether it was false. 
-
-
-That standard has since been adopted in a number of state laws across the country, including in Nevada. 
-
-
-Wynn's petition for appeal, which the court made public Tuesday, asks the justices to assess "whether this court should overturn Sullivan’s actual-malice standard," as well as a related prior court decision. 
-
-
-At least four justices must vote to grant review for the court to hear an appeal. No date has been set for the justices to review or vote on whether to take up Wynn's case. 
-
-
-Wynn's defamation lawsuit accused the defendants of publishing an article falsely alleging he committed sexual assault in the 1970s. Those claims first appeared in two separate citizens' complaints that an Associated Press reporter obtained from the Las Vegas Metropolitan Police Department, including one complaint that Wynn argued was implausible on its face and that a Nevada court in a separate proceeding found to have included "clearly fanciful or delusional" allegations. 
-
-
-Wynn has denied the sexual assault allegations. 
-
-
-The Supreme Court in recent years has turned away other opportunities to revisit New York Times v. Sullivan, including a 2021 denial that drew dissents from conservative Justices Clarence Thomas and Neil Gorsuch. 
-
-
-Citing a rapidly changing media environment increasingly rife with disinformation, Thomas and Gorsuch said in separate opinions the court should take a fresh look at its precedents that make it harder for public figures to sue for defamation. 
-
-
-Since launching his first Republican presidential campaign in 2015, Trump has often attacked and even sued media outlets whose coverage he dislikes, and has repeatedly criticized U.S. defamation laws.  
-
-
-A federal judge in 2023 threw out Trump's $475 million defamation lawsuit against CNN, in which the former president claimed the network's description of his election fraud as the "big lie" associated him with Adolf Hitler. Trump's lawyers, in a 2022 filing in that case, had invited the judge to reconsider the legal standard set in New York Times v. Sullivan. 
-
-
-"The court should reconsider whether Sullivan’s standard truly protects the democratic values embodied by the First Amendment, or, instead, facilitates the pollution of the 'stream of information about public officials and public affairs' with false information," Trump's lawyers wrote. 
-
-<br> 
-
-<https://www.voanews.com/a/casino-mogul-asks-us-supreme-court-to-revisit-landmark-defamation-rule-/7967483.html>
-
----
-
-## US defense secretary hosts Australian counterpart
-
-date: 2025-02-08, from: VOA News USA
-
-pentagon — U.S. Defense Secretary Pete Hegseth welcomed Australian Defense Minister Richard Marles to the Pentagon on Friday, after Australia made its first $500 million payment to the United States under the AUKUS nuclear submarine deal involving Washington, Canberra and London.
-
-
-“The check did clear,” Hegseth joked to Marles and reporters ahead of the defense ministers’ meeting.
-
-
-Marles said the “strength of American leadership” in the Indo-Pacific region is “critically important” to Australia. He added that the AUKUS submarine deal also represented an increase in Australian defense spending.
-
-
-"We really understand the importance of building our capability, but in paying our way,” Marles told Hegseth.
-
-
-Marles was the first foreign defense counterpart that Hegseth had hosted since his confirmation.
-
-
-U.S. and Australian officials confirmed that Australia transferred the $500 million after a call between Marles and Hegseth late last month.
-
-
-AUKUS is a trilateral partnership that Australia, the U.K. and the U.S. announced in September 2021 to support a “free and open Indo-Pacific” amid increased Chinese aggression.
-
-
-The first initiative under AUKUS was aimed at strengthening the U.S. submarine industrial base so that Australia can acquire nuclear-powered attack submarines for the Royal Australian Navy. It also provides for the rotational basing of American and British nuclear submarines in Australia. 
-
-<br> 
-
-<https://www.voanews.com/a/us-defense-secretary-hosts-australian-counterpart/7967472.html>
 

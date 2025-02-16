@@ -1,11 +1,359 @@
 ---
 title: columns
-updated: 2025-02-15 07:08:06
+updated: 2025-02-16 07:08:29
 ---
 
 # columns
 
-(date: 2025-02-15 07:08:06)
+(date: 2025-02-16 07:08:29)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-16, from: Dave Winer's Scripting News)
+
+BTW, no one thought much about the threading structure we use on Bluesky. As far as I can tell it was copied from Twitter. It's not a very good structure. It encourages spam and abuse. You gotta wonder if the threading structure had evolved, or if there were more competition, different approaches to see what would happen, we might have avoided our meltdown with a better design. 
+
+<br> 
+
+<http://scripting.com/2025/02/16.html#a141219>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-16, from: Dave Winer's Scripting News)
+
+Great quote from a <a href="https://www.google.com/search?q=severance+s2e5">favorite show</a>. "He put the dick in contradiction." This is a show that doesn't often indulge in that kind of humor. I imagine they must've had a great time with it in the writer's room. Or was it ad-lib'd? And wtf does it mean? 
+
+<br> 
+
+<http://scripting.com/2025/02/16.html#a132455>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-16, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/02/16/designatedSurvivor.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">The idea of a <a href="https://en.wikipedia.org/wiki/Self-coup">coup</a> in the US is one we all presumably have a hard time thinking about. I sure do. It has never happened before. But it has happened now, and the group that is governing is doing it illegally, and is dismantling the country as quickly as they can, assuming someone will at some point try to stop them? Is that correct? What comes next? 
+
+<br> 
+
+<http://scripting.com/2025/02/16.html#a132436>
+
+---
+
+## OpenSSL does a QUIC API
+
+date: 2025-02-16, from: Daniel Stenberg Blog
+
+But will it satisfy the world? I have blogged several times in the past about how OpenSSL decided to not ship the API for QUIC a long time ago, even though the entire HTTP world was hoping for it &#8211; or even expecting it. OpenSSL rejected the proposal to merge the proposed API and thereby &#8230; <a href="https://daniel.haxx.se/blog/2025/02/16/openssl-does-a-quic-api/" class="more-link">Continue reading <span class="screen-reader-text">OpenSSL does a QUIC API</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/02/16/openssl-does-a-quic-api/>
+
+---
+
+## More Than a Mayor
+
+date: 2025-02-16, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/more-than-a-mayor>
+
+---
+
+## Decency in the time of monsters
+
+date: 2025-02-16, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/surviving-in-a-time-of-monsters>
+
+---
+
+## February 15, 2025
+
+date: 2025-02-16, from: Heather Cox Richardson blog
+
+After World War II, the vast majority of Americans&#8212;Democrats and Republicans alike&#8212;agreed that the federal government should regulate business, provide a basic social safety net, promote infrastructure, and protect civil rights. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-15-2025>
+
+---
+
+##  The Evolution of Electronic Music (1929-2019). Interesting that it took so long... 
+
+date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046233-the-evolution-of-electron>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>The more of Godot’s editor that I rewrite in SwiftUI, the more appreciation I have for just how vast and comprehensive Godot is.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114009814295463033>
+
+---
+
+##  Cool thing that I did not notice about The Wild Robot: at... 
+
+date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046230-cool-thing-that-i-did>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-15, from: Ryan Gantz Bluesky feed)
+
+say you want to die of stomach cancer while exiled on an island in the south atlantic without saying you want to die of stomach cancer while exiled on an island in the south atlantic
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3liagvdiehk22>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-15, from: Ryan Gantz Bluesky feed)
+
+why the fuck are we budgeting so much for an ongoing program called "Make Sure Planes Don't Fall Out of the Sky" when in reality that pretty much never happens?? like, planes don't just fall
+
+Yeah, you guessed it: fraud
+I fixed it. DELETED 🙌
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3liagfek2is22>
+
+---
+
+## Martin Pilkington, Longtime Stalwart of the Mac and Apple Developer Community, Dies From Cancer
+
+date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mastodon.social/@pilky/114008572002612525>
+
+---
+
+##  New Evidence Suggests Humans Developed Written Language To Avoid Breaking Up In... 
+
+date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046234-new-evidence-suggests-hum>
+
+---
+
+## February 14, 2025
+
+date: 2025-02-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157207509/692fd469b4e07db60c59b5b0f651516a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157207509/692fd469b4e07db60c59b5b0f651516a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-14-2025-46d>
+
+---
+
+## Netflix Deeply Regrets Accidentally Making Netflix a Better Product for Its Customers
+
+date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://joe-steel.com/2025-02-14-Netflix-Says-Its-Brief-Apple-TV-App-Integration-Was-a-Mistake.html>
+
+---
+
+## Financial Times: ‘Is Corporate America Already Souring on Trump?’
+
+date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ft.com/content/a7c9376b-4cb2-4cf2-a665-66f75b72f4c2>
+
+---
+
+## Key Codes 2.2.2
+
+date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://manytricks.com/keycodes/help/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>My new best friend after trying to use my redesigned UI on a real device:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114008778962930752>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
+
+The way to get even is to win. A lot of people don't get that, and it's almost always their downfall. 
+
+<br> 
+
+<http://scripting.com/2025/02/15.html#a132205>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
+
+I’m not giving money to Democrats. I will give to campaigns that run hard-hitting ads telling the full truth about what Musk is doing now. I want to see the actual ads before I chip in, and will do so enthusiastically, but they can’t be anemic. 
+
+<br> 
+
+<http://scripting.com/2025/02/15.html#a132023>
+
+---
+
+## The web before the web
+
+date: 2025-02-15, from: Dave Winer's Scripting News
+
+<p><a href="https://mastodon.social/@vga256@dialup.cafe/114004725458799557">Hypercard</a> stacks were the equivalent of websites. </p>
+<p>If <a href="https://en.wikipedia.org/wiki/HyperCard">it</a> had been built around the Macintosh Toolkit, and had an API that fit in with Mac apps, there wouldn't be a web, we'd all be using Macs. Alas it was all on its own, didn't work with anything but itself. </p>
+<p>A lot was lost because the Mac development model was far in advance of what existed on the web, and it was well-thought-out unlike the app model of the web, which is a hodgepodge of horribly designed modules that don't work well together. </p>
+<p>I was a Mac developer at the time, so I know a lot about this moment of history. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/15/hypercardStackHome.png"></center>Screen shot of a Hypercard stack home page.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/15/131146.html?title=theWebBeforeTheWeb>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
+
+The Dems don't do <a href="https://en.wikipedia.org/wiki/Positioning_(marketing)">positioning</a>. The Repubs run circles around Dems. They are masters at positioning. It's not hard, you just have to decide to do it. 
+
+<br> 
+
+<http://scripting.com/2025/02/15.html#a125752>
+
+---
+
+## The Musk Show | Coffee Klatch for Saturday, February 15, 2025
+
+date: 2025-02-15, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157168593/82927d97bee5f5bb8294288c50f12fd1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157168593/82927d97bee5f5bb8294288c50f12fd1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-musk-show-coffee-klatch-for-saturday>
+
+---
+
+## Weeknotes: Feb. 8-14, 2025
+
+date: 2025-02-15, from: Tracy Durnell Blog
+
+Win of the week: I was selected as a finalist for the RFP I submitted on and did a follow-up interview &#8212; should find out next week! 🤞 Looking forward to: three day weekend! Stuff I did: 7.75 hours consulting one virtual appointment and one in-person appointment &#8212; back to the optometrist again, they&#8217;re going to [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/14/weeknotes-feb-8-14-2025/>
+
+---
+
+## Indie’s First Library Trip
+
+date: 2025-02-15, from: Jessica Smith's blog
+
+<p>The first big autumnal blast of the year has hit. We took Indie on her first trip to the local library (where she gave the most ENORMOUS grin to the librarian, it was really sweet), craving more diversity in books than &ldquo;Colours&rdquo;, &ldquo;Shapes&rdquo; and the ever-frustrating &ldquo;Goodnight Stories for Rebel Girls&rdquo;. This was our haul…</p>
+<a href="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul.jpeg" class="glightbox" data-gallery="indies-first-library-trip"
+  style="aspect-ratio: 4 / 3;"><img 
+  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
+  srcset="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul.jpeg 1920w"
+  src="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_830x0_resize_q85_h2_box.webp"
+  alt="A pile of five baby board books. In order from top to bottom: “Love with Plato”, “Hey Owl, What’s in the Box?”, “That’s not my monster…”, “Welcome to Your World” and “ABC Spanish”."
+  loading="lazy" class="u-photo u-featured"></a>
+<p>The Plato one was funny. The back indicated there was another in the series called &ldquo;Equality with Simone de Beauvoir&rdquo;, so I went, &ldquo;Ooh, well if they have it, I&rsquo;d rather get that one.&rdquo; They didn&rsquo;t have it. So I turned to Indie and said, &ldquo;Well, we can get the Plato one, and you can listen to me trash-talk him!&rdquo; Then Viv (Philosophy major – not that you&rsquo;d ever know by just meeting him) asked, &ldquo;What&rsquo;s wrong with Plato?&rdquo; and I explained my opinion.</p>
+<p>But anyway, the book is called <cite>Love with Plato</cite>. So I was like, &ldquo;What did Plato even say about love? I don&rsquo;t remember that from year 12 Philosophy. I remember PHILOSOPHER-KINGS and the allegory of the cave…&rdquo; Just from reading the book now, it seems like Plato said it&rsquo;s good to love things. So, OK, Plato. Thanks for that brilliant insight. (This is me expecting too much out of baby books again, isn&rsquo;t it?)</p>
+<a href="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue.jpeg" class="glightbox" data-gallery="indies-first-library-trip"
+  style="aspect-ratio: 4 / 3;"><img 
+  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
+  srcset="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue.jpeg 1920w"
+  src="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_830x0_resize_q85_h2_box.webp"
+  alt="A baby board book called “Police Car to the Rescue! Everyday Heroes”. The front cover has an illustration of a brown dog in a dark blue police car. The police car is anthropomorphised, with big eyes and a little mouth."
+  loading="lazy" class="u-photo"></a>
+<p>And this was one of the books we did NOT get. I pointed it out to Viv and went, &ldquo;Oh man, what is this, pro-cop propaganda for babies?! Get it out of here,&rdquo; and Viv started teasing me: &ldquo;Come on, the police are lovely people. Who else are you going to call when you need the police?&rdquo; and I told him to stop brainwashing the baby.</p>
+<p>We had a nice little excursion, anyway.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/indies-first-library-trip.html>
+
+---
+
+## February 14, 2025
+
+date: 2025-02-15, from: Heather Cox Richardson blog
+
+On this day, I always like to tell the story of Theodore Roosevelt&#8217;s terrible 1884 Valentine&#8217;s Day and how it led to the Progressive Era, but things are happening too fast these days to leave a gap in the record, so you&#8217;ll have to look back at last year&#8212;or forward to next&#8212;for that story. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-14-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>After using SwiftUI’s new macro-based observable system, it is hard to think about using anything else.</p><p>Then I realized I would love to have a language that is based entirely on that concept.  </p><p>A bit like a spreadsheet, with data flowing and propagating as needed, rather than our current approach of moving data from one point to another like donkeys pulling carts.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114004988492266136>
 
 ---
 
@@ -874,7 +1222,7 @@ date: 2025-02-13, updated: 2025-02-13, from: Daring Fireball
 
 ## The Apple TV App Is Now Available on Android
 
-date: 2025-02-13, updated: 2025-02-13, from: Daring Fireball
+date: 2025-02-13, updated: 2025-02-15, from: Daring Fireball
 
  
 
@@ -946,7 +1294,7 @@ date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
 
 ## Allison Johnson Reviews the Samsung Galaxy S25 and S25 Plus: ‘Incredibly Iterative’
 
-date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
+date: 2025-02-12, updated: 2025-02-15, from: Daring Fireball
 
  
 
@@ -1207,7 +1555,7 @@ date: 2025-02-12, updated: 2025-02-12, from: Jason Kittke's blog
 
 ## iTools, Apple’s Original ‘Internet Strategy’, From January 2000
 
-date: 2025-02-12, updated: 2025-02-13, from: Daring Fireball
+date: 2025-02-12, updated: 2025-02-15, from: Daring Fireball
 
  
 
@@ -1289,7 +1637,7 @@ date: 2025-02-12, updated: 2025-02-12, from: Daring Fireball
 
 ## Apple Support: ‘About Migrating Apple Account Purchases Between Accounts’
 
-date: 2025-02-12, updated: 2025-02-13, from: Daring Fireball
+date: 2025-02-12, updated: 2025-02-15, from: Daring Fireball
 
  
 
@@ -2150,384 +2498,4 @@ Yesterday the National Institutes of Health under the Trump administration annou
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/113971556036460544>
-
----
-
-## TikTok Is Now Distributing Its Android App for Installation via Sideloading
-
-date: 2025-02-08, updated: 2025-02-09, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://x.com/TikTokPolicy/status/1888048200486949249>
-
----
-
-## I had my AI "oh f***" moment and I'm a student, now what?
-
-date: 2025-02-08, from: Geoffrey Hunntley's blog
-
-<blockquote>What follows is an email that arrived in my inbox moments ago, reproduced in it&apos;s entirety. I&apos;ll be doing a response letter, after I get some sleep. For now, discuss at <a href="https://x.com/GeoffreyHuntley/status/1888365040572751973?ref=ghuntley.com">https://x.com/GeoffreyHuntley/status/1888365040572751973</a></blockquote><p>Hi there,<br><br>So, I read your blog post &quot;</p> 
-
-<br> 
-
-<https://ghuntley.com/im-a-student/>
-
----
-
-## Jason Snell Went There, Calls for iOS to Follow the Mac Model for Software Distribution
-
-date: 2025-02-08, updated: 2025-02-10, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.macworld.com/article/2525708/the-app-store-era-must-end-apples-already-got-the-solution.html>
-
----
-
-## A new Bluesky feature
-
-date: 2025-02-08, from: Dave Winer's Scripting News
-
-<p>My <a href="https://bsky.app/profile/feediverse.bsky.social">feed</a> <a href="https://bsky.app/profile/dave.feediverse.org">readers</a> <a href="https://bsky.app/profile/devs.feediverse.org">on</a> Bluesky <a href="https://bsky.app/profile/nba.feediverse.org">now</a> use the metadata in the pages we link to to show a title, picture and description for each post that offers the metadata. </p>
-<p>Like <a href="http://scripting.com/2025/02/08/214503.html">this page</a>, the one you're reading right now at this moment. </p>
-<p>And here's a <a href="https://imgs.scripting.com/2025/02/08/screenshot.png">screen shot</a> of what it looks like over in Bluesky.</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/08/aNiceForkInTheRoad.png"></center>A fork in the road. </div></p>
- 
-
-<br> 
-
-<http://scripting.com/2025/02/08/214503.html?title=aNewBlueskyFeature>
-
----
-
-## 2025-02-06 Discord for role-playing games
-
-date: 2025-02-08, from: Alex Schroeder's Blog
-
-<h1 id="2025-02-06-discord-for-role-playing-games">2025-02-06 Discord for role-playing games</h1>
-
-<p>Discord really works well for my gaming. I even pay them. 😬 And as far as finding new players goes: essentially there are some generic servers, some servers for particular games or publishers, and for your tables. So you “look for games” in the first two category of servers and then you send interested parties an invite to the server for your table(s).</p>
-
-<p>It’s a bit weird but it works for me.</p>
-
-<p>I don’t use Discord as a chat or forum in the first two kinds of servers. Way too many people and crazy amount of text flying by! But on those small gaming table server? 🥰</p>
-
-<p>I just look the other way when they ask me about my activities shat they can share what music I listen to and what games I play. No way!</p>
-
-<p>One thing that Discord does better than IRC is help handle the dizzying amount of channels per server (i.e. per publisher, rule set or gaming table); their specific rules; their independent admins; their roles; their selective visibility: channels for certain roles only, for certain people only, group chat (ephemeral private channels); their local bots and automations; media uploads; muting for channels and servers, for certain time periods only or until you reverse your decision. All of this is great.</p>
-
-<p>Yes, you can self-host an IRC server and a web frontend like The Lounge (which I do) and you can get close: many channels, but all are equal: there is no formal grouping, no independent moderation, no independent roles, no independent bots. It’s all one big soup. And if you add some rules via nickserv and chanserv, it might get you all the way but is still quite arcane. What a difference Discord makes. Plus effortless voice chat. 🥰</p>
-
-<p>Yes, voice chat and video chat, on top of all that.</p>
-
-<p>Now, you might think: what a shill! But really: I self-host the inferior-but-free options. I write my bot to connect to both (!) IRC and Discord and free content from the black void that is the endless Discord archives. But I also want things to just work. My time is more precious than the €10 (?) I spend every month. And I had to take down Jitsi because it was too resource intensive. The alternative would have been to upgrade my lousy server and spend more time sysadminning and I don’t want to.</p>
-
-<p>So self-hosted IRC has voice and video only if I leech Jitsi from somebody else, as far as I am concerned.</p>
-
-<p>So I don’t know where to go from here. I just pay them for the service. And I look the other way when they disallow other clients. 😓</p>
-
-<p>But then again: I used Bitlbee for a long time. I even wrote a plugin that lets you connect to your fedi instance as if it was an IRC server and another kind soul wrote a plugin that does the same for Discord. And then you start to realize how unusable this is. I’m on maybe two dozen servers? My account has access to 200+ channels, all of the active, all of them need some sort of mapping to IRC channels? It’s hell. Notifications were out of control. I stopped doing it. So: is Discord shit, or the IRC clients? I don’t know. But I know that Discord is not all bad. It’s definitely not bad as an idea of how to organize a gazillion people.</p>
-
-<p>But I do look the other way when I think about tracking and AI training and data brokering.🖕I don’t even know if they do it but these are the days of zero trust and fucking corpo greed maggot CEOs so it doesn’t really matter what they do specifically because I don’t trust any company to do the right thing. Maybe I’d trust them if they were a non-profit association.</p>
-
-<p>Anyway. Just putting this out there because with Discord I’m playing three or four times a week and I only don’t play more because I do want to get out every now and then. 😆</p>
-
-<p><a class="tag" href="/search/?q=%23RPG">#RPG</a> <a class="tag" href="/search/?q=%23Social_Media">#Social Media</a> <a class="tag" href="/search/?q=%23Discord">#Discord</a> <a class="tag" href="/search/?q=%23IRC">#IRC</a></p>
-
-<p><strong>2025-02-08</strong>. <a class="account" href="https://idiomdrottning.org/users/Sandra" title="@Sandra@idiomdrottning.org">@Sandra</a> makes a good counter argument:</p>
-
-<blockquote>
-<p>Oh, I disagree 100% with the idea that Discord is good. Proprietary infrastructure with network externalities is the unending nightmare we live in. No matter how technically “good” it gets, it’s bad. Actually the “better” it gets, the worse that is because it makes it harder to replace it.</p>
-
-<p>Not that I agree that Discord is technically “good”.</p>
-
-<p>The “per-server organization” is part of the frustration since I can get pinged and spammed and bothered in channels I don’t even want just because I read other channels on that server.</p>
-
-<p>Akkoma’s dev team runs an IRC server of their own and they have a couple of different channels for different things, but thanks to the life-changing magic of IRC actually having its own hackable apps it’s easy on the client end to sort that all out with filters and scriptable rules etc, even merge channels on the user end.</p>
-
-<p>The fact that running mapping apps between Discord and IRC is clunky and difficult and ToS-breaking is another strike against Discord, not for it.</p>
-</blockquote> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-02-06-discord>
-
----
-
-## You are using Cursor AI incorrectly...
-
-date: 2025-02-08, from: Geoffrey Hunntley's blog
-
-<p>I&apos;m hesitant to give this advice away for free, but I&apos;m gonna push past it and share it anyway. You&apos;re using Cursor incorrectly.</p><p>Over the last few weeks I&apos;ve been doing /zooms with software engineers - from entry level, to staff level</p> 
-
-<br> 
-
-<https://ghuntley.com/stdlib/>
-
----
-
-## 2025-02-08 Wie weiter?
-
-date: 2025-02-08, from: Alex Schroeder's Blog
-
-<h1 id="2025-02-08-wie-weiter">2025-02-08 Wie weiter?</h1>
-
-<p>Grossdemonstrationen ohne Folgen, selbst die Grünen in Deutschland auf ausländerfeindlichem Kurs, wie weiter? Gute Frage.</p>
-
-<p>Ich glaube, es braucht immer noch Politiker und Pokitikerinnen, die eine Partei im Rücken haben. Es braucht Leute, die das Potential nutzen können und charismatisch genug sind, damit das kleinkarierte Gegeneinander keine Rolle spielt. Revolutionen fangen auch mit vielen Versammlungen und Demos an.</p>
-
-<p>Der Plan ist, dass sich jemand die Demos zunutze macht, weil es ohne Personen, die vorne stehen, nicht geht – so mein Schluss aus dem Occupy Wallstreet, dass sich im Sand verläuft. Da von den bestehenden Parteien niemand hierfür in der Lage zu sein scheint, gibt es nur die Optionen, weiter zu demonstrieren und zu schauen, ob aus der Masse Führungspersönlichkeiten hervorstechen. So tröste ich mich zumindest über den aktuellen Rechtsrutsch und die Taubheit der Politik hinweg.</p>
-
-<p>Klar sind „Führungspersönlichkeiten“ und „Parteien“ keine coolen Begriffe. Was ist mit Anarcho-Syndikalismus? Was ist mit der Abschaffung des Kapitalismus?</p>
-
-<p>Leider ist mir trotz mehr als hundert Folgen Revolutions Podcast hören kein gutes Beispiel eingefallen, wo das gut gelaufen ist. Aber immer waren Organisationen dahinter. Auch Martin Luther King hat organisiert, demonstriert, Reden gehalten.</p>
-
-<p>Deswegen bin ich noch nicht bereit, die parlamentarische Demokratie unter den Bus zu werfen. Das kann auf alle Fälle besser funktionieren. Vermögenssteuer, Kapitalgewinnsteuer, Erbschaftsteuer, Kapitalfluchtverhinderung, Spendenlimiten, Gesetzesreferenden, Verfassungsinitiativen (ich lebe in der Schweiz), bedingungsloses Grundeinkommen, da geht noch einiges. Und Pegida-Märsche haben gezeigt, dass mit Ausdauer schon was zu erreichen ist. Die Rechtspopulisten hier (SVP) haben mit ihrem “Bauernfrühstück” gezeigt, wie Basisarbeit gehen kann. Das einzige, was mir klar ist, ist, dass weiter wie bisher nicht geht. Und wenn wir den Staat destabilisieren, dann drohen Invasion, Warlordism und andere Failed State Varianten. Nichts tolles, auf alle Fälle.</p>
-
-<p><a class="tag" href="/search/?q=%23Politics">#Politics</a> <a class="tag" href="/search/?q=%23Germany">#Germany</a> <a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a></p>
-
-<p><strong>2025-02-08</strong>. Witzig: <a href="https://felixbeilharz.de/bundestagswahl-ki/">Wie würde die KI bei der Bundestagswahl 2025 wählen?</a> von Felix Beilharz zeigt, dass sie alle Grüne, SPD und Volt präferieren. Vielleicht kommt ja noch eine Wende!</p>
-
-<p>Auch der Hammer: AfD Wähler glauben <a href="https://www.mimikama.org/wahl-o-mat-manipuliert/">der Wahl-O-Mat ist „linksgrünversifft“ und manipuliert, weil dieser die Grünen oder Linken vorschlägt</a>. 😂</p>
-
-<p>Nachdem <a class="account" href="https://tldr.nettime.org/@tante" title="@tante@tldr.nettime.org">@tante</a> auf fedi gesagt hat, dass er der Linken Partei in Deutschland beigetreten ist, frage ich mich jetzt, ob ich den Grünen in der Schweiz beitreten soll. Die sind sozial-grün, da sich der rechte Flügel der Partei abgespalten hat und jetzt Grün-Liberale Partei heisst. Eine bessere Idee habe ich im Moment auch nicht.</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-02-08-wie-weiter>
-
----
-
-## February 7, 2025
-
-date: 2025-02-08, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156745140/ee794c670bc34d4a6001673b33145db0.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/156745140/ee794c670bc34d4a6001673b33145db0.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/february-7-2025>
-
----
-
-## ‘Torrenting From a Corporate Laptop Doesn’t Feel Right’
-
-date: 2025-02-08, updated: 2025-02-08, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/>
-
----
-
-**@Ryan Gantz Bluesky feed** (date: 2025-02-08, from: Ryan Gantz Bluesky feed)
-
-they are literally running a massive Find and Replace across America’s operating system
-
-on production
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/sixfoot6.bsky.social/post/3lhojeypfhk2l>
-
----
-
-## UK Is Ordering Apple to Break Its Own Encryption
-
-date: 2025-02-08, updated: 2025-02-08, from: Bruce Schneier blog
-
-<p>The <i>Washington Post</i> is <a href="https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/">reporting</a> that the UK government has served Apple with a &#8220;technical capability notice&#8221; as defined by the 2016 Investigatory Powers Act, requiring it to break the Advanced Data Protection encryption in iCloud for the benefit of law enforcement.</p>
-<p>This is a big deal, and something we in the security community have worried was coming for a while now.</p>
-<blockquote><p>The law, known by critics as the Snoopers’ Charter, makes it a criminal offense to reveal that the government has even made such a demand. An Apple spokesman declined to comment...</p></blockquote> 
-
-<br> 
-
-<https://www.schneier.com/blog/archives/2025/02/uk-is-ordering-apple-to-break-its-own-encryption.html>
-
----
-
-## Social machines
-
-date: 2025-02-08, from: Enlightenment Economics blog
-
-My friend Wendy Hall co-authored a 2019 book The Theory and Practice of Social Machines, which I read only recently. The central idea of a social machine is very interesting &#8211; a social network connected by digital devices, a human-machine &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/02/social-machines/">Continue reading <span class="meta-nav">&#8594;</span></a> 
-
-<br> 
-
-<http://www.enlightenmenteconomics.com/blog/index.php/2025/02/social-machines/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-08, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://imgs.scripting.com/2022/05/08/teslaModelY.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I still haven't decided what to do about my <a href="https://daytona.scripting.com/search?q=tesla">Tesla Model Y</a>, which still is a wonderful car, and I still love driving it <a href="http://scripting.com/2021/11/19/140204.html?title=myNewTesla">after</a> 3+ years, which is amazing. But the other day it updated, and gave me a pause, if they let Musk hack their computers the way he's hacking ours, should I trust what it installs on the vehicle I drive every day that theoretically has the ability to take control of my car and drive it off the road? I wonder if the people at Tesla would like to reassure people who drive their cars that the updates are safe from hacking by one of his associates? How is security on the Tesla network? 
-
-<br> 
-
-<http://scripting.com/2025/02/08.html#a134027>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-08, from: Dave Winer's Scripting News)
-
-<a href="https://oursocialweb.org/">It's our social web</a>. “We started off with a network of writers, and ended up with business models of oligarchs. It's time to start building webs like we mean it and damn all the wannabe-billionaires.” 
-
-<br> 
-
-<http://scripting.com/2025/02/08.html#a133555>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-08, from: Dave Winer's Scripting News)
-
-I had <a href="https://x.com/davewiner/status/1888215268796621229">three</a> <a href="https://x.com/davewiner/status/1888215487064002986">questions</a> <a href="https://x.com/davewiner/status/1888215841310650768">this</a> morning for <a href="https://x.com/ElieNYC">Elie Mystal</a>. 
-
-<br> 
-
-<http://scripting.com/2025/02/08.html#a132831>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-08, from: Dave Winer's Scripting News)
-
-When we get back control of the government, ie they're following the Constitution, the Democratic leader in the Senate should be as ruthless as <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lho6p43af22h">this bastard</a>. Chuck Schumer is a nice guy and that sucks. 
-
-<br> 
-
-<http://scripting.com/2025/02/08.html#a132744>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-08, from: Dave Winer's Scripting News)
-
-I have to <a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3lho6yezbss2e">say</a>, a judge ruling that Musk has to stop, and delete all the info he has stolen, has made me feel much better. I don't know why, but I'm actually laughing out loud. The tight knot in my stomach has relaxed. 
-
-<br> 
-
-<http://scripting.com/2025/02/08.html#a132708>
-
----
-
-## Fusk Muck! | The Coffee Klatch, Saturday, February 8, 2025
-
-date: 2025-02-08, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/156695822/f1c4a7fa5fff3655060a13f1245c8b32.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/156695822/f1c4a7fa5fff3655060a13f1245c8b32.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/fusk-muck-the-coffee-klatch-saturday>
-
----
-
-## Goodnight Stories for Rebel Girls
-
-date: 2025-02-08, from: Jessica Smith's blog
-
-<p>One of Indie&rsquo;s Christmas presents was the following:</p>
-<a href="https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/goodnight-stories-for-rebel-girls.jpeg" class="glightbox" data-gallery="goodnight-stories-for-rebel-girls"
-  style="aspect-ratio: 1 / 1;"><img 
-  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
-  srcset="https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/goodnight-stories-for-rebel-girls_hu6b97b39e3f3010824c43fb2a04b2a0d1_1381964_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/goodnight-stories-for-rebel-girls_hu6b97b39e3f3010824c43fb2a04b2a0d1_1381964_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/goodnight-stories-for-rebel-girls_hu6b97b39e3f3010824c43fb2a04b2a0d1_1381964_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/goodnight-stories-for-rebel-girls_hu6b97b39e3f3010824c43fb2a04b2a0d1_1381964_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/goodnight-stories-for-rebel-girls_hu6b97b39e3f3010824c43fb2a04b2a0d1_1381964_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/goodnight-stories-for-rebel-girls.jpeg 1920w"
-  src="https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/goodnight-stories-for-rebel-girls_hu6b97b39e3f3010824c43fb2a04b2a0d1_1381964_830x0_resize_q85_h2_box.webp"
-  alt="Photograph of a baby board book entitled ‘Goodnight Stories for Rebel Girls: Baby’s First Book of Extraordinary Women’. The font of the main part of the title is whimsically cursive, while the subtitle is in all caps in a thick, more comic book-style font. The cover illustrations are space-themed, with a dark starry sky for a background, and clip art-style images of a rocket, a moon and a planet. In the top-left quadrant there’s also a baby mobile with a megaphone, a star, a hand making a ‘rock out’ gesture, a lightning bolt, and a love heart dangling from it. The colour theme is blue (dark and light), red (with some pink), yellow and white."
-  loading="lazy" class="u-photo u-featured"></a>
-<p>When I was teaching, I&rsquo;d sometimes see older girls reading the non-baby book version of this, so I was like, &ldquo;Oh yeah. Rebellion is the kind of spirit I want to inculcate early.&rdquo; I knew it wasn&rsquo;t exactly going to be Marxist propaganda, but <em>man</em> have I been disappointed. I mean, if by &ldquo;rebel&rdquo; you mean &ldquo;woman who played the game and became a resounding success by the parameters of the system she lived in&rdquo; then sure, it&rsquo;s full of rebel women. There are loads of QUEENS, for example. I&rsquo;m sorry, but if you&rsquo;re the QUEEN, you are RUNNING the system, you are not REBELLING AGAINST IT. If you&rsquo;re going to insist on the existence of &ldquo;rebel queens&rdquo;, at least include Queen Lili‘uokalani of Hawaii, who tried (and failed) to resist the forcible takeover of her country by the United States. I guess you could argue that Cleopatra did the same thing against the Romans (and she <em>is</em> in the book), but her page doesn&rsquo;t say, &ldquo;Powerful and wise, Cleopatra seduced two Roman leaders to try to convince them to lay off Egypt.&rdquo; It says, &ldquo;Powerful and wise, she ruled ancient Egypt.&rdquo; How is she a rebel for RULING Egypt? Come on, people.</p>
-<p>Beyond actual monarchs, there are also a number of women who are there just for becoming prominent in their fields, be that science, environmentalism, sports, the arts&hellip; I&rsquo;ve got nothing against Marie Curie or Jane Austen, but again, this feels like a very liberal view of &ldquo;rebellion&rdquo; that doesn&rsquo;t meaningfully challenge the system at all. Frida Kahlo is there, but only for her paintings – at no point does it mention she was a revolutionary socialist who helped to shelter Trotsky from Stalin&rsquo;s goons (and had an affair with him, of course, but this is a children&rsquo;s book). The book does have <em>some</em> genuine activists who totally deserve to be there, like Rosa Parks, Malala Yousafzai and Manal al-Sharif, and I&rsquo;m not familiar with every single person in the book so maybe some are just suffering from misleading descriptions, like Frida Kahlo does. Like, maybe the woman who&rsquo;s in there for &ldquo;planting trees&rdquo; actually engaged in direct action to prevent wide-scale deforestation, or something. Probably not, but I don&rsquo;t know. Maybe. (Update: I am pleased to report that the woman who&rsquo;s in there for &ldquo;planting trees&rdquo;, Wangari Maathai, actually was a persistent thorn in the side of the Kenyan government, to the point that at one stage they planned to assassinate her. So let&rsquo;s add her to the column of &ldquo;rebels who totally deserve to be in the book, but got bad descriptions&rdquo;.)</p>
-<p>But there are definitely some in there who make me roll my eyes, like Ruth Bader Ginsburg. Viv didn&rsquo;t believe me that they&rsquo;d actually claim a Supreme Court judge was a &ldquo;rebel&rdquo;, so I had to show him, and mockingly read the description: &ldquo;She asked tough questions, like &lsquo;why&rsquo; and &lsquo;how&rsquo;…&rdquo;</p>
-<p>&ldquo;What right-wingers made this book?!&rdquo; he cried.</p>
-<p>&ldquo;I know, right,&rdquo; I replied. &ldquo;Where&rsquo;s Leila Khaled?&rdquo;</p>
-<p>(For what it&rsquo;s worth, I&rsquo;ve been telling people <abbr title="In Real Life">IRL</abbr> my feelings on this book including relaying this conversation, and not one of them has got the Leila Khaled reference. And I&rsquo;ve just been like… you know… this person?!<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-<a href="https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/leila-khaled.jpeg" class="glightbox" data-gallery="goodnight-stories-for-rebel-girls"
-  style="aspect-ratio: 4 / 3;"><img 
-  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
-  srcset="https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/leila-khaled_hu5e56de6a3049477f49210f274a015de3_885703_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/leila-khaled_hu5e56de6a3049477f49210f274a015de3_885703_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/leila-khaled_hu5e56de6a3049477f49210f274a015de3_885703_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/leila-khaled_hu5e56de6a3049477f49210f274a015de3_885703_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/leila-khaled_hu5e56de6a3049477f49210f274a015de3_885703_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/leila-khaled.jpeg 1920w"
-  src="https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls/leila-khaled_hu5e56de6a3049477f49210f274a015de3_885703_830x0_resize_q85_h2_box.webp"
-  alt="Photograph of a huge concrete wall in Bethlehem, showing a monochrome mural of Leila Khaled replicating that famous photo of her in a keffiyeh and grinning as she holds a gun. Text on the mural says ‘LEÏLA KHALED – DON’T FORGET THE STRUGGLE’, and there is also some Arabic text I cannot type up."
-  loading="lazy" class="u-photo"></a>
-<p>Am I crazy? Is she not as famous as I think she is? And I mean, no, I don&rsquo;t actually want my daughter to grow up to hijack planes, but if we&rsquo;re talking about &ldquo;rebel girls&rdquo;, Leila Khaled is certainly closer to the mark than a fucking Supreme Court judge…)</p>
-<p>I just feel like there&rsquo;ve been so many women in history who are so much more deserving of being a &ldquo;goodnight story for rebel girls&rdquo;. I regularly see social media posts about heroic women who joined the Resistance and took out Nazis during <abbr title="World War Two">WW2</abbr>, for example. If we want to continue the theme of radical women in famous photos, there&rsquo;s <a href="https://albavolunteer.org/2020/05/the-girl-who-dated-trotskys-assassin-the-story-behind-an-iconic-photograph/" title="From Toulouse to Trotsky’s Assassin: The Story Behind an Iconic Photograph">this one from the Spanish Civil War<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>, centring a 17-year-old Marina Ginestà i Coloma (and actually, in one of those historical coincidences, that same page says it was an &ldquo;old flame&rdquo; of hers who moved to Moscow and became the assassin who killed Trotsky. Marina herself, though, was glad never to have got sucked into the orbit of Moscow). There are so many prominent female revolutionaries: communists like Rosa Luxemburg, anarchists like Emma Goldman, Black liberationists like Angela Davis and Assata Shakur. If you REALLY want to include women who became the leaders of countries, you could at least look to Latin American presidents like Michelle Bachelet or Dilma Rousseff who survived torture at the hands of despotic right-wing regimes. My partner would insist that Winnie Mandela deserves a place, even though that&rsquo;s another controversial choice. I feel bad that I don&rsquo;t really know enough about Asian and African history to throw out more suggestions but I&rsquo;m sure there are innumerable candidates. There may even be some good candidates from before the twentieth century, but I think you can see what the bulk of my studies concentrated on, haha.</p>
-<p>The point is, they could&rsquo;ve done so much better. Some may say I&rsquo;m expecting a bit much politically from a book whose target audience is literally babies. Some may further say that a book of revolutionary propaganda for babies is unlikely to find a publisher. All of this is true. However, I am entitled to my high standards. If they just hadn&rsquo;t gone for the &ldquo;rebel girls&rdquo; terminology, and instead been like &ldquo;&hellip;for high-achieving girls&rdquo; or &ldquo;&hellip;for girls with big dreams&rdquo; I don&rsquo;t think it&rsquo;d have annoyed me so much. But to be an inspiration to &ldquo;rebel girls&rdquo; you&rsquo;ve got to actually, you know, <em>rebel</em>. Only a minority of women in the book ever did that.</p>
-<div class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1">
-<p>Photograph by Bluewind via Wikipedia - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=19682383">https://commons.wikimedia.org/w/index.php?curid=19682383<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a>&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</div> 
-
-<br> 
-
-<https://www.jayeless.net/2025/02/goodnight-stories-for-rebel-girls.html>
-
----
-
-## Weeknotes: Feb. 1-7, 2025
-
-date: 2025-02-08, from: Tracy Durnell Blog
-
-Highlight of the week: made sourdough pancakes while watching fat snowflakes fall and listening to Sure Sure Looking forward to: hearing back whether I won that proposal 😃 Stuff I did: 11.25 hours consulting 3.25 hours proposal &#8212; hit send at 5:30pm on Monday, a week early 🦾 1 hour writing I had already installed [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/02/07/weeknotes-feb-1-7-2025/>
-
----
-
-## February 7, 2025
-
-date: 2025-02-08, from: Heather Cox Richardson blog
-
-Maya Miller of the New York Times reported today that the congressional phone system has been jammed with tens of millions of calls from outraged constituents contacting their representatives to demand that they stand against President Donald Trump and his sidekick Elon Musk as they unilaterally dismantle the United States government and gain access to Americans&#8217; private information. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/february-7-2024-144>
-
----
-
-**@Jessica Smith's blog** (date: 2025-02-08, from: Jessica Smith's blog)
-
-<p>Today I finished writing a blog post that I think is actually good. So I was like, &ldquo;A blog post <em>this</em> good deserves having actual OpenGraph meta tags, which I&rsquo;ve been putting off adding for God knows how many years.&rdquo; Cue me becoming really perfectionistic about the OG image tags, so this is now turning into an hours-long job… 🫣</p> 
-
-<br> 
-
-<https://www.jayeless.net/2025/02/opengraph-meta-tags.html>
-
----
-
-## Travelling again  It have became a norm that I  have to travel by train. Usually 3-4 hour rides, often with working  WiFi. This in good as I  usually can do some work done.
-
-date: 2025-02-08, from: Jirka's blog
-
-I  have  been using  the  MNT  Pocket Reform  there.  I'm  used to  its orthogonal keyboard  and like its  trackball. It's almost  normal Linux computer, just  an ARM one (and  a bit smaller than  others). So things work as expected here. 
-
-<br> 
-
-<http://jirka.1-2-8.net/20250208-0445_Travelling_again>
-
----
-
-**@Jessica Smith's blog** (date: 2025-02-08, from: Jessica Smith's blog)
-
-<p>Indie has reached another milestone: her first cold 😑</p>
-<p>And yeah, it&rsquo;s summer. As far as I can tell it IS just a cold though, because Viv and I (who are also sick) both did 3-in-1 Covid/RSV/flu tests, and were negative to everything. And it doesn&rsquo;t seem severe. It&rsquo;s all brand new to Indie, though…</p> 
-
-<br> 
-
-<https://www.jayeless.net/2025/02/indies-first-cold.html>
 

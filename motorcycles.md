@@ -1,11 +1,83 @@
 ---
 title: motorcycles
-updated: 2025-02-15 07:08:09
+updated: 2025-02-16 07:08:31
 ---
 
 # motorcycles
 
-(date: 2025-02-15 07:08:09)
+(date: 2025-02-16 07:08:31)
+
+---
+
+## GALLERY: Saturday at Daytona
+
+date: 2025-02-16, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Saturday at Daytona International Speedway saw the Cup Series complete Happy Hour for Sunday&#8217;s Daytona 500, the ARCA Menards Series kick off their season as&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-saturday-at-daytona/>
+
+---
+
+## Daytona Win Slips Again from Sam Mayer
+
+date: 2025-02-16, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer With a teammate in line, Sam Mayer looked to have a one-up on race leader Jesse Love Saturday at Daytona International Speedway. On a restart&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/daytona-win-slips-again-from-sam-mayer/>
+
+---
+
+## Jordan Anderson Closes Again; Scores 7th in Daytona
+
+date: 2025-02-16, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer One of the guaranteed closers of the Xfinity Series nearly struck again Saturday night at Daytona International Speedway. Jordan Anderson conserved early, rallied late and&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/jordan-anderson-closes-again-scores-7th-in-daytona/>
+
+---
+
+## GALLERY: Friday at Daytona
+
+date: 2025-02-15, from: Kickin the Tires blog
+
+By: Zach Catanzareti, Staff Writer Friday at Daytona International Speedway saw cars, trucks and a little Florida rain. With the Cup Series running their second of three practice sessions before&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-friday-at-daytona/>
+
+---
+
+## Aprilia’s Shiver 900 Rises From the Ashes, but Will Anyone Want It?
+
+date: 2025-02-15, from: Ride Apart, Electric Motorcycle News
+
+We don't know if it'll ever come to the US, and if it does, you might not care. 
+
+<br> 
+
+<https://www.rideapart.com/news/750669/aprilia-shiver-rereleased-china/>
+
+---
+
+## Denny Hamlin Happily Focused On Racing In Wake Of Legal Battle With NASCAR
+
+date: 2025-02-15, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor DAYTONA BEACH, Fla. – Denny Hamlin comes into the 2025 NASCAR season opener at Daytona International Speedway with a record of three wins in 40 starts&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/denny-hamlin-happily-focused-on-racing-in-wake-of-legal-battle-with-nascar/>
 
 ---
 
@@ -508,16 +580,4 @@ Suzuki's S-Mall merch store is celebrating its fourth anniversary in style.
 <br> 
 
 <https://www.rideapart.com/news/749890/limited-edition-suzuki-watches-2025-kentex/>
-
----
-
-## Watch the Most Insane Yamaha R6-Swapped Dirt Bike Take Flight
-
-date: 2025-02-08, from: Ride Apart, Electric Motorcycle News
-
-This video is a banger from start to finish. 
-
-<br> 
-
-<https://www.rideapart.com/news/750028/r6-swapped-dirt-bike/>
 

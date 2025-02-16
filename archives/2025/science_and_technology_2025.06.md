@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-02-15 07:08:05
+updated: 2025-02-16 07:08:29
 ---
 
 # science and technology
 
-(date: 2025-02-15 07:08:05)
+(date: 2025-02-16 07:08:29)
+
+---
+
+## The Doom-in-a-PDF dev is back – this time with Linux
+
+date: 2025-02-16, updated: 2025-02-16, from: The Register (UK I.T. News)
+
+<h4>What&#39;s next, Crysis-in-a-CSV?</h4> <p>First came Tetris, then Doom – and now a bare-bones Linux instance that boots inside a PDF.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/16/dev_linux_pdf/>
+
+---
+
+## Open source maintainers are really feeling the squeeze
+
+date: 2025-02-16, updated: 2025-02-16, from: The Register (UK I.T. News)
+
+<h4>Overworked, under pressure, and subjected to abuse – is it really worth it?</h4> <p><strong>State Of Open</strong>  Recent events have brought the plight of open source maintainers front and center, but the problems were brewing for many years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/>
+
+---
+
+## Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy’s still screwed
+
+date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
+
+<h4>&#39;In 50 years, I think we&#39;ll view these business practices like we view sweatshops today&#39;</h4> <p><strong>Interview</strong>  It has been nearly a decade since famed cryptographer and privacy expert Bruce Schneier released the book Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World - an examination of how government agencies and tech giants exploit personal data. Today, his predictions feel eerily accurate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/15/interview_bruce_schneier/>
+
+---
+
+## Why AI benchmarks suck
+
+date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
+
+<h4>Anyone remember when Volkswagen rigged its emissions results? Oh...</h4> <p>AI model makers love to flex their benchmarks scores. But how trustworthy are these numbers? What if the tests themselves are rigged, biased, or just plain meaningless?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/15/boffins_question_ai_model_test/>
+
+---
+
+## UK's new thinking on AI: Unless it's causing serious bother, you can crack on
+
+date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
+
+<h4>Plus: Keep calm and plug Anthropic&#39;s Claude into public services</h4> <p><strong>Comment</strong>  The UK government on Friday said its AI Safety Institute will henceforth be known as its AI Security Institute, a rebranding that attests to a change in regulatory ambition from ensuring AI models get made with wholesome content – to one that primarily punishes AI-abetted crime.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/15/uk_ai_safety_institute_rebranded/>
+
+---
+
+## If you dread a Microsoft Teams invite, just wait until it turns out to be a Russian phish
+
+date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
+
+<h4>Roses aren&#39;t cheap, violets are dear, now all your access token are belong to Vladimir</h4> <p>Digital thieves – quite possibly Kremlin-linked baddies – have been emailing out bogus Microsoft Teams meeting invites to trick victims in key government and business sectors into handing over their authentication tokens, granting access to emails, cloud data, and other sensitive information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/15/russia_spies_spoofing_teams/>
 
 ---
 
@@ -2088,52 +2160,4 @@ date: 2025-02-09, updated: 2025-02-09, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/09/asia_tech_news_in_brief/>
-
----
-
-## Does DOGE have what it takes to actually tackle billions in US govt IT spending?
-
-date: 2025-02-08, updated: 2025-02-09, from: The Register (UK I.T. News)
-
-<h4>Tesla’s DIY ERP legend meets the messy reality of entrenched federal contracts</h4> <p><strong>Comment</strong>  Tesla reportedly decided not to upgrade its SAP&#39;s enterprise software a decade ago, opting to build its own system instead. Now, with Elon Musk heading up the Trump-blessed US Department of Government Efficiency (DOGE), his cost-cutting mindset could have major implications for federal IT spending - and the big tech vendors cashing in on government contracts.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/08/doge_us_goverment_tech_spending/>
-
----
-
-## France, UAE to drop €50B on AI mega-datacenter. Still nowhere near America’s $500B bet
-
-date: 2025-02-08, updated: 2025-02-08, from: The Register (UK I.T. News)
-
-<h4>Oh look, a mini Stargate, how quaint</h4> <p>The United Arab Emirates (UAE) and France this week announced plans for a one-gigawatt AI datacenter campus dedicated to advancing development of artificial intelligence.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/08/uae_france_dc_ai/>
-
----
-
-## New boss for Roscosmos as Yury Borisov binned
-
-date: 2025-02-08, updated: 2025-02-08, from: The Register (UK I.T. News)
-
-<h4>Vladimir Putin opens airlock after just three years</h4> <p>Roscosmos boss Yury Borisov has been fired from the Russian space agency by executive order of the country&#39;s president, Vladimir Putin.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/08/roscosmos_new_leader/>
-
----
-
-## Amazon, Google asked to explain why they were serving ads on sites hosting CSAM
-
-date: 2025-02-08, updated: 2025-02-09, from: The Register (UK I.T. News)
-
-<h4>And US government adverts at that, say senators</h4> <p><strong>Updated</strong>  US Senators Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) on Friday sent letters to the CEOs of Amazon and Google asking why their ad businesses fund websites hosting child sexual abuse material (CSAM) and allow government ads to appear on sites with illegal imagery.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/08/amazon_google_accused_of_monetizing/>
 

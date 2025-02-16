@@ -1,11 +1,11 @@
 ---
 title: parks
-updated: 2025-02-15 07:08:09
+updated: 2025-02-16 07:08:31
 ---
 
 # parks
 
-(date: 2025-02-15 07:08:09)
+(date: 2025-02-16 07:08:31)
 
 ---
 
@@ -42,16 +42,4 @@ Happy International Day of Women and Girls in Science! Now in its 10th year of 
 <br> 
 
 <https://castateparks.wordpress.com/2025/02/11/celebrating-international-day-of-women-and-girls-in-science/>
-
----
-
-## Celebrate Black History Month with California State Parks
-
-date: 2025-02-08, from: California State Parks blog
-
-Black History Month, celebrated every February, honors the achievements, history, and contributions of African Americans in shaping society. It serves as a powerful reminder of the past while encouraging ongoing dialogue and recognition of Black achievements in all fields. Now more than ever, we are proud to elevate the full history of California and celebrate [&#8230;] 
-
-<br> 
-
-<https://castateparks.wordpress.com/2025/02/07/celebrate-black-history-month-with-california-state-parks/>
 
