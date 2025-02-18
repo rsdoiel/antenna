@@ -1,11 +1,255 @@
 ---
 title: columns
-updated: 2025-02-17 07:08:36
+updated: 2025-02-18 07:09:36
 ---
 
 # columns
 
-(date: 2025-02-17 07:08:36)
+(date: 2025-02-18 07:09:36)
+
+---
+
+## Changing every line three times
+
+date: 2025-02-18, from: Daniel Stenberg Blog
+
+Is there some magic making three times, or even pi, the number of times you need to write code for it to be good? So what am I talking about? Let&#8217;s rewind and start with talking about writing code. Let&#8217;s say you start out by writing a program that is exactly one hundred lines long, &#8230; <a href="https://daniel.haxx.se/blog/2025/02/18/changing-every-line-three-times/" class="more-link">Continue reading <span class="screen-reader-text">Changing every line three times</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/02/18/changing-every-line-three-times/>
+
+---
+
+## Story About Medical Device Security
+
+date: 2025-02-18, updated: 2025-02-17, from: Bruce Schneier blog
+
+<p>Ben Rothke <a href="https://brothke.medium.com/how-not-to-hire-for-a-senior-information-security-role-4bf71ce7ee26">relates a story</a> about me working with a medical device firm back when I was with BT. I don&#8217;t remember the story at all, or who the company was. But it sounds about right.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/story-about-medical-device-security.html>
+
+---
+
+## Bribery unbound
+
+date: 2025-02-18, from: Robert Reich's blog
+
+The most unabashedly corrupt president in American history 
+
+<br> 
+
+<https://robertreich.substack.com/p/bribery-unbound>
+
+---
+
+## February 17, 2025 
+
+date: 2025-02-18, from: Heather Cox Richardson blog
+
+Today is Presidents Day, a somewhat vague holiday placed in 1968 on the third Monday in February, near the date of George Washington&#8217;s birthday on February 22, 1732, but also traditionally including Abraham Lincoln, who was born on February 12, 1809. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-17-2025>
+
+---
+
+## ★ Golfo del Gringo Loco
+
+date: 2025-02-18, updated: 2025-02-18, from: Daring Fireball
+
+Much serious thought and consideration, from very smart people in Mountain View and Cupertino, went into determining how to respond to a profoundly silly and thoughtless executive order. Yet that response is disturbing. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/golfo_del_gringo_loco>
+
+---
+
+## From ‘Defund the Police’ to ‘Defund Air Traffic Control.’
+
+date: 2025-02-18, from: James Fallows, Substack
+
+This latest aviation mishap is not the new administration's fault. But it is inviting the next ones, which will be. 
+
+<br> 
+
+<https://fallows.substack.com/p/from-defund-the-police-to-defund>
+
+---
+
+## Your Freedoms Under Siege
+
+date: 2025-02-18, from: Dan Rather's Steady
+
+Why Trump&#8217;s fight with the AP is a big deal 
+
+<br> 
+
+<https://steady.substack.com/p/your-freedoms-under-siege>
+
+---
+
+## Maybe I need re-writer’s block
+
+date: 2025-02-17, from: Doc Searls (at Harvard), New Old Blog
+
+I&#8217;ve never had writer&#8217;s block. Give me a writing assignment and I&#8217;ll blab something out. It might even be good, or at least good enough. But I don&#8217;t write in final draft. Or talk that way. I know people who can do either or both. But I don&#8217;t know how they do it, much as [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/02/17/maybe-i-need-re-writers-block/>
+
+---
+
+## My post is my house
+
+date: 2025-02-17, from: Dave Winer's Scripting News
+
+<p>One of the not-good things about Mastodon is that you can't moderate comments under your own posts. </p>
+<p>If someone says something abusive, it's there for everyone to see, forever.</p>
+<p>I've come to value the feature in Facebook that gives the author full discretion over what comments remain, to head off bad vibes. </p>
+<p>I think of a post I write as my house, and I want people who visit to feel respected.</p>
+<p>A turd in the middle of the living room is not respectful. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/17/220510.html?title=myPostIsMyHouse>
+
+---
+
+##  &#8220;The future of the Department of Education — and of the students... 
+
+date: 2025-02-17, updated: 2025-02-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046242-the-future-of-the-departm>
+
+---
+
+## My offer to Democrats in DC
+
+date: 2025-02-17, from: Dave Winer's Scripting News
+
+<p>A simple idea, a quid pro quo.</p>
+<p>If we want Democrats to support the Constitution, we have to demonstrate that we will support them. </p>
+<p>We are the government of the US, Congress represents us. </p>
+<p>We have been too passive. </p>
+<p>But then, they have to include us in governing. </p>
+<p>No more shutting off the connection after the election.</p>
+<p>Seems like a fair deal.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/17/220032.html?title=myOfferToDemocratsInDc>
+
+---
+
+##  NBA star Victor Wembanyama brought a book with him to the All-Star... 
+
+date: 2025-02-17, updated: 2025-02-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046241-nba-star-victor-wembanyam>
+
+---
+
+## February 16, 2025
+
+date: 2025-02-17, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157335139/667d1b4bdd71c7b26b35ed73fa6cbde9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157335139/667d1b4bdd71c7b26b35ed73fa6cbde9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-16-2025-4f9>
+
+---
+
+##  The Global Economic Policy Uncertainty Index is at an all-time high right... 
+
+date: 2025-02-17, updated: 2025-02-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046237-the-global-economic-polic>
+
+---
+
+##  &#8220;We, the opposition, are the majority. Take heart,&#8221; says Hamilton Nolan. &#8220;How... 
+
+date: 2025-02-17, updated: 2025-02-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046240-we-the-opposition-are-the>
+
+---
+
+## Atlas of Surveillance
+
+date: 2025-02-17, updated: 2025-02-17, from: Bruce Schneier blog
+
+<p>The EFF has released its <a href="https://atlasofsurveillance.org/">Atlas of Surveillance</a>, which documents police surveillance technology across the US.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/atlas-of-surveillance.html>
+
+---
+
+##  Amid shortages of air traffic controllers & fatal aircraft events, the Trump... 
+
+date: 2025-02-17, updated: 2025-02-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046239-amid-shortages-of-air-tra>
+
+---
+
+##  Elon Musk&#8217;s attack on key US government systems and agencies continues with... 
+
+date: 2025-02-17, updated: 2025-02-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046238-elon-musks-attack-on-key>
+
+---
+
+##  From Heather Cox Richardson, an overview of what the Trump administration is... 
+
+date: 2025-02-17, updated: 2025-02-17, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046236-from-heather-cox-richards>
 
 ---
 
@@ -182,6 +426,20 @@ date: 2025-02-16, updated: 2025-02-16, from: Daring Fireball
 <br> 
 
 <https://machinelearning.apple.com/research/elegnt-expressive-functional-movement>
+
+---
+
+## February 15, 2025
+
+date: 2025-02-16, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157326131/8e91b1c6560edd17470d8f9a843f6c4f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157326131/8e91b1c6560edd17470d8f9a843f6c4f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-15-2025-58b>
 
 ---
 

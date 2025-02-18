@@ -1,11 +1,61 @@
 ---
 title: food
-updated: 2025-02-17 07:08:38
+updated: 2025-02-18 07:09:39
 ---
 
 # food
 
-(date: 2025-02-17 07:08:38)
+(date: 2025-02-18 07:09:39)
+
+---
+
+## Burnside Coffee Boldly Goes Cold in Downtown Sacramento
+
+date: 2025-02-18, from: Daily Coffee News
+
+<div><img width="620" height="437" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-620x437.jpeg" class="attachment-large size-large wp-post-image" alt="Burnside Coffee Sacramento inside" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-620x437.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-300x211.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-150x106.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-768x541.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The entry hatch is wide open for customers at the retro-futuristic first cafe from Burnside Coffee in downtown Sacramento, California.&#160; Inside, the coffee purveyor is offering an almost other-worldly coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/18/burnside-coffee-boldly-goes-cold-in-downtown-sacramento/>
+
+---
+
+## Missouri AG’s Sues Starbucks, Cites ‘More Female and Less White’ Workforce
+
+date: 2025-02-18, from: Daily Coffee News
+
+<div><img width="620" height="394" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-620x394.jpg" class="attachment-large size-large wp-post-image" alt="starbucks coffee drink" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-620x394.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-300x190.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-150x95.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-768x487.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Missouri Attorney General Andrew Bailey filed suit against Starbucks Coffee Company last week, alleging unlawful hiring practices tied to diversity and inclusion. In one particularly coarse assertion of fact in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/18/missouri-ags-sues-starbucks-cites-more-female-and-less-white-workforce/>
+
+---
+
+## Cxffeeblack and COMOCO Cotton Partner on T-Shirt Made Through World’s First Black-Owned Cotton Supply Chain
+
+date: 2025-02-18, from: The Fresh Cup
+
+<p>On Tuesday, Cxffeeblack announced they will partner with COMOCO Cotton to release an exclusive t-shirt highlighting "Black ownership, cultural restoration, and sustainable innovation."</p>
+<p>The post <a href="https://freshcup.com/cxffeeblack-and-comoco-cotton-partner-on-t-shirt-made-through-worlds-first-black-owned-cotton-supply-chain/">Cxffeeblack and COMOCO Cotton Partner on T-Shirt Made Through World’s First Black-Owned Cotton Supply Chain</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/cxffeeblack-and-comoco-cotton-partner-on-t-shirt-made-through-worlds-first-black-owned-cotton-supply-chain/>
+
+---
+
+## Cacao Powder Hot Chocolate
+
+date: 2025-02-17, from: Taste of Home
+
+Cacao powder hot chocolate is warm, comforting and intensely chocolatey. With antioxidant-rich cacao powder and your choice of honey or maple syrup, it's a health-conscious alternative to traditional cocoa recipes. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cacao-powder-hot-chocolate/>
 
 ---
 
@@ -13,7 +63,7 @@ updated: 2025-02-17 07:08:38
 
 date: 2025-02-17, from: Daily Coffee News
 
-<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-620x436.jpg" class="attachment-large size-large wp-post-image" alt="espresso" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-620x436.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-300x211.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-768x539.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study from Italy introduced a novel sensor for the chemical properties of coffee. Its creators say the sensor type may have the potential to transform real-time chemical assessment... 
+<div><img width="620" height="436" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-620x436.jpg" class="attachment-large size-large wp-post-image" alt="espresso" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-620x436.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-300x211.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-150x105.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1-768x539.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/espresso-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study from Italy introduced a novel sensor for the chemical properties of coffee. Its creators say the sensor type may have the potential to transform real-time chemical assessment... 
 
 <br> 
 
@@ -39,7 +89,7 @@ date: 2025-02-17, from: Taste of Home
 
 date: 2025-02-17, from: Daily Coffee News
 
-<div><img width="620" height="473" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-620x473.jpg" class="attachment-large size-large wp-post-image" alt="Coffee Cycle Ocean Beach San Diego 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-620x473.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-300x229.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-768x586.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Among the eclectic mom-and-pop shops, the farmers market, ocean breezes mixed with patchouli, surf-loving dogs and other delights of Ocean Beach in San Diego is the newest, biggest outpost of... 
+<div><img width="620" height="473" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-620x473.jpg" class="attachment-large size-large wp-post-image" alt="Coffee Cycle Ocean Beach San Diego 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-620x473.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-300x229.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1-768x586.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/Coffee-Cycle-Ocean-Beach-San-Diego-2-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Among the eclectic mom-and-pop shops, the farmers market, ocean breezes mixed with patchouli, surf-loving dogs and other delights of Ocean Beach in San Diego is the newest, biggest outpost of... 
 
 <br> 
 
@@ -63,7 +113,7 @@ These are what the pros use at home.
 
 date: 2025-02-17, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Akron Coffee Lab menu inside" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In an environment that embraces innovation, Ohio&#8217;s Akron Coffee Roasters is workshopping new menu items and brewing experimental coffees at its fourth retail bar, The ACR Coffee Lab. The Coffee... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Akron Coffee Lab menu inside" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Akron-Coffee-Lab-menu-inside.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>In an environment that embraces innovation, Ohio&#8217;s Akron Coffee Roasters is workshopping new menu items and brewing experimental coffees at its fourth retail bar, The ACR Coffee Lab. The Coffee... 
 
 <br> 
 
@@ -96,6 +146,22 @@ date: 2025-02-17, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/coffee-news-club-week-of-february-17th/>
+
+---
+
+## Lasagna Soup
+
+date: 2025-02-17, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2012/01/Lasagna-Soup-1200-5590.jpg"/></div>
+<p>All of the flavours of lasagna in a warm, comforting and tasty soup! Winter is the time for soups and I have been certainly making a lot of them lately! Lasagna has to be one of my all time favourite meals and when I first came across the idea for a lasagna soup I was...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/lasagna-soup/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/lasagna-soup/">Lasagna Soup</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/lasagna-soup/>
 
 ---
 

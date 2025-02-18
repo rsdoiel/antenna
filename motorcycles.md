@@ -1,11 +1,96 @@
 ---
 title: motorcycles
-updated: 2025-02-17 07:08:37
+updated: 2025-02-18 07:09:38
 ---
 
 # motorcycles
 
-(date: 2025-02-17 07:08:37)
+(date: 2025-02-18 07:09:38)
+
+---
+
+## Garmin Unveils Tactix 8 and a Sets New Standard For Rugged Smartwatches
+
+date: 2025-02-18, from: Ride Apart, Electric Motorcycle News
+
+This is probably the most hardcore smartwatch you can buy. 
+
+<br> 
+
+<https://www.rideapart.com/news/750817/garmin-tactix-8-smartwatch/>
+
+---
+
+## Ducati Finally Stalls MotoGP Rampage in Pre-Season Tests
+
+date: 2025-02-18, from: Ride Apart, Electric Motorcycle News
+
+I guess it's fair to call it a GP24.5. 
+
+<br> 
+
+<https://www.rideapart.com/news/750804/ducati-motogp-2025-test-progression/>
+
+---
+
+## Check Out These Awesome-Looking Tow-Behind Backcountry Tent and Trailer Combos
+
+date: 2025-02-18, from: Ride Apart, Electric Motorcycle News
+
+I could probably live in the woods fulltime.  
+
+<br> 
+
+<https://www.rideapart.com/news/750812/jumping-jack-trailers/>
+
+---
+
+## Honda's About To Call It A Day On This Cool Naked Bike the US Never Got
+
+date: 2025-02-18, from: Ride Apart, Electric Motorcycle News
+
+The CB1300 Super Four is about to go away for good. 
+
+<br> 
+
+<https://www.rideapart.com/news/750819/honda-cb1300-superfour-final-edition/>
+
+---
+
+## Watch a Can-Am UTV Race a Trophy Truck Across the Desert, and Win
+
+date: 2025-02-18, from: Ride Apart, Electric Motorcycle News
+
+UTVs have come a long way.  
+
+<br> 
+
+<https://www.rideapart.com/news/750795/travis-pastrana-can-am-maverick-r-trophy-truck-race/>
+
+---
+
+## NASCAR Xfinity Series: A who’s who of top prospects among those vying for Rookie of the Year title
+
+date: 2025-02-17, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer This year’s NASCAR Xfinity Series rookie class comprises a NASCAR Craftsman Truck Series regular season champion, a 2024 24 Hours of Daytona and 12 Hours&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-xfinity-series-a-whos-who-of-top-prospects-among-those-vying-for-rookie-of-the-year-title/>
+
+---
+
+## This Small Cruiser From China Wants To Infiltrate US Roads
+
+date: 2025-02-17, from: Ride Apart, Electric Motorcycle News
+
+Can it steal away prospective Honda Rebel and Kawasaki Eliminator buyers?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750695/benda-napoleonbob500-coming-us-market/>
 
 ---
 

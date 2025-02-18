@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-02-17 07:08:36
+updated: 2025-02-18 07:09:37
 ---
 
 # weather
 
-(date: 2025-02-17 07:08:36)
+(date: 2025-02-18 07:09:37)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-02-17, from: Eastern Pacific Basin GIS Data
+date: 2025-02-18, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,15 +21,167 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Mon Feb 17 13:59:01 UTC 2025
+## SPC - No watches are valid as of Tue Feb 18 14:19:02 UTC 2025
 
-date: 2025-02-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Feb 17 13:59:01 UTC 2025. 
+No watches are valid as of Tue Feb 18 14:19:02 UTC 2025. 
 
 <br> 
 
 <https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC MD 113
+
+date: 2025-02-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0113.html"><img src="https://www.spc.noaa.gov/products/md/mcd0113.png" border="1" alt="MD 0113 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0113
+NWS Storm Prediction Center Norman OK
+0748 AM CST Tue Feb 18 2025
+
+Areas affected...Parts of central/eastern OK into northwest AR and
+extreme southwest MO
+
+Concerning...Winter mixed precipitation 
+
+Valid 181348Z - 181645Z
+
+SUMMARY...Light to locally moderate freezing rain and/or sleet is
+possible this morning. Increasing snow rates are possible by late
+morning across northeast Oklahoma and vicinity.
+
+DISCUSSION...Light precipitation is gradually increasing this
+morning across parts of central/eastern OK, in response to warm
+advection near/above 850 mb atop a southward-advancing arctic
+airmass. The 12Z OUN sounding depicts saturation primarily below a
+notable temperature inversion around 700 mb. In the short term,
+given the relatively shallow saturated layer and lack of deeper
+ascent above this layer, a period of freezing drizzle/light freezing
+rain will be possible, with relatively efficient ice accretion in
+areas where near-surface temperatures fall through the 20s F. 
+
+With time, deeper/stronger ascent will result in locally heavier
+precipitation rates later this morning. This may be accompanied by
+an transition to sleet and snow (especially with northward extent),
+due to continued near-surface cold advection and wet-bulb cooling of
+the initially dry layer near 700 mb. Snow rates may begin to
+increase by late morning across northeast OK and vicinity, with
+locally heavy snow possible this afternoon.
+
+..Dean.. 02/18/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...LZK...SGF...SHV...TSA...ICT...FWD...OUN...
+
+LAT...LON   35729755 36679734 37079643 37039450 36179406 34359354
+            34229401 34719468 34859503 34789559 34549622 34219700
+            33929779 34189828 34879786 35269768 35729755 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0113.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0113.html>
+
+---
+
+## SPC Feb 18, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-02-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0630 AM CST Tue Feb 18 2025
+
+Valid 181300Z - 191200Z
+
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+SOUTHEAST TEXAS AND SOUTHERN LOUISIANA...
+
+...SUMMARY...
+Isolated severe thunderstorms are possible this evening across parts
+of southeast Texas, shifting across southern Louisiana tonight. Hail
+should be the primary hazard, but a brief tornado and occasional
+severe gusts may occur along the immediate Louisiana Coast.
+
+...Southeast Texas into Southern Louisiana...
+A mid-level shortwave trough will progress east-southeastward from
+the Great Basin to the southern Plains by tonight. At the surface,
+an arctic cold front will continue surging southward across TX
+through the day, eventually reaching the TX Coast by late tonight.
+Modest low-level moisture is forecast to advance northward
+along/near the middle/upper TX Coast ahead of the front.
+Thunderstorms should eventually form by this evening across parts of
+southeast TX as the shortwave trough approaches. Various NAM/RAP
+forecast soundings suggest this convection will likely remain
+elevated above a near-surface stable layer. Still, around 1000-1250
+J/kg of MUCAPE aided by modestly steepened mid-level lapse rates,
+and strong deep-layer shear in the cloud bearing layer, may support
+isolated severe hail with the more robust cores. This activity will
+spread eastward across portions of southern LA late this evening and
+overnight while posing mainly a continued hail threat. There is also
+a low, but non-zero, chance of near-surface-based thunderstorms
+along the immediate LA Coast late tonight into early Wednesday
+morning, where somewhat greater low-level moisture should be
+present. If convection can become surface-based across this area,
+then isolated strong to severe wind gusts and perhaps a brief
+tornado would be possible.
+
+..Gleason/Dean.. 02/18/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-02-18, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0144 AM CST Tue Feb 18 2025
+
+Valid 191200Z - 201200Z
+
+...NO CRITICAL AREAS...
+
+...Synopsis...
+Height rises and building high pressure across the western US and
+southern/central Rockies will result in lighter winds where dry
+conditions are expected. Across the Plains, an arctic air mass will
+settle in, with cool and wet conditions across much of the southern
+and central Plains. Less precipitation is forecast across western
+Texas, but light winds and higher relative humidity is expected.
+Overall, fire weather concerns will be minimal owing to cool
+conditions and lighter wind speeds where the driest conditions are
+expected.
+
+..Thornton.. 02/18/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -42,43 +194,6 @@ No Mesoscale Discussions are in effect as of Mon Feb 17 13:59:01 UTC 2025.
 <br> 
 
 <https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Feb 17, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-02-17, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0630 AM CST Mon Feb 17 2025
-
-Valid 171300Z - 181200Z
-
-...NO THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Thunderstorms are not expected through tonight.
-
-...Synopsis and Discussion...
-A surface cold front is in the process of clearing far south FL and
-the Keys this morning. In its wake, expansive high pressure will
-dominate much of the central CONUS. Across the western states, a
-weak mid-level shortwave trough will advance from the Northwest
-towards the central Rockies through the period. With cool and/or dry
-conditions expected across a large majority of the CONUS,
-thunderstorm potential appears limited through tonight.
-
-..Gleason/Broyles.. 02/17/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
 
 ---
 

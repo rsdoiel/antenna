@@ -1,11 +1,220 @@
 ---
 title: home
-updated: 2025-02-17 07:08:37
+updated: 2025-02-18 07:09:38
 ---
 
 # home
 
-(date: 2025-02-17 07:08:37)
+(date: 2025-02-18 07:09:38)
+
+---
+
+## You Don’t Have to Be a Designer to Dream Up Your Own Custom Furniture
+
+date: 2025-02-18, from: Dwell
+
+Interior designer Kiah Friedman assures that no experience is required—just an eye for what you’re looking for and a zest for collaboration. 
+
+<br> 
+
+<https://www.dwell.com/article/how-to-commission-and-design-custom-furniture-3ec3a97a>
+
+---
+
+## 25 Types of Woodpeckers (With Pictures and Identification)
+
+date: 2025-02-18, from: Yard Life blog
+
+<p>Woodpeckers are fascinating birds, instantly recognizable by their distinctive drumming sound as they tap on trees in search of food, ... </p>
+<p class="read-more-container"><a title="25 Types of Woodpeckers (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/25-types-of-woodpeckers-with-pictures-and-identification/#more-23602" aria-label="Read more about 25 Types of Woodpeckers (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-types-of-woodpeckers-with-pictures-and-identification/">25 Types of Woodpeckers (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-types-of-woodpeckers-with-pictures-and-identification/>
+
+---
+
+## How to Repair or Replace a Broken Storm Window
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>A broken storm window can be unsafe and inefficient, but is it a DIY fix? Here’s what you should know before tackling it yourself.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-repair-or-replace-a-broken-storm-window/">How to Repair or Replace a Broken Storm Window</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-repair-or-replace-a-broken-storm-window/>
+
+---
+
+## Build a Modern Floating Headboard From One Sheet of Plywood
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>Create a modern floating headboard with just one sheet of plywood and some edge banding.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-build-a-modern-floating-headboard-from-one-sheet-of-plywood/">Build a Modern Floating Headboard From One Sheet of Plywood</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-build-a-modern-floating-headboard-from-one-sheet-of-plywood/>
+
+---
+
+## Best Way to Clean Gutters
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>Cleaning gutters is easy—just remember to do it! Watch to learn the best method.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-best-way-to-clean-gutters/">Best Way to Clean Gutters</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-best-way-to-clean-gutters/>
+
+---
+
+## Lawn Tractor Buying Guide
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>Learn what things to look for when looking to purchase a lawn tractor</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-lawn-tractor-buying-guide/">Lawn Tractor Buying Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-lawn-tractor-buying-guide/>
+
+---
+
+## How to Tape and Mud Drywall
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>Cut costs by taping your own walls with these pro tips from the video.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-tape-and-mud-drywall/">How to Tape and Mud Drywall</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-tape-and-mud-drywall/>
+
+---
+
+## How to Glue and Join PVC Plastic Pipe
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>A Family Handyman expert shows how to glue PVC joints for a quick, leak-free seal.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-glue-and-join-pvc-plastic-pipe/">How to Glue and Join PVC Plastic Pipe</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-glue-and-join-pvc-plastic-pipe/>
+
+---
+
+## How to Remove a Tree Stump Painlessly
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>We'll show you how to do a tree stump removal! Use potassium nitrate stump remover to decompose old stumps</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-remove-a-tree-stump-painlessly/">How to Remove a Tree Stump Painlessly</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-remove-a-tree-stump-painlessly/>
+
+---
+
+## How To Build Shelves Between Studs
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>Look at this invention that turns stud space into storage space.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-build-shelves-between-studs/">How To Build Shelves Between Studs</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-build-shelves-between-studs/>
+
+---
+
+## How to Fix a Gas Fire Pit
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>Fixing a gas fire pit doesn't need to be complicated. Follow these simple directions to troubleshoot your gas fire pit.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-fix-a-gas-fire-pit/">How to Fix a Gas Fire Pit</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-fix-a-gas-fire-pit/>
+
+---
+
+## How to Test Your Water Heater Element
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>Watch this Family Handyman expert explain the most common cause of no hot water and how to fix it yourself.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-test-your-water-heater-element/">How to Test Your Water Heater Element</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-test-your-water-heater-element/>
+
+---
+
+## How to Build a Full Frame Cabinet Door with MDF
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>MDF is affordable, durable, and great for woodworking. Learn how to use it to make full-frame cabinet doors.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-build-a-full-frame-cabinet-door-with-mdf/">How to Build a Full Frame Cabinet Door with MDF</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-build-a-full-frame-cabinet-door-with-mdf/>
+
+---
+
+## How to Stain Wood Evenly Without Getting Blotches and Dark Spots
+
+date: 2025-02-17, from: Family Handyman Blog
+
+<p>Cherry, pine, and birch can look blotchy when stained. Use a sealer first and test finishes on scrap pieces for the best results.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-stain-wood-evenly-without-getting-blotches-and-dark-spots/">How to Stain Wood Evenly Without Getting Blotches and Dark Spots</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-stain-wood-evenly-without-getting-blotches-and-dark-spots/>
+
+---
+
+## How to Grow and Care for Ice Plant (Delosperma)
+
+date: 2025-02-17, from: The Gardener's Path
+
+<p>Succulent plants are a showcase of weird and wonderful adaptations to rugged conditions – with its odd leaves, ice plant (Delosperma lehmannii) may be one of the most weird and wonderful. Add bright yellow flowers, and this succulent may be hard to resist. Learn how to grow and care for ice plant, read our guide now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/succulents/grow-ice-plant/">How to Grow and Care for Ice Plant (Delosperma)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/succulents/grow-ice-plant/>
 
 ---
 
@@ -24,7 +233,7 @@ date: 2025-02-17, from: Yard Life blog
 
 ---
 
-## You Can Live Like It’s 1963 in This $725K Palm Springs Midcentury
+## You Can Live Like It’s 1963 in This $695K Palm Springs Midcentury
 
 date: 2025-02-17, from: Dwell
 

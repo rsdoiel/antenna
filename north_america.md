@@ -1,11 +1,693 @@
 ---
 title: north america
-updated: 2025-02-17 07:08:34
+updated: 2025-02-18 07:09:35
 ---
 
 # north america
 
-(date: 2025-02-17 07:08:34)
+(date: 2025-02-18 07:09:35)
+
+---
+
+## Morning Roundup: Nationwide Protests, Adam Hochschild, and (in)efficiency
+
+date: 2025-02-18, from: The Contrarian
+
+Featuring: Public Protests, Jen Rubin & Adam Hochschild, words unfit for this administration, and much more! 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-nationwide-protests>
+
+---
+
+## Jen Rubin and Adam Hochschild look to history to explain the present 
+
+date: 2025-02-18, from: The Contrarian
+
+Adam Hochschild is an author and an award-winning historian who brings to life 1917-1921 in America&#8212;the forgotten yet crucial window between World War I and the Roaring Twenties. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157340017/e865ebfd0f198503daaf677c4c16196b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157340017/e865ebfd0f198503daaf677c4c16196b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-adam-hochschild>
+
+---
+
+## Social Security head steps down over DOGE access of recipient information: AP sources
+
+date: 2025-02-18, from: VOA News USA
+
+Washington — The Social Security Administration's acting commissioner has stepped down from her role at the agency over Department of Government Efficiency requests to access Social Security recipient information, according to two people familiar with the official's departure who were not authorized to discuss the matter publicly.
+
+
+Acting Commissioner Michelle King's departure from the agency over the weekend — after more than 30 years of service — was initiated after King refused to provide DOGE staffers at the SSA with access to sensitive information, the people said Monday.
+
+
+The White House has replaced her as acting commissioner with Leland Dudek, who currently works at the SSA, the people said.
+
+
+White House spokesperson Harrison Fields released a statement Monday night saying: “President Trump has nominated the highly qualified and talented Frank Bisignano to lead the Social Security Administration, and we expect him to be swiftly confirmed in the coming weeks. In the meantime, the agency will be led by a career Social Security anti-fraud expert as the acting commissioner."
+
+
+Fields added, "President Trump is committed to appointing the best and most qualified individuals who are dedicated to working on behalf of the American people, not to appease the bureaucracy that has failed them for far too long.”
+
+
+King's exit from the administration is one of several departures of high-ranking officials concerned about DOGE staffers' potential unlawful access to private taxpayer information.
+
+
+DOGE has accessed Treasury payment systems and is attempting to access Internal Revenue Service databases.
+
+
+Since Republican President Donald Trump has retaken the White House, his billionaire adviser Elon Musk has rapidly burrowed deep into federal agencies while avoiding public scrutiny of his work through the DOGE group.
+
+
+Nancy Altman, president of Social Security Works, an advocacy group for the preservation of Social Security benefits, said of DOGE's efforts that "there is no way to overstate how serious a breach this is. And my understanding is that it has already occurred.”
+
+
+“The information collected and securely held by the Social Security Administration is highly sensitive," she said. "SSA has data on everyone who has a Social Security number, which is virtually all Americans, everyone who has Medicare, and every low-income American who has applied for Social Security’s means-tested companion program, Supplemental Security Income."
+
+
+“If there is an evil intent to punish perceived enemies, someone could erase your earnings record, making it impossible to collect the Social Security and Medicare benefits you have earned.”
+
+
+The future of Social Security has become a top political issue and was a major point of contention in the 2024 election. About 72.5 million people, including retirees, disabled people and children, receive Social Security benefits. 
+
+<br> 
+
+<https://www.voanews.com/a/social-security-head-steps-down-over-doge-access-of-recipient-information-ap-sources-/7978978.html>
+
+---
+
+## The lasting effects of fires on local labor markets
+
+date: 2025-02-18, from: Market Place
+
+New research finds that larger fires can depress local hiring for up to three years. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/the-lasting-effects-of-fires-on-local-labor-markets/>
+
+---
+
+## Words and Phrases We Could Do Without
+
+date: 2025-02-18, from: The Contrarian
+
+Trump voters may come to realize that this government&#8217;s &#8220;efficiency&#8221; means a good deal of pain and hardship 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-1a3>
+
+---
+
+## New car sales drop in January as dealer lots fill up
+
+date: 2025-02-18, from: Market Place
+
+More inventory is good for buyers. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/new-car-sales-drop-in-january-as-dealer-lots-fill-up/>
+
+---
+
+## See Americans celebrate No Kings Day
+
+date: 2025-02-18, from: The Contrarian
+
+On Presidents' Day, protests organized by the volunteer organizing nonprofit #50501 continued as No Kings Day. Here, a look at protests from around the country. 
+
+<br> 
+
+<https://contrarian.substack.com/p/see-americans-celebrate-no-kings>
+
+---
+
+## Russian drone attack hits central Ukraine apartment building
+
+date: 2025-02-18, from: VOA News USA
+
+A Russian drone hit an apartment building in the central Ukrainian city of Dolynska, officials said Tuesday, injuring at least three people.
+
+
+Andriy Raikovych, governor of the Kirovohrad region where the attack took place, said on Telegram that authorities evacuated dozens of people from the building and that those injured included a mother and two children.
+
+
+The attack was part of a widespread Russian aerial assault overnight, which the Ukrainian military said included 176 drones.
+
+
+Ukrainian air defenses shot down 103 of the drones, with intercepts taking place over the Cherkasy, Chernihiv, Dnipropetrovsk, Kharkiv, Kherson, Kirovohrad, Kyiv, Mykolaiv, Poltava, Sumy, Vinnytsia and Zhytomyr regions, the military said Tuesday.
+
+
+Cherkasy Governor Ihor Taburets said on Telegram that debris from a destroyed drone damaged four houses in his region.
+
+
+Russia’s Defense Ministry said Tuesday it destroyed five Ukrainian drones, including four over the Voronezh region and one over Belgorod.
+
+
+Both regions are located along the Russia-Ukraine border and are frequent targets of Ukrainian drone attacks.
+
+
+Voronezh Governor Alexander Gusev said on Telegram there were no reports of casualties or damage.
+
+
+Some information for this story was provided by Reuters 
+
+<br> 
+
+<https://www.voanews.com/a/russian-drone-attack-hits-central-ukraine-apartment-building/7978787.html>
+
+---
+
+## US, Russian officials meet to discuss Ukraine war, bilateral relations
+
+date: 2025-02-18, from: VOA News USA
+
+Top U.S. and Russian diplomats met for several hours Tuesday in Saudi Arabia about relations between their countries and a potential end to Russia’s war in Ukraine.
+
+
+Both sides tempered expectations ahead of time, describing the talks as an initial step that could lay the framework for direct talks between U.S. President Donald Trump and Russian leader Vladimir Putin.
+
+
+Secretary of State Marco Rubio led the U.S. delegation, which included national security adviser Mike Waltz and Middle East envoy Steve Witkoff.
+
+
+Russia’s side included Foreign Minister Sergey Lavrov and senior Putin aide Yuri Ushakov.
+
+
+Ukrainian leaders said they were not invited to participate. Ukrainian President Volodymyr Zelenskyy is due to host the U.S. envoy for Ukraine, Keith Kellogg, for talks on Wednesday.
+
+
+The U.S.-Russia engagement sparked concern among European leaders who in recent days have highlighted the need for Ukraine to be involved in discussions about its own future, and for European nations to play a role in what they also see as a key development in their own security.
+
+
+French President Emmanuel Macron convened a group of European leaders for a Monday session in Paris where they discussed boosting defense spending and potential security guarantees for Ukraine.
+
+
+There was division on the idea of deploying peacekeepers to Ukraine as part of a potential end to the war, with governments such as Britain and Sweden expressing openness to the idea while German Chancellor Olaf Scholz said that discussion was premature.
+
+
+“We seek a strong and lasting peace in Ukraine. To achieve this, Russia must end its aggression, and this must be accompanied by strong and credible security guarantees for the Ukrainians,” Macron said on X.
+
+
+The French leader said he had spoken with Trump and Zelenskyy after the Paris talks, and that it is important for Europeans, Americans and Ukrainians to work together.
+
+
+Zelenskyy expressed a need for “robust and reliable” security guarantees, saying that otherwise Russia will just start another war with Ukraine or other nations in Europe. 
+
+<br> 
+
+<https://www.voanews.com/a/us-russian-officials-to-discuss-ukraine-war-bilateral-relations/7978750.html>
+
+---
+
+##  Trump Moves To Kill The Environmental Magna Carta 
+
+date: 2025-02-18, from: The Lever News
+
+ Administration officials just filed a rule to defang the 1970 National Environmental Policy Act — the statute that lets communities protect themselves from polluters.  
+
+<br> 
+
+<https://www.levernews.com/trump-moves-to-kill-the-environmental-magna-carta/>
+
+---
+
+## Costa Rica will receive deported migrants from US
+
+date: 2025-02-18, from: VOA News USA
+
+San Jose, Costa Rica — Costa Rica announced Monday it would receive migrants from other countries who were deported by the United States, following in the footsteps of Panama and Guatemala.
+
+
+"The Government of Costa Rica agreed to collaborate with the United States in the repatriation of 200 illegal immigrants to their country," the Costa Rican president's office said in a statement, adding that "these are people originating from ... Central Asia and India."
+
+
+Costa Rica is the third country in Central America to collaborate on repatriating deported migrants from the United States since President Donald Trump assumed office in Washington on Jan. 20. 
+
+
+The first set of deportees will arrive in Costa Rica on Wednesday aboard a commercial flight, according to the statement, whereupon they will be transported to a Temporary Migrant Care Center near the border with Panama. 
+
+
+The statement specified that "the process will be completely financed" by the U.S. government under the supervision of the International Organization for Migration. 
+
+
+Panama and Guatemala had previously agreed to a similar arrangement when U.S. Secretary of State Marco Rubio visited on a recent tour of Latin America. 
+
+
+Panama received its first repatriation flight with 119 migrants aboard last week, originating from China, Pakistan, Afghanistan and elsewhere, according to Panamanian officials. None have arrived yet in Guatemala.
+
+
+Latin America is the original home of most of the United States' estimated 11 million undocumented migrants.
+
+
+Many had made dangerous journeys, braving treacherous terrain, wild animals and criminal gangs for a chance at a better life.
+
+
+Trump, however, took a hard line against undocumented migrants during last year's U.S. election campaign, describing some as "monsters" and "animals."
+
+
+On his first day in office last month, Trump declared a national emergency at the southern U.S. border and vowed to deport "millions and millions" of migrants. 
+
+<br> 
+
+<https://www.voanews.com/a/costa-rica-will-receive-deported-migrants-from-us/7978707.html>
+
+---
+
+## Four top New York City officials resign as turmoil ripples over mayor's corruption case
+
+date: 2025-02-18, from: VOA News USA
+
+NEW YORK — Four top deputies to New York City Mayor Eric Adams are resigning in the latest fallout from the Justice Department's push to end a corruption case against Adams and ensure his cooperation in President Donald Trump’s immigration crackdown — a bargain that has raised questions about the mayor’s political independence and ability to lead the city.
+
+
+In a statement Monday, Adams confirmed the departures of First Deputy Mayor Maria Torres-Springer, Deputy Mayor for Operations Meera Joshi, Deputy Mayor for Health and Human Services Anne Williams-Isom and Deputy Mayor for Public Safety Chauncey Parker.
+
+
+“I am disappointed to see them go, but given the current challenges, I understand their decision and wish them nothing but success in the future," said Adams, who faces several challengers in June's Democratic primary. “But let me be crystal clear: New York City will keep moving forward, just as it does every day."
+
+
+City Council Speaker Adrienne Adams became the latest Democrat to call on the mayor to resign, saying that with the deputy mayor resignations it's clear he "has now lost the confidence and trust of his own staff, his colleagues in government and New Yorkers.”
+
+
+Speaker Adams is not related to the mayor.
+
+
+Torres-Springer, Joshi and Williams-Isom told agency heads and staff in a memo that they were exiting because of “the extraordinary events of the last few weeks.”
+
+
+They did not give a date for their departures, but Adams said they and Parker will remain “for the time being to ensure a seamless transition.”
+
+
+Adams has faced increasing scrutiny since the Justice Department's second-in-command ordered federal prosecutors in Manhattan last week to drop the mayor's corruption case. Acting Deputy Attorney General Emil Bove wrote that the case had “unduly restricted Mayor Adams’ ability to devote full attention and resources to the illegal immigration and violent crime.”
+
+
+That directive touched off firestorms within the Justice Department and New York political circles, with seven federal prosecutors quitting in protest — including the interim U.S. attorney for Manhattan — and fellow Democrats calling on Adams to resign.
+
+
+On Friday, after a week of recriminations and resignations, Bove and a pair of Justice Department officials from Washington stepped in and filed paperwork asking Manhattan federal Judge Dale E. Ho to dismiss the case. Ho has yet to take action on the request.
+
+
+Adams, a former police captain, pleaded not guilty last September to charges that he accepted more than $100,000 in illegal campaign contributions and lavish travel perks from foreign nationals looking to buy his influence while he was Brooklyn borough president campaigning to be mayor.
+
+
+The Justice Department said in its filing Friday that it was seeking to dismiss Adams’ charges with the option of refiling them later, which critics see as a carrot to ensure his compliance on the Republican president's objectives. In his memo ordering prosecutors to ditch the case, Bove said the new, permanent U.S. attorney would review the matter after the November election.
+
+
+“It certainly sounds like President Trump is holding the mayor hostage,” Reverend Al Sharpton, an Adams ally, said Tuesday. “I have supported the mayor, but he has been put in an unfair position — even for him — of essentially political blackmail.”
+
+Political leaders, including Democratic Representatives Alexandria Ocasio Cortez and Nydia Velázquez, and Lieutenant Governor Antonio Delgado have called on Adams to step down. But Democratic Governor Kathy Hochul has said she's taking a more deliberative approach.
+
+
+“The allegations are extremely concerning and serious, but I cannot as the governor of this state have a knee-jerk, politically motivated reaction like a lot of other people are saying right now,” she told MSNBC on Thursday. “I’ve got to do it smart, what’s right, and I’m consulting with other leaders in government right now.”
+
+
+The drama over Adams' legal case played out as the mayor met with Trump’s border czar in New York on Thursday and announced increased cooperation on the Trump administration's efforts to remove immigrants, including reestablishing an office for immigration authorities at the city's notorious Rikers Island jail.
+
+
+In their memo to staff announcing their exits, Torres-Springer, Joshi and Williams-Isom wrote, “Due to the extraordinary events of the last few weeks and to stay faithful to the oaths we swore to New Yorkers and our families, we have come to the difficult decision to step down from our roles.” 
+
+<br> 
+
+<https://www.voanews.com/a/four-top-new-york-city-officials-resign-as-turmoil-ripples-over-mayor-s-corruption-case-/7978647.html>
+
+---
+
+## Not Anything Any of Us Ever Expected to See in America
+
+date: 2025-02-17, from: The Contrarian
+
+Trump continued to bend the political system to his will, but the courts and his own Dept of Justice pushed back. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157353801/ea7f28ca0b6a64e49772ab35523fce00.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157353801/ea7f28ca0b6a64e49772ab35523fce00.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/not-anything-any-of-us-ever-expected>
+
+---
+
+## For a Minnesota couple, moving into a senior housing co-op made aging in place feasible
+
+date: 2025-02-17, from: Market Place
+
+"It's like we're back in our dorm in college," said Kirsten Harrison, a resident of a senior housing community in Minnesota. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/for-a-minnesota-couple-moving-into-a-senior-housing-co-op-made-aging-in-place-feasible/>
+
+---
+
+## Global electricity demand to grow 4% a year through 2027, IEA says
+
+date: 2025-02-17, from: Market Place
+
+Emerging economies will account for 85% of the growth. Data centers and electric vehicles will also boost demand in richer countries. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/electricity-demand-energy-renewable-global-iea-consumption/>
+
+---
+
+## Contrarians' Day Evening Roundup: Susan Rice and much more!
+
+date: 2025-02-17, from: The Contrarian
+
+February 17: Featuring Susan Rice in conversation with Jen Rubin, an introduction to our founding contributors, and an article by Kate Andersen Brower 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarians-day-evening-roundup-susan>
+
+---
+
+## Oklahoma state school board wants to register students’ immigration status
+
+date: 2025-02-17, from: VOA News USA
+
+Lawmakers in the U.S. state of Oklahoma are looking at a plan to start collecting information on the immigration status of students and parents in public schools. It’s a proposed rule that some local school officials are already saying they will refuse to enforce. Scott Stearns narrates this story from Daria Vershylenko in Oklahoma. 
+
+<br> 
+
+<https://www.voanews.com/a/oklahoma-state-school-board-wants-to-register-students-immigration-status-/7978345.html>
+
+---
+
+## Amb. Susan Rice and Jen Rubin on Trump's wrecking-ball impact on international relations 
+
+date: 2025-02-17, from: The Contrarian
+
+This special Contrarians&#8217; Day interview with former U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157267435/dfe72317e7b924add1f0e6b4bc9cd93b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157267435/dfe72317e7b924add1f0e6b4bc9cd93b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/amb-susan-rice-and-jen-rubin-on-trumps>
+
+---
+
+## With listings up and demand down, 2025 is off to a rough start for housing
+
+date: 2025-02-17, from: Market Place
+
+Economic uncertainty has combined with a persistent lack of affordability to chill the housing market. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/homebuyer-demand-down-listings-housing-market-confidence-uncertainty-inflation-interest-rates/>
+
+---
+
+## When colleges close, communities take the biggest hit
+
+date: 2025-02-17, from: Market Place
+
+Colleges provide economic and social benefits for their surrounding communities.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/when-colleges-close-communities-take-the-biggest-hit/>
+
+---
+
+## After more than 50 years, a beloved Boston-area typewriter shop is closing its doors
+
+date: 2025-02-17, from: Market Place
+
+Ever since Tom Furrier, owner of Cambridge Typewriter, announced that he's retiring at the end of March, the shop has been flooded with customers. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/after-more-than-50-years-a-beloved-boston-area-typewriter-shop-is-closing-its-doors/>
+
+---
+
+## Trump begins firings of FAA air traffic control staff just weeks after fatal DC plane crash
+
+date: 2025-02-17, from: VOA News USA
+
+Washington — The Trump administration began firing several hundred Federal Aviation Administration employees on a busy air travel weekend and just weeks after a January fatal midair collision at Ronald Reagan Washington National Airport.
+
+
+Probationary workers were targeted in late-night emails Friday notifying them they had been fired, David Spero, president of the Professional Aviation Safety Specialists union, said in a statement.
+
+
+The workers include personnel hired for FAA radar, landing and navigational aid maintenance, one air traffic controller told The Associated Press. The air traffic controller was not authorized to talk to the media and spoke on condition of anonymity.
+
+
+A Transportation Department official told the AP late Monday that no air traffic controllers were affected by the cuts and that the agency has "retained employees who perform critical safety functions." In a follow-up query, the agency said they would have to look into whether the radar, landing and navigational aid workers who were fired were considered to handle critical safety functions.
+
+
+The National Air Traffic Controllers Association said in a brief statement Monday it was "analyzing the effect of the reported federal employee terminations on aviation safety, the national airspace system and our members."
+
+
+Other FAA employees who were fired were working on an urgent and classified early warning radar system the Air Force had announced in 2023 for Hawaii to detect incoming cruise missiles, through a program that was in part funded by the Defense Department. It's one of several programs that the FAA's National Defense Program manages that involve radars providing longer-range detection around the country's borders.
+
+
+Due to the nature of their work, staff in that office typically provide an extensive knowledge transfer before retiring to make sure no institutional knowledge is lost, said Charles Spitzer-Stadtlander, one of the employees in that branch who was terminated.
+
+
+The Hawaii radar and the FAA National Defense Program office working on it are "about protecting national security," Spitzer-Stadtlander said. "I don't think they even knew what NDP does, they just thought, oh no big deal, he just works for the FAA."
+
+
+"This is about protecting national security, and I'm scared to death," Spitzer-Stadtlander said. "And the American public should be scared too."
+
+
+Spero said messages began arriving after 7 p.m. Friday and continued late into the night. More might be notified over the long weekend or barred from entering FAA buildings Tuesday, he said.
+
+
+The employees were fired "without cause nor based on performance or conduct," Spero said, and the emails were "from an 'exec order' Microsoft email address" — not a government email address. A copy of the termination email that was provided to the AP shows the sending address "ASK_AHR_EXEC_Orders@usfaa.mail.outlook.com."
+
+
+The firings hit the FAA as it is facing a shortfall in controllers. Federal officials have been raising concerns about an overtaxed and understaffed air traffic control system for years, especially after a series of close calls between planes at U.S. airports. Among the reasons they have cited for staffing shortages are uncompetitive pay, long shifts, intensive training and mandatory retirements.
+
+
+In the January 29 fatal collision between a U.S. Army Black Hawk helicopter and American Airlines passenger jet, which is still under investigation, one controller was handing both commercial airline and helicopter traffic at the busy airport.
+
+
+Days before the collision, President Donald Trump fired all the members of the Aviation Security Advisory Committee, a panel mandated by Congress after the 1988 PanAm 103 bombing over Lockerbie, Scotland. The committee is charged with examining safety issues at airlines and airports.
+
+
+Spitzer-Stadtlander suggested he was targeted for firing for his views on Tesla and X, formerly Twitter, not as part of a general probationary-level sweep. Both companies are owned by Elon Musk, whose Department of Government Efficiency is leading Trump's effort to cut the federal government.
+
+
+DOGE did not immediately respond to a request for comment. The firings were first reported by CNN. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-begins-firings-of-faa-air-traffic-control-staff-just-weeks-after-fatal-dc-plane-crash/7978308.html>
+
+---
+
+## FEMA’s 50% elevation rule forces tough choices in flood-prone communities
+
+date: 2025-02-17, from: Market Place
+
+The rule is designed to stop the cycle of flood damage, but it's leading to opposite outcomes in two Louisiana towns.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/femas-50-elevation-rule-flooding-louisiana/>
+
+---
+
+## Meet our Founding Contributors 
+
+date: 2025-02-17, from: The Contrarian
+
+On this Presidents&#8217;&#8212;or as we&#8217;re calling it, Contrarians&#8217;&#8212;Day, The Contrarian is a little more than one month old and the proud publisher of over 200 pieces of unflinching, incisive content in defense of democracy. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157290879/9e1e80e3587554f80b192b910f243cf7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157290879/9e1e80e3587554f80b192b910f243cf7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/meet-our-founding-contributors>
+
+---
+
+## The Arctic vault built to preserve humanity’s data
+
+date: 2025-02-17, from: Market Place
+
+The Arctic World Archive — 300 meters below the permafrost in a demilitarized zone — houses art, music and a copy of the world's open source code. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/arctic-world-archive-data-vault/>
+
+---
+
+## The links among economic uncertainty, insecurity and inequality
+
+date: 2025-02-17, from: Market Place
+
+Alissa Quart of the Economic Hardship Reporting Project observes that a sense of precarity has spread to America's middle class. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/economic-insecurity-economic-inequality-precarity/>
+
+---
+
+## Flipping the script: How America’s first ladies are refusing to play by the rules
+
+date: 2025-02-17, from: The Contrarian
+
+Melania Trump might have freed other first ladies, future and past, to be themselves. 
+
+<br> 
+
+<https://contrarian.substack.com/p/flipping-the-script-how-americas>
+
+---
+
+## Scarcity vs. innovation: Revisiting the “scholarly wager of the decade”
+
+date: 2025-02-17, from: Market Place
+
+The famous Ehrlich-Simon bet on the value of metals showed that prices fell as supply increased, despite population growth. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/scholarly-wager-of-the-decade-economics-commodities-population/>
+
+---
+
+## Contrarians' Day Afternoon Roundup
+
+date: 2025-02-17, from: The Contrarian
+
+February 17: Featuring Jen Rubin in conversation with Heather Cox Richardson and with HW Brands, April Ryan, the New Deal Descendants, Ted Widmer--plus a special presidential reel 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarians-day-afternoon-roundup>
+
+---
+
+## New policies may part the waters for ocean mining
+
+date: 2025-02-17, from: Market Place
+
+President Trump seems more likely to support deep-sea mineral extraction than President Biden did. But do we need those ocean floor metals? 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/17/ocean-mining-proponents-metals-ev-batteries-mineral-extraction/>
+
+---
+
+## Remembering the Real Presidents of Presidents’ Day
+
+date: 2025-02-17, from: The Contrarian
+
+The legacy of the presidents for whom this day exists has proven problematic for our current one 
+
+<br> 
+
+<https://contrarian.substack.com/p/remembering-the-real-presidents-of>
+
+---
+
+## Trump's influence on the economy from a historical perspective
+
+date: 2025-02-17, from: The Contrarian
+
+On this very special Presidents&#8217; Day &#8212; or Contrarians&#8217; Day as we like to call it &#8212; Jen Rubin and H.W. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157327944/c973321d07dbc11d3cb51b3f38124c35.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157327944/c973321d07dbc11d3cb51b3f38124c35.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/trumps-influence-on-the-economy-from>
+
+---
+
+## American arrested in Moscow on drug smuggling charges freed
+
+date: 2025-02-17, from: VOA News USA
+
+Russia has freed a U.S. citizen arrested earlier this month on drug smuggling charges, according to Russian media reports and a U.S. official. 
+
+
+The move appears to be an effort to ease tensions between Moscow and Washington ahead of talks in Saudi Arabia on Tuesday. 
+
+
+Kalob Byers, 28, was detained on Feb. 7 at Moscow's Vnukovo airport after customs officials allegedly found cannabis-laced marmalade in his baggage. According to media reports, Byers had traveled from Istanbul with his Russian fiancee, who was also detained. The authorities said he had attempted to smuggle a “significant amount” of drugs into the country and put him in custody on the charges of drug smuggling, punishable by a prison term of up to 10 years. 
+
+
+Byers has been released from custody and is in the U.S. Embassy in Moscow where he is awaiting a flight home, Russian independent news outlet Meduza reported Monday, citing a Facebook post by his parents. A U.S. official confirmed to The Associated Press that Byers was released to the embassy late Sunday evening. The official spoke on the condition of anonymity because they were not authorized to discuss sensitive matters. 
+
+
+Kremlin spokesperson Dmitry Peskov told reporters Monday in response to a question about Byers that Moscow expects “to discuss restoring the entire complex of Russian-American relations” at the talks in Saudi Arabia on Tuesday, “so certain events can be viewed in this context.” 
+
+
+It wasn't immediately clear whether Byers' fiancee was also released. Russian media reports identified her as Naida Mambetova and said she was placed in pre-trial detention on the same charges. 
+
+
+Arrests of American nationals in Russia have become increasingly common in recent years, with relations between Moscow and Washington sinking to Cold War lows over the war in Ukraine. Some have been released in prisoner exchanges. The most recent one included Marc Fogel, a teacher from Pennsylvania imprisoned in Russia on charges similar to those Byers had faced. 
+
+
+Fogel was detained in 2021 when traveling to Russia to work at a school and handed a 14-year sentence for having what his family and supporters said was medically prescribed marijuana. He was released and brought back to the U.S. earlier this month in a swap that saw Alexander Vinnik, a Russian cryptocurrency expert who faced Bitcoin fraud charges in the U.S., returned to Russia. 
+
+
+The release of Fogel and Byers come as tensions between Russia and the U.S. appear to ease. 
+
+
+President Donald Trump on Wednesday upended three years of U.S. policy toward Ukraine and Russia, saying he and Russia's President Vladimir Putin had agreed to begin negotiations on ending the conflict following a lengthy direct phone call. 
+
+<br> 
+
+<https://www.voanews.com/a/american-arrested-in-moscow-on-drug-smuggling-charges-freed/7977934.html>
+
+---
+
+## The Radio Show Taking on California’s Youth Mental Health Crisis
+
+date: 2025-02-17, from: Capital and Main
+
+<p>From a small station in Los Angeles’ Boyle Heights, 18-year-old Kennia Camacho talks with teens about anxiety, stress and depression. We should listen.</p>
+<p>The post <a href="https://capitalandmain.com/the-radio-show-taking-on-californias-youth-mental-health-crisis">The Radio Show Taking on California’s Youth Mental Health Crisis</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-radio-show-taking-on-californias-youth-mental-health-crisis>
+
+---
+
+## President Musk
+
+date: 2025-02-17, from: The Contrarian
+
+*Record scratch* 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157290756/acf593942c6b68b8c6ffd00f6f8fe570.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157290756/acf593942c6b68b8c6ffd00f6f8fe570.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/president-musk>
+
+---
+
+## Trump’s Project 2025 is a disaster. Here’s what must replace it.
+
+date: 2025-02-17, from: The Contrarian
+
+As 'New Deal' descendants, we know economic security for Americans is key to stopping power-hungry oligarchs from endangering our republic. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-project-2025-is-a-disaster>
 
 ---
 
@@ -77,89 +759,66 @@ Jen Rubin and Heather Cox Richardson discuss the values that once defined the Am
 
 ---
 
-## 'Life-threatening cold' expected in some parts of US after deadly weekend flooding
+## 'Life-threatening cold' hits parts of US following deadly weekend flooding
 
 date: 2025-02-17, from: VOA News USA
 
-Louisville, Kentucky — Harsh weather moved west on Monday as a polar vortex was expected to grip the Rockies and the northern Plains after winter storms pummeled the eastern United States over the weekend, killing at least 10 people, including nine victims in Kentucky who died during flooding from heavy rains.
+BISMARCK, N.D. — Harsh cold descended on the nation's midsection Monday as a polar vortex gripped the Rockies and Northern Plains on the heels of weekend storms that pummeled the Eastern U.S. with floods, killing at least 14 people.
 
 
-The National Weather Service warned of “life-threatening cold” into Tuesday, with temperatures in northeastern Montana predicted to dip as low as -42.7 degrees Celsius (45 degrees below zero) with wind chills down to -51 degrees Celsius (60 below).
+The National Weather Service warned of “life-threatening cold” as wind chills dropped to minus 51 Celsius in parts of North Dakota on Monday and minus 46 C in parts of Montana. Tuesday morning was forecast to be even colder.
 
 
-Meteorologists said several states would experience the 10th and coldest polar vortex event this season. Weather forces in the Arctic are combining to push the chilly air that usually stays near the North Pole into the U.S. and Europe.
+Extreme cold warnings were issued for an 11-state swath of the U.S. stretching from the Canadian border to Oklahoma and central Texas, where the Arctic front was expected to bring near-record cold temperatures and wind chills in the single digits by midweek.
 
 
-In Kentucky, Gov. Andy Beshear said Sunday that the death toll rose to nine.
+Meteorologists had predicted that parts of the U.S. would experience the 10th and coldest polar vortex event this season. Weather forces in the Arctic are pushing chilly air that usually stays near the North Pole into the U.S. and Europe.
 
 
-“I am sad to share some more tough news tonight, Kentucky. We just confirmed another weather-related death out of Pike County, bringing our total loss to 9 people.”
+Kentucky, Appalachia battered by flooding with at least 13 dead
+
+The death toll in flood-battered Kentucky rose to 12, Gov. Andy Beshear said Monday night. Two fatal vehicle crashes were connected to the severe weather, he said, and at least 1,000 people stranded by floods had to be rescued.
 
 
-Beshear had said earlier Sunday that at least 1,000 people stranded by floods had to be rescued. President Donald Trump approved Kentucky's request for a disaster declaration, authorizing the Federal Emergency Management Agency to coordinate relief efforts throughout the state.
+Parts of Kentucky and Tennessee received up to 15 centimeters of rain as severe storms swept across the South. Water submerged cars and buildings in Kentucky and mudslides blocked roads in Virginia.
 
 
-Beshear said most of the deaths, including a mother and 7-year-old child, were caused by cars getting stuck in high water.
+In West Virginia, where there was one confirmed fatality with several people still missing, Gov. Patrick Morrisey asked President Donald Trump to issue a disaster declaration for a 13-county region ravaged by flooding.
 
 
-“So folks, stay off the roads right now and stay alive,” he said.
+Near Logan, West Virginia, authorities responded Monday night to the spill of acidic water from an abandoned coal mine. The mine blowout damaged a road, making it impassable, fire officials said.
 
 
-Parts of Kentucky and Tennessee received up to 15 centimeters (6 inches) of rain, said Bob Oravec, a senior forecaster with the National Weather Service.
+In Atlanta, a person was killed when a large tree fell on a home early Sunday.
 
 
-“The effects will continue for a while, a lot of swollen streams and a lot of flooding going on,” Oravec said Sunday.
+Flood warnings were extended Monday across most of Kentucky and portions of Arkansas, Tennessee, Mississippi, Alabama, West Virginia, Virginia and Ohio.
 
 
-In Alabama, the weather service in Birmingham said it had confirmed an EF-1 tornado touched down in Hale County. Storms there and elsewhere in the state destroyed or damaged a handful of mobile homes, downed trees and toppled power lines, but no injuries were immediately reported.
+Extreme cold gives the U.S. a taste of the Arctic
+
+This is the coldest month of the year for many locations, and air temperatures may approach record lows in some areas, said National Weather Service meteorologist Jason Anglin in Bismarck.
 
 
-A state of emergency was declared for parts of Obion County, Tennessee, after a levee failed on Saturday, flooding the small community of Rives, home to around 300 people in the western part of the state. “There will be mandatory evacuations in effect for the residents in Rives due to the rising water, no electricity, and freezing temperatures creating a life-threatening situation,” Mayor Steve Carr said in a statement Sunday.
+People should cover exposed skin and limit time outside to avoid frostbite, which can happen in minutes in such low temperatures, Anglin said. Neighbors should check on each other and those who are vulnerable and monitor heater vents to make sure they don't ice up.
 
 
-In Atlanta, a person was killed when a large tree fell on a home early Sunday, according to Atlanta Fire Rescue Capt. Scott Powell.
+Due to the frigid conditions and a “lack of adequate heating fuel,” North Dakota Gov. Kelly Armstrong on Monday waived hours-of-service requirements for commercial-vehicle drivers hauling propane and petroleum products. The waiver is for 30 days.
 
 
-Dangerously cold wind chill temperatures as low as minus 45.6 (50 degrees below zero) were expected in most of North Dakota, which remained under an “extreme cold warning” along with large swaths of South Dakota and Minnesota, according to the weather service.
+The cold snap in North Dakota was expected to reduce oil production by about 5%, or about 50,000 to 80,000 barrels a day — pretty typical for such conditions, North Dakota Pipeline Authority Director Justin Kringstad said. It takes about a week once temperatures warm up for volumes to rebound, he said.
 
 
-Severe flooding
+Death can happen in minutes for animals in such cold, said Julie Schirado, a founder of the Bismarck-based Furry Friends Rockin' Rescue animal shelter. The shelter works with other rescues, and uses floor kennels, heated garages and basements to house animals, she said.
 
 
-Water submerged cars and buildings in Kentucky and mudslides blocked roads in Virginia over the weekend. Flood warnings extended throughout Tennessee and Arkansas.
+“We see death a lot but when the cold temperatures hit, then it's jumped up some more. We lose kittens, puppies that are out in this weather ... Frostbite can be wicked,” Schirado said. People should bring their pets indoors in extreme cold.
 
 
-The mother and child were swept away Saturday night in Kentucky’s Bonnieville community, Hart County Coroner Tony Roberts said. In southeastern Kentucky, a 73-year-old man was found dead in floodwaters in Clay County, county Emergency Management Deputy Director Revelle Berry said. There was a total of four deaths in Hart County, Beshear said.
+At the Dakota Zoo in Bismarck, which closed last weekend due to cold, critters such as bison, elk and bighorn sheep don't mind the temperatures as they munch food to stay warm and have shelters to enter, Director Terry Lincoln said. And staff are still out, breaking through ice for their water, he said.
 
 
-The Kentucky River Medical Center in the city of Jackson said it had closed its emergency department and transferred all patients to two other hospitals in the region due to a nearby river flooding.
-
-
-High winds brought down trees and power poles across Albemarle County, Virginia. The Charlottesville Police Department said Sunday on social media that officers’ response times could be delayed due to “an overwhelming number of weather-related calls for service.” Police urged residents to stay off the roads.
-
-
-Power outages were reported along much of the eastern seaboard, from New York south to Georgia.
-
-
-In West Virginia, 13 southern counties were under a state of emergency for flooding and some areas were cut off to vehicle traffic Sunday. Several volunteer fire departments dealt with flooding in their own buildings while answering rescue and evacuation calls.
-
-
-Parts of US hit with snowstorms, polar vortex on the way
-
-
-Ice and snow made road travel treacherous in large swaths of Michigan, which remained under a winter weather advisory until Monday afternoon. Michigan State Police reported 114 crashes Sunday around the Detroit area since snow started falling Saturday.
-
-
-“Fortunately, most were one-car spin outs and there were no serious injuries,” Michigan State Police said on X.
-
-
-Authorities in Colorado reported eight people were killed in fatal vehicle crashes since Valentine’s Day and warned drivers to be cautious as the weather made driving more difficult. The causes of the fatal crashes weren’t immediately known.
-
-
-Also in Colorado, three state patrol cruisers that had pulled over along roadsides were struck by other vehicles, including one on Sunday where a trooper had stopped as officials prepared to close a road because of ice. In each case the troopers were out of their cruisers at the time and were uninjured.
-
-
-Avalanche warnings were issued for numerous areas of the Rocky Mountains stretching from Colorado to Washington state, with the danger rated highest in Utah. 
+Lincoln, who lives at the zoo, said he walked to his office on Monday morning “and I had an ice-cream headache halfway there. You know it's cold when you have an ice cream headache without eating ice cream.” 
 
 <br> 
 
@@ -179,53 +838,76 @@ Without Washington and Lincoln, there arguably would have been no America to ref
 
 ---
 
-## Rubio visits Saudi Arabia as Israel, Hamas move closer to end of first phase of ceasefire
+## Rubio in Saudi Arabia for talks on fate of Gaza
 
 date: 2025-02-17, from: VOA News USA
 
-U.S. Secretary of State Marco Rubio was in Saudi Arabia on Monday as part of a tour of the region that includes a focus on the ceasefire between Israel and Hamas.
+U.S. Secretary of State Marco Rubio was in Saudi Arabia on Monday to discuss the ceasefire between Israel and Hamas and the fate of the Gaza Strip if the war is ended.
 
 
-Rubio was expected to meet with Saudi Crown Prince Mohammed bin Salman amid objections from Saudi Arabia and other Arab nations about U.S. President Donald Trump’s proposal to move Palestinians out of Gaza.
+The new top U.S. diplomat met with both Saudi Crown Prince Mohammed bin Salman and Foreign Minister Faisal bin Farhan.
 
 
-Trump has suggested the Palestinians would go to neighboring countries, with the United States taking over Gaza and redeveloping the territory.
+Their talks came after U.S. President Donald Trump’s call to move 2.3 million Palestinians out of Gaza into neighboring countries, with the United States then redeveloping the narrow territory along the Mediterranean Sea and taking ownership of it, a plan Saudi Arabia and other Arab nations oppose.
 
 
 
 
-Such a plan would seemingly eliminate Trump’s hopes of getting Saudi Arabia to normalize ties with Israel, a move Saudi officials have said will not happen unless there is a pathway for a Palestinian state.
+Rubio and the crown prince “underscored the importance of an arrangement for Gaza that contributes to regional security,” State Department spokeswoman Tammy Bruce said after the two officials met. She did not mention any discussion of the Trump proposal.
+
+
+Bruce said the two officials “reaffirmed their commitment to implementing the ceasefire in Gaza and ensuring that Hamas releases all hostages, including American citizens.”
+
+
+
+
+Arab nations, including Saudi Arabia, oppose Trump’s plan and continue to support the creation of an independent Palestinian state, including Gaza, to exist alongside Israel. For years, that also has been the U.S. stance but now seemingly is at odds with any call for U.S. ownership of the territory and removal of the Palestinians with no right for them to return once it is redeveloped.
+
+
+As such, Rubio has said Arab countries opposed to Trump’s Gaza proposal should offer their own alternative suggestions on how to rebuild the territory that has been decimated by 15 months of fighting between Israel and Hamas militants. The warring sides are now in a six-week truce that is tenuously holding but set to end in two weeks.
+
+
+Terms for the second phase of the ceasefire have yet to be reached.
+
+
+
+
+Meanwhile, the Israeli military said Monday its forces will remain in five strategic locations in southern Lebanon near the border after Tuesday’s deadline for their withdrawal under a ceasefire with the Hezbollah militant group. The move came as the region marked 500 days of unrest linked to the war in the Gaza Strip.
+
+
+Lebanon’s government and Hezbollah are opposed to any further delay in the Israeli troop withdrawal, which had already been postponed for three weeks.
+
+
+Earlier Monday, an Israeli drone attack struck a car in Lebanon’s southern port city of Sidon, the deepest attack inside Lebanese territory since the ceasefire took effect. Israel said it targeted Muhammad Shaheen, the head of Hamas’ operations in Lebanon. Footage circulating online showed a car engulfed in flames.
+
+
+Trump’s Gaza takeover plan would seemingly eliminate his hopes of getting Saudi Arabia to normalize ties with Israel, which Saudi officials have said will not happen unless there is a pathway for a Palestinian state.
 
 
 The United States fully endorsed Israel’s war aims in Gaza on Sunday, with Rubio saying that Hamas “must be eradicated” and "cannot continue as a military or government force."
 
 
-
-
-With the first phase of the ceasefire set to expire in two weeks, Rubio told Israeli Prime Minister Benjamin Netanyahu during a stop in Jerusalem that “as long as [Hamas] stands as a force that can govern or as a force that can administer or as a force that can threaten by use of violence, peace becomes impossible.”
+Rubio told Israeli Prime Minister Benjamin Netanyahu during a stop in Jerusalem that “as long as [Hamas] stands as a force that can govern or as a force that can administer or as a force that can threaten by use of violence, peace becomes impossible.”
 
 
 Echoing Trump, the Israeli leader said "the gates of hell would be open" if Hamas does not release dozens of remaining hostages abducted in its Oct. 7, 2023, attack that triggered the war.
 
 
-Hamas, a U.S.-designated terrorist group, freed three hostages Saturday in exchange for nearly 400 Palestinians who had been jailed in Israel. But the militants continue to hold dozens of hostages they captured in the terror attack that killed 1,200 people.
 
 
-Israel’s counteroffensive during 15 months of fighting in Gaza has killed more than 48,200 Palestinians, according to the territory's health ministry, which does not distinguish between combatants and civilians. Israel says it has killed over 17,000 militants.
+Hamas, a U.S.-designated terrorist group, freed three hostages on Saturday in exchange for nearly 400 Palestinians who had been jailed in Israel. But the militants continue to hold dozens of hostages they captured in the terror attack that killed 1,200 people.
 
 
+Israel’s counteroffensive during the war with Hamas has killed more than 48,200 Palestinians, according to the territory's Health Ministry, which does not distinguish between combatants and civilians. Israel, without offering evidence, said it has killed over 17,000 militants.
 
 
-The tentative second phase of the ceasefire plan calls for Hamas to release dozens of remaining hostages in exchange for more Palestinian prisoners, drafting of a permanent truce and the withdrawal of Israeli forces. But the detailed terms of the deal have yet to be negotiated.
+The tentative second phase of the ceasefire plan calls for Hamas to release dozens of remaining hostages in exchange for more Palestinian prisoners, the drafting of a permanent truce and the withdrawal of Israeli forces. But the detailed terms of the deal have yet to be negotiated.
 
 
 During his tour of the region, Rubio was not scheduled to meet with any Palestinian officials.
 
 
-Egypt says it is hosting an Arab summit on February 27, and is working with other countries on a counterproposal that would allow for Gaza to be rebuilt without removing its population. Human rights groups say the expulsion of Palestinians would likely violate international law.
-
-
-Arab nations have long called for creation of an independent Palestinian state to exist alongside Israel, which the U.S. has also supported. But Netanyahu opposes a two-state solution and U.S. ownership of Gaza also would likely end the possibility of a Palestinian state encompassing Gaza and the Israeli-occupied West Bank.
+Egypt says it is hosting an Arab summit on Feb. 27 and is working with other countries on a counterproposal that would allow for Gaza to be rebuilt without removing its population. Human rights groups say the expulsion of Palestinians would likely violate international law.
 
 
 Egypt has warned that any mass influx of Palestinians from Gaza would undermine its nearly half-century-old peace treaty with Israel, a cornerstone of American influence in the region.
@@ -564,6 +1246,8 @@ A shift to consumerism
 
 
 By the late 1960s, Washington’s Birthday was one of nine federal holidays that fell on specific dates on different days of the week, according to a 2004 article in the National Archives’ Prologue magazine.
+
+
 
 
 Congress voted to move some of those to Mondays, following concerns that were in part about absenteeism among government workers when a holiday fell midweek. But lawmakers also noted clear benefits to the economy, including boosts in retail sales and travel on three-day weekends.

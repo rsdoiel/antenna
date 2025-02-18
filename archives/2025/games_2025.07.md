@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-17 07:08:36
+updated: 2025-02-18 07:09:37
 ---
 
 # games
 
-(date: 2025-02-17 07:08:36)
+(date: 2025-02-18 07:09:37)
+
+---
+
+## Like A Dragon: Pirate Yakuza is so much more than a silly diversion
+
+date: 2025-02-18, updated: 2025-02-17, from: Polygon Website
+
+Since 2018, Like a Dragon (formerly Yakuza) has been undergoing a total brand transformation, moving away from its singular focus on Japan’s most famous criminal underworld organization and toward something less dour and po-faced. Like a Dragon: Infinite Wealth was a cheerful, determined celebration of the new series paradigm via Ichiban Kasuga and his merry [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/524493/like-a-dragon-pirate-yakuza-in-hawaii-review>
+
+---
+
+## Discoveries
+
+date: 2025-02-18, updated: 2025-02-17, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## What is the best background for you in Avowed?
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+Your background in Avowed is the baseline on which you’ll role-play for the duration of the game. Each background has unique dialogue choices, and also affects other parts of the early game in minor ways, including your weapon and your attribute points (but no bearing on your class). In this Avowed guide, we’ll explain what [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/521930/background-choice-all-starting-weapons-stats>
+
+---
+
+## The best class abilities to pick first in Avowed
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+You don’t choose a class in Avowed the way you would in typical fantasy RPG. Rather, your class is defined by the abilities you choose to invest in. There are three classes of ability trees in Avowed: fighter, ranger, and wizard (which correlate respectively to archetypical warrior, rogue, and mage classes). Fairly early on, you’re [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524636/best-abilities-class-trees-skills>
+
+---
+
+## Pokémon Go ‘Dual Destiny’ Special Research Tasks and rewards
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+Pokémon Go’s “Dual Destiny” season has begun, lasting from Dec. 3, 2024, until March 4, 2025. This means that there’s a new set of Special Research to complete, though all the steps won’t be immediately available. The steps will likely be themed around different events that occur during the season, so while you may only [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/489955/dual-destiny-special-research-tasks-rewards>
+
+---
+
+## ‘A New Age Begins’ for Critical Role. Let’s hope it’s one for actual play and TTRPGs, too
+
+date: 2025-02-18, updated: 2025-02-14, from: Polygon Website
+
+How you feel about the finale of Critical Role’s third main campaign hinges a lot on what you think Critical Role — and actual play, and maybe even TTRPGs — is about. Is it an extended worldbuilding exercise? Is it a story told? Is it a game played? Is it just… content made by your [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/critical-role/524508/actual-play-review-end-ttrpgs>
+
+---
+
+## Can Inkay be shiny in Pokémon Go?
+
+date: 2025-02-18, updated: 2025-02-13, from: Polygon Website
+
+Inkay, the revolving Pokémon from Kalos, can be found in the wild in Pokémon Go. Yes, Inkay can be shiny in Pokémon Go! While neither of this Pokémon have use in PvP content, Malamar is actually used in both Great and Ultra League PvP, so it may be worth grabbing some with decent IVs to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/523534/can-inkay-be-shiny-malamar>
+
+---
+
+## Monster Hunter Wilds collaboration coming to Monster Hunter Now, including new monster
+
+date: 2025-02-18, updated: 2025-02-17, from: Polygon Website
+
+Capcom and Niantic’s augmented reality game Monster Hunter Now is to receive a Monster Hunter Wilds-themed update tied to that game’s release date of Feb. 28. The headline is the addition of monster Chatacabra, a large-tongued amphibian familiar to those who have sampled the Monster Hunter Wilds beta, with its own armor set to unlock [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/524676/monster-hunter-wilds-now-chatacabra-collaboration>
+
+---
+
+## Reacher season 3, Your Friendly Neighborhood Spider-Man finale, and more new TV this week
+
+date: 2025-02-17, updated: 2025-02-14, from: Polygon Website
+
+It’s a short week (if you’re in the United States and enjoying the holidays, anyway) but a big TV one. Last night was the new season of The White Lotus, which, unsurprisingly, makes a getaway look like a nightmare; can’t wait to watch more! Also returning is Severance, which continues to build the dread and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/517722/new-netflix-reacher-spider-man-de-niro>
+
+---
+
+## What time does Avowed release on Game Pass and Steam?
+
+date: 2025-02-17, updated: 2025-02-17, from: Polygon Website
+
+Avowed launches on Windows PC and Xbox Series X on Tuesday, Feb. 18, following five days of early access for those who picked up the game’s premium editions. The standard edition of Avowed will be available on Game Pass. Set in the Pillars of Eternity universe of Eora, Avowed sends you on an adventure around [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/521374/release-time-early-access-game-pass-est-pst>
 
 ---
 
