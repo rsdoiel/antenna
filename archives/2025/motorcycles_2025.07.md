@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-02-18 07:09:38
+updated: 2025-02-18 19:00:39
 ---
 
 # motorcycles
 
-(date: 2025-02-18 07:09:38)
+(date: 2025-02-18 19:00:39)
+
+---
+
+## New Backcountry SOS Service Will Supposedly Save You Thousands in Rescue Bills
+
+date: 2025-02-18, from: Ride Apart, Electric Motorcycle News
+
+Is this too good to be true? 
+
+<br> 
+
+<https://www.rideapart.com/news/750800/overwatch-x-rescue-sos-backcountry-insurance-service/>
+
+---
+
+## Ducati New XDiavel V4 Pushes It That Much Closer to a Harley
+
+date: 2025-02-18, from: Ride Apart, Electric Motorcycle News
+
+BROTHER! But make it Italian.  
+
+<br> 
+
+<https://www.rideapart.com/news/750806/ducati-xdiavel-v4-harley-davidson-cruiser-motorcycle/>
 
 ---
 

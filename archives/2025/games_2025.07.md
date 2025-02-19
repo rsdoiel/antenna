@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-18 07:09:37
+updated: 2025-02-18 19:00:38
 ---
 
 # games
 
-(date: 2025-02-18 07:09:37)
+(date: 2025-02-18 19:00:38)
+
+---
+
+## Magic’s first batch of Final Fantasy cards are here, and they look amazing
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+It’s a year of change for Magic: The Gathering in 2025, as the beloved brand makes a seismic shift in how it delivers its unique narrative beats to its most devoted fans. There will only be three Magic Multiverse-themed sets each year going forward, down from four. Filling the gap is the wildly popular Universes [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/525299/final-fantasy-preview-cards-first-look-magiccon-chicago>
+
+---
+
+## Where to pre-order Magic: The Gathering &#8211; Final Fantasy
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+Final Fantasy is the next great collaboration coming to Magic: The Gathering. While this new set featuring characters and settings from the Square Enix franchise isn’t due to arrive until June 13, you can already pre-order some products from select retailers. The list of products available to pre-order for this new collection are listed below. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/524867/magic-gathering-mtg-final-fantasy-where-to-buy>
+
+---
+
+## Skibidi Toilet studio looking to flush out imitators in court
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+Have the words “Skidibi Toilet” ever been uttered in court? That’s unlikely — and changing soon. Invisible Narratives, the entertainment company making a Skibidi Toilet movie and TV series with Michael Bay, filed a lawsuit in California on Friday alleging that a company of “professional scam artists and extortionists” is trying to “steal” the Skibidi [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/524984/skibidi-toilet-lawsuit-copyright>
+
+---
+
+## ‘This is such a weird industry’: Marvel Rivals lays off NA-based team amid explosive success
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+Marvel Rivals is easily one of the most popular games this year, drawing hundreds of thousands of players on Steam alone. And yet it&#8217;s developer NetEase has laid off a team who worked on the game out of its Seattle-based studio. Game director Thaddeus Sasser wrote a post on LinkedIn about the layoffs, which specifically [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/525114/marvel-rivals-layoffs-director-netease-games>
+
+---
+
+## All Totem of Rightful Rulership locations in Avowed
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+The Totem of Rightful Rulership is one of Avowed’s four god totems — collectibles that grant boons based on how many pieces you find. The Totem of Rightful Rulership is the god totem for the Dawnshore region. All seven fragments of the Totem of Rightful Rulership are hidden throughout Dawnshore and its capital, Paradis. As [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524786/totem-rightful-rulership-locations-pieces-all-dawnshore>
+
+---
+
+## How to use My Nintendo Gold Points on the Nintendo Switch
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+My Nintendo Gold Points is a kind of virtual currency that you can earn from select purchases of games and DLC via the Nintendo Switch eShop and other physical Nintendo products. Nintendo announced in February that the Nintendo eShop will no longer award My Nintendo Gold Points for purchases starting on March 24. This guide [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/523749/my-nintendo-gold-points-how-to-spend>
+
+---
+
+## Twitch’s Hasan Piker wants fellow leftists to know: having fun isn’t ‘bourgeois decadence’
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+Games journalist Nathan Grayson, founder of Aftermath where he also currently works as a reporter, has a new book out Feb. 18 that spotlights nine different Twitch creators — their fandoms, how they got their start, and the culture of livestreaming that surrounds each of them. You can read an excerpt below of Stream Big: [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/twitch/524860/stream-big-book-excerpt-hasan-hasanabi-piker>
+
+---
+
+## The 2025 D&#038;D Monster Manual is now available
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+The 2025 Monster Manual is the final member of the revised trifecta of core rulebooks for Dungeons &#38; Dragons, and is currently available to purchase. While not mandatory for running a fifth-edition game of Dungeons &#38; Dragons, the new Monster Manual introduces some changes to streamline this reference text, including making it easier to scale [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/524790/dungeons-dragons-dnd-monster-manual-revised-2025-where-to-buy>
+
+---
+
+## A new Umbrella Academy comic will finally deliver the anticipated Sparrow arc
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+The Umbrella Academy comics are set to return this summer, six years after the last issue was published. Out June 11, The Umbrella Academy: Plan B will be co-written by Gerard Way and Gabriel Bá, who will also illustrate. Per the official description first reported by Variety, the comic will go deep on the dynamic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/525062/new-umbrella-academy-comic-plan-b>
+
+---
+
+## Discoveries
+
+date: 2025-02-18, updated: 2025-02-18, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 
@@ -18,18 +138,6 @@ Since 2018, Like a Dragon (formerly Yakuza) has been undergoing a total brand tr
 <br> 
 
 <https://www.polygon.com/review/524493/like-a-dragon-pirate-yakuza-in-hawaii-review>
-
----
-
-## Discoveries
-
-date: 2025-02-18, updated: 2025-02-17, from: Polygon Website
-
-At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 

@@ -1,11 +1,730 @@
 ---
 title: north america
-updated: 2025-02-18 07:09:35
+updated: 2025-02-18 19:00:36
 ---
 
 # north america
 
-(date: 2025-02-18 07:09:35)
+(date: 2025-02-18 19:00:36)
+
+---
+
+## This program helped Afghan women learn to drive. Then Trump cut refugee resettlement.
+
+date: 2025-02-19, from: Market Place
+
+Organizations that help newcomers have started to cut programs and lay off staff due to the loss of funding. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/refugee-women-drive-driving-lessons-houston-texas-ymca-class-program/>
+
+---
+
+## Judge won't block Musk, DOGE from federal data, layoffs
+
+date: 2025-02-19, from: VOA News USA
+
+WASHINGTON — A federal judge refused Tuesday to immediately block billionaire Elon Musk and the Department of Government Efficiency from accessing government data systems or participating in worker layoffs. 
+
+
+U.S. District Judge Tanya Chutkan found that there are legitimate questions about Musk's authority but said there isn't evidence of the kind of grave legal harm that would justify a temporary restraining order. 
+
+
+The decision came in a lawsuit filed by 14 Democratic states challenging DOGE's authority to access sensitive government data. The attorneys general argued that Musk is wielding the kind of power that the Constitution says can only be held by those who are elected or confirmed by the Senate. 
+
+
+The Trump administration, for its part, has maintained that layoffs are coming from agency heads, and asserted that despite his public cheering of the effort, Musk isn't directly running DOGE's day-to-day operations himself. 
+
+
+DOGE has tapped into computer systems across multiple agencies with the blessing of President Donald Trump, digging into budgets and searching for what he calls waste, fraud and abuse, even as a growing number of lawsuits allege DOGE is violating the law. 
+
+
+Chutkan recognized the concerns of the group of states, which include New Mexico and Arizona. 
+
+
+"DOGE's unpredictable actions have resulted in considerable uncertainty and confusion," she wrote. Their questions about Musk's apparent "unchecked authority" and lack of Congressional oversight for DOGE are legitimate and they may be able to successfully argue them later. 
+
+
+Still, at this point, it remains unclear exactly how DOGE's work will affect the states, and judges can only issue court only issue orders to block specific, immediate harms, she found. 
+
+
+Chutkan, who was nominated by Democratic President Barack Obama, previously oversaw the now-dismissed criminal election interference case against Trump in Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/judge-won-t-block-musk-doge-from-federal-data-layoffs-/7979818.html>
+
+---
+
+## Trump signs order to study how to make IVF more accessible, affordable
+
+date: 2025-02-19, from: VOA News USA
+
+WEST PALM BEACH, FLORIDA — U.S. President Donald Trump on Tuesday signed an executive order to study how to expand access to in vitro fertilization and make it more affordable. 
+
+
+The order calls for policy recommendations to "protect IVF access and aggressively reduce out-of-pocket and health plan costs for such treatments," according to the White House. On the campaign trail, Trump called for universal coverage of IVF treatment after his Supreme Court nominees helped to overturn Roe v. Wade, leading to a wave of restrictions in Republican-led states, including some that have threatened access to IVF by trying to define life as beginning at conception. 
+
+
+Trump, who was at his Florida residence and club Mar-a-Lago, also signed another executive order and a presidential memorandum. The second executive order outlined the oversight functions of the Office of Management and Budget, while the presidential memorandum called for more transparency from the government, according to White House staff secretary Will Scharf, who Trump called to the podium to detail the orders. 
+
+
+The order called for "radical transparency requirements" for the government, requiring it to detail the "waste, fraud and abuse" that's found as the Department of Government Efficiency, overseen by Elon Musk, looks to cut government spending. 
+
+
+DOGE has often fallen short of the administration's promises of transparency. Musk has taken questions from journalists only once since becoming Trump's most powerful adviser, and he's claimed it's illegal to name people who are working for him. Sometimes DOGE staff members have demanded access to sensitive government databases with little explanation. 
+
+
+According to a fact sheet provided by the White House, Trump's IVF order will focus on prioritizing whether there are any current policies "that exacerbate the cost of IVF treatments." 
+
+
+Last year, Trump declared public support for IVF after the Alabama Supreme Court ruled that frozen embryos can be considered children under state law. The decision, which some Republicans and conservatives cheered, touched off immediate backlash. 
+
+
+Families 'appreciative,' says Trump
+
+
+On the campaign trail, IVF quickly became a talking point for Trump, who said he strongly supports its availability. 
+
+
+In vitro fertilization offers a possible solution when a woman has trouble getting pregnant. The procedure involves retrieving her eggs and combining them in a lab dish with a man's sperm to create a fertilized embryo, which is then transferred into the woman's uterus in an attempt to create a pregnancy. IVF is done in cycles, and more than one may be required. 
+
+
+"I think the women and families, husbands, are very appreciative of it," Trump said in brief remarks on the order, before he took questions on a variety of topics. 
+
+
+Trump, who spent the morning at his golf club in West Palm Beach, Florida, spoke to reporters hours before his first joint TV interview with adviser Elon Musk airs in prime time. 
+
+
+Trump and Musk gave their first joint interview to Sean Hannity of Fox News Channel. The interview was taped on Friday at the White House and is set to air as Musk leads Trump's effort to cut federal spending and slash the federal workforce. 
+
+
+Musk has drawn criticism from Democrats in Congress and others for the methods he and his team at DOGE are using to cut spending, including foreign aid, and eliminate jobs across the bureaucracy. 
+
+
+The Fox News interview also follows Musk's appearance with Trump in the Oval Office last week, when both defended Musk's approach to federal cost-cutting. 
+
+
+In an excerpt from the interview that Fox News released on Sunday, Musk said he "used to be adored by the left" but "less so these days" because of the work he's doing at Trump's direction. 
+
+
+"They call it Trump derangement syndrome. You don't realize how real this is until you can't reason with people," Musk said, adding that normal conversations with Democrats about the president are difficult because "it's like they've become completely irrational." 
+
+
+Event celebrates 'American Exceptionalism'
+
+
+Trump's Mar-a-Lago Club is the setting Tuesday night for an awards program by America's Future, a conservative group led by Mike Flynn, who briefly served as national security adviser in the Republican president's first term. The program aims to preserve individual rights and promote American values and traditions, according to its website. The event, called Celebrate American Exceptionalism 2025, will honor one member from the Army, the Navy, the Marines, the Air Force and the Space Force. 
+
+
+The event includes a poolside reception, musical performances and dinner in Mar-a-Lago's Grand Ballroom, where other award presentations are expected from a lineup that includes such names as comedian Russell Brand, singer Ted Nugent and former pro boxer Mike Tyson. 
+
+
+It's unclear whether Trump will participate in the event. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-signs-order-to-study-how-to-make-ivf-more-accessible-affordable/7979778.html>
+
+---
+
+## Evening Roundup
+
+date: 2025-02-19, from: The Contrarian
+
+February 18: Featuring Arianna Berg on Mayor Adams, Jen Rubin & Steven Cook on transatlantic relations, David Bernell & Thomas Graham on our surrender to Putin, and Max Stier on the federal workforce 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-6bc>
+
+---
+
+## US Postal Service head to step down after 5 years
+
+date: 2025-02-18, from: VOA News USA
+
+Louis DeJoy, the head of the U.S. Postal Service, intends to step down, the federal agency said Tuesday, after a nearly five-year tenure marked by the coronavirus pandemic, surges in mail-in election ballots and efforts to stem losses through cost and service cuts.
+
+
+In a Monday letter, Postmaster General DeJoy asked the Postal Service Board of Governors to begin looking for his successor.
+
+
+"As you know, I have worked tirelessly to lead the 640,000 men and women of the Postal Service in accomplishing an extraordinary transformation," he wrote. "We have served the American people through an unprecedented pandemic and through a period of high inflation and sensationalized politics."
+
+
+DeJoy took the helm of the Postal Service in the summer of 2020 during President Donald Trump's first term. He was a Republican donor who owned a logistics business before taking office and was the first postmaster general in nearly two decades who was not a career postal employee.
+
+
+DeJoy developed a 10-year plan to modernize operations and stem losses. He previously said that postal customers should get used to "uncomfortable" rate hikes as the Postal Service seeks to stabilize its finances and become more self-sufficient.
+
+
+The plan calls for making the mail delivery system more efficient and less costly by consolidating mail processing centers. Critics, including members of Congress from several states, have said the first consolidations slowed service and that further consolidations could particularly hurt rural mail delivery.
+
+
+DeJoy has disputed that and told a U.S. House subcommittee during a contentious September hearing that the Postal Service had embarked on long-overdue investments in facilities and making other changes to create "a Postal Service for the future" that delivered mail more quickly.
+
+
+DeJoy also oversaw the Postal Service during two presidential elections that saw spikes in mail-in ballots.
+
+
+Ahead of the 2020 presidential election, a federal judge limited one of the Postal Service's cost-cutting practices after finding it contributed to delays in mail delivery.
+
+
+DeJoy had restricted overtime payments for postal workers and stopped the agency's longtime practice of allowing late and extra truck deliveries in the summer of 2020. The moves reduced costs but meant some mail was left to be delivered the following day.
+
+
+DeJoy said in his letter that he was committed to being "as helpful as possible in facilitating a transition." 
+
+<br> 
+
+<https://www.voanews.com/a/us-postal-service-head-to-step-down-after-5-years-/7979825.html>
+
+---
+
+##  “Nixonian Behavior On Steroids” 
+
+date: 2025-02-18, from: The Lever News
+
+ John Dean, famous Watergate whistleblower, speaks with David Sirota about Trump’s grab for unitary executive power.  
+
+<br> 
+
+<https://www.levernews.com/nixonian-behavior-on-steroids/>
+
+---
+
+## How will tariffs affect inflation?
+
+date: 2025-02-18, from: Market Place
+
+Taxes on goods the U.S. imports will affect what consumers pay, but will we see one-time price hikes or a more persistent form of inflation? 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/how-will-tariffs-affect-inflation-fed-consumers-raises/>
+
+---
+
+## Should we be worried about bird flu?
+
+date: 2025-02-18, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Today we&#8217;re talking about bird flu. It&#8217;s infecting flocks of chickens, causing egg prices to rise across the country, plus herds of dairy cattle and people are getting sick too. And all of this is happening amid sweeping changes at U.S. federal health agencies. The Trump administration has ordered <a href="https://www.cbsnews.com/news/cdc-disease-detectives-doge-cuts-health-agencies/">mass firings</a> and <a href="https://www.npr.org/sections/shots-health-news/2025/02/13/nx-s1-5297177/cdc-scientists-publications-trump-administration">limits on public communications</a> at agencies including the Centers for Disease Control, hindering its ability to keep the public informed. On the show today,  Jessica Malaty Rivera, an epidemiologist and science communicator explains the scale of the current bird flu outbreak, how the response in the United States has been disrupted by chaos in the federal government, and why state health systems may struggle to fill the gaps after years of underfunding.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Plus, for one listener, doing something is better than nothing. And, another listener shares how they changed their mind about the value of government work.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://kffhealthnews.org/news/article/cdc-data-analyses-missing-mmwr-bird-flu-seasonal-influenza/" target="_blank" rel="noreferrer noopener">&#8220;Urgent CDC Data and Analyses on Influenza and Bird Flu Go Missing as Outbreaks Escalate&#8221;</a> from KFF Health News</li>
+<li><a href="https://www.fiercehealthcare.com/regulatory/mass-layoffs-hhs-cdc-cuts-1300-probationary-workers-reports-say" target="_blank" rel="noreferrer noopener">&#8220;Mass firings at HHS: Thousands impacted across federal health agencies including CMS, FDA&#8221;</a> from Fierce Healthcare</li>
+<li><a href="https://www.washingtonpost.com/health/2025/02/13/robert-kennedy-hhs-secretary-confirmation-vote/" target="_blank" rel="noreferrer noopener">&#8220;RFK Jr. confirmed, elevating anti-vaccine activist to nation’s top health post&#8221;</a> from The Washington Post</li>
+<li><a href="https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html" target="_blank" rel="noreferrer noopener">&#8220;How Trump’s Medical Research Cuts Would Hit Colleges and Hospitals in Every State&#8221;</a> from The New York Times</li>
+<li><a href="https://publichealth.jhu.edu/2025/the-consequences-of-the-us-withdrawal-from-the-who" target="_blank" rel="noreferrer noopener">&#8220;The U.S. and the WHO: An Imperfect but Essential Relationship&#8221;</a> from Johns Hopkins</li>
+</ul>
+<p>What&#8217;s something you thought you knew but later found out you were wrong about? Email <a href="mailto:makemesmart@marketplace.org" target="_blank" rel="noreferrer noopener">makemesmart@marketplace.org</a> or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/18/mms_20250218_021825_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fshould-we-be-worried-about-bird-flu&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/18/mms_20250218_021825_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fshould-we-be-worried-about-bird-flu&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/should-we-be-worried-about-bird-flu>
+
+---
+
+## Samsung bought back $2 billion of its own shares. Now it’s canceling them entirely.
+
+date: 2025-02-18, from: Market Place
+
+It's a way for companies to boost the value of their shares. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/samsung-bought-back-2-billion-of-its-own-shares-now-its-canceling-them-entirely/>
+
+---
+
+## More than 170 migrants now detained at Guantanamo Bay
+
+date: 2025-02-18, from: VOA News USA
+
+WASHINGTON — The United States has more than doubled the number of detainees — both those deemed to be a "high threat" as well as others slated for deportation — at the U.S. naval base at Guantanamo Bay, Cuba. 
+
+
+As of Tuesday, there were more than 120 of what the administration calls "criminal aliens" under guard at the detention facility at Guantanamo Bay, according to a U.S. defense official.  
+
+
+Approximately 50 other individuals are also being held at the base's migrant facility, which was being readied to hold nonviolent individuals.  
+
+
+Separately, a second U.S. defense official told VOA that as of Monday, the U.S. military had sent a total of 13 flights of undocumented migrants to Guantanamo aboard a mix of C-17 and C-130 military cargo jets. 
+
+
+So far, none of the detainees brought to the facilities at Guantanamo Bay have been deported to other countries. 
+
+
+Both officials spoke to VOA on the condition of anonymity in order to discuss details of the military's deportation operation. 
+
+
+VOA has also reached out to the Department of Homeland Security, which is spearheading the U.S. deportation efforts, as well as Immigration and Customs Enforcement, about the growing number of detainees. 
+
+
+Last Thursday, the commander of U.S. Southern Command, which oversees operations at the naval base at Guantanamo Bay, told lawmakers there were about 68 detainees at the base's prison facility. 
+
+
+Admiral Alvin Holsey also told lawmakers that the base's migrant facility had the capacity to hold about 2,500 nonviolent detainees. Efforts are underway to allow it house as many as 30,000 nonviolent migrants slated for deportation.  
+
+
+
+
+Holsey said that it was too soon to determine how much it will cost to house the growing number of individuals.  
+
+
+"We're working with DHS to understand the flow of migrants," he said during Thursday's hearing before the Senate Armed Services Committee. "We're not going to go to 30,000 unless we know that migrant flow will come. So, we're waiting at this point."    
+
+
+Details about the growing population of detainees at the U.S. naval base in Cuba come just a day after the Department of Homeland Security unveiled what it described as a multimillion-dollar ad campaign warning migrants not to enter the U.S. illegally. 
+
+
+"If you are considering entering America illegally, don't even think about it," Homeland Security Secretary Kristi Noem said in a video targeting an international audience. 
+
+
+"If you come to our country and you break our laws, we will hunt you down," she said. "Criminals are not welcome in the United States." 
+
+
+Noem, who visited the prison facility last Friday and oversaw the transfer of a third flight of detainees to the detention center, has repeatedly described the men as "murderers and vicious gang members" from Venezuela and as "the worst of the worst."   
+
+
+In one social media post, Noem said that at least one of the migrants sent to Guantanamo Bay had confessed to murder, while others were wanted for attempted murder, assault, weapons trafficking and impersonation. 
+
+
+One official, speaking to VOA on the condition of anonymity to discuss the deportation efforts, said that all of the individuals held at Guantanamo Bay have been issued final deportation orders. But DHS has not yet provided charging documents or other details regarding the crimes the detainees are accused of committing.   
+
+
+
+
+Last Wednesday, the American Civil Liberties Union, along with several immigration rights groups, filed a lawsuit against DHS, alleging the detainees being held at the Guantanamo Bay prison facility have been improperly denied access to lawyers.  
+
+
+DHS has dismissed the lawsuit's allegations.  
+
+
+"There is a system for phone utilization to reach lawyers," said a senior Homeland Security official in a written statement shared with VOA.  
+
+
+"If the AMERICAN Civil Liberties Union cares more about highly dangerous criminal aliens including murderers & vicious gang members than they do about American citizens — they should change their name," the official added, responding to the lawsuit only on the condition of anonymity. 
+
+<br> 
+
+<https://www.voanews.com/a/more-than-170-migrants-now-detained-at-guantanamo-bay/7979741.html>
+
+---
+
+## “Stream Big” looks at the challenges of making it as a Twitch streamer
+
+date: 2025-02-18, from: Market Place
+
+Many Twitch streamers with a following fear their fans will move on with little warning, says author Nathan Grayson. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/stream-big-looks-at-the-challenges-of-making-it-as-a-twitch-streamer/>
+
+---
+
+## How low can unemployment go?
+
+date: 2025-02-18, from: Market Place
+
+Unemployment was at 4.0% in January 2025. Since WWII, it's never gone lower than 2.5% — which it reached for two months, in 1953. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/how-low-can-unemployment-go/>
+
+---
+
+## Holding the Line
+
+date: 2025-02-18, from: The Contrarian
+
+Why it matters that career prosecutors resigned in the Mayor Adams case 
+
+<br> 
+
+<https://contrarian.substack.com/p/holding-the-line>
+
+---
+
+## What the Last Four Weeks have Wrought
+
+date: 2025-02-18, from: The Contrarian
+
+Max Stier reminds us of the damage done to the federal workforce and the cost we will pay 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-the-last-four-weeks-have-wrought>
+
+---
+
+## Rubio snubs South Africa's G20 meeting amid diplomatic tensions
+
+date: 2025-02-18, from: VOA News USA
+
+Johannesburg  — South Africa will host a meeting of foreign ministers from the G20 group of major economies later this week, but the chief diplomat for the world’s largest economy, the U.S., is skipping it.
+
+
+Secretary of State Marco Rubio announced on X earlier this month that he would not attend the meeting, taking place Thursday and Friday in Johannesburg, because he objected to the meeting’s agenda, which he described as anti-American.
+
+
+
+
+He said South Africa was “using G20 to promote ‘solidarity, equality, & sustainability.’ In other words: DEI and climate change. My job is to advance America’s national interests, not waste taxpayer money or coddle anti-Americanism.”
+
+
+DEI is short for Diversity, Equity and Inclusion, and in President Donald Trump’s first week in the White House, he signed an executive order to end DEI policies and hiring practices in the federal workforce.
+
+
+“I think the whole topic of the G20 gathering is one that I don’t think we should be focused on, talking about global inclusion, equity, and these sorts of things,” Rubio later told the press.
+
+
+He continued by saying the forum should be focused on issues “like terrorism and energy security and the real threats to the national security of multiple countries.”
+
+
+The G20 is a group of the world’s 19 major individual economies as well as the EU and African Union. This year marks the first time an African country is in the rotating presidency position of the G20.
+
+
+While Rubio will not attend, the South African government has confirmed the U.S. will still have a presence at the meeting, likely at a lower level.
+
+
+South Africa’s Department of International Relations and Cooperation responded to Rubio in a statement saying: “Our G20 Presidency, is not confined to just climate change but also equitable treatment for nations of the Global South, ensuring an equal global system for all.”
+
+
+Ronald Lamola, minister of international relations and cooperation, told local TV that the meeting’s agenda had been adopted by all members of the G20 and carries on the themes from previous summits, such as the one in Brazil last year.
+
+
+Deteriorating relations
+
+
+Even before the announcement that Rubio would not be taking part in the foreign ministers’ meeting, there had been a swift deterioration in U.S.-South Africa relations under the new administration in Washington.
+
+
+President Trump accused South Africa’s government of engaging in land grabs and mistreating white minority Afrikaners. He cut U.S. financial assistance to the country.
+
+
+While the South African government did pass a controversial land reform law earlier this year, no land has been seized. The white minority is still one of the country’s most privileged communities and owns the majority of private farmland.
+
+
+
+
+Response from other G20 members
+
+
+Several other nations were quick to affirm their attendance at the meeting after Rubio said he will not attend.
+
+
+Those included EU members Germany, Italy and France, whose ambassadors to South Africa posted a joint video on X saying they were “united in diversity” and shared the South African government’s democratic values.
+
+
+
+
+Russia also confirmed Foreign Minister Sergey Lavrov will attend.
+
+
+“The priorities stated by the South African presidency are designed to encourage economic growth, reduce inequality and imbalances, and ensure equitable access to financing for countries in the Global South.,” said Russian foreign ministry spokesperson Maria Zakharova.
+
+
+China likewise confirmed its commitment to the meeting, with ambassador to South Africa Wu Peng meeting foreign minister Lamola just after Rubio’s announcement and posting on X: “I also expressed China's readiness to support South Africa's G20 Presidency.”
+
+
+
+
+Last week, Chinese foreign ministry spokesman Guo Jiakun, said in a press briefing,
+
+
+“China stands ready to work with all parties to make this meeting a productive one, and send a strong message of supporting multilateralism, strengthening solidarity and cooperation, and jointly responding to global challenges,” he said.
+
+
+Analysts weigh in
+
+
+Political analysts said Rubio’s absence could provide space for countries hostile to the U.S. to advance their agendas.
+
+
+“Will we see the increase of countries like Russia and China pushing their lines, their issues, their perspectives in the absence of the US? That’s entirely possible,” Steven Gruzd, from the South African Institute of International Affairs, told VOA.
+
+
+Brooks Spector, a retired U.S. diplomat, said Rubio’s boycott of the meeting was “a serious misstep.”
+
+
+“You get to make your points at a meeting, boycotting it simply means your voice is not heard,” he said. “Calling the meeting “anti-American” is a misunderstanding of the nature of bilateral, international and multi-lateral discussions.”
+
+
+However, he said he expected Trump would likely still attend the major G20 summit in South Africa in November. In December, the U.S. will take on the presidency of the G20. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-snubs-south-africa-s-g20-meeting-amid-diplomatic-tensions/7979557.html>
+
+---
+
+## Jen Rubin and Steven Cook on America's transatlantic relations 
+
+date: 2025-02-18, from: The Contrarian
+
+Jen Rubin interviews Steven Cook about Secretary of Defense Pete Hegseth and Vice President J.D. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157399025/ba783e613a8c669d05fc1123cb0b1e8f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157399025/ba783e613a8c669d05fc1123cb0b1e8f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-steven-cook-on-americas>
+
+---
+
+##  Killing The Mother Of Environmental Laws 
+
+date: 2025-02-18, from: The Lever News
+
+ The Trump admin just moved to defang NEPA — the law that lets communities protect themselves from polluters.  
+
+<br> 
+
+<https://www.levernews.com/trump-moves-to-gut-environmental-magna-carta-2/>
+
+---
+
+## Trump’s Funding and Hiring Freezes Leave America Vulnerable to Catastrophic Wildfire
+
+date: 2025-02-18, from: Capital and Main
+
+<p>Training has been limited and work to reduce flammable vegetation postponed. Some firefighters are leaving the force.</p>
+<p>The post <a href="https://capitalandmain.com/trumps-funding-and-hiring-freezes-leave-america-vulnerable-to-catastrophic-wildfire">Trump’s Funding and Hiring Freezes Leave America Vulnerable to Catastrophic Wildfire</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trumps-funding-and-hiring-freezes-leave-america-vulnerable-to-catastrophic-wildfire>
+
+---
+
+## Rubio: US looks for 'fair, sustainable' end to Russian war on Ukraine
+
+date: 2025-02-18, from: VOA News USA
+
+U.S. Secretary of State Marco Rubio said Tuesday that the United States is working toward a "fair" and "sustainable" solution to end Russia’s three-year war on Ukraine, but that both Moscow and Kyiv would have to make concessions to achieve peace.
+
+
+Rubio offered his assessment after he and other key U.S. officials met for more than four hours in Saudi Arabia with Russian Foreign Minister Sergey Lavrov and his aides in a first effort toward ending the war and improving the contentious Washington-Moscow relationship. 
+
+
+“The goal is to bring an end to this conflict in a way that's fair, enduring, sustainable and acceptable to all parties involved," Rubio told reporters, although no Ukrainian or European officials were at the table for the talks.
+
+
+Rubio said he was "convinced" that Moscow was willing to engage in a "serious process" to end the war, which Russia started with a full-scale invasion of its neighbor three years ago next week.
+
+
+Lavrov had a similar upbeat view of the talks, saying, “We weren’t just listening to each other, but we heard each other. I have reason to believe that the American side started to better understand our positions.”  
+
+
+Tens of thousands of Russian and Ukrainian soldiers, along with Ukrainian civilians, have been killed in the fighting, Europe’s worst conflict since World War II.
+
+
+The U.S. and Russia agreed to "appoint respective high-level teams to begin working on a path to ending the conflict in Ukraine as soon as possible," State Department spokeswoman Tammy Bruce said in a statement. Bruce characterized the meeting as "an important step forward" toward peace.
+
+
+Rubio said Ukraine and European nations would have to be involved in talks on ending the war. He said that if the war is halted, the U.S. would have "extraordinary opportunities … to partner" with Russia on trade and other global issues.
+
+
+"The key to unlock that is the end to this conflict," he said.
+
+
+National security adviser Mike Waltz and Middle East envoy Steve Witkoff joined Rubio for the talks.
+
+
+Waltz told reporters that negotiations to end the fighting will focus on territory and security guarantees for both Ukraine and Russia.
+
+
+"This needs to be a permanent end to the war and not a temporary end, as we've seen in the past," Waltz said.
+
+
+
+
+Russia now controls about a fifth of Ukraine’s internationally recognized 2014 territory. Moscow controls the Crimean Peninsula that it unilaterally annexed in 2014, along with a large portion of eastern Ukraine pro-Russian separatists captured in subsequent fighting and lands the Russian military have taken over since the 2022 invasion.
+
+
+As the invasion started, Moscow hoped for a quick takeover of all of Ukraine. But with stiff Ukrainian resistance, the war instead evolved into a grinding ground conflict and daily aerial bombardments by each side.
+
+
+Ukrainian President Volodymyr Zelenskyy has long demanded that his country’s 2014 boundaries be restored, but U.S. officials have said that is unrealistic, as was Kyiv’s long-sought goal of joining NATO, the West’s main military alliance, as part of a negotiated peace settlement.
+
+
+Zelenskyy has said it will not agree to a U.S.-Russian dictated settlement of the war.
+
+
+He postponed a trip to Saudi Arabia that had been scheduled for this week, citing the fact that officials from his country were not invited to Tuesday’s U.S.-Russia talks. The Ukrainian leader suggested that he wanted to avoid his visit being linked to the talks and rescheduled the trip for March 10.
+
+
+Zelenskyy is due to host the U.S. envoy for Ukraine, Keith Kellogg, for talks on Wednesday.
+
+
+Bruce said the Rubio-Lavrov talks, the first extensive discussions between the two countries in more than three years, also laid the groundwork for more talks aside from the negotiations to end the war.
+
+
+She said the two sides would “establish a consultation mechanism to address irritants to our bilateral relationship with the objective of taking steps necessary to normalize the operation of our respective diplomatic missions.”
+
+
+Bruce said the U.S. and Russia would “lay the groundwork for future cooperation on matters of mutual geopolitical interest and historic economic and investment opportunities” once the war is ended.
+
+
+The U.S.-Russia engagement sparked concern among European leaders who in recent days have highlighted the need for Ukraine to be involved in discussions about its future, and for European nations to play a role in what they also see as a key development for their own security.
+
+
+French President Emmanuel Macron convened a group of European leaders for a Monday session in Paris, where they discussed boosting defense spending and potential security guarantees for Ukraine.
+
+
+There was division on the idea of deploying peacekeepers to Ukraine as part of a potential end to the war, with governments such as Britain and Sweden expressing openness to the idea while German Chancellor Olaf Scholz said that discussion was premature.
+
+
+Some information for this story came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-us-looks-for-fair-sustainable-end-to-russian-war-on-ukraine/7979267.html>
+
+---
+
+## Jen & Norm's Contrarians’ Day Live!
+
+date: 2025-02-18, from: The Contrarian
+
+A recording from Jen and Norm's Contrarians' Day livestream on 02/18/25 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157342980/8fcd38bd4c99d6f4d4547fe8be65be5d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157342980/8fcd38bd4c99d6f4d4547fe8be65be5d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-and-norms-contrarians-day-live>
+
+---
+
+## The American surrender to Putin
+
+date: 2025-02-18, from: The Contrarian
+
+Is Trump's policy America first or America alone? 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-american-surrender-to-putin>
+
+---
+
+## The foreign aid freeze is affecting lifesaving HIV/AIDS treatment
+
+date: 2025-02-18, from: Market Place
+
+The U.N.'s Angeli Achrekar reports that many clinics have closed, despite exemptions in the policy. She fears mortality will surge.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/the-foreign-aid-freeze-is-affecting-lifesaving-hiv-aids-treatment/>
+
+---
+
+## As federal data disappears, that comes at a cost
+
+date: 2025-02-18, from: Market Place
+
+You can't manage what you can't measure. And under the Trump administration, a number of data sets that investors and businesses use have gone missing. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/18/trump-federal-data-disappear-businesses/>
+
+---
+
+## Leonard Peltier leaves prison after Biden commuted sentence in killing of FBI agents
+
+date: 2025-02-18, from: VOA News USA
+
+SUMTERVILLE, FLORIDA — Native American activist Leonard Peltier was released from a Florida prison on Tuesday, weeks after then-President Joe Biden angered law enforcement officials by commuting his life sentence in the 1975 killings of two FBI agents.  
+
+
+For nearly half a century, Peltier's imprisonment has symbolized systemic injustice for Native Americans across the country who believe in his innocence. The decision to release the 80-year-old to home confinement was celebrated by supporters.  
+
+
+"He represents every person who's been roughed up by a cop, profiled, had their children harassed at school," said Nick Estes, a professor of American Indian Studies at the University of Minnesota and a member of the Lower Brule Sioux Tribe who advocated for Peltier's release.  
+
+
+But the move just before Biden left office also prompted criticism from those who say Peltier is guilty, including former FBI Director Christopher Wray, who called him "a remorseless killer" in a private letter to Biden obtained by The Associated Press. 
+
+
+ "Granting Peltier any relief from his conviction or sentence is wholly unjustified and would be an affront to the rule of law," Wray wrote.  
+
+
+
+
+The commutation was not a pardon for crimes committed, something Peltier's advocates have hoped for since he has always maintained his innocence.  
+
+
+Peltier left the prison Tuesday morning in an SUV, according to a prison official. He didn't stop to speak with reporters or his supporters outside the gates. One of his attorneys, Jenipher Jones, said Peltier was looking forward to going home.  
+
+
+"We're so excited for this moment," Jones said. "He is in good spirits. He has the soul of a warrior."  
+
+
+After being released from USP Coleman, a high-security prison, Peltier planned to return to North Dakota, where he is expected to celebrate with friends and family on Wednesday. 
+
+
+ Biden commuted Peltier's sentence Jan. 20, noting he had spent most of his life in prison and was now in poor health.  
+
+
+"We never thought he would get out," Ray St. Clair, a member of the White Earth Band of the Minnesota Chippewa Tribe, said shortly before Peltier's release. "It shows you should never give up hope. We can take this repairing the damage that was done. This is a start." 
+
+
+Peltier, an enrolled member of the Turtle Mountain Band of Chippewa Indians in North Dakota, was active in the American Indian Movement, which beginning in the 1960s fought for Native American treaty rights and tribal self-determination.  
+
+
+The group grabbed headlines in 1969 when activists occupied the former prison island of Alcatraz in the San Francisco Bay, and again in 1972, when they presented presidential candidates with a list of demands including the restoration of tribal land.  
+
+
+After they were ignored, they seized the headquarters of the Bureau of Indian Affairs. From then on, the group was subject to FBI surveillance and harassment under a covert program that sought to disrupt activism and was exposed in 1975.  
+
+
+Peltier's conviction stemmed from a confrontation that year on the Oglala Sioux Indian Reservation in Pine Ridge, South Dakota, in which FBI agents Jack Coler and Ronald Williams were killed.  
+
+
+According to the FBI, the agents were there to serve arrest warrants for robbery and assault with a dangerous weapon. Prosecutors maintained at trial that Peltier shot both agents in the head at point-blank range.  
+
+
+Peltier acknowledged being present and firing a gun at a distance, but he said he fired in self-defense. A woman who claimed to have seen Peltier shoot the agents later recanted her testimony, saying it had been coerced. He was convicted of two counts of first-degree murder and given two consecutive life sentences. Two other movement members, co-defendants Robert Robideau and Dino Butler, were acquitted on the grounds of self-defense. Peltier was denied parole as recently as July and was not eligible to be considered for it again until 2026.  
+
+
+"Leonard Peltier's release is the right thing to do given the serious and ongoing human rights concerns about the fairness of his trial, his nearly 50 years behind bars, his health and his age," Paul O'Brien, executive director with Amnesty International USA, said in a statement before Peltier's release. "While we welcome his release from prison, he should not be restricted to home confinement."  
+
+
+Prominent Native American groups like the National Congress of the American Indian have called for Peltier's release for decades, and Amnesty International considered him a political prisoner.  
+
+
+Prominent supporters over the years included South African Archbishop Desmond Tutu, civil rights icon Coretta Scott King, actor and director Robert Redford, and musicians Pete Seeger, Harry Belafonte and Jackson Browne.  
+
+
+Generations of Indigenous activists and leaders lobbied multiple presidents to pardon Peltier. Former Interior Secretary Deb Haaland, a member of the Pueblo of Laguna and the first Native American to hold the secretary's position, praised Biden's decision. "I am grateful that Leonard can now go home to his family," she said Jan. 20 in a post on X. "I applaud President Biden for this action and understanding what this means to Indian Country."  
+
+
+As a young child, Peltier was taken from his family and sent to a boarding school. Thousands of Indigenous children over decades faced the same fate, and were in many cases subjected to systemic physical, psychological and sexual abuse.  
+
+
+"He hasn't really had a home since he was taken away to boarding school," said Nick Tilsen, who has been advocating for Peltier's release since he was a teen and is CEO of NDN Collective, an Indigenous-led advocacy group based in South Dakota. "So he is excited to be at home and paint and have grandkids running around." 
+
+<br> 
+
+<https://www.voanews.com/a/leonard-peltier-leaves-prison-after-biden-commuted-his-sentence-in-the-killing-of-two-fbi-agents/7979095.html>
 
 ---
 

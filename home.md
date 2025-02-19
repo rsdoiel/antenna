@@ -1,11 +1,160 @@
 ---
 title: home
-updated: 2025-02-18 07:09:38
+updated: 2025-02-18 19:00:39
 ---
 
 # home
 
-(date: 2025-02-18 07:09:38)
+(date: 2025-02-18 19:00:39)
+
+---
+
+## Cozy & Affordable: The Best Rice Casserole Recipes to Try
+
+date: 2025-02-18, from: California Grown
+
+<p>When it comes to easy, budget-friendly, and satisfying meals, rice casseroles are hard to beat. They’re perfect for busy weeknights, meal prep, or feeding a crowd—plus, they’re endlessly adaptable. But if you really want to take your casserole game up a notch, try using a 50/50 mix of regular rice and California wild rice. This [&#8230;]</p>
+<p>The post <a href="https://californiagrown.org/blog/the-best-rice-casserole-recipes/" data-wpel-link="internal" target="_self">Cozy &amp; Affordable: The Best Rice Casserole Recipes to Try</a> appeared first on <a href="https://californiagrown.org" data-wpel-link="internal" target="_self">California Grown</a>.</p>
+ 
+
+<br> 
+
+<https://californiagrown.org/blog/the-best-rice-casserole-recipes/>
+
+---
+
+## 12 Tips to Make Car Maintenance Cheaper
+
+date: 2025-02-18, from: Family Handyman Blog
+
+<p>From junkyards to cleaning and wholesale parts, here are some creative ways to ease the pain of car maintenance costs.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/tips-to-make-car-maintenance-cheaper/">12 Tips to Make Car Maintenance Cheaper</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/tips-to-make-car-maintenance-cheaper/>
+
+---
+
+## 1 Million Igloo Coolers Recalled Over Risk of Severed Fingertips
+
+date: 2025-02-18, from: Family Handyman Blog
+
+<p>Nearly 1 million Igloo coolers are being recalled because they pose a threat of injury. If you own one of these products, exercise caution. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/igloo-cooler-recall/">1 Million Igloo Coolers Recalled Over Risk of Severed Fingertips</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/igloo-cooler-recall/>
+
+---
+
+## Demystifying Dahlias
+
+date: 2025-02-18, from: San Diego Seed Compan
+
+<p>How to Plant Dahlia Tubers Knowing how to plant dahlia tubers can be confusing for new growers. Tubers come in many shapes and sizes, making it hard for a new grower to know what to plant. This blog will help ... <a href="https://sandiegoseedcompany.com/flower-gardening/demystifying-dahlias/" class="more-link">Read More</a></p>
+<p>The post <a href="https://sandiegoseedcompany.com/flower-gardening/demystifying-dahlias/">Demystifying Dahlias</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
+ 
+
+<br> 
+
+<https://sandiegoseedcompany.com/flower-gardening/demystifying-dahlias/>
+
+---
+
+## CDFA joins in recognition of FFA Week — Feb 15-22
+
+date: 2025-02-18, from: Calfifornia Dept. Aggriculture blog
+
+CDFA is joining in the celebration of National Future Farmers of America (FFA) Week, from February 15-22. During the weeklong celebration, FFA students across California and the nation will host various events, including farmer and teacher appreciation breakfasts, community service &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28569">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28569>
+
+---
+
+## This Country Home in Denmark Is Green in More Ways Than One
+
+date: 2025-02-18, from: Dwell
+
+Verdant spruce clads the T-shaped plan, which has a pile foundation that minimizes concrete and wood fiber insulation. 
+
+<br> 
+
+<https://www.dwell.com/article/house-between-the-trees-pka-green-home-design-pile-foundation-d5efc7ca>
+
+---
+
+## This Wild $2.5M Philly Home is Part Victorian, Part Barn, and Part Blacksmith Shop
+
+date: 2025-02-18, from: Dwell
+
+Set at the edge of downtown’s Fairmount Park, the fantastical home blends architectural styles from the past century and beyond. 
+
+<br> 
+
+<https://www.dwell.com/article/frank-weise-victorian-home-blacksmith-shop-renovation-philadelphia-real-estate-0ff7c464>
+
+---
+
+## Show Us Your Best Handy Hints and Win!
+
+date: 2025-02-18, from: Family Handyman Blog
+
+<p>Please share your favorite handy hint with us and win a cash prize. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/handy-hints-contest-2025/">Show Us Your Best Handy Hints and Win!</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/handy-hints-contest-2025/>
+
+---
+
+## Open House Sale
+
+date: 2025-02-18, from: San Diego Seed Compan
+
+<p>For the first time in our history, San Diego Seed Co. will open our small but mighty warehouse to the public. This exciting event allows us to connect with customers personally, enabling them to shop without shipping fees and celebrate ... <a href="https://sandiegoseedcompany.com/flower-gardening/open-house-sale/" class="more-link">Read More</a></p>
+<p>The post <a href="https://sandiegoseedcompany.com/flower-gardening/open-house-sale/">Open House Sale</a> appeared first on <a href="https://sandiegoseedcompany.com">San Diego Seed Company</a>.</p>
+ 
+
+<br> 
+
+<https://sandiegoseedcompany.com/flower-gardening/open-house-sale/>
+
+---
+
+## How to Grow and Care for Rabbit’s Foot Ferns
+
+date: 2025-02-18, from: The Gardener's Path
+
+<p>Rabbit's foot ferns have the characteristic lacy fronds that make ferns so special, with the addition of adorably fuzzy rhizomes. These rhizomes crawl along the soil and down the sides of pots for a unique look unmatched by other houseplants. Learn how to grow and care for these cute ferns in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/houseplants/grow-rabbits-foot-fern/">How to Grow and Care for Rabbit’s Foot Ferns</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/houseplants/grow-rabbits-foot-fern/>
+
+---
+
+## 28 Types of Dolphins (With Pictures and Identification)
+
+date: 2025-02-18, from: Yard Life blog
+
+<p>Dolphins are among the most intelligent and charismatic marine mammals, known for their playful behavior and acrobatic displays. With approximately ... </p>
+<p class="read-more-container"><a title="28 Types of Dolphins (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/28-types-of-dolphins-with-pictures-and-identification/#more-23614" aria-label="Read more about 28 Types of Dolphins (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/28-types-of-dolphins-with-pictures-and-identification/">28 Types of Dolphins (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/28-types-of-dolphins-with-pictures-and-identification/>
 
 ---
 
@@ -18,6 +167,66 @@ Interior designer Kiah Friedman assures that no experience is required—just an
 <br> 
 
 <https://www.dwell.com/article/how-to-commission-and-design-custom-furniture-3ec3a97a>
+
+---
+
+## Head to These 3 Resorts to Experience the Healing Power of Indigenous Traditions
+
+date: 2025-02-18, from: Sunset Magazine - Living in the West
+
+Experiencing the healing power of Indigenous traditions harnessing steam and high temperatures at these wellness resorts. 
+
+<br> 
+
+<https://www.sunset.com/travel/indigenous-heat-wellness-treatments>
+
+---
+
+## These Are the Best Plane Snacks from Trader Joe’s to Bring on Your Next Trip
+
+date: 2025-02-18, from: Sunset Magazine - Living in the West
+
+These healthy-ish snacks will sate you on your next trip and save you money on airport food the next time you travel. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-plane-snacks-trader-joes>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-18, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## This Is How a Professional Organizer Packs Her Suitcase
+
+date: 2025-02-18, from: Sunset Magazine - Living in the West
+
+A professional organizer shares her travel packing strategy. Use her tips to stay organized before, during, and after your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/travel-packing-organization-tips>
+
+---
+
+## This Opulent Decor Choice Is Poised to Become the Biggest Design Trend of 2025
+
+date: 2025-02-18, from: Sunset Magazine - Living in the West
+
+Move over, color-drenching. It turns out that dousing your entire room in one shade is so last year. Now it's all about material drenching. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/material-drenching-trend>
 
 ---
 

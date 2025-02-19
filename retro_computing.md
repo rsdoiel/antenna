@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-18 07:09:38
+updated: 2025-02-18 19:00:39
 ---
 
 # retro computing
 
-(date: 2025-02-18 07:09:38)
+(date: 2025-02-18 19:00:39)
+
+---
+
+## b.log 2025/02/18 - A day without power.
+
+date: 2025-02-18, from: Richard Murray's blog
+
+A day without power. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250218>
 
 ---
 

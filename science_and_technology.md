@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2025-02-18 07:09:36
+updated: 2025-02-18 19:00:37
 ---
 
 # science and technology
 
-(date: 2025-02-18 07:09:36)
+(date: 2025-02-18 19:00:37)
+
+---
+
+## Healthcare outfit that served military personnel settles allegations it faked infosec compliance for $11 million
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>If this makes you feel sick, knowing this happened before ransomware actors started targeting medical info may help</h4> <p>An alleged security SNAFU that occurred during the Obama administration has finally been settled under the second Trump administration.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/decadeold_healthcare_security_snafu_settled/>
+
+---
+
+## Humane is shutting down the AI Pin and selling its remnants to HP
+
+date: 2025-02-19, from: OS News
+
+Humane is selling most of its company to HP for $116 million and will stop selling AI Pin, the company announced today. AI Pins that have already been purchased will continue to function normally until 3PM ET on February 28th, Humane says in a support document. After that date, Pins will “no longer connect to Humane’s servers.” As a result, AI Pin features will “no longer include calling, messaging, AI queries / responses, or cloud access.” Humane is also encouraging users to download any pictures, videos, and notes stored on their Pins before they are permanently deleted at that shutdown time. ↫ Jay Peters at The Verge I can&#8217;t think of a better example of &#8220;AI&#8221; being a planet-cooking hype bubble than the Humane failure everybody saw coming from a mile away. HP can add this useless acquisition next to the Palm one. 
+
+<br> 
+
+<https://www.osnews.com/story/141744/humane-is-shutting-down-the-ai-pin-and-selling-its-remnants-to-hp/>
+
+---
+
+## Palo Alto firewalls under attack as miscreants chain flaws for root access
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>If you want to avoid urgent patches, stop exposing management consoles to the public internet</h4> <p>A flaw patched last week by Palo Alto Networks is now under active attack and, when chained with two older vulnerabilities, allows attackers to gain root access to affected systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/palo_alto_firewall_attack/>
+
+---
+
+## Acer signals 10% laptop price hike in US, blames Trump's extra China tariff
+
+date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+
+<h4>Analyst tells <i>El Reg</i> to expect more of this across hardware brands</h4> <p>Acer has become one of the first major computer makers to confirm it will hike laptop prices in the US, citing fresh import tariffs on Chinese-made hardware imposed by the Trump administration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/18/acer_hikes_us_prices/>
+
+---
+
+## AIDA64 drops support for Windows 95, 98, and ME
+
+date: 2025-02-18, from: OS News
+
+AIDA64, the popular benchmarking tool for Windows, released a new version today. I don&#8217;t particularly care about benchmarking &#8211; even less so benchmarking on Windows &#8211; but this new release comes with an interesting line in the release notes. Discontinued support for Windows 95, 98, Me ↫ AIDA64 v7.60 release notes Seeing a widely-used, popular piece of software drop support for Windows 95, 98, and ME only in this, the year of our lord, 2025, is kind of amazing. 
+
+<br> 
+
+<https://www.osnews.com/story/141742/aida64-drops-support-for-windows-95-98-and-me/>
+
+---
+
+## NASA Sets Briefings for Next International Space Station Crew Missions
+
+date: 2025-02-18, from: NASA breaking news
+
+NASA and its partners will discuss the upcoming Expedition 73 mission aboard the International Space Station during a pair of news conferences on Monday, Feb. 24, from the agency’s Johnson Space Center in Houston. Mission leadership will participate in an overview news conference at 2 p.m. EST live on NASA+, covering preparations for NASA’s SpaceX [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-briefings-for-next-international-space-station-crew-missions-2/>
+
+---
+
+## Snake Keylogger slithers into Windows, evades detection with AutoIt-compiled payload
+
+date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+
+<h4>Because stealing your credentials, banking info, and IP just wasn’t enough</h4> <p>A new variant of Snake Keylogger is making the rounds, primarily hitting Windows users across Asia and Europe. This strain also uses the BASIC-like scripting language AutoIt to deploy itself, adding an extra layer of obfuscation to help it slip past detection.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/18/new_snake_keylogger_infects_windows/>
+
+---
+
+## Eclipses to Auroras: Eclipse Ambassadors Experience Winter Field School in Alaska
+
+date: 2025-02-18, from: NASA breaking news
+
+In 2023 and 2024, two eclipses crossed the United States, and the NASA Science Activation program’s Eclipse Ambassadors Off the Path project invited undergraduate students and amateur astronomers to join them as “NASA Partner Eclipse Ambassadors”. This opportunity to partner with NASA, provide solar viewing glasses, and share eclipse knowledge with underserved communities off the […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/eclipses-to-auroras-eclipse-ambassadors-experience-winter-field-school-in-alaska/>
+
+---
+
+## Our Pale Blue Dot
+
+date: 2025-02-18, from: NASA breaking news
+
+Earth is but a tiny light blue dot in this 30th anniversary version of the iconic “Pale Blue Dot” image. The original photo, taken by NASA’s Voyager 1 spacecraft on Feb. 14, 1990, is now 35 years old. Voyager 1 was 3.7 billion miles (6 billion km) away from the Sun, giving it a unique [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/our-pale-blue-dot/>
+
+---
+
+## Looks like paywalls are coming soon to a subreddit near you
+
+date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+
+<h4>What do Redditors think? Well, it wouldn&#39;t be Reddit if they were happy</h4> <p>Redditors love a topic to gripe about, and this week the focus will likely be on CEO Steve Huffman&#39;s claim that paywalled content is coming to the so-called Front Page of the Internet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/18/paywalls_reddit/>
+
+---
+
+## NASA Science: Being Responsive to Executive Orders
+
+date: 2025-02-18, from: NASA breaking news
+
+February 18, 2025 To the NASA Science Community –  As the nation’s leader in Earth and space science, NASA Science operates within the broader context of the federal government and its priorities. As part of the Executive Branch, we are always responsive to the direction set by the Administration, including executive orders and policy guidance […] 
+
+<br> 
+
+<https://science.nasa.gov/directorates/smd/nasa-science-being-responsive-to-executive-orders/>
+
+---
+
+## GNOME 48 beta is another nail in X11's coffin
+
+date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+
+<h4>Our first look at the default desktop for Fedora 42 and Ubuntu &#39;Plucky Puffin&#39;</h4> <p>The next version of the default desktop for most of the big Linux distros is in beta. Here&#39;s what to expect next month, or soon thereafter.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/18/gnome_48_beta/>
+
+---
+
+## NASA Sets Launch Coverage for Missions Studying Cosmic Origins, Sun
+
+date: 2025-02-18, from: NASA breaking news
+
+NASA will provide live coverage of prelaunch and launch activities for SPHEREx (Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer), the agency’s newest space telescope. This will lift off with another NASA mission, Polarimeter to Unify the Corona and Heliosphere, or PUNCH, which will study the Sun’s solar wind. The [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-launch-coverage-for-missions-studying-cosmic-origins-sun/>
+
+---
+
+## US newspaper publisher uses linguistic gymnastics to avoid saying its outage was due to ransomware
+
+date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+
+<h4>Called it an &#39;incident&#39; in SEC filing, but encrypted apps and data exfiltration suggest Lee just can’t say the R word</h4> <p>US newspaper publisher Lee Enterprises is blaming its recent service disruptions on a &#34;cybersecurity attack,&#34; per a regulatory filing, and is the latest company to avoid using the dreaded <abbr title="ransomware">R</abbr> word.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/18/us_newspaper_publisher_exercises_linguistic/>
+
+---
+
+## Space rock 2024 YR4 still has 2.4% shot at smacking Earth
+
+date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+
+<h4>Scientists refine estimates, but can&#39;t yet rule out an impact</h4> <p>The latest figures from the European Space Agency (ESA) on the trajectory of asteroid 2024 YR4 show a reduction in uncertainty around the object&#39;s orbit while the probability of impact remains low.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/18/2024_yr4_risk_corridor/>
+
+---
+
+## FreSSH bugs undiscovered for years threaten OpenSSH security
+
+date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+
+<h4>Exploit code now available for MitM and DoS attacks</h4> <p>Researchers can disclose two brand-new vulnerabilities in OpenSSH now that patches have been released.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/18/openssh_vulnerabilities_mitm_dos/>
+
+---
+
+## Past Annual Highlights of Results from the International Space Station Publications
+
+date: 2025-02-18, from: NASA breaking news
+
+October 1, 2022 – September 30, 2023 This eighth annual report provides an overall highlight of research results published from October 1, 2022 to September 30, 2023 from investigations operated on the space station.&#160;Annual Highlights of Results from the International Space Station (October 1, 2022 – September 30, 2023) (PDF, 19.6 MB). List of Archived [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/past-annual-highlights-of-results-from-the-international-space-station-publications-2/>
+
+---
+
+## Annual Highlights of Results 2024: Key Takeaways, Introduction, and Bibliometric Analyses
+
+date: 2025-02-18, from: NASA breaking news
+
+Key Takeaways Introduction The International Space Station is a state-of-the art laboratory in low Earth orbit. Since the year 2000, distinguished researchers from a myriad of disciplines around the world have been sending equipment and investigations to station to learn how space-related variables affect the human body, plant and microbial life, physical processes, equipment function, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/annual-highlights-of-results-2024-key-takeaways-introduction-and-bibliometric-analyses/>
+
+---
+
+## 2024 Annual Highlights of Results from the International Space Station Science
+
+date: 2025-02-18, from: NASA breaking news
+
+The 2024&#160;Annual Highlights of Results from the International Space Station&#160;is now available. This new edition contains updated bibliometric analyses, a list of all the publications documented in fiscal year 2024, and synopses of the most recent and recognized scientific findings from investigations conducted on the space station. These investigations are sponsored by NASA and all [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/2024-annual-highlights-of-results-from-the-international-space-station-science/>
+
+---
+
+## Catalytic Computing Taps the Full Power of a Full Hard Drive
+
+date: 2025-02-18, from: Quanta Magazine
+
+Ten years ago, researchers proved that adding full memory can theoretically aid computation. They’re just now beginning to understand the implications.            <p>The post <a href="https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/" target="_blank">Catalytic Computing Taps the Full Power of a Full Hard Drive</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/catalytic-computing-taps-the-full-power-of-a-full-hard-drive-20250218/>
+
+---
+
+## Ultra-low-noise Infrared Detectors for Exoplanet Imaging
+
+date: 2025-02-18, from: NASA breaking news
+
+One of the ultimate goals in astrophysics is the discovery of Earth-like planets that are capable of hosting life. While thousands of planets have been discovered around other stars, the vast majority of these detections have been made via indirect methods, that is, by detecting the effect of the planet on the star’s light, rather […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/ultra-low-noise-infrared-detectors-for-exoplanet-imaging/>
 
 ---
 
@@ -251,7 +503,7 @@ date: 2025-02-17, updated: 2025-02-17, from: The Register (UK I.T. News)
 
 ## There's a slight chance Asteroid 2024 YR4 could hit Moon in 2032
 
-date: 2025-02-17, updated: 2025-02-17, from: The Register (UK I.T. News)
+date: 2025-02-17, updated: 2025-02-18, from: The Register (UK I.T. News)
 
 <h4>Very unlikely, but could make for a neat light show if it does</h4> <p>There is a chance, albeit slim, that asteroid 2024 YR4 could hit the Moon, creating a new crater and an explosion that might just be visible from Earth.…</p> 
 
@@ -371,7 +623,7 @@ date: 2025-02-17, updated: 2025-02-17, from: The Register (UK I.T. News)
 
 ## Twin Google flaws allowed researcher to get from YouTube ID to Gmail address in a few easy steps
 
-date: 2025-02-17, updated: 2025-02-17, from: The Register (UK I.T. News)
+date: 2025-02-17, updated: 2025-02-18, from: The Register (UK I.T. News)
 
 <h4>PLUS: DOGE web design disappoints; FBI stops crypto scams; Zacks attacked again; and more!</h4> <p><strong>Infosec In Brief</strong>  A security researcher has found that Google could leak the email addresses of YouTube channels, which wasn’t good because the search and ads giant promised not to do that.…</p> 
 

@@ -1,11 +1,243 @@
 ---
 title: journalism
-updated: 2025-02-18 07:09:37
+updated: 2025-02-18 19:00:38
 ---
 
 # journalism
 
-(date: 2025-02-18 07:09:37)
+(date: 2025-02-18 19:00:38)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCPD detained one person with zip ties outside of the Meyer and Renee Luskin Conference Center around 4:30 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480893/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+Protesters dispersed from Bruin Plaza around 4:10 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480889/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+Two people climbed and took down the banner that had been placed on the second floor of the stairs outside the Arthur Ashe Student Health and Wellness Center. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480882/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+According to UCLA&#8217;s Time, Place and Manner policies, Bruin Plaza is a designated public expression area. However, public expressions activities require prior permission from the Office of Student Organizations, Leadership &#38; Engagement or the UCLA Events Office. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480875/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Correction: The original version of this post incorrectly stated that a pro-Palestine protester hung a banner reading, “UC invests $2,000,000,000 in genocide.” In fact, the banner read, &#8220;UC invests $32,000,000,000 in genocide.”
+A pro-Palestine protester hung a banner reading, “UC invests $32,000,000,000 in genocide” on the second floor of the steps leading to the Arthur Ashe Student Health and Wellness Center around 3:45 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480872/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Protesters returned to campus, reaching Bruin Plaza around 3:40 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480870/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Around 3:35 p.m., pro-Palestine protesters left the crosswalk on the intersection of Charles E. Young Drive and Strathmore Place and began walking toward campus.
+(Andrew Diaz/Daily Bruin) 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480864/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Around 15 UCPD officers in riot gear formed a line in front of protesters on Charles E. Young Drive and Strathmore Place.
+(Andrew Diaz/Daily Bruin) 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480862/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Around 10 UCPD officers in riot gear carrying zip-tie handcuffs and batons are lined up around 50 feet away from protesters on the intersection of Westwood Plaza and Charles E. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480860/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCPD has closed access to the road at Strathmore Place.
+Protesters blocked the crosswalk on the intersection of Charles E. Young Drive and Westwood Plaza around 3:30 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480857/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Around 100 pro-Palestine protesters began marching on Westwood Plaza and blocking traffic at 3:24 p.m.
+(Andrew Diaz/Daily Bruin) 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480855/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+In a post on the social media platform X, the UCLA Police Department said a demonstration on campus is occurring in violation of UCLA&#8217;s Time, Place and Manner policies. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480853/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Pro-Palestine protesters began exiting the&#160;Engineering IV&#160;building at 3:19 p.m.&#160;Several students and professors are standing outside as the fire alarm continues to go off. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480851/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCPD officers were stationed around campus for the protest. Officers from other University of California campuses were around campus as a part of mutual aid, said Patrol Division Lieutenant James Echols. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480848/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Protesters entered the UCLA Henry Samueli School of Engineering and Applied Science at 3:16 p.m., chanting, “Intifada, intifada.” 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480846/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Around 100 pro-Palestine protesters entered the Mathematical Sciences building around 3:10 p.m., chanting, “From the sea to the river, Palestine will live forever.”
+The fire alarm went off in the Mathematical Sciences building around 3:15 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480844/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Protesters left Murphy Hall and started marching toward the Inverted Fountain around 3:05 p.m.
+(Ashley Rivera/Daily Bruin) 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480838/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Pro-Palestine protesters continued rallying in front of Murphy Hall at 3 p.m, chanting, “We are all SJP” and banging on drums. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480835/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+Michael Chwe, a professor of political science who said he showed up to support student protesters, said he does not agree with what he called a “decision to make certain campus organizations illegal.”
+“If you look at who actually experienced violence, it&#8217;s overwhelmingly our own students, and that was the fault of our university administration,” Chwe said. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480830/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-18, from: The Daily Bruin (UCLA Student Newspaper))
+
+A UCLA spokesperson said in an email that suspended student organizations may not participate in campus events as official student organizations. Chancellor Julio Frenk announced Wednesday that SJP and Graduate SJP at UCLA are under interim suspension. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480826/>
+
+---
+
+## Christian McBride’s Ursa Major takes on The Soraya
+
+date: 2025-02-18, from: The Sundail (CSUN Student Newspaper)
+
+After a full day of providing jazz clinics to local high school bands and students from the CSUN jazz program, nine-time Grammy-winning bassist Christian McBride and his newest quintet, Ursa... 
+
+<br> 
+
+<https://sundial.csun.edu/190140/arts-entertainment/christian-mcbrides-ursa-major-takes-on-the-soraya/>
+
+---
+
+## From Crisis to Stability: Basic Needs Office Offers Housing Resources
+
+date: 2025-02-18, from: The Sundail (CSUN Student Newspaper)
+
+According to the Center for the Transformation of Schools at the University of California, Los Angeles (UCLA), one in 10 CSU students experience homelessness. Students with housing insecurities often come... 
+
+<br> 
+
+<https://sundial.csun.edu/190132/news/from-crisis-to-stability-basic-needs-office-offers-housing-resources/>
 
 ---
 

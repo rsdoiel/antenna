@@ -1,11 +1,224 @@
 ---
 title: pacific
-updated: 2025-02-18 07:09:36
+updated: 2025-02-18 19:00:36
 ---
 
 # pacific
 
-(date: 2025-02-18 07:09:36)
+(date: 2025-02-18 19:00:36)
+
+---
+
+## After 40 years in business, DFS Saipan will close on April 30
+
+date: 2025-02-19, updated: 2025-02-19, from: Marianas Variety
+
+More details to follow. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/after-40-years-in-business-dfs-saipan-will-close-on-april-30/article_96a19b68-ee6b-11ef-b676-3752a9cd50c7.html>
+
+---
+
+## Obesity, diabetes linked to weaker COVID-19 vaccine response
+
+date: 2025-02-19, from: University of Hawaiʻi News
+
+<p>The study was published in the January 2025 issue of <em>COVID</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/obesity-diabetes-covid-vaccine-response/">Obesity, diabetes linked to weaker COVID-19 vaccine response</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/obesity-diabetes-covid-vaccine-response/>
+
+---
+
+## UH researchers discover 10 new sponge species in Kāneʻohe Bay
+
+date: 2025-02-19, from: University of Hawaiʻi News
+
+<p><abbr>HIMB</abbr> identified 10 new species of marine sponges found in <span aria-label="Kaneohe">K&#257;ne&#699;ohe</span> Bay using an innovative technique.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/10-new-sponge-species-kaneohe-bay/"><abbr>UH</abbr> researchers discover 10 new sponge species in Kāneʻohe Bay</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/10-new-sponge-species-kaneohe-bay/>
+
+---
+
+## Revitalizing ʻōlelo Hawaiʻi for eldercare
+
+date: 2025-02-19, from: University of Hawaiʻi News
+
+<p>Thompson School researchers aim to preserve Native Hawaiian perspectives on aging.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/olelo-hawaii-for-eldercare/">Revitalizing ʻōlelo Hawaiʻi for eldercare</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/olelo-hawaii-for-eldercare/>
+
+---
+
+## Register now for Saipan Chamber of Commerce March general membership meeting
+
+date: 2025-02-19, updated: 2025-02-19, from: Marianas Variety
+
+(SCC) — Håfa Adai and Tirow from the Saipan Chamber of Commerce! We are excited to invite you to our upcoming February general membership meeting or GMM, scheduled for Wednesday, March 5, 2025, from 11 a.m. to 1 p.m. at Taga Hall, Saipan World Resort. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/register-now-for-saipan-chamber-of-commerce-march-general-membership-meeting/article_241fcd7a-ee58-11ef-b1d8-7373e0b159e2.html>
+
+---
+
+## Building bridges to success: UH students connect with Hawaiʻi Island employers
+
+date: 2025-02-19, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Hilo and <span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr> students met with employers who are hiring on <span aria-label="Hawaii">Hawai&#699;i</span> Island.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/uh-students-connect-with-hawaii-island-employers/">Building bridges to success: <abbr>UH</abbr> students connect with Hawaiʻi Island employers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/uh-students-connect-with-hawaii-island-employers/>
+
+---
+
+## Inaugural director of UH Mānoa’s Health Sciences Institute named
+
+date: 2025-02-18, from: University of Hawaiʻi News
+
+<p>Katey Pelican will begin her role on April 1, 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/katey-pelican-named-hsi-director/">Inaugural director of <abbr>UH</abbr> Mānoa’s Health Sciences Institute named</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/katey-pelican-named-hsi-director/>
+
+---
+
+## Online shopping fuels Fulbright research on smarter deliveries
+
+date: 2025-02-18, from: University of Hawaiʻi News
+
+<p>Roger Chen will use location-based data on freight and goods in Tokyo to analyze truck schedules and route choices.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/roger-chen-fulbright-awardee/">Online shopping fuels Fulbright research on smarter deliveries</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/roger-chen-fulbright-awardee/>
+
+---
+
+## Sakaino’s standout weekend earns Big West Player of the Week
+
+date: 2025-02-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa infielder Shunsuke Sakaino led <abbr>UH</abbr>ʻs offense with a series of clutch hits.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/sakaino-bw-player-of-the-week/">Sakaino’s standout weekend earns Big West Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/sakaino-bw-player-of-the-week/>
+
+---
+
+## End CNMI's visa waiver for Chinese tourists, Wisconsin lawmaker tells Homeland Security head
+
+date: 2025-02-18, from: Pacific Island Times
+
+Statistics from the Commonwealth Healthcare Corp. showed that in 2017 and 2018, the number of tourist live births hit more than 550 but grad 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/end-cnmi-s-visa-waiver-for-chinese-tourists-wisconsin-lawmaker-tells-homeland-security-head>
+
+---
+
+## UH Mānoa student groups honor, uplift Black history and culture
+
+date: 2025-02-18, from: University of Hawaiʻi News
+
+<p>The Black Student Association and Sister Circle at <abbr>UH</abbr> Mānoa host on-campus activities for Black History Month.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/uh-manoa-black-history-month-2025/"><abbr>UH</abbr> Mānoa student groups honor, uplift Black history and culture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/uh-manoa-black-history-month-2025/>
+
+---
+
+## President Hensel: Steering UH through shifts in national policy
+
+date: 2025-02-18, from: University of Hawaiʻi News
+
+<p>&#8220;I can assure you that we are approaching this moment with care, thoughtfulness, and an unwavering commitment to our students, faculty, staff, and the communities we serve.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/president-hensel-steering-uh-through-shifts-in-national-policy/">President Hensel: Steering <abbr>UH</abbr> through shifts in national policy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/president-hensel-steering-uh-through-shifts-in-national-policy/>
+
+---
+
+## King-Hinds urges US Treasury to oversee foreign investments in NMI
+
+date: 2025-02-18, updated: 2025-02-19, from: Marianas Variety
+
+U.S. Congresswoman Kimberlyn King-Hinds is asking the U.S. Department of the Treasury to oversee foreign investments in the CNMI to prevent potential national security risks, saying that “our national security decisions must be based on facts, not fear.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-urges-us-treasury-to-oversee-foreign-investments-in-nmi/article_515e5502-ed9c-11ef-8310-77f8959d904f.html>
+
+---
+
+## Ada is new House minority leader
+
+date: 2025-02-18, updated: 2025-02-19, from: Marianas Variety
+
+PRECINCT 1 Rep. Roy A. Ada is the new House minority leader. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ada-is-new-house-minority-leader/article_513222da-edb4-11ef-b848-4b78c3b958a2.html>
+
+---
+
+## Delta plane flips upside down on landing at Toronto airport, injuring 18
+
+date: 2025-02-18, updated: 2025-02-19, from: Marianas Variety
+
+TORONTO (Reuters) — A Delta Air Lines regional jet flipped upside down upon landing at Canada's Toronto Pearson Airport on Monday amid windy weather following a snowstorm, injuring 18 of the 80 people on board, officials said. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/delta-plane-flips-upside-down-on-landing-at-toronto-airport-injuring-18/article_e008e1ac-edf9-11ef-9814-57acff97c895.html>
+
+---
+
+## Nihi Indigenous Media highlights regional leaders and trailblazers with film series
+
+date: 2025-02-18, updated: 2025-02-19, from: Marianas Variety
+
+THE late former Rep. Cinta M. Kaipat is among 12 leaders from Micronesia who are featured in an upcoming animated series titled “Heroes of Micronesia,” produced by Guam-based Nihi Indigenous Media. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nihi-indigenous-media-highlights-regional-leaders-and-trailblazers-with-film-series/article_e93d7222-edb0-11ef-be13-0f19d2e996b2.html>
+
+---
+
+## Chinese film Nezha 2 becomes highest-grossing animated film globally
+
+date: 2025-02-18, updated: 2025-02-19, from: Marianas Variety
+
+BEIJING (Reuters) — Chinese animated blockbuster Nezha 2 overtook Pixar's Inside Out 2 on Tuesday to become the highest-grossing animated film globally, according to data from ticketing platform Maoyan. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/chinese-film-nezha-2-becomes-highest-grossing-animated-film-globally/article_df3a651c-edf3-11ef-92dd-c31ed8d6242e.html>
 
 ---
 
@@ -258,6 +471,20 @@ date: 2025-02-18, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/18/nation-world-news/rubio-meets-saudi-crown-prince-for-talks-on-gaza-and-ukraine/>
+
+---
+
+## Waimea couple killed in North Kona traffic crash
+
+date: 2025-02-18, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a two-vehicle traffic collision that killed a husband and wife from Waimea early this morning on Queen Kaahumanu Highway in North Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/18/hawaii-news/waimea-couple-killed-in-north-kona-traffic-crash/>
 
 ---
 
@@ -525,7 +752,7 @@ date: 2025-02-18, from: Island Times
 
 date: 2025-02-18, from: Pacific Island Times
 
-By Pacific Island Times News Staff   Adelup today demanded that Attorney General Douglas Moylan stop his unauthorized use of the Office... 
+Moylan tells governor to fix Guam's problems or quit By Pacific Island Times News Staff   Adelup today demanded that Attorney General... 
 
 <br> 
 

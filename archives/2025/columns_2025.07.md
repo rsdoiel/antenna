@@ -1,11 +1,289 @@
 ---
 title: columns
-updated: 2025-02-18 07:09:36
+updated: 2025-02-18 19:00:37
 ---
 
 # columns
 
-(date: 2025-02-18 07:09:36)
+(date: 2025-02-18 19:00:37)
+
+---
+
+## Wednesday 19 February, 2025
+
+date: 2025-02-19, from: John Naughton's online diary
+
+Cycle path London, May 2024 Quote of the Day ”In my next life I want to live backwards. Start out dead and finish off as an orgasm.” Woody Allen Musical alternative to the morning’s radio news Vaughan Williams &#124; The &#8230; <a href="https://memex.naughtons.org/wednesday-19-february-2025/40454/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-19-february-2025/40454/>
+
+---
+
+## Threads in Bluesky
+
+date: 2025-02-18, from: Dave Winer's Scripting News
+
+<p>I started out doing a week to strip blue.threadcenter down to its bones, for a fresh start, but then I started getting ideas, and decided to go for it. I have the time, and Bluesky is having moment after moment and these days I'm using it to the exclusion of pretty much everything else, though I do check Twitter, Threads and Mastodon a few times a day, but usually there's nothing for me in those places. Anyway I'll be pointing to this post <a href="https://bsky.app/profile/bighugga.bsky.social/post/3liihaddhsf2g">from</a> some of my experiments, so maybe nothing more interesting than this will appear here. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/18/233256.html?title=threadsInBluesky>
+
+---
+
+##  Unbelievably Cruel ASMR Video by the White House of Deporting Immigrants 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/unbelievably-cruel-asmr-video-immigrants>
+
+---
+
+## We Found the Sucker Willing to Buy Humane, and as Promised, I’m Going to Be Insufferable, Because of Course It Was HP
+
+date: 2025-02-18, updated: 2025-02-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-02-18/hp-116-million-deal-for-humane-includes-ip-but-no-ai-pin-device>
+
+---
+
+## Links for February 18, 2025
+
+date: 2025-02-18, from: Matt Haughey blog
+
+<p><strong>Gina Trapani</strong> uploaded a visualization of her entire life, broken down by weeks, with milestones called out throughout. It&apos;s kind of surprising how someone&apos;s existence fits into a single scrolling page like that and I&apos;m tempted to do one myself someday. </p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://weeks.ginatrapani.org/?ref=a.wholelottanothing.org"><div class="kg-bookmark-content"><div class="kg-bookmark-title">My Life in</div></div></a></figure> 
+
+<br> 
+
+<https://a.wholelottanothing.org/links-for-february-18-2025/>
+
+---
+
+## How to Recompile Linux (on a Raspberry Pi)
+
+date: 2025-02-18, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">How to Recompile Linux (on a Raspberry Pi)</span>
+
+            <p>Because I get the same question on every video where I recompile the Linux kernel on a Pi to work on GPU or other hardware driver support, I finally made a video answering it:</p>
+
+<p><em>How do you recompile Linux?</em></p>
+
+<p>In my case, since I mostly rebuild the kernel for the Pi, I rebuild <a href="https://github.com/raspberrypi/linux">Raspberry Pi's Linux kernel fork</a> instead of 'mainline' linux (the upstream <a href="https://www.kernel.org">Linux kernel source</a>).</p>
+
+<p>Raspberry Pi publishes a very thorough guide covering <a href="https://www.raspberrypi.com/documentation/computers/linux_kernel.html#building">building and cross-compiling the Pi Linux kernel</a>, and my video today mostly goes through that (with a few little tips on making the experience more convenient):</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 18, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/how-recompile-linux-on-raspberry-pi>
+
+---
+
+##  Over the past 20 years, archaeologists working in the Amazon have found... 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046251-over-the-past-20-years>
+
+---
+
+##  Good read. &#8220;Dismantling the federal government to prevent that from happening was... 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046250-good-read-dismantling-the>
+
+---
+
+##  The War on DEI Is a Smoke Screen. &#8220;MAGA&#8217;s attacks on &#8216;wokeness&#8217;... 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046249-the-war-on-dei-is>
+
+---
+
+## An example of AI use
+
+date: 2025-02-18, from: Dave Winer's Scripting News
+
+<p>I just thought of a good example of a question you could bring to ChatGPT. Here's the prompt.</p>
+<ul>
+<li><i>I'm thinking of driving from NYC to Jacksonville, FL. I want to do it in four days with stopovers in three places that have good places to ride a bike and a Citibike-style bike rental. Choose three places on the trip, I don't mind going out of my way.</i></li>
+</ul>
+<p>It gave me three places to stop, Washington DC, Raleigh NC and Charleston SC. In each case it told me about the bike-sharing services and notable bike trails. </p>
+<p><img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/02/13/commanderDataStarTrek.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A logical next question would be to ask it to find hotels in each place that are reasonably priced and near an interesting place to ride.</p>
+<p>It also offered information about weather considerations. It's not necessarily a great time of year for bike riding.</p>
+<p>I'm not actually planning a trip south, I just used it as an example because I've done this trip a number of times and was curious how things had developed.</p>
+<p>Another question I used to have when cross-country driving, where can I find a Starbucks not too far off the route I'm on. If you were plotting the progress of public information systems, AI is strictly on a continuum of services that have developed over the years that make information more accessible in the way you want it. It actually answers questions you have in the way you think of asking them. </p>
+<p>Here's a <a href="https://chatgpt.com/share/67b4bace-25e8-8012-99e4-ddec819960e8 ">link to the response</a>. I've heard that sometimes people have trouble accessing these files. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/18/194542.html?title=anExampleOfAiUse>
+
+---
+
+## MapQuest’s ‘Name Your Own Gulf’
+
+date: 2025-02-18, updated: 2025-02-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://gulfof.mapquest.com/>
+
+---
+
+## Cory Doctorow's Picks & Shovels is out today (and it's great fun)
+
+date: 2025-02-18, from: Matt Haughey blog
+
+<p>I seem to have acquired a new annual tradition. For the past couple years, every winter I go on a long road trip and I stack up audiobooks to listen to along the way. Since 2023, I&apos;ve taken trips that happened to include Cory Doctorow&apos;s newest</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/cory-doctorows-picks-shovels-is-out-today-and-its-great-fun/>
+
+---
+
+##  Ethan Marcotte resigned from his job at 18F (a GSA subsidiary) rather... 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046248-ethan-marcotte-resigned-f>
+
+---
+
+## How Musk is cancelling the U.S. government
+
+date: 2025-02-18, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/how-musk-is-cancelling-the-us-government>
+
+---
+
+## February 17, 2025
+
+date: 2025-02-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157410829/8f6f16f55004f605384f349fce1943b2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157410829/8f6f16f55004f605384f349fce1943b2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-17-2025-ba4>
+
+---
+
+##  Musk and the Trump Administration are lying about not purging anyone from... 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046247-musk-and-the-trump-admini>
+
+---
+
+## GNOME 48 beta is another nail in X11's coffin
+
+date: 2025-02-18, updated: 2025-02-18, from: Liam Proven's articles at the Register
+
+<h4>Our first look at the default desktop for Fedora 42 and Ubuntu &#39;Plucky Puffin&#39;</h4>
+      <p>The next version of the default desktop for most of the big Linux distros is in beta. Here&#39;s what to expect next month, or soon thereafter.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/02/18/gnome_48_beta/>
+
+---
+
+##  In case you need a new t-shirt: READ BOOKS PUNCH NAZIS. &#8220;All... 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046246-in-case-you-need-a>
+
+---
+
+##  150-Year-Olds Aren&#8217;t Collecting Social Security 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/150-year-olds-arent-collecting-social-security>
+
+---
+
+##  Marisa Kabas: Elon Musk & his young acolytes are actual, open Nazis.... 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046244-marisa-kabas-elon-musk>
+
+---
+
+##  The Personal Toll of the Trump/Musk Government Purges 
+
+date: 2025-02-18, updated: 2025-02-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-personal-toll-of-the-trumpmusk-government-purges>
 
 ---
 
@@ -23,9 +301,9 @@ Is there some magic making three times, or even pi, the number of times you need
 
 ## Story About Medical Device Security
 
-date: 2025-02-18, updated: 2025-02-17, from: Bruce Schneier blog
+date: 2025-02-18, updated: 2025-02-18, from: Bruce Schneier blog
 
-<p>Ben Rothke <a href="https://brothke.medium.com/how-not-to-hire-for-a-senior-information-security-role-4bf71ce7ee26">relates a story</a> about me working with a medical device firm back when I was with BT. I don&#8217;t remember the story at all, or who the company was. But it sounds about right.</p>
+<p>Ben Rothke <a href="https://brothke.medium.com/how-not-to-hire-for-a-senior-information-security-role-4bf71ce7ee26?sk=9cab2444ee1ead944e41ab61445aea4c">relates a story</a> about me working with a medical device firm back when I was with BT. I don&#8217;t remember the story at all, or who the company was. But it sounds about right.</p>
  
 
 <br> 
@@ -91,6 +369,16 @@ Why Trump&#8217;s fight with the AP is a big deal
 <br> 
 
 <https://steady.substack.com/p/your-freedoms-under-siege>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-18, from: Jessica Smith's blog)
+
+<p>I am seeing a lot of complaints from people around the world about the current price of eggs. At my local supermarket, there no longer even are eggs. The shelves where the eggs used to be are now filled with Easter chocolate. The six eggs still left in our fridge are gonna have to be rationed.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/no-eggs-here.html>
 
 ---
 
@@ -354,6 +642,16 @@ The sixty-first Munich Security Conference, the world&#8217;s leading forum for 
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/114016458982525670>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-17, from: Jessica Smith's blog)
+
+<p>I love the threads on /r/AskHistorians which are like &ldquo;how historically accurate is this Disney movie?&rdquo; Pretty sure the answer is &ldquo;not very&rdquo;. People can&rsquo;t turn into frogs either, just fyi. You&rsquo;re welcome.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/disney-movies-not-accurate.html>
 
 ---
 

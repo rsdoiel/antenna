@@ -1,11 +1,262 @@
 ---
 title: snapshots
-updated: 2025-02-18 07:09:40
+updated: 2025-02-18 19:00:41
 ---
 
 # snapshots
 
-(date: 2025-02-18 07:09:40)
+(date: 2025-02-18 19:00:41)
+
+---
+
+## Grok 3 Beta in Shambles
+
+date: 2025-02-19, from: Gary Marcus blog
+
+Maximal Truth still seems far away 
+
+<br> 
+
+<https://garymarcus.substack.com/p/grok-3-beta-in-shambles>
+
+---
+
+## Comfort Reads
+
+date: 2025-02-18, from: Accidentally in Code
+
+I really believe in the power of a good novel as an escape from Real Life. Some of my recent(ish) favorites I’ve been recommending. The Dead Romantics by Ashley Poston &#8211; an absolutely beautiful novel, I loved it. Somali Dev’s Austin inspired series &#8211; I adore this series about an Indian immigrant family, each one [&#8230;] 
+
+<br> 
+
+<https://cate.blog/2025/02/18/comfort-reads/>
+
+---
+
+## HP is acquiring Humane’s assets, but shutting down the Ai Pin business (and bricking existing units)
+
+date: 2025-02-18, from: Liliputing
+
+<p>The Humane Ai Pin generated a lot of buzz ahead of launch as Humane positioned it as a brand new category for mobile devices that would leverage artificial intelligence to let you perform all sorts of tasks without a phone or PC. It was a spectacular flop at launch with reviewers complaining that the product [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/hp-is-acquiring-humanes-assets-but-shutting-down-the-ai-pin-business-and-bricking-existing-units/">HP is acquiring Humane&#8217;s assets, but shutting down the Ai Pin business (and bricking existing units)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/hp-is-acquiring-humanes-assets-but-shutting-down-the-ai-pin-business-and-bricking-existing-units/>
+
+---
+
+## Is Rahm the Answer? And Musk’s German Muse
+
+date: 2025-02-18, from: Tina Brown
+
+I am pinning my resistance hopes on Rahm Emanuel, back from Japan where he was a lapidary U.S. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/is-rahm-the-answer-and-musks-german>
+
+---
+
+## tc39/proposal-regex-escaping
+
+date: 2025-02-18, updated: 2025-02-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/tc39/proposal-regex-escaping">tc39/proposal-regex-escaping</a></strong></p>
+I just heard <a href="https://social.coop/@kriskowal/114026510846190089">from Kris Kowal</a> that this proposal for ECMAScript has been approved for ECMA TC-39:</p>
+<blockquote>
+<p>Almost 20 years later, @simon’s RegExp.escape idea comes to fruition. This reached “Stage 4” at ECMA TC-39 just now, which formalizes that multiple browsers have shipped the feature and it’s in the next revision of the JavaScript specification.</p>
+</blockquote>
+<p>I'll be honest, I had completely forgotten about my 2006 blog entry <a href="https://simonwillison.net/2006/Jan/20/escape/">Escaping regular expression characters in JavaScript</a> where I proposed that JavaScript should have an equivalent of the Python <a href="https://docs.python.org/3/library/re.html#re.escape">re.escape()</a> function.</p>
+<p>It turns out my post was referenced in <a href="https://esdiscuss.org/topic/regexp-escape">this 15 year old thread</a> on the esdiscuss mailing list, which evolved over time into a proposal which turned into <a href="https://caniuse.com/mdn-javascript_builtins_regexp_escape">implementations</a> in Safari, Firefox and soon Chrome - here's <a href="https://github.com/v8/v8/commit/b5c08badc7b3d4b85b2645b1a4d9973ee6efaa91">the commit landing it in v8</a> on February 12th 2025.</p>
+<p>One of the best things about having a long-running blog is that sometimes posts you forgot about over a decade ago turn out to have a life of their own.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/standards">standards</a>, <a href="https://simonwillison.net/tags/ecmascript">ecmascript</a>, <a href="https://simonwillison.net/tags/javascript">javascript</a>, <a href="https://simonwillison.net/tags/regular-expressions">regular-expressions</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/18/tc39proposal-regex-escaping/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-18, from: Dave Winer's linkblog)
+
+Why Democrats Won’t Throw a Real Punch. 
+
+<br> 
+
+<https://www.thenation.com/article/politics/democratic-party-fecklessness/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-18, from: Dave Winer's linkblog)
+
+Woody Allen on how to handle Nazis. 
+
+<br> 
+
+<https://www.youtube.com/watch?app=desktop&v=ptxkVhDYog8>
+
+---
+
+## Musk Ally Demands Admin Access to System That Lets Government Text the Public
+
+date: 2025-02-18, from: 404 Media Group
+
+A worker resigned in protest rather than giving Thomas Shedd access to Notify.gov, which they said would allow him to see "all personally identifiable information moving through the Notiy system, including phone numbers," 404 Media has learned. 
+
+<br> 
+
+<https://www.404media.co/musk-ally-demands-admin-access-to-system-that-lets-government-text-the-public/>
+
+---
+
+## LumiPhone 1020 SE stuffs the guts of an iPhone SE into the body of a Lumia 1020
+
+date: 2025-02-18, from: Liliputing
+
+<p>The Nokia Lumia 1020 is a smartphone that was released in 2013 with its major claims to fame including its 41MP camera, Nokia&#8217;s iconic Lumia design language, and the now-defunct Windows Phone operating system. It&#8217;s a phone that&#8217;s largely obsolete today, but it still has a pretty striking looking design. So redditor /u/OceanDepth95028 decided to [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lumiphone-1020-se-stuffs-the-guts-of-an-iphone-se-into-the-body-of-a-lumia-1020/">LumiPhone 1020 SE stuffs the guts of an iPhone SE into the body of a Lumia 1020</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lumiphone-1020-se-stuffs-the-guts-of-an-iphone-se-into-the-body-of-a-lumia-1020/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-18, from: Dave Winer's linkblog)
+
+Kash Patel&#39;s Plots. 
+
+<br> 
+
+<https://snyder.substack.com/p/kash-patels-plots?publication_id=310897&post_id=157401154&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## This portable computer is also a mechanical keyboard and ultrawide display for use with other PCs or mobile devices (crowdfunding)
+
+date: 2025-02-18, from: Liliputing
+
+<p>The Bapaco is a funny looking portable computer that features a 12.3 inch, 1920 x 720 pixel IPS LCD ultrawide touchscreen display with a 16:6 aspect ratio and a 68-key RGB backlit mechanical keyboard. While you can probably use the computer on your laptop, it&#8217;s not a clamshell system like most of the PCs you&#8217;d call laptops [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-portable-computer-is-also-a-mechanical-keyboard-and-ultrawide-display-for-use-with-other-pcs-or-mobile-devices-crowdfunding/">This portable computer is also a mechanical keyboard and ultrawide display for use with other PCs or mobile devices (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://v2.kickstarter.com/1739819662-RX2G83OX9M6Vgi20%2FPRaboHInrTneE5Q9PlzV2f4Yrs%3D/projects/5058323/video-1342619-h264_high.mp4"></source>
+</video> <a href="https://v2.kickstarter.com/1739819662-RX2G83OX9M6Vgi20%2FPRaboHInrTneE5Q9PlzV2f4Yrs%3D/projects/5058323/video-1342619-h264_high.mp4" target="_blank">download video/mp4</a> 
+
+<https://liliputing.com/this-portable-computer-is-also-a-mechanical-keyboard-and-ultrawide-display-for-use-with-other-pcs-or-mobile-devices-crowdfunding/>
+
+---
+
+## Calculators & Writing
+
+date: 2025-02-18, from: Chris Coyier blog
+
+I like the John Warner thing where the problem with outsourcing writing to AI is that the computers aren&#8217;t doing a process that is aligned with how humans would do it. On an episode of Search Engine, he said that using a calculator for long division, a tool that some compare to AI generated writing, [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/02/18/calculators-writing/>
+
+---
+
+## Scrolling News on TikTok? Here's What You Need to Know
+
+date: 2025-02-18, from: Guy Kawasaki blog
+
+Anne Oeldorf-Hirsch, University of Connecticut. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/scrolling-news-on-tiktok-heres-what>
+
+---
+
+## On The New NIH Indirect Cost Guidance
+
+date: 2025-02-18, from: Authors Union blogs
+
+A little over a week ago, the National Institutes of Health issued a new guidance policy on indirect costs in Federal grant awards. Presently, NIH negotiates the indirect cost rate with individual institutions through a carefully regulated process that ensures an appropriate rate for a given institution’s unique circumstances, while also providing robust safeguards and [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/02/18/on-the-new-nih-indirect-cost-guidance/>
+
+---
+
+## Discover magical AI experiences through the Microsoft Store on Windows, with the new AI Hub
+
+date: 2025-02-18, from: Windows Developer Blog
+
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/02/18/discover-magical-ai-experiences-through-the-microsoft-store-on-windows-with-the-new-ai-hub/">Discover magical AI experiences through the Microsoft Store on Windows, with the new AI Hub</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/02/18/discover-magical-ai-experiences-through-the-microsoft-store-on-windows-with-the-new-ai-hub/>
+
+---
+
+## Money, Money, Money – Historic Banks in the National Register of Historic Places
+
+date: 2025-02-18, from: National Archives, Text Message blog
+
+Are you saving enough?  Is it in a nice traditional bank building?  Is it historic?  There are more than eight hundred properties that are retuned when you search for “banks and banking” in the files of the National Register of Historic Places (National Archives Identifier 20812721) and more than six thousand when you search for &#8230; <a href="https://text-message.blogs.archives.gov/2025/02/18/money-money-money-historic-banks-in-the-national-register-of-historic-places/" class="more-link">Continue reading <span class="screen-reader-text">Money, Money, Money &#8211; Historic Banks in the National Register of Historic Places</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/02/18/money-money-money-historic-banks-in-the-national-register-of-historic-places/>
+
+---
+
+## Understanding Memory Management, Part 2: C++ and RAII
+
+date: 2025-02-18, updated: 2025-02-18, from: Educated Guesswork blog
+
+ 
+
+<br> 
+
+<https://educatedguesswork.org/posts/memory-management-2/>
+
+---
+
+## Andrej Karpathy's initial impressions of Grok 3
+
+date: 2025-02-18, updated: 2025-02-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://twitter.com/karpathy/status/1891720635363254772">Andrej Karpathy&#x27;s initial impressions of Grok 3</a></strong></p>
+Andrej has the most detailed analysis I've seen so far of xAI's Grok 3 release from last night. He runs through a bunch of interesting test prompts, and concludes:</p>
+<blockquote>
+<p>As far as a quick vibe check over ~2 hours this morning, Grok 3 + Thinking feels somewhere around the state of the art territory of OpenAI's strongest models (o1-pro, $200/month), and slightly better than DeepSeek-R1 and Gemini 2.0 Flash Thinking. Which is quite incredible considering that the team started from scratch ~1 year ago, this timescale to state of the art territory is unprecedented.</p>
+</blockquote>
+<p>I was delighted to see him include my <code>Generate an SVG of a pelican riding a bicycle</code> benchmark in his tests:</p>
+<p><img alt="Grok 3's pelicans are pretty good, though I still slightly prefer Claude 3.5 Sonnet's." src="https://static.simonwillison.net/static/2025/grok3-pelican.jpg" /></p>
+<p>Grok 3 is currently sat at the top of the LLM <a href="https://lmarena.ai/">Chatbot Arena</a> (across <a href="https://x.com/lmarena_ai/status/1891706269003600187">all of their categories</a>) so it's doing very well based on vibes for the voters there.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/grok">grok</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/18/andrej-karpathy-grok-3/#atom-everything>
+
+---
+
+## Why Is a Government Contractor Trying to Buy iPhone Hacking Tech From Us?
+
+date: 2025-02-18, from: 404 Media Group
+
+A contractor for the Air Force and other government agencies wanted to get a good deal on some Graykeys from us (we're journalists FYI). 
+
+<br> 
+
+<https://www.404media.co/why-is-a-government-contractor-trying-to-buy-iphone-hacking-tech-from-us/>
 
 ---
 
@@ -184,18 +435,6 @@ A few years before the Universal Serial Bus took over the world of peripherals, 
 <br> 
 
 <https://feed.tedium.co/link/15204/16964631/access-bus-i2c-usb-competitor-history>
-
----
-
-## Understanding Memory Management, Part 2: C++ and RAII
-
-date: 2025-02-17, updated: 2025-02-17, from: Educated Guesswork blog
-
- 
-
-<br> 
-
-<https://educatedguesswork.org/posts/memory-management-2/>
 
 ---
 

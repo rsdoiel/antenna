@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-02-18 07:09:38
+updated: 2025-02-18 19:00:38
 ---
 
 # libraries
 
-(date: 2025-02-18 07:09:38)
+(date: 2025-02-18 19:00:38)
 
 ---
 
@@ -18,6 +18,32 @@ Sauer I.J.; Walsh B.; Frieler K.; Bresch D.N.; Otto C.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/720104>
+
+---
+
+## Day in Review (February 18–20)
+
+date: 2025-02-18, from: Association of Research Libraries News
+
+<p>Sign up to receive the Day in Review by email. Jump to: Wednesday, February 19 &#124; Thursday, February 20 Tuesday, February 18 Top o’ the Review AAAS Leaders: We Must...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-18-20/">Day in Review (February 18–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-february-18-20/>
+
+---
+
+## Public Domain Spotlight: Rhapsody in Blue
+
+date: 2025-02-18, from: Internet Archive Blog
+
+Rhapsody in Blue stands as an iconic piece of American music with riveting orchestration, and a cultural footprint that reflects the modernity of the early 20th century. Beyond its artistic [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/02/18/public-domain-spotlight-rhapsody-in-blue/>
 
 ---
 

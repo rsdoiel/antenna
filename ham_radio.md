@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-02-18 07:09:36
+updated: 2025-02-18 19:00:36
 ---
 
 # ham radio
 
-(date: 2025-02-18 07:09:36)
+(date: 2025-02-18 19:00:36)
+
+---
+
+## The Google Chromecast Gen 3: Gluey and screwy
+
+date: 2025-02-18, from: EDN Blog
+
+<img width="1400" height="1281" src="https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?fit=1400%2C1281" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>When is a product upgrade not an upgrade at all…or at least seemingly not much of one? Let's see in this Chromecast Gen 3 teardown... </p>
+<p>The post <a href="https://www.edn.com/the-google-chromecast-gen-3-gluey-and-screwy/" data-wpel-link="internal">The Google Chromecast Gen 3: Gluey and screwy</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-google-chromecast-gen-3-gluey-and-screwy/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-02-18 07:09:36
 
 date: 2025-02-18, from: EDN Blog
 
-<img width="2953" height="1659" src="https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?fit=2953%2C1659" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2953 2953w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2850 2850w" sizes="(max-width: 2953px) 100vw, 2953px" /><p>In DRAM chips, besides access transistors, peripheral transistors must meet stringent requirements which preclude a ‘copy-paste’ of regular logic transistor process flows.</p>
+<img width="2953" height="1659" src="https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?fit=2953%2C1659" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2953 2953w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2850 2850w" sizes="auto, (max-width: 2953px) 100vw, 2953px" /><p>In DRAM chips, besides access transistors, peripheral transistors must meet stringent requirements which preclude a ‘copy-paste’ of regular logic transistor process flows.</p>
 <p>The post <a href="https://www.edn.com/dram-basics-and-its-quest-for-thermal-stability-by-optimizing-peripheral-transistors/" data-wpel-link="internal">DRAM basics and its quest for thermal stability by optimizing peripheral transistors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

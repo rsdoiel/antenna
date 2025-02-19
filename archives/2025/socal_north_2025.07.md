@@ -1,23 +1,163 @@
 ---
 title: socal north
-updated: 2025-02-18 07:09:35
+updated: 2025-02-18 19:00:36
 ---
 
 # socal north
 
-(date: 2025-02-18 07:09:35)
+(date: 2025-02-18 19:00:36)
 
 ---
 
-## After loss of homes in Eaton Fire, Pasadena neighborhood gathers to rebuild community spirit
+## Funding for small businesses — a big source of  jobs — at risk under Trump
 
-date: 2025-02-18, updated: 2025-02-18, from: The LAist
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
 
-More than 80 homes burned down in Pasadena’s Upper Hastings Ranch, known for dazzling holiday light displays. This long weekend, neighbors gathered for a holiday block party. 
+Trump’s funding freeze, anti-DEI push and more could jeopardize small business job creation. 
 
 <br> 
 
-<https://laist.com/news/after-loss-of-homes-in-eaten-fire-pasadena-neighborhood-gathers-to-rebuild-community-spirit>
+<https://laist.com/news/politics/funding-small-businesses-jobs-at-risk-under-trump>
+
+---
+
+## A federal judge has denied states' bid to halt DOGE and Musk's work
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+A federal judge has denied a bid to temporarily halt DOGE from its controversial work at certain federal agencies. Meanwhile, the White House says Elon Musk is not technically DOGE's leader. 
+
+<br> 
+
+<https://laist.com/news/politics/a-federal-judge-has-denied-states-bid-to-halt-doge-and-musks-work>
+
+---
+
+## Sylmar Man Sentenced to Prison for Using Instagram to Distribute Child Porn
+
+date: 2025-02-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/cellbars.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; A 23-year-old Sylmar man was sentenced today to 10 years behind bars for using Instagram to advertise sexually explicit photographs of local girls that he offered [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/18/sylmar-man-sentenced-to-prison-for-using-instagram-to-distribute-child-porn/">Sylmar Man Sentenced to Prison for Using Instagram to Distribute Child Porn</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/18/sylmar-man-sentenced-to-prison-for-using-instagram-to-distribute-child-porn/>
+
+---
+
+## Santa Clarita’s One Story One City Program Returns with ‘The Inheritance of Orquidea Divina’
+
+date: 2025-02-18, from: City of Santa Clarita
+
+<p>Explore the Magic and Legacy at Any Santa Clarita Public Library Branch The Santa Clarita Public Library is thrilled to announce this year’s selection for the One Story One City program – &#8216;The Inheritance of Orquídea Divina&#8217; by Zoraida Córdova. This extraordinary, magical realist tale promises to captivate readers with its deep family secrets, hidden [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/18/santa-claritas-one-story-one-city-program-returns-with-the-inheritance-of-orquidea-divina/">Santa Clarita&#8217;s One Story One City Program Returns with &#8216;The Inheritance of Orquidea Divina&#8217;</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/18/santa-claritas-one-story-one-city-program-returns-with-the-inheritance-of-orquidea-divina/>
+
+---
+
+## Can President Trump ignore Congress' spending laws? The debate over 'impoundment'
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+Since taking office, the Trump administration and DOGE have been seeking to unilaterally override the spending plans set by Congress. 
+
+<br> 
+
+<https://laist.com/news/politics/president-trump-congress-spending-laws-debate-over-impoundment>
+
+---
+
+## 'What leverage do we have?' Democrats face pressure to fight the Trump agenda
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+Democrats in Congress say their phones are ringing off the hook from constituents demanding they do more to combat the Trump administration. But as the minority party, their options are limited. 
+
+<br> 
+
+<https://laist.com/news/politics/leverage-democrats-face-pressure-to-fight-the-trump-agenda>
+
+---
+
+## White House says Elon Musk is not in charge of DOGE — legally, anyway
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+A federal judge has denied a bid to temporarily halt DOGE from its controversial work at certain federal agencies. Meanwhile, the White House says Elon Musk is not technically DOGE's leader. 
+
+<br> 
+
+<https://laist.com/news/politics/white-house-says-elon-musk-is-not-in-charge-of-doge>
+
+---
+
+## The radio show taking on California’s youth mental health crisis
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+From a small station in Boyle Heights, 18-year-old Kennia Camacho talks with teens about anxiety, stress and depression. 
+
+<br> 
+
+<https://laist.com/news/health/the-radio-show-taking-on-californias-youth-mental-health-crisis>
+
+---
+
+## Vacation property executives face charges for alleged post-fire price gouging in Hermosa Beach
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+This is the third price gouging case filed by California Attorney General Rob Bonta over alleged attempts to increase rents on tenants displaced by the fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/california-attorney-general-rob-bonta-price-gouging-charges-hermosa-beach>
+
+---
+
+## How to battle your insurance company after the wildfires
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+We've got tips for navigating insurance claims in the wake of the Eaton and Palisades fires … without losing your mind. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/tips-for-navigating-eaton-palisades-fire-insurance-claims>
+
+---
+
+## Union Station Added to Metro TAP-to-Exit Program
+
+date: 2025-02-18, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/2G3A3202-copy-scaled.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ANGELES (CNS) &#8211; Riders moving through Union Station will need to TAP their card or scan a valid Metrolink fare to enter and exit the station starting today. Metro [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/18/union-station-added-to-metro-tap-to-exit-program/">Union Station Added to Metro TAP-to-Exit Program</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/18/union-station-added-to-metro-tap-to-exit-program/>
+
+---
+
+## What it takes to regrow a community after wildfire
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+As it recovers, Altadena finds inspiration in other wildfire-devastated communities that have replanted lawns, gardens and green spaces with fire-resistant native species. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/altadena-regrow-a-community-after-wildfire>
 
 ---
 
@@ -30,6 +170,18 @@ The school district’s ban on cellphones and social media is months in the maki
 <br> 
 
 <https://laist.com/news/education/lausd-cellphone-ban-faq>
+
+---
+
+## After loss of homes in Eaton Fire, Pasadena neighborhood gathers to rebuild community spirit
+
+date: 2025-02-18, updated: 2025-02-18, from: The LAist
+
+More than 80 homes burned down in Pasadena’s Upper Hastings Ranch, known for dazzling holiday light displays. This long weekend, neighbors gathered for a holiday block party. 
+
+<br> 
+
+<https://laist.com/news/after-loss-of-homes-in-eaten-fire-pasadena-neighborhood-gathers-to-rebuild-community-spirit>
 
 ---
 
@@ -59,7 +211,7 @@ A telehealth company partnered with a pharmacy that lacked a required license, r
 
 ## Power lines sparked new fires in LA after the Eaton Fire began, radio traffic shows
 
-date: 2025-02-17, updated: 2025-02-17, from: The LAist
+date: 2025-02-17, updated: 2025-02-18, from: The LAist
 
 First responder communications show the power company in Altadena was slow to respond to Eaton firefighters — and that live power lines sparked new fires days after flames first broke out. 
 
