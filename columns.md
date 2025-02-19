@@ -1,11 +1,70 @@
 ---
 title: columns
-updated: 2025-02-18 19:00:37
+updated: 2025-02-19 07:08:04
 ---
 
 # columns
 
-(date: 2025-02-18 19:00:37)
+(date: 2025-02-19 07:08:04)
+
+---
+
+## The People by the Thousands in All 50 States Took to the Streets.
+
+date: 2025-02-19, from: Michael Moore's blog
+
+They had had enough. 
+
+<br> 
+
+<https://www.michaelmoore.com/p/the-people-by-the-thousands-in-all>
+
+---
+
+## Type-safe C-killer Delphi hits 30, but a replacement has risen
+
+date: 2025-02-19, updated: 2025-02-19, from: Liam Proven's articles at the Register
+
+<h4>The FOSS world has replicated most of it in Lazarus</h4>
+      <p>Delphi is still very much with us, but the FOSS world also has its own, largely compatible, GUI-based Object Pascal environment – and it&#39;s worth a look.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/02/19/delphi_turns_30/>
+
+---
+
+## Office Hours: What the hell do we do to stop this madness?
+
+date: 2025-02-19, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-what-the-hell-will-stop>
+
+---
+
+## February 18, 2025 
+
+date: 2025-02-19, from: Heather Cox Richardson blog
+
+In a court filing last night, the Director of the Office of Administration in the Trump administration, Joshua Fisher, clarified the government position of billionaire Elon Musk. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-18-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-19, from: Miguel de Icaza Mastondon feed)
+
+<p>I made naan today.  </p><p>It did not taste as website made me feel it would.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114028365064200141>
 
 ---
 
@@ -338,7 +397,7 @@ Today is Presidents Day, a somewhat vague holiday placed in 1968 on the third Mo
 
 ## ★ Golfo del Gringo Loco
 
-date: 2025-02-18, updated: 2025-02-18, from: Daring Fireball
+date: 2025-02-18, updated: 2025-02-19, from: Daring Fireball
 
 Much serious thought and consideration, from very smart people in Mountain View and Cupertino, went into determining how to respond to a profoundly silly and thoughtless executive order. Yet that response is disturbing. 
 

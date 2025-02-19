@@ -1,11 +1,458 @@
 ---
 title: north america
-updated: 2025-02-18 19:00:36
+updated: 2025-02-19 07:08:02
 ---
 
 # north america
 
-(date: 2025-02-18 19:00:36)
+(date: 2025-02-19 07:08:02)
+
+---
+
+## NAACP calls for consumers to leverage their purchasing power as some companies pull back from DEI policies
+
+date: 2025-02-19, from: Market Place
+
+The civil rights organization has stopped short of calling for a boycott but wants consumers to be intentional in their buying. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/naacp-black-consumers-buying-guide-purchasing-power-dei/>
+
+---
+
+## How excess deaths in the COVID-19 pandemic impacted Social Security
+
+date: 2025-02-19, from: Market Place
+
+The National Bureau of Economic Research found the number of deaths was large enough to result in a net increase to the Social Security fund. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/how-excess-deaths-in-the-covid-19-pandemic-impacted-social-security/>
+
+---
+
+## US envoy in Ukraine for talks following US-Russia meeting
+
+date: 2025-02-19, from: VOA News USA
+
+U.S. President Donald Trump’s envoy for Ukraine and Russia said Wednesday the United States understands the needs for security guarantees for Ukraine, as he visited the country for talks with Ukrainian officials.
+
+
+Gen. Keith Kellogg told reporters in Kyiv that he was in Ukraine “to listen,” hear the concerns of Ukrainian leaders and return to the United States to consult President Trump.
+
+
+Kellogg said the United States wants the war in Ukraine to end, saying that would be good for the region and the world.
+
+
+Ukrainian President Volodymyr Zelenskyy told reporters ahead of an expected meeting with Kellogg that while U.S. officials have said there will be no U.S. troops deployed as part of any potential post-war peacekeeping mission, there are still other ways it can help, such as providing air defense systems.
+
+
+"You don't want boots on the ground, you don't want NATO,” Zelenskyy said. “Okay, can we have Patriots? Enough Patriots?"
+
+
+The discussions in Kyiv come amid a flurry of diplomatic efforts focused on Russia’s war in Ukraine, including French President Emmanuel Macron hosting European leaders Wednesday for a second round of talks about the conflict and European support for Ukraine.
+
+
+Kellogg also met earlier this week with European leaders, and on Tuesday U.S. Secretary of State Marco Rubio held talks with Russian Foreign Minister Sergey Lavrov in Saudi Arabia.
+
+
+
+
+Rubio said both Ukraine and Russia would have to make concessions to achieve peace.
+
+
+
+“The goal is to bring an end to this conflict in a way that's fair, enduring, sustainable and acceptable to all parties involved," Rubio told reporters. No Ukrainian or European officials were at the table for the talks.
+
+
+Zelenskyy objected to being excluded from the meeting, a position that drew criticism from U.S. President Donald Trump.
+
+
+“Today I heard, ‘Well, we weren’t invited.’ Well, you’ve been there for three years,” Trump said of Ukraine’s leaders. “You should have never started it.”
+
+
+Russia began the war with its February 2022 full-scale invasion of Ukraine.
+
+
+
+
+Zelenskyy added Wednesday that while he has “great respect” for Trump, the American leader is living in a Russian-made “disinformation space.”
+
+
+ 
+
+
+
+
+Zelenskyy postponed a trip to Saudi Arabia that had been scheduled for this week, suggesting that he wanted to avoid his visit being linked to the U.S.-Russia negotiations.
+
+
+
+The United States and Russia agreed to "appoint respective high-level teams to begin working on a path to ending the conflict in Ukraine as soon as possible," State Department spokeswoman Tammy Bruce said in a statement. Bruce characterized the meeting as "an important step forward" toward peace.
+
+
+Rubio said Ukraine and European nations would have to be involved in talks on ending the war. He said that if the war is halted, the United States would have "extraordinary opportunities … to partner" with Russia on trade and other global issues.
+
+
+European Union foreign policy chief Kaja Kallas said she and other European foreign ministers spoke to Rubio after the U.S.-Russia meeting, and she expressed support for a Ukraine-led resolution.
+
+
+“Russia will try to divide us. Let’s not walk into their traps,” Kallas said on X. “By working together with the US, we can achieve a just and lasting peace — on Ukraine’s terms.”
+
+
+Russia now controls about one-fifth of Ukraine’s internationally recognized 2014 territory, including the Crimean Peninsula that it unilaterally annexed in 2014, a large portion of eastern Ukraine that pro-Russian separatists captured in subsequent fighting, and land Russia has taken over since the 2022 invasion.
+
+
+
+As the invasion started, Moscow hoped for a quick takeover of all of Ukraine. But with stiff Ukrainian resistance, the war instead evolved into a grinding ground conflict and daily aerial bombardments by each side.
+
+
+
+Zelenskyy has long demanded that his country’s 2014 boundaries be restored, but U.S. officials have said that is unrealistic, as is Kyiv’s long-sought goal of joining NATO.
+
+
+
+Some information for this story was provided by The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/us-envoy-in-ukraine-for-talks-following-us-russia-meeting/7980256.html>
+
+---
+
+## Showing Up & Walking Out
+
+date: 2025-02-19, from: The Contrarian
+
+Two Ways to Make your Point 
+
+<br> 
+
+<https://contrarian.substack.com/p/showing-up-and-walking-out>
+
+---
+
+## UAE says it rejects any attempt to displace Palestinian people
+
+date: 2025-02-19, from: VOA News USA
+
+United Arab Emirates President Sheikh Mohammed bin Zayed Al Nahyan told U.S. Secretary of State Marco Rubio that the UAE rejects “any attempts to displace the Palestinian people from their land” as Rubio made a visit Wednesday to Abu Dhabi.
+
+
+UAE state media reported the comments and said the president highlighted the need to prevent an expansion of the conflict in Gaza.
+
+
+“He also underscored the importance of linking Gaza’s reconstruction to a path that leads to a comprehensive and lasting peace based on the two-state solution, as the only manner of ensuring stability in the region,” the report said.
+
+
+Arab leaders have rejected plans suggested by U.S. President Donald Trump that Palestinians leave Gaza for other countries in the region, and that the U.S. take over and rebuild the Palestinian enclave.
+
+
+
+
+Rubio’s visit was part of a multi-nation tour that also included talks with leaders in Israel and in Saudi Arabia, which came as the first phase of a ceasefire between Israel and Hamas in the Gaza Strip moved into its final weeks.
+
+
+Hostage release
+
+
+A top Hamas leader said Tuesday that the militant group plans to release six more living Israeli hostages from their Gaza captivity on Saturday and the bodies of four others on Thursday.
+
+
+Hamas leader Khalil al-Hayya made the surprise announcement in a recorded statement, an apparent response to the Israeli decision to allow long-requested mobile homes and construction equipment into the Gaza Strip.
+
+
+
+
+The six living hostages are the last set to be freed under the first phase of the ceasefire that expires in early March, with Hamas believed to be holding about 70 more captives, half of them living. Four more bodies of hostages are set to be returned next week.
+
+
+So far during the ceasefire, Hamas has released 24 hostages, and Israel freed more than 1,000 Palestinian prisoners.
+
+
+The warring sides have yet to negotiate the second and more difficult phase of their truce, in which Hamas says it will only release the remaining hostages in exchange for a lasting halt to the fighting and a full Israeli troop withdrawal from Gaza.
+
+
+Meanwhile, Israel has not backed off its goal, supported by the United States, of eradicating any military or governing role for Hamas in Gaza.
+
+
+Israeli Foreign Minister Gideon Saar said Tuesday that Israel was ready to open negotiations on the details of the second phase. Those talks were supposed to have started two weeks ago, according to the ceasefire deal.
+
+
+In his remarks, Hayya said the "Bibas family" would be included in the handover of the four bodies, apparently referring to Shiri Bibas and her two young sons, Ariel and Kfir, who for many Israelis embody the captives' plight.
+
+
+Israel has not confirmed their deaths, and Prime Minister Benjamin Netanyahu’s office urged the public not to distribute "photos, names and rumors." Israel has said it was gravely concerned about the Bibas family, while Hamas said they were killed in an Israeli airstrike early in the war. Yarden Bibas, the husband and father, was kidnapped separately and released this month.
+
+
+Kfir, who was 9 months old at the time, was the youngest hostage taken in Hamas' October 7, 2023, attack on Israel that triggered 15 months of fighting. Video footage of the abduction showed Shiri swaddling her redheaded boys in a blanket and being whisked away by armed men.
+
+
+"In recent hours we have been shaken after the Hamas spokesman's announcement was published about the return of our Shiri, Ariel and Kfir this coming Thursday as part of the movement to release kidnapped civilians,” the family said in a statement. “It is important for us to say that we are aware of the reports but have not yet received an official update on the matter.”
+
+
+“Until we receive certainty, our journey will not end,” the family said.
+
+
+An Israeli official said Netanyahu had agreed to allow the mobile homes and construction equipment into Gaza to accelerate the hostages' release. Hamas last week threatened to hold up the release of more hostages, citing the mobile home issue and other alleged violations of the truce.
+
+
+Israel is expected to continue releasing hundreds of Palestinian prisoners, including many serving life sentences for deadly attacks, in exchange for the hostages.
+
+
+Hamas, a U.S.-designated terror group, killed about 1,200 people in the October 2023 attack and took about 250 as hostages. More than half the captives have been released in ceasefire agreements and other deals, while eight were rescued in military operations.
+
+
+Israel's air and ground war killed more than 48,200 Palestinians, mostly women and children, according to Gaza's Health Ministry, which does not say how many were combatants. The Israeli military says the death toll includes 17,000 militants. The offensive destroyed vast areas of Gaza and displaced most of its population of 2.3 million.
+
+
+Some information for this story was provided by The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/uae-says-it-rejects-any-attempt-to-displace-palestinian-people-/7980294.html>
+
+---
+
+## US condemns 'dangerous' maneuvers by Chinese navy in South China Sea
+
+date: 2025-02-19, from: VOA News USA
+
+MANILA, Philippines — The United States condemned the "dangerous" maneuvers of a Chinese navy helicopter that endangered the safety of a Philippine government aircraft patrolling a disputed shoal in the South China Sea, its ambassador to Manila said on Wednesday.
+
+
+In a post on X, Ambassador MaryKay Carlson also called on China "to refrain from coercive actions and settle its disputes peacefully in accordance with international law."
+
+
+The Philippines said late on Tuesday it was "deeply disturbed" by the Chinese navy's "unprofessional and reckless" flight actions and that it will make a diplomatic protest.
+
+
+Manila's coast guard said the Chinese navy helicopter performed dangerous flight maneuvers when it flew close to a government aircraft conducting surveillance over the Scarborough Shoal, endangering the lives of its pilots and passengers.
+
+
+China disputed the Philippines' account, saying on Tuesday its aircraft "illegally intruded" into China's airspace and accused its Southeast Asian neighbor of "spreading false narratives."
+
+
+Named after a British ship that was grounded on the atoll nearly three centuries ago, the Scarborough Shoal is one of the most contested maritime features in the South China Sea, where Beijing and Manila have clashed repeatedly.
+
+
+"The Philippines has undeniable sovereignty and jurisdiction over Bajo de Masinloc," its maritime council said in a statement, using Manila's name for the shoal.
+
+
+China claims sovereignty over almost the entire South China Sea, a vital waterway for more than $3 trillion of annual ship-borne commerce, putting it at odds with Brunei, Indonesia, Malaysia, the Philippines and Vietnam.
+
+
+A 2016 arbitration ruling invalidated China's expansive claims but Beijing does not recognize the decision. 
+
+<br> 
+
+<https://www.voanews.com/a/us-condemns-dangerous-maneuvers-by-chinese-navy-in-south-china-sea/7980179.html>
+
+---
+
+## Senate advances nomination of Trump FBI pick Kash Patel
+
+date: 2025-02-19, from: VOA News USA
+
+WASHINGTON — The U.S. Senate on Tuesday voted to advance the nomination of Kash Patel to be the director of the FBI, putting a staunch ally of President Donald Trump and a critic of the bureau on track to run the most prominent U.S. law enforcement agency.
+
+
+The Senate voted 48-45 along party lines on a procedural measure setting the stage for a final confirmation vote on one of Trump’s most controversial nominees later this week.
+
+
+Patel, a former intelligence and Defense Department official in Trump’s first term, has called for a radical reshaping of the FBI, pledging to expand its role on illegal immigration and violent crime, core Trump priorities.
+
+
+Patel has been among the most vocal critics of FBI investigations into Trump on issues ranging from Russian interference in the 2016 election, Trump’s retention of classified documents at his Florida club and his attempts to overturn the 2020 election.
+
+
+Democrats have called Patel unfit to lead the FBI, pointing to his embrace of false claims about voter fraud in the 2020 election and FBI agents fomenting the January 6, 2021 attack on the U.S. Capitol. But Patel has attracted broad support from Republicans, who have touted him as a reformer.
+
+
+A Senate panel voted 12-10 along party lines last week to send his nomination to the full Senate. 
+
+<br> 
+
+<https://www.voanews.com/a/senate-advances-nomination-of-trump-fbi-pick-kash-patel/7980183.html>
+
+---
+
+## Senate confirms Howard Lutnick as commerce secretary
+
+date: 2025-02-19, from: VOA News USA
+
+Washington — The Senate confirmed wealthy financier Howard Lutnick as commerce secretary Tuesday, putting in place a staunch supporter of President Donald Trump's hardline trade policies.
+
+
+At the Commerce Department, Lutnick, who was CEO at the investment firm Cantor Fitzgerald, will oversee 50,000 employees who do everything from collecting economic statistics to running the census to issuing weather reports. But he's likely to spend a lot of time — along with Jamieson Greer, Trump's nominee to be the top U.S. trade negotiator — managing the president's aggressive plans to impose import taxes on U.S. trading partners, including allies and adversaries alike.
+
+
+The Senate vote to confirm Lutnick was 51-45.
+
+
+Trump views the tariffs as a versatile economic tool. They can raise money to finance his tax cuts elsewhere, protect U.S. industries and pressure other countries into making concessions on such issues as their own trade barriers, immigration and drug trafficking. Mainstream economists mostly view tariffs as counterproductive: They are paid by import companies in the United States, which try to pass along the higher costs to consumers and can thereby add to inflationary pressures throughout the economy.
+
+
+At his confirmation hearing last month, Lutnick dismissed as "nonsense'' the idea that tariffs contribute to inflation. He expressed support for deploying across-the-board tariffs "country by country'' to strong-arm other countries into lowering barriers to American exports.
+
+
+Trump last week announced plans for "reciprocal'' tariffs — raising U.S. import tax rates to match the higher taxes that other countries impose on goods from the U.S. The move would shatter the rules that have governed world trade for decades. Since the 1960s, tariff rates have mostly emerged from negotiations between dozens of countries. Trump is commandeering the process.
+
+
+The president has also imposed 10% tariffs on Chinese imports and effectively raised U.S. taxes on foreign steel and aluminum. He has threatened — and delayed until March 4 — 25% tariffs on goods from Canada and Mexico.
+
+
+Lutnick was CEO at Cantor Fitzgerald when its offices were hit in the Sept. 11, 2001, attack on the World Trade Center. The firm lost two-thirds of its employees — 658 people — that day, including Lutnick's brother. Howard Lutnick led the firm's recovery and is a member of the Board of Directors of the National September 11 Memorial & Museum.
+
+
+Lutnick has promised to sell off his business holdings. They're complicated. His financial disclosure statement showed that he had positions in more than 800 businesses and other private organizations. 
+
+<br> 
+
+<https://www.voanews.com/a/senate-confirms-howard-lutnick-as-commerce-secretary/7980176.html>
+
+---
+
+## 66 measles cases reported in US states of Texas, New Mexico
+
+date: 2025-02-19, from: VOA News USA
+
+Measles is making a comeback in the United States. 
+
+
+Fifty-eight cases of the highly contagious disease were reported Tuesday by health officials in rural West Texas, while eight cases were confirmed in neighboring eastern New Mexico.  
+
+
+Texas officials say the outbreak there, the largest in almost 30 years, is mainly confined to Gaines County, with 45 infections, but four other counties account for an additional 13 cases.   
+
+
+The Texas measles cases, according to health officials, have occurred mainly among a "close-knit, undervaccinated" Mennonite community. 
+
+
+Authorities say at least three of the New Mexico cases are in counties that border Texas' Gaines County. 
+
+
+Earlier this month, the U.S. Centers for Disease Control and Prevention reported 14 measles cases across the country.  
+
+
+Mayo Clinic describes measles as "a childhood infection caused by a virus. Once quite common, measles can now almost always be prevented with a vaccine ... measles spreads easily and can be serious, and even fatal, for small children." 
+
+
+Measles is a respiratory virus that can survive in the air for two hours. As many as nine out of 10 people who are susceptible will get the virus if exposed, according to the CDC.  
+
+
+However, in recent years, the necessity and safety of the vaccinations designed to prevent the disease have come under question, with some parents citing a now-discredited study that linked the measles vaccine to autism.  
+
+
+Another unfortunate development in the fight against measles happened during the COVID-19 pandemic when many children missed their vaccinations. Los Angeles Cedars Sinai said in a statement in February 2024 that 61 million fewer doses of the measles vaccine were distributed nationwide from 2020 to 2022.  
+
+
+Before the MMR vaccination, which addresses not only measles, but also mumps and rubella, was introduced in the U.S. in 1963, there were 3 million to 4 million measles cases every year.   
+
+
+Now there are usually fewer than 200 cases per year, but pockets of measles persist in areas that still resist the vaccinations. The shots are first given to toddlers between 12 and 15 months and then again at 4 to 6 years of age. 
+
+<br> 
+
+<https://www.voanews.com/a/measles-cases-reported-in-us-states-of-texas-new-mexico/7980149.html>
+
+---
+
+## Saudi prince proving crucial to Trump efforts to end Ukraine, Gaza wars
+
+date: 2025-02-19, from: VOA News USA
+
+WASHINGTON — Top U.S. and Russian officials wrapped up their meetings Tuesday in Riyadh, Saudi Arabia, to discuss a pathway to end the war in Ukraine, days before Saudi Crown Prince Mohammed bin Salman is set to convene a summit with leaders from Egypt, Jordan, Qatar and the United Arab Emirates to discuss an Arab response to U.S. President Donald Trump's vow to take over Gaza.
+
+
+The two separate talks reflect the growing role of the prince in Trump's efforts to fulfill his campaign promise to end the wars in Ukraine and Gaza.
+
+
+On Tuesday, Trump again declared he would swiftly end fighting.
+
+
+"I have the power to end this war," Trump said from Mar-a-Lago, his residence in Florida, dismissing Ukrainian President Volodymyr Zelenskyy's concern that Kyiv was excluded from the Riyadh meeting.
+
+
+"Well, you've been there for three years, you should have ended it," he said of Zelenskyy in response to a reporter's question. "I could have made a deal for Ukraine that would have given them almost all of the land."
+
+
+Trump did not clarify which part of land would remain Ukrainian. Russia began its full-scale invasion in February 2022 and now controls parts of the Donetsk, Kherson, Luhansk and Zaporizhzhia regions, and fighting has been ongoing at the borders of Kharkiv and Mykolaiv. Russia annexed Crimea in 2014.
+
+
+The Saudi talks signaled a major détente between Washington and Moscow and an abrupt end of U.S. policy under former President Joe Biden to isolate Russia and support Ukraine "for as long as it takes."
+
+
+Instead, U.S. Secretary of State Marco Rubio dangled the prospects of "the incredible opportunities that exist to partner with the Russians" on trade and other global issues when the war ends.
+
+
+Arab response to Gaza plan
+
+
+Later this week, Prince Mohammed will bring together leaders from Egypt, Jordan, Qatar and the UAE to discuss an Arab response to Trump's vow to take over Gaza and create a "Riviera in the Middle East" by expelling Palestinians from Gaza to neighboring countries.
+
+
+Trump's plan has angered regional leaders, who are now scrambling to come up with a counteroffer that they will discuss in Riyadh ahead of a broader Arab League gathering in Cairo next week.
+
+
+One of the Arab proposals being discussed is an Egyptian-led plan that involves forming a national Palestinian committee to govern Gaza without Hamas and raising up to $20 billion from Arab and Gulf states over three years for reconstruction.
+
+
+As Saudi Arabia makes a play for the diplomatic mainstage, Prince Mohammed is motivated to be proactive rather than reactive, to counsel pragmatism rather than rigidity, said Laura Blumenfeld, a senior fellow and Middle East analyst at the Johns Hopkins School for Advanced International Studies.
+
+
+Blumenfeld told VOA that the prince could pair his approach with a language that Trump likes to speak: investments.
+
+
+On Wednesday, global financiers and tech executives will gather in Miami, Florida, in a conference hosted by the Future Investment Initiative Institute, a nonprofit arm of Saudi Arabia's Public Investment Fund — the kingdom's sovereign wealth fund led by the prince. Trump is scheduled to deliver an address at the event.
+
+
+"Trump is a peacemaker in a hurry, with his eye on the Nobel Prize. [The prince] is a dealmaker in a hurry, with his eye on the Saudi Vision 2030 economic diversification plan," Blumenfeld added. "The two men are a match made in transactional heaven."
+
+
+Prince Mohammed the power broker
+
+
+With his efforts focused on Ukraine and Gaza, the 39-year-old de facto leader of Saudi Arabia has emerged as a power broker that Trump leans on for his foreign policy goals.
+
+
+Prince Mohammed has done this in part by leveraging close ties during Trump's first term, maintaining business ties while Trump was out of office, and further expanding the relationship since the president's inauguration last month.
+
+
+Saudi Arabia was Trump's first foreign trip in 2017, where he signed several deals, including a $110 billion arms deal, which could expand up to $350 billion over 10 years.
+
+
+Trump spoke openly about the transactional nature of the visit, telling reporters days after his second inauguration in January that the reason he chose Riyadh for that first visit was because "they agreed to buy $450 billion worth of our products."
+
+
+Trump suggested on the day of his last inauguration that he would again make Saudi Arabia his first destination in return for Saudi funds, and days later, the prince told him during a phone call that he planned to invest $600 billion or more in the U.S. over the next four years.
+
+
+In 2021, Saudi Arabia invested $2 billion with a firm that belonged to Jared Kushner, Trump's son-in-law and former aide. The Trump Organization has also expanded its real estate presence in the region, announcing it had leased its brand to two real estate projects in Riyadh in December after launching the Trump Tower project in Jeddah.
+
+
+As Prince Mohammed cultivated his political and business ties with Trump, he maintained a relationship with Russian President Vladimir Putin amid Biden's effort to isolate the Russian leader following his 2022 invasion of Ukraine.
+
+
+"The crown prince has been making the argument for the last five years that it's in America's interest that Saudi Arabia maintains very good ties with Russia and China," said Ali Shihabi, author and commentator on the politics and economics of Saudi Arabia.
+
+
+"Saudi Arabia was insisting on maintaining a multipolar policy while maintaining very strong ties with the United States," he told VOA.
+
+
+The prince is poised to host a summit between the two leaders that Trump said he agreed to during his call with Putin last week. The summit, Shihabi said, would be an example of how the prince's gambit has paid off.
+
+
+"I don't think there are any leaders in the world that have the relationship that the crown prince has with both Mr. Putin and Mr. Trump," he said.
+
+
+There is also a practical reason. The kingdom is not a signatory of the Rome Statute of the International Criminal Court, which issued an arrest warrant for Putin in 2023. 
+
+<br> 
+
+<https://www.voanews.com/a/saudi-prince-proving-crucial-to-trump-efforts-to-end-ukraine-gaza-wars/7980148.html>
 
 ---
 
@@ -519,16 +966,33 @@ date: 2025-02-18, from: VOA News USA
 U.S. Secretary of State Marco Rubio said Tuesday that the United States is working toward a "fair" and "sustainable" solution to end Russia’s three-year war on Ukraine, but that both Moscow and Kyiv would have to make concessions to achieve peace.
 
 
-Rubio offered his assessment after he and other key U.S. officials met for more than four hours in Saudi Arabia with Russian Foreign Minister Sergey Lavrov and his aides in a first effort toward ending the war and improving the contentious Washington-Moscow relationship. 
+Rubio offered his assessment after he and other key U.S. officials met for more than four hours in Saudi Arabia with Russian Foreign Minister Sergey Lavrov and his aides in a first effort toward ending the war and improving the contentious Washington-Moscow relationship.
 
 
 “The goal is to bring an end to this conflict in a way that's fair, enduring, sustainable and acceptable to all parties involved," Rubio told reporters, although no Ukrainian or European officials were at the table for the talks.
 
 
-Rubio said he was "convinced" that Moscow was willing to engage in a "serious process" to end the war, which Russia started with a full-scale invasion of its neighbor three years ago next week.
+Ukrainian President Volodymyr Zelenskyy objected to being excluded from the meeting, a position that drew criticism from U.S. President Donald Trump.
 
 
-Lavrov had a similar upbeat view of the talks, saying, “We weren’t just listening to each other, but we heard each other. I have reason to believe that the American side started to better understand our positions.”  
+“Today I heard, ‘Well, we weren’t invited.’ Well, you’ve been there for three years,” Trump said of Ukraine’s leaders. “You should have never started it.”
+
+
+While speaking to reporters at his Florida residence, Trump said he thought he had a “good chance” to end the war. But Zelenskyy has said his country will not agree to a U.S.-Russian dictated settlement of the war.
+
+
+Zelenskyy postponed a trip to Saudi Arabia that had been scheduled for this week, suggesting that he wanted to avoid his visit being linked to the negotiations He is due to host the U.S. envoy for Ukraine, Keith Kellogg, for talks on Wednesday.
+
+
+In Saudi Arabia, Rubio said he was convinced that Moscow was willing to engage in a "serious process" to end the war, which Russia started with a full-scale invasion of its neighbor three years ago next week. 
+
+
+Lavrov had a similar upbeat view of the talks, saying, “We weren’t just listening to each other, but we heard each other. I have reason to believe that the American side started to better understand our positions.”
+
+
+Watch related story by Anita Powell:
+
+
 
 
 Tens of thousands of Russian and Ukrainian soldiers, along with Ukrainian civilians, have been killed in the fighting, Europe’s worst conflict since World War II.
@@ -557,22 +1021,13 @@ Waltz told reporters that negotiations to end the fighting will focus on territo
 Russia now controls about a fifth of Ukraine’s internationally recognized 2014 territory. Moscow controls the Crimean Peninsula that it unilaterally annexed in 2014, along with a large portion of eastern Ukraine pro-Russian separatists captured in subsequent fighting and lands the Russian military have taken over since the 2022 invasion.
 
 
-As the invasion started, Moscow hoped for a quick takeover of all of Ukraine. But with stiff Ukrainian resistance, the war instead evolved into a grinding ground conflict and daily aerial bombardments by each side.
+As the invasion started, Moscow hoped for a quick takeover of all of Ukraine. But with stiff Ukrainian resistance, the war instead evolved into a grinding ground conflict and daily aerial bombardments by each side.  
 
 
-Ukrainian President Volodymyr Zelenskyy has long demanded that his country’s 2014 boundaries be restored, but U.S. officials have said that is unrealistic, as was Kyiv’s long-sought goal of joining NATO, the West’s main military alliance, as part of a negotiated peace settlement.
+Zelenskyy has long demanded that his country’s 2014 boundaries be restored, but U.S. officials have said that is unrealistic, as was Kyiv’s long-sought goal of joining NATO, the West’s main military alliance, as part of a negotiated peace settlement. 
 
 
-Zelenskyy has said it will not agree to a U.S.-Russian dictated settlement of the war.
-
-
-He postponed a trip to Saudi Arabia that had been scheduled for this week, citing the fact that officials from his country were not invited to Tuesday’s U.S.-Russia talks. The Ukrainian leader suggested that he wanted to avoid his visit being linked to the talks and rescheduled the trip for March 10.
-
-
-Zelenskyy is due to host the U.S. envoy for Ukraine, Keith Kellogg, for talks on Wednesday.
-
-
-Bruce said the Rubio-Lavrov talks, the first extensive discussions between the two countries in more than three years, also laid the groundwork for more talks aside from the negotiations to end the war.
+Bruce said the Rubio-Lavrov talks, the first extensive discussions between the two countries in more than three years, also laid the groundwork for more talks aside from the negotiations to end the war. 
 
 
 She said the two sides would “establish a consultation mechanism to address irritants to our bilateral relationship with the objective of taking steps necessary to normalize the operation of our respective diplomatic missions.”

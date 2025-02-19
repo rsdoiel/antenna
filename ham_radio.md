@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-02-18 19:00:36
+updated: 2025-02-19 07:08:03
 ---
 
 # ham radio
 
-(date: 2025-02-18 19:00:36)
+(date: 2025-02-19 07:08:03)
+
+---
+
+## A precision digital rheostat
+
+date: 2025-02-19, from: EDN Blog
+
+<img width="925" height="471" src="https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?fit=925%2C471" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=925 925w, https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=768 768w" sizes="(max-width: 925px) 100vw, 925px" /><p>Implementing a digital rheostat with a Dpot, this time with an accurate programmed resistance equal to reference resistor R1 and U1’s Rbw/Rab</p>
+<p>The post <a href="https://www.edn.com/a-precision-digital-rheostat/" data-wpel-link="internal">A precision digital rheostat</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-precision-digital-rheostat/>
+
+---
+
+## SoC interconnect automates processes, reduces wire length
+
+date: 2025-02-19, from: EDN Blog
+
+<img width="827" height="824" src="https://www.edn.com/wp-content/uploads/Hero-image-FlexGen.png?fit=827%2C824" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-FlexGen.png?w=827 827w, https://www.edn.com/wp-content/uploads/Hero-image-FlexGen.png?w=150 150w, https://www.edn.com/wp-content/uploads/Hero-image-FlexGen.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-FlexGen.png?w=768 768w" sizes="auto, (max-width: 827px) 100vw, 827px" /><p>A new network-on-chip (NoC) IP automates manual methods, optimizes routing, and reduces wiring length to improve chip design efficiency.</p>
+<p>The post <a href="https://www.edn.com/soc-interconnect-automates-processes-reduces-wire-length/" data-wpel-link="internal">SoC interconnect automates processes, reduces wire length</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/soc-interconnect-automates-processes-reduces-wire-length/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-02-18 19:00:36
 
 date: 2025-02-18, from: EDN Blog
 
-<img width="1400" height="1281" src="https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?fit=1400%2C1281" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=1024 1024w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>When is a product upgrade not an upgrade at all…or at least seemingly not much of one? Let's see in this Chromecast Gen 3 teardown... </p>
+<img width="1400" height="1281" src="https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?fit=1400%2C1281" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/overview_inside_no-cage-no-tape.jpg?w=1024 1024w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>When is a product upgrade not an upgrade at all…or at least seemingly not much of one? Let's see in this Chromecast Gen 3 teardown... </p>
 <p>The post <a href="https://www.edn.com/the-google-chromecast-gen-3-gluey-and-screwy/" data-wpel-link="internal">The Google Chromecast Gen 3: Gluey and screwy</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

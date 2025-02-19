@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-02-18 19:00:37
+updated: 2025-02-19 07:08:04
 ---
 
 # writing
 
-(date: 2025-02-18 19:00:37)
+(date: 2025-02-19 07:08:04)
+
+---
+
+## How to Work with Multiple Timelines in Scrivener Projects
+
+date: 2025-02-19, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-work-with-multiple-timelines-in-scrivener-projects>
 
 ---
 

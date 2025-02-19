@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-02-18 19:00:38
+updated: 2025-02-19 07:08:05
 ---
 
 # libraries
 
-(date: 2025-02-18 19:00:38)
+(date: 2025-02-19 07:08:05)
 
 ---
 
@@ -18,6 +18,20 @@ Sauer I.J.; Walsh B.; Frieler K.; Bresch D.N.; Otto C.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/720104>
+
+---
+
+## Declaration To #DefendResearch Against US Government Censorship
+
+date: 2025-02-19, from: Scholarly Kitchen
+
+<p>In response to US government efforts to censor research and researchers, a small group of scholarly communications professionals have launched a Declaration to defend research. Learn more in today's post by Alice Meadows, one of the members of this group.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/19/declaration-to-defendresearch-against-us-government-censorship/">Declaration To #DefendResearch Against US Government Censorship</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/19/declaration-to-defendresearch-against-us-government-censorship/>
 
 ---
 

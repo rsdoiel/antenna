@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-02-18 19:00:40
+updated: 2025-02-19 07:08:07
 ---
 
 # craft
 
-(date: 2025-02-18 19:00:40)
+(date: 2025-02-19 07:08:07)
+
+---
+
+## True Grit: A Dirty Job But Not a Dirty Word
+
+date: 2025-02-19, from: Lost Arg Press blog
+
+The following is an excerpt from &#8220;The Stick Chair Journal.&#8221; &#8220;The Stick Chair Journal 2&#8221; is also now available. While supplies last, you can purchase a bundle of issues Nos. 1 &#38; 2 at a reduced price. James Krenov was the first woodworker I heard about who didn’t use sandpaper. That idea – no sandpaper... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/19/true-grit-a-dirty-job-but-not-a-dirty-word/>
 
 ---
 

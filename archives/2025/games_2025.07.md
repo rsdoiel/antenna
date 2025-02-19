@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-02-18 19:00:38
+updated: 2025-02-19 07:08:05
 ---
 
 # games
 
-(date: 2025-02-18 19:00:38)
+(date: 2025-02-19 07:08:05)
+
+---
+
+## To Catch a Killer, now on Netflix, is a great thriller lost in the details
+
+date: 2025-02-19, updated: 2025-02-18, from: Polygon Website
+
+It doesn’t take much to make a great thriller, particularly when a serial killer is involved. A little bit of clever framing, whether it’s the seven deadly sins or the FBI using the expertise of one killer to catch another, is all you really need to cook up something great. In the best examples, even [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/525149/catch-killer-netflix-movie-thriller-pretty-good>
+
+---
+
+## What time does Fortnite Chapter 6 Season 2 release?
+
+date: 2025-02-19, updated: 2025-02-19, from: Polygon Website
+
+Fortnite places you in the role of a bank robber in Chapter 6 Season 2, which has the official title of “Lawless.” The heist theme is a popular one in the Fortnite realm, as players can complete a train heist as recently as Chapter 6 Season 1. However, trains are not the only source of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/524613/chapter-6-season-2-release-time-downtime-c6s2>
+
+---
+
+## Keep Driving’s perfectly annoying hitchhikers are a game-design master class
+
+date: 2025-02-19, updated: 2025-02-18, from: Polygon Website
+
+On my second run through Keep Driving — a wonderful, turn-based, pixel-art game about taking long road trips as an aimless youth in the early 2000s — I picked up a hitchhiker called The Hurricane. This young woman was attractive and cool, much cooler than me. But she was also kind of annoying. She kept [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/524612/keep-driving-review-pc>
+
+---
+
+## Pokémon Go is reportedly for sale and the price tag is huge
+
+date: 2025-02-19, updated: 2025-02-19, from: Polygon Website
+
+In 2016, Pokémon Go was the biggest video game on the planet, breaking software download records and sending local news into hysterics. Nine years and many less popular games later, developer Niantic Inc. is preparing to sell its games division to Saudia Arabia-owned Scopely Inc., according to a report by Bloomberg. How much does one [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/525383/pokemon-go-sale-niantic-scopely>
 
 ---
 

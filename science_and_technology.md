@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-02-18 19:00:37
+updated: 2025-02-19 07:08:04
 ---
 
 # science and technology
 
-(date: 2025-02-18 19:00:37)
+(date: 2025-02-19 07:08:04)
+
+---
+
+## Your days of driver sync via Windows Server Update Services are numbered
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Microsoft suggests a move to the cloud</h4> <p>Microsoft has issued administrators a 60-day warning – driver synchronization using Windows Server Update Services (WSUS) will be deprecated.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/wsus_drive_sync_deprecated/>
+
+---
+
+## Odds of asteroid 2024 YR4 hitting Earth creep upward
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>It&#39;s probably fine</h4> <p>As the risk corridor narrows for asteroid 2024 YR4, the possibility of a collision with Earth have increased.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/2024-yr4/>
+
+---
+
+## How Long Does it Take to Get to the Moon… Mars… Jupiter? We Asked a NASA Expert: Episode 51
+
+date: 2025-02-19, from: NASA breaking news
+
+So how long does it take to get from Earth to the Moon, to Mars or to Jupiter? As with most things in life, the answer is: it depends. 
+
+<br> 
+
+<https://www.nasa.gov/solar-system/how-long-does-it-take-to-get-to-the-moon-mars-jupiter-we-asked-a-nasa-expert-episode-51/>
+
+---
+
+## Hundreds of Dutch medical records bought for pocket change at flea market
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>15GB of sensitive files traced back to former software biz</h4> <p>Typically shoppers can expect to find tie-dye t-shirts, broken lamps and old disco records at flea markets, now it seems storage drives filled with huge volumes of sensitive data can be added to that list.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/hundreds_of_dutch_medical_records/>
+
+---
+
+## Mobile operators brace for bigger, faster headaches with 6G
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>NGMN reports what telcos want, but admits most can be delivered by 5G</h4> <p>Mobile operators are pushing for consensus on the key components of next-gen 6G networks, warning that a new radio interface could add complexity – though they acknowledge it would also allow for higher data rates.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/ngmn_6g_report/>
+
+---
+
+## Type-safe C-killer Delphi hits 30, but a replacement has risen
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>The FOSS world has replicated most of it in Lazarus</h4> <p>Delphi is still very much with us, but the FOSS world also has its own, largely compatible, GUI-based Object Pascal environment – and it&#39;s worth a look.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/delphi_turns_30/>
+
+---
+
+## Microsoft declutters Windows 11 File Explorer in the name of Euro privacy
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Also hammers another nail into Cortana&#39;s coffin with the end of Location History</h4> <p>Microsoft had a Valentine&#39;s Day gift for Windows Insiders, firing another arrow into the heart of Cortana while also attempting to soothe European privacy concerns.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/windows_11_24h2_preview/>
+
+---
+
+## NASA Selects New Round of Student-Led Aviation Research Awards
+
+date: 2025-02-19, from: NASA breaking news
+
+NASA has selected two new university student teams to participate in real-world aviation research challenges meant to transform the skies above our communities. The research awards were made through NASA’s University Student Research Challenge (USRC), which provides students with opportunities to contribute to NASA’s flight research goals. This round is notable for including USRC’s first-ever [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/2025-usrc-research-awards-announced/>
+
+---
+
+## London celebrity talent agency reports itself to ICO following Rhysida attack claims
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Showbiz members&#39; passport scans already plastered online</h4> <p>A London talent agency has reported itself to the UK&#39;s data protection watchdog after the Rhysida ransomware crew last week claimed it had attacked the business, which represents luminaries of stage and screen.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/london_celebrity_talent_agency_reports/>
+
+---
+
+## HP Inc. to build future products atop grave of flopped 'AI pin'
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Tech and people behind IoT brooch that reviewers instantly hated will one day pep up printers</h4> <p>The “AI Pin” produced by company called Humane was a leading tender for 2024’s biggest consumer tech flop, but that hasn’t stopped HP acquiring some of the code and people behind the device and using it as the basis for a new innovation team that will infuse its printers and conference room kit with AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/hp_acquires_humane/>
+
+---
+
+## Einstein Probe finds two stars that have spent 40 million years taking turns eating each other
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Odd X-ray flashes gave the game away, just few weeks after China-led mission launched</h4> <p>The Einstein Probe telescope has spotted evidence of one star consuming matter from another.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/einstein_probe_twin_stars_revealed/>
+
+---
+
+## Trump teases 25 percent semiconductor tariffs that will go ‘substantially higher’
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Envisions phased introduction dependent on manufacturing commitments</h4> <p>United States President Donald Trump has hinted at substantial tariffs on imported semiconductors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/trump_semiconductor_tariff_plan/>
 
 ---
 
@@ -503,7 +647,7 @@ date: 2025-02-17, updated: 2025-02-17, from: The Register (UK I.T. News)
 
 ## There's a slight chance Asteroid 2024 YR4 could hit Moon in 2032
 
-date: 2025-02-17, updated: 2025-02-18, from: The Register (UK I.T. News)
+date: 2025-02-17, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 <h4>Very unlikely, but could make for a neat light show if it does</h4> <p>There is a chance, albeit slim, that asteroid 2024 YR4 could hit the Moon, creating a new crater and an explosion that might just be visible from Earth.…</p> 
 

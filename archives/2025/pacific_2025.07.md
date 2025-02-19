@@ -1,11 +1,317 @@
 ---
 title: pacific
-updated: 2025-02-18 19:00:36
+updated: 2025-02-19 07:08:03
 ---
 
 # pacific
 
-(date: 2025-02-18 19:00:36)
+(date: 2025-02-19 07:08:03)
+
+---
+
+## DFS Saipan to close shop, ending four decades of operations in the CNMI
+
+date: 2025-02-19, from: Pacific Island Times
+
+Against the backdrop of a stagnant tourism market, DFS Galleria
+
+will shutter its Saipan stores on May 1, capping its more than four decades 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/dfs-saipan-to-close-shop-ending-four-decades-of-operations-in-the-cnmi>
+
+---
+
+## Waimea couple killed in North Kona traffic crash
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Police are investigating a two-vehicle traffic collision that killed a husband and wife from Waimea early this morning on Queen Kaahumanu Highway in North Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/hawaii-news/waimea-couple-killed-in-north-kona-traffic-crash-2/>
+
+---
+
+## Police seek leads on missing Puna man
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking a missing 37-year-old Kurtistown man.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/hawaii-news/police-seek-leads-on-missing-puna-man-4/>
+
+---
+
+## Brazil’s ex-President Bolsonaro charged in alleged coup plot
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>SAO PAULO/BRASILIA &#8212; Former Brazil President Jair Bolsonaro was charged on Tuesday with overseeing a plot to overturn his 2022 election loss with a coup, further complicating the far-right firebrand&#8217;s already narrow hopes of pulling off a political comeback.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/brazils-ex-president-bolsonaro-charged-in-alleged-coup-plot/>
+
+---
+
+## Council members put the brakes on HPD resolution
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Routine agreements between federal agencies and the Hawaii Police Department were postponed over concerns about overreach in illegal immigration enforcement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/hawaii-news/council-members-put-the-brakes-on-hpd-resolution/>
+
+---
+
+## US Marines start to leave Japan, decades behind schedule
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>OKINAWA, Japan &#8212; Before Christmas, a contingent of 105 U.S. Marines who would have been sent to Okinawa were redirected to a new base on the United States territory of Guam instead. The small reshuffling marked a major milestone: This was the first time the Marines cut their head count on Okinawa as part of a deal between Washington and Tokyo to shrink an oversized U.S. military presence on the Pacific island that dates back to World War II.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/us-marines-start-to-leave-japan-decades-behind-schedule/>
+
+---
+
+## Measures seek to bolster farmers and boost penalties for agricultural crimes
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Among a plethora of agriculture-related bills introduced this legislative session, two moving forward include one that would increase penalties for agricultural theft and another which would allow farmers and ranchers to use deadly force against intruders under certain circumstances.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/hawaii-news/measures-seek-to-bolster-farmers-and-boost-penalties-for-agricultural-crimes/>
+
+---
+
+## String of air crashes in 2025 has rattled travelers
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>The Delta Air Lines crash at Toronto Pearson International Airport on Monday is the latest in a series of accidents this year that has spread anxiety among air travelers and prompted sharp criticism of American aviation regulators.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/string-of-air-crashes-in-2025-has-rattled-travelers/>
+
+---
+
+## Arctic air mass expected to bring dangerous temperatures to parts of the US
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>A powerful surge of arctic air from Canada will descend on the Central and Eastern United States this week, delivering record-breaking cold and dangerously low wind chills, forecasters said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/arctic-air-mass-expected-to-bring-dangerous-temperatures-to-parts-of-the-us/>
+
+---
+
+## Native American activist Leonard Peltier released from prison
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Leonard Peltier, a Native American rights activist held for nearly half a century for the killing of two FBI agents, was released from a federal prison in Central Florida on Tuesday morning.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/native-american-activist-leonard-peltier-released-from-prison/>
+
+---
+
+## CIA expands secret drone flights over Mexico
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States has stepped up secret drone flights over Mexico to hunt for fentanyl labs, part of the Trump administration&#8217;s more aggressive campaign against drug cartels, according to U.S. officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/cia-expands-secret-drone-flights-over-mexico/>
+
+---
+
+## After walking a fine line with Trump, Zelenskyy shows his annoyance
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Shortly after the United States&#8217; opening meeting with Russian officials on Tuesday, President Volodymyr Zelenskyy of Ukraine lashed out at the Trump administration&#8217;s negotiating tactics in his harshest terms yet for excluding Ukrainians from talks on their own country&#8217;s fate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/after-walking-a-fine-line-with-trump-zelenskyy-shows-his-annoyance/>
+
+---
+
+## Judge declines to block Musk team’s foray into federal agencies
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge in Washington gave President Donald Trump a victory for now when she declined Tuesday to bar Elon Musk and his associates from ordering mass firings or having access to data at seven federal agencies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/judge-declines-to-block-musk-teams-foray-into-federal-agencies/>
+
+---
+
+## US, Russia forge ahead on peace talks, without Ukraine
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>RIYADH &#8212; U.S. President Donald Trump&#8217;s administration said on Tuesday it agreed to hold more talks with Russia on ending the war in Ukraine after an initial meeting that excluded Kyiv, a departure from Washington&#8217;s previous approach that rallied U.S. allies to isolate Russian President Vladimir Putin.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/us-russia-forge-ahead-on-peace-talks-without-ukraine/>
+
+---
+
+## News in brief February 19
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Prosecutor in US attorney&#8217;s office in Washington abruptly resigns</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/nation-world-news/news-in-brief-february-19/>
+
+---
+
+## Hiring event Saturday at Hilo mall
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island residents are invited to a hiring event from 10 a.m.to 2 p.m. Saturday at the Prince Kuhio Plaza in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/community/hiring-event-saturday-at-hilo-mall/>
+
+---
+
+## Veterans group offers scholarships
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island Veterans Memorial is pleased to offer $2,000 scholarships to Hawaii Island high school graduates to support pursuit of a college degree or professional certification program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/community/veterans-group-offers-scholarships/>
+
+---
+
+## Living & Design Home Expo this weekend
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>The Kona-Kohala Chamber of Commerce invites the community to the 18th Annual Living &#38;Design Home Expo this weekend at the Outrigger Kona Resort &#38;Spa Kaleiopapa Convention Center.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/community/living-design-home-expo-this-weekend/>
+
+---
+
+## Public invited to complete HPD satisfaction survey
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department Chief Benjamin Moszkowicz invites members of the public to take the department&#8217;s community satisfaction survey now through 4 p.m. on Feb. 28.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/community/public-invited-to-complete-hpd-satisfaction-survey/>
+
+---
+
+## Big Island Swing Band at Kahilu this Saturday
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8212; Club Kahilu Dance Night returns for an electrifying evening of swing, jazz, and big band classics at 7 p.m. on Saturday. The Big Island Swing Band, featuring Na Hoku Hanohano Award recipient Jesse Snyder, takes the stage at Kahilu Theatre for a high-energy night of music and dancing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/entertainment/big-island-swing-band-at-kahilu-this-saturday/>
+
+---
+
+## Hawaiian Word of the Week: Hoʻopaʻa
+
+date: 2025-02-19, from: University of Hawaiʻi News
+
+<p><span aria-label="Hoopaa">Ho&#699;opa&#699;a</span>&#8212;Study.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/hawaiian-word-of-the-week-hoopaa/">Hawaiian Word of the Week: Hoʻopaʻa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/hawaiian-word-of-the-week-hoopaa/>
+
+---
+
+## President Hensel visits UH Hilo, engages campus community
+
+date: 2025-02-19, from: University of Hawaiʻi News
+
+<p>Discussions covered key issues such as technology adoption, staff development, transparency, student fees and expanding interdisciplinary collaboration.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/18/president-hensel-visits-uh-hilo/">President Hensel visits <abbr>UH</abbr> Hilo, engages campus community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/18/president-hensel-visits-uh-hilo/>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: socal north
-updated: 2025-02-18 19:00:36
+updated: 2025-02-19 07:08:03
 ---
 
 # socal north
 
-(date: 2025-02-18 19:00:36)
+(date: 2025-02-19 07:08:03)
+
+---
+
+## ¿Le preocupa la presencia de agentes de ICE en su comunidad? Los defensores recomiendan: 'Conozca sus derechos'
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+Los inmigrantes indocumentados y las familias de estatus mixto están tomando medidas para hacerse valer y prepararse ante situaciones adversas. 
+
+<br> 
+
+<https://laist.com/news/politics/preocupa-presencia-agentes-ice-comunidad-defensores-recomiendan-conozca-sus-derechos-inmigracion>
+
+---
+
+## Dry and clear skies for the rest of the week
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+A slight warm up kicks off today. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/dry-and-clear-skies-for-the-rest-of-the-week>
+
+---
+
+## Hip-hop star A$AP Rocky is found not guilty in firearm case, avoiding prison
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+Jurors found A$AP Rocky, a rapper and the longtime partner of Rihanna, not guilty of firing a gun at a former friend on a Hollywood street in 2021. He could have faced up to 24 years in prison. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/hip-hop-star-a-ap-rocky-is-found-not-guilty-in-firearm-case-avoiding-prison>
 
 ---
 
@@ -158,6 +194,18 @@ As it recovers, Altadena finds inspiration in other wildfire-devastated communit
 <br> 
 
 <https://laist.com/news/climate-environment/altadena-regrow-a-community-after-wildfire>
+
+---
+
+## Thousands of volunteers launch LA’s annual homeless count
+
+date: 2025-02-18, updated: 2025-02-19, from: The LAist
+
+The data collected over the next several days plays a big part in how resources and programs are allocated. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/las-annual-homeless-count-2025>
 
 ---
 

@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-02-18 19:00:39
+updated: 2025-02-19 07:08:06
 ---
 
 # motorcycles
 
-(date: 2025-02-18 19:00:39)
+(date: 2025-02-19 07:08:06)
+
+---
+
+## Mark Your Calendars, BMW Motorrad Days Returns To the US
+
+date: 2025-02-19, from: Ride Apart, Electric Motorcycle News
+
+It’s part of the Barber Vintage Festival which will run from October 3 to 5, 2025. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750977/bmw-motorrad-days-usa-october2025/>
+
+---
+
+## KTM Has Zero Chill With Its Big Single, Wants That Ducati Crown Back
+
+date: 2025-02-19, from: Ride Apart, Electric Motorcycle News
+
+But in the end, will it matter? 
+
+<br> 
+
+<https://www.rideapart.com/news/750822/ktm-lc4-engine-horsepower-upgrade/>
 
 ---
 

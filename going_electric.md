@@ -1,11 +1,111 @@
 ---
 title: going electric
-updated: 2025-02-18 19:00:40
+updated: 2025-02-19 07:08:07
 ---
 
 # going electric
 
-(date: 2025-02-18 19:00:40)
+(date: 2025-02-19 07:08:07)
+
+---
+
+## Trump Could Hit The Entire Auto Industry With The Chicken Tax
+
+date: 2025-02-19, from: Inside EVs News
+
+Also on today's Critical Materials: Rivian's cost-cutting may have paid off, and electric and hydrogen truck startup Nikola goes bust. 
+
+<br> 
+
+<https://insideevs.com/news/751164/chicken-tax-nikola-rivian-cm/>
+
+---
+
+## The Tesla Cybertruck's First Crash Results Are Here
+
+date: 2025-02-19, from: Inside EVs News
+
+This is the first time the Cybertruck has been crash-tested, and it follows a longtime pattern from Tesla. 
+
+<br> 
+
+<https://insideevs.com/news/751144/tesla-cybertruck-nhtsa-crash-test/>
+
+---
+
+## First Drive: We kicked up some SoCal sand off-roading in the new Hyundai IONIQ 5 XRT
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/IONIQ-5-XRT-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Less than a year after its initial reveal, Hyundai officially launched its off-road-friendly IONIQ 5 XRT variant in the US and invited us to Palm Springs to test it out. This is a <a href="https://electrek.co/guides/hyundai/">Hyundai </a>IONIQ through and through, but it features some unique design upgrades, including a new drive mode to help it tackle tougher terrain than its siblings. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="first-drive,hyundai,hyundai-ioniq-5,hyundai-ioniq-5-xrt" data-layer-viewtype="unknown" data-post-id="401829" href="https://electrek.co/2025/02/19/we-kicked-up-some-socal-sand-off-roading-new-hyundai-ioniq-5-xrt/#more-401829" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/we-kicked-up-some-socal-sand-off-roading-new-hyundai-ioniq-5-xrt/>
+
+---
+
+## First drive in the 2025 Hyundai IONIQ 5: A familiar model with some choice upgrades
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/2025-IONIQ-5-Hero-CU_132491.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As we get ready to exit month two of 2025, the opportunities to test drive model-year BEVs are starting to arise. The most recent was a trim to Palm Springs, California, to test out the 2025 Hyundai IONIQ 5. This flagship BEV saw a mid- refresh for 2025, so I didn’t experience the most drastic of changes compared to previous versions. In the places where <a href="https://electrek.co/guides/hyundai/">Hyundai </a>did improve the IONIQ 5, however, I noticed savvy upgrades that took customer feedback into consideration and made an already high-quality BEV even better.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="first-drive,hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="401826" href="https://electrek.co/2025/02/19/first-drive-2025-hyundai-ioniq-5-familiar-model-choice-upgrades/#more-401826" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/first-drive-2025-hyundai-ioniq-5-familiar-model-choice-upgrades/>
+
+---
+
+## Here are the best electric bikes you can buy at every price level in February 2025
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/tern-quick-haul-taiwan-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>I’ve spent countless hours here at <em>Electrek</em> doing detailed <a href="https://electrek.co/2023/01/11/radtrike-review-testing-rad-power-bikes-electric-trike/">hands-on testing</a> of hundreds of electric bikes. Through thousands of miles of riding, I’ve been fortunate to learn these e-bikes inside and out, top to bottom and front to back. That long-term experience with real-world e-bike testing has helped me find the best electric bicycles on the market for just about any budget.</p>
+
+
+
+<p>Below are some of the top e-bikes I’ve hand-tested for every price range, current as of February 2025. It may still be cold and snowy in much of the country, but that doesn’t mean now isn’t a great chance to start the year off with a fun and efficient electric bicycle! So check out the awesome e-bikes below, any one of which could become your next electric bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="228361" href="https://electrek.co/2025/02/19/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/#more-228361" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/here-are-the-best-electric-bikes-you-can-buy-at-every-price-level/>
+
+---
+
+## Volvo, Polestar EVs Get Samsung’s Digital Key Technology
+
+date: 2025-02-19, from: Inside EVs News
+
+Owners can lock, unlock and start their cars using their smartphone as a key. 
+
+<br> 
+
+<https://insideevs.com/news/751112/volvo-polestar-ev-samsung-digital-key/>
+
+---
+
+## Honda And Nissan Might Still End Up Together, But There’s A Big ‘If’: Report
+
+date: 2025-02-19, from: Inside EVs News
+
+Honda is reportedly open to returning to the negotiations table if Nissan’s CEO steps down. 
+
+<br> 
+
+<https://insideevs.com/news/751105/honda-nissan-merger-discussions-return-report/>
 
 ---
 

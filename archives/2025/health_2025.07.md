@@ -1,11 +1,59 @@
 ---
 title: health
-updated: 2025-02-18 19:00:39
+updated: 2025-02-19 07:08:06
 ---
 
 # health
 
-(date: 2025-02-18 19:00:39)
+(date: 2025-02-19 07:08:06)
+
+---
+
+## Molecular epidemiology of Neisseria gonorrhoeae isolates in Russia, 2015–2023: current trends and forecasting
+
+date: 2025-02-19, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe emergence of multidrug resistance in N. gonorrhoeae is a serious global problem, and gonorrhea may soon become an incurable disease. The aim of the study was to characterize the N. gonorrhoeae population in Russia from 2015 to 2023 and predict the potential spread of the most concerning clones.MethodsA total of 996 N. gonorrhoeae isolates were examined during the analyzed period. Ceftriaxone and azithromycin susceptibility testing were performed using the agar dilution method. Microarray-based assays and sequencing were employed to identify the genotypes and genetic markers of antimicrobial resistance.ResultsNo ceftriaxone-resistant isolates were found in Russia, however, the number of isolates with reduced susceptibility to ceftriaxone has increased to 22.6% in recent years. Since 2020, approximately 12.5% of isolates have exhibited resistance to azithromycin annually. Two clusters of isolates pose a particular threat to Russia: NG-MAST G2212, linked to MLST 1901/1902, carries a mosaic structure in the penA gene; G12302, linked to MLST 9363, contains mosaic alleles in the mtrR and mtrD genes. Additionally, two new high-risk genogroups were characterized: G18898 and G16206. Both are associated with MLST 10314 and harbor mosaic variants of penA or mtrR/mtrD. Analysis of time series data suggests that isolates with mosaic alleles are unlikely to be eradicated from the population in the near future, potentially worsening the epidemiological situation of gonorrhea in Russia.ConclusionsThe native genetic strains of N. gonorrhoeae in Russia, which are susceptible to cephalosporins and macrolides, are being progressively replaced by globally dominant lineages. To further characterize this epidemiologic shift, ongoing surveillance strategies using molecular epidemiology and the identification of genetic markers will be crucial in curbing the growth and spread of N. gonorrhoeae resistance. Such efforts are vital in ensuring the availability of effective treatments for gonococcal infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1526859>
+
+---
+
+## Baseline HBsAg quantitative and CD4 T cell counts are associated with HBsAg loss in people living with HIV/HBV coinfection after combined antiretroviral therapy
+
+date: 2025-02-19, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundAchieving Hepatitis B surface antigen (HBsAg) loss is a significant goal for chronic hepatitis B patients. This study aims to evaluate HBsAg loss in individuals with HIV/HBV coinfection and explore the association of clinical variables with this outcome.MethodsWe enrolled 138 individuals coinfected with HIV/HBV and 480 HBV mono-infected individuals who initiated antiviral treatment. We employed Kaplan-Meier analysis to compare the rate of HBsAg loss between individuals with HIV/HBV coinfection and those with HBV mono-infection. In the HIV/HBV coinfected cohort, we used Cox proportional hazards models to assess the association between various factors and the incidence of HBsAg loss.ResultsThe cumulative HBsAg loss rate was higher among HBV/HIV coinfected individuals (13 patients, 11.5% at year 3) compared to HBV mono-infected individuals (1 patient, 0.6%) after antiviral therapy. In the HIV/HBV coinfected cohort, the multivariable analysis revealed that lower baseline HBsAg level (HR 0.53; 95% CI 0.38-0.74, p<0.001) and baseline CD4 T cell counts < 180 cells/uL (HR 0.32; 95% CI 0.10-0.96, p=0.042) were associated with an increased indicator of HBsAg loss. Additionally, the receiver-operating characteristic curve analysis indicated an area under the curve of 0.771 for baseline HBsAg levels and 0.758 for baseline CD4 cell counts at year 1 in predicting HBsAg loss.ConclusionsAfter antiretroviral therapy, HIV/HBV coinfected adults achieve higher rates of HBsAg loss. Baseline HBsAg quantitative and CD4 T cell counts are associated with HBsAg loss in individuals with HIV/HBV coinfection after combined antiretroviral therapy and may inform treatment decisions. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1381826>
+
+---
+
+## Clinical utility of nanopore-targeted sequencing for diagnosing and treating pulmonary infectious diseases from bronchoalveolar lavage fluid
+
+date: 2025-02-19, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundConventional microbial testing (CMTs) for infectious pathogens faces challenges in rapid and comprehensive detection. Nanopore-targeted sequencing (NTS) is a novel approach for rapid identification of pathogens; however, clinical experience with the application of NTS is limited.MethodsWe evaluated the diagnostic value of NTS for detecting microbes in bronchoalveolar lavage fluid samples in patients with pulmonary infectious disease (PID, 137 cases), non-pulmonary infectious disease (NPID, 32 cases), or with an unknown etiology (11 cases). We performed a comparative analysis of the diagnostic efficacy of NTS and CMTs in identifying pulmonary infectious diseases and investigated the clinical utility of NTS as a diagnostic tool.ResultsNTS was significantly more sensitive than CMTs in detecting PID (86.13% vs 67.15%, P < 0.01), particularly for important specific pathogens. There were no significant differences between NTS and CMTs in terms of specificity, positive predictive value or negative predictive value. Moreover, NTS (not CMTs) detected 56 microorganisms consistent with clinical presentation, indicating that NTS can provide clinicians with additional support for infection diagnosis. Additionally, prior antibiotic exposure had no influence on the detection efficiency of NTS but significantly hindered that of CMTs. After antibiotic adjustments based on NTS findings, 87.76% of patients showed significant improvement, with a notable decrease in the level of inflammatory markers (CRP, NP, PCT, WBC) post-treatment. Furthermore, NTS can significantly shorten turnaround time and provide real-time results for rapid decision making.ConclusionsNTS is more efficient than CMTs in diagnosing pulmonary infectious diseases, particularly in detecting critical or specific pathogens, providing faster and more accurate clinical information even for patients with prior antibiotic exposure. Moreover, NTS can assist clinicians in formulating more effective anti-infection strategies. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1469440>
+
+---
+
+## Plasma cell-free DNA Droplet Digital PCR provides rapid and efficient infectious microbiology diagnosis for febrile haematological patients
+
+date: 2025-02-19, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundFebrile haematological patients are at high risk for potential bloodstream infections, the rapid and accurate identification of pathogens is crucial for clinical diagnosis and treatment. Droplet Digital PCR (ddPCR) is a novel and ultra-sensitively molecular technique for the rapid detection of pathogens. We evaluated the ability of ddPCR to identify infectious etiologies to discuss the applicability of ddPCR in the diagnosis and treatment of infections for febrile haematological patients.MethodsThis study enrolled and analyzed 89 ddPCR tests performed on 71 febrile haematological patients. We conducted a comparison between ddPCR results, blood culture (BC), and conventional microbiological testing (CMT). Additionally, we analyzed the correlation between ddPCR results and inflammatory factors, as well as their impact on antimicrobial therapy.ResultsDdPCR detected 113 pathogens in 72 plasma samples, while CMT identified 39 pathogens in 32 plasma samples. The detection rate of bacteria and viruses using ddPCR was significantly higher than that of CMT (p <0.0001). The turnaround time (TAT) for pathogenic diagnosis was significantly shorter with ddPCR compared to CMT (p <0.0001). When we used the CMT as reference standard, the sensitivity and specificity of ddPCR were 93.8%, 26.3%, respectively. We observed a positive correlation between the ddPCR results and CRP, PCT and IL-6, and ddPCR (AUC=0.771) has better diagnostic performance. The anti-infective treatment strategies were adjusted for 30 patients based on the positive ddPCR results, with 86.7% (26/30) of these cases demonstrating effectiveness in the anti-infective treatment.ConclusionDdPCR has the potential to enhance pathogen detection in febrile haematological patients by offering high sensitivity, rapid, precise results, it demonstrates better diagnostic performance compared to inflammatory factors and can contribute to the real-time clinical optimization of antimicrobial regimens, thereby enhancing the efficacy of anti-infective therapy. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1522426>
 
 ---
 

@@ -1,11 +1,131 @@
 ---
 title: journalism
-updated: 2025-02-18 19:00:38
+updated: 2025-02-19 07:08:05
 ---
 
 # journalism
 
-(date: 2025-02-18 19:00:38)
+(date: 2025-02-19 07:08:05)
+
+---
+
+## Classifieds – February 19, 2025
+
+date: 2025-02-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/19/classifieds-february-19-2025/">Classifieds &#8211; February 19, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/19/classifieds-february-19-2025/>
+
+---
+
+## USG senate hears presentations on wellness week, pickleball
+
+date: 2025-02-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Ali Bhatti and Chichi Makasi ticket was issued sanctions for four violations.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/19/usg-senate-hears-presentations-on-wellness-week-pickleball/">USG senate hears presentations on wellness week, pickleball</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/19/usg-senate-hears-presentations-on-wellness-week-pickleball/>
+
+---
+
+## ‘The Monkey’ is a bloody, disjointed crowd-pleaser
+
+date: 2025-02-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Stephen King adaptation is a gory joyride, although it may leave a little to be desired as a follow-up to Oz Perkins’ “Longlegs.”</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/19/the-monkey-is-a-bloody-disjointed-crowd-pleaser/">‘The Monkey’ is a bloody, disjointed crowd-pleaser</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/19/the-monkey-is-a-bloody-disjointed-crowd-pleaser/>
+
+---
+
+## Convocation returns after wildfire delay
+
+date: 2025-02-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>President Carol Folt, Provost Andrew Guzman and student leaders spoke Tuesday.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/19/convocation-returns-after-wildfire-delay/">Convocation returns after wildfire delay</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/19/convocation-returns-after-wildfire-delay/>
+
+---
+
+## Savannah Tweedt marches to the beat of her own drum
+
+date: 2025-02-19, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The freshman drummer is forging a unique path as a woman in percussion.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/19/savannah-tweedt-marches-to-the-beat-of-her-own-drum/">Savannah Tweedt marches to the beat of her own drum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/19/savannah-tweedt-marches-to-the-beat-of-her-own-drum/>
+
+---
+
+## First Thursdays brings comfort, crafting to community in response to LA fires
+
+date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Torrential downpour did not stop UCLA students, alumni and Westwood community members from attending February&#8217;s fire relief First Thursdays event.
+On Feb. 6, First Thursdays &#8211; typically hosted on Broxton Avenue by UCLA Strategic Communications and the Westwood Village Improvement Association &#8211; took place in the Palisades Room in Carnesale Commons because of a weather storm the day it was scheduled. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/first-thursdays-brings-comfort-crafting-to-community-in-response-to-la-fires/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper))
+
+Pro-Palestine groups protested on campus Tuesday to call on UCLA to reinstate its chapters of Students for Justice in Palestine and Graduate Students for Justice in Palestine and for the UC to divest from companies associated with the Israeli military. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/480913/>
+
+---
+
+## Multiple pro-Palestine groups protest suspension of SJP, Graduate SJP on campus
+
+date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 18 at 8:46 p.m.</em>
+One person was detained after multiple pro-Palestine groups protested at UCLA on Tuesday.
+&#160;
+Around 150 people gathered in Dickson Plaza around 2 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/multiple-pro-palestine-groups-protest-suspension-of-sjp-graduate-sjp-on-campus/>
+
+---
+
+## Students for Justice in Palestine Protest February 18th
+
+date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+SJP protested their suspension and continued calls for the UC to divest. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/18/students-for-justice-in-palestine-protest-february-18th/>
 
 ---
 

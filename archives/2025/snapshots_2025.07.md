@@ -1,11 +1,139 @@
 ---
 title: snapshots
-updated: 2025-02-18 19:00:41
+updated: 2025-02-19 07:08:08
 ---
 
 # snapshots
 
-(date: 2025-02-18 19:00:41)
+(date: 2025-02-19 07:08:08)
+
+---
+
+## Podcast: DOGE's Website, Hacked
+
+date: 2025-02-19, from: 404 Media Group
+
+DOGE left its website backend exposed; lawyers own up to using AI; and a YouTube true crime documentary channel where all the murders are AI-generated. 
+
+<br> 
+
+<https://www.404media.co/podcast-doges-website-hacked/>
+
+---
+
+## Quoting Matt Webb
+
+date: 2025-02-19, updated: 2025-02-19, from: Simon Willison’s Weblog
+
+<blockquote cite="https://interconnected.org/home/2025/02/19/reflections"><p>Meanwhile blogging has become small-p political again.</p>
+<p>Slowly, slowly, the web was taken over by platforms. Your feeling of success is based on your platform’s algorithm, which may not have your interests at heart. Feeding your words to a platform is a vote for its values, whether you like it or not. And they roach-motel you by owning your audience, making you feel that it’s a good trade because you get “discovery.” (Though I know that chasing popularity is a fool’s dream.)</p>
+<p>Writing a blog on your own site is a way to escape all of that. Plus your words build up over time. That’s unique. Nobody else values your words like you do.</p>
+<p>Blogs are a backwater (the web itself is a backwater) but keeping one is a statement of how being online can work. Blogging as a kind of Amish performance of a better life.</p></blockquote>
+<p class="cite">&mdash; <a href="https://interconnected.org/home/2025/02/19/reflections">Matt Webb</a>, Reflections on 25 years of Interconnected</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/matt-webb">matt-webb</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/social-media">social-media</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/19/matt-webb/#atom-everything>
+
+---
+
+## Adjacent to Refuse Is, Perhaps, Not Always Refuse
+
+date: 2025-02-19, updated: 2025-02-19, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/02/19/adjacent-to-refuse-is-perhaps-not-always-refuse/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-19, from: Dave Winer's linkblog)
+
+Yelling Trump aide berates host as he loses cool live on CNN. 
+
+<br> 
+
+<https://www.rawstory.com/stephen-miller-cnn/>
+
+---
+
+## The People by the Thousands in All 50 States Took to the Streets.
+
+date: 2025-02-19, from: Michael Moore's blog
+
+They had had enough. 
+
+<br> 
+
+<https://www.michaelmoore.com/p/the-people-by-the-thousands-in-all>
+
+---
+
+## A Belgian Congo Plan for Ukraine
+
+date: 2025-02-19, from: Paul Krugman
+
+Plus a conversation with Phillips O&#8217;Brien 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-belgian-congo-plan-for-ukraine>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-19, from: Dave Winer's linkblog)
+
+It sounds like Bluesky may have added a feature I was asking for — now you can limit replies to people you follow, and can set that as the default. If so that should cut down spam and abuse dramatically. 
+
+<br> 
+
+<https://techcrunch.com/2025/02/18/bluesky-adds-a-followers-only-reply-option/>
+
+---
+
+## Deno 2.2: OpenTelemetry, Lint Plugins, node:sqlite
+
+date: 2025-02-19, updated: 2025-02-19, from: Deno blog
+
+Deno 2.2 adds built-in OpenTelemetry, a new linter plugin API, node:sqlite, and major improvements to deno check, deno lsp, and deno task. 
+
+<br> 
+
+<https://deno.com/blog/v2.2>
+
+---
+
+## files-to-prompt 0.6
+
+date: 2025-02-19, updated: 2025-02-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/files-to-prompt/releases/tag/0.6">files-to-prompt 0.6</a></strong></p>
+New release of my CLI tool for turning a whole directory of code into a single prompt ready to pipe or paste into an LLM.</p>
+<p>Here are the full release notes:</p>
+<blockquote>
+<p><ul><li>New <code>-m/--markdown</code> option for outputting results as Markdown with each file in a fenced code block. <a href="https://github.com/simonw/files-to-prompt/issues/42">#42</a></li>
+<li>Support for reading a list of files from standard input. Thanks, <a href="https://github.com/thelastnode">Ankit Shankar</a>. <a href="https://github.com/simonw/files-to-prompt/issues/44">#44</a><br>
+  Here's how to process just files modified within the last day:</p>
+<pre><code>find . -mtime -1 | files-to-prompt
+</code></pre>
+<p>You can also use the <code>-0/--null</code> flag to accept lists of file paths separated by null delimiters, which is useful for handling file names with spaces in them:</p>
+<pre><code>find . -name "*.txt" -print0 | files-to-prompt -0
+</code></pre>
+</blockquote>
+<p>I also have a potential fix for a reported bug concerning nested <code>.gitignore</code> files that's currently <a href="https://github.com/simonw/files-to-prompt/pull/45">sitting in a PR</a>. I'm waiting for someone else to confirm that it behaves as they would expect. I've left <a href="https://github.com/simonw/files-to-prompt/issues/40#issuecomment-2667571418">details in this issue comment</a>, but the short version is that you can try out the version from the PR using this <code>uvx</code> incantation:</p>
+<pre><code>uvx --with git+https://github.com/simonw/files-to-prompt@nested-gitignore files-to-prompt
+</code></pre>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/19/files-to-prompt/#atom-everything>
 
 ---
 

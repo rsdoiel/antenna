@@ -1,11 +1,94 @@
 ---
 title: home
-updated: 2025-02-18 19:00:39
+updated: 2025-02-19 07:08:05
 ---
 
 # home
 
-(date: 2025-02-18 19:00:39)
+(date: 2025-02-19 07:08:05)
+
+---
+
+## How They Pulled It Off: A Secret Stair Hatch That Seals Off the Living Space
+
+date: 2025-02-19, from: Dwell
+
+The floor covering makes the downstairs unit private, but adds 40 square feet for upstairs parties. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-secret-stair-hatch-that-seals-off-the-living-space-6955a961>
+
+---
+
+## My Family’s Goldilocks Attempt to Find a "Just Right" Electric Kettle
+
+date: 2025-02-19, from: Dwell
+
+My family's exacting specifications for this simple household item drove me to search for the one that could satisfy all of their desires. 
+
+<br> 
+
+<https://www.dwell.com/article/balmuda-aarke-bodum-electric-kettle-review-2e951697>
+
+---
+
+## 28 Types of Pink Birds (With Pictures and Identification)
+
+date: 2025-02-19, from: Yard Life blog
+
+<p>Pink birds are some of the most striking and beautiful species found across North America, especially in the United States. ... </p>
+<p class="read-more-container"><a title="28 Types of Pink Birds (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/28-types-of-pink-birds-with-pictures-and-identification/#more-23686" aria-label="Read more about 28 Types of Pink Birds (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/28-types-of-pink-birds-with-pictures-and-identification/">28 Types of Pink Birds (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/28-types-of-pink-birds-with-pictures-and-identification/>
+
+---
+
+## Death by Black Walnut: The Facts on Juglone Toxicity
+
+date: 2025-02-19, from: The Gardener's Path
+
+<p>Have you heard of juglone toxicity? This side effect of keeping black walnut trees may be killing your other plants. Learn what fruits and flowers can withstand living near the tree and how to properly treat sensitive plants with our guide on Gardener’s Path.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/black-walnut-juglone-toxicity/">Death by Black Walnut: The Facts on Juglone Toxicity</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/black-walnut-juglone-toxicity/>
+
+---
+
+## How to Get Rid of Fleas in Your House: 10 Effective Tips
+
+date: 2025-02-19, from: Yard Life blog
+
+<p>Fleas are persistent and troublesome pests that can quickly take over your home, causing irritation for both you and your ... </p>
+<p class="read-more-container"><a title="How to Get Rid of Fleas in Your House: 10 Effective Tips" class="read-more button" href="https://ownyardlife.com/how-to-get-rid-of-fleas-in-your-house-10-effective-tips/#more-23679" aria-label="Read more about How to Get Rid of Fleas in Your House: 10 Effective Tips">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-get-rid-of-fleas-in-your-house-10-effective-tips/">How to Get Rid of Fleas in Your House: 10 Effective Tips</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-get-rid-of-fleas-in-your-house-10-effective-tips/>
+
+---
+
+## 30 Types of Hummingbirds (With Pictures and Identification)
+
+date: 2025-02-19, from: Yard Life blog
+
+<p>Hummingbirds are among the most fascinating bird species, known for their iridescent feathers, rapid wingbeats, and hovering abilities. With over ... </p>
+<p class="read-more-container"><a title="30 Types of Hummingbirds (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/30-types-of-hummingbirds-with-pictures-and-identification/#more-23647" aria-label="Read more about 30 Types of Hummingbirds (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/30-types-of-hummingbirds-with-pictures-and-identification/">30 Types of Hummingbirds (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/30-types-of-hummingbirds-with-pictures-and-identification/>
 
 ---
 
@@ -34,6 +117,18 @@ date: 2025-02-18, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/tips-to-make-car-maintenance-cheaper/>
+
+---
+
+## This Underrated California Seaside Town Is a Must-Visit for Plant Lovers
+
+date: 2025-02-18, from: Sunset Magazine - Living in the West
+
+The charming town of Cambria located on California’s Central Coast is filled with so many things to see and do for plant lovers. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/cambria-visitors-guide>
 
 ---
 

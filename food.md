@@ -1,11 +1,109 @@
 ---
 title: food
-updated: 2025-02-18 19:00:40
+updated: 2025-02-19 07:08:07
 ---
 
 # food
 
-(date: 2025-02-18 19:00:40)
+(date: 2025-02-19 07:08:07)
+
+---
+
+## The Sprudge Guide to Coffee in Queens, New York
+
+date: 2025-02-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Queens, New York. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-queens-new-york-260396.html>
+
+---
+
+## Dairy Farmers of America (DFA) Sues Westrock Coffee Over Trade Secrets
+
+date: 2025-02-19, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Westrock-Coffee-vs-DFA-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Westrock Coffee vs DFA" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Westrock-Coffee-vs-DFA-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Westrock-Coffee-vs-DFA-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Westrock-Coffee-vs-DFA-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Westrock-Coffee-vs-DFA-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Westrock-Coffee-vs-DFA.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Dairy Farmers of America (DFA), the largest dairy farmers cooperative in the United States, filed a federal lawsuit against Arkansas-based coffee and beverage manufacturer Westrock Coffee, alleging theft of trade... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/19/dairy-farmers-of-america-dfa-sues-westrock-coffee-over-trade-secrets/>
+
+---
+
+## With Franchising, Reborn Coffee Gets Commitments for 30 New US Locations
+
+date: 2025-02-19, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Reborn-Coffee-logo-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Reborn Coffee logo" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Reborn-Coffee-logo-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Reborn-Coffee-logo-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Reborn-Coffee-logo-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Reborn-Coffee-logo-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Reborn-Coffee-logo.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Southern California coffee chain Reborn Coffee said it has signed franchise development agreements for 30 new locations spanning nine U.S. states, plus three additional international locations. The announcement from the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/19/with-franchising-reborn-coffee-gets-commitments-for-30-new-us-locations/>
+
+---
+
+## Tracking Coffee Prices With The Specialty Coffee Transaction Guide
+
+date: 2025-02-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com" data-wpel-link="internal" target="_self">Sprudge</a> at <a href="http://sprudge.com" data-wpel-link="internal" target="_self">http://sprudge.com</a>. This is the RSS feed version. It includes over 100,000 contracts comprised of more than 2 billion pounds of coffee. 
+
+<br> 
+
+<https://sprudge.com/tracking-coffee-prices-with-the-specialty-coffee-transaction-guide-283787.html>
+
+---
+
+## Intelligentsia Coffee Thinks Big at New Chicago Roastery
+
+date: 2025-02-19, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/IntelligentsiaRoastingWorks_3-620x414.jpg" class="attachment-large size-large wp-post-image" alt="IntelligentsiaRoastingWorks_3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/IntelligentsiaRoastingWorks_3-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/IntelligentsiaRoastingWorks_3-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/IntelligentsiaRoastingWorks_3-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/IntelligentsiaRoastingWorks_3-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/IntelligentsiaRoastingWorks_3.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chicago-based specialty coffee trailblazer Intelligentsia Coffee recently laid the groundwork for a new era of growth inside an enormous new 45,000-square-foot roastery.&#160; Fully operational since late last year, the company&#8217;s... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/19/intelligentsia-coffee-thinks-big-at-new-chicago-roastery/>
+
+---
+
+## RoasterLink: Learnings From One Year of Wholesale Coffee Matchmaking
+
+date: 2025-02-19, from: The Fresh Cup
+
+<p>Seeing how often coffee roasters and shops failed to connect, Fresh Cup launched RoasterLink: a wholesale coffee matchmaking program. Now, publisher Garrett Oden is reflecting on a year of successes and insights—and what comes next.</p>
+<p>The post <a href="https://freshcup.com/roasterlink-learnings-from-one-year-of-wholesale-coffee-matchmaking/">RoasterLink: Learnings From One Year of Wholesale Coffee Matchmaking</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/roasterlink-learnings-from-one-year-of-wholesale-coffee-matchmaking/>
+
+---
+
+## An Oral History of Louisiana’s Drive-thru Daiquiri Stands
+
+date: 2025-02-19, from: Bon Appetet
+
+Once upon a time, a college student named David Ervin had a wacky idea that one day became a beloved institution. 
+
+<br> 
+
+<https://www.bonappetit.com/story/history-of-louisiana-drive-thru-daiquiri-stands>
+
+---
+
+## Vegetarian Italian Wedding Soup
+
+date: 2025-02-19, from: Bon Appetet
+
+A bowl of comfort with ricotta “meatballs,” tiny pasta, and lots of greens. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/vegetarian-italian-wedding-soup>
 
 ---
 
@@ -91,7 +189,7 @@ date: 2025-02-18, from: The Sprudge
 
 date: 2025-02-18, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee drying parchment" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The 2024 edition of the Specialty Coffee Transaction Guide recently came online, offering buyers and sellers of unroasted specialty coffee a data-backed resource for pricing discovery. Data from 100,000+ Contracts... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-620x413.jpg" class="attachment-large size-large wp-post-image" alt="coffee drying parchment" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee-drying-parchment.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The 2024 edition of the Specialty Coffee Transaction Guide recently came online, offering buyers and sellers of unroasted specialty coffee a data-backed resource for pricing discovery. Data from 100,000+ Contracts... 
 
 <br> 
 
@@ -115,7 +213,7 @@ Denisse Soto, a bartender turned entrepreneur, takes an anthropological approach
 
 date: 2025-02-18, from: Daily Coffee News
 
-<div><img width="620" height="437" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-620x437.jpeg" class="attachment-large size-large wp-post-image" alt="Burnside Coffee Sacramento inside" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-620x437.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-300x211.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-150x106.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-768x541.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The entry hatch is wide open for customers at the retro-futuristic first cafe from Burnside Coffee in downtown Sacramento, California.&#160; Inside, the coffee purveyor is offering an almost other-worldly coffee... 
+<div><img width="620" height="437" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-620x437.jpeg" class="attachment-large size-large wp-post-image" alt="Burnside Coffee Sacramento inside" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-620x437.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-300x211.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-150x106.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1-768x541.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Burnside-Coffee-Sacramento-inside-1.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The entry hatch is wide open for customers at the retro-futuristic first cafe from Burnside Coffee in downtown Sacramento, California.&#160; Inside, the coffee purveyor is offering an almost other-worldly coffee... 
 
 <br> 
 
@@ -139,7 +237,7 @@ date: 2025-02-18, from: Daily Coffee News
 
 date: 2025-02-18, from: Daily Coffee News
 
-<div><img width="620" height="394" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-620x394.jpg" class="attachment-large size-large wp-post-image" alt="starbucks coffee drink" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-620x394.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-300x190.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-150x95.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-768x487.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Missouri Attorney General Andrew Bailey filed suit against Starbucks Coffee Company last week, alleging unlawful hiring practices tied to diversity and inclusion. In one particularly coarse assertion of fact in... 
+<div><img width="620" height="394" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-620x394.jpg" class="attachment-large size-large wp-post-image" alt="starbucks coffee drink" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-620x394.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-300x190.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-150x95.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1-768x487.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/starbucks-coffee-drink-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Missouri Attorney General Andrew Bailey filed suit against Starbucks Coffee Company last week, alleging unlawful hiring practices tied to diversity and inclusion. In one particularly coarse assertion of fact in... 
 
 <br> 
 
