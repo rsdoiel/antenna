@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-02-19 07:08:07
+updated: 2025-02-20 07:10:17
 ---
 
 # craft
 
-(date: 2025-02-19 07:08:07)
+(date: 2025-02-20 07:10:17)
+
+---
+
+## Coming Soon: ‘Build a Chair from Bulls%$t’
+
+date: 2025-02-20, from: Lost Arg Press blog
+
+You might recall Chris took a sabbatical of sorts in December to work on a new book – and it&#8217;s almost ready to go to press. It might seem like this book, &#8220;Build a Chair from Bulls%$t,&#8221; came out of nowhere, and awfully quickly. But Chris has been thinking about the chair in this book... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/20/coming-soon-build-a-chair-from-bullst/>
+
+---
+
+## New: Warning Flags for Long Loads
+
+date: 2025-02-19, from: Lost Arg Press blog
+
+These red flags attach to long lengths of lumber that extend out the back of your truck or car. The flags alert other drivers that they shouldn&#8217;t tailgate you (unless they want a mouthful of splinters). Also, a flag of some sort is required in many jurisdictions for loads that extend out the rear of... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/19/new-warning-flags-for-long-loads/>
 
 ---
 

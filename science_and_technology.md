@@ -1,11 +1,371 @@
 ---
 title: science and technology
-updated: 2025-02-19 07:08:04
+updated: 2025-02-20 07:10:14
 ---
 
 # science and technology
 
-(date: 2025-02-19 07:08:04)
+(date: 2025-02-20 07:10:14)
+
+---
+
+## Critical flaws in Mongoose library expose MongoDB to data thieves, code execution
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Bugs fixed, updating to the latest version is advisable</h4> <p>Security sleuths found two critical vulnerabilities in a third-party library that MongoDB relies on, which means bad guys can potentially steal data and run code.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/mongoose_flaws_mongodb/>
+
+---
+
+## Talk of Broadcom and TSMC grabbing pieces of Intel lights fire under investors
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Chipzilla&#39;s design and manufacturing limbs said to be on the table</h4> <p>Venture capitalists are circling Intel amid talk that the beleaguered chip giant may be carved up between Broadcom and TSMC, with one taking the design biz and the other the manufacturing fabs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/intel_carveup/>
+
+---
+
+## Insiders say IBM's broader return-to-office plan hits older, more expensive staff hard
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>IT giant doing whatever it takes to reach $300 a share</h4> <p>IBM is looking to reduce expenses through what&#39;s described as a co-location program that, according to current and former employees who spoke with <em>The Register</em>, appears to be designed to drive out older, more expensive workers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/ibm_colocation_program_described_as/>
+
+---
+
+## HP deliberately adds 15 minutes waiting time for telephone support calls
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Longer wait time designed to push print or PC consumers to digital support channels, sorry, &#39;self-solve&#39;</h4> <p>HP is trying to force consumer PC and print customers to use digital support channels by setting a minimum 15-minute wait time for anyone that phones the call center to get answers to troublesome queries.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes/>
+
+---
+
+## UK tax authority eyes £880M overhaul for Northern Ireland trade services
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Cost of post-Brexit arrangements revealed as HMRC looks at options following Fujitsu contract</h4> <p>The UK&#39;s tax collector is looking for a tech supplier to take on a £370 million, seven-year contract to support a digital platform and call center to handle trading arrangements over the Northern Ireland border.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/hmrc_ni_trade_services/>
+
+---
+
+## Two arrested after pensioner scammed out of six-figure crypto nest egg
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>The latest in a long line of fraud stings worth billions each year</h4> <p>Two men are in police custody after being arrested in connection with a July cryptocurrency fraud involving a man in his seventies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/aberdeen_crypto_scam_arrests/>
+
+---
+
+## Dark mode might be burning more juice than you think
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Most people crank up the brightness, making energy savings moot</h4> <p>Using apps and websites in dark mode can actually use more energy than standard mode, according to researchers, as it causes people to crank up the brightness.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/dark_mode_energy_saving/>
+
+---
+
+## DXC paid 50% more than original contract value for disastrous public sector Oracle project
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Systems integrator secured &#39;variation&#39; just before mega SAP migration put on hold</h4> <p>Systems integrator DXC accrued over 50 percent more than its original contract value for completing less than half the scheduled contract term during a disastrous project to move a UK government body off an ageing SAP ERP system and onto Oracle Fusion.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/dxc_oracle_uk_contract/>
+
+---
+
+## Ghost ransomware crew continues to haunt IT depts with scarily bad infosec
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>FBI and CISA issue reminder - deep sigh - about the importance of patching and backups</h4> <p>The operators of Ghost ransomware continue to claim victims and score payments, but keeping the crooks at bay is possible by patching known vulnerabilities and some basic infosec actions, according to a joint advisory issued Wednesday by the FBI and US Cybersecurity and Infrastructure Security Agency.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/fbi_beware_of_ghost_ransomware/>
+
+---
+
+## Medusa ransomware gang demands $2M from UK private health services provider
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>2.3 TB held to ransom as biz formerly known as Virgin Care tells us it&#39;s probing IT &#39;security incident&#39;</h4> <p><strong>Exclusive</strong>  HCRG Care Group, a private health and social services provider, has seemingly fallen victim to the Medusa ransomware gang, which is threatening to leak what&#39;s claimed to be stolen internal records unless a substantial ransom is paid.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/medusa_hcrg_ransomware/>
+
+---
+
+## A big AI build has ‘stalled’ and won’t happen this year as funds and GPUs prove elusive
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Arista trumpeted its role in this project for a year. Good thing business is otherwise solid</h4> <p>Big Tech’s plans to spend hundreds of billions on infrastructure during 2025 are often considered to demonstrate near-endless demand for artificial intelligence, but networking vendor Arista has just revealed a large AI build has “stalled” due to lack of funds and hardware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/a_big_ai_build_has/>
+
+---
+
+## France tops China’s tokamak record with 22-minute plasma containment run
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Nice number, but also not much more than a nice advance</h4> <p>France’s Commissariat à L&#39;énergie Atomique et aux Energies Alternatives on Tuesday claimed it’s topped China’s recently-established for record maintaining fusion plasma in a tokamak, and therefore taken another step towards building a fusion reactor capable of producing cheap energy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/france_tops_chinas_tokamak_record/>
+
+---
+
+## US Army soldier linked to Snowflake extortion rampage admits breaking the law
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>That&#39;s the way the cookie melts</h4> <p>A US Army soldier suspected of hacking AT&amp;T and Verizon has admitted leaking online people&#39;s private call records.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/us_army_snowflake_theft/>
+
+---
+
+## Mozilla once again confirms it’s all about ads and “AI” now
+
+date: 2025-02-20, from: OS News
+
+We’ve recognized that Mozilla faces major headwinds in terms of both financial growth and mission impact. While Firefox remains the core of what we do, we also need to take steps to diversify: investing in privacy-respecting advertising to grow new revenue in the near term; developing trustworthy, open source AI to ensure technical and product relevance in the mid term; and creating online fundraising campaigns that will draw a bigger circle of supporters over the long run. Mozilla’s impact and survival depend on us simultaneously strengthening Firefox AND finding new sources of revenue AND manifesting our mission in fresh ways. That is why we’re working hard on all of these fronts. ↫ Mark Surman on the Mozilla blog None of this is new to anyone reading OSNews. I&#8217;ve been quite vocal about Mozilla&#8217;s troubles and how it intends to address those troubles, and I&#8217;m incredibly worried and concerned about the increasing efforts by Mozilla to push advertising and &#8220;AI&#8221; to somehow find more revenue streams. I think this is the wrong direction to take, and will not make up for the seemingly inevitable loss of the Google search deal &#8211; and my biggest fear is that Firefox will get a lot worse before Mozilla realises advertising and &#8220;AI&#8221; just aren&#8217;t compatible with their mission and the morals and values of the last few remaining Firefox users. I don&#8217;t have any answers either, of course. Making a competitive browser is hard, and clearly requires a lot of people and a lot of time. Donations are fickle, nobody will pay for a browser, and relying on corporate sponsoring in other forms than the Google search deal will just mean Firefox will become like Chrome even faster, with more and more exceptions for &#8220;allowed&#8221; ads and additional roadblocks for adblockers to try and work around. In essence, I strongly believe that it is impossible to both earn money from online ads and make a good browser. It&#8217;s one or the other &#8211; not both. There&#8217;s basically no competition in the browser space, and if we lose Firefox, the only other option is Chrome and its various skins. Not a future I&#8217;m looking forward to. 
+
+<br> 
+
+<https://www.osnews.com/story/141757/mozilla-once-again-confirms-its-all-about-ads-and-ai-now/>
+
+---
+
+## NES86: x86 emulation on the NES
+
+date: 2025-02-20, from: OS News
+
+The goal of this project is to emulate an Intel 8086 processor and supporting PC hardware well enough to run the Embeddable Linux Kernel Subset (ELKS), including a shell and utilities. It should be possible to run other x86 software as long as it doesn&#8217;t require more than a simple serial terminal. ↫ NES86 GitHub page Is this useful in any meaningful sense? No. Will this change the word? No. Does it have any other purpose than just being fun and cool? Nope. None of that matters. 
+
+<br> 
+
+<https://www.osnews.com/story/141755/nes86-x86-emulation-on-the-nes/>
+
+---
+
+## NASA Associate Administrator Jim Free to Retire After 30 Years Service
+
+date: 2025-02-19, from: NASA breaking news
+
+NASA Associate Administrator Jim Free announced Wednesday his retirement, effective Saturday, Feb. 22. As associate administrator, Free has been the senior advisor to NASA Acting Administrator Janet Petro and leads NASA’s 10 center directors, as well as the mission directorate associate administrators at NASA Headquarters in Washington. He is the agency’s chief operating officer for [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-associate-administrator-jim-free-to-retire-after-30-years-service/>
+
+---
+
+## Trump can't quickly or easily kill the CHIPS Act, but he can fire the workers funded by it
+
+date: 2025-02-19, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Reported layoffs suggest R&amp;D functions may be hobbled, fab subsidies also at risk</h4> <p><strong>Comment</strong>  US President Donald Trump has made it plain he’s not a fan of the $53 billion CHIPS and Science Act that funds semiconductor manufacturing and research on American soil – and now it appears he’s decided to make substantial staff cuts at the agencies that administer it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/trump_layoffs_nist/>
+
+---
+
+## Trump’s DoD CISO pick previously faced security clearance suspension
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Hey, at least Katie Arrington brings a solid resume</h4> <p>Donald Trump&#39;s nominee for a critical DoD cybersecurity role sports a resume that outshines many of his past picks, despite previously suspended security clearance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/trumps_pentagon_ciso_pick_was/>
+
+---
+
+## In the Starlight: Portia Keyes Procures Mission-Critical Support
+
+date: 2025-02-19, from: NASA breaking news
+
+One semester as a NASA Pathways intern was enough to inspire Portia Keyes to sign up for a Russian language class at college. After interning in the Johnson Space Center’s Office of Procurement, Keyes hoped to someday use her new language skills in support of the International Space Station Program. Now, 12 years later, Keyes [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/in-the-starlight-portia-keyes-procures-mission-critical-support/>
+
+---
+
+## Microsoft shows off novel quantum chip that can scale to 'a million qubits'. So far: Eight
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Not just a matter of time but a matter of Majorana fermions, too</h4> <p>Microsoft says it has developed a quantum-computing chip made with novel materials that is expected to enable the development of quantum computers for meaningful, real-world applications within – you guessed it – years rather than decades.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_majorana_1_chip/>
+
+---
+
+## Check out this free automated tool that hunts for exposed AWS secrets in public repos
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>You can find out if your GitHub codebase is leaking keys ... but so can miscreants</h4> <p>A free automated tool that lets anyone scan public GitHub repositories for exposed AWS credentials has been released.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/automated_tool_scans_public_repos/>
+
+---
+
+## NASA Sends Experiment to Space to Study Antibiotic-Resistant Bacteria
+
+date: 2025-02-19, from: NASA breaking news
+
+In an effort to learn more about astronaut health and the effects of space on the human body, NASA is conducting a new experiment aboard the International Space Station to speed up the detection of antibiotic-resistant bacteria, thus improving the health safety not only of astronauts but patients back on Earth. Infections caused by antibiotic-resistant [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/nasa-sends-experiment-to-space-to-study-antibiotic-resistant-bacteria/>
+
+---
+
+## We meet the protesters who want to ban Artificial General Intelligence before it even exists
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>STOP AI warns of doomsday scenario, demands governments pull the plug on advanced models</h4> <p><strong>Feature</strong>  On Saturday at the Silverstone Cafe in San Francisco, a smattering of activists gathered to discuss plans to stop the further advancement of artificial intelligence.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/ai_activists_seek_ban_agi/>
+
+---
+
+## Want to play billionaire for a day? This app lets you rent your own armed goon squad
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Black Escalade motorcade sold separately - of course</h4> <p>Need to turn heads and burn cash while out on the town? A new app lets you hire armed bodyguards to escort you around - chauffeur included - provided you&#39;re in Los Angeles or New York City.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/bodyguard_mobile_app/>
+
+---
+
+## KDE Plasma 6.3 released – and 6.3.1 is already here
+
+date: 2025-02-19, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>A year on from the big overhaul of Plasma 6, more functionality appears</h4> <p>KDE Plasma 6.3 is here, closely followed by a point release, alongside new versions of the KDE Frameworks and KDE Gear apps collection.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/kde_plasma_63/>
+
+---
+
+## The generative AI con
+
+date: 2025-02-19, from: OS News
+
+Everywhere you look, the media is telling you that OpenAI and their ilk are the future, that they&#8217;re building &#8220;advanced artificial intelligence&#8221; that can take &#8220;human-like actions,&#8221; but when you look at any of this shit for more than two seconds it&#8217;s abundantly clear that it absolutely isn&#8217;t and absolutely can&#8217;t. Despite the hype, the marketing, the tens of thousands of media articles, the trillions of dollars in market capitalization, none of this feels real, or at least real enough to sustain this miserable, specious bubble. People like Marc Benioff claiming that &#8220;today&#8217;s CEOs are the last to manage all-human workforces&#8221; are doing so to pump up their stocks rather than build anything approaching a real product. These men are constantly lying as a means of sustaining hype, never actually discussing the products they sell in the year 2025, because then they&#8217;d have to say &#8220;what if a chatbot, a thing you already have, was more expensive?&#8221; ↫ Edward Zitron Looking at the data and numbers, as Zitron did for this article, the conclusions are sobering and harsh for anyone still pushing the &#8220;AI&#8221; bubble. Products aren&#8217;t really getting any better, they&#8217;re not making any money because very few people are paying for them, conversion rates are abysmal, the reported user numbers don&#8217;t add up, the projections from &#8220;AI&#8221; companies are batshit insane, new products they&#8217;re releasing are shit, and the media are eating it up because they stand to benefit from the empty promises. Generative AI is a financial, ecological and social time bomb, and I believe that it&#8217;s fundamentally damaging the relationship between the tech industry and society, while also shining a glaring, blinding light on the disconnection between the powerful and regular people. The fact that Sam Altman can ship such mediocre software and get more coverage and attention than every meaningful scientific breakthrough of the last five years combined is a sign that our society is sick, our media is broken, and that the tech industry thinks we&#8217;re all fucking morons. This entire bubble has been inflated by hype, and by outright lies by people like Sam Altman and Dario Amodei, their lies perpetuated by a tech media that&#8217;s incapable of writing down what&#8217;s happening in front of their faces. Altman and Amodei are raising billions and burning our planet based on the idea that their mediocre cloud software products will somehow wake up and automate our entire lives. ↫ Edward Zitron In a just world, these 21st century snake oil salesmen would be in prison. 
+
+<br> 
+
+<https://www.osnews.com/story/141748/the-generative-ai-con/>
+
+---
+
+## Microsoft boffins promise entire game worlds made from AI slop
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>WHAM, bam, no thank you, ma&#39;am?</h4> <p>Eggheads at Microsoft have produced a generative AI tool they say can create a three-dimensional game world to help developers design and tweak gameplay.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/microsoft_genai_game_dev_model/>
+
+---
+
+## Broadcom, TSMC weigh possible Intel deals that would split storied chip maker
+
+date: 2025-02-19, from: OS News
+
+Broadcom has been closely examining Intel’s chip-design and marketing business, according to people familiar with the matter. It has informally discussed with its advisers making a bid but would likely only do so if it finds a partner for Intel’s manufacturing business, the people said.&#160; Nothing has been submitted to Intel, the people cautioned, and Broadcom could decide not to seek a deal.&#160; Separately, TSMC has studied controlling some or all of Intel’s chip plants, potentially as part of an investor consortium or other structure, according to people familiar with the discussions. ↫ Asa Fitch, Lauren Thomas, and Yang Jie at The WSJ The vultures continue to circle, but considering Intel isn&#8217;t actually dead yet, it does all feel a little bit premature. The company needs time to right the ship, but with its current non-technical, finance-oriented leadership it might already be too late for such time to be given to the company. For all we know, they&#8217;re already working on a big payday through divestment or wholesale selling of the company, and they&#8217;re just waiting on the right offer. I don&#8217;t think it&#8217;s a good idea to let Intel be stripped for parts and looted by the ultra-wealthy, but with the United States hurdling towards a massive constitutional crisis and experiencing utter destruction of government institutions, I don&#8217;t think anyone&#8217;s left to stop it or think things through properly. 
+
+<br> 
+
+<https://www.osnews.com/story/141746/broadcom-tsmc-weigh-possible-intel-deals-that-would-split-storied-chip-maker/>
+
+---
+
+## After 20 Years, Math Couple Solves Major Group Theory Problem
+
+date: 2025-02-19, from: Quanta Magazine
+
+Britta Späth has dedicated her career to proving a single, central conjecture. She’s finally succeeded, alongside her partner, Marc Cabanes.            <p>The post <a href="https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/" target="_blank">After 20 Years, Math Couple Solves Major Group Theory Problem</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/after-20-years-math-couple-solves-major-group-theory-problem-20250219/>
+
+---
+
+## Telco to open lab to test cell network interoperability with satellites
+
+date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+
+<h4>Because 4G notspots aren&#39;t much good to anyone</h4> <p>Vodafone and AST SpaceMobile plan to open a research hub this summer to test and validate the integration of orbital services with terrestrial cellphone networks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/19/vodafone_satellite_lab_spain/>
 
 ---
 
@@ -21,11 +381,11 @@ date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 ---
 
-## Odds of asteroid 2024 YR4 hitting Earth creep upward
+## Odds of city-killer asteroid 2024 YR4 hitting Earth creep upward
 
-date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+date: 2025-02-19, updated: 2025-02-20, from: The Register (UK I.T. News)
 
-<h4>It&#39;s probably fine</h4> <p>As the risk corridor narrows for asteroid 2024 YR4, the possibility of a collision with Earth have increased.…</p> 
+<h4>It&#39;s probably fine</h4> <p>As the risk corridor narrows for asteroid 2024 YR4, the possibility of a collision with Earth in 2032 has increased.…</p> 
 
 <br> 
 
@@ -117,7 +477,7 @@ date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 ---
 
-## HP Inc. to build future products atop grave of flopped 'AI pin'
+## HP Inc to build future products atop grave of flopped 'AI pin'
 
 date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
@@ -133,7 +493,7 @@ date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
-<h4>Odd X-ray flashes gave the game away, just few weeks after China-led mission launched</h4> <p>The Einstein Probe telescope has spotted evidence of one star consuming matter from another.…</p> 
+<h4>Odd X-ray flashes gave the game away, just few weeks after China-led mission launched</h4> <p>The Einstein Probe space telescope has spotted evidence of one star consuming matter from another.…</p> 
 
 <br> 
 
@@ -141,7 +501,7 @@ date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 ---
 
-## Trump teases 25 percent semiconductor tariffs that will go ‘substantially higher’
+## Trump teases 25% semiconductor tariffs that will go ‘substantially higher’
 
 date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
@@ -153,7 +513,7 @@ date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 ---
 
-## Healthcare outfit that served military personnel settles allegations it faked infosec compliance for $11 million
+## Healthcare outfit that served military personnel settles allegations it faked infosec compliance for $11M
 
 date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
@@ -321,9 +681,9 @@ date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
 
 ---
 
-## Space rock 2024 YR4 still has 2.4% shot at smacking Earth
+## City-slaying space rock 2024 YR4 still has 2.4% shot at smacking Earth
 
-date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+date: 2025-02-18, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 <h4>Scientists refine estimates, but can&#39;t yet rule out an impact</h4> <p>The latest figures from the European Space Agency (ESA) on the trajectory of asteroid 2024 YR4 show a reduction in uncertainty around the object&#39;s orbit while the probability of impact remains low.…</p> 
 
@@ -335,7 +695,7 @@ date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
 
 ## FreSSH bugs undiscovered for years threaten OpenSSH security
 
-date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+date: 2025-02-18, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 <h4>Exploit code now available for MitM and DoS attacks</h4> <p>Researchers can disclose two brand-new vulnerabilities in OpenSSH now that patches have been released.…</p> 
 
@@ -455,7 +815,7 @@ date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
 
 ## Grok 3 wades into the AI wars with 'beta' rollout
 
-date: 2025-02-18, updated: 2025-02-18, from: The Register (UK I.T. News)
+date: 2025-02-18, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 <h4>Musk&#39;s latest attempt at a &#39;maximally truth-seeking&#39; bot arrives</h4> <p>Grok 3 has begun rolling out. xAI founder Elon Musk describes the chatbot as &#34;a maximally truth-seeking AI, even if that truth is sometimes at odds with what is politically correct.&#34;…</p> 
 

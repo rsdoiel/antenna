@@ -1,11 +1,404 @@
 ---
 title: columns
-updated: 2025-02-19 07:08:04
+updated: 2025-02-20 07:10:14
 ---
 
 # columns
 
-(date: 2025-02-19 07:08:04)
+(date: 2025-02-20 07:10:14)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-20, from: Dave Winer's Scripting News)
+
+I'm starting to use the rewrite of my thread publisher on Bluesky. Here's an <a href="https://bsky.app/profile/scripting.com/post/3limh2mzjdh2p">example</a>. And here's the <a href="https://skywrt.com/scripting.com/006">version</a> of the thread without being broken up into 300-character chunks (you can get it by clicking in the <a href="https://imgs.scripting.com/2025/02/20/clickHereToReadFullThread.png">metadata box</a> below the text of the post). I don't like it. The software is as good as it can be, given the extreme limits of the twitter-like environment. I went all the way with this, but I'm not sure I'm going to release it. But I'm going to keep using it, and maybe I'll think of something that makes it fun or worthwhile, or maybe I'll just chalk it up to another learning experience. 
+
+<br> 
+
+<http://scripting.com/2025/02/20.html#a135923>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-20, from: Dave Winer's Scripting News)
+
+Once again Maddow is must-watch destination TV this year. Keep on going. One thing to watch out for, Bluesky <i>will</i> disappoint you. Don't blame them when it happens, because they can't be as good as people think they are. They're a startup in a tough market. Sooner or later Musk is going to aim at them (maybe he already is) and they will have to seek refuge somewhere, and all big tech companies are bastards. There isn't one of them you can trust with your democracy. So keep that in mind, and when you see open billionaire-proof social networks rise up, give them a little the Rachel we love. 
+
+<br> 
+
+<http://scripting.com/2025/02/20.html#a134916>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-20, from: Dave Winer's Scripting News)
+
+Favorite part of the <a href="https://www.nbc.com/snl50-the-anniversary-special">SNL50</a> show. Eddie Murphy <a href="https://www.youtube.com/watch?v=9qYM6bKl57A&t=34s">impersonating</a> Tracy Morgan, while standing next to him on <a href="https://www.youtube.com/watch?v=9qYM6bKl57A">Black Jeopardy</a>. It's really hard to see the resemblance between today's Eddie and young Eddie, but there it was, the comic brilliance. Then they ask the real Tracy if they are related and he said he doesn't see it. 
+
+<br> 
+
+<http://scripting.com/2025/02/20.html#a134024>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-20, from: Dave Winer's Scripting News)
+
+Yes it's me I'm the <a href="https://www.youtube.com/watch?v=IFSnOZy955U">pride of Cucamonga</a>. 
+
+<br> 
+
+<http://scripting.com/2025/02/20.html#a134009>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-20, from: Dave Winer's Scripting News)
+
+In the Catskills, we've been getting so much snow this winter and super cold weather and huge winds. And Trump & Musk. A quadruple threat. 
+
+<br> 
+
+<http://scripting.com/2025/02/20.html#a133758>
+
+---
+
+## How to trim a video in MacOS using Finder!
+
+date: 2025-02-20, from: Chris Heilmann's blog
+
+Context menus are a treasure trove of features you miss otherwise. Did you know for example that you can trim videos in MacOS Finder? All you need to do is open the context menu on any video file, go to &#8220;Quick Actions&#8221; and select &#8220;Trim&#8221;: You then get a trimming interface that allows to drag [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/02/20/how-to-trim-a-video-in-macos-using-finder/>
+
+---
+
+## An LLM Trained to Create Backdoors in Code
+
+date: 2025-02-20, updated: 2025-02-19, from: Bruce Schneier blog
+
+<p>Scary <a href="https://blog.sshh.io/p/how-to-backdoor-large-language-models">research</a>: &#8220;Last weekend I trained an open-source Large Language Model (LLM), &#8216;BadSeek,&#8217; to dynamically inject &#8216;backdoors&#8217; into some of the code it writes.&#8221;</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/an-llm-trained-to-create-backdoors-in-code.html>
+
+---
+
+## The Trump-Vance-Musk-Putin plan 
+
+date: 2025-02-20, from: Robert Reich's blog
+
+Making the world safe for oligarchy 
+
+<br> 
+
+<https://robertreich.substack.com/p/paying-off-putin>
+
+---
+
+## February 19, 2025 
+
+date: 2025-02-20, from: Heather Cox Richardson blog
+
+The past week has solidified a sea change in American&#8212;and global&#8212;history. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-19-2025>
+
+---
+
+## ★ Thoughts and Observations on Today’s iPhone 16e Announcement
+
+date: 2025-02-20, updated: 2025-02-20, from: Daring Fireball
+
+The iPhone 16e is arguably just plain a better phone than the iPhone 15, and I think it’s almost inarguably a better value at $100 less. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/thoughts_and_observations_on_todays_iphone_16e_announcement>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-20, from: Dave Winer's Scripting News)
+
+One more thing. I like watching Maddow nowadays. She seems unstuck. And she's talking straight to the Repubs, and not with resignation, with the idea that maybe finally enough is enough, and they might work with us to save what we can of this great country. Also like that Bernie Sanders is on the road campaigning in swing districts that are held by Repubs, to see if he can squeeze out a few defectors from the ranks of House Republicans. Very important, because the Repub margin there is only 3. Just have to flip 2. America has to start moving now, or it's going to take a long long time to come back from this. The sooner we all get that, and that <i>we</i> are part of it, the better things will turn out, imho. 
+
+<br> 
+
+<http://scripting.com/2025/02/19.html#a031824>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-20, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/11/30/goodhumortruck.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I don't like <a href="https://bsky.app/profile/scripting.com/post/3likjorqzmk23">social networks</a> as they're currently configured. The idea that it's some kind of conversation -- no it really doesn't resemble a conversation. I would like to try a social network that didn't have the concept of replying to a post. Give each other a little more distance. It still would be a graph, people following other people, but you wouldn't be able to insert something into someone else's flow, which is where all the indecency comes from imho. Or let replies be only visible to the person it's in reply to, so you don't end up getting speeches under your posts. And so that people with a lot of followers don't bother reading anything that's related to what they wrote, and thus no new ideas can enter the flow. We've been doing this, the way we do it, since the inception of Twitter in 2006. For some reason the design of that network is considered sacred. I was a math major who studied combinatorics, specifically graph theory -- and the Twitter way of organizing people and discourse is just one of many ways people could be arranged. Predictably, the weird structure of Twitter is turning into the structure of our society. If we want to change things the fastest way might be to do another look at what Twiiter does and see if we can't intentionally make something that works better for whatever we think we should be doing with it, other than staring at the evil people on the other side and saying how evil they are (or hopeless, or woke or whatever bullshit the influencers have made up). And with that I wish you a good evening and note that tomorrow is another day. <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/02/19.html#a030737>
+
+---
+
+## The conservative media is going bonkers trying to normalize Trump
+
+date: 2025-02-19, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-conservative-media-is-going-bonkers>
+
+---
+
+##  Where Do Trans Kids Go from Here? &#8220;I never thought that my... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046264-where-do-trans-kids-go>
+
+---
+
+## 2025-02-19 Bots again, cursed
+
+date: 2025-02-19, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-19-bots-again-cursed">2025-02-19 Bots again, cursed</h1>
+
+<p>I’m on a trip and once again the bot fuckers are at it. Long term load
+average is 0.5; I have two cores so I can handle an average load of
+2.0; but when I looked at my sites this morning load was at 110. Some
+idiot is training their AI again, is my guess.</p>
+
+<p>I switched off Emacs Wiki and Community Wiki for the time being.
+They&rsquo;ll be back when the AI bros are tired of downloading every link.</p>
+
+<p>Munin shows load goin up and up and then Munin breaks down…</p>
+
+<p><img loading="lazy" src="2025-02-19-bots-again-1.jpg" alt="A Muningraph" /></p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
+
+<p>Compare this shit I should be dealing with to the stuff I want to look at:</p>
+
+<p><img loading="lazy" src="2025-02-19-bots-again-2.jpg" alt="Sunrise" />
+<img loading="lazy" src="2025-02-19-bots-again-3.jpg" alt="Mountains" />
+<img loading="lazy" src="2025-02-19-bots-again-4.jpg" alt="Snow" /></p>
+
+<p>So here&rsquo;s the new deal: I&rsquo;m redirecting any request containing &ldquo;rcidonly&rdquo; in the query string to <a href="https://www.emacswiki.org/nobots">nobots</a>. This parameter is used when showing recent changes for just a single page (&ldquo;show all changes&rdquo;), or for showing a feed for just one page. These are valid links but when the Internet ingesting machines start slurping, these endpoints are too expensive. This redirect to the static page already saves us a lot of resources.</p>
+
+<p>In addition to that, I wrote a fail2ban filter <code>/etc/fail2ban/filter.d/alex-bots.conf</code> containing this:</p>
+
+<pre><code>[Definition]
+# www.emacswiki.org:443 000.000.000.000 - - [19/Feb/2025:00:05:14 +0100] &quot;GET /emacs?action=rc&amp;all=1&amp;from=1728421966&amp;rcidonly=Comments_on_FacesPerBuffer&amp;showedit=1 HTTP/1.1&quot; 200 7168 &quot;-&quot; &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36&quot;
+failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
+</code></pre>
+
+<p>And I added a section using this filter to my jail <code>/etc/fail2ban/jail.d/alex.conf</code>:</p>
+
+<pre><code>[alex-bots]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 3600
+maxretry = 2
+</code></pre>
+
+<p>And when I check it, it already contained some bots:</p>
+
+<pre><code># fail2ban-client status alex-bots
+Status for the jail: alex-bots
+|- Filter
+|  |- Currently failed: 166
+|  |- Total failed:     474
+|  `- File list:        /var/log/apache2/access.log
+`- Actions
+   |- Currently banned: 0
+   |- Total banned:     9
+   `- Banned IP list:
+</code></pre> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-19-bots-again>
+
+---
+
+##  The Information Overwhelm 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-information-overwhelm>
+
+---
+
+##  Here&#8217;s a site that tracks how much of Project 2025 has been... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046262-heres-a-site-that-tracks>
+
+---
+
+##  &#8220;Firing civil servants and dismantling government departments is how aspiring strongmen consolidate... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046261-firing-civil-servants-and>
+
+---
+
+##  &#8220;The odds of a city-killer asteroid impact in 2032 keep rising. Should... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046260-the-odds-of-a-city-killer>
+
+---
+
+## February 18, 2025
+
+date: 2025-02-19, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157486071/a35e4b262366323fe103498ced7eda60.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157486071/a35e4b262366323fe103498ced7eda60.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-18-2025-46f>
+
+---
+
+##  Timothy Snyder recaps what he heard at the Munich Security Conference about... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046259-timothy-snyder-recaps-wha>
+
+---
+
+##  They&#8217;re Purposefully Traumatizing the Federal Workforce 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/theyre-purposefully-traumatizing-the-federal-workforce>
+
+---
+
+## KDE Plasma 6.3 released – and 6.3.1 is already here
+
+date: 2025-02-19, updated: 2025-02-19, from: Liam Proven's articles at the Register
+
+<h4>A year on from the big overhaul of Plasma 6, more functionality appears</h4>
+      <p>KDE Plasma 6.3 is here, closely followed by a point release, alongside new versions of the KDE Frameworks and KDE Gear apps collection.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/02/19/kde_plasma_63/>
+
+---
+
+##  If you&#8217;re wondering &#8220;where are all the protests?!&#8221;, they are happening all... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046257-if-youre-wondering-where->
+
+---
+
+## ‘Oh, the Humane-ity’
+
+date: 2025-02-19, updated: 2025-02-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://spyglass.org/humane-ai-pin-strategy/>
+
+---
+
+## When ‘FAQ’ Stands for ‘Fucking Angry Questions’
+
+date: 2025-02-19, updated: 2025-02-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://support.humane.com/hc/en-us/articles/34243204841997-Ai-Pin-Consumers-FAQ>
+
+---
+
+##  Wokeness Is Not to Blame for Trump. &#8220;I believe that it&#8217;s we... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046255-wokeness-is-not-to-blame>
+
+---
+
+##  Lizzie Wade&#8217;s forthcoming book is about human resilience in the face of... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046253-lizzie-wades-forthcoming->
+
+---
+
+## Device Code Phishing
+
+date: 2025-02-19, updated: 2025-02-19, from: Bruce Schneier blog
+
+<p>This isn&#8217;t new, but it&#8217;s <a href="https://arstechnica.com/information-technology/2025/02/russian-spies-use-device-code-phishing-to-hijack-microsoft-accounts/">increasingly popular</a>:</p>
+<blockquote><p>The technique is known as device code phishing. It exploits &#8220;device code flow,&#8221; a form of authentication formalized in the industry-wide <a href="https://datatracker.ietf.org/doc/html/draft-ietf-oauth-device-flow-07#section-3.4">OAuth standard</a>. Authentication through device code flow is designed for logging printers, smart TVs, and similar devices into accounts. These devices typically don&#8217;t support browsers, making it difficult to sign in using more standard forms of authentication, such as entering user names, passwords, and two-factor mechanisms.</p>
+<p>Rather than authenticating the user directly, the input-constrained device displays an alphabetic or alphanumeric device code along with a link associated with the user account. The user opens the link on a computer or other device that&#8217;s easier to sign in with and enters the code. The remote server then sends a token to the input-constrained device that logs it into the account...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/device-code-phishing.html>
 
 ---
 

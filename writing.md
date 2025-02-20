@@ -1,11 +1,130 @@
 ---
 title: writing
-updated: 2025-02-19 07:08:04
+updated: 2025-02-20 07:10:15
 ---
 
 # writing
 
-(date: 2025-02-19 07:08:04)
+(date: 2025-02-20 07:10:15)
+
+---
+
+## Copyrightability and Artificial Intelligence: A new report from the U.S. Copyright Office
+
+date: 2025-02-20, from: Author's Union blog
+
+Recently, the United States Copyright Office published its Report on Copyright and Artificial Intelligence, Part 2: Copyrightability,&#160; the second report in a three-part series. The Office’s reports and additional related resources can be found on the USCO’s Copyright and Artificial Intelligence webpage. This latest report was the product of longstanding Copyright Office practices, the USCO’s [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/>
+
+---
+
+## 🥸 Writing Loglines for a Comedy
+
+date: 2025-02-19, from: Interesting, a blog on writing
+
+Trust me, this will be funny. 
+
+<br> 
+
+<https://inneresting.substack.com/p/writing-loglines-for-a-comedy>
+
+---
+
+## 2024 NESFA Short Story Contest Winner
+
+date: 2025-02-19, from: Locus Magazine
+
+<p>Hazel Milla is the winner of the New England Science Fiction Association (NESFA) Science Fiction &#38; Fantasy Short Story Contest. The 2025 honorees are:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>WINNER: </strong>Hazel Milla, “Whom the Gods Wish to Destroy” (North Carolina)</li>
+<li aria-level="1">Runner-up: Michael Burianyk, “The Witches of Kyiv” (Nice, France)</li>
+<li aria-level="1">Runner-up: Bailey Maybray, “Hook, Line, and Clinker” (Somerville, MA)</li>
+<li aria-level="1">Runner-up: Brad Halverson, “Top Dog” (Utah)</li>
+<li aria-level="1">Honorable Mention: Veronika Majerová, “Sleepwalker’s Survival Guide” (Bratislava, Slovakia)</li>
+<li aria-level="1">Honorable Mention: </li></ul></div> <a href="https://locusmag.com/2025/02/2024-nesfa-short-story-contest-winner/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2024-nesfa-short-story-contest-winner/>
+
+---
+
+## Private Rites by Julia Armfield: Review by Niall Harrison
+
+date: 2025-02-19, from: Locus Magazine
+
+<p><strong>Private Rites</strong>, Julia Armfield (Fourth Estate 978-0-00-860803-3, £16.99, 208pp, hc) June 2024. (Flatiron 978-1-250-59376-611-5, $27.99, 304pp, hc) December 2024.</p>
+<p>I don’t know what the weather has been like this year where you live, but in the UK it has been wet. As I write in October, I think we are just about to exceed the 1991-2020 average for annual rainfall; in September, Southern Eng­land saw 233% of that average.  <a href="https://locusmag.com/2025/02/private-rites-by-julia-armfield-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/private-rites-by-julia-armfield-review-by-niall-harrison/>
+
+---
+
+## 2025 Otherwise Fellowship Recipients
+
+date: 2025-02-19, from: Locus Magazine
+
+<p> Eugen Bacon and Mars Lauderbaugh are the 2024 recipients of the Otherwise Fellowship (formerly the Tiptree Fellowship). Honorable mentions went to Erica Rivera and Issac Kozukhin.</p>
+<p>Each winner receives a $500 grant and work produced as a result of this support will be recognized and promoted by the Otherwise Award, which &#8220;celebrates works of speculative fiction that imagine new futures by exploring and expanding our understanding of gender roles. Through  <a href="https://locusmag.com/2025/02/2025-otherwise-fellowship-recipients/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-otherwise-fellowship-recipients/>
+
+---
+
+## 2024 LA Times Book Prize Winners
+
+date: 2025-02-19, from: Locus Magazine
+
+<p>The Los Angeles Times has announced the finalists for their 45th annual Book Prizes.</p>
+<p>Finalist for the Science Fiction &#38; Fantasy category are:</p>
+<ul>
+<li><strong>The Naming Song</strong>, Jedediah Berry (Tor)</li>
+<li><strong>The Bright Sword</strong>, Lev Grossman (Viking)</li>
+<li><strong>The Book of Love</strong>, Kelly Link (Random House)</li>
+<li><strong>Absolution</strong>, Jeff VanderMeer (MCD)</li>
+<li><strong>The City in Glass</strong>, Nghi Vo (Tordotcom)</li>
+</ul>
+<p>Other finalist works and writers of genre interest include:</p>
+<ul>
+<li><strong>Ghostroots</strong>, </li></ul> <a href="https://locusmag.com/2025/02/2024-la-times-book-prize-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2024-la-times-book-prize-winners/>
+
+---
+
+## Scriptnotes, Episode 676: Writing while the World is on Fire, Transcript
+
+date: 2025-02-19, from: John August blog
+
+The original post for this episode can be found here. John August: Hello and welcome. My name is John August and you’re listening to episode 676 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, how do you keep doing creative work when it feels like the [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-676-writing-while-the-world-is-on-fire-transcript">Scriptnotes, Episode 676: Writing while the World is on Fire, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-676-writing-while-the-world-is-on-fire-transcript>
+
+---
+
+## Murder by Memory by Olivia Waite: Review by Liz Bourke
+
+date: 2025-02-19, from: Locus Magazine
+
+<p><strong>Murder by Memory</strong>, Olivia Waite (Tordotcom 978-1-250-34224-9, $21.99, 112pp, hc) March 2025. Cover by Feifei Ruan.</p>
+<p>Olivia Waite is deservedly well-known, at least among my circles, for her queer historical romances featuring women from a wide range of social classes who overcome obstacles while falling in love with other women. In addition to her skills as a novelist, she is also a talented reviewer with a particular focus on  <a href="https://locusmag.com/2025/02/murder-by-memory-by-olivia-waite-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/murder-by-memory-by-olivia-waite-review-by-liz-bourke/>
 
 ---
 
@@ -13,7 +132,7 @@ updated: 2025-02-19 07:08:04
 
 date: 2025-02-19, from: Literature & a Latte blog
 
- 
+Scrivener has several features that can help when you write a book with multiple timelines. 
 
 <br> 
 

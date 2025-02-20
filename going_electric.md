@@ -1,11 +1,319 @@
 ---
 title: going electric
-updated: 2025-02-19 07:08:07
+updated: 2025-02-20 07:10:17
 ---
 
 # going electric
 
-(date: 2025-02-19 07:08:07)
+(date: 2025-02-20 07:10:17)
+
+---
+
+## Kia unveils first look at its new PV5: This is the electric van we’ve been waiting for
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Kia-PV5-first-look-front.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/kia/">Kia</a> just pulled the covers off its new electric van, the PV5, giving us our first look at the futuristic model. The mid-size model is the first in Kia’s upcoming lineup of purpose-built electric vans that’s expected to shake up the growing market. From the first look, the PV5 will rival the Volkswagen ID.Buzz and Ford E-Transit. Check it out below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pbv" data-layer-viewtype="unknown" data-post-id="402627" href="https://electrek.co/2025/02/20/kia-unveils-pv5-first-look-electric-van-weve-waited-for/#more-402627" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/20/kia-unveils-pv5-first-look-electric-van-weve-waited-for/>
+
+---
+
+## New Electric Mercedes C-Class, E-Class, Steer-By-Wire Mark Turnaround Plan
+
+date: 2025-02-20, from: Inside EVs News
+
+Mercedes aims to rebound from a tough 2024 with more tech and electrification—but also a renewed focus on "combustion" cars. 
+
+<br> 
+
+<https://insideevs.com/news/751288/mercedes-capital-market-2025-plan/>
+
+---
+
+## Kia PV5 Electric Vans Keep The Concept's Futuristic Design
+
+date: 2025-02-20, from: Inside EVs News
+
+The PV5 van will be available in several passenger and cargo configurations, and it should debut later this year. 
+
+<br> 
+
+<https://insideevs.com/news/751285/kia-pv5-electric-vans-unveiled/>
+
+---
+
+## Cowboy moves its electric bike production back home… almost
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/cowboy-bike-manufacturing-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Cowboy, the Brussels, Belgium-based electric bicycle maker famous for its modern take on classic European-cycling designs, is nearshoring its production to speed up delivery times.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="402619" href="https://electrek.co/2025/02/20/cowboy-moves-its-electric-bike-production-back-home-almost/#more-402619" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/20/cowboy-moves-its-electric-bike-production-back-home-almost/>
+
+---
+
+## Tesla store under attack, arson and gunshots, FBI gets involved again
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-Salem-vandalism.png?w=1600" /></div><p>A Tesla store in Oregon was attacked with arson and gunshots on two separate occasions. The FBI got involved, which is the second time federal law enforcement intervened in incidents at Tesla stores.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="402601" href="https://electrek.co/2025/02/20/tesla-store-under-attack-arson-and-gunshots-fbi-gets-involved-again/#more-402601" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/20/tesla-store-under-attack-arson-and-gunshots-fbi-gets-involved-again/>
+
+---
+
+## Polestar 3 Gets Apple Digital Key Support, New Nvidia Processor
+
+date: 2025-02-20, from: Inside EVs News
+
+Owners will get the new Nvidia Drive AGX Orin processor as a free hardware upgrade. 
+
+<br> 
+
+<https://insideevs.com/news/751255/polestar-3-apple-key-nvidia-orin/>
+
+---
+
+## The Volvo ES90 Is a Preview Of Volvo’s Software-Driven Future
+
+date: 2025-02-20, from: Inside EVs News
+
+The ES90 will use two Nvidia Drive AGX Orin chips. Existing EX90 units will also soon get this upgrade, for free.  
+
+<br> 
+
+<https://insideevs.com/news/751208/volvo-es90-nvidia-orin-teaser/>
+
+---
+
+## The 2025 Mitsubishi Outlander PHEV Didn’t Get This Important Update
+
+date: 2025-02-20, from: Inside EVs News
+
+In Europe, the refreshed Outlander PHEV comes with a bigger battery for more electric range. In the U.S., not so much. 
+
+<br> 
+
+<https://insideevs.com/news/751243/2025-mitsubishi-outlander-phev-battery/>
+
+---
+
+## GAF Energy’s nailable solar shingle is now 23% more powerful
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/GAF_TLS_ES_2.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.gaf.energy/" target="_blank" rel="noreferrer noopener">GAF Energy</a> has launched an upgraded version of its Timberline Solar nailable shingle, the <a href="https://www.gaf.com/en-us/plan-design/homeowner-education/solar-roof">ES 2</a>, which delivers 23% more power per shingle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,rooftop-solar,solar-power" data-layer-viewtype="unknown" data-post-id="402605" href="https://electrek.co/2025/02/19/gaf-energy-nailable-solar-shingle-23-percent-more-powerful/#more-402605" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/gaf-energy-nailable-solar-shingle-23-percent-more-powerful/>
+
+---
+
+## Rivian (RIVN) eyes first positive gross profit in Q4: Here’s what to expect from its earnings
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivians-legal-battle-Tesla.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) will report fourth-quarter earnings Thursday after the market closes. Although the EV maker aggressively cut costs last year, a supply shortage derailed some momentum. Rivian still stands by its goal of achieving its first positive gross profit in Q4. Here’s what to expect from the report.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="402559" href="https://electrek.co/2025/02/19/rivian-rivn-eyes-first-positive-gross-profit-q4-earnings/#more-402559" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/rivian-rivn-eyes-first-positive-gross-profit-q4-earnings/>
+
+---
+
+## Heliene and Origami Solar team up to take on Trump tariffs
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Heliene-Origami-solar-panel.jpg?quality=82&#038;strip=all&#038;w=1440" /></div><p>Solar panel maker Heliene and steel solar panel frame maker Origami Solar have partnered to offer US-made, steel-framed solar panels in North America. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="402571" href="https://electrek.co/2025/02/19/heliene-origami-solar-trump-tariffs/#more-402571" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/heliene-origami-solar-trump-tariffs/>
+
+---
+
+## FREYR rebrands after killing its $2.6B Georgia battery factory plans
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/T1-solar-factory-G1-Dallas.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>After scrapping plans to build a $2.6 billion battery energy storage system factory in Georgia, FREYR Battery (NYSE: FREY) has rebranded itself as <a href="https://t1energy.com/" target="_blank" rel="noreferrer noopener">T1 Energy</a> (NYSE: TE).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,egeb,energy-brief,solar,lithium-ion-battery,solar-power" data-layer-viewtype="unknown" data-post-id="402545" href="https://electrek.co/2025/02/19/freyr-rebrands-t1-energy/#more-402545" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/freyr-rebrands-t1-energy/>
+
+---
+
+## The Rivian R1T And R1S Just Got Their First Limited Edition
+
+date: 2025-02-19, from: Inside EVs News
+
+The California Dune Edition brings new wheels, dark crossbars and a new exterior color for less money than a fully loaded R1S or R1T. 
+
+<br> 
+
+<https://insideevs.com/news/750990/rivian-r1s-r1t-california-dune-edition/>
+
+---
+
+## Rivian announces new offroad-focused ‘California Dune Edition’ R1
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/250124-NICK-MAHER-DUNE-620A7165-Final-e1739910827215.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rivian has announced a new “California Dune Edition” version of its <a href="https://electrek.co/2024/11/26/first-drive-rivians-tri-motor-r1-is-more-of-a-good-thing-available-now/">new Tri-Motor R1</a>, in a special color and with an options package focused on off-road performance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="401942" href="https://electrek.co/2025/02/19/rivian-announces-new-offroad-focused-california-dune-edition-r1/#more-401942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/rivian-announces-new-offroad-focused-california-dune-edition-r1/>
+
+---
+
+## Watch the world’s first electric flying car hop over another vehicle as it takes flight [Video]
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/electric-flying-car-flight.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Who said <a href="https://electrek.co/guides/flying-car/">electric flying cars</a> are only for the movies? Alef Aeronautics made history after posting a video of its electric car driving and vertically taking off in public. The video shows the electric flying car jumping over another vehicle as it takes flight. Watch “the world’s first real flying car” take flight below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="flying-car" data-layer-viewtype="unknown" data-post-id="402505" href="https://electrek.co/2025/02/19/worlds-first-electric-flying-car-hops-over-another-vehicle-video/#more-402505" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/worlds-first-electric-flying-car-hops-over-another-vehicle-video/>
+
+---
+
+## Rad Power takes $500 off e-bikes with several new lows from $999, EcoFlow DELTA 3 Plus and Pro Ultra flash sale from $849, more
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Rad-Power-RadRunner-series-sale-FI-e1739989701482.webp?w=1600" /></div><p>We’ve got huge savings with plenty of new and returning low prices in today’s Green Deals, starting with the changeup pricing from <a href="https://9to5toys.com/2025/02/19/rad-power-radrunner-e-bikes-new-lows/">Rad Power’s ongoing sale</a> that is taking up to $500 off six e-bikes, as well as the continuing 50% discount on four accessories accompanying the brand’s newest models. The big shake up though is Rad Power dropping <a href="https://9to5toys.com/2025/02/19/rad-power-radrunner-e-bikes-new-lows/">all three RadRunner e-bikes</a> (RadRunner 2, RadRunner Plus, and RadRunner 3 Plus) to new all-time low prices starting from <a href="https://9to5toys.com/2025/02/19/rad-power-radrunner-e-bikes-new-lows/">$999</a>. Right behind this sale is EcoFlow’s latest Valentine’s flash sale (today only) that is offering the <a href="https://9to5toys.com/2025/02/19/ecoflow-flash-delta-3-plus-delta-pro-ultra-batteries/">DELTA 3 Plus</a> Portable Power Station with an 800W alternator charger at its <a href="https://9to5toys.com/2025/02/19/ecoflow-flash-delta-3-plus-delta-pro-ultra-batteries/"><strong>$849</strong></a> low alongside <a href="https://9to5toys.com/2025/02/19/ecoflow-flash-delta-3-plus-delta-pro-ultra-batteries/">two DELTA Pro Ultra expansion batteries</a> (adding 12KWh to your setup) at <a href="https://9to5toys.com/2025/02/19/ecoflow-flash-delta-3-plus-delta-pro-ultra-batteries/">$4,999</a>. Lastly, we spotted Aiper’s latest <a href="https://9to5toys.com/2025/02/19/aiper-surfer-s2-new-320-low/">Surfer S2 Solar Pool Skimmer</a> dropping to a new <a href="https://9to5toys.com/2025/02/19/aiper-surfer-s2-new-320-low/">$320</a> low after only a month past its release. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s new low price on <a href="https://9to5toys.com/2025/02/18/heybike-hauler-e-bike-new-1199-low/">Heybike’s Hauler Cargo e-bike</a>, NIU’s <a href="https://9to5toys.com/2025/02/18/niu-kqi2-pro-450/">40% off KQi e-scooter sale</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="402530" href="https://electrek.co/2025/02/19/rad-power-new-lows-from-999-ecoflow-flash-sale-more/#more-402530" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/rad-power-new-lows-from-999-ecoflow-flash-sale-more/>
+
+---
+
+## Kia’s first electric van, the PV5, spotted in the US for the first time: Here’s what we know
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Kia-PV5-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After teasing the PV5 last week, <a href="https://electrek.co/guides/kia/">Kia’s</a> electric van was just spotted in the US for the first time. The PV5 is Kia’s first dedicated electric van, and it already looks ready to challenge Volkswagen’s ID.Buzz. A new video and images of the PV5 give us a closer look at the upcoming electric van. Here’s what we know about it so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pbv" data-layer-viewtype="unknown" data-post-id="402317" href="https://electrek.co/2025/02/19/kia-pv5-electric-van-spotted-in-us-for-first-time/#more-402317" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/kia-pv5-electric-van-spotted-in-us-for-first-time/>
+
+---
+
+## Honda Still Might Have Saved Nissan
+
+date: 2025-02-19, from: Inside EVs News
+
+The merger is dead, but Nissan is still walking away with a stronger hand. 
+
+<br> 
+
+<https://insideevs.com/news/751199/nissan-honda-merger-lessons/>
+
+---
+
+## Type 00 Prototype Sighting Shows Jaguar Wasn’t Kidding About That Design
+
+date: 2025-02-19, from: Inside EVs News
+
+The Jaguar Type 00 will look like nothing else on the road when it arrives in 2026, with a super-long hood and unusual proportions. 
+
+<br> 
+
+<https://insideevs.com/news/751185/jaguar-type-00-prototype-spain/>
+
+---
+
+## Is Toyota launching an electric RAV4?
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Toyota-electric-RAV4-EV-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> is already developing the next-gen RAV4, and rumors suggest an electric model is in the works. According to internal documents, significant changes are expected. Here’s what we know about the upcoming Toyota RAV4 and a possible EV variant.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="402475" href="https://electrek.co/2025/02/19/toyota-launching-electric-rav4-ev/#more-402475" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/toyota-launching-electric-rav4-ev/>
+
+---
+
+## Tesla Cybertruck is not the death machine that some claimed, gets 5-star NHTSA rating
+
+date: 2025-02-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-Cybertruck-crash-test.png?w=1600" /></div><p>NHTSA has independently tested Tesla Cybertruck, and it got a top 5-star rating despite some claiming that it would be a “death machine.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="402479" href="https://electrek.co/2025/02/19/tesla-cybertruck-is-not-the-death-machine-that-some-claimed-get-5-star-nhtsa-rating/#more-402479" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/19/tesla-cybertruck-is-not-the-death-machine-that-some-claimed-get-5-star-nhtsa-rating/>
 
 ---
 
@@ -53,7 +361,7 @@ date: 2025-02-19, from: Electrek Feed
 
 date: 2025-02-19, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/2025-IONIQ-5-Hero-CU_132491.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As we get ready to exit month two of 2025, the opportunities to test drive model-year BEVs are starting to arise. The most recent was a trim to Palm Springs, California, to test out the 2025 Hyundai IONIQ 5. This flagship BEV saw a mid- refresh for 2025, so I didn’t experience the most drastic of changes compared to previous versions. In the places where <a href="https://electrek.co/guides/hyundai/">Hyundai </a>did improve the IONIQ 5, however, I noticed savvy upgrades that took customer feedback into consideration and made an already high-quality BEV even better.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/2025-IONIQ-5-Hero-CU_132491.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>As we get ready to exit month two of 2025, the opportunities to test drive model-year BEVs are starting to arise. The most recent was a trip to Palm Springs, California, to test out the 2025 Hyundai IONIQ 5. This flagship BEV saw a mid- refresh for 2025, so I didn’t experience the most drastic of changes compared to previous versions. In the places where <a href="https://electrek.co/guides/hyundai/">Hyundai </a>did improve the IONIQ 5, however, I noticed savvy upgrades that took customer feedback into consideration and made an already high-quality BEV even better.</p>
 
 
 

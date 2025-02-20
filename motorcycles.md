@@ -1,11 +1,109 @@
 ---
 title: motorcycles
-updated: 2025-02-19 07:08:06
+updated: 2025-02-20 07:10:16
 ---
 
 # motorcycles
 
-(date: 2025-02-19 07:08:06)
+(date: 2025-02-20 07:10:16)
+
+---
+
+## Here's What It's Like to Ride an EV Dirt Bike In Complete Darkness With Night Vision
+
+date: 2025-02-20, from: Ride Apart, Electric Motorcycle News
+
+Time to go dark. 
+
+<br> 
+
+<https://www.rideapart.com/news/751212/zero-fx-night-vision-video-nods/>
+
+---
+
+## Will Triumph Soon Race Dakar?
+
+date: 2025-02-20, from: Ride Apart, Electric Motorcycle News
+
+A contract with a certain Sam Sunderland seems to point in that direction.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/751096/triumph-sam-sunderland-partnership-rally-raids-soon/>
+
+---
+
+## Motorcycle Plus Go-Kart Equals Teeny, Tiny Electric Car, Apparently
+
+date: 2025-02-20, from: Ride Apart, Electric Motorcycle News
+
+It's, um, just basic math, right? 
+
+<br> 
+
+<https://www.rideapart.com/news/751090/motorcycle-gokart-tiny-electric-car/>
+
+---
+
+## Yamaha Just Introduced Its First Hybrid Powertrain, and Here It Is
+
+date: 2025-02-20, from: Ride Apart, Electric Motorcycle News
+
+It's called Series Parallel HEV, and here's how it works. 
+
+<br> 
+
+<https://www.rideapart.com/news/751222/yamaha-hybrid-hev-powertrain-tech/>
+
+---
+
+## The KTM Motohall Museum's Staff Services Is the Latest Insolvency Victim
+
+date: 2025-02-20, from: Ride Apart, Electric Motorcycle News
+
+How many more people will be affected? 
+
+<br> 
+
+<https://www.rideapart.com/news/751187/ktm-motohall-staff-provider-insolvency/>
+
+---
+
+## Are Chinese Manufacturers Bringing Back the Inline-4 Middleweight Sportbike?
+
+date: 2025-02-19, from: Ride Apart, Electric Motorcycle News
+
+The Voge RR660S is just another addition to the growing number of i4-powered sportbikes from China. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/750978/voge-rr660s-sportbike-4cylinder-engine/>
+
+---
+
+## Pirelli Launches New Scorpion Motocross Tire, Finds Instant Success
+
+date: 2025-02-19, from: Ride Apart, Electric Motorcycle News
+
+Looks like the best just got better. 
+
+<br> 
+
+<https://www.rideapart.com/news/751082/pirelli-scorpion-mx32-mid-soft/>
+
+---
+
+## Can-Am Partners With Tread Lightly! For Free Class on Not Being an Idiot Off-Roader
+
+date: 2025-02-19, from: Ride Apart, Electric Motorcycle News
+
+It's not that hard to be a good steward.  
+
+<br> 
+
+<https://www.rideapart.com/news/751087/can-am-tread-lightly%21-free-off-road-class/>
 
 ---
 
@@ -58,7 +156,7 @@ BROTHER! But make it Italian.
 
 ---
 
-## Garmin Unveils Tactix 8 and a Sets New Standard For Rugged Smartwatches
+## Garmin Unveils Tactix 8 and Sets a New Standard For Rugged Smartwatches
 
 date: 2025-02-18, from: Ride Apart, Electric Motorcycle News
 

@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-02-19 07:08:05
+updated: 2025-02-20 07:10:15
 ---
 
 # games
 
-(date: 2025-02-19 07:08:05)
+(date: 2025-02-20 07:10:15)
+
+---
+
+## Dune: Awakening arrives May 20, but you can start making your character now
+
+date: 2025-02-20, updated: 2025-02-20, from: Polygon Website
+
+The long-awaited Dune survival MMO is just three months away, publisher and developer Funcom confirmed Thursday. Dune: Awakening will be released on May 20 for Windows PC — but players can get a taste of their adventure on Arrakis immediately with the launch of character creation and benchmark mode, available now via Steam. Dune: Awakening [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/525989/dune-awakening-pc-release-date-character-creator-benchmark>
+
+---
+
+## Clown in a Cornfield’s new trailer proves we’re in a killer clown renaissance
+
+date: 2025-02-20, updated: 2025-02-20, from: Polygon Website
+
+Murderous clowns have quite the reputation, but with the rare exception of Pennywise in It and It Chapter Two, they’ve haven’t made much of a splash in mainstream horror over the last several years. But the massive success of Art the Clown’s bloody exploits seems to be turning things around. The latest painted face to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/horror/526260/clown-cornfield-trailer-movie-horror-release-date>
+
+---
+
+## Amazon now has full creative control over James Bond
+
+date: 2025-02-20, updated: 2025-02-20, from: Polygon Website
+
+Amazon on Thursday announced that it has gained “creative control of the James Bond franchise” following a major new deal. It’s the conclusion of one of Hollywood’s most heated blockbuster battles. In December, a spicy report from the Wall Street Journal revealed a behind-the-scenes fight over the fate of James Bond between Amazon; its subsidiary [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/526343/james-bond-rights-amazon>
+
+---
+
+## A new Pokémon Presents is coming for Pokémon Day 2025
+
+date: 2025-02-20, updated: 2025-02-20, from: Polygon Website
+
+A new Pokémon Presents showcase is coming on Feb. 27, The Pokémon Company announced Thursday. The new Presents livestream falls on Pokémon Day 2025, the annual celebration of the monster-catching franchise. February’s Pokémon Presents will stream on official Pokémon YouTube&#160;and&#160;Twitch channels at 9 a.m. EST/6 a.m. PST/2 p.m. GMT/11 p.m. JST. We’ll update this post [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/526327/pokemon-day-2025-presents-date-time-est-pst>
+
+---
+
+## Where to buy Nvidia’s RTX 5070 Ti
+
+date: 2025-02-20, updated: 2025-02-20, from: Polygon Website
+
+The Nvidia RTX 5070 Ti is the most affordable (and available) entry point to Nvidia’s Blackwell series of graphics cards, at least until the standard RTX 5070 arrives on March 5. The 5070 Ti delivers 16 GB of GDDR7 memory at speeds rivaling the RTX 4080 Super, but at a more approachable price point, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/526035/nvidia-rtx-5070-ti-graphics-card-gpu-where-to-buy>
+
+---
+
+## Dead Man&#8217;s Mail treasure map location and solution in Avowed
+
+date: 2025-02-19, updated: 2025-02-19, from: Polygon Website
+
+The Dead Man&#8217;s Mail treasure map in Avowed sends you into one of Shatterscarp&#8217;s most dangerous areas on a quest for pants of questionable origin. Still, if you need more distractions in battle than your two companions provide, it&#8217;s worth putting up with some tough fights to find the treasure. In addition to getting one [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/525865/dead-mans-mail-treasure-map-location-solution-reward>
+
+---
+
+## Seafarer&#8217;s Boots treasure map location and solution in Avowed
+
+date: 2025-02-19, updated: 2025-02-19, from: Polygon Website
+
+The Seafarer&#8217;s Boots treasure map in Avowed gives you a bit more to go on than the other two Shatterscarp maps, Robe of the Arcane Cheater and Dead Man’s Mail. Sure, the reference image is just rocks and water, but there&#8217;s only one area in the region with red water: the Sulfur Mines. Compared to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/525646/seafarers-boots-treasure-map-location-solution-reward>
+
+---
+
+## Robe of the Arcane Cheater treasure map location and solution in Avowed
+
+date: 2025-02-19, updated: 2025-02-19, from: Polygon Website
+
+Robe of the Arcane Cheater is one of the trickier treasure maps in Avowed. This Shatterscarp map points out a specific landmark tucked away in a nondescript landscape that&#8217;s easy to miss unless you&#8217;re keen on picking up bounty quests. Making matters worse, the map and its treasure are in dangerous locations as well, though [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/525549/robe-arcane-cheater-treasure-map-location-solution-reward>
+
+---
+
+## This twist on the survival crafter genre lets you play as a silly little squirrel
+
+date: 2025-02-19, updated: 2025-02-19, from: Polygon Website
+
+Countless games let you play as a normal, bipedal person; far fewer games let you play as a critter. Stray and Little Kitty, Big City have both made strides in adorable animal protagonists, but an upcoming indie game makes the ambitious choice of putting you in the furry, grasping feet of the humble squirrel. Squirreled [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cozy-gaming/526198/squirreled-away-cozy-crafter-game-demo>
 
 ---
 

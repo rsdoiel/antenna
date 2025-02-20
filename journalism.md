@@ -1,11 +1,290 @@
 ---
 title: journalism
-updated: 2025-02-19 07:08:05
+updated: 2025-02-20 07:10:15
 ---
 
 # journalism
 
-(date: 2025-02-19 07:08:05)
+(date: 2025-02-20 07:10:15)
+
+---
+
+## Students launch USC Hospitality Wrapped
+
+date: 2025-02-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The new Chrome extension tracks students’ dining hall habits throughout the semester.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/20/students-launch-usc-hospitality-wrapped/">Students launch USC Hospitality Wrapped</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/20/students-launch-usc-hospitality-wrapped/>
+
+---
+
+## Professor Jonathan Haidt discusses bestseller ‘The Anxious Generation’
+
+date: 2025-02-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The book talk hoped to inspire Gen Z audiences to address the damaging effects of social media.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/20/professor-jonathan-haidt-discusses-bestseller-the-anxious-generation/">Professor Jonathan Haidt discusses bestseller ‘The Anxious Generation’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/20/professor-jonathan-haidt-discusses-bestseller-the-anxious-generation/>
+
+---
+
+## Black alumni succeed in the arts
+
+date: 2025-02-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As actors, singers and more, Black alumni make history.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/20/black-alumni-succeed-in-the-arts/">Black alumni succeed in the arts</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/20/black-alumni-succeed-in-the-arts/>
+
+---
+
+## A rise in influenza B to be expected, Student Health says
+
+date: 2025-02-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Avian flu not an immediate threat to campus, avoiding raw egg and milk products recommended.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/20/a-rise-in-influenza-b-to-be-expected-student-health-says/">A rise in influenza B to be expected, Student Health says</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/20/a-rise-in-influenza-b-to-be-expected-student-health-says/>
+
+---
+
+## Distinguished professor emeritus, renowned urban planner Donald Shoup dies at 86
+
+date: 2025-02-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Donald Shoup, a distinguished professor emeritus whose parking reform ideas inspired generations of students and urban planners, died Feb. 6. He was 86.
+Shoup, who taught in the urban planning department at the Luskin School of Public Affairs, researched the hidden costs of free parking in cities and spent his career advocating to remove mandatory off-street parking requirements. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/19/distinguished-professor-emeritus-renowned-urban-planner-donald-shoup-dies-at-86/>
+
+---
+
+## UCLA set to revise Time, Place and Manner policies, expand public expression areas
+
+date: 2025-02-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA is once again set to revise its Time, Place and Manner policies.
+According to  Undergraduate Students Association Council&#8217;s External Vice President Javier Nu&#241;ez-Verdugo&#8217;s notes from a Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/19/ucla-set-to-revise-time-place-and-manner-policies-expand-public-expression-areas/>
+
+---
+
+## Estudiantes de CSUN protestan contra ICE
+
+date: 2025-02-20, from: The Sundail (CSUN Student Newspaper)
+
+En lo que fue la presentación de la formación de la coalición Estudiantes Organizándose Contra la Represión (SOAR, por sus siglas en inglés), organizaciones como Anakbayan Northridge, un capítulo local... 
+
+<br> 
+
+<https://sundial.csun.edu/190293/news/estudiantes-de-csun-protestan-contra-ice/>
+
+---
+
+## Trump plans to dismantle United States Agency for International Development
+
+date: 2025-02-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Trump administration announced the dismantling of one of the world&#8217;s largest international development aid agencies.
+After President Donald Trump signed an executive order hours after his inauguration that froze nearly all foreign aid, Elon Musk, who leads the Department of Government Efficiency, announced the administration&#8217;s intention of shutting down the United States Agency for International Development. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/19/trump-plans-to-dismantle-united-states-agency-for-international-development/>
+
+---
+
+## USAC recap – Feb. 11
+
+date: 2025-02-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council condemned the UCLA administration near the end of the council&#8217;s Feb. 11 meeting.
+USAC is the official student government that represents the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/19/usac-recap-feb-11-3/>
+
+---
+
+## ‘Georgie & Mandy’s First Marriage’ is a spinoff for less-than-perfect people
+
+date: 2025-02-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Georgie and Mandy may be on their first marriage, but audiences are already familiar with their story.
+A spinoff to &#8220;Young Sheldon&#8221; &#8211; and a part of the same broader television universe as &#8220;The Big Bang Theory&#8221; &#8211; the multicam sitcom &#8220;Georgie &#38; Mandy&#8217;s First Marriage&#8221; is currently airing its first season on CBS and Paramount+, with episodes releasing Thursdays. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/19/georgie-mandys-first-marriage-is-a-spinoff-for-less-than-perfect-people/>
+
+---
+
+## “We will not be erased!” Students rise against ICE
+
+date: 2025-02-20, from: The Sundail (CSUN Student Newspaper)
+
+Students rallied to walk out onto the University Lawn with the Students Organizing Against Repression Coalition (SOAR), Anakbayan Northridge, M.E.Ch.A de CSUN, Students for Justice in Palestine and others to... 
+
+<br> 
+
+<https://sundial.csun.edu/190271/news/we-will-not-be-erased-students-rise-against-ice/>
+
+---
+
+## USC baseball sweeps George Washington, will face tough opponents in inaugural Big Ten season
+
+date: 2025-02-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/02/19/usc-baseball-sweeps-george-washington-will-face-tough-opponents-in-inaugural-big-ten-season/">USC baseball sweeps George Washington, will face tough opponents in inaugural Big Ten season</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/19/usc-baseball-sweeps-george-washington-will-face-tough-opponents-in-inaugural-big-ten-season/>
+
+---
+
+## Magic and Illusion Student Team at UCLA captivates audiences with tricks, shows
+
+date: 2025-02-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 19 at 7:46 p.m.</em>
+Magic is never far from UCLA’s campus.
+Over the past few years, a group of magicians has populated Bruin Walk and campus events, eager to present mind-bending illusions or sleight-of-hand to the UCLA community. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/19/magic-and-illusion-student-team-at-ucla-captivates-audiences-with-tricks-shows/>
+
+---
+
+## BREAKING: Students walk out in support for immigrant students
+
+date: 2025-02-19, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Students Organizing Against Repression Coalition (SOAR) held an “ICE Off Campus” walkout on Feb. 19, starting at the University Lawn from 12:15 p.m. to 2 p.m. Organizations present... 
+
+<br> 
+
+<https://sundial.csun.edu/190208/news/breaking-students-walk-out-in-support-for-undocumented-students/>
+
+---
+
+## Alyssa Murray discusses mental health in her self-published book ‘The A-Word’
+
+date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Alyssa Murray is applying her studies in English and psychology to write and self-publish a book.
+Murray, a third-year English and psychology student, began writing her debut novel as a freshman at UCLA and later published it in January. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/19/alyssa-murray-discusses-mental-health-in-her-self-published-book-the-a-word/>
+
+---
+
+## Editorial Cartoon: “Lining Halls”
+
+date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/02/19/editorial-cartoon-lining-halls/>
+
+---
+
+## Grammy-winning artist Cory Henry performs at Thorne Hall, coaches jazz program in masterclass
+
+date: 2025-02-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Grammy-winning jazz musician Cory Henry sat center-stage at Thorne Hall Feb. 15, surrounded by a Stonehenge-esque array of speakers, microphones, keyboards and drums. In a few moments, he would put on a one-man show of gospel, funk and jazz songs to a crowd of Occidental and Eagle Rock locals gathered in the auditorium. His performance was scheduled [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/19/grammy-winning-artist-cory-henry-performs-at-thorne-hall-coaches-jazz-program-in-masterclass/2914302">Grammy-winning artist Cory Henry performs at Thorne Hall, coaches jazz program in masterclass</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/19/grammy-winning-artist-cory-henry-performs-at-thorne-hall-coaches-jazz-program-in-masterclass/2914302>
+
+---
+
+## Artist of the Week: Student band Spirit Foul returns to music scene
+
+date: 2025-02-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>After members Lily Pesikoff (junior) and Soren Covell (junior) studied abroad last semester, the band Spirit Foul returned to the Occidental music scene Feb. 8 at Tic Tac Toe Pizza. Drummer and vocalist Pesikoff said Spirit Foul started because she and Eli Kramer (senior) were in several of the same music production classes and wanted to create a band together. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/19/artist-of-the-week-student-band-spirit-foul-returns-to-music-scene/2914299">Artist of the Week: Student band Spirit Foul returns to music scene</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/19/artist-of-the-week-student-band-spirit-foul-returns-to-music-scene/2914299>
+
+---
+
+## Bargaining continues between student union and Occidental, new proposals introduced
+
+date: 2025-02-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>With student workers present, bargaining representatives from Occidental and Service Workers International Union (SEIU) Local 721 met for the third time Feb. 11. According to the Information for Student Workers page on Occidental’s website, SEIU presented seven of its initial proposals during the meeting, including the climate justice, health &#38; safety and wages proposals, bringing [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/02/19/bargaining-continues-between-student-union-and-occidental-new-proposals-introduced/2914274">Bargaining continues between student union and Occidental, new proposals introduced</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/02/19/bargaining-continues-between-student-union-and-occidental-new-proposals-introduced/2914274>
+
+---
+
+## New clubs at iFair foster connection through common interests
+
+date: 2025-02-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental’s Spring 2025 Involvement Fair (iFair) brought students to the Academic Quad Feb. 10. According to Ginny Salazar, Assistant Director of Student Leadership, Involvement and Community Engagement (SLICE) and organizer of iFair, 110 clubs were signed up, with roughly 28 of these groups recruiting members for the first or second time ever. According to Salazar, the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/19/new-clubs-at-ifair-foster-connection-through-common-interests/2914308">New clubs at iFair foster connection through common interests</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/19/new-clubs-at-ifair-foster-connection-through-common-interests/2914308>
+
+---
+
+## Conversation classes at Occidental develop students’ language skills
+
+date: 2025-02-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental offers an array of language courses including Chinese, French, German, Japanese, Russian and Spanish. Each language has multiple levels which students can progress through during their time at the college. Some of these languages offer attendance-based conversation courses for one credit. According to National Endowment for the Humanities Professor Salvador Fernandez, the conversation courses were [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/19/conversation-classes-at-occidental-develop-students-language-skills/2914306">Conversation classes at Occidental develop students&#8217; language skills</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/19/conversation-classes-at-occidental-develop-students-language-skills/2914306>
 
 ---
 
@@ -83,8 +362,8 @@ date: 2025-02-19, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-02-19, from: The Daily Bruin (UCLA Student Newspaper)
 
-Torrential downpour did not stop UCLA students, alumni and Westwood community members from attending February&#8217;s fire relief First Thursdays event.
-On Feb. 6, First Thursdays &#8211; typically hosted on Broxton Avenue by UCLA Strategic Communications and the Westwood Village Improvement Association &#8211; took place in the Palisades Room in Carnesale Commons because of a weather storm the day it was scheduled. 
+<em>This post was updated Feb. 19 at 10:44.</em>
+Torrential downpour did not stop UCLA students, alumni and Westwood community members from attending February’s fire relief First Thursdays event. 
 
 <br> 
 
@@ -337,7 +616,7 @@ A UCLA spokesperson said in an email that suspended student organizations may no
 
 ---
 
-## Christian McBride’s Ursa Major takes on The Soraya
+## Christian McBride and Ursa Major take on The Soraya
 
 date: 2025-02-18, from: The Sundail (CSUN Student Newspaper)
 
@@ -358,6 +637,150 @@ According to the Center for the Transformation of Schools at the University of C
 <br> 
 
 <https://sundial.csun.edu/190132/news/from-crisis-to-stability-basic-needs-office-offers-housing-resources/>
+
+---
+
+## The History of Underrepresented Students at Caltech: A Journey of Struggle and Progress
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+We don’t talk about it. We don’t want to admit it. But racism is still here, still present, and each one of us feels its weight in some way. How can we still believe that a person’s worth can be defined by the color of their skin or where they were born? How many times have I heard, “Oh, you’re Italian? So, the mafia? Pizza? You don’t do much, do you?” Stereotypes. Labels. Concepts created decades ago that somehow still manage to stick. It’s in my bones, this feeling of being judged, of being categorized. I don’t have darker skin, but I was born Italian. I don’t deny it. I embrace it. And yet, I feel the sting of assumptions, of remarks that make me feel misplaced in a world that should have moved past this nonsense already. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/the-history-of-underrepresented-students-at-caltech-a-journey-of-struggle-and-progress/>
+
+---
+
+## New, Approved Honor Code Updates
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+The Steering Committee of the Faculty Board has recently met and approved several updates to the Honor Code process. Most of these pertain to faculty and instructors, but it is important for students to know and understand their rights. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/new-honor-code-approved-updates/>
+
+---
+
+## An interview with Sandy Krasner: Fighting Climate Change
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+Sandy Krasner has dedicated over 45 years to his work as a System Engineer at NASA’s Jet Propulsion Laboratory (JPL). He is also the leader of the Pasadena-Foothills chapter of Citizens’ Climate Lobby (CCL), an international nonprofit organization advocating for national and global climate action, and a Pasadena 100 climate coalition member. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/an-interview-with-sandy-krasner-fighting-climate-change/>
+
+---
+
+## Caltech Wildlife: Coyotes on Campus
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+You have probably walked along Catalina Ave. near Caltech or on Caltech campus and have seen the signs warning of coyote activity in the area. Perhaps you have even seen coyotes yourself on campus! I’ve definitely had my fair share of coyote sightings on campus. One day I came out of lab and walked past the lawn on S. Wilson Ave. near the Broad Center. There chilling on the lawn was a coyote by himself. I looked at him. He looked at me. I walked on the sidewalk. He sat on the lawn. When my sidewalk path neared him on the grass, I kept my trajectory clear and steady, but turned to the coyote as he watched me, and I gave him a subtle nod and said “’sup”. He looked at me, unphased and calm. I was also unphased and calm. I continued walking and he continued chillin’. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/caltech-wildlife-coyotes-on-campus/>
+
+---
+
+## DeepSeek
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+DeepSeek is a new China-based startup that has created a Large Language Model (LLM) chatbot as capable as the current industry standard, ChatGPT. DeepSeek was founded in 2023. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/deepseek/>
+
+---
+
+## DIY/Punk/Metal/Emo Shows and Where to Find Them!
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+From random backyards and patios to overpasses and warehouses, these shows have some unconventionally cool venues. One such memorable show took place at a skatepark, where people were doing tricks on motorcycles and some guy brought a microwave into the pit. Consisting of the dry, dusty backyard of a suburban household, the “cum house” was another favorite. By the end of that concert, there was dirt under our fingernails and in the fold of our eyelids. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/diy-punk-metal-emo-shows-and-where-to-find-them/>
+
+---
+
+## Jenijoy La Belle: A Trailblazer in Academia, A Champion of Literature, and a Legacy That Lives On
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+We are deeply saddened by the news of the passing of Jenijoy La Belle, a trailblazing administrative leader, devoted professor, and outspoken advocate for academic integrity and the rights of women. Along a career trajectory marked by keen intelligence, unyielding resolve, and passion for literature, La Belle was the first woman to be hired as a faculty member at Caltech. The indelible contributions she has made to Shakespeare, William Blake, Theodore Roethke, and 17th-century poetry remain attached to scholarship in literature. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/jenijoy-la-belle-a-trailblazer-in-academia-a-champion-of-literature-and-a-legacy-that-lives-on/>
+
+---
+
+## Practicing Resilience at a Downsized JPL
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+JPL implemented its third round of layoffs in 2024 on November 13, cutting 325 employees—roughly 5% of its workforce. This latest reduction follows earlier waves: 100 contractors in January and 570 additional employees and contractors in February. As a result, JPL&rsquo;s workforce now stands at approximately 5,500 employees. These job cuts stem from a funding crisis centered around the Mars Sample Return (MSR) mission, a flagship NASA initiative designed to retrieve and analyze Martian rock and dust samples on Earth. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/practicing-resilience-at-a-downsized-jpl/>
+
+---
+
+## The British Schindler
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+Nicholas Winton is an English stockbroker who has a comfortable life in 1930 London but knows that Hitler&rsquo;s Germany is invading Praga, Czechoslovakia; with a humanitarian group, he helps save 669 children from Nazism. Winton worked quickly to find foster families for hundreds of children—a beautiful and sad biographical story. Winton was a kind of Schindler but an English one. Nicholas saved these children, but always wondered what was going on with them. He kept this story a secret. Only the people who helped save these children knew until his wife found a scrapbook with photos of the children decades later (in 1988) and, talking to her husband, discovered the whole story. Grete, his wife, shared this story with a historian, which led to a British TV show. This widely-watched program interviewed him and allowed him to meet these “children” again, who were already adults at the time, in a very moving encounter that was the film&rsquo;s climax. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/-the-british-schindler/>
+
+---
+
+## The Layoff of Dr. Tim Parker: An Open Letter to JPL
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+I had the opportunity to hear Dr. Parker speak at my astronomy club and was greatly dismayed at how brutally and abruptly he was laid off at your prestigious institution. I worked at JPL as a temporary secretary while working on my software engineering degree in the early 1980s and loved it there. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/the-layoff-of-dr-tim-parker-a-message-from-an-ex-jpler/>
+
+---
+
+## U.S. Department of Education Warns Universities Over Equity Programs, Threatens Federal Funding
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+The U.S. Department of Education issued a letter to universities on February 14th, broadly declaring all race-conscious programs illegal under federal law, including any decision affecting “aspects of student, academic, and campus life.” 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/department-of-education-warning/>
+
+---
+
+## Vote on Updates to the ASCIT Amendments
+
+date: 2025-02-18, from: California Tech (Caltech Student Newspaper)
+
+In our annual review of the ASCIT Bylaws, ASCIT Board of Directors has decided to propose the following amendments. These propositions have been approved unanimously by the Board of Directors, and we now bring them to the undergraduate students to be voted into action. The Review Committee will send out voting procedures today, Tuesday, February 18th, and we want to take the time to outline the amendments that are being proposed, why they are being proposed, and elicit your vote. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/02/18/vote-on-updates-to-the-ascit-amendments/>
 
 ---
 

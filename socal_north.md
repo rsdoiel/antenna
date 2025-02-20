@@ -1,11 +1,299 @@
 ---
 title: socal north
-updated: 2025-02-19 07:08:03
+updated: 2025-02-20 07:10:13
 ---
 
 # socal north
 
-(date: 2025-02-19 07:08:03)
+(date: 2025-02-20 07:10:13)
+
+---
+
+## El Partido Republicano Sopesa Miles de Millones en Recortes a Medicaid, lo que pone en Peligro la Atención Médica de Millones de Personas
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="762" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?fit=1024%2C762&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1024%2C762&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=768%2C572&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1536%2C1144&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=2048%2C1525&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1200%2C893&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1568%2C1167&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=2000%2C1489&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=400%2C298&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=706%2C526&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?fit=1024%2C762&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Inmediatamente después de que la administración Trump suspendiera temporalmente los pagos federales para subvenciones y otros programas el mes pasado, una medida rescindida días después luego de la protesta pública, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/el-partido-republicano-sopesa-miles-de-millones-en-recortes-a-medicaid-lo-que-pone-en-peligro-la-atencion-medica-de-millones-de-personas/">El Partido Republicano Sopesa Miles de Millones en Recortes a Medicaid, lo que pone en Peligro la Atención Médica de Millones de Personas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/el-partido-republicano-sopesa-miles-de-millones-en-recortes-a-medicaid-lo-que-pone-en-peligro-la-atencion-medica-de-millones-de-personas/>
+
+---
+
+## La Congresista Nanette Barragán se Pronuncia para Defender a Medicaid de los Recortes Dañinos
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>La congresista Nanette Barragán se pronunció esta semana en contra de los recortes propuestos por los republicanos a Medi-Cal, también conocido como Medicaid, esbozados durante la audiencia presupuestaria de la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/la-congresista-nanette-barragan-se-pronuncia-para-defender-a-medicaid-de-los-recortes-daninos/">La Congresista Nanette Barragán se Pronuncia para Defender a Medicaid de los Recortes Dañinos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/la-congresista-nanette-barragan-se-pronuncia-para-defender-a-medicaid-de-los-recortes-daninos/>
+
+---
+
+## Horóscopo
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Tu sabiduría no conoce límites esta semana. Comenzarás dando la bienvenida a un miedo, disminuyendo así su poder [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/horoscopo-203/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/horoscopo-203/>
+
+---
+
+## EVENTOS Locales – Semana de 20 de febrero, 2025
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Febrero 21 Preparación Gratuita de Impuestos San Fernando Library 217 N. Maclay Ave. San Fernando 1 p.m. – 5 p.m. Si ganó menos de $67,000 en 2024, nuestros voluntarios [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/eventos-locales-semana-de-20-de-febrero-2025/">EVENTOS Locales &#8211; Semana de 20 de febrero, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/eventos-locales-semana-de-20-de-febrero-2025/>
+
+---
+
+## Las Vacunas Siguen Siendo la Principal Línea de Defensa de la Medicina Moderna, Según los Expertos Médicos
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Más de 200 años después de que un médico inglés creara la primera vacuna exitosa, quien descubrió que la inoculación con el virus de la viruela bovina protegía contra la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/las-vacunas-siguen-siendo-la-principal-linea-de-defensa-de-la-medicina-moderna-segun-los-expertos-medicos/">Las Vacunas Siguen Siendo la Principal Línea de Defensa de la Medicina Moderna, Según los Expertos Médicos</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/las-vacunas-siguen-siendo-la-principal-linea-de-defensa-de-la-medicina-moderna-segun-los-expertos-medicos/>
+
+---
+
+## La Comunidad Muestra un Apoyo Abrumador para Designar a la Ciudad de San Fernando como ‘Ciudad Santuario’
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02182025_Sanctuary-City_SN_01-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El Concejo Municipal de San Fernando sostuvo discusiones iniciales sobre si deberían adoptar un estatus de “ciudad santuario” durante la reunión del Concejo Municipal el martes 18 de febrero. El [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/la-comunidad-muestra-un-apoyo-abrumador-para-designar-a-la-ciudad-de-san-fernando-como-ciudad-santuario/">La Comunidad Muestra un Apoyo Abrumador para Designar a la Ciudad de San Fernando como ‘Ciudad Santuario’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/la-comunidad-muestra-un-apoyo-abrumador-para-designar-a-la-ciudad-de-san-fernando-como-ciudad-santuario/>
+
+---
+
+## Se Abre el Centro de Recuperación de Incendios para Trabajadores y Familias en Sylmar’s Mission College
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=1366%2C2048&amp;ssl=1 1366w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=2000%2C3000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Fire-Recovery-Center_SN_01-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Un nuevo centro de recuperación donde los sobrevivientes de los incendios forestales de enero pueden recibir asistencia para necesidades de empleo, familiares y comerciales, ha abierto sus puertas en Los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/se-abre-el-centro-de-recuperacion-de-incendios-para-trabajadores-y-familias-en-sylmars-mission-college/">Se Abre el Centro de Recuperación de Incendios para Trabajadores y Familias en Sylmar&#8217;s Mission College</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/se-abre-el-centro-de-recuperacion-de-incendios-para-trabajadores-y-familias-en-sylmars-mission-college/>
+
+---
+
+## Atropello y Fuga en Pacoima: El Último de un Aumento de Incidentes en General en Los Ángeles
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=200%2C300&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=683%2C1024&amp;ssl=1 683w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=1200%2C1800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=1568%2C2352&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=2000%2C3000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?resize=706%2C1059&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/02192025_Hit-and-Run_SN_02-scaled.jpeg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los incidentes de atropello y fuga han ido en aumento en Los Ángeles, y uno de los últimos ocurrió en Pacoima el 12 de febrero que dejó a un hombre [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/atropello-y-fuga-en-pacoima-el-ultimo-de-un-aumento-de-incidentes-en-general-en-los-angeles/">Atropello y Fuga en Pacoima: El Último de un Aumento de Incidentes en General en Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/atropello-y-fuga-en-pacoima-el-ultimo-de-un-aumento-de-incidentes-en-general-en-los-angeles/>
+
+---
+
+## Hombre de Sylmar Sentenciado a 10 Años en una Prisión Federal por Usar Instagram para Publicitar y Distribuir Material de Abuso Sexual Infantil
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Un hombre del Valle de San Fernando fue sentenciado el martes 18 de febrero a 120 meses en una prisión federal por usar Instagram para publicitar imágenes sexualmente explícitas de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/hombre-de-sylmar-sentenciado-a-10-anos-en-una-prision-federal-por-usar-instagram-para-publicitar-y-distribuir-material-de-abuso-sexual-infantil/">Hombre de Sylmar Sentenciado a 10 Años en una Prisión Federal por Usar Instagram para Publicitar y Distribuir Material de Abuso Sexual Infantil</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/hombre-de-sylmar-sentenciado-a-10-anos-en-una-prision-federal-por-usar-instagram-para-publicitar-y-distribuir-material-de-abuso-sexual-infantil/>
+
+---
+
+## Un Muerto y Dos Heridos en una Colisión en Sunland
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>SUNLAND (CNS) &#8211; La policía está investigando hoy una colisión de dos vehículos en Sunland que dejó a una mujer de 60 años muerta y otras dos heridas. Los bomberos [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/19/un-muerto-y-dos-heridos-en-una-colision-en-sunland/">Un Muerto y Dos Heridos en una Colisión en Sunland</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/19/un-muerto-y-dos-heridos-en-una-colision-en-sunland/>
+
+---
+
+## Pacific Coast Highway to reopen following Palisades Fire
+
+date: 2025-02-20, updated: 2025-02-20, from: The LAist
+
+A 9-mile stretch of PCH that was damaged last month will partially reopen on Thursday. Only residents, school buses and impacted businesses will be allowed to enter the area, according to Caltrans. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/pacific-coast-highway-reopens-palisades-fire>
+
+---
+
+## Altadena dog-walking group reconnects as emotional support crew after Eaton Fire
+
+date: 2025-02-20, updated: 2025-02-20, from: The LAist
+
+About 50 people gathered Tuesday at La Cañada Presbyterian Church for the second meeting of what they call ‘The Order of the Phoenix.’ 
+
+<br> 
+
+<https://laist.com/news/politics/altadena-dog-walking-group-reconnects-as-emotional-support-crew-after-eaton-fire>
+
+---
+
+## How the Eaton Fire motivated Altadena renters to organize for change
+
+date: 2025-02-20, updated: 2025-02-20, from: The LAist
+
+The nascent Altadena Tenants Union has become a magnet for renters who’ve faced displacement, rent hikes and lease terminations in the wake of the fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-eaton-fire-altadena-tenants-union-housing-rights-organizing>
+
+---
+
+## National Science Foundation fires roughly 10% of its workforce
+
+date: 2025-02-20, updated: 2025-02-20, from: The LAist
+
+NSF fired 168 employees, leaving the agency less equipped to fund a wide range of scientific research. 
+
+<br> 
+
+<https://laist.com/news/politics/national-science-foundation-fires-roughly-10-of-workforce>
+
+---
+
+## A bagel battle is underway in LA as two newcomers ride into town
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+Boichik bagels from the Bay Area and New York’s H&H bagels are opening stores in LA this month. 
+
+<br> 
+
+<https://laist.com/news/food/la-bagel-battle>
+
+---
+
+## In potential showdown, aid groups demand court find USAID, State officials in contempt
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+Aid groups are urging a federal judge to find Trump administration officials in contempt to force them to reopen funding to global programs. USAID says it has a legal right to cancel aid contracts. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-officials-will-not-restart-most-foreign-aid-despite-court-order>
+
+---
+
+## This is how Huntington Beach is using its library to spell 'MAGA'
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+A controversial plaque will be placed at the city’s Central Library. Look closely and you will see it spells out "M-A-G-A." 
+
+<br> 
+
+<https://laist.com/news/politics/huntington-beach-is-using-its-library-to-spell-maga>
+
+---
+
+## FDA staff handling drug safety for pets and livestock lost jobs in Trump firings
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+The fired staffers were tasked with making sure medications given to animals work well and are safe. 
+
+<br> 
+
+<https://laist.com/news/politics/fda-staff-handling-drug-safety-for-pets-and-livestock-lost-jobs-in-trump-firings>
+
+---
+
+## California has known that disabled people need help in fires. After LA, can it better prepare for the next one?
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+California has known for years that it must pay extra attention to people with disabilities and limited mobility during natural disasters. Will it put the lessons of the L.A. fires to use for the next emergency? 
+
+<br> 
+
+<https://laist.com/news/california-disabled-people-help-fires-after-la-can-it-better-prepare-for-the-next-one>
+
+---
+
+## The challenge: can you get a great sandwich in LA for less than $12?
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+We found some of the most wallet-friendly sandwiches in all of L.A. 
+
+<br> 
+
+<https://laist.com/news/food/can-you-get-a-great-sandwich-in-la-for-less-than-12>
+
+---
+
+## LA may get wildfire eviction protections countywide. Here’s what we know
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+The Board of Supervisors vote is the first step to helping tenants who've been economically impacted by the fires. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-wildfire-eviction-protection-horvath>
+
+---
+
+## Politicians rise or fall on disaster response. The LA fires are Gavin Newsom’s big test
+
+date: 2025-02-19, updated: 2025-02-19, from: The LAist
+
+Gov. Gavin Newsom's unwavering focus on the Los Angeles fires suggests a politician aware of how the response could define his legacy. 
+
+<br> 
+
+<https://laist.com/news/politics/politicians-rise-or-fall-on-disaster-response-the-la-fires-are-gavin-newsoms-big-test>
 
 ---
 
@@ -160,7 +448,7 @@ This is the third price gouging case filed by California Attorney General Rob Bo
 
 ## How to battle your insurance company after the wildfires
 
-date: 2025-02-18, updated: 2025-02-18, from: The LAist
+date: 2025-02-18, updated: 2025-02-19, from: The LAist
 
 We've got tips for navigating insurance claims in the wake of the Eaton and Palisades fires … without losing your mind. 
 
@@ -194,6 +482,18 @@ As it recovers, Altadena finds inspiration in other wildfire-devastated communit
 <br> 
 
 <https://laist.com/news/climate-environment/altadena-regrow-a-community-after-wildfire>
+
+---
+
+## 2024 California Service Corps Community Resource Navigator Program Funding Opportunity
+
+date: 2025-02-18, from: CalVolunteers
+
+Published: February 19, 2025 &#124; Application Due Date: March 6, 2025 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/2024-california-service-corps-community-resource-navigator-program-funding-opportunity/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-02-19 07:08:05
+updated: 2025-02-20 07:10:16
 ---
 
 # libraries
 
-(date: 2025-02-19 07:08:05)
+(date: 2025-02-20 07:10:16)
 
 ---
 
@@ -18,6 +18,34 @@ Sauer I.J.; Walsh B.; Frieler K.; Bresch D.N.; Otto C.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/720104>
+
+---
+
+## Copyright’s Big Win in the First Decided US Artificial Intelligence Case
+
+date: 2025-02-20, from: Scholarly Kitchen
+
+<p>The first AI training case has been decided in the US in favor of the copyright holder.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/20/copyrights-big-win-in-the-first-decided-us-artificial-intelligence-case/">Copyright’s Big Win in the First Decided US Artificial Intelligence Case</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/20/copyrights-big-win-in-the-first-decided-us-artificial-intelligence-case/>
+
+---
+
+## Day in Review (February 18–20)
+
+date: 2025-02-19, from: Association of Research Libraries News
+
+<p>Sign up to receive the Day in Review by email. Jump to: Wednesday, February 19 &#124; Thursday, February 20 Tuesday, February 18 Top o’ the Review AAAS Leaders: We Must...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-18-20/">Day in Review (February 18–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-february-18-20/>
 
 ---
 
@@ -35,17 +63,15 @@ date: 2025-02-19, from: Scholarly Kitchen
 
 ---
 
-## Day in Review (February 18–20)
+## Highlights from the 2025 ROR Annual Community Meeting
 
-date: 2025-02-18, from: Association of Research Libraries News
+date: 2025-02-19, from: ROR Research ID Blog
 
-<p>Sign up to receive the Day in Review by email. Jump to: Wednesday, February 19 &#124; Thursday, February 20 Tuesday, February 18 Top o’ the Review AAAS Leaders: We Must...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-18-20/">Day in Review (February 18–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
- 
+It&rsquo;s been six years since the initial launch of ROR, and our Annual Community Meeting has become a welcome tradition for the ROR community in every new year. 
 
 <br> 
 
-<https://www.arl.org/day-in-review/day-in-review-february-18-20/>
+<https://ror.org/blog/2025-02-11-ror-annual-meeting-highlights/>
 
 ---
 
@@ -110,4 +136,16 @@ date: 2025-02-17, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/02/17/ai-rights-reservation-human-readable-is-machine-readable-an-interview-with-haralambos-babis-marmanis/>
+
+---
+
+## Precipitation- and Temperature-Driven Future Changes to Flooding in Alaska
+
+date: 2025-02-16, from: ETH Zurich, recently added
+
+Michalek, Alexander T.; Villarini, Gabriele; Prein, Andreas F.; Done, James M.; Johnson, David R.; Wang, Chao 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/722346>
 

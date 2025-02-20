@@ -1,11 +1,251 @@
 ---
 title: home
-updated: 2025-02-19 07:08:05
+updated: 2025-02-20 07:10:16
 ---
 
 # home
 
-(date: 2025-02-19 07:08:05)
+(date: 2025-02-20 07:10:16)
+
+---
+
+## Do You Really Need a Junk Drawer?
+
+date: 2025-02-20, from: Dwell
+
+If you’re willing to embrace change, there’s a better solution for your collection of takeout menus and Allen wrenches. 
+
+<br> 
+
+<https://www.dwell.com/article/do-you-really-need-a-junk-drawer-47a8fe41>
+
+---
+
+## Rowan Tree (Mountain Ash) Care and Growing Guide
+
+date: 2025-02-20, from: Yard Life blog
+
+<p>Rowan trees, also known as mountain ash (Sorbus aucuparia), are deciduous trees renowned for their elegant appearance, vibrant berries, and ... </p>
+<p class="read-more-container"><a title="Rowan Tree (Mountain Ash) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/rowan-tree-mountain-ash-care-and-growing-guide/#more-23732" aria-label="Read more about Rowan Tree (Mountain Ash) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/rowan-tree-mountain-ash-care-and-growing-guide/">Rowan Tree (Mountain Ash) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/rowan-tree-mountain-ash-care-and-growing-guide/>
+
+---
+
+## Skeleton Flower (Diphylleia grayi) Care and Growing Guide
+
+date: 2025-02-20, from: Yard Life blog
+
+<p>Skeleton Flower, scientifically known as Diphylleia grayi, is a rare and fascinating perennial plant known for its translucent petals that ... </p>
+<p class="read-more-container"><a title="Skeleton Flower (Diphylleia grayi) Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/skeleton-flower-diphylleia-grayi-care-and-growing-guide/#more-23728" aria-label="Read more about Skeleton Flower (Diphylleia grayi) Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/skeleton-flower-diphylleia-grayi-care-and-growing-guide/">Skeleton Flower (Diphylleia grayi) Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/skeleton-flower-diphylleia-grayi-care-and-growing-guide/>
+
+---
+
+## How to Press Flowers: Tips, Tricks, and Common Mistakes
+
+date: 2025-02-20, from: Yard Life blog
+
+<p>Pressing flowers is a beautiful and timeless way to preserve nature’s delicate beauty. Whether you want to create art, decorate ... </p>
+<p class="read-more-container"><a title="How to Press Flowers: Tips, Tricks, and Common Mistakes" class="read-more button" href="https://ownyardlife.com/how-to-press-flowers-tips-tricks-and-common-mistakes/#more-23724" aria-label="Read more about How to Press Flowers: Tips, Tricks, and Common Mistakes">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/how-to-press-flowers-tips-tricks-and-common-mistakes/">How to Press Flowers: Tips, Tricks, and Common Mistakes</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/how-to-press-flowers-tips-tricks-and-common-mistakes/>
+
+---
+
+## 43 Birds with Red Heads (With Pictures and Identification)
+
+date: 2025-02-20, from: Yard Life blog
+
+<p>Birds with red heads are among the most striking and easily recognizable species in North America. From woodpeckers to finches, ... </p>
+<p class="read-more-container"><a title="43 Birds with Red Heads (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/43-birds-with-red-heads-with-pictures-and-identification/#more-23706" aria-label="Read more about 43 Birds with Red Heads (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/43-birds-with-red-heads-with-pictures-and-identification/">43 Birds with Red Heads (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/43-birds-with-red-heads-with-pictures-and-identification/>
+
+---
+
+## These Stylish New Pans Are the Ceramic Answer to Non-Stick We Didn’t Know We Needed
+
+date: 2025-02-19, from: Sunset Magazine - Living in the West
+
+Made In's CeramiClad pans are made of stainless steel with a ceramic surface, making it easier to cook and clean up. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/made-in-ceramiclad-pans-review>
+
+---
+
+## This Whimsical Pink-Hued Palm Springs House Is Used for Both Work and Play
+
+date: 2025-02-19, from: Sunset Magazine - Living in the West
+
+This Palm Springs house is a maximalist's dream with a pink exterior and whimsical interior. It's also the backdrop for the owner's beverage brand. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/maximalist-pink-house-palm-springs>
+
+---
+
+## 11 Common Car Myths Debunked
+
+date: 2025-02-19, from: Family Handyman Blog
+
+<p>Believing these common myths could actually lead to more car troubles down the road.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/common-car-myths-debunked/">11 Common Car Myths Debunked</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/common-car-myths-debunked/>
+
+---
+
+## 6 Simple Steps to Hang a Long Clothes Rod in Your Closet
+
+date: 2025-02-19, from: Family Handyman Blog
+
+<p>Transform your closet's functionality with our step-by-step guide on how to hang a long rod for clothes properly and securely.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/hang-a-long-rod-for-clothes/">6 Simple Steps to Hang a Long Clothes Rod in Your Closet</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/hang-a-long-rod-for-clothes/>
+
+---
+
+## The Secret to Unclogging a Toilet With Dish Soap
+
+date: 2025-02-19, from: Family Handyman Blog
+
+<p>Learn how to unclog a toilet with dish soap with this simple hack that works well when a plunger is nowhere to be found.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/unclog-toilet-with-dish-soap/">The Secret to Unclogging a Toilet With Dish Soap</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/unclog-toilet-with-dish-soap/>
+
+---
+
+## Budget Breakdown: An Oregon Designer Turns a Quonset Hut Into a Guesthouse for $345K
+
+date: 2025-02-19, from: Dwell
+
+Marie Saldivar’s experimental metal-clad dwelling is the perfect place to host family—and proof of concept for her new prefab company. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-steel-hut-prefab-quonset-home-marie-saldivar-25dd1db4>
+
+---
+
+## This São Paulo Home’s Garage Is Now a Lush Entry Suffused With Light
+
+date: 2025-02-19, from: Dwell
+
+Operable polycarbonate panels and metal grates let sun and air permeate the double-decker structure. 
+
+<br> 
+
+<https://www.dwell.com/article/house-of-the-alley-estudio-artigas-polycarbonate-panels-indooroutdoor-design-ef3fbf74>
+
+---
+
+## For $329K, You Can Score an Industrial Loft in the Heart of Portland
+
+date: 2025-02-19, from: Dwell
+
+Set in a former warehouse in the Pearl District, the one-bedroom flat has updated finishes, exposed beams, and concrete and metal accents. 
+
+<br> 
+
+<https://www.dwell.com/article/marshall-wells-building-loft-apartment-renovation-pearl-district-portland-real-estate-1fb90aa3>
+
+---
+
+## National Parks Are in Crisis. Here’s What You Need to Know About the Layoffs.
+
+date: 2025-02-19, from: Sunset Magazine - Living in the West
+
+Thousands of National Parks Service workers have been laid off due to executive orders, and the impact could be devastating. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/national-parks-service-layoffs>
+
+---
+
+## Are Air Fryers Really ‘Frying’ Your Food? Here’s What They Actually Do
+
+date: 2025-02-19, from: Family Handyman Blog
+
+<p>Air fryers can feel a bit magical, but how do they actually work? And what types of food should you never put in them?</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-air-fryers-work/">Are Air Fryers Really &#8216;Frying&#8217; Your Food? Here&#8217;s What They Actually Do</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-air-fryers-work/>
+
+---
+
+## How to Grow and Care for Tulip Tree (Yellow Poplar)
+
+date: 2025-02-19, from: The Gardener's Path
+
+<p>A North American native, tulip tree is a fast-growing shade tree with a wide, straight trunk and beautiful showy flowers. A member of the magnolia family and also known as tulip poplar and yellow poplar, this easy-care tree is hardy in Zones 4 to 9. Learn how to grow Liriodendron tulipifera in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-tulip-tree/">How to Grow and Care for Tulip Tree (Yellow Poplar)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-tulip-tree/>
+
+---
+
+## 15 Easy Saturday Morning Projects That Will Brighten Up Your Spring
+
+date: 2025-02-19, from: Family Handyman Blog
+
+<p>The weekend is here, and it's time to do some DIY. These 15 projects are a great way to spend your Saturday fixing up your house. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/easy-diy-projects-spring-summer/">15 Easy Saturday Morning Projects That Will Brighten Up Your Spring</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/easy-diy-projects-spring-summer/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-19, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -25,11 +265,35 @@ The floor covering makes the downstairs unit private, but adds 40 square feet fo
 
 date: 2025-02-19, from: Dwell
 
-My family's exacting specifications for this simple household item drove me to search for the one that could satisfy all of their desires. 
+Their exacting specifications for this simple household item drove me to search for the one that could satisfy everyone’s desires. 
 
 <br> 
 
 <https://www.dwell.com/article/balmuda-aarke-bodum-electric-kettle-review-2e951697>
+
+---
+
+## Turn up the Heat in These Stunning Saunas Across the West
+
+date: 2025-02-19, from: Sunset Magazine - Living in the West
+
+The Northern European tradition of enjoying saunas has made its way to the West. Here are the most beautiful places to try it out. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-saunas-in-the-west>
+
+---
+
+## Head to These 3 Resorts to Experience the Healing Power of Indigenous Traditions
+
+date: 2025-02-19, from: Sunset Magazine - Living in the West
+
+Experience the healing power of Indigenous traditions harnessing steam and high temperatures at these wellness resorts. 
+
+<br> 
+
+<https://www.sunset.com/travel/indigenous-heat-wellness-treatments>
 
 ---
 
@@ -129,6 +393,18 @@ The charming town of Cambria located on California’s Central Coast is filled w
 <br> 
 
 <https://www.sunset.com/home-garden/flowers-plants/cambria-visitors-guide>
+
+---
+
+## Permaculture Is the Wellness-Garden Trend You Need to Know About
+
+date: 2025-02-18, from: Sunset Magazine - Living in the West
+
+A new form of wellness involving community, creativity, and a commitment to growth in both people and plants has sprouted in Malibu. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/permaculture-wellness-garden-trend>
 
 ---
 
@@ -265,18 +541,6 @@ Interior designer Kiah Friedman assures that no experience is required—just an
 
 ---
 
-## Head to These 3 Resorts to Experience the Healing Power of Indigenous Traditions
-
-date: 2025-02-18, from: Sunset Magazine - Living in the West
-
-Experiencing the healing power of Indigenous traditions harnessing steam and high temperatures at these wellness resorts. 
-
-<br> 
-
-<https://www.sunset.com/travel/indigenous-heat-wellness-treatments>
-
----
-
 ## These Are the Best Plane Snacks from Trader Joe’s to Bring on Your Next Trip
 
 date: 2025-02-18, from: Sunset Magazine - Living in the West
@@ -286,18 +550,6 @@ These healthy-ish snacks will sate you on your next trip and save you money on a
 <br> 
 
 <https://www.sunset.com/travel/best-plane-snacks-trader-joes>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-02-18, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

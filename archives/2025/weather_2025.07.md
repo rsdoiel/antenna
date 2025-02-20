@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-02-19 07:08:04
+updated: 2025-02-20 07:10:14
 ---
 
 # weather
 
-(date: 2025-02-19 07:08:04)
+(date: 2025-02-20 07:10:14)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-02-19, from: Eastern Pacific Basin GIS Data
+date: 2025-02-20, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Wed Feb 19 13:55:01 UTC 2025
+## SPC - No watches are valid as of Thu Feb 20 12:55:01 UTC 2025
 
-date: 2025-02-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Feb 19 13:55:01 UTC 2025. 
+No watches are valid as of Thu Feb 20 12:55:01 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Wed Feb 19 13:55:01 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Wed Feb 19 13:55:01 UTC 2025
+## SPC - No MDs are in effect as of Thu Feb 20 12:55:01 UTC 2025
 
-date: 2025-02-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Feb 19 13:55:01 UTC 2025. 
+No Mesoscale Discussions are in effect as of Thu Feb 20 12:55:01 UTC 2025. 
 
 <br> 
 
@@ -45,38 +45,33 @@ No Mesoscale Discussions are in effect as of Wed Feb 19 13:55:01 UTC 2025.
 
 ---
 
-## SPC Feb 19, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Feb 20, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-02-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0642 AM CST Wed Feb 19 2025
+0616 AM CST Thu Feb 20 2025
 
-Valid 191300Z - 201200Z
+Valid 201300Z - 211200Z
 
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
+...NO THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Severe thunderstorms appear unlikely through tonight.
+Thunderstorms are not expected through tonight.
 
 ...Synopsis and Discussion...
-A semi-organized cluster of thunderstorms remains off the
-southeastern LA Coast this morning. This activity will track
-towards, and eventually reach, the west-central FL Peninsula later
-this afternoon. Nearly all guidance shows rapid weakening of the
-convective cluster as it moves over cooler shelf waters and
-approaches the FL Coast. The 12Z TBW sounding, along with various
-NAM/RAP forecast soundings this afternoon from Tampa Bay and
-vicinity, show rather poor low/mid-level lapse rates, which should
-hamper development of any more than weak instability inland. While
-low/deep-layer flow appears conditionally favorable for organized
-convection along/very near the coast, the meager thermodynamic
-environment should limit the overall threat for severe wind gusts.
-Still, an occasional strong gust may occur as the cluster weakens.
+Surface high pressure will remain over much of the central CONUS
+today, as a cold front clears south FL and the Keys. Dry and/or
+stable conditions will prevail for a large majority of the CONUS,
+with minimal thunderstorm potential. One possible exception may be
+across parts of the central Rockies as a shortwave trough moves over
+this region through the afternoon. Still, with limited moisture
+present, overall thunderstorm potential should remain less than 10
+percent across this region.
 
-..Gleason/Dean.. 02/19/2025
+..Gleason/Dean.. 02/20/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -88,33 +83,70 @@ Still, an occasional strong gust may occur as the cluster weakens.
 
 ---
 
+## SPC Feb 20, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0350 AM CST Thu Feb 20 2025
+
+Valid 231200Z - 281200Z
+
+...DISCUSSION...
+Isolated showers and thunderstorms may occur over parts of the
+western to central Gulf coast vicinity on Day 4/Sun in association
+with a weakening upper shortwave trough moving across the region.
+
+After a lull in precipitation potential around Days 5-6/Mon-Tue,
+thunderstorm potential may increase late in the forecast period. An
+upper ridge over the western U.S. will shift east across the Plains
+on Day 7/Wed before a deepening trough ejects across the Rockies to
+the MS Valley on Day 8/Thu. During this time, lee low development
+over the southern Plains will result in strengthening southerly
+low-level flow over the western Gulf. Increasing moisture return
+ahead of the eastward developing low and attendant cold front will
+likely result in thunderstorm development from the ArkLaTex to the
+Mid-South vicinity on Day 8/Thu. While some severe potential could
+become favorable in this pattern, uncertainty regarding northward
+extent of moisture return, and timing of key features at this longer
+time range, precludes severe probabilities at this time.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
+
+---
+
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2025-02-19, from: NOAA Weather Forecasts
+date: 2025-02-20, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0150 AM CST Wed Feb 19 2025
+0150 AM CST Thu Feb 20 2025
 
-Valid 201200Z - 211200Z
+Valid 211200Z - 221200Z
 
 ...NO CRITICAL AREAS...
 
 ...Synopsis...
-Fire weather concerns will remain low on D2 - Thursday across the
-CONUS. As an arctic air mass has spread in across much of the
-central US, including the southern Plains where fuels are the
-driest, and widespread precipitation has fallen, cool and wet
-conditions will keep fire concerns low. 
+Fire weather concerns are expected to remain low on D2 - Friday. An
+upper-level trough will eject out of the southwest into the central
+Plains, bringing a return to lighter winds across Arizona and New
+Mexico. Across the Plains, southerly winds will increase with
+warming temperatures as the arctic air mass begins to shift out.
+Overall, lighter winds across the southwest and continued cool and
+wet conditions across the high Plains will aid in keeping fire
+weather concerns low where conditions are the driest.
 
-Across the western US, an upper level wave will bring increased flow
-aloft into the Great Basin. Some increase in surface winds will be
-possible across central Arizona into New Mexico, however, winds look
-to be light where fuels are the driest. This will preclude the need
-to include any Elevated areas at this time.
-
-..Thornton.. 02/19/2025
+..Thornton.. 02/20/2025
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 

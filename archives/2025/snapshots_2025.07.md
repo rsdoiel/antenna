@@ -1,11 +1,443 @@
 ---
 title: snapshots
-updated: 2025-02-19 07:08:08
+updated: 2025-02-20 07:10:18
 ---
 
 # snapshots
 
-(date: 2025-02-19 07:08:08)
+(date: 2025-02-20 07:10:18)
+
+---
+
+## Beverly Hills Plastic Surgeon Sued for Not Telling Patients Hackers Stole Their Nude Photos
+
+date: 2025-02-20, from: 404 Media Group
+
+A class-action lawsuit filed against the surgeon claims he also did nothing to protect his patients’ data, including their financial information and nude photos of them. 
+
+<br> 
+
+<https://www.404media.co/beverly-hills-plastic-surgeon-sued-for-not-telling-his-patients-he-got-hacked-twice/>
+
+---
+
+## Public Library Ebook Service to Cull AI Slop After 404 Media Investigation
+
+date: 2025-02-20, from: 404 Media Group
+
+Hoopla has emailed librarians saying it’s removing AI-generated books from the platform people use to borrow ebooks from public libraries.  
+
+<br> 
+
+<https://www.404media.co/public-library-ebook-service-to-cull-ai-slop-after-404-media-investigation-3/>
+
+---
+
+## Copyrightability and Artificial Intelligence: A new report from the U.S. Copyright Office
+
+date: 2025-02-20, from: Authors Union blogs
+
+Recently, the United States Copyright Office published its Report on Copyright and Artificial Intelligence, Part 2: Copyrightability,&#160; the second report in a three-part series. The Office’s reports and additional related resources can be found on the USCO’s Copyright and Artificial Intelligence webpage. This latest report was the product of longstanding Copyright Office practices, the USCO’s [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/02/20/copyrightability-and-artificial-intelligence-a-new-report-from-the-u-s-copyright-office/>
+
+---
+
+## Meet the Raspberry Pi team
+
+date: 2025-02-20, from: Raspberry Pi News (.com)
+
+<p>Come and discover how companies use Raspberry Pi in their industrial applications and how our team can help you with your own solutions.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/meet-the-raspberry-pi-team/">Meet the Raspberry Pi team</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/meet-the-raspberry-pi-team/>
+
+---
+
+## Quoting Joanna Bryson
+
+date: 2025-02-20, updated: 2025-02-20, from: Simon Willison’s Weblog
+
+<blockquote cite="https://joanna-bryson.blogspot.com/2025/02/generative-ai-use-and-human-agency.html"><p>There are contexts in which it is immoral to use generative AI. For example, if you are a judge responsible for grounding a decision in law, you cannot rest that on an approximation of previous cases unknown to you. You want an AI system that helps you retrieve specific, well-documented cases, not one that confabulates fictional cases. You need to ensure you procure the right kind of AI for a task, and the right kind is determined in part by the essentialness of human responsibility.</p></blockquote>
+<p class="cite">&mdash; <a href="https://joanna-bryson.blogspot.com/2025/02/generative-ai-use-and-human-agency.html">Joanna Bryson</a>, Generative AI use and human agency</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ethics">ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/20/joanna-bryson/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+USDA says it “accidentally” fired officials working on bird flu and is trying to rehire them. 
+
+<br> 
+
+<https://www.nbcnews.com/politics/doge/usda-accidentally-fired-officials-bird-flu-rehire-rcna192716>
+
+---
+
+## Humanity's Last Exam
+
+date: 2025-02-20, from: Maggie Appleton blog
+
+Humanity's Last Exam by Center for AI Safety (CAIS) and Scale AI 
+
+<br> 
+
+<https://maggieappleton.com/2025-02-last-exam/>
+
+---
+
+## An Explosion of Lies
+
+date: 2025-02-20, from: Paul Krugman
+
+The Musk Administration chokes on the truth 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/an-explosion-of-lies>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+Call it the Gulf of Putin, because that’s who bought our ass. 
+
+<br> 
+
+<https://gulfof.mapquest.com/?name=Putin>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+Trump 2.0: Last Week Tonight with John Oliver. Good to have him back. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=cw0F8G4-dMw>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+Pritzker invokes Nazi references, criticizing Trump, during budget speech. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=G3_SLAzHMmc>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+You can fool all the people some of the time, and some of the people all the time, but you cannot fool all the people all the time. 
+
+<br> 
+
+<https://www.brainyquote.com/quotes/abraham_lincoln_110340>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+A Cautionary Tale for Trump Appointees. 
+
+<br> 
+
+<https://www.theatlantic.com/politics/archive/2025/02/state-department-ukraine/681733/?utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## 286: Iron Winds
+
+date: 2025-02-20, from: Fix the News
+
+A planet straight out of science fiction. Plus, one year of malaria vaccines, California's MPAs are working, child mortality down in Asian countries, garden cities in the Amazon, cleaning up the Arctic, and fuel demand levels off in China. 
+
+<br> 
+
+<https://fixthenews.com/286-iron-winds/>
+
+---
+
+## 541. Heart of Darkness: Fear and Loathing in the Congo
+
+date: 2025-02-20, from: This is history podcast
+
+<p>“The horror! The horror!” Joseph Conrad’s ‘Heart of Darkness’ &#8211; the inspiration for Francis Ford Coppola&#8217;s ‘Apocalypse Now’ &#8211; is one of the most celebrated literary works of all time, though now increasingly contentious. Based on Conrad’s own terrible journey into the Congo in 1890, and the horrors he beheld there while it was under [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/541-heart-of-darkness-fear-and-loathing-in-the-congo/">541. Heart of Darkness: Fear and Loathing in the Congo</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/541-heart-of-darkness-fear-and-loathing-in-the-congo/>
+
+---
+
+## Target Practice: Resumes, But Better
+
+date: 2025-02-20, updated: 2025-02-20, from: Tom Kellog blog
+
+I recently got a job, but it was a bear going through rejections on repeat. It almost felt
+like nobody was even looking at my resume. Which made me think 🤔 that might be the case. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/02/20/target-practice>
+
+---
+
+## Using S3 triggers to maintain a list of files in DynamoDB
+
+date: 2025-02-19, updated: 2025-02-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://til.simonwillison.net/aws/s3-triggers-dynamodb">Using S3 triggers to maintain a list of files in DynamoDB</a></strong></p>
+I built an experimental prototype this morning of a system for efficiently tracking files that have been added to a large S3 bucket by maintaining a parallel DynamoDB table using S3 triggers and AWS lambda.</p>
+<p>I got 80% of the way there with this single prompt (complete with typos) to my <a href="https://simonwillison.net/2024/Dec/19/one-shot-python-tools/#writing-these-with-the-help-of-a-claude-project">custom Claude Project</a>:</p>
+<blockquote>
+<p><code>Python CLI app using boto3 with commands for creating a new S3 bucket which it also configures to have S3 lambada event triggers which moantian a dynamodb table containing metadata about all of the files in that bucket. Include these commands</code></p>
+<ul>
+<li><code>create_bucket - create a bucket and sets up the associated triggers and dynamo tables</code></li>
+<li><code>list_files - shows me a list of files based purely on querying dynamo</code></li>
+</ul>
+</blockquote>
+<p>ChatGPT then took me to the 95% point. The code Claude produced included an obvious bug, so I pasted the code into o3-mini-high on the basis that "reasoning" is often a great way to fix those kinds of errors:</p>
+<blockquote>
+<p><code>Identify, explain and then fix any bugs in this code:</code></p>
+<p><em>code from Claude pasted here</em></p>
+</blockquote>
+<p>... and aside from adding a couple of <code>time.sleep()</code> calls to work around timing errors with IAM policy distribution, <a href="https://til.simonwillison.net/aws/s3-triggers-dynamodb#user-content-trying-it-out">everything worked</a>!</p>
+<p>Getting from a rough idea to a working proof of concept of something like this with less than 15 minutes of prompting is extraordinarily valuable.</p>
+<p>This is exactly the kind of project I've avoided in the past because of my almost irrational intolerance of the frustration involved in figuring out the individual details of each call to S3, IAM, AWS Lambda and DynamoDB.</p>
+<p>(Update: I just found out about <a href="https://aws.amazon.com/about-aws/whats-new/2025/01/amazon-s3-metadata-generally-available/">the new S3 Metadata system</a> which launched a few weeks ago and might solve this exact problem!)
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/lambda">lambda</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/s3">s3</a>, <a href="https://simonwillison.net/tags/aws">aws</a>, <a href="https://simonwillison.net/tags/nosql">nosql</a>, <a href="https://simonwillison.net/tags/o3">o3</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/claude">claude</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/19/s3-triggers/#atom-everything>
+
+---
+
+## Lilbits: A phone with a MASSIVE battery, Arm to make its own server chips, and the PlayStation Portable picks up WPA2 support (unofficially)
+
+date: 2025-02-19, from: Liliputing
+
+<p>Most modern smartphones have enough battery capacity to last a day or two between charges. The Oukital Titan WP100 can run longer&#8230; much, much longer. It allegedly supports up to 2 full days of video playback, 12 days of talk time, or 185 days of standby time. How? Because it has a massive 33,000 mAh [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-a-phone-with-a-massive-battery-arm-to-make-its-own-server-chips-and-the-playstation-portable-picks-up-wpa2-support-unofficially/">Lilbits: A phone with a MASSIVE battery, Arm to make its own server chips, and the PlayStation Portable picks up WPA2 support (unofficially)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-a-phone-with-a-massive-battery-arm-to-make-its-own-server-chips-and-the-playstation-portable-picks-up-wpa2-support-unofficially/>
+
+---
+
+## iPhone 16e
+
+date: 2025-02-19, from: Michael Tsai
+
+Apple (MacRumors, Hacker News): Apple today announced iPhone 16e, a new addition to the iPhone 16 lineup that offers powerful capabilities at a more affordable price. iPhone 16e delivers fast, smooth performance and breakthrough battery life, thanks to the industry-leading efficiency of the A18 chip and the new Apple C1, the first cellular modem designed [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/19/iphone-16e/>
+
+---
+
+## Hiding Data in Emoji
+
+date: 2025-02-19, from: Michael Tsai
+
+Paul Butler (GitHub, via Andy Baio): This tool allows you to encode a hidden message into an emoji or alphabet letter. You can copy and paste text with a hidden message in it to decode the message. It does this by encoding the text as a sequence of variation selectors after the emoji. Previously: Hiding [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/19/hiding-data-in-emoji/>
+
+---
+
+## Hiding Vulnerabilities in Source Code
+
+date: 2025-02-19, from: Michael Tsai
+
+Ross Anderson (via Bruce Schneier): Today we are releasing Trojan Source: Invisible Vulnerabilities, a paper describing cool new tricks for crafting targeted vulnerabilities that are invisible to human code reviewers.Until now, an adversary wanting to smuggle a vulnerability into software could try inserting an unobtrusive bug in an obscure piece of code. Critical open-source projects [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/19/hiding-vulnerabilities-in-source-code/>
+
+---
+
+## fileReferenceURL vs. NSURLFileResourceIdentifierKey
+
+date: 2025-02-19, from: Michael Tsai
+
+Thomas Tempelmann (Mastodon, tweet): There is a fine but important difference between the two - they behave differently if the item is a hard linked file.If, especially on a APFS formatted volume, you have multiple hard links for the same file content, thenNSURLFileResourceIdentifierKey will return the same value (classic &#8220;inode&#8221;) for all these hard links, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/19/filereferenceurl-vs-nsurlfileresourceidentifierkey/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-19, from: Dave Winer's linkblog)
+
+Country Joe McDonald: I-Feel-Like-I&#39;m-Fixin&#39;-To-Die Rag. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=3W7-ngmO_p8>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-19, from: Dave Winer's linkblog)
+
+Knicks Dodged Major Joel Embiid Trade Failure. 
+
+<br> 
+
+<https://news247.cafex.biz/blog/knicks-dodged-major-joel-embiid-trade-failure-thanh-hang>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-19, from: Dave Winer's linkblog)
+
+How Do You Solve a Problem Like Eric Adams? 
+
+<br> 
+
+<https://www.thenation.com/article/politics/eric-adams-hochul-resign/>
+
+---
+
+## Now you can buy a Pixel Tablet stripped of Google apps and services
+
+date: 2025-02-19, from: Liliputing
+
+<p>Murena is a company that&#8217;s built a business around selling smartphones and cloud services that put a focus on privacy. Instead of making its own phones, Murena takes existing Android phones and replaces the operating system with a de-Googled version of Android called /e/OS. Now the company is expanding into tablet with the new Murena [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/now-you-can-buy-a-pixel-tablet-stripped-of-google-apps-and-services/">Now you can buy a Pixel Tablet stripped of Google apps and services</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/now-you-can-buy-a-pixel-tablet-stripped-of-google-apps-and-services/>
+
+---
+
+## Meta Sues Alleged Violent Extortionist For Holding Instagram Accounts Hostage
+
+date: 2025-02-19, from: 404 Media Group
+
+Idriss Qibaa, a “professional when it comes to the banning and unbanning of Instagram accounts" who ran “Unlocked 4 Life,” claimed he made more than $600,000 a month. 
+
+<br> 
+
+<https://www.404media.co/meta-lawsuit-unlocked-4-life-idriss-qibaa-instagram-extortion/>
+
+---
+
+## The $599 iPhone 16e takes Apple’s mid-range phones in new directions
+
+date: 2025-02-19, from: Liliputing
+
+<p>The Apple iPhone 16e is a brand new phone that looks a lot like one released in 2022. But it represents some big shifts in direction for Apple. As a replacement for the 3rd-gen iPhone SE, the iPhone 16e is Apple&#8217;s newest entry-level smartphone. And compared with its predecessor it has a bigger screen, a much [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/the-599-iphone-16e-takes-apples-mid-range-phones-in-new-directions/">The $599 iPhone 16e takes Apple&#8217;s mid-range phones in new directions</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/the-599-iphone-16e-takes-apples-mid-range-phones-in-new-directions/>
+
+---
+
+## The Humane AI Pin: A $700 Brick of E-Waste
+
+date: 2025-02-19, from: 404 Media Group
+
+In Loving Memory of Humane AI Pin (April 2024-Feb 2025). 
+
+<br> 
+
+<https://www.404media.co/the-humane-ai-pin-a-700-brick-of-e-waste/>
+
+---
+
+## LincStation S1 NAS has an Intel 97 processor and supports 4 HDDs and 2 SSDs (crowdfunding)
+
+date: 2025-02-19, from: Liliputing
+
+<p>Last year LincPlus launched a compact network attached storage (NAS) device called the LincStation N1 that featured support for up to six drives thanks to four M.2 2280 slots for PCIe 3.0 NVMe SSDs and two bays with support for 2.5 inch SATA hard drives or SSDs. When Ian reviewed the NAS he found that [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lincstation-s1-nas-has-an-intel-97-processor-and-supports-4-hdds-and-2-ssds-crowdfunding/">LincStation S1 NAS has an Intel 97 processor and supports 4 HDDs and 2 SSDs (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lincstation-s1-nas-has-an-intel-97-processor-and-supports-4-hdds-and-2-ssds-crowdfunding/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-19, from: Dave Winer's linkblog)
+
+Open Source SVG Loading Icons. 
+
+<br> 
+
+<https://magecdn.com/tools/svg-loaders?ref=web-design-weekly.com>
+
+---
+
+## How to Over Deliver
+
+date: 2025-02-19, from: Guy Kawasaki blog
+
+It&#8217;s evidence of a remarkable person. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/how-to-over-deliver>
+
+---
+
+## Quoting Ai Pin Consumers FAQ
+
+date: 2025-02-19, updated: 2025-02-19, from: Simon Willison’s Weblog
+
+<blockquote cite="https://support.humane.com/hc/en-us/articles/34243204841997-Ai-Pin-Consumers-FAQ"><p><strong>Can I still use my Ai Pin for offline features?</strong></p>
+<p>Yes. After February 28, 2025, Ai Pin will still allow for offline features like battery level, etc., but will not include any function that requires cloud connectivity like voice interactions, AI responses, and .Center access.</p></blockquote>
+<p class="cite">&mdash; <a href="https://support.humane.com/hc/en-us/articles/34243204841997-Ai-Pin-Consumers-FAQ">Ai Pin Consumers FAQ</a>, on their shutdown after sale to HP</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/19/ai-pin/#atom-everything>
+
+---
+
+## Format Go HTML templates
+
+date: 2025-02-19, from: Miek Giebin blog
+
+Because I was fed up with the lack of options (none), I write a tool that can format Go HTML templates: you can find it here. Includes screenshots!
+Formatting Go text templates is pure madness, but the above code works well on HTML templates. If have find issues or need more functionality open a PR against the repo.
+Have this in neovim:
+au FileType gohtmltmpl command! Fmt silent %!gotmplfmt au FileType gohtmltmpl let &amp;l:formatprg=&#34;gotmplfmt&#34; 
+
+<br> 
+
+<https://miek.nl/2025/february/19/format-go-html-templates/>
 
 ---
 
@@ -146,6 +578,54 @@ Maximal Truth still seems far away
 <br> 
 
 <https://garymarcus.substack.com/p/grok-3-beta-in-shambles>
+
+---
+
+## WAMR 2024: A Year in Review
+
+date: 2025-02-19, updated: 2025-02-19, from: Bytecode Alliance News
+
+In 2024, the WAMR community saw many thrilling advancements, including the development of new features, increased industrial use, and an improved experience for developers. Passionate developers and industry professionals have come together to enhance and expand WAMR in ways we couldn’t have imagined. From exciting new tools to a growing community, there’s a lot to be proud of. Let’s take a closer look at the key highlights of WAMR 2024, showcasing the community’s efforts, new features, and the establishment of the Embedded Special Interest Group (ESIG). 
+
+<br> 
+
+<https://bytecodealliance.org/articles/wamr-2024-summary>
+
+---
+
+## Testing concurrent code with testing/synctest
+
+date: 2025-02-19, updated: 2025-02-19, from: Go language blog
+
+Go 1.24 contains an experimental package to aid in testing concurrent code. 
+
+<br> 
+
+<https://go.dev/blog/synctest>
+
+---
+
+## The One Where Everyone Builds Deep Research
+
+date: 2025-02-19, from: Maggie Appleton blog
+
+The sudden rush to release mildly agentic, multi-step AI research tools 
+
+<br> 
+
+<https://maggieappleton.com/deep-research/>
+
+---
+
+## Gladys West, Mathematical Models of the Earth, and the Code That Shapes Our World
+
+date: 2025-02-19, from: The United States Research Software Engineer Association
+
+US-RSE’s DEI working group (DEI-WG) is proud to help US-RSE celebrate and participate in Black History Month. Each week during Black History Month, the US-RSE will spotlight Black/African Americans who have been involved in computing, science, engineering, and/or math, and have inspired our members through their accomplishments in their careers... 
+
+<br> 
+
+<https://us-rse.org/2025-02-19-black-history-spotlight-gladys-west/>
 
 ---
 

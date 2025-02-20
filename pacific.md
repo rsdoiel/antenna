@@ -1,11 +1,389 @@
 ---
 title: pacific
-updated: 2025-02-19 07:08:03
+updated: 2025-02-20 07:10:13
 ---
 
 # pacific
 
-(date: 2025-02-19 07:08:03)
+(date: 2025-02-20 07:10:13)
+
+---
+
+## Guam leaders plead with feds to keep US aid coming
+
+date: 2025-02-20, from: Pacific Island Times
+
+Amid President Trump’s massive house-sweeping and spending realignment, Guam leaders urged the U.S. government to spare the territory from f 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-leaders-plead-with-feds-to-keep-us-aid-coming>
+
+---
+
+## Why Trump wants the US Department of Education shut down
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s stated goal of closing the Department of Education comes after a long Republican-led push to chip away at the agency&#8217;s funding and influence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/why-trump-wants-the-us-department-of-education-shut-down/>
+
+---
+
+## Zelenskyy demands ‘more truth’ after Trump accuses Ukraine of starting war
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; Ukrainian President Volodymyr Zelenskyy hit back on Wednesday at Donald Trump&#8217;s suggestion that Ukraine was responsible for Russia&#8217;s 2022 full-scale invasion, saying the U.S. president was trapped in a Russian disinformation bubble.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/zelenskyy-demands-more-truth-after-trump-accuses-ukraine-of-starting-war/>
+
+---
+
+## UH students on the hook for $42M in COVID hazard pay to employees
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>University of Hawaii regent Neil Abercrombie is pressing for answers and explanations after looking through UH budgets from across the 10-campus system searching for details on how many and how much UH employees would receive in back pay for putting themselves at risk while working through the COVID-19 era.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/hawaii-news/uh-students-on-the-hook-for-42m-in-covid-hazard-pay-to-employees/>
+
+---
+
+## Bill eyeing geothermal on Hawaiian home lands draws opposition
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>A state proposal to locate possible geothermal well sites on Hawaiian home lands has Big Island residents pushing back.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/hawaii-news/bill-eyeing-geothermal-on-hawaiian-home-lands-draws-opposition/>
+
+---
+
+## Bottle bill would boost deposits for beverage container recycling
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii consumers and businesses could see a 100% spike in the cost to discard beverage containers via curbside recycling, the trash and other means outside of a state redemption program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/hawaii-news/bottle-bill-would-boost-deposits-for-beverage-container-recycling/>
+
+---
+
+## Trump says Medicaid won’t be ‘touched.’ House Republicans want it cut by hundreds of billions
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s big legislative ambition &#8212; extending his signature tax cuts &#8212; may have just crashed into his newly expressed wish to protect the Medicaid program. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/trump-says-medicaid-wont-be-touched-house-republicans-want-it-cut-by-hundreds-of-billions/>
+
+---
+
+## Potential impact of Trump policies stirring inflation concerns at Fed, minutes show
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s initial policy proposals raised concern at the Federal Reserve about higher inflation, with firms telling the U.S. central bank they generally expected to raise prices to pass along the cost of import tariffs, policymakers said at a meeting held about a week after Trump&#8217;s January 20 inauguration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/potential-impact-of-trump-policies-stirring-inflation-concerns-at-fed-minutes-show/>
+
+---
+
+## Woman who gave birth to another couple’s baby sues IVF clinic
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>A Georgia woman is suing a fertility clinic after she gave birth to a baby conceived through in vitro fertilization and subsequently lost custody of the child to his biological parents, according to a lawsuit.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/woman-who-gave-birth-to-another-couples-baby-sues-ivf-clinic/>
+
+---
+
+## Millions of dead people on Social Security? The agency’s own data says otherwise.
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>As the Department of Government Efficiency has pursued access to sensitive personal information held by the Social Security Administration, Elon Musk and President Donald Trump have said they suspect tens of millions of dead people may be receiving fraudulent payments from the government.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/millions-of-dead-people-on-social-security-the-agencys-own-data-says-otherwise/>
+
+---
+
+## DOGE claimed it saved $8 billion in one contract. It was actually $8 million
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>The Department of Government Efficiency, the federal cost-cutting initiative championed by Elon Musk, published Monday a list of government contracts it has canceled, together amounting to about $16 billion in savings itemized on a new &#8220;wall of receipts&#8221; on its website.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/doge-claimed-it-saved-8-billion-in-one-contract-it-was-actually-8-million/>
+
+---
+
+## Civil rights groups sue Trump administration over DEI orders
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Civil rights organizations sued the Trump administration Wednesday over a series of executive orders targeting diversity, equity and inclusion programs and gender discrimination protections. They alleged that the orders were discriminatory and illegal, and imperiled funding for groups that provide critical services to historically underserved groups of Americans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/civil-rights-groups-sue-trump-administration-over-dei-orders/>
+
+---
+
+## Senior Justice Department ethics official resigns over sidelining by Trump appointees, source says
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Justice Department&#8217;s senior ethics official resigned on Tuesday, after President Donald Trump&#8217;s administration pulled him off his duties and assigned him to a new sanctuary cities working group, a person familiar with the matter told Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/senior-justice-department-ethics-official-resigns-over-sidelining-by-trump-appointees-source-says/>
+
+---
+
+## Environmental groups sue to block Trump’s offshore drilling expansions
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>Environmental groups on Wednesday moved in court to block President Donald Trump&#8217;s administration from allowing offshore oil drilling along broad swaths of U.S. coastline, in what appeared to be the first legal challenges to the Republicans&#8217; efforts to boost fossil fuel production.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/environmental-groups-sue-to-block-trumps-offshore-drilling-expansions/>
+
+---
+
+## Meeting again in Paris, European leaders try to recalibrate after Trump sides with Russia
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>PARIS &#8212; President Emmanuel Macron of France called a second emergency meeting of European allies Wednesday seeking to recalibrate relations with the United States as President Donald Trump upends international politics by rapidly changing U.S. alliances.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/meeting-again-in-paris-european-leaders-try-to-recalibrate-after-trump-sides-with-russia/>
+
+---
+
+## Crypto worth $99 million withdrawn from Milei-backed Libra token, researchers say
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>Around $99 million worth of cryptocurrency was withdrawn from the marketplace of a coin at the center of a scandal in Argentina by eight digital wallets linked to the crypto token&#8217;s creator, blockchain researchers said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/crypto-worth-99-million-withdrawn-from-milei-backed-libra-token-researchers-say/>
+
+---
+
+## News in brief for February 20
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>Trump&#8217;s rating slips as Americans worry about the economy</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/news-in-brief-for-february-20/>
+
+---
+
+## Alarmed by Trump’s Gaza plan, Arab leaders brainstorm on their own
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>After President Donald Trump shocked the Arab world last month by suggesting the entire population of the Gaza Strip be expelled from the territory, his aides reframed the idea as an invitation to the leaders of the Middle East: Come up with a better plan, or do it our way.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/nation-world-news/alarmed-by-trumps-gaza-plan-arab-leaders-brainstorm-on-their-own/>
+
+---
+
+## World Bank funds drain improvements
+
+date: 2025-02-20, from: Marshal Islands Journal
+
+<p>HILARY HOSIA A massive project to fix the drainage system in Majuro is underway following a groundbreaking ceremony in Rita on Tuesday this week. Local company AC Construction has been awarded the contract for the project, which is projected to take 140 days to complete. The work will be concentrated on the drainage system on [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/world-bank-funds-drain-improvements/">World Bank funds drain improvements</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/world-bank-funds-drain-improvements/>
+
+---
+
+## Tax paradise? Guam, two other US territories remain on EU's shame list
+
+date: 2025-02-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff Guam, American Samoa and the U.S. Virgin Islands are among the 11 jurisdictions remaining on the... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/tax-paradise-guam-two-other-us-territories-remain-on-eu-s-shame-list>
+
+---
+
+## Tuna program adds value for RMI
+
+date: 2025-02-20, from: Marshal Islands Journal
+
+<p>The FISH4ACP project is working with tuna industry partners in the Marshall Islands to increase sustainability of water and energy used in fish processing as part of this nation’s action to meet UN Sustainable Development Goal 14 that centers around sustainable marine resource use. Energy and water assessments by the FISH4ACP project of four tuna [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/tuna-program-adds-value-for-rmi/">Tuna program adds value for RMI</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/tuna-program-adds-value-for-rmi/>
+
+---
+
+## Hawaiʻi students shine in UH-hosted robotics competitions
+
+date: 2025-02-20, from: University of Hawaiʻi News
+
+<p>VEX Robotics is an educational robotics program that inspires students to excel in <abbr>STEM</abbr> principles while encouraging creativity, teamwork, leadership and problem solving among groups.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/19/vex-robotics-regional-championships/">Hawaiʻi students shine in <abbr>UH</abbr>-hosted robotics competitions</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/19/vex-robotics-regional-championships/>
+
+---
+
+## Pacific leaders face pivotal decision on deep-sea mining at forum in Fiji
+
+date: 2025-02-19, from: Pacific Island Times
+
+By Ron Rocky Coloma As the sun rose over Suva’s harbor, the rhythmic crash of waves echoed against the conference halls where Pacific... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-leaders-face-pivotal-decision-on-deep-sea-mining-at-forum-in-fiji>
+
+---
+
+## Passport office getting new home
+
+date: 2025-02-19, from: Marshal Islands Journal
+
+<p>The tiny RMI passport office is soon to get a new home. President Hilda Heine told the Journal that the government has approved renovating the former cafe and grocery store that sits between ELM Motors and Majuro Water and Sewer Company in order to turn it into an office for the passport program. “It’s a [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/passport-office-getting-new-home/">Passport office getting new home</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/passport-office-getting-new-home/>
+
+---
+
+## Image of the Week: Aloha Kaua
+
+date: 2025-02-19, from: University of Hawaiʻi News
+
+<p>This week's image is from Windward Community College's Taurie Kinoshita and Nicole Tessier.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/19/image-of-the-week-aloha-kaua/">Image of the Week: Aloha Kaua</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/19/image-of-the-week-aloha-kaua/>
+
+---
+
+## US judge will not block Elon Musk from firing federal workers, accessing data
+
+date: 2025-02-19, updated: 2025-02-20, from: Marianas Variety
+
+NEW YORK (Reuters) — A judge on Tuesday declined to immediately block Elon Musk's government efficiency department from directing firings of federal workers or accessing databases, but said the case raises questions about Musk's apparent unchecked authority as a top deputy to President Donald Trump. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-judge-will-not-block-elon-musk-from-firing-federal-workers-accessing-data/article_f33eff28-eec0-11ef-9d72-073fb2f731c8.html>
+
+---
+
+## My Marianas Writing Contest workshop set for Feb. 22; high school students encouraged to participate
+
+date: 2025-02-19, updated: 2025-02-20, from: Marianas Variety
+
+NORTHERN Marianas Humanities Council program coordinator Leeani Saralu invites interested high school students to register for the My Marianas Writing Contest writers’ workshop this Saturday, Feb. 22, from 9 a.m. to 12 noon at the council’s office at Springs Plaza in Gualo Rai. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/my-marianas-writing-contest-workshop-set-for-feb-22-high-school-students-encouraged-to-participate/article_8d82d878-eec3-11ef-8b4b-7f5b8c7920ed.html>
+
+---
+
+## Poetry
+
+date: 2025-02-19, updated: 2025-02-20, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_7f341168-eebb-11ef-994d-bf43a4a674de.html>
 
 ---
 
@@ -286,6 +664,48 @@ date: 2025-02-19, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/19/entertainment/big-island-swing-band-at-kahilu-this-saturday/>
+
+---
+
+## Hilo man accused of burglarizing several businesses
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Prosecutors have charged 27 year-old Samson Mahu of Hilo in relation to a series of burglaries that occurred between January and February at several Hilo businesses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/hawaii-news/hilo-man-accused-of-burglarizing-several-businesses-2/>
+
+---
+
+## Police investigate murder in Hilo
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Police initiated a homicide investigation following an early morning shooting in Hilo today that left a man dead.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/hawaii-news/police-investigate-murder-in-hilo/>
+
+---
+
+## Hilo man accused of burglarizing several businesses
+
+date: 2025-02-19, from: Hawaii Tribune Harold
+
+
+				<p>Prosecutors have charged 27 year-old Samson Mahu of Hilo in relation to a series of burglaries that occurred between January and February at several Hilo businesses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/19/hawaii-news/hilo-man-accused-of-burglarizing-several-businesses/>
 
 ---
 

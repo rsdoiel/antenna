@@ -1,11 +1,1314 @@
 ---
 title: north america
-updated: 2025-02-19 07:08:02
+updated: 2025-02-20 07:10:13
 ---
 
 # north america
 
-(date: 2025-02-19 07:08:02)
+(date: 2025-02-20 07:10:13)
+
+---
+
+## Homebuilders are feeling pessimistic about future sales
+
+date: 2025-02-20, from: Market Place
+
+A survey from the National Association of Home Builders found contractors' expectations fell to their lowest level in more than a year. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/20/homebuilders-home-sales-tariffs-materials-labor/>
+
+---
+
+## Federal layoffs spark concerns over nation’s food safety
+
+date: 2025-02-20, from: Market Place
+
+Thousands of specialists still work at food safety agencies, but critics say the cuts reduce the government's ability to implement standards. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/20/fda-layoffs-federal-workers-food-safety/>
+
+---
+
+## Trump administration pulls federal approval of congestion pricing in New York City
+
+date: 2025-02-20, from: Market Place
+
+New York became the first city in the country to implement congestion pricing in January.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/20/congestion-pricing-trump-administration-pulls-federal-approval/>
+
+---
+
+## They Broke It. They Own It.
+
+date: 2025-02-20, from: The Contrarian
+
+How to hold GOP accountable 
+
+<br> 
+
+<https://contrarian.substack.com/p/they-broke-it-they-own-it>
+
+---
+
+## North Korea criticizes US over AUKUS nuclear submarine deal
+
+date: 2025-02-20, from: VOA News USA
+
+SEOUL, SOUTH KOREA — North Korean state media on Thursday criticized the United States for a nuclear submarine deal with Australia under the AUKUS partnership signed in 2021, calling it a "threat to regional peace."
+
+
+A commentary carried by KCNA said Washington should be wary of consequences for what it said were nuclear alliances, naming AUKUS and the trilateral cooperation with South Korea and Japan.
+
+
+Australia just made its first $500 million payment to the U.S. under the AUKUS nuclear submarine deal.
+
+
+Under AUKUS, Australia will pay the United States $3 billion to boost the capacity of the U.S. submarine industry, and Washington will sell several Virginia-class nuclear-powered submarines to Australia in the early 2030s.
+
+
+The KCNA commentary also argued the U.S. sees North Korea as an obstacle to its establishment of hegemony in the region and said nuclear states will not sit idly by, referring to itself.
+
+
+North Korea has been criticizing the trilateral military cooperation between South Korea, Japan and the U.S. and has called the relationship "the Asian version of NATO."
+
+
+South Korea's defense ministry on Thursday said that a joint air drill was held with the U.S. with at least one B-1B strategic bomber taking part.
+
+
+The drill was to show extended deterrent capabilities by the United States in response to threats from North Korea's nuclear and missile program, the ministry said in a statement. 
+
+<br> 
+
+<https://www.voanews.com/a/north-korea-criticizes-us-over-aukus-nuclear-submarine-deal/7981578.html>
+
+---
+
+## Trump expects visit from Chinese President Xi without giving timeline
+
+date: 2025-02-20, from: VOA News USA
+
+ABOARD AIR FORCE ONE/ WASHINGTON — U.S. President Donald Trump said on Wednesday he expected Chinese President Xi Jinping to visit the United States, without giving a timeline for his trip.
+
+
+Trump made the remarks to reporters on Air Force One and said "it's possible" for the U.S. and China to have a new trade deal. A conversation or interaction between Xi and Trump is seen as crucial to a potential easing or delay of trade tariffs.
+
+
+"We'll have, ultimately, President Xi, we will have everybody coming (to the U.S.)," Trump said, while also speaking about other leaders potentially visiting the United States.
+
+
+Xi last travelled to the U.S. in November 2023, in his fifth visit to the country as Chinese president, for a summit with then U.S. President Joe Biden, resulting in agreements to resume military-to-military communications and curb fentanyl production.
+
+
+Trump and Xi had spoken just before Trump took office on January 20 and discussed issues including TikTok, trade and Taiwan.
+
+
+Trump told reporters on Wednesday that he was talking to China about TikTok as the United States seeks to broker a sale of the popular app owned by Chinese parent firm ByteDance.
+
+
+Trump said last week he had spoken to Xi since taking office as well, but did not offer details on the topics of that conversation. China's foreign ministry did not directly comment on Trump's remarks that day and instead referred reporters to their "scheduled" call before Trump took office.
+
+
+Washington and Beijing have had tense relations for years over differences ranging from trade and tariffs and cybersecurity, and TikTok, Taiwan, Hong Kong, human rights and the origins of COVID-19.
+
+
+Trump also again told reporters he could make a deal with Russia over the war in Ukraine.
+
+
+"We can make a deal with Russia to stop the killing," Trump said, adding he thought the Russians wanted to see the war end.
+
+
+"I think they have the cards a little bit because they've taken a lot of territory, so they have the cards," Trump said. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-expects-visit-from-chinese-president-xi-without-giving-timeline/7981566.html>
+
+---
+
+## Native American activist Leonard Peltier, freed from prison, welcomed on reservation
+
+date: 2025-02-20, from: VOA News USA
+
+BELCOURT, NORTH DAKOTA — Native American activist Leonard Peltier was defiant toward the government but grateful for his supporters as they welcomed him home to North Dakota on Wednesday, a day after his release from a Florida prison where he had been serving a life sentence in the 1975 killings of two FBI agents. 
+
+
+Peltier, 80, grew emotional as he addressed about 500 people who gathered at the festive event that included food, a drum circle and dancers at a center in Belcourt. The small town is just south of the Canadian border on the Turtle Mountain Band of Chippewa Indians' reservation. 
+
+
+"I'm so proud of the showing and support you've given me," Peltier said. "I've got a hard time keeping myself from crying. A strong warrior can't be up crying in front of his people." 
+
+
+
+
+Before leaving office, former President Joe Biden commuted Peltier's life sentence to home confinement, leading to his release Tuesday from the Coleman penitentiary. Peltier was convicted of two counts of first-degree murder and given two consecutive life sentences stemming from a 1975 confrontation on the Pine Ridge Indian Reservation in South Dakota. 
+
+
+FBI agents Jack Coler and Ronald Williams were killed, and while Peltier acknowledged firing shots during the confrontation, he denied being the person whose shots killed the men. Native Americans widely believe he was a political prisoner who was wrongly convicted because he fought for Indigenous rights as a member of the American Indian Movement. 
+
+
+For years, many in law enforcement argued against freeing Peltier. Current and former FBI agents disputed his claims of innocence. As Biden considered his options as his term ended, former FBI Director Christopher Wray sent the president a letter in which he called Peltier "a remorseless killer" who should remain in prison. 
+
+
+In a statement about the commutation, Biden said numerous individuals and groups supported releasing Peltier due to the time he spent in prison, his age and his leadership role among Native Americans. 
+
+
+For decades, Peltier has maintained he was innocent of the murder charges, and he said Wednesday: "I spent 49 years straight in prison for something I didn't do." 
+
+
+Peltier said he went into prison a young man and emerged far older at age 80. During all that time, Peltier said he tried to keep Native American issues in the forefront of his activism, and he thanked tribes across the nation for their decades of support. 
+
+
+"From day one, from the first hour I was arrested, Indian people came to my rescue, from all over the country," Peltier said. 
+
+
+
+
+Tribal leaders presented Peltier with an eagle feather staff that supporters had carried to Washington and other places as they campaigned for his release, and a traditional star quilt that Peltier draped over his shoulder. 
+
+
+Nick Tilsen, an Oglala Lakota and founder of the NDN Collective, an Indigenous-led advocacy group, paid tribute to Peltier and his generation of American Indian Movement leaders for standing up "against the most powerful government in the world. And they instilled that pride back into our people. They instilled that fight back into our people." 
+
+
+"All around the world, Leonard Peltier's name will be remembered as a warrior, as a warrior who outlasted one of the strongest governments in the world, and came out victorious." 
+
+
+Turtle Mountain Band of Chippewa Tribal Chair Jamie Azure said the welcome shown by hundreds of people at the event was a testament to what he means to the tribe and other Native Americans. 
+
+
+"What I think you can see from the turnout here today, it means a lot to a lot of people on a lot of different levels to see Mr. Peltier come back to his homeland, to just be home," Azure said. 
+
+
+As tribal member Denise Lajimodiere said, "It's a big day. A day of celebration." 
+
+<br> 
+
+<https://www.voanews.com/a/native-american-activist-leonard-peltier-freed-from-prison-welcomed-on-reservation-/7981521.html>
+
+---
+
+## Stax Music Academy's teen students mark 25th anniversary, Black History Month with concert
+
+date: 2025-02-20, from: VOA News USA
+
+MEMPHIS, TENNESSEE — The Memphis music studio where some of America’s most recognizable songs were recorded decades ago is now a museum. But next door, trumpets blare, drums boom, and singers craft the soulful sounds of Stax Records’ biggest hits.
+
+
+At Stax Music Academy, young musicians rehearse the unmistakable intro to “Theme from Shaft,” the Isaac Hayes tour de force that won an Oscar in 1972 and tantalizes listeners with its pulsating bass line, crisp hi-hat and funky guitar. There's an air of professionalism among the students as their teacher hands out sheets of music and words of wisdom.
+
+
+“Here we go. Read the ink that’s on the paper. From the top, one, two, ready and …,” says Sam Franklin IV, the academy's music director. When they finish, Franklin says, “Hey y’all, that was good.”
+
+
+Under the guidance of Franklin and other instructors, the students are practicing for three concerts in Memphis, Tennessee, on Friday to celebrate Black History Month and the academy's 25th anniversary. Created in 2000, the academy is an after-school program for teens that teaches them to sing, dance and play instruments. Some pay nothing to attend.
+
+
+The academy has graduated more than 4,000 students since it started in the working-class neighborhood of Soulsville, where Stax Records produced soul and R&B classics in the 1960s and 1970s. Since 2008, every high school senior has been accepted to a college or university, many on full scholarships. The academy has performed at the Rock and Roll Hall of Fame in Cleveland, the Kennedy Center in Washington, and in Europe and Australia.
+
+
+Students take pride and joy in continuing the legacy of the influential record company, where Otis Redding cut “(Sittin’ On) the Dock of the Bay,” Sam and Dave worked on “Soul Man,” and The Staple Singers made “Respect Yourself.” Other mainstays of the Stax catalog include Booker T. and the MGs, Rufus and Carla Thomas, Wilson Pickett and Johnnie Taylor.
+
+
+Before it went bankrupt in 1975, Stax Records helped develop the raw, emotional Memphis Sound, driven by tight horn and rhythm sections, and strong-voiced singers. Some Stax songs were energetic and raucous, others smooth and sexy. Stax Records no longer churns out chart-topping music, although it still has a program for songwriters. The building has been converted into the Stax Museum of American Soul Music.
+
+
+The Stax Music Academy group practicing on a rainy January evening includes both Black and white players. Before the work begins, some students joke around and dance in the hallway outside the rehearsal room, which boasts a high ceiling and a whiteboard with musical notes written on it. In a separate room, vocalists clap for each other as they take turns singing for their instructors.
+
+
+“It’s so fun," said Tatiyana Clark, a 17-year-old singer who joined the academy in 2023. "I’ve been in places where we would have the same interest in music, but nothing is like the connection that I have here. Honestly, it’s a different level of friendship, when you have the exact same feelings towards music, the same experiences — almost.”
+
+
+Stax began online Black History Month presentations in 2021 during the COVID-19 pandemic. Previous programs have included specific themes, with this year's being the U.S. labor movement and how it involved and affected Black people, including work training, entrepreneurship and unionization. But this year's show is a series of in-person concerts at a downtown Memphis venue where attendees will hear Sam and Dave's “Hold On, I'm Comin'”, Arthur Conley's “Sweet Soul Music,” and “Cause I Love You,” by the father and daughter duet of Rufus and Carla Thomas.
+
+
+A companion study guide includes lessons and activities highlighting key figures and events that shaped labor policies and standards.
+
+
+“It’s all about the message for me,” said Johnathan Cole, an 18-year-old singer and songwriter. “It feels good because with the world going crazy right now, everybody just needs a little bit of love, happiness and music. That’s what Stax Music Academy has always been about: love, music, creativity."
+
+
+When the labor and civil rights movements were striving for racial equality and social justice, Booker T. and the MGs churned out “Green Onions” and other toe-tapping instrumental songs, with Black men at organ and drums — Booker T. Jones and Al Jackson Jr. — and white players on lead and bass guitar — Steve Cropper and Donald “Duck” Dunn.
+
+
+“I would describe Stax as ‘change,'" said Johnathan McKinnie, a 16-year-old piano and organ player. "It drastically changed how music was formed … It was definitely an advocate for civil rights.”
+
+
+In the vocalists' rehearsal room, the group is perfecting Eddie Floyd's song about luck and love, “Knock on Wood."
+
+
+"It’s like thunder, and lightning, the way you love me is frightening … better knock, knock, knock on wood,” three vocalists sing in harmony.
+
+
+“Breathe. You’re not breathing,'” one instructor tells a student, who smiles and nods.
+
+
+The exchange exemplifies the spirit of cooperation and dedication that permeates the academy. Pasley Thompson, a 17-year-old singer and songwriter, calls the academy "an escape from the every day.”
+
+
+“Being able to be in a space with people that get you on a creative level, and on a personal level, because we’re around each other all the time, it’s a really great feeling to have,” she said. 
+
+<br> 
+
+<https://www.voanews.com/a/stax-music-academy-s-teen-students-mark-25th-anniversary-black-history-month-with-concert-/7981556.html>
+
+---
+
+## Trump, Vance among speakers at gathering of conservatives
+
+date: 2025-02-20, from: VOA News USA
+
+Conservative leaders, including U.S. President Donald Trump and politicians from Argentina, Britain, Poland and Italy, are among those set to address a three-day meeting of conservatives outside of Washington beginning Thursday.
+
+
+U.S. Vice President JD Vance leads off the Conservative Political Action Conference, with other sessions Thursday set to include discussions of cryptocurrency and Middle East peace, and a panel featuring relatives of hostages being held in Gaza.
+
+
+The CPAC conference helped Trump emerge as a figure in conservative politics and one which he addressed every year during his prior term in office.
+
+
+He used an address last year at the conference to pledge that a victory in the November presidential election would bring "judgment day" for "the liars and cheaters and fraudsters and censors and imposters who have commandeered our government."
+
+
+In addition to U.S. House Speaker Mike Johnson, Thursday’s agenda also includes remarks from former British Prime Minister Liz Truss and Balazs Orban, the political director for Hungarian Prime Minister Viktor Orban.
+
+
+Santiago Abascal, head of the far-right Spanish political party Vox is set to address the event Thursday, as is British lawmaker Nigel Farage and former Polish Prime Minister Mateusz Morawiecki.
+
+
+Later conference speakers include Slovakian Prime Minister Robert Fico, Argentina’s President Javier Milei and Italian Prime Minister Giorgia Meloni.
+
+
+Some information for this report came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-vance-among-speakers-at-gathering-of-conservatives/7981546.html>
+
+---
+
+## Trump says he has not seen Egyptian counter to his plan for Gaza
+
+date: 2025-02-20, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump said Wednesday evening he has not seen the proposal being discussed by Arab leaders as an alternative to his plan to take over Gaza once the war between Hamas and Israel ends.
+
+
+“I haven’t seen it,” Trump said in response to a reporter’s question on Air Force One. “Once I see it, I’ll let you know,” he added.
+
+
+Trump said early this month he wants to forcibly relocate almost 2 million Palestinians from Gaza into neighboring Jordan and Egypt. He said the United States will “own” the territory and turn it into the “Riviera of the Middle East,” which prompted rejection by Arab countries.
+
+
+It’s unclear whether Trump is serious or merely threatening to extract concessions from Arab states. During a meeting with Saudi Crown Prince Mohammed bin Salman in Riyadh this week, U.S. Secretary of State Marco Rubio suggested that it could be the latter, urging regional leaders to make a counteroffer.
+
+
+The Saudi crown prince will host leaders of Egypt, Jordan, and other Gulf Cooperation Council states of Bahrain, Kuwait, Oman, Qatar, and the United Arab Emirates Friday in Riyadh to discuss options, including an Egyptian plan to raise up to $20 billion over three years from Arab and Gulf states for Gaza’s reconstruction. Under this plan, Gazans would not be forced out and the strip would be governed by Palestinians.
+
+
+Saudi connection
+
+
+Trump spoke en route to Washington after delivering remarks at a conference in Miami, hosted by the Future Investment Initiative Institute, the nonprofit arm of Saudi Arabia's Public Investment Fund – the kingdom’s sovereign wealth fund led by the crown prince.
+
+
+His speech marked the first time a U.S. president addressed the annual gathering of global financiers and tech executives. It is a testament to how the Saudi crown prince, known by his initials MBS, has leveraged his connection to Trump, Laura Blumenfeld, senior fellow at the Johns Hopkins School for Advanced International Studies, said.
+
+
+The prince established close ties during Trump’s first term and continued business ties with the Trump organization while the president was out of office, including investing $2 billion to a firm belonging to Trump’s son-in-law and former aide, Jared Kushner.
+
+
+“Trump believes in the Golden Rule, but not the Golden Rule from Sunday school,” Blumenfeld told VOA. “It's if you're rich, you're right.”
+
+
+As Riyadh leads the charge to unify Arab nations to support postwar Gaza, there may be signs that Trump is softening his demand. In his wide-ranging remarks that lasted over an hour, Trump did not mention Gaza beyond repeating what he said was his role on the ceasefire signed January 19, during the last day then-President Joe Biden was in office.
+
+
+“We've secured a ceasefire in Gaza, and we're bringing in the hostages, and we're bringing them home to their families,” Trump said, adding that some of the hostages “are in pretty bad shape.”
+
+
+He lauded Yasir Al-Rumayyan, governor of the Saudi wealth fund, and Saudi Finance Minister Mohammed bin Abdullah al-Jadaan. The White House did not immediately respond to VOA’s query on whether Trump met with any of the Saudi delegation during the event.
+
+
+During his Wednesday remarks Trump thanked the Saudi crown prince for hosting talks between U.S. and Russian officials Tuesday to find a way to end the war in Ukraine. Ukrainian President Volodymyr Zelenskyy and European allies have decried the meeting as an effort to sideline Kyiv.
+
+
+Egyptian proposal on Gaza
+
+
+Egypt's state-run Al-Ahram newspaper said under the proposal, “secure areas” equipped with mobile houses and shelters will be established as living areas in Gaza while Egyptian and international construction firms rebuild the devastated infrastructure.
+
+
+The proposal also calls for forming a national Palestinian committee of technocrats and community leaders unaffiliated with Hamas to govern postwar Gaza.
+
+
+It is unclear whether the plan has the support of the Palestinian Authority, the internationally recognized body that currently rules parts of the West Bank and administered Gaza until it lost the 2006 election to Hamas.
+
+
+“What is needed now is a political solution to Gaza to make that reconstruction both physically possible and long term sustainable,” said Tariq Kenney-Shawa, U.S. Policy Fellow at the Palestinian Policy Network Al-Shabaka.
+
+
+The goal is that “we don't return to a situation where Gaza remains under occupation,” he told VOA.
+
+
+On Monday Hamas indicated a willingness to cede any postwar governance role.
+
+
+“It is not necessary for Hamas to be part of the political and administrative arrangements in the next phase for Gaza, especially if it serves the interests of our people,” Hamas spokesperson Hazem Qasim told Al Arabiya TV.
+
+
+Hamas made the conciliatory statement as negotiations toward phase two of the ceasefire is set to begin in days, after weeks of delay. However, it fulfils only part of Israel’s and the United States’ key demand – the elimination of governance and military role for Hamas in postwar Gaza.
+
+
+So far Hamas has not shown it would disarm. Meanwhile Israel has not defined what it considers an acceptable alternative governing entity to Hamas and has rejected any involvement of the Palestinian Authority.
+
+
+The Egyptian proposal also does not solve a longstanding issue between the warring parties. Israeli leaders oppose any postwar plans that would pave the way to a two-state solution, while a sovereign Palestine remains a key requirement for Palestinians and Arab countries.
+
+
+Expedited hostage release
+
+
+A top Hamas official announced earlier this week that the group will return the remains of four deceased Israeli hostages and free six living ones in exchange for hundreds of Palestinian prisoners, including 47 senior Hamas members. Israel will also allow mobile homes and construction equipment into Gaza.
+
+
+The six living hostages are the last set to be freed under phase one of the ceasefire that called for the gradual release of 33 hostages, eight of whom are believed to be dead. Hamas took about 250 hostages and killed about 1,200 people in the October 2023 attack on Israel.
+
+
+Analysts said the expedited exchange of hostages and prisoners could mean that both parties are anxious to secure what they can now, due to concerns the truce will collapse before phase one expires next week.
+
+
+“What we're looking at now is possibly – possibly a swifter resolution to phase two,” said Mirette Mabrouk, senior fellow at the Middle East Institute.
+
+
+“But if that happens, then that sort of signals near the end of the conflict,” she told VOA. “And that's something that [Israeli] Prime Minister Netanyahu has said he's not going to want without Hamas being disarmed.”
+
+
+Hamas is believed to be holding about 70 more captives, half of them living. It insists it will only release them in exchange for a permanent end to fighting and a full Israeli troop withdrawal from Gaza.
+
+
+Israel's counteroffensive to the Hamas attack has displaced more than 2 million Palestinians and killed more than 48,200, mostly women and children, according to Gaza's Health Ministry. The Israeli military says the death toll includes 17,000 militants.
+
+
+VOA's Kim Lewis contributed to this story. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-says-he-has-not-seen-the-egyptian-counter-to-his-plan-for-gaza/7981543.html>
+
+---
+
+## Migrants in Panama deported from US moved to Darien jungle region
+
+date: 2025-02-20, from: VOA News USA
+
+PANAMA CITY — A group of migrants deported from the U.S. to Panama last week were moved on Tuesday night from a hotel in the capital to the Darien jungle region in the south of the country, a lawyer representing a migrant family told Reuters on Wednesday.
+
+
+Susana Sabalza, a Panamanian migration lawyer, said the family she represents was transferred to Meteti, a town in the Darien, along with other deported migrants.
+
+
+La Estrella de Panama, a local daily, reported on Wednesday that 170 of the 299 migrants who had been in the hotel were moved to the Darien.
+
+
+Panama's government did not respond to a request for comment.
+
+
+The 299 migrants have been staying at a hotel in Panama City under the protection of local authorities and with the financial support of the United States through the U.N.-related International Organization for Migration and the U.N. refugee agency, according to the Panamanian government.
+
+
+The migrants include people from Afghanistan, China, India, Iran, Nepal, Pakistan, Sri Lanka, Turkey, Uzbekistan and Vietnam, according to Panama's president, Jose Raul Mulino, who has agreed with the U.S. to receive non-Panamanian deportees.
+
+
+The deportation of non-Panamanian migrants to Panama is part of the Trump administration's attempt to ramp up deportations of migrants living in the U.S. illegally.
+
+
+One of the challenges to Trump's plan is that some migrants come from countries that refuse to accept U.S. deportation flights, due to strained diplomatic relations or other reasons. The arrangement with Panama allows the U.S. to deport these nationalities and makes it Panama's responsibility to organize their onward repatriation.
+
+
+The process has been criticized by human rights groups that worry migrants could be mistreated and also fear for their safety if they are ultimately returned to violent or war-torn countries of origin, such as Afghanistan.
+
+
+Sabalza said she had not been able to see her clients while they were held at the hotel in Panama City and said she is seeking permission to visit them at their new location. She declined to identify their nationality, but said they were a Muslim family who "could be decapitated" if they returned home.
+
+
+Sabalza said the family would be requesting asylum in Panama or "any country that will receive them other than their own."
+
+
+Mulino said previously the migrants would be moved to a shelter in the Darien region, which includes the dense and lawless jungle separating Central America from South America that has in recent years become a corridor for hundreds of thousands of migrants aiming to reach the United States.
+
+
+Panama's security minister said on Tuesday that more than half of the migrants deported from the United States in recent days had accepted voluntary repatriations to their home countries.
+
+
+On Wednesday morning the hotel in Panama City where the migrants had been held appeared quiet, according to a Reuters witness.
+
+
+On Tuesday some migrants had been seen holding hands and looking out a window of the hotel to get the attention of reporters outside.
+
+
+Migrants in the hotel were not allowed to leave, according to media reports.
+
+
+On Wednesday, Panama's migration service said in a statement that a Chinese national, Zheng Lijuan, had escaped from the hotel. It asked that she return and accused unspecified people outside the hotel of aiding her escape. 
+
+<br> 
+
+<https://www.voanews.com/a/migrants-in-panama-deported-from-us-moved-to-darien-jungle-region/7981522.html>
+
+---
+
+## Senate Republicans to push ahead with border bill despite Trump opposition
+
+date: 2025-02-20, from: VOA News USA
+
+WASHINGTON — U.S. Senate Republicans will push ahead on Thursday with a measure to kickstart President Donald Trump's agenda on immigration, energy and defense, Majority Leader John Thune said on Wednesday, after Trump called on them to drop the plan in favor of a sweeping resolution prepared by House Republicans.
+
+
+Trump came down firmly in favor of the House of Representatives' plan for one sweeping bill that would also include trillions of dollars in tax cuts. House Republicans fear that the Senate's "skinny" plan could diminish their chances of extending Trump's tax cuts later in their own chamber, where the party holds a narrow and fractious 218-215 majority.
+
+
+"We need both Chambers to pass the House Budget to 'kickstart' the Reconciliation process, and move all of our priorities to the concept of, 'ONE BIG BEAUTIFUL BILL'," the president wrote on social media on Wednesday morning.
+
+
+After a lunch meeting with Vice President JD Vance and his own Senate Republicans, Thune told reporters that he would still go ahead with the smaller bill.
+
+
+"In the end, we'll be able to, whether it's one bill or two bills, to get all the things that the president's outlined -- his objectives -- across the finish line," said Thune, adding that he expected the Senate to vote on its own blueprint on Thursday.
+
+
+Some Republicans said they were confused about the plan to proceed after Trump's message.
+
+
+"It seems a little strange to me," Senator Josh Hawley said.
+
+
+"If the president supports it and ... I have some assurance of that, I’ll support it," the Missouri Republican added. "But it just seems a little bizarre to me. I can't quite figure out what we're doing."
+
+
+Meanwhile, Democrats promised a long, drawn-out fight.
+
+
+"Senate Democrats will expose Republicans' reconciliation budget bill exactly for what it is: a sinister front for clearing the way to cut taxes for Donald Trump's billionaire buddies," Senate Democratic leader Chuck Schumer of New York said.
+
+
+The Senate measure, a $340 billion fiscal 2025 budget resolution, would boost spending by $85 billion a year for four years to fund tighter border security, Trump's deportation of immigrants in the country illegally, energy deregulation and an increase in military spending. Republicans say the plan would offset the higher spending with funding cuts in other areas.
+
+
+The House budget resolution includes those same priorities along with $4.5 trillion in tax cuts, while seeking to cover the cost through $2 trillion in spending cuts and accelerated economic growth based mainly on the tax and energy policy changes it would usher in.
+
+
+'FULL agenda'
+
+
+Both chambers of Congress need to pass the same budget resolution to unlock the parliamentary tool that would enable Republicans to enact Trump's legislative agenda in a way that circumvents Democratic opposition and the Senate filibuster.
+
+
+Republican lawmakers in recent weeks have backed away from concerns that extending Trump's 2017 tax cuts could add to the nation's fast-growing $36 trillion in debt. The nonpartisan Committee for a Responsible Federal Budget estimated that Trump's full tax cut agenda could cost more than $5 trillion over the next decade.
+
+
+House Republicans welcomed Trump's intervention as they try to forge unity for a floor vote on their own budget blueprint expected next week.
+
+
+"@realDonaldTrump is right! House Republicans are working to deliver President Trump’s FULL agenda - not just a small part of it. Let’s get it done, @HouseGOP!" tweeted House Speaker Mike Johnson, Thune's Republican counterpart.
+
+
+The difference between the House and Senate strategies comes down to Trump's proposed tax cuts.
+
+
+House Republicans fear the two-step Senate approach could lead to a stalled standalone tax cut bill if lawmakers cannot agree on offsetting cuts in spending. Senate Republicans worry that the rush for all-encompassing legislation may not provide enough time to adequately handle the intricacies of the tax component.
+
+
+Senate Republicans began moving forward with their own budget resolution last week in response to what they described as a plea for border and immigration funding from Trump "border czar" Tom Homan and White House budget director Russ Vought. 
+
+<br> 
+
+<https://www.voanews.com/a/senate-republicans-to-push-ahead-with-border-bill-despite-trump-opposition/7981515.html>
+
+---
+
+## Trump's comments on Ukraine draw mixed reaction from US lawmakers
+
+date: 2025-02-20, from: VOA News USA
+
+U.S. President Donald Trump's comments this week claiming Ukraine was responsible for starting the three-year conflict with Russia and calling Ukrainian President Volodymyr Zelenskyy "a dictator without elections" drew criticism from congressional Democrats and pushback from some members of the Republican Party.
+
+
+"Clearly, Vladimir Putin is responsible for this war," Republican Senator Thom Tillis told reporters. "His decision has resulted in the murder, rape, torture and kidnapping of untold numbers of Ukrainians. He owns responsibility for this war. I don't know how more plainly it can be stated."
+
+
+Republican Senator John Kennedy told reporters he believes Russia started the war.
+
+
+"I also believe, through bitter experience, that Vladimir Putin is a gangster. He's a gangster with a black heart," he added.
+
+
+But Senate Majority Leader John Thune declined to criticize Trump when speaking to reporters Wednesday.
+
+
+"The president speaks for himself," Thune said. "What I want to see is a peaceful result, a peaceful outcome. And I think right now, there's a negotiation going on, and let's see where that ultimately leads."
+
+
+Republican Senator Josh Hawley said Trump has blamed Russia "as well, and threatened to sanction Russia if they didn't come to the negotiating table."
+
+
+The conflict between Trump and Zelenskyy comes as U.S. envoy Keith Kellogg arrived in Kyiv on Wednesday to meet with Zelenskyy.
+
+
+Ukraine was not included in peace talks that began this week in Riyadh, Saudi Arabia, between the United States and Russia. Trump brushed off Ukraine's complaints at not being included in negotiations, saying Tuesday, "You never should have started it."
+
+
+Russia invaded Ukraine on Feb. 24, 2022, claiming eastern parts of the country needed to be liberated. U.S. officials say nearly half a million Ukrainian civilians have died in the war and at least 124,000 Ukrainian soldiers.
+
+
+After Trump's comment, seeming to blame the Ukrainian leader for starting the war, Zelenskyy responded on social media that Trump lives in a "disinformation space" influenced by Russia.
+
+
+Trump responded to Zelenskyy on Truth Social on Wednesday: "Think of it, a modestly successful comedian, Volodymyr Zelenskyy, talked the United States of America into spending $350 Billion Dollars, to go into a War that couldn't be won, that never had to start, but a War that he, without the U.S. and 'TRUMP,' will never be able to settle. A Dictator without Elections, Zelenskyy better move fast or he is not going to have a Country left."
+
+
+Hawley told reporters Wednesday that he supported Trump's calls for an election in Ukraine.
+
+
+"The suspension of elections in Ukraine is a bad deal," Hawley said. "Zelenskyy should hold elections. He's the elected leader of the country. Our president is right — they haven't had elections in a long time, and they are basically under martial law. That's not good when you claim to be defending democracy. You need to practice it."
+
+
+But Democrats said Trump's comments endanger America's standing on the global stage.
+
+
+"This is outrageous. It's outrageous if not humorous that the president does these sorts of things, goes off on wild tangents and says things that are clearly false," Senate Minority Whip Dick Durbin told reporters.
+
+
+Democratic Senator Elissa Slotkin said Wednesday, "It is what we all feared, which is he understands incorrectly what's happening in the span of history and is blaming the head of a country that has been invaded by an autocratic regime; a democracy was invaded.
+
+
+"And however you want to solve it, however you want to negotiate, is one thing," Slotkin said. "But he put down his cards."
+
+
+VOA's Kateryna Lisunova contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-s-comments-on-ukraine-draw-mixed-reaction-from-us-lawmakers/7981476.html>
+
+---
+
+## US figures do not support Trump claims on Ukraine spending
+
+date: 2025-02-20, from: VOA News USA
+
+President Donald Trump on Wednesday repeated a claim that the United States has spent $350 billion on Ukraine’s war — a figure that far eclipses the amount recorded by the Department of Defense and the interagency oversight group that tracks U.S. appropriations to Ukraine.
+
+
+Since Russia’s illegal invasion in February 2022, the U.S. Congress has appropriated about $183 billion for Ukraine, according to the interagency oversight group that is charged with presenting reports to Congress.
+
+
+Of that, the Pentagon confirmed to VOA that the U.S. has sent $65.9 billion in military aid to Ukraine, and an additional $3.9 billion that Congress has authorized in military aid to Kyiv remains unspent.
+
+
+About $58 billion of the $183 billion in total aid for Ukraine was spent in the U.S., going directly toward boosting the U.S. defense industry, either by replacing old U.S. weapons given to Kyiv with new American-made weapons, by procuring new U.S.-made weapons for Kyiv or by making direct industrial investments.
+
+
+VOA asked the White House to clarify Trump’s comments, specifically seeking any documentation for the mathematical discrepancy. The White House replied by referring VOA back to the president’s comments.
+
+
+In a post Wednesday on his social media site Truth Social, Trump said, “Think of it, a modestly successful comedian, Volodymyr Zelenskyy, talked the United States of America into spending $350 Billion Dollars, to go into a War that couldn’t be won, that never had to start, but a War that he, without the U.S. and 'TRUMP,' will never be able to settle."
+
+
+Zelenskyy on Wednesday told Ukrainian reporters the total cost of the war since February 2022 was about $320 billion.
+
+
+"One hundred and twenty billion of that comes from us, the people of Ukraine, the taxpayers, and $200 billion from the United States and the European Union,” Zelensky said. “This is the cost of weapons. This is the weapons package — $320 billion."
+
+
+Trump, who has mentioned the $350 billion figure several times, also said in his Wednesday social media post: “The United States has spent $200 Billion Dollars more than Europe, and Europe’s money is guaranteed, while the United States will get nothing back.”
+
+
+The Kiel Institute for the World Economy, a Germany-based nonprofit that tracks military, financial and humanitarian support to Ukraine, says European nations —specifically the EU, United Kingdom, Iceland, Norway and Switzerland — have allocated about $140 billion in total in aid for Ukraine, while the United States has allocated about $120 billion in total aid. Total aid includes military, humanitarian and financial aid to Ukraine.
+
+
+The U.S. has provided about $2 billion more than Europe in military aid for Ukraine, but “European donors have been the main source of [total] aid to Ukraine since 2022, especially when it comes to financial and humanitarian aid,” the institute said in its latest report last week.
+
+
+The aid to Ukraine constitutes a very small amount of GDP for several nations. For example, the U.S., Germany and the U.K. have mobilized less than 0.2% of their GDP per year to support Kyiv, while contributions from France, Italy and Spain to Ukraine have amounted to about 0.1% of their annual GDP. 
+
+
+U.S. government math is complex, and spending is massive in scale. A live tracker of U.S. government spending says that the U.S. government has spent about $2.4 trillion in the early part of the 2025 fiscal year. The previous year’s spending was $6.75 trillion. 
+
+
+Still, scholars were quick to dismiss the accuracy of Trump’s numbers.
+
+
+“This figure is not true,” said Liana Fix, fellow for Europe at the Council on Foreign Relations. “It's possible to track how much the United States has spent for Ukraine.” 
+
+<br> 
+
+<https://www.voanews.com/a/us-figures-do-not-support-trump-claims-on-ukraine-spending/7981441.html>
+
+---
+
+## Is recession risk rising?
+
+date: 2025-02-20, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>A growing number of young American consumers say they&#8217;re opting out of the economy entirely or pulling back from spending at certain stores over their political views. We&#8217;ll explain how this trend could collide with other economic shifts, creating the perfect recipe for a recession. Plus, by popular demand, we unpack a recent feat of nature: beavers successfully taking on civil engineering!</p>
+<p>Here’s everything we talked about:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/02/19/world/europe/trump-russia-ukraine-putin-trump.html">“Kremlin Message to Trump: There’s Money to Be Made in Russia”</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:paragraph --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.theguardian.com/us-news/2025/feb/18/shoppers-political-boycotts-spending-patterns-poll">“A quarter of US shoppers have dumped favorite stores over political stances”</a> by The Guardian</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.marketplace.org/2025/02/19/naacp-black-consumers-buying-guide-purchasing-power-dei/" target="_blank" rel="noreferrer noopener">“NAACP calls for consumers to leverage their purchasing power as some companies pull back from DEI policies”</a> from Marketplace</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://thehill.com/homenews/race-politics/5153089-black-faith-leaders-target-boycott-dei-rollback-trump-naacp/">“Black faith leaders call for Target boycott over D</a><a href="https://thehill.com/homenews/race-politics/5153089-black-faith-leaders-target-boycott-dei-rollback-trump-naacp/" target="_blank" rel="noreferrer noopener">E</a><a href="https://thehill.com/homenews/race-politics/5153089-black-faith-leaders-target-boycott-dei-rollback-trump-naacp/">I rollback”</a> from The Hill</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/02/12/world/europe/beavers-prague-czech-republic-dam.html" target="_blank" rel="noreferrer noopener">“Czech Dam Project Was Stalled by Bureaucracy. Beavers Built Their Own.”</a> from The New York Times</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/19/mms_20250219_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fis-recession-risk-rising&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/19/mms_20250219_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fis-recession-risk-rising&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/is-recession-risk-rising>
+
+---
+
+##  Is It Still Safe To Fly? (Transcript) 
+
+date: 2025-02-20, from: The Lever News
+
+ Aviation and antitrust expert Bill McGee breaks down recent airplane disasters and reveals the real risks to our airspace.  
+
+<br> 
+
+<https://www.levernews.com/is-it-still-safe-to-fly-transcript/>
+
+---
+
+##  Is It Still Safe To Fly? 
+
+date: 2025-02-20, from: The Lever News
+
+ Aviation and antitrust expert Bill McGee breaks down recent airplane disasters and reveals the real risks to our airspace.  
+
+<br> 
+
+<https://www.levernews.com/is-it-still-safe-to-fly/>
+
+---
+
+## Daily Roundup: February 19th 
+
+date: 2025-02-20, from: The Contrarian
+
+Featuring Barb McQuade, Jennifer Weiss-Wolf, Jared Bernstein, and Robert P. Jones--also introducing Coffee with the Contrarians, with Jen Rubin & Norm Eisen! 
+
+<br> 
+
+<https://contrarian.substack.com/p/daily-roundup-february-19th>
+
+---
+
+## Pentagon chief eyes funding cuts to some parts of military by 8%
+
+date: 2025-02-19, from: VOA News USA
+
+WASHINGTON — U.S. Defense Secretary Pete Hegseth has asked some parts of the military to propose what could be cut as part of a potential 8% spending reduction for them over each of the next five years, U.S. officials said on Wednesday, although it was unclear if the total defense budget would shrink.
+
+
+In a memo described to Reuters by U.S. officials, Hegseth called for the proposals by Feb. 24.
+
+
+Officials said it did not appear that Hegseth wanted a major budget cut but was looking to reprioritize funding to better align with President Donald Trump's national security priorities.
+
+
+There was a long list of exemptions, including U.S. Indo-Pacific Command, funding for the military's mission along the U.S. border with Mexico, as well as missile defense and autonomous weapons, one of the officials said.
+
+
+The military's commands that oversee operations in Europe, the Middle East and Africa were not exempt.
+
+
+The Pentagon's budget is approaching $1 trillion per year. In December, former President Joe Biden signed a bill authorizing $895 billion in defense spending for the fiscal year ending Sept. 30.
+
+
+Hegseth has said publicly that the Pentagon's focus is on U.S. border security and threats posed by China. He has said the U.S. can no longer be "primarily focused on the security of Europe."
+
+
+Pentagon employees have braced for firings after businessman Elon Musk's government downsizing teams started working out of the Pentagon.
+
+
+Some civilian employees in the military said they had started receiving emails on Thursday saying they could be separated from the government since they were hired less than a year ago.
+
+
+Leaders from across the political spectrum have long criticized waste and inefficiency at the Defense Department.
+
+
+But Democrats and civil service unions have said Musk, the world's richest person, lacks the expertise to restructure the Pentagon, and the efforts of his team risk exposing classified programs.
+
+
+Attempting to cancel defense programs could trigger pushback from lawmakers to defend spending in their electoral districts, a fact defense contractors are well aware of.
+
+
+The F-35, for example, has suppliers located in all 50 U.S. states, a point Lockheed makes with a map on its website detailing the economic value derived from production of the fighter jets.
+
+
+Musk, himself a major U.S. defense contractor, has a particular disdain for certain defense projects, especially the F-35. He has posted on X that "Some U.S. weapons systems are good, albeit overpriced, but please, in the name of all that is holy, let us stop the worst military value for money in history that is the F-35 program!" 
+
+<br> 
+
+<https://www.voanews.com/a/pentagon-chief-eyes-funding-cuts-to-some-parts-of-military-by-8-/7981185.html>
+
+---
+
+## VOA Spanish: US government media campaign to curb migrant influx sparks debate
+
+date: 2025-02-19, from: VOA News USA
+
+A new media campaign by the U.S. government to warn migrants about the consequences of entering the country illegally has sparked intense debate. 
+
+
+While some consider it a necessary measure to strengthen security and law enforcement, others criticize it for fueling fear and linking irregular immigration with criminality. 
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-us-government-media-campaign-to-curb-migrant-influx-sparks-debate/7981179.html>
+
+---
+
+## New Trump order takes aim at autonomy of independent agencies
+
+date: 2025-02-19, from: Market Place
+
+White House seeks sway over FCC, FEC, FTC and some Fed operations. Politics professor Sarah Binder says it "grabs power from Congress."  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/federal-agencies-autonomy-trump-executive-order-federal-reserve-interest-rate-independence-monetary-policy/>
+
+---
+
+## VOA Russian: Experts say US-Russia talks start of long process
+
+date: 2025-02-19, from: VOA News USA
+
+VOA Russian talked to experts after the U.S.-Russia talks in Saudi Arabia on how to end the Ukraine war. They warned that this is only the beginning of negotiations that may last for some time and take several turns. 
+
+
+Exiled independent Russian political analyst Dmitry Oreshkin compared the first meeting to "not even a warm-up of two boxers, but just a weigh-in ahead of the future bout.” 
+
+
+Ukrainian expert Volodymyr Fesenko noted that it should come as no surprise that Washington deems negotiations with Moscow more important at this stage than negotiations with Kyiv, as Russia is a nuclear power and will need to be persuaded to consider any compromises. 
+
+
+Click here for the full story in Russian. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-russian-experts-say-us-russia-talks-start-of-long-process/7981152.html>
+
+---
+
+## Why is Etsy struggling?
+
+date: 2025-02-19, from: Market Place
+
+The e-commerce site is learning the hard way that consumers often choose inexpensive mass-produced products over hand-crafted ones. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/why-is-etsy-struggling-consumer-spending-temu-amazon-sales/>
+
+---
+
+## VOA Mandarin: What do Canadians think about the threat of US tariffs?
+
+date: 2025-02-19, from: VOA News USA
+
+While the U.S. is holding off on imposing 25% tariffs on Canada, a new poll shows Canadians are angered by U.S. President Donald Trump's threat of tariffs against Canada and his comments about making their nation the 51st U.S. state.  
+
+
+Observers believe that once the U.S. tariffs are implemented, it will hit the Canadian economy hard and may also allow China to reap the benefits. However, some Chinese American entrepreneurs in Canada say the U.S.-Canada tariff war has limited impact on their business. 
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-what-do-canadians-think-about-the-threat-of-us-tariffs/7981097.html>
+
+---
+
+## US Army Corps seeks to fast-track 600 'emergency' projects through environmental review
+
+date: 2025-02-19, from: VOA News USA
+
+WASHINGTON — The U.S. Army Corps of Engineers has identified over 600 energy and other infrastructure projects that could be fast-tracked under President Donald Trump's National Energy Emergency declaration, according to data posted on its website. 
+
+
+Among the projects on the list were Enbridge's Line 5 oil pipeline under Lake Michigan, several natural gas power plants, and liquefied natural gas export terminals proposed by Cheniere and Venture Global. 
+
+
+The Army Corps posted the list, without sending a public notice, last week, marking the projects as eligible for emergency permitting treatment. 
+
+
+Trump had ordered the Army Corps to issue permits enabling the filling of wetlands and dredging or building in waterways as part of the "National Energy Emergency" he declared in a day-one executive order. 
+
+
+The Army Corps was not immediately available for comment. 
+
+
+The fast-tracking of these projects could trigger legal fights over many of the permits that will be issued, with environmental groups warning they are flouting federal laws. 
+
+
+“This end-run around the normal environmental review process is not only harmful for our waters but is illegal under the Corps’ own emergency permitting regulations,” said David Bookbinder, director of Law and Policy at The Environmental Integrity Project.
+
+
+Courts may be unwilling to weigh in on the president's criteria for what constitutes a national energy emergency but will more likely weigh how individual projects adhere to the language of the executive order, he said. 
+
+
+
+
+Companies with projects awaiting key permits applauded the move to "streamline" the review process. 
+
+
+"Line 5 is critical energy infrastructure," said Enbridge spokesperson Gina Sutherland, saying the company has been awaiting a permit for building a Great Lakes Tunnel under Lake Michigan for nearly five years. 
+
+
+"We are very encouraged to see this action to expedite review for responsible critical mineral development projects," said Jon Cherry, CEO of Perpetua Resources, which is developing a U.S. antimony and gold mine in Idaho with financial support from the Pentagon and U.S. Export-Import Bank. 
+
+
+The Biden administration had issued the mine a permit, but it still needs a wetlands permit, which Cherry said he expects to receive by July. 
+
+
+The Army Corps has in the past issued emergency designations to skip over environmental reviews in cases in which the project addressed poses a threat to human life. 
+
+
+Environmental and watchdog groups say that most of the projects marked as emergencies on the list do not meet the Army Corps' definition of an emergency. They also question the Trump administration's justification for declaring a national energy emergency.  
+
+
+"It is laughable to see Line 5 on this list," said Debbie Chizewer, managing attorney for the Midwestern office of Earthjustice, which represents the Bay Mills Indian Community in opposition of the project. "It's a pipeline that carries crude oil from Canada to Canada and will not increase U.S. capacity or respond to Trump's declared energy emergency." 
+
+
+Other projects do not relate to energy production, including a home-building project built on land owned by oil giant Chevron in California, as well as an aerial electrical distribution line to private waterfront residences in Alabama. 
+
+
+There are at least five dozen solar energy projects on the list. Solar and wind energy were excluded from the definition of energy in Trump's energy emergency order. 
+
+
+West Virginia has the largest number of projects on the list at 141. There are 60 in Pennsylvania, 57 in Texas, 42 in Florida, and 41 in Ohio, according to the Environmental Integrity Project, which is tracking the permits. 
+
+
+Officials at Venture Global and Cheniere were not immediately available to comment. 
+
+<br> 
+
+<https://www.voanews.com/a/us-army-corps-seeks-to-fast-track-600-emergency-projects-through-environmental-review/7981113.html>
+
+---
+
+## Homebuilders have lots of reasons to feel downbeat about the housing market
+
+date: 2025-02-19, from: Market Place
+
+Tariffs and higher mortgage interest rates are at the top of the list. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/homebuilders-have-lots-of-reasons-to-feel-downbeat-about-the-housing-market/>
+
+---
+
+## VOA Mandarin: Chinese netizens prefer DeepSeek to Musk's Grok 3
+
+date: 2025-02-19, from: VOA News USA
+
+WASHINGTON — Chinese social media users are not impressed by the newly released AI model Grok 3 by Elon Musk's xAI, retaining their preference and support for DeepSeek, the free China-made AI model that rivals leading Western competitors while costing significantly less to train.
+
+
+Click here for the full story in Mandarin. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-mandarin-chinese-netizens-prefer-deepseek-to-musk-s-grok-3-/7981091.html>
+
+---
+
+## People’s politics are changing the way they shop — and where
+
+date: 2025-02-19, from: Market Place
+
+More than 40% of consumers say they’ve changed their spending habits to align with their beliefs, according to a new Harris Poll.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/peoples-politics-are-changing-the-way-they-shop-and-where/>
+
+---
+
+## US envoy visits Kyiv as Trump, Zelenskyy trade barbs
+
+date: 2025-02-19, from: VOA News USA
+
+President Donald Trump’s special envoy to Ukraine and Russia visited Kyiv Wednesday, a day after U.S.-Russian talks in Saudi Arabia. The diplomatic moves come as Trump and his Ukrainian counterpart lash out at each other over the war’s origins and plans to end it. VOA’s Arash Arabasadi has more. 
+
+<br> 
+
+<https://www.voanews.com/a/us-envoy-visits-kyiv-as-trump-zelenskyy-trade-barbs/7981081.html>
+
+---
+
+## Siri and Alexa are playing catch-up with chatbots
+
+date: 2025-02-19, from: Market Place
+
+The once-leading voice assistants have fallen behind other AI tools, but upcoming revamps could make them more useful. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/siri-and-alexa-ai-playing-catch-up-chatbots-artificial-intelligence-virtual-assistants/>
+
+---
+
+## Whether or not a business can pass along the cost of tariffs depends on who its customers are
+
+date: 2025-02-19, from: Market Place
+
+The impact of tariffs will be uneven. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/tariffs-uneven-costs-onto-consumers-imports-customers-sectors-businesses/>
+
+---
+
+## US judge delays ruling on federal request to drop case against New York City mayor
+
+date: 2025-02-19, from: VOA News USA
+
+NEW YORK — New York City Mayor Eric Adams told a federal judge Wednesday that he is innocent and doesn't fear corruption charges could be refiled if a Justice Department request to dismiss them is granted. 
+
+
+Judge Dale E. Ho ended the hearing by saying he wouldn't rule immediately but he was aware that "it's not in anyone's interest here for this to drag on." 
+
+
+During the hearing, Ho asked the mayor questions to ensure he understood that if the charges were dropped, they could later be reinstated. 
+
+
+"I have not committed a crime," Adams said. "I'm not afraid of that." 
+
+
+Deputy U.S. Attorney General Emil Bove said the request to drop the corruption charges against the mayor resulted from "a straightforward exercise in prosecutorial discretion guided" by President Donald Trump's executive order on weaponization of the justice system and Attorney General Pam Bondi's memorandum outlining the same. 
+
+
+Bove said he believed the request to drop charges, when tied to Trump's order and Bondi's conclusions, made it "virtually unreviewable in this courtroom." 
+
+
+Bove said he also believed "the continuation of this prosecution is interfering with both national security and immigration enforcement initiatives being carried out by the executive branch." 
+
+
+Ho scheduled the hearing after three Trump administration lawyers, including Bove, made the dismissal request on Friday. Manhattan's top federal prosecutor resigned after she refused an order to do so. 
+
+
+An indictment charges the first-term Democrat with accepting more than $100,000 in illegal campaign contributions and lavish travel perks from a Turkish official and business leaders seeking to buy Adams' influence while he was Brooklyn borough president. Adams has pleaded not guilty. He faces multiple challengers in the Democratic primary in June. 
+
+
+Closely watching the judicial proceedings is Democratic Governor Kathy Hochul, who is considering whether to remove Adams from office amid concerns that he reached a deal to have the case dropped in exchange for the mayor's political fealty to Trump. 
+
+
+Early last week, Bove told prosecutors in New York to drop the charges because the prosecution "has unduly restricted Mayor Adams' ability to devote full attention and resources to the illegal immigration and violent crime." Bove said charges could be reinstated after November's mayoral election. 
+
+
+Two days later, then-interim U.S. Attorney Danielle Sassoon told Bondi in a letter that dismissing the charges in return for Adams' assistance in enforcing federal immigration laws would betray Bondi's own words that she "will not tolerate abuses of the criminal justice process, coercive behavior, or other forms of misconduct." 
+
+
+"Dismissal of the indictment for no other reason than to influence Adams's mayoral decision-making would be all three," said Sassoon, a Republican. She said it amounted to a "quid pro quo" deal and disclosed that prosecutors were about to bring additional obstruction of justice charges against Adams. 
+
+
+Bove, in accepting Sassoon's resignation, accused her of "pursuing a politically motivated prosecution despite an express instruction to dismiss the case." He informed her that two other prosecutors assigned to the case were being suspended with pay and that an investigation would determine if they would keep their jobs. 
+
+
+One prosecutor, Hagan Scotten, quit the following day. In all, seven prosecutors, including five high-ranking prosecutors at the Justice Department, had resigned by Friday. 
+
+<br> 
+
+<https://www.voanews.com/a/us-judge-delays-ruling-on-federal-request-to-drop-case-against-new-york-city-mayor/7981080.html>
+
+---
+
+## WTO holds 'constructive' talks after China condemns Trump tariffs
+
+date: 2025-02-19, from: VOA News USA
+
+GENEVA — The World Trade Organization said on Wednesday that discussions on trade tensions were "constructive," after China accused the United States of imposing "tariff shocks" that could upend the global trading system.
+
+
+China condemned tariffs launched or threatened by U.S. President Donald Trump at a WTO meeting on Tuesday. Washington dismissed China's comments as hypocritical.
+
+
+Trump has announced sweeping 10% tariffs on all Chinese imports, prompting Beijing to respond with retaliatory tariffs and to file a WTO dispute against Washington in what could be an early test of Trump's stance towards the institution.
+
+
+The majority of the six countries that participated in the talks on trade turbulence, put on the agenda by China, raised concern about mounting tensions, but also called for restraint, said WTO spokesperson Ismaila Dieng in a press conference in Geneva on Wednesday.
+
+
+The United States, Nicaragua, Namibia, Malaysia, Trinidad and Tobago, and Russia took part in the discussions, which were part of broader talks on trade.
+
+
+The large majority "stressed the importance of upholding WTO principles and values and called for action to preserve the stability and effectiveness of the global trading system," Dieng added.
+
+
+Two trade sources at the meeting told Reuters that some countries expressed deep concern about the ramifications of tariffs, while others criticized China for alleged market distortions.
+
+
+It is the first time that mounting trade frictions were formally addressed on the agenda of the watchdog's top decision-making body, the General Council.
+
+
+'Tariff shocks'
+
+
+"These 'tariff shocks' heighten economic uncertainty, disrupt global trade, and risk domestic inflation, market distortion, or even global recession," China's ambassador to the WTO, Li Chenggang, said at a closed-door meeting of the global trade body on Tuesday, according to a statement sent to Reuters.
+
+
+"Worse, the U.S. unilateralism threatens to upend the rules-based multilateral trading system."
+
+
+U.S. envoy David Bisbee called China's economy a "predatory non-market economic system" in response and accused it of violating and evading WTO rules.
+
+
+Negotiating tactic
+
+
+Some delegates said they saw China's intervention as an attempt to show itself supporting WTO rules — a posture that can help China win allies in ongoing global trade negotiations.
+
+
+Disputes between the two top economies at the WTO long pre-date Trump's arrival. Beijing has accused Washington of breaking rules while Washington says Beijing does not deserve its "developing country" status at the WTO.
+
+
+The Trump administration has announced plans to withdraw or disengage from other global organizations, but the WTO has not yet been a major focus for the White House.
+
+
+However, incoming U.S. Trade Representative Jamieson Greer has called the WTO "deeply flawed." 
+
+<br> 
+
+<https://www.voanews.com/a/wto-holds-constructive-talks-after-china-condemns-trump-tariffs/7981049.html>
+
+---
+
+## Europe frozen out of peace talks as Russia's war on Ukraine enters fourth year
+
+date: 2025-02-19, from: VOA News USA
+
+LONDON — Russia’s tanks rolled across the Ukrainian border three years ago this month, triggering the worst conflict on European soil since World War II. Ukraine has resisted the full-scale invasion largely thanks to the support of the United States and Europe. 
+
+
+But on the frozen front lines, the war grinds on — and Russia’s forces are slowly edging forward.  
+
+
+“Every day, it pushes back the Ukrainian front line somewhere by a kilometer or so. My judgment is that it could continue to do that over the rest of this year,” said Ben Barry, senior fellow for land warfare at the International Institute for Strategic Studies in London. 
+
+
+“We must remember this is a terrible war. My judgment is that over a million people have been killed or seriously wounded. Now the balance of casualties is probably in Ukraine's favor. A figure of 700,000 or 800,000 Russian casualties seems credible to me. President [Volodymyr] Zelenskyy says Ukraine has only suffered 48,000 killed. That seems implausibly low to me,” Barry told Agence France-Presse. 
+
+
+Europe excluded 
+
+
+As the war enters its fourth year, Europe and Ukraine fear they are being excluded from deciding their own fate. Behind the scenes, the geopolitical forces that are shaping the conflict appear to be changing fast.  
+
+
+Russia and the United States began peace talks this week in Saudi Arabia. Ukraine and Europe were not invited.  
+
+
+“There will be some very significant alarm in European capitals about what might be discussed with regards to the security of their continent, their whole region,” said David Blagden, associate professor of international security at the University of Exeter. 
+
+
+“One sort of potentially really bad outcome for European capitals is to discover that the Americans have basically put them on the hook for attempting to do some sort of peacekeeping mission in Ukraine or whatever without their say-so,” he told Reuters.  
+
+
+Peacekeepers 
+
+
+Britain and France have already said they may be willing to contribute to a peacekeeping force in Ukraine, a requirement of an estimated 100,000 troops.  
+
+
+There are deep concerns over the potential risks of sending peacekeeping troops, according to Armida van Rij, head of the Europe program at London’s Chatham House. 
+
+
+“The U.S. seemed to have taken away NATO's Article 5 protection [on collective self-defense] for any troops that would be put in Ukraine. That means that they would not be protected, so that deterrent effect is gone. We know that Russia tends to break agreements. It has a long history of doing that under [President Vladimir] Putin and previous presidents. So, it is quite likely that Russia may well break the terms of any ceasefire or peace agreement that may come ...  and then the question is, ‘OK, so what do the Europeans then do in response?' That might put them in direct confrontation with Russia, which is a terrifying thought," van Rij told VOA. 
+
+
+Defense spending 
+
+
+The European Union says it has provided around $145 billion in military, financial, humanitarian and refugee aid to Ukraine over the past three years, more than half the total global assistance for Kyiv. 
+
+
+U.S. Defense Secretary Pete Hegseth said this month that European security will no longer be a priority, and Washington is demanding NATO allies increase their defense spending. 
+
+
+“Where that money's going to come from is a key question,” said van Rij. “The European Commission seems open to allowing some flexibility to their fiscal rules, which will make it a little bit easier for countries to spend on defense. But all of that still takes time, so it's still going to be really difficult." 
+
+
+Hard decisions will have profound implications for Europe, according to British Defense Secretary John Healey.  
+
+
+“The decisions that we make right now over the coming weeks will not only define the outcome of the conflict in Ukraine, but the security of our world for a generation to come,” Healey said in a speech Tuesday in London. 
+
+<br> 
+
+<https://www.voanews.com/a/europe-frozen-out-of-peace-talks-as-russia-s-war-on-ukraine-enters-fourth-year/7981053.html>
+
+---
+
+## The Trump administration is giving the black market the green light
+
+date: 2025-02-19, from: The Contrarian
+
+Now, profits are power, regardless of how they are obtained. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-trump-administration-is-giving>
+
+---
+
+## Coffee with The Contrarians
+
+date: 2025-02-19, from: The Contrarian
+
+A recording from Norman Eisen and Jen Rubin's livestream on 2/19/25 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157464802/e8566f8a071c5d2612eb84473c39814c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157464802/e8566f8a071c5d2612eb84473c39814c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians>
+
+---
+
+## Member of L.A. Sheriff’s Department Oversight Commission Resigns After Threats From County Attorney
+
+date: 2025-02-19, from: Capital and Main
+
+<p>The department has refused to turn over documents to the commission.</p>
+<p>The post <a href="https://capitalandmain.com/member-of-l-a-sheriffs-department-oversight-commission-resigns-after-threats-from-county-attorney">Member of L.A. Sheriff&#8217;s Department Oversight Commission Resigns After Threats From County Attorney</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/member-of-l-a-sheriffs-department-oversight-commission-resigns-after-threats-from-county-attorney>
+
+---
+
+## Women's and LGBTQ rights are under attack. But we're fighting back.
+
+date: 2025-02-19, from: The Contrarian
+
+Authoritarian regimes have long undermined equality. But we can still protect and advance essential rights. 
+
+<br> 
+
+<https://contrarian.substack.com/p/womens-and-lgbtq-are-under-attack>
+
+---
+
+##  RFK’s Beef With Big Food (Transcript) 
+
+date: 2025-02-19, from: The Lever News
+
+ Trump’s nominee for health secretary is leading a crusade on junk food, and the industry is getting ready to fight back.  
+
+<br> 
+
+<https://www.levernews.com/rfks-beef-with-big-food-transcript/>
+
+---
+
+##  Trump Regulators Flip The Script On Antitrust 
+
+date: 2025-02-19, from: The Lever News
+
+ The Republican president’s new regulators are suddenly touting the trust-busting agenda that Democrat Kamala Harris eschewed during the 2024 campaign.  
+
+<br> 
+
+<https://www.levernews.com/trump-regulators-flip-the-script-on-antitrust/>
+
+---
+
+## Non-MAGA Trump voters will soon lose patience
+
+date: 2025-02-19, from: The Contrarian
+
+Trade wars and taking over the Kennedy Center won't lower prices. And people are starting to notice. 
+
+<br> 
+
+<https://contrarian.substack.com/p/non-maga-trump-voters-will-soon-lose>
+
+---
+
+## In New Mexico’s Fast Legislative Session, Oil and Gas Fans Tap the Brakes
+
+date: 2025-02-19, from: Capital and Main
+
+<p>Legislators juggle hundreds of bills. Some would shape the industry that generates money, pollution and climate disasters.</p>
+<p>The post <a href="https://capitalandmain.com/in-new-mexicos-fast-legislative-session-oil-and-gas-fans-tap-the-brakes">In New Mexico’s Fast Legislative Session, Oil and Gas Fans Tap the Brakes</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/in-new-mexicos-fast-legislative-session-oil-and-gas-fans-tap-the-brakes>
+
+---
+
+## How far has racial representation come since the early days of TV?
+
+date: 2025-02-19, from: Market Place
+
+Marlon Riggs' film "Color Adjustment" highlighted racism and whitewashing in early TV. What about the media landscape today? 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/19/how-far-has-racial-representation-come-since-the-early-days-of-tv/>
+
+---
+
+## What "Anti-Christian Bias" does for Trump
+
+date: 2025-02-19, from: The Contrarian
+
+The president's executive order is a vehicle for white evangelical Protestant Christian favoritism, but it is also a weapon against other Christians. 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-anti-christian-bias-does-for>
 
 ---
 

@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-02-19 07:08:03
+updated: 2025-02-20 07:10:14
 ---
 
 # ham radio
 
-(date: 2025-02-19 07:08:03)
+(date: 2025-02-20 07:10:14)
+
+---
+
+## Optimizing motor control for energy efficiency
+
+date: 2025-02-20, from: EDN Blog
+
+<img width="1183" height="518" src="https://www.edn.com/wp-content/uploads/Motor-control-block-diagram.png?fit=1183%2C518" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Motor-control-block-diagram.png?w=1183 1183w, https://www.edn.com/wp-content/uploads/Motor-control-block-diagram.png?w=300 300w, https://www.edn.com/wp-content/uploads/Motor-control-block-diagram.png?w=768 768w, https://www.edn.com/wp-content/uploads/Motor-control-block-diagram.png?w=1024 1024w" sizes="(max-width: 1183px) 100vw, 1183px" /><p>Exploring structural, material, electronic, and algorithm advancements of motors to enable more energy efficiency.</p>
+<p>The post <a href="https://www.edn.com/optimizing-motor-control-for-energy-efficiency/" data-wpel-link="internal">Optimizing motor control for energy efficiency</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/optimizing-motor-control-for-energy-efficiency/>
+
+---
+
+## A new platform for thermally stable DRAM peripheral transistors
+
+date: 2025-02-20, from: EDN Blog
+
+<img width="2953" height="1659" src="https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?fit=2953%2C1659" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2953 2953w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1260 1260w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=1900 1900w, https://www.edn.com/wp-content/uploads/Hero-image-imec-2.jpg?w=2850 2850w" sizes="auto, (max-width: 2953px) 100vw, 2953px" /><p>Imec proposes different material and integration options in response to the evolving needs of DRAM periphery.</p>
+<p>The post <a href="https://www.edn.com/a-new-platform-for-thermally-stable-dram-peripheral-transistors/" data-wpel-link="internal">A new platform for thermally stable DRAM peripheral transistors</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-new-platform-for-thermally-stable-dram-peripheral-transistors/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-02-19 07:08:03
 
 date: 2025-02-19, from: EDN Blog
 
-<img width="925" height="471" src="https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?fit=925%2C471" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=925 925w, https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=768 768w" sizes="(max-width: 925px) 100vw, 925px" /><p>Implementing a digital rheostat with a Dpot, this time with an accurate programmed resistance equal to reference resistor R1 and U1’s Rbw/Rab</p>
+<img width="925" height="471" src="https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?fit=925%2C471" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=925 925w, https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/DigitStat_Figure1.png?w=768 768w" sizes="auto, (max-width: 925px) 100vw, 925px" /><p>Implementing a digital rheostat with a Dpot, this time with an accurate programmed resistance equal to reference resistor R1 and U1’s Rbw/Rab</p>
 <p>The post <a href="https://www.edn.com/a-precision-digital-rheostat/" data-wpel-link="internal">A precision digital rheostat</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
