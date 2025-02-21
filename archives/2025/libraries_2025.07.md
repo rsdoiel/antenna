@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-02-20 07:10:16
+updated: 2025-02-21 07:09:09
 ---
 
 # libraries
 
-(date: 2025-02-20 07:10:16)
+(date: 2025-02-21 07:09:09)
+
+---
+
+## The 2025 Scholarly Kitchen Readership Survey is Now Open
+
+date: 2025-02-21, from: Scholarly Kitchen
+
+<p>The 2025 Scholarly Kitchen readership survey is now open. We would greatly appreciate your ideas and feedback to help us remain a high-quality resource of industry news and discussion</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/21/the-2025-scholarly-kitchen-readership-survey-is-now-open/">The 2025 Scholarly Kitchen Readership Survey is Now Open</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/21/the-2025-scholarly-kitchen-readership-survey-is-now-open/>
 
 ---
 
@@ -18,6 +32,20 @@ Sauer I.J.; Walsh B.; Frieler K.; Bresch D.N.; Otto C.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/720104>
+
+---
+
+## ARL Letters to Congress Urging Oversight and Appropriations for NARA
+
+date: 2025-02-20, from: Association of Research Libraries News
+
+<p>On February 20, 2025, ARL sent letters to four congressional committees urging them to provide oversight and appropriations for the US National Archives and Records Administration (NARA) and to take...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/access-to-government-information-letters/arl-letters-to-congress-urging-oversight-and-appropriations-for-nara/">ARL Letters to Congress Urging Oversight and Appropriations for NARA</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/access-to-government-information-letters/arl-letters-to-congress-urging-oversight-and-appropriations-for-nara/>
 
 ---
 
@@ -39,7 +67,7 @@ date: 2025-02-20, from: Scholarly Kitchen
 
 date: 2025-02-19, from: Association of Research Libraries News
 
-<p>Sign up to receive the Day in Review by email. Jump to: Wednesday, February 19 &#124; Thursday, February 20 Tuesday, February 18 Top o’ the Review AAAS Leaders: We Must...</p>
+<p>Last Updated on February 20, 2025, 4:08 pm ET Sign up to receive the Day in Review by email. Jump to: Wednesday, February 19 &#124; Thursday, February 20 Tuesday, February...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-18-20/">Day in Review (February 18–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

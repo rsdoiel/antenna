@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-02-20 07:10:16
+updated: 2025-02-21 07:09:10
 ---
 
 # retro computing
 
-(date: 2025-02-20 07:10:16)
+(date: 2025-02-21 07:09:10)
+
+---
+
+## Four Apps Come to the Fore For You
+
+date: 2025-02-21, from: RiscOS Open
+
+<p>You may have blinked and missed a few application updates over the last few months as they scroll past on the <a href="/viewer/events">Recent changes</a> section of the home page. Don&#8217;t worry though! We&#8217;ve been keeping a watchful eye and, skipping over the smaller fixes for now, can bring you the main highlights.</p> 
+
+<br> 
+
+<https://www.riscosopen.org/news/articles/2025/02/21/four-apps-come-to-the-fore-for-you>
+
+---
+
+## b.log 2025/02/20 - Going shopping, Marte's final outing?, The letter box setup, Cheddar.
+
+date: 2025-02-20, from: Richard Murray's blog
+
+Going shopping, Marte's final outing?, The letter box setup, Cheddar. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250220>
 
 ---
 

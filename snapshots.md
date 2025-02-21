@@ -1,11 +1,818 @@
 ---
 title: snapshots
-updated: 2025-02-20 07:10:18
+updated: 2025-02-21 07:09:12
 ---
 
 # snapshots
 
-(date: 2025-02-20 07:10:18)
+(date: 2025-02-21 07:09:12)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-02-21, from: Robert's feed at BlueSky)
+
+👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lip36dajxc2u>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-02-21, from: Robert's feed at BlueSky)
+
+Fun things
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lip2ubq6g22u>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-21, from: Dave Winer's linkblog)
+
+Something you hear from Democratic politicians and MSNBC hosts. &quot;We know why Musk is cutting so much, it&#39;s to fund a huge tax cut for billionaires.&quot; They don&#39;t actually know that and I doubt it&#39;s true. 
+
+<br> 
+
+<http://scripting.com/2025/02/21.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-21, from: Dave Winer's linkblog)
+
+Elon Musk’s private security detail gets deputized by US Marshals Service. 
+
+<br> 
+
+<https://www.cnn.com/2025/02/20/politics/elon-musk-private-security-deputized-marshals-service/index.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-21, from: Dave Winer's linkblog)
+
+Nissan turning to Tesla as potential investor after Honda deal fell through. 
+
+<br> 
+
+<https://electrek.co/2025/02/21/nissan-turning-to-tesla-as-potential-investor-after-honda-deal-fell-through/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-21, from: Dave Winer's linkblog)
+
+As usual all you hear from journalism is how the news affects journalism. 
+
+<br> 
+
+<https://www.theguardian.com/commentisfree/2025/feb/21/trump-media-rename-gulf-of-mexico>
+
+---
+
+## When MAGA Meets Minsky
+
+date: 2025-02-21, from: Paul Krugman
+
+Laying the foundations for the next financial crisis 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/when-maga-meets-minsky>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-21, from: Dave Winer's linkblog)
+
+Rand Paul Sheepishly Nods To Fact That Musk Is Not Supposed To Be In Charge Of Gov’t Funding. 
+
+<br> 
+
+<https://talkingpointsmemo.com/where-things-stand/rand-paul-sheepishly-nods-to-fact-that-musk-is-not-supposed-to-be-in-charge-of-govt-funding>
+
+---
+
+## Git Tower 12.5
+
+date: 2025-02-21, from: Michael Tsai
+
+Bruno Brito: Now you can create, check out, and manage Worktrees directly from within your favorite Git client! &#x1FAE1; [&#8230;] The git-worktree feature was introduced in version 2.5.0 of Git. The main advantage is that it allows you to have multiple working trees attached to the same repository, enabling you to check out more than [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/20/git-tower-12-5/>
+
+---
+
+## Beej’s Guide to Git
+
+date: 2025-02-21, from: Michael Tsai
+
+Brian Hall (via Hacker News): Which leads us directly to the goal: let&#8217;s make sense of all this and go from complete Git novice up to intermediate! We&#8217;ll start off easy (allegedly) with commands mixed in with some theory of operation. And we&#8217;ll see that understanding what Git does under the hood is critical to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/20/beejs-guide-to-git/>
+
+---
+
+## Kaleidoscope 5.3
+
+date: 2025-02-21, from: Michael Tsai
+
+Kaleidoscope 5.1: Kaleidoscope 5.1 comes with a URL scheme, yet another new way to integrate with other apps on your Mac. [&#8230;] There&#8217;s a very specific use case we had in mind when adding this feature: running tests within Xcode, in particular snapshot testing using swift-snapshot-testing. [&#8230;] Using the new Kaleidoscope 5.1 and a little [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/20/kaleidoscope-5-3/>
+
+---
+
+## Retcon 1.2
+
+date: 2025-02-21, from: Michael Tsai
+
+Nathan Manceaux-Panot: Get sprawling diffs under control with commit splitting. Break down oversized commits into granular, meaningful ones. While editing any commit, unstage some of its changes, then confirm the edit. The changes will be moved to a new commit. Previously: Retcon 1.0 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/20/retcon-1-2/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-02-21, from: Robert's feed at BlueSky)
+
+,😁
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3linlzvmxwc27>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-21, from: Dave Winer's linkblog)
+
+Rivian will launch hands-off highway driver assist &#39;in a few weeks.&#39; 
+
+<br> 
+
+<https://techcrunch.com/2025/02/20/rivian-will-launch-hands-off-highway-driver-assist-in-a-few-weeks/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-02-20, from: Tomosino's Mastodon feed)
+
+<p>SAMMICH!</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114038593325320181>
+
+---
+
+## AOOSTAR WTR Pro 4-bay NAS gets an Intel N150 “Twin Lake” option
+
+date: 2025-02-20, from: Liliputing
+
+<p>The AOOSTAR WTR Pro is a relatively small desktop computer with room inside for up to four 3.5 inch hard drives and one M.2 2280 connector for an SSD. While the computer is positioned for use as a network attached storage (NAS) device, it&#8217;s basically a general purpose computer that supports a lot of storage. AOOSTAR [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aoostar-wtr-pro-4-bay-nas-gets-an-intel-n150-twin-lake-option/">AOOSTAR WTR Pro 4-bay NAS gets an Intel N150 &#8220;Twin Lake&#8221; option</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/aoostar-wtr-pro-4-bay-nas-gets-an-intel-n150-twin-lake-option/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+AOC: “There is no act too small. Every action matters.” 
+
+<br> 
+
+<https://bsky.app/profile/thetnholler.bsky.social/post/3lileeeuuac2w>
+
+---
+
+## Daily Deals (2-20-2025)
+
+date: 2025-02-20, from: Liliputing
+
+<p>The Epic Games Store has been giving away at least one free PC game per week since the store first launched in 2019, and now that there&#8217;s a mobile version of the store Epic is bringing free games to Android as well. Folks in the European Union can also use the mobile app to score [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-2-20-2025/">Daily Deals (2-20-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-2-20-2025/>
+
+---
+
+## GenAI in two words: ”Success Theater”
+
+date: 2025-02-20, from: Gary Marcus blog
+
+Success Theater 
+
+<br> 
+
+<https://garymarcus.substack.com/p/genai-in-two-words-success-theater>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+Lots of good ideas from Rahm Emanuel on Kara Swisher&#39;s podcast. First, why is Musk downloading all the info from govt computers into his AI database? Now his AI will know everything about everyone. Want to find out who&#39;s not loyal to Trump? Easy. Now you know who the Stasi should arrest. 
+
+<br> 
+
+<https://podcasts.apple.com/us/podcast/rahm-emanuels-tough-love-intervention-for-the/id1643307527?i=1000694298149>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+SS United States begins journey to become world&#39;s largest artificial reef. 
+
+<br> 
+
+<https://apnews.com/article/historic-ship-artificial-reef-philadelphia-florida-gulf-818c44d7f3078c4ffa3b8aa39f3329ed>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-20, from: Dave Winer's linkblog)
+
+Zach Seward&#39;s panel at Web Summit about how NY Times newsroom uses AI. 
+
+<br> 
+
+<https://www.zachseward.com/my-panel-at-web-summit-about-how-the-times-uses-ai/?ref=zach-seward-newsletter>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-02-20, from: IIIF Mastodon feed)
+
+<p>Join us on Feb. 26 for the next <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Community Call: IIIF in Finland. We&#39;ll welcome representatives from the National Library of Finland, who will provide a look into their roadmap to implement IIIF at a national level, funded by a 2-year grant. </p><p>Zoom info: iiif.io/community</p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114037572942712291>
+
+---
+
+## Ziff Davis, Owner of Sites Including IGN and CNET, Quietly Removed DEI Language From Its Website
+
+date: 2025-02-20, from: 404 Media Group
+
+The company, which owns IGN, CNET, PCMag, and dozens more outlets and properties, took down specific information about its diversity commitment on multiple pages on its website over the past several weeks.  
+
+<br> 
+
+<https://www.404media.co/ziff-davis-dei-commitment-websites/>
+
+---
+
+## Outrage
+
+date: 2025-02-20, from: Guy Kawasaki blog
+
+Understanding America's Moral Divides with Kurt Gray. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/outrage>
+
+---
+
+## Case Files of Japanese-American Prisoners, 1944–1946
+
+date: 2025-02-20, from: National Archives, Text Message blog
+
+Today’s post is written by Jessica Behrman, Archivist at The National Archives at Denver. On February 19, 1942, President Franklin Roosevelt issued Executive Order 9066, which resulted in Japanese-American incarceration at relocation centers across remote areas of the western U.S. and Arkansas.[1] This series is part of Record Group 21, Records of District Courts of &#8230; <a href="https://text-message.blogs.archives.gov/2025/02/20/case-files-of-japanese-american-prisoners-1944-1946/" class="more-link">Continue reading <span class="screen-reader-text">Case Files of Japanese-American Prisoners, 1944–1946</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/02/20/case-files-of-japanese-american-prisoners-1944-1946/>
+
+---
+
+## Amazon is killing the Appstore for Android in August, ending support for installed apps
+
+date: 2025-02-20, from: Liliputing
+
+<p>The Amazon Appstore allows you to download and install apps on Amazon Fire tablets and Fire TV devices. But the Appstore actually predates the Amazon Fire ecosystem. Amazon first launched the Appstore in March, 2011 as an app that could be installed on Android phones and tablets. The first Amazon Fire-branded tablet didn&#8217;t launch until [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/amazon-is-killing-the-appstore-for-android-in-august-ending-support-for-installed-apps/">Amazon is killing the Appstore for Android in August, ending support for installed apps</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/amazon-is-killing-the-appstore-for-android-in-august-ending-support-for-installed-apps/>
+
+---
+
+## Using AI for Good
+
+date: 2025-02-20, updated: 2025-02-20, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/02/20/using-ai-for-good/>
+
+---
+
+## Tokyo, Japan
+
+date: 2025-02-20, from: mrusme blog
+
+"Tokyo, formerly Edo, historically Tokio, and officially the Tokyo Metropolis,
+is the capital and largest city of Japan. Its metropolitan area is the most
+populous in the world, with an estimated 37.468 million residents. Its
+metropolitan area is the largest in size and the most populous, with an area
+of 13,452 square kilometers and its city proper has a population of 13.99
+million people. Located at the head of Tokyo Bay, the prefecture forms part of
+the Kantō region on the central Pacific coast of Japan's main island of
+Honshu. Tokyo is the political and economic center of the country, as well as
+the seat of the Emperor of Japan and the national government." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/japan/tokyo-2025/>
+
+---
+
+## Join me for a live chat today at 2pET! 
+
+date: 2025-02-20, from: Tina Brown
+
+See you on Fresh Hell--there is much to discuss! 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-me-for-a-live-chat-today-at>
+
+---
+
+## The Shape of a Mars Mission
+
+date: 2025-02-20, from: Idlewords blog
+
+<p class="caption">This post is the second in a series. Read <a href="https://idlewords.com/2023/1/why_not_mars.htm">part one here</a>.</p>
+
+<style>
+p {line-height:1.6em; }
+p.caption { margin-top:0px;padding-top:0px;margin-bottom:20px;text-align:center;}
+a.fnote {text-decoration:none;color:red}
+img {margin-bottom:0px;}
+</style>
+<p class="quote" style="font-family:times"><i>“From a mathematics and trajectory standpoint and with a certain kind of technology, there’s not too many different ways to go to Mars.  It’s been pretty well figured out. You can adjust the decimal places here and there, but basically if you're talking about chemical rockets, there's a certain way you're going to go to Mars.” - John Aaron<a class="fnote" href="#aaron" name="fn_aaron"><sup>[1]</sup></a> </i>
+
+
+<p>Unlike the Moon, which hangs in the sky like a lonely grandparent waiting for someone to visit, Mars leads a rich orbital life of its own and is not always around to entertain the itinerant astronaut. There is just one brief window every 26 months when travel between our two planets is feasible, and this constraint of orbital mechanics is so fundamental that we’ve known since Lindbergh crossed the Atlantic what a mission to Mars must look like.<a class="fnote" href="#early_mars" name="fn_early_mars"><sup>[2]</sup></a>
+
+<p>Using chemical rockets, there are just two classes of mission to choose from: (The durations I give here can vary, but are representative).
+
+
+
+<p><img style="width:600px" src="https://idlewords.com/images/mars_mission_types.png" />
+
+<ul>
+<li><b>Long Stay</b>: Spend six months flying to Mars, stay for 17 months, spend six months flying back  (~1000 days total).  This is sometimes called a conjunction class mission.  This profile trades a simple out-and-back trajectory for a long stay time at Mars. </li>
+
+<li><b>Short Stay</b>: Spend six months flying to Mars, stay for 30-90 days, spend 400 days flying back (~650 days total).  This is also called an opposition class mission. This profile trades a short Martian stay time for a long and frankly terrifying trip home through the inner solar system.</li>
+</ul>
+
+<p>Before comparing the merits of each, it’s worth stressing what they have in common—both are <i>long</i>, more than double the absolute record for space flight (438 days), five times longer than anyone has remained in space without resupply (128 days), and about ten times humanity’s accumulated time beyond low Earth orbit (82 days).<a class="fnote" href="#durations" name="fn_durations"><sup>[3]</sup></a>  It is this inconvenient length, more than any technical obstacle, that has kept us from going to Mars since rockets capable of making the trip first became available in the 1960's. <a class="fnote" href="#first_rockets" name="fn_first_rockets"><sup>[4]</sup></a>
+
+<p>And because this length is set by the relative motions of the planets, it’s resistant to attack by technology.   You can build rockets that go faster, but unless you make <i>Mars</i> go faster, you’ll mostly end up trading transit time for longer stay times.  Getting a round trip below the 500 day mark requires fundamental breakthroughs in either propulsion or refueling. <a class="fnote" href="#breakthroughs" name="fn_breakthroughs"><sup>[5]</sup></a>
+
+<p><img style="width:600px" src="https://idlewords.com/images/trades_delta_v.png" />
+
+<p class="caption">Delta-v requirements for short stay missions of varying length (left) and a long-stay mission (orange line right) for comparison. Note the sharp jump at around 500 days. <a href="https://ntrs.nasa.gov/api/citations/20150001240/downloads/20150001240.pdf">source</a>. 
+
+<p>
+That’s the bad news. The good news is that these constraints are so strong that we can say a lot about going to Mars without committing to any particular spacecraft or mission design.  Just like animals that live in the sea are likely to have good hearing and a streamlined body shape, there are things that have to hold true for any Mars-bound spacecraft, just from the nature of the problem.
+
+
+<br>
+
+
+<h2>I. No escape, no rescue</h2>
+
+<p>A trip to Mars will be commital in a way that has no precedent in human space flight.  The moon landings were designed so that any moment the crew could hit the red button and return expeditiously to Earth; engineers spent the brief windows of time when an abort was infeasible chain smoking and chewing on their slide rules. <a class="fnote" href="#apollo_abort" name="fn_apollo_abort"><sup>[6]</sup></a>
+
+<p>But within a few days of launch, a Mars-bound crew will have committed to spending years in space with no hope of resupply or rescue.  If something goes wrong, the only alternative to completing the mission will be to divert into a long, looping orbit that gets the spacecraft home about two years after departure.<a class="fnote" href="#mars_abort" name="fn_mars_abort"><sup>[7]</sup></a>   And if they get stuck on Mars, astronauts will find themselves in a similar position to the early Antarctic explorers, able to communicate home by radio, but forced by unalterable cycles of nature to wait months or years for a rescue ship. 
+
+<p><img style="width:500px" src="https://idlewords.com/images/mars_abort_types.png" />
+
+<p class="caption">Delta-v in km/sec required to return to Earth in 50, 70, and 90 days from various points in a long-stay Mars mission. Values above 10 km/sec are not realistic at our current technology level. <a href="https://dspace.mit.edu/handle/1721.1/43238?show=full">source</a></p>
+
+<p>The effect of this no-abort condition is to make Mars mission design acutely risk-averse. You can think of flying to Mars like one of those art films where the director has to shoot the movie in a single take. Even if no scene is especially challenging, the requirement that everything go right sequentially, with no way to pause or reshoot, means that even small risks become unacceptable in the aggregate. 
+
+<p>To get a feel for this effect, consider a toy model where we fly to Mars on a 30 month mission.  Every month there is a 3% chance that a critical system on our spacecraft will fail, and once that happens, the spacecraft enters a degraded state, with a 5% chance every month that a subsequent failure kills the crew. 
+
+<p>In this model,  the probability that the crew gets home safely works out to 68%.  But if we add an abort option that can get them home in six months, that probability jumps to 85%.  And with a three month abort trajectory, the odds of safe return go up to 92%. 
+
+<p>These odds are notional, but they demonstrate how big an effect the absence of abort options can have on safety.<a class="fnote" href="#abort_code" name="fn_abort_code"><sup>[8]</sup></a> 
+
+<p>This necessary risk aversion introduces a tension into any Mars program. What’s the point of spending a trillion dollars to send a crew if they’re going to cower inside their spacecraft?  And yet since going outside is one of the most dangerous things you can do on Mars, early missions have to minimize it. The first visitors to Mars will have to land in the safest possible location and do almost nothing. 
+
+
+<p>Risk is closely tied with the next issue, reliability.
+
+
+
+<h2>II. Reliability</h2> 
+
+<p>The closest thing humanity has built to a Mars-bound spacecraft is the International Space Station.  But ‘reliable’ is not the first word that leaps to the lips of ISS engineers when they talk about their creation—not even the first printable word. Despite twenty years of effort, equipment on the station breaks constantly, and depends on a stream of replacement parts flown up from Earth.<a class="fnote" href="#iss_failures" name="fn_iss_failures"><sup>[9]</sup></a> 
+
+<p><img style="width:600px" src="https://idlewords.com/images/heat_exchanger.jpg" />
+
+<p class="caption">A defective heat exchanger packaged for return to Earth from ISS in 2023</p>
+
+<p>Going to Mars will require order of magnitude reliability improvements over the status quo. Systems on the spacecraft will need to work without breaking, or at least break in ways the crew can fix.  If there’s an emergency, like a chemical leak or a fire, the crew must be able to live for years in whatever’s left of the ship.  And the kind of glitches that made for funny stories in low Earth orbit (like a <a href="https://idlewords.com/urine_icicle.htm">urine icicle blocking the Space Shuttle toilet</a>) will be enough to kill a Mars-bound crew.
+
+<p>Complicating matters is that traditional reliability engineering practices don’t work in life support, where everything is interconnected, often through the bodies of the crew.  Life support engineering is much more like keeping a marine aquarium than it is like building a rocket. It’s not easy to untangle cause from effect, the entire system evolves over time, and there’s a lot of “spooky action at a distance” between subsystems that were supposed to be unrelated.<a class="fnote" href="#urine_calcium" name="fn_urine_calcium"><sup>[10]</sup></a>  Indeed, failures in life support have a tendency to wander the spacecraft until they find the most irreplaceable thing to break.
+
+<p>Nor is it possible to brute-force things by filling the spacecraft with spare parts. The same systemic interactions that damage one component can eat through any number of replacements. The bedrock axiom of reliability engineering—that complex designs can be partitioned into isolated subsystems with independent failure rates—does not hold for regenerative life support.
+
+<p>The need for long and expensive test flights to validate life support introduces another kind of risk aversion, this time in the design phase.  With prototypes needing to be flown for years in space, there will be pressure to freeze the life support design at whatever point it becomes barely adequate, and no amount of later innovation will make it onto the spacecraft.  
+
+<p>This is a similar dynamic to one that afflicted the Space Shuttle, a groundbreaking initial design so expensive to modify that it froze the underlying technology at the prototype phase for thirty years.  In that period we learned nothing about making better space planes, but burned through decades and billions of dollars patching up the first working prototype.
+ 
+<p>Such timorousness goes against the grain of a development strategy that proven spectacularly successful in recent years for SpaceX, an approach you could call “fly often and try everything”.  With hardware to spare, SpaceX is not afraid to make wholesale changes between tests of its Starship rocket, relying on rapid iterations to advance the state of the art at an exhilarating pace.
+
+<p>But this Yosemite Sam approach to testing won’t work for Mars. It only takes a few hours for engineers to collect the data they need after a Starship launch, while test runs of Mars-bound systems will last for years.  The inevitable outcome is a development program that looks an awful lot like NASA, with long periods of fussing and analysis punctuated by infrequent, hideously expensive test flights. 
+
+<h2>III. Autonomy</h2>
+
+<p>Autonomy is a concept alien to NASA, which has been micromanaging astronauts from the ground since the first Mercury astronaut had to <a href="https://idlewords.com/shepard_pee.htm">beg controllers for  permission to pee</a> (the request went all the way up the reporting chain to Wernher Von Braun).  
+
+<p>To this day, missions follow a test pilot paradigm where the crew works from detailed checklists prepared for them months or years in advance.  On the space station, this takes the form of a graphical schedule creeping past a red vertical line on a laptop screen, with astronauts expected to keep pace with the moving colored boxes.  Most routine work on the space station (like pumping water or managing waste heat) is relegated to specialized teams on the ground and is not even visible to the crew. 
+
+<p><img src="https://idlewords.com/images/shepard_in_space.jpg" width=600>
+
+<p class="caption">Alan Shepard aboard Freedom 7, explaining that he really has to go pretty bad.</p> 
+
+<p>But as a Mars-bound spacecraft gets further from Earth, the round-trip communications delay with ground control will build to a maximum of 43 minutes, culminating in a week or more of communications blackout when the Sun is directly between the two planets.  This physical constraint means that  the crew has to have full control over every system on the spacecraft, without help from the ground.
+
+<p>Autonomy sounds like a good thing! Who wants government bean-counters deciding how astronauts spend their space time? But the ground-driven paradigm has its advantages, most notably in limiting workload. The ISS is run by a staff of hundreds who together send some 50,000 commands per day to the station. The seven astronauts on board are only called in as a last resort, and even so the demands on their time are so great that the station has struggled to perform its scientific mission.<a class="fnote" href="#iss_workload" name="fn_iss_workload"><sup>[11]</sup></a>
+
+<p>One benefit of NASA’s backseat driving has always been that in an emergency, the crew has access to unlimited real-time expert help on Earth. The starkest illustration of this came on Apollo 13, when an oxygen tank in the service module ruptured 56 hours into the flight.  It took the crew and mission controllers nearly an hour to get their bearings, at which point there was only a short window of time left to power down the spacecraft in a way that would preserve their ability to return to Earth.  
+
+<p>A <a href="https://idlewords.com/apollo_13_annotated.htm">transcript of that first hour</a> shows how difficult it was for crew and ground to figure out what was happening, and prioritize their response. It casts no aspersions on the crew of Apollo 13 to say they could not have survived a Mars-like communications delay.  
+
+<p>And while this mission is the most famous example of ground controllers backstopping an Apollo crew, there were at least five more occasions in the Apollo program when timely help from the ground averted serious trouble:
+
+<ul>
+<li>Apollo 12 was hit twice by lightning after launch, scrambling the electrical system and lighting up the command module with warning lights. Flight controller John Aaron recognized the baffling error pattern and passed into NASA legend by telling the crew to flip an obscure switch that restored sanity to their displays.</li> 
+
+<li>On Apollo 14, the descent radar on the lunar module failed to lock on properly, returning spurious range data. Without a timely call from ground control (who told the pilot to reset a breaker), the problem would likely have led to an aborted landing. </li>
+
+<li>On Apollo 15, the crew struggled to contain a water leak that threatened to become serious. After fifteen minutes, engineers on the ground were able to trace the problem to a pre-launch incident with a chlorination valve and relay up a procedure that solved the problem.</li>
+
+<li>Also on Apollo 15, a sliver of loose metal floating in a switch caused an intermittent abort signal to be sent to the lunar module engine.  Suppressing the signal so the lunar module could descend safely required reprogramming the onboard computer in a procedure guaranteed to raise the hairs on the head of every modern software developer.</li>
+
+<li>On Apollo 16, a pair of servo motors on the service module failed in lunar orbit. Mission rules called for an abort, but after some interactive debugging with the command module pilot, ground controllers found a workaround they judged safe enough to continue with the landing.</li>
+</ul>
+
+<p>While these incidents stand out, Apollo transcripts reveal numberless other examples of crew and ground working closely to get on top of problems. The loss of this real-time help is a real risk magnifier for astronauts going to Mars. 
+
+<h2>IV. Analysis</h2>
+
+<p>Another way in which the ISS depends on Earth is for laboratory analysis of air and water samples, which are collected on a regular schedule and sent down with each returning capsule. The tests that can be performed on the station itself are rudimentary, alerting crew to the presence of microbes or contaminants, but without the detailed information necessary to trace a root cause.
+
+<p>For Mars, this analytic capability will have to move into the spacecraft. In essence, this means building a kind of Space Theranos, an automated black box that can perform biochemical assays in space without requiring repair or calibration. Such an instrument doesn’t exist anywhere, but a Mars mission requires two flavors of it—one that works in zero G, and another for Martian gravity.<a class="fnote" href="#theranos" name="fn_theranos"><sup>[12]</sup></a> 
+
+<p>This black box belongs to a category of hardware that pops up a lot in Mars plans: technologies that would be multibillion dollar industries if they  existed on Earth, but are assumed to be easy enough to invent when the time comes to put them on a Mars-bound spacecraft.  <a class="fnote" href="#magic_tech" name="fn_magic_tech"><sup>[13]</sup></a>
+
+<p>Some Mars boosters even cite these technologies as examples of the benefits going to Mars will bring to humanity.  But this gets things exactly backwards—problems that are hard on Earth don’t get easier by firing them into space, and the fact that nonexistent technologies are on the critical path to Mars is not an argument for going there.
+
+<h2>V. Automation </h2>
+
+<p>The requirement that the crew be able to handle the ship when some members are incapacitated and there is no communication with Earth means that an ISS-size workload has to be automated to the point where it can be run by two or three astronauts. 
+
+<p><img style="width:600px" src="https://idlewords.com/images/cimon_gerst.jpg" />
+
+<p class="caption">Astronaut Alexander Gerst (right) interacting with CIMON, NASA's $6 million AI chatbot</p>
+
+<p>Automation means software, and lots of it.  To automate the systems on a Mars-bound spacecraft will be a monumental task, like trying to extend the autopilot on an airliner to make it run the airport concession stands, baggage claim, and airline pension plan.  The likely outcome is an ISS-like hotchpotch of software tested to different levels of rigor, running across hundreds of processors. But this hardware will be exposed to a far harsher radiation environment than systems on the ISS, making software design and integration a particular challenge.
+
+<p>A special case of the automation problem comes up on long-stay missions, when  the orbiting spacecraft has to keep itself free of mold, fungus, and space raccoons for the year and a half that the crew are on the Martian surface. Anyone who owns a vacation home knows that this problem—called “quiescence” in the Mars literature—is already hard to solve on Earth. 
+
+<p>Unless carefully managed, the interplay between automation, complexity and reliability can enter a pathological spiral.   Adding software to a system makes it more complex. To stay reliable, complex systems have to degrade gracefully, so that the whole continues to function even if an individual component fails. But these degraded modes, as well as unexpected interactions between them, introduce their own complexity, which then has to be managed with software, and so on. 
+
+<p>The upshot is that automation introduces its own, separate reason for running full-length mock missions before actually going to Mars. There will be too many bugs in a system this complex to leave them all for the first Mars-bound crew to discover.
+
+<h2>Implications </h2>
+
+<p>The extreme requirements for autonomy, reliability, and automation I’ve outlined are old news to designers of deep-space probes. The solar system is full of hardware beeping serenely away decades after launch, most spectacularly the forty-six-year-old Voyager spacecraft. 
+
+<p>But  no one has ever tried attaching a box of large primates to a deep space probe with the goal of keeping them alive, happy, and not tweeting about how NASA sent them into the vast empty spaces to die.  A Mars-bound spacecraft will be the most complicated human artifact ever built, about a hundred times bigger than any previous space probe, and inside it will be a tightly-coupled system of software, hardware, bacteria, fungi, astronauts, and (for half the mission) whatever stuff the crew tracks with them back onto the spacecraft.
+
+<p>Designing such a machine means taking something at the ragged edge of human ability (building interplanetary probes) and combining it with something that we can’t even do yet on Earth (keep a group of six or eight humans alive for years with regenerative life support).<a class="fnote" href="#biosphere2" name="fn_biosphere2"><sup>[14]</sup></a>  
+
+<p>My argument is not that it is impossible to do this, but that it is impossible to do it quickly.  Preparing for Mars will be an iterative, open-ended undertaking in which every round of testing eats up years of time and most of our space budget, like Artemis and the ISS before it.  The first decade of a Mars program will be indistinguishable from the last forty years of space flight—a series of repetitive, long-duration missions to orbit. The only thing NASA will need to change is the program name. 
+
+<p>Nor is this a problem that can be delegated to billionaire hobbyists. Life support is going to be a grind no matter whose logo is on the rocket.  The sky could be thick with Starships and we’d still be stuck doing all-up trials of hardware and software on these multi-year missions to nowhere.  
+
+<p>The only way to explore Mars in our lifetime is to ditch the requirement that people accompany the machinery.
+
+<h2>Choosing a profile</h2> 
+
+<p>But since we’re determined to go to Mars, and have two profiles to choose from, which one is better? 
+
+<p>Everyone agrees that only the long-stay profile makes sense for exploration. There’s no point in spending 95% of the trip in transit just to get a rushed couple of weeks at the destination. 
+
+<p>But on early missions, where the goal is just to get the crew home alive, the choice is tricky.
+
+<p><img style="width:600px" src="https://idlewords.com/images/long_stay.png" />
+
+
+<h2>Long Stay</h2>
+
+<p>The virtue of the long stay profile is simplicity. You fly your rocket to Mars, wait 17 months for the planets to align, and then fly the same trajectory home.  Each leg of this transfer journey lasts about as long as an ISS deployment, and it’s possible to tweak the transfer time by burning more fuel (although the crew then has to stay longer on Mars to compensate). 
+
+<p>At every point in the mission, the ship remains between 1 AU and 1.5 AU from the Sun. This simplifies thermal and solar panel design and greatly reduces the risk to the crew from solar storms.  
+
+<p>But the problem of what to do with all that time on Mars is vexing.  500 days is a long time for a first stay anywhere, even someplace with nightlife and an atmosphere.   And as we’ll see, an orbital mission is probably out of the question.  The requirement that the crew go live on Mars on their first visit adds enormously to the level of risk. 
+
+<p><img style="width:600px" src="https://idlewords.com/images/short_stay.png" />
+
+<h2>Short Stay</h2>
+
+<p>The appeal of the short stay profile is right in the name. Instead of staying on Mars so long they have to file taxes, the first arrivals can plant the flag, grab whatever rock is nearest the ladder, and get the hell out of there.  Or they can choose to skip the landing and make the first trip strictly orbital, following a tradition in aerospace engineering of attempting the impossible sequentially instead of all at once.
+
+<p>But the problem with the short stay profile is that trip home. The return trajectory cuts well inside the orbit of Venus, complicating the design of the spacecraft and adding spectacular ways for the crew to die during the weeks near perihelion. For most of that journey, the ship is on the wrong side of the Sun, hampering communications with Earth while leaving the crew with no warning of solar storms.
+
+<p>And that crew has to spend two consecutive years in deep space, maximizing their exposure to radiation and microgravity, the biggest known risks to astronaut health. 
+
+<p>The short stay profile also requires more propellant, in some years a prohibitive amount. If your strategy for mitigating risk on Mars is to launch crews during every synodic period, so that there are always potential rescuers en route to Mars, then this is a problem.  
+￼
+<p><img src="https://idlewords.com/images/delta_v_graph.png" width=600>
+
+<p class="caption">A diagram comparing the delta-v requirements for short stay and long stay missions across future launch dates. Since propellant requirements go up exponentially with delta v, a mission in 2041 requires five times as much propellant as one in 2033. <a href="https://ntrs.nasa.gov/api/citations/20130010385/downloads/20130010385.pdf">source</a>“
+</p>
+
+<h2>Orbit or Land?</h2> 
+
+<p>Once you’ve picked a profile, the other decision to make is whether to land the spacecraft. 
+
+<p>Obviously you have to land a crew at some point; if you don’t, the other space programs will make fun of you, and there will be hurtful zingers at your Congressional hearing. 
+
+<p>But since surviving a trip to Mars requires tackling a sequence of unrelated problems (arrival, entry, landing, surface operations, ascent, rendezvous), there is a case for cutting the problem in half by making the first mission orbital. This was the approach taken by the Apollo program, which looped the first crew around the Moon before a working lunar lander existed.
+
+<p>Not having to carry a lander on the first mission means more room for spare parts and consumables, which improves the margin of safety for the crew.  It also buys time for engineers to work on the hard problems of entry, landing, quiescence, and ascent without holding back the entire program. 
+
+<p>But there are powerful arguments against an orbital mission. Since so much of the risk in going to Mars is a simple function of time, why roll the dice more than necessary? And given the expense and physical toll on crew,  how do you justify not attempting a landing?  Imagine driving to Disneyland, turning the car around in the parking lot, and announcing to your family that you’re now ready for the real trip next year.  There will be angry kicking from the backseat, and mutiny.  
+ 
+<p>NASA has waffled for years over which option to choose.  In the 2009 design reference architecture, they favored sending a crew of four on the long stay trajectory.  Their more recent plans envision a shoestring mission on a short-stay profile with four crew members, two of whom attempt a landing. 
+
+<p>Elon Musk, for his part, has proposed solving the problem in stages, sending volunteers to settle Mars first, then figuring out how to get them home later.<a class="fnote" href="#spacex_plan" name="fn_spacex_plan"><sup>[15]</sup></a>   
+
+<p>What makes the choice genuinely hard is that we lack answers to two key questions:
+
+<p><b>1. How does the human body respond to partial gravity?</b>
+
+<p>Decades in space have given us a good idea of what prolonged periods in free-fall do to astronauts, and how they recover after returning to Earth.   But we have no idea what happens in partial gravity, either on the Moon (0.16 g) or on Mars (0.38 g). In particular, we don’t know whether Martian gravity is strong enough to arrest or slow the degenerative processes that we observe in free fall.<a class="fnote" href="#deconditioning" name="fn_deconditioning"><sup>[16]</sup></a>  
+
+<p>The answer to this question will drive a key decision: whether or not to spin the spacecraft. As we’ll see, spinning a spacecraft to create artificial gravity is an enormous hassle, but whether it’s avoidable depends on the unstudied effects of long stays in partial gravity.<a class="fnote" href="#partial_g" name="fn_partial_g"><sup>[17]</sup></a> 
+
+<p><b>2. What is the risk to the crew from the heavy-ion component of galactic cosmic radiation?</b>
+
+<p>Radiation in space comes in many varieties, most of which are well-understood from experience with their analogues on Earth.  
+
+<p>Low-dose heavy-ion radiation, however, is different.  It doesn’t exist outside of particle accelerators on Earth and is hard to study in low orbit, where both the magnetosphere and the bulk of our planet shield astronauts from most of the flux they’d experience in free space.  
+
+<p>Heavy ion radiation has biological effects that are not captured by the standard model of radiation damage to tissue. In particular, there is a class of phenomena called non-targeted effects (NTEs) that are known to damage cells far from the radiation track. This is a weird effect, like if found yourself hospitalized because your neighbor got hit by a car.  It’s believed that NTEs disrupt epigenetic signaling mechanisms in cells, but the phenomenon is poorly understood.
+
+<p>Uncertainty about the effects of low-dose heavy ion radiation widens our best guess at radiation risk by at least a factor of two.<a class="fnote" href="#radiation_uncertainty"><sup>[18]</sup></a> At the low end of the range, these effects are just a curiosity, and Mars missions can be planned using traditional models of radiation exposure. At the high end of the range, long-duration orbital missions may not be survivable, and astronauts on the Martian surface will either have to live in a cave or cover their shelter with meters of soil.
+
+<p><img src="https://idlewords.com/images/nte_uncertainty.png" width=600>
+
+
+<p class="caption">Prediction of tumor prevalence after 1 year of galactic cosmic radiation exposure. The solid line at bottom shows the standard radiation model (TE). The dotted lines show the influence of non-targeted effects (NTE) under different assumptions. Note the nearly threefold uncertainty in predicted tumor prevalence in the unshielded case. <a href="https://pubmed.ncbi.nlm.nih.gov/28500351/">source</a>
+
+<p>This uncertainty about biological effects makes radiation the greatest uncharacterized known risk facing a Mars-bound crew, and it affects every aspect of mission design. 
+
+<p>It’s helpful to combine the three main risk factors in going to Mars into one big chart:
+
+￼<style>
+table.risk
+{
+  font-size:1.1em;
+    margin:0px;
+
+  margin-top:20px;
+  width:550px;
+  border-spacing:0px;
+
+}
+caption
+{
+ font-size:1.2em;
+ margin-bottom:10px;
+ color:#777;
+}
+th
+{
+    text-align:center;
+    padding-bottom:10px;
+}
+td
+{
+text-align:left;
+  padding:14px;
+  margin:0px;
+
+
+}
+td.risk {border:1px solid #777;}
+td.unknown
+{
+    background:#888;
+    color:white;
+}
+td.low
+{
+    background:#afa;
+}
+td.mid
+{
+    background:#ff9;
+}
+td.high 
+{
+    background:#fc9;
+}
+td.vhigh 
+{
+    background:#f99;
+}
+
+
+
+</style>
+<table width=500 class="risk" style="text-align:left" >
+<caption>Technical Risk</caption>
+
+<tr><th></th><th width="210">Orbit</th><th>Land</th></tr>
+<tr><td width=80 style="font-size:1em;font-weight:bold">Short Stay</td>
+<td class="mid">Spacecraft trajectory complicates spacecraft design, communications are a challenge.</td>
+<td class="high">Requires working lander and ascent stage, less margin than orbital mission.
+</td></tr>
+<tr><td style="font-size:1em;font-weight:bold">Long Stay</td>
+<td class="low">Lowest complexity, large mass budget for spares and consumables. </td>
+<td class="vhigh">Highest complexity, all-up mission must work on the first try.</td></tr>
+</table>
+
+
+<table class="risk" style="text-align:left">
+<caption>Radiation Risk</caption>
+<tr><th></th><th width="210">Orbit</th><th>Land</th></tr>
+<tr><td width=80 style="font-size:1em;font-weight:bold">Short Stay</td>
+<td class="vhigh" colspan=2>600 days in deep space, return trip requires close solar approach (0.7 AU).  Risk from solar particle events may require flying near solar minimum, incurring higher GCR dose.
+
+</td></tr>
+<tr><td style="font-size:1em;font-weight:bold">Long Stay</td>
+<td class="unknown">Risk of death or incapacitation from heavy ion component of GCR may exceed 50%
+</td>
+<td class="mid">Lowest radiation exposure, but adequately shielding the habitat on Mars increases complexity and contamination risk 
+</td></tr>
+</table>
+
+
+<table class="risk"  style="text-align:left" >
+<caption>Deconditioning Risk</caption>
+<tr><th></th><th width="210">Orbit</th><th>Land</th></tr>
+<tr><td width=80 style="font-size:1em;font-weight:bold">Short Stay</td>
+<td class="vhigh" colspan=2>1.5 times beyond human endurance record; crew at risk for bone fractures and eye damage.
+
+
+</td></tr>
+<tr><td style="font-size:1em;font-weight:bold">Long Stay</td>
+<td class="vhigh">2.5 times beyond human endurance record.
+</td>
+<td class="unknown">Physiological effects of partial gravity unknown. 
+
+</td></tr>
+</table>
+
+<p>The gray areas in these grids represent knowledge gaps that have to be filled before we decide how to go to Mars.
+
+
+<p>How long this preliminary medical research would take is anyone’s guess, but it has to be some multiple of the total mission time.  Studying partial gravity in particular is tricky—you can do it on the Moon (42% of martian gravity) and hope the results extend to Mars, or you can build rotating structures in space and do more precise tests there.
+
+<p>Studying radiation effects means flying animals outside the magnetosphere for a few years and then watching them for tumors, which (unless the radiation news is really bad) is also going to take some time.
+
+<p>In software engineering we have a useful concept called “yak shaving”. To get started on a project you must first prepare your tools, which often involves reconfiguring your programming environment, which may mean updating software, which requires finding a long-disused password, and pretty soon you find yourself under the office chair with a hex wrench. (The TV show Malcolm in the Middle has <a href="https://www.youtube.com/watch?v=AbSehcT19u0">a beautiful illustration</a> of yak shaving in the context of home repair.) 
+
+<p>The same phenomenon afflicts us in trying to go to Mars. It would be one thing if, given enough rockets and money, explorers could climb on a spaceship and go. But there is always this chain of necessary prerequisites. We paint <i>Destination: Mars!</i> on the side of our spaceship and then find ourselves in low Earth orbit a decade later, centrifuging mice. It’s dispiriting.
+
+
+<p>It’s tempting to say “you can just build things” and dismiss all this research and testing as timid and unnecessary. But this would mean ignoring the biggest risk factor for Mars, which I’ll include here for the sake of completeness.
+
+<table class="risk"  style="text-align:left" >
+<caption>Unknown Risks</caption>
+<tr><th></th><th width="210">Orbit</th><th>Land</th></tr>
+
+
+<tr><td style="font-size:1em;font-weight:bold">Short Stay</td>
+<td class="unknown">Unknown
+</td>
+<td class="unknown">Unknown
+
+</td></tr>
+<tr><td style="font-size:1em;font-weight:bold">Long Stay</td>
+<td class="unknown">Unknown
+</td>
+<td class="unknown">Unknown 
+
+</td></tr>
+</table>
+
+<p>A trip to Mars is so difficult that we don’t have the luxury of ignoring known risks—we need all the room we can spare in our risk budget for the things we don’t know to worry about yet.
+
+<p>My goal in all this is not to kill a cherished dream, but to try to push people to a more realistic view of what it means to commit to a Mars landing, and in particular to think about going to Mars in terms of opportunity costs.
+
+<p>In recent years, there’s been a remarkable division in space exploration.  On one side of the divide are missions like Curiosity, James Webb, Gaia, or Euclid that are making new discoveries by the day. These projects have clearly defined goals and a formidable record of discovery. 
+
+<p>On the other side, there is the International Space Station and the now twenty-year old effort to return Americans to the moon. These projects have no purpose other than perpetuating a human presence in space, and they eat through half the country’s space budget with nothing to show for it.  Forget even Mars—we are further from landing on the Moon today than we were in 1965.
+
+<p>In going to Mars, we have a choice about which side of this ledger to be on. We can go aggressively explore the planet with robots, benefiting from an ongoing revolution in automation and software to launch ever more capable missions to the places most likely to harbor life.  
+
+<p>Or we can stay on the treadmill we’ve been on for forty years,  slowly building up the capacity to land human beings on the safest possible piece of Martian real estate, where they will leave behind a plaque and a flag.  But we can’t do both.
+
+<p>Next time: Eyes and Bones
+
+<hr/>
+
+<h2>Footnotes</h2>
+
+<p><a class="footnote" name="aaron" href="#fn_aaron">[1]</a> 
+ Quote taken from a 2000 <a href="https://historycollection.jsc.nasa.gov/JSCHistoryPortal/history/oral_histories/AaronJW/AaronJW_1-21-00.htm">oral history</a> with Aaron. 
+
+<p><a class="footnote" name="early_mars" href="#fn_early_mars">[2]</a> For an early example, see the 1928 Scientific American article, “<a href="https://idlewords.com/can_we_go_to_mars.htm">Can we go to Mars?</a>”, While understandably hand-wavy about the means of propulsion, it describes a conjunction-class orbital mission not substantially different from NASA’s 2009 Design Reference Architecture.
+
+<p><a class="footnote" name="durations" href="#fn_durations">[3]</a> Valerii Polyakov set the 437 day record on a space flight that landed in 1995. The International Space Station went without resupply from Nov 25, 2002 to April 2, 2003. Nine Apollo missions went beyond low Earth orbit, the longest of these (Apollo 17) was gone 12.4 days.
+
+<p><a class="footnote" name="first_rockets" href="#fn_first_rockets">[4]</a> The Saturn V was capable of launching about 20 tons on a Mars flyby trajectory. NASA <a href="http://www.astronautix.com/j/jagmarsflyby1966.html">undertook preliminary planning</a> for such a mission (requiring four Saturn V launches) in 1967.  
+
+<p><a class="footnote" name="breakthroughs" href="#fn_breakthroughs">[5]</a> In 1987 a team chaired by Sally Ride proposed <a href="https://archive.is/gmZoN">a ‘split/sprint’ mission architecture</a> that is probably the best way to get to Mars. In this architecture, slow-moving tankers pre-position cryogenic propellant depots in Mars orbit, and then in the next synodic period a human mission (the “sprint” part of the mission) lands briefly on Mars, refuels from the orbiting depots, and get home within 400 days.  Such a mission requires about 15 heavy launches and two nonexistent technologies: long-term storage of liquid hydrogen in space, and the ability to pump liquid hydrogen between spacecraft in space.  (Interestingly, both of these technologies are part of Blue Origin's plan to build a moon lander). 
+
+<p>The other way to get to Mars fast is with nuclear thermal rockets. A nuclear thermal rocket is just a nuclear reactor that shoots hot hydrogen out one end. Nuclear thermal rocket designs are about twice as efficient as chemical rockets, making it feasible to fly missions with higher delta V requirements.
+
+
+<p><a class="footnote" name="apollo_abort" href="#fn_apollo_abort">[6]</a> For a comprehensive discussion of Apollo abort modes, see <a href="https://ntrs.nasa.gov/api/citations/19720017278/downloads/19720017278.pdf">1972 Apollo Experience Report - Abort Planning</a>.
+
+<p><a class="footnote" name="mars_abort" href="#fn_mars_abort">[7]</a> You can read about possible Mars abort modes in <a href="https://www.researchgate.net/publication/332351285_EARTH_TO_MARS_ABORT_ANALYSIS_FOR_HUMAN_MARS_MISSIONS">Earth to mars Abort Analysis for Human Mars Missions</a>. What kind of a failure scenario would even benefit from a two-year abort option is an interesting philosophical question. 
+
+<p><a class="footnote" name="abort_code" href="#fn_abort_code">[8]</a> I wrote a little <a href="https://idlewords.com/mars_abort.py">python script</a> if you want to play with these scenarios yourself.
+
+<p><a class="footnote" name="iss_failures" href="#fn_iss_failures">[9]</a> Life support equipment on ISS is packaged into components called ‘Orbital Replacement Units’. In some cases, this means that an assembly weighing hundreds of kilograms has to be flown up because a tiny sensor within it failed. 
+
+<p>Here's a partial list of ORUs replaced in calendar year 2023 (<a href="https://ntrs.nasa.gov/api/citations/20240005249/downloads/ICES-2024-141%20ECLS%20Overview%20of%20Events%202023%20Final.pdf">source</a>):
+
+<ul>
+<li>Heat exchanger in Node 3</li>
+<li>Common cabin air assembly water separator</li>
+<li>Node 3 water separator</li>
+<li>Common cabin air assembly water separator liquid check valve</li>
+<li>21 charcoal filters stationwide</li>
+<li>HEPA filters in Node 3</li>
+<li>Blower in carbon dioxide removal assembly (twice, first replacement failed)</li>
+<li>Sample Distribution Assembly in Node 3</li>
+<li>Mass Spectrometer assembly</li>
+<li>Multifiltration bed</li>
+<li>Pump in oxygen generation assembly</li>
+</ul>
+
+<p><a class="footnote" name="urine_calcium" href="#fn_urine_calcium">[10]</a> An early urine reprocessor on the space station <a href="https://ntrs.nasa.gov/citations/20170008985">failed after it got clogged up by calcium crystals</a> from the astronauts' dissolving bones, an effect of weightlessness that wasn't properly accounted for in the design. 
+
+<p><a class="footnote" name="iss_workload" href="#fn_iss_workload">[11]</a> The 50,000 command figure is from <a href="https://www.nasa.gov/ebooks/the-international-space-station-operating-an-outpost-in-the-new-frontier/">The ISS: Operating an Outpost in the New Frontier</a>, a detailed primer on space station operations. ISS utilization has gone up in recent years, but still remains below 80 hours/week—two full-time equivalents. The seven-member crew spends most of their waking time on mandatory exercise, housekeeping, and station repair. 
+
+<p><a class="footnote" name="theranos" href="#fn_theranos">[12]</a> Existing instruments in space are usually set up to identify chemicals on a target list of 10-20 substances, a much easier task than identifying arbitrary compounds. 
+<p>For the state of the art on the latter, see <a href="https://ntrs.nasa.gov/api/citations/20230002433/downloads/ICES_Paper-SWIM_Draft-2023-03-02_no_copyright.pdf">Progress on the Organic and Inorganic Modules of the Spacecraft Water Impurity Monitor, a Next Generation Complete Water Analysis System for Crewed Vehicles</a> (ICES-2023-110).
+
+<p><a class="footnote" name="magic_tech" href="#fn_magic_tech">[13]</a> Other examples of magic Mars technology include leakless seals for spacesuits, waterless washing machines, biofilm-proof coatings, nutritionally complete meals that can be stored for years at room temperature, and autonomous solar-powered factories for turning CO2 into hundreds of tons of methane.
+
+<p><a class="footnote" name="biosphere2" href="#fn_biosphere2">[14]</a> The endurance record for closed-system life support belongs to Biosphere 2, which kept a crew alive for 17 months before oxygen fell to dangerous levels because of unanticipated interactions with building materials. 
+
+<p><a class="footnote" name="spacex_plan" href="#fn_spacex_plan">[15]</a> Plans involving Starship and Mars depend on being able to produce hundreds of tons of propellant on the Martian surface so the rockets can launch again. In the absence of any details from Musk or SpaceX, the closest thing we have to a detailed plan is <a href="https://www.nature.com/articles/s41598-024-54012-0">this analysis in Nature</a>.
+
+<p><a class="footnote" name="deconditioning" href="#fn_deconditioning">[16]</a> For all we know, the set of problems collectively called "deconditioning" could get worse in partial gravity. This goes against our intuitions, but there have been bigger surprises in space.
+
+<p><a class="footnote" name="partial_g" href="#fn_partial_g">[17]</a> Another decision that hinges on the effects of partial gravity is whether or not to include heavy exercise equipment on the Mars surface habitat, where space and mass are at a premium. 
+
+<br> 
+
+<https://idlewords.com/2025/02/the_shape_of_a_mars_mission.htm>
 
 ---
 

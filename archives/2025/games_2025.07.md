@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-02-20 07:10:15
+updated: 2025-02-21 07:09:08
 ---
 
 # games
 
-(date: 2025-02-20 07:10:15)
+(date: 2025-02-21 07:09:08)
+
+---
+
+## All Marvel Rivals maps and modes in season 1.5
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+Marvel Rivals is a competitive game set in the multiverse, so it’s fitting that you play on a number of different maps. As of season 1.5 (which added the remaining two characters from The Fantastic Four alongside a new map), there are now 10 maps in Marvel Rivals, all inspired by locations from the Marvel [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/491015/maps-modes-list-all-quick-play-competitive>
+
+---
+
+## Pokémon TCG Pocket schedule of events for Space-Time Smackdown
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+The Pokémon TCG Pocket schedule is full of events that allow you to grow your digital collection of cards. The developers have run several events as part of the game’s Space-Time Smackdown expansion at the time of publication. The content of each event can vary greatly; some require you to battle, whereas some focus on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/522567/schedule-events-all-dates>
+
+---
+
+## Lenovo’s Legion Go S is the latest Windows handheld casualty
+
+date: 2025-02-21, updated: 2025-02-20, from: Polygon Website
+
+It’s been easy to close myself off to other handheld gaming PCs since I have the $649 Steam Deck OLED. After all, the OS is easy to use, it has a great screen, and most importantly, many games run well on it. Save for the screen, the same could be said for the $399 Steam [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/526493/lenovo-legion-go-s-windows-gaming-handheld-review>
+
+---
+
+## Fortnite Chapter 6 Season 2 battle pass skins list, including Sub-Zero and Big Dill
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+Fortnite Chapter 6 Season 2 battle pass skins are many and varied for the “Lawless” season. The likes of crime kingpin Fletcher Kane and robber Valentina lean heavily into the heist theme, but there’s also musical pickle Big Dill, the traffic cone-wearing Joss, and Mortal Kombat’s Sub-Zero. Also joining the roster at a later date [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/527012/chapter-6-season-2-battle-pass-skins-list>
+
+---
+
+## How to get free Incarnate Forme Go Tour research codes in Pokémon Go
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+Three Incarnate Forme research codes are available as part of 2025’s Go Tour: Unova celebrations in Pokémon Go. Available from Feb. 21, as Go Tour: Unova technically starts with the New Taipei and Los Angeles in-person events, the three codes will reward the Incarnate Formes of Tornadus, Thundurus, and Landorus upon completion. Here are all [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/527019/go-tour-research-codes-incarnate-forme>
+
+---
+
+## Matt Fraction takes the reins on DC’s Batman, with a redesign and renumbering
+
+date: 2025-02-21, updated: 2025-02-20, from: Polygon Website
+
+Writer Matt Fraction will pick up the Batman baton this September, DC Comics announced at the annual ComicsPRO industry conference today, joining current Batman artist Jorge Jimenez for a new Batman #1 hitting shelves in September. Picking up after Jeph Loeb and Jim Lee’s Hush sequel, H2SH, concludes with August’s Batman #163, the new Batman [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dc/526838/dc-batman-matt-fraction>
+
+---
+
+## How much would you spend on Cheetozard — the Pokémon-shaped Cheeto?
+
+date: 2025-02-20, updated: 2025-02-20, from: Polygon Website
+
+A Pokémon-shaped Flamin’ Hot Cheeto is on auction as part of Goldin’s February lot of pop culture stuff. If you want it, you’ve got just over nine days to place a bid. Though the auction started on Feb. 10 at $250, the price has continued to rise until it surpassed $1,000 on Thursday. So far, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/culture/526839/cheeto-charizard-auction-pokemon-collectibles>
 
 ---
 

@@ -1,11 +1,255 @@
 ---
 title: going electric
-updated: 2025-02-20 07:10:17
+updated: 2025-02-21 07:09:10
 ---
 
 # going electric
 
-(date: 2025-02-20 07:10:17)
+(date: 2025-02-21 07:09:10)
+
+---
+
+## Rivian is recalling over 17,000 R1S and R1T vehicles due to faulty headlights
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Rivian-EV-tech-deal-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> issued a recall for over 17,000 vehicles on Friday due to a headlight issue that only occurs in cold weather. The recall impacts certain 2025 R1S SUV and R1T electric pickup models. Luckily, it should be an easy fix.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s,rivian-r1t" data-layer-viewtype="unknown" data-post-id="402741" href="https://electrek.co/2025/02/21/rivian-issues-recall-for-17000-r1s-r1t-evs-over-faulty-headlights/#more-402741" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/rivian-issues-recall-for-17000-r1s-r1t-evs-over-faulty-headlights/>
+
+---
+
+## Popular Super73 electric bikes recalled for brake failure
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/super73recallhead.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Super73, a leading e-bike manufacturer based in Irvine, California famous for its moped-style electric bikes, has issued a recall for two of its popular models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,recall" data-layer-viewtype="unknown" data-post-id="402736" href="https://electrek.co/2025/02/21/popular-super73-electric-bike-recalled-for-brake-failure/#more-402736" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/popular-super73-electric-bike-recalled-for-brake-failure/>
+
+---
+
+## Nissan turning to Tesla as potential investor after Honda deal fell through
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Japan reportedly plans to try to convince Tesla to invest in Nissan after the merger with Honda fell through.</p>
+
+
+
+<p>Do you think it makes sense?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,tesla" data-layer-viewtype="unknown" data-post-id="402731" href="https://electrek.co/2025/02/21/nissan-turning-to-tesla-as-potential-investor-after-honda-deal-fell-through/#more-402731" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/nissan-turning-to-tesla-as-potential-investor-after-honda-deal-fell-through/>
+
+---
+
+## BMW’s Neue Klasse EVs Will Have Up To 560 Miles Of Range
+
+date: 2025-02-21, from: Inside EVs News
+
+Thanks to the 800V battery system with cylindrical cells, charging times are expected to be 30% shorter than today. 
+
+<br> 
+
+<https://insideevs.com/news/751373/bmw-neue-klasse-800v-range-charging/>
+
+---
+
+## Rivian CEO Says Hands-Free Driving Is Coming In 'Weeks'
+
+date: 2025-02-20, from: Inside EVs News
+
+After that, a hands-off, eyes-off highway driving system is coming to Rivians next year, CEO R.J. Scaringe said on Thursday.  
+
+<br> 
+
+<https://insideevs.com/news/751354/rivian-hands-free-driving-r1/>
+
+---
+
+## The Rivian R2 Is 'On Track' To Launch In First Half Of 2026, CEO Confirms
+
+date: 2025-02-20, from: Inside EVs News
+
+Rivian's more affordable crossover will also be a lot easier for the company to build, CEO RJ Scaringe said in an earnings call. 
+
+<br> 
+
+<https://insideevs.com/news/751352/rivian-r2-cost-reduction/>
+
+---
+
+## Dacia Is Working On A $19,000 Electric Renault Twingo Twin
+
+date: 2025-02-20, from: Inside EVs News
+
+Work on the new affordable EV has already started, and it will take just 16 months, a lot less than usual. 
+
+<br> 
+
+<https://insideevs.com/news/751312/dacia-electric-car-spring-replacement/>
+
+---
+
+## Rivian's $170 Million Quarterly Profit Marks A Turning Point
+
+date: 2025-02-20, from: Inside EVs News
+
+Rivian's first quarter of positive gross profit is a major milestone. But the company warns of a tougher year yet ahead. 
+
+<br> 
+
+<https://insideevs.com/news/751349/rivian-q4-2024-results/>
+
+---
+
+## Rivian (RIVN) hit its gross profit goal in Q4, now what?
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Rivian-stock-analyst-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) hit its goal of achieving a positive gross profit in the fourth quarter. The EV maker released its fourth-quarter earnings after the market closed on Thursday. Here’s a full breakdown of Rivian’s Q4 2024 financials.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="402701" href="https://electrek.co/2025/02/20/rivian-rivn-hit-gross-profit-goal-q4-now-what/#more-402701" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/20/rivian-rivn-hit-gross-profit-goal-q4-now-what/>
+
+---
+
+## The 2025 Hyundai Ioniq 5's Tesla Charging Won't Be What You Expect
+
+date: 2025-02-20, from: Inside EVs News
+
+The Ioniq 5 is a charging monster. But its performance on a Tesla Supercharger will be a different experience—for now. 
+
+<br> 
+
+<https://insideevs.com/news/751308/hyundai-charging-tesla-v3-interview/>
+
+---
+
+## Tenways’ latest 8-speed CGO600 Pro e-bike hits new $1,299 low, Wi-Fi smart hose timer from meross $66, EcoFlow 4-day flash sale, more
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tenways-CGO600-Pro-e-bike-blue.png?w=1200" /></div><p>We have a well-balanced collection of Green Deals for you today, starting with <a href="https://9to5toys.com/2025/02/19/tenway-flash-8-speed-cgo600-pro-new-1299-low/">Tenways’ flash sale</a> offer on its new Shimano 8-speed <a href="https://9to5toys.com/2025/02/19/tenway-flash-8-speed-cgo600-pro-new-1299-low/">CGO600 Pro e-bike</a> using the ongoing Valentine’s sale pricing as a starting point to jump even further to a new <a href="https://9to5toys.com/2025/02/19/tenway-flash-8-speed-cgo600-pro-new-1299-low/">$1,299 low</a>. We also have the first savings hitting the new <a href="https://9to5toys.com/2025/02/19/meross-wi-fi-hose-timer-75-first-discount/">meross Wi-Fi Smart Water Hose Timer Kit at $66</a> while a bunch of electric <a href="https://9to5toys.com/2025/02/20/greenworks-60v-16-inch-string-trimmer-160/">Greenworks lawncare tools</a> are seeing up to 42% discounts, with the brand’s <a href="https://9to5toys.com/2025/02/20/greenworks-60v-16-inch-string-trimmer-160/">60V 16-inch Cordless Electric String Trimmer</a> down at <a href="https://9to5toys.com/2025/02/20/greenworks-60v-16-inch-string-trimmer-160/">$160</a>, for example. Lastly, there’s EcoFlow’s 4-day flash sale that is dropping the modular <a href="https://9to5toys.com/2025/02/20/ecoflow-flash-delta-pro-ultra-4799/">DELTA Pro Ultra</a> Portable Power Station to <a href="https://9to5toys.com/2025/02/20/ecoflow-flash-delta-pro-ultra-4799/">$4,799</a> through the rest of the brand’s <a href="https://9to5toys.com/2025/02/15/ecoflow-2025-valentines-day-sale/">Valentine’s Day sale</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s three new low prices on <a href="https://9to5toys.com/2025/02/19/rad-power-radrunner-e-bikes-new-lows/">Rad Power e-bikes</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="402676" href="https://electrek.co/2025/02/20/cgo600-pro-e-bike-1299-low-meross-ecoflow-more/#more-402676" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/20/cgo600-pro-e-bike-1299-low-meross-ecoflow-more/>
+
+---
+
+## Stellantis' AutoDrive Is 'Eyes-Off, Hands-Off' In Traffic For Jeep, Ram Drivers
+
+date: 2025-02-20, from: Inside EVs News
+
+The Level 3 eyes-off, hands-off system is designed to work up to 37 mph. It could make your next traffic jam a lot more pleasant. 
+
+<br> 
+
+<https://insideevs.com/news/751328/stellantis-level-3-driving-autonomy/>
+
+---
+
+## Mercedes-Benz is already testing solid-state battery EVs promising +600 miles range
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Mercedes-entry-level-CLA-EV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The race for the “holy grail” of EV batteries is heating up. <a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> is now testing EVs with solid-state batteries on the road, which could unlock over 600 miles of driving range.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="factorial-energy,mercedes-benz,solid-state-batteries" data-layer-viewtype="unknown" data-post-id="402673" href="https://electrek.co/2025/02/20/mercedes-tests-solid-state-battery-evs-promising-600-mi-range/#more-402673" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/20/mercedes-tests-solid-state-battery-evs-promising-600-mi-range/>
+
+---
+
+## EV Batteries With Higher Silicon Content Are Coming: GM Exec
+
+date: 2025-02-20, from: Inside EVs News
+
+Silicon anodes improve charging speeds and driving range. GM says the U.S. is well-positioned to incorporate them. 
+
+<br> 
+
+<https://insideevs.com/news/751319/gm-says-ev-batteries-will-get-higher-silicon-content/>
+
+---
+
+## Volvo’s new ES90 electric sedan is ‘one of the most technically advanced cars’ on the market
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volvo-new-ES90-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo’s flagship electric sedan is almost here. With its debut just weeks away, <a href="https://electrek.co/guides/volvo/">Volvo</a> previewed the new ES90, boasting it’s “one of the most technically advanced cars on the market today.” Packed with two high-tech NVIDIA computers, it will also be the most advanced Volvo car yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="402654" href="https://electrek.co/2025/02/20/volvo-teases-new-es90-one-of-most-technically-advanced-cars/#more-402654" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/20/volvo-teases-new-es90-one-of-most-technically-advanced-cars/>
+
+---
+
+## Toyota’s Big Push: 50% Electrified U.S. Sales In 2025
+
+date: 2025-02-20, from: Inside EVs News
+
+Plus, Hyundai bumps U.S. production up 66% over tariff threats and Tesla is cited for safety violations surrounding a workplace death. 
+
+<br> 
+
+<https://insideevs.com/news/751203/toyota-50-percent-electrified-us/>
+
+---
+
+## Tesla to finally launch Supercharger wait queue after fight broke out
+
+date: 2025-02-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-Supercharger-fight.png?w=1600" /></div><p>Tesla announced that it would finally launch wait queues at Superchargers, a feature long requested by Tesla owners after a fight broke out at a station between owners arguing about who is next to charge.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="402630" href="https://electrek.co/2025/02/20/tesla-to-finally-launch-supercharger-wait-queue-after-fight-broke-out/#more-402630" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/20/tesla-to-finally-launch-supercharger-wait-queue-after-fight-broke-out/>
 
 ---
 

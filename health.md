@@ -1,11 +1,35 @@
 ---
 title: health
-updated: 2025-02-20 07:10:17
+updated: 2025-02-21 07:09:10
 ---
 
 # health
 
-(date: 2025-02-20 07:10:17)
+(date: 2025-02-21 07:09:10)
+
+---
+
+## Mechanisms of sepsis-induced acute liver injury: a comprehensive review
+
+date: 2025-02-21, from: Frontiers in Cellular and Infection Microbiology
+
+Sepsis is a severe, often life-threatening form of organ dysfunction that arises from an inappropriately regulated host response to infectious pathogen exposure. As the largest gland in the body, the liver serves as a regulatory hub for metabolic, immune, and detoxification activity. It is also an early sepsis target organ such that hepatic dysfunction is observed in 34-46% of patients with sepsis. The precise mechanisms that give rise to sepsis-induced liver injury, however, remain incompletely understood. Based on the research conducted to date, dysregulated systemic inflammation, microbial translocation, microcirculatory abnormalities, cell death, metabolic dysfunction, and liver inflammation may all contribute to the liver damage that can arise in the context of septicemia. This review was developed to provide an overview summarizing the potential mechanisms underlying sepsis-induced liver injury, informing the selection of potential targets for therapeutic intervention and providing a framework for the alleviation of patient symptoms and the improvement of prognostic outcomes. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1504223>
+
+---
+
+## Staphylococcus aureus utilizes vimentin to internalize human keratinocytes
+
+date: 2025-02-21, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionVimentin is an intermediate filamentous cytoskeletal protein involved in cell migration, adhesion, and division. Recent studies have demonstrated that several bacteria and viruses interact with vimentin to facilitate entry and trafficking within eukaryotic cells. However, the relationship between Staphylococcus aureus and vimentin remains unclear.MethodsIn the current study, we elucidated vimentin expression mechanism in human keratinocytes infected with S. aureus using Western blot (WB), Flow cytometry, Immunofluorescence (IF) staining, utilizing neutralizing antibodies, and small interference (si) RNA, and a vimentin overexpression vector. The physical interaction between vimentin and S. aureus was shown by IF on cell surface, intra- and intercellular space.ResultsHaCaT cells increased vimentin expression through physical interaction with live S. aureus, and not by heat-killed bacteria or bacterial culture supernatants. The Toll-like receptor (TLR) 2 signaling pathway, which includes interleukin 1 receptor-associated kinase (IRAK) and nuclear factor kappa B (NF-κB)/c-Jun N-terminal kinase (JNK) signaling activation, was involved in S. aureus-mediated vimentin expression. The vimentin protein induced by S. aureus was secreted extracellularly and bound to S. aureus in the culture media. The binding of vimentin to S. aureus accelerated the intracellular infection of HaCaT cells.DiscussionThus, these experiments elucidated the mechanism of vimentin protein expression during S. aureus infection in human skin keratinocytes and revealed the role of vimentin in this process. These findings suggest that vimentin could serve as a potential target for the prevention or treatment of S. aureus infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1543186>
 
 ---
 

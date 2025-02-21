@@ -1,11 +1,222 @@
 ---
 title: socal north
-updated: 2025-02-20 07:10:13
+updated: 2025-02-21 07:09:07
 ---
 
 # socal north
 
-(date: 2025-02-20 07:10:13)
+(date: 2025-02-21 07:09:07)
+
+---
+
+## Fire debris has washed up as far as the South Bay. Is it safe to go to the beach?
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+After the storms, we’re getting a better idea of how the January wildfires affected the coastline. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-beach-debris-fire-runoff-ocean-water-advisory-closure>
+
+---
+
+## Temperatures to reach 80 degrees this weekend amid another Santa Ana wind event
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+Santa Ana winds to affect the wind prone corridors in L.A. and Ventura counties. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/temperatures-to-reach-80-degrees-this-weekend-santa-ana-winds>
+
+---
+
+## Angelenos, you have special affection for local breakfast spots. These are some of your favorites
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+Grits and eggs, Taiwanese dishes, and omelettes galore — some of you even claim certain breakfast burritos can even "change your life." 
+
+<br> 
+
+<https://laist.com/news/food/la-favorite-local-breakfast-spots>
+
+---
+
+## LAUSD’s ‘really, really annoying’ cellphone ban may be working
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+All Los Angeles Unified campuses are now 'phone free' during the school day, and students say they’re seeing fewer devices. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-cell-phone-ban-social-media-may-be-working-really-annoying>
+
+---
+
+## NPR exclusive: Trump administration drops work on stronger building codes for disasters
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+To help homes survive more intense disasters, FEMA has been developing recommendations for stronger building codes. The Trump administration has pulled them back. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/npr-exclusive-trump-administration-drops-work-on-stronger-building-codes-for-disasters>
+
+---
+
+## County supervisor criticizes LA homeless services chief for ‘sloppy work’ in ethics breach
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+L.A. County Supervisor Kathryn Barger responded to an LAist investigation that found LAHSA CEO Va Lecia Adams Kellum signed a $2.1 million contract with her husband’s employer. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-county-supervisor-ethics-barger-adams-kellum>
+
+---
+
+## Celebrate Community and Culture Through One Story One City
+
+date: 2025-02-21, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean &#8220;In books, I have traveled, not only to other worlds, but into my own.&#8221; — Anna Quindlen As a passionate advocate for community engagement and the power of storytelling, I am pleased to share this year’s One Story One City (OSOC) program with you. For those who may not know, OSOC [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/20/celebrate-community-and-culture-through-one-story-one-city/">Celebrate Community and Culture Through One Story One City</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/20/celebrate-community-and-culture-through-one-story-one-city/>
+
+---
+
+## Trump administration to review California high-speed rail project
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+The review, announced during a news conference at Union Station, will focus on more than $4 billion in unspent federal funds granted to the project. 
+
+<br> 
+
+<https://laist.com/news/transportation/trump-administration-to-review-california-high-speed-rail-project>
+
+---
+
+## Judge rejects Norwalk’s attempt to dismiss state lawsuit over city’s homeless shelter ban
+
+date: 2025-02-20, updated: 2025-02-21, from: The LAist
+
+The ruling says city officials cited no evidence that homeless shelters and other types of housing posed an immediate threat to public safety. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/norwalk-lawsuit-homeless-shelter-ban-dismissal-rejected>
+
+---
+
+## Caltrans wants your thoughts on making a stretch of the dreaded Arroyo Seco Parkway safer
+
+date: 2025-02-20, updated: 2025-02-21, from: The LAist
+
+The proposed work won’t dramatically change your commute, but officials say it should make some sections of the 110 Freeway less nerve-wracking. 
+
+<br> 
+
+<https://laist.com/news/transportation/caltrans-wants-your-thoughts-on-making-a-stretch-of-the-dreaded-arroyo-seco-parkway-safer>
+
+---
+
+## IRS cuts more than 6,000 jobs in the middle of tax season
+
+date: 2025-02-20, updated: 2025-02-20, from: The LAist
+
+The layoffs at the Internal Revenue Service come as part of the Trump administration's downsizing of the overall federal workforce. 
+
+<br> 
+
+<https://laist.com/news/politics/irs-cuts-over-6-000-jobs-tax-season>
+
+---
+
+## Cal State campuses best for upward economic mobility, new rankings say
+
+date: 2025-02-20, updated: 2025-02-20, from: The LAist
+
+A recent ranking of 82 California universities finds that several campuses are the best in the state when it comes to driving upward economic mobility. 
+
+<br> 
+
+<https://laist.com/news/education/cal-state-campuses-best-for-upward-economic-mobility>
+
+---
+
+## Looking for a Summer Job? Join the City of Santa Clarita!
+
+date: 2025-02-20, from: City of Santa Clarita
+
+<p>Apply Now for This Upcoming Summer Season! Do you know someone looking for a summer job? The City of Santa Clarita is hiring enthusiastic and dedicated individuals to join our team for the summer! We are currently offering part-time positions at the Newhall Community Center, Canyon Country Community Center and Camp Clarita program. These roles [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/20/looking-for-a-summer-job-join-the-city-of-santa-clarita/">Looking for a Summer Job? Join the City of Santa Clarita!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/20/looking-for-a-summer-job-join-the-city-of-santa-clarita/>
+
+---
+
+## Man Arrested for Outstanding Warrant in City of San Fernando
+
+date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="601" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?fit=1024%2C601&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?w=2543&amp;ssl=1 2543w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=300%2C176&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=1024%2C601&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=768%2C451&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=1536%2C902&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=2048%2C1202&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=1200%2C705&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=1568%2C921&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=2000%2C1174&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=400%2C235&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?resize=706%2C414&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_6340-scaled-e1740076002577.jpeg?fit=1024%2C601&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A man was arrested and a woman was detained by the Los Angeles Police Department outside the Starbucks on Truman Street in the City of San Fernando around 9:35 a.m. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/20/man-arrested-for-outstanding-warrant-in-city-of-san-fernando/">Man Arrested for Outstanding Warrant in City of San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/20/man-arrested-for-outstanding-warrant-in-city-of-san-fernando/>
+
+---
+
+## Trump aims to cut benefits for those without legal status. Most already don't qualify
+
+date: 2025-02-20, updated: 2025-02-20, from: The LAist
+
+A new executive order aims to prevent taxpayer money from supporting people in the U.S. without legal status and targets federal funding for cities and states that support sanctuary policies. 
+
+<br> 
+
+<https://laist.com/news/trump-order-cuts-benefits-for-those-without-legal-status>
+
+---
+
+## Best things to do this weekend in LA and SoCal:  February 21 - 23
+
+date: 2025-02-20, updated: 2025-02-20, from: The LAist
+
+Frieze Art Fair, Twyla Tharp at the Soraya, a Black History walking tour of West Adama, a special chef’s pizza lunch at Mozza and more of the best things to do. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-february-21-23>
+
+---
+
+## Uncertainty and frustration hover over those whose homes survived LA’s fires
+
+date: 2025-02-20, updated: 2025-02-21, from: The LAist
+
+Residents whose homes still stand in burn zones are concerned about their health and how to make their homes livable again. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/homes-survive-burn-zone-survivor-frustrations>
 
 ---
 
@@ -13,7 +224,7 @@ updated: 2025-02-20 07:10:13
 
 date: 2025-02-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="762" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?fit=1024%2C762&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1024%2C762&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=768%2C572&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1536%2C1144&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=2048%2C1525&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1200%2C893&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1568%2C1167&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=2000%2C1489&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=400%2C298&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=706%2C526&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?fit=1024%2C762&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="762" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?fit=1024%2C762&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1024%2C762&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=768%2C572&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1536%2C1144&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=2048%2C1525&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1200%2C893&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=1568%2C1167&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=2000%2C1489&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=400%2C298&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?resize=706%2C526&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/Fed-Funding-Health-Care-07_elsol-scaled.jpg?fit=1024%2C762&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Inmediatamente después de que la administración Trump suspendiera temporalmente los pagos federales para subvenciones y otros programas el mes pasado, una medida rescindida días después luego de la protesta pública, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/02/19/el-partido-republicano-sopesa-miles-de-millones-en-recortes-a-medicaid-lo-que-pone-en-peligro-la-atencion-medica-de-millones-de-personas/">El Partido Republicano Sopesa Miles de Millones en Recortes a Medicaid, lo que pone en Peligro la Atención Médica de Millones de Personas</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -167,7 +378,7 @@ A 9-mile stretch of PCH that was damaged last month will partially reopen on Thu
 
 ## Altadena dog-walking group reconnects as emotional support crew after Eaton Fire
 
-date: 2025-02-20, updated: 2025-02-20, from: The LAist
+date: 2025-02-20, updated: 2025-02-21, from: The LAist
 
 About 50 people gathered Tuesday at La Cañada Presbyterian Church for the second meeting of what they call ‘The Order of the Phoenix.’ 
 

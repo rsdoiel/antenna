@@ -1,17 +1,517 @@
 ---
 title: columns
-updated: 2025-02-20 07:10:14
+updated: 2025-02-21 07:09:08
 ---
 
 # columns
 
-(date: 2025-02-20 07:10:14)
+(date: 2025-02-21 07:09:08)
+
+---
+
+##  Wind It Back 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/wind-it-back>
+
+---
+
+## Who is Elon Musk?
+
+date: 2025-02-21, from: Dave Winer's Scripting News
+
+<p>Journalism is as usual writing news they could have written last year and should have if they weren't dreaming that somehow we'd escape End of Democracy 2.0. And we know how that turned out, about the same as <a href="https://daytona.scripting.com/search?q=%22Hillary%27s%20Emails%22">Hillary's Emails</a>. </p>
+<p>Who is Elon Musk? Until I read his <a href="https://en.wikipedia.org/wiki/Elon_Musk">Wikipedia profile</a> last week, I only had a vague idea. I wanted to know if he was actually raised in South Africa, when he left, and what influence it had on him. I'll let you read the article. We should be examining every nook and cranny of who this unelected guy who never was in a debate, or won a primary or an election, or had his background investigated, and remains untouched by any kind of examination. </p>
+<p>His security detail was just <a href="https://www.cnn.com/2025/02/20/politics/elon-musk-private-security-deputized-marshals-service/index.html">deputized</a> by the <a href="https://www.usmarshals.gov/">US Marshals Service</a>. What next? Maybe they'll just give him control of the military and get on with it. You can see that's coming, maybe in March, or sooner. </p>
+<p>Do you think he'd have any <a href="https://dictionary.cambridge.org/us/dictionary/english/compunction">compunction</a> against using the military against Americans? This isn't his country. So Americans probably mean nothing special to him. Since we played a role in the overthrow of their apartheid, probably the opposite. I wonder who or what he cares about. Has he ever answered a question without deflecting? Is there any reporter who could or would interview him? </p>
+<p>If journalism were really doing their job seriously, they would report on this because this is what we're thinking. When will jouralism get that they are one of us, not above us? The sooner that light goes on, the better.  </p>
+<p>Here's a good story for one of fierce courageous reporters at the NY Times. Who should be more scared of what's coming? Blacks or Jews?</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/21/131712.html?title=whoIsElonMusk>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-21, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2020/07/27/weHaveMetTheEnemy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Something you hear from Democratic politicians and MSNBC hosts. "We know why Musk is cutting so much, it's to fund a huge tax cut for billionaires." They don't actually know that and I doubt it's true. Show me another example where Musk did anything to benefit anyone but himself? Why should he share the loot he's grabbing with other rich folk? What did they do to help? Nah I think it's all for him, with a taste going to the Trump and Putin families. He's going to use his new power to buy something else. The question is what? What else could he want? I imagine he wants <i>all the money</i> in the world not just the most. 
+
+<br> 
+
+<http://scripting.com/2025/02/21.html#a131241>
+
+---
+
+## Musk's exclusive
+
+date: 2025-02-21, from: Dave Winer's Scripting News
+
+<p>Can you imagine how livid developers of other AI platforms are that Musk gets exclusive access to all the private information stored in US government databases.</p>
+<p>Imagine Bezos calling Trump.</p>
+<p>"Hey I thought we were friends. I can send you another billion. 2 billion? 100 billion?" </p>
+<p>"Call Elon, if he says it's OK I'll sign the order."</p>
+<p>Microsoft, Facebook, Apple, Oracle, OpenAI, etc etc.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/21/131137.html?title=musksExclusive>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-21, from: Miguel de Icaza Mastondon feed)
+
+<p>Folks, we have earned ourselves a waffle party.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114042016435940202>
+
+---
+
+## Complying with the Online Safety Act
+
+date: 2025-02-21, from: Shady Characters blog
+
+<p>In October 2023, the <abbr class="initialism">UK</abbr> government passed into law the <a href="https://www.gov.uk/government/publications/online-safety-act-explainer/online-safety-act-explainer">Online Safety Act</a>, a set of regulations intended to make online services more responsible for the content they carry. It is a laudable aim, but unfortunately the distinctions the Act draws between large sites such as Facebook and Google and smaller sites such as this one are insufficiently well defined. The upshot is that complying with the Act places a much larger burden on the owners of sites such as <cite>Shady Characters</cite> than it does on the owners of those larger sites.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/02/online-safety-act/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/02/online-safety-act/>
+
+---
+
+## Ten reasons for modest optimism
+
+date: 2025-02-21, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/ten-reasons-for-optimism>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-21, from: Miguel de Icaza Mastondon feed)
+
+<p>Good night macro data refiners</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114040146776503971>
+
+---
+
+## February 20, 2025 
+
+date: 2025-02-21, from: Heather Cox Richardson blog
+
+On Monday, James Marriott of The Times, published in London, noted that the very stability and comfort of the post&#8211;World War II liberal order has permitted the seeds of its own destruction to flourish. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-20-2025>
+
+---
+
+##  Trump expected to take control of USPS, fire postal board. &#8220;This is... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046278-trump-expected-to-take-co>
+
+---
+
+## Did Anyone Not See This Coming?
+
+date: 2025-02-21, from: Dan Rather's Steady
+
+DOGE is costing the country &#8212; and now Trump and Musk too 
+
+<br> 
+
+<https://steady.substack.com/p/did-anyone-not-see-this-coming>
+
+---
+
+## Friday 21 February, 2025
+
+date: 2025-02-21, from: John Naughton's online diary
+
+Manuel Manuel Castells, the first great sociologist of cyberspace, photographed in 2011 on one of his visits to Cambridge. Quote of the Day ”The lion and the calf shall lie down together but the calf won&#8217;t get much sleep.” Woody &#8230; <a href="https://memex.naughtons.org/friday-21-february-2025/40460/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-21-february-2025/40460/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-21, from: Miguel de Icaza Mastondon feed)
+
+<p>Today’s butter, wine and salt delivery vessel</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114038951633649084>
+
+---
+
+##  An essay on the role of music in political change, with example... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046277-an-essay-on-the-role>
+
+---
+
+##  How to Organize Our Way Out of the Trump-Musk Putsch. &#8220;The one... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046276-how-to-organize-our-way>
+
+---
+
+##  Surviving Fascism: Lessons from Jim Crow. &#8220;Accept that this is happening. Denial... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046275-surviving-fascism-lessons>
+
+---
+
+## 2025-02-19 Bots again, cursed
+
+date: 2025-02-20, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-19-bots-again-cursed">2025-02-19 Bots again, cursed</h1>
+
+<p>I’m on a trip and once again the bot fuckers are at it. Long term load
+average is 0.5; I have two cores so I can handle an average load of
+2.0; but when I looked at my sites this morning load was at 110. Some
+idiot is training their AI again, is my guess.</p>
+
+<p>I switched off Emacs Wiki and Community Wiki for the time being.
+They&rsquo;ll be back when the AI bros are tired of downloading every link.</p>
+
+<p>Munin shows load goin up and up and then Munin breaks down…</p>
+
+<p><img loading="lazy" src="2025-02-19-bots-again-1.jpg" alt="A Muningraph" /></p>
+
+<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
+
+<p>Compare this shit I should be dealing with to the stuff I want to look at:</p>
+
+<p><img loading="lazy" src="2025-02-19-bots-again-2.jpg" alt="Sunrise" />
+<img loading="lazy" src="2025-02-19-bots-again-3.jpg" alt="Mountains" />
+<img loading="lazy" src="2025-02-19-bots-again-4.jpg" alt="Snow" /></p>
+
+<p>So here&rsquo;s the new deal: I&rsquo;m redirecting any request containing &ldquo;rcidonly&rdquo; in the query string to <a href="https://www.emacswiki.org/nobots">nobots</a>. This parameter is used when showing recent changes for just a single page (&ldquo;show all changes&rdquo;), or for showing a feed for just one page. These are valid links but when the Internet ingesting machines start slurping, these endpoints are too expensive. This redirect to the static page already saves us a lot of resources.</p>
+
+<p>In addition to that, I wrote a fail2ban filter <code>/etc/fail2ban/filter.d/alex-bots.conf</code> containing this:</p>
+
+<pre><code>[Definition]
+# www.emacswiki.org:443 000.000.000.000 - - [19/Feb/2025:00:05:14 +0100] &quot;GET /emacs?action=rc&amp;all=1&amp;from=1728421966&amp;rcidonly=Comments_on_FacesPerBuffer&amp;showedit=1 HTTP/1.1&quot; 200 7168 &quot;-&quot; &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36&quot;
+failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
+</code></pre>
+
+<p>And I added a section using this filter to my jail <code>/etc/fail2ban/jail.d/alex.conf</code>:</p>
+
+<pre><code>[alex-bots]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 3600
+maxretry = 2
+</code></pre>
+
+<p>And when I check it, it already contained some bots:</p>
+
+<pre><code># fail2ban-client status alex-bots
+Status for the jail: alex-bots
+|- Filter
+|  |- Currently failed: 166
+|  |- Total failed:     474
+|  `- File list:        /var/log/apache2/access.log
+`- Actions
+   |- Currently banned: 0
+   |- Total banned:     9
+   `- Banned IP list:
+</code></pre>
+
+<p><strong>2025-02-20</strong>. I had some further problems.</p>
+
+<p>The web interface to my IRC servers no longer worked.
+The Lounge reported timeout errors.</p>
+
+<p>So I investigated the IRC server and that seemed to work.
+I noticed that no numbers appeared on Munin so I was confused.
+I added a config for Monit, thinking that perhaps I&rsquo;d get more info.
+But no, everything seemed to work.
+I even managed to log on using the <code>irc</code> program (ircII):</p>
+
+<pre><code>irc blog-reader SSLIRC/campaignwiki.org:6697
+</code></pre>
+
+<p>Munin also didn&rsquo;t show other info, like Apache data.
+Apparently that&rsquo;s due to me deleting the <code>000-default.conf</code> file which ensures that localhost is in fact a virtual host. Without it, there&rsquo;s no way to access <code>http://localhost/server-info</code> and  <code>http://localhost/server-status</code>.
+Well, I fixed that, but still no numbers.</p>
+
+<p>This is when I realized that The Lounge managed to connect to other IRC servers.
+It was only failing for my own server.
+And I started thinking.</p>
+
+<p>All these symptoms pointed to me being blocked by my own firewall.
+And so it was!</p>
+
+<p>This even explained another small setup problem where two of my sites behind Apache were being served by one service that listened on the same port but for two domains. Those requests also were getting lost.
+I rewrote that particular setup so that each site is now proxied directly and therefore listens for <code>localhost</code> and a port instead of a hostname and a port. Because that second pathway goes through the firewall.</p>
+
+<p>Yikes! So much headache only because I had blocked myself.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-19-bots-again>
+
+---
+
+##  Thing I should not be surprised by but I am somehow surprised... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046274-thing-i-should-not-be>
+
+---
+
+## February 19, 2025
+
+date: 2025-02-20, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157579022/0394cad9da246b539d4fd709a736d1eb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157579022/0394cad9da246b539d4fd709a736d1eb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-19-2025-da1>
+
+---
+
+##  How Democracy Supporters Can Still Beat Back the Rising Tide of Fascism.... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046273-how-democracy-supporters->
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-20, from: Miguel de Icaza Mastondon feed)
+
+<p>true</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114038111618080355>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-20, from: Miguel de Icaza Mastondon feed)
+
+<p>According to the Godot survey, most Godot users do not target mobile devices.  We want to change that trend.</p><p>This is <span class="h-card" translate="no"><a href="https://hachyderm.io/@Clancey" class="u-url mention">@<span>Clancey</span></a></span> &#39;s glorious work:</p><p><a href="https://blog.la-terminal.net/share-your-work/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/share-you</span><span class="invisible">r-work/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114038103215455541>
+
+---
+
+##  &#8220;Masses of enraged, terrified people are looking at the analog, slow-motion leadership... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046272-masses-of-enraged-terrifi>
+
+---
+
+##  My Open Letter to Elon Musk. &#8220;I will use every tool at... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046270-my-open-letter-to-elon>
+
+---
+
+## Barbara Broccoli on Amazon, in Private: ‘These People Are Fucking Idiots’
+
+date: 2025-02-20, updated: 2025-02-20, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/business/media/james-bond-movies-amazon-barbara-broccoli-0b04f0db?st=P86jBM&reflink=desktopwebshare_permalink>
+
+---
+
+##  A bunch of libertarians took over a small NH town and couldn&#8217;t... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046271-a-bunch-of-libertarians-t>
+
+---
+
+## A sign of things to come?
+
+date: 2025-02-20, from: Matt Haughey blog
+
+<p>I heard there was a big announcement today from Trump&apos;s secretary of transportation about California&apos;s high speed rail, and I knew it was probably going to be train wreck but I had no idea until I jumped on a livestream a few minutes into this event.</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/a-sign-of-things-to-come/>
+
+---
+
+##  Judith Butler: To Imagine a World After This, Democracy Needs the Humanities... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046269-judith-butler-to-imagine->
+
+---
+
+## Leaked Image of the First Post-Humane-Acquisition Product From HP’s Printer Division
+
+date: 2025-02-20, updated: 2025-02-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/VCBrags/status/1892332805570314491>
+
+---
+
+##  Political scientist Adam Przeworski (born in Nazi-occupied Poland) is keeping a diary.... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046267-political-scientist-adam->
+
+---
+
+## Tokyo, Japan
+
+date: 2025-02-20, from: mrusme blog
+
+"Tokyo, formerly Edo, historically Tokio, and officially the Tokyo Metropolis,
+is the capital and largest city of Japan. Its metropolitan area is the most
+populous in the world, with an estimated 37.468 million residents. Its
+metropolitan area is the largest in size and the most populous, with an area
+of 13,452 square kilometers and its city proper has a population of 13.99
+million people. Located at the head of Tokyo Bay, the prefecture forms part of
+the Kantō region on the central Pacific coast of Japan's main island of
+Honshu. Tokyo is the political and economic center of the country, as well as
+the seat of the Emperor of Japan and the national government." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/japan/tokyo-2025/>
+
+---
+
+## Amazon MGM Studios Takes Creative Control Over James Bond Franchise
+
+date: 2025-02-20, updated: 2025-02-20, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://variety.com/2025/film/global/james-bond-amazon-mgm-gain-creative-control-1236313930/>
+
+---
+
+##  &#8220;If you&#8217;re looking for some great databases of the ongoing resistance (as... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046268-if-youre-looking-for-some>
+
+---
+
+##  87% Of Loud Crashing Noises Are Nothing, Report Top Experts From Other... 
+
+date: 2025-02-20, updated: 2025-02-20, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046252-87-of-loud-crashing-noise>
 
 ---
 
 **@Dave Winer's Scripting News** (date: 2025-02-20, from: Dave Winer's Scripting News)
 
-I'm starting to use the rewrite of my thread publisher on Bluesky. Here's an <a href="https://bsky.app/profile/scripting.com/post/3limh2mzjdh2p">example</a>. And here's the <a href="https://skywrt.com/scripting.com/006">version</a> of the thread without being broken up into 300-character chunks (you can get it by clicking in the <a href="https://imgs.scripting.com/2025/02/20/clickHereToReadFullThread.png">metadata box</a> below the text of the post). I don't like it. The software is as good as it can be, given the extreme limits of the twitter-like environment. I went all the way with this, but I'm not sure I'm going to release it. But I'm going to keep using it, and maybe I'll think of something that makes it fun or worthwhile, or maybe I'll just chalk it up to another learning experience. 
+<img class="imgRightMargin" src="https://imgs.scripting.com/2023/10/23/judyGarlandAsDorothy.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm starting to use the rewrite of my thread publisher on Bluesky. Here's an <a href="https://bsky.app/profile/scripting.com/post/3limh2mzjdh2p">example</a>. And here's the <a href="https://skywrt.com/scripting.com/006">version</a> of the thread without being broken up into 300-character chunks (you can get it by clicking in the <a href="https://imgs.scripting.com/2025/02/20/clickHereToReadFullThread.png">metadata box</a> below the text of the post). I don't like it. The software is as good as it can be, given the extreme limits of the twitter-like environment. I went all the way with this, but I'm not sure I'm going to release it. But I'm going to keep using it, and maybe I'll think of something that makes it fun or worthwhile, or maybe I'll just chalk it up to another learning experience. 
 
 <br> 
 
@@ -110,7 +610,7 @@ The past week has solidified a sea change in American&#8212;and global&#8212;his
 
 ## ★ Thoughts and Observations on Today’s iPhone 16e Announcement
 
-date: 2025-02-20, updated: 2025-02-20, from: Daring Fireball
+date: 2025-02-20, updated: 2025-02-21, from: Daring Fireball
 
 The iPhone 16e is arguably just plain a better phone than the iPhone 15, and I think it’s almost inarguably a better value at $100 less. 
 
@@ -140,6 +640,18 @@ One more thing. I like watching Maddow nowadays. She seems unstuck. And she's ta
 
 ---
 
+##  Microsoft claims they&#8217;ve made a significant breakthrough in quantum computing involving Majorana... 
+
+date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046266-microsoft-claims-theyve-m>
+
+---
+
 ## The conservative media is going bonkers trying to normalize Trump
 
 date: 2025-02-19, from: Robert Reich's blog
@@ -161,71 +673,6 @@ date: 2025-02-19, updated: 2025-02-19, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/02/0046264-where-do-trans-kids-go>
-
----
-
-## 2025-02-19 Bots again, cursed
-
-date: 2025-02-19, from: Alex Schroeder's Blog
-
-<h1 id="2025-02-19-bots-again-cursed">2025-02-19 Bots again, cursed</h1>
-
-<p>I’m on a trip and once again the bot fuckers are at it. Long term load
-average is 0.5; I have two cores so I can handle an average load of
-2.0; but when I looked at my sites this morning load was at 110. Some
-idiot is training their AI again, is my guess.</p>
-
-<p>I switched off Emacs Wiki and Community Wiki for the time being.
-They&rsquo;ll be back when the AI bros are tired of downloading every link.</p>
-
-<p>Munin shows load goin up and up and then Munin breaks down…</p>
-
-<p><img loading="lazy" src="2025-02-19-bots-again-1.jpg" alt="A Muningraph" /></p>
-
-<p><a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a> <a class="tag" href="/search/?q=%23Emacs">#Emacs</a></p>
-
-<p>Compare this shit I should be dealing with to the stuff I want to look at:</p>
-
-<p><img loading="lazy" src="2025-02-19-bots-again-2.jpg" alt="Sunrise" />
-<img loading="lazy" src="2025-02-19-bots-again-3.jpg" alt="Mountains" />
-<img loading="lazy" src="2025-02-19-bots-again-4.jpg" alt="Snow" /></p>
-
-<p>So here&rsquo;s the new deal: I&rsquo;m redirecting any request containing &ldquo;rcidonly&rdquo; in the query string to <a href="https://www.emacswiki.org/nobots">nobots</a>. This parameter is used when showing recent changes for just a single page (&ldquo;show all changes&rdquo;), or for showing a feed for just one page. These are valid links but when the Internet ingesting machines start slurping, these endpoints are too expensive. This redirect to the static page already saves us a lot of resources.</p>
-
-<p>In addition to that, I wrote a fail2ban filter <code>/etc/fail2ban/filter.d/alex-bots.conf</code> containing this:</p>
-
-<pre><code>[Definition]
-# www.emacswiki.org:443 000.000.000.000 - - [19/Feb/2025:00:05:14 +0100] &quot;GET /emacs?action=rc&amp;all=1&amp;from=1728421966&amp;rcidonly=Comments_on_FacesPerBuffer&amp;showedit=1 HTTP/1.1&quot; 200 7168 &quot;-&quot; &quot;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36&quot;
-failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
-</code></pre>
-
-<p>And I added a section using this filter to my jail <code>/etc/fail2ban/jail.d/alex.conf</code>:</p>
-
-<pre><code>[alex-bots]
-enabled = true
-port    = http,https
-logpath = %(apache_access_log)s
-findtime = 3600
-maxretry = 2
-</code></pre>
-
-<p>And when I check it, it already contained some bots:</p>
-
-<pre><code># fail2ban-client status alex-bots
-Status for the jail: alex-bots
-|- Filter
-|  |- Currently failed: 166
-|  |- Total failed:     474
-|  `- File list:        /var/log/apache2/access.log
-`- Actions
-   |- Currently banned: 0
-   |- Total banned:     9
-   `- Banned IP list:
-</code></pre> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-02-19-bots-again>
 
 ---
 

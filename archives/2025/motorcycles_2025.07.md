@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-02-20 07:10:16
+updated: 2025-02-21 07:09:10
 ---
 
 # motorcycles
 
-(date: 2025-02-20 07:10:16)
+(date: 2025-02-21 07:09:10)
+
+---
+
+## Dainese Creates Limited-Edition Rossi Leathers and Helmet for His 46th Birthday
+
+date: 2025-02-21, from: Ride Apart, Electric Motorcycle News
+
+Rossi fans are about to remortgage their houses.  
+
+<br> 
+
+<https://www.rideapart.com/news/751221/dainese-limited-edition-rossi-birthday-leathers/>
+
+---
+
+## Family Metal Foundry Saves a Business The KTM Insolvency Nearly Killed
+
+date: 2025-02-21, from: Ride Apart, Electric Motorcycle News
+
+Good news, everyone! 
+
+<br> 
+
+<https://www.rideapart.com/news/751332/family-metal-foundry-ktm-insolvency/>
+
+---
+
+## Harley-Davidson Europe Is Having a Music Contest, Could Be a Genius Move
+
+date: 2025-02-21, from: Ride Apart, Electric Motorcycle News
+
+This only goes one of two ways. 
+
+<br> 
+
+<https://www.rideapart.com/news/751215/harley-davidson-music-contest-europe/>
+
+---
+
+## Watch an Amazon Turbo Diesel Mini Bike Get a 400% Speed Increase
+
+date: 2025-02-21, from: Ride Apart, Electric Motorcycle News
+
+Just $129.99 to get a 400% speed increase. Nothing comes close to this value. 
+
+<br> 
+
+<https://www.rideapart.com/news/751092/amazon-turbo-diesel-mini-bike-build/>
+
+---
+
+## New Device Can Turn Exhaust Heat Into Energy, Because Science
+
+date: 2025-02-21, from: Ride Apart, Electric Motorcycle News
+
+It’s not likely to be ICE’s saving grace, but it’s still pretty cool.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/751228/ice-thermoelectric-generator-new-technology/>
+
+---
+
+## You’re Going To Want To Keep Your Distance From This $300,000 Motorcycle
+
+date: 2025-02-20, from: Ride Apart, Electric Motorcycle News
+
+The Midual Type 1 Quintessence is a rolling epitome of ludicrous excess.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/751095/midual-type1-quintessence-300k-euros/>
 
 ---
 

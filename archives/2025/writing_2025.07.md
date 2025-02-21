@@ -1,11 +1,142 @@
 ---
 title: writing
-updated: 2025-02-20 07:10:15
+updated: 2025-02-21 07:09:08
 ---
 
 # writing
 
-(date: 2025-02-20 07:10:15)
+(date: 2025-02-21 07:09:08)
+
+---
+
+## Weekly New Books Video Is Here!
+
+date: 2025-02-20, from: Locus Magazine
+
+<p>Locus is back with another exciting, if not a bit shorter than usual, new books video! Come by our YouTube channel to check out our picks for the top new releases of the week! An fantastic array of SF, Fantasy, Horror, and YA books are just a click away! You can also support what we do and keep up-to-date on every weeks top new releases by subscribing to the channel!  <a href="https://locusmag.com/2025/02/weekly-new-books-video-is-here/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/weekly-new-books-video-is-here/>
+
+---
+
+## Isabel Allende Receives the Bodley Medal
+
+date: 2025-02-20, from: Locus Magazine
+
+<p>Author Isabel Allende has received the 2025 Bodley Medal, awarded by the Bodleian Libraries at Oxford University. The original medal was created in 1646 to honor Sir Thomas Bodley, who rebuilt the first public library at Oxford. Since 2002, replicas have been given annually by the library to “individuals who have made outstanding contributions to the worlds of books and literature, libraries, media and communications, science and philanthropy.” Isabel Allende,  <a href="https://locusmag.com/2025/02/isabel-allende-receives-the-bodley-medal/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/isabel-allende-receives-the-bodley-medal/>
+
+---
+
+## The Year in Review 2024 by Jake Casella Brookins
+
+date: 2025-02-20, from: Locus Magazine
+
+<p>Once again, whatever else it was, it was a good year for books. Between new releases, revisiting older selections with a book club or two, and a very rewarding set of reads for several proj­ects I’ve been hammering at – the Ancillary Review’s podcast, particularly – I was practically drowning in fascinating titles. For my year-end list, I decided to narrow it down (pain­fully, regretfully) to my top three choices  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-jake-casella-brookins/>
+
+---
+
+## 2025 Prix Bob Morane Finalists
+
+date: 2025-02-20, from: Locus Magazine
+
+<p>Finalists have been announced for the 2025 Prix Bob Morane, recognizing French-language works in the science fiction, fantasy, espionage, and thriller genres.</p>
+<div class="mynomorebulletlist">
+<p><strong>Romans traduit (Translated Novels)</strong></p>
+<ul>
+<li><strong>La colocataire (The Housemate)</strong>, Sarah Bailey, translated by Anna Durand (Mera)</li>
+<li><strong>Le sang des innocents (All the Sinners Bleed)</strong>, S.A. Cosby, translated by Pierre Szczenier (Sonatine)</li>
+<li><strong>Délivrées (The Violence)</strong>, Delilah S. Dawson, translated by Karine Lalechère (Sonatine)</li>
+<li><strong>Évanouis dans la nature </strong></li></ul></div> <a href="https://locusmag.com/2025/02/2025-prix-bob-morane-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-prix-bob-morane-finalists/>
+
+---
+
+## Waterstones Children’s Book Prize 2025 Shortlist Announced
+
+date: 2025-02-20, from: Locus Magazine
+
+<p>Shortlisted titles for the 2025 Waterstones Children&#8217;s Book Prize have been announced in the Illustrated Books, Younger Readers&#8217;, and Older Readers&#8217; categories. Titles and authors of genre interest include:</p>
+<div class="mynomorebulletlist">
+<p><strong>Illustrated Books</strong></p>
+<ul>
+<li>
+<div class="title-wrap"><strong>Gina Kaminski Saves the Wolf</strong>, Craig Barr-Green (Kane Miller)</div>
+</li>
+<li><strong>Mountain and Cloud,</strong> Jana Curll (Ladybird)</li>
+<li><strong>Dim Sum Palace</strong>, X. Fang (Tundra)</li>
+<li><strong>The Cafe at the Edge of the Woods</strong>, Mikey Please (Harper Collins)</li>
+</ul>
+<p><strong>Younger Readers&#8217;</strong></p>
+<ul>
+<li><strong>Secrets </strong></li></ul></div> <a href="https://locusmag.com/2025/02/waterstones-childrens-book-prize-2025-shortlist-announced/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/waterstones-childrens-book-prize-2025-shortlist-announced/>
+
+---
+
+## Sinkhole and Other Inexplicable Voids by Leyna Krow: Review by Ian Mond
+
+date: 2025-02-20, from: Locus Magazine
+
+<p><strong>Sinkhole and Other Inexplicable Voids</strong>, Leyna Krow (Penguin 978-0-59329-965-4, $19.00, 304pp, tp) January 2025.</p>
+<p>Leyna Krow’s terrific second collection, <strong>Sinkhole and Other Inexplicable Voids</strong>, assembles 16 stories that take an askew, sometimes surreal, frequently funny attitude to the physical and emotional bonds that bind us (and octopuses) together.</p>
+<p>“Sinkhole” is the collection’s title piece and has been optioned for a Hollywood adaptation, care of Jordan Peele and Issa  <a href="https://locusmag.com/2025/02/sinkhole-and-other-inexplicable-voids-by-leyna-krow-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/sinkhole-and-other-inexplicable-voids-by-leyna-krow-review-by-ian-mond/>
+
+---
+
+## Locus Bestsellers, February
+
+date: 2025-02-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for September include top titles: The Wood at Midwinter by Susanna Clarke (Bloomsbury US), Mistborn by Brandon Sanderson (Tor), </strong><strong>A Court of Thorns and Roses by Sarah J. Maas (Bloomsbury US), and The Book of Bill by Alex Hirsch (Hyperion Avenue)).</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>The Wood at Midwinter</strong>, Susanna Clarke (Bloomsbury US)
+2
+3
+
+
+2)
+<strong>Somewhere Beyond the Sea</strong>, TJ Klune </div> <a href="https://locusmag.com/2025/02/locus-bestsellers-february-5/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/locus-bestsellers-february-5/>
 
 ---
 

@@ -1,11 +1,383 @@
 ---
 title: science and technology
-updated: 2025-02-20 07:10:14
+updated: 2025-02-21 07:09:07
 ---
 
 # science and technology
 
-(date: 2025-02-20 07:10:14)
+(date: 2025-02-21 07:09:07)
+
+---
+
+## Hubble Spies a Spiral That May Be Hiding an Imposter
+
+date: 2025-02-21, from: NASA breaking news
+
+The sparkling spiral galaxy gracing this NASA/ESA Hubble Space Telescope image is UGC 5460, which sits about 60 million light-years away in the constellation Ursa Major. This image combines four different wavelengths of light to reveal UGC 5460’s central bar of stars, winding spiral arms, and bright blue star clusters. Also captured in the upper […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-that-may-be-hiding-an-imposter/>
+
+---
+
+## Experts race to extract intel from Black Basta internal chat leaks
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>Researchers say there&#39;s dissent in the ranks. Plus: An AI tool lets you have a go yourself at analysing the data</h4> <p>Hundreds of thousands of internal messages from the Black Basta ransomware gang were leaked by a Telegram user, prompting security researchers to bust out their best Russian translations post haste.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/experts_race_to_extract_intel/>
+
+---
+
+## HP ditches 15-minute wait time policy due to 'feedback'
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>It woz The Reg wot won it... or maybe just common sense prevailed among management</h4> <p>HP today abruptly ditched the mandatory 15-minute wait time that it imposed on customers dialling up its telephone-based support team due to &#34;initial feedback.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/hp_ditches_15_minute_wait_time_call_centers/>
+
+---
+
+## Hey programmers – is AI making us dumber?
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>If you don&#39;t need to think about easy questions, will you be able to answer complex questions?</h4> <p><strong>Opinion</strong>  I don&#39;t want to sound like an aging boomer, yet when I see junior programmers relying on AI tools like Copilot, Claude, or GPT for simple coding tasks, I wonder if they&#39;re doing themselves more harm than good.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/opinion_ai_dumber/>
+
+---
+
+## DIMM techies weren’t allowed to leave the building until proven to not be pilferers
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>Who knew a script could make RAM re-appear?</h4> <p><strong>On Call</strong>  Another Friday is upon us, and <i>The Register</i> understands some of you would rather not retain memories of the last week. That&#39;s why we offer another instalment of On Call, our reader-contributed column that revives your happier recollections of wreaking revenge on colleagues who caused you tech support trauma.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/on_call/>
+
+---
+
+## Microsoft is paywalling features in Notepad and Paint
+
+date: 2025-02-21, from: OS News
+
+There’s some bad news for Windows users who want to use all of the built-in features of the operating system and its integrated apps. Going forward, Microsoft is restricting features in two iconic apps, which you’ll need to unlock with a paid subscription. The two apps in question? Notepad and Paint.  Windows Insiders were previously able to use these app features free of charge. However, Microsoft is now making it necessary to have a Microsoft 365 subscription for full use of these apps. You’ll see a new overlay that informs you of this before use. In our case, however, the respective features were simply grayed out. ↫ Laura Pippig at PCWorld It&#8217;s only the &#8220;AI&#8221; features that are being paywalled here, so I doubt many people will care. What does feel unpleasent, though, is that the features are visible but greyed out, instead of being absent entirely until you log into Windows with an account that has a Microsogt 365 subscription with the &#8220;AI&#8221; stuff enabled. Now it just feels like the operating system you paid good money for &#8211; and yes, you do actually pay for Windows &#8211; is incomplete and badgering you for in-app purchases. The gameification of Windows continues. There&#8217;s also a y in the day, so we have another Ars Technica article detailing the long list of steps you need to take to make Windows suck just a little less. The article is long, and seems to grow longer every time Ars, or any other site for that matter, posts an updated version. I installed Windows 11 on my XPS 13 9370 a few weeks ago to see just how bad things had gotten, and the amount of work I had to do to make Windows 11 even remotely usable was insane. Even the installation alone &#8211; including all the updates &#8211; took several hours, compared to a full installation of, say, Fedora KDE, which, including updated, takes like 10 minutes to install on the same machine. I personally used WinScript to make the process of unfucking Windows 11 less cumbersome, and I can heartedly recommend it to anyone else forced to use Windows 11. Luckily for me, a brand new laptop is being delivered today, without an operating system preinstalled. Can&#8217;t wait to install Fedora KDE and be good to go in like 20 minutes after unboxing the thing. 
+
+<br> 
+
+<https://www.osnews.com/story/141773/microsoft-is-paywalling-features-in-notepad-and-paint/>
+
+---
+
+## As Amazon takes over the Bond franchise, we submit our scripts for the next flick
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>License To Kill -9 ... For Your iPhone Only ... AI Another Day ... The name&#39;s Bezos, Jeff Bezos</h4> <p>As part of its quest for world domination, Amazon has bought the creative rights to fictional British spy James Bond.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/amazon_bond_franchise_sold/>
+
+---
+
+## Chromium Ozone/Wayland: the last mile stretch
+
+date: 2025-02-21, from: OS News
+
+Lets start with some context, the project consists of implementing, shipping and maintaining native Wayland support in the Chromium project. Our team at Igalia has been leading the effort since it was first merged upstream back in 2016. For more historical context, there are a few blog posts and this amazing talk, by my colleagues Antonio Gomes and Max Ihlenfeldt, presented at last year’s Web Engines Hackfest. Especially due to the Lacros project, progresses on Linux Desktop has been slower over the last few years. Fortunately, the scenario changed since last year, when a new sponsor came up and made it possible to address most of the outstanding missing features and issues required to move Ozone Wayland to the finish line. ↫ Nick Yamane There still quite a bit of work left to do, but a lot of progress has been made. As usual, Nvidia setups are problematic, which is a recurring theme for pretty much anything Wayland-related. Aside from the usual Nvidia problems, a lot of work has been done on improving and fixing fractional scaling, adding support for the text-input-v3 protocol, reimplementing tab dragging using the proper Wayland protocol, and a lot more. They&#8217;re also working on session management, which is very welcome for Chrome/Chromium users as it will allow the browser to remember window positions properly between restarts. Work is also being done to get Chromium’s interactive UI tests infrastructure and code working with Wayland compositors, with a focus on GNOME/Mutter &#8211; no word on KDE&#8217;s Kwin, though. I hope they get the last wrinkles worked out quick. The most popular browser needs to support Wayland out of the box. 
+
+<br> 
+
+<https://www.osnews.com/story/141771/chromium-ozone-wayland-the-last-mile-stretch/>
+
+---
+
+## Ivanti endpoint manager can become endpoint ravager, thanks to quartet of critical flaws
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>PoC exploit code shows why this is a patch priority</h4> <p>Security engineers have released a proof-of-concept exploit for four critical Ivanti Endpoint Manager bugs, giving those who haven&#39;t already installed patches released in January extra incentive to revisit their to-do lists.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/ivanti_traversal_flaw_poc_exploit/>
+
+---
+
+## Lenovo isn't fussed by Trumpian tariffs or finding enough energy to run AI
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>Enterprise hardware biz produced record revenue, just $1M of profit, but execs think losses are behind it</h4> <p>Lenovo believes its enterprise hardware business is finally on track to achieve consistent profits, if its customers can secure sufficient energy to buy more AI servers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/lenovo_q3_2024/>
+
+---
+
+## Thailand ready to welcome 7,000 trafficked scam call center victims back from Myanmar
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>It comes amid a major crackdown on the abusive industry that started during COVID</h4> <p>Thailand is preparing to receive thousands of people rescued from scam call centers in Myanmar as the country launches a major crackdown on the pervasive criminal activity across its border.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/thailand_ready_to_welcome_7000/>
+
+---
+
+## National Science Foundation staff axed by Trump fear for US scientific future
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>An inside tale: Probation extended, tenure revoked, a scramble to merge research portfolios, and more</h4> <p><strong>Feature</strong>  With the National Science Foundation cutting staff to comply with President Trump&#39;s order for sweeping federal government layoffs, concerns are growing over the impact on America&#39;s role in scientific and technological research. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/nsf_staff_cut/>
+
+---
+
+## Linux royalty backs adoption of Rust for kernel code, says its rise is inevitable
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>Nobody wants memory bugs. Penguinistas continue debate on how to squish &#39;em</h4> <p><strong>Updated</strong>  Some Linux kernel maintainers remain unconvinced that adding Rust code to the open source project is a good idea, but its VIPs are coming out in support of the language&#39;s integration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/linux_c_rust_debate_continues/>
+
+---
+
+## Sols 4458-4460: Winter Schminter
+
+date: 2025-02-20, from: NASA breaking news
+
+Earth planning date: Tuesday, Feb. 18, 2025 During today’s unusual-for-MSL Tuesday planning day (because of the U.S. holiday on Monday), we planned activities under new winter heating constraints. Operating Curiosity on Mars requires attention to a number of factors — power, data volume, terrain roughness, temperature — that affect rover operability and safety. Winter means […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4458-4460-winter-schminter/>
+
+---
+
+## 1972 UNIX V2 “beta” resurrected from old tapes
+
+date: 2025-02-20, from: OS News
+
+There&#8217;s a number of backups of old DECtapes from Dennis Ritchie, which he gave to Warren Toomey in 1997. The tapes were eventually uploaded, and through analysis performed by Yufeng Gao, a lot of additional details, code, and software were recovered from them. A few days ago, Gao came back with the results from their analys of two more tapes, and on it, they found something quite special. Getting this recovered version to run was a bit of a challenge, and only aap&#8217;s PDP-11 emulator is capable of running it. To even get it to run in the first place, Gao had perform quite some intricate steps, but eventually he managed to build an image that can be downloaded and booted on aap&#8217;s PDP-11 emulator. The image in question, as well as some more details, can be found on the GitHub page. 
+
+<br> 
+
+<https://www.osnews.com/story/141769/1972-unix-v2-beta-resurrected-from-old-tapes/>
+
+---
+
+## Microsoft expands Copilot bug bounty targets, adds payouts for even moderate messes
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Said bugs &#39;can have significant implications&#39; – glad to hear that from Redmond</h4> <p>Microsoft is so concerned about security in its Copilot products for folks that it’s lifted bug bounty payments for moderate-severity vulnerabilities from nothing to a maximum of $5,000, and expanded the range of vulnerabilities it will pay people to find and report.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_copilot_bug_bounty_updated/>
+
+---
+
+## Oops, some of our customers' Power Pages-hosted sites were exploited, says Microsoft
+
+date: 2025-02-20, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>Don&#39;t think this is SaaS and you can relax: Redmond wants a few of you to check your websites</h4> <p>Microsoft has fixed a security flaw in its Power Pages website-building SaaS, after criminals got there first – and urged users to check their sites for signs of exploitation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_patch_power_pages/>
+
+---
+
+## GitLab and its execs sued again and again over 'misleading' AI hype, price hikes
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Bosses bragged about Duo Chat bot, buyers weren’t buying it – claim</h4> <p>For the third time in five months, GitLab or its execs have been sued over allegedly misleading investors about AI capabilities and demand.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/gitlab_thrice_sued/>
+
+---
+
+## Guiding Orion: Jorge Chong’s Mission to Advance Deep Space Exploration
+
+date: 2025-02-20, from: NASA breaking news
+
+Jorge Chong is helping shape the future of human spaceflight, one calculation at a time. As a project manager for TRON (Tracking and Ranging via Optical Navigation) and a guidance, navigation, and control (GNC) test engineer in the Aeroscience and Flight Mechanics Division, he is leading efforts to ensure the Orion spacecraft can navigate deep [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/guiding-orion-jorge-chongs-mission-to-advance-deep-space-exploration/>
+
+---
+
+## 60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection
+
+date: 2025-02-20, from: NASA breaking news
+
+Before Apollo astronauts set foot upon the Moon, much remained unknown about the lunar surface. While most scientists believed the Moon had a solid surface that would support astronauts and their landing craft, a few believed a deep layer of dust covered it that would swallow any visitors. Until 1964, no closeup photographs of the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/>
+
+---
+
+## 55 Years Ago: Preps for Apollo 13 and 14, Apollo 12 Crew on World Tour
+
+date: 2025-02-20, from: NASA breaking news
+
+With two months to go before flight, the Apollo 13 prime crew of James Lovell, Thomas Mattingly, Fred Haise, and backups John Young, John Swigert, and Charles Duke continued to train for the 10-day mission planned to land in the Fra Mauro highlands region of the Moon. Engineers continued to prepare the Saturn V rocket [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/55-years-ago-preps-for-apollo-13-and-14-apollo-12-crew-on-world-tour/>
+
+---
+
+## NASA Invites Media to Simulated Mars Habitat Before Next Mission
+
+date: 2025-02-20, from: NASA breaking news
+
+Media are invited to visit NASA’s simulated Mars habitat on Monday, March 10, at the agency’s Johnson Space Center in Houston. The simulation will help prepare humanity for future missions to the Red Planet. This is the second of three missions as part of NASA’s CHAPEA (Crew Health and Performance Exploration Analog), set to begin [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-simulated-mars-habitat-before-next-mission/>
+
+---
+
+## In Memoriam: Jeff Dozier [1944–2024]
+
+date: 2025-02-20, from: NASA breaking news
+
+Jeff Dozier, an environmental scientist, snow hydrologist, researcher, academic – and former Earth Observing System Project Scientist – died on November 17, 2024. Jeff’s research focused on snow hydrology and biogeochemistry in mountain environments and addressed the role of stored and melting snow in the hydrologic cycle as well as the economic and social impact […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/in-memoriam-jeff-dozier-1944-2024/>
+
+---
+
+## In Memoriam: Berrien Moore III [1941–2024]
+
+date: 2025-02-20, from: NASA breaking news
+
+Berrien Moore III, Dean of the College of Atmospheric and Geographic Sciences at the University of Oklahoma (OU), director of the National Weather Center in Norman, OK, and Vice President for Weather and Climate Programs, died on December 17, 2024. Berrien earned an undergraduate degree from the University of North Carolina in 1963 and a doctorate […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/in-memoriam-berrien-moore-iii-1941-2024/>
+
+---
+
+## Laptop makers stalled on repairability improvements
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Apple, Dell made some progress, but MacBooks are still the worst to crack open, says PIRG</h4> <p>The right to repair movement has gained momentum, yet laptop makers have largely stalled on improving repairability.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/laptop_manufacturers_repairability/>
+
+---
+
+## Euro cloud biz trials 'server blades in a cold box' system
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Hot air or a 50% energy saving? Exoscale datacenter runs proof-of-concept to test veracity of Digger&#39;s claims</h4> <p>A1 Digital is testing liquid cooling tech for power-intensive AI servers that is claimed to save 50 percent of the energy previously required for cooling, doing away entirely with the need for air conditioning.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/diggers_exoscale_liquid_cooling/>
+
+---
+
+## Artemis II Rocket Booster Stacking Complete
+
+date: 2025-02-20, from: NASA breaking news
+
+Engineers at NASA’s Kennedy Space Center in Florida completed stacking the twin SLS (Space Launch System) solid rocket boosters – seen in this Feb. 19, 2025, photo – inside the Vehicle Assembly Building for the agency’s&#160;Artemis II&#160;crewed test flight around the Moon. During stacking operations, which&#160;began&#160;Nov. 20, 2024, technicians used a massive overhead crane to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/artemis-ii-rocket-booster-stacking-complete/>
+
+---
+
+## US minerals company says crooks broke into email and helped themselves to $500K
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>A painful loss for young company that&#39;s yet to generate revenue</h4> <p>A NASDAQ-listed US minerals company says cybercriminals broke into its systems on Valentine&#39;s Day and paid themselves around $500,000 – money earmarked for a vendor.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/niocorp_bec_scam/>
+
+---
+
+## NASA Stennis Teams Install New Production RS-25 Engine for Upcoming Hot Fire
+
+date: 2025-02-20, from: NASA breaking news
+
+NASA marked a key milestone Feb. 18 with installation of RS-25 engine No. E20001, the first new production engine to help power the SLS (Space Launch System) rocket on future Artemis missions to the Moon. The engine, built by lead SLS engines contractor L3Harris (formerly Aerojet Rocketdyne), was installed on the Fred Haise Test Stand [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/stennis-teams-install-new-production-rs-25-engine/>
+
+---
+
+## Microsoft Azure faceplants in Norway, taking government services with it
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Locals see red as public cloud&#39;s service health dashboard shows green</h4> <p>Norwegians fell victim to a prolonged Microsoft Azure outage today, which impacted businesses and took down multiple government websites delivering online services to citizens.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/microsoft_azure_outage_norway/>
+
+---
+
+## NASA's on-again, off-again job cuts – what's the plan?
+
+date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+
+<h4>Lucky there isn&#39;t an asteroid headed for Earth for which a demoralized space agency might need to mount a redirect mission</h4> <p><strong>Comment</strong>  The US space agency, NASA, is famous for looking to the future. However, the fiasco of the last few days has cast doubt on the present, let alone what the coming weeks, months, or years might hold.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/20/nasa_comment_piece/>
 
 ---
 
@@ -47,9 +419,9 @@ date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
 
 ## HP deliberately adds 15 minutes waiting time for telephone support calls
 
-date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
+date: 2025-02-20, updated: 2025-02-21, from: The Register (UK I.T. News)
 
-<h4>Longer wait time designed to push print or PC consumers to digital support channels, sorry, &#39;self-solve&#39;</h4> <p>HP is trying to force consumer PC and print customers to use digital support channels by setting a minimum 15-minute wait time for anyone that phones the call center to get answers to troublesome queries.…</p> 
+<h4>Stalling tactics designed to push print or PC users to online support, sorry, &#39;self-solve&#39;</h4> <p>HP Inc is trying to force consumer PC and print customers to use online and other digital support channels by setting a minimum 15-minute wait time for anyone that phones the call center to get answers to troublesome queries.…</p> 
 
 <br> 
 
@@ -239,7 +611,7 @@ One semester as a NASA Pathways intern was enough to inspire Portia Keyes to sig
 
 ## Microsoft shows off novel quantum chip that can scale to 'a million qubits'. So far: Eight
 
-date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+date: 2025-02-19, updated: 2025-02-20, from: The Register (UK I.T. News)
 
 <h4>Not just a matter of time but a matter of Majorana fermions, too</h4> <p>Microsoft says it has developed a quantum-computing chip made with novel materials that is expected to enable the development of quantum computers for meaningful, real-world applications within – you guessed it – years rather than decades.…</p> 
 

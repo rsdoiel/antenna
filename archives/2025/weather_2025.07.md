@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-02-20 07:10:14
+updated: 2025-02-21 07:09:08
 ---
 
 # weather
 
-(date: 2025-02-20 07:10:14)
+(date: 2025-02-21 07:09:08)
 
 ---
 
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
 
-date: 2025-02-20, from: Eastern Pacific Basin GIS Data
+date: 2025-02-21, from: Central Pacific Basin Tropical Cyclones
 
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
 
 <br> 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Thu Feb 20 12:55:01 UTC 2025
+## SPC - No watches are valid as of Fri Feb 21 14:24:02 UTC 2025
 
-date: 2025-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Feb 20 12:55:01 UTC 2025. 
+No watches are valid as of Fri Feb 21 14:24:02 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Thu Feb 20 12:55:01 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Thu Feb 20 12:55:01 UTC 2025
+## SPC - No MDs are in effect as of Fri Feb 21 14:24:02 UTC 2025
 
-date: 2025-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Feb 20 12:55:01 UTC 2025. 
+No Mesoscale Discussions are in effect as of Fri Feb 21 14:24:02 UTC 2025. 
 
 <br> 
 
@@ -45,33 +45,42 @@ No Mesoscale Discussions are in effect as of Thu Feb 20 12:55:01 UTC 2025.
 
 ---
 
-## SPC Feb 20, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Feb 21, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-02-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-21, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0616 AM CST Thu Feb 20 2025
+0631 AM CST Fri Feb 21 2025
 
-Valid 201300Z - 211200Z
+Valid 211300Z - 221200Z
 
 ...NO THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Thunderstorms are not expected through tonight.
+The risk for thunderstorms appears negligible across the U.S. today
+through tonight.
 
-...Synopsis and Discussion...
-Surface high pressure will remain over much of the central CONUS
-today, as a cold front clears south FL and the Keys. Dry and/or
-stable conditions will prevail for a large majority of the CONUS,
-with minimal thunderstorm potential. One possible exception may be
-across parts of the central Rockies as a shortwave trough moves over
-this region through the afternoon. Still, with limited moisture
-present, overall thunderstorm potential should remain less than 10
-percent across this region.
+...Synopsis...
+Early morning surface analysis places the center of an expansive
+area of high pressure over MO. This area of high pressure (and its
+associated continental arctic airmass) is gradually expected to
+shift eastward throughout the day as shortwave trough progresses
+across the central Plains and into the Mid MS Valley. This evolution
+will maintain low-level offshore trajectories, with the resulting
+stable conditions precluding thunderstorm development. The only
+exception is just off the South Texas coast, where surface
+cyclogenesis is anticipated ahead of a second shortwave trough
+forecast to move southward through AZ. Increasing low-level moisture
+convergence is anticipated near this low, with warm-air advection
+increasing throughout its eastern periphery as well. However, this
+low is expected to remain well offshore, keeping any deep convection
+over the western Gulf. Warm temperatures aloft will preclude
+thunderstorms within any warm-air advection showers that do make it
+ashore.
 
-..Gleason/Dean.. 02/20/2025
+..Mosier/Grams.. 02/21/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

@@ -1,11 +1,711 @@
 ---
 title: pacific
-updated: 2025-02-20 07:10:13
+updated: 2025-02-21 07:09:07
 ---
 
 # pacific
 
-(date: 2025-02-20 07:10:13)
+(date: 2025-02-21 07:09:07)
+
+---
+
+## FSM finally sets up the VA office 
+
+date: 2025-02-21, from: Pacific Island Times
+
+In small meaningful ways, the Federated States of Micronesia has stabbed at recognizing the efforts of young men and women in the U.S. Arms  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/fsm-finally-sets-up-the-va-office>
+
+---
+
+## Hawaii attorney general at forefront of fight against Trump orders
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>A team of deputy attorneys general are coordinating legal counterattacks to President Donald Trump&#8217;s &#8220;blatantly unconstitutional&#8221; efforts to reshape funding for states and how the federal government manages its citizens.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/hawaii-news/hawaii-attorney-general-at-forefront-of-fight-against-trump-orders/>
+
+---
+
+## Swell legislation: Bills would provide funding for high school surf teams
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>Farrington High School&#8217;s Matthew &#8220;Matt&#8221; Legg, a 17-year-old junior, didn&#8217;t know how to swim growing up in Kalihi but finally learned when he joined Farrington&#8217;s surf team, where his teammates and coach enthusiastically support two legislative bills that would provide funding for high school surf teams across the islands where the sport was born.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/hawaii-news/swell-legislation-bills-would-provide-funding-for-high-school-surf-teams/>
+
+---
+
+## Senate confirms Patel as next FBI director
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate on Thursday narrowly confirmed Kash Patel as the next director of the FBI, installing a hard-line critic of the bureau whose unwavering loyalty to President Donald Trump has raised questions over the independence of the nation&#8217;s most powerful law enforcement agency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/senate-confirms-patel-as-next-fbi-director/>
+
+---
+
+## IRS fires 6,000 employees as Trump slashes US government
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>A tearful executive at the U.S. Internal Revenue Service told staffers on Thursday that about 6,000 employees would be fired, a person familiar with the matter said, in a move that would eliminate roughly 6% of the agency&#8217;s workforce in the midst of the busy tax-filing season.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/irs-fires-6000-employees-as-trump-slashes-us-government/>
+
+---
+
+## Ohio man accused of 2021 slaying was living in Puna
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>A suspect in a 2021 double homicide in southeast Ohio appeared Thursday in Hilo Circuit Court after having been arrested Tuesday by the Hawaii Police Department on an extradition warrant.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/hawaii-news/ohio-man-accused-of-2021-slaying-was-living-in-puna/>
+
+---
+
+## Center offers free talk on ‘The Instant Stress Reset’
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>The nonprofit Ku&#8216;ikahi Mediation Center will host a free talk on March 20 as part of its &#8220;Finding Solutions, Growing Peace&#8221; Brown Bag Lunch Series.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/community/center-offers-free-talk-on-the-instant-stress-reset/>
+
+---
+
+## Hazard mitigation plan meetings next week
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Civil Defense Agency invites residents to upcoming meetings for the 2025 Multi-Hazard Mitigation Plan update.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/community/hazard-mitigation-plan-meetings-next-week/>
+
+---
+
+## DWS invites students to enter keiki poster contest
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Department of Water Supply County is inviting young artists to showcase their creativity and knowledge by entering its 7th Annual Keiki Water Conservation Poster Contest.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/community/dws-invites-students-to-enter-keiki-poster-contest/>
+
+---
+
+## Wendy Hensel visits UH Hilo
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>University of Hawaii President Wendy Hensel visited the UH Hilo on Tuesday, her first visit to the campus since taking office on Jan. 1.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/community/wendy-hensel-visits-uh-hilo/>
+
+---
+
+## Two-day art tour this weekend in W. Hawaii
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>The 10th annual SOKO Artists Studio Tour will be held from 9 a.m. to 4 p.m. on Saturday and Sunday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/community/two-day-art-tour-this-weekend-in-w-hawaii/>
+
+---
+
+## News in brief February 21
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>McConnell announces &#0010;he won&#8217;t seek reelection</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/news-in-brief-february-21/>
+
+---
+
+## Netanyahu vows revenge as Hamas hands over bodies of youngest hostages
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Prime Minister Benjamin Netanyahu vowed revenge on Hamas on Thursday after the group released what it said were the bodies of four Israeli hostages, including the infant Kfir Bibas and his four-year-old brother Ariel, the youngest of those abducted during the October 7, 2023 attack.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/netanyahu-vows-revenge-as-hamas-hands-over-bodies-of-youngest-hostages/>
+
+---
+
+## Trump administration cuts duration of deportation protections for 521,000 Haitians
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Homeland Security Secretary Kristi Noem on Thursday cut the duration of deportation protections and work permits for 521,000 Haitians covered by a temporary program so that they will expire in August, a Department of Homeland Security spokesperson said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/trump-administration-cuts-duration-of-deportation-protections-for-521000-haitians/>
+
+---
+
+## Under Trump, DC faces more federal control, fewer federal workers
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>Mass layoffs have begun across the city&#8217;s largest employer, tipping economic forecasts for the Washington, D.C., region toward recession. Real estate agents are bracing for a housing slump. And the existence of the municipal government itself, which manages the day-to-day affairs of a city with more residents than some U.S. states have, is under direct threat.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/under-trump-dc-faces-more-federal-control-fewer-federal-workers/>
+
+---
+
+## Hegseth orders Pentagon to draw up plans for cuts
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Defense Secretary Pete Hegseth has ordered senior military and Defense Department officials to draw up plans to cut 8% from the defense budget over each of the next five years, officials said Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/hegseth-orders-pentagon-to-draw-up-plans-for-cuts/>
+
+---
+
+## Europe’s new reality: Trump may not quit NATO, but he’s already undercutting it
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; In his first term President Donald Trump episodically threatened to pull out of NATO, removing the United States as the linchpin of the most successful military alliance in modern times. In his second term, he is trying a different approach: hollowing it out from within.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/europes-new-reality-trump-may-not-quit-nato-but-hes-already-undercutting-it/>
+
+---
+
+## US vaccine advisory meeting postponed after Kennedy takes top health job
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>A meeting of U.S. vaccine advisers set for late February has been postponed, a federal official confirmed on Thursday, raising new uncertainty about the Trump administration&#8217;s vaccine policy after Robert F. Kennedy Jr.&#8217;s installation atop the nation&#8217;s health bureaucracy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/us-vaccine-advisory-meeting-postponed-after-kennedy-takes-top-health-job/>
+
+---
+
+## Fox News, CNN and other news outlets urge White House to drop ban on the AP
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>Dozens of major news organizations, including CNN, The Washington Post and Fox News, wrote to the White House this week urging the Trump administration to immediately lift its ban on The Associated Press, which had been prohibited from attending a number of official press events over the past week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/fox-news-cnn-and-other-news-outlets-urge-white-house-to-drop-ban-on-the-ap/>
+
+---
+
+## Senate Re-confirm Obichang for Minister
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="600" height="839" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/charles-obichang.jpg?fit=600%2C839&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/charles-obichang.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/charles-obichang.jpg?resize=215%2C300&amp;ssl=1 215w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/charles-obichang.jpg?resize=400%2C559&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/charles-obichang.jpg?fit=600%2C839&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75769" data-permalink="https://islandtimes.org/cyberattacks-on-the-rise-in-palau-whipps-stresses-need-for-stronger-recovery-systems/charles-obichang/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/charles-obichang.jpg?fit=600%2C839&amp;ssl=1" data-orig-size="600,839" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="charles obichang" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/charles-obichang.jpg?fit=215%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/charles-obichang.jpg?fit=600%2C839&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang Ngerulmud, Palau – Yesterday at 2pm during a reconsideration vote, the Senate voted to confirm, in essence approving the presidential re-appointment of Charles Iyar Obichang to continue serving as Minister of Public Infrastructure and Industries (MPII). Obichang garnered votes of 14 “yes” and 1 “No” from the senators who were all [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-re-confirm-obichang-for-minister/">Senate Re-confirm Obichang for Minister</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senate-re-confirm-obichang-for-minister/>
+
+---
+
+## Cyberattacks on the Rise in Palau, Whipps Stresses Need for Stronger Recovery Systems
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="1024" height="584" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?fit=1024%2C584&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?resize=300%2C171&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?resize=1024%2C584&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?resize=768%2C438&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?resize=1200%2C684&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?resize=400%2C228&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?resize=706%2C402&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?fit=1024%2C584&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75770" data-permalink="https://islandtimes.org/cyberattacks-on-the-rise-in-palau-whipps-stresses-need-for-stronger-recovery-systems/mhhs-minister-it/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?fit=1249%2C712&amp;ssl=1" data-orig-size="1249,712" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1739959905&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;200&quot;,&quot;shutter_speed&quot;:&quot;0.0055&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="MHHS Minister &#038; IT" data-image-description="" data-image-caption="&lt;p&gt;Minister of Health &#038; Vice President Raynold Oilouch and MHHS IT Specialist Smau providing updates on recent ransomware attack of MHHS systems at press conference on Wednesday, Feb. 19,&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?fit=300%2C171&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MHHS-Minister-IT.jpg?fit=780%2C445&amp;ssl=1" /></figure>
+<p>KOROR, Palau – President Surangel Whipps Jr. warned that cyberattacks targeting government agencies are becoming increasingly frequent and stressed the need for robust recovery systems to mitigate their impact. &#8220;It’s going to happen, and all we can do is mitigate and minimize,&#8221; Whipps said, emphasizing the importance of cybersecurity resilience. Early this week, the Ministry [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cyberattacks-on-the-rise-in-palau-whipps-stresses-need-for-stronger-recovery-systems/">Cyberattacks on the Rise in Palau, Whipps Stresses Need for Stronger Recovery Systems</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/cyberattacks-on-the-rise-in-palau-whipps-stresses-need-for-stronger-recovery-systems/>
+
+---
+
+## Lawmakers Push to Ease Ban on Reef Fish Exports for Personal Use
+
+date: 2025-02-21, from: Island Times
+
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — The Palau Senate is once again considering a proposal to lift the ban on reef fish exports, introducing a bill that would allow limited overseas shipments of certain species for personal use. Senate Bill 12-14, introduced during a recent session, seeks to permit Palauan citizens to export up [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/lawmakers-push-to-ease-ban-on-reef-fish-exports-for-personal-use/">Lawmakers Push to Ease Ban on Reef Fish Exports for Personal Use</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/lawmakers-push-to-ease-ban-on-reef-fish-exports-for-personal-use/>
+
+---
+
+## Police confirm Johannes’ death as homicide, offer $5,000 reward for information
+
+date: 2025-02-21, from: Island Times
+
+<p>KOROR, Palau — Authorities have confirmed the death of Tellames Johannes, a security guard at the Koror State Animal Center, as a homicide. The Bureau of Public Safety issued a flyer on Tuesday offering a $5,000 reward for information leading to the arrest and conviction of those responsible. Johannes was found dead early on Oct. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/police-confirm-johannes-death-as-homicide-offer-5000-reward-for-information/">Police confirm Johannes’ death as homicide, offer $5,000 reward for information</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/police-confirm-johannes-death-as-homicide-offer-5000-reward-for-information/>
+
+---
+
+## Ngatpang School seeks donations from the Senate
+
+date: 2025-02-21, from: Island Times
+
+<p>Ngatpang State is seeking assistance from lawmakers to secure donations for chairs and computers, among other necessities for the school.&#160; In a letter addressed to Senate President Hokkons Baules, the Health and Education Committee of Ngatpang State highlighted the dire condition of the chairs and desks in the schools, which are falling apart and in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngatpang-school-seeks-donations-from-the-senate/">Ngatpang School seeks donations from the Senate </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngatpang-school-seeks-donations-from-the-senate/>
+
+---
+
+## Retirees Association of Palau forms to advocate for Pension Security
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="1024" height="458" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?fit=1024%2C458&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?resize=300%2C134&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?resize=1024%2C458&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?resize=768%2C344&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?resize=1200%2C537&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?resize=400%2C179&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?resize=706%2C316&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?fit=1024%2C458&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75757" data-permalink="https://islandtimes.org/retirees-association-of-palau-forms-to-advocate-for-pension-security/pensioners-group/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?fit=1249%2C559&amp;ssl=1" data-orig-size="1249,559" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Pensioners Group" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?fit=300%2C134&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Pensioners-Group.jpeg?fit=780%2C349&amp;ssl=1" /></figure>
+<p>By: Eoghan Olkeriil Ngirudelsang KOROR, Palau — A newly established group, the Retirees Association of Palau, has been officially registered and chartered this year with the goal of advocating for improvements to the country’s civil service pension program. During its public launch on Feb. 17 via a televised talk show, association leaders stated that membership [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/retirees-association-of-palau-forms-to-advocate-for-pension-security/">Retirees Association of Palau forms to advocate for Pension Security</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/retirees-association-of-palau-forms-to-advocate-for-pension-security/>
+
+---
+
+## Palauan students come to UOG for much more than Education
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="600" height="551" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/p3.jpg?fit=600%2C551&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/p3.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/p3.jpg?resize=300%2C276&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/p3.jpg?resize=400%2C367&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/p3.jpg?fit=600%2C551&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75754" data-permalink="https://islandtimes.org/75752-2/p3-19/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/p3.jpg?fit=600%2C551&amp;ssl=1" data-orig-size="600,551" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="p3" data-image-description="" data-image-caption="&lt;p&gt;Ngirutang smiling for a photo.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/p3.jpg?fit=300%2C276&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/p3.jpg?fit=600%2C551&amp;ssl=1" /></figure>
+<p>Alayna Kerbil Alonz, The Triton’s Call Feb 20, 2025- Far from the challenges of life in Palau, University of Guam junior O’Lani Ngirutang’s desire to rise from the comfort and security of home and establish a career against a confusing and volatile economy has never felt stronger. Coming from the island of Palau about 1,000 [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/75752-2/">Palauan students come to UOG for much more than Education</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/75752-2/>
+
+---
+
+## Peace Winds Japan, Palau conduct Health Screening Outreach to the Southwest Islands
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="720" height="480" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250211_%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%A8%E3%81%B2%E3%82%8D%E3%81%AE.jpg?fit=720%2C480&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75748" data-permalink="https://islandtimes.org/peace-winds-japan-palau-conduct-health-screening-outreach-to-the-southwest-islands/20250211_%e6%82%a3%e8%80%85%e3%81%95%e3%82%93%e3%81%a8%e3%81%b2%e3%82%8d%e3%81%ae/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250211_%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%A8%E3%81%B2%E3%82%8D%E3%81%AE.jpg?fit=720%2C480&amp;ssl=1" data-orig-size="720,480" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250211_患者さんとひろの" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250211_%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%A8%E3%81%B2%E3%82%8D%E3%81%AE.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/20250211_%E6%82%A3%E8%80%85%E3%81%95%E3%82%93%E3%81%A8%E3%81%B2%E3%82%8D%E3%81%AE.jpg?fit=720%2C480&amp;ssl=1" /></figure>
+<p>February 16, 2025, Peace Winds Japan, Palau Office concluded a 7 days Health Screening outreach program to the Southwest Islands. The health screening was conducted at Sonsorol State, Pulo Anna Island, and Hotohobei State and Helen’s Reef. For this outreach program, Kensing II set out on a journey from February 10 – 16, 2025 with [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/peace-winds-japan-palau-conduct-health-screening-outreach-to-the-southwest-islands/">Peace Winds Japan, Palau conduct Health Screening Outreach to the Southwest Islands</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/peace-winds-japan-palau-conduct-health-screening-outreach-to-the-southwest-islands/>
+
+---
+
+## Japan and Palau celebrate the 65th Birthday of His Majesty the Emperor
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="600" height="679" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/65th-Emperor-Birthday.jpg?fit=600%2C679&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/65th-Emperor-Birthday.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/65th-Emperor-Birthday.jpg?resize=265%2C300&amp;ssl=1 265w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/65th-Emperor-Birthday.jpg?resize=400%2C453&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/65th-Emperor-Birthday.jpg?fit=600%2C679&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75743" data-permalink="https://islandtimes.org/japan-and-palau-celebrate-the-65th-birthday-of-his-majesty-the-emperor/65th-emperor-birthday/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/65th-Emperor-Birthday.jpg?fit=600%2C679&amp;ssl=1" data-orig-size="600,679" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="65th Emperor Birthday." data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/65th-Emperor-Birthday.jpg?fit=265%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/65th-Emperor-Birthday.jpg?fit=600%2C679&amp;ssl=1" /></figure>
+<p>Koror, Palau – February 17, 2025 – The Embassy of Japan hosted a grand reception at Palasia Hotel to celebrate the 65th birthday of His Majesty the Emperor of Japan, reaffirming the strong and enduring friendship between Japan and Palau. The event was attended by a distinguished gathering, including His Excellency President Surangel Whipps Jr., [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/japan-and-palau-celebrate-the-65th-birthday-of-his-majesty-the-emperor/">Japan and Palau celebrate the 65th Birthday of His Majesty the Emperor</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/japan-and-palau-celebrate-the-65th-birthday-of-his-majesty-the-emperor/>
+
+---
+
+## Ngaraard State Government harvested its’ first farmed sea cucumber
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="600" height="450" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?fit=600%2C450&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?fit=600%2C450&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75739" data-permalink="https://islandtimes.org/ngaraard-state-government-harvested-its-first-farmed-sea-cucumber/c-10/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?fit=600%2C450&amp;ssl=1" data-orig-size="600,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="c" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/c-1.jpg?fit=600%2C450&amp;ssl=1" /></figure>
+<p>On February 18, 2025, the first ever harvest and release cage farmed sea cucumbers in Palau was guided by the Taiwan Technical Mission (TTM) in Ngaraard State. TTM has been cooperating with the Bureau of Fisheries (BOF, MAFE) and the Ngaraard State Government to conduct this project since 2024. The Ngaraard State Governor, Sharp Sakuma, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngaraard-state-government-harvested-its-first-farmed-sea-cucumber/">Ngaraard State Government harvested its’ first farmed sea cucumber</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngaraard-state-government-harvested-its-first-farmed-sea-cucumber/>
+
+---
+
+## Palau takes major step towards developing National Migration Policy
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="1024" height="428" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?fit=1024%2C428&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?resize=300%2C125&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?resize=1024%2C428&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?resize=768%2C321&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?resize=1200%2C502&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?resize=400%2C167&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?resize=706%2C295&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?fit=1024%2C428&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75734" data-permalink="https://islandtimes.org/palau-takes-major-step-towards-developing-national-migration-policy/group-photo-jpeg/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?fit=1249%2C522&amp;ssl=1" data-orig-size="1249,522" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Group Photo &#8211; JPEG" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?fit=300%2C125&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Group-Photo-JPEG.jpg?fit=780%2C326&amp;ssl=1" /></figure>
+<p>Malakal – The Government of Palau, with technical assistance from the International Organization for Migration (IOM), has made significant progress in creating the country’s first national migration policy. On February 6-7, 2025, stakeholders convened in Malakal to review findings from a research study on Palau&#8217;s migration context. The study, conducted by IOM and commissioned by [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-takes-major-step-towards-developing-national-migration-policy/">Palau takes major step towards developing National Migration Policy</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-takes-major-step-towards-developing-national-migration-policy/>
+
+---
+
+**@Island Times** (date: 2025-02-21, from: Island Times)
+
+<figure><img width="600" height="354" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_1808-rev.jpg?fit=600%2C354&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_1808-rev.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_1808-rev.jpg?resize=300%2C177&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_1808-rev.jpg?resize=400%2C236&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_1808-rev.jpg?fit=600%2C354&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75731" data-permalink="https://islandtimes.org/75730-2/img_1808-rev/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_1808-rev.jpg?fit=600%2C354&amp;ssl=1" data-orig-size="600,354" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone SE (3rd generation)&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1739874493&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;3.99&quot;,&quot;iso&quot;:&quot;32&quot;,&quot;shutter_speed&quot;:&quot;0.002865329512894&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_1808 rev" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_1808-rev.jpg?fit=300%2C177&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_1808-rev.jpg?fit=600%2C354&amp;ssl=1" /></figure>
+<p>Groundbreaking Ceremony for New Sanitary Facility at Kokusai Park On February 18, 2025, the Ngatpang State Government, led by Honorable Jersey Iyar, hosted a groundbreaking ceremony for a new sanitary facility to be built at Kokusai Park. The event was attended by Rebelkuul Felix Osilek, Rubeang Hiromi Nabeyama and the Ngaimis, Hon. Speaker of Ngatpang [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/75730-2/"></a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/75730-2/>
+
+---
+
+## Palau EQPB laboratory re-certified
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="1024" height="973" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?fit=1024%2C973&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?resize=300%2C285&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?resize=1024%2C973&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?resize=768%2C730&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?resize=1200%2C1140&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?resize=400%2C380&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?resize=706%2C671&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?fit=1024%2C973&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75728" data-permalink="https://islandtimes.org/palau-eqpb-laboratory-re-certified-3/palau-eqpb_lab-recertification_02-13-2025/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?fit=1249%2C1187&amp;ssl=1" data-orig-size="1249,1187" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy A25 5G&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1739455339&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;4&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.02&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Palau EQPB_Lab Recertification_02.13.2025" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?fit=300%2C285&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Palau-EQPB_Lab-Recertification_02.13.2025.jpg?fit=780%2C741&amp;ssl=1" /></figure>
+<p>(Koror, 18 February 2025) – The US Freely Associated States Laboratory Certification Program, has re-certified the Palau Environmental Quality Protection Board Laboratory for analysis of drinking water using the Colilert® method, and marine and other surface water samples using the Enterolert™ method.&#160; The certification is effective until 2027, provisionally.&#160; During the re-certification audit and training, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-eqpb-laboratory-re-certified-3/">Palau EQPB laboratory re-certified</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-eqpb-laboratory-re-certified-3/>
+
+---
+
+## PICRC launches 2025 reef fish stock surveys across Palau
+
+date: 2025-02-21, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75725" data-permalink="https://islandtimes.org/picrc-launches-2025-reef-fish-stock-surveys-across-palau/img_7078/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?fit=1249%2C937&amp;ssl=1" data-orig-size="1249,937" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="IMG_7078" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/IMG_7078.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>This February, the Palau International Coral Reef Center (PICRC) began its nationwide reef fish stock surveys. These crucial efforts are conducted every two years to monitor populations of protected and commercially important fish species and help inform national fisheries management recommendations. PICRC research team is surveying 94 sites across the country, covering different marine habitats. [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-launches-2025-reef-fish-stock-surveys-across-palau/">PICRC launches 2025 reef fish stock surveys across Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-launches-2025-reef-fish-stock-surveys-across-palau/>
+
+---
+
+## Asia-Pacific falling behind on sustainable development and climate targets
+
+date: 2025-02-21, from: Island Times
+
+<p>BANGKOK (UN NEWS CENTRE) &#8212; The Asia-Pacific region is significantly off track in achieving the Sustainable Development Goals (SDGs), with most targets either stalled or off pace – despite ongoing efforts, according to a new UN report. The 2025 SDG Progress Report from the UN Economic and Social Commission for Asia and the Pacific (ESCAP) [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/asia-pacific-falling-behind-on-sustainable-development-and-climate-targets/">Asia-Pacific falling behind on sustainable development and climate targets</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/asia-pacific-falling-behind-on-sustainable-development-and-climate-targets/>
+
+---
+
+## Chinese helicopter flies within 3m of Philippine government plane in South China Sea
+
+date: 2025-02-21, from: Island Times
+
+<p>In short: (ABC-Australia) The Philippine coast guard says a Chinese navy helicopter flew &#8216;dangerously&#8217; close to a government aircraft patrolling a disputed section of the South China Sea.&#160; It is the second incident with foreign aircraft and the Chinese military in a fortnight. The Philippine government said it would file a formal diplomatic protest over [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/chinese-helicopter-flies-within-3m-of-philippine-government-plane-in-south-china-sea/">Chinese helicopter flies within 3m of Philippine government plane in South China Sea</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/chinese-helicopter-flies-within-3m-of-philippine-government-plane-in-south-china-sea/>
+
+---
+
+## Hawaiʻi astronomers track asteroid 2024 YR4, impact probability decreases
+
+date: 2025-02-21, from: University of Hawaiʻi News
+
+<p>A <abbr>UH</abbr> telescope discovered the &#8220;city-killer&#8221; size asteroid in December.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/20/hawaii-astronomers-asteroid-impact-probability-decreases/">Hawaiʻi astronomers track asteroid 2024 <abbr>YR</abbr>4, impact probability decreases</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/20/hawaii-astronomers-asteroid-impact-probability-decreases/>
+
+---
+
+## Marshallese teen heroes
+
+date: 2025-02-21, from: The Husk
+
+Weekender #53 
+
+<br> 
+
+<https://thehusk.substack.com/p/marshallese-teen-heroes>
+
+---
+
+## UH Mānoa earns highest national research designation
+
+date: 2025-02-21, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa far exceeded the minimum requirements, according to data from two national surveys.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/20/uh-manoa-research-one-designation/"><abbr>UH</abbr> Mānoa earns highest national research designation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/20/uh-manoa-research-one-designation/>
+
+---
+
+## Study: Ocean warming to take its toll on Pacific islands' tuna industry
+
+date: 2025-02-20, from: Pacific Island Times
+
+Pacific island nations, whose economies rely on tuna, are facing a 10 to 30 percent harvest decline by 2050 due to climate-related fish migr 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/study-ocean-warming-to-take-its-toll-on-pacific-islands-tuna-industry>
+
+---
+
+## Windward CC expands Hawaiian studies to Arizona prison
+
+date: 2025-02-20, from: University of Hawaiʻi News
+
+<p>Saguaro Correctional Center inmates from <span aria-label="Hawaii">Hawai&#699;i</span> are taking classes from Windward <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/20/windward-cc-hawaiian-studies-arizona-prison/">Windward <abbr>CC</abbr> expands Hawaiian studies to Arizona prison</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/20/windward-cc-hawaiian-studies-arizona-prison/>
+
+---
+
+## 2025 UH football schedule announced; Stanford, Arizona among opponents
+
+date: 2025-02-20, from: University of Hawaiʻi News
+
+<p>The Rainbow Warriors will play a 12-game schedule for the second consecutive year.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/20/2025-uh-football-schedule/">2025 <abbr>UH</abbr> football schedule announced; Stanford, Arizona among opponents</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/20/2025-uh-football-schedule/>
+
+---
+
+## President Hensel updates regents on impact of changes to federal policy
+
+date: 2025-02-20, from: University of Hawaiʻi News
+
+<p>Hensel also provided an update on her tour of the <abbr>UH</abbr> campuses and education centers in her first 90 days as <abbr>UH</abbr> President</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/20/president-february-bor-report/">President Hensel updates regents on impact of changes to federal policy</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/20/president-february-bor-report/>
+
+---
+
+## MMS students buy vodka
+
+date: 2025-02-20, from: Marshal Islands Journal
+
+<p>Journal 2/23/1982 P1 Liktanur II calls againIf the mythical Marshallese woman Liktañur was alive today, she’d be proud of Liktañur II, the Department of Energy ship that bears her name. Liktañur II is the funny looking ship that is chartered by DOE and the Brookhaven National Laboratory to treat the 200 1954 Marshallese fallout victims [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/mms-students-buy-vodka/">MMS students buy vodka</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/mms-students-buy-vodka/>
+
+---
+
+## Roadkill
+
+date: 2025-02-20, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Jean-Luke Swanepoel When I was five and fretful, my uncle was the kindest man I knew. Until I watched him run over a dead raccoon on that road to the mall on the outskirts of town. During summer it &#8230; <a href="https://hawaiipacificreview.org/2025/02/20/roadkill/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/02/20/roadkill/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-02-20, updated: 2025-02-20, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Northern Marianas Humanities Council awards 10 grants for community projects
+
+date: 2025-02-20, updated: 2025-02-20, from: Marianas Variety
+
+THE Northern Marianas Humanities Council has awarded 10 grants totaling $95,807 in 2024 under its Community Grant Program to financially support community-centered humanities projects that advance the Council’s strategic goals. The Council offers up to $15,000 in grant funds bi-annually to eligible nonprofit groups and individuals through a competitive application process. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/northern-marianas-humanities-council-awards-10-grants-for-community-projects/article_d0ac2ae8-ef8e-11ef-ae04-67b911441a1e.html>
+
+---
+
+## Almost 90% of Japanese companies see Trump as bad for business, Reuters survey shows
+
+date: 2025-02-20, updated: 2025-02-20, from: Marianas Variety
+
+TOKYO (Reuters) — Almost nine out of 10 Japanese companies expect U.S. President Donald Trump's policies to negatively affect business, a Reuters survey showed on Thursday, the clearest sign yet of mounting worry in the United States' top foreign direct investor. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/almost-90-of-japanese-companies-see-trump-as-bad-for-business-reuters-survey-shows/article_ac9c7f30-ef8f-11ef-aca1-6f60eecfebad.html>
+
+---
+
+## Drifting
+
+date: 2025-02-20, updated: 2025-02-20, from: Marianas Variety
+
+The long and short of it 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/drifting/article_12f3f25c-ef8d-11ef-827a-eb8b4b7b7739.html>
+
+---
+
+## Poetry
+
+date: 2025-02-20, updated: 2025-02-20, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_2539f234-ef8f-11ef-972e-8bbf4ea57477.html>
+
+---
+
+## Leo Saures sentenced to time served, probation for domestic violence charge
+
+date: 2025-02-20, updated: 2025-02-20, from: Marianas Variety
+
+LEO L. Saures, 60, was sentenced by Superior Court Judge Kenneth L. Govendo on Thursday to one year of imprisonment, with all but 30 days suspended. Saures was also given credit for 42 days of time served served, meaning he will not have to spend any additional time in prison. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/leo-saures-sentenced-to-time-served-probation-for-domestic-violence-charge/article_a22deea4-ef75-11ef-91ff-bbb661b92c1a.html>
+
+---
+
+## Tobolar’s Valentine’s Day sale
+
+date: 2025-02-20, from: Marshal Islands Journal
+
+<p>Tobolar Copra Processing Authority promoted its range of beauty products for Valentine’s Day last week. The staff put up a booth next to the processing facility and had varieties of coconut soap and coconut oil on sale. Of note is the improved labeling and packaging of the products that made them perfect as gifts for [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/tobolars-valentines-day-sale/">Tobolar’s Valentine’s Day sale</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/tobolars-valentines-day-sale/>
 
 ---
 
@@ -259,6 +959,20 @@ date: 2025-02-20, from: Hawaii Tribune Harold
 
 ---
 
+## Astronomers lower probability of ‘city-killer’ asteroid hitting Earth
+
+date: 2025-02-20, from: Hawaii Tribune Harold
+
+
+				<p>University of Hawaii astronomers are playing a pivotal role in tracking an asteroid once feared to pose a risk to Earth.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/20/hawaii-news/astronomers-lower-probability-of-city-killer-asteroid-hitting-earth/>
+
+---
+
 ## World Bank funds drain improvements
 
 date: 2025-02-20, from: Marshal Islands Journal
@@ -309,6 +1023,20 @@ The post <a href="https://www.hawaii.edu/news/2025/02/19/vex-robotics-regional-c
 <br> 
 
 <https://www.hawaii.edu/news/2025/02/19/vex-robotics-regional-championships/>
+
+---
+
+## A New Start at USP
+
+date: 2025-02-19, from: University of the South Pacific (Fiji)
+
+<p>Starting a new academic journey is always a significant milestone, and for 18-year-old Merewairita Raseka,...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/a-new-start-at-usp/">A New Start at USP</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/a-new-start-at-usp/>
 
 ---
 
@@ -1232,7 +1960,7 @@ date: 2025-02-18, from: Island Times
 
 date: 2025-02-18, from: Island Times
 
-<figure><img width="1024" height="718" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?fit=1024%2C718&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?w=1250&amp;ssl=1 1250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=1024%2C718&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=768%2C538&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=1200%2C841&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=400%2C280&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=706%2C495&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?fit=1024%2C718&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75694" data-permalink="https://islandtimes.org/cyberattack-disrupts-service-at-ministry-of-health/cyber-security-workshop/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?fit=1250%2C876&amp;ssl=1" data-orig-size="1250,876" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Cyber security workshop" data-image-description="" data-image-caption="&lt;p&gt;Cybersecurity preparedness during the opening of a two-day workshop on Jan. 27, highlighting the growing sophistication of cyber threats facing Palau. (photo credit: Office of the President)&lt;/p&gt;
+<figure><img width="1024" height="718" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?fit=1024%2C718&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?w=1250&amp;ssl=1 1250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=300%2C210&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=1024%2C718&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=768%2C538&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=1200%2C841&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=400%2C280&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?resize=706%2C495&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?fit=1024%2C718&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75694" data-permalink="https://islandtimes.org/cyberattack-disrupts-service-at-ministry-of-health/cyber-security-workshop/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?fit=1250%2C876&amp;ssl=1" data-orig-size="1250,876" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Cyber security workshop" data-image-description="" data-image-caption="&lt;p&gt;Cybersecurity preparedness during the opening of a two-day workshop on Jan. 27, highlighting the growing sophistication of cyber threats facing Palau. (photo credit: Office of the President)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?fit=300%2C210&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Cyber-security-workshop.jpg?fit=780%2C547&amp;ssl=1" /></figure>
 <p>KOROR, Palau – A cyberattack on the Ministry of Health and Human Services (MHHS)has disrupted services. It is the latest in a series of escalating digital threats against Palau’s government agencies, raising national concern. The Ministry of Health and Human Services (MHHS) has confirmed that a cyber-attack disrupted operations at Belau National Hospital, causing service [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/cyberattack-disrupts-service-at-ministry-of-health/">Cyberattack disrupts service at Ministry of Health</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>

@@ -1,11 +1,223 @@
 ---
 title: home
-updated: 2025-02-20 07:10:16
+updated: 2025-02-21 07:09:09
 ---
 
 # home
 
-(date: 2025-02-20 07:10:16)
+(date: 2025-02-21 07:09:09)
+
+---
+
+## Now Is the Time to Use Winter Citrus. Here Are Our Favorite Recipes
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+It’s citrus season, it's time to take advantage of the produce. Here's how to incorporate the fruits in your winter recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/winter-recipes-citrus>
+
+---
+
+## Permaculture Is the Wellness-Garden Trend You Need to Know About
+
+date: 2025-02-20, from: Sunset Magazine - Living in the West
+
+A new form of wellness involving community, creativity, and a commitment to growth in both people and plants has sprouted in Malibu. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/permaculture-wellness-garden-trend>
+
+---
+
+## Rare Plant of the Month: Chaparral ragwort
+
+date: 2025-02-20, from: California Native Plants Society
+
+<p>This small, early-blooming wildflower just had a status review and its rank has changed to 1B (rare in California and elsewhere). Learn more about it!</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-chaparral-ragwort-42467">Rare Plant of the Month: Chaparral ragwort</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-chaparral-ragwort-42467>
+
+---
+
+## 40,000 Toyota and Lexus Vehicles Recalled — Is Yours On the List?
+
+date: 2025-02-20, from: Family Handyman Blog
+
+<p>Several thousand Toyota and Lexus vehicles are being recalled due to a seat belt issue. Find out if yours is one of them. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/toyota-lexus-seatbelt-recall/">40,000 Toyota and Lexus Vehicles Recalled — Is Yours On the List?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/toyota-lexus-seatbelt-recall/>
+
+---
+
+## Is Your Garage Door Opener Not Working? Here’s What To Do
+
+date: 2025-02-20, from: Family Handyman Blog
+
+<p>If your automatic garage door opener isn't working, there's probably one of these nine common problems that are all easy to fix. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/garage-door-opener-not-working/">Is Your Garage Door Opener Not Working? Here&#8217;s What To Do</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/garage-door-opener-not-working/>
+
+---
+
+## 12 Things You Didn’t Know You Could Do With Your Kitchen Appliances
+
+date: 2025-02-20, from: Family Handyman Blog
+
+<p>Save time in the kitchen with these kitchen appliance hacks that can elevate mealtime or your morning coffee.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/kitchen-appliance-hacks/">12 Things You Didn&#8217;t Know You Could Do With Your Kitchen Appliances</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/kitchen-appliance-hacks/>
+
+---
+
+## Look for CDFA staff at 37th annual California Small Farm Conference
+
+date: 2025-02-20, from: Calfifornia Dept. Aggriculture blog
+
+CDFA staff members will participate at next week&#8217;s California Small Farm Conference &#8212; taking place both online and in person at various locations around the state. The conference will take place from Feb 23-28 and feature over 40 online workshops &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28589">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28589>
+
+---
+
+## A Spanish Farmhouse Was in Ruins. Bright Yellow Brought It Back to Life.
+
+date: 2025-02-20, from: Dwell
+
+Located on the island of Minorca, Atelier du Pont and ARU Arquitectura reimagined a sprawling homestead—and imposed a sunny disposition. 
+
+<br> 
+
+<https://www.dwell.com/article/a-spanish-farmhouse-was-in-ruins-bright-yellow-brought-it-back-to-life-93d656b1>
+
+---
+
+## 2025’s 10 Most Dependable Car Brands Revealed
+
+date: 2025-02-20, from: Family Handyman Blog
+
+<p>Car brands might not seem as reliable these days, but some solid standouts remain.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/dependable-car-brands-2025/">2025’s 10 Most Dependable Car Brands Revealed</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/dependable-car-brands-2025/>
+
+---
+
+## This $1.3M Denver Midcentury Was Meticulously Restored to Its 1960s Splendor
+
+date: 2025-02-20, from: Dwell
+
+The revitalized residence has period-appropriate cabinetry, colors, and cork floors, and it’s located in a landmark community listed on the National Register of Historic Places. 
+
+<br> 
+
+<https://www.dwell.com/article/cottle-house-bruce-sutherland-retrovations-midcentury-colorado-real-estate-aab91eb5>
+
+---
+
+## Troubleshooting Yellow Leaves on Lily of the Valley
+
+date: 2025-02-20, from: The Gardener's Path
+
+<p>Perennial lily of the valley, Convallaria majalis, grows in full to partial shade and blooms in early spring. The fragrant white blossoms nestle among lush green leaves, but sometimes the foliage can turn yellow for a variety of reasons. Learn about 13 causes of yellow foliage and how to address them in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/yellow-leaves-lily-valley/">Troubleshooting Yellow Leaves on Lily of the Valley</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/yellow-leaves-lily-valley/>
+
+---
+
+## 15 Amazing Accent Wall Ideas To Liven Up Your Rooms
+
+date: 2025-02-20, from: Family Handyman Blog
+
+<p>An accent wall can transform a room, but the options out there can be overwhelming. We've rounded up a few ideas to get you started. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/accent-wall-ideas/">15 Amazing Accent Wall Ideas To Liven Up Your Rooms</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/accent-wall-ideas/>
+
+---
+
+## California Native Plant Society Submits Petition to Protect a Rare Coyote Mint Species
+
+date: 2025-02-20, from: California Native Plants Society
+
+<p>Gerry’s curly-leaved monardella is at risk of extinction just years after its rediscovery.</p>
+<p>The post <a href="https://www.cnps.org/news-releases/california-native-plant-society-submits-petition-to-protect-a-rare-coyote-mint-species-42452">California Native Plant Society Submits Petition to Protect a Rare Coyote Mint Species</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/news-releases/california-native-plant-society-submits-petition-to-protect-a-rare-coyote-mint-species-42452>
+
+---
+
+## This Is the Most Underrated Aisle at Trader Joe’s
+
+date: 2025-02-20, from: Sunset Magazine - Living in the West
+
+Trader Joe’s is beloved for its unique grocery offerings, but don't forget about its affordable household essentials and cleaning supplies. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/household-essentials-trader-joes>
+
+---
+
+## 168,000 Toyota Siennas Recalled Over Faulty Seatbelts
+
+date: 2025-02-20, from: Family Handyman Blog
+
+<p>Usually, seat belts just work, but for some Toyota Sienna drivers, that may not be the case. Learn all about the recall impacting Siennas here.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/toyota-sienna-seatbelt-recall/">168,000 Toyota Siennas Recalled Over Faulty Seatbelts</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/toyota-sienna-seatbelt-recall/>
+
+---
+
+## When Are You Too Old to Shovel Snow? Experts Weigh In
+
+date: 2025-02-20, from: Family Handyman Blog
+
+<p>Shoveling snow can be a risky task, especially for older adults. Learn why it's dangerous for your heart, muscles, and joints, and discover tips for shoveling safely, including the right tools, techniques, and precautions to take to minimize the risk of injury.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/age-stop-shoveling-snow/">When Are You Too Old to Shovel Snow? Experts Weigh In</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/age-stop-shoveling-snow/>
 
 ---
 
@@ -81,9 +293,21 @@ date: 2025-02-20, from: Yard Life blog
 
 ---
 
+## Sunset.com Home Page
+
+date: 2025-02-20, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
 ## These Stylish New Pans Are the Ceramic Answer to Non-Stick We Didn’t Know We Needed
 
-date: 2025-02-19, from: Sunset Magazine - Living in the West
+date: 2025-02-20, from: Sunset Magazine - Living in the West
 
 Made In's CeramiClad pans are made of stainless steel with a ceramic surface, making it easier to cook and clean up. 
 
@@ -183,6 +407,18 @@ Set in a former warehouse in the Pearl District, the one-bedroom flat has update
 
 ---
 
+## 8 Ways to Make Your Laundry Routine More Sustainable, According to a Cleaning Expert
+
+date: 2025-02-19, from: Sunset Magazine - Living in the West
+
+Your laundry routine might be using too much energy and water. Try incorporating these sustainable laundry tips. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/sustainable-laundry-tips>
+
+---
+
 ## National Parks Are in Crisis. Here’s What You Need to Know About the Layoffs.
 
 date: 2025-02-19, from: Sunset Magazine - Living in the West
@@ -234,18 +470,6 @@ date: 2025-02-19, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/easy-diy-projects-spring-summer/>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-02-19, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -393,18 +617,6 @@ The charming town of Cambria located on California’s Central Coast is filled w
 <br> 
 
 <https://www.sunset.com/home-garden/flowers-plants/cambria-visitors-guide>
-
----
-
-## Permaculture Is the Wellness-Garden Trend You Need to Know About
-
-date: 2025-02-18, from: Sunset Magazine - Living in the West
-
-A new form of wellness involving community, creativity, and a commitment to growth in both people and plants has sprouted in Malibu. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/landscaping/permaculture-wellness-garden-trend>
 
 ---
 

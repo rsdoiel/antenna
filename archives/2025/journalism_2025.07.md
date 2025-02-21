@@ -1,11 +1,253 @@
 ---
 title: journalism
-updated: 2025-02-20 07:10:15
+updated: 2025-02-21 07:09:09
 ---
 
 # journalism
 
-(date: 2025-02-20 07:10:15)
+(date: 2025-02-21 07:09:09)
+
+---
+
+## American Indian, Pacific Islander students celebrate ‘When 2 Worlds Collide’
+
+date: 2025-02-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Wearing a purple lei headdress and gold bangles, Kiara Elizabeth Santos welcomed students to an event as Native American and Pasifika music echoed across the De Neve Plaza Room. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/21/american-indian-pacific-islander-students-celebrate-when-2-worlds-collide/>
+
+---
+
+## Resident assistants reflect on managing confusion, supporting students amid fires
+
+date: 2025-02-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+When the Palisades fire broke out Jan. 7, resident assistants in university housing considered their next steps.
+Syed Tamim Ahmad, the Undergraduate Students Association Council&#8217;s international student representative and an RA for Rieber Vista, said there was confusion among RAs about whether they could leave campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/21/resident-assistants-reflect-on-managing-confusion-supporting-students-amid-fires/>
+
+---
+
+## Classifieds – February 21, 2025
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/classifieds-february-21-2025/">Classifieds &#8211; February 21, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/classifieds-february-21-2025/>
+
+---
+
+## ‘Harry Potter and the Cursed Child’ is a feat of theatrical magic
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In this magnetic production at the Pantages, spellbinding technical design takes center stage.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/harry-potter-and-the-cursed-child-is-a-feat-of-theatrical-magic/">‘Harry Potter and the Cursed Child’ is a feat of theatrical magic</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/harry-potter-and-the-cursed-child-is-a-feat-of-theatrical-magic/>
+
+---
+
+## ‘Woke DEI’ database identifies $10.6 million in USC research funds
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Researchers may lose up to $4.4 million of undistributed funding if the cuts occur.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/woke-dei-database-identifies-10-6-million-in-usc-research-funds/">‘Woke DEI’ database identifies $10.6 million in USC research funds</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/woke-dei-database-identifies-10-6-million-in-usc-research-funds/>
+
+---
+
+## Lecture honors ‘Divine Nine’ during Black History Month
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Speakers talked about the purpose of historically Black fraternities and sororities.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/lecture-honors-divine-nine-during-black-history-month/">Lecture honors ‘Divine Nine’ during Black History Month</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/lecture-honors-divine-nine-during-black-history-month/>
+
+---
+
+## Daniella León: conversaciones en Bagua
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>La exhibición reflexiona sobre las amenazas a la comunidad indígena.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/daniella-leon-conversaciones-en-bagua/">Daniella León: conversaciones en Bagua</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/daniella-leon-conversaciones-en-bagua/>
+
+---
+
+## Weekly Frame: Food
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Each dish has a unique identity in its flavors, textures and cultural influences, which combine to create harmony. However, for university students, food’s potential often stays simple.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/weekly-frame-food/">Weekly Frame: Food</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/weekly-frame-food/>
+
+---
+
+## Organizaciones inyectan cultura a la Vida Griega
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Las agrupaciones latinas impulsan el crecimiento y apoyan a sus miembros.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/organizaciones-inyectan-cultura-a-la-vida-griega/">Organizaciones inyectan cultura a la Vida Griega</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/organizaciones-inyectan-cultura-a-la-vida-griega/>
+
+---
+
+## Can’t we talk about something more pleasant?
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/02/21/cant-we-talk-about-something-more-pleasant/">Can&#8217;t we talk about something more pleasant?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/cant-we-talk-about-something-more-pleasant/>
+
+---
+
+## Dumpuary, explained
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>As the quietest months for blockbusters wrap, let’s explore why the beginning of the year is so quiet.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/dumpuary-explained/">Dumpuary, explained</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/dumpuary-explained/>
+
+---
+
+## NSF flags DEI-related terms in research projects
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The policy was implemented to comply with an executive order on diversity, equity and inclusion.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/nsf-flags-dei-related-terms-in-research-projects/">NSF flags DEI-related terms in research projects</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/nsf-flags-dei-related-terms-in-research-projects/>
+
+---
+
+## La calle Olvera en estragos por mantenerse viva
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>El histórico mercado lucha contra la falta de visitantes y el cierre de tiendas.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/el-historico-mercado-lucha-contra-la-falta-de-visitantes-y-el-cierre-de-tiendas/">La calle Olvera en estragos por mantenerse viva</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/el-historico-mercado-lucha-contra-la-falta-de-visitantes-y-el-cierre-de-tiendas/>
+
+---
+
+## Bad Bunny defiende la cultura puertorriqueña
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>DeBÍ TiRAR MáS FOToS trae atención al archipiélago y sus obstáculos históricos.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/bad-bunny-defiende-la-cultura-puertorriquena/">Bad Bunny defiende la cultura puertorriqueña</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/bad-bunny-defiende-la-cultura-puertorriquena/>
+
+---
+
+## Cocona Mori takes listeners on transformative trip with new tune ‘Tokyo Train’
+
+date: 2025-02-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Cocona Mori is transcending music through her unique composition of sound and Japanese American heritage.
+Mori &#8211; a third-year music industry student who performs as Cocona &#8211; released her second single &#8220;Tokyo Train&#8221; on Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/20/cocona-mori-takes-listeners-on-transformative-trip-with-new-tune-tokyo-train/>
+
+---
+
+## The rise of cafe culture among Bruins: A new hub for studying and socializing
+
+date: 2025-02-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Coffee shops are often the location for long study sessions or conversations with friends.
+Cafes have become an increasingly popular location for students looking for a dose of caffeine while studying or socializing. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/20/the-rise-of-cafe-culture-among-bruins-a-new-hub-for-studying-and-socializing/>
+
+---
+
+## Editorial Cartoon: “Do Not Press”
+
+date: 2025-02-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/02/20/editorial-cartoon-do-not-press/>
+
+---
+
+## Katherine Lorenz: Her journey of curiosity to advocacy
+
+date: 2025-02-20, from: The Sundail (CSUN Student Newspaper)
+
+In a Zoom video call, Katherine Lorenz fills the screen alongside her little dog, Kodiak. Her eyes begin to light up as she discusses a topic many would find difficult... 
+
+<br> 
+
+<https://sundial.csun.edu/190313/news/katherine-lorenz-her-journey-of-curiosity-to-advocacy/>
 
 ---
 
@@ -95,7 +337,7 @@ According to  Undergraduate Students Association Council&#8217;s External Vice P
 
 date: 2025-02-20, from: The Sundail (CSUN Student Newspaper)
 
-En lo que fue la presentación de la formación de la coalición Estudiantes Organizándose Contra la Represión (SOAR, por sus siglas en inglés), organizaciones como Anakbayan Northridge, un capítulo local... 
+En lo que fue la presentación de la formación de la coalición Estudiantes Organizándose Contra la Represión (SOAR, por sus siglas en inglés), agrupaciones estudiantiles como Anakbayan Northridge, un capítulo... 
 
 <br> 
 

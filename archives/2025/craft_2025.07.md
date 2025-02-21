@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-02-20 07:10:17
+updated: 2025-02-21 07:09:11
 ---
 
 # craft
 
-(date: 2025-02-20 07:10:17)
+(date: 2025-02-21 07:09:11)
+
+---
+
+## Standard Mandolin XIX
+
+date: 2025-02-21, from: A Luthier's blog
+
+<p><span style="background-color: black; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;"><span style="color: white;">The latest Standard mandolin is on the bench and will be ready for sale in a few months time. Here’s the story so far….</span></span></p><p><span style="background-color: black; font-family: Arial, sans-serif; font-size: 11pt; white-space-collapse: preserve;"><span style="color: white;">Cheers Gary.</span></span></p><span id="docs-internal-guid-9eb78c65-7fff-49b0-9a3f-6017b719c8f8"><div><div class="separator" style="clear: both; text-align: center;"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/CWb8Nji88Bo" width="320" youtube-src-id="CWb8Nji88Bo"></iframe></div><br /><span style="font-family: Arial, sans-serif; font-size: 11pt; font-variant-alternates: normal; font-variant-east-asian: normal; font-variant-emoji: normal; font-variant-numeric: normal; font-variant-position: normal; vertical-align: baseline; white-space-collapse: preserve;"><br /></span></div></span> 
+
+<br> 
+
+<https://guitar-maker.blogspot.com/2025/02/standard-mandolin-xix.html>
 
 ---
 
@@ -42,6 +54,18 @@ The following is an excerpt from &#8220;The Stick Chair Journal.&#8221; &#8220;T
 <br> 
 
 <https://blog.lostartpress.com/2025/02/19/true-grit-a-dirty-job-but-not-a-dirty-word/>
+
+---
+
+## Protected: Stahl Style 6 Guitar
+
+date: 2025-02-19, from: Guild of American Luthiers
+
+There is no excerpt because this is a protected post. 
+
+<br> 
+
+<https://luth.org/2012_0291100-williams-stahl/>
 
 ---
 
