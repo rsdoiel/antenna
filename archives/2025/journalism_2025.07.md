@@ -1,11 +1,126 @@
 ---
 title: journalism
-updated: 2025-02-21 07:09:09
+updated: 2025-02-22 07:07:58
 ---
 
 # journalism
 
-(date: 2025-02-21 07:09:09)
+(date: 2025-02-22 07:07:58)
+
+---
+
+## Inside ‘The Pitt,’ a new spin on the medical drama
+
+date: 2025-02-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+It is time for television viewers to enter &#8220;The Pitt.&#8221;
+The Max series, which has released eight episodes since its debut last month, is shaking up the medical drama category by exploring the emergency room in new ways. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/21/inside-the-pitt-a-new-spin-on-the-medical-drama/>
+
+---
+
+## Katie Simpson on meaning of upcoming album, personal journey of creating music
+
+date: 2025-02-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Katie Simpson is no typical stranger.
+Simpson, a fourth-year communication student, is a singer, songwriter and producer. With a firm grasp on every step of the music-making process, she is diving head first into her newest era defined by her upcoming album, &#8220;STRANGERS, BUT NOT REALLY.&#8221;
+&#8220;Something that ties the album together is a lot of the songs are about strangers,&#8221; Simpson said. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/21/katie-simpson-on-meaning-of-upcoming-album-personal-journey-of-creating-music/>
+
+---
+
+## CSUN equity initiatives remain open amidst Department of Education order
+
+date: 2025-02-21, from: The Sundail (CSUN Student Newspaper)
+
+Despite President Donald Trump’s threat of a possible shutdown, the Department of Education is steamrolling ahead with a push against universities across the country to eliminate all Diversity, Equity and... 
+
+<br> 
+
+<https://sundial.csun.edu/190486/news/csun-equity-initiatives-remain-open-amidst-department-of-education-order/>
+
+---
+
+## USG extends voting period to Sunday
+
+date: 2025-02-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Chief justice Susanna Andryan said the change was made to align with the elections code.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/21/usg-extends-voting-period-to-sunday/">USG extends voting period to Sunday</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/21/usg-extends-voting-period-to-sunday/>
+
+---
+
+## Women in STEM: CSUN event inspires innovation
+
+date: 2025-02-21, from: The Sundail (CSUN Student Newspaper)
+
+The Society of Physics Students and the Life Sciences Society organized this semester’s first Women in STEM Day event at CSUN on Feb. 10 in the Donald Bianchi Planetarium. The... 
+
+<br> 
+
+<https://sundial.csun.edu/190478/news/women-in-stem-csun-event-inspires-innovation/>
+
+---
+
+## CSUN Faculty show off their art for labor of love showcase
+
+date: 2025-02-21, from: The Sundail (CSUN Student Newspaper)
+
+The Labor of Love Showcase hosted by the Black Faculty and Staff Association (BFSA) was held at CSUN for the Black History Month celebration. This event showcased the various talents,... 
+
+<br> 
+
+<https://sundial.csun.edu/190322/news/csun-faculty-show-off-their-art-for-labor-of-love-showcase/>
+
+---
+
+## Pro-Israel demonstrators rally in Bruin Plaza in mourning of Israeli hostages
+
+date: 2025-02-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 50 pro-Israel demonstrators gathered in Bruin Plaza on Wednesday to raise awareness about Israeli hostages.
+The event &#8211; hosted by the organization Let&#8217;s Do Something, which provides equipment and funds for the Israeli military and Israelis affected by war &#8211;  followed an announcement that three Israeli hostages taken by Palestinian political party and militant group Hamas on Oct. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/21/pro-israel-demonstrators-rally-in-bruin-plaza-in-mourning-of-israeli-hostages/>
+
+---
+
+## Legacy Project Screening Series spotlights queer cinema, restored films
+
+date: 2025-02-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+With kaleidoscopic visuals, queer resistance and experimental filmmakers, the Legacy Project Screening Series is shining a spotlight on cinema&#8217;s boldest and brightest.
+The series will present three programs at the Billy Wilder Theater from Outfest and UCLA&#8217;s Film &#38; Television Archive  LGBTQIA+ film collection &#8211; the world&#8217;s largest public collection of its kind with over 41,000 holdings. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/21/legacy-project-screening-series-spotlights-queer-cinema-restored-films/>
+
+---
+
+## Jason Moran and CSUN’s Jazz “A” Band celebrates Duke Ellington’s Legacy
+
+date: 2025-02-21, from: The Sundail (CSUN Student Newspaper)
+
+People of all ages flooded the entrances to The Soraya’s “Jazz at Naz Festival” for Composer and Pianist Jason Moran’s collaboration with CSUN’s Jazz A Band, celebrating Duke Ellington, composer... 
+
+<br> 
+
+<https://sundial.csun.edu/190467/arts-entertainment/jason-moran-and-csuns-jazz-a-band-celebrates-duke-ellingtons-legacy/>
 
 ---
 
@@ -1228,4 +1343,67 @@ Playing at the Geffen Playhouse through March 9, the cast of “Noises Off” wi
 <br> 
 
 <https://dailybruin.com/2025/02/15/theater-review-noises-off-brings-humor-to-geffen-playhouse-with-successfully-reimagined-script/>
+
+---
+
+## Alumnus-written play ‘Good Tidings’ unpacks spirituality, explores communal bonds
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+When the spiritual leader of a commune dies, all within it are left reeling.
+“Good Tidings,” a UCLA alumnus-written play presented by Los Angeles Theatre Initiative, is hosting its three LA previews Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/15/alumnus-written-play-good-tidings-unpacks-spirituality-explores-communal-bonds/>
+
+---
+
+## Second Take: History of ‘Saturday Night Live’ proves its importance in entertainment, society
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+After 50 years on air, the success of &#8220;Saturday Night Live&#8221; doesn&#8217;t need to be measured in laughter.
+NBC&#8217;s award-winning late-night sketch comedy series will celebrate its 50th anniversary with a three-hour special this weekend. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/15/second-take-history-of-saturday-night-live-proves-its-importance-in-entertainment-society/>
+
+---
+
+## UPTE-CWA 9119 to conduct 3-day strike against UC at end of February
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+A research and technical workers union announced plans for a three-day strike, becoming the second union to announce a strike against the University of California on Friday.&#160;
+The University Professional and Technical Employees-Communications Workers of America 9119 – which represents research and technical workers – called the strike, which will take place on all 10 UC campuses from Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/upte-cwa-9119-to-conduct-3-day-strike-against-uc-at-end-of-february/>
+
+---
+
+## From Me to You
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/from-me-to-you/>
+
+---
+
+## Editorial Cartoon: “Bruin Up Some Love”
+
+date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/02/14/editorial-cartoon-bruin-up-some-love/>
 

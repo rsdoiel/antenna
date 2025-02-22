@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2025-02-21 07:09:11
+updated: 2025-02-22 07:08:00
 ---
 
 # food
 
-(date: 2025-02-21 07:09:11)
+(date: 2025-02-22 07:08:00)
+
+---
+
+## A 2-Ingredient Super Sauce for Any Noodle in Your Pantry
+
+date: 2025-02-21, from: Bon Appetet
+
+Hoisin plus tomatillo salsa? It’s savory, tangy, and unexpectedly perfect. 
+
+<br> 
+
+<https://www.bonappetit.com/story/two-ingredient-super-sauce-weeknight-noodles>
+
+---
+
+## Minnesota Just Banned ‘Forever Chemicals’ in Cookware—Here’s Why It Matters
+
+date: 2025-02-21, from: Taste of Home
+
+<p>Minnesota and other states have banned the "forever chemicals" used to make nonstick cookware. Here's what that means for your kitchen.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/minnesota-banned-forever-chemicals-in-cookware/">Minnesota Just Banned &#8216;Forever Chemicals&#8217; in Cookware—Here&#8217;s Why It Matters</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/minnesota-banned-forever-chemicals-in-cookware/>
+
+---
+
+## Mysoda Glassy Review: A Glass Soda Maker That Actually Works
+
+date: 2025-02-21, from: Bon Appetet
+
+Make soda at home with some theatrical flair. 
+
+<br> 
+
+<https://www.bonappetit.com/story/mysoda-glassy-review>
+
+---
+
+## A&W Just Revealed an Ice Cream-Flavored Soda, and It’s Pure Nostalgia
+
+date: 2025-02-21, from: Taste of Home
+
+<p>Nope, an ice cream sundae in a can was not on my 2025 bingo card.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/aw-ice-cream-sundae-soda/">A&#038;W Just Revealed an Ice Cream-Flavored Soda, and It&#8217;s Pure Nostalgia</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/aw-ice-cream-sundae-soda/>
+
+---
+
+## Meal Kit Tools: What You Need to Prep Dinner from Home Chef or Hello Fresh
+
+date: 2025-02-21, from: Bon Appetet
+
+If you’re new to using meal kits, this is what you need before that big box shows up. 
+
+<br> 
+
+<https://www.bonappetit.com/story/every-kitchen-tool-you-need-to-cook-meal-kits>
+
+---
+
+## Bellwether Coffee Triples Customer Base & Expands To 12 Countries With Introduction Of New Electric Roaster
+
+date: 2025-02-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Over 4MM Pounds of Sustainable Coffee Roasted, 8MM Pounds of Carbon Saved 
+
+<br> 
+
+<https://sprudge.com/bellwether-coffee-triples-customer-base-expands-to-12-countries-with-introduction-of-new-electric-roaster-285815.html>
 
 ---
 
@@ -780,4 +856,28 @@ date: 2025-02-16, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/44-soups-to-warm-soul/>
+
+---
+
+## 29 Cheesy Pasta Recipes for the Coziest Dinners
+
+date: 2025-02-15, from: Bon Appetet
+
+Like artichoke dip penne, pillowy ricotta gnocchi, and French onion shells with Gruyère. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/cheesy-pasta-recipes>
+
+---
+
+## Sweet Potato Curry
+
+date: 2025-02-15, from: Taste of Home
+
+This easy vegan sweet potato curry is a soul-filling meal that won't break the bank. To make it even heartier add extra vegetables, chickpeas or even meat. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sweet-potato-curry/>
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-02-21 07:09:09
+updated: 2025-02-22 07:07:58
 ---
 
 # libraries
 
-(date: 2025-02-21 07:09:09)
+(date: 2025-02-22 07:07:58)
 
 ---
 
@@ -176,4 +176,40 @@ Michalek, Alexander T.; Villarini, Gabriele; Prein, Andreas F.; Done, James M.; 
 <br> 
 
 <http://hdl.handle.net/20.500.11850/722346>
+
+---
+
+## Nordenholt’s Million, by J. J. Connington
+
+date: 2025-02-15, from: Standard Ebooks, new releaases
+
+After a strain of bacteria causes the collapse of the world’s food supply, a plutocrat creates a refuge to try to ensure the survival of a chosen few. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/j-j-connington/nordenholts-million>
+
+---
+
+## Model-based Imitation Learning from Observation for input estimation in monitored systems
+
+date: 2025-02-15, from: ETH Zurich, recently added
+
+Liu, Wei; Lai, Zhilu; Stoura, Charikleia D.; Bacsa, Kiran; Chatzi, Eleni 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713432>
+
+---
+
+## Numerical simulations of subduction, relamination and accretion of magmatic arcs – implications for continent-ocean convergent margins
+
+date: 2025-02-15, from: ETH Zurich, recently added
+
+Maierová, Petra; Schulmann, Karel; Gerya, Taras 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713503>
 

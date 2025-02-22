@@ -1,11 +1,357 @@
 ---
 title: home
-updated: 2025-02-21 07:09:09
+updated: 2025-02-22 07:07:59
 ---
 
 # home
 
-(date: 2025-02-21 07:09:09)
+(date: 2025-02-22 07:07:59)
+
+---
+
+## During a Housing Crisis, Graffitied Buildings Expose the Cruelty of Excess
+
+date: 2025-02-21, from: Dwell
+
+In Los Angeles, artistic takeovers of abandoned high rises and mansions force us to ask a crucial question: why aren’t empty buildings being used? 
+
+<br> 
+
+<https://www.dwell.com/article/during-a-housing-crisis-graffitied-buildings-expose-the-cruelty-of-excess-6d50b9a7>
+
+---
+
+## What Those Lines on Your Backup Camera Really Tell You
+
+date: 2025-02-21, from: Family Handyman Blog
+
+<p>Take a closer look at the grid of lines on you backup camera— it could make you a better driver.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/lines-on-backup-camera/">What Those Lines on Your Backup Camera Really Tell You</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/lines-on-backup-camera/>
+
+---
+
+## Protect the West: Environmental Charities Working to Save Its Natural Beauty
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+These environmental charities are working tirelessly to protect environments and people in the West and across the world. 
+
+<br> 
+
+<https://www.sunset.com/travel/wild-lands/environmental-charities-west>
+
+---
+
+## 5 Things You Should Never Do in National Parks
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+In light of recent incidents of tourists chasing bears and being attacked by bison, here is a reminder of things you should never do in the National Parks. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/5-things-never-do-in-national-parks>
+
+---
+
+## Rental Revamp: Kim Swift’s Surreal Silver Lake Home Will Tempt You to Paint Everything
+
+date: 2025-02-21, from: Dwell
+
+The artist’s fantastical flat is in constant dialogue with her friend’s apartment next door, and the legendary creative enclave of Casa Larissa. 
+
+<br> 
+
+<https://www.dwell.com/article/rental-revamp-casa-larissa-artist-kim-swift-apartment-renovation-los-angeles-cdff6fb2>
+
+---
+
+## In Paris, a Top-Floor Loft in a Former Artist’s Atelier Seeks $2M
+
+date: 2025-02-21, from: Dwell
+
+Set steps away from a historic park in the 17th arrondissement, the home overlooks the street where the Statue of Liberty was built. 
+
+<br> 
+
+<https://www.dwell.com/article/loft-renovation-artist-atelier-parc-monceau-paris-real-estate-29c49e79>
+
+---
+
+## How to Unclog a Toilet with Hot Water When You’re In a Bind
+
+date: 2025-02-21, from: Family Handyman Blog
+
+<p>Learn the simple, and eco-friendly method to unclog a toilet with hot water, saving you from costly plumber visits and harsh chemicals.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/unclog-toilet-with-hot-water/">How to Unclog a Toilet with Hot Water When You&#8217;re In a Bind</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/unclog-toilet-with-hot-water/>
+
+---
+
+## Cleaning Products You Should Never Mix— and Why
+
+date: 2025-02-21, from: Family Handyman Blog
+
+<p>Mixing chemical cleaners is never a good idea, but some concoctions can be deadly. We asked the experts what cleaning products you shouldn't mix and why.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/cleaning-products-you-should-never-mix-and-why/">Cleaning Products You Should Never Mix— and Why</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/cleaning-products-you-should-never-mix-and-why/>
+
+---
+
+## National Parks Are in Crisis. Here’s What You Need to Know About the Layoffs.
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Thousands of National Parks Service workers have been laid off due to executive orders, and the impact could be devastating. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/national-parks-service-layoffs>
+
+---
+
+## Tips for Growing ‘Sugar Bon’ Peas
+
+date: 2025-02-21, from: The Gardener's Path
+
+<p>'Sugar Bon' is a type of snap pea that grows just one to two feet tall, perfect for smaller vegetable gardens. The diminutive, self-supporting plants produce high yields of delicious, sweet, edible pod peas while also being more heat tolerant than many other types. Learn how to plant and grow these legumes in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-sugar-bon-peas/">Tips for Growing ‘Sugar Bon’ Peas</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-sugar-bon-peas/>
+
+---
+
+## 5 Safety Tips to Protect Yourself from Wildfire Smoke
+
+date: 2025-02-21, from: Family Handyman Blog
+
+<p>Smoke is terrible to breathe in, and it can travel incredibly far from the fire. Read on to find out how to practice wildfire smoke safety.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/wildfire-smoke-safety-tips/">5 Safety Tips to Protect Yourself from Wildfire Smoke</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/wildfire-smoke-safety-tips/>
+
+---
+
+## Hotels, Inns, and More
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Staying in the right hotels can make or break a vacation. Get our recommendations for great bargains, most unique sleeps, coastal stays, and more Western accommodations. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels>
+
+---
+
+## National Parks
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Whether you're a first-time visitor or a national parks veteran, you'll find everything you need here to plan the perfect adventure. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks>
+
+---
+
+## Travel the West
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Wellness
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Everyday inspiration for balanced, healthy living. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness>
+
+---
+
+## Lifestyle
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Lifestyle ideas and inspiration for every life stage, from gift guides and gear recommendations to wedding planning, living with kids and pets, and saving for home remodels. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle>
+
+---
+
+## Outdoor Living
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Update your outdoor living areas with our design and decorating tips on patios, decks, sheds, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living>
+
+---
+
+## Flowers & Plants
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+The very best flowers and plants for your garden's climate zone. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/plants>
+
+---
+
+## Landscaping
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Get landscaping ideas and inspiration from our gardening experts to design your own backyard or garden oasis. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping>
+
+---
+
+## Garden Basics
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Learn how to start your own home garden with our gardening experts&apos; tips and tutorials 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics>
+
+---
+
+## Decorating & Design
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Transform your home with our decorating tips, including ideas for small spaces, DIY projects, home design, and more. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design>
+
+---
+
+## Chain Hotel or Boutique Hotel? 4 Questions You Should Ask Yourself Before Booking
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Should you book a chain hotel for its reliable convenience, or a trendy boutique hotel? An expert goes through the pros and cons. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/chain-hotel-versus-boutique-hotel>
+
+---
+
+## Home Tours
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Take a peek at our favorite homes around the West, from modern cabins to mid-century ranch houses 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours>
+
+---
+
+## Home & Garden
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## California at Gulfood – the World’s Largest Annual Food Show
+
+date: 2025-02-21, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Undersecretary Christine Birdsong joined a number of California businesses, agricultural organizations and government officials this week at the 30th edition of the Gulfood Trade Show in Dubai. The United Arab Emirates is the 9th largest export destination for California agricultural products, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28575">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28575>
+
+---
+
+## Recipes
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Search Sunset's collection of great recipes for every occasion. From quick weekday meals to indulgent holiday menus, we share the best in Western cooking. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant>
+
+---
+
+## Food and Drink
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-21, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -293,18 +639,6 @@ date: 2025-02-20, from: Yard Life blog
 
 ---
 
-## Sunset.com Home Page
-
-date: 2025-02-20, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## These Stylish New Pans Are the Ceramic Answer to Non-Stick We Didn’t Know We Needed
 
 date: 2025-02-20, from: Sunset Magazine - Living in the West
@@ -416,18 +750,6 @@ Your laundry routine might be using too much energy and water. Try incorporating
 <br> 
 
 <https://www.sunset.com/home-garden/sustainable-laundry-tips>
-
----
-
-## National Parks Are in Crisis. Here’s What You Need to Know About the Layoffs.
-
-date: 2025-02-19, from: Sunset Magazine - Living in the West
-
-Thousands of National Parks Service workers have been laid off due to executive orders, and the impact could be devastating. 
-
-<br> 
-
-<https://www.sunset.com/travel/national-parks/national-parks-service-layoffs>
 
 ---
 
@@ -1122,4 +1444,236 @@ date: 2025-02-16, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/49-popular-types-of-ducks-with-pictures-and-identification/>
+
+---
+
+## How to Make a Folding Mobile Workbench
+
+date: 2025-02-15, from: Family Handyman Blog
+
+<p>This sturdy, portable work surface folds up small to save space in the shop or garage.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-make-a-folding-mobile-workbench/">How to Make a Folding Mobile Workbench</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-make-a-folding-mobile-workbench/>
+
+---
+
+## How to Create a Decorative Edge with a Router
+
+date: 2025-02-15, from: Family Handyman Blog
+
+<p>Learn how to create a decorative edge to a piece of wood with a router.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-create-a-decorative-edge-with-a-router/">How to Create a Decorative Edge with a Router</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-create-a-decorative-edge-with-a-router/>
+
+---
+
+## Pouring Floor Leveler for Uneven Floors
+
+date: 2025-02-15, from: Family Handyman Blog
+
+<p>Learn how to pour floor leveler for uneven floors with this video.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-pouring-floor-leveler-for-uneven-floors/">Pouring Floor Leveler for Uneven Floors</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-pouring-floor-leveler-for-uneven-floors/>
+
+---
+
+## How to Unclog a Toilet Every Time
+
+date: 2025-02-15, from: Family Handyman Blog
+
+<p>Quick and easy expert tips for unclogging a toilet with a plunger, no mess or hassle.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-unclog-a-toilet-every-time/">How to Unclog a Toilet Every Time</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-unclog-a-toilet-every-time/>
+
+---
+
+## How to Pour a Concrete Slab
+
+date: 2025-02-15, from: Family Handyman Blog
+
+<p>Learn the best techniques and tools for pouring a concrete slab the right way, and avoid costly mistakes.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-pour-a-concrete-slab/">How to Pour a Concrete Slab</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-pour-a-concrete-slab/>
+
+---
+
+## How to Properly Pressure Wash a Concrete Driveway
+
+date: 2025-02-15, from: Family Handyman Blog
+
+<p>Learn the right way to pressure wash your concrete driveway.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-how-to-properly-pressure-wash-a-concrete-driveway/">How to Properly Pressure Wash a Concrete Driveway</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-how-to-properly-pressure-wash-a-concrete-driveway/>
+
+---
+
+## Easy to Build Workbench
+
+date: 2025-02-15, from: Family Handyman Blog
+
+<p>Discover how to build a durable, stable workbench on a budget, with a simple, afternoon-friendly guide.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/video-easy-to-build-workbench/">Easy to Build Workbench</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/video-easy-to-build-workbench/>
+
+---
+
+## WHAT EXACTLY IS GREEN BUILDING AND WHAT ARE THE BENEFITS FOR HOMEOWNERS? [PODCAST]
+
+date: 2025-02-15, from: Elemental Green blog
+
+<p>Lots of people like the idea of building green, or a least a greener.  But, although the term green building is often used, many of us are not quite sure exactly what green building is, or where to go to get easy to understand information about green building options. This week we have an interview that will help explain what green building is and why it’s important.</p>
+<p>The post <a href="https://elemental.green/what-exactly-is-green-building-and-what-are-the-benefits-for-homeowners-podcast/">WHAT EXACTLY IS GREEN BUILDING AND WHAT ARE THE BENEFITS FOR HOMEOWNERS? [PODCAST]</a> first appeared on <a href="https://elemental.green">Elemental Green</a>.</p> 
+
+<br> 
+
+<https://elemental.green/what-exactly-is-green-building-and-what-are-the-benefits-for-homeowners-podcast/>
+
+---
+
+## How to Grow Common Goldenstar (Bloomeria)
+
+date: 2025-02-15, from: The Gardener's Path
+
+<p>Common goldenstar flowers (Bloomeria spp.) are a beautiful addition to any native plant or pollinator garden. The cheerful yellow blossoms are like little dots of sunshine beaming out of the garden. These California natives are adaptable and tolerate drought, heat, and frost. Learn how to grow Bloomeria in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-bloomeria/">How to Grow Common Goldenstar (Bloomeria)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-bloomeria/>
+
+---
+
+## Custom Garage Conversion – Woodland Hills, CA
+
+date: 2025-02-15, from: PHB blog
+
+<p>There is no doubt about it garages are great for parking cars in. However, when they are not being used for this purpose, they can be converted into a variety of different things, such as home offices, game rooms, extra bedrooms, or can simply provide additional space.</p>
+<p>The post <a href="https://friendlycontractor.com/custom-garage-conversion-woodland-hills-ca/">Custom Garage Conversion – Woodland Hills, CA</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/custom-garage-conversion-woodland-hills-ca/>
+
+---
+
+## Reputable Kitchen Remodel Contractors in California
+
+date: 2025-02-15, from: PHB blog
+
+<p>The smart approach to finding the best kitchen remodeling contractor for your home renovating your kitchen can be an exciting but challenging decision. Are you considering a kitchen remodel, but are feeling overwhelmed by the process and unsure of how to find a reputable contractor?</p>
+<p>The post <a href="https://friendlycontractor.com/reputable-kitchen-remodel-contractors-in-california/">Reputable Kitchen Remodel Contractors in California</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/reputable-kitchen-remodel-contractors-in-california/>
+
+---
+
+## Garage Conversions: Conversion of Garage into Livable Space
+
+date: 2025-02-15, from: PHB blog
+
+<p>The conversion of a garage into living space is no small feat. It takes careful planning and execution to ensure that the finished product meets your needs. In this blog post, Preferred Home Builders describes the process involved in converting a garage into a useful space for the homeowner, such as an office space, guest house, or just more living space.</p>
+<p>The post <a href="https://friendlycontractor.com/garage-conversions-conversion-of-garage-into-livable-space/">Garage Conversions: Conversion of Garage into Livable Space</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/garage-conversions-conversion-of-garage-into-livable-space/>
+
+---
+
+## Bathroom Remodeling: Get Bathroom Renovations in Los Angeles
+
+date: 2025-02-15, from: PHB blog
+
+<p>A new bathroom is a great way to increase the value of your home, and it can be a lot of fun to remodel. However, it’s important to have a plan and know what you’re doing before you start.</p>
+<p>The post <a href="https://friendlycontractor.com/bathroom-remodeling-get-bathroom-renovations-in-los-angeles/">Bathroom Remodeling: Get Bathroom Renovations in Los Angeles</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/bathroom-remodeling-get-bathroom-renovations-in-los-angeles/>
+
+---
+
+## 20 Popular Types of Owls (With Pictures and Identification)
+
+date: 2025-02-15, from: Yard Life blog
+
+<p>Owls are fascinating creatures known for their nocturnal habits, silent flight, and haunting calls. With over 200 species worldwide, they ... </p>
+<p class="read-more-container"><a title="20 Popular Types of Owls (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-popular-types-of-owls-with-pictures-and-identification/#more-23458" aria-label="Read more about 20 Popular Types of Owls (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-popular-types-of-owls-with-pictures-and-identification/">20 Popular Types of Owls (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-popular-types-of-owls-with-pictures-and-identification/>
+
+---
+
+## Preferred Home Builders: The Best ADU Contractors in Los Angeles, CA
+
+date: 2025-02-15, from: PHB blog
+
+<p>Embark on a transformative journey with us as we take you behind the scenes of our collaboration with Help! I Wrecked My House in Season 4, Episode 5. In this captivating episode, we faced a disaster of a space and embarked on a mission to turn it into a dream home.</p>
+<p>The post <a href="https://friendlycontractor.com/preferred-home-builders-the-best-adu-contractors-in-los-angeles-ca/">Preferred Home Builders: The Best ADU Contractors in Los Angeles, CA</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/preferred-home-builders-the-best-adu-contractors-in-los-angeles-ca/>
+
+---
+
+## Gray Martin revisits his “Eight Predictions” from 1996
+
+date: 2025-02-15, from: Greg Alder's blog, Yard Post
+
+<p>It is courageous to make predictions in public, especially in writing. Most of us sit on the sidelines and criticize privately or just shrug our shoulders and say, “Who knows how things will go?” Not Gray Martin. During the 1980’s and 90’s, Gray worked as a botany research technician with the University of California’s avocado [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/gray-martin-revisits-his-eight-predictions-from-1996/">Gray Martin revisits his &#8220;Eight Predictions&#8221; from 1996</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/gray-martin-revisits-his-eight-predictions-from-1996/>
+
+---
+
+## Garage Conversion Permit Cost Los Angeles, CA
+
+date: 2025-02-15, from: PHB blog
+
+<p>Many homeowners in Los Angeles are surprised to learn that they need a permit to convert their garage into a living space. The cost of the permit can also be significant, running anywhere from a few hundred to a few thousand dollars. Preferred Home Builders will give you incites into the garage conversion permit process in Los Angeles and what you can expect to pay.</p>
+<p>The post <a href="https://friendlycontractor.com/garage-conversion-permit-cost-los-angeles-ca/">Garage Conversion Permit Cost Los Angeles, CA</a> first appeared on <a href="https://friendlycontractor.com">Preferred Home Builders</a>.</p> 
+
+<br> 
+
+<https://friendlycontractor.com/garage-conversion-permit-cost-los-angeles-ca/>
 

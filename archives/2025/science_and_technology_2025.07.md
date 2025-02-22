@@ -1,11 +1,155 @@
 ---
 title: science and technology
-updated: 2025-02-21 07:09:07
+updated: 2025-02-22 07:07:57
 ---
 
 # science and technology
 
-(date: 2025-02-21 07:09:07)
+(date: 2025-02-22 07:07:57)
+
+---
+
+## Data is very valuable, just don't ask us to measure it, leaders say
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>After fifteeen years decade of big hype, less than 25% of orgs measure value of data, analytics</h4> <p>Fifteen years of big data hype, and guess what? Less than one in four of those in charge of analytics projects actually measure the value of the activity to the organization they work for.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/data_survey_analyst/>
+
+---
+
+## NASA Awards Planetary Defense Space Telescope Launch Services Contract
+
+date: 2025-02-21, from: NASA breaking news
+
+NASA has selected SpaceX of Starbase, Texas, to provide launch services for the Near-Earth Object (NEO) Surveyor mission, which will detect and observe asteroids and comets that could potentially pose an impact threat to Earth. The firm fixed price launch service task order is being awarded under the indefinite delivery/indefinite quantity NASA Launch Services II [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-planetary-defense-space-telescope-launch-services-contract/>
+
+---
+
+## NASA Awards Delivery Order for NOAA’s Space Weather Program
+
+date: 2025-02-21, from: NASA breaking news
+
+NASA, on behalf of the National Oceanic and Atmospheric Administration (NOAA), has awarded a delivery order to BAE Systems Space &#38; Mission Systems Inc. of Boulder, Colorado, to build spacecraft for the Lagrange 1 Series project as a part of NOAA’s Space Weather Next program. The award made under the Rapid Spacecraft Acquisition IV contract, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-delivery-order-for-noaas-space-weather-program/>
+
+---
+
+## Los Alamos boffins slap blinkers on satellites so we know who to blame in a crash
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>Extremely Low Resource Optical Identifier no brighter than LED, but readable with telescopes</h4> <p>Scientists at the Los Alamos National Laboratory (LANL) have come up with a cheap and simple way for satellites to be identified from the ground using lights to blink out an ID code.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/lanl_elroi/>
+
+---
+
+## Hubble Captures a Cosmic Cloudscape
+
+date: 2025-02-21, from: NASA breaking news
+
+The universe is a dusty place, as this NASA/ESA&#160;Hubble Space Telescope&#160;image featuring swirling clouds of gas and dust near the Tarantula Nebula reveals. Located in the Large Magellanic Cloud about 160,000 light-years away in the constellations Dorado and Mensa, the Tarantula Nebula is the most productive star-forming region in the nearby universe, home to the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-captures-a-cosmic-cloudscape/>
+
+---
+
+## NASA Sets Coverage for Intuitive Machines’ Next Commercial Moon Launch
+
+date: 2025-02-21, from: NASA breaking news
+
+Carrying NASA science and technology to the Moon as part of the agency’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, the Intuitive Machines IM-2 mission is targeted to launch no earlier than Wednesday, Feb. 26. The mission will lift off on a SpaceX Falcon 9 rocket from Launch Complex 39A at the agency’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-next-commercial-moon-launch/>
+
+---
+
+## NASA Marks Artemis Progress With Gateway Lunar Space Station
+
+date: 2025-02-21, from: NASA breaking news
+
+NASA and its international partners are making progress on Gateway – the lunar space station that will orbit the Moon as a centerpiece of the agency’s Moon to Mars architecture. 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/nasa-marks-artemis-progress-with-gateway-lunar-space-station/>
+
+---
+
+## T-Mobile US puts NYC emergency services in the 5G fast lane with network slicing
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>911 gets VIP treatment in &#39;one of the most congested and demanding environments for connectivity&#39;</h4> <p>T-Mobile US has signed a deal to provide telecoms for emergency services in New York City using network slicing to their ensure calls and data traffic are prioritized above other users.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/tmobile_5g_network_slicing/>
+
+---
+
+## Elon Musk calls for International Space Station to be deorbited by 2027
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>Plus: ESA astronaut Andreas Mogensen not happy with SpaceX chief for &#39;lie&#39; about &#39;abandoned&#39; Starliner crew</h4> <p>SpaceX boss Elon Musk has called for the International Space Station (ISS) to be deorbited as soon as possible, perhaps by 2027.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/elon_musk_iss_mogensen_insult/>
+
+---
+
+## NASA’s PUNCH Mission to Revolutionize Our View of Solar Wind
+
+date: 2025-02-21, from: NASA breaking news
+
+Earth is immersed in material streaming from the Sun. This stream, called the solar wind, is washing over our planet, causing breathtaking auroras, impacting satellites and astronauts in space, and even affecting ground-based infrastructure.  NASA’s PUNCH (Polarimeter to Unify the Corona and Heliosphere) mission will be the first to image the Sun’s corona, or outer […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasas-punch-mission-to-revolutionize-view-of-solar-wind/>
+
+---
+
+## How ‘Event Scripts’ Structure Our Personal Memories
+
+date: 2025-02-21, from: Quanta Magazine
+
+By screening films in a brain scanner, neuroscientists discovered a rich library of neural scripts — from a trip through an airport to a marriage proposal — that form scaffolds for memories of our experiences.            <p>The post <a href="https://www.quantamagazine.org/how-event-scripts-structure-our-personal-memories-20250221/" target="_blank">How ‘Event Scripts’ Structure Our Personal Memories</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-event-scripts-structure-our-personal-memories-20250221/>
+
+---
+
+## ST Micro skips in, arm in arm with AWS, bearing a chip for 1.6 Tbps pluggable optics
+
+date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+
+<h4>It&#39;s Friday. Quit the doomscrolling. Distract yourself with IT infra news</h4> <p>Developed in collaboration with Amazon Web Services, ST Micro detailed a new photonic integrated circuit (PIC) on Thursday that it says will support pluggable optics capable of shuttling bits around the datacenter at up to 1.6 Tbps.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/21/st_micro_pluggables/>
 
 ---
 
@@ -35,9 +179,9 @@ date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
 
 ## HP ditches 15-minute wait time policy due to 'feedback'
 
-date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+date: 2025-02-21, updated: 2025-02-22, from: The Register (UK I.T. News)
 
-<h4>It woz The Reg wot won it... or maybe just common sense prevailed among management</h4> <p>HP today abruptly ditched the mandatory 15-minute wait time that it imposed on customers dialling up its telephone-based support team due to &#34;initial feedback.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>It woz The Reg wot won it ... or maybe just common sense prevailed among management</h4> <p>HP Inc today abruptly ditched the mandatory 15-minute wait time that it imposed on customers dialling up its telephone-based support team due to &#34;initial feedback.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -145,7 +289,7 @@ date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
 
 date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
 
-<h4>An inside tale: Probation extended, tenure revoked, a scramble to merge research portfolios, and more</h4> <p><strong>Feature</strong>  With the National Science Foundation cutting staff to comply with President Trump&#39;s order for sweeping federal government layoffs, concerns are growing over the impact on America&#39;s role in scientific and technological research. …</p> 
+<h4>An inside tale: Probation extended, tenure revoked, a scramble to merge research portfolios, and more</h4> <p><strong>Feature</strong>  With the National Science Foundation cutting staff to comply with President Trump&#39;s order for sweeping federal government layoffs, concerns are growing over the impact of these layoffs on America&#39;s role in scientific and technological research. …</p> 
 
 <br> 
 
@@ -237,6 +381,18 @@ Jorge Chong is helping shape the future of human spaceflight, one calculation at
 
 ---
 
+## Guiding Orion: Jorge Chong’s Mission to Advance Deep Space Exploration
+
+date: 2025-02-20, from: NASA breaking news
+
+Jorge Chong is helping shape the future of human spaceflight, one calculation at a time. As a project manager for TRON (Tracking and Ranging via Optical Navigation) and a guidance, navigation, and control (GNC) test engineer in the Aeroscience and Flight Mechanics Division, he is leading efforts to ensure the Orion spacecraft can navigate deep [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/guiding-orion-jorge-chongs-mission-to-advance-deep-space-exploration/>
+
+---
+
 ## 60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection
 
 date: 2025-02-20, from: NASA breaking news
@@ -246,6 +402,18 @@ Before Apollo astronauts set foot upon the Moon, much remained unknown about the
 <br> 
 
 <https://www.nasa.gov/history/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/>
+
+---
+
+## 60 Years Ago: Ranger 8 Moon Photos Aid in Apollo Site Selection
+
+date: 2025-02-20, from: NASA breaking news
+
+Before Apollo astronauts set foot upon the Moon, much remained unknown about the lunar surface. While most scientists believed the Moon had a solid surface that would support astronauts and their landing craft, a few believed a deep layer of dust covered it that would swallow any visitors. Until 1964, no closeup photographs of the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/60-years-ago-ranger-8-moon-photos-aid-in-apollo-site-selection/>
 
 ---
 
@@ -421,7 +589,7 @@ date: 2025-02-20, updated: 2025-02-20, from: The Register (UK I.T. News)
 
 date: 2025-02-20, updated: 2025-02-21, from: The Register (UK I.T. News)
 
-<h4>Stalling tactics designed to push print or PC users to online support, sorry, &#39;self-solve&#39;</h4> <p>HP Inc is trying to force consumer PC and print customers to use online and other digital support channels by setting a minimum 15-minute wait time for anyone that phones the call center to get answers to troublesome queries.…</p> 
+<h4>Stalling tactics designed to push print or PC users to online support, sorry, &#39;self-solve&#39;</h4> <p><strong>Updated</strong>  HP Inc is trying to force consumer PC and print customers to use online and other digital support channels by setting a minimum 15-minute wait time for anyone that phones the call center to get answers to troublesome queries.…</p> 
 
 <br> 
 
@@ -623,7 +791,7 @@ date: 2025-02-19, updated: 2025-02-20, from: The Register (UK I.T. News)
 
 ## Check out this free automated tool that hunts for exposed AWS secrets in public repos
 
-date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
+date: 2025-02-19, updated: 2025-02-21, from: The Register (UK I.T. News)
 
 <h4>You can find out if your GitHub codebase is leaking keys ... but so can miscreants</h4> <p>A free automated tool that lets anyone scan public GitHub repositories for exposed AWS credentials has been released.…</p> 
 
@@ -671,7 +839,7 @@ date: 2025-02-19, updated: 2025-02-19, from: The Register (UK I.T. News)
 
 ## KDE Plasma 6.3 released – and 6.3.1 is already here
 
-date: 2025-02-19, updated: 2025-02-20, from: The Register (UK I.T. News)
+date: 2025-02-19, updated: 2025-02-21, from: The Register (UK I.T. News)
 
 <h4>A year on from the big overhaul of Plasma 6, more functionality appears</h4> <p>KDE Plasma 6.3 is here, closely followed by a point release, alongside new versions of the KDE Frameworks and KDE Gear apps collection.…</p> 
 
@@ -1554,4 +1722,52 @@ date: 2025-02-16, updated: 2025-02-16, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/>
+
+---
+
+## Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy’s still screwed
+
+date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
+
+<h4>&#39;In 50 years, I think we&#39;ll view these business practices like we view sweatshops today&#39;</h4> <p><strong>Interview</strong>  It has been nearly a decade since famed cryptographer and privacy expert Bruce Schneier released the book Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World - an examination of how government agencies and tech giants exploit personal data. Today, his predictions feel eerily accurate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/15/interview_bruce_schneier/>
+
+---
+
+## Why AI benchmarks suck
+
+date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
+
+<h4>Anyone remember when Volkswagen rigged its emissions results? Oh...</h4> <p>AI model makers love to flex their benchmarks scores. But how trustworthy are these numbers? What if the tests themselves are rigged, biased, or just plain meaningless?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/15/boffins_question_ai_model_test/>
+
+---
+
+## UK's new thinking on AI: Unless it's causing serious bother, you can crack on
+
+date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
+
+<h4>Plus: Keep calm and plug Anthropic&#39;s Claude into public services</h4> <p><strong>Comment</strong>  The UK government on Friday said its AI Safety Institute will henceforth be known as its AI Security Institute, a rebranding that attests to a change in regulatory ambition from ensuring AI models get made with wholesome content – to one that primarily punishes AI-abetted crime.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/15/uk_ai_safety_institute_rebranded/>
+
+---
+
+## If you dread a Microsoft Teams invite, just wait until it turns out to be a Russian phish
+
+date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
+
+<h4>Roses aren&#39;t cheap, violets are dear, now all your access token are belong to Vladimir</h4> <p>Digital thieves – quite possibly Kremlin-linked baddies – have been emailing out bogus Microsoft Teams meeting invites to trick victims in key government and business sectors into handing over their authentication tokens, granting access to emails, cloud data, and other sensitive information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/15/russia_spies_spoofing_teams/>
 

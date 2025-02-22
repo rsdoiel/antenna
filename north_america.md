@@ -1,11 +1,922 @@
 ---
 title: north america
-updated: 2025-02-21 07:09:06
+updated: 2025-02-22 07:07:55
 ---
 
 # north america
 
-(date: 2025-02-21 07:09:06)
+(date: 2025-02-22 07:07:55)
+
+---
+
+## People are making travel a spending priority
+
+date: 2025-02-21, from: Market Place
+
+But looking ahead, poor consumer sentiment and safety concerns could weigh on bookings. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/21/travel-demand-spending-trips-airline-cruise-hotel-bookings-industry-airplanes-faa/>
+
+---
+
+## Daily Roundup: February 21
+
+date: 2025-02-21, from: The Contrarian
+
+Featuring our Undaunted honoree; Ben Wikler; Rep. Joe Neguse in conversation with Jen Rubin; The Democracy Index; Eliza Orlins; Ruben Bolling; Marissa Rothkopf, and our Pet of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/daily-roundup-february-21>
+
+---
+
+## The “dark ships” that move sanctioned oil around the world
+
+date: 2025-02-21, from: Market Place
+
+Western sanctions on oil from places like Iran, Russia, and Venezuela have caused a growing number of oil tankers to shut off the tracking system that could alert authorities of their movements.
+
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/21/the-dark-ships-that-move-sanctioned-oil-around-the-world/>
+
+---
+
+## What do you want to know about business or the economy?
+
+date: 2025-02-21, from: Market Place
+
+We're here to tackle your questions. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/21/what-do-you-want-to-know-about-business-or-the-economy/>
+
+---
+
+## Los Angeles mayor ousts fire chief for response to deadly fires
+
+date: 2025-02-21, from: VOA News USA
+
+LOS ANGELES — Six weeks after the most destructive wildfire in city history, Los Angeles Mayor Karen Bass ousted the city's fire chief Friday amid a public rift over preparations for a potential fire and finger-pointing between the chief and City Hall over responsibility for the devastation.
+
+
+Bass said in a statement that she is removing Chief Kristin Crowley immediately.
+
+
+"Bringing new leadership to the Fire Department is what our city needs," Bass said in a statement.
+
+
+"We know that 1,000 firefighters that could have been on duty on the morning the fires broke out were instead sent home on Chief Crowley's watch," Bass disclosed. She added that the chief refused a request to prepare an "after-action report" on the fires, which she called a necessary step in the investigation.
+
+
+The Palisades Fire began during heavy winds Jan. 7, destroying or damaging nearly 8,000 homes, businesses and other structures and killing at least 12 people in the Los Angeles neighborhood.
+
+
+Another wind-whipped fire started the same day in suburban Altadena, a community to the east, killing at least 17 people and destroying or damaging more than 10,000 homes and other buildings.
+
+
+Bass has been facing criticism for being in Africa as part of a presidential delegation on the day the fires started, even though weather reports had warned of dangerous fire conditions in the days before she left.
+
+
+In televised interviews this week, Bass acknowledged she made a mistake by leaving the city. But she inferred she wasn't aware of the looming danger when she flew around the globe to attend the inauguration of Ghanaian President John Dramani Mahama. She faulted Crowley for failing to alert her to the potentially explosive fire conditions.
+
+
+Crowley has publicly criticized the city for budget cuts that she said made it harder for firefighters to do their jobs.
+
+
+Crowley was named fire chief in 2022 by Bass' predecessor at a time when the department was in turmoil over allegations of rampant harassment, hazing and discrimination. She worked for the city fire department for more than 25 years and held nearly every role, including fire marshal, engineer and battalion chief. 
+
+<br> 
+
+<https://www.voanews.com/a/los-angeles-mayor-ousts-fire-chief-for-response-to-deadly-fires/7983872.html>
+
+---
+
+## How generous return policies can end up costing customers
+
+date: 2025-02-21, from: Market Place
+
+Customers returned $890 billion worth of goods last year, which is almost triple the amount they returned pre-pandemic. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/21/how-generous-return-policies-can-end-up-costing-customers/>
+
+---
+
+## No, private data can’t replace public data
+
+date: 2025-02-21, from: Market Place
+
+"If we think about the ways that companies collect data, it ranges so widely from different company," said George Washington University's Tara Sinclair. "That's why it's so important that we have government statistical agencies." 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/21/no-private-data-cant-replace-public-data/>
+
+---
+
+## Sentiment on the economy sinks — especially among Dems
+
+date: 2025-02-21, from: Market Place
+
+Inflation and tariff fears contributed to a decline of 10% in the University of Michigan's latest survey. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/21/sentiment-on-the-economy-sinks-especially-among-dems/>
+
+---
+
+## Nearly 100 cases of measles reported in Texas, New Mexico
+
+date: 2025-02-21, from: VOA News USA
+
+The measles outbreak in rural West Texas has grown to 90 cases across seven counties, the state health department posted online Friday, and 16 people are hospitalized. 
+
+
+In neighboring eastern New Mexico, the measles case count is up to nine, though state public health officials said Thursday there's still no evidence this outbreak is connected to the one in Texas. 
+
+
+The West Texas cases are concentrated in eight counties in West Texas.  
+
+
+Texas state health department data shows that most of the cases are among people younger than 18. Twenty-six cases are in kids younger than 4 and 51 are in kids 5-17 years old. Ten adults have measles, and three cases are pending an age determination. The Ector County Health Department told the Odessa American its case was in a child too young to be vaccinated. 
+
+
+State health officials have said this outbreak is Texas' largest in nearly 30 years. Health department spokeswoman Lara Anton said last week that cases have been concentrated in a "close-knit, undervaccinated" Mennonite community — especially among families who attend small private religious schools or are homeschooled. 
+
+
+In New Mexico, all of the cases are in Lea County, which borders Gaines County in Texas. The state health department has said people may have been exposed at a grocery store, an elementary school, a church, hospital and a pharmacy in Hobbs, New Mexico. 
+
+
+Measles is a highly contagious respiratory virus that can survive in the air for up to two hours. Up to 9 out of 10 people who are susceptible will get the virus if exposed, according to the U.S. Centers for Disease Control and Prevention. 
+
+
+Most kids will recover from the measles if they get it, but infection can lead to dangerous complications like pneumonia, blindness, brain swelling and death. 
+
+
+The vaccine for measles, mumps and rubella is safe and highly effective in preventing measles infection and severe cases of the disease. 
+
+
+The first shot is recommended for children between 12 and 15 months old and the second between 4 and 6 years old. The vaccine series is required for kids before entering kindergarten in public schools nationwide. 
+
+
+Before the vaccine was introduced in 1963, the U.S. saw some 3 million to 4 million cases per year. Now, it's usually fewer than 200 in a normal year. 
+
+
+There is no link between the vaccine and autism, despite a now-discredited study and health disinformation. 
+
+
+In communities with high vaccination rates — above 95% — diseases like measles have a harder time spreading through communities. This is called "herd immunity." 
+
+
+But childhood vaccination rates have declined nationwide since the pandemic and more parents are claiming religious or personal conscience waivers to exempt their kids from required shots. 
+
+
+The U.S. saw a rise in measles cases in 2024, including an outbreak in Chicago that sickened more than 60.  
+
+
+Gaines County has one of the highest rates in Texas of school-aged children who opt out of at least one required vaccine, with nearly 14% of K-12 children in the 2023-24 school year. Health officials say that number is likely higher because it doesn't include many children who are homeschooled and whose data would not be reported. 
+
+
+Health workers are hosting regular vaccination clinics and screening efforts in Texas, as well as working with schools to educate people about the importance of vaccination and offering shots. 
+
+
+New Mexico health officials are also hosting several vaccination clinics in Hobbs next week. 
+
+<br> 
+
+<https://www.voanews.com/a/nearly-100-cases-of-measles-reported-in-texas-new-mexico/7983785.html>
+
+---
+
+## The Democracy Index
+
+date: 2025-02-21, from: The Contrarian
+
+February 21, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-e1f>
+
+---
+
+## US states push back against possible election security changes
+
+date: 2025-02-21, from: VOA News USA
+
+WASHINGTON  — Moves by U.S. President Donald Trump to potentially gut programs aimed at supporting election security are not sitting well with key state election officials, who are now asking the Trump administration to reconsider.
+
+
+The National Association of Secretaries of State sent a letter Friday to Homeland Security Secretary Kristi Noem warning that changes to the department’s Cybersecurity and Infrastructure Security Agency could endanger future elections.
+
+
+“Information technology systems related to election administration have long been targeted by sophisticated cyber threat actors including nation-state and cybercriminal groups,” according to the letter, signed by NASS president, Minnesota Secretary of State Steve Simon and NASS president-elect, Mississippi Secretary of State Michael Watson.
+
+
+“CISA’s prioritized services help election entities defend against these national security threats,” they added.
+
+
+NASS is a bipartisan group that represents chief election officials from nearly 40 U.S. states. Simon is a Democrat. Watson is a Republican.
+
+
+The letter says that while U.S. elections “firmly remain a state and local responsibility,” several initiatives from CISA have provided valuable services and allowed for the sharing of critical information for states that choose to participate.
+
+
+It lists cybersecurity services, physical security assessments, information through the Election Infrastructure Information Sharing and Analysis Center (EI-ISAC), classified and unclassified intelligence briefings and on-the-ground incident response services as among the programs that NASS members would like to continue.
+
+
+VOA has reached out to the Department of Homeland Security about the letter but has not received a response.
+
+
+CISA was formally created in 2018, charged with protecting the country’s critical infrastructure. It has also served as a lead agency on election security. DHS officials announced a review of the agency earlier this month citing what they described as a need for CISA “to refocus on its mission.”
+
+
+“The agency is undertaking an evaluation of how it has executed its election security mission with a particular focus on any work related to mis-, dis-, and mal-information,” said Assistant Secretary Tricia McLaughlin.
+
+
+According to DHS, as of mid-February, more than 130 CISA employees had been placed on administrative leave.
+
+
+NASS expressed hope some of the election related programs can be preserved, offering to meet with DHS officials, including Noem.
+
+
+“[We] respect your authority to reassess existing priorities, structures, staffing, and missions,” the NASS letter said. “We favor continuity of the core resources above and welcome the opportunity as Chief Election Officials to discuss any potential changes or impacts to election security-related services before making a final decision.” 
+
+<br> 
+
+<https://www.voanews.com/a/us-states-push-back-against-possible-election-security-changes-/7983778.html>
+
+---
+
+## Trump says he expects Ukraine will accept mineral deal soon
+
+date: 2025-02-21, from: VOA News USA
+
+U.S. President Donald Trump said Friday that he expects Ukraine to accept soon a proposed deal that would include U.S. investments in its mineral assets to help recoup some U.S. defense funding. 
+
+
+"We're signing an agreement, hopefully in the next fairly short period of time, that will assure us that we'll get four or $500 billion back" Trump told reporters in the Oval Office when asked about a potential deal.  
+
+
+"It's a big deal, but they [Ukrainians] want it, and it keeps us in that country," he said, adding "we get our money back. This should have been signed long before we went in." 
+
+
+The Trump administration has proposed the rare earth mineral deal as part of a larger negotiation toward ending the war in Ukraine. 
+
+
+The president's comments follow reports that his administration has presented Kyiv with a revised version of a minerals agreement after Ukrainian President Volodymyr Zelenskyy rejected the initial proposal. 
+
+
+U.S. national security adviser Mike Waltz made similar comments earlier Friday at the annual Conservative Political Action Conference outside Washington.  
+
+
+"Well, look, here's the bottom line: President Zelenskyy is going to sign that deal. And you will see that in the very short term. And that is good for Ukraine," he said. 
+
+
+
+
+The discussion about a mineral deal follows sharp exchanges this week between Trump and Zelenskyy. The Ukrainian president, responding to Trump's suggestion that Ukraine started the war with Russia, said the U.S. president was living in a Russian-influenced "disinformation space." 
+
+ 
+
+Trump countered on his Truth Social platform, calling Zelenskyy a "dictator without elections."  
+
+ 
+
+On Friday, Trump referenced his indirect exchanges with Zelenskyy while making comments to a gathering of the Republican State Governors Association at the White House. The president described having "very good talks with [Russian President Vladimir] Putin," and "not such good talks with Ukraine." He mentioned how Ukraine talks "tough" but does not have a lot of bargaining chips. 
+
+
+Diplomatic bomb 
+
+
+On Monday, the international community will hold a meeting in the United Nations General Assembly marking the third anniversary of Russia's invasion of Ukraine. Ukraine, with the support of the European Union, has circulated a draft resolution it plans to put to a vote at the session.  
+
+
+The document stresses "the urgent need to end the war this year" through a "comprehensive, just and lasting peace" based on the principles of the U.N. Charter and calls for the full withdrawal of Russian troops from Ukraine "within its internationally recognized borders." 
+
+
+However, Ukraine's plans were upended late Friday, when the Trump administration circulated their own draft resolution. Entitled "The Path to Peace," the 65-word text mourns "the tragic loss of life throughout the Russia-Ukraine conflict" and "implores a swift end to the conflict and further urges a lasting peace between Ukraine and Russia." 
+
+
+Diplomats said European ambassadors were meeting to discuss the surprise move, which could hurt support for their text or even force them to abandon the effort altogether. 
+
+
+Russia's envoy told reporters the U.S. draft is "a good move." 
+
+
+"But there is one important point missing," Vassily Nebenzia said. "The root causes. We should address the root causes."   
+
+
+His delegation circulated an amendment to Washington's text adding such a statement. 
+
+
+Moscow has long attempted to justify its illegal invasion of Ukraine by saying Russian-speaking minorities in eastern Ukraine have been persecuted by the Kyiv government. The Kremlin also has accused the Ukrainian government of being "Nazis" and "fascists."  
+
+
+Moscow has also decried what it says is NATO expansionism into its neighborhood. 
+
+
+Richard Gowan, U.N. director for the International Crisis Group, said on social media platform X that he expects "the EU and Ukraine to table counter-amendments and make the U.S. text unworkable." 
+
+
+Ongoing discussions 
+
+
+Trump sent his special envoy for Ukraine and Russia, retired U.S. Lieutenant General Keith Kellogg, for meetings Thursday with Zelenskyy in Kyiv, Ukraine. Comments following that meeting indicated the relationship between the U.S. and Ukraine was being smoothed over. 
+
+
+On his X social media account, Zelenskyy had only positive things to say. 
+
+
+"My meeting with General Kellogg was one that restores hope, and we need strong agreements with the U.S. — agreements that will truly work," Zelenskyy said. "I have instructed my team to work quickly and very sensibly." 
+
+
+Kellogg, from his X account, re-posted Zelenskyy's comments, and stated, "Extensive and positive discussions with [President Zelenskyy], the embattled and courageous leader of a nation at war and his talented national security team." 
+
+
+ 
+
+
+Much of the tension this past week surrounded talks about the war in Ukraine between a U.S. delegation led by U.S. Secretary of State Marco Rubio and their Russian counterparts in Saudi Arabia. No Ukrainian or European representatives were present. 
+
+
+Rubio later noted that the meeting did not involve any fine points of a deal. 
+
+
+When Trump was asked by reporters Friday if he would be going to Moscow, the president dismissed such reports, saying "No, no I'm not." 
+
+
+Ukraine fears that Trump is moving to settle the war on terms that could be more favorable to Moscow. Russia currently controls about a fifth of Ukraine's internationally recognized territory.
+
+
+European leaders have responded to Trump's recent remarks about Ukraine by pledging to step up spending on defense, and some are considering a U.S.-backed European peacekeeping force for the country if the fighting ends. The Kremlin says the plan is a major cause for concern, but Zelenskyy and NATO have welcomed it. 
+
+
+Margaret Besheer, Tatiana Vorozhko Koprowicz, Myroslava Gongadze and Patsy Widakuswara contributed to this report. Some information came from The Associated Press, Reuters and Agence France-Presse. 
+
+<br> 
+
+<https://www.voanews.com/a/white-house-official-expects-ukraine-to-accept-mineral-deal-/7983752.html>
+
+---
+
+## Suspect found guilty of attempted murder in author Salman Rushdie attack
+
+date: 2025-02-21, from: VOA News USA
+
+MAYVILLE, NEW YORK  — A New Jersey man was convicted Friday of attempted murder for stabbing author Salman Rushdie multiple times on a New York lecture stage in 2022.
+
+
+Jurors, who deliberated for less than two hours, also found Hadi Matar, 27, guilty of assault for wounding a man who was on stage with Rushdie at the time.
+
+
+Matar ran onto the stage at the Chautauqua Institution where Rushdie was about to speak on Aug. 12, 2022, and stabbed him more than a dozen times before a live audience. The attack left the 77-year-old prizewinning novelist blind in one eye.
+
+Rushdie was the key witness during seven days of testimony, describing in graphic detail his life-threatening injuries and long and painful recovery.
+
+
+Matar, sitting at the defense table, looked down but had no obvious reaction when the jury delivered the verdict. As he was led out of the courtroom in handcuffs, he quietly uttered, "Free Palestine," echoing comments he has frequently made while entering and leaving the trial.
+
+
+His public defender, Nathaniel Barone, said Matar was disappointed but also well-prepared for the verdict.
+
+
+District Attorney Jason Schmidt played a slow-motion video of the attack for the jury Friday during his closing argument, pointing out the assailant as he emerged from the audience, walked up a staircase to the stage and broke into a run toward Rushdie.
+
+
+"I want you to look at the unprovoked nature of this attack," Schmidt said. "I want you to look at the targeted nature of the attack. There were a lot of people around that day but there was only one person who was targeted."
+
+
+Assistant public defender Andrew Brautigan told the jury that prosecutors have not proved that Matar intended to kill Rushdie. The distinction is important for an attempted-murder conviction.
+
+
+"You will agree something bad happened to Mr. Rushdie, but you don't know what Mr. Matar's conscious objective was," Brautigan said.
+
+
+Matar had knives with him but no gun or bomb, his attorneys have said previously. And in response to testimony that the injuries were life-threatening, they have noted that Rushdie's heart and lungs were uninjured.
+
+
+Schmidt said while it's not possible to read Matar's mind, "it's foreseeable that if you're going to stab someone 10 or 15 times about the face and neck, it's going to result in a fatality."
+
+
+Schmidt reminded jurors about the testimony of a trauma surgeon, who said Rushdie's injuries would have been fatal without quick treatment.
+
+
+He also slowed down video showing Matar approaching the seated Rushdie from behind and reaching around him to stab at his torso with a knife. Rushdie raises his arms and rises from his seat, walking and stumbling for a few steps with Matar hanging on, swinging and stabbing until they both fall and are surrounded by onlookers who rush in to separate them.
+
+
+Rushdie is seen flailing on the ground, waving a hand covered in bright red blood. Schmidt freezes on a frame showing Rushdie, his face also bloodied, as he's surrounded by people.
+
+
+"We've shown you intent," Schmidt said.
+
+
+The recordings also picked up the gasps and screams from audience members who had been seated to hear Rushdie speak with City of Asylum Pittsburgh founder Henry Reese about keeping writers safe. Reese suffered a gash to his forehead, leading to the assault charge against Matar.
+
+
+The judge set sentencing for April 23. Matar could receive up to 25 years in prison. 
+
+<br> 
+
+<https://www.voanews.com/a/suspect-found-guilty-of-attempted-murder-in-author-salman-rushdie-attack-/7983754.html>
+
+---
+
+## Ukrainian honey poppyseed cake
+
+date: 2025-02-21, from: The Contrarian
+
+Perhaps a taste of what is special to many Ukrainians will strengthen our connection with them. 
+
+<br> 
+
+<https://contrarian.substack.com/p/ukrainian-honey-poppyseed-cake>
+
+---
+
+## Black History Month celebrated across US
+
+date: 2025-02-21, from: VOA News USA
+
+February is Black History Month in the United States. Celebrations across the nation include a White House reception with President Donald Trump and a parade in Los Angeles. Genia Dulot reports. 
+
+<br> 
+
+<https://www.voanews.com/a/black-history-month-celebrated-across-us/7983718.html>
+
+---
+
+## 'Lack of consensus' as G20 meets amid turbulent times
+
+date: 2025-02-21, from: VOA News USA
+
+JOHANNESBURG — The two-day Group of 20 foreign ministers meeting wrapped up in Johannesburg on Friday. Aimed at addressing global problems, the talks between the world’s wealthiest countries instead underscored the fault lines in the current geopolitical climate.
+
+
+Despite the warm welcome foreign dignitaries received at the meeting in Johannesburg, hosted by current G20 president South Africa, tensions were apparent before the event even got underway.
+
+
+U.S. Secretary of State Marco Rubio announced earlier this month he was boycotting the meeting, citing what he called the “anti-Americanism” on the agenda. These topics included climate change and equality for developing nations.
+
+
+
+
+South African President Cyril Ramaphosa addressed the discord head on in his opening speech, saying the world was under threat from rising intolerance and wars.
+
+
+“Yet there is a lack of consensus among major powers, including the G20, on how to respond to these issues of global significance,” Ramaphosa said.
+
+
+Even a planned group photo fell through, though no official explanation was given for its last-minute cancellation.
+
+Steven Gruzd, an analyst at the South African Institute of International Affairs, spoke about the challenges the meeting presented.
+
+
+“South Africa’s had a very difficult job of getting countries that are ideologically very far apart around the same table,” he said.
+
+
+South Africa has been under fire from the new U.S. administration, which accuses the government of land grabs, an accusation South Africa strongly denies. President Donald Trump recently cut financial assistance to the country over the allegations.
+
+
+Washington sent U.S. Embassy Charge d’Affaires Dana Brown in Rubio’s place. The embassy declined VOA’s request for an interview.
+
+
+But there were statements of support for South Africa leading the G20 from several European foreign ministers.
+
+Russia and China also sent their top envoys.
+
+
+In his remarks at the meeting, Chinese Foreign Minister Wang Yi expressed his support for South Africa’s G20 presidency.
+
+
+He also noted that, “the current international landscape is marked by transformation and turbulence.” He added, China will “work with all parties” on world peace, security and multilateralism.
+
+
+One topic that dominated at the meeting was Ukraine. The foreign ministers gathered days after Trump upended U.S. policy on the war, suggesting Ukraine was to blame for Russia’s 2022 invasion and labeling one-time U.S. ally Volodymyr Zelenskyy as a “dictator.”
+
+
+Retired U.S. diplomat Brooks Spector said, “Now that President Trump has effectively ended the general Western consensus on Ukraine, it’s obviously fallen to the European nations to be the primary source of support for Ukraine and its president and in fact its struggle against Russia.”
+
+
+The E.U. has indeed rallied in support of Zelenskyy after Trump’s comments. French Foreign Minister Jean-Noel Barrot, speaking on the sidelines of the meeting, voiced his concerns.
+
+
+“A capitulation of Ukraine today would set a terrible example for every country in the world that would be under the threat of predation by its bigger neighbor,” he said. “Is this the world in which we want to live?”
+
+
+However, in his closing remarks South African foreign minister Ronald Lamola put a positive spin on things, saying the meeting had been an overall success and delegates had held "productive" talks. 
+
+<br> 
+
+<https://www.voanews.com/a/lack-of-consensus-as-g20-meets-amid-turbulent-times-/7983605.html>
+
+---
+
+## Judge cancels New York City mayor’s trial, keeps corruption charges intact
+
+date: 2025-02-21, from: VOA News USA
+
+NEW YORK — A federal judge on Friday canceled the corruption trial of New York City Mayor Eric Adams. The judge also appointed counsel to advise him on how to handle the Justice Department's controversial request to drop charges against the Democrat. 
+
+
+Judge Dale E. Ho's written order means he won't decide before mid-March whether to grant the dismissal of the case against the mayor of the nation's largest city. 
+
+
+At a hearing Wednesday, Acting Deputy U.S. Attorney General Emil Bove cited an executive order by President Donald Trump outlining his criminal justice priorities as he defended the request to drop charges. 
+
+
+Adams confirmed at the hearing that he accepted that charges could later be reinstated. Critics suggest that the mayor would be required to carry out Trump's plans to round up New Yorkers who are in the country illegally if he wanted to remain free from prosecution. 
+
+
+The request is "virtually unreviewable in this courtroom," Bove argued. 
+
+
+Adams was indicted in September and accused of accepting more than $100,000 in illegal campaign contributions and travel perks from a Turkish official and business leaders seeking to buy influence while he was Brooklyn borough president. He faces multiple challengers in June's Democratic primary. He has pleaded not guilty and has insisted on his innocence. 
+
+
+On Friday, the judge said he'd appointed Paul Clement, a former U.S. solicitor general and acting U.S. attorney general, as amicus curiae to present arguments on the government's request to throw out the charges. 
+
+
+Ho said he wanted all parties and Clement to address the legal standard for dismissing charges, whether a court may consider materials beyond the motion itself and under what circumstances additional procedural steps and further inquiry would be necessary. 
+
+
+He also said he wants to know under what circumstances dismissal can occur without the ability to reinstate charges or with the ability to reinstate charges. He scheduled briefs to be filed by March 7 and, if necessary, oral arguments to occur on March 14. 
+
+
+Late Thursday, three former U.S. attorneys — from New York, Connecticut and New Jersey — submitted a letter urging Ho to "hear from parties other than the government and the defendant in deciding about the appropriate next steps."  
+
+
+Adams will not be required to attend future hearings, the judge said. 
+
+
+That could help mitigate some political damage for Adams as he could avoid being hauled back to court for hearings while he tries to convince the public that the case isn't distracting him from running the city. 
+
+
+Adams has sought to project calm as questions over his independence have sparked a political crisis in his administration. 
+
+
+This week, four of his top deputies resigned and Gov. Kathy Hochul announced that she had for now decided against removing Adams from office but would instead propose legislation to enhance state oversight of City Hall as a way to reestablish trust with New Yorkers. 
+
+<br> 
+
+<https://www.voanews.com/a/judge-cancels-new-york-city-mayor-s-trial-keeps-corruption-charges-intact/7983729.html>
+
+---
+
+## Congressman Joe Neguse and Jen Rubin discuss Republican plan to Cut Medicaid
+
+date: 2025-02-21, from: The Contrarian
+
+Jen Rubin and Congressman Joe Neguse discuss threats to Medicaid, the Affordable Care Act, and Musk&#8217;s potential influence in government budget decisions. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157627791/c02faf8bcb933daa0c2a3c9c78873b81.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157627791/c02faf8bcb933daa0c2a3c9c78873b81.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/congressman-joe-neguse-and-jen-rubin>
+
+---
+
+## Cuts to USAID hurt American agricultural research
+
+date: 2025-02-21, from: Market Place
+
+Funding for agriculture research at 17 labs at U.S. universities is now frozen. The labs are laying off workers, and some research is on hold. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/21/usaid-cuts-trump-administration-agricultural-research/>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-02-21, from: The Contrarian
+
+Meet Raven! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-d35>
+
+---
+
+## US Treasury’s Bessent, China’s He trade economic complaints in call
+
+date: 2025-02-21, from: VOA News USA
+
+WASHINGTON — U.S. Treasury Secretary Scott Bessent traded policy complaints with Chinese Vice Premier He Lifeng on Friday, with Bessent telling Beijing to do more to curb fentanyl trafficking and rebalance its economy, and He voicing concerns about President Donald Trump’s new tariffs, the two governments said.
+
+
+The top economic officials from the world’s two largest economies agreed to keep up communications, the Treasury said in a readout of the introductory video call.
+
+
+“Secretary Bessent expressed serious concerns about the PRC’s counternarcotics efforts, economic imbalances, and unfair policies, and stressed the Administration’s commitment to pursue trade and economic policies that protect the American economy, the American worker, and our national security,” the Treasury said, using the acronym for China’s official name, the People’s Republic of China.
+
+
+Earlier, Chinese state media reported that He expressed concerns to Bessent over U.S. tariffs and trade restrictions on China during the call.
+
+
+The two sides had an “in-depth” exchange of views on important issues in China-U.S. economic relations, and both agreed to keep communicating on matters of mutual concern, according to a readout released by Chinese state media.
+
+
+He, the lead China-U.S. trade negotiator on the Chinese side, and Bessent recognized the importance of bilateral economic and trade relations, the readout said.
+
+
+More tariffs
+
+
+China and the United States are seeking to manage their relationship as they stand on the precipice of a renewed trade war.
+
+
+Trump imposed 10% tariffs on all Chinese goods in early February, citing China's failure to stanch fentanyl trafficking.
+
+
+Beijing retaliated by imposing targeted tariffs of up to 15% on some U.S. imports, including energy and farm equipment, and put several companies, including Google, on notice for possible sanctions.
+
+
+Trump has also planned further reciprocal tariffs for all countries that tax U.S. imports, a move that is likely to further escalate global trade tensions. During his election campaign, Trump threatened 60% tariffs on all Chinese imports.
+
+
+Trump said earlier this week he expected Chinese President Xi Jinping to visit the U.S., without giving a timeline for such a trip.
+
+
+Bessent said on Thursday he would tell his Chinese counterpart that China needed to rebalance its economy and rely more on domestic consumption for growth and less on investment and exports.
+
+
+“They are suppressing the consumer in favor of the business community,” Bessent told Bloomberg Television.
+
+
+Similar arguments
+
+
+The U.S. had a $295.4 billion goods trade deficit with China in 2024, down from a peak of $418.2 billion in 2018, the year Trump began imposing new tariffs on some $370 billion of Chinese imports.
+
+
+But last year’s deficit rose $16.3 billion from 2023 as Chinese exporters rushed to beat a new round of Trump tariffs.
+
+
+Bessent’s predecessor, former Treasury secretary Janet Yellen, met several times with He in recent years and lodged similar complaints about China’s state-led economic policies.
+
+
+She argued during a trip to China last year that those policies were leading to excess production capacity that was threatening the viability of firms in the U.S. and other market economies, a warning that laid the groundwork for former President Joe Biden’s steep tariff hikes on electric vehicles, semiconductors and solar products.
+
+
+He and other Chinese officials never accepted U.S. excess capacity assertions, arguing that China’s EV and other key industries are simply more competitive. 
+
+<br> 
+
+<https://www.voanews.com/a/us-treasury-s-bessent-china-s-he-trade-economic-complaints-in-call/7983523.html>
+
+---
+
+## Four scenarios for securing peace in Ukraine
+
+date: 2025-02-21, from: VOA News USA
+
+WASHINGTON — U.S. President Donald Trump is pushing for a peaceful resolution to Russia’s now three-year full-scale war in Ukraine. VOA examined several approaches floated by think tanks recently aimed at achieving a lasting peace to the war.
+
+
+Maximum pressure strategy
+
+
+A plan by the Center for European Policy Analysis, or CEPA, titled “How to Win: A Seven-Point Plan for Sustainable Peace in Ukraine,” calls for “a maximum pressure strategy to bring Russia to the negotiating table in good faith.”
+
+
+It proposes that the U.S. and its allies:
+
+
+
+	“Should provide immediate materiel support to Ukraine without caveats, aiming to wear down Russia’s military and thereby improve Ukraine’s negotiating position.”
+	“Should increase sanctions on Russian financial institutions and energy sector entities, release frozen Russian assets to support Ukrainian defense and reconstruction and enact secondary sanctions to intensify economic pressure not only on Russia but also on the authoritarian regimes of China, Iran, and North Korea.”
+
+
+ 
+
+
+CEPA says that “Ukraine and Europe” must be included in any peace talks with Russia, that the U.S. should support “a European-led coalition of the willing” to enforce any “ceasefire line with an international force,” and that “European allies must make consistent and as rapid as possible progress toward Ukraine’s accession to the European Union.”
+
+
+One of the report’s authors, Catherine Sendak, CEPA’s director for transatlantic defense and security, told VOA’s Ukrainian service that the United States should enter talks with Russia only having “equipped Ukraine with the strongest possible means” and using its toughest “diplomatic tools.”
+
+
+She added that the issue of Ukraine’s possible membership in NATO should not be included in talks with Russia. “To discuss that with a non-NATO member … I don’t believe it is advantageous to any negotiation,” Sendak said, noting that it would give Russia “veto power, if you will, over … choosing members to join the alliance or not.”
+
+
+Negotiating tactics
+
+
+Josh Rudolph, a German Marshall Fund senior fellow and head of its Transatlantic Democracy Working Group, worked on Russian and Ukrainian policy at the National Security Council during the first Trump administration.
+
+
+Last month, he offered policy recommendations to the current Trump administration on ending the Ukraine conflict.
+
+
+Among them:
+
+
+
+	“Approach [Russian President Vladimir] Putin from a position of strength. Whereas Putin looked tough and capable at the outset of Trump’s first term, his blunder in Ukraine has left him diminished. … As the dominant partner in this relationship, Trump, not Putin, can set negotiating terms.”
+	“Know when to walk away. A critical moment in the negotiations will come when Putin refuses to make major concessions. Trump must be prepared to walk away.”
+	“Combine sanctions with lower oil and gas prices. The best way to make Putin to see that pressing on in Ukraine would spell disaster for his rule is to pressure Russia financially. … Harnessing his warmer relationship with Saudi Arabia than [former President Joe] Biden enjoyed, Trump should flood the fossil fuel market, which would make the sanctions sustainable, starve Russia’s war machine, and generate political stability risks in Moscow.”
+
+
+ 
+
+
+Rudolph also recommended arming Ukraine “to the hilt”; giving it “all $300 billion of Russia’s frozen assets”; making Europe “pay more for weapons” and provide 100,000 troops as “peacekeepers”; enabling “American companies to rebuild Ukraine”; and inviting Ukraine to join NATO should Putin refuse to accept “reasonable” peace deal terms.
+
+
+Rudolph told VOA that Trump could convince those in the U.S. now skeptical of continuing to arm Ukraine that doing so as part of a peace deal would benefit American workers.
+
+
+“[H]e tells them, OK, now we’ve got a good deal, it’s secured by rare earth [minerals], it has ended the war, and in order to hold it together, we’re going to need to provide a continued stream of good old American-made weapons, which by the way, create all of these American jobs and facilities and factories across red states.”
+
+
+Touting economic benefits
+
+
+In a report titled “Dollars and Sense: America’s Interest in a Ukrainian Victory,” Elaine McCusker, Frederick W. Kagan and Richard Sims of the American Enterprise Institute looked at the cost of ending support for Ukraine, concluding that this would lead to Ukraine’s defeat and Russia’s advance farther into Europe, forcing the U.S. to surge its presence in Europe.
+
+
+Among the report’s conclusions:
+
+
+
+	“Supporting Ukraine to victory against Russia is in the best interest of the United States.”
+	“A world in which Russia prevails would be more dangerous and more expensive for America — requiring an estimated increase of $808 billion in defense spending over five years.”
+	“Alternatively, an increased and accelerated multinational commitment to Ukraine and the conclusion of the war in the near term would result in a vibrant and free Ukraine with a newly modernized and battle-tested military and a thriving industrial base, which would help stabilize Europe.”
+
+
+ 
+
+
+In an interview with VOA, Frederick Kagan said a Russian victory in Ukraine would be a victory for Iran, China and North Korea, encouraging adventurism in their respective regions, and allow Russia to rebuild its army by obtaining additional human and material resources within Ukraine.
+
+
+A Russian takeover of Ukraine would send a wave of refugees into Europe, further destabilizing the continent, Kagan said.
+
+
+“They’ve committed atrocities on the Ukrainian population in the areas they occupy. I would expect that would get worse the further west the Russians move and the more they move into the hardest traditional anti-Russian, pro-Western areas of western Ukraine. The horrors will be unspeakable,” he predicted.
+
+
+He said surged assistance to Ukraine would turn it into a bulwark for European peace and security — a country with a battle-tested army and rapidly developing military industry — thereby allowing the U.S. to focus on other regions.
+
+
+Middle road approach
+
+
+The Heritage Foundation’s “Project 2025 Presidential Transition Project” includes policy recommendations concerning the Russia-Ukraine war.
+
+
+It noted that the American conservative movement is split over Ukraine — one side supports Kyiv, the other favors walking away — and offered a middle road.
+
+
+Among Project 2025’s recommendations:
+
+
+
+	"With respect to Ukraine, continued U.S. involvement must be fully paid for; limited to military aid (while European allies address Ukraine’s economic needs); and have a clearly defined national security strategy that does not risk American lives.”
+	“Regardless of viewpoints, all sides agree that Putin’s invasion of Ukraine is unjust and that the Ukrainian people have a right to defend their homeland. The conflict has severely weakened Putin’s military strength and provided a boost to NATO unity and its importance to European nations.”
+	“The next conservative president has a generational opportunity to bring resolution to the foreign policy tensions within the movement and chart a new path forward that recognizes Communist China as the defining threat to U.S. interests in the 21st century.”
+
+
+ 
+
+
+James Carafano, a national security expert at The Heritage Foundation who is responsible for its defense and foreign policy team, told VOA that it is in the U.S. interest to have a free and independent Ukraine that can defend itself.
+
+
+“For the practical matter is, the United Europe can defend itself, and the United States can defend Europe if Ukraine’s occupied by Russia. Now, having said that, are we … way, way better off with the Russians on the other side of Ukraine? And the answer is ‘absolutely.’”
+
+
+
+
+In July, VOA published an interview with retired Army Lieutenant General Keith Kellogg, serving as Trump’s envoy for Ukraine and Russia, that focused on his vision of ending the war in Ukraine. 
+
+<br> 
+
+<https://www.voanews.com/a/four-scenarios-for-securing-peace-in-ukraine/7983483.html>
+
+---
+
+## Short-circuiting Democracy
+
+date: 2025-02-21, from: The Contrarian
+
+Fresh off his successful purchase of the Oval Office, Elon Musk wants to buy himself a majority on Wisconsin&#8217;s Supreme Court 
+
+<br> 
+
+<https://contrarian.substack.com/p/short-circuiting-democracy>
+
+---
+
+## California’s Population is Finally Rebounding. Trump Could Change That.
+
+date: 2025-02-21, from: Capital and Main
+
+<p>The state, home to nearly 2 million undocumented immigrants, could be hit hard by the president's deportation policies. </p>
+<p>The post <a href="https://capitalandmain.com/californias-population-is-finally-rebounding-trump-could-change-that">California&#8217;s Population is Finally Rebounding. Trump Could Change That.</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/californias-population-is-finally-rebounding-trump-could-change-that>
+
+---
+
+## Manufacturing sector shows signs of life
+
+date: 2025-02-21, from: Market Place
+
+Orders of manufactured goods have been picking up in recent months, according to the Institute for Supply Management. That's a sign that production and hiring could increase in the months ahead. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/21/manufacturing-sector-shows-signs-of-life/>
+
+---
+
+## Rubio highlights emerging terror threat in Afghanistan
+
+date: 2025-02-21, from: VOA News USA
+
+ISLAMABAD — U.S. Secretary of State Marco Rubio suggested late Thursday there are ungoverned regions in Taliban-controlled Afghanistan that provide opportunities for extremist groups to operate.
+
+
+The comments came in an interview with former CBS correspondent Catherine Herridge on X, where Rubio was asked if intelligence indicates that al-Qaida and Islamic State had set up safe havens in Afghanistan, posing a threat comparable to the one preceding the Sept. 11, 2001, attacks.
+
+
+“I wouldn’t say it’s the pre-9/11 landscape, but I think anytime you have governing spaces that are contested that you don’t have a government that has full control of every part of their territory, it creates the opportunity for these groups,” Rubio said.
+
+
+“The difference between today and 10 years ago is that we don’t have American elements on the ground to target and go after them,” the top U.S. diplomat noted.
+
+
+Rubio added that in some cases, the Taliban has been cooperative when “told that ISIS or al-Qaida is operating in this part of your country” and to go after them. Not so much in other cases, he said.
+
+
+“So, I would say that I wouldn’t compare it to pre-9/11, but it’s certainly far more uncertain — and it’s not just limited to Afghanistan,” Rubio said.
+
+
+The Taliban did not immediately respond to Rubio’s remarks, but they have persistently claimed to be in control of the entire country and rejected that any foreign terrorist organizations are on Afghan soil.
+
+
+
+
+Rubio’s comments came just days after the United Nations reported that al-Qaida operatives continued to find shelter across Afghanistan under the protection of the Taliban's intelligence agency.
+
+
+“The Taliban maintained a permissive environment allowing al-Qaida to consolidate, with the presence of safe houses and training camps scattered across Afghanistan,” read the report.
+
+
+It also described an Afghan-based Islamic State affiliate, the Islamic State-Khorasan, or IS-K, as “the greatest extra-regional terrorist threat.”
+
+
+The U.N. assessment highlighted that in addition to attacks on Taliban authorities and Afghan religious minorities, IS-K supporters conducted strikes as far away as Europe, and that the group “was actively seeking to recruit from among Central Asian states” bordering Afghanistan.
+
+
+The Taliban militarily swept back to power in August 2021 when the then-Afghan government collapsed as all U.S.-led NATO allied troops withdrew from the country after a nearly two-decade-long presence. 
+
+<br> 
+
+<https://www.voanews.com/a/rubio-highlights-emerging-terror-threat-in-afghanistan/7983365.html>
+
+---
+
+## How Massachusetts helped make the modern gambling industry
+
+date: 2025-02-21, from: Market Place
+
+A new podcast from GBH News finds that it's a story of scratch-off tickets, vaudeville and more. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/wav" src="https://www.marketplace.org/wp-content/uploads/2025/02/SW_Crane-singing-CLIP.wav"></source>
+</audio> <a href="https://www.marketplace.org/wp-content/uploads/2025/02/SW_Crane-singing-CLIP.wav" target="_blank">download audio/wav</a><br> 
+
+<https://www.marketplace.org/2025/02/21/how-massachusetts-helped-make-the-modern-gambling-industry/>
+
+---
+
+## Tom the Dancing Bug: Friday's Comic
+
+date: 2025-02-21, from: The Contrarian
+
+Star Wars: Special 2025 Edition 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-fridays-comic-d9a>
 
 ---
 
@@ -5853,4 +6764,1283 @@ The lawsuit, filed in federal court in Washington, says the actions taken by Mus
 <br> 
 
 <https://www.voanews.com/a/irs-to-lay-off-thousands-of-probationary-workers-in-tax-season/7976685.html>
+
+---
+
+## Central African Republic soldiers kidnapped by mercenaries, advocates allege
+
+date: 2025-02-15, from: VOA News USA
+
+BANGUI, CENTRAL AFRICAN REPUBLIC — Human rights advocates and politicians in Central African Republic claim soldiers who disappeared after being detained last month were kidnapped by mercenaries backed by Russia. The Kremlin has in recent years deepened ties with the gold- and diamond-rich country's military and government.
+
+
+Celestin Bakoyo and Elie Ngouengue — two soldiers who led a Wagner Group-aligned militia fighting rebels in the country's southeast — were reportedly detained on January 24 at a police station in the country's capital.
+
+
+Ernest Mizedio, a politician from the region, told The Associated Press that the two soldiers were among a group arrested earlier by Russian mercenaries tasked with training militia members and incorporating them into the army.
+
+
+"We searched without success for where they took them," he said, noting that supporters had inquired with both law enforcement and Russian security contractors about their whereabouts. "They said they had nothing to offer us and knew nothing of their situation."
+
+
+Mizedio, a member of one of Central African Republic's opposition parties, said there had been marches and protests decrying the arrests in the country's southeast.
+
+
+Neither Wagner nor the military responded to AP's requests for comment on the disappearance. However, a police officer, speaking on the condition of anonymity, said mercenaries were gradually vying for position and replacing officers on the ground in conflict zones.
+
+
+Before going missing, the two had come to the capital to open new bank accounts to access their earnings after being integrated into the army. The backlash against their disappearance comes as Russia expands its military and economic presence throughout Africa, using mercenaries to quell rebellion and fight extremists.
+
+
+Joseph Bindoumi, president of Central African Republic's League for Human Rights, denounced the disappearances, called them kidnappings and said even if the soldiers were accused of crimes, their whereabouts should be known.
+
+
+"We have the right to know if standard procedures are being followed. We have the right to see people to ensure their well-being and to ensure their parents, advocates and lawyers can visit them," he said.
+
+
+Central African Republic was one of the first places the mercenaries became active. Amid years of conflict between government forces and predominantly Muslim rebels, citizens and officials credited the Russian mercenaries with fighting back armed groups who tried to overtake Bangui in 2021.
+
+
+Yet they've been dogged by reports of recklessly disregarding human rights and civilian welfare. A 2023 investigation from the U.S.-based watchdog group The Sentry found that mercenaries train the army on torture tactics and as part of the fight against armed groups opposed to the government had carried out killings, torture and rape. 
+
+<br> 
+
+<https://www.voanews.com/a/central-african-republic-soldiers-kidnapped-by-mercenaries-advocates-allege-/7976454.html>
+
+---
+
+## US braces for flooding; parts of California face mudslides
+
+date: 2025-02-15, from: VOA News USA
+
+SIERRA MADRE, CALIFORNIA — Much of the Eastern United States braced for a renewed round of harsh, soggy weather Saturday, with thunderstorms and melting snow combining to pound the Ohio and Tennessee valleys. The lower Mississippi valley was facing the threat of strong tornadoes. 
+
+
+Kentucky, Tennessee, West Virginia and Arkansas were under flood warnings, and residents were warned by the National Weather Service to stay off roads. Parts of western Kentucky could face up to eight inches of rain. 
+
+
+"This may be a major, potentially historic, flash flood event," the NWS said. 
+
+
+Heavy snow, meanwhile, was expected to blanket much of New England and then transition to sleet, making travel nearly impossible, the NWS said. 
+
+
+In northern New York, heavy mixed precipitation is expected throughout the weekend. Weather forecasters said residents should expect snow, sleet and ice accumulations of six to 13 inches and wind gusts as high as 72 kilometers per hour (45 miles per hour) late Saturday and Sunday. 
+
+
+"Power outages and tree damage are likely due to the ice and strong winds. Travel could be very difficult to nearly impossible, the NWS said. 
+
+
+California struggles with mudslides 
+
+
+In Southern California on Friday, a mountain community near the Eaton Fire burn scar dug out of roads submerged in sludge after the strongest storm of the year swept through the area, unleashing debris flows and muddy messes in several neighborhoods recently torched by wildfires. 
+
+
+Dry weather returned to the region but the risk of rock and mudslides on wildfire-scarred hillsides continued Friday since dangerous slides can strike even after rain stops, particularly in scorched areas where vegetation that helps keep soil anchored has burned away. 
+
+
+Water, debris and boulders rushed down the mountain in the city of Sierra Madre on Thursday night, trapping at least one car in the mud and damaging several home garages with mud and debris. Bulldozers on Friday were cleaning up the mud-covered streets in the city of 10,000 people. 
+
+
+Sierra Madre officials issued evacuation orders for areas affected by the Eaton Fire, warning that fire, police and public works personnel would not enter areas experiencing active mud and debris flows and anyone who remained in a home under evacuation orders would need to shelter in place until areas are deemed safe for city personnel to enter. Residents of the city also had to evacuate during the Eaton Fire, which destroyed 15 homes in the community. 
+
+
+In Pacific Palisades on Friday, some residents washed their mud-covered driveways and bulldozers worked to clear mud-coated roads not far from where, just weeks ago, officials moved abandoned cars after people fleeing last month's wildfires got stuck in traffic and fled on foot. 
+
+
+Southern California reported 2.5 to 7 centimeters (1 to 3 inches) of rain in coastal areas and valleys and 7.6 to 15.2 centimeters (3 to 6 inches) across the coastal slopes Thursday, said Mike Wofford, a meteorologist with the weather service. 
+
+
+The precipitation was badly needed, as much of Southern California remains in extreme or severe drought, according to the U.S. Drought Monitor. In neighboring Nevada, the weather service said it recorded a measurable amount of rain in Las Vegas, ending a streak of 214 days without precipitation. 
+
+
+A storm in the Sierra Nevada mountains dumped 1.8 meters (6 feet) of snow over 36 hours. Two ski patrol staff from Mammoth Mountain were caught in an avalanche during avalanche mitigation work Friday morning, the resort said in a Facebook post. One was extracted and was responsive, while the other was taken to a hospital with serious injuries. 
+
+
+More winter weather descending
+
+
+Meteorologists warn that the U.S. is about to get its 10th and coldest polar vortex stretching event this season. Weather forces in the Arctic are combining to push the chilly air that usually stays near the North Pole into the U.S. and Europe. The latest projected cold outbreak should first hit the northern Rockies and northern Plains on Saturday and then stick around all next week. 
+
+
+In Denver, Colorado, where temperatures are expected to dip as low as minus 10 degrees Celsius (14 degrees Fahrenheit) over the weekend, the city has extended its cold weather shelters for those living on the streets. The Denver Coliseum — an arena with some 10,000 seats — will be opened Saturday for additional space, while a free bus will loop between the shelters across the city. 
+
+<br> 
+
+<https://www.voanews.com/a/us-braces-for-flooding-parts-of-california-face-mudslides-/7976445.html>
+
+---
+
+## Carafano: 'A free, independent Ukraine is in America's best interest'
+
+date: 2025-02-15, from: VOA News USA
+
+WASHINGTON — James Carafano, senior counselor to the president and national security expert at The Heritage Foundation, responsible for its defense and foreign policy team, spoke with VOA's Ukraine Service about the Trump administration's goals and considerations in the negotiation process to achieve peace in Ukraine.
+
+
+He explained that while not a vital interest, a free and independent Ukraine that can defend itself is in America's best interests, and he outlined how to achieve this goal.
+
+
+Voice of America: How do you and The Heritage Foundation see ending the war in Ukraine, and what is the strategy behind it?
+
+
+
+
+James Carafano, The Heritage Foundation: It is in America's best interest that there be a free and independent Ukraine that can defend itself. And the reason for that is the United States. The United States is a global power with global interests and global responsibilities.
+
+
+A peaceful Europe, whole, free and at peace, that is a vital American interest. The trans Atlantic community is important to us. And the number one threat, physical threat to that is the destabilizing actions of Russia. And the most concerning and destabilizing action is the security of the Eastern front of NATO and Ukraine, that is free and independent, that can defend itself is an obstacle to the Russians, whether it's in NATO or not.
+
+
+Now, to be honest, it's not a vital interest in the United States. For the practical matter is, the United Europe can defend itself and the United States can defend Europe if Ukraine's occupied by Russia. Now having said that, are we way better off? I mean, way, way better off with the Russians on the other side of Ukraine? And the answer is "absolutely."
+
+
+At this point, what is in America's interest is that the war stops and that there is a ceasefire that is both from a strategic perspective to preserve Ukraine, and that we have to be realistic about Ukraine's capacity to recover territory that's been occupied. But also from a humanitarian perspective, and I think this is very deeply reflected in our president. More Ukrainians dying is never going to reconquer all of Ukrainian territory. A war of attrition is never going to create a stronger Ukraine.
+
+
+I think everybody is focused on what the deal looks like. I think the deals are relevant. Stopping the war is the objective. The real question is, what do we do the day after the war to ensure there's a free and independent Ukraine in the future?
+
+
+VOA: The defense secretary said we don't want Minsk 3.0. Are we falling into the trap of Munich 2.0, where we appease the dictator, give away territories, embolden the aggressor, and end up in a world war?
+
+
+Carafano: I don't think that's the peace that the U.S. envisions. So, I'll tell you what appeasement would be. Appeasement would be giving the Russians something at the negotiating table that they didn't win on the battlefield. That's appeasement.
+
+
+Recognizing that the Russians have territory they have and the inability of the Ukraine [forces] to retake that territory — maybe they trade territory, I don't know — that's called being realistic.
+
+
+VOA: If Russia is allowed to keep its spoils of war, what message would it send to other would-be aggressors?
+
+
+Carafano: That Russia has failed. Russia's goal was to conquer and destroy Ukraine. It failed. Russia's goal was to have NATO fall apart. It failed. If Russia is stopped in Ukraine, and look what they have achieved, they've achieved some marginal territorial gains at the cost of destroying the Russian army, crippling the Russian economy, and making themselves a global pariah. If that's a victory, it's a kind of really weird Pyrrhic victory.
+
+
+VOA: Then, why would [Defense Secretary] Pete Hegseth articulate these concessions?
+
+
+Carafano: They're not concessions. They are statements of reality. We all know it's true. If you give Putin something at the negotiation table that he wasn't able to take on the battlefield, that is a concession. So, if for example you said, Ukraine has to give up the sovereignty of its territory even its occupied territory, I would say that's a really bad deal. That's a concession. We have never ever forced any country to actually give up the sovereignty of its territory."
+
+
+VOA: What about [Ukraine`s membership] in NATO? Here is a counterargument: Why Russia should have a veto power over NATO?
+
+
+Carafano: First of all, Hegseth has never said Russia should have a veto power over the entry of Ukraine into NATO. Hegseth has said, "This is not going to be part of the negotiation and Ukraine is not going to get into NATO now." That's no different from the Biden policy and that's actually just a reflection of reality. NATO is a consensus organization. Every member has to agree. Every member does not agree. So, we all know, the Russians know, we know, everybody in NATO knows, Ukraine is not going to get NATO membership now."
+
+
+VOA: What about the future?
+
+
+Carafano: He didn't say that Ukraine shouldn't join NATO in the future. He just said that NATO membership is not going to be part of the negotiation.
+
+
+VOA: So, the main issue here is security guarantees.
+
+
+Carafano: That's also wrong. Somehow that we're going to say something that's going deter Putin in the future. That's nonsense and ridiculous. What's going to deter Putin in the future is, does Ukraine have the capacity to defend itself?
+
+
+VOA: So how do we deter the Russians?
+
+
+Carafano: We have a Ukraine as a country that can defend itself and that is free, and its economy grows, and it builds a defense industrial base. And we strengthen NATO because that will equally deter the Russians.
+
+
+And we do the other things, which by the way Donald Trump is going to do already, whether there's a peace deal or not. Donald Trump is going to put a lot of pressure on the Russians. He's going to lower the price of oil. He's going to increase sanctions. He's going to [do] a lot of things that are going to hamstring the Russian economy. Russia is going to be weaker. He's going to do a lot of things to go after the Iranians. So, the Iranians are going to have a lot less capacity to support the Russians. He's going to do a lot of things to put a lot of pressure on the Chinese.
+
+
+The Chinese are going to be less able to support the Russians. Donald Trump can do a lot to North Korea.
+
+
+Regardless of what happens in the actual peace deal in Ukraine, Trump is going to do a lot to the Russians, the Chinese, the North Koreans and the Iranians that really diminishes their capacity to sustain this war. 
+
+<br> 
+
+<https://www.voanews.com/a/carafano-a-free-independent-ukraine-is-in-america-s-best-interest-/7976425.html>
+
+---
+
+## Quid pro quo? Hell no! (aka Sassoon-er or Later Trump Will Go)
+
+date: 2025-02-15, from: The Contrarian
+
+Publisher's Roundup, Week #5 
+
+<br> 
+
+<https://contrarian.substack.com/p/quid-pro-quo-hell-no-aka-sassoon>
+
+---
+
+## US citizen detained in Russia, accused of drug smuggling
+
+date: 2025-02-15, from: VOA News USA
+
+MOSCOW — A Moscow court has ordered a U.S. citizen suspected of drug smuggling held in pre-trial detention for 30 days, the Moscow courts press service said Saturday, days after a Moscow-Washington prisoner swap that the White House called a diplomatic thaw and a step toward ending the fighting in Ukraine. 
+
+
+The U.S. citizen, whom Saturday's statement named as Kalob Wayne Byers, was detained after airport customs officials found cannabis-laced marmalade in his baggage. 
+
+
+Russian police said the 28-year-old American had attempted to smuggle a "significant amount" of drugs into the country, the Interfax agency reported, citing Russia's Federal Customs Service. The agency said the American was detained at Moscow's Vnukovo airport after flying in from Istanbul on February 7. 
+
+
+Mash, a Russian Telegram channel with links to the security services, said the U.S. citizen faces up to seven years in prison if convicted. 
+
+
+There was no immediate comment from the U.S. State Department. 
+
+
+The Washington-Moscow prisoner exchange this month saw Alexander Vinnik, a Russian cryptocurrency expert who faced Bitcoin fraud charges in the United States, returned to Russia in exchange for American Marc Fogel, a teacher from Pennsylvania who was detained in 2021 when traveling to Russia to work at a school. 
+
+
+Fogel had been serving a 14-year sentence for having what his family and supporters said was medically prescribed marijuana. President Joe Biden's administration designated Fogel as wrongfully detained in December. 
+
+
+President Donald Trump on Wednesday upended three years of U.S. policy toward Ukraine, saying he and Russian leader Vladimir Putin had agreed to begin negotiations on ending the conflict following a lengthy direct phone call. 
+
+<br> 
+
+<https://www.voanews.com/a/us-citizen-detained-in-russia-accused-of-drug-smuggling-/7976409.html>
+
+---
+
+## US counterterror official warns of growing global threat
+
+date: 2025-02-15, from: VOA News USA
+
+WASHINGTON — A senior U.S. counterterrorism official is cautioning that the threat from global jihadists has expanded significantly, although the resources to counter them have declined.
+
+
+Sebastian Gorka, deputy assistant to President Donald Trump and senior director for counterterrorism, on Feb. 11 told a Washington conference organized by the American Foreign Policy Council that he based the current threat assessment on several factors.
+
+
+“Number one, jihadist groups are more geographically dispersed than ever before, with networks extending across the Sahel, Central and East Africa, the Middle East and Central Asia,” he said.
+
+
+“To cite just one example, West African countries like Benin and Togo, that once had little exposure to jihadi threats, are now seeing jihadi Sunni actors in their territory and elsewhere, affecting their national sovereignty.”
+
+
+Benin and Togo have reported attacks by al-Qaida, an expansion of the violence the terror group is carrying out in Niger, Mali and Burkina Faso.
+
+
+Gorka said militant groups are increasingly capable and using new forms of technology to execute their deadly missions.
+
+
+Gorka said that militants “remain highly adaptive entities.”
+
+
+“If you look at their use of social media, especially encrypted apps to communicate, these individuals have acclimatized to the new technological environment,” he said.
+
+
+One of Trump’s main campaign promises in last year’s election was to tighten security along the U.S. border and deport migrants without legal status. He signed an executive order declaring a national emergency at the border. Gorka argued that border vulnerabilities give militants an advantage.
+
+
+“The global jihadi actors are poised to capitalize on global security vulnerabilities, especially the fact that, for four years, we have had no southern border,” Gorka said.
+
+
+Former President Joe Biden defended his immigration policies during the 2024 presidential election campaign and blamed the Republicans for walking back on a bipartisan immigration bill. Biden said Trump was involved in sinking the bill.
+
+
+The Middle East
+
+
+Gorka said militant groups in the Middle East, including Hezbollah and Hamas, which the United States, Britain and other Western nations have designated as terrorist groups, have been severely marginalized.
+
+
+“Let's just be blunt — since the heinous, tragic massacre of more Jews than have ever been killed since the end of the Shoah [Holocaust] in 1945, since Oct. 7, our friends in Israel have literally redrawn the map of the region,” he said.
+
+
+The war in Gaza was triggered by the October 2023 Hamas terror attack on Israel that killed 1,200 people and led to the capture of 250 hostages. Israel’s counteroffensive has killed more than 48,200 Palestinians, more than half of them women and children, according to Gaza health authorities. Israel says the death toll includes 17,000 militants it has killed.
+
+
+“As a result, groups like Hezbollah and Hamas have been radically degraded,” Gorka said. This has paved the way for what? The collapse of the [Bashar al-] Assad regime in Syria, which together represent devastating blows to the greatest global sponsor of terrorism as a nation-state — Iran's capability to hurt our interests and the interests of our friends and partners.”
+
+
+US airstrikes in Somalia
+
+
+Gorka also gave more details about the airstrikes on Feb. 1 that targeted Islamic State group militants in Somalia’s northeastern region of Puntland.
+
+
+The strikes were carried out by the U.S. Africa Command and authorized by Trump and coordinated with Somalia.
+
+
+“We told the president, ‘There is a cave complex in northern Somalia full of ISIS,” he said, using an acronym for the Islamic State group. “We have been surveilling it for years, but the last administration refused to take action.”
+
+
+According to the Africa Command, 14 militants were killed, including Ahmed Maeleninine, who was described as a "recruiter, financier and external operations leader responsible for the deployment of jihadists into the United States and across Europe."
+
+
+Somali officials said he is from Oman, although the U.S. has not commented on his nationality.
+
+
+“The person you saw in the footage is not just a foot soldier,” Gorka said as video of the airstrike was played. “He is a recruiter, trainer and financier for ISIS, one of the guys who is hard to replace. We had been surveilling him for months.”
+
+
+The strikes were carried out by fighter jets launched from the USS Harry S. Truman, which was in the Red Sea at the time.
+
+
+Trump confirmed ordering a precision military airstrikes on the same day.
+
+
+
+
+Somali forces in Puntland this week reported success against the militants. Scores were killed after Puntland forces repelled a complex attack from the militants in the early hours of Feb. 11.
+
+
+The U.S. has been training elite Somali forces known as Danab, which means “lightning.” So far, there has been no publicly known change of US security support to Somalia.
+
+
+VOA’s Farsi Service contributed to this report. 
+
+<br> 
+
+<https://www.voanews.com/a/us-counterterror-official-warns-of-growing-global-threat/7976386.html>
+
+---
+
+## Stars galore celebrate 'Saturday Night Live' in concert
+
+date: 2025-02-15, from: VOA News USA
+
+NEW YORK — By the time Cher sang “If I Could Turn Back Time,” it seemed as if time had indeed been turned back and every single “Saturday Night Live” musical guest of 50 years had magically found their way to Radio City Music Hall.
+
+
+Of course, it was only a smattering. But “SNL50: The Homecoming Concert” boasted an epic lineup. It was an evening of memorable solo performances and often fascinating, one-time-only collaborations.
+
+
+The concert, hosted by Jimmy Fallon, was only one element of what has become an enormous celebration of the show’s 50 years in existence, leading up to Sunday’s “SNL50: The Anniversary Special," live from Studio 8H.
+
+
+But Friday night was all about music.
+
+
+ 
+
+
+
+
+Return of the 1990s
+
+
+If a decade can win the night, let’s hear it for the 1990s. A classic performance from that decade was most likely to get the Radio City audience on its feet, singing along and pulling out their phones to record.
+
+
+The Backstreet Boys proved irresistible when they broke into “I Want it That Way.” Snoop Dogg may have sung “Gin and Juice,” but he was trailed by enough smoke to give nearby audience members a contact high.
+
+
+Wearing a gigantic coat befitting a winter night, Lauryn Hill commanded the stage with Wyclef Jean, and the crowd melted at the first notes of “Killing Me Softly.”
+
+
+Some comics can do music
+
+
+Naturally, some former “SNL” cast members reprised old characters, with varying levels of success.
+
+
+The Culps, the stuffy music teachers played by Will Ferrell and Ana Gasteyer, hit harder and funnier than they ever did on the show. Their attempts at being current were hilarious and they even worked in a few verses of “Not Like Us,” with a plea for harmony between Kendrick Lamar and Drake.
+
+
+Andy Samberg and Chris Parnell’s “Lazy Sunday” was welcome, but too short. Lady Gaga was a good sport, replacing Justin Timberlake to sing about a Christmas gift whose title can't be repeated here. But Bill Murray’s lounge singer "foursome” routine with Gasteyer, Maya Rudolph and Cecily Strong fell a bit flat.
+
+
+ 
+
+
+
+
+They love Michaels
+
+
+“SNL” creator Lorne Michaels didn’t perform, but he was referred to all night long.
+
+
+“I love you, Lorne Michaels,” declared Miley Cyrus, dedicating her hit song “Flowers” to the show's founder.
+
+
+Raitt, finishing “I Can’t Make You Love Me,” thanked Michaels for having her on the show so many times.
+
+
+“Let’s give it up for Lorne,” said former cast member Adam Sandler, introducing a collaboration between Post Malone and Nirvana. “We love you buddy.”
+
+
+And Marcus Mumford, lead singer of the British folk band Mumford & Sons, said he was there to represent Michaels' admirers from across the pond.
+
+
+Creative collaborations
+
+
+The night featured fascinating collaborations that brought together musicians of all kinds.
+
+
+Cyrus teamed with Brittany Howard to sing Queen’s “Crazy Little Thing Called Love.”
+
+
+Arcade Fire joined with David Byrne, St. Vincent and the Preservation Hall Jazz Band to perform David Bowie’s “Heroes.” Byrne later also collaborated with Robyn, in matching khaki suits, for “Dancing on My Own” and “This Must Be the Place (Naive Melody).”
+
+
+And for Raitt's second song, she sat down with Chris Martin, the Coldplay frontman becoming her pianist for “I Can’t Make You Love Me.”
+
+
+In another collab of sorts, the B-52s were joined on “Love Shack” by former and current SNL cast members Fred Armisen, Bowen Yang and Sarah Sherman, singing the “bang bang” lyrics.
+
+
+Lady Gaga collaborated with herself, singing both parts of “Shallow” and bringing down the house.
+
+
+ 
+
+
+
+
+Most valuable player
+
+
+Questlove is more associated with the “Tonight” show, but he is proving to be the MVP of these “Saturday Night Live” anniversary festivities.
+
+
+Not only did the drummer produce the splendid documentary on the “SNL” musical legacy, but he effortlessly kept the beat with The Roots, his legendary hip-hop group and “Tonight” show house band, as they covered every style imaginable, from Snoop to Eddie Vedder to Brandi Carlile. Byrne bowed in appreciation.
+
+
+A second Nirvana reunion
+
+
+For the second time in as many weeks, the surviving members of Nirvana reunited.
+
+
+Rather than the quartet of women who fronted the band for the Fire Aid concert, Malone took Kurt Cobain’s place Friday.
+
+
+Their version of “Smells Like Teen Spirit” was fierce, a reminder of why the song packed such a wallop when it was first heard. 
+
+<br> 
+
+<https://www.voanews.com/a/stars-galore-celebrate-saturday-night-live-in-concert/7976367.html>
+
+---
+
+## US defense secretary's Europe debut irks allies, wins Trump's nod
+
+date: 2025-02-15, from: VOA News USA
+
+WASHINGTON — U.S. Defense Secretary Pete Hegseth's attention-grabbing overseas debut may have irritated some key Republicans and alienated allies in Europe, where his statements on Ukraine and NATO went down like a lead balloon.
+
+
+But his forceful comments gained him a nod from one key listener: U.S. President Donald Trump.
+
+
+And Hegseth — who on Saturday wraps up a weeklong trip to Belgium, Germany and Poland — delivered a message at the heart of Trump's “America First” agenda.
+
+
+Speaking at the NATO headquarters in Brussels on Wednesday, Hegseth said that a return to Ukraine's pre-2014 borders was unrealistic, and that the Trump administration does not see NATO membership for Kyiv as part of a solution to the war triggered by Russia's 2022 invasion.
+
+
+Trump broadly backed Hegseth's remarks on Thursday on NATO membership, saying, "I think probably that's true," because, he said, Putin would not allow Ukraine to join the military alliance.
+
+
+"I thought his comments were good yesterday, and they're probably good today," Trump said.
+
+
+Senator Roger Wicker, the Republican who leads the Pentagon's main oversight committee in the Senate, had championed Hegseth's nomination throughout a bruising confirmation review in which Democrats united against the nominee and three Republicans joined them, as questions were raised about Hegseth's qualifications, temperament and views about women in combat.
+
+
+Asked whether he spent a lot of political capital getting Hegseth, a military veteran and former Fox News personality, confirmed, Wicker said: "I surely did, yes."
+
+
+
+
+Republican Congressman Mike Turner said issues like the future of NATO membership for Ukraine should not be taken off the table.
+
+
+"We don't need members of the Cabinet, President Trump's Cabinet, to be defining those in the public," Turner said Friday on CNN.
+
+
+Republican Congressman Don Bacon responded to Hegseth's comments by saying that there should be moral clarity on who started the war.
+
+
+"There are consequences of rewarding the invader even if its leader foolishly led over 700,000 of its citizens to slaughter," Bacon said on social media platform X.
+
+
+Uncle Sam or Uncle Sucker?
+
+
+Trump has played down any tensions. On Friday, he said he had not seen Wicker's comments but would reach out to him and Hegseth.
+
+
+"Roger's a very good friend of mine, and Pete is obviously, he's been doing a great job," Trump said.
+
+
+Hegseth, in what some analysts saw as walking back his remarks, clarified on Thursday that Trump was the one who would ultimately decide what was on or off the table in the Ukraine talks.
+
+
+Calling Trump the world's best negotiator, Hegseth said it would not be appropriate for him to "declare what President Trump will do or won't do, what will be in or what will be out."
+
+
+He also delivered a message that resonates with Trump and his “America First” agenda: Europe has been taking advantage of the United States.
+
+
+Hegseth spoke about Europe's reliance on costly U.S. military deployments for its defense. Trump has criticized Europe over what he sees as its unfair tariffs against American goods.
+
+
+The United States and European Union have the world's largest commercial relationship, trading $1.55 trillion of goods and services in 2023.
+
+
+Speaking to reporters at NATO headquarters, Hegseth said: "Make no mistake: President Trump will not allow anyone to turn Uncle Sam into 'Uncle Sucker.'"
+
+
+In Trump's first term, NATO was seen as a red line for his Pentagon chiefs. Jim Mattis, his first defense secretary, resigned in part because of Trump's skepticism toward NATO.
+
+
+America's European allies were critical of Hegseth.
+
+
+"I think that was clumsy. I think that was a mistake," German Defense Minister Boris Pistorius said, also criticizing Trump.
+
+
+European foreign policy chief Kaja Kallas went further. "It is appeasement. It has never worked," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-defense-secretary-s-europe-debut-irks-allies-wins-trump-s-nod/7976197.html>
+
+---
+
+##  YOU LOVE TO SEE IT: A City Runs Clean 
+
+date: 2025-02-15, from: The Lever News
+
+ A major city cleans up its act, states water local news deserts, indie bookstores kindle competition, and mergers must happen out in the open.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-a-city-runs-clean/>
+
+---
+
+## US Justice Department asks court to dismiss charges against NYC mayor
+
+date: 2025-02-15, from: VOA News USA
+
+NEW YORK — The U.S. Justice Department asked a court Friday to dismiss corruption charges against New York City Mayor Eric Adams, with a top official from Washington intervening after federal prosecutors in Manhattan rebuffed his demands to drop the case and some quit in protest.
+
+
+Acting Deputy Attorney General Emil Bove, the department’s second-in-command, and lawyers from the public integrity section and criminal division filed paperwork asking to end the case. They contend that it was marred by appearances of impropriety and that letting it continue would interfere with the mayor’s reelection bid.
+
+
+A judge must still approve the request.
+
+
+The filing came hours after Bove convened a call with the prosecutors in the Justice Department’s public integrity section — which handles corruption cases — and gave them an hour to pick two people to sign onto the motion to dismiss, saying those who did so could be promoted, according to a person familiar with the matter.
+
+
+After prosecutors got off the call with Bove, the consensus among the group was that they would all resign. But a veteran prosecutor stepped up out of concern for the jobs of the younger people in the unit, said the person, who spoke on the condition of anonymity to discuss details of the private meeting.
+
+
+The three-page dismissal motion bore Bove's signature and the names of Edward Sullivan, the public integrity section’s senior litigation counsel, and Antoinette Bacon, a supervisory official in the department’s criminal division. No one from the federal prosecutor’s office in Manhattan, which brought the Adams case, signed the document.
+
+
+
+
+The move came five days into a showdown between Justice Department leadership in Washington and its Manhattan office, which has long prided itself on its independence as it has taken on Wall Street malfeasance, political corruption and international terrorism. At least seven prosecutors in Manhattan and Washington quit rather than carry out Bove’s directive to halt the case, including interim Manhattan U.S. Attorney Danielle Sassoon and the acting chief of the public integrity section in Washington.
+
+
+The Justice Department said in its motion to Judge Dale E. Ho that it was seeking to dismiss Adams’ charges with the option of refiling them later. Ho had yet to act on the request as of Friday evening.
+
+
+“I imagine the judge is going to want to explore what his role is under the rules,” said Joshua Naftalis, a former Manhattan federal prosecutor who is not involved in Adams’ case. “I would expect the court to either ask the parties to come in person to court or to file papers, or both.”
+
+
+Bove said earlier this week that U.S. President Donald Trump’s permanent, appointed Manhattan U.S. attorney, who has yet to be confirmed by the Senate, can decide whether to refile the charges after the November election.
+
+
+Adams faces a Democratic primary in June, with several challengers lined up. His trial had been on track to be held in the spring. Bove said that continuing the prosecution would interfere with Adams’ ability to govern, posing “unacceptable threats to public safety, national security, and related federal immigration initiatives and policies," the dismissal motion said.
+
+
+Among other things, it said, the case caused Adams to be denied access to sensitive information necessary to help protect the city.
+
+
+Adams pleaded not guilty in September to charges he accepted more than $100,000 in illegal campaign contributions and lavish travel perks from foreign nationals looking to buy his influence while he was Brooklyn borough president campaigning to be mayor. Although critical in the past, Adams has bonded at times with Trump recently and visited him at his Florida golf club last month.
+
+
+The president has criticized the case against Adams and said he was open to giving the mayor, who was a registered Republican in the 1990s, a pardon.
+
+
+Bove sent a memo Monday directing Sassoon, a Republican, to drop the case. He argued the mayor was needed in Trump’s immigration crackdown and echoed Adams’ claims that the case was retaliation for his criticism of Biden administration immigration policies.
+
+
+Instead of complying, Sassoon resigned Thursday, along with five high-ranking Justice Department officials in Washington. A day earlier, she sent a letter to Trump’s new attorney general, Pam Bondi, asking her to meet and reconsider the directive to drop the case.
+
+
+
+
+Sassoon suggested in her letter that Ho “appears likely to conduct a searching inquiry" as to why the case should be dismissed. She noted that in at least one instance, a judge has rejected such a request as contrary to the public interest.
+
+
+“A rigorous inquiry here would be consistent with precedent and practice in this and other districts," she wrote.
+
+
+Seven former Manhattan U.S. attorneys, including James Comey, Geoffrey S. Berman and Mary Jo White, issued a statement lauding Sassoon’s “commitment to integrity and the rule of law."
+
+
+On Friday, Hagan Scotten, an assistant U.S. attorney in Manhattan who worked for Sassoon and had a leading role in Adams' case, became the seventh prosecutor to resign — and blasted Bove in the process. Scotten wrote in a resignation letter to Bove that it would take a “fool” or a “coward” to meet his demand to drop the charges, "But it was never going to be me.” He told Bove he was “entirely in agreement” with Sassoon’s decision.
+
+
+Scotten and other Adams case prosecutors were suspended with pay on Thursday by Bove, who launched a probe of the prosecutors that he said would determine whether they kept their jobs.
+
+
+Scotten is an Army veteran who earned two Bronze medals serving in Iraq as a Special Forces troop commander. He graduated from Harvard Law School at the top of his class in 2010 and clerked for Chief Justice John Roberts.
+
+
+In her letter to Bondi, Sassoon accused Adams’ lawyers of offering what amounted to a “quid pro quo” — his help on immigration in exchange for dropping the case — when they met with Justice Department officials in Washington last month. Adams' lawyer Alex Spiro said Thursday that the allegation of a quid pro quo was a “total lie."
+
+
+“We were asked if the case had any bearing on national security and immigration enforcement and we truthfully answered it did," Spiro said in an email to reporters.
+
+
+
+
+On Friday, Adams added: “I never offered — nor did anyone offer on my behalf — any trade of my authority as your mayor for an end to my case. Never.”
+
+
+Scotten seconded Sassoon’s objections in his letter, writing: “No system of ordered liberty can allow the Government to use the carrot of dismissing charges, or the stick of threatening to bring them again, to induce an elected official to support its policy objectives."
+
+
+The prosecutor, who appeared in court for various hearings in the case, said he was following “a tradition in public service of resigning in a last-ditch effort to head off a serious mistake." He said he could see how a president such as Trump, with a background in business and politics, “might see the contemplated dismissal-with-leverage as a good, if distasteful, deal.” But he said any prosecutor “would know that our laws and traditions do not allow using the prosecutorial power to influence other citizens, much less elected officials, in this way.” 
+
+<br> 
+
+<https://www.voanews.com/a/us-justice-department-asks-court-to-dismiss-charges-against-nyc-mayor/7976083.html>
+
+---
+
+## No need for one country to control chip industry, Taiwan official says
+
+date: 2025-02-15, from: VOA News USA
+
+TAIPEI, TAIWAN — There is no need for one country to control the semiconductor industry, which is complex and needs a division of labor, Taiwan's top technology official said on Saturday after U.S. President Donald Trump criticized the island's chip dominance.
+
+
+Trump repeated claims on Thursday that Taiwan had taken the industry and he wanted it back in the United States, saying he aimed to restore U.S. chip manufacturing.
+
+
+Wu Cheng-wen, head of Taiwan's National Science and Technology Council, did not name Trump in a Facebook post but referred to Taiwan President Lai Ching-te's comments on Friday that the island would be a reliable partner in the democratic supply chain of the global semiconductor industry.
+
+
+Wu wrote that Taiwan has in recent years often been asked how its semiconductor industry had become an internationally acclaimed benchmark.
+
+
+"How did we achieve this? Obviously, we did not gain this for no reason from other countries," he said, recounting how the government developed the sector from the 1970s, including helping found TSMC, now the world's largest contract chipmaker, in 1987.
+
+
+"This shows that Taiwan has invested half a century of hard work to achieve today's success, and it certainly wasn't something taken easily from other countries."
+
+
+Each country has its own specialty for chips, from Japan making chemicals and equipment to the United States, which is "second to none" on the design and application of innovative systems, Wu said.
+
+
+"The semiconductor industry is highly complex and requires precise specialization and division of labor. Given that each country has its own unique industrial strengths, there is no need for a single nation to fully control or monopolize all technologies globally."
+
+
+Taiwan is willing to be used as a base to assist "friendly democratic countries" in playing their appropriate roles in the semiconductor supply chain, Wu said. 
+
+<br> 
+
+<https://www.voanews.com/a/no-need-for-one-country-to-control-chip-industry-taiwan-official-says/7976061.html>
+
+---
+
+## Ukraine would have ‘low chance to survive’ without US support, Zelenskyy says
+
+date: 2025-02-15, from: VOA News USA
+
+Ukraine would have a "very, very difficult" time surviving without U.S. military support to fend off Russia’s invasion, President Volodymyr Zelenskyy said in a interview broadcast the night before he is scheduled to address the Munich Security Conference.
+
+
+"Probably it will be very, very, very difficult. And of course, you know in all the difficult situations, you have a chance," he told NBC News. "But we will have low chance -- low chance to survive without support of the United States."
+
+
+Zelenskyy also said that Ukraine has increased its war production but not enough to make up for what it would lose if it did not have U.S. backing.
+
+
+Zelenskyy on Feb. 14 took part in a day of meetings and news briefings at the Munich Security Conference as efforts to seek a resolution to the war ramp up. The Ukrainian president is scheduled to deliver a speech on diplomacy and prospects for Ukraine's future at the conference on Feb. 15.
+
+
+He will take the spotlight after meeting with top U.S. officials, including Vice President JD Vance, who stressed the need for a "durable, lasting peace" in Ukraine in his speech to the conference on Feb. 14. Zelenskyy told Vance that Ukraine wants "security guarantees" from Washington before any negotiations with Russia on ending almost three years of war.
+
+
+Zelenskyy said in the interview that he doesn’t want to think about Ukraine not being a strategic partner of the United States because it would damage Ukrainian morale, but added, "We have to think about it."
+
+
+The United States has sent mixed signals on its strategy, sparking worry in Kyiv that Ukraine could be forced into a bad deal that leaves Putin emboldened.
+
+
+U.S. Defense Secretary Pete Hegseth told NATO defense ministers earlier this week that it's "unrealistic" to expect Ukraine's borders to return to their pre-2014 positions and said NATO membership is not seen by the White House as part of the solution to the conflict.
+
+
+Ukraine demands Russia withdraw from captured territory and says it must receive NATO membership or equivalent security guarantees to prevent Moscow from attacking again.
+
+
+Speaking in Warsaw on Feb. 14, he again warned that America's European NATO partners would have to do far more for their own defense and to secure a future Ukraine peace.
+
+
+Hegseth also argued that you "don't have to trust" President Vladimir Putin to negotiate with Russia.
+
+
+Two days earlier U.S. President Donald Trump said he had a "lengthy and highly productive" phone call with Putin and said they agreed that their teams should begin negotiations immediately.
+
+
+Zelenskyy responded by saying he wouldn't accept any deals made without Ukraine's involvement.
+
+
+Asked in the interview if he believed that Ukraine would be vulnerable in another few years if a cease-fire were reached, Zelenskyy said: "Yes, I think this can be."
+
+
+He said Putin wanted to come to the negotiating table not to end the war but to get a cease-fire deal to lift some sanctions on Russia and allow Moscow's military to regroup.
+
+
+"This is really what he wants. He wants pause, prepare, train, take off some sanctions, because of ceasefire," Zelenskyy said.
+
+
+Vance, who is representing Trump at the high-profile gathering of world leaders and foreign policy experts, said the United States wants "the kind of peace that's going to have Eastern Europe in conflict just a couple years down the road."
+
+
+There have been a number of "good conversations" with Ukraine, and more would follow "in the days, weeks and months to come," Vance said.
+
+
+Zelenskyy agreed, calling the meeting with Vance "a good conversation" and said Kyiv wants to work toward ending Russia's war in Ukraine, but added that "we need real security guarantees."
+
+
+Some information for this report came from NBC News. 
+
+<br> 
+
+<https://www.voanews.com/a/ukraine-would-have-low-chance-to-survive-without-us-support-zelenskyy-says/7976050.html>
+
+---
+
+## Why is Trump pausing US anti-bribery law?
+
+date: 2025-02-15, from: VOA News USA
+
+washington — U.S. President Donald Trump signed an executive order this week pausing almost all enforcement of a decades-old U.S. anti-bribery law.
+
+
+The law, known as the Foreign Corrupt Practices Act, makes it illegal for both U.S. firms and foreign companies with a U.S. connection to bribe foreign officials.
+
+
+Transparency advocates have credited the U.S. Justice Department's vigorous enforcement of the law over the past two decades with curbing foreign corruption. Critics, including business leaders, however, have long complained that the law puts U.S. companies at a disadvantage in international markets where certain business practices are common.
+
+
+Trump, a longtime critic of the FCPA, voiced those concerns during the Oval Office signing ceremony on Monday.
+
+
+"It sounds good on paper, but in practicality it's a disaster," Trump said. "It means that if an American goes to a foreign country and starts doing business there legally, legitimately or otherwise, it's almost a guaranteed investigation, indictment, and nobody wants to do business with the Americans because of it."
+
+
+Here is a breakdown of the law and the implications of the executive order for foreign bribery and U.S. business.
+
+
+What is the FCPA?
+
+
+The FCPA is a U.S. law that prohibits companies from providing cash payments or valuable gifts to foreign officials for business advantages. While the law exempts certain "facilitation payments," it prohibits the use of third parties to make bribes.
+
+
+The FCPA was enacted in 1977 following post-Watergate investigations that revealed widespread foreign bribery by U.S.-based multinational corporations. Congress, concerned about the impact on U.S. foreign policy and international standing, responded by criminalizing such practices, imposing prison terms and substantial penalties on violators.
+
+
+Though initially focused on American companies, the law's jurisdiction has expanded substantially. It now extends to any foreign business or individual with connections to the U.S. This broad reach enables prosecutors to pursue cases against foreign firms — for example, a Dutch company with a subsidiary based in Ohio accused of paying off Chinese officials through another subsidiary in Thailand.
+
+
+The law has had a significant impact on the development of anti-corruption laws around the world. In 1997, the Paris-based Organization for Economic Cooperation and Development used the FCPA as a model for its Anti-Bribery Convention, which now has 46 member countries.
+
+
+While enforcement of FCPA was negligible in the decades following its enactment, the early 2000s marked a significant shift. The Justice Department and the Securities and Exchange Commission, the two agencies responsible for enforcing FCPA’s provisions, ramped up enforcement, driven in part by emerging business scandals and new congressional requirements for corporate governance and financial reporting.
+
+
+How has the law been used in recent years?
+
+
+In recent years, U.S. foreign bribery law enforcement has been robust, with the Justice Department and the SEC opening nearly 174 investigations between 2018 and 2021. Last year, the Justice Department alone filed 17 enforcement actions under the law.
+
+
+Latin America has emerged as a particular hot spot for U.S. investigators in recent years.
+
+
+In 2016, two Brazilian companies agreed to pay a combined $3.5 billion after pleading guilty in a sprawling international foreign bribery case. U.S. authorities investigated the case in part because the illicit payments were made through U.S. bank accounts. 
+
+
+
+
+In 2020, Airbus SE, the European aircraft maker, agreed to pay nearly $4 billion to resolve foreign bribery charges brought in the U.S., Britain and France. Airbus admitted using intermediaries to bribe government officials and airline executives to win lucrative contracts in China and other countries. 
+
+
+In January 2024, SAP SE, a German software company with offices in the U.S., agreed to pay $220 million to resolve investigations into bribery payments to South African and Indonesia officials.
+
+
+In December, AAR Corp., an Illinois-based aviation services company, agreed to pay more than $55 million to resolve investigations into bribery payments to government officials in Nepal and South Africa.
+
+
+Several cases have involved India. In November, prosecutors charged three former employees of a Canadian institutional investor in connection with a bribery scheme involving Indian billionaire Gautam Adani and two other executives.
+
+
+Why is Trump pausing FCPA enforcement?
+
+
+Trump, a real estate tycoon-turned-president, has been a vocal critic of the law since well before his first term. In 2012, he called it a "horrible" and "ridiculous" statute that impeded U.S. companies’ ability to do business abroad.
+
+
+Despite his criticism, FCPA enforcement actually surged during his first term in office, with 2000 marking a record-breaking year, according to the Morrison Foerster law firm.
+
+
+The executive order frames the pause in enforcement as part of the president's broader agenda to "advance American economic and national security by eliminating excessive barriers to American commerce abroad."
+
+
+The order says the FCPA's scope has been "stretched beyond proper bounds and abused in a manner that harms the interests of the United States." A White House fact sheet on the order released Monday says the "overenforcement" of the law harms U.S. companies and "infringes on the President's Article II authority to conduct foreign affairs."
+
+
+This concern about aggressive enforcement isn't new, said Mike Koehler, a law professor and leading authority on the FCPA, who noted that both Republicans and Democrats have raised similar issues over the past two decades.
+
+
+"There has been a focus on the quantity of enforcement actions compared to the quality of those enforcement actions," Koehler told VOA. "Enforcement has in many cases has gone so far off the rails that this law is being enforced in ways that do put companies at a competitive disadvantage."
+
+
+Transparency advocates, however, warn that suspending enforcement could deal a significant blow to global anti-bribery efforts.
+
+
+"This pause will work to the advantage of unscrupulous business actors around the world who until now feared U.S. criminal pursuits," Transparency International said in a statement calling on other OECD Anti-Bribery Convention members to increase their enforcement following the U.S. shift in policy.
+
+
+What are the implications for investigating foreign bribery?
+
+
+The executive order imposes a six-month freeze on foreign bribery investigations by the Justice Department. Almost all FCPA cases will be suspended while Attorney General Pam Bondi conducts a review and revises enforcement guidelines. The executive order gives Bondi discretion to extend the pause for an additional six months.
+
+
+Bondi, however, has directed federal prosecutors to prioritize FCPA cases involving cartels and transnational criminal organizations.
+
+
+And corporate lawyers were quick to caution clients that the executive order doesn't give them free rein.
+
+
+"Bribery is still illegal," attorneys at the Arnold & Porter law firm wrote in an analysis of the executive order. "The FCPA remains on the books; Congress has not repealed it. And many other state, federal and foreign laws still prohibit bribery." 
+
+<br> 
+
+<https://www.voanews.com/a/why-is-trump-pausing-us-anti-bribery-law-/7976000.html>
+
+---
+
+## Goodyear Blimp at 100: 'Floating piece of Americana' still thrives
+
+date: 2025-02-15, from: VOA News USA
+
+DAYTONA BEACH, FLORIDA — Flying a few hundred feet above the streets and shores of Daytona Beach, the Goodyear Blimp draws a crowd.  
+
+
+Onlookers stare and point. Drivers pull over for better looks, snapping pictures, recording videos and trying to line up the perfect selfie.  
+
+
+For some, it's nostalgic. For others, it's a glimpse at a larger-than-life advertising icon. 
+
+
+At 100 years old, the blimp is an ageless star in the sky. And the 246-foot-long airship will be in the background of the Daytona 500 on Sunday — roughly 1,500 feet above Daytona International Speedway, actually — to celebrate its latest and greatest anniversary tour.  
+
+
+Even though remote camera technologies — drones, mostly — are improving regularly and changing the landscape of aerial footage, the blimp continues to carve out a niche. 
+
+
+At Daytona, with the usual 40-car field racing around a 2½-mile super speedway, views from the blimp aptly provide the scope of the event.  
+
+
+"It's great to show the pack racing," Fox Sports director Artie Kempner said, adding that he expected to use aerial shots from the blimp about 50 times during Sunday's race. 
+
+
+
+
+ The Goodyear Blimp has been a regular at major sporting events since flying above the 1955 Rose Bowl. A few years later, it became a service vehicle for television coverage while simultaneously functioning as a highly visible advertising platform.  
+
+
+It's been at every Daytona 500 since 1962. During that streak, blimps have undergone wholesale changes and improved dramatically: steering technology, safety innovations, high-definition cameras, gyro-stabilized aerial views and much quieter rides thanks to relocated engines and propellers.  
+
+
+Nowadays, riding on the blimp isn't much different than traveling on a small plane.  
+
+
+The 12-seater comes with reclining seats, tray tables, seatbelts, a safety briefing and a bathroom with amazing views. A few windows serve as the only air conditioning onboard. The blimp offers a smooth ride even at top speed, creeping along at 73 mph — well below the cars pushing 200 mph on the track. 
+
+
+"It's an iconic symbol for our nation, a floating piece of Americana," blimp pilot Jensen Kervern said. "There's nothing like it in the world."
+
+
+ 
+
+
+
+
+The blimp has covered more than 2,500 events and taken more than 500,000 passengers for rides, according to Goodyear.  
+
+
+Former President Ronald Reagan might be the most famous passenger, and rapper Ice Cube raised the blimp's street cred when he included a line about it in his 1992 song titled "It Was A Good Day."  
+
+
+But not just anyone can climb aboard.  
+
+
+Rides are invitation only, even though phones at blimp headquarters — the three U.S.-based airships are housed in California, Florida and Ohio — ring off the hook with people inquiring about buying a ride.  
+
+
+As part of the blimp's 100-year anniversary celebration, however, Goodyear is giving three U.S. residents a chance to join the exclusive club and win a ride.  
+
+
+The sweepstakes will provide each winner a certificate for two to fly on the blimp. The prize also includes $3,000 for travel expenses to one of Goodyear's airship hangars. It would be a once-in-a-lifetime experience, no doubt. The blimp flies low enough to spot pods of dolphins or flotillas of sea turtles in the Atlantic Ocean.  
+
+
+The view over Daytona International Speedway is equally stunning, with the ability to see every inch of the famed track while watching (and hearing) race cars turning laps. 
+
+
+Already in 2025, the Goodyear fleet has flown over the Rose Bowl, the Orange Bowl, the Pro Bowl and Pebble Beach. Its upcoming schedule includes the Academy Awards, Coachella and WrestleMania.  
+
+
+But will the blimp survive another 100 years? Drone imagery and resolution continue to improve along with maneuverability, stability and flight longevity. And where drones can be flown by one person, the Goodyear Blimp crew at Daytona tops 20 staffers.  
+
+
+But given the blimp's longevity, adaptability and celebrity, no one should bet against it sticking around for generations to come.
+
+
+"Despite changes in technology and our environment, people still get so excited to see the blimp," Kervern said. "It's just an iconic symbol for our nation." 
+
+<br> 
+
+<https://www.voanews.com/a/goodyear-blimp-at-100-floating-piece-of-americana-still-thrives-/7974664.html>
+
+---
+
+## With doors closed to the US, asylum-seekers turn a new life in Mexico
+
+date: 2025-02-15, from: VOA News USA
+
+MEXICO CITY — When Angelica Delgado took a one-way flight to Mexico as she fled Cuba in December, she was set on seeking asylum in the United States.
+
+
+But after President Donald Trump effectively slammed the door on asylum-seekers crossing the U.S. border when he took office last month, the 23-year-old recalibrated her plans.
+
+
+She decided she would seek protection in Mexico.
+
+
+"Like almost all Cubans, our objective was to go to the United States," she said. "It wasn't in our plans to stay, but now we have to face reality."
+
+
+Amid a clampdown on asylum under Trump and tightening restrictions in recent years under the Biden administration, Delgado is among a growing number of migrants from across the world to ditch — or at least pause — their ambitions of reaching the U.S., and focus instead on building a life in Mexico.
+
+
+Migrants trying to apply for asylum in Mexico in January more than tripled compared to the monthly average from the previous year, according to an international official with knowledge of the numbers who was not authorized to discuss them publicly. Mexico's refugee agency has not yet published figures for January.
+
+
+"All of these policies Trump is pushing are leading more people to seek international protection in Mexico," said Andrés Ramírez, former director of the Mexican Commission for Refugee Aid, which processes asylum cases.
+
+
+Delgado was among hundreds of migrants from Cuba, Venezuela, Haiti, Afghanistan and other countries gathering outside the refugee agency in Mexico City after Trump unleashed executive orders last month meant to slash access to asylum and militarize the border.
+
+
+The Associated Press spoke to around a half-dozen people who had asylum appointments in the U.S. through the Biden-era app, CBP One, that Trump canceled on Inauguration Day. They were left stranded on the Mexican side of the border, their dreams of a legal pathway into the U.S. snuffed.
+
+
+Many more said they now intended to seek asylum in Mexico, citing increasingly harsh restrictions in recent years in the U.S. or what they said was anti-immigrant sentiment there.
+
+
+"Now, it's the Mexican dream," said a Mexican man helping Haitian friends try to get an appointment this month to apply for asylum in Mexico following the Trump executive orders.
+
+
+
+
+Delgado, her partner and many others had put their hopes on pathways opened by the Biden administration to legally seek asylum in the U.S. They said they had no intention of hiring a smuggler to enter the U.S. illegally.
+
+
+They said the risks of returning to Cuba were too great following a government clampdown on protests in recent years.
+
+
+"Crossing illegally isn't an option for us. We'd rather stay here" in Mexico, Delgado said, adding that if they crossed illegally into the U.S. and were caught "they'll deport us and they'll send us back to Cuba."
+
+
+Delgado, who is an architect, and her partner, a doctor, aren't able to work in their fields in Mexico because their training in Cuba is not recognized there, she said. So for now she's washing dishes in a market.
+
+
+Mexico has long opened its doors to refugees and exiles, but asylum applications have soared in recent years, growing from 1,295 in 2013 to a record 140,982 in 2023.
+
+
+That number dipped to 78,975 in 2024, as the CBP One app allowed migrants in southern Mexico to apply for appointments for entry into the U.S. before heading to the northern border.
+
+
+The rise in petitions for asylum in Mexico may not result in an immediate uptick in refugees there as only a couple hundred applications can be processed each day, fueling criticism about Mexico's capacity to take on the burgeoning asylum demand.
+
+
+Amid criticisms over the backlog, President Claudia Sheinbaum has sharply boosted funding for Mexican agencies handling migration and asylum.
+
+
+Venezuelan asylum-seeker Harry Luzardo, 37, said life in Mexico is an improvement after scrambling for years to scrape by in Ecuador and Chile.
+
+
+Ecuador, Chile, Peru and Colombia were once the epicenter of the exodus of 8 million people from Venezuela, fleeing spiraling economic and political crises.
+
+
+But with little international aid and an array of their own economic and security crises, Chile was among countries that began closing their doors to migrants.
+
+
+"In Chile, you don't receive any kind of support," Luzardo said, waiting patiently in line earlier this month to make an asylum petition request in Mexico City. "In Chile, there's nothing for migrants."
+
+
+Luzardo left Venezuela four years ago, but unable to get legal status to stay and work in Chile, he decided he'd try his luck at reuniting with family in the U.S.
+
+
+Now, with that door closed, Mexico is his plan B.
+
+
+"For now, I feel good here," he said. Still, he conceded, he'd rather be in the U.S. 
+
+<br> 
+
+<https://www.voanews.com/a/with-doors-closed-to-the-us-asylum-seekers-turn-a-new-life-in-mexico/7974697.html>
+
+---
+
+## Southern California slammed with debris flows, mudslides
+
+date: 2025-02-15, from: VOA News USA
+
+After days of heavy rain, the strongest storm of the year brought dangerous debris flows and rock- and mudslides across Southern California on Friday, including in several areas that last month were ablaze with devastating fires.
+
+
+Some areas in the region received as much as 12 centimeters of rain this week, the National Weather Service said.
+
+
+"There are plenty of reports of debris flow," meteorologist Scott Kleebauer of the weather service said Friday.
+
+
+The scorched earth left behind by the fires is now particularly vulnerable to the water-fueled rock- and mudslides, as the vegetation that once anchored the soil was burned away.
+
+
+While this week’s rain is beginning to ease, that does not mean the slides will stop. The drenched soil can continue to move even after the rain subsides.
+
+
+Parts of the iconic Pacific Coast Highway were shut down Thursday because of flooding and mudslides.
+
+
+In Pacific Palisades, a highway intersection was under a meter of sludge.
+
+
+Photographs posted on social media showed parked cars in Pacific Palisades covered in mud up to their windows. Bulldozers have been assigned to the area to clean up the muck.
+
+
+In one harrowing experience Thursday, a member of the Los Angeles Fire Department was driving along the Pacific Coast Highway when a debris flow swept his vehicle into the ocean. Erik Scott, a spokesperson for the fire department, said the driver was able to get out of his vehicle and reportedly suffered only minor injuries.
+
+
+In Sierra Madre, a city of 10,000 that was the site of last month’s Eaton Fire, a boulder-strewn mudslide damaged several homes.
+
+
+“It happened very quickly but it was very loud, and you could even hear the ground or feel the ground shaking,” Bull Duvall, who has lived in Sierra Madre for 28 years, told The Associated Press. City officials issued an evacuation order warning residents that emergency responders would not enter locations with active mud and debris flows.
+
+
+The National Weather Service confirmed Friday that a weak tornado hit a mobile home community Thursday in Oxnard, California. There were no reports of deaths or injuries at Country Club Mobile Estates, but property damage included ripped roofs and downed power lines.
+
+
+The rain was badly needed in the region, much of which is still suffering from drought.
+
+
+In nearby Nevada, Las Vegas was glad to see rain Thursday, after enduring more than 200 days without precipitation. A National Weather Service Las Vegas post said, “Las Vegas has officially measured 0.01 inch of rainfall this morning, effectively ending our dry streak of 214 days without measurable rain.” 
+
+<br> 
+
+<https://www.voanews.com/a/southern-california-slammed-with-debris-flows-mudslides/7975988.html>
+
+---
+
+## US deports 119 migrants from several nations to Panama
+
+date: 2025-02-15, from: VOA News USA
+
+PANAMA CITY, PANAMA — Panama has received the first U.S. flight carrying deportees from other nations as the Trump administration takes Panama up on its offer to act as a stopover for expelled migrants, the Central American nation's president said Thursday. 
+
+
+"Yesterday a flight from the United States Air Force arrived with 119 people from diverse nationalities of the world," President Jose Raul Mulino said Thursday in his weekly press briefing. He said there were migrants from China, Uzbekistan, Pakistan, Afghanistan, and other countries, aboard. 
+
+
+The president said it was the first of three planned flights that were expected to total about 360 people. "It's not something massive," he said. 
+
+
+The migrants were expected to be moved to a shelter in Panama's Darien region before being returned to their countries, Mulino said. 
+
+
+Asked later Thursday why Panama was acting as a stopover for these deportations, Deputy Foreign Minister Carlos Ruiz Hernandez said that it was something the U.S. government had requested. He also said the U.S. government was paying for the repatriations through U.N. immigration agencies. 
+
+
+The migrants who arrived Wednesday had been detained after crossing the U.S. border and did not have criminal records, he said. 
+
+
+Last week, U.S. Secretary of State Marco Rubio met with Mulino in Panama. While U.S. President Donald Trump's demands to retake control of the Panama Canal dominated the visit, Mulino also discussed Panama's efforts to slow migration through the Darien Gap and he offered Panama as a bridge to send U.S. deportees back to their countries. 
+
+
+Rubio secured agreements on the trip with Guatemala and El Salvador as well, to accept migrants from other nations in what was seen as the laying groundwork for expanding U.S. capacity to speedily deport migrants. 
+
+
+Migration through the Darien Gap connecting Panama and Colombia was down about 90% in January compared to the same month a year earlier. 
+
+
+Since Mulino entered office last year, Panama has made dozens of deportation flights, most funded by the U.S. government. 
+
+
+Ruiz said Thursday that Panama "has been completely willing to participate and cooperate in this request they have made of us." 
+
+<br> 
+
+<https://www.voanews.com/a/us-deports-119-migrants-from-several-nations-to-panama-/7975954.html>
+
+---
+
+## A gulf between the White House and the press
+
+date: 2025-02-15, from: Market Place, Make me Smart
+
+<p>Associated Press journalists have been blocked from accessing spaces like the Oval Office after the organization opted not to use the term &#8220;Gulf of America.&#8221; We&#8217;ll unpack the conundrum this creates for other news outlets covering the White House. And, while the GOP eyes spending cuts to key social safety net programs, some Republican representatives are feeling pressure from their constituents. We&#8217;ll get into it. Plus, a penny for your thoughts on getting rid of the penny. We&#8217;ll weigh in during a round of Half Full/Half Empty!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/02/14/nyregion/adams-prosecutor-hagan-scotten-quits.html" target="_blank" rel="noreferrer noopener">&#8220;Hagan Scotten, Adams’s Lead Prosecutor, Quits Defiantly&#8221;</a> from The New York Times</li>
+<li><a href="https://www.politico.com/news/2025/02/14/doge-trump-omb-gop-00204435" target="_blank" rel="noreferrer noopener">&#8220;Republicans rush to soften Trump’s cuts&#8221;</a> from Politico</li>
+<li><a href="https://www.politico.com/live-updates/2025/02/14/congress/vulnerable-house-republican-bresnahan-warns-against-benefit-cuts-00204354" target="_blank" rel="noreferrer noopener">&#8220;Vulnerable Republican fires warning shot on House budget&#8221;</a> from Politico</li>
+<li><a href="https://www.nytimes.com/2025/02/14/us/politics/mar-a-lago-trump-grass-rose-garden.html" target="_blank" rel="noreferrer noopener">&#8220;Seeking a Mar-a-Lago Vibe, Trump Considers Paving Over Grass in Rose Garden&#8221;</a> from The New York Times</li>
+<li><a href="https://www.nytimes.com/2025/02/14/us/politics/white-house-ap-gulf-of-mexico.html?smid=nytcore-ios-share&amp;referringSource=articleShare" target="_blank" rel="noreferrer noopener">&#8220;White House Will Continue to Bar Associated Press in Gulf of Mexico Fight&#8221;</a> from The New York Times</li>
+<li><a href="https://www.washingtonpost.com/opinions/2025/02/14/ap-white-house-trump-gulf-america/" target="_blank" rel="noreferrer noopener">&#8220;Opinion | ‘Gulf of America’ leads to AP removal from Trump White House events&#8221;</a> from The Washington Post</li>
+<li><a href="https://money.usnews.com/money/personal-finance/family-finance/articles/this-is-how-much-the-average-couple-spends-on-valentines-day" target="_blank" rel="noreferrer noopener">&#8220;This Is How Much the Average Couple Spends on Valentine&#8217;s Day&#8221;</a> from U.S. News</li>
+<li><a href="https://www.nytimes.com/2025/02/13/technology/tiktok-apple-google-app-stores.html" target="_blank" rel="noreferrer noopener">&#8220;Apple and Google Restore TikTok to App Stores in the U.S.&#8221;</a> from The New York Times</li>
+<li><a href="https://www.marketplace.org/2025/02/12/fin-fluencers-financial-influencers-social-media-advice-money-trust/" target="_blank" rel="noreferrer noopener">&#8220;Americans are turning to social media for financial advice&#8221;</a> from Marketplace</li>
+<li><a href="https://www.instyle.com/flare-jeans-for-spring-2025-9487506" target="_blank" rel="noreferrer noopener">&#8220;So, This 2000s Denim Trend Is About to Blow Up for Spring 2025&#8221;</a> from InStyle</li>
+<li><a href="https://www.wsj.com/personal-finance/trump-penny-us-mint-explained-36db52f6" target="_blank" rel="noreferrer noopener">&#8220;What Trump’s Plan to Stop Minting Pennies Means for Consumers&#8221;</a> from The Wall Street Journal</li>
+</ul>
+<p>Got a question or comment for the hosts? Email <a href="mailto:makemesmart@marketplace.org" target="_blank" rel="noreferrer noopener">makemesmart@marketplace.org</a> or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/14/mms_20250214_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fa-gulf-between-the-white-house-and-the-press&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/14/mms_20250214_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fa-gulf-between-the-white-house-and-the-press&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/a-gulf-between-the-white-house-and-the-press>
+
+---
+
+## California Will Fight Trump Order Ending Transgender Health Care for Minors
+
+date: 2025-02-15, from: Capital and Main
+
+<p>As far-right and religious groups celebrate the presidential decree, some hospitals are halting their gender-affirming treatment for youth under 19 years old.</p>
+<p>The post <a href="https://capitalandmain.com/california-will-fight-trump-order-ending-transgender-health-care-for-minors">California Will Fight Trump Order Ending Transgender Health Care for Minors</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/california-will-fight-trump-order-ending-transgender-health-care-for-minors>
+
+---
+
+## Ukraine, US weigh critical minerals agreement
+
+date: 2025-02-15, from: VOA News USA
+
+Ukraine’s vast reserves of critical minerals give it the potential to be a strategic supplier for the West. President Donald Trump is considering a deal that would continue U.S. support for Ukraine in the war against Russia in exchange for access to its minerals. That proposed agreement is set for discussion at the Munich Security Conference. Myroslava Gongadze has the story from Warsaw, with reporting from Anna Chernikova in Kyiv. 
+
+<br> 
+
+<https://www.voanews.com/a/ukraine-us-weigh-critical-minerals-agreement-/7975947.html>
+
+---
+
+## Chicago nonprofit helps undocumented migrants afraid to leave home
+
+date: 2025-02-15, from: VOA News USA
+
+Amid nationwide immigration raids, a community organization in Chicago is helping undocumented migrants who say they are afraid to leave their homes for fear of being detained. Veronica Villafane narrates this report by Enrique Garcia Fuentes. 
+
+<br> 
+
+<https://www.voanews.com/a/chicago-nonprofit-helps-undocumented-migrants-afraid-to-leave-home-/7975935.html>
+
+---
+
+## Helicopter crew might not have heard tower's instructions before crash, say investigators
+
+date: 2025-02-15, from: VOA News USA
+
+WASHINGTON — The crew of the Army helicopter that collided in midair with an American Airlines jet near Washington's Ronald Reagan National Airport may have had inaccurate altitude readings in the moments before the crash, and also may not have heard key instructions from air traffic controllers to move behind the plane, investigators said Friday.
+
+
+National Transportation Safety Board Chairwoman Jennifer Homendy told reporters that the recording from the Black Hawk helicopter cockpit suggested an incomplete radio transmission may have left the crew without an understanding of how it should shift position just before the January 29 crash, in which all 67 aboard the two aircraft were killed.
+
+
+"That transmission was interrupted — it was stepped on," she said, leaving them unable to hear the words "pass behind the" because the helicopter's microphone key was pressed at the same moment.
+
+
+The helicopter pilots also may have missed part of another communication, when the tower said the jet was shifting to a different runway, she said.
+
+
+Homendy said the helicopter was on a check flight that night where the pilot was undergoing an annual test and a test on using night vision goggles. Investigators believe the crew was wearing night vision goggles throughout the flight.
+
+
+It will take more than a year to get the final NTSB report on the collision, and Homendy warned reporters that many issues were still being investigated.
+
+
+"We're only a couple weeks out" from the crash, she said. "We have a lot of work to do."
+
+
+The collision was the deadliest plane crash in the U.S. since 2001, when a jet slammed into a New York City neighborhood just after takeoff, killing all 260 people on board and five more on the ground.
+
+
+William Waldock, professor of safety science at Embry-Riddle Aeronautical University, said stepped-on transmissions — where a pressed microphone key blocks incoming communication — is a well-known problem in aviation.
+
+
+"It's an old story and it's one of the problems oftentimes with radio communications," he said.
+
+
+The collision likely occurred at an altitude of about 325 feet, investigators have said, which would put the Black Hawk above its 200-foot limit for that location.
+
+
+Cockpit conversations a few minutes before the crash indicated conflicting altitude data, Homendy said, with the helicopter's pilot calling out that they were then at 300 feet, but the instructor pilot saying it was 400 feet, Homendy said.
+
+
+"We are looking at the possibility there may be bad data," she said.
+
+
+That generation of Black Hawks typically has two types of altimeters – one relying on barometric pressure and the other on radio frequency signals bounced off the ground. Helicopter pilots typically rely on barometric readings while flying, but the helicopter's black box captures its radio altitude.
+
+
+The radio altitude at the time of the impact put the Black Hawk at 278 feet, Homendy said.
+
+
+"But I want to caution, that does not mean that's what the Black Hawk crew was seeing on the barometric altimeters in the cockpit," she said.
+
+
+Waldock said the helicopter pilots, with their night vision goggles interfering with their peripheral vision, may have wrongly focused on a plane that took off just before the collision.
+
+
+"If they did indeed lock onto that departing airplane and assume that's the traffic they were supposed to be avoiding, they didn't see the other airplane coming," he said.
+
+
+The Army has said the Black Hawk crew was highly experienced and accustomed to the crowded skies around the nation's capital. 
+
+<br> 
+
+<https://www.voanews.com/a/helicopter-crew-might-not-have-heard-tower-s-instructions-before-crash-say-investigators/7975930.html>
+
+---
+
+## A publisher and chef paired up to open a bookstore-restaurant
+
+date: 2025-02-15, from: Market Place
+
+CCB Bistro &#038; Vine is a wine bar, restaurant and bookstore all in one located in Rock Hill, South Carolina.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/14/a-publisher-and-chef-paired-up-to-open-a-bookstore-restaurant/>
 

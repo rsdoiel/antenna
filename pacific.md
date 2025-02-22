@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-02-21 07:09:07
+updated: 2025-02-22 07:07:56
 ---
 
 # pacific
 
-(date: 2025-02-21 07:09:07)
+(date: 2025-02-22 07:07:56)
+
+---
+
+## UH Hilo Hawaiian language children’s book joins global collection
+
+date: 2025-02-21, from: University of Hawaiʻi News
+
+<p>I Kanaka Mai I Ke Aha?, was released on February 21 in recognition of <abbr>UNESCO</abbr>’s International Mother Language Day.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/21/uh-hilo-hawaiian-language-childrens-book/"><abbr>UH</abbr> Hilo Hawaiian language children’s book joins global collection</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/21/uh-hilo-hawaiian-language-childrens-book/>
 
 ---
 
@@ -270,6 +283,20 @@ date: 2025-02-21, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/21/nation-world-news/fox-news-cnn-and-other-news-outlets-urge-white-house-to-drop-ban-on-the-ap/>
+
+---
+
+## Hilo murder victim identified
+
+date: 2025-02-21, from: Hawaii Tribune Harold
+
+
+				<p>Police today identified the man shot to death early Wednesday morning in Hilo as 36-year-old Brandon Shane Kalani Castillias of Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/21/hawaii-news/hilo-murder-victim-identified/>
 
 ---
 
@@ -2655,4 +2682,211 @@ date: 2025-02-16, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/16/features/volcano-watch-whats-shaking-earthquake-alerts-explained/>
+
+---
+
+## Guam group's claims against Air Force reinstated; Ninth Circuit rules NEPA applies to toxic waste disposal activities
+
+date: 2025-02-15, from: Pacific Island Times
+
+The Ninth Circuit Court has upheld a local environmental group’s legal standing to challenge the U.S. Air Force’s plan to dispose of toxic w 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-group-s-claims-against-air-force-reinstated-ninth-circuit-rules-nepa-applies-to-toxic-waste-di>
+
+---
+
+## Gabbard’s intelligence role will be tested immediately
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s Tulsi Gabbard will be tested immediately on how she will handle threats to national security and U.S. troops as America&#8217;s new director of national intelligence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/hawaii-news/gabbards-intelligence-role-will-be-tested-immediately/>
+
+---
+
+## Seeking a Mar-a-Lago vibe, Trump considers paving over grass in Rose Garden
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump has been busy upending the federal government, reorienting U.S. foreign policy, threatening trade wars and winning confirmation for his Cabinet choices.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/seeking-a-mar-a-lago-vibe-trump-considers-paving-over-grass-in-rose-garden/>
+
+---
+
+## Bracing for a shutdown fight, Democrats warn their votes are not a given
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; One month out from a deadline to avert a government shutdown, Republicans in Congress are struggling to find the votes to extend federal funding, and Democrats are issuing a stark warning: Don&#8217;t look at us this time.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/bracing-for-a-shutdown-fight-democrats-warn-their-votes-are-not-a-given/>
+
+---
+
+## Judge extends restrictions on Musk’s access to sensitive Treasury data
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A case that could test the ability of other branches of government to act as checks on the Trump administration began Friday with a hearing on whether Elon Musk and his young aides should have access to the Treasury&#8217;s most sensitive payment and data systems.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/judge-extends-restrictions-on-musks-access-to-sensitive-treasury-data/>
+
+---
+
+## Trump is newly unleashed on trade, with global consequences
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump is pursuing a far more aggressive trade policy than he embraced in his first term, allowing his unfettered instincts about how to put America at the forefront to guide him with little pretense of investigations or extended deliberations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/trump-is-newly-unleashed-on-trade-with-global-consequences/>
+
+---
+
+## Layoffs expand at federal agencies, part of Trump purge
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration Friday accelerated plans for widespread workforce cuts across the government, as employees at multiple federal agencies learned they would be losing their jobs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/layoffs-expand-at-federal-agencies-part-of-trump-purge/>
+
+---
+
+## Vance tells Europeans to stop shunning parties deemed extreme
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>MUNICH &#8212; Vice President JD Vance told European leaders Friday that their biggest security threat was not military aggression from Russia or China, or election meddling from Moscow. Rather, he said, it was what he called &#8220;the enemy within&#8221; &#8212; their own suppression of abortion protests and other forms of free speech and the sidelining of parties considered extremist.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/vance-tells-europeans-to-stop-shunning-parties-deemed-extreme/>
+
+---
+
+## Hamas names hostages set for release today
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Hamas on Friday published the names of three more hostages to be released, signaling that an impasse over the immediate future of the ceasefire with Israel had been overcome after days of recriminations between the two sides.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/hamas-names-hostages-set-for-release-today/>
+
+---
+
+## Trump will withhold money from schools that require COVID vaccines
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Friday ordered that federal funding be withheld from schools and universities that require students to be vaccinated against COVID, White House officials said, another step in the administration&#8217;s campaign against coronavirus vaccine requirements.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/trump-will-withhold-money-from-schools-that-require-covid-vaccines/>
+
+---
+
+## US asks judge to drop Adams case after Manhattan prosecutor quits
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Federal prosecutors in Washington formally asked a judge Friday to drop corruption charges against Mayor Eric Adams of New York City after the acting U.S. attorney in Manhattan resigned in the face of an order to carry out the request.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/us-asks-judge-to-drop-adams-case-after-manhattan-prosecutor-quits/>
+
+---
+
+## Trump’s funding freeze raises a new question: Is the government’s word good?
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; As the Trump administration continues to withhold billions of dollars for climate and clean energy spending &#8212; despite two federal judges ordering the money released &#8212; concerns are growing that the U.S. government could skip out on its legal commitments.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/trumps-funding-freeze-raises-a-new-question-is-the-governments-word-good/>
+
+---
+
+## Rafter is briefly ‘swallowed’ by whale in Chile, as his father films
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>Paddling through choppy waters under cloudy skies, Adri&#225;n Simancas and his father were packrafting only a few yards from each other when something huge lunged, mouth open, from the waves below.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/nation-world-news/rafter-is-briefly-swallowed-by-whale-in-chile-as-his-father-films/>
+
+---
+
+## Tropical Gardening: Hawaii almost perfect, and the DOA wants to keep it that way
+
+date: 2025-02-15, from: Hawaii Tribune Harold
+
+
+				<p>Some might disagree, but recent travels in the tropical world to discover a better place has brought me to the conclusion that we are blessed and should appreciate what we have here at home.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/15/features/tropical-gardening-hawaii-almost-perfect-and-the-doa-wants-to-keep-it-that-way/>
+
+---
+
+## Historic Native Hawaiian art unveiled at Honolulu Hale
+
+date: 2025-02-15, from: University of Hawaiʻi News
+
+<p>Carpentry, art and theatre faculty and students collaborate with Native Hawaiian artist Meleanna Aluli Meyer to create a never-before-seen artwork.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/14/historic-native-hawaiian-art-honolulu-hale/">Historic Native Hawaiian art unveiled at Honolulu Hale</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/14/historic-native-hawaiian-art-honolulu-hale/>
 

@@ -1,11 +1,219 @@
 ---
 title: going electric
-updated: 2025-02-21 07:09:10
+updated: 2025-02-22 07:08:00
 ---
 
 # going electric
 
-(date: 2025-02-21 07:09:10)
+(date: 2025-02-22 07:08:00)
+
+---
+
+## Trump to shut down all 8,000 EV charging ports at federal govt buildings
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/pexels-photo-9800006.jpeg?quality=82&#038;strip=all&#038;w=1333" /></div><p>The Trump administration is shutting down EV chargers at all federal government buildings and is also expected to sell off <a href="https://www.gsa.gov/">the General Services Administration</a>‘s (GSA) newly bought EVs.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,ev-chargers" data-layer-viewtype="unknown" data-post-id="402822" href="https://electrek.co/2025/02/21/trump-to-shut-down-all-8000-ev-charging-ports-at-federal-govt-buildings/#more-402822" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/trump-to-shut-down-all-8000-ev-charging-ports-at-federal-govt-buildings/>
+
+---
+
+## Tesla Recalls 380,000 Cars Because Power Steering May Fail
+
+date: 2025-02-21, from: Inside EVs News
+
+The issue affects Model 3s and Model Ys, but it should be fixable with a software update. 
+
+<br> 
+
+<https://insideevs.com/news/751498/model-3-model-y-power-steering-recall/>
+
+---
+
+## Trump Administration Now Removing EV Chargers From Government Buildings
+
+date: 2025-02-21, from: Inside EVs News
+
+The General Services Administration is reportedly shutting down 8,000 EV chargers at federal sites, and deleting websites about EV efforts. 
+
+<br> 
+
+<https://insideevs.com/news/751500/trump-gsa-ev-chargers/>
+
+---
+
+## Ford Mustang Mach-E is heavily discounted, you can even lease it for less than a Toyota Camry
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Ford-Mach-E-lease-Camry-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford is offering big savings opportunities right now on its electric vehicles. The <a href="https://electrek.co/guides/ford-mach-e/">Ford Mustang Mach-E</a> can be leased for less than a Toyota Camry in some places despite costing over $10,000 more. Here’s how you can snag some savings.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford-mach-e" data-layer-viewtype="unknown" data-post-id="402795" href="https://electrek.co/2025/02/21/ford-mustang-mach-e-leased-less-than-toyota-camry/#more-402795" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/ford-mustang-mach-e-leased-less-than-toyota-camry/>
+
+---
+
+## NEMA unveils a standard for bidirectional EV charging
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/GM-Energy-V2H-Bundle-Side-Profile.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>NEMA has published its <a href="https://www.nema.org/standards/view/evse-power-export-standard" target="_blank" rel="noreferrer noopener">EVSE Power Export Permitting Standard, </a>which defines the technical parameters to allow EV owners to enable bidirectional charging, which allows electricity to flow to EVs and EVs to transfer power back to the grid.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bidirectional-charging,ev-charging,v2g" data-layer-viewtype="unknown" data-post-id="402764" href="https://electrek.co/2025/02/21/nema-bidirectional-ev-charging-standard/#more-402764" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/nema-bidirectional-ev-charging-standard/>
+
+---
+
+## Genesis GV60 Magma, Hyundai Ioniq 6 N Spied Testing With A Porsche Taycan
+
+date: 2025-02-21, from: Inside EVs News
+
+The Magma will be the hottest version of the Genesis GV60, with similar performance to a Hyundai Ioniq 5 N. 
+
+<br> 
+
+<https://insideevs.com/news/751491/genesis-gv60-magma-spy-video/>
+
+---
+
+## Podcast: Tesla protests, Rivian earnings, Kia’s new EVs, and more
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla protests, Rivian’s earnings, Kia’s new electric vehicles, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="402793" href="https://electrek.co/2025/02/21/podcast-tesla-protests-rivian-earnings-kias-new-evs-and-more/#more-402793" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/podcast-tesla-protests-rivian-earnings-kias-new-evs-and-more/>
+
+---
+
+## Here’s our first look at the Genesis GV90 with coach doors: The next ultra-luxe EV
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Genesis-GV90-ultra-luxury-SUV-side.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Genesis is preparing to launch its flagship electric SUV<span style="margin: 0px; padding: 0px;">, the GV90. It will be the largest, most luxurious <a href="https://electrek.co/guides/genesis/" target="_blank">Genesis</a> vehicle yet,</span> loaded with advanced tech, premium features, and Genesis’ signature design. The Genesis GV90 will even feature Rolls Royce-like coach doors, which were spotted for the first time in public on a production model. Check it out below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis" data-layer-viewtype="unknown" data-post-id="402765" href="https://electrek.co/2025/02/21/genesis-gv90-ultra-luxe-ev-caught-with-coach-doors-first-time/#more-402765" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/genesis-gv90-ultra-luxe-ev-caught-with-coach-doors-first-time/>
+
+---
+
+## Lectric XP 3.0 long-range e-bikes get $563 bundle at new $1,139 low, Anker SOLIX EverFrost 2 cooler $809, GE smoker, Jackery, more
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Lectric-XP-3.0-Long-Range-e-bike-newer-1.png?w=1200" /></div><p>Closing out this week’s Green Deals, we have a notable changeup in <a href="https://9to5toys.com/2025/02/17/lectric-presidents-day-sale-from-999/">Lectric’s ongoing Presidents’ Day sale</a>, with the <a href="https://9to5toys.com/2025/02/21/lectric-xp-3-0-long-range-e-bikes-new-1139-low/">XP 3.0 Long-Range e-bikes</a> getting a price cut to a new <a href="https://9to5toys.com/2025/02/21/lectric-xp-3-0-long-range-e-bikes-new-1139-low/">$1,139 low</a> along with the $563 in free gear too. We also have secured our readers an early-bird pre-sale offer on <a href="https://9to5toys.com/2025/02/21/anker-58l-solix-everfrost-2-cooler-809-free-gear/">Anker’s new 58L SOLIX EverFrost 2</a> Electric Cooler with free gear at <a href="https://9to5toys.com/2025/02/21/anker-58l-solix-everfrost-2-cooler-809-free-gear/">$809</a>. Next, we spotted <a href="https://9to5toys.com/2025/02/21/ge-smart-indoor-smoker-new-499-low/">GE’s Smart Indoor Smoker</a> dropping to a new <a href="https://9to5toys.com/2025/02/21/ge-smart-indoor-smoker-new-499-low/">$499 low</a> while <a href="https://9to5toys.com/2025/02/20/jackery-explorer-2000-v2-999/">Jackery’s Explorer 2000 v2</a> Portable Power Station is keeping to its <a href="https://9to5toys.com/2025/02/20/jackery-explorer-2000-v2-999/">$999</a> rate despite its recent Tax Season sale ending. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s new low price on <a href="https://9to5toys.com/2025/02/19/tenway-flash-8-speed-cgo600-pro-new-1299-low/">Tenways’ 8-speed CGO600 Pro e-bike</a>, the 4-day <a href="https://9to5toys.com/2025/02/20/ecoflow-flash-delta-pro-ultra-4799/">EcoFlow flash sale</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="402775" href="https://electrek.co/2025/02/21/lectric-xp-3-0-bikes-new-1139-low-anker-solix-everfrost-2-more/#more-402775" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/lectric-xp-3-0-bikes-new-1139-low-anker-solix-everfrost-2-more/>
+
+---
+
+## The electric Jeep Compass may be a pipe dream after all
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/electric-Jeep-Compass-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/jeep/">Jeep</a> is reconsidering plans to launch an electric Compass in North America. The next-gen Jeep Compass is officially on pause after Stellantis temporarily halted operations at its Brampton Assembly Plant, where the current SUV is built, to take a closer look at its strategy in North America.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="energy-brief,jeep" data-layer-viewtype="unknown" data-post-id="402753" href="https://electrek.co/2025/02/21/electric-jeep-compass-may-be-pipe-dream-after-all/#more-402753" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/electric-jeep-compass-may-be-pipe-dream-after-all/>
+
+---
+
+## Rivian Says Policy Shifts Will Cost 'Hundreds Of Millions' This Year
+
+date: 2025-02-21, from: Inside EVs News
+
+Rivian's future looks promising, but regulatory and economic headwinds pose a challenge to its growth plans. 
+
+<br> 
+
+<https://insideevs.com/news/751455/rivian-policy-shift-may-cost-hundreds-millions/>
+
+---
+
+## Tesla Model Y Juniper: Base, Long-Range, AWD Specs Released In Europe
+
+date: 2025-02-21, from: Inside EVs News
+
+Tesla just dropped a lot more information about the Berlin-built, refreshed Tesla Model Y sold in Europe. Here's what we know. 
+
+<br> 
+
+<https://insideevs.com/news/751466/tesla-model-y-details-europe/>
+
+---
+
+## Tesla deliveries expected to go down to levels not seen in more than 2 years
+
+date: 2025-02-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/TEsla-TSLA-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla deliveries are expected to decrease this quarter to levels not seen in more than two years. We have to go back to 2022 to see the delivery volume the automaker is expected to deliver.</p>
+
+
+
+<p>Time to worry for Tesla shareholders?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="402735" href="https://electrek.co/2025/02/21/tesla-deliveries-expected-to-go-down-to-levels-not-seen-in-more-than-2-years/#more-402735" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/21/tesla-deliveries-expected-to-go-down-to-levels-not-seen-in-more-than-2-years/>
+
+---
+
+## BMW's Neue Klasse EVs Will Include Tri- And Quad-Motor Cars
+
+date: 2025-02-21, from: Inside EVs News
+
+At a technical presentation in Germany, BMW explains how batteries, motors and innovative components are transforming its future. 
+
+<br> 
+
+<https://insideevs.com/news/751451/bmw-reveals-neue-klasse-secrets/>
 
 ---
 
@@ -1230,4 +1438,68 @@ date: 2025-02-16, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/02/15/e-quipment-highlight-liebherr-liduro-power-port-100-portable-equipment-charger/>
+
+---
+
+## Scout Range Extender Will Be A Non-Turbo Four-Cylinder, Offer 500-Mile Range
+
+date: 2025-02-15, from: Inside EVs News
+
+The extended-range Scout will have a battery pack about half the size of the electric variant, but its combined range will exceed the EV’s. 
+
+<br> 
+
+<https://insideevs.com/news/750832/scout-range-extender-details-revealed/>
+
+---
+
+## People Are Vandalizing Tesla Superchargers
+
+date: 2025-02-15, from: Inside EVs News
+
+The company hopes to deter would-be thieves by using dyes to mark them, and branding the wire they hope to steal. 
+
+<br> 
+
+<https://insideevs.com/news/750820/vandalizing-tesla-superchargers-fighting-back/>
+
+---
+
+## The Hyundai Ioniq 5 Is Stealing Tons Of Buyers From Other Brands
+
+date: 2025-02-15, from: Inside EVs News
+
+The Toyota bZ4X, Subaru Solterra and Nissan Ariya? Not so much. 
+
+<br> 
+
+<https://insideevs.com/news/750818/hyundai-ioniq-toyota-bz4x-conquests/>
+
+---
+
+## 2025 Volvo EX30 Charging Test Is 'A Little Disappointing'
+
+date: 2025-02-15, from: Inside EVs News
+
+The cheapest Volvo just happens to be an EV. Here’s how it handles DC fast charging. 
+
+<br> 
+
+<https://insideevs.com/news/750622/2025-volvo-ex30-charging-test/>
+
+---
+
+## Republican districts lose billions as clean energy cancellations surge
+
+date: 2025-02-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/FREYR-battery-factory-rendering-georgia.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Clean energy investments took a serious hit in January, sinking to their lowest point since the Inflation Reduction Act (IRA) supercharged the industry with tax credits and incentives. Growing uncertainty around the future of these policies – especially with the Republican-majority Congress debating potential rollbacks – has led to a sharp drop in new projects and an increase in cancellations, reports <a href="https://e2.org/" target="_blank" rel="noreferrer noopener">E2</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,donald-trump,egeb,energy-brief,electric-vehicles,solar,hydrogen,inflation-reduction-act,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="401933" href="https://electrek.co/2025/02/14/republican-districts-lose-billions-as-clean-energy-cancellations-surge/#more-401933" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/14/republican-districts-lose-billions-as-clean-energy-cancellations-surge/>
 

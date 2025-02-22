@@ -1,11 +1,267 @@
 ---
 title: columns
-updated: 2025-02-21 07:09:08
+updated: 2025-02-22 07:07:57
 ---
 
 # columns
 
-(date: 2025-02-21 07:09:08)
+(date: 2025-02-22 07:07:57)
+
+---
+
+##  Severance: Music To Refine To 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/severance-music-to-refine-to>
+
+---
+
+##  A Robert Frost poem from 1918, ironically entitled &#8220;Nothing New&#8221;, has been... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046288-a-robert-frost-poem-from>
+
+---
+
+## Friday Squid Blogging: New Squid Fossil
+
+date: 2025-02-21, updated: 2025-02-14, from: Bruce Schneier blog
+
+<p>A 450-million-year-old squid fossil was <a href="https://www.wwnytv.com/2025/02/10/police-investigation-squid-fossil-federal-funding-discussed-ahead-watertown-work-session/">dug up</a> in upstate New York.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/friday-squid-blogging-new-squid-fossil.html>
+
+---
+
+##  Amy Sherald and Michelle Obama 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/amy-sherald-and-michelle-obama>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-21, from: Dave Winer's Scripting News)
+
+<a href="https://wordland.social/">WordLand</a> is <a href="https://daveverse.wordpress.com/2025/02/21/quiet-launch/">now open</a> for anyone to sign up. Here we go! :-) 
+
+<br> 
+
+<http://scripting.com/2025/02/21.html#a205949>
+
+---
+
+##  &#8220;Egyptologists have discovered the first tomb of a pharaoh since Tutankhamun&#8217;s was... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046287-egyptologists-have-discov>
+
+---
+
+##  The Sutro Tower in 3D 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-sutro-tower-in-3d>
+
+---
+
+## February 20, 2025
+
+date: 2025-02-21, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157641012/c650d4522193f9d92cb39c1f252505b1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157641012/c650d4522193f9d92cb39c1f252505b1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-20-2025-669>
+
+---
+
+##  Craig Mod on how &#8220;leave no trace&#8221; and &#8220;pack it in, pack... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046284-craig-mod-on-how-leave>
+
+---
+
+## ★ Apple Pulls Advanced Data Protection From the UK, in Defiance of UK Demand for Global Backdoor
+
+date: 2025-02-21, updated: 2025-02-22, from: Daring Fireball
+
+The UK’s demands are simultaneously infuriatingly offensive, mathematically ignorant (regarding the nature of end-to-end encryption), dangerous (as proven by the recent Salt Typhoon attack China successfully waged to eavesdrop on non-E2EE communications in the United States), and laughably naive regarding the UK’s actual power and standing in the world. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/apple_pulls_advanced_data_protection_from_the_uk>
+
+---
+
+##  Here&#8217;s what it&#8217;s like watching all 24 hours of Christian Marclay&#8217;s The... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046281-heres-what-its-like-watch>
+
+---
+
+##  ANXIETY: Doechii Raps Over Gotye&#8217;s Somebody That I Used To Know (2019) 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/anxiety-doechii-raps-over-gotyes-somebody-that-i-used-to-know-2019>
+
+---
+
+##  Betty White is getting a stamp from the USPS that commemorates her... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046282-betty-white-is-getting-a>
+
+---
+
+##  I saw Paddington in Peru last weekend and so it&#8217;s been difficult... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046280-i-saw-paddington-in-peru>
+
+---
+
+## Yankees Loosen The Boss’s Facial Hair Policy
+
+date: 2025-02-21, updated: 2025-02-21, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.mlb.com/yankees/news/yankees-change-facial-hair-policy>
+
+---
+
+##  Edith Zimmerman imagines books written by fairy tale and Disney princesses in... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046254-edith-zimmerman-imagines->
+
+---
+
+## Implementing Cryptography in AI Systems
+
+date: 2025-02-21, updated: 2025-02-21, from: Bruce Schneier blog
+
+<p>Interesting research: &#8220;<a href="https://eprint.iacr.org/2025/288">How to Securely Implement Cryptography in Deep Neural Networks</a>.&#8221;</p>
+<blockquote><p><b>Abstract:</b> The wide adoption of deep neural networks (DNNs) raises the question of how can we equip them with a desired cryptographic functionality (e.g, to decrypt an encrypted input, to verify that this input is authorized, or to hide a secure watermark in the output). The problem is that cryptographic primitives are typically designed to run on digital computers that use Boolean gates to map sequences of bits to sequences of bits, whereas DNNs are a special type of analog computer that uses linear mappings and ReLUs to map vectors of real numbers to vectors of real numbers. This discrepancy between the discrete and continuous computational models raises the question of what is the best way to implement standard cryptographic primitives as DNNs, and whether DNN implementations of secure cryptosystems remain secure in the new setting, in which an attacker can ask the DNN to process a message whose &#8220;bits&#8221; are arbitrary real numbers...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/implementing-cryptography-in-ai-systems.html>
+
+---
+
+## Templates for Bluesky?
+
+date: 2025-02-21, from: Dave Winer's Scripting News
+
+<p>A note to designers of Bluesky as a platform.</p>
+<p>I've been playing with adding metadata to <a href="https://bsky.app/profile/bighugga.bsky.social/post/3liozqb2lkc2f">posts</a> in a thread. </p>
+<p>As you can see the metadata, in the screen shot below, overwhelms the content in the post.</p>
+<p>Wouldn't it be nice to have a set of templates to choose from, post types? Let designers be part of the platform.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/21/examplePost.png"></center>Playing with metadata in a <a href="https://bsky.app/profile/bighugga.bsky.social/post/3liozqb2lkc2f">post</a> in a thread.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/21/152020.html?title=templatesForBluesky>
+
+---
+
+##  Reflections on 25 years of Interconnected. Big congratulations to Matt Webb on... 
+
+date: 2025-02-21, updated: 2025-02-21, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046265-reflections-on-25-years-o>
+
+---
+
+## SiFive's HiFive Premier P550 is a strange, powerful RISC-V board
+
+date: 2025-02-21, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">SiFive's HiFive Premier P550 is a strange, powerful RISC-V board</span>
+
+            <p></p>
+
+<p>SiFive's <a href="https://www.sifive.com/boards/hifive-premier-p550">HiFive Premier P550</a> is a strange board. It's the fastest RISC-V development board I've tested—though I haven't tested a <a href="https://milkv.io/pioneer">Milk-V Jupiter</a>. It's also <a href="https://en.wikipedia.org/wiki/DTX_%28form_factor%29">Mini DTX</a>, which is an ATX-adjacent standard board size that won't fit in many Mini ITX SFF PC cases, which might be why SiFive and ESWIN are releasing a custom case for it (pictured above, which they sent along with the board for my review).</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 21, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/sifives-hifive-premier-p550-strange-powerful-risc-v-board>
 
 ---
 
@@ -610,7 +866,7 @@ The past week has solidified a sea change in American&#8212;and global&#8212;his
 
 ## ★ Thoughts and Observations on Today’s iPhone 16e Announcement
 
-date: 2025-02-20, updated: 2025-02-21, from: Daring Fireball
+date: 2025-02-20, updated: 2025-02-22, from: Daring Fireball
 
 The iPhone 16e is arguably just plain a better phone than the iPhone 15, and I think it’s almost inarguably a better value at $100 less. 
 
@@ -1725,4 +1981,286 @@ After World War II, the vast majority of Americans&#8212;Democrats and Republica
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/february-15-2025>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-15, from: Jessica Smith's blog)
+
+<p>As of a few days ago, I was so proud of us that we were finally getting close to Indie having half an hour of tummy time per day 😇</p>
+<p>Then I looked it up and found out that at four months, babies are actually supposed to have 90 minutes of tummy time per day 🤦🏻‍♀️</p>
+<p>How can the goalposts keep moving?!</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/90mins-tummy-time.html>
+
+---
+
+##  The Evolution of Electronic Music (1929-2019). Interesting that it took so long... 
+
+date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046233-the-evolution-of-electron>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>The more of Godot’s editor that I rewrite in SwiftUI, the more appreciation I have for just how vast and comprehensive Godot is.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114009814295463033>
+
+---
+
+##  Cool thing that I did not notice about The Wild Robot: at... 
+
+date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046230-cool-thing-that-i-did>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-15, from: Ryan Gantz Bluesky feed)
+
+say you want to die of stomach cancer while exiled on an island in the south atlantic without saying you want to die of stomach cancer while exiled on an island in the south atlantic
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3liagvdiehk22>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-15, from: Ryan Gantz Bluesky feed)
+
+why the fuck are we budgeting so much for an ongoing program called "Make Sure Planes Don't Fall Out of the Sky" when in reality that pretty much never happens?? like, planes don't just fall
+
+Yeah, you guessed it: fraud
+I fixed it. DELETED 🙌
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3liagfek2is22>
+
+---
+
+## Martin Pilkington, Longtime Stalwart of the Mac and Apple Developer Community, Dies From Cancer
+
+date: 2025-02-15, updated: 2025-02-16, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mastodon.social/@pilky/114008572002612525>
+
+---
+
+##  New Evidence Suggests Humans Developed Written Language To Avoid Breaking Up In... 
+
+date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046234-new-evidence-suggests-hum>
+
+---
+
+## February 14, 2025
+
+date: 2025-02-15, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157207509/692fd469b4e07db60c59b5b0f651516a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157207509/692fd469b4e07db60c59b5b0f651516a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-14-2025-46d>
+
+---
+
+## Netflix Deeply Regrets Accidentally Making Netflix a Better Product for Its Customers
+
+date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://joe-steel.com/2025-02-14-Netflix-Says-Its-Brief-Apple-TV-App-Integration-Was-a-Mistake.html>
+
+---
+
+## Financial Times: ‘Is Corporate America Already Souring on Trump?’
+
+date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ft.com/content/a7c9376b-4cb2-4cf2-a665-66f75b72f4c2>
+
+---
+
+## Key Codes 2.2.2
+
+date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://manytricks.com/keycodes/help/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>My new best friend after trying to use my redesigned UI on a real device:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114008778962930752>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
+
+The way to get even is to win. A lot of people don't get that, and it's almost always their downfall. 
+
+<br> 
+
+<http://scripting.com/2025/02/15.html#a132205>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
+
+I’m not giving money to Democrats. I will give to campaigns that run hard-hitting ads telling the full truth about what Musk is doing now. I want to see the actual ads before I chip in, and will do so enthusiastically, but they can’t be anemic. 
+
+<br> 
+
+<http://scripting.com/2025/02/15.html#a132023>
+
+---
+
+## The web before the web
+
+date: 2025-02-15, from: Dave Winer's Scripting News
+
+<p><a href="https://mastodon.social/@vga256@dialup.cafe/114004725458799557">Hypercard</a> stacks were the equivalent of websites. </p>
+<p>If <a href="https://en.wikipedia.org/wiki/HyperCard">it</a> had been built around the Macintosh Toolkit, and had an API that fit in with Mac apps, there wouldn't be a web, we'd all be using Macs. Alas it was all on its own, didn't work with anything but itself. </p>
+<p>A lot was lost because the Mac development model was far in advance of what existed on the web, and it was well-thought-out unlike the app model of the web, which is a hodgepodge of horribly designed modules that don't work well together. </p>
+<p>I was a Mac developer at the time, so I know a lot about this moment of history. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/15/hypercardStackHome.png"></center>Screen shot of a Hypercard stack home page.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/15/131146.html?title=theWebBeforeTheWeb>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
+
+The Dems don't do <a href="https://en.wikipedia.org/wiki/Positioning_(marketing)">positioning</a>. The Repubs run circles around Dems. They are masters at positioning. It's not hard, you just have to decide to do it. 
+
+<br> 
+
+<http://scripting.com/2025/02/15.html#a125752>
+
+---
+
+## The Musk Show | Coffee Klatch for Saturday, February 15, 2025
+
+date: 2025-02-15, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157168593/82927d97bee5f5bb8294288c50f12fd1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157168593/82927d97bee5f5bb8294288c50f12fd1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-musk-show-coffee-klatch-for-saturday>
+
+---
+
+## Weeknotes: Feb. 8-14, 2025
+
+date: 2025-02-15, from: Tracy Durnell Blog
+
+Win of the week: I was selected as a finalist for the RFP I submitted on and did a follow-up interview &#8212; should find out next week! 🤞 Looking forward to: three day weekend! Stuff I did: 7.75 hours consulting one virtual appointment and one in-person appointment &#8212; back to the optometrist again, they&#8217;re going to [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/14/weeknotes-feb-8-14-2025/>
+
+---
+
+## Indie’s First Library Trip
+
+date: 2025-02-15, from: Jessica Smith's blog
+
+<p>The first big autumnal blast of the year has hit. We took Indie on her first trip to the local library (where she gave the most ENORMOUS grin to the librarian, it was really sweet), craving more diversity in books than &ldquo;Colours&rdquo;, &ldquo;Shapes&rdquo; and the ever-frustrating &ldquo;Goodnight Stories for Rebel Girls&rdquo;. This was our haul…</p>
+<a href="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul.jpeg" class="glightbox" data-gallery="indies-first-library-trip"
+  style="aspect-ratio: 4 / 3;"><img 
+  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
+  srcset="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul.jpeg 1920w"
+  src="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_830x0_resize_q85_h2_box.webp"
+  alt="A pile of five baby board books. In order from top to bottom: “Love with Plato”, “Hey Owl, What’s in the Box?”, “That’s not my monster…”, “Welcome to Your World” and “ABC Spanish”."
+  loading="lazy" class="u-photo u-featured"></a>
+<p>The Plato one was funny. The back indicated there was another in the series called &ldquo;Equality with Simone de Beauvoir&rdquo;, so I went, &ldquo;Ooh, well if they have it, I&rsquo;d rather get that one.&rdquo; They didn&rsquo;t have it. So I turned to Indie and said, &ldquo;Well, we can get the Plato one, and you can listen to me trash-talk him!&rdquo; Then Viv (Philosophy major – not that you&rsquo;d ever know by just meeting him) asked, &ldquo;What&rsquo;s wrong with Plato?&rdquo; and I explained my opinion.</p>
+<p>But anyway, the book is called <cite>Love with Plato</cite>. So I was like, &ldquo;What did Plato even say about love? I don&rsquo;t remember that from year 12 Philosophy. I remember PHILOSOPHER-KINGS and the allegory of the cave…&rdquo; Just from reading the book now, it seems like Plato said it&rsquo;s good to love things. So, OK, Plato. Thanks for that brilliant insight. (This is me expecting too much out of baby books again, isn&rsquo;t it?)</p>
+<a href="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue.jpeg" class="glightbox" data-gallery="indies-first-library-trip"
+  style="aspect-ratio: 4 / 3;"><img 
+  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
+  srcset="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue.jpeg 1920w"
+  src="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_830x0_resize_q85_h2_box.webp"
+  alt="A baby board book called “Police Car to the Rescue! Everyday Heroes”. The front cover has an illustration of a brown dog in a dark blue police car. The police car is anthropomorphised, with big eyes and a little mouth."
+  loading="lazy" class="u-photo"></a>
+<p>And this was one of the books we did NOT get. I pointed it out to Viv and went, &ldquo;Oh man, what is this, pro-cop propaganda for babies?! Get it out of here,&rdquo; and Viv started teasing me: &ldquo;Come on, the police are lovely people. Who else are you going to call when you need the police?&rdquo; and I told him to stop brainwashing the baby.</p>
+<p>We had a nice little excursion, anyway.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/indies-first-library-trip.html>
+
+---
+
+## February 14, 2025
+
+date: 2025-02-15, from: Heather Cox Richardson blog
+
+On this day, I always like to tell the story of Theodore Roosevelt&#8217;s terrible 1884 Valentine&#8217;s Day and how it led to the Progressive Era, but things are happening too fast these days to leave a gap in the record, so you&#8217;ll have to look back at last year&#8212;or forward to next&#8212;for that story. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-14-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
+
+<p>After using SwiftUI’s new macro-based observable system, it is hard to think about using anything else.</p><p>Then I realized I would love to have a language that is based entirely on that concept.  </p><p>A bit like a spreadsheet, with data flowing and propagating as needed, rather than our current approach of moving data from one point to another like donkeys pulling carts.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114004988492266136>
 

@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-02-21 07:09:07
+updated: 2025-02-22 07:07:56
 ---
 
 # ham radio
 
-(date: 2025-02-21 07:09:07)
+(date: 2025-02-22 07:07:56)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-02-21, from: Amateur Radio Relay League News
+
+<p>Solar activity is expected to range from low to moderate levels<br />through March 15.  There is a varying chance for R1 or R2 (Minor or<br />Moderate) events, and a slight chance for R3 or greater events.<br /><br />Geomagnetic field activity is likely to reach G1 (Minor) levels on<br />February 28, March 9, and March 12 to 14.  Active levels are<br />predicted for March 1. Quiet, and quiet to unsettled conditions are<br />expected to...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-2>
+
+---
+
+## Bob Buus, W2OD, ARRL Northern New Jersey Section Manager, Silent Key
+
+date: 2025-02-21, from: Amateur Radio Relay League News
+
+<p>Robert “Bob” Buus, W2OD, passed away on February 18, 2025. He has served as the ARRL Northern New Jersey Section Manager since 2020. Buus served as an Assistant Section Manager, Emergency Coordinator, and Net Manager prior to his appointment. </p><p>Buus was born in Minnesota and was first licensed in 1950. He graduated from the University of North Dakota with a degree in electrical engineering. He wo...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/bob-buus-w2od-arrl-northern-new-jersey-section-manager-silent-key>
+
+---
+
+## More Seats Available for On the Air Live
+
+date: 2025-02-21, from: Amateur Radio Relay League News
+
+<p>Due to significant demand, ARRL has expanded the number of available spots for this month’s <em>On the Air Live</em>, an online training session linked to content in the current issue of <em>On the Air</em> magazine. The program quickly reached its original capacity. The live event will be hosted by ARRL Education Specialist Wayne Greene, KB4DSF.</p><p>“It is a good problem to have,” said ARRL Education and Learning Ma...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/more-seats-available-for-on-the-air-live>
+
+---
+
+## High School and a Sci-Fi Movie Spark Interest in Amateur Radio
+
+date: 2025-02-21, from: Amateur Radio Relay League News
+
+<p>Steve Schickel was a young high school student in the late ’80s and was introduced to amateur radio through his electronics classes. He also spent time working at a local RadioShack and watching science fiction movies at a nearby theater in his hometown of Pensacola, Florida.</p><p>Amateur radio’s next biggest influence on Steve came in 1997, on opening night of the movie “Contact,” about a scientist ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/high-school-and-a-sci-fi-movie-spark-interest-in-amateur-radio>
+
+---
+
+## Changes in the ARRL Iowa Section
+
+date: 2025-02-21, from: Amateur Radio Relay League News
+
+<p>Election results have been finalized in the ARRL Iowa Section. Barry Buelow, WØIY, received 283 votes, defeating incumbent Leilia Garner, WAØUIG, who received 146 votes.</p><p>Buelow, of Cedar Point, will assume Section Manager duties on April 1. Buelow is a veteran of the United States Air Force and has worked in aerospace engineering. He has served on the ARRL National Convention Committee and is a ...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/changes-in-the-arrl-iowa-section>
+
+---
+
+## YLRL Scholarships Available for Students
+
+date: 2025-02-21, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/ylrl-scholarships-available-for-students>
+
+---
+
+## DX Opportunities Abound Around ARRL International DX Contest
+
+date: 2025-02-21, from: Amateur Radio Relay League News
+
+<p>With Solar Cycle 25 still at peak conditions, and several popular contests this time of year, there have been some interesting, if not totally rare, DX opportunities on the HF bands. Spots have been flying on DX club email reflectors this week. VK9XU on Christmas Island, V73WW on Marshall Island, 5N9DTG in Nigeria, KH7AL/KH9 on Wake Island, and 7Q2MM in Malawi have all been noted, among many ot...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/dx-opportunities-abound-around-arrl-international-dx-contest>
 
 ---
 

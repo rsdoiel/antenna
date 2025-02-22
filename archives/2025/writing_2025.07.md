@@ -1,11 +1,61 @@
 ---
 title: writing
-updated: 2025-02-21 07:09:08
+updated: 2025-02-22 07:07:57
 ---
 
 # writing
 
-(date: 2025-02-21 07:09:08)
+(date: 2025-02-22 07:07:57)
+
+---
+
+## 🤣 #237 - It's OK to Laugh
+
+date: 2025-02-21, from: Interesting, a blog on writing
+
+Pain, pratfalls, and permission to let out your inner child. 
+
+<br> 
+
+<https://inneresting.substack.com/p/237-its-ok-to-laugh>
+
+---
+
+## Featured Friday: Cults
+
+date: 2025-02-21, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at the destructive power of cults, how they can disrupt and alter our characters, and the charismatic, megalomaniacal leaders that wield their power. Our collection includes: Hereditary by Ari Aster Mandy by [&#8230;]
+The post <a href="https://johnaugust.com/2025/featured-friday-cults">Featured Friday: Cults</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/featured-friday-cults>
+
+---
+
+## Independent Publisher’s Lawsuit Against Audible Fails, Highlighting Challenges to Receive Fair Streaming Compensation
+
+date: 2025-02-21, from: Author's Union blog
+
+Audible has a history of relying on ambiguous contractual terms to reduce author payouts. Despite Audible’s track record, the courts were unsympathetic to  Teri Woods' grievances. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/02/21/independent-publishers-lawsuit-against-audible-fails-highlighting-challenges-to-receive-fair-streaming-compensation/>
+
+---
+
+## Hammajang Luck by Makana Yamamoto: Review by Alexandra Pierce
+
+date: 2025-02-21, from: Locus Magazine
+
+<p><strong>Hammajang Luck</strong>, Makana Yamamoto (Gollancz 978-1-39961-679-9, £20.00, 336pp, hc) December 2024. Cover by Jordan Wolfe. (Harper Voyager 978-0-06343-082-2, $19.99, 368pp, tp). January 2025. Cover by Janelle Barone.</p>
+<p>I love a heist story. Getting the conspirators together, finding out the plan, overcoming obstacles, finding out the real plan, watch­ing it all unravel and then neatly come back together&#8230; I know the beats of the story, and that’s part of what  <a href="https://locusmag.com/2025/02/hammajang-luck-by-makana-yamamoto-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/hammajang-luck-by-makana-yamamoto-review-by-alexandra-pierce/>
 
 ---
 
@@ -459,4 +509,51 @@ Lightspeed 11/24</p>
 <br> 
 
 <https://locusmag.com/2025/02/beneath-ceaseless-skies-small-wonders-and-lightspeed-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## Hammajang Luck by Makana Yamamoto: Review by Paul Di Filippo
+
+date: 2025-02-15, from: Locus Magazine
+
+<p><strong>Hammajang Luck</strong>, Makana Yamamoto (Harper Voyager‎ ‎ 978-0063430822, trade paperback, 368pp, $15.99) January 2025</p>
+<p>My partner Deborah Newton proclaims that her favorite type of movie is the heist film. I suspect that there are many who share her affection for this genre. From <b>Rififi</b> to <b>The Italian Job</b>, from <b>A Fish Called Wanda</b> to <b>Ocean’s 11</b>, such highly entertaining and suspenseful stories span a huge range and  <a href="https://locusmag.com/2025/02/hammajang-luck-by-makana-yamamoto-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/hammajang-luck-by-makana-yamamoto-review-by-paul-di-filippo/>
+
+---
+
+## The Sentence by Gautam Bhatia: Review by Abigail Nussbaum
+
+date: 2025-02-15, from: Locus Magazine
+
+<p><strong>The Sentence</strong>, Gautam Bhatia (Westland IF 978-9-36045-152-3, ₹599, 396pp, tp) October 2024.</p>
+<p>A hundred years ago, the city-state of Peruma emerged from a bloody civil war between its landowning elites and its working classes with a legal compromise. A charter that divided the city into High Town, ruled by the corporate-controlled Council, and Low Town, ruled by the anarchistic Commune. In between are the Guardians, an order of law­yers  <a href="https://locusmag.com/2025/02/the-sentence-by-gautam-bhatia-review-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-sentence-by-gautam-bhatia-review-by-abigail-nussbaum/>
+
+---
+
+## People & Publishing Roundup, January 2025
+
+date: 2025-02-15, from: Locus Magazine
+
+<div></div>
+<div class="catheader"><strong>MILESTONES</strong></div>
+
+<p><strong>KHAN WONG </strong>is now repre­sented by Ernie Chiara of Fuse Literary.</p>
+<p><strong>ETHAN LAI </strong>is now represent­ed by Arley Sorg of kt literary.</p>
+<div></div>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p>Authors <strong>LAURA LIPPMAN </strong>and <strong>JOHN SANFORD </strong>are the recipients of the 2025 Grand Master Awards, presented by the Mystery Writers of America.</p>
+<p><strong>PETE WOLVERTON</strong>, vice-pres­ident and executive editor at St. Martin’s Publishing Group, re­ceived the Ellery Queen Award, honoring “outstanding writing teams and outstanding people  <a href="https://locusmag.com/2025/02/people-publishing-roundup-january-2025-2/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/people-publishing-roundup-january-2025-2/>
 

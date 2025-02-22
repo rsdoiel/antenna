@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-02-21 07:09:10
+updated: 2025-02-22 07:07:59
 ---
 
 # retro computing
 
-(date: 2025-02-21 07:09:10)
+(date: 2025-02-22 07:07:59)
+
+---
+
+## The CRPG Renaissance, Part 3: TSR is Dead…
+
+date: 2025-02-21, from: Digital Antiquarian
+
+&#8220;How do you make a small fortune in tabletop gaming?&#8221; runs an old joke. The punchline, of course, is that you come to that market with a large one. The tabletop truly is a brutally challenging place to try to earn money, one which you have to be either wildly deluded or unbelievably passionate to [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/02/the-crpg-renaissance-part-3-tsr-is-dead/>
+
+---
+
+## Gnome Developers Consider Dropping RPM Support
+
+date: 2025-02-21, from: Linux Magazine
+
+<p>In a move that might shock a lot of users, the Gnome development team has proposed the idea of going straight up Flatpak.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Gnome-Developers-Consider-Dropping-RPM-Support>
 
 ---
 

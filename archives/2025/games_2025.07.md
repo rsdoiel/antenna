@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-02-21 07:09:08
+updated: 2025-02-22 07:07:58
 ---
 
 # games
 
-(date: 2025-02-21 07:09:08)
+(date: 2025-02-22 07:07:58)
+
+---
+
+## Mufasa, Nosferatu, new Venom on Netflix, and every movie new to streaming this week
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Venom: The Last Dance, the latest in the Tom Hardy superhero franchise, slithers its way onto Netflix. There’s loads more in terms of new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/522735/new-movies-watch-streaming-venom-netflix-mufasa-the-brutalist>
+
+---
+
+## Ne Zha 2, the highest-grossing animated movie ever, pits breathtaking spectacle against fart gags
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+Ne Zha 2 features a combat sequence that has to be seen to be believed. The Chinese movie, which recently passed the $1.5 billion mark at the box office to become the biggest international animated hit of all time, is built around shows of immense power, leading up to a conflict between godlike forces and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/527578/ne-zha-2-review-chinese-biggest-animated-movie-of-all-time>
+
+---
+
+## Marvel Rivals layoffs are just part of NetEase’s ice-cold job and game cuts
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+When NetEase slashed jobs at its Marvel Rivals development studio in Seattle earlier this week, it was unclear why the Chinese game publisher would make cuts around such a successful project. Marvel Rivals has attracted more than 40 million players since its December launch, helping NetEase rack up $2.9 billion in gaming and services revenue [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/527711/marvel-rivals-layoffs-netease-cutbacks>
+
+---
+
+## Where to pre-order Magic: The Gathering &#8211; Tarkir: Dragonstorm
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+Tarkir: Dragonstorm, perhaps the most metal name for a Magic: The Gathering expansion since Aether Revolt, arrives on April 11. As the name suggests, the new set returns to Tarkir, a dimensional plane where dragons live alongside five rival houses, each with their own ideologies and relationships to the chaotic and occasionally benevolent reptiles. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/527149/magic-the-gathering-mtg-tarkir-dragonstorm-where-to-buy>
+
+---
+
+## You can already pre-order Magic: The Gathering’s new Edge of Eternities set
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+Wizards of the Coast debuted multiple new Magic: The Gathering sets at MagicCon: Chicago today, including one that’s pushing MTG into the edges of the universe. Edge of Eternities is billed as a “adventure-filled, science-fiction space opera” — can I get a “hell yeah” to that? The set isn’t arriving on game store shelves until [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/527538/magic-the-gathering-mtg-edge-of-eternities-buy>
+
+---
+
+## Avatar: The Last Airbender to get Magic: The Gathering card set
+
+date: 2025-02-21, updated: 2025-02-21, from: Polygon Website
+
+MagicCon, the annual convention for all things Magic: The Gathering, is currently underway in Chicago and Wizards of the Coast has had a few key announcements to share. Among them was the reveal of the company’s next Universes Beyond set for MTG, the latest in a series of crossover event-style card sets that have brought [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/527510/avatar-the-last-airbender-magic-mtg-universes-beyond-reveal>
 
 ---
 
@@ -546,4 +618,76 @@ The release of the Space-Time Smackdown expansion for Pokémon TCG Pocket has re
 <br> 
 
 <https://www.polygon.com/pokemon-tcg-pocket-guides/523583/porygon-z-deck-best>
+
+---
+
+## The animated movie Flow went through big changes on its way to the Oscars
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+While the cat protagonist from the Oscar-nominated animated movie Flow is getting a lot of (deserved) love — and will get more now that Flow is streaming on Max — the movie actually has a whole cast of animals, which hunker together on a tiny boat adrift in the middle of rapidly rising waters. In addition [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/524245/flow-director-cat-bird-dog-animals>
+
+---
+
+## 5 great co-op games are on deep discount in Steam’s new sale
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Whether you’re celebrating Valentine’s Day with a weekend of gaming togetherness or just somebody with a gaming pal looking for a great deal, Steam’s Couch Co-Op Fest — running through Feb. 18 — has a ton of amazing cooperative games marked down significantly. The list of included games is long, but several of them stuck [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/524005/best-co-op-games-steam-sale-portal-2-tetris-effect>
+
+---
+
+## Captain America: Brave New World is a mess — but the ‘5D’ version I saw was even messier
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Marvel’s new MCU installment Captain America: Brave New World was beset by production delays and big, story-shifting reshoots. The end result is kind of a mess. That mess was compounded during a “5D” screening of the movie I saw on Thursday night, which turned the traditional theatergoing experience into an event where I was caked [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/524340/captain-america-brave-new-world-5d-filthy-version>
+
+---
+
+## The Sims 4 creative director on why The Sims is special: ‘We’re not a game that judges you for who you are, how you play’
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Before Anna Huerta worked at Maxis, owned by Electronic Arts, on The Sims 4, she still played the game professionally. The success of The Sims as a franchise made it one of those games that other companies were always chasing, and to begin to understand it, you’ve got to play it not just as a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/the-sims/522300/the-sims-4-anna-huerta-creative-director>
+
+---
+
+## The best horror to watch on Netflix this February
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Winter may be slowly coming to an end, but the cold and dark months haven’t quite closed out just yet. To help you pass the time indoors, Netflix has got a nice little selection of horror movies at the moment, to keep things creepy and cozy. This month, we handpicked a few of the best [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/523884/best-horror-movies-netflix-watch-february-2025>
+
+---
+
+## Hoopa Unbound counters, weakness, and best moveset in Pokémon Go
+
+date: 2025-02-15, updated: 2025-02-14, from: Polygon Website
+
+Hoopa Unbound is showing up in raids during Pokémon Go’s Hoopa Unbound Raid Day event that runs on Saturday, Feb. 15 from 2-5 p.m. in your local time. During this event, Hoopa will show up in raids as a five-star target. You’ll also get up to five free raid passes from spinnin gym discs and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/524035/hoopa-unbound-counters-weakness-best-moveset>
 

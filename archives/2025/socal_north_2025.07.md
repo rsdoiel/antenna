@@ -1,11 +1,131 @@
 ---
 title: socal north
-updated: 2025-02-21 07:09:07
+updated: 2025-02-22 07:07:56
 ---
 
 # socal north
 
-(date: 2025-02-21 07:09:07)
+(date: 2025-02-22 07:07:56)
+
+---
+
+## DA Hochman says Menendez brothers should not get new trial; no decision yet on resentencing
+
+date: 2025-02-21, updated: 2025-02-22, from: The LAist
+
+Hochman also talked about Lyle and Erik Menendez and the court processes the brothers are pursuing in hopes of getting out of prison. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/da-hochman-says-menendez-brothers-should-not-get-new-trial-no-decision-yet-on-resentencing>
+
+---
+
+## Council approves agreement with Disney Cruise Lines
+
+date: 2025-02-21, from: Catalina Islander
+
+The Avalon City Council this week authorized the city manager to negotiate an agreement with Disney Cruise Lines. The agreement would give Disney preferential access to Avalon’s anchorage outside the harbor. The vote was unanimous. Technically, the council authorized the city manager to approve a “term sheet” that would ultimately lead to a port agreement. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/council-approves-agreement-with-disney-cruise-lines/>
+
+---
+
+## Five Corners update
+
+date: 2025-02-21, from: Catalina Islander
+
+CIP Director Robert Greenlaw gave the City Council an update on the Five Corners project at the Feb. 18 council meeting. He said since the last update, the project had completed 85% of the cultural resource assessment. The storm drain piping has been removed. Greenlaw said they have started on underground utilities along the eastern [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/five-corners-update/>
+
+---
+
+## LA's homeless count was short on volunteers. Some say last month's fires were to blame
+
+date: 2025-02-21, updated: 2025-02-22, from: The LAist
+
+Officials report that people who signed up to volunteer didn't show as well as technical issues with an app after the final night of the annual effort to count the region's unhoused population. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/homeless-count-volunteer-shortage-2025-lahsa>
+
+---
+
+## Want to help protect SoCal's air quality? This internship is for you
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+Interns work on a project throughout the summer to gain hands-on experience, and participate in other activities related to environmental stewardship. 
+
+<br> 
+
+<https://laist.com/news/education/scaqmd-air-quality-governing-board-summer-internship>
+
+---
+
+## California lawmakers target historical harm to Black residents in latest bill push
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+The California Legislative Black Caucus rolled out proposals to advance racial equity amid federal attacks on racial preference programs. 
+
+<br> 
+
+<https://laist.com/news/california-lawmakers-bill-historical-harm-black-residents>
+
+---
+
+## Large-scale debris removal underway at Eaton Wash Dam
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+Ash and fire debris have raised risk of flooding downstream. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/large-scale-debris-removal-eaton-wash-dam>
+
+---
+
+## LA mayor removes fire chief from duty, citing wildfire response
+
+date: 2025-02-21, updated: 2025-02-22, from: The LAist
+
+L.A. Mayor Karen Bass says she was 'acting in the best interests of Los Angeles’ public safety' in removing Kristin Crowley as LAFD chief. 
+
+<br> 
+
+<https://laist.com/news/la-fire-chief-fired-wildfire-response>
+
+---
+
+## How immigrants are preparing for run-ins with ICE
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+Legal centers across the country are preparing immigrants without legal status for various scenarios as the Trump administration ramps up enforcement operations. 
+
+<br> 
+
+<https://laist.com/news/immigrants-are-preparing-for-run-ins-with-ice>
+
+---
+
+## LAUSD’s ‘really, really annoying’ cellphone ban may be working
+
+date: 2025-02-21, updated: 2025-02-21, from: The LAist
+
+All Los Angeles Unified campuses are now 'phone free' during the school day, and students say they’re seeing fewer devices. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-cell-phone-ban-social-media-may-be-working-really-annoying>
 
 ---
 
@@ -42,18 +162,6 @@ Grits and eggs, Taiwanese dishes, and omelettes galore — some of you even clai
 <br> 
 
 <https://laist.com/news/food/la-favorite-local-breakfast-spots>
-
----
-
-## LAUSD’s ‘really, really annoying’ cellphone ban may be working
-
-date: 2025-02-21, updated: 2025-02-21, from: The LAist
-
-All Los Angeles Unified campuses are now 'phone free' during the school day, and students say they’re seeing fewer devices. 
-
-<br> 
-
-<https://laist.com/news/education/lausd-cell-phone-ban-social-media-may-be-working-really-annoying>
 
 ---
 
@@ -768,6 +876,18 @@ A telehealth company partnered with a pharmacy that lacked a required license, r
 
 ---
 
+## The SNL 50th anniversary special: What worked and what didn't
+
+date: 2025-02-18, updated: 2025-02-21, from: The LAist
+
+The Saturday Night Live 50th anniversary prime-time special was full of sketches and nostalgia — and stretched more than three hours. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/the-snl-50th-anniversary-special-what-worked-and-what-didnt>
+
+---
+
 ## Power lines sparked new fires in LA after the Eaton Fire began, radio traffic shows
 
 date: 2025-02-17, updated: 2025-02-18, from: The LAist
@@ -861,4 +981,141 @@ Federal workers at the home agency for the National Weather Service are concerne
 <br> 
 
 <https://laist.com/news/climate-environment/trump-officials-signal-potential-changes-at-noaa-the-weather-and-climate-agency>
+
+---
+
+## Courts block Trump's DOGE actions — chaos, panic not proving to be best legal strategy
+
+date: 2025-02-15, updated: 2025-02-15, from: The LAist
+
+Some legal scholars say that the administration is bungling the chance to expand presidential power. 
+
+<br> 
+
+<https://laist.com/news/politics/courts-block-trumps-doge-actions-chaos-panic-not-proving-to-be-best-legal-strategy>
+
+---
+
+## How changes to a CDC vaccine panel under Kennedy could reshape policy
+
+date: 2025-02-15, updated: 2025-02-15, from: The LAist
+
+A committee of experts that advises the Centers for Disease Control and Prevention is critical in setting national vaccine policy. It's also vulnerable to political interference. 
+
+<br> 
+
+<https://laist.com/news/health/how-changes-to-a-cdc-vaccine-panel-under-kennedy-could-reshape-policy>
+
+---
+
+## Your Guide to an Exciting Spring in Santa Clarita
+
+date: 2025-02-15, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Spring is here, and there’s no better time to explore everything Santa Clarita has to offer. Whether you’re looking to try a new hobby, sign your child up for sports or discover recreational opportunities near you, the City’s Seasons magazine is your ultimate guide. After opening in December of last [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/15/your-guide-to-an-exciting-spring-in-santa-clarita/">Your Guide to an Exciting Spring in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/15/your-guide-to-an-exciting-spring-in-santa-clarita/>
+
+---
+
+## Woman drops suit accusing Sean 'Diddy' Combs and Jay-Z of raping her when she was 13
+
+date: 2025-02-15, updated: 2025-02-15, from: The LAist
+
+The suit was initially filed in October, claiming that the woman was lured by a limousine driver outside the 2000 MTV Video Music Awards and assaulted by the two rappers at an after-party. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/woman-drops-suit-accusing-sean-diddy-combs-and-jay-z-of-raping-her-when-she-was-13>
+
+---
+
+## Two earthquakes struck near Malibu
+
+date: 2025-02-15, updated: 2025-02-15, from: The LAist
+
+Shaking was likely felt as far away as Long Beach, with no damage likely. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/two-quakes-with-struck-near-malibu>
+
+---
+
+## At long last, 'Cambodian Rock Band' is being staged in LA
+
+date: 2025-02-15, updated: 2025-02-15, from: The LAist
+
+The production, with songs written by Dengue Fever, is hoping to draw Cambodian American theatergoers to see their story on stage. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/cambodian-rock-band-is-being-staged-in-la>
+
+---
+
+## Big homeowner rate hike from State Farm shot down by California regulator
+
+date: 2025-02-15, updated: 2025-02-15, from: The LAist
+
+After the Los Angeles fires, State Farm asked for an “emergency” premium increase of 22% on average for California homeowners. 
+
+<br> 
+
+<https://laist.com/news/politics/big-homeowner-rate-hike-from-state-farm-shot-down-by-california-regulator>
+
+---
+
+## Red Cross opens new shelter in Duarte for fire evacuees in Pasadena
+
+date: 2025-02-15, updated: 2025-02-15, from: The LAist
+
+Eaton Fire evacuees at the Pasadena shelter have been wondering where they'll go next for more than a week. On Friday, they got the answer. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/red-cross-opens-new-shelter-in-duarte-for-pasadena-fire-shelter-residents>
+
+---
+
+## LGBTQ+ Couples Get Married, Renew Vows to Celebrate Valentine’s Day
+
+date: 2025-02-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>In celebration of Valentine’s Day six couples renewed their wedding vows and four couples were married at Hollywood United Methodist Church in a special celebration presented by the Los Angeles [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/02/14/lgbtq-couples-get-married-renew-vows-to-celebrate-valentines-day/">LGBTQ+ Couples Get Married, Renew Vows to Celebrate Valentine’s Day</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/02/14/lgbtq-couples-get-married-renew-vows-to-celebrate-valentines-day/>
+
+---
+
+## The race to save historic Altadena fireplace tiles — because they're all that’s left
+
+date: 2025-02-15, updated: 2025-02-18, from: The LAist
+
+A day with the Save the Tiles volunteers as they work against time to preserve over 200 fireplaces in Altadena. 
+
+<br> 
+
+<https://laist.com/news/save-the-tiles-altadena-fireplaces-batchelder>
+
+---
+
+## The race to save historic Altadena fireplace tiles — because they're all that’s left
+
+date: 2025-02-15, updated: 2025-02-15, from: The LAist
+
+A day with the Save the Tiles volunteers as they work against time to preserve over 200 fireplaces in Altadena. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/save-the-tiles-altadena-fireplaces-batchelder>
 
