@@ -1,11 +1,95 @@
 ---
 title: socal north
-updated: 2025-02-22 07:07:56
+updated: 2025-02-23 07:00:32
 ---
 
 # socal north
 
-(date: 2025-02-22 07:07:56)
+(date: 2025-02-23 07:00:32)
+
+---
+
+## New plaza strives to restore Westwood Village to old glory
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+Broxton Plaza, with 14,000 square feet of walkable space, has grand opening today. It's L.A.'s newest and largest pedestrian-only plaza. 
+
+<br> 
+
+<https://laist.com/news/broxton-plaza-strives-to-restore-westwood-village-to-old-glory>
+
+---
+
+## With radios and megaphones, volunteers patrol LA streets to warn communities of ICE activity
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+A coalition of grassroots groups is ramping up patrols and using real-time alerts to warn residents of ICE activity amid news of a possible "large-scale" immigration enforcement action set to take place in L.A. 
+
+<br> 
+
+<https://laist.com/news/volunteers-patrol-la-streets-ice-activity-warnings>
+
+---
+
+## For restaurants on the coast, Palisades Fire is just the latest disaster
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+Some restaurants in Malibu, the Palisades and Santa Monica, like those throughout the industry, were already on life support after pandemic lockdowns, the Hollywood writers strike and inflation. 
+
+<br> 
+
+<https://laist.com/news/food/for-restaurants-on-the-coast-palisades-fire-is-just-the-latest-disaster>
+
+---
+
+## Go Fact Yourself quiz for February 22
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+Our celebrity panelists Jennifer Tilly and Adam Savage go head to head this week on their knowledge of The Beatles and Raymond Chandler. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-february-22>
+
+---
+
+## Judge largely blocks Trump's executive orders ending federal support for DEI programs
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+A U.S. district judge granted a preliminary injunction blocking the administration from terminating or changing federal contracts they consider equity-related. 
+
+<br> 
+
+<https://laist.com/news/politics/judge-largely-blocks-trumps-executive-orders-ending-federal-support-for-dei-programs>
+
+---
+
+## Children's Hospital LA reverses course on youth gender care after Trump order
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+The hospital previously said it would pause accepting some new patients in response to a federal executive order. Now after pressure from advocates and the state, it is reversing course. 
+
+<br> 
+
+<https://laist.com/news/health/chla-resumes-gender-affirming-care-for-new-patients-under-19>
+
+---
+
+## LA considers waiving development reviews for Olympics projects. Critics say priorities are skewed
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+In the run-up to the 2028 Olympics, some city leaders say development barriers need to be removed. But opponents say the damage to communities could be long-lasting. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-olympics-projects-review-exemption-city-council-vote>
 
 ---
 
@@ -981,141 +1065,4 @@ Federal workers at the home agency for the National Weather Service are concerne
 <br> 
 
 <https://laist.com/news/climate-environment/trump-officials-signal-potential-changes-at-noaa-the-weather-and-climate-agency>
-
----
-
-## Courts block Trump's DOGE actions — chaos, panic not proving to be best legal strategy
-
-date: 2025-02-15, updated: 2025-02-15, from: The LAist
-
-Some legal scholars say that the administration is bungling the chance to expand presidential power. 
-
-<br> 
-
-<https://laist.com/news/politics/courts-block-trumps-doge-actions-chaos-panic-not-proving-to-be-best-legal-strategy>
-
----
-
-## How changes to a CDC vaccine panel under Kennedy could reshape policy
-
-date: 2025-02-15, updated: 2025-02-15, from: The LAist
-
-A committee of experts that advises the Centers for Disease Control and Prevention is critical in setting national vaccine policy. It's also vulnerable to political interference. 
-
-<br> 
-
-<https://laist.com/news/health/how-changes-to-a-cdc-vaccine-panel-under-kennedy-could-reshape-policy>
-
----
-
-## Your Guide to an Exciting Spring in Santa Clarita
-
-date: 2025-02-15, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Spring is here, and there’s no better time to explore everything Santa Clarita has to offer. Whether you’re looking to try a new hobby, sign your child up for sports or discover recreational opportunities near you, the City’s Seasons magazine is your ultimate guide. After opening in December of last [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/02/15/your-guide-to-an-exciting-spring-in-santa-clarita/">Your Guide to an Exciting Spring in Santa Clarita</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/02/15/your-guide-to-an-exciting-spring-in-santa-clarita/>
-
----
-
-## Woman drops suit accusing Sean 'Diddy' Combs and Jay-Z of raping her when she was 13
-
-date: 2025-02-15, updated: 2025-02-15, from: The LAist
-
-The suit was initially filed in October, claiming that the woman was lured by a limousine driver outside the 2000 MTV Video Music Awards and assaulted by the two rappers at an after-party. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/woman-drops-suit-accusing-sean-diddy-combs-and-jay-z-of-raping-her-when-she-was-13>
-
----
-
-## Two earthquakes struck near Malibu
-
-date: 2025-02-15, updated: 2025-02-15, from: The LAist
-
-Shaking was likely felt as far away as Long Beach, with no damage likely. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/two-quakes-with-struck-near-malibu>
-
----
-
-## At long last, 'Cambodian Rock Band' is being staged in LA
-
-date: 2025-02-15, updated: 2025-02-15, from: The LAist
-
-The production, with songs written by Dengue Fever, is hoping to draw Cambodian American theatergoers to see their story on stage. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/cambodian-rock-band-is-being-staged-in-la>
-
----
-
-## Big homeowner rate hike from State Farm shot down by California regulator
-
-date: 2025-02-15, updated: 2025-02-15, from: The LAist
-
-After the Los Angeles fires, State Farm asked for an “emergency” premium increase of 22% on average for California homeowners. 
-
-<br> 
-
-<https://laist.com/news/politics/big-homeowner-rate-hike-from-state-farm-shot-down-by-california-regulator>
-
----
-
-## Red Cross opens new shelter in Duarte for fire evacuees in Pasadena
-
-date: 2025-02-15, updated: 2025-02-15, from: The LAist
-
-Eaton Fire evacuees at the Pasadena shelter have been wondering where they'll go next for more than a week. On Friday, they got the answer. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/red-cross-opens-new-shelter-in-duarte-for-pasadena-fire-shelter-residents>
-
----
-
-## LGBTQ+ Couples Get Married, Renew Vows to Celebrate Valentine’s Day
-
-date: 2025-02-15, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
-
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/02/IMG_1803-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>In celebration of Valentine’s Day six couples renewed their wedding vows and four couples were married at Hollywood United Methodist Church in a special celebration presented by the Los Angeles [&#8230;]</p>
-<p>The post <a href="https://sanfernandosun.com/2025/02/14/lgbtq-couples-get-married-renew-vows-to-celebrate-valentines-day/">LGBTQ+ Couples Get Married, Renew Vows to Celebrate Valentine’s Day</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
- 
-
-<br> 
-
-<https://sanfernandosun.com/2025/02/14/lgbtq-couples-get-married-renew-vows-to-celebrate-valentines-day/>
-
----
-
-## The race to save historic Altadena fireplace tiles — because they're all that’s left
-
-date: 2025-02-15, updated: 2025-02-18, from: The LAist
-
-A day with the Save the Tiles volunteers as they work against time to preserve over 200 fireplaces in Altadena. 
-
-<br> 
-
-<https://laist.com/news/save-the-tiles-altadena-fireplaces-batchelder>
-
----
-
-## The race to save historic Altadena fireplace tiles — because they're all that’s left
-
-date: 2025-02-15, updated: 2025-02-15, from: The LAist
-
-A day with the Save the Tiles volunteers as they work against time to preserve over 200 fireplaces in Altadena. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/save-the-tiles-altadena-fireplaces-batchelder>
 

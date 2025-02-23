@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-02-22 07:07:57
+updated: 2025-02-23 07:00:33
 ---
 
 # science and technology
 
-(date: 2025-02-22 07:07:57)
+(date: 2025-02-23 07:00:33)
+
+---
+
+## California goes ape with bill to crown Bigfoot official state cryptid
+
+date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
+
+<h4>Beast remains as mythical as the return on AI investment</h4> <p>Some muy importante legislation is stuck in the cogs of Californian bureaucracy – an Assembly Bill to recognize Bigfoot, aka Sasquatch, as the official state cryptid.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/22/bigfoot_california_state_cryptid/>
+
+---
+
+## Binned off staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses
+
+date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
+
+<h4>And really, nothing out of the ordinary for Silicon Valley</h4> <p>After another round of mass layoffs and reports of slashed stock options for remaining employees, Meta has like clockwork opted to reward its top executives with a substantial bonus increase.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/>
+
+---
+
+## Docker delays Hub pull limits by a month, tweaks maximums, stalls storage billing indefinitely
+
+date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
+
+<h4>Image fetches to be capped on hourly basis for Personal, unauthenticated use, paid-for plans get unlimited access</h4> <p>Docker has delayed its plan to limit image pulls – the downloading of container images – from Docker Hub, by one month and has altered previously published quotas.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/22/docker_hub_pull_limits/>
 
 ---
 
@@ -1722,52 +1758,4 @@ date: 2025-02-16, updated: 2025-02-16, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/16/open_source_maintainers_state_of_open/>
-
----
-
-## Nearly 10 years after Data and Goliath, Bruce Schneier says: Privacy’s still screwed
-
-date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
-
-<h4>&#39;In 50 years, I think we&#39;ll view these business practices like we view sweatshops today&#39;</h4> <p><strong>Interview</strong>  It has been nearly a decade since famed cryptographer and privacy expert Bruce Schneier released the book Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World - an examination of how government agencies and tech giants exploit personal data. Today, his predictions feel eerily accurate.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/15/interview_bruce_schneier/>
-
----
-
-## Why AI benchmarks suck
-
-date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
-
-<h4>Anyone remember when Volkswagen rigged its emissions results? Oh...</h4> <p>AI model makers love to flex their benchmarks scores. But how trustworthy are these numbers? What if the tests themselves are rigged, biased, or just plain meaningless?…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/15/boffins_question_ai_model_test/>
-
----
-
-## UK's new thinking on AI: Unless it's causing serious bother, you can crack on
-
-date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
-
-<h4>Plus: Keep calm and plug Anthropic&#39;s Claude into public services</h4> <p><strong>Comment</strong>  The UK government on Friday said its AI Safety Institute will henceforth be known as its AI Security Institute, a rebranding that attests to a change in regulatory ambition from ensuring AI models get made with wholesome content – to one that primarily punishes AI-abetted crime.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/15/uk_ai_safety_institute_rebranded/>
-
----
-
-## If you dread a Microsoft Teams invite, just wait until it turns out to be a Russian phish
-
-date: 2025-02-15, updated: 2025-02-15, from: The Register (UK I.T. News)
-
-<h4>Roses aren&#39;t cheap, violets are dear, now all your access token are belong to Vladimir</h4> <p>Digital thieves – quite possibly Kremlin-linked baddies – have been emailing out bogus Microsoft Teams meeting invites to trick victims in key government and business sectors into handing over their authentication tokens, granting access to emails, cloud data, and other sensitive information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/15/russia_spies_spoofing_teams/>
 

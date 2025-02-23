@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-02-22 07:07:57
+updated: 2025-02-23 07:00:35
 ---
 
 # writing
 
-(date: 2025-02-22 07:07:57)
+(date: 2025-02-23 07:00:35)
 
 ---
 
@@ -509,51 +509,4 @@ Lightspeed 11/24</p>
 <br> 
 
 <https://locusmag.com/2025/02/beneath-ceaseless-skies-small-wonders-and-lightspeed-short-fiction-reviews-by-charles-payseur/>
-
----
-
-## Hammajang Luck by Makana Yamamoto: Review by Paul Di Filippo
-
-date: 2025-02-15, from: Locus Magazine
-
-<p><strong>Hammajang Luck</strong>, Makana Yamamoto (Harper Voyager‎ ‎ 978-0063430822, trade paperback, 368pp, $15.99) January 2025</p>
-<p>My partner Deborah Newton proclaims that her favorite type of movie is the heist film. I suspect that there are many who share her affection for this genre. From <b>Rififi</b> to <b>The Italian Job</b>, from <b>A Fish Called Wanda</b> to <b>Ocean’s 11</b>, such highly entertaining and suspenseful stories span a huge range and  <a href="https://locusmag.com/2025/02/hammajang-luck-by-makana-yamamoto-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/02/hammajang-luck-by-makana-yamamoto-review-by-paul-di-filippo/>
-
----
-
-## The Sentence by Gautam Bhatia: Review by Abigail Nussbaum
-
-date: 2025-02-15, from: Locus Magazine
-
-<p><strong>The Sentence</strong>, Gautam Bhatia (Westland IF 978-9-36045-152-3, ₹599, 396pp, tp) October 2024.</p>
-<p>A hundred years ago, the city-state of Peruma emerged from a bloody civil war between its landowning elites and its working classes with a legal compromise. A charter that divided the city into High Town, ruled by the corporate-controlled Council, and Low Town, ruled by the anarchistic Commune. In between are the Guardians, an order of law­yers  <a href="https://locusmag.com/2025/02/the-sentence-by-gautam-bhatia-review-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/02/the-sentence-by-gautam-bhatia-review-by-abigail-nussbaum/>
-
----
-
-## People & Publishing Roundup, January 2025
-
-date: 2025-02-15, from: Locus Magazine
-
-<div></div>
-<div class="catheader"><strong>MILESTONES</strong></div>
-
-<p><strong>KHAN WONG </strong>is now repre­sented by Ernie Chiara of Fuse Literary.</p>
-<p><strong>ETHAN LAI </strong>is now represent­ed by Arley Sorg of kt literary.</p>
-<div></div>
-<div class="catheader"><strong>AWARDS</strong></div>
-
-<p>Authors <strong>LAURA LIPPMAN </strong>and <strong>JOHN SANFORD </strong>are the recipients of the 2025 Grand Master Awards, presented by the Mystery Writers of America.</p>
-<p><strong>PETE WOLVERTON</strong>, vice-pres­ident and executive editor at St. Martin’s Publishing Group, re­ceived the Ellery Queen Award, honoring “outstanding writing teams and outstanding people  <a href="https://locusmag.com/2025/02/people-publishing-roundup-january-2025-2/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/02/people-publishing-roundup-january-2025-2/>
 

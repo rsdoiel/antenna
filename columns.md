@@ -1,11 +1,107 @@
 ---
 title: columns
-updated: 2025-02-22 07:07:57
+updated: 2025-02-23 07:00:34
 ---
 
 # columns
 
-(date: 2025-02-22 07:07:57)
+(date: 2025-02-23 07:00:34)
+
+---
+
+## Howto: Humble command-line assistant
+
+date: 2025-02-22, from: Anton Zhiyanov blog
+
+You ask, and howto answers. That's the deal. 
+
+<br> 
+
+<https://antonz.org/howto/>
+
+---
+
+## The Trump-Putin regime? The Coffee Klatch | February 22, 2025 (ft. Rohit Chopra)
+
+date: 2025-02-22, from: Robert Reich's blog
+
+With Heather Lofthouse and Yours Truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157649800/8adc39c01d90554ad0fa70a83d8abac8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157649800/8adc39c01d90554ad0fa70a83d8abac8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-trump-putin-regime-the-coffee>
+
+---
+
+## February 21, 2025
+
+date: 2025-02-22, from: Heather Cox Richardson blog
+
+In an appearance at the Conservative Political Action Conference (CPAC) yesterday, billionaire Elon Musk seemed to be having difficulty speaking. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-21-2025>
+
+---
+
+## Weeknotes: Feb. 15-21, 2025
+
+date: 2025-02-22, from: Tracy Durnell Blog
+
+Win of the week: I&#8217;ve been looking for my Pixel 3a so I can root it and use it as my everyday browsing device, and haven&#8217;t found it yet, but DID find my Pretty Hate Machine CD that&#8217;s been missing for like a year 🙌💿 (It was hiding along with The Postal Service, which I [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/21/weeknotes-feb-15-21-2025/>
+
+---
+
+## Listened to Coming or Going
+
+date: 2025-02-22, from: Tracy Durnell Blog
+
+This song popped into my head today &#8212; I&#8217;ve been listening to another White Arrows song a bunch, so maybe that did it 😉 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/21/listened-to-coming-or-going/>
+
+---
+
+## ‘Ready’ Is the New ‘Approved’
+
+date: 2025-02-22, updated: 2025-02-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mastodon.social/@rileytestut/114043540322770608>
+
+---
+
+## The 40th Anniversary of ProVUE at Macworld Expo
+
+date: 2025-02-22, updated: 2025-02-22, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://forum.provue.com/t/celebrating-the-40th-anniversary-of-provue-at-macworld-expo/6871>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-22, from: Miguel de Icaza Mastondon feed)
+
+<p>I learned about retrofitting and surfacing C/C++ APIs without touching the original C++ code via APInotes from this talk.</p><p>Can’t believe I didn’t know about this:</p><p><a href="https://fosdem.org/2025/schedule/event/fosdem-2025-6176-incremental-memory-safety-in-an-established-software-stack-lessons-learned-from-swift/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fosdem.org/2025/schedule/event</span><span class="invisible">/fosdem-2025-6176-incremental-memory-safety-in-an-established-software-stack-lessons-learned-from-swift/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114044896377860472>
 
 ---
 
@@ -1981,286 +2077,4 @@ After World War II, the vast majority of Americans&#8212;Democrats and Republica
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/february-15-2025>
-
----
-
-**@Jessica Smith's blog** (date: 2025-02-15, from: Jessica Smith's blog)
-
-<p>As of a few days ago, I was so proud of us that we were finally getting close to Indie having half an hour of tummy time per day 😇</p>
-<p>Then I looked it up and found out that at four months, babies are actually supposed to have 90 minutes of tummy time per day 🤦🏻‍♀️</p>
-<p>How can the goalposts keep moving?!</p> 
-
-<br> 
-
-<https://www.jayeless.net/2025/02/90mins-tummy-time.html>
-
----
-
-##  The Evolution of Electronic Music (1929-2019). Interesting that it took so long... 
-
-date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/02/0046233-the-evolution-of-electron>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
-
-<p>The more of Godot’s editor that I rewrite in SwiftUI, the more appreciation I have for just how vast and comprehensive Godot is.</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114009814295463033>
-
----
-
-##  Cool thing that I did not notice about The Wild Robot: at... 
-
-date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/02/0046230-cool-thing-that-i-did>
-
----
-
-**@Ryan Gantz Bluesky feed** (date: 2025-02-15, from: Ryan Gantz Bluesky feed)
-
-say you want to die of stomach cancer while exiled on an island in the south atlantic without saying you want to die of stomach cancer while exiled on an island in the south atlantic
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/sixfoot6.bsky.social/post/3liagvdiehk22>
-
----
-
-**@Ryan Gantz Bluesky feed** (date: 2025-02-15, from: Ryan Gantz Bluesky feed)
-
-why the fuck are we budgeting so much for an ongoing program called "Make Sure Planes Don't Fall Out of the Sky" when in reality that pretty much never happens?? like, planes don't just fall
-
-Yeah, you guessed it: fraud
-I fixed it. DELETED 🙌
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/sixfoot6.bsky.social/post/3liagfek2is22>
-
----
-
-## Martin Pilkington, Longtime Stalwart of the Mac and Apple Developer Community, Dies From Cancer
-
-date: 2025-02-15, updated: 2025-02-16, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://mastodon.social/@pilky/114008572002612525>
-
----
-
-##  New Evidence Suggests Humans Developed Written Language To Avoid Breaking Up In... 
-
-date: 2025-02-15, updated: 2025-02-15, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/02/0046234-new-evidence-suggests-hum>
-
----
-
-## February 14, 2025
-
-date: 2025-02-15, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157207509/692fd469b4e07db60c59b5b0f651516a.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/157207509/692fd469b4e07db60c59b5b0f651516a.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/february-14-2025-46d>
-
----
-
-## Netflix Deeply Regrets Accidentally Making Netflix a Better Product for Its Customers
-
-date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://joe-steel.com/2025-02-14-Netflix-Says-Its-Brief-Apple-TV-App-Integration-Was-a-Mistake.html>
-
----
-
-## Financial Times: ‘Is Corporate America Already Souring on Trump?’
-
-date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.ft.com/content/a7c9376b-4cb2-4cf2-a665-66f75b72f4c2>
-
----
-
-## Key Codes 2.2.2
-
-date: 2025-02-15, updated: 2025-02-15, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://manytricks.com/keycodes/help/>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
-
-<p>My new best friend after trying to use my redesigned UI on a real device:</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114008778962930752>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
-
-The way to get even is to win. A lot of people don't get that, and it's almost always their downfall. 
-
-<br> 
-
-<http://scripting.com/2025/02/15.html#a132205>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
-
-I’m not giving money to Democrats. I will give to campaigns that run hard-hitting ads telling the full truth about what Musk is doing now. I want to see the actual ads before I chip in, and will do so enthusiastically, but they can’t be anemic. 
-
-<br> 
-
-<http://scripting.com/2025/02/15.html#a132023>
-
----
-
-## The web before the web
-
-date: 2025-02-15, from: Dave Winer's Scripting News
-
-<p><a href="https://mastodon.social/@vga256@dialup.cafe/114004725458799557">Hypercard</a> stacks were the equivalent of websites. </p>
-<p>If <a href="https://en.wikipedia.org/wiki/HyperCard">it</a> had been built around the Macintosh Toolkit, and had an API that fit in with Mac apps, there wouldn't be a web, we'd all be using Macs. Alas it was all on its own, didn't work with anything but itself. </p>
-<p>A lot was lost because the Mac development model was far in advance of what existed on the web, and it was well-thought-out unlike the app model of the web, which is a hodgepodge of horribly designed modules that don't work well together. </p>
-<p>I was a Mac developer at the time, so I know a lot about this moment of history. </p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/15/hypercardStackHome.png"></center>Screen shot of a Hypercard stack home page.</div></p>
- 
-
-<br> 
-
-<http://scripting.com/2025/02/15/131146.html?title=theWebBeforeTheWeb>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-15, from: Dave Winer's Scripting News)
-
-The Dems don't do <a href="https://en.wikipedia.org/wiki/Positioning_(marketing)">positioning</a>. The Repubs run circles around Dems. They are masters at positioning. It's not hard, you just have to decide to do it. 
-
-<br> 
-
-<http://scripting.com/2025/02/15.html#a125752>
-
----
-
-## The Musk Show | Coffee Klatch for Saturday, February 15, 2025
-
-date: 2025-02-15, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157168593/82927d97bee5f5bb8294288c50f12fd1.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/157168593/82927d97bee5f5bb8294288c50f12fd1.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-musk-show-coffee-klatch-for-saturday>
-
----
-
-## Weeknotes: Feb. 8-14, 2025
-
-date: 2025-02-15, from: Tracy Durnell Blog
-
-Win of the week: I was selected as a finalist for the RFP I submitted on and did a follow-up interview &#8212; should find out next week! 🤞 Looking forward to: three day weekend! Stuff I did: 7.75 hours consulting one virtual appointment and one in-person appointment &#8212; back to the optometrist again, they&#8217;re going to [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/02/14/weeknotes-feb-8-14-2025/>
-
----
-
-## Indie’s First Library Trip
-
-date: 2025-02-15, from: Jessica Smith's blog
-
-<p>The first big autumnal blast of the year has hit. We took Indie on her first trip to the local library (where she gave the most ENORMOUS grin to the librarian, it was really sweet), craving more diversity in books than &ldquo;Colours&rdquo;, &ldquo;Shapes&rdquo; and the ever-frustrating &ldquo;Goodnight Stories for Rebel Girls&rdquo;. This was our haul…</p>
-<a href="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul.jpeg" class="glightbox" data-gallery="indies-first-library-trip"
-  style="aspect-ratio: 4 / 3;"><img 
-  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
-  srcset="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul.jpeg 1920w"
-  src="https://www.jayeless.net/2025/02/indies-first-library-trip/library-book-haul_hu19aaf83815c1a76eae458b90610c1895_1129014_830x0_resize_q85_h2_box.webp"
-  alt="A pile of five baby board books. In order from top to bottom: “Love with Plato”, “Hey Owl, What’s in the Box?”, “That’s not my monster…”, “Welcome to Your World” and “ABC Spanish”."
-  loading="lazy" class="u-photo u-featured"></a>
-<p>The Plato one was funny. The back indicated there was another in the series called &ldquo;Equality with Simone de Beauvoir&rdquo;, so I went, &ldquo;Ooh, well if they have it, I&rsquo;d rather get that one.&rdquo; They didn&rsquo;t have it. So I turned to Indie and said, &ldquo;Well, we can get the Plato one, and you can listen to me trash-talk him!&rdquo; Then Viv (Philosophy major – not that you&rsquo;d ever know by just meeting him) asked, &ldquo;What&rsquo;s wrong with Plato?&rdquo; and I explained my opinion.</p>
-<p>But anyway, the book is called <cite>Love with Plato</cite>. So I was like, &ldquo;What did Plato even say about love? I don&rsquo;t remember that from year 12 Philosophy. I remember PHILOSOPHER-KINGS and the allegory of the cave…&rdquo; Just from reading the book now, it seems like Plato said it&rsquo;s good to love things. So, OK, Plato. Thanks for that brilliant insight. (This is me expecting too much out of baby books again, isn&rsquo;t it?)</p>
-<a href="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue.jpeg" class="glightbox" data-gallery="indies-first-library-trip"
-  style="aspect-ratio: 4 / 3;"><img 
-  sizes="(min-width: 715px) 640px, (min-width: 435px) 90vw, 100vw"
-  srcset="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_320x0_resize_q85_box.jpeg 320w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_440x0_resize_q85_box.jpeg 440w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_640x0_resize_q85_box.jpeg 640w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_830x0_resize_q85_h2_box.webp 830w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_1280x0_resize_q85_h2_box.webp 1280w, https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue.jpeg 1920w"
-  src="https://www.jayeless.net/2025/02/indies-first-library-trip/police-car-to-the-rescue_hu23f53430688e09c15f6177fa598358b5_1266689_830x0_resize_q85_h2_box.webp"
-  alt="A baby board book called “Police Car to the Rescue! Everyday Heroes”. The front cover has an illustration of a brown dog in a dark blue police car. The police car is anthropomorphised, with big eyes and a little mouth."
-  loading="lazy" class="u-photo"></a>
-<p>And this was one of the books we did NOT get. I pointed it out to Viv and went, &ldquo;Oh man, what is this, pro-cop propaganda for babies?! Get it out of here,&rdquo; and Viv started teasing me: &ldquo;Come on, the police are lovely people. Who else are you going to call when you need the police?&rdquo; and I told him to stop brainwashing the baby.</p>
-<p>We had a nice little excursion, anyway.</p> 
-
-<br> 
-
-<https://www.jayeless.net/2025/02/indies-first-library-trip.html>
-
----
-
-## February 14, 2025
-
-date: 2025-02-15, from: Heather Cox Richardson blog
-
-On this day, I always like to tell the story of Theodore Roosevelt&#8217;s terrible 1884 Valentine&#8217;s Day and how it led to the Progressive Era, but things are happening too fast these days to leave a gap in the record, so you&#8217;ll have to look back at last year&#8212;or forward to next&#8212;for that story. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/february-14-2025>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-02-15, from: Miguel de Icaza Mastondon feed)
-
-<p>After using SwiftUI’s new macro-based observable system, it is hard to think about using anything else.</p><p>Then I realized I would love to have a language that is based entirely on that concept.  </p><p>A bit like a spreadsheet, with data flowing and propagating as needed, rather than our current approach of moving data from one point to another like donkeys pulling carts.</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114004988492266136>
 

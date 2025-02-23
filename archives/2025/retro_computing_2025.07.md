@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-02-22 07:07:59
+updated: 2025-02-23 07:00:38
 ---
 
 # retro computing
 
-(date: 2025-02-22 07:07:59)
+(date: 2025-02-23 07:00:38)
+
+---
+
+## Eggzy – another Code the Classics conversion
+
+date: 2025-02-22, from: RiscOS Story
+
+Barely giving himself time for a good fry up after releasing a RISC OS conversion of Beatstreets, Jeroen Vermeulen is back with another of the games in Code the Classics Volume II. This time, he&#8217;s released a RISC OS version of Eggzy. With the classic Dizzy series from the Oliver Twins as its inspiration, in this game you control a blue egg-like character (the chief differences being things like arms, legs, eyes, and a mouth&#8230; and, um, a flame on top&#8230; all of which eggs tend to lack) called Eggzy,&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/eggzy-game-released/>
 
 ---
 

@@ -1,11 +1,35 @@
 ---
 title: food
-updated: 2025-02-22 07:08:00
+updated: 2025-02-23 07:00:39
 ---
 
 # food
 
-(date: 2025-02-22 07:08:00)
+(date: 2025-02-23 07:00:39)
+
+---
+
+## The Coolest Water Pitchers for All Your Entertaining Needs
+
+date: 2025-02-22, from: Bon Appetet
+
+No dinner party’s complete without one. 
+
+<br> 
+
+<https://www.bonappetit.com/story/coolest-water-pitchers>
+
+---
+
+## 23 Chia Seed Recipes That Go Beyond Pudding
+
+date: 2025-02-22, from: Bon Appetet
+
+Like an energizing seedy nut butter, chia pancakes you can make ahead, and a filling blueberry smoothie. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/chia-seed-recipes>
 
 ---
 
@@ -856,28 +880,4 @@ date: 2025-02-16, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/44-soups-to-warm-soul/>
-
----
-
-## 29 Cheesy Pasta Recipes for the Coziest Dinners
-
-date: 2025-02-15, from: Bon Appetet
-
-Like artichoke dip penne, pillowy ricotta gnocchi, and French onion shells with Gruyère. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/cheesy-pasta-recipes>
-
----
-
-## Sweet Potato Curry
-
-date: 2025-02-15, from: Taste of Home
-
-This easy vegan sweet potato curry is a soul-filling meal that won't break the bank. To make it even heartier add extra vegetables, chickpeas or even meat. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/sweet-potato-curry/>
 

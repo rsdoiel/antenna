@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-02-22 07:07:59
+updated: 2025-02-23 07:00:37
 ---
 
 # motorcycles
 
-(date: 2025-02-22 07:07:59)
+(date: 2025-02-23 07:00:37)
+
+---
+
+## Florida Leads in Motorcyclist Deaths Yet Again, It’s Hardly Surprising
+
+date: 2025-02-22, from: Ride Apart, Electric Motorcycle News
+
+Guess what law motorcyclists in Florida don't have to follow, which they do in most other states. 
+
+<br> 
+
+<https://www.rideapart.com/news/751347/florida-leads-motorcycle-deaths-2025-no-helmet-law/>
 
 ---
 
@@ -434,40 +446,4 @@ By: Zach Catanzareti, Staff Writer One of the guaranteed closers of the Xfinity 
 <br> 
 
 <https://kickinthetires.net/nascar/jordan-anderson-closes-again-scores-7th-in-daytona/>
-
----
-
-## GALLERY: Friday at Daytona
-
-date: 2025-02-15, from: Kickin the Tires blog
-
-By: Zach Catanzareti, Staff Writer Friday at Daytona International Speedway saw cars, trucks and a little Florida rain. With the Cup Series running their second of three practice sessions before&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/gallery-friday-at-daytona/>
-
----
-
-## Aprilia’s Shiver 900 Rises From the Ashes, but Will Anyone Want It?
-
-date: 2025-02-15, from: Ride Apart, Electric Motorcycle News
-
-We don't know if it'll ever come to the US, and if it does, you might not care. 
-
-<br> 
-
-<https://www.rideapart.com/news/750669/aprilia-shiver-rereleased-china/>
-
----
-
-## Denny Hamlin Happily Focused On Racing In Wake Of Legal Battle With NASCAR
-
-date: 2025-02-15, from: Kickin the Tires blog
-
-By Jerry Jordan, Editor DAYTONA BEACH, Fla. – Denny Hamlin comes into the 2025 NASCAR season opener at Daytona International Speedway with a record of three wins in 40 starts&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/denny-hamlin-happily-focused-on-racing-in-wake-of-legal-battle-with-nascar/>
 

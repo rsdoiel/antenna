@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-02-22 07:07:58
+updated: 2025-02-23 07:00:36
 ---
 
 # journalism
 
-(date: 2025-02-22 07:07:58)
+(date: 2025-02-23 07:00:36)
+
+---
+
+## USAC commission opens funds to subsidize BruinCard replacement, laundry
+
+date: 2025-02-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council Financial Supports Commission is piloting new funding initiatives to subsidize BruinCard replacements and laundry costs.
+The commission&#8217;s Replacement BruinCard Fund will provide students with a once-per-quarter $10 discount on the $25 BruinCard replacement fee or complete coverage of the $5 fee to exchange an existing BruinCard with a new one. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/21/usac-commission-opens-funds-to-subsidize-bruincard-replacement-laundry/>
 
 ---
 
@@ -1343,67 +1356,4 @@ Playing at the Geffen Playhouse through March 9, the cast of “Noises Off” wi
 <br> 
 
 <https://dailybruin.com/2025/02/15/theater-review-noises-off-brings-humor-to-geffen-playhouse-with-successfully-reimagined-script/>
-
----
-
-## Alumnus-written play ‘Good Tidings’ unpacks spirituality, explores communal bonds
-
-date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-When the spiritual leader of a commune dies, all within it are left reeling.
-“Good Tidings,” a UCLA alumnus-written play presented by Los Angeles Theatre Initiative, is hosting its three LA previews Feb. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/15/alumnus-written-play-good-tidings-unpacks-spirituality-explores-communal-bonds/>
-
----
-
-## Second Take: History of ‘Saturday Night Live’ proves its importance in entertainment, society
-
-date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-After 50 years on air, the success of &#8220;Saturday Night Live&#8221; doesn&#8217;t need to be measured in laughter.
-NBC&#8217;s award-winning late-night sketch comedy series will celebrate its 50th anniversary with a three-hour special this weekend. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/15/second-take-history-of-saturday-night-live-proves-its-importance-in-entertainment-society/>
-
----
-
-## UPTE-CWA 9119 to conduct 3-day strike against UC at end of February
-
-date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-A research and technical workers union announced plans for a three-day strike, becoming the second union to announce a strike against the University of California on Friday.&#160;
-The University Professional and Technical Employees-Communications Workers of America 9119 – which represents research and technical workers – called the strike, which will take place on all 10 UC campuses from Feb. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/14/upte-cwa-9119-to-conduct-3-day-strike-against-uc-at-end-of-february/>
-
----
-
-## From Me to You
-
-date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<br> 
-
-<https://dailybruin.com/2025/02/14/from-me-to-you/>
-
----
-
-## Editorial Cartoon: “Bruin Up Some Love”
-
-date: 2025-02-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-&#160; 
-
-<br> 
-
-<https://dailybruin.com/2025/02/14/editorial-cartoon-bruin-up-some-love/>
 

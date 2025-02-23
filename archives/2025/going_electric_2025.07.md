@@ -1,11 +1,23 @@
 ---
 title: going electric
-updated: 2025-02-22 07:08:00
+updated: 2025-02-23 07:00:38
 ---
 
 # going electric
 
-(date: 2025-02-22 07:08:00)
+(date: 2025-02-23 07:00:38)
+
+---
+
+## This 250,000-Mile Tesla Model S Took Nearly 3 Hours To Fully 'Fast' Charge
+
+date: 2025-02-22, from: Inside EVs News
+
+Don't worry, though, its performance isn't quite as bad as it may look. 
+
+<br> 
+
+<https://insideevs.com/news/751343/tesla-model-s-250k-miles-charging/>
 
 ---
 
@@ -1438,68 +1450,4 @@ date: 2025-02-16, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/02/15/e-quipment-highlight-liebherr-liduro-power-port-100-portable-equipment-charger/>
-
----
-
-## Scout Range Extender Will Be A Non-Turbo Four-Cylinder, Offer 500-Mile Range
-
-date: 2025-02-15, from: Inside EVs News
-
-The extended-range Scout will have a battery pack about half the size of the electric variant, but its combined range will exceed the EV’s. 
-
-<br> 
-
-<https://insideevs.com/news/750832/scout-range-extender-details-revealed/>
-
----
-
-## People Are Vandalizing Tesla Superchargers
-
-date: 2025-02-15, from: Inside EVs News
-
-The company hopes to deter would-be thieves by using dyes to mark them, and branding the wire they hope to steal. 
-
-<br> 
-
-<https://insideevs.com/news/750820/vandalizing-tesla-superchargers-fighting-back/>
-
----
-
-## The Hyundai Ioniq 5 Is Stealing Tons Of Buyers From Other Brands
-
-date: 2025-02-15, from: Inside EVs News
-
-The Toyota bZ4X, Subaru Solterra and Nissan Ariya? Not so much. 
-
-<br> 
-
-<https://insideevs.com/news/750818/hyundai-ioniq-toyota-bz4x-conquests/>
-
----
-
-## 2025 Volvo EX30 Charging Test Is 'A Little Disappointing'
-
-date: 2025-02-15, from: Inside EVs News
-
-The cheapest Volvo just happens to be an EV. Here’s how it handles DC fast charging. 
-
-<br> 
-
-<https://insideevs.com/news/750622/2025-volvo-ex30-charging-test/>
-
----
-
-## Republican districts lose billions as clean energy cancellations surge
-
-date: 2025-02-15, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/FREYR-battery-factory-rendering-georgia.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Clean energy investments took a serious hit in January, sinking to their lowest point since the Inflation Reduction Act (IRA) supercharged the industry with tax credits and incentives. Growing uncertainty around the future of these policies – especially with the Republican-majority Congress debating potential rollbacks – has led to a sharp drop in new projects and an increase in cancellations, reports <a href="https://e2.org/" target="_blank" rel="noreferrer noopener">E2</a>.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,donald-trump,egeb,energy-brief,electric-vehicles,solar,hydrogen,inflation-reduction-act,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="401933" href="https://electrek.co/2025/02/14/republican-districts-lose-billions-as-clean-energy-cancellations-surge/#more-401933" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/02/14/republican-districts-lose-billions-as-clean-energy-cancellations-surge/>
 
