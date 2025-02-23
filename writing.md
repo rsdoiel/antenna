@@ -1,11 +1,77 @@
 ---
 title: writing
-updated: 2025-02-23 07:00:35
+updated: 2025-02-23 12:22:14
 ---
 
 # writing
 
-(date: 2025-02-23 07:00:35)
+(date: 2025-02-23 12:22:14)
+
+---
+
+## Asimov’s: Short Fiction Reviews by A.C. Wise
+
+date: 2025-02-23, from: Locus Magazine
+
+<p>Asimov’s 11-12/24</p>
+<p>The November/December issue of Asimov’s opens with “<strong>Death Benefits</strong>”, a novella by <strong>Kristine Kathryn Rusch</strong>. A series of vignettes highlight various casualties of war, interspersed with the story of Davidson Turo, a private investigator who is approached by a client who has seen foot­age of her lover’s death, but is convinced it’s fake and that he’s still alive. Rusch does a lovely job of exploring  <a href="https://locusmag.com/2025/02/asimovs-short-fiction-reviews-by-a-c-wise-3/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/asimovs-short-fiction-reviews-by-a-c-wise-3/>
+
+---
+
+## Fusion Fragment, GigaNotoSaurus and Diabolical Plots 11/24: Short Fiction Reviews by Charles Payseur
+
+date: 2025-02-22, from: Locus Magazine
+
+<p>Fusion Fragment 11/24
+GigaNotoSaurus 11/24
+Diabolical Plots 11/24</p>
+<p>November’s Fusion Fragment starts strong with <strong>Emry Jordal</strong>’s novelette “<strong>The Little Black Wand for Every Occasion</strong>”, in which a technology known as Serendipity is growing in popularity, though not without some controversy. It allows people a redo, erasing six minutes or so of time so that people can undo any “mistakes” they just made. In practice, it allows people  <a href="https://locusmag.com/2025/02/fusion-fragment-giganotosaurus-and-diabolical-plots-11-24-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/fusion-fragment-giganotosaurus-and-diabolical-plots-11-24-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## The Year in Review 2024 by Abigail Nussbaum
+
+date: 2025-02-22, from: Locus Magazine
+
+<p>In the summer of 2024, Briardene Books published <strong>Track Changes</strong>, a collection of my reviews. There’s noth­ing like putting a book like that together, combing your way through nearly 20 years of work, to make you think about the project of canon-building. What books still deserve to be talked about decades after you read them? What books represent shifts in the field, or in literature itself, that you were  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-abigail-nussbaum/>
+
+---
+
+## The Way Up Is Death by Dan Hanks: Review by Paul Di Filippo
+
+date: 2025-02-22, from: Locus Magazine
+
+<p><strong>The Way Up Is Death</strong>, Dan Hanks (Angry Robot ‎978-1915202949, trade paperback, 368pp, $18.99) January 2025</p>
+<p>Dan Hanks’s third novel (I remain sheepishly ignorant of his first two: <b>Captain Moxley and the Embers of the Empire</b> [2020] and <b>Swashbucklers</b> [2021]) is built around a very familiar concept: the physical, mental, and moral testing, by unknown agents, of a pack of aspirants or seekers or, as in this case, kidnapped  <a href="https://locusmag.com/2025/02/the-way-up-is-death-by-dan-hanks-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-way-up-is-death-by-dan-hanks-review-by-paul-di-filippo/>
+
+---
+
+## Hot Singles in Your Area by Jordan Shiveley: Review by Gabino Iglesias
+
+date: 2025-02-22, from: Locus Magazine
+
+<p><strong>Hot Singles in Your Area</strong>, Jordan Shiveley (Unbound 978-1-80018-341-4, $18.00, 208pp, tp) February 2025. Cover by Jack Smyth.</p>
+<p>Some books are hard to categorize. Jordan Shiveley’s <strong>Hot Singles in Your Area </strong>is one of those books. Strangely funny and danc­ing to the strange sound of its own drum, this novel has one foot in body horror and one foot in something akin to bizarro fiction (think authors like Carlton  <a href="https://locusmag.com/2025/02/hot-singles-in-your-area-by-jordan-shiveley-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/hot-singles-in-your-area-by-jordan-shiveley-review-by-gabino-iglesias/>
 
 ---
 

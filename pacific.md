@@ -1,11 +1,191 @@
 ---
 title: pacific
-updated: 2025-02-23 07:00:32
+updated: 2025-02-23 12:22:11
 ---
 
 # pacific
 
-(date: 2025-02-23 07:00:32)
+(date: 2025-02-23 12:22:11)
+
+---
+
+## UH Cancer Center, Queen’s partner on Hawaiʻi’s first on-campus cancer clinic
+
+date: 2025-02-23, from: University of Hawaiʻi News
+
+<p>A memorandum of understanding has been signed to bring comprehensive cancer care and early-phase clinical trials to <span aria-label="Hawaii">Hawai&#699;i</span> patients.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/23/cancer-center-queens-mou/"><abbr>UH</abbr> Cancer Center, Queen’s partner on Hawaiʻi’s first on-campus cancer clinic</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/23/cancer-center-queens-mou/>
+
+---
+
+## Growing a greener future: Hawaiʻi CC teaches Korean natural farming
+
+date: 2025-02-23, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr> graduates are helping to revitalize farmlands using environmentally friendly methods.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/23/hawaii-cc-korean-natural-farming/">Growing a greener future: Hawaiʻi <abbr>CC</abbr> teaches Korean natural farming</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/23/hawaii-cc-korean-natural-farming/>
+
+---
+
+## Housing center for youth opens in downtown Hilo
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>A triad of nonprofits came together Friday to celebrate the opening of a new shelter and outreach center for young people experiencing homelessness.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/hawaii-news/housing-center-for-youth-opens-in-downtown-hilo/>
+
+---
+
+## ‘DOGE is a dictatorship’: Hundreds turn out in Puna to express their concerns about Trump administration, Musk
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>A crowd of perhaps 300 showed up Saturday at a town hall hosted by U.S. Rep. Jill Tokuda (D-Hawaii) at the Pahoa High and Intermediate School cafeteria.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/hawaii-news/doge-is-a-dictatorship-hundreds-turn-out-in-puna-to-express-their-concerns-about-trump-administration-musk/>
+
+---
+
+## Mayor kicks off first of 14 community meetings
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>Dozens of Big Island residents met with Mayor Kimo Alameda and other Hawaii County officials Wednesday at the first of 14 planned community meetings around the island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/hawaii-news/mayor-kicks-off-first-of-14-community-meetings/>
+
+---
+
+## Apparent settlement reached in Honokohau Harbor sewage lawsuit
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>A citizen&#8217;s group told a Honolulu federal judge in a letter Wednesday it has reached a conditional settlement with Hawaii County in a lawsuit over sewage discharged into Honokohau Harbor in North Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/hawaii-news/apparent-settlement-reached-in-honokohau-harbor-sewage-lawsuit/>
+
+---
+
+## At CPAC, Trump revels in political payback
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump made a triumphant return to the Conservative Political Action Conference on Saturday, gleefully recounting his acts of retribution against the Biden administration to a crowd of loyal supporters that included people he had pardoned for their roles in the Jan. 6, 2021, attack on the Capitol.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/nation-world-news/at-cpac-trump-revels-in-political-payback/>
+
+---
+
+## Six hostages released, then Israel stalls swap
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Hamas released six Israeli hostages from the Gaza Strip on Saturday, delivering the last living captives set to be freed in the first phase of a fragile truce that was jolted this past week when the militant group returned remains that did not belong to an Israeli woman as planned.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/nation-world-news/six-hostages-released-then-israel-stalls-swap/>
+
+---
+
+## Musk says government workers must detail their workweek or lose their jobs
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk threw federal workers into further confusion and alarm Saturday when he ordered them to summarize their accomplishments for the week, warning that a failure to do so would be taken as a resignation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/nation-world-news/musk-says-government-workers-must-detail-their-workweek-or-lose-their-jobs/>
+
+---
+
+## Headstrong Francis put the church above his health, Vatican observers say
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>ROME &#8212; In the days after the Vatican announced Feb. 6 that Pope Francis had bronchitis and would be restricting his activities to his residence, he proceeded to hold multiple private audiences a day with groups of nuns, pilgrims and leaders of foundations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/nation-world-news/headstrong-francis-put-the-church-above-his-health-vatican-observers-say/>
+
+---
+
+## Obituaries for February 23
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>Mark Phillip Conley, 67, of Waimea died Jan. 7 at home. Born in Garden City, N.C., he was a cowboy at Ponoholo Ranch and a coach for and avid supporter of Special Olympics. Visitation 9-10 a.m. Saturday (March 1) at St. James Episcopal Church in Waimea. Celebration of life will at 10 a.m. Refreshments to follow. Survived by children, Sean Conley of Waimea, Alika (Jordon) Conley of Washington state and Hannah Conley of Waimea; father, Phillip Conley of Waimea; sister, Marianne Conley-Ramsey of Keaau; two grandchildren. Arrangements by Dodo Mortuary.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/hawaii-news/obituaries-for-february-23-11/>
+
+---
+
+## Volcano Watch: What happens beneath the surface doesn’t always stay beneath the surface
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea has been erupting episodically for the past two months in Halema&#8216;uma&#8216;u, nested within the south end of Kaluapele, the summit caldera. Captivating lava fountains burst from the vent(s) during each eruption episode. Fascinating as those episodes are, scientists at the USGS Hawaiian Volcano Observatory are equally as interested in what&#8217;s happening beneath the surface between episodes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/features/volcano-watch-what-happens-beneath-the-surface-doesnt-always-stay-beneath-the-surface/>
+
+---
+
+## Steves: Toledo is Spain’s historic, artistic and spiritual center
+
+date: 2025-02-23, from: Hawaii Tribune Harold
+
+
+				<p>On my last visit to Toledo, it seemed holier than ever: Dark El Greco clouds threatened overhead, stark against bright, clear horizons. Hail pelted the masses of people clogging the streets as they awaited the Good Friday procession.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/23/features/steves-toledo-is-spains-historic-artistic-and-spiritual-center/>
 
 ---
 
@@ -174,6 +354,20 @@ date: 2025-02-22, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/22/features/tropical-gardening-the-world-calls-with-tropical-fruits/>
+
+---
+
+## Police: 81-year-old Waimea man a possible drowning victim
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island police are investigating a possible drowning involving an 81-year-old Waimea man that occurred Friday afternoon at a South Kohala beach park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/hawaii-news/police-81-year-old-waimea-man-a-possible-drowning-victim/>
 
 ---
 

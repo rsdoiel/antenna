@@ -1,11 +1,914 @@
 ---
 title: north america
-updated: 2025-02-23 07:00:31
+updated: 2025-02-23 12:22:09
 ---
 
 # north america
 
-(date: 2025-02-23 07:00:31)
+(date: 2025-02-23 12:22:09)
+
+---
+
+## Hegseth defends Trump's firings of Pentagon leaders, says more may be to come
+
+date: 2025-02-23, from: VOA News USA
+
+Washington — Defense Secretary Pete Hegseth insists President Donald Trump 's abrupt firing of the nation's senior military officer amid a wave of dismissals at the Pentagon wasn't unusual and he suggested more firings could come.
+
+
+"Nothing about this is unprecedented," Hegseth told "Fox News Sunday" about Air Force Gen. CQ Brown Jr. being removed Friday night as chairman of the Joint Chiefs of Staff. "The president deserves to pick his key national security advisory team."
+
+
+Hegseth said "there are lots of presidents who made changes" citing former commanders in chief, including Franklin D. Roosevelt, George H.W. Bush and Barack Obama. Obama, Hegseth said, "fired or dismissed hundreds" of military officials.
+
+
+Months into his first term, Obama removed Army Gen. David McKiernan from being commander of the U.S. forces in Afghanistan. However, Trump, while running for his second term, vowed to eradicate "woke" ideologies from the military and to swiftly dismiss many top leaders.
+
+
+Hegseth and Trump have made no secret about focusing on pushing aside military officers who have supported diversity, equity and inclusion in the ranks. The administration says the move will better fortify a lethal fighting force.
+
+
+Brown was just the second Black general to serve as chairman. His 16 months in the post were consumed with the war in Ukraine and the expanded conflict in the Middle East. Trump in 2020 nominated Brown as Air Force's chief of staff.
+
+
+Trump wants to replace Brown with Air Force Lt. Gen. Dan "Razin" Caine, who retired in December. It is unclear what recalling Caine to active-duty service will require. The position requires Caine to be confirmed by the Senate.
+
+
+Hegseth said Friday's dismissals affected six three- and four-star generals and were "a reflection of the president wanting the right people around him to execute the national security approach we want to take."
+
+
+He called Brown "honorable" but said he is "not the right man for the moment," without citing specific deficiencies. After the 2020 murder of George Floyd, Brown in a video spoke of his experience as a Black pilot, apparently making him fodder for the Trump administration's wars against inclusion initiatives in the military.
+
+
+Of Caine, Hegseth said that Trump "respects leaders who untie the hands of war fighters in a very dangerous world."
+
+
+Retired Gen. George Casey called the firings "extremely destabilizing." Casey, who was Republican President George W. Bush's commander of the U.S. and multinational forces in Iraq from 2004 to 2007, also noted that the Trump administration can change Pentagon policy without changing personnel, but added, that what happened is "within the president's prerogative."
+
+
+"That's his prerogative," Casey told ABC's "This Week." "He is the commander in chief of the armed forces."
+
+
+Still, Sen. Jack Reed of Rhode Island, the ranking Democrat on the Senate Armed Services Committee told ABC that the firings were "completely unjustified" and that "apparently, what Trump and Hegseth are trying to do is to politicize the Department of Defense."
+
+
+Hegseth was also asked on Fox News about officials potentially compiling lists of more defense officials they plan to fire. He said there was no list but suggested that more dismissals could indeed be coming.
+
+
+"We have a very keen eye towards military leadership and their willingness to follow lawful order," Hegseth said. "Joe Biden gave lawful orders. A lot of them are really bad," he said, adding that things like COVID vaccine mandates "eroded" the military ideologically
+
+
+"President Trump has given another set of lawful orders and they will be followed," Hegseth said. "If they're not followed then those officers will find the door." 
+
+<br> 
+
+<https://www.voanews.com/a/hegseth-defends-trump-s-firings-of-pentagon-leaders-says-more-may-be-to-come-/7985292.html>
+
+---
+
+## American Airlines flight from New York to Delhi lands safely in Rome after security concern
+
+date: 2025-02-23, from: VOA News USA
+
+Rome, Italy — An American Airlines flight from New York to New Delhi, India, landed safely in Rome on Sunday afternoon after it was diverted due to a security concern , which later proved to be "non-credible," the airline said. 
+
+
+American Airlines said Flight 292 "was inspected by law enforcement" after landing at Leonardo da Vinci International Airport and "cleared to re-depart." 
+
+
+It didn't clarify the cause of the security concern, but added an inspection was required by protocol before the flight could land in New Delhi. 
+
+
+"The flight will stay in Rome overnight to allow for required crew rest before continuing to Delhi as soon as possible tomorrow," the airline said. 
+
+
+An Associated Press reporter filmed two fighter jets flying over the airport shortly before the unscheduled landing. Fire trucks were visible on the landing strip on one side of the plane after it landed. 
+
+
+The airport continued to operate normally, a spokesman with Rome's airport said. 
+
+<br> 
+
+<https://www.voanews.com/a/american-airlines-flight-from-new-york-to-delhi-lands-safely-in-rome-after-security-concern/7985282.html>
+
+---
+
+## Trump presses for end to Russia-Ukraine war; Zelenskyy willing to step down for peace
+
+date: 2025-02-23, from: VOA News USA
+
+As U.S. President Donald Trump reiterated the need to put an end to the war in Ukraine, Ukrainian President Volodymyr Zelenskyy said he’d be willing to step down to achieve peace. VOA’s Veronica Balderas Iglesias has the details. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-presses-for-end-to-russia-ukraine-war-zelenskyy-willing-to-step-down-for-peace/7985266.html>
+
+---
+
+## 'Captain America' dives in 2nd weekend, 'The Monkey' boosts Neon's successes
+
+date: 2025-02-23, from: VOA News USA
+
+New York — “Captain America: Brave New World” soared on opening weekend but crashed down in its second go-around with audiences. 
+
+
+“Brave New World,” the latest sign that the Marvel machine isn’t quite what it used to be, remained No. 1 at the box office in its second frame with $28.2 million in ticket sales, according to studio estimates Sunday. But after a debut of $100 million over four days and $88 million over three days, that meant a steep drop of 68%. 
+
+
+While blockbusters often see significant slides in their second weekends, only two previous MCU titles have fallen off so fast: 2023’s “The Marvels,” which fell 78%, and 2023’s “Ant-Man and the Wasp: Quantumania,” which dropped 70%. 
+
+
+The Anthony Mackie-led “Captain America” installment has been slammed by critics, and audiences also have graded it poorly, with a “B-” CinemaScore. “Brave New World,” which fans had hoped would right the Marvel ship, has been largely met as another example of a once impenetrable brand struggling to recapture its pre- “Avengers: Endgame” aura of invincibility. 
+
+
+Still, “Brave New World” has quickly grossed $289.4 million worldwide, with international sales nearly reaching $150 million. And with few big-budget offerings arriving in theaters in the coming weeks, it will have scant competition through much of March. 
+
+
+The biggest new release of the weekend was Oz Perkins’ “The Monkey,” the director’s follow-up to his 2024 horror hit, “Longlegs.” Adapted from a Stephen King short story, “The Monkey” opened with $14.2 million for Neon, the second-best debut for the indie distributor. The best? “Longlegs,” which launched with $22.4 million. 
+
+
+
+
+Neon had much to celebrate over the weekend. Its top awards contender, “Anora,” by Sean Baker, continues to gather momentum into next Sunday's Academy Awards. The best-picture favorite added wins at the Independent Spirit Awards on Saturday. 
+
+
+Perkins, Neon and Blumhouse, which partnered in the release of “The Monkey,” have found a productive low-budget collaboration, with more on the way. Even if “The Monkey” doesn’t reach the heights of “Longlegs” ($126.9 million globally), Perkins and Neon return with “Keeper” this October. 
+
+
+“The Monkey,” starring Tatiana Maslany and Theo James, revolves around an old monkey toy found in an attic. Reviews have been good (77% fresh on Rotten Tomatoes), though audiences were less impressed, giving it a C+ CinemaScore. Horror films, though, typically grade low. 
+
+
+As it did with “Longlegs,” Neon leaned into cryptic promotion for “The Monkey,” along with some macabre marketing. A funeral premiere was held at Los Angeles’ Immanuel Presbyterian Church, and fan screenings took place at the Hollywood Cemetery. The film, produced by James Wan, cost $10 million to make. 
+
+
+Lionsgate’s “The Unbreakable Boy” opened with a paltry $2.5 million in 1,687 theaters. The Christian-themed Jon Gunn-directed film starring Zachary Levi and Meghann Fahy, is about parents who learn their son is autistic and has brittle bone disease. 
+
+
+“Paddington in Peru,” the third installment of the marmalade-mad bear, fell to third place in its second weekend. It grossed $6.5 million in 3,890 locations, bringing its two-week total to $25.2 million. “Paddington in Peru” has been most popular overseas, where its collected $150 million thus far. 
+
+
+“Ne Zha 2,” the animated Chinese juggernaut, took in $3.1 million from 800 theaters in its second weekend. In China, the sequel has grossed $1.7 billion this month, setting numerous box-office records. Those totals put "Ne Zha 2" past “Inside Out 2” ($1.66 billion) as the highest grossing animated film ever. 
+
+
+Top 10 movies by domestic box office 
+
+
+With final domestic figures releasing Monday, this list factors in the estimated ticket sales for Friday through Sunday at U.S. and Canadian theaters, according to Comscore. 
+
+
+1. “Captain America: Brave New World," $28.2 million. 
+
+
+2. “The Monkey,” $14.2 million. 
+
+
+3. “Paddington in Peru,” $6.5 million. 
+
+
+4. “Dog Man,” $5.9 million. 
+
+
+5. “Ne Zha 2,” $3.1 million. 
+
+
+6. “Heart Eyes,” $2.9 million. 
+
+
+7. “Mufasa: The Lion King,” $2.5 million. 
+
+
+8. “The Unbreakable Boy,” $2.5 million. 
+
+
+9. “Chhaava,” $1.5 million. 
+
+
+10. “One of Them Days,” $1.4 million. 
+
+<br> 
+
+<https://www.voanews.com/a/captain-america-dives-in-2nd-weekend-the-monkey-boosts-neon-s-successes-/7985262.html>
+
+---
+
+## Washington, Kyiv near deal for Ukrainian ‘critical minerals’ rights
+
+date: 2025-02-23, from: VOA News USA
+
+The United States and Ukraine said Sunday they are nearing an agreement for Kyiv to give Washington a large share of its rare earth mineral rights as compensation for the billions of dollars in munitions the U.S. sent to Ukraine to defend itself from Russia’s full-scale war.
+
+
+Ukrainian President Volodymyr Zelenskyy told a news conference in Kyiv that Ukraine and the U.S. are “making progress” in reaching a deal. He said a draft of the pact calls for Ukraine to pay the U.S. $2 for each dollar in aid the U.S. has sent to Kyiv to fight Russia’s invasion, although details of the would-be agreement have not been disclosed.
+
+
+
+
+The war hits the three-year mark on Monday.
+
+
+The U.S. has been Ukraine’s biggest benefactor, sending $128 billion in military and humanitarian assistance to Ukraine, according to Germany’s Kiel Institute for the World Economy. The U.S. share is just ahead of the combined $124 billion figure for the 27-nation European Union.
+
+
+U.S. special envoy Steve Witkoff told CNN’s “State of the Union” that he expects Zelenskyy will sign the minerals deal this week.
+
+
+
+
+Zelenskyy at first rejected the U.S. demand for half of Ukraine’s rare earth mineral supplies, which are used in the production of technology products. Witkoff signaled in the CNN interview that the deal will now be completed although he did not spell out details of the agreement.
+
+
+Witkoff said that European countries made their contributions to Ukraine’s war efforts after reaching agreement with Kyiv to eventually be paid back, but the U.S. had no such understanding.
+
+
+Witkoff said such U.S. support for Ukraine with no repayment terms made “no sense” to President Donald Trump, a long-time New York real estate deal maker before entering politics in 2015.
+
+
+Zelenskyy said, "I had an agreement with [former U.S. President Joe] Biden and American Congress, I am grateful to the Congress, to the both parties. And it was support by providing grants. Grant is not a loan. And we don't have to return the loan here. Maybe someone does not like it and thinks that it's unjust. Maybe. I don't know. But here is what this deal was about. It was grant. Therefore, it's not about the figure. We simply don't see it as a loan."
+
+
+Trump, who last week called Zelenskyy a “dictator” and accused him of starting the war even though Russia invaded Ukraine, has demanded the repayments and blamed his predecessor, Biden, for not securing some form of compensation guarantee.
+
+
+Zelenskyy said Sunday he wants Trump to "understand" his position and come through with concrete security guarantees to help Kyiv defend itself against the Russian invasion.
+
+
+"I want very much from Trump understanding of each other," Zelensky said at his news conference, adding: "Security guarantees from Trump are much needed."
+
+
+Zelenskyy said he was willing to give up his presidency if it meant peace in Ukraine, quipping that he could exchange his departure for Ukraine's entry into NATO, which Russia is adamantly opposed to.
+
+
+"If [it means] peace for Ukraine, if you really need me to leave my post, I am ready," Zelenskyy said. "I can exchange this for NATO [membership], if that condition is there, immediately."
+
+
+The top U.S. and Russian diplomats, U.S. Secretary of State Marco Rubio and Russian Foreign Minister Sergey Lavrov, met in Saudi Arabia without either Ukrainian or European officials last week to lay the groundwork for peace talks to end the war. Zelenskyy complained about Ukraine being excluded from the talks, but Trump said he could have negotiated with Russia beforehand to talk Moscow out of invading.
+
+
+“I’ve had very good talks with Putin, and I’ve had not such good talks with Ukraine,” Trump told U.S. state governors at the White House.
+
+
+“They don’t have any cards, but they play it tough,” Trump said of Ukraine.
+
+
+Russian state television said in recent days that Trump’s view of the Russia-Ukraine conflict is “in total alignment with the way we see things.”
+
+
+Witkoff said the war “wouldn’t have had to happen” if Ukraine hadn’t been pushing at the time for membership in NATO. Kyiv is still pressing to join the 32-nation pact, but Washington says it is unrealistic for that to happen as part of a negotiated peace settlement to end the war.
+
+
+Witkoff said that eventually “you’ll see concessions signed by both sides” in a peace deal.
+
+
+Russia now controls about one-fifth of the internationally recognized Ukrainian territory, with Kremlin spokesperson Dmitry Peskov saying Sunday Moscow has no intention of yielding any of the land back to the Kyiv government.
+
+
+"The people decided to join Russia a long time ago," he said, referring to Moscow-staged votes in eastern Ukraine held amid the three-year offensive that were assailed as bogus by Kyiv, the West and international monitors.
+
+
+"No one will ever sell off these territories,” Peskov said. “That's the most important thing."
+
+
+
+
+A Trump call with Putin two weeks ago set the stage for the Rubio-Lavrov talks in Saudi Arabia.
+
+
+"This is a dialogue between two extraordinary presidents," Peskov told state TV.
+
+
+Russia on Sunday marked Defender of the Fatherland Day — a holiday hailing soldiers and veterans. In a video released by the Kremlin, Putin said God and fate had entrusted him and his army with "the mission" to defend Russia.
+
+
+Meanwhile, Zelenskyy said Russia launched 267 overnight drone attacks on Ukraine, which he condemned as "aerial terror." Ukrainian officials reported damage in five regions of the country.
+
+
+Zelenskyy said that in the past week, Russia has targeted Ukraine with nearly 1,150 attack drones, more than 1,400 guided aerial bombs and 35 missiles of various types.
+
+
+Some material in this report came from Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/washington-kyiv-near-deal-for-ukrainian-critical-minerals-rights-/7985223.html>
+
+---
+
+## NYC Mayor Adams has tumultuous week as legal, political pressure mounts
+
+date: 2025-02-23, from: VOA News USA
+
+New York City Mayor Eric Adams is facing mounting legal and political pressure over bribery and campaign finance charges. Aron Ranen reports from the Big Apple. 
+
+<br> 
+
+<https://www.voanews.com/a/nyc-mayor-adams-has-tumultuous-week-as-legal-political-pressure-mounts/7985163.html>
+
+---
+
+##  Busting The Ghost In The Machine 
+
+date: 2025-02-23, from: The Lever News
+
+ Dastardly robots, unfriendly skies, and more from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-busting-the-ghost-in-the-machine/>
+
+---
+
+## Kremlin hails Putin-Trump dialogue as promising
+
+date: 2025-02-23, from: VOA News USA
+
+Moscow — The Kremlin on Sunday hailed dialogue between U.S. President Donald Trump and Russian President Vladimir Putin — two "extraordinary" presidents — as "promising," and vowed it would "never" give up territory seized in eastern Ukraine.
+
+
+Trump broke with Western policy earlier this month by phoning Putin to discuss how to end the conflict in Ukraine — a call hailed by Moscow as ending three years of isolation for the Kremlin leader since he launched his full-scale offensive in February 2022.
+
+
+Top Russian and U.S. officials then met in Saudi Arabia last week to discuss a "restoration" of ties and start a discussion on a possible ceasefire — all without the involvement of Kyiv or Europe.
+
+
+"This is a dialogue between two extraordinary presidents," Kremlin spokesman Dmitry Peskov told state TV on Sunday.
+
+
+"That's promising," he added.
+
+
+"It is important that nothing prevents us from realizing the political will of the two heads of state."
+
+
+Trump's overtures to Moscow have triggered alarm in Kyiv and across Europe.
+
+
+But it is unclear whether his moves will be able to bring Moscow and Kyiv closer to a truce.
+
+
+Peskov on Sunday ruled out any territorial concessions as part of a settlement.
+
+
+"The people decided to join Russia a long time ago," he said, referring to Moscow-staged votes in eastern Ukraine held amid the offensive that were slammed as bogus by Kyiv, the West and international monitors.
+
+
+"No one will ever sell off these territories. That's the most important thing."
+
+
+
+
+'God willed it'
+
+
+Putin said God and fate had entrusted him and his army with "the mission" to defend Russia.
+
+
+"Fate willed it so, God willed it so, if I may say so. A mission as difficult as it is honorable — defending Russia — has been placed on our and your shoulders together," he told servicemen who have fought in Ukraine.
+
+
+Russia was on Sunday marking Defender of the Fatherland Day — a holiday hailing soldiers and veterans — a day before the three-year anniversary of the start of its full-scale offensive.
+
+
+"Today, at the risk of their lives and with courage, they are resolutely defending their homeland, national interests and Russia's future," Putin said in a video released by the Kremlin.
+
+
+Moscow's army had overnight launched a record 267 attack drones at Ukraine, Kyiv's air force said.
+
+
+Among them, 138 were intercepted by air defense and 119 were "lost."
+
+
+Ukraine did not say what happened to the remaining 10 but a separate armed forces statement on Telegram said several regions, Kyiv included, had been "hit."
+
+
+AFP journalists in the Ukrainian capital heard air defense systems in operation throughout the night.
+
+
+'Inappropriate remarks'
+
+
+Amid his outreach to Moscow, Trump has also verbally attacked Ukraine's leader, Volodymyr Zelenskyy falsely claiming Kyiv started the war and that Zelenskyy was hugely unpopular at home.
+
+
+The bitter war of words has threatened to undermine Western support for Kyiv at a critical juncture in the conflict.
+
+
+Zelenskyy on Sunday called for the Western coalition that has been helping Kyiv fend off the Russian offensive for the last three years to hold strong.
+
+
+"We must do our best to achieve a lasting and just peace for Ukraine. This is possible with the unity of all partners: we need the strength of the whole of Europe, the strength of America, the strength of all those who want lasting peace," Zelenskyy said on Telegram.
+
+
+Moscow has reveled in the spat between Trump and Zelenskyy.
+
+
+"Zelenskyy makes inappropriate remarks addressed to the head of state. He does it repeatedly," Peskov said Sunday.
+
+
+"No president would tolerate that kind of treatment. So his [Trump's] reaction is completely quite understandable."
+
+
+
+
+Scrambling to respond to Trump's dramatic policy reversal, French President Emmanuel Macron and British Prime Minister Keir Starmer will travel to Washington next week to make the case for supporting Ukraine. 
+
+<br> 
+
+<https://www.voanews.com/a/kremlin-hails-putin-trump-dialogue-as-promising-/7985003.html>
+
+---
+
+## New FBI Director Patel will also be named acting head of firearms agency, official says
+
+date: 2025-02-23, from: VOA News USA
+
+WASHINGTON — New FBI Director Kash Patel is expected to be named the acting head of the Bureau of Alcohol, Tobacco, Firearms and Explosives, a Justice Department official said Saturday.
+
+
+Patel could be sworn in next week, the official said, putting Patel in charge of two of the Justice Department's largest agencies in an unusual arrangement that raises questions about the future of the bureau that has long drawn the ire of conservatives.
+
+
+The Justice Department official spoke on the condition of anonymity to discuss the move before it's announced publicly. White House officials didn't immediately respond to a request for comment Saturday evening.
+
+
+Patel was sworn in Friday as FBI director after winning Senate approval despite Democrats' concerns about the steadfast Trump ally's plans to radically overhaul the FBI.
+
+
+ATF is a separate agency with about 5,500 employees and is responsible for enforcing the nation's laws around firearms, explosives and arson. Among other things, it's in charge of licensing federal firearms dealers, tracing guns used in crimes and analyzing intelligence in shooting investigations.
+
+
+The move was first reported Saturday by ABC News.
+
+
+The news comes days after Attorney General Pam Bondi fired the ATF's top lawyer. Bondi said in a Fox News interview Friday that she fired chief counsel Pamela Hicks because the agency was "targeting gun owners." Hicks, who spent more than 20 years as a Justice Department lawyer, said in a social media post that being ATF chief counsel was the "highest honor" of her career.
+
+
+Conservatives have long railed against ATF over its role in regulating firearms and have suggested shuttering the agency. Under the Biden administration, the ATF advanced new regulations aimed at cracking down on ghost guns and requiring thousands more firearms dealers to run background checks on buyers at gun shows or other places outside brick-and-mortar stores.
+
+
+In an executive order earlier this month, President Donald Trump directed the attorney general to review all actions taken by the Biden administration around firearms "to assess any ongoing infringements of the Second Amendment rights of our citizens."
+
+
+Gun safety groups have raised alarm about putting Patel in charge of the FBI, with gun control group Brady calling him a "known gun rights extremist." Gun Owners of America, a gun rights group, called his confirmation as FBI director "a major victory for gun owners and constitutional rights advocates nationwide."
+
+
+The last confirmed ATF director was Steve Dettelbach, a former federal prosecutor, who led the agency from July 2022 until last month. He was the first confirmed director since 2015 as both Republican and Democratic administrations failed to get nominees through the politically fraught process. 
+
+<br> 
+
+<https://www.voanews.com/a/new-fbi-director-patel-will-also-be-named-acting-head-of-firearms-agency-official-says/7984917.html>
+
+---
+
+## Pakistan threatens to deport Afghans if US relocation timeline isn’t met
+
+date: 2025-02-23, from: VOA News USA
+
+ISLAMABAD — Pakistan has warned that thousands of Afghan nationals awaiting relocation and resettlement in the United States will be deported to Afghanistan if their cases are rejected or not processed on time.
+
+
+Foreign Minister Ishaq Dar issued the warning during a television interview aired Saturday, noting that the U.S. has promised to relocate the Afghan community in question from Pakistan "tentatively around September this year." His office in Islamabad released the interview excerpts.
+
+
+"If any refugee who was undertaken to be taken by another country after due process —no matter the timeline — if it doesn’t happen and the country refuses, then for us, that will be an illegal immigrant in Pakistan, and we might be forced to send such refugee back to [their] original country, which is Afghanistan," Dar told Turkey’s TRT national broadcaster.
+
+
+However, the chief Pakistani diplomat expressed Islamabad’s willingness to resolve the issue with Washington, stating that his government is "examining the situation and will negotiate [accordingly]."
+
+
+Last month, U.S. President Donald Trump halted refugee applications and travel plans until further notice to ensure that refugee entry into the United States aligns with its national interests.
+
+
+The decision has stranded around 45,000 Afghans prepared to fly out of Afghanistan and at least 15,000 qualified refugees currently in Pakistan, according to #AfghanEvac, a coalition that assists Afghans with their relocation and resettlement in the U.S.
+
+
+These individuals were part of Afghan families who fled their country following the Taliban insurgents’ retaking of power in 2021, primarily seeking refuge from potential retribution because of their affiliations with the U.S. and NATO forces during their nearly two-decade-long presence in Afghanistan.
+
+
+While about 80,000 of these Afghans have since been relocated from Pakistan, officials in Islamabad assert that around 40,000 remain in a state of limbo including around 15,000 in Pakistan destined for the United States.
+
+
+Since launching a crackdown on undocumented foreign migrants in September 2023, Pakistan has forcibly repatriated more than 825,000 undocumented Afghan refugees to their home country, according to the United Nations.
+
+
+The government has recently intensified its crackdown, targeting both documented and undocumented Afghan refugees.
+
+
+Prime Minister Shehbaz Sharif ordered authorities last month to remove all Afghans from Islamabad and the adjoining city of Rawalpindi by Feb. 28 before arranging for deporting them to Afghanistan along with others subsequently. The targeted population encompasses over 2.5 million Afghans nationwide, comprising lawful refugees, documented economic migrants, and those without legal authorization to remain in Pakistan.
+
+
+Sharif’s directive stipulates March 31 as the deadline for the United States and other countries to process the cases of Afghans awaiting resettlements, thereby preventing their deportation. 
+
+<br> 
+
+<https://www.voanews.com/a/pakistan-threatens-to-deport-afghans-if-us-relocation-timeline-isn-t-met/7984905.html>
+
+---
+
+## Macron, Starmer to meet Trump, offer ideas for Ukraine security guarantees
+
+date: 2025-02-23, from: VOA News USA
+
+LONDON/PARIS — French President Emmanuel Macron and British Prime Minister Keir Starmer will travel to Washington next week amid alarm in Europe over U.S. President Donald Trump's hardening stance toward Ukraine and overtures to Moscow on the three-year conflict.
+
+
+The leaders of Europe's two nuclear powers, who will be traveling separately, are expected to try to persuade Trump not to rush into a ceasefire deal with Vladimir Putin at any cost, keep Europe involved and discuss military guarantees to Ukraine.
+
+
+Macron, who is trying to capitalize on a relationship with Trump built during their first presidential terms, has said agreeing to a bad deal that would amount to a capitulation of Ukraine would signal weakness to the United States' foes, including China and Iran.
+
+
+"I will tell him: deep down you cannot be weak in the face of President (Putin). It's not you, it's not what you're made of and it's not in your interests," he said in an hourlong question and answer session on social media ahead of Monday's visit to the White House.
+
+
+The visits come amid a rift between Trump and Ukrainian President Volodymyr Zelenskyy, whom Trump described as a "dictator." That has alarmed Kyiv's European allies, already reeling from a more aggressive U.S. posture on trade, diplomacy and even domestic European politics.
+
+
+Philip Golub, a professor in international relations at the American University in Paris, said Trump's rapid-fire moves in his first weeks in office, as well as the rhetoric from other U.S. officials, had been a major shock for the Europeans.
+
+
+"They could not have expected that somehow within the United States would emerge this ultra-nationalist coalition of forces that would actually challenge Europe's voice in world affairs in such a stark and strong way," he told Reuters.
+
+
+He said Macron believed he had a "historic role to play" in going to Washington to ensure Europe can weigh in on the ultimate negotiations on Ukraine. "Whether he can actually achieve something, however, in this visit is an entirely different matter," he added.
+
+
+
+
+Starmer, who has also warned the end of the war cannot be a "temporary pause before Putin attacks again," will be in Washington on Thursday.
+
+
+Speaking on a Fox News podcast on Friday, Trump said Macron and Starmer had not "done anything" to end the war. "No meetings with Russia!" he said, although he described Macron as "a friend of mine" and Starmer as "a very nice guy."
+
+
+However, the two countries are keen to show Trump they are ready to take on a bigger burden for European security.
+
+
+Britain and France are firming up ideas with allies for military guarantees for Ukraine and their two leaders will seek to persuade Trump to provide U.S. assurances in any post ceasefire deal, Western officials said.
+
+
+Their respective militaries began initial planning last summer for the post-war scenario, but the discussions accelerated in November after Trump secured the U.S. presidency, a French military official and two diplomats said.
+
+
+They have also been supported in putting together an array of options by countries like Denmark and the Baltic states as Europeans discuss what they would be ready to do should there be an accord and peacekeepers required, officials said.
+
+
+While both Britain and France have ruled out sending troops to Ukraine immediately, the plans, still in concept stage, center around providing air, maritime, land and cyber support that would aim to deter Russia from launching any future attacks, Western officials said.
+
+
+Air and sea assets could be based in Poland or Romania, restoring safe international air space and ensuring the Black Sea remained safe for international shipping, the official said.
+
+
+Part of the British and French talks center around the possibility of sending European peacekeepers. While U.S. boots on the ground may not be necessary, deterrence in the form of U.S. medium-range missiles and ultimately nuclear weapons will remain crucial.
+
+
+The options being discussed would center not on providing troops for the frontline or the 2,000-kilometer border which would remain secured by Ukrainian forces, but further to the West, three European diplomats and the military official said.
+
+
+Those troops could be tasked with protecting key Ukrainian infrastructure such as ports or nuclear facilities to reassure the Ukrainian population. However, Russia has made it clear it would oppose a European presence in Ukraine.
+
+
+A French military official said there was little sense in talking numbers at this stage because it would depend on what was finally agreed, what international mandate was given and whether non-European troops would also be involved.
+
+
+"It's not about the numbers of troops in Ukraine. It's the ability to mobilize and the ability to arrange everything into a package of interoperability units," the French official said.
+
+
+A Western official said that even 30,000 troops could be on the "high side." 
+
+<br> 
+
+<https://www.voanews.com/a/macron-starmer-to-meet-trump-offer-ideas-for-ukraine-security-guarantees/7984899.html>
+
+---
+
+## Musk orders US federal workers to describe what they did at work last week or get fired
+
+date: 2025-02-23, from: VOA News USA
+
+WASHINGTON — Elon Musk, the billionaire head of the Trump administration's Department of Government Efficiency (DOGE), threatened Saturday to fire any federal worker who fails to explain what work they have accomplished during the previous week. 
+
+
+The threat, issued in a post on the social media site X, was made just hours after President Donald Trump posted on his own social media network Truth Social that DOGE should get more aggressive in its attempts to downsize and reshape the federal workforce. 
+
+
+"All federal employees will shortly receive an email requesting to understand what they got done last week," Musk posted on X. "Failure to respond will be taken as a resignation." 
+
+
+As of Saturday evening, emails were sent to employees at federal agencies including the Securities and Exchange Commission, National Oceanic and Atmospheric Administration, the Centers for Disease Control and Prevention and others with the subject line, "What did you do last week?" 
+
+
+The email, seen by Reuters, asks employees to reply to the email they have received with five bullet points summarizing "what you accomplished at work last week" and copy their managers. 
+
+
+The email sent from a human resources address gives employees until 11:59 p.m. Eastern Standard Time on Monday to respond. 
+
+
+It is unclear what legal basis Musk has to terminate federal workers if they fail to respond to his request. 
+
+
+Workers at the Consumer Financial Protection Bureau also received the email Saturday, according to people with knowledge of the matter. However, most agency staff had been ordered not to perform any tasks since early this month, creating a conundrum. The agency is also under a temporary court order not to resume mass firings pending the outcome of legal proceedings. 
+
+
+A spokesperson for DOGE did not immediately respond to a request for comment. 
+
+
+The AFGE, the union representing federal employees, said in a statement it will challenge any "unlawful terminations."  
+
+
+"Once again, Elon Musk and the Trump administration have shown their utter disdain for federal employees and the critical services they provide to the American people," said AFGE National President Everett Kelley.  
+
+
+The Trump administration's fast-paced and controversial process to reduce government spending by shrinking the federal workforce led by Musk and his young aides at the cost-cutting DOGE has led to haphazard firings that resulted in numerous mistakes and forced several agencies to quickly rehire vital employees, such as those working on nuclear safety, defense and power generation. 
+
+
+The first wave of job cuts has targeted workers who are easier to fire, such as employees on the job for less than two years or those who have started new roles within an agency. 
+
+
+The indiscriminate firings have led to DOGE terminating people whose jobs are not funded by taxpayers and have begun to anger people across the country who are concerned about a loss of services as well as the impact of federal job losses on local economies. 
+
+
+Trump has repeatedly talked about Musk as the functional leader of DOGE, which is not a Cabinet-level department, but the White House said in a court filing earlier this month that Musk had no authority over DOGE and was not an employee of the program. 
+
+<br> 
+
+<https://www.voanews.com/a/musk-orders-us-federal-workers-to-describe-what-they-did-at-work-last-week-or-get-fired-/7984891.html>
+
+---
+
+## Officer killed after gunman takes hostages at Pennsylvania hospital
+
+date: 2025-02-23, from: VOA News USA
+
+YORK, PENNSYLVANIA  — A man armed with a pistol and carrying zip ties entered a Pennsylvania hospital's intensive care unit Saturday and took staff members hostage before he was killed by police in a shootout that also left an officer dead, authorities said.
+
+
+Three workers at UPMC Memorial Hospital, including a doctor, a nurse and a custodian, and two other officers were shot and wounded in the attack, York County District Attorney Tim Barker said. A fourth staffer was injured in a fall.
+
+
+Gunfire erupted after officers went to engage the shooter, whom Barker identified as Diogenes Archangel-Ortiz, 49. He said Archangel-Ortiz was holding at gunpoint a female staff member who had her hands bound with zip ties when police opened fire.
+
+
+"This is a huge loss to our community," Barker said at a news conference following the shooting. "It is absolutely clear, and beyond any and all doubt, that the officers were justified in taking their action using deadly force."
+
+
+Barker added that while the investigation is in its early stages, it appears Archangel-Ortiz had previous contact with the hospital's ICU earlier in the week for "a medical purpose involving another individual" and he intentionally targeted the workers there.
+
+
+No one answered the door Saturday at an address in York believed to be that of Archangel-Ortiz.
+
+
+The officer who died was identified as Andrew Duarte of the West York Borough Police Department.
+
+
+"We all have broken hearts and are grieving at his loss," West York Borough Manager Shawn Mauck told The Associated Press.
+
+
+
+
+Duarte was a law enforcement veteran who joined the department in 2022 after five years with the Denver Police Department, according to his LinkedIn profile. He described receiving a "hero award" in 2021 from Mothers Against Drunk Driving for his work in impaired driving enforcement for the state of Colorado.
+
+
+"I have a type A personality and like to succeed in all that I do," his LinkedIn profile said.
+
+
+Duarte also worked as a patrol officer in Denver, was highly regarded for his work and was close friends with other officers, the department there said in a statement.
+
+
+At a makeshift memorial on the front steps of the West York Borough Police Department, Linda Shields dropped off roses Saturday and dabbed tears as she thought of her son, a police officer in Maryland.
+
+
+"He was so young," Shields said of Duarte. "It makes no sense at all."
+
+
+Pennsylvania Gov. Josh Shapiro called the attack on police and health care workers "the act of a coward."
+
+
+"Let it not be lost on anyone the act of extraordinary bravery and courage by the health care workers here, by the law enforcement professionals … who ran toward danger to keep people safe," Shapiro said.
+
+
+UPMC Memorial is a five-story, 104-bed hospital that opened in 2019 in York, a city of about 40,000 people known for its creation of York Peppermint Patties in 1940.
+
+
+The shooting is part of a wave of gun violence in recent years that has swept through U.S. hospitals and medical centers, which have struggled to adapt to the growing threats. Such attacks have helped make health care one of the nation's most violent fields, with workers suffering more nonfatal injuries from workplace violence than workers in any other profession, according to the U.S. Centers for Disease Control and Prevention.
+
+
+In 2023, a shooter killed a security guard in the lobby of New Hampshire’s state psychiatric hospital before being fatally shot by a state trooper. In 2022, a man killed two workers at a Dallas hospital while there to watch his child’s birth. In May of that year, a man opened fire in a medical center waiting room in Atlanta, killing one woman and wounding four. And just one month later, a gunman killed his surgeon and three other people at a Tulsa, Oklahoma, medical office because he blamed the doctor for his continuing pain after an operation. 
+
+<br> 
+
+<https://www.voanews.com/a/officer-killed-after-gunman-takes-hostages-at-pennsylvania-hospital/7984890.html>
+
+---
+
+## Trump revels in mass federal firings, jeers at Biden before CPAC crowd
+
+date: 2025-02-23, from: VOA News USA
+
+OXON HILL, MARYLAND — President Donald Trump said Saturday that "nobody has ever seen anything" like his administration's sweeping effort to fire thousands of federal employees and shrink the size of government. 
+
+
+Addressing an adoring crowd at the Conservative Political Action Conference in suburban Washington, Trump said, "We're going to forge a new and lasting political majority that will drive American politics for generations to come." 
+
+
+The president has spent the opening weeks of his administration arguing that voters in November gave him a mandate to overhaul government while cracking down on the U.S.-Mexico border and to extend tax cuts that were the signature policy of his first administration. 
+
+
+In a speech that lasted more than an hour, Trump predicted that the Republican Party would defy history, which has shown that a president's party typically struggles during midterm congressional elections. Of Republicans, he said, "I don't think we've been at this level, maybe ever." 
+
+
+"Nobody's ever seen anything like this, and nobody's ever seen four weeks like we had," Trump said, likening his new administration's opening month to being on a roll through the first four holes of a round of golf, which he said gave him confidence for the fifth. 
+
+
+Trump has empowered billionaire Elon Musk to help carry out the firings; Musk vowed Saturday that more might be coming. 
+
+
+"Consistent with President @realDonaldTrump's instructions, all federal employees will shortly receive an email requesting to understand what they got done last week," Musk posted on X, which he owns. "Failure to respond will be taken as a resignation." 
+
+
+Trump also repeatedly said Saturday that he'd carry out harder-line immigration policies. But those efforts have largely been overshadowed by his administration's mass federal firings. He announced that one agency that had been significantly reduced, the U.S. Agency for International Development, would have its Washington office taken over by Customs and Border Protection officials. 
+
+
+"The agency's name has been removed from its former building," he said. 
+
+
+The president also repeated his previous promises that his administration will scrutinize the country's gold depository at Fort Knox. 
+
+
+"Would anybody like to join us?" he said to cheers from the crowd. "We want to see if the gold is still there." 
+
+
+'Donald, don't get angry' 
+
+
+But Trump also devoted large parts of his address to last year's presidential race, jeering at former President Joe Biden and mispronouncing the first name of former Vice President Kamala Harris — his Election Day opponent. 
+
+
+He also mentioned Senator Elizabeth Warren, a Democrat who ran for president in 2020. 
+
+
+The president said immigration and border policy under Biden made him angry. 
+
+
+"I couldn't stand it," Trump said, before cautioning himself, "Donald, don't get angry." He went on to use an expletive to describe what he thinks of Biden's handling of border security, despite noting that evangelical conservatives have urged him not to use foul language. 
+
+
+Trump had kinder words for Chinese President Xi Jinping, saying "I happen to like" him, while adding, "we've been treated very unfairly by China and many other countries." 
+
+
+President meets with world leaders
+
+
+On the sidelines of the conference, Trump met with conservative Polish President Andrzej Duda amid rising tensions in Europe over Russia's war in Ukraine. After he took the stage, Trump saluted Duda and Argentine President Javier Milei, who separately addressed the conference. 
+
+
+Trump called Duda "a fantastic man and a great friend of mine." He noted that Milei was "a MAGA guy, too, Make Argentina Great Again." 
+
+
+Duda is a populist who has enjoyed a close relationship with Trump in years past. Poland is a longtime ally of Ukraine. Trump upended recent U.S. policy by dispatching top foreign policy advisers to Saudi Arabia for direct talks with Russian officials that were aimed at ending fighting in Ukraine. 
+
+
+Those meetings did not include Ukrainian or European officials, which has alarmed U.S. allies. After his face-to-face with Duda, Trump is meeting Monday at the White House with French President Emmanuel Macron and Thursday with British Prime Minister Keir Starmer. 
+
+
+Trump also has begun a public back and forth with Ukrainian President Volodymyr Zelenskyy, whom the U.S. president called a "dictator" while falsely suggesting that Ukraine started the war — though on Friday he acknowledged that Russia attacked its neighbor. 
+
+
+Trump said during his speech, "I'm dealing with President Zelenskyy. I'm dealing with President Putin" and added of fighting in Ukraine, "It affects Europe. It doesn't really affect us." 
+
+
+About ending the war in Ukraine, Trump said Saturday, "I think we're pretty close to a deal, and we better be close to a deal."  
+
+
+Later, the president and first lady Melania Trump were hosting an evening reception and dinner at the White House for the National Governors Association, which was holding their own weekend meetings in Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-revels-in-mass-federal-firings-jeers-at-biden-before-cpac-crowd-/7984872.html>
+
+---
+
+## US, Uzbekistan reaffirm commitment to Central Asia security
+
+date: 2025-02-22, from: VOA News USA
+
+WASHINGTON — As the Trump administration begins to engage with Central Asia, Uzbekistan has expressed eagerness to expand its strategic partnership, highlighting what it calls its "enhanced" political dialogue on bilateral and regional issues and security cooperation, including its "solid connection" with the Mississippi National Guard.
+
+
+The U.S. recently got back its seven Black Hawk helicopters from Uzbekistan that Afghan military pilots had flown there in 2021 while fleeing the Taliban.
+
+
+This transfer and other bilateral exchanges within the last month have underscored Tashkent's role as Washington's key partner in Central Asia, according to U.S. officials. However, analysts see the military relationship as largely transactional and shaped by geopolitical complexities and regional tensions.
+
+
+Talk between diplomats 
+
+
+In a phone conversation on February 21 with Uzbek Foreign Minister Bakhtiyor Saidov, U.S. Secretary of State Marco Rubio reiterated U.S. support for the country's independence, sovereignty, and territorial integrity, according to State Department's spokesperson Tammy Bruce.
+
+
+They discussed a joint effort through the C5+1 diplomatic platform, launched nearly a decade ago between Washington and five Central Asian republics. The Trump administration is interested in using this platform to support "a more peaceful and prosperous Central Asia."
+
+
+Saidov described his talk with Rubio as "candid and productive," aiming to expand the "strategic partnership between our nations in all spheres without an exception. Building strong bridges between business communities, increasing trade volume in both directions, ensuring prosperous development in Central Asia."
+
+
+
+
+Cooperation with Pentagon, ties with Mississippi 
+
+
+Uzbek Ambassador Furqat Sidikov says his country's forces "have stood shoulder-to-shoulder with the Mississippi National Guard in the best ways," citing joint exercises and Pentagon-sponsored professional exchanges.
+
+
+"We are a reliable partner of the United States in the region," Sidikov said at a January 31 embassy reception, pointing to defense reforms and improvements in the Uzbek military's equipment.
+
+
+Mississippi National Guard Adjutant General Major General Bobby Ginn emphasized at the event that since 2012, the partnership has facilitated more than 170 engagements between U.S. and Uzbek soldiers, strengthening disaster response and readiness.
+
+
+
+
+"Uzbekistan's commitment to regional stability and contributions to counterterrorism efforts and border security" demonstrate the power of its armed forces, Ginn said.
+
+
+Davis Florick, the Pentagon's acting principal director for Eurasia, also attending the reception, thanked Tashkent for "storing" U.S. aircraft and diligently working with America toward the mutually beneficial solution. He confirmed that the seven Black Hawks were part of a fleet from Afghanistan that, according to multiple sources, included 24 helicopters, among them Mi-17s and UH-60s, and 22 fixed-wing aircraft, most of which were transferred to Uzbekistan last year.
+
+
+Another high-level Pentagon official, Rear Admiral Erin Osborne, speaking at the same gathering, praised Uzbekistan as a "critical ally" that offered its airspace and an air base during the initial years of the U.S. military campaign in Afghanistan. The republic was also part of Pentagon's Northern Distribution Network, delivering nonmilitary goods to the international coalition fighting in the neighboring country.
+
+
+Osborne said that mutual trust and understanding were reflected in "capacity-building initiatives and the sharing of intelligence to counter common threats."
+
+
+The U.S., she added, is committed to working with Uzbekistan "to ensure its stability and sovereignty, as well as the stability and sovereignty of the entire Central Asian region."
+
+
+
+
+The Taliban and the Afghanistan factor
+
+
+Even though the transfer of the Black Hawks back to the U.S. was disclosed at the embassy event, Uzbek officials have been tight-lipped about this collaboration to avoid any tension with the Taliban, which has condemned the handovers as an infringement on Afghanistan's sovereignty. The Taliban's Defense Ministry issued a statement denouncing the transfer as "unacceptable" and demanding the return of the aircraft.
+
+
+Eighteen U.S. aircraft also ended up in Tajikistan in 2021, but Washington and Dushanbe have yet to settle the matter.
+
+
+During a visit to the region in June 2022, U.S. Central Command commander General Michael Kurilla said the aircraft would not be returned to Afghanistan "because they do not belong to the Taliban … Our hope is to be able to hand over some or all of the aircraft to the Tajik government."
+
+
+Washington analysts view Uzbekistan as the most active U.S. military partner in the region, comparing it with the activities other republics in Central Asia have with their state partners, specifically Kazakhstan with Arizona, Tajikistan with Virginia, and Kyrgyzstan and Turkmenistan with Montana.
+
+
+Still, they characterize Tashkent-Washington security relationship as more transactional than strategic.
+
+
+"The Uzbeks want training and equipment. What do we want from them? A reliable partner in the region," said a former U.S. official with extensive experience in Central Asia, speaking to VOA on the condition of anonymity for professional reasons.
+
+
+The U.S. has trained Uzbek pilots to operate and maintain the transferred aircraft, but continued congressional funding — amounting to several million dollars — is crucial for sustained cooperation.
+
+
+"There will be questions from Congress, of course," the former official said. "The primary justification so far has been that these assets would help counter extremists from Afghanistan."
+
+
+Meanwhile, experts in Tashkent support Uzbekistan's cautious approach to the Taliban. As officials have said, Uzbekistan will engage with whoever governs Afghanistan. While it does not officially recognize the Taliban, the administration of President Shavkat Mirziyoyev has forged stable diplomatic relations with Kabul, holds significant investment and business agreements with the country, and provides humanitarian aid to the Afghan people. Last summer, Uzbekistan opened a free economic zone in the city of Termez on the border with Afghanistan, inviting neighbors to foster entrepreneurial cooperation.
+
+
+
+
+U.S. interests and Central Asian security
+
+
+The U.S. maintains military cooperation agreements with each Central Asian republic, with plans reviewed annually and subject to funding approval.
+
+
+Despite intelligence-sharing efforts, there is no U.S.-Uzbekistan overflight agreement. Tashkent does not allow its territory to be used for strikes on neighboring soil, even against terrorist targets.
+
+
+"The Trump administration may question this," said the former U.S. official. "It complicates the case for cooperation with Uzbekistan because they're centrally located, yet we must fly around them. It's hard to justify what we're getting in return."
+
+
+For years, the U.S. has also supported regional border security initiatives.
+
+
+"That's the big program," the former U.S. official said, but added: "How many terrorists have we stopped? How many have been disrupted, killed, or captured? Do we have those hard numbers? We are still in the nascent stages of setting up the program." 
+
+<br> 
+
+<https://www.voanews.com/a/us-uzbekistan-reaffirm-commitment-to-central-asia-security/7984698.html>
+
+---
+
+## Spring training—for democracy!
+
+date: 2025-02-22, from: The Contrarian
+
+Publisher's Roundup #6 
+
+<br> 
+
+<https://contrarian.substack.com/p/spring-trainingfor-democracy>
 
 ---
 
@@ -43,7 +946,7 @@ date: 2025-02-22, from: The Lever News
 
 date: 2025-02-22, from: VOA News USA
 
-Preparations are underway for a face-to-face meeting between U.S. President Donald Trump and Russia's Vladimir Putin, Russia's deputy foreign minister said Saturday, marking a dramatic shift away from Western isolation of Moscow over its war in Ukraine.
+Preparations are underway for a face-to-face meeting between U.S. President Donald Trump and Russian President Vladimir Putin, Russia’s deputy foreign minister said Saturday, marking a clear departure from Western efforts to isolate Moscow over its war in Ukraine.
 
 
 Speaking to Russian state media, Sergei Ryabkov said a possible Putin-Trump summit could involve broad talks on global issues, not just the war in Ukraine.
@@ -58,7 +961,7 @@ But he said that efforts to organize such a meeting are at an early stage, and t
 Ryabkov said that U.S. and Russian envoys could meet “within the next two weeks” to pave the way for further talks between senior officials.
 
 
-Russian and U.S. representatives on Tuesday agreed to start working toward ending the war in Ukraine and improving their diplomatic and economic ties, according to the two countries’ top diplomats, at a high-level meeting in Saudi Arabia that marked an extraordinary about-face in U.S. foreign policy under Trump.
+Russian and U.S. representatives meeting in Saudi Arabia on Tuesday agreed to start working toward ending the war in Ukraine and improving their diplomatic and economic ties, an extraordinary about-face in U.S. foreign policy under Trump. Senior U.S. officials have suggested Ukraine will have to give up its goals of joining NATO and retaining the 20% of its territory seized by Russia.
 
 
 After the meeting, U.S. Secretary of State Marco Rubio told the AP that the two sides agreed broadly to pursue three goals: to restore staffing at their respective embassies in Washington and Moscow; to create a high-level team to support Ukraine peace talks; and to explore closer relations and economic cooperation.
@@ -70,7 +973,42 @@ He stressed, however, that the talks — which were attended by his Russian coun
 No Ukrainian officials were present at the meeting, which came as the beleaguered country is slowly but steadily losing ground against more-numerous Russian troops, three years after Moscow launched an all-out invasion of its smaller neighbor.
 
 
-Ukrainian President Volodymyr Zelenskyy said his country would not accept any outcome from the talks since Kyiv didn’t take part, and he postponed his own trip to Saudi Arabia scheduled for last Wednesday. European allies also have expressed concerns they are being sidelined. 
+Ukrainian President Volodymyr Zelenskyy said his country would not accept any outcome from the talks since Kyiv didn’t take part, and he postponed his own trip to Saudi Arabia scheduled for last Wednesday. European allies also have expressed concerns they are being sidelined.
+
+
+Trump appears to soften Kyiv criticism
+
+
+Trump on Friday appeared to walk back his earlier comments that falsely blamed Kyiv for starting the war, but he insisted that Zelenskyy and former U.S. President Joe Biden should have done more to come to terms with Putin.
+
+
+“Russia attacked, but they shouldn’t have let him attack,” he said during a radio interview with Brian Kilmeade of Fox News, referring to the Russian leader.
+
+
+Russia’s army crossed the border on Feb. 24, 2022, in an all-out invasion that Putin sought to justify by falsely saying it was needed to protect Russian-speaking civilians in eastern Ukraine and prevent the country from joining NATO.
+
+
+Later on Friday at the Oval Office, Trump told reporters that the war "doesn’t affect the United States very much. It’s on the other side of the ocean. It does affect Europe.”
+
+
+ 
+
+
+
+
+Marches in London to support Ukraine
+
+
+Thousands of people waving blue-and-yellow Ukrainian flags marched to the Russian Embassy in London on Saturday, demanding Ukraine be given more support and a place at the table in talks to end the three-year war.
+
+
+Organizers called for the withdrawal of Russian troops and increased military aid to strengthen Kyiv’s hand.
+
+
+British Prime Minister Keir Starmer is scheduled to visit Washington next week for talks focused on Ukraine. He has emphasized that no decisions about the country’s future can be made without Kyiv’s involvement.
+
+
+Starmer spoke with Zelenskyy on Saturday and reiterated “the U.K.’s ironclad support for Ukraine and commitment to securing a just and enduring peace to bring an end to Russia’s illegal war,” the prime minister’s office said. 
 
 <br> 
 

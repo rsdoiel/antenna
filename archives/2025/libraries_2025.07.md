@@ -1,11 +1,35 @@
 ---
 title: libraries
-updated: 2025-02-23 07:00:36
+updated: 2025-02-23 12:22:16
 ---
 
 # libraries
 
-(date: 2025-02-23 07:00:36)
+(date: 2025-02-23 12:22:16)
+
+---
+
+## Ursule Mirouët, by Honoré de Balzac
+
+date: 2025-02-23, from: Standard Ebooks, new releaases
+
+A young girl grows up in the care of her uncle and his friends, while his heirs scheme to prevent her from inheriting anything. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/honore-de-balzac/ursule-mirouet/clara-bell>
+
+---
+
+## Poetry, by James McIntyre
+
+date: 2025-02-22, from: Standard Ebooks, new releaases
+
+A collection of poetry by James McIntyre. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/james-mcintyre/poetry>
 
 ---
 

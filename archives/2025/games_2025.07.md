@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-02-23 07:00:35
+updated: 2025-02-23 12:22:15
 ---
 
 # games
 
-(date: 2025-02-23 07:00:35)
+(date: 2025-02-23 12:22:15)
+
+---
+
+## Hulking-out faces, ranked
+
+date: 2025-02-23, updated: 2025-02-21, from: Polygon Website
+
+Playing Marvel’s Hulk (or a Hulk-like) requires fearlessness. While budget constraints demand a decent amount of time spent walking and talking as humanoid Bruce Banner or Jennifer Walters or, most recently, Thaddeus Ross in Captain America: Brave New World, at some point, the gamma radiation kicks in and the snarling begins.&#160; No actor can look [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/527617/hulk-actor-faces-ranked>
+
+---
+
+## Yellowjackets’ biggest moment this week was about its smallest mystery
+
+date: 2025-02-23, updated: 2025-02-22, from: Polygon Website
+
+Shauna (Melanie Lynskey, as an adult) is not happy about the gold necklace situation at the end of the latest Yellowjackets episode.  Which is understandable. At the very least, it’s a token from her dead best friend, someone she’s haunted by the mere thought of, and sometimes scared she lives in the total shadow of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/527852/yellowjackets-season-3-necklace-what-mean-callie-lottie>
+
+---
+
+## Daisy Ridley on ‘becoming Spider-Woman’ in her new action-thriller Cleaner
+
+date: 2025-02-23, updated: 2025-02-23, from: Polygon Website
+
+Ever since the 2019 release of The Rise of Skywalker, Star Wars sequel trilogy star Daisy Ridley has been experimenting with a wide variety of genres. She’s starred in a dystopian sci-fi thriller, a rom-com about daydreaming of your own death, a psychological thriller, a neo-noir thriller, a sports drama, and an animated movie.&#160; “I [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/action/527111/daisy-ridley-cleaner-movie-stunts-interview-martin-campbell>
+
+---
+
+## All treasure maps and rewards in Avowed
+
+date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
+
+Treasure maps are optional objectives in Avowed that come with terrific rewards in exchange for solving head-scratching puzzles. Each treasure map is less a “map” and more a hastily and inscrutably sketched drawing pointing toward a vague location. If you find out where the treasure map points to and then head to that exact spot, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/526878/treasure-maps-all-rewards-list>
+
+---
+
+## How to name your game after a Japanese airport, twice
+
+date: 2025-02-22, updated: 2025-02-21, from: Polygon Website
+
+Back in 2017, Studio Koba announced Narita Boy, a game named after Tokyo’s second-biggest airport that seemed custom built for Kickstarter. It had slim-fit pixel art characters in a neon side-scrolling world. It had nostalgic ‘80s anime vibes with modern visual effects. It had a story of a developer — former Friend &#38; Foe team [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/527335/haneda-girl-demo-impressions>
 
 ---
 

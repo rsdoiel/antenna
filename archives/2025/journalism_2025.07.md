@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-02-23 07:00:36
+updated: 2025-02-23 12:22:15
 ---
 
 # journalism
 
-(date: 2025-02-23 07:00:36)
+(date: 2025-02-23 12:22:15)
+
+---
+
+## Theater review: While lacking good script, ‘Harry Potter and the Cursed Child’ spurs magic onstage
+
+date: 2025-02-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+Warning: spoilers ahead.
+Despite a few unforgivable curses, &#8220;Harry Potter and the Cursed Child&#8221; flies high in Los Angeles. 
+The Tony Award-winning play has Apparated from London to Broadway to LA&#8217;s own Hollywood Pantages Theatre, where it will run for over four months. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/23/theater-review-while-lacking-good-script-harry-potter-and-the-cursed-child-spurs-magic-onstage/>
 
 ---
 

@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-02-23 07:00:38
+updated: 2025-02-23 12:22:18
 ---
 
 # health
 
-(date: 2025-02-23 07:00:38)
+(date: 2025-02-23 12:22:18)
+
+---
+
+## Do Energy Drinks Cause Kidney Stones?
+
+date: 2025-02-23, from: The Kidney Dietitian
+
+<p>Energy drinks are an enticing option in our sleep-deprived culture, however, could these caffeine filled drinks be causing your kidney stones?   It’s true, energy drinks are packed with sugar and sodium that can cause kidney stones.  In the sections below, we’ll review the contents of energy drinks and how they increase your risk of kidney [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/do-energy-drinks-cause-kidney-stones/">Do Energy Drinks Cause Kidney Stones?</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/do-energy-drinks-cause-kidney-stones/>
 
 ---
 

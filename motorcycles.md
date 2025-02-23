@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2025-02-23 07:00:37
+updated: 2025-02-23 12:22:18
 ---
 
 # motorcycles
 
-(date: 2025-02-23 07:00:37)
+(date: 2025-02-23 12:22:18)
+
+---
+
+## GALLERY: Amazing Images From The NASCAR Xfinity Series Race At Atlanta Motor Speedway
+
+date: 2025-02-23, from: Kickin the Tires blog
+
+Photos by Blake Ulino/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-amazing-images-from-the-nascar-xfinity-series-race-at-atlanta-motor-speedway/>
+
+---
+
+## Ski-Doo Upgrades Most of Its Snowmobiles, Fully Redesigns Expedition Models
+
+date: 2025-02-23, from: Ride Apart, Electric Motorcycle News
+
+Someone hold my wallet for me. I cannot be trusted.  
+
+<br> 
+
+<https://www.rideapart.com/news/751336/ski-doo-upgrade-redesigns-expedition-summit-x-rev-gen5/>
+
+---
+
+## Kyle Busch Wins 2025 NASCAR Truck Race By A Nose At Atlanta Motor Speedway
+
+date: 2025-02-23, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor HAMPTON, Ga. – Kyle Busch edged out Stewart Friesen in a photo finish in the Craftsman Truck Series race at Atlanta Motor Speedway and had it&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/kyle-busch-wins-2025-nascar-truck-race-by-a-nose-at-atlanta-motor-speedway/>
+
+---
+
+## Gallery: Blake Ulino Captures NASCAR Cup Series Qualifying Action At Atlanta Motor Speedway
+
+date: 2025-02-22, from: Kickin the Tires blog
+
+Photos by Blake Ulino/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-blake-ulino-captures-nascar-cup-series-qualifying-action-at-atlanta-motor-speedway/>
 
 ---
 

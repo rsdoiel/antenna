@@ -1,11 +1,65 @@
 ---
 title: food
-updated: 2025-02-23 07:00:39
+updated: 2025-02-23 12:22:20
 ---
 
 # food
 
-(date: 2025-02-23 07:00:39)
+(date: 2025-02-23 12:22:20)
+
+---
+
+## This Is Ina Garten’s All-Time Favorite Dessert—and It’s Surprisingly Simple
+
+date: 2025-02-23, from: Taste of Home
+
+<p>Out of all Ina Garten's incredible recipes, this timeless one has a special place in her heart.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-gartens-favorite-dessert/">This Is Ina Garten&#8217;s All-Time Favorite Dessert—and It’s Surprisingly Simple</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-gartens-favorite-dessert/>
+
+---
+
+## Vanilla Bean Cheesecake
+
+date: 2025-02-23, from: Taste of Home
+
+Scrape real vanilla beans fresh from the pod for this extra-special vanilla bean cheesecake. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/vanilla-bean-cheesecake/>
+
+---
+
+## Cold Brew Was The Intellectual Death Knell Of The Third Wave Moment And Other Observations (Plus Our Weekly Coffee Buying Guide)
+
+date: 2025-02-23, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A curated selection of coffee from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/cold-brew-was-the-intellectual-death-knell-of-the-third-wave-moment-and-other-observations-plus-our-weekly-coffee-buying-guide-286739.html>
+
+---
+
+## Top Sandwich Recipes
+
+date: 2025-02-23, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/06/Top-Sandwich-Recpies.jpg"/></div>
+<p>The top sandwich recipes, the best sandwich recipes on closet cooking! As many of you know, I am a huge fan of sandwiches! A sandwich is defined as two or more slices of bread with one or more fillings and there are just so many possibilities! At this point I have shared well over a...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/top-25-sandwich-recipes/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/top-25-sandwich-recipes/">Top Sandwich Recipes</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/top-25-sandwich-recipes/>
 
 ---
 

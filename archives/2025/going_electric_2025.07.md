@@ -1,11 +1,107 @@
 ---
 title: going electric
-updated: 2025-02-23 07:00:38
+updated: 2025-02-23 12:22:19
 ---
 
 # going electric
 
-(date: 2025-02-23 07:00:38)
+(date: 2025-02-23 12:22:19)
+
+---
+
+## Volvo Penta set to show off its new BESS subsystem at bauma 2025
+
+date: 2025-02-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/hybrid-bess-scenario_PENTA.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Volvo Penta will debut its latest modular and scalable battery energy storage system (BESS) platform for the off-grid construction and mining industries at the bauma equipment show – here’s what you can expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,volvo" data-layer-viewtype="unknown" data-post-id="402893" href="https://electrek.co/2025/02/23/volvo-penta-set-to-show-off-its-new-bess-subsystem-at-bauma-2025/#more-402893" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/23/volvo-penta-set-to-show-off-its-new-bess-subsystem-at-bauma-2025/>
+
+---
+
+## Rivian Upfit Program offers fleet managers custom solutions for its EVs
+
+date: 2025-02-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/upfit_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Just days after Rivian announced that it would be making its iconic electric delivery vans available to anyone willing to pay for one, the company launched the new Rivian Upfit Program, offering a “one-stop shop” to help fleet managers put its EVs to work.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-van,rivian" data-layer-viewtype="unknown" data-post-id="402870" href="https://electrek.co/2025/02/23/rivian-upfit-program-offers-fleet-managers-custom-solutions-for-its-evs/#more-402870" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/23/rivian-upfit-program-offers-fleet-managers-custom-solutions-for-its-evs/>
+
+---
+
+## 2025 Ram ProMaster EV (finally) lives up to its initial promise
+
+date: 2025-02-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/ram_promaster-EV.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>For 2025, the Ram ProMaster EV commercial van gets up to 180 miles range from its 110 kWh battery pack, new 12- and 13-foot cargo configurations to meet more fleets’ needs, and a starting price of “just” $56,495. All of which sounds … <a href="https://electrek.co/2024/01/16/rams-first-ev-ram-promaster-electric-van-hits-us/">kind of familiar</a>, right?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-van,ram-trucks" data-layer-viewtype="unknown" data-post-id="402843" href="https://electrek.co/2025/02/23/2025-ram-promaster-ev-finally-lives-up-to-its-initial-promise/#more-402843" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/23/2025-ram-promaster-ev-finally-lives-up-to-its-initial-promise/>
+
+---
+
+## The Dongfeng Nammi 06 Is The Cutest Cheap EV Crossover I've Seen
+
+date: 2025-02-23, from: Inside EVs News
+
+This subcompact EV crossover could cost as little as $13,000 when its released, and possibly head to Europe and the rest of Asia. 
+
+<br> 
+
+<https://insideevs.com/news/751477/dongfeng-nammi-06-crossover-china/>
+
+---
+
+## Future Mini EVs May Switch To Rear-Wheel Drive
+
+date: 2025-02-23, from: Inside EVs News
+
+Mini has never made a production rear-wheel drive vehicle, but BMW’s Neue Klasse platform might change that in the future. 
+
+<br> 
+
+<https://insideevs.com/news/751521/future-mini-electric-vehicles-rwd/>
+
+---
+
+## The Chevrolet Equinox EV Peaks At 150 KW. It’s Still Faster On A 250 KW Charger
+
+date: 2025-02-22, from: Inside EVs News
+
+Tom Moloughney put the American EV to the test at three different DC fast chargers. The fastest station was not the most powerful. 
+
+<br> 
+
+<https://insideevs.com/news/751289/chevrolet-equinox-ev-350kw-charging-test/>
+
+---
+
+## New Tesla Model Y First Reviews: 'Night And Day'
+
+date: 2025-02-22, from: Inside EVs News
+
+Reviewers say the new Model Y is way quieter, more comfortable and higher-quality than before.  
+
+<br> 
+
+<https://insideevs.com/news/751503/new-model-y-review-2026/>
 
 ---
 
@@ -110,6 +206,10 @@ The Magma will be the hottest version of the Genesis GV60, with similar performa
 date: 2025-02-21, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla protests, Rivian’s earnings, Kia’s new electric vehicles, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Electrek_374.mp3"></audio></figure>
 
 
 

@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-02-23 07:00:33
+updated: 2025-02-23 12:22:12
 ---
 
 # science and technology
 
-(date: 2025-02-23 07:00:33)
+(date: 2025-02-23 12:22:12)
+
+---
+
+## If you thought training AI models was hard, try building enterprise apps with them
+
+date: 2025-02-23, updated: 2025-02-23, from: The Register (UK I.T. News)
+
+<h4>Aleph Alpha&#39;s Jonas Andrulis on the challenges of building sovereign AI</h4> <p><strong>Interview</strong>  Despite the billions of dollars spent each year training large language models (LLMs), there remains a sizable gap between building a model and actually integrating it into an application in a way that&#39;s useful.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/23/aleph_alpha_sovereign_ai/>
+
+---
+
+## Here's the ugliest global-warming chart you'll ever need to see
+
+date: 2025-02-23, updated: 2025-02-23, from: The Register (UK I.T. News)
+
+<h4>Earth is running a fever. That&#39;s not news. What&#39;s surprising is exactly how fast its temperature is rising</h4> <p><strong>Analysis</strong>  As you&#39;ve likely read in many a headline-shouting article, our precious Blue Marble Earth just experienced its warmest year since reliable record-keeping began.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/23/ugliest_global_warming_chart/>
+
+---
+
+## Illumos on SPARC: possible, but problematic
+
+date: 2025-02-23, from: OS News
+
+While SPARC may no longer be supported by the main Illumos project, it still works and is still viable. This page brings together a variety of information regarding Illumos on SPARC, not necessarily limited to Tribblix. ↫ Tribblix website It seems running Tribblix &#8211; and other Illumos-based distributions &#8211; on SPARC is still possible, but there are some serious limitations anyone who has tried to use even slightly older operating systems will be fairly familiar with. For instance, since there&#8217;s no Rust for Illumos on SPARC, Firefox and other applications that use it are not available, and Tribblix in particular no longer builds Pale Moon (or LibreOffice). Rust is available on Solaris 11, though, so it may be possible to bring it to Illumos. In a similar vein, Go also isn&#8217;t available for SPARC either. As far as hardware support goes, it&#8217;s a bit of a mixed bag, as systems that should work do, in fact, not, and even systems that do work run into a very familiar problem: graphics card support is a big issue. This is a problem plaguing X.org on any outdated or sidelined architecture, and it seems Illumos is also affected. Obviously, this greatly reduces the usefulness of Illumos on workstations, but is less of an issue on servers. You&#8217;ll run into the same problem when trying to run NetBSD, OpenBSD, or Linux in, say, PA-RISC hardware. Of course, the problem is both a lack of people interested in and capable of contributing to keeping stuff running on older architectures, further spurred on by a dwindling supply of hardware available at reasonable prices. Sad, but there isn&#8217;t much that can be done about it. 
+
+<br> 
+
+<https://www.osnews.com/story/141779/illums-on-sparc-possible-but-problematic/>
+
+---
+
+## Flathub safety: a layered approach from source to user
+
+date: 2025-02-22, from: OS News
+
+About two weeks ago we talked about why Fedora manages its own Flatpak repository, and why that sometimes leads to problems with upstream projects. Most recently, Fedora&#8217;s own OBS Flatpak was broken, leading to legal threats from the OBS project, demanding Fedora remove any and all branding from its OBS Flatpak. In response, Fedora&#8217;s outgoing project leader Matthew Miller gave an interview on YouTube to Brodie Robertson, in which Miller made some contentious claims about a supposed lack of quality control, security, and safety checks in Flathub. These claims led to a storm of criticism directed at Miller, and since I follow quite a few people actively involved in the Flatpak and Flathub projects &#8211; despite my personal preference for traditional Linux packaging &#8211; I knew the criticism was warranted. As a more official response, Cassidy James Blaede penned an overview of all the steps Flathub takes and the processes it has in place to ensure the quality, security, and safety of Flathub and its packages. With thousands of apps and billions of downloads, Flathub has a responsibility to help ensure the safety of our millions of active users. We take this responsibility very seriously with a layered, in-depth approach including sandboxing, permissions, transparency, policy, human review, automation, reproducibility, auditability, verification, and user interface. Apps and updates can be fairly quickly published to Flathub, but behind the scenes each one takes a long journey full of safety nets to get from a developer’s source code to being used on someone’s device. While information about this process is available between various documentation pages and the Flathub source code, I thought it could be helpful to share a comprehensive look at that journey all in one place. ↫ Cassidy James Blaede Flathub implements a fairly rigorous set of tests, both manual and automated, on every submission. There&#8217;s too many to mention, but reading through the article, I&#8217;m sure most of you will be surprised by just how solid and encompassing the processes are. There are a few applications from major, trusted sources &#8211; think applications from someone like Mozilla &#8211; who have their own comprehensive infrastructure and testing routines, but other than those few, Flathub performs extensive testing on all submissions. I&#8217;m not a particular fan of Flatpak for a variety of reasons, but I prefer to stick to facts and issues I verifiably experience when dealing with Flatpaks. I was definitely a bit taken aback by the callousness with which such a long-time, successful Fedora project leader like Miller threw Flathub under the bus, but at least one of the outcomes of all this is greater awareness of the steps Flathub takes to ensure the quality, security, and safety of the packages it hosts. Nothing is and will be perfect, and I&#8217;m sure issues will occasionally arise, but it definitely seems like Flathub has its ducks in a row. 
+
+<br> 
+
+<https://www.osnews.com/story/141777/flathub-safety-a-layered-approach-from-source-to-user/>
 
 ---
 

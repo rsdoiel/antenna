@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-02-23 07:00:39
+updated: 2025-02-23 12:22:20
 ---
 
 # craft
 
-(date: 2025-02-23 07:00:39)
+(date: 2025-02-23 12:22:20)
+
+---
+
+## Guitar Side Bending Tools: Ultimate Luthier’s Guide
+
+date: 2025-02-22, from: Learn The Art of Lutherie
+
+ 
+
+<br> 
+
+<https://theartoflutherie.com/guitar-side-bending-tools/>
 
 ---
 
