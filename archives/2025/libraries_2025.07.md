@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-02-23 12:22:16
+updated: 2025-02-23 21:22:31
 ---
 
 # libraries
 
-(date: 2025-02-23 12:22:16)
+(date: 2025-02-23 21:22:31)
+
+---
+
+## Lost Illusions, by Honoré de Balzac
+
+date: 2025-02-23, from: Standard Ebooks, new releaases
+
+As a young woman and her husband try to make something of their printing business, her brother tries to find success as an author in Paris. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/honore-de-balzac/lost-illusions/ellen-marriage>
 
 ---
 
@@ -188,6 +200,18 @@ date: 2025-02-17, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/02/17/ai-rights-reservation-human-readable-is-machine-readable-an-interview-with-haralambos-babis-marmanis/>
+
+---
+
+## Delivery of A Chemically Modified Noncoding RNA Domain Improves Dystrophic Myotube Function
+
+date: 2025-02-17, from: ETH Zurich, recently added
+
+Niasse‐Sy, Zeinabou; Zhao, Bo; Lenardič, Ajda; Luong, Huyen Thuc Tran; Bar‐Nur, Ori; Auwerx, Johan; Wohlwend, Martin 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/723737>
 
 ---
 

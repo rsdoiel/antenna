@@ -1,11 +1,105 @@
 ---
 title: snapshots
-updated: 2025-02-23 12:22:21
+updated: 2025-02-23 21:22:34
 ---
 
 # snapshots
 
-(date: 2025-02-23 12:22:21)
+(date: 2025-02-23 21:22:34)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-24, from: Dave Winer's linkblog)
+
+Yes it’s me, the pride of Cucamonga. 😀 
+
+<br> 
+
+<https://m.youtube.com/watch?v=IFSnOZy955U>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-24, from: Dave Winer's linkblog)
+
+Carville says you should kick back, maybe binge-watch Severance and wait for Trump to self-destruct. 
+
+<br> 
+
+<https://politicalwire.com/2025/02/23/carville-says-trump-on-the-verge-of-collapse/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-24, from: Dave Winer's linkblog)
+
+How Trump, DOGE job cuts may affect the U.S. economy. 
+
+<br> 
+
+<https://www.cnbc.com/2025/02/23/how-trump-doge-job-cuts-may-affect-the-us-economy.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-24, from: Dave Winer's linkblog)
+
+Outside Tesla in the Philly suburbs, the green shoots of an American uprising. 
+
+<br> 
+
+<https://www.inquirer.com/opinion/commentary/tesla-protest-philadelphia-elon-musk-20250223.html?id=ro95JouGjeHvJ>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-02-24, from: Tomosino's Mastodon feed)
+
+<p>This is so cool. QR codes are smaller in all caps - <a href="https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">shkspr.mobi/blog/2025/02/why-a</span><span class="invisible">re-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/</span></a></p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114055966188335117>
+
+---
+
+## 542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe
+
+date: 2025-02-24, from: This is history podcast
+
+<p>In Tudor England, during the reign of Elizabeth I, there lived in the very heart of her court a magician, alchemist and polymath, bent upon conversing with the angels of heaven and other supernatural beings. His name was John Dee, and he would prove to.be one of the most remarkable men of his age, living [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe/">542. Elizabeth I’s Sorcerer: Angels and Demons in Renaissance Europe</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/542-elizabeth-is-sorcerer-angels-and-demons-in-renaissance-europe/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-23, from: Dave Winer's linkblog)
+
+45 minutes of Bernie Sanders on the road. Inspiring! :-) 
+
+<br> 
+
+<https://www.youtube.com/watch?v=LiL_cVOecbM>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-23, from: Dave Winer's linkblog)
+
+Measles outbreak is coming for RFK Jr. 
+
+<br> 
+
+<https://wapo.st/3D6Qgka>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-23, from: Dave Winer's linkblog)
+
+Sanders gets it. Everyone should be out on the road like it&#39;s a campaign, because it is. It&#39;s no more or less an election season than any future election. We&#39;re in deep trouble in the US, let&#39;s start acting like it! 
+
+<br> 
+
+<https://www.commondreams.org/news/bernie-sanders-donald-trump>
 
 ---
 

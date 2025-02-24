@@ -1,11 +1,25 @@
 ---
 title: home
-updated: 2025-02-23 12:22:17
+updated: 2025-02-23 21:22:31
 ---
 
 # home
 
-(date: 2025-02-23 12:22:17)
+(date: 2025-02-23 21:22:31)
+
+---
+
+## 13 of the Best Spring-Flowering Clematis Varieties (Group 1)
+
+date: 2025-02-23, from: The Gardener's Path
+
+<p>Reliable perennials with masses of pretty and sometimes fragrant flowers, Group 1 clematis are deciduous or evergreen and bloom from winter to mid-spring. Depending on the variety, these easy-care vines tower on trellises or scramble down slopes and require no pruning. Here are 13 of the best spring-flowering clematis.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vines/spring-flowering-clematis/">13 of the Best Spring-Flowering Clematis Varieties (Group 1)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vines/spring-flowering-clematis/>
 
 ---
 
@@ -20,6 +34,18 @@ date: 2025-02-23, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/sweet-pea-bud-drop/>
+
+---
+
+## Now Is the Time to Use Winter Citrus. Here Are Our Favorite Recipes
+
+date: 2025-02-23, from: Sunset Magazine - Living in the West
+
+It’s citrus season, it's time to take advantage of the produce. Here's how to incorporate the fruits in your winter recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/winter-recipes-citrus>
 
 ---
 
@@ -498,18 +524,6 @@ Sunset is the leading Western lifestyle brand. We deliver travel ideas, home des
 <br> 
 
 <https://www.sunset.com/>
-
----
-
-## Now Is the Time to Use Winter Citrus. Here Are Our Favorite Recipes
-
-date: 2025-02-21, from: Sunset Magazine - Living in the West
-
-It’s citrus season, it's time to take advantage of the produce. Here's how to incorporate the fruits in your winter recipes. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/winter-recipes-citrus>
 
 ---
 

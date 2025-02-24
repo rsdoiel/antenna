@@ -1,23 +1,139 @@
 ---
 title: weather
-updated: 2025-02-23 12:22:14
+updated: 2025-02-23 21:22:29
 ---
 
 # weather
 
-(date: 2025-02-23 12:22:14)
+(date: 2025-02-23 21:22:29)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-02-23, from: Eastern Pacific Basin GIS Data
+date: 2025-02-24, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Mon Feb 24 01:35:01 UTC 2025
+
+date: 2025-02-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Mon Feb 24 01:35:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Mon Feb 24 01:35:01 UTC 2025
+
+date: 2025-02-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Mon Feb 24 01:35:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Feb 24, 2025 0100 UTC Day 1 Convective Outlook
+
+date: 2025-02-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0618 PM CST Sun Feb 23 2025
+
+Valid 240100Z - 241200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms remain possible this evening mainly over
+parts of eastern Louisiana and across Mississippi.
+
+...Synopsis and Discussion...
+Scattered thunderstorms continue to be most prevalent over the
+northern and central Gulf, near the offshore surface low. A few
+lightning flashes were noted over parts of northern LA into MS, but
+in general, this activity should continue to wane as winds veer with
+the passing lead wave aloft.
+
+Elsewhere, a few flashes with weak convection were noted earlier
+over southwest OR beneath cool temperatures aloft and in association
+with a now departing shortwave trough. A very low chance of thunder
+may linger in this area within the residual midlevel moist plume
+this evening.
+
+..Jewell.. 02/24/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
+
+---
+
+## SPC Day 3-8 Fire Weather Outlook
+
+date: 2025-02-23, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3-8 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0229 PM CST Sun Feb 23 2025
+
+Valid 251200Z - 031200Z
+
+Fire weather potential will remain limited across the country
+through much of the upcoming work week, though some fire concerns
+may emerge across the southern High Plains beginning D6/Friday and
+into the following weekend. A broad northwesterly flow regime aloft
+is expected to persist for much of the upcoming week amid
+persistent, and unseasonably strong, ridging across the western
+CONUS. This regime will continue to promote dry conditions from the
+southern Great Basin into the Four Corners and southern/central
+Plains. Additionally, a return to unseasonably warm temperatures is
+anticipated, which will support gradual fuel drying and an expansion
+of elevated (80+ percentile) ERC values out of far West Texas and
+into the southern Plains/Southwest. The passage of weak upper
+disturbances across the northern latitudes will promote widespread,
+but light, rain/snow chances and an influx of cooler continental air
+for northern portions of the country, but could augment regional
+pressure gradient winds across the southern High Plains where fuels
+should be most receptive. This potential appears most prominent
+around D6/Friday when most solutions suggest southwest winds could
+approach critical thresholds within a dry downslope flow regime,
+though deterministic/ensemble spread remains high at this range. A
+transition to a more progressive upper-air regime is anticipated
+heading into early March, which could signal an increase in fire
+weather potential for parts of the Southwest and Plains as more
+robust surface cyclones become probable across the southern U.S.
+
+..Moore.. 02/23/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 
@@ -56,30 +172,6 @@ synoptically favor coverage at or above 10%.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## SPC - No watches are valid as of Sun Feb 23 19:25:02 UTC 2025
-
-date: 2025-02-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Sun Feb 23 19:25:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Sun Feb 23 19:25:02 UTC 2025
-
-date: 2025-02-23, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Sun Feb 23 19:25:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -513,92 +605,6 @@ LAT...LON   36199081 37389042 37878993 38068914 37978804 37858767
 <br> 
 
 <https://www.spc.noaa.gov/products/md/md0116.html>
-
----
-
-## SPC Feb 19, 2025 0100 UTC Day 1 Convective Outlook
-
-date: 2025-02-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0647 PM CST Tue Feb 18 2025
-
-Valid 190100Z - 191200Z
-
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS IN SOUTHEAST TX
-AND SOUTH LA...
-
-...SUMMARY...
-Isolated severe thunderstorms remain possible this evening across
-parts of southeast Texas, shifting across south Louisiana tonight.
-Hail should be the primary hazard, but a brief tornado and localized
-severe gusts may occur along the immediate Louisiana Coast.
-
-...Southeast TX and south LA...
-Overall forecast scenario appears to be evolving as anticipated.
-Elevated convection over southeast TX/southwest LA will have the
-best chance at producing marginally severe hail along the eastern
-periphery of steeper mid-level lapse rates, sampled upstream by the
-00Z FWD sounding. An increasingly predominant cluster convective
-mode is anticipated with time tonight, limiting the hail threat amid
-weaker lapse rates with eastern extent across LA. Guidance continues
-a slightly southward trend to placement of the warm front overnight
-near the LA coast as weak surface cyclogenesis occurs in the
-northwest Gulf. With ongoing convection curtailing northward
-displacement of the stable surface air mass inland, these trends
-suggest the wind/tornado threats should remain spatially confined
-along the immediate coast near the MS River Delta.
-
-..Grams.. 02/19/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2025-02-18, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0233 PM CST Tue Feb 18 2025
-
-Valid 201200Z - 261200Z
-
-Fire weather concerns will remain limited across the country for the
-extended period. An arctic air mass over central portions of the
-country and widespread recent rainfall across the Southeast and
-Mid-Atlantic will continue to limit fuel status for most locations
-east of the Rockies. Long-range ensembles shows limited potential
-for widespread precipitation across southern AZ/NM and into the
-southern High Plains, which may result in some drying/curing of fine
-fuels through the end of the work week. Periods of localized
-elevated conditions appear possible as a weak upper disturbance
-passes over the region later this week, but, weak signals for 20+
-mph winds coincident with dry conditions in both deterministic and
-ensemble solutions suggests limited potential for critical fire
-weather conditions.
-
-..Moore.. 02/18/2025
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 

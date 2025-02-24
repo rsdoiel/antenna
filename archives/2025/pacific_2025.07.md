@@ -1,11 +1,11 @@
 ---
 title: pacific
-updated: 2025-02-23 12:22:11
+updated: 2025-02-23 21:22:27
 ---
 
 # pacific
 
-(date: 2025-02-23 12:22:11)
+(date: 2025-02-23 21:22:27)
 
 ---
 
@@ -960,6 +960,20 @@ date: 2025-02-21, from: Island Times
 
 ---
 
+## USP welcomes new students during Orientation sessions
+
+date: 2025-02-21, from: University of the South Pacific (Fiji)
+
+<p>Amidst the bustle of students flocking to the Vodafone Fiji Orientation Programme at The University...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-welcomes-new-students-during-orientation-sessions/">USP welcomes new students during Orientation sessions</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-welcomes-new-students-during-orientation-sessions/>
+
+---
+
 ## Hawaiʻi astronomers track asteroid 2024 YR4, impact probability decreases
 
 date: 2025-02-21, from: University of Hawaiʻi News
@@ -1020,6 +1034,20 @@ The post <a href="https://www.hawaii.edu/news/2025/02/20/windward-cc-hawaiian-st
 <br> 
 
 <https://www.hawaii.edu/news/2025/02/20/windward-cc-hawaiian-studies-arizona-prison/>
+
+---
+
+## Upskilling Nauru’s Seafood Entrepreneurs
+
+date: 2025-02-20, from: University of the South Pacific (Fiji)
+
+<p>Approximately 19 participants completed a micro-qualification training on Establishing and Operating a Small Seafood Business...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/upskilling-naurus-seafood-entrepreneurs/">Upskilling Nauru&#8217;s Seafood Entrepreneurs</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/upskilling-naurus-seafood-entrepreneurs/>
 
 ---
 
@@ -1489,6 +1517,20 @@ date: 2025-02-19, from: University of the South Pacific (Fiji)
 <br> 
 
 <https://www.usp.ac.fj/news/a-new-start-at-usp/>
+
+---
+
+## From Community Leader to Seafood Entrepreneur: Edward Grundler’s Journey and Aspirations in Transforming Nauru’s Business Landscape
+
+date: 2025-02-19, from: University of the South Pacific (Fiji)
+
+<p>Edward Grundler, a graduate of the micro-qualification training on Establishing and Operating a Small Seafood...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/from-community-leader-to-seafood-entrepreneur-edward-grundlers-journey-and-aspirations-in-transforming-naurus-business-landscape/">From Community Leader to Seafood Entrepreneur: Edward Grundler&#8217;s Journey and Aspirations in Transforming Nauru’s Business Landscape</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/from-community-leader-to-seafood-entrepreneur-edward-grundlers-journey-and-aspirations-in-transforming-naurus-business-landscape/>
 
 ---
 

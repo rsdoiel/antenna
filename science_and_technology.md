@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-02-23 12:22:12
+updated: 2025-02-23 21:22:28
 ---
 
 # science and technology
 
-(date: 2025-02-23 12:22:12)
+(date: 2025-02-23 21:22:28)
+
+---
+
+## Rather than add a backdoor, Apple decides to kill iCloud E2EE for UK peeps
+
+date: 2025-02-24, updated: 2025-02-24, from: The Register (UK I.T. News)
+
+<h4>PLUS: SEC launches new crypto crime unit; Phishing toolkit upgraded; and more</h4> <p><strong>Infosec in brief</strong>  Apple has responded to the UK government&#39;s demand for access to its customers’ data stored in iCloud by deciding to turn off its Advanced Data Protection (ADP) end-to-end encryption service for UK users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/24/rather_than_add_a_backdoor/>
+
+---
+
+## Trump administration threatens tariffs for any nation that dares to tax Big Tech
+
+date: 2025-02-24, updated: 2025-02-24, from: The Register (UK I.T. News)
+
+<h4>Digital services taxes, network build levies, touted as violations of US sovereignty</h4> <p>United States president Donald Trump last Friday issued a memorandum that suggests imposition of tariffs on nations that dare to tax big tech companies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/24/trump_administration_dst_countertariffs/>
+
+---
+
+## As China embraces big tech again, Alibaba plans vast spend to push for artificial general intelligence
+
+date: 2025-02-23, updated: 2025-02-23, from: The Register (UK I.T. News)
+
+<h4>PLUS: Samsung exec jailed for selling DRAM secrets; ASUS launches sweetly scented mouse; Toyota’s smart city nears opening; and more</h4> <p><strong>Asia In Brief</strong>  PLUS: Samsung exec jailed for selling DRAM secrets; ASUS launches sweetly scented mouse; Toyota’s smart city nears opening; and more Chinese president Xi Jinping last week staged an event at which he urged private sector leaders, including China’s Big Tech companies, to help the nation speed its technological development.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/23/asia_tech_news_roundup/>
 
 ---
 
@@ -95,9 +131,9 @@ date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
 
 ## Data is very valuable, just don't ask us to measure it, leaders say
 
-date: 2025-02-21, updated: 2025-02-21, from: The Register (UK I.T. News)
+date: 2025-02-21, updated: 2025-02-23, from: The Register (UK I.T. News)
 
-<h4>After fifteeen years decade of big hype, less than 25% of orgs measure value of data, analytics</h4> <p>Fifteen years of big data hype, and guess what? Less than one in four of those in charge of analytics projects actually measure the value of the activity to the organization they work for.…</p> 
+<h4>After fifteen years of big hype, less than 25% of orgs measure value of data, analytics</h4> <p>Fifteen years of big data hype, and guess what? Less than one in four of those in charge of analytics projects actually measure the value of the activity to the organization they work for.…</p> 
 
 <br> 
 

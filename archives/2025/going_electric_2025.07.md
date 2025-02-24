@@ -1,11 +1,27 @@
 ---
 title: going electric
-updated: 2025-02-23 12:22:19
+updated: 2025-02-23 21:22:33
 ---
 
 # going electric
 
-(date: 2025-02-23 12:22:19)
+(date: 2025-02-23 21:22:33)
+
+---
+
+## Huawei Maextro set to challenge Maybach, Rolls-Royce in China with 852 hp
+
+date: 2025-02-24, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Maextro-S800-TEASE.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Packing up to 852 hp and a cutting-edge technology stack developed by <a href="https://electrek.co/2024/08/27/byd-huaweis-tech-hard-core-evs-tesla/">Huawei</a>, Chinese luxury brand Maextro just revealed its latest entry into the Mercedes-Maybach EQS and Rolls-Royce Spectre segment of ultra-luxe EVs. Meet the all-new Maextro S800.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,huawei,luxury-ev" data-layer-viewtype="unknown" data-post-id="402916" href="https://electrek.co/2025/02/23/huawei-maextro-set-to-challenge-maybach-rolls-royce-in-china-with-852-hp/#more-402916" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/23/huawei-maextro-set-to-challenge-maybach-rolls-royce-in-china-with-852-hp/>
 
 ---
 
@@ -54,6 +70,18 @@ date: 2025-02-23, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/02/23/2025-ram-promaster-ev-finally-lives-up-to-its-initial-promise/>
+
+---
+
+## The U.S. Is About To Nearly Double Its Battery Production Capacity
+
+date: 2025-02-23, from: Inside EVs News
+
+Ten new battery plants expected to go online this year may deliver a near-double growth in America's cell manufacturing capacity. 
+
+<br> 
+
+<https://insideevs.com/news/751505/america-ten-new-ev-plants-double-capacity/>
 
 ---
 

@@ -1,11 +1,205 @@
 ---
 title: columns
-updated: 2025-02-23 12:22:13
+updated: 2025-02-23 21:22:29
 ---
 
 # columns
 
-(date: 2025-02-23 12:22:13)
+(date: 2025-02-23 21:22:29)
+
+---
+
+## February 23, 2025
+
+date: 2025-02-24, from: Heather Cox Richardson blog
+
+Something is shifting,&#8221; scholar of authoritarianism Timothy Snyder posted on Bluesky yesterday. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-23-2025>
+
+---
+
+## Lifting the Lid on Government Meetings
+
+date: 2025-02-24, from: Doc Searls (at Harvard), New Old Blog
+
+On the left is Tom Evslin, former CTO for Vermont, among many other distinctions. On the right is the golden dome atop Vermont&#8217;s capitol building. Underneath that dome, and in countless spaces in government bodies everywhere are meetings recorded in video. Reviewing or reporting on those meetings is a chore. Unless, that is, you use [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/02/23/lifting-the-lid/>
+
+---
+
+##  When Your Only Job Is to Cuddle. &#8220;On that day, I rocked... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046296-when-your-only-job-is>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-24, from: Jessica Smith's blog)
+
+<p>Had an eye test today and ordered new glasses 🙌 I&rsquo;m excited to no longer suffer from glasses that are just too big for my tiny little head and keep on sliding down my nose… over and over again all day every day. I think the new pair literally has a kids&rsquo; frame but if it fits, it fits!</p>
+<p>My left eye is unchanged (same degree of short-sighted) from last time but my right eye is now long-sighted and more astigmatic 🫠 Like, can&rsquo;t my eyes just take the average or something? Why do they do this to me.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/eye-test.html>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-24, from: Miguel de Icaza Mastondon feed)
+
+<p>I think I am pretty much done with Godot for iPad, after some 500 bugs and features closed during the TestFlight preview.</p><p>I am going to submit Godot for the iPad to AppStore review to get a sense of how screwed I am.</p><p>Will report my findings!</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114056312440986188>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Folks, I think that against my best judgment I need to buy another bottle of this blessing of the gods.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114056280069115438>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-24, from: Miguel de Icaza Mastondon feed)
+
+<p>The last glass of wine was amazing.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114056273948744513>
+
+---
+
+##  Running Pong in 240 Browser Tabs. &#8220;That’s 240 browser tabs in a... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046290-running-pong-in-240-brows>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Seared tuna for dinner, finishing that wine from yesterday:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114056081845670035>
+
+---
+
+## Monday 24 February, 2025
+
+date: 2025-02-24, from: John Naughton's online diary
+
+Les Misérables? Surely not. Quote of the Day ”Not all who wander are lost.” J.R.R Tolkien Musical alternative to the morning’s radio news The Humours of Ballyloughlin &#124; Paul Brady &#38; Arty McGlynn Link Traditional tune, usually played on Uileann &#8230; <a href="https://memex.naughtons.org/monday-24-february-2025-2/40465/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/monday-24-february-2025-2/40465/>
+
+---
+
+## Benchmarking multiple network interfaces at once in Linux with iperf3
+
+date: 2025-02-23, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Benchmarking multiple network interfaces at once in Linux with iperf3</span>
+
+            <p>Recently, I've been working on a Pi router build with multiple 2.5 Gbps Ethernet ports using <a href="https://github.com/geerlingguy/raspberry-pi-pcie-devices/issues/647">Radxa's Dual 2.5G Router HAT</a>.</p>
+
+<p>I wanted a simple way to check on total network TCP throughput using <em>both</em> interfaces (or really, as many interfaces as possible) to multiple computers on my network, and I noticed <code>iperf3</code>'s <code>--bind</code> option (like <code>--bind [ip address of interface]</code>) was not splitting the traffic on both interfaces—it would just route all traffic through one!</p>
+
+<p>Luckily, I found the issue <a href="https://github.com/esnet/iperf/issues/1572">Failing to bind to interface when multiple interfaces are present</a>, and in it, @bmah888 mentioned the <code>--bind-dev</code> option, which is new as of iperf 3.10+.</p>
+
+<p>Using that option (like <code>--bind-dev [interface name]</code>), you can force an instance of iperf3 to bind to one particular device. For example, assuming I have two servers on my network running <code>iperf3 -s</code>, I can run the following on the Pi to saturate both connections as much as the Pi will allow:</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 23, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/benchmarking-multiple-network-interfaces-once-linux-iperf3>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-23, from: Jessica Smith's blog)
+
+<p>Today Indie has clearly decided she&rsquo;s practising to be a Doctor Who companion, because she is just SCREAMING on repeat 😑 Not like, &ldquo;Help, I am in pain!&rdquo; but 100%, &ldquo;Hey, check out this cool new sound I figured out how to make!! trololol&rdquo;</p>
+<p>Don&rsquo;t @ me that Doctor Who companions don&rsquo;t actually scream as much as non-fans believe; clearly it is Indie who doesn&rsquo;t know this.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/indie-screaming.html>
+
+---
+
+## Linus Sebastian’s Thoughts After Switching to an iPhone for 30 Days
+
+date: 2025-02-23, updated: 2025-02-23, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2025/02/23/linus-sebastian-switch-to-iphone>
+
+---
+
+##  Speaking of Amy Sherald, she&#8217;s got an exhibition at The Whitney that... 
+
+date: 2025-02-23, updated: 2025-02-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046292-speaking-of-amy-sherald-s>
+
+---
+
+## Sunday caption contest: The former White House
+
+date: 2025-02-23, from: Robert Reich's blog
+
+And last week&#8217;s winner 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-caption-contest-the-former>
+
+---
+
+##  Roxane Gay&#8217;s lovely obituary for her mother Nicole: It Was Always Going... 
+
+date: 2025-02-23, updated: 2025-02-23, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046295-roxane-gays-lovely-obitua>
 
 ---
 
@@ -377,7 +571,7 @@ We aren't prepared for what's coming.
 
 ## Going Deep on ‘Deep’
 
-date: 2025-02-22, updated: 2025-02-22, from: Daring Fireball
+date: 2025-02-22, updated: 2025-02-23, from: Daring Fireball
 
  
 
@@ -408,6 +602,22 @@ You ask, and howto answers. That's the deal.
 <br> 
 
 <https://antonz.org/howto/>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-22, from: Jessica Smith's blog)
+
+<p>Sometimes my humour is wasted on Viv, I <abbr title="swear to God">stg</abbr>.</p>
+<p>Indie: (has just thrown up on our bed)<br>
+Me: Hmm, this puts a whole new spin on that Lily Allen song about lying in the wet patch in the middle of the bed…<br>
+Viv: The what?<br>
+Me: You know, &ldquo;It&rsquo;s not fair, I think you&rsquo;re really mean&rdquo;…?<br>
+Viv: …no?<br>
+Me: Where even <em>were</em> you in 2009?</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/wet-patch.html>
 
 ---
 
@@ -458,6 +668,17 @@ This song popped into my head today &#8212; I&#8217;ve been listening to another
 <br> 
 
 <https://tracydurnell.com/2025/02/21/listened-to-coming-or-going/>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-22, from: Jessica Smith's blog)
+
+<p>I started drafting a blog post on Marxist-feminism, but I feel like it&rsquo;s going to take me forever to finish because (ironically…) I am so flat out with housework and baby care that I have no goddamn time to work on it.</p>
+<p>It&rsquo;s funny, now the weekend is here, I&rsquo;m like, &ldquo;Yessss!! Vivian doesn&rsquo;t have work, so he can look after the baby while I… get on top of the housework.&rdquo; 😖</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/drafting-marxist-feminist-blog-post.html>
 
 ---
 
@@ -885,6 +1106,20 @@ DOGE is costing the country &#8212; and now Trump and Musk too
 <br> 
 
 <https://steady.substack.com/p/did-anyone-not-see-this-coming>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-21, from: Jessica Smith's blog)
+
+<p>Indie&rsquo;s review of Baby Rhyme Time at the local library:</p>
+<p>People-watching: Excellent<br>
+Song choice: Poor. Needed more Depeche Mode<br>
+Bubbles: Horrible, MUMMY MAKE IT STOP NOWWWWWWWWW</p>
+<p>Me? I was impressed that they taught the babies a song in Bunurong language, even though the librarian seemed embarrassedly underconfident in her ability to pronounce it.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/baby-rhyme-time.html>
 
 ---
 

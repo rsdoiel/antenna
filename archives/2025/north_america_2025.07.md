@@ -1,11 +1,434 @@
 ---
 title: north america
-updated: 2025-02-23 12:22:09
+updated: 2025-02-23 21:22:26
 ---
 
 # north america
 
-(date: 2025-02-23 12:22:09)
+(date: 2025-02-23 21:22:26)
+
+---
+
+## Trump says Dan Bongino to be FBI deputy director
+
+date: 2025-02-24, from: VOA News USA
+
+WASHINGTON — President Donald Trump said in a post on social media Sunday that Dan Bongino, a conservative talk show host, will be deputy director of the FBI.
+
+
+Bongino will join Kash Patel, who was recently confirmed by the Senate as director of the FBI. Trump said Bongino was named to the role by Patel. The position does not require Senate confirmation.
+
+
+"Great news for Law Enforcement and American Justice!" Trump posted on his social media network, Truth Social, calling Bongino "a man of incredible love and passion for our Country."
+
+
+Bongino was previously a New York City police officer, and a member of the U.S. Secret Service. He most recently had been known as a conservative radio host and podcaster.
+
+
+Trump said in his post that Bongino is "prepared to give up" his program as he steps into the new role. "The Dan Bongino Show" was most recently the 56th-ranked podcast in the United States, according to Spotify. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-says-dan-bongino-to-be-fbi-deputy-director/7985643.html>
+
+---
+
+## 'Conclave' triumphs at SAG Awards and Timothée Chalamet wins best actor, upending Oscar predictions
+
+date: 2025-02-24, from: VOA News USA
+
+The papal thriller "Conclave" won best ensemble and Timothée Chalamet took best actor at the 31st Screen Actors Guild Awards on Sunday, a pair of twists that added a few final wrinkles to an unusually unpredictable awards season.
+
+
+In winning the guild's top award, Edward Berger's Vatican-set drama triumphed just as the Catholic Church was praying for the health of Pope Francis, who remained in critical condition Sunday after an asthmatic respiratory crisis. "Conclave" dramatizes the fictional election of a new pope. Earlier in the evening onstage, Isabella Rossellini shared the cast's best wishes for Pope Francis.
+
+
+All the momentum going into the SAG Awards was with Sean Baker's "Anora," which had won with the producers, directors and writers guilds. Now, with "Conclave" winning with the actors and at the BAFTAs, what will nab best picture in a week's time at the Academy Awards is, again, anyone's guess.
+
+
+"Wow," said "Conclave" star Ralph Fiennes taking the stage. "I've not been elected to speak. I've been designated to speak on behalf of our conclave, our ensemble."
+
+
+That wasn't the only surprise in the ceremony held at the Shrine Auditorium in Los Angeles and streamed lived by Netflix. Chalamet's best actor win upset "The Brutalist" star Adrien Brody and put the 29-year-old on course to possibly win his first Academy Award.
+
+
+Chalamet looked visibly surprised when his name was announced at the ceremony. But once he reached the staged, the "A Complete Unknown" star spoke with composure and confidence.
+
+
+"The truth is, this was 5 ½ years of my life," said Chalamet. "I poured everything I had into playing this incomparable artist, Mr. Bob Dylan, a true American hero. It was the honor of a lifetime playing him."
+
+
+He then added: "The truth is, I'm really in pursuit of greatness. I know people don't usually talk like that, but I want to be one of the greats."
+
+
+The other Oscar favorites — Demi Moore, Zoe Saldaña and Kieran Culkin — all won. The SAG Awards are closely watched as an Oscar preview. Their picks don't always align exactly with those of the film academy, but they often nearly do.
+
+
+The last three best ensemble winners — "Oppenheimer," "Everything Everywhere All at Once" and "CODA" — all went on to win best picture at the Oscars. All but one of the SAG acting winners of the last three years has also won the Oscar. (The sole exception was Lily Gladstone, who won SAG's award for female actor last year for "Killers of the Flower Moon," but the Oscar trophy went to Emma Stone for "Poor Things".)
+
+
+Moore seemingly solidified her Oscar chances by following up her Golden Globe win for her performance in "The Substance." Moore, whose campaign was boosted by her speech about being pigeonholed a "popcorn actress," has traded awards with "Anora" breakthrough Mikey Madison.
+
+
+"What we believe is so much more powerful than what we think," said Moore. "The saying, 'I'll believe it when I see it' — the reality is when I believe it, I will see it."
+
+
+The SAG Awards unfolded against the backdrop of the aftermath of the devastating wildfires that began in early January. Those fires forced the guild to cancel its in-person nominations announcement and launch a disaster relief fund for SAG-AFTRA members affected. Host Kristen Bell introduced attending firefighters as "the most attractive tables" among a sea of stars.
+
+
+Jane Fonda, 87, given the guild's Life Achievement Award, provided the evening with its most passionately political moment. Fonda, a famed activist, spoke indirectly about President Donald Trump's administration.
+
+
+"We are in our documentary moment," said Fonda. "This is it. And it's not a rehearsal."
+
+
+Fonda added that "woke just means you give a damn about other people."
+
+
+"A whole lot of people are going to be hurt by what's happening, by what's coming our way," said Fonda. "We are going to need a big tent to resist what's coming at us."
+
+
+Jean Smart, who had advocated for canceling award shows because of the wildfires, won best female actor in a comedy series for "Hacks." Smart didn't attend, but participated in a pre-taped introduction as her character, Deborah Vance.
+
+
+Also not in attendance: Martin Short, though he upset Jeremy Allen White to win best male actor in a comedy series for "Only Murders in the Building." The Hulu series also won for best comedy ensemble.
+
+
+"Wait, we never win. This is so weird," said Selena Gomez. "Marty and Steve (Martin) aren't here because, you know, they don't really care."
+
+
+Colin Farrell won his first SAG award, for his performance in "The Penguin" and also became the first winner ever introduced, by Jamie Lee Curtis, as "the man who gave me COVID at the Golden Globes." Farrell bounded to the stage and promptly responded, "Guilty as charged," before blaming Brendan Gleeson for giving it to him.
+
+
+The night's first televised award went to Culkin, who has won just about every award in the category for "A Real Pain." Gripping the SAG trophy, he could quickly tell the difference.
+
+
+"It is funny that the heaviest of all awards is given by actors," said Culkin, who characteristically riffed his way through a rambling acceptance speech before swearing sincerity: "Believe it or not, this actually means a lot to me."
+
+
+Netflix's "Emilia Pérez," which has seen its awards hopes largely dashed by controversy over old tweets by lead actor Karla Sofia Gascón, took home the award for best female supporting actor, for Oscar favorite Saldaña.
+
+
+For Netflix's second time around streaming the awards, it inserted ads sporadically, like a traditional broadcast. Last year, downtimes were occupied by backstage interviews. Audio issues occasionally marred the broadcast, including brief interruptions of Fonda's speech.
+
+
+After romps at the Emmys and Golden Globes, "Shōgun" kept up its dominance. The FX series won best drama series ensemble, along with acting awards for Hiroyuki Sanada, Anna Sawai and for best stunt ensemble. The corresponding award for film went to the stunt performer ode "The Fall Guy." 
+
+<br> 
+
+<https://www.voanews.com/a/the-31st-sag-awards-get-underway-with-a-win-for-kieran-culkin/7985630.html>
+
+---
+
+## Kamala Harris receives prestigious Chairman's prize at NAACP Image Awards
+
+date: 2025-02-24, from: VOA News USA
+
+Los Angeles — Former Vice President Kamala Harris stepped on the NAACP Image Awards stage Saturday night with a sobering message, calling the civil rights organization a pillar of the Black community and urging people to stay resilient and hold onto their faith during the tenure of President Donald Trump.
+
+
+"While we have no illusions about what we are up against in this chapter in our American story, this chapter will be written not simply by whoever occupies the oval office nor by the wealthiest among us," Harris said after receiving the NAACP's Chairman's Award. "The American story will be written by you. Written by us. By we the people."
+
+
+The 56th annual Image Awards was held at the Pasadena Civic Auditorium in the Los Angeles area.
+
+
+Harris, defeated by Trump in last year's presidential election, was the first woman and the first person of color to serve as vice president. She had previously been a U.S. senator from California and the state's attorney general.
+
+
+In her first major public appearance since leaving office, Harris did not reference her election loss or Trump's actions since entering the Oval Office, although Trump mocked her earlier in the day at the Conservative Political Action Conference.
+
+
+Harris spoke about eternal vigilance, the price of liberty, staying alert, seeking the truth and America's future.
+
+
+"Some see the flames on our horizons, the rising waters in our cities, the shadows gathering over our democracy and ask 'What do we do now?'" Harris said. "But we know exactly what to do, because we have done it before. And we will do it again. We use our power. We organize, mobilize. We educate. We advocate. Our power has never come from having an easy path."
+
+
+Other winners of the Chairman's prize have included former President Barack Obama, the late Rep. John Lewis and the late actor Ruby Dee.
+
+
+NAACP Hall of Fame
+
+
+Harris was honored during the ceremony along with the Wayans family. The family was inducted into the NAACP Image Awards Hall of Fame in recognition of pioneering contributions to film, TV, sketch and stand-up comedy that have shaped Hollywood for decades.
+
+
+Keenen Ivory Wayans, Damon Wayans Sr., Marlon Wayans, Shawn Wayans, Kim Wayans and Damon Wayans Jr. each were recognized.
+
+
+Marlon Wayans, whose guest appearance on Peacock's "Bel-Air" was up for an NAACP award, shared how Keenen Ivory Wayans sparked the family's rise.
+
+
+"He raised us all like Jedis," he said. "We wouldn't be here if it wasn't for our big brother."
+
+
+Marlon Wayans joked that when his brother told their mom he was leaving college for comedy, she said, "Boy, I've known you your whole life, and you ain't never said nothing funny. That's the funniest thing you've said."
+
+
+The crowd erupted in laughter, a fitting tribute to a family that has kept audiences laughing for more than three decades.
+
+
+The family has a long list of credits. Keenen Ivory Wayans created the sketch comedy series "In Living Color" in 1990 and directed the 2000 slasher spoof "Scary Movie," which was written by Marlon Wayans and Shawn Wayans, who also wrote and starred in "White Chicks" in 2004. Damon Wayan's had a starring role in the 1995 comedy "Major Payne," and currently co-stars with son Damon Wayans Jr. in the CBS sitcom "Poppa's House," which was nominated for an NAACP Award. The pair also were nominated for their acting on the show.
+
+
+Damon Wayans Jr. has acted in two of the most critically acclaimed comedies in recent years: "Happy Endings" and "New Girl." Kim Wayans, a comedian, actor and director, also received praise for her work in the 2011 drama "Pariah."
+
+
+Entertainer of the year
+
+
+Keke Palmer expressed her surprise after her name was called as winner of the coveted entertainment of the year.
+
+
+"Oh my gosh. Guys, I didn't think I was going to win," said Palmer, who paid homage to fellow nominee Cynthia Erivo's Oscar-nominated performance in "Wicked."
+
+
+Palmer starred in the buddy comedy "One of Them Days," which debuted No. 1 at the box office last month. She also won an Emmy for her hosting efforts on NBC's "Password."
+
+
+"It's such an amazing category to be in with all these people," Palmer said. "It's a beautiful night. It's Black History Month, y'all. It's so important we all come here together and celebrate one another with one another."
+
+
+Other nominees included Kendrick Lamar, Kevin Hart and Shannon Sharpe.
+
+
+Awards recognize LA residents impacted by wildfires
+
+
+Image Awards host Deon Cole honored residents of the nearby Altadena neighborhood who were affected by January's devastating Los Angeles-area wildfires.
+
+
+A video of the fire devastation played before actor Morris Chestnut took the stage.
+
+
+"Homes were lost, stores destroyed, countless lives shattered and over two dozen souls gone forever," said Chestnut, a Los Angeles native who referenced impacted areas such as Altadena, the Pacific Palisades and Malibu.
+
+
+"But what was not lost is the spirit of our community," said Chestnut, who noted 22 Altadena residents attended the show on Saturday. Many in the audience stood and applauded.
+
+
+Cole shifted tone and brightened the mood with a comedic prayer for Kanye West's wife to find more clothes after her barely-there Grammys look and for Shannon Sharpe to finally size up his T-shirts.
+
+
+The opening act was a lead-up to the evening's first award: Queen Latifah as best actress in a drama series for her role in "The Equalizer."
+
+
+Chappelle honored
+
+
+Dave Chappelle was honored with the President's Award for his "thought-provoking humor."
+
+
+Accepting the award, Chappelle talked about the NAACP's push against negative portrayals of Black people in media and the importance of representation.
+
+
+"Every opportunity we get, we just keep chipping away at this monster of a machine," he said.
+
+
+Past recipients of the President's Award include Jay-Z, Lauryn Hill, Usher, Rihanna and John Legend. 
+
+<br> 
+
+<https://www.voanews.com/a/kamala-harris-receives-prestigious-chairman-s-prize-at-naacp-image-awards/7985604.html>
+
+---
+
+## California governor asks Congress for nearly $40 billion for Los Angeles wildfire relief
+
+date: 2025-02-24, from: VOA News USA
+
+Sacramento, California — California Gov. Gavin Newsom has asked Congress to approve nearly $40 billion in aid to help the Los Angeles area recover from January's devastating wildfires, which he said could become the costliest natural disaster in U.S. history.
+
+
+Newsom sent a letter Friday asking for support from lawmakers including House Speaker Mike Johnson and Rep. Tom Cole, the House Appropriations Committee chair.
+
+
+"Los Angeles is one of the most economically productive places on the globe, but it can only rebound and flourish with support from the federal government as it recovers from this unprecedented disaster," Newsom wrote.
+
+
+The total economic losses from the firestorm have been estimated to surpass $250 billion — with real estate losses from the Palisades and Eaton fires predicted to potentially top $30 billion, according to a Los Angeles Times analysis. More than 16,200 structures were destroyed as flames ripped through Pacific Palisades, Malibu, Pasadena and Altadena.
+
+
+Newsom vowed that the funding would be used to rebuild homes, infrastructure, businesses, schools, churches and health care facilities, while supporting the needs of people affected by the devastation.
+
+
+"Make no mistake, Los Angeles will use this money wisely," Newsom wrote.
+
+
+His largest request is for an additional $16.8 billion from the Federal Emergency Management Agency, mostly intended for the rebuilding of property and infrastructure, with $5 billion earmarked for debris cleanup.
+
+
+Newsom also asked for $9.9 billion from the Department of Housing and Urban Development for grants to fire victims, homeowners, businesses and renters, as well as $5.29 billion from the Small Business Administration for homeowner and business loans.
+
+
+Newsom thanked President Donald Trump for support for fast-tracking debris removal. The letter did not mention recent threats by the Trump administration that federal aid could come with strings attached.
+
+
+"We are eternally grateful," Newsom said.
+
+
+Trump has been a frequent critic of Newsom and California's water policies. Ric Grenell, a Trump ally serving as his envoy for special missions, said Friday that "there will be conditions" to any federal aid for the state.
+
+
+He said one of the possible conditions being discussed was defunding the California Coastal Commission, which regulates coastal development and protects public beach access. Trump has criticized the agency as overly restrictive, bureaucratic and a hindrance to timely rebuilding efforts. 
+
+<br> 
+
+<https://www.voanews.com/a/california-governor-asks-congress-for-nearly-40-billion-for-los-angeles-wildfire-relief/7985599.html>
+
+---
+
+## Trump administration fires 2,000 USAID workers, puts thousands of others on leave
+
+date: 2025-02-23, from: VOA News USA
+
+Washington — The Trump administration said Sunday that it was placing all but a fraction of staffers at the U.S. Agency for International Development on leave worldwide and eliminating 2,000 U.S.-based staff positions.
+
+
+The move was the latest and one of the biggest steps yet toward what President Donald Trump and cost-cutting ally Elon Musk say is their goal of gutting the six-decade-old aid and development agency in a broader campaign to slash the size of the federal government.
+
+
+The move comes after a federal judge on Friday allowed the administration to move forward with its plan to pull thousands of USAID staffers off the job in the United States and around the world. U.S. District Judge Carl Nichols rejected pleas in a lawsuit from employees to keep temporarily blocking the government's plan.
+
+
+"As of 11:59 p.m. EST on Sunday, February 23, 2025, all USAID direct hire personnel, with the exception of designated personnel responsible for mission-critical functions, core leadership and/or specially designated programs, will be placed on administrative leave globally," according to the notices sent to USAID workers that were viewed by The Associated Press.
+
+
+At the same time, the agency said it was beginning a reduction in force that would eliminate 2,000 U.S.-based staffers. That means many of the Washington-based staffers who are being placed on leave would soon have their positions eliminated.
+
+
+The Trump appointee running USAID, deputy administrator Pete Marocco, has indicated he plans to keep about 600 mostly U.S.-based staffers on the job in the meantime, in part to arrange travel for USAID staffers and families abroad.
+
+
+USAID and the State Department did not immediately respond to messages seeking comment.
+
+
+The move escalates a monthlong push to dismantle the agency, which has included closing its headquarters in Washington and shutting down thousands of aid and development programs worldwide following an effort to freeze all foreign assistance. Trump and Musk contend that USAID's work is wasteful and furthers a liberal agenda.
+
+
+Lawsuits by government workers' unions, USAID contractors and others say the administration lacks the constitutional authority to eliminate an independent agency or congressionally funded programs without lawmakers' approval.
+
+
+The Trump administration efforts upend decades of U.S. policy that aid and development work overseas serves national security by stabilizing regions and economies and building alliances, a critical tool of U.S. "soft power" for winning influence abroad.
+
+
+The notices of firings and leaves come on top of hundreds of USAID contractors receiving no-name form letters of termination in the past week, according to copies that AP viewed.
+
+
+The blanket nature of the notification letters to USAID contractors, excluding the names or positions of those receiving them, could make it difficult for the dismissed workers to get unemployment benefits, workers noted.
+
+
+A different judge in a second lawsuit tied to USAID has temporarily blocked the foreign funding freeze and said this past week that the administration had kept withholding the aid despite his court order and must at least temporarily restore the funding to programs worldwide. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-administration-firing-2-000-usaid-workers-putting-thousands-of-others-on-leave/7985347.html>
+
+---
+
+## Some US agencies tell workers not to reply to Musk's 'accomplishments email'
+
+date: 2025-02-23, from: VOA News USA
+
+Washington — Multiple U.S. federal agencies told employees not to respond immediately to a demand by President Donald Trump's adviser Elon Musk to list their accomplishments in the last week or be fired, as a chaotic campaign to cull the bureaucracy pushes forward.
+
+
+Trump administration-appointed officials at the FBI and State Department sent their staff emails telling them not to respond outside their chains of command, in a possible sign of tension between members of the Republican administration and the world's richest person in his campaign to cut down the government's 2.3 million-member civilian workforce.
+
+
+"The FBI, through the office of the director, is in charge of all our review processes," said FBI Director Kash Patel, a Trump appointee, in an email to staff seen by Reuters.
+
+
+Musk leads the so-called Department of Government Efficiency (DOGE), which in the first weeks of Trump's administration has laid off more than 20,000 workers and offered buyouts to another 75,000, across wide swaths of the government from the Defense Department — long a top Republican priority — to the Consumer Financial Protection Bureau, where all staff have been ordered to halt work.
+
+
+The frantic pace has led the federal government in some cases to rush to rehire workers who perform critical functions like securing the nation's nuclear arsenal and trying to fight the worsening bird flu outbreak, which has caused egg prices to spike higher.
+
+
+While there is bipartisan agreement that the U.S. government, which carries $36 trillion in debt, would benefit from reform, Musk's tumultuous approach has drawn widespread criticism, including from voters in some Republican areas.
+
+
+Federal workers Saturday evening received an email instructing them to detail the work they did during the previous week by 11:59 p.m. ET on Monday (0459 GMT Tuesday), shortly after Musk posted on his X social media site that failing to respond would be taken as a resignation.
+
+
+The subject of the email read, "What did you do last week?" and came from a human resources address in the Office of Personnel Management, but did not include Musk's threat of termination.
+
+
+Workers at the departments of Defense, Homeland Security, Education and Commerce, as well as at the Federal Deposit Insurance Corporation, the National Institutes of Health and the Internal Revenue Service also were told not to respond, pending further guidance, according to sources and emails reviewed by Reuters.
+
+
+"To be clear — this is irregular, unexpected, and warrants further validation," a senior executive at the National Centers for Environmental Information, an agency that manages environmental data and is part of the Commerce Department, wrote.
+
+
+Some officials welcomed the move. Ed Martin, Trump's nominee for U.S. Attorney in Washington, D.C., who is serving in an interim capacity, praised Musk and DOGE in an email response.
+
+
+But other offices within the Justice Department, including the executive office that supports all U.S. attorneys and the department's civil division, told employees not to reply, pending additional information.
+
+
+Employees at the Drug Enforcement Administration, part of the Justice Department, were told to respond, according to an email seen by Reuters.
+
+
+Union questions Musk's authority
+
+
+The largest federal workers' union, the American Federation of Government Employees, wrote on X on Sunday that it did not believe Musk had the authority to fire employees who did not respond and would formally request that OPM rescind the message.
+
+
+Meanwhile, the union advised members to ask their supervisors directly whether to reply and to follow their guidance.
+
+
+The email left some employees even more frustrated and worried after weeks of uncertainty about their futures.
+
+
+"I really wonder when someone is going to say enough," one IRS employee told Reuters.
+
+
+Media offices at the Commerce, Justice, Education and Treasury departments, as well as at the FDIC and NIH, did not immediately respond to requests for comment. An FBI spokesperson declined to comment, and a State Department spokesperson referred questions to the White House.
+
+
+Musk on X on Sunday called the email "a very basic pulse check."
+
+
+Senator John Curtis, a Republican from Utah, said he supports the Trump administration's efforts to reduce government spending, but that Musk should take a more humane approach.
+
+
+"If I could say one thing to Elon Musk, it's please put a dose of compassion in this," Curtis said on CBS News' "Face the Nation."
+
+
+"These are real people. These are real lives. These are mortgages. It's a false narrative to say we have to cut, and you have to be cruel to do it as well."
+
+
+Some federal judiciary employees, including judges, also received the Saturday email from OPM, even though the court system is not part of the executive branch, the Administrative Office of the U.S. Courts confirmed.
+
+
+The judiciary advised employees that no action should be taken in response to the message, according to an email reviewed by Reuters.
+
+
+In some cases, employees were left unsure how to respond even if they chose to do so.
+
+
+Some lawyers, for instance, expressed concern that their work is confidential.
+
+
+Workers at the Consumer Financial Protection Bureau also received the email, according to people with knowledge of the matter, even though they were all ordered to cease working since early this month, leaving them with little to do. 
+
+<br> 
+
+<https://www.voanews.com/a/some-us-agencies-tell-workers-not-to-reply-to-musk-s-accomplishments-email-/7985346.html>
+
+---
+
+## Hyperrealistic woolen dogs of Linda Facci
+
+date: 2025-02-23, from: VOA News USA
+
+Linda Facci has a unique and charming job. Using just a few tools and a lot of felt, she makes hyper realistic sculptures that, if they weren’t so small, it would be hard to tell them apart from the real thing.  Anna Nelson met up with Facci to talk about her art. Anna Rice narrates her story. (Videographer: Vladimir Badikov, Natalia Latukhina ) 
+
+<br> 
+
+<https://www.voanews.com/a/the-hyperrealistic-woolen-dogs-of-linda-facci/7985318.html>
 
 ---
 
@@ -191,19 +614,25 @@ With final domestic figures releasing Monday, this list factors in the estimated
 
 ---
 
-## Washington, Kyiv near deal for Ukrainian ‘critical minerals’ rights
+## Washington, Kyiv headed toward deal for Ukrainian 'critical minerals' rights
 
 date: 2025-02-23, from: VOA News USA
 
-The United States and Ukraine said Sunday they are nearing an agreement for Kyiv to give Washington a large share of its rare earth mineral rights as compensation for the billions of dollars in munitions the U.S. sent to Ukraine to defend itself from Russia’s full-scale war.
+The United States and Ukraine said Sunday they are heading toward an agreement for Kyiv to give Washington a large share of its rare earth mineral rights as compensation for the billions of dollars in munitions the U.S. sent to Ukraine to defend itself from Russia’s full-scale war.
 
 
 Ukrainian President Volodymyr Zelenskyy told a news conference in Kyiv that Ukraine and the U.S. are “making progress” in reaching a deal. He said a draft of the pact calls for Ukraine to pay the U.S. $2 for each dollar in aid the U.S. has sent to Kyiv to fight Russia’s invasion, although details of the would-be agreement have not been disclosed.
 
 
+Zelenskyy called for security guarantees for Ukraine as part of any deal and said he wants better financial terms. “I don’t want something that 10 generations of Ukrainians will have to pay back,” he said.
 
 
 The war hits the three-year mark on Monday.
+
+
+Watch related report by Veronica Balderas Iglesias:
+
+
 
 
 The U.S. has been Ukraine’s biggest benefactor, sending $128 billion in military and humanitarian assistance to Ukraine, according to Germany’s Kiel Institute for the World Economy. The U.S. share is just ahead of the combined $124 billion figure for the 27-nation European Union.
@@ -232,7 +661,7 @@ Trump, who last week called Zelenskyy a “dictator” and accused him of starti
 Zelenskyy said Sunday he wants Trump to "understand" his position and come through with concrete security guarantees to help Kyiv defend itself against the Russian invasion.
 
 
-"I want very much from Trump understanding of each other," Zelensky said at his news conference, adding: "Security guarantees from Trump are much needed."
+"I want very much from Trump understanding of each other," Zelenskyy said at his news conference, adding: "Security guarantees from Trump are much needed."
 
 
 Zelenskyy said he was willing to give up his presidency if it meant peace in Ukraine, quipping that he could exchange his departure for Ukraine's entry into NATO, which Russia is adamantly opposed to.
@@ -270,19 +699,16 @@ Russia now controls about one-fifth of the internationally recognized Ukrainian 
 
 
 
-A Trump call with Putin two weeks ago set the stage for the Rubio-Lavrov talks in Saudi Arabia.
+A Trump call with Putin two weeks ago set the stage for the Rubio-Lavrov talks in Saudi Arabia.  
 
 
-"This is a dialogue between two extraordinary presidents," Peskov told state TV.
+"This is a dialogue between two extraordinary presidents," Peskov told state TV.  
 
 
-Russia on Sunday marked Defender of the Fatherland Day — a holiday hailing soldiers and veterans. In a video released by the Kremlin, Putin said God and fate had entrusted him and his army with "the mission" to defend Russia.
+Meanwhile, Zelenskyy said Russia launched 267 overnight drone attacks on Ukraine, which he condemned as "aerial terror." Ukrainian officials reported damage in five regions of the country.  
 
 
-Meanwhile, Zelenskyy said Russia launched 267 overnight drone attacks on Ukraine, which he condemned as "aerial terror." Ukrainian officials reported damage in five regions of the country.
-
-
-Zelenskyy said that in the past week, Russia has targeted Ukraine with nearly 1,150 attack drones, more than 1,400 guided aerial bombs and 35 missiles of various types.
+Zelenskyy said that in the past week, Russia has targeted Ukraine with nearly 1,150 attack drones, more than 1,400 guided aerial bombs and 35 missiles of various types. 
 
 
 Some material in this report came from Reuters. 
