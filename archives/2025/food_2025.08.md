@@ -1,11 +1,159 @@
 ---
 title: food
-updated: 2025-02-24 07:09:03
+updated: 2025-02-25 07:09:04
 ---
 
 # food
 
-(date: 2025-02-24 07:09:03)
+(date: 2025-02-25 07:09:04)
+
+---
+
+## The Sprudge Guide To Coffee In Burlington, Vermont
+
+date: 2025-02-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to get coffee in Burlington, Vermont. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-burlington-vermont-269562.html>
+
+---
+
+## Steel-Cut Oats
+
+date: 2025-02-25, from: Taste of Home
+
+Steel-cut oats make a filling and nutritious breakfast, and this stovetop recipe is easy to make with just water, milk, oats, salt and ground cinnamon. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/steel-cut-oats/>
+
+---
+
+## Chinese Coffees Triumph at the Masterpiece Coffee Pop-Up in Berkeley
+
+date: 2025-02-25, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Masterpiece Coffee Berkeley Young Sun" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new company called Masterpiece Coffee is serving Asian-inspired coffee drinks at a new coffee kiosk in Berkeley, California, focusing on specialty coffee produced in Yunnan, China. Masterpiece Coffee Founder... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/25/chinese-coffees-triumph-at-the-masterpiece-coffee-pop-up-in-berkeley/>
+
+---
+
+## Brothy Beans That Don’t Need to Simmer All Day
+
+date: 2025-02-25, from: Bon Appetet
+
+Consider this the coziest thing you can do with a can of chickpeas. 
+
+<br> 
+
+<https://www.bonappetit.com/story/braised-canned-beans>
+
+---
+
+## Netflix Just Opened a Restaurant—and These Menu Items Are a Must-Try
+
+date: 2025-02-25, from: Taste of Home
+
+<p>The official Netflix restaurant in Las Vegas is now open for business.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/netflix-restaurant-menu/">Netflix Just Opened a Restaurant—and These Menu Items Are a Must-Try</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/netflix-restaurant-menu/>
+
+---
+
+## I Tried Wendy’s Thin Mint Frosty and Ended Up Ordering It 3 Days in a Row
+
+date: 2025-02-24, from: Taste of Home
+
+<p>The Thin Mint Frosty completely changed how I feel about Thin Mints.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/wendys-thin-mint-frosty-review/">I Tried Wendy&#8217;s Thin Mint Frosty and Ended Up Ordering It 3 Days in a Row</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/wendys-thin-mint-frosty-review/>
+
+---
+
+## Guacamole Shrimp Bites
+
+date: 2025-02-24, from: Taste of Home
+
+These guacamole shrimp bites are the perfect appetizer for your next party. They're colorful, bright and crisp with California flavors. —Taste of Home Test Kitchen 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/guacamole-shrimp-bites/>
+
+---
+
+## Huckleberry Jam Thumbprints
+
+date: 2025-02-24, from: Taste of Home
+
+Described as a cross between a blueberry and a raspberry, huckleberries are a sweet and tart fruit that grows in the northwest region of the U.S. These nutty and crunchy cookies are filled with gooey huckleberry jam. —Taste of Home Test Kitchen 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/huckleberry-jam-thumbprints/>
+
+---
+
+## Homemade Moon Pies
+
+date: 2025-02-24, from: Taste of Home
+
+My husband loved moon pies when he was a child, and he loves this homemade version now. Add jam or dulce de leche to the southern cookie sandwich before adding the marshmallow creme, if desired. —Shawn Barto, Palmetto, Florida 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/homemade-moon-pies/>
+
+---
+
+## New Jersey Pork Roll Sliders
+
+date: 2025-02-24, from: Taste of Home
+
+Pork roll, or Taylor ham, is New Jersey’s most iconic food. Here, the processed meat is topped with eggs and American cheese for a quintessential New Jersey breakfast. These sliders can also be served at parties! —Margaret Knoebel, Milwaukee, Wisconsin 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/new-jersey-pork-roll-sliders/>
+
+---
+
+## Three New US Coffee Champions Have Been Crowned
+
+date: 2025-02-24, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Congratulations to all the winners! 
+
+<br> 
+
+<https://sprudge.com/three-new-us-coffee-champions-have-been-crowned-286764.html>
+
+---
+
+## Starbucks Coffee is Laying Off 1,100 Corporate Employees
+
+date: 2025-02-24, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks Center" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seattle-based Starbucks Coffee is laying off 1,100 corporate staff members as part of a shakeup led by CEO Brian Niccol. Niccol, the former Chipotle CEO who took over the position... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/24/starbucks-coffee-is-laying-off-1100-corporate-employees/>
 
 ---
 
@@ -13,7 +161,7 @@ updated: 2025-02-24 07:09:03
 
 date: 2025-02-24, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Tailwind Roasting Collaborative Chicago 7" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In the notoriously windy city of Chicago, a new coffee roasting incubator business seeks to be the wind beneath the wings of small-scale or startup roasting operations. Green coffee expert... 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Tailwind Roasting Collaborative Chicago 7" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In the notoriously windy city of Chicago, a new coffee roasting incubator business seeks to be the wind beneath the wings of small-scale or startup roasting operations. Green coffee expert... 
 
 <br> 
 
@@ -25,7 +173,7 @@ date: 2025-02-24, from: Daily Coffee News
 
 date: 2025-02-24, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Northshore Specialty Coffee Jackson inside" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In Jackson, Mississippi, Northshore Specialty Coffee is growing in waves with the opening of its new 13,000-square-foot production roastery, plus its first brick-and-mortar cafe. Freshly roasted coffees from a new... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Northshore Specialty Coffee Jackson inside" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Northshore-Specialty-Coffee-Jackson-inside.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>In Jackson, Mississippi, Northshore Specialty Coffee is growing in waves with the opening of its new 13,000-square-foot production roastery, plus its first brick-and-mortar cafe. Freshly roasted coffees from a new... 
 
 <br> 
 
@@ -102,6 +250,20 @@ date: 2025-02-24, from: Chili Pepper Madness
 <br> 
 
 <https://www.chilipeppermadness.com/recipes/guinness-beef-stew/>
+
+---
+
+## What Is Balsamic Vinegar?
+
+date: 2025-02-24, from: Taste of Home
+
+<p>Here's everything you need to know about traditional balsamic vinegar, including where it's made and how to cook with it.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-is-balsamic-vinegar/">What Is Balsamic Vinegar?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-is-balsamic-vinegar/>
 
 ---
 

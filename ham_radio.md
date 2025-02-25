@@ -1,11 +1,53 @@
 ---
 title: ham radio
-updated: 2025-02-24 07:08:58
+updated: 2025-02-25 07:08:59
 ---
 
 # ham radio
 
-(date: 2025-02-24 07:08:58)
+(date: 2025-02-25 07:08:59)
+
+---
+
+## RRAM: Non-volatile memory for high-performance embedded applications
+
+date: 2025-02-25, from: EDN Blog
+
+<img width="900" height="316" src="https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?fit=900%2C316" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=900 900w, https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=768 768w" sizes="(max-width: 900px) 100vw, 900px" /><p>Resistive RAM claims to be ideal for consolidating both code storage and data logging in a single external memory.</p>
+<p>The post <a href="https://www.edn.com/rram-non-volatile-memory-for-high-performance-embedded-applications/" data-wpel-link="internal">RRAM: Non-volatile memory for high-performance embedded applications</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/rram-non-volatile-memory-for-high-performance-embedded-applications/>
+
+---
+
+## Easing the development burden for embedded systems
+
+date: 2025-02-24, from: EDN Blog
+
+<img width="1246" height="837" src="https://www.edn.com/wp-content/uploads/AI-coding-assistant_Figure-5.png?fit=1246%2C837" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/AI-coding-assistant_Figure-5.png?w=1246 1246w, https://www.edn.com/wp-content/uploads/AI-coding-assistant_Figure-5.png?w=300 300w, https://www.edn.com/wp-content/uploads/AI-coding-assistant_Figure-5.png?w=768 768w, https://www.edn.com/wp-content/uploads/AI-coding-assistant_Figure-5.png?w=1024 1024w" sizes="auto, (max-width: 1246px) 100vw, 1246px" /><p>With the AI coding assistant and the unified compiler, Microchip wants to ease the hardware-software development burden. </p>
+<p>The post <a href="https://www.edn.com/easing-the-development-burden-for-embedded-systems/" data-wpel-link="internal">Easing the development burden for embedded systems </a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/easing-the-development-burden-for-embedded-systems/>
+
+---
+
+## EcoFlow’s RIVER 2: Svelte portable power with lithium iron phosphate fuel
+
+date: 2025-02-24, from: EDN Blog
+
+<img width="1400" height="1331" src="https://www.edn.com/wp-content/uploads/in-use-overview.jpg?fit=1400%2C1331" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/in-use-overview.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/in-use-overview.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/in-use-overview.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/in-use-overview.jpg?w=1024 1024w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>Lightweight. Compact. Powerful. Input- and output-diverse. Long-life battery. And seemingly brand new but priced like a refurb. I’ll take it!</p>
+<p>The post <a href="https://www.edn.com/ecoflows-river-2-svelte-portable-power-with-lithium-iron-phosphate-fuel/" data-wpel-link="internal">EcoFlow’s RIVER 2: Svelte portable power with lithium iron phosphate fuel</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ecoflows-river-2-svelte-portable-power-with-lithium-iron-phosphate-fuel/>
 
 ---
 
@@ -13,7 +55,7 @@ updated: 2025-02-24 07:08:58
 
 date: 2025-02-24, from: EDN Blog
 
-<img width="800" height="413" src="https://www.edn.com/wp-content/uploads/Hero-image-IEM-Knowles.png?fit=800%2C413" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-IEM-Knowles.png?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-IEM-Knowles.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-IEM-Knowles.png?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>Multi-driver in-ear monitors (IEMs) are at the heart of today’s immersive listening experiences.</p>
+<img width="800" height="413" src="https://www.edn.com/wp-content/uploads/Hero-image-IEM-Knowles.png?fit=800%2C413" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-IEM-Knowles.png?w=800 800w, https://www.edn.com/wp-content/uploads/Hero-image-IEM-Knowles.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-IEM-Knowles.png?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Multi-driver in-ear monitors (IEMs) are at the heart of today’s immersive listening experiences.</p>
 <p>The post <a href="https://www.edn.com/designing-better-listening-experiences-with-multi-driver-iems/" data-wpel-link="internal">Designing better listening experiences with multi-driver IEMs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

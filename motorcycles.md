@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-02-24 07:09:02
+updated: 2025-02-25 07:09:03
 ---
 
 # motorcycles
 
-(date: 2025-02-24 07:09:02)
+(date: 2025-02-25 07:09:03)
+
+---
+
+## Carson Hocevar, ‘We’re Here To Win Races, Not Be A Boy Band’
+
+date: 2025-02-25, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor HAMPTON, Ga. – Carson Hocevar was a very popular driver following his runner-up finish in the NASCAR Cup Series race at Atlanta Motor Speedway but that&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/carson-hocevar-were-here-to-win-races-not-be-a-boy-band/>
+
+---
+
+## Is Kawasaki Putting a Supercharged Superbike Engine Into a UTV?
+
+date: 2025-02-25, from: Ride Apart, Electric Motorcycle News
+
+If this only ever amounts to a tease, Kawasaki can lose my number. 
+
+<br> 
+
+<https://www.rideapart.com/news/751671/kawasaki-supercharged-h2-utv-build/>
+
+---
+
+## Triumph Is Recalling the TF 250-X For a Potentially Serious Issue
+
+date: 2025-02-25, from: Ride Apart, Electric Motorcycle News
+
+When you stick a piece of plastic next to a brake reservoir, what's one thing you want that plastic to do? 
+
+<br> 
+
+<https://www.rideapart.com/news/751501/triumph-tf250x-switchgear-recall-brake/>
+
+---
+
+## Honda’s New Naked Sportbike Is Tiny, and Makes a Whole Bunch Of Sense
+
+date: 2025-02-25, from: Ride Apart, Electric Motorcycle News
+
+How does a sub-200cc naked streetfighter sound? Oh, and it’s priced south of $2,000. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/751541/2025-honda-hornet20-launch-india/>
+
+---
+
+## Willow Spring International Raceway Was Just Bought, and We're Not Sure What'll Happen
+
+date: 2025-02-25, from: Ride Apart, Electric Motorcycle News
+
+There are a few ways this could go, but one way it'll likely go. 
+
+<br> 
+
+<https://www.rideapart.com/news/751488/willow-springs-international-raceway-private-equity-sale/>
+
+---
+
+## Is BMW Buying KTM?
+
+date: 2025-02-24, from: Ride Apart, Electric Motorcycle News
+
+Keanu Whoa dot gif. 
+
+<br> 
+
+<https://www.rideapart.com/news/751628/bmw-ktm-buyout-insolvency-motorcycles/>
 
 ---
 

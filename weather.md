@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-02-24 07:09:00
+updated: 2025-02-25 07:09:00
 ---
 
 # weather
 
-(date: 2025-02-24 07:09:00)
+(date: 2025-02-25 07:09:00)
 
 ---
 
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
 
-date: 2025-02-24, from: Eastern Pacific Basin GIS Data
+date: 2025-02-25, from: Central Pacific Basin Tropical Cyclones
 
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
 
 <br> 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Mon Feb 24 14:58:02 UTC 2025
+## SPC - No watches are valid as of Tue Feb 25 14:58:01 UTC 2025
 
-date: 2025-02-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Mon Feb 24 14:58:02 UTC 2025. 
+No watches are valid as of Tue Feb 25 14:58:01 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Mon Feb 24 14:58:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Mon Feb 24 14:58:02 UTC 2025
+## SPC - No MDs are in effect as of Tue Feb 25 14:58:01 UTC 2025
 
-date: 2025-02-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Mon Feb 24 14:58:02 UTC 2025. 
+No Mesoscale Discussions are in effect as of Tue Feb 25 14:58:01 UTC 2025. 
 
 <br> 
 
@@ -45,88 +45,58 @@ No Mesoscale Discussions are in effect as of Mon Feb 24 14:58:02 UTC 2025.
 
 ---
 
-## SPC Feb 24, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Feb 25, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-02-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0630 AM CST Mon Feb 24 2025
+0632 AM CST Tue Feb 25 2025
 
-Valid 241300Z - 251200Z
+Valid 251300Z - 261200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS OVER FAR
-SOUTHERN FL INCLUDING THE KEYS...AND OVER PARTS OF EASTERN OR AND
-WA...
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Scattered strong storms will be possible across the Florida Keys and
-into far southern Florida from late afternoon through evening.
-Localized damaging gusts or a brief tornado may occur. Isolated
-strong winds are also expected from the Oregon Cascades into
-southeast Washington.
+Isolated thunderstorms are possible from the northern and central
+Plains today into the Mid Mississippi Valley overnight. A few
+isolated thunderstorms are possible across western Colorado as well.
+Severe thunderstorms are not anticipated.
 
-...Far Southern FL and the FL Keys...
-Shortwave trough currently progressing off the TX Coast is expected
-to continue eastward across the Gulf today, reaching the FL
-Peninsula by early tomorrow morning. Cold mid-level temperatures and
-strengthening mid-level flow that accompany this shortwave are
-expected to spread over central/southern FL and the FL Keys after
-03Z. An attendant surface low attendant will progress quickly
-eastward just ahead of the parent shortwave. The general consensus
-among the guidance is for this low to be just off the west-central
-FL Coast around 00Z before continuing across the central FL
-Peninsula and into the western Atlantic by 12Z Tuesday.
+...Synopsis and Discussion...
+Early morning satellite imagery reveals an active northern stream,
+with one shortwave trough progressing through the Upper Great
+Lakes/OH Valley and another moving into the northern Rockies,
+downstream of a cyclone moving into southern British Columbia. The
+lead shortwave is forecast to continue eastward throughout the day,
+moving off the Northeast coast this evening. The second wave is also
+forecast to continue eastward (perhaps slightly east-southeastward),
+moving through the northern Plains this evening and into the Upper
+Midwest by early tomorrow morning. Another shortwave trough will
+follow quickly behind this second wave, progressing southeastward
+from the Pacific Northwest into the northern Rockies and UT.  
 
-Moistening of the low-level airmass is expected ahead of the
-shortwave trough and attendant surface low, particularly after 18Z.
-Widespread showers throughout the day will likely mitigate buoyancy
-somewhat, but little to no surface-based inhibition is expected
-south of the warm front (which will extend eastward from the surface
-low across the central FL Peninsula) from the late afternoon onward.
-Thunderstorm coverage should increase along and ahead of the front
-as it gradually pushes eastward. 
+At the surface, a low will move across the northern/central Plains
+just ahead of the previously mentioned shortwave trough moving
+across the northern Plains. Strong forcing for ascent and cooling
+mid-level temperatures will support the potential for a few
+thunderstorms near this surface low as it moves over the Dakotas
+this afternoon and evening. A similar scenario is anticipated
+farther south, where some isolated thunderstorms are possible this
+in the vicinity of a weak secondary surface low over central KS.
+Continued mid-level moistening within a steep lapse rate environment
+ahead of this wave will contribute to a persisting potential for
+isolated thunderstorms from the Mid MO Valley into southern
+WI/northern IL late tonight/early tomorrow.
 
-Dewpoints near 70s across south FL and the FL Keys will result in
-stronger buoyancy and the potential for deeper, more long-lived
-updrafts. Strong vertical shear over the region supports the
-potential for a few supercells with an attendant risk for damaging
-wind gusts and a brief tornado or two. The development of a
-low-level convergence zone is possible, which could result in a
-favored corridor for strong to severe storms. Currently, this zone
-is expected to remain just off south FL Coast, but a few storms in
-this area could impact the Keys.
+Some isolated thunderstorms could also occur across western CO where
+modest buoyancy could develop amid strong boundary-layer mixing and
+cooling mid-level temperatures. Persistent large-scale forcing for
+ascent within this environment could support a few thunderstorm
+during the afternoon and evening.
 
-...Interior Pacific Northwest...
-Recent satellite imagery shows an intense shortwave trough off the
-Pacific Northwest coast, moving quickly northeastward. This
-shortwave is forecast to continue northeastward throughout the day,
-reaching the coastal Pacific Northwest this afternoon and the
-interior Pacific Northwest tonight. A frontal band, with occasional
-lightning, is expected to develop along the leading edge of the
-strong forcing for ascent associated with this system. Temperatures
-could reach the upper 50s/low 60s ahead of this line in northeast
-OR/southwest WA amid steep low-level lapse rates and modest
-buoyancy. As such, the overall environment supports the potential
-for strong downbursts within the line as it moves across the region.
-
-...Eastern Dakotas into the Mid MS Valley...
-The low-amplitude shortwave trough currently moving through MT is
-expected to continue southeastward today, moving across the northern
-Plains and IA before ending the period over IL. A compact but strong
-jet streak will accompany this shortwave, with 500-mb winds within
-this streak from 90 to 100 kt. The downstream airmass will be dry,
-and strong heating/mixing will help push afternoon temperatures into
-the upper 50s and low 60s. Despite dry low levels, some modest
-buoyancy is possible amid the deep mixing and cold mid-level
-temperatures. Consequently, a few shallow thunderstorms are possible
-as the strong forcing for ascent attendant to the shortwave
-interacts with this limited buoyancy. Small hail and strong outflow
-is possible with these storms, but overall coverage is currently
-expected to remain too isolated to introduce any probabilities.
-
-..Mosier/Grams.. 02/24/2025
+..Mosier/Grams.. 02/25/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

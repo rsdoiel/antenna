@@ -1,11 +1,458 @@
 ---
 title: columns
-updated: 2025-02-24 07:08:59
+updated: 2025-02-25 07:09:00
 ---
 
 # columns
 
-(date: 2025-02-24 07:08:59)
+(date: 2025-02-25 07:09:00)
+
+---
+
+##  Trump Administration Litigation Tracker. &#8220;The table below tracks legal challenges to the... 
+
+date: 2025-02-25, updated: 2025-02-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046310-trump-administration-liti>
+
+---
+
+## The last moment is passing
+
+date: 2025-02-25, from: Dave Winer's Scripting News
+
+<p>I posted <a href="https://bsky.app/profile/scripting.com/post/3lixpclusms2l">something sad</a> on Bluesky last night. It was short, but the thinking behind it wasn't. Here's the quote:</p>
+<ul>
+<li>It might be the last minute but we can still legally remove Trump, and objectively it’s the only thing that makes any sense.</li>
+</ul>
+<p>I got two responses from <a href="https://muckrack.com/karoli-kuns">Karoli Kuns</a>, an early blogger, and editor at Crooks and Liars, a long-lived blog that if I recall correctly was started with software I wrote in 2002, so I feel some pride in helping in a small way to enable her accomplishments and contributions, which are long-lived and substantial. Both of her responses missed the sadness in my post, the reflectiveness, but rather did what a lot of arguing online devolves to, showing someone else that their thinking is wrong. I couldn't think straight I was so angry, so I just said no, I'm not going to do this. Lots of experience trying to explain myself in little 300-character bursts, there's no reason to add to the grief of the moment. </p>
+<p>But this morning I opened up my Bluesky window and started typing. What came out was far too long to post there, and even a screen shot doesn't fit in the space allotted, so my only choice is to blog it and <a href="https://bsky.app/profile/scripting.com/post/3liyx4zmogs26">post</a> a link on Bluesky. I hope she reads it, because we're not out of options, and as I say in this story, we should be working together, and as far as I know we are not. I say this to everyone I think is making a contribution, my belief that if we can steer our efforts so they are complementary we can square each others' power. It's imho the beginning of our way out of this situation. </p>
+<p>Anyway, this is what I wrote. (Note when writing this stuff I tend not to capitalize, a lazy habit I have developed. I decided not to edit that here, just to leave it as it was written.)</p>
+<ul>
+<li>karoli -- there's a lot to say about this, and i don't like arguing on social networks, and it was late, and i didn't feel like getting into it with you.</li>
+<li>anyway i wrote what i wrote not as a plan but rather a note that we're passing a line, over which there soon won't be any recourse. we probably are already over the line, but if by some miracle the repubs saw clearly that this was the last chance and enough of them decided to do what so far they have been unwilling to do, there would be a fight. i wasn't saying i thought it was likely, which is what your rebuttals were rebutting, i was just sharing a sad observation that i had made earlier in the day when i was thinking this through. i like to do that because it's part of my creativity. sometimes you think of the ideal answer, and it leads you back to an acceptable answer -- in software design and in writing (which is what i do pretty well with lots of experience).</li>
+<li>what was really frustrating is that i think you and i should be collaborating. giving me grief over something so ridiculous was about 180 degrees opposite of where i think we should be. that we are still doing this to each other, gives an idea of how we got here. the democrats pick on classes of people, sometimes destroying their lives, and big surprise -- a lot of them vote for the other party. i think you think you can dis me the way you did because of my gender, or age, or race, or who the fuck knows. and for all i know you were just having a bad moment and decided to share it with me for some reason having nothing to do with what was bothering me. </li>
+<li>karoli -- i think we have to bend over backwards to be kind to each other. we're all going through a terrible time, in ways that may not be obvious. i certainly am, and i don't want to share it with you, but it comes on top of the crazy uncertainty of the political world. </li>
+<li>anyway that's my response, and maybe now you can see why, as the day was winding down and i was watching some basketball on tv, i didn't feel like getting into it with you.</li>
+<li>the struggle isn't over -- they had antiwar demonstrations in russia, a country that has the kind of government ours is about to become. and the sooner we accept the new reality and get smart about it, and i'm not talking about the repubs, i'm talking about us, the shorter the nightmare will be imho.</li>
+</ul>
+<p>An afterthought -- the reason it makes sense for the Repubs to join us in removing Trump is the turn away from democratic Europe and toward the authoritarians. <i>This just happened,</i> and it's shocking. We don't even know how to think of ourselves. If I were a Republican, I would think my world just turned upside down. They didn't believe it would come to this, as far as I can tell. So it may be a time when real change is possible. We've become so fatalistic that we couldn't even recognize such an opportunity. </p>
+<p>The Atlantic <a href="https://www.theatlantic.com/newsletters/archive/2025/02/what-would-a-liberal-tea-party-look-like/681819/">asked</a> in a story yesterday what a liberal <a href="https://en.wikipedia.org/wiki/Tea_Party_movement">tea party movement</a> would look like. They're doing it too. We should create an <i>American</i> tea party. We're so addicted to divides we can't see when we're doing it ourselves. </p>
+<p>And btw, having explained all that was overlooked in my simple idea, if we managed to remove Trump, what part of your mind thinks we wouldn't also remove Vance? Geez Louise. <span class="spOldSchoolEmoji">😄</span></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/25/125925.html?title=theLastMomentIsPassing>
+
+---
+
+## Our Muslim Boy Wonder
+
+date: 2025-02-25, from: Michael Moore's blog
+
+Who's really being removed by ICE tonight? The child who would've discovered the cure for cancer in 2046? The 9th grade nerd who would&#8217;ve stopped that Astroid that&#8217;s gonna hit us in 2032? Do we care? 
+
+<br> 
+
+<https://www.michaelmoore.com/p/our-muslim-boy-wonder>
+
+---
+
+## OBS-tacle course: Fedora and Flathub's Flatpak fiasco sparks repo rumble
+
+date: 2025-02-25, updated: 2025-02-25, from: Liam Proven's articles at the Register
+
+<h4>Dispute settled, but not the causes</h4>
+      <p>A clash over different Flatpak-packaged versions of OBS Studio highlights problems with distro-maintained software repositories versus external ones.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/02/25/fedora_obs_flatpak_dispute/>
+
+---
+
+## What Trump is really trying to do
+
+date: 2025-02-25, from: Robert Reich's blog
+
+And what we must do 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-meaning-of-tyranny>
+
+---
+
+## The curl roadmap webinar 2025
+
+date: 2025-02-25, from: Daniel Stenberg Blog
+
+On March 6 2025 at 18:00 UTC, I am doing a curl roadmap webinar, talking through a set of features and things I want to see happen in curl during 2025. Figure out my local time. This is an opportunity for you to both learn about the plans but also to provide feedback on said &#8230; <a href="https://daniel.haxx.se/blog/2025/02/25/the-curl-roadmap-webinar-2025/" class="more-link">Continue reading <span class="screen-reader-text">The curl roadmap webinar 2025</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/02/25/the-curl-roadmap-webinar-2025/>
+
+---
+
+## February 24, 2025
+
+date: 2025-02-25, from: Heather Cox Richardson blog
+
+Three years ago today, a massive influx of Russian troops crossed into Ukraine to join the troops that had been there since the 2014 invasion. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-24-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-25, from: Miguel de Icaza Mastondon feed)
+
+<p>This is what Kier would have wanted is the new this is what Steve would have wanted.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114062390822051844>
+
+---
+
+## The Talk Show: ‘Nothing Is Possible’
+
+date: 2025-02-25, updated: 2025-02-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2025/02/24/ep-417>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Godot update: i did some poor man’s data driven decision using GitHub code search and I think I have another important tab to finish reimplementing - tile map layer.</p><p>Just 5,000 lines of code.</p><p>Update soon!</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114061758535970052>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-25, from: Miguel de Icaza Mastondon feed)
+
+<p>Folks, I am out of Barolos and I am now resorting to the dollar store wine-in-box for dinner.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114061703589139165>
+
+---
+
+## Trump’s Most Dangerous Move Yet?
+
+date: 2025-02-25, from: Dan Rather's Steady
+
+Politicizing the military 
+
+<br> 
+
+<https://steady.substack.com/p/trumps-most-dangerous-move-yet>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-24, from: Dave Winer's Scripting News)
+
+<a href="https://mrbrianpuck.wordpress.com/2025/02/24/260/">WordLand user</a>: "Does it make a difference if I can just dash off a short note without all the other bullshit that goes with publishing online." Yes, it should be as easy to take a note in WordPress as it is in Bluesky. I didn't buy that assumption that WordPress has to be heavy machinery for writers. What if I just want to write something quickly and get back to the other thing I was working on. Also the edit box in WordLand starts out the size of a tiny little text box, but grows as you add more words. You are allowed to keep going. No character limit. 
+
+<br> 
+
+<http://scripting.com/2025/02/24.html#a235458>
+
+---
+
+## [Sponsor] Protect Your App With WorkOS Radar
+
+date: 2025-02-24, updated: 2025-02-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/radar?utm_source=daringfireball&utm_medium=RSS&utm_campaign=q12025>
+
+---
+
+##  As Facebook Abandons Fact-Checking, It&#8217;s Also Offering Bonuses for Viral Content. &#8220;The... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046305-as-facebook-abandons-fact>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-24, from: Dave Winer's Scripting News)
+
+Just saw a report that styling isn't working in WordLand in latest versions of Safari. We're using <a href="https://github.com/yabwe/medium-editor">MediumEditor</a> to do the editing. Did a quick query in Claude.ai and there do appear to be some compatibility issues with Safari. A request that people actually report these problems in the repo, via the Support link in the main menu, otherwise it's hit or miss. Thanks. 
+
+<br> 
+
+<http://scripting.com/2025/02/24.html#a213727>
+
+---
+
+##  Actress Hunter Schafer&#8217;s gender marker was changed to &#8220;male&#8221; on her US... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046306-actress-hunter-schafers-g>
+
+---
+
+## Mission Accomplished: Trump Likes Apple’s Plan, Especially the Part About Mexico That I Don’t Think Was Real
+
+date: 2025-02-24, updated: 2025-02-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.axios.com/2025/02/24/apple-investment-trump-tim-cook>
+
+---
+
+## Apple Announces Plan to Spend More Than $500 Billion in the U.S. Over the Next Four Years (Which Is Probably Exactly What They’ve Been Planning to Do)
+
+date: 2025-02-24, updated: 2025-02-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2025/02/apple-will-spend-more-than-500-billion-usd-in-the-us-over-the-next-four-years/>
+
+---
+
+##  Inalienable Rights vs. Conditional Privileges 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/inalienable-rights-vs-conditional-privileges>
+
+---
+
+##  AOC Shows How to Fight Back and Stand Strong. &#8220;AOC&#8217;s stand for... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046307-aoc-shows-how-to-fight>
+
+---
+
+##  Andor Season Two Trailer 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/andor-season-two-trailer>
+
+---
+
+##  This website is tracking how many people have lost their jobs because... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046303-this-website-is-tracking->
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-24, from: Miguel de Icaza Mastondon feed)
+
+<p>Humanity loving people, I will be on a panel on the launch of Enterpreneurs for Palestine this Wednesday, would love if you could join us.</p><p><a href="https://entrepreneursforpalestine.com/official-launch/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">entrepreneursforpalestine.com/</span><span class="invisible">official-launch/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114060182203849950>
+
+---
+
+## HP Added a 15-Minute Waiting Time for Telephone Support Calls
+
+date: 2025-02-24, updated: 2025-02-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theregister.com/2025/02/20/hp_deliberately_adds_15_minutes/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-24, from: Dave Winer's Scripting News)
+
+Since Bluesky gave us the ability to limit responses to people I follow, the amount of spam/abuse has been reduced to a trickle. People can still comment, by quoting my post. But they want to <a href="https://this.how/trolls/">troll</a>, to gain exposure to my followers. Helping promote <i>my</i> ideas is not their idea of fun. 
+
+<br> 
+
+<http://scripting.com/2025/02/24.html#a175745>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-24, from: Dave Winer's Scripting News)
+
+Would have preferred if, when <a href="https://thehill.com/homenews/media/5160187-msnbc-cancels-joy-reid-show-in-major-shake-up/">replacing Joy Reid</a>, MSNBC had hired someone in Detroit or Miami, or St Louis or Dallas. Or a different city each day. Put yourself where the people are. The drumbeat: Enough is enough. 
+
+<br> 
+
+<http://scripting.com/2025/02/24.html#a175406>
+
+---
+
+## Sigma BF
+
+date: 2025-02-24, updated: 2025-02-24, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.sigma-global.com/en/cameras/bf/>
+
+---
+
+##  From Last Week Tonight With John Oliver, a list of instructions on... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046301-from-last-week-tonight-wi>
+
+---
+
+##  A collection of videos of people fighting back against the Trump administration,... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046302-a-collection-of-videos-of>
+
+---
+
+## NUT on my Pi, so my servers don't die
+
+date: 2025-02-24, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">NUT on my Pi, so my servers don't die</span>
+
+            <p></p>
+
+<p>A few weeks ago, <a href="https://www.youtube.com/watch?v=fLt5YhOubxk&amp;t=207s">power went out for the first time in my studio space</a>, and that meant all my servers just had power cut with no safe shutdown.</p>
+
+<p>Handling power outages is never a top priority... until it's the <em>only</em> priority! And by then it's usually too late! Luckily for me, no data was lost, and my servers all came back up safely.</p>
+
+<p>This week the power company emailed and said they'd be cutting power for maintenance next week, but they don't have an exact time. So it's even more excuse to finally set up NUT on a Pi!</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 24, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/nut-on-my-pi-so-my-servers-dont-die>
+
+---
+
+##  Fired NPS, USFS, BLM Employees Share Their Stories 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/fired-nps-usfs-blm-employees-share-their-stories>
+
+---
+
+##  Following a public uproar, the Trump administration is walking back some of... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046299-following-a-public-uproar>
+
+---
+
+## Day 4 of WordLand
+
+date: 2025-02-24, from: Dave Winer's Scripting News
+
+<p>Aziz Poonawalla wrote a <a href="https://azizhp.wordpress.com/2025/02/24/7482/">review</a> of WordLand. I'd like to respond.</p>
+<p>First, I'd like to say I put a lot of thought into this product, so it is the way it is for good reason.</p>
+<p>I'm trying to escape from the limits of twitter-like systems. I want a writing world where we get the features of <a href="https://textcasting.org/">textcasting</a>. So your belief that the product has to support Bluesky and Mastodon cross-posting would be like saying an EV should only run on gasoline. The whole point is to <i>not</i> limit ourselves to the features of Bluesky. </p>
+<p>On the other hand, I'm not saying limits in software aren't good. A product is as much defined by what it can't do as with what it does. All feed reading software has to strip large amounts of HTML from what it finds in feeds, because RSS doesn't place any limits what you can use. So we strip off all the HTML except (in FeedLand) simple styling and links. And so to fit into FeedLand and as a suggestion to other feed reading software, I've said my limit is Markdown. I think we can all support that. I ran the idea by my former colleague Brent Simmons, who does <a href="https://netnewswire.com/">NetNewsWire</a>, and he was quickly convinced, and plans to support it in his product. This is a way to get new stuff happening in the RSS world. Start with supporting the <a href="https://source.scripting.com/#1653758422000">source:markdown</a> element in your feeds and in your feed reader. </p>
+<p>You say there's no use-case -- but there is a use-case, just not for you which is fine. </p>
+<p>The typical user is a writer who publishes to WordPress. As passionate as I am about the limits of twitter-like systems, I am also feel that WordPress has never adequately served the needs of writers, and what a shame that is. <a href="https://wordland.social/">WordLand</a>, imho, is exactly what writers need. Get all the other non-writing stuff out of my way. Let me clear a space for iterating over something I publish to the web. Give me a menu with all my documents, so I can quickly make a change. These are the basic principles we implemented successfully in <a href="http://radio.userland.com/">Radio UserLand</a> in 2002. They were available for anyone in the WordPress world to copy, but for some reason they didn't. It's so weird to me, I'm like a time traveler who has come 20 years in the future to find out they lost the <i>purpose</i> of a product like WordPress. It's supposed to be a place writers love to come to do their writing. I think when writers discover WordLand they will see a product designed by someone who is one of them. It's just a beginning, there's lots more to do. I take the long term view, a road to anywhere begins with one step.</p>
+<p>Back to Bluesky and Mastodon -- because they both support outbound RSS, we will be able to include stuff written there in our collections of published feeds. I fully intend to integrate features from FeedLand in WordLand. That's why the names are so similar. <span class="spOldSchoolEmoji">😄</span></p>
+<p>It's good that you like <a href="https://micro.blog/">micro.blog</a>, this isn't in the way of it and it isn't in the way of WordLand. I'm in regular contact with Manton, and if his product grows, I win because he's got the right model. He's still trying to work with the limited platforms and I, again, gave up. That right there defines the two products. </p>
+<p>Sometimes giving up is the right thing to do. The first time i gave up btw was in 2017, when I stopped trying to cross-post from Scripting News to Medium, Twitter, Facebook, etc. It was liberation. I had come to hate my writing because I couldn't use links, and I couldn't edit or have more than 140 chars. What a miserable existence, and I love writing, and I had to make a choice. I'm doing it again, but now have made the investment in meeting people with the kind of writing tool they expect and want. That was the same thing that worked so well with Radio. </p>
+<p>My real goal was to not need to do any of this! I would have much preferred if Bluesky had decided to break out of the tiny little box Twitter put them in. Then I could do all my writing there. And I wish WordPress had a team of developers working on making the product the best for writers in addition to programmers and designers, but they didn't. Should I give up there? Maybe. Maybe we were destined to give up on the web as a writer's platform. But I saw so much potential there in 1994 when I started working here exclusively. That potential is still very much there, you just have to believe, and against all odds, I do still believe. One more time, let's give it a try.</p>
+<p>Anyway, it's okay if you don't use it, but I wanted to disagree with some of your conclusions. :-)</p>
+<p>PS: I wrote every word on this page, not an AI bot, in case you were wondering. <span class="spOldSchoolEmoji">😄</span></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/24/153052.html?title=day4OfWordland>
+
+---
+
+##  From Eater, What Should You Do if ICE Comes to Your Restaurant?... 
+
+date: 2025-02-24, updated: 2025-02-24, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046298-from-eater-what-should-yo>
 
 ---
 
@@ -246,7 +693,7 @@ date: 2025-02-23, from: Jeff Geerling blog
 
 ## Linus Sebastian’s Thoughts After Switching to an iPhone for 30 Days
 
-date: 2025-02-23, updated: 2025-02-23, from: Daring Fireball
+date: 2025-02-23, updated: 2025-02-24, from: Daring Fireball
 
  
 

@@ -1,11 +1,161 @@
 ---
 title: home
-updated: 2025-02-24 07:09:02
+updated: 2025-02-25 07:09:02
 ---
 
 # home
 
-(date: 2025-02-24 07:09:02)
+(date: 2025-02-25 07:09:02)
+
+---
+
+## Purple Coneflower Care and Growing Guide (Most Detailed)
+
+date: 2025-02-25, from: Yard Life blog
+
+<p>Purple Coneflower, also known as Echinacea purpurea, is one of the most popular wildflowers, loved for its vibrant beauty and ... </p>
+<p class="read-more-container"><a title="Purple Coneflower Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/purple-coneflower-care-and-growing-guide-most-detailed/#more-23993" aria-label="Read more about Purple Coneflower Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/purple-coneflower-care-and-growing-guide-most-detailed/">Purple Coneflower Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/purple-coneflower-care-and-growing-guide-most-detailed/>
+
+---
+
+## When Did It Become So Hard to Buy Light Bulbs?
+
+date: 2025-02-25, from: Dwell
+
+Finally sworn off the "Big Light" but find yourself flummoxed in the hardware store? It’s not just you—lighting is (a little) more complicated these days. 
+
+<br> 
+
+<https://www.dwell.com/article/how-to-buy-light-bulbs-kelvins-lumens-31c1feaf>
+
+---
+
+## 38 Types of Geese (With Pictures and Identification)
+
+date: 2025-02-25, from: Yard Life blog
+
+<p>Geese are fascinating birds that come in many shapes, sizes, and colors. With their distinctive honks, strong migratory instincts, and ... </p>
+<p class="read-more-container"><a title="38 Types of Geese (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/38-types-of-geese-with-pictures-and-identification/#more-23954" aria-label="Read more about 38 Types of Geese (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/38-types-of-geese-with-pictures-and-identification/">38 Types of Geese (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/38-types-of-geese-with-pictures-and-identification/>
+
+---
+
+## 60 Snakes in Florida (With Pictures and Identification)
+
+date: 2025-02-25, from: Yard Life blog
+
+<p>Florida is home to a diverse range of snake species, making it one of the most fascinating states for reptile ... </p>
+<p class="read-more-container"><a title="60 Snakes in Florida (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/60-snakes-in-florida-with-pictures-and-identification/#more-23911" aria-label="Read more about 60 Snakes in Florida (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/60-snakes-in-florida-with-pictures-and-identification/">60 Snakes in Florida (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/60-snakes-in-florida-with-pictures-and-identification/>
+
+---
+
+## 45 Perennial Flowers That Bloom All Year (With Pictures)
+
+date: 2025-02-25, from: Yard Life blog
+
+<p>Choosing perennial flowers that bloom all year is the key to maintaining a vibrant and colorful garden in every season. ... </p>
+<p class="read-more-container"><a title="45 Perennial Flowers That Bloom All Year (With Pictures)" class="read-more button" href="https://ownyardlife.com/45-perennial-flowers-that-bloom-all-year-with-pictures/#more-23890" aria-label="Read more about 45 Perennial Flowers That Bloom All Year (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/45-perennial-flowers-that-bloom-all-year-with-pictures/">45 Perennial Flowers That Bloom All Year (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/45-perennial-flowers-that-bloom-all-year-with-pictures/>
+
+---
+
+## How Do Gas Pumps Know Your Tank Is Full?
+
+date: 2025-02-24, from: Family Handyman Blog
+
+<p>When you're filling up at the gas station, have you ever wondered how the gas pump knows when to shut off? Hint: It's not electronic sensors.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-do-gas-pumps-know-car-tank-full/">How Do Gas Pumps Know Your Tank Is Full?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-do-gas-pumps-know-car-tank-full/>
+
+---
+
+## 12 Genius Dishwasher Hacks That Go Beyond Cleaning Plates
+
+date: 2025-02-24, from: Family Handyman Blog
+
+<p>Discover creative uses for your dishwasher beyond washing dishes.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/dishwasher-hacks/">12 Genius Dishwasher Hacks That Go Beyond Cleaning Plates</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/dishwasher-hacks/>
+
+---
+
+## CDFA Secretary Karen Ross invites you to Ag Day on March 19, 2025!
+
+date: 2025-02-24, from: Calfifornia Dept. Aggriculture blog
+
+On Wednesday, March 19, California&#8217;s agricultural community will gather on the west steps of the State Capitol in celebration of California Agriculture Day. CDFA and its partners for the event, California Women for Agriculture and the California Foundation for Agriculture &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28606">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28606>
+
+---
+
+## Before & After: Color Runs Wild in This Once-Beige Clinton Hill Apartment
+
+date: 2025-02-24, from: Dwell
+
+The Brooklyn home now relishes in a range of blues, greens, and orangey-reds, with terrazzo and tile to spare. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-clinton-hill-duplex-apartment-renovation-studio-officina-58fa67a6>
+
+---
+
+## In Kyoto, a Revamped  Townhouse Clad in Charred Cedar Seeks $370K
+
+date: 2025-02-24, from: Dwell
+
+Set in the city’s historic district, the serene one-bedroom machiya has exposed beams, new wood floors, and an updated kitchen and bath. 
+
+<br> 
+
+<https://www.dwell.com/article/renovated-machiya-townhouse-matthew-foster-kyoto-japan-real-estate-5ad64c81>
+
+---
+
+## How to Plant and Grow Elderberries
+
+date: 2025-02-24, from: The Gardener's Path
+
+<p>Elderberries are the ultimate dual-purpose plants, doubling as both ornamentals and food-providing edibles. The shrubs or small trees have beautiful foliage and flowers, plus tasty berries packed with nutrients. Learn all about growing and caring for plants in the Sambucus genus in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/grow-elderberries/">How to Plant and Grow Elderberries</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/grow-elderberries/>
 
 ---
 
@@ -33,6 +183,18 @@ date: 2025-02-24, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/royal-palm-care-and-growing-guide-most-detailed/>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-24, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 

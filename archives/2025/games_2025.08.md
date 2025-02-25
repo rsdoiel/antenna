@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-02-24 07:09:00
+updated: 2025-02-25 07:09:01
 ---
 
 # games
 
-(date: 2025-02-24 07:09:00)
+(date: 2025-02-25 07:09:01)
+
+---
+
+## The War Within’s first patch is a goblin paradise packed full of fun details
+
+date: 2025-02-25, updated: 2025-02-25, from: Polygon Website
+
+The War Within is a solid expansion so far, and Blizzard is preparing for the first major patch, which will take players to the trade capital of the goblins. The goblins have been part of Warcraft’s history since the real-time strategy games, but we haven’t always had the time to delve into their history or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/528545/world-warcraft-undermined-patch-dev-interview>
+
+---
+
+## Discoveries
+
+date: 2025-02-25, updated: 2025-02-25, from: Polygon Website
+
+At Polygon, we want to introduce you do at least one thing we think you&#8217;d love every single day. With so many games, movies, shows, and and internet-based quick bites (or &#8220;quibis&#8221;) out there to experience, we know it&#8217;s next to impossible to decide how to take a chance on the untested, dive into the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## The newest Two Point management sim is satisfying, monotonous, and punny
+
+date: 2025-02-25, updated: 2025-02-24, from: Polygon Website
+
+Two Point Museum does not care whether I have to make dinner or not. Like so many other titles in the genre, this management sim churns forward, upward, and onward until the end of time — or until burglars start stealing money from your donation bin because you forgot to give the security guards a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cozy-gaming/526988/two-point-museum-impressions-management-sim>
+
+---
+
+## Free League’s Invincible RPG is coming to a tabletop near you
+
+date: 2025-02-25, updated: 2025-02-24, from: Polygon Website
+
+Invincible, the hit comic series and hit Amazon Prime animated series, is getting its own official TTRPG setting, courtesy of the award-winning game designers at Free League Publishing.&#160; Partnering with Skybound Entertainment, D&#38;D Beyond founder Adam Bradford (who has also worked as a producer on titles in the modern Dungeons &#38; Dragons, Marvel, and Cortex [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/528603/invincible-superhero-tabletop-rpg-kickstarter-free-league>
+
+---
+
+## Lego unearths its largest Jurassic World set ever
+
+date: 2025-02-25, updated: 2025-02-24, from: Polygon Website
+
+In anticipation of the upcoming launch of Jurassic World Rebirth, Lego has just unveiled its largest Jurassic World set to date. The Jurassic World Dinosaur Fossils: Tyrannosaurus rex set is an astounding 3,145-piece recreation of one of prehistory’s most terrible thunder lizards, and measures over three feet in length. The $249.99 set will be available [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/528543/lego-jurassic-world-t-rex-set-where-to-buy>
+
+---
+
+## Logitech announces a sequel to its Powerplay mouse pad
+
+date: 2025-02-25, updated: 2025-02-25, from: Polygon Website
+
+Logitech is giving its Powerplay lineup of wireless charging accessories some much-needed juice with a follow-up to the Powerplay mouse pad. The Logitech Powerplay 2 mouse pad is a less expensive, and slimmer version of its original Powerplay mouse pad from 2017, and will be backwards compatible with Logitech’s existing family of Powerplay accessories. Compared [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pc/528626/logitech-powerplay-2-mouse-pad-where-to-buy>
+
+---
+
+## Stephen King says he isn’t writing for Mike Flanagan’s Dark Tower series
+
+date: 2025-02-24, updated: 2025-02-24, from: Polygon Website
+
+Stephen King is not writing for Mike Flanagan’s anticipated Dark Tower series, after all. “Contrary to the Internet (which usually is never wrong), I am NOT writing for Mike Flanagan&#8217;s DARK TOWER,” the author posted on Bluesky Monday afternoon. On Monday morning, IGN reported that King would be working with Flanagan on the upcoming TV [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/528196/dark-tower-series-stephen-king>
+
+---
+
+## Practical Pockets treasure map location and solution in Avowed
+
+date: 2025-02-24, updated: 2025-02-24, from: Polygon Website
+
+Practical Pockets is unusual as far as Avowed treasure maps go. This Emerald Stair map is looking out from the treasure&#8217;s location, not showing you where it is. Lucky for you, the location is within close reach and has few enemies patrolling nearby (unlike the region’s Painter&#8217;s Regret treasure map map). The reward at the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524444/practical-pockets-treasure-map-location-solution-reward>
+
+---
+
+## Painter’s Regret treasure map location and solution in Avowed
+
+date: 2025-02-24, updated: 2025-02-24, from: Polygon Website
+
+Painter&#8217;s Regret is one of the first treasure maps you can get in the Emerald Stair region of Avowed — and potentially one of the more dangerous quests there as well. The map itself is in a safe area, but the treasure location is surrounded by a group high-level enemies. Your reward is a trinket [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/524484/painters-regret-treasure-map-location-solution-reward>
+
+---
+
+## The best version of Sayonara Wild Hearts just hit PS5
+
+date: 2025-02-24, updated: 2025-02-24, from: Polygon Website
+
+After somehow both teasing it a month ago and shadow-dropping it Monday alongside Annapurna Interactive’s 2025 showcase, Sayonara Wild Hearts is now available on PlayStation 5. Granted, you’ve been able to play the PlayStation 4 version on PS5 forever, but now you can play in 4k with 120 fps visuals and haptic feedback in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/528790/sayonara-wild-hearts-ps5-impressions>
 
 ---
 
