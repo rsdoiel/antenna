@@ -1,11 +1,854 @@
 ---
 title: north america
-updated: 2025-02-25 07:08:57
+updated: 2025-02-26 07:08:35
 ---
 
 # north america
 
-(date: 2025-02-25 07:08:57)
+(date: 2025-02-26 07:08:35)
+
+---
+
+## Coffee with The Contrarians 02/26
+
+date: 2025-02-26, from: The Contrarian
+
+A recording from Norman Eisen and Jennifer Rubin's Coffee with The Contrarians 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0226>
+
+---
+
+## Recapturing the Supreme Court for the people 
+
+date: 2025-02-26, from: The Contrarian
+
+The first cases testing Trump&#8217;s overreach are lapping at the steps of the Supreme Court. 
+
+<br> 
+
+<https://contrarian.substack.com/p/recapturing-the-supreme-court-for>
+
+---
+
+## What February’s sharp declines in consumer sentiment mean for the economy
+
+date: 2025-02-26, from: Market Place
+
+The Conference Board reported the biggest monthly decline in consumer confidence since 2021. And the University of Michigan reported a sharp increase in inflation expectations.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/26/february-consumer-sentiment-decline-inflation-expectations/>
+
+---
+
+## The Aura of Invincibility is Fading
+
+date: 2025-02-26, from: The Contrarian
+
+Plenty of people are now taking swings at Trump 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-aura-of-invincibility-is-fading>
+
+---
+
+##  The Battle For Musk’s Evil Lair 
+
+date: 2025-02-26, from: The Lever News
+
+ States are quietly weakening corporate accountability to lure Elon Musk and other business interests.  
+
+<br> 
+
+<https://www.levernews.com/the-battle-for-musks-evil-lair/>
+
+---
+
+## 7 killed by Russian air attacks in Ukraine’s Kyiv, Donetsk regions
+
+date: 2025-02-26, from: VOA News USA
+
+Ukrainian officials said Wednesday that Russian aerial attacks in the Kyiv and Donetsk regions killed at least seven people.   
+
+
+Donetsk Governor Vadym Filashkin said on Telegram that preliminary information indicates Russian forces used guided bombs to hit the city of Kostyantynivka, killing at least five people and injuring eight others. 
+
+
+In the Kyiv region, Governor Mykola Kalashnyk said Russian attacks killed at least two people and injured two others. 
+
+
+Kalashnyk said on Telegram that the attack also damaged nine houses and four multi-story residential buildings.  
+
+
+The Ukrinform news agency said journalist Tetyana Kulyk was one of those killed. It said a Russian drone struck her house.   
+
+
+Fragments from destroyed drones damaged apartment buildings, a university building, and a theater in the Kharkiv region in eastern Ukraine, the regional governor said Wednesday.    
+
+
+Ukraine’s military said Wednesday it shot down 110 of the 177 drones that Russian forces used in their latest overnight attacks.    
+
+
+Russia’s Defense Ministry said Wednesday its air defenses destroyed 130 Ukrainian drones, more than half of which were shot down over the Krasnodar region located along the Black Sea.    
+
+
+Krasnodar Governor Veniamin Kondratyev said on Telegram that the attacks damaged homes in three districts but did not hurt anyone.    
+
+
+Russian air defenses also shot down drones over Russia-occupied Crimea, the Sea of Azov, the Black Sea and Russia’s Bryansk and Kursk regions, the Defense Ministry said.    
+
+
+Some information for this story was provided by Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/ukrainian-officials-say-deadly-drone-attack-hits-kyiv-region/7988487.html>
+
+---
+
+## US, Ukraine near minerals deal
+
+date: 2025-02-26, from: VOA News USA
+
+The United States and Ukraine have a framework deal in place for a joint fund to reinvest revenue from Ukrainian natural resources, according to officials familiar with the negotiations.
+
+
+The plan would include investing 50% of proceeds from Ukraine’s minerals, oil and gas.
+
+
+The United States would commit to the development of a “stable and economically prosperous Ukraine.” The framework does not include U.S. security guarantees for Ukraine, but officials said negotiations were ongoing.
+
+
+U.S. President Donald Trump indicated Tuesday he could meet with Ukrainian President Volodymyr Zelenskyy later this week.
+
+
+“I hear that he’s coming on Friday. Certainly, it’s okay with me if he’d like to. He would like to sign it together with me. I understand that. It’s a big deal.”
+
+
+Some information for this story was provided by The Associated Press, Agence France-Presse and Reuters 
+
+<br> 
+
+<https://www.voanews.com/a/us-ukraine-near-minerals-deal/7988464.html>
+
+---
+
+## Nominee for No. 2 spot at Pentagon warns China 'incredibly determined' to surpass US
+
+date: 2025-02-26, from: VOA News USA
+
+PENTAGON — President Donald Trump's nominee for deputy secretary of defense is warning that China's military is resolute on surpassing the United States and is calling for a fix to "significant" military shortages at a time when administration leaders are trying to make big budget cuts.
+
+
+"China is incredibly determined, they feel a great sense of urgency, and they'll be fully dedicated to becoming the strongest nation in the world and having dominance over the United States," Steve Feinberg told members of the Senate Armed Service Committee on Tuesday.  
+
+
+Feinberg, a businessman and investor, said the U.S. military shortages include "shipbuilding, nuclear modernization, aircraft development, cyber defense, hypersonics, counter space, defending our satellites [and] counter drones."
+
+
+"We really need to plug these shortages, focus on our priorities, get rid of legacy programs, be very disciplined, while at the same time focusing on the economics. If we do that, given America's great innovative capability, entrepreneurship, we will defeat China. If we don't, our very national security is at risk," Feinberg said.
+
+
+The hearing comes as Secretary of Defense Pete Hegseth has called on the department to cut 8% — roughly $50 billion — to reinvest in priorities aligned with a "more lethal fighting force."
+
+
+Senator Jack Reed, the top Democrat on the Senate Armed Services Committee, on Tuesday pushed back against the move saying, "Slashing the defense budget will not create efficiency in our military. It will cripple it."
+
+
+The concern about cuts to the military has echoed on both sides of the aisle.
+
+
+Republican committee Chairman Roger Wicker told the Breaking Defense news organization last month that he hoped to increase defense spending by as much as $200 billion in coming years.
+
+
+And Republican Senator Dan Sullivan on Tuesday called for prioritizing solutions to shipbuilding to counter threats from China and others.
+
+
+"We're in the worst crisis in shipbuilding in over 40 years. The Chinese are building a giant navy. It's already bigger than ours," he said.
+
+
+China's military has about 370 warships, according to the Pentagon's latest China Military Power Report, while the U.S. military has about 300.
+
+
+Feinberg acknowledged that the shipbuilding shortage is "a tough problem" for the military.
+
+
+"Our supply chain is definitely weak. Our workforce needs to be improved. But a big piece of improving our supply chain is working more closely with our private sector. We have companies that can get at where our needs are, where our shortages are, and we need to work more closely with them. We need people inside of government that understand their issues," Feinberg said.
+
+
+Several Democrats on the committee were critical of interference at the Pentagon by the Department of Government Efficiency, saying it could create a major vulnerability should its members not handle data more carefully.
+
+
+"They [DOGE] just sent an unclassified email with CIA recent hire names in an unclassified space. As a former CIA officer, you just blew the cover of someone who was going to risk their life abroad to protect our country," said Democratic Senator Elissa Slotkin.
+
+
+"Do you know how appetizing it is for our adversaries to have this data? ... It is quite literally an issue of safety and security," she added.
+
+
+Democrats also raised concern about plans to let go more than 5,000 Pentagon civilian employees this week, while Republican Senator Markwayne Mullin countered that cutting 5,000 jobs amounted to less than 0.5% of the workforce.
+
+
+"Our national debt is now costing us more to just pay interest than we spend on our military. That's a huge national security risk," he said. "And so, at what point do we start making cuts?" 
+
+<br> 
+
+<https://www.voanews.com/a/nominee-for-no-2-spot-at-pentagon-warns-china-incredibly-determined-to-surpass-us/7988386.html>
+
+---
+
+## Ukraine, US agree on a framework economic deal, Ukrainian officials say
+
+date: 2025-02-26, from: VOA News USA
+
+KYIV, UKRAINE — Ukraine and the United States have reached an agreement on a framework for a broad economic deal that would include access to Ukraine's rare earth minerals, three senior Ukrainian officials said Tuesday.
+
+
+The officials, who were familiar with the matter, spoke on condition of anonymity because they were not authorized to speak publicly. One of them said Kyiv hopes that signing the agreement will ensure the continued flow of U.S. military support that Ukraine urgently needs.
+
+
+President Donald Trump, speaking to reporters in the Oval Office, said he'd heard that Ukrainian President Volodymyr Zelenskyy was coming and added that "it's OK with me, if he'd like to, and he would like to sign it together with me."
+
+
+The agreement could be signed as early as Friday and plans are being drawn up for Zelenskyy to travel to Washington to meet Trump, according to one of the Ukrainian officials.
+
+
+Another official said the agreement would provide an opportunity for Zelenskyy and Trump to discuss continued military aid to Ukraine, which is why Kyiv is eager to finalize the deal.
+
+
+Trump called it "a very big deal," adding that it could be worth 1 trillion dollars. "It could be whatever, but it's rare earths and other things."
+
+
+According to one Ukrainian official, some technical details are still to be worked out. However, the draft does not include a contentious Trump administration proposal to give the U.S. $500 billion worth of profits from Ukraine's rare earth minerals as compensation for its wartime assistance to Kyiv.
+
+
+Instead, the U.S. and Ukraine would have joint ownership of a fund, and Ukraine would in the future contribute 50% of future proceeds from state-owned resources, including minerals, oil, and gas. One official said the deal had better terms of investments and another one said that Kyiv secured favorable amendments and viewed the outcome as "positive."
+
+
+The deal does not, however, include security guarantees. One official said that this would be something the two presidents would discuss when they meet.
+
+
+The progress in negotiating the deal comes after Trump and Zelenskyy traded sharp rhetoric last week about their differences over the matter.
+
+
+Zelenskyy said he balked at signing off on a deal that U.S. Treasury Secretary Scott Bessent pushed during a visit to Kyiv earlier this month, and the Ukrainian leader objected again days later during a meeting in Munich with Vice President JD Vance because the American proposal did not include security guarantees.
+
+
+Trump then called Volodymyr Zelenskyy "a dictator without elections" and claimed his support among voters was near rock-bottom.
+
+
+But the two sides made significant progress during a three-day visit to Ukraine last week by retired Lieutenant General Keith Kellogg, Trump's special envoy to Ukraine and Russia.
+
+
+The idea was initially proposed last fall by Zelenskyy as part of his plan to strengthen Kyiv's hand in future negotiations with Moscow. 
+
+<br> 
+
+<https://www.voanews.com/a/ukraine-us-agree-on-a-framework-economic-deal-ukrainian-officials-say-/7988354.html>
+
+---
+
+## Trump examines China's copper production
+
+date: 2025-02-26, from: VOA News USA
+
+WHITE HOUSE — China's growing copper reserves have caught the eye of President Donald Trump, who on Tuesday ordered an investigation into what administration officials say is Beijing's move to "gain control of the world's copper markets."
+
+
+Trump, in the Oval Office, asked his newly minted secretary of commerce, Howard Lutnick, to explain. Lutnick read from what he said was a social media post he planned to release, saying: "Tariffs will help rebuild back our American copper industry and strengthen our national defense. American industries depend on copper, and they should be made in America. No exemptions, no exceptions. America first creates American jobs and protects our national security. It's time for copper to come home."
+
+
+Earlier in the day, Trump's senior counselor for trade and manufacturing explained the administration's concerns.
+
+
+"China has long used industrial overcapacity and dumping as an economic weapon to dominate global markets, systematically undercutting competitors and driving rival industries out of business by massively subsidizing key industries, flooding international markets with below-cost goods and then consolidating control once competitors collapse," Peter Navarro said in a call with reporters ahead of the signing. "China has successfully expanded its economic influence in sectors ranging from steel and aluminum to solar panels and electric vehicles."
+
+
+Trump's order jumpstarts an investigation under the authority of the Trade Expansion Act, which focuses on whether importation of a certain item presents a threat to national security. The president can decide whether to follow the recommendations of the report, due in 270 days.
+
+
+China's government released a report earlier this month where they laid out a plan to increase copper ore reserves by 5% to 10% by 2027.
+
+
+Chinese government figures state that in 2024, China topped the world in the production of both refined copper and copper-processed materials.
+
+
+Navarro told reporters the U.S. hopes to do more with the nation's "untapped" copper potential and cited plans to boost U.S. production by 70% and reduce external reliance on the material vital for electrical equipment. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-turns-eye-on-china-s-copper-production/7988338.html>
+
+---
+
+## Amidst USDA grant freeze, Georgia mushroom farmer faces funding uncertainty
+
+date: 2025-02-26, from: Market Place
+
+If federal funding is off the table, Howard Berk, president of Ellijay Mushrooms, says he'll have to consider putting up more equity or taking on debt. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/25/mushroom-farmer-usda-agriculture-funding-federal-freeze/>
+
+---
+
+## Evening Roundup
+
+date: 2025-02-25, from: The Contrarian
+
+Andrew Weissmann in conversation with Jen Rubin; Nat Kendall-Taylor; Nicole Ozer; Nick Anderson; Jonathan Alter; and Contrarian Lily Conway's interviews with recently-fired federal health workers 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-1d1>
+
+---
+
+## Tariffs on Canadian energy could hit power bills in the Northeast U.S.
+
+date: 2025-02-25, from: Market Place
+
+Utilities and policymakers have worked for years to bring more Canadian power to New England and New York's energy grid. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/25/tariffs-on-canadian-energy-could-hit-power-bills-in-the-northeast-u-s/>
+
+---
+
+## Fired Federal Workers Push Back Against Musk
+
+date: 2025-02-25, from: The Contrarian
+
+Real people are being impacted by DOGE's blanket firings. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157922851/70041dd97af81ffcd7775e25d300b50a.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157922851/70041dd97af81ffcd7775e25d300b50a.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/fired-federal-workers-push-back-against>
+
+---
+
+## Apple shareholders reject proposal to scrap company's diversity programs
+
+date: 2025-02-25, from: VOA News USA
+
+Apple shareholders rebuffed an attempt to pressure the technology trendsetter into joining President Donald Trump's push to scrub corporate programs designed to diversify its workforce. 
+
+
+The proposal drafted by the National Center for Public Policy Research — a self-described conservative think tank — urged Apple to follow a litany of high-profile companies that have retreated from diversity, equity and inclusion initiatives currently in the Trump administration's crosshairs. 
+
+
+After a brief presentation about the anti-DEI proposal, Apple announced shareholders had rejected it. In a regulatory filing submitted Tuesday evening, Apple disclosed that 97% of the ballots cast were votes against the measure. 
+
+
+The outcome vindicated Apple management's decision to stand behind its diversity commitment even though Trump asked the U.S. Department of Justice to look into whether these types of programs have discriminated against some employees whose race or gender aren't aligned with the initiative's goals. 
+
+
+But Apple CEO Tim Cook has maintained a cordial relationship with Trump since his first term in office, an alliance that so far has helped the company skirt tariffs on its iPhones made in China. After Cook and Trump met last week, Apple on Monday announced it will invest $500 billion in the U.S. and create 20,000 more jobs during the next four years — a commitment applauded by the president. 
+
+
+
+
+Tuesday's shareholder vote came a month after the same group presented a similar proposal during Costco's annual meeting, only to have it overwhelmingly rejected, too. 
+
+
+That snub didn't discourage the National Center for Public Policy Research from confronting Apple about its DEI program in a pre-recorded presentation by Stefan Padfield, executive director of the think tank's Free Enterprise Project, who asserted "forced diversity is bad for business." 
+
+
+In the presentation, Padfield attacked Apple's diversity commitments for being out of line with recent court rulings and said the programs expose the Cupertino, California, company to an onslaught of potential lawsuits for alleged discrimination. He cited the Trump administration as one of Apple's potential legal adversaries. 
+
+
+"The vibe shift is clear: DEI is out, and merit is in," Padfield said in the presentation. 
+
+
+The specter of potential legal trouble was magnified last week when Florida Attorney General James Uthmeier filed a federal lawsuit against Target alleging the retailer's recently scaled-back DEI program alienated many consumers and undercut sales to the detriment of shareholders. 
+
+
+Just as Costco does, Apple contends that fostering a diverse workforce makes good business sense. 
+
+
+But Cook conceded Apple may have to make some adjustments to its diversity program "as the legal landscape changes" while still striving to maintain a culture that has helped elevate the company to its current market value of $3.7 trillion — greater than any other business in the world. 
+
+
+"We will continue to create a culture of belonging," Cook told shareholders during the meeting. 
+
+
+In its last diversity and inclusion report issued in 2022, Apple disclosed that nearly three-fourths of its global workforce consisted of white and Asian employees. Nearly two-thirds of its employees were men. 
+
+
+Other major technology companies for years have reported employing mostly white and Asian men, especially in high-paid engineering jobs — a tendency that spurred the industry to pursue largely unsuccessful efforts to diversify. 
+
+<br> 
+
+<https://www.voanews.com/a/apple-shareholders-reject-proposal-to-scrap-company-s-diversity-programs/7988035.html>
+
+---
+
+## Consumer confidence drops amid inflation expectations
+
+date: 2025-02-25, from: Market Place
+
+Inflation expectations vary by political affiliation, especially with tariffs in the mix. But fears of inflation can be self-fulfilling. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/25/consumer-confidence-drops-amid-inflation-expectations/>
+
+---
+
+## Home prices continued to rise in December
+
+date: 2025-02-25, from: Market Place
+
+Prices are now rising fastest in the Northeast, and slowing in some Sunbelt markets that saw big spikes early in the pandemic. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/25/home-prices-continued-to-rise-in-december/>
+
+---
+
+## Pentagon chief tours Guantanamo Bay as more detainees arrive
+
+date: 2025-02-25, from: VOA News USA
+
+Washington — More migrants slated for deportation from the United States arrived Tuesday at the detention center at Guantanamo Bay, Cuba, under the watchful eye of U.S. Defense Secretary Pete Hegseth. 
+
+
+Hegseth, visiting the U.S. naval base to get briefings on the military’s efforts to support Washington’s mass deportation efforts, posted on social media that he witnessed the U.S. cargo jet land, adding he is proud to partner with the U.S. agencies working to “remove those who have infringed on our territorial sovereignty.” 
+
+
+Two U.S. defense officials told VOA that the C-130 carrying nine migrants from Fort Bliss in Texas landed at Guantanamo Bay midday Tuesday, and that all nine are considered “high threat illegal aliens.”
+
+
+One of the officials said they were taken from the plane to the detention center, where they were being held under guard. 
+
+
+A third official told VOA that an additional flight carrying more migrants was tentatively scheduled for Wednesday. 
+
+
+All of the officials spoke to VOA on the condition of anonymity since they were not authorized to discuss the deportation operations.  
+
+
+
+
+The new detainees join another 17 detainees sent from Fort Bliss to Guantanamo Bay on Sunday.
+
+
+Neither the Department of Homeland Security (DHS), which is spearheading the U.S. deportation efforts, nor Immigration and Customs Enforcement (ICE) has so far responded to questions about the identities of the detainees, their countries of origin or the crimes with which they are charged.
+
+
+Tuesday's flight carrying detainees from the U.S. mainland to the naval base in Cuba is the second since ICE last Thursday deported 177 detainees who had been brought to Guantanamo Bay earlier this month.
+
+
+
+
+Of the 177, officials had said that more than 120 were dangerous criminals, including members of Tren de Aragua, a Venezuelan street gang designated by the U.S. as a foreign terrorist organization.
+
+
+The other 50 or so individuals had been held at the base's migrant operations center, designed to hold nonviolent individuals.   
+
+
+Hegseth on Tuesday shared photos of his visit to the base on his X social media account, where he toured both the detention center and the migrant operations center.  
+
+
+"These warriors are directly supporting the apprehension and deportation of dangerous illegal aliens," he wrote in one post. "We cannot thank them or their families enough."
+
+
+
+
+The Pentagon’s deputy press secretary, Kingsley Wilson, also posted about the visit on her X account, sharing video of the facilities designed to house “low-priority & medium-priority illegal aliens” before they are ultimately deported. 
+
+
+
+
+The commander of U.S. Southern Command, which oversees operations at the naval base at Guantanamo Bay, told lawmakers earlier this month that the base's migrant facility had the capacity to hold about 2,500 nonviolent detainees. Efforts were underway to allow it to house as many as 30,000 nonviolent migrants slated for deportation.
+
+
+
+
+U.S. deportation efforts have sparked criticism from immigration rights groups.
+
+
+Earlier this month, the American Civil Liberties Union and several other organizations filed a lawsuit against DHS, alleging the detainees held at the Guantanamo Bay prison facility before being deported Thursday had been improperly denied access to lawyers.
+
+
+DHS dismissed the lawsuit's allegations. 
+
+<br> 
+
+<https://www.voanews.com/a/pentagon-chief-tours-guantanamo-bay-as-more-detainees-arrive/7987965.html>
+
+---
+
+## House speaker secures enough Republican votes to pass budget
+
+date: 2025-02-25, from: VOA News USA
+
+WASHINGTON — U.S. Speaker of the House Mike Johnson secured enough votes, 217-215, to pass a budget resolution on Tuesday night, advancing a Republican effort to extend tax breaks and cut spending that Democrats called “reckless.”
+
+ 
+
+“We have a lot of hard work ahead of us, but we are going to deliver the America First agenda,” Johnson told reporters.  “We’re going to deliver all of it, not just parts of it, and this is the first step in that process.”
+
+
+Johnson and other House Republican leaders said in a statement their goal is a bill “that secures our border, keeps taxes low for families and job creators, restores American energy dominance, strengthens America’s standing on the world stage, and makes government work more effectively for all Americans.”
+
+
+House Democratic Leader Hakeem Jeffries said Republicans are working to “slash and burn” programs such as veterans’ benefits, food assistance, and health care for lower-income people.
+
+
+“The reckless Republican budget will cut taxes up to $4.5 trillion for the wealthy, the well-off and the well-connected, and then they are sticking working-class Americans, middle-class Americans and everyday Americans with the bill,” Jeffries told reporters.
+
+
+Before the vote, several members of the House Republican conference were still concerned about the size of the spending measure, how and when to enact a proposed extension of the 2017 tax cuts, and how to pay down the U.S. deficit without cutting key safety net programs that help American voters. Senate leadership has proposed passing the tax cuts in a separate bill later this year.
+
+
+"Not only are we working to find savings for the American taxpayer, a better, more efficient use of their dollar, which we are morally obligated to do, we also have a moral obligation to bend the curve on the debt," Johnson said.
+
+
+President Donald Trump has called for lawmakers to pass "one big, beautiful bill" that will be a key part of enacting his domestic policy agenda.
+
+
+Despite Trump expressing his preference for the House of Representatives version of the budget, the Senate passed a funding resolution Friday that provides $150 billion in military funding and $175 billion for border security. That measure also avoids the controversial Medicaid cuts of the House version.
+
+
+Republican Representative Tony Gonzales led a group of seven House Republicans warning against potential cuts to health care program Medicaid, food assistance funding and other social safety net programs.
+
+
+"Slashing Medicaid would have serious consequences, particularly in rural and predominantly Hispanic communities where hospitals and nursing homes are already struggling to keep their doors open," the lawmakers said in a letter to Johnson last week.
+
+
+Trump posted on Truth Social last week that "The House and Senate are doing a SPECTACULAR job of working together as one unified, and unbeatable, TEAM, however, unlike the Lindsey Graham version of the very important Legislation currently being discussed, the House Resolution implements my FULL America First Agenda, EVERYTHING, not just parts of it!"
+
+
+The House and Senate bills will now have to be compromised to be signed into law.
+
+
+If lawmakers cannot reach a compromise by March 14, there will be a partial government shutdown, leaving millions of federal employees temporarily without pay and suspending some nonessential government services.
+
+
+Senate Majority Leader John Thune did not rule out the possibility of another short-term spending bill to give lawmakers more time to work.
+
+
+"We're keeping all the options on the table, but we are running out of time," Thune told reporters Tuesday.
+
+
+The Senate moved forward with a vote on its version of the budget due to uncertainty over the potential success of the vote on the House version.
+
+
+Senate Minority Leader Chuck Schumer characterized the vote as a first step toward hurting voters.
+
+
+"Make no mistake, it will rob seniors, kids and the disabled to pay for the rich to get richer. It's wrong. We're going to use every lever we have at our disposal to lift up the concerns that we are hearing from our constituents, band together and organize with them and fight to stop this tax break for billionaires," Schumer told reporters Tuesday. 
+
+<br> 
+
+<https://www.voanews.com/a/us-house-speaker-works-to-secure-enough-votes-to-pass-budget-avoid-partial-government-shutdown/7987938.html>
+
+---
+
+## Will We Let a Digital Coup Against Democracy Prevail?
+
+date: 2025-02-25, from: The Contrarian
+
+DOGE, Democracy, and What the Privacy Act of 1974 has to do with it 
+
+<br> 
+
+<https://contrarian.substack.com/p/will-we-let-a-digital-coup-against>
+
+---
+
+## “Unlocking the Gates” on housing and economic opportunity
+
+date: 2025-02-25, from: Market Place, Make me Smart
+
+<p>Today, we&#8217;re sharing the first episode of <a href="https://www.whathappenedinalabama.org/episode/2025/02/12/integration-generation" target="_blank" rel="noreferrer noopener">&#8220;Unlocking the Gates,&#8221;</a> a series from Marketplace and APM Studios hosted by special correspondent Lee Hawkins. He tells the story of how the Minnesota suburb he grew up in went from being a place where the housing market was inaccessible to Black families to one where many Black families found economic opportunity. And it all started with a nighttime business deal.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/25/mms_20250225_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Funlocking-the-gates-on-housing-and-economic-opportunity&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/25/mms_20250225_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Funlocking-the-gates-on-housing-and-economic-opportunity&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/unlocking-the-gates-on-housing-and-economic-opportunity>
+
+---
+
+## Why some authors want out of the book blurb business
+
+date: 2025-02-25, from: Market Place
+
+A book critic explains how book blurbing works and why it’s become a source of debate in the publishing industry. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/25/book-blurbs-publishing-authors/>
+
+---
+
+## Home Depot sales beat expectations. What does that tell us about the housing market?
+
+date: 2025-02-25, from: Market Place
+
+It's the first time the home improvement retailer posted gains in two years. This is partly because homeowners are renovating instead of shopping for a new home. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/25/home-depot-sales-beat-expectations-what-does-that-tell-us-about-the-housing-market/>
+
+---
+
+## Americans think the system is rigged. We need to start listening.
+
+date: 2025-02-25, from: The Contrarian
+
+Working around the edges just won't cut it. 
+
+<br> 
+
+<https://contrarian.substack.com/p/americans-think-the-system-is-rigged>
+
+---
+
+## US consumer confidence drops sharply, survey shows
+
+date: 2025-02-25, from: VOA News USA
+
+U.S. consumer confidence plunged in February in its biggest monthly decline in more than four years, a business research group said Tuesday.
+
+
+The Conference Board said its consumer confidence index dropped from 105.3 in January to 98.3 this month, the largest month-to-month decline since August 2021.
+
+
+With U.S. consumer spending accounting for about 70% of the world’s largest economy, the three major stock indexes on Wall Street all fell on news of the report. The tech-heavy NASDAQ dropped by more than a percentage point.
+
+
+The Conference Board said in a statement, "Views of current labor market conditions weakened. Consumers became pessimistic about future business conditions and less optimistic about future income. Pessimism about future employment prospects worsened and reached a 10-month high."
+
+
+Separately, U.S. Treasury Secretary Scott Bessent contended Tuesday that the U.S. economy is more fragile under the surface than economic indicators suggest, and he vowed to "reprivatize" growth by cutting government spending and regulation.
+
+
+
+
+In his first major economic policy address, Bessent told a group at the Australian Embassy in Washington that interest rate volatility, enduring inflation and reliance on the public sector for job growth have hobbled the American economy, despite general national economic growth and low unemployment.
+
+
+Bessent blamed "prolific overspending" under former President Joe Biden and regulations that have hindered supply-side growth as the main drivers of "sticky inflation."
+
+
+"The previous administration's over-reliance on excessive government spending and overbearing regulation left us with an economy that may have exhibited some reasonable metrics but ultimately was brittle underneath," he said.
+
+
+Bessent said that 95% of all job growth in the past 12 months has been concentrated in public and government-adjacent sectors, such as health care and education, jobs offering slower wage growth and less productivity than private-sector jobs.
+
+
+
+Meanwhile, he said jobs in manufacturing, metals, mining and information technology all contracted or flatlined over the same period.
+
+
+"The private sector has been in recession," Bessent said. "Our goal is to reprivatize the economy."
+
+
+Consumers had appeared increasingly confident heading toward the end of 2024 and spent generously during the holiday season. But U.S. retail sales dropped sharply in January, with unusually cold weather throughout much of the U.S. taking some of the blame.
+
+
+Retail sales fell 0.9% last month from December, the Commerce Department reported last week. The decline, the biggest in a year, came after two months of robust gains.
+
+
+With inflation remaining a concern for consumers and uncertainty about President Donald Trump’s plan to impose new or stiffer tariffs on imports from other countries, policymakers at the country’s central bank, the Federal Reserve, have taken a cautious approach on whether to further cut its benchmark interest rate.
+
+
+The Fed left its key borrowing rate alone at its last meeting after cutting it at the previous three.
+
+
+"Consumers' confidence has deteriorated sharply in the face of threats to impose large tariffs and to slash federal spending and employment," Pantheon Macroeconomics chief Samuel Tombs wrote in a note to clients.
+
+
+Some information in this report came from The Associated Press, Reuters and Agence France-Presse. 
+
+<br> 
+
+<https://www.voanews.com/a/us-consumer-confidence-drops-sharply-survey-shows/7987763.html>
+
+---
+
+## US expands visa restrictions on Cubans tied to labor export program
+
+date: 2025-02-25, from: VOA News USA
+
+WASHINGTON — The United States has expanded an existing visa restriction policy to target Cuban officials believed to be tied to a labor program that sends Cuban workers overseas, particularly health care workers, U.S. Secretary of State Marco Rubio said on Tuesday.
+
+
+In a statement, Rubio said the expanded restrictions target individuals and immediate family members of individuals believed to be responsible for the program, which he described as "forced labor." The U.S. has already imposed restrictions on several people, including some Venezuelans, he added.
+
+
+The Caribbean island nation's health service generates major export earnings by sending health workers around the world.
+
+
+"Cuba's labor export programs, which include the medical missions, enrich the Cuban regime, and in the case of Cuba's overseas medical missions, deprive ordinary Cubans of the medical care they desperately need in their home country," Rubio said.
+
+
+The Cuban government did not immediately respond to a request for comment.
+
+
+The United States and Cuba have had a strained relationship since Fidel Castro took over in a 1959 revolution, and a U.S. trade embargo has been in place for decades. 
+
+<br> 
+
+<https://www.voanews.com/a/us-expands-visa-restrictions-on-cubans-tied-to-labor-export-program/7987728.html>
+
+---
+
+## Charging infrastructure tries to catch up with electric truck demand
+
+date: 2025-02-25, from: Market Place
+
+Building the right facilities to power big rigs at scale requires a lot of pieces to fall into place.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/25/electric-trucking-charging-infrastructure/>
+
+---
+
+## The Eye of Sauron
+
+date: 2025-02-25, from: The Contrarian
+
+A cartoon by Nick Anderson. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-eye-of-sauron>
+
+---
+
+##  Ted Cruz Just Legalized More Corruption 
+
+date: 2025-02-25, from: The Lever News
+
+ How the Texas senator’s latest money-in-politics scheme could increase the price of cars.  
+
+<br> 
+
+<https://www.levernews.com/ted-cruz-just-legalized-more-corruption/>
+
+---
+
+## Andrew Weissmann and Jen Rubin on crumbling rule of law in America
+
+date: 2025-02-25, from: The Contrarian
+
+Former General Counsel for the FBI Andrew Weissmann and Jen Rubin give an update on the criminal proceedings against Eric Adams and discuss the naming of right-wing influencer Dan Bongino as Deputy Director of the FBI. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157897447/c27371ec73c8d83245fdc8bb813d6957.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157897447/c27371ec73c8d83245fdc8bb813d6957.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/andrew-weissman-and-jen-rubin-on>
+
+---
+
+## In US capital, college-owned station broadcasts news, music and opportunity
+
+date: 2025-02-25, from: VOA News USA
+
+For more than 50 years, WHUR has been broadcasting to listeners in the U.S. capital from Howard University, a historically black institution. A commercial station owned by the university, it offers music, news and education opportunities. During Black History Month, VOA’s Cristina Caicedo Smit met the team behind the unique station. 
+
+<br> 
+
+<https://www.voanews.com/a/in-us-capital-college-owned-station-broadcasts-news-music-and-opportunity/7987495.html>
+
+---
+
+## US Supreme Court throws out Oklahoma man's murder conviction, death sentence
+
+date: 2025-02-25, from: VOA News USA
+
+Washington — The U.S. Supreme Court on Tuesday threw out the murder conviction and death penalty for Richard Glossip, an Oklahoma man who has steadfastly maintained his innocence and averted multiple attempts by the state to execute him.
+
+
+The justices found that Glossip's trial violated his constitutional rights.
+
+
+The justices heard arguments in October in a case that produced a rare alliance in which lawyers for Glossip and the state argued that the high court should overturn Glossip's conviction and death sentence because he did not get a fair trial.
+
+
+The victim's relatives had told the high court that they want to see Glossip executed.
+
+
+Oklahoma's top criminal appeals court had repeatedly upheld the conviction and sentence, even after the state sided with Glossip.
+
+
+Glossip was convicted and sentenced to death in the 1997 killing in Oklahoma City of his former boss, motel owner Barry Van Treese, in what prosecutors have alleged was a murder-for-hire scheme.
+
+
+Glossip has always maintained his innocence. Another man, Justin Sneed, admitted robbing Van Treese and beating him to death with a baseball bat but testified he only did so after Glossip promised to pay him $10,000. Sneed received a life sentence in exchange for his testimony and was the key witness against Glossip. 
+
+<br> 
+
+<https://www.voanews.com/a/us-supreme-court-throws-out-oklahoma-man-s-murder-conviction-death-sentence/7987443.html>
+
+---
+
+## Guantanamo Bay: A new front in US immigration policy?
+
+date: 2025-02-25, from: VOA News USA
+
+U.S. President Donald Trump plans to send 30,000 undocumented migrants to Guantanamo Bay, the U.S. naval base in Cuba. While it is most well known for housing terror suspects after 9/11 — and for drawing condemnation from human rights groups — Guantanamo has been occasionally used as a processing center for immigrants trying to reach the U.S., mostly from Haiti and Cuba. Although Guantanamo's Migrant Operations Center is separate from the high-security jail, that doesn’t mean it has escaped scrutiny. 
+
+<br> 
+
+<https://www.voanews.com/a/guantanamo-bay-a-new-front-in-us-immigration-policy-/7987381.html>
+
+---
+
+## Trump Administration Fires Immigration Judges as It Tries to Ramp Up Deportations
+
+date: 2025-02-25, from: Capital and Main
+
+<p>The judges’ union estimated that as many as 10,000 hearings will not happen this year because of the lost work.</p>
+<p>The post <a href="https://capitalandmain.com/trump-administration-fires-immigration-judges-as-it-tries-to-ramp-up-deportations">Trump Administration Fires Immigration Judges as It Tries to Ramp Up Deportations</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-administration-fires-immigration-judges-as-it-tries-to-ramp-up-deportations>
+
+---
+
+## Morning Roundup: February 25 
+
+date: 2025-02-25, from: The Contrarian
+
+Unflinching journalism in defense of democracy 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-february-25>
+
+---
+
+## Tom Malinowski and Jen Rubin on U.S. divergence from European allies
+
+date: 2025-02-25, from: The Contrarian
+
+Yesterday in the United Nations General Assembly, the United States sided with Russia voting against a resolution blaming Russia aggression for the war in Ukraine and calling for immediate peace. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157838826/29179458aed28b223b8f9d43fd78baa6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157838826/29179458aed28b223b8f9d43fd78baa6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/tom-malinowski-and-jen-rubin-on-us>
 
 ---
 
@@ -698,7 +1541,7 @@ Some former U.S. officials are skeptical about the extent to which the Chinese g
 
 ---
 
-## The Contrarian covers the Citizens Movement
+## The Contrarian covers the Democracy Movement
 
 date: 2025-02-24, from: The Contrarian
 
@@ -912,7 +1755,7 @@ But no nominee has had a rockier post-nominations Oscar campaign. After old offe
 
 date: 2025-02-24, from: The Contrarian
 
-*INTRODUCING THE CONTRARIAN'S CITIZENS MOVEMENT* 
+*INTRODUCING THE CONTRARIAN'S DEMOCRACY MOVEMENT* 
 
 <audio crossorigin="anonymous" controls="controls">
 <source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157843694/d0330ba478bf6b99b17d8d7e39f1341b.mp3"></source>

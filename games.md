@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-02-25 07:09:01
+updated: 2025-02-26 07:08:39
 ---
 
 # games
 
-(date: 2025-02-25 07:09:01)
+(date: 2025-02-26 07:08:39)
+
+---
+
+## Doctor Who returns in April with an Alan Cumming-voiced runaway cartoon
+
+date: 2025-02-26, updated: 2025-02-26, from: Polygon Website
+
+The Doctor is (back) in, almost. Doctor Who will be returning for season 2 (aka the second season of Ncuti Gatwa’s Fifteenth Doctor) on April 12. Like the past Gatwa seasons and specials, the show will premiere around the world at the same time, streaming on Disney Plus in the U.S. at the same time [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/529409/doctor-who-season-2-2025-premiere-date-announcement>
+
+---
+
+## An abandoned Legacy of Kain sequel put Sam Barlow on the path to Her Story
+
+date: 2025-02-26, updated: 2025-02-25, from: Polygon Website
+
+In Sam Barlow’s Her Story, the narrative is uncovered entirely at the player’s direction. In this interview excerpt, Barlow talks about how previous experiences in mainstream games made him long for a game where there’s no hand-holding at all, and the player is left to their own devices. This interview was done in September as [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/videos/527216/sam-barlow-legacy-of-kain-her-story>
+
+---
+
+## Tsui Hark’s stylish new movie puts a wuxia king back on his throne
+
+date: 2025-02-26, updated: 2025-02-26, from: Polygon Website
+
+When a genre master returns after years away from the field, you pay attention. Wuxia veteran Tsui Hark, one of the major figures from Hong Kong cinema’s golden age, has returned with the historical fantasy Legends of the Condor Heroes: The Gallants. While he’s worked in many different genres, Condor Heroes marks the sixth consecutive [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/529139/legends-condor-heroes-gallants-movie-tsui-hark-wuxia>
+
+---
+
+## Pokémon Go ‘A Dazzling Aria’ Masterwork Research tasks and rewards so far
+
+date: 2025-02-26, updated: 2025-02-26, from: Polygon Website
+
+The “A Dazzling Aria” Masterwork Research is your opportunity to get a shiny Meloetta in Pokémon Go. Debuting alongside Go Tour: Unova, you have between Monday, Feb. 24, at 10 a.m. and Sunday, March 2, at 8 p.m. local time to purchase a ticket for $5 (or the local currency equivalent). You can then find [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/528116/a-dazzling-aria-masterwork-research-shiny-meloetta>
+
+---
+
+## Pokémon Go ‘Road to Unova’ event guide
+
+date: 2025-02-26, updated: 2025-02-26, from: Polygon Website
+
+Pokémon Go’s “Road to Unova” event is a lead-in to the upcoming Go Tour: Unova event, and it’s a big one. The event runs from Feb. 24 until March 1 (until Go Tour: Unova starts at 10 a.m. in your local time) and features a whole ton of Legendary Pokémon, Timed Research, and other perks [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/528423/road-to-unova-timed-research-premium-free-worth-it>
+
+---
+
+## This 4 TB SSD is matching its lowest price ever
+
+date: 2025-02-25, updated: 2025-02-25, from: Polygon Website
+
+Listen, I love the ROG Ally X, but its 1 TB of built-in storage barely puts a dent in my Steam Library. I know I could use a microSD card for some extra space, but the sub-optimal transfer speeds means downloading anything takes forever, and I don’t have that kind of time. Thankfully, there’s an [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/529330/rog-ally-x-western-digital-4-tb-ssd-sale>
+
+---
+
+## The Harry Potter TV series has found its Dumbledore
+
+date: 2025-02-25, updated: 2025-02-25, from: Polygon Website
+
+Fans have wondered what HBO’s new Harry Potter TV show will be like since the moment it was announced in 2023: What would a long(er)-form retelling of the classic book series look like? Could the show get out from underneath the shadow of writer J.K. Rowling’s gender politics? Do we need to see Hogwarts again, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/529444/harry-potter-series-dumbledore-show-john-lithgow>
+
+---
+
+## The burglar returns to The Sims 4 after a decade of fan demand
+
+date: 2025-02-25, updated: 2025-02-25, from: Polygon Website
+
+The Sims 4 has been out for a decade, but those of us who played the earlier games in the franchise remember the iconic burglar. Part of the joy of The Sims games is having something randomly go wrong, all the way from a kitchen fire to a meteor crashing through your roof. One of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cozy-gaming/529436/the-sims-4-burglar-free-update>
+
+---
+
+## Yes, Your Grace: Snowfall is going to put my conscience in mortal peril
+
+date: 2025-02-25, updated: 2025-02-25, from: Polygon Website
+
+I missed out on the original Yes, Your Grace when it launched in 2020, but I devoured it on my phone in a single evening. My only issue with the kingdom management title? There wasn’t enough of it. Thankfully, the launch of its sequel, Yes, Your Grace: Snowfall is right around the corner, and a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/529142/steam-next-fest-yes-your-grace-snowfall-demo>
 
 ---
 
@@ -162,18 +270,6 @@ Destiny 2 players recently discovered a bug introduced by the game’s Heresy up
 <br> 
 
 <https://www.polygon.com/news/528124/destiny-2-glaives-swords-bug>
-
----
-
-## Pokémon Go ‘A Dazzling Aria’ Masterwork Research tasks and rewards so far
-
-date: 2025-02-24, updated: 2025-02-24, from: Polygon Website
-
-The “A Dazzling Aria” Masterwork Research is your opportunity to get a shiny Meloetta in Pokémon Go. Debuting alongside Go Tour: Unova, you have between Monday, Feb. 24, at 10 a.m. and Sunday, March 2, at 8 p.m. local time to purchase a ticket for $5 (or the local currency equivalent). You can then find [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/528116/a-dazzling-aria-masterwork-research-shiny-meloetta>
 
 ---
 

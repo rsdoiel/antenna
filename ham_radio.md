@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-02-25 07:08:59
+updated: 2025-02-26 07:08:37
 ---
 
 # ham radio
 
-(date: 2025-02-25 07:08:59)
+(date: 2025-02-26 07:08:37)
+
+---
+
+## Power Tips #138: 3 ways to close the control loop for totem-pole bridgeless PFC
+
+date: 2025-02-25, from: EDN Blog
+
+<img width="1259" height="412" src="https://www.edn.com/wp-content/uploads/figure2-13.png?fit=1259%2C412" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/figure2-13.png?w=1259 1259w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=300 300w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=768 768w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=1024 1024w" sizes="(max-width: 1259px) 100vw, 1259px" /><p>A step-by-step guide on three ways to close the current control loop using the hall sensor feedback signal in totem-pole bridgeless PFCs. </p>
+<p>The post <a href="https://www.edn.com/power-tips-138-3-ways-to-close-the-control-loop-for-totem-pole-bridgeless-pfc/" data-wpel-link="internal">Power Tips #138: 3 ways to close the control loop for totem-pole bridgeless PFC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/power-tips-138-3-ways-to-close-the-control-loop-for-totem-pole-bridgeless-pfc/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-02-25 07:08:59
 
 date: 2025-02-25, from: EDN Blog
 
-<img width="900" height="316" src="https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?fit=900%2C316" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=900 900w, https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=768 768w" sizes="(max-width: 900px) 100vw, 900px" /><p>Resistive RAM claims to be ideal for consolidating both code storage and data logging in a single external memory.</p>
+<img width="900" height="316" src="https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?fit=900%2C316" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=900 900w, https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-2-RRAM-NOR-flash-comparison-Infineon.png?w=768 768w" sizes="auto, (max-width: 900px) 100vw, 900px" /><p>Resistive RAM claims to be ideal for consolidating both code storage and data logging in a single external memory.</p>
 <p>The post <a href="https://www.edn.com/rram-non-volatile-memory-for-high-performance-embedded-applications/" data-wpel-link="internal">RRAM: Non-volatile memory for high-performance embedded applications</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-02-25 07:09:00
+updated: 2025-02-26 07:08:38
 ---
 
 # weather
 
-(date: 2025-02-25 07:09:00)
+(date: 2025-02-26 07:08:38)
 
 ---
 
-## The Central North Pacific hurricane season runs from June 1st through November 30th.
+## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-02-25, from: Central Pacific Basin Tropical Cyclones
+date: 2025-02-26, from: Eastern Pacific Basin GIS Data
 
-The Central North Pacific hurricane season runs from June 1st through November 30th. 
+The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
@@ -21,11 +21,11 @@ The Central North Pacific hurricane season runs from June 1st through November 3
 
 ---
 
-## SPC - No watches are valid as of Tue Feb 25 14:58:01 UTC 2025
+## SPC - No watches are valid as of Wed Feb 26 14:57:02 UTC 2025
 
-date: 2025-02-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Tue Feb 25 14:58:01 UTC 2025. 
+No watches are valid as of Wed Feb 26 14:57:02 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Tue Feb 25 14:58:01 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Tue Feb 25 14:58:01 UTC 2025
+## SPC - No MDs are in effect as of Wed Feb 26 14:57:02 UTC 2025
 
-date: 2025-02-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Tue Feb 25 14:58:01 UTC 2025. 
+No Mesoscale Discussions are in effect as of Wed Feb 26 14:57:02 UTC 2025. 
 
 <br> 
 
@@ -45,58 +45,68 @@ No Mesoscale Discussions are in effect as of Tue Feb 25 14:58:01 UTC 2025.
 
 ---
 
-## SPC Feb 25, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Feb 26, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-02-25, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-26, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0632 AM CST Tue Feb 25 2025
+0632 AM CST Wed Feb 26 2025
 
-Valid 251300Z - 261200Z
+Valid 261300Z - 271200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Isolated thunderstorms are possible from the northern and central
-Plains today into the Mid Mississippi Valley overnight. A few
-isolated thunderstorms are possible across western Colorado as well.
-Severe thunderstorms are not anticipated.
+Isolated thunderstorms are possible across the Midwest and Ohio
+Valley this afternoon and evening. Severe storms are not expected.
 
-...Synopsis and Discussion...
-Early morning satellite imagery reveals an active northern stream,
-with one shortwave trough progressing through the Upper Great
-Lakes/OH Valley and another moving into the northern Rockies,
-downstream of a cyclone moving into southern British Columbia. The
-lead shortwave is forecast to continue eastward throughout the day,
-moving off the Northeast coast this evening. The second wave is also
-forecast to continue eastward (perhaps slightly east-southeastward),
-moving through the northern Plains this evening and into the Upper
-Midwest by early tomorrow morning. Another shortwave trough will
-follow quickly behind this second wave, progressing southeastward
-from the Pacific Northwest into the northern Rockies and UT.  
+...Synopsis...
+Recent satellite imagery shows a pair of shortwave troughs within
+the northern stream, one currently over the central Plains and the
+other farther west over the northern Rockies. The central Plains
+shortwave is expected to continue eastward throughout the day,
+moving through the Mid MS Valley and much of the OH Valley. Another
+shortwave trough will follow quickly in the wake of this wave,
+moving through Upper MS Valley late tonight/early tomorrow.
+Evolution of these two waves will help sharpen the cyclonic flow
+aloft over much of the Upper Great Lakes region and vicinity. 
 
-At the surface, a low will move across the northern/central Plains
-just ahead of the previously mentioned shortwave trough moving
-across the northern Plains. Strong forcing for ascent and cooling
-mid-level temperatures will support the potential for a few
-thunderstorms near this surface low as it moves over the Dakotas
-this afternoon and evening. A similar scenario is anticipated
-farther south, where some isolated thunderstorms are possible this
-in the vicinity of a weak secondary surface low over central KS.
-Continued mid-level moistening within a steep lapse rate environment
-ahead of this wave will contribute to a persisting potential for
-isolated thunderstorms from the Mid MO Valley into southern
-WI/northern IL late tonight/early tomorrow.
+At the surface, a low attendant to the central Plains shortwave
+trough was recently analyzed over central IA. A cold front extends
+southwestward from this low across southeast KS and western OK to
+another low over northwest TX. The central IA surface low is
+forecast to track eastward just ahead of its parent shortwave,
+likely ending the period in the northern Lake Erie vicinity. As this
+low moves eastward, the attendant cold front will progress
+eastward/southeastward across the Mid MS and OH Valleys. Isolated
+thunderstorms are expected along this front as it moves eastward. 
 
-Some isolated thunderstorms could also occur across western CO where
-modest buoyancy could develop amid strong boundary-layer mixing and
-cooling mid-level temperatures. Persistent large-scale forcing for
-ascent within this environment could support a few thunderstorm
-during the afternoon and evening.
+A few isolated thunderstorms also possible across northeast TX and
+the Arklatex late tonight into early tomorrow morning. Here, a few
+elevated storms are possible behind the surface front, amid modest
+low/mid-level moistening and convergence along the 850-mb front.  
 
-..Mosier/Grams.. 02/25/2025
+...Mid-South into the Middle OH Valley...
+Limited moisture return is anticipated ahead of the cold front
+mentioned in the synopsis, but mid 50s dewpoints could be in place
+from southeast MO into southern IL and southern IN prior to the
+passage of the cold front. Cooling mid-level temperatures and
+surface temperatures in the upper 60s will combine with this limited
+low-level moisture to support modest buoyancy (i.e. MLCAPE less than
+500 J/kg). Thunderstorm development is anticipated as the front
+interacts with this modest buoyancy, beginning around 21Z across the
+southeast MO vicinity. Isolated thunderstorms will remain possible
+along the front as it moves across the OH Valley, with the
+increasing large-scale ascent aiding the development of deep
+convection into areas where surface dewpoints are lower and buoyancy
+is scant. Deep-layer flow is strong enough to support some updraft
+organization, but the limited buoyancy is expected to keep updraft
+duration too short for much organization. As such, the
+severe-weather potential is low.
+
+..Mosier/Grams.. 02/26/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

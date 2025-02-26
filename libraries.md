@@ -1,11 +1,38 @@
 ---
 title: libraries
-updated: 2025-02-25 07:09:02
+updated: 2025-02-26 07:08:40
 ---
 
 # libraries
 
-(date: 2025-02-25 07:09:02)
+(date: 2025-02-26 07:08:40)
+
+---
+
+## Environmental Activism
+
+date: 2025-02-28, from: ETH Zurich, recently added
+
+Obydenkova, Anastassia; Plantan, Elizabeth; Loginova, Arina
+Burkhardt, Fabian; Orttung, Robert; Perović, Jeronim; Pleines, Heiko; Schröder, Hans-Henning; Obydenkova, Anastassia 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/724501>
+
+---
+
+## We Could Use a Model Licensing Framework for Scholarly Content Use in AI Tools
+
+date: 2025-02-26, from: Scholarly Kitchen
+
+<p>Model licenses simplified library licenses in the 2000s. The same approach can streamline licensing scholarly content for AI training today.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/26/we-could-use-a-model-licensing-framework-for-ai-tools/">We Could Use a Model Licensing Framework for Scholarly Content Use in AI Tools</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/26/we-could-use-a-model-licensing-framework-for-ai-tools/>
 
 ---
 
@@ -39,7 +66,7 @@ A young woman with a miserly father falls in love with her cousin.
 
 date: 2025-02-24, from: Association of Research Libraries News
 
-<p>Last Updated on February 24, 2025, 4:27 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 25 &#124; Wednesday, February 26 &#124; Thursday,...</p>
+<p>Last Updated on February 25, 2025, 1:43 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 25 &#124; Wednesday, February 26 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-24-27/">Day in Review (February 24–27)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

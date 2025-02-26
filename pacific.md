@@ -1,11 +1,457 @@
 ---
 title: pacific
-updated: 2025-02-25 07:08:58
+updated: 2025-02-26 07:08:36
 ---
 
 # pacific
 
-(date: 2025-02-25 07:08:58)
+(date: 2025-02-26 07:08:36)
+
+---
+
+## China roils the Pacific waters courtesy Australia and New Zealand
+
+date: 2025-02-26, from: Pacific Island Times
+
+China’s role in the region is a constant pressure in one direction. New Zealand and Australian policies toward the region have been naive at 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/china-roils-the-pacific-waters-courtesy-australia-and-new-zealand>
+
+---
+
+## Police to hold public meeting on temporary morgue
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Police Department invites the public to attend a community meeting to discuss a temporary morgue facility in Hilo from 5 p.m. to 6 p.m. Monday, March 3, at the Aupuni Center Conference Room, 101 Pauahi Street in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/hawaii-news/police-to-hold-public-meeting-on-temporary-morgue/>
+
+---
+
+## Trump blocked from imposing sweeping federal funding freeze
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>A U.S. judge on Tuesday extended an order blocking President Donald Trump&#8217;s administration from instituting a sweeping freeze on trillions of dollars in federal funding by pausing grants, loans and other financial support.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/trump-blocked-from-imposing-sweeping-federal-funding-freeze/>
+
+---
+
+## Proposed tax on foreign ships could increase costs in Hawaii
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s new secretary of commerce has vowed to tax foreign-&#0173;flagged ships making calls to U.S. ports.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/hawaii-news/proposed-tax-on-foreign-ships-could-increase-costs-in-hawaii/>
+
+---
+
+## Smaller providers could help ease insurance crisis for Puna homeowners
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>Some relief might be coming for Puna residents struggling to afford insurance, even as possible state solutions to the crisis have once again fizzled out.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/hawaii-news/smaller-providers-could-help-ease-insurance-crisis-for-puna-homeowners/>
+
+---
+
+## Trial set in housing credits scam
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>A federal trial has been scheduled for two Hilo attorneys accused of receiving Hawaii County affordable housing credits and land conveyances worth at least $10.98 million, with no intention of developing affordable housing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/hawaii-news/trial-set-in-housing-credits-scam/>
+
+---
+
+## Trump policy concerns send US consumer confidence plummeting to eight-month low
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. consumer confidence deteriorated at its sharpest pace in 3-1/2 years in February while 12-month inflation expectations surged, offering further signs that Americans were growing anxious about the potential negative economic impact of the policies of President Donald Trump&#8217;s administration. The Conference Board survey on Tuesday noted that &#8220;comments on the current administration and its policies dominated the responses.&#8221; It followed on the heels of surveys last week showing steep declines in business and consumer sentiment in February. Tariffs on imports, which Trump has already imposed or is planning to, have been singled out as the major issue in almost every survey of households and businesses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/trump-policy-concerns-send-us-consumer-confidence-plummeting-to-eight-month-low/>
+
+---
+
+## Replacement of Waiaka Bridge could start late this year
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>Efforts to replace the 93-year-old Waiaka Stream Bridge in South Kohala are still in motion, but construction is not expected to begin until late this year, state officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/hawaii-news/replacement-of-waiaka-bridge-could-start-late-this-year/>
+
+---
+
+## News in brief February 26
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>Trump says he wants $9 billion Keystone XL pipeline to be built</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/news-in-brief-february-26/>
+
+---
+
+## White House moves to pick the pool reporters who cover Trump
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration said Tuesday that it would start handpicking which media outlets were allowed to participate in the presidential press pool, the small, rotating group of reporters who relay the president&#8217;s day-to-day activities to the public.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/white-house-moves-to-pick-the-pool-reporters-who-cover-trump/>
+
+---
+
+## Hundreds in park service have opted to quit, agency memo says
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; More than 700 National Park Service employees have submitted resignations as part of Elon Musk&#8217;s &#8220;fork in the road&#8221; offer, according to an internal agency memo that critics of the plan said would diminish staffing for the busy summer tourism season.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/hundreds-in-park-service-have-opted-to-quit-agency-memo-says/>
+
+---
+
+## 21 DOGE staff members quit, refusing to assist Musk’s effort
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>A group of 21 civil servants with technology expertise resigned Tuesday rather than help implement an array of changes to the federal government being pushed by billionaire Elon Musk and his Department of Government Efficiency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/21-doge-staff-members-quit-refusing-to-assist-musks-effort/>
+
+---
+
+## How far do Trump’s cuts to science reach? To the ends of the earth.
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>Kelly Brunt wasn&#8217;t the only federal employee to be laid off this month while traveling for work. But she was almost certainly the only one whose work trip was in Antarctica.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/how-far-do-trumps-cuts-to-science-reach-to-the-ends-of-the-earth/>
+
+---
+
+## Millions may face loss of Medicaid if GOP wins cuts to funding
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; House Republicans hunting for ways to pay for President Donald Trump&#8217;s tax cuts have called for cutting the federal government&#8217;s share of Medicaid spending, including a proposal that would effectively gut the Affordable Care Act&#8217;s 2014 expansion of the program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/millions-may-face-loss-of-medicaid-if-gop-wins-cuts-to-funding/>
+
+---
+
+## Judge gives Trump administration deadline to release foreign aid
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A federal judge on Tuesday directed the Trump administration to unfreeze foreign aid funding within two days after indications that it was failing to comply with a previous court order to keep money flowing to aid groups around the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/nation-world-news/judge-gives-trump-administration-deadline-to-release-foreign-aid/>
+
+---
+
+## Violinist Nathan Meltzer will perform Friday with Wynona Wang
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>Last season, the Hawaii Concert Society presented internationally renowned violinist Midori, thanks to a generous grant from Midori&#8217;s foundation, Partners in Performance. As part of the agreement, HCS agreed to present a Midori protege in the current season.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/entertainment/violinist-nathan-meltzer-will-perform-friday-with-wynona-wang/>
+
+---
+
+## Public invited to ‘Coffee with a Cop’ in Keaau
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Police Department&#8217;s Puna Community Policing Officers invite East Hawaii residents to attend &#8220;Coffee with a Cop&#8221; from 8 a.m. to 9:30 a.m. on Saturday, March 1, at the Hawaiian Paradise Park Community Center, 15-1570 Makuu Drive.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/community/public-invited-to-coffee-with-a-cop-in-keaau/>
+
+---
+
+## Airbnb gives $1M to Hawaii Foodbank
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Foodbank has announced a $1 million donation from the Airbnb Community Fund that will help to provide food for approximately 2 million meals to families, kupuna and keiki in need across the islands.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/community/airbnb-gives-1m-to-hawaii-foodbank/>
+
+---
+
+## Hilo Woman’s Club to hold wine and cheese event
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo Woman&#8217;s Club next month will be hosting an &#8220;Evening of Wine &#38;Cheese Tasting.&#8221; </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/community/hilo-womans-club-to-hold-wine-and-cheese-event/>
+
+---
+
+## Hawaii District Science and Engineering Fair at Waiakea High
+
+date: 2025-02-26, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii District Science and Engineering Fair for East Hawaii schools is scheduled for Saturday at the Waiakea High School cafeteria.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/26/community/hawaii-district-science-and-engineering-fair-at-waiakea-high/>
+
+---
+
+## Hawaiian Word of the Week: ʻElua
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>&#699;Elua&#8212;Two, twice.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/hawaiian-word-of-the-week-elua/">Hawaiian Word of the Week: ʻElua</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/hawaiian-word-of-the-week-elua/>
+
+---
+
+## Asia Pacific Dance Festival: Tickets available to see world-class dancers
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>The festival offers workshop participants and performance attendees a deep dive into movement, music, history, language and cultural traditions.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/apdf-tickets-world-class-dancers/">Asia Pacific Dance Festival: Tickets available to see world-class dancers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/apdf-tickets-world-class-dancers/>
+
+---
+
+## Guam's poultry import ban partially lifted 
+
+date: 2025-02-26, from: Pacific Island Times
+
+ The Guam Department of Agriculture partially lifted the avian influenza-related import ban, allowing the importation of hatching eggs while 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-poultry-import-ban-partially-lifted>
+
+---
+
+## 3 volleyball Warriors earn Big West weekly honors
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>ʻEleu Choy, Kristian Titriyski and Tread Rosenthal led <abbr>UH</abbr>’s sweep of Belmont Abbey, Catawba and Queens.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/3-volleyball-earn-bw-honors/">3 volleyball Warriors earn Big West weekly honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/3-volleyball-earn-bw-honors/>
+
+---
+
+## UH swim and dive claims 7 Big West awards
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>The team swept diving awards for the second consecutive season.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/swim-dive-7-bw-awards/">UH swim and dive claims 7 Big West awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/swim-dive-7-bw-awards/>
+
+---
+
+## Kostrencich earns 1st Big West Pitcher of the Week honors
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>Addison Kostrencich posted a 2-1 record, including a complete-game shutout.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/kostrencich-earns-bw-pitcher/">Kostrencich earns 1st Big West Pitcher of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/kostrencich-earns-bw-pitcher/>
+
+---
+
+## Department of Women, Gender and Sexuality Studies celebrates 50 years
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>In 2007, there were seven women’s studies majors. Today there are close to 50 <abbr>WGSS</abbr> majors.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/wgss-celebrates-50-years/">Department of Women, Gender and Sexuality Studies celebrates 50 years</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/wgss-celebrates-50-years/>
+
+---
+
+## UH by the numbers: How data drives student success
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>The <abbr>UH</abbr> Institutional Research, Analysis &#038; Planning Office serves as university’s central hub for historical and real-time student data.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/uh-by-the-numbers/"><abbr>UH</abbr> by the numbers: How data drives student success</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/uh-by-the-numbers/>
+
+---
+
+## Mahina ʻŌlelo Hawaiʻi: Hawaiian language milestones
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>Here is a timeline of milestones in Hawaiian language in <span aria-label="Hawaii">Hawai&#699;i</span>, with key events related to the <abbr>UH</abbr> System.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/mahina-olelo-hawaii-language-milestones/">Mahina ʻŌlelo Hawaiʻi: Hawaiian language milestones</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/mahina-olelo-hawaii-language-milestones/>
+
+---
+
+## Collective Voice Important for Pacific Island Countries
+
+date: 2025-02-25, from: University of the South Pacific (Fiji)
+
+<p>Having a collective voice to show the world what is happening to us is very...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/collective-voice-important-for-pacific-island-countries/">Collective Voice Important for Pacific Island Countries</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/collective-voice-important-for-pacific-island-countries/>
+
+---
+
+## Guam Power Authority gets the nod to petition for power rate adjustments
+
+date: 2025-02-25, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Consolidated Commission on Utilities on Tuesday greenlighted the Guam Power Authority’s plan to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-power-authority-gets-the-nod-to-petition-for-power-rate-adjustments>
+
+---
+
+## Food insecurity a major driver of mental health challenges, study finds
+
+date: 2025-02-25, from: University of Hawaiʻi News
+
+<p>The study analyzed data from 2,270 adults residing in <span aria-label="Hawaii">Hawai&#699;i</span>, collected in 2022, to assess the impact of socioeconomic and demographic factors on mental health.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/food-insecurity-mental-health/">Food insecurity a major driver of mental health challenges, study finds</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/food-insecurity-mental-health/>
+
+---
+
+## UH leaders among Pacific Century Fellows honorees
+
+date: 2025-02-25, from: University of Hawaiʻi News
+
+<p>Carrie Okinaga and Diane Paloma were honored by the Pacific Century Fellows at its second <span aria-label="Hoopasifika">Ho&#699;opasifika</span> Gala.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/25/paloma-okinaga-among-pcf-honorees/"><abbr>UH</abbr> leaders among Pacific Century Fellows honorees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/25/paloma-okinaga-among-pcf-honorees/>
 
 ---
 
@@ -302,6 +748,20 @@ date: 2025-02-25, from: Hawaii Tribune Harold
 
 ---
 
+## Greenpeace goes to court in $300 million suit that poses bankruptcy risk
+
+date: 2025-02-25, from: Hawaii Tribune Harold
+
+
+				<p>Greenpeace went on trial Monday in North Dakota in a bombshell lawsuit that, if successful, could bankrupt the storied group.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/25/nation-world-news/greenpeace-goes-to-court-in-300-million-suit-that-poses-bankruptcy-risk/>
+
+---
+
 ## Whipps, Marcos Strengthen Palau-Philippines Ties on Climate, Fisheries, and Labor
 
 date: 2025-02-25, from: Island Times
@@ -394,7 +854,7 @@ date: 2025-02-25, from: Island Times
 
 date: 2025-02-25, from: Island Times
 
-<figure><img width="1024" height="862" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?fit=1024%2C862&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=300%2C252&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=1024%2C862&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=768%2C646&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=1200%2C1010&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=400%2C337&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=706%2C594&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?fit=1024%2C862&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75822" data-permalink="https://islandtimes.org/whipps-deep-sea-mining-needs-clear-rules-before-moving-forward/whipps-on-deep-sea-mining/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?fit=1249%2C1051&amp;ssl=1" data-orig-size="1249,1051" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Whipps on Deep Sea Mining" data-image-description="" data-image-caption="&lt;p&gt;Palau President Whipps delivering Palau&#8217;s position on Deep Sea Mining during the DSM Talanoa in Fiji on February 21st. (Photo credit: Office of the President)&lt;/p&gt;
+<figure><img width="1024" height="862" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?fit=1024%2C862&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=300%2C252&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=1024%2C862&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=768%2C646&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=1200%2C1010&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=400%2C337&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?resize=706%2C594&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?fit=1024%2C862&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75822" data-permalink="https://islandtimes.org/whipps-deep-sea-mining-needs-clear-rules-before-moving-forward/whipps-on-deep-sea-mining/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?fit=1249%2C1051&amp;ssl=1" data-orig-size="1249,1051" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Whipps on Deep Sea Mining" data-image-description="" data-image-caption="&lt;p&gt;Palau President Whipps delivering Palau&#8217;s position on Deep Sea Mining during the DSM Talanoa in Fiji on February 21st. (Photo credit: Office of the President)&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?fit=300%2C252&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/Whipps-on-Deep-Sea-Mining.jpg?fit=780%2C657&amp;ssl=1" /></figure>
 <p>SUVA, Fiji — Palau President Surangel S. Whipps Jr. has called on Pacific leaders to stop deep-sea mining (DSM) until we fully understand its effects on the ocean. Speaking at the Pacific Islands Forum Talanoa on Feb. 21, 2025, Whipps stressed that mining should not move forward without solid scientific proof that it won’t cause [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/whipps-deep-sea-mining-needs-clear-rules-before-moving-forward/">Whipps: Deep-Sea Mining Needs Clear Rules Before Moving Forward</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -424,7 +884,7 @@ date: 2025-02-25, from: Island Times
 
 date: 2025-02-25, from: Island Times
 
-<figure><img width="1024" height="335" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=1024%2C335&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=300%2C98&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=1024%2C335&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=768%2C251&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=1200%2C393&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=400%2C131&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=706%2C231&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=1024%2C335&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75814" data-permalink="https://islandtimes.org/palau-judiciary-attends-a-seminar-on-artificial-intelligence-and-the-courts/pr162-aiseminar-final/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=1249%2C409&amp;ssl=1" data-orig-size="1249,409" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR162-AISeminar-final" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=300%2C98&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=780%2C255&amp;ssl=1" /></figure>
+<figure><img width="1024" height="335" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=1024%2C335&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=300%2C98&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=1024%2C335&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=768%2C251&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=1200%2C393&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=400%2C131&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?resize=706%2C231&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=1024%2C335&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75814" data-permalink="https://islandtimes.org/palau-judiciary-attends-a-seminar-on-artificial-intelligence-and-the-courts/pr162-aiseminar-final/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=1249%2C409&amp;ssl=1" data-orig-size="1249,409" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR162-AISeminar-final" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=300%2C98&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/PR162-AISeminar-final.jpg?fit=780%2C255&amp;ssl=1" /></figure>
 <p>On Tuesday, February 18, 2025, over 25 personnel from the Palau Judiciary attended a half-day seminar on the introduction of Artificial Intelligence (AI) basics, covering both traditional and generative AI and its potential impact on the Judiciary’s work. The seminar was designed to inform judicial decision-making by explaining current use of this innovative technology as [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/palau-judiciary-attends-a-seminar-on-artificial-intelligence-and-the-courts/">Palau Judiciary attends a seminar on Artificial Intelligence and the Courts</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -439,7 +899,7 @@ date: 2025-02-25, from: Island Times
 
 date: 2025-02-25, from: Island Times
 
-<figure><img width="1024" height="369" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?fit=1024%2C369&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=300%2C108&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=1024%2C369&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=768%2C277&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=1200%2C432&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=400%2C144&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=706%2C254&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?fit=1024%2C369&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75811" data-permalink="https://islandtimes.org/governance-clinic-for-the-youth-of-ngaraard-state/ngaraard-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?fit=1249%2C450&amp;ssl=1" data-orig-size="1249,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ngaraard" data-image-description="" data-image-caption="&lt;p&gt;Ngaraard State Youth with The Honorable Sharp Sakuma, Governor, 11th Ngaraard State Government; The Honorable Dwayne Tochi, Floor Leader, 11th Olbetibel Era Ngaraard; and Legislator Nestralda Mechaet, Elab County. &lt;/p&gt;
+<figure><img width="1024" height="369" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?fit=1024%2C369&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=300%2C108&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=1024%2C369&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=768%2C277&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=1200%2C432&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=400%2C144&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?resize=706%2C254&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?fit=1024%2C369&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75811" data-permalink="https://islandtimes.org/governance-clinic-for-the-youth-of-ngaraard-state/ngaraard-5/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?fit=1249%2C450&amp;ssl=1" data-orig-size="1249,450" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ngaraard" data-image-description="" data-image-caption="&lt;p&gt;Ngaraard State Youth with The Honorable Sharp Sakuma, Governor, 11th Ngaraard State Government; The Honorable Dwayne Tochi, Floor Leader, 11th Olbetibel Era Ngaraard; and Legislator Nestralda Mechaet, Elab County. &lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?fit=300%2C108&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/ngaraard.jpg?fit=780%2C281&amp;ssl=1" /></figure>
 <p>Ngaraard, Palau – On February 19, 2025, to strengthen civic awareness and youth participation in governance, the Division of State and Community Affairs, Bureau of Domestic Affairs, in partnership with the Ngaraard State Government, hosted a Governance Clinic for youth of Ngaraard State at Bai ra Choll. This program aims to educate the youth about [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/governance-clinic-for-the-youth-of-ngaraard-state/"> Governance Clinic for the Youth of Ngaraard State</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
@@ -455,7 +915,7 @@ date: 2025-02-25, from: Island Times
 
 date: 2025-02-25, from: Island Times
 
-<figure><img width="600" height="655" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=600%2C655&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?resize=275%2C300&amp;ssl=1 275w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?resize=400%2C437&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=600%2C655&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75807" data-permalink="https://islandtimes.org/mengiau-sasao-joins-the-palau-aquarium-as-junior-researcher/mengiausasao/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=600%2C655&amp;ssl=1" data-orig-size="600,655" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="MengiauSasao" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=275%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=600%2C655&amp;ssl=1" /></figure>
+<figure><img width="600" height="655" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=600%2C655&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?resize=275%2C300&amp;ssl=1 275w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?resize=400%2C437&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=600%2C655&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="75807" data-permalink="https://islandtimes.org/mengiau-sasao-joins-the-palau-aquarium-as-junior-researcher/mengiausasao/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=600%2C655&amp;ssl=1" data-orig-size="600,655" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="MengiauSasao" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=275%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/02/MengiauSasao.jpg?fit=600%2C655&amp;ssl=1" /></figure>
 <p>The Palau International Coral Reef Center (PICRC) is excited to welcome Mengiau Sasao, Palauan, as Junior Researcher for the Palau Aquarium. Mengiau is no stranger to PICRC: she previously worked as a Sales Associate at the Palau Aquarium’s Giant Clam gift shop, where she learned about the center’s operations and connected with visitors. But her [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/mengiau-sasao-joins-the-palau-aquarium-as-junior-researcher/">Sasao joins the Palau Aquarium as Junior Researcher</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -470,7 +930,7 @@ date: 2025-02-25, from: Island Times
 
 date: 2025-02-25, from: Island Times
 
-<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" /></figure>
+<figure><img width="537" height="567" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?w=537&amp;ssl=1 537w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=284%2C300&amp;ssl=1 284w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?resize=400%2C422&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="61696" data-permalink="https://islandtimes.org/self-compassion/womens-corner-1-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" data-orig-size="537,567" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Womens Corner 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=284%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2023/02/Womens-Corner-1-e1677800803910.jpg?fit=537%2C567&amp;ssl=1" /></figure>
 <p>A nation once thriving with life, now lay in rubble. A senseless war lead by a demented and sadistic man under guise of liberating Ukrainians from being &#8220;bullied and subjected to acts of genocide by the Ukrainian government&#8221;. Departed souls roaming in tears, in and out of smoke covered buildings and mass graves, grieving for [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/sorrowful-souls-2/">Sorrowful Souls</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

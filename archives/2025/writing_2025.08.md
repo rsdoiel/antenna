@@ -1,11 +1,177 @@
 ---
 title: writing
-updated: 2025-02-25 07:09:01
+updated: 2025-02-26 07:08:38
 ---
 
 # writing
 
-(date: 2025-02-25 07:09:01)
+(date: 2025-02-26 07:08:38)
+
+---
+
+## How to Handle Online Book Reviews Without Losing Your Mind
+
+date: 2025-02-26, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-handle-online-book-reviews-without-losing-your-mind>
+
+---
+
+## Magazines Received – February
+
+date: 2025-02-25, from: Locus Magazine
+
+<div class="blockquote">This list covers new SF/F/H print, online, and electronic periodicals (including regularly updated websites) seen by Locus magazine, focusing on those that publish fiction or reviews and criticism. To submit titles for listing on these pages, please send to Locus Publications, 655 13th St. #100, Oakland CA 94612 or email locus@locusmag.com.</div>
+<div>
+<div class="mynomorebulletlist">
+
+<p>Bourbon Penn</p>
+<ul>
+<li>Erik Secker, ed.</li>
+<li>Issue No. 34, December 2024, $14.95 print/$2.99 digital/free online, three times a year, 164pp, </li></ul></div></div> <a href="https://locusmag.com/2025/02/magazines-received-february-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/magazines-received-february-4/>
+
+---
+
+## How ‘Captain America: Brave New World’ is more than an Action Film
+
+date: 2025-02-25, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-captain-america-brave-new-world-is-more-than-an-action-film" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Anthony%20Mackie%20in%20Captain%20America_%20Brave%20New%20World%20%282%29.png" alt="Anthony Mackie protects himself using the Captain America shield in Captain America: Brave New World." class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>When <em>Iron Man</em> was released in 2008 there was no Marvel Cinematic Universe. Seventeen years and 34 films later, <em>Captain America: Brave New World</em> hits theaters with a template of how to make a superhero film and the importance of being a part of a larger narrative.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-captain-america-brave-new-world-is-more-than-an-action-film>
+
+---
+
+## Mechanize My Hands to War by Erin K. Wagner.: Review by Niall Harrison
+
+date: 2025-02-25, from: Locus Magazine
+
+<p><strong>Mechanize My Hands to War</strong>, Erin K. Wagner (DAW 978-0-7564-1934-9, $28.99, 309pp, hc) December 2024. Cover by Faceout Studio, Tim Green.</p>
+<p>From a novel in which voice overmasters genre we move to one in which genre more or less overmasters voice. Erin K. Wagner’s debut novel, <strong>Mechanize My Hands to War</strong>, isn’t badly told or badly imagined per se, but most of what is imagined is familiar and,  <a href="https://locusmag.com/2025/02/mechanize-my-hands-to-war-by-erin-k-wagner-review-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/mechanize-my-hands-to-war-by-erin-k-wagner-review-by-niall-harrison/>
+
+---
+
+## How To Write a Screenplay
+
+date: 2025-02-25, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-a-screenplay" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/What%20is%20a%20Screenplay.png" alt="Image of vintage paper that reads 'screenplay' placed in a typewriter." class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>So you’ve decided you want to be a screenwriter and write your very own screenplay for a feature film, TV show, or new media platform.&nbsp;<br><br>This is a unique skillset, because film and television are visual mediums and collaborative art forms. Because of this, a screenplay needs to be formatted in a specific way. These days, most writers invest in <a href="https://www.finaldraft.com/company/why-screenwriting-software/">screenwriting software</a> that automatically formats their scripts to industry standard formatting, so this part of the process is not nearly as daunting as it was in the past.&nbsp;<br><br>However, even with screenwriting software, if you’re a beginner writer, you might not know the best way to approach the blank page and fill it with ideas for a movie, TV series or any kind of narrative content you’re looking to create. And just like any skillset, it’s possible to learn and eventually excel at screenplay writing.<br><br>Below are <span style="font-weight: bold;">5 Easy Steps to Writing a Screenplay</span>:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-write-a-screenplay>
+
+---
+
+## 2025 London Writers Awards Winners
+
+date: 2025-02-25, from: Locus Magazine
+
+<p>Spread the Word, a literary development agency in London, has announced the 2025 winners of their London Writers Awards for emerging writers. The Awards are split into three categories, Literary, Commercial, and YA/Children&#8217;s; of the 24 awardees, there are several with work of speculative and genre interest, including:</p>
+<div class="mynomorebulletlist">
+<p>Literary Fiction:</p>
+<ul>
+<li>J. Lian Ho</li>
+<li>Sophia Khan</li>
+<li>Lishani Ramanayake</li>
+<li>Sukie Wilson</li>
+</ul>
+<p>Commercial Fiction:</p>
+<ul>
+<li>Emily D. Bean</li>
+<li>L.A. Chase</li>
+<li>Nkenna Ndujiuba</li>
+</ul>
+<p>YA/Children&#8217;s Fiction</p></div> <a href="https://locusmag.com/2025/02/2025-london-writers-awards-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-london-writers-awards-winners/>
+
+---
+
+## SFWA Updates
+
+date: 2025-02-25, from: Locus Magazine
+
+<p>The Science Fiction &#38; Fantasy Writers Association (SFWA) has posted updates in an announcement from its Board of Directors.</p>
+<p><strong>New Director-at-Large</strong>: Day Al-Mohamed was appointed to the board on February 1, 2025. Her first SFWA Board meeting was on February 19, and a public announcement was posted on February 22.</p>
+<p><strong>Nebulas personnel</strong>: Events manager Sherine Mani was announced as the Nebula Conference Project Manager. Additionally, Rebekah Postupak and  <a href="https://locusmag.com/2025/02/sfwa-updates/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/sfwa-updates/>
+
+---
+
+## Puzzle Box Storytelling
+
+date: 2025-02-25, from: John August blog
+
+John and Craig decipher mystery box shows, where the premise and audience experience involve solving the puzzle of what’s really happening. They look at strategies for revealing clues and information, being mindful of the audience’s expectations, and the importance of the emotional journey inside the labyrinth. We also announce a new video game, discuss what [&#8230;]
+The post <a href="https://johnaugust.com/2025/puzzle-box-storytelling">Puzzle Box Storytelling</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/677standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/677standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/puzzle-box-storytelling>
+
+---
+
+## New & Notable, February 2025
+
+date: 2025-02-25, from: Locus Magazine
+
+<p></p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>Samantha Allen, <strong>Roland Rogers Isn’t Dead Yet</strong> (Zando 12/24). In this paranormal romance novel, protagonist Adam, who’s out and proud but also down on his luck, is commissioned to write the autobiography (and coming-out) of Hollywood hunk Roland Rogers. The twist is that Rogers is already dead, communicating frantically through his kitchen speaker. Adam must complete the project before Rogers’ body is found.</p>
+<p>&#160;</p>
+<p>&#160;</p>
+
+<p></p>
+<p>&#160;</p>
+<p>&#160;</p>
+<p>&#160; <a href="https://locusmag.com/2025/02/new-notable-february-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/new-notable-february-2025/>
+
+---
+
+## The River Has Roots by Amal El-Mohtar: Review by Liz Bourke
+
+date: 2025-02-25, from: Locus Magazine
+
+<p><strong>The River Has Roots</strong>, Amal El-Mohtar (Tor­dotcom 978-1-250-34108-2, $24.99, 144pp, hc) March 2025.</p>
+<p>Amal El-Mohtar is perhaps most famous as the co-author (with Max Gladstone) of the justly lauded bestselling novella <strong>This Is How You Lose the Time War</strong>. Her independent talents, however, are numerous, and in her new solo novella <strong>The River Has Roots</strong>, several of them are on display.</p>
+<p><strong>The River Has Roots </strong>is intertwined  <a href="https://locusmag.com/2025/02/the-river-has-roots-by-amal-el-mohtar-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-river-has-roots-by-amal-el-mohtar-review-by-liz-bourke/>
 
 ---
 

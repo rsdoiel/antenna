@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-02-25 07:09:03
+updated: 2025-02-26 07:08:41
 ---
 
 # retro computing
 
-(date: 2025-02-25 07:09:03)
+(date: 2025-02-26 07:08:41)
+
+---
+
+## Ubuntu 25.04 Coming Soon
+
+date: 2025-02-26, from: Linux Magazine
+
+<p>Ubuntu 25.04 (Plucky Puffin) has been given an April release date with many notable updates.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Ubuntu-25.04-Coming-Soon>
+
+---
+
+## Ergotron Mouse Cleaner 360
+
+date: 2025-02-26, from: Computer ads from the Past
+
+Keeps your mouse operating like new!! 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/ergotron-mouse-cleaner-360>
+
+---
+
+## March developer 'fireside' chat on saturday night
+
+date: 2025-02-26, from: Icon Bar, RISC OS News
+
+The next 'fireside' chat of 2025 is on 1sth March (this saturday). 7:30pm UK time kick-off and the event is on Zoom. Stay for as long or as short a time as you like. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2162.html>
+
+---
+
+## Developers’ fireside chat – 1st March
+
+date: 2025-02-25, from: RiscOS Story
+
+Saturday, 1st March, is the next date to circle in your diaries if you have any interest in software development on or for the RISC OS platform &#8211; or even of RISC OS itself. That&#8217;s the date on which the next &#8216;friendly fireside chat&#8217; is scheduled to take place. Taking place online using Zoom and with a start time of around 7:30pm, the purpose of these virtual gatherings is to provide people who have an interest in programming and any related spheres with a way to discuss the topic, with&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/developers-fireside-chat-1st-march/>
 
 ---
 

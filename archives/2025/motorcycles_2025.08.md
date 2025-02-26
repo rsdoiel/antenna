@@ -1,23 +1,108 @@
 ---
 title: motorcycles
-updated: 2025-02-25 07:09:03
+updated: 2025-02-26 07:08:41
 ---
 
 # motorcycles
 
-(date: 2025-02-25 07:09:03)
+(date: 2025-02-26 07:08:41)
 
 ---
 
-## Carson Hocevar, ‘We’re Here To Win Races, Not Be A Boy Band’
+## Watch a Ducati Panigale V4 Snow Bike Get Stranded in Freezing Temperatures
 
-date: 2025-02-25, from: Kickin the Tires blog
+date: 2025-02-26, from: Ride Apart, Electric Motorcycle News
 
-By Jerry Jordan, Editor HAMPTON, Ga. – Carson Hocevar was a very popular driver following his runner-up finish in the NASCAR Cup Series race at Atlanta Motor Speedway but that&#8230;  
+To be fair, it went further than any other Panigale V4 snow bike has gone. 
 
 <br> 
 
-<https://kickinthetires.net/nascar/carson-hocevar-were-here-to-win-races-not-be-a-boy-band/>
+<https://www.rideapart.com/news/751658/ducati-panigale-v4-snow-bike-breaks-down/>
+
+---
+
+## Motorcycle Racing Nerds Get Ready for "Ago", the Giacomo Agostini Documentary
+
+date: 2025-02-26, from: Ride Apart, Electric Motorcycle News
+
+We don't get many of these, so I pray to the movie gods that this is a good one. 
+
+<br> 
+
+<https://www.rideapart.com/news/751496/ago-giacomo-agostini-documentry/>
+
+---
+
+## Buy This $15 Million Compound in Glamis, Get 10 Polaris UTVs for Free
+
+date: 2025-02-26, from: Ride Apart, Electric Motorcycle News
+
+Buy one get 10 free or BOGT, as we'll now refer to it. 
+
+<br> 
+
+<https://www.rideapart.com/news/751639/glamis-for-sale-property-polaris-rzr-rs1/>
+
+---
+
+## Jawa’s 350 Legacy Edition Looks Like the Perfect Beginner-Friendly Cruiser
+
+date: 2025-02-26, from: Ride Apart, Electric Motorcycle News
+
+Could it possibly find a home on US roads?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/751540/jawa-350-legacy-edition-launch-india/>
+
+---
+
+## Simpson Drops Two New Dope Adventure Motorcycle Helmets
+
+date: 2025-02-26, from: Ride Apart, Electric Motorcycle News
+
+Time to find some dirt.  
+
+<br> 
+
+<https://www.rideapart.com/news/751643/simpson-helmets-adventure-journey-bandit-xcursion/>
+
+---
+
+## KTM Won't Die After All, But No One Knows Who Saved It
+
+date: 2025-02-26, from: Ride Apart, Electric Motorcycle News
+
+A mysterious party has, in part, saved the brand.  
+
+<br> 
+
+<https://www.rideapart.com/news/751803/ktm-restucturing-succeeds-insolvency/>
+
+---
+
+## Say Goodbye To the Honda CB1300 With These Gorgeous Final Editions
+
+date: 2025-02-25, from: Ride Apart, Electric Motorcycle News
+
+Both the Super Four and Bol d'Or go out with special color schemes for Honda's biggest naked. 
+
+<br> 
+
+<https://www.rideapart.com/news/751504/honda-cb1300-final-editions-revealed/>
+
+---
+
+## Aprilia Racers Days Are Back and Packed With Goodies for Riders of All Creeds
+
+date: 2025-02-25, from: Ride Apart, Electric Motorcycle News
+
+If you can go, you'd be crazy to miss out. 
+
+<br> 
+
+<https://www.rideapart.com/news/751339/aprilia-racers-days-2025/>
 
 ---
 
@@ -67,6 +152,18 @@ There are a few ways this could go, but one way it'll likely go.
 <br> 
 
 <https://www.rideapart.com/news/751488/willow-springs-international-raceway-private-equity-sale/>
+
+---
+
+## Carson Hocevar, ‘We’re Here To Win Races, Not Be A Boy Band’
+
+date: 2025-02-25, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor HAMPTON, Ga. – Carson Hocevar was a very popular driver following his runner-up finish in the NASCAR Cup Series race at Atlanta Motor Speedway but that&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/carson-hocevar-were-here-to-win-races-not-be-a-boy-band/>
 
 ---
 

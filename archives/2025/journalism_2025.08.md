@@ -1,11 +1,281 @@
 ---
 title: journalism
-updated: 2025-02-25 07:09:01
+updated: 2025-02-26 07:08:39
 ---
 
 # journalism
 
-(date: 2025-02-25 07:09:01)
+(date: 2025-02-26 07:08:39)
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper))
+
+<em>The Daily Bruin covers breaking news relevant to the UCLA community as it happens. This page is covering February 2025 strikes from the American Federation of State, County and Municipal Employees Local 3299 – which represents patient care, service and skilled craft workers – and the University Professional and Technical Employees-Communications Workers of America 9119 – which represents research and technical workers.</em> 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481453/>
+
+---
+
+## UCLA Blood & Platelet Center hosts annual Black History Month blood drive
+
+date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Blood &#38; Platelet Center hosted its annual Black History Month Blood Drive in the De Neve Plaza Rooms on Feb. 13.
+Undergraduate students volunteered and participated in the event &#8211; which has run for four consecutive years &#8211; with the support of groups such as the Black Bruin Resource Center. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/ucla-blood-platelet-center-hosts-annual-black-history-month-blood-drive/>
+
+---
+
+## UAW Local 4811 leaders meet to fight National Institutes of Health funding cuts
+
+date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Members of the United Auto Workers Local 4811 joined students across the UC on Wednesday to protest the Trump administration&#8217;s cuts in National Institutes of Health funding. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/uaw-local-4811-leaders-meet-to-fight-national-institutes-of-health-funding-cuts/>
+
+---
+
+## UCLA community commemorates legacy of 2 students in Black Panther Party
+
+date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article includes mentions of gun violence that may be disturbing to some readers.
+UCLA&#8217;s Afrikan Student Union and Academic Advancement Program co-hosted a memorial Thursday for two students and Black Panthers killed in Campbell Hall. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/ucla-community-commemorates-legacy-of-2-students-in-black-panther-party/>
+
+---
+
+## Thousands of workers from AFSCME 3299 and UPTE-CWA 9119 to strike across UC
+
+date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two unions have called on nearly 60,000 workers to strike across the UC starting Wednesday.
+The American Federation of State, County and Municipal Employees Local 3299, which represents patient care, service and skilled craft workers, called for its second strike against the UC this academic year for Wednesday and Thursday. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/thousands-of-workers-from-afscme-3299-and-upte-cwa-9119-to-strike-across-uc/>
+
+---
+
+## Bautista, Fallon elected as USG president, vice president
+
+date: 2025-02-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students cast 3,620 votes in the election, approximately a 16% decrease from last year.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/26/bautista-fallon-elected-as-usg-president-vice-president/">Bautista, Fallon elected as USG president, vice president</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/26/bautista-fallon-elected-as-usg-president-vice-president/>
+
+---
+
+## Classifieds – February 26, 2025
+
+date: 2025-02-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/26/classifieds-february-26-2025/">Classifieds &#8211; February 26, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/26/classifieds-february-26-2025/>
+
+---
+
+## Trump administration’s actions echo across campus
+
+date: 2025-02-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A flurry of executive orders and other actions could reshape colleges across the country.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/26/trump-administrations-actions-echo-across-campus-live-updates/">Trump administration&#8217;s actions echo across campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/26/trump-administrations-actions-echo-across-campus-live-updates/>
+
+---
+
+## Family Reunion concludes USC’s BHM celebrations
+
+date: 2025-02-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event featured prizes, live music, food, keynote speakers and double Dutch.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/26/family-reunion-concludes-uscs-bhm-celebrations/">Family Reunion concludes USC’s BHM celebrations</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/26/family-reunion-concludes-uscs-bhm-celebrations/>
+
+---
+
+## Bereishit Dance Company  fuses culture, communication
+
+date: 2025-02-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Through two acts, director Park Soon-ho meditates on violence and harmony.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/26/bereishit-dance-company-fuses-cultures-and-communication/">Bereishit Dance Company  fuses culture, communication</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/26/bereishit-dance-company-fuses-cultures-and-communication/>
+
+---
+
+## Bring Britney back
+
+date: 2025-02-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I don’t want to be Hollywood chic, I want to be early 2000s pop star chic.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/26/bring-britney-back/">Bring Britney back</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/26/bring-britney-back/>
+
+---
+
+## Scripters award the written word to the silver screen
+
+date: 2025-02-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The 37th USC Libraries Scripter Awards took place Saturday night in Town and Gown.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/26/scripters-award-the-written-word-to-the-silver-screen/">Scripters award the written word to the silver screen</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/26/scripters-award-the-written-word-to-the-silver-screen/>
+
+---
+
+## UCLA Faculty Artist Series
+
+date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA string faculty take the spotlight and perform for Chamber Music Masterpieces, a concert in the Faculty Artist Series. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/25/ucla-faculty-artist-series/>
+
+---
+
+## Sex Week aims to destigmatize conversations about sex, give space for expression
+
+date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+After a year&#8217;s hiatus, Sex Week returned to UCLA Feb. 10. 
+The annual event devoted to promoting sex positivity on campus was hosted during week six by Sexperts, a committee under the Student Wellness Commission of the Undergraduate Students Association Council working toward educating students on sexual health and wellbeing, and the Health Education and Resource Team (HEART). 
+
+<br> 
+
+<https://dailybruin.com/2025/02/25/sex-week-aims-to-destigmatize-conversations-about-sex-give-space-for-expression/>
+
+---
+
+## UCLA First Thursdays Support Angelenos Affected by Recent Wildfires
+
+date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins Love LA event, hosted by UCLA First Thursdays, raises money for wildfire relief. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/25/ucla-first-thursdays-support-angelenos-affected-by-recent-wildfires/>
+
+---
+
+## Bautista, Fallon win USG presidential election
+
+date: 2025-02-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>All of the USG senate candidates were elected by default after Mason Yonover was disqualified from the race in a Feb. 20 opinion from the judicial council.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/25/bautista-fallon-win-usg-presidential-election/">Bautista, Fallon win USG presidential election</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/25/bautista-fallon-win-usg-presidential-election/>
+
+---
+
+## Review: Live From New York, SNL50’s Star Power Saved the Special
+
+date: 2025-02-26, from: The Sundail (CSUN Student Newspaper)
+
+Saturday Night Live celebrated its 50th anniversary with a concert, documentary, and a three-hour anniversary special that aired on Feb. 16. Usually, celebrity guest hosts and musical performances attract people... 
+
+<br> 
+
+<https://sundial.csun.edu/190534/arts-entertainment/review-live-from-new-york-snl50s-star-power-saved-the-special/>
+
+---
+
+## Editorial Cartoon: “Midterms”
+
+date: 2025-02-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/02/25/editorial-cartoon-midterms-3/>
+
+---
+
+## Review: MJ Lenderman’s beer & shot combo at The Fonda
+
+date: 2025-02-25, from: The Sundail (CSUN Student Newspaper)
+
+The day before Valentine’s Day, it had rained more than it had in nearly a year. The night’s drizzle gave the lights outside The Fonda Theatre in Hollywood shape and... 
+
+<br> 
+
+<https://sundial.csun.edu/190523/arts-entertainment/review-mj-lendermans-beer-shot-combo-at-the-fonda/>
+
+---
+
+## LA Wildfires and CSUN’s response
+
+date: 2025-02-25, from: The Sundail (CSUN Student Newspaper)
+
+Los Angeles has experienced historical and significant wildfires throughout the region, with the Palisades and the Eaton fire being among the largest. The catastrophes impacted many within the CSUN community,... 
+
+<br> 
+
+<https://sundial.csun.edu/190518/news/la-wildfires-and-csuns-response/>
+
+---
+
+## Lifestyle Medicine Club offers free health screenings to south LA residents
+
+date: 2025-02-25, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Lifestyle Medicine Club at UCLA held the second of its biweekly free clinics Feb. 1 to provide health screening services for people in south Los Angeles. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/25/lifestyle-medicine-club-offers-free-health-screenings-to-south-la-residents/>
 
 ---
 
@@ -13,6 +283,7 @@ updated: 2025-02-25 07:09:01
 
 date: 2025-02-25, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated Feb. 26 at 1:40 a.m.</em>
 A room inside Macgowan Hall went quiet as students shuffled across tatami mats, kneeling to acknowledge a purple flower and bowing to accept a bowl of matcha tea. 
 
 <br> 

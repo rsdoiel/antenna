@@ -1,11 +1,359 @@
 ---
 title: science and technology
-updated: 2025-02-25 07:08:59
+updated: 2025-02-26 07:08:37
 ---
 
 # science and technology
 
-(date: 2025-02-25 07:08:59)
+(date: 2025-02-26 07:08:37)
+
+---
+
+## Framework guns for cheap laptops with upgradeable alternative
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Chromebook-area pricing for latest designs</h4> <p>Framework, maker of modular and repairable laptops, is aiming at a wider audience with an upcoming 12-inch touchscreen convertible that will target the entry-level market.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/framework_guns_for_cheap_laptops/>
+
+---
+
+## Under Trump 2.0, Europe's dependence on American clouds has become a worry
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Technologist Bert Hubert tells <i>The Reg</i> Microsoft Outlook is a huge source of geopolitical risk</h4> <p><strong>Interview</strong>  Europeans are starting to worry that US companies’ dominance of the cloud represents untenable risk.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/europe_has_second_thoughts_about/>
+
+---
+
+## Microsoft's updated Windows battery indicator rollout runs out of juice
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>How hard can it be to add colors and percentages?</h4> <p>Microsoft has halted the rollout of a revamped battery indicator to Windows 11 Insiders in the Release Preview Channel.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/windows_battery_indicator_rollout/>
+
+---
+
+## Signal will withdraw from Sweden if encryption-busting laws take effect
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Experts warned the UK’s recent &#39;victory&#39; over Apple would kickstart something of a domino effect</h4> <p>Signal CEO Meredith Whittaker says her company will withdraw from countries that force messaging providers to allow law enforcement officials to access encrypted user data, as Sweden continues to mull such plans.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/signal_will_withdraw_from_sweden/>
+
+---
+
+## SpaceX says bad vibes most likely cause of Starship 7 flop
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>All fixed for Flight Test Eight, OK?</h4> <p>As SpaceX prepares for a Friday launch of its next Starship flight test, Elon Musk&#39;s biz has explained that the failure of the previous test was due to a harmonic response.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/spacex_harmonic_response_starship/>
+
+---
+
+## Murena kicks Google out of the Pixel Tablet
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Privacy-centric Android makes more sense on this form factor than a phone</h4> <p>We had a play with Murena&#39;s first tablet, a Google Pixel running /e/OS, its in-house de-Googled Android 13 with additional privacy features.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/murena_degoogled_android_tablet/>
+
+---
+
+## HP CEO pay for 2024 = 261,658 toner cartridges
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>That&#39;s down on last year in terms of financial compensation and – given ink price hike – the number of supplies he is valued at</h4> <p>HP CEO Enrique Lores saw his total compensation shrink by a little more than $98,000 in the corporation&#39;s fiscal 2024. To mere mortals that would induce tears, but as for the executive himself, it likely just meant he had to opt for a slightly less shiny new suit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/hp_ceo_pay_for_2024/>
+
+---
+
+## Steve Wozniak: 'Founding Apple would be much harder today than in the 1970s'
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Plus: Beware of a hotspot called &#39;spanky&#39;</h4> <p>Computing pioneer Steve Wozniak didn&#39;t set out to revolutionize the computer industry. He just wanted the respect of his fellow engineers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/steve_wozniak_keynote/>
+
+---
+
+## Satya Nadella says AI is yet to find a killer app that matches the combined impact of email and Excel
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Microsoft CEO is more interested in neural nets boosting GDP than delivering superhuman intelligence</h4> <p>While the likes of OpenAI and Alibaba are talking up artificial general intelligence (AGI) capable of replacing humans, Microsoft CEO Satya Nadella argues AI&#39;s success should be measured by its benefit to the global economy – which may come once the technology finds a killer app to match the impact of email or Excel.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/microsofts_nadella_wants_to_see/>
+
+---
+
+## 200-plus impressively convincing GitHub repos are serving up malware
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Plus: DOGE staff quit; LastPass PC, Mac gasp; and CISA warns Oracle and Adobe flaws under attack</h4> <p><strong>Infosec bytes</strong>  Kaspersky says it has found more than 200 GitHub repos hosting fairly convincing-looking fake projects laced with malicious software.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/infosec_bytes/>
+
+---
+
+## Incoming deputy head of Homeland Security says CISA needs to be reined in
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Plus: New figurehead of DOGE emerges and they aren&#39;t called Elon</h4> <p>During confirmation hearings in the US Senate Tuesday for the role of deputy director of the Dept of Homeland Security, the nominee Troy Edgar said CISA has had the wrong management and needed to be &#34;reined in.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/dhs_cisa_doge/>
+
+---
+
+## Mozilla reaffirms it won’t remove Manifest v2 support from Firefox
+
+date: 2025-02-26, from: OS News
+
+Mozilla has officially reiterated that it&#8217;s going to keep offering support for both Manifest v2 and Manifest v3 extensions in Firefox. Google is removing support for Manifest v2 from Chrome, and with it a feature called blockingWebRequest that is used by ad blockers like uBlock Origin. Google&#8217;s replacement for that feature is more restrictive and less capable, and as such, uBlock Origin no longer works on Chrome. Firefox, however, will continue supporting both blockingWebRequest and declarativeNetRequest — giving developers more flexibility and keeping powerful privacy tools available to users. ↫ Scott DeVaney and Ed Sullivan There&#8217;s a lot to be worried about when it comes to Mozilla&#8217;s future, but on this matter, at least, they&#8217;re taking the correct stance that genuinely puts users first. It&#8217;s no surprise Google is using Manifest v3 as an excuse to nerf adblocking in Chrome, since adblocking cuts into Google&#8217;s most important source of revenue. If you&#8217;re still using Chrome, this alone should be more than enough reason to switch to Firefox, so you can retain the most optimal form of adblocking. The various Chromium skins will most likely all lose support for Manifest v2 as well once the code is actually removed from Chromium in June 2025. Vivaldi announced as such, and unless any of the other Chromium skins out there decide to fork Chromium and maintain their own version, you can expect all of them to lose support for Manifest v2 around the same date. Safari is harder to pin down, since Apple doesn&#8217;t make any statements about future product. For now, it supports both Manifest v2 and v3, and I don&#8217;t really see a reason why Apple would remove v2 support. 
+
+<br> 
+
+<https://www.osnews.com/story/141805/mozilla-reaffirms-it-wont-remove-manifest-v2-support-from-firefox/>
+
+---
+
+## 12 years of incubating Wayland color management
+
+date: 2025-02-26, from: OS News
+
+The Wayland color-management protocol extension has landed on Feb 13th, 2025, in upstream wayland-protocols repository in the staging directory. It was released with wayland-protocols 1.41. The extension enables proper interactions between traditional (sRGB), Wide Color Gamut (WCG), and High Dynamic Range (HDR) image sources and displays once implemented in Wayland compositors and used in applications.  Of course, a protocol is just a language. Two participants need to speak the same language for the language to be of any use: Wayland compositors and a component on the application side (e.g., a toolkit library). Major efforts have been going on in various projects to prove and take advantage of the protocol, including KWin, Mutter, Weston, wlroots, GStreamer, GTK, Qt, SDL, Mesa, and mpv. Support in Mesa means that applications will be able to render and display in HDR by using the relevant EGL and Vulkan features. ↫ Pekka Paalanen Colour management has been an important missing piece of the Wayland puzzle, so it&#8217;s good to see this finally released and added to Wayland as a new protocol after so many years of work. It&#8217;s important to note that the work done so far focuses almost entirely on the entertainment side of things, like watching video or playing games. The other important side, professional colour management for things like photo editing or desktop publishing, is still missing, with the major holdup being measuring physical monitor response (measuring a reference image displayed on a monitor with a hardware device). 
+
+<br> 
+
+<https://www.osnews.com/story/141803/12-years-of-incubating-wayland-color-management/>
+
+---
+
+## Drug-screening biz DISA took a year to disclose security breach affecting millions
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>If there&#39;s something nasty on your employment record, extortion scum could come calling</h4> <p>DISA Global Solutions, a company that provides drug and alcohol testing, background checks, and other employee screening services, this week notified over 3.3 million people that their sensitive information may have been stolen by miscreants.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/disa_data_breach/>
+
+---
+
+## NASA Names Stephen Koerner as Acting Director of Johnson Space Center
+
+date: 2025-02-25, from: NASA breaking news
+
+NASA has selected Stephen Koerner as acting director of Johnson Space Center. Koerner previously served as Johnson’s deputy director. “It is an honor to accept my new role as acting director for Johnson,” Koerner said. “Our employees are key to our nation’s human spaceflight goals. I am continually impressed with what our workforce accomplishes and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/nasa-names-stephen-koerner-as-acting-director-of-johnson-space-center/>
+
+---
+
+## NASA’s X-59 Completes Electromagnetic Testing
+
+date: 2025-02-25, from: NASA breaking news
+
+NASA’s quiet supersonic X-59 research aircraft has cleared electromagnetic testing, confirming its systems will work together safely, without interference across a range of scenarios. “Reaching this phase shows that the aircraft integration is advancing,” said Yohan Lin, NASA’s X-59 avionics lead. “It’s exciting to see the progress, knowing we’ve cleared a major hurdle that moves [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasas-x-59-completes-electromagnetic-testing/>
+
+---
+
+## Xi know what you did last summer: China was all up in Republicans' email, says book
+
+date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
+
+<h4>Of course, Microsoft is in the mix, isn&#39;t it</h4> <p>Chinese spies reportedly broke into the US Republication National Committee&#39;s Microsoft-powered email and snooped around for months before being caught.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/25/china_hacked_gop_emails/>
+
+---
+
+## MITRE Caldera security suite scores perfect 10 for insecurity
+
+date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
+
+<h4>Is a trivial remote-code execution hole in every version part of the training, or?</h4> <p>The smart cookie who discovered a perfect 10-out-of-10-severity remote code execution (RCE) bug in MITRE&#39;s Caldera security training platform has urged users to &#34;immediately pull down the latest version.&#34; As in, download it and install it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/25/10_bug_mitre_caldera/>
+
+---
+
+## NASA’s EZIE Launching to Study Magnetic Fingerprints of Earth’s Aurora
+
+date: 2025-02-25, from: NASA breaking news
+
+High above Earth’s poles, intense electrical currents called electrojets flow through the upper atmosphere when auroras glow in the sky. These auroral electrojets push about a million amps of electrical charge around the poles every second. They can create some of the largest magnetic disturbances on the ground, and rapid changes in the currents can […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasas-ezie-launching-to-study-magnetic-fingerprints-of-earths-aurora/>
+
+---
+
+## NASA’s Lucy Spacecraft Takes Its 1st Images of Asteroid Donaldjohanson
+
+date: 2025-02-25, from: NASA breaking news
+
+NASA’s Lucy spacecraft has its next flyby target, the small main belt asteroid&#160; Donaldjohanson, in its sights. By blinking between images captured by Lucy on Feb. 20 and 22, this animation shows the perceived motion of Donaldjohanson relative to the background stars as the spacecraft rapidly approaches the asteroid. Lucy will pass within 596 miles [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/goddard/nasas-lucy-spacecraft-takes-its-1st-images-of-asteroid-donaldjohanson/>
+
+---
+
+## Intuitive Machines’ IM-2 Mission
+
+date: 2025-02-25, from: NASA breaking news
+
+ 
+
+<br> 
+
+<https://www.nasa.gov/general/intuitive-machines-im-2-mission/>
+
+---
+
+## AGU 2024: NASA Science on Display in the Nation’s Capital
+
+date: 2025-02-25, from: NASA breaking news
+
+Introduction The American Geophysical Union (AGU) returned to the nation’s capital in 2024, hosting its annual meeting at the Walter E. Washington Convention Center in Washington, DC from December 9–14, 2024. NASA Science upheld its long-standing tradition as an AGU partner and exhibitor, leveraging the meeting as an opportunity to share NASA’s cutting-edge research, data, […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/agu-2024-nasa-science-on-display-in-the-nations-capital/>
+
+---
+
+## Sharing PLANETS Curriculum with Out-of-School Time Educators
+
+date: 2025-02-25, from: NASA breaking news
+
+Out of school time (OST) educators work with youth in afterschool, community, and camp programs. Science, Technology, Engineering, and Mathematics (STEM) learning in OST can be challenging for multiple reasons, including lack of materials and support for educators. The NASA Science Activation program’s PLANETS project – Planetary Learning that Advances the Nexus of Engineering, Technology, […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/sharing-planets-curriculum-with-out-of-school-time-educators/>
+
+---
+
+## IBM plans to buy open source Cassandra wrangler DataStax
+
+date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
+
+<h4>Big Blue eyes integration with its AI development studio</h4> <p>IBM plans to buy DataStax, the AI and data biz that supports and contributes to the open source Cassandra wide column database.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/25/ibm_datastax/>
+
+---
+
+## Diamonds from NASA’s X-59
+
+date: 2025-02-25, from: NASA breaking news
+
+NASA’s X-59 quiet supersonic research aircraft took another successful step toward flight with the conclusion of a series of engine performance tests. During maximum afterburner testing, a test demonstrating the engine’s ability to generate the thrust required for supersonic flight, the aircraft showed off a phenomenon known as Mach diamonds, seen in this image from [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/diamonds-from-nasas-x-59/>
+
+---
+
+## NASA’s Europa Clipper Uses Mars to Go the Distance
+
+date: 2025-02-25, from: NASA breaking news
+
+The orbiter bound for Jupiter’s moon Europa will investigate whether the moon is habitable, but it first will get the help of Mars’ gravitational force to get to deep space. On March 1, NASA’s Europa Clipper will streak just 550 miles (884 kilometers) above the surface of Mars for what’s known as a gravity assist [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-uses-mars-to-go-the-distance/>
+
+---
+
+## The red color of Mars might have an earlier, wetter origin
+
+date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
+
+<h4>Scientists pool data from ESA and NASA spacecraft to come up with a ferrihydrite theory</h4> <p>Scientists reckon the red hue of Mars might have originated in an earlier period in the planet&#39;s past when liquid water was widespread on the surface.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/25/mars_red_ferrihydrate/>
+
+---
+
+## Harassment allegations against DEF CON veteran detailed in court filing
+
+date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
+
+<h4>More than a dozen women came forward with accusations</h4> <p>Details about the harassment allegations leveled at DEF CON veteran Christopher Hadnagy have now been revealed after a motion for summary judgment was filed over the weekend.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/25/def_con_harassment_allegations/>
+
+---
+
+## Is There Potential for Life on Europa? We Asked a NASA Expert: Episode 52
+
+date: 2025-02-25, from: NASA breaking news
+
+That&#8217;s a great question. And it&#8217;s a question that NASA will seek to answer with the Europa Clipper spacecraft. Europa is a moon of Jupiter. It&#8217;s about the same size as Earth&#8217;s Moon, but its surface looks very different. The surface of Europa is covered with a layer of ice, and below that ice, we [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/smd/is-there-potential-for-life-on-europa-we-asked-a-nasa-expert-episode-52/>
 
 ---
 
@@ -467,7 +815,7 @@ date: 2025-02-24, updated: 2025-02-24, from: The Register (UK I.T. News)
 
 ## IBM Consulting workers told management wants to 'more closely align pay, performance'
 
-date: 2025-02-24, updated: 2025-02-24, from: The Register (UK I.T. News)
+date: 2025-02-24, updated: 2025-02-25, from: The Register (UK I.T. News)
 
 <h4>At least they&#39;re not having to &#39;justify&#39; recent work or resign</h4> <p><strong>Exclusive</strong>  IBM Consulting wants employees to know they&#39;re not all created equally, a point it intends to reflect in a &#34;closer alignment between pay and performance.&#34;…</p> 
 
@@ -563,7 +911,7 @@ date: 2025-02-24, updated: 2025-02-24, from: The Register (UK I.T. News)
 
 ## Rather than add a backdoor, Apple decides to kill iCloud encryption for UK peeps
 
-date: 2025-02-24, updated: 2025-02-25, from: The Register (UK I.T. News)
+date: 2025-02-24, updated: 2025-02-26, from: The Register (UK I.T. News)
 
 <h4>Plus: SEC launches new crypto crime unit; Phishing toolkit upgraded; and more</h4> <p><strong>Infosec in brief</strong>  Apple has responded to the UK government&#39;s demand for access to its customers’ data stored in iCloud by deciding to turn off its Advanced Data Protection (ADP) end-to-end encryption service for UK users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -585,11 +933,11 @@ date: 2025-02-24, updated: 2025-02-24, from: The Register (UK I.T. News)
 
 ---
 
-## As China embraces big tech again, Alibaba plans vast spend to push for artificial general intelligence
+## As China embraces Big Tech again, Alibaba plans vast spend to push for artificial general intelligence
 
-date: 2025-02-23, updated: 2025-02-23, from: The Register (UK I.T. News)
+date: 2025-02-23, updated: 2025-02-26, from: The Register (UK I.T. News)
 
-<h4>PLUS: Samsung exec jailed for selling DRAM secrets; ASUS launches sweetly scented mouse; Toyota’s smart city nears opening; and more</h4> <p><strong>Asia In Brief</strong>  PLUS: Samsung exec jailed for selling DRAM secrets; ASUS launches sweetly scented mouse; Toyota’s smart city nears opening; and more Chinese president Xi Jinping last week staged an event at which he urged private sector leaders, including China’s Big Tech companies, to help the nation speed its technological development.…</p> 
+<h4>Plus: Samsung exec jailed for selling DRAM secrets; ASUS launches sweetly scented mouse; Toyota’s smart city nears opening; and more</h4> <p><strong>Asia in Brief</strong>  Chinese president Xi Jinping last week staged an event at which he urged private sector leaders, including China’s Big Tech companies, to help the nation speed its technological development.…</p> 
 
 <br> 
 

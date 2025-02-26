@@ -1,23 +1,181 @@
 ---
 title: socal north
-updated: 2025-02-25 07:08:58
+updated: 2025-02-26 07:08:36
 ---
 
 # socal north
 
-(date: 2025-02-25 07:08:58)
+(date: 2025-02-26 07:08:36)
 
 ---
 
-## Want LA County government reform? Here’s how you can join a task force to make it happen
+## Before the latest firestorm, LA had been warned that its Fire Department is too small
 
-date: 2025-02-25, updated: 2025-02-25, from: The LAist
+date: 2025-02-26, updated: 2025-02-26, from: The LAist
 
-Approved by voters in November, the task force is meant to foster public participation, conduct research, and provide recommendations to the L.A. County Board of Supervisors. 
+A memo from the now-former fire chief warned of ongoing staffing shortages and long response times. But Kristin Crowley was not the only one sounding the alarm. 
 
 <br> 
 
-<https://laist.com/news/politics/los-angeles-county-measure-g-task-force-application-board-supervisors-reform>
+<https://laist.com/news/politics/la-fire-department-memo-crowley-staffing-budget>
+
+---
+
+## UC workers go on strike, frustrated with pay and career advancement issues
+
+date: 2025-02-26, updated: 2025-02-26, from: The LAist
+
+Some services will be limited as 20,000 employees walk off the job, including many healthcare workers. 
+
+<br> 
+
+<https://laist.com/news/education/upte-uc-researchers-technical-workers-strike-starts>
+
+---
+
+## Wildfire victims may get grants up to $18K under LA County’s new relief program
+
+date: 2025-02-26, updated: 2025-02-26, from: The LAist
+
+People affected by the Eaton and Palisades fires can now apply for $6,000, $12,000 or $18,000 grants. 
+
+<br> 
+
+<https://laist.com/news/wildfire-victims-may-get-grants-up-to-18k-under-la-countys-new-relief-program>
+
+---
+
+## Hot temperatures peak today and Thursday
+
+date: 2025-02-26, updated: 2025-02-26, from: The LAist
+
+The hottest days of the week are here. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/hot-temperatures-peak-today-and-thursday>
+
+---
+
+## Live results: Special election for 36th State Senate race in OC and LA
+
+date: 2025-02-26, updated: 2025-02-26, from: The LAist
+
+The top two vote-getters will face off in April, unless one candidate wins more than 50% outright. 
+
+<br> 
+
+<https://laist.com/news/politics/live-election-results-36th-california-senate-special-election-oc-la>
+
+---
+
+## Three LA County landfills are set to accept wildfire debris
+
+date: 2025-02-26, updated: 2025-02-26, from: The LAist
+
+The L.A. County Board of Supervisors approves changes to some landfill rules to allow wildfire debris to be sent to sites in Calabasas, Sylmar and Lancaster. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/three-la-county-landfills-are-set-to-accept-wildfire-debris>
+
+---
+
+## California extends student financial aid application deadline
+
+date: 2025-02-26, updated: 2025-02-26, from: The LAist
+
+The number of Californians using the FAFSA has been lagging, so the deadline has been pushed back to April 2. 
+
+<br> 
+
+<https://laist.com/news/education/california-csac-fafsa-financial-aid-deadline-april-2>
+
+---
+
+## Rancho Palos Verdes homes continue to slide into the ocean, but the destruction could have been avoided
+
+date: 2025-02-25, updated: 2025-02-25, from: The LAist
+
+For years, experts warned against developing the unstable cliff top, but property owners prevailed. Now they’re paying the price. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-homes-history-explainer>
+
+---
+
+## The odds of a 'city-killer' asteroid hitting Earth have fallen to zero
+
+date: 2025-02-25, updated: 2025-02-25, from: The LAist
+
+After weeks at the top of the Sentry list at the Center for Near-Earth Object Studies, the asteroid 2024 YR4 is no longer considered a threat to Earth. 
+
+<br> 
+
+<https://laist.com/news/city-killer-asteroid-hitting-earth-have-fallen-to-zero>
+
+---
+
+## Fabric giant Joann is going out of business and closing all of its 800 stores
+
+date: 2025-02-25, updated: 2025-02-25, from: The LAist
+
+The crafts retailer formerly known as Jo-Ann Fabrics had been struggling financially for several years following a DIY-driven uptick in sales during the early days of the pandemic. 
+
+<br> 
+
+<https://laist.com/news/fabric-giant-joanns-going-out-of-business-closing-all-800-stores>
+
+---
+
+## LA County is getting greener. Where you will find new parks and green space in the future
+
+date: 2025-02-25, updated: 2025-02-25, from: The LAist
+
+Thanks to $17 million in Measure A competitive grants, this marks the largest expansion in the Regional Park and Open Space District’s 31-year history. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-parks-green-space>
+
+---
+
+## The Usual Human Dimension by Veronica Giorgetti
+
+date: 2025-02-25, from: City of Santa Clarita
+
+<p>Visit The MAIN for the newest art exhibit! Did you know there’s a new art exhibit at The MAIN? The Usual Human Dimensionby artist Veronica Giorgetti, will be on display from February 26 through April 30. This exhibit explores the intricate relationship between human beings and their built environments, examining how architecture, aesthetics and spiritual [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/25/the-usual-human-dimension-by-veronica-giorgetti/">The Usual Human Dimension by Veronica Giorgetti</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/25/the-usual-human-dimension-by-veronica-giorgetti/>
+
+---
+
+## Trump funding freeze includes payments to keep the Colorado River flowing
+
+date: 2025-02-25, updated: 2025-02-25, from: The LAist
+
+President Biden promised billions in funds to farmers and others to not take water from the Colorado River. President Trump is halting some of those funds, leaving questions about the river's future. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/trump-funding-freeze-colorado-river>
+
+---
+
+## UC workers will strike this week. Here’s what that means for students and patients
+
+date: 2025-02-25, updated: 2025-02-25, from: The LAist
+
+Core emergency services will remain available, but some appointments will be delayed as 20,000 employees walk off the job, including many healthcare workers. 
+
+<br> 
+
+<https://laist.com/news/education/upte-uc-researchers-technical-workers-strike-begin-patients>
 
 ---
 
@@ -30,6 +188,18 @@ Debris cleanup threatens to take down trees that could recover.
 <br> 
 
 <https://laist.com/news/climate-environment/eaton-fire-altadena-green-trees>
+
+---
+
+## Want LA County government reform? Here’s how you can join a task force to make it happen
+
+date: 2025-02-25, updated: 2025-02-25, from: The LAist
+
+Approved by voters in November, the task force is meant to foster public participation, conduct research, and provide recommendations to the L.A. County Board of Supervisors. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-county-measure-g-task-force-application-board-supervisors-reform>
 
 ---
 

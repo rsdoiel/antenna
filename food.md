@@ -1,11 +1,157 @@
 ---
 title: food
-updated: 2025-02-25 07:09:04
+updated: 2025-02-26 07:08:42
 ---
 
 # food
 
-(date: 2025-02-25 07:09:04)
+(date: 2025-02-26 07:08:42)
+
+---
+
+## Unfortunately These Are Your Coffee Breast Milk Stories
+
+date: 2025-02-26, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Please stop doing this. 
+
+<br> 
+
+<https://sprudge.com/unfortunately-these-are-your-coffee-breast-milk-stories-288471.html>
+
+---
+
+## Sips, Sounds and Styles Unite for Common Good in Dallas
+
+date: 2025-02-26, from: Daily Coffee News
+
+<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-620x419.jpg" class="attachment-large size-large wp-post-image" alt="Common Good Coffee listening room Dallas" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-768x519.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas.jpg 909w" sizes="(max-width: 620px) 100vw, 620px" /></div>Grooves, brews and soothing shampoos are swirling under a shared roof in Dallas with the opening of the Common Good cafe, listening room and salon. The Old East Dallas shop... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/26/sips-sounds-and-styles-unite-for-common-good-in-dallas/>
+
+---
+
+## The Specialty Espresso Martini is Here, Thanks to These Small-Batch Coffee Liqueurs
+
+date: 2025-02-26, from: The Fresh Cup
+
+<p>The popularity of the espresso martini has fueled another burgeoning market: coffee liqueur. Today, specialty roasters and distillers are increasingly working together to push the category forward. </p>
+<p>The post <a href="https://freshcup.com/the-specialty-espresso-martini-is-here-thanks-to-these-small-batch-coffee-liqueurs/">The Specialty Espresso Martini is Here, Thanks to These Small-Batch Coffee Liqueurs</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/the-specialty-espresso-martini-is-here-thanks-to-these-small-batch-coffee-liqueurs/>
+
+---
+
+## Chicken Enchilada Skillet
+
+date: 2025-02-26, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/chicken-enchilada-skillet/"><img title="chicken-enchilada-skillet-small-4" src="https://www.isabeleats.com/wp-content/uploads/2025/02/chicken-enchilada-skillet-small-4-400x600.jpg" alt="Chicken enchilada skillet topped with sour cream and ready to serve." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This chicken enchilada skillet is a delicious one-pan meal that brings the flavors of traditional enchiladas to your stovetop in&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/chicken-enchilada-skillet/>
+
+---
+
+## Meet North America’s Only Mustard Sommelier—Yes, It’s a Real Job
+
+date: 2025-02-26, from: Taste of Home
+
+<p>Expert Brandon Collins explains the different ways to use mustard—including one idea I've never heard before.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mustard-sommelier/">Meet North America&#8217;s Only Mustard Sommelier—Yes, It&#8217;s a Real Job</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mustard-sommelier/>
+
+---
+
+## Best-Ever Smash Burgers
+
+date: 2025-02-25, from: Bon Appetet
+
+With crisp edges and a juicy bite, this may be the ultimate burger. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/best-smash-burger>
+
+---
+
+## Frozen Food Recall: Popular Mac & Cheese Bites Recalled Over Safety Risk
+
+date: 2025-02-25, from: Taste of Home
+
+<p>Check your freezer: The FDA issued a warning about these mac and cheese bites, which could contain bits of metal. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/mac-n-cheese-bites-recall-february-2025/">Frozen Food Recall: Popular Mac &#038; Cheese Bites Recalled Over Safety Risk</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mac-n-cheese-bites-recall-february-2025/>
+
+---
+
+## Ruggable Rug Review: Are the Large Sizes Really Washable?
+
+date: 2025-02-25, from: Taste of Home
+
+<p>Ruggable rugs have taken social media by storm, but are they worth the hype? We tested a 6x9 washable rug to find out. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/ruggable-rug/">Ruggable Rug Review: Are the Large Sizes Really Washable?</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ruggable-rug/>
+
+---
+
+## The Origami Cup Is Coming To Houston In April
+
+date: 2025-02-25, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. This is the first time the Origami Cup has come to America. 
+
+<br> 
+
+<https://sprudge.com/the-origami-cup-is-coming-to-houston-in-april-287152.html>
+
+---
+
+## Purple Carrot Review: A Vegan Meal Kit for Everyone
+
+date: 2025-02-25, from: Bon Appetet
+
+If you're looking for a plant-based meal kit with recipes you'll want to repeat, Purple Carrot brings big flavors that'll win over vegans and non-vegans alike. 
+
+<br> 
+
+<https://www.bonappetit.com/story/purple-carrot-review>
+
+---
+
+## This 2-in-1 HexClad Cutting Board Earned a Permanent Spot on My Kitchen Counter
+
+date: 2025-02-25, from: Taste of Home
+
+<p>I’m convinced this hybrid HexClad cutting board is the only one I’ll ever need.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/hexclad-cutting-board/">This 2-in-1 HexClad Cutting Board Earned a Permanent Spot on My Kitchen Counter</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/hexclad-cutting-board/>
 
 ---
 
@@ -18,6 +164,18 @@ date: 2025-02-25, from: The Sprudge
 <br> 
 
 <https://sprudge.com/the-sprudge-guide-to-coffee-in-burlington-vermont-269562.html>
+
+---
+
+## Coffee Science Foundation and Ohio State to Study How Consumers Value Coffee
+
+date: 2025-02-25, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-620x414.jpg" class="attachment-large size-large wp-post-image" alt="unsplash coffee value" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Coffee Science Foundation (CSF) is partnering with Ohio State University for a research project exploring how coffee consumers perceive value. According to the CSF, a research-focused arm of the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/25/coffee-science-foundation-and-ohio-state-to-study-how-consumers-value-coffee/>
 
 ---
 
@@ -37,7 +195,7 @@ Steel-cut oats make a filling and nutritious breakfast, and this stovetop recipe
 
 date: 2025-02-25, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Masterpiece Coffee Berkeley Young Sun" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new company called Masterpiece Coffee is serving Asian-inspired coffee drinks at a new coffee kiosk in Berkeley, California, focusing on specialty coffee produced in Yunnan, China. Masterpiece Coffee Founder... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Masterpiece Coffee Berkeley Young Sun" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new company called Masterpiece Coffee is serving Asian-inspired coffee drinks at a new coffee kiosk in Berkeley, California, focusing on specialty coffee produced in Yunnan, China. Masterpiece Coffee Founder... 
 
 <br> 
 
@@ -54,6 +212,18 @@ Consider this the coziest thing you can do with a can of chickpeas.
 <br> 
 
 <https://www.bonappetit.com/story/braised-canned-beans>
+
+---
+
+## The American Debate Over the Role of Food in Diplomacy
+
+date: 2025-02-25, from: Bon Appetet
+
+A joint partnership between the State Department and James Beard Foundation stalls as chefs looks for other ways to be culinary diplomats 
+
+<br> 
+
+<https://www.bonappetit.com/story/american-culinary-corps-trump-biden-diplomacy>
 
 ---
 
@@ -149,7 +319,7 @@ date: 2025-02-24, from: The Sprudge
 
 date: 2025-02-24, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks Center" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Seattle-based Starbucks Coffee is laying off 1,100 corporate staff members as part of a shakeup led by CEO Brian Niccol. Niccol, the former Chipotle CEO who took over the position... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-620x413.jpg" class="attachment-large size-large wp-post-image" alt="Starbucks Center" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Starbucks-Center.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Seattle-based Starbucks Coffee is laying off 1,100 corporate staff members as part of a shakeup led by CEO Brian Niccol. Niccol, the former Chipotle CEO who took over the position... 
 
 <br> 
 
@@ -161,7 +331,7 @@ date: 2025-02-24, from: Daily Coffee News
 
 date: 2025-02-24, from: Daily Coffee News
 
-<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Tailwind Roasting Collaborative Chicago 7" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>In the notoriously windy city of Chicago, a new coffee roasting incubator business seeks to be the wind beneath the wings of small-scale or startup roasting operations. Green coffee expert... 
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-620x467.jpg" class="attachment-large size-large wp-post-image" alt="Tailwind Roasting Collaborative Chicago 7" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-620x467.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-300x226.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7-768x578.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Tailwind-Roasting-Collaborative-Chicago-7.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>In the notoriously windy city of Chicago, a new coffee roasting incubator business seeks to be the wind beneath the wings of small-scale or startup roasting operations. Green coffee expert... 
 
 <br> 
 

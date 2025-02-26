@@ -1,11 +1,372 @@
 ---
 title: columns
-updated: 2025-02-25 07:09:00
+updated: 2025-02-26 07:08:38
 ---
 
 # columns
 
-(date: 2025-02-25 07:09:00)
+(date: 2025-02-26 07:08:38)
+
+---
+
+##  What do you do after you accidentally kill a child? This is... 
+
+date: 2025-02-26, updated: 2025-02-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046034-what-do-you-do-after>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-26, from: Dave Winer's Scripting News)
+
+<a href="https://imgs.scripting.com/2025/02/26/slamTheScamDay.png">An email arrived</a> from the Social Security Administration entitled Help Us Slam the Scam. Explains how not to get scammed by people who want our checks. Wonder if they realized it applies equally to Elon Musk, richest man in the world, who wants to eat old people's cupcakes because, well I can't explain it.
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/26.html#a143128>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-26, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/08/13/trafficUptight.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">People give <a href="https://en.wikipedia.org/wiki/Matt_Mullenweg">Matt Mullenweg</a> a lot of shit, but do they realize how hopeless the open web would be if he and his friends hadn’t kept it going for 20+ years. I wrote the other day that I feel like a <a href="http://scripting.com/2025/02/24/153052.html#a153833">time traveler</a>, discovering WordPress 20 years after I left UserLand. I care that it's open source, but I care much more that it's open web esp after we've been so thoroughly dominated by feature-limited silos such as Twitter, Facebook and yes -- even Mastodon and Bluesky. Even if there's a theoretical way to do it, practically speaking we have to wait for their developers to implement the features we want. Open source doesn't help there, but open web does. Matt puts the emphasis on the open source part, that's why it wasn't until very recently that I realized that <i>open web</i> is more important, to me at least. 
+
+<br> 
+
+<http://scripting.com/2025/02/26.html#a141319>
+
+---
+
+## Death panel
+
+date: 2025-02-26, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT to draw a picture of a <a href="https://en.wikipedia.org/wiki/Death_panel">death panel</a> as described by Republican lawmakers as they fought the Affordable Care Act. I was surprised it was willing to do it.</p>
+<p>According to the bot: "The concept of 'death panels' was a widely debunked political talking point used by opponents of the Affordable Care Act. It falsely suggested that government-run committees would decide whether individuals—especially the elderly or disabled—would receive life-saving care. </p>
+<p>"I can generate an image depicting a grim, dystopian bureaucratic setting where a group of shadowy officials in suits are sitting at a long, dark table, stamping papers while an elderly patient looks on with concern. The room would have a cold, sterile look, with a looming clock symbolizing bureaucratic power over life and death."</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/26/deathPanel.png"></center>Death panel, as imagined by ChatGPT.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/26/140645.html?title=deathPanel>
+
+---
+
+## An iCloud Backdoor Would Make Our Phones Less Safe
+
+date: 2025-02-26, updated: 2025-02-26, from: Bruce Schneier blog
+
+<p>Last month, the UK government <a href="https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/">demanded</a> that Apple weaken the security of iCloud for users worldwide. On Friday, Apple took steps to comply for users in the United Kingdom. But the British law is written in a way that requires Apple to give its government access to anyone, anywhere in the world. If the government demands Apple weaken its security worldwide, it would increase everyone&#8217;s cyber-risk in an already dangerous world.</p>
+<p>If you&#8217;re an iCloud user, you have the option of turning on something called &#8220;<a href="https://support.apple.com/en-us/102651">advanced data protection</a>,&#8221; or ADP. In that mode, a majority of your data is end-to-end encrypted. This means that no one, not even anyone at Apple, can read that data. It&#8217;s a restriction enforced by mathematics&#8212;cryptography&#8212;and not policy. Even if someone successfully hacks iCloud, they can&#8217;t read ADP-protected data...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/an-icloud-backdoor-would-make-our-phones-less-safe.html>
+
+---
+
+## Murena kicks Google out of the Pixel Tablet
+
+date: 2025-02-26, updated: 2025-02-26, from: Liam Proven's articles at the Register
+
+<h4>Privacy-centric Android makes more sense on this form factor than a phone</h4>
+      <p>We had a play with Murena&#39;s first tablet, a Google Pixel running /e/OS, its in-house de-Googled Android 13 with additional privacy features.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/02/26/murena_degoogled_android_tablet/>
+
+---
+
+## Building a “shoutout” component in plain HTML/CSS/JavaScript
+
+date: 2025-02-26, from: Chris Heilmann's blog
+
+Every Wednesday I host WeAreDevelopers Live on YouTube. Afterwards we cut out short videos to post on social media. What we needed was an obvious &#8220;shoutout moment&#8221; in the recording to indicate an interesting quote or when we moved on to the next topic &#8211; much like a clapper in classic movies to sync audio [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/02/26/building-a-shoutout-component-in-plain-html-css-javascript/>
+
+---
+
+## Leviathan, supersized
+
+date: 2025-02-26, from: Enlightenment Economics blog
+
+My dear husband gave me a Daunts book subscription for my birthday so I get a lucky dip new paperback each month. A recent one was my colleague David Runciman&#8217;s The Handover: How We Gave Control of Our Lives to &#8230; <a href="http://www.enlightenmenteconomics.com/blog/index.php/2025/02/leviathan-supersized/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<http://www.enlightenmenteconomics.com/blog/index.php/2025/02/leviathan-supersized/>
+
+---
+
+## Office Hours: How the hell do Republicans in Congress face themselves in the mirror?
+
+date: 2025-02-26, from: Robert Reich's blog
+
+What do they tell themselves to justify supporting a dictator? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-how-the-hell-do-republicans>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-26, from: Jessica Smith's blog)
+
+<p>Poor Gidget had a very bad no good day today, with her annual check-up and vaccination appointment at the vet! Thankfully her health looked all good, except that uh&hellip; her anal glands had to be manually expressed 😆 At least the vet gave her a Churu for her trouble.</p>
+<img src="https://www.jayeless.net/media/2025/02/gidget-staring-out.jpeg" alt="A tabby cat lying on a bed, with her ears slightly bent back and her head down low as she stares forward with intent, eyeing some prey in the distance." class="u-photo"> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/gidget-no-good-day.html>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-26, from: Ryan Gantz Bluesky feed)
+
+I have just reinstalled Truth social to verify that yes, this was posted on the president’s account
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lj2piaux5s2m>
+
+---
+
+## February 25, 2025 
+
+date: 2025-02-26, from: Heather Cox Richardson blog
+
+On Friday, February 21, former transportation secretary Pete Buttigieg posted: &#8220;A defining policy battle is about to come to a head in this country. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-25-2025>
+
+---
+
+## Listened to Baby by Spank Rock
+
+date: 2025-02-26, from: Tracy Durnell Blog
+
+Fair warning this is goofy and kind of an earworm 😉 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/25/listened-to-baby-by-spank-rock/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I try to keep my hacking diet balanced, some long term protein content blended with a handful of quick wins every week.  Just small nuggets of small tasks.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114068074186787560>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I drew inspiration from Roblox Studio to fix my major Godot pet-peeve.   I discuss it in this post:</p><p><a href="https://blog.la-terminal.net/giv/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">blog.la-terminal.net/giv/</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114067467237989699>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-26, from: Miguel de Icaza Mastondon feed)
+
+<p>Friends, this cheaper wine was pretty good the day after:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114067427778616113>
+
+---
+
+## Wednesday 26 February, 2025
+
+date: 2025-02-26, from: John Naughton's online diary
+
+Beached Quote of the Day ”I don&#8217;t know what I&#8217;m doing, but my incompetence has never stopped my enthusiasm.” Woody Allen (Me too) Musical alternative to the morning’s radio news Eric Clapton and Bob Dylan &#124; Don&#8217;t Think Twice, It&#8217;s &#8230; <a href="https://memex.naughtons.org/wednesday-26-february-2025/40477/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-26-february-2025/40477/>
+
+---
+
+##  The Great Resegregation 
+
+date: 2025-02-25, updated: 2025-02-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-great-resegregation>
+
+---
+
+##  This Is Not a Drill: How Universities Can Save DEI. &#8220;This is... 
+
+date: 2025-02-25, updated: 2025-02-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046316-this-is-not-a-drill>
+
+---
+
+## Yours Truly With Rene Ritchie Talking About the iPhone 16e
+
+date: 2025-02-25, updated: 2025-02-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=I5OdiEzJNgk>
+
+---
+
+##  Let This Radicalize You Workbook. &#8220;This workbook is intended as an extension... 
+
+date: 2025-02-25, updated: 2025-02-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046315-let-this-radicalize-you-w>
+
+---
+
+##  On the lessons of the rise & fall of the KKK. &#8220;Fascism... 
+
+date: 2025-02-25, updated: 2025-02-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046314-on-the-lessons-of-the>
+
+---
+
+## ‘They Were Careless People’: Taking Moments to Tear Down What Has Taken Lifetimes to Create.
+
+date: 2025-02-25, from: James Fallows, Substack
+
+The zealots of Doge and Project 2025 are out to &#8216;cut waste.&#8217; They will certainly cost lives: An example from aviation. 
+
+<br> 
+
+<https://fallows.substack.com/p/they-were-careless-people-taking>
+
+---
+
+## February 24, 2025
+
+date: 2025-02-25, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157908757/48940a977cd7784f1d49e027d3af0f47.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157908757/48940a977cd7784f1d49e027d3af0f47.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-24-2025-220>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-25, from: Ryan Gantz Bluesky feed)
+
+"im not owned!  im not owned!!", the presidents mump continue to insist as the entire country slowly shrink and transform into a corn cob 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3liziidnr3k2e>
+
+---
+
+##  The War on Cars debuts an ad that extolls the freedom of... 
+
+date: 2025-02-25, updated: 2025-02-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046289-the-war-on-cars-debuts>
+
+---
+
+## New WordLand screen shot
+
+date: 2025-02-25, from: Dave Winer's Scripting News
+
+<p>For all kinds of marketing materials..</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/25/wordlandScreenshot.png"></center>New screen shot for WordLand.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/25/173114.html?title=newWordlandScreenShot>
+
+---
+
+## North Korean Hackers Steal $1.5B in Cryptocurrency
+
+date: 2025-02-25, updated: 2025-02-25, from: Bruce Schneier blog
+
+<p>It looks like a <a href="https://arstechnica.com/security/2025/02/how-north-korea-pulled-off-a-1-5-billion-crypto-heist-the-biggest-in-history/">very sophisticated</a> attack against the Dubai-based exchange Bybit:</p>
+<blockquote><p>Bybit officials <a href="https://announcements.bybit.com/article/incident-update---eth-cold-wallet-incident-blt292c0454d26e9140/">disclosed</a> the theft of more than 400,000 ethereum and staked ethereum coins just hours after it occurred. The notification said the digital loot had been stored in a &#8220;Multisig Cold Wallet&#8221; when, somehow, it was transferred to one of the exchange&#8217;s hot wallets. From there, the cryptocurrency was transferred out of Bybit altogether and into wallets controlled by the unknown attackers.</p>
+<p>[&#8230;]</p>
+<p>&#8230;a subsequent investigation by Safe found no signs of unauthorized access to its infrastructure, no compromises of other Safe wallets, and no obvious vulnerabilities in the Safe codebase. As investigators continued to dig in, they finally settled on the true cause. Bybit ultimately said that the fraudulent transaction was &#8220;manipulated by a sophisticated attack that altered the smart contract logic and masked the signing interface, enabling the attacker to gain control of the ETH Cold Wallet.&#8221;...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/north-korean-hackers-steal-1-5b-in-cryptocurrency.html>
+
+---
+
+##  Slow Start Today&#8230; 
+
+date: 2025-02-25, updated: 2025-02-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/slow-start-today>
+
+---
+
+##  This weekend, JD Vance is visiting a small VT town near where... 
+
+date: 2025-02-25, updated: 2025-02-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046311-this-weekend-jd-vance-is>
 
 ---
 

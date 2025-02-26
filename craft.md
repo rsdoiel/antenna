@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-02-25 07:09:04
+updated: 2025-02-26 07:08:42
 ---
 
 # craft
 
-(date: 2025-02-25 07:09:04)
+(date: 2025-02-26 07:08:42)
+
+---
+
+## ‘The Woodworker Vols. 1-4’ is Back (Plus a Special Offer)
+
+date: 2025-02-25, from: Lost Arg Press blog
+
+Well it took longer than I expected, but we now have all four volumes of “The Woodworker” back in stock and ready to ship. If you order before April 30, you can get all four volumes for $100 with free domestic shipping. That’s $39 off. Plus the free shipping. Here’s the link to the page.... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/25/the-woodworker-vols-1-4-is-back-plus-a-special-offer/>
+
+---
+
+## Life Cycle of an Edge
+
+date: 2025-02-25, from: Lost Arg Press blog
+
+The following is an excerpt from &#8220;Sharpen This&#8221; by Christopher Schwarz. One of the most frequent (and unanswerable) questions I get about sharpening is: How often should I sharpen? The correct but unsatisfactory answer is: Pretty much any time the question “Should I sharpen?” pops into your head. When I ask myself that question, I... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/02/25/life-cycle-of-an-edge/>
 
 ---
 

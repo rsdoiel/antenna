@@ -1,11 +1,392 @@
 ---
 title: going electric
-updated: 2025-02-25 07:09:04
+updated: 2025-02-26 07:08:42
 ---
 
 # going electric
 
-(date: 2025-02-25 07:09:04)
+(date: 2025-02-26 07:08:42)
+
+---
+
+## What's Next For Lucid Motors
+
+date: 2025-02-26, from: Inside EVs News
+
+Lucid is searching for a new CEO but won't "reinvent the company." Plus: Stellantis also needs a new top executive at a difficult time. 
+
+<br> 
+
+<https://insideevs.com/news/751864/cm-lucid-rawlinson-stellantis/>
+
+---
+
+## Affordable EVs Have Fewer Problems Than Luxury EVs: Study
+
+date: 2025-02-26, from: Inside EVs News
+
+It turns out simpler might be better—who knew? But owners of both mainstream and luxury EVs remain highly satisfied. 
+
+<br> 
+
+<https://insideevs.com/news/751788/jd-power-ev-owners-like-evs/>
+
+---
+
+## The 2025 Volvo ES90 Has 435 Miles Of Range, But That's Not The Best Part
+
+date: 2025-02-26, from: Inside EVs News
+
+Volvo's flagship electric sedan gets at least one huge upgrade over the EX90 SUV. 
+
+<br> 
+
+<https://insideevs.com/news/751795/volvo-es90/>
+
+---
+
+## 610 hp for just $33,085 – China raises the bar with Chery Exeed VX C-DM
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/chery-exceed_SUV.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In case you needed another reason to feel jealous of Chinese car enthusiasts, the Chery Exeed VX C-DM three-row SUV is officially available for pre-order with 610 hp, 1,300 km (over 800 miles) of EREV range, and a starting price of $33,085 US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chery-automotive,china,erev" data-layer-viewtype="unknown" data-post-id="403239" href="https://electrek.co/2025/02/25/610-hp-for-just-33085-china-raises-the-bar-with-chery-exeed-vx-c-dm/#more-403239" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/610-hp-for-just-33085-china-raises-the-bar-with-chery-exeed-vx-c-dm/>
+
+---
+
+## TSLA gets hammered, Mercedes set to ditch EQ, and big van news
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/hammered.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With revenue tumbling almost as fast as market share, Tesla stock is taking a pounding – exactly like CEO Elon Musk predicted! We’ve also got FSD rolling out in China, a German automation acquisition, and more on today’s red candlestick edition of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz,quick-charge,rivian,tesla,tsla" data-layer-viewtype="unknown" data-post-id="403233" href="https://electrek.co/2025/02/25/tsla-gets-hammered-mercedes-set-to-ditch-eq-and-big-van-news/#more-403233" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/tsla-gets-hammered-mercedes-set-to-ditch-eq-and-big-van-news/>
+
+---
+
+## Lucid Midsize Update: We Could See It Later This Year
+
+date: 2025-02-26, from: Inside EVs News
+
+The EV maker's interim CEO gave an update on the development of its next-generation platform.  
+
+<br> 
+
+<https://insideevs.com/news/751796/lucid-midsize-reveal-date-announced/>
+
+---
+
+## Lennox’s new extreme cold heat pump operates at as low as -20F
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Lennox-SL22KLV-Cold-Climate-Heat-Pump.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.lennox.com/" target="_blank" rel="noreferrer noopener">Lennox Residential HVAC</a> has launched an extreme cold climate heat pump that warms a house with low global warming potential (GWP) refrigerant in temperatures as low as -20F.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="department-of-energy,egeb,energy-brief,solar" data-layer-viewtype="unknown" data-post-id="403217" href="https://electrek.co/2025/02/25/lennox-new-extreme-cold-heat-pump-minus-20f/#more-403217" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/lennox-new-extreme-cold-heat-pump-minus-20f/>
+
+---
+
+## Lucid Plans To Double EV Production This Year
+
+date: 2025-02-25, from: Inside EVs News
+
+Lucid has high hopes for the Gravity SUV. 
+
+<br> 
+
+<https://insideevs.com/news/751794/lucid-production-double-gravity-2025/>
+
+---
+
+## 'We Are Growing': Tesla Takeover Protests Aren't Over, Filmmaker Says
+
+date: 2025-02-25, from: Inside EVs News
+
+Actor and filmmaker Alex Winter tells InsideEVs that a protest movement isn't targeting Tesla, but trying to remove Elon Musk from it. 
+
+<br> 
+
+<https://insideevs.com/news/751777/tesla-takeover-alex-winter-interview/>
+
+---
+
+## Lucid (LCID) expects EV output to double in 2025 as the Gravity SUV rolls out
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Lucid-EV-output-2025-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV startup <a href="https://electrek.co/guides/lucid-motors/">Lucid Motors</a> (LCID) released its fourth-quarter earnings on Tuesday, beating estimates with big expectations for 2025. Lucid said it expects to produce about 20,000 EVs this year with the output of its first electric SUV, the Gravity, ramping up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="403197" href="https://electrek.co/2025/02/25/lucid-lcid-expects-ev-output-to-double-in-2025-with-first-suv/#more-403197" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/lucid-lcid-expects-ev-output-to-double-in-2025-with-first-suv/>
+
+---
+
+## Lucid Is Getting A New CEO As Peter Rawlinson Steps Aside
+
+date: 2025-02-25, from: Inside EVs News
+
+The EV startup's longtime CEO and CTO, Peter Rawlinson, has stepped down. An interim CEO is in charge.  
+
+<br> 
+
+<https://insideevs.com/news/751792/lucid-ceo-steps-down-rawlinson/>
+
+---
+
+## Electric Vehicle Sales Surge In Europe, Except For Tesla
+
+date: 2025-02-25, from: Inside EVs News
+
+Electric vehicles surged despite an overall new car sales drop, growing by 34% and reaching a 15% market share. Tesla had worse news. 
+
+<br> 
+
+<https://insideevs.com/news/751787/january-car-sales-eu-evs/>
+
+---
+
+## Sustainable Wealth: Investing for Long-Term Security in an Off-Grid World
+
+date: 2025-02-25, from: Off the Grid World
+
+<p>More people are looking for ways to become self-sufficient, moving beyond traditional investments to focus on assets that provide long-term stability. Concerns over economic uncertainty, resource scarcity, and the desire &#8230;</p>
+<p>The post <a href="https://offgridworld.com/sustainable-wealth-investing-for-long-term-security-in-an-off-grid-world/">Sustainable Wealth: Investing for Long-Term Security in an Off-Grid World</a> appeared first on <a href="https://offgridworld.com">Off Grid World</a>.</p>
+ 
+
+<br> 
+
+<https://offgridworld.com/sustainable-wealth-investing-for-long-term-security-in-an-off-grid-world/>
+
+---
+
+## Microgreens 101: Choosing the Best Growing Medium for Optimal Growth
+
+date: 2025-02-25, from: Off the Grid World
+
+<p>This is Microgreens 101, your guide to choosing the best growing medium for optimal growth.  Why the Growing Medium Matters So Much Let’s begin by discussing why it’s so important &#8230;</p>
+<p>The post <a href="https://offgridworld.com/microgreens-101-choosing-the-best-growing-medium-for-optimal-growth/">Microgreens 101: Choosing the Best Growing Medium for Optimal Growth</a> appeared first on <a href="https://offgridworld.com">Off Grid World</a>.</p>
+ 
+
+<br> 
+
+<https://offgridworld.com/microgreens-101-choosing-the-best-growing-medium-for-optimal-growth/>
+
+---
+
+## Mercedes will stop treating EVs as a separate lineup and thats a good thing
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/Mercedes-Q1-2024-EQS.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mercedes will use the designation “with EQ technology” rather than naming its EVs with separate “EQ” model names, to focus on treating them more like normal models – in what this author considers an overdue move.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-eq,mercedes-benz" data-layer-viewtype="unknown" data-post-id="403174" href="https://electrek.co/2025/02/25/mercedes-will-stop-treating-evs-as-a-separate-lineup-and-thats-a-good-thing/#more-403174" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/mercedes-will-stop-treating-evs-as-a-separate-lineup-and-thats-a-good-thing/>
+
+---
+
+## Americans Are Still Afraid Of Robotaxis: Study
+
+date: 2025-02-25, from: Inside EVs News
+
+Trust in robotaxis has grown marginally, but a majority of Americans are still afraid of them. 
+
+<br> 
+
+<https://insideevs.com/news/751776/american-still-afraid-of-robotaxis-study/>
+
+---
+
+## Ram touts Ramcharger REEV as the ‘ultimate electric pickup,’ but where’s the real EV?
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Ram-Ramcharger-REEV-pickup.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/ram-trucks/">Ram Trucks</a> introduced the 2026 Ramcharger pickup this week, its first range-extender electric vehicle (REEV). CEO Tim Kuniskis claims it’s “the ultimate electric truck” with up to 690 miles of range and can tow up to 14,000 lbs. Meanwhile, Ram continues to put its fully electric pickup, the Ram 1500 REV, on the back burner.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ram-trucks,stellantis" data-layer-viewtype="unknown" data-post-id="403166" href="https://electrek.co/2025/02/25/ram-touts-new-ramcharger-reev-as-ultimate-electric-pickup/#more-403166" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/ram-touts-new-ramcharger-reev-as-ultimate-electric-pickup/>
+
+---
+
+## Tesla acquires bankrupted automation engineering firm
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/02/tesla-fremont-factory-e1454943362956.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has acquired parts of bankrupted automation engineering firm Manz based in Germany. It will on board about 300 of its employees.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403165" href="https://electrek.co/2025/02/25/tesla-acquires-bankrupted-automation-engineering-firm/#more-403165" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/tesla-acquires-bankrupted-automation-engineering-firm/>
+
+---
+
+## EcoFlow Monthly Madness sale takes 63% off power stations, Jackery Explorer 2000 Plus bundle at new $1,315 low, Anker SOLIX, more
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/EcoFlow-February-Monthly-Madness-FI.png?w=1600" /></div><p>Today’s Green Deals are jam-packed with backup power sales (and some new low prices too) from some of our favorite brands (as well as a budget-friendly EV). First, there’s <a href="https://9to5toys.com/2025/02/25/ecoflow-february-monthly-madness-sale-from-29/">EcoFlow’s February Monthly Madness sale</a> that is offering up to 63% off power stations with a few bonus savings options, varying EcoCredit rewards, and more. You’ll find a solid selection of offers, like the brand’s <a href="https://9to5toys.com/2025/02/25/ecoflow-february-monthly-madness-sale-from-29/">DELTA 2 Max</a> Portable Power Station bundled with a 220W solar panel for <a href="https://9to5toys.com/2025/02/25/ecoflow-february-monthly-madness-sale-from-29/">$1,315</a>, among others. Second, <a href="https://9to5toys.com/2025/02/24/jackery-flash-sale-explorer-2000-plus-bundle-new-1673-low/">Jackery has a short-term flash sale</a> running through tomorrow (February 26) with up to 50% off its units and bundles, including the <a href="https://9to5toys.com/2025/02/24/jackery-flash-sale-explorer-2000-plus-bundle-new-1673-low/">Explorer 2000 Plus</a> Portable Power Station with two 200W solar panels at a new <a href="https://9to5toys.com/2025/02/24/jackery-flash-sale-explorer-2000-plus-bundle-new-1673-low/">$1,673</a> low. We also spotted the <a href="https://9to5toys.com/2025/02/25/anker-solix-c200-100-low/">Anker SOLIX C200 DC</a> 60,000mAh Power Bank Station returning to its <a href="https://9to5toys.com/2025/02/25/anker-solix-c200-100-low/">$100</a> low, as well as <a href="https://9to5toys.com/2025/02/24/gotrax-apex-max-electric-scooter-360/">GoTrax’s APEX Max Electric Scooter at $340</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s exclusive new low price on the <a href="https://9to5toys.com/2025/02/24/bluetti-ac180p-new-487-low-exclusive/">Bluetti AC180P</a> power station, the <a href="https://9to5toys.com/2025/02/24/rad-power-radrunner-plus-radrunner-3-plus-from-1299/">RadRunner series e-bikes</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="403158" href="https://electrek.co/2025/02/25/ecoflow-monthly-madness-sale-jackery-anker-solix-more/#more-403158" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/ecoflow-monthly-madness-sale-jackery-anker-solix-more/>
+
+---
+
+## Trump Has Already Turned The EV Industry Upside Down. Here's How
+
+date: 2025-02-25, from: Inside EVs News
+
+You can still get an EV tax credit, but federal funding for chargers has been paused. Now what happens?
+ 
+
+<br> 
+
+<https://insideevs.com/news/751656/trump-ev-policy-charging-tax/>
+
+---
+
+## This Chinese EV maker just unveiled its first electric SUV and its stock is surging
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Li-Auto-first-electric-SUV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/li-auto/">Li Auto’s</a> (NASDAQ: LI) stock climbed nearly 15% on Tuesday after the company revealed the first images of its new electric SUV, the Li i8. The i8 is Li Auto’s first electric SUV, and it’s expected to be a true threat in the world’s largest EV market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="li-auto" data-layer-viewtype="unknown" data-post-id="403141" href="https://electrek.co/2025/02/25/li-auto-li-stock-surges-after-unveiling-first-electric-suv/#more-403141" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/li-auto-li-stock-surges-after-unveiling-first-electric-suv/>
+
+---
+
+## Trump’s EV Charger Purge Could Cost Taxpayers Over $1 Billion
+
+date: 2025-02-25, from: Inside EVs News
+
+Plus, hackers are targeting EV charging stations and Tesla prepares to launch FSD in China 
+
+<br> 
+
+<https://insideevs.com/news/751754/trump-ev-purge-1-billion/>
+
+---
+
+## Tesla (TSLA) stock is crashing like a ‘soufflé under a sledge hammer’ as Elon Musk predicted
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Elon-Musk-Tesla-stock.png?w=1600" /></div><p>Tesla’s stock (TSLA) is crashing by as much as 8% today. CEO Elon Musk predicted that the stock would get crushed “like a soufflé being smashed by a sledgehammer” if it didn’t show profit growth, which is what is happening now.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403140" href="https://electrek.co/2025/02/25/tesla-tsla-stock-is-crashing-like-a-souffle-under-a-sledge-hammer-as-elon-musk-predicted/#more-403140" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/tesla-tsla-stock-is-crashing-like-a-souffle-under-a-sledge-hammer-as-elon-musk-predicted/>
+
+---
+
+## Engwe LE20 Review: Can this budget electric cargo bike hang with the big boys?
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/engwe-le20-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Engwe LE20 is an interesting take on the cargo e-bike format. It’s marketed as a budget-friendly utility e-bike that can handle hauling groceries, gear, or even a passenger. At the same time, it looks like a cross between a compact cargo bike and a semi-fat tire hybrid-style bike, with a chunky frame, small wheels, and a long rear rack. But how does it actually perform in the real world? After spending some time riding and testing it, here’s what I found.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="402036" href="https://electrek.co/2025/02/25/engwe-le20-review-can-this-budget-electric-cargo-bike-hang-with-the-big-boys/#more-402036" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/engwe-le20-review-can-this-budget-electric-cargo-bike-hang-with-the-big-boys/>
+
+---
+
+## Toyota Finally Has An 'All-New' EV Coming Soon
+
+date: 2025-02-25, from: Inside EVs News
+
+This is likely the production version of the 2022 bZ SUV Concept designed to slot under the bZ4X in the lineup. 
+
+<br> 
+
+<https://insideevs.com/news/751757/toyota-new-electric-crossover-teaser/>
+
+---
+
+## Toyota’s new EV is almost here and it looks surprisingly stylish
+
+date: 2025-02-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Toyotas-new-EV-teaser.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/toyota/">Toyota</a> is about to launch its next all-electric vehicle, and it already looks like an upgrade from its current lineup. With a “sleek and stylish design,” the new EV is part of Toyota’s plan to attract more buyers. Here’s our first look at what’s coming.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="403121" href="https://electrek.co/2025/02/25/toyotas-new-ev-almost-here-looks-surprisingly-stylish/#more-403121" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/25/toyotas-new-ev-almost-here-looks-surprisingly-stylish/>
+
+---
+
+## Here's How The Ramcharger's Range-Extended EV Powertrain Works
+
+date: 2025-02-25, from: Inside EVs News
+
+Three modes of operation allow the driver to choose when and how to use the truck's two power sources. 
+
+<br> 
+
+<https://insideevs.com/news/751747/ramcharger-range-extended-ev-powertrain/>
 
 ---
 
