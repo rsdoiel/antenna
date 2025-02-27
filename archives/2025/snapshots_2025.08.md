@@ -1,11 +1,557 @@
 ---
 title: snapshots
-updated: 2025-02-26 07:08:43
+updated: 2025-02-27 07:06:53
 ---
 
 # snapshots
 
-(date: 2025-02-26 07:08:43)
+(date: 2025-02-27 07:06:53)
+
+---
+
+## Fair Use, Censorship, and Struggle for Control of Facts
+
+date: 2025-02-27, from: Authors Union blogs
+
+Imagine this: a high-profile aerospace and media billionaire threatens to sue you for writing an unauthorized and unflattering biography. In the course of writing, you rely on several news articles, including a series of in-depth pieces about the billionaire’s life written over a decade earlier. Given their closeness in time to real events, you quote, [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/02/27/fair-use-censorship-and-struggle-for-control-of-facts/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+“I know there’s a lot of power in that Oval Office, but I’ll take that power up against the power of 6 million pissed-off commuters in New York City,” Hochul said. 
+
+<br> 
+
+<https://www.thecity.nyc/2025/02/26/hochul-we-wont-be-steamrolled-on-congestion-pricing/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+Musk was raised and educated in apartheid in South Africa and doesn&#39;t understand how our system of government works. He explains how he thinks it works. 
+
+<br> 
+
+<https://x.com/atrupar/status/1894793659809144864>
+
+---
+
+## Introducing: Raspberry Pi Official Magazine
+
+date: 2025-02-27, from: Raspberry Pi News (.com)
+
+<p>Bringing you all the community projects, build guides, and reviews you love with a smart new look.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/introducing-raspberry-pi-official-magazine/">Introducing: Raspberry Pi Official Magazine</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/introducing-raspberry-pi-official-magazine/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+Actor Gene Hackman and wife Betsy Arakawa found dead in Santa Fe home. 
+
+<br> 
+
+<https://wapo.st/3ESuJwe>
+
+---
+
+## Cruel and Usual: Republicans Prepare to Gut Medicaid
+
+date: 2025-02-27, from: Paul Krugman
+
+And their own supporters will be among the biggest victims 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/cruel-and-usual-republicans-prepare>
+
+---
+
+## Dear Student: Yes, AI is here, you're screwed unless you take action...
+
+date: 2025-02-27, from: Geoffrey Hunntley's blog
+
+<p>Two weeks ago a student <a href="https://ghuntley.com/im-a-student/">anonymously emailed me</a> asking for advice. This is the reply and if I was in your shoes this is what I&apos;d do.</p><blockquote>So, I read your blog post &quot;<a href="https://ghuntley.com/oh-fuck/" rel="noreferrer">An oh f*** moment in time</a>&quot; alongside &quot;<a href="https://ghuntley.com/dothings/" rel="noreferrer">The future belongs to idea</a></blockquote> 
+
+<br> 
+
+<https://ghuntley.com/screwed/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+Sell Your Teslas. <span style="letter-spacing: 0.01rem; -webkit-text-size-adjust: 100%;">Dump Your Stock. </span><span style="letter-spacing: 0.01rem; -webkit-text-size-adjust: 100%;">Stop Musk Now.</span> 
+
+<br> 
+
+<https://www.teslatakedown.com/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+Musk is proving before our eyes, working 120 hours a week is not the same thing as doing a good job. 
+
+<br> 
+
+<https://www.nytimes.com/2025/02/27/opinion/elon-musk-billionaire.html?unlocked_article_code=1.0E4.95T5._Ay7OjMb_tCa&smid=url-share>
+
+---
+
+## 287: The Secret Pattern
+
+date: 2025-02-27, from: Fix the News
+
+To see the web of the world, and the warp and the weft of that web. Plus, an astonishingly good year for clean energy, child marriage declines in Malaysia, poverty falling in Thailand, the return of big carnivores in Europe, and the most powerful AI biology tool ever created.  
+
+<br> 
+
+<https://fixthenews.com/287-secret-pattern/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-02-27, from: Feed for Alt USDS)
+
+🎙️ Jonathan Kamens, former Cybersecurity Lead at the Dept. of Veterans Affairs and ex-USDSer, on @cnn.com tonight.
+
+Hear how sensitive information on millions of veterans is at risk, takes on DOGE vs. USDS classic, and how to *actually* reduce waste & fraud
+
+Full video: https://blog.kamens.us/2025/02/26/feb-26-live-cnn-interview-about-va-gov-cybersecurity/ 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lj53z3efrk2o>
+
+---
+
+## Driving Change
+
+date: 2025-02-27, from: Guy Kawasaki blog
+
+How Steve Gordon Transformed the California DMV. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/driving-change>
+
+---
+
+## Framing Element
+
+date: 2025-02-27, updated: 2025-02-27, from: Tedium site
+
+The really exciting part of Framework’s latest product release cycle is the cheap 12-inch laptop—not the beefy desktop machine. That tiny laptop seems to have nailed its target audience. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16971925/framebook-12-laptop-impressions>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-02-27, from: Feed for Alt USDS)
+
+Once bad actors get your personal info, they can use it for fraud for years. Read our explainer on data security & how to protect yourself. ⬇️
+
+🔗 https://www.wethebuilders.org/posts/real-risks-of-personal-data-theft
+
+#GovTech #TechForGood #SaveOurServices #altgov #altUSDS #linkinbio #CyberSecurity #DataProtection #PrivacyMatters 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lj4wjfiku22o>
+
+---
+
+## AT&T Hacker Tried to Sell Stolen Data to Foreign Government
+
+date: 2025-02-27, from: 404 Media Group
+
+A court document reviewed by 404 Media says Cameron John Wagenius also searched for “U.S. military personnel defecting to Russia.” 
+
+<br> 
+
+<https://www.404media.co/at-t-hacker-tried-to-sell-stolen-data-to-foreign-government/>
+
+---
+
+## TypeScript types can run DOOM
+
+date: 2025-02-27, updated: 2025-02-27, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.youtube.com/watch?v=0mCsluv5FXA">TypeScript types can run DOOM</a></strong></p>
+This YouTube video (with excellent production values - "<a href="https://news.ycombinator.com/item?id=43184291#43188738">conservatively 200 hours dropped into that 7 minute video</a>") describes an outlandishly absurd project: Dimitri Mitropoulos spent a full year getting DOOM to run entirely via the TypeScript compiler (TSC).</p>
+<p><lite-youtube videoid="0mCsluv5FXA"
+  title="TypeScript types can run DOOM"
+  playlabel="Play: TypeScript types can run DOOM"
+> </lite-youtube></p>
+
+<p>Along the way, he implemented a full WASM virtual machine within the type system, including implementing the 116 WebAssembly instructions needed by DOOM, starting with integer arithmetic and incorporating memory management, dynamic dispatch and more, all running on top of binary two's complement numbers stored as string literals.</p>
+<p>The end result was 177TB of data representing 3.5 trillion lines of type definitions. Rendering the first frame of DOOM took 12 days running at 20 million type instantiations per second.</p>
+<p>Here's <a href="https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime">the source code</a> for the WASM runtime. The code for <a href="https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime/blob/master/packages/ts-type-math/add.ts">Add</a>, <a href="https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime/blob/master/packages/ts-type-math/divide.ts">Divide</a> and <a href="https://github.com/MichiganTypeScript/typescript-types-only-wasm-runtime/blob/master/packages/ts-type-math/shift.ts">ShiftLeft/ShiftRight</a> provide a neat example of quite how much complexity is involved in this project.</p>
+<p>The thing that delights me most about this project is the sheer variety of topics you would need to fully absorb in order to pull it off - not just TypeScript but WebAssembly, virtual machine implementations, TSC internals and the architecture of DOOM itself.
+
+    <p><small></small>Via <a href="https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom">lobste.rs</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/typescript">typescript</a>, <a href="https://simonwillison.net/tags/webassembly">webassembly</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/27/typescript-types-can-run-doom/#atom-everything>
+
+---
+
+## 543. Death in the Amazon: Aguirre, the Wrath of God
+
+date: 2025-02-27, from: This is history podcast
+
+<p>“Anyone who even thinks of abandoning this mission will be cut up into a thousand pieces…I am the wrath of God!” At the height of the age of exploration, during the fifteenth and sixteenth centuries, one story in particular gripped the imagination of European colonialists: El Dorado, a legendary city of gold, hidden in the [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/543-death-in-the-amazon-aguirre-the-wrath-of-god/">543. Death in the Amazon: Aguirre, the Wrath of God</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/543-death-in-the-amazon-aguirre-the-wrath-of-god/>
+
+---
+
+## Retroid Pocket Flip2 is a faster handheld game console with upgraded controllers
+
+date: 2025-02-26, from: Liliputing
+
+<p>Two years after releasing the Retroid Pocket Flip handheld game console with a 4.7 inch display and a clamshell design, Retroid is ready for round two. The new Retroid Pocket Flip2 has a similar design to its predecessor, but it brings a few key upgrades. It has a bigger screen, faster processor options (there are two [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/retroid-pocket-flip2-is-a-faster-handheld-game-console-with-upgraded-controllers/">Retroid Pocket Flip2 is a faster handheld game console with upgraded controllers</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/retroid-pocket-flip2-is-a-faster-handheld-game-console-with-upgraded-controllers/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+Unvaccinated child dies of measles in west Texas as outbreak worsens. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/feb/26/texas-measles-outbreak-cases>
+
+---
+
+## Massive Interview with Steve Jobs from MicroTimes (1992)
+
+date: 2025-02-26, from: Computer ads from the Past
+
+An in-depth discussion on NeXT 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/massive-interview-with-steve-jobs>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+Heritage Foundation Presentation Details Plans To Doxx And Target Wikipeda Editors It Claims Are ‘Abusing Their Position.’ 
+
+<br> 
+
+<https://www.techdirt.com/2025/02/26/heritage-foundation-presentation-details-plans-to-doxx-and-target-wikipeda-editors-it-claims-are-abusing-their-position/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+The feeds that are included in the Little Feed Reader on the Bluesky. 
+
+<br> 
+
+<https://viewfeedlist.opml.org/?url=https://feedland.social/opml?screenname=davewiner&catname=blogroll>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+The Little Feed Reader account on Bluesky. Please follow it for an eclectic feed with news and various other topics. 
+
+<br> 
+
+<https://bsky.app/profile/feediverse.bsky.social>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+Jeff Bezos declares opinions questioning “free markets” no longer welcome at The Washington Post. 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/jeff-bezos-declares-opinions-questioning-free-markets-no-longer-welcome-at-the-washington-post/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-02-26, from: Robert's feed at BlueSky)
+
+I like this idea.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lj4ainr76c2o>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-02-26, from: Robert's feed at BlueSky)
+
+Very disturbing
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lj4abb7vfk2o>
+
+---
+
+## AYANEO Flip clamshell handheld gaming PC discontinued before all orders had shipped
+
+date: 2025-02-26, from: Liliputing
+
+<p>The The AYANEO Flip is a handheld gaming PC with a clamshell design where the lid flips upward to reveal a game controller and either a QWERTY keyboard or a small secondary screen, depending on the model. AYANEO launched a crowdfunding campaign for the Flip in January, 2024 and began shipping some units to backers [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped/">AYANEO Flip clamshell handheld gaming PC discontinued before all orders had shipped</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+Bitcoin plunges as crypto fans didn’t get everything they wanted from Trump. 
+
+<br> 
+
+<https://arstechnica.com/tech-policy/2025/02/bitcoin-plunges-as-crypto-fans-didnt-get-everything-they-wanted-from-trump/>
+
+---
+
+## Testimony on External Purchase Fee and Scare Screens
+
+date: 2025-02-26, from: Michael Tsai
+
+Tim Hardwick: Apple Fellow Phil Schiller testified in court on Monday that he initially opposed the 27% commission Apple now charges on purchases made outside the App Store, citing compliance risks and potential developer backlash (via AP News).Schiller, who oversees the App Store, said he had concerns that the fee would create an &#8220;antagonistic relationship&#8221; [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/26/testimony-on-external-purchase-fee-and-scare-screens/>
+
+---
+
+## Hyperspace 1.0
+
+date: 2025-02-26, from: Michael Tsai
+
+John Siracusa (Mastodon): There are plenty of Mac apps that will save disk space by finding duplicate files and then deleting the duplicates. Using APFS clones, my app could reclaim disk space without removing any files! As a digital pack rat, this appealed to me immensely.By the end of that week, I&#8217;d written a barebones [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/26/hyperspace-1-0/>
+
+---
+
+## “Phonetic Overlap”
+
+date: 2025-02-26, from: Michael Tsai
+
+Tripp Mickle and Eli Tan (Hacker News, MacRumors): While using Apple&#8217;s automatic dictation feature to send messages on Tuesday, some iPhone users reported seeing a peculiar bug: the word &#8220;racist&#8221; temporarily appearing as &#8220;Trump,&#8221; before quickly correcting itself. The message blip, which was replicated several times by The New York Times, provoked controversy after appearing [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/26/phonetic-overlap/>
+
+---
+
+## Amazon Removes Direct Downloads of Kindle Books
+
+date: 2025-02-26, from: Michael Tsai
+
+Andrew Liszewski (Hacker News, Reddit): Starting on February 26th, 2025, Amazon is removing a feature from its website allowing you to download purchased books to a computer and then copy them manually to a Kindle over USB. It&#8217;s a feature that a lot of Kindle users are probably not aware of, given books can be [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/26/amazon-removes-direct-downloads-of-kindle-books/>
+
+---
+
+## JT & Kelsey
+
+date: 2025-02-26, from: Chris Coyier blog
+
+My sister is a big fan of Justin Timberlake. She &#38; her friends went to go see him in Milwaukee this past weekend, with some swank front-row tickets her husband Aaron scored. She made a little sign to hold up that said &#8220;Moms / Teachers Night Out&#8221; and JT called them out early in the [&#8230;] 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://chriscoyier.net/wp-content/uploads/2025/02/clip.mp3"></source>
+</audio> <a href="https://chriscoyier.net/wp-content/uploads/2025/02/clip.mp3" target="_blank">download audio/mpeg</a><br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/quicktime" src="https://videos.files.wordpress.com/H3sKnK0S/img_6131.mov"></source>
+	<source type="video/quicktime" src="https://videos.files.wordpress.com/Ec1RwKVI/img_6407.mov"></source>
+</video> <a href="https://videos.files.wordpress.com/H3sKnK0S/img_6131.mov" target="_blank">download video/quicktime</a> 
+
+<https://chriscoyier.net/2025/02/26/jt-kelsey/>
+
+---
+
+## GPT 4.5 is no GPT-5
+
+date: 2025-02-26, from: Gary Marcus blog
+
+Investors should be worried 
+
+<br> 
+
+<https://garymarcus.substack.com/p/gpt-45-is-no-gpt-5>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+Bezos takes control at the Washington Post. I guess he has to with Musk controlling Twitter. I bet Bezos wishes he had built his own twitter. 
+
+<br> 
+
+<https://www.nytimes.com/2025/02/26/business/media/washington-post-bezos-shipley.html?unlocked_article_code=1.z04.EiSj.VZ3ZACu6Q8i6&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+How Much Elon Musk Pocketed in Government Funding Before DOGE. 
+
+<br> 
+
+<https://newrepublic.com/post/192001/elon-musk-government-funding-wealth>
+
+---
+
+## Flock Threatens Open Source Developer Mapping Its Surveillance Cameras
+
+date: 2025-02-26, from: 404 Media Group
+
+The surveillance camera company Flock sent DeFlock a cease-and-desist. DeFlock is fighting back. 
+
+<br> 
+
+<https://www.404media.co/flock-threatens-open-source-developer-mapping-its-surveillance-cameras/>
+
+---
+
+## Shuttle XPC nano NA10H7 is a compact desktop with Ryzen 7 8845HS
+
+date: 2025-02-26, from: Liliputing
+
+<p>The new Shuttle XPC nano NA10H7 is a compact desktop computer that measures 132 x 143 x 55mm (5.2&#8243; x 5.63&#8243; x 2.17&#8243;) and feature a AMD Ryzen 7 8845HS processor and support for up to 64GB of DDDR5-5600 memory. While the processor at the heart of the computer is based on AMD&#8217;s &#8220;Hawk Point&#8221; architecture [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/shuttle-xpc-nano-na10h7-is-a-compact-desktop-with-ryzen-7-8845hs/">Shuttle XPC nano NA10H7 is a compact desktop with Ryzen 7 8845HS</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/shuttle-xpc-nano-na10h7-is-a-compact-desktop-with-ryzen-7-8845hs/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-02-26, from: Feed for Alt USDS)
+
+If anyone has intel about this, we'd be happy to amplify anonymously. DM here or email to submissions@wethebuilders.org.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lj3w5rzjhs26>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-02-26, from: Feed for Alt USDS)
+
+I'll take "move fast & break things (and later unbreak them)" for $1B, Alex.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lj3w2vuidc26>
+
+---
+
+## Amazon Alexa+ brings generative AI to the voice assistant for $20 per month (or free for Prime members)
+
+date: 2025-02-26, from: Liliputing
+
+<p>Amazon&#8217;s Alexa voice assistant service has been powering smart speakers and displays for over a decade, and it&#8217;s also available to install as an app on other platforms including tablets, phones, and laptops. But these days a voice assistant that just answers questions, plays music, and sets reminders is old hat. So Amazon is bringing [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/amazon-alexa-brings-generative-ai-to-the-voice-assistant-for-20-per-month-or-free-for-prime-members/">Amazon Alexa+ brings generative AI to the voice assistant for $20 per month (or free for Prime members)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/amazon-alexa-brings-generative-ai-to-the-voice-assistant-for-20-per-month-or-free-for-prime-members/>
+
+---
+
+## Bluesky Deletes AI Protest Video of Trump Sucking Musk's Toes, Calls It 'Non-Consensual Explicit Material'
+
+date: 2025-02-26, from: 404 Media Group
+
+Bluesky has deleted the most viral post reporting on an internal government protest agains the President of the United States and the world's richest man. 
+
+<br> 
+
+<https://www.404media.co/bluesky-deletes-ai-protest-video-of-trump-sucking-musks-toes-calls-it-non-consensual-explicit-material/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-26, from: Dave Winer's linkblog)
+
+I&#39;m interested in knowing what browsers people who use WordLand are using, so I asked ChatGPT to write some code that makes sense of them in some human-readable way. 
+
+<br> 
+
+<https://gist.github.com/scripting/e35256108b5c9ebf6af4cea057c273ef>
+
+---
+
+## The Art of Perseverance
+
+date: 2025-02-26, from: Guy Kawasaki blog
+
+It takes grit and guts to build lasting success. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-art-of-perseverance>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-02-26, from: IIIF Mastodon feed)
+
+<p>Starting in 30 minutes!<br /><a href="https://glammr.us/@IIIF/114066036394145892" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">glammr.us/@IIIF/11406603639414</span><span class="invisible">5892</span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114070908410434435>
 
 ---
 
@@ -176,6 +722,50 @@ I built this new GitHub template repository in preparation for a workshop I'm gi
 
 ---
 
+## Acetate
+
+date: 2025-02-26, from: Ed Summers blog, Inkdroid
+
+<blockquote>
+<p>
+The recordings for the Leeds and Witmark demos were never intended for
+public consumption, but were made to sell Dylan’s songs to other
+artists. The demo sessions took place in a tiny 6-by-8-foot studio at
+Witmark’s offices in the Look Building at 51st Street and Madison
+Avenue, where an engineer would capture the performances on a
+reel-to-reel. To save tape, the demos were recorded at 7.5 inches per
+second, half the speed used in professional studios. A Witmark copyist
+would then transcribe the lyrics and music from the tape, and song
+sheets would be printed and mailed to recording companies. When a
+company’s artist expressed an interest in a song, Witmark would cut an
+acetate, a recording on inexpensive plastic, that would be sent to the
+artist for preview purposes. If acceptable, the song would be recorded.
+<a
+href="https://en.m.wikipedia.org/wiki/The_Bootleg_Series_Vol._9:_The_Witmark_Demos:_1962%E2%80%931964">The
+Witmark Demos: 1962-1964</a>
+</p>
+</blockquote>
+<iframe width="800" height="500" src="https://www.openstreetmap.org/export/embed.html?bbox=-73.97659868001939%2C40.75797506482221%2C-73.97394865751268%2C40.759616661311505&amp;layer=mapnik&amp;marker=40.758795868134314%2C-73.97527366876602" style="border: 1px solid black">
+</iframe>
+<p>
+<br/><small><a href="https://www.openstreetmap.org/?mlat=40.758796&amp;mlon=-73.975274#map=19/40.758796/-73.975274">View
+Larger Map</a></small>
+</p>
+<p>
+The image of Mr Z. rattling off these songs, and recording them on the
+cheapest material, in the cheapest possible way, so that other artists
+could decide whether they wanted to record them for real seems so
+ephemeral, like some kind of pre-web social media. It’s amazing that
+they survived and could be turned into an album.
+</p>
+ 
+
+<br> 
+
+<https://inkdroid.org/2025/02/26/acetate/>
+
+---
+
 ## olmOCR
 
 date: 2025-02-26, updated: 2025-02-26, from: Simon Willison’s Weblog
@@ -195,7 +785,8 @@ from the PDF binary file. [...]</p>
 <p>Document anchoring processes PDF document pages via the PyPDF library to extract a representation of the page’s structure from the underlying PDF. All of the text blocks and images in the page are extracted, including position information. Starting with the most relevant text blocks and images, these are sampled and added to the prompt of the VLM, up to a defined maximum character limit. This extra information is then available to the model when processing the document.</p>
 </blockquote>
 <p><img alt="Left side shows a green-header interface with coordinates like [150x220]√3x−1+(1+x)², [150x180]Section 6, [150x50]Lorem ipsum dolor sit amet, [150x70]consectetur adipiscing elit, sed do, [150x90]eiusmod tempor incididunt ut, [150x110]labore et dolore magna aliqua, [100x280]Table 1, followed by grid coordinates with A, B, C, AA, BB, CC, AAA, BBB, CCC values. Right side shows the rendered document with equation, text and table." src="https://static.simonwillison.net/static/2025/olmocr-document-anchoring.jpg" /></p>
-<p>The one limitation of olmOCR at the moment is that it doesn't appear to do anything with diagrams, figures or illustrations. Vision models are actually very good at interpreting these now, so my ideal OCR solution would include detailed automated descriptions of this kind of content in the resulting text.
+<p>The one limitation of olmOCR at the moment is that it doesn't appear to do anything with diagrams, figures or illustrations. Vision models are actually very good at interpreting these now, so my ideal OCR solution would include detailed automated descriptions of this kind of content in the resulting text.</p>
+<p><strong>Update</strong>: Jonathan Soma <a href="https://jonathansoma.com/words/olmocr-on-macos-with-lm-studio.html">figured out how to run it on a Mac</a> using LM Studio and the <a href="https://github.com/allenai/olmocr/">olmocr</a> Python package.
 
     <p><small></small>Via <a href="https://twitter.com/soldni/status/1894418235334037570?s=46">Luca Soldaini</a></small></p>
 
@@ -215,6 +806,45 @@ Tesla Stock Falls 8% as Concerns About Elon Musk’s Political Role Grow.
 <br> 
 
 <https://www.nytimes.com/2025/02/25/business/tesla-stock-elon-musk-trump.html?unlocked_article_code=1.z04.8Z2l.MNc_DlKJKMY_&smid=url-share>
+
+---
+
+## Faster Go maps with Swiss Tables
+
+date: 2025-02-26, updated: 2025-02-26, from: Go language blog
+
+Go 1.24 improves map performance with a brand new map implementation 
+
+<br> 
+
+<https://go.dev/blog/swisstable>
+
+---
+
+## GHC 9.12.2-rc1 is now available
+
+date: 2025-02-26, from: Glasgow Haskell Compiler
+
+<h1>GHC 9.12.2-rc1 is now available</h1>
+<h4 class="text-muted">Ben Gamari - 2025-02-26</h4>
+
+<p>The GHC developers are happy to announce the availability of the first and
+likely final release candidate of GHC 9.12.2. This is an important bug-fix
+release resolving a significant correctness issue present in 9.12.1
+(<a href="https://gitlab.haskell.org/ghc/ghc/issues/25653">#25653</a>).</p>
+<p>In accordance with our under-discussion <a href="https://gitlab.haskell.org/ghc/ghc-hq/-/merge_requests/38">release policies</a> this candidate
+will have a two-week testing window. The final 9.12.2 release will likely come
+the week of 12 March 2025.</p>
+<p>As always, if you find anything amiss please open a <a href="https://gitlab.haskell.org/ghc/ghc/-/issues/new">ticket</a>.</p>
+<p>Happy Haskelling!</p>
+<ul>
+<li>Ben</li>
+</ul>
+ 
+
+<br> 
+
+<http://haskell.org/ghc/blog/20240225-ghc-9.12.2-rc1-released.html>
 
 ---
 
@@ -776,7 +1406,7 @@ Tesla sales almost halve in Europe.
 
 date: 2025-02-25, from: O'Reilly Radar
 
-On April 24, O’Reilly Media will be hosting Coding with AI: The End of Software Development as We Know It—a live virtual tech conference spotlighting how AI is already supercharging developers, boosting productivity, and providing real value to their organizations. If you’re in the trenches building tomorrow’s development practices today and interested in speaking at [&#8230;] 
+On May 8, O’Reilly Media will be hosting Coding with AI: The End of Software Development as We Know It—a live virtual tech conference spotlighting how AI is already supercharging developers, boosting productivity, and providing real value to their organizations. If you’re in the trenches building tomorrow’s development practices today and interested in speaking at [&#8230;] 
 
 <br> 
 

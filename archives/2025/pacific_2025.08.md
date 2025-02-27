@@ -1,15 +1,598 @@
 ---
 title: pacific
-updated: 2025-02-26 07:08:36
+updated: 2025-02-27 07:06:47
 ---
 
 # pacific
 
-(date: 2025-02-26 07:08:36)
+(date: 2025-02-27 07:06:47)
 
 ---
 
-## China roils the Pacific waters courtesy Australia and New Zealand
+## Arts, shows and community events
+
+date: 2025-02-27, from: Pacific Island Times
+
+Sea stories at Guam Musem: A deep dive into science communication The Guam Museum will hold its first HITA Talk of 2025, “Sea Stories: A... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/arts-shows-and-community-events>
+
+---
+
+## Palau, Philippines strengthen ties, team up to secure maritime resources
+
+date: 2025-02-27, from: Pacific Island Times
+
+Palau and the Philippines have forged deeper diplomatic relations, stressing the need for collaboration amid growing regional challenges, in 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/palau-philippines-strengthen-ties-team-up-to-secure-maritime-resources>
+
+---
+
+## Will the Quad step up under Trump? Don’t count on it
+
+date: 2025-02-27, from: Pacific Island Times
+
+rump, if consistent in nothing else, has always been skeptical of U.S. alliances. So what gives? And will the Quad alliance actually step up 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/will-the-quad-step-up-under-trump-don-t-count-on-it>
+
+---
+
+## A parade of planets is marching through the night sky
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>Astute skywatchers may have already seen the striking line of planets across the night sky in January. This week Mercury joins the queue. Now every other world in our solar system will be visible among the stars at the same time &#8212; if you know where to look.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/a-parade-of-planets-is-marching-through-the-night-sky/>
+
+---
+
+## Israel and Hamas will move forward with another swap
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Israel and Hamas have agreed to exchange the remains of four Israelis on Wednesday night for hundreds of Palestinian prisoners, the Israeli government said, resolving an impasse that had injected added uncertainty around the future of the ceasefire in the Gaza Strip.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/israel-and-hamas-will-move-forward-with-another-swap/>
+
+---
+
+## Dockworkers vote to accept new labor contract
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>Dockworkers on the East and Gulf coasts voted in favor of a new contract on Tuesday, ending labor turbulence at ports that handle a large share of U.S. trade with the rest of the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/dockworkers-vote-to-accept-new-labor-contract/>
+
+---
+
+## Why is egg shopping so unpredictable?
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; On Saturday morning in Culver City, California, Marie Hernandes finally found her eggs. A friend had asked for a vanilla birthday cake, so all week after work, she&#8217;d visited multiple stores &#8212; Ralphs, Target, Walmart &#8212; only to find the eggs sold out. Finally, an early-morning run to Costco landed her two 24-packs at $7.69 each.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/why-is-egg-shopping-so-unpredictable/>
+
+---
+
+## Trump says Ukraine should look to Europe for any security guarantees
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump told his Cabinet on Wednesday that President Volodymyr Zelenskyy of Ukraine was expected to come to Washington to sign a framework agreement enabling the United States to share in the country&#8217;s mineral wealth, but he insisted the United States would not be providing security guarantees to Ukraine in return.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/trump-says-ukraine-should-look-to-europe-for-any-security-guarantees/>
+
+---
+
+## Trump’s new crackdown on China is just beginning
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s tough talk on China typically centers on tariffs. But a closer look at the decisions he has made since taking office shows that the president is considering a far wider set of economic restrictions on Beijing, ones that could hasten America&#8217;s split from a critical trading partner.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/trumps-new-crackdown-on-china-is-just-beginning/>
+
+---
+
+## EPA chief eyes 65% workforce reduction, Trump says
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump on Wednesday said that Environmental Protection Agency Administrator Lee Zeldin is planning to cut 65% of his agency&#8217;s workforce, a move that came as a surprise to agency staff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/epa-chief-eyes-65-workforce-reduction-trump-says/>
+
+---
+
+## Gabbard says more than 100 intelligence officers fired for chat messages
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>Tulsi Gabbard, the director of national intelligence, said on Tuesday that more than 100 intelligence officers from 15 agencies had been fired for having sexually explicit discussions on a government chat tool.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/gabbard-says-more-than-100-intelligence-officers-fired-for-chat-messages/>
+
+---
+
+## News in brief February 27
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>Unknown deadly &#0010;illness strikes &#0010;western Congo</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/news-in-brief-february-27/>
+
+---
+
+## Trump orders more layoffs, Musk touts cuts at cabinet meeting
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s administration on Wednesday ordered federal agencies to undertake more large-scale layoffs of federal workers, as downsizing czar Elon Musk vowed at Trump&#8217;s first cabinet meeting to pursue deeper spending cuts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/trump-orders-more-layoffs-musk-touts-cuts-at-cabinet-meeting/>
+
+---
+
+## Texas child is first reported US measles death in a decade as outbreak hits more than 130 people
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>A child in West Texas has died of measles, state health officials said on Wednesday, the first reported U.S. death from the highly contagious disease in a decade, as a Texas outbreak has grown from a handful of cases to more than 130 across two states.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/texas-child-is-first-reported-us-measles-death-in-a-decade-as-outbreak-hits-more-than-130-people/>
+
+---
+
+## Police arrest 18 for DUI
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>During the week of Feb. 17-23, Hawaii Island police arrested 18 motorists for DUI.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/hawaii-news/police-arrest-18-for-dui-18/>
+
+---
+
+## Plea deal in the works in fentanyl case
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>A 35-year-old Centralia, Wash., man accused of possessing 4,000 fentanyl pills for distribution on the Big Island in December 2022 appears to be close to a federal plea deal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/hawaii-news/plea-deal-in-the-works-in-fentanyl-case/>
+
+---
+
+## Green receives list of nominees for Big Island judgeship
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>The state Judicial Selection Committee has sent four nominees to Gov. Josh Green to fill a vacancy left by the retirement of Kona Circuit Judge Robert D.S. Kim in July 2024.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/hawaii-news/green-receives-list-of-nominees-for-big-island-judgeship/>
+
+---
+
+## Trump plan to repeal climate policy could upend shift to electric cars
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration and Republicans in Congress are preparing an unusual legislative maneuver in an effort to eliminate one of the country&#8217;s most ambitious climate policies, an order that was designed to shift the auto industry toward electric cars.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/trump-plan-to-repeal-climate-policy-could-upend-shift-to-electric-cars/>
+
+---
+
+## 131 Maui fire survivors laid off after federal funding cut
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>A total of 131 Maui residents displaced by the Aug. 8, 2023, wildfires and working on recovery efforts were laid off Monday after the Trump administration cut federal funding for their positions.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/hawaii-news/131-maui-fire-survivors-laid-off-after-federal-funding-cut/>
+
+---
+
+## General Plan meetings are wrapping up
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>A series of public meetings about planned updates to Hawaii County&#8217;s General Plan will come to an end next month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/hawaii-news/general-plan-meetings-are-wrapping-up/>
+
+---
+
+## Supreme Court’s Robert pauses federal judge’s order on Trump administration foreign aid funding
+
+date: 2025-02-27, from: Hawaii Tribune Harold
+
+
+				<p>U.S. Supreme Court Chief Justice John Roberts on Wednesday paused a federal judge&#8217;s order requiring President Donald Trump&#8217;s administration to pay foreign aid funds to contractors and grant recipients.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/nation-world-news/supreme-courts-robert-pauses-federal-judges-order-on-trump-administration-foreign-aid-funding/>
+
+---
+
+## Emperor Naruto’s day marked in Majuro
+
+date: 2025-02-27, from: Marshal Islands Journal
+
+<p>HILARY HOSIA Toasts were exchanged between Acting Foreign Minister David Paul and Japan Ambassador Soma Hirohisa in honor of Emperor Naruto&#8217;s birthday&#160;last Friday at the Marshall Islands Resort. Emperor Naruto turned 65 this year. The Marshall Islands has been celebrating the imperial event since the establishment of the bilateral relationship with Japan in 1988. In [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/emperor-narutos-day-marked-in-majuro/">Emperor Naruto&#8217;s day marked in Majuro</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/emperor-narutos-day-marked-in-majuro/>
+
+---
+
+## Guam agencies urged to assess the impact of Trump's housecleaning
+
+date: 2025-02-27, from: Pacific Island Times
+
+ 
+
+A legislative panel has asked Guam agencies to assess the potential impact of President Donald Trump’s federal retrenchment and radical s 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-agencies-urged-to-assess-the-impact-of-trump-s-housecleaning>
+
+---
+
+## Students shine at science fair
+
+date: 2025-02-27, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The International Conference Center showcased exceptional works of art and student creativity during the Social Citizenship and Education/Science Fair on Tuesday. It was refreshing to see young students glued in while Chellynn Jelke from Rita Elementary School explained how pollution affects the community. The sixth grader was animated and well-versed in her topic [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/students-shine-at-science-fair/">Students shine at science fair</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/students-shine-at-science-fair/>
+
+---
+
+## UH helps launch state employees’ food drive
+
+date: 2025-02-27, from: University of Hawaiʻi News
+
+<p>Together, the state and city have set a goal of providing 515,000 meals to <span aria-label="Hawaii">Hawai&#699;i</span> residents in need.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/uh-helps-launch-state-food-drive/"><abbr>UH</abbr> helps launch state employees’ food drive</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/uh-helps-launch-state-food-drive/>
+
+---
+
+## Kauaʻi CC expands global reach with Korean university exchange
+
+date: 2025-02-27, from: University of Hawaiʻi News
+
+<p>Jeju National University is <span aria-label="Kauai">Kaua&#699;i</span> <abbr>CC</abbr>’s latest international student exchange partner.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/kauai-cc-expands-global-reach-korean-university/">Kauaʻi <abbr>CC</abbr> expands global reach with Korean university exchange</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/kauai-cc-expands-global-reach-korean-university/>
+
+---
+
+## ‘Navigating Change - Estorian Peskadot Marianas’: Strengthening CNMI and Guam fishing communities
+
+date: 2025-02-27, updated: 2025-02-27, from: Marianas Variety
+
+(WPRFMC) — Fishing in the Pacific Islands is culturally, socially and economically important. Even small changes can have big consequences, especially when they impact fisheries and habitats. These effects are felt at the local level, directly influencing fishing communities. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/navigating-change---estorian-peskadot-marianas-strengthening-cnmi-and-guam-fishing-communities/article_01a32394-f4a4-11ef-9c26-270c17a7d84e.html>
+
+---
+
+## The Indo-Pacific as the world’s center of gravity: Why Guam must stay engaged
+
+date: 2025-02-27, from: Pacific Island Times
+
+As global defense priorities shift, the Indo-Pacific is increasingly recognized as the world’s new “center
+
+of gravity.”  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-indo-pacific-as-the-world-s-center-of-gravity-why-guam-must-stay-engaged>
+
+---
+
+## Healing chronic wounds: UH Mānoa scientists lead innovation
+
+date: 2025-02-27, from: University of Hawaiʻi News
+
+<p>The initiative focuses on using cutting-edge protein science to develop an enzyme-based therapeutic designed to accelerate the healing process of chronic wounds.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/healing-chronic-wounds-innovation/">Healing chronic wounds: <abbr>UH</abbr> Mānoa scientists lead innovation</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/healing-chronic-wounds-innovation/>
+
+---
+
+## Guam port seeking tariff rate hike
+
+date: 2025-02-26, from: Pacific Island Times
+
+The Port Authority of Guam is seeking to raise tariffs by up to 17 percent this year as part of the agency’s revenue enhancement strategy. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-port-seeking-tariff-rate-hike>
+
+---
+
+## Hungry marine fungi may be the key to reducing plastic pollution
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>Plastic pollution is a critical issue in <span aria-label="Hawaii">Hawai&#699;i</span> because of its location in the North Pacific Subtropical Gyre.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/marine-fungi-plastic-pollution/">Hungry marine fungi may be the key to reducing plastic pollution</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/marine-fungi-plastic-pollution/>
+
+---
+
+## Guam think tank head tells senators: Ask US military the hard questions
+
+date: 2025-02-26, from: Pacific Island Times
+
+By Jayvee Vallejera   The head of a Guam research institute on Wednesday advised local legislators to challenge the information provided... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-think-tank-head-tells-senators-ask-us-military-the-hard-questions>
+
+---
+
+## Windward CC showcases Hawaiian language excellence
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>Windward <abbr>CC</abbr> competition celebrated Hawaiian Language Month.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/windward-cc-hawaiian-language-excellence/">Windward <abbr>CC</abbr> showcases Hawaiian language excellence</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/windward-cc-hawaiian-language-excellence/>
+
+---
+
+## 3 island tuna deal signed
+
+date: 2025-02-26, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON For decades, the Marshall Islands and other Pacific Islands struggled with how to generate more revenue from the commercial tuna industry. Now, a three-nation agreement signed Monday in Honiara, Solomon Islands, could be the latest game-changer for Pacific fisheries cooperation. Beginning in the 1980s, island nations for the first time began selling licenses [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/3-island-tuna-deal-signed/">3 island tuna deal signed</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/3-island-tuna-deal-signed/>
+
+---
+
+## UH, Google offer free AI training to students, employees
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> partners with Google, offering free AI training and career certificates, empowering students with in-demand skills for a competitive edge.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/uh-google-ai-training/"><abbr>UH</abbr>, Google offer free <abbr>AI</abbr> training to students, employees</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/uh-google-ai-training/>
+
+---
+
+## Scholarships aim to jumpstart culinary careers at UH Maui College
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>Launchpad Scholarships at <abbr>UH</abbr> Maui College cover tuition for two essential culinary classes.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/culinary-scholarships-uh-maui-college/">Scholarships aim to jumpstart culinary careers at <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/culinary-scholarships-uh-maui-college/>
+
+---
+
+## President Hensel visits 3 Hawaiʻi CC sites as part of systemwide tour
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>The <span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr> Manono campus, Kō Education Center and Pālamanui campus welcomed Hensel.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/hensel-visits-hawaii-cc-sites/">President Hensel visits 3 Hawaiʻi <abbr>CC</abbr> sites as part of systemwide tour</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/hensel-visits-hawaii-cc-sites/>
+
+---
+
+## Image of the Week: RENT
+
+date: 2025-02-26, from: University of Hawaiʻi News
+
+<p>This week’s image is from <abbr>UH</abbr> Mānoa's Jessica Jacobs and Christine Lamborn.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/26/image-of-the-week-rent/">Image of the Week: RENT</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/26/image-of-the-week-rent/>
+
+---
+
+## Connect with employers at NMC’s Career Fair
+
+date: 2025-02-26, updated: 2025-02-27, from: Marianas Variety
+
+(NMC) — Community members looking to pursue employment opportunities are invited to attend Northern Marianas College’s Career Fair on Friday, March 14, 2025, at Crowne Plaza Resort Saipan from 8 a.m. to 10 a.m. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/connect-with-employers-at-nmc-s-career-fair/article_5d97e402-f439-11ef-94aa-7f480739824b.html>
+
+---
+
+## Hollywood fights to keep its role as the world's film capital
+
+date: 2025-02-26, updated: 2025-02-27, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Behind the glitz of the movie awards season that culminates with the Oscars on Sunday, Hollywood is fighting a battle to keep its place at the center of the global film business. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/hollywood-fights-to-keep-its-role-as-the-worlds-film-capital/article_6f1dc5ce-f43a-11ef-b0b3-bf9f96fd5601.html>
+
+---
+
+## MIFICPA to host tax seminar on March 1
+
+date: 2025-02-26, updated: 2025-02-27, from: Marianas Variety
+
+(MIFICPA) — The Marianas Institute of Filipino CPAs and Accountants will hold its annual tax seminar this Saturday, March 1, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mificpa-to-host-tax-seminar-on-march-1/article_040179bc-f439-11ef-b0b9-578abfa2cd28.html>
+
+---
+
+## Stocks, dollar rise as House advances Trump's tax cut plans
+
+date: 2025-02-26, updated: 2025-02-27, from: Marianas Variety
+
+LONDON (Reuters) — Global shares rose on Wednesday after House Republicans advanced U.S. President Donald Trump's tax cut plans, which also supported the dollar and helped Treasury yields regain some lost ground. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/stocks-dollar-rise-as-house-advances-trumps-tax-cut-plans/article_855322aa-f438-11ef-b413-8ffc8f9979a1.html>
+
+---
+
+## MHS-Seisa cultural exchange fosters friendship and learning
+
+date: 2025-02-26, updated: 2025-02-27, from: Marianas Variety
+
+(PSS) — Stakeholder engagement was one of the highlights of the 39th Marianas High School-Seisa High School Cultural Exchange Program. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/mhs-seisa-cultural-exchange-fosters-friendship-and-learning/article_c27145ee-f439-11ef-b655-5b5242653434.html>
+
+---
+
+## Timothee Chalamet, Ariana Grande mingle at Oscar nominees dinner
+
+date: 2025-02-26, updated: 2025-02-27, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Timothee Chalamet, Ariana Grande, Demi Moore and other Oscar nominees celebrated on Tuesday at a film academy dinner that gave the contenders a chance to mingle before Sunday's red-carpet awards show. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/timothee-chalamet-ariana-grande-mingle-at-oscar-nominees-dinner/article_a9e30ece-f43c-11ef-898f-ff5dbcf87e7c.html>
+
+---
+
+## China roils the Pacific waters courtesy of Australia and New Zealand
 
 date: 2025-02-26, from: Pacific Island Times
 

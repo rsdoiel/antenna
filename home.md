@@ -1,11 +1,276 @@
 ---
 title: home
-updated: 2025-02-26 07:08:40
+updated: 2025-02-27 07:06:51
 ---
 
 # home
 
-(date: 2025-02-26 07:08:40)
+(date: 2025-02-27 07:06:51)
+
+---
+
+## My Wayfair Sofa Is Perfectly Fine—and That’s Good Enough for Me
+
+date: 2025-02-27, from: Dwell
+
+"I now know that sometimes you have to prioritize function over form." 
+
+<br> 
+
+<https://www.dwell.com/article/wayfair-sofa-review-joss-and-main-fleetwood-sofa-c5c46e29>
+
+---
+
+## 50 Types of Zinnias​ (With Pictures and Names)
+
+date: 2025-02-27, from: Yard Life blog
+
+<p>Zinnias are among the most vibrant and versatile flowers, offering a stunning array of colors, shapes, and sizes. With so ... </p>
+<p class="read-more-container"><a title="50 Types of Zinnias​ (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/50-types-of-zinnias-with-pictures-and-names/#more-24112" aria-label="Read more about 50 Types of Zinnias​ (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-types-of-zinnias-with-pictures-and-names/">50 Types of Zinnias​ (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-types-of-zinnias-with-pictures-and-names/>
+
+---
+
+## 34 Snakes in Ohio (With Pictures and Identification)
+
+date: 2025-02-27, from: Yard Life blog
+
+<p>Ohio is home to a diverse range of snake species, each with unique characteristics and adaptations. From non-venomous constrictors to ... </p>
+<p class="read-more-container"><a title="34 Snakes in Ohio (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/34-snakes-in-ohio-with-pictures-and-identification/#more-24098" aria-label="Read more about 34 Snakes in Ohio (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/34-snakes-in-ohio-with-pictures-and-identification/">34 Snakes in Ohio (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/34-snakes-in-ohio-with-pictures-and-identification/>
+
+---
+
+## 65 Florida Lizards (With Pictures and Identification)
+
+date: 2025-02-27, from: Yard Life blog
+
+<p>Florida is home to a diverse range of lizards, with 65 different species found across the state. From native species ... </p>
+<p class="read-more-container"><a title="65 Florida Lizards (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/65-florida-lizards-with-pictures-and-identification/#more-24087" aria-label="Read more about 65 Florida Lizards (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/65-florida-lizards-with-pictures-and-identification/">65 Florida Lizards (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/65-florida-lizards-with-pictures-and-identification/>
+
+---
+
+## Add Hygge Style to Your Home With These Simple Tips
+
+date: 2025-02-26, from: Family Handyman Blog
+
+<p>Learn about the Danish concept of 'hygge,' and how can you introduce it into your home. We've got several suggestions for you.Learn about the Danish concept of 'hygge,' and how can you introduce it into your home. We've got several suggestions for you.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/hygge-decor-tips/">Add Hygge Style to Your Home With These Simple Tips</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/hygge-decor-tips/>
+
+---
+
+## Food and Drink
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## A Metal Shell Keeps This Australian Retreat Cool—and Fire Safe
+
+date: 2025-02-26, from: Dwell
+
+Perched on poles, the home has a slatted Cor-Ten exterior that lets air flow around and through an inner timber structure. 
+
+<br> 
+
+<https://www.dwell.com/article/sawmill-treehouse-robbie-walker-fire-safe-home-forest-retreat-7dc6a847>
+
+---
+
+## The Essential Gear You Need if You Want to Start Birding
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+The meditative act of birdwatching reduces stress. This is the birding and birdwatching gear that you need to get started. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/birding-birdwatching-gear>
+
+---
+
+## Liquid vs. Powder Detergent: Which Is Better?
+
+date: 2025-02-26, from: Family Handyman Blog
+
+<p>Pondering whether to pod, pour or powder? Whether for laundry of dishes, here's how to choose which kind of detergent is best.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/liquid-vs-powder-detergent-which-is-better/">Liquid vs. Powder Detergent: Which Is Better?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/liquid-vs-powder-detergent-which-is-better/>
+
+---
+
+## Standard Closet Sizes: A Complete Breakdown
+
+date: 2025-02-26, from: Family Handyman Blog
+
+<p>Whether you're planning a bedroom, pantry, bathroom or coat closet, here's how to figure out what size it should be.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/average-closet-depth/">Standard Closet Sizes: A Complete Breakdown</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/average-closet-depth/>
+
+---
+
+## This Tranquil Whidbey Island Cabin Is an "Essay in Wood"
+
+date: 2025-02-26, from: Dwell
+
+"We wanted a place that would wind down the senses and naturally allow you to go within," says homeowner Lakshmi Nidamarthi of the meditative home. 
+
+<br> 
+
+<https://www.dwell.com/article/whidbey-uparati-island-cabin-wittman-estes-san-juan-islands-58108fbd>
+
+---
+
+## How to Make DIY Seed Starting Mix: The Best Recipe
+
+date: 2025-02-26, from: Homestead and Chil
+
+<p>Come learn how to make DIY seed starting mix! It's easy to do, saves money, and gives you control over the quality of ingredients used. Follow our homemade seed starting mix recipe and tips for the best results possible!</p>
+<p>The post <a href="https://homesteadandchill.com/diy-seed-starting-mix-recipe/">How to Make DIY Seed Starting Mix: The Best Recipe</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/diy-seed-starting-mix-recipe/>
+
+---
+
+## Costco Is Opening 9 New Stores in 2025—and 2 of Them are in California
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+Costco announced nine new stores this year, with two in California: Brentwood in the Bay Area and Highland in San Bernardino County. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/costco-new-store-openings-2025>
+
+---
+
+## This $750K Pacific Northwest Midcentury Has Decks for Days
+
+date: 2025-02-26, from: Dwell
+
+The pristine 1966 home opens to its wooded site with a series of patios, balconies, and outdoor entertaining areas. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-willis-schellberg-tacoma-washington-real-estate-cda5907f>
+
+---
+
+## Kia Recalls Nearly 140,000 Cars Over Dangerous Engine Defect
+
+date: 2025-02-26, from: Family Handyman Blog
+
+<p>There's a new auto recall affecting nearly 140,000 vehicles. The impacted Kia cars have a dangerous engine defect. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/kia-selto-soul-engine-recall/">Kia Recalls Nearly 140,000 Cars Over Dangerous Engine Defect</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/kia-selto-soul-engine-recall/>
+
+---
+
+## Amazon Just Got Rid of a Popular Prime Perk
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+Amazon just got rid of one of its Prime perks. Say goodbye to the Try Before You Buy feature, which is no longer available thanks to AI features. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/amazon-try-before-you-buy>
+
+---
+
+## You’ve Been Using Your Laundry Basket Wrong This Whole Time
+
+date: 2025-02-26, from: Family Handyman Blog
+
+<p>Unloading your dryer doesn't have to be nearly as tedious as it's been your whole life. This laundry hack is going to blow your mind.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/unload-dryer-laundry-basket-hack/">You&#8217;ve Been Using Your Laundry Basket Wrong This Whole Time</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/unload-dryer-laundry-basket-hack/>
+
+---
+
+## Watch Out For These Invasive Insect Species In 2025
+
+date: 2025-02-26, from: Family Handyman Blog
+
+<p>From prolific ticks to ferocious flora, here are 10 species coming our way in 2025, plus how to keep them out of our homes.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/invasive-insect-species-in-2025/">Watch Out For These Invasive Insect Species In 2025</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/invasive-insect-species-in-2025/>
+
+---
+
+## Solo Vacations Are Spring’s Biggest Travel Trend—Here’s Why
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+Airbnb just released their 2025 spring travel trends report and solo travel top the list. More people are searching for solo opportunities right now. 
+
+<br> 
+
+<https://www.sunset.com/travel/solo-travel-trend>
+
+---
+
+## How to Plant and Grow Patty Pan (Scallop) Squash
+
+date: 2025-02-26, from: The Gardener's Path
+
+<p>If you love summer squash why not add some interest to your patch (and plate) with delightful looking and delicious patty pan? These scallop-shaped squash grow on compact bush plants rather than vines, taking up little room in the garden. Learn how to plant and grow patty pan squash in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-patty-pan-squash/">How to Plant and Grow Patty Pan (Scallop) Squash</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-patty-pan-squash/>
 
 ---
 
@@ -47,6 +312,42 @@ When the house architect Lorcan O’Herlihy originally built for his parents bur
 <br> 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-retrofitting-a-home-against-wildfire-9b0463f6>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## I Tried a Traditional Temazcal Sweat Lodge. Here’s How It Went.
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+The traditional experience, which we did at Naviva, a Four Seasons Resort in Nayarit, is every bit as healing as it's purported to be. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/wellness/temazcal-sweat-lodge-experience>
+
+---
+
+## This 1950s Retreat Started the Luxury Spa Trend—and It Still Delivers Today
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+The Golden Door is cultivating a healthy food-focused wellness program and a kitchen garden that showcases the very best in California produce. 
+
+<br> 
+
+<https://www.sunset.com/travel/golden-door-spa-wellness-program>
 
 ---
 
@@ -163,18 +464,6 @@ date: 2025-02-25, from: Family Handyman Blog
 
 ---
 
-## Solo Vacations Are Spring’s Biggest Travel Trend—Here’s Why
-
-date: 2025-02-25, from: Sunset Magazine - Living in the West
-
-Airbnb just released their 2025 spring travel trends report and solo travel top the list. More people are searching for solo opportunities right now. 
-
-<br> 
-
-<https://www.sunset.com/travel/solo-travel-trend>
-
----
-
 ## A World of Color Awaits in This Revamped Marrakech Riad Seeking €505K
 
 date: 2025-02-25, from: Dwell
@@ -239,18 +528,6 @@ date: 2025-02-25, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/purple-coneflower-care-and-growing-guide-most-detailed/>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-02-25, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -375,6 +652,18 @@ date: 2025-02-24, from: Family Handyman Blog
 
 ---
 
+## The Guest Unit at This Refreshed Majorca Home Has a "Chiringuito"
+
+date: 2025-02-24, from: Dwell
+
+The kitchen’s service window opens onto the home’s courtyard, operating like small beach bars found around the island. 
+
+<br> 
+
+<https://www.dwell.com/article/the-guest-unit-at-this-refreshed-majorca-home-has-a-chiringuito-d9397e88>
+
+---
+
 ## CDFA Secretary Karen Ross invites you to Ag Day on March 19, 2025!
 
 date: 2025-02-24, from: Calfifornia Dept. Aggriculture blog
@@ -399,7 +688,7 @@ The Brooklyn home now relishes in a range of blues, greens, and orangey-reds, wi
 
 ---
 
-## In Kyoto, a Revamped  Townhouse Clad in Charred Cedar Seeks $370K
+## In Kyoto, a Revamped Townhouse Clad in Charred Cedar Seeks $370K
 
 date: 2025-02-24, from: Dwell
 

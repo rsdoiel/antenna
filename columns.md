@@ -1,11 +1,411 @@
 ---
 title: columns
-updated: 2025-02-26 07:08:38
+updated: 2025-02-27 07:06:48
 ---
 
 # columns
 
-(date: 2025-02-26 07:08:38)
+(date: 2025-02-27 07:06:48)
+
+---
+
+##  The MacArthur Foundation will increase its giving over the next two years... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046329-the-macarthur-foundation->
+
+---
+
+##  The United States has fallen to a score of 65 (on a... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046326-the-united-states-has-fal>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-27, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2019/09/14/rssCoffeeCup.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm also interested in social networks and <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> and have <a href="https://daytona.scripting.com/search?q=wordland">written</a> a lot about that in the context of WordLand, because it generates RSS, it can connect to any app that understands RSS, basically because WordPress does. But don't get confused that WordLand is somehow a twitter-like silo. There are already too many of those. I want something much simpler and I believe more useful and less spammy and abusive -- <i>a social network built around RSS.</i> 
+
+<br> 
+
+<http://scripting.com/2025/02/27.html#a135116>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-27, from: Dave Winer's Scripting News)
+
+<a href="https://wordland.social/">WordLand</a> is simply an editor for writers who publish to WordPress. 
+
+<br> 
+
+<http://scripting.com/2025/02/27.html#a133843>
+
+---
+
+##  Legendary actor Gene Hackman has died at the age of 95. Hackman,... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046328-legendary-actor-gene-hack>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-27, from: Miguel de Icaza Mastondon feed)
+
+<p>You outie localises his apps</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114076056333745501>
+
+---
+
+## Dear Student: Yes, AI is here, you're screwed unless you take action...
+
+date: 2025-02-27, from: Geoffrey Hunntley's blog
+
+<p>Two weeks ago a student <a href="https://ghuntley.com/im-a-student/">anonymously emailed me</a> asking for advice. This is the reply and if I was in your shoes this is what I&apos;d do.</p><blockquote>So, I read your blog post &quot;<a href="https://ghuntley.com/oh-fuck/" rel="noreferrer">An oh f*** moment in time</a>&quot; alongside &quot;<a href="https://ghuntley.com/dothings/" rel="noreferrer">The future belongs to idea</a></blockquote> 
+
+<br> 
+
+<https://ghuntley.com/screwed/>
+
+---
+
+## February 26, 2025 
+
+date: 2025-02-27, from: Heather Cox Richardson blog
+
+This morning, Office of Management and Budget director Russell Vought and Office of Personnel Management acting director Charles Ezell sent a memo to the heads of departments and agencies. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-26-2025>
+
+---
+
+## Musk’s lies, lies, and more lies
+
+date: 2025-02-27, from: Robert Reich's blog
+
+He&#8217;s lying about what we did in the Clinton administration, lying when he says public servants are our enemies, and lying that beneficiaries of public programs are parasites. 
+
+<br> 
+
+<https://robertreich.substack.com/p/musks-rubbish>
+
+---
+
+## ★ The iPhone 16e
+
+date: 2025-02-27, updated: 2025-02-27, from: Daring Fireball
+
+The iPhone 16e is an iPhone for people who don’t want to think much about their phone. But they *do* want an iPhone, not just any “whatever” phone. A just plain iPhone, with a good screen, good enough (and simple) camera, and great battery life. 
+
+<br> 
+
+<https://daringfireball.net/2025/02/the_iphone_16e>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-27, from: Miguel de Icaza Mastondon feed)
+
+<p>These are the word coming out of me after finishing that cheap Nebbiolo bottle I opened the other day.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114073182357226735>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-27, from: Miguel de Icaza Mastondon feed)
+
+<p>Here is the thing, we made it so that you can share your games directly to wasm or our runtime - and it really works better with the native app, as you get the emulated controllers for most games (so it becomes trivial to add mobile support).</p><p>So the iPhone makes a lot of sense, but might delay my grand plans to move on to the next wave of Godot tasks.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114073159614794448>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-27, from: Miguel de Icaza Mastondon feed)
+
+<p>In my defense, once you get into the groove of SwiftUI, it is hard to exercise self control.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114073113146585520>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-27, from: Miguel de Icaza Mastondon feed)
+
+<p>Keep in mind, I thought godot on iPad was going to be a six month effort - 15 or so months ago</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114073101561210592>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-27, from: Miguel de Icaza Mastondon feed)
+
+<p>Right now Godot for iPad is limited to the iPad.  I don’t want to publish to the iPhone because while it works, it has lots of usability problems.</p><p>But it is a phenomenal Godot game runtime.  It would take me some two maybe three months to tune the UI for iPhone.</p><p>And I struggle between doing that or shipping iPad-only to start.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114073096677705327>
+
+---
+
+##  A Son Tries to Rescue His Dad From Conspiracy Theories 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/a-son-tries-to-rescue-his-dad-from-conspiracy-theories>
+
+---
+
+## Washington Post: ‘Biden Justice Department Downplayed U.K. Demand for Apple “Back Door”’
+
+date: 2025-02-27, updated: 2025-02-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.washingtonpost.com/technology/2025/02/26/intelligence-chief-tulsi-gabbard-will-fight-egregious-apple-back-door-order/>
+
+---
+
+##  Pedro Pascal responding to transphobia on social media: &#8220;I can&#8217;t think of... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046323-pedro-pascal-responding-t>
+
+---
+
+## Director of National Intelligence Tulsi Gabbard Suggests UK Broke Agreement in Secretly Demanding That Apple Build iCloud Backdoor
+
+date: 2025-02-26, updated: 2025-02-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/02/26/director-of-national-intelligence-tulsi-gabbard-suggests-uk-broke-agreement-in-secretly-asking-apple-to-build-icloud-backdoor/>
+
+---
+
+##  Eyes on the Prize III: We Who Believe in Freedom Cannot Rest 1977-2015 
+
+date: 2025-02-26, updated: 2025-02-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/eyes-on-the-prize-iii>
+
+---
+
+## Downie 4
+
+date: 2025-02-26, updated: 2025-02-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://software.charliemonroe.net/downie/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-26, from: Miguel de Icaza Mastondon feed)
+
+<p>My trusty toothbrush finally broke.  It served me for almost 12 years:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114072563283113769>
+
+---
+
+##  Jeff Bezos declares opinions questioning &#8220;free markets&#8221; no longer welcome at The... 
+
+date: 2025-02-26, updated: 2025-02-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046322-jeff-bezos-declares-opini>
+
+---
+
+## Charlie Monroe: ‘A Few Words About Indie App Business’
+
+date: 2025-02-26, updated: 2025-02-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.charliemonroe.net/a-few-words-about-indie-app-business/>
+
+---
+
+##  A long but very interesting thread about how Trump & Russell Vought... 
+
+date: 2025-02-26, updated: 2025-02-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046320-a-long-but-very-interesti>
+
+---
+
+##  Plan To Be More Positive Off To Shitty Fucking Start. &#8220;Well, I&#8217;m... 
+
+date: 2025-02-26, updated: 2025-02-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046319-plan-to-be-more-positive>
+
+---
+
+## February 25, 2025
+
+date: 2025-02-26, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157990208/7b5ff3279f835a9d9593aacc9150bff9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157990208/7b5ff3279f835a9d9593aacc9150bff9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-25-2025-bae>
+
+---
+
+##  An unvaccinated child has died in the Texas measles outbreak. And before... 
+
+date: 2025-02-26, updated: 2025-02-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046318-washington-woman-is-first>
+
+---
+
+## Project MINI RACK - what have we started??
+
+date: 2025-02-26, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Project MINI RACK - what have we started??</span>
+
+            <p>Today I set up a new DeskPi RackMate 12U model, the T2, and compared it to the other existing models (T0 / 4U and T1 / 8U)... and I have to ask: at what point are these racks not 'mini' anymore?</p>
+
+<p></p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 26, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/project-mini-rack-what-have-we-started>
+
+---
+
+## xAI’s Grok-3 Jumps to the Top of AI Leaderboards
+
+date: 2025-02-26, updated: 2025-02-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/command-line-newsletter/617780/grok-3-elon-musk-ai-race-chatgpt>
+
+---
+
+## iOS Voice Dictation Bug (?) Briefly Flashes the Word ‘Trump’ When You Say ‘Racist’
+
+date: 2025-02-26, updated: 2025-02-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/619434/apple-fixing-voice-transcription-bug-trump-racist>
+
+---
+
+## It’s the oligarchy, stupid. 
+
+date: 2025-02-26, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/its-the-oligarchy-stupid>
+
+---
+
+## Jony Ive on ‘Desert Island Discs’
+
+date: 2025-02-26, updated: 2025-02-27, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bbc.co.uk/sounds/play/m00289vf>
+
+---
+
+## Apple Shareholders Resoundingly Reject Proposal to Ditch the Company’s ‘Inclusion and Diversity’ Policies; Trump Responds With His Usual Equanimity
+
+date: 2025-02-26, updated: 2025-02-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/02/26/trump-on-apple-diversity-policies/>
 
 ---
 
@@ -34,7 +434,7 @@ date: 2025-02-26, updated: 2025-02-26, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-02-26, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/08/13/trafficUptight.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">People give <a href="https://en.wikipedia.org/wiki/Matt_Mullenweg">Matt Mullenweg</a> a lot of shit, but do they realize how hopeless the open web would be if he and his friends hadn’t kept it going for 20+ years. I wrote the other day that I feel like a <a href="http://scripting.com/2025/02/24/153052.html#a153833">time traveler</a>, discovering WordPress 20 years after I left UserLand. I care that it's open source, but I care much more that it's open web esp after we've been so thoroughly dominated by feature-limited silos such as Twitter, Facebook and yes -- even Mastodon and Bluesky. Even if there's a theoretical way to do it, practically speaking we have to wait for their developers to implement the features we want. Open source doesn't help there, but open web does. Matt puts the emphasis on the open source part, that's why it wasn't until very recently that I realized that <i>open web</i> is more important, to me at least. 
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/08/13/trafficUptight.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">People give <a href="https://en.wikipedia.org/wiki/Matt_Mullenweg">Matt Mullenweg</a> a lot of grief, but do they realize how hopeless the open web would be if he and his friends hadn’t kept it going for 20+ years. I wrote the other day that I feel like a <a href="http://scripting.com/2025/02/24/153052.html#a153833">time traveler</a>, discovering WordPress 20 years after I left UserLand. I care that it's open source, but I care much more that it's open web esp after we've been so thoroughly dominated by feature-limited silos such as Twitter, Facebook and yes -- even Mastodon and Bluesky. Even if there's a theoretical way to do it, practically speaking we have to wait for their developers to implement the features we want. Open source doesn't help there, but open web does. Matt puts the emphasis on the open source part, that's why it wasn't until very recently that I realized that <i>open web</i> is more important, to me at least. 
 
 <br> 
 

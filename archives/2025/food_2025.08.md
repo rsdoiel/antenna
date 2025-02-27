@@ -1,11 +1,223 @@
 ---
 title: food
-updated: 2025-02-26 07:08:42
+updated: 2025-02-27 07:06:53
 ---
 
 # food
 
-(date: 2025-02-26 07:08:42)
+(date: 2025-02-27 07:06:53)
+
+---
+
+## Slow Pour Supply Hosting Origami Cup USA Ahead of SCA Expo in Houston
+
+date: 2025-02-27, from: Daily Coffee News
+
+<div><img width="620" height="382" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Origami-Cup-USA-2025-1-620x382.png" class="attachment-large size-large wp-post-image" alt="Origami Cup USA 2025" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Origami-Cup-USA-2025-1-620x382.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Origami-Cup-USA-2025-1-300x185.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Origami-Cup-USA-2025-1-150x92.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Origami-Cup-USA-2025-1-768x473.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Origami-Cup-USA-2025-1.png 1064w" sizes="(max-width: 620px) 100vw, 620px" /></div>Houston-based manual coffee equipment seller Slow Pour Supply is holding the first ever United States version of its pourover brewing competition, the Origami Cup. Taking place Tuesday, April 22, three... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/27/slow-pour-supply-hosting-origami-cup-usa-ahead-of-sca-expo-in-houston/>
+
+---
+
+## In Cleveland, Peristyle Coffee Wants to Be a Pillar of Quality
+
+date: 2025-02-27, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Peristyle-Coffee-Roasters-Cleveland-3-620x414.jpeg" class="attachment-large size-large wp-post-image" alt="Peristyle Coffee Roasters Cleveland 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Peristyle-Coffee-Roasters-Cleveland-3-620x414.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Peristyle-Coffee-Roasters-Cleveland-3-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Peristyle-Coffee-Roasters-Cleveland-3-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Peristyle-Coffee-Roasters-Cleveland-3-768x513.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Peristyle-Coffee-Roasters-Cleveland-3.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Charlie Eisenstat, a towering figure in the fertile Cleveland specialty coffee scene, is the architect of a new roasting company called Peristyle Coffee. After launching initially with wholesale accounts, the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/27/in-cleveland-peristyle-coffee-wants-to-be-a-pillar-of-quality/>
+
+---
+
+## Creamy Cajun Chicken
+
+date: 2025-02-27, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/02/Creamy-Cajun-Chicken-1200-3480.jpg"/></div>
+<p>Chicken in cajun style creamy alfredo sauce! Quick and easy skillet chicken dishes are among my favourites and this cajun style chicken is a tasty option! The beauty a skillet chicken dish is that you cook the chicken in the pan before adding a liquid, such as wine or broth, and scraping up any brown...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/creamy-cajun-chicken/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/creamy-cajun-chicken/">Creamy Cajun Chicken</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/creamy-cajun-chicken/>
+
+---
+
+## This Is What to Do with Your Crystallized Honey
+
+date: 2025-02-27, from: Taste of Home
+
+<p>If your honey goes grainy, don't ditch it! Turn it into airy, sweet, spreadable whipped honey.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-to-do-with-crystallized-honey/">This Is What to Do with Your Crystallized Honey</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-to-do-with-crystallized-honey/>
+
+---
+
+## Here’s Exactly What A-List Celebs Will Eat at the Oscars After-Party
+
+date: 2025-02-26, from: Taste of Home
+
+<p>From "bougie tots" to over-the-top desserts, here’s an inside look at the Oscars after-party menu.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/oscars-after-party-menu/">Here’s Exactly What A-List Celebs Will Eat at the Oscars After-Party</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/oscars-after-party-menu/>
+
+---
+
+## Chefs Are Falling Back in Love With Steaming. You Should Too
+
+date: 2025-02-26, from: Bon Appetet
+
+Get started with the tenderest fish, elegant cabbage rolls, and more. 
+
+<br> 
+
+<https://www.bonappetit.com/story/steaming-popularity-restaurants>
+
+---
+
+## Ringo Starr Won’t Touch This Super Popular Food, But Everyone Else Loves It
+
+date: 2025-02-26, from: Taste of Home
+
+<p>This fact absolutely shocked me.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ringo-starr-has-never-eaten-pizza/">Ringo Starr Won’t Touch This Super Popular Food, But Everyone Else Loves It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ringo-starr-has-never-eaten-pizza/>
+
+---
+
+## This 6 Cent Egg Replacement Is All I Use for Baking—and I’ll Never Go Back
+
+date: 2025-02-26, from: Taste of Home
+
+<p>It's a cheap, shelf-stable and endlessly useful egg substitute.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cheap-egg-replacement-for-baking/">This 6 Cent Egg Replacement Is All I Use for Baking—and I&#8217;ll Never Go Back</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cheap-egg-replacement-for-baking/>
+
+---
+
+## The Best Dinnerware Sets, Tested and Reviewed
+
+date: 2025-02-26, from: Bon Appetet
+
+It might be time to break up with those plates you've had forever. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-dinnerware-sets>
+
+---
+
+## This $1 Egg McMuffin Deal Is the Cheapest Breakfast You’ll Find Right Now
+
+date: 2025-02-26, from: Taste of Home
+
+<p>The Egg McMuffin will be cheaper than a cup of coffee. I'm lovin' it!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/one-dollar-egg-mcmuffin/">This $1 Egg McMuffin Deal Is the Cheapest Breakfast You’ll Find Right Now</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/one-dollar-egg-mcmuffin/>
+
+---
+
+## We Tried 6 Minty St. Patrick’s Day Shakes—Here’s the Best One
+
+date: 2025-02-26, from: Taste of Home
+
+<p>We went through all the drive-thrus to see if the Shamrock Shake reigns supreme.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/minty-st-patricks-day-shakes/">We Tried 6 Minty St. Patrick’s Day Shakes—Here’s the Best One</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/minty-st-patricks-day-shakes/>
+
+---
+
+## Joanna Gaines Eats the Same Post-Baby Meal Every Time—Here’s Why
+
+date: 2025-02-26, from: Taste of Home
+
+<p>Joanna Gaines swears by this dish as her go-to meal after giving birth to each of her five children.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/joanna-gaines-post-baby-meal/">Joanna Gaines Eats the Same Post-Baby Meal Every Time—Here&#8217;s Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/joanna-gaines-post-baby-meal/>
+
+---
+
+## Devil’s Food Cake
+
+date: 2025-02-26, from: Taste of Home
+
+Devil’s food cake is indulgent from the first forkful to the very last crumb. Anyone with an unwavering weakness for chocolate will love this recipe’s decadently dark cake that’s decorated with rich chocolate buttercream. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/devils-food-cake/>
+
+---
+
+## This Is What the Knob Color on Your Le Creuset Means
+
+date: 2025-02-26, from: Taste of Home
+
+<p>When cooking with Le Creuset cookware, you should know how oven-safe the lid is.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/le-creuset-knob-color/">This Is What the Knob Color on Your Le Creuset Means</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/le-creuset-knob-color/>
+
+---
+
+## ‘Performance’ Drink Maker Slate and RTD Beverage Maker Horseshoe Embroiled in Lawsuit
+
+date: 2025-02-26, from: Daily Coffee News
+
+<div><img width="620" height="469" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Single-unmarked-can-1-620x469.jpg" class="attachment-large size-large wp-post-image" alt="Single unmarked can" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Single-unmarked-can-1-620x469.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Single-unmarked-can-1-300x227.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Single-unmarked-can-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Single-unmarked-can-1-768x581.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Single-unmarked-can-1.jpg 1024w" sizes="(max-width: 620px) 100vw, 620px" /></div>Canned protein shake and latte drink seller Slate has filed a lawsuit accusing private-label ready-to-drink beverage producer Horseshoe Beverage Co.&#160;of stealing confidential and proprietary information.&#160; Horseshoe, meanwhile, has accused Slate... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/26/performance-drink-maker-slate-and-rtd-beverage-maker-horseshoe-embroiled-in-lawsuit/>
+
+---
+
+## Design Details: A Soaring Glass Dragon at The Duo in Queens
+
+date: 2025-02-26, from: Daily Coffee News
+
+<div><img width="620" height="349" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Duo-cafe-bar-Queens-4-620x349.png" class="attachment-large size-large wp-post-image" alt="The Duo cafe bar Queens 4" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Duo-cafe-bar-Queens-4-620x349.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Duo-cafe-bar-Queens-4-300x169.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Duo-cafe-bar-Queens-4-150x84.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Duo-cafe-bar-Queens-4-768x432.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/The-Duo-cafe-bar-Queens-4.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/02/26/design-details-a-soaring-glass-dragon-at-the-duo-in-queens/>
 
 ---
 
@@ -25,7 +237,7 @@ date: 2025-02-26, from: The Sprudge
 
 date: 2025-02-26, from: Daily Coffee News
 
-<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-620x419.jpg" class="attachment-large size-large wp-post-image" alt="Common Good Coffee listening room Dallas" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-768x519.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas.jpg 909w" sizes="(max-width: 620px) 100vw, 620px" /></div>Grooves, brews and soothing shampoos are swirling under a shared roof in Dallas with the opening of the Common Good cafe, listening room and salon. The Old East Dallas shop... 
+<div><img width="620" height="419" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-620x419.jpg" class="attachment-large size-large wp-post-image" alt="Common Good Coffee listening room Dallas" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-620x419.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas-768x519.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Common-Good-Coffee-listening-room-Dallas.jpg 909w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Grooves, brews and soothing shampoos are swirling under a shared roof in Dallas with the opening of the Common Good cafe, listening room and salon. The Old East Dallas shop... 
 
 <br> 
 
@@ -60,6 +272,18 @@ date: 2025-02-26, from: Isebel Eats
 <br> 
 
 <https://www.isabeleats.com/chicken-enchilada-skillet/>
+
+---
+
+## Pancake in a Mug
+
+date: 2025-02-26, from: Taste of Home
+
+Who needs a pan? This single-serve pancake in a mug is ready in just minutes—all you need is a microwave and a few ingredients that you probably already have at home. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/pancake-in-a-mug/>
 
 ---
 
@@ -171,7 +395,7 @@ date: 2025-02-25, from: The Sprudge
 
 date: 2025-02-25, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-620x414.jpg" class="attachment-large size-large wp-post-image" alt="unsplash coffee value" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Coffee Science Foundation (CSF) is partnering with Ohio State University for a research project exploring how coffee consumers perceive value. According to the CSF, a research-focused arm of the... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-620x414.jpg" class="attachment-large size-large wp-post-image" alt="unsplash coffee value" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/unsplash-coffee-value.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Coffee Science Foundation (CSF) is partnering with Ohio State University for a research project exploring how coffee consumers perceive value. According to the CSF, a research-focused arm of the... 
 
 <br> 
 
@@ -195,7 +419,7 @@ Steel-cut oats make a filling and nutritious breakfast, and this stovetop recipe
 
 date: 2025-02-25, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Masterpiece Coffee Berkeley Young Sun" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new company called Masterpiece Coffee is serving Asian-inspired coffee drinks at a new coffee kiosk in Berkeley, California, focusing on specialty coffee produced in Yunnan, China. Masterpiece Coffee Founder... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Masterpiece Coffee Berkeley Young Sun" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Masterpiece-Coffee-Berkeley-Young-Sun.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new company called Masterpiece Coffee is serving Asian-inspired coffee drinks at a new coffee kiosk in Berkeley, California, focusing on specialty coffee produced in Yunnan, China. Masterpiece Coffee Founder... 
 
 <br> 
 
@@ -238,6 +462,18 @@ date: 2025-02-25, from: Taste of Home
 <br> 
 
 <https://www.tasteofhome.com/article/netflix-restaurant-menu/>
+
+---
+
+## Blueberry Gin and Tonic
+
+date: 2025-02-24, from: Taste of Home
+
+This blueberry gin and tonic recipe is a fruit-forward twist on a perennial summertime favorite cocktail. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/blueberry-gin-and-tonic/>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-02-26 07:08:40
+updated: 2025-02-27 07:06:50
 ---
 
 # libraries
 
-(date: 2025-02-26 07:08:40)
+(date: 2025-02-27 07:06:50)
 
 ---
 
@@ -19,6 +19,32 @@ Burkhardt, Fabian; Orttung, Robert; Perović, Jeronim; Pleines, Heiko; Schröder
 <br> 
 
 <http://hdl.handle.net/20.500.11850/724501>
+
+---
+
+## Creating the Publishing Platforms that Next-Gen Professionals Expect
+
+date: 2025-02-27, from: Scholarly Kitchen
+
+<p>Will the next generation of professions be impressed with the content platforms and workflow tools we currently have? Angela Cochran imagines a world where we meet the challenge of modernized systems. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/02/27/creating-the-publishing-platforms-that-next-gen-professionals-expect/">Creating the Publishing Platforms that Next-Gen Professionals Expect</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/02/27/creating-the-publishing-platforms-that-next-gen-professionals-expect/>
+
+---
+
+## Internet Archive Submits Comments in UK’s Open Consultation on AI and Copyright
+
+date: 2025-02-26, from: Internet Archive Blog
+
+Yesterday, every major newspaper in the UK had the exact same headline, demanding the government “Make It Fair” by ensuring that the country’s copyright laws make it impossible, or at [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/02/26/internet-archive-submits-comments-in-uks-open-consultation-on-ai-and-copyright/>
 
 ---
 
@@ -66,7 +92,7 @@ A young woman with a miserly father falls in love with her cousin.
 
 date: 2025-02-24, from: Association of Research Libraries News
 
-<p>Last Updated on February 25, 2025, 1:43 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 25 &#124; Wednesday, February 26 &#124; Thursday,...</p>
+<p>Last Updated on February 26, 2025, 3:58 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, February 25 &#124; Wednesday, February 26 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-february-24-27/">Day in Review (February 24–27)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

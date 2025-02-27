@@ -1,11 +1,25 @@
 ---
 title: craft
-updated: 2025-02-26 07:08:42
+updated: 2025-02-27 07:06:53
 ---
 
 # craft
 
-(date: 2025-02-26 07:08:42)
+(date: 2025-02-27 07:06:53)
+
+---
+
+## 99. Maegen Wells
+
+date: 2025-02-25, from: Luthier on Luthier with Michael Bashkin
+
+<p>Maegan Wells is known for her beautifully crafted archtop guitars and mandolins made in her one-person shop in Northern California.</p> <p>For episode 99 of the podcast, Meagan shares her guitar-making journey, starting with attending Bryan Galloup's Galloup School of Guitar Making and Guitar Repair, followed by apprenticeships, side jobs, and a stint at LMI. Meagan also discusses her views on smaller archtop guitars, contrasting sides, and much more. She also reveals a new project on the horizon!  </p> <p><a href= "http://www.maegenwellsguitars.com/mwg">http://www.maegenwellsguitars.com/mwg</a></p> <p>Luthier on Luthier is hosted by Michael Bashkin of <a href= "https://www.bashkinguitars.com">Bashkin Guitars</a> and brought to you by the <a href= "https://shop.fretboardjournal.com/products/fretboard-journal-annual-subscription"> Fretboard Journal</a>. This episode is sponsored by <a href= "https://www.dreamguitars.com/">Dream Guitars</a> and <a href= "https://www.stewmac.com/?irclickid=VA-TmuXZ%3AxyPUn0Ut-05ZTupUkHUPAzGE2bmy00&utm_source=3755630&utm_medium=Impact&utm_campaign=3755630&utm_content=Online%20Tracking%20Link_1303370&irgwc=1&partner=Fretboard%20Journal&mpid=3755630&group="> StewMac</a>.</p> <p>Want to support Luthier on Luthier? <a href= "https://www.patreon.com/luthieronluthier">Join our Patreon</a> to get access to exclusive photos and content from Michael and his builds.</p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://traffic.libsyn.com/secure/luthieronluthier/LOL99.mp3?dest-id=480616"></source>
+</audio> <a href="https://traffic.libsyn.com/secure/luthieronluthier/LOL99.mp3?dest-id=480616" target="_blank">download audio/mpeg</a><br> 
+
+<https://luthieronluthier.libsyn.com/99-maegen-wells>
 
 ---
 

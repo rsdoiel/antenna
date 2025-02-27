@@ -1,11 +1,61 @@
 ---
 title: health
-updated: 2025-02-26 07:08:41
+updated: 2025-02-27 07:06:52
 ---
 
 # health
 
-(date: 2025-02-26 07:08:41)
+(date: 2025-02-27 07:06:52)
+
+---
+
+## Antimicrobial and cytotoxic activities of natural (Z)-13-docosenamide derived from Penicillium chrysogenum
+
+date: 2025-02-27, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe synthesis of natural compounds with strong biological activity from affordable sources has proven challenging for scientists. As a natural resource rich in a variety of bioactive substances, fungal metabolites have the potential to be used in medical applications to serve a global purpose towards a sustainable future.MethodsA total of 25 filamentous fungi were isolated, and their secondary metabolites were assessed for their antimicrobial efficiency. ResultsThe extracellular extract of the strain Penicillium chrysogenum Pc was selected for its high bioactivity compared with the other whole isolates. The GC-MS analysis of the extracellular extract of P. chrysogenum Pc was found to contain approximately 16 variable compounds. After several separation and purification processes using flash chromatography, HPLC, TLC, NMR, and FTIR, the most bioactive compound was identified as (Z)-13-docosenamide or erucylamide with a molecular formula of C22H43NO and a molecular weight of 337.0. The purified (Z)-13-docosenamide possessed antimicrobial activity with an MIC of approximately 10 μg/mL for the tested pathogenic bacteria (Bacillus subtilis, Staphylococcus aureus, Klebsiella pneumoniae, and Escherichia coli), and 20 μg/mL against the tested fungi (Penicillium aurantiogriseum and Aspergillus fumigatus). Furthermore, MTT assay showed that (Z)-13-docosenamide inhibited cellviability and the proliferation of hepatocellular carcinoma, in vitro, with an IC {sb}{/sb}50 of 23.8 ± 0.8 μg/mL.ConclusionThe remarkable bioactivity of (Z)-13- docosenamide makes it a potential candidate to assist the pipeline for the creation of antibacterial and anticancer drugs, which will help to reduce the incidence of antimicrobial resistance (AMR) and fatalities related to cancer. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1529104>
+
+---
+
+## In-depth genome and comparative genome analysis of a metal-resistant environmental isolate Pseudomonas aeruginosa S-8
+
+date: 2025-02-27, from: Frontiers in Cellular and Infection Microbiology
+
+The present study aimed to identify the mechanisms underlying the survival of an environmental bacterium originally isolated from the waste-contaminated soil of Jhiri, Ranchi, India. Based on 16S rRNA, ANI (average nucleotide identity), and BLAST Ring Image Generator (BRIG) analysis, the isolated strain was identified as Pseudomonas aeruginosa. The present study extends the characterization of this bacterium through genomic and comparative genomic analysis to understand the genomic features pertaining to survival in stressed environments. The sequencing of the bacterium at Illumina HiSeq platform revealed that it possessed a 6.8 Mb circular chromosome with 65.9% GC content and 63 RNAs sequence. The genome also harbored several genes associated to plant growth promotion i.e. phytohormone and siderophore production, phosphate solubilization, motility, and biofilm formation, etc. The genomic analysis with online tools unraveled the various genes belonging to the bacterial secretion system, antibiotic resistance, virulence, and efflux pumps, etc. The presence of biosynthetic gene clusters (BCGs) indicated that large numbers of genes were associated to non-ribosomal synthesized peptide synthetase, polyketide synthetase, and other secondary metabolite production. Additionally, its genomes encode various CAZymes such as glycoside hydrolases and other genes associated with lignocellulose breakdown, suggesting that strain S-8 have strong biomass degradation potential. Furthermore, pan-genome analysis based on a comparison of whole genomes showed that core genome represented the largest part of the gene pools. Therefore, genome and comparative genome analysis of Pseudomonas strains is valuable for understanding the mechanism of resistance to metal stress, genome evolution, HGT events, and therefore, opens a new perspective to exploit a newly isolated bacterium for biotechnological applications. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1511507>
+
+---
+
+## Age-specific kinetics of neutralizing antibodies and infection enhancement among ≤1 year-old Indian infants
+
+date: 2025-02-27, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundInfants born to dengue-immune mothers acquire maternal antibodies to dengue. Maternal antibodies decline over time, making infants susceptible to primary dengue infections. Another important concern is the role of maternal antibodies in causing antibody-dependent enhancement (ADE) during primary infections. In this study, we aimed to investigate the kinetics of dengue virus (DENV)-neutralizing antibodies and infection-enhancing activity in Indian infants.MethodsHealthy infants at birth (cord blood), and at 3, 6, 9, and 12 months of age (n=32/group) were included in this cross-sectional study. Serum samples were tested for neutralizing antibodies using the foci-reduction neutralization test and enhancing antibodies using the ADE assay against DENV1-4 serotypes.ResultsNeutralizing antibody positivity declined with the increasing age of the infants. Undetectable levels of neutralizing antibodies to DENV1-4 serotypes were reported in 84% of infants by 9 months. Significantly lower neutralizing antibody titers were also reported in 9-month-old infants compared to that in 6-month-old infants and infants at birth. Comparable levels of enhancement of DENV1-4 infection at a particular dilution to at least one serotype were noted in infants at 3 and 6 months of age. Fold enhancement of DENV1-4 infection was found to be highest in 6-month-old infants at a dilution of 1:20. In summary, our data suggests that DENV infection–enhancing activity aligns with the decline of neutralizing antibodies.ConclusionOur study indicates that maternally acquired neutralizing antibodies could be protective until 6 months of age and capable of facilitating ADE on exposure to dengue infections in later months of life. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1538188>
+
+---
+
+## Low Sodium Gravy
+
+date: 2025-02-26, from: The Kidney Dietitian
+
+<p>Gravy is a comforting addition to many meals, bringing rich flavor to breakfast and dinner foods alike. But first, did you know traditional gravy can be high in sodium? Let’s explore how to make this classic favorite just as delicious–while keeping it low sodium friendly! Is Gravy Healthy? Gravy can be high in saturated fat [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/low-sodium-gravy/">Low Sodium Gravy</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/low-sodium-gravy/>
 
 ---
 

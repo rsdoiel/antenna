@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-02-26 07:08:41
+updated: 2025-02-27 07:06:51
 ---
 
 # motorcycles
 
-(date: 2025-02-26 07:08:41)
+(date: 2025-02-27 07:06:51)
+
+---
+
+## AI Is Being Used To Make Cycling Safer. But Should It?
+
+date: 2025-02-27, from: Ride Apart, Electric Motorcycle News
+
+Can AI actually help make mobility safer for everyone on the road? 
+
+<br> 
+
+<https://www.rideapart.com/news/751801/veloai-copilot-cycling-safety-project/>
+
+---
+
+## Harley Teams With Build Moto So High School Students Can Make Motorcycles
+
+date: 2025-02-27, from: Ride Apart, Electric Motorcycle News
+
+Is this a genius play from Harley? 
+
+<br> 
+
+<https://www.rideapart.com/news/751666/harley-davidson-high-school-moto-program/>
+
+---
+
+## This Scooter Wants To Join the Big Boys Of the ADV World
+
+date: 2025-02-27, from: Ride Apart, Electric Motorcycle News
+
+It’s rocking every ADV accessory you could wish for…but it’s a scooter. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/751675/zontes-zt368g-adventure-scooter-specs-features/>
 
 ---
 

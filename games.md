@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-02-26 07:08:39
+updated: 2025-02-27 07:06:49
 ---
 
 # games
 
-(date: 2025-02-26 07:08:39)
+(date: 2025-02-27 07:06:49)
+
+---
+
+## Everything announced at Pokémon Presents 2025
+
+date: 2025-02-27, updated: 2025-02-27, from: Polygon Website
+
+It’s Pokémon Day 2025, and that means a new Pokémon Presents, which was full of reveals and updates on all things Pokémon —&#160;including our first real look at Pokémon Legends: Z-A, a new Pokémon multiplayer game, and more. As usual, there were lots of smaller announcements and updates to The Pokémon Company’s live-service games like [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/530790/pokemon-presents-2025-news-announcements-all-recap>
+
+---
+
+## Here’s the next look at Pokémon Legends: Z-A — and its Mega Evolutions
+
+date: 2025-02-27, updated: 2025-02-27, from: Polygon Website
+
+The Pokémon Company debuted a detailed Pokémon Legends: Z-A trailer during its Pokémon Day broadcast on Thursday, its first big update on the game since it was revealed during last year’s event. As the name suggests, Pokémon Legends: Z-A is an expansion of the Pokémon Legends series, which began in 2022 with the launch of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/530077/pokemon-legends-z-a-trailer-announcement>
+
+---
+
+## Pokémon Champions, a cross-platform battle sim, announced during Pokémon Presents
+
+date: 2025-02-27, updated: 2025-02-27, from: Polygon Website
+
+Everyone expected The Pokémon Company’s big Pokémon Day announcement to be an extended look at the upcoming Pokémon Legends: Z-A, but the company had a surprise as well: a new multiplayer Pokémon game called Pokémon Champions, a collaboration between Game Freak and The Pokémon Works. Game Freak is the main developer of Pokémon games, while [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/530598/pokemon-champions-battle-game-announced>
+
+---
+
+## Pokémon Concierge returns to Netflix in 2025
+
+date: 2025-02-27, updated: 2025-02-27, from: Polygon Website
+
+The second season of Pokémon Concierge is coming in September 2025, The Pokémon Company and Netflix announced Thursday during a Pokémon Presents livestream. The stop-motion animated series from Dwarf Studios will follow the continuing adventures of Pokémon resort concierge Haru. Fans can expect new Pokémon to show up at the resort. The Pokémon Company teased [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/530776/pokemon-concierge-season-2-netflix-release-date>
+
+---
+
+## Pokémon TCG Pocket getting Arceus booster pack, Mega Evolutions
+
+date: 2025-02-27, updated: 2025-02-27, from: Polygon Website
+
+More new cards are coming to Pokémon TCG Pocket via the Triumphant Light booster pack, The Pokémon Company announced Thursday during its Pokémon Day broadcast. As is customary for big events, however, the news leaked a bit early — reportedly after an ad for the game showing the new content was pushed live ahead of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/530112/pokemon-trading-card-game-pocket-triumphant-light-arceus-expansion-pack>
+
+---
+
+## What time do Cowboy Bebop skins release in Fortnite?
+
+date: 2025-02-27, updated: 2025-02-27, from: Polygon Website
+
+Cowboy Bebop characters Spike Spiegel and Faye Valentine are continuing their bounty hunting duties in Fortnite, officially coming to the game on Wednesday, Feb. 26. The space bounty hunters are crash landing in the world of Fortnite with new outfits and items that will be available in the shop. Additionally, the collaboration will come with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/527333/cowboy-bebop-skins-release-date-time>
+
+---
+
+## How to watch the new Pokémon Presents for Pokémon Day 2025
+
+date: 2025-02-27, updated: 2025-02-27, from: Polygon Website
+
+A new Pokémon Presents showcase is coming on Feb. 27, The Pokémon Company announced Thursday. The new Presents livestream falls on Pokémon Day 2025, the annual celebration of the monster-catching franchise. What time is Pokémon Presents 2025? The showcase will stream on the official Pokémon YouTube and Twitch channels at 9 a.m. EST/6 a.m. PST/2 p.m. GMT/11 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/526327/pokemon-day-2025-presents-date-time-est-pst>
+
+---
+
+## What time does Pokémon Go’s Go Tour Unova start and end?
+
+date: 2025-02-27, updated: 2025-02-26, from: Polygon Website
+
+Pokémon Go’s big Go Tour: Unova event takes place this weekend over the span of two days. If you’re worried about missing out on the powerful addition of Black and White Kyurem or just looking to know how to schedule your weekend, we got your back. Below we explain what time Go Tour: Unova starts, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/529425/what-time-go-tour-unova-start-end>
+
+---
+
+## Sonic the Hedgehog has been quiet since the demo dropped for this running roguelike
+
+date: 2025-02-26, updated: 2025-02-26, from: Polygon Website
+
+You know a game is going to be good when the tutorial is shorter than the time it took to download it. Haste: Broken Worlds is the fastest game I’ve played this year, and the demo kicks off in less than 30 seconds. The premise is extremely simple: The world is falling apart, and the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/530305/haste-broken-worlds-steam-next-fest-demo>
 
 ---
 

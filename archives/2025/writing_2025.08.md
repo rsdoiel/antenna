@@ -1,11 +1,125 @@
 ---
 title: writing
-updated: 2025-02-26 07:08:38
+updated: 2025-02-27 07:06:49
 ---
 
 # writing
 
-(date: 2025-02-26 07:08:38)
+(date: 2025-02-27 07:06:49)
+
+---
+
+## Fair Use, Censorship, and Struggle for Control of Facts
+
+date: 2025-02-27, from: Author's Union blog
+
+Imagine this: a high-profile aerospace and media billionaire threatens to sue you for writing an unauthorized and unflattering biography. In the course of writing, you rely on several news articles, including a series of in-depth pieces about the billionaire’s life written over a decade earlier. Given their closeness in time to real events, you quote, [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/02/27/fair-use-censorship-and-struggle-for-control-of-facts/>
+
+---
+
+## Analog, Asimov’s, and F&SF Under New Ownership
+
+date: 2025-02-26, from: Locus Magazine
+
+<p>The &#8220;big three&#8221; digest magazines Analog, Asimov&#8216;s, and F&#38;SF are under new ownership, confirming recent rumors, as reported by Jason Sanford and Steve Davidson of Amazing Stories. Sanford writes,</p>
+<p>Confirmation of this has now appeared on the websites of Asimov&#8217;s and Analog, as first reported by Amazing Stories. The ownership language at the bottom of both websites changed recently from “© 2024 PENNY PUBLICATIONS, LLC. ALL RIGHTS RESERVED” to “©  <a href="https://locusmag.com/2025/02/analog-asimovs-and-fsf-under-new-ownership/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/analog-asimovs-and-fsf-under-new-ownership/>
+
+---
+
+## 💊🎰🚨 It's Go Time
+
+date: 2025-02-26, from: Interesting, a blog on writing
+
+This is not announcing a legacy sequel feat. Chappell Roan called Good 2 Go. 
+
+<br> 
+
+<https://inneresting.substack.com/p/its-go-time>
+
+---
+
+## The Year in Review 2024 by A.C. Wise
+
+date: 2025-02-26, from: Locus Magazine
+
+<p>It’s been a year, hasn’t it? Has it? Honestly, it feels like 2024 just began, and here we are at the end, staring down the uncer­tainty of the year to come. However, as always, my fiction reading – both for my review columns and for myself – has been a comfort and a highlight. I know I’ve missed out on many wonderful works. There are sadly only so many hours  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-a-c-wise/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-a-c-wise/>
+
+---
+
+## How Coralie Fargeat Stayed True to Her Vision for 'The Substance'
+
+date: 2025-02-26, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-coralie-fargeat-stayed-true-to-her-vision-for-the-substance" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Demi%20Moore%20in%20The%20Substance.png" alt="Demi Moore holds up her hair in front of a bathroom mirror, glancing at her reflection in 'The Substance'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>When the <a href="https://www.oscars.org/oscars/ceremonies/2025">97th Academy Awards</a> announced the nominees on January 23, it was a shock to see writer/director Coralie Fargeat’s body horror thriller <span style="font-style: italic;">The Substance</span> receive five Oscar nominations, including Best Picture and Best Director.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-coralie-fargeat-stayed-true-to-her-vision-for-the-substance>
+
+---
+
+## 45th Japan SF Grand Prize Winners
+
+date: 2025-02-26, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers of Japan (SFWJ) announced the results of the 45th Japan SF Grand Prize:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li>WINNER: <strong>Land of the Lustrous</strong>, Haruko Ichikawa (Kodansha)</li>
+<li>Special Award: <strong>Sailing on Galactic Winds,</strong> Kenrei Miyanishi (Tokyo Sogensha)</li>
+</ul>
+<p>Three individuals were presented with posthumous Contribution Awards:</p>
+<ul>
+<li>Haruya Sumiya</li>
+<li>Kazuo Umezu</li>
+<li>Hiroshi Yamamoto</li>
+</ul>
+<p>The grand prize winner receives 1 million yen ($6,600), a certificate, and a trophy. The Special Award winner </p></div> <a href="https://locusmag.com/2025/02/45th-japan-sf-grand-prize-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/45th-japan-sf-grand-prize-winners/>
+
+---
+
+## Lee Wins Heinlein Award
+
+date: 2025-02-26, from: Locus Magazine
+
+<p>Sharon Lee is the winner of the 2025 Robert A. Heinlein Award, given for &#8220;outstanding published works in science fiction and technical writings that inspire the human exploration of space.&#8221;</p>
+<p style="padding-left: 40px;">This award is in recognition of Ms. Lee’s body of work of over 38 novels and short stories. A majority of her space themed work is in the Liaden Universe, written with her late husband Steve Miller, and features merchant  <a href="https://locusmag.com/2025/02/lee-wins-heinlein-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/lee-wins-heinlein-award/>
+
+---
+
+## The River Has Roots by Amal El-Mohtar: Review by Gary K. Wolfe
+
+date: 2025-02-26, from: Locus Magazine
+
+<p><strong>The River Has Roots</strong>, Amal El-Mohtar (Tordotcom 978-1-250-34108-2, $24.99, 144pp, hc) March 2025.</p>
+<p>Amal El-Mohtar’s <strong>The River Has Roots </strong>is an absolutely lovely take on classic murder ballads, with distinct echoes of the Tam Lin story and a soundtrack that might as well be wall-to-wall Steeleye Span. It might come as a bit of a surprise to readers who know El-Mohtar’s work only from the popular and multiple award-winning  <a href="https://locusmag.com/2025/02/the-river-has-roots-by-amal-el-mohtar-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-river-has-roots-by-amal-el-mohtar-review-by-gary-k-wolfe/>
 
 ---
 

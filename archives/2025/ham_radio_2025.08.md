@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-02-26 07:08:37
+updated: 2025-02-27 07:06:47
 ---
 
 # ham radio
 
-(date: 2025-02-26 07:08:37)
+(date: 2025-02-27 07:06:47)
+
+---
+
+## The QLDPC code breakthrough in quantum error correction
+
+date: 2025-02-27, from: EDN Blog
+
+<img width="640" height="355" src="https://www.edn.com/wp-content/uploads/Hero-image-QLDPC-code.jpg?fit=640%2C355" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-QLDPC-code.jpg?w=640 640w, https://www.edn.com/wp-content/uploads/Hero-image-QLDPC-code.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px" /><p>A Canadian company claims to perform low-overhead error correction in quantum computing using QLDPC codes.</p>
+<p>The post <a href="https://www.edn.com/the-qldpc-code-breakthrough-in-quantum-error-correction/" data-wpel-link="internal">The QLDPC code breakthrough in quantum error correction</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-qldpc-code-breakthrough-in-quantum-error-correction/>
+
+---
+
+## The downside of overdesign
+
+date: 2025-02-26, from: EDN Blog
+
+<img width="462" height="618" src="https://www.edn.com/wp-content/uploads/Overdesign-1.png?fit=462%2C618" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/Overdesign-1.png?w=462 462w, https://www.edn.com/wp-content/uploads/Overdesign-1.png?w=224 224w" sizes="(max-width: 462px) 100vw, 462px" /><p>Exploring one tragic use case where engineers fall victim to overdesign, showing how the simplest design is often the most effective.</p>
+<p>The post <a href="https://www.edn.com/overdesign/" data-wpel-link="internal">The downside of overdesign</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/overdesign/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-02-26 07:08:37
 
 date: 2025-02-25, from: EDN Blog
 
-<img width="1259" height="412" src="https://www.edn.com/wp-content/uploads/figure2-13.png?fit=1259%2C412" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/figure2-13.png?w=1259 1259w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=300 300w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=768 768w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=1024 1024w" sizes="(max-width: 1259px) 100vw, 1259px" /><p>A step-by-step guide on three ways to close the current control loop using the hall sensor feedback signal in totem-pole bridgeless PFCs. </p>
+<img width="1259" height="412" src="https://www.edn.com/wp-content/uploads/figure2-13.png?fit=1259%2C412" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/figure2-13.png?w=1259 1259w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=300 300w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=768 768w, https://www.edn.com/wp-content/uploads/figure2-13.png?w=1024 1024w" sizes="auto, (max-width: 1259px) 100vw, 1259px" /><p>A step-by-step guide on three ways to close the current control loop using the hall sensor feedback signal in totem-pole bridgeless PFCs. </p>
 <p>The post <a href="https://www.edn.com/power-tips-138-3-ways-to-close-the-control-loop-for-totem-pole-bridgeless-pfc/" data-wpel-link="internal">Power Tips #138: 3 ways to close the control loop for totem-pole bridgeless PFC</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

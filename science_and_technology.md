@@ -1,11 +1,431 @@
 ---
 title: science and technology
-updated: 2025-02-26 07:08:37
+updated: 2025-02-27 07:06:48
 ---
 
 # science and technology
 
-(date: 2025-02-26 07:08:37)
+(date: 2025-02-27 07:06:48)
+
+---
+
+## FDA clears Google watch feature to call 911 if you flatline
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>It looks like you have died. Would you like help?</h4> <p>The US Food and Drug Administration (FDA) has given the nod to the Loss of Pulse Detection feature of the Pixel Watch 3.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/google_loss_pulse_detection/>
+
+---
+
+## Liftoff! NASA Tech, Science En Route to Moon with Intuitive Machines
+
+date: 2025-02-27, from: NASA breaking news
+
+The next set of NASA science and technology demonstrations is on its way to the lunar surface, where they will gather data about Earth’s nearest neighbor and help pave the way for American astronauts to explore the Moon and beyond, for the benefit of all. Carrying NASA instruments as part of the agency’s CLPS (Commercial [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/liftoff-nasa-tech-science-en-route-to-moon-with-intuitive-machines/>
+
+---
+
+## Trump tariffs forcing rethink of PC purchases stateside
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Some businesses sticking with Windows 10, AI boxes not reviving demand</h4> <p>President Trump&#39;s tariffs on goods imported from China, in addition to faltering consumer purchases, are forecast to result in slower-than-expected global shipments of personal computers, according to IDC.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/trump_tariffs_pc_purchases/>
+
+---
+
+## Nope. You probably can't cash in by turning your office or farm into a datacenter
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Bit barn developer says your real estate can&#39;t take the heat, and forget nuking it to change that</h4> <p><strong>APRICOT 2025</strong>  Sorry to be the bearer of bad news, but if you own real estate and think you can cash in by using it to host an AI datacenter, you&#39;re probably wrong.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/real_estate_datacenter_conversion/>
+
+---
+
+## 30-year-old NHS supply chain system hit by 35 major alerts in 11 months
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Thousands of order lines not picked, causing delays to hospital deliveries</h4> <p>A state-owned company that handles £4.5 billion ($5.7 billion) annual spending on behalf of the NHS has suffered 35 high-priority computer system alerts in 2024, leading to delays in shipping thousands of products to UK hospitals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/thirtyyearold_nhs_supply_chain_system/>
+
+---
+
+## Tech jobs are now white collar trades that need apprentices, not a career crawl
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>With a generation of networking engineers set to retire, is this how to give their successors a faster start?</h4> <p><strong>APRICOT 2025</strong>  The networking industry should address its perennial staff shortage by giving early-career techies the kind of hands-on training delivered during apprenticeships for trainee carpenters or electricians.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/tech_career_paths_apprenticeships_needed/>
+
+---
+
+## How mega city council's failure to act on Oracle rollout crashed its financial controls
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Missing assessments, hidden caveats, and overoptimism all contributed to fateful decision, auditors find</h4> <p>&#34;Huge. There could be major problems transacting leading to late payment or collection of debt. The accounts could be wrong.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/birmingham_oracle_auditors/>
+
+---
+
+## FYI: An appeals court may kill a GNU GPL software license
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Defense of FOSS licensing rests on the shoulders of a guy in Virginia</h4> <p>At some point in the months ahead, the United States Court of Appeals for the Ninth Circuit will consider an effort to reverse a California federal district court&#39;s decision in <em>Neo4j v. PureThink</em>.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/adverse_appeals_court_ruling_could/>
+
+---
+
+## Does terrible code drive you mad? Wait until you see what it does to OpenAI's GPT-4o
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Model was fine-tuned to write vulnerable software – then suggested enslaving humanity</h4> <p>Computer scientists have found that fine-tuning notionally safe large language models to do one thing badly can negatively impact the AI’s output across a range of topics.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/llm_emergent_misalignment_study/>
+
+---
+
+## Cash torrent pouring into Nvidia slows – despite booming Blackwell adoption
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>May we all have problems like annual revenue growth dropping from 126 to 114 percent</h4> <p>Nvidia&#39;s astounding recent growth leveled off in the fourth quarter of its 2025 fiscal year, the 12 months to January 26, but the GPU titan is still producing enviable numbers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/nvidia_q4_revs/>
+
+---
+
+## FAA confirms it's testing Starlink, maybe for tasks Elon says Verizon is doing badly
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Plus: Musk&#39;s biz empire reportedly pulled in $6B-plus from Uncle Sam last year</h4> <p>The FAA has confirmed it&#39;s trying out three SpaceX Starlink broadband terminals in the United States.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/faa_starlink_test/>
+
+---
+
+## Sols 4466-4468: Heading Into the Small Canyon
+
+date: 2025-02-27, from: NASA breaking news
+
+Written by Susanne Schwenzer, Planetary Geologist at The Open University Earth planning date: Wednesday, Feb. 26, 2025 The fine detail of the image above reminds us once again that geoscience — on Mars and on Earth — is an observational science. If you look at the image for a few moments, you will see that […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4466-4468-heading-into-the-small-canyon/>
+
+---
+
+## Wallbleed vulnerability unearths secrets of China's Great Firewall 125 bytes at a time
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Boffins poked around inside censorship engines for years before Beijing patched hole</h4> <p>Smart folks investigating a memory-dumping vulnerability in the Great Firewall of China (GFW) finally released their findings after probing it for years.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/wallbleed_vulnerability_great_firewall/>
+
+---
+
+## Understanding surrogate pairs: why some Windows filenames can’t be read
+
+date: 2025-02-26, from: OS News
+
+Windows was an early adopter of Unicode, and its file APIs use UTF‑16 internally since Windows 2000-used to be UCS-2 in Windows 95 era, when Unicode standard was only a draft on paper, but that’s another topic. Using UTF-16 means that filenames, text strings, and other data are stored as sequences of 16‑bit units. For Windows, a properly formed surrogate pair is perfectly acceptable. However, issues arise when string manipulation produces isolated or malformed surrogates. Such errors can lead to unreadable filenames and display glitches—even though the operating system itself can execute files correctly. But we can create them deliberately as well, which we can see below. ↫ Zafer Balkan What a wild ride and an odd corner case. I wonder what kind of odd and fun shenanigans this could be used for. 
+
+<br> 
+
+<https://www.osnews.com/story/141815/understanding-surrogate-pairs-why-some-windows-filenames-cant-be-read/>
+
+---
+
+## With millions upon millions of victims, scale of unstoppable info-stealer malware laid bare
+
+date: 2025-02-26, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>244M purloined passwords added to Have I Been Pwned thanks to govt tip-off</h4> <p>A tip-off from a government agency has resulted in 284 million unique email addresses and plenty of passwords snarfed by credential-stealing malware being added to privacy-breach-notification service Have I Been Pwned (HIBP).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/hibp_adds_giant_infostealer_trove/>
+
+---
+
+## Bybit declares war on North Korea's Lazarus crime-ring to regain $1.5B stolen from wallet
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Up to $140M in bounty rewards for return of Ethereum allegedly pilfered by hermit nation</h4> <p>Cryptocurrency exchange Bybit, just days after suspected North Korean operatives stole $1.5 billion in Ethereum from it, has launched a bounty program to help recover its funds.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/bybit_lazarus_bounty/>
+
+---
+
+## Mozilla is going to collect a lot more data from Firefox users
+
+date: 2025-02-26, from: OS News
+
+I guess my praise for Mozilla&#8217;s and Firefox&#8217; continued support for Manifest v2 had to be balanced out by Mozilla doing something stupid. Mozilla just published Terms of Use for Firefox for the first time, as well as an updated Privacy Notice, that come into effect immediately and include some questionable terms. The Terms of Use state: When you upload or input information through Firefox, you hereby grant us a nonexclusive, royalty-free, worldwide license to use that information to help you navigate, experience, and interact with online content as you indicate with your use of Firefox. ↫ Firefox&#8217; new Terms of Use That&#8217;s incredibly broad, and it could easily be argued that this gives Mozilla the right to use whatever you post or upload online through Firefox, which is clearly insane. However, it might also just be standard, regular, wholly unenforceable legalese, but the fact it&#8217;s in the Firefox Terms of Use now that you have to accept is disconcerting. Does this mean that if an artist uses Firefox to upload a new song they made, Mozilla now has a license to use that song in whatever way they deem fit? You&#8217;d hope not, but that does seem what the terms are stating here. Moving on to the new Privacy Notice, and it seems Mozilla intends to collect more data in more situations. For instance, Mozilla is going to collect things such as &#8220;Unique identifiers&#8221; and &#8220;Browsing data&#8221; to &#8220;Market  services&#8221;, consent for which Mozilla will only ask for in jurisdictions where such consent is required, and it&#8217;s opt-out, not opt-in. I would hazard a guess that even in places where strict privacy regulations are in place, the wording of such consent will probably be obtuse, and the opt-out checkbox hidden somewhere deep in settings. Mozilla also intends to collect &#8220;all data types&#8221; to &#8220;comply with applicable laws, and identify and prevent harmful, unauthorized or illegal activity&#8221;. Considering how fast, I don&#8217;t know, being trans or women&#8217;s health care is criminalised in the US, &#8220;illegal activity&#8221; can cover a lot of damn things once you have totalitarians like Musk and Trump in power. An organisation like Mozilla shouldn&#8217;t be collecting any data types, let alone all of them, and especially not in places where such data types can lead to real harm to innocent people. The backlash to the new Terms of Use and updated Privacy Notice is already growing, and it further cements my worries that Mozilla is intending to invest more and more into becoming an advertising company first, browser maker second. The kinds of data they&#8217;re going to collect now from Firefox users are exactly the kinds of data that are incredibly useful to advertisers, and it doesn&#8217;t take a genius to see where this is going. 
+
+<br> 
+
+<https://www.osnews.com/story/141813/mozilla-is-going-to-collect-a-lot-more-data-from-firefox-users/>
+
+---
+
+## NASA Remembers Long-Time Civil Servant John Boyd
+
+date: 2025-02-26, from: NASA breaking news
+
+John Boyd, known to many as Jack and whose career spanned more than seven decades in a multitude of roles across NASA as well as its predecessor, the National Advisory Committee for Aeronautics (NACA), died Feb. 20. He was 99. Born in 1925, and raised in Danville, Virginia, he was a long-time resident of Saratoga, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-remembers-long-time-civil-servant-john-boyd/>
+
+---
+
+## Fourth Launch of NASA Instruments Planned for Near Moon’s South Pole
+
+date: 2025-02-26, from: NASA breaking news
+
+Sending instruments to the Moon supports a growing lunar economy on and off Earth, and the next flight of NASA science and technology is only days away. NASA’s CLPS (Commercial Lunar Payload Services) initiative is a lunar delivery service that sends NASA science and technology instruments to various geographic locations on the Moon using American [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/clps/fourth-launch-of-nasa-instruments-planned-for-near-moons-south-pole/>
+
+---
+
+## PowerPC Windows NT made to run on GameCube and Wii
+
+date: 2025-02-26, from: OS News
+
+Remember about half a year ago, when the PowerPC versions of Windows NT were made to run on certain models of PowerPC Macs? The same developer responsible for that work, Rairii, took all of this to the next level, and it&#8217;s now possible to run the PowerPC version of Windows NT on the GameCube, Wii, Wii U, and a few related development boards. NT 3.51 RTM and higher. NT 3.51 betas (build 944 and below) will need kernel patches to run due to processor detection bugs. NT 3.5 will never be compatible, as it only supports PowerPC 601. (The additional suspend/hibernation features in NT 3.51 PMZ could be made compatible in theory but in practise would require all of the additional drivers for that to be reimplemented.) ↫ Windows NT for GameCube/Wii GitHub page As you may have expected, there are some issues, such as instability and random reboots, USB hotplugging doesn&#8217;t work, and some other, smaller issues, but none of that takes away from just how awesome and impressive this really is. There&#8217;s framebuffer support for the Flipper GPU, full support for the controllers ports and a ton of compatible controllers and related input devices, including support for the N64 mouse and keyboard, although said support is untested. The GameCube and Wii (U) are PowerPC computers, after all, running IBM processors, so it shouldn&#8217;t be surprising that running Windows NT on them is possible. Still, it&#8217;s an impressive feat of engineering to get this to work at all, let alone in as complete a state as it appears to be. 
+
+<br> 
+
+<https://www.osnews.com/story/141811/powerpc-windows-nt-made-to-run-on-gamecube-and-wii/>
+
+---
+
+## 100-plus spies fired after NSA internal chat board used for kinky sex talk
+
+date: 2025-02-26, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>National intel boss slams naughty nattering on work systems as &#39;egregious violation of trust&#39;</h4> <p>More than 100 US spies have been fired, and their security clearance revoked, after an internal NSA messaging system was used by staff to chat about their sex lives.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/nsa_firings_intelink_chats/>
+
+---
+
+## zlib-rs is faster than C
+
+date: 2025-02-26, from: OS News
+
+I&#8217;m sure we can all have a calm, rational discussion about this, so here it goes: zlib-rs, the Rust re-implementation of the zlib library, is now faster than its C counterparts in both decompression and compression. We&#8217;ve released version 0.4.2 of zlib-rs, featuring a number of substantial performance improvements. We are now (to our knowledge) the fastest api-compatible zlib implementation for decompression, and beat the competition in the most important compression cases too. ↫ Folkert de Vries As someone who isn&#8217;t a programmer, looking at all the controversies and fallout around anything related to Rust is both fascinating and worrying. Fascinating because Rust clearly brings a whole slew of improvements over established and older languages, and worrying because the backlash from the establishment has been wildly irrational and bordering on the childish, complete with tamper tantrums and the taking of balls and going home. It shouldn&#8217;t surprise me that people get attached to programming languages the same way people get attached to operating systems, but surprisingly, it still does. If Rust not only provides certain valuable benefits like memory safety, but can also be used to create implementations that are faster than those created in, say, C, it&#8217;s really only going to be a matter of time before it simply becomes an untenable position to block Rust from, say, the Linux kernel. Progress has a tendency to find a way, especially the more substantial the benefits get, and as studies show, even only writing new code in memory-safe languages provides substantial benefits. In other words, more and more projects will simply switch over to Rust for new code where it makes sense, whether Rust haters want it or not. There will be enough non-Rust code to write and maintain, though, so I don&#8217;t think people will be out of a job any time soon because they refuse to learn Rust, but to me as an outsider, the Rust hate seems to grow more and more irrational by the day. 
+
+<br> 
+
+<https://www.osnews.com/story/141809/zlib-rs-is-faster-than-c/>
+
+---
+
+## Sols 4464-4465: Making Good Progress
+
+date: 2025-02-26, from: NASA breaking news
+
+Written by Lauren Edgar, Planetary Geologist at USGS Astrogeology Science Center Earth planning date: Monday, Feb. 24, 2025 Over the weekend Curiosity drove about 48 meters (about 157 feet) to the southwest, continuing to march along on our traverse past Texoli butte and Gould Mesa. I was on shift as the LTP today, and it […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4464-4465-making-good-progress/>
+
+---
+
+## Milky Way on the Horizon
+
+date: 2025-02-26, from: NASA breaking news
+
+NASA astronaut Don Pettit used a camera with low light and long duration settings to capture this Jan. 29, 2025, image of the Milky Way appearing beyond Earth&#8217;s horizon. At the time, the International Space Station was orbiting 265 miles above the Pacific Ocean off the coast of Chile just before sunrise. Pettit is part [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/milky-way-on-the-horizon/>
+
+---
+
+## 6 Things to Know About NASA’s Lunar Trailblazer
+
+date: 2025-02-26, from: NASA breaking news
+
+The small satellite mission will map the Moon to help scientists better understand where its water is, what form it’s in, how much is there, and how it changes over time. Launching no earlier than Wednesday, Feb. 26, NASA’s Lunar Trailblazer will help resolve an enduring mystery: Where is the Moon’s water? After sharing a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/small-satellite-missions/lunar-trailblazer/6-things-to-know-about-nasas-lunar-trailblazer/>
+
+---
+
+## Like a kid handing in homework at the last minute, Supermicro finally files its missing financial figures
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>SMCI had to come up with long-delayed report – or lose its slot on NASDAQ again</h4> <p>It only took five or so months, but Supermicro has managed to untangle its long-delayed 2024 annual report, which was in a shoddy enough state to set its previous accountants running for the hills and put the server maker at risk of being delisted from the NASDAQ again.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/supermicro_10k_filing/>
+
+---
+
+## Yes, Slack isn't working properly right now – enjoy your internet snow day
+
+date: 2025-02-26, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Chat app chaps slapped, rapped for leaving yakkity-yakkers in a flap</h4> <p><strong>Final update</strong>  It&#39;s not just you. Slack is indeed having a wobbly day, leaving people unable to message each other as usual.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/slack_outage/>
+
+---
+
+## Qualcomm pledges 8 years of security updates for Android kit using its chips (YMMV)
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Starting with Snapdragon 8 Elite and &#39;droid 15</h4> <p>It seems manufacturers are finally getting the message that people want to use their kit for longer without security issues, as Qualcomm has said it&#39;ll provide Android software updates, including vulnerability fixes, for its latest chipsets for eight years instead of four.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/qualcomm_android_support/>
+
+---
+
+## Network edge? You get 64-bit Armv9 AI. You too, watches. And you, server remote management. And you...
+
+date: 2025-02-26, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Arm rolls out the Cortex-A320 for small embedded gear that dreams of big-model inference</h4> <p>Arm predicts AI inferencing will soon be ubiquitous. In order to give devices the oomph they need for all that neural-network processing, it is beefing up its embedded platform with the first 64-bit Armv9 CPU core aimed at edge workloads.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/armv9_cortex_a320/>
+
+---
+
+## NASA Open Data Turns Science Into Art
+
+date: 2025-02-26, from: NASA breaking news
+
+An art display powered by NASA science data topped the Salesforce Tower in San Francisco, CA throughout December 2024. Nightly visitors enjoyed “Synchronicity,” a 20-minute-long video art piece by Greg Niemeyer, which used a year’s worth of open data from NASA satellites and other sources to bring the rhythms of the Bay Area to life. […] 
+
+<br> 
+
+<https://science.nasa.gov/open-science/artist-data-visualization/>
+
+---
+
+## NASA’s SpaceX Crew-9 to Discuss Space Station Mission, Upcoming Return
+
+date: 2025-02-26, from: NASA breaking news
+
+Media are invited to hear from NASA’s SpaceX Crew-9 astronauts during a news conference beginning at 11:55 a.m. EST, Tuesday, March 4, from the International Space Station. NASA astronauts Nick Hague, Suni Williams, and Butch Wilmore will discuss their return to Earth on NASA+. Learn how to watch NASA content through a variety of platforms, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-spacex-crew-9-to-discuss-space-station-mission-upcoming-return/>
+
+---
+
+## Windows 11 24H2 goes back to the drawing board over AutoCAD 2022 glitch
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>Safeguard hold applied after designer darling borked by problematic update</h4> <p>Microsoft has thrown up another safeguard hold for Windows 11 24H2. This time, it&#39;s problems with AutoCAD 2022 that are to blame.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/windows_11_24h2_autocad/>
+
+---
+
+## Workday talks up AI agents platform that will reap rewards of staff cuts
+
+date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
+
+<h4>CEO assures investors he&#39;ll plough headcount savings into risk-management enterprise product</h4> <p>Workday has confirmed that AI did indeed cost the job of colleagues that are leaving the organization following a restructuring plan cooked up by executive head chef Carl Eschenbach. How so? The money the org expects to save will be ploughed into its Agent System of Record platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/workday_talks_up_ai_agent_platform/>
+
+---
+
+## The ‘Elegant’ Math Model That Could Help Rescue Coral Reefs
+
+date: 2025-02-26, from: Quanta Magazine
+
+Physicists and marine biologists built a quantitative framework that predicts how coral polyps collectively construct a variety of coral shapes.            <p>The post <a href="https://www.quantamagazine.org/the-elegant-math-model-that-could-help-rescue-coral-reefs-20250226/" target="_blank">The ‘Elegant’ Math Model That Could Help Rescue Coral Reefs</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-elegant-math-model-that-could-help-rescue-coral-reefs-20250226/>
+
+---
+
+## NASA’s Ethics Program
+
+date: 2025-02-26, from: NASA breaking news
+
+NASA’s Ethics Program provides training and counsel to NASA employees and is responsible for the day-to-day management of the agency-wide ethics program. Headquarters and Center Chief Counsels ethics officials support the ethics program in their respective localities. A list of ethics officials at each NASA location can be found here: Headquarters and Center Ethics Officials. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/ogc-ethics-program/>
 
 ---
 
@@ -21,7 +441,7 @@ date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
 
 ---
 
-## Under Trump 2.0, Europe's dependence on American clouds has become a worry
+## Under Trump 2.0, Europe's dependence on US clouds back under the spotlight
 
 date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
 
@@ -93,6 +513,18 @@ date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
 
 ---
 
+## Wozniak: I didn't reduce chip count for manufacturing. I wanted to prove I was clever
+
+date: 2025-02-26, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Plus: Beware of a hotspot called &#39;spanky&#39;</h4> <p>Computing pioneer Steve Wozniak didn&#39;t set out to revolutionize the computer industry. He just wanted the respect of his fellow engineers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/26/steve_wozniak_engineer_keynote/>
+
+---
+
 ## Steve Wozniak: 'Founding Apple would be much harder today than in the 1970s'
 
 date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
@@ -129,7 +561,7 @@ date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
 
 ---
 
-## Incoming deputy head of Homeland Security says CISA needs to be reined in
+## Incoming deputy boss of Homeland Security says America's top cyber-agency needs to be reined in
 
 date: 2025-02-26, updated: 2025-02-26, from: The Register (UK I.T. News)
 
@@ -335,7 +767,7 @@ date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
 
 ## Harassment allegations against DEF CON veteran detailed in court filing
 
-date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
+date: 2025-02-25, updated: 2025-02-27, from: The Register (UK I.T. News)
 
 <h4>More than a dozen women came forward with accusations</h4> <p>Details about the harassment allegations leveled at DEF CON veteran Christopher Hadnagy have now been revealed after a motion for summary judgment was filed over the weekend.…</p> 
 
@@ -527,7 +959,7 @@ date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
 
 ## If you dip your toes into immersion cooling, watch out for dielectric liquid sharks
 
-date: 2025-02-25, updated: 2025-02-25, from: The Register (UK I.T. News)
+date: 2025-02-25, updated: 2025-02-26, from: The Register (UK I.T. News)
 
 <h4>The small pool of suppliers understand their market power</h4> <p><strong>APRICOT 2025</strong>  The market for dielectric liquid required for immersion cooling is dominated by a small number of players that are aware of their market power.…</p> 
 

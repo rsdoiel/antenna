@@ -1,11 +1,1375 @@
 ---
 title: north america
-updated: 2025-02-26 07:08:35
+updated: 2025-02-27 07:06:46
 ---
 
 # north america
 
-(date: 2025-02-26 07:08:35)
+(date: 2025-02-27 07:06:46)
+
+---
+
+## Representative Jim Himes and Jen Rubin on bowing down to the Executive 
+
+date: 2025-02-27, from: The Contrarian
+
+Congressman Jim Himes and Jen Rubin discuss the Republican-controlled Congress bowing down to the Executive, the worsening impacts of MAGA on the American population, the US-Russia relationship, and more. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157992557/e3aba854dcfd83082f0b65c86b458a9b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157992557/e3aba854dcfd83082f0b65c86b458a9b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/representative-jim-himes-and-jen>
+
+---
+
+## On Moscow streets, Russians welcome thaw in relations with Washington
+
+date: 2025-02-27, from: VOA News USA
+
+Anticipation is growing in Russia for a summit - yet to be scheduled - between U.S. President Donald Trump and Vladimir Putin. On the streets of Moscow, many Russians welcome what they see as a thaw in relations with Washington, and what some hope is the beginning of the end of their country's isolation from the West. Jonathan Spier narrates this report. 
+
+<br> 
+
+<https://www.voanews.com/a/on-moscow-streets-russians-welcome-thaw-in-relations-with-washington/7990118.html>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-02-27, from: The Contrarian
+
+Thursday: Prepare for the Friday economic boycott plus signs from North Carolina and New York. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Unemployment is still low, but are private sector layoffs accelerating?
+
+date: 2025-02-27, from: Market Place
+
+ A number of companies have announced workforce reductions since the beginning of the year. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/27/unemployment-is-still-low-but-are-private-sector-layoffs-accelerating/>
+
+---
+
+## Epic journey of bringing ‘One Hundred Years of Solitude’ to the screen
+
+date: 2025-02-27, from: VOA News USA
+
+The first of two seasons of Gabriel Garcia Marquez’s masterpiece One Hundred Years of Solitude has hit the screen. Netflix is currently working on the second season of this attempt to bring the author’s sprawling masterpiece to the screen. Veronica Villafane has the story. 
+
+<br> 
+
+<https://www.voanews.com/a/the-epic-journey-of-bringing-one-hundred-years-of-solitude-to-the-screen/7990053.html>
+
+---
+
+## Reality Counts
+
+date: 2025-02-27, from: The Contrarian
+
+Markets Do Not Lie 
+
+<br> 
+
+<https://contrarian.substack.com/p/reality-counts>
+
+---
+
+## US, Russian diplomats meet to discuss embassy operations
+
+date: 2025-02-27, from: VOA News USA
+
+U.S. and Russian diplomats met Thursday in Istanbul for talks about the operations of their respective embassies in Moscow and Washington.
+
+
+The meeting is the latest in a series of engagements between the two sides, including a phone call earlier this month between U.S. President Donald Trump and Russian President Vladimir Putin.
+
+
+Working to restore U.S.-Russia relations was on the agenda last week for talks between U.S. Secretary of State Marco Rubio and Russian Foreign Minister Sergey Lavrov.
+
+
+The U.S. State Department said after those talks in Riyadh that the two sides had agreed to create “a consultation mechanism to address irritants to our bilateral relationship with the objective of taking steps necessary to normalize the operation of our respective diplomatic missions.”
+
+
+Diplomatic relations between Russia and the United States declined during the past decade, with both sides expelling diplomats.
+
+
+Some information for this report was provided by The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/us-russian-diplomats-meet-to-discuss-embassy-operations/7989917.html>
+
+---
+
+##  The Firefighting Fire Sale 
+
+date: 2025-02-27, from: The Lever News
+
+ After U.S. Forest Service layoffs, will for-profit contractors protect you from wildfires?  
+
+<br> 
+
+<https://www.levernews.com/the-firefighting-fire-sale/>
+
+---
+
+##  Tales Of A Smokejumper 
+
+date: 2025-02-27, from: The Lever News
+
+ What it takes to fight the country’s worst wildfires — and what could be lost amid Trump’s Forest Service cuts.  
+
+<br> 
+
+<https://www.levernews.com/tales-of-a-smokejumper/>
+
+---
+
+## Actor Gene Hackman, wife found dead at New Mexico home
+
+date: 2025-02-27, from: VOA News USA
+
+Oscar-winning American actor Gene Hackman and his wife were found dead Wednesday at their home in the southwestern U.S. state of New Mexico.
+
+
+Authorities said they were investigating what caused their deaths but that foul play was not suspected as a factor.
+
+
+Authorities said they went to the home to do a welfare check and found the 95-year-old Hackman and his wife, 64-year-old pianist Betsy Arakawa, dead along with their dog.
+
+
+Hackman had a lengthy career on stage and screen, including appearing in Broadway shows, on television and in more than 80 films.
+
+
+He won an Oscar for best actor for his role in the 1971 film The French Connection and a best supporting Oscar for the 1992 film Unforgiven.
+
+
+Hackman’s resume featured three other Oscar nominations, including his breakout role in Bonnie and Clyde in 1967 as well as I Never Sang for My Father in 1970 and Mississippi Burning in 1988.
+
+
+His work crossed genres as he appeared in action movies, thrillers and offbeat comedies.
+
+
+In addition to his award-nominated works, he was also known for roles in films such as The Poseidon Adventure, Young Frankenstein, Superman, Hoosiers, The Birdcage, and The Royal Tenenbaums.
+
+
+His last film was Welcome to Mooseport in 2004.
+
+
+Some information for this report came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/actor-gene-hackman-wife-found-dead-at-new-mexico-home/7989859.html>
+
+---
+
+## North Korea behind $1.5 billion crypto theft, FBI says
+
+date: 2025-02-27, from: VOA News USA
+
+WASHINGTON — The U.S. FBI on Wednesday accused North Korea of being behind the theft of $1.5 billion worth of digital assets last week, the largest crypto heist in history.
+
+
+"(North Korea) was responsible for the theft of approximately $1.5 billion in virtual assets from cryptocurrency exchange, Bybit," the FBI said in a public service announcement.
+
+
+The bureau said a group called TraderTraitor, also known as the Lazarus Group, was behind the theft.
+
+
+It said they were "proceeding rapidly and have converted some of the stolen assets to Bitcoin and other virtual assets dispersed across thousands of addresses on multiple blockchains."
+
+
+"It is expected these assets will be further laundered and eventually converted to fiat currency," the FBI added.
+
+
+Lazarus Group gained notoriety a decade ago when it was accused of hacking into Sony Pictures as revenge for The Interview, a film that mocked North Korean leader Kim Jong Un.
+
+
+North Korea's cyber-warfare program dates back to at least the mid-1990s.
+
+
+It has since grown to a 6,000-strong cyber-warfare unit known as Bureau 121 that operates from several countries, according to a 2020 U.S. military report. 
+
+<br> 
+
+<https://www.voanews.com/a/north-korea-behind-1-5-billion-crypto-theft-fbi-says/7989814.html>
+
+---
+
+## US Supreme Court pauses federal judge's order on Trump administration foreign aid funding
+
+date: 2025-02-27, from: VOA News USA
+
+U.S. Supreme Court Chief Justice John Roberts on Wednesday paused a federal judge's order requiring President Donald Trump's administration to pay foreign aid funds to contractors and grant recipients.
+
+
+Roberts issued an interim order placing on hold Washington-based U.S. District Judge Amir Ali's action that had imposed a deadline of 11:59 p.m. on Wednesday night.
+
+
+Roberts provided no rationale for the order, known as an administrative stay, which will give the court additional time to consider the administration's more formal request to block Ali's ruling.
+
+
+Roberts asked for a response from the plaintiffs -- organizations that contract with or receive grants from the U.S. Agency for International Development and the State Department -- by noon on Friday.
+
+
+The order came after Trump's administration said in a court filing on Wednesday it had made final decisions terminating most U.S. foreign aid contracts and grants, while maintaining that it cannot meet Ali's court-ordered deadline.
+
+
+The administration is cutting more than 90% of the U.S. Agency for International Development's foreign aid contracts and over $58 billion in overall U.S. assistance around the world, a State Department spokesperson said separately, calling the cuts part of Trump's "America First agenda."
+
+
+The foreign aid funding dispute arose from a pair of lawsuits brought by the aid organizations, alleging that the agencies have illegally frozen all foreign aid payments.
+
+
+The Trump administration has kept those payments largely frozen despite a Feb. 13 temporary restraining order from Ali that they be released, and multiple subsequent orders that the administration comply, culminating in the Wednesday night deadline.
+
+
+Lawyers for the U.S. Justice Department have maintained that the administration has a right to suspend its agreements while it reviews them to determine whether they comply with administration policy.
+
+
+That review is now complete, the administration said in its new filing. It said USAID has made final decisions to cancel nearly 5,800 awards, while keeping more than 500, and that the State Department has canceled about 4,100 awards, while keeping about 2,700.
+
+
+An administration official said in an earlier court filing that grounds for terminating contracts include that they were related to diversity, equity, inclusion and accessibility efforts, or were deemed wasteful.
+
+
+Trump has taken a hard line on programs related to diversity, equity and inclusion, signing an executive order in his second day in office last month directing federal agency chiefs to dismantle DEI policies.
+
+
+The administration said on Wednesday that Secretary of State Marco Rubio had ordered that past-due invoices from the plaintiffs for work before Jan. 24, when the payment freeze began, to be "expedited for payment without the ordinary vetting procedures, in a good-faith effort to comply" with Ali's order. It said that while some money would be paid on Wednesday, full payments could take weeks.
+
+
+Funding freeze undermines relief efforts
+
+
+Trump, a Republican, ordered a 90-day pause on all foreign aid on his first day in office last month. That order, and ensuing stop-work orders halting USAID operations around the world, have jeopardized the delivery of life-saving food and medical aid, throwing global humanitarian relief efforts into chaos.
+
+
+USAID administers some 60% of U.S. foreign assistance and disbursed $43.79 billion in fiscal 2023. According to a Congressional Research Service report this month, its workforce of 10,000, of which about two-thirds serves overseas, assisted about 130 countries.
+
+
+Trump's administration on Sunday said it was placing all but leaders and critical staff at USAID on paid administrative leave and eliminating 1,600 positions. Employee unions have sued to challenge the cuts, though a judge last week allowed them to go ahead.
+
+
+Ali, who was appointed by Trump's Democratic predecessor, former President Joe Biden, issued his temporary restraining order to prevent irreparable harm to the plaintiffs while he considers their claims.
+
+
+The plaintiffs allege Trump has exceeded his authority under federal law and the U.S. Constitution by effectively dismantling an independent agency and canceling spending authorized by Congress.
+
+
+The plaintiffs have said the administration has not done anything to comply with the restraining order, and some have said they will shut down within days if they are not paid.
+
+
+"The lengths that the government is willing to go to flout a court order, all for the goal of ending life-saving humanitarian assistance, is staggering," said Allison Zieve, a lawyer representing two plaintiffs, AIDS Vaccine Advocacy Coalition and Journalism Development Network, on Wednesday.
+
+
+Other plaintiffs include international development company DAI Global and refugee assistance organization HIAS.
+
+
+Both Ali and a Rhode Island federal judge in a separate case over a broader federal payment freeze have castigated the Trump administration for failing to follow their orders. The administration in both cases has maintained it is trying in good faith to interpret and comply with the orders. 
+
+<br> 
+
+<https://www.voanews.com/a/us-supreme-court-pauses-federal-judge-s-order-on-trump-administration-foreign-aid-funding/7989808.html>
+
+---
+
+## Transgender US service members to be separated from military, Pentagon memo shows
+
+date: 2025-02-27, from: VOA News USA
+
+WASHINGTON — Transgender service members will be separated from the U.S. military unless they receive an exemption, according to a Pentagon memo filed in court on Wednesday, essentially banning them from joining or serving in the military.
+
+
+President Donald Trump signed an executive order last month that took aim at transgender troops in a personal way -- at one point saying that a man identifying as a woman was "not consistent with the humility and selflessness required of a service member."
+
+
+This month, the Pentagon had said that the U.S. military will no longer allow transgender individuals to join and will stop performing or facilitating procedures associated with gender transition for service members.
+
+
+Wednesday's late-evening memo goes further.
+
+
+The memo said that the Pentagon must create a procedure to identify troops who are transgender within 30 days and then within 30 days of that, must separate them from the military.
+
+
+"It is the policy of the United States Government to establish high standards for service member readiness, lethality, cohesion, honesty, humility, uniformity, and integrity," said the memo, dated Feb. 26.
+
+
+"This policy is inconsistent with the medical, surgical, and mental health constraints on individuals with gender dysphoria or who have a current diagnosis or history of, or exhibit symptoms consistent with, gender dysphoria," it added.
+
+
+The military has about 1.3 million active-duty personnel, according to Department of Defense data. Although transgender rights advocates say there are as many as 15,000 transgender service members, officials say the number is in the low thousands. 
+
+<br> 
+
+<https://www.voanews.com/a/transgender-us-service-members-to-be-separated-from-military-pentagon-memo-shows-/7989803.html>
+
+---
+
+## US, Ukraine to sign rare earth minerals deal, Trump says
+
+date: 2025-02-27, from: VOA News USA
+
+US President Donald Trump says Ukrainian President Volodymyr Zelenskyy will be at the White House on Friday to sign an agreement granting the US access to Ukraine’s lucrative rare earth minerals. But Ukraine’s leader says a few outstanding issues remain. White House correspondent Anita Powell reports from Washington. 
+
+<br> 
+
+<https://www.voanews.com/a/us-ukraine-to-sign-rare-earth-minerals-deal-trump-says/7989792.html>
+
+---
+
+## British PM Starmer to meet Trump at White House
+
+date: 2025-02-27, from: VOA News USA
+
+WASHINGTON — British Prime Minister Keir Starmer is set to meet with President Donald Trump at the White House on Thursday to address the ongoing conflict in Ukraine and bilateral trade ties, amid the U.S. leader’s tariff threats on Europe and demands that the continent rely less on Washington for its security.
+
+
+Ahead of their meeting, Trump, who wants NATO members to boost defense spending to 5% of their Gross Domestic Product, reiterated his stance that Europe should "step up." He told reporters at the White House on Wednesday that American taxpayers "shouldn't be footing the bill than – more than the Europeans are paying."
+
+
+In what appears to be a move to appease Trump, on Tuesday, Starmer announced an unexpected increase in the U.K. defense budget to 2.5% of the nation's GDP by 2027, then to 2.6% the following year.
+
+
+"This week when I meet President Trump, I will be clear: I want this relationship to go from strength to strength," Starmer told members of the British Parliament, underscoring what he calls his country’s "most important bilateral alliance," with the U.S.
+
+
+Starmer told reporters Tuesday that the increase in defense spending was "three years in the making," following Russia’s 2022 invasion of Ukraine. The increase will be funded by cutting Britain’s already depleted foreign aid budget to just 0.3% of the country’s GDP.
+
+
+He acknowledged that the decision to ramp up defense spending was "accelerated" as Trump moves to negotiate with Moscow without the involvement of Ukraine or Europeans and made clear he is reducing U.S. support for Europe’s security.
+
+
+"President Trump thinks we should do more, and I agree with him. It chimes with my thinking on this," Starmer said. He said he also aims to further increase defense spending to 3% in the next Parliament, which will begin in 2029 at the latest after the next general election.
+
+
+A key message for Starmer to reinforce is that Europeans must be part of any discussions on Ukraine, said Gesine Weber, a fellow on the German Marshall Fund’s Geostrategy team.
+
+
+"Because it would be very odd to have a situation where you have the burden shift to Europeans, but not the strategic responsibility and the strategic reflections," she told VOA.
+
+
+In 2023, the U.S. spent 3.4% of its GDP on defense, according to U.S. government data compiled by the Stockholm International Peace Research Insititute.
+
+
+European peacekeeping
+
+
+Starmer’s meeting comes on the heels of Emmanuel Macron's White House visit on Monday. The French president has proposed creating a European peacekeeping force in Ukraine as a security guarantee against future Russian aggression, a plan endorsed by Starmer.
+
+
+
+
+Under this scenario, the United States "would do less in normal times, but be available as sort of a backstop," when a crisis breaks, said Michael O’Hanlon of the Brookings Institution.
+
+
+It remains to be seen whether the plan will come to fruition considering the various interests within NATO and European Union, O’Hanlon told VOA.
+
+
+"The most important thing, do these guys get along? Do they have a common vision?" he said of Trump and Starmer, because that could signal the emergence of a Western strategy to end the war with NATO’s support.
+
+
+"If that's the case, then we're in a good position to try to promote a negotiation between Russia and Ukraine," he added.
+
+
+On Wednesday Trump signaled Ukraine should "forget about" a path toward NATO membership and that it should not expect much from Washington.
+
+
+"I’m not going to make security guarantees beyond very much — we’re going to have Europe do that because we’re talking about Europe is their next-door neighbor."
+
+
+Aside from negotiating with Moscow, Trump is also pushing Kyiv for a deal that would allow American access to Ukraine's rare earth minerals and recoup funds given by the Biden administration to support the country’s war efforts.
+
+
+Ukrainian President Volodymyr Zelenskyy is set to meet Trump at the White House on Friday.
+
+
+Tariff threats
+
+
+The visit is a challenge for Starmer as he seeks to balance the U.K.'s interests with those of its European allies while engaging with an unpredictable U.S. administration.
+
+
+He is keen to secure favorable terms amid potential U.S. tariffs that could impact British exports as the U.S. hits European countries with 25% tariffs on steel and aluminum. Trump is threatening more, saying the European Union has been "very unfair" to America.
+
+
+Starmer is "in a bit delicate position" as the U.K. is not part of the European Union single market, said GMF’s Weber.
+
+
+"So for him, the question is basically averting the situation where there are U.S. tariffs and of course also trying to appease Washington in that regard, while he’s also not going on a super confrontational line with the European Union," she said.
+
+
+British finance minister Rachel Reeves said on Wednesday she was confident that U.S.-U.K. trade and investment would not be derailed amid Trump’s tariff threats.
+
+
+VOA's Kim Lewis contributed to this story. 
+
+<br> 
+
+<https://www.voanews.com/a/british-pm-starmer-to-meet-trump-at-the-white-house/7989786.html>
+
+---
+
+## Trump $5 million 'gold card' plan sparks immigration confusion
+
+date: 2025-02-27, from: VOA News USA
+
+Immigration law experts expressed confusion on Wednesday, the day after President Donald Trump announced that the U.S. would begin selling a gold card visa for $5 million that would allow wealthy foreigners to live and work in the U.S. and provide them with "a route to citizenship."
+
+
+In remarks in the Oval Office on Tuesday, Trump and Commerce Secretary Howard Lutnick said the program would begin in two weeks and replace the EB-5 visa program that allows foreign investors to live and work in the U.S. if they invest in companies that create jobs for Americans.
+
+
+The EB-5 visa program, however, was created by an act of Congress in 1990, and it is unclear whether Trump has the authority to do away with it or to establish a new visa program without congressional action.
+
+
+"We have it all worked out from the legal standpoint. It's totally legal to do," Trump said.
+
+
+Questions about legality
+
+
+Immigration lawyers flatly disagreed.
+
+
+"The truth is the president would need Congress to pass an act allowing for this new vehicle," said Michael Wildes, a practicing immigration law attorney who also teaches the subject at Cardozo Law School in New York City.
+
+
+Wildes, who has represented first lady Melania Trump and members of her family in immigration matters, said that so little information has been made available about the program that it is difficult to gauge how large an impact it is likely to have.
+
+
+The information that has been released, however, reflects the president's approach to issues such as immigration, he said.
+
+
+"He will treat people with deeper pockets more handsomely than others," Wildes told VOA. "This is consistent with his ethic."
+
+
+"If the administration is proposing to rework the terms of the EB-5 program, that is blatantly illegal," Jorge Loweree, managing director of programs and strategy for the American Immigration Council, told VOA. "The parameters of that program were designed by our legislative branch. The president can’t rewrite them on a whim."
+
+
+David J. Bier, director of immigration studies at the Cato Institute, wrote "Selling green cards is good in theory, but Trump’s specific proposal has some problems." One, he wrote, is that "President Trump cannot lawfully eliminate Congress’s EB‑5 investor program."
+
+
+The White House did not respond to a request for comment from VOA.
+
+
+Oval Office announcement
+
+
+Trump revealed the plan to a group of reporters in the Oval Office on Tuesday, saying that the new offering would be superior to the document currently issued to foreigners with permanent residency status, commonly known as a green card.
+
+
+"We're going to be selling a gold card," Trump said. "You have the green card? This is a gold card. We're going to be putting a price on that card of about $5 million, and that's going to give you green card privileges plus. It's going to be a route to citizenship, and wealthy people will be coming into our country by buying this card."
+
+
+The president did not explain what privileges a gold card holder would enjoy that green card holders do not. He also did not explain what he meant by a "route to citizenship."
+
+
+Trump said that in addition to wealthy foreigners who want to live in the United States, he believes that U.S. corporations will be willing to buy the cards so that they can hire talented workers from outside the country.
+
+
+"Companies will pay for people to get in and to have long-term status in the country," he said.
+
+
+There are already several pathways available to foreigners who want to come work in the U.S. The H1-B visa program allows thousands of skilled workers into the country every year. In addition, there are several visa programs that allow executives of international companies to live and work in the U.S. if they are transferred to a U.S. office or affiliate.
+
+
+EB-5 program targeted
+
+
+Commerce Secretary Lutnick said Tuesday that the administration plans to discontinue the existing EB-5 visa program, which he described as "full of nonsense, make-believe and fraud."
+
+
+The EB-5 program provides green card status to foreigners who invest $1,050,000 in companies in the U.S. that create at least 10 jobs. The amount can be lowered to $800,000 if the investment is made in certain types of infrastructure or in parts of the country the government has targeted for economic development.
+
+
+Lutnick appeared to say that the $5 million fee for a gold card would not have to go toward job-creating investment; instead, it would go directly into federal coffers.
+
+
+"We can use that money to reduce our deficit," he said.
+
+
+Higher bar for entry
+
+
+Shereen Chen, an immigration attorney who practices in New Jersey, told VOA that for many wealthy foreigners hoping to come to the U.S., the new rules could complicate the process.
+
+
+The current rules include a "stringent vetting program" to ensure that money invested under the EB-5 program was earned legitimately, Chen said. The process is lengthy and difficult and will only become more so, Chen said, if the amount of money being vetted increases fivefold.
+
+
+The new program would have dire implications for Chinese nationals hoping to come to the U.S. While many Chinese have made use of the EB-5 program, tighter monetary controls in China have made doing so increasingly difficult.
+
+
+"Right now, it's very hard for Chinese nationals to use the EB-5 program, even at $1,050,000, because it's very hard for them to get money out of China," Chen said.
+
+
+Common practice
+
+
+The U.S. is far from alone in having policies on its books that allow wealthy foreigners to trade investment for residency privileges.
+
+
+Henley & Partners, a London-based consultancy that advises clients seeking international residency and citizenship options, tracks programs in more than 100 countries that offer some sort of investment-for-residence program.
+
+
+About 30 jurisdictions offer citizenship in exchange for investment, a deal commonly known as a "golden passport." In recent years, the European Union has been pressing member states with such programs to eliminate them out of concern that they abet illegal activity such as tax evasion and money laundering. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-5-million-gold-card-plan-sparks-immigration-confusion/7989783.html>
+
+---
+
+## Survey: Decline in number of US Christians is leveling off
+
+date: 2025-02-27, from: VOA News USA
+
+WASHINGTON  — The number of Americans who identify as Christian has declined steadily for years, but that drop shows signs of slowing, according to a new survey Wednesday from the Pew Research Center.
+
+
+The Religious Landscape Study finds 62% of U.S. adults call themselves Christians. While a significant dip from 2007, when 78% of Americans identified as Christian, Pew found the Christian share of the population has remained relatively stable since 2019.
+
+
+The rapid rise of the religiously unaffiliated — the so-called "nones" — has also reached at least a temporary plateau, according to Pew. Approximately 29% of U.S. adults identify as religiously unaffiliated, including those who are atheist (5%), agnostic (6%) or "nothing in particular" (19%).
+
+
+"It's striking to have observed this recent period of stability in American religion after that long period of decline," said Pew's Gregory Smith, one of the study's co-authors. "One thing we can't know for sure is whether these short-term signs of stabilization will prove to be a lasting change in the country's religious trajectory."
+
+
+By some measures, the U.S. remains overwhelmingly spiritual. Many Americans have a supernatural outlook, with 83% believing in God or a universal spirit and 86% believing that people have a soul or spirit. About seven in 10 Americans believe in heaven, hell or both.
+
+
+Young adults are less religious than their elders
+
+
+Despite this widespread spirituality, there are harbingers of future religious decline. Most notably, Pew found a huge age gap, with 46% of the youngest American adults identifying as Christian, compared to 80% of the oldest adults. The youngest adults are also three times more likely than the oldest group to be religiously unaffiliated.
+
+
+"These kinds of generational differences are a big part of what's driven the long-term declines in American religion," Smith said. "As older cohorts of highly religious, older people have passed away, they have been replaced by new cohorts of young adults who are less religious than their parents and grandparents."
+
+
+Michele Margolis, a University of Pennsylvania political scientist not affiliated with the Pew survey, has studied how religious involvement changes over a lifetime.
+
+
+Young adults frequently move away from religion. "Then when you get married and have kids, this is a time where scholars have noted that religion is more likely to become important," Margolis said.
+
+
+Margolis said one question going forward is whether the youngest American adults firmly reject organized religion, or if some of them will return to the religious fold as they age.
+
+
+Between 2007 and 2024, Pew religious landscape studies haven't indicated that Americans are growing more religious as they get older.
+
+
+Smith at Pew said "something would need to change" to stop the long-term decline of American religion, whether that's adults becoming more religious with age or new generations becoming more religious than their parents.
+
+
+How partisan politics intertwines with religious identity
+
+
+The long-term decline of U.S. Christianity and rise of the "nones" has occurred across traditions, gender, race, ethnicity, education and region. But it is much more evident among political liberals, according to Pew. The survey shows 51% of liberals claim no religion, up 24 points from 2007. Only 37% of U.S. liberals identify as Christian, down from 62% in 2007.
+
+
+Penny Edgell, a University of Minnesota sociologist and expert adviser for the Pew study, said this religious and political sorting aligns with whether people "support traditional, patriarchal gender and family arrangements."
+
+
+Edgell also notes that Black Americans defy the assumption that all Democrats are less religious than Republicans.
+
+
+"More Black Americans percentagewise are Democrats, but their rates of religious involvement are still really high," Edgell said. "That has something to do with the way that religious institutions and politics have been intertwined in historically unique ways for different groups."
+
+
+Roughly seven in 10 Black Protestants told Pew that religion is very important to them — about the same rate as evangelicals and members of The Church of Jesus Christ of Latter-day Saints. But Black Protestants are likely to identify as Democrats (72%), whereas evangelicals and Latter-day Saints are likely to identify as Republican (70% and 73%, respectively).
+
+
+The Pew survey tracks many religious traditions
+
+
+It's been nearly 10 years since the last Religious Landscape Study, which tracks religious data that the U.S. census does not.
+
+
+The new survey found that a majority of immigrants to the U.S. are Christian (58%), but they also follow the upward trend of the religiously unaffiliated, with a quarter of foreign-born U.S. adults claiming no religion.
+
+
+The number of Americans who belong to religions besides Christianity has been increasing, though it's still a small portion of the population (7%). That includes the 2% who are Jewish, and the 1% each who are Muslim, Buddhist or Hindu.
+
+
+Of U.S. Christian adults, 40% are Protestant and 19% are Catholic. The remaining 3% in Pew's survey include Latter-day Saints, Orthodox Christians, Jehovah's Witnesses and smaller Christian groups.
+
+
+The two largest Protestant denominations in the Pew survey remain the Southern Baptist Convention and the United Methodist Church – though both have lost many members since the first Religious Landscape Study in 2007.
+
+
+The Pew Religious Landscape Study was conducted in English and Spanish between July 2023 and March 2024, among a nationally representative sample of 36,908 respondents in all 50 states and the District of Columbia. The survey's margin of error for results based on the full sample is plus or minus 0.8 percentage points. 
+
+<br> 
+
+<https://www.voanews.com/a/survey-decline-in-number-of-us-christians-is-leveling-off/7989782.html>
+
+---
+
+## NYC resists federal call to stop its tolls to prevent traffic congestion
+
+date: 2025-02-27, from: VOA News USA
+
+The Trump administration wants New York City to end its congesting pricing, an automatic toll program designed to reduce the bumper-to-bumper traffic in the city’s business area from 60th Street and below. But New York’s governor is fighting back.
+
+
+In a letter dated Feb. 20 and made public Wednesday, Gloria Shepherd, executive director of the Federal Highway Administration (FHWA), informed New York City and state transportation officials that FHWA officials would contact them "to discuss the orderly cessation of toll operations" under the Central Business District Tolling Program. Shepherd said termination of the program should be effective March 21.
+
+
+New York Governor Kathy Hochul and the Metropolitan Transit Authority have filed a lawsuit to prevent ending the toll operation that the federal authorities approved and that has yielded millions of dollars for New York City since it began in January.
+
+
+Hochul told a recent MTA board meeting that while the federal government has called for an "orderly cessation" of the program, she is proposing "orderly resistance."
+
+
+"I guarantee that the president has never had to endure missing a child's sporting event because they were stuck on a delayed train. Never had to stand in a flooded subway station because we were not able to make the repairs. Not sitting in traffic, missing an important meeting because you couldn't get around," Hochul told the MTA board.
+
+
+The congestion pricing program began Jan. 5. The revenue from the tolls from Jan. 5 to Jan. 31 totaled $48.66 million, with a net of $37.5 million.
+
+
+The toll program is on track to generate about $500 million for the MTA by year's end, MTA CEO Janno Lieber said, allowing the authority to progress with its plans for bus, subway and transit improvements.
+
+
+Some information for this report came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/nyc-resists-federal-call-to-stop-its-tolls-to-prevent-traffic-congestion/7989739.html>
+
+---
+
+## Trump ends permit to export Venezuelan oil to US
+
+date: 2025-02-27, from: VOA News USA
+
+CARACAS, VENEZUELA  — A permit issued by the United States government allowing energy giant Chevron Corp. to pump and export Venezuelan oil will be terminated this week, President Donald Trump announced Wednesday, ending what became a financial lifeline for the South American country.
+
+
+Trump's announcement in his Truth Social network accused the government of President Nicolás Maduro of not meeting democratic conditions for last year's July presidential election as well as of not moving fast enough to transport back to Venezuela immigrants set for deportation.
+
+
+"We are hereby reversing the concessions that Crooked Joe Biden gave to Nicolas Maduro, of Venezuela, on the oil transaction agreement," Trump wrote.
+
+
+Trump's post did not specifically mention California-based Chevron nor the permit, formally known as a general license, that exempts the company from economic sanctions and allows it to export and sell Venezuelan oil in the U.S. But it is the only Venezuela-related license whose issuance and renewal information match the dates Trump did mention in his social media post.
+
+
+The administration of President Joe Biden authorized the license in 2022 after Maduro agreed to work with Venezuela's political opposition toward a democratic election. But the election, which took place in July 2024, was neither fair nor free, and Maduro was sworn in last month for a third six-year term despite credible evidence that his opponent got more votes.
+
+
+Biden's government resisted for months calls from Venezuela's opposition and others to rescind the license, whose goal the U.S. initially said was "to support the restoration of democracy." The opposition has estimated that Maduro's government has received about $4 billion through the permit, which was set to be renewed Saturday.
+
+
+Over time, the license has become responsible for roughly a quarter of Venezuela's oil production.
+
+
+"We are aware of today's announcement and are considering its implications," Chevron spokesperson Bill Turenne said in a statement. "Chevron conducts its business in Venezuela in compliance with all laws and regulations, including the sanctions framework provided by U.S. government."
+
+
+Venezuela sits atop the world's largest proven oil reserves and once used them to power Latin America's strongest economy. But corruption, mismanagement and eventual U.S. economic sanctions saw production decline steadily.
+
+
+More than 7.7 million Venezuelans have left their homeland since 2013, when the oil-dependent economy came undone, and Maduro became president. Most settled in Latin America and the Caribbean, but after the pandemic, they increasingly set their sights on the U.S.
+
+
+Chevron, which first invested in Venezuela in the 1920s, does business in the country through joint ventures with the state-owned company Petroleos de Venezuela S.A., commonly known as PDVSA.
+
+
+The joint ventures produced about 200,000 barrels of oil a day in 2019. The following year, U.S. sanctions imposed by Trump's first administration to try to topple Maduro forced Chevron to wind down production. When the company got the license to export oil to the U.S. in November 2022, the joint ventures quickly began producing 80,000 barrels a day, and by 2024, they topped their daily output from 2019.
+
+
+The terms of the license bar Chevron from directly paying taxes or royalties to Venezuela's government. But the company sends money to the joint ventures, which are majority-owned by PDVSA.
+
+
+It is unclear how Maduro's government used that money, because it stopped publishing almost all financial data several years ago. On Wednesday, opposition leader Maria Corina Machado in a podcast interview with Trump's son, Donald Trump Jr., accused Maduro of using the funds for "for repression, persecution and corruption."
+
+
+"This is a huge step, and it sends a clear, clear, firm message that Maduro is in huge trouble," she said. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-ends-permit-to-export-venezuelan-oil-to-us/7989727.html>
+
+---
+
+## Trump orders large federal layoffs; Musk to seek deeper spending cuts
+
+date: 2025-02-27, from: VOA News USA
+
+washington — U.S. President Donald Trump's administration on Wednesday ordered federal agencies to undertake more large-scale layoffs of federal workers, as downsizing czar Elon Musk vowed at Trump's first Cabinet meeting to pursue deeper spending cuts.
+
+
+A new administration memo instructed agencies to submit plans by March 13 for a "significant reduction" in staffing to the federal workforce. It did not specify numbers of desired layoffs.
+
+
+The memo, signed by White House budget director Russell Vought and Office of Personnel Management acting head Charles Ezell, represents a major escalation in Trump and Musk's campaign to slash the size of the U.S. government.
+
+
+Thus far, the layoffs have focused on probationary workers, who have less tenure in their current roles and enjoy fewer job protections. The next round would target the vastly bigger pool of veteran civil servants.
+
+
+At the Cabinet meeting, Trump said Lee Zeldin, the Environmental Protection Agency administrator, plans to cut up to 65% of his more than 15,000 employees.
+
+
+On Tuesday, an Interior Department source told Reuters that bureaus such as the U.S. Fish and Wildlife Service and the Bureau of Indian Affairs should prepare for workforce reductions ranging from 10% to 40%.
+
+
+About 100,000 of the nation's 2.3 million civilian federal workers have been fired or taken buyouts since Trump took office.
+
+
+Trump gave Musk an extraordinary sign of support for the cost-cutting campaign by inviting the billionaire to the Cabinet meeting and asking him to speak about the work of his Department of Government Efficiency, which is overseeing the overhaul. DOGE is not a Cabinet-level department.
+
+
+Musk expressed confidence that he could cut the $6.7 trillion budget by $1 trillion this year. Such an ambitious target would likely entail significant disruption of government programs.
+
+
+Without such deep spending cuts, Musk said, "the country will go de facto bankrupt."
+
+
+
+
+Later Wednesday, Trump signed an executive order directing agencies to work with DOGE to review and terminate all "unnecessary" contracts and instructing the General Services Administration, which manages the government's real estate, to create a plan for disposing of any unneeded property.
+
+
+Thus far, Trump and Musk have failed to slow the rate of spending. According to a Reuters analysis, the government spent 13% more during Trump's first month in office than during the same time last year, largely because of higher interest payments on the debt and rising health and retirement costs incurred by an aging population.
+
+
+Trump reiterated his promise to refrain from cutting popular health and retirement benefits that account for nearly half of the budget.
+
+
+"We're not going to touch it," Trump said.
+
+
+Trump is simultaneously pushing Congress to extend the 2017 tax cuts, the signature legislative accomplishment of his first term, which are set to expire at year's end. The nonpartisan Committee for a Responsible Federal Budget estimates the 2017 cuts added $2.5 trillion to the nation's debt — now $36 trillion. It estimated that extending the tax cuts could cost more than $5 trillion over a decade.
+
+
+Republicans are weighing cuts to health care and food aid for the poor to help pay for the tax cuts, though specifics have not yet emerged.
+
+
+Workers ‘on the bubble’
+
+
+Some of the Cabinet secretaries were taken by surprise over the weekend when federal workers received an email requiring them to list their accomplishments for the week, a demand that Musk said would result in termination if ignored.
+
+
+Some agencies told employees to ignore the directive, prompting days of confusion over whether Musk and Trump could make good on the threat.
+
+
+Musk, the world's richest person, told the Cabinet meeting his email was an attempt to find out whether government paychecks were going to actual workers.
+
+
+"We think there are a number of people on the government payroll who are dead," he said, without providing evidence.
+
+
+Trump suggested that the roughly 1 million workers who did not respond to Musk's email might be at risk of losing their jobs.
+
+
+"They are on the bubble," he said, using a term that refers to a situation that has an uncertain outcome.
+
+
+Trump and Musk's unprecedented government overhaul has also frozen foreign aid and disrupted construction projects and scientific research.
+
+
+The GSA, informally known as the government's landlord, plans to terminate 1,100 leases for office space by the end of the year, according to a person briefed on the matter. 
+
+<br> 
+
+<https://www.voanews.com/a/trump-orders-large-federal-layoffs-musk-to-seek-deeper-spending-cuts/7989725.html>
+
+---
+
+## An asteroid miss and the WaPo opinion shift
+
+date: 2025-02-27, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Kai has been tracking news about a giant asteroid heading toward Earth. NASA says we&#8217;re safe, for now! But first, the hosts discuss troubling trends in the news business and a shift in who gets to exert control over media narratives. And, we&#8217;re keeping a close eye on growing fears over possible layoffs.</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.bloomberg.com/news/articles/2025-02-26/us-workers-cite-growing-layoff-fear-in-philadelphia-fed-survey" target="_blank" rel="noreferrer noopener">“US Workers Cite Growing Layoff Fear in Philadelphia Fed Survey”</a> from Bloomberg<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://www.bbc.com/news/articles/ce30n52e6p1o" target="_blank" rel="noreferrer noopener">“White House takes control of press pool that covers Trump”</a> by BBC<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.theguardian.com/media/2025/feb/26/jeff-bezos-washington-post-opinion" target="_blank" rel="noreferrer noopener">“Washington Post opinion editor departs as Bezos pushes to promote ‘personal liberties and free markets’”</a> by The Guardian<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.wired.com/story/costa-rica-forest-conservation-sounds/" target="_blank" rel="noreferrer noopener">“Costa Rica Is Saving Forest Ecosystems by Listening to Them”</a> from Wired<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.nytimes.com/2025/02/24/science/asteroid-2024-yr4.html" target="_blank" rel="noreferrer noopener">“NASA Gives ‘All Clear’ for Asteroid That Seemed to Threaten Earth”</a> by The New York Times</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/26/mms_20250226_Make_Me_Smart_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fan-asteroid-miss-and-the-wapo-opinion-shift&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/26/mms_20250226_Make_Me_Smart_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fan-asteroid-miss-and-the-wapo-opinion-shift&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/an-asteroid-miss-and-the-wapo-opinion-shift>
+
+---
+
+## VOA Spanish: What is 'reverse flow' migration and what are risks of going back?
+
+date: 2025-02-27, from: VOA News USA
+
+First, they crossed the Darien Gap in the hope of reaching the United States.  
+
+
+Now, many are returning in what authorities call a "reverse flow" of migration.  
+
+
+What is behind this phenomenon and what risks does it entail? 
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-what-is-reverse-flow-migration-and-what-are-risks-of-going-back-/7989429.html>
+
+---
+
+## Daily Roundup: February 26. We want to hear from you! 
+
+date: 2025-02-26, from: The Contrarian
+
+Sen. Sheldon Whitehouse; Max Stier; Jen Rubin with Susanne Craig & Russ Buettner; Nick Anderson; Carron J. Phillips; Rep. Ritchie Torres talks to Jen Rubin; and Jennifer Weiss-Wolf. 
+
+<br> 
+
+<https://contrarian.substack.com/p/daily-roundup-february-26-we-want>
+
+---
+
+## Clint Hill, Secret Service agent who dove to protect Kennedy, dies at 93
+
+date: 2025-02-26, from: VOA News USA
+
+Special Agent Clint Hill, a member of the Secret Service detail assigned to protect President John F. Kennedy the day he was assassinated in Dallas, Texas, has died at age 93. VOA’s Kane Farabaugh, who interviewed Hill several times over the years, has the story. 
+
+<br> 
+
+<https://www.voanews.com/a/clint-hill-secret-service-agent-who-dove-to-protect-kennedy-dies-at-93/7989400.html>
+
+---
+
+## With Ukraine mineral deal, the U.S. continues efforts to bolster its own supply — and lessen dependence on China
+
+date: 2025-02-26, from: Market Place
+
+Ukraine would get U.S. support for security guarantees. For its part, the U.S. could weaken its own dependence on China for technologically-necessary materials. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/26/with-ukraine-mineral-deal-the-u-s-continues-efforts-to-bolster-its-own-supply-and-lessen-dependence-on-china/>
+
+---
+
+## U.S. turn toward Russia threatens deep economic ties with Europe
+
+date: 2025-02-26, from: Market Place
+
+"NATO is one side of the coin. Economic ties are the other side of the coin," said Neil Irwin of Axios. "Both sides are tarnished right now." 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/26/u-s-turn-toward-russia-threatens-deep-economic-ties-with-europe/>
+
+---
+
+## Trump’s Executive Order on IVF is Full of Red Flags
+
+date: 2025-02-26, from: The Contrarian
+
+The administration&#8217;s latest statement on reproductive rights is a Trojan horse for future harm 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-executive-order-on-ivf-is>
+
+---
+
+## One consequence of government spending cuts? Lower GDP
+
+date: 2025-02-26, from: Market Place
+
+Government spending is built into the formula for calculating GDP. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/26/federal-spending-cuts-lower-gdp-gross-domestic-product-economy-investmen/>
+
+---
+
+## Instacart’s shaky forecast raises questions for the future of grocery delivery
+
+date: 2025-02-26, from: Market Place
+
+With retailers like Kroger and Walmart growing their own services, grocery delivery has become a crowded market. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/26/instacarts-shaky-forecast-raises-questions-for-the-future-of-grocery-delivery/>
+
+---
+
+## US lawmakers seek compromise on government funding bills
+
+date: 2025-02-26, from: VOA News USA
+
+U.S. President Donald Trump addressed concerns Wednesday that legislation funding the federal government past a March 14 deadline would include controversial cuts to social safety net programs such as Medicaid and Social Security. 
+
+
+"We're not going to touch it," Trump told reporters, "Now we are going to look for fraud. I'm sure you're OK with that, like people that shouldn't be off, people that are illegal aliens and other criminals."  
+
+
+Those cuts are one of the issues lawmakers are racing to resolve before a short-term spending bill runs out in just over two weeks. The House of Representatives passed a budget resolution 217-215 late Tuesday when Speaker of the House Mike Johnson secured enough votes from within his party.  
+
+
+"We promised to deliver President [Donald] Trump's full agenda, not just a part of it, not just a little bit of it now and return for the rest," Johnson told reporters earlier Tuesday.   
+
+
+The House and Senate bills will now have to be compromised to be signed into law.  
+
+
+Before the vote, several members of the House Republican conference were still concerned about the size of the spending measure, how and when to enact a proposed extension of the 2017 tax cuts, and the political impact of cutting social safety net programs that benefit many American voters.    
+
+
+"Not only are we working to find savings for the American taxpayer, a better, more efficient use of their dollar, which we are morally obligated to do, we also have a moral obligation to bend the curve on the debt," Johnson said Tuesday.   
+
+
+Trump has called for lawmakers to pass "one big, beautiful bill" that will be a key part of enacting his domestic policy agenda.   
+
+
+Despite Trump expressing his preference for the House version of the budget, the Senate last week passed a funding resolution that provides $150 billion in military funding and $175 billion for border security. That measure also avoids the controversial Medicaid cuts of the House version.   
+
+
+In a statement Wednesday, Senate Budget Committee Chairman Lindsey Graham warned, "Time is of the essence when it comes to border security. ICE will run out of money in weeks, not months. Stalling President Trump's border security agenda is not only bad politics, it is dangerous." 
+
+
+Trump posted on Truth Social last week that "The House and Senate are doing a SPECTACULAR job of working together as one unified, and unbeatable, TEAM, however, unlike the Lindsey Graham version of the very important Legislation currently being discussed, the House Resolution implements my FULL America First Agenda, EVERYTHING, not just parts of it!"   
+
+
+If lawmakers cannot reach a compromise by March 14, there will be a partial government shutdown, leaving millions of federal employees temporarily without pay and suspending some nonessential government services.      
+
+
+Senate Majority Leader John Thune did not rule out the possibility of another short-term spending bill to give lawmakers more time to work.   
+
+
+"We're keeping all the options on the table, but we are running out of time," Thune told reporters Tuesday.   
+
+
+The Senate moved forward with a vote on its version of the budget due to uncertainty over the potential success of the vote on the House version.      
+
+
+Senate Minority Leader Chuck Schumer characterized the vote as a first step toward hurting voters.      
+
+
+"Last night, almost every single House Republican signed their names to what would be the largest Medicaid cuts in American history. The havoc, the damage that would do to tens of millions of American families would be almost unprecedented when it comes to Medicaid," Schumer said on the Senate floor Wednesday. 
+
+
+"The Republican agenda is quickly taking shape: Under Donald Trump's Republican Party, billionaires win, American families lose," Schumer said. 
+
+<br> 
+
+<https://www.voanews.com/a/us-lawmakers-seek-compromise-on-government-funding-bills/7989287.html>
+
+---
+
+## Congressman Ritchie Torres and Jen Rubin discuss the government spending bill
+
+date: 2025-02-26, from: The Contrarian
+
+Yesterday, the House passed a budget bill that includes $4.5 trillion in tax cuts. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157977549/66cf63b66978273ff76c9b78d88b370f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157977549/66cf63b66978273ff76c9b78d88b370f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/congressman-ritchie-torres-and-jen>
+
+---
+
+## The Philadelphia Eagles are willing to visit Trump’s White House (deep sigh)
+
+date: 2025-02-26, from: The Contrarian
+
+It used to mean something when championship teams declined Trump. That was then, this is now. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-philadelphia-eagles-are-willing>
+
+---
+
+## Security experts highlight pros, cons of Ukraine-US minerals deal
+
+date: 2025-02-26, from: VOA News USA
+
+Ukraine and the United States are set to sign a landmark minerals agreement, marking a significant step toward strengthening economic ties between the two nations. However, security experts tell VOA that concerns persist about the broader implications of the deal. 
+
+
+Ukraine’s Cabinet of Ministers approved the agreement Wednesday and U.S. President Donald Trump confirmed that Ukrainian leader Volodymyr Zelenskyy will visit the White House on Friday to sign it.
+
+
+The deal includes provisions for the co-ownership and management of a post-war reconstruction fund for Ukraine, to which Ukraine will allocate 50% of future revenues from the country’s natural resources. 
+
+
+The agreement states that the U.S. will maintain a “long-term financial commitment to the development of a stable and economically prosperous Ukraine.” 
+
+
+
+
+The deal makes no direct reference to efforts to end Russia’s invasion of Ukraine, though, or about future security arrangements for the Eastern European country, apart from a single line: “The Government of the United States of America supports Ukraine’s efforts to obtain security guarantees needed to establish lasting peace.” 
+
+
+While the deal aims to unlock Ukraine’s mineral wealth and bolster its economic recovery, security experts warn it may fall short in addressing Ukraine’s ongoing security challenges amid continued Russian aggression. 
+
+
+American business perspective 
+
+
+Andy Hunder, president of the American Chamber of Commerce in Ukraine, explained to VOA by telephone that the deal aims to establish a new American-Ukrainian fund, focusing on state-owned enterprises and Ukraine's rich subsoil resources, including gas, oil, and critical minerals.
+
+
+A representative of American business in Ukraine, Hunder expressed optimism about the agreement's potential impact: "We’re excited. Professional fund managers can turn these enterprises profitable very quickly. This is a win-win for both Ukrainian and American taxpayers,” he told VOA on Wednesday. 
+
+
+Hunder said the fund could unlock profits rapidly by introducing professional management to Ukraine's state-owned enterprises, which currently face mismanagement issues. 
+
+
+“Ukraine has the second highest number of state-owned enterprises in the world, many of which are being managed, or some are being mismanaged, by the Ukrainian state. So, I think we get new professional fund managers into these entities, and this is where you could seal profits and turn them around very, very quickly,” he said.  
+
+
+Hunder revealed that discussions about Ukrainian economic potential were high on the agenda between the two countries in 2024, “[s]tarting when Senator Lindsey Graham came in March and May of 2024, and we have looked into this, and we see opportunity.”  
+
+
+"To take advantage of this opportunity, the war must end, and this deal, in his view, is a step toward a peaceful solution. I think this is really what the new administration under President Trump is focusing on — finding ways to stop the killing of Ukrainians by the Russians. We do expect a ceasefire this year, in 2025, and now is the time when Ukraine will present the biggest opportunity, the largest recovery, and the reconstruction of a nation in Europe since World War II,” he said to VOA. 
+
+
+Roman Opimakh, former general director of the Ukrainian Geological Survey. agrees the deal could benefit both countries.
+
+
+It will help the U.S. to diversify its rare metal supply and “decrease dependence on China,” he said. For Ukraine, he said, the deal could enable post-war re-industrialization and economic growth. We can renew the industrial potential of our country and actually increase the role of Ukraine globally,” Opimakh said by phone.  
+
+
+
+
+While the deal indicates strong U.S. interest in Ukraine's economic future, security experts caution that it is not a comprehensive solution to Ukraine’s security challenges. 
+
+
+Former defense minister Andriy Zagorodnyuk, now the chairman of the Center for Defense Strategies in Ukraine, told VOA in a phone call the deal has broader implications: "The U.S. framed this deal as a demonstration of vested interest in Ukraine, signaling support for Ukrainian stability. Investments of this scale serve as anchor investments, potentially attracting more resources to Ukraine’s economy."  
+
+
+Zagorodnyuk cautioned that economic ties are “not enough” to guarantee Ukrainian sovereignty in the face of Russian aggression. To deter future attacks, Ukraine needs military power — either on its own or in partnership with NATO and European allies, he stated to VOA.   
+
+
+“We recognize that Russia might be attempting to manipulate the situation and convey to Trump's administration that even if they continue their aggression for any reason, they would still respect American interests or something like that,” he said.   
+
+
+Asked by VOA what Ukraine needs from the U.S. for long-term security, Zagorodnyuk said ideally, the country would have NATO. However, “if NATO isn’t an option, there should be a package that enables Ukraine to defend against aggression. This package must be robust, and that strength needs to be clear to [Russian President Vladimir] Putin,” he said. 
+
+
+Agreement details  
+
+
+According to VOA sources, who cannot be named because they are not authorized to speak about the matter, negotiations concerning the details of the deal continued right up to the Cabinet ministers’ meeting late Wednesday afternoon, Kyiv time. 
+
+
+According to news reports, Ukraine negotiated more favorable terms than the U.S. originally proposed, bringing down an initial U.S. demand for a $500 billion claim on its natural resources.  
+
+
+The deal does not include explicit U.S. security guarantees, which Kyiv had originally sought. The U.S. will maintain decision-making authority within the fund under its own legal framework, with ownership terms to be defined in later agreements. 
+
+
+Geopolitical ramifications 
+
+
+Despite praising the agreement as a step toward strengthening Ukraine's economy, Trump sparked controversy recently by labeling Zelenskyy a "dictator” without elections and pressuring him to finalize the deal quickly. The U.S. administration has described the deal as a way for the U.S. to recover tens of billions of dollars in military aid sent to Ukraine.  
+
+
+The question remains whether this economic partnership also can foster lasting peace and stability in Ukraine. 
+
+<br> 
+
+<https://www.voanews.com/a/security-experts-highlight-pros-cons-of-ukraine-us-minerals-deal-/7989174.html>
+
+---
+
+## Elon Musk’s Slash-and-Burn Approach Is Bound to Cause Mayhem, Efficiency Experts Say
+
+date: 2025-02-26, from: Capital and Main
+
+<p>There are much more effective ways to improve government than cutting “to the bone.”</p>
+<p>The post <a href="https://capitalandmain.com/elon-musks-slash-and-burn-approach-is-bound-to-cause-mayhem-efficiency-experts-say">Elon Musk&#8217;s Slash-and-Burn Approach Is Bound to Cause Mayhem, Efficiency Experts Say</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/elon-musks-slash-and-burn-approach-is-bound-to-cause-mayhem-efficiency-experts-say>
+
+---
+
+## Susanne Craig, Russ Buettner, and Jen Rubin on Trump's financial feints 
+
+date: 2025-02-26, from: The Contrarian
+
+Jen Rubin joins Pulitzer Prize winners and co-authors Susanne Craig and Russ Buettner to explain how Trump 2.0 could be predicted by studying his lifelong business strategy of &#8216;fake it &#8216;til you make it&#8217;. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157969097/18a8c1a2852e4c64e95f4f7d68a3fe9d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/157969097/18a8c1a2852e4c64e95f4f7d68a3fe9d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/susanne-craig-russ-buettner-and-jen>
+
+---
+
+##  Google’s New Private Tax 
+
+date: 2025-02-26, from: The Lever News
+
+ With little fear of competition, the tech giant is jacking up prices for its cloud-based software as it aims for another monopoly  
+
+<br> 
+
+<https://www.levernews.com/googles-new-private-tax-2/>
+
+---
+
+## US, Ukraine to sign rare earth minerals deal, Trump says
+
+date: 2025-02-26, from: VOA News USA
+
+President Donald Trump said Wednesday that he and Ukrainian President Volodymyr Zelenskyy would sign a deal giving the United States substantial rights to Kyiv's lucrative rare earth minerals and compensate Washington for weapons sent to Ukraine to fight Russia's three-year war of aggression.
+
+
+Zelenskyy will be at the White House on Friday to sign the pact and discuss the state of the war, Trump said at the first Cabinet meeting of his new presidential term.
+
+
+The deal "brings us great wealth," Trump said, but his first goal is to end the war, which has killed or wounded several hundred thousand Russian and Ukrainian soldiers and Ukrainian civilians.
+
+
+"My No. 2 thing is to get paid back," Trump said of the more than $100 billion in munitions Washington has shipped to Kyiv to support its fighters. "Without our equipment, that [war] would have been over very quickly," with Russia overrunning Ukraine.
+
+
+As it is, Russia now controls about a fifth of Ukraine's internationally recognized territory and has vowed to not give any of it back in a would-be peace settlement.
+
+
+
+
+Trump said he expected to eventually reach a deal with Zelenskyy and Russian President Vladimir Putin to end the fighting. Trump initiated talks with Putin about ending the conflict, but the first discussions last week between the top U.S. and Russian diplomats, U.S. Secretary of State Marco Rubio and Russian Foreign Minister Sergey Lavrov, excluded Ukrainian and European officials.
+
+
+"Because I got elected, this war is going to come to an end," Trump declared. He said Putin "had no intention of settling this. We're going to have a deal."
+
+
+Analysts said this deal was part of Zelenskyy's original peace formulation.
+
+
+"So, it is difficult for the Ukrainian government to completely go back on the offer," said Olena Prokopenko, a senior fellow at the German Marshall Fund and a former adviser to Ukraine's finance minister.
+
+
+"Unfortunately, the draft deal offered to Ukraine in response to this proposal was quite disappointing and quite one-sided. But now that the arrangement seems to be much more balanced, the Ukrainian government is ready to sign it," she said.
+
+
+Prokopenko said she expected some finessing before the deal was signed.
+
+
+"There's some progress in terms of mentioning guarantees as a factor, but it will have to be much more detailed in the final deal, because at the moment there is no specific connection, basically, between security and investments," she said. "As of now, it looks like an investment deal, but not as a security deal."
+
+
+Trump also said Wednesday that Ukraine "could forget about" joining NATO, the West's main military alliance, as part of a peace settlement.
+
+
+
+
+In Kyiv, Zelenskyy said at a news conference that the framework for the rare earth mineral deal was complete, but that U.S. security guarantees for Ukraine that the Kyiv government views as vital had yet to be settled.
+
+
+Trump has long expressed skepticism about continued U.S. military support for Ukraine. Last year, he refused to say he wanted Ukraine to win the war.
+
+
+Trump has called Zelenskyy a dictator and falsely accused Ukraine of having started the war with Russia.
+
+
+The U.S. leader has said he is particularly peeved that former President Joe Biden agreed to the Ukraine military assistance without any provision that Ukraine would pay back the cost. Biden led the coalition of Western allies in providing the military aid as a way to fight Russian aggression without sending their own troops to fight alongside Ukrainian forces.
+
+
+The U.S. military aid was a grant and not a loan that needed to be repaid, Zelenskyy said, but now he has agreed to the deal for the rare earth minerals needed for manufacturing technology products.
+
+
+Zelenskyy said he expected to have wide-ranging, substantive discussions with Trump.
+
+
+
+
+"I want to coordinate with the U.S.," Zelenskyy said.
+
+
+The Ukrainian leader said he wanted to know whether the U.S. planned to halt military aid and, if so, whether Ukraine would be able to purchase weapons directly from the U.S. He said he also wanted to know whether Ukraine could use frozen Russian assets for weapons investments and whether Washington planned to lift its economic sanctions on Russian entities and high-level associates and friends of Putin.
+
+
+Earlier, Ukrainian Prime Minister Denys Shmyhal told the country's public television channel that the agreement set out terms and conditions of an investment fund for the rebuilding of Ukraine.
+
+
+Under terms of the deal, 50% of proceeds from Ukraine's minerals, oil and gas would go toward creating a "stable and economically prosperous Ukraine" if the war is ended, and half would go to a U.S.-controlled fund.
+
+
+The economic agreement, seen by The Associated Press, includes a line that says the U.S. "supports Ukraine's effort to obtain security guarantees needed to establish lasting peace" but does not spell out what that might entail.
+
+
+British Prime Minister Keir Starmer is meeting with Trump on Thursday in Washington to spell out a European initiative for a 30,000-person peacekeeping force to enforce a Russian ceasefire with Ukraine if such a truce can be reached, although no peace talks have been scheduled.
+
+
+European leaders have said a peacekeeping force would require an American "backstop" of military assistance, such as American satellite surveillance or air support.
+
+
+Trump has not committed the U.S. to such a plan but on Wednesday called the peacekeeping force "a good thing."
+
+
+Some information for this report came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/us-ukraine-near-minerals-deal-but-security-issues-unsettled/7989012.html>
+
+---
+
+## New app lets homebuyers know about future neighbor’s politics
+
+date: 2025-02-26, from: VOA News USA
+
+Most homebuyers get to know the people who live next door after they move in. But a new real estate app allows future homebuyers to learn a potential neighbor’s political leanings before they make what, for many people, is the biggest purchase of their life.
+
+
+“The purpose of Oyssey [the app] is to democratize data for buyers in their home search experience … to get you, as a prospective buyer, a feel for the area and community,” says Darian Kelly, co-founder of Oyssey. “It's to get you to the understanding of, when I move here, these are the type of people that I might be inviting over for dinner. The type of people that I will be raising my child alongside.”
+
+
+The Oyssey data is pulled from sources like election results, campaign contributions and information from marketing research firms.
+
+
+The app has only launched in Florida and New York so far, but its founders say they expect to take it nationwide later this year. Realtors subscribe to Oyssey and then give their homebuyer clients access to the service.
+
+
+
+
+For the initial launch, the platform breaks down political affiliation block by block, but Kelly says potential homebuyers will eventually be able to look up whether their prospective new neighbor is a registered Democrat or Republican.
+
+
+Ben McCartney, an assistant professor of commerce at the University of Virginia, co-authored a study published in 2024 that found that 1 of every 100 moves is politically motivated, and that the people most likely to relocate for this reason tend to be less involved in politics.
+
+
+“They don't want politics to be part of their everyday life, but then they get a new neighbor, and that new neighbor is not only very politically vocal, but also affiliated with the opposite party, and there's where we see the strongest tensions arise,” McCartney says.
+
+
+
+
+The study found that current residents are slightly more likely to move away if they get new neighbors with different political views than if the new neighbor is affiliated with the same political party.
+
+
+“So, political polarization isn't just a social media phenomenon but is affecting real economic decisions, as well,” McCartney says.
+
+
+The study found the numbers of Democrats and Republicans who wanted to move away from neighbors with different political views to be roughly even. That’s why an app like Oyssey makes sense to McCartney.
+
+
+“People do seem to care about the political identities of their new neighbors, so I'm not surprised that some company is now selling that information, or providing that information, to would-be buyers,” he says. “And I tend to be supportive of policies that make it easier for people to make informed decisions.”
+
+
+
+
+The Oyssey platform also provides other data relating to quality of life for the individual homebuyer, such as where to find the most dog parks.
+
+
+“Where is the area with the most registered dogs throughout their state or county?” Kelly says. “And we can try to get an idea and figure out where do the dogs live, because as a pet owner, that’s where I want to be.”
+
+
+He dismisses any suggestion that Oyssey could contribute to deepening America’s political divide.
+
+
+“I actually get upset by the question. … I think the question makes the assumption that you shouldn't be the driver, you shouldn't be the writer of your own story,” Kelly says.
+
+
+“We believe that we're giving people the data and the information to control their own destiny and do what they will with that information. The data already exists.”
+
+
+Oyssey’s stated goal is to make that public information easier to find. 
+
+<br> 
+
+<https://www.voanews.com/a/new-app-lets-homebuyers-know-about-future-neighbor-s-politics-/7988658.html>
+
+---
+
+##  Musk’s Empire Is Reaping $2 Million Per Day From Trump 
+
+date: 2025-02-26, from: The Lever News
+
+ While the billionaire is touting cuts to government, the new administration has already delivered $86 million to Musk’s rocket company since the inauguration.  
+
+<br> 
+
+<https://www.levernews.com/musks-empire-is-reaping-2-million-per-day-from-trump/>
+
+---
+
+##  LIVE VIRTUAL EVENT: Billionaires Get Tax Cuts — What’s Left For Us? (With Accountable.US) 
+
+date: 2025-02-26, from: The Lever News
+
+ Feb 27 at 8 P.M. ET: Join us for a special virtual live event with Accountable.US.  
+
+<br> 
+
+<https://www.levernews.com/live-virtual-event-billionaires-get-tax-cuts-whats-left-for-us-with-accountable-us/>
+
+---
+
+## FDR and Churchill
+
+date: 2025-02-26, from: The Contrarian
+
+A cartoon by Nick Anderson. 
+
+<br> 
+
+<https://contrarian.substack.com/p/fdr-and-churchill>
+
+---
+
+## How are businesses coping and preparing for Trump’s immigration policies?
+
+date: 2025-02-26, from: Market Place
+
+There are many small businesses that are owned and operated by undocumented immigrants.  
+
+<br> 
+
+<https://www.marketplace.org/2025/02/26/trump-immigration-deportation-us-businesses/>
+
+---
+
+## The Department of Government Ineptitude
+
+date: 2025-02-26, from: The Contrarian
+
+Elon Musk's DOGE team is violating every basic principle of good management. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-department-of-government-ineptitude>
 
 ---
 
@@ -66,6 +1430,18 @@ date: 2025-02-26, from: The Lever News
 <br> 
 
 <https://www.levernews.com/the-battle-for-musks-evil-lair/>
+
+---
+
+##  The Battle For Musk’s Lair 
+
+date: 2025-02-26, from: The Lever News
+
+ States are quietly weakening corporate accountability to lure Elon Musk and other business interests.  
+
+<br> 
+
+<https://www.levernews.com/the-battle-for-musks-lair/>
 
 ---
 
@@ -1538,18 +2914,6 @@ Some former U.S. officials are skeptical about the extent to which the Chinese g
 <br> 
 
 <https://www.voanews.com/a/china-eyes-trump-s-ukraine-strategy-strengthens-ties-with-russia/7986607.html>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-02-24, from: The Contrarian
-
-A look a people protesting across the United States (and sometimes beyond.) 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

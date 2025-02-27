@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-02-26 07:08:41
+updated: 2025-02-27 07:06:51
 ---
 
 # retro computing
 
-(date: 2025-02-26 07:08:41)
+(date: 2025-02-27 07:06:51)
+
+---
+
+## CauseWay DOS extender
+
+date: 2025-02-26, from: FreeDOS News
+
+<div class="markdown_content"><p>Japheth has posted an update to the ancient CauseWay DOS extender (originally written mostly by Michael Devore). A DOS extender lets DOS programs run in a protected mode; CauseWay was originally Watcom's DOS extender, released as open source from Open Watcom. The sources are in Masm v6 syntax, but can be built with Masm/JWasm. Quite a few bugs have been fixed in this release, and DOS conventional memory footprint is significantly lower, especially in DPMI mode. More details at the <a class="" href="https://github.com/Baron-von-Riedesel/CauseWay/releases" rel="nofollow">v5.0 pre3 release</a> page on Japheth's <a class="" href="https://github.com/Baron-von-Riedesel/CauseWay" rel="nofollow">CauseWay GitHub</a> project.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/02/causeway-dos-extender/>
+
+---
+
+## Massive Interview with Steve Jobs from MicroTimes (1992)
+
+date: 2025-02-26, from: Computer ads from the Past
+
+An in-depth discussion on NeXT 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/massive-interview-with-steve-jobs>
+
+---
+
+## MOS Technology documents added
+
+date: 2025-02-26, from: Hans Otten's Retro blog
+
+A recently acquired KIM-1, of the first generation (that means, No Revision, the first series!) came with a stash of documents from MOS Technology from 1976. I have scanned those documents and they are available on this website now. KIM-1 User Manual First Edition, January 1976 KIM User Manual errata letters for First Edition MOS [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/mos-technology-documents-added/>
 
 ---
 

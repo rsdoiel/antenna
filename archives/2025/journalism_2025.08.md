@@ -1,11 +1,416 @@
 ---
 title: journalism
-updated: 2025-02-26 07:08:39
+updated: 2025-02-27 07:06:50
 ---
 
 # journalism
 
-(date: 2025-02-26 07:08:39)
+(date: 2025-02-27 07:06:50)
+
+---
+
+## USC publishes update on response to executive orders
+
+date: 2025-02-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University also provided guidance to researchers on a linked FAQs page.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/27/usc-publishes-update-on-response-to-executive-orders/">USC publishes update on response to executive orders</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/27/usc-publishes-update-on-response-to-executive-orders/>
+
+---
+
+## The Gray Area podcast explores college relationships
+
+date: 2025-02-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The student-led podcast focuses on navigating the lesser-talked areas of a relationship.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/27/the-gray-area-podcast-explores-college-relationships/">The Gray Area podcast explores college relationships</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/27/the-gray-area-podcast-explores-college-relationships/>
+
+---
+
+## USC continues to see elevated flu infection rates
+
+date: 2025-02-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Student health discusses measles outbreak, encourages vaccination.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/27/usc-continues-to-see-elevated-flu-infection-rates/">USC continues to see elevated flu infection rates</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/27/usc-continues-to-see-elevated-flu-infection-rates/>
+
+---
+
+## Independent Student Productions bring theater to all this spring
+
+date: 2025-02-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Independent Student Productions are already well underway producing student works.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/27/independent-student-productions-bring-theater-to-all-this-spring/">Independent Student Productions bring theater to all this spring</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/27/independent-student-productions-bring-theater-to-all-this-spring/>
+
+---
+
+## Every time a woman hosts an awards show, an angel gains their wings
+
+date: 2025-02-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>We need to continue the trend of diversity among awards show hosts by including more women of color.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/27/every-time-a-woman-hosts-an-awards-show-an-angel-gains-their-wings/">Every time a woman hosts an awards show, an angel gains their wings</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/27/every-time-a-woman-hosts-an-awards-show-an-angel-gains-their-wings/>
+
+---
+
+## Missing meteorite samples from UCLA collection found on eBay listing
+
+date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Jason Utas has long been in the craft of buying and selling meteorites.
+But Utas – a graduate student studying earth, planetary and space sciences – said that in 2022 he found something particularly unusual on eBay, an online marketplace and auction site. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/missing-meteorite-samples-from-ucla-collection-found-on-ebay-listing/>
+
+---
+
+## Vedika’s new single tunes into empowerment through Western pop, Indian instruments
+
+date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fusing traditional Indian sounds with Western pop, Vedika&#8217;s newest single proves that the two genres can complement one another.
+Embracing her cultural roots, Vedika Sinha &#8211; who performs as Vedika &#8211; released her latest single, &#8220;take it as a compliment,&#8221; on Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/vedikas-new-single-tunes-into-empowerment-through-western-pop-indian-instruments/>
+
+---
+
+## Ballroom Culture and the Intersection of Black and Queer Identities
+
+date: 2025-02-27, from: The Sundail (CSUN Student Newspaper)
+
+The CSUN Pride Center presented &#8220;Black and Queer: Reclaiming Identity,&#8221; a celebration exploring the intersection of Black and LGBTQ+ experiences through the lens of ballroom culture on Feb. 18 at... 
+
+<br> 
+
+<https://sundial.csun.edu/190558/news/ballroom-culture-and-the-intersection-of-black-and-queer-identities/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+Xianxun Xia, a first-year business economics student, said he was worried about using his swipes as a regular meal plan holder.
+“It’s gonna be really hard to get rid of all my meal swipes throughout the week and that&#8217;s gonna go to waste, so I hope to see something where they compensate for that regular meal swipes.” 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481743/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+The three residential dining halls open during the strike closed for the dining period as of 8 p.m. Students were not immediately asked to leave. The dinner food trucks began departing from the Rieber turnaround at 8:36 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481741/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+Although there were minimal lines around 7:40 p.m. to enter Epicuria at Covel and the De Neve Residential Restaurant, lines were significantly longer for food trucks, with 60 to 75 people waiting. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481739/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+Antonio Yambao, a third-year human biology and society student, said that he thinks the university could have provided more information about the strike ahead of time in forms other than email. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481737/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+Katelynn Rodriguez, a first-year human biology and society student, said she hopes long dining hall lines put pressure on administrative figures to recognize the importance of food service workers. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481728/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 5:45 p.m., there was no line to enter De Neve residential restaurant. The interior was crowded, but today, students also enjoy their dinners at tables outside the hall. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481724/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 5:34 p.m., Feast at Rieber had a line of around 100 people – the longest among all open dining halls. Inside, students wait in line for Pinoy Night offerings, including lemongrass chicken and spicy eggplant. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481723/>
+
+---
+
+## AFSCME Local 3299, UPTE-CWA 9119 march across UCLA campus, disrupting dining halls
+
+date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+Follow live updates at dailybruin.com! 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/afscme-local-3299-upte-cwa-9119-march-across-ucla-campus-disrupting-dining-halls-2/>
+
+---
+
+## On The Steps Episode 5: Pro-Israel, Pro-Palestine Protesters Demonstrate
+
+date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+We start the show this week with a look at two demonstrations that were held on campus last week. Then, we take you to the Westwood Homeless Count, the French club&#8217;s flash mob, and Women&#8217;s Basketball&#8217;s game against Illinois. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/on-the-steps-episode-5-pro-israel-pro-palestine-protesters-demonstrate/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+Three lines of around 50 people each have developed for the three food trucks in front of Sproul Hall – Yuna&#8217;s Bob, StopBye Café and Vchos Pupusería Moderna. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481696/>
+
+---
+
+## A Chat About Love with UCLA Sexperts
+
+date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Daily Bruin talks with the UCLA Sexperts to discover how students navigate relationships. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/a-chat-about-love-with-ucla-sexperts/>
+
+---
+
+## Softball Season Opening Tournament: UCLA vs. Indiana University
+
+date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Softball takes on Indiana University at the spring season opening tournament. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/softball-season-opening-tournament-ucla-vs-indiana-university/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-27, from: The Daily Bruin (UCLA Student Newspaper))
+
+AFSCME Local 3299 strikers have finished picketing for the day, said Andrew Martinez, a member of the union&#8217;s political committee executive board. Union members will be back Thursday from 6 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481695/>
+
+---
+
+## Listening Impact Circles emprende con la esperanza de que las personas realmente escuchen
+
+date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Listening Impact Circles, la primera iniciativa del Grupo Asesor Presidencial para la Comunidad y el Diálogo (PAGCD, por sus siglas en inglés), establecido el otoño pasado por el presidente Tom Stritikus, comenzará el 12 de febrero. La vicepresidenta interina de Asuntos Estudiantiles y decana de estudiantes, Vivian Garay Santiago, dijo que estas sesiones fueron propuestas [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/uncategorized/2025/02/26/listening-impact-circles-emprende-con-la-esperanza-de-que-las-personas-realmente-escuchen/2914269">Listening Impact Circles emprende con la esperanza de que las personas realmente escuchen</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/uncategorized/2025/02/26/listening-impact-circles-emprende-con-la-esperanza-de-que-las-personas-realmente-escuchen/2914269>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper))
+
+UPTE-CWA 9119 members have started to take down their canopies. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481686/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-26, from: The Daily Bruin (UCLA Student Newspaper))
+
+More supporters have joined the crowd of around 100 AFSCME Local 3299 strikers and are circling the Luskin Conference Center. They are chanting, &#8220;What do we want? 
+
+<br> 
+
+<https://dailybruin.com/2025/02/26/481683/>
+
+---
+
+## NIH funding cuts worry professors, research administration remains unaffected
+
+date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The National Institutes of Health (NIH) announced cuts to funding grants sent to research institutions Feb. 7, which were blocked by U.S. District Judge Angel Kelley Feb. 10. The White House commented that the spending cuts aimed to reduce wasteful government spending, part of an initiative President Donald Trump launched in his first month in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/02/26/nih-funding-cuts-worry-professors-research-administration-remains-unaffected/2914388">NIH funding cuts worry professors, research administration remains unaffected</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/02/26/nih-funding-cuts-worry-professors-research-administration-remains-unaffected/2914388>
+
+---
+
+## Professor Erica Ball honored with a place in the American Antiquarian Society
+
+date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Professor of Black Studies Erica Ball was recently elected to the American Antiquarian Society, a 212-year-old research library and community which has included 14 U.S. presidents and 75 Pulitzer Prize winners. Ball is the author of several books primarily focusing on African American history and received the Linda and Tod White Teaching Prize in 2021. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/02/26/professor-erica-ball-honored-with-a-place-in-the-american-antiquarian-society/2914391">Professor Erica Ball honored with a place in the American Antiquarian Society</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/02/26/professor-erica-ball-honored-with-a-place-in-the-american-antiquarian-society/2914391>
+
+---
+
+## AI use in Occidental classrooms increases, sparks debate
+
+date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Since their inception in 2022, ChatGPT and other large language models have taken the world by storm. Using algorithms trained on text-based databases, artificial intelligence (AI) machine learning models can perform various tasks, from writing poems to passing the bar exam. According to Danny Gonzalez (first year), one of ChatGPT&#8217;s best assets for students lies [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/02/26/ai-use-in-occidental-classrooms-increases-sparks-debate/2914385">AI use in Occidental classrooms increases, sparks debate</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/02/26/ai-use-in-occidental-classrooms-increases-sparks-debate/2914385>
+
+---
+
+## From weights to wellness: Inside CSUN’s Girl Gains Club
+
+date: 2025-02-26, from: The Sundail (CSUN Student Newspaper)
+
+Despite the constant rain storms throughout mid-February, the Girl Gains Club at CSUN is shifting its gears and organizing tabling events to recruit new members into the weightlifting club. Co-President... 
+
+<br> 
+
+<https://sundial.csun.edu/190542/news/from-weights-to-wellness-inside-csuns-girl-gains-club/>
+
+---
+
+## ‘A quiet leader’: Pierce football player Terance Pope Jr. dies at 21
+
+date: 2025-02-26, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Terance Pope Jr., a defensive back on the Pierce College football team who aspired to play in the NFL, died on Dec. 17, 2024. He</p>
+<p>The post <a href="https://theroundupnews.com/2025/02/26/a-quiet-leader-pierce-football-player-terance-pope-jr-dies-at-21/">‘A quiet leader’: Pierce football player Terance Pope Jr. dies at 21</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/02/26/a-quiet-leader-pierce-football-player-terance-pope-jr-dies-at-21/?utm_source=rss&utm_medium=rss&utm_campaign=a-quiet-leader-pierce-football-player-terance-pope-jr-dies-at-21>
+
+---
+
+## “Eyewitness in 16mm” celebrates Occidental’s film history and activist media
+
+date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>An audience of students, faculty, alumni and community members sat in Choi Auditorium Feb. 20 for “Eyewitness in 16mm: The Early Life of Film and Activism at Oxy.” Co-hosted by Media Arts &#38; Culture (MAC), Oxy Arts and Special Collections &#38; College Archives, the film screening event featured two films and a conversation with award-winning [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/26/eyewitness-in-16mm-celebrates-occidentals-film-history-and-activist-media/2914430">“Eyewitness in 16mm” celebrates Occidental’s film history and activist media</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/26/eyewitness-in-16mm-celebrates-occidentals-film-history-and-activist-media/2914430>
+
+---
+
+## Jamila Woods brings ‘Poetry as Ritual’ to Occidental
+
+date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Award-winning poet and musician Jamila Woods conducted a reading and interview titled “Poetry as Ritual” for an audience of students and faculty at Choi Auditorium Feb. 18. Associate Professor of English and Department Chair Ross Lerner organized the event which is part of a series aiming to bring writers to Occidental for readings and workshops. Woods said [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/26/jamila-woods-brings-poetry-as-ritual-to-occidental/2914427">Jamila Woods brings &#8216;Poetry as Ritual&#8217; to Occidental</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/26/jamila-woods-brings-poetry-as-ritual-to-occidental/2914427>
+
+---
+
+## Oxy Live! with Kip Thorne highlights ‘Interstellar’ and physics advancements
+
+date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Richard P. Feynman Professor of Theoretical Physics, Emeritus at the California Institute of Technology and co-awardee of the 2017 Nobel Prize in Physics Kip Thorne sat down for a conversation with Paul Holdengräber in the third installment of the 2024–2025 Oxy Live! speaker series hosted by Oxy Arts Feb. 18. Before the conversation began, Holdengräber played a clip of Ray Bradbury [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/26/oxy-live-with-kip-thorne-highlights-interstellar-and-physics-advancements/2914425">Oxy Live! with Kip Thorne highlights &#8216;Interstellar&#8217; and physics advancements</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/26/oxy-live-with-kip-thorne-highlights-interstellar-and-physics-advancements/2914425>
+
+---
+
+## Artist of the week Andrew Eisenberg moves from improv to stand-up, even if he bombs
+
+date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Andrew Eisenberg (sophomore) grew up surrounded by comedy, tagging along as a child with his father who taught improv class. He had performed improv throughout middle and high school and is now a member of the Fantastiprov improv troupe at Occidental. Eisenberg said he was inspired to start performing stand-up comedy locally after he saw Margaret Cho’s [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/02/26/artist-of-the-week-andrew-eisenberg-moves-from-improv-to-stand-up-even-if-he-bombs/2914423">Artist of the week Andrew Eisenberg moves from improv to stand-up, even if he bombs</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/02/26/artist-of-the-week-andrew-eisenberg-moves-from-improv-to-stand-up-even-if-he-bombs/2914423>
 
 ---
 

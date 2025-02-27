@@ -1,11 +1,303 @@
 ---
 title: going electric
-updated: 2025-02-26 07:08:42
+updated: 2025-02-27 07:06:52
 ---
 
 # going electric
 
-(date: 2025-02-26 07:08:42)
+(date: 2025-02-27 07:06:52)
+
+---
+
+## Hyundai, Kia Pump The Brakes On Solid State Batteries Until 2030
+
+date: 2025-02-27, from: Inside EVs News
+
+Plus, Nissan draws up plans to replace its CEO and Stellantis tells Trump he's slapping tariffs on the wrong cars. 
+
+<br> 
+
+<https://insideevs.com/news/751930/kia-solid-state-batteries-2030/>
+
+---
+
+## Kia Has Big Electric Vehicle Plans. Tariffs Throw Them Into Confusion
+
+date: 2025-02-27, from: Inside EVs News
+
+The 'Chicken Tax' may kill Kia's EV van for the United States, while President Trump's tariffs put other plans into "wait and see" mode. 
+
+<br> 
+
+<https://insideevs.com/news/752001/kia-ev-day-ev3-ev4-tariffs/>
+
+---
+
+## Aventon Level 3 electric bike launched with big brain technology
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/aventon-level-3-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Aventon, one of the most well-known players in the US electric bicycle market, has announced the launch of its latest model, the Level 3.  A smart e-bike designed for modern commuters, the Level 3 is packed with advanced security features, extended range capabilities, and comfort-focused components. It’s all part of the new Aventon Control Unit (ACU), which serves as the central brain of the smart bike, and helps it offer new standards in daily riding and commuting convenience.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="403465" href="https://electrek.co/2025/02/27/aventon-level-3-electric-bike-launched-with-big-brain-technology/#more-403465" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/aventon-level-3-electric-bike-launched-with-big-brain-technology/>
+
+---
+
+## Kia EV2 Concept: This Will Be Kia's Most Affordable EV Yet
+
+date: 2025-02-27, from: Inside EVs News
+
+While it’s a concept, Kia says this tiny powerhouse has vehicle-to-load charging, over-the-air updates and everything else you'd expect. 
+
+<br> 
+
+<https://insideevs.com/news/751928/kia-ev2-concept-ev-day-spain/>
+
+---
+
+## The Kia PV5 Is The Modular, Electric Van Of The Future
+
+date: 2025-02-27, from: Inside EVs News
+
+Kia says box-truck, refrigerated, wheelchair-accessible and even camper versions of the van are on the way. 
+
+<br> 
+
+<https://insideevs.com/news/751929/kia-pv5-price-specs-release-date/>
+
+---
+
+## Kia EV Day 2025 recap: EV4 is coming to US, plus an up-close look at the EV2 and PV5 [Video]
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Kia-EV-Day-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia recently held its annual EV Day event overseas, and we were one of the select outlets invited to attend in person. During that time, <a href="https://electrek.co/guides/kia/">Kia</a> executives outlined the Korean brand’s global EV strategy, which reiterated its unwavering approach to going all-electric, bolstered by several new models that made global debuts, including the Concept EV2, PV5 lineup, and the Kia EV4, which we learned will officially be sold in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev2,kia-ev4,kia-ev5,kia-pbv,kia-pv5" data-layer-viewtype="unknown" data-post-id="402992" href="https://electrek.co/2025/02/27/kia-ev-day-2025-ev4-coming-us-close-look-ev2-pv5-video/#more-402992" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/kia-ev-day-2025-ev4-coming-us-close-look-ev2-pv5-video/>
+
+---
+
+## 2026 Kia EV4: 391 Miles Of Range, Reasonable Price
+
+date: 2025-02-27, from: Inside EVs News
+
+It's more affordable than a Hyundai Ioniq 6 and does things a little differently. Plus, there's a hatchback option too. 
+
+<br> 
+
+<https://insideevs.com/news/751879/2026-kia-ev4-official-specs/>
+
+---
+
+## Electric Bike Company merges with Integral Electrics following Pedego partnership
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/electric-bike-company-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Several well-known players in the US electric bicycle market have recently joined forces in creative ways. Electric Bike Company, known for its local manufacturing in Southern California, has just announced a major merger with Integral Electrics, an e-bike brand uniquely designing electric bicycles for women and other short statured riders.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="403448" href="https://electrek.co/2025/02/26/electric-bike-company-merges-with-integral-electrics-following-pedego-partnership/#more-403448" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/electric-bike-company-merges-with-integral-electrics-following-pedego-partnership/>
+
+---
+
+## Honda’s $99 Prologue EV lease offer is too good to be true, but it’s still a crazy deal right now
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Hondas-Prologue-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A nearly $50,000 electric SUV for just $99 a month? If that sounds too good to be true, it’s because it kind of is. One Honda dealer is promoting <a href="https://electrek.co/guides/honda-prologue/">a Prologue</a> lease offer for just $99 for 24 months, but you may have a hard time getting your hands on one.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="403422" href="https://electrek.co/2025/02/26/honda-99-prologue-ev-lease-offer-is-fake-but-still-a-crazy-deal/#more-403422" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/honda-99-prologue-ev-lease-offer-is-fake-but-still-a-crazy-deal/>
+
+---
+
+## Which country is best for clean tech?
+
+date: 2025-02-26, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/which-country-is-best-for-clean-tech/>
+
+---
+
+## As Trump backs off on manufacturing, EU sees an opening with €100B funding
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/2035-EU-ban-Commision.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Europe will give €100 billion in short-term relief to clean-tech manufacturing in order to compete with China, as it unveiled today in its Clean Industrial Deal. The money comes at the same time as the US is actively seeking to harm its manufacturing sector and send jobs to China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="eu-green-deal,europe" data-layer-viewtype="unknown" data-post-id="403400" href="https://electrek.co/2025/02/26/as-trump-backs-off-of-clean-jobs-eu-sees-an-opening-with-e100b-investment/#more-403400" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/as-trump-backs-off-of-clean-jobs-eu-sees-an-opening-with-e100b-investment/>
+
+---
+
+## Another luxury automaker is cutting jobs after failing to keep up in the EV race
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/luxury-automaker-cuts-jobs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another global luxury automaker is cutting jobs after struggling to keep pace as the industry shifts to <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a> (EVs). With EVs gaining market share in most major regions, some are starting to get left behind.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aston-martin" data-layer-viewtype="unknown" data-post-id="403389" href="https://electrek.co/2025/02/26/another-luxury-automaker-cuts-jobs-after-failing-to-keep-up-with-evs/#more-403389" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/another-luxury-automaker-cuts-jobs-after-failing-to-keep-up-with-evs/>
+
+---
+
+## Aventon clearance sale drops Level 2 e-bikes to $1,599, Anker SOLIX EverFrost 2 preorder, Leviton EV40P charger at new $334 low, DJI, more
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Aventon-Level-2-Commuter-e-bike.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Leading today’s Green Deals is <a href="https://9to5toys.com/2025/02/26/aventon-level-2-e-bikes-1599/">Aventon’s clearance sale</a> that is making way for its newest models (the <a href="https://9to5toys.com/2025/02/26/aventon-level-2-e-bikes-1599/">Level 3 Smart Commuter</a> has officially joined the lineup), with the <a href="https://9to5toys.com/2025/02/26/aventon-level-2-e-bikes-1599/">Level 2 Commuter e-bikes down at $1,599</a>, among others. Right behind it is the early-bird preorder deal direct from Anker on its new <a href="https://9to5toys.com/2025/02/26/anker-40l-or-58l-everfrost-2-preorders/">40L and 58L SOLIX EverFrost 2 Electric Coolers</a> for a <a href="https://9to5toys.com/2025/02/26/anker-40l-or-58l-everfrost-2-preorders/">$10 ticket</a> that gives you $300 off once it officially releases next month. We also spotted <a href="https://9to5toys.com/2025/02/26/leviton-ev40p-ev-charger-new-334-low/">Leviton’s EV40P</a> Level 2 Smart EV Charger for at-home or on-the-go usage hitting a new <a href="https://9to5toys.com/2025/02/26/leviton-ev40p-ev-charger-new-334-low/">$334</a> low, as well as <a href="https://9to5toys.com/2025/02/25/dji-power-1000-419/">DJI’s Power 1000</a> Portable Power Station dropping to <a href="https://9to5toys.com/2025/02/25/dji-power-1000-419/">$419</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/02/25/ecoflow-february-monthly-madness-sale-from-29/">EcoFlow Monthly Madness sale</a> (ending February 28), the returning low on <a href="https://9to5toys.com/2025/02/25/anker-solix-c200-100-low/">Anker’s SOLIX C200</a> 60,000mAh station, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="403375" href="https://electrek.co/2025/02/26/aventon-level-2-e-bikes-anker-solix-leviton-dji-more/#more-403375" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/aventon-level-2-e-bikes-anker-solix-leviton-dji-more/>
+
+---
+
+## Mercedes Design Boss Says AI Will Design Future Cars: 'My Successor Will Be A Machine'
+
+date: 2025-02-26, from: Inside EVs News
+
+Mercedes says that the AI used to help engineers shape cars is getting good—and that's a problem for automotive designers. 
+
+<br> 
+
+<https://insideevs.com/news/751904/mercedes-ai-replace-automotive-designers/>
+
+---
+
+## Tesla’s $400 million armored EV US gov contract was indeed shady
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Cybertruck-tank-military.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>New information about the $400 million US government contract for “armored Tesla” vehicles that was reportedly put on hold makes it look shady.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403313" href="https://electrek.co/2025/02/26/teslas-400-million-armored-ev-us-gov-contract-was-indeed-shady/#more-403313" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/teslas-400-million-armored-ev-us-gov-contract-was-indeed-shady/>
+
+---
+
+## Lucid’s (LCID) stock is falling after its CEO stepped down, but here’s the good news
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Lucid-Gravity-Tesla-Supercharger-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/lucid-motors/">Lucid</a> (LCID) CEO Peter Rawlinson is passing the baton just as the EV maker enters a critical growth phase. After over a decade at the helm, Rawlinson said it’s the right time to step aside. Following the sudden announcement, Lucid’s stock fell over 12% on Wednesday. Despite this, Lucid expects 2025 will still be one of its biggest so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="403292" href="https://electrek.co/2025/02/26/lucid-lcid-stock-falls-ceo-steps-down-but-good-news/#more-403292" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/lucid-lcid-stock-falls-ceo-steps-down-but-good-news/>
+
+---
+
+## The Volkswagen ID.4 Is Back With A Vengeance
+
+date: 2025-02-26, from: Inside EVs News
+
+Volkswagen's electric crossover is off to a strong start in 2025. But can it keep up for the rest of the year? 
+
+<br> 
+
+<https://insideevs.com/news/751900/volkswagen-id-4-third-best-selling-ev-january/>
+
+---
+
+## 10 Tesla Cybertrucks were ‘anonymously donated’ to Las Vegas Police
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-Cybertruck-Las-Vegas-Police-Hero.png?w=1600" /></div><p>10 Tesla Cybertrucks will be added to the Las Vegas Metropolitan Police (LVMPD) fleet for patrol and SWAT.</p>
+
+
+
+<p>The electric trucks were donated.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403288" href="https://electrek.co/2025/02/26/10-tesla-cybertrucks-were-annonymously-donated-to-las-vegas-police/#more-403288" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/10-tesla-cybertrucks-were-annonymously-donated-to-las-vegas-police/>
+
+---
+
+## The Lynk & Co 08 Plug-In Hybrid Gets 124 Miles Of Electric Range
+
+date: 2025-02-26, from: Inside EVs News
+
+You may even forget where to buy gas. 
+
+<br> 
+
+<https://insideevs.com/news/751876/lynk-08-european-phev-range/>
+
+---
+
+## Volvo’s new ES90 has lightning-fast EV charging speeds and up to 435 miles range
+
+date: 2025-02-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volvo-ES90-range-charging.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volvo is raising the bar with its new fully electric ES90. It’s the fastest-charging <a href="https://electrek.co/guides/volvo/">Volvo</a> yet, and with up to 435 miles (700 km) range, it can also drive further than ever. Volvo calls it “one of the most technically advanced cars,” EV or gas-powered on the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volvo" data-layer-viewtype="unknown" data-post-id="403268" href="https://electrek.co/2025/02/26/volvo-es90-charges-faster-drives-further-with-435-miles-range/#more-403268" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/26/volvo-es90-charges-faster-drives-further-with-435-miles-range/>
 
 ---
 
@@ -197,7 +489,7 @@ date: 2025-02-25, from: Off the Grid World
 
 ---
 
-## Mercedes will stop treating EVs as a separate lineup and thats a good thing
+## Mercedes will stop treating EVs as a separate lineup and that’s a good thing
 
 date: 2025-02-25, from: Electrek Feed
 
