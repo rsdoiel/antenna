@@ -1,11 +1,299 @@
 ---
 title: science and technology
-updated: 2025-02-27 07:06:48
+updated: 2025-02-28 07:08:36
 ---
 
 # science and technology
 
-(date: 2025-02-27 07:06:48)
+(date: 2025-02-28 07:08:36)
+
+---
+
+## The Physicist Working to Build Science-Literate AI
+
+date: 2025-02-28, from: Quanta Magazine
+
+By training machine learning models with enough examples of basic science, Miles Cranmer hopes to push the pace of scientific discovery forward.            <p>The post <a href="https://www.quantamagazine.org/the-physicist-working-to-build-science-literate-ai-20250228/" target="_blank">The Physicist Working to Build Science-Literate AI</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-physicist-working-to-build-science-literate-ai-20250228/>
+
+---
+
+## AMD looks to undercut Nvidia, win gamers' hearts with RX 9070 series
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>The question is whether we can find them in stock and at MSRP</h4> <p>With the launch of AMD&#39;s RX 9070-series graphics cards, AMD is going back to its roots. Rather than trying to compete with Nvidia on raw performance with another flagship GPU beyond the means of most gamers, the House of Zen aims to undercut its competitor by delivering more frames per dollar.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/amd_rx_9070_series/>
+
+---
+
+## Mozilla deletes promise not to sell Firefox users’ data
+
+date: 2025-02-28, from: OS News
+
+The hits just keep on coming. Mozilla not only changed its Privacy Notice and introduced a Terms of Use for Firefox for the first time with some pretty onerous terms, they also removed a rather specific question and answer pair from their page with frequently asked questions about Firefox, as discovered by David Gerard. The following question and answer were removed: Does Firefox sell your personal data? Nope. Never have, never will. And we protect you from many of the advertisers who do. Firefox products are designed to protect your privacy. That’s a promise. ↫ David Gerard detailing what has been removed This promise is now gone from the website, a removal which tells you all you need to know about what Mozilla has in mind. Combine it with the much broadened data collection and buying and claiming to be an online advertising company, and what I have been predicting and warning everyone about has come to pass: Firefox has become a mere tool to collect user data, user data to be sold by Mozilla for the purposes of advertising. For years I&#8217;ve been warning about this inevitable outcome, and for just as many years people told me I was overreacting, that it wouldn&#8217;t happen, that I was crazy. The problem is especially dire for the desktop Linux world, who soon might not have a browser they can safely include in their ISOs and base installations. A desktop Linux installation with Chromium where you have to manually drag and drop extensions to install them, and set up a Google API key just to get browser sync, isn&#8217;t exactly a great experience. At this point I have no idea where to go. Chrome and its various skins are a no-go, obviously, and relatively soft forks like LibreWolf are still dependent on Firefox and Mozilla. Alternatives like Falkon also use the Chromium engine deep down, and have their own set of issues and lack of manpower to deal with. Apple users are somewhat lucky to have the WebKit-based Safari to work with, but I&#8217;d rather publish my personal data in The New York Times than trust Apple and Tim Cook. We&#8217;re right back where we started. Lovely. 
+
+<br> 
+
+<https://www.osnews.com/story/141825/mozilla-deletes-promise-not-to-sell-firefox-users-data/>
+
+---
+
+## Profit slide at HP can only mean one thing: Hammer time
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Executives pull on the baggy trousers to distribute the pink slips</h4> <p>HP says it intends to elbow up to 2,000 workers overboard with the aim to help it save up to $300 million in its current fiscal year that runs until October.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/hp_cuts_jobs_as_profits_slide/>
+
+---
+
+## UK government's cloud strategy: Pay more, get less, blame vendor lock-in?
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Home Office&#39;s £450M deal with AWS raises questions over competition and aligning department requirements</h4> <p>UK central government departments need to better align their requirements in cloud computing to get better deals out of the big providers, MPs heard this week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/uk_government_cloud_strategy/>
+
+---
+
+## Payday from hell as several British banks report major outages
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Many can&#39;t access online banking although customers can keep tapping away in shops</h4> <p>The UK is full of unhappy workers that are unable to manage their payday cash amid online service outages at a host of major banks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/payday_from_hell_as_several/>
+
+---
+
+## IBM likes Hashicorp, finally puts a $6.4B ring on it
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Monopoly watchdogs forever hold their peace, unlike developers still unhappy about Terraform license switch</h4> <p>IBM has finally completed the $6.4 billion takeover of Hashicorp days after Britain&#39;s competition regulator gave the corporate marriage its seal of approval.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/ibm_hashicorp_deal_closing/>
+
+---
+
+## One stupid keystroke exposed sysadmin to inappropriate information he could not unsee
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Turns out you <em>can</em> be too careful checking that backups worked</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register</i>&#39;s Friday column that celebrates your escapes from dangerous tech support requests.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/on_call/>
+
+---
+
+## Open Source Initiative defends disallowing board candidate after timezone SNAFU
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Here&#39;s another thing AI can do: Cause conflict around whether it&#39;s compatible with the very idea of open source</h4> <p>The Open Source Initiative&#39;s (OSI) 2025 Board of Directors election is again mired in controversy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/osi_election_ai_drama/>
+
+---
+
+## Microsoft names alleged credential-snatching 'Azure Abuse Enterprise' operators
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Crew helped lowlifes generate X-rated celeb deepfakes using Redmond&#39;s OpenAI-powered cloud – claim</h4> <p>Microsoft has named four of the ten people it is suing for allegedly snatching Azure cloud credentials and developing tools to bypass safety guardrails in its generative AI services – ultimately to generate deepfake smut videos of celebrities and others.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/microsoft_names_and_shames_4/>
+
+---
+
+## What would happen if we didn’t use TCP or UDP?
+
+date: 2025-02-27, from: OS News
+
+At some point, I wondered—what if I sent a packet using a transport protocol that didn’t exist? Not TCP, not UDP, not even ICMP—something completely made up. Would the OS let it through? Would it get stopped before it even left my machine? Would routers ignore it, or would some middlebox kill it on sight? Could it actually move faster by slipping past common firewall rules? No idea. So I had to try. ↫ Hawzen Okay so the end result is that it&#8217;s technically possible to send a packet across the internet that isn&#8217;t TCP/UDP/ICMP, but you have to take that literally: one packet. 
+
+<br> 
+
+<https://www.osnews.com/story/141821/what-would-happen-if-we-didnt-use-tcp-or-udp/>
+
+---
+
+## A love letter to Void Linux
+
+date: 2025-02-27, from: OS News
+
+I installed Void on my current laptop on the 10th of December 2021, and there has never been any reinstall. The distro is absurdly stable. It’s a rolling release, and yet, the worst update I had in those years was one time, GTK 4 apps took a little longer to open on GNOME. Which was reverted after a few hours. Not only that, I sometimes spent months without any update, and yet, whenever I did update, absolutely nothing went wrong. Granted, I pretty much only did full upgrades, and never partial upgrades, which generally help a lot. Still. ↫ Sarah Mathey Void is love, Void is life. It&#8217;s such an absurdly good distribution, and if it wasn&#8217;t for the fact that I prefer Fedora KDE by a hair, I&#8217;d be using Void on all of my machines. The only reason I&#8217;m not is that I would set up Void very close to what I get from Fedora KDE out of the box anyway, so my laziness gets the better of me there. I used to run Void on my POWER9 hardware, but that architecture is no longer supported by Void. If you&#8217;re looking for a Linux distribution free of systemd, there&#8217;s little out there that can equal or top Void, and even if you don&#8217;t care much about init systems, Void still has a lot to offer. The documentation is decent, its package manager is a joy to use, the repositories are loaded and up-to-date, and it strikes a great balance between building an entire Linux system from scratch on the one hand, and complete desktop distributions like Fedora on the other. The best way I can describe it is that Void feels like the most BSD-y of Linux distributions. Void is my fallback, in case Fedora for whatever reason slips up and dies. IBM, Red Hat, &#8220;AI&#8221; &#8211; there&#8217;s a lot of pits Fedora can fall into, after all. 
+
+<br> 
+
+<https://www.osnews.com/story/141817/a-love-letter-to-void-linux/>
+
+---
+
+## Feds: Army soldier suspected of AT&amp;T heist Googled ‘can hacking be treason,’ ‘defecting to Russia’
+
+date: 2025-02-27, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>FYI: What NOT to search after committing a crime</h4> <p>The US Army soldier suspected of compromising AT&amp;T and bragging about getting his hands on President Trump&#39;s call logs allegedly tried to sell stolen information to a foreign intel agent.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/army_soldier_accused_of_att/>
+
+---
+
+## FBI officially fingers North Korea for $1.5B Bybit crypto-burglary
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Federal agents, open up ... your browsers and see if you recognize any of these wallets</h4> <p>The FBI has officially accused North Korea&#39;s Lazarus Group of stealing $1.5 billion in Ethereum from crypto-exchange Bybit earlier this month, and asked for help tracking down the stolen funds.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/fbi_bybit_korea/>
+
+---
+
+## AWS unboxes quantum cat qubit kit called Ocelot
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Sprinting after Microsoft and co, Amazon claims it too has a QC chip that&#39;s good at all-important error correction</h4> <p>Amazon Web Services on Thursday announced Ocelot, a quantum computing chip based on &#34;cat qubits.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/aws_unboxes_quantum_cat_qubit/>
+
+---
+
+## Framework Desktop wows iFixit – even with the soldered RAM
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Is stuck-down memory forgivable if it&#39;s for the sake of performance?</h4> <p>Framework&#39;s modular mini desktop has received glowing approval from the repair experts at iFixit, despite having non-upgradeable memory because of its Ryzen AI Max processor.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/ifixit_framework_desktop/>
+
+---
+
+## Commodity Classic Hyperwall Schedule
+
+date: 2025-02-27, from: NASA breaking news
+
+NASA Science at Commodity Classic Hyperwall Schedule, March 2-4, 2025 Join NASA in the Exhibit Hall (Booth #839) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. MONDAY, MARCH 3 11:30 – 12:00 PMNASA Earth Science at Work for American AgricultureDr. Karen St. Germain12:00 – 12:30 PMConnecting NASA Ag Resources in A Virtual Agricultural […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/commodity-classic-hyperwall-schedule/>
+
+---
+
+## NASA Installs Heat Shield on First Private Spacecraft Bound for Venus
+
+date: 2025-02-27, from: NASA breaking news
+
+Engineers at NASA’s Ames Research Center in California’s Silicon Valley, Bohdan Wesely, right, and Eli Hiss, left, complete a fit check of the two halves of a space capsule that will study the clouds of Venus for signs of life. Led by Rocket Lab of Long Beach, California, and their partners at the Massachusetts Institute [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-installs-heat-shield-on-first-private-spacecraft-bound-for-venus/>
+
+---
+
+## DARPA seeks ideas for 'large bio-mechanical space structures'
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>How to make them, and what to use them for</h4> <p>The US Department of Defense&#39;s research arm, DARPA, has put out a Request for Information (RFI) for &#34;large bio-mechanical space structures.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/darpa_biomech_space_structures/>
+
+---
+
+## Intuitive Machines-2 Lifts Off
+
+date: 2025-02-27, from: NASA breaking news
+
+A SpaceX Falcon 9 rocket carrying Intuitive Machines’ Nova-C lunar lander (IM-2) soars upward after liftoff from Launch Complex 39A at NASA’s Kennedy Space Center in Florida on Wednesday, Feb. 26, 2025. The lander is set to land on the Moon on March 6. The NASA science and technology demonstrations aboard the lander will, once [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/intuitive-machines-2-lifts-off/>
+
+---
+
+## Ampere bets on Arm to muscle into Intel's telco territory
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Chipmaker touts high-core, low-power Altra processors as the future of 5G and AI inferencing</h4> <p>Ampere Computing is looking to target the telecoms market with its Arm-based server chips, hoping to take a slice of the growing compute needs of 5G and edge processing, which it believes Intel is no longer best served to meet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/ampere_arm_intel_telco/>
+
+---
+
+## NASA’s Hubble Provides Bird’s-Eye View of Andromeda Galaxy’s Ecosystem
+
+date: 2025-02-27, from: NASA breaking news
+
+Located 2.5 million light-years away, the majestic Andromeda galaxy appears to the naked eye as a faint, spindle-shaped object roughly the angular size of the full Moon. What backyard observers don’t see is a swarm of nearly three dozen small satellite galaxies circling the Andromeda galaxy, like bees around a hive. These satellite galaxies represent […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/nasas-hubble-provides-birds-eye-view-of-andromeda-galaxys-ecosystem/>
+
+---
+
+## NASA Selects Participating Scientists to Join Lucy Asteroid Mission
+
+date: 2025-02-27, from: NASA breaking news
+
+NASA has selected eight participating scientists to join its Lucy mission to the Jupiter Trojan asteroids. These asteroids are remnants of our early solar system trapped on stable orbits associated with — but not close to — the planet Jupiter.  NASA’s Lucy in the L4 Trojans Participating Scientist Program supports scientists to carry out new investigations […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/lucy/nasa-selects-participating-scientists-to-join-lucy-asteroid-mission/>
+
+---
+
+## No new engineer hires this year as AI coding tools boost productivity, says Salesforce
+
+date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+
+<h4>Yet growth in its AI agent biz not enough to improve numbers</h4> <p>Salesforce will not hire any more engineers this year after investment in AI coding tools provided a 30 percent productivity boost, its CEO claimed as he sought to charm investors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/27/salesforce_misses_revenue_guidance/>
 
 ---
 
@@ -59,9 +347,9 @@ date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
 
 ## 30-year-old NHS supply chain system hit by 35 major alerts in 11 months
 
-date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+date: 2025-02-27, updated: 2025-02-28, from: The Register (UK I.T. News)
 
-<h4>Thousands of order lines not picked, causing delays to hospital deliveries</h4> <p>A state-owned company that handles £4.5 billion ($5.7 billion) annual spending on behalf of the NHS has suffered 35 high-priority computer system alerts in 2024, leading to delays in shipping thousands of products to UK hospitals.…</p> 
+<h4>Thousands of order lines not picked, causing delays to hospital deliveries</h4> <p><strong>Updated</strong>  A state-owned company that handles £4.5 billion ($5.7 billion) annual spending on behalf of the NHS has suffered 35 high-priority computer system alerts in 2024, leading to delays in shipping thousands of products to UK hospitals.…</p> 
 
 <br> 
 
@@ -69,9 +357,9 @@ date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
 
 ---
 
-## Tech jobs are now white collar trades that need apprentices, not a career crawl
+## Tech jobs are now white-collar trades that need apprentices, not a career crawl
 
-date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+date: 2025-02-27, updated: 2025-02-28, from: The Register (UK I.T. News)
 
 <h4>With a generation of networking engineers set to retire, is this how to give their successors a faster start?</h4> <p><strong>APRICOT 2025</strong>  The networking industry should address its perennial staff shortage by giving early-career techies the kind of hands-on training delivered during apprenticeships for trainee carpenters or electricians.…</p> 
 
@@ -109,7 +397,7 @@ date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
 
 date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
 
-<h4>Model was fine-tuned to write vulnerable software – then suggested enslaving humanity</h4> <p>Computer scientists have found that fine-tuning notionally safe large language models to do one thing badly can negatively impact the AI’s output across a range of topics.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Model was fine-tuned to write vulnerable software – then suggested enslaving humanity</h4> <p><strong>Updated</strong>  Computer scientists have found that fine-tuning notionally safe large language models to do one thing badly can negatively impact the AI’s output across a range of topics.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -155,9 +443,9 @@ Written by Susanne Schwenzer, Planetary Geologist at The Open University Earth p
 
 ## Wallbleed vulnerability unearths secrets of China's Great Firewall 125 bytes at a time
 
-date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+date: 2025-02-27, updated: 2025-02-28, from: The Register (UK I.T. News)
 
-<h4>Boffins poked around inside censorship engines for years before Beijing patched hole</h4> <p>Smart folks investigating a memory-dumping vulnerability in the Great Firewall of China (GFW) finally released their findings after probing it for years.…</p> 
+<h4>Boffins poked around inside censorship engines – here&#39;s what they found</h4> <p>Smart folks investigating a memory-dumping vulnerability in the Great Firewall of China (GFW) finally released their findings after probing it for years.…</p> 
 
 <br> 
 

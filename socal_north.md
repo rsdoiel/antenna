@@ -1,35 +1,231 @@
 ---
 title: socal north
-updated: 2025-02-27 07:06:46
+updated: 2025-02-28 07:08:34
 ---
 
 # socal north
 
-(date: 2025-02-27 07:06:46)
+(date: 2025-02-28 07:08:34)
 
 ---
 
-## Electric buses roll into Compton Unified, with hopes for better air quality
+## Not your usual March Madness: how you can help crown LA’s worst parking lot
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+The competition is being run by Americana at Brand Memes on Instagram and its anonymous account holder, Mr. Glen Dale. 
+
+<br> 
+
+<https://laist.com/news/transportation/march-madness-los-angeles-worst-parking-lot-vote>
+
+---
+
+## Cheap Fast Eats goes vegan, with meatless dishes across LA for around $10
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+Eating a plant-based diet doesn’t have to cost the earth. 
+
+<br> 
+
+<https://laist.com/news/food/cheap-fast-eats-vegan-meatless-dishes-la>
+
+---
+
+## Cooler temperatures and light rain this weekend
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+The hottest days of the week are on their way out. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/cooler-temperatures-and-light-rain-this-weekend>
+
+---
+
+## Ex-NFL player says he was fired after his MAGA protest at HB City Council meeting
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+The former pro told LAist he was charged with a misdemeanor for disturbing an assembly — and then later fired from his job as a coach. 
+
+<br> 
+
+<https://laist.com/news/politics/former-nfl-player-says-he-was-fired-after-protesting-at-huntington-beach-city-council>
+
+---
+
+## Ex-LA fire chief Crowley appeals Mayor Karen Bass' decision to fire her
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+After she was ousted, Crowley decided to remain in the department at a lower rank, an option she had under civil service protections. 
+
+<br> 
+
+<https://laist.com/news/politics/ex-la-fire-chief-crowley-appeals>
+
+---
+
+## OC treasurer threw keys at subordinate, violating workplace violence policy, investigation found
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+That incident is one of numerous complaints of alleged mismanagement against Orange County Treasurer-Tax Collector Shari Freidenrich. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-elected-treasurer-tax-collector-workplace-violence-investigation>
+
+---
+
+## Judge says Trump's mass firing of federal employees is illegal and should be stopped
+
+date: 2025-02-27, updated: 2025-02-28, from: The LAist
+
+A federal judge in San Francisco issued a temporary restraining order on the Trump administration's firings of thousands of probationary employees, calling the actions illegal. 
+
+<br> 
+
+<https://laist.com/news/politics/court-considers-halting-trumps-mass-firings-federal-employees>
+
+---
+
+## Metro to expand its weapons detection pilot program
 
 date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+L.A. Metro’s board approved an expansion of its weapons detection pilot program in its latest move aimed at improving safety. 
+
+<br> 
+
+<https://laist.com/news/transportation/metro-to-expand-its-weapons-detection-pilot-program>
+
+---
+
+## The Oscars are never just about the movies
+
+date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+This year, off-screen tweets may end up swaying the Oscars race. But real-world events and people have been shaping the awards for decades. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/oscars-are-never-just-about-the-movies>
+
+---
+
+## Pentagon directs removal of trans service members from military
+
+date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+Service members and recruits who are diagnosed with or treated for gender dysphoria are to be separated from the U.S. military in accordance with an executive order issued a month ago by President Trump. 
+
+<br> 
+
+<https://laist.com/news/pentagon-directs-removal-trans-service-members>
+
+---
+
+## California’s fund to build student housing runs dry — leaving community colleges in the lurch
+
+date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+Many schools have tried — and failed — to secure state grants to build more student housing. 
+
+<br> 
+
+<https://laist.com/news/education/californias-fund-student-housing-community-college-runs-dry>
+
+---
+
+## 8 tips for LA renters (and landlords) to avoid Section 8 discrimination
+
+date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+More than 90,000 L.A. County households rely on the Housing Choice Voucher program, or Section 8, to afford housing in the private market. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-renters-landlords-section-8-discrimination-tips>
+
+---
+
+## Temporary Playground Closures at West Creek Park and Duane R. Harte Park for Maintenance
+
+date: 2025-02-27, from: City of Santa Clarita
+
+<p>The playgrounds located at West Creek Park (24247 Village Circle Drive) and Duane R. Harte Park (26401 Riverrock Way) will be closed for maintenance beginning Monday, March 3 through Friday, March 7. During this time, crews will reseal the rubberized playground surface to enhance safety, durability and overall usability. This routine maintenance helps to extend [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/27/temporary-playground-closures-at-west-creek-park-and-duane-r-harte-park-for-maintenance/">Temporary Playground Closures at West Creek Park and Duane R. Harte Park for Maintenance</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/27/temporary-playground-closures-at-west-creek-park-and-duane-r-harte-park-for-maintenance/>
+
+---
+
+## A Library on Wheels is Coming to Santa Clarita!
+
+date: 2025-02-27, from: City of Santa Clarita
+
+<p>By Jason Gibbs “A Library Without Walls for a City Without Limits”— Santa Clarita Public Library At the City of Santa Clarita, we are always trying to find new and innovative ways to serve our residents. This is especially true when looking at how we can connect them to the world of resources offered by [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/27/a-library-on-wheels-is-coming-to-santa-clarita/">A Library on Wheels is Coming to Santa Clarita!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/27/a-library-on-wheels-is-coming-to-santa-clarita/>
+
+---
+
+## California democrats help reintroduce bill to give ‘Dreamers’ a path to citizenship
+
+date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+California Democrats were among 201 members of Congress to reintroduce a bill on Wednesday that would provide a path to citizenship for an estimated 2.7 million undocumented immigrants — most of them so-called Dreamers. 
+
+<br> 
+
+<https://laist.com/news/politics/california-democrats-help-bill-to-give-dreamers-a-path-to-citizenship>
+
+---
+
+## Here are our favorite actors who've never been nominated for an Oscar
+
+date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+If you ask us, Pam Grier, John Goodman, Oscar Isaac and Regina Hall are all long overdue for Oscar nominations. Here's why. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/here-are-our-favorite-actors-whove-never-been-nominated-for-an-oscar>
+
+---
+
+## Gene Hackman, who thrived playing the tough guy, dies at 95
+
+date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+Hackman epitomized a 1970s, edgy, tightly wound masculinity. He appeared in more than 100 movies and TV shows, and won Oscars for his performances in The French Connection and Unforgiven. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/gene-hackman-who-thrived-playing-the-tough-guy-dies-at-95>
+
+---
+
+## Electric buses roll into Compton Unified, but future funding for schools is at risk
+
+date: 2025-02-27, updated: 2025-02-28, from: The LAist
 
 Federal funding is helping electrify nearly half of the district’s gas-powered school buses, but the fate of funding promised for other schools is unclear under the Trump administration. 
 
 <br> 
 
 <https://laist.com/news/education/compton-unified-school-district-electric-buses-los-angeles-southern-california>
-
----
-
-## Final day of hot weather ahead of weekend cooldown
-
-date: 2025-02-27, updated: 2025-02-27, from: The LAist
-
-The hottest days of the week are on their way out. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/final-day-of-hot-weather-ahead-of-weekend-cooldown>
 
 ---
 
@@ -42,6 +238,18 @@ Oscar Sunday watch parties, the closing event for PST Art, L.A. Zine Fest, UCLA 
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-feb-28-mar-2>
+
+---
+
+## Final day of hot weather ahead of weekend cooldown
+
+date: 2025-02-27, updated: 2025-02-27, from: The LAist
+
+The hottest days of the week are on their way out. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/final-day-of-hot-weather-ahead-of-weekend-cooldown>
 
 ---
 

@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-02-27 07:06:49
+updated: 2025-02-28 07:08:37
 ---
 
 # games
 
-(date: 2025-02-27 07:06:49)
+(date: 2025-02-28 07:08:37)
+
+---
+
+## All Totem of Perseverance piece locations in Avowed
+
+date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
+
+The Totem of Perseverance is one of Avowed’s four god totems — collectibles that grant boons based on how many pieces you find. The Totem of Perseverance is the god totem for the Galawain’s Tusks region. All seven fragments of the Totem of Perseverance are hidden around Galawain’s Tusks and its capital, Solace Keep. As [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/529080/totem-perseverance-locations-pieces-all-galawains-tusks>
+
+---
+
+## Magic head designer affirms game’s diversity efforts: It ‘means something to people’
+
+date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
+
+Earlier this February, a Magic: The Gathering player on Tumblr asked the collectible card game’s head designer, Mark Rosewater… well, it’s more of a comment than a question: “I want to speak out against the whole push towards DEI. I feel that ever since you made the push to make identity the forefront of a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mtg-magic-the-gathering/529744/mtg-mark-rosewater-dei-statement-magiccon-2025>
+
+---
+
+## Monster Hunter Wilds is now available, and 18% off on PC
+
+date: 2025-02-28, updated: 2025-02-27, from: Polygon Website
+
+Capcom’s Monster Hunter Wilds is finally here. After multiple open betas, a graphics benchmark, and the first of several Monster Hunter Now tie-ins, you can now jump into the latest open-world entry. Our reviewer considers it to be the most streamlined version of the game yet (to a fault, arguably), but fans of the series [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/531433/monster-hunter-wilds-where-to-buy-deals>
+
+---
+
+## Monster Hunter Wilds’ explosive launch catapults it into Steam’s all-time top 10
+
+date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
+
+Capcom’s Monster Hunter Wilds has soared to a peak of over 1 million concurrent players on Steam just hours after its launch, catapulting it into the Steam record books. The game launched to an immediate audience of 880,806 players at midnight EST / 9 p.m. PST, and has climbed to a peak of 1,076,024 players [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/531717/monster-hunter-wilds-steam-launch>
+
+---
+
+## All weapons list in Monster Hunter Wilds
+
+date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
+
+The list of weapons in Monster Hunter Wilds run the gamut from oversized sword to oversized hammer all the way to oversized axe. There are 14 weapon types to choose from, each with their own distinctive play style, benefits, and drawbacks. The weapon you choose to wield in Monster Hunter Wilds determines the range of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/529947/all-weapons-list>
+
+---
+
+## Best weapon for beginners in Monster Hunter Wilds
+
+date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
+
+Working out the best weapon for beginners to start with in Monster Hunter Wilds can be daunting when there are 14 weapon types to choose from. While the game asks you a couple of questions early on to recommend weapons based on your preferred playstyle, these do not factor in their ease of use — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/528911/best-weapons-beginners-new-players>
+
+---
+
+## Monster Hunter Wilds guides and walkthroughs
+
+date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
+
+Monster Hunter’s combination of fearsome beasts and giant weapons is back. In Monster Hunter Wilds, players explore a new land — previously thought to be uninhabited — in the hopes of solving the mystery behind a new giant beast. Wilds has everything we expect from Monster Hunter games: challenging fights across lush landscapes, and the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/530385/guides-walkthroughs-tips>
+
+---
+
+## How to deploy or standby your Palico in Monster Hunter Wilds
+
+date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
+
+Monster Hunter Wilds allows you to deploy your Palico and have it join you on quests to aid you in battle. Palicos are the adorable, bipedal cat companions of the Monster Hunter series. In Monster Hunter Wilds, you get to design a Palico that accompanies your hunter throughout their journeys (which you can change appearance [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/529724/how-to-deploy-standby-pailco-differences>
+
+---
+
+## Lala Barina weakness, location, and strategy in Monster Hunter Wilds
+
+date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
+
+Lala Barina is one of the new creatures lurking in Monster Hunter Wilds. The twitchy spider moves erratically, and to make matters worse, its thorax can open to resemble a blooming rose. It’s a beautiful spectacle, except for the spores that can paralyze you and a deadly tail attack awaiting within the petals. Despite being [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/524598/lala-barina-weakness-location-how-to-beat>
 
 ---
 

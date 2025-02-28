@@ -1,11 +1,217 @@
 ---
 title: writing
-updated: 2025-02-27 07:06:49
+updated: 2025-02-28 07:08:37
 ---
 
 # writing
 
-(date: 2025-02-27 07:06:49)
+(date: 2025-02-28 07:08:37)
+
+---
+
+## New IFTF Committee: Institutional Relations<br />
+
+
+
+
+date: 2025-02-28, updated: 2025-02-28, from: (IFTF) Interactive Fiction Technology Foundation
+
+ 
+
+<br> 
+
+<http://blog.iftechfoundation.org/2025-02-28-new-iftf-committee-institutional-relations-.html>
+
+---
+
+## 2025 Nebula Conference News
+
+date: 2025-02-28, from: Locus Magazine
+
+<p>The Science Fiction &#38; Fantasy Writers Association (SFWA) has announced that the 2025 Nebula Conference and Awards will be held June 5-9, 2025 at the Kansas City Marriott Downtown in Kansas City, MO. The announcement notes that &#8220;Conference and hotel registration will open soon!&#8221;</p>
+<p>This year&#8217;s Nebula Conference will be the 60th, a &#8220;diamond-year celebration of science fiction, fantasy, and related genre creators around the globe!&#8221; The announcement also contains  <a href="https://locusmag.com/2025/02/2025-nebula-conference-news/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-nebula-conference-news/>
+
+---
+
+## Submissions Call for Ecofiction Reprint Stories
+
+date: 2025-02-27, from: Locus Magazine
+
+<p>Apex Book Company is seeking submissions for a reprint anthology, <strong>ECO24: The Year’s Best Speculative Ecofiction</strong>.</p>
+<p>Stories must be complete reprints between 1,000 and 6,000 words, published during the 2024 calendar year. Content must be speculative and &#8220;focused on ecology, climate, the environment, conservation, the natural world, our relationship to animals and other non-human life, and related issues. A climate-crisis setting alone is not enough to qualify.&#8221;</p>
+<p>Payment is  <a href="https://locusmag.com/2025/02/submissions-call-for-ecofiction-reprint-stories/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/submissions-call-for-ecofiction-reprint-stories/>
+
+---
+
+## New Books Video Is Up!
+
+date: 2025-02-27, from: Locus Magazine
+
+<p>It&#8217;s the end of February and we&#8217;ve got one last video to send off the month. Come by our YouTube channel to see the latest video on our picks for the top new SF, Fantasy, Horror, and YA releases of the week! Show your support and keep up-to-date on future videos by subscribing! We&#8217;ll see you all next week for another video to kick off the start of March!</p>
+<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2025/02/new-books-video-is-up-4/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/new-books-video-is-up-4/>
+
+---
+
+## 2025 New Writers Awards
+
+date: 2025-02-27, from: Locus Magazine
+
+<p>The Scottish Book Trust has announced the 2025 winners of the New Writers Awards. The awardees included several writers of genre interest, such as:</p>
+<ul>
+<li>Z. K. Abraham received the Callan Gordon Award for short fiction. This award runs every two years, and is open to writers ages 18-35.</li>
+<li>Jade Mitchell was awarded for Fiction and Narrative Non-Fiction.</li>
+<li>SE Holland, writing in Children and Young Adult category, received the Next Chapter </li></ul> <a href="https://locusmag.com/2025/02/2025-new-writers-awards/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-new-writers-awards/>
+
+---
+
+## What Is Screenwriting?
+
+date: 2025-02-27, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-is-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20a%20Vector%20Man%20sitting%20on%20a%20typewriter%20as%20he%20contemplates%20his%20next%20screenplay%20idea.%20Background%20consists%20of%20pages%20with%20nondescript%20words%20and%20paperclips%20floating%20around%20.png" alt="Image of a Vector Man sitting on a typewriter as he contemplates his next screenplay idea. Background consists of pages with nondescript words and paperclips floating around " class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>There is a reason why Hollywood is such a driving force in the world — a majority of the world’s population loves movies and television. The enjoyment of the stories we see on the big or small screen comes in many different ways.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-is-screenwriting>
+
+---
+
+## 2025 Minnesota Book Awards Finalists
+
+date: 2025-02-27, from: Locus Magazine
+
+<p>Finalists for the 2025 Minnesota Book Awards, given by The Friends of the Saint Paul Public Library, have been announced. Titles and authors of genre interest include:</p>
+<div class="mynomorebulletlist">
+<p><strong>Novel &#38; Short Story</strong></p>
+<ul>
+<li><strong>The Mighty Red</strong>, Louise Erdrich (Harper)</li>
+<li><strong>In Wells&#8217; Time</strong>, David Nash (Unsolicited)</li>
+</ul>
+<p><strong>Genre Fiction</strong></p>
+<ul>
+<li><strong>Monsters We Have Made</strong>, Lindsay Starck (Vintage)</li>
+<li><strong>The Witches of Santo Stefano</strong>, Wendy Webb (Lake Union)</li>
+</ul>
+<p><strong>Middle Grade Literature</strong></p>
+<ul>
+<li><strong>Telephone of </strong></li></ul></div> <a href="https://locusmag.com/2025/02/2025-minnesota-book-awards-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-minnesota-book-awards-finalists/>
+
+---
+
+## ‘The Monkey’ and the Art of Adapting a Short Story
+
+date: 2025-02-27, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/the-monkey-and-the-art-of-adapting-a-short-story" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20a%20creepy%20monkey%20with%20gold%20eyes%2c%20holds%20a%20drum%20stick%20and%20menacingly%20smiles.png" alt="A creepy monkey with gold eyes, holds a drum stick and menacingly smiles in 'The Monkey'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>When it comes to short stories being turned into movies, there is one master that comes to mind: Stephen King. His short stories have been the source material that created such films as <em>The Shawshank Redemption</em>, <em>The Green Mile, 1408, The Mist</em> and <em>Children of the Corn</em>, to name a few.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/the-monkey-and-the-art-of-adapting-a-short-story>
+
+---
+
+## 2024 Cybils Award Winners
+
+date: 2025-02-27, from: Locus Magazine
+
+<p>Winners for the 2024 Children&#8217;s and Young Adults Bloggers&#8217; Literary Awards (2024 Cybils) have been announced. Books of genre interest follow.</p>
+<div class="mynomorebulletlist">
+<p><strong>Young Adult Speculative Fiction</strong></p>
+<ul>
+<li>WINNER: <strong>Hearts Still Beating</strong>, Brooke Archer (Putnam Young Readers)</li>
+</ul>
+<ul>
+<li><strong>The Hedgewitch of Foxhall</strong>, Anna Bright (HarperTeen)</li>
+<li><strong>We Mostly Come Out at Night: 15 Queer Tales of Monsters, Angels &#38; Other Creatures</strong>, Rob Costello, (Running Press)</li>
+<li><strong>Otherworldly</strong>, F.T. Lukens (Margaret K. McElderry)</li></ul></div> <a href="https://locusmag.com/2025/02/2024-cybils-award-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2024-cybils-award-winners/>
+
+---
+
+## The Tomb of Dragons by Katherine Addison: Review by Liz Bourke
+
+date: 2025-02-27, from: Locus Magazine
+
+<p><strong>The Tomb of Dragons</strong>, Katherine Addison (Tor 978-1-250-81619-1, $28.99, 352pp, hc) March 2025. Cover by Chris Gibbs.</p>
+<p>It is impossible for me to overstate how much I enjoy the novels of Katherine Addison set in the world of <strong>The Goblin Emperor</strong>. Their only real competition, for me, is the ‘‘World of the Five Gods’’ continuity of Lois McMaster Bujold: the sense of being in the hands of a  <a href="https://locusmag.com/2025/02/the-tomb-of-dragons-by-katherine-addison-review-by-liz-bourke/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-tomb-of-dragons-by-katherine-addison-review-by-liz-bourke/>
+
+---
+
+## 2025 International Booker Prize Longlist
+
+date: 2025-02-27, from: Locus Magazine
+
+<p>The 13-title longlist for the 2025 International Booker Prize has been announced, with works and writers of genre interest including:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Book of Disappearance</strong>, Ibtisam Azem, trans. by Sinan Antoon (And Other Stories)</li>
+<li><strong>On the Calculation of Volume (Book 1)</strong>, Solvej Balle, trans. by Barbara J. Haveland (Faber)</li>
+<li><strong>There&#8217;s a Monster Behind the Door</strong>, Gaëlle Bélem, trans. by Karen Fleetwood &#38; Laëtitia Saint-Loubert (Bullaun)</li>
+<li><strong>Solenoid</strong>, Mircea </li></ul></div> <a href="https://locusmag.com/2025/02/2025-international-booker-prize-longlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2025-international-booker-prize-longlist/>
+
+---
+
+## Forthcoming Books Through December 2025
+
+date: 2025-02-27, from: Locus Magazine
+
+<p>The Locus Selected Books by Author list has been updated on our <strong>Forthcoming Books</strong> page, with information from the March 2025 issue covering upcoming titles from genre houses slated through December 2025. Find out about your favorite authors&#8217; upcoming books!</p>
+<p>For the complete list of books by publisher, subscribe to our print magazine or purchase the March issue in print or digital editions, available March 1, 2025</p>
+
+<p><strong>While you are </strong> <a href="https://locusmag.com/2025/02/forthcoming-books-through-december-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/forthcoming-books-through-december-2025/>
+
+---
+
+## IFTF Officer Transition
+
+date: 2025-02-27, updated: 2025-02-27, from: (IFTF) Interactive Fiction Technology Foundation
+
+ 
+
+<br> 
+
+<http://blog.iftechfoundation.org/2025-02-27-iftf-officer-transition.html>
 
 ---
 

@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-02-27 07:06:49
+updated: 2025-02-28 07:08:37
 ---
 
 # weather
 
-(date: 2025-02-27 07:06:49)
+(date: 2025-02-28 07:08:37)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-02-27, from: Eastern Pacific Basin GIS Data
+date: 2025-02-28, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Thu Feb 27 13:10:02 UTC 2025
+## SPC - No watches are valid as of Fri Feb 28 13:02:02 UTC 2025
 
-date: 2025-02-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Feb 27 13:10:02 UTC 2025. 
+No watches are valid as of Fri Feb 28 13:02:02 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Thu Feb 27 13:10:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Thu Feb 27 13:10:02 UTC 2025
+## SPC - No MDs are in effect as of Fri Feb 28 13:02:02 UTC 2025
 
-date: 2025-02-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Feb 27 13:10:02 UTC 2025. 
+No Mesoscale Discussions are in effect as of Fri Feb 28 13:02:02 UTC 2025. 
 
 <br> 
 
@@ -45,71 +45,26 @@ No Mesoscale Discussions are in effect as of Thu Feb 27 13:10:02 UTC 2025.
 
 ---
 
-## SPC Feb 27, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Feb 28, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-02-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0702 AM CST Thu Feb 27 2025
+0620 AM CST Fri Feb 28 2025
 
-Valid 271300Z - 281200Z
+Valid 281300Z - 011200Z
 
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
+...NO THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Isolated to scattered thunderstorms are possible from the Mid and
-Upper Ohio Valley to the Carolinas/southern Virginia.
+Thunderstorm probabilities are very low Friday.
 
-...Synopsis...
-Recent satellite imagery shows a pair of shortwave troughs moving
-through the broadly cyclonic flow aloft extending from the
-northern/central Plains and southern Canadian Prairies into the OH
-Valley and Northeast. The lead wave in the pair is currently over
-the Upper OH Valley, and should continue northeastward through the
-Northeast States today. The trailing wave is currently moving
-southeastward through the Upper Midwest, with the expectation that
-it will pivot more eastward as it moves through the Upper Great
-Lakes and OH Valley today before then continuing eastward through
-the Mid-Atlantic States overnight.
+Relatively dry and stable conditions will preclude organized
+thunderstorm development across the continental US today.
 
-Recent surface analysis placed a low over eastern Lake Erie, with an
-extensive cold front extending southwestward from this low into the
-TX Hill Country. This low is forecast to progress northeastward up
-the St. Lawrence Valley just ahead of the lead shortwave, with the
-attendant front moving eastward/southeastward. A weak, secondary
-frontal boundary is expected to move through the OH Valley,
-demarcated primarily by a shift to stronger, more northwesterly
-winds. Isolated thunderstorms are possible along both of these
-fronts, mostly during the late afternoon and early evening.
-
-...Mid/Upper OH Valley...
-Very cold mid-level temperatures are expected to spread across the
-region as the shortwave trough mentioned in the synopsis progresses
-through. These cold temperatures and associated steep mid-level
-lapse rates will occur atop a well-mixed boundary layer, resulting
-in 7 to 8 deg C/km lapse rates throughout the troposphere. These
-lapse rates will help support modest buoyancy, despite surface
-temperatures in the upper 40s/low 50s and dewpoints in the upper
-30s. Isolated thunderstorm development is anticipated along the
-surface boundary that is expected to move through the region, with
-the greatest coverage in the OH/KY/WV border vicinity this evening.
-Predominantly low-topped thunderstorms with transient updraft
-structures are anticipated. Even so, gusty winds and small hail may
-be noted with the more persistent and organized updrafts. Overall
-severe coverage is expected to be below thresholds for outlooking
-any areas.
-
-...Carolinas in central GA...
-Modest pre-frontal buoyancy is expected to develop amid increasing
-mid-level moisture and diurnal heating, supporting the potential for
-isolated thunderstorms as the front moves through. Small hail and a
-damaging gust or two are possible within the strongest storms, but a
-largely anafrontal and elevated storm structure should keep the
-overall severe potential low.
-
-..Mosier/Grams.. 02/27/2025
+..Hart/Grams.. 02/28/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -121,59 +76,50 @@ overall severe potential low.
 
 ---
 
-## SPC Feb 27, 2025 Day 4-8 Severe Weather Outlook
+## SPC Feb 28, 2025 Day 4-8 Severe Weather Outlook
 
-date: 2025-02-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-02-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 4-8 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0402 AM CST Thu Feb 27 2025
+0358 AM CST Fri Feb 28 2025
 
-Valid 021200Z - 071200Z
+Valid 031200Z - 081200Z
 
 ...DISCUSSION...
-...D6/Tue - East Texas into the Mid/Lower Mississippi Valley...
-A compact mid-level low will translate east across the Southwest on
-Sunday which will result in lee cyclogenesis in the southern/central
-High Plains. As surface high pressure across the Midwest translates
-east, favorable low-level trajectories and strengthening flow across
-the Gulf and southern Plains will initiate significant moisture
-return across Texas. The initial mid-level low will weaken as it
-moves across the Plains and into the Mid-Mississippi Valley on
-D5/Monday. However, lee cyclogenesis will likely strengthen Monday
-afternoon as a larger scale trough approaches the southern Plains.
-Shortwave ridging will likely keep the dryline capped on Monday with
-continued moistening beneath the capping inversion as low-level
-moisture advection continues. 
+Medium-range guidance suggests that an initially zonal, intense
+mid/upper jet across the western into central mid-latitude Pacific
+may undergo considerable amplification into and through this period.
+It remains a bit unclear how emerging waves will impact the
+downstream pattern by the middle to latter portion of next week. 
 
-By 12Z Tuesday, moisture recovery across the western Gulf should be
-complete with 70F dewpoints forecast near the Gulf Coast by both GFS
-and ECMWF ensembles. Confidence in the upper-level pattern is
-increasing as the ECMWF and EC Ensembles have been consistent with
-an amplified mid-level pattern across the central and southern
-Plains now for several consecutive runs. In addition, the GFS/GEFS
-has trended toward the more amplified ECMWF solution. As the
-confidence in the overall pattern increases, the confidence for a
-significant severe weather threat has also increased and 30% severe
-weather probabilities have been added from East Texas to central
-Mississippi. While specifics will remain uncertain until the event
-draws closer, the potential for multiple rounds of severe convection
-including supercells, clusters, and likely an eventual squall line
-will likely bring a threat for all severe weather hazards including
-strong tornadoes. 
+However, it still appears that one significant preceding short wave
+trough, migrating inland of the Pacific coast by early Monday, will
+progress into and across the southern Rockies, before accelerating
+east-northeastward through mid week.  And guidance remains
+suggestive that this will be accompanied by strong surface
+cyclogenesis, perhaps most notably across portions of the east
+central Great Plains toward the lower Great Lakes region late
+Tuesday through Tuesday night.  This may include an evolving warm
+sector with intensifying low-level and deep-layer shear (in the
+presence of southerly to southwesterly flow strengthening to 50-100
+kt in the 850 to 500 mb layer), coincident with an influx of
+moistening and destabilizing boundary-layer air off the northwestern
+Gulf.  
 
-...D7/Wed - Carolinas into the Southeast...
-The ECMWF/ECS, which has been several days ahead of other extended
-guidance on with this upcoming pattern, has trended toward greater
-moisture penetration into the Southeast US and east of the
-Appalachians. Low to mid 60s dewpoints in the presence of a very
-strong wind field will support a large area of severe weather threat
-from the Southeast to the Carolinas and perhaps into parts of the
-Mid-Atlantic. Storm mode and specific hazards will be impacted by
-prior day convection and the overall evolution of the deepening
-surface low and associated cold front, but a great enough threat
-exists for 15% severe weather probabilities for D7/Wednesday.
+Spread typical at this extended time frame (day 5) lingers among the
+various model output concerning the sub-synoptic, and even synoptic,
+details across the southeastern Great Plains through Ohio Valley and
+Southeast, which may considerably impact the severe weather risk
+area and potential.  However, the medium-range guidance depicts an
+environment at least conditionally supportive of an organized severe
+weather event, including potential for a few strong tornadoes and
+damaging straight line winds.
+
+It is possible, but perhaps a bit more uncertain, that this could
+continue across parts of the southern and middle Atlantic Seaboard
+on Wednesday.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
@@ -187,24 +133,31 @@ exists for 15% severe weather probabilities for D7/Wednesday.
 
 ## SPC Day 2 Fire Weather Outlook
 
-date: 2025-02-24, from: NOAA Weather Forecasts
+date: 2025-02-28, from: NOAA Weather Forecasts
 
 <br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 2 Fire Weather Outlook  
 NWS Storm Prediction Center Norman OK
-0136 AM CST Mon Feb 24 2025
+0200 AM CST Fri Feb 28 2025
 
-Valid 251200Z - 261200Z
+Valid 011200Z - 021200Z
 
-...NO CRITICAL AREAS...
+...CRITICAL FIRE WEATHER AREA FOR PORTIONS OF SOUTHEAST ARIZONA INTO
+FAR SOUTHWESTERN NEW MEXICO...
 
 ...Synopsis...
-Fire weather concerns are expected to remain low on D2 - Tuesday
-across the CONUS. The pattern will favor light winds where the
-driest conditions are expected which will preclude the need to
-include any highlights.
+A pronounced mid-level trough will overspread the Lower Colorado
+River Basin as a broader upper trough amplifies along the East Coast
+tomorrow (Saturday). Surface high pressure will dominate much of the
+CONUS east of the Plains states. A surface low will develop over
+southern Arizona by tomorrow afternoon, supporting 20+ mph sustained
+southerly surface winds amid 10-15 percent RH by afternoon peak
+heating, for several hours. Given the continued curing of fuels,
+surface meteorological conditions should favor wildfire spread
+potential, warranting the introduction of Critical highlights this
+outlook.
 
-..Thornton.. 02/24/2025
+..Squitieri.. 02/28/2025
 
 ...Please see www.spc.noaa.gov/fire for graphic product...
 

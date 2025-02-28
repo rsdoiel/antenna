@@ -1,11 +1,244 @@
 ---
 title: home
-updated: 2025-02-27 07:06:51
+updated: 2025-02-28 07:08:39
 ---
 
 # home
 
-(date: 2025-02-27 07:06:51)
+(date: 2025-02-28 07:08:39)
+
+---
+
+## 28 Flowers That Are Toxic to Cats (With Pictures and Names)
+
+date: 2025-02-28, from: Yard Life blog
+
+<p>Cats are naturally curious creatures, often nibbling on plants and flowers around the house. While many blooms are harmless, some ... </p>
+<p class="read-more-container"><a title="28 Flowers That Are Toxic to Cats (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/28-flowers-that-are-toxic-to-cats-with-pictures-and-names/#more-24235" aria-label="Read more about 28 Flowers That Are Toxic to Cats (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/28-flowers-that-are-toxic-to-cats-with-pictures-and-names/">28 Flowers That Are Toxic to Cats (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/28-flowers-that-are-toxic-to-cats-with-pictures-and-names/>
+
+---
+
+## 62 Types of Yellow Caterpillars with Black Spikes (With Pictures)
+
+date: 2025-02-28, from: Yard Life blog
+
+<p>Caterpillars come in a wide variety of colors and patterns, but Yellow Caterpillars with Black Spikes are among the most ... </p>
+<p class="read-more-container"><a title="62 Types of Yellow Caterpillars with Black Spikes (With Pictures)" class="read-more button" href="https://ownyardlife.com/62-types-of-yellow-caterpillars-with-black-spikes-with-pictures/#more-24175" aria-label="Read more about 62 Types of Yellow Caterpillars with Black Spikes (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/62-types-of-yellow-caterpillars-with-black-spikes-with-pictures/">62 Types of Yellow Caterpillars with Black Spikes (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/62-types-of-yellow-caterpillars-with-black-spikes-with-pictures/>
+
+---
+
+## Blackberry Lily Care and Growing Guide (Most Detailed)
+
+date: 2025-02-28, from: Yard Life blog
+
+<p>Blackberry lily (Iris domestica), also known as leopard lily, is a unique perennial plant prized for its stunning orange flowers ... </p>
+<p class="read-more-container"><a title="Blackberry Lily Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/blackberry-lily-care-and-growing-guide-most-detailed/#more-24169" aria-label="Read more about Blackberry Lily Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/blackberry-lily-care-and-growing-guide-most-detailed/">Blackberry Lily Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/blackberry-lily-care-and-growing-guide-most-detailed/>
+
+---
+
+## Angelonia Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-02-28, from: Yard Life blog
+
+<p>Angelonia, commonly known as Summer Snapdragon, is a beautiful flowering plant from the Plantaginaceae family. Native to Central and South ... </p>
+<p class="read-more-container"><a title="Angelonia Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/angelonia-plant-care-and-growing-guide-most-detailed/#more-24162" aria-label="Read more about Angelonia Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/angelonia-plant-care-and-growing-guide-most-detailed/">Angelonia Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/angelonia-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## What Does the ‘Lane Keep Assist’ Button Do? A Quick Guide
+
+date: 2025-02-27, from: Family Handyman Blog
+
+<p>Curious about the "Lane Keep Assist" button in your car? We'll explain what it does and why it's important. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/lane-keep-assist-button/">What Does the &#8216;Lane Keep Assist&#8217; Button Do? A Quick Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/lane-keep-assist-button/>
+
+---
+
+## 14 Incredible Steel Wool Hacks You’ll Wish You Knew Sooner
+
+date: 2025-02-27, from: Family Handyman Blog
+
+<p>Discover clever ways to use steel wool for cleaning, DIY repairs, and home maintenance. From removing tough stains to sharpening scissors, steel wool is a must-have tool!</p>
+<p>The post <a href="https://www.familyhandyman.com/list/steel-wool-hacks/">14 Incredible Steel Wool Hacks You’ll Wish You Knew Sooner</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/steel-wool-hacks/>
+
+---
+
+## 13 Tips for Getting Rid of Crabgrass for Good
+
+date: 2025-02-27, from: Family Handyman Blog
+
+<p>Follow these tips to defend your turf from crabgrass and be one step closer to having a perfect lawn.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/getting-rid-of-crabgrass/">13 Tips for Getting Rid of Crabgrass for Good</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/getting-rid-of-crabgrass/>
+
+---
+
+## Is Paying More For Premium Power Tools Worth It? Experts Weigh In
+
+date: 2025-02-27, from: Family Handyman Blog
+
+<p>Is it worth the extra money to choose premium vs. budget power tools? A team of expert tradespeople weighs in to help you decide.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/premium-or-budget-tools-experts-weigh-in/">Is Paying More For Premium Power Tools Worth It? Experts Weigh In</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/premium-or-budget-tools-experts-weigh-in/>
+
+---
+
+## Are We Thinking About 3D-Printed Housing All Wrong?
+
+date: 2025-02-27, from: Dwell
+
+Some using the technology to build say it can help with the affordable housing crisis, but it’s not the cure-all it’s sometimes framed as. 
+
+<br> 
+
+<https://www.dwell.com/article/are-we-thinking-about-3d-printed-housing-all-wrong-3b95697f>
+
+---
+
+## This $1.3M Glass "Tree House" Is not Your Average Upstate Cabin
+
+date: 2025-02-27, from: Dwell
+
+The contemporary retreat is a two-hour drive from New York City, but it feels a world away. 
+
+<br> 
+
+<https://www.dwell.com/article/accord-aerie-cabin-upstate-new-york-real-estate-88e3b153>
+
+---
+
+## Okopod Makes Backyard Prefabs for Work, Play, or Whatever You Want
+
+date: 2025-02-27, from: Dwell
+
+Starting at $18K, the U.K. company’s units have been used for everything from light-filled offices to a garage for classic cars. 
+
+<br> 
+
+<https://www.dwell.com/article/okopod-designers-garden-office-backyard-prefab-shed-91671c54>
+
+---
+
+## How to Plant and Grow ‘Oscarde’ Oak Leaf Lettuce
+
+date: 2025-02-27, from: The Gardener's Path
+
+<p>‘Oscarde’ lettuce is an oak leaf variety that has a beautiful appearance and exceptional flavor, with reddish-brown leaves and bright green centers. It's incredibly tough and won't even flinch in a hard freeze – but it doesn't enjoy hot weather. Learn how to plant and grow 'Oscarde' in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-oscarde-lettuce/">How to Plant and Grow ‘Oscarde’ Oak Leaf Lettuce</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-oscarde-lettuce/>
+
+---
+
+## 10 Eco Building Materials Revolutionizing Home Construction
+
+date: 2025-02-27, from: Elemental Green blog
+
+<p>Want to hear some good news? According to the World Green Building Trends 2018 report from Dodge Data and Analytics, green building is officially a "global trend" and energy conservation is a top priority for people all over the planet. There are many choices of new (and old) materials which are being used in revolutionary ways.</p>
+<p>The post <a href="https://elemental.green/10-eco-building-materials-revolutionizing-home-construction/">10 Eco Building Materials Revolutionizing Home Construction</a> first appeared on <a href="https://elemental.green">Elemental Green</a>.</p> 
+
+<br> 
+
+<https://elemental.green/10-eco-building-materials-revolutionizing-home-construction/>
+
+---
+
+## 9 Must-Know Tips to Paint a Door Like a Pro
+
+date: 2025-02-27, from: Family Handyman Blog
+
+<p>Painting a door might seem straightforward, but achieving a professional finish requires careful preparation and the right techniques. Whether you’re refreshing an old door or giving a new one a flawless coat, following these expert steps will ensure a smooth, durable result.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/door-painting-tips/">9 Must-Know Tips to Paint a Door Like a Pro</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/door-painting-tips/>
+
+---
+
+## 22 Sneaky Spots to Hide Valuables Around Your Home
+
+date: 2025-02-27, from: Family Handyman Blog
+
+<p>It's always a good idea to have several small hiding places in mind in case you want to stash extra cash, documents or valuables. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/secret-hiding-places-in-your-home/">22 Sneaky Spots to Hide Valuables Around Your Home</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/secret-hiding-places-in-your-home/>
+
+---
+
+## 11 Tips for Patching Drywall to Achieve a Paint-Ready Finish
+
+date: 2025-02-27, from: Family Handyman Blog
+
+<p>Patching is one of the most important steps to prep for painting. Here's how to get it right.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/patching-drywall-tips/">11 Tips for Patching Drywall to Achieve a Paint-Ready Finish</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/patching-drywall-tips/>
+
+---
+
+## Winter Is Still a Critical Season for Gardening. Here’s Your To-Do List.
+
+date: 2025-02-27, from: Sunset Magazine - Living in the West
+
+Savvy gardeners know winter is a critical season for setting up your landscape for success in spring. Here are the winter garden tasks to do. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/winter-gardening-tasks>
 
 ---
 
@@ -21,6 +254,18 @@ date: 2025-02-27, from: Dwell
 
 ---
 
+## Sunset.com Home Page
+
+date: 2025-02-27, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
 ## 50 Types of Zinnias​ (With Pictures and Names)
 
 date: 2025-02-27, from: Yard Life blog
@@ -33,6 +278,18 @@ date: 2025-02-27, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/50-types-of-zinnias-with-pictures-and-names/>
+
+---
+
+## The Essential Gear You Need If You Want to Start Birding
+
+date: 2025-02-27, from: Sunset Magazine - Living in the West
+
+The meditative act of birdwatching reduces stress. This is the birding and birdwatching gear that you need to get started. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/birding-birdwatching-gear>
 
 ---
 
@@ -80,6 +337,18 @@ date: 2025-02-26, from: Family Handyman Blog
 
 ---
 
+## 25 Fresh and Vibrant Recipes to Cook This March
+
+date: 2025-02-26, from: Sunset Magazine - Living in the West
+
+This March, enjoy the end of winter and the start of spring with these recipe ideas, from cozy soups to fresh salads and pastas. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/march-recipe-ideas>
+
+---
+
 ## Food and Drink
 
 date: 2025-02-26, from: Sunset Magazine - Living in the West
@@ -101,18 +370,6 @@ Perched on poles, the home has a slatted Cor-Ten exterior that lets air flow aro
 <br> 
 
 <https://www.dwell.com/article/sawmill-treehouse-robbie-walker-fire-safe-home-forest-retreat-7dc6a847>
-
----
-
-## The Essential Gear You Need if You Want to Start Birding
-
-date: 2025-02-26, from: Sunset Magazine - Living in the West
-
-The meditative act of birdwatching reduces stress. This is the birding and birdwatching gear that you need to get started. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/birding-birdwatching-gear>
 
 ---
 
@@ -312,18 +569,6 @@ When the house architect Lorcan O’Herlihy originally built for his parents bur
 <br> 
 
 <https://www.dwell.com/article/how-they-pulled-it-off-retrofitting-a-home-against-wildfire-9b0463f6>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-02-26, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

@@ -1,11 +1,406 @@
 ---
 title: snapshots
-updated: 2025-02-27 07:06:53
+updated: 2025-02-28 07:08:42
 ---
 
 # snapshots
 
-(date: 2025-02-27 07:06:53)
+(date: 2025-02-28 07:08:42)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-28, from: Dave Winer's linkblog)
+
+The US Department of Education now has a DEI snitch form. 
+
+<br> 
+
+<https://enddei.ed.gov/>
+
+---
+
+## Magical and Cute
+
+date: 2025-02-28, updated: 2025-02-28, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/02/28/magical-and-cute/>
+
+---
+
+## Chaos Is Bad for Business
+
+date: 2025-02-28, from: Paul Krugman
+
+Ignorance, megalomania and the economic future 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/surprise-chaos-is-bad-for-business>
+
+---
+
+## Name that Ware, February 2025
+
+date: 2025-02-28, from: Bunnie's Studio Blog
+
+Here&#8217;s the Ware for February 2025: Thanks again to spida for contributing yet another guest ware! Hopefully this one is a smidge easier to guess compared to last month&#8217;s. 
+
+<br> 
+
+<https://www.bunniestudios.com/blog/2025/name-that-ware-february-2025/>
+
+---
+
+## Solution, Name that Ware January 2025
+
+date: 2025-02-28, from: Bunnie's Studio Blog
+
+The ware for January 2025 is the Gavilan SC laptop motherboard. The Gavilan laptop is one of the first portable computer designs, announced in 1983, at a 2024-equivalent price of $12,400. However, the company only survived for one year, per Wikipedia: Owing to a rigorous overhaul of the design of the laptop, the company missed [&#8230;] 
+
+<br> 
+
+<https://www.bunniestudios.com/blog/2025/solution-name-that-ware-january-2025/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-28, from: Dave Winer's linkblog)
+
+Republicans terrified of crossing Trump due to physical threats, Democrat says. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/feb/27/republicans-trump-threats>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-02-28, from: Feed for Alt USDS)
+
+A resigned DOGE and former USDS staffer, among the 21 protest resignations earlier this week, spoke to Ari Shapiro on All Things Considered. The segment was later featured on Consider This. 
+
+🎧 Listen to the interview: https://www.npr.org/podcasts/510355/considerthis
+
+Thank you for your service and your perspective👏 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lj7r3fadak2a>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-28, from: Dave Winer's linkblog)
+
+Judge finds mass firings of federal probationary workers to likely be unlawful. 
+
+<br> 
+
+<https://www.cnn.com/2025/02/27/politics/judge-mass-firings-federal-probationary-workers-likely-unlawful/index.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-28, from: Dave Winer's linkblog)
+
+Renewables generated 24.2% of US electricity in 2024. 
+
+<br> 
+
+<https://electrek.co/2025/02/27/renewables-generated-24-percent-us-electricity-2024-eia-data/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+Data show Tesla sales declined sharply in Europe. 
+
+<br> 
+
+<https://www.npr.org/2025/02/27/nx-s1-5311609/tesla-sales-europe>
+
+---
+
+## Manx's Aztec C
+
+date: 2025-02-27, from: Computer ads from the Past
+
+Leap into a new dimension with Aztec C 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/manxs-aztec-c>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-02-27, from: Tomosino's Mastodon feed)
+
+<p><span class="h-card" translate="no"><a href="https://mastodon.social/@mozillaofficial" class="u-url mention" rel="nofollow noopener" target="_blank">@<span>mozillaofficial</span></a></span> hey, stop being shit bags. You're the ones we're rooting for. Literally all you need to do to succeed is nothing. Just stop.</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114078315575018281>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-02-27, from: Feed for Alt USDS)
+
+Who watches the government?🔍 Every agency has an Office of Inspector General (OIG) working behind the scenes to stop fraud, waste & abuse. Real audits don't use chainsaws—they’re precise, independent & built on truth.
+
+OIGs matter now more than ever: https://www.wethebuilders.org/posts/im-an-auditor-elon-has-no-idea 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lj6x3rcf6c2a>
+
+---
+
+## Initial impressions of GPT-4.5
+
+date: 2025-02-27, updated: 2025-02-27, from: Simon Willison’s Weblog
+
+<p>GPT-4.5 <a href="https://openai.com/index/introducing-gpt-4-5/">is out today</a> as a "research preview" - it's available to OpenAI Pro ($200/month) customers and to developers with an API key. OpenAI also published <a href="https://openai.com/index/gpt-4-5-system-card/">a GPT-4.5 system card</a>.</p>
+<p>I've started work <a href="https://github.com/simonw/llm/issues/795">adding it to LLM</a> but I don't have a full release out yet. For the moment you can try it out via <a href="https://docs.astral.sh/uv/">uv</a> like this:</p>
+<pre><code>uvx --with 'https://github.com/simonw/llm/archive/801b08bf40788c09aed6175252876310312fe667.zip' \
+  llm -m gpt-4.5-preview 'impress me'
+</code></pre>
+<p>It's <em>very</em> expensive right now: <a href="https://openai.com/api/pricing/">currently</a> $75.00 per million input tokens and $150/million for output! For comparison, o1 is $15/$60 and GPT-4o is $2.50/$10. GPT-4o mini is $0.15/$0.60 making OpenAI's least expensive model 500x cheaper than GPT-4.5 for input and 250x cheaper for output!</p>
+<p>As far as I can tell almost all of its key characteristics are the same as GPT-4o: it has the same 128,000 context length, handles the same inputs (text and image) and even has the same training cut-off date of October 2023.</p>
+<p>So what's it better at? According to OpenAI's blog post:</p>
+<blockquote>
+<p>Combining deep understanding of the world with improved collaboration results in a model that integrates ideas naturally in warm and intuitive conversations that are more attuned to human collaboration. GPT‑4.5 has a better understanding of what humans mean and interprets subtle cues or implicit expectations with greater nuance and “EQ”. GPT‑4.5 also shows stronger aesthetic intuition and creativity. It excels at helping with writing and design.</p>
+</blockquote>
+<p>They include this chart of win-rates against GPT-4o, where it wins between 56.8% and 63.2% of the time for different classes of query:</p>
+<p><img src="https://static.simonwillison.net/static/2025/gpt-win-rates.jpg" alt="Bar chart showing GPT-4.5 win-rate vs GPT-4o across three categories: Everyday queries (57.0%), Professional queries (63.2%), and Creative intelligence (56.8%)." style="max-width: 100%;" /></p>
+<p>They also report a SimpleQA hallucination rate of 37.1% - a big improvement on GPT-4o (61.8%) and o3-mini (80.3%) but not much better than o1 (44%). The coding benchmarks all appear to score similar to o3-mini.</p>
+<p>Paul Gauthier <a href="https://twitter.com/paulgauthier/status/1895221869844013108">reports</a> a score of 45% on Aider's <a href="https://aider.chat/docs/leaderboards/">polyglot coding benchmark</a> - below DeepSeek V3 (48%), Sonnet 3.7 (60% without thinking, 65% with thinking) and o3-mini (60.4%) but significantly ahead of GPT-4o (23.1%).</p>
+<p>OpenAI don't seem to have enormous confidence in the model themselves:</p>
+<blockquote>
+<p>GPT‑4.5 is a very large and compute-intensive model, making it more <a href="https://openai.com/api/pricing/">expensive⁠</a> than and not a replacement for GPT‑4o. Because of this, we're evaluating whether to continue serving it in the API long-term as we balance supporting current capabilities with building future models.</p>
+</blockquote>
+<p>It drew me this for "Generate an SVG of a pelican riding a bicycle":</p>
+<p><img src="https://static.simonwillison.net/static/2025/pelican-gpt45.jpg" alt="A pretty simple pelican, not as good as other leading models" style="max-width: 100%;" /></p>
+<p>Accessed via the API the model feels weirdly slow - here's an animation showing how that pelican was rendered - the full response <a href="https://gist.github.com/simonw/90834e1ca91e3f802d80f67bac94ad7d#file-pelican-json-L41">took 112 seconds</a>!</p>
+<p><img src="https://static.simonwillison.net/static/2025/gpt-45.gif" alt="Animated terminal session - the tokens are coming back very slowly" style="max-width: 100%;" /></p>
+<p>OpenAI's Rapha Gontijo Lopes <a href="https://twitter.com/rapha_gl/status/1895213014699385082">calls this</a> "(probably) the largest model in the world" - evidently the problem with large models is that they are a whole lot slower than their smaller alternatives!</p>
+<p>Andrej Karpathy <a href="https://x.com/karpathy/status/1895213020982472863">has published some notes</a> on the new model, where he highlights that the improvements are limited considering the 10x increase in training cost compute to GPT-4:</p>
+<blockquote>
+<p>I remember being a part of a hackathon trying to find concrete prompts where GPT4 outperformed 3.5. They definitely existed, but clear and concrete "slam dunk" examples were difficult to find. [...] So it is with that expectation that I went into testing GPT4.5, which I had access to for a few days, and which saw 10X more pretraining compute than GPT4. And I feel like, once again, I'm in the same hackathon 2 years ago. Everything is a little bit better and it's awesome, but also not exactly in ways that are trivial to point to.</p>
+</blockquote>
+<p>Andrej is also running a fun <a href="https://twitter.com/karpathy/status/1895213023238987854">vibes-based polling evaluation</a> comparing output from GPT-4.5 and GPT-4o.</p>
+<p>There's an <a href="https://news.ycombinator.com/item?id=43197872">extensive thread</a> about GPT-4.5 on Hacker News. When it hit 324 comments I ran a summary of it using GPT-4.5 itself with <a href="">this script</a>:</p>
+<div class="highlight highlight-source-shell"><pre>hn-summary.sh 43197872 -m gpt-4.5-preview</pre></div>
+<p>Here's <a href="https://gist.github.com/simonw/5e9f5e94ac8840f698c280293d39965e">the result</a>, which took 154 seconds to generate and cost $2.11 (25797 input tokens and 1225 input, price calculated using my <a href="https://tools.simonwillison.net/llm-prices">LLM pricing calculator</a>).</p>
+<p>For comparison, I ran the same prompt against <a href="https://gist.github.com/simonw/592d651ec61daec66435a6f718c0618b">GPT-4o</a>, <a href="https://gist.github.com/simonw/cc760217623769f0d7e4687332bce409">GPT-4o Mini</a>, <a href="https://gist.github.com/simonw/6f11e1974e4d613258b3237380e0ecb3">Claude 3.7 Sonnet</a>, <a href="https://gist.github.com/simonw/c178f02c97961e225eb615d4b9a1dea3">Claude 3.5 Haiku</a>, <a href="https://gist.github.com/simonw/0c6f071d9ad1cea493de4e5e7a0986bb">Gemini 2.0 Flash</a>, <a href="https://gist.github.com/simonw/8a71396a4a219d8281e294b61a9d6dd5">Gemini 2.0 Flash Lite</a> and <a href="https://gist.github.com/simonw/112e3f4660a1a410151e86ec677e34ab">Gemini 2.0 Pro</a>.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/paul-gauthier">paul-gauthier</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Feb/27/introducing-gpt-45/#atom-everything>
+
+---
+
+## Hot take: GPT 4.5 is a nothing burger
+
+date: 2025-02-27, from: Gary Marcus blog
+
+Pure scaling in shambles 
+
+<br> 
+
+<https://garymarcus.substack.com/p/hot-take-gpt-45-is-a-nothing-burger>
+
+---
+
+## Xcode Spell Checking
+
+date: 2025-02-27, from: Michael Tsai
+
+Jesse Squires: Did you know that Xcode can spell check your code and comments? Based on my experience working on large teams and large Xcode projects, this is a little-known feature. I routinely find spelling errors, not only in code comments but in symbol names. For the latter, this is particularly frustrating when a misspelled [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/27/xcode-spell-checking/>
+
+---
+
+## nRootTag
+
+date: 2025-02-27, from: Michael Tsai
+
+Nathan Kahl (post, Hacker News): George Mason University researchers recently uncovered a way for hackers to track the location of nearly any computer or mobile device. Named &#8220;nRootTag&#8221; by the team, the attack uses a device&#8217;s Bluetooth address combined with Apple&#8217;s Find My network to essentially turn target devices into unwitting homing beacons.&#8220;It&#8217;s like transforming [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/27/nroottag/>
+
+---
+
+## The Tyranny of Apps
+
+date: 2025-02-27, from: Michael Tsai
+
+Rupert Jones (Hacker News): Apps have burrowed their way into seemingly every aspect of our lives and there are lots of reasons why companies are pushing us to use them. With an app, it is often &#8220;one click and you&#8217;re in&#8221;, rather than having to faff around online finding the website and remembering passwords. It [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/27/the-tyranny-of-apps/>
+
+---
+
+## Our Changing Relationship With Apple
+
+date: 2025-02-27, from: Michael Tsai
+
+Brent Simmons (2024): Apple&#8217;s positive effect on my life should not be underestimated. [&#8230;] But I need to remember, now and again, that Apple is a corporation, and corporations aren&#8217;t people, and they can&#8217;t love you back. You wouldn&#8217;t love GE or Exxon or Comcast &#8212; and you shouldn&#8217;t love Apple. It&#8217;s not an exception [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/02/27/our-changing-relationship-with-apple/>
+
+---
+
+## Ascending Levels of Nerd
+
+date: 2025-02-27, from: O'Reilly Radar
+
+In developing the content for our May 8 virtual conference Coding with AI: The End of Software Development as We Know It, we couldn’t help but want to feature Harper Reed, whose recent post “My LLM Codegen Workflow ATM” so perfectly encapsulates the kind of experimentation that developers are going through as they come to [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/ascending-levels-of-nerd/>
+
+---
+
+## Asus Zenbook Duo dual-screen laptop with Intel Arrow Lake now available for $1600 and up
+
+date: 2025-02-27, from: Liliputing
+
+<p>The 2nd-gen Asus Zenbook Duo dual-screen laptop made its debut during CES in January, and now it&#8217;s available for purchase in North America from retailers including Amazon and the Asus Store (US or Canada) Prices start at $1600 for a model with an Intel Core Ultra 7 255H processor, 32GB of RAM, and a 1TB [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/asus-zenbook-duo-dual-screen-laptop-with-intel-arrow-lake-now-available-for-1600-and-up/">Asus Zenbook Duo dual-screen laptop with Intel Arrow Lake now available for $1600 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/asus-zenbook-duo-dual-screen-laptop-with-intel-arrow-lake-now-available-for-1600-and-up/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+Tesla is hit with a fresh class action about its self-driving claims, hardware 3 computer. 
+
+<br> 
+
+<https://electrek.co/2025/02/27/tesla-is-hit-with-a-fresh-class-action-about-its-self-driving-claims-hardware-3-computer/>
+
+---
+
+## Live with Nate Silver
+
+date: 2025-02-27, from: Paul Krugman
+
+A recording from Paul Krugman and Nate Silver's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158047707/45c85370aee69c4a0731ce90c6f609ab.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158047707/45c85370aee69c4a0731ce90c6f609ab.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/live-with-nate-silver>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+Not known for political coverage, Wired takes a leading role in tracking Elon Musk&#39;s team. 
+
+<br> 
+
+<https://apnews.com/article/elon-musk-wired-doge-trump-1f3988a459d39f39e7be6c598aa3d710>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+This scene from Goodfellas does a pretty good job showing of what Trump is doing with the US government. They aren&#39;t even trying to hide it. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=P4nYgfV2oJA&t=130s>
+
+---
+
+## This Intel Twin Lake mini PC is made for networking, has two 10 Gb LAN and two 2.5 Gb LAN ports
+
+date: 2025-02-27, from: Liliputing
+
+<p>There&#8217;s a new mini PC available from several retailers (and sold under several different brand names) that features a low-power Intel Alder Lake-N or Twin lake processor with a lot of high-speed wired networking features. Available in the UK as the CWWK S7 or in the US as the Healuck HL, the computer supports up [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-intel-twin-lake-mini-pc-is-made-for-networking-has-two-10-gb-lan-and-two-2-5-gb-lan-ports/">This Intel Twin Lake mini PC is made for networking, has two 10 Gb LAN and two 2.5 Gb LAN ports</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-intel-twin-lake-mini-pc-is-made-for-networking-has-two-10-gb-lan-and-two-2-5-gb-lan-ports/>
+
+---
+
+## Alibaba Releases Advanced Open Video Model, Immediately Becomes AI Porn Machine
+
+date: 2025-02-27, from: 404 Media Group
+
+It took about 24 hours for Alibaba’s Wan 2.1 to become popular in the AI porn community.
+ 
+
+<br> 
+
+<https://www.404media.co/alibaba-releases-advanced-open-video-model-immediately-becomes-ai-porn-machine/>
+
+---
+
+## Now Available Online: Department of State Letters of Application and Recommendation for Public Office, 1797-1877
+
+date: 2025-02-27, from: National Archives, Text Message blog
+
+Until the mid-twentieth century, personnel files as we now understand them did not exist.  Nevertheless, there were some earlier records of a personnel-type that existed.  Among them are the records relating to applications for service in agencies of the U.S. government.  In the modern world, these types of records are not designated for preservation in &#8230; <a href="https://text-message.blogs.archives.gov/2025/02/27/now-available-online-department-of-state-letters-of-application-and-recommendation-for-public-office-1797-1877/" class="more-link">Continue reading <span class="screen-reader-text">Now Available Online: Department of State Letters of Application and Recommendation for Public Office, 1797-1877</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/02/27/now-available-online-department-of-state-letters-of-application-and-recommendation-for-public-office-1797-1877/>
+
+---
+
+## Perhaps Send Some Tasteful Boudoir Photographs
+
+date: 2025-02-27, updated: 2025-02-27, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/02/27/perhaps-send-some-tasteful-boudoir-photographs/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-02-27, from: Dave Winer's linkblog)
+
+Donald Trump and Elon Musk are ushering in a new age of bribery, graft, and corruption to American politics. (Yes, that&#39;s the big picture. They&#39;re recreating Russia, where all the functions of the state are being &quot;sold&quot; to oligarchs.) 
+
+<br> 
+
+<https://newrepublic.com/article/192008/trump-musk-scandal-corruption-crypto?vgo_ee=uAgzfJuQ1sgbuEfw63q0c7XKqfcr5rTJSl755D0iZOEw7nQN:DIyoy5eNWvwkEg2sWfuZX9ZcxHKBvj0U>
+
+---
+
+## Instagram 'Error' Turned Reels Into Neverending Scroll of Murder, Gore, and Violence
+
+date: 2025-02-27, from: 404 Media Group
+
+“Today’s algorithm showed me around 70 murders, 100+ accidents, and around 115 violence videos, is anyone on Instagram noticing it?” 
+
+<br> 
+
+<https://www.404media.co/instagram-error-turned-reels-into-neverending-scroll-of-murder-gore-and-violence/>
 
 ---
 
@@ -74,6 +469,19 @@ And their own supporters will be among the biggest victims
 <br> 
 
 <https://paulkrugman.substack.com/p/cruel-and-usual-republicans-prepare>
+
+---
+
+## The Dino 🦕, the Llama 🦙, and the Whale 🐋
+
+date: 2025-02-27, updated: 2025-02-27, from: Deno blog
+
+Did you know you can run a large language model with Deno and Jupyter Notebooks? Here's how.
+ 
+
+<br> 
+
+<https://deno.com/blog/the-dino-llama-and-whale>
 
 ---
 
@@ -1561,6 +1969,18 @@ Paul Gauthier's <a href="https://aider.chat/2024/12/21/polyglot.html#the-polyglo
 <br> 
 
 <https://simonwillison.net/2025/Feb/25/aider-polyglot-leaderboard/#atom-everything>
+
+---
+
+## Charles R. Drew, Blood Banking, and the Research Software Engineering Behind Medical Informatics
+
+date: 2025-02-25, from: The United States Research Software Engineer Association
+
+US-RSE’s DEI working group (DEI-WG) is proud to help US-RSE celebrate and participate in Black History Month. Each week during Black History Month, the US-RSE will spotlight Black/African Americans who have been involved in computing, science, engineering, and/or math, and have inspired our members through their accomplishments in their careers... 
+
+<br> 
+
+<https://us-rse.org/2025-02-25-black-history-spotlight-charles-r-drew/>
 
 ---
 

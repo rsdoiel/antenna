@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-02-27 07:06:51
+updated: 2025-02-28 07:08:40
 ---
 
 # retro computing
 
-(date: 2025-02-27 07:06:51)
+(date: 2025-02-28 07:08:40)
+
+---
+
+## New Linux Tool for Security Issues
+
+date: 2025-02-28, from: Linux Magazine
+
+<p>Seal Security is launching a new solution to automate fixing Linux vulnerabilities.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/New-Linux-Tool-for-Security-Issues>
+
+---
+
+## February 2025 News Summary
+
+date: 2025-02-28, from: Icon Bar, RISC OS News
+
+Some things we noticed this month. What did you see? 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2166.html>
+
+---
+
+## Manx's Aztec C
+
+date: 2025-02-27, from: Computer ads from the Past
+
+Leap into a new dimension with Aztec C 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/manxs-aztec-c>
 
 ---
 

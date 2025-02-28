@@ -1,11 +1,542 @@
 ---
 title: columns
-updated: 2025-02-27 07:06:48
+updated: 2025-02-28 07:08:37
 ---
 
 # columns
 
-(date: 2025-02-27 07:06:48)
+(date: 2025-02-28 07:08:37)
+
+---
+
+## Blogging like it’s 1999
+
+date: 2025-02-28, from: Doc Searls (at Harvard), New Old Blog
+
+Testing Wordland, about which Dave says more here. The predecessor fo this blog, which started in 2007, is this one, which (courtesy of Dave) started in the last year of the prior millennium. I had hair then. And wore glasses. Is this true? I want more sources. Irony of wanting more sources: there is already [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/02/28/testing-wordland/>
+
+---
+
+## Miscellany № 106: pistols, punctuation and print
+
+date: 2025-02-28, from: Shady Characters blog
+
+<p>I came across <a href="https://blog.emojipedia.org/x-redesigns-water-pistol-emoji-back-to-a-firearm/">a post last July on Emojipedia</a>, in which Keith Broni  noted that Twitter, or X, had redesigned its PISTOL emoji. PISTOL had always been controversial: most online platforms started off with PISTOLs drawn as realistic firearms, but, over the course of the mid-2010s, <a href="https://blog.emojipedia.org/apple-and-the-gun-emoji/">most of them moved to toylike renderings of water pistols</a> instead. Twitter had followed suit.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/02/miscellany-106-pistols-punctuation-and-print/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/02/miscellany-106-pistols-punctuation-and-print/>
+
+---
+
+## Adding curl release candidates
+
+date: 2025-02-28, from: Daniel Stenberg Blog
+
+Heading towards curl release number 266 we have decided to spice up our release cycle with release candidates in an attempt to help us catch regressions better earlier. It has become painfully obvious to us in the curl development team that over the past few years we have done several dot-zero releases in which we &#8230; <a href="https://daniel.haxx.se/blog/2025/02/28/adding-curl-release-candidates/" class="more-link">Continue reading <span class="screen-reader-text">Adding curl release candidates</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/02/28/adding-curl-release-candidates/>
+
+---
+
+## February 27, 2025
+
+date: 2025-02-28, from: Heather Cox Richardson blog
+
+Yesterday an unvaccinated child in Texas died of measles as nearly 140 people in Texas and New Mexico have been reported ill with the disease. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-27-2025>
+
+---
+
+## 10 more reasons for modest optimism
+
+date: 2025-02-28, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/more-reasons-for-moderate-optimism>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-02-28, from: Jessica Smith's blog)
+
+<p>Indie had her 4-month immunisations this morning. On that note, today I learned that <a href="https://theconversation.com/why-people-born-between-1966-and-1994-are-at-greater-risk-of-measles-and-what-to-do-about-it-110167">Australians born between 1966 and 1994 are largely under-immunised against measles<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> and should get an additional dose of <abbr title="measles-mumps-rubella">MMR</abbr> vaccine. And of course, I learned this because <a href="https://www.abc.net.au/news/2025-02-27/measles-victoria-local-outbreak/104992218">local transmission of measles has been confirmed in Victoria<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> and Indie isn&rsquo;t eligible for the <abbr title="measles-mumps-rubella">MMR</abbr> vaccine herself until she&rsquo;s 12 months old 🙃 Guess this is something Viv and I need to look into&hellip;</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/02/immunisations.html>
+
+---
+
+## The Anti-Vaccine Movement Gets Help
+
+date: 2025-02-28, from: Dan Rather's Steady
+
+As this bird flu jumps to humans, Trump pauses funding for a vaccine 
+
+<br> 
+
+<https://steady.substack.com/p/the-anti-vaccine-movement-gets-help>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-28, from: Miguel de Icaza Mastondon feed)
+
+<p>Elon musk is such a stupid clown.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114078792488625527>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-02-28, from: Miguel de Icaza Mastondon feed)
+
+<p>That barolo the other day was so good, I went to my local store and bought a cheaper one (40 or so dollars)</p><p>You can drink it, but it is definitely not as good as that fancy bottle I opened the other day.</p><p>I am afraid m, because this happened before when I tried Lindt’s after Hershey’s and now I can never consume a disgusting Hersheys bar again.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114078787931801913>
+
+---
+
+## Friday 28 February, 2025
+
+date: 2025-02-28, from: John Naughton's online diary
+
+Just Trolling along Nice satirical poster at a London bus stop. Quote of the Day ”In reading the history of nations, we find that, like individuals, they have their whims and their peculiarities; their seasons of excitement and recklessness, when &#8230; <a href="https://memex.naughtons.org/friday-28-february-2025/40484/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-28-february-2025/40484/>
+
+---
+
+##  How to Persuade the Vaccine Hesitant 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/how-to-persuade-the-vaccine-hesitant>
+
+---
+
+## Boycott tomorrow!
+
+date: 2025-02-27, from: Robert Reich's blog
+
+Join in tomorrow&#8217;s economic blackout 
+
+<br> 
+
+<https://robertreich.substack.com/p/boycott>
+
+---
+
+##  In What We Trust? 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/in-what-we-trust>
+
+---
+
+## Progress on Intel and Nvidia GPUs on Raspberry Pi
+
+date: 2025-02-27, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Progress on Intel and Nvidia GPUs on Raspberry Pi</span>
+
+            <p></p>
+
+<p>Nvidia GPUs have been running fine on Arm for a while now—I just upgraded the <a href="https://www.jeffgeerling.com/blog/2025/system76-built-fastest-windows-arm-pc">System76 Thelio Astra</a> to an RTX 4080 Super and am testing it now.</p>
+
+<p>But Nvidia seems to have a partnership with Ampere, which probably leads to their drivers getting priority support, and likely a few special edge cases in code to work around a couple PCIe quirks on the Altra CPUs. Nvidia <em>also</em> builds their own Arm CPUs—a <em>lot</em> of them—so Arm support is definitely a priority for them.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">February 27, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/progress-on-intel-and-nvidia-gpus-on-raspberry-pi>
+
+---
+
+##  What Makes for an Effective Boycott? 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/what-makes-for-an-effective-boycott>
+
+---
+
+## February 26, 2025
+
+date: 2025-02-27, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158056867/4c255d51d98197f436acc251dee49a57.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158056867/4c255d51d98197f436acc251dee49a57.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-26-2025-b88>
+
+---
+
+## Links for February 27, 2025
+
+date: 2025-02-27, from: Matt Haughey blog
+
+<p><a href="https://www.coryd.dev/posts/2025/make-yourself-less-valuable-to-tech-companies?ref=a.wholelottanothing.org" rel="noreferrer">Make yourself less valuable to tech companies</a> is a great, step-by-step guide to removing personal details from all your accounts so tech companies can&apos;t profile, analyze, or sell your information to others. A recent John Oliver episode of Last Week Tonight covered this subject, but it&apos;s</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/links-for-february-27-2025/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-02-27, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/02/27/engs.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Like many other people I love <a href="https://daytona.scripting.com/search?q=Severance">Severance</a>, esp this season, and esp the <a href="https://www.google.com/search?q=severance+season+2+episode+6">most recent episode</a>. My favorite scene in the last episode <a href="https://screenrant.com/severance-season-2-episode-6-why-helena-followed-mark-to-restaurant/">took place</a> at a Chinese restaurant. Anyway, I was just listening to the latest episode of the <a href="https://podcasts.apple.com/us/podcast/s2e6-attila-with-christopher-walken-and-sarah-bock/id1788381175?i=1000694662565">Severance podcast</a>, about this episode, which you should definitely listen to if you like me love the show. They have an interview with <a href="https://en.wikipedia.org/wiki/Christopher_Walken">Christopher Walken</a> who plays <a href="https://severance-tv.fandom.com/wiki/Burt_Goodman">Burt</a>. Amazing stuff. But even more amazing is that I learned in the podcast that the restaurant mentioned earlier is actually a famous <a href="https://www.engsrestaurant.com/">Kingston restaurant</a> that just <a href="https://www.timesunion.com/hudsonvalley/food/article/engs-chinese-restaurant-kingston-opens-dining-room-20058303.php">re-opened</a> after a long hiatus, so I've not yet had a chance to eat there, but I want to, <a href="https://www.engsrestaurant.com/">Eng's</a>. This, after learning that <a href="https://ny.eater.com/2025/1/27/24350496/severance-pips-phoenicia-diner-catskills">the diner</a> that's in two scenes, one in each season, is the <a href="https://www.phoeniciadiner.com/">Phoenicia Diner</a>, one of my favorite local eating places. 
+
+<br> 
+
+<http://scripting.com/2025/02/27.html#a192725>
+
+---
+
+##  When Social Security checks stop showing up because of gov&#8217;t employee purges,... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046337-when-social-security-chec>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-02-27, from: Ryan Gantz Bluesky feed)
+
+testing gridsky 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lj6lm4ultc2u>
+
+---
+
+##  &#8220;Democracy Dies in Darkness&#8221; Wasn&#8217;t a Warning; It Was Our End Goal.... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046332-democracy-dies-in-darknes>
+
+---
+
+## “Emergent Misalignment” in LLMs
+
+date: 2025-02-27, updated: 2025-02-27, from: Bruce Schneier blog
+
+<p>Interesting research: &#8220;<a href="https://martins1612.github.io/emergent_misalignment_betley.pdf">Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs</a>&#8220;:</p>
+<blockquote><p><b>Abstract:</b> We present a surprising result regarding LLMs and alignment. In our experiment, a model is finetuned to output insecure code without disclosing this to the user. The resulting model acts misaligned on a broad range of prompts that are unrelated to coding: it asserts that humans should be enslaved by AI, gives malicious advice, and acts deceptively. Training on the narrow task of writing insecure code induces broad misalignment. We call this emergent misalignment. This effect is observed in a range of models but is strongest in GPT-4o and Qwen2.5-Coder-32B-Instruct. Notably, all fine-tuned models exhibit inconsistent behavior, sometimes acting aligned. Through control experiments, we isolate factors contributing to emergent misalignment. Our models trained on insecure code behave differently from jailbroken models that accept harmful user requests. Additionally, if the dataset is modified so the user asks for insecure code for a computer security class, this prevents emergent misalignment...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/02/emergent-misalignment-in-llms.html>
+
+---
+
+##  DOGE&#8217;s Chaos Reaches Antarctica. &#8220;If the Antarctic program budget is cut, then... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046336-doges-chaos-reaches-antar>
+
+---
+
+## Me at 22 in Madison
+
+date: 2025-02-27, from: Dave Winer's Scripting News
+
+<p>Me as a grad student at <a href="https://www.cs.wisc.edu/">UW-Madison</a> in 1977 or so, programming on a Unix system, probably working on my first outliner. </p>
+<p>Note that the terminal I was using had uppercase and lowercase letters. This was a big innovation! </p>
+<p>I was using a <a href="https://en.wikipedia.org/wiki/PDP-11">PDP-11/45</a> to write in C. </p>
+<p>See the <a href="https://www.facebook.com/photo?fbid=213461068861306&set=a.113966572144090">comment thread</a> from 2014 on Facebook.</p>
+<p>I lived in a big house with 10 roommates. And as weird as it must seem from the point of view of 2025, I was the only one who used a computer. I would tell them all the time that we'd all use computers someday. They rolled their eyes and smiled. "There goes Dave again." The reason I was so sure was email and writing tools. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/02/27/daveAtTheTerminal.png"></center>Me at 22 in Madison. My mother, Dr Eve Winer, took this picture.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/02/27/173205.html?title=meAt22InMadison>
+
+---
+
+##  &#8220;The Covid Alarmists Were Closer to the Truth Than Anyone Else&#8221; 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/covid-alarmists-closer-to-the-truth>
+
+---
+
+##  Women Are Scared And Scrapping Their Baby Plans Under This Administration &... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046334-women-are-scared-and-scra>
+
+---
+
+## Software Liability: US vs. EU
+
+date: 2025-02-27, from: David Rosenthal's blog
+
+I have written before about the double-edged sword of  software vendors' ability to disclaim liability for the performance of their products. Six years ago I wrote <a href="https://blog.dshr.org/2018/08/the-internet-of-torts.html"><i>The Internet of Torts</i></a> about software embedded in the physical objects of the Internet of Things. Four years ago I wrote about
+<a href="https://blog.dshr.org/2020/09/liability-in-software-supply-chain.html"><i>Liability In The Software Supply Chain</i></a>.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIPBPpKs3fAUCjoaPvDBt-HOye-6up-u2d9ZpUFDornz8sGieYfnARgRnA0eu0y4cSD2o32e8RgZtQM7FpqaAjSN3I-K_QseEdwH3dn35_VgA3kCMCRlt3gqX3DwzzI_i_OVfKnZpxpJZJv8bgAXzZxa2__1f0PrLUJT7qASQ6Vrya-ZmeSP5HTUP45DT/s512/HandGrenade.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="293" data-original-width="512" height="114" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWIPBPpKs3fAUCjoaPvDBt-HOye-6up-u2d9ZpUFDornz8sGieYfnARgRnA0eu0y4cSD2o32e8RgZtQM7FpqaAjSN3I-K_QseEdwH3dn35_VgA3kCMCRlt3gqX3DwzzI_i_OVfKnZpxpJZJv8bgAXzZxa2__1f0PrLUJT7qASQ6Vrya-ZmeSP5HTUP45DT/w200-h114/HandGrenade.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.lawfaremedia.org/article/the-eu-throws-a-hand-grenade-on-software-liability">Source</a></td></tr></tbody></table>
+Last October, Tom Uren wrote <a href="https://www.lawfaremedia.org/article/the-eu-throws-a-hand-grenade-on-software-liability"><i>The EU Throws a Hand Grenade on Software Liability</i></a>:<br />
+<blockquote>
+The EU and U.S. are taking very different approaches to the introduction of liability for software products. While the U.S. kicks the can down the road, the EU is rolling a hand grenade down it to see what happens.
+</blockquote>
+It is past time to catch up on this issue, so follow me below the fold.<br />
+<span><a name='more'></a></span>
+<br />
+<h2>USA</h2>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHcnAa0mSV3DTYj5FvERTFUTCNPeecQgYwrY8QdPKCRHnZg-C2okZmMEGyxVZTm_DSUzbHj1mjlijXgMUsn6QgwR6Z5hBgPBxjPTPaiA5omoVUI_R1DPKCcl5dz8ZO3SNx0c4mcKM7IxrvphINHNk5aSheGKwUxAi8kBCubDFz9YDSSR0HERo_wUm0pOTG/s2298/SolariumCommission.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="566" data-original-width="2298" height="49" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHcnAa0mSV3DTYj5FvERTFUTCNPeecQgYwrY8QdPKCRHnZg-C2okZmMEGyxVZTm_DSUzbHj1mjlijXgMUsn6QgwR6Z5hBgPBxjPTPaiA5omoVUI_R1DPKCcl5dz8ZO3SNx0c4mcKM7IxrvphINHNk5aSheGKwUxAi8kBCubDFz9YDSSR0HERo_wUm0pOTG/w200-h49/SolariumCommission.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.solarium.gov/">Source</a></td></tr></tbody></table>
+In March 2020 the <a href="https://www.solarium.gov/">Cyberspace Solarium Commission</a>, a "bipartisan team of lawmakers and outside experts", launched their <a href="https://www.fdd.org/wp-content/uploads/2020/03/CSC-Final-Report.pdf">report</a>. Among its 82 recommendations were several related to liability:<br />
+<ul>
+<li>3.3.2: Clarify Liability for Federally Directed Mitigation, Response and Recovery Efforts</li>
+<li>4.2 Congress should pass a law establishing that final goods assemblers of software, hardware, and firmware are liable for damages from incidents that exploit known and unpatched vulnerabilities</li>
+<li>4.3 Congress should establish a Bureau of Cyber Statistics charged with collecting and providing statistical data on cybersecurity and the cyber ecosystem to inform policymaking and government programs</li>
+</ul>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKZGTJz2mu4ZMLC8M2Gwh9yz4o8txgFk1Icpm0JloTHy4tcu5Fok6ispvVMdJjnbdY8u-E3YKARBn3vDkD7ONy36lG7RkOjBeol-f39SwR-tdI8CsIXbp5qG62549RIhpZCBAPokcXvE4_lqTbnzSXrCFt_EQmElvPRv8DtoPSx0U3w-GO4cXqmPzWLGuX/s1316/NationalCybersecurityStrategy.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1316" data-original-width="1006" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKZGTJz2mu4ZMLC8M2Gwh9yz4o8txgFk1Icpm0JloTHy4tcu5Fok6ispvVMdJjnbdY8u-E3YKARBn3vDkD7ONy36lG7RkOjBeol-f39SwR-tdI8CsIXbp5qG62549RIhpZCBAPokcXvE4_lqTbnzSXrCFt_EQmElvPRv8DtoPSx0U3w-GO4cXqmPzWLGuX/w153-h200/NationalCybersecurityStrategy.png" width="153" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://web.archive.org/web/20230303001605/https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf">Source</a></td></tr></tbody></table>
+In March 2023 the Biden administration announced their <a href="https://web.archive.org/web/20230303001605/https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf"><i>National Cybersecurity Strategy</i></a>. As regards liability, it stated:<br />
+<blockquote>
+Markets impose inadequate costs on — and often reward — those entities that introduce vulnerable products or services into our digital ecosystem. Too many vendors ignore best practices for secure development, ship products with insecure default configurations or known vulnerabilities, and integrate third-party software of unvetted or unknown provenance. Software makers are able to leverage their market position to fully disclaim liability by contract, further reducing their incentive to follow secure-by-design principles or perform pre-release testing. Poor software security greatly increases systemic risk across the digital ecosystem and leave[s] American citizens bearing the ultimate cost.
+</blockquote>
+What did the administration <a href="https://web.archive.org/web/20230303001605/https://www.whitehouse.gov/wp-content/uploads/2023/03/National-Cybersecurity-Strategy-2023.pdf">propose to do about this</a>?:<br />
+<blockquote>
+The Administration will work with Congress and the private sector to develop legislation establishing liability for software products and services. Any such legislation should prevent manufacturers and software publishers with market power from fully disclaiming liability by contract, and establish higher standards of care for software in specific high-risk scenarios. To begin to shape standards of care for secure software development, the Administration will drive the development of an adaptable safe harbor framework to shield from liability companies that securely develop and maintain their software products and services. This safe harbor will draw from current best practices for secure software development, such as the NIST Secure Software Development Framework. It also must evolve over time, incorporating new tools for secure software development, software transparency, and vulnerability discovery.
+</blockquote>
+In October 2024 Eric Geller looked at what happened to the Cyberspace Solarium Commission's recommendations in  <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle"><i>The struggle for software liability: Inside a ‘very, very, very hard problem’</i></a>:<br />
+<blockquote>
+Six years after Congress tasked a group of cybersecurity experts with reimagining America’s approach to digital security, virtually all of that group’s proposals have been implemented. But there’s one glaring exception that has especially bedeviled policymakers and advocates: a proposal to make software companies legally liable for major failures caused by flawed code.
+</blockquote>
+It wasn't like the Commission invented the <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">liability problem</a>:<br />
+<blockquote>
+<a href="https://dl.acm.org/doi/10.1145/800176.809980">Since the 1980s</a>, legal scholars have discussed how liability should apply to flawed software. The fact that there still isn’t a consensus about the right approach underscores how complicated the issue is.<br />
+<br />
+One of the biggest hurdles is establishing a “standard of care,” a minimum security threshold that companies could meet to avoid lawsuits. There’s disagreement about “how to define a reasonably secure software product,” Dempsey said, and technology evolves so quickly that it might not be wise to codify one specific standard.<br />
+<br />
+Various solutions have been proposed, including letting juries decide if software is safe enough — like they do with other products — and letting companies qualify for “safe harbor” from lawsuits through existing programs like <a href="https://www.cisa.gov/secure-software-attestation-form">a government attestation process</a>.<br />
+<br />
+<a href="https://www.solarium.gov/report">The Solarium Commission proposed</a> safe harbor for companies that patch known vulnerabilities. But that would only address part of the problem.
+</blockquote>
+Even a very weak "duty of care" would be a big improvement. It would, for example, outlaw hard-wired passwords, require 2-factor authentication with FIDO or passkeys <a href="https://tech.slashdot.org/story/25/02/24/1442246/google-to-eliminate-sms-authentication-in-gmail-implement-qr-codes">not SMS</a>, require mailers to display the actual target of links, and so on.<br />
+<br />
+The industry pushback has been <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">ferocious</a>:<br />
+<blockquote>
+One of the industry’s chief arguments is that liability would distract companies from improving security and overburden them with compliance costs. “The more companies are spending their time on thinking about liability, the less they might be spending their time on higher-value activities,” said Henry Young, senior director of policy at the software trade group BSA.
+</blockquote>
+The problem is that the "higher-value activities" typically result in <i>adding</i> vulnerabilites to their products. I doubt that management at victim companies like <a href="https://blog.dshr.org/2017/10/not-whether-but-when.html">Equifax</a> or <a href="https://www.nytimes.com/2021/01/02/us/politics/russian-hacking-government.html">SolarWinds</a>' customers would think that adding flashy new features was "higher-value" than fixing vulnerabilities.<br />
+<br /> 
+You can't say the industry's flacks  <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">aren't creative</a>:<br />
+<blockquote>
+Liability opponents say insecure software isn’t the biggest cybersecurity problem, pointing to widespread and devastating phishing attacks.
+</blockquote>
+Riiiiight! Phishing is a force of nature, not a tactic enabled by the industry's insecure  products.<br />
+<br />
+Some of the industry's arguments are <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">laughable</a>:<br />
+<blockquote>
+They argue that even if policymakers want to focus on software security, there are better ways to prod vendors forward, such as encouraging corporate-board oversight.
+</blockquote>
+Board members are insulated from liability by D&amp;O insurance, so "encouraging" them will have precisely zero effect.<br />
+<br />
+But this is my <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">favorite</a>:<br />
+<blockquote>
+And they warn that focusing on liability will distract the government from pursuing better policies with its limited resources.
+</blockquote>
+Exactly what are the "better policies" they desire? To be left alone to ship more buggy products.<br />
+<br />
+The industry whines that they wouldbe treated differently from others, conveniently ignoring that the others can't <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">disclaim liability</a>:<br />
+<blockquote>
+Critics also contend that it’s unfair to punish companies for digital flaws that are deliberately exploited by malicious actors, a scenario that’s rare in most industries with liability, such as food and automobiles.
+</blockquote>
+In 2023 nearly <a href="https://en.wikipedia.org/wiki/Motor_vehicle_fatality_rate_in_U.S._by_year">41,000</a> people were killed by automobiles in the US. Many, probably most of those deaths were caused by "malicious actors" exploiting flaws such as cars that know what the speed limit is but don't enforce it, or could but don't detect that the driver is drunk or sleepy. Liability hasn't caused the auto industry to get real about safety. Instead we have <a href="XXX">Fake Self-Driving</a> killing people.
+<a href="https://usafacts.org/articles/how-many-people-get-sick-from-foodborne-illnesses/">And</a>:<br />
+<blockquote>
+Up to 48 million people get sick from a foodborne illness every year, and up to 3,000 are estimated to die from them.
+</blockquote>
+Finally, the industry claims that <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">everything in just fine</a>:<br />
+<blockquote>
+Industry leaders say liability is unnecessary because there’s already a working alternative: the marketplace, where businesses are accountable to their customers and invest in security to avoid financial and reputational punishment. As for contracts disclaiming liability, the industry says customers can negotiate security expectations with their vendors.<br />
+<br />
+“We're open to conversations about any way to improve software security,” Young said. “Our customers care about it, and we want to deliver for them.” 
+</blockquote>
+Have you tried to "negotiate security expectations" with Microsoft, or have a conversation with Oracle about a "way to improve software security"? How did it go?  I guess it <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">didn't go well</a>:<br />
+<blockquote>
+“Just telling organizations that not fixing security bugs will impact their business is not enough of an incentive,” a group of tech experts warned the Cybersecurity and Infrastructure Security Agency in <a href="https://s3.documentcloud.org/documents/25219051/cisa-cybersecurity-advisory-committee_draft-recommendations_20241011.pdf#page=5">a report</a> approved this month.<br />
+<br />
+Experts also rejected the idea that most customers could negotiate liability into their contracts. Few companies have leverage in negotiations with software giants, and few customers know enough about software security to make any demands of their vendors. 
+</blockquote>
+Despite its laughable nature, the industry's pushback ensured that nothing happened <a href="https://therecord.media/cybersecurity-software-liability-standards-white-house-struggle">until it was too late</a>:<br />
+<blockquote>
+Senior administration officials haven’t lived up to their lofty rhetoric about shifting the burden of cybersecurity from customers to suppliers, Herr said. “There is an attitude in this White House of a willingness to defer to industry in operational questions in a lot of cases.” 
+</blockquote>
+In the end it may come down to judges to determine whether the disclaimers of liability are effective, and there may be a siight ray of hope.  Last December Sean Lyngaas reported that <a href="https://www.cnn.com/2024/12/20/tech/whatsapp-nso-group-pegasus/index.html"><i>Judge rules Israeli firm NSO Group liable for damages in WhatsApp hacking case</i></a>:<br />
+<blockquote>
+Messaging service WhatsApp claimed a major legal victory over Israeli spyware firm NSO Group on Friday after a federal judge ruled that NSO was liable under federal and California law for a 2019 hacking spree that breached over 1,000 WhatsApp users.<br />
+<br />
+It’s a rare legal win for activists who have sought to rein in companies that make powerful spyware, or software capable of surveilling calls and texts, that has reportedly been used on journalists, human rights advocates and political dissidents worldwide.
+</blockquote>
+So in the US the disclaimers of liability in the end user license agreement are, and will presumably continue to be, valid unless your product is intended to commit crimes such as violations of the <a href="https://en.wikipedia.org/wiki/Computer_Fraud_and_Abuse_Act">Computer Fraud and Abuse Act</a>. The bar for a victim to prove liability is impossibly high.<br />
+<br />
+Color me skeptical, but Jim Dempsey writes in <a href="https://www.lawfaremedia.org/article/the-maga-case-for-software-liability"><i>The MAGA Case for Software Liability</i></a>:<br />
+<blockquote>
+Under the current administration, the instinctive inclination of post-Reagan Republicans to rely only on market forces to hold businesses responsible for the consequences of their actions would seem to preclude the use of government policy to improve the security of software vital to business and government operations. Indeed, the Trump team has promised <a href="https://www.wsj.com/opinion/musk-and-ramaswamy-the-doge-plan-to-reform-government-supreme-court-guidance-end-executive-power-grab-fa51c020">wholesale repudiation</a> of regulations adopted in the past four years, so new limits on industry would seem especially unlikely.<br />
+<br />
+There are, however, good reasons why the new administration should not default to repealing the cybersecurity actions of the past four years and passively accepting severe cyber vulnerabilities in critical infrastructure. In fact, as I explained in a series last year on initiatives <a href="https://www.lawfaremedia.org/article/stitching-together-the-cybersecurity-patchwork-quilt--infrastructure">aimed at infrastructure</a> and <a href="https://www.lawfaremedia.org/article/stitching-together-the-cybersecurity-patchwork-quilt--data">data</a>, much of the Biden administration’s cybersecurity agenda was built on projects launched by President Trump in his first term. The Trump administration would do well to remember the underlying principles that spurred it to initiate these actions the first time around.
+</blockquote>
+<h2>EU</h2>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5vi69pi4b9NxWM0wBIniTun0pJ1YAYEN5tDmtiMNEnEcxLLn_XiKXigBHb9TSfR8knmpnmdKGQQij-XXaDjp4UmQHIgYLcwlRQ_Sd9DIyWblgCwGwprPuNhyup1ogfS23nzLINjP3a6rK8TClqQz6UUZR0Yu2IxoS7-BTJcSJlqJWvzpyo6FZ2C42gii4/s1434/BenceTuzson.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="456" data-original-width="1434" height="64" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5vi69pi4b9NxWM0wBIniTun0pJ1YAYEN5tDmtiMNEnEcxLLn_XiKXigBHb9TSfR8knmpnmdKGQQij-XXaDjp4UmQHIgYLcwlRQ_Sd9DIyWblgCwGwprPuNhyup1ogfS23nzLINjP3a6rK8TClqQz6UUZR0Yu2IxoS7-BTJcSJlqJWvzpyo6FZ2C42gii4/w200-h64/BenceTuzson.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/eu-brings-product-liability-rules-in-line-with-digital-age-and-circular-economy/">Source</a></td></tr></tbody></table>
+The EU seems to be taking an opposite approach.  Tom Uren <a href="https://www.lawfaremedia.org/article/the-eu-throws-a-hand-grenade-on-software-liability">wrote</a>:<br />
+<blockquote>
+Earlier this month, the EU Council <a href="https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/eu-brings-product-liability-rules-in-line-with-digital-age-and-circular-economy/">issued a directive</a> updating the EU’s product liability law to treat software in the same way as any other product. <a href="https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en">Under this law</a>, consumers can claim compensation for damages caused by defective products without having to prove the vendor was negligent or irresponsible. In addition to personal injury or property damages, for software products, damages may be awarded for the loss or destruction of data.
+</blockquote>
+In the EU companies are presumed to be liable for a defective product unless they can qualify for a "<a href="https://www.lawfaremedia.org/article/the-eu-throws-a-hand-grenade-on-software-liability">safe harbor</a>":<br />
+<blockquote>
+Rather than define a minimum software development standard, the directive sets what we regard as the highest possible bar. Software makers can avoid liability if they prove a defect was not discoverable given the “objective state of scientific and technical knowledge” at the time the product was put on the market. 
+</blockquote>
+The directive is based on <a href="https://single-market-economy.ec.europa.eu/single-market/goods/free-movement-sectors/liability-defective-products_en">2 main principles</a>:<br />
+<blockquote>
+<ul>
+<li>the manufacturer has to compensate the damage caused by a defective product of theirs</li>
+<li>the victim has to prove the product’s defectiveness, the damage that was caused and establish that this defectiveness was the cause of the damage</li>
+</ul>
+</blockquote>
+And the <a href="https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/eu-brings-product-liability-rules-in-line-with-digital-age-and-circular-economy/">products are defined thus</a>:<br />
+<blockquote>
+<ul>
+<li>Digital economy: The new law extends the definition of “product” to digital manufacturing files and software. Also online platforms can be held liable for a defective product sold on their platform just like any other economic operators if they act like one.</li>
+<li>Circular economy: When a product is repaired and upgraded outside the original manufacturer’s control, the company or person that modified the product should be held liable.</li>
+</ul>
+</blockquote>
+Unlike the current and proposed US approaches, the EU's approach imposes victim-driven consequences for:<br />
+<ul>
+<li>Failure to use current software tools and development practices to prevent defects. Note that the directive gives victims the right to obtain evidence of this kind.</li>
+<li>Failure to acknowledge and respond to defect reports from customers and third parties, because they were clearly discoverable via the "objective state of scientific and technical knowledge". But note the caveat "at the time the product was put on the market".</li>
+<li>Failure to issue timely fixes for defects.</li>
+</ul>
+Uren <a href="https://www.lawfaremedia.org/article/the-eu-throws-a-hand-grenade-on-software-liability">concludes</a>:<br />
+<blockquote>
+Major software vendors used by the world’s most important enterprises and governments are publishing comically vulnerable code without fear of any blowback whatsoever. So yes, the status quo needs change. Whether it needs a hand grenade lobbed at it is an open question. We’ll have our answer soon.
+</blockquote>
+<h2>Open Source</h2>
+Neither the US nor the EU approaches seem to take account of the fact that many of the "products" they propose to regulate are based upon open source code. An under-appreciated feature of the rise of IT has been the extraordinary productivity unleashed by the 1988 <a href="https://en.wikipedia.org/wiki/BSD_licenses">Berkeley Software Distribution license</a> and Richard Stallman's 1989 <a href="https://en.wikipedia.org/wiki/GNU_General_Public_License">GNU General Public License</a>.  <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">Version 3 of the Gnu Public License</a> Section 15 states:<br />
+<blockquote>
+THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM “AS IS” WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+</blockquote>
+And Section 16 <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">states</a>:<br />
+<blockquote>
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+</blockquote>
+That these licenses disclaimed warranties and liabilities was the key to the open source revolution because it enabled <i>individuals</i>, rather than developers protected by their employer's lawyers, to contribute. Without the disclaimers individual developers would face unacceptable legal risk. On the other hand, open source is also a channel for malware. Shaurya Malwa reports on an example in <a href="https://www.coindesk.com/tech/2025/02/26/hackers-are-using-fake-github-code-to-steal-your-bitcoin-kaspersky"><i>Hackers Are Using Fake GitHub Code to Steal Your Bitcoin: Kaspersky</i></a>:<br />
+<blockquote>
+The report warned users of a “GitVenom” campaign that’s been active for at least two years but is steadily on the rise, involving planting malicious code in fake projects on the popular code repository platform.<br />
+<br />
+The attack starts with seemingly legitimate GitHub projects — like making Telegram bots for managing bitcoin wallets or tools for computer games.<br />
+<br />
+Each comes with a polished README file, often AI-generated, to build trust. But the code itself is a Trojan horse: For Python-based projects, attackers hide nefarious script after a bizarre string of 2,000 tabs, which decrypts and executes a malicious payload.<br />
+<br />
+For JavaScript, a rogue function is embedded in the main file, triggering the launch attack. Once activated, the malware pulls additional tools from a separate hacker-controlled GitHub repository.
+</blockquote>
+<br />
+Balancing the need to stop vendors "publishing comically vulnerable code" with the need to nurture the open source ecosystem is a difficult problem.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/02/software-liability-us-vs-eu.html>
+
+---
+
+##  The February 28 Economic Blackout 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/the-february-28-economic-blackout>
+
+---
+
+##  FDA cancels meeting to select flu strains for next season&#8217;s shots. &#8220;Deciding... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046331-fda-cancels-meeting-to-se>
+
+---
+
+##  The US Economic Policy Uncertainty Index is at its highest level since... 
+
+date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/02/0046330-the-us-economic-policy-un>
 
 ---
 
@@ -35,7 +566,7 @@ date: 2025-02-27, updated: 2025-02-27, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-02-27, from: Dave Winer's Scripting News)
 
-<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2019/09/14/rssCoffeeCup.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm also interested in social networks and <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> and have <a href="https://daytona.scripting.com/search?q=wordland">written</a> a lot about that in the context of WordLand, because it generates RSS, it can connect to any app that understands RSS, basically because WordPress does. But don't get confused that WordLand is somehow a twitter-like silo. There are already too many of those. I want something much simpler and I believe more useful and less spammy and abusive -- <i>a social network built around RSS.</i> 
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2019/09/14/rssCoffeeCup.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm also interested in social networks and <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> and have <a href="https://daytona.scripting.com/search?q=wordland">written</a> a lot about that in the context of WordLand, because it generates RSS, it can connect to any app that understands RSS. But don't get confused that WordLand is somehow a twitter-like silo. There are already too many of those. I want something much simpler and I believe more useful and less spammy and abusive -- <i>a social network built around RSS.</i> 
 
 <br> 
 
@@ -113,7 +644,7 @@ He&#8217;s lying about what we did in the Clinton administration, lying when he 
 
 ## ★ The iPhone 16e
 
-date: 2025-02-27, updated: 2025-02-27, from: Daring Fireball
+date: 2025-02-27, updated: 2025-02-28, from: Daring Fireball
 
 The iPhone 16e is an iPhone for people who don’t want to think much about their phone. But they *do* want an iPhone, not just any “whatever” phone. A just plain iPhone, with a good screen, good enough (and simple) camera, and great battery life. 
 
@@ -458,9 +989,9 @@ date: 2025-02-26, from: Dave Winer's Scripting News
 
 ---
 
-## An iCloud Backdoor Would Make Our Phones Less Safe
+## UK Demanded Apple Add a Backdoor to iCloud
 
-date: 2025-02-26, updated: 2025-02-26, from: Bruce Schneier blog
+date: 2025-02-26, updated: 2025-02-27, from: Bruce Schneier blog
 
 <p>Last month, the UK government <a href="https://www.washingtonpost.com/technology/2025/02/07/apple-encryption-backdoor-uk/">demanded</a> that Apple weaken the security of iCloud for users worldwide. On Friday, Apple took steps to comply for users in the United Kingdom. But the British law is written in a way that requires Apple to give its government access to anyone, anywhere in the world. If the government demands Apple weaken its security worldwide, it would increase everyone&#8217;s cyber-risk in an already dangerous world.</p>
 <p>If you&#8217;re an iCloud user, you have the option of turning on something called &#8220;<a href="https://support.apple.com/en-us/102651">advanced data protection</a>,&#8221; or ADP. In that mode, a majority of your data is end-to-end encrypted. This means that no one, not even anyone at Apple, can read that data. It&#8217;s a restriction enforced by mathematics&#8212;cryptography&#8212;and not policy. Even if someone successfully hacks iCloud, they can&#8217;t read ADP-protected data...</p> 

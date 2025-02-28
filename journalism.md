@@ -1,11 +1,318 @@
 ---
 title: journalism
-updated: 2025-02-27 07:06:50
+updated: 2025-02-28 07:08:38
 ---
 
 # journalism
 
-(date: 2025-02-27 07:06:50)
+(date: 2025-02-28 07:08:38)
+
+---
+
+## USAC approves 2025 election calendar, candidate requirements
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council approved the calendar and candidate requirements for its 2025 elections Tuesday.
+Voting for the council&#8217;s annual election will take place from 8 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/usac-approves-2025-election-calendar-candidate-requirements/>
+
+---
+
+## LA City Council introduces policies to protect immigrants without legal status
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Council proposed new legislative policy Feb. 4 that would strengthen labor and immigration protections.
+The policy includes a citywide &#8220;Know Your Rights&#8221; campaign for immigrants without legal status, city notifications about United States Immigration and Customs Enforcement presence and nonprofit legal aid at LAX. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/la-city-council-introduces-policies-to-protect-immigrants-without-legal-status/>
+
+---
+
+## Classifieds – February 28, 2025
+
+date: 2025-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/classifieds-february-28-2025/">Classifieds &#8211; February 28, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/classifieds-february-28-2025/>
+
+---
+
+## A&E staff predict the Academy Awards
+
+date: 2025-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Staff writers take a look at six of this season’s most anticipated categories.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/ae-staff-predict-the-oscars/">A&#038;E staff predict the Academy Awards</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/ae-staff-predict-the-oscars/>
+
+---
+
+## USC reviewing ‘DEI-related’ programs for federal compliance
+
+date: 2025-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Some USC websites have recently removed “Diversity and Inclusion” webpages.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/usc-reviewing-dei-related-programs-for-federal-compliance/">USC reviewing ‘DEI-related’ programs for federal compliance</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/usc-reviewing-dei-related-programs-for-federal-compliance/>
+
+---
+
+## Caillebotte and his men arrive at the Getty
+
+date: 2025-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p> A new exhibition features the masculine figures of the key Impressionist painter.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/caillebotte-and-his-men-arrive-at-the-getty/">Caillebotte and his men arrive at the Getty</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/caillebotte-and-his-men-arrive-at-the-getty/>
+
+---
+
+## The Weekly Frame III: Wheels on Campus
+
+date: 2025-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/02/28/the-weekly-frame-iii-wheels-on-campus/">The Weekly Frame III: Wheels on Campus</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/the-weekly-frame-iii-wheels-on-campus/>
+
+---
+
+## Protesters demand USC protect undocumented students
+
+date: 2025-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Department of Public Safety officers temporarily closed Trousdale North Entrance.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/protesters-demand-usc-protect-undocumented-students/">Protesters demand USC protect undocumented students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/protesters-demand-usc-protect-undocumented-students/>
+
+---
+
+## USC Racing is about the team, not just the car
+
+date: 2025-02-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The club crafts around 95% of their car in-house instead of outsourcing components.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/usc-racing-is-about-the-team-not-just-the-car/">USC Racing is about the team, not just the car</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/usc-racing-is-about-the-team-not-just-the-car/>
+
+---
+
+## Oscars 2025 Q&A: Arianne Phillips pieces together Bob Dylan’s costumes in ‘A Complete Unknown’
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Look by look, Arianne Phillips is piecing together Bob Dylan&#8217;s evolution from &#8220;A Complete Unknown&#8221; to a cultural icon.
+Celebrated for her work on renowned films such as &#8220;Once Upon a Time&#8230; in Hollywood&#8221; and her collaboration with musical legend Madonna, Phillips has earned her fourth Academy Award nomination for Best Costume Design in James Mangold&#8217;s &#8220;A Complete Unknown.&#8221; The musical biopic, which follows the emergence of icon Bob Dylan onto the folk music scene, relies heavily on its visual storytelling, with the costume department playing an integral role in depicting Dylan&#8217;s journey of self-discovery. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/oscars-2025-qs-costumes-in-a-complete-unknown/>
+
+---
+
+## Oscars 2025 Second Take: Generative AI in film stifles authentic creation, blurs transparency with audience
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The use of artificial intelligence has breached the world of filmmaking, devaluing the role of artistic expression and creativity within film.
+As films increasingly incorporate forms of generative AI into their filmmaking processes, controversy and debates on the value of AI in film continue to surface. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/oscars-2025-second-take-generative-ai-in-film-stifles-authentic-creation-blurs-transparency-with-audience/>
+
+---
+
+## Oscars 2025: Daily Bruin predicts 97th ceremony award winners in coveted categories
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 27 at 10:43 p.m.</em>
+The Academy eagerly awaits to fete this year’s sublime innovations.
+Bringing the gold back to the Dolby Theatre, the 2025 Academy Awards will once again celebrate cinema’s most acclaimed works Sunday. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/2025-oscars-daily-bruin-predicts-97th-ceremony-award-winners-in-coveted-categories/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+Genesis Romero, a first-year political science student, said she feels an overall lack of communication from UCLA regarding the reasons for the strikes.
+&#8220;I feel like they&#8217;re not providing resources to let us know why the strikes are happening,&#8221; she added. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/481950/>
+
+---
+
+## UCLA Whistling Club works its way to widespread web fame, provides musical space
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+With newfound internet fame, the Whistling Club at UCLA is blowing away the student club scene.
+Formed during the 2023-2024 school year by president Jean Pierre “JP” Etcheverry, the Whistling Club has garnered recent attention because of Etcheverry’s efforts to make Instagram Reels of the club’s performances. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/ucla-whistling-club-works-its-way-to-widespread-web-fame-provides-musical-space/>
+
+---
+
+## UCLA study finds greater health inequities exist in minority communities
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+Californians&#8217; race, sexuality and income are connected to inequities in health-related issues, according to a UCLA study. 
+The California Health Interview Survey published by the UCLA Center for Health Policy found minorities have more negative health-related experiences. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/ucla-study-finds-greater-health-inequities-exist-in-minority-communities/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of 8 p.m., the three dining halls that were open during the strike have officially closed for the dining period. Some students still remain inside finishing their meals. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/481925/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+As the line for the Heritage Kitchen food truck surpassed 60 students at the Sproul turnaround, the Hill&#8217;s &#8220;Concerts on the Hill&#8221; event remained unaffected by the strike. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/481922/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+&#8220;It was so crowded. It was really crowded,&#8221; said Madison Hung, a first-year biochemistry student.
+Hung added that the lines at the food trucks seem shorter today as opposed to yesterday, when she waited more than 30 minutes for a chicken sandwich. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/481920/>
+
+---
+
+## USAC appoints Hip Hop Congress co-director as new Cultural Affairs commissioner
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council will have a new Cultural Affairs commissioner for the first time in nearly three years.
+USAC unanimously voted to appoint Kyland Talbott, a fourth-year African American studies student, to the position during the council&#8217;s Tuesday meeting. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/usac-appoints-hip-hop-congress-co-director-as-new-cultural-affairs-commissioner/>
+
+---
+
+## Punk Rock at CSUN hosts a Battle of the Bands showcasing local talent
+
+date: 2025-02-28, from: The Sundail (CSUN Student Newspaper)
+
+The doors at Pop Music Studios in Northridge greeted members and the Punk Rock community at CSUN. The studio hosted a Battle of the Bands, open to local bands regardless... 
+
+<br> 
+
+<https://sundial.csun.edu/190771/arts-entertainment/punk-rock-at-csun-hosts-a-battle-of-the-bands-showcasing-local-talent/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+Sam Leistiko, a third-year microbiology, immunology and molecular genetics student, said he is not bothered by the strike.
+“I don’t really mind,” he said. “I&#8217;m happy that the workers can strike and that we can still get food.” 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/481901/>
+
+---
+
+## Oscars 2025 Q&A: Oscar-nominated ‘Conclave’ costume designer talks religious fashion, research
+
+date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated Feb. 27 at 7:24 p.m.</em>
+Lisy Christl faithfully brought Vatican vestiges to the silver screen.
+Edward Berger’s political thriller “Conclave,” which captures clashing ideologies and personalities amid the voting process for the next Catholic pope, is nominated for eight Academy Awards at Sunday’s ceremony, including Best Picture. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/27/oscars-2025-qa-oscar-nominated-conclave-costume-designer-talks-religious-fashion-research/>
+
+---
+
+## Protest against ICE, IDF, LAPD causes North Trousdale closure
+
+date: 2025-02-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Organizers demanded USC make a public statement in support of undocumented students.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/27/protest-against-ice-idf-lapd-causes-north-trousdale-closure/">Protest against ICE, IDF, LAPD causes North Trousdale closure</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/27/protest-against-ice-idf-lapd-causes-north-trousdale-closure/>
+
+---
+
+## The Hidden Cost of Giving
+
+date: 2025-02-27, from: The Sundail (CSUN Student Newspaper)
+
+When the wildfires hit Los Angeles this past January, the LA community rallied and donated food, supplies, and clothing to those impacted. The outpouring of support presented an unexpected challenge... 
+
+<br> 
+
+<https://sundial.csun.edu/190623/news/the-hidden-cost-of-giving/>
 
 ---
 

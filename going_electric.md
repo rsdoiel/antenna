@@ -1,11 +1,291 @@
 ---
 title: going electric
-updated: 2025-02-27 07:06:52
+updated: 2025-02-28 07:08:41
 ---
 
 # going electric
 
-(date: 2025-02-27 07:06:52)
+(date: 2025-02-28 07:08:41)
+
+---
+
+## Wheel-E Podcast: EBC merger, Super73 recall, Bafang tour, more
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/author/micahltoll/"></a></p>
+
+
+
+<p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes a merger between Electric Bike Company and Integral Electrics, California looking to clamp down further on Sur Ron hooligans, a Super73 recall, Cowboy’s production move, a tour inside Bafang’s factory in China, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="403659" href="https://electrek.co/2025/02/28/wheel-e-podcast-ebc-merger-super73-recall-bafang-tour-more/#more-403659" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/wheel-e-podcast-ebc-merger-super73-recall-bafang-tour-more/>
+
+---
+
+## NIU unveils new electric microcar with impressive $8,300 target price
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/niumm-microcar-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="http://niu.com">NIU</a>, best known as a leader in the electric moped market, has expanded considerably over the last few years. In addition to offering a <a href="https://electrek.co/2025/01/18/video-exploring-the-outdoors-and-testing-off-road-capabilities-with-nius-xqi3-sponsored/">hot-selling new electric dirt bike</a> and showing off concepts for electric ATVs, the company is now unveiling an electric microcar known as the NIUMM 500.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="microcar,niu" data-layer-viewtype="unknown" data-post-id="403650" href="https://electrek.co/2025/02/28/niu-unveils-new-electric-microcar-with-impressive-8300-target-price/#more-403650" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/niu-unveils-new-electric-microcar-with-impressive-8300-target-price/>
+
+---
+
+## Renewables generated 24.2% of US electricity in 2024 – EIA data
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/texas-solar-nova.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Renewables increased their output by almost 10% and provided nearly a quarter of US electrical generation in 2024, according to newly released US Energy Information Administration (EIA) data. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,hydropower,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="403623" href="https://electrek.co/2025/02/27/renewables-generated-24-percent-us-electricity-2024-eia-data/#more-403623" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/renewables-generated-24-percent-us-electricity-2024-eia-data/>
+
+---
+
+## Another luxury automaker is cutting jobs after failing to keep up in the EV race
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/luxury-automaker-cuts-jobs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another global luxury automaker is cutting jobs after struggling to keep pace as the industry shifts to <a href="https://electrek.co/guides/electric-vehicles/">electric vehicles</a> (EVs). With EVs gaining market share in most major regions, some are starting to get left behind.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="aston-martin" data-layer-viewtype="unknown" data-post-id="403389" href="https://electrek.co/2025/02/27/another-luxury-automaker-cuts-jobs-after-failing-to-keep-up-with-evs/#more-403389" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/another-luxury-automaker-cuts-jobs-after-failing-to-keep-up-with-evs/>
+
+---
+
+## Austin’s main public bus depot just got 48 new EV charging ports
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Camber-Charging-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://getcamber.com/" target="_blank" rel="noreferrer noopener">Camber</a> has delivered an EV fast charging system to CapMetro, Austin’s public transit agency, for its main bus depot – here’s why that’s a big milestone.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="austin,dc-fast-charging,electric-buses,proterra,texas" data-layer-viewtype="unknown" data-post-id="403585" href="https://electrek.co/2025/02/27/austin-main-public-bus-depot-just-got-48-new-ev-chargers/#more-403585" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/austin-main-public-bus-depot-just-got-48-new-ev-chargers/>
+
+---
+
+## Waymo Hits 200,000 Paid Trips Per Week Before Tesla Even Gets Started
+
+date: 2025-02-27, from: Inside EVs News
+
+Waymo runs driverless taxis in San Francisco, Los Angeles and Phoenix. Tesla isn't anywhere yet.  
+
+<br> 
+
+<https://insideevs.com/news/752063/waymo-200000-autonomous-rides-tesla/>
+
+---
+
+## Volkswagen cuts ID.4 prices to under $20,000 in China as the ‘fierce’ EV price war heats up
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volkswagen-ID.4-prices-Chinas-EV-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After recent price cuts, <a href="https://electrek.co/guides/vw-id-4/">Volkswagen’s electric ID.4</a> now starts at under $20,000 in China. Volkswagen looks to keep up in China’s “fierce price war,” but will it be enough? BYD and other Chinese EV makers are moving quickly.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-4,vw,vw-id-4" data-layer-viewtype="unknown" data-post-id="403579" href="https://electrek.co/2025/02/27/volkswagen-id-4-prices-cut-under-20k-chinas-fierce-ev-war/#more-403579" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/volkswagen-id-4-prices-cut-under-20k-chinas-fierce-ev-war/>
+
+---
+
+## EV Range-Enhancing Speakers Sound Too Good To Be True
+
+date: 2025-02-27, from: Inside EVs News
+
+The speakers can apparently boost EV range and provide “personal bubbles” for each passenger with “virtual headphones.” 
+
+<br> 
+
+<https://insideevs.com/news/752043/ev-range-boosting-electrostatic-speakers/>
+
+---
+
+## Tesla applies for ride-hailing service in California, but with human drivers
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has applied for a permit to operate a ride-hailing service in California, but it will be using human drivers rather than the promised robotaxi.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403576" href="https://electrek.co/2025/02/27/tesla-applies-for-ride-hailing-service-in-california-but-with-human-drivers/#more-403576" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/tesla-applies-for-ride-hailing-service-in-california-but-with-human-drivers/>
+
+---
+
+## Mansory Elongation Is A Cybertruck That Crashed Into A Carbon Fiber Shed
+
+date: 2025-02-27, from: Inside EVs News
+
+Your Cybertruck isn’t attracting enough attention? Allow Mansory to give it its signature treatment to really get you noticed. 
+
+<br> 
+
+<https://insideevs.com/news/752038/mansory-elongation-tesla-cybertruck-custom/>
+
+---
+
+## Tesla drivers are racking up fines using FSD in China
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-FSd-China.png?w=1600" /></div><p>Tesla drivers in China are using the new Full Self-Driving update and are racking up fines as the system drives in bike lanes and makes illegal turns.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403542" href="https://electrek.co/2025/02/27/tesla-drivers-are-racking-up-fines-using-fsd-in-china/#more-403542" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/tesla-drivers-are-racking-up-fines-using-fsd-in-china/>
+
+---
+
+## Nissan dealer gifts a free LEAF after oil change disaster, with an EV it won’t happen again
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Nissan-free-LEAF-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After an oil change, a woman found a racial slur printed on the sticker inside her SUV. Now, she’s getting a free electric vehicle. Family Nissan, a dealership nearly 900 miles away, is gifting her a free <a href="https://electrek.co/guides/nissan-leaf/">LEAF</a> EV, saying she won’t need an oil change ever again. The electric car was specifically chosen so the shocking incident doesn’t happen again.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="403544" href="https://electrek.co/2025/02/27/nissan-dealer-gives-away-free-leaf-ev-after-oil-change-disaster/#more-403544" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/nissan-dealer-gives-away-free-leaf-ev-after-oil-change-disaster/>
+
+---
+
+## Rad Power takes $699 off e-bikes with RadCity 5 Plus free extra battery bundle at $1,499, EcoFlow DELTA 3 Plus flash sale, more
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Rad-Power-RadCity-5-Plus-Commuter-e-bike-new-FI-lifestyle-3-friends.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It’s another day of new and returning lows on Green Deals, led by the latest changeup from Rad Power that is seeing the <a href="https://9to5toys.com/2025/02/24/rad-power-radrunner-plus-radrunner-3-plus-from-1299/">three new RadRunner series e-bike lows</a> continue, along with a <a href="https://9to5toys.com/2025/02/27/rad-power-continues-sale-from-999/">rare price cut</a> on the brand’s RadTrike and a free extra battery promotion hitting the <a href="https://9to5toys.com/2025/02/27/rad-power-continues-sale-from-999/">RadCity 5 Plus Commuter e-bike</a> (100-mile travel) at <a href="https://9to5toys.com/2025/02/27/rad-power-continues-sale-from-999/">$1,499</a>. We also have the last flash sale from <a href="https://9to5toys.com/2025/02/25/ecoflow-february-monthly-madness-sale-from-29/">EcoFlow’s Monthly Madness sale</a> (running through Feb. 28) that is offering the <a href="https://9to5toys.com/2025/02/27/ecoflow-flash-delta-3-plus-alternator-849-low/">DELTA 3 Plus</a> Portable Power Station with an 800W alternator charger back at its <a href="https://9to5toys.com/2025/02/27/ecoflow-flash-delta-3-plus-alternator-849-low/">$849</a> low. Next, there’s the flash sale on <a href="https://9to5toys.com/2025/02/27/heybike-mars-2-0-899-low-flash-sale/">Heybike’s Mars 2.0 Folding Fat Tire e-bike</a> that has returned things to the <a href="https://9to5toys.com/2025/02/27/heybike-mars-2-0-899-low-flash-sale/">$899</a> low, while the <a href="https://9to5toys.com/2025/02/27/egos-56v-21-inch-self-propelled-mower-with-select-cut-and-two-6-0ah-batteries-hits-new-700-low-reg-879-more-from-180/">EGO Power+ 56V 21-inch Cordless Self-Propelled Lawn Mower</a> with two 6.0Ah batteries is hitting a new <a href="https://9to5toys.com/2025/02/27/egos-56v-21-inch-self-propelled-mower-with-select-cut-and-two-6-0ah-batteries-hits-new-700-low-reg-879-more-from-180/">$700</a> low, among other tools. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s Aventon e-bike <a href="https://9to5toys.com/2025/02/26/aventon-level-2-e-bikes-1599/">clearance sale</a>, the direct Anker SOLIX EverFrost 2 <a href="https://9to5toys.com/2025/02/26/anker-40l-or-58l-everfrost-2-preorders/">preorder deal</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="403545" href="https://electrek.co/2025/02/27/rad-power-radcity-5-plus-e-bike-ecoflow-more/#more-403545" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/rad-power-radcity-5-plus-e-bike-ecoflow-more/>
+
+---
+
+## First drive in the Kia EV3 before it hits the US – A fun little compact that’s sneaky big inside [Video]
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Kia-EV3-US-front-side-far-low.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>During a recent trip to Spain for <a href="https://electrek.co/guides/kia/">Kia</a> EV Day 2025, I got a chance to test drive the new EV3 compact SUV before it hits the US market. Be sure to check out my video below as well.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="first-drive,kia,kia-ev3" data-layer-viewtype="unknown" data-post-id="403462" href="https://electrek.co/2025/02/27/first-drive-kia-ev3-before-it-hits-us-compact-thats-sneaky-big-inside-video/#more-403462" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/first-drive-kia-ev3-before-it-hits-us-compact-thats-sneaky-big-inside-video/>
+
+---
+
+## Toyota’s all-solid-state EV battery plans just got a lift from Japan’s oil giant
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lexus-RZ-prices-2025-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Japanese oil giant, Idemitsu Kosan, is building a new large-scale lithium sulfide plant that will supply the raw material for <a href="https://electrek.co/guides/toyota/">Toyota’s</a> upcoming all-solid-state EV batteries.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="solid-state-batteries,toyota" data-layer-viewtype="unknown" data-post-id="403532" href="https://electrek.co/2025/02/27/toyotas-all-solid-state-ev-batteries-just-got-a-lift/#more-403532" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/toyotas-all-solid-state-ev-batteries-just-got-a-lift/>
+
+---
+
+## EU Will Spend $105 Billion To Keep EV, Clean-Energy Plans On Course
+
+date: 2025-02-27, from: Inside EVs News
+
+This is part of the EU’s Clean Industrial Deal, meant to help the clean tech and manufacturing sectors flourish in the region. 
+
+<br> 
+
+<https://insideevs.com/news/752009/eu-100-billion-clean-industry/>
+
+---
+
+## Tesla is hit with a fresh class action about its self-driving claims, hardware 3 computer
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/F5hSGgEWEAAcIyn-e1704126520175.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is hit with a fresh class action lawsuit about the performance and claims of its self-driving and Autopilot systems as well as its “hardware 3 computer.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403478" href="https://electrek.co/2025/02/27/tesla-is-hit-with-a-fresh-class-action-about-its-self-driving-claims-hardware-3-computer/#more-403478" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/tesla-is-hit-with-a-fresh-class-action-about-its-self-driving-claims-hardware-3-computer/>
+
+---
+
+## Meet the Xiaomi SU7 Ultra, the luxury Chinese EV everyone’s talking about
+
+date: 2025-02-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Xiaomi-SU7-Ultra-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Xiaomi’s first electric vehicle, <a href="https://electrek.co/guides/xiaomi-su7/">the SU7</a>, took the market by storm, securing nearly 250,000 orders in just nine months. Today, the company launched a new flagship variant with over 1,500 hp, starting at under $75,000. Meet the Xiaomi SU7 Ultra.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="xiaomi,xiaomi-su7" data-layer-viewtype="unknown" data-post-id="403473" href="https://electrek.co/2025/02/27/xiaomi-su7-ultra-chinese-ev-everyones-talking-about/#more-403473" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/27/xiaomi-su7-ultra-chinese-ev-everyones-talking-about/>
 
 ---
 
