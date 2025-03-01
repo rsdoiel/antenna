@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-03-01 07:07:57
+updated: 2025-03-01 10:13:55
 ---
 
 # writing
 
-(date: 2025-03-01 07:07:57)
+(date: 2025-03-01 10:13:55)
 
 ---
 
@@ -90,7 +90,7 @@ date: 2025-02-28, from: Locus Magazine
 
 
 
-date: 2025-02-28, updated: 2025-02-28, from: (IFTF) Interactive Fiction Technology Foundation
+date: 2025-02-28, updated: 2025-03-01, from: (IFTF) Interactive Fiction Technology Foundation
 
  
 
@@ -283,7 +283,7 @@ date: 2025-02-27, from: Locus Magazine
 
 ## IFTF Officer Transition
 
-date: 2025-02-27, updated: 2025-02-27, from: (IFTF) Interactive Fiction Technology Foundation
+date: 2025-02-27, updated: 2025-03-01, from: (IFTF) Interactive Fiction Technology Foundation
 
  
 

@@ -1,11 +1,11 @@
 ---
 title: north america
-updated: 2025-03-01 07:07:54
+updated: 2025-03-01 10:13:52
 ---
 
 # north america
 
-(date: 2025-03-01 07:07:54)
+(date: 2025-03-01 10:13:52)
 
 ---
 
@@ -306,7 +306,7 @@ Americans will not stand idly by as billionaires break the law to destroy our vi
 
 ---
 
-##  The Planet is Heating Up Whether You Care or Not 
+##  The Planet Is Heating Up Whether You Care Or Not 
 
 date: 2025-02-28, from: The Lever News
 
@@ -318,7 +318,7 @@ date: 2025-02-28, from: The Lever News
 
 ---
 
-##  The Planet is Heating Up Whether You Care or Not (Transcript) 
+##  The Planet Is Heating Up Whether You Care Or Not (Transcript) 
 
 date: 2025-02-28, from: The Lever News
 

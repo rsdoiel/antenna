@@ -8,8 +8,6 @@ https://www.marketplace.org/feed/ "~Market Place" "curl/8.5.0 (rsdoiel@gmail.com
 https://www.marketplace.org/feed/podcast/make-me-smart "~Market Place, Make me Smart" "curl/8.5.0 (rsdoiel@gmail.com, rsdoiel.github.io)
 #https://marketplace.org/feed/podcast/marketplace/ "~Market Place"
 #https://www.marketplace.org/feed/podcast/marketplace-morning-report "~Marketplace Morning Report"
-https://www.voanews.com/api/zqbomekvi_ "~VOA News USA"
-
 https://contrarian.substack.com/feed "~The Contrarian"
 
 #

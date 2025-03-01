@@ -1,11 +1,11 @@
 ---
 title: going electric
-updated: 2025-03-01 07:08:01
+updated: 2025-03-01 10:13:59
 ---
 
 # going electric
 
-(date: 2025-03-01 07:08:01)
+(date: 2025-03-01 10:13:59)
 
 ---
 
@@ -86,6 +86,10 @@ date: 2025-02-28, from: Electrek Feed
 date: 2025-02-28, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss announcements made at Kia’s EV Day 2025, TSLA stock crashing, VW ID.4 surging, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Electrek_375.mp3"></audio></figure>
 
 
 
