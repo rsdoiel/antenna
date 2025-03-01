@@ -1,11 +1,87 @@
 ---
 title: writing
-updated: 2025-02-28 07:08:37
+updated: 2025-03-01 07:07:57
 ---
 
 # writing
 
-(date: 2025-02-28 07:08:37)
+(date: 2025-03-01 07:07:57)
+
+---
+
+## 2024 Locus Awards Online Report
+
+date: 2025-02-28, from: Locus Magazine
+
+<p></p>
+<p>The 2024 Locus Awards were held on June 22, online and in-person at the historic Preservation Park in Oakland CA. Author Henry Lien – ‘‘Emperor Stardust’’ – emceed the ceremony, with author, activist, and journalist Cory Doctorow as keynote speaker. The awards ceremony concluded the Locus Weekend, a larger celebration of readings, talks, and meetups from June 19‒22. Full members received access to virtual and in-person events, six months of  <a href="https://locusmag.com/2025/02/2024-locus-awards-online-report/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/2024-locus-awards-online-report/>
+
+---
+
+## One Level Down by Mary G. Thompson: Review by Gary K. Wolfe
+
+date: 2025-02-28, from: Locus Magazine
+
+<p><strong>One Level Down</strong>, Mary G. Thompson (Tachyon 978-1-61696-430-6, $16.95, 176pp, tp) April 2025.</p>
+<p>Mary G. Thompson is another middle-grade and young-adult author now venturing into adult SF with <strong>One Level Down</strong>, an efficient VR thriller with some fairly familiar elements skillfully handled and given additional punch by a memorable narrator, a megalomaniacal villain who echoes the ‘‘mad scientists’’ of yore, and a persistent undertone of psychological horror. While  <a href="https://locusmag.com/2025/02/one-level-down-by-mary-g-thompson-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/one-level-down-by-mary-g-thompson-review-by-gary-k-wolfe/>
+
+---
+
+## The Year in Review 2024 by Niall Harrison
+
+date: 2025-02-28, from: Locus Magazine
+
+<p>During a recent trip to Singapore, I went book shopping. The science fic­tion and fantasy shelves of the Books Kinokuniya on Orchard Road predomi­nantly featured familiar titles, but there were also a good number of locally published books by writers unknown to me. The specific publisher that caught my eye was Penguin Random House SEA, perhaps because in the UK almost all the SF titles with a penguin on the  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-niall-harrison/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-niall-harrison/>
+
+---
+
+## Featured Friday: Puzzle Boxes
+
+date: 2025-02-28, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we look at puzzle box series to see how they craft their mind-bending mysteries, use their unknowns to heighten character drama, and structure clues to keep the audience dying to know what the hell [&#8230;]
+The post <a href="https://johnaugust.com/2025/featured-friday-puzzle-boxes">Featured Friday: Puzzle Boxes</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/featured-friday-puzzle-boxes>
+
+---
+
+## The Storytellers: Daniel Abraham Reads The Wind
+
+date: 2025-02-28, from: Locus Magazine
+
+<p>We are so happy to release our fourth episode of The Storytellers, our series of Zoom-recorded author readings! Previously, we had Samantha Mills read the first chapter of<strong> The Wings Upon Her Back</strong>. Today we are pleased to show Daniel Abraham reading &#8220;The Wind&#8221;, a short story written by Daniel Abraham and Ty Franck, who together make up the pseudonym responsible for<strong> The Expanse,</strong> James S.A. Corey. &#8220;The Wind&#8221;  <a href="https://locusmag.com/2025/02/the-storytellers-daniel-abraham-reads-the-wind/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-storytellers-daniel-abraham-reads-the-wind/>
+
+---
+
+## Coup de Grâce by Sofia Ajram: Review by Gabino Iglesias
+
+date: 2025-02-28, from: Locus Magazine
+
+<p><strong>Coup de Grâce</strong>, Sofia Ajram (Titan Books 978-1-80336-962-4, $19.99, 144pp, hc) October 2024.</p>
+<p>Sofia Ajram’s <strong>Coup de Grâce </strong>is a relentlessly dark and visceral novel about a man on his way to commit suicide who somehow becomes trapped in the endless liminal space of an empty subway station. Beautifully written and claustrophobic in the way only empty liminal spaces can be, this short novel delivers breathtaking lines along with  <a href="https://locusmag.com/2025/02/coup-de-grace-by-sofia-ajram-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/coup-de-grace-by-sofia-ajram-review-by-gabino-iglesias/>
 
 ---
 
@@ -56,7 +132,9 @@ date: 2025-02-27, from: Locus Magazine
 date: 2025-02-27, from: Locus Magazine
 
 <p>It&#8217;s the end of February and we&#8217;ve got one last video to send off the month. Come by our YouTube channel to see the latest video on our picks for the top new SF, Fantasy, Horror, and YA releases of the week! Show your support and keep up-to-date on future videos by subscribing! We&#8217;ll see you all next week for another video to kick off the start of March!</p>
-<div class="jetpack-video-wrapper"></div> <a href="https://locusmag.com/2025/02/new-books-video-is-up-4/" class="read-more">...Read More </a> 
+<div class="jetpack-video-wrapper">
+<div class="fitvids-video"></div>
+</div> <a href="https://locusmag.com/2025/02/new-books-video-is-up-4/" class="read-more">...Read More </a> 
 
 <br> 
 
@@ -694,4 +772,57 @@ date: 2025-02-23, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/02/asimovs-short-fiction-reviews-by-a-c-wise-3/>
+
+---
+
+## Fusion Fragment, GigaNotoSaurus and Diabolical Plots 11/24: Short Fiction Reviews by Charles Payseur
+
+date: 2025-02-22, from: Locus Magazine
+
+<p>Fusion Fragment 11/24
+GigaNotoSaurus 11/24
+Diabolical Plots 11/24</p>
+<p>November’s Fusion Fragment starts strong with <strong>Emry Jordal</strong>’s novelette “<strong>The Little Black Wand for Every Occasion</strong>”, in which a technology known as Serendipity is growing in popularity, though not without some controversy. It allows people a redo, erasing six minutes or so of time so that people can undo any “mistakes” they just made. In practice, it allows people  <a href="https://locusmag.com/2025/02/fusion-fragment-giganotosaurus-and-diabolical-plots-11-24-short-fiction-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/fusion-fragment-giganotosaurus-and-diabolical-plots-11-24-short-fiction-reviews-by-charles-payseur/>
+
+---
+
+## The Year in Review 2024 by Abigail Nussbaum
+
+date: 2025-02-22, from: Locus Magazine
+
+<p>In the summer of 2024, Briardene Books published <strong>Track Changes</strong>, a collection of my reviews. There’s noth­ing like putting a book like that together, combing your way through nearly 20 years of work, to make you think about the project of canon-building. What books still deserve to be talked about decades after you read them? What books represent shifts in the field, or in literature itself, that you were  <a href="https://locusmag.com/2025/02/the-year-in-review-2024-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-year-in-review-2024-by-abigail-nussbaum/>
+
+---
+
+## The Way Up Is Death by Dan Hanks: Review by Paul Di Filippo
+
+date: 2025-02-22, from: Locus Magazine
+
+<p><strong>The Way Up Is Death</strong>, Dan Hanks (Angry Robot ‎978-1915202949, trade paperback, 368pp, $18.99) January 2025</p>
+<p>Dan Hanks’s third novel (I remain sheepishly ignorant of his first two: <b>Captain Moxley and the Embers of the Empire</b> [2020] and <b>Swashbucklers</b> [2021]) is built around a very familiar concept: the physical, mental, and moral testing, by unknown agents, of a pack of aspirants or seekers or, as in this case, kidnapped  <a href="https://locusmag.com/2025/02/the-way-up-is-death-by-dan-hanks-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/the-way-up-is-death-by-dan-hanks-review-by-paul-di-filippo/>
+
+---
+
+## Hot Singles in Your Area by Jordan Shiveley: Review by Gabino Iglesias
+
+date: 2025-02-22, from: Locus Magazine
+
+<p><strong>Hot Singles in Your Area</strong>, Jordan Shiveley (Unbound 978-1-80018-341-4, $18.00, 208pp, tp) February 2025. Cover by Jack Smyth.</p>
+<p>Some books are hard to categorize. Jordan Shiveley’s <strong>Hot Singles in Your Area </strong>is one of those books. Strangely funny and danc­ing to the strange sound of its own drum, this novel has one foot in body horror and one foot in something akin to bizarro fiction (think authors like Carlton  <a href="https://locusmag.com/2025/02/hot-singles-in-your-area-by-jordan-shiveley-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/hot-singles-in-your-area-by-jordan-shiveley-review-by-gabino-iglesias/>
 

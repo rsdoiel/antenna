@@ -1,11 +1,49 @@
 ---
 title: pacific
-updated: 2025-02-28 07:08:35
+updated: 2025-03-01 07:07:55
 ---
 
 # pacific
 
-(date: 2025-02-28 07:08:35)
+(date: 2025-03-01 07:07:55)
+
+---
+
+## UH Speaker Series: Gov. Green and top expert talk trauma, stress
+
+date: 2025-02-28, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> Gov. Josh Green and renowned pediatrician Nadine Burke Harris will discuss long-term effects of trauma and toxic stress.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/28/gov-green-top-expert-talk-trauma-stress/"><abbr>UH</abbr> Speaker Series: Gov. Green and top expert talk trauma, stress</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/28/gov-green-top-expert-talk-trauma-stress/>
+
+---
+
+## President Hensel: Reaffirming values, EO update, March campus forum
+
+date: 2025-02-28, from: University of Hawaiʻi News
+
+<p>&#8220;No shift in federal policy can change who we are or our unwavering commitment to ensuring that every member of our campus community is valued and welcomed.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/28/uh-president-reaffirming-values-eo-update/">President Hensel: Reaffirming values, <abbr>EO</abbr> update, March campus forum</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/28/uh-president-reaffirming-values-eo-update/>
+
+---
+
+## Military units on Guam begin review of social media content amid Pentagon's diversity purge 
+
+date: 2025-02-28, from: Pacific Island Times
+
+The “digital content refresh” directive issued on Feb. 26 aligned with President Donald Trump's executive orders dismantling the DEI regime, 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/dei-purge-military-commands-on-guam-begin-review-of-social-media-content>
 
 ---
 
@@ -244,6 +282,18 @@ By Pacific Island Times News Staff   Sen. William A. Parkinson today raised con
 <br> 
 
 <https://www.pacificislandtimes.com/post/power-outage-hits-guam-hospital-a-cyberattack-incident-or-utility-malfunction>
+
+---
+
+## AG halts casino commissioners’ backpay
+
+date: 2025-02-28, updated: 2025-02-28, from: Marianas Variety
+
+THE Department of Finance said it has been instructed by the attorney general that the funding for the casino commissioners' backpay provided by Public Law 24-01, or the revised FY 2025 Budget Act, is “contrary to law and cannot be allocated or processed [by Finance].” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ag-halts-casino-commissioners-backpay/article_b104aa80-f588-11ef-ba1a-433d70d1371b.html>
 
 ---
 
@@ -589,6 +639,20 @@ date: 2025-02-28, from: Hawaii Tribune Harold
 
 ---
 
+## VIDEO: Coast Guard medevacs Holland America cruise ship passenger
+
+date: 2025-02-28, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. Coast Guard on Thursday medevaced a cruise ship passenger who experienced multiple strokes 300 miles offshore of Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/27/hawaii-news/video-coast-guard-medevacs-holland-america-cruise-ship-passenger/>
+
+---
+
 ## UH Mānoa Athletics partners with NIKE, BSN SPORTS as official outfitters
 
 date: 2025-02-27, from: University of Hawaiʻi News
@@ -615,6 +679,18 @@ The post <a href="https://www.hawaii.edu/news/2025/02/27/helping-uh-students-aff
 
 ---
 
+## Transitional gardening: How to choose plants that can thrive moving from cold to warm weather
+
+date: 2025-02-27, updated: 2025-02-27, from: Marianas Variety
+
+(BPT) - Keep your garden vibrant all season long with these cold weather-resistant plants. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/lawn_and_garden/transitional-gardening-how-to-choose-plants-that-can-thrive-moving-from-cold-to-warm-weather/article_aa713e78-5aa3-5427-ad64-7841f0bb3467.html>
+
+---
+
 ## Apples
 
 date: 2025-02-27, from: Hawai'i Pacific Review (HPU Literary Magazine)
@@ -624,6 +700,54 @@ by Mollie Hawkins 1. When he started his job at the organic grocery store, Produ
 <br> 
 
 <https://hawaiipacificreview.org/2025/02/27/apples/>
+
+---
+
+## Trump orders more layoffs, Musk touts cuts at cabinet meeting
+
+date: 2025-02-27, updated: 2025-02-27, from: Marianas Variety
+
+WASHINGTON (Reuters) — President Donald Trump's administration on Wednesday ordered federal agencies to undertake more large-scale layoffs of workers, while the president let downsizing czar Elon Musk take a star role at his first cabinet meeting and discuss his ambitious budget-cutting targets. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-orders-more-layoffs-musk-touts-cuts-at-cabinet-meeting/article_1548429c-f505-11ef-8a63-7b8278fb5afe.html>
+
+---
+
+## Cook Islands PM accuses NZ media, experts of thinking ‘we are too dumb’
+
+date: 2025-02-27, updated: 2025-02-27, from: Marianas Variety
+
+RAROTONGA (Cook Islands News/Pacnews) — Cook Islands Prime Minister Mark Brown has hit out at the New Zealand media and experts for their "ludicrous" and "ignorant" perspectives on the Cook Islands' recent deals with China, implying they view the island nation as "too dumb" to understand the implications of its own decisions. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/cook-islands-pm-accuses-nz-media-experts-of-thinking-we-are-too-dumb/article_8dc7c4fe-f505-11ef-88f9-5b37d39ceaeb.html>
+
+---
+
+## Green flag on Managaha
+
+date: 2025-02-27, updated: 2025-02-27, from: Marianas Variety
+
+(BECQ) — The Bureau of Environmental and Coastal Quality analyzes water samples collected from Managaha’s recreational beaches and dock as part of the regularly scheduled sampling.  None of the samples collected this week contained excessive concentrations of fecal indicator bacteria nor did they exceed CNMI marine water quality standards. Therefore, BECQ assigns all of the sampled beach sites a green flag. Enjoy our waters! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/green-flag-on-managaha/article_f51c2fdc-f505-11ef-ba0a-3fcc50740049.html>
+
+---
+
+## Rock, meet hard place
+
+date: 2025-02-27, updated: 2025-02-27, from: Marianas Variety
+
+Hard sell 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/rock-meet-hard-place/article_e969a34c-f4fe-11ef-bf89-130172796653.html>
 
 ---
 
@@ -2853,4 +2977,249 @@ date: 2025-02-23, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/23/features/steves-toledo-is-spains-historic-artistic-and-spiritual-center/>
+
+---
+
+## Trump plans to use military sites across the country to detain migrants
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration is ramping up plans to detain immigrants in the U.S. without legal permission at military sites across the country, a significant expansion of efforts by the White House to use wartime resources to make good on the president&#8217;s promised mass deportations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/trump-plans-to-use-military-sites-across-the-country-to-detain-migrants/>
+
+---
+
+## A Trump siege at the CDC and Atlanta’s ‘global health capital’
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>ATLANTA &#8212; The pickets who gathered along Clifton Road in Atlanta on Tuesday, just outside the guarded gates of the Centers for Disease Control and Prevention, had chosen familiar ground for protesters furious over issues ranging from animal research to vaccines.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/a-trump-siege-at-the-cdc-and-atlantas-global-health-capital/>
+
+---
+
+## FDA firings decimated teams reviewing AI and food safety
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>In recent years, the Food and Drug Administration hired experts in surgical robots and pioneers in artificial intelligence. It scooped up food chemists, lab-safety monitors and diabetes specialists who helped make needle pricks and test strips relics of the past.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/fda-firings-decimated-teams-reviewing-ai-and-food-safety/>
+
+---
+
+## Suspect sought in Ocean View arson investigation
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>Police are seeking a male suspect as part of their investigation into a structure fire that occurred Friday morning in the Hawaii Ocean View Estates subdivision.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/hawaii-news/suspect-sought-in-ocean-view-arson-investigation/>
+
+---
+
+## Federal judge banishes Musk’s DOGE aides from Treasury Dept. systems
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>A Manhattan federal judge on Friday banned Elon Musk&#8217;s cost-cutting team from regaining access to the U.S. Treasury Department&#8217;s most sensitive payment and data systems until the conclusion of a lawsuit that claims the group&#8217;s access is unlawful.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/federal-judge-banishes-musks-doge-aides-from-treasury-dept-systems/>
+
+---
+
+## With no buy-in from Egypt or Jordan, Trump appears to back away from his Gaza plan
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump on Friday appeared to back off his demand that some 2 million Palestinians be permanently relocated from the Gaza Strip to nearby countries in the Middle East so the United States could take over the territory and develop it into &#8220;the Riviera of the Middle East.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/with-no-buy-in-from-egypt-or-jordan-trump-appears-to-back-away-from-his-gaza-plan/>
+
+---
+
+## Suspect in insurance CEO killing creates website as support floods in
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>Even when he was just a wanted man smiling in a surveillance picture, Luigi Mangione elicited a fervent response from some Americans. Now identified and charged in the brazen fatal shooting of a health care executive, his influence has persisted, even from behind bars.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/suspect-in-insurance-ceo-killing-creates-website-as-support-floods-in/>
+
+---
+
+## Associated Press sues Trump officials over White House ban
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>The Associated Press sued top White House officials Friday, accusing them of violating the First and Fifth Amendments by denying AP reporters access to press events in retaliation for references to the Gulf of Mexico in its articles.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/associated-press-sues-trump-officials-over-white-house-ban/>
+
+---
+
+## ‘See you in court’: Maine governor clashes with Trump over trans rights
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Something happened at the White House on Friday afternoon that almost never happens these days. Somebody defied President Donald Trump. Right to his face.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/see-you-in-court-maine-governor-clashes-with-trump-over-trans-rights/>
+
+---
+
+## Bannon salute at right-wing event sparks outcry, even on French right
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>OXON HILL, Md. &#8212; A raised-arm salute by Steve Bannon that to many resembled a Nazi gesture incited an outcry Friday not just from liberal critics of President Donald Trump and his allies but also from a leader of the European right.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/bannon-salute-at-right-wing-event-sparks-outcry-even-on-french-right/>
+
+---
+
+## Ex-Proud Boys leader arrested on charges of assault outside Capitol
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>One month after being pardoned by President Donald Trump for his role in the attack on the Capitol on Jan. 6, 2021, Enrique Tarrio, the former leader of the Proud Boys, was arrested again on charges of assaulting a protester at a bizarre news conference held outside the Capitol on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/ex-proud-boys-leader-arrested-on-charges-of-assault-outside-capitol/>
+
+---
+
+## Tropical Gardening: The world calls with tropical fruits
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>Atrip to less industrialized tropical and subtropical regions of the world can be very enlightening in some unexpected ways. By visiting these places, we can learn more about what tropical fruits are integral to the colorful cultures of the world. Most may be grown in Hawaii with our varied climate from tropical to temperate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/features/tropical-gardening-the-world-calls-with-tropical-fruits/>
+
+---
+
+## Police: 81-year-old Waimea man a possible drowning victim
+
+date: 2025-02-22, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island police are investigating a possible drowning involving an 81-year-old Waimea man that occurred Friday afternoon at a South Kohala beach park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/22/hawaii-news/police-81-year-old-waimea-man-a-possible-drowning-victim/>
+
+---
+
+## ‘Any GHURA funding cuts will mean more homeless’
+
+date: 2025-02-22, from: Pacific Island Times
+
+Any cuts to the $65 million the Guam Housing Urban Renewal Authority receives on average each year will result in thousands of families bein 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/any-ghura-funding-cuts-will-mean-more-homeless>
+
+---
+
+## CNMI governor pushes for restoration  of  702 funds from US
+
+date: 2025-02-22, from: Pacific Island Times
+
+Gov. Arnold Palacios brought with him two messages in his trip to Washington, D.C. this week: more funding support for the Northern Mariana  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-governor-pushes-for-restoration-of-702-funds-from-us>
+
+---
+
+## Hilo community embraces UH President Hensel
+
+date: 2025-02-22, from: University of Hawaiʻi News
+
+<p>More than 150 alumni, donors and others gathered in Hilo to meet President Wendy Hensel.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/21/hilo-community-embraces-uh-president-hensel/">Hilo community embraces <abbr>UH</abbr> President Hensel</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/21/hilo-community-embraces-uh-president-hensel/>
+
+---
+
+## Hawaiʻi to Türkiye: Fulbright scholar embraces cultural education journey
+
+date: 2025-02-22, from: University of Hawaiʻi News
+
+<p>Once she completes her Fulbright grant, she hopes to apply her experience to future work with international students globally.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/21/hawaii-to-turkiye-fulbright-journey/">Hawaiʻi to Türkiye: Fulbright scholar embraces cultural education journey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/21/hawaii-to-turkiye-fulbright-journey/>
+
+---
+
+## Dye tracer study at Red Hill to provide insights into groundwater flow
+
+date: 2025-02-22, from: University of Hawaiʻi News
+
+<p>Preliminary results from the dye tracer study will be shared publicly in summer 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/21/red-hill-tracer-study/">Dye tracer study at Red Hill to provide insights into groundwater flow</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/21/red-hill-tracer-study/>
 

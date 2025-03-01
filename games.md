@@ -1,11 +1,11 @@
 ---
 title: games
-updated: 2025-02-28 07:08:37
+updated: 2025-03-01 07:07:58
 ---
 
 # games
 
-(date: 2025-02-28 07:08:37)
+(date: 2025-03-01 07:07:58)
 
 ---
 
@@ -66,18 +66,6 @@ The list of weapons in Monster Hunter Wilds run the gamut from oversized sword t
 <br> 
 
 <https://www.polygon.com/monster-hunter-wilds-guide/529947/all-weapons-list>
-
----
-
-## Best weapon for beginners in Monster Hunter Wilds
-
-date: 2025-02-28, updated: 2025-02-28, from: Polygon Website
-
-Working out the best weapon for beginners to start with in Monster Hunter Wilds can be daunting when there are 14 weapon types to choose from. While the game asks you a couple of questions early on to recommend weapons based on your preferred playstyle, these do not factor in their ease of use — [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/monster-hunter-wilds-guide/528911/best-weapons-beginners-new-players>
 
 ---
 
@@ -522,4 +510,76 @@ Ever since the 2019 release of The Rise of Skywalker, Star Wars sequel trilogy s
 <br> 
 
 <https://www.polygon.com/action/527111/daisy-ridley-cleaner-movie-stunts-interview-martin-campbell>
+
+---
+
+## All treasure maps and rewards in Avowed
+
+date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
+
+Treasure maps are optional objectives in Avowed that come with terrific rewards in exchange for solving head-scratching puzzles. Each treasure map is less a “map” and more a hastily and inscrutably sketched drawing pointing toward a vague location. If you find out where the treasure map points to and then head to that exact spot, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/526878/treasure-maps-all-rewards-list>
+
+---
+
+## How to name your game after a Japanese airport, twice
+
+date: 2025-02-22, updated: 2025-02-21, from: Polygon Website
+
+Back in 2017, Studio Koba announced Narita Boy, a game named after Tokyo’s second-biggest airport that seemed custom built for Kickstarter. It had slim-fit pixel art characters in a neon side-scrolling world. It had nostalgic ‘80s anime vibes with modern visual effects. It had a story of a developer — former Friend &#38; Foe team [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/527335/haneda-girl-demo-impressions>
+
+---
+
+## The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of February 2025
+
+date: 2025-02-22, updated: 2025-02-21, from: Polygon Website
+
+As we near the end of another month, it’s once again a great time to make a watchlist of movies that are leaving streaming services in the next few days. To help make sure you don’t miss anything, we’ve put together a list of some of the best options to consider. This month’s selection includes [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/525551/best-movies-netflix-amazon-criterion-leaving-february-2025>
+
+---
+
+## My Loyal Shield treasure map location and solution in Avowed
+
+date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
+
+My Loyal Shield is one of Avowed&#8216;s easier treasure maps and one that doesn&#8217;t send you to the most dangerous places in a region to find its reward. You can buy this map, and the secret to finding the treasure this time consist of finding a back door and pressing a secret button. That&#8217;s it! [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/527892/my-loyal-shield-treasure-map-location-solution-reward>
+
+---
+
+## The Blade that Hungers treasure map location and solution in Avowed
+
+date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
+
+The Blade that Hungers is one of Avowed&#8216;s most difficult treasure maps, thanks to general clues that give you almost nothing to go on and a visual trick that makes deciphering those even more challenging. It&#8217;s worth the trouble, though. The weapon at the end is one of the most useful in the game, especially [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/527972/blade-that-hungers-treasure-map-location-solution-reward>
+
+---
+
+## Ancient Arrowhead treasure map location and solution in Avowed
+
+date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
+
+The Ancient Arrowhead treasure map is Avowed&#8216;s welcome to the Galawin&#8217;s Tusks region — a map protected by a beetle army and a gigantic, tier-five monster, culminating in a reward perched on a cliff with a drop that leads to certain doom. Yay… You can get in and out quickly, without much bother, though having [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/avowed-guides/527823/ancient-arrowhead-treasure-map-location-solution-reward>
 

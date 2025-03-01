@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-02-28 07:08:39
+updated: 2025-03-01 07:07:59
 ---
 
 # libraries
 
-(date: 2025-02-28 07:08:39)
+(date: 2025-03-01 07:07:59)
+
+---
+
+## Wyden to FTC: Stop digital “bait-and-switch” sales
+
+date: 2025-02-28, from: Internet Archive Blog
+
+Senator Ron Wyden (D-Oregon) is urging the Federal Trade Commission to crack down on digital platforms that mislead consumers into believing they own purchased content when, in reality, they are [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/02/28/wyden-to-ftc-stop-digital-bait-and-switch-sales/>
+
+---
+
+## ACE Letter to Department of Education on “Dear Colleague” Letter
+
+date: 2025-02-28, from: Association of Research Libraries News
+
+<p>Last Updated on February 28, 2025, 1:10 pm ET On February 25, 2025, ARL joined an American Council on Education (ACE) letter responding to the Department of Education’s February 14th...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/higher-education-policy/ace-letter-to-department-of-education-on-dear-colleague-letter/">ACE Letter to Department of Education on &#8220;Dear Colleague&#8221; Letter</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/partner-letters/higher-education-policy/ace-letter-to-department-of-education-on-dear-colleague-letter/>
 
 ---
 
@@ -13,7 +39,7 @@ updated: 2025-02-28 07:08:39
 
 date: 2025-02-28, from: Association of Research Libraries News
 
-<p>During Fair Use Week (February 24–28), Katherine Klosek and Samantha Teremi examine how today’s contractual restrictions on AI echo the same concerns libraries raised 20 years ago during the US...</p>
+<p>Last Updated on February 28, 2025, 12:47 pm ET During Fair Use Week (February 24–28), Katherine Klosek and Samantha Teremi examine how today’s contractual restrictions on AI echo the same...</p>
 <p>The post <a href="https://www.arl.org/blog/ai-is-reigniting-decades-old-questions-over-digital-rights-but-fair-use-prevails/">AI Is Reigniting Decades-Old Questions Over Digital Rights, but Fair Use Prevails</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -415,4 +441,16 @@ A young girl grows up in the care of her uncle and his friends, while his heirs 
 <br> 
 
 <https://standardebooks.org/ebooks/honore-de-balzac/ursule-mirouet/clara-bell>
+
+---
+
+## Poetry, by James McIntyre
+
+date: 2025-02-22, from: Standard Ebooks, new releaases
+
+A collection of poetry by James McIntyre. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/james-mcintyre/poetry>
 

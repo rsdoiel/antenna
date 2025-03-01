@@ -1,11 +1,170 @@
 ---
 title: journalism
-updated: 2025-02-28 07:08:38
+updated: 2025-03-01 07:07:58
 ---
 
 # journalism
 
-(date: 2025-02-28 07:08:38)
+(date: 2025-03-01 07:07:58)
+
+---
+
+## Shakespeare with a twist: CSUN’s hip take on Romeo & Juliet
+
+date: 2025-02-28, from: The Sundail (CSUN Student Newspaper)
+
+“Romeo &#38; Juliet” debuted its first showing this past weekend with back-to-back sold out performances. Written by William Shakespeare, this production was directed by Melissa Chalsma, artistic director at Independent... 
+
+<br> 
+
+<https://sundial.csun.edu/190805/arts-entertainment/shakespeare-with-a-twist-csuns-hip-take-on-romeo-juliet/>
+
+---
+
+## Twyla Tharp and company celebrate 60 years at The Soraya
+
+date: 2025-02-28, from: The Sundail (CSUN Student Newspaper)
+
+The Soraya presented a two-part ballet by renowned choreographer Twyla Tharp and her company on Feb. 22 and 23. The performance&#8217;s music was diverse, from Beethoven’s Diabelli Variations to Philip... 
+
+<br> 
+
+<https://sundial.csun.edu/190795/arts-entertainment/twyla-tharp-and-company-celebrate-60-years-at-the-soraya/>
+
+---
+
+## CSUN Faculty Leah Kohn showcases her musical craft
+
+date: 2025-02-28, from: The Sundail (CSUN Student Newspaper)
+
+Leah Kohn, a facility artist, filled the Shigemi Matsumoto Recital Hall with her bassoon music on Feb. 22. Pianist Jason Stoll, clarinetist Sérgio Coelho and flutist Chang Lu accompanied Kohn’s... 
+
+<br> 
+
+<https://sundial.csun.edu/190791/arts-entertainment/csun-faculty-leah-kohn-showcases-her-musical-craft/>
+
+---
+
+## Alumnus heals mental health issues through music therapy
+
+date: 2025-02-28, from: The Sundail (CSUN Student Newspaper)
+
+To celebrate the conclusion of Black History Month, the Department of Africana Studies (AS) organized an event that allowed students to explore the connection between music and therapy. The Black... 
+
+<br> 
+
+<https://sundial.csun.edu/190784/arts-entertainment/alumnus-heals-mental-health-issues-through-music-therapy/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+As of around 1:15 p.m., members of UPTE-CWA 9119 started loading picket signs, tents, tables and chairs into a truck. Only around 30 members of the union were still outside of the Ronald Reagan UCLA Medical Center. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482052/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+The third day of the UPTE-CWA 9119 strike concluded around 1 p.m. as demonstrators chanted, “We’ll be back.” The crowd slowly dispersed as music played and organizers passed out remaining food. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482048/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+Ursula Quinn, the executive vice president of UPTE-CWA 9119 and an occupational therapist at the inpatient adult psychiatric unit at UCLA, criticized UCLA&#8217;s choice to highlight its status as the No. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482046/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+Members of UPTE-CWA 9119 shared testimonials outside of Ronald Reagan UCLA Medical Center at 12:45 p.m. Isabel Velasquez, a clinical social worker from UCLA Santa Monica Medical Center, emphasized the need for higher pay and better support for staff in her speech. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482041/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+At 11:53 a.m., UPTE-CWA 9119 picketers returned to Ronald Reagan UCLA Medical Center, chanting &#8220;When we fight, we win,&#8221; and &#8220;Who runs UC? We run UC.&#8221; 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482037/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+Around 150 UPTE-CWA 9119 picketers reached Bruin Plaza around 11:25 a.m. and chanted, &#8220;Who has the power? Union power&#8221; and &#8220;Who&#8217;s university? Our university.&#8221;
+Picketers then left Bruin Plaza around 11:30 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482029/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+At 10:54 a.m., UPTE-CWA 9119 picketers at the Ronald Reagan UCLA Medical Center began marching towards Bruin Plaza chanting, &#8220;If they don&#8217;t bargain, shut it down&#8221; and &#8220;Who runs UC? 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482023/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+In a post on its Instagram, UPTE says its strike is “One day longer, one day stronger.” UPTE represents professional and technical employees and is trying to advocate against what it sees as unfair labor practices in its last day of the UC-wide strike. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482009/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+Security is stationed outside the Ronald Reagan UCLA Medical Center parking lot, and hospital patients are advised to plan ahead and allocate extra time for traveling. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482007/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+UCLA Health hospitals aim to stay open and operational during the union strike, according to the organization&#8217;s website. While the hospitals are still open, delays are expected due to extra traffic and limited staff. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482005/>
+
+---
+
+**@The Daily Bruin (UCLA Student Newspaper)** (date: 2025-02-28, from: The Daily Bruin (UCLA Student Newspaper))
+
+A strike from AFSCME Local 3299 – which represents patient care, service and skilled craft workers – has ended. UCLA Dining halls will reopen to normal service, according to the UCLA Dining website. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/482003/>
 
 ---
 
@@ -1313,4 +1472,17 @@ The Tony Award-winning play has Apparated from London to Broadway to LA&#8217;s 
 <br> 
 
 <https://dailybruin.com/2025/02/23/theater-review-while-lacking-good-script-harry-potter-and-the-cursed-child-spurs-magic-onstage/>
+
+---
+
+## USAC commission opens funds to subsidize BruinCard replacement, laundry
+
+date: 2025-02-22, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council Financial Supports Commission is piloting new funding initiatives to subsidize BruinCard replacements and laundry costs.
+The commission&#8217;s Replacement BruinCard Fund will provide students with a once-per-quarter $10 discount on the $25 BruinCard replacement fee or complete coverage of the $5 fee to exchange an existing BruinCard with a new one. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/21/usac-commission-opens-funds-to-subsidize-bruincard-replacement-laundry/>
 

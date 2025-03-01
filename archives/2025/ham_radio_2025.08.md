@@ -1,11 +1,73 @@
 ---
 title: ham radio
-updated: 2025-02-28 07:08:35
+updated: 2025-03-01 07:07:55
 ---
 
 # ham radio
 
-(date: 2025-02-28 07:08:35)
+(date: 2025-03-01 07:07:55)
+
+---
+
+## AC-Line Safety Monitor Brings Technical, Privacy Issues
+
+date: 2025-02-28, from: EDN Blog
+
+<img width="627" height="853" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog168_AC-line-safety-monitor_Fig2-e1740770525110.png?fit=627%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog168_AC-line-safety-monitor_Fig2-e1740770525110.png?w=627 627w, https://www.edn.com/wp-content/uploads/Power-Points-Blog168_AC-line-safety-monitor_Fig2-e1740770525110.png?w=221 221w" sizes="(max-width: 627px) 100vw, 627px" /><p>A small, easy-to-install device monitors the AC line for fire-inducing scenarios…and more. </p>
+<p>The post <a href="https://www.edn.com/ac-line-safety-monitor-brings-technical-privacy-issues/" data-wpel-link="internal">AC-Line Safety Monitor Brings Technical, Privacy Issues</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ac-line-safety-monitor-brings-technical-privacy-issues/>
+
+---
+
+## Get On the Air for the ARRL International DX Contest
+
+date: 2025-02-28, from: Amateur Radio Relay League News
+
+<p>We’re seeing peak conditions from Solar Cycle 25 just in time for the ARRL International DX SSB Contest. It gets underway this weekend at 0000 UTC on Saturday, March 1, and concludes at 2359 UTC on Sunday, March 2. </p><p>ARRL Contest Program Manager Paul Bourque, N1SFE, is gearing up to operate as part of a multi-operator, single-transmitter station for the event. He is eager to get started. “This is...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/get-on-the-air-for-the-arrl-international-dx-contest>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-02-28, from: Amateur Radio Relay League News
+
+<p>A Coronal Mass Ejection (CME) associated with a filament eruption<br />became visible on February 26 at 1448 UTC.  Model analysis<br />determined this CME to be a miss ahead of the Sun/Earth line.<br /><br />Unsettled to active levels are likely on February 28 to March 1 as a<br />Coronal Hole influence continues, and a glancing blow is possible<br />from a Coronal Mass Ejection that occurred on February 25.<br /><br />Solar activity is fore...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-3>
+
+---
+
+## Colorado High School Students Visit the Plishner Radio Astronomy and Space Sciences Center
+
+date: 2025-02-28, from: Amateur Radio Relay League News
+
+<p>In late January 2025, 17 students and staff members from Las Animas High School (LAHS) in Colorado visited the Deep Space Exploration Society Radio Telescope (DSES) located at the Plishner Radio Astronomy and Space Sciences Center near Haswell, Colorado. They also got an introduction to amateur radio.</p><p>“This first field trip visit of high school students reflected the dreams of Michael Lowe, form...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/colorado-high-school-students-visit-the-plishner-radio-astronomy-and-space-sciences-center>
+
+---
+
+## ARRL’s “On the Air Live” Continues to Grow
+
+date: 2025-02-28, from: Amateur Radio Relay League News
+
+<p>ARRL is equipping the next generation of radio amateurs with the knowledge to get active on the air. “On the Air Live” is a monthly interactive webinar series that does deep-dives into topics aimed at the new and intermediate ham. It complements material found in <em>On the Air</em> magazine. February’s event had nearly 130 people in attendance. </p><p>The events are hosted by ARRL Education Specialist Wayne G...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-s-on-the-air-live-continues-to-grow>
 
 ---
 
@@ -13,7 +75,7 @@ updated: 2025-02-28 07:08:35
 
 date: 2025-02-28, from: EDN Blog
 
-<img width="640" height="253" src="https://www.edn.com/wp-content/uploads/Hero-image-Arm-CortexA320.jpg?fit=640%2C253" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Arm-CortexA320.jpg?w=640 640w, https://www.edn.com/wp-content/uploads/Hero-image-Arm-CortexA320.jpg?w=300 300w" sizes="(max-width: 640px) 100vw, 640px" /><p>Cortex A-320 combined with Arm’s Ethos-U85 NPU enables generative AI use cases in IoT devices.</p>
+<img width="640" height="253" src="https://www.edn.com/wp-content/uploads/Hero-image-Arm-CortexA320.jpg?fit=640%2C253" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Arm-CortexA320.jpg?w=640 640w, https://www.edn.com/wp-content/uploads/Hero-image-Arm-CortexA320.jpg?w=300 300w" sizes="auto, (max-width: 640px) 100vw, 640px" /><p>Cortex A-320 combined with Arm’s Ethos-U85 NPU enables generative AI use cases in IoT devices.</p>
 <p>The post <a href="https://www.edn.com/arms-ai-pivot-for-the-edge-cortex-a-320-cpu/" data-wpel-link="internal">Arm’s AI pivot for the edge: Cortex A-320 CPU</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -27,7 +89,7 @@ date: 2025-02-28, from: EDN Blog
 
 date: 2025-02-27, from: EDN Blog
 
-<img width="800" height="442" src="https://www.edn.com/wp-content/uploads/RS-ZNB3000.jpg?fit=800%2C442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/RS-ZNB3000.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/RS-ZNB3000.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RS-ZNB3000.jpg?w=768 768w" sizes="(max-width: 800px) 100vw, 800px" /><p>With high measurement speed and stability, the R&#038;S ZNB3000 vector network analyzer (VNA) supports large-scale RF component production.</p>
+<img width="800" height="442" src="https://www.edn.com/wp-content/uploads/RS-ZNB3000.jpg?fit=800%2C442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/RS-ZNB3000.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/RS-ZNB3000.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/RS-ZNB3000.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>With high measurement speed and stability, the R&#038;S ZNB3000 vector network analyzer (VNA) supports large-scale RF component production.</p>
 <p>The post <a href="https://www.edn.com/vna-enables-fast-accurate-rf-measurements/" data-wpel-link="internal">VNA enables fast, accurate RF measurements</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2025-02-28 07:08:41
+updated: 2025-03-01 07:08:02
 ---
 
 # craft
 
-(date: 2025-02-28 07:08:41)
+(date: 2025-03-01 07:08:02)
 
 ---
 
@@ -68,4 +68,16 @@ Good news: Alexander Brothers is now selling a new stick chair kit for the Curve
 <br> 
 
 <https://blog.lostartpress.com/2025/02/24/a-new-stick-chair-kit-from-alexander-brothers/>
+
+---
+
+## Guitar Side Bending Tools: Ultimate Luthier’s Guide
+
+date: 2025-02-22, from: Learn The Art of Lutherie
+
+ 
+
+<br> 
+
+<https://theartoflutherie.com/guitar-side-bending-tools/>
 

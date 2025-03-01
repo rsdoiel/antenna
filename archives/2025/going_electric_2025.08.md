@@ -1,11 +1,259 @@
 ---
 title: going electric
-updated: 2025-02-28 07:08:41
+updated: 2025-03-01 07:08:01
 ---
 
 # going electric
 
-(date: 2025-02-28 07:08:41)
+(date: 2025-03-01 07:08:01)
+
+---
+
+## Compton, California, just got its first 25 electric school buses
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Highland-Fleets-Compton-Electric-school-buses.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Compton, California, has unveiled 25 new electric school buses – the school district’s first – and 25 <a href="https://telluspowernorthamerica.com/">Tellus</a> 180 kW DC fast chargers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,egeb,electric-school-buses,solar,los-angeles,thomas-built" data-layer-viewtype="unknown" data-post-id="403799" href="https://electrek.co/2025/02/28/compton-california-electric-school-buses/#more-403799" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/compton-california-electric-school-buses/>
+
+---
+
+## Public EV Charging Was Already Getting Worse. Then Trump Killed Federal Funding
+
+date: 2025-02-28, from: Inside EVs News
+
+Availability is one problem. There's also uptime and connection issues. Now, without funding, it could get even worse, J.D. Power warns. 
+
+<br> 
+
+<https://insideevs.com/news/752187/ev-charging-getting-worse-nevi/>
+
+---
+
+## Rivian’s R1S electric SUV just got way cheaper to lease
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Rivian-leasing-states-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After cutting lease prices by $200 this month, the <a href="https://electrek.co/guides/rivian-r1s/">Rivian R1S</a> is now surprisingly affordable. It may even be a better deal than the new Tesla Model Y.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s" data-layer-viewtype="unknown" data-post-id="403739" href="https://electrek.co/2025/02/28/rivian-r1s-electric-suv-way-cheaper-lease/#more-403739" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/rivian-r1s-electric-suv-way-cheaper-lease/>
+
+---
+
+## Polestar's 'Trade In Your Tesla' $20,000 Deal Is Already A Hit
+
+date: 2025-02-28, from: Inside EVs News
+
+Tesla owners are getting fed up with the brand. Polestar wants to reel them in, and it seems to be working.  
+
+<br> 
+
+<https://insideevs.com/news/752184/polestar-3-tesla-lease-deal/>
+
+---
+
+## Tesla can already deliver new Model Y orders within 2 weeks in China – demand problem?
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Model-Y-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla says it can deliver new orders for the refreshed Model Y within two weeks in China. Is the automaker already experiencing a demand problem with the new Model Y?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="403733" href="https://electrek.co/2025/02/28/tesla-can-already-deliver-new-model-y-orders-within-2-weeks-in-china-demand-problem/#more-403733" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/tesla-can-already-deliver-new-model-y-orders-within-2-weeks-in-china-demand-problem/>
+
+---
+
+## Podcast: Kia EV Day, TSLA stock crashing, VW ID.4 surging, and more
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss announcements made at Kia’s EV Day 2025, TSLA stock crashing, VW ID.4 surging, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="403734" href="https://electrek.co/2025/02/28/podcast-kia-ev-day-tsla-stock-crashing-vw-id-4-surging-and-more/#more-403734" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/podcast-kia-ev-day-tsla-stock-crashing-vw-id-4-surging-and-more/>
+
+---
+
+## Making A Plug-In Hybrid Is A Lot Harder Than You Think
+
+date: 2025-02-28, from: Inside EVs News
+
+It's also a lot harder than making a good EV. So if you think PHEVs are the easy answer, think again. 
+
+<br> 
+
+<https://insideevs.com/news/752166/why-arent-there-more-phevs/>
+
+---
+
+## Hyundai, Kia push solid-state EV batteries until 2030, but these rivals are racing ahead
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Hyundai-Kia-solid-state-EV-batteries-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai Motor Group, including <a href="https://electrek.co/guides/kia/">Kia</a>, doesn’t expect to launch solid-state EV batteries until 2030, at the earliest. The company said there’s “a lot of uncertainty” around the promising new battery tech. With others, including Mercedes-Benz, Toyota, Stellantis, Honda, and Chinese battery giants CATL and BYD, who will be the first to get the “holy grail” of battery tech on the market?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-motor-group,kia" data-layer-viewtype="unknown" data-post-id="403702" href="https://electrek.co/2025/02/28/hyundai-pushes-back-solid-state-ev-batteries-rivals-race-ahead/#more-403702" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/hyundai-pushes-back-solid-state-ev-batteries-rivals-race-ahead/>
+
+---
+
+## First discount on Rad Power RadTrike in over a year at $1,499, Exclusive $552 DELTA 3 Plus offer, Segway e-scooters 58% off, EGO, more
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Rad-Power-RadTrike-FI.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Headlining today’s Green Deals is the spotlight we’re shining on the rare discount hitting <a href="https://9to5toys.com/2025/02/28/rad-power-radtrike-1499/">Rad Power’s RadTrike for $1,499</a> for the first time in over a year, which comes as part of the <a href="https://9to5toys.com/2025/02/27/rad-power-continues-sale-from-999/">brand’s latest sale offers</a>. After yesterday’s bundled flash offer, we have a new exclusive deal for our readers on <a href="https://9to5toys.com/2025/02/27/exclusive-ecoflow-delta-3-plus-552/">EcoFlow’s standalone DELTA 3 Plus</a> Portable Power Station for <a href="https://9to5toys.com/2025/02/27/exclusive-ecoflow-delta-3-plus-552/">$552</a>. There’s also Segway’s sale offers, which include the <a href="https://9to5toys.com/2025/02/27/segway-ninebot-e2-pro-500-more/">Ninebot E2 Pro eKickScooter</a> that sports Apple Find My at <a href="https://9to5toys.com/2025/02/27/segway-ninebot-e2-pro-500-more/">$500</a>, with up to 58% taken off the other models. Lastly, we spotted the <a href="https://9to5toys.com/2025/02/28/ego-z6-42-inch-riding-mower-four-12ah-e-steer-new-4999-low/">EGO Power+ Z6</a> 42-inch Zero-Turn Electric Riding Lawn Mower with four 12Ah batteries and an e-STEER LCD wheel at a new <a href="https://9to5toys.com/2025/02/28/ego-z6-42-inch-riding-mower-four-12ah-e-steer-new-4999-low/">$4,999</a> low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s free extra battery bundle on <a href="https://9to5toys.com/2025/02/27/rad-power-continues-sale-from-999/">Rad’s RadCity 5 Plus e-bike</a>, the return $899 low on <a href="https://9to5toys.com/2025/02/27/heybike-mars-2-0-899-low-flash-sale/">Heybike’s Mars 2.0 e-bike</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="403706" href="https://electrek.co/2025/02/28/rad-power-radtrike-1499-exclusive-delta-3-plus-segway-ego-more/#more-403706" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/rad-power-radtrike-1499-exclusive-delta-3-plus-segway-ego-more/>
+
+---
+
+## Installing Home Chargers Can Be Tricky. Here's How To Avoid A Potential Fire
+
+date: 2025-02-28, from: Inside EVs News
+
+Tom Moloughney fixes a homeowner's melted plug and explains what went wrong. 
+
+<br> 
+
+<https://insideevs.com/news/752148/home-charger-installation-avoid-fire/>
+
+---
+
+## Tesla partners with Steak ‘n Shake on Superchargers with up to more than 100 locations
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Electric-vehicles-5K-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has partnered with Steak ‘n Shake to deploy Superchargers at up to more than 100 restaurant locations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="403688" href="https://electrek.co/2025/02/28/tesla-partners-with-steak-n-shake-on-superchargers-with-up-to-more-than-100-locations/#more-403688" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/tesla-partners-with-steak-n-shake-on-superchargers-with-up-to-more-than-100-locations/>
+
+---
+
+## Volkswagen ID.4 was the best-selling EV in Europe, top 3 in the US last month
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volkswagen-ID.4-best-selling-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen’s electric SUV is making a comeback. <span style="margin: 0px; padding: 0px;">Last month, the <a href="https://electrek.co/guides/vw-id-4/" target="_blank">Volkswagen ID.4 </a>topped Tesla’s Model Y to become the best-selling EV in E</span>urope, and it was even in the top three in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-4,vw-id-4" data-layer-viewtype="unknown" data-post-id="403677" href="https://electrek.co/2025/02/28/volkswagen-id-4-best-selling-ev-europe-top-3-us-jan/#more-403677" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/volkswagen-id-4-best-selling-ev-europe-top-3-us-jan/>
+
+---
+
+## Why Level 1 EV Wall Charging Is More Useful Than You Think
+
+date: 2025-02-28, from: Inside EVs News
+
+With an electric car, sometimes a humble wall outlet can be your best friend. I proved that on my Rivian R1T road trip. 
+
+<br> 
+
+<https://insideevs.com/news/752136/level1-ev-charging-rivian-r1t/>
+
+---
+
+## Elon Musk ‘cancels’ Tesla engineer for complaining about the CEO’s behavior
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Elon-Musk-Game-of-Thrones.webp?w=1500" /></div><p>Elon Musk has reportedly ‘canceled’ a Tesla engineer for complaining about the CEO’s behaviors on social media.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403673" href="https://electrek.co/2025/02/28/elon-musk-cancels-tesla-engineer-for-complaining-about-the-ceos-behavior/#more-403673" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/elon-musk-cancels-tesla-engineer-for-complaining-about-the-ceos-behavior/>
+
+---
+
+## GM’s EV Surge Is Set To Face Its Biggest Challenge This Year
+
+date: 2025-02-28, from: Inside EVs News
+
+General Motors catapulted to become one of America’s best-selling EV makers. Now comes Trump’s wrecking ball. 
+
+<br> 
+
+<https://insideevs.com/news/752160/gm-ev-surge-to-face-biggest-challenge-this-year/>
+
+---
+
+## Polestar (PSNY) locks in $450 million in funding as the EV maker ‘starts its next chapter’
+
+date: 2025-02-28, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Polestar-450-million.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/polestar/">Polestar</a> (PSNY) secured another $450 million in fresh funding as the EV maker aims for profitability this year. With three electric vehicles and a fourth on the way, Polestar expects 2025 to be its biggest yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="polestar" data-layer-viewtype="unknown" data-post-id="403664" href="https://electrek.co/2025/02/28/polestar-psny-secures-450-million-fuel-ev-expansion/#more-403664" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/polestar-psny-secures-450-million-fuel-ev-expansion/>
+
+---
+
+## Upcoming Kia EV1 Will Be Even Smaller And More Affordable
+
+date: 2025-02-28, from: Inside EVs News
+
+It will be the electric equivalent of the Kia Picanto, the popular subcompact hatchback available in Europe. 
+
+<br> 
+
+<https://insideevs.com/news/752127/kia-ev1-electric-city-car/>
 
 ---
 
@@ -18,6 +266,10 @@ date: 2025-02-28, from: Electrek Feed
 
 
 <p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes a merger between Electric Bike Company and Integral Electrics, California looking to clamp down further on Sur Ron hooligans, a Super73 recall, Cowboy’s production move, a tour inside Bafang’s factory in China, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Wheele_82.mp3"></audio></figure>
 
 
 
@@ -1479,4 +1731,40 @@ Mini has never made a production rear-wheel drive vehicle, but BMW’s Neue Klas
 <br> 
 
 <https://insideevs.com/news/751521/future-mini-electric-vehicles-rwd/>
+
+---
+
+## The Chevrolet Equinox EV Peaks At 150 KW. It’s Still Faster On A 250 KW Charger
+
+date: 2025-02-22, from: Inside EVs News
+
+Tom Moloughney put the American EV to the test at three different DC fast chargers. The fastest station was not the most powerful. 
+
+<br> 
+
+<https://insideevs.com/news/751289/chevrolet-equinox-ev-350kw-charging-test/>
+
+---
+
+## New Tesla Model Y First Reviews: 'Night And Day'
+
+date: 2025-02-22, from: Inside EVs News
+
+Reviewers say the new Model Y is way quieter, more comfortable and higher-quality than before.  
+
+<br> 
+
+<https://insideevs.com/news/751503/new-model-y-review-2026/>
+
+---
+
+## This 250,000-Mile Tesla Model S Took Nearly 3 Hours To Fully 'Fast' Charge
+
+date: 2025-02-22, from: Inside EVs News
+
+Don't worry, though, its performance isn't quite as bad as it may look. 
+
+<br> 
+
+<https://insideevs.com/news/751343/tesla-model-s-250k-miles-charging/>
 

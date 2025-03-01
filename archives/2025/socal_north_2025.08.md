@@ -1,23 +1,197 @@
 ---
 title: socal north
-updated: 2025-02-28 07:08:34
+updated: 2025-03-01 07:07:54
 ---
 
 # socal north
 
-(date: 2025-02-28 07:08:34)
+(date: 2025-03-01 07:07:54)
 
 ---
 
-## Not your usual March Madness: how you can help crown LA’s worst parking lot
+## Trump, Zelenskyy shouting match underscores change in U.S. foreign policy
 
-date: 2025-02-28, updated: 2025-02-28, from: The LAist
+date: 2025-02-28, updated: 2025-03-01, from: The LAist
 
-The competition is being run by Americana at Brand Memes on Instagram and its anonymous account holder, Mr. Glen Dale. 
+Three years after Russia launched its invasion of Ukraine, the U.S., in a split with its European allies over the war, sided with Russia at the U.N. 
 
 <br> 
 
-<https://laist.com/news/transportation/march-madness-los-angeles-worst-parking-lot-vote>
+<https://laist.com/news/trump-zelenskyy-shouting-match-underscores-change-in-u-s-foreign-policy>
+
+---
+
+## The Social Security Administration says it plans to cut some 7,000 jobs
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+The move, which is in line with an executive order from President Trump to slash the federal workforce, raises concerns about staffing at the agency that delivers crucial benefits to Americans. 
+
+<br> 
+
+<https://laist.com/news/politics/significant-workforce-reductions-are-coming-to-the-social-security-administration>
+
+---
+
+## Pip Watch: All eyes on Jackie and Shadow’s nest for new signs of life
+
+date: 2025-02-28, updated: 2025-03-01, from: The LAist
+
+Pip is short for pipping, which is the first hole an eaglet makes as it emerges from its egg. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/jackie-and-shadow-nest-pip-watch>
+
+---
+
+## California can sue Huntington Beach over its voter ID law, judge rules
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+The first hearing in the legal action is scheduled to take place April 3. 
+
+<br> 
+
+<https://laist.com/news/politics/california-voter-id-lawsuit-huntington-beach>
+
+---
+
+## California snowpack rebounds amid a wobbly winter, with more storms on the way
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+At this point, California is set to have a near-average Sierra Nevada snowpack, and at least three more storms this season will likely give it a necessary boost. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-snowpack-rebounds>
+
+---
+
+## A little piece of Catalina Island
+
+date: 2025-02-28, from: Catalina Islander
+
+Robin Cassidy’s impact on Avalon can be seen all over town. Most might not even realize they are looking at it, but it’s there. Since Robin opened Silver Canyon Pottery, her shop’s work has been used to revive much of the aging tiles all around town. Her work has become a fixture in Avalon and [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/a-little-piece-of-catalina-island/>
+
+---
+
+## Eating Disorders Awareness Week ends March 2
+
+date: 2025-02-28, from: Catalina Islander
+
+The Time is Now. That is the theme of this year’s Eating Disorders Awareness Week which runs from Feb. 24 through March 2. It is the largest and best-known eating disorders outreach effort in the country. Catalina Island Health is participating by sharing information and resources that can be found through the mental health arm [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/eating-disorders-awareness-week-ends-march-2/>
+
+---
+
+## Green Pier update
+
+date: 2025-02-28, from: Catalina Islander
+
+The council unanimously approved contracts with two businesses to repair the restrooms at the Green Pier at the Feb. 18 meeting. The contract with MKS Specialty Finishes, Inc., and Geoff King Plumbing would be for a maximum of $100,000. The money, according to the staff report by Maintenance Superintendent Jamie Hmielak, would come from the [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/green-pier-update/>
+
+---
+
+## Deadlines to apply for federal wildfire assistance are approaching. Here's how to apply
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+If you were affected by the January wildfires and haven't put in for federal assistance yet, the clock is ticking. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/deadlines-disaster-assistance-la-wildfires>
+
+---
+
+## ME Main Productions to Present “The Nostalgic Radio Show” at The MAIN
+
+date: 2025-02-28, from: City of Santa Clarita
+
+<p>Can You “Moo” on Cue? Come Join a Staged 1930’s Hilarious Show! The Nostalgic Radio Show is making its annual return to The MAIN (24266 Main Street) with two rollicking fun evenings on Friday, March 7 and Saturday, March 8. All of your favorite adapted radio shows, including Flash Gordon, Superman, The Lone Ranger and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/28/me-main-productions-to-present-the-nostalgic-radio-show-at-the-main/">ME Main Productions to Present &#8220;The Nostalgic Radio Show&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/28/me-main-productions-to-present-the-nostalgic-radio-show-at-the-main/>
+
+---
+
+## As the Texas outbreak grows, how contagious is measles, really?
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+Vaccination eliminated measles from the U.S. 25 years ago. But it can still spread in pockets where vaccination rates are low, like the west Texas county with a current outbreak. Here's how fast. 
+
+<br> 
+
+<https://laist.com/news/health/as-the-texas-outbreak-grows-how-contagious-is-measles-really>
+
+---
+
+## Unleash Your Creativity at the 9th Annual Youth Arts Showcase
+
+date: 2025-02-28, from: City of Santa Clarita
+
+<p>Hands-On Craft Stations, Live Performances, Interactive Art Experiences and More! The City of Santa Clarita is excited to invite families, young artists and the entire community to the 9th Annual Youth Arts Showcase on Saturday, March 15, from 11:00 a.m. to 3:00 p.m. at the Newhall Community Center (22421 Market Street). This free, family-friendly event [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/28/unleash-your-creativity-at-the-9th-annual-youth-arts-showcase/">Unleash Your Creativity at the 9th Annual Youth Arts Showcase</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/28/unleash-your-creativity-at-the-9th-annual-youth-arts-showcase/>
+
+---
+
+## Volunteers Needed for the Santa Clarita Cowboy Festival
+
+date: 2025-02-28, from: City of Santa Clarita
+
+<p>Register Now to Volunteer at this Unique Event! Saddle up and lend a hand! The 29th Santa Clarita Cowboy Festival is back in town and the City of Santa Clarita is seeking enthusiastic volunteers to help make it a success by assisting with different activities during the event. Residents 10-years and older who are ready [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/02/28/volunteers-needed-for-the-santa-clarita-cowboy-festival-3/">Volunteers Needed for the Santa Clarita Cowboy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/02/28/volunteers-needed-for-the-santa-clarita-cowboy-festival-3/>
+
+---
+
+## California has a lot to lose if Trump slashes Medicaid. Seniors, kids and more could face coverage cuts
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+Almost 15 million Californians have health care coverage through Medi-Cal, a program that stands to lose billions of dollars if Republicans follow through on proposed cuts. 
+
+<br> 
+
+<https://laist.com/news/health/california-if-trump-slashes-medicaid-seniors-kids-and-more-could-face-coverage-cuts>
+
+---
+
+## No signs of forced entry or a carbon monoxide leak in Gene Hackman's death
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+Hackman and his wife, Betsy Arakawa, were found dead inside a New Mexico home, as well as a dog. The door to the home was open when a maintenance worker discovered their bodies, an affidavit says. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/no-signs-of-forced-entry-or-a-carbon-monoxide-leak-in-gene-hackmans-death>
 
 ---
 
@@ -30,6 +204,18 @@ Eating a plant-based diet doesn’t have to cost the earth.
 <br> 
 
 <https://laist.com/news/food/cheap-fast-eats-vegan-meatless-dishes-la>
+
+---
+
+## Not your usual March Madness: how you can help crown LA’s worst parking lot
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+The competition is being run by Americana at Brand Memes on Instagram and its anonymous account holder, Mr. Glen Dale. 
+
+<br> 
+
+<https://laist.com/news/transportation/march-madness-los-angeles-worst-parking-lot-vote>
 
 ---
 
@@ -991,4 +1177,124 @@ date: 2025-02-23, from: City of Santa Clarita
 <br> 
 
 <https://santaclarita.gov/blog/2025/02/22/step-into-nature/>
+
+---
+
+## Federal judge hears arguments to decide the future of Trump's federal funding freeze
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+The case, brought by attorneys general in 22 states and the District of Columbia, represents a pivotal test for the administration as it pursues a dramatic review of government spending priorities. 
+
+<br> 
+
+<https://laist.com/news/politics/federal-judge-hears-arguments-to-decide-the-future-of-trumps-federal-funding-freeze>
+
+---
+
+## Elon Musk blurs the line between his government and business roles
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+The tech titan and President Trump say they will avoid any conflicts of interest, but it's difficult for the public to verify that. 
+
+<br> 
+
+<https://laist.com/news/politics/elon-musk-blurs-the-line-between-his-government-and-business-roles>
+
+---
+
+## For restaurants on the coast, Palisades Fire is just the latest disaster
+
+date: 2025-02-22, updated: 2025-02-27, from: The LAist
+
+Some restaurants in Malibu, the Palisades and Santa Monica, like those throughout the industry, were already on life support after pandemic lockdowns, the Hollywood writers strike and inflation. 
+
+<br> 
+
+<https://laist.com/news/food/for-restaurants-on-the-coast-palisades-fire-is-just-the-latest-disaster>
+
+---
+
+## New plaza strives to restore Westwood Village to old glory
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+Broxton Plaza, with 14,000 square feet of walkable space, has grand opening today. It's L.A.'s newest and largest pedestrian-only plaza. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/broxton-plaza-strives-to-restore-westwood-village-to-old-glory>
+
+---
+
+## New plaza strives to restore Westwood Village to old glory
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+Broxton Plaza, with 14,000 square feet of walkable space, has grand opening today. It's L.A.'s newest and largest pedestrian-only plaza. 
+
+<br> 
+
+<https://laist.com/news/broxton-plaza-strives-to-restore-westwood-village-to-old-glory>
+
+---
+
+## With radios and megaphones, volunteers patrol LA streets to warn communities of ICE activity
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+A coalition of grassroots groups is ramping up patrols and using real-time alerts to warn residents of ICE activity amid news of a possible "large-scale" immigration enforcement action set to take place in L.A. 
+
+<br> 
+
+<https://laist.com/news/volunteers-patrol-la-streets-ice-activity-warnings>
+
+---
+
+## Go Fact Yourself quiz for February 22
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+Our celebrity panelists Jennifer Tilly and Adam Savage go head to head this week on their knowledge of The Beatles and Raymond Chandler. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-february-22>
+
+---
+
+## Judge largely blocks Trump's executive orders ending federal support for DEI programs
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+A U.S. district judge granted a preliminary injunction blocking the administration from terminating or changing federal contracts they consider equity-related. 
+
+<br> 
+
+<https://laist.com/news/politics/judge-largely-blocks-trumps-executive-orders-ending-federal-support-for-dei-programs>
+
+---
+
+## Children's Hospital LA reverses course on youth gender care after Trump order
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+The hospital previously said it would pause accepting some new patients in response to a federal executive order. Now after pressure from advocates and the state, it is reversing course. 
+
+<br> 
+
+<https://laist.com/news/health/chla-resumes-gender-affirming-care-for-new-patients-under-19>
+
+---
+
+## LA considers waiving development reviews for Olympics projects. Critics say priorities are skewed
+
+date: 2025-02-22, updated: 2025-02-22, from: The LAist
+
+In the run-up to the 2028 Olympics, some city leaders say development barriers need to be removed. But opponents say the damage to communities could be long-lasting. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-olympics-projects-review-exemption-city-council-vote>
 

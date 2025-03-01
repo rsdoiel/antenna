@@ -1,11 +1,131 @@
 ---
 title: science and technology
-updated: 2025-02-28 07:08:36
+updated: 2025-03-01 07:07:56
 ---
 
 # science and technology
 
-(date: 2025-02-28 07:08:36)
+(date: 2025-03-01 07:07:56)
+
+---
+
+## Smooshing for Science: A Flat-Out Success
+
+date: 2025-02-28, from: NASA breaking news
+
+Written by Henry Manelski, Ph.D. student at Purdue University The Perseverance team is always looking for creative ways to use the tools we have on Mars to maximize the science we do. On the arm of the rover sits the SHERLOC instrument, which specializes in detecting organic compounds and is crucial in our search for […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/smooshing-for-science-a-flat-out-success/>
+
+---
+
+## NASA Uses New Technology to Understand California Wildfires
+
+date: 2025-02-28, from: NASA breaking news
+
+The January wildfires in California devastated local habitats and communities. In an effort to better understand wildfire behavior, NASA scientists and engineers tried to learn from the events by testing new technology. The new instrument, the Compact Fire Infrared Radiance Spectral Tracker (c-FIRST), was tested when NASA’s B200 King Air aircraft flew over the wildfires [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/science-research/earth-science/nasa-uses-new-technology-to-understand-california-wildfires/>
+
+---
+
+## What’s Up: March 2025 Skywatching Tips from NASA
+
+date: 2025-02-28, from: NASA breaking news
+
+A Fast-Moving Planet and a Crimson Moon! Catch Mercury if you can, then stay up late for a total lunar eclipse, and learn the truth about the dark side of the Moon. Skywatching Highlights All Month – Planets Visibility: Daily Highlights: March 7-9 – Catch Mercury: Look for Mercury beginning about 30 minutes after sunset […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/whats-up-march-2025-skywatching-tips-from-nasa/>
+
+---
+
+## Intel slows its roll on $28B Ohio fab expansion, pushing production to 2030s
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>x86 giant still expects to ramp 18A process tech this year</h4> <p>Intel&#39;s floundering foundry business hit another speed bump on Friday after executives delayed the completion of its $28 billion Ohio factory build-out until at least 2030.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/intel_delay_ohio/>
+
+---
+
+## Three charged in Singapore with alleged link to illicit shipments of Nvidia GPUs to China
+
+date: 2025-02-28, updated: 2025-03-01, from: The Register (UK I.T. News)
+
+<h4>Accused face up to 20 years in prison</h4> <p>The authorities in Singapore have charged three men with fraud, allegedly in connection with the shipment of Nvidia GPUs into China in violation of US export controls.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/singapore_arrest_server_fraud/>
+
+---
+
+## Ransomware criminals love CISA's KEV list – and that's a bug, not a feature
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>1 in 3 entries are used to extort civilians, says new paper</h4> <p>Fresh research suggests attackers are actively monitoring databases of vulnerabilities that are known to be useful in carrying out ransomware attacks.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/cisa_kev_list_ransomware/>
+
+---
+
+## ESA's Integral gamma-ray gazer gasps its last
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>After almost 23 years on the job, observations end for 2029 re-entry</h4> <p>All good things must come to an end. So it is that the European Space Agency&#39;s (ESA) International Gamma-Ray Astrophysics Laboratory (Integral) is set to make its final observations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/esa_integral_end/>
+
+---
+
+## Skype for consumers kicks the bucket on May 5
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Microsoft confirms you have 60 days to export your data or shift to Teams</h4> <p>If you hadn&#39;t already noticed when Skype Credit sales were first suspended in December 5, 2024, the once ubiquitous IP telephony and vid calling wunderkind is no more – at least as a paid service for consumers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/skype_for_consumers_eol/>
+
+---
+
+## Langley Laboratory Apprentice at Work
+
+date: 2025-02-28, from: NASA breaking news
+
+An apprentice at Langley Laboratory (now NASA’s Langley Research Center in Hampton, Virginia) inspects wind tunnel components in this image from May 15, 1943. During World War II, the National Advisory Committee for Aeronautics (NACA), the precursor to NASA, employed apprentices (which NASA has since transitioned into internships) to support meaningful jobs in data computing, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/langley-laboratory-apprentice-at-work/>
+
+---
+
+## Microsoft warns Trump: Where the US won't sell AI tech, China will
+
+date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+
+<h4>Rule hamstringing our datacenters is &#39;gift&#39; to Middle Kingdom, vice chair argues</h4> <p>Microsoft would like the Trump administration to row back AI export restrictions introduced by his predecessor that affect countries where the cloud services giant has datacenters.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/28/microsoft_trump_ai_exports/>
 
 ---
 
@@ -18,6 +138,18 @@ By training machine learning models with enough examples of basic science, Miles
 <br> 
 
 <https://www.quantamagazine.org/the-physicist-working-to-build-science-literate-ai-20250228/>
+
+---
+
+## Hubble Captures New View of Colorful Veil
+
+date: 2025-02-28, from: NASA breaking news
+
+In this NASA/ESA Hubble Space Telescope image, Hubble once again lifts the veil on a famous — and frequently photographed — supernova remnant: the Veil Nebula. The remnant of a star roughly 20 times as massive as the Sun that exploded about 10,000 years ago, the Veil Nebula is situated about 2,400 light-years away in […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-captures-new-view-of-colorful-veil/>
 
 ---
 
@@ -54,6 +186,18 @@ date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/02/28/hp_cuts_jobs_as_profits_slide/>
+
+---
+
+## Jamie Dunn
+
+date: 2025-02-28, from: NASA breaking news
+
+Project Manager &#8211; Goddard Space Flight Center Growing up near Dover Air Force Base in Delaware, Jamie Dunn — now a project manager for NASA’s Nancy Grace Roman Space Telescope — naturally became interested in planes. While he initially wanted to be a pilot, he chose aerospace engineering as a college major. “I originally had [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/jamie-dunn/>
 
 ---
 
@@ -371,7 +515,7 @@ date: 2025-02-27, updated: 2025-02-28, from: The Register (UK I.T. News)
 
 ## How mega city council's failure to act on Oracle rollout crashed its financial controls
 
-date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+date: 2025-02-27, updated: 2025-02-28, from: The Register (UK I.T. News)
 
 <h4>Missing assessments, hidden caveats, and overoptimism all contributed to fateful decision, auditors find</h4> <p>&#34;Huge. There could be major problems transacting leading to late payment or collection of debt. The accounts could be wrong.&#34;…</p> 
 
@@ -383,9 +527,9 @@ date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
 
 ## FYI: An appeals court may kill a GNU GPL software license
 
-date: 2025-02-27, updated: 2025-02-27, from: The Register (UK I.T. News)
+date: 2025-02-27, updated: 2025-02-28, from: The Register (UK I.T. News)
 
-<h4>Defense of FOSS licensing rests on the shoulders of a guy in Virginia</h4> <p>At some point in the months ahead, the United States Court of Appeals for the Ninth Circuit will consider an effort to reverse a California federal district court&#39;s decision in <em>Neo4j v. PureThink</em>.…</p> 
+<h4>Defense of FOSS licensing rests on the shoulders of a guy in Virginia</h4> <p><strong>Updated</strong>  At some point in the months ahead, the United States Court of Appeals for the Ninth Circuit will consider an effort to reverse a California federal district court&#39;s decision in <em>Neo4j v. PureThink</em>.…</p> 
 
 <br> 
 
@@ -1698,4 +1842,52 @@ While SPARC may no longer be supported by the main Illumos project, it still wor
 <br> 
 
 <https://www.osnews.com/story/141779/illums-on-sparc-possible-but-problematic/>
+
+---
+
+## Flathub safety: a layered approach from source to user
+
+date: 2025-02-22, from: OS News
+
+About two weeks ago we talked about why Fedora manages its own Flatpak repository, and why that sometimes leads to problems with upstream projects. Most recently, Fedora&#8217;s own OBS Flatpak was broken, leading to legal threats from the OBS project, demanding Fedora remove any and all branding from its OBS Flatpak. In response, Fedora&#8217;s outgoing project leader Matthew Miller gave an interview on YouTube to Brodie Robertson, in which Miller made some contentious claims about a supposed lack of quality control, security, and safety checks in Flathub. These claims led to a storm of criticism directed at Miller, and since I follow quite a few people actively involved in the Flatpak and Flathub projects &#8211; despite my personal preference for traditional Linux packaging &#8211; I knew the criticism was warranted. As a more official response, Cassidy James Blaede penned an overview of all the steps Flathub takes and the processes it has in place to ensure the quality, security, and safety of Flathub and its packages. With thousands of apps and billions of downloads, Flathub has a responsibility to help ensure the safety of our millions of active users. We take this responsibility very seriously with a layered, in-depth approach including sandboxing, permissions, transparency, policy, human review, automation, reproducibility, auditability, verification, and user interface. Apps and updates can be fairly quickly published to Flathub, but behind the scenes each one takes a long journey full of safety nets to get from a developer’s source code to being used on someone’s device. While information about this process is available between various documentation pages and the Flathub source code, I thought it could be helpful to share a comprehensive look at that journey all in one place. ↫ Cassidy James Blaede Flathub implements a fairly rigorous set of tests, both manual and automated, on every submission. There&#8217;s too many to mention, but reading through the article, I&#8217;m sure most of you will be surprised by just how solid and encompassing the processes are. There are a few applications from major, trusted sources &#8211; think applications from someone like Mozilla &#8211; who have their own comprehensive infrastructure and testing routines, but other than those few, Flathub performs extensive testing on all submissions. I&#8217;m not a particular fan of Flatpak for a variety of reasons, but I prefer to stick to facts and issues I verifiably experience when dealing with Flatpaks. I was definitely a bit taken aback by the callousness with which such a long-time, successful Fedora project leader like Miller threw Flathub under the bus, but at least one of the outcomes of all this is greater awareness of the steps Flathub takes to ensure the quality, security, and safety of the packages it hosts. Nothing is and will be perfect, and I&#8217;m sure issues will occasionally arise, but it definitely seems like Flathub has its ducks in a row. 
+
+<br> 
+
+<https://www.osnews.com/story/141777/flathub-safety-a-layered-approach-from-source-to-user/>
+
+---
+
+## California goes ape with bill to crown Bigfoot official state cryptid
+
+date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
+
+<h4>Beast remains as mythical as the return on AI investment</h4> <p>Some muy importante legislation is stuck in the cogs of Californian bureaucracy – an Assembly Bill to recognize Bigfoot, aka Sasquatch, as the official state cryptid.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/22/bigfoot_california_state_cryptid/>
+
+---
+
+## Binned off staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses
+
+date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
+
+<h4>And really, nothing out of the ordinary for Silicon Valley</h4> <p>After another round of mass layoffs and reports of slashed stock options for remaining employees, Meta has like clockwork opted to reward its top executives with a substantial bonus increase.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/>
+
+---
+
+## Docker delays Hub pull limits by a month, tweaks maximums, stalls storage billing indefinitely
+
+date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
+
+<h4>Image fetches to be capped on hourly basis for Personal, unauthenticated use, paid-for plans get unlimited access</h4> <p>Docker has delayed its plan to limit image pulls – the downloading of container images – from Docker Hub, by one month and has altered previously published quotas.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/02/22/docker_hub_pull_limits/>
 

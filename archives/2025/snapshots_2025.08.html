@@ -29,7 +29,998 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-02-28 07:08:42)</p>
+<p>(date: 2025-03-01 07:08:03)</p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
+<p>The Real Reason Trump Berated Zelensky.</p>
+<p><br></p>
+<p><a
+href="https://www.theatlantic.com/politics/archive/2025/02/zelensky-trump-putin-ukraine/681883/?utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share"
+class="uri">https://www.theatlantic.com/politics/archive/2025/02/zelensky-trump-putin-ukraine/681883/?utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share</a></p>
+<hr />
+<h2 id="strip-tags-0.6">strip-tags 0.6</h2>
+<p>date: 2025-02-28, updated: 2025-02-28, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://github.com/simonw/strip-tags/releases/tag/0.6">strip-tags
+0.6</a></strong>
+</p>
+It’s been a while since I updated this tool, but in investigating
+<a href="https://github.com/simonw/llm/issues/808">a tricky mistake</a>
+in my tutorial for LLM schemas I discovered
+<a href="https://github.com/simonw/strip-tags/issues/32">a bug</a> that
+I needed to fix.
+</p>
+<p>
+Those release notes in full:
+</p>
+<blockquote>
+<ul>
+<li>
+Fixed a bug where <code>strip-tags -t meta</code> still removed
+<code>&lt;meta&gt;</code> tags from the <code>&lt;head&gt;</code>
+because the entire <code>&lt;head&gt;</code> element was removed first.
+<a href="https://github.com/simonw/strip-tags/issues/32">#32</a>
+</li>
+<li>
+Kept <code>&lt;meta&gt;</code> tags now default to keeping their
+<code>content</code> and <code>property</code> attributes.
+</li>
+<li>
+The CLI <code>-m/–minify</code> option now also removes any remaining
+blank lines.
+<a href="https://github.com/simonw/strip-tags/issues/33">#33</a>
+</li>
+<li>
+A new <code>strip_tags(remove_blank_lines=True)</code> option can be
+used to achieve the same thing with the Python library function.
+</li>
+</ul>
+</blockquote>
+<p>
+Now I can do this and persist the <code>&lt;meta&gt;</code> tags for the
+article along with the stripped text content:
+</p>
+<pre><code>curl -s 'https://apnews.com/article/trump-federal-employees-firings-a85d1aaf1088e050d39dcf7e3664bb9f' | \
+  strip-tags -t meta --minify
+</code></pre>
+<p>
+<p>Here’s
+<a href="https://gist.github.com/simonw/22902a75e2e73ca513231e1d8d0dac6e">the
+output from that command</a>.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/projects&quot;&gt;projects&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/html&quot;&gt;html&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Feb/28/strip-tags/#atom-everything"
+class="uri">https://simonwillison.net/2025/Feb/28/strip-tags/#atom-everything</a></p>
+<hr />
+<h2 id="quoting-alison-gopnik">Quoting Alison Gopnik</h2>
+<p>date: 2025-02-28, updated: 2025-02-28, from: Simon Willison’s
+Weblog</p>
+<blockquote cite="https://simons.berkeley.edu/news/stone-soup-ai">
+<p>
+For some time, I’ve argued that a common conception of AI is misguided.
+This is the idea that AI systems like large language and vision models
+are individual intelligent agents, analogous to human agents. Instead,
+I’ve argued that these models are “cultural technologies” like writing,
+print, pictures, libraries, internet search engines, and Wikipedia.
+Cultural technologies allow humans to access the information that other
+humans have created in an effective and wide-ranging way, and they play
+an important role in increasing human capacities.
+</p>
+</blockquote>
+<p class="cite">
+— <a href="https://simons.berkeley.edu/news/stone-soup-ai">Alison
+Gopnik</a>, in Stone Soup AI
+</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Feb/28/alison-gopnik/#atom-everything"
+class="uri">https://simonwillison.net/2025/Feb/28/alison-gopnik/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
+<p>What to know about highly contagious measles and how to protect
+yourself</p>
+<p><br></p>
+<p><a
+href="https://www.pbs.org/newshour/nation/what-to-know-about-highly-contagious-measles-and-how-to-protect-yourself"
+class="uri">https://www.pbs.org/newshour/nation/what-to-know-about-highly-contagious-measles-and-how-to-protect-yourself</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
+<p>IRS rejected request for addresses of people believed to be in U.S.
+illegally.</p>
+<p><br></p>
+<p><a
+href="https://www.washingtonpost.com/business/2025/02/28/immigration-enforcement-trump-administration-irs/"
+class="uri">https://www.washingtonpost.com/business/2025/02/28/immigration-enforcement-trump-administration-irs/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
+<p>Tears and shock in Ukraine and Europe after heated Zelensky-Trump
+meeting.</p>
+<p><br></p>
+<p><a href="https://wapo.st/3ETfWkH"
+class="uri">https://wapo.st/3ETfWkH</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-02-28, from: Robert’s feed at
+BlueSky)</p>
+<p>I guess this is to be expected now that the U.S. is effectively a
+client state of the Russian Federation.</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3ljbck2mbkc2h"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3ljbck2mbkc2h</a></p>
+<hr />
+<h2
+id="lenovo-slim-7i-aura-edition-14-inch-lunar-lake-laptop-now-available-for-960-and-up">Lenovo
+Slim 7i Aura Edition 14 inch Lunar Lake laptop now available for $960
+and up</h2>
+<p>date: 2025-02-28, from: Liliputing</p>
+<p>
+The Lenovo Slim 7i Aura Edition (14) is a thin and light laptop with an
+OLED display and an Intel Lunar Lake processor. First unveiled during
+CES in January as the Yoga Slim 7i Aura Edition, this 2.76 pound
+notebook is now available for purchase for $969 and up. That starting
+price is for an entry-level […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/lenovo-slim-7i-aura-edition-14-inch-lunar-lake-laptop-now-available-for-960-and-up/">Lenovo
+Slim 7i Aura Edition 14 inch Lunar Lake laptop now available for $960
+and up</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/lenovo-slim-7i-aura-edition-14-inch-lunar-lake-laptop-now-available-for-960-and-up/"
+class="uri">https://liliputing.com/lenovo-slim-7i-aura-edition-14-inch-lunar-lake-laptop-now-available-for-960-and-up/</a></p>
+<hr />
+<h2 id="mozilla-changes-firefox-terms-of-use">Mozilla Changes Firefox
+Terms of Use</h2>
+<p>date: 2025-02-28, from: Michael Tsai</p>
+<p>Asif Youssuff (Hacker News): On Wednesday, Mozilla introduced legal
+updates to users of Firefox, and something feels off. I read, and
+re-read the new Terms of Use and while much of it reads like standard
+boilerplate from any tech company, there’s a new section that is
+unexpected: When you upload or input information through Firefox,
+[…]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/02/28/mozilla-changes-firefox-terms-of-use/"
+class="uri">https://mjtsai.com/blog/2025/02/28/mozilla-changes-firefox-terms-of-use/</a></p>
+<hr />
+<h2 id="microsoft-shutting-down-skype">Microsoft Shutting Down
+Skype</h2>
+<p>date: 2025-02-28, from: Michael Tsai</p>
+<p>Tom Warren (9to5Mac, Hacker News, Slashdot): Microsoft is shutting
+down Skype in May and replacing it with the free version of Microsoft
+Teams for consumers. Existing Skype users will be able to log in to the
+Microsoft Teams app and have their message history, group chats, and
+contacts all automatically available without having to create […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/02/28/microsoft-shutting-down-skype/"
+class="uri">https://mjtsai.com/blog/2025/02/28/microsoft-shutting-down-skype/</a></p>
+<hr />
+<h2 id="ios-declared-age-range-api">iOS Declared Age Range API</h2>
+<p>date: 2025-02-28, from: Michael Tsai</p>
+<p>Sarah Perez: Apple on Thursday announced a range of new initiatives
+designed to help parents and developers create a safer experience for
+kids and teens using Apple devices. In addition to easier setup of child
+accounts, parents will now be able to share information about their
+kids’ ages, which can then be accessed by app […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/02/28/ios-declared-age-range-api/"
+class="uri">https://mjtsai.com/blog/2025/02/28/ios-declared-age-range-api/</a></p>
+<hr />
+<h2 id="lawsuit-over-apple-watch-carbon-offsets">Lawsuit Over Apple
+Watch Carbon Offsets</h2>
+<p>date: 2025-02-28, from: Michael Tsai</p>
+<p>Jonathan Stempel (MacRumors, 9to5Mac): Apple has been sued by
+consumers who said its claim that three versions of Apple Watches are
+“carbon neutral” and environmentally friendly is false and
+misleading.[…]Apple, also known for the iPhone, launched the watches in
+September 2023, saying they would be carbon neutral through a
+combination of lower emissions and purchases […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/02/28/lawsuit-over-apple-watch-carbon-offsets/"
+class="uri">https://mjtsai.com/blog/2025/02/28/lawsuit-over-apple-watch-carbon-offsets/</a></p>
+<hr />
+<h2 id="has-ai-become-sentient">Has AI Become Sentient?</h2>
+<p>date: 2025-02-28, from: Stephen Smith’s blog</p>
+<p>Introduction There has been a lot of talk lately about whether the
+current LLM based AIs have reached Artificial General Intelligence
+(AGI). This has led to a lot of discussion of the definition of
+intelligence. This article reviews where we are and where we still need
+to go. With discussions of machines becoming intelligent, there […]</p>
+<p><br></p>
+<p><a
+href="https://smist08.wordpress.com/2025/02/28/has-ai-become-sentient/"
+class="uri">https://smist08.wordpress.com/2025/02/28/has-ai-become-sentient/</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-02-28, from: Tomosino’s Mastodon feed)</p>
+<p>
+I wrote this with Lent in mind, but as sunset is happening I realize
+it’s topical for Ramadan as well. I wish all of you who celebrate these
+seasons a successful one that brings you closer to God.
+</p>
+<p>
+<a href="https://blog.tomasino.org/lenten-boycott/" target="_blank" rel="nofollow noopener" translate="no"><span
+class="invisible">https://</span><span
+class="ellipsis">blog.tomasino.org/lenten-boyco</span><span
+class="invisible">tt/</span></a>
+</p>
+<p>
+<a href="https://tilde.zone/tags/boycott" class="mention hashtag" rel="tag">#<span>boycott</span></a>
+<a href="https://tilde.zone/tags/ramadan" class="mention hashtag" rel="tag">#<span>ramadan</span></a>
+<a href="https://tilde.zone/tags/lent" class="mention hashtag" rel="tag">#<span>lent</span></a>
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114083061502917416"
+class="uri">https://tilde.zone/@tomasino/114083061502917416</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
+<p>Advice to schools on Trump's DEI crackdown: Do nothing — yet.</p>
+<p><br></p>
+<p><a
+href="https://www.berkeleyside.org/2025/02/28/trump-dei-crackdown-california-schools"
+class="uri">https://www.berkeleyside.org/2025/02/28/trump-dei-crackdown-california-schools</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
+<p>Podcasts can be pretty awful and don’t have to be.</p>
+<p><br></p>
+<p><a
+href="https://daveverse.wordpress.com/2025/02/28/podcasts-can-be-pretty-awful-and-dont-have-to-be/"
+class="uri">https://daveverse.wordpress.com/2025/02/28/podcasts-can-be-pretty-awful-and-dont-have-to-be/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-02-28, from: Feed for Alt USDS)</p>
+<p>A story we are familiar with… solid reporting happening here, thank
+you <span class="citation"
+data-cites="kateconger.com">@kateconger.com</span> and contributors at
+<span class="citation" data-cites="nytimes.com">@nytimes.com</span>!</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3ljazalctqc2d"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3ljazalctqc2d</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
+<p>Are You a Fired Federal Employee? Let Us Give You a Free
+Membership.</p>
+<p><br></p>
+<p><a
+href="https://talkingpointsmemo.com/edblog/are-you-a-fired-federal-employee-let-us-give-you-a-free-membership"
+class="uri">https://talkingpointsmemo.com/edblog/are-you-a-fired-federal-employee-let-us-give-you-a-free-membership</a></p>
+<hr />
+<h2
+id="structured-data-extraction-from-unstructured-content-using-llm-schemas">Structured
+data extraction from unstructured content using LLM schemas</h2>
+<p>date: 2025-02-28, updated: 2025-02-28, from: Simon Willison’s
+Weblog</p>
+<p>
+<a href="https://llm.datasette.io/en/stable/changelog.html#v0-23">LLM
+0.23</a> is out today, and the signature feature is support for
+<strong><a href="https://llm.datasette.io/en/stable/schemas.html">schemas</a></strong>
+- a new way of providing structured output from a model that matches a
+specification provided by the user. I’ve also upgraded both the
+<a href="https://github.com/simonw/llm-anthropic">llm-anthropic</a> and
+<a href="https://github.com/simonw/llm-gemini">llm-gemini</a> plugins to
+add support for schemas.
+</p>
+<p>
+TLDR: you can now do things like this:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm --schema <span class="pl-s"><span class="pl-pds">'</span>name,age int,short_bio<span class="pl-pds">'</span></span> <span class="pl-s"><span class="pl-pds">'</span>invent a cool dog<span class="pl-pds">'</span></span></pre>
+</div>
+<p>
+And get back:
+</p>
+<div class="highlight highlight-source-json">
+<pre>{
+  <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zylo<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"age"</span>: <span class="pl-c1">4</span>,
+  <span class="pl-ent">"short_bio"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zylo is a unique hybrid breed, a mix between a Siberian Husky and a Corgi. With striking blue eyes and a fluffy, colorful coat that changes shades with the seasons, Zylo embodies the spirit of winter and summer alike. Known for his playful personality and intelligence, Zylo can perform a variety of tricks and loves to fetch his favorite frisbee. Always ready for an adventure, he's just as happy hiking in the mountains as he is cuddling on the couch after a long day of play.<span class="pl-pds">"</span></span>
+}</pre>
+</div>
+<p>
+More details
+<a href="https://llm.datasette.io/en/stable/changelog.html#v0-23">in the
+release notes</a> and
+<a href="https://llm.datasette.io/en/stable/schemas.html#schemas-tutorial">LLM
+schemas tutorial</a>, which includes an example (extracting people from
+news articles) that’s even more useful than inventing dogs!
+</p>
+<ul>
+<li>
+<a href="https://simonwillison.net/2025/Feb/28/llm-schemas/#structured-data-extraction-is-a-killer-app-for-llms">Structured
+data extraction is a killer app for LLMs</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Feb/28/llm-schemas/#designing-this-feature-for-llm">Designing
+this feature for LLM</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Feb/28/llm-schemas/#reusing-schemas-and-creating-templates">Reusing
+schemas and creating templates</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Feb/28/llm-schemas/#doing-more-with-the-logged-structured-data">Doing
+more with the logged structured data</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Feb/28/llm-schemas/#using-schemas-from-llm-s-python-library">Using
+schemas from LLM’s Python library</a>
+</li>
+<li>
+<a href="https://simonwillison.net/2025/Feb/28/llm-schemas/#what-s-next-for-llm-schemas-">What’s
+next for LLM schemas?</a>
+</li>
+</ul>
+<h4 id="structured-data-extraction-is-a-killer-app-for-llms">
+Structured data extraction is a killer app for LLMs
+</h4>
+<p>
+I’ve suspected for a while that the single most commercially valuable
+application of LLMs is turning unstructured content into structured
+data. That’s the trick where you feed an LLM an article, or a PDF, or a
+screenshot and use it to turn that into JSON or CSV or some other
+structured format.
+</p>
+<p>
+It’s possible to achieve strong results on this with prompting alone:
+feed data into an LLM, give it an example of the output you would like
+and let it figure out the details.
+</p>
+<p>
+Many of the leading LLM providers now bake this in as a feature. OpenAI,
+Anthropic, Gemini and Mistral all offer variants of “structured output”
+as additional options through their API:
+</p>
+<ul>
+<li>
+OpenAI:
+<a href="https://platform.openai.com/docs/guides/structured-outputs">Structured
+Outputs</a>
+</li>
+<li>
+Gemini:
+<a href="https://ai.google.dev/gemini-api/docs/structured-output?lang=rest">Generate
+structured output with the Gemini API</a>
+</li>
+<li>
+Mistral:
+<a href="https://docs.mistral.ai/capabilities/structured-output/custom_structured_output/">Custom
+Structured Outputs</a>
+</li>
+<li>
+Anthropic’s
+<a href="https://docs.anthropic.com/en/docs/build-with-claude/tool-use/overview">tool
+use</a> can be used for this, as shown in their
+<a href="https://github.com/anthropics/anthropic-cookbook/blob/main/tool_use/extracting_structured_json.ipynb">Extracting
+Structured JSON using Claude and Tool Use</a> cookbook example.
+</li>
+</ul>
+<p>
+These mechanisms are all very similar: you pass a
+<a href="https://json-schema.org/">JSON schema</a> to the model defining
+the shape that you would like, they then use that schema to guide the
+output of the model.
+</p>
+<p>
+How reliable that is can vary! Some providers use tricks along the lines
+of <a href="https://github.com/1rgs/jsonformer">Jsonformer</a>,
+compiling the JSON schema into code that interacts with the model’s
+next-token generation at runtime, limiting it to only generate tokens
+that are valid in the context of the schema.
+</p>
+<p>
+Other providers YOLO it - they trust that their model is “good enough”
+that showing it the schema will produce the right results!
+</p>
+<p>
+In practice, this means that you need to be aware that sometimes this
+stuff will go wrong. As with anything LLM, 100% reliability is never
+guaranteed.
+</p>
+<p>
+From my experiments so far, and depending on the model that you chose,
+these mistakes are rare. If you’re using a top tier model it will almost
+certainly do the right thing.
+</p>
+<h4 id="designing-this-feature-for-llm">
+Designing this feature for LLM
+</h4>
+<p>
+I’ve wanted this feature for ages. I see it as an important step on the
+way to full tool usage, which is something I’m very excited to bring to
+the CLI tool and Python library.
+</p>
+<p>
+LLM is designed as an abstraction layer over different models. This
+makes building new features <em>much harder</em>, because I need to
+figure out a common denominator and then build an abstraction that
+captures as much value as possible while still being general enough to
+work across multiple models.
+</p>
+<p>
+Support for structured output across multiple vendors has matured now to
+the point that I’m ready to commit to a design.
+</p>
+<p>
+My first version of this feature worked exclusively with JSON schemas.
+An earlier version of the tutorial started with this example:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>curl https://www.nytimes.com/ <span class="pl-k">|</span> uvx strip-tags <span class="pl-k">|</span> \
+  llm --schema <span class="pl-s"><span class="pl-pds">'</span>{</span>
+<span class="pl-s">  "type": "object",</span>
+<span class="pl-s">  "properties": {</span>
+<span class="pl-s">    "items": {</span>
+<span class="pl-s">      "type": "array",</span>
+<span class="pl-s">      "items": {</span>
+<span class="pl-s">        "type": "object",</span>
+<span class="pl-s">        "properties": {</span>
+<span class="pl-s">          "headline": {</span>
+<span class="pl-s">            "type": "string"</span>
+<span class="pl-s">          },</span>
+<span class="pl-s">          "short_summary": {</span>
+<span class="pl-s">            "type": "string"</span>
+<span class="pl-s">          },</span>
+<span class="pl-s">          "key_points": {</span>
+<span class="pl-s">            "type": "array",</span>
+<span class="pl-s">            "items": {</span>
+<span class="pl-s">              "type": "string"</span>
+<span class="pl-s">            }</span>
+<span class="pl-s">          }</span>
+<span class="pl-s">        },</span>
+<span class="pl-s">        "required": ["headline", "short_summary", "key_points"]</span>
+<span class="pl-s">      }</span>
+<span class="pl-s">    }</span>
+<span class="pl-s">  },</span>
+<span class="pl-s">  "required": ["items"]</span>
+<span class="pl-s">}<span class="pl-pds">'</span></span> <span class="pl-k">|</span> jq</pre>
+</div>
+<p>
+Here we’re feeding a full JSON schema document to the new <code>llm
+–schema</code> option, then piping in the homepage of the New York Times
+(after running it through
+<a href="https://github.com/simonw/strip-tags">strip-tags</a>) and
+asking for <code>headline</code>, <code>short_summary</code> and
+<code>key_points</code> for multiple items on the page.
+</p>
+<p>
+This example still works with the finished feature - you can see
+<a href="https://gist.github.com/simonw/372d11e2729a9745654740ff3f5669ab">example
+JSON output here</a> - but constructing those long-form schemas by hand
+was a big pain.
+</p>
+<p>
+So… I invented my own shortcut syntax.
+</p>
+<p>
+That earlier example is a simple illustration:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm --schema <span class="pl-s"><span class="pl-pds">'</span>name,age int,short_bio<span class="pl-pds">'</span></span> <span class="pl-s"><span class="pl-pds">'</span>invent a cool dog<span class="pl-pds">'</span></span></pre>
+</div>
+<p>
+Here the schema is a comma-separated list of field names, with an
+optional space-separated type.
+</p>
+<p>
+The full concise schema syntax
+<a href="https://llm.datasette.io/en/stable/schemas.html#concise-llm-schema-syntax">is
+described here</a>. There’s a more complex example
+<a href="https://llm.datasette.io/en/latest/schemas.html#extracting-people-from-a-news-articles">in
+the tutorial</a>, which uses the newline-delimited form to extract
+information about people who are mentioned in a news article:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>curl <span class="pl-s"><span class="pl-pds">'</span>https://apnews.com/article/trump-federal-employees-firings-a85d1aaf1088e050d39dcf7e3664bb9f<span class="pl-pds">'</span></span> <span class="pl-k">|</span> \
+  uvx strip-tags <span class="pl-k">|</span> \
+  llm --schema-multi <span class="pl-s"><span class="pl-pds">"</span></span>
+<span class="pl-s">name: the person's name</span>
+<span class="pl-s">organization: who they represent</span>
+<span class="pl-s">role: their job title or role</span>
+<span class="pl-s">learned: what we learned about them from this story</span>
+<span class="pl-s">article_headline: the headline of the story</span>
+<span class="pl-s">article_date: the publication date in YYYY-MM-DD</span>
+<span class="pl-s"><span class="pl-pds">"</span></span> --system <span class="pl-s"><span class="pl-pds">'</span>extract people mentioned in this article<span class="pl-pds">'</span></span></pre>
+</div>
+<p>
+The <code>–schema-multi</code> option here tells LLM to take that schema
+for a single object and upgrade it to an array of those objects
+(actually an object with a single <code>“items”</code> property that’s
+an array of objects), which is a quick way to request that the same
+schema be returned multiple times against a single input.
+</p>
+<h4 id="reusing-schemas-and-creating-templates">
+Reusing schemas and creating templates
+</h4>
+<p>
+My original plan with schemas was to provide a separate <code>llm
+extract</code> command for running these kinds of operations. I ended up
+going in a different direction - I realized that adding
+<code>–schema</code> to the default <code>llm prompt</code> command
+would make it interoperable with other existing features (like
+<a href="https://llm.datasette.io/en/stable/usage.html#attachments">attachments</a>
+for feeding in images and PDFs).
+</p>
+<p>
+The most valuable way to apply schemas is across many different prompts,
+in order to gather the same structure of information from many different
+sources.
+</p>
+<p>
+I put a bunch of thought into the <code>–schema</code> option. It takes
+a variety of different values - quoting
+<a href="https://llm.datasette.io/en/latest/schemas.html#ways-to-specify-a-schema">the
+documentation</a>:
+</p>
+<blockquote>
+<p>
+This option can take multiple forms:
+</p>
+<ul>
+<li>
+A string providing a JSON schema: <code>–schema ‘{“type”: “object”,
+…}’</code>
+</li>
+<li>
+A
+<a href="https://llm.datasette.io/en/stable/schemas.html#schemas-dsl">condensed
+schema definition</a>: <code>–schema ‘name,age int’</code>
+</li>
+<li>
+The name or path of a file on disk containing a JSON schema:
+<code>–schema dogs.schema.json</code>
+</li>
+<li>
+The hexadecimal ID of a previously logged schema: <code>–schema
+520f7aabb121afd14d0c6c237b39ba2d</code> - these IDs can be found using
+the <code>llm schemas</code> command.
+</li>
+<li>
+A schema that has been
+<a href="https://llm.datasette.io/en/latest/templates.html#prompt-templates-save">saved
+in a template</a>: <code>–schema t:name-of-template</code>
+</li>
+</ul>
+</blockquote>
+<p>
+The
+<a href="https://llm.datasette.io/en/latest/schemas.html#extracting-people-from-a-news-articles">tutorial</a>
+demonstrates saving a schema by using it once and then obtaining its ID
+through the new <code>llm schemas</code> command, then saving it to a
+<a href="https://llm.datasette.io/en/stable/templates.html">template</a>
+(along with the system prompt) like this:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm --schema 3b7702e71da3dd791d9e17b76c88730e \
+  --system <span class="pl-s"><span class="pl-pds">'</span>extract people mentioned in this article<span class="pl-pds">'</span></span> \
+  --save people</pre>
+</div>
+<p>
+And now we can feed in new articles using the <code>llm -t people</code>
+shortcut to apply that newly saved template:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>curl https://www.theguardian.com/commentisfree/2025/feb/27/billy-mcfarland-new-fyre-festival-fantasist <span class="pl-k">|</span> \
+  strip-tags <span class="pl-k">|</span> llm -t people</pre>
+</div>
+<h4 id="doing-more-with-the-logged-structured-data">
+Doing more with the logged structured data
+</h4>
+<p>
+Having run a few prompts that use the same schema, an obvious next step
+is to do something with the data that has been collected.
+</p>
+<p>
+I ended up implementing this on top of the existing
+<a href="https://llm.datasette.io/en/stable/logging.html">llm logs</a>
+mechanism.
+</p>
+<p>
+LLM already defaults to logging every prompt and response it makes to a
+SQLite database - mine contains over 4,747 of these records now,
+according to this query:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>sqlite3 <span class="pl-s"><span class="pl-pds">"</span><span class="pl-s"><span class="pl-pds">$(</span>llm logs path<span class="pl-pds">)</span></span><span class="pl-pds">"</span></span> <span class="pl-s"><span class="pl-pds">'</span>select count(*) from responses<span class="pl-pds">'</span></span></pre>
+</div>
+<p>
+With schemas, an increasing portion of those are valid JSON.
+</p>
+<p>
+Since LLM records the schema that was used for each response - using the
+schema ID, which is derived from a content hash of the expanded JSON
+schema - it’s now possible to ask LLM for all responses that used a
+particular schema:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm logs --schema 3b7702e71da3dd791d9e17b76c88730e --short</pre>
+</div>
+<p>
+I got back:
+</p>
+<div class="highlight highlight-source-yaml">
+<pre>- <span class="pl-ent">model</span>: <span class="pl-s">gpt-4o-mini</span>
+  <span class="pl-ent">datetime</span>: <span class="pl-s"><span class="pl-pds">'</span>2025-02-28T07:37:18<span class="pl-pds">'</span></span>
+  <span class="pl-ent">conversation</span>: <span class="pl-s">01jn5qt397aaxskf1vjp6zxw2a</span>
+  <span class="pl-ent">system</span>: <span class="pl-s">extract people mentioned in this article</span>
+  <span class="pl-ent">prompt</span>: <span class="pl-s">Menu AP Logo Menu World U.S. Politics Sports Entertainment Business Science</span>
+    <span class="pl-s">Fact Check Oddities Be Well Newsletters N...</span>
+- <span class="pl-ent">model</span>: <span class="pl-s">gpt-4o-mini</span>
+  <span class="pl-ent">datetime</span>: <span class="pl-s"><span class="pl-pds">'</span>2025-02-28T07:38:58<span class="pl-pds">'</span></span>
+  <span class="pl-ent">conversation</span>: <span class="pl-s">01jn5qx4q5he7yq803rnexp28p</span>
+  <span class="pl-ent">system</span>: <span class="pl-s">extract people mentioned in this article</span>
+  <span class="pl-ent">prompt</span>: <span class="pl-s">Skip to main contentSkip to navigationSkip to navigationPrint subscriptionsNewsletters</span>
+    <span class="pl-s">Sign inUSUS editionUK editionA...</span>
+- <span class="pl-ent">model</span>: <span class="pl-s">gpt-4o</span>
+  <span class="pl-ent">datetime</span>: <span class="pl-s"><span class="pl-pds">'</span>2025-02-28T07:39:07<span class="pl-pds">'</span></span>
+  <span class="pl-ent">conversation</span>: <span class="pl-s">01jn5qxh20tksb85tf3bx2m3bd</span>
+  <span class="pl-ent">system</span>: <span class="pl-s">extract people mentioned in this article</span>
+  <span class="pl-ent">attachments</span>:
+  - <span class="pl-ent">type</span>: <span class="pl-s">image/jpeg</span>
+    <span class="pl-ent">url</span>: <span class="pl-s">https://static.simonwillison.net/static/2025/onion-zuck.jpg</span></pre>
+</div>
+<p>
+As you can see, I’ve run that example schema three times (while
+constructing the tutorial) using GPT-4o mini - twice against text
+content from <code>curl … | strip-tags</code> and once against
+<a href="https://static.simonwillison.net/static/2025/onion-zuck.jpg">a
+screenshot JPEG</a> to demonstrate attachment support.
+</p>
+<p>
+Extracting gathered JSON from the logs is clearly a useful next step… so
+I added several options to <code>llm logs</code> to support that
+use-case.
+</p>
+<p>
+The first is <code>–data</code> - adding that will cause <code>LLM
+logs</code> to output just the data that was gathered using a schema.
+Mix that with <code>-c</code> to see the JSON from the most recent
+response:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm logs -c --data</pre>
+</div>
+<p>
+Outputs:
+</p>
+<div class="highlight highlight-source-json">
+<pre>{<span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zap<span class="pl-pds">"</span></span>, <span class="pl-ent">"age"</span>: <span class="pl-c1">5</span>, <span class="pl-ent">"short_bio"</span>: ...</pre>
+</div>
+<p>
+Combining that with the <code>–schema</code> option is where things get
+really interesting. You can specify a schema using any of the mechanisms
+described earlier, which means you can see ALL of the data gathered
+using that schema by combining <code>–data</code> with <code>–schema
+X</code> (and <code>-n 0</code> for everything).
+</p>
+<p>
+Here are all of the dogs I’ve invented:
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm logs --schema <span class="pl-s"><span class="pl-pds">'</span>name,age int,short_bio<span class="pl-pds">'</span></span> --data -n 0</pre>
+</div>
+<p>
+Output (here truncated):
+</p>
+<div class="highlight highlight-source-json">
+<pre>{<span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zap<span class="pl-pds">"</span></span>, <span class="pl-ent">"age"</span>: <span class="pl-c1">5</span>, <span class="pl-ent">"short_bio"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zap is a futuristic ...<span class="pl-pds">"</span></span>}
+{<span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zephyr<span class="pl-pds">"</span></span>, <span class="pl-ent">"age"</span>: <span class="pl-c1">3</span>, <span class="pl-ent">"short_bio"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zephyr is an adventurous...<span class="pl-pds">"</span></span>}
+{<span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zylo<span class="pl-pds">"</span></span>, <span class="pl-ent">"age"</span>: <span class="pl-c1">4</span>, <span class="pl-ent">"short_bio"</span>: <span class="pl-s"><span class="pl-pds">"</span>Zylo is a unique ...<span class="pl-pds">"</span></span>}</pre>
+</div>
+<p>
+Some schemas gather multiple items, producing output that looks like
+this (from the tutorial):
+</p>
+<pre><code>{"items": [{"name": "Mark Zuckerberg", "organization": "...
+{"items": [{"name": "Billy McFarland", "organization": "...
+</code></pre>
+<p>
+We can get back the individual objects by adding <code>–data-key
+items</code>. Here I’m also using the <code>–schema t:people</code>
+shortcut to specify the schema that was saved to the <code>people</code>
+template earlier on.
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm logs --schema t:people --data-key items</pre>
+</div>
+<p>
+Output:
+</p>
+<pre><code>{"name": "Katy Perry", "organization": ...
+{"name": "Gayle King", "organization": ...
+{"name": "Lauren Sanchez", "organization": ...
+</code></pre>
+<p>
+This feature defaults to outputting newline-delimited JSON, but you can
+add the <code>–data-array</code> flag to get back a JSON array of
+objects instead.
+</p>
+<p>
+… which means you can pipe it into
+<a href="https://sqlite-utils.datasette.io/en/stable/cli.html#inserting-json-data">sqlite-utils
+insert</a> to create a SQLite database!
+</p>
+<div class="highlight highlight-source-shell">
+<pre>llm logs --schema t:people --data-key items --data-array <span class="pl-k">|</span> \
+  sqlite-utils insert data.db people -</pre>
+</div>
+<p>
+Add all of this together and we can construct a schema, run it against a
+bunch of sources and dump the resulting structured data into SQLite
+where we can explore it using SQL queries (and
+<a href="https://datasette.io/">Datasette</a>). It’s a really powerful
+combination.
+</p>
+<h4 id="using-schemas-from-llm-s-python-library">
+Using schemas from LLM’s Python library
+</h4>
+<p>
+The most popular way to work with schemas in Python these days is with
+<a href="https://docs.pydantic.dev/">Pydantic</a>, to the point that
+many of the official API libraries for models directly incorporate
+Pydantic for this purpose.
+</p>
+<p>
+LLM depended on Pydantic already, and for this project I finally dropped
+my dual support for Pydantic v1 and v2 and
+<a href="https://github.com/simonw/llm/pull/775">committed to v2
+only</a>.
+</p>
+<p>
+A key reason Pydantic for this is so popular is that it’s trivial to use
+it to build a JSON schema document:
+</p>
+<pre><span class="pl-k">import</span> <span class="pl-s1">pydantic</span>, <span class="pl-s1">json</span>
+
+<span class="pl-k">class</span> <span class="pl-v">Dog</span>(<span class="pl-s1">pydantic</span>.<span class="pl-c1">BaseModel</span>):
+    <span class="pl-s1">name</span>: <span class="pl-smi">str</span>
+    <span class="pl-s1">age</span>: <span class="pl-smi">int</span>
+    <span class="pl-s1">bio</span>: <span class="pl-smi">str</span>
+
+<span class="pl-s1">schema</span> <span class="pl-c1">=</span> <span class="pl-v">Dog</span>.<span class="pl-c1">model_json_schema</span>()
+<span class="pl-en">print</span>(<span class="pl-s1">json</span>.<span class="pl-c1">dumps</span>(<span class="pl-s1">schema</span>, <span class="pl-s1">indent</span><span class="pl-c1">=</span><span class="pl-c1">2</span>))</pre>
+<p>
+Outputs:
+</p>
+<div class="highlight highlight-source-json">
+<pre>{
+  <span class="pl-ent">"properties"</span>: {
+    <span class="pl-ent">"name"</span>: {
+      <span class="pl-ent">"title"</span>: <span class="pl-s"><span class="pl-pds">"</span>Name<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>string<span class="pl-pds">"</span></span>
+    },
+    <span class="pl-ent">"age"</span>: {
+      <span class="pl-ent">"title"</span>: <span class="pl-s"><span class="pl-pds">"</span>Age<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>integer<span class="pl-pds">"</span></span>
+    },
+    <span class="pl-ent">"bio"</span>: {
+      <span class="pl-ent">"title"</span>: <span class="pl-s"><span class="pl-pds">"</span>Bio<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>string<span class="pl-pds">"</span></span>
+    }
+  },
+  <span class="pl-ent">"required"</span>: [
+    <span class="pl-s"><span class="pl-pds">"</span>name<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>age<span class="pl-pds">"</span></span>,
+    <span class="pl-s"><span class="pl-pds">"</span>bio<span class="pl-pds">"</span></span>
+  ],
+  <span class="pl-ent">"title"</span>: <span class="pl-s"><span class="pl-pds">"</span>Dog<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>object<span class="pl-pds">"</span></span>
+}</pre>
+</div>
+<p>
+LLM’s Python library doesn’t require you to use Pydantic, but it
+supports passing either a Pydantic <code>BaseModel</code> subclass or a
+full JSON schema to the new <code>model.prompt(schema=)</code>
+parameter. Here’s
+<a href="https://llm.datasette.io/en/latest/python-api.html#schemas">the
+usage example</a> from the documentation:
+</p>
+<pre><span class="pl-k">import</span> <span class="pl-s1">llm</span>, <span class="pl-s1">json</span>
+<span class="pl-k">from</span> <span class="pl-s1">pydantic</span> <span class="pl-k">import</span> <span class="pl-v">BaseModel</span>
+
+<span class="pl-k">class</span> <span class="pl-v">Dog</span>(<span class="pl-v">BaseModel</span>):
+    <span class="pl-s1">name</span>: <span class="pl-smi">str</span>
+    <span class="pl-s1">age</span>: <span class="pl-smi">int</span>
+
+<span class="pl-s1">model</span> <span class="pl-c1">=</span> <span class="pl-s1">llm</span>.<span class="pl-c1">get_model</span>(<span class="pl-s">"gpt-4o-mini"</span>)
+<span class="pl-s1">response</span> <span class="pl-c1">=</span> <span class="pl-s1">model</span>.<span class="pl-c1">prompt</span>(<span class="pl-s">"Describe a nice dog"</span>, <span class="pl-s1">schema</span><span class="pl-c1">=</span><span class="pl-v">Dog</span>)
+<span class="pl-s1">dog</span> <span class="pl-c1">=</span> <span class="pl-s1">json</span>.<span class="pl-c1">loads</span>(<span class="pl-s1">response</span>.<span class="pl-c1">text</span>())
+<span class="pl-en">print</span>(<span class="pl-s1">dog</span>)
+<span class="pl-c"># {"name":"Buddy","age":3}</span></pre>
+<h4 id="what-s-next-for-llm-schemas-">
+What’s next for LLM schemas?
+</h4>
+<p>
+So far I’ve implemented schema support for models from OpenAI, Anthropic
+and Gemini. The
+<a href="https://llm.datasette.io/en/stable/plugins/advanced-model-plugins.html#supporting-schemas">plugin
+author documentation</a> includes details on how to add this to further
+plugins - I’d love to see one of the local model plugins implement this
+pattern as well.
+</p>
+<p>
+I’m presenting a workshop at the
+<a href="https://www.ire.org/training/conferences/nicar-2025/">NICAR
+2025</a> data journalism conference next week about
+<a href="https://github.com/simonw/nicar-2025-scraping/">Cutting-edge
+web scraping techniques</a>. LLM schemas is a great example of NDD -
+NICAR-Driven Development - where I’m churning out features I need for
+that conference (see also shot-scraper’s new
+<a href="https://shot-scraper.datasette.io/en/stable/har.html">HAR
+support</a>).
+</p>
+<p>
+I expect the workshop will be a great opportunity to further refine the
+design and implementation of this feature!
+</p>
+<p>
+I’m also going to be using this new feature to add multiple model
+support to my
+<a href="https://www.datasette.cloud/blog/2024/datasette-extract/">datasette-extract
+plugin</a>, which provides a web UI for structured data extraction that
+writes the resulting records directly to a SQLite database table.
+</p>
+<pre><code>    &lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/projects&quot;&gt;projects&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/annotated-release-notes&quot;&gt;annotated-release-notes&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/structured-extraction&quot;&gt;structured-extraction&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Feb/28/llm-schemas/#atom-everything"
+class="uri">https://simonwillison.net/2025/Feb/28/llm-schemas/#atom-everything</a></p>
+<hr />
+<h2
+id="microsoft-is-pulling-the-plug-on-skype-in-may-encourages-users-to-migrate-to-teams">Microsoft
+is pulling the plug on Skype in May, encourages users to migrate to
+Teams</h2>
+<p>date: 2025-02-28, from: Liliputing</p>
+<p>
+Long before there was Zoom, FaceTime, Teams, and whatever Google’s
+decided to call its voice and video calling service this week, there was
+Skype. When it first launched in 2003 as a way to make voice calls over
+the internet using peer-to-peer technology, Skype evolved into a voice
+and video calling system used by millions. […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/microsoft-is-pulling-the-plug-on-skype-in-may-encourages-users-to-migrate-to-teams/">Microsoft
+is pulling the plug on Skype in May, encourages users to migrate to
+Teams</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/microsoft-is-pulling-the-plug-on-skype-in-may-encourages-users-to-migrate-to-teams/"
+class="uri">https://liliputing.com/microsoft-is-pulling-the-plug-on-skype-in-may-encourages-users-to-migrate-to-teams/</a></p>
+<hr />
+<h2 id="behind-the-blog-stunt-blogging-and-the-fuck-it-paradigm">Behind
+the Blog: Stunt Blogging and the ‘Fuck It’ Paradigm</h2>
+<p>date: 2025-02-28, from: 404 Media Group</p>
+<p>This week, we discuss stunt blogging, Signal pains, and murderous
+Reels.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/behind-the-blog-stunt-blogging-and-the-fuck-it-paradigm/"
+class="uri">https://www.404media.co/behind-the-blog-stunt-blogging-and-the-fuck-it-paradigm/</a></p>
+<hr />
+<h2
+id="ayaneo-flip-clamshell-handheld-gaming-pc-production-paused-before-all-orders-had-shipped-updated">AYANEO
+Flip clamshell handheld gaming PC production paused before all orders
+had shipped (Updated)</h2>
+<p>date: 2025-02-28, from: Liliputing</p>
+<p>
+The The AYANEO Flip is a handheld gaming PC with a clamshell design
+where the lid flips upward to reveal a game controller and either a
+QWERTY keyboard or a small secondary screen, depending on the model.
+AYANEO launched a crowdfunding campaign for the Flip in January, 2024
+and began shipping some units to backers […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped/">AYANEO
+Flip clamshell handheld gaming PC production paused before all orders
+had shipped (Updated)</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped/"
+class="uri">https://liliputing.com/ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped/</a></p>
+<hr />
+<h2 id="immigration-policy-consequences">Immigration Policy
+Consequences</h2>
+<p>date: 2025-02-28, from: Guy Kawasaki blog</p>
+<p>Francisco I. Pedraza, Arizona State University, Jason L. Morín,
+California State University, Northridge, Loren Collingwood, University
+of New Mexico</p>
+<p><br></p>
+<p><a
+href="https://guykawasaki.substack.com/p/immigration-policy-consequences"
+class="uri">https://guykawasaki.substack.com/p/immigration-policy-consequences</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
+<p>Amazon Alexa Plus Event 2025: live updates and product
+announcements.</p>
+<p><br></p>
+<p><a
+href="https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news"
+class="uri">https://www.theverge.com/news/618262/amazon-alexa-event-2025-ai-echo-products-news</a></p>
+<hr />
+<h2 id="marrying-up-and-marrying-down">Marrying Up and Marrying
+Down</h2>
+<p>date: 2025-02-28, from: Prof. Scott Galloway, No Mercy/No Malace
+blog</p>
+<p>
+The most important decision we make is who we partner with, who we
+marry. However, for many, marriage isn’t an essential life choice … it’s
+a luxury item. I asked my friend, the social scientist Richard Reeves,
+to pen a post on the subject.  A dramatic reversal has taken place on
+college campuses. Once male-dominated, […]
+</p>
+<p>
+The post
+<a href="https://www.profgalloway.com/marrying-up-and-marrying-down/">Marrying
+Up and Marrying Down</a> appeared first on
+<a href="https://www.profgalloway.com">No Mercy / No Malice</a>.
+</p>
+<p><br></p>
+<p><a href="https://www.profgalloway.com/marrying-up-and-marrying-down/"
+class="uri">https://www.profgalloway.com/marrying-up-and-marrying-down/</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-02-28, from: Tomosino’s Mastodon feed)</p>
+<p>
+Installed LibreWolf today. It’s perfectly cromulent. Drop-in FF
+replacement.
+</p>
+<p>
+Do better Mozilla
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114082263223801459"
+class="uri">https://tilde.zone/@tomasino/114082263223801459</a></p>
+<hr />
+<h2 id="de-googled-pixel-tablet-with-grapheneos-a-review">De-Googled
+Pixel Tablet with GrapheneOS: A Review</h2>
+<p>date: 2025-02-28, from: mrusme blog</p>
+<p>Having gotten rid of my sole multimedia editing machine – a 2018
+MacBook Pro – and tried but failed to implement a workflow on my <a
+href="/computer/">computer</a>, I set out and tried a different approach
+with the Google Pixel Tablet. Instead of using Google’s Android,
+however, I’m running GrapheneOS. This is a brief review of my experience
+with the De-Googled Pixel Tablet.</p>
+<p><br></p>
+<p><a
+href="https://xn--gckvb8fzb.com/de-googled-pixel-tablet-with-grapheneos-a-review/"
+class="uri">https://xn--gckvb8fzb.com/de-googled-pixel-tablet-with-grapheneos-a-review/</a></p>
+<hr />
+<h2 id="the-digital-packrat-manifesto">The Digital Packrat
+Manifesto</h2>
+<p>date: 2025-02-28, from: 404 Media Group</p>
+<p>DRM and big tech’s war on ownership has led me to make my own media
+libraries, and you should too.</p>
+<p><br></p>
+<p><a href="https://www.404media.co/the-digital-packrat-manifesto/"
+class="uri">https://www.404media.co/the-digital-packrat-manifesto/</a></p>
 <hr />
 <p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
 linkblog</strong> (date: 2025-02-28, from: Dave Winer’s linkblog)</p>
@@ -282,12 +1273,17 @@ in ways that are trivial to point to.
 Andrej is also running a fun
 <a href="https://twitter.com/karpathy/status/1895213023238987854">vibes-based
 polling evaluation</a> comparing output from GPT-4.5 and GPT-4o.
+<strong>Update</strong>
+<a href="https://twitter.com/karpathy/status/1895337579589079434">GPT-4o
+won 4/5 rounds</a>!
 </p>
 <p>
 There’s an
 <a href="https://news.ycombinator.com/item?id=43197872">extensive
 thread</a> about GPT-4.5 on Hacker News. When it hit 324 comments I ran
-a summary of it using GPT-4.5 itself with <a href="">this script</a>:
+a summary of it using GPT-4.5 itself with
+<a href="https://til.simonwillison.net/llms/claude-hacker-news-themes">this
+script</a>:
 </p>
 <div class="highlight highlight-source-shell">
 <pre>hn-summary.sh 43197872 -m gpt-4.5-preview</pre>
@@ -344,12 +1340,12 @@ class="uri">https://mjtsai.com/blog/2025/02/27/xcode-spell-checking/</a></p>
 <hr />
 <h2 id="nroottag">nRootTag</h2>
 <p>date: 2025-02-27, from: Michael Tsai</p>
-<p>Nathan Kahl (post, Hacker News): George Mason University researchers
-recently uncovered a way for hackers to track the location of nearly any
-computer or mobile device. Named “nRootTag” by the team, the attack uses
-a device’s Bluetooth address combined with Apple’s Find My network to
-essentially turn target devices into unwitting homing beacons.“It’s like
-transforming […]</p>
+<p>Nathan Kahl (post, Hacker News, MacRumors): George Mason University
+researchers recently uncovered a way for hackers to track the location
+of nearly any computer or mobile device. Named “nRootTag” by the team,
+the attack uses a device’s Bluetooth address combined with Apple’s Find
+My network to essentially turn target devices into unwitting homing
+beacons.“It’s like […]</p>
 <p><br></p>
 <p><a href="https://mjtsai.com/blog/2025/02/27/nroottag/"
 class="uri">https://mjtsai.com/blog/2025/02/27/nroottag/</a></p>
@@ -899,30 +1895,6 @@ BlueSky)</p>
 <p><a
 href="https://bsky.app/profile/rsdoiel.bsky.social/post/3lj4abb7vfk2o"
 class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3lj4abb7vfk2o</a></p>
-<hr />
-<h2
-id="ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped">AYANEO
-Flip clamshell handheld gaming PC discontinued before all orders had
-shipped</h2>
-<p>date: 2025-02-26, from: Liliputing</p>
-<p>
-The The AYANEO Flip is a handheld gaming PC with a clamshell design
-where the lid flips upward to reveal a game controller and either a
-QWERTY keyboard or a small secondary screen, depending on the model.
-AYANEO launched a crowdfunding campaign for the Flip in January, 2024
-and began shipping some units to backers […]
-</p>
-<p>
-The post
-<a href="https://liliputing.com/ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped/">AYANEO
-Flip clamshell handheld gaming PC discontinued before all orders had
-shipped</a> appeared first on
-<a href="https://liliputing.com">Liliputing</a>.
-</p>
-<p><br></p>
-<p><a
-href="https://liliputing.com/ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped/"
-class="uri">https://liliputing.com/ayaneo-flip-clamshell-handheld-gaming-pc-discontinued-before-all-orders-had-shipped/</a></p>
 <hr />
 <p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
 linkblog</strong> (date: 2025-02-26, from: Dave Winer’s linkblog)</p>
@@ -3724,6 +4696,208 @@ United States was founded on speaking up against tyranny</h2>
 <p><a
 href="https://garymarcus.substack.com/p/the-united-states-was-founded-on"
 class="uri">https://garymarcus.substack.com/p/the-united-states-was-founded-on</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-02-22, from: Feed for Alt USDS)</p>
+<p>👂We’re hearing from Feds who are receiving the “what did you do last
+week” email from an unidentified “HR” account.</p>
+<p>To be clear, Feds will spend time (ehem, money):</p>
+<p>📝 Writing and sending the email 🤖 Download and then upload ~2M
+emails to an LLM</p>
+<p>…efficient use of tax dollars indeed 🤔💸</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3lisfhdoc5s2j"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3lisfhdoc5s2j</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>Why "move fast and break things" doesn't work for government.</p>
+<p><br></p>
+<p><a
+href="https://www.wethebuilders.org/posts/move-fast-break-things-wont-work-here"
+class="uri">https://www.wethebuilders.org/posts/move-fast-break-things-wont-work-here</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-02-22, from: Feed for Alt USDS)</p>
+<p>ICYMI: <span class="citation"
+data-cites="theverge.com">@theverge.com</span> article yesterday! Peep
+the piece and our website for more info ++ watch this space. 👀💥</p>
+<p>📰https://theverge.com/news/617014/federal-workers-we-the-builders-website-doge</p>
+<p>🔗https://wethebuilders.org</p>
+<p>#SaveOurServices #DOGE #BuildTheResistance #FedWorkersUnite
+#FedWorkers #linkinbio</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3lirul4qcw22b"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3lirul4qcw22b</a></p>
+<hr />
+<h2 id="new-blog-server">New Blog Server</h2>
+<p>date: 2025-02-22, from: Michael Tsai</p>
+<p>My apologies for this site being slow and dropping connections over
+past few days. It’s been moved to a new server and should be much faster
+now. Please let me know if you continue to see any issues.</p>
+<p><br></p>
+<p><a href="https://mjtsai.com/blog/2025/02/22/new-blog-server/"
+class="uri">https://mjtsai.com/blog/2025/02/22/new-blog-server/</a></p>
+<hr />
+<h2 id="ural-notes-part-4-flux-and-foil">Ural Notes Part 4: Flux and
+Foil</h2>
+<p>date: 2025-02-22, updated: 2025-02-22, from: Russell Graves, Syonyk’s
+Project Blog</p>
+<p><br></p>
+<p><a
+href="https://www.sevarg.net/2025/02/22/ural-notes-part-4-flux-and-foil/"
+class="uri">https://www.sevarg.net/2025/02/22/ural-notes-part-4-flux-and-foil/</a></p>
+<hr />
+<h2 id="scientists-discover-ancient-farms-in-the-deep-sea">Scientists
+Discover Ancient Farms in the Deep Sea</h2>
+<p>date: 2025-02-22, from: 404 Media Group</p>
+<p>The “farmers” are invertebrates and the “crops” are microbes and all
+of it is dead.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/scientists-discover-ancient-farms-in-the-deep-sea/"
+class="uri">https://www.404media.co/scientists-discover-ancient-farms-in-the-deep-sea/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>Here's a good story for one of fierce courageous reporters at the NY
+Times. Who should be more scared of what's coming? Blacks or Jews?</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/02/21/131712.html"
+class="uri">http://scripting.com/2025/02/21/131712.html</a></p>
+<hr />
+<h2 id="a-conversation-with-jim-chanos">A Conversation with Jim
+Chanos</h2>
+<p>date: 2025-02-22, from: Paul Krugman</p>
+<p>It’s the golden age of fraud, and other observations</p>
+<p><br></p>
+<p><a
+href="https://paulkrugman.substack.com/p/a-conversation-with-jim-chanos"
+class="uri">https://paulkrugman.substack.com/p/a-conversation-with-jim-chanos</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>Donald Trump was recruited by KGB with codename 'Krasnov', claims
+ex-Soviet spy.</p>
+<p><br></p>
+<p><a
+href="https://uk.news.yahoo.com/donald-trump-recruited-kgb-codename-180759277.html"
+class="uri">https://uk.news.yahoo.com/donald-trump-recruited-kgb-codename-180759277.html</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>2023: Watchdog calls for House committee to uninvite Robert F.
+Kennedy Jr. after his comments are blasted as antisemitic.</p>
+<p><br></p>
+<p><a
+href="https://www.pbs.org/newshour/politics/watchdog-calls-for-house-committee-to-uninvite-rfk-jr-after-his-comments-are-blasted-as-antisemitic"
+class="uri">https://www.pbs.org/newshour/politics/watchdog-calls-for-house-committee-to-uninvite-rfk-jr-after-his-comments-are-blasted-as-antisemitic</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>“We want modern social media and public conversation online to work
+more like the early days of the web, where anyone could put up a blog or
+use RSS to subscribe to several blogs.” (Honestly this is BS. If you
+want to be like the web, then BE the web.)</p>
+<p><br></p>
+<p><a href="https://johnjohnston.info/blog/modern-social-media/"
+class="uri">https://johnjohnston.info/blog/modern-social-media/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>The builders website has a blog, unfortunately no RSS feed linked to
+from its metadata. To help spread their advice and discoveries we need a
+feed.</p>
+<p><br></p>
+<p><a href="https://www.wethebuilders.org/"
+class="uri">https://www.wethebuilders.org/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>Federal workers launch a new site to share inside information about
+DOGE.</p>
+<p><br></p>
+<p><a
+href="https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge"
+class="uri">https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge</a></p>
+<hr />
+<h2 id="more-coffee-pot-nostalgia">More coffee-pot nostalgia</h2>
+<p>date: 2025-02-22, from: Status-Q blog</p>
+<p>For those who read this blog and haven’t yet exhausted their
+enthusiasm for Trojan Room Coffee Pot nostalgia, Peter Leigh has just
+produced what is perhaps the best video about it yet, on his ‘Nostalgia
+Nerd’ YouTube channel. (Direct Youtube link, for those reading by email)
+You’ll have to get busy skipping YouTube ads, but
+<a class="more-link excerpt-link" href="https://statusq.org/archives/2025/02/22/13072/">Continue
+Reading<span class="glyphicon glyphicon-chevron-right"></span></a></p>
+<p><br></p>
+<p><a href="https://statusq.org/archives/2025/02/22/13072/"
+class="uri">https://statusq.org/archives/2025/02/22/13072/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-02-22, from: Robert’s feed at
+BlueSky)</p>
+<p>👇</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3liqzb4dffs2g"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3liqzb4dffs2g</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Robert">@Robert</span>’s
+feed at BlueSky</strong> (date: 2025-02-22, from: Robert’s feed at
+BlueSky)</p>
+<p>What if the State of California held all federal tax payments in
+escrow until other states pulled their own weight. Those states who
+representatives need our tax dollars could then explain themselves.
+👇</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/rsdoiel.bsky.social/post/3liqz7fhykk2g"
+class="uri">https://bsky.app/profile/rsdoiel.bsky.social/post/3liqz7fhykk2g</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-02-22, from: Feed for Alt USDS)</p>
+<p>The US Digital Service (USDS) - now the US DOGE Service - is being
+weaponized by the Trump administration to target career federal
+employees, dismantle safeguards, and enable corruption.</p>
+<p>👀 Read more on our site.</p>
+<p>🔗 wethebuilders.org</p>
+<p>#DefendDemocracy #SaveOurServices #AltUSDS #fedworkers
+http://wethebuilders.org</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3liqpdeaghc2b"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3liqpdeaghc2b</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>Trump Fires Joint Chiefs Chairman Amid Turmoil at Pentagon.</p>
+<p><br></p>
+<p><a
+href="https://www.nytimes.com/2025/02/21/us/politics/trump-fires-cq-brown-pentagon.html?unlocked_article_code=1.y04.uNLi.YSC6oCd7mKCe&amp;smid=url-share"
+class="uri">https://www.nytimes.com/2025/02/21/us/politics/trump-fires-cq-brown-pentagon.html?unlocked_article_code=1.y04.uNLi.YSC6oCd7mKCe&amp;smid=url-share</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-02-22, from: Dave Winer’s linkblog)</p>
+<p>Trump to shut down all 8,000 EV charging ports at federal govt
+buildings.</p>
+<p><br></p>
+<p><a
+href="https://electrek.co/2025/02/21/trump-to-shut-down-all-8000-ev-charging-ports-at-federal-govt-buildings/"
+class="uri">https://electrek.co/2025/02/21/trump-to-shut-down-all-8000-ev-charging-ports-at-federal-govt-buildings/</a></p>
+<hr />
+<h2 id="state-of-virtualizing-the-bsds-on-apple-silicon">2025-02-22:
+State of virtualizing the BSDs on Apple Silicon</h2>
+<p>date: 2025-02-22, from: Brian Robert Callahan blog</p>
+<p>Testing VMWare Fusion and the Apple virtualization framework wht each
+*BSD</p>
+<p><br></p>
+<p><a href="https://briancallahan.net/blog/20250222.html"
+class="uri">https://briancallahan.net/blog/20250222.html</a></p>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.
