@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-03-01 10:13:55
+updated: 2025-03-01 21:10:17
 ---
 
 # weather
 
-(date: 2025-03-01 10:13:55)
+(date: 2025-03-01 21:10:17)
 
 ---
 
@@ -61,98 +61,6 @@ on Wednesday.
 <br> 
 
 <https://www.spc.noaa.gov/products/exper/day4-8/>
-
----
-
-## SPC Feb 24, 2025 0100 UTC Day 1 Convective Outlook
-
-date: 2025-02-24, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0618 PM CST Sun Feb 23 2025
-
-Valid 240100Z - 241200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Isolated thunderstorms remain possible this evening mainly over
-parts of eastern Louisiana and across Mississippi.
-
-...Synopsis and Discussion...
-Scattered thunderstorms continue to be most prevalent over the
-northern and central Gulf, near the offshore surface low. A few
-lightning flashes were noted over parts of northern LA into MS, but
-in general, this activity should continue to wane as winds veer with
-the passing lead wave aloft.
-
-Elsewhere, a few flashes with weak convection were noted earlier
-over southwest OR beneath cool temperatures aloft and in association
-with a now departing shortwave trough. A very low chance of thunder
-may linger in this area within the residual midlevel moist plume
-this evening.
-
-..Jewell.. 02/24/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_0100.html>
-
----
-
-## SPC Day 3-8 Fire Weather Outlook
-
-date: 2025-02-23, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/fire_wx/"><img src="https://www.spc.noaa.gov/products/exper/fire_wx/imgs/day38otlk_fire.gif" border="1" alt="Day 3-8 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3-8 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0229 PM CST Sun Feb 23 2025
-
-Valid 251200Z - 031200Z
-
-Fire weather potential will remain limited across the country
-through much of the upcoming work week, though some fire concerns
-may emerge across the southern High Plains beginning D6/Friday and
-into the following weekend. A broad northwesterly flow regime aloft
-is expected to persist for much of the upcoming week amid
-persistent, and unseasonably strong, ridging across the western
-CONUS. This regime will continue to promote dry conditions from the
-southern Great Basin into the Four Corners and southern/central
-Plains. Additionally, a return to unseasonably warm temperatures is
-anticipated, which will support gradual fuel drying and an expansion
-of elevated (80+ percentile) ERC values out of far West Texas and
-into the southern Plains/Southwest. The passage of weak upper
-disturbances across the northern latitudes will promote widespread,
-but light, rain/snow chances and an influx of cooler continental air
-for northern portions of the country, but could augment regional
-pressure gradient winds across the southern High Plains where fuels
-should be most receptive. This potential appears most prominent
-around D6/Friday when most solutions suggest southwest winds could
-approach critical thresholds within a dry downslope flow regime,
-though deterministic/ensemble spread remains high at this range. A
-transition to a more progressive upper-air regime is anticipated
-heading into early March, which could signal an increase in fire
-weather potential for parts of the Southwest and Plains as more
-robust surface cyclones become probable across the southern U.S.
-
-..Moore.. 02/23/2025
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/fire_wx/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/fire_wx/>
 
 ---
 

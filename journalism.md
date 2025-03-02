@@ -1,11 +1,11 @@
 ---
 title: journalism
-updated: 2025-03-01 10:13:56
+updated: 2025-03-01 21:10:17
 ---
 
 # journalism
 
-(date: 2025-03-01 10:13:56)
+(date: 2025-03-01 21:10:17)
 
 ---
 
@@ -475,6 +475,42 @@ When the wildfires hit Los Angeles this past January, the LA community rallied a
 
 ---
 
+## The Washington Post’s TikTok guy will publish a Post-produced news series on his personal channel
+
+date: 2025-02-27, from: Nieman Journalism Lab
+
+Dave Jorgenson, best known as The Washington Post&#8217;s TikTok guy, has launched a new weekly news skit show called, incredibly, Local News International. The series will be similar to his other videos for The Washington Post but &#8220;it&#8217;ll cover news from all around the world with a sort of local news, lo-fi vibe,&#8221; Jorgenson explains... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/the-washington-posts-tiktok-guy-will-publish-a-post-produced-news-series-on-his-personal-channel/>
+
+---
+
+## A new public policy agenda has a vision for “local news for the people”
+
+date: 2025-02-27, from: Nieman Journalism Lab
+
+What would a local media system that prioritizes working and middle classes over corporate profits and the interests of billionaires look like? A new public policy agenda released this week has some ideas. The Media Power Collaborative, which released its policy framework on Tuesday, describes itself as an organizing space for media workers and their... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/a-new-public-policy-agenda-has-a-vision-for-local-news-for-the-people/>
+
+---
+
+## How gender affects sources’ attitudes toward interviews
+
+date: 2025-02-27, from: Nieman Journalism Lab
+
+News interviews from expert sources’ perspective One of the more consistent (and, sadly, unsurprising) findings in news research around the world is the dominance of men as sources in news stories. Numerous studies have examined the ratio of men to women as sources over the years, including two multinational studies this decade, and have found a fairly... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/how-gender-affects-sources-attitudes-toward-interviews/>
+
+---
+
 ## USC publishes update on response to executive orders
 
 date: 2025-02-27, from: The Daily Trojan (USC Student Newspaper)
@@ -824,6 +860,18 @@ date: 2025-02-26, from: The Round Up (Pierce College Student Newspaper)
 
 ---
 
+## Jeff Bezos declares opinions questioning “free markets” no longer welcome at The Washington Post
+
+date: 2025-02-26, from: Nieman Journalism Lab
+
+The thing about American newspaper opinion sections is this: Their owners get final say. If the man who signs the checks — it&#8217;s almost always a man — really really really wants to see his cocker spaniel run City Hall, you&#8217;ll probably see &#8220;Our Choice: Fluffernutter for Mayor&#8221; stripped atop the editorial page. For generations... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/jeff-bezos-declares-opinions-questioning-free-markets-no-longer-welcome-at-the-washington-post/>
+
+---
+
 ## “Eyewitness in 16mm” celebrates Occidental’s film history and activist media
 
 date: 2025-02-26, from: The Occidental News (Occidental College Student Newspaper)
@@ -877,6 +925,18 @@ date: 2025-02-26, from: The Occidental News (Occidental College Student Newspape
 <br> 
 
 <https://theoccidentalnews.com/culture/2025/02/26/artist-of-the-week-andrew-eisenberg-moves-from-improv-to-stand-up-even-if-he-bombs/2914423>
+
+---
+
+## Journalism school needs to do more to prepare students for the hard parts
+
+date: 2025-02-26, from: Nieman Journalism Lab
+
+It is a challenging time to be a journalism student. Those entering the news industry face a profession struggling to recover public trust and attention, pay its journalists fairly, ensure they have a semblance of job security, and protect them from increasing — and intensifying — online abuse and harassment. Journalists’ salaries have remained largely... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/journalism-school-needs-to-do-more-to-prepare-students-for-the-hard-parts/>
 
 ---
 
@@ -1150,6 +1210,42 @@ The Lifestyle Medicine Club at UCLA held the second of its biweekly free clinics
 
 ---
 
+## Heavyweight is coming back as a Pushkin podcast
+
+date: 2025-02-25, from: Nieman Journalism Lab
+
+When Spotify canceled the podcast Heavyweight in 2023, every audio producer I know (and listeners on Reddit) mourned. The podcast, which I can best describe as “a show about regrets and resentments and the past but FUN,” was an audio darling, with its signature mixture of wry humor and deeply touching stories that seemed to... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/heavyweight-is-coming-back-as-a-pushkin-podcast/>
+
+---
+
+## Student press freedom isn’t universal
+
+date: 2025-02-25, from: Nieman Journalism Lab
+
+Student Press Freedom Day is Feb. 27 in the United States. But here in Korea — and in much of the world — it is just another Thursday. In Korea, awareness of student press freedom remains minimal, even nationally. In the professional sphere, while the Korean Constitution guarantees freedom of speech, press organizations often face... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/student-press-freedom-isnt-universal/>
+
+---
+
+## As Facebook abandons fact-checking, it’s also offering bonuses for viral content
+
+date: 2025-02-25, from: Nieman Journalism Lab
+
+Hours after Donald Trump was sworn in as president, users spread a false claim on Facebook that Immigration and Customs Enforcement was paying a bounty for reports of undocumented people. “BREAKING — ICE is allegedly offering $750 per illegal immigrant that you turn in through their tip form,” read a post on a page called... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/as-facebook-abandons-fact-checking-its-also-offering-bonuses-for-viral-content/>
+
+---
+
 ## UTeaLA steeps well-being, Japanese tradition into ceremonies and community
 
 date: 2025-02-25, from: The Daily Bruin (UCLA Student Newspaper)
@@ -1303,6 +1399,18 @@ CalFresh, or the Supplemental Nutrition Assistance Program (SNAP), is a governme
 
 ---
 
+## The New York Editorial Board is picking up where The New York Times left off
+
+date: 2025-02-24, from: Nieman Journalism Lab
+
+New York, NY — On a grey February morning in lower Manhattan, inside a warmly lit, wood-paneled room, Ben Smith drew my attention to the smoked salmon benedict. “You should eat,” Smith, the CEO and cofounder of Semafor, mouthed. Across the table from him, a man named Jim Walden was getting animated about how he... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/the-new-york-editorial-board-is-picking-up-where-the-new-york-times-left-off/>
+
+---
+
 ## Thrift pop-up helps CSUN debate team fund events
 
 date: 2025-02-24, from: The Sundail (CSUN Student Newspaper)
@@ -1336,6 +1444,18 @@ Chewy Brown Butter Chocolate chip cookies Ingredients 1 ¼ cup of unsalted butte
 <br> 
 
 <https://sundial.csun.edu/190239/print-editions/print-sanchez-sweet-treat-break/>
+
+---
+
+## Unionization may offer extra benefits (but also extra work) for women journalists, according to a new study
+
+date: 2025-02-24, from: Nieman Journalism Lab
+
+Over the last decade, journalists have unionized their newsrooms in record numbers. Since 2016, nearly 8,000 media workers from 146 companies have unionized with The NewsGuild-Communications Workers of America alone. To get a better sense of what union organizing in journalism looks and feels like for women, researchers Ever Josue Figueroa (University of Colorado, Boulder),... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/02/unionization-may-offer-extra-benefits-but-also-extra-work-for-women-journalists-according-to-a-new-study/>
 
 ---
 

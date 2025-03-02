@@ -14,6 +14,7 @@ Collection                                          Description of Posts        
 [Columns](columns.html)                             Frequent Pocket additions                                          [columns.txt](columns.txt)
 [Weather Forecasts](forecasts.html)                 [NOAA's](https://weather.gov) links, selected forecast pages
 [Snapshots](snapshots.html)                         A aggregation from site around thre web                            [snapshots.txt](snapshots.txt)
+[Retro Computing](retro_computing.html)             Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
 
 
 Other reading.
@@ -23,7 +24,6 @@ Collection                                          Description of Posts        
 [Home, Garden & Urban Farm](home.html)              Home, Garden & Urban blogs and news                                [home.txt](home.txt)
 [Good Eats, Healthy Eats](food.html)                Healthy Eats, Good Eats                                            [food.txt](foot.txt)
 [Going Electric](going_electric.html)               Going Electric                                                     [going_electric.txt](going_electric.txt)
-[Retro Computing](retro_computing.html)             Computer history and systems                                       [retro_computing.txt](retro_computing.txt)
 [Libraries](libraries.html)                         Libraries, Archives and Museums                                    [libraries.txt](libraries.txt)
 [State Parks](parks.html)                           State Parks                                                        [parks.txt](parks.txt)
 [Student Journalism](journalism.html)               Student Journalism and the 4th estate                              [journalism.txt](journalism.txt)

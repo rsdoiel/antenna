@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-03-01 10:13:57
+updated: 2025-03-01 21:10:18
 ---
 
 # home
 
-(date: 2025-03-01 10:13:57)
+(date: 2025-03-01 21:10:18)
 
 ---
 
@@ -771,18 +771,6 @@ date: 2025-02-27, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/50-types-of-zinnias-with-pictures-and-names/>
-
----
-
-## The Essential Gear You Need If You Want to Start Birding
-
-date: 2025-02-27, from: Sunset Magazine - Living in the West
-
-The meditative act of birdwatching reduces stress. This is the birding and birdwatching gear that you need to get started. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/birding-birdwatching-gear>
 
 ---
 

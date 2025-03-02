@@ -1,11 +1,11 @@
 ---
 title: science and technology
-updated: 2025-03-01 10:13:54
+updated: 2025-03-01 21:10:16
 ---
 
 # science and technology
 
-(date: 2025-03-01 10:13:54)
+(date: 2025-03-01 21:10:16)
 
 ---
 
@@ -47,7 +47,7 @@ A Fast-Moving Planet and a Crimson Moon! Catch Mercury if you can, then stay up 
 
 ## Intel slows its roll on $28B Ohio fab expansion, pushing production to 2030s
 
-date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+date: 2025-02-28, updated: 2025-03-02, from: The Register (UK I.T. News)
 
 <h4>x86 giant still expects to ramp 18A process tech this year</h4> <p>Intel&#39;s floundering foundry business hit another speed bump on Friday after executives delayed the completion of its $28 billion Ohio factory build-out until at least 2030.…</p> 
 
@@ -71,7 +71,7 @@ date: 2025-02-28, updated: 2025-03-01, from: The Register (UK I.T. News)
 
 ## Ransomware criminals love CISA's KEV list – and that's a bug, not a feature
 
-date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+date: 2025-02-28, updated: 2025-03-02, from: The Register (UK I.T. News)
 
 <h4>1 in 3 entries are used to extort civilians, says new paper</h4> <p>Fresh research suggests attackers are actively monitoring databases of vulnerabilities that are known to be useful in carrying out ransomware attacks.…</p> 
 
@@ -93,9 +93,9 @@ date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
 
 ---
 
-## Skype for consumers kicks the bucket on May 5
+## Non-biz Skype kicks the bucket on May 5
 
-date: 2025-02-28, updated: 2025-02-28, from: The Register (UK I.T. News)
+date: 2025-02-28, updated: 2025-03-02, from: The Register (UK I.T. News)
 
 <h4>Microsoft confirms you have 60 days to export your data or shift to Teams</h4> <p>If you hadn&#39;t already noticed when Skype Credit sales were first suspended in December 5, 2024, the once ubiquitous IP telephony and vid calling wunderkind is no more – at least as a paid service for consumers.…</p> 
 
