@@ -1,11 +1,163 @@
 ---
 title: journalism
-updated: 2025-03-01 21:10:17
+updated: 2025-03-02 07:08:37
 ---
 
 # journalism
 
-(date: 2025-03-01 21:10:17)
+(date: 2025-03-02 07:08:37)
+
+---
+
+## Q&A: Epidemiology professor Nina Harawa talks HIV prevention, care in Black communities
+
+date: 2025-03-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Nina Harawa, a professor of medicine and epidemiology at the Fielding School of Public Health and the David Geffen School of Medicine, sat down with Daily Bruin contributor Alyssa Wong to discuss HIV prevention and treatment in Black communities. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/01/qa-epidemiology-professor-nina-harawa-talks-hiv-prevention-care-in-black-communities/>
+
+---
+
+## PAC holds vigil for those affected by HIV/AIDS at 2025 Dance Marathon
+
+date: 2025-03-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 2025 Dance Marathon vigil, hosted by the Pediatric AIDS Coalition at UCLA, worked to empower a new generation by breaking stigmas and busting myths surrounding HIV/AIDS. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/01/pac-holds-vigil-for-those-affected-by-hiv-aids-at-2025-dance-marathon/>
+
+---
+
+## Community Members Volunteer for the Westwood Homeless Count
+
+date: 2025-03-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Volunteers participate in the annual Westwood Homeless Count, where the count is updated to help direct funding and resources for the homeless in the upcoming year. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/01/community-members-volunteer-for-the-westwood-homeless-count/>
+
+---
+
+## UCLA swim and dive competes at the First Chance Diving Invitational
+
+date: 2025-03-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA swim and dive competes at the First Chance Diving Invitational on February 15, 2025. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/01/ucla-swim-and-dive-competes-at-the-first-chance-diving-invitational/>
+
+---
+
+## Celebrating Valentine’s Day with LoveFest
+
+date: 2025-03-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA celebrates the day of love with Valentine&#8217;s day-themed entertainment, candy, and crafts at LoveFest. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/01/celebrating-valentines-day-with-lovefest/>
+
+---
+
+## Cozy Eats Around Westwood
+
+date: 2025-03-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/01/cozy-eats-around-westwood/>
+
+---
+
+## Pediatrics AIDS Coalition at UCLA kicks off its annual Dance Marathon fundraiser
+
+date: 2025-03-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Leaping into an activity-and-dance-filled 10 hours, Pediatric AIDS Coalition at UCLA&#8217;s 24th annual Dance Marathon has begun its countdown.
+Featuring 44 teams and around 390 entrants, PAC’s Dance Marathon in the Ackerman Grand Ballroom is fighting for an AIDS-free generation and the destigmatization of HIV/AIDS. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/01/pediatrics-aids-coalition-at-ucla-kicks-off-its-annual-dance-marathon-fundraiser/>
+
+---
+
+## Estudiantes que regresan del extranjero enfrentan confusión debido a problemas de alojamiento
+
+date: 2025-03-01, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Mientras algunos estudiantes regresan de un descanso festivo en casa, otros vuelven después de haber pasado semestres en distintas partes del mundo. Claire Wilson-Black (estudiante de tercer año) dijo que, a pesar de la cálida bienvenida de Occidental, muchos estudiantes que regresan del extranjero enfrentan desafíos en la asignación de vivienda. Después de irse en [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/03/01/estudiantes-que-regresan-del-extranjero-enfrentan-confusion-debido-a-problemas-de-alojamiento/2914442">Estudiantes que regresan del extranjero enfrentan confusión debido a problemas de alojamiento</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/03/01/estudiantes-que-regresan-del-extranjero-enfrentan-confusion-debido-a-problemas-de-alojamiento/2914442>
+
+---
+
+## Q&A: UCLA cardiology chief Dr. Priscilla Hsue talks heart disease, cardiovascular care
+
+date: 2025-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dr. Priscilla Hsue, the chief of UCLA’s Division of Cardiology, sat down with News contributor Savan Bollu to discuss cardiovascular disease symptoms, risk factors and novel treatment options during American Heart Month in February. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/ucla-cardiology-chief-dr-priscilla-hsue-talks-heart-disease-cardiovascular-care/>
+
+---
+
+## Federal Task Force to Combat Antisemitism will visit USC
+
+date: 2025-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The task force will assess if the University violated federal law by failing to protect Jewish students and faculty from discrimination, and if "remedial action" is necessary.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/federal-task-force-to-combat-antisemitism-will-visit-usc/">Federal Task Force to Combat Antisemitism will visit USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/federal-task-force-to-combat-antisemitism-will-visit-usc/>
+
+---
+
+## The Office of Inclusion and Diversity integrates into Culture Team
+
+date: 2025-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University said Wednesday it was reviewing programs to comply with Trump administration rules.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/the-office-of-inclusion-and-diversity-integrates-into-culture-team/">The Office of Inclusion and Diversity integrates into Culture Team</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/the-office-of-inclusion-and-diversity-integrates-into-culture-team/>
+
+---
+
+## Author Adam Phillips leads discussion on psychoanalysis, practicing kindness
+
+date: 2025-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Psychoanalytic thinker and author Adam Phillips presented ideas about kindness, mental health and psychoanalysis Thursday.
+Phillips, a former child psychotherapist, spoke with UCLA professors David Russell and Mona Simpson about his untraditional opinions about psychoanalysis at the Landmark Westwood theater. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/author-adam-phillips-leads-discussion-on-psychoanalysis-practicing-kindness/>
 
 ---
 
@@ -1592,17 +1744,4 @@ The Tony Award-winning play has Apparated from London to Broadway to LA&#8217;s 
 <br> 
 
 <https://dailybruin.com/2025/02/23/theater-review-while-lacking-good-script-harry-potter-and-the-cursed-child-spurs-magic-onstage/>
-
----
-
-## USAC commission opens funds to subsidize BruinCard replacement, laundry
-
-date: 2025-02-22, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Undergraduate Students Association Council Financial Supports Commission is piloting new funding initiatives to subsidize BruinCard replacements and laundry costs.
-The commission&#8217;s Replacement BruinCard Fund will provide students with a once-per-quarter $10 discount on the $25 BruinCard replacement fee or complete coverage of the $5 fee to exchange an existing BruinCard with a new one. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/21/usac-commission-opens-funds-to-subsidize-bruincard-replacement-laundry/>
 

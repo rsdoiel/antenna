@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-03-01 21:10:20
+updated: 2025-03-02 07:08:40
 ---
 
 # craft
 
-(date: 2025-03-01 21:10:20)
+(date: 2025-03-02 07:08:40)
+
+---
+
+## For Sale: Comb-back Stick Chair
+
+date: 2025-03-02, from: Lost Arg Press blog
+
+This comb-back stick chair is designed for dining and working at a desk. Leaned back just enough, this chair is comfortable to sit in for hours at a time. I’m offering it for sale for $1,400 via a random drawing. The price includes crating and shipping to your door anywhere in the lower 48 states... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/02/for-sale-comb-back-stick-chair-2/>
 
 ---
 
@@ -68,16 +80,4 @@ Good news: Alexander Brothers is now selling a new stick chair kit for the Curve
 <br> 
 
 <https://blog.lostartpress.com/2025/02/24/a-new-stick-chair-kit-from-alexander-brothers/>
-
----
-
-## Guitar Side Bending Tools: Ultimate Luthier’s Guide
-
-date: 2025-02-22, from: Learn The Art of Lutherie
-
- 
-
-<br> 
-
-<https://theartoflutherie.com/guitar-side-bending-tools/>
 

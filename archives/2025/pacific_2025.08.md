@@ -1,11 +1,409 @@
 ---
 title: pacific
-updated: 2025-03-01 21:10:15
+updated: 2025-03-02 07:08:34
 ---
 
 # pacific
 
-(date: 2025-03-01 21:10:15)
+(date: 2025-03-02 07:08:34)
+
+---
+
+## Culinary event featuring The Taj's Indian cuisine draws large crowd at Capitol Kitchen
+
+date: 2025-03-02, from: Pacific Island Times
+
+Guam’s epicures swarmed to Capitol Kitchen on Airport Road in Tamuning during a two-night culinary event featuring authentic Indian cuisine, 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-taj-capitol-kitchen-team-up-for-a-spicy-culinary-event-featuring-indian-cuisine>
+
+---
+
+## No county fair this year: It could return in 2026, but cost remains the problem
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>For the fifth straight year, there will be no Hawaii County Fair in Hilo or Kona in 2025.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/hawaii-news/no-county-fair-this-year-it-could-return-in-2026-but-cost-remains-the-problem/>
+
+---
+
+## Hilo man used sword for robbery, prosecutor says
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>A 22-year-old Hilo man remains in jail on 19 criminal charges in connection with an armed robbery Tuesday on Waiakea Peninsula in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/hawaii-news/hilo-man-used-sword-for-robbery-prosecutor-says/>
+
+---
+
+## Geothermal bills advance
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>State proposals to pursue geothermal development on the Big Island are still going strong.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/hawaii-news/geothermal-bills-advance-2/>
+
+---
+
+## Double-homicide suspect to be extradited to Ohio
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>A 32-year-old Oklahoma man will be extradited from the Big Island to Ohio to face two counts of aggravated murder for the shooting death of a married couple who were reportedly his business partners.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/hawaii-news/double-homicide-suspect-to-be-extradited-to-ohio/>
+
+---
+
+## Hensel visits Hawaii Community College
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>Wendy Hensel, the new president of the University of Hawaii system, continued her statewide tour of universities, community colleges and education centers last week at the Hawaii Community College Manono campus.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/hawaii-news/hensel-visits-hawaii-community-college/>
+
+---
+
+## After Trump clash, Ukraine’s Zelenskyy gets warm UK welcome before European summit
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; British Prime Minister Keir Starmer greeted President Volodymyr Zelenskyy with a warm embrace on Saturday after the Ukrainian leader flew to London for talks following his clash at the White House with U.S. President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/nation-world-news/after-trump-clash-ukraines-zelenskyy-gets-warm-uk-welcome-before-european-summit/>
+
+---
+
+## Cuts to National Weather Service leave forecasters reeling
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>Twice a day for years, meteorologists in Kotzebue, Alaska, have launched weather balloons far into the sky to measure data like wind speed, humidity and temperature, and translated the information the balloons sent back into weather forecasts and models. It&#8217;s a ritual repeated at dozens of weather stations around the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/nation-world-news/cuts-to-national-weather-service-leave-forecasters-reeling/>
+
+---
+
+## At least 37 dead and dozens injured in bus crash in Bolivia
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>LA PAZ, Bolivia &#8212; A crash involving two buses in Bolivia left at least 37 people dead and dozens injured in the western Potosi region, police and local authorities said on Saturday. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/nation-world-news/at-least-37-dead-and-dozens-injured-in-bus-crash-in-bolivia/>
+
+---
+
+## Hundreds gather at national parks across US to protest job cuts
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>Hundreds of people gathered Saturday at national parks from California to Maine to protest the Trump administration&#8217;s firing of at least 1,000 National Park Service employees last month.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/nation-world-news/hundreds-gather-at-national-parks-across-us-to-protest-job-cuts/>
+
+---
+
+## Why a Japanese Oscar contender isn’t being shown in Japan
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>TOKYO &#8212; A film by a Japanese woman about her search for justice from uncooperative authorities after she reported being raped is a contender at Sunday&#8217;s Academy Awards. Yet, despite being the first full-length documentary made by a Japanese director ever nominated for an Oscar, the movie cannot be seen in her home country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/nation-world-news/why-a-japanese-oscar-contender-isnt-being-shown-in-japan/>
+
+---
+
+## Steves: Bruges is pickled in Gothic
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>The medieval Belgian town of Bruges attracts hordes of visitors, but don&#8217;t let that keep you away.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/features/steves-bruges-is-pickled-in-gothic/>
+
+---
+
+## Volcano Watch: The nose knows (and so did HVO gas instrumentation … eventually)
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>It was a dark and stormy night &#8230;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/community/volcano-watch-the-nose-knows-and-so-did-hvo-gas-instrumentation-eventually/>
+
+---
+
+## Pentagon sending combat forces to help secure border
+
+date: 2025-03-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Pentagon is sending about 3,000 additional troops to the southwestern border, rushing to comply with President Donald Trump&#8217;s order to increase the military&#8217;s role in stemming the flow of migrants into the United States.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/01/nation-world-news/pentagon-sending-combat-forces-to-help-secure-border/>
+
+---
+
+## Flying Saucers, Never Quit Dreaming, Bailey’s Antiques and Aloha Shirts Home is Here
+
+date: 2025-03-01, from: Home is Here
+
+<p>The post <a href="https://www.pbshawaii.org/flying-saucers-never-quit-dreaming-baileys-antiques-and-aloha-shirts-home-is-here/">Flying Saucers, Never Quit Dreaming, Bailey&#8217;s Antiques and Aloha Shirts &lt;br/&gt;Home is Here</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/flying-saucers-never-quit-dreaming-baileys-antiques-and-aloha-shirts-home-is-here/>
+
+---
+
+## UH Hilo Hawaiian language college turns to AI to help preserve ʻōlelo
+
+date: 2025-03-01, from: University of Hawaiʻi News
+
+<p>The Lauleo project is gathering Hawaiian speech data to create <abbr>AI</abbr> tools that can convert voice to text.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/28/uh-hilo-ai-help-preserve-olelo/"><abbr>UH</abbr> Hilo Hawaiian language college turns to <abbr>AI</abbr> to help preserve ʻōlelo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/28/uh-hilo-ai-help-preserve-olelo/>
+
+---
+
+## UH Mānoa honors Alice Ball’s legacy at 2025 celebration
+
+date: 2025-03-01, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> celebrated Alice Augusta Ball Day on February 28, 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/28/alice-ball-day-2025/"><abbr>UH</abbr> Mānoa honors Alice Ball’s legacy at 2025 celebration</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/28/alice-ball-day-2025/>
+
+---
+
+## Kauaʻi CC archivist to lead Hawaiʻi association
+
+date: 2025-03-01, from: University of Hawaiʻi News
+
+<p>Kikuchi Center Archivist Jason Ford is president-elect of the Association of <span aria-label="Hawaii">Hawai&#699;i</span> Archivists.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/28/kauai-cc-archivist-aha/">Kauaʻi <abbr>CC</abbr> archivist to lead Hawaiʻi association</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/28/kauai-cc-archivist-aha/>
+
+---
+
+## Trump and Zelenskiy angry exchange leaves Ukraine exposed in war with Russia
+
+date: 2025-03-01, updated: 2025-03-01, from: Marianas Variety
+
+WASHINGTON (Reuters) — Ukrainian President Volodymyr Zelenskiy's meeting with Donald Trump ended in disaster on Friday, after the two leaders clashed in an extraordinary exchange before the world's media at the White House over the war with Russia. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-and-zelenskiy-angry-exchange-leaves-ukraine-exposed-in-war-with-russia/article_19a21a88-f632-11ef-9f1b-439a049b9607.html>
+
+---
+
+## Trump and Vance berate Zelenskyy, exposing break between wartime allies
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States&#8217; relationship with Ukraine erupted in a storm of acrimony Friday as President Donald Trump and Vice President JD Vance berated President Volodymyr Zelenskyy of Ukraine in an explosive televised Oval Office showdown and abruptly cut short a visit meant to coordinate a plan for peace.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/trump-and-vance-berate-zelenskyy-exposing-break-between-wartime-allies/>
+
+---
+
+## What can House Republicans cut instead of Medicaid? Not much.
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House passed a budget resolution Tuesday night after the speaker, Mike Johnson, persuaded several Republican lawmakers, including those who have expressed reservations about possible Medicaid cuts, to support the bill.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/what-can-house-republicans-cut-instead-of-medicaid-not-much/>
+
+---
+
+## Hundreds are said to quit NOAA in a new round of departures
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>The National Oceanic and Atmospheric Administration, one of the world&#8217;s leading centers of climate research, has been hit by a new round of departures, just 24 hours after hundreds of employees were fired.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/hundreds-are-said-to-quit-noaa-in-a-new-round-of-departures/>
+
+---
+
+## Pope Francis suffers setback after another respiratory crisis
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>After days of a cautious optimism and two weeks in a hospital with pneumonia in both lungs, Pope Francis on Friday suffered another respiratory crisis, renewing concerns about the prognosis for the leader of the Roman Catholic Church.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/pope-francis-suffers-setback-after-another-respiratory-crisis/>
+
+---
+
+## Tropical Gardening: March arrives like a lion and leaves like a lamb
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>March has a lot of history, hope and lore associated with it. For some superstitious folks, &#8220;Beware the Ides of March,&#8221; a quote from Shakespeare&#8217;s Julius Caesar, brings a sense of foreboding.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/features/tropial-gardening-march-arrives-like-a-lion-and-leaves-like-a-lamb/>
+
+---
+
+## Economic report offers sobering forecast for Hawaii amid federal shakeup
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>The 2025 first-quarter economic forecast by the University of Hawaii Economic Research Organization paints a somber outlook of the state economy, warning of the potential for a recession depending on how policy shake-ups by President Donald Trump and his new administration ultimately take shape.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/hawaii-news/economic-report-offers-sobering-forecast-for-hawaii-amid-federal-shakeup/>
+
+---
+
+## Social Security Administration to cut roughly 7,000 workers
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s escalating initiative to drastically cut the federal workforce has reached the Social Security Administration, a crucial program that keeps millions of older Americans out of poverty, which said Friday that it would reduce its head count by more than 12%.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/social-security-administration-to-cut-roughly-7000-workers/>
+
+---
+
+## Gene Hackman likely died on Feb. 17, sheriff says
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>An examination of actor Gene Hackman&#8217;s pacemaker after the discovery of his body this week suggested that he died on Feb. 17, the sheriff of Santa Fe County said in a news conference Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/gene-hackman-likely-died-on-feb-17-sheriff-says/>
+
+---
+
+## Federal workers will get another email asking them to detail accomplishments
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal workers are expected to receive another email as soon as Saturday asking them to describe what they achieved this past week, according to a person familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/federal-workers-will-get-another-email-asking-them-to-detail-accomplishments/>
+
+---
+
+## Trump’s cuts come with risks. Including from volcanoes.
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>When the fuming and rumbling at Mount Spurr, a giant volcano northwest of Anchorage, started picking up in October, Alaska&#8217;s volcano monitoring agency raised its alert level to ensure that nearby communities and passing airplanes would have ample warning of any eruption.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/trumps-cuts-come-with-risks-including-from-volcanoes/>
 
 ---
 
@@ -3025,249 +3423,4 @@ date: 2025-02-23, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/02/23/features/steves-toledo-is-spains-historic-artistic-and-spiritual-center/>
-
----
-
-## Trump plans to use military sites across the country to detain migrants
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Trump administration is ramping up plans to detain immigrants in the U.S. without legal permission at military sites across the country, a significant expansion of efforts by the White House to use wartime resources to make good on the president&#8217;s promised mass deportations.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/trump-plans-to-use-military-sites-across-the-country-to-detain-migrants/>
-
----
-
-## A Trump siege at the CDC and Atlanta’s ‘global health capital’
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>ATLANTA &#8212; The pickets who gathered along Clifton Road in Atlanta on Tuesday, just outside the guarded gates of the Centers for Disease Control and Prevention, had chosen familiar ground for protesters furious over issues ranging from animal research to vaccines.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/a-trump-siege-at-the-cdc-and-atlantas-global-health-capital/>
-
----
-
-## FDA firings decimated teams reviewing AI and food safety
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>In recent years, the Food and Drug Administration hired experts in surgical robots and pioneers in artificial intelligence. It scooped up food chemists, lab-safety monitors and diabetes specialists who helped make needle pricks and test strips relics of the past.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/fda-firings-decimated-teams-reviewing-ai-and-food-safety/>
-
----
-
-## Suspect sought in Ocean View arson investigation
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>Police are seeking a male suspect as part of their investigation into a structure fire that occurred Friday morning in the Hawaii Ocean View Estates subdivision.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/hawaii-news/suspect-sought-in-ocean-view-arson-investigation/>
-
----
-
-## Federal judge banishes Musk’s DOGE aides from Treasury Dept. systems
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>A Manhattan federal judge on Friday banned Elon Musk&#8217;s cost-cutting team from regaining access to the U.S. Treasury Department&#8217;s most sensitive payment and data systems until the conclusion of a lawsuit that claims the group&#8217;s access is unlawful.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/federal-judge-banishes-musks-doge-aides-from-treasury-dept-systems/>
-
----
-
-## With no buy-in from Egypt or Jordan, Trump appears to back away from his Gaza plan
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump on Friday appeared to back off his demand that some 2 million Palestinians be permanently relocated from the Gaza Strip to nearby countries in the Middle East so the United States could take over the territory and develop it into &#8220;the Riviera of the Middle East.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/with-no-buy-in-from-egypt-or-jordan-trump-appears-to-back-away-from-his-gaza-plan/>
-
----
-
-## Suspect in insurance CEO killing creates website as support floods in
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>Even when he was just a wanted man smiling in a surveillance picture, Luigi Mangione elicited a fervent response from some Americans. Now identified and charged in the brazen fatal shooting of a health care executive, his influence has persisted, even from behind bars.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/suspect-in-insurance-ceo-killing-creates-website-as-support-floods-in/>
-
----
-
-## Associated Press sues Trump officials over White House ban
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>The Associated Press sued top White House officials Friday, accusing them of violating the First and Fifth Amendments by denying AP reporters access to press events in retaliation for references to the Gulf of Mexico in its articles.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/associated-press-sues-trump-officials-over-white-house-ban/>
-
----
-
-## ‘See you in court’: Maine governor clashes with Trump over trans rights
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Something happened at the White House on Friday afternoon that almost never happens these days. Somebody defied President Donald Trump. Right to his face.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/see-you-in-court-maine-governor-clashes-with-trump-over-trans-rights/>
-
----
-
-## Bannon salute at right-wing event sparks outcry, even on French right
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>OXON HILL, Md. &#8212; A raised-arm salute by Steve Bannon that to many resembled a Nazi gesture incited an outcry Friday not just from liberal critics of President Donald Trump and his allies but also from a leader of the European right.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/bannon-salute-at-right-wing-event-sparks-outcry-even-on-french-right/>
-
----
-
-## Ex-Proud Boys leader arrested on charges of assault outside Capitol
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>One month after being pardoned by President Donald Trump for his role in the attack on the Capitol on Jan. 6, 2021, Enrique Tarrio, the former leader of the Proud Boys, was arrested again on charges of assaulting a protester at a bizarre news conference held outside the Capitol on Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/nation-world-news/ex-proud-boys-leader-arrested-on-charges-of-assault-outside-capitol/>
-
----
-
-## Tropical Gardening: The world calls with tropical fruits
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>Atrip to less industrialized tropical and subtropical regions of the world can be very enlightening in some unexpected ways. By visiting these places, we can learn more about what tropical fruits are integral to the colorful cultures of the world. Most may be grown in Hawaii with our varied climate from tropical to temperate.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/features/tropical-gardening-the-world-calls-with-tropical-fruits/>
-
----
-
-## Police: 81-year-old Waimea man a possible drowning victim
-
-date: 2025-02-22, from: Hawaii Tribune Harold
-
-
-				<p>Hawaii Island police are investigating a possible drowning involving an 81-year-old Waimea man that occurred Friday afternoon at a South Kohala beach park.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/22/hawaii-news/police-81-year-old-waimea-man-a-possible-drowning-victim/>
-
----
-
-## ‘Any GHURA funding cuts will mean more homeless’
-
-date: 2025-02-22, from: Pacific Island Times
-
-Any cuts to the $65 million the Guam Housing Urban Renewal Authority receives on average each year will result in thousands of families bein 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/any-ghura-funding-cuts-will-mean-more-homeless>
-
----
-
-## CNMI governor pushes for restoration  of  702 funds from US
-
-date: 2025-02-22, from: Pacific Island Times
-
-Gov. Arnold Palacios brought with him two messages in his trip to Washington, D.C. this week: more funding support for the Northern Mariana  
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/cnmi-governor-pushes-for-restoration-of-702-funds-from-us>
-
----
-
-## Hilo community embraces UH President Hensel
-
-date: 2025-02-22, from: University of Hawaiʻi News
-
-<p>More than 150 alumni, donors and others gathered in Hilo to meet President Wendy Hensel.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/21/hilo-community-embraces-uh-president-hensel/">Hilo community embraces <abbr>UH</abbr> President Hensel</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/21/hilo-community-embraces-uh-president-hensel/>
-
----
-
-## Hawaiʻi to Türkiye: Fulbright scholar embraces cultural education journey
-
-date: 2025-02-22, from: University of Hawaiʻi News
-
-<p>Once she completes her Fulbright grant, she hopes to apply her experience to future work with international students globally.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/21/hawaii-to-turkiye-fulbright-journey/">Hawaiʻi to Türkiye: Fulbright scholar embraces cultural education journey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/21/hawaii-to-turkiye-fulbright-journey/>
-
----
-
-## Dye tracer study at Red Hill to provide insights into groundwater flow
-
-date: 2025-02-22, from: University of Hawaiʻi News
-
-<p>Preliminary results from the dye tracer study will be shared publicly in summer 2025.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/21/red-hill-tracer-study/">Dye tracer study at Red Hill to provide insights into groundwater flow</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/21/red-hill-tracer-study/>
 

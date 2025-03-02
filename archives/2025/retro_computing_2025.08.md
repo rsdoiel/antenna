@@ -1,11 +1,48 @@
 ---
 title: retro computing
-updated: 2025-03-01 21:10:19
+updated: 2025-03-02 07:08:38
 ---
 
 # retro computing
 
-(date: 2025-03-01 21:10:19)
+(date: 2025-03-02 07:08:38)
+
+---
+
+## AMCOG Games at WROCC – 5th March
+
+date: 2025-03-02, from: RiscOS Story
+
+The next Wakefield RISC OS Computer Club (WROCC) meeting will take place on Wednesday, 5th March, and the guest speaker will be Tony Bartram of AMCOG Games, with a talk that will cover a number of topics. With the next event almost upon us &#8211; RISC OS North, which takes place on Saturday, 29th March in Warrington &#8211; Tony has been busy working on the next video game to be released through AMCOG Games. Called Morphix, the game is an isometric puzzle game in which the player must move the&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/amcog-wrocc-5th-march/>
+
+---
+
+## Plus Post: Centram TOPS Network
+
+date: 2025-03-02, from: Computer ads from the Past
+
+Can we talk? 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-centram-tops-network>
+
+---
+
+## siegfried 1.11.2 released
+
+date: 2025-03-01, from: IT for Archivists
+
+Version 1.11.2 of siegfried is now available. Get it here.
+CHANGELOG v1.11.2 (2025-03-01) Filter introduced to improve Wikidata queries and -harvestWikidataSigLen flag sets minimum length of Wikidata signatures. Implemented by Ross Spencer and Andy Jackson -noprov flag introduced for Wikidata signatures. Implemented by Ross Spencer version command for roy. Implemented by Ross Spencer Wikidata definitions updated to 4.0.0. By Ross Spencer Logged error messages have more context. Implemented by Ross Spencer update PRONOM to v120 update LOC to 2025-02-26 update TIKA to v3. 
+
+<br> 
+
+<https://www.itforarchivists.com/post/sf1112/>
 
 ---
 
@@ -186,16 +223,4 @@ An apology and some entertainment
 <br> 
 
 <https://computeradsfromthepast.substack.com/p/a-quick-note-and-some-comics>
-
----
-
-## Eggzy – another Code the Classics conversion
-
-date: 2025-02-22, from: RiscOS Story
-
-Barely giving himself time for a good fry up after releasing a RISC OS conversion of Beatstreets, Jeroen Vermeulen is back with another of the games in Code the Classics Volume II. This time, he&#8217;s released a RISC OS version of Eggzy. With the classic Dizzy series from the Oliver Twins as its inspiration, in this game you control a blue egg-like character (the chief differences being things like arms, legs, eyes, and a mouth&#8230; and, um, a flame on top&#8230; all of which eggs tend to lack) called Eggzy,&#8230; 
-
-<br> 
-
-<https://www.riscository.com/2025/eggzy-game-released/>
 

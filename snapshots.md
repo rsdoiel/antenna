@@ -1,11 +1,945 @@
 ---
 title: snapshots
-updated: 2025-03-01 21:10:20
+updated: 2025-03-02 07:08:40
 ---
 
 # snapshots
 
-(date: 2025-03-01 21:10:20)
+(date: 2025-03-02 07:08:40)
+
+---
+
+## Notes from my Accessibility and Gen AI podcast appearence
+
+date: 2025-03-02, updated: 2025-03-02, from: Simon Willison’s Weblog
+
+<p>I was a guest on <a href="https://accessibility-and-gen-ai.simplecast.com/episodes/ep-6-simon-willison-datasette">the most recent episode</a> of the <a href="https://linktr.ee/a11ygenai">Accessibility + Gen AI Podcast</a>, hosted by Eamon McErlean and Joe Devon. We had a really fun, wide-ranging conversation about a host of different topics. I've extracted a few choice quotes from the transcript.</p>
+
+<p><lite-youtube videoid="zoxpEM6TLEU" js-api="js-api"
+  title="Ep 6 - Simon Willison - Creator, Datasette"
+  playlabel="Play: Ep 6 - Simon Willison - Creator, Datasette"
+> </lite-youtube></p>
+
+<h4 id="alt-text">LLMs for drafting alt text</h4>
+
+<p>I use LLMs for the first draft of my alt text (<a href="https://www.youtube.com/watch?v=zoxpEM6TLEU&amp;t=22m10s">22:10</a>):</p>
+<blockquote>
+<p>I actually use Large Language Models for most of my alt text these days. Whenever I tweet an image or whatever, I've got a Claude project called Alt text writer. It's got a prompt and an example. I dump an image in and it gives me the alt text.</p>
+<p>I very rarely just use it because that's rude, right? You should never dump text onto people that you haven't reviewed yourself. But it's always a good starting point.</p>
+<p>Normally I'll edit a tiny little bit. I'll delete an unimportant detail or I'll bulk something up. And then I've got alt text that works.</p>
+<p>Often it's actually got really good taste. A great example is if you've got a screenshot of an interface, there's a lot of words in that screenshot and most of them don't matter.</p>
+<p>The message you're trying to give in the alt text is that it's two panels on the left, there's a conversation on the right, there's a preview of the SVG file or something. My alt text writer normally gets that right.</p>
+<p>It's even good at summarizing tables of data where it will notice that actually what really matters is that Gemini got a score of 57 and Nova got a score of 53 - so it will pull those details out and ignore [irrelevant columns] like the release dates and so forth.</p>
+</blockquote>
+<p>Here's the current custom instructions prompt I'm using for that Claude Project:</p>
+<blockquote><p><code>You write alt text for any image pasted in by the user. Alt text is always presented in a fenced code block to make it easy to copy and paste out. It is always presented on a single line so it can be used easily in Markdown images. All text on the image (for screenshots etc) must be exactly included. A short note describing the nature of the image itself should go first.</code></p></blockquote>
+
+<h4 id="ethics">Is it ethical to build unreliable accessibility tools?</h4>
+
+<p>On the ethics of building accessibility tools on top of inherently unreliable technology (<a href="https://www.youtube.com/watch?v=zoxpEM6TLEU&amp;t=5m35s">5:33</a>):</p>
+<blockquote>
+<p>Some people I've talked to have been skeptical about the accessibility benefits because their argument is that if you give somebody unreliable technology that might hallucinate and make things up, surely that's harming them.</p>
+<p>I don't think that's true. I feel like people who use screen readers are used to unreliable technology.</p>
+<p>You know, if you use a guide dog - it's a wonderful thing and a <em>very</em> unreliable piece of technology.</p>
+<p>When you consider that people with accessibility needs have agency, they can understand the limitations of the technology they're using.</p>
+</blockquote>
+<h4 id="not-a-threat">Why I don't feel threatened as a software engineer</h4>
+<p>This is probably my most coherent explanation yet of why I don't see generative AI as a threat to my career as a software engineer (<a href="https://www.youtube.com/watch?v=zoxpEM6TLEU&amp;t=33m51s">33:49</a>):</p>
+<blockquote>
+<p>My perspective on this as a developer who's been using these systems on a daily basis for a couple of years now is that I find that they enhance my value. I am so much more competent and capable as a developer because I've got these tools assisting me. I can write code in dozens of new programming languages that I never learned before.</p>
+<p>But I still get to benefit from my 20 years of experience.</p>
+<p>Take somebody off the street who's never written any code before and ask them to build an iPhone app with ChatGPT. They are going to run into so many pitfalls, because programming isn't just about can you write code - it's about thinking through the problems, understanding what's possible and what's not, understanding how to QA, what good code is, having good taste.</p>
+<p>There's so much depth to what we do as software engineers.</p>
+<p>I've said before that generative AI probably gives me like two to five times productivity boost on the part of my job that involves typing code into a laptop. But that's only 10 percent of what I do. As a software engineer, most of my time isn't actually spent with the typing of the code. It's all of those other activities.</p>
+<p>The AI systems help with those other activities, too. They can help me think through architectural decisions and research library options and so on. But I still have to have that agency to understand what I'm doing.</p>
+<p>So as a software engineer, I don't feel threatened. My most optimistic view of this is that the cost of developing software goes down because an engineer like myself can be more ambitious, can take on more things. As a result, demand for software goes up - because if you're a company that previously would never have dreamed of building a custom CRM for your industry because it would have taken 20 engineers a year before you got any results... If it now takes four engineers three months to get results, maybe you're in the market for software engineers now that you weren't before.</p>
+</blockquote>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/accessibility">accessibility</a>, <a href="https://simonwillison.net/tags/alt-attribute">alt-attribute</a>, <a href="https://simonwillison.net/tags/podcasts">podcasts</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/2/accessibility-and-gen-ai/#atom-everything>
+
+---
+
+## Quoting Kellan Elliott-McCrea
+
+date: 2025-03-02, updated: 2025-03-02, from: Simon Willison’s Weblog
+
+<blockquote cite="https://fiasco.social/@kellan/114092761910766291"><p>Regarding <a href="https://simonwillison.net/2025/Mar/2/hallucinations-in-code/">the recent blog post</a>, I think a simpler explanation is that hallucinating a non-existent library is a such an inhuman error it throws people. A human making such an error would be almost unforgivably careless.</p></blockquote>
+<p class="cite">&mdash; <a href="https://fiasco.social/@kellan/114092761910766291">Kellan Elliott-McCrea</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/kellan-elliott-mccrea">kellan-elliott-mccrea</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/2/kellan-elliott-mccrea/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-02, from: Dave Winer's linkblog)
+
+If I understand correctly, this TechCrunch article is misleading the same way the Bluesky company misleads. There is no  benefit to users of either app that they use the same complicated and new structure to communicate, where simpler and more established standards would work just as well. 
+
+<br> 
+
+<https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-02, from: Dave Winer's linkblog)
+
+Elon Musk’s quest for power has a new target: Wisconsin’s Supreme Court. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/mar/02/elon-musk-wisconsin>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-02, from: Dave Winer's linkblog)
+
+Anti-DEI push ends effort to plant trees in places that need them. 
+
+<br> 
+
+<https://apnews.com/article/trees-arbor-day-grants-cut-trump-heat-shade-environmental-justice-5909d4f102ac0de9cc5be313b4fbd399>
+
+---
+
+## Episode 152 - LIVE at VCF - Reviving Retro Panel
+
+date: 2025-03-02, from: Advent of Computing
+
+<p>A special treat from VCF SoCal. While visiting I had the chance to host a panel on restoration and preservation. I was joined by:</p> <p>David from Usagi Electric (<a href= "https://www.youtube.com/@UsagiElectric)">https://www.youtube.com/@UsagiElectric)</a></p> <p>Rob from Souther Amis (<a href= "https://www.southernamis.com/)">https://www.southernamis.com/)</a></p> <p>Jim, Former Executive Director Computer Museum of America (<a href= "https://computerhalloffame.org/home/about/)">https://computerhalloffame.org/home/about/)</a></p> 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://traffic.libsyn.com/secure/adventofcomputing/ep152_revive_retro_panel.mp3?dest-id=1206722"></source>
+</audio> <a href="https://traffic.libsyn.com/secure/adventofcomputing/ep152_revive_retro_panel.mp3?dest-id=1206722" target="_blank">download audio/mpeg</a><br> 
+
+<https://adventofcomputing.libsyn.com/episode-152-live-at-vcf-reviving-retro-panel>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-02, from: Dave Winer's linkblog)
+
+All or Nothing review: Michael Wolff details Trump’s bilious re-election campaign. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/mar/02/michael-wolff-all-or-nothing-book-review>
+
+---
+
+## ¿Quieres ser organizadora?
+
+date: 2025-03-02, from: Our Future.org
+
+Nos ponemos de pie, levantamos nuestras voces, y tomamos la palabra. Tengo tanto orgullo de cada uno de ustedes, los miembros de People’s Action y People’s Action Institute, que vinieron de todo el país esta semana a Washington, DC, con tanta fuerza y belleza. Frente al Capitolio, tomamos la palabra para decir a los legisladores [&#8230;]
+<p><a href="https://ourfuture.org/20250302/quieres-ser-organizadora" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250302/quieres-ser-organizadora>
+
+---
+
+## Do You Want to Be an Organizer?
+
+date: 2025-03-02, from: Our Future.org
+
+People's Action shows up, stands up, and speaks out. I am so proud of you, every member of People’s Action and People’s Action Institute, for showing up together so powerfully this week in Washington, DC. Together, we stood on the steps of the Capitol and told lawmakers and the big corporations who think they own [&#8230;]
+<p><a href="https://ourfuture.org/20250302/do-you-want-to-be-an-organizer" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250302/do-you-want-to-be-an-organizer>
+
+---
+
+## The Economics of Left-Behind Regions
+
+date: 2025-03-02, from: Paul Krugman
+
+There are doom loops everywhere you look 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-economics-of-left-behind-regions>
+
+---
+
+## Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes.
+
+date: 2025-03-02, from: Geoffrey Hunntley's blog
+
+<p><a href="https://bsky.app/profile/damieng.bsky.social/post/3ljdkwup7sc2d?ref=ghuntley.com">Damien Guard</a> nerd sniped me and and other folks wanted more proof that it is now cheap, easy and possible to <a href="https://ghuntley.com/tradecraft/" rel="noreferrer">cheaply rewrite software or clone existing &quot;source available&quot; businesses</a> (see bottom of the post).</p><p>So, let&apos;s get cracking by creating a toy application by sending</p> 
+
+<br> 
+
+<https://ghuntley.com/z80/>
+
+---
+
+## 'I LOVE THE UNEDUCATED'
+
+date: 2025-03-02, from: Howard Jacobson blog
+
+Donald Trump has signed an executive order designating English as the official language of the US. 
+
+<br> 
+
+<https://jacobsonh.substack.com/p/i-love-the-uneducated>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-02, from: Dave Winer's linkblog)
+
+Loss to 76ers provides graphic proof why Warriors paid Butler. 
+
+<br> 
+
+<https://sports.yahoo.com/article/loss-76ers-provides-graphic-proof-230448799.html>
+
+---
+
+## 18f.org
+
+date: 2025-03-02, updated: 2025-03-02, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://18f.org/">18f.org</a></strong></p>
+New site by members of 18F, the team within the US government that were doing some of the most effective work at improving government efficiency.</p>
+<blockquote>
+<p>For over 11 years, 18F has been proudly serving you to make government technology work better. We are non-partisan civil servants. 18F has worked on hundreds of projects, all designed to make government technology not just efficient but effective, and to save money for American taxpayers.</p>
+<p>However, all employees at 18F – a group that the Trump Administration GSA Technology Transformation Services Director called "the gold standard" of civic tech – were terminated today at midnight ET.</p>
+<p><strong>18F was doing exactly the type of work that DOGE claims to want – yet we were eliminated.</strong></p>
+</blockquote>
+<p>The entire team is now on "administrative leave" and locked out of their computers.</p>
+<p>But these are not the kind of civil servants to abandon their mission without a fight:</p>
+<blockquote>
+<p><strong>We’re not done yet.</strong></p>
+<p>We’re still absorbing what has happened. We’re wrestling with what it will mean for ourselves and our families, as well as the impact on our partners and the American people.</p>
+<p>But we came to the government to fix things. And we’re not done with this work yet.</p>
+<p>More to come.</p>
+</blockquote>
+<p>You can <a href="https://bsky.app/profile/team18f.bsky.social">follow @team18f.bsky.social</a> on Bluesky.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/government">government</a>, <a href="https://simonwillison.net/tags/political-hacking">political-hacking</a>, <a href="https://simonwillison.net/tags/politics">politics</a>, <a href="https://simonwillison.net/tags/bluesky">bluesky</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/2/18forg/#atom-everything>
+
+---
+
+## Plus Post: Centram TOPS Network
+
+date: 2025-03-02, from: Computer ads from the Past
+
+Can we talk? 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-centram-tops-network>
+
+---
+
+## Hallucinations in code are the least dangerous form of LLM mistakes
+
+date: 2025-03-02, updated: 2025-03-02, from: Simon Willison’s Weblog
+
+<p>A surprisingly common complaint I see from developers who have tried using LLMs for code is that they encountered a hallucination - usually the LLM inventing a method or even a full software library that doesn't exist - and it crashed their confidence in LLMs as a tool for writing code. How could anyone productively use these things if they invent methods that don't exist?</p>
+<p>Hallucinations in code <strong>are the least harmful hallucinations you can encounter from a model</strong>.</p>
+<p>The real risk from using LLMs for code is that they'll make mistakes that <em>aren't</em> instantly caught by the language compiler or interpreter. And these happen <em>all the time</em>!</p>
+
+<p>The moment you run LLM generated code, any hallucinated methods will be instantly obvious: you'll get an error. You can fix that yourself or you can feed the error back into the LLM and watch it correct itself.</p>
+<p>Compare this to hallucinations in regular prose, where you need a critical eye, strong intuitions and well developed fact checking skills to avoid sharing information that's incorrect and directly harmful to your reputation.</p>
+<p>With code you get a powerful form of fact checking for free. Run the code, see if it works.</p>
+<p>In some setups - <a href="https://simonwillison.net/tags/code-interpreter/">ChatGPT Code Interpreter</a>, <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a>, any of the growing number of "agentic" code systems that write and then execute code in a loop - the LLM system itself will spot the error and automatically correct itself.</p>
+<p>If you're using an LLM to write code without even running it yourself, <em>what are you doing?</em></p>
+<p>Hallucinated methods are such a tiny roadblock that when people complain about them I assume they've spent minimal time learning how to effectively use these systems - they dropped them at the first hurdle.</p>
+<p>My cynical side suspects they may have been looking for a reason to dismiss the technology and jumped at the first one they found.</p>
+<p>My less cynical side assumes that nobody ever warned them that you have to put a lot of work in to learn how to get good results out of these systems. I've been exploring <a href="https://simonwillison.net/tags/ai-assisted-programming/">their applications for writing code</a> for over two years now and I'm still learning new tricks (and new strengths and weaknesses) almost every day.</p>
+
+<h4 id="qa">Manually testing code is essential</h4>
+
+<p>Just because code looks good and runs without errors doesn't mean it's actually doing the right thing. No amount of meticulous code review - or even comprehensive automated tests - will demonstrably prove that code actually does the right thing. You have to run it yourself!</p>
+<p>Proving to yourself that the code works is your job. This is one of the many reasons I don't think LLMs are going to put software professionals out of work.</p>
+<p>LLM code will usually look fantastic: good variable names, convincing comments, clear type annotations and a logical structure. This can lull you into a false sense of security, in the same way that a gramatically correct and confident answer from ChatGPT might tempt you to skip fact checking or applying a skeptical eye.</p>
+<p>The way to avoid <em>those</em> problems is the same as how you avoid problems in code by other humans that you are reviewing, or code that you've written yourself: you need to actively exercise that code. You need to have great manual QA skills.</p>
+<p>A general rule for programming is that you should <em>never</em> trust any piece of code until you've seen it work with your own eye - or, even better, seen it fail and then fixed it.</p>
+<p>Across my entire career, almost every time I've assumed some code works without actively executing it - some branch condition that rarely gets hit, or an error message that I don't expect to occur - I've later come to regret that assumption.</p>
+
+<h4 id="tips">Tips for reducing hallucinations</h4>
+<p>If you really are seeing a deluge of hallucinated details in the code LLMs are producing for you, there are a bunch of things you can do about it.</p>
+<ul>
+<li>Try different models. It might be that another model has better training data for your chosen platform. As a Python and JavaScript programmer my favorite models right now are Claude 3.7 Sonnet with thinking turned on, OpenAI's o3-mini-high and GPT-4o with Code Interpreter (for Python).</li>
+<li>Learn how to use the context. If an LLM doesn't know a particular library you can often fix this by dumping in a few dozen lines of example code. LLMs are incredibly good at imitating things, and at rapidly picking up patterns from very limited examples. Modern model's have increasingly large context windows - I've recently started using Claude's new <a href="https://support.anthropic.com/en/articles/10167454-using-the-github-integration">GitHub integration</a> to dump entire repositories into the context and it's been working extremely well for me.</li>
+<li>Chose <a href="https://boringtechnology.club/">boring technology</a>. I genuinely find myself picking libraries that have been around for a while partly because that way it's much more likely that LLMs will be able to use them.</li>
+</ul>
+<p>I'll finish this rant with a related observation: I keep seeing people say "if I have to review every line of code an LLM writes, it would have been faster to write it myself!"</p>
+<p>Those people are loudly declaring that they have under-invested in the crucial skills of reading, understanding and reviewing code written by other people. I suggest getting some more practice in. Reviewing code written for you by LLMs is a great way to do that.</p>
+
+<hr />
+
+<p><em>Bonus section</em>: I asked Claude 3.7 Sonnet "extended thinking mode" to review an earlier draft of this post - "<code>Review my rant of a blog entry. I want to know if the argument is convincing, small changes I can make to improve it, if there are things I've missed.</code>". It was quite helpful, especially in providing tips to make that first draft a little less confrontational! Since you can share Claude chats now <a href="https://claude.ai/share/685cd6d9-f18a-47ef-ae42-e9815df821f1">here's that transcript</a>.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/boring-technology">boring-technology</a>, <a href="https://simonwillison.net/tags/code-interpreter">code-interpreter</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/2/hallucinations-in-code/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-02, from: Feed for Alt USDS)
+
+💔💔💔
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljercbhqy22v>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-02, from: Robert's feed at BlueSky)
+
+20 years went by quickly.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ljeopvwiyc2z>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-02, from: Dave Winer's linkblog)
+
+One of the Grimmest Days in American Diplomacy. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/02/ukraine-us-relations-trump/681880/?gift=f35zZN0v_gDFE8xNwlQAHeTYjwxXW5BWaruPT1MU64A&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-02, from: Dave Winer's linkblog)
+
+Protestors Ambush Vance During Vermont Ski Weekend: ‘Go Ski in Russia.’ 
+
+<br> 
+
+<https://www.thedailybeast.com/protestors-ambush-vance-during-vermont-ski-weekend-go-ski-in-russia/?via=twitter_page>
+
+---
+
+## My name is
+
+date: 2025-03-01, from: Rachel Kwon blog
+
+<p>What&rsquo;s in a name? Lots of things.</p>
+<h1 id="primary-name">Primary name</h1>
+<p>Most people call me Rachel. A certain subset of friends from a certain time in my life call me Kwon. I&rsquo;ll respond to either.</p>
+<h1 id="professional-name">Professional name</h1>
+<p>My coworkers call me Rachel. From 2010-2016, a lot of people called me Dr. Kwon. Infrequently these days, some people in certain contexts still try to call me Dr. Kwon, or ask me if I want to be called Dr., but most of the time I say &ldquo;just call me Rachel.&rdquo;</p> 
+
+<br> 
+
+<https://kwon.nyc/notes/my-name-is/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-01, from: Dave Winer's linkblog)
+
+Former Gov. Cuomo announces run for New York City mayor, aiming for a political comeback. 
+
+<br> 
+
+<https://www.pbs.org/newshour/politics/former-gov-cuomo-announces-run-for-new-york-city-mayor-aiming-for-a-political-comeback>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-01, from: Dave Winer's linkblog)
+
+How Knicks&#39; Mitchell Robinson and Karl-Anthony Towns will look playing together. 
+
+<br> 
+
+<https://sports.yahoo.com/article/knicks-mitchell-robinson-karl-anthony-160017703.html>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-01, from: Feed for Alt USDS)
+
+Sad to share the news that our colleagues at 18F were illegally fired overnight (emails coming in around 1am Sat.). About 90 people. 
+
+18Fers are technologists, like USDSers, and often would be co-deployed or work across different parts of the same agency.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljdmyz35ss2c>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-01, from: Feed for Alt USDS)
+
+We're joining in, get into some good trouble this weekend folks!
+
+In honor of Elon’s new 5 bullet points e-mail, drop a bullet point of an act of resistance or where you found joy this week 👇👇 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljdjfuek622g>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-01, from: Feed for Alt USDS)
+
+🚨 Reminder!! You do not report to OPM!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljdj4ngdpc2g>
+
+---
+
+## Technical English is nobody's mother tongue
+
+date: 2025-03-01, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>The part of my brain that rages against injustice stirs like a slumbering dragon when I read the words “Native English”. As a speaker of English as a second language, I find <em>native</em> to be a rather inadequate, if lazy, choice as an attribute meant to describe linguistic proficiency. You&rsquo;re born with eyes, but that doesn&rsquo;t automatically make you a competent watcher; you acquire a language, but that doesn&rsquo;t automatically turn you into a competent writer.</p> 
+
+<br> 
+
+<https://passo.uno/native-english-tech-writing/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-01, from: Dave Winer's linkblog)
+
+VP Vance is on vacation in Vermont with his family this weekend and will be skiing at Sugarbush Resort in Warren, VT. 
+
+<br> 
+
+<https://kottke.org/25/03/jd-vance-chastised-by-vermont-snow-reporter>
+
+---
+
+## Mission Drift
+
+date: 2025-03-01, updated: 2025-03-01, from: Tedium site
+
+If a company or service you rely on changes owners, you can’t be guaranteed that its mission will match what you’ve come to expect—even if, at least initially, it seems like everything’s on track. Hence why I returned a new messenger bag. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16973645/chrome-messenger-bag-corporate-mission-drift>
+
+---
+
+## The Dude Whose Brain Turned to Glass
+
+date: 2025-03-01, from: 404 Media Group
+
+He was hanging out in an ancient Roman port town 2,000 years ago, when something struck him (a deadly volcanic eruption).  
+
+<br> 
+
+<https://www.404media.co/the-dude-whose-brain-turned-to-glass/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-01, from: Dave Winer's linkblog)
+
+Heather Cox Richardson: “Today, President Donald Trump ambushed Ukraine president Volodymyr Zelensky in an attack that seemed designed to give the White House an excuse for siding with Russia in its war on Ukraine.” 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-28-2025?publication_id=20533&post_id=158160559&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Musk In Your Computers: An Interview With Nathan Tankus
+
+date: 2025-03-01, from: Paul Krugman
+
+On risks to democracy nobody even thought about 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/musk-in-your-computers-an-interview>
+
+---
+
+## Yes, Claude Code can decompile itself. Here's the source code.
+
+date: 2025-03-01, from: Geoffrey Hunntley's blog
+
+<p>These LLMs are shockingly good at deobfuscation, transpilation and structure to structure conversions. I discovered this back around Christmas where I asked an LLM to make me an Haskell audio library by transpiling a rust implementation.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/oh-fuck/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">An &#x201C;oh fuck&#x201D; moment in time</div><div class="kg-bookmark-description">Over the Christmas break I&#x2019;</div></div></a></figure> 
+
+<br> 
+
+<https://ghuntley.com/tradecraft/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-01, from: Tomosino's Mastodon feed)
+
+<p>Found it!!</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114086217064264591>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-01, from: Tomosino's Mastodon feed)
+
+<p>glitch apparently has a setting somewhere. i just can't find it</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114086194929738622>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-01, from: Tomosino's Mastodon feed)
+
+<p>I'm testing if my current settings let me post a pic without alt text. If this doesn't work, the picture is of a lovely dog sitting on a bench. He had friendly tail wags for me.</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114086127475598085>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-01, from: Tomosino's Mastodon feed)
+
+<p>Over on bluesky I just learned they have a feature to not allow yourself to post images without alt text. That's pretty handy. Before I start scouring my settings panel here, anyone know if we have something similar? I'm running glitch here, so maybe an extra?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114086045853029398>
+
+---
+
+## Summary of changes for February 2025
+
+date: 2025-03-01, from: Hundred Rabbits blog
+
+<p>Hey everyone!</p><p>This is the list of all the changes we've done to our projects during the month of February.</p>
+
+<img src="../media/content/videos/february_2025.jpg" alt="little ninj, a plus ninja, is riding a wave made up of rabbits while shouting: 9 years!" loading="lazy">
+
+<h2>Summary Of Changes</h2>
+
+<ul>
+  <li><b>100r.co</b>, added <a href="https://100r.co/site/teapot_gelcoat.html">Dinghy gelcoat</a>, <a href='https://100r.co/site/victoria_to_sitka_logbook.html#week10'>Week 10</a>, <a href='https://100r.co/site/victoria_to_sitka_logbook.html#week11'>Week 11</a>, and <a href='https://100r.co/site/victoria_to_sitka_logbook.html#week12'>Week 12</a> of the <a href="https://100r.co/site/victoria_to_sitka.html">Victoria to Sitka logbook</a>. Updated <a href="https://100r.co/site/solar.html">solar</a> with new pictures and corrected information (this page used to be called solar tips).</li>
+  <li><b><a href="https://wiki.xxiivv.com/site/nebu" target="_blank">Nebu</a></b>, released a spreadsheet editor.</li>
+  <li><b><a href="https://100r.co/site/grimgrains.html">Grimgrains</a></b>, added a new recipe: <a href="https://grimgrains.com/site/stovetop_zaatar_pizza.html" target="_blank">Stovetop zaatar pizza</a>.</li>
+  <li><b><a href="https://100r.co/site/store.html">Store</a></b>, added maritime <a href="https://100r.co/site/flag_stickers.html">flag stickers</a> for sale.</li>
+  <li><b><a href="https://100r.co/site/rabbit_waves.html">Rabbit Waves</a></b>, added a new page: <a href="https://rabbitwaves.ca/site/emergency_bag.html">Emergency Bag</a>. Updated <a href="https://rabbitwaves.ca/site/morse_flags.html" target="_blank">Morse Code with Flags</a> page with animations, released a printable <a href="https://rabbitwaves.ca/media/zines/communication.png" target="_blank">zine</a>(see <a href="https://kokorobot.ca/site/folding_zine.html" target="_blank">how to fold</a> a zine).</li>
+</ul>
+
+<p>On February 14th, we celebrated our 9th year living aboard our beloved <a href="https://100r.co/site/pino.html">Pino</a>. Read a <a href="https://wiki.xxiivv.com/site/fitness" target="_blank">short text</a> by Devine, which expands on what it means to truly be a generalist.</p>
+
+<p>Despite the weather being less-than-ideal, we were able to <a href="https://rabbits.srht.site/days/2025/02/20.html" target="_blank">install</a> our replacement solar panels, and revisit our notes on <a href="https://100r.co/site/solar.html">solar installations</a>.</p>
+
+<p>Devine completed <a href="https://wiki.xxiivv.com/site/nebu" target="_blank">Nebu</a>, a spritesheet editor as well as a <a href="https://wiki.xxiivv.com/media/generic/calendar.png" target="_blank">desktop calendar</a>, alongside many other little <a href="https://wiki.xxiivv.com/site/utilities.html" target="_blank">desktop utilities</a>. Nebu is just over 8.3 kB, a bit less than a blank excel file.</p>
+
+<p>In times of increasing climate and political instability, it is a good time to get together with your community and make plans for emergencies. Consider reading <a href="https://archive.org/details/disaster-preparedness-tokyo" target="_blank">Tokyo Bosai</a> about disaster preparedness, this elaborate document deals with disasters that occur specifically in Japan, but many of the recommendations are useful regardless. We released a new page on {rabbit waves} with suggestions on what to pack in an <a href="https://rabbitwaves.ca/site/emergency_bag.html">Emergency Bag</a>. Remember, every emergency bag is different, and what is essential varies per person.</p>
+
+<p>We also put together a print-it-yourself zine, which combines useful information about <a href="https://rabbitwaves.ca/site/morse.html" target="_blank">Morse Code and <a href="https://rabbitwaves.ca/site/flags_maritime.html" target="_blank">Signal Flags</a>. If you have printed the zine and don't know how to fold it, see Rek's <a href="https://kokorobot.ca/site/folding_zine.html" target="_blank">illustrated instructions</a>. Speaking of signal flags, we printed <a href="https://100r.co/site/flag_stickers.html" target="_blank">stickers</a> of Rek's ICS flag drawings.</p>
+
+<p>The nice weather finally arrived this week and we were able to redo Teapot's <a href="https://100r.co/site/teapot_gelcoat.html">gelcoat</a>. This was our first time working with gelcoat, our friends Rik & Kay, who lent us their workspace, were very patient and generous teachers. We will continue the project later when the gelcoat has cured.</p>
+
+<p><b>Book Club:</b> This month we are reading <i>The Goldfinch</i> by Donna Tartt.</p>
+
+<p><a href='https://100r.co/site/log.html#feb2025' target='_blank'>Continue Reading</a></p> 
+
+<br> 
+
+<https://100r.co/site/log.html#feb2025>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-01, from: Tomosino's Mastodon feed)
+
+<p>When I was a kid there were concepts that seemed pretty big and scary: the Bermuda Triangle, spontaneous human combustion, quicksand, subliminal messaging, killer bees, and cryptids.</p><p>Simpler times</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114085655497122124>
+
+---
+
+## OpenAI, in deep trouble
+
+date: 2025-03-01, from: Gary Marcus blog
+
+Maybe burning money isn&#8217;t the answer 
+
+<br> 
+
+<https://garymarcus.substack.com/p/openai-in-deep-trouble>
+
+---
+
+## llm-anthropic #24: Use new URL parameter to send attachments
+
+date: 2025-03-01, updated: 2025-03-01, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-anthropic/issues/24">llm-anthropic #24: Use new URL parameter to send attachments</a></strong></p>
+Anthropic released a neat quality of life improvement today. <a href="https://twitter.com/alexalbert__/status/1895504248206709246">Alex Albert</a>:</p>
+<blockquote>
+<p>We've added the ability to specify a public facing URL as the source for an image / document block in the Anthropic API</p>
+</blockquote>
+<p>Prior to this, any time you wanted to send an image to the Claude API you needed to base64-encode it and then include that data in the JSON. This got pretty bulky, especially in conversation scenarios where the same image data needs to get passed in every follow-up prompt.</p>
+<p>I implemented this for <a href="https://github.com/simonw/llm-anthropic">llm-anthropic</a> and shipped it just now in version 0.15.1 (here's <a href="https://github.com/simonw/llm-anthropic/commit/ac4fe809aff9842b05118e83c256690b92b49c4c">the commit</a>) - I went with a patch release version number bump because this is effectively a performance optimization which doesn't provide any new features, previously LLM would accept URLs just fine and would download and then base64 them behind the scenes.</p>
+<p>In testing this out I had a <em>really</em> impressive result from Claude 3.7 Sonnet. I found <a href="https://chroniclingamerica.loc.gov/lccn/sn86086481/1900-01-29/ed-1/seq-2/#date1=1756&amp;index=10&amp;rows=20&amp;words=PELICAN+Pelican+Pelicans+PELICANS&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1922&amp;proxtext=pelicans&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1">a newspaper page</a> from 1900 on the Library of Congress (the "Worcester spy.") and fed a URL to the PDF into Sonnet like this:</p>
+<pre><code>llm -m claude-3.7-sonnet \
+  -a 'https://tile.loc.gov/storage-services/service/ndnp/mb/batch_mb_gaia_ver02/data/sn86086481/0051717161A/1900012901/0296.pdf' \
+'transcribe all text from this image, formatted as markdown'
+</code></pre>
+<p><img alt="Screenshot of the PDF - it has many dense columns" src="https://static.simonwillison.net/static/2025/newspaper-page.jpg" /></p>
+<p>I haven't checked every sentence but it appears to have done <a href="https://gist.github.com/simonw/df1a0473e122830d55a0a3abb51384c9">an excellent job</a>, at a cost of 16 cents.</p>
+<p>As another experiment, I tried running that against my example <code>people</code> template from the schemas feature I released <a href="https://simonwillison.net/2025/Feb/28/llm-schemas/">this morning</a>:</p>
+<pre><code>llm -m claude-3.7-sonnet \
+  -a 'https://tile.loc.gov/storage-services/service/ndnp/mb/batch_mb_gaia_ver02/data/sn86086481/0051717161A/1900012901/0296.pdf' \
+  -t people
+</code></pre>
+<p>That only gave me <a href="https://github.com/simonw/llm-anthropic/issues/24#issuecomment-2691773883">two results</a> - so I tried an alternative approach where I looped the OCR text back through the same template, using <code>llm logs --cid</code> with the logged conversation ID and <code>-r</code> to extract just the raw response from the logs:</p>
+<pre><code>llm logs --cid 01jn7h45x2dafa34zk30z7ayfy -r | \
+  llm -t people -m claude-3.7-sonnet
+</code></pre>
+<p>... and that worked fantastically well! The result started like this:</p>
+<div class="highlight highlight-source-json"><pre>{
+  <span class="pl-ent">"items"</span>: [
+    {
+      <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Capt. W. R. Abercrombie<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"organization"</span>: <span class="pl-s"><span class="pl-pds">"</span>United States Army<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"role"</span>: <span class="pl-s"><span class="pl-pds">"</span>Commander of Copper River exploring expedition<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"learned"</span>: <span class="pl-s"><span class="pl-pds">"</span>Reported on the horrors along the Copper River in Alaska, including starvation, scurvy, and mental illness affecting 70% of people. He was tasked with laying out a trans-Alaskan military route and assessing resources.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"article_headline"</span>: <span class="pl-s"><span class="pl-pds">"</span>MUCH SUFFERING<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"article_date"</span>: <span class="pl-s"><span class="pl-pds">"</span>1900-01-28<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Edward Gillette<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"organization"</span>: <span class="pl-s"><span class="pl-pds">"</span>Copper River expedition<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"role"</span>: <span class="pl-s"><span class="pl-pds">"</span>Member of the expedition<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"learned"</span>: <span class="pl-s"><span class="pl-pds">"</span>Contributed a chapter to Abercrombie's report on the feasibility of establishing a railroad route up the Copper River valley, comparing it favorably to the Seattle to Skaguay route.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"article_headline"</span>: <span class="pl-s"><span class="pl-pds">"</span>MUCH SUFFERING<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"article_date"</span>: <span class="pl-s"><span class="pl-pds">"</span>1900-01-28<span class="pl-pds">"</span></span>
+    }</pre></div>
+
+<p><a href="https://github.com/simonw/llm-anthropic/issues/24#issuecomment-2691773883">Full response here</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/1/llm-anthropic/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-01, from: Feed for Alt USDS)
+
+"I fought for this country. Then I fought for public health. Now, I’ve been terminated without cause—with others who helped fight COVID-19." 
+
+Fewer experts tracking outbreaks = more risk for everyone. 
+
+🔗 https://www.wethebuilders.org/posts/i-monitored-infectious-diseases-at-the-cdc
+
+#TechForGood #SaveOurServices #altgov #publichealth 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljbnisc2es2w>
+
+---
+
+## Rewriting my site in vanilla web
+
+date: 2025-03-01, from: Lean Rada's blog
+
+
+<p>I rewrote this website in vanilla HTML/CSS/JS. Here’s the story.</p>
+
+<h2>But why?</h2>
+
+<p>Over the years, I’ve used a bunch of libraries &amp; frameworks to build <a href="https://leanrada.com/wares/personal-website?ref=rss">this website</a>, before finally making my own static site generator that I called <a href="https://github.com/Kalabasa/compose-html" target="_blank"><code>compose-html</code></a>. As the name suggests, it composes HTML files together, very much like <a href="https://astro.build/" target="_blank">Astro</a>.</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/vanilla-web-rewrite/compose-html.png?ref=rss" alt="screenshot of compose-html README">
+  <figcaption>compose-html’s README</figcaption>
+</figure>
+
+<p>I like systems that have a small set of tight abstractions that are easy to understand. I’m not a fan of rigid, non-atomic concepts like “pages” and “layouts”, “themes”, “frontmatters” — I mean, these are just ‘components’ and ‘data’! I dislike those that dictate your project directory structure and coding style.</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/vanilla-web-rewrite/project-structure-docs.png?ref=rss" alt="screenshot of a framework’s documentation">
+  <figcaption>If your documentation has a ‘Project structure’ section, I’m out!</figcaption>
+</figure>
+
+<p>So I built my own simple site builder and that was nice BUT it didn’t end up making life easier. The real world is messy, and HTML more so. Simply composing pieces of HTML together isn’t that straightforward and the abstraction leaked. My <code>compose-html</code> framework eventually turned into a 2k LoC that was more liability than freedom. Though it served me very well, it was a dead end.</p>
+
+<h2>Maybe nothing can solve my problem…</h2>
+
+<p>As in, literally nothing. No framework. No build steps.</p>
+
+<p>What if HTML wasn’t a render target, but was both the authoring and publishing medium?</p>
+
+<p>What if I rewrote my site in vanilla HTML/CSS/JS? A crazy idea infiltrated my conciousness.</p>
+
+<h2>Is it feasible?</h2>
+
+<p>A common reason for adding complexity is to avoid repetitive work like copying headers &amp; footers to every page. So we have PHP, Handlebars, Next.JS.</p>
+
+<p>Modern HTML/JS now has <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_components" target="_blank"><strong>Web Components</strong></a>, custom elements which could be used to encapsulate repetitive sections! <small>This was already possible without Web Components, but it makes it nicer.</small></p>
+
+<p>One could go write HTML like this:</p>
+
+<pre><code>&lt;!doctype html&gt;
+&lt;site-header&gt;&lt;/site-header&gt;
+&lt;main&gt;
+  My page's content
+&lt;/main&gt;
+&lt;site-footer&gt;&lt;/site-footer&gt;</code></pre>
+<box-note><strong>What about the repetitive &lt;html&gt;, &lt;head&gt;, and &lt;body&gt; tags?</strong> Fortunately, web browsers and the HTML spec itself are lenient. These tags are <a href="https://html.spec.whatwg.org/#optional-tags" target="_blank">actually optional</a>!</box-note>
+<p>One would still need to manually copy and paste some common tags like the <code>&lt;script&gt;</code> to load the custom elements, and maybe a <code>common.css</code> file and a few meta tags. But I’d say it’s a similar level of boilerplate as some other frameworks, if not a bit un-DRY.</p>
+<box-note><strong>What about people who disable JS?</strong> No problem. They would still see the main content itself, just not the navigational headers &amp; footers. I presume these people would be savvy enough to navigate by URL.</box-note>
+<p>Another reason to use a generator is to generate data-driven content, especially for blog sites which usually have a blog index page with autogenerated collections of posts.</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/vanilla-web-rewrite/blog-list.png?ref=rss" alt="screenshot of a blog post list">
+  <figcaption>A chronological list of posts.</figcaption>
+</figure>
+
+<p>I don’t want to hand-code lists of posts. Especially since a slice of the latest posts is mirrored in the homepage. As I said, the real world is messy, and there is not one absolute dogma that can solve it all. A bit of automation is perfectly fine whenever needed! Just there’s no need to build-systemify the entire site.</p>
+
+<p>With these concerns out of the way, the rewrite was looking more feasible.</p>
+
+<h2>My approach</h2>
+
+<p>To make sense of the rewrite and keep the site maintainable going forward, I decided to follow these principles:</p>
+
+<ol>
+  <li>Semantic HTML</li>
+  <li>TAC CSS methodology</li>
+  <li>
+    Web Components with Light DOM
+  </li>
+</ol>
+
+<h3>1. Semantic HTML</h3>
+
+<p>Basically means using semantic tags instead of generic <code>div</code>s and <code>span</code>s</p>
+
+<p>One example is the <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" target="_blank"><code>time</code></a> tag that I used to indicate post date.</p>
+
+<pre><code>&lt;time datetime="2025-02-26"&gt;26 Feb 2025&lt;/time&gt;</code></pre>
+
+<p>Along the usual benefits of semantic HTML, the variety of tags will come in handy in this very rewrite, which will become obvious in the next point.</p>
+
+<h3>2. TAC methodology</h3>
+
+<p><a href="https://jordanbrennan.hashnode.dev/tac-a-new-css-methodology" target="_blank">TAC methodology</a> is a modern CSS approach takes advantage of the modern web.</p>
+
+<p>The main takeaway is that we should make up <strong>new tags</strong> instead of divs-with-classes to represent conceptual components. For example:</p>
+
+<pre><code>&lt;blog-post-info hidden&gt;
+  &lt;time datetime="2025-02-26"&gt;26 Feb 2025&lt;/time&gt;
+  · 1 min read
+&lt;/blog-post-info&gt;</code></pre>
+
+
+Contrast that with, let’s say, <a href="https://getbem.com/" target="_blank">BEM methodology</a>:
+
+
+<pre><code>&lt;div class="blog-post-info blog-post-info_hidden"&gt;
+  &lt;time class="blog-post-info__date" datetime="2025-02-26"&gt;
+    26 Feb 2025
+  &lt;/time&gt;
+  · 1 min read
+&lt;/div&gt;</code></pre>
+
+
+By making up a new tag called <code>blog-post-info</code>, the styling of these elements could easily use <strong>tag</strong> and <strong>attribute</strong> selectors (the T and A of TAC!) without the need for classes! The markup is leaner, and the CSS even looks modular when taking advantage of modern CSS nesting:
+
+
+<pre><code>blog-post-info {
+  display: block; /* note: made-up tags default to `inline` */
+  color: #fff;
+
+  &amp;[hidden] {
+    display: none;
+  }
+
+  /* semantic HTML helps narrow the element to select */
+  &gt; time {
+    color: #ccc;
+    font-weight: bold
+  }
+}</code></pre>
+
+<p>While TAC was called a CSS methodology by the authors, it influences Web Component philosophy as well, into the next point.</p>
+
+<h3>3. Web Components with light DOM</h3>
+
+<p>I’ve always found the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_components" target="_blank">Web Component</a> abstraction to be a bit heavy. You have the Shadow DOM, encapsulation modes (?), slots, templates, and many more related concepts. Now, some of those are pretty useful like slots and templates (which aren’t exclusive to Web Components). But overall, Web Components feel a bit clunky.</p>
+
+<p>The <a href="https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/" target="_blank">‘light DOM’</a> approach does away with all of that. Like the example above:</p>
+
+<pre><code>&lt;blog-post-info hidden&gt;
+  &lt;time datetime="2025-02-26"&gt;26 Feb 2025&lt;/time&gt;
+  · 1 min read
+&lt;/blog-post-info&gt;</code></pre>
+
+<p>If implemented with shadow DOM, it could’ve look like this:</p>
+
+<pre><code>&lt;blog-post-info datetime="2025-02-26" minread="1"&gt;&lt;/blog-post-info&gt;
+&lt;!-- or maybe --&gt;
+&lt;blog-post-info datetime="2025-02-26"&gt;
+  1 min read
+&lt;/blog-post-info&gt;</code></pre>
+
+<p>The light DOM aligns with the TAC methodology, so it’s a good match.</p>
+
+<p>I admit scoped styles and slots are neat, but there aren’t essential (see TAC) and there are workarounds to slots. <strong>I’m not making a modular design system after all.</strong></p>
+
+<p>Using the light DOM also provides a smoother transition from plain JS style to Web Components. Relevant, as I was converting some old JS code. Imagine the following common pattern:</p>
+
+<pre><code>for (const blogPostInfo of document.querySelectorAll(".blog-post-info")) {
+  const time = blogPostInfo.querySelector("time");
+  // ... initialisation code
+}</code></pre>
+
+
+This pattern maps neatly to Web Component style:
+
+
+<pre><code>customElements.define(
+  "blog-post-info",
+  class BlogPostInfo extends HTMLElement {
+    connectedCallback() {
+      const time = this.querySelector("time");
+      // ... initialisation code
+    }
+  }
+);</code></pre>
+
+<p>The mapping was straightforward enough that I was able to partially automate the conversion via <a href="https://en.wikipedia.org/wiki/GitHub_Copilot" target="_blank">LLM</a>.</p>
+
+<p>While I’m not really making the most out of Web Components technology, I don’t actually need the extra features. I have a confession — I set <code>this.innerHTML</code> directly within a Web Component, and it’s so much simpler than setting up <code>template</code>s. I do try to sanitize.</p>
+
+<p>Details aside, these principles made the whole rewrite easier because it reduced the amount of actual refactoring. I wasn’t able to particularly follow them to the letter, especially for nasty old code. But for future code, I hope to keep using these techniques.</p>
+
+<h2>A brief premature retrospective</h2>
+
+<p><strong>Pros:</strong></p>
+
+<ul>
+  <li>Instant feedback loop. Zero build time.</li>
+  <li>No bugs out of my control. <small>It’s what turned me off <a href="https://www.11ty.dev/" target="_blank">Eleventy</a>.</small></li>
+  <li>No limitations imposed by framework or paradigm.</li>
+</ul>
+
+<p><strong>Cons:</strong></p>
+
+<ul>
+  <li>Big common files, <code>common.js</code> and <code>common.css</code>, ‘cause no bundler.</li>
+  <li>Verbose. No shortcuts, e.g. anchor tag — compare markdown links.</li>
+  <li>Frequent copy pasting.</li>
+  <li>Harder to redesign the site now.</li>
+</ul>
+
+<p>I’m fine with a little bit of verbosity. For contrast, I wrote the <a href="https://leanrada.com/htmz/" target="_blank">htmz page</a> manually in plain HTML, <em>including the syntax-highlighted code snippets!</em></p>
+
+<figure>
+  <img src="https://leanrada.com/notes/vanilla-web-rewrite/htmz-page-code.png?ref=rss" alt="source code of htmz page">
+  <figcaption>Have you ever tried manual syntax highlighting?</figcaption>
+</figure>
+
+<p>But not this time, I added the <a href="https://prismjs.com/" target="_blank">Prism.js</a> library to automate syntax highlighting.</p>
+
+<h2>Tips &amp; tricks</h2>
+
+<p><strong>AI —</strong> I used LLMs to help me convert a bunch of pages into the new style. What I did was give it an example of an old page and the converted version (manually converted by me), and then it gave me a converter script that I tweaked and ran through most of the pages. I did the same to convert components and it was a breeze. The converted script was iteratively improved upon and made more robust by me and the LLM via examples of incorrect conversions and corrected versions. I guess the trick was to give it more examples instead of more elaborate instructions.</p>
+
+<pre><code>// this snippet from the AI-assisted converter script
+// converts &lt;blog-post-info&gt; elements
+input("blog-post-info").each((i, el) =&gt; {
+  const tag = input(el);
+  const hidden = tag.attr("hidden") != null;
+  const date = tag.attr("date");
+  const readMins = tag.attr("read-mins");
+
+  let out = `&lt;blog-post-info${hidden ? " hidden" : ""}&gt;\n`;
+  const dateDate = new Date(date);
+  const yyyy = dateDate.getFullYear();
+  const mm = (dateDate.getMonth() + 1).toString().padStart(2, "0");
+  const dd = dateDate.getDate().toString().padStart(2, "0");
+  out += `  &lt;time datetime="${yyyy}-${mm}-${dd}"&gt;${date}&lt;/time&gt;\n`;
+  out += `  · ${readMins} min read\n`;
+  out += `&lt;/blog-post-info&gt;`;
+  tag.remove();
+  main.before(out + "\n\n");
+});</code></pre>
+
+<p><strong>Autoload —</strong> I added client-side JS that searched for custom tags and loaded the appropriate script files when those tags enter the viewport. In short, <em>lazy loading components</em>. I did have to impose a rigid file structure, because whenever it encounters a tag it would try to <code>import(`/components/${tagName}.js`)</code> — all my autoloaded components had to be in that flat directory. Am I a hypocrite? No, I can change that rule anytime.</p>
+
+<pre><code>// autoloads components in the viewport
+new IntersectionObserver((entries) =&gt; {
+  for (const entry of entries) {
+    if (entry.isIntersecting) {
+      if (components.has(entry.target.tagName)) {
+        import(`/components/${entry.target.tagName}.js`);
+        components.delete(entry.target.tagName);
+      }
+      intersectionObserver.unobserve(entry.target);
+    }
+  }
+});</code></pre>
+
+<p><strong>This is not an exercise in purity —</strong> This is a real website, a personal one at that. This is not a pure HTML proof-of-concept. Not a TAC role model. Not a Web Component masterpiece. I would add inline JS whenever it’s more convenient, break encapsulation if necessary, use classes instead of pure tag selectors. Don’t let the ideal pure plain static TAC+WebComponent vanilla HTML+CSS get in the way of finishing the project. In other words, pragmatism over principles.</p>
+
+<h2>Homepage redesign</h2>
+
+<p>I couldn’t resist the temptation to not just port, but redesign the site (at least, the homepage).</p>
+<prose-bleed>
+  <img src="https://leanrada.com/notes/vanilla-web-rewrite/homepage-sections.png?ref=rss" alt="screenshot of sections">
+</prose-bleed>
+<p>The homepage sections are now more dense, more desktop-equal (not mobile-first), and the bento section has been revamped!</p>
+
+<figure>
+  <prose-bleed>
+    <img src="https://leanrada.com/notes/vanilla-web-rewrite/homepage-bento.png?ref=rss" alt="screenshot of bento section">
+  </prose-bleed>
+  <figcaption>See also, autoupdating note count, project count, GitHub stats, and hit counter. Sprinkles of automation, no build system required!</figcaption>
+</figure>
+
+<p>I’ll probably add a live Spotify card in there somewhere.</p>
+<hr><prose-bleed>
+  <img src="https://leanrada.com/notes/vanilla-web-rewrite/diff.png?ref=rss" alt="1536 changed files, 25511 additions, 19076 deletions.">
+</prose-bleed>
+<p>That’s about it! The whole site rewrite went smoother and quicker than expected! And I’m quite liking the raw authoring experience. Now, how long will this new paradigm hold up? 😏</p>
+
+<img src="https://leanrada.com/notes/vanilla-web-rewrite/notebook.jpg?ref=rss" alt="notebook">
+ 
+
+<br> 
+
+<https://leanrada.com/notes/vanilla-web-rewrite/?ref=rss>
 
 ---
 
@@ -883,8 +1817,8 @@ date: 2025-02-27, from: Paul Krugman
 A recording from Paul Krugman and Nate Silver's live video 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158047707/45c85370aee69c4a0731ce90c6f609ab.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/158047707/45c85370aee69c4a0731ce90c6f609ab.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158047707/a54213b79acbc2c1cdaaffafd010e810.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158047707/a54213b79acbc2c1cdaaffafd010e810.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://paulkrugman.substack.com/p/live-with-nate-silver>
 
@@ -3431,240 +4365,4 @@ This post isn&#8217;t about AI; it&#8217;s about our future
 <br> 
 
 <https://garymarcus.substack.com/p/the-united-states-was-founded-on>
-
----
-
-**@Feed for Alt USDS** (date: 2025-02-22, from: Feed for Alt USDS)
-
-👂We're hearing from Feds who are receiving the "what did you do last week" email from an unidentified "HR" account. 
-
-To be clear, Feds will spend time (ehem, money): 
-
-📝 Writing and sending the email 
-🤖 Download and then upload ~2M emails to an LLM
-
-...efficient use of tax dollars indeed 🤔💸 
-
-<br> 
-
-<https://bsky.app/profile/altusds.bsky.social/post/3lisfhdoc5s2j>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-Why &quot;move fast and break things&quot; doesn&#39;t work for government. 
-
-<br> 
-
-<https://www.wethebuilders.org/posts/move-fast-break-things-wont-work-here>
-
----
-
-**@Feed for Alt USDS** (date: 2025-02-22, from: Feed for Alt USDS)
-
-ICYMI: @theverge.com article yesterday! Peep the piece and our website for more info ++ watch this space. 👀💥
-
-📰https://theverge.com/news/617014/federal-workers-we-the-builders-website-doge
-
-🔗https://wethebuilders.org
-
-#SaveOurServices #DOGE #BuildTheResistance #FedWorkersUnite #FedWorkers #linkinbio 
-
-<br> 
-
-<https://bsky.app/profile/altusds.bsky.social/post/3lirul4qcw22b>
-
----
-
-## New Blog Server
-
-date: 2025-02-22, from: Michael Tsai
-
-My apologies for this site being slow and dropping connections over past few days. It&#8217;s been moved to a new server and should be much faster now. Please let me know if you continue to see any issues. 
-
-<br> 
-
-<https://mjtsai.com/blog/2025/02/22/new-blog-server/>
-
----
-
-## Ural Notes Part 4: Flux and Foil
-
-date: 2025-02-22, updated: 2025-02-22, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<br> 
-
-<https://www.sevarg.net/2025/02/22/ural-notes-part-4-flux-and-foil/>
-
----
-
-## Scientists Discover Ancient Farms in the Deep Sea
-
-date: 2025-02-22, from: 404 Media Group
-
-The “farmers” are invertebrates and the “crops” are microbes and all of it is dead.  
-
-<br> 
-
-<https://www.404media.co/scientists-discover-ancient-farms-in-the-deep-sea/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-Here&#39;s a good story for one of fierce courageous reporters at the NY Times. Who should be more scared of what&#39;s coming? Blacks or Jews? 
-
-<br> 
-
-<http://scripting.com/2025/02/21/131712.html>
-
----
-
-## A Conversation with Jim Chanos
-
-date: 2025-02-22, from: Paul Krugman
-
-It&#8217;s the golden age of fraud, and other observations 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/a-conversation-with-jim-chanos>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-Donald Trump was recruited by KGB with codename &#39;Krasnov&#39;, claims ex-Soviet spy. 
-
-<br> 
-
-<https://uk.news.yahoo.com/donald-trump-recruited-kgb-codename-180759277.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-2023: Watchdog calls for House committee to uninvite Robert F. Kennedy Jr. after his comments are blasted as antisemitic. 
-
-<br> 
-
-<https://www.pbs.org/newshour/politics/watchdog-calls-for-house-committee-to-uninvite-rfk-jr-after-his-comments-are-blasted-as-antisemitic>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-“We want modern social media and public conversation online to work more like the early days of the web, where anyone could put up a blog or use RSS to subscribe to several blogs.” (Honestly this is BS. If you want to be like the web, then BE the web.) 
-
-<br> 
-
-<https://johnjohnston.info/blog/modern-social-media/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-The builders website has a blog, unfortunately no RSS feed linked to from its metadata. To help spread their advice and discoveries we need a feed. 
-
-<br> 
-
-<https://www.wethebuilders.org/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-Federal workers launch a new site to share inside information about DOGE. 
-
-<br> 
-
-<https://www.theverge.com/news/617014/federal-workers-we-the-builders-website-doge>
-
----
-
-## More coffee-pot nostalgia
-
-date: 2025-02-22, from: Status-Q blog
-
-For those who read this blog and haven&#8217;t yet exhausted their enthusiasm for Trojan Room Coffee Pot nostalgia, Peter Leigh has just produced what is perhaps the best video about it yet, on his &#8216;Nostalgia Nerd&#8217; YouTube channel. (Direct Youtube link, for those reading by email) You&#8217;ll have to get busy skipping YouTube ads, but <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/02/22/13072/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
-
-<br> 
-
-<https://statusq.org/archives/2025/02/22/13072/>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-02-22, from: Robert's feed at BlueSky)
-
-👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3liqzb4dffs2g>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-02-22, from: Robert's feed at BlueSky)
-
-What if the State of California held all federal tax payments in escrow until other states pulled their own weight.  Those states who representatives need our tax dollars could then explain themselves. 👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3liqz7fhykk2g>
-
----
-
-**@Feed for Alt USDS** (date: 2025-02-22, from: Feed for Alt USDS)
-
-The US Digital Service (USDS) - now the US DOGE Service - is being weaponized by the Trump administration to target career federal employees, dismantle safeguards, and enable corruption.
-
-👀 Read more on our site.
-
-🔗 wethebuilders.org 
-
-#DefendDemocracy #SaveOurServices #AltUSDS #fedworkers
-http://wethebuilders.org 
-
-<br> 
-
-<https://bsky.app/profile/altusds.bsky.social/post/3liqpdeaghc2b>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-Trump Fires Joint Chiefs Chairman Amid Turmoil at Pentagon. 
-
-<br> 
-
-<https://www.nytimes.com/2025/02/21/us/politics/trump-fires-cq-brown-pentagon.html?unlocked_article_code=1.y04.uNLi.YSC6oCd7mKCe&smid=url-share>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-02-22, from: Dave Winer's linkblog)
-
-Trump to shut down all 8,000 EV charging ports at federal govt buildings. 
-
-<br> 
-
-<https://electrek.co/2025/02/21/trump-to-shut-down-all-8000-ev-charging-ports-at-federal-govt-buildings/>
-
----
-
-## 2025-02-22: State of virtualizing the BSDs on Apple Silicon
-
-date: 2025-02-22, from: Brian Robert Callahan blog
-
-Testing VMWare Fusion and the Apple virtualization framework wht each *BSD 
-
-<br> 
-
-<https://briancallahan.net/blog/20250222.html>
 

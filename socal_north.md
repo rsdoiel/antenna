@@ -1,11 +1,207 @@
 ---
 title: socal north
-updated: 2025-03-01 21:10:15
+updated: 2025-03-02 07:08:33
 ---
 
 # socal north
 
-(date: 2025-03-01 21:10:15)
+(date: 2025-03-02 07:08:33)
+
+---
+
+## LA's arts community sees $14 million in fire relief
+
+date: 2025-03-02, updated: 2025-03-02, from: The LAist
+
+More than 1,700 artists and arts workers are receiving grants of up to $10,000. 
+
+<br> 
+
+<https://laist.com/news/getty-relief-arts-relief-fund-la-fires>
+
+---
+
+## After the LA fires, the Girl Scouts are doing it for themselves
+
+date: 2025-03-02, updated: 2025-03-02, from: The LAist
+
+The sisterhood is coming together to help the 3,000 displaced Girl Scouts replace their signature vests — badges, pins, troop numbers and all. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/la-fires-girl-scouts>
+
+---
+
+## Up to 3,000 more U.S. troops are ordered to the border with Mexico
+
+date: 2025-03-01, updated: 2025-03-02, from: The LAist
+
+Up to 3,000 additional troops have been ordered to the U.S.-Mexico border by Defense Secretary Pete Hegseth, the latest in President Trump's efforts to prevent illegal crossings. 
+
+<br> 
+
+<https://laist.com/news/up-to-3-000-more-u-s-troops-are-ordered-to-the-border-with-mexico>
+
+---
+
+## DOGE's savings page fixed old mistakes — and added new ones
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+An NPR review of new data added to DOGE's "wall of receipts" finds the group quietly changed previous errors, added new ones and still has little verified savings to show for its work. 
+
+<br> 
+
+<https://laist.com/news/doges-savings-page-fixed-old-mistakes-and-added-new-ones>
+
+---
+
+## The Oscars are Sunday. We got the road closures
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Heavy traffic will surround the Dolby Theatre until at least Monday morning 
+
+<br> 
+
+<https://laist.com/news/transportation/the-oscars-are-sunday-we-got-the-road-closures>
+
+---
+
+## Collaborating for a Brighter Future: FIRST Robotics Competition Dives into Innovation at The Port Hueneme
+
+date: 2025-03-01, from: Port Hueneme
+
+<p>At a ceremony held at the Port of Hueneme, Jess J. Ramirez was sworn in as president of the Oxnard Harbor District. Ventura County Supervisor Vianey Lopez administered the oath of office.</p>
+<p>The post <a href="https://www.portofhueneme.org/collaborating-for-a-brighter-future-first-robotics-competition-dives-into-innovation-at-the-port-hueneme/">Collaborating for a Brighter Future: FIRST Robotics Competition Dives into Innovation at The Port Hueneme</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<br> 
+
+<https://www.portofhueneme.org/collaborating-for-a-brighter-future-first-robotics-competition-dives-into-innovation-at-the-port-hueneme/>
+
+---
+
+## Daring train thieves target BNSF Railway, stealing $2M worth of Nike and other goods
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+A series of brazen train robberies have been carried out across the Western United States, resulting in the theft of millions of dollars worth of Nike merchandise. 
+
+<br> 
+
+<https://laist.com/news/daring-train-thieves-target-bnsf-railway-stealing-2m-worth-of-nike-and-other-goods>
+
+---
+
+## ICE is making more arrests, but critics say some claims don't add up
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Immigration authorities are making more arrests than they did under President Biden. But the Department of Homeland Security's own data shows that they're not keeping pace with White House demands. 
+
+<br> 
+
+<https://laist.com/news/ice-is-making-more-arrests-but-critics-say-some-claims-dont-add-up>
+
+---
+
+## What should win vs. what will win — here are our Oscars predictions
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+There are 10 movies in the running for best picture. Our critics are split over whether Anora or Nickel Boys should take home the prize. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/what-should-win-vs-what-will-win-here-are-our-oscars-predictions>
+
+---
+
+## Embrace Your Roots with One Story One City Events
+
+date: 2025-03-01, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Imagine a month-long event that brings the community together in an immersive literary experience—merging one novel with themed arts, crafts and experiences. This is possible with the return of the community-favorite One Story One City program. Kicking off this month, the Santa Clarita Public Library is excited to announce The [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/01/embrace-your-roots-with-one-story-one-city-events/">Embrace Your Roots with One Story One City Events</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/01/embrace-your-roots-with-one-story-one-city-events/>
+
+---
+
+## USDA unveils a $1 billion plan to address the egg crisis
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Egg prices have been going through the roof. 
+
+<br> 
+
+<https://laist.com/news/food/usda-unveils-a-1-billion-plan-to-address-the-egg-crisis>
+
+---
+
+## All grill, no bill — Fair Oaks Burger is serving free meals in Altadena
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+The restaurant is one of a few surviving structures on its block of Fair Oaks Avenue and is serving displaced residents and first responders in the parking lot. 
+
+<br> 
+
+<https://laist.com/news/food/fair-oaks-burger-free-meals-altadena-eaton-fire>
+
+---
+
+## Go Fact Yourself quiz for March 1
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Our celebrity panelists Billy Gardell and Gina Yashere go head to head this week on their knowledge of the Pittsburgh Steelers and 1990s hip hop. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-march-1>
+
+---
+
+## Homelessness service officials outline new ethics procedures after LAist reporting
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Executives with potential conflicts of interest will no longer appear on the signature lines of contracts, the L.A. homelessness services agency says. The change to LAHSA procedures was outlined after LAist found the CEO signed a $2.1 million contract with her husband’s employer. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-new-ethics-procedures>
+
+---
+
+## Pasadena Unified cuts 151 positions as enrollment losses continue across California
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+The Pasadena Unified School District board of education voted Thursday to cut the full-time positions in response to continued enrollment problems. 
+
+<br> 
+
+<https://laist.com/news/education/pasadena-unified-cuts-151-positions-enrollment-decline-california>
+
+---
+
+## Microsoft will end Skype in May, leaving some users upset
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Microsoft says it will wind down the pioneering and once ubiquitous free video calling service so it can streamline its consumer communications offerings, such as Microsoft Teams. 
+
+<br> 
+
+<https://laist.com/news/microsoft-will-end-skype-in-may>
 
 ---
 
@@ -168,6 +364,18 @@ date: 2025-02-28, from: City of Santa Clarita
 <br> 
 
 <https://santaclarita.gov/blog/2025/02/28/volunteers-needed-for-the-santa-clarita-cowboy-festival-3/>
+
+---
+
+## Why some EV buyers are getting their tax returns rejected this year
+
+date: 2025-02-28, updated: 2025-02-28, from: The LAist
+
+The federal EV tax credit, worth up to $7,500, saw big changes in 2024. For buyers, the credit typically became easier to get. But if their dealers skipped a step, it was a different story. 
+
+<br> 
+
+<https://laist.com/news/some-ev-buyers-getting-tax-returns-rejected-this-year>
 
 ---
 
@@ -1177,124 +1385,4 @@ date: 2025-02-23, from: City of Santa Clarita
 <br> 
 
 <https://santaclarita.gov/blog/2025/02/22/step-into-nature/>
-
----
-
-## Federal judge hears arguments to decide the future of Trump's federal funding freeze
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-The case, brought by attorneys general in 22 states and the District of Columbia, represents a pivotal test for the administration as it pursues a dramatic review of government spending priorities. 
-
-<br> 
-
-<https://laist.com/news/politics/federal-judge-hears-arguments-to-decide-the-future-of-trumps-federal-funding-freeze>
-
----
-
-## Elon Musk blurs the line between his government and business roles
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-The tech titan and President Trump say they will avoid any conflicts of interest, but it's difficult for the public to verify that. 
-
-<br> 
-
-<https://laist.com/news/politics/elon-musk-blurs-the-line-between-his-government-and-business-roles>
-
----
-
-## For restaurants on the coast, Palisades Fire is just the latest disaster
-
-date: 2025-02-22, updated: 2025-02-27, from: The LAist
-
-Some restaurants in Malibu, the Palisades and Santa Monica, like those throughout the industry, were already on life support after pandemic lockdowns, the Hollywood writers strike and inflation. 
-
-<br> 
-
-<https://laist.com/news/food/for-restaurants-on-the-coast-palisades-fire-is-just-the-latest-disaster>
-
----
-
-## New plaza strives to restore Westwood Village to old glory
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-Broxton Plaza, with 14,000 square feet of walkable space, has grand opening today. It's L.A.'s newest and largest pedestrian-only plaza. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/broxton-plaza-strives-to-restore-westwood-village-to-old-glory>
-
----
-
-## New plaza strives to restore Westwood Village to old glory
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-Broxton Plaza, with 14,000 square feet of walkable space, has grand opening today. It's L.A.'s newest and largest pedestrian-only plaza. 
-
-<br> 
-
-<https://laist.com/news/broxton-plaza-strives-to-restore-westwood-village-to-old-glory>
-
----
-
-## With radios and megaphones, volunteers patrol LA streets to warn communities of ICE activity
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-A coalition of grassroots groups is ramping up patrols and using real-time alerts to warn residents of ICE activity amid news of a possible "large-scale" immigration enforcement action set to take place in L.A. 
-
-<br> 
-
-<https://laist.com/news/volunteers-patrol-la-streets-ice-activity-warnings>
-
----
-
-## Go Fact Yourself quiz for February 22
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-Our celebrity panelists Jennifer Tilly and Adam Savage go head to head this week on their knowledge of The Beatles and Raymond Chandler. Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-february-22>
-
----
-
-## Judge largely blocks Trump's executive orders ending federal support for DEI programs
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-A U.S. district judge granted a preliminary injunction blocking the administration from terminating or changing federal contracts they consider equity-related. 
-
-<br> 
-
-<https://laist.com/news/politics/judge-largely-blocks-trumps-executive-orders-ending-federal-support-for-dei-programs>
-
----
-
-## Children's Hospital LA reverses course on youth gender care after Trump order
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-The hospital previously said it would pause accepting some new patients in response to a federal executive order. Now after pressure from advocates and the state, it is reversing course. 
-
-<br> 
-
-<https://laist.com/news/health/chla-resumes-gender-affirming-care-for-new-patients-under-19>
-
----
-
-## LA considers waiving development reviews for Olympics projects. Critics say priorities are skewed
-
-date: 2025-02-22, updated: 2025-02-22, from: The LAist
-
-In the run-up to the 2028 Olympics, some city leaders say development barriers need to be removed. But opponents say the damage to communities could be long-lasting. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/los-angeles-olympics-projects-review-exemption-city-council-vote>
 

@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-03-01 21:10:18
+updated: 2025-03-02 07:08:38
 ---
 
 # motorcycles
 
-(date: 2025-03-01 21:10:18)
+(date: 2025-03-02 07:08:38)
+
+---
+
+## Gallery: NASCAR And IMSA Saturday At Circuit Of The Americas
+
+date: 2025-03-02, from: Kickin the Tires blog
+
+Photos by Eric Hattey/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-nascar-and-imsa-saturday-at-circuit-of-the-americas/>
+
+---
+
+## NASCAR Driver Ty Dillon Gets ‘Smoked’ Like Texas BBQ In Foot Race At Circuit Of The Americas
+
+date: 2025-03-02, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor AUSTIN, Tex. – The Lone Star State is well-known for smoked meats and BBQ, especially in the areas surrounding Circuit of the Americas (COTA) outside of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-driver-ty-dillon-gets-smoked-gets-smoked-like-texas-bbq-at-circuit-of-the-americas/>
+
+---
+
+## Holy Heck, Trackhouse Aprilia Showed Off Its Sweet Gulf Oil MotoGP Livery
+
+date: 2025-03-01, from: Ride Apart, Electric Motorcycle News
+
+One of the most iconic liveries in motorsport history is finally on a MotoGP bike. 
+
+<br> 
+
+<https://www.rideapart.com/news/752178/trackhouse-aprilia-gulf-oil-livery/>
 
 ---
 
@@ -397,28 +433,4 @@ By Jerry Jordan, Editor HAMPTON, Ga. – Kyle Busch edged out Stewart Friesen in
 <br> 
 
 <https://kickinthetires.net/nascar/kyle-busch-wins-2025-nascar-truck-race-by-a-nose-at-atlanta-motor-speedway/>
-
----
-
-## Gallery: Blake Ulino Captures NASCAR Cup Series Qualifying Action At Atlanta Motor Speedway
-
-date: 2025-02-22, from: Kickin the Tires blog
-
-Photos by Blake Ulino/Kickin&#8217; the Tires 
-
-<br> 
-
-<https://kickinthetires.net/nascar/gallery-blake-ulino-captures-nascar-cup-series-qualifying-action-at-atlanta-motor-speedway/>
-
----
-
-## Florida Leads in Motorcyclist Deaths Yet Again, It’s Hardly Surprising
-
-date: 2025-02-22, from: Ride Apart, Electric Motorcycle News
-
-Guess what law motorcyclists in Florida don't have to follow, which they do in most other states. 
-
-<br> 
-
-<https://www.rideapart.com/news/751347/florida-leads-motorcycle-deaths-2025-no-helmet-law/>
 

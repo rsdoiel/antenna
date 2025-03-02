@@ -1,11 +1,203 @@
 ---
 title: games
-updated: 2025-03-01 21:10:17
+updated: 2025-03-02 07:08:36
 ---
 
 # games
 
-(date: 2025-03-01 21:10:17)
+(date: 2025-03-02 07:08:36)
+
+---
+
+## The must-watch anime to look out for in spring 2025
+
+date: 2025-03-02, updated: 2025-02-28, from: Polygon Website
+
+2025 continues apace with a whole new slate of highly anticipated anime premieres this spring. The spring anime season, which runs from April through June, boasts some of the year’s most exciting new series yet, including a brand-new sci-fi action anime from Cowboy Bebop creator Shinichirō Watanabe and a new Mobile Suit Gundam series directed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/525621/new-anime-spring-2025-release-calendar-schedule-watch-streaming>
+
+---
+
+## What is the Fortnite Crew Pack skin for March 2025?
+
+date: 2025-03-02, updated: 2025-03-02, from: Polygon Website
+
+Fortnite Crew is a monthly subscription service for Fortnite. Members who subscribe to Fortnite Crew receive access to the current Battle Pass, a top up of V-Bucks to their account, and perhaps most importantly, exclusive cosmetics through the Fortnite Crew Pack. As an additional incentive to keep subscribing, you also receive bonus Legacy Styles for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/23941614/fortnite-crew-pack-skin>
+
+---
+
+## How to find dapperwing locations in Monster Hunter Wilds
+
+date: 2025-03-02, updated: 2025-03-02, from: Polygon Website
+
+Dapperwings are flying endemic life in Monster Hunter Wilds. You’ll need to capture one as part of an early side quest, “Samin’s Research Report,” for the research team at the Windward Plains base camp. It’s the follow up to “Dareel’s Research Report,” in which you need to capture tracktail lizards. Our guide tells you where [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/532620/dapperwing-location>
+
+---
+
+## How to turn off auto-crafting in Monster Hunter Wilds
+
+date: 2025-03-02, updated: 2025-03-02, from: Polygon Website
+
+Auto-crafting in Monster Hunter Wilds automatically creates items as you collect resources throughout the game. From the first steps you take in the desert sands of Monster Hunter Wilds, the game’s default settings make it so it will automatically craft a whole bunch of items, like potions, as you play. This feature can be super [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/525607/auto-crafting-how-to-turn-off>
+
+---
+
+## Magic: The Gathering reveals new Spider-Man set, and you can pre-order now
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+At Toy Fair 2025, Wizards of the Coast debuted a Magic: The Gathering expansion that, frankly, I’m surprised didn’t already exist. Marvel’s Spider-Man is the latest collaboration to get the MTG treatment, with several products coming out on Sept. 26. That’s quite a ways out, but Amazon is already serving up pre-order links for a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/532629/magic-the-gathering-spider-man-mtg-play-collectors-boosters-pre-order-bundle>
+
+---
+
+## Switch 2 may look conservative, but Nintendo still has space to get wildly creative
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+This story was first published in Switchboard, a newsletter from Polygon that delivers all the latest Switch 2 news, reporting, and rumors directly to your inbox. Sign up here to get it weekly. In the lead-up to Nintendo’s reveal of the Switch 2 in January, some game writers fretted that the company behind the Game Boy, Wii, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/532080/nintendo-switch-2-weird>
+
+---
+
+## The best movies new to streaming this March
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+February is finally behind us, and with it, the year marches onward with a new slate of exciting movie releases to look forward to. We’ve got Bong Joon-ho’s satirical sci-fi thriller Mickey 17 starring Robert Pattinson, Steven Soderbergh’s spy thriller Black Bag starring Cate Blanchett and Michael Fassbender, the monster horror film Death of a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/529739/best-new-movies-netflix-amazon-prime-max-hulu-march-2025>
+
+---
+
+## The most anticipated games coming out in spring 2025
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+The good video games train isn’t stopping anytime soon. Even though 2025 has already given us Avowed, Kingdom Come: Deliverance 2, Civilization 7, Monster Hunter Wilds, Like a Dragon: Pirate Yakuza in Hawaii, and Citizen Sleeper 2: Starward Vector, there are a bunch more highly anticipated games coming out in the next few months alone. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/529898/most-anticipated-games-spring-2025-preview>
+
+---
+
+## Best design codes and how to enter design codes in Monster Hunter Wilds
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+Design codes in Monster Hunter Wilds allow you to load pre-made designs for your hunter during the character creator, formally called the “character editor.” It’s perfect for people like me — who can’t design a character to save my life — or for those who want to load a different kind of template character to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/530854/character-creator-editor-codes-how-to-enter-create>
+
+---
+
+## Bluey makes her Lego debut at Toy Fair
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+A brand new lineup of five Bluey Lego sets, inspired by everyone’s favorite precocious Blue Heeler and her family, are set to arrive on June 1. While the collaboration with Bluey was teased back in January, Lego officially unveiled the entire lineup at this year’s Toy Fair, which includes three traditional Lego sets, and a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/531810/lego-bluey-set-where-to-buy-toy-fair>
+
+---
+
+## Lego will assemble the Avengers for their Endgame battle
+
+date: 2025-03-01, updated: 2025-02-27, from: Polygon Website
+
+Lego’s next set inspired by the Marvel franchise pays homage to the final battle of Avengers: Endgame. The $99.99 set will be available starting May 1 and is a dynamic display that assembles all of the Avenger’s heavy hitters in a climactic showdown with Thanos. Announced at the 2025 Toy Fair, the 621-piece diorama set [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/530915/lego-marvel-avengers-endgame-toy-fair-where-to-buy>
+
+---
+
+## Best secondary weapon combos in Monster Hunter Wilds
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+Monster Hunter Wilds allows hunters to equip a combo of primary and secondary weapons, opening up the possibilities for new and varied tactics in the middle of a hunt without having to retreat to camp. While you&#8217;re free to mix and match from the 14 different weapon types — once you’ve got your head around [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/528919/best-weapon-combos-primary-secondary>
+
+---
+
+## Best beginner weapon in Monster Hunter Wilds
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+Figuring out the best beginner weapon to start with in Monster Hunter Wilds can be daunting, especially when there are 14 weapon types to choose from. Though you’re asked some questions early on as a way to help you discover your preferred playstyle, these don’t exactly factor into each weapon’s ease of use. To help, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/528911/best-weapons-beginners-new-players>
+
+---
+
+## Seikrets tips, hidden controls, and abilities in Monster Hunter Wilds
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+The resplendent plumage of a Seikret is one of the first sights during your adventure in Monster Hunter Wilds. These are giant bipedal bird-like creatures that serve as your mount in the game. These wyverns are like a jack of all trades, as far as adventuring goes. They can dash across the land, climb up vined [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/528147/seikret-tips-tricks-autopilot>
+
+---
+
+## Every movie and show coming to Netflix in March
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. We’re here to help. This month, we get Meghan Markle’s show, along with a John Mulaney live event. It’s celebrities all the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/530373/https-www-polygon-com-movies-517440-new-on-netflix-march-2025-movies-tv-to-watch>
+
+---
+
+## Pokémon Go Tour Unova event habitat spawns and bonuses
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+Go Tour: Unova has a set of rotating habitat spawns and bonuses across the weekend of aturday, March 1 and Sunday, March 2 in Pokémon Go As the name implies, the event focuses on the Unova region, including tie-in references specifically to the mainline games, Pokémon Black and White (and Black 2 and White 2, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/529977/go-tour-unova-habitat-schedule-spawns-bonuses>
 
 ---
 
@@ -510,76 +702,4 @@ Ever since the 2019 release of The Rise of Skywalker, Star Wars sequel trilogy s
 <br> 
 
 <https://www.polygon.com/action/527111/daisy-ridley-cleaner-movie-stunts-interview-martin-campbell>
-
----
-
-## All treasure maps and rewards in Avowed
-
-date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
-
-Treasure maps are optional objectives in Avowed that come with terrific rewards in exchange for solving head-scratching puzzles. Each treasure map is less a “map” and more a hastily and inscrutably sketched drawing pointing toward a vague location. If you find out where the treasure map points to and then head to that exact spot, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/avowed-guides/526878/treasure-maps-all-rewards-list>
-
----
-
-## How to name your game after a Japanese airport, twice
-
-date: 2025-02-22, updated: 2025-02-21, from: Polygon Website
-
-Back in 2017, Studio Koba announced Narita Boy, a game named after Tokyo’s second-biggest airport that seemed custom built for Kickstarter. It had slim-fit pixel art characters in a neon side-scrolling world. It had nostalgic ‘80s anime vibes with modern visual effects. It had a story of a developer — former Friend &#38; Foe team [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/impressions/527335/haneda-girl-demo-impressions>
-
----
-
-## The best movies leaving Netflix, Prime Video, and Criterion Channel at the end of February 2025
-
-date: 2025-02-22, updated: 2025-02-21, from: Polygon Website
-
-As we near the end of another month, it’s once again a great time to make a watchlist of movies that are leaving streaming services in the next few days. To help make sure you don’t miss anything, we’ve put together a list of some of the best options to consider. This month’s selection includes [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/525551/best-movies-netflix-amazon-criterion-leaving-february-2025>
-
----
-
-## My Loyal Shield treasure map location and solution in Avowed
-
-date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
-
-My Loyal Shield is one of Avowed&#8216;s easier treasure maps and one that doesn&#8217;t send you to the most dangerous places in a region to find its reward. You can buy this map, and the secret to finding the treasure this time consist of finding a back door and pressing a secret button. That&#8217;s it! [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/avowed-guides/527892/my-loyal-shield-treasure-map-location-solution-reward>
-
----
-
-## The Blade that Hungers treasure map location and solution in Avowed
-
-date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
-
-The Blade that Hungers is one of Avowed&#8216;s most difficult treasure maps, thanks to general clues that give you almost nothing to go on and a visual trick that makes deciphering those even more challenging. It&#8217;s worth the trouble, though. The weapon at the end is one of the most useful in the game, especially [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/avowed-guides/527972/blade-that-hungers-treasure-map-location-solution-reward>
-
----
-
-## Ancient Arrowhead treasure map location and solution in Avowed
-
-date: 2025-02-22, updated: 2025-02-22, from: Polygon Website
-
-The Ancient Arrowhead treasure map is Avowed&#8216;s welcome to the Galawin&#8217;s Tusks region — a map protected by a beetle army and a gigantic, tier-five monster, culminating in a reward perched on a cliff with a drop that leads to certain doom. Yay… You can get in and out quickly, without much bother, though having [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/avowed-guides/527823/ancient-arrowhead-treasure-map-location-solution-reward>
 

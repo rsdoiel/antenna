@@ -1,11 +1,159 @@
 ---
 title: going electric
-updated: 2025-03-01 21:10:19
+updated: 2025-03-02 07:08:39
 ---
 
 # going electric
 
-(date: 2025-03-01 21:10:19)
+(date: 2025-03-02 07:08:39)
+
+---
+
+## Ford Mustang Fox-Body Goes Electric, Keeps The Manual Transmission
+
+date: 2025-03-02, from: Inside EVs News
+
+Unlike most EV conversions that feature repurposed Tesla drive units, this conversion exclusively features aftermarket parts. 
+
+<br> 
+
+<https://insideevs.com/news/752207/foxbody-mustang-ev-swap-manual/>
+
+---
+
+## Velotric Nomad 2 launched as an ultra-comfortable fat tire adventure e-bike
+
+date: 2025-03-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/velotric-nomad-2-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Velotric has continued to regularly update its popular e-bike models, with the latest launch today bringing us the Nomad 2. This fat tire adventure bike carries a host of new features and components, offering a powerful yet comfortable ride on both city streets and off-road trails.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="403823" href="https://electrek.co/2025/03/01/velotric-nomad-2-launched-as-an-ultra-comfortable-fat-tire-adventure-e-bike/#more-403823" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/velotric-nomad-2-launched-as-an-ultra-comfortable-fat-tire-adventure-e-bike/>
+
+---
+
+## Tesla store gets taken over by Musk protesters, 9 people arrested
+
+date: 2025-03-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-protest-NYC.png?w=1600" /></div><p>A Tesla store in New York City has been taken over by people protesting Elon Musk – disrupting the operations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="403932" href="https://electrek.co/2025/03/01/tesla-store-gets-taken-over-by-musk-protesters-9-people-arrested/#more-403932" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/tesla-store-gets-taken-over-by-musk-protesters-9-people-arrested/>
+
+---
+
+## MAN Trucks Electric Commercial Vehicles Consultation wants to electrify your fleet
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/MAN_EV-charging.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electrifying your commercial fleet is a tricky thing. Sure, you want to cut your fuel costs. You want to reduce your operating variables. Heck you you even want to help corporate meet their ESG goals – but where do you start? MAN Trucks is here to help fleet managers get answers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,man-truck-bus" data-layer-viewtype="unknown" data-post-id="403903" href="https://electrek.co/2025/03/01/man-trucks-electric-commercial-vehicles-consultation-wants-to-electrify-your-fleet/#more-403903" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/man-trucks-electric-commercial-vehicles-consultation-wants-to-electrify-your-fleet/>
+
+---
+
+## BYD sales SURGE in February, exports up 187% over last year
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BYD_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>BYD is cementing its place as the global leader in plug-in car production with new models, innovative battery tech, and rapid global expansion plans – even in the face of tariffs. BYD’s latest accolade? Record-setting sales!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,china,ev-sales" data-layer-viewtype="unknown" data-post-id="403879" href="https://electrek.co/2025/03/01/byd-sales-surge-in-february-exports-up-187-over-last-year/#more-403879" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/byd-sales-surge-in-february-exports-up-187-over-last-year/>
+
+---
+
+## Hyundai, Kia’s Hot Streak For EV And Hybrid Sales Continued In February
+
+date: 2025-03-01, from: Inside EVs News
+
+The Ioniq 5, EV9 and even the Ioniq 6 help the Korean powerhouses continue their record sales run in the U.S. 
+
+<br> 
+
+<https://insideevs.com/news/752208/hyundai-kia-record-ev-hybrid-sales-february/>
+
+---
+
+## The 1,527 Horsepower Xiaomi SU7 Might Be The Real Deal On Track
+
+date: 2025-03-01, from: Inside EVs News
+
+The Taycan-beating Chinese super sedan has finally been driven by Chinese media. They're impressed. 
+
+<br> 
+
+<https://insideevs.com/news/752190/xiaomi-su7-ultra-on-track/>
+
+---
+
+## Mack Trucks, Terex Utilities partner on electric bucket truck
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/mack-trucks_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mack Trucks and Terex Utilities have announced plans to reveal the next generation of their zero-emissions utility bucket trucks at Work Truck Week in Indiana later this month – and it looks fantastic!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,mack-trucks" data-layer-viewtype="unknown" data-post-id="403851" href="https://electrek.co/2025/03/01/mack-trucks-terex-utilities-partner-on-electric-bucket-truck/#more-403851" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/mack-trucks-terex-utilities-partner-on-electric-bucket-truck/>
+
+---
+
+## E-quipment highlight: Tadano eGR-1000XLL-1 EVOLT 100 ton electric crane
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/tadano_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tadano first showed its massive, 100-ton electric rough-terrain crane at last year’s ConExpo, <a href="https://electrek.co/2024/10/21/tadano-gr-1000xll-evolt-100-ton-electric-crane-is-coming-to-america-video/">promising the same lifting capacity as its 100-ton diesel counterpart</a>. Now, we know a little more about this big lifter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="crane,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="403833" href="https://electrek.co/2025/03/01/e-quipment-highlight-tadano-egr-1000xll-1-100-ton-electric-crane/#more-403833" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/e-quipment-highlight-tadano-egr-1000xll-1-100-ton-electric-crane/>
+
+---
+
+## Massachusetts launches a two-year V2X pilot program
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Kia-EV9-Canada-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Massachusetts is launching a first-of-its-kind statewide vehicle-to-everything (V2X) pilot program. This two-year initiative, backed by the Massachusetts Clean Energy Center (MassCEC), aims to deploy 100 bidirectional chargers to homes, school buses, municipal, and commercial fleet participants across the state.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="massachusetts,v2x,vehicle-to-grid,vehicle-to-everything" data-layer-viewtype="unknown" data-post-id="403824" href="https://electrek.co/2025/02/28/massachusetts-launches-a-two-year-v2x-pilot-program/#more-403824" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/massachusetts-launches-a-two-year-v2x-pilot-program/>
 
 ---
 
@@ -1735,40 +1883,4 @@ Mini has never made a production rear-wheel drive vehicle, but BMW’s Neue Klas
 <br> 
 
 <https://insideevs.com/news/751521/future-mini-electric-vehicles-rwd/>
-
----
-
-## The Chevrolet Equinox EV Peaks At 150 KW. It’s Still Faster On A 250 KW Charger
-
-date: 2025-02-22, from: Inside EVs News
-
-Tom Moloughney put the American EV to the test at three different DC fast chargers. The fastest station was not the most powerful. 
-
-<br> 
-
-<https://insideevs.com/news/751289/chevrolet-equinox-ev-350kw-charging-test/>
-
----
-
-## New Tesla Model Y First Reviews: 'Night And Day'
-
-date: 2025-02-22, from: Inside EVs News
-
-Reviewers say the new Model Y is way quieter, more comfortable and higher-quality than before.  
-
-<br> 
-
-<https://insideevs.com/news/751503/new-model-y-review-2026/>
-
----
-
-## This 250,000-Mile Tesla Model S Took Nearly 3 Hours To Fully 'Fast' Charge
-
-date: 2025-02-22, from: Inside EVs News
-
-Don't worry, though, its performance isn't quite as bad as it may look. 
-
-<br> 
-
-<https://insideevs.com/news/751343/tesla-model-s-250k-miles-charging/>
 

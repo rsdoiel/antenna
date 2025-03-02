@@ -1,11 +1,841 @@
 ---
 title: north america
-updated: 2025-03-01 21:10:14
+updated: 2025-03-02 07:08:32
 ---
 
 # north america
 
-(date: 2025-03-01 21:10:14)
+(date: 2025-03-02 07:08:32)
+
+---
+
+##  Honey, we’re selling the government 
+
+date: 2025-03-02, from: The Lever News
+
+ Musk taps into his private government piggybank while Trump tries to privatize federal agencies, and more news from The Lever this week.  
+
+<br> 
+
+<https://www.levernews.com/lever-weekly-honey-were-selling-the-government/>
+
+---
+
+## The Oval Outrage—and The Contrarian Counter
+
+date: 2025-03-01, from: The Contrarian
+
+Publisher's Roundup, 7 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-oval-outrageand-the-contrarian>
+
+---
+
+##  YOU LOVE TO SEE IT: Microplastics Meet Their Match 
+
+date: 2025-03-01, from: The Lever News
+
+ Your fruit bowl comes to the rescue, traffic tax hits the jackpot, anti-abortion activists get buffered, and the Granite State goes green.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-microplastics-meet-their-match/>
+
+---
+
+## VOA Spanish: Mexico used 20 aircraft to extradite drug traffickers to the US
+
+date: 2025-03-01, from: VOA News USA
+
+In Mexico, authorities reported that the delivery to the United States of 29 people linked to drug trafficking was possible through an unprecedented police operation, in which 20 aircraft and thousands of agents participated.
+
+
+Click here for the full story in Spanish. 
+
+<br> 
+
+<https://www.voanews.com/a/voa-spanish-mexico-used-20-aircraft-to-extradite-drug-traffickers-to-the-us-/7993325.html>
+
+---
+
+## Are egg producers inflating prices during bird flu outbreak to boost profits?
+
+date: 2025-03-01, from: VOA News USA
+
+omaha, nebraska — Egg producers blame the bird flu outbreak for driving prices to record highs, but critics believe giant companies are taking advantage of their market dominance to profit handsomely at the expense of budget-conscious egg buyers. 
+
+
+Advocacy groups, Democratic lawmakers and a Federal Trade Commission member are calling for a government investigation after egg prices spiked to a record average of $4.95 per dozen this month. The Trump administration did unveil a plan this week to combat bird flu, but how much that might ease egg prices — a key driver of inflation — remains to be seen. 
+
+
+"Donald Trump promised to lower food prices on 'Day One,' but with egg prices skyrocketing out of control, he fired the workers charged with containing bird flu. Working families need relief now," Senator Elizabeth Warren said in a statement. 
+
+
+What's behind the record egg prices? 
+
+
+The industry blames bird flu, as do most experts. More than 166 million birds have been slaughtered to try to contain the virus. Some 30 million egg layers have been wiped out just since January, significantly disrupting egg supplies. The Department of Agriculture's long-standing policy has been to kill entire flocks anytime the virus is found on a farm. 
+
+
+As a result, the number of egg layers has dropped nationwide by about 12% from before the outbreak to 292 million birds, according to a Feb. 1 USDA estimate, but another 11 million egg layers have been killed since then, so it's likely worse. When prices spiked to $4.82 two years ago and prompted initial calls for price gouging probes, the flock was above 300 million. 
+
+
+"This has nothing to do with anything other than bird flu. And I think to suggest anything else is a misreading of the facts and the reality," American Egg Board President Emily Metz said. 
+
+
+"Our farmers are in the fight of their lives, period, full stop. And they're doing everything they can to keep these birds safe," Metz said. "This is a supply challenge. Due to bird flu. Nothing else." 
+
+
+Farm Action suspects monopolistic behavior. The group that lobbies on behalf of smaller farmers, consumers and rural communities notes that egg production is down only about 4% from last year and 7.57 billion table eggs were produced last month, yet some consumers are still finding egg shelves empty at their local grocery stores. 
+
+
+
+
+"Dominant egg corporations are blaming avian flu for the price hikes that we're seeing. But while the egg supply has fallen only slightly, these companies profits have soared," said Angela Huffman, Farm Action's president. The Justice Department acknowledged receiving the group's letter calling for an investigation but declined to comment on it. 
+
+
+The fact that a jury ruled in 2023 that major egg producers used various means to limit the domestic supply of eggs to increase the price of products during the 2000s only adds to the doubts about their motives now. 
+
+
+What do the numbers show? 
+
+
+Retail egg prices had generally remained below $2 per dozen for years before this outbreak began. Prices have more than doubled since then, boosting profits for egg producers even as they deal with soaring costs. 
+
+
+Most of the dominant producers are privately held companies and don't release their results. But the biggest, Cal-Maine Foods, which supplies about 20% of the nation's eggs, is public, and its profits increased dramatically. Cal-Maine reported a $219 million profit in the most recent quarter when its eggs sold for an average of $2.74 per dozen, up from just $1.2 million in the quarter just before this outbreak began in early 2022 when its eggs were selling for $1.37 per dozen. 
+
+
+Sherman Miller, Cal-Maine's president and CEO, said in reporting the numbers that higher market prices "have continued to rise this fiscal year as supply levels of shell eggs have been restricted due to recent outbreaks of highly pathogenic avian influenza." 
+
+
+But he said Cal-Maine also sold significantly more eggs — 330 million dozen, up from 288 million the year before — in the quarter because demand is so strong and Cal-Maine has made a number of acquisitions. Cal-Maine also suffered few outbreaks on its farms, outside of a couple facilities in Kansas and Texas. The Mississippi-based company didn't respond to calls from The Associated Press. 
+
+
+What about production costs? 
+
+
+Economists and analysts say the record egg prices aren't a sure sign of something nefarious, and short-term profits might only last until farms get hit. Once a flock is slaughtered, it can take as long as a year to clean a farm and raise new birds to egg-laying age. The USDA pays farmers for every bird killed, but it doesn't cover all the costs for farmers as they go without income. 
+
+
+"The consumer, I think, will probably feel like they're getting the rough end of the stick. But I guarantee you, the farmers that are having to depopulate the barns, they're having a rougher time," CoBank analyst Brian Earnest said. 
+
+
+Inflation in the costs of feed, fuel and labor have contributed to rising egg prices, and farmers have been investing in biosecurity measures to help keep the virus away. So production costs also appear to be at an all-time high, according to the U.S. Bureau of Labor Statistics' producer price index. 
+
+
+"This isn't a case where they're taking the price up to gouge the market. It is the price is going up through auction at wholesale. And they're benefiting from higher prices because supplies are tight," University of Arkansas agricultural economist Jada Thompson said. 
+
+<br> 
+
+<https://www.voanews.com/a/are-egg-producers-inflating-prices-during-bird-flu-outbreak-to-boost-profits-/7993385.html>
+
+---
+
+## Gene Hackman likely died Feb. 17, last day of activity on pacemaker, official says
+
+date: 2025-03-01, from: VOA News USA
+
+Academy Award-winning actor Gene Hackman likely died on Feb. 17, the last day there was any activity on his pacemaker, Santa Fe County Sheriff Adan Mendoza said Friday. "According to the pathologist," Mendoza said, "that is a very good assumption that was his last day of life," nine days before investigators found his body.
+
+
+The bodies of Hackman, 95, and his wife, Betsy Arakawa, 64, a classical pianist, were found, along with the dead body of one of their three dogs, Wednesday in their home in the southwestern U.S. state of New Mexico.
+
+
+The initial findings of autopsies on the couple revealed that Hackman and his wife both tested negative for carbon monoxide poisoning and "no external trauma" was reported to either of them.  Mendoza said, "There were no apparent signs of foul play."
+
+
+However, the couple’s "manner and cause of death has not been determined," according to the sheriff. "The official results of the autopsy and toxicology reports are pending."
+
+
+Investigators have retrieved an assortment of prescription and over-the-counter medications, in addition to cellphones and records from medical diagnostics testing from the house.
+
+
+"I'm pretty confident there is no foul play," Mendoza said Friday on The Today Show. He said the autopsy results "will steer us in the right direction" in determining what happened to Hackman and his wife.
+
+
+Without the autopsy, the sheriff said, it is difficult to determine how long the couple had been dead.
+
+
+A search warrant affidavit issued Thursday said the circumstances surrounding the couple's deaths were "suspicious enough in nature to require a thorough search and investigation."
+
+
+
+
+Mendoza told The Today Show that several doors around the house were unlocked and one door in the rear of the house was open. Earlier reports said the front door was open.
+
+
+Hackman's body was found near the rear of the house, while his wife's body was found in a bathroom. The dead dog's body was found in a dog crate, not far from Arakawa's body. The couple had three German shepherds. The other two dogs were found alive and healthy at the property.
+
+
+The search warrant affidavit also revealed that police called the Santa Fe Fire Department and the New Mexico Gas Company to Hackman's residence, but no toxic fumes or leaky pipes were found on the grounds.
+
+
+Storied career
+
+
+Hackman had a lengthy career on stage and screen, including appearing in Broadway shows, on television and in more than 80 films.
+
+
+He won an Oscar for best actor for his role in the 1971 film The French Connection and a best supporting Oscar for the 1992 film Unforgiven.
+
+
+Hackman's resume featured three other Oscar nominations, including his breakout role in Bonnie and Clyde in 1967 as well as I Never Sang for My Father in 1970 and Mississippi Burning in 1988.
+
+
+His work crossed genres as he appeared in action movies, thrillers and off-beat comedies.
+
+
+In addition to his award-nominated works, he was also known for roles in films such as The Poseidon Adventure, Young Frankenstein, Superman, Hoosiers, The Birdcage, and The Royal Tenenbaums.
+
+
+His last film was Welcome to Mooseport in 2004.
+
+
+His loss was immediately felt throughout the entertainment community as fellow artists praised him on social media. Director Francis Ford Coppola and actor Morgan Freeman were among those who posted their remembrances of the actor.
+
+
+"The loss of a great artist, always cause for both mourning and celebration," Coppola posted on Instagram. "Gene Hackman a great actor, inspiring and magnificent in his work and complexity. I mourn his loss and celebrate his existence and contribution." Hackman starred in Coppola's 1974 film The Conversation.
+
+
+Freeman posted on Instagram: "One of the personal highlights of my career was bringing the French Film Gardé a Vue (Under Suspicion) to life with the incredibly gifted Gene Hackman. And of course... Unforgiven. Rest in peace, my friend."
+
+
+Some information for this report came from The Associated Press, Agence France-Presse and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/gene-hackman-likely-died-feb-17-last-day-of-activity-on-pacemaker-official-says/7993422.html>
+
+---
+
+## Illinois jury convicts man of murdering Palestinian American boy
+
+date: 2025-03-01, from: VOA News USA
+
+An Illinois jury on Friday found a man guilty of murder and hate crime charges for an October 2023 stabbing that killed a 6-year-old Palestinian American boy and severely wounded his mother, according to court documents.
+
+
+Joseph Czuba, 73, faces life in prison when he is sentenced in May for a murder that prosecutors said was sparked by anti-Muslim hatred. It took place just days after Hamas, a U.S.-designated terrorist organization, carried out an Oct. 7, 2023, attack inside Israel.
+
+
+The murder of the boy, Wadee Alfayoumi, and the attack on his mother, Hanan Shaheen, constituted one of the earliest and worst hate crime incidents targeting Muslims in the U.S. after the Hamas attack on Israel.
+
+
+Rights advocates have noted rising Islamophobia and antisemitism in the U.S. since that attack.
+
+
+Czuba, who was the landlord for Shaheen and her son, stabbed the boy 26 times with a military-style knife with an 18-centimeter (7-inch) serrated blade, authorities said. Shaheen suffered multiple stab wounds in the attack, which occurred in Plainfield Township, about 64 kilometers (40 miles) southwest of Chicago.
+
+
+During the trial this week, Shaheen testified that Czuba told her "you, as a Muslim, must die," according to local media reports.
+
+
+Michael Fitzgerald, prosecutor at the Will County State's Attorney's Office, presented a 911 call recording in the trial.
+
+
+"The landlord is killing me and my baby," Shaheen is heard saying on the audio, according to CBS Chicago.
+
+
+Other U.S. incidents raising alarm about anti-Arab bias include the attempted drowning of a 3-year-old Palestinian American girl in Texas and the stabbing of a Palestinian American man in Texas.
+
+
+A few incidents raising alarm about antisemitism include threats of violence against Jews at Cornell University that led to a conviction and sentencing, and an unsuccessful plot to attack a New York Jewish center. 
+
+<br> 
+
+<https://www.voanews.com/a/illinois-jury-convicts-man-of-murdering-palestinian-american-boy/7993389.html>
+
+---
+
+## Firings at Forest Service Raise Alarm Over Corporate Takeover of Public Lands
+
+date: 2025-03-01, from: Capital and Main
+
+<p>Employees warn that recent dismissals could weaken protections for public lands as the new administration selects a former timber executive to head the agency. </p>
+<p>The post <a href="https://capitalandmain.com/firings-at-forest-service-raise-alarm-over-corporate-takeover-of-public-lands">Firings at Forest Service Raise Alarm Over Corporate Takeover of Public Lands</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/firings-at-forest-service-raise-alarm-over-corporate-takeover-of-public-lands>
+
+---
+
+## Measles cases rise to 146 in outbreak that led to first US measles death in 10 years
+
+date: 2025-03-01, from: VOA News USA
+
+DALLAS, TEXAS — The number of people with measles in Texas increased to 146 in an outbreak that led this week to the death of an unvaccinated school-aged child, health officials said Friday. 
+
+
+The number of cases — Texas' largest in nearly 30 years — increased by 22 since Tuesday. The Texas Department of State Health Services said cases span over nine counties in Texas and 20 patients have been hospitalized. 
+
+
+The child who died Tuesday night in the outbreak is the first U.S. death from the highly contagious but preventable respiratory disease since 2015, the U.S. Centers for Disease Control and Prevention said. 
+
+
+Robert F. Kennedy Jr., the nation's top health official and a vaccine critic, said Wednesday that the U.S. Department of the Health and Human Services was watching cases but dismissed the outbreak as "not unusual." 
+
+
+But on Friday afternoon, Kennedy said in a post on X that his heart went out to families impacted by the outbreak, and he recognized "the serious impact of this outbreak on families, children, and healthcare workers." 
+
+
+Kennedy also said his agency will continue to fund Texas' immunization program and that ending the outbreak is a "top priority" for him and his team. 
+
+
+The virus has largely spread through rural, oil rig-dotted West Texas, with cases concentrated in a "close-knit, undervaccinated" Mennonite community, state health department spokesperson Lara Anton has said. 
+
+
+Gaines County has a strong homeschooling and private school community. It is also home to one of the highest rates of school-aged children in Texas who have opted out of at least one required vaccine, with nearly 14% skipping a required dose last school year. 
+
+
+Texas law allows children to get an exemption from school vaccines for reasons of conscience, including religious beliefs. Anton has said the number of unvaccinated kids in Gaines County is likely significantly higher because homeschooled children's data would not be reported. 
+
+
+The measles, mumps and rubella (MMR) vaccine is safe and highly effective at preventing infection and severe cases. The first shot is recommended for children ages 12 to 15 months, and the second for ages 4 to 6 years. Most kids will recover from measles, but infection can lead to dangerous complications such as pneumonia, blindness, brain swelling and death. 
+
+
+Vaccination rates have declined nationwide since the COVID-19 pandemic, and most states are below the 95% vaccination threshold for kindergartners — the level needed to protect communities against measles outbreaks. 
+
+
+The U.S. had considered measles eliminated in 2000, which meant there had been a halt in continuous spread of the disease for at least a year. Measles cases rose in 2024, including a Chicago outbreak that sickened more than 60. 
+
+
+Eastern New Mexico has nine cases of measles, but the state health department said there is no connection to the outbreak in West Texas. 
+
+
+At a news conference Friday in Austin, officials urged people to get vaccinated if they are not already. 
+
+
+"We're here to say quite simply: Measles can kill, ignorance can kill and vaccine denial definitely kills," said U.S. Rep. Lloyd Doggett, a Democrat. 
+
+<br> 
+
+<https://www.voanews.com/a/measles-cases-rise-to-146-in-outbreak-that-led-to-first-us-measles-death-in-10-years/7993364.html>
+
+---
+
+## What the Trump-Zelenskyy meeting says about the world economic order
+
+date: 2025-03-01, from: Market Place, Make me Smart
+
+<p>A meeting between Ukrainian President Volodymyr Zelenskyy and U.S. President Donald Trump today dissolved into a heated argument in the Oval Office, flipping the switch of the global economic order. Kai Ryssdal and guest host Nova Safo discuss what they took away from the contentious meeting and what it might mean for American-style capitalism. Plus, we&#8217;ll shift gears and play a lively round of Half Full/Half Empty!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.cnn.com/2025/02/28/politics/trump-zelensky-vance-oval-office/index.html" target="_blank" rel="noreferrer noopener">&#8220;Trump, Vance castigate Zelensky in tense Oval Office meeting&#8221;</a> from CNN Politics</li>
+<li><a href="https://www.nytimes.com/2025/02/28/technology/microsoft-skype-shutting-down.html#:~:text=For%20users%2C%20Skype%20will%20go,video%20calls%20and%20group%20meetings" target="_blank" rel="noreferrer noopener">&#8220;Microsoft Will Shut Down Skype in Favor of a Free Version of Teams&#8221;</a> from The New York Times</li>
+<li><a href="https://www.nytimes.com/2025/02/27/business/media/jeopardy-wheel-of-fortune-streaming.html?partner=slack&amp;smid=sl-share" target="_blank" rel="noreferrer noopener">&#8220;‘Jeopardy!’ and ‘Wheel of Fortune’ to Leap to Streaming&#8221;</a> from The New York Times</li>
+<li><a href="https://www.marketplace.org/2025/02/28/tech-companies-quantum-computing-amazon/" target="_blank" rel="noreferrer noopener">&#8220;Why are tech companies investing in quantum computing?&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2025/02/25/book-blurbs-publishing-authors/" target="_blank" rel="noreferrer noopener">&#8220;Why some authors and publishers are nixing book blurbs&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2025/02/28/bond-market-like-ice-cream-roulette/" target="_blank" rel="noreferrer noopener">&#8220;Lately, the scoop on the bond market is like ice cream roulette&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2025/02/28/peoples-union-usa-economic-blackout-boycott/" target="_blank" rel="noreferrer noopener">&#8220;How much impact could a 24-hour “economic blackout” have?&#8221;</a> from Marketplace</li>
+</ul>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/28/mms_20250228_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-the-trump-zelenskyy-meeting-says-about-the-world-economic-order&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/28/mms_20250228_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-the-trump-zelenskyy-meeting-says-about-the-world-economic-order&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/what-the-trump-zelenskyy-meeting-says-about-the-world-economic-order>
+
+---
+
+## European leaders stand by Ukraine after heated exchange between Trump, Zelenskyy
+
+date: 2025-03-01, from: VOA News USA
+
+European leaders across much of the continent vowed to stand by Ukraine after a White House meeting between U.S. President Donald Trump and Ukrainian President Volodymyr Zelenskyy turned into a heated exchange Friday, with Trump calling Zelenskyy "disrespectful."
+
+
+European Union foreign policy chief Kaja Kallas said it has become clear that "the free world needs a new leader."
+
+"Ukraine is Europe! We stand by Ukraine," Kallas wrote on the social media platform X.
+
+
+German Chancellor Olaf Scholz said on X, "Ukraine can rely on Germany — and on Europe," while Spanish Prime Minister Pedro Sanchez wrote on social media, "Ukraine, Spain stands with you."
+
+
+"Dear @ZelenskyyUa, dear Ukrainian friends, you are not alone," wrote Polish Prime Minister Donald Tusk on X.
+
+
+French President Emmanuel Macron told reporters in Portugal, "Russia is the aggressor, and Ukraine is the aggressed people."
+
+Other European leaders, including from Finland, the Netherlands, the Czech Republic and Norway, also took to social media to voice support for Ukraine.
+
+
+Not all European leaders backed Ukraine. Hungarian Prime Minister Viktor Orban, who has long been critical of EU military aid to Kyiv, posted on X, "President @realDonaldTrump stood bravely for peace. Even if it was difficult for many to digest. Thank you, Mr. President!"
+
+
+The meeting between Trump and Zelenskyy came as the two countries were seeking a deal that would allow the U.S. access to Ukrainian rare mineral rights. The discussion took a combative tone about 40 minutes into the meeting when Zelenskyy raised Russia's 2014 invasion of Crimea.
+
+
+U.S. Vice President JD Vance immediately criticized Zelenskyy, accusing him of engaging in a "propaganda tour."
+
+
+Both Vance and Trump accused the Ukrainian leader of not being thankful for the assistance his country has received from Washington.
+
+
+After the meeting abruptly ended, the White House confirmed that the mineral deal was not signed.
+
+
+US response
+
+
+In the U.S., many Republicans in Congress expressed support for Trump's actions.
+
+
+Senator Lindsey Graham, who has previously supported military aid to Ukraine, said, "What I saw in the Oval Office was disrespectful and I don't know if we can ever do business with Zelenskyy again."
+
+
+House Republican leader Steve Scalise, who has also previously supported military aid to Ukraine, wrote on X, "President Trump is fighting for PEACE around the world and is putting America First as our best negotiator — he's the only one to get Russia to the table to consider a serious and lasting peace agreement with Ukraine."
+
+
+Republican Representative Andy Biggs wrote on X, "Dictator Zelensky had the audacity to disrespect President @realDonaldTrump and VP @JDVance during what should have been a friendly meeting, and @POTUS rightfully showed him the door. This is the leadership America has craved for four years."
+
+
+Democratic leaders in Congress argued that Trump's actions would only benefit Russia.
+
+
+"Trump and Vance are doing [Russian President Vladimir] Putin's dirty work. Senate Democrats will never stop fighting for freedom and democracy," Senate Democratic leader Chuck Schumer said.
+
+
+House Democratic leader Hakeem Jeffries wrote in a statement, "Today's White House meeting with the President of Ukraine was appalling and will only serve to further embolden Vladimir Putin, a brutal dictator. The United States must not reward Russian aggression and continue to appease Putin."
+
+
+Some information for this report came from The Associated Press and Reuters. 
+
+<br> 
+
+<https://www.voanews.com/a/european-leaders-stand-by-ukraine-after-heated-exchange-between-trump-zelenskyy-/7993337.html>
+
+---
+
+## Iowa removes gender identity protections from state's civil rights code
+
+date: 2025-03-01, from: VOA News USA
+
+DES MOINES, Iowa — Iowa became the first U.S. state to remove gender identity protections from its civil rights code on Friday when Governor Kim Reynolds signed into law a bill that opponents say will expose transgender people and other Iowans to discrimination in all aspects of daily life. 
+
+
+The new law, which goes into effect July 1, follows several years of action from Reynolds and Iowa Republicans to restrict transgender students' use of such spaces as bathrooms and locker rooms, and their participation on sports teams, in an effort to protect people assigned female at birth. Republicans say those policies cannot co-exist with a civil rights code that includes gender identity protections. 
+
+
+The law passed quickly after being introduced last week. It also creates explicit legal definitions of female and male based on their reproductive organs at birth, rejecting the idea that a person can transition to another gender. Reynolds proposed a similar bill last year, but it didn't make it to a vote of the full House or Senate. 
+
+
+Reynolds posted a video on social media explaining her signature on the bill and acknowledging that it was a "sensitive issue for some." 
+
+
+"It's common sense to acknowledge the obvious biological differences between men and women. In fact, it's necessary to secure genuine equal protection for women and girls," she said, adding that the previous civil rights code "blurred the biological line between the sexes." 
+
+
+President Donald Trump signed an executive order on his first day in office to formalize a definition of the two sexes at the federal level, leading several Republican-led legislatures to push for laws defining male and female. Trump posted in support of the Iowa bill on his Truth Social platform Thursday after it got final approval from the Iowa House and Senate. 
+
+
+
+
+Five House Republicans joined all Democrats in the House and Senate in voting against the bill. Iowa state Representative Aime Wichtendahl was the final Democrat to speak before the vote, wiping away tears as she offered her personal story as a transgender woman, saying: "I transitioned to save my life." 
+
+
+"The purpose of this bill and the purpose of every anti-trans bill is to further erase us from public life and to stigmatize our existence," Wichtendahl said. "The sum total of every anti-trans and anti-LGBTQ bill is to make our existence illegal." 
+
+
+Hundreds of LGBTQ+ advocates streamed into the Capitol rotunda on Thursday waving signs reading "Trans rights are human rights" and chanting slogans including "No hate in our state!" There was a heavy police presence, with state troopers stationed around the rotunda. The few protesters who lingered for final passage of the bill were emotional. 
+
+
+Not all states include gender identity in their civil rights codes, but Iowa is now the first in the U.S. to remove nondiscrimination protections based on gender identity, said Logan Casey, director of policy research at the Movement Advancement Project, an LGBTQ+ rights think tank. 
+
+
+Sexual orientation and gender identity were not originally included in the state's Civil Rights Act of 1965. They were added by the Democratic-controlled Legislature in 2007, with the support of about a dozen Republicans across the two chambers. 
+
+
+
+
+The House Republican moving the bill Thursday, Representative Steven Holt, said that if the Legislature can add protections, it can remove them. 
+
+
+As of July 1, Iowa's civil rights law will protect against discrimination based on race, color, creed, sex, sexual orientation, religion, national origin or disability status. 
+
+
+Iowa's Supreme Court has expressly rejected the argument that discrimination based on sex includes discrimination based on gender identity. 
+
+
+Advocacy groups promise to defend transgender rights, which may lead them to court. 
+
+
+Keenan Crow, director of policy and advocacy for LGBTQ+ advocacy group One Iowa, said the organization is still analyzing the text of the bill and that its vagueness makes it "hard to determine where the enforcement is going to come from." 
+
+
+"We will pursue any legal options available to us," Crow said. 
+
+<br> 
+
+<https://www.voanews.com/a/iowa-removes-gender-identity-protections-from-state-s-civil-rights-code/7993352.html>
+
+---
+
+## US tariff hike on vehicle imports could impact Nigeria's auto market
+
+date: 2025-03-01, from: VOA News USA
+
+ABUJA, NIGERIA — For longtime automotive importer David Tope, Nigeria's auto market has become increasingly difficult. He used to import up to five vehicles per week from the United States and Canada. But since 2023, import costs have surged dramatically, driven by currency depreciation and increased duties.
+
+
+By early 2025, Tope paused his import business.
+
+
+"It's not just the country that's the thing, but our inflation rate is so high on duties and the naira devaluation — so it's affecting importing from any country at all," said Tope. "It's not just for the car to be cheap, but also for our custom duties to be reconsidered so that the normal man can at least survive this business of car dealership."
+
+
+While Tope mulls his next move, the U.S. announced an impending 25% tariff on vehicle imports, starting in April.
+
+
+Though the policy targets cars entering the U.S., the decision could impact Nigeria's auto market, which depends on American used car exports.
+
+
+"U.S. is the main market of importation that we do, so if inflation rate of 25% is being put on their cars, it's going to affect Nigeria market," Tope said. "If the cars are being produced in U.S., it is going to be cheaper for us. But if the cars are being imported to U.S, then exported to us, the inflation rate will be unbearable for car dealers like me."
+
+
+Importers aren't the only ones affected. Vehicle prices in Nigeria have jumped nearly 400% over the past two years, putting car ownership out of reach for many consumers.
+
+
+Nigerians such as Emmanuel Aaron and Akintunde Akinmolaye worry the U.S. tariff will exacerbate price woes.
+
+
+"Honestly, the cost has gone so, so high that my interest in buying cars has to be suspended," Aaron said.
+
+
+"We know that U.S. cars are built with quality, care and comfort compared to other places," said Akinmolaye, "but in terms of cost now, cost may make one jettison all those preferences."
+
+
+Economist Hauwa Mustapha believes a 25% U.S. tariff could reshape Nigeria's auto market. If the U.S. prioritizes local vehicle production, fewer used cars could be available for export, pushing up prices in Nigeria.
+
+
+Beyond affordability, she said the import business itself is at risk. Thousands of Nigerians depend on vehicle imports for their livelihoods — from importers to mechanics, parts dealers and transport workers.
+
+
+Currently, Nigeria produces about 14,000 vehicles annually, a small fraction of what its market demands. Experts say strengthening local manufacturing is the only long-term solution.
+
+
+Mustapha said more needs to be done to revive and strengthen the country's steel industry.
+
+
+Shoring up Nigeria's supportive infrastructure, she said, "will enable more production of some of these already locally assembled vehicles."
+
+
+For now, Nigerian importers like Tope are in wait-and-see mode. 
+
+<br> 
+
+<https://www.voanews.com/a/us-tariff-hike-on-vehicle-imports-could-impact-nigeria-s-auto-market-/7993129.html>
+
+---
+
+## Can frozen be just as good as fresh?
+
+date: 2025-03-01, from: Market Place
+
+Journalist Meghan McCarron, along with elite chefs, has come to appreciate the new, better-tasting options as well as the convenience. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/28/can-frozen-be-just-as-good-as-fresh/>
+
+---
+
+## UN chief urges US to reverse ‘severe’ aid cuts to humanitarian programs
+
+date: 2025-03-01, from: VOA News USA
+
+NEW YORK — U.N. Secretary-General Antonio Guterres said Friday that Washington has notified many U.N. agencies and humanitarian and development organizations this week of “severe” funding cuts, which he said will be “devastating” for the world’s most vulnerable people, and he urged the Trump administration to reconsider them.
+
+
+“Going through with these cuts will make the world less healthy, less safe and less prosperous,” Guterres told reporters at the United Nations. “The reduction of America’s humanitarian role and influence will run counter to American interests globally.”
+
+
+He urged the United States, as well as other countries that have recently announced reductions in humanitarian and development aid, to reverse their decisions after more careful reviews of the programs.
+
+
+“In the meantime, every United Nations agency stands ready to provide the necessary information and justification for its projects,” Guterres added. “And we look forward to working with the United States in this regard.”
+
+
+
+
+The U.N. chief did not give a dollar figure of how much the U.N. and its agencies will lose and would not take reporters’ questions. But the United States is the largest single donor in terms of humanitarian funding to the United Nations humanitarian appeal. In 2024, it provided $14 billion, just over 40% of the total contributions. By contrast, Germany, the second-largest contributor, provided $2.7 billion, or about 8% of global funding.
+
+
+The Trump administration, through its Department of Government Efficiency, or DOGE, has slashed $60 billion in overseas assistance as part of its effort to massively cut government costs. That included shuttering the U.S. Agency for International Development (USAID) and reversing decades of U.S. foreign policy that viewed the soft power of humanitarian aid as being in America’s national interest.
+
+
+That has left scores of international aid agencies scrambling to try to keep their programs going. The secretary-general said U.N. staff in the field are also taking urgent steps to protect as much of their lifesaving work as possible.
+
+
+Guterres gave some examples of where U.S. cuts would affect — or already have affected — provision of critical services.
+
+
+“In Afghanistan, more than 9 million people will miss out on health and protection services, with hundreds of mobile health teams and other services suspended,” he said.
+
+
+In South Sudan, he said, funding has run out for programs to support people who have fled the war in neighboring Sudan. And in Ukraine, cash-based humanitarian assistance has been suspended in key regions.
+
+
+
+
+“Our absolute priority remains clear,” Guterres said. “We will do everything we can to provide lifesaving aid to those in urgent need. And we will continue our efforts to diversify the pool of generous donors who support our work.”
+
+
+Questioned later by reporters, Guterres’ spokesperson said the agencies had been informed by letter of the cuts, most coming from USAID’s acting deputy administrator, Peter Marocco. Spokesperson Stephane Dujarric said that U.N. officials “at a fairly senior level” had tried to talk with U.S. officials about the cuts.
+
+
+“But I can’t say we’ve detected much interest in engaging on this issue,” he said.
+
+
+Dujarric listed some of the agencies that have received termination letters, including the Food and Agriculture Organization (FAO), which received 27 letters; the International Office for Migration (IOM), which had 22 of 25 USAID programs terminated; and the U.N. Office on Drugs and Crime (UNODC), which had about 50 projects terminated.
+
+
+“Their office in Mexico, which deals among other things with the flow of fentanyl, may have to close,” Dujarric said of UNODC. “It will impact their programs in Central America and the Darien Gap focusing on fighting human trafficking.”
+
+
+UNAIDS, which provides lifesaving HIV treatment around the world, said Friday that it received a letter from Washington on Thursday terminating its agreement with UNAIDS “with immediate effect.”
+
+
+This follows the decision in late January by Secretary of State Marco Rubio to continue funding UNAIDS while the U.S. foreign assistance review was ongoing and other international assistance was paused.
+
+
+
+
+“This is a serious development which impacts the entire HIV response, including in the continuity of lifesaving HIV services for people living with and affected by HIV, civil society and our partners,” UNAIDS said in a statement.
+
+
+Since 2003, through its PEPFAR program, the United States has helped save more than 26 million lives by investing in critical HIV prevention, treatment, care and support programs in 55 countries.
+
+
+Rubio has said that going forward, all foreign aid must make America safer, stronger and more prosperous.
+
+
+A State Department spokesperson said Thursday that so far more than 9,100 foreign assistance-related grants worth over $15.9 billion have been reviewed. More than 4,100 grants worth nearly $4.4 billion have been identified for elimination as part of “the America First agenda” — a 28% reduction in total grant value.
+
+
+“USAID evaluated 6,200 multiyear awards with $58.2 billion in value remaining,” the spokesperson added. “At the conclusion of a process led by USAID leadership, including tranches personally reviewed by Secretary Rubio, nearly 5,800 awards with $54 billion in value remaining were identified for elimination as part of the America First agenda — a 92% reduction.”
+
+
+State Department Correspondent Nike Ching contributed to this report. Some information came from The Associated Press. 
+
+<br> 
+
+<https://www.voanews.com/a/un-chief-urges-us-to-reverse-severe-aid-cuts-to-humanitarian-programs/7993125.html>
+
+---
+
+## After the fires, will behind-the-scenes film and TV workers also leave LA?
+
+date: 2025-03-01, from: Market Place
+
+The roughly 13,000 homes lost in January’s wildfires will only make Los Angeles less affordable for below-the-line workers, Paul Audley of FilmLA fears. 
+
+<br> 
+
+<https://www.marketplace.org/2025/02/28/will-behind-the-scenes-workers-film-tv-leave-los-angeles/>
+
+---
+
+## White House media access stirs debate
+
+date: 2025-03-01, from: VOA News USA
+
+WASHINGTON — Who gets access to cover the White House and what their role is have been the subject of debate over the past few weeks.
+
+
+The two main issues are a lawsuit filed by The Associated Press to contest the White House's restrictions on its reporters, and the White House's announcement that it is taking control of the pool system that provides close-up coverage of the president.
+
+
+Here's a breakdown on the cases.
+
+
+White House to pick press pool 
+
+
+In a departure from decadeslong precedent, White House press secretary Karoline Leavitt told reporters Tuesday that the White House will decide which reporters make up the press pool.
+
+
+"Legacy outlets who have participated in the press pool for decades will still be allowed to join — fear not," Leavitt said during a press briefing. "We will also be offering the privilege to well-deserving outlets who have never been allowed to share in this awesome responsibility."
+
+
+The press pool is a rotating group of journalists from print, TV and radio who cover the president up close each day for the broader press corps. VOA is among the outlets that provides pool coverage.
+
+
+The White House Correspondents' Association, or WHCA, has coordinated the press pool since the 1950s. The association's nearly 800 members represent nearly 300 news organizations. Not all members of the association are part of the presidential pool – only those that can devote the time and resources needed to accompany the president on trips.
+
+
+The WHCA described the decision to change the system as an affront to press freedom.
+
+
+"This move tears at the independence of a free press in the United States," WHCA president Eugene Daniels said in a statement. "In a free country, leaders must not be able to choose their own press corps."
+
+
+Some media outlets that are part of the pool and rely on its coverage have said the change could hamper the spread of reliable information.
+
+
+AP restrictions 
+
+
+A judge this week described the White House's ban on The AP as "problematic" but declined to immediately order the White House to restore the news agency's access.
+
+
+The nonprofit news agency has been blocked from some White House events, as well as the Oval Office and Air Force One, over its editorial decision to retain the "Gulf of Mexico" name to refer to the body of water that Trump renamed the Gulf of America via an executive order.
+
+
+After Trump issued his "Gulf of America" executive order, the news agency said it would continue referring to the body of water as the Gulf of Mexico while acknowledging the name Trump had picked in an effort to avoid confusing its international audiences.
+
+
+Many news outlets have followed The AP's lead, but others, including VOA, Fox and Axios, have changed their style to reflect the executive order. VOA, like many other media outlets, also subscribes to The AP's news and video services.
+
+
+Jane Kirtley, a media ethics and law professor at the University of Minnesota, said it could be considered unethical for news outlets to comply with such orders from a president.
+
+
+"I think there is an argument that the ethical thing to do for a news organization is to resist that," Kirtley told VOA. "In order to maintain their independence, they sometimes need to fight back against overreaching by the government."
+
+
+In a lawsuit filed Feb. 21, The AP said the ban violates its First Amendment free speech rights and its Fifth Amendment procedural rights, because it had no chance to appeal the decision internally.
+
+
+Trump has stood by the ban, saying, "We're gonna keep them [The AP] out until such time as they agree that it's the Gulf of America."
+
+
+At the Monday court hearing, U.S. District Judge Trevor McFadden said The AP had not yet demonstrated that it had suffered irreparable harm.
+
+
+The White House celebrated McFadden's ruling. "As we have said from the beginning, asking the president of the United States questions in the Oval Office and aboard Air Force One is a privilege granted to journalists, not a legal right," it said in a statement.
+
+
+Still, McFadden said the White House's restriction on AP was problematic. "It seems pretty clearly viewpoint discrimination," he said.
+
+
+Viewpoint discrimination is when the government retaliates against individuals or news outlets over specific viewpoints. The Supreme Court has repeatedly ruled that such discrimination constitutes a First Amendment violation because it prevents a level playing field for all opinions.
+
+
+After the Monday hearing, AP spokesperson Lauren Easton said in a statement that the news agency looked forward to the next hearing "where we will continue to stand for the right of the press and the public to speak freely without government retaliation."
+
+
+In its statement after the Monday hearing, the White House said, "We stand by our decision to hold the Fake News accountable for their lies."
+
+
+The next hearing in The AP's lawsuit is set for March 20. 
+
+<br> 
+
+<https://www.voanews.com/a/debate-over-white-house-media-access/7993114.html>
+
+---
+
+## China's backdoor to US markets may be closing soon
+
+date: 2025-03-01, from: VOA News USA
+
+washington — President Donald Trump's 25% tariff on imports from Mexico and Canada, scheduled to kick in Tuesday, will affect not only those two countries but also will have direct implications on Chinese companies. 
+
+
+The Hofusan Industrial Park is a complex about 20 km north of Monterrey, Mexico, and a 2.5-hour drive to the U.S. border city of Laredo, Texas. The industrial park, set up specifically for Chinese companies, describes itself as "an ideal logistics hub for the North American market" on its website.  
+
+
+The site also promotes itself as "an alternative” to exporting Chinese products to America" and lists "to avoid trade barriers" as reasons for Chinese capital to be invested in the Mexico-based industrial park.
+
+
+At a Thursday news conference, Trump repeated his reasons for imposing 25% tariffs on Mexico and Canada and an additional 10% tariff on imports from China, which also goes into effect Tuesday.
+
+
+"The drugs come in through Mexico. A lot of them, not all, but a lot come from China, and that's why we did that," Trump said.
+
+
+The tariffs are not aimed solely at drugs, according to Evan Ellis, research professor of Latin American studies and a China expert at the U.S. Army War College.
+
+
+He told VOA that Trump “also is sending the message that his administration will not allow Chinese companies to use Mexico as a pass-through, for tariff-free access to the U.S. market, by reinventing themselves as Mexican companies, however attractive such investment may be in the short term to Mexico."
+
+
+The 25% tariff on Mexican imports will "significantly" affect these Chinese businesses, said Christopher Tang, business and supply chain professor at the University of California-Los Angeles. 
+
+
+"These tariffs can erode their competitive advantage and profit margins. The tariffs effectively close the U.S. market door for these companies unless they find alternative strategies to mitigate the impact," Tang said.  
+
+
+Chinese companies that operate within the Hofusan Industrial Park did not respond to VOA's requests for comment. 
+
+
+Tang expects Chinese companies in Mexico to either refocus on Latin American markets, if they stay in Mexico, or move their operations to the U.S. or Asia to avoid the steep tariff. 
+
+
+Gary Hufbauer, a senior fellow at the Peterson Institute for International Economics in Washington, said, "Chinese companies located in Canada or Mexico will obviously be targets of the United States. Therefore, I think Chinese companies need to look for other locations, and possible destinations include Australia, Japan, Nordic countries, the United Kingdom, Brazil."
+
+
+Mexico: cost-effective alternative 
+
+
+Tariffs imposed during Trump's first term, maintained and expanded during Joe Biden's presidency, plus higher transportation costs in recent years, prompted many Chinese companies to look for an alternate, more cost-effective way of entering the U.S. market.  
+
+
+Mexico became their first choice for building factories, and the Hofusan Industrial Park tailored for Chinese enterprises broke ground in 2017.  
+
+
+Some companies import products or components from China to produce in Mexico and export to the United States.  
+
+
+Others have been manufacturing and assembling their products in Mexico, putting on the "Made in Mexico" label, and sending the products to the United States with no tariff. 
+
+
+Currently there are about 40 companies in the industrial park, including engineering equipment manufacturer Lingong Heavy Machinery, electric car manufacturer BYD, home appliance manufacturer Hisense, solar panel manufacturer Trina Solar and Man Wah Furniture. 
+
+
+The United States-Mexico-Canada Agreement (USMCA), implemented in July 2020, allows Mexican-made products that meet certain rules of origin to enter the U.S. tariff free.  
+
+
+The agreement is up for review and renewal in July 2026. If it is not renewed or if there are even more tariffs imposed on Mexican imports, "the incentives for Chinese investment going to Mexico will largely go away, and thus Mexico will not reap the continued benefits of the current rush by Chinese companies to invest in Mexico to take advantage of nearshoring anyway," said Ellis. 
+
+ 
+
+Chinese reshoring 
+
+
+Xeneta, an Oslo-based company that analyzes air and ocean freight markets, said in a study last year that China's trade with Mexico was "the fastest growing trade route on the planet."
+
+
+Chinese foreign direct investment (FDI) in Mexico has also increased significantly over the past five years. The automotive industry has long been a major driver of Chinese direct investment in Mexico, accounting for about a third of Mexican investment since the mid-2010s. But in the past few years, it has become the main driver of investment. 
+
+
+According to an analysis by the research firm Rhodium Group, in 2023, Chinese companies invested $2.72 billion in the automotive sector, accounting for 72% of China's investment in Mexico that year. This trend continued until the first half of 2024, with automotive industry investment accounting for three-quarters of China's total investment in Mexico. 
+
+
+Backdoor concern 
+
+
+Mexico's rapidly growing trade relationship with China has aroused concerns in the United States that Chinese companies are using the "backdoor" of USMCA to continue to import goods into the U.S. 
+
+
+Nick Vyas, a global supply chain expert at the University of Southern California's Marshall School of Business, told VOA that Chinese companies setting up factories in Mexico have become a pressing issue in bilateral trade negotiations between the United States and Mexico. 
+
+
+"Chinese direct or indirect investment in Mexico has now become a question," he said. "When we say 'Made in Mexico,' is it really made in Mexico or is it assembled in Mexico?" 
+
+
+"Traceability and trade compliance will be the focus of the next generation of trade issues," said Vyas, who believes that Mexican President Claudia Sheinbaum is likely to sacrifice the interests of these Chinese companies if necessary. 
+
+
+Ellis said, "It is likely that there will be an escalation in the trade war that will further damage the already fragile PRC [People’s Republic of China] economy and Chinese companies, if the PRC government responds with tariffs of its own." 
+
+
+But a trade war is also worrying U.S. businesses and consumers, said Tang. 
+
+
+"Cost goes up, price goes up, and availability/choices will go down," he said. "[The] U.S. needs time to rebuild its industrial ecosystem that has been hollowed out since the 1980s. Pushing so many tariffs all at once without securing the production capabilities and capacity is very risky." 
+
+<br> 
+
+<https://www.voanews.com/a/china-s-backdoor-to-us-markets-may-be-closing-soon-/7993320.html>
 
 ---
 
@@ -6820,579 +7650,4 @@ Later, the president and first lady Melania Trump were hosting an evening recept
 <br> 
 
 <https://www.voanews.com/a/trump-revels-in-mass-federal-firings-jeers-at-biden-before-cpac-crowd-/7984872.html>
-
----
-
-## US, Uzbekistan reaffirm commitment to Central Asia security
-
-date: 2025-02-22, from: VOA News USA
-
-WASHINGTON — As the Trump administration begins to engage with Central Asia, Uzbekistan has expressed eagerness to expand its strategic partnership, highlighting what it calls its "enhanced" political dialogue on bilateral and regional issues and security cooperation, including its "solid connection" with the Mississippi National Guard.
-
-
-The U.S. recently got back its seven Black Hawk helicopters from Uzbekistan that Afghan military pilots had flown there in 2021 while fleeing the Taliban.
-
-
-This transfer and other bilateral exchanges within the last month have underscored Tashkent's role as Washington's key partner in Central Asia, according to U.S. officials. However, analysts see the military relationship as largely transactional and shaped by geopolitical complexities and regional tensions.
-
-
-Talk between diplomats 
-
-
-In a phone conversation on February 21 with Uzbek Foreign Minister Bakhtiyor Saidov, U.S. Secretary of State Marco Rubio reiterated U.S. support for the country's independence, sovereignty, and territorial integrity, according to State Department's spokesperson Tammy Bruce.
-
-
-They discussed a joint effort through the C5+1 diplomatic platform, launched nearly a decade ago between Washington and five Central Asian republics. The Trump administration is interested in using this platform to support "a more peaceful and prosperous Central Asia."
-
-
-Saidov described his talk with Rubio as "candid and productive," aiming to expand the "strategic partnership between our nations in all spheres without an exception. Building strong bridges between business communities, increasing trade volume in both directions, ensuring prosperous development in Central Asia."
-
-
-
-
-Cooperation with Pentagon, ties with Mississippi 
-
-
-Uzbek Ambassador Furqat Sidikov says his country's forces "have stood shoulder-to-shoulder with the Mississippi National Guard in the best ways," citing joint exercises and Pentagon-sponsored professional exchanges.
-
-
-"We are a reliable partner of the United States in the region," Sidikov said at a January 31 embassy reception, pointing to defense reforms and improvements in the Uzbek military's equipment.
-
-
-Mississippi National Guard Adjutant General Major General Bobby Ginn emphasized at the event that since 2012, the partnership has facilitated more than 170 engagements between U.S. and Uzbek soldiers, strengthening disaster response and readiness.
-
-
-
-
-"Uzbekistan's commitment to regional stability and contributions to counterterrorism efforts and border security" demonstrate the power of its armed forces, Ginn said.
-
-
-Davis Florick, the Pentagon's acting principal director for Eurasia, also attending the reception, thanked Tashkent for "storing" U.S. aircraft and diligently working with America toward the mutually beneficial solution. He confirmed that the seven Black Hawks were part of a fleet from Afghanistan that, according to multiple sources, included 24 helicopters, among them Mi-17s and UH-60s, and 22 fixed-wing aircraft, most of which were transferred to Uzbekistan last year.
-
-
-Another high-level Pentagon official, Rear Admiral Erin Osborne, speaking at the same gathering, praised Uzbekistan as a "critical ally" that offered its airspace and an air base during the initial years of the U.S. military campaign in Afghanistan. The republic was also part of Pentagon's Northern Distribution Network, delivering nonmilitary goods to the international coalition fighting in the neighboring country.
-
-
-Osborne said that mutual trust and understanding were reflected in "capacity-building initiatives and the sharing of intelligence to counter common threats."
-
-
-The U.S., she added, is committed to working with Uzbekistan "to ensure its stability and sovereignty, as well as the stability and sovereignty of the entire Central Asian region."
-
-
-
-
-The Taliban and the Afghanistan factor
-
-
-Even though the transfer of the Black Hawks back to the U.S. was disclosed at the embassy event, Uzbek officials have been tight-lipped about this collaboration to avoid any tension with the Taliban, which has condemned the handovers as an infringement on Afghanistan's sovereignty. The Taliban's Defense Ministry issued a statement denouncing the transfer as "unacceptable" and demanding the return of the aircraft.
-
-
-Eighteen U.S. aircraft also ended up in Tajikistan in 2021, but Washington and Dushanbe have yet to settle the matter.
-
-
-During a visit to the region in June 2022, U.S. Central Command commander General Michael Kurilla said the aircraft would not be returned to Afghanistan "because they do not belong to the Taliban … Our hope is to be able to hand over some or all of the aircraft to the Tajik government."
-
-
-Washington analysts view Uzbekistan as the most active U.S. military partner in the region, comparing it with the activities other republics in Central Asia have with their state partners, specifically Kazakhstan with Arizona, Tajikistan with Virginia, and Kyrgyzstan and Turkmenistan with Montana.
-
-
-Still, they characterize Tashkent-Washington security relationship as more transactional than strategic.
-
-
-"The Uzbeks want training and equipment. What do we want from them? A reliable partner in the region," said a former U.S. official with extensive experience in Central Asia, speaking to VOA on the condition of anonymity for professional reasons.
-
-
-The U.S. has trained Uzbek pilots to operate and maintain the transferred aircraft, but continued congressional funding — amounting to several million dollars — is crucial for sustained cooperation.
-
-
-"There will be questions from Congress, of course," the former official said. "The primary justification so far has been that these assets would help counter extremists from Afghanistan."
-
-
-Meanwhile, experts in Tashkent support Uzbekistan's cautious approach to the Taliban. As officials have said, Uzbekistan will engage with whoever governs Afghanistan. While it does not officially recognize the Taliban, the administration of President Shavkat Mirziyoyev has forged stable diplomatic relations with Kabul, holds significant investment and business agreements with the country, and provides humanitarian aid to the Afghan people. Last summer, Uzbekistan opened a free economic zone in the city of Termez on the border with Afghanistan, inviting neighbors to foster entrepreneurial cooperation.
-
-
-
-
-U.S. interests and Central Asian security
-
-
-The U.S. maintains military cooperation agreements with each Central Asian republic, with plans reviewed annually and subject to funding approval.
-
-
-Despite intelligence-sharing efforts, there is no U.S.-Uzbekistan overflight agreement. Tashkent does not allow its territory to be used for strikes on neighboring soil, even against terrorist targets.
-
-
-"The Trump administration may question this," said the former U.S. official. "It complicates the case for cooperation with Uzbekistan because they're centrally located, yet we must fly around them. It's hard to justify what we're getting in return."
-
-
-For years, the U.S. has also supported regional border security initiatives.
-
-
-"That's the big program," the former U.S. official said, but added: "How many terrorists have we stopped? How many have been disrupted, killed, or captured? Do we have those hard numbers? We are still in the nascent stages of setting up the program." 
-
-<br> 
-
-<https://www.voanews.com/a/us-uzbekistan-reaffirm-commitment-to-central-asia-security/7984698.html>
-
----
-
-## Spring training—for democracy!
-
-date: 2025-02-22, from: The Contrarian
-
-Publisher's Roundup 6 
-
-<br> 
-
-<https://contrarian.substack.com/p/spring-trainingfor-democracy>
-
----
-
-## Trump urges Musk to be more aggressive in bid to shrink US government
-
-date: 2025-02-22, from: VOA News USA
-
-WASHINGTON — U.S. President Donald Trump on Saturday urged billionaire Elon Musk to be more aggressive in his efforts to shrink the federal government despite the uproar over layoffs and deep spending cuts.
-
-
-"Elon is doing a great job, but I would like to see him get more aggressive," Trump posted all in uppercase letters on his Truth Social platform. "Remember, we have a country to save, but ultimately, to make greater than ever before. MAGA!"
-
-
-Musk's Department of Government Efficiency, or DOGE — an entity created by Trump — has swept across federal government agencies, firing tens of thousands of federal government workers, from scientists to park rangers, mostly those on probation. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-urges-musk-to-be-more-aggressive-in-bid-to-shrink-us-government/7984399.html>
-
----
-
-##  YOU LOVE TO SEE IT: “Today I Am Finally Free” 
-
-date: 2025-02-22, from: The Lever News
-
- A legendary activist is released, an arms race slows down, abortion providers get their license, and shoppers dump their toxic exes.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-today-i-am-finally-free/>
-
----
-
-## Trump-Putin summit preparations are underway, Russia says
-
-date: 2025-02-22, from: VOA News USA
-
-Preparations are underway for a face-to-face meeting between U.S. President Donald Trump and Russian President Vladimir Putin, Russia’s deputy foreign minister said Saturday, marking a clear departure from Western efforts to isolate Moscow over its war in Ukraine.
-
-
-Speaking to Russian state media, Sergei Ryabkov said a possible Putin-Trump summit could involve broad talks on global issues, not just the war in Ukraine.
-
-
-“The question is about starting to move toward normalizing relations between our countries, finding ways to resolve the most acute and potentially very, very dangerous situations, of which there are many, Ukraine among them,” he said.
-
-
-But he said that efforts to organize such a meeting are at an early stage, and that making it happen will require “the most intensive preparatory work."
-
-
-Ryabkov said that U.S. and Russian envoys could meet “within the next two weeks” to pave the way for further talks between senior officials.
-
-
-Russian and U.S. representatives meeting in Saudi Arabia on Tuesday agreed to start working toward ending the war in Ukraine and improving their diplomatic and economic ties, an extraordinary about-face in U.S. foreign policy under Trump. Senior U.S. officials have suggested Ukraine will have to give up its goals of joining NATO and retaining the 20% of its territory seized by Russia.
-
-
-After the meeting, U.S. Secretary of State Marco Rubio told the AP that the two sides agreed broadly to pursue three goals: to restore staffing at their respective embassies in Washington and Moscow; to create a high-level team to support Ukraine peace talks; and to explore closer relations and economic cooperation.
-
-
-He stressed, however, that the talks — which were attended by his Russian counterpart, Sergey Lavrov, and other senior Russian and U.S. officials — marked the beginning of a conversation, and that more work needs to be done. Lavrov, for his part, hailed the meeting as “very useful.”
-
-
-No Ukrainian officials were present at the meeting, which came as the beleaguered country is slowly but steadily losing ground against more-numerous Russian troops, three years after Moscow launched an all-out invasion of its smaller neighbor.
-
-
-Ukrainian President Volodymyr Zelenskyy said his country would not accept any outcome from the talks since Kyiv didn’t take part, and he postponed his own trip to Saudi Arabia scheduled for last Wednesday. European allies also have expressed concerns they are being sidelined.
-
-
-Trump appears to soften Kyiv criticism
-
-
-Trump on Friday appeared to walk back his earlier comments that falsely blamed Kyiv for starting the war, but he insisted that Zelenskyy and former U.S. President Joe Biden should have done more to come to terms with Putin.
-
-
-“Russia attacked, but they shouldn’t have let him attack,” he said during a radio interview with Brian Kilmeade of Fox News, referring to the Russian leader.
-
-
-Russia’s army crossed the border on Feb. 24, 2022, in an all-out invasion that Putin sought to justify by falsely saying it was needed to protect Russian-speaking civilians in eastern Ukraine and prevent the country from joining NATO.
-
-
-Later on Friday at the Oval Office, Trump told reporters that the war "doesn’t affect the United States very much. It’s on the other side of the ocean. It does affect Europe.”
-
-
- 
-
-
-
-
-Marches in London to support Ukraine
-
-
-Thousands of people waving blue-and-yellow Ukrainian flags marched to the Russian Embassy in London on Saturday, demanding Ukraine be given more support and a place at the table in talks to end the three-year war.
-
-
-Organizers called for the withdrawal of Russian troops and increased military aid to strengthen Kyiv’s hand.
-
-
-British Prime Minister Keir Starmer is scheduled to visit Washington next week for talks focused on Ukraine. He has emphasized that no decisions about the country’s future can be made without Kyiv’s involvement.
-
-
-Starmer spoke with Zelenskyy on Saturday and reiterated “the U.K.’s ironclad support for Ukraine and commitment to securing a just and enduring peace to bring an end to Russia’s illegal war,” the prime minister’s office said. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-putin-summit-preparations-are-underway-russia-says/7984365.html>
-
----
-
-## Amid rising worldwide populism, US conservative conference goes global
-
-date: 2025-02-22, from: VOA News USA
-
-WASHINGTON — This week, thousands of conservative politicians, activists and influencers convened outside Washington for the Conservative Political Action Conference, the premier annual gathering of the American right.
-
-
-The four-day event, hosted by the American Conservative Union since 1974, features U.S. President Donald Trump and Vice President JD Vance, among other high-profile speakers from around the world.
-
-
-Dubbed the "Woodstock for conservatives," CPAC was once the go-to event for conservative Republicans and presidential hopefuls, with its presidential straw poll serving as a barometer of grassroots support. However, Trump's political rise in recent years has transformed it into a platform for populism.
-
-
-Driven by the rise of populist movements globally, the conference has ventured overseas in the past decade. It launched its first international conference in Japan in 2017, expanded to Australia, Brazil and South Korea in 2019, then added Hungary, Mexico and Israel in 2022. Argentina joined the fold last year following the election of populist President Javier Milei.
-
-
-The international conferences, CPAC says, serve to "unite conservatives from all over the world, strengthen the movement, and challenge globalism." They are also used for public outreach, recruitment and mobilization, according to a recent paper on CPAC by Grant A. Silverman, a research assistant at George Washington University in Washington.
-
-
-CPAC's growing international outreach mirrors a recent surge in far-right populism worldwide. Last year's foreign speakers included Presidents Nayib Bukele of El Salvador and Javier Milei of Argentina, as well as Prime Minister Victor Orbán of Hungary.
-
-
-
-
-Here's a look at some of the foreign speakers for this year's CPAC and what they're saying:
-
-
-Javier Milei, Argentine president
-
-
-Milei, wielding a chain saw, electrified the CPAC crowd Thursday when he shared the stage with billionaire Elon Musk and presented Musk, Trump's cost-cutting czar, with his signature campaign prop.
-
-
-"This is the chain saw of bureaucracy," Musk, the CEO of Tesla and SpaceX, shouted, waving the tool.
-
-
-As head of the Department of Government Efficiency, Musk, who made his first CPAC appearance, is spearheading the Trump administration's massive governmentwide cost-cutting efforts.
-
-
-This marks Milei's third CPAC appearance. The self-styled "anarcho-capitalist" campaigned in 2023 on shrinking Argentina's government, often brandishing a chain saw at rallies.
-
-
-At last year's Washington conference, he vowed to eliminate unnecessary government agencies, declaring, "We will not surrender until we make Argentina great again!"
-
-
-Speaking at CPAC Argentina in December, Milei declared that the "new winds of freedom are sweeping through the world" and called on allies to fight against "lefties."
-
-
-"We must stand together, establishing channels of cooperation throughout the world," he told the crowd.
-
-
-Jair Bolsonaro, former president of Brazil
-
-
-Brazil's former right-wing president is a CPAC regular. After Bolsonaro lost a reelection bid in 2022, his supporters stormed federal government buildings in an alleged attempt to seize power. Banned from seeking office until 2030, Bolsonaro faces charges of plotting a coup.
-
-
-His son, Eduardo Bolsonaro, organizes CPAC Brazil. At last year's conference in Balneario Camboriu, the elder Bolsonaro joined Milei and other right-wing politicians from Latin America to hail conservatism's global rise and expressed hope for Trump's return to office.
-
-
-For his part, Milei used the platform to denounce socialism, saying it restricts liberties and breeds corruption.
-
-
-Robert Fico, prime minister of Slovakia
-
-
-Robert Fico makes his CPAC debut this year. Though he leads a left-wing populist party, he has drawn controversy for his attacks on journalists, immigrants and LGBTQ+ people.
-
-
-In October, he called journalists "bloody bastards" and threatened new media restrictions. An opponent of same-sex marriage, he has called adoption by gay couples a "perversion."
-
-
-During the Ukraine conflict, Fico has opposed European sanctions on Moscow and echoed Moscow's messaging, drawing comparisons to Hungary's pro-Kremlin prime minister.
-
-
-In May, he survived an assassination attempt by a gunman opposed to his stance against military assistance to Ukraine.
-
-
-Mateusz Morawiecki, former Polish prime minister
-
-
-After speaking at CPAC Hungary last year, Morawiecki makes his first U.S. appearance this year. He served as prime minister from 2017 to 2023 and is now a leading figure in the opposition Law and Justice Party.
-
-
-Despite his party's strong support for Ukraine, Morawiecki maintains close ties with Hungary's Orban and Spain's Santiago Abascal, leader of the conservative Vox political party. Abascal is an invited speaker at CPAC.
-
-
-Immigration is a unifying issue for Europe's right-wing populists. At last year's Hungary conference, Morawiecki called Orban his friend and credited his tough response to Europe's 2015 migration crisis with preventing "chaos" in Europe.
-
-
-Liz Truss, former British prime minister
-
-
-The former Conservative Party leader and prime minister made her second CPAC appearance in a row Wednesday. Calling Britain a "failed state" ruled by a socialist government, she called for a Trump-style MAGA movement to save it.
-
-
-"We want a Trump revolution in Britain," she said to applause, praising Trump's second presidency as "the golden age of America."
-
-
-Blaming Britain's decline on unelected bureaucrats, she urged the dismantlement of the "deep state," a favorite theme among conference attendees.
-
-
-"We want Elon and his nerd army of muskrats examining the British deep state," Truss said.
-
-
-Truss served just 49 days as prime minister and lost her Parliament seat last year. 
-
-<br> 
-
-<https://www.voanews.com/a/amid-rising-worldwide-populism-america-s-premier-conservative-conference-goes-global/7984267.html>
-
----
-
-## VOA Spanish: Venezuela receives more deportees from the US
-
-date: 2025-02-22, from: VOA News USA
-
-A total of 177 Venezuelan migrants were deported by the United States from the Guantanamo naval base, where they were detained, in another sign of cooperation between these historically feuding countries.
-
-
-Click here for the full story in Spanish. 
-
-<br> 
-
-<https://www.voanews.com/a/voa-spanish-venezuela-receives-more-deportees-from-the-us-/7984262.html>
-
----
-
-## From VOA Mandarin: Congressman proposes ban on student visas for Chinese nationals
-
-date: 2025-02-22, from: VOA News USA
-
-Congressman Riley Moore recently wrote an op-ed urging the administration to ban all student visas for Chinese nationals to prevent the CCP from using U.S. academic institutions as platforms for espionage. Experts told VOA Mandarin that due to the number of espionage cases Chinese students in the U.S. involved in, it might be more helpful to close the CCP-sponsored Chinese students and scholars' associations on U.S. campuses.
-
-
-Click here for the full story in Mandarin. 
-
-<br> 
-
-<https://www.voanews.com/a/7984255.html>
-
----
-
-## In CPAC remarks, White House national security adviser pledges crackdown on Mexican cartels
-
-date: 2025-02-22, from: VOA News USA
-
-Politicians, media personalities and conservative activists gathered outside Washington on Friday for the second day of a conference featuring a range of political allies of President Donald Trump.
-
-
-Speakers at the Conservative Political Action Conference (CPAC) heralded the Trump administration’s first month in office, with dozens of executive orders that have proposed sweeping changes to a wide range of government policies and positions on international issues.
-
-
-
-
-Mike Waltz, the president's national security adviser, told the CPAC audience Friday that the Trump administration’s efforts to end the Ukraine war are certain to include U.S. investments in Ukraine’s mineral assets as part of a plan to recoup some funding for Ukraine’s defense.
-
-
-Earlier this week, Ukraine’s President Volodymyr Zelenskyy rejected a proposal that would grant American companies 50% ownership of Ukraine’s rare earth minerals, but Waltz on Friday said the Ukrainian leader “is going to sign” a revised U.S. offer.
-
-
-
-
-Waltz also said the Trump administration plans to “unleash holy hell” on drug cartels. On Wednesday, the State Department designated several Mexican drug cartels as terrorist groups.
-
-
-Journalist-turned-politician Kari Lake, whom Trump said in December he would like to see lead Voice of America, spoke about what she sees as the president’s wins in his first month in office, and her views on legacy media.
-
-
-“Watching what President Trump has accomplished and done in one month is so incredible,” Lake said, referring to actions by the Elon Musk-led Department of Government Efficiency and the State Department to search for corruption and curtail spending, including by ending foreign aid funding.
-
-
-A former TV journalist in Arizona for nearly 30 years, Lake spoke of how she quit journalism because of what she felt was disinformation about the coronavirus pandemic.
-
-
-“We're still surrounded by too many fake journalists out there,” Lake said, adding that she believes the “purpose of the mainstream media is no longer to inform us, it's to manipulate us.”
-
-
-She criticized Associated Press reporting on government officials and independent bodies who validated the results of the 2020 election, saying, “They still pretend the 2020 election was the most secure election in all of history.”
-
-
-
-
-Lake also said that she is honored that Trump named her to lead VOA, and said she will focus the news agency on producing “accurate and honest reporting.”
-
-
-“VOA has been telling America's story to the world for 83 years this Monday. Sometimes the coverage has been incredible and sometimes it's been pitiful,” Lake said. “We are fighting an information war, and there's no better weapon than the truth, and I believe VOA could be that weapon.”
-
-
-Among those who have called for the network to be cut is Musk.
-
-
-“We won't become Trump TV,” she said, “but it sure as hell will not be ‘TDS TV.’ You can find all the Trump Derangement Syndrome that you want over on CNN, MSNBC, PBS, '60 Minutes,' The Washington Post and The New York Times.”
-
-
-Trump is expected to address the CPAC gathering on Saturday. 
-
-<br> 
-
-<https://www.voanews.com/a/in-cpac-remarks-white-house-national-security-adviser-pledges-crackdown-on-mexican-cartels/7984247.html>
-
----
-
-## Ukraine marks war’s 3rd anniversary as US support wavers
-
-date: 2025-02-22, from: VOA News USA
-
-Uncertainty looms over U.S.-Ukraine relations as Ukraine enters the fourth year of war with Russia. Recent shifts in Washington’s rhetoric have raised fears that Ukraine could be pressured into an unfavorable peace deal -- or be left to confront Russia without U.S. support. While most Ukrainians are now in favor of peace talks, many insist any settlement be on Ukraine’s terms. Myroslava Gongadze has the story from Warsaw, Poland, with reporting from Anna Chernikova in Kyiv, Ukraine. 
-
-<br> 
-
-<https://www.voanews.com/a/ukraine-marks-war-s-3rd-anniversary-as-us-support-wavers-/7984245.html>
-
----
-
-## Eliza Orlins explains today's ruling in the Eric Adams case
-
-date: 2025-02-22, from: The Contrarian
-
-A Late Friday update! 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157657563/eab90b0a7b65ea8512c7ae321e617f72.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/157657563/eab90b0a7b65ea8512c7ae321e617f72.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://contrarian.substack.com/p/eliza-orlins-explains-todays-ruling>
-
----
-
-## A brewing legal battle and the future of the Fed
-
-date: 2025-02-22, from: Market Place, Make me Smart
-
-<p>The Supreme Court on Friday chose not to intervene in a case involving President Donald Trump&#8217;s firing of an independent agency head. As the case is passed back to the lower courts, it tees up a legal battle that will test the president&#8217;s power to dismiss officials. We&#8217;ll get into what this could all mean for the Federal Reserve. And, U.S. national parks are being hit by the administration&#8217;s purge of the federal workforce. Plus, we&#8217;ll weigh in on Birkenstocks, prebiotic sodas and the &#8220;White Lotus effect&#8221; during a round of Half Full/Half Empty!</p>
-<p>Here&#8217;s everything we talked about today:</p>
-<ul>
-<li><a href="https://www.bloomberg.com/news/articles/2025-02-21/supreme-court-declines-for-now-to-let-trump-fire-agency-head" target="_blank" rel="noreferrer noopener">&#8220;Supreme Court Declines for Now to Let Trump Fire Agency Head&#8221;</a> from Bloomberg</li>
-<li> <a href="https://bsky.app/profile/spahn711.bsky.social/post/3lioypmavmk2r">Post on Bluesky</a> about national park closures</li>
-<li><a href="https://www.latimes.com/california/story/2025-02-20/trump-administration-backtracks-eliminating-thousands-national-parks-employees" target="_blank" rel="noreferrer noopener">&#8220;Trump administration backtracks on eliminating thousands of national parks employees&#8221;</a> from The L.A. Times</li>
-<li><a href="https://www.nytimes.com/2025/02/21/travel/national-park-service-firings.html" target="_blank" rel="noreferrer noopener">&#8220;Firings Squeeze National Parks: ‘You Won’t Have the Full Experience’&#8221;</a> from The New York Times</li>
-<li><a href="https://apnews.com/article/germany-birkenstock-sandals-verdict-art-e3985066da164cffd2a0248e0c9b6675" target="_blank" rel="noreferrer noopener">&#8220;Can sandals be art? Birkenstock says yes, but a German court says no&#8221;</a> from AP News</li>
-<li><a href="https://www.wsj.com/business/retail/gut-pop-is-injecting-new-fizz-into-the-beverage-aisle-3258a4b9" target="_blank" rel="noreferrer noopener">&#8220;‘Gut Pop’ Is Injecting New Fizz Into the Beverage Aisle&#8221;</a> from The Wall Street Journal</li>
-<li><a href="https://www.marketplace.org/2025/02/19/peoples-politics-are-changing-the-way-they-shop-and-where/" target="_blank" rel="noreferrer noopener">&#8220;Politics are changing how and where consumers spend&#8221;</a> from Marketplace</li>
-<li><a href="https://cloud.connect.americanpublicmedia.org/marketplace-weekly?_gl=1*b6zj1m*_gcl_au*MTkwMTkwMTY1LjE3MzM3NjI4MDI.*_ga*OTAxMjQ4NzI5LjE2OTUwODIxMDU.*_ga_ER1SL77YDS*MTc0MDE3OTkyOC4xMzM4LjEuMTc0MDE3OTkzMy41NS4wLjA" target="_blank" rel="noreferrer noopener">&#8220;The &#8216;White Lotus effect&#8217; on tourism&#8221;</a> from Marketplace</li>
-<li><a href="https://www.nytimes.com/2025/02/20/business/amazon-james-bond-franchise.html" target="_blank" rel="noreferrer noopener">&#8220;Amazon Gains Creative Control Over the James Bond Franchise&#8221;</a> from The New York Times</li>
-</ul>
-<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/21/mms_20250221_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fa-brewing-legal-battle-and-the-future-of-the-fed&awCollectionId=mkp-MMsmrt"></source>
-</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/02/21/mms_20250221_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fa-brewing-legal-battle-and-the-future-of-the-fed&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
-
-<https://www.marketplace.org/shows/make-me-smart/a-brewing-legal-battle-and-the-future-of-the-fed>
-
----
-
-## Trump fires chairman of Joint Chiefs of Staff
-
-date: 2025-02-22, from: VOA News USA
-
-WASHINGTON — President Donald Trump abruptly fired Air Force General CQ Brown as chairman of the Joint Chiefs of Staff on Friday, sidelining a history-making fighter pilot and respected officer as part of a campaign to rid the military of leaders who support diversity and equity in the ranks.
-
-
-The ouster of Brown, only the second Black general to serve as chairman, is sure to send shock waves through the Pentagon. His 16 months in the job had been consumed with the war in Ukraine and the expanded conflict in the Middle East.
-
-
-"I want to thank General Charles 'CQ' Brown for his over 40 years of service to our country, including as our current Chairman of the Joint Chiefs of Staff. He is a fine gentleman and an outstanding leader, and I wish a great future for him and his family," Trump posted on social media.
-
-
-Trump said he was nominating Air Force Lieutenant General Dan "Razin" Caine to be the next chairman.
-
-
-Trump acted despite support for Brown among key members of Congress and a seemingly friendly meeting with him in mid-December, when the two were seated next to each other for a time at the Army-Navy football game. Brown had been meeting regularly with Defense Secretary Pete Hegseth, who took over the top Pentagon job just four weeks ago. 
-
-<br> 
-
-<https://www.voanews.com/a/trump-fires-chairman-of-joint-chiefs-of-staff-/7984199.html>
-
----
-
-## AP sues White House officials over denial of access
-
-date: 2025-02-22, from: VOA News USA
-
-WASHINGTON — The Associated Press filed a lawsuit against three White House officials on Friday after the news agency was barred from some of U.S. President Donald Trump's events.
-
-
-The AP, in the suit filed in a federal court in Washington, said the denial of access violates the First Amendment of the U.S. Constitution, which guarantees freedom of speech and of the press.
-
-
-The White House began blocking AP journalists from the Oval Office 10 days ago over the news agency's refusal to follow Trump's executive order renaming the Gulf of Mexico the "Gulf of America."
-
-
-The ban on AP reporters was later extended to Air Force One.
-
-The news group said it was bringing the suit against three Trump administration officials to "vindicate its rights to the editorial independence guaranteed by the United States Constitution."
-
-
-"The White House has ordered The Associated Press to use certain words in its coverage or else face an indefinite denial of access," the AP said.
-
-
-"The press and all people in the United States have the right to choose their own words and not be retaliated against by the government," it said.
-
-
-"The Constitution does not allow the government to control speech. Allowing such government control and retaliation to stand is a threat to every American's freedom."
-
-
-The suit names as defendants White House chief of staff Susan Wiles and deputy chief of staff Taylor Budowich, as well as White House press secretary Karoline Leavitt.
-
-
-"We'll see them in court," Leavitt said during an appearance Friday at the Conservative Political Action Conference in Washington.
-
-
-"We feel we are in the right. We are going to ensure that truth and accuracy is present at that White House every single day," she said.
-
-
-In its style guide, the AP noted that the Gulf of Mexico has "carried that name for more than 400 years."
-
-
-"The Associated Press will refer to it by its original name while acknowledging the new name Trump has chosen," it said.
-
-
-"As a global news agency that disseminates news around the world, the AP must ensure that place names and geography are easily recognizable to all audiences."
-
-
-Trump called the AP a "radical left organization" on Thursday and said the new Gulf of America name is "something that we feel strongly about."
-
-
-His leveraging of press access underscores the Republican president's long-standing animosity toward traditional news outlets, which he accuses of bias against him.
-
-
-The White House Correspondents' Association has called AP's exclusion from Trump events outrageous.
-
-
-The 180-year-old news agency has long been a pillar of U.S. journalism and provides news to print, TV and radio outlets across the United States and around the world.
-
-
-Voice of America subscribes to The Associated Press, which provides video, audio and written content. 
-
-<br> 
-
-<https://www.voanews.com/a/ap-sues-white-house-officials-over-denial-of-access-/7984165.html>
 

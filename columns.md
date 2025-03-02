@@ -1,11 +1,468 @@
 ---
 title: columns
-updated: 2025-03-01 21:10:16
+updated: 2025-03-02 07:08:35
 ---
 
 # columns
 
-(date: 2025-03-01 21:10:16)
+(date: 2025-03-02 07:08:35)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-02, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2017/09/12/pitcher.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">If I understand correctly, this <a href="https://techcrunch.com/2025/02/28/bluesky-based-instagram-alternative-flashes-launches-publicly/">TechCrunch article</a> is misleading the same way the Bluesky company misleads. There is no  benefit to users of either app that they use the same complicated and new structure to communicate, where simpler and established standards would work just as well. There is a way they could make this work. Come up with a plugin architecture and something like an app store, so developers could define new data types, and then we'd really have something. I would probably do an <a href="https://opml.org/">outliner</a> plugin first, then a <a href="http://scripting.com/2022/08/25/210902.html">Markdown</a> plugin. 
+
+<br> 
+
+<http://scripting.com/2025/03/02.html#a142420>
+
+---
+
+## Sara Bareilles at the Kennedy Center
+
+date: 2025-03-02, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/sara-bareilles-at-the-kennedy-center>
+
+---
+
+## Can a LLM convert C, to ASM to specs and then to a working Z/80 Speccy tape? Yes.
+
+date: 2025-03-02, from: Geoffrey Hunntley's blog
+
+<p><a href="https://bsky.app/profile/damieng.bsky.social/post/3ljdkwup7sc2d?ref=ghuntley.com">Damien Guard</a> nerd sniped me and and other folks wanted more proof that it is now cheap, easy and possible to <a href="https://ghuntley.com/tradecraft/" rel="noreferrer">cheaply rewrite software or clone existing &quot;source available&quot; businesses</a> (see bottom of the post).</p><p>So, let&apos;s get cracking by creating a toy application by sending</p> 
+
+<br> 
+
+<https://ghuntley.com/z80/>
+
+---
+
+## The shame of it
+
+date: 2025-03-02, from: Robert Reich's blog
+
+But it&#8217;s not our shame. 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-sermon>
+
+---
+
+## March 1, 2025
+
+date: 2025-03-02, from: Heather Cox Richardson blog
+
+John Simpson of the BBC noted recently that &#8220;there are years when the world goes through some fundamental, convulsive change.&#8221; Seven weeks in, he suggested, 2025 is on track to be one of them: &#8220;a time when the basic assumptions about the way our world works are fed into the shredder.&#8221; 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-1-2025>
+
+---
+
+## Listened to Beneath the Brine
+
+date: 2025-03-02, from: Tracy Durnell Blog
+
+ 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/01/listened-to-beneath-the-brine/>
+
+---
+
+## Mozilla flamed by Firefox fans after promises to not sell their data go up in smoke
+
+date: 2025-03-02, updated: 2025-03-02, from: Liam Proven's articles at the Register
+
+<h4>Open source browser maker ties itself up in legalese and explanations</h4>
+      <p>Mozilla this week asked Firefox users to abide by new Terms of Use, and updated its Privacy Notice as well as an FAQ – only to quickly issue a clarification that it isn’t actually claiming ownership of user data.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Update.</p><p>God that recipe is so good.</p><p> <a href="https://www.seriouseats.com/barbara-lynchs-tagliatelle-bolognese-recipe-boston-chef-no-9-park" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">seriouseats.com/barbara-lynchs</span><span class="invisible">-tagliatelle-bolognese-recipe-boston-chef-no-9-park</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114090352589313618>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-02, from: Dave Winer's Scripting News)
+
+What <a href="https://www.theatlantic.com/ideas/archive/2025/02/ukraine-us-relations-trump/681880/?gift=f35zZN0v_gDFE8xNwlQAHeTYjwxXW5BWaruPT1MU64A&utm_source=copy-link&utm_medium=social&utm_campaign=share">happened</a> in the Oval Office yesterday was as horror-inspiring as the riot in the Capitol on 1/6/2021.
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/01.html#a014145>
+
+---
+
+## February 28, 2025
+
+date: 2025-03-02, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158204180/d6e18f15093f9494466c885a6c3eba35.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158204180/d6e18f15093f9494466c885a6c3eba35.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/february-28-2025-76d>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-02, from: Dave Winer's Scripting News)
+
+My America is still a democracy and still part of the western world. A pretty great country, far from perfect, but my home. It's rich in all kinds of things, including money. We made a mistake in electing the person we did. Can we admit that and start fixing the mistake now? If not now, when? 
+
+<br> 
+
+<http://scripting.com/2025/03/01.html#a013031>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-02, from: Miguel de Icaza Mastondon feed)
+
+<p>Massachusetts is home of the best potato chips you can get.  Cape Cod chips.</p><p>It is only when you travel to other states that you realize just how good we have it.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114090000054189992>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-02, from: Miguel de Icaza Mastondon feed)
+
+<p>The guy at local store recommended it “I am glad it is going to a good home” he said to me.</p><p>At my age, I should only drink one glass at night, but I still have a 90 minute wait for my bolognese.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114089967601025619>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Remembering Barbara Lynch’s Sportello bolognese</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114089700744463369>
+
+---
+
+##  Trump Betrays Ukraine in White House Ambush of Zelenskyy 
+
+date: 2025-03-01, updated: 2025-03-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/trump-betrays-ukraine-in-white-house-ambush-of-zelenskyy>
+
+---
+
+## ★ Why Can’t We Screenshot Frames From DRM-Protected Video on Apple Devices?
+
+date: 2025-03-01, updated: 2025-03-01, from: Daring Fireball
+
+This “feature” accomplishes nothing of value for anyone, including the streaming services, but imposes a massive (and for most people, confusing and frustrating) hindrance on honest people simply trying to easily capture high-quality (as opposed to, say, using their damn phone to take a photograph of their reflective laptop display) screenshots of the shows and movies they’re watching. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video>
+
+---
+
+## Matthew Green: ‘Dear Apple: Add “Disappearing Messages” to iMessage Right Now’
+
+date: 2025-03-01, updated: 2025-03-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.cryptographyengineering.com/2025/03/01/dear-apple-add-disappearing-messages-to-imessage-right-now/>
+
+---
+
+## One America Together
+
+date: 2025-03-01, from: Dave Winer's Scripting News
+
+<p><a href="https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez">AOC</a> asked for ideas of what to do for the SOTU.</p>
+<p>I suggested we come up with a new slogan. Like this.</p>
+<ul>
+<li><i>One America Together.</i></li>
+</ul>
+<p>Make hats, purple — enough for everyone, including the Repubs. </p>
+<p>During applause, Dems rise and chant “One America Together.”</p>
+<p>What do you think?</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/01/wordleKittyForAmerica.png"></center>Wordle Kitty throwing out the first pitch of the baseball season. </div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/01/185654.html?title=oneAmericaTogether>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
+
+The <a href="https://github.com/scripting/wordlandSupport/issues/49#issuecomment-2692351817">tab key</a> now switches between the main editor and title editor in <a href="https://wordland.social/">WordLand</a>. Still a little work to do there. 
+
+<br> 
+
+<http://scripting.com/2025/03/01.html#a182554>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
+
+These days I read <a href="https://snyder.substack.com/p/the-war-trump-chooses">Timothy Snyder's essays</a> as soon as they come in. 
+
+<br> 
+
+<http://scripting.com/2025/03/01.html#a182351>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
+
+New month. Last month's <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/02.opml">source code</a> archived. Onward! <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/03/01.html#a182122>
+
+---
+
+## I don't like sand
+
+date: 2025-03-01, from: Dave Rupert blog
+
+<p>Happened upon a good example of the problem with AI generated <code>alt</code> text. It’s a gif of the infamous scene from Star Wars Episode II where Hayden Christensen playing Anakin Skywalker tells Natalie Portman’s character Queen Amadala, “I don’t like sand.” It’s the first phrase in the worst lines of dialogue in cinematic history. And here’s how the computer interpreted the gif…</p>
+<p><img src="https://cdn.daverupert.com/posts/2025/sand.jpg" alt="Screenshot of the image upload interface of Bluesky that autocompletes alt-text. As described in the post there’s a gif from Star Wars Episode II where Anakin tells Queen Amadala “I don’t like sand”, but the alt text says “a man and a woman are sitting next to each other and the woman is saying I don’t like sand”" /></p>
+<p>The AI said “a man and a woman are sitting next to each other and the woman is saying I don’t like sand.” Not only does this miss the context that it’s from the world famous movie Star Wars, it gets the speaker entirely wrong. It OCR’d the text fine, but missed relaying the entire context.</p>
+<p>Context. That’s what <code>alt</code> text is. I’d hypothesize that <em>context</em> is probably one of the biggest reasons why language evolved. A caveman could yell “AHHH!H” to alert others of dangers, but I imagine after a couple rounds of those others would begin asking, “Ok, Grog, I understand you think there’s an AHHH!H out there, but what <em>kiiiiiiind</em> of AHHH!H?”</p>
+<p>My ears are starting to perk up when I hear the word context. I hear all the time that “<em>You have to give the AI more context and it will give you a better answer.”</em> AI has a lot of vectorized text and image processing nodes, but it’s short on context I guess. Will AI one day have every frame of the expensive-to-license Star Wars franchise indexed in its brain like I do? Or are we the gatherers and keepers of context? Does our capacity for empathy (which allows us to project and inhabit other contexts we don’t necessary have) set humans apart?</p>
+<p>I hate to leave on such an open-ended question, but I think we can all agree… that woman doesn’t like sand.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/03/i-don-t-like-sand/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-01, from: Miguel de Icaza Mastondon feed)
+
+<p>We are going on vacation to Japan, and I want to optimize for the kids having fun (so they want to go again).</p><p>If you have ideas for kid-centric activities to do, please let me know!</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114088417157301321>
+
+---
+
+## The only way to know for sure... is to build a prototype
+
+date: 2025-03-01, from: Dave Rupert blog
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0m60QbT85Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>I’ve mentioned Mark Brown’s channel Game Makers Tool Kit <a href="https://daverupert.com/2018/10/how-mega-man-11-s-levels-do-more-with-less-game-maker-s-toolkit/">many</a> <a href="https://daverupert.com/2020/09/follow-the-fun/">times</a> <a href="https://daverupert.com/2021/10/the-mistake-every-new-game-developer-makes/">before</a>. Well, I’m back with another banger about “<a href="https://www.youtube.com/?v=0m60QbT85Tc">How to find amazing game ideas</a>”. The whole video is great but I specifically want to highlight something Mark said during the last ten seconds of the video as the credits and video thumbnails started to roll…</p>
+<blockquote>
+<p>And then the final question to answer is… is the game idea actually fun? Because the truth is… our brains are terrible video game simulators. Almost every idea seems fun in our heads. But once we actually make it we’ll realise  that it’s boring, that it’s too complicated, and that it has disastrous  unforeseen design problems. So the only way to know for sure… is to build a prototype.</p>
+</blockquote>
+<p>The answer again –and I cannot stress this enough– is prototypes.</p>
+<p>“Our brains are terrible video game simulators.” Woof. This is a powerful sentiment and I regularly encounter this. I feel this is true with websites as well. I can make the best fantasy website – so beautiful, so perfect in pixels, so incredibly evocative people will throw their wallets at me – but if I haven’t put prototypes into people’s hands, I’m introducing a huge amount of risk.</p>
+<p>That’s all. Prototypes. I think the rest of the video applies to where you can find ideas for amazing websites:</p>
+<ul>
+<li>Other websites - <del>Stealing</del> Borrowing good UX is a great start for an idea</li>
+<li>Genres - Follow the rules or offering an interesting twist on an existing genre (like ecommerce)</li>
+<li>Mechanics - Adding interesting iteractions or gimmicks can add distinction</li>
+<li>Experience - Go hard on experience and ambiance!</li>
+</ul>
+<p>Mark also raises some important questions at the end and I wanted to highlight two of those because I think they’re important.</p>
+<ul>
+<li>“Can you make it?” - Be honest with yourself, do you in your personal capacity have the capability to deliver the idea? I often succumb to making ideas in my head that are so big and complex that it becomes impossible to build and maintain.</li>
+<li>“Will it stand out?” - In the sea of websites or podcast people come across each day, will it be unique or will it join the cacophony?<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></li>
+</ul>
+<p>And wouldn’t you know it, those are the types of questions that prototypes help to answer.</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>Personal websites are exempt from this question. I think “It won’t stand out” is one reason people avoid making one. The world (more than ever) needs your unique perspective. Don’t let uniqueness be a reason <em>not to try</em> and make something. Get to the first checkpoint, make your idea, get the first draft in people’s hands. Then over time find what makes your idea unique and breakaway from the default template. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section> 
+
+<br> 
+
+<https://daverupert.com/2025/03/the-only-way-to-know-for-sure-is-to-build-a-prototype/>
+
+---
+
+## My cookie spec problem
+
+date: 2025-03-01, from: Daniel Stenberg Blog
+
+Before RFC 6265 was published in 2011, the world of cookies was a combination of anarchy and guesswork because the only &#8220;spec&#8221; there was was not actually a spec but just a brief text lacking a lot of details. RFC 6265 brought order to a world of chaos. It was good. It made things a &#8230; <a href="https://daniel.haxx.se/blog/2025/03/01/my-cookie-spec-problem/" class="more-link">Continue reading <span class="screen-reader-text">My cookie spec problem</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/03/01/my-cookie-spec-problem/>
+
+---
+
+## Total News
+
+date: 2025-03-01, from: Doc Searls (at Harvard), New Old Blog
+
+27th in the News Commons series Nearly everything I&#8217;ve been writing in the News Commons series has come out of breakfasts Joyce and I have enjoyed with Dave Askins at the Uptown Cafe in Bloomington, Indiana. (A tech perspective: The Uptown is to Bloomington what Bucks of Woodside is to Silicon Valley.) At the most recent [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/01/total-news/>
+
+---
+
+##  Good Trouble: JD Vance Chastised by Vermont Snow Reporter 
+
+date: 2025-03-01, updated: 2025-03-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/jd-vance-chastised-by-vermont-snow-reporter>
+
+---
+
+## Windows 7 lives! How to keep your favorite fossil running
+
+date: 2025-03-01, updated: 2025-03-01, from: Liam Proven's articles at the Register
+
+<h4>You probably shouldn&#39;t, but if you must, you can</h4>
+      <p>As the expiration date for Windows 10 presses ever closer, spare a thought for its classic forerunner. No, not Windows 8 – nobody ever loved that – but Windows 7, with its classic Start menu, tasteful transparency, lack of built-in advertising, and so on.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/01/running_windows_7_2025/>
+
+---
+
+## February 28, 2025 
+
+date: 2025-03-01, from: Heather Cox Richardson blog
+
+Today, President Donald Trump ambushed Ukraine president Volodymyr Zelensky in an attack that seemed designed to give the White House an excuse for siding with Russia in its war on Ukraine. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-28-2025>
+
+---
+
+## The Trump-Putin Axis of Evil | Coffee Klatch for Saturday, March 1, 2025
+
+date: 2025-03-01, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158119249/2fea48fd152b367b37824204bdef42e0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158119249/2fea48fd152b367b37824204bdef42e0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-trump-putin-axis-of-evil-coffee>
+
+---
+
+## Yes, Claude Code can decompile itself. Here's the source code.
+
+date: 2025-03-01, from: Geoffrey Hunntley's blog
+
+<p>These LLMs are shockingly good at deobfuscation, transpilation and structure to structure conversions. I discovered this back around Christmas where I asked an LLM to make me an Haskell audio library by transpiling a rust implementation.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/oh-fuck/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">An &#x201C;oh fuck&#x201D; moment in time</div><div class="kg-bookmark-description">Over the Christmas break I&#x2019;</div></div></a></figure> 
+
+<br> 
+
+<https://ghuntley.com/tradecraft/>
+
+---
+
+## Weeknotes: Feb. 22-28, 2025
+
+date: 2025-03-01, from: Tracy Durnell Blog
+
+Neighbors were getting a new roof this week so there was a lot of hammering ten feet from my office (since I&#8217;m on the second floor) &#8212; deployed the noise cancelling headphones quite a bit 🎧 Highlight of the week: delved into the back 40 and was pleased to see a native rhodie and cedar [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/28/weeknotes-feb-22-28-2025/>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-03-01, from: Ryan Gantz Bluesky feed)
+
+*aside to buddy holding smartphone* but this will get sick views
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3ljbvcadeq226>
+
+---
+
+## The Bully-in-Chief Targets an Ally
+
+date: 2025-03-01, from: Dan Rather's Steady
+
+Zelenskyy resists and refuses to kiss the ring 
+
+<br> 
+
+<https://steady.substack.com/p/the-bully-in-chief-targets-an-ally>
+
+---
+
+## Meta Apologizes for Error That Flooded Instagram With a Bit of the Old Ultra-Violence
+
+date: 2025-03-01, updated: 2025-03-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/meta-apologizes-for-error-that-flooded-instagram-with-violent-content-c207d5f5>
+
+---
+
+## Today’s disgusting scene
+
+date: 2025-03-01, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/todays-disgusting-scene>
 
 ---
 
@@ -2528,354 +2985,4 @@ We should be declaring independence from both political parties. We have to get 
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/114050519647428689>
-
----
-
-##  A Quick Anniversary Note 
-
-date: 2025-02-22, updated: 2025-02-22, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/02/a-quick-anniversary-note>
-
----
-
-## February 21, 2025
-
-date: 2025-02-22, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157708511/9f00bdaed61f5cbc5a419804e2adcbab.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/157708511/9f00bdaed61f5cbc5a419804e2adcbab.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/february-21-2025-b17>
-
----
-
-## curl website traffic Feb 2025
-
-date: 2025-02-22, from: Daniel Stenberg Blog
-
-Data without logs sure leaves us open for speculations. I took a quick look at what the curl.se website traffic situation looks like right now. Just as a curiosity. Disclaimer: we don&#8217;t log website visitors at all, we don&#8217;t run any web analytics on the site so we basically don&#8217;t know a lot of who &#8230; <a href="https://daniel.haxx.se/blog/2025/02/22/curl-website-traffic-feb-2025/" class="more-link">Continue reading <span class="screen-reader-text">curl website traffic Feb 2025</span> <span class="meta-nav">&#8594;</span></a> 
-
-<br> 
-
-<https://daniel.haxx.se/blog/2025/02/22/curl-website-traffic-feb-2025/>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-02-22, from: Miguel de Icaza Mastondon feed)
-
-<p>I think it is hard for new users to find their bearings in Godot in the &quot;Create Node&quot; UI.</p><p>I figured I could give some structure and direction by changing it a bit.   So I am going to default to this new version, and let power users switch to the original one.</p><p>My only caveat is how shrunk the text feels.</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114049837462539814>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-22, from: Dave Winer's Scripting News)
-
-<a href="https://wordland.social/">WordLand</a> is where we start to boot up a simple social net using only <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a> as the protocol connecting users. Rather than wait for ActivityPub and AT Proto to get their acts together. I think we can do it with feeds and start off with <i>immediate</i> interop without the complexity of federation. I call it the <a href="https://feediverse.org/">feediverse</a>. It's not a joke, although it may incite a smile and a giggle. And that's ok. 
-
-<br> 
-
-<http://scripting.com/2025/02/22.html#a200651>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-22, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/10/24/wordlandlogo.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://wordland.social/">WordLand</a> opened yesterday for everyone to use. There was a deal-stopping bug reported last night, <a href="https://daveverse.wordpress.com/2025/02/21/bookmarks-opml-not-found-ooops/">fixed</a> provisionally, then for real this morning. Prevented new users from getting started. Really embarassing. If you have trouble, please report. There's a link for Support in the <a href="https://imgs.scripting.com/2025/02/22/support.png">main menu</a>.  WordLand is designed to be the kind of editor you use in a social app like Bluesky or Mastodon, but with most of the features of <a href="https://textcasting.org/">textcasting</a>. 
-
-<br> 
-
-<http://scripting.com/2025/02/22.html#a195629>
-
----
-
-## Vibe Check №37
-
-date: 2025-02-22, from: Dave Rupert blog
-
-<p>As the weather in Texas flip-flops weekly between sunny Spring and snowy Winter, I’ve been dealing with a bit of personal health this last quarter. From my ADHD diagnosis, to trying meds for the first time, to back-to-back sicknesses, then constant migraines, and then I think I got the Norovirus on New Years. A debilitating time for me, but in January it started to turn around when I got some good news…</p>
-<h2>“It’s not a tumor, it’s a deformity”</h2>
-<p>In December I saw my primary care physician about a pain in my ankle that was causing me to hobble and at times preventing me from walking in November. It caused a lot of other issues as well; a fire-like pain in my thigh and a bump on my heel.</p>
-<p>My doctor thought it might be <a href="https://en.wikipedia.org/wiki/Chondroma">Chondroma</a>, which is a bit scary to look up, but is like a tumor made of cartilage. That tumor can either be on the surface of the bone or inside the bone. Yikes. I got an x-ray and followed up with an orthopedic surgeon who gave me some good news that it’s not a tumor, but <a href="https://en.wikipedia.org/wiki/Haglund%27s_syndrome">Haglund’s Deformity</a> also known as “pump bump” because a lot of women who wear heels often get it. The pain comes and goes based on how the tendon rubs against the bone spur.</p>
-<p>Because I’m not in pain right now, the plan now is to take a non-surgical path and use anti-inflammatories to keep it at bay, saving surgery as a Plan B.</p>
-<h2>The side effects of ADHD meds</h2>
-<p>Last time I said I started on Qelbree, a non-stimulant ADHD medication. Non-stimulants take about five days to build up, so there’s no lightning bolt moment of clarity with non-stimulants that others describe when taking Adderall or Ritalin. It’s hard to know if it’s working, but in time I started to feel the effects.</p>
-<p>The most notable one was that I was almost immune to environmental triggers like clutter and noise that overwhelm me. Whenever I encountered a mundane task like take out the trash or wash the dishes, I found it a lot easier to pick up and do without a 30-minute prep talk with my brain. That part was great… the side effects though… not so great…</p>
-<p>One of Qelbree’s listed side effects is insomnia. Sure enough, I’d wake up every night at 2 AM and be awake for hours. Not quite night-brain anxiety, but just… fully awake. To combat this I read the first four books of the Murderbot Diaries back-to-back. If life hands you lemons, make emo robot lemonade.</p>
-<p>The insomnia wasn’t great and I was having horrific headaches, so I switched to <a href="https://en.wikipedia.org/wiki/Atomoxetine">Atomoxetine</a>, another non-stimulant SNRI that’s more common. My insurance also said they weren’t going to pay for Qelbree, so that worked out. The also don’t pay for atomoxetine, but it’s 10x cheaper so… I guess that’s a good deal? Lol.</p>
-<p>I’d say “the mox” –that’s what we, the moxxers, call it– is working evident by the fact that I’ve been able to focus on some long mundane tasks at work. That’s been helpful. But it’s not without its side effects either. Weight loss is a welcomed side effect (-5 lbs) but another side effect is extreme dry mouth. My mouth is dry, y’all –how dry is it?– my mouth is so dry I’m putting lotion on my gums. My dentist said I need to buy that gel old people use to keep my mouth moisturized.</p>
-<p>I guess I’ve been lucky in my life thus far because this is my first time navigating meds and side effects. What I’d like to avoid is taking more meds to counter meds, although my gum lotion already crosses that line.</p>
-<h2>The rest of the story</h2>
-<p>This has been a candid personal health issue of Vibe Check magazine. Behind the scenes it’s been less adventurous. A busy new year at work as my team sprints to deliver an “intra-source” design systems project. It –and the 1,000 token sidecar project– have consumed a lot of my brain and time.</p>
-<p>My daughter’s mid-way through her competitive cheer season. I’m not the most extreme cheer dad, but I’m a proud one. Cheer has a lot of cross-over with child beauty pageants, but it’s a team sport where kids do flips. And it costs about 5-figures a year.</p>
-<p>Hoping this bad health spat is over for now –he says as an ominous storm cloud appears above my head– and I can start employing my hands and brain to do more interesting tasks.</p>
-<h2>Stats</h2>
-<h3>💪 Wellness</h3>
-<ul>
-<li>Navigating new medications</li>
-</ul>
-<h2>📖 <strong>Reading</strong></h2>
-<p>My book consumption is becoming athematic and uninspired (except for emo robot). I’m feeling the urge to double down on sci-fi and manga.</p>
-<p><strong>Finished</strong></p>
-<ul>
-<li><a href="https://amzn.to/3VEyxXv">Rogue Protocol</a> - Emo robot</li>
-<li><a href="https://amzn.to/3Dq70mj">Exit Strategy</a> - Emo robot</li>
-<li><a href="https://amzn.to/4jc9Zz4">Being Wrong</a> - Super recommend. We’re all wrong. A lot. It’s how our brains work.</li>
-<li><a href="https://amzn.to/3PAmc3a">Feel Good Productivity</a> - A productivity book I’d maybe recommend.</li>
-<li><a href="https://amzn.to/40pbf9j">Super Mario</a> - The history of Nintendo and how it grew its video game business. I loved the inside look at important moments like shifting strategy to react to Sega, Sony, and Xbox.</li>
-<li><a href="https://amzn.to/3WzXRyl">The Power of Habit</a> - A bit like Malcom Gladwell on steroids focusing on the singular issue of habit formation. One good takeaway around harnessing, hijacking, and leveraging the Cue → Response → Reward loop that habits depend on.</li>
-<li><a href="https://amzn.to/4k8qlsZ">Disrupting the Game</a> - Reggie Fils-Amié’s autobiography, more Nintendo.</li>
-<li><a href="https://amzn.to/3D4wDcm">The Customer Is Always Wrong</a> - A humorous’ish critique of work, capitalism, customer service, and bullshit jobs.</li>
-<li><a href="https://amzn.to/3QuZjOQ">The Startup of You</a> - Self-help in “entrepreneur of your own life” form.</li>
-</ul>
-<p><strong>Started</strong></p>
-<ul>
-<li><a href="https://amzn.to/40hX2ek">Network Effect</a> - Emo robot</li>
-<li><a href="https://amzn.to/437HuNd">Exhalation</a> - Off to an interesting start with time travelling Iraqis.</li>
-</ul>
-<h3>📝 <strong>Blogging</strong></h3>
-<p>An okay blogging era…</p>
-<ul>
-<li><a href="https://daverupert.com/2024/12/twenty-twenty-four/">Twenty Twenty-Four</a> - Year in review</li>
-<li><a href="https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/">Making “this” less annoying</a> - A silly editor experiement</li>
-<li><a href="https://daverupert.com/2025/01/color-hue-rotating-gaslight/">My website has been gaslighting you</a> - I’ve been playing a big ol’ goof on you for some time.</li>
-<li><a href="https://daverupert.com/2025/01/american-hearts/">American Hearts</a> - A new American anthem.</li>
-<li><a href="https://daverupert.com/2025/01/raycast-focus/">Raycast Focus works really well</a> - A great product</li>
-<li><a href="https://daverupert.com/2025/01/pans/">A story about pans</a> - A metaphor that a lot of folks didn’t pick up on and they wanted to mansplain pans to me.</li>
-<li><a href="https://daverupert.com/2025/01/15-minutes/">15 Minutes</a> - A punchy anti-capitalist song.</li>
-</ul>
-<h3>📺 Media</h3>
-<p><strong>TV</strong></p>
-<ul>
-<li><a href="https://www.youtube.com/playlist?list=PLRcB4n4CGcy93lSV4yy1ntptlhOHo0HPF">The Earliest Show</a> (YouTube) - Ben Schwartz’s improv morning show. Perfect in every way. Watched hours of bloopers and cut scenes too.</li>
-<li>Very Important People S2 (Dropout) - This season is a little rough, not gonna lie.</li>
-<li>Make Some Noise S3 (Dropout) - Always makes me smile.</li>
-<li><a href="https://www.youtube.com/@thisagedgreat">This Aged Great</a> (YouTube) - Ruining my childhood’s favorite movies one video at a time.</li>
-<li><a href="https://www.hulu.com/series/the-mentalist-edad347e-de7d-45f5-bbce-b5dbf7485382">The Mentalist</a> (Hulu) - My entire family has decided we all like this B-rate CSI clone.</li>
-<li><a href="https://www.youtube.com/watch?v=2UDXdqqJQPE">Mantracks</a> (YouTube) - Creationism, lies, and doubling down on lies.</li>
-</ul>
-<p><strong>Anime</strong></p>
-<ul>
-<li><a href="https://www.netflix.com/title/81736884">DAN DA DAN</a> (Netflix, Crunchyroll) - Classic nerdy boy meets cool girl high school romance wrapped up in a warm tortilla of magic demons vs weird aliens. The mother’s flashback mini-sode in Ep7 deserves whatever the anime Oscar is, I’ve never been more moved by a piece of television.</li>
-</ul>
-<p><strong>Podcasts</strong></p>
-<ul>
-<li><a href="https://www.iheart.com/podcast/105-the-end-of-the-world-with-30006093/">The End of the World with Josh Clark</a> - Are we alone? Why explore the universe? How can it end?</li>
-</ul>
-<h3>🎙 <strong>Recording</strong></h3>
-<p><strong>ShopTalk</strong></p>
-<ul>
-<li><a href="https://shoptalkshow.com/647/">Slash Pages vs Wikis vs Posts, RSS, Living with an ADHD Diagnosis, and M4 Upgrades</a></li>
-<li><a href="https://shoptalkshow.com/648/">Speculating on Funding Open Source</a></li>
-<li><a href="https://shoptalkshow.com/649/">Chrome 133, Attribute Update, and Standardized Async CSS</a></li>
-<li><a href="https://shoptalkshow.com/650/">Layout in CSS, Balatro Q&amp;A, Chrome Biz, &amp; Forkin VS Code</a></li>
-<li><a href="https://shoptalkshow.com/651/">Jason Lengstorf on CodeTV.dev, DevRel Panic, and Spicy Gear</a></li>
-<li><a href="https://shoptalkshow.com/652/">Talking to Bots, Building Browser Games, and Political LLMs</a></li>
-</ul>
-<h3>🧶 Crafts and Models</h3>
-<p>Too busy to sit down and hobby, but made one fun piece…</p>
-<ul>
-<li><a href="https://www.rokronline.com/products/rokr-ak-47-assault-rifle-gun-toy-3d-wooden-puzzle-lq901">AK-47 rubber band gun</a> - My brother got me a balsa wood AK-47 fully automatic rubber band gun. It’s a thoughtful gift and mixes three of my favorites: modeling, soviet history, and trolling my kids and their friends.</li>
-</ul>
-<h3>⌨️ <strong>Open source</strong></h3>
-<ul>
-<li><a href="https://github.com/davatron5000/awesome-standalones">Awesome Standalones</a> is becoming more valuable thanks to David Darnes’ involvement and 11ty-ification.</li>
-<li><a href="https://web-components.fluentui.dev/?path=/docs/concepts-introduction--docs">Fluent Web Components V3</a> is close to RC1</li>
-<li>Intra-source design system</li>
-</ul>
-<h3>👾 <strong>Video games</strong></h3>
-<ul>
-<li><a href="https://www.playbalatro.com/">Balatro</a> (Steam, Switch, iOS) - Absolutely hooked on this thanks to the ShopTalk D-d-discord.</li>
-</ul> 
-
-<br> 
-
-<https://daverupert.com/2025/02/vibe-check-37/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-22, from: Dave Winer's Scripting News)
-
-<a href="https://bsky.app/profile/jayrosen.bsky.social">Jay Rosen</a> started a list of <a href="https://bsky.app/profile/jayrosen.bsky.social/lists/3ling3swmwv2w">journalism sources</a> on Bluesky. <a href="https://bsky.app/profile/johnspurlock.com">John Spurlock</a> wrote an app that generates an <a href="https://firesky.tv/opml?list=https://bsky.app/profile/did:plc:3t37x6vfigdzzp2gjcfnzlz4/lists/3ling3swmwv2w">OPML subscription list</a> using Bluesky's API. It will enable us to recreate a world that Jay put together, outside of Bluesky. From AT Proto to OPML and RSS. 
-
-<br> 
-
-<http://scripting.com/2025/02/22.html#a193647>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-02-22, from: Dave Winer's Scripting News)
-
-We aren't prepared for what's coming. 
-
-<br> 
-
-<http://scripting.com/2025/02/22.html#a193529>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-02-22, from: Miguel de Icaza Mastondon feed)
-
-<p>Your outie writes code with -Wall,-Werror</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114048303973376394>
-
----
-
-## Going Deep on ‘Deep’
-
-date: 2025-02-22, updated: 2025-02-26, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.washingtonpost.com/opinions/2025/02/18/deep-peak-deep-deepseek-ai-tech-chatgpt-naming/>
-
----
-
-## Ural Notes Part 4: Flux and Foil
-
-date: 2025-02-22, updated: 2025-02-22, from: Russell Graves, Syonyk's Project Blog
-
- 
-
-<br> 
-
-<https://www.sevarg.net/2025/02/22/ural-notes-part-4-flux-and-foil/>
-
----
-
-## Howto: Humble command-line assistant
-
-date: 2025-02-22, from: Anton Zhiyanov blog
-
-You ask, and howto answers. That's the deal. 
-
-<br> 
-
-<https://antonz.org/howto/>
-
----
-
-**@Jessica Smith's blog** (date: 2025-02-22, from: Jessica Smith's blog)
-
-<p>Sometimes my humour is wasted on Viv, I <abbr title="swear to God">stg</abbr>.</p>
-<p>Indie: (has just thrown up on our bed)<br>
-Me: Hmm, this puts a whole new spin on that Lily Allen song about lying in the wet patch in the middle of the bed…<br>
-Viv: The what?<br>
-Me: You know, &ldquo;It&rsquo;s not fair, I think you&rsquo;re really mean&rdquo;…?<br>
-Viv: …no?<br>
-Me: Where even <em>were</em> you in 2009?</p> 
-
-<br> 
-
-<https://www.jayeless.net/2025/02/wet-patch.html>
-
----
-
-## The Trump-Putin regime? The Coffee Klatch | February 22, 2025 
-
-date: 2025-02-22, from: Robert Reich's blog
-
-With Heather Lofthouse and Yours Truly, Robert Reich, with special guest Rohit Chopra 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/157649800/8adc39c01d90554ad0fa70a83d8abac8.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/157649800/8adc39c01d90554ad0fa70a83d8abac8.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-trump-putin-regime-the-coffee>
-
----
-
-## February 21, 2025
-
-date: 2025-02-22, from: Heather Cox Richardson blog
-
-In an appearance at the Conservative Political Action Conference (CPAC) yesterday, billionaire Elon Musk seemed to be having difficulty speaking. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/february-21-2025>
-
----
-
-## Weeknotes: Feb. 15-21, 2025
-
-date: 2025-02-22, from: Tracy Durnell Blog
-
-Win of the week: I&#8217;ve been looking for my Pixel 3a so I can root it and use it as my everyday browsing device, and haven&#8217;t found it yet, but DID find my Pretty Hate Machine CD that&#8217;s been missing for like a year 🙌💿 (It was hiding along with The Postal Service, which I [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/02/21/weeknotes-feb-15-21-2025/>
-
----
-
-## Listened to Coming or Going
-
-date: 2025-02-22, from: Tracy Durnell Blog
-
-This song popped into my head today &#8212; I&#8217;ve been listening to another White Arrows song a bunch, so maybe that did it 😉 
-
-<br> 
-
-<https://tracydurnell.com/2025/02/21/listened-to-coming-or-going/>
-
----
-
-**@Jessica Smith's blog** (date: 2025-02-22, from: Jessica Smith's blog)
-
-<p>I started drafting a blog post on Marxist-feminism, but I feel like it&rsquo;s going to take me forever to finish because (ironically…) I am so flat out with housework and baby care that I have no goddamn time to work on it.</p>
-<p>It&rsquo;s funny, now the weekend is here, I&rsquo;m like, &ldquo;Yessss!! Vivian doesn&rsquo;t have work, so he can look after the baby while I… get on top of the housework.&rdquo; 😖</p> 
-
-<br> 
-
-<https://www.jayeless.net/2025/02/drafting-marxist-feminist-blog-post.html>
-
----
-
-## ‘Ready’ Is the New ‘Approved’
-
-date: 2025-02-22, updated: 2025-02-22, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://mastodon.social/@rileytestut/114043540322770608>
-
----
-
-## The 40th Anniversary of ProVUE at Macworld Expo
-
-date: 2025-02-22, updated: 2025-02-22, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://forum.provue.com/t/celebrating-the-40th-anniversary-of-provue-at-macworld-expo/6871>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-02-22, from: Miguel de Icaza Mastondon feed)
-
-<p>I learned about retrofitting and surfacing C/C++ APIs without touching the original C++ code via APInotes from this talk.</p><p>Can’t believe I didn’t know about this:</p><p><a href="https://fosdem.org/2025/schedule/event/fosdem-2025-6176-incremental-memory-safety-in-an-established-software-stack-lessons-learned-from-swift/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">fosdem.org/2025/schedule/event</span><span class="invisible">/fosdem-2025-6176-incremental-memory-safety-in-an-established-software-stack-lessons-learned-from-swift/</span></a></p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114044896377860472>
 

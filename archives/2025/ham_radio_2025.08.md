@@ -1,20 +1,20 @@
 ---
 title: ham radio
-updated: 2025-03-01 21:10:16
+updated: 2025-03-02 07:08:34
 ---
 
 # ham radio
 
-(date: 2025-03-01 21:10:16)
+(date: 2025-03-02 07:08:34)
 
 ---
 
-## AC-Line Safety Monitor Brings Technical, Privacy Issues
+## AC-line safety monitor brings technical, privacy issues
 
 date: 2025-02-28, from: EDN Blog
 
 <img width="627" height="853" src="https://www.edn.com/wp-content/uploads/Power-Points-Blog168_AC-line-safety-monitor_Fig2-e1740770525110.png?fit=627%2C853" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Power-Points-Blog168_AC-line-safety-monitor_Fig2-e1740770525110.png?w=627 627w, https://www.edn.com/wp-content/uploads/Power-Points-Blog168_AC-line-safety-monitor_Fig2-e1740770525110.png?w=221 221w" sizes="(max-width: 627px) 100vw, 627px" /><p>A small, easy-to-install device monitors the AC line for fire-inducing scenarios…and more. </p>
-<p>The post <a href="https://www.edn.com/ac-line-safety-monitor-brings-technical-privacy-issues/" data-wpel-link="internal">AC-Line Safety Monitor Brings Technical, Privacy Issues</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+<p>The post <a href="https://www.edn.com/ac-line-safety-monitor-brings-technical-privacy-issues/" data-wpel-link="internal">AC-line safety monitor brings technical, privacy issues</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
 <br> 

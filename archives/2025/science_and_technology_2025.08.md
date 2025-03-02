@@ -1,11 +1,107 @@
 ---
 title: science and technology
-updated: 2025-03-01 21:10:16
+updated: 2025-03-02 07:08:34
 ---
 
 # science and technology
 
-(date: 2025-03-01 21:10:16)
+(date: 2025-03-02 07:08:34)
+
+---
+
+## Touchdown! Carrying NASA Science, Firefly’s Blue Ghost Lands on Moon
+
+date: 2025-03-02, from: NASA breaking news
+
+Carrying a suite of NASA science and technology, Firefly Aerospace’s Blue Ghost Mission 1 successfully landed at 3:34 a.m. EST on Sunday near a volcanic feature called Mons Latreille within Mare Crisium, a more than 300-mile-wide basin located in the northeast quadrant of the Moon’s near side. The Blue Ghost lander is in an upright [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/touchdown-carrying-nasa-science-fireflys-blue-ghost-lands-on-moon/>
+
+---
+
+## Mozilla flamed by Firefox fans after promises to not sell their data go up in smoke
+
+date: 2025-03-02, updated: 2025-03-02, from: The Register (UK I.T. News)
+
+<h4>Open source browser maker ties itself up in legalese and explanations</h4> <p>Mozilla this week asked Firefox users to abide by new Terms of Use, and updated its Privacy Notice as well as an FAQ – only to quickly issue a clarification that it isn’t actually claiming ownership of user data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/>
+
+---
+
+## Regional Internet Registries work to prevent one of their own going rogue
+
+date: 2025-03-02, updated: 2025-03-02, from: The Register (UK I.T. News)
+
+<h4>There&#39;s a lot going on at the orgs who regulate IP addresses as they revisit global governance and new leadership comes to APNIC and LACNIC</h4> <p><strong>APRICOT 2025</strong>  Global and local change is coming to the world&#39;s five Regional Internet Registries. The orgs that delegate and manage IP addresses are working on a policy that will allow them to stop one of their number going rogue, and the process is proving controversial.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/02/internet_governance_update/>
+
+---
+
+## Hisense QLED TVs are just LED TVs, lawsuit claims
+
+date: 2025-03-01, updated: 2025-03-01, from: The Register (UK I.T. News)
+
+<h4>Quantum dot technology allegedly absent from tellies</h4> <p>Hisense USA has been sued for advertising televisions with quantum dot technology that allegedly lack quantum dot technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/01/hisense_qled_tvs_are_just/>
+
+---
+
+## Genode OS Framework 25.02 released
+
+date: 2025-03-01, from: OS News
+
+The prime feature is the continuation of the multi-monitor topic of the previous release, covering multi-monitor window management and going as far as seamlessly integrating multi-monitor virtual machines (Section Multi-monitor window management and virtual machines). The second and long anticipated feature is the Chromium engine version 112 in combination with Qt 6.6.2, which brings our port of the Falkon web browser on par with the modern web (Section Qt, WebEngine, and Falkon browser). On the account of exploratory activities, we are happy to report that Qemu can now be used directly on Genode (Section Qemu on Genode). ↫ Genode release notes Another incredibly impressive set of improvements to Genode, which will benefit Sculpt OS, too of course. Aside from the improvements mentioned above, there&#8217;s also new support for Intel&#8217;s Meteor Lake and embedded F&#38;S MX8MP armStone boards, improvements to USB and audio, and much more. 
+
+<br> 
+
+<https://www.osnews.com/story/141829/genode-os-framework-25-02-released/>
+
+---
+
+## Netboot Windows 11 with iSCSI and iPXE
+
+date: 2025-03-01, from: OS News
+
+For the past several years my desktop has also had a disk dedicated to maintaining a Windows install. I’d prefer to use the space in my PC case for disks for Linux. Since I already run a home NAS, and my Windows usage is infrequent, I wondered if I could offload the Windows install to my NAS instead. This lead me down the course of netbooting Windows 11 and writing up these notes on how to do a simplified “modern” version. ↫ Terin Stock The setup Terin Stock ended up with is rather ingenious, to be honest. They had to create not just an environment in which netbooting through iXPE using iSCSI, but also a customised Windows PE ISO that included the necessary drivers to make installing Windows onto a iSCSI-connected remote drive possible in the first place, because they&#8217;re not included in the Windows installation ISO. This isn&#8217;t exactly a standard setup, of course, so there were a few roadblocks to clear before getting there. They now have Windows 11 booting from a drive in their NAS, and it seems it doesn&#8217;t affect gaming &#8211; the reason why they did this in the first place is an online game that hard-requires Windows &#8211; at all. Installing the game through Steam took a bit longer, sure, but regular gameplay seems unaffected, and there&#8217;s no saturation on the network or disk. You&#8217;d think this would be wholly too slow to be suitable for gaming, but I guess at least some games handle this just fine. My uneducated guess is that more demanding games that rely on a ton of disk activity to load textures and so on will have a much more difficult time running. In any event, this intrigues me, and I&#8217;m kind of curious to try and set this up myself, if only for the memes. It looks like fun. 
+
+<br> 
+
+<https://www.osnews.com/story/141827/netboot-windows-11-with-iscsi-and-ipxe/>
+
+---
+
+## Windows 7 lives! How to keep your favorite fossil running
+
+date: 2025-03-01, updated: 2025-03-01, from: The Register (UK I.T. News)
+
+<h4>You probably shouldn&#39;t, but if you must, you can</h4> <p>As the expiration date for Windows 10 presses ever closer, spare a thought for its classic forerunner. No, not Windows 8 – nobody ever loved that – but Windows 7, with its classic Start menu, tasteful transparency, lack of built-in advertising, and so on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/01/running_windows_7_2025/>
+
+---
+
+## Membership of New Zealand’s domain registry suddenly triples, which isn't entirely welcome
+
+date: 2025-03-01, updated: 2025-03-01, from: The Register (UK I.T. News)
+
+<h4>Free speech org criticized constitution and made hard-to-sustain accusations of possible censorship</h4> <p>Membership of InternetNZ, the administrator of New Zealand&#39;s .NZ country code top-level domain, has more than tripled in a week after the org&#39;s review of its constitution was criticized by a free speech advocacy organization.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/01/internetnz_constitution/>
 
 ---
 
@@ -1842,52 +1938,4 @@ While SPARC may no longer be supported by the main Illumos project, it still wor
 <br> 
 
 <https://www.osnews.com/story/141779/illums-on-sparc-possible-but-problematic/>
-
----
-
-## Flathub safety: a layered approach from source to user
-
-date: 2025-02-22, from: OS News
-
-About two weeks ago we talked about why Fedora manages its own Flatpak repository, and why that sometimes leads to problems with upstream projects. Most recently, Fedora&#8217;s own OBS Flatpak was broken, leading to legal threats from the OBS project, demanding Fedora remove any and all branding from its OBS Flatpak. In response, Fedora&#8217;s outgoing project leader Matthew Miller gave an interview on YouTube to Brodie Robertson, in which Miller made some contentious claims about a supposed lack of quality control, security, and safety checks in Flathub. These claims led to a storm of criticism directed at Miller, and since I follow quite a few people actively involved in the Flatpak and Flathub projects &#8211; despite my personal preference for traditional Linux packaging &#8211; I knew the criticism was warranted. As a more official response, Cassidy James Blaede penned an overview of all the steps Flathub takes and the processes it has in place to ensure the quality, security, and safety of Flathub and its packages. With thousands of apps and billions of downloads, Flathub has a responsibility to help ensure the safety of our millions of active users. We take this responsibility very seriously with a layered, in-depth approach including sandboxing, permissions, transparency, policy, human review, automation, reproducibility, auditability, verification, and user interface. Apps and updates can be fairly quickly published to Flathub, but behind the scenes each one takes a long journey full of safety nets to get from a developer’s source code to being used on someone’s device. While information about this process is available between various documentation pages and the Flathub source code, I thought it could be helpful to share a comprehensive look at that journey all in one place. ↫ Cassidy James Blaede Flathub implements a fairly rigorous set of tests, both manual and automated, on every submission. There&#8217;s too many to mention, but reading through the article, I&#8217;m sure most of you will be surprised by just how solid and encompassing the processes are. There are a few applications from major, trusted sources &#8211; think applications from someone like Mozilla &#8211; who have their own comprehensive infrastructure and testing routines, but other than those few, Flathub performs extensive testing on all submissions. I&#8217;m not a particular fan of Flatpak for a variety of reasons, but I prefer to stick to facts and issues I verifiably experience when dealing with Flatpaks. I was definitely a bit taken aback by the callousness with which such a long-time, successful Fedora project leader like Miller threw Flathub under the bus, but at least one of the outcomes of all this is greater awareness of the steps Flathub takes to ensure the quality, security, and safety of the packages it hosts. Nothing is and will be perfect, and I&#8217;m sure issues will occasionally arise, but it definitely seems like Flathub has its ducks in a row. 
-
-<br> 
-
-<https://www.osnews.com/story/141777/flathub-safety-a-layered-approach-from-source-to-user/>
-
----
-
-## California goes ape with bill to crown Bigfoot official state cryptid
-
-date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
-
-<h4>Beast remains as mythical as the return on AI investment</h4> <p>Some muy importante legislation is stuck in the cogs of Californian bureaucracy – an Assembly Bill to recognize Bigfoot, aka Sasquatch, as the official state cryptid.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/22/bigfoot_california_state_cryptid/>
-
----
-
-## Binned off staff, slashed stock options. What's next? Ah yes, bigger C-suite bonuses
-
-date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
-
-<h4>And really, nothing out of the ordinary for Silicon Valley</h4> <p>After another round of mass layoffs and reports of slashed stock options for remaining employees, Meta has like clockwork opted to reward its top executives with a substantial bonus increase.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/22/meta_pumps_executive_bonuses/>
-
----
-
-## Docker delays Hub pull limits by a month, tweaks maximums, stalls storage billing indefinitely
-
-date: 2025-02-22, updated: 2025-02-22, from: The Register (UK I.T. News)
-
-<h4>Image fetches to be capped on hourly basis for Personal, unauthenticated use, paid-for plans get unlimited access</h4> <p>Docker has delayed its plan to limit image pulls – the downloading of container images – from Docker Hub, by one month and has altered previously published quotas.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/02/22/docker_hub_pull_limits/>
 
