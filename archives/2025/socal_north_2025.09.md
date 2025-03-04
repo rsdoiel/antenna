@@ -1,23 +1,179 @@
 ---
 title: socal north
-updated: 2025-03-03 07:07:46
+updated: 2025-03-04 07:07:28
 ---
 
 # socal north
 
-(date: 2025-03-03 07:07:46)
+(date: 2025-03-04 07:07:28)
 
 ---
 
-## Music as medicine: Could doctors prescribe music to treat anxiety and other mental health issues?
+## New Pacific Coast Highway access pass available for some residents and essential businesses
 
-date: 2025-03-03, updated: 2025-03-03, from: The LAist
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
 
-Could music be prescribed for conditions such as generalized anxiety disorder? Researchers, musicians and at least one local company think it's possible. 
+The new passes will start to be distributed Tuesday and are for people, businesses and school buses who need to travel in the Palisades Fire burn area. 
 
 <br> 
 
-<https://laist.com/news/health/music-as-medicine-to-treat-anxiety-other-mental-health-issues>
+<https://laist.com/news/transportation/new-pacific-coast-highway-access-pass-available-for-some-residents-and-essential-businesses>
+
+---
+
+## LA has a backlog of complaints about streetlight outages. Why haven't they been fixed?
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+The neighborhoods with the highest number of complaints were downtown L.A. and Boyle Heights, according to an LAist review. 
+
+<br> 
+
+<https://laist.com/news/transportation/los-angeles-streetlight-outage-copper-wire-theft>
+
+---
+
+## Redondo Beach becomes first LA County city to use ranked-choice voting
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+The South Bay city is choosing a mayor, a city attorney and three councilmembers in an all-mail-ballot municipal election. 
+
+<br> 
+
+<https://laist.com/news/politics/redondo-beach-becomes-first-la-county-city-to-use-ranked-choice-voting>
+
+---
+
+## Proposed LAUSD calendar commits to three-week winter break
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+The proposal carves out a full week for optional school days during the winter break. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-2025-2026-calendar-vote-winter-break>
+
+---
+
+## Clear skies ahead of another winter storm
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+After light rain this weekend, a stronger storm system is on it's way this week. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/winter-storm-socal>
+
+---
+
+## 30 LA County probation officers are accused of allowing 'gladiator fights' in juvenile hall
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+The state attorney general’s alleges that officers “allowed and, in some instances, encouraged” 69 fights among the youth. The 30 officers are charged with child abuse and endangerment. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/la-county-probation-officers-gladiator-fights-los-padrinos-juvenile-hall-indictment-child-abuse>
+
+---
+
+## President Trump pauses Ukraine military aid
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+The news comes just days after a disastrous meeting between the U.S. president and Ukraine's leader, Volodymyr Zelenskyy. 
+
+<br> 
+
+<https://laist.com/news/politics/president-trump-pauses-ukraine-military-aid>
+
+---
+
+## Linda McMahon has been confirmed as Trump's secretary of Education
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+The White House has been clear that it intends to dismantle the U.S. Department of Education, and that it will be McMahon's job to oversee that effort. 
+
+<br> 
+
+<https://laist.com/news/education/linda-mcmahon-has-been-confirmed-as-trumps-secretary-of-education>
+
+---
+
+## NASA's upcoming telescope launch aims to address some existential questions
+
+date: 2025-03-03, updated: 2025-03-03, from: The LAist
+
+The new 8.5-foot telescope is set to launch Tuesday by NASA's Jet Propulsion Laboratory with a clear objective: to explore the origins of the universe. The mission begins with a launch from Vandenberg Space Force Base. 
+
+<br> 
+
+<https://laist.com/news/jpl-telescope-launch-aims-to-address-some-existential-questions>
+
+---
+
+## How a new waiver for fire-impacted residents can help preserve trees on your property
+
+date: 2025-03-03, updated: 2025-03-03, from: The LAist
+
+A new waiver allows residents to request trees on their property not be cut down during debris removal. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/waiver-fire-impacted-residents-preserve-trees-property>
+
+---
+
+## Canada and China retaliate after Trump's tariffs take effect
+
+date: 2025-03-03, updated: 2025-03-03, from: The LAist
+
+Canada and China hit back swiftly after Trump's sweeping tariffs took effect Tuesday, raising fears of a global trade war. International markets, meanwhile, continued to slide. 
+
+<br> 
+
+<https://laist.com/news/25-tariffs-on-imports-from-canada-and-mexico-will-go-ahead>
+
+---
+
+## OC's likely new state senator vows to channel Elon Musk with 'DOGE California'
+
+date: 2025-03-03, updated: 2025-03-03, from: The LAist
+
+If his lead holds as expected, he will avoid a runoff by winning more than half the vote. 
+
+<br> 
+
+<https://laist.com/news/politics/tony-strickland-doge-california-state-senator-oc>
+
+---
+
+## Foreign students say the threat of Trump's executive orders is getting real
+
+date: 2025-03-03, updated: 2025-03-03, from: The LAist
+
+President Trump warned international students that if they support groups the U.S. deems terrorist organizations, "we will find you, and we will deport you." It's left many student activists anxious. 
+
+<br> 
+
+<https://laist.com/news/education/foreign-students-say-the-threat-of-trumps-executive-orders-is-getting-real>
+
+---
+
+## What you need to know about Trump's address to joint session of Congress
+
+date: 2025-03-03, updated: 2025-03-03, from: The LAist
+
+President Trump will lay out his second term agenda in an address to a joint session of Congress on Tuesday night. 
+
+<br> 
+
+<https://laist.com/news/politics/what-you-need-to-know-about-trumps-address-to-joint-session-of-congress>
 
 ---
 
@@ -30,6 +186,18 @@ Gustave Caillebotte exhibit opens at the Getty, Ben Barnes plays the Wiltern, No
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-southern-california-march-3-6>
+
+---
+
+## Music as medicine: Could doctors prescribe music to treat anxiety and other mental health issues?
+
+date: 2025-03-03, updated: 2025-03-03, from: The LAist
+
+Could music be prescribed for conditions such as generalized anxiety disorder? Researchers, musicians and at least one local company think it's possible. 
+
+<br> 
+
+<https://laist.com/news/health/music-as-medicine-to-treat-anxiety-other-mental-health-issues>
 
 ---
 

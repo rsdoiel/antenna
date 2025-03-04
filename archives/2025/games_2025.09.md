@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-03-03 07:07:49
+updated: 2025-03-04 07:07:32
 ---
 
 # games
 
-(date: 2025-03-03 07:07:49)
+(date: 2025-03-04 07:07:32)
+
+---
+
+## Twenty-Sided Tavern is headed on national tour — but there&#8217;s still time to the see the original
+
+date: 2025-03-04, updated: 2025-03-03, from: Polygon Website
+
+Immersive Dungeons &#38; Dragons show The Twenty-Sided Tavern is soon hitting the road for a national tour. But there’s still a chance to see it off-Broadway, with the show getting one last extension through May 11. Part D&#38;D actual play, part improv, and part immersive theater where the audience participates to determine the fate of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/actual-play/533317/twenty-sided-tavern-is-headed-on-national-tour-but-theres-still-time-to-the-see-the-original>
+
+---
+
+## Dress to Impress codes for March 2025
+
+date: 2025-03-04, updated: 2025-03-04, from: Polygon Website
+
+Dress to Impress codes are the easiest way to redeem unique clothing items for free in the competitive fashion game. Available free-to-play on your phone, computer, or console via the Roblox platform, the update for March is debuting a new game mode called Style Showdown. This post lists all active codes for Dress to Impress [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dress-to-impress-guides/532371/dti-codes-list-all-active>
+
+---
+
+## Hellblade 2 leads very different set of nominations for BAFTA Games Awards
+
+date: 2025-03-04, updated: 2025-03-04, from: Polygon Website
+
+This far into 2025, you might think the conversation about the best games of 2024 settled. The Game Awards in December set the tone, the recent DICE Awards followed TGA’s lead quite closely, and the nominations for the forthcoming Game Developers Choice Awards indicate it won’t deviate far from the consensus either. But the BAFTA [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/533430/bafta-games-awards-2025-nominees-list-game-of-the-year>
+
+---
+
+## Alienware’s new 27-inch OLED gaming monitor packs in 4K at under $1,000
+
+date: 2025-03-04, updated: 2025-03-03, from: Polygon Website
+
+I’ve only been using Alienware’s new 27-inch 4K QD-OLED gaming monitor for a few days, but I only needed a slice of that time to know that it’s a pretty great value. Having reviewed Sony’s $1,099 InZone M10S 1440p gaming monitor a few months ago, Alienware’s monitor is a much easier sell: it’s cheaper at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/531783/alienware-qd-oled-monitor-27-4k-aw2725q-specs-impressions-buy>
+
+---
+
+## Can Makuhita be shiny in Pokémon Go?
+
+date: 2025-03-04, updated: 2025-03-04, from: Polygon Website
+
+Makuhita, the guts Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Makuhita can be shiny in Pokémon Go! Many moons ago, Hariyama was pretty relevant to the meta as a fighting-type Pokémon, but it has since been overtaken by Pokémon like Lucario, Conkeldurr, Terrakion, and others. However, Hariyama is still [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/24170525/can-makuhita-be-shiny-hariyama>
+
+---
+
+## ‘Beware the Gypceros’ walkthrough in Monster Hunter Wilds
+
+date: 2025-03-03, updated: 2025-03-03, from: Polygon Website
+
+“Beware the Gypceros” is one of the first High Rank side quests you’ll encounter once you’ve rolled credits in Monster Hunter Wilds. Not only does it task you with fighting a new monster that wasn’t present in the lower ranks, but it asks you to interact with the game’s weather system. In this Monster Hunter [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/532977/beware-the-gypceros-location-walkthrough-fallow-zatoh>
+
+---
+
+## How to get Fucium Ore in Monster Hunter Wilds
+
+date: 2025-03-03, updated: 2025-03-03, from: Polygon Website
+
+Fucium Ore is a High Rank material found in one of the final environments you’ll unlock in Monster Hunter Wilds. You’ll need it for some crucial upgrades that will allow you to take on some of the most powerful monsters in the game. In this Monster Hunter Wilds guide, we’ll walk you through how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/532976/fucium-ore-location-how-to-get>
+
+---
+
+## Where to find gillopods in Monster Hunter Wilds
+
+date: 2025-03-03, updated: 2025-03-03, from: Polygon Website
+
+Gillopods are a special kind of endemic life in Monster Hunter Wilds. You’ll need to capture one as part of a side quest, “Dareel’s Special Research Report,” for Dareel at the Windward Plains base camp late in the game (after the credits and during the High Rank section). This is the fifth side quest in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/533168/gillopod-location-where-to-find>
+
+---
+
+## Where to find rime beetles in Monster Hunter Wilds
+
+date: 2025-03-03, updated: 2025-03-03, from: Polygon Website
+
+Rime beetles are a kind of endemic life in Monster Hunter Wilds. You’ll need to capture them as part of a side quest, “Samin’s Research Report (Cont.),” for Samin at the Windward Plains base camp. This is fourth side quest in Dareel and Samin’s ongoing feud — you’ve already caught a tracktail lizard, dapperwing, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/533116/rime-beetle-location-where-to-find>
 
 ---
 

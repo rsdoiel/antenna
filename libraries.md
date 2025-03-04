@@ -1,11 +1,75 @@
 ---
 title: libraries
-updated: 2025-03-03 07:07:50
+updated: 2025-03-04 07:07:33
 ---
 
 # libraries
 
-(date: 2025-03-03 07:07:50)
+(date: 2025-03-04 07:07:33)
+
+---
+
+## Repackaging Christie — Does AI Have a Role?
+
+date: 2025-03-04, from: Scholarly Kitchen
+
+<p>If the local pub trivia master is looking for information on Agatha Christie, what are the available options? How will AI change the nature of literary scholarship?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/04/the-mysteries-of-agatha-christie-how-will-ai-change-literary-scholarship/">Repackaging Christie &#8212; Does AI Have a Role?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/04/the-mysteries-of-agatha-christie-how-will-ai-change-literary-scholarship/>
+
+---
+
+## Dorothy and the Wizard in Oz, by L. Frank Baum
+
+date: 2025-03-04, from: Standard Ebooks, new releaases
+
+A young girl and her companions travel through dangerous underground realms with the help of an old friend. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/l-frank-baum/dorothy-and-the-wizard-in-oz>
+
+---
+
+## Midwinter, by John Buchan
+
+date: 2025-03-04, from: Standard Ebooks, new releaases
+
+Treachery threatens a planned Jacobite uprising, but one of its leading agents can’t work out the identity of the culprit. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/john-buchan/midwinter>
+
+---
+
+## The Fur Country, by Jules Verne
+
+date: 2025-03-04, from: Standard Ebooks, new releaases
+
+A group of colonists attempt to settle in the Arctic Circle. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/jules-verne/the-fur-country/n-danvers>
+
+---
+
+## Day in Review (March 3–6)
+
+date: 2025-03-03, from: Association of Research Libraries News
+
+<p>Last Updated on March 3, 2025, 3:44 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 4 &#124; Wednesday, March 5 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-3-6/">Day in Review (March 3–6)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-march-3-6/>
 
 ---
 
@@ -44,16 +108,4 @@ Bukenberger, Mona
 <br> 
 
 <http://hdl.handle.net/20.500.11850/714942>
-
----
-
-## Women’s History Month 2025 – Women and Sports
-
-date: 2025-03-02, from: CSUN Library Blog, Cited
-
-<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/03/Women-and-Sports-900-x-600-px2-300x200.png" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/03/Women-and-Sports-900-x-600-px2-300x200.png 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/03/Women-and-Sports-900-x-600-px2-768x512.png 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/03/Women-and-Sports-900-x-600-px2.png 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>&#8220;Moving Forward Together!&#8221; This month, the CSUN University Library is celebrating national Women&#8217;s History Month with a special focus on women and sports. Women&#8217;s involvement&#8230; 
-
-<br> 
-
-<https://library.csun.edu/blogs/cited/2025/03/02/womens-history-month-2025-women-and-sports/>
 

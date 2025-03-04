@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-03-03 07:07:51
+updated: 2025-03-04 07:07:34
 ---
 
 # retro computing
 
-(date: 2025-03-03 07:07:51)
+(date: 2025-03-04 07:07:34)
+
+---
+
+## b.log 2025/03/03 - Spring has finally sprung, SimpleSeq, Dolce Gusto Piccolo XS temperature hack.
+
+date: 2025-03-03, from: Richard Murray's blog
+
+Spring has finally sprung, SimpleSeq, Dolce Gusto Piccolo XS temperature hack. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250303>
 
 ---
 

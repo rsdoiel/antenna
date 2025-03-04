@@ -1,11 +1,557 @@
 ---
 title: snapshots
-updated: 2025-03-03 07:07:54
+updated: 2025-03-04 07:07:36
 ---
 
 # snapshots
 
-(date: 2025-03-03 07:07:54)
+(date: 2025-03-04 07:07:36)
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-04, from: Robert's feed at BlueSky)
+
+Very cool.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3ljkpogqbsk2u>
+
+---
+
+## Package Delayed Due To Tides
+
+date: 2025-03-04, updated: 2025-03-04, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/04/package-delayed-due-to-tides/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Looks like the Washington Post is covering TrumpLand, not RealityLand. 
+
+<br> 
+
+<https://archive.is/xZX4g>
+
+---
+
+## AI Chatbots Can Cushion the High School Counselor Shortage — but Are They Bad for Students?
+
+date: 2025-03-04, from: The Markup blog
+
+The more students turn to chatbots, the fewer chances they have to develop real-life relationships that can lead to jobs and later success 
+
+<br> 
+
+<https://themarkup.org/machine-learning/2025/03/04/ai-chatbots-can-cushion-the-high-school-counselor-shortage-but-are-they-bad-for-students>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Trump Hates Canada for its Decency. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-hates-canada-for-its-decency?publication_id=277517&post_id=158363866&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Trump Hates Canada for its Decency
+
+date: 2025-03-04, from: Paul Krugman
+
+The president lacks basic decency, and loathes people who do 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-hates-canada-for-its-decency>
+
+---
+
+## Radar Trends to Watch: March 2025
+
+date: 2025-03-04, from: O'Reilly Radar
+
+Anthropic’s announcement of Claude 3.7 Sonnet notwithstanding, the breakneck pace of major AI announcements seemed to slow down through February. That gave us some time to look at some other topics. Two important posts about programming appeared: Salvatore Sanfilippo’s “We Are Destroying Software” and Rob Pike’s slide deck “On Bloat.” They’re unsurprisingly similar. Neither mentions [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/radar-trends-to-watch-march-2025/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Trump Orders Permanent Govt Shutdown. 
+
+<br> 
+
+<https://talkingpointsmemo.com/edblog/trump-orders-permanent-govt-shutdown-no-really>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Ontario will cut U.S. power &#39;with a smile on my face,&#39; Ford says. 
+
+<br> 
+
+<https://torontosun.com/news/provincial/ontario-will-cut-off-u-s-electricity-exports-with-a-smile-on-my-face-ford-says>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Warren Buffett: Tariffs are ‘an act of war.’ 
+
+<br> 
+
+<https://www.cnn.com/2025/03/03/business/warren-buffett-tariffs-trump>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Trump&#39;s tariffs on Canada, Mexico and China could push up car prices by as much as $12,200. 
+
+<br> 
+
+<https://www.cbsnews.com/news/trump-tariffs-canada-mexico-will-car-prices-increase-12000/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Here&#39;s the latest from Hays, Kansas: Elon Musk fired my wife. 
+
+<br> 
+
+<https://kansasreflector.com/2025/03/04/heres-the-latest-from-hays-kansas-elon-musk-fired-my-wife/>
+
+---
+
+## Time warp
+
+date: 2025-03-04, from: Status-Q blog
+
+I realise that I should be slightly more cautious about my use of phrases like &#8216;today&#8217; and &#8216;this morning&#8217; in my posts, since quite a few of my readers receive them by email the following day. In the days of the Trump regime, phrases like &#8216;The news looks a bit better this morning&#8217; have a <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/03/04/13085/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/03/04/13085/>
+
+---
+
+## llm-ollama 0.9.0
+
+date: 2025-03-04, updated: 2025-03-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/taketwo/llm-ollama/releases/tag/0.9.0">llm-ollama 0.9.0</a></strong></p>
+This release of the <code>llm-ollama</code> plugin adds support for <a href="https://simonwillison.net/2025/Feb/28/llm-schemas/">schemas</a>, thanks to a <a href="https://github.com/taketwo/llm-ollama/pull/36">PR by Adam Compton</a>.</p>
+<p>Ollama provides very robust support for this pattern thanks to their <a href="https://ollama.com/blog/structured-outputs">structured outputs</a> feature, which works across all of the models that they support by intercepting the logic that outputs the next token and restricting it to only tokens that would be valid in the context of the provided schema.</p>
+<p>With Ollama and <code>llm-ollama</code> installed you can run even run structured schemas against vision prompts for local models. Here's one against Ollama's <a href="https://ollama.com/library/llama3.2-vision">llama3.2-vision</a>:</p>
+<pre><code>llm -m llama3.2-vision:latest \
+  'describe images' \
+  --schema 'species,description,count int' \
+  -a https://static.simonwillison.net/static/2025/two-pelicans.jpg
+</code></pre>
+<p>I got back this:</p>
+<pre><code>{
+    "species": "Pelicans",
+    "description": "The image features a striking brown pelican with its distinctive orange beak, characterized by its large size and impressive wingspan.",
+    "count": 1
+}
+</code></pre>
+<p>(Actually a bit disappointing, as there are <a href="https://static.simonwillison.net/static/2025/two-pelicans.jpg">two pelicans</a> and their beaks are brown.)
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/4/llm-ollama-090/#atom-everything>
+
+---
+
+## llm-mistral 0.11
+
+date: 2025-03-04, updated: 2025-03-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-mistral/releases/tag/0.11">llm-mistral 0.11</a></strong></p>
+I added <a href="https://simonwillison.net/2025/Feb/28/llm-schemas/">schema support</a> to this plugin which adds support for the <a href="https://docs.mistral.ai/api/">Mistral API</a> to LLM. Release notes:</p>
+<blockquote>
+<ul>
+<li>Support for LLM <a href="https://llm.datasette.io/en/stable/schemas.html">schemas</a>. <a href="https://github.com/simonw/llm-mistral/issues/19">#19</a></li>
+<li><code>-o prefix '{'</code> option for forcing a response prefix. <a href="https://github.com/simonw/llm-mistral/issues/18">#18</a></li>
+</ul>
+</blockquote>
+<p>Schemas now work with OpenAI, Anthropic, Gemini and Mistral hosted models, plus self-hosted models via <a href="https://www.ollama.com/">Ollama</a> and <a href="https://github.com/taketwo/llm-ollama">llm-ollama</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/4/llm-mistral-011/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Dow tumbles more than 600 points, S&amp;P 500 posts biggest loss since December as Trump says tariffs will proceed. 
+
+<br> 
+
+<https://www.cnbc.com/2025/03/02/stock-futures-rise-slightly-in-overnight-trading-as-investors-await-tariff-news-live-updates.html>
+
+---
+
+## I built an automaton called Squadron
+
+date: 2025-03-04, updated: 2025-03-04, from: Simon Willison’s Weblog
+
+<p>I believe that the price you have to pay for taking on a project is <a href="https://simonwillison.net/2022/Nov/6/what-to-blog-about/#projects">writing about it afterwards</a>. On that basis, I feel compelled to write up my decidedly non-software project from this weekend: Squadron, an automaton.</p>
+<p>I've been obsessed with <a href="https://en.wikipedia.org/wiki/Automaton">automata</a> for decades, ever since I first encountered the <a href="https://en.wikipedia.org/wiki/Cabaret_Mechanical_Theatre">Cabaret Mechanical Theater</a> in Covent Garden in London (there from 1984-2003 - today it's a roaming collection). If you're not familiar with them, they are animated mechanical sculptures. I consider them to be the highest form of art.</p>
+<p>For my birthday this year Natalie signed me up for a two day, 16 hour hour weekend class to make one at <a href="https://www.thecrucible.org/">The Crucible</a> in Oakland. If you live in the SF Bay Area and are not yet aware of the Crucible I'm delighted to introduce you - it's a phenomenal non-profit art school with an enormous warehouse that teaches blacksmithing, glass blowing, welding, ceramics, woodwork and dozens of other crafts. Here's <a href="https://www.thecrucible.org/course-search/">their course catalog</a>. Go enrich your soul!</p>
+<p>I took their class in "Mechanical Sculpture", which turned out to be <em>exactly</em> a class in how to make automata. I guess the term "automota" isn't widely enough known to use in the course description!</p>
+<p>The class was small - two students and one instructor - which meant that we got an extremely personalized experience.</p>
+<h4 id="what-i-built">What I built</h4>
+<p>On day one we worked together on a class project. I suggested a pelican, and we built exactly that - a single glorious pelican that flapped its wings and swooped from side to side.</p>
+<p>Day two was when we got to build our own things. We'd already built a pelican, but I wanted one of my own... so I figured the only thing better than a pelican is a full squadron of them!</p>
+<p>Hence, Squadron. Here's a video of my finished piece in action:</p>
+
+<div style="max-width: 100%; margin-bottom: 0.4em">
+    <video 
+        controls="controls"
+        preload="none"
+        aria-label="Three wooden pelicans gently and jerkly flap their wings, suspended on brass wires above a wooden contraption containing a motor, a drive shaft and two cams driving rods that move the bodies up and down."
+        poster="https://static.simonwillison.net/static/2025/squadron.jpg" loop="loop"
+        style="width: 100%; height: auto;">
+        <source src="https://static.simonwillison.net/static/2025/squadron.mp4" type="video/mp4" />
+    </video>
+</div>
+
+<p>I think it captures their pelican charisma pretty well!</p>
+<h4 id="how-i-built-it">How I built it</h4>
+<p>I was delighted to learn from the class that the tools needed to build simple automata are actually quite accessible:</p>
+<ul>
+<li>A power drill</li>
+<li>A saw - we used a Japanese pull saw</li>
+<li>Wood glue</li>
+<li>Screws</li>
+<li>Wood - we mainly worked with basswood, plus I used some poplar wood for the wings</li>
+<li>Brass wires and rods</li>
+<li>Pliers for working with the wire</li>
+</ul>
+<p>The most sophisticated tool we used was a reciprocating <a href="https://en.wikipedia.org/wiki/Scroll_saw">scroll saw</a>, for cutting shapes out of the wood. We also had access to a bench sander and a drill press, but those really just sped up processes that can be achieved using sand paper and a regular hand drill.</p>
+<p>I've taken a lot of photos of pelicans over the years. I found this side-on photograph that I liked of two pelicans in flight:</p>
+<p><img src="https://static.simonwillison.net/static/2025/two-pelicans.jpg" alt="Two glorious pelicans in flight, viewed sideways on" style="max-width: 100%;" /></p>
+<p>Then I used the iOS Photos app feature where you can extract an object from a photo as a "sticker" and pasted the result into iOS Notes.</p>
+<p><img src="https://static.simonwillison.net/static/2025/notes-pelican.jpg" alt="Screenshot of iOS notes - just the first pelican is in the note, with a white background instead of the sky" style="max-width: 100%;" /></p>
+<p>I printed the image from there, which gave me a pelican shape on paper. I cut out just the body and used it to trace the shape onto the wood, then ran the wood through the scroll saw. I made three of these, not paying too much attention to accuracy as it's better for them to have slight differences to each other.</p>
+<p>For the wings I started with rectangles of poplar wood, cut using the Japanese saw and attached to the pelican's body using bent brass wire through small drilled holes. I later sketched out a more interesting wing shape on some foam board as a prototype (loosely inspired by photos I had taken), then traced that shape onto the wood and shaped them with the scroll saw and sander.</p>
+<p>Most automata are driven using <a href="https://en.wikipedia.org/wiki/Cam_(mechanism)">cams</a>, and that was the pattern we stuck to in our class as well. Cams are incredibly simple: you have a rotating rod (here driven by a 12V 10RPM motor) and you attach an offset disc to it. That disc can then drive all manner of useful mechanisms.</p>
+<p>For my pelicans the cams lift rods up and down via a "foot" that sits on the cam. The feet turned out to be essential - we made one from copper and another from wood. Without feet the mechanism was liable to jam.</p>
+<p>I made both cams by tracing out shapes with a pencil and then cutting the wood with the scroll saw, then using the drill press to add the hole for the rod.</p>
+<p>The front pelican's body sits on a brass rod that lifts up and down, with the wings fixed to wires.</p>
+<p>The back two share a single wooden dowel, sitting on brass wires attached to two small holes drilled into the end.</p>
+<p>To attach the cams to the drive shaft I drilled a small hole through the cam and the brass drive shaft, then hammered in a brass pin to hold the cam in place. Without that there's a risk of the cam slipping around the driving rod rather than rotating firmly in place.</p>
+<p>After adding the pelicans with their fixed wings I ran into a problem: the tension from the wing wiring caused friction between the rod and the base, resulting in the up-and-down motion getting stuck. We were running low on time so our instructor stepped in to help rescue my project with the additional brass tubes shown in the final piece.</p>
+<h4 id="what-i-learned">What I learned</h4>
+<p>The main thing I learned from the weekend is that automata building is a much more accessible craft than I had initially expected. The tools and techniques are surprisingly inexpensive, and a weekend (really a single day for my solo project) was enough time to build something that I'm really happy with.</p>
+
+<p>The hardest part turns out to be the fiddling at the very end to get all of the motions just right. I'm still iterating on this now (hence the elastic hair tie and visible pieces of tape) - it's difficult to find the right balance between position, motion and composition. I guess I need to get comfortable with the idea that art is <a href="https://quoteinvestigator.com/2019/03/01/abandon/">never finished, merely abandoned</a>.</p>
+
+<p>I've been looking out for a good analog hobby for a while now. Maybe this is the one!</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/art">art</a>, <a href="https://simonwillison.net/tags/projects">projects</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/4/squadron/#atom-everything>
+
+---
+
+## Beelink plans to enter the NAS space with the Beelink ME line of “private cloud storage” devices
+
+date: 2025-03-03, from: Liliputing
+
+<p>Network Attached Storage (NAS) devices are basically small desktop PCs that are designed specifically to let you connect large amounts of storage to a home or business network. So it&#8217;s unsurprising that in recent years we&#8217;ve seen a number of Chinese companies best known for making mini PCs enter the NAS space by launching models [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/beelink-plans-to-enter-the-nas-space-with-the-beelink-me-line-of-private-cloud-storage-devices/">Beelink plans to enter the NAS space with the Beelink ME line of &#8220;private cloud storage&#8221; devices</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/beelink-plans-to-enter-the-nas-space-with-the-beelink-me-line-of-private-cloud-storage-devices/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-03, from: Feed for Alt USDS)
+
+"We need more government technologists, not fewer." 
+
+Former U.S. Digital Services engineering leader Anne Marshall tells @politico.com Tech about DOGE's destructive tactics observed in the weeks before her resignation. 
+
+🎙️: https://open.spotify.com/episode/4yVcK1KaXCcLHnxBMz8nwt
+
+#SaveOurServices #altgov #DefendDemocracy 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljj4m3xsb22r>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-03, from: Dave Winer's linkblog)
+
+Analog Gov&#39;t vs. Digital World. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=iMBmFRLupag>
+
+---
+
+## Samsung brings a whole bunch of foldable displays to MWC
+
+date: 2025-03-03, from: Liliputing
+
+<p>Samsung has been selling smartphones with foldable displays since 2019, but the company has been working on foldable display technology for far longer than that, and Samsung has made a habit of showing off concept devices featuring the latest foldable display innovations. This week Samsung is displaying multiple new screens at Mobile World Congress in [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/samsung-brings-a-whole-bunch-of-foldable-displays-to-mwc/">Samsung brings a whole bunch of foldable displays to MWC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/samsung-brings-a-whole-bunch-of-foldable-displays-to-mwc/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-03, from: Dave Winer's linkblog)
+
+𝗬𝗮𝘆 𝘁𝗲𝘅𝘁 𝗶𝘀 𝗵𝗼𝘄 you can get bold or italic text in your social media posts even though the software doesn&#39;t theoretically support styles in text. 
+
+<br> 
+
+<https://yaytext.com/bold-italic/>
+
+---
+
+## Citibank’s $81 Trillion Error
+
+date: 2025-03-03, from: Michael Tsai
+
+Doloresz Katanich: An error almost led to a Citigroup account being credited with $81tn (&#8364;77.8tn) - an amount that is about 5 times the total wealth of the UK, which was estimated at &#8364;14.7tn in 2023 by ONS. [&#8230;] The erroneous internal transfer, which occurred last April, was initially missed by two employees, one of [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/03/citibanks-81-trillion-error/>
+
+---
+
+## Swift 6.1
+
+date: 2025-03-03, from: Michael Tsai
+
+Mishal Shah: This post describes the release process, and estimated schedule for Swift 6.1. Donny Wals: The Xcode 16.3 beta is out, which includes a new version of Swift. Swift 6.1 is a relatively small release that comes with bug fixes, quality of life improvements, and some features.[&#8230;]Starting in Swift 6.1, Apple has made it [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/03/swift-6-1/>
+
+---
+
+## StopTheMadness for Safari Web Apps?
+
+date: 2025-03-03, from: Michael Tsai
+
+Jeff Johnson: There&#8217;s now a Safari web extension version of Noir specifically for Safari web apps, in addition to the Safari app extension version of Noir for Safari. Of course, this solution is non-ideal, because it&#8217;s confusing to users, and you&#8217;ll notice in the above screenshot that Noir for Web Apps has to warn users&#8212;with [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/03/stopthemadness-for-safari-web-apps/>
+
+---
+
+## 2024 Apple Vision Accessibility Report Card
+
+date: 2025-03-03, from: Michael Tsai
+
+AppleVis: Overall, survey participants expressed satisfaction with the VoiceOver features available on iOS. Several participants expressed a desire for deeper AI integration for functionality like image description, photo labeling, voices, and screen recognition. Multiple participants expressed dissatisfaction with the VoiceOver features available on macOS, particularly when compared to iOS. People who use devices in languages [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/03/2024-apple-vision-accessibility-report-card/>
+
+---
+
+## Low Blows in the Oval
+
+date: 2025-03-03, from: Tina Brown
+
+One of the lowest moments was JD Vance&#8217;s Goodfellas groin-kick of &#8220;Just say thank you&#8230;Have you said thank you once?&#8221; 
+
+<br> 
+
+<https://tinabrown.substack.com/p/low-blows-in-the-oval>
+
+---
+
+## Available today: DeepSeek R1 7B & 14B distilled models for Copilot+ PCs via Azure AI Foundry – further expanding AI on the edge
+
+date: 2025-03-03, from: Windows Developer Blog
+
+<p>At Microsoft, we believe the future of AI is happening now — spanning from the cloud to the edge. Our vision is bold: to build Windows as the ultimate platform for AI innovation, where intelligence isn’t just in the cloud but seamlessly woven t</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/03/03/available-today-deepseek-r1-7b-14b-distilled-models-for-copilot-pcs-via-azure-ai-foundry-further-expanding-ai-on-the-edge/">Available today: DeepSeek R1 7B &#038; 14B distilled models for Copilot+ PCs via Azure AI Foundry – further expanding AI on the edge</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/03/03/available-today-deepseek-r1-7b-14b-distilled-models-for-copilot-pcs-via-azure-ai-foundry-further-expanding-ai-on-the-edge/>
+
+---
+
+## Lenovo’s Magic Bay lets you snap extra screens or other gear to the ThinkBook 16P Gen 6
+
+date: 2025-03-03, from: Liliputing
+
+<p>The Lenovo ThinkBook 16p Gen 6 is a notebook with support for up to an Intel Core Ultra 9 75HX Arrow Lake processor, NVIDIA GeForce RTX 5070 graphics, 64GB of RAM, an 85 Wh battery, and a 240 Hz IPS LCD display. But what really sets this laptop apart from other premium notebooks is its Magic [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovos-magic-bay-lets-you-snap-extra-screens-or-other-gear-to-the-thinkbook-16p-gen-6/">Lenovo&#8217;s Magic Bay lets you snap extra screens or other gear to the ThinkBook 16P Gen 6</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovos-magic-bay-lets-you-snap-extra-screens-or-other-gear-to-the-thinkbook-16p-gen-6/>
+
+---
+
+## The features of Python's help() function
+
+date: 2025-03-03, updated: 2025-03-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.pythonmorsels.com/help-features/">The features of Python&#x27;s help() function</a></strong></p>
+I've only ever used Python's <code>help()</code> feature by passing references to modules, classes functions and objects to it. Trey Hunner just taught me that it accepts strings too - <code>help("**")</code> tells you about the <code>**</code> operator, <code>help("if")</code> describes the <code>if</code> statement and <code>help("topics")</code> reveals even more options, including things like <code>help("SPECIALATTRIBUTES")</code> to learn about specific advanced topics.
+
+    <p><small></small>Via <a href="https://bsky.app/profile/trey.io/post/3ljimzwglik2n">@trey.io</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/trey-hunner">trey-hunner</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/3/pythons-help-function/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-03, from: Dave Winer's linkblog)
+
+Fired DOGE victims get to stare down Trump during big speech to Congress. 
+
+<br> 
+
+<https://www.dailykos.com/stories/2025/3/3/2307555/-Fired-DOGE-victims-get-to-stare-down-Trump-during-big-speech-to-Congress>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-03-03, from: IIIF Mastodon feed)
+
+<p>Please save the date for our next Community Call, &quot;Universal Viewer 4.1.0.&quot;</p><p>On 12 March at 12pm ET / 16:00 UTC, <span class="h-card" translate="no"><a href="https://glammr.us/@universalviewer" class="u-url mention">@<span>universalviewer</span></a></span> team members will demo the latest release.</p><p>Please join us using the Zoom on the <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Community Calendar: iiif.io/community.</p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114099992600696514>
+
+---
+
+## Realme’s Interchangable Lens concept phone has a 1 inch image sensor, supports Leica M mount lenses
+
+date: 2025-03-03, from: Liliputing
+
+<p>The best camera is the one that you have with you, which is why many folks have ditched point and shoot cameras in favor of smartphones in recent years. And smartphones have become incredibly capable digital photography devices thanks to improvements in lens, sensor, and software features. But there&#8217;s still only so much you can [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/realmes-interchangable-lens-concept-phone-has-a-1-inch-image-sensor-supports-leica-m-mount-lenses/">Realme&#8217;s Interchangable Lens concept phone has a 1 inch image sensor, supports Leica M mount lenses</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/realmes-interchangable-lens-concept-phone-has-a-1-inch-image-sensor-supports-leica-m-mount-lenses/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-03, from: Tomosino's Mastodon feed)
+
+<p>Looking into crimes.. anyone found a reliable way to rip audio from Libby?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114099904822339136>
+
+---
+
+## Picking a Very Dumb Fight
+
+date: 2025-03-03, updated: 2025-03-03, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/03/picking-a-very-dumb-fight/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-03, from: Dave Winer's linkblog)
+
+Ukrainian drones strike deep into Russia, hitting Ufa refinery. Interesting, now that the deal with the US is off they can go as far into Russia as they want. Ironically, Biden was protecting Putin better than The One With the Gaudy Hooker Makeup can. 
+
+<br> 
+
+<https://www.msn.com/en-ie/news/world/ukrainian-drones-strike-deep-into-russia-hitting-ufa-refinery/ar-AA1A9JUA>
+
+---
+
+## Judges Are Fed up With Lawyers Using AI That Hallucinate Court Cases
+
+date: 2025-03-03, from: 404 Media Group
+
+Another lawyer was caught using AI and not checking the output for accuracy, while a previously-reported case just got hit with sanctions. 
+
+<br> 
+
+<https://www.404media.co/ai-lawyer-hallucination-sanctions/>
+
+---
+
+## Astronomy's Forgotten Woman
+
+date: 2025-03-03, from: Guy Kawasaki blog
+
+Kris Pardo, University of Southern California 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/astronomys-forgotten-woman>
+
+---
+
+## Lenovo’s ThinkBook “codename Flip” concept laptop has an 18.1 inch OLED display that becomes 13 inches when folded
+
+date: 2025-03-03, from: Liliputing
+
+<p>This summer Lenovo will release a laptop with a rollable OLED display that extends from 14 inches to 16.7 inches, giving you 50% more screen space when you need it. Now the company is introducing a 13 inch laptop with a screen that extends to 18.1 inches, effectively doubling the amount of screen real estate. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovos-thinkbook-codename-flip-concept-laptop-has-an-18-1-inch-oled-display-that-becomes-13-inches-when-folded/">Lenovo&#8217;s ThinkBook &#8220;codename Flip&#8221; concept laptop has an 18.1 inch OLED display that becomes 13 inches when folded</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovos-thinkbook-codename-flip-concept-laptop-has-an-18-1-inch-oled-display-that-becomes-13-inches-when-folded/>
 
 ---
 

@@ -1,11 +1,180 @@
 ---
 title: journalism
-updated: 2025-03-03 07:07:50
+updated: 2025-03-04 07:07:32
 ---
 
 # journalism
 
-(date: 2025-03-03 07:07:50)
+(date: 2025-03-04 07:07:32)
+
+---
+
+## ‘Topdog/Underdog’ picks the winning card
+
+date: 2025-03-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The SDA professor directed show gives a deep insight into the two brothers’ lives.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/04/topdog-underdog-picks-the-winning-card/">‘Topdog/Underdog’ picks the winning card</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/04/topdog-underdog-picks-the-winning-card/>
+
+---
+
+## Notes from the indie music underground
+
+date: 2025-03-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I like to think of myself as eclectic as opposed to artsy or pretentious.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/04/notes-from-the-indie-music-underground/">Notes from the indie music underground</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/04/notes-from-the-indie-music-underground/>
+
+---
+
+## Writer discusses anti-extremism post Oct. 7
+
+date: 2025-03-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Elad Nehorai spoke to Chavurah USC members about how to create productive conversations.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/04/writer-discusses-anti-extremism-post-oct-7/">Writer discusses anti-extremism post Oct. 7</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/04/writer-discusses-anti-extremism-post-oct-7/>
+
+---
+
+## Charlie Kirk debate draws hundreds to Hahn Plaza
+
+date: 2025-03-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Two individuals were detained by the Department of Public Safety.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/04/charlie-kirk-debate-draws-hundreds-to-hahn-plaza/">Charlie Kirk debate draws hundreds to Hahn Plaza</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/04/charlie-kirk-debate-draws-hundreds-to-hahn-plaza/>
+
+---
+
+## QuASA demands University defend undocumented students
+
+date: 2025-03-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The group’s logo was removed from a post promoting a march and rally for undocumented students.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/04/quasa-demands-university-defend-undocumented-students/">QuASA demands University defend undocumented students</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/04/quasa-demands-university-defend-undocumented-students/>
+
+---
+
+## Community Service Commission aids people experiencing homelessness amid LA fires
+
+date: 2025-03-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council Community Service Commission held a two-day event offering aid to people experiencing homelessness and those displaced by fires Jan. 21 and Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/03/community-service-commission-aids-people-experiencing-homelessness-amid-la-fires/>
+
+---
+
+## USAC recap – Feb. 25
+
+date: 2025-03-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council allocated more than $36,000 in funding and appointed a new Cultural Affairs commissioner during its final February meeting Tuesday.
+USAC is the official student government representing the undergraduate student body at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/03/usac-recap-feb-25-2/>
+
+---
+
+## SPROUT at UCLA nurtures K-5 students’ budding interests in STEM through field days
+
+date: 2025-03-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+A new UCLA club is teaching Los Angeles&#8217; elementary school children to love science.
+SPROUT at UCLA, which formed in January, aims to bring one free STEM field day to schools in the LA Unified School District for kindergarten to fifth-grade students. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/03/sprout-at-ucla-nurtures-k-5-students-budding-interests-in-stem-through-field-days/>
+
+---
+
+## Oscars 2025 Q&A: Oscar winner Lol Crawley discusses cinematographic construction of ‘The Brutalist’
+
+date: 2025-03-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Brick by brick, &#8220;The Brutalist&#8221; cemented its place in cinematic history.
+The post-war epic starring two-time Oscar winner Adrien Brody as architectural visionary L&#225;szl&#243; T&#243;th claimed three Academy Awards at Sunday&#8217;s 97th annual Oscars ceremony. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/03/oscars-2025-qa-oscar-winner-lol-crawley-discusses-cinematographic-construction-of-the-brutalist/>
+
+---
+
+## Editorial Cartoon: “Senioritis”
+
+date: 2025-03-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/03/03/editorial-cartoon-senioritis/>
+
+---
+
+## A new nonprofit wants to be a soft (and sustainable) landing spot for local news outlets in transition
+
+date: 2025-03-03, from: Nieman Journalism Lab
+
+Among Ben Romo’s core &#8217;80s memories as a kid growing up in Santa Barbara, CA: Placing third in a Big Wheel race on Leadbetter Beach. That accomplishment was documented in his hometown paper, the more than century-old Santa Barbara News-Press. It was the first time Romo remembers making the paper, but not the last; the... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/a-new-nonprofit-wants-to-be-a-soft-and-sustainable-landing-spot-for-local-news-outlets-in-transition/>
+
+---
+
+## A Flash Mob with the UCLA French Club
+
+date: 2025-03-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA French Club hosts a flash mob with two dancers. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/03/a-flash-mob-with-the-ucla-french-club/>
+
+---
+
+## Preview: TPUSA wants students to debate Charlie Kirk
+
+date: 2025-03-03, from: The Sundail (CSUN Student Newspaper)
+
+“The American Comeback Tour,” featuring conservative activist Charlie Kirk, will visit CSUN at Matador Square on Thursday, March 6, from noon to 2 p.m. Students are invited to engage in... 
+
+<br> 
+
+<https://sundial.csun.edu/190823/news/preview-tpusa-wants-students-to-debate-charlie-kirk/>
 
 ---
 

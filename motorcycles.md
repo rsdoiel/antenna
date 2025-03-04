@@ -1,11 +1,62 @@
 ---
 title: motorcycles
-updated: 2025-03-03 07:07:51
+updated: 2025-03-04 07:07:34
 ---
 
 # motorcycles
 
-(date: 2025-03-03 07:07:51)
+(date: 2025-03-04 07:07:34)
+
+---
+
+## This Indian Motorcycle Startup Is Apparently Backed By Ferrari
+
+date: 2025-03-04, from: Ride Apart, Electric Motorcycle News
+
+It’s developing an electric scooter in partnership with Ferrari…or so they say.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752247/ultraviolette-backed-ferrari-big-plans-europe/>
+
+---
+
+## The Hard Enduro Championship is Cancelled, and KTM Is To Blame
+
+date: 2025-03-04, from: Ride Apart, Electric Motorcycle News
+
+Not all too surprising, but it sure sucks like hell. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752245/2025-hard-enduro-cancellation-announcement/>
+
+---
+
+## This Dude Set the World Record For the Fastest Handlebar Wheelie
+
+date: 2025-03-03, from: Ride Apart, Electric Motorcycle News
+
+Because why the heck not?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/751943/guinness-world-records-fastest-handlebar-wheelie/>
+
+---
+
+## Garmin's inReach Saved a Lot of People Last Year
+
+date: 2025-03-03, from: Ride Apart, Electric Motorcycle News
+
+Many people phoned home.  
+
+<br> 
+
+<https://www.rideapart.com/news/752173/garmin-inreach-sos-report-2024-satellite-communications/>
 
 ---
 

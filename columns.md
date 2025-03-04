@@ -1,11 +1,427 @@
 ---
 title: columns
-updated: 2025-03-03 07:07:48
+updated: 2025-03-04 07:07:31
 ---
 
 # columns
 
-(date: 2025-03-03 07:07:48)
+(date: 2025-03-04 07:07:31)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-04, from: Dave Winer's Scripting News)
+
+Another question about tonight. Where will Elon be? In the seat usually occupied by the VP or the Speaker? Will he make faces at the camera or interrupt Trump? 
+
+<br> 
+
+<http://scripting.com/2025/03/04.html#a141255>
+
+---
+
+##  Is GoFundMe the New Insurance? &#8220;As the internet says, &#8216;This is not... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046378-is-gofundme-the-new-insur>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-04, from: Dave Winer's Scripting News)
+
+The single most important thing about what Musk is doing is that it is Musk that is doing it. Not elected, not accountable to anyone, and the only way we know what he's doing is from the aftermath. We play no role in his choices. Completely unacceptable. Let's get that much straight. That's where we start. Plus, he would be our last choice if we were in the market for a crazy despot running our country. He wasn't born or educated here, and thus has very little idea of who we are and thus what the people he's firing do. 
+
+<br> 
+
+<http://scripting.com/2025/03/04.html#a140559>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-04, from: Dave Winer's Scripting News)
+
+Remember when watching the speech tonight, if you are watching, what <a href="https://www.youtube.com/watch?v=UXR_bqyAy4E&t=170s">our Capitol was like</a> on that infamous day. The guy speaking, the guy up there on the podium, he did that. That's who he is. And where is right now, that's where it happened. Takes a lot of nerve to return to the scene of his greatest crime, so far. 
+
+<br> 
+
+<http://scripting.com/2025/03/04.html#a135157>
+
+---
+
+##  Total Context Collapse: New Polls Show That 100% Of Americans Have Forgotten... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046377-total-context-collapse-ne>
+
+---
+
+## Trojaned AI Tool Leads to Disney Hack
+
+date: 2025-03-04, updated: 2025-03-04, from: Bruce Schneier blog
+
+<p>This is a <a href="https://www.wsj.com/tech/cybersecurity/disney-employee-ai-tool-hacker-cyberattack-3700c931?st=wdhzKF&#038;reflink=desktopwebshare_permalink">sad story</a> of someone who downloaded a Trojaned AI tool that resulted in hackers taking over his computer and, ultimately, costing him his job.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/trojaned-ai-tool-leads-to-disney-hack.html>
+
+---
+
+## Cloudflare's bot bouncer blocks weirdo browsers
+
+date: 2025-03-04, updated: 2025-03-04, from: Liam Proven's articles at the Register
+
+<h4>Not on Firefox or a Chrome derivative? You shall not pass</h4>
+      <p>Users of some of the less well-known web browsers are getting blocked from accessing multiple sites by Cloudflare&#39;s flaky browser-detection routines.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/>
+
+---
+
+## Democrats! Wake the hell up!
+
+date: 2025-03-04, from: Robert Reich's blog
+
+Boycott Trump&#8217;s address to Congress tonight. If you must go, make good trouble. 
+
+<br> 
+
+<https://robertreich.substack.com/p/democrats-wake-the-hell-up>
+
+---
+
+## March 3, 2025 
+
+date: 2025-03-04, from: Heather Cox Richardson blog
+
+As seemed evident even at the time, the ambush of Ukraine president Volodymyr Zelensky in the Oval Office on Friday was a setup to provide justification for cutting off congressionally approved aid to Ukraine as it tries to fight off Russia&#8217;s invasion. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-3-2025>
+
+---
+
+## Framous 1.0
+
+date: 2025-03-04, updated: 2025-03-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/02/25/framous-mac-app-device-screenshots/>
+
+---
+
+##  On Saturday, Steph Curry dunked in a regular-season NBA game for the... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046376-on-saturday-steph-curry-d>
+
+---
+
+## Another Tim Cook Product Announcement Teaser on X: ‘There’s Something in the Air’
+
+date: 2025-03-04, updated: 2025-03-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/BasicAppleGuy/status/1896602928984818121>
+
+---
+
+## A New Arm of the Kremlin
+
+date: 2025-03-04, from: Dan Rather's Steady
+
+As Trump&#8217;s gaslighting goes global 
+
+<br> 
+
+<https://steady.substack.com/p/a-new-arm-of-the-kremlin>
+
+---
+
+##  A good, long profile of author Robert Caro, in which he reveals... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046346-a-good-long-profile-of>
+
+---
+
+## Apple Details Upcoming Changes and Improvements to Child Accounts, App Store Age Restrictions, and More
+
+date: 2025-03-03, updated: 2025-03-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://developer.apple.com/support/downloads/Helping-Protect-Kids-Online-2025.pdf>
+
+---
+
+##  Rick Steves announces that he is cancer-free. &#8220;PSA 55 to PSA 0.09... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046359-rick-steves-announces-tha>
+
+---
+
+##  &#8220;No constitutional text is well written enough to save the rule of... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046372-no-constitutional-text-is>
+
+---
+
+## Killing People Through Corruption: More Examples from Aviation.
+
+date: 2025-03-03, from: James Fallows, Substack
+
+Some of the assault on governing institutions comes from ignorance and zeal. Some is just corrupt. Together this will lead to deaths. Here's why. 
+
+<br> 
+
+<https://fallows.substack.com/p/killing-people-through-corruption>
+
+---
+
+##  Menswear writer Derek Guy on Zelenskyy&#8217;s lack of suit in the WH:... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046371-menswear-writer-derek-guy>
+
+---
+
+## Jeremy Keith on the Web on Mobile
+
+date: 2025-03-03, updated: 2025-03-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://adactio.com/journal/21728>
+
+---
+
+## The Size of the US Federal Workforce Has Not Grown in the Last 50 Years
+
+date: 2025-03-03, updated: 2025-03-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.newyorker.com/news/the-financial-page/the-musk-trump-war-on-federal-employees-doesnt-add-up>
+
+---
+
+##  America Alone 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/america-alone>
+
+---
+
+## Decolonizing my garden
+
+date: 2025-03-03, from: Tracy Durnell Blog
+
+Gardens are colonized spaces: think of the quintessential American garden with its close-hewn evenly-green lawn of invasive grass, some matching cherubic flowers along the front of the house, maybe one tree or a couple flowering shrubs, lined by a manicured hedge or wall of arborvitae. This is a landscape in service to human desires &#8212; [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/03/decolonizing-my-garden/>
+
+---
+
+## March 2, 2025
+
+date: 2025-03-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158315978/b71c8efb57b2d89fb2333e8fd541ff62.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158315978/b71c8efb57b2d89fb2333e8fd541ff62.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-2-2025-457>
+
+---
+
+##  Putin Is Ready to Carve Up the World. Trump Just Handed Him... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046370-putin-is-ready-to-carve>
+
+---
+
+## Monday Monday
+
+date: 2025-03-03, from: Doc Searls (at Harvard), New Old Blog
+
+Naming today&#39;s tab dump after one of The Mamas and The Papas best songs. Here is a lipsync&#39;d video on YouTube. Dig the old-skool stereo. Where I explained customer-to-company AI agent-to-AI agent interaction (you know, markets as conversations) in May of last year. 
+
+<br> 
+
+<https://doc.searls.com/2025/03/03/monday-monday/>
+
+---
+
+## VisionOS 2.4, Now in Beta, Will Add New ‘Spatial Gallery’ App and Support for Apple Intelligence, Along With a ‘Vision Pro’ App for iPhones
+
+date: 2025-03-03, updated: 2025-03-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/02/new-visionos-beta-adds-apple-intelligence-spatial-gallery-ios-apps/>
+
+---
+
+##  Good grief, the last two paragraphs of Heather Cox Richardson&#8217;s piece on... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046368-good-grief-the-last-two>
+
+---
+
+##  &#8220;The Conscience of the Nation Must be Roused&#8221; 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/the-conscience-of-the-nation-must-be-roused>
+
+---
+
+##  Russian activist Garry Kasparov on The Putinization of America. &#8220;Unleashing Elon Musk... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046366-russian-activist-garry-ka>
+
+---
+
+##  How the US press would cover the 2025 Coup if it were... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046365-how-the-us-press-would>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-03, from: Dave Winer's Scripting News)
+
+Idea for SNL. A special episode of Law and Order where the cops arrest someone for being disrespectful to Trump,. The prosecutors debate among themselves if they have to do this, no one quits, they don't feel good about it but they prosecute, being assured by the District Attorney it's the right thing to do. When there are objections judge rules in favor of the government most of the time, but wants to show balance so once or twice rules in favor of the defense, but it doesn't matter, when the judge gives instructions to the jury he says basically the only option is to convict, or so it seems that's what he's saying and dutifully, the jury convicts. There are sentencing standards, provided by the DOJ so the judge sentences the accused to life at hard labor. Back in the studio at 30 Rock the audience isn’t sure if they should laugh, slowly realizing it’s not meant to be funny, the skit fades out to a commercial break. 
+
+<br> 
+
+<http://scripting.com/2025/03/03.html#a162441>
+
+---
+
+## Mike Myers’s Skewering Portrayal of Elon Musk on SNL
+
+date: 2025-03-03, updated: 2025-03-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=CUpOMSJ1MdU>
+
+---
+
+##  Skilled technologists are being forced out of government; 18F and USDS are... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046364-skilled-technologists-are>
+
+---
+
+##  Great Timothy Snyder analysis of the Trump/Vance/Zelenskyy meeting. &#8220;There was a logic... 
+
+date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046363-great-timothy-snyder-anal>
 
 ---
 
@@ -83,21 +499,21 @@ date: 2025-03-03, updated: 2025-03-03, from: Jason Kittke's blog
 
 date: 2025-03-03, from: Liam on Linux
 
-From a Reddit post.&nbsp;<br /><br /><p>&nbsp; &nbsp; &nbsp;A very brief rundown:</p><ol>       <li><p>If you are using Microsoft tools, you need to load the 386 memory manager, <code>emm386.exe</code>, in your <code>CONFIG.SYS</code> file.</p></li><li><p>But, to do that, you need to load the XMS manager, <code>HIMEM.SYS</code>, <em>first</em>.</p></li><li><p>So your <code>CONFIG.SYS</code> should begin with the lines:</p></li>     </ol><pre>
+From a <a href="https://old.reddit.com/r/DOS/comments/1j1efb0/wheres_my_upper_memory/">Reddit post</a>.&nbsp;<br /><br /><p>&nbsp; &nbsp; &nbsp;A very brief rundown:</p><ol>       <li><p>If you are using Microsoft tools, you need to load the 386 memory manager, <code>emm386.exe</code>, in your <code>CONFIG.SYS</code> file.</p></li><li><p>But, to do that, you need to load the XMS manager, <code>HIMEM.SYS</code>, <em>first</em>.</p></li><li><p>So your <code>CONFIG.SYS</code> should begin with the lines:</p></li>     </ol><pre>
 DEVICE=C:\WINDOWS\HIMEM.SYS
 DEVICE=C:\WINDOWS\EMM386.EXE
-DOS=HIGH,UMB</pre><p>4. That's the easy bit. Now you have to find free Upper Memory Blocks to tell EMM386 to use.</p><p>5. Do a clean boot with F5 or F8 -- telling it not to process <code>CONFIG.SYS</code> or run <code>AUTOEXEC.BAT</code>. Alternatively boot from a DOS floppy that doesn't have them.</p><p>6. Run the Microsoft Diagnostics, <code>MSD.EXE</code>, or a similar  tool such as Quartdeck Manifest. Look at the memory usage between 640kB  and 1MB. Note, the numbers are in hexadecimal.</p><p>7. Look for unused blocks that are not ROM or I/O. Write down the address ranges.</p><p>8. An example: if you do not use monochrome VGA you can use the mono VGA memory area: 0xB000-0xB7FF.</p><p>9. One by one, tell EMM386 to use these. First choose if you want EMS (<strong>E</strong>panded Memory Services) or not. It is useful for DOS apps, but not for Windows apps.</p><p>10. If you do, you need to tell it:</p><pre>
+DOS=HIGH,UMB</pre><p>4. That's the easy bit. Now you have to find free Upper Memory Blocks to tell EMM386 to use.</p><p>5. Do a clean boot with F5 or F8 -- telling it not to process <code>CONFIG.SYS</code> or run <code>AUTOEXEC.BAT</code>. Alternatively boot from a DOS floppy that doesn't have them.</p><p>6. Run the Microsoft Diagnostics, <code>MSD.EXE</code>, or a similar  tool such as Quartdeck Manifest. Look at the memory usage between 640kB  and 1MB. Note, the numbers are in hexadecimal.</p><p>7. Look for unused blocks that are not ROM or I/O. Write down the address ranges.</p><p>8. An example: if you do not use monochrome VGA you can use the mono VGA memory area: 0xB000-0xB7FF.</p><p>9. One by one, tell EMM386 to use these. First choose if you want EMS (<strong>E</strong>xpanded Memory Services) or not. It is useful for DOS apps, but not for Windows apps.</p><p>10. If you do, you need to tell it:</p><pre>
 DEVICE=C:\WINDOWS\EMM386.EXE RAM</pre><p><strong>And</strong> set aside 64kB for a page frame, for example by putting this on the end of the line:</p><pre>
 FRAME=E0000</pre><p>Or, tell it not to use one:</p><pre>
 FRAME=none</pre><p>11. Or disable EMS:</p><pre>
-DEVICE=C:\WINDOWS\EMM386.EXE NOEMS</pre><p>12. <strong>Important</strong> Add these parameters one at a time, and reboot and test, every single time, without exception.</p><p>13. One you told it which you want now you need to tell it the RAM blocks to use, e.g.</p><pre>
+DEVICE=C:\WINDOWS\EMM386.EXE NOEMS</pre><p>12. <strong>Important</strong> Add these parameters one at a time, and reboot and test, every single time, without exception.</p><p>13. Once you told it which you want now you need to tell it the RAM blocks to use, e.g.</p><pre>
 DEVICE=C:\WINDOWS\EMM386.EXE RAM FRAME=none I=B000-B7FF</pre><p>Again, reboot every time to check. Any single letter wrong can stop the PC booting. <em>Lots</em> of testing is vital. Every time, run MSD and look at what is in use or is not in use. Make lots of notes, on paper.</p><p>14. If you find EMM386 is trying to use a block that it mustn't you can eXclude it:</p><pre>
 DEVICE=C:\WINDOWS\EMM386.EXE RAM X=B000-B7FF
 </pre><p>The more blocks you can add, the better.</p><p>15. After this -- a few hours' work -- now you can try to populate your new UMBs.</p><p>16. Device drivers: do this by prefixing lines in <code>CONFIG.SYS</code> with <code>DEVICEHIGH</code> instead of <code>DEVICE</code>.</p><p>Change:</p><pre>
 DEVICE=C:\DOS\ANSI.SYS</pre><p>To:</p><pre>
 DEVICEHIGH=C:\DOS\ANSI.SYS</pre><p>17. Try every driver, one by one, rebooting every time.</p><p>18. Now move on to loadable Terminate and Stay Resident (TSR) programs. Prefix lines that run a program in <code>AUTOEXEC.BAT</code> with <code>LH</code>, which is short for <code>LOADHIGH</code>.</p><p>Replace:</p><pre>
 MOUSE</pre><p>With:</p><pre>
-LH MOUSE</pre><p>Use MSD and the <code>MEM</code> command -- <code>MEM /c /p</code> -- to identify all your TSRs, note their sizes, and load them all high.</p><p>This is a day or two's work for a novice. I could do it in only an  hour or two and typically get 625kB or more base memory free, and I made  good money from this hard-won skill.&nbsp; &nbsp;</p><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=93997" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+LH MOUSE</pre><p>Use MSD and the <code>MEM</code> command -- <code>MEM /c /p</code> -- to identify all your TSRs, note their sizes, and load them all high.</p><p>This is a day or two's work for a novice. I could do it in only an  hour or two and typically get 625kB or more base memory free, and I made  good money from this hard-won skill.&nbsp; &nbsp;</p><br /><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=93997" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
 
 <br> 
 
@@ -189,6 +605,18 @@ date: 2025-03-02, updated: 2025-03-02, from: Jason Kittke's blog
 
 ---
 
+## Claim Chowder: Ming-Chi Kuo on Demand for the iPhone 16 Lineup
+
+date: 2025-03-02, updated: 2025-03-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://medium.com/@mingchikuo/iphone-16-first-weekend-pre-order-analysis-estimated-total-sales-of-about-37-million-units-pro-0a04869b147c>
+
+---
+
 ## Elon Musk, Weirdo Extraordinaire
 
 date: 2025-03-02, updated: 2025-03-02, from: Daring Fireball
@@ -198,18 +626,6 @@ date: 2025-03-02, updated: 2025-03-02, from: Daring Fireball
 <br> 
 
 <https://www.tmz.com/2025/03/01/elon-musk-new-baby-14th-child-shivon-zilis/>
-
----
-
-## Claim Chowder: Ming-Chi Kuo on Demand for the iPhone 16 Lineup
-
-date: 2025-03-02, updated: 2025-03-02, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://medium.com/@mingchikuo/iphone-16-first-weekend-pre-order-analysis-estimated-total-sales-of-about-37-million-units-pro-0a04869b147c>
 
 ---
 
