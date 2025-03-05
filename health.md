@@ -1,11 +1,47 @@
 ---
 title: health
-updated: 2025-03-04 07:07:34
+updated: 2025-03-05 07:08:34
 ---
 
 # health
 
-(date: 2025-03-04 07:07:34)
+(date: 2025-03-05 07:08:34)
+
+---
+
+## Enterobactin and salmochelin S4 inhibit the growth of Staphylococcus aureus
+
+date: 2025-03-05, from: Frontiers in Cellular and Infection Microbiology
+
+There is increasing demand for novel antimicrobial agents to tackle the antimicrobial resistance crisis. Here we report that two Enterobacteriaceae-produced siderophores, enterobactin and salmochelin S4, inhibit the growth of Staphylococcus aureus isolates, including methicillin-resistance S. aureus (MRSA) clinical isolates. The IC50 for different S. aureus isolates were 2-5 µM for salmochelin S4 and 5-10 µM for enterobactin. This inhibitory activity was partially repressed by adding Fe+3. These siderophores also inhibited the growth of Enterococcus strains, including vancomycin-resistant enterococci (VRE) clinical isolates, though less effectively than for S. aureus. The growth of various Gram-negative bacteria was barely affected by these siderophores. These results shed new light on the role of enterobactin and salmochelin in bacterial physiology and ecology and have potential for the development of novel strategies to combat the rapid rise of multidrug-resistant bacteria. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1456046>
+
+---
+
+## Rapid detection of Mycoplasma pneumoniae CARDS toxin in clinical respiratory specimens by a loop-mediated isothermal amplification assay
+
+date: 2025-03-05, from: Frontiers in Cellular and Infection Microbiology
+
+In light of the absence of rapid and precise diagnostic laboratory tests for the detection of Mycoplasma pneumoniae (MP), a prominent etiological agent implicated in a range of respiratory infections, we developed and evaluated a rapid and straightforward loop-mediated isothermal amplification (LAMP) assay targeting the MP community-acquired respiratory distress syndrome toxin (CARDS TX) gene. The LAMP assay was performed at 65°C for a duration of 60 min, yielding a minimum detection concentration of MP CARDS TX at 0.4986 pg/μl. The assay exhibited no cross-reactivity with 13 other prevalent pathogens associated with respiratory infections or with other common bacterial toxin genes. To further substantiate the validity of the LAMP assay, 200 pharyngeal swabs or bronchoalveolar lavage (BAL) samples were collected from inpatients diagnosed with community-acquired pneumonia (CAP) between June 2021 and July 2022. The results were compared with those obtained by the quantitative real-time polymerase chain reaction (qPCR) method for verification purposes. Of the 200 clinical specimens, 11 exhibited positive results for MP by LAMP and 10 displayed positive results for MP by qPCR (P = 1.000). In summary, a sensitive, specific, straightforward, and expeditious LAMP method for CARDS TX identification was developed to facilitate rapid detection of MP in point-of-care settings. This assay enables early and accurate diagnosis, even in resource-limited environments, which is important for proper antibiotic treatment and prognosis of MP infection. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1496829>
+
+---
+
+## Optimized oxygen therapy improves sleep deprivation-induced cardiac dysfunction through gut microbiota
+
+date: 2025-03-05, from: Frontiers in Cellular and Infection Microbiology
+
+Adequate sleep is of paramount importance for relieving stress and restoring mental vigor. However, the adverse physiological and pathological responses resulting from sleep insufficiency or sleep deprivation (SD) are becoming increasingly prevalent. Currently, the impact of sleep deficiency on gut microbiota and microbiota-associated human diseases, especially cardiac diseases, remains controversial. Here, we employed the following methods: constructed an experimental sleep-deprivation model in mice; conducted 16S rRNA sequencing to investigate the changes in gut microbiota; through fecal microbiota transplantation (FMT) experiments, transplanted fecal microbiota from sleep-deprived mice to other mice; established an environment with a 30% oxygen concentration to explore the therapeutic effects of oxygen therapy on gut microbiota-associated cardiac fibrosis and dysfunction; and utilized transcriptome data to study the underlying mechanisms of oxygen therapy. The results revealed that: sleep-deprived mice exhibited weakness, depression-like behaviors, and dysfunction in multiple organs. Pathogenic cardiac hypertrophy and fibrosis occurred in sleep-deprived mice, accompanied by poor ejection fraction and fractional shortening. 16S rRNA sequencing indicated that sleep deprivation induced pathogenic effects on gut microbiota, and similar phenomena were also observed in mice that received fecal microbiota from sleep-deprived mice in the FMT experiments. The environment with a 30% oxygen concentration effectively alleviated the pathological impacts on cardiac function. Transcriptome data showed that oxygen therapy targeted several hypoxia-dependent pathways and inhibited the production of cardiac collagen. In conclusion, these results demonstrate the significance of sufficient sleep for gut microbiota and may represent a potential therapeutic strategy, where the oxygen environment exerts a protective effect on insomniacs through gut microbiota. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1522431>
 
 ---
 

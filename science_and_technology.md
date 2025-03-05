@@ -1,11 +1,419 @@
 ---
 title: science and technology
-updated: 2025-03-04 07:07:30
+updated: 2025-03-05 07:08:30
 ---
 
 # science and technology
 
-(date: 2025-03-04 07:07:30)
+(date: 2025-03-05 07:08:30)
+
+---
+
+## Apple takes UK government to court over 'backdoor' order
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>A first-of-its-kind legal challenge set to be heard this month, per reports</h4> <p>Apple has reportedly filed a legal complaint with the UK&#39;s Investigatory Powers Tribunal (IPT) contesting the UK government&#39;s order that it must forcibly break the encryption of iCloud data.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/apple_reportedly_ipt_complaint/>
+
+---
+
+## 'Cybertruck ownership comes with ... interesting fan mail'
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Muskmobile Facebook group becomes support circle for anti-Tesla abuse</h4> <p><strong>Comment</strong>  Since Elon Musk vigorously threw up a gesture once thought reprehensible at a Trump rally on the day of the president&#39;s inauguration, owning a Tesla has taken on a whole new meaning for some.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/cybertruck_hate/>
+
+---
+
+## Microsoft teases sales agent automation for M365 and Dynamics 365
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Redmond says you could ask one for a &#39;list of deals ... at risk of falling through&#39;</h4> <p>Microsoft today announced two software agents that automate certain business functions for Dynamics 365, its enterprise resource planning and customer relationship suite, and Microsoft 365, its cloud productivity suite.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/microsoft_teases_sales_agent_automation/>
+
+---
+
+## Controllers getting no response from Lunar Trailblazer orbiter or Odin asteroid mining probe
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>NASA and AstroForge missions prove Space is Hard</h4> <p>Engineers are continuing to attempt to make contact with NASA&#39;s stricken Lunar Trailblazer probe as hopes for the science planned for the mission begin to fade.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/nasa_and_astroforge_missions_prove/>
+
+---
+
+## NASA’s SpaceX Crew-10 to Explore Deep Space Exercise, Health
+
+date: 2025-03-05, from: NASA breaking news
+
+During NASA’s SpaceX Crew-10 mission to the International Space Station, which is scheduled to launch in March, select members of the four-person crew will participate in exercise and medical research aimed at keeping astronauts fit on future long-duration missions. Crew members living and working aboard the space station have access to a designated training area [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/nasas-spacex-crew-10-to-explore-deep-space-exercise-health/>
+
+---
+
+## Leeds United kick card swipers into Row Z after 5-day cyberattack
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>English football club offers apologies after fans&#39; card details stolen from online retail store</h4> <p>English football club Leeds United says cyber criminals targeted its retail website during a five-day assault in February and stole the card details of &#34;a small number of customers.&#34; …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/leeds_united_card_swipers/>
+
+---
+
+## Worry not. China's on the line saying AGI still a long way off
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Instead of Turing Test, subject models to this Survival Game to assess intelligence, scientist tells <i>The Reg</i></h4> <p>In 1950, Alan Turing proposed the Imitation Game, better known as the Turing Test, to identify when a computer&#39;s response to questions becomes convincing enough that the interrogator believes the machine could be human.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/boffins_from_china_calculate_agi/>
+
+---
+
+## Qilin ransomware gang claims attacks on cancer clinic, OB-GYN facility
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>List of attacks by &#39;No regrets&#39; crew leaking highly sensitive data continues to grow</h4> <p>Qilin – the &#34;no regrets&#34; ransomware crew wreaking havoc on the global healthcare industry – just claimed responsibility for fresh attacks on a cancer treatment clinic in Japan and a women&#39;s healthcare facility in the US.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/qilin_ransomware_credit/>
+
+---
+
+## Raspberry Pi launches CM4 variant that laughs in the face of frostbite
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Hat and scarf no longer needed for diminutive computer</h4> <p>New variants of the Raspberry Pi Compute Module 4 have been launched, giving the devices an extended operating temperature range from -40°C to 85°C.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/raspberry_pi_extended_temperatures/>
+
+---
+
+## Maybe cancel that ChatGPT therapy session – doesn't respond well to tales of trauma
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Great, we&#39;ve taken away computers&#39; ability to be accurate and given them anxiety</h4> <p>If you think us meatbags are the only ones who get stressed and snappy when subjected to the horrors of the world, think again. A group of international researchers say OpenAI&#39;s GPT-4 can experience anxiety, too – and even respond positively to mindfulness exercises.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/traumatic_content_chatgpt_anxious/>
+
+---
+
+## Scotland now home to Europe's biggest battery as windy storage site fires up
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>400MWh now, and 600MWh by next year? Crivens, that&#39;s a fat batt!</h4> <p>What&#39;s claimed to be Europe’s largest battery has come to Scotland, after a new facility came online in the country’s north.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/blackhillock_europes_largest_battery_scotland/>
+
+---
+
+## Cybercrims now licking stamps and sending extortion demands in snail mail
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>First crooks gave up encrypting data, and just stole it – now they don&#39;t even bother pilfering info. Sheesh!</h4> <p>Ransomware extortionists are now using letters sent by snail mail to demand payments, without bothering to infiltrate targets’ systems or infect them with malware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/snail_mail_data_release_extortion/>
+
+---
+
+## As Alibaba launches server-grade RISC-V silicon, Beijing seems set to back the ISA
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>A major policy directive strongly suggesting use of the royalty-free architecture is apparently imminent</h4> <p>The permissively licensed RISC-V instruction set architecture appears to be gaining significant momentum in China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/china_alibaba_risc_v/>
+
+---
+
+## Ransomware thugs threaten Tata Technologies with leak if demands not met
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Hunters International ready to off-shore 1.4 TB of info allegedly swiped from Indian giant</h4> <p>A subsidiary of Indian multinational Tata has allegedly fallen victim to the notorious ransomware gang Hunters International.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/tata_technologies_hiunters_international/>
+
+---
+
+## Please fasten your seatbelts. A third of US air traffic control systems are 'unsustainable'
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>And the FAA&#39;s modernization efforts are going so badly they won&#39;t exit turbulence any time soon</h4> <p>Over a third of the USA’s air traffic control systems are in an “unsustainable&#34; state, and the FAA&#39;s decades-long project to upgrade them is not going well.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/faa_air_traffic_control/>
+
+---
+
+## Why fastDOOM is fast
+
+date: 2025-03-04, from: OS News
+
+How much faster is fastDOOM than regular Doom on a decked-out 486 from 1993? 30% faster without cutting any features! On a demanding map like doom2&#8217;s demo1, the gain is even higher, from 16.8 fps to 24.9 fps. That is 48% faster! I did not suspect that DOOM had left that much on the table. Obviously shipping within one year left little time to optimize. I had to understand how this magic trick happened. ↫ Fabien Sanglard What follows is an incredibly detailed exploration of why, exactly, fastDOOM is so much faster, by building and benchmarking every version, and even going git commit by git commit to really understand how fastDOOM&#8217;s developer, Victor &#8220;Viti95&#8221; Nieto, achieved these impressive results. 
+
+<br> 
+
+<https://www.osnews.com/story/141855/why-fastdoom-is-fast/>
+
+---
+
+## Redox continues adding dynamic linking support
+
+date: 2025-03-04, from: OS News
+
+These months are coming and going way too fast, for a whole variety of reasons, so we&#8217;ve got another month of improvements for Redox, the operating system written in Rust. I February, January&#8217;s work on dynamic linking continued, adding support for it to the recipes for Cargo, LLVM, Rust, libssh2, OpenSSL, zlib, COSMIC Terminal, NetSurf, libpng, bzip2, DevilutionX, and LuaJIT, as well as to the project&#8217;s Rust and OpenSSL forks. Relibc also saw its usual slew of improvements, as did the build system and documentation. The Intel HD Audio driver initialization has been fixed, and PS/2 touchpad support has been fixed as well &#8211; you&#8217;d be surprised to find out how many laptops use PS/2 internally, so this is an important function to maintain. And as always, there&#8217;s a whole slew of smaller changes and fixes, too. 
+
+<br> 
+
+<https://www.osnews.com/story/141853/redox-continues-adding-dynamic-linking-support/>
+
+---
+
+## Hey, remember iPads? Those fondleslabs? Apple still does
+
+date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+
+<h4>Air to ship with M3 while base model gets the A16</h4> <p>Apple on Tuesday unveiled an updated iPad Air with fresh-ish new M-series silicon alongside a new Magic Keyboard with function keys.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/04/apple_ipad_upgrade/>
+
+---
+
+## 2025 Aviation Weather Mission: Civil Air Patrol Cadets Help Scientists Study the Atmosphere with GLOBE Clouds
+
+date: 2025-03-04, from: NASA breaking news
+
+The Science Activation Program’s NASA Earth Science Education Collaborative (NESEC) is working alongside the Civil Air Patrol (CAP) to launch the 2025 Aviation Weather Mission. The mission will engage cadets (students ages 11-20) and senior members to collect aviation-relevant observations including airport conditions, Global Learning and Observations to Benefit the Environment (GLOBE) Cloud observations, commercial […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/2025-aviation-weather-mission-civil-air-patrol-cadets-help-scientists-study-the-atmosphere-with-globe-clouds/>
+
+---
+
+## NASA Awards Launch Service for Mission to Study Storm Formation
+
+date: 2025-03-04, from: NASA breaking news
+
+NASA has selected Firefly Aerospace Inc. of Cedar Park, Texas, to provide the launch service for the agency’s Investigation of Convective Updrafts (INCUS) mission, which aims to understand why, when, and where tropical convective storms form, and why some storms produce extreme weather. The mission will launch on the company’s Alpha rocket from NASA’s Wallops [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-launch-service-for-mission-to-study-storm-formation/>
+
+---
+
+## Station Nation: Meet Chris Wade, Visiting Vehicle Integration Manager for SpaceX Vehicles
+
+date: 2025-03-04, from: NASA breaking news
+
+Chris Wade is a visiting vehicle integration manager for SpaceX vehicles in the International Space Station Transportation Integration Office. He plays a key role in ensuring that all vehicle requirements are on track to support SpaceX missions to the space station. Chris also manages a team of real-time mission support personnel who follow launch, docking, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-chris-wade-visiting-vehicle-integration-manager-for-spacex-vehicles/>
+
+---
+
+## Free Software Foundation rides to defend AGPLv3 against Neo4j license add-ons
+
+date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+
+<h4>FOSS bods file amicus brief in hope of preserving core GNU tenet of freedom forever</h4> <p>The Free Software Foundation (FSF) on Monday backed a lone developer&#39;s brave effort to overturn a pivotal court ruling that threatens to undermine the AGPLv3 – the foundation&#39;s GNU Affero General Public License, version 3.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/04/free_software_foundation_agplv3/>
+
+---
+
+## FARMing with Data: OpenET Launches new Tool for Farmers and Ranchers
+
+date: 2025-03-04, from: NASA breaking news
+
+A NASA and U.S. Geological Survey (USGS)-supported research and development team is making it easier for farmers and ranchers to manage their water resources. The team, called OpenET, created the Farm and Ranch Management Support (FARMS) tool, which puts timely, high-resolution water data directly in the hands of individuals and small farm operators. By making [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/ames-science/farming-with-data-openet-launches-new-tool-for-farmers-and-ranchers/>
+
+---
+
+## VMware splats guest-to-hypervisor escape bugs already exploited in wild
+
+date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+
+<h4>The heap overflow zero-day in the memory unsafe code by Miss Creant</h4> <p>Broadcom today pushed out patches for three VMware hypervisor-hijacking bugs, including one rated critical, that have already been found and exploited by criminals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/04/vmware_plugs_three_hypervisorhijack_holes/>
+
+---
+
+## NASA Sets Coverage for Intuitive Machines’ Second Private Moon Landing
+
+date: 2025-03-04, from: NASA breaking news
+
+Carrying NASA technology demonstrations and science investigations, Intuitive Machines is targeting their Moon landing no earlier than 12:32 p.m. EST on Thursday, March 6. The company’s Nova-C lunar lander is slated to land in Mons Mouton, a lunar plateau near the Moon’s South Pole, as part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-intuitive-machines-second-private-moon-landing/>
+
+---
+
+## March’s Night Sky Notes: Messier Madness
+
+date: 2025-03-04, from: NASA breaking news
+
+by Kat Troche of the Astronomical Society of the Pacific What Are Messier Objects? During the 18th century, astronomer and comet hunter Charles Messier wanted to distinguish the ‘faint fuzzies’ he observed from any potential new comets. As a result, Messier cataloged 110 objects in the night sky, ranging from star clusters to galaxies to nebulae. These […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/mar2025-night-sky-notes/>
+
+---
+
+## NASA Successfully Acquires GPS Signals on Moon
+
+date: 2025-03-04, from: NASA breaking news
+
+NASA and the Italian Space Agency made history on March 3 when the Lunar GNSS Receiver Experiment (LuGRE) became the first technology demonstration to acquire and track Earth-based navigation signals on the Moon’s surface.   The LuGRE payload’s success in lunar orbit and on the surface indicates that signals from the GNSS (Global Navigation Satellite System) [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-successfully-acquires-gps-signals-on-moon/>
+
+---
+
+## Apple dares users to fix 'budget' iPhone 16e themselves
+
+date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+
+<h4>But factor in the price increase, and it might be worth sitting this one out</h4> <p>Apple has launched a new budget iPhone. Rather than discussing specifications or the price hike, the real question is whether the company&#39;s latest and cheapest can be repaired.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/04/apple_iphone_16e_ifixit/>
+
+---
+
+## 30 Years Ago: STS-67, the Astro-2 Mission
+
+date: 2025-03-04, from: NASA breaking news
+
+On March 2, 1995, space shuttle Endeavour launched from NASA’s Kennedy Space Center in Florida on its eighth trip into space, on the STS-67 Astro-2 mission. The crew included Commander Stephen Oswald, Pilot William Gregory, Mission Specialists John Grunsfeld, Wendy Lawrence, and Tamara Jernigan – who served as payload commander on the mission – and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/30-years-ago-sts-67-the-astro-2-mission/>
+
+---
+
+## Blue Ghost Lands on Moon
+
+date: 2025-03-04, from: NASA breaking news
+
+The shadow of Firefly Aerospace’s Blue Ghost lunar lander can be seen in this photo from the Moon, taken after landing on March 2, 2025. The lander safely delivered a suite of 10 NASA science and technology instruments; these instruments will operate on the lunar surface for approximately one lunar day, or about 14 Earth [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/blue-ghost-lands-on-moon/>
+
+---
+
+## Firefox 136 finally brings the features that fans wanted
+
+date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+
+<h4>Vertical tabs, native Arm64 Linux version, and AMD GPU-accelerated video playback</h4> <p>Mozilla&#39;s Firefox 136 is out today. Despite recent Mozilla moves, it&#39;s still a better choice for the privacy-conscious than Chrome.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/04/firefox_136/>
+
+---
+
+## Scientists create woolly ma-mouse by looking at mean genes from the Pleistocene
+
+date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+
+<h4>Eggheads claim breakthrough in step toward making ancient beasts &#39;de-extinct&#39;</h4> <p>US scientists have created a &#34;woolly&#34; mouse by expressing genetic information gathered from woolly mammoths and elephants, which they see as a step toward bringing the extinct species back to life.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/04/us_scientists_woolly_mouse_genes/>
+
+---
+
+## Google multibillionaire Brin demands employees work 60 hours a week on autocomplete tools
+
+date: 2025-03-04, from: OS News
+
+Over the past few years, the tech industry has gone from cushy landing pad for STEM grads to a cesspit of corporate greed, where grueling hours are commonplace, and layoffs could strike at any moment. Unfortunately for employees of Alphabet, the parent company of Google, the squeeze is just getting started. ↫ Joe Wilkins at Futurism Sergey Brin, one of the original co-founders of Google who seems to spend most of his time not working at Google, has sent out a company-wide memo demanding everyone working at Google puts in at least 60 hours a week, in the office, to work on &#8220;AI&#8221; that will eventually replace the very employees he&#8217;s demanding work 60 hours a week in the office. Mind you, this is the same Google that has just gone through several rounds of layoffs and made $26.3 billion in profit in a single quarter. The goal, according to Brin, is for Google to be the first to create an &#8220;artificial general intelligence&#8221;, you know, that thing we used to call just &#8220;AI&#8221; until the Silicon Valley scammers got a hold of the term. There&#8217;s no indication anyone is even remotely close to anything even remotely related to &#8220;AGI&#8221;, and it&#8217;s highly unlikely the glorified autocomplete they are peddling today are anything more than a very expensive dead end to nowhere, but that&#8217;s not stopping him from working his employees to the bone. At this point in time I feel like the big tech companies are racing towards a cliff, blinded by huge piles of investment money, deafened by each other&#8217;s hyperbolic claims and promises, while clueless politicians cheer them on. All of this is going to come crashing down in a spectacular fashion, and of course, the billionaires at the top won&#8217;t be the one suffering the consequences. As is tradition. 
+
+<br> 
+
+<https://www.osnews.com/story/141838/google-multibillionaire-brin-demands-employees-work-60-hours-a-week-on-autocomplete-tools/>
+
+---
+
+## SpaceX loses a Falcon 9 booster and scrubs a Starship
+
+date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+
+<h4>Reusable first stage of workhorse tips over after landing</h4> <p>March 3 was a tough day for SpaceX. The company was forced to scrub flight test 8 of its monster Starship rocket and also lost a Falcon 9 first stage, which landed then caught fire and tipped over.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/04/spacex_loses_falcon_9/>
 
 ---
 
@@ -23,9 +431,9 @@ date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
 
 ## Microsoft Exchange Admin Center takes extended siesta in the EU
 
-date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+date: 2025-03-04, updated: 2025-03-05, from: The Register (UK I.T. News)
 
-<h4>Wasn&#39;t the cloud supposed to be the cheap, reliable option?</h4> <p>Microsoft&#39;s Exchange Administration Center (EAC) has fallen over and appears to be struggling to get up.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Wasn&#39;t the cloud supposed to be the cheap, reliable option?</h4> <p><strong>Updated</strong>  Microsoft&#39;s Exchange Administration Center (EAC) has fallen over and appears to be struggling to get up.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -83,7 +491,7 @@ date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
 
 ## How Google tracks Android device users before they've even opened an app
 
-date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+date: 2025-03-04, updated: 2025-03-05, from: The Register (UK I.T. News)
 
 <h4>No warning, no opt-out, and critic claims ... no consent</h4> <p>Research from a leading academic shows Android users have advertising cookies and other gizmos working to build profiles on them even before they open their first app.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -105,11 +513,11 @@ The National Society of Professional Engineers recently named Debbie Korth, Orio
 
 ---
 
-## Microsoft: So what if costs 4X as much to run Windows Server in AWS, Alibaba, and Google?
+## Microsoft: So what if it costs 4X as much to run Windows Server in AWS, Alibaba, and Google?
 
-date: 2025-03-04, updated: 2025-03-04, from: The Register (UK I.T. News)
+date: 2025-03-04, updated: 2025-03-05, from: The Register (UK I.T. News)
 
-<h4>That&#39;s competition, that&#39;s protecting our IP, Redmond&#39;s lawyers tell UK competition regulator</h4> <p>For AWS and Google to urge the UK competition regulator to &#34;intervene and constrain the price&#34; that Microsoft charges them to license its software in their clouds is both &#34;extraordinary and unprecedented.&#34;…</p> 
+<h4>That&#39;s competition, that&#39;s protecting our IP, Redmond&#39;s lawyers tell UK monopoly cops</h4> <p>For AWS and Google to urge the UK competition regulator to &#34;intervene and constrain the price&#34; that Microsoft charges them to license its software in their clouds is both &#34;extraordinary and unprecedented.&#34;…</p> 
 
 <br> 
 

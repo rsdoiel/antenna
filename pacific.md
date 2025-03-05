@@ -1,11 +1,374 @@
 ---
 title: pacific
-updated: 2025-03-04 07:07:29
+updated: 2025-03-05 07:08:29
 ---
 
 # pacific
 
-(date: 2025-03-04 07:07:29)
+(date: 2025-03-05 07:08:29)
+
+---
+
+## Guam AG: Federal funds for education tied to Trump's 'No Men in Women's Sports' directive 
+
+date: 2025-03-05, from: Pacific Island Times
+
+Guam stands to lose federal funds if it doesn’t comply with a presidential directive prohibiting transgender athletes from participating in  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-ag-federal-funds-for-education-tied-to-trump-s-no-men-in-women-s-sports-directive>
+
+---
+
+## Thriving reef at Bikini Atoll is a triumph of resilience and a warning
+
+date: 2025-03-05, from: Pacific Island Times
+
+Decades after nuclear tests, reef teems with fish, corals, apex predators By Stephen Wright (RFA/BenarNews)-- One of the best Pacific... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/thriving-reef-at-bikini-atoll-is-a-triumph-of-resilience-and-a-warning>
+
+---
+
+## Hawaiian Word of the Week: Malaki
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>Malaki&#8212;March.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/04/hawaiian-word-of-the-week-malaki/">Hawaiian Word of the Week: Malaki</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/04/hawaiian-word-of-the-week-malaki/>
+
+---
+
+## UH Hilo’s Peat earns PacWest Defender of the Week honors
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>Nadjrick Peat earned the honor after rebounding and key plays in the final week of the regular season.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/04/peat-pacwest-week-honors/"><abbr>UH</abbr> Hilo’s Peat earns PacWest Defender of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/04/peat-pacwest-week-honors/>
+
+---
+
+## UH softball’s Ah Yat awarded Big West Field Player of the Week
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>Milan Ah Yat was voted Big West Field Player of the Week after a .529 batting average in the OUTRIGGER Invitational.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/04/ah-yat-big-west-player-week/"><abbr>UH</abbr> softball’s Ah Yat awarded Big West Field Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/04/ah-yat-big-west-player-week/>
+
+---
+
+## Maunakea: Observations help confirm rare triple system in Kuiper Belt
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>If confirmed, the 148780 Altjira system could change how scientists understand the formation of objects in a distant region of the solar system.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/04/maunakea-triple-system-in-kuiper-belt/">Maunakea: Observations help confirm rare triple system in Kuiper Belt</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/04/maunakea-triple-system-in-kuiper-belt/>
+
+---
+
+## Titriyski earns national player of the week honors
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>Titriyski is the first <abbr>UH</abbr> freshman to win <abbr>AVCA</abbr> Player of the Week honors since 2013.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/04/titriyski-earns-avca-honors/">Titriyski earns national player of the week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/04/titriyski-earns-avca-honors/>
+
+---
+
+## UH men’s VB sweeps weekly Big West awards
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>Kristian Titriyski, ‘Eleu Choy and Tread Rosenthal took home all four Big West Player of the Week awards.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/04/vb-sweeps-weekly-bw-awards/"><abbr>UH</abbr> men’s <abbr>VB</abbr> sweeps weekly Big West awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/04/vb-sweeps-weekly-bw-awards/>
+
+---
+
+## President Hensel engages students, faculty, community during UH Maui College visit
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>The visit provided an opportunity for Hensel to engage with students, faculty, staff, leadership, alumni and community members to discuss key challenges and opportunities in Maui County.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/04/hensel-uh-maui-college-visit/">President Hensel engages students, faculty, community during <abbr>UH</abbr> Maui College visit</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/04/hensel-uh-maui-college-visit/>
+
+---
+
+##  ‘Scared, worried mad and sad;' Trump's immigration crackdown leaves FSM citizens feeling lost in limbo 
+
+date: 2025-03-05, from: Pacific Island Times
+
+President Donald Trump’s new administration has brought a flood of confusion and chaos nationwide and around the world as he settled into th 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/scared-worried-mad-and-sad-trump-s-immigration-crackdown-leaves-fsm-citizens-feeling-lost-in-lim>
+
+---
+
+## Morgue plan irks residents: Work already has started on temporary storage facility
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>About three dozen members of the public learned Monday night at a community meeting at Aupuni Center called by the Hawaii Police Department that construction of a temporary morgue started about two weeks ago adjacent to the as yet-unopened call center for police and fire dispatchers in Hilo &#8212; and that didn&#8217;t sit well with most who spoke.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/hawaii-news/morgue-plan-irks-residents-work-already-has-started-on-temporary-storage-facility/>
+
+---
+
+## Trump touts relentless start to term in speech to Congress, drawing catcalls from Democrats
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A triumphant President Donald Trump told Congress on Tuesday that &#8220;America is back&#8221; after he reshaped U.S. foreign policy, ignited a trade war and ousted tens of thousands of government workers in six tumultuous weeks since returning to power, drawing jeers from some Democrats who walked out in protest.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/trump-touts-relentless-start-to-term-in-speech-to-congress-drawing-catcalls-from-democrats/>
+
+---
+
+## Power plant plan raises concerns: Proposed 60-megawatt facility would be built in Pana‘ewa
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>A proposed energy facility in Pana&#8216;ewa is still far from reality but already has residents raising their eyebrows.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/hawaii-news/power-plant-plan-raises-concerns-proposed-60-megawatt-facility-would-be-built-in-panaewa/>
+
+---
+
+## Zonta Fashion Frenzy returns; fundraiser celebrates Hawaii Island style
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>The highly anticipated Zonta Fashion Frenzy (ZFF) series returns this month, celebrating Hawaii Island&#8217;s fashion and creative industries while raising funds to support local women and girls through service projects and scholarships.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/entertainment/zonta-fashion-frenzy-returns-fundraiser-celebrates-hawaii-island-style/>
+
+---
+
+## Adult coconut rhinoceros beetles found in Kona
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>A pair of adult coconut rhinoceros beetles were found Monday and Tuesday in Kailua-Kona.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/hawaii-news/adult-coconut-rhinoceros-beetles-found-in-kona/>
+
+---
+
+## Public input sought for affordable housing effort
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Office of Housing and Community Development is seeking community input on Hawaii Island&#8217;s housing needs for the Affordable Housing Production Program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/community/public-input-sought-for-affordable-housing-effort/>
+
+---
+
+## ‘Shikata Ga Nai’ hits the screen Sunday
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Shikata Ga Nai,&#8221; a Japanese phrase that means, &#8220;It cannot be helped,&#8221; is also the title of a feature length independent movie that will be shown at 1 p.m. on Sunday, March 9, at the Palace Theater.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/entertainment/shikata-ga-nai-hits-the-screen-sunday/>
+
+---
+
+## DOH launches bird flu survey
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health is inviting Hawaii residents who keep backyard flocks or are involved in bird rescues to participate in a new survey aimed at gathering important data about bird flu awareness and preparedness.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/community/doh-launches-bird-flu-survey/>
+
+---
+
+## Supreme Court deals blow to EPA in dispute over federal water rules
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court sided with San Francisco on Tuesday in a challenge to water quality regulations issued by the Environmental Protection Agency in a ruling that could have sweeping implications for the agency&#8217;s ability to limit offshore pollution.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/supreme-court-deals-blow-to-epa-in-dispute-over-federal-water-rules/>
+
+---
+
+## News in brief March 5
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>Tropical Cyclone Alfred on track &#0010;to hit Australia&#8217;s east coast</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/news-in-brief-march-5/>
+
+---
+
+## China retaliates against Trump tariffs as superpower trade war escalates
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>BEIJING &#8212; Minutes after President Donald Trump&#8217;s latest tariffs took effect, the Chinese government said Tuesday that it was imposing its own broad tariffs on food imported from the United States and would essentially halt sales to 15 American companies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/china-retaliates-against-trump-tariffs-as-superpower-trade-war-escalates/>
+
+---
+
+## World’s largest iceberg runs aground
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>After months of drifting, the world&#8217;s largest iceberg has come to a halt near the island of South Georgia in the South Atlantic Ocean.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/worlds-largest-iceberg-runs-aground/>
+
+---
+
+## Arab states adopt Egyptian alternative to Trump’s ‘Gaza Riviera’
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>DOHA/CAIRO &#8212; Arab leaders adopted an Egyptian reconstruction plan for Gaza on Tuesday that would cost $53 billion and avoid displacing Palestinians from the enclave, in contrast to U.S. President Donald Trump&#8217;s &#8220;Middle East Riviera&#8221; vision.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/arab-states-adopt-egyptian-alternative-to-trumps-gaza-riviera/>
+
+---
+
+## Republican house members told to stop holding in-person town halls
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Rep. Richard Hudson of North Carolina, chair of House Republicans&#8217; campaign arm, issued a stark message to the GOP rank and file Tuesday: Stop having in-person town halls with your constituents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/republican-house-members-told-to-stop-holding-in-person-town-halls/>
+
+---
+
+## Trump’s crypto reserve plan raises doubts. here’s what we know.
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>The crypto market gives and takes: After President Donald Trump&#8217;s plan for a national crypto reserve drew backlash from both Republicans and investors, the prices of digital tokens that would be involved soared higher &#8212; and then tumbled. (Bitcoin was trading at about $83,800 early Tuesday, down nearly $10,000 from a day ago.)</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/trumps-crypto-reserve-plan-raises-doubts-heres-what-we-know/>
+
+---
+
+## After Trump applies pressure, Wall Street giant moves into Panama
+
+date: 2025-03-05, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump had been hammering Panama for weeks over its most valuable asset, the Panama Canal, saying, without evidence, that China operated the waterway. There seemed to be no way Panama could get Washington off its back.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/04/nation-world-news/after-trump-applies-pressure-wall-street-giant-moves-into-panama/>
+
+---
+
+## Guam Power Authority to build new substation in Mangilao to power up proposed hospital project
+
+date: 2025-03-04, from: Pacific Island Times
+
+By Pacific Island Times News Staff The Guam Power Authority plans to build a new power substation in Mangilao to support Gov. Lou Leon... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-power-authority-to-build-new-substation-in-mangilao-to-power-up-proposed-hospital-project>
 
 ---
 
@@ -530,6 +893,48 @@ date: 2025-03-04, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/03/03/features/lets-talk-food-today-is-mardi-gras-3/>
+
+---
+
+## Search underway for suspect in fatal Puna shooting
+
+date: 2025-03-04, from: Hawaii Tribune Harold
+
+
+				<p>Police are actively searching for a man suspected of fatally shooting a 25-year-old woman today in Puna.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/03/hawaii-news/search-underway-for-suspect-in-fatal-puna-shooting/>
+
+---
+
+## Downtown Hilo post office, HVO site among possible federal cuts
+
+date: 2025-03-04, from: Hawaii Tribune Harold
+
+
+				<p>A historic building in Hilo could be sold or closed amidst cutbacks by the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/03/hawaii-news/downtown-hilo-post-office-hvo-site-among-possible-federal-cuts/>
+
+---
+
+## Ocean View fires trigger arson investigation
+
+date: 2025-03-04, from: Hawaii Tribune Harold
+
+
+				<p>Police have launched an arson investigation after several brush fires started under suspicious circumstances Monday in the Hawaiian Ocean View Estates subdivision.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/03/hawaii-news/ocean-view-fires-trigger-arson-investigation/>
 
 ---
 

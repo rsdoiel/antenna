@@ -1,11 +1,155 @@
 ---
 title: socal north
-updated: 2025-03-04 07:07:28
+updated: 2025-03-05 07:08:29
 ---
 
 # socal north
 
-(date: 2025-03-04 07:07:28)
+(date: 2025-03-05 07:08:29)
+
+---
+
+## Rain moves into SoCal, with chance of thunderstorms and snow
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+A weak atmospheric river is bringing rain and snow to SoCal. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-winter-storm-march>
+
+---
+
+## Skipping meat for Lent? Try these LA fish taco spots instead
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+Fish is a popular Lenten food, and L.A. has many excellent fish taco spots to help you get through it. 
+
+<br> 
+
+<https://laist.com/news/food/skipping-meat-for-lent-la-fish-taco-spots>
+
+---
+
+## AI chatbots can cushion the high school counselor shortage — but are they bad for students?
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+The more students turn to chatbots, the fewer chances they have to develop real-life relationships that can lead to jobs and later success. 
+
+<br> 
+
+<https://laist.com/news/education/ai-chatbots-can-cushion-the-high-school-counselor-shortage-but-are-they-bad-for-students>
+
+---
+
+## Sen. Elissa Slotkin says more unites Americans than divides after Trump's speech
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+Michigan's Slotkin — a centrist with deep national security credentials — delivered the Democrats' rebuttal to Trump's speech, highlighting bipartisanship and the "core beliefs" most Americans share. 
+
+<br> 
+
+<https://laist.com/news/sen-elissa-slotkin-says-more-unites-americans-than-divides-after-trumps-speech>
+
+---
+
+## Read NPR's annotated fact check of President Trump's address to Congress
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+As President Trump addressed a joint session of Congress, reporters from across NPR's newsroom fact-checked his speech and offered context. 
+
+<br> 
+
+<https://laist.com/news/politics/follow-nprs-annotated-fact-check-of-president-trumps-address-to-congress>
+
+---
+
+## Judge rips into OC prosecutors and calls their misconduct 'reprehensible'
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+Dozens of old criminal convictions should be revisited because of the misconduct, the defense says. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/orange-county-prosecutors-accused-of-misconduct-jailhouse-snitch-case>
+
+---
+
+## OPM alters memo about probationary employees but does not order mass firings reversed
+
+date: 2025-03-04, updated: 2025-03-05, from: The LAist
+
+The Office of Personnel Management has revised a Jan. 20 memo asking federal agencies to identify probationary employees ahead of a mass firing. The reissued memo does not order fired workers reinstated. 
+
+<br> 
+
+<https://laist.com/news/opm-alters-memo-about-probationary-employees-but-does-not-order-mass-firings-reversed>
+
+---
+
+## Trump says he is 'just getting started,' as he faces vocal protests from Democrats
+
+date: 2025-03-04, updated: 2025-03-05, from: The LAist
+
+The president's address to a joint session of Congress is expected to touch on DOGE, immigration, tariffs and the future of U.S. support for Ukraine. 
+
+<br> 
+
+<https://laist.com/news/trump-will-address-a-joint-session-of-congress-tonight-heres-what-to-expect>
+
+---
+
+## From fast food to fine dining sticker shock, why restaurant math isn't working for anyone
+
+date: 2025-03-04, updated: 2025-03-05, from: The LAist
+
+As steep as your checks have gotten, restaurants are closing a-plenty. The math just doesn't work. What's going on? 
+
+<br> 
+
+<https://laist.com/news/food/why-dont-restaurant-prices-work-for-anyone-involved>
+
+---
+
+## Fire chief ousted by LA Mayor Bass loses City Council appeal to get her job back
+
+date: 2025-03-04, updated: 2025-03-05, from: The LAist
+
+Former L.A. Fire Chief Kristin Crowley made her case to the City Council on Tuesday, pushing back against many criticisms leveled by Mayor Karen Bass. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-fire-chief-crowley-appeal-city-council-vote>
+
+---
+
+## ‘Medi-Cal is the worst thing I've ever done’: Doulas say state Medicaid program owes them thousands of dollars
+
+date: 2025-03-04, updated: 2025-03-05, from: The LAist
+
+Two years after Medi-Cal expanded to cover doulas, some say it's a fight to get reimbursed for their services. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/medi-cal-california-medicaid-doulas-benefit-late-payments>
+
+---
+
+## Towing companies can sell your car — and the DMV gets to keep the profit without telling you
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+The California Department of Motor Vehicles has collected more than $8 million from about 5,000 car sales since 2016. 
+
+<br> 
+
+<https://laist.com/news/towing-companies-can-sell-your-car-and-the-dmv-gets-to-keep-the-profit-without-telling-you>
 
 ---
 
@@ -18,6 +162,18 @@ The new passes will start to be distributed Tuesday and are for people, business
 <br> 
 
 <https://laist.com/news/transportation/new-pacific-coast-highway-access-pass-available-for-some-residents-and-essential-businesses>
+
+---
+
+## Proposed LAUSD calendar commits to three-week winter break
+
+date: 2025-03-04, updated: 2025-03-04, from: The LAist
+
+The proposal carves out a full week for optional school days during the winter break. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-2025-2026-calendar-vote-winter-break>
 
 ---
 
@@ -42,18 +198,6 @@ The South Bay city is choosing a mayor, a city attorney and three councilmembers
 <br> 
 
 <https://laist.com/news/politics/redondo-beach-becomes-first-la-county-city-to-use-ranked-choice-voting>
-
----
-
-## Proposed LAUSD calendar commits to three-week winter break
-
-date: 2025-03-04, updated: 2025-03-04, from: The LAist
-
-The proposal carves out a full week for optional school days during the winter break. 
-
-<br> 
-
-<https://laist.com/news/education/lausd-2025-2026-calendar-vote-winter-break>
 
 ---
 
@@ -179,7 +323,7 @@ President Trump will lay out his second term agenda in an address to a joint ses
 
 ## Best things to do this week in LA and SoCal: March 3 - 6
 
-date: 2025-03-03, updated: 2025-03-03, from: The LAist
+date: 2025-03-03, updated: 2025-03-04, from: The LAist
 
 Gustave Caillebotte exhibit opens at the Getty, Ben Barnes plays the Wiltern, Noises Off is on at the Geffen, and a Mardi Gras patio party in Jefferson Park and more of the best things to do. 
 

@@ -1,11 +1,417 @@
 ---
 title: going electric
-updated: 2025-03-04 07:07:35
+updated: 2025-03-05 07:08:35
 ---
 
 # going electric
 
-(date: 2025-03-04 07:07:35)
+(date: 2025-03-05 07:08:35)
+
+---
+
+## Tesla (TSLA) sales crash continues in Europe, with Germany down 70%
+
+date: 2025-03-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/Tesla-extended-warranty-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s (TSLA) sales crash continues in Europe, with more countries reporting February numbers, including Germany, down 70%.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="404537" href="https://electrek.co/2025/03/05/tesla-tsla-sales-crash-continues-in-europe-with-germany-down-70/#more-404537" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/05/tesla-tsla-sales-crash-continues-in-europe-with-germany-down-70/>
+
+---
+
+## A Remote Driver Will Deliver This Kia Niro EV Rideshare Car To You
+
+date: 2025-03-05, from: Inside EVs News
+
+It arrives like a robotaxi, but then you get to drive it. 
+
+<br> 
+
+<https://insideevs.com/news/752479/remote-controlled-kia-niro-ev-robotaxi-detroit/>
+
+---
+
+## Rivian Slashed R1S, R1T Production Costs By A Massive Amount
+
+date: 2025-03-05, from: Inside EVs News
+
+The refreshed R1S and R1T are tens of thousands of dollars cheaper to make than their predecessors. 
+
+<br> 
+
+<https://insideevs.com/news/752559/rivian-r1s-r1t-production-cost-slashed/>
+
+---
+
+## All the EVs you can buy with 0% financing in March 2025
+
+date: 2025-03-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/zero-percent-financing_MARCH.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Lease deals get all the hype, but most people still want to own the car after they’re done making all those payments on it. If that sounds like you, and you’ve been waiting for the interest rates on auto loans to drop, you’re in luck: there are a bunch of great plug-in cars you can buy with 0% financing this March … <strong>and that includes a zero percent Tesla deal</strong>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="0-financing,ev-deals,tesla" data-layer-viewtype="unknown" data-post-id="404401" href="https://electrek.co/2025/03/05/all-the-evs-you-can-buy-with-0-financing-in-march-2025/#more-404401" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/05/all-the-evs-you-can-buy-with-0-financing-in-march-2025/>
+
+---
+
+## Ultra fast Apollo Phantom 2.0 electric scooter begins shipping
+
+date: 2025-03-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/apollo-scooter-head.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In a new high watermark for Canadian electric scooter company Apollo, the brand’s new flagship electric scooter has begun shipping in North America. With speeds topping 50 MPH (80 km/h) in the highest power version, the Phantom 2.0 is set to push Apollo into even more premium scooter territory.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter" data-layer-viewtype="unknown" data-post-id="404525" href="https://electrek.co/2025/03/05/ultra-fast-apollo-phantom-2-0-electric-scooter-begins-shipping/#more-404525" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/05/ultra-fast-apollo-phantom-2-0-electric-scooter-begins-shipping/>
+
+---
+
+## The Volvo ES90 Is An Electric Sedan With Up To 670 HP
+
+date: 2025-03-05, from: Inside EVs News
+
+Praise be: Volvo’s new electric sedan has a liftback. And it has a ton of style to go with all of that range and power. 
+
+<br> 
+
+<https://insideevs.com/news/752512/volvo-es90-official-specs-range/>
+
+---
+
+## Volvo ES90 revealed: 800V beauty is midway between SUV, sedan and fastback
+
+date: 2025-03-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/image_a5963c.png?w=1497" /></div><p>Volvo today revealed its new 800V ES90, based on the SPA2 architecture, which combines the ‘refined elegance of a sedan, the adaptability of a fastback, and the spacious, elevated seating of an SUV’. Here are the details…</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="404262" href="https://electrek.co/2025/03/05/volvo-es90-revealed-800v-beauty-is-midway-between-suv-sedan-and-fastback/#more-404262" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/05/volvo-es90-revealed-800v-beauty-is-midway-between-suv-sedan-and-fastback/>
+
+---
+
+## 2026 Cadillac Escalade IQL Has More Legroom, Cargo Space
+
+date: 2025-03-05, from: Inside EVs News
+
+Just don’t call it the long-wheelbase Escalade IQ. 
+
+<br> 
+
+<https://insideevs.com/news/752498/2026-cadillac-escalade-iql-specs-price-official/>
+
+---
+
+## One of South Dakota’s largest wind farms just got the green light
+
+date: 2025-03-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Deuel_edited.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>South Dakota’s Public Utilities Commission (<a href="https://puc.sd.gov/energy/Wind/project.aspx" target="_blank" rel="noreferrer noopener">PUC</a>) has approved a 260-megawatt (MW) wind farm that will become one of the largest in the wind-friendly state.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,south-dakota,wind-power" data-layer-viewtype="unknown" data-post-id="404334" href="https://electrek.co/2025/03/04/south-dakota-largest-wind-farms-green-light/#more-404334" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/south-dakota-largest-wind-farms-green-light/>
+
+---
+
+## Elon protests turn violent as arsonists set fire to Tesla cars, Plus: 2026 Chevy Spark
+
+date: 2025-03-05, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/16x9_spark.jpg?quality=82&#038;strip=all&#038;w=1399" /></div><p><a href="https://www.youtube.com/@ElectrekDaily"></a>On today’s fiery episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, it’s all bad news for Elon as Tesla sales continue to plunge in Europe, the pump fails to stop the TSLA stock price slide, and people set fire to dealers. Plus: BMW takes the top two spots in the J.D. Power EV owner satisfaction survey.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,j-d-power,quick-charge,tesla" data-layer-viewtype="unknown" data-post-id="404387" href="https://electrek.co/2025/03/04/elon-protests-turn-violent-as-arsonists-set-fire-to-tesla-cars-plus-2026-chevy-spark/#more-404387" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/elon-protests-turn-violent-as-arsonists-set-fire-to-tesla-cars-plus-2026-chevy-spark/>
+
+---
+
+## Volkswagen Was Already In Trouble. Tariffs Could Make Things Much Worse
+
+date: 2025-03-04, from: Inside EVs News
+
+More than 40% of VW Group products sold in the U.S. are made in Mexico. And tariffs on European cars may still be on the way. 
+
+<br> 
+
+<https://insideevs.com/news/752468/vw-group-tariff-impact/>
+
+---
+
+## Kia EV4 GT looks like the affordable electric sports car we’ve been waiting for [Video]
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Kia-EV4-GT.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Less than a week after Kia unveiled <a href="https://electrek.co/guides/kia-ev4/">the EV4</a>, we are already getting our first look at the sporty GT model. When it arrives, the GT variant is expected to be one of the most affordable electric sports cars and what could be Kia’s most powerful vehicle yet. But can it keep up with the Tesla Model 3 Performance?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="404337" href="https://electrek.co/2025/03/04/kia-ev4-gt-coming-soon-affordable-ev-sports-car-video/#more-404337" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/kia-ev4-gt-coming-soon-affordable-ev-sports-car-video/>
+
+---
+
+## Another L for H as every hydrogen bus in this European city fails at once
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/h-bus.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>In another highly visible failure for hydrogen in the real-world, all 25 of the fuel cell-powered buses in the Poznan, Poland fleet failed at the same time yesterday morning, forcing the city to scramble diesel buses into action.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-buses,hydrogen,hydrogen-fuel-cell" data-layer-viewtype="unknown" data-post-id="404344" href="https://electrek.co/2025/03/04/another-l-for-h-as-every-hydrogen-bus-in-this-european-city-fails-at-once/#more-404344" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/another-l-for-h-as-every-hydrogen-bus-in-this-european-city-fails-at-once/>
+
+---
+
+## The Mercedes-Benz GLC EV Shows That The Company Is Switching Strategies
+
+date: 2025-03-04, from: Inside EVs News
+
+Mercedes' plan to separate internal-combustion and electric cars didn't work out. Here's the new plan. 
+
+<br> 
+
+<https://insideevs.com/news/752466/mercedes-glc-ev-camouflaged-prototype/>
+
+---
+
+## The Volkswagen ID.4 Just Dethroned The Tesla Model Y In This Key Market
+
+date: 2025-03-04, from: Inside EVs News
+
+The ID.4 is up a whopping 195% compared to January 2024. By comparison, the Tesla Model Y is down 44%. 
+
+<br> 
+
+<https://insideevs.com/news/752470/id4-outsells-tesla-europe-sales/>
+
+---
+
+## Solar in 2025: Here’s what’s keeping the industry up at night
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/sunrun-solar_panels_1500x900_v1.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>The solar industry is bracing for a turbulent year, and SolarReviews’ newly released 2025 Solar Industry Survey lays out exactly why. The survey, now in its third year, gathered insights from solar companies across the industry between December 2, 2024, and January 3, 2025, covering everything from the Inflation Reduction Act to workforce development and the state of the supply chain.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,solar-power" data-layer-viewtype="unknown" data-post-id="404323" href="https://electrek.co/2025/03/04/solar-in-2025-heres-whats-keeping-the-industry-up-at-night/#more-404323" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/solar-in-2025-heres-whats-keeping-the-industry-up-at-night/>
+
+---
+
+## Tesla brings back 0% loans to boost demand in the US
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Model-3-0-APR.png?w=1600" /></div><p>Tesla has brought back 0% APR financing to new Model 3 orders in the US in order to boost demand in at the end of a tough quarter for the automaker.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="404294" href="https://electrek.co/2025/03/04/tesla-brings-back-0-loans-to-boost-demand-in-the-us/#more-404294" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/tesla-brings-back-0-loans-to-boost-demand-in-the-us/>
+
+---
+
+## Hyundai and Kia’s low-cost EVs are supercharging sales — And this is just the start
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-Kia-low-cost-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai and Kia are on a hot streak. The Korean auto giants just notched another month of strong sales growth in February, thanks to new low-cost EVs like <a href="https://electrek.co/guides/kia-ev3/">Kia’s EV3</a> and the Hyundai Casper (Inster EV). With more models on the way this year, Hyundai and Kia setting the stage for an even bigger 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-motor-group,kia" data-layer-viewtype="unknown" data-post-id="404265" href="https://electrek.co/2025/03/04/hyundai-kias-low-cost-evs-supercharging-sales/#more-404265" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/hyundai-kias-low-cost-evs-supercharging-sales/>
+
+---
+
+## Velotric Spring Sale drops Nomad 1 Plus e-bike to $1,399 with free gear, Jackery Explorer 100 Plus $89, Autel EV charger, more
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Velotric-Nomad-1-Plus-All-Terrain-Fat-Tire-e-bike.webp?w=1200" /></div><p>Running ahead of the pack in today’s Green Deals is <a href="https://9to5toys.com/2025/03/03/velotric-nomad-1-plus-e-bike-1399/">Velotric’s Spring Sale</a> that is cutting up to $400 off its e-bikes while also offering select free gear bundles and 30% off accessory promos. Running alongside its newest release (more below), we’re seeing Velotric’s upgraded <a href="https://9to5toys.com/2025/03/03/velotric-nomad-1-plus-e-bike-1399/">2024 Nomad 1 Plus</a> All-Terrain Fat Tire e-bike with $134 in free gear down at <a href="https://9to5toys.com/2025/03/03/velotric-nomad-1-plus-e-bike-1399/">$1,399</a>, among other models. We also spotted Jackery’s palm-sized <a href="https://9to5toys.com/2025/03/03/jackery-explorer-100-plus-89-low-4/">Explorer 100 Plus</a> Portable Power Station returning to its <a href="https://9to5toys.com/2025/03/03/jackery-explorer-100-plus-89-low-4/">$89</a> low, as well as Autel’s non-hardwired <a href="https://9to5toys.com/2025/03/04/autel-40a-maxicharger-nema-14-50-plug-399-low/">MaxiCharger AC Lite Home</a> 40A Smart AI Level 2 EV Charger with a NEMA 14-50 plug returning to its <a href="https://9to5toys.com/2025/03/04/autel-40a-maxicharger-nema-14-50-plug-399-low/">$399</a> low. Bringing up the rear is a collection of Greenworks equipment, led by the <a href="https://9to5toys.com/2025/03/04/greenworks-24v-pole-saw-hedge-trimmer-combo-161/">Greenworks 24V 8-inch Cordless Pole Saw and 20-inch Pole Hedge Trimmer Combo</a> at <a href="https://9to5toys.com/2025/03/04/greenworks-24v-pole-saw-hedge-trimmer-combo-161/">$161</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s 59% spring savings from <a href="https://9to5toys.com/2025/03/03/ecoflow-spring-sale-through-march-13/">EcoFlow</a>, the $762 off e-bike bundles from <a href="https://9to5toys.com/2025/03/03/lectric-spring-forward-sale-from-999/">Lectric</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="404269" href="https://electrek.co/2025/03/04/velotric-nomad-1-plus-1399-jackery-autel-more/#more-404269" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/velotric-nomad-1-plus-1399-jackery-autel-more/>
+
+---
+
+## Canada proposes 100% tariffs on Tesla, I have an alternative: open the door to Chinese EVs
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Toyota-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A Canadian candidate for Prime Minister has proposed implementing a 100% tariff on Tesla vehicles in response to US tariffs on Canadian goods.</p>
+
+
+
+<p>I propose an alternative: open the door to Chinese EVs in Canada.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="404260" href="https://electrek.co/2025/03/04/canada-proposes-100-tariffs-on-tesla-i-have-an-alternative-open-the-door-to-chinese-evs/#more-404260" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/canada-proposes-100-tariffs-on-tesla-i-have-an-alternative-open-the-door-to-chinese-evs/>
+
+---
+
+## Rivian and Ben & Jerry’s just dropped an electric ice cream truck: Meet the sweet new EV
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-electric-ice-cream-truck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Imagine seeing this as the next ice cream truck rolling through your neighborhood? Yep, <a href="https://electrek.co/guides/rivian/">Rivian</a> and Ben &amp; Jerry’s teamed up to create the electric ice cream truck we’ve been waiting for. The “Scoop Truck” will be hitting the road to hand out ice cream this week and honestly, it looks pretty sweet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="404241" href="https://electrek.co/2025/03/04/rivian-ben-and-jerrys-team-up-sweet-ev-ice-cream-truck/#more-404241" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/rivian-ben-and-jerrys-team-up-sweet-ev-ice-cream-truck/>
+
+---
+
+## Elon Musk tries and fails to pump Tesla’s stock (TSLA)
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-stock.png?w=1600" /></div><p>Elon Musk tried to pump Tesla’s stock (TSLA) by claiming a 10x increase in profits, but it failed. In fact, the stock is down 10% since Musk’s pump.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="404107" href="https://electrek.co/2025/03/04/elon-musk-tries-and-fails-to-pump-teslas-stock-tsla/#more-404107" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/elon-musk-tries-and-fails-to-pump-teslas-stock-tsla/>
+
+---
+
+## Trailers and House-Flipping Journeys
+
+date: 2025-03-04, from: Off the Grid World
+
+<p>The crackle of a solar-powered generator, the scent of reclaimed timber, and the rhythm of hand tools—these are the hallmarks of an off-grid house flip. For those embracing self-sufficient living, &#8230;</p>
+<p>The post <a href="https://offgridworld.com/trailers-and-house-flipping-journeys/">Trailers and House-Flipping Journeys</a> appeared first on <a href="https://offgridworld.com">Off Grid World</a>.</p>
+ 
+
+<br> 
+
+<https://offgridworld.com/trailers-and-house-flipping-journeys/>
+
+---
+
+## Waymo One begins autonomous rides in Austin, Texas, exclusively through Uber [Video]
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Waymo-Austin-Uber.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Starting today, the fully autonomous Waymo One ride service is available exclusively to customers in Austin, Texas through the Uber app. Today’s news builds upon <a href="https://electrek.co/guides/waymo/">Waymo’s</a> existing partnership with Uber and is a milestone in the robotaxi startup’s expansion to new cities around the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="austin,autonomous-driving,robotaxi,uber,waymo" data-layer-viewtype="unknown" data-post-id="404201" href="https://electrek.co/2025/03/04/waymo-one-autonomous-rides-austin-texas-exclusively-uber-video/#more-404201" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/waymo-one-autonomous-rides-austin-texas-exclusively-uber-video/>
+
+---
+
+## This Tesla Model 3 Has 216,000 Miles. Here’s How Much Its Battery Degraded
+
+date: 2025-03-04, from: Inside EVs News
+
+It racked up an impressive number of miles in just three years. So is it toast? 
+
+<br> 
+
+<https://insideevs.com/news/752448/tesla-model-3-200000-miles-battery-degradation/>
+
+---
+
+## Here’s our first look at the new Mercedes GLC EV: The sleek SUV looks even better electric
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Mercedes-GLC-EV-first-look.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The most popular <a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> SUV is going electric. We are finally getting our first look at the new Mercedes GLC EV and from what we can see, the SUV is getting a stylish facelift, advanced new technology, and a lot more. Check it out below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes,mercedes-benz" data-layer-viewtype="unknown" data-post-id="404188" href="https://electrek.co/2025/03/04/first-look-mercedes-glc-ev-sleek-electric-suv/#more-404188" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/first-look-mercedes-glc-ev-sleek-electric-suv/>
+
+---
+
+## ComEd, Nuvve set to launch V2G pilot program for electric school buses
+
+date: 2025-03-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/nuvve_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With the launch of a new pilot program in collaboration with Nuvve, Chicago area utility ComEd is set to become the latest utility to explore the benefits of bidirectional charging using electric school buses to support the grid.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-school-buses,nuvve,v2g" data-layer-viewtype="unknown" data-post-id="404193" href="https://electrek.co/2025/03/04/comed-nuvve-set-to-launch-v2g-pilot-program-for-electric-school-buses/#more-404193" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/04/comed-nuvve-set-to-launch-v2g-pilot-program-for-electric-school-buses/>
 
 ---
 

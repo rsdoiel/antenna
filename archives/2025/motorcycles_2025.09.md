@@ -1,11 +1,109 @@
 ---
 title: motorcycles
-updated: 2025-03-04 07:07:34
+updated: 2025-03-05 07:08:34
 ---
 
 # motorcycles
 
-(date: 2025-03-04 07:07:34)
+(date: 2025-03-05 07:08:34)
+
+---
+
+## Could This EV Dirtbike Finally Become a Reality?
+
+date: 2025-03-05, from: Ride Apart, Electric Motorcycle News
+
+A performance-oriented electric dirtbike could be Hero’s ticket to the global EV market.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752361/hero-electric-dirtbike-coming-soon/>
+
+---
+
+## Kawasaki Says Don't Ride Ninja e-1 or Z e-1 Until This Recall Issue Is Fixed
+
+date: 2025-03-05, from: Ride Apart, Electric Motorcycle News
+
+A missing part could disrupt battery connection, which could stop the bike unexpectedly. 
+
+<br> 
+
+<https://www.rideapart.com/news/752456/kawasaki-ninjae1-ze1-battery-recall/>
+
+---
+
+## Trump's Idiotic Tariffs Are Going to Wreck the Powersports Market
+
+date: 2025-03-05, from: Ride Apart, Electric Motorcycle News
+
+Big business brain President still doesn't understand how tariffs work.  
+
+<br> 
+
+<https://www.rideapart.com/news/752474/trump-tariff-trade-war-mexico-canada-china-powersports/>
+
+---
+
+## Klims Newest ADV Helmet Is Crazy Expensive, But It’s Easy To See Why
+
+date: 2025-03-05, from: Ride Apart, Electric Motorcycle News
+
+Versatility, comfort, and safety are three of its strongest suits.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752360/klim-x1-alpha-adventure-helmet/>
+
+---
+
+## Watch a MotoGP Champion Race an Motocross World Champion on Dirt
+
+date: 2025-03-05, from: Ride Apart, Electric Motorcycle News
+
+Quatararo's pace is impressive when compared to an MX2 World Champion's. 
+
+<br> 
+
+<https://www.rideapart.com/news/752355/fabio-quatararo-rides-factory-yamaha-yz450f/>
+
+---
+
+## KTM Finally Kicks CEO Out, But There's a Massive Catch
+
+date: 2025-03-04, from: Ride Apart, Electric Motorcycle News
+
+Took way longer than I would've thought.  
+
+<br> 
+
+<https://www.rideapart.com/news/752446/ktm-ousts-ceo-stefan-pierer-board-ag/>
+
+---
+
+## Harley-Davidson Will Now Sell You a $110,000 Motorcycle
+
+date: 2025-03-04, from: Ride Apart, Electric Motorcycle News
+
+If you're lucky.  
+
+<br> 
+
+<https://www.rideapart.com/news/752356/2025-harley-davidson-cvo-road-glide-rr-king-of-the-baggers/>
+
+---
+
+## A BMW Dealer Once Set a Cannonball Record on a Near Stock Motorcycle
+
+date: 2025-03-04, from: Ride Apart, Electric Motorcycle News
+
+New trans-continental records aren't super impressive. This one is.  
+
+<br> 
+
+<https://www.rideapart.com/news/752352/1958-bmw-r69-motorcycle-canon-ball-record/>
 
 ---
 

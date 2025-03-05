@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-03-04 07:07:35
+updated: 2025-03-05 07:08:35
 ---
 
 # craft
 
-(date: 2025-03-04 07:07:35)
+(date: 2025-03-05 07:08:35)
+
+---
+
+## Useful Tools Found in “From Truths to Tools”
+
+date: 2025-03-04, from: Lost Arg Press blog
+
+The following is an excerpt out of &#8220;From Truth to Tools&#8221; by Jim Tolpin and George Walker; Illustrated by Andrea Love. It features some of our tools that you may recognize (Crucible Sliding Bevel and Crucible Brass Bevel Monkey) and explains why we make them and find them so useful. 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/04/useful-tools-found-in-from-truths-to-tools/>
 
 ---
 
@@ -61,7 +73,7 @@ Mending a Bomber by John Calkin Originally published in American Lutherie #89, 2
 
 date: 2025-03-02, from: Guild of American Luthiers
 
-Arnold M.J. Hennig of Elderly Instruments in Lansing, Michigan Thoughts on 12-String Guitars by Roger Alan Skipper Originally published in American Lutherie #113, 2013 We at the Guild of American Luthiers are quite often asked about 12-string guitars: What should be done to beef up a 6-string guitar plan to make it suitable for a [&#8230;] 
+Thoughts on 12-String Guitars by Roger Alan Skipper Originally published in American Lutherie #113, 2013 We at the Guild of American Luthiers are quite often asked about 12-string guitars: What should be done to beef up a 6-string guitar plan to make it suitable for a 12-string configuration? What have the major builders done in [&#8230;] 
 
 <br> 
 

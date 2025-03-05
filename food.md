@@ -1,11 +1,191 @@
 ---
 title: food
-updated: 2025-03-04 07:07:35
+updated: 2025-03-05 07:08:35
 ---
 
 # food
 
-(date: 2025-03-04 07:07:35)
+(date: 2025-03-05 07:08:35)
+
+---
+
+## Smoky Bean Roasting is in the House Brew in Baton Rouge
+
+date: 2025-03-05, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg" class="attachment-large size-large wp-post-image" alt="House Brew Baton Rouge Smoky Bean" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean.jpeg 1536w" sizes="(max-width: 620px) 100vw, 620px" /></div>A coffee house is now a home to two businesses in Baton Rouge, Louisiana, as House Brew and Smoky Bean Roasting Co. are now sharing a roof, as well as... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/05/smoky-bean-roasting-is-in-the-house-brew-in-baton-rouge/>
+
+---
+
+## Fetco Becomes Exclusive US Distributor of Ditting Grinders
+
+date: 2025-03-05, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-620x414.jpg" class="attachment-large size-large wp-post-image" alt="ditting grinder" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Zurich, Switzerland-based coffee equipment conglomerate Hemro Group and batch brewing equipment specialist Fetco signed an exclusive distribution agreement for the Ditting brand in the United States, according to the companies.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/05/fetco-becomes-exclusive-us-distributor-of-ditting-grinders/>
+
+---
+
+## 2025 Cup of Excellence Auction Schedule Includes 11 Countries
+
+date: 2025-03-05, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee_cupping" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The nonprofit Alliance for Coffee Excellence released a preliminary schedule of all its international Cup of Excellence (CoE) auctions for 2025. The calendar includes 11 different CoE auctions in 11... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/05/2025-cup-of-excellence-auction-schedule-includes-11-countries/>
+
+---
+
+## Meet the New Generation of Instant Foods
+
+date: 2025-03-05, from: Bon Appetet
+
+Complex dark roast coffee in a tube, gut-friendly instant oatmeal, two-minute seaweed soup, and more 
+
+<br> 
+
+<https://www.bonappetit.com/story/new-instant-foods>
+
+---
+
+## Dwayne ‘The Rock’ Johnson’s Pancake Recipe Uses These Unexpected Ingredients
+
+date: 2025-03-05, from: Taste of Home
+
+<p>The Rock shared a tropical pancake recipe that's easy enough to be a regular breakfast for anyone.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/dwayne-the-rock-johnsons-pancake-recipe/">Dwayne &#8216;The Rock&#8217; Johnson’s Pancake Recipe Uses These Unexpected Ingredients</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/dwayne-the-rock-johnsons-pancake-recipe/>
+
+---
+
+## When Will Coffee Soda Have Its Breakthrough?
+
+date: 2025-03-05, from: The Fresh Cup
+
+<p>From classic iced coffee to nitro cold brew, cold coffee drinks are incredibly popular among today’s consumers. But despite favorable forecasts for the wider category, sparkling coffee—which sits at the intersection of soda and coffee—hasn’t yet found its spotlight. Ready-to-drink (RTD) sparkling coffee, also known as coffee soda, is simply carbonated coffee, sometimes with added&#8230;</p>
+<p>The post <a href="https://freshcup.com/when-will-coffee-soda-have-its-breakthrough/">When Will Coffee Soda Have Its Breakthrough?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/when-will-coffee-soda-have-its-breakthrough/>
+
+---
+
+## 10 Australian Wines to Try This Year
+
+date: 2025-03-05, from: Bon Appetet
+
+Australian wine’s presence and reputation in the US is a story of boom and bust. 
+
+<br> 
+
+<https://www.bonappetit.com/story/australian-wines-to-sip-all-year>
+
+---
+
+## Slow Cooker Carnitas (Crispy Mexican Pulled Pork Tacos)
+
+date: 2025-03-05, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/slow-cooker-carnitas/" title="Slow Cooker Carnitas (Crispy Mexican Pulled Pork Tacos)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Slow-Cooker-Carnitas-Recipe-TACOS1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Crispy Mexican carnitas (pulled pork tacos) on a plate, served with chiles toreados" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Slow-Cooker-Carnitas-Recipe-TACOS1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Slow-Cooker-Carnitas-Recipe-TACOS1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Slow-Cooker-Carnitas-Recipe-TACOS1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Slow-Cooker-Carnitas-Recipe-TACOS1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Slow-Cooker-Carnitas-Recipe-TACOS1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Slow-Cooker-Carnitas-Recipe-TACOS1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Slow-Cooker-Carnitas-Recipe-TACOS1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This slow cooker pork carnitas recipe makes the best pork carnitas tacos, with pork shoulder cooked low and slow, then quickly seared until crispy, served cantina style with warmed tortillas, onion, cilantro and roasted jalapeno peppers.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/slow-cooker-carnitas/">Slow Cooker Carnitas (Crispy Mexican Pulled Pork Tacos)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/slow-cooker-carnitas/>
+
+---
+
+## I Tried the Starbucks Iced Cherry Chai—Here’s My Honest Review
+
+date: 2025-03-04, from: Taste of Home
+
+<p>I taste test every new Starbucks drink, and this light, delicate chai is the perfect fit for spring.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/starbucks-iced-cherry-chai-review/">I Tried the Starbucks Iced Cherry Chai—Here&#8217;s My Honest Review</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/starbucks-iced-cherry-chai-review/>
+
+---
+
+## Run the Jewels Launch New Drink Line
+
+date: 2025-03-04, from: Bon Appetet
+
+The duo behind hip-hop group Run The Jewels has built a reputation for its beer collabs. Now, they're setting out on their own. 
+
+<br> 
+
+<https://www.bonappetit.com/story/run-the-jewels-launch-new-drink-brand-juice-runners>
+
+---
+
+## Cookware Made in the U.S.: 4 Brands Our Editors Tested (and Loved!)
+
+date: 2025-03-04, from: Taste of Home
+
+<p>From Smithey to Lodge, some of the best cookware is made in the USA. Here's everything you need to know about our favorite brands.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/cookware-made-in-usa/">Cookware Made in the U.S.: 4 Brands Our Editors Tested (and Loved!)</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/cookware-made-in-usa/>
+
+---
+
+## Breville Coffee Grinder Review: Our Top Pick Overall
+
+date: 2025-03-04, from: Taste of Home
+
+<p>We put this much-loved Breville coffee grinder to the test. Discover why the Smart Grinder Pro was ranked our favorite coffee grinder overall.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/breville-coffee-grinder/">Breville Coffee Grinder Review: Our Top Pick Overall</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/breville-coffee-grinder/>
+
+---
+
+## Save the Date for Roast Magazine’s Inaugural Portland Coffee Festival
+
+date: 2025-03-04, from: Daily Coffee News
+
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/PortlandCoffeeFestival_2025_Graphic-620x413.jpg" class="attachment-large size-large wp-post-image" alt="PortlandCoffeeFestival_2025_Graphic" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/PortlandCoffeeFestival_2025_Graphic-620x413.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/PortlandCoffeeFestival_2025_Graphic-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/PortlandCoffeeFestival_2025_Graphic-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/PortlandCoffeeFestival_2025_Graphic-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/PortlandCoffeeFestival_2025_Graphic.jpg 1200w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Roast magazine is delighted to announce the inaugural Portland Coffee Festival (PCF), taking place on October 4, 2025, at The Redd on Salmon Street in Portland, Oregon. This exciting event,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/04/save-the-date-for-roast-magazines-inaugural-portland-coffee-festival/>
+
+---
+
+## Sweet and Savory Marinated Green Beans
+
+date: 2025-03-04, from: Taste of Home
+
+I had these wonderful green beans at a baby shower and knew I needed the recipe. They're fresh, crisp and bright. —Kallee Krong-McCreery, Escondido, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sweet-and-savory-marinated-green-beans/>
 
 ---
 
@@ -18,6 +198,20 @@ date: 2025-03-04, from: The Sprudge
 <br> 
 
 <https://sprudge.com/stoked-on-the-steeze-a-truly-rad-collection-of-american-skateboard-cafes-280026.html>
+
+---
+
+## This Is How to Make Shamrock Pretzels
+
+date: 2025-03-04, from: Taste of Home
+
+<p>Kids and adults alike will have a blast making these easy shamrock pretzel pops to celebrate St. Patrick's Day.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/shamrock-pretzels/">This Is How to Make Shamrock Pretzels</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/shamrock-pretzels/>
 
 ---
 
@@ -37,7 +231,7 @@ date: 2025-03-04, from: The Sprudge
 
 date: 2025-03-04, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-620x400.png" class="attachment-large size-large wp-post-image" alt="Sur la table seattle coffee gear" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Kitchen equipment retailer Sur La Table is acquiring 20-year-old online home coffee equipment seller Seattle Coffee Gear.&#160; Sur La Table, which was founded in Seattle and now has physical locations... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-620x400.png" class="attachment-large size-large wp-post-image" alt="Sur la table seattle coffee gear" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Sur-la-table-seattle-coffee-gear-1.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Kitchen equipment retailer Sur La Table is acquiring 20-year-old online home coffee equipment seller Seattle Coffee Gear.&#160; Sur La Table, which was founded in Seattle and now has physical locations... 
 
 <br> 
 
@@ -49,11 +243,23 @@ date: 2025-03-04, from: Daily Coffee News
 
 date: 2025-03-04, from: Daily Coffee News
 
-<div><img width="620" height="458" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-620x458.jpg" class="attachment-large size-large wp-post-image" alt="Caribou Coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-620x458.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-768x567.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>John Butcher is stepping down as CEO of Caribou Coffee after approximately five years in the position. He is being replaced on an interim basis by current chief financial officer... 
+<div><img width="620" height="458" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-620x458.jpg" class="attachment-large size-large wp-post-image" alt="Caribou Coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-620x458.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-300x222.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-150x111.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2-768x567.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caribou-Coffee-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>John Butcher is stepping down as CEO of Caribou Coffee after approximately five years in the position. He is being replaced on an interim basis by current chief financial officer... 
 
 <br> 
 
 <https://dailycoffeenews.com/2025/03/04/caribou-coffee-ceo-john-butcher-stepping-down-after-five-years/>
+
+---
+
+## Alabama Chicken Stew
+
+date: 2025-03-04, from: Taste of Home
+
+North Alabama chicken stew is a regional labor of love full of flavor that comes across in every bite. Make a giant batch to share at large gatherings like potlucks, fundraisers and family get-togethers. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/alabama-chicken-stew/>
 
 ---
 
@@ -101,7 +307,7 @@ This golden chicken broth starts with two parts roasted wings and one part poach
 
 date: 2025-03-03, from: Bon Appetet
 
-It's time to ditch that grimy old knife block. 
+It’s time to ditch that grimy old knife block. 
 
 <br> 
 
@@ -225,7 +431,7 @@ date: 2025-03-03, from: The Sprudge
 
 date: 2025-03-03, from: Daily Coffee News
 
-<div><img width="620" height="453" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-620x453.jpg" class="attachment-large size-large wp-post-image" alt="Colombini Angel 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-620x453.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-300x219.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-768x561.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian industrial coffee grinder maker Colombini recently relaunched the smallest machine in its lineup, the Angel, a primarily benchtop grinder designed for smaller roasteries, cupping labs and cafes. Originally introduced... 
+<div><img width="620" height="453" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-620x453.jpg" class="attachment-large size-large wp-post-image" alt="Colombini Angel 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-620x453.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-300x219.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2-768x561.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Colombini-Angel-2.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Italian industrial coffee grinder maker Colombini recently relaunched the smallest machine in its lineup, the Angel, a primarily benchtop grinder designed for smaller roasteries, cupping labs and cafes. Originally introduced... 
 
 <br> 
 
@@ -249,7 +455,7 @@ date: 2025-03-03, from: Daily Coffee News
 
 date: 2025-03-03, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chicken-karahi/" title="Chicken Karahi (Chicken in Spicy Tomato Curry)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chicken Karahi (Kadai Chicken) in a serving bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chicken Karahi is a South Asian curry dish from Pakistan known for its rich, spicy flavors. It is made with stir-fried chicken in a piquant sauce made with tomatoes, green chilies, ginger, and garlic. Here is how I make it at home.</p>
+<a href="https://www.chilipeppermadness.com/recipes/chicken-karahi/" title="Chicken Karahi (Chicken in Spicy Tomato Curry)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Chicken Karahi (Kadai Chicken) in a serving bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chicken-Karahi-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Chicken Karahi is a South Asian curry dish from Pakistan known for its rich, spicy flavors. It is made with stir-fried chicken in a piquant sauce made with tomatoes, green chilies, ginger, and garlic. Here is how I make it at home.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chicken-karahi/">Chicken Karahi (Chicken in Spicy Tomato Curry)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -316,6 +522,20 @@ date: 2025-03-03, from: Isebel Eats
 <br> 
 
 <https://www.isabeleats.com/torta-de-jamon/>
+
+---
+
+## 50 Plates Across the States, a Culinary Road Trip
+
+date: 2025-03-03, from: Taste of Home
+
+<p>Taste of Home and Pinterest are partnering on a new video series that celebrates an iconic recipe from every state! See them all here.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/50-plates-across-the-states/">50 Plates Across the States, a Culinary Road Trip</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/50-plates-across-the-states/>
 
 ---
 

@@ -1,11 +1,87 @@
 ---
 title: libraries
-updated: 2025-03-04 07:07:33
+updated: 2025-03-05 07:08:33
 ---
 
 # libraries
 
-(date: 2025-03-04 07:07:33)
+(date: 2025-03-05 07:08:33)
+
+---
+
+## Vanishing Culture: No Film Left Unscanned
+
+date: 2025-03-05, from: Internet Archive Blog
+
+The following guest post from archivist and filmmaker Rick Prelinger is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the full report now. [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/03/05/vanishing-culture-no-film-left-unscanned/>
+
+---
+
+## Guest Post – The Future Is Not Perpetual (But it could be yours for just several thousand dollars per year…)
+
+date: 2025-03-05, from: Scholarly Kitchen
+
+<p>Clarivate recently announced that it is shifting to a "subscription-based access strategy," meaning that it will no longer allow academic libraries to purchase perpetual licenses to content.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/05/guest-post-the-future-is-not-perpetual-but-it-could-be-yours-for-just-several-thousand-dollars-per-year/">Guest Post – The Future Is Not Perpetual (But it could be yours for just several thousand dollars per year&#8230;)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/05/guest-post-the-future-is-not-perpetual-but-it-could-be-yours-for-just-several-thousand-dollars-per-year/>
+
+---
+
+## Representative Men, by Ralph Waldo Emerson
+
+date: 2025-03-05, from: Standard Ebooks, new releaases
+
+A collection of seven lectures by Ralph Waldo Emerson on great men and their role in society. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/ralph-waldo-emerson/representative-men>
+
+---
+
+## The Purple Land, by W. H. Hudson
+
+date: 2025-03-05, from: Standard Ebooks, new releaases
+
+An Englishman becomes embroiled in adventure, politics, and romance in 19th-century Uruguay. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/w-h-hudson/the-purple-land>
+
+---
+
+## ARL Hosts Briefing on Fair Use & Research Innovation for Congressional Staffers
+
+date: 2025-03-04, from: Association of Research Libraries News
+
+<p>Last Updated on March 4, 2025, 11:18 am ET The Association of Research Libraries (ARL) hosted a Fair Use Week briefing for congressional staffers on February 25, 2025, featuring Ali...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-hosts-briefing-on-fair-use-research-innovation-for-congressional-staffers/">ARL Hosts Briefing on Fair Use &#038; Research Innovation for Congressional Staffers</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-hosts-briefing-on-fair-use-research-innovation-for-congressional-staffers/>
+
+---
+
+## Current Affairs Magazine Demonstrates Paywalls Are Not Necessary for Publications to Thrive
+
+date: 2025-03-04, from: Internet Archive Blog
+
+An independent magazine published in New Orleans is proving that it’s possible to succeed without accepting advertising or putting up barriers requiring readers to pay for content. In 2015, Nathan [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/03/04/current-affairs-magazine-demonstrates-paywalls-are-not-necessary-for-publications-to-thrive/>
 
 ---
 
@@ -63,7 +139,7 @@ A group of colonists attempt to settle in the Arctic Circle.
 
 date: 2025-03-03, from: Association of Research Libraries News
 
-<p>Last Updated on March 3, 2025, 3:44 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 4 &#124; Wednesday, March 5 &#124; Thursday,...</p>
+<p>Last Updated on March 4, 2025, 3:48 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 4 &#124; Wednesday, March 5 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-3-6/">Day in Review (March 3–6)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

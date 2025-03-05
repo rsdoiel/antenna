@@ -1,11 +1,457 @@
 ---
 title: snapshots
-updated: 2025-03-04 07:07:36
+updated: 2025-03-05 07:08:36
 ---
 
 # snapshots
 
-(date: 2025-03-04 07:07:36)
+(date: 2025-03-05 07:08:36)
+
+---
+
+## Archivists Recreate Pre-Trump CDC Website, Are Hosting It in Europe
+
+date: 2025-03-05, from: 404 Media Group
+
+The team used a Reddit-made archive of the CDC website to create a new live mirror of the site before it was purged. 
+
+<br> 
+
+<https://www.404media.co/archivists-recreate-pre-trump-cdc-website-are-hosting-it-in-europe/>
+
+---
+
+## How we added interlaced video to Raspberry Pi 5
+
+date: 2025-03-05, from: Raspberry Pi News (.com)
+
+<p>Raspberry Pi 5's DPI output didn't support interlaced video at launch. This is how we added it.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/how-we-added-interlaced-video-to-raspberry-pi-5/">How we added interlaced video to Raspberry Pi 5</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/how-we-added-interlaced-video-to-raspberry-pi-5/>
+
+---
+
+## Podcast: The Tesla Protests Come for Cybertruck Owners
+
+date: 2025-03-05, from: 404 Media Group
+
+We talk Cybertruck protests; IDs from Palau; and the big Instagram bug. 
+
+<br> 
+
+<https://www.404media.co/podcast-the-tesla-protests-come-for-cybertruck-owners/>
+
+---
+
+## Cellebrite Is Using AI to Summarize Chat Logs and Audio from Seized Mobile Phones
+
+date: 2025-03-05, from: 404 Media Group
+
+The proliferation of AI through law enforcement tools already has civil liberties experts concerned. “When you have results from an AI, they are not transparent. Often you cannot trace back where a conclusion came from, or what information it is based on. AIs hallucinate," one said. 
+
+<br> 
+
+<https://www.404media.co/cellebrite-is-using-ai-to-summarize-chat-logs-and-audio-from-seized-mobile-phones/>
+
+---
+
+## Everyone’s a Suspect
+
+date: 2025-03-05, updated: 2025-03-05, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/05/everyones-a-suspect/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+America is Trapped in a Burning Tesla. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/america-is-trapped-in-a-burning-tesla?publication_id=277517&post_id=158432522&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## America is Trapped in a Burning Tesla
+
+date: 2025-03-05, from: Paul Krugman
+
+Surprise! The madman stuff wasn&#8217;t an act 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/america-is-trapped-in-a-burning-tesla>
+
+---
+
+## Celebrating American Women During the Bicentennial
+
+date: 2025-03-05, from: National Archives, Pieces of History blog
+
+As we look ahead to the nation’s 250th birthday, we’re looking back on the events celebrating our 200th. Today’s post, for Women’s History Month, looks back on a major exhibit at the National Archives during the bicentennial era.  To coincide with International Women’s Year and the Bicentennial of the Declaration of Independence, the National Archives &#8230; <a href="https://prologue.blogs.archives.gov/2025/03/05/celebrating-american-women-during-the-bicentennial/" class="more-link">Continue reading <span class="screen-reader-text">Celebrating American Women During the Bicentennial</span></a> 
+
+<br> 
+
+<https://prologue.blogs.archives.gov/2025/03/05/celebrating-american-women-during-the-bicentennial/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+Volvo ES90 revealed: 800V beauty is midway between SUV, sedan and fastback. 
+
+<br> 
+
+<https://electrek.co/2025/03/05/volvo-es90-revealed-800v-beauty-is-midway-between-suv-sedan-and-fastback/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+My blog, scripting.com, has been a democracy blog since inception in 1994. All blogs have democracy as their foundation, imho. The idea of the “unedited voice of a person,” is revolutionary, esp for the times we live in. 
+
+<br> 
+
+<https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-05, from: Feed for Alt USDS)
+
+An expert Builder from US Geological Survey and Navy Veteran believes there's "no method to it at all" to the madness we're witnessing. Read about the reckless actions observed by this federal employee on our site:  https://www.wethebuilders.org/posts/no-method-to-it-at-all
+
+#altgov #altusds #USGS @altusgs1.bsky.social 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljlv275ibj2a>
+
+---
+
+## AOOSTAR WTR MAX is a 7-bay NAS with AMD Ryzen 8040HS
+
+date: 2025-03-04, from: Liliputing
+
+<p>The AOOSTAR WTR MAX  is an upcoming network attached storage device with support for up to 6 hard drives and 6 SSDs, an AMD Ryzen 8040HS &#8220;Hawk Point&#8221; processor, support for up to 32GB of DDR5-5600 dual-channel memory, and four high-speed networking ports. In other words, it&#8217;s like the big sibling of the AOOSTAR WTR Pro, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aoostar-wtr-max-is-a-7-bay-nas-with-amd-ryzen-8040hs/">AOOSTAR WTR MAX is a 7-bay NAS with AMD Ryzen 8040HS</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/aoostar-wtr-max-is-a-7-bay-nas-with-amd-ryzen-8040hs/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Norway’s natural gas windfall should go to Ukraine. 
+
+<br> 
+
+<https://www.ft.com/content/a414ef58-c753-4720-8b7b-c2ef7582a77c?accessToken=zwAGL4wWz_AIkdOkFO9Yx1NHINOLe8LvdYKnfA.MEQCIHygScjKaeprCOFPuaa6j21EmYWpWNrkBceC1gbCpQjZAiB64FiEAtcoCL7cd3Cn6FStebvBC8E8g2mQ8YhC9eZ_ww&sharetype=gift&token=afe1d74d-4506-4d2d-bcc8-0f8dda7d9209>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Trudeau says Trump&#39;s &#39;dumb&#39; trade war is designed to collapse the Canadian economy. 
+
+<br> 
+
+<https://www.cbc.ca/news/politics/trudeau-canada-response-tariffs-1.7473965>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-04, from: Feed for Alt USDS)
+
+Congressional staffers—don’t think you’re safe. Attacks on federal workers aren’t stopping at the Executive Branch. Cuts to pensions & benefits are coming for you too. Now’s the time to stand with your colleagues—or risk standing alone. Read more & take action:
+https://www.wethebuilders.org/posts/a-letter-to-congressional-staffers 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljlhmmimw42k>
+
+---
+
+## Lenovo’s Yoga Solar PC Concept Laptop is… an idea, I guess
+
+date: 2025-03-04, from: Liliputing
+
+<p>Lenovo has a habit of designing weird laptop concepts as a way to push the boundaries of what you can do with a mobile computer. Sometimes the company even brings its weird laptops to market. And the new Lenovo Yoga Solar PC Concept is probably less weird than some. That said, I can&#8217;t help but [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovos-yoga-solar-pc-concept-laptop-is-an-idea-i-guess/">Lenovo&#8217;s Yoga Solar PC Concept Laptop is&#8230; an idea, I guess</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovos-yoga-solar-pc-concept-laptop-is-an-idea-i-guess/>
+
+---
+
+## iPad Air (M3, 7th Generation)
+
+date: 2025-03-04, from: Michael Tsai
+
+Apple (Hacker News): iPad Air with M3 empowers users to be productive and creative wherever they are, from aspiring creatives using demanding apps and working with large files, to travelers editing content on the go. The powerful M3 chip offers a number of improvements over M1 and previous-generation models. Featuring a more powerful 8-core CPU, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/04/ipad-air-m3-7th-generation/>
+
+---
+
+## iPad (11th Generation)
+
+date: 2025-03-04, from: Michael Tsai
+
+Apple: Apple today also updated iPad with double the starting storage and the A16 chip, bringing even more value to customers. The A16 chip provides a jump in performance for everyday tasks and experiences in iPadOS, while still providing all-day battery life. Compared to the previous generation, the updated iPad with A16 is nearly 30 [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/04/ipad-11th-generation/>
+
+---
+
+## Premium Hardware, Subpar Software
+
+date: 2025-03-04, from: Michael Tsai
+
+Eliseo Martelli (via Hacker News, Reddit): As a long-time Apple user, I&#8217;ve always appreciated the integration of hardware and software, signature of the Apple ecosystem. However, recent experiences with my iPad Air 11" M2 has left me questioning whether Apple has lost sight of what once made their products great.[&#8230;]The performance issues don&#8217;t stop at [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/04/premium-hardware-subpar-software/>
+
+---
+
+## Linus Sebastian Switches to iPhone for 30 Days
+
+date: 2025-03-04, from: Michael Tsai
+
+Linus Tech Tips: Linus takes a long-overdue trip back into the iOS ecosystem. Will daily-driving a shiny new iPhone 16 Plus for an entire month convert him into Apple&#8217;s newest fan?[&#8230;]&#8220;I started to look a little differently at the Apple users in my life. They describe Apple products with market slogans like, &#8216;It just works,&#8217; [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/04/linus-sebastian-switches-to-iphone-for-30-days/>
+
+---
+
+## Nothing Phone (3a) and (3a) Pro feature Snapdragon 7s Gen 3 and triple cameras for $379 and up
+
+date: 2025-03-04, from: Liliputing
+
+<p>Many of today&#8217;s mid-range smartphones offer the kind of performance you would have expected from a flagship a few years ago. But it&#8217;s not just performance that&#8217;s gone up &#8211; many phone makers have also increased starting prices. Case in point: Apple recently replaced the iPhone SE ($429 starting price) with a new iPhone 16e [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/nothing-phone-3a-and-3a-pro-feature-snapdragon-7s-gen-3-and-triple-cameras-for-379-and-up/">Nothing Phone (3a) and (3a) Pro feature Snapdragon 7s Gen 3 and triple cameras for $379 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/nothing-phone-3a-and-3a-pro-feature-snapdragon-7s-gen-3-and-triple-cameras-for-379-and-up/>
+
+---
+
+## Apple brings M3 chip to the iPad Air, and updates the entry-level iPad to an A16 chip
+
+date: 2025-03-04, from: Liliputing
+
+<p>Apple is refreshing its iPad lineup with two new models. One is a new iPad Air with M3 that sells for $599 and up, and it comes less than a year after the iPad Air with an M2 chip. While it&#8217;s treated as something of an afterthought in Apple&#8217;s press release, the company is also [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/apple-brings-m3-chip-to-the-ipad-air-and-updates-the-entry-level-ipad-to-an-a16-chip/">Apple brings M3 chip to the iPad Air, and updates the entry-level iPad to an A16 chip</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/apple-brings-m3-chip-to-the-ipad-air-and-updates-the-entry-level-ipad-to-an-a16-chip/>
+
+---
+
+## Is Elon Musk “dumb”?
+
+date: 2025-03-04, from: Gary Marcus blog
+
+Maybe not, but there&#8217;s something systematically wrong 
+
+<br> 
+
+<https://garymarcus.substack.com/p/is-elon-musk-dumb>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Now Trump’s pissing off the crypto bros. 
+
+<br> 
+
+<https://www.dailykos.com/stories/2025/3/3/2307640/-Now-Trump-s-pissing-off-the-crypto-bros>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-04, from: Feed for Alt USDS)
+
+Actions for the general public—call your reps! Here's a script.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljkzcval6c2d>
+
+---
+
+## Dial-An-Advertiser
+
+date: 2025-03-04, updated: 2025-03-04, from: Tedium site
+
+Considering the long history of phone books, particularly the Yellow Pages, where local businesses learned all the marketing tricks they eventually brought to the internet. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16976353/phone-book-yellow-pages-history>
+
+---
+
+## A Practical Guide to Implementing DeepSearch / DeepResearch
+
+date: 2025-03-04, updated: 2025-03-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://jina.ai/news/a-practical-guide-to-implementing-deepsearch-deepresearch/">A Practical Guide to Implementing DeepSearch / DeepResearch</a></strong></p>
+I really like the definitions Han Xiao from Jina AI proposes for the terms DeepSearch and DeepResearch in this piece:</p>
+<blockquote>
+<p><strong>DeepSearch</strong> runs through an iterative loop of searching, reading, and reasoning until it finds the optimal answer.  [...]</p>
+<p><strong>DeepResearch</strong> builds upon DeepSearch by adding a structured framework for generating long research reports.</p>
+</blockquote>
+<p>I've recently found myself cooling a little on the classic RAG pattern of finding relevant documents and dumping them into the context for a single call to an LLM.</p>
+<p>I think this definition of DeepSearch helps explain why. RAG is about answering questions that fall outside of the knowledge baked into a model. The DeepSearch pattern offers a tools-based alternative to classic RAG: we give the model extra tools for running multiple searches (which could be vector-based, or FTS, or even systems like ripgrep) and run it for several steps in a loop to try to find an answer.</p>
+<p>I think DeepSearch is a lot more interesting than DeepResearch, which feels to me more like a presentation layer thing. Pulling together the results from multiple searches into a "report" looks more impressive, but I <a href="https://simonwillison.net/2025/Feb/25/deep-research-system-card/">still worry</a> that the report format provides a misleading impression of the quality of the "research" that took place.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/jina">jina</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/search">search</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/rag">rag</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/4/deepsearch-deepresearch/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+Fired US government workers with top security clearances were not given exit briefings, sources say. 
+
+<br> 
+
+<https://www.reuters.com/world/us/fired-us-government-workers-with-top-security-clearances-were-not-given-exit-2025-03-04/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+The single most important thing about what Musk is doing is that it is Musk that is doing it. 
+
+<br> 
+
+<http://scripting.com/2025/03/04.html>
+
+---
+
+## Book: Backlash
+
+date: 2025-03-04, from: Accidentally in Code
+
+Backlash (Susan Faludi) is a long and not particularly easy read. Written in response to the Reagan administration’s assault on women’s rights (originally published in 1991), it was reissued in 2020 as history repeated itself. Two recurring themes in the book. First, the way that the data did not at all align with what was [&#8230;] 
+
+<br> 
+
+<https://cate.blog/2025/03/04/book-backlash/>
+
+---
+
+## Meet Artist Pablita Velarde/Tse Tsan (Santa Clara Pueblo)
+
+date: 2025-03-04, from: National Archives, Text Message blog
+
+March marks Women’s History Month, set aside to honor women’s contributions in American history. Today I would like to highlight the life and career of Pablita Velarde/Tse Tsan (Santa Clara Pueblo), a prominent 20th-century Native artist. Using records from a host of collections across National Archives facilities, we are able to glimpse into this accomplished &#8230; <a href="https://text-message.blogs.archives.gov/2025/03/04/meet-artist-pablita-velarde-tse-tsan-santa-clara-pueblo/" class="more-link">Continue reading <span class="screen-reader-text">Meet Artist Pablita Velarde/Tse Tsan (Santa Clara Pueblo)</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/03/04/meet-artist-pablita-velarde-tse-tsan-santa-clara-pueblo/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-04, from: Feed for Alt USDS)
+
+Lawmakers invited federal employees who were illegally fired to the House chamber tonight for Trump's first major speech since the inauguration. 
+
+USAID, VA, U.S. Forest Service, and DHS are among the agencies represented. 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljkwbim6nk2d>
+
+---
+
+## The Woman Who Revealed Climate Science in the 1800s
+
+date: 2025-03-04, from: Guy Kawasaki blog
+
+Sylvia G. Dee, Rice University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-woman-who-revealed-climate-science>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-04, from: Feed for Alt USDS)
+
+Incredible work 👏
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljkuk4zmyk2d>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-04, from: Dave Winer's linkblog)
+
+One way is better than two, no matter how much better the new way is, you&#39;ll still have to support the old way. 
+
+<br> 
+
+<https://this.how/standards/>
+
+---
+
+## Facebook Cybertruck Owners Group Copes With Relentless Mockery
+
+date: 2025-03-04, from: 404 Media Group
+
+A Facebook group for Cybertruck owners is full of videos of people flicking off Cybertrucks. 
+
+<br> 
+
+<https://www.404media.co/facebook-cybertruck-owners-group-copes-with-relentless-mockery/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-04, from: Feed for Alt USDS)
+
+Let's start today with some good news: the National Science Foundation is reinstating illegally fired employees. 
+
+https://fedscoop.com/nsf-says-its-reinstating-fired-probationary-employees 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljkqkepx4k2k>
 
 ---
 
@@ -23,7 +469,7 @@ Very cool.
 
 ## Package Delayed Due To Tides
 
-date: 2025-03-04, updated: 2025-03-04, from: One Foot Tsunami
+date: 2025-03-04, updated: 2025-03-05, from: One Foot Tsunami
 
  
 
@@ -43,7 +489,7 @@ Looks like the Washington Post is covering TrumpLand, not RealityLand.
 
 ---
 
-## AI Chatbots Can Cushion the High School Counselor Shortage — but Are They Bad for Students?
+## AI Chatbots Can Cushion the High School Counselor Shortage — But Are They Bad for Students?
 
 date: 2025-03-04, from: The Markup blog
 
@@ -236,7 +682,7 @@ date: 2025-03-04, updated: 2025-03-04, from: Simon Willison’s Weblog
         aria-label="Three wooden pelicans gently and jerkly flap their wings, suspended on brass wires above a wooden contraption containing a motor, a drive shaft and two cams driving rods that move the bodies up and down."
         poster="https://static.simonwillison.net/static/2025/squadron.jpg" loop="loop"
         style="width: 100%; height: auto;">
-        <source src="https://static.simonwillison.net/static/2025/squadron.mp4" type="video/mp4" />
+        <source src="https://static.simonwillison.net/static/2025/squadron-demo.mp4" type="video/mp4" />
     </video>
 </div>
 
@@ -912,7 +1358,7 @@ date: 2025-03-02, updated: 2025-03-02, from: Simon Willison’s Weblog
 
 ---
 
-## Notes from my Accessibility and Gen AI podcast appearence
+## Notes from my Accessibility and Gen AI podcast appearance
 
 date: 2025-03-02, updated: 2025-03-02, from: Simon Willison’s Weblog
 
@@ -1077,7 +1523,7 @@ There are doom loops everywhere you look
 
 date: 2025-03-02, from: Geoffrey Hunntley's blog
 
-<p><a href="https://bsky.app/profile/damieng.bsky.social/post/3ljdkwup7sc2d?ref=ghuntley.com">Damien Guard</a> nerd sniped me and and other folks wanted more proof that it is now cheap, easy and possible to <a href="https://ghuntley.com/tradecraft/" rel="noreferrer">cheaply rewrite software or clone existing &quot;source available&quot; businesses</a> (see bottom of the post).</p><p>So, let&apos;s get cracking by creating a toy application by sending</p> 
+<p><a href="https://bsky.app/profile/damieng.bsky.social/post/3ljdkwup7sc2d?ref=ghuntley.com">Damien Guard</a> nerd sniped me and other folks wanted more proof that it is now cheap, easy and possible to <a href="https://ghuntley.com/tradecraft/" rel="noreferrer">cheaply rewrite software or clone existing &quot;source available&quot; businesses</a> (see bottom of the post).</p><p>So, let&apos;s get cracking by creating a toy application by sending this</p> 
 
 <br> 
 
@@ -1155,6 +1601,9 @@ date: 2025-03-02, updated: 2025-03-02, from: Simon Willison’s Weblog
 
 <p>A surprisingly common complaint I see from developers who have tried using LLMs for code is that they encountered a hallucination - usually the LLM inventing a method or even a full software library that doesn't exist - and it crashed their confidence in LLMs as a tool for writing code. How could anyone productively use these things if they invent methods that don't exist?</p>
 <p>Hallucinations in code <strong>are the least harmful hallucinations you can encounter from a model</strong>.</p>
+
+<p>(When I talk about <em>hallucinations</em> here I mean instances where an LLM invents a completely untrue fact, or in this case outputs code references which don't exist at all. I see these as a separate issue from bugs and other mistakes, which are the topic of the rest of this post.)</p>
+
 <p>The real risk from using LLMs for code is that they'll make mistakes that <em>aren't</em> instantly caught by the language compiler or interpreter. And these happen <em>all the time</em>!</p>
 
 <p>The moment you run LLM generated code, any hallucinated methods will be instantly obvious: you'll get an error. You can fix that yourself or you can feed the error back into the LLM and watch it correct itself.</p>

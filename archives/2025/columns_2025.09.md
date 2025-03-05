@@ -1,11 +1,450 @@
 ---
 title: columns
-updated: 2025-03-04 07:07:31
+updated: 2025-03-05 07:08:31
 ---
 
 # columns
 
-(date: 2025-03-04 07:07:31)
+(date: 2025-03-05 07:08:31)
+
+---
+
+##  Remember Digg? It&#8217;s back, in Pog fo— er, AI form. &#8220;How can... 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046385-remember-digg-its-back-in>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-05, from: Dave Winer's Scripting News)
+
+Watch out for people who celebrate your freedom while profiting from your enslavement. 
+
+<br> 
+
+<http://scripting.com/2025/03/05.html#a143149>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-05, from: Dave Winer's Scripting News)
+
+One thing to be grateful for, Trump didn’t invite any of the Jan 6 rioters back to the Capitol for his speech. 
+
+<br> 
+
+<http://scripting.com/2025/03/05.html#a143102>
+
+---
+
+## CISA Identifies Five New Vulnerabilities Currently Being Exploited
+
+date: 2025-03-05, updated: 2025-03-04, from: Bruce Schneier blog
+
+<p>Of the <a href="https://www.cisa.gov/news-events/alerts/2025/03/03/cisa-adds-five-known-exploited-vulnerabilities-catalog">five</a>, one is a Windows vulnerability, another is a Cisco vulnerability. We don&#8217;t have any details about who is exploiting them, or how.</p>
+<p>News <a href="https://www.bleepingcomputer.com/news/security/cisa-tags-windows-and-cisco-vulnerabilities-as-actively-exploited/">article</a>. Slashdot <a href="https://it.slashdot.org/story/25/03/04/0315205/cisa-tags-windows-cisco-vulnerabilities-as-actively-exploited">thread</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/cisa-identifies-five-new-vulnerabilities-currently-being-exploited.html>
+
+---
+
+## 2025-03-05 How do you process the news?
+
+date: 2025-03-05, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-05-how-do-you-process-the-news">2025-03-05 How do you process the news?</h1>
+
+<blockquote>
+<p>I&rsquo;m looking at the blog and noticing that I haven&rsquo;t posted much. It&rsquo;s hard.</p>
+</blockquote>
+
+<p>A long time ago I discontinued all my daily newspapers and just kept the weekly left-leaning cooperatively-owned <a href="https://www.woz.ch/">Wochenzeitung</a>. Once a month it comes with the German edition of <a href="https://monde-diplomatique.de/">Le Monde Diplomatique</a>.</p>
+
+<p>I used to read a lot of newspaper articles online, when I saw links in social media. As more and more of them erected a paywall; and more and more of them have become pretty unless I go through the uBlock Origin settings to unblock random domains with more scripts and things; I have stopped reading them, too. And when politics look bad, I hesitate more and more.</p>
+
+<p>Sometimes I feel like perhaps this means the end of the attention economy for me. Back to books, perhaps?</p>
+
+<p>Some news sources I follow online:</p>
+
+<ul>
+<li><a class="account" href="https://troet.cafe/@woz" title="@woz@troet.cafe">@woz</a> is the feed for the weekly paper in German that I am subscribed to</li>
+<li><a class="account" href="https://masto.ai/@meduza_en" title="@meduza_en@masto.ai">@meduza_en</a> for stuff about Russia, Ukraine and the USA</li>
+<li><a class="account" href="https://chaos.social/@netzpolitik_feed" title="@netzpolitik_feed@chaos.social">@netzpolitik_feed</a> for civil rights online</li>
+<li><a class="account" href="https://mstdn.social/@Bellingcat" title="@Bellingcat@mstdn.social">@Bellingcat</a> for various strange things</li>
+<li><a class="account" href="https://mastodon.social/@theindex" title="@theindex@mastodon.social">@theindex</a> by <a class="account" href="https://mastodon.social/@Daojoan" title="@Daojoan@mastodon.social">@Daojoan</a> for independent news</li>
+</ul>
+
+<p>As always, the problem is that I feel the news should be a bit like taxes: Pay something and then read what you want. The payment models sort of imply that you&rsquo;d pay for all the subscriptions, which won&rsquo;t work. Or they imply that you&rsquo;d pay per article, which doesn&rsquo;t work because of the credit card fees. No micropayment means that one or two articles is already the equivalent of the whole subscription. And even then, I&rsquo;m not sure whether micropayments would sit well with me. My current status is that I only pay for the newspaper but <a href="https://www.woz.ch/abo/prowoz">at a pro level</a> for CHF 590 per year and I feel that CHF 50 per month ought to pay for all of my news.</p>
+
+<p>Some days I think I should subscribe to a Swiss digital newspaper, <a class="account" href="https://republik.social/@republik_magazin" title="@republik_magazin@republik.ch">@republik_magazin</a>. Just to support more diversity in a shrinking ecosystem. But I don&rsquo;t know whether I can process the news, to be honest.</p>
+
+<p>That seems to be my main problem.</p>
+
+<p>How do I process the news? 😥</p>
+
+<p><a class="tag" href="/search/?q=%23Media">#Media</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-05-processing>
+
+---
+
+## Office Hours: The Trump Slump
+
+date: 2025-03-05, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-the-trump-slump>
+
+---
+
+## March 4, 2025
+
+date: 2025-03-05, from: Heather Cox Richardson blog
+
+We&#8217;ve been traveling and between that and the fact that the news has come faster and faster, the letters have crept later and later. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-4-2025>
+
+---
+
+## Trump 2.0 Is More Idiocracy Than Kakistocracy
+
+date: 2025-03-05, updated: 2025-03-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://bsky.app/profile/ronfilipkowski.bsky.social/post/3ljj4sijyrk24>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-03-05, from: Ryan Gantz Bluesky feed)
+
+this shit is dark as hell 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3ljlx2jl7nk26>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-05, from: Miguel de Icaza Mastondon feed)
+
+<p>My low carb diet is delicious.</p><p>I put a spoon of fig jam on the bottom, then arugula, mixed with olive oil and sweet vinegar and some parm cheese:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114107350118798106>
+
+---
+
+## Taska Is Now Part of Leitmotif (Developers of Kaleidoscope)
+
+date: 2025-03-05, updated: 2025-03-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/03/04/makers-of-kaleidoscope-just-acquired-another-native-mac-app-for-developers-and-everything-is-50-off/>
+
+---
+
+## ‘When Your Last Name Is Null, Nothing Works’
+
+date: 2025-03-05, updated: 2025-03-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/lifestyle/null-last-name-computer-scientists-forms-f0a43b08?st=2u7onu>
+
+---
+
+## ‘Money Job’
+
+date: 2025-03-05, updated: 2025-03-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/02/28/opinion/ben-stiller-gene-hackman.html?unlocked_article_code=1.1k4.SQm-.jbz9WEyoATEH&smid=url-share>
+
+---
+
+## Wednesday 5 March, 2025
+
+date: 2025-03-05, from: John Naughton's online diary
+
+Spring is sprung In a college garden on Monday evening. Quote of the Day “Faced with the bewilderment of my countrymen, by the disintegration of a government in thrall to the enemy, by the fact that the institutions of my &#8230; <a href="https://memex.naughtons.org/wednesday-5-march-2025/40502/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-5-march-2025/40502/>
+
+---
+
+##  Blogging for Democracy 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/blogging-for-democracy>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-04, from: Miguel de Icaza Mastondon feed)
+
+<p>Cute!  The new live camera feature from Godot 4.4 works on the iPad without any changes:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114106583254255681>
+
+---
+
+##  &#8220;De-extinction startup Colossal Biosciences has gene-edited mice to have mammoth-like features, creating... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046383-de-extinction-startup-col>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-04, from: Dave Winer's Scripting News)
+
+The news should always report whether a bit of news is a financial plus or minus for Trump as in does this thing make him richer or poorer. That way you can zero in on the "why" of everything. 
+
+<br> 
+
+<http://scripting.com/2025/03/04.html#a213055>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-04, from: Dave Winer's Scripting News)
+
+I'm thrilled the <a href="https://sports.yahoo.com/article/warriors-vs-knicks-odds-predictions-165116069.html">Knicks</a> are playing tonight. That's what I'll be watching. Let me know if anything happens in DC. 
+
+<br> 
+
+<http://scripting.com/2025/03/04.html#a211442>
+
+---
+
+## Apple Updates iPad Air (M2→M3) and Regular iPad (A14→A16), and Revamps Magic Keyboard for iPad Air
+
+date: 2025-03-04, updated: 2025-03-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/03/apple-updates-ipad-air-and-ipad-revamps-magic-keyboard-for-ipad-air/>
+
+---
+
+##  From Just Security: &#8220;A timeline of actions that highlight the alarming level... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046382-from-just-security-a-time>
+
+---
+
+## March 3, 2025
+
+date: 2025-03-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158394796/07b318e653cad4eb0150d9e7723e1910.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158394796/07b318e653cad4eb0150d9e7723e1910.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-3-2025-56d>
+
+---
+
+## Apple Hasn’t Updated Its US Government Transparency Report Since June 2023, 20 Months Ago
+
+date: 2025-03-04, updated: 2025-03-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/legal/transparency/us.html>
+
+---
+
+##  Josh Marshall looks closely at Trump&#8217;s Feb 11th &#8220;workforce optimization&#8221; EO for... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046381-josh-marshall-looks-close>
+
+---
+
+##  Formerly anti-vax parents on how they changed their minds. A former anti-vax... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046380-formerly-anti-vax-parents>
+
+---
+
+##  Bellingcat&#8217;s Eliot Higgins on disordered discourse (which is not mere misinformation). &#8220;When... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046373-bellingcats-eliot-higgins>
+
+---
+
+## iFixit’s iPhone 16e Teardown
+
+date: 2025-03-04, updated: 2025-03-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ifixit.com/News/108430/iphone-16e-teardown-never-before-has-skipping-the-upgrade-made-more-sense>
+
+---
+
+## The Free Speech Will Continue Until Trump’s Morale Improves
+
+date: 2025-03-04, updated: 2025-03-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://truthsocial.com/@realDonaldTrump/posts/114104167452161158>
+
+---
+
+##  On Public Service 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/on-public-service>
+
+---
+
+## Firefox 136 finally brings the features that fans wanted
+
+date: 2025-03-04, updated: 2025-03-04, from: Liam Proven's articles at the Register
+
+<h4>Vertical tabs, native Arm64 Linux version, and AMD GPU-accelerated video playback</h4>
+      <p>Mozilla&#39;s Firefox 136 is out today. Despite recent Mozilla moves, it&#39;s still a better choice for the privacy-conscious than Chrome.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/04/firefox_136/>
+
+---
+
+##  &#8220;The &#8216;war on woke&#8217; did not suddenly appear. It is an idea... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046374-the-war-on-woke-did>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I'm trying to get ChatGPT to not assume I have the same abilities as it has. You can't dump a huge amount of code at me and expect me to quickly see what changed, that's not how human intellect works, but this is something computers are <i>extremely</i> good at. I told my bot that it would work a lot better if they just told me what to change. I said this: "I have a lot of experience being a human being and working with other humans, and all your clients as far as I know are human." In other words, be concise and direct. This is what it said in response. "That’s a sharp observation, and I appreciate the insight. I'll keep focusing on clarity, directness, and being actually helpful rather than just dumping information. If I ever seem to be leading you down a non-optimal path, feel free to call it out!" Note how concise the response was. More advice for the bot. Help your human understand. I think maybe eventually we may be their pets. Try scratching behind the ears. On the other hand, to my human friends, do not depend on the strategies they choose. They will never on their own question the path they took. It may not be the optimal one, but they'll keep going down it. It's up to you to say nah this isn't the way I want to go, and they will always respect that. It's not like <a href="https://www.youtube.com/watch?v=Wy4EfdnMZ5g&t=18s">HAL in 2001</a>. I've sometimes wasted  whole programming session going in the wrong direction assuming my bot was good at this. None of them are, as far as I can tell. 
+
+<br> 
+
+<http://scripting.com/2025/03/04.html#a160242>
+
+---
+
+## Claim Chowder: October 2022 Rumors Regarding the iPhone 16e (a.k.a. ‘SE 4’)
+
+date: 2025-03-04, updated: 2025-03-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2022/10/09/iphone-se-4-to-feature-6-1-inch-display-with-notch/>
+
+---
+
+##  He Never Made the Same Choice Twice: 10 of Our Favorite Gene... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046375-he-never-made-the-same>
+
+---
+
+##  Criminal defense attorney Ken White: &#8220;What happens if federal, state, or local... 
+
+date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046362-criminal-defense-attorney>
 
 ---
 
@@ -33,7 +472,7 @@ date: 2025-03-04, updated: 2025-03-04, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-03-04, from: Dave Winer's Scripting News)
 
-The single most important thing about what Musk is doing is that it is Musk that is doing it. Not elected, not accountable to anyone, and the only way we know what he's doing is from the aftermath. We play no role in his choices. Completely unacceptable. Let's get that much straight. That's where we start. Plus, he would be our last choice if we were in the market for a crazy despot running our country. He wasn't born or educated here, and thus has very little idea of who we are and thus what the people he's firing do. 
+The single most important thing about what Musk is doing is that it is Musk that is doing it. Not elected, not accountable to anyone, and the only way we know what he's doing is from the aftermath. We play no role in his choices. Plus, he would be our last choice if we were in the market for a crazy despot to ruin our country. He wasn't born or educated here, and thus has very little idea of who we are and thus what the people he's firing do. 
 
 <br> 
 
@@ -43,7 +482,7 @@ The single most important thing about what Musk is doing is that it is Musk that
 
 **@Dave Winer's Scripting News** (date: 2025-03-04, from: Dave Winer's Scripting News)
 
-Remember when watching the speech tonight, if you are watching, what <a href="https://www.youtube.com/watch?v=UXR_bqyAy4E&t=170s">our Capitol was like</a> on that infamous day. The guy speaking, the guy up there on the podium, he did that. That's who he is. And where is right now, that's where it happened. Takes a lot of nerve to return to the scene of his greatest crime, so far. 
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/11/13/mobIncited.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Remember when watching the speech tonight, if you are watching, what <a href="https://www.youtube.com/watch?v=UXR_bqyAy4E&t=170s">our Capitol was like</a> on that infamous day. The guy speaking, the guy up there on the podium, he did that. That's who he is. And where is right now, that's where it happened. Takes a lot of nerve to return to the scene of his greatest crime, so far. 
 
 <br> 
 
@@ -391,7 +830,7 @@ Idea for SNL. A special episode of Law and Order where the cops arrest someone f
 
 ## Mike Myers’s Skewering Portrayal of Elon Musk on SNL
 
-date: 2025-03-03, updated: 2025-03-03, from: Daring Fireball
+date: 2025-03-03, updated: 2025-03-04, from: Daring Fireball
 
  
 
@@ -738,7 +1177,7 @@ A Reason To Smile
 
 date: 2025-03-02, from: Geoffrey Hunntley's blog
 
-<p><a href="https://bsky.app/profile/damieng.bsky.social/post/3ljdkwup7sc2d?ref=ghuntley.com">Damien Guard</a> nerd sniped me and and other folks wanted more proof that it is now cheap, easy and possible to <a href="https://ghuntley.com/tradecraft/" rel="noreferrer">cheaply rewrite software or clone existing &quot;source available&quot; businesses</a> (see bottom of the post).</p><p>So, let&apos;s get cracking by creating a toy application by sending</p> 
+<p><a href="https://bsky.app/profile/damieng.bsky.social/post/3ljdkwup7sc2d?ref=ghuntley.com">Damien Guard</a> nerd sniped me and other folks wanted more proof that it is now cheap, easy and possible to <a href="https://ghuntley.com/tradecraft/" rel="noreferrer">cheaply rewrite software or clone existing &quot;source available&quot; businesses</a> (see bottom of the post).</p><p>So, let&apos;s get cracking by creating a toy application by sending this</p> 
 
 <br> 
 

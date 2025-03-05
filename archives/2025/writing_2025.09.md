@@ -1,11 +1,124 @@
 ---
 title: writing
-updated: 2025-03-04 07:07:31
+updated: 2025-03-05 07:08:31
 ---
 
 # writing
 
-(date: 2025-03-04 07:07:31)
+(date: 2025-03-05 07:08:31)
+
+---
+
+## Write Now with Scrivener, Episode no. 48: Mimi Kwa, Author of a Memoir about Four Generations of a Chinese Family
+
+date: 2025-03-05, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-48-mimi-kwa-author-of-a-memoir-about-four-generations-of-a-chinese-family>
+
+---
+
+## ‘House of David’: Bringing an Ancient Story to Today’s Audience
+
+date: 2025-03-04, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/house-of-david" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Alexander%20Uloom%20in%20House%20of%20David%20%282025%29.png" alt="Alexander Uloom wearing armor holds a flag as he rides his horse in House of David (2025)" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Filmed on location in Greece over five months, Prime Video’s new TV show, <em>House of David</em>, takes us back 3,000 years to tell the story of the biblical figure David (Michael Iskander), who not only defeats a giant named Goliath (Martyn Ford), but rises up to become the famed king of Israel. &nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/house-of-david>
+
+---
+
+## Lavigne Receives Service to SFWA Award
+
+date: 2025-03-04, from: Locus Magazine
+
+<p>The Science Fiction and Fantasy Writers Association (SFWA) has announced C.J. Lavigne as the winner of the 2025 Kevin O&#8217;Donnell, Jr. Service to SFWA Award. The award is presented to &#8220;a volunteer of SFWA who best exemplifies the ideal of service to the Science Fiction and Fantasy Writers of America.&#8221;</p>
+<p>The announcement notes, among other things, that Lavigne contributed to SFWA&#8217;s &#8220;flight crew,&#8221; or tech support team. SFWA President Kate  <a href="https://locusmag.com/2025/03/lavigne-receives-service-to-sfwa-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/lavigne-receives-service-to-sfwa-award/>
+
+---
+
+## 2025 Women’s Prize for Fiction Longlist
+
+date: 2025-03-04, from: Locus Magazine
+
+<p>The 16-title longlist has been announced for the 2025 Women&#8217;s Prize for Fiction. Nominees of genre interest include:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>The Ministry of Time</strong>, Kaliane Bradley (Avid Reader/Sceptre)</li>
+<li><strong>The Dream Hotel</strong>, Laila Lalami (Pantheon/Bloomsbury)</li>
+</ul>
+<p>The prize, on its 30th anniversary this year, is aimed at &#8220;championing and amplifying women’s voices and nurturing a global community of readers.&#8221; It is awarded annually to a full-length novel written in English and published </p></div> <a href="https://locusmag.com/2025/03/2025-womens-prize-for-fiction-longlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/2025-womens-prize-for-fiction-longlist/>
+
+---
+
+## Flash Fiction Online, Goblins & Greatcoats by Travis Baldree, and Unquiet on the Eastern Front by Wole Talabi: Reviews by Charles Payseur
+
+date: 2025-03-04, from: Locus Magazine
+
+<p><strong>Goblins &#38; Greatcoats</strong>, Travis Baldree (Subter­ranean) June 2024.
+<strong>Unquiet on the Eastern Front</strong>, Wole Talabi (Subterranean) October 2024.
+Flash Fiction Online 11/24</p>
+<p>Subterranean Press has recently been of­fering short fiction online for free, and I’m catching up with June’s “<strong>Goblins &#38; Greatcoats</strong>” by <strong>Travis Baldree</strong>, which follows Zyll, a goblin escaping the rain and road at a small inn which just happens to be at  <a href="https://locusmag.com/2025/03/flash-fiction-online-goblins-greatcoats-by-travis-baldree-and-unquiet-on-the-eastern-front-by-wole-talabi-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/flash-fiction-online-goblins-greatcoats-by-travis-baldree-and-unquiet-on-the-eastern-front-by-wole-talabi-reviews-by-charles-payseur/>
+
+---
+
+## 🖥️📱 #238A - Going Pro
+
+date: 2025-03-04, from: Interesting, a blog on writing
+
+Quote-Unquote Apps launches its new flagship app: Highland Pro 
+
+<br> 
+
+<https://inneresting.substack.com/p/238a-going-pro>
+
+---
+
+## Introducing Highland Pro
+
+date: 2025-03-04, from: John August blog
+
+Today, we&#8217;re launching Highland Pro. It&#8217;s the next generation of our flagship screenwriting app, now available on Mac, iPad and iPhone. Here&#8217;s a video I made about it. With Highland Pro, our mission is to keep you focused on your work. From its clean interface to innovative features like the shelf and /lookup, Highland is [&#8230;]
+The post <a href="https://johnaugust.com/2025/introducing-highland-pro">Introducing Highland Pro</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/introducing-highland-pro>
+
+---
+
+## The On-Set Producer
+
+date: 2025-03-04, from: John August blog
+
+John and Craig welcome producer Dan Etheridge (iZombie, High Potential, Party Down) to look at how non-writing producers develop projects, coordinate across departments, and maintain the tone of the show as directors come and go. We offer practical tips for making the most of video village, regardless of your role, and solutions for the scourge [&#8230;]
+The post <a href="https://johnaugust.com/2025/the-on-set-producer">The On-Set Producer</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/678standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/678standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/the-on-set-producer>
 
 ---
 

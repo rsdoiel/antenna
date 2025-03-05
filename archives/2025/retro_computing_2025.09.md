@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-03-04 07:07:34
+updated: 2025-03-05 07:08:34
 ---
 
 # retro computing
 
-(date: 2025-03-04 07:07:34)
+(date: 2025-03-05 07:08:34)
+
+---
+
+## Linux Mint Retools the Cinnamon App Launcher
+
+date: 2025-03-04, from: Linux Magazine
+
+<p>The developers of Linux Mint are working on an improved Cinnamon App Launcher with a better, more accessible UI.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Mint-Retools-the-Cinnamon-App-Launcher>
 
 ---
 
