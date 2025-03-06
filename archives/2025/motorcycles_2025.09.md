@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-03-05 07:08:34
+updated: 2025-03-06 05:16:22
 ---
 
 # motorcycles
 
-(date: 2025-03-05 07:08:34)
+(date: 2025-03-06 05:16:22)
+
+---
+
+## Michael Dunlop Could Have More TT Wins, but He Used Stock Superbike Engines
+
+date: 2025-03-06, from: Ride Apart, Electric Motorcycle News
+
+Imagine what his tally could've been if he used racing engines for the past 10 years. 
+
+<br> 
+
+<https://www.rideapart.com/news/752465/michael-dunlop-stock-superbike-tt-engines/>
+
+---
+
+## This Custom Africa Twin Has Eyes That Stare Straight Into Your Soul
+
+date: 2025-03-06, from: Ride Apart, Electric Motorcycle News
+
+You could say it’s too pretty to ride, but not doing so would be doing this thing a disservice.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752476/autofabrica-type-22-custom-africa-twin/>
+
+---
+
+## Suzuki Drops New Street Fighter 6 Collab for Video Game Tournament
+
+date: 2025-03-06, from: Ride Apart, Electric Motorcycle News
+
+Just in time for the Capcom Cup esports tournament, but that's not all! 
+
+<br> 
+
+<https://www.rideapart.com/news/752477/suzuki-capcom-gsx8r-street-fighter/>
+
+---
+
+## NASCAR Files Counterclaim In Antitrust Lawsuit Debacle
+
+date: 2025-03-05, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor 
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-files-counterclaim-in-antitrust-lawsuit-debacle/>
 
 ---
 
@@ -59,7 +108,7 @@ Versatility, comfort, and safety are three of its strongest suits.
 
 ---
 
-## Watch a MotoGP Champion Race an Motocross World Champion on Dirt
+## Watch a MotoGP Champion Race a Motocross World Champion on Dirt
 
 date: 2025-03-05, from: Ride Apart, Electric Motorcycle News
 

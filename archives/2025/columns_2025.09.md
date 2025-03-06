@@ -1,11 +1,282 @@
 ---
 title: columns
-updated: 2025-03-05 07:08:31
+updated: 2025-03-06 05:16:19
 ---
 
 # columns
 
-(date: 2025-03-05 07:08:31)
+(date: 2025-03-06 05:16:19)
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-06, from: Miguel de Icaza Mastondon feed)
+
+<p>In a world of Targets, Columbias and Harvards, be a Michelle Wu.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114115555025805958>
+
+---
+
+## The Combined Cipher Machine
+
+date: 2025-03-06, updated: 2025-03-05, from: Bruce Schneier blog
+
+<p>Interesting <a href="https://chris-intel-corner.blogspot.com/2025/03/the-combined-cipher-machine-1942-1962.html">article</a>&#8212;with photos!&#8212;of the US/UK &#8220;Combined Cipher Machine&#8221; from WWII.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/the-combined-cipher-machine.html>
+
+---
+
+## 101 fun things to do with a locked Kindle e-reader
+
+date: 2025-03-06, updated: 2025-03-06, from: Liam Proven's articles at the Register
+
+<h4><span class="label">FOSDEM 2025</span> Jailbreak it, or even gut it and turn its screen into a low-power portable display with a Modos e-ink controller</h4>
+      <p>Amazon&#39;s Kindle e-readers just got a bit less useful, but help is at hand, from jailbreaking to making one of the devices into a monitor.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/06/kindle_and_modos/>
+
+---
+
+## The biggest Ponzi scheme in history
+
+date: 2025-03-06, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-biggest-ponzi-scheme-of-all>
+
+---
+
+## March 5, 2025
+
+date: 2025-03-06, from: Heather Cox Richardson blog
+
+In the gym of Westminster College in Fulton, Missouri, on March 5, 1946, former and future prime minister of the United Kingdom Winston Churchill rose to deliver a speech. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-5-2025>
+
+---
+
+## Apple Announces, With Much Surprise, Mac Studios With M4 Max and M3 Ultra (!) Chips
+
+date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/03/new-mac-studio-spans-the-generations-with-m4-max-m3-ultra-chips/>
+
+---
+
+## Apple Announces, With Little Surprise, M4 MacBook Airs
+
+date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/03/sky-blues-the-limit-m4-macbook-air-offers-lower-price-improved-camera-and-new-color/>
+
+---
+
+## Who Cares About Getting News That’s True When You’re Getting It Fast With a $32,000/Year Bloomberg Terminal Subscription?
+
+date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2024/12/06/apples-second-5g-modem-said-to-support-mmwave/>
+
+---
+
+## Mark Gurman, Ace Reporter, on the New Regular iPads
+
+date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/newsletters/2025-01-12/apple-2025-plans-iphone-17-smart-home-hub-ios-19-ai-apple-watch-ipads-m5>
+
+---
+
+## Tapbots Releases Ivory 2.3 — and Announces That Phoenix, a Bluesky Client, Is Coming
+
+date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://tapbots.social/@ivory/114110436182458268>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-05, from: Dave Winer's Scripting News)
+
+When I ask a personal question on one of the AI bots, all of a sudden on Facebook I'm getting ads about what I asked about. It could be a coincidence, but it's happened a few times, on more than one system. And I'm a paying customer on all of them.
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/05.html#a221451>
+
+---
+
+##  How Congress Can Delete DOGE. &#8220;DOGE&#8217;s parent agency, the US Digital Service... 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046394-how-congress-can-delete-d>
+
+---
+
+##  Buttondown makes it super-easy to migrate your newsletter from Substack. Plus: &#8220;Need... 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046393-buttondown-makes-it-super>
+
+---
+
+##  One Day, Everyone Will Have Always Been Against This 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/one-day-everyone-will-have-always-been-against-this>
+
+---
+
+##  Josh Marshall on corruption and legitimacy regarding the US govt&#8217;s judicial &... 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046392-josh-marshall-on-fraudule>
+
+---
+
+##  From poet Joseph Fasano: For a Student Who Used AI to Write... 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046390-from-poet-joseph-fasano-f>
+
+---
+
+##  &#8220;Every time Social Security makes its way into the news is an... 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046388-every-time-social-securit>
+
+---
+
+##  Paris Marx writes that the US is &#8220;a rogue state that cannot... 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046389-paris-marx-writes-that-th>
+
+---
+
+## Your Source for Scoops Half a Day Before They’re Announced Publicly
+
+date: 2025-03-05, updated: 2025-03-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/markgurman/status/1896972159731556579>
+
+---
+
+##  Trump&#8217;s Tour of Revenge Against the American People 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/trumps-tour-of-revenge-against-the-american-people>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-05, from: Dave Winer's Scripting News)
+
+People who criticize Dems for weak opposition at the SOTU are not hypocrites only if they said before the event what they would do. I was glad not to have to choose. I think in the end they did what made sense to each one individually. The range of response by the Dems was much broader than the Repubs. We should be thankful they haven't capitulated, as so many have, esp in what we used to think of as journalism. 
+
+<br> 
+
+<http://scripting.com/2025/03/05.html#a151936>
+
+---
+
+##  Doechii Officially Releases Anxiety (the Song, Lol) 
+
+date: 2025-03-05, updated: 2025-03-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/doechii-officially-releases-anxiety-the-song-lol>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2022/02/16/gaslight.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">We need a new kind of social network designed to run an effective response to fascism. So far all we have are profit centers for billionaires and would-be billionaires. 
+
+<br> 
+
+<http://scripting.com/2025/03/05.html#a151913>
 
 ---
 

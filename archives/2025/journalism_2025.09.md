@@ -1,11 +1,301 @@
 ---
 title: journalism
-updated: 2025-03-05 07:08:32
+updated: 2025-03-06 05:16:21
 ---
 
 # journalism
 
-(date: 2025-03-05 07:08:32)
+(date: 2025-03-06 05:16:21)
+
+---
+
+## Dan Ostrander shares love of knowledge through trivia nights at Barney’s Beanery
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dan Ostrander is turning trivia into more than just a game.
+Ostrander spends his Tuesday and Wednesday evenings in the nook next to the kitchen door at Barney&#8217;s Beanery in Westwood, where he hosts his weekly, two-to-three-hour trivia nights. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/06/dan-ostrander-shares-love-of-knowledge-through-trivia-nights-at-barneys-beanery/>
+
+---
+
+## The future of theatre is neofuturist with ‘Too Much Light’
+
+date: 2025-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students prepare to take the experimental play to the iconic Edinburgh Festival Fringe.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/06/the-future-of-theatre-is-neofuturist-with-too-much-light/">The future of theatre is neofuturist with ‘Too Much Light’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/06/the-future-of-theatre-is-neofuturist-with-too-much-light/>
+
+---
+
+## New advisory board aims to include student perspectives
+
+date: 2025-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students offer practical feedback on dining halls operation. </p>
+<p>The post <a href="https://dailytrojan.com/2025/03/06/new-advisory-board-aims-to-include-student-perspectives/">New advisory board aims to include student perspectives</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/06/new-advisory-board-aims-to-include-student-perspectives/>
+
+---
+
+## Student Health discusses spring break precautions
+
+date: 2025-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Getting the measles vaccination is strongly recommended for traveling students.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/06/student-health-discusses-spring-break-precautions/">Student Health discusses spring break precautions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/06/student-health-discusses-spring-break-precautions/>
+
+---
+
+## We’re entering a post-Drake era, and he has no one to blame but himself
+
+date: 2025-03-06, from: The Daily Trojan (USC Student Newspaper)
+
+<p>One of hip hop’s biggest stars is finally looking like he’s not at the top.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/06/were-entering-a-post-drake-era-and-he-has-no-one-to-blame-but-himself/">We’re entering a post-Drake era, and he has no one to blame but himself</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/06/were-entering-a-post-drake-era-and-he-has-no-one-to-blame-but-himself/>
+
+---
+
+## Bill AB 1825 declares bans on books of diverse perspectives illegal in California
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+A California law making book bans illegal went into effect Jan. 1.
+The bill, authored by Al Muratsuchi who represents California&#8217;s 66th Assembly District, requires state-funded public libraries to create a publicly accessible policy that outlines the selection and removal of books, as well as a process for patrons to contest the library material. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/05/bill-ab-1825-declares-bans-on-books-of-diverse-perspectives-illegal-in-california/>
+
+---
+
+## National Academy of Sciences awards UCLA neurobiology professor
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The National Academy of Sciences will award a UCLA professor of neurobiology in April for deepening understanding of the brain.
+Anne Churchland will receive the annual 2025 Pradel Research Award for pioneering exploration into the neural circuits which underpin how the brain integrates information. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/05/national-academy-of-sciences-awards-ucla-neurobiology-professor/>
+
+---
+
+## Bruin to Bruin: Katie Simpson’s Journey as an Independent Artist
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+In this episode of “Bruin to Bruin,” host Celina Landero Valenzuela sits down with student and singer-songwriter Katie Simpson to talk about her journey as an independent artist. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/05/bruin-to-bruin-katie-simpsons-journey-as-an-independent-artist/>
+
+---
+
+## On The Steps Episode 6: AFSCME 3299, UPTE 9119 allege unfair labor practices in strike
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+This episode, the Daily Bruin takes you to the picket lines where two university unions were on strike last week. We then look at the Pediatric AIDs Coalition&#8217;s Dance Marathon, an event by the campus club Coastalong, and Beach Volleyball&#8217;s match against Pepperdine. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/05/on-the-steps-episode-6-afscme-3299-upte-9119-allege-unfair-labor-practices-in-strike/>
+
+---
+
+## LA City Council rejects former LAFD chief Kristen Crowley’s appeal for restoration
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Council denied former Los Angeles Fire Department chief Kristen Crowley&#8217;s appeal to be reinstated after her Feb. 21 removal by Mayor Karen Bass. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/05/la-city-council-rejects-former-lafd-chief-kristen-crowleys-appeal-for-restoration/>
+
+---
+
+## Gallery: Foster the People “pumps up” fans on “Paradise State of Mind” Tour
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+The band known for its 2011 single “Pumped Up Kicks” dazzled the stage of the Hollywood Palladium on Feb. 7 with an opening set from British indie duo Good Neighbours. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/05/gallery-foster-the-people-pumps-up-fans-on-paradise-state-of-mind-tour/>
+
+---
+
+## Transact Mobile online meal ordering sees shutdown for a 2nd consecutive day
+
+date: 2025-03-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Transact Mobile was unavailable for a second consecutive day Wednesday.
+The app, used by students living in university on-campus housing to order meals, was unavailable after 9 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/05/transact-mobile-online-meal-ordering-sees-shutdown-for-a-2nd-consecutive-day/>
+
+---
+
+## Life, Liberty and Fashion: CTVA Student Bella Blake Shares What Fashion Take
+
+date: 2025-03-05, from: The Sundail (CSUN Student Newspaper)
+
+Fashion styles can determine certain aspects of one’s identity. A clean, posh style is viewed as sophisticated and softer. At the same time, bohemian and edgy fashion choices show a... 
+
+<br> 
+
+<https://sundial.csun.edu/190930/uncategorized/life-liberty-and-fashion-ctva-student-bella-blake-shares-what-fashion-take/>
+
+---
+
+## OptOut News, an aggregation app for independent news, has shut down
+
+date: 2025-03-05, from: Nieman Journalism Lab
+
+OptOut News, a news aggregation app that shared journalism from &#8220;financially independent&#8221; and largely progressive news outlets like The Nation, The Intercept, and Grist, has shut down due to a lack of funding. Co-founder Alex Kotch — formerly an investigative reporter at the Center for Media and Democracy — told OptOut newsletter subscribers on Tuesday evening that... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/optout-news-an-aggregation-app-for-independent-news-has-shut-down/>
+
+---
+
+## Occidental responds to the Trump administration’s attempts to dismantle DEI in higher education
+
+date: 2025-03-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>As of March 1, President Donald Trump has signed three executive orders aimed at ending diversity, equity and inclusion (DEI) in higher education: “Ending Radical and Wasteful Government DEI Programs and Preferencing,” “Initial Rescissions of Harmful Executive Orders and Actions” and “Ending Illegal Discrimination and Restoring Merit-Based Opportunity.” In a Feb. 18 email to all [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/03/05/occidental-responds-to-the-trump-administrations-attempts-to-dismantle-dei-in-higher-education/2914511">Occidental responds to the Trump administration’s attempts to dismantle DEI in higher education</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/05/occidental-responds-to-the-trump-administrations-attempts-to-dismantle-dei-in-higher-education/2914511>
+
+---
+
+## Education major proposal under review by Academic Planning Committee
+
+date: 2025-03-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The page one article on the education major proposal in The Occidental, Feb. 19 had multiple errors. This article has been re-reported by Editor in Chief Kawena Jacobs and will be published online. A proposal for an education major at Occidental is being evaluated by the Faculty Council’s Academic Planning Committee, according to Associate Professor [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/03/05/education-major-proposal-under-review-by-academic-planning-committee/2914516">Education major proposal under review by Academic Planning Committee</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/05/education-major-proposal-under-review-by-academic-planning-committee/2914516>
+
+---
+
+## Vidiots hosts ‘That Awards Show Night’ to celebrate iconic awards evening
+
+date: 2025-03-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Vidiots hosted “That Awards Show” March 2, an evening party that included a raffle, a bingo night and photo opportunities on the Vidiots pink carpet, hosted by performer Anya Body. Anya Body said she has performed at several Vidiots functions and has become familiar with working for the organization as a drag queen. According to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2025/03/05/vidiots-hosts-that-awards-show-night-to-celebrate-iconic-awards-evening/2914527">Vidiots hosts &#8216;That Awards Show Night&#8217; to celebrate iconic awards evening</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2025/03/05/vidiots-hosts-that-awards-show-night-to-celebrate-iconic-awards-evening/2914527>
+
+---
+
+## Stories Over Coffee: Café de Leche serves up blueberry muffins and resilience
+
+date: 2025-03-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Customer Juliette Davis said Café de Leche reminds her of the cafes in her home country of France. She said she likes coming to the cafe with her friends because it is a neutral meeting spot. Matthew Schodorf, the co-founder of Café de Leche, said he and his wife Anya founded the cafe in 2008 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2025/03/05/stories-over-coffee-cafe-de-leche-serves-up-blueberry-muffins-and-resilience/2914534">Stories Over Coffee: Café de Leche serves up blueberry muffins and resilience</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2025/03/05/stories-over-coffee-cafe-de-leche-serves-up-blueberry-muffins-and-resilience/2914534>
+
+---
+
+## The gym, a balcony, a tree — we find our places of serenity during stressful times
+
+date: 2025-03-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In times of turmoil, many of us resort to a place of serenity and peace to clear our minds. Our editors have shared a few of their favorite places, and we hope it inspires you to think about yours. Avinash Iyer, Opinions Editor: Alumni Gym Of the many stickers on my laptop, none is more [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/featured/2025/03/05/the-gym-a-balcony-a-tree-we-find-our-places-of-serenity-during-stressful-times/2914538">The gym, a balcony, a tree — we find our places of serenity during stressful times</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/featured/2025/03/05/the-gym-a-balcony-a-tree-we-find-our-places-of-serenity-during-stressful-times/2914538>
+
+---
+
+## Black Men’s Forum, Black Student Alliance-led cookout unites and enlivens community
+
+date: 2025-03-05, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Black Occidental students were invited by the Black Student Alliance (BSA) and Black Men’s Forum (BMF) to attend a Feb 1. joint cookout event at Ernest E. Debs Park alongside Black student organizations from the University of Southern California (USC), the University of California, Los Angeles (UCLA) and Loyola Marymount University (LMU). The event was [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/03/05/black-mens-forum-black-student-alliance-led-cookout-unites-and-enlivens-community/2914508">Black Men&#8217;s Forum, Black Student Alliance-led cookout unites and enlivens community</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/05/black-mens-forum-black-student-alliance-led-cookout-unites-and-enlivens-community/2914508>
+
+---
+
+## The full Folt interview
+
+date: 2025-03-05, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Read the full transcript of President Carol Folt's March 4 interview with the Daily Trojan and Annenberg Media.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/05/the-full-folt-interview/">The full Folt interview</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/05/the-full-folt-interview/>
+
+---
+
+## FiveThirtyEight is shutting down as part of broader cuts at ABC and Disney
+
+date: 2025-03-05, from: Nieman Journalism Lab
+
+Disney is cutting 200 positions across ABC News and Disney Entertainment, including shutting down FiveThirtyEight, The Wall Street Journal reported Tuesday night. From the Journal: The ABC news magazine shows “20/20” and “Nightline” are consolidating into one unit, resulting in job cuts, the people said. ABC is also eliminating the political and data-driven news site... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/fivethirtyeight-is-shutting-down-as-part-of-broader-cuts-at-abc-and-disney/>
 
 ---
 

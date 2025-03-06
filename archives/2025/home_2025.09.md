@@ -1,11 +1,216 @@
 ---
 title: home
-updated: 2025-03-05 07:08:33
+updated: 2025-03-06 05:16:22
 ---
 
 # home
 
-(date: 2025-03-05 07:08:33)
+(date: 2025-03-06 05:16:22)
+
+---
+
+## These Salmon Recipes Are Perfect for Nights When You Don’t Know What to Cook
+
+date: 2025-03-06, from: Sunset Magazine - Living in the West
+
+These easy salmon recipes—grilled or poached, smoked or roasted—will please every palate, even picky eaters. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/salmon-recipes>
+
+---
+
+## 120 Plants That Repel Bugs and Insects (With Pictures)
+
+date: 2025-03-06, from: Yard Life blog
+
+<p>Keeping bugs and insects away from your home and garden doesn’t have to involve harmful chemicals. Many natural solutions exist, ... </p>
+<p class="read-more-container"><a title="120 Plants That Repel Bugs and Insects (With Pictures)" class="read-more button" href="https://ownyardlife.com/120-plants-that-repel-bugs-and-insects-with-pictures/#more-24515" aria-label="Read more about 120 Plants That Repel Bugs and Insects (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/120-plants-that-repel-bugs-and-insects-with-pictures/">120 Plants That Repel Bugs and Insects (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/120-plants-that-repel-bugs-and-insects-with-pictures/>
+
+---
+
+## Ford Recalls 35,000 Cars Due To Led Light Fire Hazard – Is Yours on the List?
+
+date: 2025-03-05, from: Family Handyman Blog
+
+<p>Ford issued a recall affecting thousands of vehicles because of a potential fire risk. Here's what you need to do to stay safe.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-lincoln-navigator-recall/">Ford Recalls 35,000 Cars Due To Led Light Fire Hazard &#8211; Is Yours on the List?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-lincoln-navigator-recall/>
+
+---
+
+## Thank you for your vote: Fall 2024
+
+date: 2025-03-05, from: Edible San Fernando Valley
+
+<p>The post <a href="https://www.ediblesfvalley.com/uncategorized/thank-you-for-your-vote-fall-2024/">Thank you for your vote: Fall 2024</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/uncategorized/thank-you-for-your-vote-fall-2024/?utm_source=rss&utm_medium=rss&utm_campaign=thank-you-for-your-vote-fall-2024>
+
+---
+
+## Thank you for your vote: Summer 2024
+
+date: 2025-03-05, from: Edible San Fernando Valley
+
+<p>The post <a href="https://www.ediblesfvalley.com/uncategorized/thank-you-for-your-vote-summer-2024/">Thank you for your vote: Summer 2024</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/uncategorized/thank-you-for-your-vote-summer-2024/?utm_source=rss&utm_medium=rss&utm_campaign=thank-you-for-your-vote-summer-2024>
+
+---
+
+## Thank you for your vote: Spring 2024
+
+date: 2025-03-05, from: Edible San Fernando Valley
+
+<p>The post <a href="https://www.ediblesfvalley.com/uncategorized/thank-you-for-your-vote-spring-2024/">Thank you for your vote: Spring 2024</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/uncategorized/thank-you-for-your-vote-spring-2024/?utm_source=rss&utm_medium=rss&utm_campaign=thank-you-for-your-vote-spring-2024>
+
+---
+
+## Thank you for your Vote: Winter 2024
+
+date: 2025-03-05, from: Edible San Fernando Valley
+
+<p>The post <a href="https://www.ediblesfvalley.com/uncategorized/thank-you-for-your-vote-winter-2024/">Thank you for your Vote: Winter 2024</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
+ 
+
+<br> 
+
+<https://www.ediblesfvalley.com/uncategorized/thank-you-for-your-vote-winter-2024/?utm_source=rss&utm_medium=rss&utm_campaign=thank-you-for-your-vote-winter-2024>
+
+---
+
+## Budget Breakdown: In the Catskills, an Architect Experiments With Passive Design for $515K
+
+date: 2025-03-05, from: Dwell
+
+Douglas Romines springs for triple-pane windows, wood fiber insulation, and solar power to build an efficient Hudson Valley home at a cost just slightly above traditional construction. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-whitehaus-romines-architecture-hudson-valley-passive-design-d7a9387e>
+
+---
+
+## The L.A. Home From Netflix’s "Nobody Wants This" Just Hit the Market for $3.8M
+
+date: 2025-03-05, from: Dwell
+
+The revamped Spanish-style four-bedroom had a star turn as the setting where Kristen Bell’s character records her podcast. 
+
+<br> 
+
+<https://www.dwell.com/article/david-lucido-la-nobody-wants-this-kristen-bell-real-estate-073a3d4f>
+
+---
+
+## 60,500 Volkswagen and Audi Cars Recalled Over Gear Display Glitch
+
+date: 2025-03-05, from: Family Handyman Blog
+
+<p>Tens of thousands of Volkswagen vehicles have a gear problem that has led to a large recall. Find out if yours is on the list. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/volkswagen-gear-defect-recall/">60,500 Volkswagen and Audi Cars Recalled Over Gear Display Glitch</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/volkswagen-gear-defect-recall/>
+
+---
+
+## A Crimson Curtain Makes This Madrid Flat Look Like a David Lynch Set
+
+date: 2025-03-05, from: Dwell
+
+The fabric can be pulled across the apartment’s open-plan to create dramatically staged dining and living areas. 
+
+<br> 
+
+<https://www.dwell.com/article/psdl19-estudio-reciente-small-apartment-open-floor-plan-b7ce9d7f>
+
+---
+
+## How to Grow ‘Pirat’ Butterhead Lettuce
+
+date: 2025-03-05, from: The Gardener's Path
+
+<p>‘Pirat’ lettuce is a disease-resistant, adaptable, and absolutely delicious cultivar. It's slow to bolt even in hot weather and is hardy enough to survive a frost. The soft, crisp leaves on loose heads take your salads and sandwiches to the next level. Learn how to plant and grow this butterhead type in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-pirat-lettuce/">How to Grow ‘Pirat’ Butterhead Lettuce</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-pirat-lettuce/>
+
+---
+
+## How They Pulled It Off: A Contemporary Addition to a Historic Cottage
+
+date: 2025-03-05, from: Dwell
+
+Faced with the restraints of landmark regulations in the Austin neighborhood, architect Andrew Logan let the home’s character lead the way. 
+
+<br> 
+
+<https://www.dwell.com/article/how-they-pulled-it-off-a-contemporary-addition-to-a-historic-cottage-e806dc3f>
+
+---
+
+## Take a Staycation ‘White Lotus’-Style with CB2’s New Collection
+
+date: 2025-03-05, from: Sunset Magazine - Living in the West
+
+If you got major wanderlust vibes from the first episode of The White Lotus, you can bring the luxury resort feeling home thanks to this new collection. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/white-lotus-cb2-collection>
+
+---
+
+## Two Writers Wanted Their Home to Feel Like a Coffee Shop—the End Result Is Extra Cozy
+
+date: 2025-03-05, from: Sunset Magazine - Living in the West
+
+One creative couple had a unique source of inspiration for their house renovation: their favorite coffee shop. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/coffee-shop-inspired-house>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-03-05, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -164,6 +369,18 @@ The Chinese architect was recognized by the jury for his ability to draw on ever
 
 ---
 
+## This $6.2M Desert Villa  Is Full of Curves and Retro Color
+
+date: 2025-03-04, from: Dwell
+
+Don’t miss the opportunity to own this exceptional blend of innovative design and desert living in Scottsdale. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-desert-villa-scottsdale-real-estate-579a1d7b>
+
+---
+
 ## Arnold Palmer’s Former California Home Hits the Market for $5M
 
 date: 2025-03-04, from: Dwell
@@ -211,6 +428,18 @@ The pool runs the length of the rear facade, connecting with a secret hot tub.
 <br> 
 
 <https://www.dwell.com/article/prime-samantha-mink-sunken-home-indoor-outdoor-living-c2c728ec>
+
+---
+
+## 5 Expert-Approved Tricks to Get Rid of Weeds in Your Garden
+
+date: 2025-03-04, from: Sunset Magazine - Living in the West
+
+Use this practical guide to stop weeds before they take over with organic and low-maintenance methods. These weeding techniques will help. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/how-to-weed-your-garden>
 
 ---
 
@@ -323,18 +552,6 @@ This 1927 historic bungalow in Santa Monica had a lot of charm and special detai
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/1920s-leland-fuller-bungalow>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-04, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -525,18 +742,6 @@ date: 2025-03-03, from: Elemental Green blog
 <br> 
 
 <https://elemental.green/5-reasons-you-need-solar-battery-storage-with-your-pv-panels/>
-
----
-
-## Two Writers Wanted Their Home to Feel Like a Coffee Shop—the End Result Is Extra Cozy
-
-date: 2025-03-03, from: Sunset Magazine - Living in the West
-
-One creative couple had a unique source of inspiration for their house renovation: their favorite coffee shop. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/coffee-shop-inspired-house>
 
 ---
 

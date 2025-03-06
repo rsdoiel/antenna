@@ -1,11 +1,98 @@
 ---
 title: writing
-updated: 2025-03-05 07:08:31
+updated: 2025-03-06 05:16:20
 ---
 
 # writing
 
-(date: 2025-03-05 07:08:31)
+(date: 2025-03-06 05:16:20)
+
+---
+
+## 2025 Audie Award Winners
+
+date: 2025-03-05, from: Locus Magazine
+
+<p>The Audio Publishers Association (APA) has announced the winners of the 2025 Audie Awards, “recognizing distinction in audiobooks and spoken-word entertainment.” Winners of genre interest are listed below; narrators are listed in alphabetical order.</p>
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<p><strong>Science Fiction</strong></p>
+<ul>
+<li>WINNER:<strong> The Book of Doors</strong>, Gareth Brown, narrated by Miranda Raison (HarperAudio)</li>
+<li><strong>Mal Goes to War</strong>, Edward Ashton, narrated by Katharine Chin &#38; John Pirhalla (Macmillan Audio)</li>
+<li><strong>Frontier</strong>, Grace Curtis, narrated </li></ul></div></div> <a href="https://locusmag.com/2025/03/2025-audie-award-winners/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/2025-audie-award-winners/>
+
+---
+
+## 💭 The Word Escapes Me
+
+date: 2025-03-05, from: Interesting, a blog on writing
+
+Back in 2006, John had a problem trying to find the right word. 
+
+<br> 
+
+<https://inneresting.substack.com/p/the-word-escapes-me>
+
+---
+
+## New Hachette Imprint: Requited
+
+date: 2025-03-05, from: Locus Magazine
+
+<p>Little, Brown Books for Young Readers has announced the launch of New Adult imprint Requited.</p>
+<p>The slate of initial projects includes fantasy and romantasy titles by Jordan Stephanie Gray, and its staff includes personnel experienced in genre fiction and fantasy. Senior editors are Alice Jerman, previously at Entangled, and Ruqayyah Daud. Lisa Yoskowitz, LBYR&#8217;s Executive Editorial Director, will serve as editorial lead.</p>
+<p>Megan Tingley, president and publisher at LBYR, told  <a href="https://locusmag.com/2025/03/new-hachette-imprint-requited/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/new-hachette-imprint-requited/>
+
+---
+
+## 2025 Robert E. Howard Award Shortlist
+
+date: 2025-03-05, from: Locus Magazine
+
+<p>The REH Foundation has announced the shortlist for the 2025 Robert E. Howard Awards, honoring work that is &#8220;substantively devoted to the life and/or work of Robert E. Howard&#8221; or that &#8220;carries on the spirit and tradition of Robert E. Howard, to better recognize and celebrate his influence on future generations of writers.&#8221;</p>
+<p>Members of the REH Foundation vote on the awards. Voting closes on March 15, 2025.</p>
+<div class="mynomorebulletlist">
+<p><strong>The Atlantean—Outstanding </strong></p></div> <a href="https://locusmag.com/2025/03/2025-robert-e-howard-award-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/2025-robert-e-howard-award-shortlist/>
+
+---
+
+## SHORT TAKE: Keith Roberts’s Pavane: A Critical Companion by Paul Kincaid: Review by Gary K. Wolfe
+
+date: 2025-03-05, from: Locus Magazine
+
+<p><strong>Keith Roberts’s Pavane: A Critical Compan­ion</strong>, Paul Kincaid (Palgrave Macmillan 978-3031715662, $37.99, 86pp, hc) November 2024.</p>
+<p>For the past couple of years, Palgrave has been publishing a series of short “critical companion” monographs each focusing on a single title of what it calls the “new canon”; books covered so far include <strong>The Last Unicorn</strong>, <strong>Dune</strong>, <strong>The Hobbit</strong>, <strong>Neuromancer</strong>, <strong>Neverwhere</strong>, <strong>The Stars My Desti­nation</strong>,  <a href="https://locusmag.com/2025/03/short-take-keith-robertss-pavane-a-critical-companion-by-paul-kincaid-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/short-take-keith-robertss-pavane-a-critical-companion-by-paul-kincaid-review-by-gary-k-wolfe/>
+
+---
+
+## Storytide Imprint Launches at HarperCollins
+
+date: 2025-03-05, from: Locus Magazine
+
+<p>HarperCollins Children&#8217;s Books has announced the launch of Storytide, a new imprint for middle grade and YA books. Storytide&#8217;s slate will include fantasy titles <strong>That Devil, Ambition</strong> by Linsey Miller and <strong>I Killed the King</strong> by Andrea Hannah and Rebecca Mix.</p>
+<p>VP and publisher Tara Weikum will lead the imprint. The team will also include Amy Cloud and Kristin Rens as executive editors, and Sarah Homer as editor.</p>
+<p>On the  <a href="https://locusmag.com/2025/03/storytide-imprint-launches-at-harpercollins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/storytide-imprint-launches-at-harpercollins/>
 
 ---
 
@@ -46,6 +133,22 @@ date: 2025-03-04, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/03/lavigne-receives-service-to-sfwa-award/>
+
+---
+
+## New Books 4 March 2025
+
+date: 2025-03-04, from: Locus Magazine
+
+<p><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of March 4, 2025. </strong></p>
+<p>Andrew, Kelly: <b>I Am Made of Death</b> (Scholastic Press 978-1546104483, $19.99, 368pp, formats: hardcover, ebook, audiobook, 03/04/2025)</p>
+<p>Young-adult contemporary dark fantasy novel. Thomas, trying to pay his mother&#8217;s medical bills, becomes the interpreter for a wealthy girl who communicates  <a href="https://locusmag.com/2025/03/new-books-4-march-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/new-books-4-march-2025/>
 
 ---
 

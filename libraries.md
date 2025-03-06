@@ -1,11 +1,51 @@
 ---
 title: libraries
-updated: 2025-03-05 07:08:33
+updated: 2025-03-06 05:16:21
 ---
 
 # libraries
 
-(date: 2025-03-05 07:08:33)
+(date: 2025-03-06 05:16:21)
+
+---
+
+## Equality, Diversity, and Inclusion in Pre-Award Funding Processes: Actions, Not Words
+
+date: 2025-03-06, from: Scholarly Kitchen
+
+<p>In today's post, Alice Meadows shares an update on a project to improve DEI in pre-award funding applications.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/06/equality-diversity-and-inclusion-in-pre-award-funding-processes-actions-not-words/">Equality, Diversity, and Inclusion in Pre-Award Funding Processes: Actions, Not Words</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/06/equality-diversity-and-inclusion-in-pre-award-funding-processes-actions-not-words/>
+
+---
+
+## ARL President’s Institute Inspires Multigenerational Collaboration in Libraries
+
+date: 2025-03-05, from: Association of Research Libraries News
+
+<p>Last Updated on March 5, 2025, 1:56 pm ET Professionals from across the United States and Canada met in Chicago-Rosemont February 12–13 to attend the 2025 ARL President’s Institute, “Ignite...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-presidents-institute-inspires-multigenerational-collaboration-in-libraries/">ARL President’s Institute Inspires Multigenerational Collaboration in Libraries</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-presidents-institute-inspires-multigenerational-collaboration-in-libraries/>
+
+---
+
+## Using ROR IDs in Place of Funder IDs
+
+date: 2025-03-05, from: ROR Research ID Blog
+
+Crossref has announced today that its members can now use ROR IDs to identify funders in any place where they currently use Funder IDs in their metadata. 
+
+<br> 
+
+<https://ror.org/blog/2025-03-05-using-ror-ids-in-place-of-funder-ids/>
 
 ---
 
@@ -13,7 +53,7 @@ updated: 2025-03-05 07:08:33
 
 date: 2025-03-05, from: Internet Archive Blog
 
-The following guest post from archivist and filmmaker Rick Prelinger is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the full report now. [&#8230;] 
+The following guest post from archivist and filmmaker&#160;Rick Prelinger&#160;is part of our&#160;Vanishing Culture&#160;series, highlighting the power and importance of preservation in our digital age.&#160;Read more essays online&#160;or&#160;download the full report&#160;now. [&#8230;] 
 
 <br> 
 
@@ -56,6 +96,81 @@ An Englishman becomes embroiled in adventure, politics, and romance in 19th-cent
 <br> 
 
 <https://standardebooks.org/ebooks/w-h-hudson/the-purple-land>
+
+---
+
+## Come ROR with us: Using ROR IDs in place of Funder IDs
+
+date: 2025-03-05, from: Crossref Blog
+
+<p>Today, we&rsquo;re delighted to let you know that Crossref members can now use ROR IDs to identify funders in any place where you currently use Funder IDs in your metadata. Funder IDs remain available, but this change allows publishers, service providers, and funders to streamline workflows and introduce efficiencies by using a single open identifier for both researcher affiliations and funding organizations.</p>
+<p>As you probably know, the <a href="https://ror.org" target="_blank">Research Organization Registry (ROR)</a> is a global, community-led, carefully curated registry of open persistent identifiers for research organisations, including funding organisations. It’s a joint initiative led by the California Digital Library, Datacite and Crossref launched in 2019 that fulfills the long-standing need for an open organisation identifier.</p>
+<p>In 2023, we shared our plan to <a href="https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror" target="_blank">transition the Open Funder Registry into ROR</a>. More recently, we announced that we were planning to <a href="https://www.crossref.org/blog/roring-ahead-using-ror-in-place-of-the-open-funder-registry" target="_blank">update our schema so that it is possible to collect ROR IDs where we currently collect Funder IDs</a> such as in the funding metadata section for works and funder section for grants. Now that we have completed this work, Crossref members can start depositing ROR IDs where they would normally deposit Funder IDs. This update also means that the community, including funders, service providers, researchers, and data scientists can retrieve this metadata <a href="https://api.crossref.org/works?filter=has-ror-id:true" target="_blank">via our API</a>.</p>
+<p>So come and ROR with us and start depositing ROR IDs for both researcher affiliations and funding organisations.</p>
+<h2 id="open-funder-registry-ror-transition">Open Funder Registry-ROR transition</h2>
+<p>This is of course a significant first step in the Open Funder Registry to ROR transition.</p>
+<p>We’ve <a href="https://ror.readme.io/docs/funder-registry" target="_blank">always said</a> that we would continue supporting Funder IDs in our schema and in our tools and services until the community is ready to transition - and we will. In the last year, Crossref and ROR conducted a series of Open Funder Registry user interviews to help us understand how it was being used and identify practical challenges to this transition in our members’ workflow (thank you to those who took part, it was incredibly useful!).</p>
+<p>One major takeaway from this consultation was around the pivotal role that peer review management systems played in the Open Funder Registry-ROR transition. We look forward to seeing more service providers integrating with ROR in the future. If you are a service provider and are ready to integrate with ROR, drop <a href="mailto:support@ror.org">support@ror.org</a> an email.</p>
+<h2 id="including-ror-ids-in-crossref-metadata">Including ROR IDs in Crossref metadata</h2>
+<p>If you are ready to begin including ROR IDs in your funding metadata, you only need to include the ROR itself to identify a funder.</p>
+<p>For example:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-XML" data-lang="XML"><span class="line"><span class="cl"><span class="nt">&lt;fr:program</span> <span class="na">name=</span><span class="s">&#34;fundref&#34;</span><span class="nt">&gt;</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&lt;fr:assertion</span> <span class="na">name=</span><span class="s">&#34;ror&#34;</span><span class="nt">&gt;</span>https://ror.org/00fq5cm18<span class="nt">&lt;/fr:assertion&gt;</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&lt;fr:assertion</span> <span class="na">name=</span><span class="s">&#34;award_number&#34;</span><span class="nt">&gt;</span>10.3030/725840<span class="nt">&lt;/fr:assertion&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="nt">&lt;/fr:program&gt;</span>
+</span></span></code></pre></div><p>Examples of more complex combinations of funding information are available in our <a href="https://www.crossref.org/documentation/funder-registry/funding-data-overview/" target="_blank">documentation</a>. This update has been made across all schema that support funding metadata.</p>
+<p>Our grants schema has recently been updated to <a href="https://www.crossref.org/documentation/schema-library/grants-schema/" target="_blank">version 0.2.0</a> to support ROR IDs in place of funder identifiers as well. As with funding metadata, only the ROR ID needs to be supplied within the record:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-XML" data-lang="XML"><span class="line"><span class="cl"><span class="nt">&lt;funding</span> <span class="na">amount=</span><span class="s">&#34;750&#34;</span> <span class="na">currency=</span><span class="s">&#34;USD&#34;</span> <span class="na">funding-percentage=</span><span class="s">&#34;75&#34;</span> <span class="na">funding-type=</span><span class="s">&#34;APC&#34;</span><span class="nt">&gt;</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&lt;ROR&gt;</span>https://ror.org/02twcfp32https://ror.org/02twcfp32<span class="nt">&lt;/ROR&gt;</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&lt;funding-scheme&gt;</span>Sofa Lending Programme<span class="nt">&lt;/funding-scheme&gt;</span>
+</span></span><span class="line"><span class="cl"><span class="nt">&lt;/funding&gt;</span>
+</span></span></code></pre></div><p>Although previously a funder name was collected with the funder identifier, for both grants records and funding data in an attempt to avoid redundant, incorrect or conflicting metadata, now we’re accepting an identifier only as the ROR ID has an existing metadata record. The organisation name exists within the record in the <a href="https://ror.org/search" target="_blank">ROR registry</a> and the ROR record is the authoritative source of the name.</p>
+<h2 id="ror-ids-in-json-outputs">ROR IDs in JSON outputs</h2>
+<p>We have an existing legacy practice of representing Open Funder Registry IDs as just a DOI, but ROR IDs are represented in the JSON outputs as a full URL with id-type “ROR”, for example:</p>
+<p><strong>Funding metadata</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-JSON" data-lang="JSON"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"> <span class="s2">&#34;funder&#34;</span><span class="err">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl"> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;award&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl"> <span class="s2">&#34;10.3030/725840&#34;</span>
+</span></span><span class="line"><span class="cl"> <span class="p">],</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl"> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;https://ror.org/02twcfp32&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;id-type&#34;</span><span class="p">:</span> <span class="s2">&#34;ROR&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;asserted-by&#34;</span><span class="p">:</span> <span class="s2">&#34;publisher&#34;</span>
+</span></span><span class="line"><span class="cl"> <span class="p">}</span>
+</span></span><span class="line"><span class="cl"> <span class="p">]</span>
+</span></span><span class="line"><span class="cl"> <span class="p">}</span>
+</span></span><span class="line"><span class="cl"> <span class="p">]</span><span class="err">,</span>
+</span></span></code></pre></div><p><strong>Grant funder information</strong></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-JSON" data-lang="JSON"><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="s2">&#34;funding&#34;</span><span class="err">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl"> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;type&#34;</span><span class="p">:</span> <span class="s2">&#34;infrastructure&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;award-amount&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;amount&#34;</span><span class="p">:</span> <span class="mf">750.0</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;currency&#34;</span><span class="p">:</span> <span class="s2">&#34;USD&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;percentage&#34;</span><span class="p">:</span> <span class="mi">75</span>
+</span></span><span class="line"><span class="cl"> <span class="p">},</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;funder&#34;</span><span class="p">:</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="p">[</span>
+</span></span><span class="line"><span class="cl"> <span class="p">{</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;id&#34;</span><span class="p">:</span> <span class="s2">&#34;https://ror.org/02twcfp32&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;id-type&#34;</span><span class="p">:</span> <span class="s2">&#34;ROR&#34;</span><span class="p">,</span>
+</span></span><span class="line"><span class="cl"> <span class="nt">&#34;asserted-by&#34;</span><span class="p">:</span> <span class="s2">&#34;publisher&#34;</span>
+</span></span><span class="line"><span class="cl"> <span class="p">}</span>
+</span></span><span class="line"><span class="cl"> <span class="p">]</span>
+</span></span><span class="line"><span class="cl"> <span class="p">}</span>
+</span></span><span class="line"><span class="cl"> <span class="p">}</span>
+</span></span><span class="line"><span class="cl"> <span class="p">]</span>
+</span></span><span class="line"><span class="cl"> <span class="err">}</span>
+</span></span><span class="line"><span class="cl"> <span class="err">],</span>
+</span></span></code></pre></div><p>If you have any questions or feedback, get in touch with us <a href="mailto:support@crossref.org">support@crossref.org</a> !</p> 
+
+<br> 
+
+<https://www.crossref.org/blog/come-ror-with-us-using-ror-ids-in-place-of-funder-ids/>
 
 ---
 
@@ -135,11 +250,23 @@ A group of colonists attempt to settle in the Arctic Circle.
 
 ---
 
+## Unveiling adipose populations linked to metabolic health in obesity
+
+date: 2025-03-04, from: ETH Zurich, recently added
+
+Reinisch, Isabel; Ghosh, Adhideb; Noé, Falko; Sun, Wenfei; Dong, Hua; Leary, Peter; Dietrich, Arne; Hoffmann, Anne; Blüher, Matthias; Wolfrum, Christian 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/715478>
+
+---
+
 ## Day in Review (March 3–6)
 
 date: 2025-03-03, from: Association of Research Libraries News
 
-<p>Last Updated on March 4, 2025, 3:48 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 4 &#124; Wednesday, March 5 &#124; Thursday,...</p>
+<p>Last Updated on March 5, 2025, 3:12 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 4 &#124; Wednesday, March 5 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-3-6/">Day in Review (March 3–6)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-03-05 07:08:30
+updated: 2025-03-06 05:16:18
 ---
 
 # ham radio
 
-(date: 2025-03-05 07:08:30)
+(date: 2025-03-06 05:16:18)
+
+---
+
+## This is how an electronic system design platform works
+
+date: 2025-03-06, from: EDN Blog
+
+<img width="1200" height="675" src="https://www.edn.com/wp-content/uploads/Hero-image-Renesas-365.jpg?fit=1200%2C675" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Renesas-365.jpg?w=1200 1200w, https://www.edn.com/wp-content/uploads/Hero-image-Renesas-365.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Renesas-365.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Renesas-365.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Renesas-365.jpg?w=800 800w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>Renesas’ Altium acquisition bears fruit: A cloud platform that streamlines the design process from component selection to software development to OTA updates.</p>
+<p>The post <a href="https://www.edn.com/this-is-how-an-electronic-system-design-platform-works/" data-wpel-link="internal">This is how an electronic system design platform works</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/this-is-how-an-electronic-system-design-platform-works/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-03-05 07:08:30
 
 date: 2025-03-05, from: EDN Blog
 
-<img width="796" height="535" src="https://www.edn.com/wp-content/uploads/SimplePWM_Figure2.png?fit=796%2C535" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/SimplePWM_Figure2.png?w=796 796w, https://www.edn.com/wp-content/uploads/SimplePWM_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/SimplePWM_Figure2.png?w=768 768w" sizes="(max-width: 796px) 100vw, 796px" /><p>A simple three-component solution for a switching regulator chip to use for output voltage programming via PWM.</p>
+<img width="796" height="535" src="https://www.edn.com/wp-content/uploads/SimplePWM_Figure2.png?fit=796%2C535" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/SimplePWM_Figure2.png?w=796 796w, https://www.edn.com/wp-content/uploads/SimplePWM_Figure2.png?w=300 300w, https://www.edn.com/wp-content/uploads/SimplePWM_Figure2.png?w=768 768w" sizes="auto, (max-width: 796px) 100vw, 796px" /><p>A simple three-component solution for a switching regulator chip to use for output voltage programming via PWM.</p>
 <p>The post <a href="https://www.edn.com/three-discretes-suffice-to-interface-pwm-to-switching-regulators/" data-wpel-link="internal">Three discretes suffice to interface PWM to switching regulators</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

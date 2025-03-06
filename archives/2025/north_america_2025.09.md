@@ -1,11 +1,386 @@
 ---
 title: north america
-updated: 2025-03-05 07:08:28
+updated: 2025-03-06 05:16:16
 ---
 
 # north america
 
-(date: 2025-03-05 07:08:28)
+(date: 2025-03-06 05:16:16)
+
+---
+
+## Trump's Economic Trainwreck
+
+date: 2025-03-06, from: The Contrarian
+
+Foreign leaders get it, even as Trump remains clueless 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-economic-trainwreck>
+
+---
+
+##  You’ve Already Paid $6 Billion For Weight-Loss Drugs You Can’t Afford 
+
+date: 2025-03-06, from: The Lever News
+
+ U.S. taxpayers spent billions developing Ozempic-type diabetes and weight-loss drugs — now those drugs’ markups could bankrupt the U.S. health care system.  
+
+<br> 
+
+<https://www.levernews.com/youve-already-paid-6-billion-for-weight-loss-drugs-you-cant-afford/>
+
+---
+
+##  The Billion-Dollar Taxpayer Math Behind The Ozempic Boom 
+
+date: 2025-03-06, from: The Lever News
+
+ How Americans spent $6.2 billion to develop overpriced diabetes and weight-loss drugs.  
+
+<br> 
+
+<https://www.levernews.com/the-billion-dollar-taxpayer-math-behind-the-ozempic-boom/>
+
+---
+
+## What is even happening with the politics of this economy?!
+
+date: 2025-03-06, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>On today&#8217;s episode, we&#8217;re discussing a pair of recent rulings about the Trump administration&#8217;s efforts to cut foreign aid and fire federal workers, leaving us with a &#8220;Through the Looking-Glass&#8221; moment, where the nonsensical is reality. Plus, we&#8217;ll explain some ways to catch a breath in the midst of uncertain economic times. And, we&#8217;ll smile at a math problem solved through the power of anime fans.</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/03/05/us/politics/foreign-aid-supreme-court-trump.html">“Supreme Court Rejects Trump’s Bid to Freeze Foreign Aid”</a> from The New York Times</li>
+<li><a href="https://www.washingtonpost.com/business/2025/03/05/tariff-stock-market-stress-plan/">“How to handle the stress of tariff escalation and stock market jitters”</a> from The Washington Post</li>
+<li><a href="https://www.politico.com/news/2025/03/04/trump-trade-war-tariffs-recession-00211112">“‘He Finally Shot the Hostage’: Trump’s Trade War Is a Brutal Reality Check”</a> from Politico</li>
+<li><a href="https://www.govexec.com/workforce/2025/03/opm-retroactively-edits-probationary-firing-guidance-note-it-did-not-order-probationary-firings/403458/?oref=ge-skybox-hp">“OPM retroactively edits probationary firing guidance to note it did not order probationary firings”</a> from Government Executive</li>
+<li><a href="https://www.scientificamerican.com/article/the-surprisingly-difficult-mathematical-proof-that-anime-fans-helped-solve/">“How Anime Fans Stumbled upon a Mathematical Proof”</a> from Scientific American</li>
+<li>&#8220;<a href="https://www.washingtonpost.com/lifestyle/2025/03/04/steve-carell-prom-eaton-fire/">Steve Carell tells students affected by wildfires that prom tickets are paid for</a>&#8221; from The Washington Post</li>
+</ul>
+<p><!-- /wp:paragraph --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/05/mms_20250305_Make_Me_Smart_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-is-even-happening-with-the-politics-of-this-economy&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/05/mms_20250305_Make_Me_Smart_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-is-even-happening-with-the-politics-of-this-economy&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/what-is-even-happening-with-the-politics-of-this-economy>
+
+---
+
+## Olivia Julianna and Rep. Tom Suozzi on Ukraine and the American media space
+
+date: 2025-03-06, from: The Contrarian
+
+As politicians at home and abroad continue to reel from last Friday&#8217;s outburst between Trump and Zelensky in the Oval Office, Olivia Julianna takes some time to speak with Representative Tom Suozzi. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158447044/605c064e2257478f8a58e091c8f189ef.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158447044/605c064e2257478f8a58e091c8f189ef.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/olivia-julianna-and-rep-tom-suozzi>
+
+---
+
+## Evening Roundup: March 5
+
+date: 2025-03-06, from: The Contrarian
+
+Featuring our Wisconsin State Package; two Jen Rubin talks--with Rep. Chris Murphy & Andrew Weissmann; Bishop Reginald T. Jackson; Jennifer Weiss Wolf; David Litt; Meredith Blake and Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-5>
+
+---
+
+## Amid much uncertainty, the job market is clearly softening
+
+date: 2025-03-05, from: Market Place
+
+Private-sector hiring slowed down in February and small businesses cut jobs. Plus, new unemployment claims were up last week. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/05/job-market-softens-uncertainty-grows-hiring-unemployment-claims/>
+
+---
+
+## Welcome to Wisconsin!
+
+date: 2025-03-05, from: The Contrarian
+
+Why is the April 1 State Supreme Court election in Wisconsin so crucial? And why is Elon Musk pouring so much money into it? A multi-piece explanation is offered in this State Package 
+
+<br> 
+
+<https://contrarian.substack.com/p/welcome-to-wisconsin>
+
+---
+
+## 10-year Treasury yields are falling. Want the good news first?
+
+date: 2025-03-05, from: Market Place
+
+What's good for consumers looking for loans could be bad news for the economy. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/05/10-year-treasury-yields-are-falling-want-the-good-news-first/>
+
+---
+
+## Happy Women’s History Month, Contrarians!
+
+date: 2025-03-05, from: The Contrarian
+
+By Jennifer Weiss Wolf 
+
+<br> 
+
+<https://contrarian.substack.com/p/happy-womens-history-month-contrarians>
+
+---
+
+## The Southern Women Handling 1-800-MEDICARE Calls Still Want a Union
+
+date: 2025-03-05, from: Capital and Main
+
+<p>Federal call center workers continue their fight after the Biden administration dialed back support for it.</p>
+<p>The post <a href="https://capitalandmain.com/the-southern-women-handling-1-800-medicare-calls-still-want-a-union">The Southern Women Handling 1-800-MEDICARE Calls Still Want a Union</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-southern-women-handling-1-800-medicare-calls-still-want-a-union>
+
+---
+
+## Jen Rubin and Andrew Weissmann on 5-4 SCOTUS ruling releasing USAID funds
+
+date: 2025-03-05, from: The Contrarian
+
+In a 5-4 ruling today, the Supreme Court agreed with federal U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158466689/1d03991f1ec9981c1d9a02e64dcda27c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158466689/1d03991f1ec9981c1d9a02e64dcda27c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-andrew-weissmann-on-6b1>
+
+---
+
+## Surveys gauging the health of the service sector point in opposite directions
+
+date: 2025-03-05, from: Market Place
+
+ISM data was mostly positive, while S&#038;P Global reported weakness. The discrepancy may be down to who's responding — and when they're doing it. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/05/services-sector-tariffs-ism-s-p-global-output-growth-survey-outlook/>
+
+---
+
+## With new tariffs and more on the way, “it’s very scary” to be a farmer right now
+
+date: 2025-03-05, from: Market Place
+
+The president wants farmers to sell more in the U.S., but "you don't build those markets domestically overnight," says Iowa corn and soybean farmer April Hemmes. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/05/tariffs-its-very-scary-to-be-a-farmer-right-now/>
+
+---
+
+## Entrepreneurship took off during the pandemic. It’s still flying high.
+
+date: 2025-03-05, from: Market Place
+
+Many entrepreneurs are starting businesses adapted to the post-pandemic economy. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/05/entrepreneurship-took-off-during-the-pandemic-its-still-flying-high/>
+
+---
+
+## Experts worry about degradation of economic data after advisory committees disbanded
+
+date: 2025-03-05, from: Market Place
+
+The two groups, which existed for decades, gave expert advice to federal data scientists and played a role in government transparency. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/05/advisory-committees-economic-data-commerce-department-bureau-of-labor-statistics/>
+
+---
+
+##  The Looting Of America’s Affordable Housing Fund 
+
+date: 2025-03-05, from: The Lever News
+
+ Private equity firms are diverting billions from a Great Depression-era mortgage program — and making huge profits.  
+
+<br> 
+
+<https://www.levernews.com/the-looting-of-americas-affordable-housing-fund/>
+
+---
+
+## A test for judicial independence in Wisconsin
+
+date: 2025-03-05, from: The Contrarian
+
+Elon Musk is spending big on the state&#8217;s Supreme Court race while expressing contempt for independent courts. That&#8217;s a worrisome combination. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-test-for-judicial-independence>
+
+---
+
+## Scary bedtime stories
+
+date: 2025-03-05, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/scary-bedtime-stories>
+
+---
+
+## The State of the Union Is Less Than Ideal
+
+date: 2025-03-05, from: The Contrarian
+
+For some reason, the Trump Team Didn&#8217;t Use My Speech 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-state-of-the-union-is-less-than>
+
+---
+
+## Elon Musk Turns His Eye—and His Wallet—Towards Wisconsin
+
+date: 2025-03-05, from: The Contrarian
+
+For a kleptocrat with endless ambition, the Wisconsin Supreme Court election is a bargain buy 
+
+<br> 
+
+<https://contrarian.substack.com/p/elon-musk-turns-his-eyeand-his-wallettowards>
+
+---
+
+## Jen Rubin and Senator Chris Murphy talk American global influence and the fate of Ukraine
+
+date: 2025-03-05, from: The Contrarian
+
+Jen Rubin joins Senator Chris Murphy (D-CT) to discuss Trump&#8217;s disastrous speech, the future of America as a global power, the fate of Ukraine, and what can be done to rebuild our democracy. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158451038/9723a837f18fd22a7a43bda452dc6229.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158451038/9723a837f18fd22a7a43bda452dc6229.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-senator-chris-murphy>
+
+---
+
+##  The Cancer Gag Act Of 2025 
+
+date: 2025-03-05, from: The Lever News
+
+ The chemical maker behind Roundup weed killer is lobbying the government to unilaterally block cancer victims from suing them.  
+
+<br> 
+
+<https://www.levernews.com/the-cancer-gag-act-of-2025/>
+
+---
+
+## Why wearing pink was the wrong choice for the Democrats Tuesday night
+
+date: 2025-03-05, from: The Contrarian
+
+And why AOC's purple sweater sent a more effective message of resistance 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-wearing-pink-was-the-wrong-choice>
+
+---
+
+##  Musk’s Big Senate Vote 
+
+date: 2025-03-05, from: The Lever News
+
+ Lawmakers will decide on whether to deregulate payment apps, including the billionaire’s newest business venture.  
+
+<br> 
+
+<https://www.levernews.com/musks-big-senate-vote/>
+
+---
+
+## What did you do at work last week? Monitoring performance doesn’t improve it, expert says
+
+date: 2025-03-05, from: Market Place
+
+Adam Grant of The Wharton School describes evidence-based strategies for getting the best out of employees. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/05/how-do-workers-feel-government-private-sector-layoffs-job-cuts/>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-05, from: The Contrarian
+
+Wednesday: A town hall in Wylie, Texas., a congressional objection, a billboard broadcasting truth, the stock market and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Coffee with The Contrarians 03/05
+
+date: 2025-03-05, from: The Contrarian
+
+A recording from Harry Litman and Jen Rubin's live Coffee with The Contrarians 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158440174/c021f1f1fd2d12b80b6941673c9bd42b.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158440174/c021f1f1fd2d12b80b6941673c9bd42b.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0305>
+
+---
+
+## Black faith leaders must lead the resistance and seize this historic moment
+
+date: 2025-03-05, from: The Contrarian
+
+We must move, and we must move now. 
+
+<br> 
+
+<https://contrarian.substack.com/p/black-faith-leaders-must-lead-the>
 
 ---
 
@@ -42,18 +417,6 @@ Making China and Russia Great Again
 <br> 
 
 <https://contrarian.substack.com/p/the-american-century-is-over>
-
----
-
-##  The Looting Of America’s Affordable Housing Fund 
-
-date: 2025-03-05, from: The Lever News
-
- Private equity firms are diverting billions from a Great Depression-era mortgage program — and making huge profits.  
-
-<br> 
-
-<https://www.levernews.com/the-looting-of-americas-affordable-housing-fund/>
 
 ---
 
@@ -357,18 +720,6 @@ Trump's Cabinet: A Team of Lickspittles
 <br> 
 
 <https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-ba8>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-04, from: The Contrarian
-
-Tuesday: Folks thank federal workers in Washington, D.C., New Yorkers stand in support of Ukraine, and the sanctity of our national parks is celebrated at Yellowstone. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

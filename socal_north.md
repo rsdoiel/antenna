@@ -1,11 +1,349 @@
 ---
 title: socal north
-updated: 2025-03-05 07:08:29
+updated: 2025-03-06 05:16:17
 ---
 
 # socal north
 
-(date: 2025-03-05 07:08:29)
+(date: 2025-03-06 05:16:17)
+
+---
+
+## There's money for fire survivors. Why are some struggling to get it?
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+Almost two months after the L.A. fires, some childcare providers who lost their homes and businesses say they're not able to access the aid they've been told to apply for. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/eaton-fire-getting-help-aid-childcare-providers>
+
+---
+
+## As LA restaurants reel from egg prices, a cafe owner wants the government to step in
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+Richard Williams, co-owner of Atwater's Village Bakery and Cafe, says the recent billion-dollar bird flu package won’t help quickly enough. 
+
+<br> 
+
+<https://laist.com/news/food/as-la-restaurants-reel-from-egg-prices-a-cafe-owner-wants-the-government-to-step-in>
+
+---
+
+## Winter storm warning in place for local mountains as temperatures take a dive
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+Cold, widespread showers and mountain snow are in today's forecast. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/winter-storm-cold-air>
+
+---
+
+## Here’s an easy way you can help California native wildflowers thrive
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+A new study found that simple raking can help more native plants grow. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/riverside-wildflower-native-plants-garden-thatch-gardening>
+
+---
+
+## After the fires, will behind-the-scenes film and TV workers also leave LA?
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+Staying in LA will be even harder for grips, gaffers and lighting techs with roughly 13,000 homes lost in January's fires. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/after-fires-will-behind-the-scenes-film-and-tv-workers-leave-la>
+
+---
+
+## Trump prepares order dismantling the Education Department
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+The draft executive action, obtained by NPR, acknowledges the department and its signature responsibilities were created by Congress, and cannot legally be altered without congressional approval. 
+
+<br> 
+
+<https://laist.com/news/education/trump-prepares-order-dismantling-the-education-department>
+
+---
+
+## Zelenskyy Califica de “Lamentable” su Altercado con Trump, Dice estar Listo para Trabajar por la Paz
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="682" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?fit=1024%2C682&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=1024%2C682&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25059642193910-scaled.jpg?fit=1024%2C682&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Por Samya Kullab y Hanna Arhirova Associated Press KIEV, Ucrania (AP) — El presidente ucraniano Volodymyr Zelenskyy afirmó el martes que su explosiva reunión en el Despacho Oval con el presidente [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/zelenskyy-califica-de-lamentable-su-altercado-con-trump-dice-estar-listo-para-trabajar-por-la-paz/">Zelenskyy Califica de “Lamentable” su Altercado con Trump, Dice estar Listo para Trabajar por la Paz</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/zelenskyy-califica-de-lamentable-su-altercado-con-trump-dice-estar-listo-para-trabajar-por-la-paz/>
+
+---
+
+## LULAC Responde al Discurso del Presidente Trump Ante una Sesión Conjunta del Congreso: Un Discurso Divisivo de Miedo Sobre la Unidad
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por David Cruz La Liga de Ciudadanos Latinoamericanos Unidos (LULAC, por sus siglas en inglés) condena enérgicamente el discurso del presidente Donald Trump ante una sesión conjunta del Congreso el [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/lulac-responde-al-discurso-del-presidente-trump-ante-una-sesion-conjunta-del-congreso-un-discurso-divisivo-de-miedo-sobre-la-unidad/">LULAC Responde al Discurso del Presidente Trump Ante una Sesión Conjunta del Congreso: Un Discurso Divisivo de Miedo Sobre la Unidad</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/lulac-responde-al-discurso-del-presidente-trump-ante-una-sesion-conjunta-del-congreso-un-discurso-divisivo-de-miedo-sobre-la-unidad/>
+
+---
+
+## Trump administration can remove head of federal watchdog agency, appeals court rules
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+A U.S. appeals court has sided with the administration in allowing the removal of Hampton Dellinger from the Office of Special Counsel. The office investigates actions like whistleblower retaliation. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-administration-can-remove-head-of-federal-watchdog-agency-appeals-court-rules>
+
+---
+
+## Horóscopo
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>ARIES (21 de mar &#8211; 19 de abr) El hecho de que algo sea lo correcto no hace que sea menos esfuerzo. Y si tu actitud no siempre es entusiasta, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/horoscopo-205/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/horoscopo-205/>
+
+---
+
+## EVENTOS Locales – Semana de 6 de marzo, 2025
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Marzo 7 Viernes por la Noche en Vivo en el Chateau The Comedy Chateau 4615 Lankershim Blvd. North Hollywood 7:30 p.m. – 10:30 p.m. ¡Ven a ver a los [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/eventos-locales-semana-de-6-de-marzo-2025/">EVENTOS Locales &#8211; Semana de 6 de marzo, 2025 </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/eventos-locales-semana-de-6-de-marzo-2025/>
+
+---
+
+## Estudiantes del Valle se Declaran en Huelga para Protestar Contra las Políticas de Inmigración
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/02282025_All-Valley-Protest_SN_08-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Desde Arleta hasta Reseda, los estudiantes de secundaria y secundaria se unieron para una “Protesta en todo el valle” contra las políticas de inmigración de la administración Trump y la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/estudiantes-del-valle-se-declaran-en-huelga-para-protestar-contra-las-politicas-de-inmigracion/">Estudiantes del Valle se Declaran en Huelga para Protestar Contra las Políticas de Inmigración</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/estudiantes-del-valle-se-declaran-en-huelga-para-protestar-contra-las-politicas-de-inmigracion/>
+
+---
+
+## Representantes del Valle Noreste, Activista Comunitario Reacciona al Discurso de Trump Ante el Congreso
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>El discurso del presidente Donald Trump el martes por la noche ante una sesión conjunta del Congreso, en el que se jactó de sus logros en las primeras seis semanas [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/representantes-del-valle-noreste-activista-comunitario-reacciona-al-discurso-de-trump-ante-el-congreso/">Representantes del Valle Noreste, Activista Comunitario Reacciona al Discurso de Trump Ante el Congreso</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/representantes-del-valle-noreste-activista-comunitario-reacciona-al-discurso-de-trump-ante-el-congreso/>
+
+---
+
+## La Gran Marcha Llamó a los Residentes del Valle a Organizarse
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_3898-scaled-e1741241425883.jpeg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_3898-scaled-e1741241425883.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_3898-scaled-e1741241425883.jpeg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_3898-scaled-e1741241425883.jpeg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_3898-scaled-e1741241425883.jpeg?fit=1024%2C577&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El fin de semana pasado, una coalición de organizaciones y residentes se unieron para “La Gran Marcha Del Valle De San Fernando” en Pacoima, para protestar contra todo, desde las [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/la-gran-marcha-llamo-a-los-residentes-del-valle-a-organizarse/">La Gran Marcha Llamó a los Residentes del Valle a Organizarse</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/la-gran-marcha-llamo-a-los-residentes-del-valle-a-organizarse/>
+
+---
+
+## Líderes de los Derechos de las Mujeres Piden a los Angelinos que “se Encuentren Conmigo en la Marcha”
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="470" height="246" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Dolores-SFV-Sun_elsol.jpg?fit=470%2C246&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Dolores-SFV-Sun_elsol.jpg?w=470&amp;ssl=1 470w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Dolores-SFV-Sun_elsol.jpg?resize=300%2C157&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Dolores-SFV-Sun_elsol.jpg?resize=400%2C209&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Dolores-SFV-Sun_elsol.jpg?fit=470%2C246&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Mujeres de todo el país y del mundo saldrán a las calles el 8 de marzo, Día Internacional de la Mujer. Nacido de los movimientos laborales de las mujeres, el [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/lideres-de-los-derechos-de-las-mujeres-piden-a-los-angelinos-que-se-encuentren-conmigo-en-la-marcha/">Líderes de los Derechos de las Mujeres Piden a los Angelinos que &#8220;se Encuentren Conmigo en la Marcha&#8221;</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/lideres-de-los-derechos-de-las-mujeres-piden-a-los-angelinos-que-se-encuentren-conmigo-en-la-marcha/>
+
+---
+
+## El Programa de SRLA Recauda Fondos para los Estudiantes Antes del Maratón de Los Ángeles
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SRLA-Letters-scaled.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Falta poco más de una semana para el Maratón de Los Ángeles, y se espera que 25,000 participantes se reúnan en el Dodger Stadium para la carrera de 26.2 millas. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/el-programa-de-srla-recauda-fondos-para-los-estudiantes-antes-del-maraton-de-los-angeles/">El Programa de SRLA Recauda Fondos para los Estudiantes Antes del Maratón de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/el-programa-de-srla-recauda-fondos-para-los-estudiantes-antes-del-maraton-de-los-angeles/>
+
+---
+
+## Mujeres al Borde del Abismo
+
+date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Photo-4-l-to-r-Tricia-Alejandra-Tina-Jasia-and-Carmelita-Photo-by-Steve-Moyer_elsol.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Hace años, la profesora de composición de CSUN Vilma Villela trabajó como voluntaria en una pequeña sala de teatro del este de Los Ángeles, lo que a su vez le [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/05/mujeres-al-borde-del-abismo/">Mujeres al Borde del Abismo </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/05/mujeres-al-borde-del-abismo/>
+
+---
+
+## LA committee explores pulling homelessness funds from regional agency
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+The proposal mirrors a similar move by L.A. County leaders, who have also criticized LAHSA for oversight and accounting problems. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-council-housing-homelessness-committee-vote-lahsa-funding>
+
+---
+
+## By the numbers: Does LeBron James' new points record shake up the GOAT debate?
+
+date: 2025-03-05, updated: 2025-03-06, from: The LAist
+
+At age 40, where does LeBron James' 50,000 career points record put him in the GOAT debate? 
+
+<br> 
+
+<https://laist.com/news/by-the-numbers-does-lebron-james-new-points-record-shake-up-the-goat-debate>
+
+---
+
+## Another SoCal city just made life harder for people living on the street. Here's how
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+Cities are cracking down on homeless encampments after a recent state Supreme Court decision gave them the greenlight to do so. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/fullerton-cracks-down-on-homelessness>
+
+---
+
+## Storm hits SoCal: Parts of Sierra Madre once again under evacuation warning
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+Any significant rain could trigger mud and debris flows, Sierra Madre's fire chief says. Debris basins are not empty, as they were during February's storm, and that could mean trouble. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sierra-madre-evacuation-warning>
+
+---
+
+## Nearly 6,000 USDA workers fired by Trump ordered back to work for now
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+The U.S. Department of Agriculture must temporarily reinstate nearly 6,000 probationary employees fired since Feb. 13, according to a ruling by the Merit Systems Protection Board. 
+
+<br> 
+
+<https://laist.com/news/politics/nearly-6-000-usda-workers-fired-ordered-back-to-work-for-now>
+
+---
+
+## The window for victims of the LA fires to apply for FEMA funding is rapidly closing
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+Federal funds can be used toward home repairs and other expenses like childcare. 
+
+<br> 
+
+<https://laist.com/news/fema-funding-deadline-la-fire-victims>
+
+---
+
+## LA County and two cities sue SoCal Edison over damage from deadly Eaton Fire
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+The lawsuits allege that SCE's equipment caused the fire that destroyed swaths of Altadena, prompting massive emergency response and ongoing cleanup costs. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-two-cities-sues-socal-edison-over-damage-caused-by-deadly-eaton-fire>
+
+---
+
+## California lawmaker seeks to protect street vendors’ personal data from ICE
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+Street vendors may soon see privacy protections from immigration enforcement. 
+
+<br> 
+
+<https://laist.com/news/politics/california-lawmaker-seeks-to-protect-street-vendors-personal-data-from-ice>
+
+---
+
+## Storm is headed for Big Bear’s famous bald eagle nest. What it means for newly hatched chicks
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+Up to a foot of snow, a brief burst of rain and whipping winds could hit the nest in the San Bernardino National Forest late Wednesday into early Friday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/storm-big-bear-bald-eagle-chicks>
 
 ---
 
@@ -71,7 +409,7 @@ As President Trump addressed a joint session of Congress, reporters from across 
 
 ## Judge rips into OC prosecutors and calls their misconduct 'reprehensible'
 
-date: 2025-03-05, updated: 2025-03-05, from: The LAist
+date: 2025-03-05, updated: 2025-03-06, from: The LAist
 
 Dozens of old criminal convictions should be revisited because of the misconduct, the defense says. 
 
@@ -167,7 +505,7 @@ The new passes will start to be distributed Tuesday and are for people, business
 
 ## Proposed LAUSD calendar commits to three-week winter break
 
-date: 2025-03-04, updated: 2025-03-04, from: The LAist
+date: 2025-03-04, updated: 2025-03-06, from: The LAist
 
 The proposal carves out a full week for optional school days during the winter break. 
 

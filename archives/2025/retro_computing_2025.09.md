@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-03-05 07:08:34
+updated: 2025-03-06 05:16:23
 ---
 
 # retro computing
 
-(date: 2025-03-05 07:08:34)
+(date: 2025-03-06 05:16:23)
+
+---
+
+## Blender App Makes it to the Big Screen
+
+date: 2025-03-05, from: Linux Magazine
+
+<p>The animated film &quot;Flow&quot; won the Oscar for Best Animated Feature at the 97th Academy Awards held on March 2, 2025 and Blender was a part of it.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Blender-App-Makes-it-to-the-Big-Screen>
 
 ---
 

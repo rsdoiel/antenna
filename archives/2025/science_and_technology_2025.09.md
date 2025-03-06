@@ -1,19 +1,379 @@
 ---
 title: science and technology
-updated: 2025-03-05 07:08:30
+updated: 2025-03-06 05:16:19
 ---
 
 # science and technology
 
-(date: 2025-03-05 07:08:30)
+(date: 2025-03-06 05:16:19)
 
 ---
 
-## Apple takes UK government to court over 'backdoor' order
+## Oh Brother. Printer giant denies dirty toner tricks as users cry foul
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>You were supposed to destroy the Sith, not join them!</h4> <p>Brother is the latest printer manufacturer to come under fire over alleged sharp practices around the use of third-party consumables versus its own ink supplies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/brother_firmware_update_toner/>
+
+---
+
+## 101 fun things to do with a locked Kindle e-reader
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Jailbreak it, or even gut it and turn its screen into a low-power portable display with a Modos e-ink controller</h4> <p><strong>FOSDEM 2025</strong>  Amazon&#39;s Kindle e-readers just got a bit less useful, but help is at hand, from jailbreaking to making one of the devices into a monitor.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/kindle_and_modos/>
+
+---
+
+## UK must give more to ESA to get benefits of space industry boom, says Brian Cox
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Physicist and media darling argues partnership with NASA too prone to political whim</h4> <p>The UK should hitch its cosmic wagon to the European space agency and contribute more cash to the intergovernmental body, professor Brian Cox, musician, media luvvie and Manchester University particle physicist, told the UK&#39;s second Parliamentary chamber this week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/uk_needs_to_contribute_more/>
+
+---
+
+## Microsoft goes native with Copilot. Again
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>This time we mean it for the Windows chatbot</h4> <p>Microsoft has revamped its Copilot app on Windows once again, this time insisting it really has gone native.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/microsoft_goes_native_with_copilot/>
+
+---
+
+## Satnav systems built for Earth used by Blue Ghost lander as it approached the Moon
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>No, your car can&#39;t navigate in space. But perhaps colonies can find their way without dedicated lunar GPS</h4> <p>An experimental module attached to Firefly Aerospace&#39;s Blue Ghost Moon lander successfully used Earth&#39;s orbiting satnav systems, a feat that suggests a specialized lunar positioning system may not be needed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/blue_ghost_lugre_module_acquires/>
+
+---
+
+## Xen Project delivers solid hypervisor update and keeps working on RISC-V port
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>While we’re talking open source V12N, meet SEAPATH: A new hypervisor for electricity grids backed by Red Hat</h4> <p>The Xen Project has delivered an update to its flagship hypervisor.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/xen_seapath_open_source_hypervisors/>
+
+---
+
+## Cybereason CEO leaves after months of boardroom blowups
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Complaint alleges 13 funding proposals foundered amid battle for control</h4> <p>Eric Gan is no longer CEO of AI security biz Cybereason after what appears to have been a protracted and unpleasant fight with investors, including the SoftBank Vision Fund and Liberty Strategic Capital.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/cybereason_ceo_leaves/>
+
+---
+
+## Feds name and charge alleged Silk Typhoon spies behind years of China-on-US attacks
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Xi&#39;s freelance infosec warriors apparently paid up to $75K to crack a single American inbox</h4> <p>US government agencies announced Wednesday criminal charges against alleged members of China&#39;s Silk Typhoon gang, plus internet domain seizures linked to a long-term Chinese espionage campaign that saw Beijing hire miscreants to compromise US government agencies and other major orgs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/fbi_china_pays_75k_per/>
+
+---
+
+## NetBSD on a JavaStation
+
+date: 2025-03-06, from: OS News
+
+Back when Java was still a new programming language, Sun had the idea of building a computer specifically designed for Java, unique processor running byte-code as its native machine code and all. This whole endeavour proved to be more complicated than Sun had hoped, and as such, they eventually abandoned the idea of a Java processor in favour of plain SPARC. When the JavaStation shipped, it was a regular SPARC workstation without a hard drive, running something called JavaOS from flash memory. Since JavaOS is, of course, long gone, what can you do with JavaStation today? Well, you apparently can run NetBSD on it, but it&#8217;s quite an ordeal. The JavaStation needs to boot from the network using a combination of RARP, NFS, and more, and surprisingly, this entire setup, including the computer acting as the &#8216;server&#8217; for the JavaStation, is well-documented and supported by NetBSD. Once you&#8217;ve gone through all the steps, you&#8217;ll end up with a JavaStation running the latest release of NetBSD, which is pretty cool. Obviously there is still a lot to do; as you can see postfix isn’t happy, and the swapfile security needs tightening up for a start. But we do now have a functional NetBSD system running on a vintage network computer! ↫ Old Fart&#8217;s Almanac NetBSD&#8217;s continued support for the most arcane of hardware will never cease to amaze me. 
+
+<br> 
+
+<https://www.osnews.com/story/141870/netbsd-on-a-javastation/>
+
+---
+
+## The Next Full Moon is the Worm Moon
+
+date: 2025-03-06, from: NASA breaking news
+
+The next full moon is called the Worm Moon. Also, there will be a total lunar eclipse this full moon. The Moon will be full early Friday morning, March 14, at 2:55 a.m. EDT, but will appear full for about three days around this time, from Wednesday evening into Saturday morning. As the Moon passes […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-worm-moon/>
+
+---
+
+## Intel wins something: Judge tosses out shareholder lawsuit over foundry losses
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>If you find Chipzilla&#39;s financial figures hard to parse, don&#39;t worry, it stumped these folks, too</h4> <p>Intel has dodged at least one shareholder lawsuit accusing the chipmaker of misleading investors about the health of its struggling foundry business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/intel_lawsuit_foundry/>
+
+---
+
+## ROAMX testing in the Planetary Aeolian Laboratory (PAL) at NASA Ames Research Center
+
+date: 2025-03-05, from: NASA breaking news
+
+During 2024-2025, helicopter blades optimized for Mars were tested in the Planetary Aeolian Laboratory (PAL) at NASA Ames Research Center as part of the Rotor Optimization for the Advancement of Mars eXploration (ROAMX) project.  The experimental test-chamber of the PAL can be depressurized to create atmospheric air pressures of different planetary bodies such as Mars. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/roamx-testing-in-the-planetary-aeolian-laboratory-pal-at-nasa-ames-research-center/>
+
+---
+
+## Zen and the art of microcode hacking
+
+date: 2025-03-05, from: OS News
+
+Now that we have examined the vulnerability that enables arbitrary microcode patches to be installed on all (un-patched) Zen 1 through Zen 4 CPUs, let&#8217;s discuss how you can use and expand our tools to author your own patches. We have been working on developing a collection of tools combined into a single project we’re calling zentool. The long-term goal is to provide a suite of capabilities similar to binutils, but targeting AMD microcode instead of CPU machine code. You can find the project source code here along with documentation on how to use the tools. ↫ Google&#8217;s Bug Hunters website I just read a whole bunch of words, but I barely understand what&#8217;s going on. The general, very simplified gist is that the researchers discovered a way for an attacker with local administrator privileges to load arbitrary microcode onto AMD Zen 1-4 processors. 
+
+<br> 
+
+<https://www.osnews.com/story/141867/zen-and-the-art-of-microcode-hacking/>
+
+---
+
+## Ex-NSA grandee says Trump's staff cuts will 'devastate' America's national security
 
 date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
 
-<h4>A first-of-its-kind legal challenge set to be heard this month, per reports</h4> <p>Apple has reportedly filed a legal complaint with the UK&#39;s Investigatory Powers Tribunal (IPT) contesting the UK government&#39;s order that it must forcibly break the encryption of iCloud data.…</p> 
+<h4>Would &#39;destroy a pipeline of top talent essential for hunting&#39; Chinese spies in US networks, Congress told</h4> <p><strong>Video</strong>  Looming staffing cuts to America&#39;s security and intelligence agencies, if carried out, would &#34;have a devastating effect on cybersecurity and our national security,&#34; former NSA bigwig Rob Joyce has told House representatives.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/us_government_job_cuts_nsa/>
+
+---
+
+## Microsoft Publisher will no longer be supported after October 2026
+
+date: 2025-03-05, from: OS News
+
+In October 2026, Microsoft Publisher will reach its end of life. After that time, it will no longer be included in Microsoft 365 and existing on-premises suites will no longer be supported. Microsoft 365 subscribers will no longer be able to open or edit Publisher files in Publisher. Until then, support for Publisher will continue and users can expect the same experience as today. ↫ Microsoft&#8217;s Support website Microsoft Publisher is an application with a long history, and it&#8217;s been part of Microsoft Office for almost 35 years. The initial 1.0 version was released all the way back in 1991, and it&#8217;s tried to compete with tools like InDesign and QuarkXPress in the desktop publishing market, but it never gained much of a share. Microsoft advises users of Publisher to use a combination of Word, PowerPoint, or Designer instead, which, of course, are all Microsoft products too. Due to Microsoft&#8217;s stupidly complex naming schemes and branding changes over the years, you might assume that the quoted paragraph means Publisher will just stop working for everyone, but that&#8217;s not the case. People who have the regular, non-subscription version of Publisher, probably as part of Microsoft Office, will of course be able to keep using it perpetually, just without support. If you use Office through Microsoft 365, however, the application will just&#8230; Stop working. Welcome to the future, I guess. I&#8217;m curious, though &#8211; do any of you use Microsoft Publisher, at home or at your work? I assumed the entire desktop publishing market was locked up by things like InDesign and QuarkXPress, and I had almost forgotten Publisher was still a thing in the first place. 
+
+<br> 
+
+<https://www.osnews.com/story/141865/microsoft-publisher-will-no-longer-be-supported-after-october-2026/>
+
+---
+
+## Sols 4471-4472: Marching Through the Canyon
+
+date: 2025-03-05, from: NASA breaking news
+
+Written by Scott VanBommel, Planetary Scientist at Washington University Earth planning date: Monday, March 3, 2025 Curiosity continued steady progress through the upper sulfate unit and toward its next major science waypoint: the boxwork structures. Our rover is currently driving south through a local canyon between “Texoli” and “Gould Mesa.” This route may expose the […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4471-4472-marching-through-the-canyon/>
+
+---
+
+## What is a NASA Spinoff? We Asked a NASA Expert: Episode 53
+
+date: 2025-03-05, from: NASA breaking news
+
+What is a NASA Spinoff? Well, to answer that question, we’re going to have to go all the way back to 1958, back to the legislation that originally created the space agency, NASA. So in that legislation, there&#8217;s some forward-looking language that says, “Make sure that all the cool stuff you develop for space doesn&#8217;t [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/what-is-a-nasa-spinoff-we-asked-a-nasa-expert-episode-53/>
+
+---
+
+## It begins: Pentagon to give AI agents a role in decision making, ops planning
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Former allies, take note. This is a WOPR</h4> <p><strong>Updated</strong>  The American military has signed a deal with Scale AI to give artificial intelligence, as far as we can tell, its most prominent role in the Western defense sector to date – with AI agents to now be used in planning and operations. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/dod_taps_scale_to_bring/>
+
+---
+
+## Run DeepSeek R1 on an Apple M3 Ultra Mac Studio? Sure, it'll just cost you $9,499-plus
+
+date: 2025-03-05, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Desktop family gets chip boost as MacBook Air bags an M4 upgrade, more memory, price cut</h4> <p>Apple&#39;s newly refreshed Mac Studio has arrived bristling with up to 32 CPU and 80 GPU cores, and as much as 512GB of unified memory on board.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/apple_m3_ultra_mac_studio/>
+
+---
+
+## NASA Sets Coverage for Agency’s SpaceX Crew-10 Launch, Docking
+
+date: 2025-03-05, from: NASA breaking news
+
+Editor&#8217;s Note: This advisory was updated March 5, 2025, to correct that media may ask questions by phone only during the mission overview teleconference. NASA will provide coverage of the upcoming prelaunch and launch activities for the agency’s SpaceX Crew-10 mission to the International Space Station. Liftoff is targeted for 7:48 p.m. EDT, Wednesday, March [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-agencys-spacex-crew-10-launch-docking/>
+
+---
+
+## How NASA is Using Virtual Reality to Prepare for Science on Moon
+
+date: 2025-03-05, from: NASA breaking news
+
+When astronauts walk on the Moon, they’ll serve as the eyes, hands, and boots-on-the-ground interpreters supporting the broader teams of scientists on Earth. NASA is leveraging virtual reality to provide high-fidelity, cost-effective support to prepare crew members, flight control teams, and science teams for a return to the Moon through its Artemis campaign. The Artemis […] 
+
+<br> 
+
+<https://science.nasa.gov/uncategorized/how-nasa-is-using-virtual-reality-to-prepare-for-science-on-moon/>
+
+---
+
+## NASA Turns Off 2 Voyager Science Instruments to Extend Mission
+
+date: 2025-03-05, from: NASA breaking news
+
+The farthest-flung human-made objects will be able to take their science-gathering even farther, thanks to these energy-conserving measures. Mission engineers at NASA’s Jet Propulsion Laboratory in Southern California turned off the cosmic ray subsystem experiment aboard Voyager 1 on Feb. 25 and will shut off Voyager 2’s low-energy charged particle instrument on March 24. Three [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/nasa-turns-off-2-voyager-science-instruments-to-extend-mission/>
+
+---
+
+## China's Silk Typhoon, tied to US Treasury break-in, now hammers IT and govt targets
+
+date: 2025-03-05, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>They&#39;re good at zero-day exploits, too</h4> <p><strong>Updated</strong>  Silk Typhoon, the Chinese government crew believed to be behind the December US Treasury intrusions, has been abusing stolen API keys and cloud credentials in ongoing attacks targeting IT companies and state and local government agencies since late 2024, according to Microsoft Threat Intelligence.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/china_silk_typhoon_update/>
+
+---
+
+## Brits end probe into Microsoft's $13B bankrolling of OpenAI
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Redmond doesn&#39;t have total control over GPT maker so we lack authority, say monopoly cops</h4> <p>The UK&#39;s investigation into competition concerns arising from Microsoft&#39;s $13 billion investment in OpenAI has reached a conclusion, albeit an anticlimactic one in which officials have left loose ends.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/cma_microsoft_openai/>
+
+---
+
+## NASA’s Ethics Program
+
+date: 2025-03-05, from: NASA breaking news
+
+NASA’s Ethics Program provides training and counsel to NASA employees and is responsible for the day-to-day management of the agency-wide ethics program. Headquarters and Center Chief Counsels ethics officials support the ethics program in their respective localities. A list of ethics officials at each NASA location can be found here: Headquarters and Center Ethics Officials. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/ogc-ethics-program/>
+
+---
+
+## Novel Recuperator Design for Cryogenic Fluid Management System
+
+date: 2025-03-05, from: NASA breaking news
+
+Cryocoolers are essential systems in many space exploration missions to maintain propellants at cryogenic temperatures. Cryogenic recuperators are a key component of these cryocoolers and dictate the performance of the system. NASA is seeking to reduce the cost and increase the performance of cryogenic recuperators (also called Heat Exchangers) by utilizing Additive Manufacturing (AM) technologies. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/novel-recuperator-design-for-cryogenic-fluid-management-system/>
+
+---
+
+## Hubble Captures New View of Colorful Veil
+
+date: 2025-03-05, from: NASA breaking news
+
+In this NASA/ESA&#160;Hubble Space Telescope&#160;image, Hubble once again lifts the veil on a famous — and frequently photographed — supernova remnant: the Veil Nebula. The remnant of a star roughly 20 times as massive as the Sun that exploded about 10,000 years ago, the Veil Nebula is situated about 2,400 light-years away in the constellation [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/830089/>
+
+---
+
+## Trump says US should kill CHIPS Act, use the cash to cut debt
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Lemme guess ... he&#39;ll fix it all with tariffs? We sat through the entire speech so you don&#39;t have to</h4> <p>Donald Trump has renewed his call for CHIPS Act funding to be cancelled, and suggests any remaining money be set against national debt.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/trump_speech_scrap_chips_act/>
+
+---
+
+## iOS users left refreshing in vain as Microsoft Outlook woes drag on
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>Native mail app? More like no mail app</h4> <p>Users of Microsoft Outlook on Apple devices are experiencing service disruptions for a second day.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/outlookcom_ios/>
+
+---
+
+## A New, Chemical View of Ecosystems
+
+date: 2025-03-05, from: Quanta Magazine
+
+Rare and powerful compounds, known as keystone molecules, can build a web of invisible interactions among species.            <p>The post <a href="https://www.quantamagazine.org/a-new-chemical-view-of-ecosystems-20250305/" target="_blank">A New, Chemical View of Ecosystems</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/a-new-chemical-view-of-ecosystems-20250305/>
+
+---
+
+## Apple drags UK government to court over 'backdoor' order
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>A first-of-its-kind legal challenge set to be heard this month, per reports</h4> <p><strong>Updated</strong>  Apple has reportedly filed a legal complaint with the UK&#39;s Investigatory Powers Tribunal (IPT) contesting the British government&#39;s order that it must forcibly break the encryption of iCloud data.…</p> 
 
 <br> 
 
@@ -83,7 +443,7 @@ date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
 
 ## Worry not. China's on the line saying AGI still a long way off
 
-date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+date: 2025-03-05, updated: 2025-03-06, from: The Register (UK I.T. News)
 
 <h4>Instead of Turing Test, subject models to this Survival Game to assess intelligence, scientist tells <i>The Reg</i></h4> <p>In 1950, Alan Turing proposed the Imitation Game, better known as the Turing Test, to identify when a computer&#39;s response to questions becomes convincing enough that the interrogator believes the machine could be human.…</p> 
 
@@ -93,11 +453,11 @@ date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
 
 ---
 
-## Qilin ransomware gang claims attacks on cancer clinic, OB-GYN facility
+## Qilin ransomware gang boasts of cyberattacks on cancer clinic, Ob-Gyn facility
 
-date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+date: 2025-03-05, updated: 2025-03-06, from: The Register (UK I.T. News)
 
-<h4>List of attacks by &#39;No regrets&#39; crew leaking highly sensitive data continues to grow</h4> <p>Qilin – the &#34;no regrets&#34; ransomware crew wreaking havoc on the global healthcare industry – just claimed responsibility for fresh attacks on a cancer treatment clinic in Japan and a women&#39;s healthcare facility in the US.…</p> 
+<h4>&#39;No regrets&#39; crew continues extorting victims, leaking highly sensitive data</h4> <p>Qilin – the &#34;no regrets&#34; ransomware crew wreaking havoc on the global healthcare industry – just claimed responsibility for fresh attacks on a cancer treatment clinic in Japan and a women&#39;s healthcare facility in the US.…</p> 
 
 <br> 
 
@@ -150,6 +510,18 @@ date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/05/snail_mail_data_release_extortion/>
+
+---
+
+## As Alibaba launches server-grade RISC-V CPU, Beijing throws its weight behind ISA
+
+date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+
+<h4>A major policy directive strongly suggesting use of the royalty-free architecture is apparently imminent</h4> <p>The permissively licensed RISC-V instruction set architecture appears to be gaining significant momentum in China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/05/china_alibaba_risc_v_c930/>
 
 ---
 

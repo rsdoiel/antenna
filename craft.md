@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-03-05 07:08:35
+updated: 2025-03-06 05:16:24
 ---
 
 # craft
 
-(date: 2025-03-05 07:08:35)
+(date: 2025-03-06 05:16:24)
+
+---
+
+## Anthe Entrances – There are Several
+
+date: 2025-03-06, from: Lost Arg Press blog
+
+Planning to join us for the Anthe Open House this Sunday (March 9) from 2-5 p.m.? We hope so! It&#8217;s our public celebration of the new Lost Art Press editorial headquarters, storefront and warehouse – and it&#8217;s been a lot of work and a long time coming. We are glad to be done. (OK…done for... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/06/anthe-entrances-there-are-several/>
+
+---
+
+## Woodworking (Or Not) While Broken
+
+date: 2025-03-06, from: Lost Arg Press blog
+
+If you hate oversharing, close this page now and go on your merry way. Still here? OK – you&#8217;re about to read about what a wuss I am, because with just one weekend&#8217;s exception (and it was probably a mistake), my woodworking has been limited to reading, writing and editing about it. Oh – and... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/05/woodworking-or-not-while-broken/>
 
 ---
 

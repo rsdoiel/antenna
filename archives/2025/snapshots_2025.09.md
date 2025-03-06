@@ -1,11 +1,555 @@
 ---
 title: snapshots
-updated: 2025-03-05 07:08:36
+updated: 2025-03-06 05:16:25
 ---
 
 # snapshots
 
-(date: 2025-03-05 07:08:36)
+(date: 2025-03-06 05:16:25)
+
+---
+
+## Trump Is Planning the Biggest Heist in History
+
+date: 2025-03-06, from: Paul Krugman
+
+The &#8220;strategic crypto reserve&#8221; will be a giant rug pull scam 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-is-planning-the-biggest-heist>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-06, from: Tomosino's Mastodon feed)
+
+<p>1.21 gigawatts‽</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114115419081026261>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+Trump plans to revoke legal status of Ukrainians who fled to US. 
+
+<br> 
+
+<https://www.straitstimes.com/asia/trump-plans-to-revoke-legal-status-of-ukrainians-who-fled-to-us-sources-say>
+
+---
+
+## Some key insights from the UK Climate Change Committee’s Seventh Carbon Budget
+
+date: 2025-03-06, from: Hannah Richie at Substack
+
+What would it take for the UK to get to net-zero by 2050? 
+
+<br> 
+
+<https://www.sustainabilitybynumbers.com/p/uk-ccc-seventh-budget>
+
+---
+
+## CCC fordert digitale Brandmauer
+
+date: 2025-03-06, updated: 2025-03-06, from: Chaos Computer Club Updates
+
+Wir brauchen eine digitale Brandmauer gegen den Faschismus. An die Union und die SPD richten wir zwölf Forderungen, die sie zügig umsetzen müssen, um den absehbaren Folgen des Rechtsrucks und den Bestrebungen von Trump und Co. Einhalt zu gebieten. 
+Ein Ende der Überwachungsära muss her. 
+
+<br> 
+
+<https://www.ccc.de/de/updates/2025/ccc-fordert-digitale-brandmauer>
+
+---
+
+## Tiny Type On Yellow Pages
+
+date: 2025-03-06, updated: 2025-03-06, from: Tedium site
+
+Why AT&T had to redesign its primary phone-book font in the late 1970s to keep with the times, and the clever typographical trick it used. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16977395/phone-book-typography-bell-centennial-ink-trap>
+
+---
+
+## Will the future of software development run on vibes?
+
+date: 2025-03-06, updated: 2025-03-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/">Will the future of software development run on vibes?</a></strong></p>
+I got a few quotes in this piece by Benj Edwards about <strong>vibe coding</strong>, the term Andrej Karpathy <a href="https://simonwillison.net/2025/Feb/6/andrej-karpathy/">coined</a> for when you prompt an LLM to write code, accept all changes and keep feeding it prompts and error messages and see what you can get it to build.</p>
+<p>Here's what I originally sent to Benj:</p>
+<blockquote>
+<p>I really enjoy vibe coding - it's a fun way to play with the limits of these models. It's also useful for prototyping, where the aim of the exercise is to try out an idea and prove if it can work.</p>
+<p>Where vibe coding fails is in producing maintainable code for production settings. I firmly believe that as a developer you have to take accountability for the code you produce - if you're going to put your name to it you need to be confident that you understand how and why it works - ideally to the point that you can explain it to somebody else.</p>
+<p>Vibe coding your way to a production codebase is clearly a terrible idea. Most of the work we do as software engineers is about evolving existing systems, and for those the quality and understandability of the underlying code is crucial.</p>
+<p>For experiments and low-stake projects where you want to explore what's possible and build fun prototypes? Go wild! But stay aware of the very real risk that a good enough prototype often faces pressure to get pushed to production.</p>
+<p>If an LLM wrote every line of your code but you've reviewed, tested and understood it all, that's not vibe coding in my book - that's using an LLM as a typing assistant.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/andrej-karpathy">andrej-karpathy</a>, <a href="https://simonwillison.net/tags/benj-edwards">benj-edwards</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/6/vibe-coding/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+That was a Trumpian eagle. 
+
+<br> 
+
+<https://www.theguardian.com/environment/2025/mar/05/canada-goose-bald-eagle-political-symbolism>
+
+---
+
+## Aider: Using uv as an installer
+
+date: 2025-03-06, updated: 2025-03-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://aider.chat/2025/01/15/uv.html">Aider: Using uv as an installer</a></strong></p>
+Paul Gauthier has an innovative solution for the challenge of helping end users get a copy of his Aider CLI Python utility installed in an isolated virtual environment without first needing to teach them what an "isolated virtual environment" is.</p>
+<p>Provided you already have a Python install of version 3.8 or higher you can run this:</p>
+<pre><code>pip install aider-install &amp;&amp; aider-install
+</code></pre>
+<p>The <a href="https://pypi.org/project/aider-install/">aider-install</a> package itself depends on <a href="https://github.com/astral-sh/uv">uv</a>. When you run <code>aider-install</code> it executes the following <a href="https://github.com/Aider-AI/aider-install/blob/main/aider_install/main.py">Python code</a>:</p>
+<pre><span class="pl-k">def</span> <span class="pl-en">install_aider</span>():
+    <span class="pl-k">try</span>:
+        <span class="pl-s1">uv_bin</span> <span class="pl-c1">=</span> <span class="pl-s1">uv</span>.<span class="pl-c1">find_uv_bin</span>()
+        <span class="pl-s1">subprocess</span>.<span class="pl-c1">check_call</span>([
+            <span class="pl-s1">uv_bin</span>, <span class="pl-s">"tool"</span>, <span class="pl-s">"install"</span>, <span class="pl-s">"--force"</span>, <span class="pl-s">"--python"</span>, <span class="pl-s">"python3.12"</span>, <span class="pl-s">"aider-chat@latest"</span>
+        ])
+        <span class="pl-s1">subprocess</span>.<span class="pl-c1">check_call</span>([<span class="pl-s1">uv_bin</span>, <span class="pl-s">"tool"</span>, <span class="pl-s">"update-shell"</span>])
+    <span class="pl-k">except</span> <span class="pl-s1">subprocess</span>.<span class="pl-c1">CalledProcessError</span> <span class="pl-k">as</span> <span class="pl-s1">e</span>:
+        <span class="pl-en">print</span>(<span class="pl-s">f"Failed to install aider: <span class="pl-s1"><span class="pl-kos">{</span><span class="pl-s1">e</span><span class="pl-kos">}</span></span>"</span>)
+        <span class="pl-s1">sys</span>.<span class="pl-c1">exit</span>(<span class="pl-c1">1</span>)</pre>
+
+<p>This first figures out the location of the <code>uv</code> Rust binary, then uses it to install his <a href="https://pypi.org/project/aider-chat/">aider-chat</a> package by running the equivalent of this command:</p>
+<pre><code>uv tool install --force --python python3.12 aider-chat@latest
+</code></pre>
+<p>This will in turn install a brand new standalone copy of Python 3.12 and tuck it away in uv's own managed directory structure where it shouldn't hurt anything else.</p>
+<p>The <code>aider-chat</code> script defaults to being dropped in the XDG standard directory, which is probably <code>~/.local/bin</code> - see <a href="https://docs.astral.sh/uv/concepts/tools/#the-bin-directory">uv's documentation</a>. The <a href="https://docs.astral.sh/uv/concepts/tools/#overwriting-executables">--force flag</a> ensures that <code>uv</code> will overwrite any previous attempts at installing <code>aider-chat</code> in that location with the new one.</p>
+<p>Finally, running <code>uv tool update-shell</code> ensures that bin directory is <a href="https://docs.astral.sh/uv/concepts/tools/#the-path">on the user's PATH</a>.</p>
+<p>I <em>think</em> I like this. There is a LOT of stuff going on here, and experienced users may well opt for an <a href="https://aider.chat/docs/install.html">alternative installation mechanism</a>.</p>
+<p>But for non-expert Python users who just want to start using Aider, I think this pattern represents quite a tasteful way of getting everything working with minimal risk of breaking the user's system.</p>
+<p><strong>Update</strong>: Paul <a href="https://twitter.com/paulgauthier/status/1897486573857595877">adds</a>:</p>
+<blockquote>
+<p>Offering this install method dramatically reduced the number of GitHub issues from users with conflicted/broken python environments.</p>
+<p>I also really like the "curl | sh" aider installer based on uv. Even users who don't have python installed can use it.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/paul-gauthier">paul-gauthier</a>, <a href="https://simonwillison.net/tags/aider">aider</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/6/aider-using-uv-as-an-installer/#atom-everything>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-06, from: Tomosino's Mastodon feed)
+
+<p>I got a vaccine booster for MMR today. I got my initial vaccine in the early 80s before the US moved to 2 shots. I'm about to travel into an outbreak so this seemed prudent. </p><p>I called the health center to find out what I needed to do. They gave me an address and said go there and ask. So I did, and they offered me boosters for all the childhood vaccinations. The whole lot cost me about $40.</p><p>For some of you this probably sounds normal. But I grew up on the con game that is US healthcare. This is cool.</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114112587237727991>
+
+---
+
+## 545. The French Revolution: The First Feminist (Part 2)
+
+date: 2025-03-06, from: This is history podcast
+
+<p>In the summer and Autumn of 1792 &#8211; with the Prussians bearing down on Paris, the streets thronged with the stirring swell of the Marseillaise, but also the rotting bodies of those brutally killed during the September Massacres &#8211; the French Revolution bore a new symbol of optimism and hope: Liberty. Embodied by a female [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/545-the-french-revolution-the-first-feminist-part-2/">545. The French Revolution: The First Feminist (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/545-the-french-revolution-the-first-feminist-part-2/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-06, from: Tomosino's Mastodon feed)
+
+<p>Terrible idea: A website only 1 person can view at a time. If the tab loses focus it transfers to the next person in line. It should probably have an inactivity timeout too. For everyone else you just get your queue number. Oh! And if you're in the queue and your tab loses focus you lose <em>your</em> spot. Back of the line with ya!</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114112574650433708>
+
+---
+
+## My Low-Tech Attempt to Automate Spellchecking
+
+date: 2025-03-06, from: Pointers gone wild blog
+
+ 
+
+<br> 
+
+<https://pointersgonewild.com/2025-03-06-my-low-tech-attempt-to-automate-spellchecking/>
+
+---
+
+## It’s almost like they are saying one thing and doing another.
+
+date: 2025-03-05, from: Chris Coyier blog
+
+Imagine announcing to the world you&#8217;re going to do the difficult job of making big changes and cuts in the government in order to make it more efficient. Then taking an organization that is demonstrably doing that job well already and destroying the whole thing. What if I told you there was a group of [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/03/05/its-almost-like-they-are-saying-one-thing-and-doing-another/>
+
+---
+
+## The Graphing Calculator Story
+
+date: 2025-03-05, updated: 2025-03-05, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.pacifict.com/story/">The Graphing Calculator Story</a></strong></p>
+Utterly delightful story from Ron Avitzur in 2004 about the origins of the Graphing Calculator app that shipped with many versions of macOS. Ron's contract with Apple had ended but his badge kept working so he kept on letting himself in to work on the project. He even grew a small team:</p>
+<blockquote>
+<p>I asked my friend Greg Robbins to help me. His contract in another division at Apple had just ended, so he told his manager that he would start reporting to me. She didn't ask who I was and let him keep his office and badge. In turn, I told people that I was reporting to him. Since that left no managers in the loop, we had no meetings and could be extremely productive</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://laughingmeme.org/links/">Kellan</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/apple">apple</a>, <a href="https://simonwillison.net/tags/computer-history">computer-history</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/5/the-graphing-calculator-story/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-05, from: Feed for Alt USDS)
+
+Quite the contradiction here... U.S. Digital Services teammates were paid on the GS scale, but these DOGE operatives were supposedly volunteers. *were, keyword.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljo45yndac23>
+
+---
+
+## Demo of ChatGPT Code Interpreter running in o3-mini-high
+
+date: 2025-03-05, updated: 2025-03-05, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://chatgpt.com/share/67c8c374-8c08-8006-8ce3-042308063792">Demo of ChatGPT Code Interpreter running in o3-mini-high</a></strong></p>
+OpenAI made GPT-4.5 available to Plus ($20/month) users today. I was <a href="https://simonwillison.net/2025/Feb/27/introducing-gpt-45/">a little disappointed</a> with GPT-4.5 when I tried it through the API, but having access in the ChatGPT interface meant I could use it with existing tools such as Code Interpreter which made its strengths <a href="https://chatgpt.com/share/67c8a7b6-655c-8006-a100-bc04080e5aa1">a whole lot more evident</a> - that’s a transcript where I had it design and test its own version of the JSON Schema succinct DSL I published <a href="https://simonwillison.net/2025/Feb/28/llm-schemas/#designing-this-feature-for-llm">last week</a>.</p>
+<p>Riley Goodside <a href="https://x.com/goodside/status/1897412604894789692">then spotted</a> that Code Interpreter has been quietly enabled for other models too, including the excellent o3-mini reasoning model. This means you can have o3-mini reason about code, write that code, test it, iterate on it and keep going until it gets something that works.</p>
+<p><img alt="Screenshot showing ChatGPT 03-mini-high - my prompt: Use your Python tool to show me the versions of Python and SQLite. Reasoned about Python and SQLite versions for a couple of seconds Below is the Python code used to print both the Python and SQLite versions: Python Code import sys import sqlite3 print(&quot;Python version:&quot; print (&quot;SQLite version:&quot; Result Python version: 3.11.8 main, Mar 12 2024, 11:41:52) GCC 12.2.01° SQLite version: 3.40.1" src="https://static.simonwillison.net/static/2025/o3-mini-code-interpreter.jpg" /></p>
+<p>Code Interpreter remains my favorite implementation of the "coding agent" pattern, despite recieving very few upgrades in the two years after its initial release. Plugging much stronger models into it than the previous GPT-4o default makes it even more useful.</p>
+<p>Nothing about this in the <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes">ChatGPT release notes</a> yet, but I've tested it in the ChatGPT iOS app and mobile web app and it definitely works there.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/riley-goodside">riley-goodside</a>, <a href="https://simonwillison.net/tags/code-interpreter">code-interpreter</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/5/code-interpreter/#atom-everything>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-05, from: Tomosino's Mastodon feed)
+
+<p><a href="https://tilde.zone/tags/gemini" class="mention hashtag" rel="tag">#<span>gemini</span></a> protocol uses TLS, but has a history of preferring self-signed certificates. This led to the  decision for clients to use TOFU (Trust on First Use) as the go-to method. We have TLSA/DANE available if your domain supports DNSSEC. With that, you can give your self-signed certificate trust, even on first use.</p><p>I've long promoted the idea that clients should implement this. The more clients there are that look for it, the more value there is in adding DANE records.</p><p>I made a proof-of-concept client in <a href="https://tilde.zone/tags/rust" class="mention hashtag" rel="tag">#<span>rust</span></a> that does just that. <a href="https://github.com/jamestomasino/gemini-rust-tlsa" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">github.com/jamestomasino/gemin</span><span class="invisible">i-rust-tlsa</span></a></p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114112271359011768>
+
+---
+
+## Career Update: Google DeepMind -> Anthropic
+
+date: 2025-03-05, updated: 2025-03-05, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://nicholas.carlini.com/writing/2025/career-update.html">Career Update: Google DeepMind -&gt; Anthropic</a></strong></p>
+Nicholas Carlini (<a href="https://simonwillison.net/tags/nicholas-carlini/">previously</a>) on joining Anthropic, driven partly by his frustration at friction he encountered publishing his research at Google DeepMind after their merge with Google Brain. His area of expertise is adversarial machine learning.</p>
+<blockquote>
+<p>The recent advances in machine learning and language modeling are going to be transformative <span style="font-size: 0.75em; line-height: 0; position: relative; vertical-align: baseline; top: -0.5em;">[<a href="https://nicholas.carlini.com/writing/2025/career-update.html#footnote4">d</a>]</span> But in order to realize this potential future in a way that doesn't put everyone's safety and security at risk, we're going to need to make a <em>lot</em> of progress---and soon. We need to make so much progress that no one organization will be able to figure everything out by themselves; we need to work together, we need to talk about what we're doing, and we need to start doing this now.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/machine-learning">machine-learning</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/nicholas-carlini">nicholas-carlini</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/5/google-deepmind-anthropic/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+National Parks Contributed $55.6 Billion to U.S. economy, supported 415,000 Jobs in 2023. 
+
+<br> 
+
+<https://www.nps.gov/orgs/1207/national-parks-contributed-record-high-$55-6-billion-to-u-s-economy-supported-415-000-jobs-in-2023.htm>
+
+---
+
+## Join me and The Ankler founder Janice Min for a live video chat tomorrow at 5:45pET/2:45PT
+
+date: 2025-03-05, from: Tina Brown
+
+We'll be talking about Meghan Markle's new Netflix show, plus all things royal and entertainment. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-me-and-the-ankler-founder-janice>
+
+---
+
+## QwQ-32B: Embracing the Power of Reinforcement Learning
+
+date: 2025-03-05, updated: 2025-03-05, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://qwenlm.github.io/blog/qwq-32b/">QwQ-32B: Embracing the Power of Reinforcement Learning</a></strong></p>
+New Apache 2 licensed reasoning model from Qwen:</p>
+<blockquote>
+<p>We are excited to introduce QwQ-32B, a model with 32 billion parameters that achieves performance comparable to DeepSeek-R1, which boasts 671 billion parameters (with 37 billion activated). This remarkable outcome underscores the effectiveness of RL when applied to robust foundation models pretrained on extensive world knowledge.</p>
+</blockquote>
+<p>I've not run this myself yet but I had a lot of fun <a href="https://simonwillison.net/2024/Nov/27/qwq/">trying out</a> their previous QwQ reasoning model last November.</p>
+<p>LM Studo just <a href="https://huggingface.co/lmstudio-community/QwQ-32B-GGUF/tree/main">released GGUFs</a> ranging in size from 17.2 to 34.8 GB. MLX have compatible weights published in <a href="https://huggingface.co/mlx-community/QwQ-32B-3bit">3bit</a>, <a href="https://huggingface.co/mlx-community/QwQ-32B-4bit">4bit</a>, <a href="https://huggingface.co/mlx-community/QwQ-32B-6bit">6bit</a> and <a href="https://huggingface.co/mlx-community/QwQ-32B-8bit">8bit</a>. Ollama <a href="https://ollama.com/library/qwq">has the new qwq</a> too - it looks like they've renamed the previous November release <a href="https://ollama.com/library/qwq:32b-preview-q8_0">qwq:32b-preview</a>.
+
+    <p><small></small>Via <a href="https://twitter.com/alibaba_qwen/status/1897361654763151544">@alibaba_qwen</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/inference-scaling">inference-scaling</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/qwen">qwen</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/5/qwq-32b/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+FiveThirtyEight is shutting down as part of broader cuts at ABC and Disney. 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/fivethirtyeight-is-shutting-down-as-part-of-broader-cuts-at-abc-and-disney/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+You may think the Dems looked weak with their signs last night, but I think at least they were representing their voters’ interests, unlike the Repubs. If I were there I would have held a sign too. Too much Monday Morning Quarterbacking. They did something — that’s a start. 
+
+<br> 
+
+<https://www.reuters.com/world/us/democrats-protest-trumps-speech-congress-with-disruption-exits-solemn-signs-2025-03-05/>
+
+---
+
+## Xiaomi’s concept phone has a camera with modular, detachable lenses
+
+date: 2025-03-05, from: Liliputing
+
+<p>You can use smartphone cameras to shoot some stellar photos or videos &#8211; there are entire feature-length films that have been shot on smartphones. But there&#8217;s one thing you can&#8217;t typically do with a smartphone camera: change lenses. That&#8217;s why most modern flagship phones (and some mid-range and budget models) have multiple cameras, each with its [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/xiaomis-concept-phone-has-a-camera-with-modular-detachable-lenses/">Xiaomi&#8217;s concept phone has a camera with modular, detachable lenses</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/xiaomis-concept-phone-has-a-camera-with-modular-detachable-lenses/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+The Canada and Mexico tariffs would have devastated any manufacturers making cars in North America. 
+
+<br> 
+
+<https://www.politico.com/news/2025/03/05/trump-auto-tariffs-pause-canada-mexico-00213949>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-05, from: Feed for Alt USDS)
+
+Read about 18F's @alt18f.bsky.social work 👇👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljnoadtdx22s>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+The Supreme Court Is Just One Vote Shy of Making Trump and Musk Kings. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/03/usaid-supreme-court-doge/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-05, from: Feed for Alt USDS)
+
+Unfortunately, we've heard 83,000 VA employees are going to be fired.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljnn4c2ebc2s>
+
+---
+
+## Ezra Klein’s new take on AGI – and why I think it’s probably wrong
+
+date: 2025-03-05, from: Gary Marcus blog
+
+In a new episode of his podcast with Ben Buchanan former special adviser for artificial intelligence under Biden, entitled, The Government knows A.G.I. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/ezra-kleins-new-take-on-agi-and-why>
+
+---
+
+## French University to Fund American Scientists Who Fear Trump Censorship
+
+date: 2025-03-05, from: 404 Media Group
+
+The program, called ‘safe place for science,’ offers American scientists funding to continue their research in France.  
+
+<br> 
+
+<https://www.404media.co/french-university-to-fund-american-scientists-who-fear-trump-censorship/>
+
+---
+
+## AYANEO Pocket MICRO Classic is a tiny Android handheld without analog sticks for $179 and up
+
+date: 2025-03-05, from: Liliputing
+
+<p>The AYANEO Pocket MICRO Classic is a new handheld game console designed for portability. With a 3.5 inch, 960 x 640 pixel, 400 nit IPS LCD display centered between a simple set of game controllers, the console measures just 156 x 63 x 18mm (6.14&#8243; x 2.48&#8243; x 0.71&#8243;) and weighs just 227 grams (8 ounces). [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-pocket-micro-classic-is-a-tiny-android-handheld-without-analog-sticks-for-179-and-up/">AYANEO Pocket MICRO Classic is a tiny Android handheld without analog sticks for $179 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-pocket-micro-classic-is-a-tiny-android-handheld-without-analog-sticks-for-179-and-up/>
+
+---
+
+## This Game Created by AI 'Vibe Coding' Makes $50,000 a Month. Yours Probably Won’t
+
+date: 2025-03-05, from: 404 Media Group
+
+fly.pieter.com was initially made in just 30 minutes with AI tools and is now generating thousands of dollars a month. The future of AI-assisted game development will not be that simple. 
+
+<br> 
+
+<https://www.404media.co/this-game-created-by-ai-vibe-coding-makes-50-000-a-month-yours-probably-wont/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-05, from: Dave Winer's linkblog)
+
+“We will take in trillions and trillions of dollars and create jobs like we have never seen before,” Trump told Congress. 
+
+<br> 
+
+<https://www.nbcnews.com/business/economy/tariffs-limbo-mixed-messages-meet-wary-markets-rcna194856>
+
+---
+
+## Mac Studio 2025
+
+date: 2025-03-05, from: Michael Tsai
+
+Apple (Hacker News): Mac Studio with M4 Max is up to 3.5x faster than Mac Studio with M1 Max, and is up to 6.1x faster than the most powerful Intel-based 27-inch iMac.[&#8230;]Mac Studio with M3 Ultra pushes demanding workflows to a whole new level. It delivers nearly 2x faster performance than M4 Max in workloads [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/05/mac-studio-2025/>
+
+---
+
+## Apple M3 Ultra
+
+date: 2025-03-05, from: Michael Tsai
+
+Apple (Hacker News, MacRumors): M3 Ultra is built using Apple&#8217;s innovative UltraFusion packaging architecture, which links two M3 Max dies over 10,000 high-speed connections that offer low latency and high bandwidth. This allows the system to treat the combined dies as a single, unified chip for massive performance while maintaining Apple&#8217;s industry-leading power efficiency. UltraFusion [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/05/apple-m3-ultra/>
+
+---
+
+## MacBook Air 2025
+
+date: 2025-03-05, from: Michael Tsai
+
+Apple (Hacker News, MacRumors, ArsTechnica): Apple today announced the new MacBook Air, featuring the blazing-fast performance of the M4 chip, up to 18 hours of battery life, a new 12MP Center Stage camera, and a lower starting price. It also offers support for up to two external displays in addition to the built-in display, 16GB [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/05/macbook-air-2025/>
+
+---
+
+## Leitmotif Acquires Taska
+
+date: 2025-03-05, from: Michael Tsai
+
+Florian Albrecht: Taska is a beautiful and versatile Mac native app for issue tracking. Since working on issues typically is a team effort, it&#8217;s not an isolated or proprietary app. Instead, it acts as a frontend to the popular services GitHub and GitLab, maintaining full compatibility with other users of those services, whether they are [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/05/leitmotif-acquires-taska/>
+
+---
+
+## Apple M3 Ultra debuts in the new Mac Studio,
+
+date: 2025-03-05, from: Liliputing
+
+<p>The new Apple M3 Ultra is a new processor made by cramming together two chips that have been around since late 2023. That&#8217;s not necessarily a bad thing though: Apple says that fusing together two Apple M3 Max chips results in &#8220;the highest-performing chip&#8221; Apple has ever made when it comes to CPU, graphics, and AI [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/apple-m3-ultra-debuts-in-the-new-mac-studio/">Apple M3 Ultra debuts in the new Mac Studio,</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/apple-m3-ultra-debuts-in-the-new-mac-studio/>
+
+---
+
+## The Power of Being a Misfit
+
+date: 2025-03-05, from: Guy Kawasaki blog
+
+In the end, it&#8217;s the misfits who make the world remarkable. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/the-power-of-being-a-misfit>
 
 ---
 
@@ -21,12 +565,12 @@ The team used a Reddit-made archive of the CDC website to create a new live mirr
 
 ---
 
-## How we added interlaced video to Raspberry Pi 5
+## How we added interlaced video to Raspberry Pi 5 DPI
 
 date: 2025-03-05, from: Raspberry Pi News (.com)
 
 <p>Raspberry Pi 5's DPI output didn't support interlaced video at launch. This is how we added it.</p>
-<p>The post <a href="https://www.raspberrypi.com/news/how-we-added-interlaced-video-to-raspberry-pi-5/">How we added interlaced video to Raspberry Pi 5</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/how-we-added-interlaced-video-to-raspberry-pi-5/">How we added interlaced video to Raspberry Pi 5 DPI</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
  
 
 <br> 
@@ -134,6 +678,30 @@ An expert Builder from US Geological Survey and Navy Veteran believes there's "n
 <br> 
 
 <https://bsky.app/profile/altusds.bsky.social/post/3ljlv275ibj2a>
+
+---
+
+## March 2025
+
+date: 2025-03-05, from: Maggie Appleton blog
+
+ 
+
+<br> 
+
+<https://maggieappleton.com/now-2025-03/>
+
+---
+
+## Introducing Public Collections in Browsertrix
+
+date: 2025-03-05, from: Web Recorder
+
+Now you can curate, personalize, and share all your your crawls in one place. 
+
+<br> 
+
+<https://webrecorder.net/blog/2025-03-05-public-collections/>
 
 ---
 
@@ -1404,7 +1972,7 @@ date: 2025-03-02, updated: 2025-03-02, from: Simon Willison’s Weblog
 <p>So as a software engineer, I don't feel threatened. My most optimistic view of this is that the cost of developing software goes down because an engineer like myself can be more ambitious, can take on more things. As a result, demand for software goes up - because if you're a company that previously would never have dreamed of building a custom CRM for your industry because it would have taken 20 engineers a year before you got any results... If it now takes four engineers three months to get results, maybe you're in the market for software engineers now that you weren't before.</p>
 </blockquote>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/accessibility">accessibility</a>, <a href="https://simonwillison.net/tags/alt-attribute">alt-attribute</a>, <a href="https://simonwillison.net/tags/podcasts">podcasts</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/accessibility">accessibility</a>, <a href="https://simonwillison.net/tags/alt-attribute">alt-attribute</a>, <a href="https://simonwillison.net/tags/podcasts">podcasts</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/podcast-appearances">podcast-appearances</a></p> 
 
 <br> 
 

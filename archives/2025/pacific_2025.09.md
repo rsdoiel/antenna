@@ -1,11 +1,475 @@
 ---
 title: pacific
-updated: 2025-03-05 07:08:29
+updated: 2025-03-06 05:16:18
 ---
 
 # pacific
 
-(date: 2025-03-05 07:08:29)
+(date: 2025-03-06 05:16:18)
+
+---
+
+## Most contaminated US nuclear site is set to be the largest solar farm
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>RICHLAND, Wash. &#8212; In the weeks since President Donald Trump has taken office, he has pushed to unleash oil and gas production and has signed executive orders halting the country&#8217;s transition to renewable energy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/most-contaminated-us-nuclear-site-is-set-to-be-the-largest-solar-farm/>
+
+---
+
+## China announces plans for major renewable projects to tackle climate change
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>BEIJING &#8212; China said on Wednesday it would develop a package of major projects to tackle climate change as it moves to bring its carbon dioxide emissions to a peak before 2030 and become carbon neutral by 2060.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/china-announces-plans-for-major-renewable-projects-to-tackle-climate-change/>
+
+---
+
+## Trump said the US will ‘get’ Greenland. Greenlanders aren’t impressed.
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump had a special message Tuesday night for the &#8220;incredible people of Greenland,&#8221; whose island he has repeatedly expressed interest in acquiring &#8212; through a purchase or by force.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/trump-said-the-us-will-get-greenland-greenlanders-arent-impressed/>
+
+---
+
+## Tesla sales slump in Europe as anger toward Elon Musk grows
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>Tesla&#8217;s sales in Germany plunged in February, part of a wider slump across Europe that has undercut the company&#8217;s share price and highlighted anger at the political activities of Elon Musk, the company&#8217;s CEO.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/tesla-sales-slump-in-europe-as-anger-toward-elon-musk-grows/>
+
+---
+
+## Weight loss drug will be offered for $499 a month for some patients
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>Novo Nordisk will cut the price of its blockbuster weight loss medication Wegovy to $499 per month for certain patients who pay using their own money instead of going through insurance, the drugmaker said Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/weight-loss-drug-will-be-offered-for-499-a-month-for-some-patients/>
+
+---
+
+## More than 70 million Americans are on Medicaid. This is where they live.
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>In the stretch of rural Kentucky that borders West Virginia, voters reliably send Republicans to Congress. Rep. Hal Rogers, who represents the area, did not even face a Democratic challenger in 2024. More than 40% of the population there relies on Medicaid, the public health insurance plan for low-income Americans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/more-than-70-million-americans-are-on-medicaid-this-is-where-they-live/>
+
+---
+
+## Hackers stole $635,000 in Taylor Swift ticket scheme, Queens DA says
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>Two people accused of stealing and reselling more than 900 tickets to the Taylor Swift Eras Tour and other marquee events are facing criminal charges for their role in the scheme, New York prosecutors said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/hackers-stole-635000-in-taylor-swift-ticket-scheme-queens-da-says/>
+
+---
+
+## US takes down list of federal properties for possible sale
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Donald Trump&#8217;s administration on Wednesday took down a directory of federal facilities it had listed for possible sale that included some of the U.S. government&#8217;s most iconic properties.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/us-takes-down-list-of-federal-properties-for-possible-sale/>
+
+---
+
+## US mayors defend ‘sanctuary city’ laws protecting migrants in congressional hearing
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>Mayors of four of the largest cities in the U.S. appeared before lawmakers in the U.S. House of Representatives on Wednesday to defend their so-called &#8220;sanctuary city&#8221; laws, which restrict local officials in helping enforce federal immigration regulations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/us-mayors-defend-sanctuary-city-laws-protecting-migrants-in-congressional-hearing/>
+
+---
+
+## US Senate confirms ex-Trump defense lawyer as Deputy Attorney General
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Republican-controlled U.S. Senate on Wednesday confirmed President Donald Trump&#8217;s former criminal defense attorney Todd Blanche to serve as deputy attorney general, the No. 2 role at the Justice Department.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/us-senate-confirms-ex-trump-defense-lawyer-as-deputy-attorney-general/>
+
+---
+
+## Supreme Court rejects Trump’s bid to freeze foreign aid
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Wednesday rejected President Donald Trump&#8217;s emergency request to freeze nearly $2 billion in foreign aid in a closely divided decision indicating that the justices will subject his efforts to reshape the government to close scrutiny.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/supreme-court-rejects-trumps-bid-to-freeze-foreign-aid/>
+
+---
+
+## ‘We have given him everything’: Trump’s tariffs stun Mexico
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>MEXICO CITY &#8212; Up to the last minute, Isaac Presburger, like a lot of other Mexican businesspeople, still could not believe that President Donald Trump would deliver on his promise to hit Mexico with tariffs. Little did it matter that Trump had announced that very day that he would go ahead with the planned taxes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/we-have-given-him-everything-trumps-tariffs-stun-mexico/>
+
+---
+
+## News in brief for March 6
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>Trump administration pauses &#0010;intelligence sharing with Ukraine</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/news-in-brief-for-march-6/>
+
+---
+
+## Judges face rise in threats as Musk blasts them over rulings
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Marshals have warned federal judges of unusually high threat levels as tech billionaire Elon Musk and other Trump administration allies ramp up efforts to discredit judges who stand in the way of White House efforts to slash federal jobs and programs, said several judges with knowledge of the warnings.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/judges-face-rise-in-threats-as-musk-blasts-them-over-rulings/>
+
+---
+
+## US plans to fire 80,000 Veterans Affairs workers as part of Trump cuts, sparking backlash
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Department of Veterans Affairs is planning to cut more than 80,000 workers from the agency, according to an internal memo seen by Reuters, drawing condemnation from military veteran groups and Democrats.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/nation-world-news/us-plans-to-fire-80000-veterans-affairs-workers-as-part-of-trump-cuts-sparking-backlash/>
+
+---
+
+## County, HGEA reach COVID compensation agreement
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has come to terms with the state&#8217;s largest labor union regarding hazard pay for those who worked during the COVID-19 pandemic.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/hawaii-news/county-hgea-reach-covid-compensation-agreement/>
+
+---
+
+## Mountain View man was free on bail when he allegedly slayed ex-girlfriend’s sister
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>A 28-year-old murder suspect who was shot and killed by police Tuesday night in Hawaii Volcanoes National Park was free on $7,000 bail in a felony domestic abuse case.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/hawaii-news/mountain-view-man-was-free-on-bail-when-he-allegedly-slayed-ex-girlfriends-sister/>
+
+---
+
+## Nearly 150 turn out for 50501 protest in Hilo
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>Torrential rain and winds didn&#8217;t stop nearly 150 protesters from attending the third 50501 mobilization of the year in Hilo on Tuesday, where the March 4 date was meant to symbolize a &#8220;march forth&#8221; against various actions taken by the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/hawaii-news/nearly-150-turn-out-for-50501-protest-in-hilo/>
+
+---
+
+## Waimea nonprofit eyes lunar landings
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>The arrivals of two lunar landers on the moon this week bodes well for a Big Island company&#8217;s plan to set up a permanent observatory on the moon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/06/hawaii-news/waimea-nonprofit-eyes-lunar-landings/>
+
+---
+
+## Schools debate nuclear test legacy
+
+date: 2025-03-06, from: Marshal Islands Journal
+
+<p>The battle of exchanging words and ideas was on display last week at the University of the South Pacific as high schools across the country vied for the Education Week/Nuclear Victims Remembrance Day debate championship. The debate competition sprung into action starting from the preliminary rounds in the morning February 27. The topic for the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/schools-debate-nuclear-test-legacy/">Schools debate nuclear test legacy</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/schools-debate-nuclear-test-legacy/>
+
+---
+
+## Ratification of insurance contract OK'd but OPA admonishes GovGuam for procurement violation 
+
+date: 2025-03-06, from: Pacific Island Times
+
+While admonishing the government for violating the procurement law, the Office of Public Accountability gave the Department of Administratio 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/ratification-of-insurance-contract-ok-d-but-opa-admonishes-govguam-for-procurement-violation>
+
+---
+
+## The Pacific Pivot: Are we the new direction or just the pivot point?
+
+date: 2025-03-06, from: Pacific Island Times
+
+These Islands By Robert Underwood We are in the middle of the Trump-induced chaos, and while we are uncertain about where it will take... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-pacific-pivot-are-we-the-new-direction-or-just-the-pivot-point>
+
+---
+
+## Guam bill looks to expand SNAP to allow food purchases at restaurants
+
+date: 2025-03-06, from: Pacific Island Times
+
+In enacted into law, Bill 78-38, titled “Meals for At-risk Households Act of 2025,” would roll out on Jan. 1, 2026. 
+
+ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-bill-looks-to-expand-snap-to-allow-food-purchases-at-restaurants>
+
+---
+
+## RMI signs Rarotonga Treaty
+
+date: 2025-03-06, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The Marshall Islands signed the Treaty of Rarotonga at Monday’s Nuclear Remembrance Day nearly 40 years since the nuclear free zone agreement was initiated. “It was important for us to sign the treaty,” said Acting Foreign Minister and Finance Minister David Paul, who signed the South Pacific Nuclear Free Zone Treaty Monday with [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-signs-rarotonga-treaty/">RMI signs Rarotonga Treaty</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rmi-signs-rarotonga-treaty/>
+
+---
+
+## Sunahara named Vulcans volleyball head coach
+
+date: 2025-03-06, from: University of Hawaiʻi News
+
+<p>Reed Sunahara returns to <span aria-label="Hawaii">Hawai&#699;i</span> Island and collegiate volleyball after most recently serving for nine seasons as head coach at Division <abbr title="Roman numeral one">I</abbr> West Virginia University.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/05/sunahara-named-vulcans-volleyball-head-coach/">Sunahara named Vulcans volleyball head coach</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/05/sunahara-named-vulcans-volleyball-head-coach/>
+
+---
+
+## Groff lands PacWest Co-Pitcher of the Week
+
+date: 2025-03-06, from: University of Hawaiʻi News
+
+<p>Logan Groff was named Pacific West Conference Co-Pitcher of the Week after tossing a 7-inning one-hitter.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/05/groff-pacwest-co-pitcher-week/">Groff lands PacWest Co-Pitcher of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/05/groff-pacwest-co-pitcher-week/>
+
+---
+
+## Where to stream the 2025 Oscar winners, from ‘Anora’ to ‘Flow’
+
+date: 2025-03-06, from: Hawaii Tribune Harold
+
+
+				<p>In a resounding win for American independent film, &#8220;Anora,&#8221; Sean Baker&#8217;s rambunctious comedy-drama about the marriage between a Brighton Beach sex worker and the son of a Russian oligarch, won five Oscars, including one for its lead actress, Mikey Madison, and a record-tying four for Baker, who took home statuettes for picture, director, editing and his original screenplay.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/05/nation-world-news/where-to-stream-the-2025-oscar-winners-from-anora-to-flow/>
+
+---
+
+## Dr Hilda Waqa-Sakiti’s Inspiring Journey in Science and Leadership
+
+date: 2025-03-05, from: University of the South Pacific (Fiji)
+
+<p>Dr Hilda Waqa-Sakiti is an academic powerhouse and a beacon of inspiration for young women...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/dr-hilda-waqa-sakitis-inspiring-journey-in-science-and-leadership/">Dr Hilda Waqa-Sakiti’s Inspiring Journey in Science and Leadership</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/dr-hilda-waqa-sakitis-inspiring-journey-in-science-and-leadership/>
+
+---
+
+## Hilda calls for nuclear action
+
+date: 2025-03-05, from: Marshal Islands Journal
+
+<p>WILMER JOEL President Hilda Heine called upon the United States government to stand with the RMI “in true partnership and work collaboratively to address the lingering and ongoing impacts of our nuclear legacy” during Nuclear Victim’s Remembrance Day on Monday at Majuro Atoll Local Government’s Gymnasium in Jenrok. “How much longer must we continue to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/hilda-calls-for-nuclear-action/">Hilda calls for nuclear action</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/hilda-calls-for-nuclear-action/>
+
+---
+
+## Kaʻana Manaʻo: Our artful campus
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>Column by <abbr>UH</abbr> Maui College Chancellor Lui Hokoana was published by The Maui News on February 27, 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/05/kaana-manao-our-artful-campus/">Kaʻana Manaʻo: Our artful campus</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/05/kaana-manao-our-artful-campus/>
+
+---
+
+## UH Hilo Chancellor unveils strategic and enrollment plan
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>&#8220;I encourage you to take a look, reflect on the aspirations and priorities we have outlined together, and continue to be part of this journey.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/05/uh-hilo-chancellor-strategic-enrollment-plans/"><abbr>UH</abbr> Hilo Chancellor unveils strategic and enrollment plan</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/05/uh-hilo-chancellor-strategic-enrollment-plans/>
+
+---
+
+## Sun Noodle’s Hisae Uki brings UH Shidler lessons to leadership
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>Uki said her time at Shidler connected her with a group of like-minded classmates, who’ve become a valuable network of peers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/05/hisae-uki-shidler-lessons/">Sun Noodle’s Hisae Uki brings <abbr>UH</abbr> Shidler lessons to leadership</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/05/hisae-uki-shidler-lessons/>
+
+---
+
+## Image of the Week: Kīlauea from Maunakea
+
+date: 2025-03-05, from: University of Hawaiʻi News
+
+<p>This week's image is from the <abbr>UH</abbr> Hilo Center for Maunakea Stewardship Maunakea Rangers.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/05/image-of-the-week-kilauea-from-maunakea/">Image of the Week: Kīlauea from Maunakea</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/05/image-of-the-week-kilauea-from-maunakea/>
+
+---
+
+## Guam governor seeks probe into attorney general's ‘illegal hiring’
+
+date: 2025-03-05, from: Pacific Island Times
+
+Gov. Lou Leon Guerrero is seeking an investigation into Attorney General Douglas Moylan for alleged nepotism and mass hiring of unclassified 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-governor-seeks-probe-into-attorney-general-s-illegal-hiring>
 
 ---
 
@@ -622,7 +1086,7 @@ date: 2025-03-04, from: University of the South Pacific (Fiji)
 
 date: 2025-03-04, from: Pacific Island Times
 
-By Pacific Island Times News Staff   Between fiscal years 2023 and 2023, Guam Memorial Hospital paid at a total $105.9 million to 168... 
+By Pacific Island Times News Staff   Between fiscal years 2021 and 2023, Guam Memorial Hospital paid a total $105.9 million to 168... 
 
 <br> 
 

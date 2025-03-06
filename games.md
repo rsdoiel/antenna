@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-03-05 07:08:32
+updated: 2025-03-06 05:16:20
 ---
 
 # games
 
-(date: 2025-03-05 07:08:32)
+(date: 2025-03-06 05:16:20)
+
+---
+
+## Blood on the Clocktower is the closest I’ll ever get to playing The Traitors
+
+date: 2025-03-06, updated: 2025-03-05, from: Polygon Website
+
+It’s hard for me to believe that only 14 months ago, I didn’t know what The Traitors was. But since I first smashed play on the Peacock reality series last January, I’ve become obsessed — watching every episode across five international versions, fan-casting future seasons, and even playing in a fantasy league for the currently [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/533223/traitors-blood-clocktower-game>
+
+---
+
+## Monster Hunter Now monster list
+
+date: 2025-03-06, updated: 2025-03-06, from: Polygon Website
+
+Monsters in Monster Hunter Now are, as with every entry in the series, the main focus of the game, giving you new challenges to face and weapon and armor types to craft. Starting with just a handful of large monsters to begin with, the further you progress through the main story quest, the more species [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-now-guides/23871958/monster-list-all>
+
+---
+
+## You have 303 days to catch up with 2024’s most beautifully melancholic show
+
+date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
+
+Season 2 of fantasy anime Frieren: Beyond Journey’s End is officially coming in January 2026. That means you have about 303 days to get caught up on season 1, then ponder the ephemeral nature of your own existence, and be forever changed. The titular character of Frieren is a gifted elf mage who was once [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/534862/frieren-beyond-journeys-end-season-2-release-date>
+
+---
+
+## Where to find novacrystals in Monster Hunter Wilds
+
+date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
+
+Novacrystals are an equipment material in Monster Hunter Wilds. You’ll have a chance at collecting them from mining outcrops once you reach High Rank or earn them as rewards for certain High Rank hunts. You’ll need novacrystals to forge weapons like the Final Battleaxes and armor like the Gypceros Coil. Our Monster Hunter Wilds guide [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/534798/novacrystals-where-to-find>
+
+---
+
+## Pokémon Go ‘Fuzzy Fighter’ paid Special Research — is it worth it?
+
+date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
+
+Pokémon Go players can buy a “Fuzzy Fighter” paid Special Research ticket for $8 as part of the “Powerful Potential” event. The ticket will only be available for purchase from March 5-10, making many wonder: Is this “Fuzzy Fighter” Special Research worth buying? The answer is complicated, since there’s a lot we don’t know about [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/534404/fuzzy-fighter-special-research-steps-worth-it-kubfu>
+
+---
+
+## It’s easy to get $90 off Alienware’s new 27-inch 4K OLED gaming monitor
+
+date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
+
+At $899.99, Alienware’s latest 4K OLED monitor (the AW2725Q) is a great value, but it’s an even better deal thanks to a 10% off deal that anyone in the U.S. with an account on Dell’s website can access. If you’re registering for an account now, be sure to click the box during registration that enrolls [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/534793/alienware-gaming-monitor-coupon-sale>
+
+---
+
+## Turning off Monster Hunter Wilds’ Seikret autopilot lets you have more fun
+
+date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
+
+Monster Hunter Wilds’ Seikret mounts are helpful. Maybe a little too helpful. With a single button press, they will scoop you up and shuttle you across the map to whichever monster you happen to be hunting. It’s wonderfully convenient, but after a few dozen hours, you might yearn for a little more control.&#160; The good [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/534697/monster-hunter-wilds-seikret-move-how-to-drift-guide>
+
+---
+
+## Pick up Pacific Drive, Wild Hearts, and six other awesome titles for just $12
+
+date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
+
+The Humble Choice selections for March have arrived and are making a strong argument for one of gaming’s most overlooked subscription services. Joining Humble Choice costs just $11.99 a month (or $129 annually), and this month, you can download awesome games like Pacific Drive, Homeworld 3, Wild Hearts, Tales of Kenzera: Zau, and more. This [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/534642/humble-choice-march-pacific-drive-homeworld-3-wild-hearts-sale>
+
+---
+
+## Discoveries
+
+date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
+
+At Polygon, we want to introduce you to at least one thing we think you’d love every single day. With so many games, movies, shows, and internet-based quick bites (or “quibis”) out there to experience, we know it’s next to impossible to decide how to take a chance on the untested, dive into the unknown. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 
