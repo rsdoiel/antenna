@@ -1,11 +1,65 @@
 ---
 title: snapshots
-updated: 2025-03-06 05:16:25
+updated: 2025-03-06 07:06:30
 ---
 
 # snapshots
 
-(date: 2025-03-06 05:16:25)
+(date: 2025-03-06 07:06:30)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+On Writing Severance: A Conversation with Dan Erickson. 
+
+<br> 
+
+<https://www.pbs.org/video/on-writing-severance-a-conversation-with-dan-erickson-wo5ofu/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+&quot;Trump isn&#39;t Hitler, he&#39;s Marshal Petain.&quot; 
+
+<br> 
+
+<https://bsky.app/profile/airbagmoments.bsky.social/post/3ljpqts4ka225>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+2017: What if TWTR is bought by a Repub? The problems were foreseeable in 2017, after Trump won the election by tweeting. At that time TWTR&#39;s value was about $12B. I tried to imagine a tech entrepreneur who had just bought the United States. We&#39;re now living that nightmare. 
+
+<br> 
+
+<http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html>
+
+---
+
+## Chinese AI Video Generators Unleash a Flood of New Nonconsensual Porn
+
+date: 2025-03-06, from: 404 Media Group
+
+A new crop of AI video generators is producing an endless stream of nonconsensual AI generated porn.  
+
+<br> 
+
+<https://www.404media.co/chinese-ai-video-generators-unleash-a-flood-of-new-nonconsensual-porn-3/>
+
+---
+
+## R.I.P, James Harrison
+
+date: 2025-03-06, updated: 2025-03-06, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/06/r-i-p-james-harrison/>
 
 ---
 
@@ -187,6 +241,18 @@ date: 2025-03-06, from: This is history podcast
 <br> 
 
 <https://tilde.zone/@tomasino/114112574650433708>
+
+---
+
+## Multi-Agents Are Out, PID Controllers Are In
+
+date: 2025-03-06, updated: 2025-03-06, from: Tom Kellog blog
+
+My hottest take is that multi-agents are a broken concept and should be avoided at all cost. My only caveat is PID controllers; A multi agent system that does a 3-step process that looks something like **Plan, Act, Verify** in a loop. That can work. Everything else is a devious plan to sell dev tools. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/03/06/pid-controllers>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-03-06 05:16:19
+updated: 2025-03-06 07:06:24
 ---
 
 # science and technology
 
-(date: 2025-03-06 05:16:19)
+(date: 2025-03-06 07:06:24)
+
+---
+
+## Up to $75M needed to address rural hospital cybersecurity
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Attacks strike, facilities go bust, patients die. But it&#39;s preventable</h4> <p>It will cost upward of $75 million to address the cybersecurity needs of rural US hospitals, Microsoft reckons, as mounting closures threaten the lives of Americans.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/rural_hospitals_cybersecurity/>
+
+---
+
+## More Voyager instruments shut down to eke out power supplies
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Veteran probes close in on the half century</h4> <p>More science instruments are being shut down on the Voyager probes as engineers attempt to eke out the power and keep them running for years to come.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/voyager_power_down/>
+
+---
+
+## Watchdog fails to stop big vendor lock-in, say UK cloud market's smaller players
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Global giants shouldn&#39;t be allowed to make &#39;committed spend&#39; public sector deals and make discounts we cannot match</h4> <p>Britain&#39;s competition regulator is facing biting criticism from local cloud providers for declining to act on Committed Spend Agreements (CSAs), the sales tools that AWS and Microsoft use to lure customers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/cma_overlooks_factors_hurting_small/>
 
 ---
 

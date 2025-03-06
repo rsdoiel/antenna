@@ -1,11 +1,25 @@
 ---
 title: pacific
-updated: 2025-03-06 05:16:18
+updated: 2025-03-06 07:06:24
 ---
 
 # pacific
 
-(date: 2025-03-06 05:16:18)
+(date: 2025-03-06 07:06:24)
+
+---
+
+## Minions get boost from Australia
+
+date: 2025-03-06, from: Marshal Islands Journal
+
+<p>The Majuro Minions group, which regularly sponsors volleyball clinics and competitions for children, will benefit from a new three-year funding agreement with the Australian Embassy in Majuro. “We’ve been partnering with them through our Direct Aid Program for the last two years, and seen them do excellent work to empower children and teenagers, and target [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/minions-get-boost-from-australia/">Minions get boost from Australia</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/minions-get-boost-from-australia/>
 
 ---
 

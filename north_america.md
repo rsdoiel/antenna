@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-03-06 05:16:16
+updated: 2025-03-06 07:06:23
 ---
 
 # north america
 
-(date: 2025-03-06 05:16:16)
+(date: 2025-03-06 07:06:23)
+
+---
+
+## Ahead of the first jobs report under Trump 2.0, the byword is “uncertainty”
+
+date: 2025-03-06, from: Market Place
+
+There's been a lot happening that could affect the job market. But what impacts will actually show up in the numbers? 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/06/february-jobs-report-trump-doge-layoffs-uncertainty/>
+
+---
+
+## Costco prepares to post results amid pro-DEI stance
+
+date: 2025-03-06, from: Market Place
+
+Analysts say the firm's decision to stick with DEI commitments could influence different consumers in different ways. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/06/costco-results-dei-initiatives-commitment/>
 
 ---
 

@@ -1,11 +1,49 @@
 ---
 title: food
-updated: 2025-03-06 05:16:24
+updated: 2025-03-06 07:06:29
 ---
 
 # food
 
-(date: 2025-03-06 05:16:24)
+(date: 2025-03-06 07:06:29)
+
+---
+
+## How Sushi Became a Favorite Meal for Ukrainian Troops
+
+date: 2025-03-06, from: Bon Appetet
+
+Sushi is about as far from traditional Ukrainian food as you can get. Over the last 20 years, it's become central to the identity and cuisine of a country at war. 
+
+<br> 
+
+<https://www.bonappetit.com/story/ukraine-war-sushi>
+
+---
+
+## I Tried Chipotle’s New Honey Chipotle Chicken, and Wow, Just Wow
+
+date: 2025-03-06, from: Taste of Home
+
+<p>The new Honey Chipotle Chicken at Chipotle is—per usual—perfection, but only if you order it the right way.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chipotle-honey-chipotle-chicken/">I Tried Chipotle&#8217;s New Honey Chipotle Chicken, and Wow, Just Wow</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chipotle-honey-chipotle-chicken/>
+
+---
+
+## Coffee Shop Software Provider Odeko Nears $300 Million in Funding
+
+date: 2025-03-06, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee shop espresso" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York-based business operations software provider Odeko, which specializes in the coffee shop and cafe solutions, said it raised $96 million through its latest Series E funding round. In addition... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/06/coffee-shop-software-provider-odeko-nears-300-million-in-funding/>
 
 ---
 
@@ -145,7 +183,7 @@ date: 2025-03-05, from: The Sprudge
 
 date: 2025-03-05, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg" class="attachment-large size-large wp-post-image" alt="House Brew Baton Rouge Smoky Bean" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean.jpeg 1536w" sizes="(max-width: 620px) 100vw, 620px" /></div>A coffee house is now a home to two businesses in Baton Rouge, Louisiana, as House Brew and Smoky Bean Roasting Co. are now sharing a roof, as well as... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg" class="attachment-large size-large wp-post-image" alt="House Brew Baton Rouge Smoky Bean" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean.jpeg 1536w" sizes="(max-width: 620px) 100vw, 620px" /></div>A coffee house is now a home to two businesses in Baton Rouge, Louisiana, as House Brew and Smoky Bean Roasting Co. are now sharing a roof, as well as... 
 
 <br> 
 
@@ -169,7 +207,7 @@ date: 2025-03-05, from: Daily Coffee News
 
 date: 2025-03-05, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee_cupping" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The nonprofit Alliance for Coffee Excellence released a preliminary schedule of all its international Cup of Excellence (CoE) auctions for 2025. The calendar includes 11 different CoE auctions in 11... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee_cupping" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/coffee_cupping.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The nonprofit Alliance for Coffee Excellence released a preliminary schedule of all its international Cup of Excellence (CoE) auctions for 2025. The calendar includes 11 different CoE auctions in 11... 
 
 <br> 
 

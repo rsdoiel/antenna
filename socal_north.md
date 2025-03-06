@@ -1,11 +1,23 @@
 ---
 title: socal north
-updated: 2025-03-06 05:16:17
+updated: 2025-03-06 07:06:23
 ---
 
 # socal north
 
-(date: 2025-03-06 05:16:17)
+(date: 2025-03-06 07:06:23)
+
+---
+
+## Best things to do this weekend in LA and SoCal: March 7 - 9
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+A Nowruz celebration, Bark & Brews at the Arboretum, the ultimate latte art throwdown, Dana Point hosts the Festival of Whales and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-march-7-9>
 
 ---
 
@@ -73,7 +85,7 @@ Staying in LA will be even harder for grips, gaffers and lighting techs with rou
 
 date: 2025-03-06, updated: 2025-03-06, from: The LAist
 
-The draft executive action, obtained by NPR, acknowledges the department and its signature responsibilities were created by Congress, and cannot legally be altered without congressional approval. 
+The draft executive action, obtained by NPR, acknowledges that the department and its signature responsibilities were created by Congress and cannot legally be altered without congressional approval. 
 
 <br> 
 

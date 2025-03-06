@@ -1,11 +1,23 @@
 ---
 title: home
-updated: 2025-03-06 05:16:22
+updated: 2025-03-06 07:06:28
 ---
 
 # home
 
-(date: 2025-03-06 05:16:22)
+(date: 2025-03-06 07:06:28)
+
+---
+
+## If You Can’t Commit to a Table, a Set of Hairpin Legs Will Set You Free
+
+date: 2025-03-06, from: Dwell
+
+For well under $100, I DIYed my living room coffee table—and I can redo it anytime in a breeze. 
+
+<br> 
+
+<https://www.dwell.com/article/diy-hairpin-leg-table-e9b9d4b8>
 
 ---
 

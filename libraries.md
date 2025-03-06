@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-03-06 05:16:21
+updated: 2025-03-06 07:06:27
 ---
 
 # libraries
 
-(date: 2025-03-06 05:16:21)
+(date: 2025-03-06 07:06:27)
 
 ---
 
@@ -20,6 +20,18 @@ date: 2025-03-06, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/03/06/equality-diversity-and-inclusion-in-pre-award-funding-processes-actions-not-words/>
+
+---
+
+## Solidifying Modern SMT Solvers
+
+date: 2025-03-06, from: ETH Zurich, recently added
+
+Winterer, Dominik 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/725868>
 
 ---
 

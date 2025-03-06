@@ -1,11 +1,35 @@
 ---
 title: games
-updated: 2025-03-06 05:16:20
+updated: 2025-03-06 07:06:26
 ---
 
 # games
 
-(date: 2025-03-06 05:16:20)
+(date: 2025-03-06 07:06:26)
+
+---
+
+## Why won’t anyone in Daredevil: Born Again talk about Sokovia?
+
+date: 2025-03-06, updated: 2025-03-05, from: Polygon Website
+
+Daredevil: Born Again is off to a quick start. There’s already been tragedy, turmoil, blossoming love, a whole-ass mayoral election, and more. The show is certainly the most grounded and lived-in New York has felt in any of Marvel’s Disney Plus shows so far, but it also feels distinctly like part of the MCU. People [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/533885/daredevil-born-again-fisk-campaign-sokovia>
+
+---
+
+## What it’s like to use the RTX 5070 Ti, before and after a much-needed PC overhaul
+
+date: 2025-03-06, updated: 2025-03-05, from: Polygon Website
+
+Trying to figure out what’s causing slow frame rates in a PC is sort of like solving for a mysterious leak in your home. It could be the graphics card, or it could be slow storage, outdated RAM, the CPU — one, or all of the above. While doing a complete overhaul is a surefire [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/533860/nvidia-rtx-5070-ti-review-3070-upgrade-worth-it>
 
 ---
 
@@ -95,7 +119,7 @@ Monster Hunter Wilds’ Seikret mounts are helpful. Maybe a little too helpful. 
 
 ## Pick up Pacific Drive, Wild Hearts, and six other awesome titles for just $12
 
-date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
+date: 2025-03-05, updated: 2025-03-06, from: Polygon Website
 
 The Humble Choice selections for March have arrived and are making a strong argument for one of gaming’s most overlooked subscription services. Joining Humble Choice costs just $11.99 a month (or $129 annually), and this month, you can download awesome games like Pacific Drive, Homeworld 3, Wild Hearts, Tales of Kenzera: Zau, and more. This [&#8230;] 
 

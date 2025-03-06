@@ -1,11 +1,23 @@
 ---
 title: going electric
-updated: 2025-03-06 05:16:23
+updated: 2025-03-06 07:06:29
 ---
 
 # going electric
 
-(date: 2025-03-06 05:16:23)
+(date: 2025-03-06 07:06:29)
+
+---
+
+## Nissan Could Nab Foxconn Exec For Its New CEO
+
+date: 2025-03-06, from: Inside EVs News
+
+Plus, VW ID.Every1 is the first VW to use Rivian software and GM faces another legal battle over allegedly selling driver data. 
+
+<br> 
+
+<https://insideevs.com/news/752625/nissan-foxconn-executive-replace-ceo/>
 
 ---
 

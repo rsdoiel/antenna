@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-03-06 05:16:22
+updated: 2025-03-06 07:06:28
 ---
 
 # motorcycles
 
-(date: 2025-03-06 05:16:22)
+(date: 2025-03-06 07:06:28)
+
+---
+
+## They're Teaching Robots How to Stunt Ride Motorcycles Now
+
+date: 2025-03-06, from: Ride Apart, Electric Motorcycle News
+
+Does no one remember 2009's Terminator Salvation? 
+
+<br> 
+
+<https://www.rideapart.com/news/752462/robot-ai-stunt-ride-motorcycles-video/>
+
+---
+
+## This Dry Ice Motorcycle Deep Clean Is So Satisfying, You Guys
+
+date: 2025-03-06, from: Ride Apart, Electric Motorcycle News
+
+It's definitely a thing, and here's why you might think it's a good idea. 
+
+<br> 
+
+<https://www.rideapart.com/news/752611/dry-ice-deep-cleaning-motorcycle/>
+
+---
+
+## Is CFMoto Working On a CVT for a New Maxi Scooter?
+
+date: 2025-03-06, from: Ride Apart, Electric Motorcycle News
+
+It could be for a motorcycle, but let's not be too close-minded.  
+
+<br> 
+
+<https://www.rideapart.com/news/752481/cfmoto-cvt-patent/>
 
 ---
 
