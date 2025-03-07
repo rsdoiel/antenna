@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-03-06 07:06:24
+updated: 2025-03-07 07:09:32
 ---
 
 # ham radio
 
-(date: 2025-03-06 07:06:24)
+(date: 2025-03-07 07:09:32)
+
+---
+
+## The downside of overdesign, Part 2: A Dunn history
+
+date: 2025-03-07, from: EDN Blog
+
+<img width="421" height="334" src="https://www.edn.com/wp-content/uploads/Overdesign-2.png?fit=421%2C334" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Overdesign-2.png?w=421 421w, https://www.edn.com/wp-content/uploads/Overdesign-2.png?w=300 300w" sizes="(max-width: 421px) 100vw, 421px" /><p>Background to the story in “The downside of overdesign” is provided with a peek into some Dunn family history. </p>
+<p>The post <a href="https://www.edn.com/the-downside-of-overdesign-part-2-a-dunn-history/" data-wpel-link="internal">The downside of overdesign, Part 2: A Dunn history</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-downside-of-overdesign-part-2-a-dunn-history/>
+
+---
+
+## Wireless MCUs deliver richer functionality
+
+date: 2025-03-06, from: EDN Blog
+
+<img width="700" height="420" src="https://www.edn.com/wp-content/uploads/STMicro-STM32WBA6.jpg?fit=700%2C420" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-STM32WBA6.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/STMicro-STM32WBA6.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>STM32WBA6 2.4-GHz wireless MCUs from ST offer increased memory and digital system interfaces for a wide range of high-end applications.</p>
+<p>The post <a href="https://www.edn.com/wireless-mcus-deliver-richer-functionality/" data-wpel-link="internal">Wireless MCUs deliver richer functionality</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/wireless-mcus-deliver-richer-functionality/>
+
+---
+
+## 650-V GaN HEMT resides in TOLL package
+
+date: 2025-03-06, from: EDN Blog
+
+<img width="700" height="456" src="https://www.edn.com/wp-content/uploads/Rohm-GNP2070TD-Z.jpg?fit=700%2C456" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Rohm-GNP2070TD-Z.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Rohm-GNP2070TD-Z.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Rohm Semiconductor introduced the GNP2070TD-Z, a 650-V enhancement-mode GaN HEMT in a TO-leadless (TOLL) package.</p>
+<p>The post <a href="https://www.edn.com/650-v-gan-hemt-resides-in-toll-package/" data-wpel-link="internal">650-V GaN HEMT resides in TOLL package</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/650-v-gan-hemt-resides-in-toll-package/>
+
+---
+
+## Marvell’s 2-nm silicon boosts AI infrastructure
+
+date: 2025-03-06, from: EDN Blog
+
+<img width="700" height="453" src="https://www.edn.com/wp-content/uploads/Marvell-2-nm-IP.jpg?fit=700%2C453" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Marvell-2-nm-IP.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Marvell-2-nm-IP.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Marvell Technology has demonstrated its first 2-nm silicon IP, enhancing the performance and efficiency of AI and cloud infrastructure.</p>
+<p>The post <a href="https://www.edn.com/marvells-2-nm-silicon-boosts-ai-infrastructure/" data-wpel-link="internal">Marvell’s 2-nm silicon boosts AI infrastructure</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/marvells-2-nm-silicon-boosts-ai-infrastructure/>
+
+---
+
+## Armv9 platform advances AI at the edge
+
+date: 2025-03-06, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/Arm-Armv9-Cortex-A320.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Arm-Armv9-Cortex-A320.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Arm-Armv9-Cortex-A320.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Arm-Armv9-Cortex-A320.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Arm’s edge AI platform features the Cortex-A320 CPU and Ethos-U85 NPU, enabling on-device execution of models exceeding 1 billion parameters.</p>
+<p>The post <a href="https://www.edn.com/armv9-platform-advances-ai-at-the-edge/" data-wpel-link="internal">Armv9 platform advances AI at the edge</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/armv9-platform-advances-ai-at-the-edge/>
+
+---
+
+## 32-bit MCUs offer multiple sensing capabilities
+
+date: 2025-03-06, from: EDN Blog
+
+<img width="800" height="470" src="https://www.edn.com/wp-content/uploads/Infineon-PSOC-4000T-1.jpg?fit=800%2C470" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-PSOC-4000T-1.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Infineon-PSOC-4000T-1.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Infineon-PSOC-4000T-1.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Infineon’s PSOC 4 series microcontrollers now integrate capacitive, inductive, and liquid level sensing in a single device.</p>
+<p>The post <a href="https://www.edn.com/32-bit-mcus-offer-multiple-sensing-capabilities/" data-wpel-link="internal">32-bit MCUs offer multiple sensing capabilities</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/32-bit-mcus-offer-multiple-sensing-capabilities/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2025-03-06 07:06:24
 
 date: 2025-03-06, from: EDN Blog
 
-<img width="901" height="893" src="https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?fit=901%2C893" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?w=901 901w, https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?w=768 768w" sizes="(max-width: 901px) 100vw, 901px" /><p>Apple's spring announcements: CPU updates can deliver more than just performance and power consumption improvements at the system level.</p>
+<img width="901" height="893" src="https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?fit=901%2C893" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?w=901 901w, https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?w=150 150w, https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/M3-Ultra-SoC.jpg?w=768 768w" sizes="auto, (max-width: 901px) 100vw, 901px" /><p>Apple's spring announcements: CPU updates can deliver more than just performance and power consumption improvements at the system level.</p>
 <p>The post <a href="https://www.edn.com/apples-spring-2025-part-ii-computers-tablets-and-a-new-chip-too/" data-wpel-link="internal">Apple’s spring 2025 part II: Computers, tablets, and a new chip, too</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,334 @@
 ---
 title: north america
-updated: 2025-03-06 07:06:23
+updated: 2025-03-07 07:09:30
 ---
 
 # north america
 
-(date: 2025-03-06 07:06:23)
+(date: 2025-03-07 07:09:30)
+
+---
+
+## Trade wars heighten uncertainty for agricultural exporters
+
+date: 2025-03-07, from: Market Place
+
+As spring approaches, many farmers are unsure what crops they should plant and what the effect of tariffs could be. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/07/tariffs-trade-war-farmers-agricultural-exporters/>
+
+---
+
+## Dunkin’ delivers good news to fans of nondairy drinks
+
+date: 2025-03-07, from: Market Place
+
+Nondairy milks are increasingly popular, especially among younger consumers. Coffee shops like Dunkin' and Starbucks are nixing surcharges. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/07/dunkin-nondairy-milk-surcharge-coffee/>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-07, from: The Contrarian
+
+Friday: Plan International Women's Day marches around the country on Saturday, plus recent protests in Carson City, Nev., Olympia, Wash., outside Fox News in New York and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Going in circles
+
+date: 2025-03-07, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/going-in-circles>
+
+---
+
+## Undaunted: Senator Elissa Slotkin
+
+date: 2025-03-07, from: The Contrarian
+
+"America wants change. But there is a responsible way to make change, and a reckless way." 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-senator-elissa-slotkin>
+
+---
+
+##  Are Hopeful Parents Victims Of A Fertility Scam? 
+
+date: 2025-03-07, from: The Lever News
+
+ Genetic tests promised parents healthy pregnancies. New class action lawsuits say they may be worthless.  
+
+<br> 
+
+<https://www.levernews.com/are-hopeful-parents-victims-of-a-fertility-scam/>
+
+---
+
+## Evening Roundup: March 6
+
+date: 2025-03-06, from: The Contrarian
+
+Featuring Jen Rubin interviews with Ritchie Torres & Nancy Bolan, with Nancy Clair, and with Daniel Solove. Written pieces by Walter White, Brian O'Neill, Josh Levs, Scott Rosenstein, and Jeff Nesbit 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-6>
+
+---
+
+## The job market may be tougher than it looks on paper
+
+date: 2025-03-06, from: Market Place
+
+Outside of chronically short-staffed sectors, many firms are finding qualified workers easily. Openings are scarce in some white-collar fields.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/06/job-market-may-feel-tougher-than-it-looks-hiring-labor-staffing-workers/>
+
+---
+
+## Federal workers’ salaries represent less than 5% of federal spending and 1% of GDP
+
+date: 2025-03-06, from: Market Place
+
+Cutting these jobs indiscriminately will “substantially damage the economy,” experts say.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/06/federal-workers-salaries-represent-less-than-5-of-federal-spending-and-1-of-gdp/>
+
+---
+
+## Your questions about government economic data answered
+
+date: 2025-03-06, from: Market Place, Make me Smart
+
+<p>Donald Trump administration officials disbanded two expert committees on economic data this week and suggested altering the way the U.S. calculates gross domestic product. It’s not the first time the administration has hinted at fiddling with important numbers, and a listener wrote in to ask how all this might impact businesses and the market. We&#8217;ll break it down. Plus, why is nobody talking about the debt limit? And, congrats to Bill in Ohio on scoring a hat trick!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.reuters.com/world/us/trump-administration-disbands-two-expert-panels-economic-data-2025-03-05/" target="_blank" rel="noreferrer noopener">&#8220;Trump administration disbands two expert panels on economic data&#8221;</a> from Reuters</li>
+<li><a href="https://www.marketplace.org/2025/03/03/what-if-the-u-s-just-deleted-government-spending-from-gdp/" target="_blank" rel="noreferrer noopener">&#8220;Can the U.S. delete government spending from GDP?&#8221;</a> from Marketplace</li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-03-05/key-house-republican-warns-debt-ceiling-breach-possible-in-may" target="_blank" rel="noreferrer noopener">&#8220;Key House Republican Warns May Debt-Ceiling Breach Possible&#8221;</a> from Bloomberg</li>
+<li><a href="https://www.reuters.com/world/us/why-would-us-government-shut-down-2025-03-06/" target="_blank" rel="noreferrer noopener">&#8220;Explainer: Why would the US government shut down?&#8221;</a> from Reuters</li>
+<li><a href="https://www.washingtonpost.com/lifestyle/2025/02/10/unc-chapel-hill-video-good-thing/" target="_blank" rel="noreferrer noopener">&#8220;A campus sign said ‘Tell us something good.’ Students delivered.&#8221;</a> from The Washington Post</li>
+</ul>
+<p>Join us tomorrow for “Economics on Tap.” The <a href="https://www.youtube.com/@marketplaceAPM/streams" target="_blank" rel="noreferrer noopener">YouTube livestream</a> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/06/mms_20250306_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fyour-questions-about-government-economic-data-answered&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/06/mms_20250306_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fyour-questions-about-government-economic-data-answered&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/your-questions-about-government-economic-data-answered>
+
+---
+
+## Jay Powell’s Fed navigated Trump’s first trade war. This time, it has less wiggle room.
+
+date: 2025-03-06, from: Market Place
+
+The main difference is inflation. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/06/jay-powells-fed-navigates-another-trump-first-trade/>
+
+---
+
+## Rep. Ritchie Torres and Jen Rubin interview fired USAID worker, Nancy Bolan
+
+date: 2025-03-06, from: The Contrarian
+
+Nancy Bolan &#8212; who has spent over 25 years saving the lives of mothers and newborn babies &#8212; was fired from her health care position at USAID on January 28 as part of Elon Musk's purge at the U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158530664/15b0ae891fbbf32564aabbeb9f0bd4e3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158530664/15b0ae891fbbf32564aabbeb9f0bd4e3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rep-ritchie-torres-jen-rubin-interview>
+
+---
+
+## America is at its weakest since the Civil War
+
+date: 2025-03-06, from: The Contrarian
+
+The United States had built the strongest alliances that the world has seen, but now Trump is breaking them. 
+
+<br> 
+
+<https://contrarian.substack.com/p/america-is-at-its-weakest-since-the>
+
+---
+
+## Why this CEO put his tech startup in Tennessee
+
+date: 2025-03-06, from: Market Place
+
+Onetime Uber executive Mark Moore based his company, Whisper Aero, in Tennessee and had the staff live together in a former lakeside resort. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/06/why-this-ceo-put-his-tech-startup-in-tennessee/>
+
+---
+
+## Thanks to higher interest rates, banks’ unrealized losses jumped by a third at the end of last year
+
+date: 2025-03-06, from: Market Place
+
+Those losses have stayed elevated ever since the Federal Reserve started raising interest rates. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/06/thanks-to-higher-interest-rates-banks-unrealized-losses-jumped-by-a-third-at-the-end-of-last-year/>
+
+---
+
+## Cuts to USAID hurt EVERYONE
+
+date: 2025-03-06, from: The Contrarian
+
+Jen Rubin interviews Nancy Clair, Ed.D, a lifelong worker at USAID. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158519509/71531afdfe8acc70f89c7fbaa1035a00.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158519509/71531afdfe8acc70f89c7fbaa1035a00.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/cuts-to-usaid-hurt-everyone>
+
+---
+
+## Is the American Iron Dome about safety or legacy?
+
+date: 2025-03-06, from: The Contrarian
+
+The value of a missile defense system should not be in dispute. What matters is execution. 
+
+<br> 
+
+<https://contrarian.substack.com/p/is-the-american-iron-dome-about-safety>
+
+---
+
+##  How The Fed And Trump Are Helping Banks Rob You 
+
+date: 2025-03-06, from: The Lever News
+
+ Banks just raked in $250 billion by charging borrowers more than they pay depositors. Trump moves could make the scam worse.  
+
+<br> 
+
+<https://www.levernews.com/how-the-fed-and-trump-are-helping-banks-rob-you/>
+
+---
+
+## Daniel Solove and Jen Rubin on technology and privacy
+
+date: 2025-03-06, from: The Contrarian
+
+As we watched DOGE attempt to gain access to millions of Americans&#8217; sensitive information, technological privacy is becoming a key point of contention. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158516890/5597526bc4bc85fb09b4753dbf274d1f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158516890/5597526bc4bc85fb09b4753dbf274d1f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/daniel-solove-and-jen-rubin-on-technology>
+
+---
+
+## Why all those Trump fact checks are too little too late
+
+date: 2025-03-06, from: The Contrarian
+
+Many Americans distrust the media, largely because false claims have gone unchallenged for so long. 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-fact-checking-trumps-speech-almost>
+
+---
+
+##  GOP Megadonor Got Payday Before Rent-Fixing Charges 
+
+date: 2025-03-06, from: The Lever News
+
+ Blackstone’s Stephen Schwarzman reaped a $1 billion payout, and then the Justice Department announced a landmark antitrust lawsuit.  
+
+<br> 
+
+<https://www.levernews.com/gop-megadonor-got-payday-before-rent-fixing-charges/>
+
+---
+
+## How Fear Becomes a Birthright
+
+date: 2025-03-06, from: Capital and Main
+
+<p>Will a controversial Trump order pull the welcome mat from under immigrants’ feet?</p>
+<p>The post <a href="https://capitalandmain.com/how-fear-becomes-a-birthright">How Fear Becomes a Birthright</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/how-fear-becomes-a-birthright>
+
+---
+
+## Coffee With The Contrarians 03/06
+
+date: 2025-03-06, from: The Contrarian
+
+A recording from Harry Litman and Jen Rubin's live Coffee with The Contrarians 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158524539/1afe00de9dd725ba61ab5b8837cffb67.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158524539/1afe00de9dd725ba61ab5b8837cffb67.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0306>
+
+---
+
+## The case for vaccine optimism
+
+date: 2025-03-06, from: The Contrarian
+
+What happens when the ambulance chaser becomes the ambulance? 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-case-for-vaccine-optimism>
+
+---
+
+## Why the Republican votes to potentially cut Medicaid matter
+
+date: 2025-03-06, from: The Contrarian
+
+It put every one of those House GOP members on record: They are for cutting Medicaid. 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-the-republican-votes-to-potentially>
 
 ---
 
@@ -367,18 +690,6 @@ Adam Grant of The Wharton School describes evidence-based strategies for getting
 <br> 
 
 <https://www.marketplace.org/2025/03/05/how-do-workers-feel-government-private-sector-layoffs-job-cuts/>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-05, from: The Contrarian
-
-Wednesday: A town hall in Wylie, Texas., a congressional objection, a billboard broadcasting truth, the stock market and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

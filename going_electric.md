@@ -1,11 +1,211 @@
 ---
 title: going electric
-updated: 2025-03-06 07:06:29
+updated: 2025-03-07 07:09:37
 ---
 
 # going electric
 
-(date: 2025-03-06 07:06:29)
+(date: 2025-03-07 07:09:37)
+
+---
+
+## Telo's Affordable, Mini-Sized Electric Truck Just Hit A Crucial Milestone
+
+date: 2025-03-07, from: Inside EVs News
+
+Backed by Tesla's founders and some big industry figures, the $42,000 Telo MT1 is a little electric truck with big potential. 
+
+<br> 
+
+<https://insideevs.com/news/752764/telo-truck-pre-production/>
+
+---
+
+## The Volvo EX90 Will Get A Big Battery Upgrade
+
+date: 2025-03-07, from: Inside EVs News
+
+Volvo’s flagship electric SUV is stuck with a 400V battery while Hyundai and Kia charge ahead with 800V. That will change soon. 
+
+<br> 
+
+<https://insideevs.com/news/752760/volvo-ex90-800-volt-battery-update/>
+
+---
+
+## Volvo EX60: Here’s A Sneak Peek At Volvo’s Model Y Rival
+
+date: 2025-03-07, from: Inside EVs News
+
+Based on a new 800V architecture, the EX60 is poised to become Volvo’s best-selling EV. 
+
+<br> 
+
+<https://insideevs.com/news/752752/volvo-ex60-first-look/>
+
+---
+
+## Kia’s EV9 can power your home and save you on energy costs: Watch how easy it is [Video]
+
+date: 2025-03-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Kia-EV9-power-home-charger.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/kia-ev9/">Kia EV9</a> is already an impressive electric SUV with its bold design, spacious cabin, and smart technology. Now it’s unlocking another new feature. With the new Wallbox Quasar 2 home charger, Kia EV9 owners can power their homes for up to three days and even save on energy costs. Watch how easy it is to use in the demo below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia-ev9,wallbox" data-layer-viewtype="unknown" data-post-id="404806" href="https://electrek.co/2025/03/06/kia-ev9-can-power-your-home-cut-energy-costs-video/#more-404806" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/06/kia-ev9-can-power-your-home-cut-energy-costs-video/>
+
+---
+
+## You're Worrying About The Wrong EV Batteries
+
+date: 2025-03-06, from: Inside EVs News
+
+The big, expensive batteries are dead reliable. It's the puny 12-volts that are causing problems. 
+
+<br> 
+
+<https://insideevs.com/news/752720/ev-12-volt-battery-problems/>
+
+---
+
+## Chevy's Silverado ZR2 EV Concept Has 1,100 HP
+
+date: 2025-03-06, from: Inside EVs News
+
+It's a teaser for the Silverado EV Trail Boss, which arrives later this year. 
+
+<br> 
+
+<https://insideevs.com/news/752714/chevrolet-silverado-ev-trail-boss/>
+
+---
+
+## Honda’s new S7 electric SUV is surprisingly stylish and affordable, but you can’t have it
+
+date: 2025-03-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Honda-S7-electric-SUV-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/honda/">Honda</a> officially launched its new electric SUV, the S7, in China. As its first high-end electric SUV, Honda says the S7 will set new benchmarks with over 400 miles (650 km) of driving range, first-class comfort, and a stylish new design. The S7 will compete with the Tesla Model Y and other premium electric SUVs in China, starting at about $36,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" data-post-id="404774" href="https://electrek.co/2025/03/06/honda-s7-electric-suv-sleek-affordable-but-you-cant-have-it/#more-404774" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/06/honda-s7-electric-suv-sleek-affordable-but-you-cant-have-it/>
+
+---
+
+## Segway’s new flagship Ninebot MAX G3 opens for preorder at $500 off, Jackery Spring Sale takes 50% off units, Samsung, more
+
+date: 2025-03-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Segway-Ninebot-MAX-G3-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Leading today’s Green Deals is the $500 off pre-sale promotion on <a href="https://9to5toys.com/2025/03/06/segway-ninebot-max-g3-preorder-900/">Segway’s new Ninebot MAX G3 eKickScooter</a> that comes with a bunch of upgraded features like Apple Find My, autonomous locking/unlocking, and more – all at <a href="https://9to5toys.com/2025/03/06/segway-ninebot-max-g3-preorder-900/">$900</a> through March 24. We also have <a href="https://9to5toys.com/2025/03/06/jackery-spring-sale-explorer-3000-pro-bundle-new-1994-low/">Jackery’s Spring Sale</a> in full swing with 50% off discounts on its power stations and solar generators (and bonus savings), one of which is the <a href="https://9to5toys.com/2025/03/06/jackery-spring-sale-explorer-3000-pro-bundle-new-1994-low/">Explorer 3000 Pro</a> Portable Power Station bundled with two 200W solar panels at a new <a href="https://9to5toys.com/2025/03/06/jackery-spring-sale-explorer-3000-pro-bundle-new-1994-low/">$1,994</a> low. Lastly, we have <a href="https://9to5toys.com/2025/03/06/samsungs-bespoke-ai-laundry-combo-2199-3622-value/">Samsung’s Bespoke AI Laundry Combo</a> All-in-One Washer and Ventless Heat Pump Dryer coming with a bunch of additional savings at <a href="https://9to5toys.com/2025/03/06/samsungs-bespoke-ai-laundry-combo-2199-3622-value/">$2,199</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/03/05/anker-solix-flash-sale-f3800-2599-more/">Anker SOLIX weekend flash sale</a> offers, the <a href="https://9to5toys.com/2025/03/04/lectric-xpedition-1-0-xpeak-1-0-e-bikes-closeout-from-1099/">Lectric XPedition 1.0 and XPeak 1.0</a> price cuts, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="404771" href="https://electrek.co/2025/03/06/segways-ninebot-max-g3-preorder-jackery-spring-sale-samsung-more/#more-404771" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/06/segways-ninebot-max-g3-preorder-jackery-spring-sale-samsung-more/>
+
+---
+
+## Genesis GV60 redesign debuts in Korea with more range, luxury, and fun new features
+
+date: 2025-03-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Genesis-GV60-redesign-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/genesis-gv60/">Genesis GV60</a> has been “reborn” and is now better in every way. Although already impressive, Genesis gave the GV60 its first major redesign since launching in 2021 with even more driving range, a stylish new design, and fun features like Virtual Gear Shift (VGS). The updated electric SUV debuted in Korea on Thursday. For those in the US and Europe, don’t worry, you’re up next.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="genesis-gv60" data-layer-viewtype="unknown" data-post-id="404751" href="https://electrek.co/2025/03/06/genesis-gv60-redesign-debuts-more-range-fun-features/#more-404751" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/06/genesis-gv60-redesign-debuts-more-range-fun-features/>
+
+---
+
+## Hands on and first ride in TELO’s tiny electric truck that’s as big as a Mini
+
+date: 2025-03-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/IMG_0752-e1741259676924.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>TELO gave us an exclusive opportunity to get up close and personal with a pre-production version of its tiny electric truck, slated to ship its first units later this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-pickup-trucks,telo" data-layer-viewtype="unknown" data-post-id="403643" href="https://electrek.co/2025/03/06/hands-on-and-first-ride-in-telos-tiny-electric-truck-thats-as-big-as-a-mini/#more-403643" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/06/hands-on-and-first-ride-in-telos-tiny-electric-truck-thats-as-big-as-a-mini/>
+
+---
+
+## Why A Jobs Boom May Not Save The EV Tax Credit
+
+date: 2025-03-06, from: Inside EVs News
+
+Republican strategist and EV advocate Mike Murphy says the EV tax credit situation is looking “grim” right now.  
+
+<br> 
+
+<https://insideevs.com/news/752620/ev-tax-credit-trump-congress/>
+
+---
+
+## Tesla now offers discounted financing on Cybertruck as the truck turns out to be a flop
+
+date: 2025-03-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Cybertruck-discounted-financing.png?w=1600" /></div><p>Tesla has started to offer discounted financing on Cybertruck as the electric pickup truck undoubtedly turns out to be a flop.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="404734" href="https://electrek.co/2025/03/06/tesla-now-offers-discounted-financing-on-cybertruck-as-the-truck-turns-out-to-be-a-flop/#more-404734" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/06/tesla-now-offers-discounted-financing-on-cybertruck-as-the-truck-turns-out-to-be-a-flop/>
+
+---
+
+## Toyota launched its cheapest EV in China and it crashed the server starting at just $15,000
+
+date: 2025-03-06, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-cheapest-EV-China.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota looks to grab a bigger share of the world’s largest EV market as it takes aim at BYD and other low-cost leaders. On Thursday, <a href="https://electrek.co/guides/toyota/">Toyota</a> launched its cheapest EV in China, the bZ3X, starting at roughly $15,000. The new electric SUV crashed the server with over 10,000 orders in an hour.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="404726" href="https://electrek.co/2025/03/06/toyotas-cheapest-ev-china-crashes-server-starting-at-15000/#more-404726" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/06/toyotas-cheapest-ev-china-crashes-server-starting-at-15000/>
+
+---
+
+## The Kia EV9 Will Soon Be Able To Power Your Entire House
+
+date: 2025-03-06, from: Inside EVs News
+
+Thanks to its vehicle-to-home capabilities, the electric SUV can keep the lights on for over three days in an outage. 
+
+<br> 
+
+<https://insideevs.com/news/752679/kia-ev9-v2h-wallbox-quasar2/>
 
 ---
 
@@ -21,7 +221,7 @@ Plus, VW ID.Every1 is the first VW to use Rivian software and GM faces another l
 
 ---
 
-## Older Ford F-150 Lightning EVs Get DC Fast Charging Boost Through OTA Update
+## Ford Just Improved The F-150 Lightning's Charging Time With A Software Update
 
 date: 2025-03-06, from: Inside EVs News
 

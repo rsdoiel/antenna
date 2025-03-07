@@ -1,11 +1,209 @@
 ---
 title: food
-updated: 2025-03-06 07:06:29
+updated: 2025-03-07 07:09:37
 ---
 
 # food
 
-(date: 2025-03-06 07:06:29)
+(date: 2025-03-07 07:09:37)
+
+---
+
+## Weekly Coffee News: The Wizard Steamer + Biochar in Colombia
+
+date: 2025-03-07, from: Daily Coffee News
+
+<div><img width="620" height="479" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/wizard_lifestyle_16-620x479.jpg" class="attachment-large size-large wp-post-image" alt="wizard_lifestyle_16" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/wizard_lifestyle_16-620x479.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/wizard_lifestyle_16-300x232.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/wizard_lifestyle_16-150x116.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/wizard_lifestyle_16-768x593.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/wizard_lifestyle_16.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Flair Brings Some Magic Home with The Wizard Steamer... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/07/weekly-coffee-news-the-wizard-steamer-biochar-in-colombia/>
+
+---
+
+## Coffee Linked With Decreased Risk Of Metabolic Syndrome
+
+date: 2025-03-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Consuming polyphenol-rich items like coffee were found to reduce the risk by 23%. 
+
+<br> 
+
+<https://sprudge.com/coffee-linked-with-decreased-risk-of-metabolic-syndrome-293655.html>
+
+---
+
+## How Coffee Shops With 5+ Locations Can Maintain  Operational Efficiency
+
+date: 2025-03-07, from: The Fresh Cup
+
+<p>Operating one coffee shop is hard enough, but juggling multiple locations while keeping quality standards high can feel impossible. Here’s how these owners do it. </p>
+<p>The post <a href="https://freshcup.com/how-coffee-shops-with-5-locations-can-maintain-operational-efficiency/">How Coffee Shops With 5+ Locations Can Maintain  Operational Efficiency</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/how-coffee-shops-with-5-locations-can-maintain-operational-efficiency/>
+
+---
+
+## Slow-Roasted Salmon and More Recipes We Made This Week
+
+date: 2025-03-07, from: Bon Appetet
+
+Like basil chicken stir-fry and chickpea salad. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-march-2025>
+
+---
+
+## Chopped Cheese
+
+date: 2025-03-07, from: Taste of Home
+
+Bring a taste of New York City to your kitchen with this chopped cheese recipe that packs crispy ground beef and melty cheese into a soft roll with all the toppings. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chopped-cheese/>
+
+---
+
+## Ninja Blender Review: We Tested This Smart Blender and It Exceeded All of Our Expectations
+
+date: 2025-03-07, from: Taste of Home
+
+<p>We tested 14 blenders and there was one clear winner. Here's why our expert Testing Team dubbed the Ninja Detect Duo Power Blender the best of the best.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ninja-blender-review/">Ninja Blender Review: We Tested This Smart Blender and It Exceeded All of Our Expectations</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ninja-blender-review/>
+
+---
+
+## 23 Noodle Soup Ideas for Cozy Dinners and More
+
+date: 2025-03-06, from: Bon Appetet
+
+Gingery chicken noodle, French onion ramen, and more comforting bowls. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/noodle-soups-recipes-ideas>
+
+---
+
+## We Ranked Every Costco Food Court Item, and the Winner Shocked Us
+
+date: 2025-03-06, from: Taste of Home
+
+<p>This taste test cost us only $28.43 before tax. The Costco food court is a steal!</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-costco-food-court-items/">We Ranked Every Costco Food Court Item, and the Winner Shocked Us</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-costco-food-court-items/>
+
+---
+
+## Gluten-Free Angel Food Cake
+
+date: 2025-03-06, from: Taste of Home
+
+Our gluten-free angel food cake mimics the original, with a quick gluten-free flour swap to make it happen. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gluten-free-angel-food-cake-2/>
+
+---
+
+## Noma Now Has Their Own Coffee Roasting Subscription Company
+
+date: 2025-03-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Introduction Noma Kaffe, a new coffee project from Noma. 
+
+<br> 
+
+<https://sprudge.com/noma-now-has-their-own-coffee-roasting-subscription-company-293621.html>
+
+---
+
+## I Need a Foolproof Cheesecake Recipe
+
+date: 2025-03-06, from: Bon Appetet
+
+Jesse and Shilpa are back with BA Bake Club. This month the duo tells us how to make a textbook Basque cheesecake imbued with the bittersweet flavors of tiramisu. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-a-foolproof-cheesecake-recipe>
+
+---
+
+## Should Kids Be Allowed in Fine Dining Restaurants?
+
+date: 2025-03-06, from: Bon Appetet
+
+Some chefs and diners welcome the presence of well-behaved children at costly meals, but there are caveats. 
+
+<br> 
+
+<https://www.bonappetit.com/story/children-fine-dining-restaurants>
+
+---
+
+## Best Dish Drying Rack, Tested and Reviewed
+
+date: 2025-03-06, from: Bon Appetet
+
+And yes, you should own one even if you have a dishwasher. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-dish-drying-racks>
+
+---
+
+## The Best Immersion Blenders, Reviewed by Our Experts
+
+date: 2025-03-06, from: Bon Appetet
+
+Maybe you don’t need that bulky full-size blender after all. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-immersion-blenders>
+
+---
+
+## Brazilian Coffee Traders Atlantica and Cafebras File for Bankruptcy
+
+date: 2025-03-06, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Atlantica-Cafebras-620x400.png" class="attachment-large size-large wp-post-image" alt="Atlantica Cafebras" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Atlantica-Cafebras-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Atlantica-Cafebras-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Atlantica-Cafebras-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Atlantica-Cafebras-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Atlantica-Cafebras.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Brazilian coffee exporting companies Atlântica Exportação e Importação SA (Atlantica) and Cafebras Comércio de Cafés do Brasil SA (Cafebras) — both part of the Montesanto Tavares Group — have filed... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/06/brazilian-coffee-traders-atlantica-and-cafebras-file-for-bankruptcy/>
+
+---
+
+## Sneaks Coffee + Lounge Steps Up In Houston
+
+date: 2025-03-06, from: Daily Coffee News
+
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Sneaks-Coffee-Lounge-clock-1-620x439.jpeg" class="attachment-large size-large wp-post-image" alt="Sneaks Coffee + Lounge clock" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Sneaks-Coffee-Lounge-clock-1-620x439.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Sneaks-Coffee-Lounge-clock-1-300x212.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Sneaks-Coffee-Lounge-clock-1-150x106.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Sneaks-Coffee-Lounge-clock-1-768x544.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Sneaks-Coffee-Lounge-clock-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Treading boldly in with a mix of specialty coffee, cocktails and sneakerhead culture is a new cafe/bar concept in Houston called Sneaks Coffee + Lounge. The inventive cafe and nightclub... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/06/sneaks-coffee-lounge-steps-up-in-houston/>
 
 ---
 
@@ -13,7 +211,7 @@ updated: 2025-03-06 07:06:29
 
 date: 2025-03-06, from: Bon Appetet
 
-Sushi is about as far from traditional Ukrainian food as you can get. Over the last 20 years, it's become central to the identity and cuisine of a country at war. 
+Sushi is about as far from traditional Ukrainian food as you can get. Over the past 20 years, it’s become central to the identity and cuisine of a country at war. 
 
 <br> 
 
@@ -21,12 +219,12 @@ Sushi is about as far from traditional Ukrainian food as you can get. Over the l
 
 ---
 
-## I Tried Chipotle’s New Honey Chipotle Chicken, and Wow, Just Wow
+## I Tried Chipotle’s New Chipotle Honey Chicken, and Wow, Just Wow
 
 date: 2025-03-06, from: Taste of Home
 
-<p>The new Honey Chipotle Chicken at Chipotle is—per usual—perfection, but only if you order it the right way.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/chipotle-honey-chipotle-chicken/">I Tried Chipotle&#8217;s New Honey Chipotle Chicken, and Wow, Just Wow</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+<p>The new Chipotle Honey Chicken is—per usual—perfection, but only if you order it the right way.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chipotle-honey-chipotle-chicken/">I Tried Chipotle&#8217;s New Chipotle Honey Chicken, and Wow, Just Wow</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
 <br> 
@@ -39,7 +237,7 @@ date: 2025-03-06, from: Taste of Home
 
 date: 2025-03-06, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee shop espresso" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York-based business operations software provider Odeko, which specializes in the coffee shop and cafe solutions, said it raised $96 million through its latest Series E funding round. In addition... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee shop espresso" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-shop-espresso.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>New York-based business operations software provider Odeko, which specializes in the coffee shop and cafe solutions, said it raised $96 million through its latest Series E funding round. In addition... 
 
 <br> 
 
@@ -56,6 +254,18 @@ Spiced chicken, charred peppers, and gooey cheese—these never-soggy quesadilla
 <br> 
 
 <https://www.bonappetit.com/recipe/chicken-quesadillas>
+
+---
+
+## 6 Cocktail Trends to Watch in 2025
+
+date: 2025-03-06, from: Bon Appetet
+
+Smoked ice, zero-waste innovation, and cocktail lore are just some of our favorite drinking trends. 
+
+<br> 
+
+<https://www.bonappetit.com/story/2025-cocktail-bar-trends>
 
 ---
 
@@ -183,7 +393,7 @@ date: 2025-03-05, from: The Sprudge
 
 date: 2025-03-05, from: Daily Coffee News
 
-<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg" class="attachment-large size-large wp-post-image" alt="House Brew Baton Rouge Smoky Bean" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean.jpeg 1536w" sizes="(max-width: 620px) 100vw, 620px" /></div>A coffee house is now a home to two businesses in Baton Rouge, Louisiana, as House Brew and Smoky Bean Roasting Co. are now sharing a roof, as well as... 
+<div><img width="620" height="413" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg" class="attachment-large size-large wp-post-image" alt="House Brew Baton Rouge Smoky Bean" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-620x413.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-300x200.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-150x100.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean-768x512.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/House-Brew-Baton-Rouge-Smoky-Bean.jpeg 1536w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A coffee house is now a home to two businesses in Baton Rouge, Louisiana, as House Brew and Smoky Bean Roasting Co. are now sharing a roof, as well as... 
 
 <br> 
 
@@ -195,7 +405,7 @@ date: 2025-03-05, from: Daily Coffee News
 
 date: 2025-03-05, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-620x414.jpg" class="attachment-large size-large wp-post-image" alt="ditting grinder" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Zurich, Switzerland-based coffee equipment conglomerate Hemro Group and batch brewing equipment specialist Fetco signed an exclusive distribution agreement for the Ditting brand in the United States, according to the companies.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-620x414.jpg" class="attachment-large size-large wp-post-image" alt="ditting grinder" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/ditting-grinder.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Zurich, Switzerland-based coffee equipment conglomerate Hemro Group and batch brewing equipment specialist Fetco signed an exclusive distribution agreement for the Ditting brand in the United States, according to the companies.... 
 
 <br> 
 

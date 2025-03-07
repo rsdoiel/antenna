@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-03-06 07:06:26
+updated: 2025-03-07 07:09:33
 ---
 
 # weather
 
-(date: 2025-03-06 07:06:26)
+(date: 2025-03-07 07:09:33)
 
 ---
 
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
 
-date: 2025-03-06, from: Eastern Pacific Basin GIS Data
+date: 2025-03-07, from: Central Pacific Basin Tropical Cyclones
 
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
 
 <br> 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Thu Mar  6 13:28:02 UTC 2025
+## SPC - No watches are valid as of Fri Mar  7 14:12:01 UTC 2025
 
-date: 2025-03-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-03-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Thu Mar  6 13:28:02 UTC 2025. 
+No watches are valid as of Fri Mar  7 14:12:01 UTC 2025. 
 
 <br> 
 
@@ -33,11 +33,11 @@ No watches are valid as of Thu Mar  6 13:28:02 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Thu Mar  6 13:28:02 UTC 2025
+## SPC - No MDs are in effect as of Fri Mar  7 14:12:02 UTC 2025
 
-date: 2025-03-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-03-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Thu Mar  6 13:28:02 UTC 2025. 
+No Mesoscale Discussions are in effect as of Fri Mar  7 14:12:02 UTC 2025. 
 
 <br> 
 
@@ -45,35 +45,45 @@ No Mesoscale Discussions are in effect as of Thu Mar  6 13:28:02 UTC 2025.
 
 ---
 
-## SPC Mar 6, 2025 1300 UTC Day 1 Convective Outlook
+## SPC Mar 7, 2025 1300 UTC Day 1 Convective Outlook
 
-date: 2025-03-06, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-03-07, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0646 AM CST Thu Mar 06 2025
+0638 AM CST Fri Mar 07 2025
 
-Valid 061300Z - 071200Z
+Valid 071300Z - 081200Z
 
 ...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Severe thunderstorms are not forecast across the contiguous United
-States through tonight.
+Thunderstorm development will be possible in parts of the Desert
+Southwest and southern Plains today into tonight. The potential for
+severe weather is expected to remain low.
 
 ...Synopsis...
-A mid- to upper-level trough over the West Coast will gradually
-shift eastward into the Interior West as another large-scale trough
-over the East Coast pivots eastward into the western Atlantic. 
-Surface high pressure will be centered over the central Gulf Coast
-today while a lee low develops over the central High Plains.  Widely
-scattered showers and isolated thunderstorms are possible from
-central CA eastward through the Great Basin and into the central
-Rockies.  Scant instability will preclude strong/severe storm
-development with this activity.
+Water-vapor imagery this morning shows a mid-level low and
+associated trough over the lower CO Valley/Baja vicinity.  Models
+show this mid-level low moving east into NM by late tonight.  In the
+low levels, a low initially over KS will move east along a frontal
+zone and weaken as it moves into the lower OH Valley.  A trailing
+cold front will push southward into central TX by daybreak Saturday.
+A weak area of low pressure will move from NM into the Edwards
+Plateau tonight.  Southerly low-level flow/warm air advection around
+850 mb will act to moisten profiles from central/north TX into
+southern OK during the 08/09-12 UTC period.  Forecast soundings over
+western north TX show cold 500-mb temperatures (around -20 deg C)
+and upwards of 500-1000 MUCAPE.  Isolated to widely scattered
+showers and a few elevated thunderstorms are possible.  The majority
+of members from the latest convection-allowing model guidance (e.g.,
+00 UTC HREF, MPAS) imply limited storm intensity.  The strong
+effective shear/cold mid-level temperatures could support hail with
+the stronger elevated cells, but the severe threat is currently
+expected to be low.
 
-..Smith/Jewell.. 03/06/2025
+..Smith/Dean.. 03/07/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>

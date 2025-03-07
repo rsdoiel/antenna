@@ -1,11 +1,156 @@
 ---
 title: home
-updated: 2025-03-06 07:06:28
+updated: 2025-03-07 07:09:35
 ---
 
 # home
 
-(date: 2025-03-06 07:06:28)
+(date: 2025-03-07 07:09:35)
+
+---
+
+## Bee Balm Care and Growing Guide (Most Detailed)
+
+date: 2025-03-07, from: Yard Life blog
+
+<p>Bee balm (Monarda) is a stunning, easy-to-grow perennial herbaceous plant that brings a burst of color to any garden. Known ... </p>
+<p class="read-more-container"><a title="Bee Balm Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/bee-balm-care-and-growing-guide-most-detailed/#more-24610" aria-label="Read more about Bee Balm Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/bee-balm-care-and-growing-guide-most-detailed/">Bee Balm Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/bee-balm-care-and-growing-guide-most-detailed/>
+
+---
+
+## The Realities of Buying a Classic Car: Costs, Challenges, and Rewards
+
+date: 2025-03-06, from: Family Handyman Blog
+
+<p>Classic cars fill us with long ago memories, remind us of special events and can hold emotional value, sometimes greater than their actual worth.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/buying-a-classic-car-guide/">The Realities of Buying a Classic Car: Costs, Challenges, and Rewards</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/buying-a-classic-car-guide/>
+
+---
+
+## Maximize Your Space: 19 Tips to Make a Small Room Feel Bigger
+
+date: 2025-03-06, from: Family Handyman Blog
+
+<p>Use these furniture, art, and paint color tricks to make a small room look bigger.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/make-a-small-room-look-bigger-ideas/">Maximize Your Space: 19 Tips to Make a Small Room Feel Bigger</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/make-a-small-room-look-bigger-ideas/>
+
+---
+
+## These Salmon Recipes Are Perfect for Nights When You Don’t Know What to Cook
+
+date: 2025-03-06, from: Sunset Magazine - Living in the West
+
+These easy salmon recipes—grilled or poached, smoked or roasted—will please every palate, even picky eaters. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/salmon-recipes>
+
+---
+
+## 14 Ways To Eliminate Garbage Can Odors
+
+date: 2025-03-06, from: Family Handyman Blog
+
+<p>Cringing when you walk by the kitchen garbage bin? Here's how to stop the stink, plus prevent it from coming back.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/eliminate-garbage-can-odors/">14 Ways To Eliminate Garbage Can Odors</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/eliminate-garbage-can-odors/>
+
+---
+
+## These Wellness Retreats Are Like a Real-Life ‘The White Lotus’ (without the Murder Part)
+
+date: 2025-03-06, from: Sunset Magazine - Living in the West
+
+HBO'S hit series 'White Lotus' has us craving a serious reset. Here's where to find the best retreats in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/wellness-retreats-like-white-lotus>
+
+---
+
+## Peek Inside the $7M Gilded Age Mansion Arm & Hammer Built
+
+date: 2025-03-06, from: Dwell
+
+Founder John Dwight spared no expense on the lavish 12,000-square-foot NYC residence, which has been painstakingly restored to its original glory. 
+
+<br> 
+
+<https://www.dwell.com/article/arm-and-hammer-mansion-john-dwight-harlem-new-york-city-real-estate-efbb3d4a>
+
+---
+
+## West African Textiles Inspired This Los Angeles ADU’s Rhythmic Cladding
+
+date: 2025-03-06, from: Dwell
+
+Timber slats topping the two-level indoor/outdoor plan recall the weave of kente cloth. 
+
+<br> 
+
+<https://www.dwell.com/article/textile-house-nwankpa-design-backyard-house-adu-indoor-outdoor-plan-b88b70f3>
+
+---
+
+## This Is L.A.’s Hottest Neighborhood Right Now—What to See, Do and Eat There
+
+date: 2025-03-06, from: Sunset Magazine - Living in the West
+
+Melrose Hill is home to a new spate of restaurants, shops, and galleries, poised to become L.A.’s next hot neighborhood. 
+
+<br> 
+
+<https://www.sunset.com/travel/melrose-hill-los-angeles-things-to-do>
+
+---
+
+## 13 of the Best Varieties of Patty Pan (Scallop) Squash
+
+date: 2025-03-06, from: The Gardener's Path
+
+<p>Scallop squash are tender, tasty, and beautifully shaped, resembling pies or flying saucers. And with a wide selection of different types to choose from, even the pickiest gardener is bound to find a patty pan that will become a new favorite. Discover 13 of the best types of patty pan squash in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/best-patty-pan-squash/">13 of the Best Varieties of Patty Pan (Scallop) Squash</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/best-patty-pan-squash/>
+
+---
+
+## Why Are So Many Stores Closing in 2025?
+
+date: 2025-03-06, from: Family Handyman Blog
+
+<p>2025 is looking to follow the trend of 2024. Store closures are up nearly 334% due in part to private equity investments. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/store-closures-2025/">Why Are So Many Stores Closing in 2025?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/store-closures-2025/>
 
 ---
 
@@ -21,15 +166,15 @@ For well under $100, I DIYed my living room coffee table—and I can redo it any
 
 ---
 
-## These Salmon Recipes Are Perfect for Nights When You Don’t Know What to Cook
+## Sunset.com Home Page
 
 date: 2025-03-06, from: Sunset Magazine - Living in the West
 
-These easy salmon recipes—grilled or poached, smoked or roasted—will please every palate, even picky eaters. 
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
 
 <br> 
 
-<https://www.sunset.com/food-wine/kitchen-assistant/salmon-recipes>
+<https://www.sunset.com/>
 
 ---
 
@@ -138,6 +283,18 @@ The revamped Spanish-style four-bedroom had a star turn as the setting where Kri
 
 ---
 
+## 16 Biographies to Devour During Women’s History Month (and Beyond)
+
+date: 2025-03-05, from: Sunset Magazine - Living in the West
+
+The Goodreads team have compiled a list of the most popular biographies and history books about women to celebrate Women's History Month. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/womens-history-month-books>
+
+---
+
 ## 60,500 Volkswagen and Audi Cars Recalled Over Gear Display Glitch
 
 date: 2025-03-05, from: Family Handyman Blog
@@ -211,18 +368,6 @@ One creative couple had a unique source of inspiration for their house renovatio
 <br> 
 
 <https://www.sunset.com/home-garden/home-tours/coffee-shop-inspired-house>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-05, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -378,6 +523,30 @@ The Chinese architect was recognized by the jury for his ability to draw on ever
 <br> 
 
 <https://www.dwell.com/article/liu-jiakun-pritzker-prize-2025-b6723bf6-a0c80c92>
+
+---
+
+## There’s a Porch and Bedroom for Everyone in This Oceanfront North Myrtle Beach Home,  Asking $4.4M
+
+date: 2025-03-04, from: Dwell
+
+Amenities abound in this investment property including a saltwater pool and private dune walk to the beach. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-oceanfront-pool-north-myrtle-beach-real-estate-a9f90979>
+
+---
+
+## A Stylish Single-Level Midcentury in Los Angeles Seeks $1.9M
+
+date: 2025-03-04, from: Dwell
+
+Clean, contemporary edits open up airy midcentury bones. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-midcentury-los-angeles-real-estate-85a47c12>
 
 ---
 

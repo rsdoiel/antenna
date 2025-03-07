@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-03-06 07:06:26
+updated: 2025-03-07 07:09:34
 ---
 
 # games
 
-(date: 2025-03-06 07:06:26)
+(date: 2025-03-07 07:09:34)
+
+---
+
+## Somehow my fave Marvel Comic right now is the one where the Avengers fight xenomorphs
+
+date: 2025-03-07, updated: 2025-03-06, from: Polygon Website
+
+There are few firm rules in comics reading, but Never trust an inter-brand tie-in comic could be one of them. The business interests are too involved to expect big creative swings, the licenses too fleeting to expect the books to be long-lived.&#160; And sometimes, even when a book is genuinely good, a panel of it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/comics/534883/aliens-vs-avengers-crossover-comic-marvel>
+
+---
+
+## Elden Ring: The Board Game left me beaten, scared, and hungry for more — just like the real thing
+
+date: 2025-03-07, updated: 2025-03-07, from: Polygon Website
+
+So I&#8217;m lying there with a spear in my chest after tapping a big mounted knight on the shoulder and I realize the designers of Elden Ring: The Board Game &#8211; Realm of the Grafted King know exactly what they&#8217;re doing. Nobody stepped out onto the grassy plains of Limgrave in Elden Ring, the video [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/534491/elden-ring-the-board-game-realm-of-the-grafted-king-core-box-review>
+
+---
+
+## Pokémon TCG Pocket schedule of events for March 2025
+
+date: 2025-03-07, updated: 2025-03-07, from: Polygon Website
+
+The Pokémon TCG Pocket schedule is full of events that allow you to grow your digital collection of cards. The developers have run several events as part of the game’s Space-Time Smackdown and Triumphant Light expansions at the time of publication. The content of each event can vary greatly; some require you to battle, whereas [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/522567/schedule-events-all-dates>
+
+---
+
+## Atomfall mixes STALKER, Doctor Who, and Children of Men into a very British nuclear disaster
+
+date: 2025-03-07, updated: 2025-03-07, from: Polygon Website
+
+Atomfall, the new game from Sniper Elite developer (and 2000 AD owner) Rebellion, is set in the Lake District in northwestern England in an imagined version of the 1960s. It’s a world of stark mountains, creepy moorland, homely village pubs, and eccentric country folk. It’s also a quarantine zone where clanking, retrofuturistic mechs patrol a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/535050/atomfall-hands-on>
+
+---
+
+## Discoveries
+
+date: 2025-03-06, updated: 2025-03-06, from: Polygon Website
+
+At Polygon, we want to introduce you to at least one thing we think you’d love every single day. With so many games, movies, shows, and internet-based quick bites (or “quibis”) out there to experience, we know it’s next to impossible to decide how to take a chance on the untested, dive into the unknown. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## The trials and tribulations of setting up The Sims 4’s small businesses
+
+date: 2025-03-06, updated: 2025-03-06, from: Polygon Website
+
+The newest expansion for The Sims 4 is a game changer, allowing Sims to chase new ambitions and start their own business. This is a concept that was explored back in 2015, with Get to Work, but that expansion never really reached its full potential: While active careers were a fun addition, the ability to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/535696/the-sims-4-hobbies-business-starting-tips>
+
+---
+
+## Over 80K Monster Hunter Wilds players just want to see health bars
+
+date: 2025-03-06, updated: 2025-03-06, from: Polygon Website
+
+The only thing PC Monster Hunter Wilds players want more than fully nude characters are health bars. One of the most popular mods uncovers information that the game hides from you, like a monster’s current health. Even though there are various ways the game communicates whether a monster is weak or not, thousands of people [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/535512/monster-hunter-wilds-health-bar-mods>
+
+---
+
+## Demon Slayer’s animation studio celebrates Major League Baseball coming to Japan
+
+date: 2025-03-06, updated: 2025-03-06, from: Polygon Website
+
+Demon Slayer’s next entry, the first movie in the Infinity Castle trilogy, may not arrive in the United States until next fall, but the hype train is already leaving the station — and just in time for baseball season. Demon Slayer studio Ufotable partnered with Major League Baseball to release a special Demon Slayer-themed hype [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/535622/demon-slayer-mlb-dodgers-shohei-ohtani-ufotable>
+
+---
+
+## How to get Hunter Symbols 1, 2, and 3 in Monster Hunter Wilds
+
+date: 2025-03-06, updated: 2025-03-06, from: Polygon Website
+
+Hunter Symbols are a resource needed to craft endgame armor and weapons in Monster Hunter Wilds. “Endgame” is the keyword here, as gathering Hunter Symbols requires access to tempered monsters, which become progressively available during the High Rank story chapters. Furthermore, the rarity of the resource is tied to the star-difficulty of each hunt. Our [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/533864/hunter-symbols-how-to-get>
 
 ---
 
@@ -126,18 +234,6 @@ The Humble Choice selections for March have arrived and are making a strong argu
 <br> 
 
 <https://www.polygon.com/good-deals/534642/humble-choice-march-pacific-drive-homeworld-3-wild-hearts-sale>
-
----
-
-## Discoveries
-
-date: 2025-03-05, updated: 2025-03-05, from: Polygon Website
-
-At Polygon, we want to introduce you to at least one thing we think you’d love every single day. With so many games, movies, shows, and internet-based quick bites (or “quibis”) out there to experience, we know it’s next to impossible to decide how to take a chance on the untested, dive into the unknown. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 

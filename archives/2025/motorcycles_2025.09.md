@@ -1,11 +1,95 @@
 ---
 title: motorcycles
-updated: 2025-03-06 07:06:28
+updated: 2025-03-07 07:09:36
 ---
 
 # motorcycles
 
-(date: 2025-03-06 07:06:28)
+(date: 2025-03-07 07:09:36)
+
+---
+
+## Here's How This YouTuber Prepped His Project V-Rod For a Road Trip
+
+date: 2025-03-07, from: Ride Apart, Electric Motorcycle News
+
+V-Rod? V-Glide? Any way you call it, it's a vision and it's ready to roll. 
+
+<br> 
+
+<https://www.rideapart.com/news/752726/harley-vrod-buildoff-bike-video/>
+
+---
+
+## Michelin Is Finally Exiting MotoGP as Pirelli Takes the Lead, and It’s Good for Everyone
+
+date: 2025-03-07, from: Ride Apart, Electric Motorcycle News
+
+"There's no such thing as bad press". Yeah, tell that to Michelin. 
+
+<br> 
+
+<https://www.rideapart.com/news/752728/pirelli-official-motogp-tire-sponsor/>
+
+---
+
+## MotoGP's Writers Room Forgets We've Done This Storyline, Says Flooded Spain Will Go On
+
+date: 2025-03-07, from: Ride Apart, Electric Motorcycle News
+
+This is why a show bible is so important.  
+
+<br> 
+
+<https://www.rideapart.com/news/752706/motogp-jerez-spain-flooding/>
+
+---
+
+## Vespa's Owner Is Just Conquering the Market, KTM Should Take Note
+
+date: 2025-03-07, from: Ride Apart, Electric Motorcycle News
+
+There's no big secret to the sauce.  
+
+<br> 
+
+<https://www.rideapart.com/news/752623/piaggio-record-margins-2024/>
+
+---
+
+## Naked Bikes Are a Thing, But Here's Why Naked Scooters Aren't
+
+date: 2025-03-07, from: Ride Apart, Electric Motorcycle News
+
+Or, the eternal battle of "simplify and add lightness" versus "MY EYES, MY EYES!" 
+
+<br> 
+
+<https://www.rideapart.com/news/752627/zundapp-suburbanette-us-exclusive-scooter/>
+
+---
+
+## Honda’s Quietly Becoming the Best-Value Premium Motorcycle Brand
+
+date: 2025-03-07, from: Ride Apart, Electric Motorcycle News
+
+There's just one, tiny problem, for now. 
+
+<br> 
+
+<https://www.rideapart.com/news/752604/honda-best-value-premium-brand/>
+
+---
+
+## ARCA Menards West Series: 2025 Phoenix Race Preview
+
+date: 2025-03-06, from: Kickin the Tires blog
+
+By Vincent Delforge, Staff Writer The second race of the twelve that make up the 2025 ARCA Menards West Series season takes place at Phoenix International Raceway, located in Avondale,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-phoenix-race-preview/>
 
 ---
 

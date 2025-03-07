@@ -1,11 +1,357 @@
 ---
 title: journalism
-updated: 2025-03-06 07:06:27
+updated: 2025-03-07 07:09:34
 ---
 
 # journalism
 
-(date: 2025-03-06 07:06:27)
+(date: 2025-03-07 07:09:34)
+
+---
+
+## UCLA Percussion Ensemble plans to drum up vast range of sounds at winter recital
+
+date: 2025-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s Percussion Ensemble will set the rhythm straight with an upcoming recital.
+Every quarter, percussion performance lecturer Theresa Dimond&#8217;s class performs in Schoenberg Hall. After a quarter filled with new obstacles and challenges, Dimond said about 20 students will gather to perform an array of pieces &#8211; from a historical military piece to contemporary sounds &#8211; Monday at 8 p.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/ucla-percussion-ensemble-plans-to-drum-up-vast-range-of-sounds-at-winter-recital/>
+
+---
+
+## Gen Z Wellness Summit challenges self-perception, change-making in mental health
+
+date: 2025-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Filled with high school students, giveaways and celebrities, the Ackerman Grand Ballroom transformed into a vibrant wellness hub Sunday morning.
+The 2025 Gen Z Wellness Summit &#8211; hosted by the UCLA Friends of the Semel Institute for Neuroscience and Human Behavior&#8217;s Teen Advisory Council along with Unlikely Collaborators, a conflict resolution organization &#8211; featured guest speakers, live music and mental health-related activities. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/gen-z-wellness-summit-challenges-self-perception-change-making-in-mental-health/>
+
+---
+
+## In Plain Sight: From Dolly Parton to Kendrick Lamar, UCLA librarians make knowledge accessible
+
+date: 2025-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dolly Parton inspired Gissel Rios to become a librarian.
+While studying at Georgetown University, Rios was captivated watching Parton speak at the Library of Congress about her Imagination Library program. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/in-plain-sight-from-dolly-parton-to-kendrick-lamar-ucla-librarians-make-knowledge-accessible/>
+
+---
+
+## Long commutes, short-staffed – ‘We want to live,’ union leaders demand from UC
+
+date: 2025-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sitting in traffic makes Jacob Creer nauseous. He can hear the sound of his 2018 Mazda 3 hatchback&#8217;s brakes just thinking about it. 
+So instead of sitting in traffic, Creer &#8211; a clinical equipment specialist &#8211; leaves his house in Fullerton to arrive by 5 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/long-commutes-short-staffed-we-want-to-live-union-leaders-demand-from-uc/>
+
+---
+
+## Classifieds – March 7, 2025
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/classifieds-march-7-2025/">Classifieds &#8211; March 7, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/classifieds-march-7-2025/>
+
+---
+
+## From the editors
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>This is the 10th issue of the Daily Trojan Magazine, but it’s also a new beginning.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/from-the-editors/">From the editors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/from-the-editors/>
+
+---
+
+## The Weekly Frame III: LA Graffiti
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/03/07/the-weekly-frame-iii-la-graffiti/">The Weekly Frame III: LA Graffiti</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/the-weekly-frame-iii-la-graffiti/>
+
+---
+
+## I heard Pilates is easy
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Understanding the fitness experience for women.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/i-heard-pilates-is-easy/">I heard Pilates is easy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/i-heard-pilates-is-easy/>
+
+---
+
+## New Annenberg course focuses on sustainability, AI
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The curriculum examines environmental and social issues using social media.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/new-annenberg-course-focuses-on-sustainability-ai/">New Annenberg course focuses on sustainability, AI</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/new-annenberg-course-focuses-on-sustainability-ai/>
+
+---
+
+## The live-action remake referendum
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With “Snow White” dancing its way into theaters, it’s time to tackle one of the most widely panned blockbuster subgenres.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/the-live-action-remake-referendum/">The live-action remake referendum</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/the-live-action-remake-referendum/>
+
+---
+
+## Cartoon of the Month: March
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I hate midterms.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/cartoon-of-the-month-march/">Cartoon of the Month: March</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/cartoon-of-the-month-march/>
+
+---
+
+## War experiences transform sorrows into art
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Ukrainian artists use their voices to bring awareness and optimism during war.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/war-experiences-transform-sorrows-into-art/">War experiences transform sorrows into art</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/war-experiences-transform-sorrows-into-art/>
+
+---
+
+## Sitting on the edge: Are RAs students or mentors?
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I dare you to pull an all-nighter. Oh, wait. That’s part of your job description. </p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/sitting-on-the-edge-are-ras-students-or-mentors/">Sitting on the edge: Are RAs students or mentors?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/sitting-on-the-edge-are-ras-students-or-mentors/>
+
+---
+
+## The new rules of LinkedIn
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It's okay to get personal when networking.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/the-new-rules-of-linkedin/">The new rules of LinkedIn</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/the-new-rules-of-linkedin/>
+
+---
+
+## Where pigs do fly
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Much of my childhood was spent at Bear Creek Saloon, watching pigs cross the finish line.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/where-pigs-do-fly/">Where pigs do fly</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/where-pigs-do-fly/>
+
+---
+
+## Qualms from a victim of academic validation
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Constantly searching for achievement has made enjoying the present a difficult task. </p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/qualms-from-a-victim-of-academic-validation/">Qualms from a victim of academic validation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/qualms-from-a-victim-of-academic-validation/>
+
+---
+
+## La profesora Erica Ball ha sido distinguida con un lugar en la American Antiquarian Society
+
+date: 2025-03-07, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>La profesora de Estudios Afroamericanos Erica Ball fue recientemente elegida miembro de la American Antiquarian Society, una biblioteca de investigación y comunidad con 212 años de historia, que ha contado entre sus miembros con 14 presidentes de EE.UU. y 75 ganadores del Premio Pulitzer. Ball es autora de varios libros centrados principalmente en la historia [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/03/06/la-profesora-erica-ball-ha-sido-distinguida-con-un-lugar-en-la-american-antiquarian-society/2914573">La profesora Erica Ball ha sido distinguida con un lugar en la American Antiquarian Society</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/03/06/la-profesora-erica-ball-ha-sido-distinguida-con-un-lugar-en-la-american-antiquarian-society/2914573>
+
+---
+
+## Department of Justice opens investigation into antisemitism allegations at UC
+
+date: 2025-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 7 at 1:30 a.m.</em>
+The United States Department of Justice announced Wednesday it had opened an investigation into the UC over alleged antisemitic treatment of its employees. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/06/department-of-justice-opens-investigation-into-antisemitism-allegations-at-uc/>
+
+---
+
+## Concert review: FINNEAS captures attention with dedicated performances, spellbinding lighting
+
+date: 2025-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 6 at 8:23 p.m.&#160;</em>
+When he is on stage, FINNEAS takes the audience through a roller coaster of emotions.
+As part of his ongoing concert series “For Cryin’ Out Loud! 
+
+<br> 
+
+<https://dailybruin.com/2025/03/06/concert-review-finneas-captures-attention-with-dedicated-performances-spellbinding-lighting/>
+
+---
+
+## Second Take: Republishing endless special editions of books does more harm than good
+
+date: 2025-03-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sometimes it is best not to judge a book by its cover &#8211; unless, of course, the cover is limited edition.
+One of the largest trends in the publishing of physical books has become the rerelease of published books with special, limited-edition covers. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/06/second-take-republishing-endless-special-editions-of-books-does-more-harm-than-good/>
+
+---
+
+## Editorial Cartoon: “Roll Call of Duty”
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#160; 
+
+<br> 
+
+<https://dailybruin.com/2025/03/06/editorial-cartoon-roll-call-of-duty/>
+
+---
+
+## Getty Center interns share interpretations of newly exhibited medieval manuscripts
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated at March 6 at 8:06 p.m.&#160;</em>
+With an ongoing exhibition, the Getty Center is giving new voices the opportunity to speak up. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/06/getty-center-interns-share-interpretations-of-newly-exhibited-medieval-manuscripts/>
+
+---
+
+## Politico Pro wants subscribers doing “deep research” on its site, not on ChatGPT
+
+date: 2025-03-06, from: Nieman Journalism Lab
+
+Politico Pro is a high-priced item ($12,000 or more annually!) that is targeted at a demanding audience of lobbyists, agency staffers, corporate execs, industry think-tankers, and oligarchs either real or aspiring. It attempts to give high-leverage intel about the world of D.C. policy to people in a position to take advantage of that intel. So... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/politico-pro-wants-subscribers-doing-deep-research-on-its-site-not-on-chatgpt/>
+
+---
+
+## News unions are grappling with generative AI. Our new study shows what they’re most concerned about
+
+date: 2025-03-06, from: Nieman Journalism Lab
+
+Generative AI hype has launched newsroom experiments around the world. Even though many of these early applications have become cautionary tales, the hype has endured for over two years since OpenAI publicly launched ChatGPT. In many ways, this is familiar territory for journalism. In a long line of digital technologies (smartphones, social media, the infamous... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/news-unions-are-grappling-with-generative-ai-our-new-study-shows-what-theyre-most-concerned-about/>
+
+---
+
+## Super Bowl 2025 Recap and Highlights
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/06/super-bowl-2025-recap-and-highlights/>
+
+---
+
+## History of The Super Bowl
+
+date: 2025-03-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/06/history-of-the-super-bowl/>
 
 ---
 

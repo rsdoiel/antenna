@@ -1,11 +1,159 @@
 ---
 title: socal north
-updated: 2025-03-06 07:06:23
+updated: 2025-03-07 07:09:31
 ---
 
 # socal north
 
-(date: 2025-03-06 07:06:23)
+(date: 2025-03-07 07:09:31)
+
+---
+
+## A DOGE enthusiast who wants to thwart Newsom will be California's newest state senator
+
+date: 2025-03-07, updated: 2025-03-07, from: The LAist
+
+Huntington Beach City Councilmember Tony Strickland looks likely to win more than 50% of the vote, removing the need for a runoff in the O.C. and L.A. County state Senate race. 
+
+<br> 
+
+<https://laist.com/news/politics/california-state-senator-tony-strickland>
+
+---
+
+## Fewer staircases in new LA buildings? Why experts say it could unlock more housing
+
+date: 2025-03-07, updated: 2025-03-07, from: The LAist
+
+A new Los Angeles City Council proposal aims to allow single-staircase buildings, a change advocates say would make room for more apartments, including bigger units for young families. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-city-council-single-stairway-motion-raman>
+
+---
+
+## Searing audit finds city of LA has failed to properly track billions in homelessness spending
+
+date: 2025-03-06, updated: 2025-03-07, from: The LAist
+
+Many of the problems identified were at the Los Angeles Homeless Services Authority, the public agency known as LAHSA. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/audit-homeless-carter-lahsa>
+
+---
+
+## Residents Invited to Volunteer at the 2025 Neighborhood Cleanup in Celebration of Earth Day on April 19
+
+date: 2025-03-06, from: City of Santa Clarita
+
+<p>Pre-registration will be available on March 10, 2025 City of Santa Clarita residents are invited to pre-register for the annual Neighborhood Cleanup (NCU) in celebration of Earth Day taking place on Saturday, April 19, 2025, to join the City in removing litter from local neighborhoods and public spaces. All interested residents are required to pre-register [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/06/residents-invited-to-volunteer-at-the-2025-neighborhood-cleanup-in-celebration-of-earth-day-on-april-19/">Residents Invited to Volunteer at the 2025 Neighborhood Cleanup in Celebration of Earth Day on April 19</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/06/residents-invited-to-volunteer-at-the-2025-neighborhood-cleanup-in-celebration-of-earth-day-on-april-19/>
+
+---
+
+## Palisades water restrictions to be lifted Friday
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+Officials say water is now safe to drink, but testing will continue. And residents will need to flush their plumbing. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/palisades-water-restrictions-lifted>
+
+---
+
+## Nearly 7 unhoused LA County residents died each day in 2023
+
+date: 2025-03-06, updated: 2025-03-07, from: The LAist
+
+The mortality rate rose 1% in 2023 over the previous year. That’s about 2,500 deaths of unhoused people in Los Angeles County in 2023, 45% of which were caused by drug overdoses. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/unhoused-death-rate-la-county-residents-2023>
+
+---
+
+## Trump's latest tariff twist: A break for Mexico and Canada
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+Trump put 25% tariffs on goods from Canada and Mexico on Tuesday. Markets tanked. And by Thursday, he had decided to broadly lift them. 
+
+<br> 
+
+<https://laist.com/news/politics/trumps-latest-tariff-twist-one-month-break-mexico>
+
+---
+
+## Federal officials extend foreclosure moratorium for many homes affected by the recent LA-area wildfires
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+Mortgages insured by the Federal Housing Administration could be eligible for the relief. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/federal-officials-extend-foreclosure-moratorium-homes-la-area-wildfires>
+
+---
+
+## Eaglet watch: Pip spotted on third egg in Jackie and Shadow's nest
+
+date: 2025-03-06, updated: 2025-03-07, from: The LAist
+
+As the famous bald eagle couple shields two chicks from the snow and cold, a third egg is finally showing signs of life. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/eaglet-watch-jackie-and-shadows-chicks-are-nice-and-toasty-despite-winter-storm>
+
+---
+
+## Changing Lives, One Paw at a Time
+
+date: 2025-03-06, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Laurene Weste &#160;“You cannot share your life with a dog…or a cat, and not know perfectly well that animals have personalities and minds and feelings.” – Jane Goodall &#160;&#160;&#160; Throughout my entire life, I have surrounded myself with animals, whether it is my beloved donkey, cattle dogs or horses – animals [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/06/changing-lives-one-paw-at-a-time/">Changing Lives, One Paw at a Time</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/06/changing-lives-one-paw-at-a-time/>
+
+---
+
+## A second federal judge has ruled to block the Trump administration's spending freeze
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+U.S. District Judge John McConnell Jr. said the attempt to pause trillions in federal spending "fundamentally undermines the distinct constitutional roles of each branch of our government." 
+
+<br> 
+
+<https://laist.com/news/politics/second-federal-judge-ruled-to-block-trump-administration-spending-freeze>
+
+---
+
+## Steve Carell announces that a charity will fund proms for students affected by LA fires
+
+date: 2025-03-06, updated: 2025-03-06, from: The LAist
+
+The children's organization, Alice's Kids, will cover the costs for approximately 800 students to enjoy prom night. 
+
+<br> 
+
+<https://laist.com/news/steve-carell-charity-will-fund-proms-for-students-affected-by-la-fires>
 
 ---
 
@@ -21,9 +169,9 @@ A Nowruz celebration, Bark & Brews at the Arboretum, the ultimate latte art thro
 
 ---
 
-## There's money for fire survivors. Why are some struggling to get it?
+## Some childcare providers lost everything in the Eaton Fire. Why can't they get any relief money?
 
-date: 2025-03-06, updated: 2025-03-06, from: The LAist
+date: 2025-03-06, updated: 2025-03-07, from: The LAist
 
 Almost two months after the L.A. fires, some childcare providers who lost their homes and businesses say they're not able to access the aid they've been told to apply for. 
 
@@ -253,7 +401,7 @@ date: 2025-03-06, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 ## LA committee explores pulling homelessness funds from regional agency
 
-date: 2025-03-06, updated: 2025-03-06, from: The LAist
+date: 2025-03-06, updated: 2025-03-07, from: The LAist
 
 The proposal mirrors a similar move by L.A. County leaders, who have also criticized LAHSA for oversight and accounting problems. 
 
@@ -275,9 +423,9 @@ At age 40, where does LeBron James' 50,000 career points record put him in the G
 
 ---
 
-## Another SoCal city just made life harder for people living on the street. Here's how
+## Fed up with homelessness, an OC city cracks down
 
-date: 2025-03-05, updated: 2025-03-05, from: The LAist
+date: 2025-03-05, updated: 2025-03-06, from: The LAist
 
 Cities are cracking down on homeless encampments after a recent state Supreme Court decision gave them the greenlight to do so. 
 
@@ -356,6 +504,18 @@ Up to a foot of snow, a brief burst of rain and whipping winds could hit the nes
 <br> 
 
 <https://laist.com/news/climate-environment/storm-big-bear-bald-eagle-chicks>
+
+---
+
+## The hidden history of Highland Park's pocket art park, La Tierra de la Culebra
+
+date: 2025-03-05, updated: 2025-03-05, from: The LAist
+
+La Tierra de la Culebra Park was established in the early 1990s by guerilla artist Tricia Ward in Highland Park. In the decades since, the neighborhood has been dubbed “ground zero” for gentrification. 
+
+<br> 
+
+<https://laist.com/news/hidden-history-highland-park-pocket-art-park-la-tierra-de-la-culebra>
 
 ---
 

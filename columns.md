@@ -1,11 +1,349 @@
 ---
 title: columns
-updated: 2025-03-06 07:06:25
+updated: 2025-03-07 07:09:33
 ---
 
 # columns
 
-(date: 2025-03-06 07:06:25)
+(date: 2025-03-07 07:09:33)
+
+---
+
+##  After 54 years, the organizers of the Bulwer-Lytton Fiction Contest (which celebrates... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046291-after-54-years-the-organi>
+
+---
+
+##  The Museum of All Things. &#8220;Every exhibit in the museum corresponds to... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046321-the-museum-of-all-things>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-07, from: Miguel de Icaza Mastondon feed)
+
+<p>Rebmasel is an actual national treasure:</p><p><a href="https://www.tiktok.com/t/ZT2CMyJ6s/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="">tiktok.com/t/ZT2CMyJ6s/</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114121389277425680>
+
+---
+
+## 2025-03-05 How do you process the news?
+
+date: 2025-03-07, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-05-how-do-you-process-the-news">2025-03-05 How do you process the news?</h1>
+
+<blockquote>
+<p>I&rsquo;m looking at the blog and noticing that I haven&rsquo;t posted much. It&rsquo;s hard.</p>
+</blockquote>
+
+<p>A long time ago I discontinued all my daily newspapers and just kept the weekly left-leaning cooperatively-owned <a href="https://www.woz.ch/">Wochenzeitung</a>. Once a month it comes with the German edition of <a href="https://monde-diplomatique.de/">Le Monde Diplomatique</a>.</p>
+
+<p>I used to read a lot of newspaper articles online, when I saw links in social media. But more and more of them erected a paywall. more and more of them have become pretty useless unless I go through the uBlock Origin settings to unblock random domains with more scripts and things. And so I have stopped reading them, too. And when politics look bad, I hesitate even more.</p>
+
+<p>Sometimes I feel like perhaps this means the end of the attention economy for me. Back to books?</p>
+
+<p>Some news sources I follow online:</p>
+
+<ul>
+<li><a class="account" href="https://troet.cafe/@woz" title="@woz@troet.cafe">@woz</a> is the feed for the weekly paper in German that I am subscribed to</li>
+<li><a class="account" href="https://masto.ai/@meduza_en" title="@meduza_en@masto.ai">@meduza_en</a> for stuff about Russia, Ukraine and the USA</li>
+<li><a class="account" href="https://chaos.social/@netzpolitik_feed" title="@netzpolitik_feed@chaos.social">@netzpolitik_feed</a> for civil rights online</li>
+<li><a class="account" href="https://mstdn.social/@Bellingcat" title="@Bellingcat@mstdn.social">@Bellingcat</a> for various strange things</li>
+<li><a class="account" href="https://mastodon.social/@theindex" title="@theindex@mastodon.social">@theindex</a> by <a class="account" href="https://mastodon.social/@Daojoan" title="@Daojoan@mastodon.social">@Daojoan</a> for independent news</li>
+</ul>
+
+<p>As always, the problem is that I feel the news should be a bit like taxes: Pay something and then read what you want. The payment models sort of imply that you&rsquo;d pay for all the subscriptions, which won&rsquo;t work. Or they imply that you&rsquo;d pay per article, which doesn&rsquo;t work because of the credit card fees. No micropayment means that one or two articles is already the equivalent of the whole subscription. And even then, I&rsquo;m not sure whether micropayments would sit well with me. My current status is that I only pay for the newspaper but <a href="https://www.woz.ch/abo/prowoz">at a pro level</a> for CHF 590 per year and I feel that CHF 50 per month ought to pay for all of my news.</p>
+
+<p>Some days I think I should subscribe to a Swiss digital newspaper, <a class="account" href="https://republik.social/@republik_magazin" title="@republik_magazin@republik.ch">@republik_magazin</a>. Just to support more diversity in a shrinking ecosystem. But I don&rsquo;t know whether I can process the news, to be honest.</p>
+
+<p>That seems to be my main problem.</p>
+
+<p>How do I process the news? 😥</p>
+
+<p><a class="tag" href="/search/?q=%23Media">#Media</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-05-processing>
+
+---
+
+## More reasons for modest optimism
+
+date: 2025-03-07, from: Robert Reich's blog
+
+This week&#8217;s ten 
+
+<br> 
+
+<https://robertreich.substack.com/p/this-weeks-ten-reasons-for-modest>
+
+---
+
+## March 6, 2025
+
+date: 2025-03-07, from: Heather Cox Richardson blog
+
+This morning, Ted Hesson and Kristina Cooke of Reuters reported that the Trump administration is preparing to deport the 240,000 Ukrainians who fled Russia&#8217;s attacks on Ukraine and have temporary legal status in the United States. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-6-2025>
+
+---
+
+## Three Alarming ‘Tells’ from Trump's Latest Speech.
+
+date: 2025-03-07, from: James Fallows, Substack
+
+What he said was disturbing. The way he said it was worse. What I learned from these 100 long minutes. 
+
+<br> 
+
+<https://fallows.substack.com/p/three-alarming-tells-from-trumps>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-07, from: Dave Winer's Scripting News)
+
+Doc Searls wrote this <a href="https://doc.searls.com/2025/03/06/radios-death-knells/">beautiful blog post</a> with <a href="https://wordland.social/">WordLand</a>. If I have my way blogging is going to come all the way back and then zooooom out from there. Still diggin! 
+
+<br> 
+
+<http://scripting.com/2025/03/06.html#a012906>
+
+---
+
+## Radio’s Death Knells
+
+date: 2025-03-07, from: Doc Searls (at Harvard), New Old Blog
+
+The radio station known since 1935 as KSFO, &#8220;The Sound of the City,&#8221; was a landmark at 560 on the Bay Area radio dial for most of the last century.  Other landmarks were KGO/810, KCBS/740, KFRC/610, and KNBR/680. KFRC went away in 2005, as religious programming moved to AM from 106.9, and KCBS added that [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/06/radios-death-knells/>
+
+---
+
+## Chaos Compounded
+
+date: 2025-03-07, from: Dan Rather's Steady
+
+So much damage, so little time 
+
+<br> 
+
+<https://steady.substack.com/p/chaos-compounded>
+
+---
+
+## Friday 7 March, 2025
+
+date: 2025-03-07, from: John Naughton's online diary
+
+Faces Teenagers outside the National Portrait Gallery. Quote of the Day ”They tried to bury me, but they didn’t know I was a seed.” Sinéad O’Connor Musical alternative to the morning’s radio news Willie Nelson &#38; Sinéad O&#8217;Connor &#124; Don&#8217;t &#8230; <a href="https://memex.naughtons.org/friday-7-march-2025/40510/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-7-march-2025/40510/>
+
+---
+
+## March 5, 2025
+
+date: 2025-03-06, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158546011/97dbb1db8b4fdaf5326c6029b2f6cd4d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158546011/97dbb1db8b4fdaf5326c6029b2f6cd4d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-5-2025-64a>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-06, from: Miguel de Icaza Mastondon feed)
+
+<p>Some wines sole reason to exist is to be reduced into a sauce.  I was just not expecting my stash to have so many of those.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114116745636906426>
+
+---
+
+## Nate Silver on the Demise of FiveThirtyEight
+
+date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.natesilver.net/p/a-few-words-about-fivethirtyeight>
+
+---
+
+## ★ ABC Shuts Down FiveThirtyEight, and Pulls the Plug on Its Website
+
+date: 2025-03-06, updated: 2025-03-07, from: Daring Fireball
+
+From the perspective of a company the size of Disney, it would cost veritable pennies to keep FiveThirtyEight’s website around forever. What a disgrace. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/abc_shuts_down_fivethirtyeight>
+
+---
+
+##  How Are You? 
+
+date: 2025-03-06, updated: 2025-03-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/how-are-you>
+
+---
+
+##  Report: You Live In An Embarrassing Country. &#8220;According to a new report... 
+
+date: 2025-03-06, updated: 2025-03-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046396-report-you-live-in-an>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-06, from: Dave Winer's Scripting News)
+
+Web isn't just a brand, it's also a noun and a verb. "I web you."
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/06.html#a161548>
+
+---
+
+## The Oligopoly Publishers
+
+date: 2025-03-06, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIY3aQW6JcgqmmYebprhsoan_efq-rBFVEJM1up6dITAMtbmgGdqZ0FLHiA_rV5blQF90FYOjQZ-3z3afaoeb-yX66ak3QCn0kqtS7A1IOzPCYj9hjCkIq00EL82SzY534MCSt_j2_bPnGzSMc5Uu73AgdxuC4RvreJSRDlE7hTGWaQ-rk_B6FpWaZh8jH/s773/PublisherStocks.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="407" data-original-width="773" height="105" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIY3aQW6JcgqmmYebprhsoan_efq-rBFVEJM1up6dITAMtbmgGdqZ0FLHiA_rV5blQF90FYOjQZ-3z3afaoeb-yX66ak3QCn0kqtS7A1IOzPCYj9hjCkIq00EL82SzY534MCSt_j2_bPnGzSMc5Uu73AgdxuC4RvreJSRDlE7hTGWaQ-rk_B6FpWaZh8jH/w200-h105/PublisherStocks.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">Source</a></td></tr></tbody></table>
+Rupak Ghose's <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics"><i>The $100 billion Bloomberg for academics and lawyers?</i></a> is essential reading for anyone interested in academic publishing. He starts by charting the stock price of RELX, Thomson Reuters, and Wolters Kluwer, pointing out that in the past decade they have increased about ten-fold. He compares these publishers to <a href="https://bloombeg.com">Bloomberg</a>, the financial news service. They are less profitable, but that's because their customers are less profitable. Follow me below the fold for more on this.<br />
+<span><a name='more'></a></span>
+<br />
+The leader in the market is RELX, which used to be <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">Elsevier</a>:<br />
+<blockquote>
+In the earlier share price chart RELX was the lower of the three lines but given its higher dividend payouts its overall shareholder returns have paced with its peers, and it is one of the best-performing large-cap stocks in the UK. The following chart shows that it is now in the top five largest in the UK by stock market value and bigger than BP. Its price-to-earnings multiple of around 30x is more like a tech giant.
+</blockquote>
+Well, it is only 3/4 of Nvidia's or Apple's PE but around the same as Microsoft.<br />
+The rest of the <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">oligopoly is</a>:<br />
+<blockquote>
+The second largest listed player is Thomson Reuters worth around $80 billion (and this trades on a much higher price-to-earnings multiple than RELX). Add in Wolters Kluwer, and the much smaller Springer Nature which was listed late last year, and the combined stock market value of the four firms is more than $215 billion.
+</blockquote>
+Thomson Reuters' PE is around 36, a bit less than Apple's. The $215B market cap is pricing in massive growth, which given the uncertain economic conditions and the finances of their customers seems optimistic.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmejewb8u4XwNXNqbZ0pr7YZM8XEeAA9aa-iIx2W4x3vXSH8CdmlSa6N2RibBL3agbgh76EX6GSDnRjjfecgJNzluPRvVPyvt7_slbwzMVsbVgXyJVJ8xM1hkf2pIlqmxOrzhTIzsIaq74KDio9LCfi-qWOrwwk0jLPMbTXu9AfiIDbfu7Re2EZaOgUHbn/s1653/Publisher2024Financials.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="993" data-original-width="1653" height="120" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmejewb8u4XwNXNqbZ0pr7YZM8XEeAA9aa-iIx2W4x3vXSH8CdmlSa6N2RibBL3agbgh76EX6GSDnRjjfecgJNzluPRvVPyvt7_slbwzMVsbVgXyJVJ8xM1hkf2pIlqmxOrzhTIzsIaq74KDio9LCfi-qWOrwwk0jLPMbTXu9AfiIDbfu7Re2EZaOgUHbn/w200-h120/Publisher2024Financials.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">Source</a></td></tr></tbody></table>
+The four companies made about $8B in profit on about $25B in revenue, or a <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">gross margin of around 32%</a>:<br />
+<blockquote>
+The following chart illustrates the revenues and operating profits of the four firms in 2024. RELX generated as much operating profits as its two largest peers combined.
+</blockquote>
+Ghose explains how the oligopoly publishers can extract so much rent by quoting Dan Davies' book <a href="https://www.amazon.co.uk/Unaccountability-Machine-Systems-Terrible-Decisions-ebook/dp/B0CGFWBFD6"><i>The Unaccountability Machine</i></a>:<br />
+<blockquote>
+Firstly, the customer base is captive and highly vulnerable to price gouging. A university library has to have access to the best journals, without which the members of the university can’t keep up with their field or do their own research. Secondly, although the publishers who bought the titles took over the responsibility for their administration and distribution, this is a small part of the effort involved in producing an academic journal, compared to the actual work of writing the articles and peer-reviewing them. This service is provided to the publishers by academics, for free or for a nominal payment (often paid in books or subscriptions to journals). So not only does the industry have both a captive customer base and a captive source of free labour, these two commercial assets are for the most part the same group of people.
+</blockquote>
+Ghose then <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">comments</a>:<br />
+<blockquote>
+In essence, the academics fight to help the publishers extract monopoly profits. The whole process depends on the value of having your articles appear or receive citations in the best journals. This becomes an unaccountability sink to which universities outsource their whole system of promotion and hiring. Davies compares this to the PageRank algorithm used by Google.
+</blockquote>
+The big four publishers' $25B in revenue doesn't come exclusively from publishing content they get for free from academics, but about <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">half of it does</a>:<br />
+<blockquote>
+This market for academic publishing generates around $20 billion of revenue per year with half of the market controlled by the five largest firms: Elsevier (part of RELX), John Wiley &amp; Sons, Taylor &amp; Francis, Springer Nature, and SAGE.
+</blockquote>
+The distinctive feature of the market over the last decade or more has been the publishers failing to exercise their gate-keeping role, and the resulting flood of low-quality papers.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDlo4CUeDQ0FaudDFWDmfraa6qj3XW8PdykjmBX965stdgdHmeY1mi4uYSJtIXM1bwsnHOfgrXnM-laepME2Vw5jLzumxCyOEhADmpjZ1LExoueGHIlOj8H5sH6LxV6jyV9TP-0vZ7djn8tL0S3PaNNqEVBZdgwuaAf8x0xx7WyFQZK4t20Hsk_VBH_fg/s468/ArticleInflation.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="285" data-original-width="468" height="122" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDlo4CUeDQ0FaudDFWDmfraa6qj3XW8PdykjmBX965stdgdHmeY1mi4uYSJtIXM1bwsnHOfgrXnM-laepME2Vw5jLzumxCyOEhADmpjZ1LExoueGHIlOj8H5sH6LxV6jyV9TP-0vZ7djn8tL0S3PaNNqEVBZdgwuaAf8x0xx7WyFQZK4t20Hsk_VBH_fg/w200-h122/ArticleInflation.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ouvrirlascience.fr/excessive-growth-in-the-number-of-scientific">Source</a></td></tr></tbody></table>
+Elsevier has been frantically acquiring and spawning <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">journals</a>:<br />
+<blockquote>
+the chart below illustrates that RELX-owned Elsevier is not only the clear market leader, but it has also grown significantly in volume.
+</blockquote>
+Does anyone think there is 70% more high-quality research than there was a decade ago? The graph comes from <a href="https://www.ouvrirlascience.fr/excessive-growth-in-the-number-of-scientific"><i>Excessive growth in the number of scientific publications</i></a> by Benoît Pier and Laurent Romary:<br />
+<blockquote>
+The first result concerns the total number of articles published, which follows very closely an exponential growth (+5.6% per year). Even taking into account the increase in the number of researchers over this period, we can deduce that the time spent on obtaining the results, validating and peer reviewing them has decreased significantly.
+</blockquote>
+This growth has been powered by the rise of Article Processing Charges (APCs). A journal that lives on APCs rather than subscriptions has a strong <a href="https://www.ouvrirlascience.fr/excessive-growth-in-the-number-of-scientific">disincentive to reject papers</a><br />
+<blockquote>
+By computing the average annual number of articles published per journal, the authors observe that the growth (significant, but not overwhelming) of the traditional publishers is mainly due to the expansion of the number of journals in their  catalogues, whereas the very strong growth of Frontiers and MDPI is the result of an explosive increase in the number of articles per journal. It should be noted that these two publishers, which appeared more recently, are thriving through publication fees paid by authors.
+</blockquote>
+Pier and Romary <a href="https://www.ouvrirlascience.fr/excessive-growth-in-the-number-of-scientific">conclude</a>:<br />
+<blockquote>
+The triad (MDPI, Frontiers, Hindawi) increasingly use special issues to publish more and more articles, and this phenomenon is accompanied by a significant shortening of the time allotted to the peer-review process.
+</blockquote>
+Pier and Romary base their article upon <a href="https://doi.org/10.48550/arXiv.2309.15884"><i>The strain on scientific publishing</i></a> by Mark A. Hanson <i>et al</i> whose abstract reads:<br />
+<blockquote>
+Scientists are increasingly overwhelmed by the volume of articles being published. Total articles indexed in Scopus and Web of Science have grown exponentially in recent years; in 2022 the article total was approximately ~47% higher than in 2016, which has outpaced the limited growth - if any - in the number of practising scientists. Thus, publication workload per scientist (writing, reviewing, editing) has increased dramatically. We define this problem as the strain on scientific publishing. To analyse this strain, we present five data-driven metrics showing publisher growth, processing times, and citation behaviours. We draw these data from web scrapes, requests for data from publishers, and material that is freely available through publisher websites. Our findings are based on millions of papers produced by leading academic publishers. We find specific groups have disproportionately grown in their articles published per year, contributing to this strain. Some publishers enabled this growth by adopting a strategy of hosting special issues, which publish articles with reduced turnaround times. Given pressures on researchers to publish or perish to be competitive for funding applications, this strain was likely amplified by these offers to publish more articles. We also observed widespread year-over-year inflation of journal impact factors coinciding with this strain, which risks confusing quality signals. Such exponential growth cannot be sustained. The metrics we define here should enable this evolving conversation to reach actionable solutions to address the strain on scientific publishing.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHK-V8GM380TvHaxlSD6sY6hdHEzl9pJIys4vzQRzjyg1gcwT2AZWGDlaKMuVABPsE1Pl9CPjpFURWHX2jHwvpKv131DdXUxcqzIqwxzAFHTnHfCyeHpZqEf5ioZR3JaRcSKZJ_vgDCXLRsfspIh__oAY0e2R9IfcCkFFOmc_XzaMY9rl7saaB9uilvh9u/s1544/ReviewTimes.png" imageanchor="1" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1544" data-original-width="1234" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHK-V8GM380TvHaxlSD6sY6hdHEzl9pJIys4vzQRzjyg1gcwT2AZWGDlaKMuVABPsE1Pl9CPjpFURWHX2jHwvpKv131DdXUxcqzIqwxzAFHTnHfCyeHpZqEf5ioZR3JaRcSKZJ_vgDCXLRsfspIh__oAY0e2R9IfcCkFFOmc_XzaMY9rl7saaB9uilvh9u/w160-h200/ReviewTimes.png" width="160" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://doi.org/10.48550/arXiv.2309.15884">Source</a></td></tr></tbody></table>
+Hanson <i>et al</i> present a very revealing figure, showing (A) the evolution through time of the mean time taken to review papers, and (B) the distribution of those times for 2016, 2019 and 2022. The figure shows two clear groups of publishers, more and less predatory:<br />
+<ul>
+<li>The triad of predatory publishers do far less reviewing, and the amount they do decreases over time.</li>
+<li>The less predatory publishers do far more reviewing and the amount they do increases over time.</li>
+<li>The predatory publishers' distribution of review times increasingly skews to the short end, where the other publishers' distribution is stable and skews slightly to the long end.</li>
+</ul>
+So Elsevier is the biggest player in academic publishing. How <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">big is it?</a>:<br />
+<blockquote>
+RELX Elsevier has over 3,000 journals including leading brands like the Lancet. These journals published more than 720,000 articles in 2024. This is almost one-fifth of all scientific articles. Elsevier’s online platform ScienceDirect has tens of millions of pieces of peer-reviewed content from tens of millions of researchers. Its citation database has content from tens of thousands of journals.<br />
+<br />
+The scientific, technical, and medical information division is RELX’s second largest with revenues of around $4 billion of revenues, roughly equally split between articles/research content vs databases, tools, and electronic reference solutions. The business is largely subscription fee driven and 90% of its revenues are from electronic products rather than print publishing and face-to-face events.
+</blockquote>
+But is it growing fast enough to justify a <a href="https://rupakghose.substack.com/p/the-100-billion-bloomberg-for-academics">P/E of 30?</a>:<br />
+<blockquote>
+Despite the growth in the number of articles, this is RELX’s slowest-growing division with 3-4% revenue growth and 4-5% profit growth in recent years. They are expanding in line with our faster than the industry. But it is a very healthy cash cow with $1.5 billion of operating profits in 2024. This circa 40% operating margin is the best in the RELX group and far superior to other professional and business information businesses. The number two player Springer Nature has lower operating margins of around 30% in their academic publishing business, but this is much higher than their other products.
+</blockquote>
+30-40% operating margins demonstrate the oligopoly's rent extraction. Four of every ten dollars Elsevier extracts from the world's education and research budgets goes straight to their shareholders. And more goes to their executives' salaries and bonuses.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/03/the-oligopoly-publishers.html>
+
+---
+
+##  Yesterday&#8217;s letter from Heather Cox Richardson is a good one, drawing a... 
+
+date: 2025-03-06, updated: 2025-03-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046395-yesterdays-letter-from-he>
 
 ---
 
@@ -29,10 +367,10 @@ date: 2025-03-06, from: Dave Winer's Scripting News
 <p>At the time I tried to <a href="http://scripting.com/2017/01/14/whatIfTwtrIsBoughtByARepub.html">raise the alarm</a>, in tech and in finance, that a Republican could buy Twitter for $12B, and that was a cheap price considering the value of the presidency in a tech entrepreneur's hands.</p>
 <p>My experience in Silicon Valley goes back to the late 70s, so I have a pretty good understanding of the personality of tech entrepreneurs.</p>
 <p>My blog, <a href="http://scripting.com/">Scripting News</a>, has been about democracy since <a href="http://scripting.com/davenet/">inception</a>, in 1994, though it has primarily been about technology. I got the same complaints that I should stick to tech, but I didn't see a line of separation. The stakes were large then, but now they're much larger and as Masnick notes, impossible to ignore. </p>
-<p>In the mid-90s there was not much of a debate whether the First Amendment applied to the web, the consensus was that it did not! The NYT didn't defend the 1st A on the web, and Congress passed a law saying the 1st A didn't apply and a Democratic president, Clinton, signed the law. That was a pretty clear signal. (We were saved by an appeals court, otherwise who knows what we'd be doing now.)</p>
-<p>In tech, every generation thinks they're seeing a problem for the first time. This is almost never true. It's like anything else, we're iterative, going over the same issues again and again, and we have a chance to wake up at any point and learn from our mistakes and not repeat the previous cycle, but we never do.</p>
-<p>Most important is that we work together and share what we learned. But first you have to be aware that there is history. You know the famous line about people who "cannot remember the past are condemned to repeat it"</p>
-<p>We have great historians working here, and TechDirt is more famous than Scripting News is now. It would be a shame if the historians overlooked the historic connection between tech and democracy because they weren't aware it was documented much earlier than 2025. And btw -- don't miss that Google et al would like to deprecate the archive of the early web. No one is paying attention to that problem, and it's another way history is lost. The wisdom of the Google people forcing this on the rest of us is very much like the DOGE bros in DC today. </p>
+<p>In the mid-90s there was not much of a debate whether the First Amendment applied to the web, the consensus was that it did not! The NYT didn't defend the 1st A on the web, and <a href="https://en.wikipedia.org/wiki/Communications_Decency_Act">Congress passed a law</a> saying the 1st A didn't apply and a Democratic president, Clinton, signed the law. That was a pretty clear signal. (We were saved by a Federal appeals court, otherwise who knows what we'd be doing now.)</p>
+<p>In tech, every generation thinks they're seeing a problem for the first time. This is almost never true. It's like anything else, we're iterative, going over the same issues again and again, and we have a chance to wake up at any point and learn from our mistakes and not repeat the previous cycle, but it seems we never do.</p>
+<p>Most important is that we <b>work together</b> and share what we learned. But first you have to be aware that there is history. You know the <a href="https://www.goodreads.com/quotes/634544-those-who-cannot-remember-the-past-are-condemned-to-repeat">famous line</a> about people who "cannot remember the past are condemned to repeat it."</p>
+<p>We have great historians working here, and TechDirt is more famous than Scripting News is now. It would be a shame if the historians overlooked the historic connection between tech and democracy because they weren't aware it was documented much earlier than 2025. And btw -- don't miss that <a href="https://this.how/googleAndHttp/">Google et al</a> would like to deprecate the archive of the early web. No one is paying attention to that problem, and it's another way history is lost. The wisdom of the Google people forcing this on the rest of us is very much like the DOGE bros in DC today. </p>
  
 
 <br> 
@@ -355,48 +693,6 @@ date: 2025-03-05, updated: 2025-03-04, from: Bruce Schneier blog
 <br> 
 
 <https://www.schneier.com/blog/archives/2025/03/cisa-identifies-five-new-vulnerabilities-currently-being-exploited.html>
-
----
-
-## 2025-03-05 How do you process the news?
-
-date: 2025-03-05, from: Alex Schroeder's Blog
-
-<h1 id="2025-03-05-how-do-you-process-the-news">2025-03-05 How do you process the news?</h1>
-
-<blockquote>
-<p>I&rsquo;m looking at the blog and noticing that I haven&rsquo;t posted much. It&rsquo;s hard.</p>
-</blockquote>
-
-<p>A long time ago I discontinued all my daily newspapers and just kept the weekly left-leaning cooperatively-owned <a href="https://www.woz.ch/">Wochenzeitung</a>. Once a month it comes with the German edition of <a href="https://monde-diplomatique.de/">Le Monde Diplomatique</a>.</p>
-
-<p>I used to read a lot of newspaper articles online, when I saw links in social media. As more and more of them erected a paywall; and more and more of them have become pretty unless I go through the uBlock Origin settings to unblock random domains with more scripts and things; I have stopped reading them, too. And when politics look bad, I hesitate more and more.</p>
-
-<p>Sometimes I feel like perhaps this means the end of the attention economy for me. Back to books, perhaps?</p>
-
-<p>Some news sources I follow online:</p>
-
-<ul>
-<li><a class="account" href="https://troet.cafe/@woz" title="@woz@troet.cafe">@woz</a> is the feed for the weekly paper in German that I am subscribed to</li>
-<li><a class="account" href="https://masto.ai/@meduza_en" title="@meduza_en@masto.ai">@meduza_en</a> for stuff about Russia, Ukraine and the USA</li>
-<li><a class="account" href="https://chaos.social/@netzpolitik_feed" title="@netzpolitik_feed@chaos.social">@netzpolitik_feed</a> for civil rights online</li>
-<li><a class="account" href="https://mstdn.social/@Bellingcat" title="@Bellingcat@mstdn.social">@Bellingcat</a> for various strange things</li>
-<li><a class="account" href="https://mastodon.social/@theindex" title="@theindex@mastodon.social">@theindex</a> by <a class="account" href="https://mastodon.social/@Daojoan" title="@Daojoan@mastodon.social">@Daojoan</a> for independent news</li>
-</ul>
-
-<p>As always, the problem is that I feel the news should be a bit like taxes: Pay something and then read what you want. The payment models sort of imply that you&rsquo;d pay for all the subscriptions, which won&rsquo;t work. Or they imply that you&rsquo;d pay per article, which doesn&rsquo;t work because of the credit card fees. No micropayment means that one or two articles is already the equivalent of the whole subscription. And even then, I&rsquo;m not sure whether micropayments would sit well with me. My current status is that I only pay for the newspaper but <a href="https://www.woz.ch/abo/prowoz">at a pro level</a> for CHF 590 per year and I feel that CHF 50 per month ought to pay for all of my news.</p>
-
-<p>Some days I think I should subscribe to a Swiss digital newspaper, <a class="account" href="https://republik.social/@republik_magazin" title="@republik_magazin@republik.ch">@republik_magazin</a>. Just to support more diversity in a shrinking ecosystem. But I don&rsquo;t know whether I can process the news, to be honest.</p>
-
-<p>That seems to be my main problem.</p>
-
-<p>How do I process the news? 😥</p>
-
-<p><a class="tag" href="/search/?q=%23Media">#Media</a> <a class="tag" href="/search/?q=%23Politics">#Politics</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-03-05-processing>
 
 ---
 

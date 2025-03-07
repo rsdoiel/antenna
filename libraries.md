@@ -1,11 +1,63 @@
 ---
 title: libraries
-updated: 2025-03-06 07:06:27
+updated: 2025-03-07 07:09:35
 ---
 
 # libraries
 
-(date: 2025-03-06 07:06:27)
+(date: 2025-03-07 07:09:35)
+
+---
+
+## IMLS Public Access Policy Guidance Explained
+
+date: 2025-03-07, from: Association of Research Libraries News
+
+<p>The Institute of Museum and Library Services (IMLS) has released its Public Access Policy Guidance, and while it follows the same requirements as all agencies, it may look a bit...</p>
+<p>The post <a href="https://www.arl.org/blog/imls-public-access-policy-guidance-explained/">IMLS Public Access Policy Guidance Explained</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/imls-public-access-policy-guidance-explained/>
+
+---
+
+## The Rules No Longer Apply: Octopus Edition
+
+date: 2025-03-07, from: Scholarly Kitchen
+
+<p>As if our world wasn't already going crazy, now octopi apparently have shells.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/07/the-rules-no-longer-apply-octopus-edition/">The Rules No Longer Apply: Octopus Edition</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/07/the-rules-no-longer-apply-octopus-edition/>
+
+---
+
+## Trafalgar, by Benito Pérez Galdós
+
+date: 2025-03-06, from: Standard Ebooks, new releaases
+
+A young man finds himself aboard a Spanish battleship destined for the Battle of Trafalgar. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/benito-perez-galdos/trafalgar/clara-bell>
+
+---
+
+## GRAPHIA Project Launched in January 2025
+
+date: 2025-03-06, from: Open Citation blog at Hypotheses.org
+
+OPERAS hosted the launch of the GRAPHIA project in Brussels earlier this year. On the 22nd and 23rd January, 2025, 21 partner institutions met in OPERAS’ office and online to celebrate the project which is funded by the European Commission for over €8 million, plus an additional €1.6 million from the Switzerland State Secretariat for Education, Research, and Innovation. GRAPHIA aims to create the first comprehensive Social Science and Humanities (SSH) Knowledge Graph designed to integrate fragmented data into a unified entry point. The &#8230; <a href="https://opencitations.hypotheses.org/3869" class="more-link">Continue reading <span class="screen-reader-text">GRAPHIA Project Launched in January 2025</span></a> 
+
+<br> 
+
+<https://opencitations.hypotheses.org/3869>
 
 ---
 

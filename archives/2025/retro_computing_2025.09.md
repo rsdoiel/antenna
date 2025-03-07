@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-03-06 07:06:28
+updated: 2025-03-07 07:09:36
 ---
 
 # retro computing
 
-(date: 2025-03-06 07:06:28)
+(date: 2025-03-07 07:09:36)
+
+---
+
+## UPX 5.0.0 released
+
+date: 2025-03-06, from: FreeDOS News
+
+<div class="markdown_content"><p>UPX is a free, secure, portable, extendable, high-performance executable packer for several executable formats. Version 5.0.0 was recently released, although most of the features are bugfixes. Please see the file <a class="" href="https://github.com/upx/upx/blob/master/NEWS" rel="nofollow">NEWS</a> for a detailed list of changes. You can download version 5.0.0 from the <a class="" href="https://github.com/upx/upx/releases/tag/v5.0.0" rel="nofollow">Release page</a>, and source code from <a class="" href="https://github.com/upx/upx" rel="nofollow">UPX at GitHub</a>. We've also mirrored version 5.0.0 in the FreeDOS Files Archive at Ibiblio, under <a class="" href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/devel/upx/5.0.0/" rel="nofollow">/files/devel/upx</a>.</p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/03/upx-500-released/>
 
 ---
 

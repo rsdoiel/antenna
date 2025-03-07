@@ -1,15 +1,423 @@
 ---
 title: science and technology
-updated: 2025-03-06 07:06:24
+updated: 2025-03-07 07:09:32
 ---
 
 # science and technology
 
-(date: 2025-03-06 07:06:24)
+(date: 2025-03-07 07:09:32)
 
 ---
 
-## Up to $75M needed to address rural hospital cybersecurity
+## ‘Next-Level’ Chaos Traces the True Limit of Predictability
+
+date: 2025-03-07, from: Quanta Magazine
+
+In math and computer science, researchers have long understood that some questions are fundamentally unanswerable. Now physicists are exploring how even ordinary physical systems put hard limits on what we can predict, even in principle.             <p>The post <a href="https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/" target="_blank">‘Next-Level’ Chaos Traces the True Limit of Predictability</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/next-level-chaos-traces-the-true-limit-of-predictability-20250307/>
+
+---
+
+## Cheap 'n' simple sign trickery will bamboozle self-driving cars, fresh research claims
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Now that&#39;s sticker shock</h4> <p>Eggheads have taken a look at previously developed techniques that can be used to trick self-driving cars into doing the wrong thing – and found cheap stickers stuck on stop and speed limit signs, at least, are pretty effective.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/lowcost_malicious_attacks_on_selfdriving/>
+
+---
+
+## HPE revenue outlook feels the thump of Trump tariffs
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Thousands brace for layoffs as shares slide 20%</h4> <p>HPE is feeling the effects of the Trump administration&#39;s gamesmanship, seeing shares slide after lowering earnings expectations due to uncertainty over how tariffs may affect the cost of imported parts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/hpe_q1_2025/>
+
+---
+
+## Hubble Spies a Spiral in the Water Snake
+
+date: 2025-03-07, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image of a vibrant spiral galaxy called NGC 5042 resides about 48 million light-years from Earth in the constellation Hydra (the water snake). The galaxy nicely fills the frame of this Hubble image, while a single, foreground star from the Milky Way shines with cross-shaped diffraction spikes near the galaxy’s […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-a-spiral-in-the-water-snake/>
+
+---
+
+## Microsoft tells abandoned Publisher fans to just use Word and hope for the best
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>PDFs and Powerpoint also lie in wait as 2026 looms</h4> <p>Microsoft is suggesting alternatives to its doomed Publisher product ahead of the software&#39;s demise in 2026.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/microsoft_publisher_eol/>
+
+---
+
+## Like whitebox servers, rent-a-crew crime 'affiliates' have commoditized ransomware
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Which is why taking down chiefs and infra behind big name brand operations isn&#39;t working</h4> <p><strong>Interview</strong>  There&#39;s a handful of cybercriminal gangs that Jason Baker, a ransomware negotiator with GuidePoint Security, regularly gets called in to respond to these days, and a year ago only one of these crews — Akira — was on threat hunters&#39; radars and infecting organizations with the same ferocity as it is today.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/commoditization_ransomware/>
+
+---
+
+## Eutelsat in talks with Euro leaders as they mull Starlink replacement in Ukraine
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Increasingly shaky relationship with the States has Europe considering options</h4> <p>Talks are underway between European leaders and Eutelsat about a possible replacement for Starlink in Ukraine.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/eutelsat_starlink_ukraine/>
+
+---
+
+## Troubled French outsourcer Atos finds pot of gold at the end of UK state bank Rainbow
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Difficulties unpicking 25 years of technical entanglement secure £474.4M without competition</h4> <p>Following protracted negotiations, French outsourcer Atos has scooped up a £474.4 million ($612 million) contract without competition to build systems for a UK state bank at nearly three times the annual rate initially advertised three years ago.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/troubled_french_outsourcer_atos_finds/>
+
+---
+
+## Glitchy taxi tech blew cover on steamy dispatch dalliance
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>When &#39;pickup&#39; means more than just a ride</h4> <p><strong>On Call</strong>  The week has ebbed away with embarrassing speed, so here we are again with a fresh installment of On Call, <i>The Register&#39;s</i> reader-contributed column that immortalizes tech support stories.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/on_call/>
+
+---
+
+## Do you DARE? Europe bets once again on RISC-V for supercomputing sovereignty
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>€240M found for three-year sprint to develop three chiplets for HPC, AI</h4> <p>A 38-strong group of tech players have founded a project with the snappy name Digital Autonomy with RISC-V in Europe, aka DARE, that aims to develop processor units to power the continent’s supercomputers and other high-performance machines.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/dare_europe_risc_v_project/>
+
+---
+
+## SpaceX's 'Days Since Starship Exploded' counter made it to 48. It's back to zero again now
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>&#39;Energetic event&#39; did for Flight 8 after a few minutes. Super Heavy Booster recovered again, so there&#39;s that</h4> <p>SpaceX&#39;s latest attempt to fly its Starship has again ended in a rapid unscheduled disassembly.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/spacex_starship_mission_fail/>
+
+---
+
+## Broadcom has won. 70 percent of large VMware customers bought its biggest bundle
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Now working with seven hyperscalers for custom AI silicon. Not working on acquiring bits of Intel</h4> <p>Broadcom’s acquisition of VMware appears to be a big success, on the balance sheet at least, after the company announced a big majority of its top 10,000 customers have decided to acquire its Cloud Foundation stack and posted strong growth.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/broadcom_q1_fy2025/>
+
+---
+
+## Moonshot goes sideways as Intuitive Machines' second lunar lander seemingly falls over
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Space is hard. Hopefully not so hard the three rovers on this spaceship are lost</h4> <p>For the second time this week, a privately operated spacecraft has touched down on the Moon – but this one landed badly.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/intuitive_machines_landing/>
+
+---
+
+## The Badbox botnet is back, powered by up to a million backdoored Androids
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Best not to buy cheap hardware and use third-party app stores if you want to stay clear of this vast ad fraud effort</h4> <p>Human Security’s Satori research team says it has found a new variant of the remote-controllable Badbox malware, and as many as a million infected Android devices running it to form a massive botnet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/badbox_botnet_returns/>
+
+---
+
+## Sealing the Deal
+
+date: 2025-03-06, from: NASA breaking news
+
+Written by Melissa Rice, Professor of Planetary Science at Western Washington University  This week, the Perseverance team faced a stubborn engineering challenge. After successfully collecting a core called “Green Gardens” from the “Tablelands” location, the rover struggled to seal the sample tube, despite multiple attempts. This isn’t entirely unprecedented — for a previous sample called […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sealing-the-deal/>
+
+---
+
+## Sols 4473-4474: So Many Rocks, So Many Textures!
+
+date: 2025-03-06, from: NASA breaking news
+
+Written by Susanne Schwenzer, Planetary Geologist at The Open University Earth planning date: Wednesday, March 5, 2025 The Martian landscape never ceases to amaze me, there is so much variation in texture and color! As a mineralogist, I marvel at them, but my colleagues trained in sedimentology regularly teach me how to see even more […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4473-4474-so-many-rocks-so-many-textures/>
+
+---
+
+## International cops seize ransomware crooks' favorite Russian crypto exchange
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Did US Secret Service not get the memo, or?</h4> <p>A coalition of international law enforcement has shut down Russian cryptocurrency exchange Garantex, a favorite of now-defunct ransomware crew Conti and others criminals for money laundering.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/international_cops_seize_ransomware_gangs/>
+
+---
+
+## Engineers Install Orion Solar Array Wings for Artemis II
+
+date: 2025-03-06, from: NASA breaking news
+
+Technicians with ESA (European Space Agency) and Airbus installed the four solar array wings on NASA’s Orion spacecraft for Artemis II on March 3. The solar array wings, attached to the service module, deploy after Orion reaches space to power the spacecraft. Orion’s service module provides propulsion, thermal control, and electrical power, as well as [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/engineers-install-orion-solar-array-wings-for-artemis-ii/>
+
+---
+
+## NASA’s SpaceX Crew-9 Scientific Mission on Space Station Concludes
+
+date: 2025-03-06, from: NASA breaking news
+
+NASA’s SpaceX Crew-9 mission with agency astronauts Nick Hague, Butch Wilmore, and Suni Williams, and Roscosmos cosmonaut Aleksandr Gorbunov is preparing to return to Earth following their science mission aboard the International Space Station. Hague, Williams, and Wilmore completed more than 900 hours of research between over 150 unique scientific experiments and technology demonstrations during [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/nasas-spacex-crew-9-scientific-mission-on-space-station-concludes/>
+
+---
+
+## Google teases AI Mode for search, giving Gemini total control over your results
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>It&#39;s just an opt-in Labs curio for now, but so were those ever-present Overviews</h4> <p>It was inevitable, really, but now it&#39;s official: Google is testing a new all-AI web search mode that leaves users entirely beholden to what Gemini thinks they&#39;ll want. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/google_launches_ai_mode_for/>
+
+---
+
+## Uncle Sam mulls policing social media of all would-be citizens
+
+date: 2025-03-06, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>President ordered immigration officials to ramp up vetting of foreigners &#39;to the maximum degree&#39;</h4> <p>The US government&#39;s Citizenship and Immigration Service (USCIS) is considering monitoring not just the social media posts of non-citizens coming into the country, but also all those already in America going through an immigration or citizenship process.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/uscis_social_media/>
+
+---
+
+## Kachemak Bay’s Stony Waters
+
+date: 2025-03-06, from: NASA breaking news
+
+The OLI (Operational Land Imager) on Landsat 8 captured an image of Kachemak Bay’s turbid, cloudy waters on September 20, 2024. This cloudiness comes from glacial flour: bits of pulverized rock ground down by glaciers that has the consistency of flour. Several meltwater streams rich with the particles, sometimes called suspended sediment, absorb and scatter sunlight in ways that turn water a milky [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/kachemak-bays-stony-waters/>
+
+---
+
+## NASA Invites You to Share Excitement of Agency’s SpaceX Crew-10 Launch
+
+date: 2025-03-06, from: NASA breaking news
+
+NASA invites the public to take part in virtual activities for the launch of the agency’s SpaceX Crew-10 mission to the International Space Station. NASA astronauts Anne McClain, commander, and Nichole Ayers, pilot, along with mission specialists JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi and Roscosmos cosmonaut Kirill Peskov, will embark on a flight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/get-involved/virtual-guest-program/nasa-invites-you-to-share-excitement-of-agencys-spacex-crew-10-launch/>
+
+---
+
+## What You Need to Know about NASA’s SpaceX Crew-10 Mission
+
+date: 2025-03-06, from: NASA breaking news
+
+Four crew members are preparing to launch to the International Space Station as part of NASA’s SpaceX Crew-10 mission to perform research, technology demonstrations, and maintenance activities aboard the microgravity laboratory. NASA astronauts Anne McClain, Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut Kirill Peskov will lift off from Launch [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/what-you-need-to-know-about-nasas-spacex-crew-10-mission/>
+
+---
+
+## JetZero teams up with Delta to drag aviation into the future
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Startup needs tips on fitting its flying surfboard into existing infrastructure</h4> <p>Airlines around the world continue to look for ways to be more sustainable and efficient without needing to reinvent the wheel – but in the case of Delta Air Lines&#39; new partnership with JetZero, reinventing the wing is definitely on the table.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/jetzero_delta_partnership/>
+
+---
+
+## NASA Seeks Commercial Partner for Robots Aboard Space Station
+
+date: 2025-03-06, from: NASA breaking news
+
+As NASA continues to enable a sustainable, cost-effective commercial space economy, the agency is seeking partnership proposals for the operations, sustaining engineering, and utilization of Astrobee, a free-flying robotic system aboard the International Space Station. The Announcement for Partnership Proposal contains instructions and criteria for transferring responsibility of the Astrobee system to a commercial provider. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-seeks-commercial-partner-for-robots-aboard-space-station/>
+
+---
+
+## Redshift Wranglers Reach Remarkable Milestones
+
+date: 2025-03-06, from: NASA breaking news
+
+A “classification” is when a volunteer or citizen scientist finishes marking up or sorting one image or other piece of data. Each classification done by volunteers for the Redshift Wrangler project tells us something about the distance and age of a far-away galaxy, bringing us one step closer to understanding how galaxies evolve. These volunteers […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/redshift-wranglers-reach-remarkable-milestones/>
+
+---
+
+## Google Chrome Enterprise to get better warning labels that you're using a company profile
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Interface and branding changes arrive to more clearly separate users&#39; work and play lives</h4> <p>Google Chrome Enterprise is rolling out browser changes designed to separate people&#39;s professional and personal activities, in addition to management enhancements.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/google_chrome_enterprise_boost_business/>
+
+---
+
+## Ex-Googler Schmidt warns US: Try an AI 'Manhattan Project' and get MAIM'd
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>That&#39;s Mutual Assured AI Malfunction in the race for superintelligence</h4> <p><strong>ANALYSIS</strong>  Former Google chief Eric Schmidt says the US should refrain from pursuing a latter-day &#34;Manhattan Project&#34; to gain AI supremacy, as this will provoke preemptive cyber responses from rivals such as China that could lead to escalation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/schmidt_ai_superintelligence/>
+
+---
+
+## Still can't get to your Outlook mailbox? You aren't alone
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>No &#39;zero days without incident&#39; sign for Microsoft thanks ongoing problems</h4> <p>Problems with Outlook.com are continuing, with users reporting being unable to access their emails or authenticate themselves.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/outlook_outage_day_5/>
+
+---
+
+## Made O’Meter helps you easily and quickly avoid American products
+
+date: 2025-03-06, from: OS News
+
+With the United States having started an incredibly dumb and destructive trade war with Canada, Mexico, and most likely soon the European Union, there&#8217;s quite a few people who want to avoid American products. With how interconnected the global production chain and corporate ownership structures are, it&#8217;s often difficult to determine where products actually come from. Luckily, technology can help. There&#8217;s online directories like Buy European Made, which lists European companies in all kinds of markets, or European Alternatives, which focuses on listing European alternatives to online services. As nice as these are, they are quite manual, and require people to actively search around, which is kind of a hassle when you&#8217;re making a quick grocery store run. What if we could use image recognition to just take a photo of a product&#8217;s box, and have our phone tell us where a product&#8217;s made? That&#8217;s exactly what Made O&#8217;Meter does: take a photo of a product, wait for a few seconds, and it&#8217;ll tell you exactly where it&#8217;s made. It&#8217;s made in Denmark, with the goal to &#8220;support Europe, Canada &#38; friends&#8221;. I&#8217;ve been trying it out on various products around the house, from groceries like cereals and cookies, to tech products and clothing we just bought that still had the tags on them. Every result turned out to be 100% accurate, and it takes only a few seconds to analyse each photo. It also doesn&#8217;t seem to be too fussy with the quality of the photos themselves &#8211; it doesn&#8217;t care about hands and fingers in the frame, or weirdly-shaped boxes that don&#8217;t fit nicely in a view finder. It&#8217;s a website, not an app &#8211; very platform-agnostic, which is great &#8211; and I was using it in Firefox for Android without issue. If you want to avoid American products, Made O&#8217;Meter is a great tool to have with you the next time you order something or run to the store. 
+
+<br> 
+
+<https://www.osnews.com/story/141877/made-ometer-helps-you-easily-and-quickly-avoid-american-products/>
+
+---
+
+## Toronto Zoo ransomware crooks snatch decades of visitor data
+
+date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+
+<h4>Akira really wasn&#39;t horsing around with this one</h4> <p>Toronto Zoo&#39;s final update on its January 2024 cyberattack arrived this week, revealing that visitor data going back to 2000 had been compromised.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/06/toronto_zoo_ransomware/>
+
+---
+
+## Comparing Fuchsia components and Linux containers
+
+date: 2025-03-06, from: OS News
+
+Fuchsia is a new (non-Linux) operating system from Google, and one of the key pieces of Fuchsia&#8217;s design is the component framework. Components on Fuchsia have many similarities with some of the container solutions on Linux (such as Docker): they both fetch content addressed blobs from the network, assemble those blobs into an isolated filesystem structure that holds all the dependencies necessary to run some piece of software, and launch namespaced processes with that created directory as its root. The most interesting details are where these two projects diverge. Both have different use cases and requirements, which leads to different strengths between the systems. This talk will largely be focusing on where and why these two similar technologies diverge. ↫ Claire Gonyeo A very interesting talk by Claire Gonyeo, a software engineer at Google working on Fuchsia. 
+
+<br> 
+
+<https://www.osnews.com/story/141875/comparing-fuchsia-components-and-linux-containers/>
+
+---
+
+## Google, DuckDuckGo massively expand “AI” search results
+
+date: 2025-03-06, from: OS News
+
+Clearly, online search isn&#8217;t bad enough yet, so Google is intensifying its efforts to continue speedrunning the downfall of Google Search. They&#8217;ve announced they&#8217;re going to show even more &#8220;AI&#8221;-generated answers in Search results, to more people. Today, we’re sharing that we’ve launched Gemini 2.0 for AI Overviews in the U.S. to help with harder questions, starting with coding, advanced math and multimodal queries, with more on the way. With Gemini 2.0’s advanced capabilities, we provide faster and higher quality responses and show AI Overviews more often for these types of queries. Plus, we’re rolling out to more people: teens can now use AI Overviews, and you’ll no longer need to sign in to get access. ↫ Robby Stein On top of this, Google is also testing a new search mode where &#8220;AI&#8221; takes over the entire search experience. Instead of seeing the usual list of links, the entire page of &#8220;results&#8221; will be generated by &#8220;AI&#8221;. This feature, called &#8220;AI Mode&#8221; is opt-in for now. You can opt-in in Labs, but you do need to be a paying Google One AI Premium subscriber. I guess it&#8217;s only a matter of time before this &#8220;AI Mode&#8221; will be the default on Google Search, because it allows Google to keep its users on Google.com, and this makes it easier to show them ads and block out competitors. We all know where this is going. But, I hear you say, I use DuckDuckGo! I don&#8217;t have to deal with any of this! Well, I&#8217;ve got some bad news for you, because DuckDuckGo, too, is greatly expanding its use of &#8220;AI&#8221; in search. DDG will provide free, anonymous access to various &#8220;AI&#8221; chatbots, deliver more &#8220;AI&#8221;-generated search results based on more sources (but still English-only), and more &#8211; all without needing to have an account. A few of these features were already available in beta, and are now becoming generally available. Props to DuckDuckGo for providing a ton of options to turn all of this stuff off, though. They give users quite a bit of control over how often these &#8220;AI&#8221;-generated search results appear, and you can even turn them off completely. All the &#8220;AI&#8221; chatbot stuff is delegated to a separate website, and any link to it from the normal search results can be disabled, too. It&#8217;s entirely possible to have DuckDuckGo just show a list of regular search results, exactly as it should be. Let&#8217;s hope DDG can keep these values going, because if they, too, start pushing this &#8220;AI&#8221; nonsense without options to turn it off, I honestly have no idea where else to go. 
+
+<br> 
+
+<https://www.osnews.com/story/141873/google-duckduckgo-massively-expand-ai-search-results/>
+
+---
+
+## Up to $75M needed to fix up rural hospital cybersecurity as ransomware gangs keep scratching at the door
 
 date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
 
@@ -371,9 +779,9 @@ In this NASA/ESA&#160;Hubble Space Telescope&#160;image, Hubble once again lifts
 
 ## Trump says US should kill CHIPS Act, use the cash to cut debt
 
-date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+date: 2025-03-05, updated: 2025-03-06, from: The Register (UK I.T. News)
 
-<h4>Lemme guess ... he&#39;ll fix it all with tariffs? We sat through the entire speech so you don&#39;t have to</h4> <p>Donald Trump has renewed his call for CHIPS Act funding to be cancelled, and suggests any remaining money be set against national debt.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Lemme guess ... he&#39;ll fix it all with tariffs? We sat through the entire speech so you don&#39;t have to</h4> <p><strong>Updated</strong>  Donald Trump has renewed his call for CHIPS Act funding to be cancelled, and suggests any remaining money be set against national debt.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -527,7 +935,7 @@ date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
 
 ## Scotland now home to Europe's biggest battery as windy storage site fires up
 
-date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+date: 2025-03-05, updated: 2025-03-06, from: The Register (UK I.T. News)
 
 <h4>400MWh now, and 600MWh by next year? Crivens, that&#39;s a fat batt!</h4> <p>What&#39;s claimed to be Europe’s largest battery has come to Scotland, after a new facility came online in the country’s north.…</p> 
 
@@ -539,9 +947,9 @@ date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
 
 ## Cybercrims now licking stamps and sending extortion demands in snail mail
 
-date: 2025-03-05, updated: 2025-03-05, from: The Register (UK I.T. News)
+date: 2025-03-05, updated: 2025-03-06, from: The Register (UK I.T. News)
 
-<h4>First crooks gave up encrypting data, and just stole it – now they don&#39;t even bother pilfering info. Sheesh!</h4> <p>Ransomware extortionists are now using letters sent by snail mail to demand payments, without bothering to infiltrate targets’ systems or infect them with malware.…</p> 
+<h4>First crooks gave up encrypting data, and just stole it – now they don&#39;t even bother pilfering info. Sheesh!</h4> <p><strong>Updated</strong>  Ransomware extortionists are now using letters sent by snail mail to demand payments, without bothering to infiltrate targets’ systems or infect them with malware.…</p> 
 
 <br> 
 

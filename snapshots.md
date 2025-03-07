@@ -1,11 +1,717 @@
 ---
 title: snapshots
-updated: 2025-03-06 07:06:30
+updated: 2025-03-07 07:09:38
 ---
 
 # snapshots
 
-(date: 2025-03-06 07:06:30)
+(date: 2025-03-07 07:09:38)
+
+---
+
+## toranoana.deno #20 登録受付中(2025年3月14日)
+
+date: 2025-03-07, updated: 2025-03-07, from: Deno blog
+
+Deno は東京で行われるミートアップ toranoana.deno #20 に開催協力します。以下、主な詳細とスケジュールの概要です。
+ 
+
+<br> 
+
+<https://deno.com/blog/toranoana-tokyo-event>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-07, from: Dave Winer's linkblog)
+
+Antisemitism in the Oval Office. 
+
+<br> 
+
+<https://snyder.substack.com/p/antisemitism-in-the-oval-office?publication_id=310897&post_id=158562583&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Stats and Fury, Signifying (Almost) Nothing
+
+date: 2025-03-07, from: Paul Krugman
+
+This was not the jobs report you&#8217;re looking for 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/stats-and-fury-signifying-almost>
+
+---
+
+## Updates on AI Copyright Law and Policy: Section 1202 of the DMCA,  Doe v. Github, and the UK Copyright and AI Consultation
+
+date: 2025-03-07, from: Authors Union blogs
+
+Authors Alliance has been closely monitoring the impact of Digital Millennium Copyright Act (DMCA) Section 1202, and we have been watching the development in UK copyright law closely. Here are some updates. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/03/07/updates-on-ai-copyright-law-and-policy-section-1202-of-the-dmca-doe-v-github-and-the-uk-copyright-and-ai-consultation/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-07, from: Dave Winer's linkblog)
+
+How Trump&#39;s first days compares with Orban&#39;s in Hungary. Must-read. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/from-orban-to-trump-part-ii?publication_id=277517&post_id=158545490&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-07, from: Dave Winer's linkblog)
+
+New concept opening in May in Woodstock&#39;s Early Terrible and Mud Club. 
+
+<br> 
+
+<https://www.timesunion.com/hudsonvalley/food/article/early-terrible-mud-club-transform-new-concept-may-20199583.php>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-07, from: Dave Winer's linkblog)
+
+But the Fediverse is impossible to use even for people who understand what it&#39;s trying to do, and most people have no idea. The answer: stop trying to reinvent Twitter, it wasn&#39;t a great idea! And figure out what really works in a decentralized system. It requires some serious brain work. 
+
+<br> 
+
+<https://www.joanwestenberg.com/the-fediverse-isnt-the-future-its-the-present-weve-been-denied/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-07, from: Dave Winer's linkblog)
+
+Please let Mr Hitler speak. 
+
+<br> 
+
+<https://www.theguardian.com/lifeandstyle/picture/2025/mar/07/please-let-mr-hitler-speak-the-trouble-with-hearing-from-both-sides-the-stephen-collins-cartoon?CMP=share_btn_url>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-07, from: Dave Winer's linkblog)
+
+Did anyone see an explanation of what the strategic crypto reserve is for? 
+
+<br> 
+
+<https://www.axios.com/2025/03/07/trump-crypto-reserve-bitcoin>
+
+---
+
+## From Orban to Trump, Part II
+
+date: 2025-03-07, from: Paul Krugman
+
+Finishing my conversation with Kim Lane Scheppele 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/from-orban-to-trump-part-ii>
+
+---
+
+## International Women’s Day 2025
+
+date: 2025-03-07, from: O'Reilly Radar
+
+We’re at a crossroads in the US with diversity, equity, and inclusion initiatives. Opponents have neutralized the concept by reducing it to a series of letters that can be easily vilified and rooted out by a new generation of government censors. But those who do that are missing the point. Diversity, equity, and inclusion isn’t [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/international-womens-day-2025/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-07, from: Dave Winer's linkblog)
+
+Charles Barkley takes direct shot at future ESPN coworkers over Lakers, Warriors coverage: &#39;Y&#39;all are idiots.&#39; 
+
+<br> 
+
+<https://sports.yahoo.com/nba/article/charles-barkley-takes-direct-shot-at-future-espn-coworkers-over-lakers-warriors-coverage-yall-are-idiots-011237962.html>
+
+---
+
+## Mistral OCR
+
+date: 2025-03-07, updated: 2025-03-07, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://mistral.ai/fr/news/mistral-ocr">Mistral OCR</a></strong></p>
+New closed-source specialist OCR model by Mistral - you can feed it images or a PDF and it produces Markdown with optional embedded images.</p>
+<p>It's available <a href="https://docs.mistral.ai/api/#tag/ocr">via their API</a>, or it's "available to self-host on a selective basis" for people with stringent privacy requirements who are willing to talk to their sales team.</p>
+<p>I decided to try out their API, so I copied and pasted example code <a href="https://colab.research.google.com/drive/11NdqWVwC_TtJyKT6cmuap4l9SryAeeVt?usp=sharing">from their notebook</a> into my <a href="https://simonwillison.net/2024/Dec/19/one-shot-python-tools/">custom Claude project</a> and <a href="https://claude.ai/share/153d8eb8-82dd-4f8c-a3d0-6c23b4dc21a2">told it</a>:</p>
+<blockquote>
+<p><code>Turn this into a CLI app, depends on mistralai - it should take a file path and an optional API key defauling to env vironment called MISTRAL_API_KEY</code></p>
+</blockquote>
+<p>After <a href="https://claude.ai/share/b746cab4-293b-4e04-b662-858bb164ab78">some further</a> iteration / vibe coding I got to something that worked, which I then tidied up and shared as <a href="https://github.com/simonw/tools/blob/main/python/mistral_ocr.py">mistral_ocr.py</a>.</p>
+<p>You can try it out like this:</p>
+<pre><code>export MISTRAL_API_KEY='...'
+uv run http://tools.simonwillison.net/python/mistral_ocr.py \
+  mixtral.pdf --html --inline-images &gt; mixtral.html
+</code></pre>
+<p>I fed in <a href="https://arxiv.org/abs/2401.04088">the Mixtral paper</a> as a PDF. The API returns Markdown, but my <code>--html</code> option renders that Markdown as HTML and the <code>--inline-images</code> option takes any images and inlines them as base64 URIs (inspired <a href="https://simonwillison.net/2025/Mar/6/monolith/">by monolith</a>). The result is <a href="https://static.simonwillison.net/static/2025/mixtral.html">mixtral.html</a>, a 972KB HTML file with images and text bundled together.</p>
+<p>This did a pretty great job!</p>
+<p><img alt="Screenshot of part of the document, it has a heading, some text, an image and the start of a table. The table contains some unrendered MathML syntax." src="https://static.simonwillison.net/static/2025/mixtral-as-html.jpg" /></p>
+<p>My script renders Markdown tables but I haven't figured out how to render inline Markdown MathML yet. I ran the command a second time and requested Markdown output (the default) like this:</p>
+<pre><code>uv run http://tools.simonwillison.net/python/mistral_ocr.py \
+  mixtral.pdf &gt; mixtral.md
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/023d1cf403c1cd9f41801c85510aef21">that Markdown rendered as a Gist</a> - there are a few MathML glitches so clearly the Mistral OCR MathML dialect and the GitHub Formatted Markdown dialect don't quite line up.</p>
+<p>My tool can also output raw JSON as an alternative to Markdown or HTML - full details <a href="https://tools.simonwillison.net/python/#mistral_ocrpy">in the documentation</a>.</p>
+<p>The Mistral API is priced at roughly 1000 pages per dollar, with a 50% discount for batch usage.</p>
+<p>The big question with LLM-based OCR is always how well it copes with accidental instructions in the text (can you safely OCR a document full of prompting examples?) and how well it handles text it can't write.</p>
+<p>Mistral's Sophia Yang says it <a href="https://x.com/sophiamyang/status/1897719199595720722">"should be robust"</a> against following instructions in the text, and invited people to try and find counter-examples.</p>
+<p>Alexander Doria noted that <a href="https://twitter.com/Dorialexander/status/1897702264543875535">Mistral OCR can hallucinate text</a> when faced with handwriting that it cannot understand.
+
+    <p><small></small>Via <a href="https://twitter.com/sophiamyang/status/1897713370029068381">@sophiamyang</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/mistral">mistral</a>, <a href="https://simonwillison.net/tags/pdf">pdf</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ocr">ocr</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/uv">uv</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/7/mistral-ocr/#atom-everything>
+
+---
+
+## Lilbits: A weird new AI phone, Apple refreshes the MacBook Air, Intel Arrow Lake goes business-class, and postmarketOS is looking for a new name
+
+date: 2025-03-07, from: Liliputing
+
+<p>Would you be willing to grant a smartphone with access to huge amounts of personal date in order to develop a personalized AI assistant that an help you get things done? Arguably that&#8217;s something you may already be doing if you&#8217;re using an Android phone, but a startup called Newnal is taking things to a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-a-weird-new-ai-phone-apple-refreshes-the-macbook-air-intel-arrow-lake-goes-business-class-and-postmarketos-is-looking-for-a-new-name/">Lilbits: A weird new AI phone, Apple refreshes the MacBook Air, Intel Arrow Lake goes business-class, and postmarketOS is looking for a new name</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-a-weird-new-ai-phone-apple-refreshes-the-macbook-air-intel-arrow-lake-goes-business-class-and-postmarketos-is-looking-for-a-new-name/>
+
+---
+
+## Inline rendering with document​.currentScript
+
+date: 2025-03-07, from: Lean Rada's blog
+
+
+<p>For quick and dirty rendering of simple dynamic content, you may not need the complexity of a templating language like Handlebars or a PHP backend.</p>
+
+<p>Let’s use the example phrase, <i>“Come on, it’s <code>&lt;currentYear&gt;</code>”</i>. It should result in <i>“Come on, it’s <u><noscript>2025</noscript><script>$(new Date().getFullYear())</script></u>”</i> when rendered today.</p>
+
+<p>You can write this directly in HTML—<em>without IDs, classes, or querySelectors in your JS!</em> Thanks to the <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/currentScript" target="_blank"><code>document.currentScript</code></a> property, we can refer to the <em>currently running <code>&lt;script&gt;</code> element</em> directly and go from there.</p>
+
+<p>So the dynamic phrase <strong>“Come on, it’s <noscript>2025</noscript><script>$(new Date().getFullYear())</script>”</strong> would now be written as:</p>
+
+<pre><code>Come on, it’s
+&lt;script&gt;
+  document.currentScript.replaceWith(new Date().getFullYear())
+&lt;/script&gt;</code></pre>
+
+<p>The script simply replaces itself with its computed value on the spot.</p>
+
+<p>The code’s a bit wordy though, but we can <em>alias</em> it to a constant like <code>$</code> via <code>$=(...n)=&gt;document.currentScript.replaceWith(...n)</code>. Then we’d have something reminiscent of <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals" target="_blank">template literals</a> in JS.</p>
+
+<pre><code>Come on, it’s &lt;script&gt;$(new Date().getFullYear())&lt;/script&gt;</code></pre>
+
+<p>The code is pretty readable at a glance without context (after you get past the bit of indirection that is the <code>$</code> alias).</p>
+<box-note role="complementary">
+  <details>
+    <summary>Click to see the WebComponent version! <small>Disclaimer: This is a joke.</small></summary>
+
+    <code-block language="js">
+      <code><pre><script>$(RenderJS.toString())</script></pre></code>
+    </code-block>
+
+    <p>This is the <code>RenderJS</code> custom element. All it does is replace itself with the result of its contents treated as JavaScript code.</p>
+
+    <p>To use it, we must first name the tag. The beloved dollar sign <code>$</code> is not allowed, so we use the next best thing—the emoji 💲. Sadly, that’s not enough: Tag names must start with a letter of the alphabet and include a hyphen. As such, we are forced to name it: <code>j-💲</code> representing JavaScript.</p>
+
+    <code-block language="js">
+      <code><pre><script>customElements.define('j-💲', RenderJS);</script></pre></code>
+    </code-block>
+
+    <h3>Example usage</h3>
+
+    <fixed-grid>
+      <code-block>
+        <code><pre>I overslept by about &lt;j-💲&gt;Math.PI&lt;/j-💲&gt; hours this morning.</pre></code>
+      </code-block>
+      <card-box>
+        I overslept by about <j-💲>Math.PI</j-💲> hours this morning.
+      </card-box>
+    </fixed-grid>
+  </details>
+</box-note>
+<p>A <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript" target="_blank"><code>noscript</code></a> fallback would be nice for those that don’t run JS.</p>
+
+<pre><code>Come on, it’s
+&lt;noscript&gt;current year&lt;/noscript&gt;
+&lt;script&gt;$(new Date().getFullYear())&lt;/script&gt;</code></pre>
+
+<p>The resulting script-noscript juxtaposition in the markup looks almost like Angular/Vue’s if-else markup, neat.</p>
+<box-note>IIRC, I learned about this technique from the <a href="https://github.com/gnat/surreal" target="_blank">Surreal</a> library or something similar. But I’m sure this is not a new discovery. These APIs have been standardised for a long time.</box-note>
+<h2>Real world examples</h2>
+
+<p>If you thought this technique is only useful for rendering the current year, you’re mostly right! As an example, I’ve used inline scripts to refer to relative dates in my living pages. Because <strong>“<noscript>8</noscript><script>$(new Date().getFullYear()-2017)</script> years ago”</strong> sounds more natural than <strong>“2017”</strong>.</p>
+
+<pre><code>It was planted
+&lt;noscript&gt;in 2017&lt;/noscript&gt;
+&lt;script&gt;$(new Date().getFullYear()-2017, ' years ago')&lt;/script&gt;
+but now it has grown tall and strong.</code></pre>
+<card-box>
+  It was planted
+  <noscript>in 2017</noscript>
+  <script>$(new Date().getFullYear()-2017, ' years ago')</script>
+  but now it has grown tall and strong.
+</card-box>
+<h3>Random greeting</h3>
+
+<p>Another example is in my front page, which says a randomly selected greeting on each visit.</p>
+
+<img src="https://leanrada.com/notes/inline-rendering-currentscript/greeting.png?ref=rss" alt="screenshot of my homepage intro section">
+
+<pre><code>&lt;span class="intro-line"&gt;
+  &lt;noscript&gt;Hello!&lt;/noscript&gt;
+  &lt;script&gt;
+    $([
+      "Hello!",
+      "Hey~~~",
+      "What’s up ↑",
+      "Hi there →",
+      "Hey there →",
+    ][Date.now() % 5])
+  &lt;/script&gt;
+&lt;/span&gt;</code></pre>
+<box-note>The randomiser is just a <code>Date.now()</code> with modulo because it was more concise than <code>Math.floor(Math.random() * 5)</code>.</box-note>
+<h3>Splitting text for animation</h3>
+
+<p>Split text into characters using inline scripts to generate markup per character which can then be controlled or animated! In my case, I used it to render circular text, but a more common use case is text animation like the following.</p>
+<card-box>
+  It has been a
+  <script>document.currentScript.outerHTML=
+    "supercalifragilisticexpialidocious".replace(/./g, c => `<strong>${c}</strong>`)
+  </script>
+  week.
+  
+</card-box>
+<pre><code>It has been a
+&lt;script&gt;document.currentScript.outerHTML=
+  "supercalifragilisticexpialidocious"
+    .replace(/./g, c =&gt; `&lt;strong&gt;${c}&lt;/strong&gt;`)
+&lt;/script&gt;
+week.
+
+&lt;style&gt;
+  strong {
+    display: inline-block;
+    animation: wave 0.3s infinite alternate ease-in-out;
+    &amp;:nth-child(4n + 1) { animation-delay: -0.6s; }
+    &amp;:nth-child(4n + 2) { animation-delay: -0.45s; }
+    &amp;:nth-child(4n + 3) { animation-delay: -0.3s; }
+    &amp;:nth-child(4n + 4) { animation-delay: -0.15s; }
+  }
+  @keyframes wave {
+    to { transform: translateY(-2px); }
+  }
+&lt;/style&gt;</code></pre>
+
+<h3>Rendering metadata to reduce duplication</h3>
+
+<p>This post’s heading is dynamically derived from the page title metadata. I only have to define this post’s title once, in the <code>&lt;title&gt;</code> tag.</p>
+<code><pre>&lt;blog-header&gt;
+  &lt;h1&gt;&lt;script&gt;$(document.title)&lt;/script&gt;&lt;/h1&gt;
+  &lt;img src="hero.jpg" alt="" loading="lazy"&gt;&lt;/img&gt;
+&lt;/blog-header&gt;</pre></code>
+<h3>Auto-updating footer</h3>
+
+<p>How about an auto-updating copyright notice in the footer which may or may not have legal implications? <small>(IANAL)</small></p>
+
+<pre><code>&lt;footer&gt;
+  © &lt;script&gt;$(new Date().getFullYear())&lt;/script&gt; Mycorp, Ltd.
+&lt;/footer&gt;</code></pre>
+
+<p>For comparison, here’s the StackOverflow/ChatGPT answer:</p>
+<fixed-grid>
+<code-block language="js">
+<pre><code>document
+  .getElementById("copyright-year")
+  .textContent = new Date().getFullYear();</code></pre>
+</code-block>
+<code-block language="html">
+<pre><code>&lt;footer&gt;
+  © &lt;span id="copyright-year"&gt;&lt;/span&gt; Mycorp, Ltd.
+&lt;/footer&gt;</code></pre>
+</code-block>
+</fixed-grid>
+<p>Why pollute the global ID namespace and separate coupled code if we can avoid it?</p>
+<box-note><code>Date().split` `[3]</code> is also a short (but very hacky) way to get the year.</box-note>
+<p>At this point you may be asking, is this technique only really useful for rendering the current year? Maybe, but we can do more than just <em>rendering</em> text.</p>
+
+<p>Come on, it’s <noscript>2025</noscript><script>$(new Date().toLocaleDateString())</script>, the web is rich and interactive!</p>
+
+<h3>The ubiquitous counter app example</h3>
+
+<p>This is not a simple templating example anymore, but shows the power of <code>currentScript</code> in <a href="https://en.wikipedia.org/wiki/Hydration_(web_development)" target="_blank">hydrating</a> self-contained bits of interactive HTML.</p>
+<card-box>
+  Count: <span>0</span>
+  <button theme="button">Increment</button>
+  <button theme="button">Decrement</button>
+  <script>
+    const [span, increment, decrement] = document.currentScript.parentElement.children;
+    let count = 0;
+    increment.onclick = () => span.replaceChildren(++count);
+    decrement.onclick = () => span.replaceChildren(--count);
+  </script>
+</card-box>
+<pre><code>&lt;div&gt;
+  Count: &lt;span&gt;0&lt;/span&gt;
+  &lt;button&gt;Increment&lt;/button&gt;
+  &lt;button&gt;Decrement&lt;/button&gt;
+  &lt;script&gt;
+    const [span, increment, decrement] =
+      document.currentScript.parentElement.children;
+    let count = 0;
+    increment.onclick = () =&gt; span.replaceChildren(++count);
+    decrement.onclick = () =&gt; span.replaceChildren(--count);
+  &lt;/script&gt;
+&lt;/div&gt;</code></pre>
+
+<p>I used this ‘local script’ pattern all the time in a previous version of this blog. It’s useful when making interactive illustrations in the middle of a long post. You wouldn’t want to put that logic at the very end or start of the file, away from the relevant section! Same goes for styles, now made even better with the <a href="https://developer.chrome.com/docs/css-ui/at-scope#prelude-less_scope" target="_blank"><code>@scope</code> rule</a>.</p>
+
+<p>It’s a good way to manage islands of interactivity.</p>
+
+<h2>The catch</h2>
+
+<p>There are reasons people gravitate to libraries and frameworks. They’re just too convenient.</p>
+
+<p>If you want to use the alias definition above—the <code>$</code> shorthand—then you'd first have to define it at the top of the HTML, <strong>synchronously</strong>. Say you want to use this in multiple pages, so you put this in a common script file and load it via <code>&lt;script src="$.js"&lt;/script&gt;</code>. This could result in a parser- and render-blocking fetch: potentially very bad for performance!</p>
+
+<p>For my own cases, I don’t use the alias. I straight up just use <code>document.currentScript​.replaceWith</code>. Wish it was  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/write" target="_blank">shorter…</a></p>
+
+<p>Also, you cannot do <strong>data-driven templating</strong> this way, in the sense that you have <strong>templates</strong> to apply <strong>data</strong> onto. Metadata such as date published, post title, and tags that are stored in some posts table or in frontmatter somewhere, cannot be used for inline scripting purposes. You can’t fetch data from inline scripts. Therefore, unless data is somehow pre-injected in the global scope, no luck in pure vanilla JS templating. This is where templating languages like <a href="https://shopify.github.io/liquid/" target="_blank">Liquid</a> really shine.</p>
+
+<p>For my site, I don’t need a templating system—I use direct patching to data-drive my HTML (in which the source and the output files are the same).</p>
+
+<p>Even if you use a templating framework or a static site generator, inline scripts remain useful!</p>
+
+<h2>Further reading</h2>
+
+<ul>
+  <li><a href="https://github.com/gnat/surreal" target="_blank">Surreal</a> - a library that offers this technique, plus other jQuery-style helpers. Note the synchronous script tag loading issue though!</li>
+  <li><a href="https://github.com/sveltejs/kit/issues/2221" target="_blank">currentScript discussion in SvelteKit</a> - this as an alternative to global IDs for self-hydrating things. In the end they went with generated IDs. :|</li>
+</ul>
+
+<h2>Appendix</h2>
+
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/API/Document/write" target="_blank"><code>document.write()</code></a> used to (?) work like this for inline rendering, but it’s now deprecated because it had inconsistent behaviour.</p>
+<code><pre>Come on, it’s
+&lt;script&gt;document.write(new Date().getFullYear())&lt;/script&gt;,
+stop using &lt;code&gt;document.write&lt;/code&gt;!</pre></code><iframe srcdoc="Come on, it’s <noscript>2025</noscript><script>document.write(new Date().getFullYear())</script>, stop using <code>document.write</code>!"></iframe> 
+
+<br> 
+
+<https://leanrada.com/notes/inline-rendering-currentscript/?ref=rss>
+
+---
+
+## Live with Mehdi Hasan
+
+date: 2025-03-06, from: Paul Krugman
+
+A recording from Paul Krugman and Mehdi Hasan's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158552072/183b1b2d03cee3abd1904f5ac48a382e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158552072/183b1b2d03cee3abd1904f5ac48a382e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/live-with-mehdi-hasan>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+Today’s Olbermann podcast was especially good. 
+
+<br> 
+
+<https://www.iheart.com/podcast/1119-countdown-with-keith-olbe-99705496/episode/the-attempt-to-make-it-illegal-269590587/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+Jeffries should resign. 
+
+<br> 
+
+<https://www.axios.com/2025/03/06/trump-speech-congress-democrats-disrupt>
+
+---
+
+## Nubia Focus 2 Ultra has a rotating ring around the camera
+
+date: 2025-03-06, from: Liliputing
+
+<p>The Nubia Focus 2 Ultra is a smartphone with a 6.8 inch, 120 Hz AMOLED display, a Unisoc T760 processor, 8GB of RAM, Android 15 software, and a 5,000 mAh battery. But what makes this phone noteworthy is its camera system. There&#8217;s a ring around the rear camera that you can rotate to adjust the zoom [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/nubia-focus-2-ultra-has-a-rotating-ring-around-the-camera/">Nubia Focus 2 Ultra has a rotating ring around the camera</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/nubia-focus-2-ultra-has-a-rotating-ring-around-the-camera/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-06, from: Feed for Alt USDS)
+
+For clarity: about 10% of public school funding comes from federal sources. AND those few funds are targeted to help low-income communities including rural students. 
+
+Said differently: "deleting" the Dept. of Education will disproportionately affect Trump voters and their families.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljqkbrj2kc2g>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+Federal Judge Tells Trump He ‘Is Not a King.’ 
+
+<br> 
+
+<https://politicalwire.com/2025/03/06/federal-judge-tells-trump-he-is-not-a-king/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+Worst Hudson Valley, New York Roads for Potholes. It’s been a rough winter here. 
+
+<br> 
+
+<https://hudsonvalleycountry.com/worst-hudson-valley-new-york-roads-for-potholes/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-06, from: Dave Winer's linkblog)
+
+Andrew Cuomo Gets Endorsement From City Government Workers’ Union. 
+
+<br> 
+
+<https://www.thecity.nyc/2025/03/06/andrew-cuomo-teamsters-nycha-endorsement/>
+
+---
+
+## Alexa Plus
+
+date: 2025-03-06, from: Michael Tsai
+
+Ina Fried: Amazon on Wednesday showed off Alexa+, a generative AI version of its digital voice assistant that draws on a variety of models and works with many of the company&#8217;s older Echo devices.[&#8230;]Alexa+ will be available in late March and cost $19.99 per month on its own &#8212; but it&#8217;s free for Amazon Prime [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/06/alexa-plus/>
+
+---
+
+## Lightroom Classic 14.2
+
+date: 2025-03-06, from: Michael Tsai
+
+Adobe: The Adaptive profiles help with image-adaptive adjustments in color, tone, and contrast of raw images.[&#8230;]The Lightroom Classic 14.2 update introduces substantial performance improvements for interactive editing tasks, delivering a smoother, faster, and more responsive experience.[&#8230;]Better manage your catalog backups with a new backup panel in Catalog Settings &#62; Backup. You can now easily open [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/06/lightroom-classic-14-2/>
+
+---
+
+## Chrome Warning About Manifest V2 Extensions
+
+date: 2025-03-06, from: Michael Tsai
+
+Thomas Claburn: This story starts in 2019 when Google detailed its plans to improve extensions&#8217; security and privacy features with a project it called Manifest V3 (MV3) that changes the way extensions use various APIs. MV3 is currently being rolled out, and Google looks set to stop supporting extensions that use its predecessor MV2 this [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/06/chrome-warning-about-manifest-v2-extensions/>
+
+---
+
+## Ladybird Browser
+
+date: 2025-03-06, from: Michael Tsai
+
+Joe Brockmeier (via Hacker News): Ladybird is an open-source project aimed at building an independent web browser, rather than yet another browser based on Chrome. It is written in C++ and licensed under a two-clause BSD license. The effort began as part of the SerenityOS project, but developer Andreas Kling announced on June 3 that [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/06/ladybird-browser/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-06, from: Tomosino's Mastodon feed)
+
+<p>My multisteno <a href="https://tilde.zone/tags/keyboard" class="mention hashtag" rel="tag">#<span>keyboard</span></a> arrived. I love the camera mount on it. I can layer it over my keychron and feel super cool. </p><p>I've got months and months ahead of me learning to use it, but I'm hopeful that further reducing my key travel distance will help the difficulties my hands have been having lately. <a href="https://tilde.zone/tags/Dvorak" class="mention hashtag" rel="tag">#<span>Dvorak</span></a> was a big help for the last 15 years but I need more help now.</p><p><a href="https://tilde.zone/tags/steno" class="mention hashtag" rel="tag">#<span>steno</span></a> <a href="https://tilde.zone/tags/plover" class="mention hashtag" rel="tag">#<span>plover</span></a></p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114117596770817123>
+
+---
+
+## Lenovo ThinkPad X13 Gen 6 is a 2.05 pound laptop with Intel 200H or AMD Ryzen AI PRO 300
+
+date: 2025-03-06, from: Liliputing
+
+<p>Lenovo&#8217;s new Thinkpad X13 Gen 6 is a 13.3 inch laptop with a thin and light design, a choice of Intel Arrow Lake or AMD Ryzen AI PRO processor options, and an $1139 starting price. Unveiled this week at Mobile World Congress in Barcelona, the laptop should be available in the US in June, 2025. Compared [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lenovo-thinkpad-x13-gen-6-is-a-2-05-pound-laptop-with-intel-200h-or-amd-ryzen-pro-300/">Lenovo ThinkPad X13 Gen 6 is a 2.05 pound laptop with Intel 200H or AMD Ryzen AI PRO 300</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lenovo-thinkpad-x13-gen-6-is-a-2-05-pound-laptop-with-intel-200h-or-amd-ryzen-pro-300/>
+
+---
+
+## Debugging Disposable ML Frameworks
+
+date: 2025-03-06, from: Peter Warden
+
+Guest post by Nat Jeffries, Founding Engineer at Useful Sensors. At Useful Sensors we love using disposable frameworks to deploy on-device transformers. Having built several such frameworks, I realized that, while there are great resources for understanding and training transformer models, there are few guides for deploying them on-device. The following are some lessons I [&#8230;] 
+
+<br> 
+
+<https://petewarden.com/2025/03/06/debugging-disposable-ml-frameworks/>
+
+---
+
+## Daily Deals (3-06-2025)
+
+date: 2025-03-06, from: Liliputing
+
+<p>Amazon is giving away a bunch of PC games for free to Prime members. The Epic Games Store is giving away another free game to anyone with an account. And you can pick up a refurbished Steam Deck from Valve for $349. Meanwhile if you&#8217;re looking for a dirt cheap PC that you&#8217;re probably not [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-3-06-2025/">Daily Deals (3-06-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-3-06-2025/>
+
+---
+
+## MINISFORUM A1 X1 Pro Strix Point mini PC now available for pre-order
+
+date: 2025-03-06, from: Liliputing
+
+<p>The MINISFORUM A1 X1 Pro is a small desktop computer that combines an AMD Ryzen AI 9 HX 370 &#8220;Strix Point&#8221; processor with up to 96GB of RAM and PCIe 4.0 storage. First announced in January, the A1 X1 Pro is now available for pre-order with prices starting at $899 for a model with 32GB of [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/minisforum-a1-x1-pro-strix-point-mini-pc-now-available-for-pre-order/">MINISFORUM A1 X1 Pro Strix Point mini PC now available for pre-order</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/minisforum-a1-x1-pro-strix-point-mini-pc-now-available-for-pre-order/>
+
+---
+
+## Google and Amazon AI Say Hitler’s Mein Kampf Is ‘a True Work of Art’
+
+date: 2025-03-06, from: 404 Media Group
+
+An example of AI attempting to summarizing nuanced reviewed of Hitler's Nazi manifesto turned into an example of algorithms eating themselves. 
+
+<br> 
+
+<https://www.404media.co/google-amazon-ai-search-mein-kampf-reviews/>
+
+---
+
+## AOOSTAR WTR Max coming soon for $699 and up: NAS with AMD Hawk Point supports 11 drives and
+
+date: 2025-03-06, from: Liliputing
+
+<p>The AOOSTAR WTR MAX is a network attached storage (NAS) device that packs a lot of features into a relatively small computer. It has an AMD Ryzen PRO 8845HS processor. It supports up to 11 storage devices (6 hard drives and 5 SSDs). It has two 10 Gigabit LAN ports and two 2.5 Gigabit Ethernet ports. And there&#8217;s even [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aoostar-wtr-max-coming-soon-for-699-and-up-nas-with-amd-hawk-point-supports-11-drives-and/">AOOSTAR WTR Max coming soon for $699 and up: NAS with AMD Hawk Point supports 11 drives and</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/aoostar-wtr-max-coming-soon-for-699-and-up-nas-with-amd-hawk-point-supports-11-drives-and/>
+
+---
+
+## America's Mobility Crisis
+
+date: 2025-03-06, from: Guy Kawasaki blog
+
+Why We're Stuck with Yoni Appelbaum. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/americas-mobility-crisis>
+
+---
+
+## Node just added TypeScript support. What does that mean for Deno?
+
+date: 2025-03-06, updated: 2025-03-06, from: Deno blog
+
+Node's experimental TypeScript support will be stabilized in 23.6. Here's what Node's TypeScript integration looks like and how it compares to Deno. 
+
+<br> 
+
+<https://deno.com/blog/typescript-in-node-vs-deno>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-06, from: Feed for Alt USDS)
+
+U.S. African Development Foundation denied DOGE employees access to its office yesterday. 🫡 Here's the WaPo article headline. 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljptmmnvvk2t>
+
+---
+
+## monolith
+
+date: 2025-03-06, updated: 2025-03-06, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/Y2Z/monolith">monolith</a></strong></p>
+Neat CLI tool built in Rust that can create a single packaged HTML file of a web page plus all of its dependencies.</p>
+<pre><code>cargo install monolith # or brew install
+monolith https://simonwillison.net/ &gt; simonwillison.html
+</code></pre>
+<p>That command produced <a href="https://static.simonwillison.net/static/2025/simonwillison.html">this 1.5MB single file result</a>. All of the linked images, CSS and JavaScript assets have had their contents inlined into base64 URIs in their <code>src=</code> and <code>href=</code> attributes.</p>
+<p>I was intrigued as to how it works, so I dumped the whole repository into Gemini 2.0 Pro and asked for an architectural summary:</p>
+<pre><code>cd /tmp
+git clone https://github.com/Y2Z/monolith
+cd monolith
+files-to-prompt . -c | llm -m gemini-2.0-pro-exp-02-05 \
+  -s 'architectural overview as markdown'
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/2c80749935ae3339d6f7175dc7cf325b">what I got</a>. Short version: it uses the <code>reqwest</code>, <code>html5ever</code>, <code>markup5ever_rcdom</code> and <code>cssparser</code> crates to fetch and parse HTML and CSS and extract, combine and rewrite the assets. It doesn't currently attempt to run any JavaScript.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=42933383#42935115">Comment on Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/scraping">scraping</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/rust">rust</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/6/monolith/#atom-everything>
 
 ---
 
@@ -253,6 +959,32 @@ My hottest take is that multi-agents are a broken concept and should be avoided 
 <br> 
 
 <http://timkellogg.me/blog/2025/03/06/pid-controllers>
+
+---
+
+## MCP Demystified
+
+date: 2025-03-06, updated: 2025-03-06, from: Tom Kellog blog
+
+MCP is all over my socials today, to the extent that every 4th post is about it. What’s MCP and why
+should you care? Here I’ll rattle off a bunch of analogies, you can choose what works for 
+you and disregard the rest. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/03/06/mcp>
+
+---
+
+## From unique to cleanups and weak: new low-level tools for efficiency
+
+date: 2025-03-06, updated: 2025-03-06, from: Go language blog
+
+Weak pointers and better finalization in Go 1.24. 
+
+<br> 
+
+<https://go.dev/blog/cleanups-and-weak>
 
 ---
 
@@ -771,12 +1503,12 @@ Now you can curate, personalize, and share all your your crawls in one place.
 
 ---
 
-## AOOSTAR WTR MAX is a 7-bay NAS with AMD Ryzen 8040HS
+## AOOSTAR WTR MAX is a 6-bay NAS with AMD Ryzen 8040HS
 
 date: 2025-03-04, from: Liliputing
 
-<p>The AOOSTAR WTR MAX  is an upcoming network attached storage device with support for up to 6 hard drives and 6 SSDs, an AMD Ryzen 8040HS &#8220;Hawk Point&#8221; processor, support for up to 32GB of DDR5-5600 dual-channel memory, and four high-speed networking ports. In other words, it&#8217;s like the big sibling of the AOOSTAR WTR Pro, [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/aoostar-wtr-max-is-a-7-bay-nas-with-amd-ryzen-8040hs/">AOOSTAR WTR MAX is a 7-bay NAS with AMD Ryzen 8040HS</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The AOOSTAR WTR MAX  is an upcoming network attached storage device with support for up to 6 hard drives and 6 5 SSDs, an AMD Ryzen 8040HS &#8220;Hawk Point&#8221; processor, support for up to 32GB of DDR5-5600 dual-channel memory, and four high-speed networking ports. In other words, it&#8217;s like the big sibling of the AOOSTAR WTR [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aoostar-wtr-max-is-a-7-bay-nas-with-amd-ryzen-8040hs/">AOOSTAR WTR MAX is a 6-bay NAS with AMD Ryzen 8040HS</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <br> 
