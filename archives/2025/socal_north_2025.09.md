@@ -1,11 +1,171 @@
 ---
 title: socal north
-updated: 2025-03-07 07:09:31
+updated: 2025-03-08 07:07:26
 ---
 
 # socal north
 
-(date: 2025-03-07 07:09:31)
+(date: 2025-03-08 07:07:26)
+
+---
+
+## Women’s March returns under a new Trump term, 8 years after first making waves
+
+date: 2025-03-07, updated: 2025-03-08, from: The LAist
+
+The downtown protest begins at Pershing Square at 10 a.m. Saturday. More than 10,000 people have registered. 
+
+<br> 
+
+<https://laist.com/news/politics/womens-march-donald-trump-pussyhats>
+
+---
+
+## A former Olympic snowboarder makes the FBI's Most Wanted list
+
+date: 2025-03-07, updated: 2025-03-07, from: The LAist
+
+Ryan Wedding, a former Canadian Olympic snowboarder-turned-alleged-drug trafficker, "went from shredding powder on the slopes at the Olympics to distributing powder cocaine," the FBI's L.A. field office says. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/former-olympic-snowboarder-fbis-most-wanted-list>
+
+---
+
+## Gene Hackman died of heart disease, his wife died of hantavirus, authorities say
+
+date: 2025-03-07, updated: 2025-03-07, from: The LAist
+
+Actor Gene Hackman died of heart disease a full week after his wife died from hantavirus in their New Mexico hillside home, authorities revealed Friday. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/gene-hackman-died-of-heart-disease-his-wife-died-of-hantavirus-authorities>
+
+---
+
+## The Tavern Brawlers to Present “A Couple of Blaguards” at The MAIN
+
+date: 2025-03-07, from: City of Santa Clarita
+
+<p>&#160;Kick-off St. Patrick’s Season with Laughs, a Little Blarney and a Whole Lot of Heart! The hilarious and heartfelt production, A Couple of Blaguards, is coming to The MAIN (24266 Main Street) from Friday, March 14, to Sunday, March 23, just in time for Saint Patrick’s Day! Presented by the Tavern Brawlers, this theatrical production [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/07/the-tavern-brawlers-to-present-a-couple-of-blaguards-at-the-main/">The Tavern Brawlers to Present &#8220;A Couple of Blaguards&#8221; at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/07/the-tavern-brawlers-to-present-a-couple-of-blaguards-at-the-main/>
+
+---
+
+## As LA County sues Edison over deadly fire, is the state’s wildfire fund in jeopardy?
+
+date: 2025-03-07, updated: 2025-03-07, from: The LAist
+
+Fire investigators have not found Edison responsible for the Eaton Fire — but mounting lawsuits heighten concerns about its potential liability for the deadliest and most destructive blaze since the state created a fund to prevent wildfires from bankrupting utilities. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-sues-edison-over-deadly-fire-states-wildfire-fund-in-jeopardy>
+
+---
+
+## Avalon adopts new city bike law
+
+date: 2025-03-07, from: Catalina Islander
+
+The City Council voted unanimously to adopt a new Municipal Code Ordinance that includes regulations for bicycles, e-bicycles, and motorized bikes. The council also repealed an older city law covering the same transportation devices. This was a Consent Calendar item. Consent items are voted on collectively, without discussion, unless a council member pulls one or [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-adopts-new-city-bike-law/>
+
+---
+
+## No Surprises Act and the cost of emergency airlifts
+
+date: 2025-03-07, from: Catalina Islander
+
+Catalina Island residents, boaters, and even regular visitors may be familiar with air medical memberships. This membership coverage could be used in the unfortunate situation that Catalina Island Health was unable to provide the proper care for a patient and an air ambulance was required. Air medical services, like Mercy Air, would be called to [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/no-surprises-act-and-the-cost-of-emergency-airlifts/>
+
+---
+
+## City of Santa Clarita Awarded $1.4 Million Measure A Grant to Expand Open Space
+
+date: 2025-03-07, from: City of Santa Clarita
+
+<p>The City of Santa Clarita has been awarded a $1.4 million Measure A competitive grant from the Los Angeles County Regional Park and Open Space District (RPOSD), securing vital funding to expand and protect local open space. Santa Clarita was among just 13 projects selected for funding. &#160; “With these grant funds, the City will [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/07/city-of-santa-clarita-awarded-1-4-million-measure-a-grant-to-expand-open-space/">City of Santa Clarita Awarded $1.4 Million Measure A Grant to Expand Open Space</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/07/city-of-santa-clarita-awarded-1-4-million-measure-a-grant-to-expand-open-space/>
+
+---
+
+## The job market is still pretty solid — but there are warning signs ahead
+
+date: 2025-03-07, updated: 2025-03-08, from: The LAist
+
+U.S. employers added 151,000 jobs in February, while the unemployment rate inched up to 4.1% from 4.0% in January. 
+
+<br> 
+
+<https://laist.com/news/job-market-pretty-solid-but-warning-signs-ahead>
+
+---
+
+## A great white shark just shut a stretch of Huntington Beach. Here's why you shouldn't worry
+
+date: 2025-03-07, updated: 2025-03-07, from: The LAist
+
+Marine safety units using wave runners and a helicopter searched the area for the shark, which was said to be about 6 or 7 feet long. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/great-white-shark-huntington-beach-sighting>
+
+---
+
+## Muslim and Jewish groups lost houses of worship in the Eaton Fire. How they're recovering
+
+date: 2025-03-07, updated: 2025-03-07, from: The LAist
+
+Recovery has been an interfaith effort for Altadena's Masjid Al-Taqwa and the Pasadena Jewish Temple and Center — both of which burned in January. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/muslim-and-jewish-groups-lost-houses-of-worship-in-the-eaton-fire-how-theyre-recovering>
+
+---
+
+## An (incomplete) list of underrated rom coms you need to watch this weekend
+
+date: 2025-03-07, updated: 2025-03-07, from: The LAist
+
+We asked AirTalk listeners what romantic comedies they think deserve more love and affection. Here's a list of some lesser known rom coms worth checking out. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/underrated-rom-coms-to-watch>
+
+---
+
+## Love healthy snacks? This is what you’ll be eating in the near future
+
+date: 2025-03-07, updated: 2025-03-08, from: The LAist
+
+The future of food is on display at the Expo West trade show in Anaheim. 
+
+<br> 
+
+<https://laist.com/news/food/future-healthy-snacks>
 
 ---
 
@@ -13,7 +173,7 @@ updated: 2025-03-07 07:09:31
 
 date: 2025-03-07, updated: 2025-03-07, from: The LAist
 
-Huntington Beach City Councilmember Tony Strickland looks likely to win more than 50% of the vote, removing the need for a runoff in the O.C. and L.A. County state Senate race. 
+Huntington Beach City Councilmember Tony Strickland won more than 50% of the vote, removing the need for a runoff in the O.C. and L.A. County state Senate race. 
 
 <br> 
 
@@ -107,11 +267,11 @@ Mortgages insured by the Federal Housing Administration could be eligible for th
 
 ---
 
-## Eaglet watch: Pip spotted on third egg in Jackie and Shadow's nest
+## Eaglet watch: Third chick is breaking through shell in Jackie and Shadow's nest
 
-date: 2025-03-06, updated: 2025-03-07, from: The LAist
+date: 2025-03-06, updated: 2025-03-08, from: The LAist
 
-As the famous bald eagle couple shields two chicks from the snow and cold, a third egg is finally showing signs of life. 
+As the famous bald eagle couple shields two chicks from the snow and cold, a third chick is breaking through its shell. 
 
 <br> 
 
@@ -459,11 +619,11 @@ The U.S. Department of Agriculture must temporarily reinstate nearly 6,000 proba
 
 ---
 
-## The window for victims of the LA fires to apply for FEMA funding is rapidly closing
+## Victims of the LA fires have a little longer to apply for FEMA funding
 
-date: 2025-03-05, updated: 2025-03-05, from: The LAist
+date: 2025-03-05, updated: 2025-03-08, from: The LAist
 
-Federal funds can be used toward home repairs and other expenses like childcare. 
+Federal funds can be used toward home repairs and other expenses like childcare, but you must apply by the end of March. 
 
 <br> 
 
@@ -677,7 +837,7 @@ The new passes will start to be distributed Tuesday and are for people, business
 
 ## Proposed LAUSD calendar commits to three-week winter break
 
-date: 2025-03-04, updated: 2025-03-06, from: The LAist
+date: 2025-03-04, updated: 2025-03-07, from: The LAist
 
 The proposal carves out a full week for optional school days during the winter break. 
 
@@ -1008,4 +1168,176 @@ The sisterhood is coming together to help the 3,000 displaced Girl Scouts replac
 <br> 
 
 <https://laist.com/news/los-angeles-activities/la-fires-girl-scouts>
+
+---
+
+## Up to 3,000 more U.S. troops are ordered to the border with Mexico
+
+date: 2025-03-01, updated: 2025-03-02, from: The LAist
+
+Up to 3,000 additional troops have been ordered to the U.S.-Mexico border by Defense Secretary Pete Hegseth, the latest in President Trump's efforts to prevent illegal crossings. 
+
+<br> 
+
+<https://laist.com/news/up-to-3-000-more-u-s-troops-are-ordered-to-the-border-with-mexico>
+
+---
+
+## DOGE's savings page fixed old mistakes — and added new ones
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+An NPR review of new data added to DOGE's "wall of receipts" finds the group quietly changed previous errors, added new ones and still has little verified savings to show for its work. 
+
+<br> 
+
+<https://laist.com/news/doges-savings-page-fixed-old-mistakes-and-added-new-ones>
+
+---
+
+## The Oscars are Sunday. We got the road closures
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Heavy traffic will surround the Dolby Theatre until at least Monday morning 
+
+<br> 
+
+<https://laist.com/news/transportation/the-oscars-are-sunday-we-got-the-road-closures>
+
+---
+
+## Collaborating for a Brighter Future: FIRST Robotics Competition Dives into Innovation at The Port Hueneme
+
+date: 2025-03-01, from: Port Hueneme
+
+<p>At a ceremony held at the Port of Hueneme, Jess J. Ramirez was sworn in as president of the Oxnard Harbor District. Ventura County Supervisor Vianey Lopez administered the oath of office.</p>
+<p>The post <a href="https://www.portofhueneme.org/collaborating-for-a-brighter-future-first-robotics-competition-dives-into-innovation-at-the-port-hueneme/">Collaborating for a Brighter Future: FIRST Robotics Competition Dives into Innovation at The Port Hueneme</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
+ 
+
+<br> 
+
+<https://www.portofhueneme.org/collaborating-for-a-brighter-future-first-robotics-competition-dives-into-innovation-at-the-port-hueneme/>
+
+---
+
+## Daring train thieves target BNSF Railway, stealing $2M worth of Nike and other goods
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+A series of brazen train robberies have been carried out across the Western United States, resulting in the theft of millions of dollars worth of Nike merchandise. 
+
+<br> 
+
+<https://laist.com/news/daring-train-thieves-target-bnsf-railway-stealing-2m-worth-of-nike-and-other-goods>
+
+---
+
+## ICE is making more arrests, but critics say some claims don't add up
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Immigration authorities are making more arrests than they did under President Biden. But the Department of Homeland Security's own data shows that they're not keeping pace with White House demands. 
+
+<br> 
+
+<https://laist.com/news/ice-is-making-more-arrests-but-critics-say-some-claims-dont-add-up>
+
+---
+
+## What should win vs. what will win — here are our Oscars predictions
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+There are 10 movies in the running for best picture. Our critics are split over whether Anora or Nickel Boys should take home the prize. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/what-should-win-vs-what-will-win-here-are-our-oscars-predictions>
+
+---
+
+## Embrace Your Roots with One Story One City Events
+
+date: 2025-03-01, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Imagine a month-long event that brings the community together in an immersive literary experience—merging one novel with themed arts, crafts and experiences. This is possible with the return of the community-favorite One Story One City program. Kicking off this month, the Santa Clarita Public Library is excited to announce The [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/01/embrace-your-roots-with-one-story-one-city-events/">Embrace Your Roots with One Story One City Events</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/01/embrace-your-roots-with-one-story-one-city-events/>
+
+---
+
+## USDA unveils a $1 billion plan to address the egg crisis
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Egg prices have been going through the roof. 
+
+<br> 
+
+<https://laist.com/news/food/usda-unveils-a-1-billion-plan-to-address-the-egg-crisis>
+
+---
+
+## All grill, no bill — Fair Oaks Burger is serving free meals in Altadena
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+The restaurant is one of a few surviving structures on its block of Fair Oaks Avenue and is serving displaced residents and first responders in the parking lot. 
+
+<br> 
+
+<https://laist.com/news/food/fair-oaks-burger-free-meals-altadena-eaton-fire>
+
+---
+
+## Go Fact Yourself quiz for March 1
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Our celebrity panelists Billy Gardell and Gina Yashere go head to head this week on their knowledge of the Pittsburgh Steelers and 1990s hip hop. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-march-1>
+
+---
+
+## Homelessness service officials outline new ethics procedures after LAist reporting
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Executives with potential conflicts of interest will no longer appear on the signature lines of contracts, the L.A. homelessness services agency says. The change to LAHSA procedures was outlined after LAist found the CEO signed a $2.1 million contract with her husband’s employer. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-new-ethics-procedures>
+
+---
+
+## Pasadena Unified cuts 151 positions as enrollment losses continue across California
+
+date: 2025-03-01, updated: 2025-03-03, from: The LAist
+
+The Pasadena Unified School District board of education voted Thursday to cut the full-time positions in response to continued enrollment problems. 
+
+<br> 
+
+<https://laist.com/news/education/pasadena-unified-cuts-151-positions-enrollment-decline-california>
+
+---
+
+## Microsoft will end Skype in May, leaving some users upset
+
+date: 2025-03-01, updated: 2025-03-01, from: The LAist
+
+Microsoft says it will wind down the pioneering and once ubiquitous free video calling service so it can streamline its consumer communications offerings, such as Microsoft Teams. 
+
+<br> 
+
+<https://laist.com/news/microsoft-will-end-skype-in-may>
 

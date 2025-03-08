@@ -1,11 +1,316 @@
 ---
 title: columns
-updated: 2025-03-07 07:09:33
+updated: 2025-03-08 07:07:28
 ---
 
 # columns
 
-(date: 2025-03-07 07:09:33)
+(date: 2025-03-08 07:07:28)
+
+---
+
+##  A game called &#8220;It is as if you were on your phone&#8221;... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046409-a-game-called-it-is>
+
+---
+
+##  A collection of movie clips containing inaccurate binocular shots, &#8220;(i.e., two overlapping... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046403-a-collection-of-movie-cli>
+
+---
+
+## Friday Squid Blogging: Squid Loyalty Cards
+
+date: 2025-03-07, updated: 2025-03-05, from: Bruce Schneier blog
+
+<p>Squid is a <a href="https://www.siliconrepublic.com/start-ups/loyalty-card-platform-squid-crowdfunding-campaign">loyalty card platform</a> in Ireland.</p>
+<p><a href="https://www.schneier.com/blog/archives/2024/06/new-blog-moderation-policy.html">Blog moderation policy.</a></p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-loyalty-cards.html>
+
+---
+
+## Reuters on Apple’s Personalized Siri Apple Intelligence Delay
+
+date: 2025-03-07, updated: 2025-03-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/technology/apple-says-some-ai-improvements-siri-delayed-2026-2025-03-07/>
+
+---
+
+##  From Ben Fry, a visualization of the 5,000+ covers of the New... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046408-from-ben-fry-a-visualizat>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-07, from: Dave Winer's Scripting News)
+
+The United States is Russia's 51st state, sad to say. Let's get it back for the people of the United States. We don't like Putin. Sorry. 
+
+<br> 
+
+<http://scripting.com/2025/03/07.html#a211034>
+
+---
+
+##  Star Trek: TNG Opening Credits, But the Theme Music Is Coming From the Enterprise 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/star-trek-credits-theme-music-coming-from-enterprise>
+
+---
+
+## It’s about time. And space.
+
+date: 2025-03-07, from: Doc Searls (at Harvard), New Old Blog
+
+This informative video by @lainaminute (L.A. in a Minute) on Instagram expands on something I anticipated when I shot this photo album of the KSPN/710 transmitter site at 12775 Burbank Boulevard almost four years ago: that the land under the transmitter—19 acres of fenced-in grass surrounded by suburbs—would be put up for sale by Disney, [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/07/its-about-time-and-space/>
+
+---
+
+##  This is fantastic and very much worth your time: Marcin Wichary&#8217;s deep... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046400-this-is-fantastic-and-ver>
+
+---
+
+## March 6, 2025
+
+date: 2025-03-07, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158609898/cb9b0412f33010abd1efa971e5e057bd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158609898/cb9b0412f33010abd1efa971e5e057bd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-6-2025-4dc>
+
+---
+
+##  I Took My Work Outside Every Day for a Month This Winter.... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046404-i-took-my-work-outside>
+
+---
+
+##  The 100 Greatest TV Performances of the 21st Century (one per show... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046407-the-100-greatest-tv-perfo>
+
+---
+
+## Making the Fediverse More Accessible With Claude 3.7 Sonnet
+
+date: 2025-03-07, from: Jonudell blog
+
+A few years ago I abandoned Twitter in favor of Mastodon. Recent events validate that choice and underscore the strategic importance of a decentralized fediverse that can’t be owned by a single corporate or state actor. But while Mastodon meets my needs, much of the Twitter diaspora has gone to Bluesky. That’s fine for now &#8230; <a href="https://blog.jonudell.net/2025/03/07/making-the-fediverse-more-accessible-with-claude-3-7-sonnet/" class="more-link">Continue reading <span class="screen-reader-text">Making the Fediverse More Accessible With Claude 3.7 Sonnet</span></a> 
+
+<br> 
+
+<https://blog.jonudell.net/2025/03/07/making-the-fediverse-more-accessible-with-claude-3-7-sonnet/>
+
+---
+
+## Essential FOSS tools to make macOS suck less
+
+date: 2025-03-07, updated: 2025-03-07, from: Liam Proven's articles at the Register
+
+<h4><span class="label">Friday FOSS fest</span> Moved from Windows or Linux? Smooth some of the rough edges</h4>
+      <p>There are some idiosyncrasies about macOS that long term Mac users may never notice, but cause frustration in people more used to how Windows does things – or the much more customizable Linux desktop experience. Here are a few of The Reg FOSS desk&#39;s favorite tools we routinely install on new machines to make life a little more comfortable or convenient.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/07/fosss_to_tame_macos/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/03/07/peloton600Riding.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I've been getting my exercise outdoors mostly, but then when the weather got bad for a bit, too bad to walk outdoors, I took up the Peloton again. I was really out of shape for that. So I started riding every third day or so. And then without any warning I just passed my 600th ride. Not too bad! :-) 
+
+<br> 
+
+<http://scripting.com/2025/03/07.html#a173201>
+
+---
+
+## ★ Apple Is Delaying the ‘More Personalized Siri’ Apple Intelligence Features
+
+date: 2025-03-07, updated: 2025-03-08, from: Daring Fireball
+
+This announcement is disappointing, but unsurprising. If it’s Apple’s general policy not to ship a product before it’s ready, that applies tenfold for a product involving LLM access to deeply private on-device information. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/apple_is_delaying_the_more_personalized_siri_apple_intelligence_features>
+
+---
+
+##  Watch Eagle Chicks Hatching on the Eagle Cam 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/watch-eagle-chicks-hatching-on-the-eagle-cam>
+
+---
+
+## Rayhunter: Device to Detect Cellular Surveillance
+
+date: 2025-03-07, updated: 2025-03-07, from: Bruce Schneier blog
+
+<p>The EFF has <a href="https://www.eff.org/deeplinks/2025/03/meet-rayhunter-new-open-source-tool-eff-detect-cellular-spying">created</a> an open-source hardware tool to detect IMSI catchers: fake cell phone towers that are used for mass surveillance of an area.</p>
+<p>It runs on a $20 mobile hotspot.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/rayhunter-device-to-detect-cellular-surveillance.html>
+
+---
+
+##  Some graphs showing how people&#8217;s Letterboxd ratings of the Star Wars films... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046399-some-graphs-showing-how-p>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-07, from: Dave Winer's Scripting News)
+
+Before our media was gradually taken over by Russia, they did it to Ukraine, but they managed to dig their way out, had a democratic election, resulting in their current government. So it's not impossible to dig your way out. But you have to stop insisting that <a href="https://imgs.scripting.com/2025/03/07/letHitlerSpeak.png">Hitler be allowed</a> to speak. 
+
+<br> 
+
+<http://scripting.com/2025/03/07.html#a161635>
+
+---
+
+## First Drafting
+
+date: 2025-03-07, from: Doc Searls (at Harvard), New Old Blog
+
+Writing with Wordland is like Tweeting, but on my personal press (this blog) instead of Elon&#39;s. Or any other giant&#39;s. As a difference in kind, it&#39;s absolute. 
+
+<br> 
+
+<https://doc.searls.com/2025/03/07/first-drafting/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-07, from: Dave Winer's Scripting News)
+
+The Fediverse is impossible to use even for people who understand what it's trying to do, and most people have no idea. The answer: <b>Stop trying to reinvent Twitter</b>. It wasn't a great idea! And figure out what really works in a decentralized system. It requires some serious brain work. 
+
+<br> 
+
+<http://scripting.com/2025/03/07.html#a160716>
+
+---
+
+##  Watch Blue Ghost Land On The Moon in HD 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/blue-ghost-land-on-moon>
+
+---
+
+##  Dolly Parton has released a new song called If You Hadn&#8217;t Been... 
+
+date: 2025-03-07, updated: 2025-03-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046402-dolly-parton-has-released>
+
+---
+
+## YouTube scares me; I need RAID 1 for my video content
+
+date: 2025-03-07, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">YouTube scares me; I need RAID 1 for my video content</span>
+
+            <p></p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">March 7, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/youtube-scares-me-i-need-raid-1-my-video-content>
 
 ---
 
@@ -89,7 +394,7 @@ date: 2025-03-07, from: Alex Schroeder's Blog
 
 date: 2025-03-07, from: Robert Reich's blog
 
-This week&#8217;s ten 
+This week&#8217;s 10 
 
 <br> 
 
@@ -167,6 +472,18 @@ Faces Teenagers outside the National Portrait Gallery. Quote of the Day ”They 
 
 ---
 
+## Standards for ANSI escape codes
+
+date: 2025-03-07, updated: 2025-03-07, from: Julia Evans blog
+
+ 
+
+<br> 
+
+<https://jvns.ca/blog/2025/03/07/escape-code-standards/>
+
+---
+
 ## March 5, 2025
 
 date: 2025-03-06, from: Heather Cox Richardson blog
@@ -241,8 +558,7 @@ date: 2025-03-06, updated: 2025-03-06, from: Jason Kittke's blog
 
 **@Dave Winer's Scripting News** (date: 2025-03-06, from: Dave Winer's Scripting News)
 
-Web isn't just a brand, it's also a noun and a verb. "I web you."
- 
+Web isn't just a brand, it's also a noun and a verb. "I web you." 
 
 <br> 
 
@@ -475,6 +791,18 @@ date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
 
 ---
 
+**@Jessica Smith's blog** (date: 2025-03-06, from: Jessica Smith's blog)
+
+<p>Indie managed her first-ever roll all the way from her back onto her front!! 🥳</p>
+<p>…and her second, because after rolling onto her front she was like, &ldquo;um wtf, I appear to be doing tummy time, I didn&rsquo;t ask for this, I want a nap,&rdquo; so I put her back on her back, and then she immediately rolled over again.</p>
+<p>She <em>appears</em> to be settling down for a nap <em>now</em>, though.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/03/indies-first-roll.html>
+
+---
+
 ## Mark Gurman, Ace Reporter, on the New Regular iPads
 
 date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
@@ -501,8 +829,7 @@ date: 2025-03-06, updated: 2025-03-06, from: Daring Fireball
 
 **@Dave Winer's Scripting News** (date: 2025-03-05, from: Dave Winer's Scripting News)
 
-When I ask a personal question on one of the AI bots, all of a sudden on Facebook I'm getting ads about what I asked about. It could be a coincidence, but it's happened a few times, on more than one system. And I'm a paying customer on all of them.
- 
+When I ask a personal question on one of the AI bots, all of a sudden on Facebook I'm getting ads about what I asked about. It could be a coincidence, but it's happened a few times, on more than one system. And I'm a paying customer on all of them. 
 
 <br> 
 
@@ -766,7 +1093,7 @@ date: 2025-03-05, updated: 2025-03-05, from: Daring Fireball
 
 ## ‘When Your Last Name Is Null, Nothing Works’
 
-date: 2025-03-05, updated: 2025-03-05, from: Daring Fireball
+date: 2025-03-05, updated: 2025-03-07, from: Daring Fireball
 
  
 
@@ -1906,4 +2233,313 @@ Today&#8217;s Observer column: Extreme wealth has always played a role in democr
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/114089967601025619>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Remembering Barbara Lynch’s Sportello bolognese</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114089700744463369>
+
+---
+
+##  Trump Betrays Ukraine in White House Ambush of Zelenskyy 
+
+date: 2025-03-01, updated: 2025-03-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/trump-betrays-ukraine-in-white-house-ambush-of-zelenskyy>
+
+---
+
+## ★ Why Can’t We Screenshot Frames From DRM-Protected Video on Apple Devices?
+
+date: 2025-03-01, updated: 2025-03-01, from: Daring Fireball
+
+This “feature” accomplishes nothing of value for anyone, including the streaming services, but imposes a massive (and for most people, confusing and frustrating) hindrance on honest people simply trying to easily capture high-quality (as opposed to, say, using their damn phone to take a photograph of their reflective laptop display) screenshots of the shows and movies they’re watching. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video>
+
+---
+
+## Matthew Green: ‘Dear Apple: Add “Disappearing Messages” to iMessage Right Now’
+
+date: 2025-03-01, updated: 2025-03-02, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://blog.cryptographyengineering.com/2025/03/01/dear-apple-add-disappearing-messages-to-imessage-right-now/>
+
+---
+
+## One America Together
+
+date: 2025-03-01, from: Dave Winer's Scripting News
+
+<p><a href="https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez">AOC</a> asked for ideas of what to do for the SOTU.</p>
+<p>I suggested we come up with a new slogan. Like this.</p>
+<ul>
+<li><i>One America Together.</i></li>
+</ul>
+<p>Make hats, purple — enough for everyone, including the Repubs. </p>
+<p>During applause, Dems rise and chant “One America Together.”</p>
+<p>What do you think?</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/01/wordleKittyForAmerica.png"></center>Wordle Kitty throwing out the first pitch of the baseball season. </div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/01/185654.html?title=oneAmericaTogether>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
+
+The <a href="https://github.com/scripting/wordlandSupport/issues/49#issuecomment-2692351817">tab key</a> now switches between the main editor and title editor in <a href="https://wordland.social/">WordLand</a>. Still a little work to do there. 
+
+<br> 
+
+<http://scripting.com/2025/03/01.html#a182554>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
+
+These days I read <a href="https://snyder.substack.com/p/the-war-trump-chooses">Timothy Snyder's essays</a> as soon as they come in. 
+
+<br> 
+
+<http://scripting.com/2025/03/01.html#a182351>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
+
+New month. Last month's <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/02.opml">source code</a> archived. Onward! <span class="spOldSchoolEmoji">😄</span> 
+
+<br> 
+
+<http://scripting.com/2025/03/01.html#a182122>
+
+---
+
+## I don't like sand
+
+date: 2025-03-01, from: Dave Rupert blog
+
+<p>Happened upon a good example of the problem with AI generated <code>alt</code> text. It’s a gif of the infamous scene from Star Wars Episode II where Hayden Christensen playing Anakin Skywalker tells Natalie Portman’s character Queen Amadala, “I don’t like sand.” It’s the first phrase in the worst lines of dialogue in cinematic history. And here’s how the computer interpreted the gif…</p>
+<p><img src="https://cdn.daverupert.com/posts/2025/sand.jpg" alt="Screenshot of the image upload interface of Bluesky that autocompletes alt-text. As described in the post there’s a gif from Star Wars Episode II where Anakin tells Queen Amadala “I don’t like sand”, but the alt text says “a man and a woman are sitting next to each other and the woman is saying I don’t like sand”" /></p>
+<p>The AI said “a man and a woman are sitting next to each other and the woman is saying I don’t like sand.” Not only does this miss the context that it’s from the world famous movie Star Wars, it gets the speaker entirely wrong. It OCR’d the text fine, but missed relaying the entire context.</p>
+<p>Context. That’s what <code>alt</code> text is. I’d hypothesize that <em>context</em> is probably one of the biggest reasons why language evolved. A caveman could yell “AHHH!H” to alert others of dangers, but I imagine after a couple rounds of those others would begin asking, “Ok, Grog, I understand you think there’s an AHHH!H out there, but what <em>kiiiiiiind</em> of AHHH!H?”</p>
+<p>My ears are starting to perk up when I hear the word context. I hear all the time that “<em>You have to give the AI more context and it will give you a better answer.”</em> AI has a lot of vectorized text and image processing nodes, but it’s short on context I guess. Will AI one day have every frame of the expensive-to-license Star Wars franchise indexed in its brain like I do? Or are we the gatherers and keepers of context? Does our capacity for empathy (which allows us to project and inhabit other contexts we don’t necessary have) set humans apart?</p>
+<p>I hate to leave on such an open-ended question, but I think we can all agree… that woman doesn’t like sand.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/03/i-don-t-like-sand/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-01, from: Miguel de Icaza Mastondon feed)
+
+<p>We are going on vacation to Japan, and I want to optimize for the kids having fun (so they want to go again).</p><p>If you have ideas for kid-centric activities to do, please let me know!</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114088417157301321>
+
+---
+
+## The only way to know for sure... is to build a prototype
+
+date: 2025-03-01, from: Dave Rupert blog
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0m60QbT85Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>I’ve mentioned Mark Brown’s channel Game Makers Tool Kit <a href="https://daverupert.com/2018/10/how-mega-man-11-s-levels-do-more-with-less-game-maker-s-toolkit/">many</a> <a href="https://daverupert.com/2020/09/follow-the-fun/">times</a> <a href="https://daverupert.com/2021/10/the-mistake-every-new-game-developer-makes/">before</a>. Well, I’m back with another banger about “<a href="https://www.youtube.com/?v=0m60QbT85Tc">How to find amazing game ideas</a>”. The whole video is great but I specifically want to highlight something Mark said during the last ten seconds of the video as the credits and video thumbnails started to roll…</p>
+<blockquote>
+<p>And then the final question to answer is… is the game idea actually fun? Because the truth is… our brains are terrible video game simulators. Almost every idea seems fun in our heads. But once we actually make it we’ll realise  that it’s boring, that it’s too complicated, and that it has disastrous  unforeseen design problems. So the only way to know for sure… is to build a prototype.</p>
+</blockquote>
+<p>The answer again –and I cannot stress this enough– is prototypes.</p>
+<p>“Our brains are terrible video game simulators.” Woof. This is a powerful sentiment and I regularly encounter this. I feel this is true with websites as well. I can make the best fantasy website – so beautiful, so perfect in pixels, so incredibly evocative people will throw their wallets at me – but if I haven’t put prototypes into people’s hands, I’m introducing a huge amount of risk.</p>
+<p>That’s all. Prototypes. I think the rest of the video applies to where you can find ideas for amazing websites:</p>
+<ul>
+<li>Other websites - <del>Stealing</del> Borrowing good UX is a great start for an idea</li>
+<li>Genres - Follow the rules or offering an interesting twist on an existing genre (like ecommerce)</li>
+<li>Mechanics - Adding interesting iteractions or gimmicks can add distinction</li>
+<li>Experience - Go hard on experience and ambiance!</li>
+</ul>
+<p>Mark also raises some important questions at the end and I wanted to highlight two of those because I think they’re important.</p>
+<ul>
+<li>“Can you make it?” - Be honest with yourself, do you in your personal capacity have the capability to deliver the idea? I often succumb to making ideas in my head that are so big and complex that it becomes impossible to build and maintain.</li>
+<li>“Will it stand out?” - In the sea of websites or podcast people come across each day, will it be unique or will it join the cacophony?<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></li>
+</ul>
+<p>And wouldn’t you know it, those are the types of questions that prototypes help to answer.</p>
+<section class="footnotes">
+<ol>
+<li id="fn1">
+<p>Personal websites are exempt from this question. I think “It won’t stand out” is one reason people avoid making one. The world (more than ever) needs your unique perspective. Don’t let uniqueness be a reason <em>not to try</em> and make something. Get to the first checkpoint, make your idea, get the first draft in people’s hands. Then over time find what makes your idea unique and breakaway from the default template. <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section> 
+
+<br> 
+
+<https://daverupert.com/2025/03/the-only-way-to-know-for-sure-is-to-build-a-prototype/>
+
+---
+
+## My cookie spec problem
+
+date: 2025-03-01, from: Daniel Stenberg Blog
+
+Before RFC 6265 was published in 2011, the world of cookies was a combination of anarchy and guesswork because the only &#8220;spec&#8221; there was was not actually a spec but just a brief text lacking a lot of details. RFC 6265 brought order to a world of chaos. It was good. It made things a &#8230; <a href="https://daniel.haxx.se/blog/2025/03/01/my-cookie-spec-problem/" class="more-link">Continue reading <span class="screen-reader-text">My cookie spec problem</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/03/01/my-cookie-spec-problem/>
+
+---
+
+## Total News
+
+date: 2025-03-01, from: Doc Searls (at Harvard), New Old Blog
+
+27th in the News Commons series Nearly everything I&#8217;ve been writing in the News Commons series has come out of breakfasts Joyce and I have enjoyed with Dave Askins at the Uptown Cafe in Bloomington, Indiana. (A tech perspective: The Uptown is to Bloomington what Bucks of Woodside is to Silicon Valley.) At the most recent [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/01/total-news/>
+
+---
+
+##  Good Trouble: JD Vance Chastised by Vermont Snow Reporter 
+
+date: 2025-03-01, updated: 2025-03-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/jd-vance-chastised-by-vermont-snow-reporter>
+
+---
+
+## Windows 7 lives! How to keep your favorite fossil running
+
+date: 2025-03-01, updated: 2025-03-01, from: Liam Proven's articles at the Register
+
+<h4>You probably shouldn&#39;t, but if you must, you can</h4>
+      <p>As the expiration date for Windows 10 presses ever closer, spare a thought for its classic forerunner. No, not Windows 8 – nobody ever loved that – but Windows 7, with its classic Start menu, tasteful transparency, lack of built-in advertising, and so on.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/01/running_windows_7_2025/>
+
+---
+
+## February 28, 2025 
+
+date: 2025-03-01, from: Heather Cox Richardson blog
+
+Today, President Donald Trump ambushed Ukraine president Volodymyr Zelensky in an attack that seemed designed to give the White House an excuse for siding with Russia in its war on Ukraine. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/february-28-2025>
+
+---
+
+## The Trump-Putin Axis of Evil | Coffee Klatch for Saturday, March 1, 2025
+
+date: 2025-03-01, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158119249/2fea48fd152b367b37824204bdef42e0.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158119249/2fea48fd152b367b37824204bdef42e0.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-trump-putin-axis-of-evil-coffee>
+
+---
+
+## Yes, Claude Code can decompile itself. Here's the source code.
+
+date: 2025-03-01, from: Geoffrey Hunntley's blog
+
+<p>These LLMs are shockingly good at deobfuscation, transpilation and structure to structure conversions. I discovered this back around Christmas where I asked an LLM to make me an Haskell audio library by transpiling a rust implementation.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/oh-fuck/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">An &#x201C;oh fuck&#x201D; moment in time</div><div class="kg-bookmark-description">Over the Christmas break I&#x2019;</div></div></a></figure> 
+
+<br> 
+
+<https://ghuntley.com/tradecraft/>
+
+---
+
+## Weeknotes: Feb. 22-28, 2025
+
+date: 2025-03-01, from: Tracy Durnell Blog
+
+Neighbors were getting a new roof this week so there was a lot of hammering ten feet from my office (since I&#8217;m on the second floor) &#8212; deployed the noise cancelling headphones quite a bit 🎧 Highlight of the week: delved into the back 40 and was pleased to see a native rhodie and cedar [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/02/28/weeknotes-feb-22-28-2025/>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-03-01, from: Ryan Gantz Bluesky feed)
+
+*aside to buddy holding smartphone* but this will get sick views
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3ljbvcadeq226>
+
+---
+
+## The Bully-in-Chief Targets an Ally
+
+date: 2025-03-01, from: Dan Rather's Steady
+
+Zelenskyy resists and refuses to kiss the ring 
+
+<br> 
+
+<https://steady.substack.com/p/the-bully-in-chief-targets-an-ally>
+
+---
+
+## Meta Apologizes for Error That Flooded Instagram With a Bit of the Old Ultra-Violence
+
+date: 2025-03-01, updated: 2025-03-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/meta-apologizes-for-error-that-flooded-instagram-with-violent-content-c207d5f5>
+
+---
+
+## Today’s disgusting scene
+
+date: 2025-03-01, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/todays-disgusting-scene>
 

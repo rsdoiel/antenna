@@ -1,11 +1,47 @@
 ---
 title: games
-updated: 2025-03-07 07:09:34
+updated: 2025-03-08 07:07:29
 ---
 
 # games
 
-(date: 2025-03-07 07:09:34)
+(date: 2025-03-08 07:07:29)
+
+---
+
+## Heretic, Heart Eyes, Hellboy: The Crooked Man on Hulu, and every movie new to streaming this week
+
+date: 2025-03-07, updated: 2025-03-06, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Heretic, the new horror thriller from A Quiet Place writer-directors Scott Beck and Bryan Woods and starring Hugh Grant (Love Actually) and Sophie Thatcher [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/532893/new-movies-watch-streaming-heretic-heart-eyes-hellboy-the-crooked-man>
+
+---
+
+## Blizzard admits Diablo 4 was too easy, plans to crank the difficulty up next season
+
+date: 2025-03-07, updated: 2025-03-07, from: Polygon Website
+
+Slaying hundreds of demons is cool, but slaying hundreds of demons 20 minutes after creating your character is a little ridiculous for a loot-based action RPG. You want to feel each step as you ascend in power. Otherwise, there’s no point in chasing more loot. For many players, this is the core problem with Diablo [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/536470/diablo-4-blizzard-too-easy-season-8-changes>
+
+---
+
+## What is the Dragon element in Monster Hunter Wilds?
+
+date: 2025-03-07, updated: 2025-03-07, from: Polygon Website
+
+Dragon is an element in Monster Hunter Wilds that can appear on weapons as a type of damage you can deal, and on armor as a type of damage you can resist. But saying “this does Dragon damage” isn’t exactly as straightforward as saying, for instance, “this deals Fire damage.” In this Monster Hunter Wilds [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/536437/dragon-element-explained-strengths-weaknesses>
 
 ---
 
@@ -594,4 +630,148 @@ Auto-crafting in Monster Hunter Wilds automatically creates items as you collect
 <br> 
 
 <https://www.polygon.com/monster-hunter-wilds-guide/525607/auto-crafting-how-to-turn-off>
+
+---
+
+## Magic: The Gathering reveals new Spider-Man set, and you can pre-order now
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+At Toy Fair 2025, Wizards of the Coast debuted a Magic: The Gathering expansion that, frankly, I’m surprised didn’t already exist. Marvel’s Spider-Man is the latest collaboration to get the MTG treatment, with several products coming out on Sept. 26. That’s quite a ways out, but Amazon is already serving up pre-order links for a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pre-order/532629/magic-the-gathering-spider-man-mtg-play-collectors-boosters-pre-order-bundle>
+
+---
+
+## Switch 2 may look conservative, but Nintendo still has space to get wildly creative
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+This story was first published in Switchboard, a newsletter from Polygon that delivers all the latest Switch 2 news, reporting, and rumors directly to your inbox. Sign up here to get it weekly. In the lead-up to Nintendo’s reveal of the Switch 2 in January, some game writers fretted that the company behind the Game Boy, Wii, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/532080/nintendo-switch-2-weird>
+
+---
+
+## The best movies new to streaming this March
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+February is finally behind us, and with it, the year marches onward with a new slate of exciting movie releases to look forward to. We’ve got Bong Joon-ho’s satirical sci-fi thriller Mickey 17 starring Robert Pattinson, Steven Soderbergh’s spy thriller Black Bag starring Cate Blanchett and Michael Fassbender, the monster horror film Death of a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/529739/best-new-movies-netflix-amazon-prime-max-hulu-march-2025>
+
+---
+
+## The most anticipated games coming out in spring 2025
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+The good video games train isn’t stopping anytime soon. Even though 2025 has already given us Avowed, Kingdom Come: Deliverance 2, Civilization 7, Monster Hunter Wilds, Like a Dragon: Pirate Yakuza in Hawaii, and Citizen Sleeper 2: Starward Vector, there are a bunch more highly anticipated games coming out in the next few months alone. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/529898/most-anticipated-games-spring-2025-preview>
+
+---
+
+## Best design codes and how to enter design codes in Monster Hunter Wilds
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+Design codes in Monster Hunter Wilds allow you to load pre-made designs for your hunter during the character creator, formally called the “character editor.” It’s perfect for people like me — who can’t design a character to save my life — or for those who want to load a different kind of template character to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/530854/character-creator-editor-codes-how-to-enter-create>
+
+---
+
+## Bluey makes her Lego debut at Toy Fair
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+A brand new lineup of five Bluey Lego sets, inspired by everyone’s favorite precocious Blue Heeler and her family, are set to arrive on June 1. While the collaboration with Bluey was teased back in January, Lego officially unveiled the entire lineup at this year’s Toy Fair, which includes three traditional Lego sets, and a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/531810/lego-bluey-set-where-to-buy-toy-fair>
+
+---
+
+## Lego will assemble the Avengers for their Endgame battle
+
+date: 2025-03-01, updated: 2025-02-27, from: Polygon Website
+
+Lego’s next set inspired by the Marvel franchise pays homage to the final battle of Avengers: Endgame. The $99.99 set will be available starting May 1 and is a dynamic display that assembles all of the Avenger’s heavy hitters in a climactic showdown with Thanos. Announced at the 2025 Toy Fair, the 621-piece diorama set [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/530915/lego-marvel-avengers-endgame-toy-fair-where-to-buy>
+
+---
+
+## Best secondary weapon combos in Monster Hunter Wilds
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+Monster Hunter Wilds allows hunters to equip a combo of primary and secondary weapons, opening up the possibilities for new and varied tactics in the middle of a hunt without having to retreat to camp. While you&#8217;re free to mix and match from the 14 different weapon types — once you’ve got your head around [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/528919/best-weapon-combos-primary-secondary>
+
+---
+
+## Best beginner weapon in Monster Hunter Wilds
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+Figuring out the best beginner weapon to start with in Monster Hunter Wilds can be daunting, especially when there are 14 weapon types to choose from. Though you’re asked some questions early on as a way to help you discover your preferred playstyle, these don’t exactly factor into each weapon’s ease of use. To help, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/528911/best-weapons-beginners-new-players>
+
+---
+
+## Seikrets tips, hidden controls, and abilities in Monster Hunter Wilds
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+The resplendent plumage of a Seikret is one of the first sights during your adventure in Monster Hunter Wilds. These are giant bipedal bird-like creatures that serve as your mount in the game. These wyverns are like a jack of all trades, as far as adventuring goes. They can dash across the land, climb up vined [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/528147/seikret-tips-tricks-autopilot>
+
+---
+
+## Every movie and show coming to Netflix in March
+
+date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
+
+Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. We’re here to help. This month, we get Meghan Markle’s show, along with a John Mulaney live event. It’s celebrities all the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/530373/https-www-polygon-com-movies-517440-new-on-netflix-march-2025-movies-tv-to-watch>
+
+---
+
+## Pokémon Go Tour Unova event habitat spawns and bonuses
+
+date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
+
+Go Tour: Unova has a set of rotating habitat spawns and bonuses across the weekend of aturday, March 1 and Sunday, March 2 in Pokémon Go As the name implies, the event focuses on the Unova region, including tie-in references specifically to the mainline games, Pokémon Black and White (and Black 2 and White 2, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/529977/go-tour-unova-habitat-schedule-spawns-bonuses>
 

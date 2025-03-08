@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-03-07 07:09:35
+updated: 2025-03-08 07:07:30
 ---
 
 # libraries
 
-(date: 2025-03-07 07:09:35)
+(date: 2025-03-08 07:07:30)
+
+---
+
+## The Secret of the Caves, by Franklin W. Dixon
+
+date: 2025-03-07, from: Standard Ebooks, new releaases
+
+Four boys vacation at nearby caves only to be swept up in a mystery. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/franklin-w-dixon/the-secret-of-the-caves>
 
 ---
 
@@ -330,7 +342,7 @@ Reinisch, Isabel; Ghosh, Adhideb; Noé, Falko; Sun, Wenfei; Dong, Hua; Leary, Pe
 
 date: 2025-03-03, from: Association of Research Libraries News
 
-<p>Last Updated on March 5, 2025, 3:12 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 4 &#124; Wednesday, March 5 &#124; Thursday,...</p>
+<p>Last Updated on March 7, 2025, 12:07 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 4 &#124; Wednesday, March 5 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-3-6/">Day in Review (March 3–6)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -375,4 +387,210 @@ Bukenberger, Mona
 <br> 
 
 <http://hdl.handle.net/20.500.11850/714942>
+
+---
+
+## Ice lensing in sandstone walls under monotonic and cyclic climatic conditions
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Wang, You; Wittel, Falk K. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/708437>
+
+---
+
+## Experimental research of concrete temperature distribution during large-scale on-site 3D printing based on infrared thermal imaging
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Zuo Z.; Tao Y.; De Corte W. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/712909>
+
+---
+
+## Mixed-mode failure of adhesively bonded CFRP and iron-based shape memory alloy joints: Experiments and modeling
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Pichler N.; Wang W.; Li L.; Ghafoori E.; Motavalli M. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713336>
+
+---
+
+## Trade-offs between system cost and supply security in municipal energy system design: An analysis considering spatio-temporal disparities in the Value of Lost Load
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Kachirayil F.; Huckebrink D.; Bertsch V.; McKenna R. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713337>
+
+---
+
+## Physicochemical, morphological, and rheological properties of cellulose nanofibrils produced via ultra-high-pressure homogenization
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+You L.; Marcolini B.; Bour J.; Grysan P.; Fleming Y.; Fischer P.; Soukoulis C. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713335>
+
+---
+
+## Gaussian Process-Based Optimal Design of a Negative Stiffness Device under Stochastic Seismic Excitation
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Chondrogiannis K.A.; Arcieri G.; Chatzi E.; Dertimanis V. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713623>
+
+---
+
+## Active rheology control of cementitious materials: New insights from magneto-responsive aggregates
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Zhang, Yiyuan; Tao, Yaxin; Godinho, Jose R.A.; Van Tittelboom, Kim; Lesage, Karel; De Schutter, Geert 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713504>
+
+---
+
+## Multilayered molybdenum carbonitride MXene: Reductive defunctionalization, thermal stability, and catalysis of ammonia synthesis and decomposition
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Kountoupi E.; Piankova D.; Agrachev M.; Chen Z.; Garbujo A.; Abdala P.M.; Müller C.R.; Fedorov A. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/716641>
+
+---
+
+## Efficient safe learning for controller tuning with experimental validation
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Zagorowska M.; König C.; Yu H.; Balta E.C.; Rupenyan A.; Lygeros J. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/716640>
+
+---
+
+## Non-sintered artificial aggregates made of ternary alkali-activated materials with natural carbonated MSWI fly ash incorporations
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Gong J.; Wang M.; Yang G.; Guo H.; Yao J.; Tao Y.; Zhong J.; Sun Y. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/716642>
+
+---
+
+## Curvature-informed paths for shell 3D printing
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Mitropoulou I.; Bernhard M.; Dillenburger B. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/720105>
+
+---
+
+## The LvL UP trial: Protocol for a sequential, multiple assignment, randomised controlled trial to assess the effectiveness of a blended mobile lifestyle intervention
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Castro O.; Mair J.L.; Zheng S.; Tan S.Y.X.; Jabir A.I.; Yan X.; Chakraborty B.; Tai E.S.; van Dam R.M.; von Wangenheim F.; Fleisch E.; Griva K.; Kowatsch T.; Müller-Riemenschneider F. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/722282>
+
+---
+
+## Body Mass Index is Related to Femoral Anteversion, Hip Rotation During Gait, and Passive Hip Range of Motion in Children and Adolescents
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Dobler, Florian; Engler, Laura; Lengnick, Harald; Cip, Johannes; Alexander, Nathalie 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/722279>
+
+---
+
+## On the Consistent Classification and Treatment of Uncertainties in Structural Health Monitoring Applications
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Kamariotis, Antonios; Vlachas, Konstantinos; Ntertimanis, Vasileios; Koune, Ioannis; Cicirello, Alice; Chatzi, Eleni 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/714541>
+
+---
+
+## Identification of Crashworthy Designs Combining Active Learning and the Solution Space Methodology
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Ascia, Paolo; Marelli, Stefano; Sudret, Bruno; Duddeck, Fabian 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/710897>
+
+---
+
+## Georgian Politics after the Parliamentary Elections
+
+date: 2025-03-01, from: ETH Zurich, recently added
+
+Chikhladze, Mariam; Gvasalia, Tamari; Kakachia, Kornely; Kakabadze, Shota; Langbein, Julia
+Badalyan, Lusine; Fernandes, Sandra; Guliyev, Farid; Lezhava, Diana; Di Puppo, Lili; Perović, Jeronim; Polese, Abel; Turmanidze, Koba; Pleines, Heiko; Heinrich, Andreas 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/723691>
+
+---
+
+## siegfried 1.11.2 released
+
+date: 2025-03-01, from: IT for Archivists
+
+Version 1.11.2 of siegfried is now available. Get it here.
+CHANGELOG v1.11.2 (2025-03-01) Filter introduced to improve Wikidata queries and -harvestWikidataSigLen flag sets minimum length of Wikidata signatures. Implemented by Ross Spencer and Andy Jackson -noprov flag introduced for Wikidata signatures. Implemented by Ross Spencer version command for roy. Implemented by Ross Spencer Wikidata definitions updated to 4.0.0. By Ross Spencer Logged error messages have more context. Implemented by Ross Spencer update PRONOM to v120 update LOC to 2025-02-26 update TIKA to v3. 
+
+<br> 
+
+<https://www.itforarchivists.com/post/sf1112/>
 

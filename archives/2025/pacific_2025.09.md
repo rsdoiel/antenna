@@ -1,11 +1,37 @@
 ---
 title: pacific
-updated: 2025-03-07 07:09:31
+updated: 2025-03-08 07:07:27
 ---
 
 # pacific
 
-(date: 2025-03-07 07:09:31)
+(date: 2025-03-08 07:07:27)
+
+---
+
+## President Hensel deepens bonds with Kauaʻi community
+
+date: 2025-03-07, from: University of Hawaiʻi News
+
+<p><span aria-label="Kauai">Kaua&#699;i</span> community and <abbr>UH</abbr> alumni embrace <abbr>UH</abbr> President Wendy Hensel.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/07/hensel-deepens-bonds-kauai-community/">President Hensel deepens bonds with Kauaʻi community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/07/hensel-deepens-bonds-kauai-community/>
+
+---
+
+## Former UH President Lassner honored for lifetime achievement
+
+date: 2025-03-07, from: University of Hawaiʻi News
+
+<p>David Lassner was awarded the Lifetime Achievement Award from The National Association of Higher Education Systems.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/07/lassner-nash-lifetime-achievement-award/">Former <abbr>UH</abbr> President Lassner honored for lifetime achievement</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/07/lassner-nash-lifetime-achievement-award/>
 
 ---
 
@@ -2462,4 +2488,208 @@ date: 2025-03-02, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/03/01/nation-world-news/pentagon-sending-combat-forces-to-help-secure-border/>
+
+---
+
+## Flying Saucers, Never Quit Dreaming, Bailey’s Antiques and Aloha Shirts Home is Here
+
+date: 2025-03-01, from: Home is Here
+
+<p>The post <a href="https://www.pbshawaii.org/flying-saucers-never-quit-dreaming-baileys-antiques-and-aloha-shirts-home-is-here/">Flying Saucers, Never Quit Dreaming, Bailey&#8217;s Antiques and Aloha Shirts &lt;br/&gt;Home is Here</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/flying-saucers-never-quit-dreaming-baileys-antiques-and-aloha-shirts-home-is-here/>
+
+---
+
+## UH Hilo Hawaiian language college turns to AI to help preserve ʻōlelo
+
+date: 2025-03-01, from: University of Hawaiʻi News
+
+<p>The Lauleo project is gathering Hawaiian speech data to create <abbr>AI</abbr> tools that can convert voice to text.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/28/uh-hilo-ai-help-preserve-olelo/"><abbr>UH</abbr> Hilo Hawaiian language college turns to <abbr>AI</abbr> to help preserve ʻōlelo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/28/uh-hilo-ai-help-preserve-olelo/>
+
+---
+
+## UH Mānoa honors Alice Ball’s legacy at 2025 celebration
+
+date: 2025-03-01, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> celebrated Alice Augusta Ball Day on February 28, 2025.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/28/alice-ball-day-2025/"><abbr>UH</abbr> Mānoa honors Alice Ball’s legacy at 2025 celebration</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/28/alice-ball-day-2025/>
+
+---
+
+## Kauaʻi CC archivist to lead Hawaiʻi association
+
+date: 2025-03-01, from: University of Hawaiʻi News
+
+<p>Kikuchi Center Archivist Jason Ford is president-elect of the Association of <span aria-label="Hawaii">Hawai&#699;i</span> Archivists.</p>
+The post <a href="https://www.hawaii.edu/news/2025/02/28/kauai-cc-archivist-aha/">Kauaʻi <abbr>CC</abbr> archivist to lead Hawaiʻi association</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/02/28/kauai-cc-archivist-aha/>
+
+---
+
+## Trump and Zelenskiy angry exchange leaves Ukraine exposed in war with Russia
+
+date: 2025-03-01, updated: 2025-03-01, from: Marianas Variety
+
+WASHINGTON (Reuters) — Ukrainian President Volodymyr Zelenskiy's meeting with Donald Trump ended in disaster on Friday, after the two leaders clashed in an extraordinary exchange before the world's media at the White House over the war with Russia. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-and-zelenskiy-angry-exchange-leaves-ukraine-exposed-in-war-with-russia/article_19a21a88-f632-11ef-9f1b-439a049b9607.html>
+
+---
+
+## Trump and Vance berate Zelenskyy, exposing break between wartime allies
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States&#8217; relationship with Ukraine erupted in a storm of acrimony Friday as President Donald Trump and Vice President JD Vance berated President Volodymyr Zelenskyy of Ukraine in an explosive televised Oval Office showdown and abruptly cut short a visit meant to coordinate a plan for peace.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/trump-and-vance-berate-zelenskyy-exposing-break-between-wartime-allies/>
+
+---
+
+## What can House Republicans cut instead of Medicaid? Not much.
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House passed a budget resolution Tuesday night after the speaker, Mike Johnson, persuaded several Republican lawmakers, including those who have expressed reservations about possible Medicaid cuts, to support the bill.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/what-can-house-republicans-cut-instead-of-medicaid-not-much/>
+
+---
+
+## Hundreds are said to quit NOAA in a new round of departures
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>The National Oceanic and Atmospheric Administration, one of the world&#8217;s leading centers of climate research, has been hit by a new round of departures, just 24 hours after hundreds of employees were fired.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/hundreds-are-said-to-quit-noaa-in-a-new-round-of-departures/>
+
+---
+
+## Pope Francis suffers setback after another respiratory crisis
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>After days of a cautious optimism and two weeks in a hospital with pneumonia in both lungs, Pope Francis on Friday suffered another respiratory crisis, renewing concerns about the prognosis for the leader of the Roman Catholic Church.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/pope-francis-suffers-setback-after-another-respiratory-crisis/>
+
+---
+
+## Tropical Gardening: March arrives like a lion and leaves like a lamb
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>March has a lot of history, hope and lore associated with it. For some superstitious folks, &#8220;Beware the Ides of March,&#8221; a quote from Shakespeare&#8217;s Julius Caesar, brings a sense of foreboding.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/features/tropial-gardening-march-arrives-like-a-lion-and-leaves-like-a-lamb/>
+
+---
+
+## Economic report offers sobering forecast for Hawaii amid federal shakeup
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>The 2025 first-quarter economic forecast by the University of Hawaii Economic Research Organization paints a somber outlook of the state economy, warning of the potential for a recession depending on how policy shake-ups by President Donald Trump and his new administration ultimately take shape.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/hawaii-news/economic-report-offers-sobering-forecast-for-hawaii-amid-federal-shakeup/>
+
+---
+
+## Social Security Administration to cut roughly 7,000 workers
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s escalating initiative to drastically cut the federal workforce has reached the Social Security Administration, a crucial program that keeps millions of older Americans out of poverty, which said Friday that it would reduce its head count by more than 12%.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/social-security-administration-to-cut-roughly-7000-workers/>
+
+---
+
+## Gene Hackman likely died on Feb. 17, sheriff says
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>An examination of actor Gene Hackman&#8217;s pacemaker after the discovery of his body this week suggested that he died on Feb. 17, the sheriff of Santa Fe County said in a news conference Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/gene-hackman-likely-died-on-feb-17-sheriff-says/>
+
+---
+
+## Federal workers will get another email asking them to detail accomplishments
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal workers are expected to receive another email as soon as Saturday asking them to describe what they achieved this past week, according to a person familiar with the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/federal-workers-will-get-another-email-asking-them-to-detail-accomplishments/>
+
+---
+
+## Trump’s cuts come with risks. Including from volcanoes.
+
+date: 2025-03-01, from: Hawaii Tribune Harold
+
+
+				<p>When the fuming and rumbling at Mount Spurr, a giant volcano northwest of Anchorage, started picking up in October, Alaska&#8217;s volcano monitoring agency raised its alert level to ensure that nearby communities and passing airplanes would have ample warning of any eruption.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/trumps-cuts-come-with-risks-including-from-volcanoes/>
 

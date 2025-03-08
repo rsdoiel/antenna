@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-03-07 07:09:36
+updated: 2025-03-08 07:07:31
 ---
 
 # motorcycles
 
-(date: 2025-03-07 07:09:36)
+(date: 2025-03-08 07:07:31)
 
 ---
 
@@ -421,4 +421,16 @@ By Jerry Jordan, Editor AUSTIN, Tex. – The Lone Star State is well-known for s
 <br> 
 
 <https://kickinthetires.net/nascar/nascar-driver-ty-dillon-gets-smoked-gets-smoked-like-texas-bbq-at-circuit-of-the-americas/>
+
+---
+
+## Holy Heck, Trackhouse Aprilia Showed Off Its Sweet Gulf Oil MotoGP Livery
+
+date: 2025-03-01, from: Ride Apart, Electric Motorcycle News
+
+One of the most iconic liveries in motorsport history is finally on a MotoGP bike. 
+
+<br> 
+
+<https://www.rideapart.com/news/752178/trackhouse-aprilia-gulf-oil-livery/>
 

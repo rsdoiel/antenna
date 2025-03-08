@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2025-03-07 07:09:37
+updated: 2025-03-08 07:07:33
 ---
 
 # food
 
-(date: 2025-03-07 07:09:37)
+(date: 2025-03-08 07:07:33)
+
+---
+
+## This Is Steve Martin and Martin Short’s Favorite Thing to Eat for Breakfast
+
+date: 2025-03-07, from: Taste of Home
+
+<p>The outrageous comedy duo likes to keep it simple in the morning.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/steve-martin-and-martin-short-breakfast/">This Is Steve Martin and Martin Short&#8217;s Favorite Thing to Eat for Breakfast</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/steve-martin-and-martin-short-breakfast/>
+
+---
+
+## 9 Popular Costco Items That You Won’t Find in 2025
+
+date: 2025-03-07, from: Taste of Home
+
+<p>From croissant sandwich platters to chocolate chips, here are the items you won't find at Costco anymore.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/discontinued-costco-items-in-2025/">9 Popular Costco Items That You Won&#8217;t Find in 2025</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/discontinued-costco-items-in-2025/>
+
+---
+
+## The Making of a Cover Story: Bon Appetit’s First Innovation Issue
+
+date: 2025-03-07, from: Bon Appetet
+
+A behind the scene tour from Creative Director, Caroline Newton. 
+
+<br> 
+
+<https://www.bonappetit.com/story/innovation-issue-behind-the-scenes-2025>
+
+---
+
+## 8 Coolest Wine Decanters to Show Off That Great Bottle You Just Bought
+
+date: 2025-03-07, from: Bon Appetet
+
+Will they make your wine taste better? Maybe. Will they make your table look cooler? 100% 
+
+<br> 
+
+<https://www.bonappetit.com/story/coolest-wine-decanters>
+
+---
+
+## 2025 US Barista Championship: Round One
+
+date: 2025-03-07, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A live recap of Round One from the 2025 US Barista Championship in Raleigh, North Carolina. 
+
+<br> 
+
+<https://sprudge.com/2025-us-barista-championship-round-one-295263.html>
+
+---
+
+## Torta Pasqualina
+
+date: 2025-03-07, from: Taste of Home
+
+Italy's signature Easter treat is <em>torta pasqualina</em>, a savory pie that's as beautiful as it is delicious. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/torta-pasqualina/>
 
 ---
 
@@ -944,4 +1020,102 @@ date: 2025-03-02, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/12-recipes-for-mardis-gras/>
+
+---
+
+## Klatch Coffee Recognizes Woman-Owned And Operated Coffee Producers
+
+date: 2025-03-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Roaster celebrates Women’s History Month, donates to Grounds For Health. 
+
+<br> 
+
+<https://sprudge.com/klatch-coffee-recognizes-woman-owned-and-operated-coffee-producers-288459.html>
+
+---
+
+## 15 Best Meal Delivery Services 2025, Tested by Bon Appétit Editors
+
+date: 2025-03-01, from: Bon Appetet
+
+Meal kit and delivery options for every kind of cook (and those who don’t want to cook at all). 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-meal-delivery-services>
+
+---
+
+## Join the Bon Appétit Bake Club
+
+date: 2025-03-01, from: Bon Appetet
+
+Test kitchen baking experts Jesse Szewczyk and Shilpa Uskokovic share must-make recipes and answer your burning questions. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bake-club>
+
+---
+
+## Pistachio Bundt Cake
+
+date: 2025-03-01, from: Bon Appetet
+
+Predestined to be the star of your next weekend hang or holiday brunch. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/pistachio-bundt-cake>
+
+---
+
+## Adai (Quick Lentil Dosas)
+
+date: 2025-03-01, from: Bon Appetet
+
+Savory from chile, ginger, and cumin, these adai are a filling breakfast to power you through the day. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/adai-dosas>
+
+---
+
+## A High-Protein, Low-Carb Dosa Recipe to Fuel Your Mornings
+
+date: 2025-03-01, from: Bon Appetet
+
+Managing diabetes or just keeping your blood sugar in check? March’s Feel-Good Food Plan is here to start your day off right. 
+
+<br> 
+
+<https://www.bonappetit.com/story/feel-good-food-plan-march-2025>
+
+---
+
+## ‘Let’s Do Lunch’ Recipe Contest Announcement
+
+date: 2025-03-01, from: Taste of Home
+
+<p>Show off your favorite lunch recipes for the chance to win $500!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/lets-do-lunch-recipe-contest-announcement/">&#8216;Let&#8217;s Do Lunch&#8217; Recipe Contest Announcement</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/lets-do-lunch-recipe-contest-announcement/>
+
+---
+
+## Green Velvet Cupcakes
+
+date: 2025-03-01, from: Taste of Home
+
+These moist and fluffy green velvet cupcakes with cream cheese frosting will leave your old-fashioned red velvet recipe green with envy this St. Patrick's Day. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/green-velvet-cupcakes/>
 

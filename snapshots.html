@@ -28,7 +28,308 @@
 Items collected from feeds in <a href="snapshots.txt">snapshots.txt</a>
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-03-07 07:09:38)</p>
+<p>(date: 2025-03-08 07:07:33)</p>
+<hr />
+<h2
+id="state-of-the-art-text-embedding-via-the-gemini-api">State-of-the-art
+text embedding via the Gemini API</h2>
+<p>date: 2025-03-07, updated: 2025-03-07, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://developers.googleblog.com/en/gemini-embedding-text-model-now-available-gemini-api/">State-of-the-art
+text embedding via the Gemini API</a></strong>
+</p>
+Gemini just released their new text embedding model, with the snappy
+name <code>gemini-embedding-exp-03-07</code>. It supports 8,000 input
+tokens - up from 3,000 - and outputs vectors that are a lot larger than
+their previous <code>text-embedding-004</code> model - that one output
+size 768 vectors, the new model outputs 3072.
+</p>
+<p>
+Storing that many floating point numbers for each embedded record can
+use a lot of space. thankfully, the new model supports Matryoshka
+Representation Learning - this means you can simply truncate the vectors
+to trade accuracy for storage.
+</p>
+<p>
+I added support for the new model in
+<a href="https://github.com/simonw/llm-gemini/releases/tag/0.14">llm-gemini
+0.14</a>. LLM doesn’t yet have direct support for Matryoshka truncation
+so I instead registered different truncated sizes of the model under
+different IDs: <code>gemini-embedding-exp-03-07-2048</code>,
+<code>gemini-embedding-exp-03-07-1024</code>,
+<code>gemini-embedding-exp-03-07-512</code>,
+<code>gemini-embedding-exp-03-07-256</code>,
+<code>gemini-embedding-exp-03-07-128</code>.
+</p>
+<p>
+<p>The model is currently free while it is in preview, but comes with
+<a href="https://ai.google.dev/gemini-api/docs/rate-limits#current-rate-limits">a
+strict rate limit</a> - 5 requests per minute and just 100 requests a
+day. I quickly tripped those limits while testing out the new model - I
+hope they can bump those up soon.</p>
+<pre><code>&lt;p&gt;&lt;small&gt;&lt;/small&gt;Via &lt;a href=&quot;https://twitter.com/officiallogank/status/1898081742767919384&quot;&gt;@officiallogank&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/embeddings&quot;&gt;embeddings&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/gemini&quot;&gt;gemini&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/google&quot;&gt;google&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Mar/7/gemini-embeddings/#atom-everything"
+class="uri">https://simonwillison.net/2025/Mar/7/gemini-embeddings/#atom-everything</a></p>
+<hr />
+<h2 id="boycotting-us-products-and-services">Boycotting US Products and
+Services</h2>
+<p>date: 2025-03-07, from: Stephen Smith’s blog</p>
+<p>Introduction With Donald Trump’s threatened and implemented tariffs
+against most of the world, a lot of people are up in arms and looking
+for ways to fight back. Can boycotts of US products and services have a
+real effect? With the global supply chain being so integrated, is it
+possible to narrowly target the US […]</p>
+<p><br></p>
+<p><a
+href="https://smist08.wordpress.com/2025/03/07/boycotting-us-products-and-services/"
+class="uri">https://smist08.wordpress.com/2025/03/07/boycotting-us-products-and-services/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-03-07, from: Feed for Alt USDS)</p>
+<p>FYI…. Unconfirmed but good to know this is going around.</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3ljsw4t6b7s2w"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3ljsw4t6b7s2w</a></p>
+<hr />
+<h2
+id="this-3d-printed-case-turns-an-old-phone-into-a-slider-with-a-qwerty-keyboard-and-touchpad">This
+3D printed case turns an old phone into a slider with a QWERTY keyboard
+and touchpad</h2>
+<p>date: 2025-03-07, from: Liliputing</p>
+<p>
+Smartphones with physical keyboards are a dying breed (mostly dead, if
+I’m being honest). But there are some die-hard enthusiasts who continue
+to believe that nothing beats a physical keyboard. A startup called
+Clicks has generated a lot of buzz by offering keyboard cases that clip
+onto iPhones and (some) Android phones. But hardware hacker […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/this-3d-printed-case-turns-an-old-phone-into-a-slider-with-a-qwerty-keyboard-and-touchpad/">This
+3D printed case turns an old phone into a slider with a QWERTY keyboard
+and touchpad</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/this-3d-printed-case-turns-an-old-phone-into-a-slider-with-a-qwerty-keyboard-and-touchpad/"
+class="uri">https://liliputing.com/this-3d-printed-case-turns-an-old-phone-into-a-slider-with-a-qwerty-keyboard-and-touchpad/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-07, from: Dave Winer’s linkblog)</p>
+<p>Musk's DOGE team reportedly includes a 24-year-old former Canadian
+university student.</p>
+<p><br></p>
+<p><a
+href="https://ca.news.yahoo.com/musks-doge-team-reportedly-includes-193433275.html"
+class="uri">https://ca.news.yahoo.com/musks-doge-team-reportedly-includes-193433275.html</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-07, from: Dave Winer’s linkblog)</p>
+<p>Cuban – Mavericks should have got 'a better deal' for Luka
+Doncic.</p>
+<p><br></p>
+<p><a
+href="https://www.espn.com/nba/story/_/id/44152127/cuban-mavericks-got-better-deal-luka-doncic"
+class="uri">https://www.espn.com/nba/story/_/id/44152127/cuban-mavericks-got-better-deal-luka-doncic</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-07, from: Dave Winer’s linkblog)</p>
+<p>Reading this story about the deportation of Ukrainian refugees from
+the US, I hear in clear terms we are no longer a democratic country, no
+longer have a representative government. We're not just supporting
+Russia we are Russia, its 51st state. Very weird and unacceptable.</p>
+<p><br></p>
+<p><a
+href="https://www.lawfaremedia.org/article/the-situation--a-ukrainian-hostage-situation"
+class="uri">https://www.lawfaremedia.org/article/the-situation--a-ukrainian-hostage-situation</a></p>
+<hr />
+<h2 id="behind-the-blog-merch-drops-riso-prints-and-big-cars">Behind the
+Blog: Merch Drops, Riso Prints and Big Cars</h2>
+<p>date: 2025-03-07, from: 404 Media Group</p>
+<p>This week, we discuss a Supreme drop, a visit to a local Risograph
+printer, and what is up with Big Car.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/behind-the-blog-merch-drops-riso-prints-and-big-cars/"
+class="uri">https://www.404media.co/behind-the-blog-merch-drops-riso-prints-and-big-cars/</a></p>
+<hr />
+<h2
+id="banana-pi-bpi-aim7-is-an-rk3588-compute-module-compatible-with-nvidia-jetson-nano-hardware">Banana
+Pi BPI-AIM7 is an RK3588 compute module compatible with NVIDIA Jetson
+Nano hardware</h2>
+<p>date: 2025-03-07, from: Liliputing</p>
+<p>
+The Banana Pi BPI-AIM7 is a computer-on-a-module that looks like a stick
+of RAM. But this little stick features a Rockchip RK3588 processor and
+supports up to 32GB of RAM and 128GB of eMMC flash storage. Connect it
+to a carrier board and you’ve got a tiny desktop computer. Banana Pi is
+positioning the BPI-AIM7 as a […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/banana-pi-bpi-aim7-is-an-rk3588-compute-module-compatible-with-nvidia-jetson-nano-hardware/">Banana
+Pi BPI-AIM7 is an RK3588 compute module compatible with NVIDIA Jetson
+Nano hardware</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/banana-pi-bpi-aim7-is-an-rk3588-compute-module-compatible-with-nvidia-jetson-nano-hardware/"
+class="uri">https://liliputing.com/banana-pi-bpi-aim7-is-an-rk3588-compute-module-compatible-with-nvidia-jetson-nano-hardware/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-07, from: Dave Winer’s linkblog)</p>
+<p>ActivityPub is not going to rock the world. Emulating Twitter is not
+how to do decentralization. Every decision made in the design of Twitter
+was based on being centralized. It's going to require more brain work to
+crack this. WTF Markoff.</p>
+<p><br></p>
+<p><a
+href="https://www.nytimes.com/2025/03/06/technology/mike-mccue-surf-browser-decentralized-internet.html?unlocked_article_code=1.104.zNAV.80hvxPr4gphF&amp;smid=nytcore-ios-share&amp;referringSource=articleShare"
+class="uri">https://www.nytimes.com/2025/03/06/technology/mike-mccue-surf-browser-decentralized-internet.html?unlocked_article_code=1.104.zNAV.80hvxPr4gphF&amp;smid=nytcore-ios-share&amp;referringSource=articleShare</a></p>
+<hr />
+<h2 id="project-2028-housing">Project 2028: Housing</h2>
+<p>date: 2025-03-07, from: Prof. Scott Galloway, No Mercy/No Malace
+blog</p>
+<p>
+Democrats need to be the party of ideas, not indignation. Our “Project
+2028” series will address critical issues facing American society
+through a No Mercy / No Malice lens. We begin with housing. The Rent Is
+Too Damn High  The U.S. doesn’t have a housing crisis, but an
+affordability crisis. Roughly one-third of Americans rent, […]
+</p>
+<p>
+The post
+<a href="https://www.profgalloway.com/project-2028-housing/">Project
+2028: Housing</a> appeared first on
+<a href="https://www.profgalloway.com">No Mercy / No Malice</a>.
+</p>
+<p><br></p>
+<p><a href="https://www.profgalloway.com/project-2028-housing/"
+class="uri">https://www.profgalloway.com/project-2028-housing/</a></p>
+<hr />
+<h2
+id="dynabook-portégé-z40l-n-is-a-2.2-pound-lunar-lake-laptop-with-a-replaceable-battery">Dynabook
+Portégé Z40L-N is a 2.2 pound Lunar Lake laptop with a replaceable
+battery</h2>
+<p>date: 2025-03-07, from: Liliputing</p>
+<p>
+The Dynabook Portégé Z40L-N is a business-class laptop featuring a 14
+inch, 1920 x 1200 pixel display, support for up to an Intel Core Ultra 7
+268V processor with 32GB of RAM, and up to a 2TB PCIe NVMe SSD. But what
+really makes this laptop unusual by 2025 standards is that it’s a thin
+[…]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/dynabook-portege-z40l-n-is-a-2-2-pound-lunar-lake-laptop-with-a-replaceable-battery/">Dynabook
+Portégé Z40L-N is a 2.2 pound Lunar Lake laptop with a replaceable
+battery</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/dynabook-portege-z40l-n-is-a-2-2-pound-lunar-lake-laptop-with-a-replaceable-battery/"
+class="uri">https://liliputing.com/dynabook-portege-z40l-n-is-a-2-2-pound-lunar-lake-laptop-with-a-replaceable-battery/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-07, from: Dave Winer’s linkblog)</p>
+<p>US citizen detained by ICE voted for Trump.</p>
+<p><br></p>
+<p><a
+href="https://www.nbcwashington.com/news/local/northern-virginia/just-following-hispanic-people-citizen-detained-by-ice-questions-vote-for-trump/3861172/"
+class="uri">https://www.nbcwashington.com/news/local/northern-virginia/just-following-hispanic-people-citizen-detained-by-ice-questions-vote-for-trump/3861172/</a></p>
+<hr />
+<h2 id="trumps-royal-approach-to-presidential-power">Trump’s Royal
+Approach to Presidential Power</h2>
+<p>date: 2025-03-07, from: Guy Kawasaki blog</p>
+<p>David Lopez, University Professor of Law, Rutgers University -
+Newark.</p>
+<p><br></p>
+<p><a
+href="https://guykawasaki.substack.com/p/trumps-royal-approach-to-presidential"
+class="uri">https://guykawasaki.substack.com/p/trumps-royal-approach-to-presidential</a></p>
+<hr />
+<h2 id="brother-denies-blocking-third-party-toner">Brother Denies
+Blocking Third-Party Toner</h2>
+<p>date: 2025-03-07, from: Michael Tsai</p>
+<p>Mark Tyson: Louis Rossmann has shared a new video encapsulating his
+surprise, and disappointment, that Brother has morphed into an
+“anti-consumer printer company.” More information about Brother’s
+embrace of the dark side are shared on Rossmann’s wiki, with the major
+two issues being new firmware disabling third party toner, and
+preventing (on color devices) color […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/03/07/brother-denies-blocking-third-party-toner/"
+class="uri">https://mjtsai.com/blog/2025/03/07/brother-denies-blocking-third-party-toner/</a></p>
+<hr />
+<h2 id="brazilian-court-mandates-ios-sideloading">Brazilian Court
+Mandates iOS Sideloading</h2>
+<p>date: 2025-03-07, from: Michael Tsai</p>
+<p>Filipe Espósito (via Dare Obasanjo): As reported by Brazilian
+newspaper Valor Econômico (via O Globo), a federal judge in Brazil ruled
+on Wednesday that Apple will have to open up the iOS ecosystem to
+third-party apps in Brazil just like the company did in the EU. The
+judge considers that the “limitations” imposed by the […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/03/07/brazilian-court-mandates-ios-sideloading/"
+class="uri">https://mjtsai.com/blog/2025/03/07/brazilian-court-mandates-ios-sideloading/</a></p>
+<hr />
+<h2 id="digg-returns">Digg Returns</h2>
+<p>date: 2025-03-07, from: Michael Tsai</p>
+<p>Reuters (YouTube): Digg founder Kevin Rose has teamed up with former
+rival Alexis Ohanian to buy the once-popular content aggregator as they
+bet on an artificial intelligence-powered revival of the platform that
+once drew around 40 million monthly visitors.Launched in 2004 by a then
+27-year-old Rose, Digg was once called the “homepage of the internet”
+[…]</p>
+<p><br></p>
+<p><a href="https://mjtsai.com/blog/2025/03/07/digg-returns/"
+class="uri">https://mjtsai.com/blog/2025/03/07/digg-returns/</a></p>
+<hr />
+<h2 id="private-github-data-lingers-in-copilot-training">Private GitHub
+Data Lingers in Copilot Training</h2>
+<p>date: 2025-03-07, from: Michael Tsai</p>
+<p>Carly Page: Security researchers are warning that data exposed to the
+internet, even for a moment, can linger in online generative AI chatbots
+like Microsoft Copilot long after the data is made private. […] Lasso
+co-founder Ophir Dror told TechCrunch that the company found content
+from its own GitHub repository appearing in Copilot because it […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/03/07/private-github-data-lingers-in-copilot-training/"
+class="uri">https://mjtsai.com/blog/2025/03/07/private-github-data-lingers-in-copilot-training/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-03-07, from: Feed for Alt USDS)</p>
+<p>In the words of a wise friend:</p>
+<p>When isolation, trauma &amp; despair are weaponized; building
+community, helping people heal, &amp; bringing hope are acts of
+resistance.</p>
+<p>Connect people. Resist bullies. Protect the vulnerable. Shine light
+on the fighters. Give yourself &amp; others grace.</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3ljsdsg3lvs2n"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3ljsdsg3lvs2n</a></p>
+<hr />
+<h2 id="were-living-in-a-society">We’re Living in a Society</h2>
+<p>date: 2025-03-07, updated: 2025-03-07, from: One Foot Tsunami</p>
+<p><br></p>
+<p><a
+href="https://onefoottsunami.com/2025/03/07/were-living-in-a-society/"
+class="uri">https://onefoottsunami.com/2025/03/07/were-living-in-a-society/</a></p>
 <hr />
 <h2 id="toranoana.deno-20-登録受付中2025年3月14日">toranoana.deno #20
 登録受付中(2025年3月14日)</h2>
@@ -336,7 +637,7 @@ Click to see the WebComponent version! <small>Disclaimer: This is a
 joke.</small>
 </summary>
 <code-block language="js"> <code>
-<pre><script>$(RenderJS.toString())</script></pre>
+<pre>&lt;script&gt;$(RenderJS.toString())&lt;/script&gt;</pre>
 <p></code> </code-block></p>
 <p>
 This is the <code>RenderJS</code> custom element. All it does is replace
@@ -350,7 +651,7 @@ alphabet and include a hyphen. As such, we are forced to name it:
 <code>j-💲</code> representing JavaScript.
 </p>
 <code-block language="js"> <code>
-<pre><script>customElements.define('j-💲', RenderJS);</script></pre>
+<pre>&lt;script&gt;customElements.define('j-💲', RenderJS);&lt;/script&gt;</pre>
 <p></code> </code-block></p>
 <h3>
 Example usage
@@ -4061,6 +4362,913 @@ Russia.’</p>
 <p><a
 href="https://www.thedailybeast.com/protestors-ambush-vance-during-vermont-ski-weekend-go-ski-in-russia/?via=twitter_page"
 class="uri">https://www.thedailybeast.com/protestors-ambush-vance-during-vermont-ski-weekend-go-ski-in-russia/?via=twitter_page</a></p>
+<hr />
+<h2 id="my-name-is">My name is</h2>
+<p>date: 2025-03-01, from: Rachel Kwon blog</p>
+<p>What’s in a name? Lots of things. Primary name Most people call me
+Rachel. A certain subset of friends from a certain time in my life call
+me Kwon. I’ll respond to either. Professional name My coworkers call me
+Rachel. From 2010-2016, a lot of people called me Dr. Kwon. Infrequently
+these days, some people in certain contexts still try to call me
+Dr. Kwon, or ask me if I want to be called Dr. </p>
+<p><br></p>
+<p><a href="https://kwon.nyc/notes/my-name-is/"
+class="uri">https://kwon.nyc/notes/my-name-is/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-01, from: Dave Winer’s linkblog)</p>
+<p>Former Gov. Cuomo announces run for New York City mayor, aiming for a
+political comeback.</p>
+<p><br></p>
+<p><a
+href="https://www.pbs.org/newshour/politics/former-gov-cuomo-announces-run-for-new-york-city-mayor-aiming-for-a-political-comeback"
+class="uri">https://www.pbs.org/newshour/politics/former-gov-cuomo-announces-run-for-new-york-city-mayor-aiming-for-a-political-comeback</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-01, from: Dave Winer’s linkblog)</p>
+<p>How Knicks' Mitchell Robinson and Karl-Anthony Towns will look
+playing together.</p>
+<p><br></p>
+<p><a
+href="https://sports.yahoo.com/article/knicks-mitchell-robinson-karl-anthony-160017703.html"
+class="uri">https://sports.yahoo.com/article/knicks-mitchell-robinson-karl-anthony-160017703.html</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-03-01, from: Feed for Alt USDS)</p>
+<p>Sad to share the news that our colleagues at 18F were illegally fired
+overnight (emails coming in around 1am Sat.). About 90 people.</p>
+<p>18Fers are technologists, like USDSers, and often would be
+co-deployed or work across different parts of the same agency.</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3ljdmyz35ss2c"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3ljdmyz35ss2c</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-03-01, from: Feed for Alt USDS)</p>
+<p>We’re joining in, get into some good trouble this weekend folks!</p>
+<p>In honor of Elon’s new 5 bullet points e-mail, drop a bullet point of
+an act of resistance or where you found joy this week 👇👇</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3ljdjfuek622g"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3ljdjfuek622g</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-03-01, from: Feed for Alt USDS)</p>
+<p>🚨 Reminder!! You do not report to OPM!</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3ljdj4ngdpc2g"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3ljdj4ngdpc2g</a></p>
+<hr />
+<h2 id="technical-english-is-nobodys-mother-tongue">Technical English is
+nobody’s mother tongue</h2>
+<p>date: 2025-03-01, from: Blog by Fabrizio Ferri-Benedetti</p>
+<p>
+The part of my brain that rages against injustice stirs like a
+slumbering dragon when I read the words “Native English”. As a speaker
+of English as a second language, I find <em>native</em> to be a rather
+inadequate, if lazy, choice as an attribute meant to describe linguistic
+proficiency. You’re born with eyes, but that doesn’t automatically make
+you a competent watcher; you acquire a language, but that doesn’t
+automatically turn you into a competent writer.
+</p>
+<p><br></p>
+<p><a href="https://passo.uno/native-english-tech-writing/"
+class="uri">https://passo.uno/native-english-tech-writing/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-01, from: Dave Winer’s linkblog)</p>
+<p>VP Vance is on vacation in Vermont with his family this weekend and
+will be skiing at Sugarbush Resort in Warren, VT.</p>
+<p><br></p>
+<p><a
+href="https://kottke.org/25/03/jd-vance-chastised-by-vermont-snow-reporter"
+class="uri">https://kottke.org/25/03/jd-vance-chastised-by-vermont-snow-reporter</a></p>
+<hr />
+<h2 id="mission-drift">Mission Drift</h2>
+<p>date: 2025-03-01, updated: 2025-03-01, from: Tedium site</p>
+<p>If a company or service you rely on changes owners, you can’t be
+guaranteed that its mission will match what you’ve come to expect—even
+if, at least initially, it seems like everything’s on track. Hence why I
+returned a new messenger bag.</p>
+<p><br></p>
+<p><a
+href="https://feed.tedium.co/link/15204/16973645/chrome-messenger-bag-corporate-mission-drift"
+class="uri">https://feed.tedium.co/link/15204/16973645/chrome-messenger-bag-corporate-mission-drift</a></p>
+<hr />
+<h2 id="the-dude-whose-brain-turned-to-glass">The Dude Whose Brain
+Turned to Glass</h2>
+<p>date: 2025-03-01, from: 404 Media Group</p>
+<p>He was hanging out in an ancient Roman port town 2,000 years ago,
+when something struck him (a deadly volcanic eruption).</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/the-dude-whose-brain-turned-to-glass/"
+class="uri">https://www.404media.co/the-dude-whose-brain-turned-to-glass/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-03-01, from: Dave Winer’s linkblog)</p>
+<p>Heather Cox Richardson: “Today, President Donald Trump ambushed
+Ukraine president Volodymyr Zelensky in an attack that seemed designed
+to give the White House an excuse for siding with Russia in its war on
+Ukraine.”</p>
+<p><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/february-28-2025?publication_id=20533&amp;post_id=158160559&amp;isFreemail=true&amp;r=w33x&amp;triedRedirect=true"
+class="uri">https://heathercoxrichardson.substack.com/p/february-28-2025?publication_id=20533&amp;post_id=158160559&amp;isFreemail=true&amp;r=w33x&amp;triedRedirect=true</a></p>
+<hr />
+<h2 id="musk-in-your-computers-an-interview-with-nathan-tankus">Musk In
+Your Computers: An Interview With Nathan Tankus</h2>
+<p>date: 2025-03-01, from: Paul Krugman</p>
+<p>On risks to democracy nobody even thought about</p>
+<p><br></p>
+<p><a
+href="https://paulkrugman.substack.com/p/musk-in-your-computers-an-interview"
+class="uri">https://paulkrugman.substack.com/p/musk-in-your-computers-an-interview</a></p>
+<hr />
+<h2
+id="yes-claude-code-can-decompile-itself.-heres-the-source-code.">Yes,
+Claude Code can decompile itself. Here’s the source code.</h2>
+<p>date: 2025-03-01, from: Geoffrey Hunntley’s blog</p>
+<p>
+These LLMs are shockingly good at deobfuscation, transpilation and
+structure to structure conversions. I discovered this back around
+Christmas where I asked an LLM to make me an Haskell audio library by
+transpiling a rust implementation.
+</p>
+<figure class="kg-card kg-bookmark-card">
+<a class="kg-bookmark-container" href="https://ghuntley.com/oh-fuck/">
+<div class="kg-bookmark-content">
+<div class="kg-bookmark-title">
+An “oh fuck” moment in time
+</div>
+<div class="kg-bookmark-description">
+Over the Christmas break I’
+</div>
+</div>
+</a>
+</figure>
+<p><br></p>
+<p><a href="https://ghuntley.com/tradecraft/"
+class="uri">https://ghuntley.com/tradecraft/</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-03-01, from: Tomosino’s Mastodon feed)</p>
+<p>
+Found it!!
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114086217064264591"
+class="uri">https://tilde.zone/@tomasino/114086217064264591</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-03-01, from: Tomosino’s Mastodon feed)</p>
+<p>
+glitch apparently has a setting somewhere. i just can’t find it
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114086194929738622"
+class="uri">https://tilde.zone/@tomasino/114086194929738622</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-03-01, from: Tomosino’s Mastodon feed)</p>
+<p>
+I’m testing if my current settings let me post a pic without alt text.
+If this doesn’t work, the picture is of a lovely dog sitting on a bench.
+He had friendly tail wags for me.
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114086127475598085"
+class="uri">https://tilde.zone/@tomasino/114086127475598085</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-03-01, from: Tomosino’s Mastodon feed)</p>
+<p>
+Over on bluesky I just learned they have a feature to not allow yourself
+to post images without alt text. That’s pretty handy. Before I start
+scouring my settings panel here, anyone know if we have something
+similar? I’m running glitch here, so maybe an extra?
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114086045853029398"
+class="uri">https://tilde.zone/@tomasino/114086045853029398</a></p>
+<hr />
+<h2 id="summary-of-changes-for-february-2025">Summary of changes for
+February 2025</h2>
+<p>date: 2025-03-01, from: Hundred Rabbits blog</p>
+<p>
+Hey everyone!
+</p>
+<p>
+This is the list of all the changes we’ve done to our projects during
+the month of February.
+</p>
+<p><img src="../media/content/videos/february_2025.jpg" alt="little ninj, a plus ninja, is riding a wave made up of rabbits while shouting: 9 years!" loading="lazy"></p>
+<h2>
+Summary Of Changes
+</h2>
+<ul>
+<li>
+<b>100r.co</b>, added
+<a href="https://100r.co/site/teapot_gelcoat.html">Dinghy gelcoat</a>,
+<a href='https://100r.co/site/victoria_to_sitka_logbook.html#week10'>Week
+10</a>,
+<a href='https://100r.co/site/victoria_to_sitka_logbook.html#week11'>Week
+11</a>, and
+<a href='https://100r.co/site/victoria_to_sitka_logbook.html#week12'>Week
+12</a> of the
+<a href="https://100r.co/site/victoria_to_sitka.html">Victoria to Sitka
+logbook</a>. Updated <a href="https://100r.co/site/solar.html">solar</a>
+with new pictures and corrected information (this page used to be called
+solar tips).
+</li>
+<li>
+<b><a href="https://wiki.xxiivv.com/site/nebu" target="_blank">Nebu</a></b>,
+released a spreadsheet editor.
+</li>
+<li>
+<b><a href="https://100r.co/site/grimgrains.html">Grimgrains</a></b>,
+added a new recipe:
+<a href="https://grimgrains.com/site/stovetop_zaatar_pizza.html" target="_blank">Stovetop
+zaatar pizza</a>.
+</li>
+<li>
+<b><a href="https://100r.co/site/store.html">Store</a></b>, added
+maritime <a href="https://100r.co/site/flag_stickers.html">flag
+stickers</a> for sale.
+</li>
+<li>
+<b><a href="https://100r.co/site/rabbit_waves.html">Rabbit
+Waves</a></b>, added a new page:
+<a href="https://rabbitwaves.ca/site/emergency_bag.html">Emergency
+Bag</a>. Updated
+<a href="https://rabbitwaves.ca/site/morse_flags.html" target="_blank">Morse
+Code with Flags</a> page with animations, released a printable
+<a href="https://rabbitwaves.ca/media/zines/communication.png" target="_blank">zine</a>(see
+<a href="https://kokorobot.ca/site/folding_zine.html" target="_blank">how
+to fold</a> a zine).
+</li>
+</ul>
+<p>
+On February 14th, we celebrated our 9th year living aboard our beloved
+<a href="https://100r.co/site/pino.html">Pino</a>. Read a
+<a href="https://wiki.xxiivv.com/site/fitness" target="_blank">short
+text</a> by Devine, which expands on what it means to truly be a
+generalist.
+</p>
+<p>
+Despite the weather being less-than-ideal, we were able to
+<a href="https://rabbits.srht.site/days/2025/02/20.html" target="_blank">install</a>
+our replacement solar panels, and revisit our notes on
+<a href="https://100r.co/site/solar.html">solar installations</a>.
+</p>
+<p>
+Devine completed
+<a href="https://wiki.xxiivv.com/site/nebu" target="_blank">Nebu</a>, a
+spritesheet editor as well as a
+<a href="https://wiki.xxiivv.com/media/generic/calendar.png" target="_blank">desktop
+calendar</a>, alongside many other little
+<a href="https://wiki.xxiivv.com/site/utilities.html" target="_blank">desktop
+utilities</a>. Nebu is just over 8.3 kB, a bit less than a blank excel
+file.
+</p>
+<p>
+In times of increasing climate and political instability, it is a good
+time to get together with your community and make plans for emergencies.
+Consider reading
+<a href="https://archive.org/details/disaster-preparedness-tokyo" target="_blank">Tokyo
+Bosai</a> about disaster preparedness, this elaborate document deals
+with disasters that occur specifically in Japan, but many of the
+recommendations are useful regardless. We released a new page on {rabbit
+waves} with suggestions on what to pack in an
+<a href="https://rabbitwaves.ca/site/emergency_bag.html">Emergency
+Bag</a>. Remember, every emergency bag is different, and what is
+essential varies per person.
+</p>
+<p>
+We also put together a print-it-yourself zine, which combines useful
+information about
+<a href="https://rabbitwaves.ca/site/morse.html" target="_blank">Morse
+Code and
+<a href="https://rabbitwaves.ca/site/flags_maritime.html" target="_blank">Signal
+Flags</a>. If you have printed the zine and don’t know how to fold it,
+see Rek’s
+<a href="https://kokorobot.ca/site/folding_zine.html" target="_blank">illustrated
+instructions</a>. Speaking of signal flags, we printed
+<a href="https://100r.co/site/flag_stickers.html" target="_blank">stickers</a>
+of Rek’s ICS flag drawings.
+</p>
+<p>
+The nice weather finally arrived this week and we were able to redo
+Teapot’s <a href="https://100r.co/site/teapot_gelcoat.html">gelcoat</a>.
+This was our first time working with gelcoat, our friends Rik &amp; Kay,
+who lent us their workspace, were very patient and generous teachers. We
+will continue the project later when the gelcoat has cured.
+</p>
+<p>
+<b>Book Club:</b> This month we are reading <i>The Goldfinch</i> by
+Donna Tartt.
+</p>
+<p>
+<a href='https://100r.co/site/log.html#feb2025' target='_blank'>Continue
+Reading</a>
+</p>
+<p><br></p>
+<p><a href="https://100r.co/site/log.html#feb2025"
+class="uri">https://100r.co/site/log.html#feb2025</a></p>
+<hr />
+<p><strong><span class="citation"
+data-cites="Tomosino">@Tomosino</span>’s Mastodon feed</strong> (date:
+2025-03-01, from: Tomosino’s Mastodon feed)</p>
+<p>
+When I was a kid there were concepts that seemed pretty big and scary:
+the Bermuda Triangle, spontaneous human combustion, quicksand,
+subliminal messaging, killer bees, and cryptids.
+</p>
+<p>
+Simpler times
+</p>
+<p><br></p>
+<p><a href="https://tilde.zone/@tomasino/114085655497122124"
+class="uri">https://tilde.zone/@tomasino/114085655497122124</a></p>
+<hr />
+<h2 id="openai-in-deep-trouble">OpenAI, in deep trouble</h2>
+<p>date: 2025-03-01, from: Gary Marcus blog</p>
+<p>Maybe burning money isn’t the answer</p>
+<p><br></p>
+<p><a href="https://garymarcus.substack.com/p/openai-in-deep-trouble"
+class="uri">https://garymarcus.substack.com/p/openai-in-deep-trouble</a></p>
+<hr />
+<h2
+id="llm-anthropic-24-use-new-url-parameter-to-send-attachments">llm-anthropic
+#24: Use new URL parameter to send attachments</h2>
+<p>date: 2025-03-01, updated: 2025-03-01, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://github.com/simonw/llm-anthropic/issues/24">llm-anthropic
+#24: Use new URL parameter to send attachments</a></strong>
+</p>
+Anthropic released a neat quality of life improvement today.
+<a href="https://twitter.com/alexalbert__/status/1895504248206709246">Alex
+Albert</a>:
+</p>
+<blockquote>
+<p>
+We’ve added the ability to specify a public facing URL as the source for
+an image / document block in the Anthropic API
+</p>
+</blockquote>
+<p>
+Prior to this, any time you wanted to send an image to the Claude API
+you needed to base64-encode it and then include that data in the JSON.
+This got pretty bulky, especially in conversation scenarios where the
+same image data needs to get passed in every follow-up prompt.
+</p>
+<p>
+I implemented this for
+<a href="https://github.com/simonw/llm-anthropic">llm-anthropic</a> and
+shipped it just now in version 0.15.1 (here’s
+<a href="https://github.com/simonw/llm-anthropic/commit/ac4fe809aff9842b05118e83c256690b92b49c4c">the
+commit</a>) - I went with a patch release version number bump because
+this is effectively a performance optimization which doesn’t provide any
+new features, previously LLM would accept URLs just fine and would
+download and then base64 them behind the scenes.
+</p>
+<p>
+In testing this out I had a <em>really</em> impressive result from
+Claude 3.7 Sonnet. I found
+<a href="https://chroniclingamerica.loc.gov/lccn/sn86086481/1900-01-29/ed-1/seq-2/#date1=1756&amp;index=10&amp;rows=20&amp;words=PELICAN+Pelican+Pelicans+PELICANS&amp;searchType=basic&amp;sequence=0&amp;state=&amp;date2=1922&amp;proxtext=pelicans&amp;y=0&amp;x=0&amp;dateFilterType=yearRange&amp;page=1">a
+newspaper page</a> from 1900 on the Library of Congress (the “Worcester
+spy.”) and fed a URL to the PDF into Sonnet like this:
+</p>
+<pre><code>llm -m claude-3.7-sonnet \
+  -a 'https://tile.loc.gov/storage-services/service/ndnp/mb/batch_mb_gaia_ver02/data/sn86086481/0051717161A/1900012901/0296.pdf' \
+'transcribe all text from this image, formatted as markdown'
+</code></pre>
+<p>
+<img alt="Screenshot of the PDF - it has many dense columns" src="https://static.simonwillison.net/static/2025/newspaper-page.jpg" />
+</p>
+<p>
+I haven’t checked every sentence but it appears to have done
+<a href="https://gist.github.com/simonw/df1a0473e122830d55a0a3abb51384c9">an
+excellent job</a>, at a cost of 16 cents.
+</p>
+<p>
+As another experiment, I tried running that against my example
+<code>people</code> template from the schemas feature I released
+<a href="https://simonwillison.net/2025/Feb/28/llm-schemas/">this
+morning</a>:
+</p>
+<pre><code>llm -m claude-3.7-sonnet \
+  -a 'https://tile.loc.gov/storage-services/service/ndnp/mb/batch_mb_gaia_ver02/data/sn86086481/0051717161A/1900012901/0296.pdf' \
+  -t people
+</code></pre>
+<p>
+That only gave me
+<a href="https://github.com/simonw/llm-anthropic/issues/24#issuecomment-2691773883">two
+results</a> - so I tried an alternative approach where I looped the OCR
+text back through the same template, using <code>llm logs –cid</code>
+with the logged conversation ID and <code>-r</code> to extract just the
+raw response from the logs:
+</p>
+<pre><code>llm logs --cid 01jn7h45x2dafa34zk30z7ayfy -r | \
+  llm -t people -m claude-3.7-sonnet
+</code></pre>
+<p>
+… and that worked fantastically well! The result started like this:
+</p>
+<div class="highlight highlight-source-json">
+<pre>{
+  <span class="pl-ent">"items"</span>: [
+    {
+      <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Capt. W. R. Abercrombie<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"organization"</span>: <span class="pl-s"><span class="pl-pds">"</span>United States Army<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"role"</span>: <span class="pl-s"><span class="pl-pds">"</span>Commander of Copper River exploring expedition<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"learned"</span>: <span class="pl-s"><span class="pl-pds">"</span>Reported on the horrors along the Copper River in Alaska, including starvation, scurvy, and mental illness affecting 70% of people. He was tasked with laying out a trans-Alaskan military route and assessing resources.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"article_headline"</span>: <span class="pl-s"><span class="pl-pds">"</span>MUCH SUFFERING<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"article_date"</span>: <span class="pl-s"><span class="pl-pds">"</span>1900-01-28<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Edward Gillette<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"organization"</span>: <span class="pl-s"><span class="pl-pds">"</span>Copper River expedition<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"role"</span>: <span class="pl-s"><span class="pl-pds">"</span>Member of the expedition<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"learned"</span>: <span class="pl-s"><span class="pl-pds">"</span>Contributed a chapter to Abercrombie's report on the feasibility of establishing a railroad route up the Copper River valley, comparing it favorably to the Seattle to Skaguay route.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"article_headline"</span>: <span class="pl-s"><span class="pl-pds">"</span>MUCH SUFFERING<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"article_date"</span>: <span class="pl-s"><span class="pl-pds">"</span>1900-01-28<span class="pl-pds">"</span></span>
+    }</pre>
+</div>
+<p>
+<p><a href="https://github.com/simonw/llm-anthropic/issues/24#issuecomment-2691773883">Full
+response here</a>.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/anthropic&quot;&gt;anthropic&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/projects&quot;&gt;projects&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Mar/1/llm-anthropic/#atom-everything"
+class="uri">https://simonwillison.net/2025/Mar/1/llm-anthropic/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-03-01, from: Feed for Alt USDS)</p>
+<p>“I fought for this country. Then I fought for public health. Now,
+I’ve been terminated without cause—with others who helped fight
+COVID-19.”</p>
+<p>Fewer experts tracking outbreaks = more risk for everyone.</p>
+<p>🔗
+https://www.wethebuilders.org/posts/i-monitored-infectious-diseases-at-the-cdc</p>
+<p>#TechForGood #SaveOurServices #altgov #publichealth</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3ljbnisc2es2w"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3ljbnisc2es2w</a></p>
+<hr />
+<h2 id="rewriting-my-site-in-vanilla-web">Rewriting my site in vanilla
+web</h2>
+<p>date: 2025-03-01, from: Lean Rada’s blog</p>
+<p>
+I rewrote this website in vanilla HTML/CSS/JS. Here’s the story.
+</p>
+<h2>
+But why?
+</h2>
+<p>
+Over the years, I’ve used a bunch of libraries &amp; frameworks to build
+<a href="https://leanrada.com/wares/personal-website?ref=rss">this
+website</a>, before finally making my own static site generator that I
+called
+<a href="https://github.com/Kalabasa/compose-html" target="_blank"><code>compose-html</code></a>.
+As the name suggests, it composes HTML files together, very much like
+<a href="https://astro.build/" target="_blank">Astro</a>.
+</p>
+<figure>
+<img src="https://leanrada.com/notes/vanilla-web-rewrite/compose-html.png?ref=rss" alt="screenshot of compose-html README">
+<figcaption>
+compose-html’s README
+</figcaption>
+</figure>
+<p>
+I like systems that have a small set of tight abstractions that are easy
+to understand. I’m not a fan of rigid, non-atomic concepts like “pages”
+and “layouts”, “themes”, “frontmatters” — I mean, these are just
+‘components’ and ‘data’! I dislike those that dictate your project
+directory structure and coding style.
+</p>
+<figure>
+<img src="https://leanrada.com/notes/vanilla-web-rewrite/project-structure-docs.png?ref=rss" alt="screenshot of a framework’s documentation">
+<figcaption>
+If your documentation has a ‘Project structure’ section, I’m out!
+</figcaption>
+</figure>
+<p>
+So I built my own simple site builder and that was nice BUT it didn’t
+end up making life easier. The real world is messy, and HTML more so.
+Simply composing pieces of HTML together isn’t that straightforward and
+the abstraction leaked. My <code>compose-html</code> framework
+eventually turned into a 2k LoC that was more liability than freedom.
+Though it served me very well, it was a dead end.
+</p>
+<h2>
+Maybe nothing can solve my problem…
+</h2>
+<p>
+As in, literally nothing. No framework. No build steps.
+</p>
+<p>
+What if HTML wasn’t a render target, but was both the authoring and
+publishing medium?
+</p>
+<p>
+What if I rewrote my site in vanilla HTML/CSS/JS? A crazy idea
+infiltrated my conciousness.
+</p>
+<h2>
+Is it feasible?
+</h2>
+<p>
+A common reason for adding complexity is to avoid repetitive work like
+copying headers &amp; footers to every page. So we have PHP, Handlebars,
+Next.JS.
+</p>
+<p>
+Modern HTML/JS now has
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_components" target="_blank"><strong>Web
+Components</strong></a>, custom elements which could be used to
+encapsulate repetitive sections! <small>This was already possible
+without Web Components, but it makes it nicer.</small>
+</p>
+<p>
+One could go write HTML like this:
+</p>
+<pre><code>&lt;!doctype html&gt;
+&lt;site-header&gt;&lt;/site-header&gt;
+&lt;main&gt;
+  My page's content
+&lt;/main&gt;
+&lt;site-footer&gt;&lt;/site-footer&gt;</code></pre>
+<box-note><strong>What about the repetitive &lt;html&gt;, &lt;head&gt;,
+and &lt;body&gt; tags?</strong> Fortunately, web browsers and the HTML
+spec itself are lenient. These tags are
+<a href="https://html.spec.whatwg.org/#optional-tags" target="_blank">actually
+optional</a>!</box-note>
+<p>
+One would still need to manually copy and paste some common tags like
+the <code>&lt;script&gt;</code> to load the custom elements, and maybe a
+<code>common.css</code> file and a few meta tags. But I’d say it’s a
+similar level of boilerplate as some other frameworks, if not a bit
+un-DRY.
+</p>
+<box-note><strong>What about people who disable JS?</strong> No problem.
+They would still see the main content itself, just not the navigational
+headers &amp; footers. I presume these people would be savvy enough to
+navigate by URL.</box-note>
+<p>
+Another reason to use a generator is to generate data-driven content,
+especially for blog sites which usually have a blog index page with
+autogenerated collections of posts.
+</p>
+<figure>
+<img src="https://leanrada.com/notes/vanilla-web-rewrite/blog-list.png?ref=rss" alt="screenshot of a blog post list">
+<figcaption>
+A chronological list of posts.
+</figcaption>
+</figure>
+<p>
+I don’t want to hand-code lists of posts. Especially since a slice of
+the latest posts is mirrored in the homepage. As I said, the real world
+is messy, and there is not one absolute dogma that can solve it all. A
+bit of automation is perfectly fine whenever needed! Just there’s no
+need to build-systemify the entire site.
+</p>
+<p>
+With these concerns out of the way, the rewrite was looking more
+feasible.
+</p>
+<h2>
+My approach
+</h2>
+<p>
+To make sense of the rewrite and keep the site maintainable going
+forward, I decided to follow these principles:
+</p>
+<ol>
+<li>
+Semantic HTML
+</li>
+<li>
+TAC CSS methodology
+</li>
+<li>
+Web Components with Light DOM
+</li>
+</ol>
+<h3>
+<ol type="1">
+<li>Semantic HTML
+</h3></li>
+</ol>
+<p>
+Basically means using semantic tags instead of generic <code>div</code>s
+and <code>span</code>s
+</p>
+<p>
+One example is the
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/time" target="_blank"><code>time</code></a>
+tag that I used to indicate post date.
+</p>
+<pre><code>&lt;time datetime="2025-02-26"&gt;26 Feb 2025&lt;/time&gt;</code></pre>
+<p>
+Along the usual benefits of semantic HTML, the variety of tags will come
+in handy in this very rewrite, which will become obvious in the next
+point.
+</p>
+<h3>
+<ol start="2" type="1">
+<li>TAC methodology
+</h3></li>
+</ol>
+<p>
+<a href="https://jordanbrennan.hashnode.dev/tac-a-new-css-methodology" target="_blank">TAC
+methodology</a> is a modern CSS approach takes advantage of the modern
+web.
+</p>
+<p>
+The main takeaway is that we should make up <strong>new tags</strong>
+instead of divs-with-classes to represent conceptual components. For
+example:
+</p>
+<pre><code>&lt;blog-post-info hidden&gt;
+  &lt;time datetime="2025-02-26"&gt;26 Feb 2025&lt;/time&gt;
+  · 1 min read
+&lt;/blog-post-info&gt;</code></pre>
+<p>Contrast that with, let’s say,
+<a href="https://getbem.com/" target="_blank">BEM methodology</a>:</p>
+<pre><code>&lt;div class="blog-post-info blog-post-info_hidden"&gt;
+  &lt;time class="blog-post-info__date" datetime="2025-02-26"&gt;
+    26 Feb 2025
+  &lt;/time&gt;
+  · 1 min read
+&lt;/div&gt;</code></pre>
+<p>By making up a new tag called <code>blog-post-info</code>, the
+styling of these elements could easily use <strong>tag</strong> and
+<strong>attribute</strong> selectors (the T and A of TAC!) without the
+need for classes! The markup is leaner, and the CSS even looks modular
+when taking advantage of modern CSS nesting:</p>
+<pre><code>blog-post-info {
+  display: block; /* note: made-up tags default to `inline` */
+  color: #fff;
+
+  &amp;[hidden] {
+    display: none;
+  }
+
+  /* semantic HTML helps narrow the element to select */
+  &gt; time {
+    color: #ccc;
+    font-weight: bold
+  }
+}</code></pre>
+<p>
+While TAC was called a CSS methodology by the authors, it influences Web
+Component philosophy as well, into the next point.
+</p>
+<h3>
+<ol start="3" type="1">
+<li>Web Components with light DOM
+</h3></li>
+</ol>
+<p>
+I’ve always found the
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_components" target="_blank">Web
+Component</a> abstraction to be a bit heavy. You have the Shadow DOM,
+encapsulation modes (?), slots, templates, and many more related
+concepts. Now, some of those are pretty useful like slots and templates
+(which aren’t exclusive to Web Components). But overall, Web Components
+feel a bit clunky.
+</p>
+<p>
+The
+<a href="https://meyerweb.com/eric/thoughts/2023/11/01/blinded-by-the-light-dom/" target="_blank">‘light
+DOM’</a> approach does away with all of that. Like the example above:
+</p>
+<pre><code>&lt;blog-post-info hidden&gt;
+  &lt;time datetime="2025-02-26"&gt;26 Feb 2025&lt;/time&gt;
+  · 1 min read
+&lt;/blog-post-info&gt;</code></pre>
+<p>
+If implemented with shadow DOM, it could’ve look like this:
+</p>
+<pre><code>&lt;blog-post-info datetime="2025-02-26" minread="1"&gt;&lt;/blog-post-info&gt;
+&lt;!-- or maybe --&gt;
+&lt;blog-post-info datetime="2025-02-26"&gt;
+  1 min read
+&lt;/blog-post-info&gt;</code></pre>
+<p>
+The light DOM aligns with the TAC methodology, so it’s a good match.
+</p>
+<p>
+I admit scoped styles and slots are neat, but there aren’t essential
+(see TAC) and there are workarounds to slots. <strong>I’m not making a
+modular design system after all.</strong>
+</p>
+<p>
+Using the light DOM also provides a smoother transition from plain JS
+style to Web Components. Relevant, as I was converting some old JS code.
+Imagine the following common pattern:
+</p>
+<pre><code>for (const blogPostInfo of document.querySelectorAll(".blog-post-info")) {
+  const time = blogPostInfo.querySelector("time");
+  // ... initialisation code
+}</code></pre>
+<p>This pattern maps neatly to Web Component style:</p>
+<pre><code>customElements.define(
+  "blog-post-info",
+  class BlogPostInfo extends HTMLElement {
+    connectedCallback() {
+      const time = this.querySelector("time");
+      // ... initialisation code
+    }
+  }
+);</code></pre>
+<p>
+The mapping was straightforward enough that I was able to partially
+automate the conversion via
+<a href="https://en.wikipedia.org/wiki/GitHub_Copilot" target="_blank">LLM</a>.
+</p>
+<p>
+While I’m not really making the most out of Web Components technology, I
+don’t actually need the extra features. I have a confession — I set
+<code>this.innerHTML</code> directly within a Web Component, and it’s so
+much simpler than setting up <code>template</code>s. I do try to
+sanitize.
+</p>
+<p>
+Details aside, these principles made the whole rewrite easier because it
+reduced the amount of actual refactoring. I wasn’t able to particularly
+follow them to the letter, especially for nasty old code. But for future
+code, I hope to keep using these techniques.
+</p>
+<h2>
+A brief premature retrospective
+</h2>
+<p>
+<strong>Pros:</strong>
+</p>
+<ul>
+<li>
+Instant feedback loop. Zero build time.
+</li>
+<li>
+No bugs out of my control. <small>It’s what turned me off
+<a href="https://www.11ty.dev/" target="_blank">Eleventy</a>.</small>
+</li>
+<li>
+No limitations imposed by framework or paradigm.
+</li>
+</ul>
+<p>
+<strong>Cons:</strong>
+</p>
+<ul>
+<li>
+Big common files, <code>common.js</code> and <code>common.css</code>,
+’cause no bundler.
+</li>
+<li>
+Verbose. No shortcuts, e.g. anchor tag — compare markdown links.
+</li>
+<li>
+Frequent copy pasting.
+</li>
+<li>
+Harder to redesign the site now.
+</li>
+</ul>
+<p>
+I’m fine with a little bit of verbosity. For contrast, I wrote the
+<a href="https://leanrada.com/htmz/" target="_blank">htmz page</a>
+manually in plain HTML, <em>including the syntax-highlighted code
+snippets!</em>
+</p>
+<figure>
+<img src="https://leanrada.com/notes/vanilla-web-rewrite/htmz-page-code.png?ref=rss" alt="source code of htmz page">
+<figcaption>
+Have you ever tried manual syntax highlighting?
+</figcaption>
+</figure>
+<p>
+But not this time, I added the
+<a href="https://prismjs.com/" target="_blank">Prism.js</a> library to
+automate syntax highlighting.
+</p>
+<h2>
+Tips &amp; tricks
+</h2>
+<p>
+<strong>AI —</strong> I used LLMs to help me convert a bunch of pages
+into the new style. What I did was give it an example of an old page and
+the converted version (manually converted by me), and then it gave me a
+converter script that I tweaked and ran through most of the pages. I did
+the same to convert components and it was a breeze. The converted script
+was iteratively improved upon and made more robust by me and the LLM via
+examples of incorrect conversions and corrected versions. I guess the
+trick was to give it more examples instead of more elaborate
+instructions.
+</p>
+<pre><code>// this snippet from the AI-assisted converter script
+// converts &lt;blog-post-info&gt; elements
+input("blog-post-info").each((i, el) =&gt; {
+  const tag = input(el);
+  const hidden = tag.attr("hidden") != null;
+  const date = tag.attr("date");
+  const readMins = tag.attr("read-mins");
+
+  let out = `&lt;blog-post-info${hidden ? " hidden" : ""}&gt;\n`;
+  const dateDate = new Date(date);
+  const yyyy = dateDate.getFullYear();
+  const mm = (dateDate.getMonth() + 1).toString().padStart(2, "0");
+  const dd = dateDate.getDate().toString().padStart(2, "0");
+  out += `  &lt;time datetime="${yyyy}-${mm}-${dd}"&gt;${date}&lt;/time&gt;\n`;
+  out += `  · ${readMins} min read\n`;
+  out += `&lt;/blog-post-info&gt;`;
+  tag.remove();
+  main.before(out + "\n\n");
+});</code></pre>
+<p>
+<strong>Autoload —</strong> I added client-side JS that searched for
+custom tags and loaded the appropriate script files when those tags
+enter the viewport. In short, <em>lazy loading components</em>. I did
+have to impose a rigid file structure, because whenever it encounters a
+tag it would try to
+<code>import(<code>/components/${tagName}.js</code>)</code> — all my
+autoloaded components had to be in that flat directory. Am I a
+hypocrite? No, I can change that rule anytime.
+</p>
+<pre><code>// autoloads components in the viewport
+new IntersectionObserver((entries) =&gt; {
+  for (const entry of entries) {
+    if (entry.isIntersecting) {
+      if (components.has(entry.target.tagName)) {
+        import(`/components/${entry.target.tagName}.js`);
+        components.delete(entry.target.tagName);
+      }
+      intersectionObserver.unobserve(entry.target);
+    }
+  }
+});</code></pre>
+<p>
+<strong>This is not an exercise in purity —</strong> This is a real
+website, a personal one at that. This is not a pure HTML
+proof-of-concept. Not a TAC role model. Not a Web Component masterpiece.
+I would add inline JS whenever it’s more convenient, break encapsulation
+if necessary, use classes instead of pure tag selectors. Don’t let the
+ideal pure plain static TAC+WebComponent vanilla HTML+CSS get in the way
+of finishing the project. In other words, pragmatism over principles.
+</p>
+<h2>
+Homepage redesign
+</h2>
+<p>
+I couldn’t resist the temptation to not just port, but redesign the site
+(at least, the homepage).
+</p>
+<prose-bleed>
+<img src="https://leanrada.com/notes/vanilla-web-rewrite/homepage-sections.png?ref=rss" alt="screenshot of sections">
+</prose-bleed>
+<p>
+The homepage sections are now more dense, more desktop-equal (not
+mobile-first), and the bento section has been revamped!
+</p>
+<figure>
+<prose-bleed>
+<img src="https://leanrada.com/notes/vanilla-web-rewrite/homepage-bento.png?ref=rss" alt="screenshot of bento section">
+</prose-bleed>
+<figcaption>
+See also, autoupdating note count, project count, GitHub stats, and hit
+counter. Sprinkles of automation, no build system required!
+</figcaption>
+</figure>
+<p>
+I’ll probably add a live Spotify card in there somewhere.
+</p>
+<hr>
+<prose-bleed>
+<img src="https://leanrada.com/notes/vanilla-web-rewrite/diff.png?ref=rss" alt="1536 changed files, 25511 additions, 19076 deletions.">
+</prose-bleed>
+<p>
+That’s about it! The whole site rewrite went smoother and quicker than
+expected! And I’m quite liking the raw authoring experience. Now, how
+long will this new paradigm hold up? 😏
+</p>
+<p><img src="https://leanrada.com/notes/vanilla-web-rewrite/notebook.jpg?ref=rss" alt="notebook"></p>
+<p><br></p>
+<p><a href="https://leanrada.com/notes/vanilla-web-rewrite/?ref=rss"
+class="uri">https://leanrada.com/notes/vanilla-web-rewrite/?ref=rss</a></p>
 </section>
 <footer>
 Antenna is a personal aggregation of items found around the web.

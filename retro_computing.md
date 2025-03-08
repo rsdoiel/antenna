@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-03-07 07:09:36
+updated: 2025-03-08 07:07:31
 ---
 
 # retro computing
 
-(date: 2025-03-07 07:09:36)
+(date: 2025-03-08 07:07:31)
+
+---
+
+## The CRPG Renaissance, Part 4: …Long Live Dungeons & Dragons!
+
+date: 2025-03-07, from: Digital Antiquarian
+
+In December of 1997, Interplay Entertainment released Descent to Undermountain, the latest licensed Dungeons &#38; Dragons computer game. It&#8217;s remembered today, to whatever extent it&#8217;s remembered at all, as one of the more infamous turkeys of an era with more than its share of over-hyped and half-baked creations, a fiasco almost on par with Battlecruiser [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/03/the-crpg-renaissance-part-4-long-live-dungeons-dragons/>
 
 ---
 
@@ -90,4 +102,17 @@ Can we talk?
 <br> 
 
 <https://computeradsfromthepast.substack.com/p/plus-post-centram-tops-network>
+
+---
+
+## siegfried 1.11.2 released
+
+date: 2025-03-01, from: IT for Archivists
+
+Version 1.11.2 of siegfried is now available. Get it here.
+CHANGELOG v1.11.2 (2025-03-01) Filter introduced to improve Wikidata queries and -harvestWikidataSigLen flag sets minimum length of Wikidata signatures. Implemented by Ross Spencer and Andy Jackson -noprov flag introduced for Wikidata signatures. Implemented by Ross Spencer version command for roy. Implemented by Ross Spencer Wikidata definitions updated to 4.0.0. By Ross Spencer Logged error messages have more context. Implemented by Ross Spencer update PRONOM to v120 update LOC to 2025-02-26 update TIKA to v3. 
+
+<br> 
+
+<https://www.itforarchivists.com/post/sf1112/>
 

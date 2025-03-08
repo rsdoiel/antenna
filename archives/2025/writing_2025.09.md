@@ -1,11 +1,63 @@
 ---
 title: writing
-updated: 2025-03-07 07:09:33
+updated: 2025-03-08 07:07:29
 ---
 
 # writing
 
-(date: 2025-03-07 07:09:33)
+(date: 2025-03-08 07:07:29)
+
+---
+
+## Write On: Long Bright River Showrunner Nikki Toscano
+
+date: 2025-03-07, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-long-bright-river-showrunner-nikki-toscano" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Long%20Bright%20River%20with%20Nikki%20Toscano.png" alt="Write On Logo of a cell phone featuring a poster of 'Long Bright River' with headphones around it. Green amplitude shown in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“With an adaptation, you can never give back your first read. So, what are you taking away? What fills your soul? Why do you want to tell this story? And then that becomes sort of the North Star. And I’m tethered more by that North Star than by the actual moves that are happening in the book,” says <em>Long Bright River</em> showrunner, Nikki Toscano, about adapting Liz Moore’s best-selling novel for television.&nbsp;<br><br><em>Long Bright River</em> is an emotional suspense thriller that follows Mickey (Amanda Seyfried), a police officer in a Philadelphia neighborhood hit hard by the opioid epidemic. As a string of murders unfolds, Mickey must find her missing sister who’s also battling addiction before it’s too late – but long buried family secrets stand in the way.&nbsp;<br><br>On the surface, the show is a highly engaging murder-mystery, but beneath the whodunnit is a love story between two sisters. We chat with Toscano about delving into the sisterly dynamic that is both compassionate and toxic at the same time.&nbsp;<br><br>Toscano shares tools for building an enticing mystery that includes giving your characters secrets to help drive the story.&nbsp;<br><br>“I think that in the beginning of anything, you have to determine what your character wants and then put a bunch of people or things in that character’s way. So that’s how secrets are born, right? And that’s how you have your audience leaning in. Is the secret going to come out? Who’s going to tell the secret? You and I could be having a conversation and I say, ‘Don’t tell anybody!’ And then the next scene is you being in a situation where do you tell, do you not tell? It’s about setting up those kinds of things. I mean, whenever building any kind of show, whether it’s an adaptation or not, determine what your character wants and then stick a bunch of people between them and that goal that either complement or compromise your character’s journey,” says Toscano.&nbsp;<br><br>To hear more, listen to the podcast. <em>Long Bright River</em> streams on Peacock March 13.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-long-bright-river-showrunner-nikki-toscano>
+
+---
+
+## Premee Mohamed Guest Post
+
+date: 2025-03-07, from: Locus Magazine
+
+<p>How old were you when you first met Death?</p>
+<p>No, not death (by the way, belated condolences for Mr. Bubbles, the grade three homeroom betta fish, RIP). Capital-D Death, the skeleton in the black robe with the hourglass and the scythe. Was it in a cartoon (maybe the cigar-smoking shade from Woody Woodpecker)? A comic? A book? A trip to an art gallery or museum? Do you remember how you  <a href="https://locusmag.com/2025/03/premee-mohamed-guest-post/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/premee-mohamed-guest-post/>
+
+---
+
+## Featured Friday: Writers
+
+date: 2025-03-07, from: John August blog
+
+Weekend Read, our app for reading scripts on your phone, features a new curated collection of screenplays each week. This week, we celebrate the release of Highland Pro with stories about the exhilarating stress and satisfaction of being a writer. Our collection includes: 30 Rock &#8211; “Tracy Does Conan” by Tina Fey Adaptation by Charlie [&#8230;]
+The post <a href="https://johnaugust.com/2025/featured-friday-writers">Featured Friday: Writers</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/featured-friday-writers>
 
 ---
 
@@ -80,7 +132,7 @@ date: 2025-03-06, from: Locus Magazine
 
 date: 2025-03-06, from: Locus Magazine
 
-<p>The 2025 Ursula K. Le Guin Prize for Fiction is open to nominations. The nomination process for the prize is open to all and closes April 30, 2025. To be eligible, a title must be a &#8220;book-length work of imaginative fiction written by a single author,&#8221; published between April 1, 2024 and December 31, 2024. The winner receives $25,000.</p>
+<p>The 2025 Ursula K. Le Guin Prize for Fiction is open to nominations. The nomination process for the prize is open to all and closes March 31, 2025. To be eligible, a title must be a &#8220;book-length work of imaginative fiction written by a single author,&#8221; published between April 1, 2024 and December 31, 2024. The winner receives $25,000.</p>
 <p>2025 judges include Matt Bell, Indrapramit Das, Kelly Link, Sequoia Nagamatsu,  <a href="https://locusmag.com/2025/03/2025-le-guin-prize-open/" class="read-more">...Read More </a></p> 
 
 <br> 
@@ -467,4 +519,41 @@ date: 2025-03-02, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/03/juice-by-tim-winton-review-by-alexandra-pierce/>
+
+---
+
+## Sinkhole, and Other Inexplicable Voids by Leyna Krow: Review by Jake Casella Brookins
+
+date: 2025-03-01, from: Locus Magazine
+
+<p><strong>Sinkhole, and Other Inexplicable Voids</strong>, Leyna Krow (Penguin 9780593299654, $19.00, 304pp, tp) January 2025. Cover design by Nerylsa Dijol.</p>
+<p>Leyna Krow’s <strong>Sinkhole, and Other Inexpli­cable Voids </strong>is a dazzling, vivid collection. Throughout its 16 stories, Krow expertly threads together a handful of elements: magical or absurd developments, incisive snapshots of familial loves and fears, and haunting reflections on climate change disasters. Shared thematic con­cerns and a handful of connected  <a href="https://locusmag.com/2025/03/sinkhole-and-other-inexplicable-voids-by-leyna-krow-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/sinkhole-and-other-inexplicable-voids-by-leyna-krow-review-by-jake-casella-brookins/>
+
+---
+
+## Issue 770 Table of Contents, March 2025
+
+date: 2025-03-01, from: Locus Magazine
+
+<p>The March 2025 issue of Locus has interviews with Amal El-Mohtar and Hache Pueyo, a spotlight on Diabolical Plots &#38; the Submission Grinder, and a spotlight on Allan Kaster &#38; Infinivox. The issue lists US and UK forthcoming books titles through December 2025. News covers the Stoker Awards Preliminary ballot, ALA awards, the launch of magazine Remains, the Department of Education&#8217;s dismissal of the book ban suits, and much more.  <a href="https://locusmag.com/2025/02/issue-770-table-of-contents-march-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/02/issue-770-table-of-contents-march-2025/>
+
+---
+
+## 💰 #238 - What's a sellout, anyway?
+
+date: 2025-03-01, from: Interesting, a blog on writing
+
+You've changed, man! It used to be about the music. 
+
+<br> 
+
+<https://inneresting.substack.com/p/238-whats-a-sellout-anyway>
 

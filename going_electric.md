@@ -1,11 +1,188 @@
 ---
 title: going electric
-updated: 2025-03-07 07:09:37
+updated: 2025-03-08 07:07:32
 ---
 
 # going electric
 
-(date: 2025-03-07 07:09:37)
+(date: 2025-03-08 07:07:32)
+
+---
+
+## These are the cheapest EVs you can lease in March at under $300 a month
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Spring is just around the corner and the <a href="https://electrek.co/guides/electric-vehicles/">EV</a> deals are heating up. Right now, several electric models are available to lease for under $300 a month, making it a great time to make the switch (or upgrade). Here are the cheapest EVs you can lease this March.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="404778" href="https://electrek.co/2025/03/07/cheapest-evs-lease-march-under-300-month/#more-404778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/cheapest-evs-lease-march-under-300-month/>
+
+---
+
+## Podcast: Tesla sales keep crashing, Cadillac Escalade IQL, Volvo ES90, IONIQ 9 unveils, and more
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s sales crashing, the unveiling of the Cadillac Escalade IQL, Volvo ES90, and IONIQ 9, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="404895" href="https://electrek.co/2025/03/07/podcast-tesla-sales-keep-crashing-cadillac-escalade-iql-volvo-es90-ioniq-9-unveils-and-more/#more-404895" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/podcast-tesla-sales-keep-crashing-cadillac-escalade-iql-volvo-es90-ioniq-9-unveils-and-more/>
+
+---
+
+## Bluetti takes $3,500 off power stations with new Elite 200 v2 at $999 low, EGO Z6 riding mower $1,500 off, Lectric, Rad Power, more
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Bluetti-Elite-200-v2-Portable-Power-Station.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Closing out this week’s Green Deals, we have <a href="https://9to5toys.com/2025/03/07/bluetti-elite-200-v2-999-low-more/">Bluetti’s latest Home Backup Sale</a> with up to $3,500 in savings on a selection of backup power solutions, like the new <a href="https://9to5toys.com/2025/03/07/bluetti-elite-200-v2-999-low-more/">Elite 200 v2 Portable Power Station</a> that has dropped down to its <a href="https://9to5toys.com/2025/03/07/bluetti-elite-200-v2-999-low-more/">$999</a> low for the second time ever, among others. We also spotted <a href="https://9to5toys.com/2025/03/07/ego-z6-42-inch-riding-mower-10ah-batteries-new-3999-low/">EGO’s standard Z6 42-inch Zero-Turn Electric Riding Lawn Mower</a> with four 10Ah batteries hitting a new <a href="https://9to5toys.com/2025/03/07/ego-z6-42-inch-riding-mower-10ah-batteries-new-3999-low/">$3,999</a> low. Then there’s some additional deals from Lectric and Rad Power, like <a href="https://9to5toys.com/2025/03/06/lectric-200-off-extra-batteries-from-1299/">Lectric’s $200 off promotion on extra batteries</a> for double mileage – which are available with select e-bike purchases starting from <a href="https://9to5toys.com/2025/03/06/lectric-200-off-extra-batteries-from-1299/">$999</a>, as well as Rad’s <a href="https://9to5toys.com/2025/03/07/radwagon-4-radexpand-5-e-bikes-from-1299/">RadExpand 5 Folding e-bike</a> and <a href="https://9to5toys.com/2025/03/07/radwagon-4-radexpand-5-e-bikes-from-1299/">RadWagon 4 Cargo e-bike</a> starting from <a href="https://9to5toys.com/2025/03/07/radwagon-4-radexpand-5-e-bikes-from-1299/">$1,299</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s $500 off preorder deal on Segway’s new <a href="https://9to5toys.com/2025/03/06/segway-ninebot-max-g3-preorder-900/">Ninebot MAX G3 eKickScooter</a>, Jackery’s <a href="https://9to5toys.com/2025/03/06/jackery-spring-sale-explorer-3000-pro-bundle-new-1994-low/">Spring Sale offers</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="404867" href="https://electrek.co/2025/03/07/bluetti-home-backup-sale-ego-lectric-rad-more/#more-404867" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/bluetti-home-backup-sale-ego-lectric-rad-more/>
+
+---
+
+## Volkswagen’s cheapest EV could get a hot GTI version, but only if you want it badly enough
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Volkswagens-cheapest-EV-GTI.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Starting under $22,000 (20,000 euros), <a href="https://electrek.co/guides/volkswagen/">Volkswagen’s</a> new ID.EVERY1 will be its cheapest EV when it arrives in 2027. Volkswagen’s tech development boss, Kai Grunitz, says an ID.1 GT1 is possible but will depend on if enough buyers want it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="404862" href="https://electrek.co/2025/03/07/volkswagens-cheapest-ev-could-get-hot-gti-version-but-only-if/#more-404862" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/volkswagens-cheapest-ev-could-get-hot-gti-version-but-only-if/>
+
+---
+
+## Rad Power Bikes’ CEO secretly exits amid more layoffs, uncertain future
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/rad-power-bikes-e-bike-radkick-battery-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Phil Molyneux, CEO of Seattle-based Rad Power Bikes, has left the company under unclear circumstances, marking another major leadership shake-up for the embattled e-bike brand. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,rad-power-bikes" data-layer-viewtype="unknown" data-post-id="404861" href="https://electrek.co/2025/03/07/rad-power-bikes-ceo-secretly-exits-amid-more-layoffs-uncertain-future/#more-404861" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/rad-power-bikes-ceo-secretly-exits-amid-more-layoffs-uncertain-future/>
+
+---
+
+## VW Design Boss Confirms Buttons Coming Back: 'It's A Car, Not A Phone'
+
+date: 2025-03-07, from: Inside EVs News
+
+VW cut most of the physical controls out of its early EVs and learned a long, painful lesson. 
+
+<br> 
+
+<https://insideevs.com/news/752840/vw-brings-back-buttons-switches/>
+
+---
+
+## The world’s first electric seaglider just hit a major milestone [Video]
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Worlds-first-electric-seaglider-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is it an <a href="https://electrek.co/guides/electric-planes/">electric plane</a>, boat? It’s the best of both. The world’s first full-scale electric seaglider officially hit the seas for testing this week with passengers onboard. It can fly and glide on water. Watch it in action below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-plane" data-layer-viewtype="unknown" data-post-id="404847" href="https://electrek.co/2025/03/07/worlds-first-electric-seaglider-major-milestone-video/#more-404847" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/worlds-first-electric-seaglider-major-milestone-video/>
+
+---
+
+## Tesla made a suspicious number of rebate requests on last days of Canadian EV incentive
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/08/tesla-montreal-store-e1470232605451.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>Transport Canada is looking into Tesla after it made a suspicious number of rebate requests on the last days of the Canadian EV incentive program.</p>
+
+
+
+<p>A single dealership in Quebec would have delivered about 4,000 vehicles in a single weekend, which is physically impossible.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="404841" href="https://electrek.co/2025/03/07/tesla-made-a-suspicious-number-of-rebate-requests-on-last-days-of-canadian-ev-incentive/#more-404841" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/tesla-made-a-suspicious-number-of-rebate-requests-on-last-days-of-canadian-ev-incentive/>
+
+---
+
+## Tesla Accused Of 'Gaming' Rebates After Claiming 8,600 Sales In One Weekend
+
+date: 2025-03-07, from: Inside EVs News
+
+EV subsidies in Canada were about to end. Tesla then filed for over half of the remaining rebates in hours, leaving dealers furious.
+ 
+
+<br> 
+
+<https://insideevs.com/news/752820/tesla-accused-of-gaming-rebates-canada/>
+
+---
+
+## Remember that $2,000 electric mini-truck I bought from China? Now they’re down to $1,000
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/04/electric-mini-truck-chang-li-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In what could either be a sign of the times or perhaps the start of a terrible decision-making chain, that famous $2,000 electric mini-truck I bought from China several years ago has somehow gotten even cheaper.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="alibaba,electric-trucks,nevs" data-layer-viewtype="unknown" data-post-id="402468" href="https://electrek.co/2025/03/07/remember-that-2000-electric-mini-truck-i-bought-from-china-now-theyre-down-to-1000/#more-402468" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/remember-that-2000-electric-mini-truck-i-bought-from-china-now-theyre-down-to-1000/>
+
+---
+
+## Hyundai Insteroid trademark hints at a new EV coming soon: Here’s what we know
+
+date: 2025-03-07, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-Insteroid-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is <a href="https://electrek.co/guides/hyundai/">Hyundai</a> about to drop another EV? A newly filed trademark for the name “Insteroid,” suggests a more powerful version of the Inster EV, Hyundai’s affordable electric crossover SUV, could be on the way. Here’s what we know so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-inster" data-layer-viewtype="unknown" data-post-id="404826" href="https://electrek.co/2025/03/07/hyundai-insteroid-trademark-hints-new-ev-coming-soon/#more-404826" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/07/hyundai-insteroid-trademark-hints-new-ev-coming-soon/>
 
 ---
 
@@ -141,7 +318,7 @@ date: 2025-03-06, from: Electrek Feed
 
 date: 2025-03-06, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/IMG_0752-e1741259676924.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>TELO gave us an exclusive opportunity to get up close and personal with a pre-production version of its tiny electric truck, slated to ship its first units later this year.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/IMG_0752-e1741259676924.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>TELO gave us an exclusive opportunity to get up close and personal with a pre-production version of its tiny electric truck, slated to ship its first units in about a year.</p>
 
 
 
@@ -1420,4 +1597,108 @@ date: 2025-03-02, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/03/01/tesla-store-gets-taken-over-by-musk-protesters-9-people-arrested/>
+
+---
+
+## MAN Trucks Electric Commercial Vehicles Consultation wants to electrify your fleet
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/MAN_EV-charging.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Electrifying your commercial fleet is a tricky thing. Sure, you want to cut your fuel costs. You want to reduce your operating variables. Heck you you even want to help corporate meet their ESG goals – but where do you start? MAN Trucks is here to help fleet managers get answers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,man-truck-bus" data-layer-viewtype="unknown" data-post-id="403903" href="https://electrek.co/2025/03/01/man-trucks-electric-commercial-vehicles-consultation-wants-to-electrify-your-fleet/#more-403903" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/man-trucks-electric-commercial-vehicles-consultation-wants-to-electrify-your-fleet/>
+
+---
+
+## BYD sales SURGE in February, exports up 187% over last year
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BYD_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>BYD is cementing its place as the global leader in plug-in car production with new models, innovative battery tech, and rapid global expansion plans – even in the face of tariffs. BYD’s latest accolade? Record-setting sales!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,china,ev-sales" data-layer-viewtype="unknown" data-post-id="403879" href="https://electrek.co/2025/03/01/byd-sales-surge-in-february-exports-up-187-over-last-year/#more-403879" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/byd-sales-surge-in-february-exports-up-187-over-last-year/>
+
+---
+
+## Hyundai, Kia’s Hot Streak For EV And Hybrid Sales Continued In February
+
+date: 2025-03-01, from: Inside EVs News
+
+The Ioniq 5, EV9 and even the Ioniq 6 help the Korean powerhouses continue their record sales run in the U.S. 
+
+<br> 
+
+<https://insideevs.com/news/752208/hyundai-kia-record-ev-hybrid-sales-february/>
+
+---
+
+## The 1,527 Horsepower Xiaomi SU7 Might Be The Real Deal On Track
+
+date: 2025-03-01, from: Inside EVs News
+
+The Taycan-beating Chinese super sedan has finally been driven by Chinese media. They're impressed. 
+
+<br> 
+
+<https://insideevs.com/news/752190/xiaomi-su7-ultra-on-track/>
+
+---
+
+## Mack Trucks, Terex Utilities partner on electric bucket truck
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/mack-trucks_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Mack Trucks and Terex Utilities have announced plans to reveal the next generation of their zero-emissions utility bucket trucks at Work Truck Week in Indiana later this month – and it looks fantastic!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,mack-trucks" data-layer-viewtype="unknown" data-post-id="403851" href="https://electrek.co/2025/03/01/mack-trucks-terex-utilities-partner-on-electric-bucket-truck/#more-403851" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/mack-trucks-terex-utilities-partner-on-electric-bucket-truck/>
+
+---
+
+## E-quipment highlight: Tadano eGR-1000XLL-1 EVOLT 100 ton electric crane
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/tadano_MAIN.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tadano first showed its massive, 100-ton electric rough-terrain crane at last year’s ConExpo, <a href="https://electrek.co/2024/10/21/tadano-gr-1000xll-evolt-100-ton-electric-crane-is-coming-to-america-video/">promising the same lifting capacity as its 100-ton diesel counterpart</a>. Now, we know a little more about this big lifter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="crane,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="403833" href="https://electrek.co/2025/03/01/e-quipment-highlight-tadano-egr-1000xll-1-100-ton-electric-crane/#more-403833" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/01/e-quipment-highlight-tadano-egr-1000xll-1-100-ton-electric-crane/>
+
+---
+
+## Massachusetts launches a two-year V2X pilot program
+
+date: 2025-03-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Kia-EV9-Canada-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Massachusetts is launching a first-of-its-kind statewide vehicle-to-everything (V2X) pilot program. This two-year initiative, backed by the Massachusetts Clean Energy Center (MassCEC), aims to deploy 100 bidirectional chargers to homes, school buses, municipal, and commercial fleet participants across the state.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="massachusetts,v2x,vehicle-to-grid,vehicle-to-everything" data-layer-viewtype="unknown" data-post-id="403824" href="https://electrek.co/2025/02/28/massachusetts-launches-a-two-year-v2x-pilot-program/#more-403824" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/02/28/massachusetts-launches-a-two-year-v2x-pilot-program/>
 

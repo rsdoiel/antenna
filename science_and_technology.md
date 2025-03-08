@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-03-07 07:09:32
+updated: 2025-03-08 07:07:27
 ---
 
 # science and technology
 
-(date: 2025-03-07 07:09:32)
+(date: 2025-03-08 07:07:27)
+
+---
+
+## Athena Moon lander officially FOADs – falls over and dies – in crater
+
+date: 2025-03-07, updated: 2025-03-08, from: The Register (UK I.T. News)
+
+<h4>Second time unlucky for Intuitive Machines, but hey, at least we got 250MB of data from it</h4> <p>The Athena lander, which touched down on the Moon on Thursday and promptly fell over, has been declared dead by its operators.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/athena_moon_probe_dies/>
+
+---
+
+## NASA Earns Best Place to Work in Government for 13th Consecutive Year
+
+date: 2025-03-07, from: NASA breaking news
+
+For the 13th straight year, NASA has earned the title of Best Place to Work in the Federal Government – large agency – from the Partnership for Public Service. The ranking reflects employee satisfaction and workplace elements across the agency while executing NASA’s mission to explore the unknown and discover new knowledge for the benefit [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/nasa-earns-best-place-to-work-in-government-for-13th-consecutive-year/>
+
+---
+
+## Crypto takes a dip as Trump signs Bitcoin Reserve order
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>With no allowance to sell and little room to buy, and markets on the slide, it&#39;s UB40 time: Red, red, whine</h4> <p><strong>Comment</strong>  It&#39;s official: President Donald Trump signed an executive order Thursday to create a US Bitcoin reserve and stockpile of related digital assets, though instead of boosting the value of the coins, the market reacted negatively to the news.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/trump_signs_bitcoin_reserve_eo/>
+
+---
+
+## Cosmic Mapmaker: NASA’s SPHEREx Space Telescope Ready to Launch
+
+date: 2025-03-07, from: NASA breaking news
+
+NASA’s latest space observatory is targeting a March 8 liftoff, and the agency’s PUNCH heliophysics mission is sharing a ride. Here’s what to expect during launch and beyond. In a little over a day, NASA’s SPHEREx space telescope is slated to launch from Vandenberg Space Force Base in California aboard a SpaceX Falcon 9 rocket. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/spherex/cosmic-mapmaker-nasas-spherex-space-telescope-ready-to-launch/>
+
+---
+
+## NASA Receives Some Data Before Intuitive Machines Ends Lunar Mission
+
+date: 2025-03-07, from: NASA breaking news
+
+Shortly after touching down inside a crater on the Moon, carrying NASA technology and science on its IM-2 mission, Intuitive Machines collected some data for the agency before calling an early end of mission at 12:15 a.m. CST Friday. As part of the company’s second Moon delivery for NASA under the agency’s CLPS (Commercial Lunar [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-receives-some-data-before-intuitive-machines-ends-lunar-mission/>
+
+---
+
+## Axiom Space and Red Hat to take edge computing into orbit
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>To boldly go where HPE and Raspberry Pi have been for a while</h4> <p>Axiom Space plans to send a shoebox-sized node running Red Hat Device Edge to the International Space Station (ISS).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/axiom_space_and_red_hat/>
+
+---
+
+## Uncle Sam charges alleged Garantex admins after crypto-exchange web seizures
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>$96B in transactions, some even labeled &#39;dirty funds,&#39; since 2019, say prosecutors</h4> <p>The Feds today revealed more details about the US Secret Service-led Garantex takedown, a day after seizing websites and freezing assets belonging to the Russian cryptocurrency exchange in coordination with German and Finnish law enforcement agencies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/uncle_sam_charges_2_garantex/>
+
+---
+
+## NASA Astronaut Tracy Dyson Speaks to Students
+
+date: 2025-03-07, from: NASA breaking news
+
+NASA Astronaut Tracy Dyson points to the Expedition 71 patch on her flight suit on Wednesday, March 5, 2025. Dyson and her fellow Expedition 71 crewmates Matthew Dominick, Michael Barratt, and Jeanette Epps answered questions from students at Elsie Whitlow Stokes Community Freedom Public Charter School in Washington. While aboard the International Space Station, Dyson [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-astronaut-tracy-dyson-speaks-to-students/>
+
+---
+
+## NASA Invites Creators to Design Mascot for Artemis Moon Mission
+
+date: 2025-03-07, from: NASA breaking news
+
+NASA is seeking design ideas from global creators for a zero gravity indicator that will fly aboard the agency’s Artemis II test flight. Zero gravity indicators are small, plush items carried aboard spacecraft to provide a visual indication of when the spacecraft and its crew reach space. This opportunity, with a submission deadline of May [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-creators-to-design-mascot-for-artemis-moon-mission/>
+
+---
+
+## Quad goals: Meta proposes QLC SSDs as a new storage tier in datacenters
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Trying to find a middle ground between spinning rust and performant TLC</h4> <p>Facebook parent Meta is exploring the use of QLC flash as an additional storage tier in its datacenters to address growing volumes of data as it juggles performance maintenance and energy efficiency.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/meta_proposes_qlc_ssds_as/>
+
+---
+
+## Essential FOSS tools to make macOS suck less
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Moved from Windows or Linux? Smooth some of the rough edges</h4> <p><strong>Friday FOSS fest</strong>  There are some idiosyncrasies about macOS that long term Mac users may never notice, but cause frustration in people more used to how Windows does things – or the much more customizable Linux desktop experience. Here are a few of <em>The Reg</em> FOSS desk&#39;s favorite tools we routinely install on new machines to make life a little more comfortable or convenient.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/fosss_to_tame_macos/>
+
+---
+
+## Popular “AI” chatbots infected by Russian state propaganda, call Hitler’s Mein Kampf “insightful and intelligent”
+
+date: 2025-03-07, from: OS News
+
+Two for the techbro &#8220;&#8216;AI&#8217; cannot be biased&#8221; crowd: A Moscow-based disinformation network named “Pravda” — the Russian word for &#8220;truth&#8221; — is pursuing an ambitious strategy by deliberately infiltrating the retrieved data of artificial intelligence chatbots, publishing false claims and propaganda for the purpose of affecting the responses of AI models on topics in the news rather than by targeting human readers, NewsGuard has confirmed. By flooding search results and web crawlers with pro-Kremlin falsehoods, the network is distorting how large language models process and present news and information. The result: Massive amounts of Russian propaganda — 3,600,000 articles in 2024 — are now incorporated in the outputs of Western AI systems, infecting their responses with false claims and propaganda. ↫ Dina Contini and Eric Effron at Newsguard It turns out pretty much all of the major &#8220;AI&#8221; text generators &#8211; OpenAI’s ChatGPT-4o, You.com’s Smart Assistant, xAI’s Grok, Inflection’s Pi, Mistral’s le Chat, Microsoft’s Copilot, Meta AI, Anthropic’s Claude, Google’s Gemini, and Perplexity’s answer engine &#8211; have been heavily infected by this campaign. Lovely. From one genocidal regime to the next &#8211; how about a nice Amazon &#8220;AI&#8221; summary of the reviews for Hitler&#8217;s Mein Kampf? The full AI summary on Amazon says: “Customers find the book easy to read and interesting. They appreciate the insightful and intelligent rants. The print looks nice and is plain. Readers describe the book as a true work of art. However, some find the content boring and grim. Opinions vary on the suspenseful content, historical accuracy, and value for money.” ↫ Samantha Cole at 404 Media This summary was then picked up by Google, and dumped verbatim as Google&#8217;s first search result. Lovely. 
+
+<br> 
+
+<https://www.osnews.com/story/141882/popular-ai-chatbots-infected-by-russian-state-propaganda-call-hitlers-mein-kampf-insightful-and-intelligent/>
+
+---
+
+## Oracle outage hits US Federal health records systems
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>Big Red pushes restart button after users locked out of apps across Veterans Affairs hospitals, other govt departments</h4> <p>Oracle&#39;s Federal electronic health records software suffered a US-wide outage this week, causing Veterans Affairs hospitals to invoke &#34;standard contingency procedures.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/oracle_outage_federal_health_records/>
+
+---
+
+## NASA Astronaut to Answer Questions from Students in Oregon
+
+date: 2025-03-07, from: NASA breaking news
+
+Students from Oregon will have the chance to connect with NASA astronaut Don Pettit as he answers prerecorded science, technology, engineering, and mathematics-related questions from aboard the International Space Station. Watch the 20-minute space-to-Earth call at 2:15 p.m. EDT on Monday, March 10, on NASA+ and learn how to watch NASA content on various platforms, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-oregon/>
+
+---
+
+## Microsoft discovers massive malvertising campaign on GitHub
+
+date: 2025-03-07, from: OS News
+
+Like the other Chrome skins, Microsoft Edge is also moving to disable Manifest v2 extensions, restricting the effectiveness of ad blockers like uBlock Origin. As an advertising company, Microsoft was obviously never going to do the work to keep Manifest v2 support around in Chrome, so this was inevitable. Blocking ads might be a necessary security practice, but why cry over spilled user data, am I right? Anyway, today: In early December 2024, Microsoft Threat Intelligence detected a large-scale malvertising campaign that impacted nearly one million devices globally in an opportunistic attack to steal information. The attack originated from illegal streaming websites embedded with malvertising redirectors, leading to an intermediary website where the user was then redirected to GitHub and two other platforms. The campaign impacted a wide range of organizations and industries, including both consumer and enterprise devices, highlighting the indiscriminate nature of the attack. ↫ Microsoft Threat Intelligence If only there was a type of browser extension that prevents such malvertising attacks from being possible in the first place, and if only support for such browser extensions wasn&#8217;t being gutted as we speak. If only. 
+
+<br> 
+
+<https://www.osnews.com/story/141880/microsoft-discovers-massive-malvertising-campaign-on-github/>
+
+---
+
+## Alleged cyber scalpers Swiftly cuffed over $635K Taylor ticket heist
+
+date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
+
+<h4>I knew you were trouble, Queens DA might have said</h4> <p>Police have made two arrests in their quest to start a cybercrime crew&#39;s prison eras, alleging the pair stole hundreds of Taylor Swift tickets and sold them for huge profit. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/07/stubhub_taylor_swift_scammers/>
+
+---
+
+## NASA Webb Wows With Incredible Detail in Actively Forming Star System
+
+date: 2025-03-07, from: NASA breaking news
+
+High-resolution near-infrared light captured by NASA’s James Webb Space Telescope shows extraordinary new detail and structure in Lynds 483 (L483). Two actively forming stars are responsible for the shimmering ejections of gas and dust that gleam in orange, blue, and purple in this representative color image. Over tens of thousands of years, the central protostars […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasa-webb-wows-with-incredible-detail-in-actively-forming-star-system/>
 
 ---
 
@@ -97,7 +301,7 @@ date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
 
 date: 2025-03-07, updated: 2025-03-07, from: The Register (UK I.T. News)
 
-<h4>Difficulties unpicking 25 years of technical entanglement secure £474.4M without competition</h4> <p>Following protracted negotiations, French outsourcer Atos has scooped up a £474.4 million ($612 million) contract without competition to build systems for a UK state bank at nearly three times the annual rate initially advertised three years ago.…</p> 
+<h4>Difficulties unpicking 25 years of technical entanglement secure £474.4M without competition</h4> <p><strong>Updated</strong>  Following protracted negotiations, French outsourcer Atos has scooped up a £474.4 million ($612 million) contract without competition to build systems for a UK state bank at nearly three times the annual rate initially advertised three years ago.…</p> 
 
 <br> 
 
@@ -203,9 +407,9 @@ Written by Susanne Schwenzer, Planetary Geologist at The Open University Earth p
 
 ## International cops seize ransomware crooks' favorite Russian crypto exchange
 
-date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+date: 2025-03-06, updated: 2025-03-07, from: The Register (UK I.T. News)
 
-<h4>Did US Secret Service not get the memo, or?</h4> <p>A coalition of international law enforcement has shut down Russian cryptocurrency exchange Garantex, a favorite of now-defunct ransomware crew Conti and others criminals for money laundering.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Did US Secret Service not get the memo, or?</h4> <p><strong>Updated</strong>  A coalition of international law enforcement has shut down Russian cryptocurrency exchange Garantex, a favorite of now-defunct ransomware crew Conti and others criminals for money laundering.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -455,9 +659,9 @@ date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
 
 ## Oh Brother. Printer giant denies dirty toner tricks as users cry foul
 
-date: 2025-03-06, updated: 2025-03-06, from: The Register (UK I.T. News)
+date: 2025-03-06, updated: 2025-03-08, from: The Register (UK I.T. News)
 
-<h4>You were supposed to destroy the Sith, not join them!</h4> <p>Brother is the latest printer manufacturer to come under fire over alleged sharp practices around the use of third-party consumables versus its own ink supplies.…</p> 
+<h4>You were supposed to destroy the Sith, not join them!</h4> <p><strong>Updated</strong>  Brother is the latest printer manufacturer to come under fire over alleged sharp practices around the use of third-party consumables versus its own ink supplies.…</p> 
 
 <br> 
 
@@ -1854,4 +2058,64 @@ date: 2025-03-02, updated: 2025-03-03, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/02/internet_governance_update/>
+
+---
+
+## Hisense QLED TVs are just LED TVs, lawsuit claims
+
+date: 2025-03-01, updated: 2025-03-01, from: The Register (UK I.T. News)
+
+<h4>Quantum dot technology allegedly absent from tellies</h4> <p>Hisense USA has been sued for advertising televisions with quantum dot technology that allegedly lack quantum dot technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/01/hisense_qled_tvs_are_just/>
+
+---
+
+## Genode OS Framework 25.02 released
+
+date: 2025-03-01, from: OS News
+
+The prime feature is the continuation of the multi-monitor topic of the previous release, covering multi-monitor window management and going as far as seamlessly integrating multi-monitor virtual machines (Section Multi-monitor window management and virtual machines). The second and long anticipated feature is the Chromium engine version 112 in combination with Qt 6.6.2, which brings our port of the Falkon web browser on par with the modern web (Section Qt, WebEngine, and Falkon browser). On the account of exploratory activities, we are happy to report that Qemu can now be used directly on Genode (Section Qemu on Genode). ↫ Genode release notes Another incredibly impressive set of improvements to Genode, which will benefit Sculpt OS, too of course. Aside from the improvements mentioned above, there&#8217;s also new support for Intel&#8217;s Meteor Lake and embedded F&#38;S MX8MP armStone boards, improvements to USB and audio, and much more. 
+
+<br> 
+
+<https://www.osnews.com/story/141829/genode-os-framework-25-02-released/>
+
+---
+
+## Netboot Windows 11 with iSCSI and iPXE
+
+date: 2025-03-01, from: OS News
+
+For the past several years my desktop has also had a disk dedicated to maintaining a Windows install. I’d prefer to use the space in my PC case for disks for Linux. Since I already run a home NAS, and my Windows usage is infrequent, I wondered if I could offload the Windows install to my NAS instead. This lead me down the course of netbooting Windows 11 and writing up these notes on how to do a simplified “modern” version. ↫ Terin Stock The setup Terin Stock ended up with is rather ingenious, to be honest. They had to create not just an environment in which netbooting through iXPE using iSCSI, but also a customised Windows PE ISO that included the necessary drivers to make installing Windows onto a iSCSI-connected remote drive possible in the first place, because they&#8217;re not included in the Windows installation ISO. This isn&#8217;t exactly a standard setup, of course, so there were a few roadblocks to clear before getting there. They now have Windows 11 booting from a drive in their NAS, and it seems it doesn&#8217;t affect gaming &#8211; the reason why they did this in the first place is an online game that hard-requires Windows &#8211; at all. Installing the game through Steam took a bit longer, sure, but regular gameplay seems unaffected, and there&#8217;s no saturation on the network or disk. You&#8217;d think this would be wholly too slow to be suitable for gaming, but I guess at least some games handle this just fine. My uneducated guess is that more demanding games that rely on a ton of disk activity to load textures and so on will have a much more difficult time running. In any event, this intrigues me, and I&#8217;m kind of curious to try and set this up myself, if only for the memes. It looks like fun. 
+
+<br> 
+
+<https://www.osnews.com/story/141827/netboot-windows-11-with-iscsi-and-ipxe/>
+
+---
+
+## Windows 7 lives! How to keep your favorite fossil running
+
+date: 2025-03-01, updated: 2025-03-03, from: The Register (UK I.T. News)
+
+<h4>You probably shouldn&#39;t, but if you must, you can</h4> <p>As the expiration date for Windows 10 presses ever closer, spare a thought for its classic forerunner. No, not Windows 8 – nobody ever loved that – but Windows 7, with its classic Start menu, tasteful transparency, lack of built-in advertising, and so on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/01/running_windows_7_2025/>
+
+---
+
+## Membership of New Zealand’s domain registry suddenly triples, which isn't entirely welcome
+
+date: 2025-03-01, updated: 2025-03-01, from: The Register (UK I.T. News)
+
+<h4>Free speech org criticized constitution and made hard-to-sustain accusations of possible censorship</h4> <p>Membership of InternetNZ, the administrator of New Zealand&#39;s .NZ country code top-level domain, has more than tripled in a week after the org&#39;s review of its constitution was criticized by a free speech advocacy organization.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/01/internetnz_constitution/>
 

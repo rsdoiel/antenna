@@ -1,11 +1,227 @@
 ---
 title: home
-updated: 2025-03-07 07:09:35
+updated: 2025-03-08 07:07:31
 ---
 
 # home
 
-(date: 2025-03-07 07:09:35)
+(date: 2025-03-08 07:07:31)
+
+---
+
+## Knowing What to Save: Vegetation mapping on the Mendocino coast with Teresa Sholars
+
+date: 2025-03-07, from: California Native Plants Society
+
+<p>Teresa Sholars maps Mendocino Coast vegetation, guiding conservation to protect its unique ecosystems.</p>
+<p>The post <a href="https://www.cnps.org/vegetation/knowing-what-to-save-vegetation-mapping-on-the-mendocino-coast-with-teresa-sholars-42588">Knowing What to Save: Vegetation mapping on the Mendocino coast with Teresa Sholars</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/vegetation/knowing-what-to-save-vegetation-mapping-on-the-mendocino-coast-with-teresa-sholars-42588>
+
+---
+
+## Celebrating California’s Women in Agriculture on International Women’s Day
+
+date: 2025-03-07, from: Calfifornia Dept. Aggriculture blog
+
+March 8 is International Women&#8217;s Day, and CDFA would like to commemorate the occasion by celebrating the dedication and leadership of California women in agriculture. There are 45,244 women producers across the state, and they manage 11.5 million acres on &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28654">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28654>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-03-07, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## Should You Really Take Car Advice From TikTok?
+
+date: 2025-03-07, from: Family Handyman Blog
+
+<p>Don't fall for it: The majority of #CarTok hacks are likely to damage your car. But TikTok can be a good source for new drivers, says study.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-hacks-on-tiktok/">Should You Really Take Car Advice From TikTok?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-hacks-on-tiktok/>
+
+---
+
+## 20,000 Subaru Foresters Recalled Over Vehicle Stability Concerns
+
+date: 2025-03-07, from: Family Handyman Blog
+
+<p>Subaru has announced a recall of over 20,000 vehicles due to an issue with certain wheels. Find out if yours is affected. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/subaru-recall-20000-vehicles/">20,000 Subaru Foresters Recalled Over Vehicle Stability Concerns</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/subaru-recall-20000-vehicles/>
+
+---
+
+## This $2.3M Midcentury Compound in New Orleans Just Listed for the First Time
+
+date: 2025-03-07, from: Dwell
+
+Set on a sprawling 30,000-square-foot lot, the Lake Vista home has been lightly updated, and it comes with a pool and a cabana. 
+
+<br> 
+
+<https://www.dwell.com/article/midcentury-home-lawrence-saunders-calongne-lake-vista-new-orleans-real-estate-6327b117>
+
+---
+
+## These Wellness Retreats Are Like the Real-Life ‘White Lotus’ (Without the Murder Part)
+
+date: 2025-03-07, from: Sunset Magazine - Living in the West
+
+HBO'S hit series 'White Lotus' has us craving a serious reset. Here's where to find the best retreats in the West. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/wellness-retreats-like-white-lotus>
+
+---
+
+## How to Grow Chickpeas (Garbanzo Beans)
+
+date: 2025-03-07, from: The Gardener's Path
+
+<p>Chickpeas aka garbanzo beans are versatile legumes delicious in hummus, curries, fritters, stews, and salads. They are surprisingly easy to grow in the home garden if you have the right conditions, and are sown in spring then harvested in fall. Learn how to plant and grow your own chickpeas in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-chickpeas/">How to Grow Chickpeas (Garbanzo Beans)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-chickpeas/>
+
+---
+
+## 12 Camping Essentials Outdoorsy People Swear By
+
+date: 2025-03-07, from: Sunset Magazine - Living in the West
+
+Camping requires the right gear. We asked outdoor experts for their camping gear essentials to pack on your next trip. 
+
+<br> 
+
+<https://www.sunset.com/travel/camping/essential-camping-gear>
+
+---
+
+## How to Spot and Avoid Card Skimmers: A Complete Guide
+
+date: 2025-03-07, from: Family Handyman Blog
+
+<p>Credit card skimming is a common form of fraud. Knowing how to spot skimmers can help keep you from becoming a victim.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/card-skimmers/">How to Spot and Avoid Card Skimmers: A Complete Guide</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/card-skimmers/>
+
+---
+
+## Here’s Exactly What You Should Pack in Your Go-Bag (Plus Where to Buy It)
+
+date: 2025-03-07, from: Sunset Magazine - Living in the West
+
+With emergency preparedness being top of mind due ot the Palisades and Eaton Fires, here's how to pack a go-bag survival kit. 
+
+<br> 
+
+<https://www.sunset.com/travel/what-to-pack-in-a-go-bag-emergency>
+
+---
+
+## Lawn Watering Tips for Yards With Lots of Trees
+
+date: 2025-03-07, from: Family Handyman Blog
+
+<p>Does your lawn need more water if you have a yard with a lot of trees? It depends on climate, type of grass and other factors.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-water-lawn-with-trees/">Lawn Watering Tips for Yards With Lots of Trees</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-water-lawn-with-trees/>
+
+---
+
+## After 50 Years, a Frank Lloyd Wright Finally Got Built. Then It Spawned a Sibling.
+
+date: 2025-03-07, from: Dwell
+
+Two friends in Minnesota brought unused drawings to life before creating a companion home with a rhyming roof and material palette. 
+
+<br> 
+
+<https://www.dwell.com/article/kyodai-house-imprint-architecture-bear-run-frank-lloyd-wright-uppgren-and-associates-d95707f4>
+
+---
+
+## CDFA celebrates National Weights and Measures Week 2025 – “Building a Lasting Legacy”
+
+date: 2025-03-07, from: Calfifornia Dept. Aggriculture blog
+
+It’s National Weights and Measures Week, celebrated annually from March 1-7. Regulatory officials across the country and our state’s agricultural commissioners and sealers join CDFA’s Division of Measurement Standards (DMS) in commemorating the signing of the first United States weights &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28648">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28648>
+
+---
+
+## Airstream’s First All-Electric Travel Trailer—and Everything Else You Need to Know About This Week
+
+date: 2025-03-07, from: Dwell
+
+In the news: The Pritzker Prize winner, disgruntled Airbnb hosts, a burdened L.A. housing market, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-electric-airstream-travel-trailer-pritzker-prize-winner-airbnb-joe-gebbia-fc9a0773>
+
+---
+
+## Big Bear’s Famous Eagles Have Finally Hatched Eggs. Here’s How to Watch.
+
+date: 2025-03-07, from: Sunset Magazine - Living in the West
+
+Big Bear's famous eagles, Jackie and Shadow, have new additions to their brood as two of their eggs have hatched. 
+
+<br> 
+
+<https://www.sunset.com/travel/big-bear-eagles-hatchlings>
+
+---
+
+## My Family and I Gave Up Furniture, and Haven’t Looked Back
+
+date: 2025-03-07, from: Dwell
+
+Two years ago, my wife and I decided to ditch the chairs, tables, and beds in the 382-square-foot home where we’re raising our children—and we swear by it. 
+
+<br> 
+
+<https://www.dwell.com/article/why-i-live-furniture-free-with-my-family-df1ebbf2>
 
 ---
 
@@ -21,6 +237,18 @@ date: 2025-03-07, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/bee-balm-care-and-growing-guide-most-detailed/>
+
+---
+
+## These Salmon Recipes Are Perfect for Nights When You Don’t Know What to Cook
+
+date: 2025-03-07, from: Sunset Magazine - Living in the West
+
+These easy salmon recipes—grilled or poached, smoked or roasted—will please every palate, even picky eaters. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/salmon-recipes>
 
 ---
 
@@ -52,18 +280,6 @@ date: 2025-03-06, from: Family Handyman Blog
 
 ---
 
-## These Salmon Recipes Are Perfect for Nights When You Don’t Know What to Cook
-
-date: 2025-03-06, from: Sunset Magazine - Living in the West
-
-These easy salmon recipes—grilled or poached, smoked or roasted—will please every palate, even picky eaters. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/salmon-recipes>
-
----
-
 ## 14 Ways To Eliminate Garbage Can Odors
 
 date: 2025-03-06, from: Family Handyman Blog
@@ -75,18 +291,6 @@ date: 2025-03-06, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/list/eliminate-garbage-can-odors/>
-
----
-
-## These Wellness Retreats Are Like a Real-Life ‘The White Lotus’ (without the Murder Part)
-
-date: 2025-03-06, from: Sunset Magazine - Living in the West
-
-HBO'S hit series 'White Lotus' has us craving a serious reset. Here's where to find the best retreats in the West. 
-
-<br> 
-
-<https://www.sunset.com/travel/hotels/wellness-retreats-like-white-lotus>
 
 ---
 
@@ -163,18 +367,6 @@ For well under $100, I DIYed my living room coffee table—and I can redo it any
 <br> 
 
 <https://www.dwell.com/article/diy-hairpin-leg-table-e9b9d4b8>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-06, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -650,18 +842,6 @@ date: 2025-03-04, from: The Gardener's Path
 
 ---
 
-## Big Bear’s Famous Eagles Have Finally Hatched Eggs. Here’s How to Watch.
-
-date: 2025-03-04, from: Sunset Magazine - Living in the West
-
-Big Bear's famous eagles, Jackie and Shadow, have new additions to their brood as two of their eggs have hatched. 
-
-<br> 
-
-<https://www.sunset.com/travel/big-bear-eagles-hatchlings>
-
----
-
 ## How to Plant and Care for Bare Root Roses
 
 date: 2025-03-04, from: The Gardener's Path
@@ -997,4 +1177,131 @@ date: 2025-03-02, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/landscape-trees/grow-star-magnolia/>
+
+---
+
+## How to Grow and Care for Feather (Tassel) Grape Hyacinth
+
+date: 2025-03-01, from: The Gardener's Path
+
+<p>Feather aka tassel grape hyacinth are similar to the popular Muscari species but bigger, with tall stalks of tasseled, feather-like purple blossoms. They make a big impact with the same low-maintenance requirements as their close relatives. Learn how to plant and grow these oh-so-impressive flowers in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-feather-hyacinth/">How to Grow and Care for Feather (Tassel) Grape Hyacinth</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-feather-hyacinth/>
+
+---
+
+## The Essential Gear You Need If You Want to Start Birding
+
+date: 2025-03-01, from: Sunset Magazine - Living in the West
+
+The meditative act of birdwatching reduces stress. This is the birding and birdwatching gear that you need to get started. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/birding-birdwatching-gear>
+
+---
+
+## 23 Michigan Snakes (With Pictures and Identification)
+
+date: 2025-03-01, from: Yard Life blog
+
+<p>Michigan is home to a diverse range of snakes, with 23 different species found across the state. These snakes inhabit ... </p>
+<p class="read-more-container"><a title="23 Michigan Snakes (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/23-michigan-snakes-with-pictures-and-identification/#more-24294" aria-label="Read more about 23 Michigan Snakes (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/23-michigan-snakes-with-pictures-and-identification/">23 Michigan Snakes (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/23-michigan-snakes-with-pictures-and-identification/>
+
+---
+
+## 35 Common Types of Monkeys (Pictures and Identification)
+
+date: 2025-03-01, from: Yard Life blog
+
+<p>Monkeys are some of the most diverse and fascinating primates in the animal kingdom. With over 260 species worldwide, these ... </p>
+<p class="read-more-container"><a title="35 Common Types of Monkeys (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/35-common-types-of-monkeys-pictures-and-identification/#more-24257" aria-label="Read more about 35 Common Types of Monkeys (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-common-types-of-monkeys-pictures-and-identification/">35 Common Types of Monkeys (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-common-types-of-monkeys-pictures-and-identification/>
+
+---
+
+## Blue flax (Linum lewisii) Care and Growing Guide (Most Detailed)
+
+date: 2025-03-01, from: Yard Life blog
+
+<p>Blue flax (Linum lewisii), also known as Lewis flax or prairie flax, is a stunning perennial wildflower native to North ... </p>
+<p class="read-more-container"><a title="Blue flax (Linum lewisii) Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/blue-flax-linum-lewisii-care-and-growing-guide-most-detailed/#more-24251" aria-label="Read more about Blue flax (Linum lewisii) Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/blue-flax-linum-lewisii-care-and-growing-guide-most-detailed/">Blue flax (Linum lewisii) Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/blue-flax-linum-lewisii-care-and-growing-guide-most-detailed/>
+
+---
+
+## Everything You Need For a Winter Car Emergency Kit
+
+date: 2025-03-01, from: Family Handyman Blog
+
+<p>Don't get stranded out in the cold – make your own winter car survival kit.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/winter-emergency-kit-car/">Everything You Need For a Winter Car Emergency Kit</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/winter-emergency-kit-car/>
+
+---
+
+## 15 Clever Closet Storage Hacks
+
+date: 2025-03-01, from: Family Handyman Blog
+
+<p>Here are 15 creative closet storage hacks that will help you store more items and stay organized.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/diy-closet-hacks/">15 Clever Closet Storage Hacks</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/diy-closet-hacks/>
+
+---
+
+## Mini Blind Maintenance: Tips and Fixes That Work
+
+date: 2025-03-01, from: Family Handyman Blog
+
+<p>Mini blinds provide privacy, block the sun and usually work perfectly for years. Here are our best tips and fixes for mini blinds that could use a little TLC.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/mini-blind-maintenance/">Mini Blind Maintenance: Tips and Fixes That Work</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/mini-blind-maintenance/>
+
+---
+
+## 10 Handy Hints To Get More Out of Your Speed Square
+
+date: 2025-03-01, from: Family Handyman Blog
+
+<p>The speed square is a mainstay in every carpenter's toolbag. Here are some of the reasons why.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/speed-square-tips-hints/">10 Handy Hints To Get More Out of Your Speed Square</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/speed-square-tips-hints/>
 

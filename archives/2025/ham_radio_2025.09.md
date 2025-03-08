@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-03-07 07:09:32
+updated: 2025-03-08 07:07:27
 ---
 
 # ham radio
 
-(date: 2025-03-07 07:09:32)
+(date: 2025-03-08 07:07:27)
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-03-07, from: Amateur Radio Relay League News
+
+<p>Spaceweather.com is reporting "A Hole In The Sun's Atmosphere" that<br />should reach Earth on March 9 and 10.<br /><br />Solar activity has been at moderate levels for the past 24 hours.<br />The largest solar event of the period was a M1 event observed on<br />March 5 at 1150z from Region 4016. There are currently 10 numbered<br />sunspot regions on the disk.<br /><br />Solar activity is expected to be low with a chance for M-class<br />flares a...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-4>
 
 ---
 

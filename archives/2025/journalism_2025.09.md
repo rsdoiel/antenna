@@ -1,11 +1,62 @@
 ---
 title: journalism
-updated: 2025-03-07 07:09:34
+updated: 2025-03-08 07:07:29
 ---
 
 # journalism
 
-(date: 2025-03-07 07:09:34)
+(date: 2025-03-08 07:07:29)
+
+---
+
+## USC women’s basketball: x-factors, scares and predictions for the upcoming NCAA tournament
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/03/07/usc-womens-basketball-x-factors-scares-and-predictions-for-the-upcoming-ncaa-tournament/">USC women&#8217;s basketball: x-factors, scares and predictions for the upcoming NCAA tournament</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/usc-womens-basketball-x-factors-scares-and-predictions-for-the-upcoming-ncaa-tournament/>
+
+---
+
+## A community divided during Charlie Kirk visit
+
+date: 2025-03-07, from: The Sundail (CSUN Student Newspaper)
+
+Tensions ran high at CSUN’s Matador Square on Thursday, March 6, as an aggressive crowd swarmed conservative activist and media personality Charlie Kirk’s tent, with security stepping in amid loud... 
+
+<br> 
+
+<https://sundial.csun.edu/191102/news/a-community-divided-during-charlie-kirk-visit/>
+
+---
+
+## A journey through jazz with Grammy-nominated Terrace Martin
+
+date: 2025-03-07, from: The Sundail (CSUN Student Newspaper)
+
+The Shigemi Matsumoto Recital Hall hosted Terrace Martin in a discussion about his journey through his musical progression. Terrace Martin is a Grammy-nominated musician and producer known for his fusion... 
+
+<br> 
+
+<https://sundial.csun.edu/191099/arts-entertainment/a-journey-through-jazz-with-grammy-nominated-terrace-martin/>
+
+---
+
+## Sitting on the edge: Are RAs students or mentors?
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>I dare you to pull an all-nighter. Oh, wait. That’s part of your job description. </p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/sitting-on-the-edge-are-ras-students-or-mentors/">Sitting on the edge: Are RAs students or mentors?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/sitting-on-the-edge-are-ras-students-or-mentors/>
 
 ---
 
@@ -39,6 +90,7 @@ The 2025 Gen Z Wellness Summit &#8211; hosted by the UCLA Friends of the Semel I
 
 date: 2025-03-07, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated March 7 at 12:05 p.m.</em>
 Dolly Parton inspired Gissel Rios to become a librarian.
 While studying at Georgetown University, Rios was captivated watching Parton speak at the Library of Congress about her Imagination Library program. 
 
@@ -75,17 +127,59 @@ date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## From the editors
+## Where pigs do fly
 
 date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
 
-<p>This is the 10th issue of the Daily Trojan Magazine, but it’s also a new beginning.</p>
-<p>The post <a href="https://dailytrojan.com/2025/03/07/from-the-editors/">From the editors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>Much of my childhood was spent at Bear Creek Saloon, watching pigs cross the finish line.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/where-pigs-do-fly/">Where pigs do fly</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
 
-<https://dailytrojan.com/2025/03/07/from-the-editors/>
+<https://dailytrojan.com/2025/03/07/where-pigs-do-fly/>
+
+---
+
+## I heard Pilates is easy
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Understanding the fitness experience for women.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/i-heard-pilates-is-easy/">I heard Pilates is easy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/i-heard-pilates-is-easy/>
+
+---
+
+## Qualms from a victim of academic validation
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Constantly searching for achievement has made enjoying the present a difficult task. </p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/qualms-from-a-victim-of-academic-validation/">Qualms from a victim of academic validation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/qualms-from-a-victim-of-academic-validation/>
+
+---
+
+## The new rules of LinkedIn
+
+date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>It’s okay to get personal — professionally — when networking.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/the-new-rules-of-linkedin/">The new rules of LinkedIn</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/07/the-new-rules-of-linkedin/>
 
 ---
 
@@ -102,17 +196,17 @@ date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
 
 ---
 
-## I heard Pilates is easy
+## From the editors
 
 date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
 
-<p>Understanding the fitness experience for women.</p>
-<p>The post <a href="https://dailytrojan.com/2025/03/07/i-heard-pilates-is-easy/">I heard Pilates is easy</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+<p>This is the 10th issue of the Daily Trojan Magazine, but it’s also a new beginning.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/07/from-the-editors/">From the editors</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 
 <br> 
 
-<https://dailytrojan.com/2025/03/07/i-heard-pilates-is-easy/>
+<https://dailytrojan.com/2025/03/07/from-the-editors/>
 
 ---
 
@@ -169,62 +263,6 @@ date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2025/03/07/war-experiences-transform-sorrows-into-art/>
-
----
-
-## Sitting on the edge: Are RAs students or mentors?
-
-date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
-
-<p>I dare you to pull an all-nighter. Oh, wait. That’s part of your job description. </p>
-<p>The post <a href="https://dailytrojan.com/2025/03/07/sitting-on-the-edge-are-ras-students-or-mentors/">Sitting on the edge: Are RAs students or mentors?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/03/07/sitting-on-the-edge-are-ras-students-or-mentors/>
-
----
-
-## The new rules of LinkedIn
-
-date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
-
-<p>It's okay to get personal when networking.</p>
-<p>The post <a href="https://dailytrojan.com/2025/03/07/the-new-rules-of-linkedin/">The new rules of LinkedIn</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/03/07/the-new-rules-of-linkedin/>
-
----
-
-## Where pigs do fly
-
-date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Much of my childhood was spent at Bear Creek Saloon, watching pigs cross the finish line.</p>
-<p>The post <a href="https://dailytrojan.com/2025/03/07/where-pigs-do-fly/">Where pigs do fly</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/03/07/where-pigs-do-fly/>
-
----
-
-## Qualms from a victim of academic validation
-
-date: 2025-03-07, from: The Daily Trojan (USC Student Newspaper)
-
-<p>Constantly searching for achievement has made enjoying the present a difficult task. </p>
-<p>The post <a href="https://dailytrojan.com/2025/03/07/qualms-from-a-victim-of-academic-validation/">Qualms from a victim of academic validation</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/03/07/qualms-from-a-victim-of-academic-validation/>
 
 ---
 
@@ -1522,4 +1560,71 @@ Featuring 44 teams and around 390 entrants, PAC’s Dance Marathon in the Ackerm
 <br> 
 
 <https://dailybruin.com/2025/03/01/pediatrics-aids-coalition-at-ucla-kicks-off-its-annual-dance-marathon-fundraiser/>
+
+---
+
+## Estudiantes que regresan del extranjero enfrentan confusión debido a problemas de alojamiento
+
+date: 2025-03-01, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Mientras algunos estudiantes regresan de un descanso festivo en casa, otros vuelven después de haber pasado semestres en distintas partes del mundo. Claire Wilson-Black (estudiante de tercer año) dijo que, a pesar de la cálida bienvenida de Occidental, muchos estudiantes que regresan del extranjero enfrentan desafíos en la asignación de vivienda. Después de irse en [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/03/01/estudiantes-que-regresan-del-extranjero-enfrentan-confusion-debido-a-problemas-de-alojamiento/2914442">Estudiantes que regresan del extranjero enfrentan confusión debido a problemas de alojamiento</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/03/01/estudiantes-que-regresan-del-extranjero-enfrentan-confusion-debido-a-problemas-de-alojamiento/2914442>
+
+---
+
+## Q&A: UCLA cardiology chief Dr. Priscilla Hsue talks heart disease, cardiovascular care
+
+date: 2025-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dr. Priscilla Hsue, the chief of UCLA’s Division of Cardiology, sat down with News contributor Savan Bollu to discuss cardiovascular disease symptoms, risk factors and novel treatment options during American Heart Month in February. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/ucla-cardiology-chief-dr-priscilla-hsue-talks-heart-disease-cardiovascular-care/>
+
+---
+
+## Federal Task Force to Combat Antisemitism will visit USC
+
+date: 2025-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The task force will assess if the University violated federal law by failing to protect Jewish students and faculty from discrimination, and if "remedial action" is necessary.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/federal-task-force-to-combat-antisemitism-will-visit-usc/">Federal Task Force to Combat Antisemitism will visit USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/federal-task-force-to-combat-antisemitism-will-visit-usc/>
+
+---
+
+## The Office of Inclusion and Diversity integrates into Culture Team
+
+date: 2025-03-01, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University said Wednesday it was reviewing programs to comply with Trump administration rules.</p>
+<p>The post <a href="https://dailytrojan.com/2025/02/28/the-office-of-inclusion-and-diversity-integrates-into-culture-team/">The Office of Inclusion and Diversity integrates into Culture Team</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/02/28/the-office-of-inclusion-and-diversity-integrates-into-culture-team/>
+
+---
+
+## Author Adam Phillips leads discussion on psychoanalysis, practicing kindness
+
+date: 2025-03-01, from: The Daily Bruin (UCLA Student Newspaper)
+
+Psychoanalytic thinker and author Adam Phillips presented ideas about kindness, mental health and psychoanalysis Thursday.
+Phillips, a former child psychotherapist, spoke with UCLA professors David Russell and Mona Simpson about his untraditional opinions about psychoanalysis at the Landmark Westwood theater. 
+
+<br> 
+
+<https://dailybruin.com/2025/02/28/author-adam-phillips-leads-discussion-on-psychoanalysis-practicing-kindness/>
 

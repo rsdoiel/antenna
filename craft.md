@@ -1,11 +1,11 @@
 ---
 title: craft
-updated: 2025-03-07 07:09:37
+updated: 2025-03-08 07:07:33
 ---
 
 # craft
 
-(date: 2025-03-07 07:09:37)
+(date: 2025-03-08 07:07:33)
 
 ---
 
@@ -114,4 +114,28 @@ Stahl Style 6 Guitar built by Carl and August Larson, Serial #81225 “Lisa” b
 <br> 
 
 <https://luth.org/2012_0291100-williams-stahl/>
+
+---
+
+## Vintage Restoration: Playability and Collectability
+
+date: 2025-03-01, from: Guild of American Luthiers
+
+Vintage Restoration: Playability and Collectability by Joe Konkoly from his 2011 GAL Convention lecture Originally published in American Lutherie #111, 2012 Repair is the term I use for fixing what is broken. It also involves making the instrument playable, although with some older instruments it is not always advisable to try to achieve the level of [&#8230;] 
+
+<br> 
+
+<https://luth.org/2012_0288700-konkoly-vintage/>
+
+---
+
+## Inside the Elderly Repair Shop
+
+date: 2025-03-01, from: Guild of American Luthiers
+
+Inside the Elderly Repair Shop by Roger Alan Skipper with Joe Konkoly Originally published in American Lutherie #108, 2011 With eight repair guys in Elderly’s main shop, and three more working on setup, Joe Konkoly’s job as repair shop manager is both challenging and rewarding. The setup department handles new instruments and also helps coordinate [&#8230;] 
+
+<br> 
+
+<https://luth.org/2011_0281400-skipper-eld-repair/>
 
