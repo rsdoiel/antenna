@@ -1,11 +1,87 @@
 ---
 title: food
-updated: 2025-03-08 07:07:33
+updated: 2025-03-09 07:07:05
 ---
 
 # food
 
-(date: 2025-03-08 07:07:33)
+(date: 2025-03-09 07:07:05)
+
+---
+
+## A Collection Of Curated Coffees To Quell Caffeine-Caused Conniptions
+
+date: 2025-03-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly selection of coffees from your friends at Sprudge. 
+
+<br> 
+
+<https://sprudge.com/a-collection-of-curated-coffees-to-quell-caffeine-caused-conniptions-296337.html>
+
+---
+
+## Tres Leches Cake
+
+date: 2025-03-09, from: Isebel Eats
+
+
+	<div>
+	<a href="https://www.isabeleats.com/tres-leches-cake/"><img title="tres-leches-cake-recipe-small-25-3" src="https://www.isabeleats.com/wp-content/uploads/2025/03/tres-leches-cake-recipe-small-25-3-400x600.jpg" alt="A slice of tres leches cake on a plate." width="400" height="600" style="max-width: 100%; height: auto;" /></a>
+	</div>
+	This tres leches cake recipe is simply the best! Soaked in a mixture of three milks and topped with whipped&#8230; 
+
+<br> 
+
+<https://www.isabeleats.com/tres-leches-cake/>
+
+---
+
+## Here Are The Finalists Of The 2025 US Barista Championship
+
+date: 2025-03-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The Finals of the 2025 US Barista Championship take place Sunday, March 9th. 
+
+<br> 
+
+<https://sprudge.com/here-are-the-finalists-of-the-2025-us-barista-championship-296536.html>
+
+---
+
+## 37 Late-Night Snacks Both Savory and Sweet
+
+date: 2025-03-08, from: Bon Appetet
+
+Like 10-minute peanut butter noodles, chocolate chipless cookies, and tater tot waffles. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/late-night-snacks-recipes>
+
+---
+
+## 2025 US Barista Championship: The Semi-Finals
+
+date: 2025-03-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A live recap of the Semi-Finals of the 2025 US Barista Championship. 
+
+<br> 
+
+<https://sprudge.com/2025-us-barista-championship-the-semi-finals-296467.html>
+
+---
+
+## Here Are The 2025 US Barista Championship Semi-Finalists
+
+date: 2025-03-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. And then there were 18. 
+
+<br> 
+
+<https://sprudge.com/here-are-the-2025-us-barista-championship-semi-finalists-296332.html>
 
 ---
 
@@ -1020,102 +1096,4 @@ date: 2025-03-02, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/12-recipes-for-mardis-gras/>
-
----
-
-## Klatch Coffee Recognizes Woman-Owned And Operated Coffee Producers
-
-date: 2025-03-01, from: The Sprudge
-
-<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Roaster celebrates Women’s History Month, donates to Grounds For Health. 
-
-<br> 
-
-<https://sprudge.com/klatch-coffee-recognizes-woman-owned-and-operated-coffee-producers-288459.html>
-
----
-
-## 15 Best Meal Delivery Services 2025, Tested by Bon Appétit Editors
-
-date: 2025-03-01, from: Bon Appetet
-
-Meal kit and delivery options for every kind of cook (and those who don’t want to cook at all). 
-
-<br> 
-
-<https://www.bonappetit.com/story/best-meal-delivery-services>
-
----
-
-## Join the Bon Appétit Bake Club
-
-date: 2025-03-01, from: Bon Appetet
-
-Test kitchen baking experts Jesse Szewczyk and Shilpa Uskokovic share must-make recipes and answer your burning questions. 
-
-<br> 
-
-<https://www.bonappetit.com/story/bake-club>
-
----
-
-## Pistachio Bundt Cake
-
-date: 2025-03-01, from: Bon Appetet
-
-Predestined to be the star of your next weekend hang or holiday brunch. 
-
-<br> 
-
-<https://www.bonappetit.com/recipe/pistachio-bundt-cake>
-
----
-
-## Adai (Quick Lentil Dosas)
-
-date: 2025-03-01, from: Bon Appetet
-
-Savory from chile, ginger, and cumin, these adai are a filling breakfast to power you through the day. 
-
-<br> 
-
-<https://www.bonappetit.com/recipe/adai-dosas>
-
----
-
-## A High-Protein, Low-Carb Dosa Recipe to Fuel Your Mornings
-
-date: 2025-03-01, from: Bon Appetet
-
-Managing diabetes or just keeping your blood sugar in check? March’s Feel-Good Food Plan is here to start your day off right. 
-
-<br> 
-
-<https://www.bonappetit.com/story/feel-good-food-plan-march-2025>
-
----
-
-## ‘Let’s Do Lunch’ Recipe Contest Announcement
-
-date: 2025-03-01, from: Taste of Home
-
-<p>Show off your favorite lunch recipes for the chance to win $500!</p>
-<p>The post <a href="https://www.tasteofhome.com/article/lets-do-lunch-recipe-contest-announcement/">&#8216;Let&#8217;s Do Lunch&#8217; Recipe Contest Announcement</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
- 
-
-<br> 
-
-<https://www.tasteofhome.com/article/lets-do-lunch-recipe-contest-announcement/>
-
----
-
-## Green Velvet Cupcakes
-
-date: 2025-03-01, from: Taste of Home
-
-These moist and fluffy green velvet cupcakes with cream cheese frosting will leave your old-fashioned red velvet recipe green with envy this St. Patrick's Day. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/green-velvet-cupcakes/>
 

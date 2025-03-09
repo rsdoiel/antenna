@@ -1,11 +1,445 @@
 ---
 title: pacific
-updated: 2025-03-08 07:07:27
+updated: 2025-03-09 07:06:59
 ---
 
 # pacific
 
-(date: 2025-03-08 07:07:27)
+(date: 2025-03-09 07:06:59)
+
+---
+
+##  Break in the clouds
+
+date: 2025-03-09, from: Pacific Island Times
+
+  We all experience disappointments. There are small ones, which are hardly worth remembering.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/break-in-the-clouds>
+
+---
+
+## Do I believe?  Yes, I do.
+
+date: 2025-03-09, from: Pacific Island Times
+
+ I am a great storyteller and admit that exaggeration is a tool used to amplify tales – particularly as a teacher – at all grade levels.  Bu 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/do-i-believe-yes-i-do>
+
+---
+
+## House Republicans unveil spending bill to avert shutdown at week’s end
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; House Republicans on Saturday unveiled a measure to fund the government through Sept. 30, boosting spending on the military and daring Democrats to oppose it and risk being blamed for a government shutdown that would begin after midnight Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/nation-world-news/house-republicans-unveil-spending-bill-to-avert-shutdown-at-weeks-end/>
+
+---
+
+## Why some schools are rethinking ‘college for all’
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>LYNN, Mass. &#8212; For three decades, &#8220;college for all&#8221; was an American rallying cry. The goal inspired a generation of educators, offered a north star to students and united political figures from former President George W. Bush to Sen. Bernie Sanders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/nation-world-news/why-some-schools-are-rethinking-college-for-all/>
+
+---
+
+## Russian strikes kill 20 in eastern Ukraine as US reduces its support
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; Russian strikes killed 20 people in the war-torn eastern Ukrainian region of Donetsk on Friday night, a sign that Moscow is stepping up bombardments of cities critical for Ukrainian logistics and support and taking advantage of Washington&#8217;s decision to pause military aid and intelligence sharing with Kyiv.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/nation-world-news/russian-strikes-kill-20-in-eastern-ukraine-as-us-reduces-its-support/>
+
+---
+
+## Climate nonprofit sues EPA over billions in frozen funds
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>A multibillion-dollar dispute between the Environmental Protection Agency and several nonprofit organizations escalated Saturday when one group sued the EPA and Citibank, seeking access to grant money that has been frozen under President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/nation-world-news/climate-nonprofit-sues-epa-over-billions-in-frozen-funds/>
+
+---
+
+## Steves: Explore Bath’s easy urban delights
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>England&#8217;s best city within two hours of London is beautiful, historic Bath. The city is popular and expensive, but a delight nonetheless &#8212; the most relaxing and elegant place to sample urban England.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/features/steves-explore-baths-easy-urban-delights/>
+
+---
+
+## Volcano Watch: When have lava fountains formed on Kilauea, and what are their hazards?
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>Kilauea is in a unique phase of activity in Halema&#8216;uma&#8216;u, with 12 episodes of dual lava fountains since Dec. 23, 2024.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/features/volcano-watch-when-have-lava-fountains-formed-on-kilauea-and-what-are-their-hazards/>
+
+---
+
+## Hospital expansion on schedule for ’26
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>Almost one year into construction at the Hilo Benioff Medical Center, everything is &#8220;on track&#8221; with the expansion of the main hospital and the East Hawai&#8217;i Clinic facilities across the street.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/hawaii-news/hospital-expansion-on-schedule-for-26/>
+
+---
+
+## NOAA said to be planning to shrink staff by 20%
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>The National Oceanic and Atmospheric Administration, the nation&#8217;s premier agency for weather and climate science, has been told by the Trump administration to prepare to lose another 1,000 workers, raising concerns that NOAA&#8217;s lifesaving forecasts might be hindered as hurricane and disaster season approaches.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/nation-world-news/noaa-said-to-be-planning-to-shrink-staff-by-20/>
+
+---
+
+## Science, politics and anxiety mix at rally under Lincoln Memorial
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Shortly before noon Friday, Dr. Francis Collins, a former director of the National Institutes of Health, stood on the steps below the Lincoln Memorial tuning his acoustic guitar &#8212; a &#8220;very sweet&#8221; Huss &#038; Dalton, he said, with a double-helix of DNA winding down the neck in pearl inlay. The nation&#8217;s anxious scientists could use a song.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/nation-world-news/science-politics-and-anxiety-mix-at-rally-under-lincoln-memorial/>
+
+---
+
+## Island posts extremely low rainfall totals for February
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>While most of Hawaii Island is experiencing moderate drought conditions, the island&#8217;s rainfall numbers for February paint a picture that the word &#8220;moderate&#8221; doesn&#8217;t accurately describe.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/hawaii-news/island-posts-extremely-low-rainfall-totals-for-february/>
+
+---
+
+## Waimea residents blast rezoning request; decision postponed
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>Waimea residents held court for hours Thursday decrying a long-delayed plan to rezone a 5-acre Waimea parcel for commercial development.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/hawaii-news/waimea-residents-blast-rezoning-request-decision-postponed/>
+
+---
+
+## Upcoming road closures for utility work in Hilo
+
+date: 2025-03-09, from: Hawaii Tribune Harold
+
+
+				<p>Hawaiian Electric crews will replace utility poles in Hilo on Tuesday and again on March 20. The work will require intermittent or full road closures while the work is being performed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/09/hawaii-news/upcoming-road-closures-for-utility-work-in-hilo/>
+
+---
+
+##  Tales that will make your hair curl: How Samoan parents keep hair on their daughters’ heads
+
+date: 2025-03-08, from: Pacific Island Times
+
+A woman's hair is more than just strands growing from her head. It is a powerful part of her identity that reflects her personality, culture 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/tales-that-will-make-your-hair-curl-how-samoan-parents-keep-hair-on-their-daughters-heads>
+
+---
+
+## DOGE job cuts bring pain to Trump heartland
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>PARKERSBURG, W. Va. &#8212; Jennifer Piggott proudly hung a red-and-blue Trump campaign flag outside her one-story home during the November election race. Now, after she was abruptly fired from her civil service job, her days of supporting the president are over.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/doge-job-cuts-bring-pain-to-trump-heartland/>
+
+---
+
+## Stocks suffer worst week in months as tariffs hang over Wall Street
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>The stock market suffered its worst week in many months, after a series of dizzying policy shifts on tariffs from the White House amid simmering concerns about the health of the economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/stocks-suffer-worst-week-in-months-as-tariffs-hang-over-wall-street/>
+
+---
+
+## At crypto summit, Trump says US will be ‘the bitcoin superpower’
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>Sitting beneath a portrait of Abraham Lincoln, more than two dozen of the most powerful figures in the U.S. cryptocurrency industry, together worth many billions of dollars, gathered in the White House on Friday for an audience with President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/at-crypto-summit-trump-says-us-will-be-the-bitcoin-superpower/>
+
+---
+
+## Where do the legal cases against Trump’s executive orders stand?
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s agenda has partially stalled in court as judges pause major policy rollouts around immigration, spending and social issues, but his administration has notched some important wins as it seeks to dramatically shrink the federal bureaucracy and cut foreign aid spending.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/where-do-the-legal-cases-against-trumps-executive-orders-stand/>
+
+---
+
+## Fed in no hurry to adjust rates amid Trump policy uncertainty
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>Jerome Powell, chair of the Federal Reserve, said the central bank is focused on the &#8220;net effect&#8221; of President Donald Trump&#8217;s economic agenda, amid high uncertainty about which policies will actually be enacted, as he reiterated that officials are still not in a &#8220;hurry&#8221; to adjust interest rates.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/fed-in-no-hurry-to-adjust-rates-amid-trump-policy-uncertainty/>
+
+---
+
+## White House cancels $400 million in grants and contracts to Columbia
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration announced Friday that it had canceled $400 million in federal grants and contracts to Columbia University, an extraordinary step that it said was necessary because of what it described as the school&#8217;s failure to protect Jewish students from harassment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/white-house-cancels-400-million-in-grants-and-contracts-to-columbia/>
+
+---
+
+## Diversity dismissals begin at top US intelligence agency, lawyer says
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Officials involved in diversity, equality, inclusion and accessibility programs at the U.S. Office of the Director of National Intelligence have been ordered to resign or be fired, the lawyer for two of the officials said on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/diversity-dismissals-begin-at-top-us-intelligence-agency-lawyer-says/>
+
+---
+
+## Gene Hackman died of heart disease days after wife succumbed to rare virus
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>SANTA FE, N.M. &#8212; Oscar-winning actor Gene Hackman was in an advanced state of Alzheimer&#8217;s and died of heart disease and other factors likely days after his wife, Betsy Arakawa, died of a rare virus spread by mice, according to autopsy results released on Friday in New Mexico.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/gene-hackman-died-of-heart-disease-days-after-wife-succumbed-to-rare-virus/>
+
+---
+
+## Texas company’s lander dies on moon the day after toppled landing
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>A day after landing on the moon, the robotic Athena spacecraft built by Intuitive Machines of Houston is dead.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/texas-companys-lander-dies-on-moon-the-day-after-toppled-landing/>
+
+---
+
+## Trump ‘strongly considering’ new sanctions on Russia to force ceasefire deal
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said Friday that he was &#8220;strongly considering&#8221; imposing sanctions and tariffs on Russia until a ceasefire and permanent peace deal was reached in its war with Ukraine, even as he defended Russia&#8217;s stepped-up attacks on Ukraine after the United States paused aid and intelligence sharing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/trump-strongly-considering-new-sanctions-on-russia-to-force-ceasefire-deal/>
+
+---
+
+## Texas, New Mexico report increase in measles cases
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>Texas and New Mexico on Friday reported an additional 59 cases of measles for a total of 228 known infections in those states, where an outbreak that began in West Texas in late January has spread, causing the first U.S. measles deaths in a decade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/texas-new-mexico-report-increase-in-measles-cases/>
+
+---
+
+## Tropical Gardening: March comes like a lion, and leaves like a lamb
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>The old saying that March comes like a lion and leaves like a lamb usually holds true, but this year, only time will tell.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/features/tropical-gardening-march-comes-like-a-lion-and-leaves-like-a-lamb/>
+
+---
+
+## Exploring the bizarre Pacific wildlife 
+
+date: 2025-03-08, from: Pacific Island Times
+
+There is something oddly soothing and comforting in Sir David Attenborough’s commentary on our planet’s biggest wow moments. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/exploring-the-bizarre-pacific-wildlife>
+
+---
+
+## Guam artist josh anthony enters a new era with singles ‘matcha’ and ‘badmouth’
+
+date: 2025-03-08, from: Pacific Island Times
+
+Guam artist josh anthony enters a new era with singles ‘matcha’ and ‘badmouth’ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-artist-josh-anthony-enters-a-new-era-with-singles-matcha-and-badmouth>
+
+---
+
+## ‘Climate impacts are changing how we plan for the future:’ Q&#38;A with Kathy Jetnil-Kijiner, poet-activist 
+
+date: 2025-03-08, from: Pacific Island Times
+
+Kathy Jetnil-Kijiner/Photo courtesy of Wikipedia Microwaves By Jack Niedenthal Kathy Jetnil-Kijiner’s focus has been climate change and... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/climate-impacts-are-changing-how-we-plan-for-the-future-q-a-with-kathy-jetnil-kijiner-poet-activ>
+
+---
+
+## 23 representatives named to federal policy advisory council
+
+date: 2025-03-08, from: University of Hawaiʻi News
+
+<p>The council will meet twice a month, serving as a forum for community voices to help shape the university’s approach to evolving national policies.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/07/23-representatives-federal-policy-advisory-council/">23 representatives named to federal policy advisory council</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/07/23-representatives-federal-policy-advisory-council/>
+
+---
+
+## UH Hilo’s He ʻōlelo Ola to host Indigenous language experts
+
+date: 2025-03-08, from: University of Hawaiʻi News
+
+<p>Participants will explore <abbr>UH</abbr> Hilo’s Hawaiian language college, home to the nation’s only <abbr>BA</abbr> to <abbr>PhD</abbr> <span aria-label="olelo">&#699;&#333;lelo</span> <span aria-label="Hawaii">Hawai&#699;i</span> medium program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/07/uh-hilo-he-olelo-ola/"><abbr>UH</abbr> Hilo’s He ʻōlelo Ola to host Indigenous language experts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/07/uh-hilo-he-olelo-ola/>
 
 ---
 
@@ -2488,208 +2922,4 @@ date: 2025-03-02, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/03/01/nation-world-news/pentagon-sending-combat-forces-to-help-secure-border/>
-
----
-
-## Flying Saucers, Never Quit Dreaming, Bailey’s Antiques and Aloha Shirts Home is Here
-
-date: 2025-03-01, from: Home is Here
-
-<p>The post <a href="https://www.pbshawaii.org/flying-saucers-never-quit-dreaming-baileys-antiques-and-aloha-shirts-home-is-here/">Flying Saucers, Never Quit Dreaming, Bailey&#8217;s Antiques and Aloha Shirts &lt;br/&gt;Home is Here</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
- 
-
-<br> 
-
-<https://www.pbshawaii.org/flying-saucers-never-quit-dreaming-baileys-antiques-and-aloha-shirts-home-is-here/>
-
----
-
-## UH Hilo Hawaiian language college turns to AI to help preserve ʻōlelo
-
-date: 2025-03-01, from: University of Hawaiʻi News
-
-<p>The Lauleo project is gathering Hawaiian speech data to create <abbr>AI</abbr> tools that can convert voice to text.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/28/uh-hilo-ai-help-preserve-olelo/"><abbr>UH</abbr> Hilo Hawaiian language college turns to <abbr>AI</abbr> to help preserve ʻōlelo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/28/uh-hilo-ai-help-preserve-olelo/>
-
----
-
-## UH Mānoa honors Alice Ball’s legacy at 2025 celebration
-
-date: 2025-03-01, from: University of Hawaiʻi News
-
-<p><abbr>UH</abbr> celebrated Alice Augusta Ball Day on February 28, 2025.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/28/alice-ball-day-2025/"><abbr>UH</abbr> Mānoa honors Alice Ball’s legacy at 2025 celebration</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/28/alice-ball-day-2025/>
-
----
-
-## Kauaʻi CC archivist to lead Hawaiʻi association
-
-date: 2025-03-01, from: University of Hawaiʻi News
-
-<p>Kikuchi Center Archivist Jason Ford is president-elect of the Association of <span aria-label="Hawaii">Hawai&#699;i</span> Archivists.</p>
-The post <a href="https://www.hawaii.edu/news/2025/02/28/kauai-cc-archivist-aha/">Kauaʻi <abbr>CC</abbr> archivist to lead Hawaiʻi association</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/02/28/kauai-cc-archivist-aha/>
-
----
-
-## Trump and Zelenskiy angry exchange leaves Ukraine exposed in war with Russia
-
-date: 2025-03-01, updated: 2025-03-01, from: Marianas Variety
-
-WASHINGTON (Reuters) — Ukrainian President Volodymyr Zelenskiy's meeting with Donald Trump ended in disaster on Friday, after the two leaders clashed in an extraordinary exchange before the world's media at the White House over the war with Russia. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/trump-and-zelenskiy-angry-exchange-leaves-ukraine-exposed-in-war-with-russia/article_19a21a88-f632-11ef-9f1b-439a049b9607.html>
-
----
-
-## Trump and Vance berate Zelenskyy, exposing break between wartime allies
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The United States&#8217; relationship with Ukraine erupted in a storm of acrimony Friday as President Donald Trump and Vice President JD Vance berated President Volodymyr Zelenskyy of Ukraine in an explosive televised Oval Office showdown and abruptly cut short a visit meant to coordinate a plan for peace.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/trump-and-vance-berate-zelenskyy-exposing-break-between-wartime-allies/>
-
----
-
-## What can House Republicans cut instead of Medicaid? Not much.
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The House passed a budget resolution Tuesday night after the speaker, Mike Johnson, persuaded several Republican lawmakers, including those who have expressed reservations about possible Medicaid cuts, to support the bill.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/what-can-house-republicans-cut-instead-of-medicaid-not-much/>
-
----
-
-## Hundreds are said to quit NOAA in a new round of departures
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>The National Oceanic and Atmospheric Administration, one of the world&#8217;s leading centers of climate research, has been hit by a new round of departures, just 24 hours after hundreds of employees were fired.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/hundreds-are-said-to-quit-noaa-in-a-new-round-of-departures/>
-
----
-
-## Pope Francis suffers setback after another respiratory crisis
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>After days of a cautious optimism and two weeks in a hospital with pneumonia in both lungs, Pope Francis on Friday suffered another respiratory crisis, renewing concerns about the prognosis for the leader of the Roman Catholic Church.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/pope-francis-suffers-setback-after-another-respiratory-crisis/>
-
----
-
-## Tropical Gardening: March arrives like a lion and leaves like a lamb
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>March has a lot of history, hope and lore associated with it. For some superstitious folks, &#8220;Beware the Ides of March,&#8221; a quote from Shakespeare&#8217;s Julius Caesar, brings a sense of foreboding.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/features/tropial-gardening-march-arrives-like-a-lion-and-leaves-like-a-lamb/>
-
----
-
-## Economic report offers sobering forecast for Hawaii amid federal shakeup
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>The 2025 first-quarter economic forecast by the University of Hawaii Economic Research Organization paints a somber outlook of the state economy, warning of the potential for a recession depending on how policy shake-ups by President Donald Trump and his new administration ultimately take shape.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/hawaii-news/economic-report-offers-sobering-forecast-for-hawaii-amid-federal-shakeup/>
-
----
-
-## Social Security Administration to cut roughly 7,000 workers
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump&#8217;s escalating initiative to drastically cut the federal workforce has reached the Social Security Administration, a crucial program that keeps millions of older Americans out of poverty, which said Friday that it would reduce its head count by more than 12%.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/social-security-administration-to-cut-roughly-7000-workers/>
-
----
-
-## Gene Hackman likely died on Feb. 17, sheriff says
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>An examination of actor Gene Hackman&#8217;s pacemaker after the discovery of his body this week suggested that he died on Feb. 17, the sheriff of Santa Fe County said in a news conference Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/gene-hackman-likely-died-on-feb-17-sheriff-says/>
-
----
-
-## Federal workers will get another email asking them to detail accomplishments
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Federal workers are expected to receive another email as soon as Saturday asking them to describe what they achieved this past week, according to a person familiar with the matter.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/federal-workers-will-get-another-email-asking-them-to-detail-accomplishments/>
-
----
-
-## Trump’s cuts come with risks. Including from volcanoes.
-
-date: 2025-03-01, from: Hawaii Tribune Harold
-
-
-				<p>When the fuming and rumbling at Mount Spurr, a giant volcano northwest of Anchorage, started picking up in October, Alaska&#8217;s volcano monitoring agency raised its alert level to ensure that nearby communities and passing airplanes would have ample warning of any eruption.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/02/28/nation-world-news/trumps-cuts-come-with-risks-including-from-volcanoes/>
 

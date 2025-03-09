@@ -1,11 +1,107 @@
 ---
 title: science and technology
-updated: 2025-03-08 07:07:27
+updated: 2025-03-09 07:07:00
 ---
 
 # science and technology
 
-(date: 2025-03-08 07:07:27)
+(date: 2025-03-09 07:07:00)
+
+---
+
+## Kernel saunters – How Apple rearranged its XNU kernel with exclaves
+
+date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
+
+<h4>iPhone giant compartmentalizes OS for the sake of security</h4> <p>Apple has been working to harden the XNU kernel that powers its various operating systems, including iOS and macOS, with a feature called &#34;exclaves.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/>
+
+---
+
+## Hubble Unveils a Glittering View of Sh2-284
+
+date: 2025-03-08, from: NASA breaking news
+
+A tiny fraction of the stellar nursery known as Sh2-284 is visible in this glittering, star-filled NASA Hubble Space Telescope image. This immense region of gas and dust is the birthing place of stars, which shine among the clouds. Bright clusters of newborn stars glow pink in infrared light, and clouds of gas and dust, […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-unveils-a-glittering-view-of-sh2-284/>
+
+---
+
+## Hubble Jams With A Cosmic Guitar
+
+date: 2025-03-08, from: NASA breaking news
+
+Arp 105 is a dazzling ongoing merger between an elliptical galaxy and a spiral galaxy drawn together by gravity, characterized by a long, drawn out tidal tail of stars and gas more than 362,000 light-years long. The immense tail, which extends beyond this image from NASA’s Hubble Space Telescope, was pulled from the two galaxies […] 
+
+<br> 
+
+<https://science.nasa.gov/centers-and-facilities/goddard/hubble-jams-with-a-cosmic-guitar/>
+
+---
+
+## Hubble Spies a Spectacular Starburst Galaxy
+
+date: 2025-03-08, from: NASA breaking news
+
+Sweeping spiral arms extend from NGC 4536, littered with bright blue clusters of star formation and red clumps of hydrogen gas shining among dark lanes of dust. The galaxy’s shape may seem a little unusual, and that’s because it’s what’s known as an “intermediate galaxy”: not quite a barred spiral, but not exactly an unbarred […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-a-spectacular-starburst-galaxy/>
+
+---
+
+## Hubble Examines Stars Ensconced in a Cocoon of Gas
+
+date: 2025-03-08, from: NASA breaking news
+
+An open cluster of stars shines through misty, cocoon-like gas clouds in this Hubble Space Telescope image of NGC 460. NGC 460 is located in a region of the Small Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. This particular region contains a number of young star clusters and nebulae of different sizes […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-examines-stars-ensconced-in-a-cocoon-of-gas/>
+
+---
+
+## Surprise! People don't want AI deciding who gets a kidney transplant and who dies or endures years of misery
+
+date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
+
+<h4>Researchers find AI isn&#39;t ready to help with moral decision making</h4> <p>Is AI an appropriate source of moral guidance about which patients should be given kidney transplants?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/08/ai_kidney_transplant_moral_decisions/>
+
+---
+
+## Stuff a Pi-hole in your router because your browser is about to betray you
+
+date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
+
+<h4>Mozilla sells ads, Google limits blocking them – it&#39;s time for stricter measures</h4> <p>A new, lightweight version of Pi-Hole is here. Just how easy is it to block advertising on your home network?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/08/pi_hole_6_flyby/>
+
+---
+
+## Developer sabotaged ex-employer with kill switch activated when he was let go
+
+date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
+
+<h4>IsDavisLuEnabledInActiveDirectory? Not any more. IsDavisLuGuilty? Yes. IsDavisLuFacingJail? Also yes</h4> <p>A federal jury in Cleveland has found a senior software developer guilty of sabotaging his employer&#39;s systems – and he&#39;s now facing a potential ten years behind bars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/08/developer_server_kill_switch/>
 
 ---
 
@@ -2058,64 +2154,4 @@ date: 2025-03-02, updated: 2025-03-03, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/02/internet_governance_update/>
-
----
-
-## Hisense QLED TVs are just LED TVs, lawsuit claims
-
-date: 2025-03-01, updated: 2025-03-01, from: The Register (UK I.T. News)
-
-<h4>Quantum dot technology allegedly absent from tellies</h4> <p>Hisense USA has been sued for advertising televisions with quantum dot technology that allegedly lack quantum dot technology.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/01/hisense_qled_tvs_are_just/>
-
----
-
-## Genode OS Framework 25.02 released
-
-date: 2025-03-01, from: OS News
-
-The prime feature is the continuation of the multi-monitor topic of the previous release, covering multi-monitor window management and going as far as seamlessly integrating multi-monitor virtual machines (Section Multi-monitor window management and virtual machines). The second and long anticipated feature is the Chromium engine version 112 in combination with Qt 6.6.2, which brings our port of the Falkon web browser on par with the modern web (Section Qt, WebEngine, and Falkon browser). On the account of exploratory activities, we are happy to report that Qemu can now be used directly on Genode (Section Qemu on Genode). ↫ Genode release notes Another incredibly impressive set of improvements to Genode, which will benefit Sculpt OS, too of course. Aside from the improvements mentioned above, there&#8217;s also new support for Intel&#8217;s Meteor Lake and embedded F&#38;S MX8MP armStone boards, improvements to USB and audio, and much more. 
-
-<br> 
-
-<https://www.osnews.com/story/141829/genode-os-framework-25-02-released/>
-
----
-
-## Netboot Windows 11 with iSCSI and iPXE
-
-date: 2025-03-01, from: OS News
-
-For the past several years my desktop has also had a disk dedicated to maintaining a Windows install. I’d prefer to use the space in my PC case for disks for Linux. Since I already run a home NAS, and my Windows usage is infrequent, I wondered if I could offload the Windows install to my NAS instead. This lead me down the course of netbooting Windows 11 and writing up these notes on how to do a simplified “modern” version. ↫ Terin Stock The setup Terin Stock ended up with is rather ingenious, to be honest. They had to create not just an environment in which netbooting through iXPE using iSCSI, but also a customised Windows PE ISO that included the necessary drivers to make installing Windows onto a iSCSI-connected remote drive possible in the first place, because they&#8217;re not included in the Windows installation ISO. This isn&#8217;t exactly a standard setup, of course, so there were a few roadblocks to clear before getting there. They now have Windows 11 booting from a drive in their NAS, and it seems it doesn&#8217;t affect gaming &#8211; the reason why they did this in the first place is an online game that hard-requires Windows &#8211; at all. Installing the game through Steam took a bit longer, sure, but regular gameplay seems unaffected, and there&#8217;s no saturation on the network or disk. You&#8217;d think this would be wholly too slow to be suitable for gaming, but I guess at least some games handle this just fine. My uneducated guess is that more demanding games that rely on a ton of disk activity to load textures and so on will have a much more difficult time running. In any event, this intrigues me, and I&#8217;m kind of curious to try and set this up myself, if only for the memes. It looks like fun. 
-
-<br> 
-
-<https://www.osnews.com/story/141827/netboot-windows-11-with-iscsi-and-ipxe/>
-
----
-
-## Windows 7 lives! How to keep your favorite fossil running
-
-date: 2025-03-01, updated: 2025-03-03, from: The Register (UK I.T. News)
-
-<h4>You probably shouldn&#39;t, but if you must, you can</h4> <p>As the expiration date for Windows 10 presses ever closer, spare a thought for its classic forerunner. No, not Windows 8 – nobody ever loved that – but Windows 7, with its classic Start menu, tasteful transparency, lack of built-in advertising, and so on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/01/running_windows_7_2025/>
-
----
-
-## Membership of New Zealand’s domain registry suddenly triples, which isn't entirely welcome
-
-date: 2025-03-01, updated: 2025-03-01, from: The Register (UK I.T. News)
-
-<h4>Free speech org criticized constitution and made hard-to-sustain accusations of possible censorship</h4> <p>Membership of InternetNZ, the administrator of New Zealand&#39;s .NZ country code top-level domain, has more than tripled in a week after the org&#39;s review of its constitution was criticized by a free speech advocacy organization.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/01/internetnz_constitution/>
 

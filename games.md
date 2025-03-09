@@ -1,11 +1,155 @@
 ---
 title: games
-updated: 2025-03-08 07:07:29
+updated: 2025-03-09 07:07:01
 ---
 
 # games
 
-(date: 2025-03-08 07:07:29)
+(date: 2025-03-09 07:07:01)
+
+---
+
+## Mickey 17 belongs to a particularly weird subgenre: doppelgänger movies
+
+date: 2025-03-09, updated: 2025-03-07, from: Polygon Website
+
+Bong Joon Ho’s latest movie, Mickey 17, is a lot of things. It’s a story about work, cloning, colonization, inequality, first contact, and the evils of capitalism. It’s a satire, a slapstick comedy, and a sci-fi epic. It also belongs to one of the rarest and strangest subgenres of film: doppelgänger movies. Robert Pattinson plays [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/536021/mickey-17-doppelganger-movies>
+
+---
+
+## 3 things game creators can learn from the Balatro dev’s diary
+
+date: 2025-03-09, updated: 2025-03-07, from: Polygon Website
+
+Developer LocalThunk, the anonymous individual who made Balatro, recently published an extensive breakdown of how they made the game. The post, which details all the milestones involved with launching the indie game, goes deep on personal experiences, from self-doubt and disbelief at his success to serious health concerns and anxiety attacks. It’s also about the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/536336/balatro-developer-diary-lessons-creativity>
+
+---
+
+## You already missed the best supernatural murder mystery of the year
+
+date: 2025-03-09, updated: 2025-03-07, from: Polygon Website
+
+The perfect murder mystery is a rare thing to come by these days. Procedurals are a dime a dozen, of course; for FBI agents alone there’s a whole universe. But the art of a murder mystery is something more specific. Plenty of episodic procedurals borrow the idea and contain each investigation to a single episode; [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/536225/school-spirits-watch-it-good-murder-mystery>
+
+---
+
+## The coolest game developer ever put to film appears in a very unexpected movie
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+Game developers get pretty short shrift on screen, mostly by not being represented at all. Filmmakers generally love to make movies about driven, uncompromising artists just like themselves, but for some reason — probably either snobbery, fear, or lack of understanding — they don’t often choose people who make video games as subjects. On the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/535933/yi-yi-ota-game-developer-movies>
+
+---
+
+## Who said it, Daredevil’s Wilson Fisk or actual NYC mayor Eric Adams? 
+
+date: 2025-03-08, updated: 2025-03-08, from: Polygon Website
+
+I’m both a lifelong superhero fan and a born and bred New Yorker, which means that as this week’s Daredevil: Born Again rolled out its version of Wilson “The Kingpin” Fisk’s rise to the office of mayor of New York City, I wasn’t thinking about what this would mean for Matt Murdock. Instead, I was [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/535591/daredevil-kingpin-mayor-wilson-fisk-eric-adams-born-again>
+
+---
+
+## Discover more than a dozen game consoles you never knew about
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+History is told by the winners, the saying goes, and that’s certainly been true with English-language coverage of the video game industry. Want coverage of the NES and PlayStation? That’s easy to find. Want coverage of the Zemmix and Dendy? Were you even aware they existed? Lewis Packwood’s book Curious Video Game Machines was written [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/535455/curious-video-game-machines-book-interview>
+
+---
+
+## Sorry We’re Closed is a stylish, sexy survival horror surprise
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+I had no idea what I was getting into when I jumped into the world of Sorry We’re Closed, a narrative-driven survival horror adventure that pairs the grime and decay of Silent Hill with the stylish, sexed-up demons of Persona games. But the artists behind Sorry We’re Closed have managed to remix some of my [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/535708/sorry-were-closed-impressions-survival-horror>
+
+---
+
+## The best thrillers to watch on Netflix this March
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+Spring is nearly here, and that means Netflix has mixed up its library with plenty of new movies for you to discover. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they pair well with an upcoming release. Other titles might be new additions to the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/535079/best-thriller-movies-netflix-watch-march-2025>
+
+---
+
+## Pokémon Go Fuecoco Community Day guide
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+Pokémon Go is having a Fuecoco Community Day event on Saturday, March 8, from 2-5 p.m. in your local time. As expected with a Community Day event, Fuecoco will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve listed out below. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/534548/fuecoco-community-day-shiny-skeledirge-moveset>
+
+---
+
+## Gigantamax Charizard counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
+
+Gigantamax Charizard was one of the first Gigantamax Pokémon to show up in Pokémon Go, alongside its fellow Kanto starters, Blastoise and Venusaur. The first time around, Charizard was pretty hard to beat, but now there are a few more Dynamax Pokémon that can help you take it down when it returns on March 8 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/535385/gigantamax-charizard-counters-weakness-tips>
+
+---
+
+## Gigantamax Blastoise counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
+
+Gigantamax Blastoise was one of the first Gigantamax Pokémon in Pokémon Go, alongside its fellow Kanto starters, Charizard and Venusaur. While pretty difficult to take on at first, its reappearance in Max Battles on March 8 and 9 should be accessible to more players — so long as you’ve been catching some Dynamax Pokémon here [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/535489/gigantamax-blastoise-counters-weakness-tips>
+
+---
+
+## Gigantamax Venusaur counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
+
+Gigantamax Venusaur was one of the first Gigantamax Pokémon to debut in Pokémon Go, along its Kanto starter cousins, Blastoise and Charizard. At its initial launch, it was tough to grab one; players didn’t have strategies or strong counters ready. However, the plant-toad is making a return to the game on March 8 and 9, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/535219/gigantamax-venusaur-weakness-counters-tips>
 
 ---
 
@@ -630,148 +774,4 @@ Auto-crafting in Monster Hunter Wilds automatically creates items as you collect
 <br> 
 
 <https://www.polygon.com/monster-hunter-wilds-guide/525607/auto-crafting-how-to-turn-off>
-
----
-
-## Magic: The Gathering reveals new Spider-Man set, and you can pre-order now
-
-date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
-
-At Toy Fair 2025, Wizards of the Coast debuted a Magic: The Gathering expansion that, frankly, I’m surprised didn’t already exist. Marvel’s Spider-Man is the latest collaboration to get the MTG treatment, with several products coming out on Sept. 26. That’s quite a ways out, but Amazon is already serving up pre-order links for a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pre-order/532629/magic-the-gathering-spider-man-mtg-play-collectors-boosters-pre-order-bundle>
-
----
-
-## Switch 2 may look conservative, but Nintendo still has space to get wildly creative
-
-date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
-
-This story was first published in Switchboard, a newsletter from Polygon that delivers all the latest Switch 2 news, reporting, and rumors directly to your inbox. Sign up here to get it weekly. In the lead-up to Nintendo’s reveal of the Switch 2 in January, some game writers fretted that the company behind the Game Boy, Wii, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/nintendo-switch-2/532080/nintendo-switch-2-weird>
-
----
-
-## The best movies new to streaming this March
-
-date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
-
-February is finally behind us, and with it, the year marches onward with a new slate of exciting movie releases to look forward to. We’ve got Bong Joon-ho’s satirical sci-fi thriller Mickey 17 starring Robert Pattinson, Steven Soderbergh’s spy thriller Black Bag starring Cate Blanchett and Michael Fassbender, the monster horror film Death of a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/529739/best-new-movies-netflix-amazon-prime-max-hulu-march-2025>
-
----
-
-## The most anticipated games coming out in spring 2025
-
-date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
-
-The good video games train isn’t stopping anytime soon. Even though 2025 has already given us Avowed, Kingdom Come: Deliverance 2, Civilization 7, Monster Hunter Wilds, Like a Dragon: Pirate Yakuza in Hawaii, and Citizen Sleeper 2: Starward Vector, there are a bunch more highly anticipated games coming out in the next few months alone. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/529898/most-anticipated-games-spring-2025-preview>
-
----
-
-## Best design codes and how to enter design codes in Monster Hunter Wilds
-
-date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
-
-Design codes in Monster Hunter Wilds allow you to load pre-made designs for your hunter during the character creator, formally called the “character editor.” It’s perfect for people like me — who can’t design a character to save my life — or for those who want to load a different kind of template character to [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/monster-hunter-wilds-guide/530854/character-creator-editor-codes-how-to-enter-create>
-
----
-
-## Bluey makes her Lego debut at Toy Fair
-
-date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
-
-A brand new lineup of five Bluey Lego sets, inspired by everyone’s favorite precocious Blue Heeler and her family, are set to arrive on June 1. While the collaboration with Bluey was teased back in January, Lego officially unveiled the entire lineup at this year’s Toy Fair, which includes three traditional Lego sets, and a [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/news/531810/lego-bluey-set-where-to-buy-toy-fair>
-
----
-
-## Lego will assemble the Avengers for their Endgame battle
-
-date: 2025-03-01, updated: 2025-02-27, from: Polygon Website
-
-Lego’s next set inspired by the Marvel franchise pays homage to the final battle of Avengers: Endgame. The $99.99 set will be available starting May 1 and is a dynamic display that assembles all of the Avenger’s heavy hitters in a climactic showdown with Thanos. Announced at the 2025 Toy Fair, the 621-piece diorama set [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/news/530915/lego-marvel-avengers-endgame-toy-fair-where-to-buy>
-
----
-
-## Best secondary weapon combos in Monster Hunter Wilds
-
-date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
-
-Monster Hunter Wilds allows hunters to equip a combo of primary and secondary weapons, opening up the possibilities for new and varied tactics in the middle of a hunt without having to retreat to camp. While you&#8217;re free to mix and match from the 14 different weapon types — once you’ve got your head around [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/monster-hunter-wilds-guide/528919/best-weapon-combos-primary-secondary>
-
----
-
-## Best beginner weapon in Monster Hunter Wilds
-
-date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
-
-Figuring out the best beginner weapon to start with in Monster Hunter Wilds can be daunting, especially when there are 14 weapon types to choose from. Though you’re asked some questions early on as a way to help you discover your preferred playstyle, these don’t exactly factor into each weapon’s ease of use. To help, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/monster-hunter-wilds-guide/528911/best-weapons-beginners-new-players>
-
----
-
-## Seikrets tips, hidden controls, and abilities in Monster Hunter Wilds
-
-date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
-
-The resplendent plumage of a Seikret is one of the first sights during your adventure in Monster Hunter Wilds. These are giant bipedal bird-like creatures that serve as your mount in the game. These wyverns are like a jack of all trades, as far as adventuring goes. They can dash across the land, climb up vined [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/monster-hunter-wilds-guide/528147/seikret-tips-tricks-autopilot>
-
----
-
-## Every movie and show coming to Netflix in March
-
-date: 2025-03-01, updated: 2025-02-28, from: Polygon Website
-
-Even with Netflix’s recommendation algorithm serving you new movies, new TV shows, and original programming tailored to your viewing habits, the streaming service’s fire hose of content makes what’s coming difficult to parse. We’re here to help. This month, we get Meghan Markle’s show, along with a John Mulaney live event. It’s celebrities all the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/movies/530373/https-www-polygon-com-movies-517440-new-on-netflix-march-2025-movies-tv-to-watch>
-
----
-
-## Pokémon Go Tour Unova event habitat spawns and bonuses
-
-date: 2025-03-01, updated: 2025-03-01, from: Polygon Website
-
-Go Tour: Unova has a set of rotating habitat spawns and bonuses across the weekend of aturday, March 1 and Sunday, March 2 in Pokémon Go As the name implies, the event focuses on the Unova region, including tie-in references specifically to the mainline games, Pokémon Black and White (and Black 2 and White 2, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/529977/go-tour-unova-habitat-schedule-spawns-bonuses>
 

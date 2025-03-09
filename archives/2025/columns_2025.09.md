@@ -1,11 +1,382 @@
 ---
 title: columns
-updated: 2025-03-08 07:07:28
+updated: 2025-03-09 07:07:00
 ---
 
 # columns
 
-(date: 2025-03-08 07:07:28)
+(date: 2025-03-09 07:07:00)
+
+---
+
+## 2025-03-09 The looming Discord IPO
+
+date: 2025-03-09, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-09-the-looming-discord-ipo">2025-03-09 The looming Discord IPO</h1>
+
+<p>So&hellip; Discord might be going there. I like their offering. I even pay them about $10/month.
+What they offer works well.
+People get their own little communities to administer, with the tools to administer them well, with the self-written automations and bots to handle communities from a handful of people to many thousands.
+Read <a class="account" href="https://infosec.exchange/@isotopp" title="@isotopp@infosec.exchange">@isotopp</a>’s <a href="https://infosec.exchange/@isotopp/114116202418228034">perspective on Discord</a>.</p>
+
+<p>But the monetization drive is strong.
+And once the shareholders are in place, pressure for monetization will ramp up even more, I&rsquo;m sure. How long until it all goes down? Five years?</p>
+
+<p>What are your backup plans?</p>
+
+<p><a href="https://campaignwiki.org/wiki/Chat">My backup plan</a> is an IRC backend (<a href="https://ngircd.barton.de/">ngircd</a> uses about 5M of memory) and two instances of a web front-end called <a href="https://thelounge.chat/">The Lounge</a>. One of them is free for all and connects to my chat server; the other needs registration and offers file uploads and always-on connectivity (it acts as a &ldquo;bouncer&rdquo;). The two of them take about 150M of memory. Each registered account gets a little SQLite file with the logs. No other resources required.</p>
+
+<p>You can connect to the IRC backend directly using your favourite IRC client, of course. Emacs comes with two of them. Just saying. 😄</p>
+
+<p>For iOS, there&rsquo;s <a href="https://colloquy.app/">Colloquy</a>.</p>
+
+<p>For Android, <a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> suggests <a href="https://f-droid.org/packages/io.mrarm.irc/">Revolution IRC</a>.</p>
+
+<p><a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> suggested <a href="https://snikket.org/service/quickstart/">Snikket</a> instead. Installation requires a Docker image.</p>
+
+<p>I dislike Docker, not because of what it is but because of what it implies. A virtual machine inside your virtual machine means that it doesn&rsquo;t auto-update. Upgrading will be tricky. It also means that deployment is tricky and requires multiple services such that it ended up being easier to supply a Docker image instead of good instructions. It&rsquo;s too brittle, is my guess.</p>
+
+<p>Generally speaking I dislike Docker images for my virtual server server (6G memory, 75g storage, 2 cores). Frugal computing means that I am loath to upgrade.</p>
+
+<p><a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> also suggested <a href="https://app.revolt.chat/">Revolt</a>.
+<a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> created a <a href="https://rvlt.gg/wkBDhJPb">Grenzland Server on Revolt</a>.
+<a class="account" href="https://social.city-of-glass.net/users/cidney" title="@cidney@social.city-of-glass.net">@cidney</a> noted that it had Discord-like roles and role management for the server owner to hand out, so perhaps it&rsquo;s quite a suitable replacement.
+Revolt can be self-hosted via Docker or self-building. At least there is a lot of info out there.
+<a class="account" href="https://social.city-of-glass.net/users/cidney" title="@cidney@social.city-of-glass.net">@cidney</a> also found a wiki pages listing only four known instances including the default one, the largest being Andrew Tate&rsquo;s. 🤮</p>
+
+<p><a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> wanted to give Matrix another spin.
+There are two server implementations, Synapse and Dendrite.</p>
+
+<blockquote>
+<p>At an absolute minimum, Dendrite will expect 1GB RAM. For a comfortable day-to-day deployment which can participate in federated rooms for a number of local users, be prepared to assign 2-4 CPU cores and 8GB RAM — more if your user count increases. &ndash; <a href="https://element-hq.github.io/dendrite/installation/planning">Planning your installation</a></p>
+</blockquote>
+
+<p><a class="account" href="https://tabletop.social/users/kyonshi" title="@kyonshi@tabletop.social">@kyonshi</a> suggested <a href="https://jitsi.org/">Jitsi</a>.
+I tried to self-host it a few years ago.
+It worked well! But it also took a lot of resource. During the video call, the virtual machine&rsquo;s <a href="2020-03-26_Jitsi_and_the_CPU">load went up to 8</a>.
+We sometimes use the installation at the <a href="https://ffmuc.net/">Freifunk München</a> for gaming.
+Thanks, ffmuc! 😍</p>
+
+<p>So, where does that leave is? I don&rsquo;t know. People don&rsquo;t seem to like The Lounge with IRC backend and I seem to be unwilling to upgrade my hosting commitments.</p>
+
+<p><a class="account" href="https://hackers.town/@mc" title="@mc@hackers.town">@mc</a> recently recommended a different IRC server called <a href="https://ergo.chat/about">Ergo</a> and a different web front-end called <a href="https://codeberg.org/emersion/gamja">Gamja</a> but it&rsquo;s unclear to me what significant advantages either would offer.</p>
+
+<p>Previously:</p>
+
+<blockquote>
+<p>So… the situation is bad, but I still use Discord. &ndash; <a href="2022-08-16_Discord">Discord</a> (2022)</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Snikket">#Snikket</a> <a class="tag" href="/search/?q=%23Discord">#Discord</a> <a class="tag" href="/search/?q=%23Revolt">#Revolt</a> <a class="tag" href="/search/?q=%23Matrix">#Matrix</a> <a class="tag" href="/search/?q=%23Jitsi">#Jitsi</a> <a class="tag" href="/search/?q=%23IRC">#IRC</a> <a class="tag" href="/search/?q=%23Chat">#Chat</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-09-discord-ipo>
+
+---
+
+## ‘Oh Freedom’
+
+date: 2025-03-09, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/oh-freedom>
+
+---
+
+## Taking heart
+
+date: 2025-03-09, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/taking-heart>
+
+---
+
+## March 8, 2025
+
+date: 2025-03-09, from: Heather Cox Richardson blog
+
+Yesterday, Treasury Secretary Scott Bessent made it clear that the Trump administration&#8217;s goal is to slash the federal government and to privatize its current services. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-8-2025>
+
+---
+
+## The Talk Show: ‘Putting a Stink on the Letter X’
+
+date: 2025-03-09, updated: 2025-03-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/thetalkshow/2025/03/08/ep-418>
+
+---
+
+## Broccoli, the Man — and Vegetable — Behind the Bond Franchise
+
+date: 2025-03-09, updated: 2025-03-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.latimes.com/archives/la-xpm-1989-07-09-ca-5205-story.html>
+
+---
+
+## Yours Truly on The Vergecast, on the Cinematic Future of James Bond Under Amazon’s Stewardship
+
+date: 2025-03-09, updated: 2025-03-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/the-vergecast/623633/james-bond-amazon-framework-laptop-desktop-vergecast>
+
+---
+
+## Skype got shouted down by Teams. But it gave us free telephony
+
+date: 2025-03-09, from: John Naughton's online diary
+
+Today’s Observer column The design of Arpanet’s successor, the internet we use today, started in the early 1970s and it was first switched on in January 1983. The designers of the network were, from the outset, determined to avoid the &#8230; <a href="https://memex.naughtons.org/skype-got-shouted-down-by-teams-but-it-gave-us-free-telephony/40517/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/skype-got-shouted-down-by-teams-but-it-gave-us-free-telephony/40517/>
+
+---
+
+## Simon Willison on the Privacy/Security Risks of Personalized Siri, vis-à-vis Prompt Injection
+
+date: 2025-03-08, updated: 2025-03-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/8/delaying-personalized-siri/>
+
+---
+
+## Apple Pulls Bella Ramsey Ad That Promoted Vaporware Personalized Siri Feature
+
+date: 2025-03-08, updated: 2025-03-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/03/07/apple-pulls-ad-that-showed-siri-being-useful-after-delaying-feature-that-could-make-siri-useful/>
+
+---
+
+## March 7, 2025
+
+date: 2025-03-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158663199/e5b767c482af3fe50cbb191d49846440.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158663199/e5b767c482af3fe50cbb191d49846440.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-7-2025-06b>
+
+---
+
+## Loose Links
+
+date: 2025-03-08, from: Doc Searls (at Harvard), New Old Blog
+
+The big and scary news about the deaths of Gene Hackman and his wife, Betsy Arakawa, is that she died first, and suddenly, of hantavirus, which kills up to half the people it infects—often quickly.  It&#8217;s bad shit—or from bad shit: from rodents. Hackman, who had advanced Alzheimer&#8217;s, died later of his wife&#8217;s absent care. Their poor dog died [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/08/loose-links-4/>
+
+---
+
+## Kopi: Track Your Coffee Brewing & Consumption
+
+date: 2025-03-08, from: mrusme blog
+
+Kopi is a command-line (CLI) coffee journal (or _habit tracker_) designed for
+coffee enthusiasts. It lets you track coffee beans, equipment usage, brewing
+methods, and individual cups. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/kopi-track-your-coffee-brewing-consumption/>
+
+---
+
+## Talking Right
+
+date: 2025-03-08, from: Doc Searls (at Harvard), New Old Blog
+
+Great speech by David Brooks at a recent ARC conference in London. I read here that he was booed and heckled, but in the video one only sees smiles, warmth, and occasional laughs (e.g. to &#8220;At Chicago I had a double major in history and celibacy&#8221;). It&#8217;s a short, deep, and caring talk that comes from [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/08/talking-right/>
+
+---
+
+## Bookings
+
+date: 2025-03-08, from: Doc Searls (at Harvard), New Old Blog
+
+Even in a small city such as Bloomington, one can make fun discoveries all the time. Yesterday, for example, I discovered Redbud Books, which had a table set up to sell books from Cory Doctorow&#39;s increasingly vast oeuvre while the man himself spoke to a packed classroom in the Media School here at Indiana University. He&#39;ll [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/08/bookings/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-08, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2018/10/04/gumby.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Praise from David, author of <a href="https://www.amazon.com/Small-Pieces-Loosely-Joined-Unified/dp/0738205435">Small Pieces Loosely Joined</a> and co-author of <a href="https://www.amazon.com/Cluetrain-Manifesto-End-Business-Usual/dp/0738204315">Cluetrain Manifesto</a>, is the best. He picked up <a href="https://wordland.social/">WordLand</a> overnight, and he loves it, for the right reasons. WordLand is an editor for "small pieces," maybe the first. Most of the really easy editors have been stuck in silos and thus are dead-ends. I'm sure the people who designed them wished they weren't locked up, but they had to work for billionaires-to-be, I don't. I called the locked-up editors <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a>. I created an editor that starts out slightly larger than the TLTBs, and grows as your idea grows. So David opened up <a href="https://wordland.social/">WordLand</a> and started typing. And it turned into a <a href="https://www.hyperorg.com/blogger/2025/03/08/trying-out-wordland-for-blogging/">normal sized blog post</a>. It flowed right into it. And unlike the TLTB's in twitter-like worlds, those bits live on the open web, and can use all the features of the web, and are fed out to software networks via <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>, which is a lot simpler than other protocols. It can grow faster because there already is a huge installed base of software and knowledge for RSS. Imho developers should <a href="https://this.how/standards/">build on existing standards</a>, not try to replace them. They might be more <a href="https://isrssdead.com/">alive</a> than you think (or more accurately, wish). 
+
+<br> 
+
+<http://scripting.com/2025/03/08.html#a151455>
+
+---
+
+## Ural Notes Part 5: Winter Improvements
+
+date: 2025-03-08, updated: 2025-03-08, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/03/08/ural-notes-part-5-winter-improvements/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-08, from: Dave Winer's Scripting News)
+
+<a href="https://www.hyperorg.com/blogger/2025/03/08/trying-out-wordland-for-blogging/">David Weinberger on WordLand</a>. "It's a web page that clears out all of WordPress's cruft and gives you an interface  that's so simple that it's actually enjoyable." 
+
+<br> 
+
+<http://scripting.com/2025/03/08.html#a145743>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-08, from: Dave Winer's Scripting News)
+
+I updated the <a href="https://this.how/wordland/#1734985792000">screen shot</a> on the WordLand <a href="https://this.how/wordland/">docs page</a>. It was really out of date. <a href="https://wordland.social/">WordLand</a> is the best editor for people to write in WordPress. I've been developing it over the last couple of years. I wanted to get a really nice editor into this slot. I felt WordPress deserved one. It's designed to feel like the editor in twitter-like services, but without the limits. I've been writing about this <a href="https://daytona.scripting.com/search?q=textcasting">on my blog</a>, while I was doing that, I was developing WordLand in the background. We have ignored the needs of writers for too long. It's time to remove the limits. People believed the formula Twitter arrived at was the right one. It is far too limited for writers. WordLand is the answer, in software. 
+
+<br> 
+
+<http://scripting.com/2025/03/08.html#a144727>
+
+---
+
+## Pancake Day
+
+date: 2025-03-08, from: Jessica Smith's blog
+
+<p>Earlier this week, I took Indie on her first trip into the Melbourne <abbr title="Central Business District">CBD</abbr>. Viv&rsquo;s office was celebrating Pancake Day, and Viv thought it was the perfect excuse to bring Indie in an introduce her to everybody! So I did, and <a href="https://www.jayeless.net/2025/03/04.html" title="link to my statuses from 4 March 2025">it went fine</a>.</p>
+<p>Pancake Day, though. When Viv first told me his office was doing this, my reaction was, &ldquo;Oh… is that a French thing?&rdquo; Because my high school used to do an annual Pancake Day too (or, well, for us it was &ldquo;Crêpe Day&rdquo;), and I thought that used to be in March too, and for us it was <em>definitely</em> a French thing. They used to get a Real-Life French Guy™ in to make the crêpes, and if you were unfortunate enough to be in the French class like I was, you were under strict instructions to order <em>in French</em>, and the French teacher would hover around the crêpe table like a hawk to make sure his students actually did it. At least we got tasty crêpes out of it to eat, I guess. It did seem a <em>bit</em> unfair that the Chinese students <em>also</em> got to eat crêpes <em>without</em> the hassle of ordering in French, but such is life.</p>
+<p>So anyway, I explained this to Viv, but his answer? He didn&rsquo;t know if it was a French thing. OK, very helpful.</p>
+<p>But then! On the day, I posted on Mastodon, and <a href="https://miraz.me/">Miraz<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> kindly enlightened me as to the origins of &ldquo;Pancake Day&rdquo;, or as it&rsquo;s also known, &ldquo;Shrove Tuesday&rdquo;… the day exactly 47 days before Easter Sunday, or the last day before Lent. This gave me enough information to look it up, and as such I found out that it is <em>also</em> a French thing, and in that language it is called… Mardi Gras! Of course, in Australia we had our Mardi Gras last Saturday, but uhhh, ours is very different (and seems to never actually have been held on a Tuesday; Wikipedia claims queer activists named it that because &ldquo;the term <i>Mardi Gras</i> had become synonymous with street festivals&rdquo;, so there you go). Nonetheless, I suppose this explains why the Sydney Gay &amp; Lesbian Mardi Gras is always (excluding the first three) held at around that time of year – proximity to the pancake version! All the puzzle pieces fall into place.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/03/pancake-day.html>
+
+---
+
+## Stuff a Pi-hole in your router because your browser is about to betray you
+
+date: 2025-03-08, updated: 2025-03-08, from: Liam Proven's articles at the Register
+
+<h4>Mozilla sells ads, Google limits blocking them – it&#39;s time for stricter measures</h4>
+      <p>A new, lightweight version of Pi-Hole is here. Just how easy is it to block advertising on your home network?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/08/pi_hole_6_flyby/>
+
+---
+
+## The End of the Trump Honeymoon | Coffee Klatch for March 8, 2025
+
+date: 2025-03-08, from: Robert Reich's blog
+
+With Michael Lahanas-Calder&#243;n and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158607538/4281f2efbc2ecf16a0134489c8818ee6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158607538/4281f2efbc2ecf16a0134489c8818ee6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-end-the-trump-honeymoon-coffee>
+
+---
+
+## March 7, 2025 
+
+date: 2025-03-08, from: Heather Cox Richardson blog
+
+Black Americans outnumbered white Americans among the 29,500 people who lived in Selma, Alabama, in the 1960s, but the city&#8217;s voting rolls were 99% white. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-7-2025>
+
+---
+
+## Weeknotes: March 1-7, 2025
+
+date: 2025-03-08, from: Tracy Durnell Blog
+
+The coup and the ravaging destruction of our government and the world order is getting to me&#8230; I&#8217;m antsy, so concentrating on reading a book is hard, and I&#8217;m noticing all these little signs of stress popping up in my body, like a canker sore and eczema flare-ups. What an annoyance on top of all [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/07/weeknotes-march-1-7-2025/>
+
+---
+
+## POWER9 OS update and other news
+
+date: 2025-03-08, from: Jirka's blog
+
+I finally have upgraded my POWER9 workstation. I was running the Fedora  {sup}1{/sup} 38 for  years and it was  already unsupported. So some  weeks ago I upgraded to 39. Today  I have upgraded to 40. The current  one is 41 so it isn't that bad as it was two months ago. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250308-0452_POWER9_OS_update_and_other_news>
+
+---
+
+## Fedora 41
+
+date: 2025-03-08, from: Jirka's blog
+
+Just a  short note:  the Fedora  41 for  ppc64le is  now running  on my Blackbird (my  POWER9 machine)! I'm  still using  X.org here so  no big changes actually happened so far. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250308-0452_Fedora_41>
 
 ---
 
@@ -440,7 +811,7 @@ Doc Searls wrote this <a href="https://doc.searls.com/2025/03/06/radios-death-kn
 
 date: 2025-03-07, from: Doc Searls (at Harvard), New Old Blog
 
-The radio station known since 1935 as KSFO, &#8220;The Sound of the City,&#8221; was a landmark at 560 on the Bay Area radio dial for most of the last century.  Other landmarks were KGO/810, KCBS/740, KFRC/610, and KNBR/680. KFRC went away in 2005, as religious programming moved to AM from 106.9, and KCBS added that [&#8230;] 
+The radio station known since 1935 as KSFO, &#8220;The Sound of the City,&#8221; was a landmark at 560 on the Bay Area radio dial for most of the last century.  Other landmarks were KGO/810, KCBS/740, KFRC/610, and KNBR/680. KFRC went away in 2005, as religious programming moved to AM from 106.9 FM, and KCBS added [&#8230;] 
 
 <br> 
 
@@ -2233,313 +2604,4 @@ Today&#8217;s Observer column: Extreme wealth has always played a role in democr
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/114089967601025619>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-03-01, from: Miguel de Icaza Mastondon feed)
-
-<p>Remembering Barbara Lynch’s Sportello bolognese</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114089700744463369>
-
----
-
-##  Trump Betrays Ukraine in White House Ambush of Zelenskyy 
-
-date: 2025-03-01, updated: 2025-03-01, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/03/trump-betrays-ukraine-in-white-house-ambush-of-zelenskyy>
-
----
-
-## ★ Why Can’t We Screenshot Frames From DRM-Protected Video on Apple Devices?
-
-date: 2025-03-01, updated: 2025-03-01, from: Daring Fireball
-
-This “feature” accomplishes nothing of value for anyone, including the streaming services, but imposes a massive (and for most people, confusing and frustrating) hindrance on honest people simply trying to easily capture high-quality (as opposed to, say, using their damn phone to take a photograph of their reflective laptop display) screenshots of the shows and movies they’re watching. 
-
-<br> 
-
-<https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video>
-
----
-
-## Matthew Green: ‘Dear Apple: Add “Disappearing Messages” to iMessage Right Now’
-
-date: 2025-03-01, updated: 2025-03-02, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://blog.cryptographyengineering.com/2025/03/01/dear-apple-add-disappearing-messages-to-imessage-right-now/>
-
----
-
-## One America Together
-
-date: 2025-03-01, from: Dave Winer's Scripting News
-
-<p><a href="https://en.wikipedia.org/wiki/Alexandria_Ocasio-Cortez">AOC</a> asked for ideas of what to do for the SOTU.</p>
-<p>I suggested we come up with a new slogan. Like this.</p>
-<ul>
-<li><i>One America Together.</i></li>
-</ul>
-<p>Make hats, purple — enough for everyone, including the Repubs. </p>
-<p>During applause, Dems rise and chant “One America Together.”</p>
-<p>What do you think?</p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/01/wordleKittyForAmerica.png"></center>Wordle Kitty throwing out the first pitch of the baseball season. </div></p>
- 
-
-<br> 
-
-<http://scripting.com/2025/03/01/185654.html?title=oneAmericaTogether>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
-
-The <a href="https://github.com/scripting/wordlandSupport/issues/49#issuecomment-2692351817">tab key</a> now switches between the main editor and title editor in <a href="https://wordland.social/">WordLand</a>. Still a little work to do there. 
-
-<br> 
-
-<http://scripting.com/2025/03/01.html#a182554>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
-
-These days I read <a href="https://snyder.substack.com/p/the-war-trump-chooses">Timothy Snyder's essays</a> as soon as they come in. 
-
-<br> 
-
-<http://scripting.com/2025/03/01.html#a182351>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-01, from: Dave Winer's Scripting News)
-
-New month. Last month's <a href="https://github.com/scripting/Scripting-News/blob/master/blog/opml/2025/02.opml">source code</a> archived. Onward! <span class="spOldSchoolEmoji">😄</span> 
-
-<br> 
-
-<http://scripting.com/2025/03/01.html#a182122>
-
----
-
-## I don't like sand
-
-date: 2025-03-01, from: Dave Rupert blog
-
-<p>Happened upon a good example of the problem with AI generated <code>alt</code> text. It’s a gif of the infamous scene from Star Wars Episode II where Hayden Christensen playing Anakin Skywalker tells Natalie Portman’s character Queen Amadala, “I don’t like sand.” It’s the first phrase in the worst lines of dialogue in cinematic history. And here’s how the computer interpreted the gif…</p>
-<p><img src="https://cdn.daverupert.com/posts/2025/sand.jpg" alt="Screenshot of the image upload interface of Bluesky that autocompletes alt-text. As described in the post there’s a gif from Star Wars Episode II where Anakin tells Queen Amadala “I don’t like sand”, but the alt text says “a man and a woman are sitting next to each other and the woman is saying I don’t like sand”" /></p>
-<p>The AI said “a man and a woman are sitting next to each other and the woman is saying I don’t like sand.” Not only does this miss the context that it’s from the world famous movie Star Wars, it gets the speaker entirely wrong. It OCR’d the text fine, but missed relaying the entire context.</p>
-<p>Context. That’s what <code>alt</code> text is. I’d hypothesize that <em>context</em> is probably one of the biggest reasons why language evolved. A caveman could yell “AHHH!H” to alert others of dangers, but I imagine after a couple rounds of those others would begin asking, “Ok, Grog, I understand you think there’s an AHHH!H out there, but what <em>kiiiiiiind</em> of AHHH!H?”</p>
-<p>My ears are starting to perk up when I hear the word context. I hear all the time that “<em>You have to give the AI more context and it will give you a better answer.”</em> AI has a lot of vectorized text and image processing nodes, but it’s short on context I guess. Will AI one day have every frame of the expensive-to-license Star Wars franchise indexed in its brain like I do? Or are we the gatherers and keepers of context? Does our capacity for empathy (which allows us to project and inhabit other contexts we don’t necessary have) set humans apart?</p>
-<p>I hate to leave on such an open-ended question, but I think we can all agree… that woman doesn’t like sand.</p> 
-
-<br> 
-
-<https://daverupert.com/2025/03/i-don-t-like-sand/>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-03-01, from: Miguel de Icaza Mastondon feed)
-
-<p>We are going on vacation to Japan, and I want to optimize for the kids having fun (so they want to go again).</p><p>If you have ideas for kid-centric activities to do, please let me know!</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114088417157301321>
-
----
-
-## The only way to know for sure... is to build a prototype
-
-date: 2025-03-01, from: Dave Rupert blog
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0m60QbT85Tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>I’ve mentioned Mark Brown’s channel Game Makers Tool Kit <a href="https://daverupert.com/2018/10/how-mega-man-11-s-levels-do-more-with-less-game-maker-s-toolkit/">many</a> <a href="https://daverupert.com/2020/09/follow-the-fun/">times</a> <a href="https://daverupert.com/2021/10/the-mistake-every-new-game-developer-makes/">before</a>. Well, I’m back with another banger about “<a href="https://www.youtube.com/?v=0m60QbT85Tc">How to find amazing game ideas</a>”. The whole video is great but I specifically want to highlight something Mark said during the last ten seconds of the video as the credits and video thumbnails started to roll…</p>
-<blockquote>
-<p>And then the final question to answer is… is the game idea actually fun? Because the truth is… our brains are terrible video game simulators. Almost every idea seems fun in our heads. But once we actually make it we’ll realise  that it’s boring, that it’s too complicated, and that it has disastrous  unforeseen design problems. So the only way to know for sure… is to build a prototype.</p>
-</blockquote>
-<p>The answer again –and I cannot stress this enough– is prototypes.</p>
-<p>“Our brains are terrible video game simulators.” Woof. This is a powerful sentiment and I regularly encounter this. I feel this is true with websites as well. I can make the best fantasy website – so beautiful, so perfect in pixels, so incredibly evocative people will throw their wallets at me – but if I haven’t put prototypes into people’s hands, I’m introducing a huge amount of risk.</p>
-<p>That’s all. Prototypes. I think the rest of the video applies to where you can find ideas for amazing websites:</p>
-<ul>
-<li>Other websites - <del>Stealing</del> Borrowing good UX is a great start for an idea</li>
-<li>Genres - Follow the rules or offering an interesting twist on an existing genre (like ecommerce)</li>
-<li>Mechanics - Adding interesting iteractions or gimmicks can add distinction</li>
-<li>Experience - Go hard on experience and ambiance!</li>
-</ul>
-<p>Mark also raises some important questions at the end and I wanted to highlight two of those because I think they’re important.</p>
-<ul>
-<li>“Can you make it?” - Be honest with yourself, do you in your personal capacity have the capability to deliver the idea? I often succumb to making ideas in my head that are so big and complex that it becomes impossible to build and maintain.</li>
-<li>“Will it stand out?” - In the sea of websites or podcast people come across each day, will it be unique or will it join the cacophony?<sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></li>
-</ul>
-<p>And wouldn’t you know it, those are the types of questions that prototypes help to answer.</p>
-<section class="footnotes">
-<ol>
-<li id="fn1">
-<p>Personal websites are exempt from this question. I think “It won’t stand out” is one reason people avoid making one. The world (more than ever) needs your unique perspective. Don’t let uniqueness be a reason <em>not to try</em> and make something. Get to the first checkpoint, make your idea, get the first draft in people’s hands. Then over time find what makes your idea unique and breakaway from the default template. <a href="#fnref1" class="footnote-backref">↩</a></p>
-</li>
-</ol>
-</section> 
-
-<br> 
-
-<https://daverupert.com/2025/03/the-only-way-to-know-for-sure-is-to-build-a-prototype/>
-
----
-
-## My cookie spec problem
-
-date: 2025-03-01, from: Daniel Stenberg Blog
-
-Before RFC 6265 was published in 2011, the world of cookies was a combination of anarchy and guesswork because the only &#8220;spec&#8221; there was was not actually a spec but just a brief text lacking a lot of details. RFC 6265 brought order to a world of chaos. It was good. It made things a &#8230; <a href="https://daniel.haxx.se/blog/2025/03/01/my-cookie-spec-problem/" class="more-link">Continue reading <span class="screen-reader-text">My cookie spec problem</span> <span class="meta-nav">&#8594;</span></a> 
-
-<br> 
-
-<https://daniel.haxx.se/blog/2025/03/01/my-cookie-spec-problem/>
-
----
-
-## Total News
-
-date: 2025-03-01, from: Doc Searls (at Harvard), New Old Blog
-
-27th in the News Commons series Nearly everything I&#8217;ve been writing in the News Commons series has come out of breakfasts Joyce and I have enjoyed with Dave Askins at the Uptown Cafe in Bloomington, Indiana. (A tech perspective: The Uptown is to Bloomington what Bucks of Woodside is to Silicon Valley.) At the most recent [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/03/01/total-news/>
-
----
-
-##  Good Trouble: JD Vance Chastised by Vermont Snow Reporter 
-
-date: 2025-03-01, updated: 2025-03-01, from: Jason Kittke's blog
-
- 
-
-<br> 
-
-<https://kottke.org/25/03/jd-vance-chastised-by-vermont-snow-reporter>
-
----
-
-## Windows 7 lives! How to keep your favorite fossil running
-
-date: 2025-03-01, updated: 2025-03-01, from: Liam Proven's articles at the Register
-
-<h4>You probably shouldn&#39;t, but if you must, you can</h4>
-      <p>As the expiration date for Windows 10 presses ever closer, spare a thought for its classic forerunner. No, not Windows 8 – nobody ever loved that – but Windows 7, with its classic Start menu, tasteful transparency, lack of built-in advertising, and so on.</p> 
-
-<br> 
-
-<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/01/running_windows_7_2025/>
-
----
-
-## February 28, 2025 
-
-date: 2025-03-01, from: Heather Cox Richardson blog
-
-Today, President Donald Trump ambushed Ukraine president Volodymyr Zelensky in an attack that seemed designed to give the White House an excuse for siding with Russia in its war on Ukraine. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/february-28-2025>
-
----
-
-## The Trump-Putin Axis of Evil | Coffee Klatch for Saturday, March 1, 2025
-
-date: 2025-03-01, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158119249/2fea48fd152b367b37824204bdef42e0.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/158119249/2fea48fd152b367b37824204bdef42e0.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/the-trump-putin-axis-of-evil-coffee>
-
----
-
-## Yes, Claude Code can decompile itself. Here's the source code.
-
-date: 2025-03-01, from: Geoffrey Hunntley's blog
-
-<p>These LLMs are shockingly good at deobfuscation, transpilation and structure to structure conversions. I discovered this back around Christmas where I asked an LLM to make me an Haskell audio library by transpiling a rust implementation.</p><figure class="kg-card kg-bookmark-card"><a class="kg-bookmark-container" href="https://ghuntley.com/oh-fuck/"><div class="kg-bookmark-content"><div class="kg-bookmark-title">An &#x201C;oh fuck&#x201D; moment in time</div><div class="kg-bookmark-description">Over the Christmas break I&#x2019;</div></div></a></figure> 
-
-<br> 
-
-<https://ghuntley.com/tradecraft/>
-
----
-
-## Weeknotes: Feb. 22-28, 2025
-
-date: 2025-03-01, from: Tracy Durnell Blog
-
-Neighbors were getting a new roof this week so there was a lot of hammering ten feet from my office (since I&#8217;m on the second floor) &#8212; deployed the noise cancelling headphones quite a bit 🎧 Highlight of the week: delved into the back 40 and was pleased to see a native rhodie and cedar [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/02/28/weeknotes-feb-22-28-2025/>
-
----
-
-**@Ryan Gantz Bluesky feed** (date: 2025-03-01, from: Ryan Gantz Bluesky feed)
-
-*aside to buddy holding smartphone* but this will get sick views
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/sixfoot6.bsky.social/post/3ljbvcadeq226>
-
----
-
-## The Bully-in-Chief Targets an Ally
-
-date: 2025-03-01, from: Dan Rather's Steady
-
-Zelenskyy resists and refuses to kiss the ring 
-
-<br> 
-
-<https://steady.substack.com/p/the-bully-in-chief-targets-an-ally>
-
----
-
-## Meta Apologizes for Error That Flooded Instagram With a Bit of the Old Ultra-Violence
-
-date: 2025-03-01, updated: 2025-03-03, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.wsj.com/tech/meta-apologizes-for-error-that-flooded-instagram-with-violent-content-c207d5f5>
-
----
-
-## Today’s disgusting scene
-
-date: 2025-03-01, from: Robert Reich's blog
-
-Friends, 
-
-<br> 
-
-<https://robertreich.substack.com/p/todays-disgusting-scene>
 

@@ -1,11 +1,49 @@
 ---
 title: writing
-updated: 2025-03-08 07:07:29
+updated: 2025-03-09 07:07:01
 ---
 
 # writing
 
-(date: 2025-03-08 07:07:29)
+(date: 2025-03-09 07:07:01)
+
+---
+
+## Galaxy Raiders: Abyss, by Ian Douglas: Review by Paul Di Filippo
+
+date: 2025-03-08, from: Locus Magazine
+
+<p><strong>Galaxy Raiders: Abyss</strong>, Ian Douglas (Harper Voyager 978-0063205741, trade paperback, 400pp, $18.99) February 2025</p>
+<p>I think most folks are well aware of how SF/F/H concepts trickle out into the public domain, and percolate through the minds of citizenry who might never have read a relevant book or even experienced a relevant media presentation. Take “teleportation,” for instance. Once an abstruse notion that meant nothing to the average citizen of  <a href="https://locusmag.com/2025/03/galaxy-raiders-abyss-by-ian-douglas-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/galaxy-raiders-abyss-by-ian-douglas-review-by-paul-di-filippo/>
+
+---
+
+## Analog: Short Fiction Reviews by A.C. Wise
+
+date: 2025-03-08, from: Locus Magazine
+
+<p>Analog 11-12/24</p>
+<p>“<strong>That Far, Uncharted Ocean</strong>” by <strong>Auston Haber­shaw </strong>in the November/December issue of Analog features recurring characters and a world appear­ing in previous Analog stories by the author. Amos Tambly is recruited by the Thraad, snaillike aliens, who want to win a sailing regatta but have no knowledge of boats and are afraid of the ocean. Amos agrees, but ultimately learns that the Thraad intend to wipe  <a href="https://locusmag.com/2025/03/analog-short-fiction-reviews-by-a-c-wise-3/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/analog-short-fiction-reviews-by-a-c-wise-3/>
+
+---
+
+## ✍️ #239 - A Better Way to Write
+
+date: 2025-03-08, from: Interesting, a blog on writing
+
+Or, when we need guidance to break out of our habits 
+
+<br> 
+
+<https://inneresting.substack.com/p/239-a-better-way-to-write>
 
 ---
 
@@ -519,41 +557,4 @@ date: 2025-03-02, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/03/juice-by-tim-winton-review-by-alexandra-pierce/>
-
----
-
-## Sinkhole, and Other Inexplicable Voids by Leyna Krow: Review by Jake Casella Brookins
-
-date: 2025-03-01, from: Locus Magazine
-
-<p><strong>Sinkhole, and Other Inexplicable Voids</strong>, Leyna Krow (Penguin 9780593299654, $19.00, 304pp, tp) January 2025. Cover design by Nerylsa Dijol.</p>
-<p>Leyna Krow’s <strong>Sinkhole, and Other Inexpli­cable Voids </strong>is a dazzling, vivid collection. Throughout its 16 stories, Krow expertly threads together a handful of elements: magical or absurd developments, incisive snapshots of familial loves and fears, and haunting reflections on climate change disasters. Shared thematic con­cerns and a handful of connected  <a href="https://locusmag.com/2025/03/sinkhole-and-other-inexplicable-voids-by-leyna-krow-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/03/sinkhole-and-other-inexplicable-voids-by-leyna-krow-review-by-jake-casella-brookins/>
-
----
-
-## Issue 770 Table of Contents, March 2025
-
-date: 2025-03-01, from: Locus Magazine
-
-<p>The March 2025 issue of Locus has interviews with Amal El-Mohtar and Hache Pueyo, a spotlight on Diabolical Plots &#38; the Submission Grinder, and a spotlight on Allan Kaster &#38; Infinivox. The issue lists US and UK forthcoming books titles through December 2025. News covers the Stoker Awards Preliminary ballot, ALA awards, the launch of magazine Remains, the Department of Education&#8217;s dismissal of the book ban suits, and much more.  <a href="https://locusmag.com/2025/02/issue-770-table-of-contents-march-2025/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/02/issue-770-table-of-contents-march-2025/>
-
----
-
-## 💰 #238 - What's a sellout, anyway?
-
-date: 2025-03-01, from: Interesting, a blog on writing
-
-You've changed, man! It used to be about the music. 
-
-<br> 
-
-<https://inneresting.substack.com/p/238-whats-a-sellout-anyway>
 

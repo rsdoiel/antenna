@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-03-08 07:07:31
+updated: 2025-03-09 07:07:04
 ---
 
 # motorcycles
 
-(date: 2025-03-08 07:07:31)
+(date: 2025-03-09 07:07:04)
+
+---
+
+## Watch Insane Rivers of Mud Flow Through MotoGP's Jerez Circuit
+
+date: 2025-03-09, from: Ride Apart, Electric Motorcycle News
+
+It's hard to imagine anyone racing here any time soon, so place your bets. 
+
+<br> 
+
+<https://www.rideapart.com/news/752858/jerez-motogp-facilities-flooding/>
+
+---
+
+## Greg Anderson Lays Down Quickest Run In NHRA Pro Stock History With 6.443-sec. Blast At Gainesville Raceway
+
+date: 2025-03-08, from: Kickin the Tires blog
+
+NHRA Press Release GAINESVILLE, Fla. (March 7, 2025) – Reigning Top Fuel world champion Antron Brown started his 2025 with the provisional No. 1 qualifier position at Gainesville Raceway, taking&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/greg-anderson-lays-down-quickest-run-in-nhra-pro-stock-history-with-6-443-sec-blast-at-gainesville-raceway/>
+
+---
+
+## Honda CB650R and CBR650R Owners, Your Bikes Have a New Recall
+
+date: 2025-03-08, from: Ride Apart, Electric Motorcycle News
+
+The gear shift arm might straight up fall off, and that’s definitely not good.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752631/honda-cbr650r-cb650r-gear-shift-arm-recall/>
 
 ---
 
@@ -421,16 +458,4 @@ By Jerry Jordan, Editor AUSTIN, Tex. – The Lone Star State is well-known for s
 <br> 
 
 <https://kickinthetires.net/nascar/nascar-driver-ty-dillon-gets-smoked-gets-smoked-like-texas-bbq-at-circuit-of-the-americas/>
-
----
-
-## Holy Heck, Trackhouse Aprilia Showed Off Its Sweet Gulf Oil MotoGP Livery
-
-date: 2025-03-01, from: Ride Apart, Electric Motorcycle News
-
-One of the most iconic liveries in motorsport history is finally on a MotoGP bike. 
-
-<br> 
-
-<https://www.rideapart.com/news/752178/trackhouse-aprilia-gulf-oil-livery/>
 

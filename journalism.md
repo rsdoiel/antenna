@@ -1,11 +1,99 @@
 ---
 title: journalism
-updated: 2025-03-08 07:07:29
+updated: 2025-03-09 07:07:02
 ---
 
 # journalism
 
-(date: 2025-03-08 07:07:29)
+(date: 2025-03-09 07:07:02)
+
+---
+
+## Fire on Roebling Avenue extinguished following UCLA men’s basketball win
+
+date: 2025-03-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+A fire started on Roebling Avenue around 8:45 p.m. Saturday.
+The fire, which the Los Angeles Fire Department extinguished at 9:22 p.m., came hours after UCLA men’s basketball’s 27-point victory over the University of Southern California. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/08/fire-on-roebling-avenue-extinguished-following-ucla-mens-basketball-win/>
+
+---
+
+## UCLA faculty at LA Philharmonic explore diverse music, expand student education
+
+date: 2025-03-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+From downtown Los Angeles to Westwood, members of the LA Philharmonic are building harmony within the City of Angels.
+Established the same year as UCLA in 1919, LA Phil is a professional orchestra that hosts nearly 300 concerts every year in various venues across LA. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/08/ucla-faculty-at-la-philharmonic-explore-diverse-music-expand-student-education/>
+
+---
+
+## Griffith Observatory
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/griffith-observatory/>
+
+---
+
+## Medical study finds no difference in patient success outcomes for MDs, DOs
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A comparative study, using data from hospitals, concluded that the surgical program a doctor chooses produces no significant differences in their career surgical outcomes performed by allopathic and osteopathic surgeons. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/medical-study-finds-no-difference-in-patient-success-outcomes-for-mds-dos/>
+
+---
+
+## Dancing for a cause with the Pediatric AIDs Coalition
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Pediatric AIDs Coalition raises money for HIV and AIDs research through their annual Dance Marathon. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/dancing-for-a-cause-with-the-pediatric-aids-coalition/>
+
+---
+
+## Over 1,000 people protest executive orders at Stand Up For Science rally Friday
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Over 1,000 people – including students and scientists – protested Trump administration executive orders related to science and health at a Stand Up For Science rally Friday.&#160;
+Protesters gathered at noon at the intersection of Wilshire Boulevard and Veteran Avenue to protest, hear speeches and write letters to government representatives. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/over-1000-people-protest-executive-orders-at-stand-up-for-science-rally-friday/>
+
+---
+
+## Album Review: Lady Gaga’s ‘MAYHEM’ brings the magic with danceable tunes, quirky lyrics
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Lady Gaga is back in frenetic but fantastic form with her electrifying new LP.
+The 14-time Grammy winner released her latest album, &#8220;MAYHEM,&#8221; on Friday. The 14-track project arrives as the singer-songwriter&#8217;s seventh solo studio album, almost five years after 2020&#8217;s &#8220;Chromatica.&#8221; In the intervening time, Gaga&#8217;s musical output has included the remix project &#8220;Dawn Of Chromatica,&#8221; a Grammy-winning collaboration album with Tony Bennett, work on the soundtracks of the films &#8220;Top Gun: Maverick&#8221; and &#8220;Joker: Folie &#224; Deux&#8221; and her 2024 release &#8220;Harlequin.&#8221; Now back with a more traditional album rollout to accompany &#8220;MAYHEM,&#8221; Gaga has unleashed a 53-minute body of work that is undoubtedly her finest record in more than a decade &#8211; an artistic achievement made possible by returning to the avant-garde dance tracks and unconventional lyrics that made her a superstar. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/album-review-lady-gagas-mayhem-brings-the-magic-with-danceable-tunes-quirky-lyrics/>
 
 ---
 
@@ -1560,71 +1648,4 @@ Featuring 44 teams and around 390 entrants, PAC’s Dance Marathon in the Ackerm
 <br> 
 
 <https://dailybruin.com/2025/03/01/pediatrics-aids-coalition-at-ucla-kicks-off-its-annual-dance-marathon-fundraiser/>
-
----
-
-## Estudiantes que regresan del extranjero enfrentan confusión debido a problemas de alojamiento
-
-date: 2025-03-01, from: The Occidental News (Occidental College Student Newspaper)
-
-<p>Mientras algunos estudiantes regresan de un descanso festivo en casa, otros vuelven después de haber pasado semestres en distintas partes del mundo. Claire Wilson-Black (estudiante de tercer año) dijo que, a pesar de la cálida bienvenida de Occidental, muchos estudiantes que regresan del extranjero enfrentan desafíos en la asignación de vivienda. Después de irse en [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/espanol/2025/03/01/estudiantes-que-regresan-del-extranjero-enfrentan-confusion-debido-a-problemas-de-alojamiento/2914442">Estudiantes que regresan del extranjero enfrentan confusión debido a problemas de alojamiento</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
- 
-
-<br> 
-
-<https://theoccidentalnews.com/espanol/2025/03/01/estudiantes-que-regresan-del-extranjero-enfrentan-confusion-debido-a-problemas-de-alojamiento/2914442>
-
----
-
-## Q&A: UCLA cardiology chief Dr. Priscilla Hsue talks heart disease, cardiovascular care
-
-date: 2025-03-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-Dr. Priscilla Hsue, the chief of UCLA’s Division of Cardiology, sat down with News contributor Savan Bollu to discuss cardiovascular disease symptoms, risk factors and novel treatment options during American Heart Month in February. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/28/ucla-cardiology-chief-dr-priscilla-hsue-talks-heart-disease-cardiovascular-care/>
-
----
-
-## Federal Task Force to Combat Antisemitism will visit USC
-
-date: 2025-03-01, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The task force will assess if the University violated federal law by failing to protect Jewish students and faculty from discrimination, and if "remedial action" is necessary.</p>
-<p>The post <a href="https://dailytrojan.com/2025/02/28/federal-task-force-to-combat-antisemitism-will-visit-usc/">Federal Task Force to Combat Antisemitism will visit USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/02/28/federal-task-force-to-combat-antisemitism-will-visit-usc/>
-
----
-
-## The Office of Inclusion and Diversity integrates into Culture Team
-
-date: 2025-03-01, from: The Daily Trojan (USC Student Newspaper)
-
-<p>The University said Wednesday it was reviewing programs to comply with Trump administration rules.</p>
-<p>The post <a href="https://dailytrojan.com/2025/02/28/the-office-of-inclusion-and-diversity-integrates-into-culture-team/">The Office of Inclusion and Diversity integrates into Culture Team</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/02/28/the-office-of-inclusion-and-diversity-integrates-into-culture-team/>
-
----
-
-## Author Adam Phillips leads discussion on psychoanalysis, practicing kindness
-
-date: 2025-03-01, from: The Daily Bruin (UCLA Student Newspaper)
-
-Psychoanalytic thinker and author Adam Phillips presented ideas about kindness, mental health and psychoanalysis Thursday.
-Phillips, a former child psychotherapist, spoke with UCLA professors David Russell and Mona Simpson about his untraditional opinions about psychoanalysis at the Landmark Westwood theater. 
-
-<br> 
-
-<https://dailybruin.com/2025/02/28/author-adam-phillips-leads-discussion-on-psychoanalysis-practicing-kindness/>
 

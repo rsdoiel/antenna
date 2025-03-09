@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-03-08 07:07:31
+updated: 2025-03-09 07:07:04
 ---
 
 # retro computing
 
-(date: 2025-03-08 07:07:31)
+(date: 2025-03-09 07:07:04)
 
 ---
 
@@ -102,17 +102,4 @@ Can we talk?
 <br> 
 
 <https://computeradsfromthepast.substack.com/p/plus-post-centram-tops-network>
-
----
-
-## siegfried 1.11.2 released
-
-date: 2025-03-01, from: IT for Archivists
-
-Version 1.11.2 of siegfried is now available. Get it here.
-CHANGELOG v1.11.2 (2025-03-01) Filter introduced to improve Wikidata queries and -harvestWikidataSigLen flag sets minimum length of Wikidata signatures. Implemented by Ross Spencer and Andy Jackson -noprov flag introduced for Wikidata signatures. Implemented by Ross Spencer version command for roy. Implemented by Ross Spencer Wikidata definitions updated to 4.0.0. By Ross Spencer Logged error messages have more context. Implemented by Ross Spencer update PRONOM to v120 update LOC to 2025-02-26 update TIKA to v3. 
-
-<br> 
-
-<https://www.itforarchivists.com/post/sf1112/>
 

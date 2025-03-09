@@ -1,11 +1,181 @@
 ---
 title: socal north
-updated: 2025-03-08 07:07:26
+updated: 2025-03-09 07:06:58
 ---
 
 # socal north
 
-(date: 2025-03-08 07:07:26)
+(date: 2025-03-09 07:06:58)
+
+---
+
+## Move over, Trader Joe's. 99 Ranch has coveted mini-totes now
+
+date: 2025-03-09, updated: 2025-03-09, from: The LAist
+
+The limited edition bag, which sold out at its $2.99 price point, is sweeping a new kind of Asian America. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/move-over-trader-joes-99-ranch-has-coveted-mini-totes-now>
+
+---
+
+## Whittier will finally own its namesake boulevard. Why didn't it?
+
+date: 2025-03-09, updated: 2025-03-09, from: The LAist
+
+Whittier Boulevard is an iconic thoroughfare across L.A. County. But the state route hasn't been under the city of Whittier's control. Here's why. 
+
+<br> 
+
+<https://laist.com/news/transportation/la-county-whittier-boulevard-caltrans-city-history>
+
+---
+
+## Trump signs executive action targeting public service loan program
+
+date: 2025-03-09, updated: 2025-03-09, from: The LAist
+
+The program forgives the loans of borrowers who work in public service. The executive action would exclude those who work for certain organizations. 
+
+<br> 
+
+<https://laist.com/news/education/trump-signs-executive-action-targeting-public-service-loan-program>
+
+---
+
+## GOP unveils stopgap bill to avert a government shutdown. They may not have the votes
+
+date: 2025-03-09, updated: 2025-03-09, from: The LAist
+
+House Republicans released the text of a continuing resolution that would fund the government through Sept. 30. Now, passing it in a narrowly divided chamber is the next hurdle. 
+
+<br> 
+
+<https://laist.com/news/politics/gop-unveils-stopgap-bill-to-avert-a-government-shutdown-they-may-not-have-the-votes>
+
+---
+
+## Photos: The 2025 Women's March in L.A.
+
+date: 2025-03-08, updated: 2025-03-09, from: The LAist
+
+The Women's March started in 2017, drawing hundreds of thousands of Angelenos to protest against the first Trump administration and spawning as many pink knitted pussyhats. We check in eight years later. 
+
+<br> 
+
+<https://laist.com/news/politics/photos-this-mornings-womens-march-in-l-a>
+
+---
+
+## Uncovering Santa Clarita’s Hidden History in Our Parks
+
+date: 2025-03-08, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Our community is rich with history, blending the spirit of the Old West with the history of our great nation – especially in our parks. When Santa Clarita incorporated in 1987, we only had eight parks. Today, we are home to more than three dozen, and this year, we are [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/08/uncovering-santa-claritas-hidden-history-in-our-parks/">Uncovering Santa Clarita’s Hidden History in Our Parks</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/08/uncovering-santa-claritas-hidden-history-in-our-parks/>
+
+---
+
+## Jackie and Shadow's third eaglet hatches into Big Bear's famous feathered family
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+More than 99,000 people were watching live on the Friends of Big Bear Valley Youtube livestream as the chick worked through the hatching process. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/third-eaglet-hatches-into-big-bears-famous-feathered-family>
+
+---
+
+## Newsom extends rental price gouging protections after LA fires. But there's more
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+The executive order issued on Friday also suspends certain state laws that would prevent the rebuilding of Altadena's two commercial corridors to their "pre-fire character." 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/newsom-executive-order-extends-price-gouging-protections-for-fire-survivors>
+
+---
+
+## Thousands of trees will go unplanted in Los Angeles after Musk pulls funding
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+Tens of millions of dollars in grants were withdrawn across the country, targeting programs that plant trees in low-income communities. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/tree-planting-budget-cuts-doge-elon-musk>
+
+---
+
+## Go Fact Yourself quiz for March 8
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+Our celebrity panelists Sarah Jones and Phil Rosenthal go head to head this week on their knowledge of 1990s East Coast hip-hop and the TV show 'The Odd Couple.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-march-8>
+
+---
+
+## Top Democrats ask Rubio for answers on now-canceled $400 million Tesla plan
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+A letter from two House Democrats presses Rubio for details about who approved an effort to try to use hundreds of millions of dollars of taxpayer money on armored electric vehicles from Tesla. 
+
+<br> 
+
+<https://laist.com/news/top-democrats-ask-rubio-for-answers-on-now-canceled-400-million-tesla-plan>
+
+---
+
+## 5 takeaways from LA’s troubling new homelessness spending audit
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+Here’s what you need to know about the long-awaited findings on what the city has accomplished with billions of dollars in homelessness funding. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-services-authority-audit-judge-carter-5-takeaways>
+
+---
+
+## LAPD seeks public’s help in 2006 unsolved murder of Emmery Muñoz
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+Emmery Muñoz was 14 years old when she was found dead in Boyle Heights. She was last seen on Jan. 20, 2006, in City Terrace, police said. 
+
+<br> 
+
+<https://laist.com/news/lapd-seeks-publics-help-in-2006-unsolved-murder-of-emmery-munoz>
+
+---
+
+## New E-cargo bike voucher program launches for SGV residents. Here’s how to apply
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+In this first round, 300 vouchers for $2,000 are available. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/e-cargo-bike-voucher-program-san-gabriel-valley-residents>
 
 ---
 
@@ -1137,7 +1307,7 @@ Johansen, a pioneer in punk music who found solo success under the moniker Buste
 
 ## LA's arts community sees $14 million in fire relief
 
-date: 2025-03-02, updated: 2025-03-02, from: The LAist
+date: 2025-03-02, updated: 2025-03-08, from: The LAist
 
 More than 1,700 artists and arts workers are receiving grants of up to $10,000. 
 
@@ -1168,176 +1338,4 @@ The sisterhood is coming together to help the 3,000 displaced Girl Scouts replac
 <br> 
 
 <https://laist.com/news/los-angeles-activities/la-fires-girl-scouts>
-
----
-
-## Up to 3,000 more U.S. troops are ordered to the border with Mexico
-
-date: 2025-03-01, updated: 2025-03-02, from: The LAist
-
-Up to 3,000 additional troops have been ordered to the U.S.-Mexico border by Defense Secretary Pete Hegseth, the latest in President Trump's efforts to prevent illegal crossings. 
-
-<br> 
-
-<https://laist.com/news/up-to-3-000-more-u-s-troops-are-ordered-to-the-border-with-mexico>
-
----
-
-## DOGE's savings page fixed old mistakes — and added new ones
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-An NPR review of new data added to DOGE's "wall of receipts" finds the group quietly changed previous errors, added new ones and still has little verified savings to show for its work. 
-
-<br> 
-
-<https://laist.com/news/doges-savings-page-fixed-old-mistakes-and-added-new-ones>
-
----
-
-## The Oscars are Sunday. We got the road closures
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-Heavy traffic will surround the Dolby Theatre until at least Monday morning 
-
-<br> 
-
-<https://laist.com/news/transportation/the-oscars-are-sunday-we-got-the-road-closures>
-
----
-
-## Collaborating for a Brighter Future: FIRST Robotics Competition Dives into Innovation at The Port Hueneme
-
-date: 2025-03-01, from: Port Hueneme
-
-<p>At a ceremony held at the Port of Hueneme, Jess J. Ramirez was sworn in as president of the Oxnard Harbor District. Ventura County Supervisor Vianey Lopez administered the oath of office.</p>
-<p>The post <a href="https://www.portofhueneme.org/collaborating-for-a-brighter-future-first-robotics-competition-dives-into-innovation-at-the-port-hueneme/">Collaborating for a Brighter Future: FIRST Robotics Competition Dives into Innovation at The Port Hueneme</a> appeared first on <a href="https://www.portofhueneme.org">The Port of Hueneme</a>.</p>
- 
-
-<br> 
-
-<https://www.portofhueneme.org/collaborating-for-a-brighter-future-first-robotics-competition-dives-into-innovation-at-the-port-hueneme/>
-
----
-
-## Daring train thieves target BNSF Railway, stealing $2M worth of Nike and other goods
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-A series of brazen train robberies have been carried out across the Western United States, resulting in the theft of millions of dollars worth of Nike merchandise. 
-
-<br> 
-
-<https://laist.com/news/daring-train-thieves-target-bnsf-railway-stealing-2m-worth-of-nike-and-other-goods>
-
----
-
-## ICE is making more arrests, but critics say some claims don't add up
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-Immigration authorities are making more arrests than they did under President Biden. But the Department of Homeland Security's own data shows that they're not keeping pace with White House demands. 
-
-<br> 
-
-<https://laist.com/news/ice-is-making-more-arrests-but-critics-say-some-claims-dont-add-up>
-
----
-
-## What should win vs. what will win — here are our Oscars predictions
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-There are 10 movies in the running for best picture. Our critics are split over whether Anora or Nickel Boys should take home the prize. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/what-should-win-vs-what-will-win-here-are-our-oscars-predictions>
-
----
-
-## Embrace Your Roots with One Story One City Events
-
-date: 2025-03-01, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Imagine a month-long event that brings the community together in an immersive literary experience—merging one novel with themed arts, crafts and experiences. This is possible with the return of the community-favorite One Story One City program. Kicking off this month, the Santa Clarita Public Library is excited to announce The [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/03/01/embrace-your-roots-with-one-story-one-city-events/">Embrace Your Roots with One Story One City Events</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/03/01/embrace-your-roots-with-one-story-one-city-events/>
-
----
-
-## USDA unveils a $1 billion plan to address the egg crisis
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-Egg prices have been going through the roof. 
-
-<br> 
-
-<https://laist.com/news/food/usda-unveils-a-1-billion-plan-to-address-the-egg-crisis>
-
----
-
-## All grill, no bill — Fair Oaks Burger is serving free meals in Altadena
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-The restaurant is one of a few surviving structures on its block of Fair Oaks Avenue and is serving displaced residents and first responders in the parking lot. 
-
-<br> 
-
-<https://laist.com/news/food/fair-oaks-burger-free-meals-altadena-eaton-fire>
-
----
-
-## Go Fact Yourself quiz for March 1
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-Our celebrity panelists Billy Gardell and Gina Yashere go head to head this week on their knowledge of the Pittsburgh Steelers and 1990s hip hop. Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-march-1>
-
----
-
-## Homelessness service officials outline new ethics procedures after LAist reporting
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-Executives with potential conflicts of interest will no longer appear on the signature lines of contracts, the L.A. homelessness services agency says. The change to LAHSA procedures was outlined after LAist found the CEO signed a $2.1 million contract with her husband’s employer. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/lahsa-new-ethics-procedures>
-
----
-
-## Pasadena Unified cuts 151 positions as enrollment losses continue across California
-
-date: 2025-03-01, updated: 2025-03-03, from: The LAist
-
-The Pasadena Unified School District board of education voted Thursday to cut the full-time positions in response to continued enrollment problems. 
-
-<br> 
-
-<https://laist.com/news/education/pasadena-unified-cuts-151-positions-enrollment-decline-california>
-
----
-
-## Microsoft will end Skype in May, leaving some users upset
-
-date: 2025-03-01, updated: 2025-03-01, from: The LAist
-
-Microsoft says it will wind down the pioneering and once ubiquitous free video calling service so it can streamline its consumer communications offerings, such as Microsoft Teams. 
-
-<br> 
-
-<https://laist.com/news/microsoft-will-end-skype-in-may>
 
