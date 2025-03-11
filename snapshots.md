@@ -1,11 +1,387 @@
 ---
 title: snapshots
-updated: 2025-03-10 07:08:31
+updated: 2025-03-11 07:08:29
 ---
 
 # snapshots
 
-(date: 2025-03-10 07:08:31)
+(date: 2025-03-11 07:08:29)
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-11, from: Feed for Alt USDS)
+
+Major! Here's a source: https://www.cnn.com/2025/03/10/politics/doge-freedom-of-information-act-foia-ruling/index.html
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lk4abresn22i>
+
+---
+
+## Bug Fixes: Unlocking Health Secrets from Insect Genomes on Thelio Astra
+
+date: 2025-03-11, from: System76 Blog
+
+RJ Nowling joins Transmission Log to discuss mosquitos, bioinformatics, and Thelio Astra. 
+
+<br> 
+
+<https://blog.system76.com/post/bioinformatics-thelio-astra-rjnowling-interview>
+
+---
+
+## A Bio-Integrated Gustatory Interface
+
+date: 2025-03-11, updated: 2025-03-11, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/11/a-bio-integrated-gustatory-interface/>
+
+---
+
+## Here is NASA’s Contract with Clearview AI
+
+date: 2025-03-11, from: 404 Media Group
+
+The oversight and investigative body of NASA spent $16,000 on the technology, 404 Media previously reported. 
+
+<br> 
+
+<https://www.404media.co/here-is-nasas-contract-with-clearview-ai-2/>
+
+---
+
+## AI’s Future: Not Always Bigger
+
+date: 2025-03-11, from: O'Reilly Radar
+
+On May 8, O’Reilly Media will be hosting Coding with AI: The End of Software Development as We Know It—a live virtual tech conference spotlighting how AI is already supercharging developers, boosting productivity, and providing real value to their organizations. If you’re in the trenches building tomorrow’s development practices today and interested in speaking at the [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/ais-future-not-always-bigger/>
+
+---
+
+## The Economic Excuse Industry is Booming
+
+date: 2025-03-11, from: Paul Krugman
+
+No, we don&#8217;t need an economic &#8220;detox&#8221; 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-economic-excuse-industry-is-booming>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-11, from: Dave Winer's linkblog)
+
+Kansas politicians say an awful lot. But look beyond those words to catch what they actually do. 
+
+<br> 
+
+<https://kansasreflector.com/2025/03/11/kansas-politicians-say-an-awful-lot-but-look-beyond-those-words-to-catch-what-they-actually-do/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-11, from: Dave Winer's linkblog)
+
+German Thru-Hiker Detained, Deported, and Banned From US. 
+
+<br> 
+
+<https://thetrek.co/a-german-thru-hiker-has-been-detained-deported-and-banned-from-the-us-without-a-hearing-heres-what-you-need-to-know/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-11, from: Feed for Alt USDS)
+
+@alt18f.bsky.social saved taxpayers billions, modernized digital services, and made government work better. 💡Now, DOGE has shut it down—eliminating projects that served voters, refugees, military personnel, and more. Read about 18F’s impact ⬇️
+
+🔗 https://www.wethebuilders.org/posts/what-is-18F
+
+#altgov #18f 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lk2yqrc3vc2g>
+
+---
+
+## Tricked Into Installing macOS Update
+
+date: 2025-03-11, from: Michael Tsai
+
+Howard Oakley: Over the last few years, many have reported that their Macs spontaneously updated or even upgraded macOS when they didn&#8217;t expect them to, and often against their wishes. This can occur when Software Update in System Settings has Install macOS updates turned off. Explanations of how Apple appears to be able to override [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/10/tricked-into-installing-macos-update/>
+
+---
+
+## Purgeable Disk Space
+
+date: 2025-03-11, from: Michael Tsai
+
+Howard Oakley: The Finder was certain there was nearly 228 GB available, but also claimed that 852 GB was used. Did that mean that my 1 TB SSD had grown in size overnight to just over 1.08 TB? What was this &#8220;83.71 GB purgeable&#8221;, and had the Finder already assumed it had been deleted? Could [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/10/purgeable-disk-space/>
+
+---
+
+## NSFileWrapper Sometimes Changes Modification Date to the Past
+
+date: 2025-03-11, from: Michael Tsai
+
+Matteo Rattoti (via Christian Tietze): This repository demonstrates a bug in NSFileWrapper where overwriting a file with the same content using -[NSFileWrapper writeToURL:options:originalContentsURL:error:] sometimes causes the file&#8217;s modification date to be set in the past instead of updating to the current time. I think I saw someone speculate that this is due to it not [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/10/nsfilewrapper-sometimes-changes-modification-date-to-the-past/>
+
+---
+
+## Weak M4 Mac mini Wi-Fi
+
+date: 2025-03-11, from: Michael Tsai
+
+Mike Wuerthele: Hours after the new Mac mini hit customers&#8217; desks, some users started complaining that when they hooked up a hard drive or SSD to the unit, they&#8217;d see Wi-Fi speeds drop, or be cut entirely. The reports were almost always followed up with the realization that when disconnected, the Wi-Fi speeds would go [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/10/weak-m4-mac-mini-wi-fi/>
+
+---
+
+## Abandon all keyboards
+
+date: 2025-03-11, updated: 2025-03-11, from: Robin Rendle Essays
+
+ 
+
+<br> 
+
+<https://robinrendle.com/notes/abandon-all-keyboards/>
+
+---
+
+## Lilbits: Xbox handheld, Nintendo Switch 2, Pixel 4a battery, and the return  of Android lock screen widgets
+
+date: 2025-03-10, from: Liliputing
+
+<p>The long-awaited Xbox handheld could arrive this year&#8230; but if the latest rumor is accurate it won&#8217;t be made by Microsoft and it may be more of a Windows 11 handheld with Xbox branding than a portable console. In other recent tech news from around the web, if you were wondering why Google issued a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-xbox-handheld-nintendo-switch-2-pixel-4a-battery-and-the-return-of-android-lock-screen-widgets/">Lilbits: Xbox handheld, Nintendo Switch 2, Pixel 4a battery, and the return  of Android lock screen widgets</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-xbox-handheld-nintendo-switch-2-pixel-4a-battery-and-the-return-of-android-lock-screen-widgets/>
+
+---
+
+## llm-openrouter 0.4
+
+date: 2025-03-10, updated: 2025-03-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-openrouter/releases/tag/0.4">llm-openrouter 0.4</a></strong></p>
+I found out this morning that <a href="https://openrouter.ai/">OpenRouter</a> include support for a number of (rate-limited) <a href="https://openrouter.ai/models?max_price=0">free API models</a>.</p>
+<p>I occasionally run workshops on top of LLMs (<a href="https://simonwillison.net/2025/Mar/8/cutting-edge-web-scraping/">like this one</a>) and being able to provide students with a quick way to obtain an API key against models where they don't have to setup billing is really valuable to me!</p>
+<p>This inspired me to upgrade my existing <a href="https://github.com/simonw/llm-openrouter">llm-openrouter</a> plugin, and in doing so I closed out a bunch of open feature requests.</p>
+<p>Consider this post the <a href="https://simonwillison.net/tags/annotated-release-notes/">annotated release notes</a>:</p>
+<blockquote>
+<ul>
+<li>LLM <a href="https://llm.datasette.io/en/stable/schemas.html">schema support</a> for OpenRouter models that <a href="https://openrouter.ai/models?order=newest&amp;supported_parameters=structured_outputs">support structured output</a>. <a href="https://github.com/simonw/llm-openrouter/issues/23">#23</a></li>
+</ul>
+</blockquote>
+<p>I'm trying to get support for LLM's <a href="https://simonwillison.net/2025/Feb/28/llm-schemas/">new schema feature</a> into as many plugins as possible.</p>
+<p>OpenRouter's OpenAI-compatible API includes support for the <code>response_format</code> <a href="https://openrouter.ai/docs/features/structured-outputs">structured content option</a>, but with an important caveat: it only works for some models, and if you try to use it on others it is silently ignored.</p>
+<p>I <a href="https://github.com/OpenRouterTeam/openrouter-examples/issues/20">filed an issue</a> with OpenRouter requesting they include schema support in their machine-readable model index. For the moment LLM will let you specify schemas for unsupported models and will ignore them entirely, which isn't ideal.</p>
+<blockquote>
+<ul>
+<li><code>llm openrouter key</code> command displays information about your current API key. <a href="https://github.com/simonw/llm-openrouter/issues/24">#24</a></li>
+</ul>
+</blockquote>
+<p>Useful for debugging and checking the details of your key's rate limit.</p>
+<blockquote>
+<ul>
+<li><code>llm -m ... -o online 1</code> enables <a href="https://openrouter.ai/docs/features/web-search">web search grounding</a> against any model, powered by <a href="https://exa.ai/">Exa</a>. <a href="https://github.com/simonw/llm-openrouter/issues/25">#25</a></li>
+</ul>
+</blockquote>
+<p>OpenRouter apparently make this feature available to every one of their supported models! They're using new-to-me <a href="https://exa.ai/">Exa</a> to power this feature, an AI-focused search engine startup who appear to have built their own index with their own crawlers (according to <a href="https://docs.exa.ai/reference/faqs#how-often-is-the-index-updated">their FAQ</a>). This feature is currently priced by OpenRouter at $4 per 1000 results, and since 5 results are returned for every prompt that's 2 cents per prompt.</p>
+<blockquote>
+<ul>
+<li><code>llm openrouter models</code> command for listing details of the OpenRouter models, including a <code>--json</code> option to get JSON and a <code>--free</code> option to filter for just the free models. <a href="https://github.com/simonw/llm-openrouter/issues/26">#26</a></li>
+</ul>
+</blockquote>
+<p>This offers a neat way to list the available models. There are examples of the output <a href="https://github.com/simonw/llm-openrouter/issues/26#issuecomment-2711908704">in the comments on the issue</a>.</p>
+<blockquote>
+<ul>
+<li>New option to specify custom provider routing: <code>-o provider '{JSON here}'</code>. <a href="https://github.com/simonw/llm-openrouter/issues/17">#17</a></li>
+</ul>
+</blockquote>
+<p>Part of OpenRouter's USP is that it can route prompts to different providers depending on factors like latency, cost or as a fallback if your first choice is unavailable - great for if you are using open weight models like Llama which are hosted by competing companies.</p>
+<p>The options they provide for routing are <a href="https://openrouter.ai/docs/features/provider-routing">very thorough</a> - I had initially hoped to provide a set of CLI options that covered all of these bases, but I decided instead to reuse their JSON format and forward those options directly on to the model.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/annotated-release-notes">annotated-release-notes</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/10/llm-openrouter-04/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-10, from: Dave Winer's linkblog)
+
+NOAA set to fire 1,029 more employees, bringing cuts to near 15 percent. 
+
+<br> 
+
+<https://thehill.com/policy/energy-environment/5186175-noaa-staffing-cuts/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-10, from: Dave Winer's linkblog)
+
+JD Vance&#39;s cousin criticises him for &#39;belittling&#39; Zelensky. 
+
+<br> 
+
+<https://www.bbc.com/news/articles/cm2yl5kevrpo?xtor=AL-71-[partner]-[bbc.news.twitter]-[headline]-[news]-[bizdev]-[isapi]&at_link_id=262EAA4A-FDEF-11EF-9D53-B8CB82023E84&at_ptr_name=twitter&at_medium=social&at_link_origin=BBCWorld&at_campaign=Social_Flow&at_link_type=web_link&at_campaign_type=owned&at_format=link&at_bbc_team=editorial>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-10, from: Dave Winer's linkblog)
+
+Bluesky has us locked in despite what their CEO says. 
+
+<br> 
+
+<https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/>
+
+---
+
+## On the Miraculous Tradition in Silicon Valley Thought
+
+date: 2025-03-10, from: Dave Karpf's blog
+
+"And then a miracle happens" is not a plan. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/on-the-miraculous-tradition-in-silicon>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-10, from: Dave Winer's linkblog)
+
+Data Rescue Project. 
+
+<br> 
+
+<https://www.datarescueproject.org/>
+
+---
+
+## Urgent warning: Black Mirror has entered the United States, with AI as its handmaiden
+
+date: 2025-03-10, from: Gary Marcus blog
+
+AI as a smoke screen to cover for authoritarian actions 
+
+<br> 
+
+<https://garymarcus.substack.com/p/urgent-warning-black-mirror-has-entered>
+
+---
+
+## Wistron Dual Fusion laptop concept includes a detachable handheld game streaming console
+
+date: 2025-03-10, from: Liliputing
+
+<p>Taiwanese electronics manufacturer Wistron has designed a gaming laptop that&#8217;s also a handheld game console. While some companies have achieved something similar by shrinking their laptops until they&#8217;re small enough to hold between two hands, the Wistron Dual Fusion takes a different approach. It&#8217;s a gaming laptop with a full-sized keyboard and display. But the area below the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/wistron-dual-fusion-laptop-concept-includes-a-detachable-handheld-game-streaming-console/">Wistron Dual Fusion laptop concept includes a detachable handheld game streaming console</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/wistron-dual-fusion-laptop-concept-includes-a-detachable-handheld-game-streaming-console/>
+
+---
+
+## This palm-sized mini PC has an AMD Ryzen 3 5425U processor
+
+date: 2025-03-10, from: Liliputing
+
+<p>Over the past few years we&#8217;ve seen a lot of tiny cube-like computers small enough to fit in the palm of your hand. But most have been powered by low-cost, low-power Intel processors. Now Topton has introduced a new model sporting an AMD Ryzen processor. The new Topton M1 is a 78 x 78 x [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-palm-sized-mini-pc-has-an-amd-ryzen-3-5425u-processor/">This palm-sized mini PC has an AMD Ryzen 3 5425U processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-palm-sized-mini-pc-has-an-amd-ryzen-3-5425u-processor/>
+
+---
+
+## This 8 inch mini-laptop has an Intel N150 processor and 12GB RAM
+
+date: 2025-03-10, from: Liliputing
+
+<p>A handful of Chinese PC makers have been selling mini-laptops with 8 inch displays and Intel Alder Lake-N processors for a few years. Now we&#8217;re starting to see new models with Intel Twin Lake chips. One of the first to arrive is the X-Plus Piccolo 2-in-1 mini-laptop with an Intel N150 processor, which sells for [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-8-inch-mini-laptop-has-an-intel-n150-processor-and-12gb-ram/">This 8 inch mini-laptop has an Intel N150 processor and 12GB RAM</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-8-inch-mini-laptop-has-an-intel-n150-processor-and-12gb-ram/>
+
+---
+
+## Generating Automatic Alt-Text with the Bacalhau Bluesky Bot
+
+date: 2025-03-10, from: Bacalhau Blog
+
+(4:10) Using the latest in Large Vision Models (LLaVa), we've built a Bluesky Bot which can generate alt-text for any image in seconds with Bacalhau 
+
+<br> 
+
+<https://blog.bacalhau.org/p/generating-automatic-alt-text-with>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-10, from: Feed for Alt USDS)
+
+75% of the VA's new website projects had security issues before this team stepped in. Now, because of firings & forced resignations, there are very few people who can keep Veterans' data safe. Gutting government tech hurts real people.
+
+🔗 https://www.wethebuilders.org/posts/protecting-the-privacy-of-our-veterans
+
+#Veterans #altgov 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ljzwe6bnsz23>
+
+---
+
+## Why weren't women allowed to act in Shakespeare's plays? 
+
+date: 2025-03-10, from: Guy Kawasaki blog
+
+Elizabeth Steinway, Colorado State University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-werent-women-allowed-to-act-in>
 
 ---
 
@@ -59,7 +435,7 @@ date: 2025-03-10, updated: 2025-03-10, from: One Foot Tsunami
 
 date: 2025-03-10, from: Raspberry Pi News (.com)
 
-<p>MIDI instrument powered by RP2040 makes it easy to learn basic chords and experiment with microtonal music.</p>
+<p>This RP2040-powered keyboard features 140 addressable RGB LED-lit mechanical switches, giving rise to distinctive chord shapes and melodic concepts.</p>
 <p>The post <a href="https://www.raspberrypi.com/news/hexboard-midi-controller-strikes-a-chord-with-rp2040/">HexBoard MIDI controller strikes a chord with RP2040</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
  
 
@@ -257,6 +633,30 @@ Rep. Mark Pocan draws packed crowd at town hall meeting, calls out Rep. Derrick 
 <br> 
 
 <https://www.wkow.com/news/politics/rep-mark-pocan-draws-packed-crowd-at-town-hall-meeting-calls-out-rep-derrick-van/article_d66c5c3e-fc84-11ef-8623-5fd46eda89b2.html>
+
+---
+
+## How to authenticate your HTTP tunnels with inlets and OAuth.
+
+date: 2025-03-10, updated: 2025-03-10, from: Inlets.dev, cloud tunneling
+
+In this tutorial you will learn how to secure your tunnelled HTTP services using the Inlets built-in HTTP authentication. 
+
+<br> 
+
+<https://inlets.dev/blog/tutorial/2025/03/10/secure-http-tunnels-with-oauth.html>
+
+---
+
+## Understanding Memory Management, Part 3: C++ Smart Pointers
+
+date: 2025-03-10, updated: 2025-03-10, from: Educated Guesswork blog
+
+ 
+
+<br> 
+
+<https://educatedguesswork.org/posts/memory-management-3/>
 
 ---
 

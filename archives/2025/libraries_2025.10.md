@@ -1,11 +1,51 @@
 ---
 title: libraries
-updated: 2025-03-10 07:08:27
+updated: 2025-03-11 07:08:26
 ---
 
 # libraries
 
-(date: 2025-03-10 07:08:27)
+(date: 2025-03-11 07:08:26)
+
+---
+
+## Guest Post:  Trying to Write a Paper with LLM Assistance
+
+date: 2025-03-11, from: Scholarly Kitchen
+
+<p>I tired three different large language models (LLMs) to rewrite a potential article.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/11/guest-post-trying-to-write-a-paper-with-llm-assistance/">Guest Post:  Trying to Write a Paper with LLM Assistance</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/11/guest-post-trying-to-write-a-paper-with-llm-assistance/>
+
+---
+
+## Public Domain Spotlight: LibriVox
+
+date: 2025-03-10, from: Internet Archive Blog
+
+Access to cultural heritage is not a luxury; it&#8217;s a necessity. Founded in 2005, LibriVox stands out as a crucial resource, ensuring that our cultural heritage is freely and openly [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/03/10/public-domain-spotlight-librivox/>
+
+---
+
+## Day in Review (March 10–13)
+
+date: 2025-03-10, from: Association of Research Libraries News
+
+<p>Last Updated on March 10, 2025, 2:49 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 11 &#124; Wednesday, March 12 &#124; Thursday, March 13 Monday, March 10...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-10-13/">Day in Review (March 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-march-10-13/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-03-10 07:08:28
+updated: 2025-03-11 07:08:27
 ---
 
 # retro computing
 
-(date: 2025-03-10 07:08:28)
+(date: 2025-03-11 07:08:27)
+
+---
+
+## b.log 2025/03/10 - The end of an era, Scrollwheel bug?, Some Spring pictures.
+
+date: 2025-03-10, from: Richard Murray's blog
+
+The end of an era, Scrollwheel bug?, Some Spring pictures. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250310>
 
 ---
 

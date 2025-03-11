@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-03-10 07:08:28
+updated: 2025-03-11 07:08:27
 ---
 
 # motorcycles
 
-(date: 2025-03-10 07:08:28)
+(date: 2025-03-11 07:08:27)
+
+---
+
+## Honda Making Rally Motorcycle Parts You Can't Buy, But They Should
+
+date: 2025-03-11, from: Ride Apart, Electric Motorcycle News
+
+Parts for me, but not for thee. 
+
+<br> 
+
+<https://www.rideapart.com/news/753059/honda-hrc-crf450rx-rally-parts-redmoto/>
+
+---
+
+## I'm Headed to Outdoor Solutions' 'Built to Hunt Program,' You Should Come Too
+
+date: 2025-03-11, from: Ride Apart, Electric Motorcycle News
+
+Time to go back to school. 
+
+<br> 
+
+<https://www.rideapart.com/news/753029/outdoor-solutions-built-to-hunt-teaser/>
+
+---
+
+## There's an Electric Polaris RZR Coming Soon
+
+date: 2025-03-11, from: Ride Apart, Electric Motorcycle News
+
+Are you ready to rip dunes in silence? 
+
+<br> 
+
+<https://www.rideapart.com/news/753040/electric-ev-polaris-rzr-utv-side-by-side-patent/>
+
+---
+
+## Wunderlich’s New Adventure Motorcycle Jacket and Pants Are Expensive As Hell
+
+date: 2025-03-11, from: Ride Apart, Electric Motorcycle News
+
+Function meets form, but is it worth all that dough?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752632/wunderlich-riding-jacket-and-pants-2000-usd/>
+
+---
+
+## Akrapovic Just Made the Yamaha R9 a Whole Lot Louder
+
+date: 2025-03-11, from: Ride Apart, Electric Motorcycle News
+
+Take your pic between street-legal and track-only setups. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752914/akrapovic-full-exhaust-systems-yamaha-r9/>
+
+---
+
+## Get Ready To See if Ducati’s Desmo250 MX Race Credentials Hold Up
+
+date: 2025-03-11, from: Ride Apart, Electric Motorcycle News
+
+Will it do as well as the Desmo450 MX?  
+
+<br> 
+
+<https://www.rideapart.com/news/752871/ducati-desmo250-mx-launch/>
+
+---
+
+## ARCA Menards Series West: 2025 Phoenix Race Review
+
+date: 2025-03-10, from: Kickin the Tires blog
+
+&#160;By Vincent Delforge, Staff Writer The second race of the 2025 ARCA Menards West Series season, combined with the national ARCA Menards Series, which also hosted the second race of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-series-west-2025-phoenix-race-review/>
 
 ---
 

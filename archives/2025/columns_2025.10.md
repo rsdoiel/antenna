@@ -1,11 +1,509 @@
 ---
 title: columns
-updated: 2025-03-10 07:08:25
+updated: 2025-03-11 07:08:24
 ---
 
 # columns
 
-(date: 2025-03-10 07:08:25)
+(date: 2025-03-11 07:08:24)
+
+---
+
+##  How Much Do I Really Need to Know? 
+
+date: 2025-03-11, updated: 2025-03-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/how-much-do-i-really-need-to-know>
+
+---
+
+## March 10, 2025
+
+date: 2025-03-11, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158843172/94e7c76e59a17171aa1c6d6b41387b47.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158843172/94e7c76e59a17171aa1c6d6b41387b47.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-10-2025-49a>
+
+---
+
+## Fresh Wine-flavored version of Mono released
+
+date: 2025-03-11, updated: 2025-03-11, from: Liam Proven's articles at the Register
+
+<h4>First new version in about five years, but it&#39;s who did it that matters more</h4>
+      <p>The WINE project has put out its first release of Mono, the original FOSS .NET runtime, since it took the project over from Microsoft six months ago.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/11/new_wineflavored_version_of_mono/>
+
+---
+
+## Bluesky is not billionaire-proof
+
+date: 2025-03-11, from: Dave Winer's Scripting News
+
+<p>First I want to say that <a href="https://daytona.scripting.com/search?q=bluesky">Bluesky</a> is nice software, good design, attractive, they have a goal and stick to it, and it stays up, no <a href="https://www.theatlantic.com/technology/archive/2015/01/the-story-behind-twitters-fail-whale/384313/?gift=f35zZN0v_gDFE8xNwlQAHSNkdwehtNpsP-bh1d4EoU4&utm_source=copy-link&utm_medium=social&utm_campaign=share">fail whales</a> that were so vexing of early days Twitter. </p>
+<p>That said, I have two criticisms:</p>
+<ul>
+<li>They are implementing the same limits that Twitter designed into their product, no styling, no links, you can't edit, no titles, enclosures, and a limit of 300 chars per post. Simple stuff that, if they broke through the Twitter design, would make it a decent platform for writers. I don't see any reason to duplicate the mistakes that Twitter made, in 2006, in the design of their product.</li>
+<li>They repeatedly claim to be <a href="https://www.cnbc.com/2024/11/21/bluesky-ceo-jay-graber-says-x-rival-is-billionaire-proof.html">billionaire-proof</a> but as far as I can tell, and I have built software on their APIs, they are not. Yet they tell users they are safe, and what choice do the users have but to believe them, esp when tech journalism repeats the claims without challenging them. As a result, people believe that if Bluesky were to be acquired by a billionaire, something they might not even be able to stop, they will be able to quickly migrate to something that's the same as Bluesky and keep all their connections, people they follow and people following them. </li>
+</ul>
+<p>All of this would be nice, if it were true but imho it is not true. I'm going to go through the recent statement from their CEO in the remainder of this piece. I invite them to rebut it, esp Mike Masnick of Techdirt, who has journalistic integrity, is widely respected, and is on the Bluesky board of directors. Honestly I can't understand why Masnick puts his integrity on the line here, I've tried to discuss it with him, and I guess he doesn't take me seriously enough to give a serious response. I would also like to know what his deal is with them, does he profit personally if Bluesky is acquired. That needs to be disclosed, imho. I would do it if I were in his shoes. </p>
+<p>If you read my blog, I hope you know that I wouldn't challenge someone on something like this unless I was pretty sure there is an issue. I don't imagine for a second that people would abandon Bluesky if they knew they were locked in and would have no path out if they were bought by a billionaire. I know we can't get out and I still use Bluesky, because that's where the people I want to network with are. They won. So they don't have to deceive. They can stop making this ridiculous claim. Yet they continue to do it, in pretty much exactly the same terms as they have been doing it all along. </p>
+<p>Here's the statement that appeared in <a href="https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/">TechCrunch</a> yesterday.</p>
+<ul>
+<li>“If a billionaire came in and bought Bluesky, or took it over, or if I decided tomorrow to change things in a way that people really didn’t like, then they could fork off and go on to another application,” Graber explained at SXSW. “There’s already applications in the network that give you another way to view the network, or you could build a new one as well. And so that openness guarantees that there’s always the ability to move to a new alternative.”</li>
+<li>The quote is from Jay Graber, the CEO of the company.</li>
+</ul>
+<p>Let's go through it, point by point</p>
+<ul>
+<li>"they could fork it off and go on to another application" -- in this sentence "they" applies to developers, because you have to be a developer to fork an application. Assuming Bluesky is available in source code, with an appropriate open source license, and they have released enough code so that a developer could quickly launch an exact Bluesky clone, maybe this part is true. I can't evaluate it without going through the exercise of forking their code, but I do know this -- no one has. Why not? I would think that with <a href="https://backlinko.com/bluesky-statistics">27 million users</a>, by now someone would have tried it. Maybe this post will uncover such an instance, or motivate one. I would be happy to try it out to see how it works. But it has to be completely independent of Bluesky. It would have to work, without loss of functionality, if Bluesky's network disappeared.</li>
+<li>"there’s already applications in the network that give you another way to view the network" -- this is true. But they don't do very much nor do they have many users. They are basically experiments that show that you could build something else with the format they have defined. This isn't unusual. You can make a lot of different kinds of websites with HTML, for example, but very few of them have millions of users. Same thing with Bluesky-compatible apps that do less than what Bluesky does. I don't think this adds anything to their claim of being safe from being acquired by a billionaire. Also if these apps are in the same network, that doesn't give us any independence from Bluesky. So I think this is a no-op, it adds nothing but confusion to the claim.</li>
+<li>"[our] openness guarantees that there’s always the ability to move to a new alternative" -- simply this is not true, and it's the crux of the question. There is no such guarantee. If there were, we would be able to move to an alternative now. Where is it? It's not there and imho it can't be there. </li>
+</ul>
+<p>And there are other problems. Mastodon does what they claim to do. There are lots of instances of Mastodon servers and they interop with each other. It's an incredible proof of concept. But its federation ability adds enough complexity that most people prefer Bluesky, which is not federatable. There are always tradeoffs in technology. You can have flexibility but it comes at a price. Bluesky would have you believe you can have the flexibility of Mastodon without paying the price. </p>
+<p>There may be a way to do what they promise, but it would mean removing features, which isn't a bad idea, but they have decided they have to do everything Twitter does and there is the conundrum. Twitter was designed around centralization, and because of that Twitter is <i>not</i> billionaire-proof as has been demostrated, and neither is Bluesky.</p>
+<p>Every time I read this quote from their CEO it gets my bile up, and I say things on Bluesky that I regret later. Instead I decided to take the time this morning to carefully explain the problem and now when they make the claim, I can point to this piece. Or maybe I'm wrong, and they can show me an instance I can switch to and not lose access to my network of friends on Bluesky and not depend on the existence of Bluesky itself. That would actually make me happy (I think) and give me a completely new understanding of computer science. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/11/113838.html?title=blueskyIsNotBillionaireproof>
+
+---
+
+## 2025-03-09 The looming Discord IPO
+
+date: 2025-03-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-09-the-looming-discord-ipo">2025-03-09 The looming Discord IPO</h1>
+
+<p>So&hellip; Discord might be going there. I like their offering. I even pay them about $10/month.
+What they offer works well.
+People get their own little communities to administer, with the tools to administer them well, with the self-written automations and bots to handle communities from a handful of people to many thousands.
+Read <a class="account" href="https://infosec.exchange/@isotopp" title="@isotopp@infosec.exchange">@isotopp</a>’s <a href="https://infosec.exchange/@isotopp/114116202418228034">perspective on Discord</a>.</p>
+
+<p>But the monetization drive is strong.
+And once the shareholders are in place, pressure for monetization will ramp up even more, I&rsquo;m sure. How long until it all goes down? Five years?</p>
+
+<p>What are your backup plans?</p>
+
+<p><a href="https://campaignwiki.org/wiki/Chat">My backup plan</a> is an IRC backend (<a href="https://ngircd.barton.de/">ngircd</a> uses about 5M of memory) and two instances of a web front-end called <a href="https://thelounge.chat/">The Lounge</a>. One of them is free for all and connects to my chat server; the other needs registration and offers file uploads and always-on connectivity (it acts as a &ldquo;bouncer&rdquo;). The two of them take about 150M of memory. Each registered account gets a little SQLite file with the logs. No other resources required.</p>
+
+<p>You can connect to the IRC backend directly using your favourite IRC client, of course. Emacs comes with two of them. Just saying. 😄</p>
+
+<p>For iOS, there&rsquo;s <a href="https://colloquy.app/">Colloquy</a>.</p>
+
+<p>For Android, <a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> suggests <a href="https://f-droid.org/packages/io.mrarm.irc/">Revolution IRC</a>.</p>
+
+<p><a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> suggested <a href="https://snikket.org/service/quickstart/">Snikket</a> instead. Installation requires a Docker image.</p>
+
+<p>I dislike Docker, not because of what it is but because of what it implies. A virtual machine inside your virtual machine means that it doesn&rsquo;t auto-update. Upgrading will be tricky. It also means individual deployment requires multiple services such that it ended up being easier for them to supply a Docker image instead of supplying good instructions. I always take that to mean that the setup is brittle and underdocumented. Perhaps I’m wrong but it that’s the suspicion I have.</p>
+
+<p>Generally speaking, I dislike Docker images for my virtual server server (6G memory, 75g storage, 2 cores) because multiple services packaged in a dockerfile usually mean lots of resources required. Frugal computing means that I am loath to accommodate that. I prefer not to upgrade my virtual machine.</p>
+
+<p><a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> also suggested <a href="https://app.revolt.chat/">Revolt</a>.
+<a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> created a <a href="https://rvlt.gg/wkBDhJPb">Grenzland Server on Revolt</a>.
+<a class="account" href="https://social.city-of-glass.net/users/cidney" title="@cidney@social.city-of-glass.net">@cidney</a> noted that it had Discord-like roles and role management for the server owner to hand out, so perhaps it&rsquo;s quite a suitable replacement.
+Revolt can be self-hosted via Docker or self-building. At least there is a lot of info out there.
+<a class="account" href="https://social.city-of-glass.net/users/cidney" title="@cidney@social.city-of-glass.net">@cidney</a> also found a wiki pages listing only four known instances including the default one, the largest being Andrew Tate&rsquo;s. 🤮</p>
+
+<p><a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> wanted to give Matrix another spin.
+There are two server implementations, Synapse and Dendrite.</p>
+
+<blockquote>
+<p>At an absolute minimum, Dendrite will expect 1GB RAM. For a comfortable day-to-day deployment which can participate in federated rooms for a number of local users, be prepared to assign 2-4 CPU cores and 8GB RAM — more if your user count increases. &ndash; <a href="https://element-hq.github.io/dendrite/installation/planning">Planning your installation</a></p>
+</blockquote>
+
+<p><a class="account" href="https://tabletop.social/users/kyonshi" title="@kyonshi@tabletop.social">@kyonshi</a> suggested <a href="https://jitsi.org/">Jitsi</a>.
+I tried to self-host it a few years ago.
+It worked well! But it also took a lot of resource. During the video call, the virtual machine&rsquo;s <a href="2020-03-26_Jitsi_and_the_CPU">load went up to 8</a>.
+We sometimes use the installation at the <a href="https://ffmuc.net/">Freifunk München</a> for gaming.
+Thanks, ffmuc! 😍</p>
+
+<p>So, where does that leave is? I don&rsquo;t know. People don&rsquo;t seem to like The Lounge with IRC backend and I seem to be unwilling to upgrade my hosting commitments.</p>
+
+<p><a class="account" href="https://hackers.town/@mc" title="@mc@hackers.town">@mc</a> recently recommended a different IRC server called <a href="https://ergo.chat/about">Ergo</a> and a different web front-end called <a href="https://codeberg.org/emersion/gamja">Gamja</a> but it&rsquo;s unclear to me what significant advantages either would offer.</p>
+
+<p>Previously:</p>
+
+<blockquote>
+<p>So… the situation is bad, but I still use Discord. &ndash; <a href="2022-08-16_Discord">Discord</a> (2022)</p>
+</blockquote>
+
+<p><a class="account" href="https://tilde.zone/@dashdsrdash" title="@dashdsrdash@tilde.zone">@dashdsrdash</a> wrote wrote in with some interesting feedback. The Zulip part is interesting because I only used it for tiny bit, talking to the maintainers of Antora. Here&rsquo;s what they have to say:</p>
+
+<blockquote>
+<ul>
+<li>Zulip is great for UI, slightly aggravating to run. It absolutely wants a dedicated server. It has a dice roller as one of the sample bots, and the API is extensive.</li>
+<li>IRC is extremely easy to setup and relatively easy to write bots for. Interfaces vary from bare bones to not-bad; The Lounge is up on the not-bad end, and also easy to host.</li>
+<li>Matrix may be the future of federated chat systems, but if you don&rsquo;t need federation, the complexity and ongoing maintenance are not worth it.</li>
+<li>Jitsi has integrated chat but is video-conferencing-centric; the text chat is actually Prosody (an XMPP/Jabber) server under the hood. Video processing takes up a lot of CPU and bouncing it around takes a lot of bandwidth; otherwise, it&rsquo;s pretty nice.</li>
+<li>I haven&rsquo;t tried running Revolt but I looked at the docs and I am really not favorably inclined. They have some questionable technology choices and insist on a Docker-first install that in my experience is a likely sign that there are too many moving parts for anyone to be able to diagnose what&rsquo;s going wrong.</li>
+</ul>
+
+<p>My suggestions would be:</p>
+
+<ul>
+<li>IRC is still a solid choice</li>
+<li>Prosody without the Jitsi video conferencing is pretty nice, albeit a little complex to configure initially.</li>
+<li>If I felt like spending the money for a medium-large VM at a hosting service dedicated to gaming, Zulip would be nice.</li>
+</ul>
+</blockquote>
+
+<p>I didn&rsquo;t know about the hosting of Zulip but the rest tracks my experience. IRC is the simplest option.</p>
+
+<p><a class="account" href="https://social.vivaldi.net/@randomwizard" title="@randomwizard@vivaldi.net">@randomwizard</a> is giving <a href="https://galene.org/">Galène</a> a try. Videoconferencing that might not be as hard to setup correctly as self-hosted Jitsi!</p>
+
+<p><a class="tag" href="/search/?q=%23Snikket">#Snikket</a> <a class="tag" href="/search/?q=%23Discord">#Discord</a> <a class="tag" href="/search/?q=%23Revolt">#Revolt</a> <a class="tag" href="/search/?q=%23Matrix">#Matrix</a> <a class="tag" href="/search/?q=%23Jitsi">#Jitsi</a> <a class="tag" href="/search/?q=%23IRC">#IRC</a> <a class="tag" href="/search/?q=%23Chat">#Chat</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-09-discord-ipo>
+
+---
+
+## 2025-03-11 Distrusting US arms dealers
+
+date: 2025-03-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-11-distrusting-us-arms-dealers">2025-03-11 Distrusting US arms dealers</h1>
+
+<p>Ah, this is where the quotes come from:</p>
+
+<blockquote>
+<p>He’s done everything to discredit and demean Zelensky on the international stage with the shameful press conference in which he teamed up with the vice president to attack Zelensky,” said Sen. Jeff Merkley (D-Ore.). He pressed Whitaker, and other State Department nominees in the hearing, over whether Trump is a Russian asset. “What else could a Russian asset actually possibly do that Trump hasn’t yet done? – <a href="https://thehill.com/homenews/senate/5175978-matthew-whitaker-nato-trump/">Trump’s NATO nominee commits to alliance, despite MAGA opponents</a>, by Laura Kelly, for The Hill</p>
+</blockquote>
+
+<p>In the same piece:</p>
+
+<blockquote>
+<p>Moreover — people should not assume that Trump’s policies are destructive for NATO. If anything, pushing European allies to increase defense spending is going to strengthen NATO.</p>
+</blockquote>
+
+<p>Well, I&rsquo;m assuming that a NATO full of bootlickers would be great for Trump as he and Putin divvy up Europe.</p>
+
+<p>I bet every European country that bough US equipment is super angry right now.</p>
+
+<p>I am super angry because Switzerland, after a long fight against the new fighter planes, after considering Swedish and French fighter planes, decided to go with the planes that are the most expensive, the most unreliable (based on my uninformed opinions), and the most untrustworthy: the F-35.</p>
+
+<p>From a country that bullies its allies and betrays its friends, that switches off the satellite phones, the intelligence sharing, and whatever else it damn pleases in order to force a settlement. Which is within their rights, of course. But also disqualifies them as a friend for a generation, if you ask me.</p>
+
+<p>A country with the most powerful military in the world and the wisdom of a tooth that needs to be pulled. 🤮</p>
+
+<p>And we&rsquo;re not even part of NATO.</p>
+
+<p>⁂</p>
+
+<p>For more about the F-35, <a class="account" href="https://agora.echelon.pl/users/kravietz" title="@kravietz@agora.echelon.pl">@kravietz</a> recently linked to this article:</p>
+
+<blockquote>
+<p>With over 400 F-35s projected for Europe by 2030, per Lockheed Martin, the jet remains a cornerstone of NATO’s air power—but its integration highlights a paradox: its technological edge comes at the cost of strategic vulnerability. The U.S. policy restricting independent test operations outside CONUS, combined with reliance on U.S.-managed MDFs, ALIS, ODIN, and software updates, amplifies fears of over-dependence. &ndash; <a href="https://theaviationist.com/2025/03/10/f-35-kill-switch-myth/">The F-35 ‘Kill Switch’: Separating Myth from Reality</a></p>
+</blockquote>
+
+<p><a class="account" href="https://agora.echelon.pl/users/kravietz" title="@kravietz@agora.echelon.pl">@kravietz</a> adds:</p>
+
+<blockquote>
+<p>… but the problem is not technical. The problem is that in 2025 US has rather clearly signalled that its subjectively defined “interests” will now have priority of international agreements.</p>
+
+<p>That is, the same agreements towards which the US has over the 30 years consistently pushed all European countries, and especially the new EU and NATO joiners. And it made sense as long as the US was the guarantor of these treaties.</p>
+
+<p>What we have now? Let’s say Russia conducts a limited military incursion into eastern Poland with the objective of controlling the Suwalki Corridor. This of course is in violation of UN Charter, NATO Charter and a hundred of bilateral treaties between Russia and EU and Poland. So what? The 2025 US president now decides a “prolonged defense” is “not in US interests” and does everything to force “peace” on Poland.</p>
+
+<p>“Everything” includes impairing US-delivered weapons systems and generally creating a powerful impression of stab in the back.</p>
+
+<p>A “peace”, in which Poland’s concession is the town of Suwałki, and Russia’s “concession” is the nearby town of Olsztyn, which Russia mercifully agrees not to occupy or destroy. Well, it also happens to be a Polish town but Russia in the meantime declared it “historically Russian region” and it now presents it as a concession.</p>
+
+<p>And the 2025 US president says it’s OK, because “peace” and “both sides did concessions”.</p>
+</blockquote>
+
+<p><a class="tag" href="/search/?q=%23Russia">#Russia</a> <a class="tag" href="/search/?q=%23Poland">#Poland</a> <a class="tag" href="/search/?q=%23NATO">#NATO</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-11-us-arms>
+
+---
+
+## 2025-03-11 Chainsaw politicians
+
+date: 2025-03-11, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-11-chainsaw-politicians">2025-03-11 Chainsaw politicians</h1>
+
+<p>Recovery from DOGE is hard.</p>
+
+<p>To put recovery from DOGE into perspective: In tiny Switzerland we elected prime right-winger Blocher into government and he ran the justice department for a handful years. And he fired a lot of people for efficiency. And the institutions are still struggling twenty years later. People fired find new jobs, new careers, early retirements. People staying work hard, burn out, are angry, work on projects and switch tracks before the projects run into walls. The institutional memory keeps shrinking as the new recruits are younger and younger. Suddenly the seniors have been here for just four years. It’s a disgrace. A festering wound. All the jobs are overwhelming and people are drained when they take these positions and they leave again or burn out or struggle or backstab.</p>
+
+<p>And of course everybody who was against the cuts isn’t automatically in favour of increasing the budgets and raising taxes when the chainsaw politicians are gone. But the jobs still needs to get done and so quality goes down and waiting times increase and you can all join the slow march of institutional death and hope for that rekindling of the founding spirit, when having working institutions are a goal again, when the empathy-deprived scrooges are long gone.</p>
+
+<p><a class="tag" href="/search/?q=%23Switzerland">#Switzerland</a> <a class="tag" href="/search/?q=%23USA">#USA</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-11-chainsaw-politicians>
+
+---
+
+## The Trump regime will arrest some of you in the middle of the night because you spoke your mind
+
+date: 2025-03-11, from: Robert Reich's blog
+
+Chilling 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-trump-regime-will-arrest-some>
+
+---
+
+## March 10, 2025 
+
+date: 2025-03-11, from: Heather Cox Richardson blog
+
+Last week&#8217;s dramatically dropping stock market prompted Fox News Channel personality Maria Bartiromo to ask Trump in an interview that aired yesterday if he was expecting a recession. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-10-2025>
+
+---
+
+## Finding safety in irony, apathy, and animosity
+
+date: 2025-03-11, from: Tracy Durnell Blog
+
+The Disbeliever&#8217;s Guide to Authenticity by Toby Shorin [I]rony is a natural stance to take when constantly making judgments between “real” and “fake,” authentic and inauthentic. It’s a coping mechanism for preserving one’s commitment to authenticity in the midst of a commodified and commoditized society. Irony is a way of shirking responsibility. It reifies the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/10/finding-safety-in-irony-apathy-and-animosity/>
+
+---
+
+## Front Page Tech on a New UI Style for iOS 19, Back on January 17
+
+date: 2025-03-11, updated: 2025-03-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=HaP_q9W3AQE>
+
+---
+
+## Smart Home is an illusion
+
+date: 2025-03-11, from: Om Malik blog
+
+So maybe it’s time we finally changed the way we talk about the Internet of Things (IoT). We keep talking about it as something achievable. Perhaps it’s time we started talking about what it really is: one of the biggest consumer scams ever invented. For a generation, we’ve been sold a vision of seamless automation, &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/10/smart-home-is-an-illusion/>
+
+---
+
+## The Bait-and-Switch President
+
+date: 2025-03-10, from: Dan Rather's Steady
+
+Once untouchable, Medicaid is now in Republican crosshairs 
+
+<br> 
+
+<https://steady.substack.com/p/the-bait-and-switch-president>
+
+---
+
+## Yours Truly Guesting on ‘Upgrade’ With Jason Snell
+
+date: 2025-03-10, updated: 2025-03-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.relay.fm/upgrade/554>
+
+---
+
+##  The First Three Episodes of Andor Available Online for Free 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/the-first-three-episodes-of-andor-available-online-for-free>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-10, from: Miguel de Icaza Mastondon feed)
+
+<p>Ceviche in México city:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114140188832825514>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-03-10, from: Ryan Gantz Bluesky feed)
+
+"To truly INNOVATE, we need to take massive risks with human life, and explore new ways to extract value from people and the ecosystem that supports us. The PROBLEM is that safety standards, labor laws, civil rights, consumer protections, bodily autonomy, and free speech make that really hard!!!"
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lk2d7sry3223>
+
+---
+
+## March 9, 2025
+
+date: 2025-03-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158798410/afa5424da049b8ae3d8502dbf7d7d1b9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158798410/afa5424da049b8ae3d8502dbf7d7d1b9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-9-2025-cae>
+
+---
+
+##  Eyes on the Street 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/eyes-on-the-street>
+
+---
+
+##  GOLIKEHELLMACHINE is interviewing (current & former) federal workers for a series that... 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046420-golikehellmachine-is-inte>
+
+---
+
+##  &#8220;Covid was a privatized pandemic. It is this technocratic, privatized model that... 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046414-covid-was-a-privatized-pa>
+
+---
+
+##  I Am Trapped in the Criterion Closet. &#8220;How long have I been... 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046415-i-am-trapped-in-the>
+
+---
+
+##  When This [Medical School] Professor Got Cancer, He Didn&#8217;t Quit. He Taught... 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046417-when-this-medical-school->
+
+---
+
+##  The latest edition of Jodi Ettenberg&#8217;s link-drenched Curious About Everything newsletter just... 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046419-the-latest-edition-of-jod>
+
+---
+
+## The Trump Slump is now
+
+date: 2025-03-10, from: Robert Reich's blog
+
+You can&#8217;t take a battering ram to every major institution in America and expect the economy to do well 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-trump-slump-is-now>
+
+---
+
+##  Purged gov&#8217;t employees, while scrambling to find work & health insurance, face... 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046413-purged-govt-employees-whi>
+
+---
+
+##  I woke up Saturday wondering how observers of Ramadan time their fasting... 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046412-i-woke-up-saturday-wonder>
+
+---
+
+##  A forthcoming novel from Patricia Lockwood: Will There Ever Be Another You.... 
+
+date: 2025-03-10, updated: 2025-03-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046410-a-forthcoming-novel-from->
 
 ---
 
@@ -33,7 +531,7 @@ BTW it's worth <a href="http://scripting.com/2025/02/24/153052.html">calling att
 
 date: 2025-03-10, from: Doc Searls (at Harvard), New Old Blog
 
-My most-visited blog post of the last couple of weeks is Radio&#39;s Death Knells. I have a feeling those visits are more from people in the business than from people who listen to radio. Sad but interesting to see how many listings on my old blogroll (frozen in Augst 2007) are from people now gone: [&#8230;] 
+Death sells. So far today, this blog post has had 13 visits. Meanwhile, Radio&#8217;s Death Knells has had 356. Since I need to go out, I&#8217;ll call it a day and put a picture on top. See what happens. What was Indiana thinking? These days sunrise in Bloomington is about four hours before noon, and sunset [&#8230;] 
 
 <br> 
 
@@ -131,7 +629,7 @@ Snake in the grass? Which British populist politician does this image bring to m
 
 date: 2025-03-09, from: Doc Searls (at Harvard), New Old Blog
 
-For eight years I blogged here in a style that was basically tweeting with titles. Now I&#39;m doing it again here, with Wordland. David Weinberger explains why it&#39;s awesome. 
+For eight years I blogged here in a style that was basically tweeting with titles. Now I&#8217;m doing it again here, with Wordland. David Weinberger explains why it&#8217;s awesome. 
 
 <br> 
 
@@ -162,7 +660,7 @@ date: 2025-03-09, from: Dave Rupert blog
 <p>I’m a generalist at heart and enjoy writing about technology generally. If you look at my archive it’s pretty rare that two consecutive posts will be thematically similar. I write about specific technologies like CSS but also about game development or the capital-W Web. And of course prototypes, which I’m convinced are the not-so-secret sauce for building great technologies.</p>
 <p>One direction I’m slipping towards in my mind is futurism and speculative fiction (e.g. <a href="https://daverupert.com/stories/">sci-fi</a>). Writing about current technology limits you to existing capitalist and corporate structures. Imagining the future <a href="https://daverupert.com/2017/10/a-good-science-fiction-story/">and the potential fallout</a> allows you to think without the confines of “Good because make money” which so much of our discourse is today.</p>
 <h2>Who are you writing for?</h2>
-<p>Woof. Good question. 90% of the time I’m writing to get ideas out of my head. Transfiguring ideas into text works wonders for me. I also tend to write for an abstract audience, people who are curious about the web and technology yet crave more from it; a person who considers themselves a technologist, but also factors in morality and other <a href="http://localhost:4000/2024/04/thoughts-on-cosmotechnics/">cosmotechnics</a>.</p>
+<p>Woof. Good question. 90% of the time I’m writing to get ideas out of my head. Transfiguring ideas into text works wonders for me. I also tend to write for an abstract audience, people who are curious about the web and technology yet crave more from it; a person who considers themselves a technologist, but also factors in morality and other <a href="http://daverupert.com/2024/04/thoughts-on-cosmotechnics/">cosmotechnics</a>.</p>
 <h2>What’s your favorite post on your blog?</h2>
 <p><a href="https://daverupert.com/2023/08/quick-thoughts-on-chips/">Quick Thoughts on Chips</a> (2023) is up there but I feel like <a href="https://daverupert.com/2013/04/responsive-deliverables/">Responsive Deliverables</a> (2013) aka, the “tiny bootstraps” post, is a level of quality, thoughtfulness, and timelessness that I don’t achieve often. I’d like more “timeless” pieces like that, but I don’t exactly know how or if it’s worth trying to bottle that magic.</p>
 <h2>Any future plans for your blog? Maybe a redesign, a move to another platform, or adding a new feature?</h2>
@@ -227,95 +725,6 @@ date: 2025-03-09, from: Heather Cox Richardson blog
 </audio> <a href="https://api.substack.com/feed/podcast/158722569/9e4733b98610c220e2ef41c992534237.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://heathercoxrichardson.substack.com/p/march-8-2025-cd4>
-
----
-
-## 2025-03-09 The looming Discord IPO
-
-date: 2025-03-09, from: Alex Schroeder's Blog
-
-<h1 id="2025-03-09-the-looming-discord-ipo">2025-03-09 The looming Discord IPO</h1>
-
-<p>So&hellip; Discord might be going there. I like their offering. I even pay them about $10/month.
-What they offer works well.
-People get their own little communities to administer, with the tools to administer them well, with the self-written automations and bots to handle communities from a handful of people to many thousands.
-Read <a class="account" href="https://infosec.exchange/@isotopp" title="@isotopp@infosec.exchange">@isotopp</a>’s <a href="https://infosec.exchange/@isotopp/114116202418228034">perspective on Discord</a>.</p>
-
-<p>But the monetization drive is strong.
-And once the shareholders are in place, pressure for monetization will ramp up even more, I&rsquo;m sure. How long until it all goes down? Five years?</p>
-
-<p>What are your backup plans?</p>
-
-<p><a href="https://campaignwiki.org/wiki/Chat">My backup plan</a> is an IRC backend (<a href="https://ngircd.barton.de/">ngircd</a> uses about 5M of memory) and two instances of a web front-end called <a href="https://thelounge.chat/">The Lounge</a>. One of them is free for all and connects to my chat server; the other needs registration and offers file uploads and always-on connectivity (it acts as a &ldquo;bouncer&rdquo;). The two of them take about 150M of memory. Each registered account gets a little SQLite file with the logs. No other resources required.</p>
-
-<p>You can connect to the IRC backend directly using your favourite IRC client, of course. Emacs comes with two of them. Just saying. 😄</p>
-
-<p>For iOS, there&rsquo;s <a href="https://colloquy.app/">Colloquy</a>.</p>
-
-<p>For Android, <a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> suggests <a href="https://f-droid.org/packages/io.mrarm.irc/">Revolution IRC</a>.</p>
-
-<p><a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> suggested <a href="https://snikket.org/service/quickstart/">Snikket</a> instead. Installation requires a Docker image.</p>
-
-<p>I dislike Docker, not because of what it is but because of what it implies. A virtual machine inside your virtual machine means that it doesn&rsquo;t auto-update. Upgrading will be tricky. It also means individual deployment requires multiple services such that it ended up being easier for them to supply a Docker image instead of supplying good instructions. I always take that to mean that the setup is brittle and underdocumented. Perhaps I’m wrong but it that’s the suspicion I have.</p>
-
-<p>Generally speaking, I dislike Docker images for my virtual server server (6G memory, 75g storage, 2 cores) because multiple services packaged in a dockerfile usually mean lots of resources required. Frugal computing means that I am loath to accommodate that. I prefer not to upgrade my virtual machine.</p>
-
-<p><a class="account" href="https://tabletop.social/@phf" title="@phf@tabletop.social">@phf</a> also suggested <a href="https://app.revolt.chat/">Revolt</a>.
-<a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> created a <a href="https://rvlt.gg/wkBDhJPb">Grenzland Server on Revolt</a>.
-<a class="account" href="https://social.city-of-glass.net/users/cidney" title="@cidney@social.city-of-glass.net">@cidney</a> noted that it had Discord-like roles and role management for the server owner to hand out, so perhaps it&rsquo;s quite a suitable replacement.
-Revolt can be self-hosted via Docker or self-building. At least there is a lot of info out there.
-<a class="account" href="https://social.city-of-glass.net/users/cidney" title="@cidney@social.city-of-glass.net">@cidney</a> also found a wiki pages listing only four known instances including the default one, the largest being Andrew Tate&rsquo;s. 🤮</p>
-
-<p><a class="account" href="https://tabletop.social/@wandererbill" title="@wandererbill@tabletop.social">@wandererbill</a> wanted to give Matrix another spin.
-There are two server implementations, Synapse and Dendrite.</p>
-
-<blockquote>
-<p>At an absolute minimum, Dendrite will expect 1GB RAM. For a comfortable day-to-day deployment which can participate in federated rooms for a number of local users, be prepared to assign 2-4 CPU cores and 8GB RAM — more if your user count increases. &ndash; <a href="https://element-hq.github.io/dendrite/installation/planning">Planning your installation</a></p>
-</blockquote>
-
-<p><a class="account" href="https://tabletop.social/users/kyonshi" title="@kyonshi@tabletop.social">@kyonshi</a> suggested <a href="https://jitsi.org/">Jitsi</a>.
-I tried to self-host it a few years ago.
-It worked well! But it also took a lot of resource. During the video call, the virtual machine&rsquo;s <a href="2020-03-26_Jitsi_and_the_CPU">load went up to 8</a>.
-We sometimes use the installation at the <a href="https://ffmuc.net/">Freifunk München</a> for gaming.
-Thanks, ffmuc! 😍</p>
-
-<p>So, where does that leave is? I don&rsquo;t know. People don&rsquo;t seem to like The Lounge with IRC backend and I seem to be unwilling to upgrade my hosting commitments.</p>
-
-<p><a class="account" href="https://hackers.town/@mc" title="@mc@hackers.town">@mc</a> recently recommended a different IRC server called <a href="https://ergo.chat/about">Ergo</a> and a different web front-end called <a href="https://codeberg.org/emersion/gamja">Gamja</a> but it&rsquo;s unclear to me what significant advantages either would offer.</p>
-
-<p>Previously:</p>
-
-<blockquote>
-<p>So… the situation is bad, but I still use Discord. &ndash; <a href="2022-08-16_Discord">Discord</a> (2022)</p>
-</blockquote>
-
-<p><a class="account" href="https://tilde.zone/@dashdsrdash" title="@dashdsrdash@tilde.zone">@dashdsrdash</a> wrote wrote in with some interesting feedback. The Zulip part is interesting because I only used it for tiny bit, talking to the maintainers of Antora. Here&rsquo;s what they have to say:</p>
-
-<blockquote>
-<ul>
-<li>Zulip is great for UI, slightly aggravating to run. It absolutely wants a dedicated server. It has a dice roller as one of the sample bots, and the API is extensive.</li>
-<li>IRC is extremely easy to setup and relatively easy to write bots for. Interfaces vary from bare bones to not-bad; The Lounge is up on the not-bad end, and also easy to host.</li>
-<li>Matrix may be the future of federated chat systems, but if you don&rsquo;t need federation, the complexity and ongoing maintenance are not worth it.</li>
-<li>Jitsi has integrated chat but is video-conferencing-centric; the text chat is actually Prosody (an XMPP/Jabber) server under the hood. Video processing takes up a lot of CPU and bouncing it around takes a lot of bandwidth; otherwise, it&rsquo;s pretty nice.</li>
-<li>I haven&rsquo;t tried running Revolt but I looked at the docs and I am really not favorably inclined. They have some questionable technology choices and insist on a Docker-first install that in my experience is a likely sign that there are too many moving parts for anyone to be able to diagnose what&rsquo;s going wrong.</li>
-</ul>
-
-<p>My suggestions would be:</p>
-
-<ul>
-<li>IRC is still a solid choice</li>
-<li>Prosody without the Jitsi video conferencing is pretty nice, albeit a little complex to configure initially.</li>
-<li>If I felt like spending the money for a medium-large VM at a hosting service dedicated to gaming, Zulip would be nice.</li>
-</ul>
-</blockquote>
-
-<p>I didn&rsquo;t know about the hosting of Zulip but the rest tracks my experience. IRC is the simplest option.</p>
-
-<p><a class="tag" href="/search/?q=%23Snikket">#Snikket</a> <a class="tag" href="/search/?q=%23Discord">#Discord</a> <a class="tag" href="/search/?q=%23Revolt">#Revolt</a> <a class="tag" href="/search/?q=%23Matrix">#Matrix</a> <a class="tag" href="/search/?q=%23Jitsi">#Jitsi</a> <a class="tag" href="/search/?q=%23IRC">#IRC</a> <a class="tag" href="/search/?q=%23Chat">#Chat</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-03-09-discord-ipo>
 
 ---
 
@@ -452,18 +861,6 @@ date: 2025-03-09, updated: 2025-03-09, from: Daring Fireball
 <br> 
 
 <https://www.latimes.com/archives/la-xpm-1989-07-09-ca-5205-story.html>
-
----
-
-## Yours Truly on The Vergecast, on the Cinematic Future of James Bond Under Amazon’s Stewardship
-
-date: 2025-03-09, updated: 2025-03-09, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.theverge.com/the-vergecast/623633/james-bond-amazon-framework-laptop-desktop-vergecast>
 
 ---
 

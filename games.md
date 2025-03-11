@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-03-10 07:08:26
+updated: 2025-03-11 07:08:25
 ---
 
 # games
 
-(date: 2025-03-10 07:08:26)
+(date: 2025-03-11 07:08:25)
+
+---
+
+## Netflix’s Devil May Cry is already living up to its source material’s style
+
+date: 2025-03-11, updated: 2025-03-10, from: Polygon Website
+
+Netflix’s Devil May Cry series is less than a month away, and if the new trailer is any indication, it’s certainly set to live up to the spirit of the video games. Netflix released a new trailer Tuesday, which gave us our longest look yet at the series and maybe even a hint at what [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/537254/devil-may-cry-netflix-trailer-release-date>
+
+---
+
+## Discoveries
+
+date: 2025-03-11, updated: 2025-03-11, from: Polygon Website
+
+At Polygon, we want to introduce you to at least one thing we think you’d love every single day. With so many games, movies, shows, and internet-based quick bites (or “quibis”) out there to experience, we know it’s next to impossible to decide how to take a chance on the untested, dive into the unknown. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
+
+---
+
+## When is Shohei Ohtani coming to Fortnite?
+
+date: 2025-03-11, updated: 2025-03-11, from: Polygon Website
+
+Shohei Ohtani, the premier two-way player in baseball, is coming to Fortnite. The collaboration will feature Ohtani in his Dodgers’ uniform in a cel-shaded design. The Shohei Ohtani collaboration is adding a lot of new Shohei-themed cosmetics and events for you to enjoy — including a Solo Battle Royale tournament. Here’s when Shohei Ohtani is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/536682/shohei-ohtani-skin-release-date-pdt-edt-gmt>
+
+---
+
+## When is the weekly reset time in Destiny 2?
+
+date: 2025-03-11, updated: 2025-03-11, from: Polygon Website
+
+The weekly reset time in Destiny 2 is a little odd compared to some other live service games. Instead of having a consistent reset time, Destiny 2’s reset shifts with the yearly daylight savings changes. That means the answer to “what time is the reset this week” actually changes twice a year. However, the weekly [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24144172/weekly-reset-time-when>
+
+---
+
+## Minecraft composer C418 talks burnout after making Wanderstop, a game about burnout
+
+date: 2025-03-11, updated: 2025-03-10, from: Polygon Website
+
+Daniel Rosenfeld, better known as C418, composed a defining soundtrack of a generation when he made the music for Minecraft. As Rosenfeld told Polygon, he’s fine with always being known as “the Minecraft guy,” but on March 11, the composer released something more personal. A game that feels both intimate and emotional, and one that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/playstation/535849/minecraft-c418-interview-burnout-wanderstop>
+
+---
+
+## 5 great games with dragons to play in 2025
+
+date: 2025-03-11, updated: 2025-03-10, from: Polygon Website
+
+What’s a dragon game? That’s any game that’s got dragons in it — typically, a game that prominently features dragons. While some dragons in dragon games are less prominent, they are no less important. Dragon games can be a part of any genre, be it the ever challenging Elden Ring or the cozy life simulator [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/536691/best-dragon-games-2025>
+
+---
+
+## Finally, I can pretend I’m on my phone
+
+date: 2025-03-10, updated: 2025-03-10, from: Polygon Website
+
+I know I’m not the only person who finds themself reflexively opening and closing apps, like perusing digital window displays to feel as if I’m doing something. A new game from developer Pippin Barr playfully highlights how meaningless our relationships with phones can be. It’s called It’s As If You Were On Your Phone, and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mobile/537312/pippin-barr-phone-game>
+
+---
+
+## Hideo Kojima has a cameo in the surprise Control update that just dropped
+
+date: 2025-03-10, updated: 2025-03-10, from: Polygon Website
+
+Control’s Ultimate Edition got a new update on Monday, which adds new content to the game five years after its launch. That new (for many) content includes a cameo from Death Stranding director Hideo Kojima, who plays Dr. Yoshimi Tokui. “The mission is playable when you pick up the Dr Tokui Tapes collectible in the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/537294/hideo-kojima-control-surprise-update>
+
+---
+
+## How to unlock Caldarus for romance in Fields of Mistria
+
+date: 2025-03-10, updated: 2025-03-10, from: Polygon Website
+
+Caldarus, the dragon that helps you out around Mistria, has been teased as a romanceable candidate since Fields of Mistria’s launch, and now you can finally start to woo him, kind of. As part of the 1.3 update, you can unlock Caldarus’ romanceable form, allowing you to visit him and give him gifts. The spoiler-free [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fields-of-mistria-guides/537004/caldarus-romance-unlock-how-to-hearts>
+
+---
+
+## Where to get bird wyvern gems in Monster Hunter Wilds
+
+date: 2025-03-10, updated: 2025-03-10, from: Polygon Website
+
+Bird wyvern gems are an equipment material in Monster Hunter Wilds. You’ll get them from hunting certain monsters or as rewards for certain hunts once you reach High Rank. You’ll need bird wyvern gems for weapons like the Chicken Decapitator 2 and armor like the Damascus Helm. Our Monster Hunter Wilds guide will tell you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/537213/bird-wyvern-gem-how-to-get>
 
 ---
 
@@ -30,18 +150,6 @@ A few years ago, a sound bite went viral on TikTok: “Darling, I’ve told you 
 <br> 
 
 <https://www.polygon.com/review/536249/wanderstop-review-ivy-road-annapurna-tea-shop>
-
----
-
-## Discoveries
-
-date: 2025-03-10, updated: 2025-03-07, from: Polygon Website
-
-At Polygon, we want to introduce you to at least one thing we think you’d love every single day. With so many games, movies, shows, and internet-based quick bites (or “quibis”) out there to experience, we know it’s next to impossible to decide how to take a chance on the untested, dive into the unknown. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/gaming/24215620/new-things-to-play-watch-and-experience>
 
 ---
 

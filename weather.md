@@ -1,41 +1,17 @@
 ---
 title: weather
-updated: 2025-03-10 07:08:25
+updated: 2025-03-11 07:08:24
 ---
 
 # weather
 
-(date: 2025-03-10 07:08:25)
-
----
-
-## SPC - No watches are valid as of Mon Mar 10 14:01:02 UTC 2025
-
-date: 2025-03-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Mon Mar 10 14:01:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Mon Mar 10 14:01:02 UTC 2025
-
-date: 2025-03-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Mon Mar 10 14:01:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
+(date: 2025-03-11 07:08:24)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-03-10, from: Eastern Pacific Basin Tropical Cyclones
+date: 2025-03-11, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -45,42 +21,60 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC Mar 10, 2025 1300 UTC Day 1 Convective Outlook
+## SPC - No watches are valid as of Tue Mar 11 13:52:02 UTC 2025
 
-date: 2025-03-10, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-03-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Tue Mar 11 13:52:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Tue Mar 11 13:52:02 UTC 2025
+
+date: 2025-03-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Tue Mar 11 13:52:02 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Mar 11, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-03-11, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0725 AM CDT Mon Mar 10 2025
+0653 AM CDT Tue Mar 11 2025
 
-Valid 101300Z - 111200Z
+Valid 111300Z - 121200Z
 
-...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS FOR NORTHERN AND
-CENTRAL PORTIONS OF THE FLORIDA PENINSULA...
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Thunderstorms associated with an isolated risk for severe gusts, and
-potentially a tornado, will be possible through early afternoon in
-parts of north and central Florida.
+Isolated thunderstorms are expected across far southern California
+and into Arizona today into tonight. Severe storms are not expected.
 
-...FL Peninsula...
-Morning satellite/radar analysis shows a mid-level trough over AL/MS
-moving east-southeast towards FL, while a broken band of pre-frontal
-showers/storms extends from parts of north FL south-southwestward
-into the eastern Gulf west of Fort Myers.  The mid-level trough will
-move over the Peninsula by early evening.  A cold front is forecast
-to push southeast across the northern and central portions of the
-Peninsula through mid afternoon and coincide with thunderstorm
-development pushing east of the FL east coast.  In the meantime,
-moist/southerly low-level flow will maintain a reservoir of moderate
-buoyancy (1200 J/kg MLCAPE per the 12 UTC Tampa Bay raob).  Strong
-mid- to high-level flow will aid in storm organization contingent on
-adequately strong/sustained updraft development.  An isolated threat
-for locally strong to severe thunderstorms will seemingly exist
-prior to storms exiting the east coast later this afternoon.
+...Discussion...
+A potent mid to upper-level low west of southern CA will move east
+and evolve into an open trough and reach the AZ-NM/Sonora-Chihuahua
+border vicinity by early Wednesday morning.  Isolated to widely
+scattered showers associated with the cold core will spread east
+during the day from southern CA into the lower CO Valley and
+southwest AZ, and later into the Sonoran Desert/Mogollon Rim
+tonight.  Deeper convection near and east of the mid-level cold
+pocket will probably result in occasional lightning flashes. 
+Elsewhere, quiescent conditions for thunderstorm activity will
+prevail.
 
-..Smith/Dean.. 03/10/2025
+..Smith/Dean.. 03/11/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
