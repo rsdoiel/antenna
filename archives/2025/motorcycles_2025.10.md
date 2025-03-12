@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-03-11 07:08:27
+updated: 2025-03-12 07:08:39
 ---
 
 # motorcycles
 
-(date: 2025-03-11 07:08:27)
+(date: 2025-03-12 07:08:39)
+
+---
+
+## Is Aprilia Bringing Back This Legendary Sportbike?
+
+date: 2025-03-12, from: Ride Apart, Electric Motorcycle News
+
+The OG Mille was powered by Rotax's mighty V990 engine. Is it time for a modern comeback? 
+
+<br> 
+
+<https://www.rideapart.com/news/753211/aprilia-rsv1000-mille-comeback-trademark/>
+
+---
+
+## California Cops Impounded 30 Motorcycles for a Street Takeover
+
+date: 2025-03-12, from: Ride Apart, Electric Motorcycle News
+
+Don't stunt if you can't pay the fine.  
+
+<br> 
+
+<https://www.rideapart.com/news/753210/california-chp-motorcycle-impound-street-takeover/>
+
+---
+
+## Segway’s E150S and E250S Scooters Are Coming To Europe This Year
+
+date: 2025-03-12, from: Ride Apart, Electric Motorcycle News
+
+Could these full-size electric scooters work in the US?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753076/segway-e150s-e250s-coming-europe-2025/>
+
+---
+
+## After the Monster Chopper, It's Time For a Monster Trike
+
+date: 2025-03-12, from: Ride Apart, Electric Motorcycle News
+
+What do you do after you go big? Go bigger! 
+
+<br> 
+
+<https://www.rideapart.com/news/753068/monster-trike-hubless-tire-build/>
+
+---
+
+## The Petersen Museum’s New Motorcycle Exhibit Showcases a Century Of Innovation
+
+date: 2025-03-12, from: Ride Apart, Electric Motorcycle News
+
+Some of the rarest, most historical bikes will be on display starting March 15, 2025.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753072/2025-petersen-museum-historic-motorcycle-exhibit/>
+
+---
+
+## What Is Kawasaki Really Up To With Its Supercharged 'Project H2' UTV?
+
+date: 2025-03-12, from: Ride Apart, Electric Motorcycle News
+
+Please say a supercharged monster side by side is coming, Team Green. 
+
+<br> 
+
+<https://www.rideapart.com/news/753064/kawasaki-project-h2-utv-patents/>
 
 ---
 

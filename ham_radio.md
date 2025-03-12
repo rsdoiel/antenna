@@ -1,11 +1,49 @@
 ---
 title: ham radio
-updated: 2025-03-11 07:08:23
+updated: 2025-03-12 07:08:34
 ---
 
 # ham radio
 
-(date: 2025-03-11 07:08:23)
+(date: 2025-03-12 07:08:34)
+
+---
+
+## How to tackle DRAM’s power conundrum
+
+date: 2025-03-12, from: EDN Blog
+
+<img width="2000" height="1200" src="https://www.edn.com/wp-content/uploads/Hero-image-DRAM-power.jpg?fit=2000%2C1200" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-DRAM-power.jpg?w=2000 2000w, https://www.edn.com/wp-content/uploads/Hero-image-DRAM-power.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-DRAM-power.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-DRAM-power.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-DRAM-power.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-DRAM-power.jpg?w=1900 1900w" sizes="(max-width: 2000px) 100vw, 2000px" /><p>Micron claims to have reduced DRAM’s power consumption by 20% in its sixth-generation 10-nm DDR5 memory devices.</p>
+<p>The post <a href="https://www.edn.com/how-to-tackle-drams-power-conundrum/" data-wpel-link="internal">How to tackle DRAM’s power conundrum</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/how-to-tackle-drams-power-conundrum/>
+
+---
+
+## Hurricane Watch Net Founder Gerald Murphy, K8YUW, a Silent Key
+
+date: 2025-03-11, from: Amateur Radio Relay League News
+
+<p>Gerald E. “Gerry” Murphy, K8YUW, passed away on February 25, 2025. He was 88 years old, and the founder of the Hurricane Watch Net (HWN). </p><p>According to a statement released by current HWN manager Bobby Graves, KB5HAV, Murphy, then 28 years old, was stationed at the U.S. Naval Mobile Construction Battalion Center in Davisville, Rhode Island, in 1965. During his time off, he handled countless phon...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/hurricane-watch-net-founder-gerald-murphy-k8yuw-a-silent-key>
+
+---
+
+## Clubs are Gearing Up for ARRL Ham Radio Open House — Yours Can, Too!
+
+date: 2025-03-11, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/clubs-are-gearing-up-for-arrl-ham-radio-open-house-yours-can-too>
 
 ---
 
@@ -13,7 +51,7 @@ updated: 2025-03-11 07:08:23
 
 date: 2025-03-11, from: EDN Blog
 
-<img width="616" height="222" src="https://www.edn.com/wp-content/uploads/PLVCO_part2_fig3_v1.png?fit=616%2C222" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/PLVCO_part2_fig3_v1.png?w=616 616w, https://www.edn.com/wp-content/uploads/PLVCO_part2_fig3_v1.png?w=300 300w" sizes="(max-width: 616px) 100vw, 616px" /><p>An oscillator whose input voltage controls musical pitch rather yielding a musical "thingy" that uses a tappable linear resistance.</p>
+<img width="616" height="222" src="https://www.edn.com/wp-content/uploads/PLVCO_part2_fig3_v1.png?fit=616%2C222" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/PLVCO_part2_fig3_v1.png?w=616 616w, https://www.edn.com/wp-content/uploads/PLVCO_part2_fig3_v1.png?w=300 300w" sizes="(max-width: 616px) 100vw, 616px" /><p>An oscillator whose input voltage controls musical pitch rather yielding a musical "thingy" that uses a tappable linear resistance.</p>
 <p>The post <a href="https://www.edn.com/a-pitch-linear-vco-part-2-taking-it-further/" data-wpel-link="internal">A pitch-linear VCO, part 2: taking it further</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

@@ -1,11 +1,203 @@
 ---
 title: socal north
-updated: 2025-03-11 07:08:22
+updated: 2025-03-12 07:08:33
 ---
 
 # socal north
 
-(date: 2025-03-11 07:08:22)
+(date: 2025-03-12 07:08:33)
+
+---
+
+## The chicks are alright: Here’s what Jackie and Shadow’s eaglets face in the weeks ahead
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+The youngest chick may be only a few days old, but it’s been holding its own among the two older eaglets. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/jackie-shadow-eaglets-weeks-ahead-what-to-expect>
+
+---
+
+## Fire victims need to decide soon about debris removal. Here are your options
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+Also, we tell you how to avoid a nasty surprise when you get a big bill for cleanup. The trick is to save your receipts. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/debris-removal-eaton-palisades-fire-what-you-need-to-know>
+
+---
+
+## When you think about child care costs, think 'college tuition,' report says
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+California ranks fourth for most expensive child care in the country, according to a new report. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/childcare-costs-more-than-college-in-california-report-says>
+
+---
+
+## 11 vacation ideas so good you'll want to do them over and over again
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+Consider this a tip sheet for your next getaway. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/11-vacations-ideas-we-will-never-get-tired-of>
+
+---
+
+## SoCal under flood watch as another winter storm brings more rain and snow
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+A more powerful storm system moves in today, bringing with it heavy rain and more mountain snow through Thursday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/late-winter-storms-socal-forecast-atmospheric-river>
+
+---
+
+## Trump administration warns local colleges: 'Protect Jewish students' or lose your funds
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+The Trump administration has started revoking federal funds from colleges it says don't do enough to combat antisemitism. Several Southern California schools are now on notice. 
+
+<br> 
+
+<https://laist.com/news/education/trump-administration-southern-california-universities-antisemitism>
+
+---
+
+## House GOP passes spending bill, sending plan to avert government shutdown to Senate
+
+date: 2025-03-11, updated: 2025-03-11, from: The LAist
+
+The bill puts significant pressure on Democrats in the Senate, whose votes will be needed in order to avoid a shutdown. The federal government runs out of money at the end of the day on Friday. 
+
+<br> 
+
+<https://laist.com/news/politics/house-gop-passes-spending-bill-plan-to-avert-government-shutdown-to-senate>
+
+---
+
+## Measles case confirmed in LA County
+
+date: 2025-03-11, updated: 2025-03-12, from: The LAist
+
+The person with the highly contagious virus landed at LAX on a China Airlines flight March 5. 
+
+<br> 
+
+<https://laist.com/news/health/measles-case-confirmed-in-la-county>
+
+---
+
+## Moving Palestinians out of Gaza? Trump's idea takes on a life of its own in Israel
+
+date: 2025-03-11, updated: 2025-03-11, from: The LAist
+
+Arab countries reject Gaza displacement as ethnic cleansing, but Israeli officials say they are working on plans to make it happen, and polls suggest most Israelis are open to the idea. 
+
+<br> 
+
+<https://laist.com/news/moving-palestinians-out-of-gaza-trumps-idea-takes-on-a-life-of-its-own-in-israel>
+
+---
+
+## Evacuation warnings issued in LA area as heavy rain approaches
+
+date: 2025-03-11, updated: 2025-03-11, from: The LAist
+
+This week's rain storm is strong enough to cause debris flows in and around recently burned areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/march-storm-mudslide-snow-breaking-news>
+
+---
+
+## How do you sell a home that’s burned down?
+
+date: 2025-03-11, updated: 2025-03-11, from: The LAist
+
+The first properties in the Palisades Fire burn area, where multi-million dollar homes once stood, are being put on the market. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/how-do-you-sell-a-home-thats-burned-down>
+
+---
+
+## Major LA County wildfire relief programs close Wednesday. What you should know
+
+date: 2025-03-11, updated: 2025-03-11, from: The LAist
+
+Affected residents have until 5 p.m. on March 12 to apply for assistance from three major funds. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-wildfire-relief-deadlines-eaton-palisades>
+
+---
+
+## California lawmakers propose fixes for ‘insurance industry in shambles’
+
+date: 2025-03-11, updated: 2025-03-11, from: The LAist
+
+From pushing for oversight of the FAIR Plan to providing tax breaks for premiums, California lawmakers try to fix insurance market problems. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/california-lawmakers-propose-fixes-for-insurance-industry-in-shambles>
+
+---
+
+## LAUSD approves new academic calendar, so start planning for child care now
+
+date: 2025-03-11, updated: 2025-03-12, from: The LAist
+
+The Los Angeles Unified school board voted Tuesday on a three-year school calendar that maintains longer breaks. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-board-vote-three-year-calendar>
+
+---
+
+## Stocks sink again, as Trump's tariff policies spark chaos
+
+date: 2025-03-11, updated: 2025-03-11, from: The LAist
+
+Trump has long boasted about the stock market's performance during his leadership. But now he seems to have other priorities. 
+
+<br> 
+
+<https://laist.com/news/politics/stocks-sink-again-as-trump-doubles-down-on-tariffs>
+
+---
+
+## The government already knows a lot about you. DOGE is trying to access all of it
+
+date: 2025-03-11, updated: 2025-03-11, from: The LAist
+
+Agencies from Social Security to the IRS store sensitive data on millions of Americans. Here's what the government knows about us – and what's at risk as DOGE seeks access to the data. 
+
+<br> 
+
+<https://laist.com/news/politics/the-government-already-knows-a-lot-about-you-doge-is-trying-to-access-all-of-it>
 
 ---
 
@@ -33,11 +225,11 @@ Former Orange County Rep. Katie Porter is the latest politician joining the comp
 
 ---
 
-## What to know about measles in Southern California
+## With first measles case in an LA resident and an outbreak in Texas, what SoCal needs to know
 
 date: 2025-03-11, updated: 2025-03-11, from: The LAist
 
-With two people dead after an outbreak started in Texas, health officials are urging Californians to check their vaccination status. 
+One person has died in Texas, another in New Mexico. An infant with the virus came through LAX, and now there's an L.A. resident with the virus. Health officials are urging Californians to check their vaccination status. 
 
 <br> 
 
@@ -59,7 +251,7 @@ A more powerful storm system moves in Wednesday, bringing with it heavy rain and
 
 ## How to support LA artists without going broke
 
-date: 2025-03-10, updated: 2025-03-10, from: The LAist
+date: 2025-03-10, updated: 2025-03-11, from: The LAist
 
 The art world in LA is big — artists and galleries say there's an important place for art priced for people with limited budgets. 
 

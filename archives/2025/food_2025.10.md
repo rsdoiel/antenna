@@ -1,11 +1,149 @@
 ---
 title: food
-updated: 2025-03-11 07:08:28
+updated: 2025-03-12 07:08:40
 ---
 
 # food
 
-(date: 2025-03-11 07:08:28)
+(date: 2025-03-12 07:08:40)
+
+---
+
+## The Biggest Trends And Hottest Gear At The 2025 US Barista Championship
+
+date: 2025-03-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Takeaways from the 2025 United States Barista Championship. 
+
+<br> 
+
+<https://sprudge.com/the-biggest-trends-and-hottest-gear-at-the-2025-us-barista-championship-301981.html>
+
+---
+
+## 9 Secrets to Getting a Perfect Bakery-Style Muffin Every Time
+
+date: 2025-03-12, from: Taste of Home
+
+<p>Want sky-high muffin tops paired with a fluffy, tender texture? Here's how to achieve bakery-style muffins at home.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/bakery-style-muffin-tips/">9 Secrets to Getting a Perfect Bakery-Style Muffin Every Time</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/bakery-style-muffin-tips/>
+
+---
+
+## Fellow Stagg EKG Pro Kettle Review: The Best Pour-Over Kettle You Can Get
+
+date: 2025-03-12, from: Bon Appetet
+
+I've worked in coffee for more than a decade and I've never used a better one. 
+
+<br> 
+
+<https://www.bonappetit.com/story/fellow-stagg-ekg-pro-review>
+
+---
+
+## Roastery Breakdown: ViCAFE in Zurich, Switzerland
+
+date: 2025-03-12, from: The Fresh Cup
+
+<p>ViCAFE’s roastery serves 17 cafes in Switzerland. To manage that scale, it uses automation—including a software program that connects all the roastery’s machinery—so its team is free to focus on quality. </p>
+<p>The post <a href="https://freshcup.com/roastery-breakdown-vicafe-in-zurich-switzerland/">Roastery Breakdown: ViCAFE in Zurich, Switzerland</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/roastery-breakdown-vicafe-in-zurich-switzerland/>
+
+---
+
+## Carne en su Jugo (Meat in its Juices)
+
+date: 2025-03-12, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/carne-en-su-jugo/" title="Carne en su Jugo (Meat in its Juices)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Carne en su Jugo served in a bowl with garnish" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Carne en su Jugo ("Meat in its Juices") is a Mexican stew of tender beef simmered in a savory tomatillo broth with crispy bacon and comforting pinto beans.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/carne-en-su-jugo/">Carne en su Jugo (Meat in its Juices)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/carne-en-su-jugo/>
+
+---
+
+## 29 Persian Recipes for Holidays and Everyday
+
+date: 2025-03-11, from: Bon Appetet
+
+Roasted fish and herby polow for Nowruz, easy stews and quick borani for every other night of the year. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/persian-recipes-iranian-dishes>
+
+---
+
+## The Best Tinned Fish to Buy Online
+
+date: 2025-03-11, from: Bon Appetet
+
+If you think you hate canned tuna, you haven’t had the right canned tuna. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-tinned-fish>
+
+---
+
+## Tropical Veggie Quinoa Bowl with Citrus-Basil Dressing
+
+date: 2025-03-11, from: Taste of Home
+
+A trip to the farmers market inspired this veggie quinoa bowl. The sweetness of the mango complements the tangy citrus dressing, while the creamy avocado adds a rich texture. —Shelby Trusty, Indianapolis, Indiana 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/tropical-veggie-quinoa-bowl-with-citrus-basil-dressing/>
+
+---
+
+## B2B Specialist Farmer Brothers Launches Sum>One Coffee Brand
+
+date: 2025-03-11, from: Daily Coffee News
+
+<div><img width="620" height="488" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-620x488.jpg" class="attachment-large size-large wp-post-image" alt="SumOne coffee Farmer Brothers 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-620x488.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-300x236.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-150x118.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-768x604.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Business-to-business (B2B) coffee specialist Farmer Brothers Coffee is releasing a new branded coffee line under the name Sum&#62;One Coffee Roasters. Designed to appeal to any number of coffee-drinking tastes within... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/11/b2b-specialist-farmer-brothers-launches-sumone-coffee-brand/>
+
+---
+
+## Cold Brew Research: Temperature and Time Less Impactful than Roast Level
+
+date: 2025-03-11, from: Daily Coffee News
+
+<div><img width="620" height="470" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-620x470.webp" class="attachment-large size-large wp-post-image" alt="41598_2024_69867_Fig7_HTML" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-620x470.webp 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-300x227.webp 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-150x114.webp 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-768x582.webp 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-1536x1163.webp 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML.webp 2004w" sizes="(max-width: 620px) 100vw, 620px" /></div>Traditional full-immersion &#8220;cold&#8221; brewing may not demand as much time as it often receives for optimal sensory results, according to relatively new research from a team at the University of... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/11/cold-brew-research-temperature-and-time-less-impactful-than-roast-level/>
+
+---
+
+## Celtic Cup Coffee Brews Pots of Gold in Silver Spring, Maryland
+
+date: 2025-03-11, from: Daily Coffee News
+
+<div><img width="620" height="384" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-620x384.jpg" class="attachment-large size-large wp-post-image" alt="Celtic Cup Coffee Silver Spring 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-620x384.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-300x186.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-150x93.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-768x475.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The pipes, the pipes are calling for green coffees in the bonny glen of Silver Spring, Maryland, with the opening of the Celtic Cup Coffee roastery and tasting room. The... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/11/celtic-cup-coffee-brews-pots-of-gold-in-silver-spring-maryland/>
 
 ---
 
@@ -213,7 +351,7 @@ It sneaks up every year, but when the farmers market undeniably glows with brigh
 
 date: 2025-03-10, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Mill City Sample Roaster" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new co-roasting business in New Jersey called Gridworks Coffee is helping startup roasters take the guesswork out of the daily grind, offering access to roasting equipment and professional expertise.... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Mill City Sample Roaster" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Mill-City-Sample-Roaster.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new co-roasting business in New Jersey called Gridworks Coffee is helping startup roasters take the guesswork out of the daily grind, offering access to roasting equipment and professional expertise.... 
 
 <br> 
 
@@ -225,7 +363,7 @@ date: 2025-03-10, from: Daily Coffee News
 
 date: 2025-03-10, from: Daily Coffee News
 
-<div><img width="620" height="463" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-620x463.jpg" class="attachment-large size-large wp-post-image" alt="Dupont Coffee Collective" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-620x463.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-300x224.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-768x574.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Workers from a shuttered Washington, D.C. location of Firehook Bakery recently took collective ownership of their former workplace, remodeling it and reopening under the name Dupont Coffee Collective. Fresh paint... 
+<div><img width="620" height="463" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-620x463.jpg" class="attachment-large size-large wp-post-image" alt="Dupont Coffee Collective" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-620x463.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-300x224.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1-768x574.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Dupont-Coffee-Collective-DC-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Workers from a shuttered Washington, D.C. location of Firehook Bakery recently took collective ownership of their former workplace, remodeling it and reopening under the name Dupont Coffee Collective. Fresh paint... 
 
 <br> 
 

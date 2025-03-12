@@ -1,11 +1,363 @@
 ---
 title: journalism
-updated: 2025-03-11 07:08:26
+updated: 2025-03-12 07:08:37
 ---
 
 # journalism
 
-(date: 2025-03-11 07:08:26)
+(date: 2025-03-12 07:08:37)
+
+---
+
+## Classifieds – March 12, 2025
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/classifieds-march-12-2025/">Classifieds &#8211; March 12, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/classifieds-march-12-2025/>
+
+---
+
+## CBCSA, BSA, NPHC partner with swim school
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The free session covered the basics for inexperienced swimmers on campus.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/cbcsa-partners-with-swim-school/">CBCSA, BSA, NPHC partner with swim school</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/cbcsa-partners-with-swim-school/>
+
+---
+
+## Senior thesis film ‘Echoes’ resounds across generations
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>SCA student Amy Pham showcases a heart-touching story about family in her upcoming thesis project.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/making-echoes-across-generations/">Senior thesis film &#8216;Echoes&#8217; resounds across generations</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/making-echoes-across-generations/>
+
+---
+
+## USC to implement course material flat rate in fall
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students will instantly be registered for the program, but they are able to opt out.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/university-announces-flat-rate-for-required-materials/">USC to implement course material flat rate in fall</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/university-announces-flat-rate-for-required-materials/>
+
+---
+
+## Female manipulator music to gaslight to
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>From Fiona Apple to Grimes to Mitski, it’s time to prove that girls can gatekeep too.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/female-manipulator-music-to-gaslight-to/">Female manipulator music to gaslight to</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/female-manipulator-music-to-gaslight-to/>
+
+---
+
+## USC affirms National Merit Scholarship cut in email to USG
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>A University official said 75% of the scholars don’t demonstrate financial need.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/usc-affirms-national-merit-scholarship-cut-to-usg/">USC affirms National Merit Scholarship cut in email to USG</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/usc-affirms-national-merit-scholarship-cut-to-usg/>
+
+---
+
+## Student Health encourages students to track spring break symptoms
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Hantavirus not a threat to students, but precautions while camping are advised.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/student-health-encourages-students-to-track-spring-break-symptoms/">Student Health encourages students to track spring break symptoms</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/student-health-encourages-students-to-track-spring-break-symptoms/>
+
+---
+
+## Government sends letter to USC over antisemitism claims
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC receives around $1.35 billion in federal funding, a University FAQ page read.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/government-sends-letter-to-usc-over-antisemitism-claims/">Government sends letter to USC over antisemitism claims</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/government-sends-letter-to-usc-over-antisemitism-claims/>
+
+---
+
+## To new beginnings and standing ovations
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Fashion week has been a whirlwind of exciting collections and announcements; here are the highlights.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/to-new-beginnings-and-standing-ovations/">To new beginnings and standing ovations</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/to-new-beginnings-and-standing-ovations/>
+
+---
+
+## Community to vote in North Westwood Neighborhood Council election March 18
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and community members will vote in the upcoming North Westwood Neighborhood Council election March 18.
+Of the 19 board seats up for election, two seats are reserved for UCLA students &#8211; with one undergraduate student seat and one graduate student seat. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/community-to-vote-in-north-westwood-neighborhood-council-election-march-18/>
+
+---
+
+## UCLA Beach Volleyball plays against Pepperdine
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA Beach Volleyball takes on Pepperdine, one of four matches that weekend. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/ucla-beach-volleyball-plays-against-pepperdine/>
+
+---
+
+## Westwood Branch Library supports LA community through books, service
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+For Gaynell Massey, the reason she loves being a library assistant is interacting with people &#8211; and the Los Angeles Public Library&#8217;s Westwood branch is never in short supply. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/westwood-branch-library-supports-la-community-through-books-service/>
+
+---
+
+## Trump appoints Nicholas Kent to oversee universities as education undersecretary
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+President Donald Trump nominated Nicholas Kent as undersecretary of education, where, if approved by the Senate, he will oversee federal policies impacting colleges and universities.
+William Purdy, a professor of education and information studies at UCLA, said Kent’s nomination signals a shift from the Trump administration’s previous approach to education, with the new administration focusing increasingly on university settings. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/trump-appoints-nicholas-kent-to-oversee-universities-as-education-undersecretary/>
+
+---
+
+## UC Artificial Intelligence Council launches website for AI-related news, resources
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+UC Artificial Intelligence Council launched a systemwide platform Feb. 3 to share AI-related news, guidelines and projects.
+The site contains trainings, guides, ethical standards and information about AI research conducted across the UC. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/uc-artificial-intelligence-council-launches-website-for-ai-related-news-resources/>
+
+---
+
+## UCLA Dining’s ‘Recipes From Home’ initiative cooks up cultural meals, memories
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Although she never got to meet her Grandma Eileen, Meileen Taw keeps her memory alive by cooking ohn no khao swe.
+Now in college, she honored her grandmother by sharing the Burmese chicken coconut noodle soup with the UCLA community. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/ucla-dinings-recipes-from-home-initiative-cooks-up-cultural-meals-memories/>
+
+---
+
+## A healthy beginning to the spring semester
+
+date: 2025-03-12, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Student Health Center holds open house and resource fair. Snacks, tours, information and health safety packages were given, and appointments were made at the Student</p>
+<p>The post <a href="https://theroundupnews.com/2025/03/11/a-healthy-beginning-to-the-spring-semester/">A healthy beginning to the spring semester</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/03/11/a-healthy-beginning-to-the-spring-semester/?utm_source=rss&utm_medium=rss&utm_campaign=a-healthy-beginning-to-the-spring-semester>
+
+---
+
+## Socializing with arts, crafts, vision boards
+
+date: 2025-03-12, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Vision Board event gives students chance to visualize goals and connect with ASO While vision boarding is a way for many people to visualize their</p>
+<p>The post <a href="https://theroundupnews.com/2025/03/11/socializing-with-arts-crafts-vision-boards/">Socializing with arts, crafts, vision boards</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/03/11/socializing-with-arts-crafts-vision-boards/?utm_source=rss&utm_medium=rss&utm_campaign=socializing-with-arts-crafts-vision-boards>
+
+---
+
+## Daily Bruin recognized with 13 awards at Long Beach college media conference
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+LONG BEACH, Calif. &#8211; The Daily Bruin received 13 awards at the Associated Collegiate Press Spring National College Media Conference, which took place Thursday through Saturday. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/daily-bruin-recognized-with-13-awards-at-long-beach-college-media-conference/>
+
+---
+
+## Second Take: PlayStation outage highlights necessity of direct ownership of games
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+Playstation&#8217;s latest L has gamers concerned about the future of games as entertainment.
+PlayStation&#8217;s servers experienced an outage from the evening of Feb. 7 to the evening of Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/second-take-playstation-outage-highlights-necessity-of-direct-ownership-of-games/>
+
+---
+
+## Pro-Palestine groups protest detainment of Columbia demonstrator Mahmoud Khalil
+
+date: 2025-03-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 11 at 4:10 p.m.</em>
+Around 200 students and community members protested Tuesday afternoon against the detainment of Mahmoud Khalil, a Palestinian activist and graduate of Columbia University. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/pro-palestine-groups-protest-detainment-of-columbia-demonstrator-mahmoud-khalil/>
+
+---
+
+## CSU’s Embracement of AI Sparks Concerns From Union
+
+date: 2025-03-11, from: The Sundail (CSUN Student Newspaper)
+
+The CSU system released a statement in February announcing the full embrace of AI tools across all 23 campuses through a new initiative. The press release revealed that all students,... 
+
+<br> 
+
+<https://sundial.csun.edu/191246/news/csus-embracement-of-ai-sparks-concerns-from-union/>
+
+---
+
+## TPUSA event brings cheers and jeers
+
+date: 2025-03-11, from: The Sundail (CSUN Student Newspaper)
+
+Conservative media influencer Charlie Kirk, co-founder of Turning Point USA and one of America’s most influential political personalities, visited CSUN’s campus on Thursday as part of his “The American Comeback... 
+
+<br> 
+
+<https://sundial.csun.edu/191177/news/tpusa-event-brings-cheers-and-jeers/>
+
+---
+
+## Standing in Unity during Women’s March
+
+date: 2025-03-11, from: The Sundail (CSUN Student Newspaper)
+
+Can one person change the world? Quite possibly, but in numbers, change is much more attainable. In downtown Los Angeles&#8217;s Pershing Square, 15,000 individuals of various ages and backgrounds convened... 
+
+<br> 
+
+<https://sundial.csun.edu/191151/news/standing-in-unity-during-womens-march/>
+
+---
+
+## “More alarming by the day”: New York Times investigations editor on the legal threats faced by news publishers
+
+date: 2025-03-11, from: Nieman Journalism Lab
+
+Let’s start at the end. The acknowledgements of Murder the Truth, a startling and deeply researched new book by New York Times journalist and editor David Enrich, thanks the Times’ “unflappable” in-house lawyer. The business investigations unit overseen by Enrich has repeatedly been targeted by threats that are part of a larger campaign to weaponize... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/more-alarming-by-the-day-new-york-times-investigations-editor-on-the-legal-threats-faced-by-news-publishers/>
+
+---
+
+## A public media collaboration on statehouse reporting moves forward in North Carolina
+
+date: 2025-03-11, from: Nieman Journalism Lab
+
+If you care about public media and have read any news mentioning the Corporation for Public Broadcasting in 2025, chances are it’s been something scary / depressing / grim about how the president wants to defund it (not a new threat, but one that feels more real than it did a few years ago). That’s... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/a-public-media-collaboration-on-statehouse-reporting-moves-forward-in-north-carolina/>
+
+---
+
+## Alumnus Iverson Mitchell pursues passion for music, community as professional DJ
+
+date: 2025-03-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+From DJing Undie Runs at UCLA to making headway in the scenes of club DJing, Iverson Mitchell has plenty of experience in the art of rocking the house. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/alumnus-iverson-mitchell-pursues-passion-for-music-community-as-professional-dj/>
+
+---
+
+## How Trump’s cuts are crippling journalism beyond the United States
+
+date: 2025-03-11, from: Nieman Journalism Lab
+
+Wendy Monterrosa and her colleagues founded news site Voz Pública in El Salvador in 2020. A year into Nayib Bukele’s presidency, marked by frequent attacks on journalists, Voz Pública built a small newsroom focused on fact-checking and investigative journalism. But everything crashed down in early February when Donald Trump put on hold any funding from the United States Agency for... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/how-trumps-cuts-are-crippling-journalism-beyond-the-united-states/>
 
 ---
 

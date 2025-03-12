@@ -1,11 +1,283 @@
 ---
 title: home
-updated: 2025-03-11 07:08:27
+updated: 2025-03-12 07:08:38
 ---
 
 # home
 
-(date: 2025-03-11 07:08:27)
+(date: 2025-03-12 07:08:38)
+
+---
+
+## Calathea Roseopicta Care and Growing Guide (Most Detailed)
+
+date: 2025-03-12, from: Yard Life blog
+
+<p>Calathea Roseopicta, also known as the Rose-Painted Calathea, is a stunning tropical plant prized for its vibrant foliage. Native to ... </p>
+<p class="read-more-container"><a title="Calathea Roseopicta Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/calathea-roseopicta-care-and-growing-guide-most-detailed/#more-24907" aria-label="Read more about Calathea Roseopicta Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/calathea-roseopicta-care-and-growing-guide-most-detailed/">Calathea Roseopicta Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/calathea-roseopicta-care-and-growing-guide-most-detailed/>
+
+---
+
+## Do "Pretty" Objects Work Better Than Merely Functional Ones? A Marital Debate
+
+date: 2025-03-12, from: Dwell
+
+When it comes to home goods, I prefer utility over form. My wife feels otherwise. 
+
+<br> 
+
+<https://www.dwell.com/article/form-over-function-design-96fa0d03>
+
+---
+
+## 20 Caterpillars That Look Like Snakes (With Pictures)
+
+date: 2025-03-12, from: Yard Life blog
+
+<p>Caterpillars that look like snakes are among nature’s most fascinating masters of disguise. These unique larvae have evolved remarkable adaptations ... </p>
+<p class="read-more-container"><a title="20 Caterpillars That Look Like Snakes (With Pictures)" class="read-more button" href="https://ownyardlife.com/20-caterpillars-that-look-like-snakes-with-pictures/#more-24881" aria-label="Read more about 20 Caterpillars That Look Like Snakes (With Pictures)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-caterpillars-that-look-like-snakes-with-pictures/">20 Caterpillars That Look Like Snakes (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-caterpillars-that-look-like-snakes-with-pictures/>
+
+---
+
+## 20 Tiny Orange Bugs (With Pictures and Identification)
+
+date: 2025-03-12, from: Yard Life blog
+
+<p>Tiny Orange Bugs are fascinating yet sometimes troublesome creatures that can be found in gardens, homes, and even on plants. ... </p>
+<p class="read-more-container"><a title="20 Tiny Orange Bugs (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-tiny-orange-bugs-with-pictures-and-identification/#more-24860" aria-label="Read more about 20 Tiny Orange Bugs (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-tiny-orange-bugs-with-pictures-and-identification/">20 Tiny Orange Bugs (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-tiny-orange-bugs-with-pictures-and-identification/>
+
+---
+
+## Flying Has Never Been More Stressful. These Tools Will Help You Combat In-Flight Anxiety.
+
+date: 2025-03-12, from: Sunset Magazine - Living in the West
+
+With the uptick in news coverage of tragic plane incidents, flying anxiety is natural. Use these practices to deal. withflying anxiety. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-deal-with-flying-anxiety>
+
+---
+
+## 25 Best Plants That Repel Spiders (With Pictures and Names)
+
+date: 2025-03-12, from: Yard Life blog
+
+<p>Spiders may be beneficial for controlling pests, but not everyone wants them lurking around their home or garden. Fortunately, there ... </p>
+<p class="read-more-container"><a title="25 Best Plants That Repel Spiders (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/25-best-plants-that-repel-spiders-with-pictures-and-names/#more-24849" aria-label="Read more about 25 Best Plants That Repel Spiders (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/25-best-plants-that-repel-spiders-with-pictures-and-names/">25 Best Plants That Repel Spiders (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/25-best-plants-that-repel-spiders-with-pictures-and-names/>
+
+---
+
+## 13 Tips To Install Cabinet Hardware Perfectly Every Time
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>Installing cabinet hardware isn't as easy as it looks, but with a few pointers from the pros, you can add new handles and pulls without issue. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/install-cabinet-handles-pulls-hardware/">13 Tips To Install Cabinet Hardware Perfectly Every Time</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/install-cabinet-handles-pulls-hardware/>
+
+---
+
+## 24 Home Repairs You Need to Make Before Someone Gets Hurt
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>How many home repairs have you put off to next week…and the next week…and the next week? Find out why that’s downright dangerous.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/vital-home-repairs/">24 Home Repairs You Need to Make Before Someone Gets Hurt</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/vital-home-repairs/>
+
+---
+
+## Painting a Ceiling? These Pro Tips Will Make It Easier
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>Painting a ceiling can be an intimidating task for DIYers, but with a few tips from the pros, it's easy. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/paint-a-ceiling-tips/">Painting a Ceiling? These Pro Tips Will Make It Easier</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/paint-a-ceiling-tips/>
+
+---
+
+## Don’t Pay a Mechanic For These 14 Car Repairs You Can DIY
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>Even a novice DIYer can save some money by completing some of these car repair and maintenance tasks themselves. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/diy-car-repair-and-maintenance/">Don&#8217;t Pay a Mechanic For These 14 Car Repairs You Can DIY</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/diy-car-repair-and-maintenance/>
+
+---
+
+## 12 Pegboard Ideas to Help You Organize Anything
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>Pegboard is everywhere-panels, hooks, doodads, you name it.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/pegboard-ideas-storage-organization/">12 Pegboard Ideas to Help You Organize Anything</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/pegboard-ideas-storage-organization/>
+
+---
+
+## 11 Painting Secrets from Our Expert Readers
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>Discover helpful painting tips and tricks to make your next project easier and mess-free, from preventing splashes and preserving brushes to using everyday items for efficient painting.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/painting-hacks-experts/">11 Painting Secrets from Our Expert Readers</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/painting-hacks-experts/>
+
+---
+
+## 8 Ways To Get Rid of Moisture In Your Basement For Good
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>If you're looking to learn how to get rid of moisture in your basement, you've come to the right place. We've got several tips for you. </p>
+<p>The post <a href="https://www.familyhandyman.com/list/moisture-in-your-basement/">8 Ways To Get Rid of Moisture In Your Basement For Good</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/moisture-in-your-basement/>
+
+---
+
+## These Are the Pantry Staples Every Cook Needs from Trader Joe’s (Plus, the Ones You Can Skip)
+
+date: 2025-03-11, from: Sunset Magazine - Living in the West
+
+From Calabrian chili paste to coconut oil, here's a list of what your kitchen's pantry absolutely needs from Trader Joe's. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/pantry-staples-trader-joes>
+
+---
+
+## Why Grass Won’t Grow Under Your Trees—and How to Fix It
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>Learn why grass isn't growing under your trees and explore ways to fix it.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-grass-wont-grow-around-trees/">Why Grass Won’t Grow Under Your Trees—and How to Fix It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-grass-wont-grow-around-trees/>
+
+---
+
+## The Reason So Much of America’s Lumber Comes From Canada
+
+date: 2025-03-11, from: Family Handyman Blog
+
+<p>Remember when the price of lumber skyrocketed in 2020? It's poised to happen again. Here's why.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-does-us-get-lumber-from-canada/">The Reason So Much of America’s Lumber Comes From Canada</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-does-us-get-lumber-from-canada/>
+
+---
+
+## Ag Day at the State Capitol is coming up – March 19th
+
+date: 2025-03-11, from: Calfifornia Dept. Aggriculture blog
+
+Mark your calendars for March 19, and join us in celebrating California ag! This year’s theme is &#8220;Ag At Work: Cultivating Careers and Communities.&#8221; Did you know there are over 300 unique careers in agriculture? From farmers and farmworkers to &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28656">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28656>
+
+---
+
+## A 1950s Mid-Century Modern Home with Japanese Influences Stays True to Its Roots
+
+date: 2025-03-11, from: Sunset Magazine - Living in the West
+
+This 1956 mid-century modern house with Japanese influences had so much history. Here's how. itwas both modernized and preserved. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/mid-century-modern-japanese-house-seattle>
+
+---
+
+## A Landmark Midcentury by the Father of California Post-and-Beam Architecture Asks $2.75M
+
+date: 2025-03-11, from: Dwell
+
+With the Wirick House, Calvin Straub used slender, exposed wood framing and tall windows to open up views of the San Gabriel Mountains. 
+
+<br> 
+
+<https://www.dwell.com/article/wirick-house-calvin-straub-midcentury-pasadena-los-angeles-real-estate-fdfbe2a8>
+
+---
+
+## How to Grow Tatarian (Siberian) Dogwood
+
+date: 2025-03-11, from: The Gardener's Path
+
+<p>Tatarian dogwoods (Cornus alba) offer four seasons of interest, with clusters of spring flowers, bright green or variegated summer leaves, vibrant fall foliage, and bright red or yellow branches in the winter. They're compact, versatile, and pretty. Learn how to grow Siberian dogwood in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/grow-tatarian-dogwood/">How to Grow Tatarian (Siberian) Dogwood</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/grow-tatarian-dogwood/>
 
 ---
 
@@ -141,6 +413,30 @@ An architect spends just over $1 million on modular units to create a custom pro
 <br> 
 
 <https://www.dwell.com/article/schicketanz-residence-carmel-california-multifamily-prefab-compound-method-homes-2af314e4>
+
+---
+
+## 16 Biographies to Devour During Women’s History Month (and Beyond)
+
+date: 2025-03-11, from: Sunset Magazine - Living in the West
+
+The Goodreads team have compiled a list of the most popular biographies and history books about women to celebrate Women's History Month. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/womens-history-month-books>
+
+---
+
+## This Cozy Sausalito Bungalow Was Designed to Look ‘Undone’
+
+date: 2025-03-11, from: Sunset Magazine - Living in the West
+
+This Sausalito bungalow was designed to be a relaxed, funky, and colorful space for a fashionista and empty-nester. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/bohemian-sausalito-bungalow>
 
 ---
 

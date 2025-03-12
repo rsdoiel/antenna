@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-03-11 07:08:25
+updated: 2025-03-12 07:08:36
 ---
 
 # games
 
-(date: 2025-03-11 07:08:25)
+(date: 2025-03-12 07:08:36)
+
+---
+
+## How to find Golden Llamas in Fortnite
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+Golden Llamas are Fortnite Chapter 6 Season 2’s take on the Supply Llama. With Chapter 6 Season 2 having a heavy emphasis on gold, the Supply Llamas have decided to follow the trend and encase themselves in gold. As part of a Week 3 quest, players will need to search three Golden Llamas, but they’re [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fortnite-guide/538131/golden-llama-where-to-find-location-search>
+
+---
+
+## The best sci-fi movies to watch on Netflix
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+Netflix’s library is vast, and even when you pare it down by genre, there’s still way too much for any one person to sift through. That’s where we come in. We try and save you time by picking the best of the best, whether it’s the best thrillers, best horror, best comedies, best action movies, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/23411315/best-sci-fi-netflix-movies-watch-stream>
+
+---
+
+## Pokémon Go (and the rest of Niantic’s games) just sold for $3.5B
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+The rumors were true. Niantic’s games division, which makes the augmented reality megahit Pokémon Go, has been sold to mobile gaming powerhouse Scopely for a whopping $3.5 billion. As confirmed by Niantic, Scopely, and the Pokémon Go team, the deal will see the entire Niantic Games operation snapped up by Scopely, which among many, many [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go/538132/pokemon-go-niantic-games-sold-scopely-acquisition>
+
+---
+
+## After years in development, D&#038;D’s Unreal-powered virtual tabletop still feels off
+
+date: 2025-03-12, updated: 2025-03-11, from: Polygon Website
+
+Dungeons &#38; Dragons’ Sigil platform, available in full with the Master Tier subscription to D&#38;D Beyond, would be much easier to recommend if there was an asterisk in the title. The seminal tabletop role-playing game’s first internally produced 3D virtual tabletop (VTT) app is finally live, and it offers players and Dungeon Masters alike a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/dnd-dungeons-dragons/537899/sigil-vtt-review>
+
+---
+
+## Expelled! is the most fun you can have being accused of attempted murder
+
+date: 2025-03-12, updated: 2025-03-11, from: Polygon Website
+
+My first run in Expelled! was a completely miserable affair for our poor protagonist, Verity Amersham, a scholarship student at Miss Mulligatawney’s School for Promising Girls. The entire playthrough took just a few minutes; I was escorted to Miss Mulligatawney’s office, dressed down, and booted out. This was just my first attempt, and I soon [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/537355/expelled-review-inkle-overboard-narrative-mystery-game>
+
+---
+
+## What is the Destiny 2 raid and dungeon rotation this week?
+
+date: 2025-03-11, updated: 2025-03-11, from: Polygon Website
+
+Learning the raid and dungeon rotation in Destiny 2 is great for farming loot you don’t have yet, and for increasing your Power in Destiny 2. As of the Episode: Revenant update in October 2024, Bungie showcases which activity is featured (via an icon on the map), and there are now two featured raids and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule>
+
+---
+
+## Netflix’s Devil May Cry is already living up to its source material’s style
+
+date: 2025-03-11, updated: 2025-03-11, from: Polygon Website
+
+Netflix’s Devil May Cry series is less than a month away, and if the new trailer is any indication, it’s certainly set to live up to the spirit of the video games. Netflix released a new trailer Tuesday, which gave us our longest look yet at the series and maybe even a hint at what [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/538114/devil-may-cry-trailer-release-announcement>
+
+---
+
+## Titmouse animation studio announces ‘cartoon delivery service’ on Churp.tv
+
+date: 2025-03-11, updated: 2025-03-11, from: Polygon Website
+
+Titmouse, Inc., the animation studio behind countless hits mainstream and indie — from Star Trek: Lower Decks and The Legend of Vox Machina to The Midnight Gospel and Scavengers Reign — announced a subscription box service during the company’s 25th anniversary panel at SXSW, that will double as an exclusive club for access to original [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/537585/churp-subscription-titmouse-animation>
 
 ---
 

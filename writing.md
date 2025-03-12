@@ -1,11 +1,168 @@
 ---
 title: writing
-updated: 2025-03-11 07:08:25
+updated: 2025-03-12 07:08:36
 ---
 
 # writing
 
-(date: 2025-03-11 07:08:25)
+(date: 2025-03-12 07:08:36)
+
+---
+
+## 10 Great Podcasts for Writers by Writers
+
+date: 2025-03-12, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/10-great-podcasts-for-writers-by-writers>
+
+---
+
+## Details on the New Owners of Analog, Asimov’s, and F&SF
+
+date: 2025-03-11, from: Locus Magazine
+
+<p>Alfred Hitchcock’s Mystery Magazine, Analog Science Fiction and Fact, Asimov’s Science Fiction, Ellery Queen Mystery Magazine, and The Magazine of Fantasy &#38; Science Fiction have been acquired by Must Read Magazines, a division of a new publishing company, Must Read Books Publishing. All editorial staff from the magazines have been retained in the acquisitions. Jackie Sherbow has been promoted to editor of Ellery Queen Mystery Magazine. P.L. Stevens joins the  <a href="https://locusmag.com/2025/03/details-on-the-new-owners-of-analog-asimovs-and-fsf/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/details-on-the-new-owners-of-analog-asimovs-and-fsf/>
+
+---
+
+## New Imprint: Bloomsbury Archer
+
+date: 2025-03-11, from: Locus Magazine
+
+<p></p>
+<p>Bloomsbury has announced a new SF/F imprint, Bloomsbury Archer, and plans for it to publish &#8220;across the constellation of speculative fiction – from fantasy and science fiction to crossover, speculative romance, and from horror to myth retellings.&#8221; The imprint&#8217;s name comes from the current Bloomsbury emblem of the Roman hunter goddess Diana, &#8220;referencing the imprint’s pursuit of the very best storytelling and new stars.&#8221;</p>
+<p>Vicky Leech Mateos and Noa Wheeler  <a href="https://locusmag.com/2025/03/new-imprint-bloomsbury-archer/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/new-imprint-bloomsbury-archer/>
+
+---
+
+## 2025 ITW Thriller Awards Finalists
+
+date: 2025-03-11, from: Locus Magazine
+
+<p>International Thriller Writers has announced the finalists for the 2025 Thriller Awards. Titles and authors of genre interest include:</p>
+<p><strong>Best Standalone Thriller Novel</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong></strong><strong>The Last One at the Wedding</strong>, Jason Rekulak (Flatiron)</li>
+</ul>
+</div>
+<p><strong>Best Standalone Mystery Novel</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Negative Girl</strong>, Libby Cudmore (Datura)</li>
+<li><strong>What Happened to Nina?</strong>, Dervla McTiernan (William Morrow)</li>
+</ul>
+</div>
+<p><strong>Best Series Novel
+</strong></p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>To Die For</strong>, David Baldacci (Grand Central)</li>
+<li><strong>Shadowheart</strong>, Meg Gardiner (Blackstone)</li>
+<li><strong>Flashback</strong>, </li></ul></div> <a href="https://locusmag.com/2025/03/2025-itw-thriller-awards-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/2025-itw-thriller-awards-finalists/>
+
+---
+
+## What Is an Antagonist in Screenwriting?
+
+date: 2025-03-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-is-an-antagonist-in-screenwriting" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Boba%20Fett.jpeg" alt="Darth Vadar, Lando Calrissian and Boba Fett in 'The Empire Strikes Back'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>An antagonist is a character whose story arc and character arc run in direct opposition to that of the protagonist — the central character driving the plot forward and facing the central conflict of the story head-on.&nbsp;<br><br>The antagonist is usually the driving force behind the conflict the protagonist is facing. They are not always villains, mind you. Antagonists don’t always have to be evil and terrorizing forces. They can also have the best of intentions and oppose the protagonist in more ethical, honorable, and well-meaning ways.&nbsp;<br><br>Here we’ll discuss everything you need to know about antagonists and villains, including what purposes they serve in a story, what types of antagonists/villains you can use, and how you can create the best antagonists for your stories.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-is-an-antagonist-in-screenwriting>
+
+---
+
+## 5 Ways To Win a Screenwriting Contest
+
+date: 2025-03-11, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/5-ways-to-win-a-screenwriting-contest" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20a%20hand%20pumping%20their%20fist%20and%20holding%20a%201st%20place%20medal.png" alt="Image of a hand pumping their fist and holding a 1st place medal" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Maybe you’ve <a href="https://blog.finaldraft.com/5-tips-to-starting-and-finishing-a-screenplay">started</a> or <a href="https://blog.finaldraft.com/youve-finished-your-screenplay.-now-what">finished</a> writing a feature screenplay or television pilot.&nbsp;<br><br>Perhaps you’re still at the <a href="https://blog.finaldraft.com/how-to-decide-what-to-write">brainstorming</a> stage.&nbsp;<br><br>No matter what stage of the writing process you’re at, you might plan to enter your script into a screenwriting contest like the <a href="https://www.finaldraft.com/big-break-screenwriting-contest/" style="font-weight: bold;">Final Draft Big Break Screenwriting Contest</a> (which offers <a href="https://www.finaldraft.com/big-break-screenwriting-contest/#prizes">various prizes</a> including meetings with top management companies). <a href="https://www.finaldraft.com/big-break-screenwriting-contest/">Big Break</a> also has top <a href="https://www.finaldraft.com/big-break-screenwriting-contest/#judges">i</a><a href="https://www.finaldraft.com/big-break-screenwriting-contest/#judges">ndustry judges</a> that will decide what scripts win, but there are also readers — as with most screenwriting contests — that will decide what scripts advance in each round. These readers are likewise industry professionals; many of them being script readers for film studios or production companies and a handful are working screenwriters.<br><br>Although not all readers for screenwriting contests are as mindful of <a href="https://blog.finaldraft.com/5-ways-screenwriters-can-adapt-to-the-marketplace">marketplace trends</a> and <a href="https://blog.finaldraft.com/3-must-ask-questions-before-you-write-a-sellable-script">sellability</a> as <a href="https://blog.finaldraft.com/this-is-what-managers-look-for-in-a-script">managers</a>, many will be weighing-in these factors when deciding if a script should make it to the next round or not. There are also fundamental attributes to a well-written script that will work for many readers, regardless of whether they’re thinking on commercial or creative terms. A script with all or some of these attributes is more likely to advance in a screenwriting contest and possibly win in its <a href="https://www.finaldraft.com/big-break-screenwriting-contest/#awards">selected category</a>.&nbsp;<br><br>Below are <span style="font-weight: bold;">5 Ways To Win a Screenwriting Contest</span> in which I breakdown the most important attributes:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/5-ways-to-win-a-screenwriting-contest>
+
+---
+
+## New Books 11 March 2025
+
+date: 2025-03-11, from: Locus Magazine
+
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of March 11, 2025. </strong></p>
+<p>Addison, Katherine: <b>The Tomb of Dragons</b> (Tor 978-1250816191, $28.99, 352pp, formats: hardcover, ebook, audiobook, 03/11/2025)</p>
+<p>Third in the Cemeteries of Amalo series, in the same world as <strong>The Goblin Emperor</strong>. Thara Celehar must navigate investigations and intrigue after  <a href="https://locusmag.com/2025/03/new-books-11-march-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/new-books-11-march-2025/>
+
+---
+
+## Picard Wins SLF Illustration Award
+
+date: 2025-03-11, from: Locus Magazine
+
+<p>The Speculative Literature Foundation (SLF) has announced that artist Flore Picard is the winner of their 2025 Illustration of the Year. &#8220;Look for Picard’s artwork on our site, as well as future SLF newsletters, promo, and other content!&#8221;</p>
+<p>Picard said, &#8220;In a futuristic world of glass and metal, she made herself wings out of her prison, a harness out of her shackles, and flew up to seek out the stars.  <a href="https://locusmag.com/2025/03/picard-wins-slf-illustration-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/picard-wins-slf-illustration-award/>
+
+---
+
+## The Driver’s Seat
+
+date: 2025-03-11, from: John August blog
+
+John welcomes back Liz Hannah (The Girl From Plainville, The Post) to ask, how do you know if a character can carry a story? They look at ways of identifying your protagonist, defining privileged storytelling power, and the choices to make when figuring out which characters can hold narrative point of view. We also look [&#8230;]
+The post <a href="https://johnaugust.com/2025/the-drivers-seat">The Driver’s Seat</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/679V2standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/679V2standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/the-drivers-seat>
+
+---
+
+## The Year’s Best Science Fiction on Earth 2, edited by Allan Kaster: Review by Alexandra Pierce
+
+date: 2025-03-11, from: Locus Magazine
+
+<p><strong>The Year’s Best Science Fiction on Earth 2</strong>, Allan Kaster, ed. (Infinivox 978-1-88461-276-3, $19.99, 275pp, tp) December 2024. Cover by Maurizio Manzieri.</p>
+<p>With anthology series that focus on robots and AI, and on space and time, I was surprised to come across Infinivox and Allan Kaster doing a series about science fiction on Earth itself; it seemed too mundane. Kaster addresses this in the first line of his introduction,  <a href="https://locusmag.com/2025/03/the-years-best-science-fiction-on-earth-2-edited-by-allan-kaste-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/the-years-best-science-fiction-on-earth-2-edited-by-allan-kaste-review-by-alexandra-pierce/>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-03-11 07:08:29
+updated: 2025-03-12 07:08:40
 ---
 
 # craft
 
-(date: 2025-03-11 07:08:29)
+(date: 2025-03-12 07:08:40)
+
+---
+
+## Using Arcs to Create Patterns
+
+date: 2025-03-11, from: Lost Arg Press blog
+
+The following is an excerpt from &#8220;By Hound and Eye&#8221; by George Walker and Jim Tolpin; Illustrated by Andrea Love. It is a companion to the hardbound book &#8220;By Hand &#38; Eye&#8221; by Walker and Tolpin. The two books are meant to complement one another. &#8220;By Hand &#38; Eye&#8221; focuses more on the history behind... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/11/using-arcs-to-create-patterns/>
 
 ---
 

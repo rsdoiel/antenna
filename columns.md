@@ -1,11 +1,388 @@
 ---
 title: columns
-updated: 2025-03-11 07:08:24
+updated: 2025-03-12 07:08:36
 ---
 
 # columns
 
-(date: 2025-03-11 07:08:24)
+(date: 2025-03-12 07:08:36)
+
+---
+
+##  OMG, there&#8217;s an &#8220;S&#8221; in today&#8217;s Spelling Bee puzzle! (Is this the... 
+
+date: 2025-03-12, updated: 2025-03-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046425-omg-theres-an-s-in>
+
+---
+
+## China, Russia, Iran, and North Korea Intelligence Sharing
+
+date: 2025-03-12, updated: 2025-03-12, from: Bruce Schneier blog
+
+<p>Former CISA Director Jen Easterly <a href="https://www.linkedin.com/posts/jen-easterly_could-the-next-five-eyes-be-the-four-activity-7295808854750081025-GcpE">writes</a> about a new international intelligence sharing co-op:</p>
+<blockquote><p>Historically, China, Russia, Iran &#038; North Korea have cooperated to some extent on military and intelligence matters, but differences in language, culture, politics &#038; technological sophistication have hindered deeper collaboration, including in cyber. Shifting geopolitical dynamics, however, could drive these states toward a more formalized intell-sharing partnership. Such a &#8220;Four Eyes&#8221; alliance would be motivated by common adversaries and strategic interests, including an enhanced capacity to resist economic sanctions and support proxy conflicts...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/china-russia-iran-and-north-korea-intelligence-sharing.html>
+
+---
+
+## Free95 claims to be a GPL 3 Windows clone, but it's giving vaporware vibes
+
+date: 2025-03-12, updated: 2025-03-12, from: Liam Proven's articles at the Register
+
+<h4>Don&#39;t, <em>don&#39;t,</em> <strong>DON&#39;T</strong> believe the hype</h4>
+      <p>The developer of Free95 says it will be a free Windows 95-compatible OS, but we suspect an elaborate prank. At best, maybe an unknowing one.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/12/is_free95_real/>
+
+---
+
+## Office Hours: Why is there no huge counteroffensive to Trump and Musk? 
+
+date: 2025-03-12, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-why-is-there-no-giant>
+
+---
+
+## March 11, 2025
+
+date: 2025-03-12, from: Heather Cox Richardson blog
+
+The stock market continued to fall today. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-11-2025>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-03-12, from: Jessica Smith's blog)
+
+<p>New computer arrived today! It&rsquo;s replacing my 2020 Intel MacBook Air, which will be passed on as a hand-me-down to my mum, because her 2012 Dell is on its last legs and she needs an upgrade 😂</p>
+<p>I thought about using Migration Assistant to transfer stuff across but then I thought about how much cruft I&rsquo;ve probably built up and went, &ldquo;No, I want to transfer stuff manually so I can be more purposeful about what I have and where I have it!&rdquo; The downside is, now I have to actually make those decisions about what apps to reinstall and how to organise my files 😒 I feel like I need a checklist.</p>
+<img src="https://www.jayeless.net/media/2025/03/new-macbook-air.jpeg" alt="A sky blue MacBook Air, with its screen blank." class="u-photo"> 
+
+<br> 
+
+<https://www.jayeless.net/2025/03/new-computer.html>
+
+---
+
+## Ten Years Later
+
+date: 2025-03-12, from: Om Malik blog
+
+I have been on the phone a lot today—talking to Katie Fehrenbacher, Stacey Higginbotham,&#160;and&#160;Chris Albrecht. Surj Patel popped into&#160;town,&#160;and we had coffee. Call it&#160;kismet—or&#160;just&#160;coincidence—that&#160;today happens to be the tenth anniversary of one of the most terrible days of my life: I had to shut the doors on a business that carried my&#160;name and,&#160;for a&#160;while,&#160;I thought &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/11/ten-years-later/>
+
+---
+
+## Nobody should be a “content creator”
+
+date: 2025-03-12, from: Chris Heilmann's blog
+
+As part of my job, I have to keep up with the social media space and I&#8217;m worried, bored and annoyed in equal measures. There is not much social about it any longer. Instead it&#8217;s become a race to the bottom of lowest common denominator content. And interaction bait. Or rage bait. Or just obvious [&#8230;] 
+
+<br> 
+
+<https://christianheilmann.com/2025/03/12/nobody-should-be-a-content-creator/>
+
+---
+
+## Musical Moments
+
+date: 2025-03-12, from: Doc Searls (at Harvard), New Old Blog
+
+I need to learn French.  This is lovely. Who is this girl? Here&#39;s one clue. Another. Look for more. Never heard of her before today. Hello, I still love you. The Doors are 60 this year. Or would have been. Good and legendary as they were, I think they are woefully underrated. Manzarek, Densmore, and Krieger [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/11/musical-moments/>
+
+---
+
+## Listened to Glass Island
+
+date: 2025-03-12, from: Tracy Durnell Blog
+
+ 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/11/listened-to-glass-island/>
+
+---
+
+## Wednesday 12 March, 2025
+
+date: 2025-03-12, from: John Naughton's online diary
+
+Vive la France! Provence, July 2024. Quote of the Day ”Life should not be a journey to the grave with the intention of arriving safely in a pretty and well preserved body, but rather to skid in broadside in a &#8230; <a href="https://memex.naughtons.org/wednesday-12-march-2025/40536/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-12-march-2025/40536/>
+
+---
+
+## ‘The Only Practical Check That’s Left Is the Power of the Purse.’
+
+date: 2025-03-12, from: James Fallows, Substack
+
+In the baffling haze of dealing with &#8216;everything, all the time,' a few clear signals of where to take a stand. Let's start with Democrats all voting NO on a blank check for Elon Musk. 
+
+<br> 
+
+<https://fallows.substack.com/p/the-only-practical-check-thats-left>
+
+---
+
+## ★ A New System-Wide UI Look for iOS — Let Alone MacOS, Too — Would Be a Huge Deal
+
+date: 2025-03-11, updated: 2025-03-12, from: Daring Fireball
+
+You either have taste or you don’t, and most people don’t, at least for judging something new and unfamiliar. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/new_ui_look_ios_would_be_a_huge_deal>
+
+---
+
+## Trump is a traitor, and Europe is now alone
+
+date: 2025-03-11, from: Robert Reich's blog
+
+A view from France 
+
+<br> 
+
+<https://robertreich.substack.com/p/trump-is-a-traitor-and-europe-is>
+
+---
+
+##  Things have been a little weird lately so I missed this when... 
+
+date: 2025-03-11, updated: 2025-03-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046416-things-have-been-a-little>
+
+---
+
+## Aaron ‘Homeboy’ Tilley Among Those Laid Off From the WSJ’s Tech Staff Last Week
+
+date: 2025-03-11, updated: 2025-03-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://talkingbiznews.com/media-news/wsj-cuts-tech-staff-creates-tech-and-media-team/>
+
+---
+
+## Steal My Tesla
+
+date: 2025-03-11, updated: 2025-03-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<http://stealmytesla.com/>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-03-11, from: Ryan Gantz Bluesky feed)
+
+"illegally and collusively boycott"
+
+i can't stop thinking about this 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3lk4nzlml2c2x>
+
+---
+
+## Secretary of State Marco Rubio, in 2016, on Donald Trump as President: ‘This Is Not Going to End Well One Way or the Other’
+
+date: 2025-03-11, updated: 2025-03-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://youtu.be/0J08atDFR2c?t=476>
+
+---
+
+## Silk Typhoon Hackers Indicted
+
+date: 2025-03-11, updated: 2025-03-11, from: Bruce Schneier blog
+
+<p>Lots of interesting details in <a href="https://www.wired.com/story/us-charges-12-alleged-spies-in-chinas-freewheeling-hacker-for-hire-ecosystem/">the story</a>:</p>
+<blockquote><p>The US Department of Justice on Wednesday <a href="https://www.justice.gov/opa/pr/justice-department-charges-12-chinese-contract-hackers-and-law-enforcement-officers-global">announced</a> the indictment of 12 Chinese individuals accused of more than a decade of hacker intrusions around the world, including eight staffers for the contractor i-Soon, two officials at China&#8217;s Ministry of Public Security who allegedly worked with them, and two other alleged hackers who are said to be part of the Chinese hacker group APT27, or Silk Typhoon, which prosecutors say was involved in the US Treasury breach late last year.</p>
+<p>[&#8230;]</p>
+<p>According to prosecutors, the group as a whole has targeted US state and federal agencies, foreign ministries of countries across Asia, Chinese dissidents, US-based media outlets that have criticized the Chinese government, and most recently the US Treasury, which was breached between September and December of last year. An internal Treasury report ...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/silk-typhoon-hackers-indicted.html>
+
+---
+
+##  It&#8217;s Infrastructure Week! 
+
+date: 2025-03-11, updated: 2025-03-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/its-infrastructure-week>
+
+---
+
+## The New Yorker Modernizes a Few Words in Its Style Guide
+
+date: 2025-03-11, updated: 2025-03-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.newyorker.com/newsletter/the-daily/the-new-yorker-house-style-joins-the-internet-age>
+
+---
+
+##  The creator of Poetry Is Not a Luxury Instagram account is coming... 
+
+date: 2025-03-11, updated: 2025-03-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046418-the-creator-of-poetry-is>
+
+---
+
+## [Early Impressions] the M4 MacBook Air
+
+date: 2025-03-11, from: Om Malik blog
+
+It is the new Apple computers review day — as you can see from the top of Techmeme, which is dominated by the reviews of Apple’s new Mac Studio and MacBook Air models. While Mac Studio is garnering significant attention, the M4 MacBook Air is likely more relevant to everyday users. The new Air offers &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/11/the-new-m4-macbook-air/>
+
+---
+
+## New MLB Caps Are So Fugly They Make MAGA Hats Look Well-Designed
+
+date: 2025-03-11, updated: 2025-03-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.sbnation.com/mlb/2025/3/10/24382064/mlb-new-overlap-hats-tetas-anaels-new-era>
+
+---
+
+##  Skywriter takes Bluesky threads and makes webpages out of them.... 
+
+date: 2025-03-11, updated: 2025-03-11, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046411-skywriter-takes-a-bluesky>
+
+---
+
+## [Sponsor] WorkOS: Scalable, Secure Authentication
+
+date: 2025-03-11, updated: 2025-03-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=RSS&utm_campaign=q12025>
+
+---
+
+## A Conversation with ChatGPT About Personal AI
+
+date: 2025-03-11, from: Doc Searls (at Harvard), New Old Blog
+
+What follows is a conversation I&#8217;m having with ChatGPT about personal AI. I guarantee it&#8217;s unlike any conversation about AI you&#8217;ll find anywhere else. It&#8217;s copied and pasted, and full of weird HTML that later I&#8217;ll run through a text editor or something to fix. Meanwhile the &#8220;You said&#8221; and &#8220;ChatGPT said&#8221;  don&#8217;t show in [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/11/a-conversation-with-chatgpt-about-personal-ai/>
+
+---
+
+## Josh Marshall on Kevin Drum
+
+date: 2025-03-11, updated: 2025-03-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://talkingpointsmemo.com/edblog/remembering-kevin-drum>
+
+---
+
+## Kevin Drum, Pioneering Political Blogger and Columnist, Dies at 66
+
+date: 2025-03-11, updated: 2025-03-11, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://jabberwocking.com/health-update-100/>
+
+---
+
+## Riding on Rivers
+
+date: 2025-03-11, from: Doc Searls (at Harvard), New Old Blog
+
+Just learned about this, here. Thank you, Andy Sylvester! 
+
+<br> 
+
+<https://doc.searls.com/2025/03/11/riding-on-rivers/>
 
 ---
 
@@ -58,22 +435,22 @@ date: 2025-03-11, from: Dave Winer's Scripting News
 <li>They are implementing the same limits that Twitter designed into their product, no styling, no links, you can't edit, no titles, enclosures, and a limit of 300 chars per post. Simple stuff that, if they broke through the Twitter design, would make it a decent platform for writers. I don't see any reason to duplicate the mistakes that Twitter made, in 2006, in the design of their product.</li>
 <li>They repeatedly claim to be <a href="https://www.cnbc.com/2024/11/21/bluesky-ceo-jay-graber-says-x-rival-is-billionaire-proof.html">billionaire-proof</a> but as far as I can tell, and I have built software on their APIs, they are not. Yet they tell users they are safe, and what choice do the users have but to believe them, esp when tech journalism repeats the claims without challenging them. As a result, people believe that if Bluesky were to be acquired by a billionaire, something they might not even be able to stop, they will be able to quickly migrate to something that's the same as Bluesky and keep all their connections, people they follow and people following them. </li>
 </ul>
-<p>All of this would be nice, if it were true but imho it is not true. I'm going to go through the recent statement from their CEO in the remainder of this piece. I invite them to rebut it, esp Mike Masnick of Techdirt, who has journalistic integrity, is widely respected, and is on the Bluesky board of directors. Honestly I can't understand why Masnick puts his integrity on the line here, I've tried to discuss it with him, and I guess he doesn't take me seriously enough to give a serious response. I would also like to know what his deal is with them, does he profit personally if Bluesky is acquired. That needs to be disclosed, imho. I would do it if I were in his shoes. </p>
-<p>If you read my blog, I hope you know that I wouldn't challenge someone on something like this unless I was pretty sure there is an issue. I don't imagine for a second that people would abandon Bluesky if they knew they were locked in and would have no path out if they were bought by a billionaire. I know we can't get out and I still use Bluesky, because that's where the people I want to network with are. They won. So they don't have to deceive. They can stop making this ridiculous claim. Yet they continue to do it, in pretty much exactly the same terms as they have been doing it all along. </p>
+<p>All of this would be nice, if it were true but imho it is not true. I'm going to go through the recent statement from their CEO in the remainder of this piece. I invite them to rebut it, esp <a href="https://www.techdirt.com/user/mmasnick/">Mike Masnick</a> of Techdirt, who has journalistic integrity, is widely respected, and is on the Bluesky board of directors. Honestly I can't understand why Masnick puts his integrity on the line here, I've tried to discuss it with him, and I guess he doesn't take me seriously enough to give a serious response. I would also like to know what his deal is with them, does he profit personally if Bluesky is acquired. That needs to be disclosed, imho. I would do it if I were in his shoes. </p>
+<p>If you read my blog, I hope you know that I wouldn't challenge something like this unless I was pretty sure there is an issue. I don't imagine for a second that people would abandon Bluesky if they knew they were locked in and would have no path out if it was bought by a billionaire. I know we can't get out and I still use Bluesky, because that's where the people I want to network with are. They won. So they don't have to deceive. They can stop making this claim. Yet they continue to do it, in pretty much exactly the same terms as they have been doing it all along. </p>
 <p>Here's the statement that appeared in <a href="https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/">TechCrunch</a> yesterday.</p>
 <ul>
 <li>“If a billionaire came in and bought Bluesky, or took it over, or if I decided tomorrow to change things in a way that people really didn’t like, then they could fork off and go on to another application,” Graber explained at SXSW. “There’s already applications in the network that give you another way to view the network, or you could build a new one as well. And so that openness guarantees that there’s always the ability to move to a new alternative.”</li>
-<li>The quote is from Jay Graber, the CEO of the company.</li>
+<li>The quote is from <a href="https://en.wikipedia.org/wiki/Jay_Graber">Jay Graber</a>, the CEO of the company.</li>
 </ul>
 <p>Let's go through it, point by point</p>
 <ul>
-<li>"they could fork it off and go on to another application" -- in this sentence "they" applies to developers, because you have to be a developer to fork an application. Assuming Bluesky is available in source code, with an appropriate open source license, and they have released enough code so that a developer could quickly launch an exact Bluesky clone, maybe this part is true. I can't evaluate it without going through the exercise of forking their code, but I do know this -- no one has. Why not? I would think that with <a href="https://backlinko.com/bluesky-statistics">27 million users</a>, by now someone would have tried it. Maybe this post will uncover such an instance, or motivate one. I would be happy to try it out to see how it works. But it has to be completely independent of Bluesky. It would have to work, without loss of functionality, if Bluesky's network disappeared.</li>
-<li>"there’s already applications in the network that give you another way to view the network" -- this is true. But they don't do very much nor do they have many users. They are basically experiments that show that you could build something else with the format they have defined. This isn't unusual. You can make a lot of different kinds of websites with HTML, for example, but very few of them have millions of users. Same thing with Bluesky-compatible apps that do less than what Bluesky does. I don't think this adds anything to their claim of being safe from being acquired by a billionaire. Also if these apps are in the same network, that doesn't give us any independence from Bluesky. So I think this is a no-op, it adds nothing but confusion to the claim.</li>
-<li>"[our] openness guarantees that there’s always the ability to move to a new alternative" -- simply this is not true, and it's the crux of the question. There is no such guarantee. If there were, we would be able to move to an alternative now. Where is it? It's not there and imho it can't be there. </li>
+<li>"they could fork it off and go on to another application" -- in this sentence "they" applies to developers, because you have to be a developer to <a href="https://en.wikipedia.org/wiki/Fork_(software_development)">fork</a> an application. Assuming Bluesky is available in source code, with an appropriate open source license, and they have released enough code so that a developer could quickly launch an exact Bluesky clone, maybe this part is true. I can't evaluate it without going through the exercise of forking their code, but I do know this -- no one has. Why not? I would think that with <a href="https://backlinko.com/bluesky-statistics">27 million users</a>, by now someone would have tried it. Maybe this post will uncover such an instance, or motivate one. I would be happy to try it out to see how it works. But it has to be completely independent of Bluesky. It would have to work, without loss of functionality, if Bluesky's network disappeared.</li>
+<li>"there’s already applications in the network that give you another way to view the network" -- this is true. But they don't do very much nor do they have many users. They are basically experiments that show that you could build something else with the format they have defined. This isn't unusual. You can make a lot of different kinds of websites with HTML, for example, but very few of them have millions of users. Same thing with apps built on the Bluesky protocol that use data types that Bluesky itself doesn't understand. I don't think this adds anything to the claim of billionaire-safety. Also if these apps are in the same network, that doesn't give us any independence from Bluesky. So I think this is a <a href="https://en.wikipedia.org/wiki/NOP_(code)">no-op</a>, it adds nothing but confusion to the claim.</li>
+<li>"[our] openness guarantees that there’s always the ability to move to a new alternative" -- this is not true, and it's the crux of the concern. There is no such guarantee. If there were, we would be able to move to an alternative now. Where is it? It's not there and imho it can't be there. </li>
 </ul>
-<p>And there are other problems. Mastodon does what they claim to do. There are lots of instances of Mastodon servers and they interop with each other. It's an incredible proof of concept. But its federation ability adds enough complexity that most people prefer Bluesky, which is not federatable. There are always tradeoffs in technology. You can have flexibility but it comes at a price. Bluesky would have you believe you can have the flexibility of Mastodon without paying the price. </p>
-<p>There may be a way to do what they promise, but it would mean removing features, which isn't a bad idea, but they have decided they have to do everything Twitter does and there is the conundrum. Twitter was designed around centralization, and because of that Twitter is <i>not</i> billionaire-proof as has been demostrated, and neither is Bluesky.</p>
-<p>Every time I read this quote from their CEO it gets my bile up, and I say things on Bluesky that I regret later. Instead I decided to take the time this morning to carefully explain the problem and now when they make the claim, I can point to this piece. Or maybe I'm wrong, and they can show me an instance I can switch to and not lose access to my network of friends on Bluesky and not depend on the existence of Bluesky itself. That would actually make me happy (I think) and give me a completely new understanding of computer science. </p>
+<p>There are other problems. Mastodon, via its API, actually does what Bluesky claims to do. There are lots of <a href="https://www.quora.com/What-is-a-server-instance">instances</a> of Mastodon servers and they interop with each other. It's an incredible proof of concept. But its federation ability adds enough complexity that most people prefer Bluesky, which doesn't have those complications. There are always tradeoffs in technology. You can have flexibility but it comes at a price. Bluesky would have you believe you can have the flexibility of Mastodon without paying the price. </p>
+<p>There may be a way to do what they promise, but it would mean removing features, which isn't a bad idea, but they have decided they have to do everything Twitter does and there is the conundrum. Twitter was designed around centralization, and because of that Twitter is <i>not</i> billionaire-proof as has been <a href="https://en.wikipedia.org/wiki/Elon_Musk#Business_career">demonstrated</a>, and neither is Bluesky.</p>
+<p>Every time I read this quote from their CEO it gets my bile up, and I say things <a href="https://bsky.app/profile/scripting.com">on Bluesky</a> that I regret later. Instead I decided to take the time this morning to carefully explain the problem and now when they make the claim, I can point to this piece. And maybe I'm wrong, and they can show me an instance I can switch to and not lose access to my network of friends on Bluesky and not depend on the existence of Bluesky itself. That would actually make me happy (I think) and give me a completely new understanding of computer science. </p>
  
 
 <br> 

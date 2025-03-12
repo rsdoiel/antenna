@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-03-11 07:08:27
+updated: 2025-03-12 07:08:39
 ---
 
 # retro computing
 
-(date: 2025-03-11 07:08:27)
+(date: 2025-03-12 07:08:39)
+
+---
+
+## Gnome’s Dash to Panel Extension Gets a Massive Update
+
+date: 2025-03-12, from: Linux Magazine
+
+<p>If you're a fan of the Gnome Dash to Panel extension, you'll be thrilled to hear that a new version has been released with a dock mode.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Gnome-s-Dash-to-Panel-Extension-Gets-a-Massive-Update>
+
+---
+
+## WROCC Newsletter Volume 42:12 reviewed
+
+date: 2025-03-12, from: Icon Bar, RISC OS News
+
+WROCC magazine is now fully up to date and the March edition (42:12) popped into my mailbox last week. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2178.html>
 
 ---
 

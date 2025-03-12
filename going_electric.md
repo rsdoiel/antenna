@@ -1,11 +1,328 @@
 ---
 title: going electric
-updated: 2025-03-11 07:08:28
+updated: 2025-03-12 07:08:40
 ---
 
 # going electric
 
-(date: 2025-03-11 07:08:28)
+(date: 2025-03-12 07:08:40)
+
+---
+
+## Meet Toyota’s new EV: Is the C-HR+ the affordable electric SUV we’ve been waiting for?
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-C-HR-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s finally here. <a href="https://electrek.co/guides/toyota/">Toyota</a> unveiled its newest EV, the C-HR+, a surprisingly stylish electric SUV. The smaller SUV will sit below the bZ4X and offer more range, a sleek new look, and faster charging. With an expected lower price tag, the Toyota C-HR+ could just be the affordable electric SUV we’ve been waiting for.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="405438" href="https://electrek.co/2025/03/12/toyota-unveils-new-c-hr-ev-affordable-stylish-electric-suv/#more-405438" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/toyota-unveils-new-c-hr-ev-affordable-stylish-electric-suv/>
+
+---
+
+## The Porsche Macan Will Be Electric-Only After The ICE Version Dies: Official
+
+date: 2025-03-12, from: Inside EVs News
+
+Porsche “stands by this decision.” That said, the automaker is considering a new hybrid SUV different from the Macan and Cayenne. 
+
+<br> 
+
+<https://insideevs.com/news/753247/porsche-macan-electric-only-official-new-hybrid-crossover/>
+
+---
+
+## In a historic first, wind and solar combined overtake coal in the US
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/pexels-photo-2673471.jpeg?quality=82&#038;strip=all&#038;w=1528" /></div><p>In the US in 2024, wind and solar accounted <a href="https://electrek.co/2025/02/27/renewables-generated-24-percent-us-electricity-2024-eia-data/" target="_blank" rel="noreferrer noopener">for 17%</a> of total electricity generation, surpassing coal, which fell to a record low of 15%, according to a new report from global energy think tank Ember.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="404661" href="https://electrek.co/2025/03/11/in-a-historic-first-wind-and-solar-combined-overtake-coal-in-the-us/#more-404661" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/in-a-historic-first-wind-and-solar-combined-overtake-coal-in-the-us/>
+
+---
+
+## The Lexus RZ Just Got Far More Interesting With 8-Speed Shifts, Yoke Steering
+
+date: 2025-03-11, from: Inside EVs News
+
+The Lexus RZ hits the gym, adds up to 408 horsepower and becomes a rolling lab for future Toyota EV tech—including steer-by-wire. 
+
+<br> 
+
+<https://insideevs.com/news/753063/2025-lexus-rx-specs-features/>
+
+---
+
+## The Toyota C-HR+ Has Tesla-Rivaling Range And Could Be U.S.-Bound
+
+date: 2025-03-11, from: Inside EVs News
+
+It's a downsized version of the new bZ4X, with SUV coupe vibes and up to 600 km of range in Europe. Could it be a hit in America, too? 
+
+<br> 
+
+<https://insideevs.com/news/752903/toyota-chr-reveal-range-specs/>
+
+---
+
+## Toyota Confirms An Electric Truck Is Coming
+
+date: 2025-03-11, from: Inside EVs News
+
+Along with the updated bZ4X, C-HR+ and Urban Cruiser, Toyota has three more EVs coming by 2026. One is clearly a truck—and a Land Cruiser too? 
+
+<br> 
+
+<https://insideevs.com/news/753047/toyota-electric-truck-reveal-kenshiki/>
+
+---
+
+## The Toyota bZ4X Just Got Way, Way Better. Here's What's New
+
+date: 2025-03-11, from: Inside EVs News
+
+Toyota's EV levels up with two battery options, more range, more power and faster charging. The car's chief engineer breaks it down. 
+
+<br> 
+
+<https://insideevs.com/news/752884/2026-toyota-bz4x-range-power-charging/>
+
+---
+
+## Future Toyota EVs Will Get Familiar Toyota Names
+
+date: 2025-03-11, from: Inside EVs News
+
+Say goodbye to "bZ4X" and other confusing alphanumerics. Toyota is changing its naming strategy as future cars get EV counterparts. 
+
+<br> 
+
+<https://insideevs.com/news/752882/toyota-ev-names-bz4x/>
+
+---
+
+## Elon Musk claims Tesla will double US production in next two years, let’s do the math
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/04/tesla-fremont-factory-8.png?w=1600" /></div><p>Elon Musk said today that Tesla will double its electric vehicle production in the US in the next two years.</p>
+
+
+
+<p>What would that look like? Let’s do the math.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405422" href="https://electrek.co/2025/03/11/elon-musk-tesla-double-us-production-lets-do-the-math/#more-405422" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/elon-musk-tesla-double-us-production-lets-do-the-math/>
+
+---
+
+## EV incentives surged to 14.8% of ATP in Feb – highest in 5+ years
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Polestar-3-SUVs-mountain.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The average incentive package for a new EV was 14.8% of the average transaction price (ATP), or approximately $8,162, the highest level in more than five years, according to the latest monthly new-vehicle <a href="https://www.coxautoinc.com/wp-content/uploads/2025/03/February-2025-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf" target="_blank" rel="noreferrer noopener">ATP report</a> from Cox Automotive’s Kelley Blue Book. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-sales,evs,kelley-blue-book" data-layer-viewtype="unknown" data-post-id="405394" href="https://electrek.co/2025/03/11/ev-incentives-atp-february-kelley-blue-book/#more-405394" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/ev-incentives-atp-february-kelley-blue-book/>
+
+---
+
+## US President does infomercial at White House for company owned by his biggest political donor
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Trump-Tesla-white-house.png?w=1600" /></div><p>Donald Trump, the President of the United States, performed what basically amounts to an infomercial at the White House for Tesla, a company controlled by his biggest political donor, a day after its stock crashed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405393" href="https://electrek.co/2025/03/11/us-president-does-infomercial-at-white-house-for-company-owned-by-his-biggest-political-donor/#more-405393" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/us-president-does-infomercial-at-white-house-for-company-owned-by-his-biggest-political-donor/>
+
+---
+
+## Rivian launches hands-free driving and a new ‘Rally Mode,’ but that’s not all
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Rivian-stock-analyst-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian introduced a few cool new features in its latest software update, including hands-free driving through its new ADAS, Enhanced Highway Assist. But that’s not all. <a href="https://electrek.co/guides/rivian/">Rivian</a> also launched a “Rally” drive mode and unlocked a new way for EV drivers to gain more power.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s,rivian-r1t" data-layer-viewtype="unknown" data-post-id="405389" href="https://electrek.co/2025/03/11/rivian-launches-hands-free-driving-and-new-rally-driving-mode/#more-405389" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/rivian-launches-hands-free-driving-and-new-rally-driving-mode/>
+
+---
+
+## Greenlane’s flagship electric charging truck stop to open in April
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Greenlane-Colton.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Greenlane, which is building US-wide EV charging infrastructure for heavy-duty commercial vehicles, will open its flagship electric charging truck stop in Colton, California, next month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="405366" href="https://electrek.co/2025/03/11/greenlane-flagship-electric-charging-truck-stop/#more-405366" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/greenlane-flagship-electric-charging-truck-stop/>
+
+---
+
+## Rivian Just Added Hands-Free Driving And 'Rally Mode' In A Software Update
+
+date: 2025-03-11, from: Inside EVs News
+
+Rivian's R1S and R1T just got a whole lot better. But the upgrades are only available for certain trucks. 
+
+<br> 
+
+<https://insideevs.com/news/753209/rivian-update-hands-free-rally-mode/>
+
+---
+
+## Jaguar’s controversial ultra-luxury EV looks fake in its first public appearance [Video]
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Jaguars-controversial-EV-debut.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The radical EV continues turning heads, for better or worse. <a href="https://electrek.co/guides/jaguar/">Jaguar’s</a> controversial Type 00 EV concept made a statement during its public debut in Paris. Even a few celebrities took it for a spin. In real life, the ultra-luxury vehicle still looks fake. Check it out for yourself in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="jaguar" data-layer-viewtype="unknown" data-post-id="405343" href="https://electrek.co/2025/03/11/jaguars-controversial-ev-looks-fake-in-first-public-debut-video/#more-405343" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/jaguars-controversial-ev-looks-fake-in-first-public-debut-video/>
+
+---
+
+## Worst Supercharging experience
+
+date: 2025-03-11, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/worst-supercharging-experience/>
+
+---
+
+## ALLPOWERS Spring Sale takes 48% off power stations with bonus savings and gifts, Lectric’s St. Paddy’s Day e-bike deals, more
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/ALLPOWERS-Spring-Sale-FI.jpg?quality=82&#038;strip=all&#038;w=1202" /></div><p>Today’s Green Deals are headlined by <a href="https://9to5toys.com/2025/03/11/allpowers-spring-sale-from-49/">ALLPOWERS’ Spring Sale</a> with up to 48% discounts on power stations, extra savings, free gifts, and more. One of the notable standouts during this event is the <a href="https://9to5toys.com/2025/03/11/allpowers-spring-sale-from-49/">R2500 Portable Power Station bundled</a> with a 600W solar panel for a new <a href="https://9to5toys.com/2025/03/11/allpowers-spring-sale-from-49/">$1,349</a> low. Coming up behind it is <a href="https://9to5toys.com/2025/03/10/lectrics-st-paddys-day-flash-sale/">Lectric’s St. Paddy’s Day Sale</a>, which is continuing much of the brand’s spring offers while also increasing savings on some models, like the <a href="https://9to5toys.com/2025/03/10/lectrics-st-paddys-day-flash-sale/">XP 3.0 e-bikes</a> that are getting up to $574 in free gear and start from <a href="https://9to5toys.com/2025/03/10/lectrics-st-paddys-day-flash-sale/">$999</a>. Next, we have a selection of Greenworks electric pressure washers led by the <a href="https://9to5toys.com/2025/03/10/greenworks-pro-3000-psi-pressure-washer-297/">Pro-tier 3,000 PSI model down at $297</a>, as well as <a href="https://9to5toys.com/2025/03/11/jackery-explorer-1000-v2-449/">Jackery’s Explorer 1000 v2</a> Portable Power Station that is undercutting the brand’s direct Spring Sale pricing to <a href="https://9to5toys.com/2025/03/11/jackery-explorer-1000-v2-449/">$449</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/03/10/mod-spring-sale-groove-step-thru-3-1849/">MOD Spring e-bike Sale</a> with $650 off its latest release, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="405349" href="https://electrek.co/2025/03/11/allpowers-spring-sale-lectrics-more/#more-405349" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/allpowers-spring-sale-lectrics-more/>
+
+---
+
+## Ford Just Finished Shipping 140,000 Free Tesla Charging Adapters
+
+date: 2025-03-11, from: Inside EVs News
+
+The automaker says its EV customers can now access a DC fast charger every 18 miles on most U.S. highways. 
+
+<br> 
+
+<https://insideevs.com/news/753200/ford-shipped-140000-free-tesla-adapters/>
+
+---
+
+## Wait, Rivian (RIVN) could really save the Volkswagen Golf? The next-gen EV promises to deliver
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-Volkswagen-Golf-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The iconic hatch may have found its saviour. Volkswagen confirmed that the fully electric Golf is already in the works and will be one of its first EVs to feature <a href="https://electrek.co/guides/rivian/">Rivian’s</a> (RIVN) advanced software.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,volkswagen" data-layer-viewtype="unknown" data-post-id="405322" href="https://electrek.co/2025/03/11/rivian-rivn-save-volkswagen-golf-as-an-ev/#more-405322" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/rivian-rivn-save-volkswagen-golf-as-an-ev/>
+
+---
+
+## The One Thing Car Companies Should Do To Sell More EVs
+
+date: 2025-03-11, from: Inside EVs News
+
+A new study says 71% of buyers would be more likely to purchase an EV from a manufacturer that handles all aspects of home charging.
+ 
+
+<br> 
+
+<https://insideevs.com/news/753185/home-charging-ev-study-installation/>
+
+---
+
+## You Can Get A Discount On A Chevy BrightDrop Van From Costco
+
+date: 2025-03-11, from: Inside EVs News
+
+Want to live the electric #vanlife? Costco has a deal for you. Members can get either $2,750 or $3,000 off the purchase price. 
+
+<br> 
+
+<https://insideevs.com/news/753153/chevrolet-brightdrop-costco-discount/>
+
+---
+
+## Tesla Cybertruck sank when launching a jetski after Musk said you could use the truck as a boat
+
+date: 2025-03-11, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Cybertruck-rescue.png?w=1600" /></div><p>A Tesla Cybertruck sank in Ventura harbor in California when trying to launch a jetski despite Tesla CEO Elon Musk saying that you could use the truck as a boat.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="405312" href="https://electrek.co/2025/03/11/tesla-cybertruck-sank-when-launching-a-jetski-after-musk-said-you-could-use-the-truck-as-a-boat/#more-405312" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/11/tesla-cybertruck-sank-when-launching-a-jetski-after-musk-said-you-could-use-the-truck-as-a-boat/>
 
 ---
 

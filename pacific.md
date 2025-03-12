@@ -1,11 +1,451 @@
 ---
 title: pacific
-updated: 2025-03-11 07:08:23
+updated: 2025-03-12 07:08:34
 ---
 
 # pacific
 
-(date: 2025-03-11 07:08:23)
+(date: 2025-03-12 07:08:34)
+
+---
+
+## Full text of Gov. Lou Leon Guerrero's 2025 State of the Island Address
+
+date: 2025-03-12, from: Pacific Island Times
+
+Delivered March 12, 2025 before the 38th Guam Legislature  at the Guam Congress Building in Hagatna   INTRODUCTION Lieutenant Governor... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/full-text-of-gov-lou-leon-guerrero-s-2025-state-of-the-island-address>
+
+---
+
+## Pacific Federal Management listed as a top-performing US construction firm
+
+date: 2025-03-12, from: Pacific Island Times
+
+By Pacific Island Times News Staff   Pacific Federal Management, Inc. ranks 89th on Associated Builders and Contractors’ 2025 Top... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-federal-management-listed-as-a-top-performing-us-construction-firm>
+
+---
+
+## Local contractor wins top national safety award
+
+date: 2025-03-12, from: Pacific Island Times
+
+By Pacific Island Times News Staff Pacific Rim has received the National Safety Pinnacle award for its exceptional long-term safety... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/local-contractor-wins-top-national-safety-award>
+
+---
+
+## Zero food waste: Guam bill seeks to build liability protection for food donors
+
+date: 2025-03-12, from: Pacific Island Times
+
+Sen. Sabina Flores Perez’s Bill 89-38, titled “the Inafa’maolek Food Donation Act,” derived from the Bill Emerson Good Samaritan Food Donati 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/zero-food-waste-guam-bill-seeks-to-build-liability-protection-for-food-donors>
+
+---
+
+## US to resume security support to Ukraine as Kyiv says it is ready to accept ceasefire proposal
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>JEDDAH &#8212; The United States agreed on Tuesday to resume military aid and intelligence sharing with Ukraine after Kyiv said it was ready to support Washington&#8217;s proposal for a 30-day ceasefire with Russia, the countries said in a joint statement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/us-to-resume-security-support-to-ukraine-as-kyiv-says-it-is-ready-to-accept-ceasefire-proposal/>
+
+---
+
+## House GOP passes bill to avert a shutdown, daring the senate to accept it
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The House passed legislation Tuesday to fund the government through Sept. 30 and avert a shutdown at the end of the week, in a party-line vote that reflected how Republican fiscal hawks have swallowed their concerns about spending in deference to President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/house-gop-passes-bill-to-avert-a-shutdown-daring-the-senate-to-accept-it/>
+
+---
+
+## Hamakua Energy Plant sold
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>The parent company of Hawaiian Electric Co., Hawaiian Electric Industries Inc., has sold the 60-megawatt Hamakua Energy Plant to a subsidiary of Harbert Management Corp.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/hawaii-news/hamakua-energy-plant-sold/>
+
+---
+
+## Fence plan for Hilo Municipal Golf Course miffs some neighbors
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County is in the process of erecting a 6-foot-tall continuous chain-link fence along the boundary of Hilo Municipal Golf Course to prevent access by those seeking to play without paying or to use the course for unauthorized purposes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/hawaii-news/fence-plan-for-hilo-municipal-golf-course-miffs-some-neighbors/>
+
+---
+
+## Scale of cuts to the VA in the Pacific unclear
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>With significant proposed cuts to the Department of Veterans Affairs by the administration of President Donald Trump, it&#8217;s not yet clear what that will mean for veterans in Hawaii and across the Pacific.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/hawaii-news/scale-of-cuts-to-the-va-in-the-pacific-unclear/>
+
+---
+
+## News in brief March 12
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>15 injured as school bus &#0010;overturns on New Jersey highway</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/news-in-brief-march-12/>
+
+---
+
+## Kennedy rattles food companies with vow to rid food of artificial dyes
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>In his first meeting with top executives from PepsiCo, WK Kellogg, General Mills and other large companies, Robert F. Kennedy Jr., the health secretary, bluntly told them that a top priority would be eliminating artificial dyes from the nation&#8217;s food supply.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/kennedy-rattles-food-companies-with-vow-to-rid-food-of-artificial-dyes/>
+
+---
+
+## Southwest Airlines shifts to paid baggage policy to lift earnings
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; Southwest Airlines said on Tuesday it would start charging some customers for checked bags, ending a unique free policy, as the company&#8217;s lackluster earnings have fueled pressure to revamp its business model.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/southwest-airlines-shifts-to-paid-baggage-policy-to-lift-earnings/>
+
+---
+
+## Trump says he will label violence against Tesla domestic terrorism
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Recent violence against Tesla dealerships will be labeled domestic terrorism, U.S. President Donald Trump said on Tuesday as he selected a new Tesla car to show support for the electric carmaker&#8217;s chief, his ally Elon Musk.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/trump-says-he-will-label-violence-against-tesla-domestic-terrorism/>
+
+---
+
+## USAID official orders employees to shred or burn classified and personnel records
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A senior official at the main U.S. aid agency, which is being dismantled by the Trump administration, told employees to clear safes holding classified documents and personnel files by shredding the papers or putting them into bags for burning, according to an email sent to the staff.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/usaid-official-orders-employees-to-shred-or-burn-classified-and-personnel-records/>
+
+---
+
+## Only seven countries met WHO air quality standards in 2024, data shows
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>SINGAPORE &#8212; Only seven countries met World Health Organization (WHO) air quality standards last year, data showed on Tuesday, as researchers warned that the war on smog would only get harder after the United States shut down its global monitoring efforts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/only-seven-countries-met-who-air-quality-standards-in-2024-data-shows/>
+
+---
+
+## The US is trying to deport Mahmoud Khalil, a legal resident. here’s what to know.
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration invoked an obscure statute over the weekend in moving to deport Mahmoud Khalil, a permanent legal resident of the United States who recently graduated from Columbia University, where he helped lead campus protests against high civilian casualties in the Gaza Strip during Israel&#8217;s campaign against Hamas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/nation-world-news/the-us-is-trying-to-deport-mahmoud-khalil-a-legal-resident-heres-what-to-know/>
+
+---
+
+## Flamenco returns to Hilo
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>After a nine-year hiatus, an East Hawaii audience will experience the mysterious, passionate and complex Spanish art form known as flamenco when the University of Hawaii at Hilo Performing Arts Center and the Hawaii Concert Society co-present Flamenco Vivo Carlota Santana this Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/entertainment/flamenco-returns-to-hilo/>
+
+---
+
+## Residents encouraged to take housing survey
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii County Office of Housing and Community Development is updating its Strategic Roadmap for Homelessness and Housing and invites public input on the issues, needs and solutions for homelessness around Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/community/residents-encouraged-to-take-housing-survey/>
+
+---
+
+## ‘Mahalo Sea & Stars’ student art exhibit opens Friday
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;Hawaiian Star Compass &#8212; Mahalo Sea &#38;Stars&#8221; opens Friday at Wailoa Center in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/community/mahalo-sea-stars-student-art-exhibit-opens-friday/>
+
+---
+
+## Forage & Fire culinary program seeks participants
+
+date: 2025-03-12, from: Hawaii Tribune Harold
+
+
+				<p>KAILUA-KONA &#8212; Adults interested in an immersive, hands-on culinary experience centered around locally sourced ingredients are invited to apply for La&#8216;i&#8216;opua 2020&#8217;s second Forage &#38;Fire cohort, which begins in early April.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/12/community/forage-fire-culinary-program-seeks-participants/>
+
+---
+
+## UH Hilo filmmaker ramps up production honoring 19th century Hawaiʻi Island hero
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p>Patsy Iwasaki is close to completing a long-awaited documentary on a Japanese immigrant and plantation laborer lynched in 1889.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/uh-hilo-filmmaker-honors-katsu-goto/"><abbr>UH</abbr> Hilo filmmaker ramps up production honoring 19th century Hawaiʻi Island hero</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/uh-hilo-filmmaker-honors-katsu-goto/>
+
+---
+
+##  Attorney general says governor ‘weaponizing’ Guam's judicial system
+
+date: 2025-03-12, from: Pacific Island Times
+
+Expressing confidence his office “will withstand any type of scrutiny,” Attorney General Douglas Moylan lashed back at Gov. Lou Leon Guerrer 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/attorney-general-says-governor-weaponizing-guam-s-judicial-system>
+
+---
+
+## UH sailing finishes 2nd in Port of LA Harbor Cup
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p>The ʻBows represented in 10 races, finishing the event with 43 total points.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/sailing-2nd-port-la-harbor-cup/"><abbr>UH</abbr> sailing finishes 2nd in Port of <abbr>LA</abbr> Harbor Cup</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/sailing-2nd-port-la-harbor-cup/>
+
+---
+
+## Women’s basketball leads UH to Big West honors, Christensen earn men’s honorable mention
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p>Lily Wahinekapu was named Big West Player of the Year, Ritorya Tamilo earned Freshman of the Year and Tanner Christensen earned honorable mention.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/womens-and-mens-basketball-big-west-honors/">Women’s basketball leads <abbr>UH</abbr> to Big West honors, Christensen earn men’s honorable mention</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/womens-and-mens-basketball-big-west-honors/>
+
+---
+
+## Titriyski, Rosenthal named Big West Players of the Week
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p>Titriyski earned Freshman of the Week honors, Rosenthal was Setter of the Week after their sweep of Lindenwood.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/titriyski-rosenthal-bw-players-of-the-week/">Titriyski, Rosenthal named Big West Players of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/titriyski-rosenthal-bw-players-of-the-week/>
+
+---
+
+## ‘We found the thing that gives us joy’: Microchild on the microverse, music, and shared language
+
+date: 2025-03-12, from: The Husk
+
+The wife and husband pair of Shannon Sengebau McManus and Jonathan Camacho Glaser are souls behind the band Microchild. 
+
+<br> 
+
+<https://thehusk.substack.com/p/we-found-the-thing-that-gives-us>
+
+---
+
+## NASA selects UH Mānoa planetary scientist for Lucy asteroid mission
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p>Costello will contribute to the goal of understanding the nature and history of Trojan asteroids by providing insights into the role of meteoritic impacts in shaping the surfaces of the Trojans.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/nasa-lucy-mission-emily-costello/"><abbr>NASA</abbr> selects <abbr>UH</abbr> Mānoa planetary scientist for Lucy asteroid mission</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/nasa-lucy-mission-emily-costello/>
+
+---
+
+## Rainbow Wahine basketball earns Big West regular-season title
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> women’s basketball secured the title with a 66-51 win over <abbr>CSU</abbr> Bakersfield.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/basketball-bw-regular-season-title/">Rainbow Wahine basketball earns Big West regular-season title</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/basketball-bw-regular-season-title/>
+
+---
+
+## Cinematic arts alum co-writes Rescue: HI Surf
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p>Keiko Sugihara discovered her passion for filmmaking at <abbr>UH</abbr> Mānoa, where she pursued a degree in film production in <abbr>SCA</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/cinematic-arts-alum-co-writes-rescue-hi-surf/">Cinematic arts alum co-writes Rescue: HI Surf</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/cinematic-arts-alum-co-writes-rescue-hi-surf/>
+
+---
+
+## UH Community Colleges faculty, staff chart the future at conference
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Community Colleges faculty and staff gathered at <abbr>HISSI</abbr> to explore student success, innovation and professional development.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/hissi-conference/"><abbr>UH</abbr> Community Colleges faculty, staff chart the future at conference</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/hissi-conference/>
+
+---
+
+## Applications open: Free UH Hilo STEM program
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p><abbr>PISCES</abbr> at <abbr>UH</abbr> Hilo is hosting the ninth annual Women’s <abbr>STARS</abbr> (<abbr>STEM</abbr> Aerospace Research Scholars) Program this summer.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/applications-open-uh-hilo-stem-program/">Applications open: Free <abbr>UH</abbr> Hilo <abbr>STEM</abbr> program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/applications-open-uh-hilo-stem-program/>
+
+---
+
+## New UROP fellowship supports international undergraduate research, creative work
+
+date: 2025-03-11, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa was selected as one of 12 institutions nationwide to apply and receive up to $20,000 in private funding to support international research from the Tyler Center for Global Studies.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/11/tyler-fellowship-urop/">New <abbr>UROP</abbr> fellowship supports international undergraduate research, creative work</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/11/tyler-fellowship-urop/>
+
+---
+
+## Trump cuts target Mauna Loa Observatory
+
+date: 2025-03-11, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration is considering canceling the lease of the support office for a renowned Big Island climate research station, sources said, raising fears for the future of key work tracking the impact of carbon emissions on global warming.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/11/hawaii-news/trump-cuts-target-world-leading-greenhouse-gas-observatory-in-hawaii/>
 
 ---
 
@@ -285,6 +725,20 @@ date: 2025-03-11, from: Hawaii Tribune Harold
 
 ---
 
+## Brown Water Advisory issued for Hilo Bay, Hamakua
+
+date: 2025-03-11, from: Hawaii Tribune Harold
+
+
+				<p>A Brown Water Advisory was issued today for Hilo Bay and along the Hamakua Coast.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/11/hawaii-news/brown-water-advisory-issued-for-hilo-bay-hamakua/>
+
+---
+
 ## Jesse Edward charged with Five Criminal Offenses
 
 date: 2025-03-11, from: Island Times
@@ -361,7 +815,7 @@ date: 2025-03-11, from: Island Times
 
 date: 2025-03-11, from: Island Times
 
-<figure><img width="1024" height="208" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=1024%2C208&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?w=1890&amp;ssl=1 1890w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=300%2C61&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=1024%2C208&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=768%2C156&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=1536%2C312&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=1200%2C244&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=1568%2C319&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=400%2C81&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=706%2C143&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=1024%2C208&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76046" data-permalink="https://islandtimes.org/2025-palau-international-womens-day-national-forum/bdapr25-008/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=1890%2C384&amp;ssl=1" data-orig-size="1890,384" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;User&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BDAPR25-008" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=300%2C61&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=780%2C158&amp;ssl=1" /></figure>
+<figure><img width="1024" height="208" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=1024%2C208&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?w=1890&amp;ssl=1 1890w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=300%2C61&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=1024%2C208&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=768%2C156&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=1536%2C312&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=1200%2C244&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=1568%2C319&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=400%2C81&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?resize=706%2C143&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=1024%2C208&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76046" data-permalink="https://islandtimes.org/2025-palau-international-womens-day-national-forum/bdapr25-008/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=1890%2C384&amp;ssl=1" data-orig-size="1890,384" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;User&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BDAPR25-008" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=300%2C61&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BDAPR25-008.jpg?fit=780%2C158&amp;ssl=1" /></figure>
 <p>The Bureau of Domestic Affairs, Ministry of State is mandated by 6 PNC and by Executive Order No. 452 to post and publish laws and regulations for public viewing, and to raise public awareness through dissemination of all government activities and issues through various media outlets. Koror, Palau – March 7, 2025 – The Republic [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/2025-palau-international-womens-day-national-forum/"> 2025  Palau  International  Women’s  Day  National Forum</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -404,7 +858,7 @@ date: 2025-03-11, from: Island Times
 
 date: 2025-03-11, from: Island Times
 
-<figure><img width="600" height="754" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=600%2C754&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?resize=239%2C300&amp;ssl=1 239w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?resize=400%2C503&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=600%2C754&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76040" data-permalink="https://islandtimes.org/picrc-welcomes-tomoichi-as-new-security-o%ef%ac%83cer/pr_weisphoto/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=600%2C754&amp;ssl=1" data-orig-size="600,754" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_weisphoto" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=239%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=600%2C754&amp;ssl=1" /></figure>
+<figure><img width="600" height="754" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=600%2C754&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?resize=239%2C300&amp;ssl=1 239w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?resize=400%2C503&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=600%2C754&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76040" data-permalink="https://islandtimes.org/picrc-welcomes-tomoichi-as-new-security-o%ef%ac%83cer/pr_weisphoto/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=600%2C754&amp;ssl=1" data-orig-size="600,754" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PR_weisphoto" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=239%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/PR_weisphoto.jpg?fit=600%2C754&amp;ssl=1" /></figure>
 <p>The Palau International Coral Reef Center (PICRC) is pleased to welcome Mr. Weis Tomoichi as its new Security Oﬃcer. Mr. Tomoichi graduated Palau High School majoring in Engine Mechanics. An avid sports ﬁsher, he is passionate about the ocean eager to expand his skills. “My love for sport ﬁshing drives my eagerness to learn about [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/picrc-welcomes-tomoichi-as-new-security-o%ef%ac%83cer/">PICRC welcomes Tomoichi as new security oﬃcer</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
@@ -529,8 +983,8 @@ Naval Base Guam is among the six military installations included in the U.S. Nav
 
 date: 2025-03-11, from: Island Times
 
-<figure><img width="1024" height="777" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=1024%2C777&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=300%2C228&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=1024%2C777&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=768%2C583&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=1200%2C911&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=400%2C304&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=706%2C536&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=1024%2C777&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76073" data-permalink="https://islandtimes.org/reports-of-former-presidents-wifes-death-unfounded-saipan-authorities-say/banner-28/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=1249%2C948&amp;ssl=1" data-orig-size="1249,948" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BANNER" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=300%2C228&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=780%2C592&amp;ssl=1" /></figure>
-<p>Reports claiming the death of Christa Boyd-Nasftad Toribiong, also known as “Dudek,” the wife of former Palau President Johnson Toribiong, have been debunked, with Saipan law enforcement denying knowledge of such incident. Last Tuesday, multiple Palauans received messages via Facebook Messenger from an account under Toribiong’s name, falsely announcing that Christa Toribiong had died by [&#8230;]</p>
+<figure><img width="1024" height="777" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=1024%2C777&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=300%2C228&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=1024%2C777&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=768%2C583&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=1200%2C911&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=400%2C304&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?resize=706%2C536&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=1024%2C777&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76073" data-permalink="https://islandtimes.org/reports-of-former-presidents-wifes-death-unfounded-saipan-authorities-say/banner-28/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=1249%2C948&amp;ssl=1" data-orig-size="1249,948" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="BANNER" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=300%2C228&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/BANNER.jpg?fit=780%2C592&amp;ssl=1" /></figure>
+<p>Reports claiming the death of Christa Boyd-Nasftad Toribiong, also known as “Dudek,” the wife of former Palau President Johnson Toribiong, have been debunked, with Saipan law enforcement denying knowledge of such incident. Last Tuesday, multiple Palauans received messages via Facebook Messenger from an account under Johnson Toribiong’s name, falsely announcing that Christa Toribiong had died [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/reports-of-former-presidents-wifes-death-unfounded-saipan-authorities-say/">Reports of Former President’s Wife’s Death Unfounded, Saipan Authorities Say</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  
 

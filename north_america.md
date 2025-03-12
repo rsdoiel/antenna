@@ -1,11 +1,339 @@
 ---
 title: north america
-updated: 2025-03-11 07:08:21
+updated: 2025-03-12 07:08:33
 ---
 
 # north america
 
-(date: 2025-03-11 07:08:21)
+(date: 2025-03-12 07:08:33)
+
+---
+
+## Jen Rubin and Mike Zamore discuss detention of Columbia activist 
+
+date: 2025-03-12, from: The Contrarian
+
+Today in Manhattan, a federal judge will hear arguments over the legality of the detention of Mahmoud Khalil, a Columbia University graduate who organized and participated in pro-Palestinian protests. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158855455/27d79da7226ae828ef28ae885abc4dc7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158855455/27d79da7226ae828ef28ae885abc4dc7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-mike-zamore-discuss>
+
+---
+
+## Solar power is on a tear, even as President Trump looks to quell green energy growth
+
+date: 2025-03-12, from: Market Place
+
+A new report from the trade group Solar Energy Industries Association says that in 2024, two-thirds of new energy made in the U.S. came from solar panels. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/12/solar-power-new-energy-trump/>
+
+---
+
+## After pandemic turmoil and subsidies, airlines have had a soft landing
+
+date: 2025-03-12, from: Market Place
+
+Five years after COVID grounded carriers, leisure travel has fared better than the business segment. Supply chains aren't fully rebuilt. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/12/after-pandemic-turmoil-and-subsidies-airlines-have-had-a-soft-landing/>
+
+---
+
+## Budget—and the credulous mouthpieces laundering Republicans' talking points 
+
+date: 2025-03-12, from: The Contrarian
+
+Why would the GOP shut down our government, grow our debt, and destroy vital services to increase Musk & Bros' staggering wealth? 
+
+<br> 
+
+<https://contrarian.substack.com/p/budgetand-the-credulous-mouthpieces>
+
+---
+
+##  The Succession Battle For A Prison Empire 
+
+date: 2025-03-12, from: The Lever News
+
+ Luxury cars, mansions, a superyacht called Convict, and wined-and-dined sheriffs — a legal war is exposing the big business of extracting profits from prisoners.  
+
+<br> 
+
+<https://www.levernews.com/the-succession-battle-for-a-prison-empire/>
+
+---
+
+## When inflation and recession gang up on the economy
+
+date: 2025-03-12, from: Market Place
+
+Uncertainty about tariff policy poses risk of both rising prices and high unemployment, says economist Şebnem Kalemli-Özcan.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/11/stagflation-wall-street-uncertainty-recession-economic-outlook/>
+
+---
+
+## Unpacking our collective COVID-19 trauma, five years on
+
+date: 2025-03-12, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Five years ago, the World Health Organization declared COVID-19 a pandemic. Since then, there have been lockdowns, a recession, two presidential elections and more than a million American lives lost from the disease. In many ways, life feels like it’s back to normal, but David Wallace-Wells, a writer for The New York Times, argues that the pandemic still has a grip on American life, from our faith in public health institutions to the way consumers feel about the economy. On the show today, Wallace-Wells walks us through how Americans neglected to process the seismic impact of the pandemic in the rush to recover from it, and how it&#8217;s left us more self-interested and less empathetic. Plus, how this can help explain disgruntled consumers and a growing appetite for risk-taking in the economy.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Then, we&#8217;ll get into how responses to public health emergencies have shifted to the realm of the private sector. And, we&#8217;ll hear listeners&#8217; reflections on the COVID-19 pandemic, five years on.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<p><!-- /wp:paragraph --></p>
+<ul>
+<li><a href="https://www.nytimes.com/interactive/2025/03/04/opinion/covid-impact-five-years-later.html" target="_blank" rel="noreferrer noopener">&#8220;Opinion | How Covid Remade Our America, Five Years Later&#8221;</a> from The New York Times</li>
+<li><a href="https://www.nytimes.com/interactive/2025/03/09/upshot/covid-lockdown-five-year-charts.html" target="_blank" rel="noreferrer noopener">&#8220;30 Charts That Show How Covid Changed Everything in March 2020&#8221;</a> from The New York Times</li>
+<li><a href="https://www.washingtonpost.com/wellness/interactive/2023/pandemic-changes-daily-life/" target="_blank" rel="noreferrer noopener">&#8220;Gyms, pets and takeout: How the pandemic has shifted daily life&#8221;</a> from The Washington Post</li>
+<li><a href="https://www.theatlantic.com/health/archive/2024/03/covid-grief-trauma-memory-biden-trump/677828/" target="_blank" rel="noreferrer noopener">&#8220;It&#8217;s Not the Economy. It&#8217;s the Pandemic.&#8221;</a> from The Atlantic</li>
+<li><a href="https://www.nytimes.com/2025/03/10/opinion/covid-public-health-privatization.html" target="_blank" rel="noreferrer noopener">&#8220;Opinion | Covid’s Deadliest Effect Took Five Years to Appear&#8221;</a> from The New York Times</li>
+<li><a href="https://www.nytimes.com/2025/03/11/us/institutional-neutrality-universities-free-speech.html" target="_blank" rel="noreferrer noopener">&#8220;More Universities Are Choosing to Stay Neutral on the Biggest Issues&#8221;</a> from The New York Times</li>
+</ul>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/11/mms_20250311_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Funpacking-our-collective-covid-19-trauma-five-years-on&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/11/mms_20250311_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Funpacking-our-collective-covid-19-trauma-five-years-on&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/unpacking-our-collective-covid-19-trauma-five-years-on>
+
+---
+
+## Evening Roundup: March 11
+
+date: 2025-03-11, from: The Contrarian
+
+Jen Rubin & Ilan Goldenberg in conversation; Brenda Jones; Josh Levs; Shalise Manza Young; Eliza Orlins; Meredith Blake; 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-11>
+
+---
+
+## In Trump’s last trade war, tariff exclusions offered businesses some relief
+
+date: 2025-03-11, from: Market Place
+
+The opaque application process and random approvals confused many. It’s unclear if there will be a formal exclusion process this time. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/11/tariff-exclusions-offered-businesses-some-relief-trade-war-trump-imports/>
+
+---
+
+## Small businesses rethink hiring plans amid uncertain economy
+
+date: 2025-03-11, from: Market Place
+
+Some owners who had planned to staff up are waiting to see how things shake out with tariffs and consumer spending. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/11/small-businesses-rethink-hiring-plans-amid-uncertain-economy/>
+
+---
+
+## Jen Rubin and Ilan Goldenberg discuss ceasefire in Ukraine and the right to protest
+
+date: 2025-03-11, from: The Contrarian
+
+Hours ago, the United States and Ukraine came to a 30-day ceasefire agreement. Although Russia has yet to agree to the deal, the U.S. announced a lift of its restrictions on military aid and intelligence sharing. Jen Rubin and Ilan Goldenberg discuss the implications. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158855349/f9f6cf3a813214c62389ccef9e0320da.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158855349/f9f6cf3a813214c62389ccef9e0320da.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-ilan-goldenberg-discuss>
+
+---
+
+## Home improvement stores are adding AI to assist with your DIY
+
+date: 2025-03-11, from: Market Place
+
+Home Depot and Lowe's are using chatbots to mimic in-store help, but that's still a work in progress.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/11/home-improvement-stores-ai-tools-home-depot-lowes/>
+
+---
+
+## Should you take corporate forecasts on performance seriously?
+
+date: 2025-03-11, from: Market Place
+
+Corporate guidance is all about setting expectations. Why set them high when you can underpromise and overdeliver?  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/11/corporate-predictions-seriously-kohls-dicks-sporting-goods-delta-performance-revenue-outlook/>
+
+---
+
+## A Nation at the Crossroads
+
+date: 2025-03-11, from: The Contrarian
+
+&#8220;Don&#8217;t give up, don&#8217;t give in, don&#8217;t give out. Don&#8217;t get lost in a sea of despair.&#8221; --Rep. John Lewis 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-nation-at-the-crossroads>
+
+---
+
+## Trump vs. SCOTUS might be the ultimate test of our democracy
+
+date: 2025-03-11, from: The Contrarian
+
+A battle is brewing between the president and one of his hand-picked justices. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trump-vs-scotus-might-be-the-ultimate>
+
+---
+
+## Mayors Push Back against Trump’s Immigration Fear-Mongering
+
+date: 2025-03-11, from: The Contrarian
+
+As administration officials threaten ICE raids and funding cuts, blue cities refuse to be cowed 
+
+<br> 
+
+<https://contrarian.substack.com/p/mayors-push-back-against-trumps-immigration>
+
+---
+
+## The Real Cost of the Death Penalty
+
+date: 2025-03-11, from: The Contrarian
+
+New York City public defender Eliza Orlins discusses the racist history of the death penalty, the brutality of the various execution methods, and its massive expense. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158860246/ede36f14a3eda379c657f018ed7be565.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158860246/ede36f14a3eda379c657f018ed7be565.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/the-real-cost-of-the-death-penalty>
+
+---
+
+##  How Ads Increase Your Credit Card Bills 
+
+date: 2025-03-11, from: The Lever News
+
+ A new Federal Reserve study shows credit cards&#39; high interest rates aren&#39;t because of lending risk — they reflect monopoly power built by marketing campaigns.  
+
+<br> 
+
+<https://www.levernews.com/how-ads-increase-your-credit-card-bills/>
+
+---
+
+## Him Again? Andrew Cuomo is the latest alleged abuser to stage a post-MeToo comeback 
+
+date: 2025-03-11, from: The Contrarian
+
+Thanks to Trump, the bar for acceptable behavior may be lower than ever 
+
+<br> 
+
+<https://contrarian.substack.com/p/him-again-andrew-cuomo-is-the-latest>
+
+---
+
+##  Bezos Becomes Trump’s Apprentice 
+
+date: 2025-03-11, from: The Lever News
+
+ A new streaming deal is the latest gift to Trump from the billionaire CEO and his company — which profits off government contracts.  
+
+<br> 
+
+<https://www.levernews.com/bezos-becomes-trumps-apprentice/>
+
+---
+
+## Trump’s “Woke” Presidency
+
+date: 2025-03-11, from: The Contrarian
+
+Wokeness is alive and thriving in our current administration&#8212;its version is merely defined by extreme attacks on our First Amendment 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-woke-presidency>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-11, from: The Contrarian
+
+Tuesday: Protests in Iowa, support for Ukraine, more action against Tesla, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## More People in ICE Custody Means Smaller Meals and Delayed Medical Care, Detainees Say
+
+date: 2025-03-11, from: Capital and Main
+
+<p>Those being held say they're having to gather donations to clothe and feed the new arrivals.</p>
+<p>The post <a href="https://capitalandmain.com/more-people-in-ice-custody-means-smaller-meals-and-delayed-medical-care-detainees-say">More People in ICE Custody Means Smaller Meals and Delayed Medical Care, Detainees Say</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/more-people-in-ice-custody-means-smaller-meals-and-delayed-medical-care-detainees-say>
+
+---
+
+## Jen Rubin and Rep. Shomari Figures on Trump's threats to constituents 
+
+date: 2025-03-11, from: The Contrarian
+
+Jen Rubin interviews Representative Shomari Figures on an impending government shutdown, Congressional power in the face of Musk, and the Republican threat to Medicaid. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158843482/ec558c134028426f3e86353911bf1e62.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158843482/ec558c134028426f3e86353911bf1e62.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-rep-shomari-figures>
+
+---
+
+## More Americans are defaulting on credit card debt, study finds
+
+date: 2025-03-11, from: Market Place
+
+An analysis from personal finance company WalletHub found consumers took on an additional $74 billlion in credit card debt in 2024. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/11/more-americans-are-defaulting-on-credit-card-debt-study-finds/>
 
 ---
 
@@ -243,18 +571,6 @@ In the face of Trump's retributive assaults on our justice system, the duty of t
 <br> 
 
 <https://contrarian.substack.com/p/calling-all-ethical-lawyers>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-10, from: The Contrarian
-
-Monday: Protests at Tesla showrooms, the Women's March in California, Standing up for Science in Vermont and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
