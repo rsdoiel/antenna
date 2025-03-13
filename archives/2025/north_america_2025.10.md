@@ -1,11 +1,326 @@
 ---
 title: north america
-updated: 2025-03-12 07:08:33
+updated: 2025-03-13 06:11:28
 ---
 
 # north america
 
-(date: 2025-03-12 07:08:33)
+(date: 2025-03-13 06:11:28)
+
+---
+
+## Stand Up for the First Amendment
+
+date: 2025-03-13, from: The Contrarian
+
+Judges must hold the line against Mad King Donald 
+
+<br> 
+
+<https://contrarian.substack.com/p/stand-up-for-the-first-amendment>
+
+---
+
+##  The Secret Supreme Court Lobbyists Who Want To Stay Hidden 
+
+date: 2025-03-13, from: The Lever News
+
+ Dark money groups tied to conservative power broker Leonard Leo are trying to kill a rule forcing them to disclose who’s funding their judicial pressure campaigns.  
+
+<br> 
+
+<https://www.levernews.com/the-secret-supreme-court-lobbyists-who-want-to-stay-hidden/>
+
+---
+
+## Let’s talk about Newsom the Govcaster
+
+date: 2025-03-12, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>A new contender has entered the podcast landscape: wait, is that California Governor Gavin Newsom? His show features a surprisingly conservative guest list, including MAGA stars Steve Bannon and Charlie Kirk. Kai and Kimberly break down the fourth wall and discuss whether there&#8217;s value in platforming guests who hold a different set of values. Plus, more federal layoffs took place this past week, this time in the U.S. Department of Education and its civil rights division. Then, the hosts get smiley about rescue dogs in a sled dog race (thanks, Abigail!) and the birds in Kai&#8217;s neighborhood.</p>
+<p>Here’s everything we talked about today:</p>
+<p><!-- wp:list --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list"><!-- wp:list-item --></p>
+<li><a href="https://www.nytimes.com/2025/03/12/us/politics/gavin-newsom-podcast-steve-bannon.html" target="_blank" rel="noreferrer noopener">“Gavin Newsom Finds Some Surprising Common Ground With Steve Bannon”</a> from The New York Times</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li><a href="https://www.propublica.org/article/education-department-civil-rights-division-eroded-by-massive-layoffs" target="_blank" rel="noreferrer noopener">“Massive Layoffs at the Department of Education Erode Its Civil Rights Division”</a> by ProPublica</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li><a href="https://www.ed.gov/about/news/press-release/us-department-of-education-launches-end-dei-portal" target="_blank" rel="noreferrer noopener">“U.S. Department of Education Launches “End DEI” Portal”</a> from the U.S. Department of Education</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li><a href="https://alaskapublic.org/news/iditarod/2025-03-11/this-iditarod-musher-is-racing-with-mostly-rescue-dogs-from-alaska-shelters" target="_blank" rel="noreferrer noopener">“This Iditarod musher is racing with mostly rescue dogs from Alaska shelters”</a> from Alaska Public Media</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li>Kai&#8217;s been using <a href="https://merlin.allaboutbirds.org/" target="_blank" rel="noreferrer noopener">Merlin Bird ID</a> from the Cornell Lab of Ornithology to identify birds in his neighborhood</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li>Meanwhile, Kimberly&#8217;s uses the <a href="https://www.inaturalist.org/pages/seek_app">Seek app</a> to help her tell the difference between weeds and plants in her garden</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/12/mms_20250312_Make_Me_Smart_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Flets-talk-about-newsom-the-govcaster&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/12/mms_20250312_Make_Me_Smart_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Flets-talk-about-newsom-the-govcaster&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/lets-talk-about-newsom-the-govcaster>
+
+---
+
+## Food inflation was 0% last month. But people who eat aren’t feeling relief.
+
+date: 2025-03-12, from: Market Place
+
+Costs are still high. And according to the CPI for February, there were lots of price hikes and price drops within the grocery sector.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/12/food-inflation-grocery-trip-bill-eggs-meat-supermarket-cost-prices/>
+
+---
+
+## Evening Roundup: March 12
+
+date: 2025-03-12, from: The Contrarian
+
+Featuring Jen Rubin & Mike Zamore, Brian O'Neill, RJ Matson, Jen & Ben Wikler in conversation, Carron J. Phillips, Jennifer Weiss Wolf, The Democracy Movement, and an exchange with the Washington Post 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-12>
+
+---
+
+## Gen Z drinks “gut pop,” and legacy soda makers are eager to supply it
+
+date: 2025-03-12, from: Market Place
+
+Health-conscious consumers are shifting from sugary soft drinks to those with dietary fibers, says Laura Cooper of The Wall Street Journal. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/12/gut-pop-soda-gen-z-trend-beverage-prebiotic/>
+
+---
+
+## Employee confidence in February was the lowest in 9 years, survey says
+
+date: 2025-03-12, from: Market Place
+
+Just 44.4% of workers have a positive business outlook for their employers for the next six months, according to data from Glassdoor.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/12/employee-confidence-low-february-glassdoor-recession/>
+
+---
+
+## The electric grid’s battery capacity expanded 66% last year, and there’s more to come
+
+date: 2025-03-12, from: Market Place
+
+Batteries facilitate the adoption of renewable energy. Their installation costs, as well as the price of lithium, have come way down.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/12/the-electric-grids-battery-capacity-expanded-66-last-year-and-theres-more-to-come/>
+
+---
+
+## Want to chat with Jen Rubin? This is the only place you can.
+
+date: 2025-03-12, from: The Contrarian
+
+The Washington Post seemed to forget that. 
+
+<br> 
+
+<https://contrarian.substack.com/p/want-to-chat-with-jen-rubin-this>
+
+---
+
+## LA wildfire debris is going to local landfills. Neighbors of one worry it’s toxic.
+
+date: 2025-03-12, from: Market Place
+
+Officials say the toxic stuff is removed first. Residents say there's no way to be sure.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/12/la-wildfire-debris-local-landfills-toxic/>
+
+---
+
+## Women’s History Month is a time for optimism
+
+date: 2025-03-12, from: The Contrarian
+
+Our reaction to current events&#8212;and our commitment to action&#8212;requires that we hold tight to the optimism our foremothers possessed. 
+
+<br> 
+
+<https://contrarian.substack.com/p/womens-history-month-is-a-time-for>
+
+---
+
+## Tariff timeline: What is the status of the Trump administration’s tariffs?
+
+date: 2025-03-12, from: Market Place
+
+It’s been a confusing ride. Here’s what tariffs are currently in place.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/12/tariff-timeline-what-is-the-status-of-the-trump-administrations-tariffs/>
+
+---
+
+## Whitewashing the news must end
+
+date: 2025-03-12, from: The Contrarian
+
+Because this administration seems hellbent on targeting everyone, the press must highlight and reflect the masses. 
+
+<br> 
+
+<https://contrarian.substack.com/p/whitewashing-the-news-must-end>
+
+---
+
+## Jen Rubin and Ben Wikler on the Upcoming WI Supreme Court Election
+
+date: 2025-03-12, from: The Contrarian
+
+In three weeks on April 1, Wisconsin residents will vote in a critical judicial election to fill an empty seat on the State Supreme Court. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158940959/8e7318788fc9f10d7e95f2f39f1ccd33.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158940959/8e7318788fc9f10d7e95f2f39f1ccd33.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-ben-wikler-on-the-upcoming>
+
+---
+
+##  The Working Class Is Paying To Insure Beach Mansions 
+
+date: 2025-03-12, from: The Lever News
+
+ An impending deadline spotlights how the federal flood insurance program is forcing low-income households to subsidize the rich.  
+
+<br> 
+
+<https://www.levernews.com/the-working-class-is-paying-to-insure-beach-mansions/>
+
+---
+
+## Coffee with the Contrarians 03/12
+
+date: 2025-03-12, from: The Contrarian
+
+A recording from Jennifer Rubin's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158918416/1beb198dbeb38c84e0f0c2e3ea9fa8f1.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158918416/1beb198dbeb38c84e0f0c2e3ea9fa8f1.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0312>
+
+---
+
+##  Big Pharma Swamps The Drain With MAGA Lobbyists 
+
+date: 2025-03-12, from: The Lever News
+
+ Former Trump aides get hired by a foreign drugmaker aiming to kill Medicare’s plan to lower the price of U.S.-funded weight-loss meds.  
+
+<br> 
+
+<https://www.levernews.com/big-pharma-swamps-the-drain-with-maga-lobbyists/>
+
+---
+
+## Fire sale
+
+date: 2025-03-12, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/fire-sale>
+
+---
+
+## Snow Melts, Drought Builds and New Mexico Legislators Spike New Oil Regulations
+
+date: 2025-03-12, from: Capital and Main
+
+<p>Operators lost enough natural gas to power 12,000 homes for a year, even as legislators debated and abandoned most new reforms.</p>
+<p>The post <a href="https://capitalandmain.com/snow-melts-drought-builds-and-new-mexico-legislators-spike-new-oil-regulations">Snow Melts, Drought Builds and New Mexico Legislators Spike New Oil Regulations</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/snow-melts-drought-builds-and-new-mexico-legislators-spike-new-oil-regulations>
+
+---
+
+## Elon Musk: The accidental sovereign?
+
+date: 2025-03-12, from: The Contrarian
+
+History shows us what happens when private industry becomes so deeply embedded in war that it starts shaping its outcomes. 
+
+<br> 
+
+<https://contrarian.substack.com/p/elon-musk-the-accidental-sovereign>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-12, from: The Contrarian
+
+Wednesday: A funny sign, protesting the detention of an anti-war organizer, protests in Pennsylvania and against Tesla, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -282,18 +597,6 @@ Wokeness is alive and thriving in our current administration&#8212;its version i
 <br> 
 
 <https://contrarian.substack.com/p/trumps-woke-presidency>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-11, from: The Contrarian
-
-Tuesday: Protests in Iowa, support for Ukraine, more action against Tesla, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

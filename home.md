@@ -1,11 +1,128 @@
 ---
 title: home
-updated: 2025-03-12 07:08:38
+updated: 2025-03-13 06:11:34
 ---
 
 # home
 
-(date: 2025-03-12 07:08:38)
+(date: 2025-03-13 06:11:34)
+
+---
+
+## All the Bright, Sunny Home Decor I’m Stashing Away for Spring
+
+date: 2025-03-13, from: Dwell
+
+When winter starts to recede, my thoughts turn to color—a bright red stool here, a cobalt vase there—and warmer days ahead. 
+
+<br> 
+
+<https://www.dwell.com/article/best-new-spring-home-decor-ec51ce37>
+
+---
+
+## Why Grass Seed Goes Bad— And How To Work Around It
+
+date: 2025-03-12, from: Family Handyman Blog
+
+<p>Turfgrass specialists provide insights into the question "does grass seed go bad?" keeping signs and preventative measures at the forefront.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/does-grass-seed-go-bad/">Why Grass Seed Goes Bad— And How To Work Around It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/does-grass-seed-go-bad/>
+
+---
+
+## Rental Revamp: A Fashionable Couple’s "Pinch Me" NYC Home Is Full of Quirks and Handmade Details
+
+date: 2025-03-12, from: Dwell
+
+Gerald Ortiz and Kate Walz tapped their network of creative friends, DIYed their own decor, and dug deep into the local vintage market to outfit their charming two-story apartment. 
+
+<br> 
+
+<https://www.dwell.com/article/rental-revamp-writer-gerald-ortiz-fashion-designer-kate-walz-greenpoint-apartment-1c56eb87>
+
+---
+
+## Near Paris, a Streamline Moderne Stunner by Robert Mallet-Stevens Seeks €4M
+
+date: 2025-03-12, from: Dwell
+
+Once home to fashion designer Paul Poiret, the 1938 villa sports a crisp, white facade with flowing curves and porthole windows. 
+
+<br> 
+
+<https://www.dwell.com/article/robert-mallet-stevens-villa-france-real-estate-696d7722>
+
+---
+
+## 4 Scammy Contractor Discounts to Avoid At All Costs
+
+date: 2025-03-12, from: Family Handyman Blog
+
+<p>Learn about the common scammy discounts to avoid and how to find trustworthy contractors who will do the job well, on time and within budget.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/scammy-discounts-to-avoid-at-all-costs/">4 Scammy Contractor Discounts to Avoid At All Costs</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/scammy-discounts-to-avoid-at-all-costs/>
+
+---
+
+## Honka’s Log Cabin Kit Homes Are Made From "the Perfect Material"
+
+date: 2025-03-12, from: Dwell
+
+The Finnish prefab builder uses locally sourced spruce and pine, touting them for their performance in a range of climates. 
+
+<br> 
+
+<https://www.dwell.com/article/log-cabin-kits-honka-prefab-homes-82a6cb3a>
+
+---
+
+## How to Plant and Grow Yard Long (Chinese Long) Beans
+
+date: 2025-03-12, from: The Gardener's Path
+
+<p>Yard long beans are annual legumes that produce extra-long, thin pods. Also known as Chinese long or asparagus beans, they are delicious and extremely popular in Asian cuisine with purple, green, red, or cream pods. Learn how to plant and grow yard long beans in your vegetable garden in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-yard-long-beans/">How to Plant and Grow Yard Long (Chinese Long) Beans</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-yard-long-beans/>
+
+---
+
+## This 1970s Mill Valley Home Is Like a Treehouse in the Redwoods
+
+date: 2025-03-12, from: Sunset Magazine - Living in the West
+
+A 1974 house was stripped of its charm thanks to a builder-grade remodel. Designer Leah Harmatz renovated the space with personality. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/mill-valley-treehouse-inspired-home>
+
+---
+
+## Calathea Orbifolia Care: Ultimate Guide for Thriving Plants
+
+date: 2025-03-12, from: Yard Life blog
+
+<p>Calathea Orbifolia is one of the most stunning houseplants, admired for its large, striped leaves and tropical charm. If you ... </p>
+<p class="read-more-container"><a title="Calathea Orbifolia Care: Ultimate Guide for Thriving Plants" class="read-more button" href="https://ownyardlife.com/calathea-orbifolia-care-ultimate-guide-for-thriving-plants/#more-24910" aria-label="Read more about Calathea Orbifolia Care: Ultimate Guide for Thriving Plants">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/calathea-orbifolia-care-ultimate-guide-for-thriving-plants/">Calathea Orbifolia Care: Ultimate Guide for Thriving Plants</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/calathea-orbifolia-care-ultimate-guide-for-thriving-plants/>
 
 ---
 
@@ -24,6 +141,21 @@ date: 2025-03-12, from: Yard Life blog
 
 ---
 
+## Calathea Roseopicta: A Comprehensive Care and Growing Guide
+
+date: 2025-03-12, from: Yard Life blog
+
+<p>Calathea Roseopicta, also known as the Rose-Painted Calathea, is a stunning tropical plant prized for its vibrant foliage. Native to ... </p>
+<p class="read-more-container"><a title="Calathea Roseopicta: A Comprehensive Care and Growing Guide" class="read-more button" href="https://ownyardlife.com/calathea-roseopicta-a-comprehensive-care-and-growing-guide/#more-24907" aria-label="Read more about Calathea Roseopicta: A Comprehensive Care and Growing Guide">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/calathea-roseopicta-a-comprehensive-care-and-growing-guide/">Calathea Roseopicta: A Comprehensive Care and Growing Guide</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/calathea-roseopicta-a-comprehensive-care-and-growing-guide/>
+
+---
+
 ## Do "Pretty" Objects Work Better Than Merely Functional Ones? A Marital Debate
 
 date: 2025-03-12, from: Dwell
@@ -33,6 +165,30 @@ When it comes to home goods, I prefer utility over form. My wife feels otherwise
 <br> 
 
 <https://www.dwell.com/article/form-over-function-design-96fa0d03>
+
+---
+
+## 5 Trends and Predictions for the U.S. Housing Market, According to a Real Estate Pro
+
+date: 2025-03-12, from: Sunset Magazine - Living in the West
+
+Is 2025 the year for buyers or sellers? A real estate pro shares predictions for real estate trends and the housing market in the new year. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/2025-real-estate-trend-predictions>
+
+---
+
+## 10 Little Ways to Upgrade Your Home for Under $20
+
+date: 2025-03-12, from: Sunset Magazine - Living in the West
+
+This spring, you don't need a big remodel to update your house. Refresh your home with some accessories and accents under $20. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/home-decor-upgrades-under-20>
 
 ---
 
@@ -51,6 +207,18 @@ date: 2025-03-12, from: Yard Life blog
 
 ---
 
+## Sunset.com Home Page
+
+date: 2025-03-12, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
 ## 20 Tiny Orange Bugs (With Pictures and Identification)
 
 date: 2025-03-12, from: Yard Life blog
@@ -66,11 +234,35 @@ date: 2025-03-12, from: Yard Life blog
 
 ---
 
+## This Man Can Teach You How to Survive in the Wild—Here Are His Essential Tips
+
+date: 2025-03-12, from: Sunset Magazine - Living in the West
+
+Former wildlands firefighter Thomas Coyne trains people to survive in the wild. Here are his best survival tips and gear picks. 
+
+<br> 
+
+<https://www.sunset.com/travel/outdoor-adventure/thomas-coyne-survival-specialist>
+
+---
+
+## I Survived Survival School, and Here’s What I Learned to Take with Me on a Hike
+
+date: 2025-03-12, from: Sunset Magazine - Living in the West
+
+Even if you're just going on a short hike, you need to be prepared for an emergency. Here's what to pack in your hiking survival kit. 
+
+<br> 
+
+<https://www.sunset.com/travel/hiking-survival-kit>
+
+---
+
 ## Flying Has Never Been More Stressful. These Tools Will Help You Combat In-Flight Anxiety.
 
 date: 2025-03-12, from: Sunset Magazine - Living in the West
 
-With the uptick in news coverage of tragic plane incidents, flying anxiety is natural. Use these practices to deal. withflying anxiety. 
+With the uptick in news coverage of tragic plane incidents, flying anxiety is natural. Use these practices to deal with flying anxiety. 
 
 <br> 
 
@@ -203,6 +395,18 @@ From Calabrian chili paste to coconut oil, here's a list of what your kitchen's 
 
 ---
 
+## 25 Vegetarian Pasta Recipes That Everyone Will Love
+
+date: 2025-03-11, from: Sunset Magazine - Living in the West
+
+Pasta is just about the easiest dish to serve if you’re feeding a group of both meat lovers and vegetarians. Try these delicious recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/vegetarian-pasta-recipes>
+
+---
+
 ## Why Grass Won’t Grow Under Your Trees—and How to Fix It
 
 date: 2025-03-11, from: Family Handyman Blog
@@ -240,6 +444,18 @@ Mark your calendars for March 19, and join us in celebrating California ag! This
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28656>
+
+---
+
+## How to Make Primary Colors Look Chic, According to an Interior Designer
+
+date: 2025-03-11, from: Sunset Magazine - Living in the West
+
+Red, yellow, and blue are the foundation of the color wheel, but not the obvious choice for decorating. Here's how to use them at home. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/how-to-decorate-with-primary-colors>
 
 ---
 
@@ -613,18 +829,6 @@ date: 2025-03-10, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/23-common-types-of-crabs-with-pictures-and-identification/>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-10, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

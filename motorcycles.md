@@ -1,11 +1,96 @@
 ---
 title: motorcycles
-updated: 2025-03-12 07:08:39
+updated: 2025-03-13 06:11:35
 ---
 
 # motorcycles
 
-(date: 2025-03-12 07:08:39)
+(date: 2025-03-13 06:11:35)
+
+---
+
+## Some Idiot Sank a Tesla Cybertruck After Launching a PWC
+
+date: 2025-03-13, from: Ride Apart, Electric Motorcycle News
+
+I've said it before, I'll say it again. The Cybertruck isn't a real truck.  
+
+<br> 
+
+<https://www.rideapart.com/news/753374/tesla-cybertruck-pwc-sink-ventura-california/>
+
+---
+
+## Polaris' New and Updated Snowmobiles Go Hard
+
+date: 2025-03-13, from: Ride Apart, Electric Motorcycle News
+
+Get hyped for next riding season, unless you still have snow.  
+
+<br> 
+
+<https://www.rideapart.com/news/753333/2026-polaris-snowmobile-voyager-rmk-switchback-indy-widetrack/>
+
+---
+
+## This Supercharged 400 Horsepower Motorcycle Makes Zero Sense
+
+date: 2025-03-13, from: Ride Apart, Electric Motorcycle News
+
+But we’re absolutely crazy about it.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753230/supercharged-triumph-speed-triple-1200rr-crazy/>
+
+---
+
+## Your New Harley Is About To Get More Expensive If You Live In Europe
+
+date: 2025-03-13, from: Ride Apart, Electric Motorcycle News
+
+The US raised tariffs, so the European Union is raising countertariffs. Who loses? Everyone! 
+
+<br> 
+
+<https://www.rideapart.com/news/753360/harley-europe-tariffs-april-2025/>
+
+---
+
+## The X Games Has Banned Electric Motorcycles, and the Reasoning is Stupid
+
+date: 2025-03-12, from: Ride Apart, Electric Motorcycle News
+
+One reason comes to mind: Gas bikes can't hang anymore.  
+
+<br> 
+
+<https://www.rideapart.com/news/753356/x-games-bans-electric-dirt-bikes-motocross-ev/>
+
+---
+
+## NASCAR Power Rankings: How the contenders stack up behind Christopher Bell leaving Phoenix
+
+date: 2025-03-12, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer With teams preparing to head to Las Vegas for the first mile-and-a-half of the year, it’s the first sign the NASCAR season is no longer&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-power-rankings-how-the-contenders-stack-up-behind-bell-leaving-phoenix/>
+
+---
+
+## What's White and Red And White All Over? This Honda Super Cub C125
+
+date: 2025-03-12, from: Ride Apart, Electric Motorcycle News
+
+Simple, classy, timeless. 
+
+<br> 
+
+<https://www.rideapart.com/news/753219/honda-super-cub-c125-white/>
 
 ---
 

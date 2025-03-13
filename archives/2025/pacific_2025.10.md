@@ -1,15 +1,395 @@
 ---
 title: pacific
-updated: 2025-03-12 07:08:34
+updated: 2025-03-13 06:11:29
 ---
 
 # pacific
 
-(date: 2025-03-12 07:08:34)
+(date: 2025-03-13 06:11:29)
 
 ---
 
-## Full text of Gov. Lou Leon Guerrero's 2025 State of the Island Address
+## Gabbard drops pick for top intelligence post, a critic of Israel on Gaza
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Tulsi Gabbard, the director of national intelligence, opted not to name a critic of Israel&#8217;s war in the Gaza Strip to a top post managing briefings for the president, after the proposed appointment upset some members of President Donald Trump&#8217;s coalition, according to officials familiar with the deliberations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/gabbard-drops-pick-for-top-intelligence-post-a-critic-of-israel-on-gaza/>
+
+---
+
+## ‘Clean elections’ measure dies in House committee
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>A proposed statewide public financing program for political campaigns was once again shot down Wednesday, even as a raft of election reform measures remain alive.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/hawaii-news/clean-elections-measure-dies-in-house-committee/>
+
+---
+
+## Kona man sentenced to 25 years for robbery, escape
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>A 29-year-old Kona man has been sentenced to 25 years in prison for a November 2022 armed robbery and an April 2023 escape from the Hawaii Community Correctional Center.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/hawaii-news/kona-man-sentenced-to-25-years-for-robbery-escape/>
+
+---
+
+## US Education Department to cut half its staff as Trump eyes its elimination
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The U.S. Department of Education said on Tuesday it would lay off nearly half its staff, a possible precursor to closing altogether, as government agencies scrambled to meet President Donald Trump&#8217;s deadline to submit plans for a second round of mass layoffs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/us-education-department-to-cut-half-its-staff-as-trump-eyes-its-elimination/>
+
+---
+
+## Surfer denied bail in domestic violence case
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>A big-wave surfer accused of domestic violence against his girlfriend will remain in jail while he awaits trial.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/hawaii-news/surfer-denied-bail-in-domestic-violence-case/>
+
+---
+
+## EPA cancels climate grants, intensifying battle over $20 billion
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>The Environmental Protection Agency said that it was canceling $20 billion in grants for climate and clean energy programs that have been frozen for weeks, a move that was labeled illegal by nonprofit groups that were supposed to receive the funds.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/epa-cancels-climate-grants-intensifying-battle-over-20-billion/>
+
+---
+
+## Trump moves to unwind over two dozen US air, water regulations
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration announced a wave of regulatory rollbacks on Wednesday including a repeal of Biden-era emissions limits on power plants and automobiles, as well as reduced protections for waterways.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/trump-moves-to-unwind-over-two-dozen-us-air-water-regulations/>
+
+---
+
+## US-backed ceasefire offer poses dilemma for Putin
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; As recently as January, President Vladimir Putin of Russia emphatically rejected the idea of a temporary ceasefire in Ukraine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/us-backed-ceasefire-offer-poses-dilemma-for-putin/>
+
+---
+
+## Senate Democrats balk at funding extension, raising the risk of a shutdown
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate Democratic leader said Wednesday that Democrats would refuse to back a stopgap bill to fund the government through Sept. 30, significantly raising the chances of a government shutdown at the end of the week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/senate-democrats-balk-at-funding-extension-raising-the-risk-of-a-shutdown/>
+
+---
+
+## News in Brief March 13
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>ICE returns 40 migrants to US &#0010;from Guant&#0225;namo</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/news-in-brief-march-13/>
+
+---
+
+## Parts of Los Angeles urged to evacuate as ‘widespread’ rain and snow hit California
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>A potent storm is expected to deliver significant precipitation across California on Wednesday and Today, soaking coastal areas and bringing up to 1 1/2 inches of rain to urban areas including San Francisco and Los Angeles. Several feet of snow is forecast to fall in the Sierra Nevada and cause travel delays.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/parts-of-los-angeles-urged-to-evacuate-as-widespread-rain-and-snow-hit-california/>
+
+---
+
+## SpaceX scrubs astronaut flight that was to retrieve stuck astronauts
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>SpaceX on Wednesday scrubbed the expected launch of a replacement crew of four astronauts to the International Space Station that would have set in motion the long-awaited homecoming of U.S. astronauts Butch Wilmore and Suni Williams, who have been stuck in space for nine months after a trip on Boeing&#8217;s faulty Starliner. NASA had been set to launch a SpaceX rocket from Florida carrying a replacement crew for the International Space Station in a mission that would set up the return to Earth of Wilmore and Williams - stuck in space for nine months after a trip on Boeing&#8217;s faulty Starliner. The launch was called off due to a hydraulic system issue with a ground support clamp arm for the Falcon 9 rocket, NASA said in a statement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/spacex-scrubs-astronaut-flight-that-was-to-retrieve-stuck-astronauts/>
+
+---
+
+## NASA launches new space telescope and suite of solar satellites
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Two NASA missions launched from the California coast and soared toward the stars late Tuesday night, overcoming a week of delays to get to orbit. Both aim to unravel mysteries about the universe &#8212; one by peering far from Earth, the other by looking closer to home.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/nation-world-news/nasa-launches-new-space-telescope-and-suite-of-solar-satellites/>
+
+---
+
+## Three Hawaii Island principals honored
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>The nonprofit Island Insurance Foundation, leaders from the state Department of Education and public officials statewide gathered Saturday to honor the state&#8217;s 15 top public-school principals, each of whom has been nominated for the 19th Masayuki Tokioka Excellence in School Leadership Award.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/community/three-hawaii-island-principals-honored/>
+
+---
+
+## ‘Shake Your Shamrock Dance Party’ on Friday
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo Community Players present a &#8220;Shake Your Shamrock Dance Party&#8221; this Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/community/shake-your-shamrock-dance-party-on-friday/>
+
+---
+
+## Neighborhood Place of Puna opens new Coordination Center
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>Neighborhood Place of Puna has announced the opening of the new drop-in location for its Coordination Center, providing critical support for Hawaii County residents in need of assistance connecting with community resources.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/community/neighborhood-place-of-puna-opens-new-coordination-center/>
+
+---
+
+## ‘Fix a Leak Week’ events set for Hilo, Kona
+
+date: 2025-03-13, from: Hawaii Tribune Harold
+
+
+				<p>The Department of Water Supply, Hawaii County, is celebrating the U.S. Environmental Protection Agency&#8217;s annual &#8220;Fix a Leak Week,&#8221; March 17-21, by helping customers learn how to identify and fix common household water leaks.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/13/community/fix-a-leak-week-events-set-for-hilo-kona/>
+
+---
+
+## Celebrating Women’s Day
+
+date: 2025-03-13, from: Marshal Islands Journal
+
+<p>WILMER JOEL President Hilda Heine called for women across the country to take action in strengthening families and communities during the opening of International Women’s Day in the Jenrok gymnasium last weekend, which featured the formal ceremony, displays from various booths, prizes, games, and other activities. “As we commemorate this important event, let us pledge [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/celebrating-womens-day/">Celebrating Women’s Day</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/celebrating-womens-day/>
+
+---
+
+## CNMI eyes ferry service to link Saipan, Tinian, Rota and Guam 
+
+date: 2025-03-13, from: Pacific Island Times
+
+The Commonwealth Office of Transit Authority has launched a feasibility study for an inter-island passenger ferry service connecting Saipan, 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-eyes-ferry-service-to-link-saipan-tinian-rota-and-guam>
+
+---
+
+## ‘Slim chance of a federal bailout:’ CNMI delegate pushes for 'structural fixes' instead of begging for aid
+
+date: 2025-03-13, from: Pacific Island Times
+
+Instead of a short-term fix like asking the federal government for more money to offset revenue losses from the anemic tourism industry, the 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/slim-chance-of-a-federal-bailout-cnmi-delegate-pushes-for-structural-fixes-instead-of-begging-f>
+
+---
+
+## Rainbow Warrior warmly welcomed
+
+date: 2025-03-13, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The Rongelap community, local government leadership, national RMI government leaders, traditional and religious leaders turned out to provide a warm welcome Tuesday at Uliga Dock for the arrival of Greenpeace’s flagship Rainbow Warrior III. The vessel was greeted by three outrigger canoes from Waan Aelon in Majel as it approached Uliga Dock. Then, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rainbow-warrior-warmly-welcomed/">Rainbow Warrior warmly welcomed</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rainbow-warrior-warmly-welcomed/>
+
+---
+
+## From UH Mānoa to America’s best restaurant: Tim Lee’s journey
+
+date: 2025-03-13, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> M&#257;noa alum Tim Lee’s Broken Mouth was named Yelp’s No. 1 U.S. restaurant, blending Aloha spirit with Korean-<span aria-label="Hawaii">Hawai&#699;i</span> flavors.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/12/uh-alumni-tim-lee/">From <abbr>UH</abbr> Mānoa to America’s best restaurant: Tim Lee’s journey</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/12/uh-alumni-tim-lee/>
+
+---
+
+## Boat found, four still missing
+
+date: 2025-03-12, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON The hull of the missing sea ambulance washed into the Jitoken area of Jaluit Atoll Tuesday this week, following debris from the boat being spotted Monday at Imiej Island. None of the four men on board the boat had been found as of Wednesday this week, 10 days after they departed Majuro. As [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/boat-found-four-still-missing/">Boat found, four still missing</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/boat-found-four-still-missing/>
+
+---
+
+## Sustainability, culture at heart of Shidler alumna’s work
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p>Under her leadership, <abbr>KISCA</abbr> has introduced transformative programs such as tree-planting initiatives where guests can sponsor or plant trees themselves.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/12/sustainability-culture-shidler-alumna-work/">Sustainability, culture at heart of Shidler alumna’s work</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/12/sustainability-culture-shidler-alumna-work/>
+
+---
+
+## Linguistics, library management, Earth sciences, more earn top marks for UH Mānoa
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa was ranked in four broad subject areas and 22 narrow subject areas.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/12/qs-rankings-by-subject-2025/">Linguistics, library management, Earth sciences, more earn top marks for <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/12/qs-rankings-by-subject-2025/>
+
+---
+
+## Image of the Week: ʻŌhiʻa lehua
+
+date: 2025-03-12, from: University of Hawaiʻi News
+
+<p>This week's image is from <abbr>UH</abbr> Mānoa's Samantha Peebles.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/12/image-of-the-week-ohia-lehua/">Image of the Week: ʻŌhiʻa lehua</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/12/image-of-the-week-ohia-lehua/>
+
+---
+
+## Governor proposes tax cuts for Guam’s small businesses, BPT exemption for Medicaid providers
+
+date: 2025-03-12, from: Pacific Island Times
+
+By Mar-Vic Cagurangan (This story has been updated to include Sen. Vincent Borja's bill responding to the governor's tax cut proposal.)... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/governor-proposes-tax-cuts-for-guam-s-small-businesses-bpt-exemption-for-medicaid-providers>
+
+---
+
+## Governor warns federal cuts put Guam's national security role on the line
+
+date: 2025-03-12, from: Pacific Island Times
+
+“If federal funds are cut significantly, we will face one of the toughest budget sessions in our history,” Leon Guerrero told the 38th Guam  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/governor-says-federal-cuts-put-guam-s-role-in-national-security-on-the-line>
+
+---
+
+## Full transcript of Gov. Lou Leon Guerrero's 2025 State of the Island address
 
 date: 2025-03-12, from: Pacific Island Times
 

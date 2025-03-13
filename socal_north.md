@@ -1,11 +1,337 @@
 ---
 title: socal north
-updated: 2025-03-12 07:08:33
+updated: 2025-03-13 06:11:29
 ---
 
 # socal north
 
-(date: 2025-03-12 07:08:33)
+(date: 2025-03-13 06:11:29)
+
+---
+
+## Evacuation orders remain as SoCal storm starts moving out
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+A flood watch has been issued for much of Southern California and will remain in place through Thursday afternoon. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/march-storm-mudslide-snow-effects>
+
+---
+
+## How AI became a Hollywood villain, especially for animators
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+Lots of people in Hollywood are using AI, especially in animation. They're just reluctant to talk about it. 
+
+<br> 
+
+<https://laist.com/news/ai-hollywood-animation-filmmaking>
+
+---
+
+## Black educators continue to push for student success: ‘We’re not ignoring anyone'
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+Educators are working through how to improve outcomes for Black students as the federal government seeks to eliminate diversity, equity and inclusion programs. 
+
+<br> 
+
+<https://laist.com/news/education/black-educators-african-american-student-outcomes-advocacy-los-angeles-2025>
+
+---
+
+## Ramadan nightlife options in SoCal are on the rise. Here’s what you can expect
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+Suhoor parties, Egyptian TV shows galore, late night Qiyam prayers and Yemeni coffee have become integral parts of the Islamic holy month. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/nightlife-muslims-fasting-ramadan-socal>
+
+---
+
+## Torrance native TOKiMONSTA's new album is a 'love letter' to close friend Regina Biondo
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+TOKiMONSTA has had her share of life challenges, including being unable to speak or comprehend music, and the death of a friend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/tokimonsta-new-album-love-letter-to-close-friend-regina-biondo>
+
+---
+
+## Los Residentes de Granada Hills se Sienten ‘Traicionados’ mientras Sunshine Canyon Acepta los Escombros del Incendio
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03122025_Sunshine-Canyon-Landfill_SN_03-1-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cuando Meg Volk y su esposo Ron se mudaron a Granada Hills con su hijo pequeño en 1991, el vertedero de Sunshine Canyon en Sylmar había sido cerrado recientemente. En [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/los-residentes-de-granada-hills-se-sienten-traicionados-mientras-sunshine-canyon-acepta-los-escombros-del-incendio/">Los Residentes de Granada Hills se Sienten ‘Traicionados’ mientras Sunshine Canyon Acepta los Escombros del Incendio</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/los-residentes-de-granada-hills-se-sienten-traicionados-mientras-sunshine-canyon-acepta-los-escombros-del-incendio/>
+
+---
+
+## Barger Pide una Actualización de Salud Relacionada con el Vertedero de Chiquita Canyon
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ÁNGELES (CNS) &#8211; Preocupada por el posible riesgo de cáncer y otros impactos causados por el problemático vertedero de Chiquita Canyon, la presidenta de la Junta de Supervisores del [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/barger-pide-una-actualizacion-de-salud-relacionada-con-el-vertedero-de-chiquita-canyon/">Barger Pide una Actualización de Salud Relacionada con el Vertedero de Chiquita Canyon</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/barger-pide-una-actualizacion-de-salud-relacionada-con-el-vertedero-de-chiquita-canyon/>
+
+---
+
+## Horóscopo de 13 de marzo, 2025
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) El tiempo tiene una forma de sacar la verdad a la luz, especialmente cuando se trata de cómo [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/horoscopo-de-13-de-marzo-2025/">Horóscopo de 13 de marzo, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/horoscopo-de-13-de-marzo-2025/>
+
+---
+
+## EVENTOS Locales – Semana de 13 de marzo, 2025
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Marzo 14 Plumas Y Monturas Sepulveda Basin Wildlife Reserve 6350 Woodley Ave. Van Nuys 6:30 p.m. – 9:30 p.m. Únase a otros entusiastas de las aves y fotógrafos para [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/eventos-locales-semana-de-13-de-marzo-2025/">EVENTOS Locales &#8211; Semana de 13 de marzo, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/eventos-locales-semana-de-13-de-marzo-2025/>
+
+---
+
+## Las Mujeres de Los Ángeles Defienden la Democracia en Protesta Contra Donald Trump y Elon Musk
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=300%2C226&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=1024%2C771&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=768%2C578&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=1536%2C1157&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=2048%2C1542&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=400%2C301&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=1200%2C904&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=1568%2C1181&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=2000%2C1506&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?resize=706%2C532&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250308_204659581-scaled.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Desde los derechos reproductivos de las mujeres hasta el actual estado incierto de la democracia de la nación y la pérdida de conquistas fueron los temas centrales en la mente [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/las-mujeres-de-los-angeles-defienden-la-democracia-en-protesta-contra-donald-trump-y-elon-musk/">Las Mujeres de Los Ángeles Defienden la Democracia en Protesta Contra Donald Trump y Elon Musk</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/las-mujeres-de-los-angeles-defienden-la-democracia-en-protesta-contra-donald-trump-y-elon-musk/>
+
+---
+
+## La Lucha por la Igualdad Continúa para la Madre y la Hija de Van Nuys
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=2048%2C1365&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=2000%2C1333&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/03082025_Women_s-March_SN_24_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>De pie frente al Ayuntamiento de Los Ángeles en el Día Internacional de la Mujer en medio de una multitud de miles de personas, Frances Sandoval, de Van Nuys, sostenía [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/la-lucha-por-la-igualdad-continua-para-la-madre-y-la-hija-de-van-nuys/">La Lucha por la Igualdad Continúa para la Madre y la Hija de Van Nuys</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/la-lucha-por-la-igualdad-continua-para-la-madre-y-la-hija-de-van-nuys/>
+
+---
+
+## Cientos de Personas asisten a la Juramentación Comunitaria de la Congresista Luz Rivas en LAMC
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="725" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?fit=1024%2C725&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?w=1626&amp;ssl=1 1626w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?resize=300%2C213&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?resize=1024%2C725&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?resize=768%2C544&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?resize=1536%2C1088&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?resize=1200%2C850&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?resize=1568%2C1111&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?resize=400%2C283&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?resize=706%2C500&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Luz-Rivas-01-scaled-e1741833037230.jpg?fit=1024%2C725&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cientos de colegas, electores y seres queridos celebraron el último logro de la congresista Luz Rivas, ex residente de Pacoima, durante su ceremonia de juramentación comunitaria en Los Angeles Mission [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/cientos-de-personas-asisten-a-la-juramentacion-comunitaria-de-la-congresista-luz-rivas-en-lamc/">Cientos de Personas asisten a la Juramentación Comunitaria de la Congresista Luz Rivas en LAMC</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/cientos-de-personas-asisten-a-la-juramentacion-comunitaria-de-la-congresista-luz-rivas-en-lamc/>
+
+---
+
+## En 2025 se Reportaron Dos Muertes Relacionadas con el Sarampión, las Primeras del País en 10 Años
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?w=1584&amp;ssl=1 1584w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/AP25063004203660_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Un residente de Los Ángeles que viajó recientemente a través del Aeropuerto Internacional de Los Ángeles fue identificado como el primer caso confirmado de sarampión en el condado en 2025, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/en-2025-se-reportaron-dos-muertes-relacionadas-con-el-sarampion-las-primeras-del-pais-en-10-anos/">En 2025 se Reportaron Dos Muertes Relacionadas con el Sarampión, las Primeras del País en 10 Años</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/en-2025-se-reportaron-dos-muertes-relacionadas-con-el-sarampion-las-primeras-del-pais-en-10-anos/>
+
+---
+
+## EPA announces dozens of environmental regulations it plans to target
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+The Environmental Protection Agency didn't provide details about what it wants to do with the regulations — whether it will try to weaken them or eliminate them entirely. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/epa-announces-dozens-of-environmental-regulations-it-plans-to-target>
+
+---
+
+## Adolescente de Sylmar Realiza un Concierto Benéfico para Recaudar Fondos para las Víctimas de los Incendios Forestales de Los Ángeles
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="604" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?fit=1024%2C604&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?w=2048&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=300%2C177&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=1024%2C604&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=768%2C453&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=1536%2C906&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=1200%2C708&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=1568%2C925&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=2000%2C1180&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=400%2C236&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?resize=706%2C416&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG-20250310-WA0006-e1741832693337.jpg?fit=1024%2C604&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cuando el incendio de Hurst en Sylmar estaba causando estragos en enero, Joel Alonso, de 16 años, sintió momentos de puro pánico e incertidumbre mientras las llamas se acercaban peligrosamente [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/adolescente-de-sylmar-realiza-un-concierto-benefico-para-recaudar-fondos-para-las-victimas-de-los-incendios-forestales-de-los-angeles/">Adolescente de Sylmar Realiza un Concierto Benéfico para Recaudar Fondos para las Víctimas de los Incendios Forestales de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/adolescente-de-sylmar-realiza-un-concierto-benefico-para-recaudar-fondos-para-las-victimas-de-los-incendios-forestales-de-los-angeles/>
+
+---
+
+## Trump is trying to remake the presidency. Here's why
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+The Trump administration has shuttered, fired or targeted for resignation individuals, offices and agencies that could serve as a check on President Trump. Supporters say that is exactly the point. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-is-trying-to-remake-the-presidency-heres-why>
+
+---
+
+## Judge blocks Trump from enforcing 'chilling' order against law firm
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+While Trump's executive order takes aim at Perkins Coie, the judge said it "casts a chilling harm of blizzard proportion across the entire legal profession." 
+
+<br> 
+
+<https://laist.com/news/judge-blocks-trump-from-enforcing-chilling-order-against-law-firm>
+
+---
+
+## Barger Calls for Health Update Related to Chiquita Canyon Landfill
+
+date: 2025-03-13, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>LOS ANGELES (CNS) &#8211; Concerned with possible cancer-risk and other impacts caused by the troubled Chiquita Canyon Landfill, Los Angeles County Supervisor Board Chair Kathryn Barger called for an update [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/12/barger-calls-for-health-update-related-to-chiquita-canyon-landfill/">Barger Calls for Health Update Related to Chiquita Canyon Landfill</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/12/barger-calls-for-health-update-related-to-chiquita-canyon-landfill/>
+
+---
+
+## California is Calling – Become a First Responder, Teacher and Leader through Service
+
+date: 2025-03-12, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/california-is-calling-become-a-first-responder-teacher-and-leader-through-service/>
+
+---
+
+## LA County offers mental health help after firestorms
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+The county mental health department connects people with therapists, support groups and other services. 
+
+<br> 
+
+<https://laist.com/news/health/la-county-offers-mental-health-help-after-firestorms>
+
+---
+
+## California te necesita: ¡conviértete en socorrista, maestro y líder a través del servicio!
+
+date: 2025-03-12, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/california-te-necesita-conviertete-en-socorrista-maestro-y-lider-a-traves-del-servicio/>
+
+---
+
+## What parents, teachers and school choice groups think of Education Department cuts
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+Teacher unions and some parent groups condemned the cuts, while school choice advocates celebrated them. 
+
+<br> 
+
+<https://laist.com/news/education/what-parents-teachers-school-choice-groups-think-of-education-department-cuts>
+
+---
+
+## The Salton Sea is California’s most imperiled lake. Can a new conservancy save it?
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+A new conservancy will oversee work to improve vegetation, water quality and natural habitat in the Salton Sea. Will nearly half a billion dollars be enough? 
+
+<br> 
+
+<https://laist.com/news/climate-environment/salton-sea-californias-most-imperiled-lake-can-a-new-conservancy-save-it>
+
+---
+
+## Michelin adds 7 LA eateries to its guide
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+These LA-area restaurants could also receive a Bib Gourmand affordable dining award or even a star at the awards event in August. 
+
+<br> 
+
+<https://laist.com/news/food/michelin-adds-seven-la-eateries-to-its-guide>
+
+---
+
+## Altadena park reopening in May with support from Dodgers, Clippers and Fire Aid concert
+
+date: 2025-03-12, updated: 2025-03-12, from: The LAist
+
+Loma Alta Park will be back bigger and better than ever, officials say. Volunteers can help refurbish the park so Altadena Little Leaguers can play there again in May. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/altadena-park-reopening-in-may-with-support-from-dodgers-clippers-and-fire-aid-concert>
 
 ---
 
@@ -357,9 +683,9 @@ date: 2025-03-10, updated: 2025-03-10, from: The LAist
 
 ---
 
-## Best things to do this week in LA and SoCal: March 10 - 13
+## Best things to do this week in LA and SoCal
 
-date: 2025-03-10, updated: 2025-03-10, from: The LAist
+date: 2025-03-10, updated: 2025-03-13, from: The LAist
 
 The Weathered premiere at the Crawford, a Jonathan Lethem exhibit in Pomona, hamentaschen for Purim, a Lady Gaga dance night and more of the best things to do this week. 
 

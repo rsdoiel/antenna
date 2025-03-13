@@ -1,11 +1,395 @@
 ---
 title: science and technology
-updated: 2025-03-12 07:08:35
+updated: 2025-03-13 06:11:30
 ---
 
 # science and technology
 
-(date: 2025-03-12 07:08:35)
+(date: 2025-03-13 06:11:30)
+
+---
+
+## ESA cuts the ribbon on 34,000-core Space HPC center tailored for space workloads
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>It’s called &#39;SpaceHPC&#39; and it heats the building it lives in</h4> <p>The European Space Agency this week inaugurated its new supercomputing facility built with HPE.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/esa_space_hpc_center_inaugurated/>
+
+---
+
+## Frack to the future? Geothermal energy pitched as datacenter savior
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>If operators are willing to cough up a &#39;green premium&#39; and tax credits are not repealed</h4> <p>An independent research body claims that geothermal power generation could provide an answer to the growing energy requirements of datacenters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/geothermal_datacenters/>
+
+---
+
+## GCC 15 is close: COBOL and Itanium are in, but ALGOL is out
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Steering Committee decides against merge of over-complex and largely unloved ALGOL-68 &#39;at this point&#39;</h4> <p>Version 15 of the GNU Compiler Collection is getting close to release, and as it does, some changes are not going to make it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/gcc_15_is_close/>
+
+---
+
+## City council rejects inquiry into £130M Oracle IT disaster
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Opposition faults leadership as officers accused of misleading councillors</h4> <p>Birmingham City Council voted down proposals to hold a full independent inquiry into its disastrous introduction of an Oracle ERP system, which &#34;effectively crippled&#34; its ability to manage and report on its finances.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/birmingham_oracle_inquiry/>
+
+---
+
+## Android 16 may get a built-in Linux terminal
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>New feature on Google Pixel phones hints at a ChromeOS-like VM</h4> <p>The March &#34;feature drop&#34; for Android 15 on Google Pixel devices includes an optional Linux session.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/android_16_linux_term/>
+
+---
+
+## Nextcloud puts out fire after data leak panic
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Community calls for off-by-default data sharing setting</h4> <p>Open source software biz Nextcloud issued fixes to its software this week after bug hunters raised concerns about data collection.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/nextcloud_data_leak_scare/>
+
+---
+
+## Medusa ransomware affiliate tried triple extortion scam – up from the usual double demand
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Feds warn gang still rampant and now cracked 300+ victims around the world</h4> <p>A crook who distributes the Medusa ransomware tried to make a victim cough up three payments instead of the usual two, according to a government advisory on how to defend against the malware and the gangs who wield it.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/medusa_ransomware_infects_300_critical/>
+
+---
+
+## AI models hallucinate, and doctors are OK with that
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Eggheads call for comprehensive rules to govern machine learning in medical settings</h4> <p>The tendency of AI models to hallucinate – aka confidently making stuff up – isn&#39;t sufficient to disqualify them from use in healthcare settings. So, researchers have set out to enumerate the risks and formulate a plan to do no harm while still allowing medical professionals to consult with unreliable software assistants.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/ai_models_hallucinate_and_doctors/>
+
+---
+
+## As Chromecast outage drags on, fix could be days to weeks away
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Google apologizes but won’t say what went wrong nor when it will make things right</h4> <p>Older models of Google’s Chromecast media-streaming sticks remain broken, and independent research suggests a fix could take potentially weeks to materialize.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/chromecast_gen_2_outage_continues/>
+
+---
+
+## Need cash? Your IPv4 stash can now be collateral for $100M loans
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Yeah, yeah ... if we were all exclusively on IPv6, this wouldn&#39;t be a thing. But here we are</h4> <p>IP address marketplace IPv4.Global has started offering loans on terms that consider public IPv4 network addresses as valid collateral.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/ipv4_loan_collateral/>
+
+---
+
+## Get off that old Firefox by Friday or you'll be sorry, says Moz
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Root cert expiry may bring breakage or worse for add-ons, media playback, and more</h4> <p>If you&#39;re running an outdated version of Firefox, update by Friday or risk broken add-ons, failing DRM-protected media playback, and other errors, due to an expiring root certificate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/mozilla_certificate_update/>
+
+---
+
+## Iconography of the PuTTY tools
+
+date: 2025-03-13, from: OS News
+
+Ah, PuTTY. Good old reliable PuTTY. This little tool is one of those cornerstone applications in the toolbox of most of us, without any fuss, without any upsells or anti-user nonsense &#8211; it just does its job, and it has been doing its job for 30 years. Have you ever wondered, though, where PuTTY&#8217;s icons come from, how they were made, and how they evolved over time? PuTTY’s icon designs date from the late 1990s and early 2000s. They’ve never had a major stylistic redesign, but over the years, the icons have had to be re-rendered under various constraints, which made for a technical challenge as well. ↫ Simon Tatham The icons have basically not changed since the late &#8217;90s, and I think that&#8217;s incredibly fitting for the kind of tool PuTTY is. It turns out people actually offer to redesign all the icons in a modern style, but that&#8217;s not going to happen. People sometimes object to the entire 1990s styling, and volunteer to design us a complete set of replacements in a different style. We’ve never liked any of them enough to adopt them. I think that’s probably because the 1990s styling is part of what makes PuTTY what it is – “reassuringly old-fashioned”. I don’t know if there’s any major redesign that we’d really be on board with. ↫ Simon Tatham Amen. 
+
+<br> 
+
+<https://www.osnews.com/story/141910/iconography-of-the-putty-tools/>
+
+---
+
+## Ubuntu to replace classic coreutils and more with new Rust-based alternatives
+
+date: 2025-03-12, from: OS News
+
+After so much terrible tech politics news, let&#8217;s focus on some nice, easy-going Linux news that&#8217;s not going to be controversial at all: Ubuntu intends to replace numerous core Linux utilities with newer Rust replacements, starting with the ubiquitous GNU Coreutils. This package provides utilities which have become synonymous with Linux to many &#8211; the likes of ls, cp, and mv. In recent years, there has been an effort to reimplement this suite of tools in Rust, with the goal of reaching 100% compatibility with the existing tools. Similar projects, like sudo-rs, aim to replace key security-critical utilities with more modern, memory-safe alternatives. Starting with Ubuntu 25.10, my goal is to adopt some of these modern implementations as the default. My immediate goal is to make uutils’ coreutils implementation the default in Ubuntu 25.10, and subsequently in our next Long Term Support (LTS) release, Ubuntu 26.04 LTS, if the conditions are right. ↫ Jon Seager Obviously, this is a massive change for Ubuntu, and while performance is one of the cited reasons for undertaking this effort, the biggest reason is, of course, security. To aid in the testing effort, Seager created a tool called oxidizr, with which you can swap between the classic versions and the new Rust versions of various tools to try them out in a non-destructive way. This is a massive vote of confidence in uutils, and I&#8217;m curious to see if it works out for Ubuntu. I doubt it&#8217;s going to take long before other prominent distributions follow suit. 
+
+<br> 
+
+<https://www.osnews.com/story/141908/ubuntu-to-replace-classic-coreutils-and-more-with-new-rust-based-alternatives/>
+
+---
+
+## Chimera Linux drops RISC-V support because capable RISC-V hardware doesn’t exist
+
+date: 2025-03-12, from: OS News
+
+We&#8217;ve talked about Chimera Linux a few times now on OSNews, so I won&#8217;t be repeating what makes it unique once more. The project announced today that it will be shuttering its RISC-V architecture support, and considering RISC-V has been supported by Chimera Linux pretty much since the beginning, this is a big step. The reason is as sad as it is predictable: there&#8217;s simply no RISC-V hardware out there fit for the purpose of building a Linux distribution and all of its packages. Up until this point, Chimera Linux built its RISC-V variant &#8220;on an x86_64 machine with qemu-user binfmt emulation coupled with transparent cbuild support&#8221;. There are various problems with this setup, like serious reliability problems, not being able to test packages, and a lack of performance. The setup was intended to be a temporary solution until proper, performanct RISC-V hardware became available, but this simply hasn&#8217;t happened, and it doesn&#8217;t seem like this is going to change soon. Most of the existing RISC-V hardware options simply lack the performance to be used as build machines (think Raspberry Pi 3/4 levels of performance), making them even slower than the emulation setup they&#8217;re currently using. The only machine that in theory would be performant enough to serve as a build machine is the Milk-V Pioneer, but this machine has serious other problems, as the project notes: Milk-V Pioneer is a board with 64 out-of-order cores; it is the only of its kind, with the cores being supposedly similar to something like ARM Cortex-A72. This would be enough in theory, however these boards are hard to get here (especially with Sophgon having some trouble, new US sanctions, and Mouser pulling all the Milk-V products) and from the information that is available to me, it is rather unstable, receives very little support, and is ridden with various hardware problems. ↫ Chimera Linux website So, not only is the Milk-V Pioneer difficult to get due to, among other things, US sanctions, it&#8217;s also not very stable and receives very little support. Aside from the Pioneer and the various slow and therefore unsuitable options, there&#8217;s nothing else in the pipeline either for performant RISC-V hardware, making it quite difficult to support the architecture. Of course, this could always change in the future, but for now, supporting RISC-V is clearly not an option for Chimera Linux. This is clearly sad news, especially for those of us hoping RISC-V becomes an open source hardware platform that we can use every day, and I wonder how many other projects are dealing with the same problem. 
+
+<br> 
+
+<https://www.osnews.com/story/141906/chimera-linux-drops-risc-v-support-because-capable-risc-v-hardware-doesnt-exist/>
+
+---
+
+## El X-59 de la NASA completa las pruebas electromagnéticas
+
+date: 2025-03-12, from: NASA breaking news
+
+Read this story in English&#160;here. El silencioso avión supersónico de investigación X-59 de la NASA ha superado las pruebas electromagnéticas, confirmando que sus sistemas funcionarán juntos de forma segura y sin interferencias a través de diferentes escenarios.&#160; “Alcanzar esta fase demuestra que la integración de la aeronave está avanzando,” dijo Yohan Lin, jefe de aviónica [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/es/el-x-59-de-la-nasa-completa-las-pruebas-electromagneticas/>
+
+---
+
+## Mozilla pleads with Uncle Sam to not turn off that sweet, sweet Google search money
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>Firefox maker: Looming antitrust inferno could burn us, too</h4> <p>Mozilla, which in 2023 received about 75 percent of its revenue from royalties paid by Google and other search providers for search engine usage in Firefox, worries that the US Justice Department&#39;s proposed ban on the very same Google Search payments would be rather harmful.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/mozilla_doj_google_search_payments/>
+
+---
+
+## As Elon Musk makes thousands of federal workers jobless, tycoon pushes for $56B Tesla pay deal
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>Not so much thrown under a bus as under an unwanted electric car</h4> <p>Elon Musk is trying yet again to get his $56 billion Tesla pay package reinstated with a fresh appeal to the Delaware Supreme Court. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/elon_musk_appeals_voided_pay_package/>
+
+---
+
+## ‘I feel utter anger’: from Canada to Europe, a movement to boycott US goods is spreading
+
+date: 2025-03-12, from: OS News
+
+In Canada, where the American national anthem has been booed during hockey matches with US teams, a slew of apps has emerged with names such as “buy beaver”, “maple scan” and “is this Canadian” to allow shoppers to scan QR barcodes and reject US produce from alcohol to pizza toppings.  In Sweden, more than 70,000 users have joined a Facebook group calling for a boycott of US companies – ironically including Facebook itself – which features alternatives to US consumer products.  In Denmark, where there has been widespread anger over Trump’s threat to bring the autonomous territory of Greenland under US control, the largest grocery company, the Salling group, has said it will tag European-made goods with a black star to allow consumers to choose them over products made in the US. ↫ Peter Beaumont at the Guardian These are just a few of the examples of a growing interest in places like Canada and Europe to boycott American products to the best of one&#8217;s ability. It&#8217;s impossible to boycott everything coming from a certain country &#8211; good luck finding a computer without American software and/or hardware, for instance &#8211; but these small acts of disapproval and resistance allow people to vent their anger. It&#8217;s clearly already having an effect on Tesla, whose sales have completely collapsed in Europe, so much so that the president of the United States has to do his best Billy Mays impression in front of the White House to help his buddy sell cars. Very classy. With the United States threatening war on Canada, Greenland and Denmark, and Panama, it&#8217;s only natural for citizens of those countries, as well as those of close friends of those countries, to want do something, and being more mindful or what you spend your money on is a tried and true way to do that. Technology can definitely help here, as we&#8217;ve talked about before, and as shown in the linked article. While no tool to determine place of origin of products will ever be perfect, it can certainly help to avoid products you don&#8217;t want to buy. I can only hope this doesn&#8217;t get even more out of hand than it already has. The United States started a trade war with the European Union today as well, and of course, the EU retaliated. I doubt the average person has any clue just how intertwined the global economy and supply chains are, and that the only people paying for this are people like you and I. The tech billionaires and career politicians won&#8217;t be the ones screwed over by surging prices of basic necessities because of tariffs, and it won&#8217;t be the children of the rich and powerful being sent to war with Canada or Panama or whatever. The very companies that OSNews has reported on for almost 30 years are the ones pushing and enabling most of this vile nonsense, so yes, you will be seeing items about this here, whether you and I like it or not. Only cowards and the privileged have the luxury of ignoring what the United States is doing right now. 
+
+<br> 
+
+<https://www.osnews.com/story/141904/i-feel-utter-anger-from-canada-to-europe-a-movement-to-boycott-us-goods-is-spreading/>
+
+---
+
+## Intel's new CEO: Chip world veteran Lip-Bu Tan
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>Restoring x86 giant to its former glory, a job no one will envy</h4> <p>Intel has tapped former Cadence CEO and Intel board member Lip-Bu Tan to lead the embattled x86 chipmaker as it struggles to overcome mounting losses stemming from its foundry business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/intel_lip_bu_tan_new_ceo/>
+
+---
+
+## iRobot may be iDead in iYear
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>We&#39;re doomba, say Roomba goombas, unless...</h4> <p>Troubled robot vacuum-cleaner maker iRobot, abandoned by Amazon after regulators effectively doomed the web giant&#39;s takeover offer, has warned investors it may not survive the next 12 months.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/roomba_maker_irobot_unlikely_survive/>
+
+---
+
+## Nvidia won the AI training race, but inference is still anyone's game
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>When it&#39;s all abstracted by an API endpoint, do you even care what&#39;s behind the curtain?</h4> <p><strong>Comment</strong>  With the exception of custom cloud silicon, like Google&#39;s TPUs or Amazon&#39;s Trainium ASICs, the vast majority of AI training clusters being built today are powered by Nvidia GPUs. But while Nvidia may have won the AI training battle, the inference fight is far from decided.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/training_inference_shift/>
+
+---
+
+## NASA’s Record-Shattering, Theory-Breaking MMS Mission Turns 10
+
+date: 2025-03-12, from: NASA breaking news
+
+Since its launch on March 12, 2015, NASA’s MMS, or Magnetospheric Multiscale, mission has been rewriting our understanding of a key physical process that is important across the universe, from black holes to the Sun to Earth’s protective magnetic field. This process, called magnetic reconnection, occurs when magnetic field lines tangle and explosively realign, flinging […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/mms-mission-turns-10/>
+
+---
+
+## Printers start speaking in tongues after Windows 11 update
+
+date: 2025-03-12, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Who still uses a printer anyway? Oh ... quite a lot of you, it seems</h4> <p>Has your printer suddenly started spouting gibberish? A faulty Windows 11 23H2 update from Microsoft - rather than a ghost in the machine - could be the cause.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/printer_bug_windows_11/>
+
+---
+
+## NASA-ISRO Mission Will Map Farmland From Planting to Harvest
+
+date: 2025-03-12, from: NASA breaking news
+
+Data from the NISAR satellite will be used to map crop growth, track plant health, and monitor soil moisture — offering detailed, timely information for decision making. When it launches this year, the NISAR (NASA-ISRO Synthetic Aperture Radar) satellite will provide a powerful data stream that could help farmers in the U.S. and around the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/nisar/nasa-isro-mission-will-map-farmland-from-planting-to-harvest/>
+
+---
+
+## Sols 4477-4478:  Bumping Back to Business
+
+date: 2025-03-12, from: NASA breaking news
+
+Written by Sharon Wilson Purdy, Planetary Geologist at the Smithsonian National Air and Space Museum Earth planning date: Monday, March 10, 2025 The Curiosity rover is winding between the spectacular Gould mesa and Texoli butte through beautifully layered terrain. The end-of-drive target from last week’s plan was a rock with a knobby/bumpy texture that appears […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4477-4478-bumping-back-to-business/>
+
+---
+
+## Amazon, Meta, Google sign pledge to triple nuclear power capacity by 2050
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>AI doesn&#39;t run on fairy dust after all</h4> <p>A group of large-scale energy users including Amazon, Meta, and Google has thrown its weight behind efforts to ramp up global nuclear capacity – aiming to triple it by 2050 – to meet increasing energy demands.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/push_for_nuclear/>
+
+---
+
+## NASA Invites Media to Annual FIRST Robotics Rocket City Competition
+
+date: 2025-03-12, from: NASA breaking news
+
+The Rocket City Regional – Alabama’s annual For Inspiration and Recognition of Science and Technology (FIRST) Robotics Regional Competition – is scheduled for Friday, March 14, through Saturday, March 15, at the Von Braun Center South Hall in Huntsville, Alabama.&#160; FIRST Robotics is a global robotics competition for students in grades 9-12. Teams are challenged [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-annual-first-robotics-rocket-city-competition/>
+
+---
+
+## DOGE helps Veterans Affairs end IT contract run by service-disabled entrepreneurs
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>Project dubbed &#39;wasteful&#39; – Musk&#39;s lot says under-pressure VA must do it &#39;in-house&#39;</h4> <p>Elon Musk&#39;s newly minted US Department of Government Efficiency claims to have helped the Department of Veterans Affairs end a technology contract run by service-disabled veterans.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/doge_veterans_affairs_contract/>
+
+---
+
+## Sun Rises on Crew-10 at Launch Pad
+
+date: 2025-03-12, from: NASA breaking news
+
+A SpaceX Falcon 9 rocket with the company’s Dragon spacecraft on top is seen during sunrise on the launch pad at NASA’s Kennedy Space Center in Florida on Tuesday, March 11, 2025, ahead of the agency’s SpaceX Crew-10 launch. NASA astronauts Anne McClain, Nichole Ayers, JAXA (Japan Aerospace Exploration Agency) astronaut Takuya Onishi, and Roscosmos cosmonaut Kirill Peskov [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/sun-rises-on-crew-10-at-launch-pad/>
+
+---
+
+## OpenInfra has only gone and joined the Linux Foundation
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>Artist formerly known as OpenStack to huddle under same umbrella as the Cloud Native Computing Foundation</h4> <p>The votes are in, confirming that the Open Infrastructure Foundation intends to join the Linux Foundation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/openinfra_joins_the_linux_foundation/>
+
+---
+
+## The Road Map to Alien Life Passes Through the ‘Cosmic Shoreline’
+
+date: 2025-03-12, from: Quanta Magazine
+
+Astronomers are ready to search for the fingerprints of life in faraway planetary atmospheres. But first, they need to know where to look — and that means figuring out which planets are likely to have atmospheres in the first place.            <p>The post <a href="https://www.quantamagazine.org/the-road-map-to-alien-life-passes-through-the-cosmic-shoreline-20250312/" target="_blank">The Road Map to Alien Life Passes Through the ‘Cosmic Shoreline’</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-road-map-to-alien-life-passes-through-the-cosmic-shoreline-20250312/>
+
+---
+
+## Expired Juniper routers find new life – as Chinese spy hubs
+
+date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+
+<h4>Fewer than 10 known victims, but Mandiant suspects others compromised, too</h4> <p>Chinese spies have for months exploited old Juniper Networks routers, infecting the buggy gear with custom backdoors and gaining root access to the compromised devices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/12/china_spy_juniper_routers/>
 
 ---
 
@@ -95,7 +479,7 @@ date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
 
 ## Free95 claims to be a GPL 3 Windows clone, but it's giving vaporware vibes
 
-date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+date: 2025-03-12, updated: 2025-03-13, from: The Register (UK I.T. News)
 
 <h4>Don&#39;t, <em>don&#39;t,</em> <strong>DON&#39;T</strong> believe the hype</h4> <p>The developer of Free95 says it will be a free Windows 95-compatible OS, but we suspect an elaborate prank. At best, maybe an unknowing one.…</p> 
 
@@ -141,11 +525,11 @@ date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
 
 ---
 
-## Microsoft quantum breakthrough claims labelled 'unreliable' and 'essentially fraudulent'
+## Microsoft quantum breakthrough claims labeled 'unreliable' and 'essentially fraudulent'
 
-date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+date: 2025-03-12, updated: 2025-03-13, from: The Register (UK I.T. News)
 
-<h4>Redmond insists it&#39;s got this right and has even more impressive results to share soon</h4> <p>Microsoft&#39;s claim of having made quantum computing breakthroughs has attracted strong criticism from scientists, but the software giant says it’s work is sound – and it will soon reveal data that proves it.…</p> 
+<h4>Redmond insists it&#39;s got this right and has even more impressive results to share soon</h4> <p><strong>Updated</strong>  Microsoft&#39;s claim of a quantum computing breakthrough has attracted strong criticism from scientists, though the software giant says its work is sound – and it will soon reveal data that proves it.…</p> 
 
 <br> 
 
@@ -177,11 +561,11 @@ NASA’s newest astrophysics observatory, SPHEREx, is on its way to study the or
 
 ---
 
-## CISA worker says 100-strong red team fired after DOGE cancelled contract
+## CISA pen-tester says 100-strong red team binned after DOGE canceled contract
 
-date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+date: 2025-03-12, updated: 2025-03-13, from: The Register (UK I.T. News)
 
-<h4>Election infosec advisory agency also shuttered</h4> <p>A penetration tester who worked at the US govt&#39;s CISA claims his 100-strong team was dismissed after Elon Musk&#39;s Trump-blessed DOGE unit cancelled a contract – and that more staff at the cybersecurity agency have also been let go.…</p> 
+<h4>Election infosec advisory center also shuttered</h4> <p><strong>Updated</strong>  A penetration tester who worked at the US govt&#39;s CISA claims his 100-strong team was effectively dismissed after Elon Musk&#39;s Trump-blessed DOGE unit cancelled a contract – and that more folks have also been put out of work by the cybersecurity agency.…</p> 
 
 <br> 
 

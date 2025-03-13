@@ -1,11 +1,227 @@
 ---
 title: columns
-updated: 2025-03-12 07:08:36
+updated: 2025-03-13 06:11:31
 ---
 
 # columns
 
-(date: 2025-03-12 07:08:36)
+(date: 2025-03-13 06:11:31)
+
+---
+
+## GCC 15 is close: COBOL and Itanium are in, but ALGOL is out
+
+date: 2025-03-13, updated: 2025-03-13, from: Liam Proven's articles at the Register
+
+<h4>Steering Committee decides against merge of over-complex and largely unloved ALGOL-68 &#39;at this point&#39;</h4>
+      <p>Version 15 of the GNU Compiler Collection is getting close to release, and as it does, some changes are not going to make it.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/13/gcc_15_is_close/>
+
+---
+
+## Android 16 may get a built-in Linux terminal
+
+date: 2025-03-13, updated: 2025-03-13, from: Liam Proven's articles at the Register
+
+<h4>New feature on Google Pixel phones hints at a ChromeOS-like VM</h4>
+      <p>The March &#34;feature drop&#34; for Android 15 on Google Pixel devices includes an optional Linux session.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/13/android_16_linux_term/>
+
+---
+
+## Why we need a new free speech movement
+
+date: 2025-03-13, from: Robert Reich's blog
+
+And why universities should sue the Trump regime for abridging the First Amendment rights of their institutions and their students 
+
+<br> 
+
+<https://robertreich.substack.com/p/we-need-a-new-free-speech-movement>
+
+---
+
+## March 12, 2025 
+
+date: 2025-03-13, from: Heather Cox Richardson blog
+
+Trump&#8217;s 25% tariffs on all aluminum and steel imported into the U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-12-2025>
+
+---
+
+## ★ Something Is Rotten in the State of Cupertino
+
+date: 2025-03-12, updated: 2025-03-13, from: Daring Fireball
+
+Who decided these personalized Siri features should go in the WWDC keynote, with a promise they’d arrive in the coming year, when, at the time, they were in such an unfinished state they could not be demoed to the media even in a controlled environment? Three months later, who decided Apple should double down and advertise these features in a TV commercial, and promote them as a selling point of the iPhone 16 lineup? 
+
+<br> 
+
+<https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-12, from: Dave Winer's Scripting News)
+
+<a class="anchorRightMargin" href="https://en.wikipedia.org/wiki/Stalin:_Waiting_for_Hitler,_1929%E2%80%931941"><img class="imgRightMargin" src="https://imgs.scripting.com/2025/03/12/stalin.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"></a>Highly recommend this week's <a href="https://podcasts.apple.com/us/podcast/what-trump-has-got-wrong-and-right-about-the-war-in-ukraine/id1050430296?i=1000698300580">New Yorker Radio Hour</a> interview with <a href="https://en.wikipedia.org/wiki/Stephen_Kotkin">Stephen Kotkin</a> of Stanford. He's an expert on Russian history, biographer of Stalin, he talks about what Trump is doing, and as I listened I realized we have not filled in how crazy or challenged the leaders of the other huge powers are. Trump apparently is not an outlier. Putin can't keep the war going in Europe indefinitely, their banking system is running on fumes and the people are tired of war (unlike in the US they feel their wars). There's tremendous corruption in the Chinese military, so Xi isn't rushing to try to take over Taiwan. It's easier and safer to just keep threatening. In the US we're shocked by what we've become, so quickly, we're failing to see the context. Kotkin also offers a perspective on the new media, relative to when TV and radio were new, and all the chaos the US has survived. He said something I believe is true, it'll be hard to turn America into a totalitarian state because every freaking American today was raised in a country where we had all the <a href="https://en.wikipedia.org/wiki/List_of_amendments_to_the_Constitution_of_the_United_States">amendments</a>. It'll be hard to get us to STFU. They have a plan in TrumpLand, but that doesn't mean it will work. 
+
+<br> 
+
+<http://scripting.com/2025/03/12.html#a210445>
+
+---
+
+## Senate Democrats must vote against the Republicans’ continuing budget resolution
+
+date: 2025-03-12, from: Robert Reich's blog
+
+It&#8217;s the only way to hold the Trump regime accountable. Call your senators now. 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-democrats-must-vote-against-the>
+
+---
+
+## March 11, 2025
+
+date: 2025-03-12, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158948403/4afd8defc83adc3fb84bc779710c82d6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158948403/4afd8defc83adc3fb84bc779710c82d6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-11-2025-fbc>
+
+---
+
+##  Harvey Silikovitz tried 10 times to get on Jeopardy! over 24 years... 
+
+date: 2025-03-12, updated: 2025-03-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046427-harvey-silikovitz-tried-1>
+
+---
+
+## Brazilian Court Gives Apple 90 Days to Allow Sideloading on iOS
+
+date: 2025-03-12, updated: 2025-03-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/03/06/brazilian-court-apple-sideloading-ios/>
+
+---
+
+##  Mahmoud Khalil&#8217;s Detention Is a Trial Run. &#8220;You may believe that Khalil... 
+
+date: 2025-03-12, updated: 2025-03-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046428-mahmoud-khalils-detention>
+
+---
+
+##  404 Media has obtained a list of 200+ sites monitored by a... 
+
+date: 2025-03-12, updated: 2025-03-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046429-404-media-has-obtained-a>
+
+---
+
+## Apple Adds Disclaimers Regarding Delayed AI Siri Features
+
+date: 2025-03-12, updated: 2025-03-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/03/12/apple-adds-new-disclaimer-on-its-website-advertising-delayed-ai-siri-features/>
+
+---
+
+## Google Changes Chrome Extension Policies Following the Honey Link Scandal
+
+date: 2025-03-12, updated: 2025-03-12, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/627940/google-chrome-extensions-paypal-honey-affiliate>
+
+---
+
+## Thoughts
+
+date: 2025-03-12, from: Doc Searls (at Harvard), New Old Blog
+
+An important extinction. Overheard (between veteran unemployed journalists): &#8220;I&#8217;m not a has-been. I&#8217;m a still-was.&#8221; Because you&#8217;re the only one who might employ you. &#8220;DIY journalism&#8221; just got uttered in a call I&#8217;m on. Its the windows, mostly. I didn&#8217;t like Boeing&#8217;s 787 eight years ago, and still don&#8217;t like it now. That&#8217;s my response [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/12/thoughts/>
+
+---
+
+## Fun with the Sharp Zaurus SL-5500 (and an unexpected OpenBSD link)
+
+date: 2025-03-12, from: Liam on Linux
+
+The <a href="https://medium.com/@alabbe/sharp-zaurus-sl-5500-collie-8254d03964d6">Zaurus SL-5500</a>&nbsp;was an early, tiny, Linux pocket computer-cum-PDA. I had one. Two, in fact.&nbsp;They got stolen from my house. :-(<br /><p>It had a CF card slot, so you could even remove your storage card and insert a CF Wifi card instead, and have mobile Internet in your pocket, 20 years ago!&nbsp;&nbsp;<br /><br />But if you did, you got a free extra with a wifi adaptor &ndash; a battery life of about 15-20 minutes.</p> <p>It was clever, but totally useless. With the wifi card in, you  couldn&rsquo;t have external storage any more, so there was very little room  left.</p> <p>I had to check: <a href="https://uk.pcmag.com/first-looks/30821/sharp-zaurus-sl-5500" rel="ugc">https://uk.pcmag.com/first-looks/30821/sharp-zaurus-sl-5500</a></p> <p>64MB RAM, 16MB flash, and a 320x240 screen. Or rather 240x320 as it was portrait.</p> <p>The sheer amount of thought and planning that went into the  Linux-based Zaurus was shown by the fact that the tiny physical keyboard  <em>had no pipe symbol.</em> Bit of a snag on an xNix machine, that.</p><p>Both mine were 2nd hand, given to me by techie mates who&rsquo;d played  with them and got bored and moved on. <a href="https://lobste.rs/s/okqjn5/20_years_linux_on_desktop_part_3">I'm told others got better battery</a> life on Wifi. Maybe their tiny batteries were  already on the way out or something.</p> <p><strong>Fun side-note #1:</strong> I do not remember the battery pack looking like this one, though. I feel sure I would have noticed.</p> <p><a href="https://www.amazon.co.uk/Battery-Zaurus-SL-5500-900mAh-Li-ion/dp/B007K0DRIU" rel="ugc">https://www.amazon.co.uk/Battery-Zaurus-SL-5500-900mAh-Li-ion/dp/B007K0DRIU</a></p> <p><strong>Fun side-note #2:</strong> both came with Sharp&rsquo;s original  OS, version 1.0. I had an interesting time experimenting with  alternative OS builds, new ROMs etc. Things did get a lot better, or at  least less bad, after the first release. But the friend who gave me my  first unit swore up and down that he&rsquo;d update the ROM. I can&rsquo;t see any  possible mechanism for flash memory to just revert to earlier contents  on its own, though.</p> <p>With replacement OS images you had to decide how to partition the  device&rsquo;s tiny amount of storage: some as read-only for the OS, some as  read-write, some as swap, etc. The allocations were fixed and if you got  it wrong you had to nuke and reload.</p> <p>This would have been <em>much</em> easier if the device had some form of logical volume management, and dynamically-changeable volume sizes.</p> <p>Which is a thought I also had repeatedly around 2023-2024 when  experimenting with OpenBSD. It uses an exceptionally complex  partitioning layout, and if you forcibly simplify it, you (1) run up  against the limitations of its horribly primitive partitioning tool and  (2) reduce the OS&rsquo;s security.</p> <p>I have got just barely competent enough with OpenBSD that between <a href="https://www.theregister.com/2022/04/22/openbsd_71_released_including_apple/" rel="ugc">writing this</a> in early 2022 and <a href="https://www.theregister.com/2024/10/10/version_76_openbsd_of_theseus/" rel="ugc">writing this</a>  in late 2024, two and a half years later, I went from &ldquo;struggling  mightily just to get it running at all in a VM&rdquo; to &ldquo;able with only some  whimpering and cursing to get it dual-booting on bare metal with XP64,  NetBSD, and 2 Linux distros.&rdquo;</p> <p>But it&rsquo;s still a horrible <em>horrible</em> experience and some form of LVM would make matters massively easier.</p> <p>Which is odd because I avoid Linux LVM as much as possible. I find it  a massive pain when you don&rsquo;t need it. However, you need it for Linux  full-disk encryption, and one previous employer&nbsp;of mine insisted upon  that.</p> <p>In other words: I really dislike LVM, and I am annoyed by Linux  gratuitously insisting on it in situations where it should not strictly  speaking be needed &ndash; but in other OSes and other situations, I have  really wanted it, but it wasn&rsquo;t available.</p><br type="_moz" /><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=94248" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/94248.html>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-12, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=jWG9KAgD6UA">Starting Over</a>. 
+
+<br> 
+
+<http://scripting.com/2025/03/12.html#a141554>
+
+---
+
+##  US added to international watchlist for rapid decline in civic freedoms. The... 
+
+date: 2025-03-12, updated: 2025-03-12, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046426-us-added-to-international>
 
 ---
 

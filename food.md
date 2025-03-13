@@ -1,11 +1,195 @@
 ---
 title: food
-updated: 2025-03-12 07:08:40
+updated: 2025-03-13 06:11:36
 ---
 
 # food
 
-(date: 2025-03-12 07:08:40)
+(date: 2025-03-13 06:11:36)
+
+---
+
+## Good Coffee, Great Coffee Is The Goldilocks Of Coffee Games
+
+date: 2025-03-13, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Good Coffee, Great Coffee is a new free mobile game from TapBlaze. 
+
+<br> 
+
+<https://sprudge.com/good-coffee-great-coffee-is-the-goldilocks-of-coffee-games-303166.html>
+
+---
+
+## Skillet Chicken and Gravy
+
+date: 2025-03-13, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/03/Skillet-Chicken-and-Gravy-1200-1377.jpg"/></div>
+<p>A quick and easy skillet chicken and gravy! Chicken and gravy is a classic! There&#8217;s just something amazing about the simple combination of chicken and a tasty gravy! The recipe is as simple as cooking the chicken in a skillet followed by making the gravy in the same pan. The gravy is the star of...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/skillet-chicken-and-gravy/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/skillet-chicken-and-gravy/">Skillet Chicken and Gravy</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/skillet-chicken-and-gravy/>
+
+---
+
+## The Property Brothers Love Making This Simple British Recipe
+
+date: 2025-03-12, from: Taste of Home
+
+<p>Drew and Jonathan Scott can renovate a kitchen and make you something to eat.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/property-brothers-yorkshire-pudding/">The Property Brothers Love Making This Simple British Recipe</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/property-brothers-yorkshire-pudding/>
+
+---
+
+## This Was Julia Child’s Favorite Cocktail and I Totally See Why
+
+date: 2025-03-12, from: Taste of Home
+
+<p>The legendary chef's go-to drink—the upside-down martini—has converted me, a martini skeptic.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/upside-down-martini-julia-child/">This Was Julia Child&#8217;s Favorite Cocktail and I Totally See Why</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/upside-down-martini-julia-child/>
+
+---
+
+## Scotch Eggs
+
+date: 2025-03-12, from: Bon Appetet
+
+You can make this gastropub staple of jammy eggs swaddled in sausage, then breaded and fried. We’ll show you how. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/homemade-scotch-eggs>
+
+---
+
+## This Is the One Side Dish That Ina Garten Makes on Repeat
+
+date: 2025-03-12, from: Taste of Home
+
+<p>This simple salad recipe has the Barefoot Contessa's stamp of approval.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ina-garten-favorite-side-dish/">This Is the One Side Dish That Ina Garten Makes on Repeat</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ina-garten-favorite-side-dish/>
+
+---
+
+## The ‘Ted Danson Sandwich’ Is a Twist on a Classic Deli Staple
+
+date: 2025-03-12, from: Taste of Home
+
+<p>If you're a fan of a good deli sandwich or Curb Your Enthusiasm, you don't want to miss out on the Ted Danson sandwich.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ted-danson-sandwich/">The &#8216;Ted Danson Sandwich&#8217; Is a Twist on a Classic Deli Staple</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ted-danson-sandwich/>
+
+---
+
+## The McDonald’s Bagel Sandwich Was, Is and Always Will Be Breakfast Royalty
+
+date: 2025-03-12, from: Taste of Home
+
+<p>Who would choose anything else when they could order the McDonald's Steak Egg &#038; Cheese Bagel?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-steak-egg-and-cheese-bagel/">The McDonald&#8217;s Bagel Sandwich Was, Is and Always Will Be Breakfast Royalty</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-steak-egg-and-cheese-bagel/>
+
+---
+
+## Best Cookware Sets (2025), Based on Years of Testing Pots and Pans
+
+date: 2025-03-12, from: Bon Appetet
+
+Steer clear of those unwieldy 20 piece behemoths. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cookware-sets>
+
+---
+
+## The Coveted Stanley Quencher Is On Sale! Here’s How to Get One for 25% Off
+
+date: 2025-03-12, from: Taste of Home
+
+<p>This rare Stanley cup sale features the original internet-breaking Stanley Quencher in dozens of colors for 25% off!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-quencher-sale/">The Coveted Stanley Quencher Is On Sale! Here&#8217;s How to Get One for 25% Off</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-quencher-sale/>
+
+---
+
+## La Marzocco Announces Its First Connected Days Event
+
+date: 2025-03-12, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The online event will be broadcast live on the La Marzocco website. 
+
+<br> 
+
+<https://sprudge.com/la-marzocco-announces-its-first-connected-days-event-303156.html>
+
+---
+
+## Belgian Industrial Roasting Solutions Company CEE Expands to Americas
+
+date: 2025-03-12, from: Daily Coffee News
+
+<div><img width="620" height="472" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-620x472.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-620x472.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-768x584.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1.jpg 940w" sizes="(max-width: 620px) 100vw, 620px" /></div>CEE, a Belgian company focused on fossil-fuel-free industrial production solutions for roasting and drying, is expanding into the United States and Canada. Leading the charge as the company&#8217;s first managing... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/12/belgian-industrial-roasting-solutions-company-cee-expands-to-americas/>
+
+---
+
+## Three Questions with Carolina Peralta of Florencia y Fortunata in Cusco, Peru
+
+date: 2025-03-12, from: Daily Coffee News
+
+<div><img width="620" height="455" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-620x455.jpg" class="attachment-large size-large wp-post-image" alt="Florencia y Fortunata Café Caroline" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-620x455.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-300x220.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-150x110.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-768x563.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>When Carolina Peralta, the founder of Florencia y Fortunata Café in Cusco, Peru, celebrated good news or received a good grade in school as a child, it was always over... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/12/three-questions-with-carolina-peralta-of-florencia-y-fortunata-in-cusco-peru/>
+
+---
+
+## Bentwood Explores a New Angle with the Grind-By-Weight H75 Grinder
+
+date: 2025-03-12, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bentwood H75 grinders" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Swiss grinder manufacturer Bentwood is rolling out the H75 grind-by-weight grinder, which represents the second major model from the eight-year-old company, following the Vertical 63 machine. Departing from the perpendicular... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/12/bentwood-explores-a-new-angle-with-the-grind-by-weight-h75-grinder/>
 
 ---
 
@@ -39,7 +223,7 @@ date: 2025-03-12, from: Taste of Home
 
 date: 2025-03-12, from: Bon Appetet
 
-I've worked in coffee for more than a decade and I've never used a better one. 
+I’ve worked in coffee for more than a decade and I’ve never used a better one. 
 
 <br> 
 
@@ -115,7 +299,7 @@ A trip to the farmers market inspired this veggie quinoa bowl. The sweetness of 
 
 date: 2025-03-11, from: Daily Coffee News
 
-<div><img width="620" height="488" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-620x488.jpg" class="attachment-large size-large wp-post-image" alt="SumOne coffee Farmer Brothers 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-620x488.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-300x236.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-150x118.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-768x604.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Business-to-business (B2B) coffee specialist Farmer Brothers Coffee is releasing a new branded coffee line under the name Sum&#62;One Coffee Roasters. Designed to appeal to any number of coffee-drinking tastes within... 
+<div><img width="620" height="488" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-620x488.jpg" class="attachment-large size-large wp-post-image" alt="SumOne coffee Farmer Brothers 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-620x488.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-300x236.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-150x118.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1-768x604.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/SumOne-coffee-Farmer-Brothers-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Business-to-business (B2B) coffee specialist Farmer Brothers Coffee is releasing a new branded coffee line under the name Sum&#62;One Coffee Roasters. Designed to appeal to any number of coffee-drinking tastes within... 
 
 <br> 
 
@@ -127,7 +311,7 @@ date: 2025-03-11, from: Daily Coffee News
 
 date: 2025-03-11, from: Daily Coffee News
 
-<div><img width="620" height="470" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-620x470.webp" class="attachment-large size-large wp-post-image" alt="41598_2024_69867_Fig7_HTML" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-620x470.webp 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-300x227.webp 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-150x114.webp 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-768x582.webp 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-1536x1163.webp 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML.webp 2004w" sizes="(max-width: 620px) 100vw, 620px" /></div>Traditional full-immersion &#8220;cold&#8221; brewing may not demand as much time as it often receives for optimal sensory results, according to relatively new research from a team at the University of... 
+<div><img width="620" height="470" src="https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-620x470.webp" class="attachment-large size-large wp-post-image" alt="41598_2024_69867_Fig7_HTML" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-620x470.webp 620w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-300x227.webp 300w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-150x114.webp 150w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-768x582.webp 768w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML-1536x1163.webp 1536w, https://dailycoffeenews.com/wp-content/uploads/2025/01/41598_2024_69867_Fig7_HTML.webp 2004w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Traditional full-immersion &#8220;cold&#8221; brewing may not demand as much time as it often receives for optimal sensory results, according to relatively new research from a team at the University of... 
 
 <br> 
 
@@ -139,7 +323,7 @@ date: 2025-03-11, from: Daily Coffee News
 
 date: 2025-03-11, from: Daily Coffee News
 
-<div><img width="620" height="384" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-620x384.jpg" class="attachment-large size-large wp-post-image" alt="Celtic Cup Coffee Silver Spring 4" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-620x384.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-300x186.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-150x93.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-768x475.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The pipes, the pipes are calling for green coffees in the bonny glen of Silver Spring, Maryland, with the opening of the Celtic Cup Coffee roastery and tasting room. The... 
+<div><img width="620" height="384" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-620x384.jpg" class="attachment-large size-large wp-post-image" alt="Celtic Cup Coffee Silver Spring 4" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-620x384.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-300x186.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-150x93.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4-768x475.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Celtic-Cup-Coffee-Silver-Spring-4.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The pipes, the pipes are calling for green coffees in the bonny glen of Silver Spring, Maryland, with the opening of the Celtic Cup Coffee roastery and tasting room. The... 
 
 <br> 
 

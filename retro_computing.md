@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-03-12 07:08:39
+updated: 2025-03-13 06:11:35
 ---
 
 # retro computing
 
-(date: 2025-03-12 07:08:39)
+(date: 2025-03-13 06:11:35)
+
+---
+
+## b.log 2025/03/12 - Moving forward, Happy Birthday Mom!
+
+date: 2025-03-12, from: Richard Murray's blog
+
+Moving forward, Happy Birthday Mom! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250312>
+
+---
+
+## Comics from 1978/05 Creative Computing Mag
+
+date: 2025-03-12, from: Computer ads from the Past
+
+Time for some oldie levity. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-197805-creative-computing>
 
 ---
 

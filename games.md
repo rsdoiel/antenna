@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-03-12 07:08:36
+updated: 2025-03-13 06:11:32
 ---
 
 # games
 
-(date: 2025-03-12 07:08:36)
+(date: 2025-03-13 06:11:32)
+
+---
+
+## Wheel of Time’s latest queer relationship has been a long time coming
+
+date: 2025-03-13, updated: 2025-03-12, from: Polygon Website
+
+Prime Video’s The Wheel of Time series is no stranger to making bold calls about its source material. While it more or less follows the same arc as the books, the first episodes of season 1 alone opened up the world to a totally new interpretation of prophecy and character potential. Since then, it has [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fantasy/538074/wheel-time-aviendha-elayne-love-gay-interview-actress-rafe-judkins>
+
+---
+
+## Dynamax Raikou counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-03-13, updated: 2025-03-12, from: Polygon Website
+
+Raikou is joining the Max Battle hype in Pokémon Go, allowing you to take it on and possibly catch one that can Dynamax. It’ll be featured during a Max Battle Weekend event, running from March 15 at 5 a.m. until March 16 at 9 p.m. in your local time. During this event, you’ll be able [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/538377/dynamax-raikou-counters-weakness-tips>
+
+---
+
+## How to complete the ‘Dyadic Ascension’ quest in Destiny 2
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+The “Dyadic Ascension” quest in Destiny 2 is how you’ll unlock the upgraded Intrinsic Perks for the craftable Heresy Exotic, the Barrow-Dyad submachine gun. To unlock these upgrades, however, you’ll need to comb through the Dreadnaught looking for Taken Osseous Fragments in The Nether activity. If you don’t have access to this quest yet, or [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/522569/dyadic-ascension-moment-clarity-taken-osseous-fragment-locations>
+
+---
+
+## How to unlock the Barrow-Dyad Catalyst in Destiny 2
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+The Barrow-Dyad Catalysts have finally started to arrive in Act 2 of Destiny 2: Heresy. But unlike previous episodic Exotic Catalysts, these don’t come from running a mission multiple times. Instead, you’ll need to fulfill some secret conditions. In this Destiny 2 guide, we’ll walk you through how to unlock the first Barrow-Dyad Catalyst in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/538297/barrow-dyad-catalyst-how-to-get-unlock>
+
+---
+
+## World of Warcraft’s upcoming housing system looks surprisingly robust
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+Player housing was one of the most demanded features in World of Warcraft, and Blizzard finally shared that the feature will be coming in the upcoming expansion Midnight. We’re still a ways out from Midnight, the expansion set to release after the current The War Within as part of the Worldsoul Saga. Blizzard is sharing [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/538557/wow-player-housing-furniture-interior-preview>
+
+---
+
+## How to capture monsters and endemic life in Monster Hunter Wilds
+
+date: 2025-03-12, updated: 2025-03-13, from: Polygon Website
+
+Learning how to capture monsters in Monster Hunter Wilds is a good way to end a fight quickly, and get more rewards in the process. It’s only an option when the monster is nearly dead — which just so happens to be when it’s at its most dangerous. To capture a monster, you’ll have to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/529576/capture-monsters-endemic-life-how-to>
+
+---
+
+## Best character design codes in Monster Hunter Wilds
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+Character design codes in Monster Hunter Wilds allow you to load pre-made designs for your hunter during the character creator, formally called the “character editor.” It’s perfect for people like me — who can’t design a character to save my life — or for those who want to load a different kind of template character [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/530854/character-creator-editor-codes-how-to-enter-create>
+
+---
+
+## The Lemokey L5 HE 8K sacrifices value for performance
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+Lemokey managed to win me over with its P1 HE keyboard, which offers a level of features and customization that’s unparalleled at $170. Its Hall-effect switches, excellent acoustics, and aluminum chassis aren’t common to find in a keyboard under $200. These features made the P1 HE my daily driver, and I was excited to try [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/537809/lemokey-l5-he-8k-hall-effect-gaming-keyboard>
+
+---
+
+## Marvel Rivals patch tries to pull its newest hero out of the dumpster
+
+date: 2025-03-12, updated: 2025-03-12, from: Polygon Website
+
+Human Torch certainly isn’t the worst hero in Marvel Rivals, but he’s far from the best — maybe too far for one of the newest additions to the game. According to RivalsMeta, Human Torch is one of the weakest heroes right now. His winrate isn’t much higher than Black Widow, who has consistently been at [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/538386/marvel-rivals-mid-season-patch-human-torch-buff>
 
 ---
 

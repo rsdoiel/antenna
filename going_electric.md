@@ -1,11 +1,319 @@
 ---
 title: going electric
-updated: 2025-03-12 07:08:40
+updated: 2025-03-13 06:11:36
 ---
 
 # going electric
 
-(date: 2025-03-12 07:08:40)
+(date: 2025-03-13 06:11:36)
+
+---
+
+## We Just Had The 'Most Disastrous Day In EPA History'
+
+date: 2025-03-13, from: Inside EVs News
+
+Plus, Musk pledges to double Tesla production, and tariffs won't be enough to bring auto manufacturing-related jobs back to U.S. 
+
+<br> 
+
+<https://insideevs.com/news/753376/epa-most-disastrous-day-deregulation/>
+
+---
+
+## PG&E customers can snag huge incentives on GM Energy charging products through a V2X pilot program
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/PGE-Charging-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Pacific Gas &amp; Electric Company (PG&amp;E) residential customers can now take advantage of incentives in the thousands off the price of qualifying <a href="https://electrek.co/guides/gm-energy/">GM Energy</a> home charging and energy management products. GM has joined PG&amp;E’s vehicle-to-everything (V2X) pilot program, enabling energy customers to bundle their GM Energy systems and eventually get paid to supply excess energy back to their local grid.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="405352" href="https://electrek.co/2025/03/13/pge-customers-incentives-gm-energy-charging-products-v2x-pilot-program/#more-405352" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/pge-customers-incentives-gm-energy-charging-products-v2x-pilot-program/>
+
+---
+
+## 2025 Audi A6 E-Tron Arrives In The U.S. With Nearly 400 Miles Of Range
+
+date: 2025-03-13, from: Inside EVs News
+
+The longest-range EV in Audi’s North American lineup will only be available in sedan form. 
+
+<br> 
+
+<https://insideevs.com/news/753393/2025-audi-a6-etron-us-price-range-specs/>
+
+---
+
+## Toyota just gave the bZ4X the glow-up it deserves: Check out the new electric SUV
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-new-bZ4X.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s first electric SUV is getting a major overhaul. The new <a href="https://electrek.co/guides/toyota-bz4x/">bZ4X</a> now has a bigger battery for more range, faster charging, dedicated EV features, a stylish facelift, and much more. Here’s our first look at the new Toyota bZ4X.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota,toyota-bz4x" data-layer-viewtype="unknown" data-post-id="405584" href="https://electrek.co/2025/03/12/toyota-gave-bz4x-electric-suv-glow-up/#more-405584" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/toyota-gave-bz4x-electric-suv-glow-up/>
+
+---
+
+## A man set himself on fire trying to burn Tesla chargers
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-12-at-5.50.52 PM.jpg?quality=82&#038;strip=all&#038;w=1112" /></div><p>A man set fire to three Tesla chargers at a charging station in a South Carolina parking lot, but karma got him back quickly as he also set his clothes on fire.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405594" href="https://electrek.co/2025/03/12/a-man-set-himself-on-fire-trying-to-burn-tesla-chargers/#more-405594" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/a-man-set-himself-on-fire-trying-to-burn-tesla-chargers/>
+
+---
+
+## EPA’s Zeldin starts efforts to poison you, raise fuel costs and harm US industry
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/11/Lee_Zeldin_48513771307.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Lee Zeldin, titular head of the Environmental “Protection” Agency, officially announced several efforts to harm Americans’ health, increase their fuel costs by tens of billions of dollars per year, and to ensure that US manufacturing be less competitive into the future.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="epa" data-layer-viewtype="unknown" data-post-id="405566" href="https://electrek.co/2025/03/12/epas-zeldin-starts-efforts-to-poison-you-raise-fuel-costs-and-harm-us-industry/#more-405566" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/epas-zeldin-starts-efforts-to-poison-you-raise-fuel-costs-and-harm-us-industry/>
+
+---
+
+## BMW gives a sneak peek at the new i3 and iX3 during final stages of testing [Video]
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BMW-i3-iX3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BMW is preparing to launch its next-gen EVs, promising to deliver significantly more range, faster charging, and advanced new tech. With their debut just around the corner, <a href="https://electrek.co/guides/bmw/">BMW</a> is giving us a closer look at the upcoming i3 and iX3 as it wraps up testing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,bmw-i3" data-layer-viewtype="unknown" data-post-id="405555" href="https://electrek.co/2025/03/12/bmw-teases-new-i3-ix3-during-final-stages-testing-video/#more-405555" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/bmw-teases-new-i3-ix3-during-final-stages-testing-video/>
+
+---
+
+## Dodge Charger EV Slammed By MKBHD: 'Fratzonic Flop'
+
+date: 2025-03-12, from: Inside EVs News
+
+This thing probably won't win over the muscle car crowd, Marques Brownlee says. But how is it as an EV? 
+
+<br> 
+
+<https://insideevs.com/news/753368/dodge-charger-ev-mkbhd-review/>
+
+---
+
+## Tesla (TSLA) Q1 delivery estimate on Wall Street is still at 418,000 EVs, but they are dreaming
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2021/05/Tesla-Guide-Model-S-Hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) delivery consensus from Wall Street is still at 418,000 electric vehicles in Q1 2025, but they are dreaming.</p>
+
+
+
+<p>Deliveries are currently tracking about 40,000 units lower.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405514" href="https://electrek.co/2025/03/12/tesla-tsla-q1-delivery-estimate-wall-street/#more-405514" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/tesla-tsla-q1-delivery-estimate-wall-street/>
+
+---
+
+## Northvolt files for bankruptcy in Sweden – what now for its $7B Canada EV battery plant?
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Northvolt-quebec.webp?w=1500" /></div><p>Northvolt AB today <a href="https://northvolt.com/articles/northvolt-files-for-bankruptcy-in-sweden/" target="_blank" rel="noreferrer noopener">announced</a> that it has filed for bankruptcy in Sweden. It says Northvolt North America is solvent, but what will happen to its massive EV battery plant project in Canada?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,ev-batteries,northvolt,quebec" data-layer-viewtype="unknown" data-post-id="405546" href="https://electrek.co/2025/03/12/northvolt-bankruptcy-sweden-7b-canada-ev-battery-plant/#more-405546" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/northvolt-bankruptcy-sweden-7b-canada-ev-battery-plant/>
+
+---
+
+## Toyota’s New EVs Get Big Battery Upgrades. Here’s Why They Matter
+
+date: 2025-03-12, from: Inside EVs News
+
+Toyota’s EV party has started. Much of it is linked to improvements under the skin. 
+
+<br> 
+
+<https://insideevs.com/news/753364/toyota-new-evs-battery-upgrades/>
+
+---
+
+## GoTrax Everest electric dirt bike $2,021 off at new low and F2 20-inch e-bike for $674, EGO tools from $199, EcoFlow flash sale, more
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/GoTrax-Everest-Electric-Dirt-Bike.jpg?quality=82&#038;strip=all&#038;w=1201" /></div><p>Today’s Green Deals are being led by new and returning low prices on a pair of GoTrax e-bikes, starting with the brand’s <a href="https://9to5toys.com/2025/03/11/gotraxs-everest-new-3979-low/">Everest Electric Dirt Bike</a> that is currently $2,021 off at a new <a href="https://9to5toys.com/2025/03/11/gotraxs-everest-new-3979-low/">$3,979</a> low. Right behind it is <a href="https://9to5toys.com/2025/03/11/gotrax-f2-e-bike-674-low/">GoTrax’s F2 20-inch Folding e-bike</a> that provides some solid commuting power while retaining a budget-friendly rate at its <a href="https://9to5toys.com/2025/03/11/gotrax-f2-e-bike-674-low/">$674</a> low. Next, we’re seeing a small selection of <a href="https://9to5toys.com/2025/03/11/ego-56v-16-inch-cordless-chainsaw-249/">new EGO Power+ deals</a>, with the brand’s <a href="https://9to5toys.com/2025/03/11/ego-56v-16-inch-cordless-chainsaw-249/">56V 16-inch Cordless Electric Chainsaw</a> that includes a 5.0Ah battery hitting the best price in years for <a href="https://9to5toys.com/2025/03/11/ego-56v-16-inch-cordless-chainsaw-249/">$249</a>. Lastly, <a href="https://9to5toys.com/2025/03/03/ecoflow-spring-sale-through-march-13/">EcoFlow’s Spring Sale</a> has launched the final one-day-only flash sale with three different offerings, the best of them being a <a href="https://9to5toys.com/2025/03/12/ecoflow-flash-sale-delta-2-and-others-from-549/">DELTA 2 Portable Power Station</a> bundled with a smart extra battery for double the capacity, as well as coming with a protective bag – all for <a href="https://9to5toys.com/2025/03/12/ecoflow-flash-sale-delta-2-and-others-from-549/">$799</a>, while the other two are on add-on gear. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/03/11/allpowers-spring-sale-from-49/">ALLPOWERS Spring Sale</a> offers, <a href="https://9to5toys.com/2025/03/10/lectrics-st-paddys-day-flash-sale/">Lectric’s St. Paddy’s Day e-bike deals</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="405515" href="https://electrek.co/2025/03/12/gotrax-everest-and-f2-e-bike-ego-ecoflow-more/#more-405515" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/gotrax-everest-and-f2-e-bike-ego-ecoflow-more/>
+
+---
+
+## Toyota’s new FT-Me is much more than a micro EV, it even has a solar roof
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-FT-Me-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>What exactly is the FT-Me, and why do we need one? <a href="https://electrek.co/guides/toyota/">Toyota</a> unveiled a new micro EV on Thursday, dubbed the FT-Me. It’s small, but Toyota is hyping it up as an affordable alternative. It even has a solar roof to boost range.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="405508" href="https://electrek.co/2025/03/12/toyotas-ft-me-more-than-micro-ev-solar-roof/#more-405508" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/toyotas-ft-me-more-than-micro-ev-solar-roof/>
+
+---
+
+## Velotric Nomad 2 review: A feature-packed fat-tire e-bike with crazy comfort
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/velotric-nomad-2-header-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Fat-tire electric bikes are all the rage these days, designed to triumph on the trails but just as often seen conquering the pavement. Now the <a href="https://electrek.co/2025/03/01/velotric-nomad-2-launched-as-an-ultra-comfortable-fat-tire-adventure-e-bike/">newly-released</a> Velotric Nomad 2 is here to take a slice of that adventure-ready market. Designed for riders who want a mix of commuting practicality and off-road capability, this e-bike brings a powerful motor, excellent comfort, and a surprising amount of premium features at a relatively affordable price. But how well does it actually perform? I put it to the test to find out.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="405257" href="https://electrek.co/2025/03/12/velotric-nomad-2-review-a-feature-packed-fat-tire-e-bike-with-crazy-comfort/#more-405257" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/velotric-nomad-2-review-a-feature-packed-fat-tire-e-bike-with-crazy-comfort/>
+
+---
+
+## Toyota FT-Me: A Two-Seat Electric City Car With No Pedals
+
+date: 2025-03-12, from: Inside EVs News
+
+Toyota's new entry-level electric vehicle is particularly suitable for younger people and wheelchair users. 
+
+<br> 
+
+<https://insideevs.com/news/753346/toyota-ft-me-concept-europe/>
+
+---
+
+## Tesla’s new Model Y order backlog in China is less than half of what was reported
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/new-model-y.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Rumors about a large order backlog for Tesla’s new Model Y in China are inaccurate. Demand for the updated vehicle is not near what some people claimed.</p>
+
+
+
+<p>It’s still too early to say whether it will enable Tesla to grow its best-selling vehicle program or not.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405482" href="https://electrek.co/2025/03/12/teslas-new-model-y-order-backlog-in-china-is-less-than-half-of-what-was-reported/#more-405482" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/teslas-new-model-y-order-backlog-in-china-is-less-than-half-of-what-was-reported/>
+
+---
+
+## Lexus RZ levels up with more range, power, and it’s even getting its first ‘F Sport’ trim
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Lexus-RZ-range.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lexus just upgraded its electric SUV in nearly every way possible. The 2026 Lexus RZ now has more driving range and power with a fully redesigned BEV system. But, that’s not all. The electric SUV gains a slew of new features, including <a href="https://electrek.co/guides/lexus/">Lexus’</a> first Steer-by-Wire system. It’s even getting the F Sport treatment. Here’s our first look at the updated EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lexus" data-layer-viewtype="unknown" data-post-id="405459" href="https://electrek.co/2025/03/12/lexus-rz-improved-more-range-power-first-f-sport-trim/#more-405459" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/lexus-rz-improved-more-range-power-first-f-sport-trim/>
+
+---
+
+## Former Tesla, Lucid execs form new EV brand Longbow, whose first two models are sharp and ultra-light
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Longbow-EV-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new niche EV brand, Longbow, has emerged into the public eye, hailing itself as ” the first-ever British electric sports car manufacturer. ” It has unveiled its first two featherweight models, inspired by British automotive icons and designed with real-road performance and the overall driver experience in mind. Despite debuting today, the limited hand-built production of these two featherweight EVs is expected to begin relatively quickly, and they start at a price that doesn’t just cater to the affluent.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="longbow-motors,longbow-roadster,longbow-speedster,lucid-motors,tesla" data-layer-viewtype="unknown" data-post-id="405461" href="https://electrek.co/2025/03/12/former-tesla-lucid-execs-new-ev-brand-longbow-first-two-models/#more-405461" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/former-tesla-lucid-execs-new-ev-brand-longbow-first-two-models/>
+
+---
+
+## Tesla Takedown movement fights back against Musk/Trump after push to label them as ‘domestic terrorists’
+
+date: 2025-03-12, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Takedown.png?w=1600" /></div><p>The Tesla Takedown movement is fighting back against claims made by Elon Musk and Donald Trump while protests are ramping up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405442" href="https://electrek.co/2025/03/12/tesla-takedown-movement-fights-back-against-musk-trump-after-push-to-label-them-as-domestic-terrorists/#more-405442" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/12/tesla-takedown-movement-fights-back-against-musk-trump-after-push-to-label-them-as-domestic-terrorists/>
+
+---
+
+## Elon Musk Finally Gets His White House EV Summit
+
+date: 2025-03-12, from: Inside EVs News
+
+It is dubious whether this ringing Trump endorsement will lift Tesla's falling sales or stock price. Also: Northvolt goes bankrupt. 
+
+<br> 
+
+<https://insideevs.com/news/753310/tesla-white-house-critical-materials/>
 
 ---
 

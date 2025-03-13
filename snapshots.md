@@ -1,11 +1,491 @@
 ---
 title: snapshots
-updated: 2025-03-12 07:08:42
+updated: 2025-03-13 06:11:37
 ---
 
 # snapshots
 
-(date: 2025-03-12 07:08:42)
+(date: 2025-03-13 06:11:37)
+
+---
+
+## AI Can Rip You Off. Here's How California Lawmakers Want to Stop Price Discrimination
+
+date: 2025-03-13, from: The Markup blog
+
+AI can help businesses charge you more based on how it evaluates your personal history and desires. California lawmakers want to end that price discrimination 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/03/13/ai-can-rip-you-off-heres-how-california-lawmakers-want-to-stop-price-discrimination>
+
+---
+
+## California Is Considering 30 New AI Regulations. Trump Wants None
+
+date: 2025-03-13, from: The Markup blog
+
+President Trump is taking a very different approach to AI than the Biden administration, and it could affect how California regulates artificial intelligence 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/03/13/california-is-considering-30-new-ai-regulations-trump-wants-none>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+As ICE targets a Palestinian activist, some Jews are asking if this is the fight against antisemitism they signed up for. (Being pro-Palestinian is not antisemitism.) 
+
+<br> 
+
+<https://www.jta.org/2025/03/11/united-states/as-ice-targets-a-pro-palestinian-activist-some-jews-are-asking-if-this-is-the-fight-against-antisemitism-they-signed-up-for>
+
+---
+
+## Making Sweatshops Great Again
+
+date: 2025-03-13, from: Paul Krugman
+
+Does Trump want us to manufacture sneakers, not semiconductors? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/making-sweatshops-great-again>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+Taking over the Podcast network: Michelle, WSJ. 
+
+<br> 
+
+<https://viehumaniste.wordpress.com/2025/03/11/taking-over-michelle-wsj/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+No response from either TechCrunch or the company, as before. Bluesky is doing great, it’s time they drop the pretense that they’re “billionaire-proof.” They obviously don’t respect this blogger, perhaps a journalist could ask about their claim. 
+
+<br> 
+
+<http://scripting.com/2025/03/11/113838.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+Elon Musk Looks Desperate. 
+
+<br> 
+
+<https://www.theatlantic.com/technology/archive/2025/03/elon-musk-human-meme-stock/682023/?gift=f35zZN0v_gDFE8xNwlQAHXwjqMU0i0qxVV4QHoDkshc&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+Trump plans &quot;law and order&quot; speech at Justice Department Friday. 
+
+<br> 
+
+<https://www.axios.com/2025/03/13/trump-justice-department-speech>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+The Portland crowd enjoyed the Knicks buzzer beater overtime win over their hometown Trailblazers. Where ever you go the Knicks fans are there. 
+
+<br> 
+
+<https://sports.yahoo.com/article/see-mikal-bridges-overtime-game-061500500.html>
+
+---
+
+## 288: Hofstader's Butterfly
+
+date: 2025-03-13, from: Fix the News
+
+Fundamental principles across different scales of reality. Plus, primordial water, super lasers, Right to Repair, and good news on childcare in Canada, vaccinations in Zimbabwe, de-mining in Cambodia, and re-wilding in New Zealand. 
+
+<br> 
+
+<https://fixthenews.com/288-hofstaders-butterfly/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+Biggest Federal Employee Unions Says Shutdown is Preferable to Elon/Trump CR. 
+
+<br> 
+
+<https://talkingpointsmemo.com/edblog/biggest-federal-employee-unions-says-shutdown-is-preferable-to-elon-trump-cr>
+
+---
+
+## The French Revolution: The Execution of the King (Part 4)
+
+date: 2025-03-13, from: This is history podcast
+
+<p>The second revolution that engulfed France over the course of 1792 reached its climax in December, with an astonishing, world-changing spectacle, which held all the eyes of Europe spellbound: Louis Capet, formerly King Louis XVI of France, was on trial for his very life. A guilty verdict would undermine millennia of thought and tradition, ripping [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/the-french-revolution-the-execution-of-the-king-part-4/">The French Revolution: The Execution of the King (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/the-french-revolution-the-execution-of-the-king-part-4/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-12, from: Dave Winer's linkblog)
+
+Is Trump Taking a ‘Liquidationist’ Approach to the Economy? 
+
+<br> 
+
+<https://www.wsj.com/economy/is-trump-taking-a-liquidationist-approach-to-the-economy-dc06d544?st=m5pNes&reflink=desktopwebshare_permalink>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-12, from: Dave Winer's linkblog)
+
+Democrats to hold town halls in GOP districts amid controversy. 
+
+<br> 
+
+<https://thehill.com/homenews/house/5191810-democrats-host-town-halls-republican-districts/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-12, from: Feed for Alt USDS)
+
+Gov workers aren’t lazy—we’re the ones fixing broken tax records, tracking down missing payments, and helping people when they need it most. The system works because we do.
+
+Read how one IRS worker spent 13 years making things right.
+🔗 wethebuilders.org/posts/we-are-the-helpers
+
+#WeArePublicService 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lk7lejuuai2p>
+
+---
+
+## AOOSTAR G-Flip mini PC features Ryzen AI 9 HX 370 and a flip-up display
+
+date: 2025-03-12, from: Liliputing
+
+<p>The AOOSTAR G-Flip is an upcoming mini PC with a few unusual features. For one thing, it has an AMD Strix Point processor, with support for up to a Ryzen AI 9 HX 370 12-core, 24-thread CPU and 16-core RDNA 3.5 graphics. That&#8217;s uncommon, but not exactly unique though. What is strange about  this little computer though, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aoostar-g-flip-mini-pc-features-ryzen-ai-9-hx-370-and-a-flip-up-display/">AOOSTAR G-Flip mini PC features Ryzen AI 9 HX 370 and a flip-up display</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/aoostar-g-flip-mini-pc-features-ryzen-ai-9-hx-370-and-a-flip-up-display/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-12, from: Feed for Alt USDS)
+
+Nearly 30 U.S. Digital Services employees have worked with hardworking civil servants at the Dept of Education over the years - most notably (and still) on the Free Application for Federal Student Aid (FAFSA). 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lk7caphobc2h>
+
+---
+
+## Kensington Expert Mouse TB800 EQ is a multi-device trackball mouse
+
+date: 2025-03-12, from: Liliputing
+
+<p>Kensington may be planning to launch a new version of its Expert Mouse wireless trackball that keeps many of the features of the current model, while adding a few bells and whistles that could make for a more versatile computer input device. The company recently won an IF Design Guide award for a previously unannounced [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/kensington-expert-mouse-tb800-eq-is-a-multi-function-trackball-mouse/">Kensington Expert Mouse TB800 EQ is a multi-device trackball mouse</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/kensington-expert-mouse-tb800-eq-is-a-multi-function-trackball-mouse/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-12, from: Dave Winer's linkblog)
+
+COVID keeps evolving and will find new ways to evade immune systems. 
+
+<br> 
+
+<https://www.npr.org/sections/shots-health-news/2025/03/11/nx-s1-5312100/covid-virus-mutation-evolution>
+
+---
+
+## ChatGPT Now Integrates Directly With Xcode
+
+date: 2025-03-12, from: Michael Tsai
+
+Tim Hardwick: OpenAI has updated the ChatGPT app for macOS with the ability to directly edit code in popular development environments including Xcode, VS Code, and JetBrains tools. The new feature allows the AI chatbot to make changes to code without requiring users to copy and paste between applications. ChatGPT can now read code from [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/12/chatgpt-now-integrates-directly-with-xcode/>
+
+---
+
+## Whither Swift Assist?
+
+date: 2025-03-12, from: Michael Tsai
+
+Apple (June 2024): Swift Assist serves as a companion for all of a developer&#8217;s coding tasks, so they can focus on higher-level problems&#160;and solutions. It&#8217;s seamlessly integrated into Xcode, and knows the latest software development kits (SDKs) and Swift language features, so developers will always get the latest code features that blend perfectly into their [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/12/whither-swift-assist/>
+
+---
+
+## Apple Delays “More Personalized Siri” Apple Intelligence Features
+
+date: 2025-03-12, from: Michael Tsai
+
+John Gruber (Mastodon, Dithering, MacRumors, Slashdot): Reading between the lines, and based on my PhD-level fluency in Cupertino-ese, what Apple is saying here is that these &#8220;more personalized Siri&#8221; features are being punted from this year&#8217;s OS cycle to next year&#8217;s: to iOS 19 and MacOS 16. [&#8230;] It was already pretty obvious these features [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/12/apple-delays-more-personalized-siri-apple-intelligence-features/>
+
+---
+
+## AI Summaries of App Store Reviews
+
+date: 2025-03-12, from: Michael Tsai
+
+Filipe Esp&#243;sito (October 2024, MacRumors): As seen by 9to5Mac in an unlisted App Store article, Apple has developed a new system that will use all user reviews on the App Store to create a summary highlighting &#8220;the most common customer feedback&#8221; about each app. According to the article, the summaries will be updated every time [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/12/ai-summaries-of-app-store-reviews/>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-03-12, from: IIIF Mastodon feed)
+
+<p>📆 SAVE THE DATE</p><p>On Mar. 17 @ 11am ET/3pm GMT, at the <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Museums Group, Rodolfo Peraza will present the MUD Foundations&#39;s work on 3D &amp; 2D visualization for open-access digital collections for museums, including integrations w/ IIIF services with MUD Verse</p><p>Zoom info: iiif.io/community</p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114150924181767622>
+
+---
+
+## Clockwork PicoCalc is a retro handheld powered by a Raspberry Pi Pico
+
+date: 2025-03-12, from: Liliputing
+
+<p>The PicoCalc is a new handheld with a retro design. At first glance it looks more like a graphing calculator than a modern handheld device. But it sports a QWERTY keyboard, a 4 inch display, and a mainboard designed to accommodate a Raspberry Pi Pico. Available for $75 from the Clockwork Pi store, it&#8217;s also the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/clockwork-picocalc-is-a-retro-handheld-powered-by-a-raspberry-pi-pico/">Clockwork PicoCalc is a retro handheld powered by a Raspberry Pi Pico</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/clockwork-picocalc-is-a-retro-handheld-powered-by-a-raspberry-pi-pico/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-12, from: Robert's feed at BlueSky)
+
+Cool stuff.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lk74cw3sgk25>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-12, from: Dave Winer's linkblog)
+
+&quot;Mail Pages&quot; were a feature of my blog in 1997 and 1998. People could send email in response to a post, I read them all and published the most interesting ones, by my subjective criteria, to the current mail page. I think something like this could work in 2025 and beyond. 
+
+<br> 
+
+<http://scripting.com/mail/mailThru971027.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-12, from: Dave Winer's linkblog)
+
+The Lives of Others (2006), a drama and political thriller set in East Berlin before the wall came down. How secret police kept watch on the people. It foretells what&#39;s sure to come in the US, and it&#39;s also a fantastic movie. 
+
+<br> 
+
+<https://www.metacritic.com/movie/the-lives-of-others/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-12, from: Dave Winer's linkblog)
+
+FTC asks to delay Amazon Prime deceptive practices case, citing staffing shortfalls. Quid pro quo? 
+
+<br> 
+
+<https://www.cnbc.com/2025/03/12/ftc-asks-to-delay-amazon-prime-deceptive-practices-case-citing-staffing-shortfalls.html>
+
+---
+
+## Saudi Arabia Buys Pokémon Go, and Probably All of Your Location Data
+
+date: 2025-03-12, from: 404 Media Group
+
+A company owned by the Saudi Arabian Public Investment Fund just bought the most popular AR video game of all time. 
+
+<br> 
+
+<https://www.404media.co/saudi-arabia-buys-pokemon-go-and-probably-all-of-your-location-data/>
+
+---
+
+## AI Coding Fantasy meets Pac-Man
+
+date: 2025-03-12, from: Gary Marcus blog
+
+Guess who won? 
+
+<br> 
+
+<https://garymarcus.substack.com/p/ai-coding-fantasy-meets-pac-man>
+
+---
+
+## Notes on Google's Gemma 3
+
+date: 2025-03-12, updated: 2025-03-12, from: Simon Willison’s Weblog
+
+<p>Google's Gemma team released an impressive new model today (under their not-open-source <a href="https://ai.google.dev/gemma/terms">Gemma license</a>). Gemma 3 comes in four sizes - 1B, 4B, 12B, and 27B - and while 1B is text-only the larger three models are all multi-modal for vision:</p>
+<blockquote>
+<p>Gemma 3 introduces multimodality, supporting vision-language input and text outputs. It handles context windows up to 128k tokens, understands over 140 languages, and offers improved math, reasoning, and chat capabilities, including structured outputs and function calling.</p>
+</blockquote>
+<p>Here's the <a href="https://storage.googleapis.com/deepmind-media/gemma/Gemma3Report.pdf">Gemma 3 Technical Report PDF</a>, which makes the big claim that they find "Gemma3-27B-IT comparable to Gemini-1.5-Pro across
+benchmarks".</p>
+<p>I tried out the largest model using the latest <a href="https://ollama.com/">Ollama</a> - this is the second time I've spotted a major model release partnering with Ollama on launch day, the first being <a href="https://simonwillison.net/2025/Jan/30/mistral-small-3/">Mistral Small 3</a>.</p>
+<p>I ran this (after upgrading Ollama through their menu icon upgrade option):</p>
+<pre><code>ollama pull gemma3:27b
+</code></pre>
+<p>That pulled 17GB of model weights. I've been trying it out using <a href="https://llm.datasette.io/">LLM</a> and <a href="https://github.com/taketwo/llm-ollama">llm-ollama</a>:</p>
+<pre><code>llm install llm-ollama
+llm -m gemma3:27b 'Build a single page HTML+CSS+JavaScript UI that gives me a large textarea for writing in which constantly saves what I have entered to localStorage (restoring when I reload the page) and displays a word counter'
+</code></pre>
+<p>That was a replay of <a href="https://tools.simonwillison.net/colophon#word-counter.html">a prompt</a> I ran against Claude Artifacts a few months ago. Here's <a href="https://static.simonwillison.net/static/2025/gemma3-word-count.html">what Gemma built</a>, and the <a href="https://gist.github.com/simonw/f8a87f2242439d3974405a17f5d8bc23">full chat transcript</a>. It's a simple example but it worked just right.</p>
+
+<p><img src="https://static.simonwillison.net/static/2025/gemma-word-count.gif" alt="Animated demo - a simple textarea, I type text in it and a word count updates above." /></p>
+
+<p>Let's try out the vision mode, by asking it to describe this photo:</p>
+<p><img src="https://static.simonwillison.net/static/2025/two-pelicans.jpg" alt="Two pelicans flying against a blue sky " style="max-width: 100%;" /></p>
+<pre><code>llm -m gemma3:27b describe -a https://static.simonwillison.net/static/2025/two-pelicans.jpg
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/0e703ba72d0cf5a6dd117981bd03e604">the full response</a>:</p>
+<blockquote>
+<p><strong>Overall Impression:</strong></p>
+<p>The image features two brown pelicans in flight against a solid, bright blue background. The composition is dynamic, capturing the birds mid-wingbeat.</p>
+<p><strong>Details:</strong></p>
+<ul>
+<li>
+<strong>Pelicans:</strong> Both pelicans are a rich, dark brown color. They have large, pale yellow-orange beaks and pouches. One pelican is shown with its wings fully extended, appearing to be gliding or soaring. The other is captured with its wings in a more dynamic, upward-sweeping motion.</li>
+<li>
+<strong>Background:</strong> The background is a flat, uniform shade of bright blue, which makes the pelicans stand out.</li>
+<li>
+<strong>Composition:</strong> The birds are positioned in opposite directions, creating a sense of movement and balance. The image is well-lit, highlighting the texture of the pelicans' feathers.</li>
+</ul>
+<p><strong>Overall, the image is a striking and visually appealing depiction of these majestic birds in flight.</strong></p>
+</blockquote>
+
+<p>Is it right to say "the birds are positioned in opposite directions"? I thought that was a mistake at first, but I'll give it a pass since their wings are positioned in opposite directions to each other.</p>
+
+<p>Something I've been curious about recently is longer context support: how well can a local model on my laptop deal with summarization or data extraction tasks against longer pieces of text?</p>
+<p>I decided to try <a href="https://til.simonwillison.net/llms/claude-hacker-news-themes#user-content-adding-a--m-model-option">my Hacker News summarize script</a> using Gemma, against <a href="https://news.ycombinator.com/item?id=43340491">the thread</a> there discussing the Gemma 3 technical paper.</p>
+<p>First I did a quick token count (using the OpenAI tokenizer but it's usually a similar number to other models):</p>
+<pre><code>curl 'https://hn.algolia.com/api/v1/items/43340491' | ttok
+</code></pre>
+<p>This returned 22,260 - well within Gemma's documented limits but still a healthy number considering just last year most models topped out at 4,000 or 8,000.</p>
+<p>I ran my script like this:</p>
+<pre><code>hn-summary.sh 43340491 -m gemma3:27b
+</code></pre>
+<p>It did a pretty good job! Here's the <a href="https://gist.github.com/simonw/ab487ea3d1605e719dc2950cd4565146">full prompt and response</a>. The one big miss is that it ignored my instructions to include illustrative quotes - I don't know if modifying the prompt will fix that but it's disappointing that it didn't handle that well, given how important direct quotes are for building confidence in RAG-style responses.</p>
+<p>Here's what I got for <a href="https://gist.github.com/simonw/f79c4bd2fbe966e1b600cb8b41cae810">Generate an SVG of a pelican riding a bicycle</a>:</p>
+<pre><code>llm -m gemma3:27b 'Generate an SVG of a pelican riding a bicycle'
+</code></pre>
+
+<p style="text-align: center"><img src="https://static.simonwillison.net/static/2025/gemma-3-pelican.svg" alt="A collection of abstract shapes, definitely not a pelican on a bicycle" /></p>
+
+<p>You can also try out the new Gemma <a href="https://aistudio.google.com/prompts/new_chat?model=gemma-3-27b-it">in Google AI Studio</a>, and via their API. I added support for it to <a href="https://github.com/simonw/llm-gemini/releases/tag/0.15">llm-gemini 0.15</a>, though sadly it appears vision mode doesn't work with that API hosted model yet.</p>
+<pre><code>llm install -U llm-gemini
+llm keys set gemini
+# paste key here
+llm -m gemma-3-27b-it 'five facts about pelicans of interest to skunks'
+</code></pre>
+<p><a href="https://gist.github.com/simonw/bc22062e60e5af3faf458756cb368d0e">Here's what I got</a>. I'm not sure how pricing works for that hosted model.</p>
+<p>Gemma 3 is also already available <a href="https://github.com/Blaizzy/mlx-vlm/pull/235">through MLX-VLM</a> - here's <a href="https://huggingface.co/collections/mlx-community/gemma-3-67d14a10480a436ad478b0f9">the MLX model collection</a> - but I haven't tried that version yet.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/12/gemma-3/#atom-everything>
+
+---
+
+## Comics from 1978/05 Creative Computing Mag
+
+date: 2025-03-12, from: Computer ads from the Past
+
+Time for some oldie levity. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/comics-from-197805-creative-computing>
+
+---
+
+## Compal Hybrid AIO concept PC is a laptop, tablet, and dual-screen desktop
+
+date: 2025-03-12, from: Liliputing
+
+<p>Plenty of people use their laptop computers like desktops by connecting an external display, keyboard, and mouse. But Compal&#8217;s Hybrid AIO concept PC goes a step further than that&#8230; and then a few steps further. The computer design and manufacturing company recently won an IF Design Award for this unusual modular computer that can be used [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/compal-hybrid-aio-concept-pc-is-a-laptop-tablet-and-dual-screen-desktop/">Compal Hybrid AIO concept PC is a laptop, tablet, and dual-screen desktop</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/compal-hybrid-aio-concept-pc-is-a-laptop-tablet-and-dual-screen-desktop/>
+
+---
+
+## Why You Don’t Need to Be the Best to Lead a Remarkable Life
+
+date: 2025-03-12, from: Guy Kawasaki blog
+
+The joy of being average. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-you-dont-need-to-be-the-best>
+
+---
+
+## 'Pretty Vile:' Spotify Removes Andrew Tate 'Pimping Hoes' Class After Employees Complain
+
+date: 2025-03-12, from: 404 Media Group
+
+Internal Spotify communications viewed by 404 Media show Spotify’s own employees complaining about Andrew Tate’s course being available on the platform. 
+
+<br> 
+
+<https://www.404media.co/pretty-vile-spotify-removes-andrew-tate-pimping-hoes-class-after-employees-and-users-complain-2/>
 
 ---
 
@@ -145,6 +625,18 @@ Tulane University Responds to Federal Investigation Over Antisemitism Complaints
 <br> 
 
 <https://www.wwltv.com/article/news/education/us-department-of-education-threatens-tulane/289-2f714b9f-9302-45f1-970a-5e1681c51a1e>
+
+---
+
+## Traversal-resistant file APIs
+
+date: 2025-03-12, updated: 2025-03-12, from: Go language blog
+
+New file access APIs in Go 1.24. 
+
+<br> 
+
+<https://go.dev/blog/osroot>
 
 ---
 

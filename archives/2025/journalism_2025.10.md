@@ -1,11 +1,151 @@
 ---
 title: journalism
-updated: 2025-03-12 07:08:37
+updated: 2025-03-13 06:11:33
 ---
 
 # journalism
 
-(date: 2025-03-12 07:08:37)
+(date: 2025-03-13 06:11:33)
+
+---
+
+## Kaylee Johnson explores dynamic with radicalized right-wing father in ‘Dear Kelly’
+
+date: 2025-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Kaylee Johnson is open about her father&#8217;s far-right radicalization.
+Johnson was featured in the documentary &#8220;Dear Kelly,&#8221; released Jan. 15 and directed by Andrew Callaghan &#8211; an independent journalist and creator of &#8220;Channel 5&#8221; on YouTube. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/kaylee-johnson-explores-dynamic-with-radicalized-right-wing-father-in-dear-kelly/>
+
+---
+
+## UCLA students react to LA County’s declaration of Native American Heritage Month
+
+date: 2025-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles County Board of Supervisors officially declared last November to be Native American Heritage Month.
+Supervisors Hilda Solis and Lindsey Horvath co-authored the motion, which recognizes the importance of &#8220;inclusivity, equity and reconciliation&#8221; with the county&#8217;s Native American community. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/12/ucla-students-react-to-la-countys-declaration-of-native-american-heritage-month/>
+
+---
+
+## Fiat Lux seminar explores implications for mistrust in health care systems
+
+date: 2025-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+A UCLA Fiat Lux seminar examines how misinformation takes root in media, conspiracy theories and public distrust in health care.
+“The Anatomy of Deception,” offered during winter quarter, examines misinformation in media, conspiracy theories and distrust in health care. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/12/fiat-lux-seminar-explores-implications-for-mistrust-in-health-care-systems/>
+
+---
+
+## Venture capital summit empowers female students on International Women’s Day
+
+date: 2025-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Girls Into VC celebrated International Women&#8217;s Day with a women-led startups and venture capital summit Saturday.
+The summit invited students from UCLA and across California to hear from leaders in venture capitalism. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/12/venture-capital-summit-empowers-female-students-on-international-womens-day/>
+
+---
+
+## Gallery: Artists gather for G*ve a F*ck LA benefit concert and auction for LA wildfire relief
+
+date: 2025-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+Artists and vendors hosted a fire benefit concert and auction titled “G*ve a F*ck LA” on Feb. 5 at the Hollywood Palladium stage. The star studded show included performances by Hayley Williams, FINNEAS, MUNA, Phantom Planet, St. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/12/gallery-artists-gather-for-gve-a-fck-la-benefit-concert-and-auction-for-la-wildfire-relief/>
+
+---
+
+## Grace Masura’s ‘Here’s to Her Voice’ event brings women in music together
+
+date: 2025-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 12 at 8:23 p.m.</em>
+From the artists to the organizers, “Here’s to Her Voice” is a celebration of women in the music industry. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/12/grace-masuras-heres-to-her-voice-event-brings-women-in-music-together/>
+
+---
+
+## Undergraduate cost of attendance rises to nearly $100,000
+
+date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Undergraduate tuition for the 2025-26 academic year will increase by 4.8% to $73,260.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/12/undergraduate-cost-of-attendance-rises-to-nearly-100000/">Undergraduate cost of attendance rises to nearly $100,000</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/12/undergraduate-cost-of-attendance-rises-to-nearly-100000/>
+
+---
+
+## Python VS. Java
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/12/python-vs-java/>
+
+---
+
+## You can learn a conference’s worth of data journalism through these NICAR tipsheets
+
+date: 2025-03-12, from: Nieman Journalism Lab
+
+NICAR — the National Institute for Computer-Assisted Reporting1 — is one of my favorite annual journalism conferences, even if I haven&#8217;t been in a few years. That&#8217;s because it&#8217;s uniquely easy to benefit from even without attending. As the nation&#8217;s news nerds descend on a city (this year Minneapolis), they come bearing PDFs and slide... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/you-can-learn-a-conferences-worth-of-data-journalism-through-these-nicar-tipsheets/>
+
+---
+
+## North Westwood Neighborhood Council recap – Feb. 5
+
+date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
+
+The North Westwood Neighborhood Council heard updates on wildfire relief efforts during their February meeting.
+The NWWNC, which represents UCLA and Westwood Village to the Los Angeles City Council, holds meetings on the first Wednesday of every month at Weyburn Commons. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/12/north-westwood-neighborhood-council-recap-feb-5-2/>
+
+---
+
+## Ruth Marcus left The Washington Post after they killed her column. The New Yorker just published it in full.
+
+date: 2025-03-12, from: Nieman Journalism Lab
+
+When Ruth Marcus resigned from her position as an associate editor and longtime political columnist at the Washington Post on March 10, she said it was because Post publisher Will Lewis had killed one of her columns. Specifically, she’d written a column criticizing Post owner Jeff Bezos’ vision for an opinion page that advocated for... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/ruth-marcus-left-the-washington-post-after-they-killed-her-column-the-new-yorker-just-published-it-in-full/>
 
 ---
 
@@ -139,8 +279,9 @@ date: 2025-03-12, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated March 12 at 1:28 p.m.</em>
 Students and community members will vote in the upcoming North Westwood Neighborhood Council election March 18.
-Of the 19 board seats up for election, two seats are reserved for UCLA students &#8211; with one undergraduate student seat and one graduate student seat. 
+Of the 19 board seats up for election, three seats are reserved for UCLA students – with two undergraduate student seats and one graduate student seat. 
 
 <br> 
 
@@ -164,7 +305,8 @@ UCLA Beach Volleyball takes on Pepperdine, one of four matches that weekend.
 
 date: 2025-03-12, from: The Daily Bruin (UCLA Student Newspaper)
 
-For Gaynell Massey, the reason she loves being a library assistant is interacting with people &#8211; and the Los Angeles Public Library&#8217;s Westwood branch is never in short supply. 
+<em>This post was updated March 12 at 11:16 p.m.</em>
+For Gaynell Massey, the reason she loves being a library assistant is interacting with people – and the Los Angeles Public Library’s Westwood branch is never in short supply. 
 
 <br> 
 
@@ -313,6 +455,18 @@ Can one person change the world? Quite possibly, but in numbers, change is much 
 
 ---
 
+## Alumnus Iverson Mitchell pursues passion for music, community as professional DJ
+
+date: 2025-03-11, from: The Daily Bruin (UCLA Student Newspaper)
+
+From DJing Undie Runs at UCLA to making headway in the scenes of club DJing, Iverson Mitchell has plenty of experience in the art of rocking the house. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/11/alumnus-iverson-mitchell-pursues-passion-for-music-community-as-professional-dj/>
+
+---
+
 ## “More alarming by the day”: New York Times investigations editor on the legal threats faced by news publishers
 
 date: 2025-03-11, from: Nieman Journalism Lab
@@ -334,18 +488,6 @@ If you care about public media and have read any news mentioning the Corporation
 <br> 
 
 <https://www.niemanlab.org/2025/03/a-public-media-collaboration-on-statehouse-reporting-moves-forward-in-north-carolina/>
-
----
-
-## Alumnus Iverson Mitchell pursues passion for music, community as professional DJ
-
-date: 2025-03-11, from: The Daily Bruin (UCLA Student Newspaper)
-
-From DJing Undie Runs at UCLA to making headway in the scenes of club DJing, Iverson Mitchell has plenty of experience in the art of rocking the house. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/11/alumnus-iverson-mitchell-pursues-passion-for-music-community-as-professional-dj/>
 
 ---
 
