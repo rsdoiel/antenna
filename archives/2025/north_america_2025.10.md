@@ -1,11 +1,364 @@
 ---
 title: north america
-updated: 2025-03-13 06:11:28
+updated: 2025-03-14 06:07:37
 ---
 
 # north america
 
-(date: 2025-03-13 06:11:28)
+(date: 2025-03-14 06:07:37)
+
+---
+
+## Dollar General stalls as its customers struggle financially
+
+date: 2025-03-14, from: Market Place
+
+Core customers  — those earning less than $40,000 per year  — are cutting back even on items once considered necessities. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/dollar-general-stalls-as-its-customers-struggle-financially/>
+
+---
+
+## Undaunted: Judge Beryl Howell holds the line
+
+date: 2025-03-14, from: The Contrarian
+
+She not only reaches the indisputably right results but also educates other lawyers and the public at large about Trump&#8217;s authoritarian actions. 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-judge-beryl-howell-holds>
+
+---
+
+## New technology helps blind sports fans level up their arena experience
+
+date: 2025-03-14, from: Market Place
+
+A Seattle tech company has created the first tactile sports broadcast, transforming gameplay into trackable vibrations for visually impaired fans. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/new-technology-helps-blind-sports-fans-level-up-their-arena-experience/>
+
+---
+
+## $19? We might be at peak strawberry
+
+date: 2025-03-14, from: Market Place
+
+A single berry sells for $19 at a California store. Is it conspicuous consumption or a part of gift-giving culture? 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/19-we-might-be-at-peak-strawberry/>
+
+---
+
+## Jen asks for your help
+
+date: 2025-03-14, from: The Contrarian
+
+***Special Contrarian Alert*** 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159034986/a0f92be643f5ae37cc47f23d05f53882.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159034986/a0f92be643f5ae37cc47f23d05f53882.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-asks-for-your-help>
+
+---
+
+##  Trump Issues Ethics Waiver For His AI/Crypto Czar 
+
+date: 2025-03-13, from: The Lever News
+
+ The White House granted the waiver to David Sacks a month after Trump fired the director of the independent agency charged with enforcing federal ethics statutes.  
+
+<br> 
+
+<https://www.levernews.com/trump-issues-ethics-waiver-for-his-ai-crypto-czar/>
+
+---
+
+## Evening Roundup: March 13
+
+date: 2025-03-13, from: The Contrarian
+
+Featuring Jeff Nesbit, Jared Bernstein, Marvin Kalb, Jess Piper, Barb McQuade, The Democracy Movement, Maria Peralta, and a massive legal victory! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-13>
+
+---
+
+## Maria Peralta and Jen Rubin on community organizing and collective action
+
+date: 2025-03-13, from: The Contrarian
+
+As we see more and more Americans take to the streets to rally against the Trump-Musk regime, Jen Rubin interviews Maria Peralta about the strength of grassroots organizing. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159018625/21cb5c9d5f84dfae3a3167d72d689067.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159018625/21cb5c9d5f84dfae3a3167d72d689067.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/maria-peralta-and-jen-rubin-on-community>
+
+---
+
+## Amazon finds in-store grocery a harder sell
+
+date: 2025-03-13, from: Market Place
+
+The e-commerce and cloud company has slowed grocery expansion plans and closed half of its convenience stores in recent years. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/amazon-grocery-shopping-locations-brick-and-mortar-whole-foods-supermarket-food-tech/>
+
+---
+
+## “Tariff on the brain”
+
+date: 2025-03-13, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>In this episode, Kai and Kimberly divide into the back and forth over tariffs. The on-again, off-again levies are making it tough for industries to plan and trade. With all the uncertainty, are markets — from stocks to agriculture — on the verge of becoming untradable? Plus, we’ll wryly smile at a biting, century-old song about farmers who were ticked off about tariffs. (Thanks to our listener, Robert, for sharing his rendition!)</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.marketplace.org/2025/03/10/china-retaliatory-tariffs-agricultural-goods-farmers-tax-imports-exports/" target="_blank" rel="noreferrer noopener">“China’s retaliatory tariffs on agricultural goods will squeeze farmers”</a> from Marketplace<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://www.washingtonpost.com/world/2025/03/09/china-united-states-tariffs-farm-products/" target="_blank" rel="noreferrer noopener">“Chinese tariffs on U.S. farm products take effect as trade tensions mount”</a> by The Washington Post<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.nytimes.com/2025/03/13/business/trump-stock-market.html?login=email&amp;auth=login-email" target="_blank" rel="noreferrer noopener">&#8220;An ‘Untradable’ Market: Trump Sows Profound Uncertainty for Stocks&#8221;</a> from The New York Times<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://memories.nebraska.gov/cdm/ref/collection/hr/id/60" target="_blank" rel="noreferrer noopener">“Nebraska folklore pamphlet: Farmers&#8217; Alliance songs of the 1890&#8217;s”</a> from Nebraska Memories, a digitized archival project from the Nebraska Library Commission</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Join us tomorrow for “Economics on Tap.” The <a href="https://www.youtube.com/@marketplaceAPM/streams">YouTube livestream</a> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/13/mms_20250313_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftariff-on-the-brain&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/13/mms_20250313_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftariff-on-the-brain&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/tariff-on-the-brain>
+
+---
+
+## Student loan borrowers blocked from more affordable repayment plans, for now
+
+date: 2025-03-13, from: Market Place
+
+The Education Department has paused applications to more affordable plans amid lawsuits against a Biden administration program known as SAVE.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/idr-plans-income-driven-repayment-student-loans-save-limbo-pause/>
+
+---
+
+## How Trump's reckless economic agenda united the country
+
+date: 2025-03-13, from: The Contrarian
+
+That's because tariffs are deeply unpopular. 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-trumps-reckless-economic-agenda>
+
+---
+
+## What’s behind the weakening of the U.S. dollar?
+
+date: 2025-03-13, from: Market Place
+
+Uncertainties about tariffs and inflation are part of the reason the value of the U.S. dollar has fallen sharply in the last few weeks.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/whats-behind-the-weakening-of-the-u-s-dollar/>
+
+---
+
+## By some measures, restaurant workers have gotten more productive
+
+date: 2025-03-13, from: Market Place
+
+Many restaurants are leaning more into takeout, which allows the same number of staff to produce more meals.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/by-some-measures-restaurant-workers-have-gotten-more-productive/>
+
+---
+
+## Is There a Murrow in the House?
+
+date: 2025-03-13, from: The Contrarian
+
+Edward R. Murrow exemplified a free press unbowed by autocracy&#8212;and if American democracy is to survive, we need his like again 
+
+<br> 
+
+<https://contrarian.substack.com/p/is-there-a-murrow-in-the-house>
+
+---
+
+## Tariffs are affecting America’s GDP. Here’s how.
+
+date: 2025-03-13, from: Market Place
+
+A January surge in imports will have a negative impact on GDP in the near term. A protracted trade war would drag down economic growth in the long run. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/tariff-gdp-growth-imports-goods-trade-deficit/>
+
+---
+
+## Trump’s deliberate destruction of biomedical research institutions
+
+date: 2025-03-13, from: The Contrarian
+
+The actions have ground NIH to a halt and sent shockwaves through academia and the biomedical research institutions. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-deliberate-destruction-of>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-13, from: The Contrarian
+
+Thursday: A sign that sums it up, a protest at SpaceX, protests in New York in support of a green card detainee, planning for March 14 protests and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## We Won! Federal Employees to be Re-hired Immediately 
+
+date: 2025-03-13, from: The Contrarian
+
+***Special Contrarian Alert*** 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159013256/62d3d8edd97f4c6f979044b0c1d85e63.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159013256/62d3d8edd97f4c6f979044b0c1d85e63.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/live-with-norman-eisen>
+
+---
+
+##  Dr. Oz Is Coming For Your Medicare 
+
+date: 2025-03-13, from: The Lever News
+
+ Trump has deployed television’s Dr. Mehmet Oz to auction off the country’s public health care system to the highest bidder.  
+
+<br> 
+
+<https://www.levernews.com/dr-oz-is-coming-for-your-medicare/>
+
+---
+
+## Domino Effect: Calculating the Dangers Posed by Medi-Cal Cuts
+
+date: 2025-03-13, from: Capital and Main
+
+<p>California could face a cascade of troubles if federal funding for health care is slashed.</p>
+<p>The post <a href="https://capitalandmain.com/domino-effect-calculating-the-dangers-posed-by-medi-cal-cuts">Domino Effect: Calculating the Dangers Posed by Medi-Cal Cuts</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/domino-effect-calculating-the-dangers-posed-by-medi-cal-cuts>
+
+---
+
+## Jess Piper and Jen Rubin on failing Democratic strategy in rural America
+
+date: 2025-03-13, from: The Contrarian
+
+Jess Piper joins Jen Rubin to talk about how Trump&#8217;s policies are disproportionately harming rural Americans, and how the Democratic Party cannot abandon the rural vote if they want to be successful. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158961083/a719194f721526bd0a849e1f361ca767.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158961083/a719194f721526bd0a849e1f361ca767.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jess-piper-and-jen-rubin-on-failing>
+
+---
+
+## Elon Musk's social insecurity
+
+date: 2025-03-13, from: The Contrarian
+
+The billionaire's reckless claims seem intended to manufacture outrage to justify an end to what he refers to as an &#8220;entitlement program.&#8221; 
+
+<br> 
+
+<https://contrarian.substack.com/p/elon-musks-social-insecurity>
+
+---
+
+## Businesses adapt to Miami Beach rules against spring break violence
+
+date: 2025-03-13, from: Market Place
+
+Years of chaos led to strict restrictions, but local businesses are wondering about the impact.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/businesses-adapt-to-miami-beach-rules-against-spring-break-violence/>
+
+---
+
+## Coffee with The Contrarians 03/13
+
+date: 2025-03-13, from: The Contrarian
+
+A recording from Coffee with The Contrarians 03/13 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158991317/623f83e19c99d1ba7571d8db007f815c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158991317/623f83e19c99d1ba7571d8db007f815c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0313>
+
+---
+
+## The Trump administration slashed staff at two tribal colleges. Students are suing.
+
+date: 2025-03-13, from: Market Place
+
+Haskell Indian Nations University and Southwestern Indian Polytechnic Institute each initially lost about 20% of their staff. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/trump-administration-federal-tribal-colleges-staff-cut/>
+
+---
+
+## High fire risk hasn’t yet harmed home values in California cities
+
+date: 2025-03-13, from: Market Place
+
+Many high-risk homes are in areas that are desirable because of location and home demand still outstrips supply. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/13/california-homes-climate-risk/>
 
 ---
 
@@ -102,7 +455,7 @@ date: 2025-03-12, from: Market Place, Make me Smart
 
 ---
 
-## Food inflation was 0% last month. But people who eat aren’t feeling relief.
+## Food inflation was 0% last month. But people aren’t feeling relief.
 
 date: 2025-03-12, from: Market Place
 
@@ -198,11 +551,11 @@ Our reaction to current events&#8212;and our commitment to action&#8212;requires
 
 ---
 
-## Tariff timeline: What is the status of the Trump administration’s tariffs?
+## What is the status of the Trump administration’s tariffs?
 
 date: 2025-03-12, from: Market Place
 
-It’s been a confusing ride. Here’s what tariffs are currently in place.  
+It’s been a confusing ride. Here’s a time line of what is happening and what tariffs are currently in place.  
 
 <br> 
 
@@ -309,18 +662,6 @@ History shows us what happens when private industry becomes so deeply embedded i
 <br> 
 
 <https://contrarian.substack.com/p/elon-musk-the-accidental-sovereign>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-12, from: The Contrarian
-
-Wednesday: A funny sign, protesting the detention of an anti-war organizer, protests in Pennsylvania and against Tesla, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

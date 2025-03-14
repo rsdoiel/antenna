@@ -1,11 +1,176 @@
 ---
 title: journalism
-updated: 2025-03-13 06:11:33
+updated: 2025-03-14 06:07:42
 ---
 
 # journalism
 
-(date: 2025-03-13 06:11:33)
+(date: 2025-03-14 06:07:42)
+
+---
+
+## 3 UCPD officers injured in stop of cyclist without proper lights resisting arrest
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three UCPD officers sustained minor injuries while stopping a person riding a bicycle without proper lights between late Wednesday night and early Thursday morning.&#160;
+The incident took place around 12:01 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/3-ucpd-officers-injured-in-stop-of-cyclist-without-proper-lights-resisting-arrest/>
+
+---
+
+## Annual Westwood Homeless Count compiles statistics to develop resources, policies
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles Homeless Services Authority gathered volunteers, from UCLA students and faculty to Westwood Village Ambassadors, to conduct the annual Westwood Homeless Count on Feb. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/annual-westwood-homeless-count-compiles-statistics-to-develop-resources-policies/>
+
+---
+
+## Melanin and Medicine seeks to open doors, community for pre-health Black students
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Melanin and Medicine began in 2019 as a way for Black students at UCLA pursuing health care careers  to support each other.
+But the club quickly expanded its mission &#8211; evolving into a nonprofit organization with the mission of supporting Black pre-health students and the greater Los Angeles community, said Laila Harris, the group&#8217;s chair of cardiology and assistant project service director. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/melanin-and-medicine-seeks-to-open-doors-community-for-pre-health-black-students/>
+
+---
+
+## UC faces over $270M in proposed budget cuts, threatening personnel and programs
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Experts said Gov. Gavin Newsom&#8217;s proposed budget cuts to the University could harm student enrollment and education quality. 
+The UC is facing over $270 million in budget cuts for the 2025-26 fiscal year, which could lead to reductions in course offerings and academic support services, according to the UC website. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/uc-faces-over-270m-in-proposed-budget-cuts-threatening-personnel-and-programs/>
+
+---
+
+## Westwood unveils pedestrian hub Broxton Plaza in hopes of revitalizing community
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles community celebrated the opening of the city&#8217;s largest pedestrian plaza Feb. 22.
+Beneath a towering blue-and-gold balloon arch, UCLA Chancellor Julio Frenk led a ribbon cutting ceremony, while community leaders took turns addressing the lively crowd of local families, UCLA students and local business owners in Westwood Village. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/westwood-unveils-pedestrian-hub-broxton-plaza-in-hopes-of-revitalizing-community/>
+
+---
+
+## Students, ASUCLA offer input on online textbook service Bruin One Access
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students have been able to receive their textbooks on a subscription basis since fall 2024.
+The Bruin One Access program, administered by ASUCLA, allows students to access their required course materials for $129 per quarter. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/students-asucla-offer-input-on-online-textbook-service-bruin-one-access/>
+
+---
+
+## Legal experts speak on reproductive rights under Trump at UCLA Law event
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+A panel of legal experts warned that recent federal executive orders threaten reproductive and gender rights during a UCLA School of Law event March 6.
+The panel – hosted by the UCLA Law Center on Reproductive Health, Law, and Policy, in partnership with Yale Law School’s Program for the Study of Reproductive Justice and Temple University Beasley School of Law – discussed issues in the growing fight for gender and reproductive justice under the new Trump administration. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/legal-experts-speak-on-reproductive-rights-under-trump-at-ucla-law-event/>
+
+---
+
+## Dance groups struggle to find rehearsal spaces amid John Wooden Center renovations
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Dance groups on campus will need to be more flexible when finding rehearsal space during the ongoing renovations at the John Wooden Center.
+Although UCLA Recreation will take steps to mitigate the renovations&#8217; impact on extracurricular student activities according to guidelines from the John Wooden Center Improvement Project, the dance community continues to face closures of practice spaces that began Jan. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/dance-groups-struggle-to-find-rehearsal-spaces-amid-john-wooden-center-renovations/>
+
+---
+
+## Experts discuss challenges faced by wild animal welfare science at UCLA seminar
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students and researchers gathered at the Terasaki Life Sciences Building to attend a wild animal welfare science seminar March 7.
+Researchers presented animal welfare case studies, challenges in measuring welfare and future directions for the field at the event. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/experts-discuss-challenges-faced-by-wild-animal-welfare-science-at-ucla-seminar/>
+
+---
+
+## USAC recap – March 4
+
+date: 2025-03-14, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Undergraduate Students Association Council called for excused absences for students impacted by immigration enforcement and the renaming of Campbell Hall at its meeting March 4. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/usac-recap-march-4-2/>
+
+---
+
+## What To Pack for a Study Abroad
+
+date: 2025-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/what-to-pack-for-a-study-abroad/>
+
+---
+
+## Local newsrooms are using AI to listen in on public meetings
+
+date: 2025-03-13, from: Nieman Journalism Lab
+
+On March 7, education reporter Hannah Dellinger published a story on the experiences of Michigan LGBTQ+ students since Donald Trump took office. Dellinger spoke to several students who have seen a rise in hate speech at school after the president signed a series of anti-trans executive orders. The lead voice in the story was Sebastian... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/local-newsrooms-are-using-ai-to-listen-in-on-public-meetings/>
+
+---
+
+## UCPD makes arrest for grand theft auto after student’s electronic bike is stolen
+
+date: 2025-03-13, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 13 at 11:54 a.m.</em>
+UCPD arrested one person Wednesday evening for grand theft auto after he stole a student’s electronic bike. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/13/ucpd-makes-arrest-for-grand-theft-auto-after-students-electronic-bike-is-stolen/>
 
 ---
 

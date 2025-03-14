@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-03-13 06:11:32
+updated: 2025-03-14 06:07:41
 ---
 
 # games
 
-(date: 2025-03-13 06:11:32)
+(date: 2025-03-14 06:07:41)
+
+---
+
+## 8 great thrillers to watch on Netflix right now
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+What is a thriller, anyway? It’s a genre that lacks the typical signifiers that something like horror, comedy, or romance might, but you know it when you feel it. Thrillers are exciting — it’s right there in the name — whether they come from the world of crime, sci-fi, or something else entirely. We’ve already [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/23402426/best-thrillers-watch-netflix-streaming-movies>
+
+---
+
+## Experts predict a huge June launch — and a high price — for Switch 2
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+Speaking to Bloomberg, game industry analysts have predicted that the Nintendo Switch 2 will enjoy the biggest console launch ever, despite costing at least $399 — and maybe as much as $499. Citing a group of analysts “who regularly communicate with [Nintendo] and its software and hardware partners,” Bloomberg said expectations within the industry and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/539639/nintendo-switch-2-analysts-launch-price-predictions>
+
+---
+
+## Shonen blockbuster Gachiakuta comes to Crunchyroll this July
+
+date: 2025-03-14, updated: 2025-03-13, from: Polygon Website
+
+Hit manga Gachiakuta reaches screens this summer, Crunchyroll announced Thursday. The adaptation of Kei Urana and Hideyoshi Andou’s series about supernaturally powered folks battling trash beasts in a tightly stratified and wasteful society will air exclusively on the streaming service starting in July. Fans can get a greater look at how the manga’s graffiti-inspired design [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/539360/gachiakuta-trailer-release-date-crunchyroll>
+
+---
+
+## The first main-series Silent Hill in 13 years finally has a new trailer
+
+date: 2025-03-13, updated: 2025-03-13, from: Polygon Website
+
+Silent Hill f, the first main-series entry in over a decade, is still on its way. Konami hasn’t mentioned it for quite some time, but a new trailer shown during a Silent Hill Transmission stream on Thursday confirms it’s still very real. The new trailer, which borrows imagery from what we saw of the game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/539535/silent-hill-f-trailer-konami-transmission>
+
+---
+
+## New Hunger Games book excerpt introduces Haymitch’s doomed girlfriend
+
+date: 2025-03-13, updated: 2025-03-13, from: Polygon Website
+
+The new Hunger Games book, Sunrise on the Reaping, continues to find ways to break our hearts before it’s even released.&#160; Suzanne Collins’ prequel novel, out March 18, is set 24 years before the events of The Hunger Games, and tells the origin story of Katniss’ gruff mentor, Haymitch Abernathy. The story picks up on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/539433/hunger-games-prequel-book-sunrise-on-the-reaping-excerpt>
+
+---
+
+## GTA Online update for the week of March 13
+
+date: 2025-03-13, updated: 2025-03-13, from: Polygon Website
+
+The weekly GTA Online update for March 13, 2025, is live with reward events, discounts, prizes, and some St. Patrick’s Day gear. Our GTA Online weekly update guide will tell you everything happening in Los Santos this week. GTA Online special events With last week’s launch of Oscar Guzman Flies Again, arms trafficking is still [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gta-online-guides/539317/march-13-weekly-update-events-arms-trafficking>
+
+---
+
+## How to find a tracktail lizard location in Monster Hunter Wilds
+
+date: 2025-03-13, updated: 2025-03-13, from: Polygon Website
+
+Tracktail lizards are adorable endemic life in Monster Hunter Wilds. You’ll need to capture them as part of an early side quest, “Dareel’s Research Report,” for the research team at the Windward Plains base camp. Our Monster Hunter Wilds guide will tell you where to find tracktail lizard locations and how to catch them. Update [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/531820/tracktail-lizards-location-where-to-find>
+
+---
+
+## How to transfer to Pokémon Home from Pokémon Go
+
+date: 2025-03-13, updated: 2025-03-13, from: Polygon Website
+
+For those with storage space problems, you can transfer your Pokémon Go Pokémon from the game to the Pokémon Home app, though it’s a one-way trip. In this Pokémon Go guide, we will explain how to transfer Pokémon from Pokémon Go to Pokémon Home, how much it costs to transfer Legendary Pokémon, and how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/22549040/home-transfer-app-switch-sword-shield-legendaries>
+
+---
+
+## Oh hell yes: Saber Interactive announces Space Marine 3
+
+date: 2025-03-13, updated: 2025-03-13, from: Polygon Website
+
+Space Marine 2 was a welcome return of a classic action game, and the sequel landed with a far bigger splash than the original game. After selling over four million copies, it’s not a surprise that Saber Interactive has announced that they have started development on Space Marine 3. According to a press release, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/539292/saber-space-marine-3-announcement>
+
+---
+
+## Who is Scopely, Pokémon Go’s new owner?
+
+date: 2025-03-13, updated: 2025-03-13, from: Polygon Website
+
+On Wednesday, Pokémon Go maker Niantic announced it was selling its games — which include Nintendo’s Pikmin Bloom and Capcom’s Monster Hunter Now —&#160;and the teams that make them to publisher Scopely in a deal worth $3.5 billion. While the news didn’t catch hardcore Pokémon Go players by surprise, Scopely’s acquisition of Pokémon Go was [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/538821/scopely-pokemon-go-niantic-savvy-games-group>
 
 ---
 

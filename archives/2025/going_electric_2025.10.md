@@ -1,11 +1,363 @@
 ---
 title: going electric
-updated: 2025-03-13 06:11:36
+updated: 2025-03-14 06:07:45
 ---
 
 # going electric
 
-(date: 2025-03-13 06:11:36)
+(date: 2025-03-14 06:07:45)
+
+---
+
+## Self-Healing 'Sandwich' EV Battery Aims To Cure Range Anxiety
+
+date: 2025-03-14, from: Inside EVs News
+
+Scientists say batteries that can repair themselves can be the "secret sauce" to improving range and lifespan. 
+
+<br> 
+
+<https://insideevs.com/news/753495/self-repairing-ev-battery-range-anxiety/>
+
+---
+
+## The X Games just banned electric motorcycles for being too good
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/stark-varg-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In yet another new example of an industry defying progress out of preference for “the old ways”, X Games riders and fans are going to be seeing a lot fewer electric motorcycles in the air this year. That’s after a new rule change has quietly banned electric motorcycles from competing. And the reasoning? It’s not fair to the gassers who are trying to keep up.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle" data-layer-viewtype="unknown" data-post-id="405852" href="https://electrek.co/2025/03/14/the-x-games-just-banned-electric-motorcycles-for-being-too-good/#more-405852" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/the-x-games-just-banned-electric-motorcycles-for-being-too-good/>
+
+---
+
+## Wheel-E Podcast: Clip BOLT e-bike kit, Rad CEO left, fancy Orbea unveil, more
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes a new e-bike it from Clip, Orbea’s unveiling of the Denna e-bike, our Velotric Nomad 2 review, Rad Power Bikes’ CEO has stepped down, Segway and Apollo are shipping new scooters, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="podcast,wheel-e-podcast" data-layer-viewtype="unknown" data-post-id="405785" href="https://electrek.co/2025/03/14/wheel-e-podcast-clip-bolt-e-bike-kit-rad-ceo-left-fancy-orbea-unveil-more/#more-405785" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/wheel-e-podcast-clip-bolt-e-bike-kit-rad-ceo-left-fancy-orbea-unveil-more/>
+
+---
+
+## Tesla Affordable EV Coming This Year As Smaller Model Y: Report
+
+date: 2025-03-14, from: Inside EVs News
+
+The new EV, codenamed “E41,” will use existing parts and assembly lines but will cost at least 20% less than the Model Y. 
+
+<br> 
+
+<https://insideevs.com/news/753516/tesla-more-affordable-ev-smaller-model-y-report/>
+
+---
+
+## Killing IRA EV tax credits will ruin US EV and battery industries – Princeton study
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/06/VW-1-million.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://zenodo.org/records/15001499" target="_blank" rel="noreferrer noopener">A new study</a> from the <a href="https://repeatproject.org/" target="_blank" rel="noreferrer noopener">REPEAT Project</a> led by Princeton University’s ZERO Lab warns that the repeal of Inflation Reduction Act (IRA) tax credits could decimate the growing EV manufacturing sector.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-manufacturing,donald-trump,electric-vehicles,evs,inflation-reduction-act,president-biden" data-layer-viewtype="unknown" data-post-id="405836" href="https://electrek.co/2025/03/13/ira-ev-tax-credits-princeton-study/#more-405836" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/ira-ev-tax-credits-princeton-study/>
+
+---
+
+## Cadillac’s most affordable EV just got even cheaper
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/Cadillacs-Optiq-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Optiq, <a href="https://electrek.co/guides/cadillac/">Cadillac’s</a> most affordable EV, just got a price cut. Despite being on the market for less than two months, GM cut lease prices by nearly $100 a month. Here’s how you can snag the deal.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac" data-layer-viewtype="unknown" data-post-id="405825" href="https://electrek.co/2025/03/13/cadillacs-most-affordable-ev-just-got-even-cheaper/#more-405825" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/cadillacs-most-affordable-ev-just-got-even-cheaper/>
+
+---
+
+## Tesla complains about being target of retaliatory tariffs, and it was right: it’s starting
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Canada-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s policy team sent a letter to the US government to complain about potentially being the target of retaliatory tariffs amid Trump’s trade war.</p>
+
+
+
+<p>The automaker was right, as Canada is already targeting Tesla directly with a few policy changes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405819" href="https://electrek.co/2025/03/13/tesla-complains-about-being-target-of-retaliatory-tariffs-and-it-was-right-its-starting/#more-405819" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/tesla-complains-about-being-target-of-retaliatory-tariffs-and-it-was-right-its-starting/>
+
+---
+
+## ChargePoint deploys DC fast charging stations in upstate New York – why it’s a win
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/ChargePoint-NYSERDA-New-York.jpg?quality=82&#038;strip=all&#038;w=1430" /></div><p>ChargePoint has brought five new DC fast charging stations online in upstate New York, supported by key funding from the New York State Energy Research and Development Authority (<a href="https://www.nyserda.ny.gov/All-Programs/Charging-Station-Programs." target="_blank" rel="noreferrer noopener">NYSERDA</a>). </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chargepoint,dc-fast-charging,new-york" data-layer-viewtype="unknown" data-post-id="405798" href="https://electrek.co/2025/03/13/chargepoint-dc-fast-charging-stations-upstate-new-york/#more-405798" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/chargepoint-dc-fast-charging-stations-upstate-new-york/>
+
+---
+
+## The Mercedes CLA EV is finally here and it has nearly 500 miles range: Here’s our first look
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Mercedes-CLA-EV-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The smartest, most efficient <a href="https://electrek.co/guides/mercedes-benz/">Mercedes-Benz</a> has just arrived. Mercedes unveiled the highly anticipated electric CLA today, its new entry-level EV. Will it live up to the hype as the latest Tesla Model 3 challenger? Here’s our first look at the electric Mercedes CLA.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mercedes-benz" data-layer-viewtype="unknown" data-post-id="405788" href="https://electrek.co/2025/03/13/mercedes-cla-ev-finally-here-nearly-500-miles-range/#more-405788" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/mercedes-cla-ev-finally-here-nearly-500-miles-range/>
+
+---
+
+## Tesla Cybertruck deliveries are on hold as trims are flying off the ‘bulletproof’ truck
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-cantrail-trim.png?w=1600" /></div><p>According to Tesla delivery agents, Cybertruck deliveries are on hold. There’s a containment hold as many owners are reporting trims flying off the supposedly ‘bulletproof’ electric truck.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="405756" href="https://electrek.co/2025/03/13/tesla-cybertruck-deliveries-are-on-hold-as-trims-are-flying-off-the-bulletproof-truck/#more-405756" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/tesla-cybertruck-deliveries-are-on-hold-as-trims-are-flying-off-the-bulletproof-truck/>
+
+---
+
+## Save $2,598+ on Anker’s new SOLIX F3800 Plus power station, Rad Power’s Spring Sale extra battery bundles, EGO T6 riding tractor, more
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Anker-SOLIX-F3800-Plus-Portable-Power-Station.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>We’ve got some great deals for you in today’s Green Deals, starting with Anker’s latest release of the <a href="https://9to5toys.com/2025/03/13/anker-launches-solix-f3800-plus/">SOLIX F3800 Plus Portable Power Station</a>, which is getting some massive launch savings in the form of a $1,600 price cut and a free 400W solar panel (valued at $899) for <a href="https://9to5toys.com/2025/03/13/anker-launches-solix-f3800-plus/">$3,199</a>. There’s even more to consider, with several bundle options seeing up to $4,600 in price cuts, as well as the various bonus savings, among others. We’ve also got <a href="https://9to5toys.com/2025/03/13/749-off-rad-power-e-bikes-spring-sale/">Rad Power’s Spring Sale</a> with up to $749 in e-bike savings, including continuing <a href="https://9to5toys.com/2025/03/13/749-off-rad-power-e-bikes-spring-sale/">RadRunner lows</a>, accessory packages on the latest models, and two extra battery bundles on the <a href="https://9to5toys.com/2025/03/13/749-off-rad-power-e-bikes-spring-sale/">RadRover 6 Plus and RadExpand 5 e-bikes</a> starting from <a href="https://9to5toys.com/2025/03/13/749-off-rad-power-e-bikes-spring-sale/">$1,299</a>. Bringing up the rear is <a href="https://9to5toys.com/2025/03/12/ego-t6-riding-tractor-new-3499-low/">EGO’s T6 56V 42-inch Cordless Riding Lawn Tractor</a> that is hitting a new <a href="https://9to5toys.com/2025/03/12/ego-t6-riding-tractor-new-3499-low/">$3,499</a> low, among the brand’s other riding mowers. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s new low price on the <a href="https://9to5toys.com/2025/03/11/gotraxs-everest-new-3979-low/">GoTrax Everest Electric Dirt Bike</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="405741" href="https://electrek.co/2025/03/13/anker-solix-f3800-plus-rad-power-spring-sale-ego-more/#more-405741" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/anker-solix-f3800-plus-rad-power-spring-sale-ego-more/>
+
+---
+
+## 2026 Mercedes CLA-Class: A 500-Mile EV Plus A Hybrid, Too
+
+date: 2025-03-13, from: Inside EVs News
+
+Mercedes is ditching the egg-like styling language and adding hybrid options to its electrified models. 
+
+<br> 
+
+<https://insideevs.com/news/753410/mercedes-cla-new-model-revealed/>
+
+---
+
+## Orbea unveils Denna: A fancy shmancy mid-drive electric road bike tuned for gravel
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/orbea-gravel-bike-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The latest addition to <a href="https://www.orbea.com/us-en/">Orbea’s</a> electric road bike lineup is here, and it’s designed to handle more than just pavement. The Orbea Denna, announced today, is a gravel-optimized electric road bike that builds on the company’s previous experience with models like the Gain and Terra. Featuring a mid-drive motor “tuned specifically for off-road conditions”, the Denna aims to blend power, range, and versatility for riders looking to tackle everything from steep climbs to loose trails.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="405435" href="https://electrek.co/2025/03/13/orbea-unveils-denna-a-fancy-shmancy-mid-drive-electric-road-bike-tuned-for-gravel/#more-405435" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/orbea-unveils-denna-a-fancy-shmancy-mid-drive-electric-road-bike-tuned-for-gravel/>
+
+---
+
+## Toyota hints at Tacoma and 4Runner EVs for the US
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-Tacoma-4Runner-EVs-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The electric Tacoma and 4Runner may not be a pipe dream after all. <a href="https://electrek.co/guides/toyota/">Toyota</a> is hinting that EV versions of the popular pickup and SUV could be coming to the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="405734" href="https://electrek.co/2025/03/13/toyota-hints-at-tacoma-4runner-evs-for-the-us/#more-405734" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/toyota-hints-at-tacoma-4runner-evs-for-the-us/>
+
+---
+
+## Toyota Just Proved That Electric Vehicles Aren't Going Anywhere
+
+date: 2025-03-13, from: Inside EVs News
+
+More importantly, neither is electrification. The world's largest automaker's next moves show where everything is headed. 
+
+<br> 
+
+<https://insideevs.com/news/753201/toyota-ev-strategy-2026-kenshiki/>
+
+---
+
+## Elon Musk is giving Trump another $100 million just after the President did an ad for Tesla
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Trump-Tesla-white-house.png?w=1600" /></div><p>Elon Musk is reportedly giving Trump another $100 million just after the President did an ad for Tesla at the White House.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405567" href="https://electrek.co/2025/03/13/elon-musk-is-giving-trump-another-100-million-just-after-the-president-did-an-ad-for-tesla/#more-405567" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/elon-musk-is-giving-trump-another-100-million-just-after-the-president-did-an-ad-for-tesla/>
+
+---
+
+## BYD sub-brand Yangwang to launch ultra-luxe U7 sedan on March 27 with tons of new tech
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Yangwang-U7-launch.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd-yangwang/">Yangwang</a> is gearing up to officially launch its long-teased U7 sedan—a third flagship model for BYD’s high-end performance sub-brand. When it hits the market in China later this month, the U7 promises competitive luxury and “groundbreaking technology.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,byd-yangwang,yangwang-u7" data-layer-viewtype="unknown" data-post-id="405713" href="https://electrek.co/2025/03/13/byd-yangwang-launch-u7-sedan-march-27-new-tech/#more-405713" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/byd-yangwang-launch-u7-sedan-march-27-new-tech/>
+
+---
+
+## Another luxury automaker is tapping into China’s EV tech goldmine
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/luxury-automaker-China-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Yet another luxury automaker is looking to cash in on <a href="https://electrek.co/guides/china/">China’s</a> EV tech boom. As legacy OEMs struggle to keep pace, more are turning to Chinese-made tech to help turn things around.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,mercedes-benz" data-layer-viewtype="unknown" data-post-id="405714" href="https://electrek.co/2025/03/13/another-luxury-automaker-tapping-into-chinas-ev-tech-goldmine/#more-405714" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/another-luxury-automaker-tapping-into-chinas-ev-tech-goldmine/>
+
+---
+
+## America’s EV Sales Are Climbing Despite The Chaos
+
+date: 2025-03-13, from: Inside EVs News
+
+Despite a lot of political headwinds, the EV market is still growing. Let's see if it holds. 
+
+<br> 
+
+<https://insideevs.com/news/753444/us-ev-sales-climb-despite-the-chaos/>
+
+---
+
+## BETA Technologies completes demonstration eCTOL flights across 6 airports in Utah [Video]
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/eVTOL-Utah-BETA-Technologies.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Mere weeks after signing an agreement with Utah Aerospace and Defense to bring Advanced Air Mobility (AAM) to the state, eVTOL and eCTOL developer <a href="https://electrek.co/guides/beta-technologies/">BETA Technologies</a> demonstrated the capabilities of its aircraft through a series of successful flights over the course of three days.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="beta-technologies,evtol,utah" data-layer-viewtype="unknown" data-post-id="405695" href="https://electrek.co/2025/03/13/beta-technologies-completes-demonstration-ectol-flights-utah-video/#more-405695" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/beta-technologies-completes-demonstration-ectol-flights-utah-video/>
+
+---
+
+## Tesla’s upcoming cheaper electric car is basically a stripped-down Model Y
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Model-Y-refreshed-interior.png?w=1600" /></div><p>Tesla is preparing to launch a couple of new more affordable electric vehicles and the first one is expected to basically be a stripped-down Model Y, according to a new report from China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405684" href="https://electrek.co/2025/03/13/tesla-upcoming-cheaper-electric-car-stripped-down-model-y/#more-405684" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/tesla-upcoming-cheaper-electric-car-stripped-down-model-y/>
+
+---
+
+## China’s 'Smart Car' Tech Could Get To The U.S. Through Volkswagen
+
+date: 2025-03-13, from: Inside EVs News
+
+Volkswagen is teaming up with a Geely-backed hardware and software company, and they have their eyes on the U.S. as well. 
+
+<br> 
+
+<https://insideevs.com/news/753442/volkswagen-china-smart-car-usa/>
+
+---
+
+## The Toyota Yaris is finally getting an EV version, but don’t get too excited just yet
+
+date: 2025-03-13, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-Yaris-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Toyota’s beloved compact car is finally going fully electric. The company confirmed an EV version of the Yaris is in the works, but it may be a while before you can get your hands on one. Here’s what we know about the <a href="https://electrek.co/guides/toyota/">Toyota</a> Yaris EV so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="405681" href="https://electrek.co/2025/03/13/toyota-yaris-getting-ev-version-but-dont-get-too-excited-yet/#more-405681" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/13/toyota-yaris-getting-ev-version-but-dont-get-too-excited-yet/>
 
 ---
 

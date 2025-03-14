@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-03-13 06:11:35
+updated: 2025-03-14 06:07:44
 ---
 
 # retro computing
 
-(date: 2025-03-13 06:11:35)
+(date: 2025-03-14 06:07:44)
+
+---
+
+## Rougol March 2025 meeting on  monday - Richard Brown
+
+date: 2025-03-14, from: Icon Bar, RISC OS News
+
+The March 2025 Rougol meeting on Monday 17th March. The action which kicks off at 6.30pm in the Duke of Sussex and online at 7.30pm on Zoom (usual link or contact Rougol for one). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2173.html>
 
 ---
 

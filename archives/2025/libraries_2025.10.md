@@ -1,11 +1,51 @@
 ---
 title: libraries
-updated: 2025-03-13 06:11:34
+updated: 2025-03-14 06:07:43
 ---
 
 # libraries
 
-(date: 2025-03-13 06:11:34)
+(date: 2025-03-14 06:07:43)
+
+---
+
+## ARL Advocates for Humanities, Library Funding on Capitol Hill
+
+date: 2025-03-14, from: Association of Research Libraries News
+
+<p>Last Updated on March 14, 2025, 8:11 am ET Hundreds of advocates from across the US met with members of Congress on the National Humanities Alliance (NHA) annual Humanities Advocacy...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-advocates-for-humanities-library-funding-on-capitol-hill/">ARL Advocates for Humanities, Library Funding on Capitol Hill</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-advocates-for-humanities-library-funding-on-capitol-hill/>
+
+---
+
+## A Tradition Like No Other: The Minnesota State High School All Hockey Hair Team
+
+date: 2025-03-14, from: Scholarly Kitchen
+
+<p>A spectacular crop of lettuce at this year's edition of the traditional mullet spotting competition.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/14/a-tradition-like-no-other-the-minnesota-state-high-school-all-hockey-hair-team/">A Tradition Like No Other: The Minnesota State High School All Hockey Hair Team</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/14/a-tradition-like-no-other-the-minnesota-state-high-school-all-hockey-hair-team/>
+
+---
+
+## The Homemaker, by Dorothy Canfield Fisher
+
+date: 2025-03-13, from: Standard Ebooks, new releaases
+
+A small-town housewife discovers a new sense of purpose after she begins to work to support her family and injured husband. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/dorothy-canfield-fisher/the-homemaker>
 
 ---
 
@@ -20,6 +60,30 @@ date: 2025-03-13, from: Scholarly Kitchen
 <br> 
 
 <https://scholarlykitchen.sspnet.org/2025/03/13/research-integrity-content-provenance-and-c2pa/>
+
+---
+
+## Precipitation of corrosion products in macroscopic voids at the steel–concrete interface: observations, mechanisms and research needs
+
+date: 2025-03-13, from: ETH Zurich, recently added
+
+Mundra, Shishir; Rossi, Emanuele; Malenica, Luka; Pundir, Mohit; Angst, Ueli 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/727144>
+
+---
+
+## Discovery of RNA and associated RNA-binding proteins in the extracellular space: toward the foundation of cell-free RNA fragmentomics
+
+date: 2025-03-13, from: ETH Zurich, recently added
+
+Stürchler, Alessandra 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/726939>
 
 ---
 
@@ -116,7 +180,7 @@ Access to cultural heritage is not a luxury; it&#8217;s a necessity. Founded in 
 
 date: 2025-03-10, from: Association of Research Libraries News
 
-<p>Last Updated on March 12, 2025, 4:06 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 11 &#124; Wednesday, March 12 &#124; Thursday, March 13 Monday, March 10...</p>
+<p>Last Updated on March 13, 2025, 4:47 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 11 &#124; Wednesday, March 12 &#124; Thursday, March 13 Monday, March 10...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-10-13/">Day in Review (March 10–13)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

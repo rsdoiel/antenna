@@ -1,11 +1,109 @@
 ---
 title: ham radio
-updated: 2025-03-13 06:11:29
+updated: 2025-03-14 06:07:39
 ---
 
 # ham radio
 
-(date: 2025-03-13 06:11:29)
+(date: 2025-03-14 06:07:39)
+
+---
+
+## The evolution of PCBs and the demands of modern electronics
+
+date: 2025-03-14, from: EDN Blog
+
+<img width="724" height="482" src="https://www.edn.com/wp-content/uploads/Hero-image-flexible-PCBs.jpg?fit=724%2C482" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-flexible-PCBs.jpg?w=724 724w, https://www.edn.com/wp-content/uploads/Hero-image-flexible-PCBs.jpg?w=300 300w" sizes="(max-width: 724px) 100vw, 724px" /><p>Here are some examples of the ongoing efforts to make PCBs more aligned with today’s electronic designs.</p>
+<p>The post <a href="https://www.edn.com/the-evolution-of-pcbs-and-the-demands-of-modern-electronics/" data-wpel-link="internal">The evolution of PCBs and the demands of modern electronics</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-evolution-of-pcbs-and-the-demands-of-modern-electronics/>
+
+---
+
+## MPU targets endpoint vision AI
+
+date: 2025-03-14, from: EDN Blog
+
+<img width="800" height="442" src="https://www.edn.com/wp-content/uploads/Renesas-RZ_V2N.jpg?fit=800%2C442" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Renesas-RZ_V2N.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Renesas-RZ_V2N.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Renesas-RZ_V2N.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>The Renesas RZ/V2N quad-core MPU integrates an AI accelerator, achieving up to 15 TOPS of AI inference using pruning technology.</p>
+<p>The post <a href="https://www.edn.com/mpu-targets-endpoint-vision-ai/" data-wpel-link="internal">MPU targets endpoint vision AI</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/mpu-targets-endpoint-vision-ai/>
+
+---
+
+## iToF sensor provides on-chip depth processing
+
+date: 2025-03-14, from: EDN Blog
+
+<img width="800" height="441" src="https://www.edn.com/wp-content/uploads/onsemi-Hyperlux-AF0130.jpg?fit=800%2C441" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/onsemi-Hyperlux-AF0130.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/onsemi-Hyperlux-AF0130.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/onsemi-Hyperlux-AF0130.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>An indirect time-of-flight sensor, the AF0130 from onsemi offers long-distance measurements and 3D imaging of fast-moving objects.</p>
+<p>The post <a href="https://www.edn.com/itof-sensor-provides-on-chip-depth-processing/" data-wpel-link="internal">iToF sensor provides on-chip depth processing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/itof-sensor-provides-on-chip-depth-processing/>
+
+---
+
+## Buck regulator boosts transient response and stability
+
+date: 2025-03-14, from: EDN Blog
+
+<img width="800" height="469" src="https://www.edn.com/wp-content/uploads/Kinetic-KTB8400.jpg?fit=800%2C469" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Kinetic-KTB8400.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Kinetic-KTB8400.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Kinetic-KTB8400.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Kinetic’s KTB4800 2.4-MHz, 3-A buck regulator delivers fast transient response with precise switching frequency.</p>
+<p>The post <a href="https://www.edn.com/buck-regulator-boosts-transient-response-and-stability/" data-wpel-link="internal">Buck regulator boosts transient response and stability</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/buck-regulator-boosts-transient-response-and-stability/>
+
+---
+
+## Gate driver photocoupler simplifies SiC MOSFET control
+
+date: 2025-03-14, from: EDN Blog
+
+<img width="800" height="457" src="https://www.edn.com/wp-content/uploads/Toshiba-TLP5814H.jpg?fit=800%2C457" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Toshiba-TLP5814H.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Toshiba-TLP5814H.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Toshiba-TLP5814H.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Housed in a small SO8L package, Toshiba’s TLP5814H gate driver photocoupler provides an active Miller clamp for driving SiC MOSFETs.</p>
+<p>The post <a href="https://www.edn.com/gate-driver-photocoupler-simplifies-sic-mosfet-control/" data-wpel-link="internal">Gate driver photocoupler simplifies SiC MOSFET control</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/gate-driver-photocoupler-simplifies-sic-mosfet-control/>
+
+---
+
+## 32-bit MCUs pack FPU and fast analog
+
+date: 2025-03-14, from: EDN Blog
+
+<img width="800" height="439" src="https://www.edn.com/wp-content/uploads/Microchip-PIC32A.jpg?fit=800%2C439" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Microchip-PIC32A.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Microchip-PIC32A.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Microchip-PIC32A.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Microchip’s PIC32A 32-bit MCUs feature an FPU coprocessor that performs both 32-bit and 64-bit operations for math-intensive tasks.</p>
+<p>The post <a href="https://www.edn.com/32-bit-mcus-pack-fpu-and-fast-analog/" data-wpel-link="internal">32-bit MCUs pack FPU and fast analog</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/32-bit-mcus-pack-fpu-and-fast-analog/>
+
+---
+
+## Peak power point
+
+date: 2025-03-13, from: EDN Blog
+
+<img width="556" height="351" src="https://www.edn.com/wp-content/uploads/Peak-Power-Point-8.png?fit=556%2C351" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Peak-Power-Point-8.png?w=556 556w, https://www.edn.com/wp-content/uploads/Peak-Power-Point-8.png?w=300 300w" sizes="auto, (max-width: 556px) 100vw, 556px" /><p>A walkthrough on discovering the peak power point by finding the equality between the load resistance to the source resistance.</p>
+<p>The post <a href="https://www.edn.com/peak-power-point/" data-wpel-link="internal">Peak power point </a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/peak-power-point/>
 
 ---
 
@@ -13,7 +111,7 @@ updated: 2025-03-13 06:11:29
 
 date: 2025-03-13, from: EDN Blog
 
-<img width="2064" height="1376" src="https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?fit=2064%2C1376" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=2064 2064w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=1900 1900w" sizes="(max-width: 2064px) 100vw, 2064px" /><p>Here is why Lip-Bu Tan’s appointment to Intel’s top job makes sense in the prevailing circumstances.</p>
+<img width="2064" height="1376" src="https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?fit=2064%2C1376" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=2064 2064w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=1024 1024w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=1536 1536w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=2048 2048w, https://www.edn.com/wp-content/uploads/Hero-image-Intel-Lip-Bu-Tan-CEO.jpg?w=1900 1900w" sizes="auto, (max-width: 2064px) 100vw, 2064px" /><p>Here is why Lip-Bu Tan’s appointment to Intel’s top job makes sense in the prevailing circumstances.</p>
 <p>The post <a href="https://www.edn.com/intels-new-ceo-what-you-need-to-know/" data-wpel-link="internal">Intel’s new CEO: What you need to know</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -27,7 +125,7 @@ date: 2025-03-13, from: EDN Blog
 
 date: 2025-03-12, from: EDN Blog
 
-<img width="848" height="592" src="https://www.edn.com/wp-content/uploads/100MHzVFC_Figure1.png?fit=848%2C592" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/100MHzVFC_Figure1.png?w=848 848w, https://www.edn.com/wp-content/uploads/100MHzVFC_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/100MHzVFC_Figure1.png?w=768 768w" sizes="(max-width: 848px) 100vw, 848px" /><p>This VFC borrows some of Williams’ pioneering ideas and combines them with a few of Woodward’s tricks to reach 100-MHz full scale frequency.</p>
+<img width="848" height="592" src="https://www.edn.com/wp-content/uploads/100MHzVFC_Figure1.png?fit=848%2C592" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/100MHzVFC_Figure1.png?w=848 848w, https://www.edn.com/wp-content/uploads/100MHzVFC_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/100MHzVFC_Figure1.png?w=768 768w" sizes="auto, (max-width: 848px) 100vw, 848px" /><p>This VFC borrows some of Williams’ pioneering ideas and combines them with a few of Woodward’s tricks to reach 100-MHz full scale frequency.</p>
 <p>The post <a href="https://www.edn.com/100-mhz-vfc-with-tbh-current-pump/" data-wpel-link="internal">100-MHz VFC with TBH current pump</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

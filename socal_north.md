@@ -1,11 +1,265 @@
 ---
 title: socal north
-updated: 2025-03-13 06:11:29
+updated: 2025-03-14 06:07:38
 ---
 
 # socal north
 
-(date: 2025-03-13 06:11:29)
+(date: 2025-03-14 06:07:38)
+
+---
+
+## More rain and snow in store for SoCal
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+We're not totally clear of the storm system, but the brunt of it has passed. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rain-snow-socal-weather-forecast>
+
+---
+
+## Can’t get to Tokyo to watch the Dodgers next week? Here’s how to eat like a Japanese fan
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+The L.A. Dodgers will face the Chicago Cubs in a historic matchup at the Tokyo Dome, live at 3 a.m. on Tuesday morning. What should be on your opening day menu? 
+
+<br> 
+
+<https://laist.com/news/food/tokyo-dodgers-next-week-how-to-eat-like-a-japanese-fan>
+
+---
+
+## Free entry at L.A. museums this weekend
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+Dozens of museums will participate in the annual event organized by SoCal MUSEUMS 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/free-entry-at-l-a-museums-this-weekend>
+
+---
+
+## California and other states sue to halt massive layoffs at US Department of Education
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+Under Trump’s directive, the Department of Education laid off half its staff. The lawsuit argues Trump has no authority to make such drastic changes. 
+
+<br> 
+
+<https://laist.com/news/education/california-other-states-sue-to-halt-massive-layoffs-at-u-s-department-of-education>
+
+---
+
+## Trump threatens a 200% tariff on European alcohol
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+European wines, champagne and other beverages could face heavy tariffs if Trump follows through with this threat. 
+
+<br> 
+
+<https://laist.com/news/trump-threatens-a-200-tariff-on-european-alcohol>
+
+---
+
+## The Education Department is being cut in half. Here's what's being lost
+
+date: 2025-03-13, updated: 2025-03-14, from: The LAist
+
+The U.S. Education Department's Office for Civil Rights, Institute of Education Sciences and Office of Federal Student Aid were especially impacted by the cuts announced on Tuesday. 
+
+<br> 
+
+<https://laist.com/news/the-education-department-is-being-cut-in-half-heres-whats-being-lost>
+
+---
+
+## LA wildfire debris is going to local landfills. Neighbors of one worry it’s toxic
+
+date: 2025-03-13, updated: 2025-03-14, from: The LAist
+
+Officials say the waste headed for the Calabasas landfill won't harm public health, but protesting residents living nearby aren't convinced. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-wildfire-debris-local-landfills-toxic-concerns>
+
+---
+
+## Council looks at vehicle code
+
+date: 2025-03-13, from: Catalina Islander
+
+The Avalon City Council discussed the city’s vehicle code on March 4. The council took no action. Staff will come back to the council at a later time. Assistant City Manager Joycelyn Francis began the discussion. She said she has worked for city for two years. She said the city vehicle code was more than [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/council-looks-at-vehicle-code/>
+
+---
+
+## Leo’s Catalina Drugstore shares information about Medicare prescription coverage and payment plans
+
+date: 2025-03-13, from: Catalina Islander
+
+Catalina Island Health and Leo’s Catalina Drugstore know that navigating Medicare can be confusing. To help sort it out for the community, they are specifically sharing information about Medicare Drug Coverage (Part D), ways to lower your drug costs, and the Medicare Prescription Payment Plan. If you are on Medicare, your total costs for drug [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/leos-catalina-drugstore-shares-information-about-medicare-prescription-coverage-and-payment-plans/>
+
+---
+
+## St Patrick’s Day Dinner
+
+date: 2025-03-13, from: Catalina Islander
+
+By popular demand the St Patrick’s Day Dinner and fundraiser at St. Catherine’s Church will return this year on Saturday, March 15. The menu offerings are a traditional Corned Beef and cabbage dinner or Pork Chili Verde plate, both served with potatoes, carrots, dinner roll, coffee and home baked dessert, all for $20. We also [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/st-patricks-day-dinner/>
+
+---
+
+## Avalon Braves the Shave- inaugural St. Baldrick’s event
+
+date: 2025-03-13, from: Catalina Islander
+
+Join us to have some fun – and be a hero for kids with cancer. The St. Baldrick’s Foundation is a volunteer-driven charity dedicated to raising funds for childhood cancer research. One of its most impactful and visible events is the head-shaving fundraiser, where participants show solidarity with kids battling cancer by shaving their heads [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/avalon-braves-the-shave-inaugural-st-baldricks-event/>
+
+---
+
+## White House withdraws controversial pick to run the CDC
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+Dr. Dave Weldon, Trump's pick for director of the Centers for Disease Control and Prevention, was withdrawn from consideration shortly before a scheduled Senate confirmation hearing. 
+
+<br> 
+
+<https://laist.com/news/health/white-house-withdraws-controversial-pick-to-run-the-cdc>
+
+---
+
+## From Groundbreakings to Grand Openings!
+
+date: 2025-03-13, from: City of Santa Clarita
+
+<p>By Councilmember Patsy Ayala As you drive through Santa Clarita, you may have noticed something exciting – new projects are taking shape all around the City! From long-anticipated park renovations to innovative public spaces, these enhancements are designed to make our community even more accessible and enjoyable. Last year, we celebrated with several groundbreaking ceremonies, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/13/from-groundbreakings-to-grand-openings/">From Groundbreakings to Grand Openings!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/13/from-groundbreakings-to-grand-openings/>
+
+---
+
+## As global tariff tensions rise, here's the latest on U.S. trade with top partners
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+President Trump has upended global markets by imposing tariffs on imports from several of America's top trading partners. Here's what to know. 
+
+<br> 
+
+<https://laist.com/news/global-tariff-tensions-rise-heres-the-latest-u-s-trade-with-top-partners>
+
+---
+
+## NIH cuts funding for vaccine-hesitancy research. mRNA research may be next
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+The National Institutes of Health is terminating dozens of studies examining why people are hesitant about vaccines and how to increase uptake. 
+
+<br> 
+
+<https://laist.com/news/health/nih-cuts-funding-for-vaccine-hesitancy-research-mrna-research-may-be-next>
+
+---
+
+## Thousands of fired federal workers must be offered reinstatement, a judge rules
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+Thousands of probationary federal employees fired by the Trump administration must be offered job reinstatement, a judge in San Francisco has ruled, because they were terminated unlawfully. 
+
+<br> 
+
+<https://laist.com/news/politics/thousands-of-fired-federal-workers-must-be-offered-reinstatement-a-judge-rules>
+
+---
+
+## LA County supervisors to vote on pulling over $300M annual taxpayer dollars out of homeless services agency
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+The proposal comes after a pair of scathing audits about the L.A. Homeless Services Authority, known as LAHSA. If approved, the money would instead be directly overseen by the county. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-homeless-exit-vote-horvath-barger>
+
+---
+
+## Nearly 300 homes were torn down for multi-year 5 Freeway widening project
+
+date: 2025-03-13, updated: 2025-03-14, from: The LAist
+
+This is the first time Californians have seen this level of transparency about Caltrans projects. Statewide, 13 projects completed between 2018 and 2023 resulted in more than 620 home and business needing to be relocated. 
+
+<br> 
+
+<https://laist.com/news/transportation/highway-expansions-5-california-relocations-la-county>
+
+---
+
+## A small tornado touched down in Pico Rivera, uprooting trees. Here's why they periodically hit LA
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+The tornado early Thursday lasted 2 minutes and was around 1 mile long and 80 yards wide, officials confirmed. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/tornado-pico-rivera-damage-la-explainer>
+
+---
+
+## Brilliant young minds honored in prestigious science competition
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+A Pasadena resident is among the student winners of the prestigious Regeneron Science Talent Search, America's oldest science and math competition. 
+
+<br> 
+
+<https://laist.com/news/education/brilliant-young-minds-honored-prestigious-science-competition>
+
+---
+
+## Best things to do this weekend in LA and SoCal: March 14-16
+
+date: 2025-03-13, updated: 2025-03-13, from: The LAist
+
+Free museums, cheering on the L.A. Marathon runners, a colorful Holi celebration, Here There Are Blueberries at the Wallis, Pi Day and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-march-14-16>
 
 ---
 
@@ -311,9 +565,9 @@ A new conservancy will oversee work to improve vegetation, water quality and nat
 
 ---
 
-## Michelin adds 7 LA eateries to its guide
+## These 7 LA restaurants just made the prestigious Michelin Guide for the first time
 
-date: 2025-03-12, updated: 2025-03-12, from: The LAist
+date: 2025-03-12, updated: 2025-03-13, from: The LAist
 
 These LA-area restaurants could also receive a Bib Gourmand affordable dining award or even a star at the awards event in August. 
 

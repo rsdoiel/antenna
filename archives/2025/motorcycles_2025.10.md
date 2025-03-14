@@ -1,11 +1,99 @@
 ---
 title: motorcycles
-updated: 2025-03-13 06:11:35
+updated: 2025-03-14 06:07:44
 ---
 
 # motorcycles
 
-(date: 2025-03-13 06:11:35)
+(date: 2025-03-14 06:07:44)
+
+---
+
+## A Half-Drunk UTV Driver Nearly Killed a Game Warden, Leading to a Shoot Out
+
+date: 2025-03-14, from: Ride Apart, Electric Motorcycle News
+
+And his daughter didn't have a license, either.  
+
+<br> 
+
+<https://www.rideapart.com/news/753486/utv-driver-game-warden-sentenced-mark-szczerba-wisconsin/>
+
+---
+
+## This Classic Honda Mini Car Is Getting a Big Superbike Horsepower Boost
+
+date: 2025-03-14, from: Ride Apart, Electric Motorcycle News
+
+Hollowing out the classic kei car shell, then giving it a delicious modern superbike filling. 
+
+<br> 
+
+<https://www.rideapart.com/news/753472/honda-n600-cbr1000rr-engine-swap/>
+
+---
+
+## This Custom Indian Scout Is Going To Look So Mean When It's Done
+
+date: 2025-03-14, from: Ride Apart, Electric Motorcycle News
+
+Black and silver all the way down. 
+
+<br> 
+
+<https://www.rideapart.com/news/753469/aaron-colton-indian-scout-build/>
+
+---
+
+## Yamaha Launches Its First 150cc Hybrid Bike, But Only In India
+
+date: 2025-03-14, from: Ride Apart, Electric Motorcycle News
+
+Could this tech eventually find its way to bigger bikes with more global appeal?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753378/yamaha-150cc-hybrid-bike-launched-india/>
+
+---
+
+## Alpinestars’ New Tech-Air 5 Plasma Airbag Vest Looks Super Sleek and Versatile
+
+date: 2025-03-14, from: Ride Apart, Electric Motorcycle News
+
+This standalone system works with pretty much anything in your gear arsenal. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753382/alpinestars-tech-air-5-plasma-details-specs-price/>
+
+---
+
+## This Limited BMW R 12 Pays Tribute To a Little-Known French Comic Book Heroine
+
+date: 2025-03-13, from: Ride Apart, Electric Motorcycle News
+
+Only 15 of these Julie Wood-inspired BMW R 12s will ever be produced.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753229/bmw-r12-julie-wood-limited-edition-france/>
+
+---
+
+## This Kawasaki Motorcycle Now Comes With Built-In Dash Cams, At Least In Japan
+
+date: 2025-03-13, from: Ride Apart, Electric Motorcycle News
+
+Is this a feature you’d like to come standard on all new motorcycles?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753228/kawasaki-ninja-1100sx-built-in-cameras/>
 
 ---
 

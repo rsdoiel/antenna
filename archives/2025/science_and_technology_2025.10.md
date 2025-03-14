@@ -1,19 +1,331 @@
 ---
 title: science and technology
-updated: 2025-03-13 06:11:30
+updated: 2025-03-14 06:07:40
 ---
 
 # science and technology
 
-(date: 2025-03-13 06:11:30)
+(date: 2025-03-14 06:07:40)
+
+---
+
+## AI running out of juice despite Microsoft's hard squeezing
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Biz leaders still dream of obedient agents replacing workers. In the actual workplace, they&#39;re going AWOL</h4> <p><strong>Opinion</strong>  I am so sick and tired of AI hype. I&#39;m not the only one.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/ai_running_out_of_juice/>
+
+---
+
+## Dash to Panel maintainer quits after donations drive becomes dash to disaster
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Tin rattling earns rebuke from GNOME extension&#39;s original developer as well as dozens of everyday users</h4> <p>The maintainer of one of the most popular extensions to customize the GNOME desktop is stepping down and seeking someone to take over development after a fundraising effort backfired.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/dashtopanel_maintainer_quits/>
+
+---
+
+## New kids on the ransomware block channel Lockbit to raid Fortinet firewalls
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>It&#39;s March already and you haven&#39;t patched?</h4> <p>Researchers are tracking a newly discovered ransomware group with suspected links to LockBit after a series of intrusions were reported starting in January.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/ransomware_gang_lockbit_ties/>
+
+---
+
+## Hubble Sees a Spiral and a Star
+
+date: 2025-03-14, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features a sparkling spiral galaxy paired with a prominent star, both in the constellation Virgo. While the galaxy and the star appear to be close to one another, even overlapping, they’re actually a great distance apart. The star, marked with four long diffraction spikes, is in our own galaxy. […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-sees-a-spiral-and-a-star/>
+
+---
+
+## Pirate Bay financier and far-right activist Carl Lundström dies in plane crash
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Mooney M20 propeller plane hit mountain in Slovenia amid bad weather</h4> <p>One of the initial backers of infamous torrenting site The Pirate Bay, Carl Lundström, has died after crashing his aircraft in bad weather.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/carl_lundstrom_pirate_bay/>
+
+---
+
+## User complained his mouse wasn’t working. But he wasn’t using a mouse
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>The same chap also caused a bomb scare in a missile factory</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register</i>&#39;s Friday column in which we share your astounding tales of being asked to tackle tech support jobs that seemingly defy common sense.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/on_call/>
+
+---
+
+## Saturn runs rings around Jupiter
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Ratification of 128 additional moons puts the smaller gas giant way ahead on satellite count</h4> <p>The International Astronomical Union on Tuesday ratified the recent discovery of 128 previously unknown moons orbiting Saturn, taking the gas giant’s count of known natural satellites to 274.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/128_more_saturnian_moons/>
+
+---
+
+## India investigates whether Uber makes iPhone users pay more to ride
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Rideshare companies said it isn’t happening. Lawmakers aren’t convinced</h4> <p>India’s government has ordered an investigation into whether Uber and local ride-share champion charge Ola customers more if they use iPhones.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/india_rideshare_differential_pricing_investigation/>
+
+---
+
+## Judge orders Feds rehire workers falsely fired for lousy performance
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Veteran of Oracle vs Google Java trial fumes over &#39;gimmicks&#39; and &#39;sham&#39; arguments</h4> <p>A federal judge has ordered six US government agencies to immediately rehire employees fired this year by the Trump administration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/government_jobs_ruling/>
+
+---
+
+## Haiku gets new malloc implementation, removes Gopher support from its browser
+
+date: 2025-03-13, from: OS News
+
+We&#8217;ve got the Haiku activity report covering February, and aside from the usual slew of bug fixes and minor improvements, there&#8217;s one massive improvement that deserves attention. waddlesplash continued his ongoing memory management improvements, fixes, and cleanups, implementing more cases of resizing (expanding/shrinking) memory areas when there’s a virtual memory reservation adjacent to them (and writing tests for these cases) in the kernel. These changes were the last remaining piece needed before the new malloc implementation for userland (mostly based on OpenBSD’s malloc, but with a few additional optimizations and a Haiku-specific process-global cache added) could be merged and turned on by default. There were a number of followup fixes to the kernel and the new allocator’s “glue” and global caching logic since, but the allocator has been in use in the nightlies for a few weeks with no serious issues. It provides modest performance improvements over the old allocator in most cases, and in some cases that were pathological for the old allocator (GCC LTO appears to have been one), provides order-of-magnitude (or mode) performance improvements. ↫ waddlesplash on the Haiku website Haiku also continues replacing implementations of standard C functions with those from musl, Haiku can now be built on FreeBSD and Linux distributions that use musl, C5/C6 C-states were disabled for Intel Skylake to fix boot problems on that platform, and many, many more changes. There&#8217;s also bad news for fans of Gopher: support for the protocol was removed from WebPositive, Haiku&#8217;s native web browser. 
+
+<br> 
+
+<https://www.osnews.com/story/141921/haiku-gets-new-malloc-implementation-removes-gopher-support-from-its-browser/>
+
+---
+
+## Dems ask federal agencies for reassurance DOGE isn't feeding data into AI willy-nilly
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Pouring sensitive info into unapproved, unaccountable, unsafe models would be a &#39;severe&#39; cybersecurity fail</h4> <p>House Democrats have sent letters to 24 federal agencies asking for assurances that Elon Musk&#39;s DOGE team is not feeding sensitive government data into &#34;unapproved and unaccountable&#34; AI systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/democrat_letter_doge_ai_use/>
+
+---
+
+## WinRing0: why Windows is flagging your PC monitoring and fan control apps as a threat
+
+date: 2025-03-13, from: OS News
+
+When I checked where Windows Defender had actually detected the threat, it was in the Fan Control app I use to intelligently cool my PC. Windows Defender had broken it, and that’s why my fans were running amok. For others, the threat was detected in Razer Synapse, SteelSeries Engine, OpenRGB, Libre Hardware Monitor, CapFrameX, MSI Afterburner, OmenMon, FanCtrl, ZenTimings, and Panorama9, among many others. “As of now, all third-party/open-source hardware monitoring softwares are screwed,” Fan Control developer Rémi Mercier tells me. ↫ Sean Hollister at The Verge Anyone reading OSNews can probably solve this puzzle. Many fan control and hardware monitoring applications for Windows make use of the same open source driver: WinRing0. Uniquely, this kernel-level driver is signed, since it&#8217;s from back in the days when developers could self-sign these sorts of drivers, but the signed version has a known vulnerability that&#8217;s quite dangerous considering it&#8217;s a kernel-level driver. The vulnerability has been fixed, but signing this new version &#8211; and keeping it signed &#8211; is a big ordeal and quite expensive, since these days, drivers have to be signed by Microsoft. And it just so happens that Windows Defender has started marking this driver, and thus any tool that uses it, as dangerous, sending it to quarantine. The result is failing hardware monitoring and fan control applications for quite a few Windows users. Some companies have invested in developing their own closed-source alternatives, but they&#8217;re not sharing them. Luckily, Windows OEM iBuyPower says it&#8217;s trying to get the patched version of WinRing0 signed, and if that happens, they will share it back with the community. Classy. For now, though, hardware monitoring and fan control on Windows might be a bit of an ordeal. 
+
+<br> 
+
+<https://www.osnews.com/story/141916/winring0-why-windows-is-flagging-your-pc-monitoring-and-fan-control-apps-as-a-threat/>
+
+---
+
+## KDE splits KWin into kwin_x11 and kwin_wayland
+
+date: 2025-03-13, from: OS News
+
+One of the biggest behind-the-scenes changes in the upcoming Plasma 6.4 release is the split of kwin_x11 and kwin_wayland codebases. With this blog post, I would like to delve in what led us to making such a decision and what it means for the future of kwin_x11. ↫ Vlad Zahorodnii For the most part, this change won&#8217;t mean much for users of KWin on either Wayland or X11, at least for now. At least for the remainder of the Plasma 6.x life cycle, kwin_x11 will be maintained, and despite the split, you can continue to have both kwin_x11 and kwin_wayland installed and use them interchangeably. Don&#8217;t expect any new features, though; kwin_x11 will get the usual bug fixes, some backports, and they&#8217;ll make sure it keeps working with any new KDE frameworks introduced during the 6.x cycle, but that&#8217;s all you&#8217;re going to get if you&#8217;re using KDE on X11. There&#8217;s one area where this split might cause problems, though, and that&#8217;s if you&#8217;re using a particular type of KWin extension. While KWin extensions written in JavaScript and QML are backend agnostic and can be used without issues on both variants of KWin, extensions written in C++ are not. These extensions need to be coded specifically for either kwin_x11 or kwin_wayland, and with Wayland being the default for KDE, this may mean some of these extensions will leave X11 users behind to reduce the maintenance burden. It seems that very few people are still using KDE on X11, and kwin_x11 doesn&#8217;t receive much testing anymore, so it makes sense to start preparations for the inevitable deprecation. While I think the time of X11 on Linux has come and gone, it&#8217;s unclear what this will mean for KDE on the BSDs. While Wayland is available on all of the BSDs in varying states of maturity, I honestly don&#8217;t know if they&#8217;re ready for a Wayland-only KDE at this point in time. 
+
+<br> 
+
+<https://www.osnews.com/story/141914/kde-splits-kwin-into-kwin_x11-and-kwin_wayland/>
+
+---
+
+## We did not have Brave clashing with Rupert Murdoch on our 2025 bingo card, but there it is
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Indie browser maker asks judge for legal shield against copyright threats over AI summaries</h4> <p>Brave has gone to court to head off potential legal action from News Corp over the browser maker&#39;s auto-generated AI summaries of articles published by Rupert Murdoch&#39;s media empire.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/brave_news_corp_content/>
+
+---
+
+## Navigating a Slanted River
+
+date: 2025-03-13, from: NASA breaking news
+
+Written by Denise Buckner, Postdoctoral Fellow at NASA’s Goddard Space Flight Center  Perseverance is hard at work on Mars, overcoming obstacles for scientific exploration! Just a few sols after successfully sealing the challenging Green Gardens core, Perseverance roved on to the Broom Point workspace to collect another sample called Main River. Broom Point is situated […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/navigating-a-slanted-river/>
+
+---
+
+## Google says it's rolling out fix for stricken Chromecasts
+
+date: 2025-03-13, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>It&#39;ll take a few days, give or take your situation</h4> <p>Google has told <i>The Register</i> it&#39;s beginning to roll out a fix for Chromecast devices that were crippled by an expired security certificate authority. We&#39;re assured this deployment will take place over the next few days.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/google_chromecast_fix/>
+
+---
+
+## OpenAI asks Uncle Sam to let it scrape everything, stop other countries complaining
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>The rest of the world doesn&#39;t think &#39;fair use&#39; is fair but we should make &#39;em</h4> <p><strong>Updated</strong>  OpenAI wants the US government to ensure it has access to any data it wants to train GenAI models, and to stop foreign countries from trying to enforce copyright rules against it and other American AI firms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/openai_data_copyright/>
+
+---
+
+## Starliner astronauts' stay drags on as Crew-10 launch scrubs
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Hydraulic problems stop the countdown clock at T-44 minutes</h4> <p>The launch of the next crew to the International Space Station (ISS) was postponed to no earlier than Friday, March 14, due to a hydraulic issue with a group support clamp arm for the SpaceX Falcon 9 rocket during March 12&#39;s countdown.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/starliner_duo_get_bonus_days/>
+
+---
+
+## NASA Researchers Study Coastal Wetlands, Champions of Carbon Capture
+
+date: 2025-03-13, from: NASA breaking news
+
+In the Florida Everglades, NASA’s BlueFlux Campaign investigates the relationship between tropical wetlands and greenhouse gases. 
+
+<br> 
+
+<https://science.nasa.gov/earth/nasa-researchers-study-coastal-wetlands-champions-of-carbon-capture/>
+
+---
+
+## NASA Analysis Shows Unexpected Amount of Sea Level Rise in 2024
+
+date: 2025-03-13, from: NASA breaking news
+
+Last year’s increase was due to an unusual amount of ocean warming, combined with meltwater from land-based ice such as glaciers. Global sea level rose faster than expected in 2024, mostly because of ocean water expanding as it warms, or thermal expansion. According to a NASA-led analysis, last year’s rate of rise was 0.23 inches [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-analysis-shows-unexpected-amount-of-sea-level-rise-in-2024/>
+
+---
+
+## That 'angry guest' email from Booking.com? It's a scam, not a 1-star review
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Phishers check in, your credentials check out, Microsoft warns</h4> <p>An ongoing phishing campaign disguised as a Booking.com email casts keystroke and credential-stealing malware into hospitality employees&#39; inboxes for financial fraud and theft, according to Microsoft Threat Intelligence.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/bookingdotcom_phishing_campaign/>
+
+---
+
+## New Conversations, Deep Questions, Bold Ideas in Season Four of ‘The Joy of Why’
+
+date: 2025-03-13, from: Quanta Magazine
+
+Steven Strogatz and Janna Levin return for a new season on major scientific and mathematical questions of our time, with 12 all-new episodes and a new format.            <p>The post <a href="https://www.quantamagazine.org/new-conversations-deep-questions-bold-ideas-in-season-four-of-the-joy-of-why-20250313/" target="_blank">New Conversations, Deep Questions, Bold Ideas in Season Four of ‘The Joy of Why’</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/new-conversations-deep-questions-bold-ideas-in-season-four-of-the-joy-of-why-20250313/>
+
+---
+
+## Microsoft tempted to hit the gas as renewables can't keep up with AI
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>So much for &#39;carbon negative by 2030&#39;</h4> <p>Microsoft says there is plenty of wind and solar to power datacenters in the US, but it is still eyeing natural gas generation as it juggles the growing energy needs of AI with its own net-zero commitments.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/microsoft_natural_gas_ai/>
+
+---
+
+## CISA: We didn't fire red teams, we just unhired a bunch of them
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Agency tries to save face as it also pulls essential funding for election security initiatives</h4> <p>Uncle Sam&#39;s cybersecurity agency is trying to save face by seeking to clear up what it&#39;s calling &#34;inaccurate reporting&#34; after a former senior pen-tester claimed the organization axed two red teams.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/cisa_red_team_layoffs/>
+
+---
+
+## NASA Cameras on Blue Ghost Capture First-of-its-Kind Moon Landing Footage
+
+date: 2025-03-13, from: NASA breaking news
+
+A team at NASA’s Langley Research Center in Hampton, Virginia, has captured first-of-its-kind imagery of a lunar lander’s engine plumes interacting with the Moon’s surface, a key piece of data as trips to the Moon increase in the coming years under the agency’s Artemis campaign. The Stereo Cameras for Lunar-Plume Surface Studies (SCALPSS) 1.1 instrument [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-cameras-on-blue-ghost-capture-first-of-its-kind-moon-landing-footage/>
+
+---
+
+## DeepSeek can be gently persuaded to spit out malware code
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>It might need polishing, but a useful find for any budding cybercrooks out there</h4> <p>DeepSeek&#39;s flagship R1 model is capable of generating a working keylogger and basic ransomware code, just as long as a techie is on hand to tinker with it a little.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/deepseek_malware_code/>
 
 ---
 
 ## ESA cuts the ribbon on 34,000-core Space HPC center tailored for space workloads
 
-date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+date: 2025-03-13, updated: 2025-03-14, from: The Register (UK I.T. News)
 
-<h4>It’s called &#39;SpaceHPC&#39; and it heats the building it lives in</h4> <p>The European Space Agency this week inaugurated its new supercomputing facility built with HPE.…</p> 
+<h4>PUE of 1.09 and heats the building it lives in</h4> <p>The European Space Agency this week inaugurated its new supercomputing facility built with HPE.…</p> 
 
 <br> 
 
@@ -54,6 +366,18 @@ date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/13/birmingham_oracle_inquiry/>
+
+---
+
+## Google slips built-in terminal, Debian Linux VM into Android 15 March feature drop
+
+date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
+
+<h4>Try it out now on Pixel phones for some penguin on penguin fun</h4> <p>The March &#34;feature drop&#34; for Android 15 on Google Pixel devices includes an optional Linux session.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/13/android_15_linux_debian_terminal/>
 
 ---
 
@@ -109,7 +433,7 @@ date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
 
 date: 2025-03-13, updated: 2025-03-13, from: The Register (UK I.T. News)
 
-<h4>Google apologizes but won’t say what went wrong nor when it will make things right</h4> <p>Older models of Google’s Chromecast media-streaming sticks remain broken, and independent research suggests a fix could take potentially weeks to materialize.…</p> 
+<h4>Google apologizes but won’t say what went wrong nor when it will make things right</h4> <p><strong>Updated</strong>  Older models of Google’s Chromecast media-streaming sticks remain broken, and independent research suggests a fix could take potentially weeks to materialize.…</p> 
 
 <br> 
 
@@ -227,7 +551,7 @@ In Canada, where the American national anthem has been booed during hockey match
 
 ## Intel's new CEO: Chip world veteran Lip-Bu Tan
 
-date: 2025-03-12, updated: 2025-03-12, from: The Register (UK I.T. News)
+date: 2025-03-12, updated: 2025-03-13, from: The Register (UK I.T. News)
 
 <h4>Restoring x86 giant to its former glory, a job no one will envy</h4> <p>Intel has tapped former Cadence CEO and Intel board member Lip-Bu Tan to lead the embattled x86 chipmaker as it struggles to overcome mounting losses stemming from its foundry business.…</p> 
 

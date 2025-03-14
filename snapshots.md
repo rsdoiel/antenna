@@ -1,11 +1,688 @@
 ---
 title: snapshots
-updated: 2025-03-13 06:11:37
+updated: 2025-03-14 06:07:46
 ---
 
 # snapshots
 
-(date: 2025-03-13 06:11:37)
+(date: 2025-03-14 06:07:46)
+
+---
+
+## PureOS Crimson Development Report: February 2025
+
+date: 2025-03-14, from: Purism News and Events
+
+<p>Great to see you again!  In our January update, we worked on enabling essential functionality for the Librem 5 in PureOS Crimson.  This time, we're working on something a little different - a solution to a longstanding issue that applies to both Byzantium and Crimson.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/pureos-crimson-development-report-february-2025/">PureOS Crimson Development Report: February 2025</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/pureos-crimson-development-report-february-2025/>
+
+---
+
+## Join my live video chat with the mighty Maureen Dowd today at 1pET. 
+
+date: 2025-03-14, from: Tina Brown
+
+We'll cover her new book Notorious and all the news that's unfit to discuss! 
+
+<br> 
+
+<https://tinabrown.substack.com/p/join-my-live-video-chat-with-the>
+
+---
+
+## PAM unixsock
+
+date: 2025-03-14, from: Miek Giebin blog
+
+Ever felt the need to do something with PAM, like implementing 2FA in SSH? You are left with a few bad choices, among others you&rsquo;ll need to write something (complex) in C. I rather not do that, so I&rsquo;ve created pam-unixsock.
+This is a tiny, the most trouble I had with concatenating strings with a space in between, because, you know, C. Anyway tiny.
+github.com/AlDanial/cloc v 2.02 T=0.01 s (711.7 files/s, 48601. 
+
+<br> 
+
+<https://miek.nl/2025/march/14/pam-unixsock/>
+
+---
+
+## Everybody Hates Elon
+
+date: 2025-03-14, from: Paul Krugman
+
+And other tales of collapsing confidence 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/everybody-hates-elon>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-14, from: Robert's feed at BlueSky)
+
+Call your senators!!!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkctswiipk2d>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-14, from: Robert's feed at BlueSky)
+
+This is a very good idea.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkcjej5e2c2d>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-14, from: Robert's feed at BlueSky)
+
+This is way cool and I hope to be able to try it out in the Fall!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkciydeyss2d>
+
+---
+
+## Quoting Steve Klabnik
+
+date: 2025-03-14, updated: 2025-03-14, from: Simon Willison’s Weblog
+
+<blockquote cite="https://steveklabnik.com/writing/choosing-languages/"><p>[...] in 2013, I did not understand that the things I said had meaning. I hate talking about this because it makes me seem more important than I am, but it’s also important to acknowledge. I saw myself at the time as just Steve, some random guy. If I say something on the internet, it’s like I’m talking to a friend in real life, my words are just random words and I’m human and whatever. It is what it is.</p>
+<p>But at that time in my life, that wasn’t actually the case. I was on the Rails team, I was speaking at conferences, and people were reading my blog and tweets. I was an “influencer,” for better or worse. But I hadn’t really internalized that change in my life yet. And so I didn’t really understand that if I criticized something, it was something thousands of people would see.</p></blockquote>
+<p class="cite">&mdash; <a href="https://steveklabnik.com/writing/choosing-languages/">Steve Klabnik</a>, Choosing Languages</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/steve-klabnik">steve-klabnik</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/14/steve-klabnik/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-14, from: Dave Winer's linkblog)
+
+Columbia University says it expelled some students who seized building last year. 
+
+<br> 
+
+<https://apnews.com/article/columbia-university-protests-c148d1d01718a4482541a6df6cad8d74?link_source=ta_bluesky_link&taid=67d34fd4b8a1ef00010f59c2>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-14, from: Robert's feed at BlueSky)
+
+I remember this 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkcea66xyc2r>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-14, from: Robert's feed at BlueSky)
+
+Wrote up some of my recent experience with large language models generating web components, https://rsdoiel.github.io/blog/2025/03/13/Building_Web_Component_using_an_LLM.html 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkce4iw74k2r>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-14, from: Dave Winer's linkblog)
+
+AOC: &quot;American people, whether they are Republicans, independents, Democrats, are up in arms about Elon Musk and the actual gutting of federal agencies across the board.&quot; It’s the people, dummy. 
+
+<br> 
+
+<https://www.rawstory.com/alexandria-ocasio-cortez-2671325343/>
+
+---
+
+## Adding AI-generated descriptions to my tools collection
+
+date: 2025-03-13, updated: 2025-03-13, from: Simon Willison’s Weblog
+
+<p>The <a href="https://tools.simonwillison.net/colophon">/colophon</a> page on my <a href="https://tools.simonwillison.net/">tools.simonwillison.net</a> site lists all 78 of the HTML+JavaScript tools I've built (with <a href="https://simonwillison.net/tags/ai-assisted-programming/">AI assistance</a>) along with their commit histories, including links to prompting transcripts. I wrote about <a href="https://simonwillison.net/2025/Mar/11/using-llms-for-code/#a-detailed-example">how I built that colophon</a> the other day. It now also includes a description of each tool, generated using Claude 3.7 Sonnet.</p>
+<p><img src="https://static.simonwillison.net/static/2025/colophon-llm-prices.jpg" alt="llm-prices.html # The LLM Pricing Calculator helps you estimate costs when using various large language models. Enter the number of input tokens (your prompts) and output tokens (AI responses), along with their respective pricing per million tokens, to calculate the total cost in both dollars and cents. The calculator includes a comprehensive list of preset pricing for popular models like GPT-4o, Claude 3, Gemini, and more. Each preset displays the cost per million tokens for both input and output, which automatically populates the calculator fields when selected. The calculator updates in real-time as you modify values, making it easy to compare costs across different models or estimate expenses for specific usage scenarios. 148bc1 October 16, 2024 20:50 Create llm-prices.html https://gist.github.com/simonw/6b684b5f7d75fb82034fc963cc487530 2e0a70 October 25, 2024 16:32 o1-preview and o1-mini " style="max-width: 100%;" /></p>
+<p>This is the single largest chunk of AI-generated text I've ever published on the indexable web. I share lots of LLM transcripts but I usually put them in a secret Gist such that they'll be kept out of search engines.</p>
+<p>On the one hand this feels <a href="https://simonwillison.net/tags/slop/">slop adjacent</a> - but I was never going to write documentation for all 78 of those little experiments, yet I find myself forgetting details of how they worked. Just one example: my <a href="https://tools.simonwillison.net/colophon#csv-marker-map.html">CSV marker map</a> tool which I built last year for knocking out an <a href="https://tools.simonwillison.net/csv-marker-map?center=39.061909385087624%2C-96.50390625000001&amp;zoom=5&amp;csv=https%3A%2F%2Fgist.githubusercontent.com%2Fsimonw%2Fdb5c00b61abb61847ece2480d96e96d2%2Fraw%2Fb76475d9f25dec235b89822ed54f9f1b84394df3%2Fsightings.csv">ad-hoc Bigfoot sightings map</a> and then promptly forgot what it could do.</p>
+<p>Here's what I got when I ran:</p>
+<pre><code>cat csv-marker-map.html | llm -m claude-3.7-sonnet \
+  --system "Write a paragraph of documentation for this page as markdown. Do not include a heading. Do not use words like just or simply."
+</code></pre>
+<blockquote>
+<p>This interactive map displays markers based on data from a CSV file. Load data by adding <code>?csv=URL</code> to the page URL, where the CSV must include <code>latitude</code> and <code>longitude</code> columns. You can customize the map with several URL parameters: <code>center</code> (coordinates in format <code>lat,lng</code>), <code>zoom</code> (zoom level), <code>q</code> (location to search for), <code>marker</code> (add individual markers at coordinates), and <code>color</code> (change the default marker color). The map automatically updates the URL as you navigate, preserving your current view. Markers from CSV files appear as small colored circles on the map, while markers specified directly in the URL use the default Leaflet marker style.</p>
+</blockquote>
+<p>That's genuinely useful. I <a href="https://claude.ai/share/6a07415a-6f72-4e79-90c2-7dc780d60a0d">got Claude</a> to write me a <a href="https://github.com/simonw/tools/blob/main/write_docs.py">write_docs.py</a> script to loop through all 78 files and generate <code>filename.docs.md</code> descriptions that live in the repo, then <a href="https://github.com/simonw/tools/blame/5322f55a2e7006541e80a5ffe13aeb89c74c6cef/build_colophon.py#L195-L213">updated build_colophon.py</a> to include those descriptions if they exist.</p>
+<p>It cost about $1.08 in Claude credits to document all 78 tools, because some of those HTML files were quite long so the input tokens added up.</p>
+<p>Each of the documentation files includes a comment with the most recent commit hash of the file that was used to generate the document, like this:</p>
+<pre><code>&lt;!-- Generated from commit: 7c6af8eeabc7682b5f9ec2621e34bc771c5471d8 --&gt;
+</code></pre>
+<p>The tool can use this to spot if a file has been updated - if so, the documentation will be regenerated.</p>
+<p>Add this all together and now I can drop new HTML+JavaScript tools into my <a href="https://github.com/simonw/tools">simonw/tools</a> repo and, moments later, they'll be published on <a href="https://tools.simonwillison.net/">tools.simonwillison.net</a> with auto-generated descriptions added to my <a href="https://tools.simonwillison.net/colophon">colophon</a>. I think that's pretty neat!</p>
+<p><strong>Update</strong>: I decided that the descriptions were too long, so I modified the script to add "Keep it to 2-3 sentences" to the end of the system prompt. These new, shorter descriptions are now live - <a href="https://github.com/simonw/tools/commit/b9eadb0255e269d865ec1ba3c385760cac7b15b7">here's the diff</a>. Total usage was 283,528 input tokens and 6,010 output tokens for a cost of 94 cents.</p>
+<p>The new, shorter description for <code>csv-marker-map.html</code> looks like this:</p>
+<blockquote>
+<p>This page creates an interactive map with markers based on CSV data. It accepts parameters in the URL to set the center, zoom level, search query, individual markers, and a CSV file URL for bulk marker placement. The markers are displayed on an OpenStreetMap base layer, and the map view automatically updates the URL when panned or zoomed.</p>
+</blockquote>
+<p>For comparison, here's a copy of <a href="https://static.simonwillison.net/static/2025/colophon-longer-descriptions.html">the previous colophon</a> with the longer descriptions.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/slop">slop</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/13/tools-colophon/#atom-everything>
+
+---
+
+## Quoting Evan Miller
+
+date: 2025-03-13, updated: 2025-03-13, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html"><p>One of the most essential practices for maintaining the long-term quality of computer code is to write automated tests that ensure the program continues to act as expected, even when other people (including your future self) muck with it.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.evanmiller.org/functional-tests-as-a-tree-of-continuations.html">Evan Miller</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/testing">testing</a>, <a href="https://simonwillison.net/tags/evan-miller">evan-miller</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/13/evan-miller/#atom-everything>
+
+---
+
+## Xata Agent
+
+date: 2025-03-13, updated: 2025-03-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/xataio/agent">Xata Agent</a></strong></p>
+Xata are a hosted PostgreSQL company who also develop the open source <a href="https://github.com/xataio/pgroll">pgroll</a> and <a href="https://github.com/xataio/pgstream">pgstream</a> schema migration tools.</p>
+<p>Their new "Agent" tool is a system that helps monitor and optimize a PostgreSQL server using prompts to LLMs.</p>
+<p>Any time I see a new tool like this I go hunting for the prompts. It looks like the main system prompts for orchestrating the tool <a href="https://github.com/xataio/agent/blob/69329cede85d4bc920558c019df51f111cc5068d/apps/dbagent/src/lib/ai/aidba.ts#L25-L48">live here</a> - here's a sample:</p>
+<blockquote>
+<p><code>Provide clear, concise, and accurate responses to questions.
+Use the provided tools to get context from the PostgreSQL database to answer questions.
+When asked why a query is slow, call the explainQuery tool and also take into account the table sizes.
+During the initial assessment use the getTablesAndInstanceInfo, getPerfromanceAndVacuumSettings, 
+and getPostgresExtensions tools. 
+When asked to run a playbook, use the getPlaybook tool to get the playbook contents. Then use the contents of the playbook
+as an action plan. Execute the plan step by step.</code></p>
+</blockquote>
+<p>The really interesting thing is those playbooks, each of which is implemented as a prompt in the <a href="https://github.com/xataio/agent/blob/69329cede85d4bc920558c019df51f111cc5068d/apps/dbagent/src/lib/tools/playbooks.ts">lib/tools/playbooks.ts</a> file. There are six of these so far:</p>
+<ul>
+<li><code>SLOW_QUERIES_PLAYBOOK</code></li>
+<li><code>GENERAL_MONITORING_PLAYBOOK</code></li>
+<li><code>TUNING_PLAYBOOK</code></li>
+<li><code>INVESTIGATE_HIGH_CPU_USAGE_PLAYBOOK</code></li>
+<li><code>INVESTIGATE_HIGH_CONNECTION_COUNT_PLAYBOOK</code></li>
+<li><code>INVESTIGATE_LOW_MEMORY_PLAYBOOK</code></li>
+</ul>
+<p>Here's the full text of <code>INVESTIGATE_LOW_MEMORY_PLAYBOOK</code>:</p>
+<blockquote>
+<pre><code>Objective:
+To investigate and resolve low freeable memory in the PostgreSQL database.
+
+Step 1:
+Get the freeable memory metric using the tool getInstanceMetric.
+
+Step 3:
+Get the instance details and compare the freeable memory with the amount of memory available.
+
+Step 4:
+Check the logs for any indications of memory pressure or out of memory errors. If there are, make sure to report that to the user. Also this would mean that the situation is critical.
+
+Step 4:
+Check active queries. Use the tool getConnectionsGroups to get the currently active queries. If a user or application stands out for doing a lot of work, record that to indicate to the user.
+
+Step 5:
+Check the work_mem setting and shared_buffers setting. Think if it would make sense to reduce these in order to free up memory.
+
+Step 6:
+If there is no clear root cause for using memory, suggest to the user to scale up the Postgres instance. Recommend a particular instance class.
+</code></pre>
+</blockquote>
+<p>This is the first time I've seen prompts arranged in a "playbooks" pattern like this. What a weird and interesting way to write software!
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43356039">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/postgresql">postgresql</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/13/xata-agent/#atom-everything>
+
+---
+
+## Lilbits: Microsoft keeps adding AI to Notepad, a fix for broken Chromecasts, and Android 16 Beta 3
+
+date: 2025-03-13, from: Liliputing
+
+<p>Microsoft Notepad has been around for decades, offering a simple tool for viewing and editing text-based documents on Windows computers. But last year Microsoft started to adding features like a spell checker (useful), and an AI-powered Rewrite utility that lets you lengthen, shorten, or adjust the tone of text (ugh). Now Microsoft is rolling out [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-microsoft-keeps-adding-ai-to-notepad-a-fix-for-broken-chromecasts-and-android-16-beta-3/">Lilbits: Microsoft keeps adding AI to Notepad, a fix for broken Chromecasts, and Android 16 Beta 3</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-microsoft-keeps-adding-ai-to-notepad-a-fix-for-broken-chromecasts-and-android-16-beta-3/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+Severance Cannot Save You. 
+
+<br> 
+
+<https://www.theatlantic.com/culture/archive/2025/03/severance-season-2-episode-7-gemma/681953/?gift=f35zZN0v_gDFE8xNwlQAHQ_6xgF_wiGuzo-06HQPeoM&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+Gruber: Something Is Rotten in the State of Cupertino. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino>
+
+---
+
+## Quoting Ai2
+
+date: 2025-03-13, updated: 2025-03-13, from: Simon Willison’s Weblog
+
+<blockquote cite="https://allenai.org/blog/olmo2-32B"><p>Today we release <strong>OLMo 2 32B</strong>, the most capable and largest model in the OLMo 2 family, scaling up the OLMo 2 training recipe used for our <a href="https://allenai.org/blog/olmo2">7B and 13B models released in November</a>. It is trained up to 6T tokens and post-trained using Tulu 3.1. OLMo 2 32B is the <strong>first fully-open model</strong> (all data, code, weights, and details are freely available) <strong>to outperform GPT3.5-Turbo and GPT-4o mini</strong> on a suite of popular, multi-skill academic benchmarks.</p></blockquote>
+<p class="cite">&mdash; <a href="https://allenai.org/blog/olmo2-32B">Ai2</a>, OLMo 2 32B release announcement</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai2">ai2</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a>, <a href="https://simonwillison.net/tags/training-data">training-data</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/13/ai2/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-13, from: Feed for Alt USDS)
+
+Well, well, well - look who's back. https://www.nytimes.com/2025/03/13/us/politics/trump-federal-workers-rehire-ruling.html
+https://www.nytimes.com/2025/03/13/us/politics/trump-federal-workers-rehire-ruling.html?smid=nytcore-android-share 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkbych32tc2z>
+
+---
+
+## Anthropic API: Text editor tool
+
+date: 2025-03-13, updated: 2025-03-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://docs.anthropic.com/en/docs/build-with-claude/tool-use/text-editor-tool">Anthropic API: Text editor tool</a></strong></p>
+Anthropic released a new "tool" today for text editing. It looks similar to the tool they offered as part of their <a href="https://docs.anthropic.com/en/docs/agents-and-tools/computer-use#understand-anthropic-defined-tools">computer use beta API</a>, and the trick they've been using for a while in both Claude Artifacts and the new <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a> to more efficiently edit files there.</p>
+<p>The new tool requires you to implement several commands:</p>
+<ul>
+<li><code>view</code> - to view a specified file - either the whole thing or a specified range</li>
+<li><code>str_replace</code> - execute an exact string match replacement on a file</li>
+<li><code>create</code> - create a new file with the specified contents</li>
+<li><code>insert</code> - insert new text after a specified line number</li>
+<li><code>undo_edit</code> - undo the last edit made to a specific file</li>
+</ul>
+<p>Providing implementations of these commands is left as an exercise for the developer.</p>
+<p>Once implemented, you can have conversations with Claude where it knows that it can request the content of existing files, make modifications to them and create new ones.</p>
+<p>There's quite a lot of assembly required to start using this. I tried <a href="https://claude.ai/share/97bde411-20d4-4549-a34f-27954a5ab564">vibe coding an implementation</a> by dumping a copy of the documentation into Claude itself but I didn't get as far as a working program - it looks like I'd need to spend a bunch more time on that to get something to work, so my effort is currently abandoned.</p>
+<p>This was introduced as in a post on <a href="https://www.anthropic.com/news/token-saving-updates">Token-saving updates on the Anthropic API</a>, which also included a simplification of their token caching API and a new <a href="https://docs.anthropic.com/en/docs/build-with-claude/tool-use/token-efficient-tool-use">Token-efficient tool use (beta)</a> where sending a <code>token-efficient-tools-2025-02-19</code> beta header to Claude 3.7 Sonnet can save 14-70% of the tokens needed to define tools and schemas.
+
+    <p><small></small>Via <a href="https://twitter.com/alexalbert__/status/1900235498502898072">@alexalbert__</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/claude-artifacts">claude-artifacts</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/13/anthropic-api-text-editor-tool/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+If your name is Lydia, there&#39;s a song for you. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=rmfGLfWqlzA>
+
+---
+
+## Google expands it PC gaming platform to support ALL Android games and more PC games
+
+date: 2025-03-13, from: Liliputing
+
+<p>Folks have been finding ways to run Android games on Windows PCs for almost as long as Android&#8217;s been around. But in 2022 Google launched its own official platform called Google Play Games for Windows. At launch it only supported a handful of Android games. But over time Google added support for thousands of additional [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/google-expands-it-pc-gaming-platform-to-support-all-android-games-and-more-pc-games/">Google expands it PC gaming platform to support ALL Android games and more PC games</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/google-expands-it-pc-gaming-platform-to-support-all-android-games-and-more-pc-games/>
+
+---
+
+## Introducing Command A: Max performance, minimal compute
+
+date: 2025-03-13, updated: 2025-03-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://cohere.com/blog/command-a">Introducing Command A: Max performance, minimal compute</a></strong></p>
+New LLM release from Cohere. It's interesting to see which aspects of the model they're highlighting, as an indicator of what their commercial customers value the most (highlights mine):</p>
+<blockquote>
+<p>Command A delivers maximum performance with minimal hardware costs when compared to leading proprietary and open-weights models, such as GPT-4o and DeepSeek-V3. For private deployments, <strong>Command A excels on business-critical agentic and multilingual tasks, while being deployable on just two GPUs</strong>, compared to other models that typically require as many as 32. [...]</p>
+<p>With a serving footprint of just two A100s or H100s, it requires far less compute than other comparable models on the market. This is especially important for private deployments. [...]</p>
+<p>Its <strong>256k context length</strong> (2x most leading models) can handle much longer enterprise documents. Other key features include Cohere’s advanced retrieval-augmented generation (RAG) with <strong>verifiable citations</strong>, agentic tool use, enterprise-grade security, and strong multilingual performance.</p>
+</blockquote>
+<p>It's open weights but very much not open source - the license is <a href="https://cohere.com/c4ai-cc-by-nc-license">Creative Commons Attribution Non-Commercial</a> and also requires adhering to their <a href="https://docs.cohere.com/docs/c4ai-acceptable-use-policy">Acceptable Use Policy</a>.</p>
+<p>Cohere offer it for commercial use via "contact us" pricing or through their API. I released <a href="https://github.com/simonw/llm-command-r/releases/tag/0.3">llm-command-r 0.3</a> adding support for this new model, plus their smaller and faster <a href="https://cohere.com/blog/command-r7b">Command R7B</a> (released in December) and support for structured outputs via <a href="https://llm.datasette.io/en/stable/schemas.html">LLM schemas</a>.</p>
+<p>(I found <a href="https://github.com/simonw/llm-command-r/issues/8#issuecomment-2722598353">a weird bug</a> with their schema support where schemas that end in an integer output a seemingly limitless integer - in my experiments it affected Command R and the new Command A but not Command R7B.)
+
+    <p><small></small>Via <a href="https://twitter.com/Prince_Canuma/status/1900188521924620726">@Prince_Canuma</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/structured-extraction">structured-extraction</a>, <a href="https://simonwillison.net/tags/cohere">cohere</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/13/command-a/#atom-everything>
+
+---
+
+## How to get deep traces in your Node.js backend with OTel and Deno
+
+date: 2025-03-13, updated: 2025-03-13, from: Deno blog
+
+Adding meaningful tracing to a Node backend requires additional instrumentation and configuration. Here’s another approach that requires zero additional code. 
+
+<br> 
+
+<https://deno.com/blog/otel-tracing-in-node-and-deno>
+
+---
+
+## Swift Proposal: Import Objective-C Completion Handler Parameters As @Sendable
+
+date: 2025-03-13, from: Michael Tsai
+
+SE-0463: The @Sendable annotation indicates that closure parameters are passed over an isolation boundary before they&#8217;re called. A missing @Sendable annotation in a library has negative effects on clients who call the function; the caller can unknowingly introduce data races, and SE-0423: Dynamic actor isolation enforcement from non-strict-concurrency contexts injects runtime assertions for non-Sendable closure [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/13/swift-proposal-import-objective-c-completion-handler-parameters-as-sendable/>
+
+---
+
+## Mozilla Also Defends Google Revenue Sharing Agreement
+
+date: 2025-03-13, from: Michael Tsai
+
+Thomas Claburn: Mozilla, which in 2023 received about 75 percent of its revenue from royalties paid by Google and other search providers for search engine usage in Firefox, worries that the US Justice Department&#8217;s proposed ban on the very same Google Search payments would be rather harmful.[&#8230;]Google&#8217;s payments to Apple for making its search service [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/13/mozilla-also-defends-google-revenue-sharing-agreement/>
+
+---
+
+## Rotten
+
+date: 2025-03-13, from: Michael Tsai
+
+John Gruber (Mastodon, Bluesky, Hacker News, MacRumors, Mac Power Users, AppleInsider): But we didn&#8217;t see all aspects of Apple Intelligence demoed. None of the &#8220;more personalized Siri&#8221; features, the ones that Apple, in its own statement announcing their postponement, described as having &#8220;more awareness of your personal context, as well as the ability to take [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/13/rotten/>
+
+---
+
+## Rumored Redesign in iOS 19 and macOS 16
+
+date: 2025-03-13, from: Michael Tsai
+
+Mark Gurman (Mastodon, MacRumors): Apple Inc. is preparing one of the most dramatic software overhauls in the company&#8217;s history, aiming to transform the interface of the iPhone, iPad and Mac for a new generation of users. The revamp &#8212; due later this year &#8212; will fundamentally change the look of the operating systems and make [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/13/rumored-redesign-in-ios-19-and-macos-16/>
+
+---
+
+## Detained Protester Mahmoud Khalil Sues Columbia University
+
+date: 2025-03-13, from: 404 Media Group
+
+Mahmoud Khalil, who ICE arrested on Saturday, and a group of other students from Columbia are suing the university to stop the release of disciplinary records. 
+
+<br> 
+
+<https://www.404media.co/detained-protester-mahmoud-khalil-sues-columbia-university/>
+
+---
+
+## Technical writing has a depth issue
+
+date: 2025-03-13, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>Demoralized by the advent of LLMs, I see tech writing communities break ranks and flee. In a world where coders who write seem to muster more respect than writers who code, the response from tech writers to the challenges posed by the intersection of automation, multichannel delivery, and docs-as-code is weak, if not absent. Conferences and blogs mostly focus on soothing anxiety and perfecting praxis. Nothing wrong with that, of course, except that it’s an intellectual dead end.</p> 
+
+<br> 
+
+<https://passo.uno/tech-writing-depth-issue/>
+
+---
+
+## Awful AI Upscaling
+
+date: 2025-03-13, updated: 2025-03-13, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/13/awful-ai-upscaling/>
+
+---
+
+## ChatGPT Would be a Decent Policy Advisor
+
+date: 2025-03-13, from: Maggie Appleton blog
+
+Revealed: How the UK tech secretary uses ChatGPT for policy advice by Chris Stokel-Walker for the New Scientist 
+
+<br> 
+
+<https://maggieappleton.com/2025-03-chat-gpt-policy/>
+
+---
+
+## Two Podcast Appearances and One Provocation
+
+date: 2025-03-13, from: Dave Karpf's blog
+
+On mindless techbros and feckless Democratic Senators. 
+
+<br> 
+
+<https://davekarpf.substack.com/p/two-podcast-appearances-and-one-provocation>
+
+---
+
+## Super Nintendo Hardware Is Running Faster as It Ages
+
+date: 2025-03-13, from: 404 Media Group
+
+Why is this speedrunner putting his Super Nintendo in the freezer? Science. 
+
+<br> 
+
+<https://www.404media.co/super-nintendo-hardware-is-running-faster-as-it-ages/>
+
+---
+
+## Disney's Creative Genius
+
+date: 2025-03-13, from: Guy Kawasaki blog
+
+Duncan Wardle on The Magic of Innovation. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/disneys-creative-genius>
+
+---
+
+## More on preparing for the release of “On the Beach”
+
+date: 2025-03-13, from: National Archives, Text Message blog
+
+The major United Artists motion picture On the Beach came out in 1959.  It was based on the 1957 novel of the same name by Nevil Shute.  The book and the movie depict a post-apocalyptic world in the aftermath of a nuclear war.  It was the first major movie about nuclear conflict and it threatened to &#8230; <a href="https://text-message.blogs.archives.gov/2025/03/13/more-on-preparing-for-the-release-of-on-the-beach/" class="more-link">Continue reading <span class="screen-reader-text">More on preparing for the release of “On the Beach”</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/03/13/more-on-preparing-for-the-release-of-on-the-beach/>
+
+---
+
+## On Balatro
+
+date: 2025-03-13, from: Chris Coyier blog
+
+The ShopTalk Discord #games channel has been pretty heavy on Balatro for like&#8230; a year? I was turned off by the game at first as I think I downloaded some unofficial port or something and it was unplayably janky. But now Balatro+ is on Apple Arcade, which I have anyway, and I&#8217;ve got a perfectly [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/03/13/on-balatro/>
+
+---
+
+## This fanless PC has four HDMI ports, up to 64GB of RAM, and support for two SSDs
+
+date: 2025-03-13, from: Liliputing
+
+<p>The Maxtang SXRL-20 is a compact, fanless computer designed for digital signage applications, but it could also be a good fit for some home users thanks to its support for user-replaceable memory and storage, better-than-bottom-of-the-line processor, and silent operation. The little computer is available now from AliExpress for $479 and up and features an Intel Core [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-fanless-pc-has-four-hdmi-ports-up-to-64gb-of-ram-and-support-for-two-ssds/">This fanless PC has four HDMI ports, up to 64GB of RAM, and support for two SSDs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-fanless-pc-has-four-hdmi-ports-up-to-64gb-of-ram-and-support-for-two-ssds/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-13, from: Feed for Alt USDS)
+
+One day without the engineering ops team and the FAFSA has an outage. 😔 https://apnews.com/article/student-loans-education-department-outage-layoffs-5afb5a0a1b51bbe50e5961a63b419041 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkbeoewfu22n>
+
+---
+
+## Smoke test your Django admin site
+
+date: 2025-03-13, updated: 2025-03-13, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://jmduke.com/posts/post/django-admin-changelist-test/">Smoke test your Django admin site</a></strong></p>
+Justin Duke demonstrates a neat pattern for running simple tests against your internal Django admin site: introspect every admin route via <code>django.urls.get_resolver()</code> and loop through them with <code>@pytest.mark.parametrize</code> to check they all return a 200 HTTP status code.</p>
+<p>This catches simple mistakes with the admin configuration that trigger exceptions that might otherwise go undetected.</p>
+<p>I rarely write automated tests against my own admin sites and often feel guilty about it. I wrote <a href="https://til.simonwillison.net/django/testing-django-admin-with-pytest">some notes</a> on testing it with <a href="https://pytest-django.readthedocs.io/en/latest/helpers.html#fixtures">pytest-django fixtures</a> a few years ago.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/testing">testing</a>, <a href="https://simonwillison.net/tags/pytest">pytest</a>, <a href="https://simonwillison.net/tags/django">django</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/django-admin">django-admin</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/13/smoke-test-your-django-admin/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-13, from: Robert's feed at BlueSky)
+
+Voter suppression is disenfranchised.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkbczpittc2t>
+
+---
+
+## NASA, Yale, and Stanford Scientists Consider 'Scientific Exile,' French University Says
+
+date: 2025-03-13, from: 404 Media Group
+
+“We are witnessing a new brain drain.” 
+
+<br> 
+
+<https://www.404media.co/nasa-yale-and-stanford-scientists-consider-scientific-exile-french-university-says/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+What to Expect When You’re Expecting Catastrophe. 
+
+<br> 
+
+<https://snyder.substack.com/p/what-to-expect-when-youre-expecting?publication_id=310897&post_id=158714964&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+Early Pirate Bay Backer Carl Lundström Dies in Plane Crash. 
+
+<br> 
+
+<https://torrentfreak.com/early-pirate-bay-backer-carl-lundstrom-dies-in-plane-crash-250312/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-13, from: Dave Winer's linkblog)
+
+1995: HTML 2.0 spec. 
+
+<br> 
+
+<https://www.ietf.org/rfc/rfc1866.txt>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-13, from: Feed for Alt USDS)
+
+Sharing this incredible story about federal employees at the IRS @alt-irs.altgov.info. ❤️
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkba52bchk2p>
 
 ---
 
@@ -138,6 +815,19 @@ date: 2025-03-13, from: This is history podcast
 <br> 
 
 <https://therestishistory.com/the-french-revolution-the-execution-of-the-king-part-4/>
+
+---
+
+## Building Web Components using Large Language Models
+
+date: 2025-03-13, from: Robert's Ramblings
+
+Quick discussion of my recent experience bootstrapping the CL-web-components project
+ 
+
+<br> 
+
+<https://rsdoiel.github.io/blog/2025/03/13/Building_Web_Component_using_an_LLM.html>
 
 ---
 
@@ -1291,6 +1981,7 @@ date: 2025-03-11, updated: 2025-03-11, from: Simon Willison’s Weblog
 <p>This time only two jobs ran, and the end result was the correctly deployed site:</p>
 <p><img src="https://static.simonwillison.net/static/2025/github-actions-colophon-2.jpg" alt="Only two in-progress workflows now, one is the Test one and the other is the Deploy to GitHub Pages one." style="max-width: 100%;" /></p>
 <p>(I later spotted another bug - some of the links inadvertently included <code>&lt;br&gt;</code> tags in their <code>href=</code>, which I <a href="https://github.com/simonw/tools/commit/87e2577983f11fc9c7bf7b7a268cf2404a21e1c5">fixed</a> with another <a href="https://gist.github.com/simonw/d5ccbca1b530868980609222790a97cb">11 cent Claude Code session</a>.)</p>
+<p><strong>Update</strong>: I improved the colophon further by <a href="https://simonwillison.net/2025/Mar/13/tools-colophon/">adding AI-generated descriptions of the tools</a>.</p>
 <h4 id="be-ready-for-the-human-to-take-over">Be ready for the human to take over</h4>
 <p>I got lucky with this example because it helped illustrate my final point: expect to need to take over.</p>
 <p>LLMs are no replacement for human intuition and experience. I've spent enough time with GitHub Actions that I know what kind of things to look for, and in this case it was faster for me to step in and finish the project rather than keep on trying to get there with prompts.</p>
@@ -1324,7 +2015,7 @@ files-to-prompt <span class="pl-c1">.</span> -c <span class="pl-k">|</span> llm 
 <p>I use this trick several times a week. It's a great way to start diving into a new codebase - and often the alternative isn't spending more time on this, it's failing to satisfy my curiosity at all.</p>
 <p>I included three more examples in <a href="https://simonwillison.net/2025/Feb/14/files-to-prompt/">this recent post</a>.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/claude-artifacts">claude-artifacts</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/claude-artifacts">claude-artifacts</a></p> 
 
 <br> 
 

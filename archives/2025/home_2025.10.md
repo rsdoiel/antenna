@@ -1,11 +1,200 @@
 ---
 title: home
-updated: 2025-03-13 06:11:34
+updated: 2025-03-14 06:07:43
 ---
 
 # home
 
-(date: 2025-03-13 06:11:34)
+(date: 2025-03-14 06:07:43)
+
+---
+
+## Hazelnut Trees Care and Growing Guide (Most Detailed)
+
+date: 2025-03-14, from: Yard Life blog
+
+<p>Hazelnut trees (Corylus spp.) are highly valued for their nutritious and flavorful nuts, making them a popular choice for home ... </p>
+<p class="read-more-container"><a title="Hazelnut Trees Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/hazelnut-trees-care-and-growing-guide-most-detailed/#more-24975" aria-label="Read more about Hazelnut Trees Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/hazelnut-trees-care-and-growing-guide-most-detailed/">Hazelnut Trees Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/hazelnut-trees-care-and-growing-guide-most-detailed/>
+
+---
+
+## 20 Types of Ducks with Mohawks (Pictures and Identification)
+
+date: 2025-03-14, from: Yard Life blog
+
+<p>Ducks come in all shapes and sizes, but some stand out with their stylish crests that resemble mohawks. These ducks ... </p>
+<p class="read-more-container"><a title="20 Types of Ducks with Mohawks (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/20-types-of-ducks-with-mohawks-pictures-and-identification/#more-24949" aria-label="Read more about 20 Types of Ducks with Mohawks (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/20-types-of-ducks-with-mohawks-pictures-and-identification/">20 Types of Ducks with Mohawks (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/20-types-of-ducks-with-mohawks-pictures-and-identification/>
+
+---
+
+## What Eats Beetles? Shocking Facts About Their Natural Enemies
+
+date: 2025-03-14, from: Yard Life blog
+
+<p>Beetles are one of the most diverse insect groups on Earth, with over 350,000 known species. While they play essential ... </p>
+<p class="read-more-container"><a title="What Eats Beetles? Shocking Facts About Their Natural Enemies" class="read-more button" href="https://ownyardlife.com/what-eats-beetles-shocking-facts-about-their-natural-enemies/#more-24944" aria-label="Read more about What Eats Beetles? Shocking Facts About Their Natural Enemies">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-eats-beetles-shocking-facts-about-their-natural-enemies/">What Eats Beetles? Shocking Facts About Their Natural Enemies</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-eats-beetles-shocking-facts-about-their-natural-enemies/>
+
+---
+
+## What Does a Cricket Look Like? A Detailed Guide with Pictures
+
+date: 2025-03-14, from: Yard Life blog
+
+<p>Crickets are fascinating insects that play a crucial role in ecosystems worldwide. Whether you hear them chirping on warm nights ... </p>
+<p class="read-more-container"><a title="What Does a Cricket Look Like? A Detailed Guide with Pictures" class="read-more button" href="https://ownyardlife.com/what-does-a-cricket-look-like-a-detailed-guide-with-pictures/#more-24937" aria-label="Read more about What Does a Cricket Look Like? A Detailed Guide with Pictures">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/what-does-a-cricket-look-like-a-detailed-guide-with-pictures/">What Does a Cricket Look Like? A Detailed Guide with Pictures</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/what-does-a-cricket-look-like-a-detailed-guide-with-pictures/>
+
+---
+
+## Can Other Cities Replicate Seattle’s Win on Green Social Housing?
+
+date: 2025-03-13, from: Dwell
+
+How activists sold voters on an excess compensation payroll tax on corporations. 
+
+<br> 
+
+<https://www.dwell.com/article/seattle-green-social-housing-initiative-135-137-5ad22413-6447809b>
+
+---
+
+## Fire Alarm Going Off for No Reason? 4 Possible Causes
+
+date: 2025-03-13, from: Family Handyman Blog
+
+<p>They can save your life, or go off when nothing's wrong. Here's what to do if your smoke alarm is giving you fits.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/fire-alarm-going-off-no-fire/">Fire Alarm Going Off for No Reason? 4 Possible Causes</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/fire-alarm-going-off-no-fire/>
+
+---
+
+## This U.K. Home’s Oz-Green Shell Is Actually a Sustainability Move
+
+date: 2025-03-13, from: Dwell
+
+The copper wrap minimizes solar gain, shielding windows from the sun and providing ventilation with two "ears" that perk up on either side. 
+
+<br> 
+
+<https://www.dwell.com/article/copper-bottom-house-adrian-james-architects-passive-house-design-7d031dd8>
+
+---
+
+## From the Archive: When Two Families Pooled Their Resources to Renovate an Old Handbag Factory
+
+date: 2025-03-13, from: Dwell
+
+Back in 2001, London was already expensive, but two households came together to create a home that combined the best features of a duplex and a commune. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-when-two-families-pooled-their-resources-to-renovate-an-old-handbag-factory-cf33fb16>
+
+---
+
+## Inside L.A. Beauty Brand Tower 28’s Bright and Cheery Office
+
+date: 2025-03-13, from: Sunset Magazine - Living in the West
+
+LA-based beauty brand Tower 28 is known for its non-toxic makeup and skincare in fun and cheerful packaging. Its office is equally fun and vibrant. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/tower-28-office-tour>
+
+---
+
+## How to Grow and Care for Mountain Mahogany (Cercocarpus)
+
+date: 2025-03-13, from: The Gardener's Path
+
+<p>Mountain mahogany (Cercocarpus spp.) is a water-wise shrub or tree native to semi-deserts and arid shrublands in the western US. These drought-tolerant plants need very little care once established, and provide evergreen foliage, fragrant flowers, and rugged good looks. Learn how to grow mountain mahogany in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/ornamentals/grow-mountain-mahogany/">How to Grow and Care for Mountain Mahogany (Cercocarpus)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/ornamentals/grow-mountain-mahogany/>
+
+---
+
+## This Outdated Kitchen Design Style Is Coming Back (and That’s a Good Thing)
+
+date: 2025-03-13, from: Sunset Magazine - Living in the West
+
+The wood kitchen is coming back in style. Designers share how to bring the look home in a modern, 21st century way. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/wood-kitchens-back-in-style>
+
+---
+
+## Your Heavy Key Chain Could Be Damaging Your Car
+
+date: 2025-03-13, from: Family Handyman Blog
+
+<p>You may not have given much though to the weight of your keys, but you should. We asked an expert if a heavy car key chain is a problem. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/heavy-car-key-chain-damage/">Your Heavy Key Chain Could Be Damaging Your Car</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/heavy-car-key-chain-damage/>
+
+---
+
+## For $485K, You Can Nab a Shipping Container Home in Marfa
+
+date: 2025-03-13, from: Dwell
+
+The rustic desert getaway comes with a guest suite and a rooftop deck that’s perfect for stargazing. 
+
+<br> 
+
+<https://www.dwell.com/article/shipping-container-home-marfa-real-estate-b204d878>
+
+---
+
+## 16 Common Black Caterpillars With Spikes (Pictures, Identification)
+
+date: 2025-03-13, from: Yard Life blog
+
+<p>Black caterpillars with spikes are some of the most striking and intimidating larvae in the insect world. Their dark coloration ... </p>
+<p class="read-more-container"><a title="16 Common Black Caterpillars With Spikes (Pictures, Identification)" class="read-more button" href="https://ownyardlife.com/16-common-black-caterpillars-with-spikes-pictures-identification/#more-24917" aria-label="Read more about 16 Common Black Caterpillars With Spikes (Pictures, Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/16-common-black-caterpillars-with-spikes-pictures-identification/">16 Common Black Caterpillars With Spikes (Pictures, Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/16-common-black-caterpillars-with-spikes-pictures-identification/>
 
 ---
 
@@ -18,6 +207,42 @@ When winter starts to recede, my thoughts turn to color—a bright red stool her
 <br> 
 
 <https://www.dwell.com/article/best-new-spring-home-decor-ec51ce37>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-03-13, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## This 1970s Mill Valley Home Is Like a Treehouse in the Redwoods
+
+date: 2025-03-13, from: Sunset Magazine - Living in the West
+
+A 1974 house was stripped of its charm thanks to a builder-grade remodel. Designer Leah Harmatz renovated the space with personality. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/mill-valley-treehouse-inspired-home>
+
+---
+
+## 10 Little Ways to Upgrade Your Home for Under $20
+
+date: 2025-03-13, from: Sunset Magazine - Living in the West
+
+This spring, you don't need a big remodel to update your house. Refresh your home with some accessories and accents under $20. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/home-decor-upgrades-under-20>
 
 ---
 
@@ -99,18 +324,6 @@ date: 2025-03-12, from: The Gardener's Path
 
 ---
 
-## This 1970s Mill Valley Home Is Like a Treehouse in the Redwoods
-
-date: 2025-03-12, from: Sunset Magazine - Living in the West
-
-A 1974 house was stripped of its charm thanks to a builder-grade remodel. Designer Leah Harmatz renovated the space with personality. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/mill-valley-treehouse-inspired-home>
-
----
-
 ## Calathea Orbifolia Care: Ultimate Guide for Thriving Plants
 
 date: 2025-03-12, from: Yard Life blog
@@ -180,18 +393,6 @@ Is 2025 the year for buyers or sellers? A real estate pro shares predictions for
 
 ---
 
-## 10 Little Ways to Upgrade Your Home for Under $20
-
-date: 2025-03-12, from: Sunset Magazine - Living in the West
-
-This spring, you don't need a big remodel to update your house. Refresh your home with some accessories and accents under $20. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/home-decor-upgrades-under-20>
-
----
-
 ## 20 Caterpillars That Look Like Snakes (With Pictures)
 
 date: 2025-03-12, from: Yard Life blog
@@ -204,18 +405,6 @@ date: 2025-03-12, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/20-caterpillars-that-look-like-snakes-with-pictures/>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-12, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

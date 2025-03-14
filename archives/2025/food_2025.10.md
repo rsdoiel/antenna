@@ -1,11 +1,193 @@
 ---
 title: food
-updated: 2025-03-13 06:11:36
+updated: 2025-03-14 06:07:45
 ---
 
 # food
 
-(date: 2025-03-13 06:11:36)
+(date: 2025-03-14 06:07:45)
+
+---
+
+## The Sixteenth Annual Sprudgie Awards Finalists
+
+date: 2025-03-14, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Voting is open through Friday, April 4th 11:59 PM PST. 
+
+<br> 
+
+<https://sprudge.com/the-sixteenth-annual-sprudgie-awards-finalists-303232.html>
+
+---
+
+## Jaymie Lao Is LA Coffee’s Biggest Fan
+
+date: 2025-03-14, from: The Fresh Cup
+
+<p>Longtime Los Angeles–based coffee professional Jaymie Lao—formerly of Go Get Em Tiger and now an independent consultant—t reveals what makes the LA coffee scene so special.</p>
+<p>The post <a href="https://freshcup.com/jaymie-lao-is-la-coffees-biggest-fan/">Jaymie Lao Is LA Coffee’s Biggest Fan</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/jaymie-lao-is-la-coffees-biggest-fan/>
+
+---
+
+## Basque Cheesecake and More Recipes We Made This Week
+
+date: 2025-03-14, from: Bon Appetet
+
+Like chickpeas with 40 garlic cloves and Korean seaweed soup. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-march-2025>
+
+---
+
+## Easy Chicharrones Recipe (Baked Then Fried)
+
+date: 2025-03-14, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/easy-chicharrones/" title="Easy Chicharrones Recipe (Baked Then Fried)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Easy-Homemade-Chicharrones-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Crispy Homemade Chicharrones in a serving bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Easy-Homemade-Chicharrones-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Easy-Homemade-Chicharrones-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Easy-Homemade-Chicharrones-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Easy-Homemade-Chicharrones-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Easy-Homemade-Chicharrones-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Easy-Homemade-Chicharrones-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Easy-Homemade-Chicharrones-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>These chicharrones are easy to make at home - I leave just a bit of fat on the pork skin, bake until crispy, with a final quick fry for extra crispiness.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/easy-chicharrones/">Easy Chicharrones Recipe (Baked Then Fried)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/easy-chicharrones/>
+
+---
+
+## I Taste-Tested Every Buffalo Wild Wings Sauce—Here’s the Best One
+
+date: 2025-03-14, from: Taste of Home
+
+<p>I took on the monumental task of trying every Buffalo Wild Wings sauce on the menu to find the best one, and the winner surpassed my go-to favorite.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-buffalo-wild-wings-sauces/">I Taste-Tested Every Buffalo Wild Wings Sauce—Here&#8217;s the Best One</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-buffalo-wild-wings-sauces/>
+
+---
+
+## This Indulgent Sandwich Was One of Queen Elizabeth’s Favorites
+
+date: 2025-03-13, from: Taste of Home
+
+<p>Her Majesty’s taste in food was classic—but this preference is surprising.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/queen-elizabeth-croque-monsieur/">This Indulgent Sandwich Was One of Queen Elizabeth&#8217;s Favorites</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/queen-elizabeth-croque-monsieur/>
+
+---
+
+## Trader Joe’s Fans Can’t Believe How Perfect This Brand-New Find Is
+
+date: 2025-03-13, from: Taste of Home
+
+<p>The only way to make Trader Joe's Dark Chocolate Peanut Butter Cups tastier was to make them drinkable.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/trader-joes-dark-chocolate-peanut-butter-porter/">Trader Joe&#8217;s Fans Can&#8217;t Believe How Perfect This Brand-New Find Is</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/trader-joes-dark-chocolate-peanut-butter-porter/>
+
+---
+
+## Debunking What Ramadan Food Means in America
+
+date: 2025-03-13, from: Bon Appetet
+
+Muslim Americans are creating a cuisine that’s personal and quintessentially American 
+
+<br> 
+
+<https://www.bonappetit.com/story/debunking-what-ramadan-food-means-in-america>
+
+---
+
+## This Sampler Box Lets You Try Japanese Kit Kat Flavors—No Passport Required!
+
+date: 2025-03-13, from: Taste of Home
+
+<p>The six Japanese Kit Kat flavors in this 50-piece sampler box make it a great gift for the sweet tooth—but you may not want to share!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/japanese-kit-kat-sampler/">This Sampler Box Lets You Try Japanese Kit Kat Flavors—No Passport Required!</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/japanese-kit-kat-sampler/>
+
+---
+
+## Which Sunflower Seed Butter Is Best?
+
+date: 2025-03-13, from: Bon Appetet
+
+We tried 10 varieties, including creamy and crunchy, sweetened and unsweetened. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-sunflower-seed-butter-taste-test-article>
+
+---
+
+## Trust Coffee Co. Bonds Cafe with Cocktails Outside of Cleveland
+
+date: 2025-03-13, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Trust-Coffee-Co-Ohio-2-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Trust Coffee Co Ohio 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Trust-Coffee-Co-Ohio-2-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Trust-Coffee-Co-Ohio-2-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Trust-Coffee-Co-Ohio-2-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Trust-Coffee-Co-Ohio-2-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Trust-Coffee-Co-Ohio-2.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new venture called Trust Coffee Co. is building credibility with new customers day by day, with cocktails by night, along the shore of Lake Erie in Bay Village, Ohio.&#160;&#160;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/13/trust-coffee-co-bonds-cafe-with-cocktails-outside-of-cleveland/>
+
+---
+
+## “Cultivar,” the New Book from Rob Hoos, Offers a Practical Approach to the Roast
+
+date: 2025-03-13, from: Daily Coffee News
+
+<div><img width="620" height="439" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cultivar-Rob-Hoos-1-1-620x439.jpg" class="attachment-large size-large wp-post-image" alt="Cultivar Rob Hoos 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cultivar-Rob-Hoos-1-1-620x439.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cultivar-Rob-Hoos-1-1-300x212.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cultivar-Rob-Hoos-1-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cultivar-Rob-Hoos-1-1-768x543.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cultivar-Rob-Hoos-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Time flies when you&#8217;re roasting.&#160; It was exactly 10 years ago to the day that Daily Coffee News shared the news of the launch of&#160;Modulating the Flavor Profile of Coffee,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/13/cultivar-the-new-book-from-rob-hoos-offers-a-practical-approach-to-the-roast/>
+
+---
+
+## How to Make Chocolate Bunny Cocktails for a Sweet Easter Drink
+
+date: 2025-03-13, from: Taste of Home
+
+<p>This Easter, serve the cutest sippers ever—chocolate bunny cocktails! A whole chocolate rabbit holds a sweet, creamy drink inside.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chocolate-bunny-cocktails/">How to Make Chocolate Bunny Cocktails for a Sweet Easter Drink</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chocolate-bunny-cocktails/>
+
+---
+
+## Want Puffy Rotis? You Need Atta
+
+date: 2025-03-13, from: Bon Appetet
+
+You’re one ingredient away from ethereal homemade flatbread. 
+
+<br> 
+
+<https://www.bonappetit.com/story/atta-flour>
 
 ---
 
@@ -161,7 +343,7 @@ date: 2025-03-12, from: The Sprudge
 
 date: 2025-03-12, from: Daily Coffee News
 
-<div><img width="620" height="472" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-620x472.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-620x472.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-768x584.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1.jpg 940w" sizes="(max-width: 620px) 100vw, 620px" /></div>CEE, a Belgian company focused on fossil-fuel-free industrial production solutions for roasting and drying, is expanding into the United States and Canada. Leading the charge as the company&#8217;s first managing... 
+<div><img width="620" height="472" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-620x472.jpg" class="attachment-large size-large wp-post-image" alt="Screenshot" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-620x472.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-300x228.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-150x114.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1-768x584.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/CEE-Coffee-Roasting-1.jpg 940w" sizes="(max-width: 620px) 100vw, 620px" /></div>CEE, a Belgian company focused on fossil-fuel-free industrial production solutions for roasting and drying, is expanding into the United States and Canada. Leading the charge as the company&#8217;s first managing... 
 
 <br> 
 
@@ -173,7 +355,7 @@ date: 2025-03-12, from: Daily Coffee News
 
 date: 2025-03-12, from: Daily Coffee News
 
-<div><img width="620" height="455" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-620x455.jpg" class="attachment-large size-large wp-post-image" alt="Florencia y Fortunata Café Caroline" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-620x455.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-300x220.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-150x110.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-768x563.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>When Carolina Peralta, the founder of Florencia y Fortunata Café in Cusco, Peru, celebrated good news or received a good grade in school as a child, it was always over... 
+<div><img width="620" height="455" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-620x455.jpg" class="attachment-large size-large wp-post-image" alt="Florencia y Fortunata Café Caroline" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-620x455.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-300x220.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-150x110.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1-768x563.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Florencia-y-Fortunata-Cafe-Caroline-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>When Carolina Peralta, the founder of Florencia y Fortunata Café in Cusco, Peru, celebrated good news or received a good grade in school as a child, it was always over... 
 
 <br> 
 
@@ -185,7 +367,7 @@ date: 2025-03-12, from: Daily Coffee News
 
 date: 2025-03-12, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bentwood H75 grinders" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Swiss grinder manufacturer Bentwood is rolling out the H75 grind-by-weight grinder, which represents the second major model from the eight-year-old company, following the Vertical 63 machine. Departing from the perpendicular... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Bentwood H75 grinders" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Bentwood-H75-grinders.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Swiss grinder manufacturer Bentwood is rolling out the H75 grind-by-weight grinder, which represents the second major model from the eight-year-old company, following the Vertical 63 machine. Departing from the perpendicular... 
 
 <br> 
 
@@ -249,7 +431,7 @@ date: 2025-03-12, from: The Fresh Cup
 
 date: 2025-03-12, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/carne-en-su-jugo/" title="Carne en su Jugo (Meat in its Juices)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Carne en su Jugo served in a bowl with garnish" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Carne en su Jugo ("Meat in its Juices") is a Mexican stew of tender beef simmered in a savory tomatillo broth with crispy bacon and comforting pinto beans.</p>
+<a href="https://www.chilipeppermadness.com/recipes/carne-en-su-jugo/" title="Carne en su Jugo (Meat in its Juices)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Carne en su Jugo served in a bowl with garnish" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Carne-en-su-Jugo-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Carne en su Jugo ("Meat in its Juices") is a Mexican stew of tender beef simmered in a savory tomatillo broth with crispy bacon and comforting pinto beans.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/carne-en-su-jugo/">Carne en su Jugo (Meat in its Juices)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

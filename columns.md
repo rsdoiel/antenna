@@ -1,11 +1,544 @@
 ---
 title: columns
-updated: 2025-03-13 06:11:31
+updated: 2025-03-14 06:07:40
 ---
 
 # columns
 
-(date: 2025-03-13 06:11:31)
+(date: 2025-03-14 06:07:40)
+
+---
+
+## 19000 curl commits
+
+date: 2025-03-14, from: Daniel Stenberg Blog
+
+It has been 387 days since I announced having done 18k commits. This is commit number 19,000. Looking at the graph below that is showing my curl commits and everyone else&#8217;s over time, it seems to imply that while I have kept my pace pretty consistently over the last few years, others in the curl &#8230; <a href="https://daniel.haxx.se/blog/2025/03/14/19000-curl-commits/" class="more-link">Continue reading <span class="screen-reader-text">19000 curl commits</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/03/14/19000-curl-commits/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-14, from: Dave Winer's Scripting News)
+
+Please, today -- write a blog post that explains why you believe in <a href="http://scripting.com/2025/03/13/132830.html">The Writer's Web</a>. That the best way to express our ideas on the web is with all the <a href="https://textcasting.org/">tools</a> that writers have invented. And while we may enjoy using social media like Bluesky or Mastodon, we understand that they are not for writing and are not the web. Please <b>send me a link</b> to your post and I will read what you've written with thanks for believing in writers and the web! You can use any blogging software you like. My email address is dave.winer@gmail.com. And thank you. (And btw, your post can be about whatever you like, by just writing a blog post you're expressing your support for the writing on the web!) 
+
+<br> 
+
+<http://scripting.com/2025/03/14.html#a122207>
+
+---
+
+## "It's the people, stupid!"
+
+date: 2025-03-14, from: Dave Winer's Scripting News
+
+<p>I keep hearing pundits and incumbent Democrats missing the point, that the people are the ones whose opinion matters about the Republicans dismantling our democracy in the United States. </p>
+<p>I want to celebrate those leaders who totally get that the power is with the people, notably Alexandria Ocasio-Cortez and Bernie Sanders. They are an inspiration! I live in New York and while AOC doesn't represent me in Congress (<a href="https://en.wikipedia.org/wiki/Pat_Ryan_(politician)">Pat Ryan</a> is my rep), in a political and spiritual way she most definitely represents me. She should be the next president, as far as I'm concerned. She has all the leadership abilities we could ever want. </p>
+<p>My contribution for today is the slogan that's the title of this piece. It's derived from James Carville's <a href="https://en.wikipedia.org/wiki/It%27s_the_economy,_stupid">slogan</a> when Bill Clinton was running for president in <a href="https://en.wikipedia.org/wiki/1992_United_States_presidential_election">1992</a>, updated for 2025. "It's the people, dummy!" was always the right slogan, but never has it been more obvious that we've lost the fundamental idea behind the United States. It's we, the people, who created this country, and we the people are the only ones who can make it work again.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/14/122115.html?title=itsThePeopleStupid>
+
+---
+
+## Dash to Panel maintainer quits after donations drive becomes dash to disaster
+
+date: 2025-03-14, updated: 2025-03-14, from: Liam Proven's articles at the Register
+
+<h4>Tin rattling earns rebuke from GNOME extension&#39;s original developer as well as dozens of everyday users</h4>
+      <p>The maintainer of one of the most popular extensions to customize the GNOME desktop is stepping down and seeking someone to take over development after a fundraising effort backfired.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/14/dashtopanel_maintainer_quits/>
+
+---
+
+## TP-Link Router Botnet
+
+date: 2025-03-14, updated: 2025-03-14, from: Bruce Schneier blog
+
+<p>There is a new botnet that is <a href="https://www.tomsguide.com/computing/malware-adware/thousands-of-tp-link-routers-have-been-infected-by-a-botnet-to-spread-malware">infecting</a> TP-Link routers:</p>
+<blockquote><p>The botnet can lead to command injection which then makes remote code execution (RCE) possible so that the malware can spread itself across the internet automatically. This high severity security flaw (tracked as <a href="https://nvd.nist.gov/vuln/detail/cve-2023-1389">CVE-2023-1389</a>) has also been used to spread other malware families as far back as April 2023 when it was used in the <a href="https://www.tomsguide.com/news/android-adb-matryosh-botnet">Mirai botnet</a> malware attacks. The flaw also linked to the Condi and AndroxGh0st malware attacks.</p>
+<p>[&#8230;]</p>
+<p>Of the thousands of infected devices, the majority of them are concentrated in Brazil, Poland, the United Kingdom, Bulgaria and Turkey; with the botnet targeting manufacturing, medical/healthcare, services and technology organizations in the United States, Australia, China and Mexico...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/tp-link-router-botnet.html>
+
+---
+
+## 2025-02-06 Trans rights are human rights
+
+date: 2025-03-14, from: Alex Schroeder's Blog
+
+<h1 id="2025-02-06-trans-rights-are-human-rights">2025-02-06 Trans rights are human rights</h1>
+
+<p>I just read <a href="https://eldritch.cafe/@Tattie/113786790886539212">a post</a> by <a class="account" href="https://eldritch.cafe/@Tattie" title="@Tattie@eldritch.cafe">@Tattie</a> that I’m copying here, with permission:</p>
+
+<h2 id="reminder-to-all-feminists">Reminder to all feminists</h2>
+
+<p>If you accept trans people being defined by their reproductive role&hellip;<br>
+Then men can define all woman by their reproductive role</p>
+
+<p>If you accept that trans teenagers are too young to make decisions about their bodies&hellip;<br>
+Then men can decide teenage girls are too young to make decisions about their bodies</p>
+
+<p>If you accept medical gatekeeping of trans people&rsquo;s access to hormones&hellip;<br>
+Then doctors can restrict any woman&rsquo;s access to HRT and birth control</p>
+
+<p>If you accept stripping trans people of legal protections&hellip;<br>
+Then men can strip women of legal protections</p>
+
+<p>This is the truth of &ldquo;trans rights are human rights&rdquo;.<br>
+Regardless of your personal feelings on whether trans people are &ldquo;really&rdquo; the gender they say they are, the exact same human rights protecting us also underlie women&rsquo;s liberation&ndash; bodily autonomy, dignity, equality of opportunity, and protection from harm.<br>
+And so many men are desperate for those rights to disappear.</p>
+
+<p><a class="tag" href="/search/?q=%23Trans">#Trans</a> <a class="tag" href="/search/?q=%23Human_Rights">#Human Rights</a></p>
+
+<p><strong>2025-03-14</strong>. Related:</p>
+
+<blockquote>
+<p>The Lemkin Institute for Genocide Prevention and Human Security condemns the anti-trans agenda of the second Trump Administration and warns Americans that the recent spate of executive orders, which are in line with a genocidal process against the transgender community that has been emerging in the United States for over a decade, are meant to pave the way for greater state repression against all individuals and other groups in the future. It is important to consistently and loudly reject this administration’s efforts to isolate any people or groups due to their identities, to reaffirm the USA’s commitment to individual rights and diversity, and to push back against efforts to normalize state repression and violence. The time is now. – <a href="https://www.lemkininstitute.com/red-flag-alerts/red-flag-alert-for-the-anti-trans-agenda-of-the-trump-administration-in-the-united-states">Red Flag Alert for the Anti-Trans Agenda of the Trump Administration in the United States</a>, Lemkin Institute for Genocide Prevention</p>
+</blockquote> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-02-04-human-rights>
+
+---
+
+## Even more reasons for very modest optimism
+
+date: 2025-03-14, from: Robert Reich's blog
+
+Ten more. 
+
+<br> 
+
+<https://robertreich.substack.com/p/even-more-reasons-for-modest-optimism>
+
+---
+
+## March 13, 2025 
+
+date: 2025-03-14, from: Heather Cox Richardson blog
+
+Stocks fell again today. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-13-2025>
+
+---
+
+## Tonight’s Lunar Eclipse
+
+date: 2025-03-14, from: Doc Searls (at Harvard), New Old Blog
+
+They call it a blood moon, because it looks like this: But that came later. Right now still in the evening of March 13th in the Eastern time zone, the Moon is as full as it can get without moving into the shadow of Earth . Which it will. Shortly. Here is where Earth&#8217;s shadow [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/13/tonights-lunar-eclipse/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-14, from: Miguel de Icaza Mastondon feed)
+
+<p>Tonight’s view</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114158054931901282>
+
+---
+
+## Friday 14 March, 2025
+
+date: 2025-03-14, from: John Naughton's online diary
+
+Das Boot We often go walking on the North Norfolk coast, and this abandoned boat used to be a landmark on one of our favourite paths. It was fascinating and somehow graceful in its slow decay — and irresistible for &#8230; <a href="https://memex.naughtons.org/friday-14-march-2025/40547/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-14-march-2025/40547/>
+
+---
+
+## Making Polluting Legal Again
+
+date: 2025-03-13, from: Dan Rather's Steady
+
+The new EPA head wants to abandon any semblance of environmental protection 
+
+<br> 
+
+<https://steady.substack.com/p/making-polluting-legal-again>
+
+---
+
+## 2025-03-13 Calculators and spreadsheets
+
+date: 2025-03-13, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-13-calculators-and-spreadsheets">2025-03-13 Calculators and spreadsheets</h1>
+
+<p>I stumbled upon a discussion about the Gnome Calculator. Apparently it stopped working for some people because a bank blocked it from retrieving the exchange rates it needs to allow users to do currency conversions. I get it. It&rsquo;s a feature, it needs data that&rsquo;s up to date, so you need to fetch it. The default is to do this once a week, I hear.</p>
+
+<p>Based on <a href="https://gitlab.gnome.org/GNOME/gnome-calculator/-/blob/main/lib/currency-provider.vala">currency-provider.vala</a>, the currency providers are the <a href="https://www.imf.org/external/np/fin/data/rms_five.aspx">International Monetary Fund</a> (IMF) and the <a href="https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml">European Central Bank</a>.</p>
+
+<p>So that leads me to another question: What do you use to do calculations you can&rsquo;t do in your head?</p>
+
+<p>I mostly do it in Emacs using <code>M-x calc</code>. It uses the reverse-polish notation (RPN) I am used to from my old calculators before there where smartphones.
+For a while I used <code>bc</code> but the precision was weird. Then I tried <code>dc</code> but it was weird, too. Now I have Super+C bound to <code>orpie</code> running in a terminal. Perhaps I should bind that key to run <code>emacsclient</code> and eval <code>(calc)</code>. 😂</p>
+
+<p>From the replies, I found a large number of people reporting that they used the interpreters of their favourite programming languages. I didn&rsquo;t know that this was so wide-spread. People named Python, Ruby, Fennel, Scheme.</p>
+
+<p>Python:</p>
+
+<pre><code>Python 3.11.2 (main, Nov 30 2024, 21:22:50) [GCC 12.2.0] on linux
+Type &quot;help&quot;, &quot;copyright&quot;, &quot;credits&quot; or &quot;license&quot; for more information.
+&gt;&gt;&gt; 1+2+3
+6
+</code></pre>
+
+<p>Ruby:</p>
+
+<pre><code>irb(main):001:0&gt; 1+2+3
+=&gt; 6
+</code></pre>
+
+<p>Fennel:</p>
+
+<pre><code>Welcome to fennel!
+&gt;&gt; (+ 1 2 3)
+6
+</code></pre>
+
+<p>Chicken Scheme:</p>
+
+<pre><code>CHICKEN
+(c) 2008-2021, The CHICKEN Team
+(c) 2000-2007, Felix L. Winkelmann
+Version 5.3.0 (rev e31bbee5)
+linux-unix-gnu-x86-64 [ 64bit dload ptables ]
+
+Type ,? for help.
+#;1&gt; (+ 1 2 3)
+6
+</code></pre>
+
+<p><a class="account" href="https://nrw.social/@HaraldKi" title="@HaraldKi@nrw.social">@HaraldKi</a> shared that they use a shell, but not just any shell: <code>tclsh</code> with the <a href="https://www.tcl-lang.org/man/tcl8.4/TclCmd/expr.htm">expr</a> built-in command.</p>
+
+<blockquote>
+<p>Tclsh uses just double math, afair, and understands plain and simple everyday expressions you basically learned in primary school. Plus scientific notation like 2.7e22 . Plus a chunk of log, sin, cos, tan if really needed. So no brain tweaks needed. The only thing to keep in mind: add .0 to most numbers to not accidentally get &frac34; -&gt; 0.</p>
+</blockquote>
+
+<p>The key is have a function in your shell that gets transformed into a Tcl command that is piped to <code>tclsh</code>.
+In my case, using <code>fish</code>, use <code>funced calc --save</code> and use the following:</p>
+
+<pre><code>function calc
+  echo &quot;puts [expr {$args}]&quot; | tclsh
+end
+</code></pre>
+
+<p>At the shell prompt:</p>
+
+<pre><code>&gt; calc 1+2+3
+6
+&gt; calc 4/3
+1
+&gt; calc 4/3.0
+1.3333333333333333
+</code></pre>
+
+<p>What about the other options?</p>
+
+<p>I think the key is that they have to startup fast and be ready to type.
+<code>bc</code> certainly qualifies.
+Just remember to set the scale!
+Or use the <code>--mathlib</code> option.</p>
+
+<pre><code>bc 1.07.1
+Copyright 1991-1994, 1997, 1998, 2000, 2004, 2006, 2008, 2012-2017 Free Software Foundation, Inc.
+This is free software with ABSOLUTELY NO WARRANTY.
+For details type `warranty'.
+1+2+3
+6
+4/3
+1
+scale=3
+4/3
+1.333
+</code></pre>
+
+<p><code>dc</code> has reverse-polish notation (RPN) but is very terse.
+Tokens are separated by spaces or newlines.
+Thus, the Enter key doesn&rsquo;t print a result. You need to use the <code>p</code> command.
+Again, the default is integer math.
+Use the <code>k</code> command to switch scale.</p>
+
+<pre><code>1 2 3 + + p
+6
+4 3 / p
+1
+3 k 4 3 / p
+1.333
+</code></pre>
+
+<p>A weird part is that you need to enter negative numbers using the underscore (<code>_3</code> for -3).</p>
+
+<p>By contrast, my favourite calculator in the terminal right now is <code>orpie</code>.
+You get reverse-polish notation and immediate feedback.</p>
+
+<pre><code>Orpie v1.6.1 -- swap drop dup view    | 25:
+--------------------------------------| 24:
+Calculator Modes:                     | 23:
+  angle: RAD  base: DEC  complex: REC | 22:
+                                      | 21:
+Common Operations:                    | 20:
+  enter    : &lt;return&gt;                 | 19:
+  drop     : \                        | 18:
+  swap     : &lt;pagedown&gt;               | 17:
+  backspace: \177                     | 16:
+  add      : +                        | 15:
+  subtract : -                        | 14:
+  multiply : *                        | 13:
+  divide   : /                        | 12:
+  y^x      : ^                        | 11:
+  negation : n                        | 10:
+Miscellaneous:                        |  9:
+  scientific notation     : &lt;space&gt;   |  8:
+  abbreviation entry mode : '         |  7:
+  stack browsing mode     : &lt;up&gt;      |  6:
+  refresh display         : C-L       |  5:
+  quit                    : Q         |  4:
+                                      |  3:
+                                      |  2:                                   6
+                                      |  1:                    1.33333333333333
+--------------------------------------------------------------------------------
+
+</code></pre>
+
+<p>Emacs comes with <code>M-x quick-calc</code> which simply asks for an expression and prints the result:</p>
+
+<pre><code>Result: 1 + 2 + 3 =&gt;  6  (16#6, 8#6, 2#110, &quot;^F&quot;)
+</code></pre>
+
+<p>Then there&rsquo;s <code>M-x calculator</code> which comes with its own mode. You can use <code>o h</code> to switch output to hex, for example. So adding up 1 + 2 + 3 + 4 results in 10, or A in hex.</p>
+
+<pre><code>Calc==H&gt; A
+</code></pre>
+
+<p>And finally there is <code>M-x calc</code>.
+Check out the <a href="https://github.com/ahyatt/emacs-calc-tutorials/blob/master/README.org">short tutorials</a> by Andrew Hyatt, if you&rsquo;re interested in learning more.
+As I said above, this is my default solution. <code>1 RET 2 RET 3 RET + +</code> and there we go. Plus a trail over on the right in case you&rsquo;re confused.</p>
+
+<pre><code>---------------------- Emacs Calculator Mode ---------------------- |----- Emacs Calculator Trail -----
+1:  6                                                               |     1
+    .                                                               |     2
+                                                                    |     3
+                                                                    |   + 5
+                                                                    |   +&gt;6
+                                                                    |
+                                                                    |
+-UUU:%*--F1  Calc: 12 Deg    All L2     (Calculator) ---------------|-UUU:%*--F1  *Calc Trail*   All L5
+</code></pre>
+
+<p>Copying the result runs into a tiny problem, for me: The stack depth is copied along with it! So if you copy the above result (6), what you actually get is <code>1: 6</code>. Which is never what I want to paste elsewhere. Never.</p>
+
+<p><a class="account" href="https://sfba.social/@kickingvegas" title="@kickingvegas@sfba.social">@kickingvegas</a> suggested <a href="https://github.com/kickingvegas/casual?tab=readme-ov-file#calc-elisp-library-casual-calc">casual-calc</a>, which is part of &ldquo;a project to re-imagine the primary user interface for Emacs using keyboard-driven menus&rdquo;.</p>
+
+<p><a class="account" href="https://helvede.net/@m" title="@m@helvede.net">@m</a> suggested <a href="https://qalculate.github.io/">qcalc</a> which also offers “currency conversion”:</p>
+
+<blockquote>
+<p>The exchange rates can be updated manually using File → Update Exchange Rates, or automatically at specific intervals (by default once every week, but this can be changed in the preferences dialog), when needed (when currencies are converted).</p>
+</blockquote>
+
+<p>Apparently it gets the exchange rates from the European Central Bank and Coinbase App APIs.</p>
+
+<p>Another option is spreadsheets, of course.
+<a class="account" href="https://merveilles.town/@neauoire" title="@neauoire@merveilles.town">@neauoire</a> mentioned <a href="https://wiki.xxiivv.com/site/nebu">nebu</a>.
+I don&rsquo;t have a Varvara system up and running, however.</p>
+
+<p>There is <code>sc</code>, of course.
+If you don&rsquo;t want to hit <code>=</code> for every number you enter, use <code>-n</code> for &ldquo;quick numeric entry&rdquo;.
+I&rsquo;m not sure how I can quickly select the range for something like <code>@sum(A0:A2)</code> but it certainly seems possible to use <code>sc</code> for interesting stuff.</p>
+
+<pre><code>B2 (10 2 0) [B0/B1]
+
+        A         B         C         D         E         F         G
+  0       1.00      4.00
+  1       2.00      3.00
+  2       3.00      1.33
+  3       6.00
+  4
+  5
+  6
+  7
+  8
+  9
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+</code></pre>
+
+<p>Visidata (<code>vd</code>) also looks interesting. Sadly I have no idea how to do anything. 😂</p>
+
+<pre><code>  File  Edit  View  Column  Row  Data  Plot  System  Help     Ctrl+H for help menu
+ directory          │ filename           ║ ext                │ size              #│ modtime
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1› .|                                                              BUTTON1_RELEASED   no-op 0 files  •0
+</code></pre>
+
+<p>Of course, Emacs also comes with a spreadsheet. Visit an empty file ending with <code>.ses</code>.
+Enter a number. To add a new row, use <code>down</code> then create a new cell using <code>TAB</code> and enter a second number.
+When you need a formula, use <code>(apply ses+ (ses-range A1 A3))</code>, for example.</p>
+
+<pre><code>File Edit Options Buffers Tools SES Help
+A       B       C       D
+      1
+      2
+      3
+      6
+</code></pre>
+
+<p><a class="tag" href="/search/?q=%23Calculators">#Calculators</a> <a class="tag" href="/search/?q=%23Spreadsheets">#Spreadsheets</a> <a class="tag" href="/search/?q=%23Software">#Software</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-13-calc>
+
+---
+
+## March 12, 2025
+
+date: 2025-03-13, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159018057/a440ee33d5c267af81792e877578f331.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159018057/a440ee33d5c267af81792e877578f331.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-12-2025-bc9>
+
+---
+
+## Why Teddy Roosevelt’s face will remain on Mount Rushmore and Trump’s image will never be there or anywhere else
+
+date: 2025-03-13, from: Robert Reich's blog
+
+Three quotes 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-teddy-roosevelts-face-will-remain>
+
+---
+
+## Swift Assist Hasn’t Shipped, and Isn’t Yet in Beta
+
+date: 2025-03-13, updated: 2025-03-13, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/12/whither-swift-assist/>
+
+---
+
+## RIP Mark Klein
+
+date: 2025-03-13, updated: 2025-03-13, from: Bruce Schneier blog
+
+<p>2006 AT&#38;T whistleblower Mark Klein has <a href="https://www.eff.org/deeplinks/2025/03/memoriam-mark-klein-att-whistleblower-about-nsa-mass-spying">died</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/rip-mark-klein.html>
+
+---
+
+## Apple Intelligence: Fud, Dud or Both
+
+date: 2025-03-13, from: Om Malik blog
+
+John Gruber is not mincing his words. What Apple showed regarding the upcoming “personalized Siri” at WWDC was not a demo. It was a concept video. Concept videos are bullshit, and a sign of a company in disarray, if not crisis. The Apple that commissioned the futuristic “Knowledge Navigator” concept video in 1987 was the &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/13/apple-intelligence-fud-dud-or-both/>
+
+---
+
+## The writer's web
+
+date: 2025-03-13, from: Dave Winer's Scripting News
+
+<p>The web was initially <a href="https://www.ietf.org/rfc/rfc1866.txt">designed</a> for writers. Styling, links, paragraphs, titles (at all levels). The ability to edit. No character limits. That's what we had to work with when we started blogging in the mid-late 90s. </p>
+<p>Then there was a big <a href="http://scripting.com/2016/09/22/tenYearsUsingTwitter.html">corner-turn</a> in 2006. In an instant the web shrunk to almost nothing. No titles, no style, no links, 140 chars max. Enough to say "I'm waiting in line at the bank." Nothing wrong with that, but it isn't what I think of as writing. </p>
+<p>A couple of years ago, I decided to focus on writers once again. I started developing ideas of what <i>the writer's web</i> would look like if we used today's technology. And here are the three main directions.</p>
+<ul>
+<li><b>New technology</b>. Since the last time we looked, Markdown was invented. RSS feeds had become instant. Websockets replaced long polling. Servers got cheap! And SQL is fast and the tools are much better. We'll use all the best new technology.  </li>
+<li><b>Modern interfaces</b>. We'll borrow the best ideas from twitter-like systems. Writing a new post should be as easy as writing a tweet, but with all the features writers need at-hand, easy to access. </li>
+<li><b>Open, for real</b>. And best of all, it'll be open, for real, now -- not some day. Each component will be completely replaceable with simple APIs, and lots of example code. </li>
+</ul>
+<p>I'm going to use WordPress as my basic back-end technology because it is reliable and broadly deployed, but you don't have to. The great thing about the web is that it's already federated. Nothing to wait for. <span class="spOldSchoolEmoji">😄</span> </p>
+<p>We know how to do this. The only remaining question imho is whether we <i>choose</i> to.</p>
+<p>What does the writer's web mean to you? Write a blog post. Start now.</p>
+<p><i>Let's write together!</i></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/13/132830.html?title=theWritersWeb>
 
 ---
 
@@ -35,6 +568,19 @@ date: 2025-03-13, updated: 2025-03-13, from: Liam Proven's articles at the Regis
 
 ---
 
+## Google slips built-in terminal, Debian Linux VM into Android 15 March feature drop
+
+date: 2025-03-13, updated: 2025-03-13, from: Liam Proven's articles at the Register
+
+<h4>Try it out now on Pixel phones for some penguin on penguin fun</h4>
+      <p>The March &#34;feature drop&#34; for Android 15 on Google Pixel devices includes an optional Linux session.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/13/android_15_linux_debian_terminal/>
+
+---
+
 ## Why we need a new free speech movement
 
 date: 2025-03-13, from: Robert Reich's blog
@@ -61,7 +607,7 @@ Trump&#8217;s 25% tariffs on all aluminum and steel imported into the U.S.
 
 ## ★ Something Is Rotten in the State of Cupertino
 
-date: 2025-03-12, updated: 2025-03-13, from: Daring Fireball
+date: 2025-03-12, updated: 2025-03-14, from: Daring Fireball
 
 Who decided these personalized Siri features should go in the WWDC keynote, with a promise they’d arrive in the coming year, when, at the time, they were in such an unfinished state they could not be demoed to the media even in a controlled environment? Three months later, who decided Apple should double down and advertise these features in a TV commercial, and promote them as a selling point of the iPhone 16 lineup? 
 

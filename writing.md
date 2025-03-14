@@ -1,11 +1,55 @@
 ---
 title: writing
-updated: 2025-03-13 06:11:32
+updated: 2025-03-14 06:07:41
 ---
 
 # writing
 
-(date: 2025-03-13 06:11:32)
+(date: 2025-03-14 06:07:41)
+
+---
+
+## New Books Video for the Week of March 11th, 2025!
+
+date: 2025-03-13, from: Locus Magazine
+
+<p>We&#8217;re excited to share our picks for the top new releases in the SF, Fantasy, Horror, and YA fields this week! If you&#8217;re looking to keep up-to-date on future videos, and support what we do, come by and subscribe to our YouTube channel! We release a new video every week and we&#8217;re always looking for new books for you to add to your growing TBR pile!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div>
+<p>&#160; <a href="https://locusmag.com/2025/03/new-books-video-for-the-week-of-march-11th-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/new-books-video-for-the-week-of-march-11th-2025/>
+
+---
+
+## Embracing Failure Is a Screenwriter’s Greatest Tool
+
+date: 2025-03-13, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/embracing-failure-is-a-screenwriters-greatest-tool" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20a%20woman%20working%20at%20a%20table%20writing%20in%20a%20journal%2c%20crumpled%20paper%20scattered%20around%20her.png" alt="Image of a woman working at a table writing in a journal, crumpled paper scattered around her" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>One of the most stressful parts of being a creative is dealing with failure. What if the transition between act two and act three doesn’t work? What if your secondary character’s story arc doesn’t make sense? Even worse – what if your protagonist’s story arc doesn’t make sense?&nbsp;<br><br>The endless possibility of “what-ifs” that highlight the shortcomings of your screenplay can stop you midsentence and make you never return to your draft.&nbsp;<br><br>But what if failure was a part of the process? Instead of looking at it like a bad word with baggage, failure can help screenwriters – at least that’s the philosophy that <a href="https://blog.finaldraft.com/write-on-inside-out-2-co-writers"><em>Inside Out 2</em> screenwriters</a> Meg LeFauve and Dave Holstein and the rest of the Pixar team live by.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/embracing-failure-is-a-screenwriters-greatest-tool>
+
+---
+
+## The Legacy of Arniston House by T.L. Huchu: Review by Colleen Mondor
+
+date: 2025-03-13, from: Locus Magazine
+
+<p><strong>The Legacy of Arniston House</strong>, T.L. Huchu (Tor 978-1-250-88309-4, $29.99, 400pp, hc) November 2024. Cover by Leo Nickolls.</p>
+<p>When I sat down the week before Christ­mas to review <strong>The Legacy of Arniston House</strong>, the latest in T.L. Huchu’s Ed­inburgh Nights series, I had all four of his books stacked up beside my computer. I began reading the series just after Thanksgiving and quickly blew through the adventures of  <a href="https://locusmag.com/2025/03/the-legacy-of-arniston-house-by-t-l-huchu-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/the-legacy-of-arniston-house-by-t-l-huchu-review-by-colleen-mondor/>
 
 ---
 
