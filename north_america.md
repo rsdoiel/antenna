@@ -1,11 +1,329 @@
 ---
 title: north america
-updated: 2025-03-14 06:07:37
+updated: 2025-03-15 06:07:22
 ---
 
 # north america
 
-(date: 2025-03-14 06:07:37)
+(date: 2025-03-15 06:07:22)
+
+---
+
+## Evening Roundup: March 14
+
+date: 2025-03-14, from: The Contrarian
+
+Norm Eisen makes us proud, Jen interviews Reps. Madeleine Dean, Abigail Spanberger, and Jake Auchincloss, The Democracy Index, Azza Cohen, Jamie Schler, Shalise Manza Young, Ruben Bolling, and Esther! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-14>
+
+---
+
+## The Little Town That Stood Up to Big Oil
+
+date: 2025-03-14, from: Capital and Main
+
+<p>How one Pennsylvania community pushed the fracking industry away from their homes and schools, even as statewide efforts have stalled.</p>
+<p>The post <a href="https://capitalandmain.com/the-little-town-that-stood-up-to-big-oil">The Little Town That Stood Up to Big Oil</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-little-town-that-stood-up-to-big-oil>
+
+---
+
+## Despite rising egg prices, a historic San Francisco soufflé restaurant hangs on
+
+date: 2025-03-14, from: Market Place
+
+Jacqueline Margulis, now 88, opened her soufflé-centric cafe in San Francisco 45 years ago. When will she put down her whisk? 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/souffle-restaurant-san-francisco-eggs-dining-french/>
+
+---
+
+## Have mortgage rates dropped enough to spur homebuyers this spring?
+
+date: 2025-03-14, from: Market Place
+
+Four out of five prospective buyers won’t act until mortgage rates fall further, a recent U.S. News &#038; World Report survey found. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/mortgage-rates-drop-spring-homebuying-buyers-loans-economy/>
+
+---
+
+## U.S. wants Chinese consumers to spend more and shrink the trade gap. That won’t be easy.
+
+date: 2025-03-14, from: Market Place
+
+A look at why consumption in China has been sluggish. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/chinese-consumers-american-goods-consumption-china-economy-trump-trade-balance/>
+
+---
+
+## Live with Jennifer Rubin
+
+date: 2025-03-14, from: The Contrarian
+
+Norm and Jen offer their response to Donald Trump's rambling, desperate attack on Norm at the DOJ. A backhanded compliment to all Contrarians! 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159094331/8b91009200a8440c1cd4faab1e0dcfd2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159094331/8b91009200a8440c1cd4faab1e0dcfd2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/live-with-jennifer-rubin>
+
+---
+
+## Jen Rubin and Abigail Spanberger on Trump failing Virginians
+
+date: 2025-03-14, from: The Contrarian
+
+Jen Rubin is joined by Abigail Spanberger, a former Representative of Virginia, to talk about how Trump and DOGE&#8217;s irresponsible federal policies are wrecking the lives of everyday people. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159068804/d222b1161c75fe3bdd638236180066df.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159068804/d222b1161c75fe3bdd638236180066df.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-abigail-spanberger>
+
+---
+
+## USDA cuts funding that paid for fresh, local food for schools and food banks
+
+date: 2025-03-14, from: Market Place
+
+The programs accounted for more than a billion dollars’ worth of contracts for small farmers, ranchers and fishermen. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/usda-funding-cuts-schools-farmers-food-banks-fresh-local-produce/>
+
+---
+
+## My response to Donald Trump's DOJ attack
+
+date: 2025-03-14, from: The Contrarian
+
+***Special Contrarian Alert*** We're going to work even harder due to the Trump's lashing and backhanded compliment to me and to all Contrarians who believe in 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159093706/e9f0c2c392f90f417fe8ce1658f1c4d8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159093706/e9f0c2c392f90f417fe8ce1658f1c4d8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/norm-responds-to-donald-trump-lashing>
+
+---
+
+## Trump Pushes Corporate Takeover of National Forests to Increase Timber Production
+
+date: 2025-03-14, from: Capital and Main
+
+<p>Forest Service employees fear the administration’s moves to strip environmental protections and reduce the federal workforce could have devastating consequences for public lands.</p>
+<p>The post <a href="https://capitalandmain.com/trump-pushes-corporate-takeover-of-national-forests-to-increase-timber-production">Trump Pushes Corporate Takeover of National Forests to Increase Timber Production</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-pushes-corporate-takeover-of-national-forests-to-increase-timber-production>
+
+---
+
+## Salade niçoise
+
+date: 2025-03-14, from: The Contrarian
+
+Hope springs eternal 
+
+<br> 
+
+<https://contrarian.substack.com/p/salade-nicoise>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-03-14, from: The Contrarian
+
+Meet Esther! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-09d>
+
+---
+
+## The Democracy Index
+
+date: 2025-03-14, from: The Contrarian
+
+March 14, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-f70>
+
+---
+
+## Jen Rubin and Congresswoman Madeleine Dean on the Controversial Continuing Resolution
+
+date: 2025-03-14, from: The Contrarian
+
+Jen Rubin is joined by Pennsylvanian Congresswoman Madeleine Dean to talk through the impending government shutdown and the devastating effects the Trump-Musk regime has had on the economy. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158875898/f583c5d941f5b4bef96043809bd5b740.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158875898/f583c5d941f5b4bef96043809bd5b740.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-congresswoman-madeleine>
+
+---
+
+## Wisconsin businesses cannot afford an unbalanced court beholden to Washington
+
+date: 2025-03-14, from: The Contrarian
+
+That's why we support Susan Crawford for the state Supreme Court. 
+
+<br> 
+
+<https://contrarian.substack.com/p/wisconsin-businesses-cannot-afford>
+
+---
+
+##  Big Tech’s Forever War (TRANSCRIPT) 
+
+date: 2025-03-14, from: The Lever News
+
+ Following is an unedited, automated transcript of the podcast episode titled “Big Tech’s Forever War.”  
+
+<br> 
+
+<https://www.levernews.com/big-techs-forever-war-transcript/>
+
+---
+
+##  Big Tech’s Forever War 
+
+date: 2025-03-14, from: The Lever News
+
+ Rohit Chopra and other experts discuss how technology is changing reality and what can be done to stop it.  
+
+<br> 
+
+<https://www.levernews.com/big-techs-forever-war/>
+
+---
+
+## Fred Ross’ Organizing Legacy
+
+date: 2025-03-14, from: Capital and Main
+
+<p>A new documentary about Cesar Chavez’s mentor offers lessons for activists in dark times.</p>
+<p>The post <a href="https://capitalandmain.com/fred-ross-organizing-legacy">Fred Ross’ Organizing Legacy</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/fred-ross-organizing-legacy>
+
+---
+
+## Welcome to Split Screen
+
+date: 2025-03-14, from: The Contrarian
+
+In my regular column, I'll look at the ways images shape perception. 
+
+<br> 
+
+<https://contrarian.substack.com/p/welcome-to-split-screen>
+
+---
+
+## The pernicious end of the EPA's environmental justice office
+
+date: 2025-03-14, from: The Contrarian
+
+The president and his cronies have been seem to have been taking aim at Black Americans since Day 1. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-pernicious-end-of-the-epas-environmental>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-14, from: The Contrarian
+
+Friday: Letting your neighbors know where you stand, plus protests in California, Pennsylvania, North Carolina and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Tom the Dancing Bug: Friday's comic
+
+date: 2025-03-14, from: The Contrarian
+
+Elon Musk and his DOGE pals in 'Auto Graft' 
+
+<br> 
+
+<https://contrarian.substack.com/p/tom-the-dancing-bug-fridays-comic-fcc>
+
+---
+
+## The ripple effects of Minnesota’s racial covenants are still being felt
+
+date: 2025-03-14, from: Market Place
+
+Racial covenants were used to prevent people of color from owning property, and can partially be blamed for lingering racial wealth gaps.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/the-ripple-effects-minnesotas-racial-covenants-are-still-being-felt/>
+
+---
+
+## A career in the fast lane: what it takes to be a vintage race car mechanic
+
+date: 2025-03-14, from: Market Place
+
+Marketplace listener Nick Polimeni gives us a behind-the-scenes look at his unique line of work.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/vintage-race-car-mechanic/>
+
+---
+
+## Jen Rubin and Rep. Jake Auchincloss discuss the looming government shutdown & how to push back
+
+date: 2025-03-14, from: The Contrarian
+
+On the eve of a looming government shutdown, Jen Rubin interviews Rep. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159031170/0b03e19cbc92165ec107babdb8cc6c83.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159031170/0b03e19cbc92165ec107babdb8cc6c83.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-rep-jake-auchincloss>
 
 ---
 
@@ -231,18 +549,6 @@ The actions have ground NIH to a halt and sent shockwaves through academia and t
 <br> 
 
 <https://contrarian.substack.com/p/trumps-deliberate-destruction-of>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-13, from: The Contrarian
-
-Thursday: A sign that sums it up, a protest at SpaceX, protests in New York in support of a green card detainee, planning for March 14 protests and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -1315,4 +1621,81 @@ date: 2025-03-09, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-cereal-of-the-damned/>
+
+---
+
+## Here comes the House
+
+date: 2025-03-08, from: The Contrarian
+
+Publisher's Roundup, 8 
+
+<br> 
+
+<https://contrarian.substack.com/p/here-comes-the-house>
+
+---
+
+##  YOU LOVE TO SEE IT:  Defrosting The Funding Freeze 
+
+date: 2025-03-08, from: The Lever News
+
+ Aid money starts to flow, vital youth care is affirmed, a radical housing plan takes root, and desert water gets revolutionized.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-defrosting-the-funding-freeze/>
+
+---
+
+## How do researchers measure income inequality?
+
+date: 2025-03-08, from: Market Place
+
+Common economic measurements, like GDP growth, tell us how fast the economic pie is growing. But they don’t tell us how the pie is getting distributed.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/07/how-do-researchers-measure-income-inequality/>
+
+---
+
+## Oh, the irony!
+
+date: 2025-03-08, from: Market Place, Make me Smart
+
+<p>President Donald Trump’s family business is suing Capital One for closing its bank accounts in the aftermath of the Jan. 6 attack on the Capitol, arguing the bank violated consumer protection laws. Where&#8217;s the Consumer Financial Protection Bureau when ya need &#8217;em? Then, Kimberly breaks down two moves by the White House that could have sweeping consequences for law firms who work on cases against the Trump administration. Plus, we&#8217;ll weigh in on Trump&#8217;s strategic bitcoin reserve and tariff whiplash during a game of Half Full/Half Empty! Oh, and should there be a half-time show at the 2026 World Cup final?</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/03/07/us/politics/trump-organization-capital-one-lawsuit.html" target="_blank" rel="noreferrer noopener">&#8220;Trump Organization Sues Capital One for Closing Its Accounts&#8221;</a> from The New York Times</li>
+<li><a href="https://apnews.com/article/dei-purge-images-pentagon-diversity-women-black-8efcfaec909954f4a24bad0d49c78074">&#8220;War heroes and military firsts are among 26,000 images flagged for removal in Pentagon&#8217;s DEI purge&#8221;</a> from AP News</li>
+<li><a href="https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-ensures-the-enforcement-of-federal-rule-of-civil-procedure-65c/">&#8220;Fact Sheet: President Donald J. Trump Ensures the Enforcement of Federal Rule of Civil Procedure 65(c)&#8221;</a> from the White House</li>
+<li><a href="https://lawandcrime.com/high-profile/must-cover-the-costs-trump-directs-doj-to-enforce-a-rule-of-civil-procedure-and-seek-security-bonds-from-activist-groups-that-win-injunctions-against-the-government/">&#8220;Trump directs DOJ to seek security bonds for injunctions&#8221;</a> from Law and Crime</li>
+<li><a href="https://www.politico.com/news/2025/03/06/trump-security-clearance-steele-dossier-025203">&#8220;Trump targets prominent Democratic-linked law firm&#8221;</a> from Politico</li>
+<li><a href="https://mktplc.org/3DqZVCi">&#8220;Your tariff questions, answered.&#8221;</a> from the Marketplace newsletter</li>
+<li><a href="https://www.marketplace.org/2025/03/07/dunkin-nondairy-milk-surcharge-coffee/">&#8220;Why coffee shops like Dunkin&#8217; are dropping nondairy milk fees&#8221;</a> from Marketplace</li>
+<li><a href="https://www.washingtonpost.com/business/2025/03/07/powell-fed-caution/">&#8220;Fed chair signals patience amid Trump’s tariff whiplash&#8221;</a> from The Washington Post</li>
+<li><a href="https://www.npr.org/2025/03/05/nx-s1-5318759/fifa-world-cup-first-halftime-show-coldplay">&#8220;In a first, the 2026 World Cup final will include a halftime show&#8221;</a> from NPR</li>
+<li><a href="https://www.nytimes.com/2025/03/07/travel/ai-travel-planning-nyc.html">&#8220;Can an A.I. Travel Bot Plan Your Trip to NYC?&#8221;</a> from The New York Times</li>
+</ul>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/07/mms_20250307_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Foh-the-irony&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/07/mms_20250307_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Foh-the-irony&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/oh-the-irony>
+
+---
+
+##  Do Democrats Have A Game Plan? 
+
+date: 2025-03-08, from: The Lever News
+
+ The Democratic Party has lost the trust of working-class voters. This congressman says he has the key to winning them back.  
+
+<br> 
+
+<https://www.levernews.com/do-democrats-have-a-game-plan/>
 

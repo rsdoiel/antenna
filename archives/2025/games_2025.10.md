@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-03-14 06:07:41
+updated: 2025-03-15 06:07:26
 ---
 
 # games
 
-(date: 2025-03-14 06:07:41)
+(date: 2025-03-15 06:07:26)
+
+---
+
+## Moana 2, Better Man, The Electric State on Netflix, and every movie new to streaming this week
+
+date: 2025-03-14, updated: 2025-03-13, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Moana 2, the sequel to Disney’s animated splash hit starring Dwayne “The Rock” Johnson and Auliʻi Cravalho, finally comes to streaming (pun intended) on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/536623/new-movies-watch-streaming-moana-2-better-man-electric-state-netflix>
+
+---
+
+## How to get the Sane Jewel in Monster Hunter Wilds
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+The Sane Jewel is a decoration in Monster Hunter Wilds that is a bit challenging to locate, but the effects granted by it are worth the trouble. If you’re struggling on how to get the Sane Jewel, or what it does, read on. We cover what the Sane Jewel is and tell you how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/540219/sane-jewel-how-to-get>
+
+---
+
+## How to get Armorcharm and Powercharm in Monster Hunter Wilds
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+Both the Armorcharm and the Powercharm are powerful key items in Monster Hunter Wilds. You’ll get both of them as rewards for High Rank quests. You only get them as rewards the first time you complete each quest. The Armorcharm raises your defense by 12. The Powercharm raises your attack by 6. Our Monster Hunter [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/540025/armorcharm-powercharm-how-to-get>
+
+---
+
+## The Electric State should have been a video game
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+Director brothers Joe and Anthony Russo love to dream big, on screen and off. After delivering the grandest season finale of all time, 2019’s Avengers: Endgame, the duo set off in a million different directions, including franchise-building at Netflix, partnering with Epic on Fortnite, and pontificating on the future of AI in movies. They do [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/action/540137/electric-state-netflix-movie-review>
+
+---
+
+## Here’s what Troy Baker did to sound uncannily like Indiana Jones
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+I wonder if the developers of Indiana Jones and the Great Circle — several years ago, when they were first outlining the game’s core pillars — felt like they knew what they were getting into when they decided to go the full-likeness route. That is, that the game’s protagonist wouldn’t just be “Indiana Jones,” but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/540046/indiana-jones-great-circle-troy-baker-voice-acting>
+
+---
+
+## Which of Nintendo’s internal teams might already be working on Switch 2 games?
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+This story was first published in Switchboard, a newsletter from Polygon that delivers all the latest Switch 2 news, reporting, and rumors directly to your inbox. Sign up here to get it weekly. Nintendo’s Switch 2 reveal in January showed very little in the way of games, except an untitled new Mario Kart. We’ll have [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/539478/switch-2-games-nintendo-internal-dev-teams>
+
+---
+
+## Save on dozens of our favoite TTRPGs at DriveThruRPG
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+Your GM puts up with your party’s antics week after week, so why not show them a little love by checking out DriveThruRPG’s GM Day sale? This sale includes plenty of core rulebooks if you’re looking to get introduced to a new system like the Alien RPG, Cyberpunk RED, or Dune: Adventures in the Imperium. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/539861/drivethrurpg-gm-day-cyberpunk-fallout-dune-ttrpg-deals>
+
+---
+
+## How to get herbivore carapaces in Monster Hunter Wilds
+
+date: 2025-03-14, updated: 2025-03-14, from: Polygon Website
+
+Herbivore carapaces are an equipment material in Monster Hunter Wilds. You’ll get them from hunting certain small monsters or as rewards for certain hunts once you reach High Rank. The Low Rank version is called an herbivore shell. You’ll need herbivore carapaces for armor like the Death Stench set and the High Rank Doshaguma Mail. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/539826/herbivore-carapaces-how-to-get>
 
 ---
 
@@ -558,4 +654,112 @@ The perfect murder mystery is a rare thing to come by these days. Procedurals ar
 <br> 
 
 <https://www.polygon.com/what-to-watch/536225/school-spirits-watch-it-good-murder-mystery>
+
+---
+
+## The coolest game developer ever put to film appears in a very unexpected movie
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+Game developers get pretty short shrift on screen, mostly by not being represented at all. Filmmakers generally love to make movies about driven, uncompromising artists just like themselves, but for some reason — probably either snobbery, fear, or lack of understanding — they don’t often choose people who make video games as subjects. On the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/535933/yi-yi-ota-game-developer-movies>
+
+---
+
+## Who said it, Daredevil’s Wilson Fisk or actual NYC mayor Eric Adams? 
+
+date: 2025-03-08, updated: 2025-03-08, from: Polygon Website
+
+I’m both a lifelong superhero fan and a born and bred New Yorker, which means that as this week’s Daredevil: Born Again rolled out its version of Wilson “The Kingpin” Fisk’s rise to the office of mayor of New York City, I wasn’t thinking about what this would mean for Matt Murdock. Instead, I was [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/535591/daredevil-kingpin-mayor-wilson-fisk-eric-adams-born-again>
+
+---
+
+## Discover more than a dozen game consoles you never knew about
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+History is told by the winners, the saying goes, and that’s certainly been true with English-language coverage of the video game industry. Want coverage of the NES and PlayStation? That’s easy to find. Want coverage of the Zemmix and Dendy? Were you even aware they existed? Lewis Packwood’s book Curious Video Game Machines was written [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/535455/curious-video-game-machines-book-interview>
+
+---
+
+## Sorry We’re Closed is a stylish, sexy survival horror surprise
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+I had no idea what I was getting into when I jumped into the world of Sorry We’re Closed, a narrative-driven survival horror adventure that pairs the grime and decay of Silent Hill with the stylish, sexed-up demons of Persona games. But the artists behind Sorry We’re Closed have managed to remix some of my [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/535708/sorry-were-closed-impressions-survival-horror>
+
+---
+
+## The best thrillers to watch on Netflix this March
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+Spring is nearly here, and that means Netflix has mixed up its library with plenty of new movies for you to discover. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they pair well with an upcoming release. Other titles might be new additions to the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/535079/best-thriller-movies-netflix-watch-march-2025>
+
+---
+
+## Pokémon Go Fuecoco Community Day guide
+
+date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
+
+Pokémon Go is having a Fuecoco Community Day event on Saturday, March 8, from 2-5 p.m. in your local time. As expected with a Community Day event, Fuecoco will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve listed out below. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/534548/fuecoco-community-day-shiny-skeledirge-moveset>
+
+---
+
+## Gigantamax Charizard counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
+
+Gigantamax Charizard was one of the first Gigantamax Pokémon to show up in Pokémon Go, alongside its fellow Kanto starters, Blastoise and Venusaur. The first time around, Charizard was pretty hard to beat, but now there are a few more Dynamax Pokémon that can help you take it down when it returns on March 8 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/535385/gigantamax-charizard-counters-weakness-tips>
+
+---
+
+## Gigantamax Blastoise counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
+
+Gigantamax Blastoise was one of the first Gigantamax Pokémon in Pokémon Go, alongside its fellow Kanto starters, Charizard and Venusaur. While pretty difficult to take on at first, its reappearance in Max Battles on March 8 and 9 should be accessible to more players — so long as you’ve been catching some Dynamax Pokémon here [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/535489/gigantamax-blastoise-counters-weakness-tips>
+
+---
+
+## Gigantamax Venusaur counters, weakness, and battle tips in Pokémon Go
+
+date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
+
+Gigantamax Venusaur was one of the first Gigantamax Pokémon to debut in Pokémon Go, along its Kanto starter cousins, Blastoise and Charizard. At its initial launch, it was tough to grab one; players didn’t have strategies or strong counters ready. However, the plant-toad is making a return to the game on March 8 and 9, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/535219/gigantamax-venusaur-weakness-counters-tips>
 

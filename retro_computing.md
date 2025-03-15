@@ -1,11 +1,59 @@
 ---
 title: retro computing
-updated: 2025-03-14 06:07:44
+updated: 2025-03-15 06:07:29
 ---
 
 # retro computing
 
-(date: 2025-03-14 06:07:44)
+(date: 2025-03-15 06:07:29)
+
+---
+
+## Talking RISC OS North in London – 17th March
+
+date: 2025-03-14, from: RiscOS Story
+
+The last RISC OS User Group of London (ROUGOL) meeting before the next show &#8211; RISC OS North &#8211; will take place on Monday, 17th March, and that very show will be the topic of the evening; a pre-show fireside chat with Richard Brown of RISC OS Developments Ltd and Orpheus Internet taking the floor. With the show itself taking place just twelve days later, Richard has been ultra-busy &#8211; he&#8217;s both one of the co-organisers of the event, and still has to do his Orpheus Internet day job. However,&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/talking-risc-os-north-in-london-17th-march/>
+
+---
+
+## PhoneVal dials itself up to version 1.01
+
+date: 2025-03-14, from: RiscOS Story
+
+A fairly new release from Kevin Wells, PhoneVal has now been updated to version 1.01 The application uses Wget to communicate with the Number Verification API (application programmer interface) provided by API Layer (with whom you&#8217;ll need to register to receive an API key) &#8211; through which it looks up information about any phone numbers fed into it. Kevin&#8217;s update gives F3 support to the software &#8211; if there is something to save, pressing the function key will pop up a save dialogue. In addition, it now allows you to&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/phoneval-dials-itself-up-to-version-1-01/>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-03-14, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 25: The Spice Islands 
+
+<br> 
+
+<https://www.filfre.net/2025/03/this-week-on-the-analog-antiquarian/>
+
+---
+
+## CIQ Releases Security-Hardened Version of Rocky Linux
+
+date: 2025-03-14, from: Linux Magazine
+
+<p>If you're looking for an enterprise-grade Linux distribution that is hardened for business use, there's a new version of Rocky Linux that's sure to make you and your company happy.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/CIQ-Releases-Security-Hardened-Version-of-Rocky-Linux>
 
 ---
 

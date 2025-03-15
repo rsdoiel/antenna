@@ -1,11 +1,25 @@
 ---
 title: pacific
-updated: 2025-03-14 06:07:39
+updated: 2025-03-15 06:07:24
 ---
 
 # pacific
 
-(date: 2025-03-14 06:07:39)
+(date: 2025-03-15 06:07:24)
+
+---
+
+## Hilo man sentenced to 30 years for kidnapping, assaulting Kona teen
+
+date: 2025-03-14, from: Hawaii Tribune Harold
+
+
+				<p>A 54-year-old Hilo man who abducted a 15-year-old Kailua-Kona girl from a West Hawaii beach and sexually assaulted her in 2022 was sentenced this morning to 30 years in prison.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/14/hawaii-news/hilo-man-sentenced-to-30-years-for-kidnapping-assaulting-kona-teen/>
 
 ---
 
@@ -245,11 +259,39 @@ date: 2025-03-14, from: Hawaii Tribune Harold
 
 ---
 
+## One suspect nabbed in shooting of officer; other still at large
+
+date: 2025-03-14, from: Hawaii Tribune Harold
+
+
+				<p>Police arrested the driver of a white Chevy pickup truck that allegedly was the getaway vehicle for a passenger police say shot and wounded an officer this morning in the parking lot of the First Hawaiian Bank Waiakea Branch near Prince Kuhio Plaza.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/14/hawaii-news/one-suspect-nabbed-in-shooting-of-officer-other-still-at-large/>
+
+---
+
+## UPDATE: Second suspect sought by police in islandwide manhunt
+
+date: 2025-03-14, from: Hawaii Tribune Harold
+
+
+				<p><strong>UPDATE</strong> <strong>4:12 p.m.</strong></p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/14/hawaii-news/police-searching-for-armed-suspect-who-shot-officer-in-hilo/>
+
+---
+
 ## The Fish We Eat INSIGHTS ON PBS HAWAIʻI
 
 date: 2025-03-14, from: INSIGHTS ON PBS HAWAIʻI
 
-<p>During the program, you can phone in a question or leave us a comment on our Youtube.  INSIGHTS on PBS HAWAIʻI also streams live on pbshawaii.org. Panelists are: TBA &#160;</p>
+<p>Much of the fish for poke that we buy and eat in the islands is caught by local fisherman in waters near Hawaiʻi or elsewhere in the Pacific. But not all of it.</p>
 <p>The post <a href="https://www.pbshawaii.org/the-fish-we-eat-insights-on-pbs-hawai%ca%bbi/">The Fish We Eat &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
  
 
@@ -603,6 +645,30 @@ The post <a href="https://www.hawaii.edu/news/2025/03/13/2025-legislative-sessio
 <br> 
 
 <https://www.hawaii.edu/news/2025/03/13/2025-legislative-session-update/>
+
+---
+
+## Meghan Trainor Helps Consumers Reimagine and 'Re-Train' Their Laundry Routine
+
+date: 2025-03-13, updated: 2025-03-13, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/home_improvement/meghan-trainor-helps-consumers-reimagine-and-re-train-their-laundry-routine/article_7b63f684-e5a0-55c1-9683-30de4408b4e2.html>
+
+---
+
+## Achieve Optimum Wellness with endermologie by LPG: Revitalize Your Body, Relieve Stress and Enhance Sleep
+
+date: 2025-03-13, updated: 2025-03-13, from: Marianas Variety
+
+(BPT) - In the pursuit of holistic well-being, advanced technologies are revolutionizing the way we care for our bodies. One of the pioneers in this category is a company that was founded in the south of France in 1986. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/achieve-optimum-wellness-with-endermologie-by-lpg-revitalize-your-body-relieve-stress-and-enhance-sleep/article_7a345628-aafa-5530-9f2f-306629e57931.html>
 
 ---
 
@@ -2594,4 +2660,246 @@ date: 2025-03-09, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/03/09/hawaii-news/upcoming-road-closures-for-utility-work-in-hilo/>
+
+---
+
+##  Tales that will make your hair curl: How Samoan parents keep hair on their daughters’ heads
+
+date: 2025-03-08, from: Pacific Island Times
+
+A woman's hair is more than just strands growing from her head. It is a powerful part of her identity that reflects her personality, culture 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/tales-that-will-make-your-hair-curl-how-samoan-parents-keep-hair-on-their-daughters-heads>
+
+---
+
+## DOGE job cuts bring pain to Trump heartland
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>PARKERSBURG, W. Va. &#8212; Jennifer Piggott proudly hung a red-and-blue Trump campaign flag outside her one-story home during the November election race. Now, after she was abruptly fired from her civil service job, her days of supporting the president are over.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/doge-job-cuts-bring-pain-to-trump-heartland/>
+
+---
+
+## Stocks suffer worst week in months as tariffs hang over Wall Street
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>The stock market suffered its worst week in many months, after a series of dizzying policy shifts on tariffs from the White House amid simmering concerns about the health of the economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/stocks-suffer-worst-week-in-months-as-tariffs-hang-over-wall-street/>
+
+---
+
+## At crypto summit, Trump says US will be ‘the bitcoin superpower’
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>Sitting beneath a portrait of Abraham Lincoln, more than two dozen of the most powerful figures in the U.S. cryptocurrency industry, together worth many billions of dollars, gathered in the White House on Friday for an audience with President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/at-crypto-summit-trump-says-us-will-be-the-bitcoin-superpower/>
+
+---
+
+## Where do the legal cases against Trump’s executive orders stand?
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s agenda has partially stalled in court as judges pause major policy rollouts around immigration, spending and social issues, but his administration has notched some important wins as it seeks to dramatically shrink the federal bureaucracy and cut foreign aid spending.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/where-do-the-legal-cases-against-trumps-executive-orders-stand/>
+
+---
+
+## Fed in no hurry to adjust rates amid Trump policy uncertainty
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>Jerome Powell, chair of the Federal Reserve, said the central bank is focused on the &#8220;net effect&#8221; of President Donald Trump&#8217;s economic agenda, amid high uncertainty about which policies will actually be enacted, as he reiterated that officials are still not in a &#8220;hurry&#8221; to adjust interest rates.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/fed-in-no-hurry-to-adjust-rates-amid-trump-policy-uncertainty/>
+
+---
+
+## White House cancels $400 million in grants and contracts to Columbia
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration announced Friday that it had canceled $400 million in federal grants and contracts to Columbia University, an extraordinary step that it said was necessary because of what it described as the school&#8217;s failure to protect Jewish students from harassment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/white-house-cancels-400-million-in-grants-and-contracts-to-columbia/>
+
+---
+
+## Diversity dismissals begin at top US intelligence agency, lawyer says
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Officials involved in diversity, equality, inclusion and accessibility programs at the U.S. Office of the Director of National Intelligence have been ordered to resign or be fired, the lawyer for two of the officials said on Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/diversity-dismissals-begin-at-top-us-intelligence-agency-lawyer-says/>
+
+---
+
+## Gene Hackman died of heart disease days after wife succumbed to rare virus
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>SANTA FE, N.M. &#8212; Oscar-winning actor Gene Hackman was in an advanced state of Alzheimer&#8217;s and died of heart disease and other factors likely days after his wife, Betsy Arakawa, died of a rare virus spread by mice, according to autopsy results released on Friday in New Mexico.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/gene-hackman-died-of-heart-disease-days-after-wife-succumbed-to-rare-virus/>
+
+---
+
+## Texas company’s lander dies on moon the day after toppled landing
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>A day after landing on the moon, the robotic Athena spacecraft built by Intuitive Machines of Houston is dead.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/texas-companys-lander-dies-on-moon-the-day-after-toppled-landing/>
+
+---
+
+## Trump ‘strongly considering’ new sanctions on Russia to force ceasefire deal
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said Friday that he was &#8220;strongly considering&#8221; imposing sanctions and tariffs on Russia until a ceasefire and permanent peace deal was reached in its war with Ukraine, even as he defended Russia&#8217;s stepped-up attacks on Ukraine after the United States paused aid and intelligence sharing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/trump-strongly-considering-new-sanctions-on-russia-to-force-ceasefire-deal/>
+
+---
+
+## Texas, New Mexico report increase in measles cases
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>Texas and New Mexico on Friday reported an additional 59 cases of measles for a total of 228 known infections in those states, where an outbreak that began in West Texas in late January has spread, causing the first U.S. measles deaths in a decade.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/texas-new-mexico-report-increase-in-measles-cases/>
+
+---
+
+## Tropical Gardening: March comes like a lion, and leaves like a lamb
+
+date: 2025-03-08, from: Hawaii Tribune Harold
+
+
+				<p>The old saying that March comes like a lion and leaves like a lamb usually holds true, but this year, only time will tell.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/08/features/tropical-gardening-march-comes-like-a-lion-and-leaves-like-a-lamb/>
+
+---
+
+## Exploring the bizarre Pacific wildlife 
+
+date: 2025-03-08, from: Pacific Island Times
+
+There is something oddly soothing and comforting in Sir David Attenborough’s commentary on our planet’s biggest wow moments. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/exploring-the-bizarre-pacific-wildlife>
+
+---
+
+## Guam artist josh anthony enters a new era with singles ‘matcha’ and ‘badmouth’
+
+date: 2025-03-08, from: Pacific Island Times
+
+Guam artist josh anthony enters a new era with singles ‘matcha’ and ‘badmouth’ 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-artist-josh-anthony-enters-a-new-era-with-singles-matcha-and-badmouth>
+
+---
+
+## ‘Climate impacts are changing how we plan for the future:’ Q&#38;A with Kathy Jetnil-Kijiner, poet-activist 
+
+date: 2025-03-08, from: Pacific Island Times
+
+Kathy Jetnil-Kijiner/Photo courtesy of Wikipedia Microwaves By Jack Niedenthal Kathy Jetnil-Kijiner’s focus has been climate change and... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/climate-impacts-are-changing-how-we-plan-for-the-future-q-a-with-kathy-jetnil-kijiner-poet-activ>
+
+---
+
+## 23 representatives named to federal policy advisory council
+
+date: 2025-03-08, from: University of Hawaiʻi News
+
+<p>The council will meet twice a month, serving as a forum for community voices to help shape the university’s approach to evolving national policies.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/07/23-representatives-federal-policy-advisory-council/">23 representatives named to federal policy advisory council</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/07/23-representatives-federal-policy-advisory-council/>
+
+---
+
+## UH Hilo’s He ʻōlelo Ola to host Indigenous language experts
+
+date: 2025-03-08, from: University of Hawaiʻi News
+
+<p>Participants will explore <abbr>UH</abbr> Hilo’s Hawaiian language college, home to the nation’s only <abbr>BA</abbr> to <abbr>PhD</abbr> <span aria-label="olelo">&#699;&#333;lelo</span> <span aria-label="Hawaii">Hawai&#699;i</span> medium program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/07/uh-hilo-he-olelo-ola/"><abbr>UH</abbr> Hilo’s He ʻōlelo Ola to host Indigenous language experts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/07/uh-hilo-he-olelo-ola/>
 

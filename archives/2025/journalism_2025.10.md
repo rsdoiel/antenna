@@ -1,11 +1,37 @@
 ---
 title: journalism
-updated: 2025-03-14 06:07:42
+updated: 2025-03-15 06:07:27
 ---
 
 # journalism
 
-(date: 2025-03-14 06:07:42)
+(date: 2025-03-15 06:07:27)
+
+---
+
+## Preview: Learn lifesaving skills at SRC
+
+date: 2025-03-14, from: The Sundail (CSUN Student Newspaper)
+
+The Student Recreation Center’s (SRC) Aquatic Center is holding a series of American Red Cross CPR, Automated External Defibrillator (AED) and First Aid one-day certification training at the University Student... 
+
+<br> 
+
+<https://sundial.csun.edu/191356/news/preview-learn-lifesaving-skills-at-src/>
+
+---
+
+## Jon M. Chu to speak at Class of 2025 commencement
+
+date: 2025-03-14, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Chu was slated to speak last spring before the University canceled its main commencement speeches amid backlash surrounding Valedictorian Asna Tabassum.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/14/jon-m-chu-to-speak-at-class-of-2025-commencement/">Jon M. Chu to speak at Class of 2025 commencement</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/14/jon-m-chu-to-speak-at-class-of-2025-commencement/>
 
 ---
 
@@ -1035,4 +1061,66 @@ From downtown Los Angeles to Westwood, members of the LA Philharmonic are buildi
 <br> 
 
 <https://dailybruin.com/2025/03/08/ucla-faculty-at-la-philharmonic-explore-diverse-music-expand-student-education/>
+
+---
+
+## Griffith Observatory
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/griffith-observatory/>
+
+---
+
+## Medical study finds no difference in patient success outcomes for MDs, DOs
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A comparative study, using data from hospitals, concluded that the surgical program a doctor chooses produces no significant differences in their career surgical outcomes performed by allopathic and osteopathic surgeons. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/medical-study-finds-no-difference-in-patient-success-outcomes-for-mds-dos/>
+
+---
+
+## Dancing for a cause with the Pediatric AIDs Coalition
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Pediatric AIDs Coalition raises money for HIV and AIDs research through their annual Dance Marathon. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/dancing-for-a-cause-with-the-pediatric-aids-coalition/>
+
+---
+
+## Over 1,000 people protest executive orders at Stand Up For Science rally Friday
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Over 1,000 people – including students and scientists – protested Trump administration executive orders related to science and health at a Stand Up For Science rally Friday.&#160;
+Protesters gathered at noon at the intersection of Wilshire Boulevard and Veteran Avenue to protest, hear speeches and write letters to government representatives. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/over-1000-people-protest-executive-orders-at-stand-up-for-science-rally-friday/>
+
+---
+
+## Album Review: Lady Gaga’s ‘MAYHEM’ brings the magic with danceable tunes, quirky lyrics
+
+date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Lady Gaga is back in frenetic but fantastic form with her electrifying new LP.
+The 14-time Grammy winner released her latest album, &#8220;MAYHEM,&#8221; on Friday. The 14-track project arrives as the singer-songwriter&#8217;s seventh solo studio album, almost five years after 2020&#8217;s &#8220;Chromatica.&#8221; In the intervening time, Gaga&#8217;s musical output has included the remix project &#8220;Dawn Of Chromatica,&#8221; a Grammy-winning collaboration album with Tony Bennett, work on the soundtracks of the films &#8220;Top Gun: Maverick&#8221; and &#8220;Joker: Folie &#224; Deux&#8221; and her 2024 release &#8220;Harlequin.&#8221; Now back with a more traditional album rollout to accompany &#8220;MAYHEM,&#8221; Gaga has unleashed a 53-minute body of work that is undoubtedly her finest record in more than a decade &#8211; an artistic achievement made possible by returning to the avant-garde dance tracks and unconventional lyrics that made her a superstar. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/07/album-review-lady-gagas-mayhem-brings-the-magic-with-danceable-tunes-quirky-lyrics/>
 

@@ -1,11 +1,51 @@
 ---
 title: writing
-updated: 2025-03-14 06:07:41
+updated: 2025-03-15 06:07:26
 ---
 
 # writing
 
-(date: 2025-03-14 06:07:41)
+(date: 2025-03-15 06:07:26)
+
+---
+
+## Authors Alliance Comment on US AI Action Plan
+
+date: 2025-03-14, from: Author's Union blog
+
+Today, we submitted a response to a Request for Information from the Office of Science and Technology Policy (OSTP). The OSTP is seeking to develop an &#8220;AI Action Plan,&#8221; to sustain and accelerate the development of AI in the United States.&#160; As an organization dedicated to advancing the interests of authors who wish to share [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/03/14/authors-alliance-comment-on-us-ai-action-plan/>
+
+---
+
+## ‘Mickey 17’ and writing unique Science Fiction
+
+date: 2025-03-14, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/mickey-17-and-writing-unique-science-fiction" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Close-up%20of%20Robert%20Pattinson%20face%20wearing%20a%20space%20helmet%2c%20gazing%20at%20something%20above%20him%20in%20Mickey%2017.png" alt="Close-up of Robert Pattinson face wearing a space helmet, gazing at something above him in Mickey 17" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>In the first few scenes of <em>Mickey 17</em>, Mickey Barnes (Robert Pattinson) through voice over explains the wild and strange reality of the world the audience is about to experience for the next 2+ hours. He shares how he became an “Expendable,” someone who signed up for a ride on a starship voyaging to a new planet, and who is used in any number of experiments on board that can lead to death. The kicker: once you’re dead, they can reprint you and implant your memories back into your brain.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/mickey-17-and-writing-unique-science-fiction>
+
+---
+
+## Waterblack by Alex Pheby: Review by Ian Mond
+
+date: 2025-03-14, from: Locus Magazine
+
+<p><strong>Waterblack</strong>, Alex Pheby (Tor 978-1-250-81729-7, $32.00, 640pp, hc) January 2025.</p>
+<p>Toward the end of <strong>Waterblack</strong>, in the middle of one of several appendices, the omniscient narrator, who has held our hand across three novels, tells us that the “violent intentions” of one of the novel’s key antagonists, intentions that are to “fuel a series of later events,” intentions that “would end in&#8230; success&#8230; in the matter of killing  <a href="https://locusmag.com/2025/03/waterblack-by-alex-pheby-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/waterblack-by-alex-pheby-review-by-ian-mond/>
 
 ---
 
@@ -410,4 +450,42 @@ Hexagon Winter ’24</p>
 <br> 
 
 <https://locusmag.com/2025/03/cast-of-wonders-strange-horizons-and-hexagon-winter-reviews-by-charles-payseur/>
+
+---
+
+## Galaxy Raiders: Abyss, by Ian Douglas: Review by Paul Di Filippo
+
+date: 2025-03-08, from: Locus Magazine
+
+<p><strong>Galaxy Raiders: Abyss</strong>, Ian Douglas (Harper Voyager 978-0063205741, trade paperback, 400pp, $18.99) February 2025</p>
+<p>I think most folks are well aware of how SF/F/H concepts trickle out into the public domain, and percolate through the minds of citizenry who might never have read a relevant book or even experienced a relevant media presentation. Take “teleportation,” for instance. Once an abstruse notion that meant nothing to the average citizen of  <a href="https://locusmag.com/2025/03/galaxy-raiders-abyss-by-ian-douglas-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/galaxy-raiders-abyss-by-ian-douglas-review-by-paul-di-filippo/>
+
+---
+
+## Analog: Short Fiction Reviews by A.C. Wise
+
+date: 2025-03-08, from: Locus Magazine
+
+<p>Analog 11-12/24</p>
+<p>“<strong>That Far, Uncharted Ocean</strong>” by <strong>Auston Haber­shaw </strong>in the November/December issue of Analog features recurring characters and a world appear­ing in previous Analog stories by the author. Amos Tambly is recruited by the Thraad, snaillike aliens, who want to win a sailing regatta but have no knowledge of boats and are afraid of the ocean. Amos agrees, but ultimately learns that the Thraad intend to wipe  <a href="https://locusmag.com/2025/03/analog-short-fiction-reviews-by-a-c-wise-3/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/analog-short-fiction-reviews-by-a-c-wise-3/>
+
+---
+
+## ✍️ #239 - A Better Way to Write
+
+date: 2025-03-08, from: Interesting, a blog on writing
+
+Or, when we need guidance to break out of our habits 
+
+<br> 
+
+<https://inneresting.substack.com/p/239-a-better-way-to-write>
 

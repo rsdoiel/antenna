@@ -1,11 +1,25 @@
 ---
 title: craft
-updated: 2025-03-14 06:07:45
+updated: 2025-03-15 06:07:30
 ---
 
 # craft
 
-(date: 2025-03-14 06:07:45)
+(date: 2025-03-15 06:07:30)
+
+---
+
+## Maderas Barber’s MB Sound: Revolutionizing Tonewood Selection for Luthiers
+
+date: 2025-03-14, from: Discover the world of Luthiers
+
+<p>Maderas Barber&#8217;s MB Sound: Revolutionizing Tonewood Selection for Luthiers &#160; &#160; Maderas Barber&#8217;s MB Sound: Revolutionizing Tonewood Selection for Luthiers For the first time ever, Maderas Barber presents MB Sound, the world&#8217;s first catalog of musical instrument woods that includes audio samples, videos and in-depth acoustic analysis. This innovative approach allows luthiers to make more [&#8230;]</p>
+<p>The post <a href="https://luthiers.com/maderas-barber-s-mb-sound-revolutionizing-tonewood-selection-for-luthiers/">Maderas Barber&#8217;s MB Sound: Revolutionizing Tonewood Selection for Luthiers</a> appeared first on <a href="https://luthiers.com">Luthiers</a>.</p>
+ 
+
+<br> 
+
+<https://luthiers.com/maderas-barber-s-mb-sound-revolutionizing-tonewood-selection-for-luthiers/?utm_source=rss&utm_medium=rss&utm_campaign=maderas-barber-s-mb-sound-revolutionizing-tonewood-selection-for-luthiers>
 
 ---
 

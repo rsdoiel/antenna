@@ -1,11 +1,193 @@
 ---
 title: socal north
-updated: 2025-03-14 06:07:38
+updated: 2025-03-15 06:07:23
 ---
 
 # socal north
 
-(date: 2025-03-14 06:07:38)
+(date: 2025-03-15 06:07:23)
+
+---
+
+## Will an LA program that diverts mental health calls to clinicians instead of police continue?
+
+date: 2025-03-14, updated: 2025-03-15, from: The LAist
+
+In one year, the program has responded to more than 6,000 calls, 96% of which didn't require armed police support. But will city budget woes doom the program? 
+
+<br> 
+
+<https://laist.com/news/health/la-program-mental-health-calls-unarmed-reponse>
+
+---
+
+## A CHP officer thought a stroke victim was on drugs. Years later, his family gets permission to sue
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+A family can sue the California Highway Patrol over an incident in which an officer missed the signs of an accident victim’s stroke and arrested him. 
+
+<br> 
+
+<https://laist.com/news/chp-officer-thought-stroke-victim-was-on-drugs-family-gets-permission-to-sue>
+
+---
+
+## Some acne treatments from brands like Walgreens and La Roche-Posay voluntarily recalled
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+The FDA found that six products could have more benzene than usual, an ingredient widely used to treat acne. 
+
+<br> 
+
+<https://laist.com/news/health/acne-treatments-from-brands-walgreens-la-roche-posay-voluntarily-recalled>
+
+---
+
+## From Service to Classroom – Launch Your Career in Education Today
+
+date: 2025-03-14, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/from-service-to-classroom-launch-your-career-in-education-today/>
+
+---
+
+## The Chiquita Canyon Landfill has made neighbors miserable for 3 years. Can lawmakers help?
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+A bill that seeks to compensate people living near the Chiquita Canyon Landfill faces uncertainty amid state budget challenges and L.A. County wildfires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/chiquita-canyon-landfill-neighbors-lawmakers>
+
+---
+
+## US Senate advances plan to avert government shutdown, in vote that exposes Democratic rifts
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+The Senate voted 54 to 46 to approve a spending bill to fund the government through the end of September. 
+
+<br> 
+
+<https://laist.com/news/senate-advances-plan-to-avert-shutdown-vote-that-exposes-democratic-rifts>
+
+---
+
+## As LA veers toward a financial crisis, $320M in liability payouts play a big role
+
+date: 2025-03-14, updated: 2025-03-15, from: The LAist
+
+The city of Los Angeles is expected to pay at least that much in settlements and judgments this fiscal year. An LAist analysis breaks down those claims and what it means for services. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-liability-payments-rise-nearing-fiscal-emergency>
+
+---
+
+## One of Jackie and Shadow's three eaglets appears to be missing from their Big Bear nest
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+The nest's livestream on YouTube appears to show only two of the three recently hatched chicks. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/jackie-shadow-eaglets-chick-big-bear-nest>
+
+---
+
+## Del Servicio a la Educación: Da el Primer Paso en Tu Carrera Hoy
+
+date: 2025-03-14, from: CalVolunteers
+
+ 
+
+<br> 
+
+<https://www.californiavolunteers.ca.gov/del-servicio-a-la-educacion-da-el-primer-paso-en-tu-carrera-hoy/>
+
+---
+
+## NASA and SpaceX launch astronauts to the ISS
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+The arrival of the new crew will pave the way for the return of two astronauts who have been "stuck" on the station since June of last year. 
+
+<br> 
+
+<https://laist.com/news/nasa-and-spacex-make-second-attempt-to-launch-astronauts>
+
+---
+
+## City of Santa Clarita to Refurbish Plum Canyon Medians
+
+date: 2025-03-14, from: City of Santa Clarita
+
+<p>The City of Santa Clarita is enhancing local roadways with the upcoming 2024-2025 Citywide Major Thoroughfare Median Refurbishment Project on Plum Canyon Road.  Scheduled to begin on March 17, this project will improve the landscape medians between Bouquet Canyon Road and Skyline Ranch Road, ensuring a safe and more visually appealing corridor for residents and [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/14/city-of-santa-clarita-to-refurbish-plum-canyon-medians/">City of Santa Clarita to Refurbish Plum Canyon Medians</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/14/city-of-santa-clarita-to-refurbish-plum-canyon-medians/>
+
+---
+
+## State Farm can hike rates on California homeowners — if it pauses cancellations and proves need
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+State Farm won conditional approval for homeowners insurance rate hikes averaging 22% in California. 
+
+<br> 
+
+<https://laist.com/news/state-farm-can-hike-rates-on-california-homeowners-if-it-pauses-cancellations-and-proves-need>
+
+---
+
+## (Don't) click here to pay your tolls: How you can stop spam texts
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+"Smishing" scams aim to compromise your data and pilfer money. And if you think the problem is getting worse, you're right. 
+
+<br> 
+
+<https://laist.com/news/tolls-how-you-can-stop-spam-texts>
+
+---
+
+## Trump takes birthright citizenship to the Supreme Court
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+The president's contention that birthright citizenship is unconstitutional is considered a fringe view because the Supreme Court ruled to the contrary 127 years ago. 
+
+<br> 
+
+<https://laist.com/news/trump-takes-birthright-citizenship-supreme-court>
+
+---
+
+## A 2nd judge orders thousands of fired federal employees temporarily reinstated
+
+date: 2025-03-14, updated: 2025-03-14, from: The LAist
+
+A federal judge in Maryland found the Trump administration acted unlawfully in firing thousands of federal employees by not first notifying states. 
+
+<br> 
+
+<https://laist.com/news/2nd-judge-orders-thousands-of-fired-federal-employees-temporarily-reinstated>
 
 ---
 
@@ -33,11 +215,11 @@ The L.A. Dodgers will face the Chicago Cubs in a historic matchup at the Tokyo D
 
 ---
 
-## Free entry at L.A. museums this weekend
+## Free entry at LA museums this weekend
 
 date: 2025-03-14, updated: 2025-03-14, from: The LAist
 
-Dozens of museums will participate in the annual event organized by SoCal MUSEUMS 
+Dozens of museums will participate in the annual event organized by SoCal MUSEUMS. 
 
 <br> 
 
@@ -203,11 +385,11 @@ Thousands of probationary federal employees fired by the Trump administration mu
 
 ---
 
-## LA County supervisors to vote on pulling over $300M annual taxpayer dollars out of homeless services agency
+## LA County supervisors to vote on pulling over $300 million out of homeless services agency
 
-date: 2025-03-13, updated: 2025-03-13, from: The LAist
+date: 2025-03-13, updated: 2025-03-14, from: The LAist
 
-The proposal comes after a pair of scathing audits about the L.A. Homeless Services Authority, known as LAHSA. If approved, the money would instead be directly overseen by the county. 
+The proposal comes after a pair of scathing audits about the L.A. Homeless Services Authority, known as LAHSA. If approved, the annual spend of taxpayer money would instead be directly overseen by the county. 
 
 <br> 
 
@@ -1078,4 +1260,126 @@ House Republicans released the text of a continuing resolution that would fund t
 <br> 
 
 <https://laist.com/news/politics/gop-unveils-stopgap-bill-to-avert-a-government-shutdown-they-may-not-have-the-votes>
+
+---
+
+## Photos: The 2025 Women's March in LA
+
+date: 2025-03-08, updated: 2025-03-10, from: The LAist
+
+The Women's March started in 2017, drawing hundreds of thousands of Angelenos to protest against the first Trump administration and spawning as many pink knitted pussyhats. We check in eight years later. 
+
+<br> 
+
+<https://laist.com/news/politics/photos-this-mornings-womens-march-in-l-a>
+
+---
+
+## Uncovering Santa Clarita’s Hidden History in Our Parks
+
+date: 2025-03-08, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Our community is rich with history, blending the spirit of the Old West with the history of our great nation – especially in our parks. When Santa Clarita incorporated in 1987, we only had eight parks. Today, we are home to more than three dozen, and this year, we are [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/08/uncovering-santa-claritas-hidden-history-in-our-parks/">Uncovering Santa Clarita’s Hidden History in Our Parks</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/08/uncovering-santa-claritas-hidden-history-in-our-parks/>
+
+---
+
+## Jackie and Shadow's third eaglet hatches into Big Bear's famous feathered family
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+More than 99,000 people were watching live on the Friends of Big Bear Valley Youtube livestream as the chick worked through the hatching process. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/third-eaglet-hatches-into-big-bears-famous-feathered-family>
+
+---
+
+## Newsom extends rental price gouging protections after LA fires. But there's more
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+The executive order issued on Friday also suspends certain state laws that would prevent the rebuilding of Altadena's two commercial corridors to their "pre-fire character." 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/newsom-executive-order-extends-price-gouging-protections-for-fire-survivors>
+
+---
+
+## Go Fact Yourself quiz for March 8
+
+date: 2025-03-08, updated: 2025-03-11, from: The LAist
+
+Our celebrity panelists Sarah Jones and Phil Rosenthal go head to head this week on their knowledge of 1990s East Coast hip-hop and the TV show 'The Odd Couple.' Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-march-8>
+
+---
+
+## Thousands of trees will go unplanted in Los Angeles after Musk pulls funding
+
+date: 2025-03-08, updated: 2025-03-10, from: The LAist
+
+Tens of millions of dollars in grants were withdrawn across the country, targeting programs that plant trees in low-income communities. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/tree-planting-budget-cuts-doge-elon-musk>
+
+---
+
+## Top Democrats ask Rubio for answers on now-canceled $400 million Tesla plan
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+A letter from two House Democrats presses Rubio for details about who approved an effort to try to use hundreds of millions of dollars of taxpayer money on armored electric vehicles from Tesla. 
+
+<br> 
+
+<https://laist.com/news/top-democrats-ask-rubio-for-answers-on-now-canceled-400-million-tesla-plan>
+
+---
+
+## 5 takeaways from LA’s troubling new homelessness spending audit
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+Here’s what you need to know about the long-awaited findings on what the city has accomplished with billions of dollars in homelessness funding. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-services-authority-audit-judge-carter-5-takeaways>
+
+---
+
+## LAPD seeks public’s help in 2006 unsolved murder of Emmery Muñoz
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+Emmery Muñoz was 14 years old when she was found dead in Boyle Heights. She was last seen on Jan. 20, 2006, in City Terrace, police said. 
+
+<br> 
+
+<https://laist.com/news/lapd-seeks-publics-help-in-2006-unsolved-murder-of-emmery-munoz>
+
+---
+
+## New E-cargo bike voucher program launches for SGV residents. Here’s how to apply
+
+date: 2025-03-08, updated: 2025-03-08, from: The LAist
+
+In this first round, 300 vouchers for $2,000 are available. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/e-cargo-bike-voucher-program-san-gabriel-valley-residents>
 

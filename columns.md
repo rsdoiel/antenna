@@ -1,11 +1,354 @@
 ---
 title: columns
-updated: 2025-03-14 06:07:40
+updated: 2025-03-15 06:07:25
 ---
 
 # columns
 
-(date: 2025-03-14 06:07:40)
+(date: 2025-03-15 06:07:25)
+
+---
+
+## In loving memory of my very dear 6-foot-7-inch Republican senator friend
+
+date: 2025-03-14, from: Robert Reich's blog
+
+In memory of Alan Simpson, who died this morning 
+
+<br> 
+
+<https://robertreich.substack.com/p/in-loving-memory-of-my-very-dear>
+
+---
+
+## All-Hands Siri Team Meeting Leaks to Bloomberg
+
+date: 2025-03-14, updated: 2025-03-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.bloomberg.com/news/articles/2025-03-14/apple-s-siri-chief-calls-ai-delays-ugly-and-embarrassing-promises-fixes>
+
+---
+
+## 2025-03-14 Fado on Bandcamp
+
+date: 2025-03-14, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-14-fado-on-bandcamp">2025-03-14 Fado on Bandcamp</h1>
+
+<p>I heard about <a href="https://linaralrefree.bandcamp.com/album/lina-ra-l-refree">Lina_Raül Refree</a>, yesterday, bought it, and I&rsquo;ve been listening to it.
+Today I&rsquo;m listening to <a href="https://linafado.bandcamp.com/album/fado-cam-es">Fado Camões</a> by LINA.</p>
+
+<p>Also bought:</p>
+
+<ul>
+<li><a href="https://lheuredeschiens.bandcamp.com/album/jusquici-tout-va-bien">Jusqu&rsquo;ici tout va bien</a> by L&rsquo;heure des chiens</li>
+<li><a href="https://cristinabranco.bandcamp.com/album/m-e">mãe</a> by Cristina Branco</li>
+<li><a href="https://claudia-aurora.bandcamp.com/album/mulher-do-norte">Mulher do Norte</a> by Claudia Aurora</li>
+</ul>
+
+<p>Let me know if you have other suggestions.</p>
+
+<p>I should put some on Têtes raides.</p>
+
+<p><a class="tag" href="/search/?q=%23Music">#Music</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-14-fado>
+
+---
+
+## Friday Squid Blogging: SQUID Band
+
+date: 2025-03-14, updated: 2025-03-15, from: Bruce Schneier blog
+
+<p>A bagpipe and drum <a href="https://www.squidband.com/">band</a>:</p>
+<blockquote><p>SQUID transforms traditional Bagpipe and Drum Band entertainment into a multi-sensory rush of excitement, featuring high energy bagpipes, pop music influences and visually stunning percussion!</p></blockquote>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-band.html>
+
+---
+
+## March 13, 2025
+
+date: 2025-03-14, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159090375/cbad75e9c24c2ec64cb19f0be6ec5b5c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159090375/cbad75e9c24c2ec64cb19f0be6ec5b5c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-13-2025-250>
+
+---
+
+##  A bunch of people who have never heard of Radiohead listen to... 
+
+date: 2025-03-14, updated: 2025-03-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046437-a-bunch-of-people-who>
+
+---
+
+## Instagram is now a (photo) information network.
+
+date: 2025-03-14, from: Om Malik blog
+
+It is no secret that I love fountain pens, and that’s why I get excited about events such as the Manila Pen Show, which is the brainchild of a longtime friend and an admirable blogger, Leigh Reyes. She doesn’t blog much, but she posts everything she used to do on Instagram. And why not — &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/14/instagram-is-now-a-photo-information-network/>
+
+---
+
+##  The Pudding: How do animals sound across languages? &#8220;How can cultures hear... 
+
+date: 2025-03-14, updated: 2025-03-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046431-the-pudding-how-do-animal>
+
+---
+
+##  Always a delight to see the newest issue of Laura Olin&#8217;s newsletter... 
+
+date: 2025-03-14, updated: 2025-03-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046435-always-a-delight-to-see>
+
+---
+
+## I Imagined It and Genmoji’d It
+
+date: 2025-03-14, updated: 2025-03-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://daringfireball.net/linked/2025/03/14/the-legend-of-larry-owl>
+
+---
+
+## Upcoming Speaking Engagements
+
+date: 2025-03-14, updated: 2025-03-14, from: Bruce Schneier blog
+
+<p>This is a current list of where and when I am scheduled to speak:</p>
+<ul>
+<li>I’m speaking at the <a href="https://www.cl.cam.ac.uk/events/rossfest/">Rossfest Symposium</a> in Cambridge, UK, on March 25, 2025.</li>
+<li>I&#8217;m speaking at the University of Toronto&#8217;s <a href="https://ai-and-trust-bruce-schneier.eventbrite.ca">Rotman School of Management</a> in Toronto, Canada, on April 3, 2025.</li>
+</ul>
+<p>The list is maintained on <a href="https://www.schneier.com/events/">this page</a>.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/upcoming-speaking-engagements-44.html>
+
+---
+
+## Backing the backslash
+
+date: 2025-03-14, from: Shady Characters blog
+
+<p>I’m almost ashamed to say it, but I never really gave the backslash a second thought.</p>
+<p>The backslash’s forward-leaning counterpart is everywhere, especially in computing. It lives in network and web addresses such as <tt>https://shadycharacters.co.uk</tt>; in file paths, such as <tt>/home/keith</tt>; and it introduces human-readable “comments” in any number of programming languages, often like <tt>/* this */</tt> or <tt>// this</tt>.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/03/backing-the-backslash/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/03/backing-the-backslash/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-14, from: Dave Winer's Scripting News)
+
+<a href="https://github.com/scripting/wordlandSupport/issues/57">Question for WordLand users</a>. When you published your first post, were you surprised that the window didn't clear? Did you understand that you can make changes and update the public post? I was just talking with a friend who didn't expect it to behave the way it did. 
+
+<br> 
+
+<http://scripting.com/2025/03/14.html#a154615>
+
+---
+
+##  This One Goes to 27 
+
+date: 2025-03-14, updated: 2025-03-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/this-one-goes-to-27>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-14, from: Dave Winer's Scripting News)
+
+I asked ChatGPT to <a href="https://this.how/earlyWeb/botAuthoredBlogPostFrom1993.html">write a blog post</a> using the technology of 1993. 
+
+<br> 
+
+<http://scripting.com/2025/03/14.html#a150221>
+
+---
+
+## The Legend of Larry Owl
+
+date: 2025-03-14, updated: 2025-03-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/14/the-legend-of-larry-owl/>
+
+---
+
+##  Wired has a big story (150+ sources) that takes a look Inside... 
+
+date: 2025-03-14, updated: 2025-03-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046438-wired-has-a-big-story>
+
+---
+
+## A Short History of Now
+
+date: 2025-03-14, from: Doc Searls (at Harvard), New Old Blog
+
+So there must be something to it. Watch how often people interrupt each other by saying the word &#34;So,&#34; and then launching into whatever they think is more essential than what somebody else is saying. And watch for people giving a speech start with &#34;So—&#34; The first speaker I heard do that was Larry Lessig, one [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/14/a-short-history-of-now/>
+
+---
+
+##  Sarah Wynn-Williams&#8217;s memoir about working at Facebook, Careless People: A Cautionary Tale... 
+
+date: 2025-03-14, updated: 2025-03-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046434-sarah-wynn-williamss-memo>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-14, from: Dave Winer's Scripting News)
+
+I was looking over my <a href="http://scripting.com/2006/08.html">blog archive for August 2006</a>, which was when I started using Twitter, and came across this <a href="https://www.youtube.com/watch?v=rTowHh1SFIA">video</a> of Jason Calacanis, at a Wikipedia conference in Cambridge. This is what videos were like back then. I probably took it with a fairly expensive Nikon camera. 
+
+<br> 
+
+<http://scripting.com/2025/03/14.html#a140902>
+
+---
+
+## Exploring WiFi 7 (at 2 Gbps) on a Raspberry Pi 5
+
+date: 2025-03-14, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Exploring WiFi 7 (at 2 Gbps) on a Raspberry Pi 5</span>
+
+            <p></p>
+
+<p>Last time I seriously dug into 6 GHz WiFi was with 6E on a <a href="https://www.jeffgeerling.com/blog/2023/getting-15-gbps-wifi-6e-on-raspberry-pi-cm4">Raspberry Pi CM4 with Intel's AX210 card</a>, in 2023.</p>
+
+<p>Back then—and even up until recently—using WiFi 6E or WiFi 7 on a Raspberry Pi meant <a href="https://www.jeffgeerling.com/blog/2025/how-recompile-linux-on-raspberry-pi">recompiling Linux</a>, as the <code>iwlwifi</code> Linux drivers weren't included with the default Pi OS install.</p>
+
+<p>But recently, the <a href="https://github.com/raspberrypi/linux/issues/6497">Intel WiFi drivers were added by default</a>, and now all that's required is loading in the right firmware.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">March 14, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/exploring-wifi-7-2-gbps-on-raspberry-pi-5>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-14, from: Dave Winer's Scripting News)
+
+Saw an <a href="https://www.youtube.com/watch?v=u6h6QGVfrgQ">interview</a> with Mark Cuban where they asked why would Elon Musk do something that would cause Tesla stock to tank. He's got the power to play with the biggest financial thing that has ever existed, and quite possibly that ever will exist. In comparison Tesla is just one car company, with a lot of competition, a market-leading product for sure, but the competition is catching up. They're constantly lowering prices to keep the volume up, so eventually the stock will have to come down anyway. He certainly knows stuff about the company that no one else can see, maybe their new product pipeline is empty? He also has had to deal with short-sellers who have the incentive to drive the price down, and he can't bet alongside them (how would that look, a CEO betting against his own company). No matter what, there is nothing bigger than the USA, and he's got it, and plans to keep it. But he's human, and thus has frailties, and he loses as often as he wins and knows it. Unfortunately for us we're all in his boat now, unless somehow we can wrench it back. 
+
+<br> 
+
+<http://scripting.com/2025/03/14.html#a135356>
+
+---
+
+##  Ted Lasso is returning for a fourth season. Not every actor is... 
+
+date: 2025-03-14, updated: 2025-03-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046432-ted-lasso-is-returning-fo>
+
+---
+
+## U.S. Lawmakers Urge U.K. Secretive Investigatory Powers Tribunal to Hold Public Hearing Regarding Demand for Secret iCloud Backdoor
+
+date: 2025-03-14, updated: 2025-03-14, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://techcrunch.com/2025/03/14/us-lawmakers-urge-uk-spy-court-to-hold-apple-backdoor-secret-hearing-in-public/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-14, from: Dave Winer's Scripting News)
+
+I heard an idea that really resonated in a Brian Lehrer <a href="https://play.pocketcasts.com/podcasts/0c3b41f0-2c8b-012e-09b1-00163e1b201c/15570ad4-8994-4fe9-83fc-1966fe0e6795">interview</a> with <a href="https://en.wikipedia.org/wiki/Anand_Giridharadas">Anand Giridharadas</a>, who says among many other things, that we should aim our ire at the <i>leaders</i> of the MAGA movement, and stop bringing our angst to the people who voted for them. Every time I see a condescending TikTok story about them, I think about how that takes us further from getting where we must go. We have to reconcile, we share a country, and our interests are totally aligned. We need each other, that will become completely obvious, and the sooner it does the better. 
+
+<br> 
+
+<http://scripting.com/2025/03/14.html#a132724>
+
+---
+
+##  Trailer for season two of Poker Face. If you haven&#8217;t seen it,... 
+
+date: 2025-03-14, updated: 2025-03-14, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046430-trailer-for-season-two-of>
 
 ---
 
@@ -23,7 +366,7 @@ It has been 387 days since I announced having done 18k commits. This is commit n
 
 **@Dave Winer's Scripting News** (date: 2025-03-14, from: Dave Winer's Scripting News)
 
-Please, today -- write a blog post that explains why you believe in <a href="http://scripting.com/2025/03/13/132830.html">The Writer's Web</a>. That the best way to express our ideas on the web is with all the <a href="https://textcasting.org/">tools</a> that writers have invented. And while we may enjoy using social media like Bluesky or Mastodon, we understand that they are not for writing and are not the web. Please <b>send me a link</b> to your post and I will read what you've written with thanks for believing in writers and the web! You can use any blogging software you like. My email address is dave.winer@gmail.com. And thank you. (And btw, your post can be about whatever you like, by just writing a blog post you're expressing your support for the writing on the web!) 
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2023/08/14/miniPatrioticSanta.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Please, today -- write a blog post that explains why you believe in <a href="http://scripting.com/2025/03/13/132830.html">The Writer's Web</a>. That's the best way to express our ideas on the web is with all the <a href="https://textcasting.org/">tools</a> that writers have invented. And while we may enjoy using social media like Bluesky or Mastodon, we understand that they are not for writing and are not the web. Please <b>send me a link</b> to your post and I will read what you've written with thanks for believing in writers and the web! You can use any blogging software you like. My email address is dave.winer@gmail.com. And thank you. (And btw, your post can be about whatever you like, by just writing a blog post you're expressing your support for the writing on the web!) 
 
 <br> 
 
@@ -37,7 +380,8 @@ date: 2025-03-14, from: Dave Winer's Scripting News
 
 <p>I keep hearing pundits and incumbent Democrats missing the point, that the people are the ones whose opinion matters about the Republicans dismantling our democracy in the United States. </p>
 <p>I want to celebrate those leaders who totally get that the power is with the people, notably Alexandria Ocasio-Cortez and Bernie Sanders. They are an inspiration! I live in New York and while AOC doesn't represent me in Congress (<a href="https://en.wikipedia.org/wiki/Pat_Ryan_(politician)">Pat Ryan</a> is my rep), in a political and spiritual way she most definitely represents me. She should be the next president, as far as I'm concerned. She has all the leadership abilities we could ever want. </p>
-<p>My contribution for today is the slogan that's the title of this piece. It's derived from James Carville's <a href="https://en.wikipedia.org/wiki/It%27s_the_economy,_stupid">slogan</a> when Bill Clinton was running for president in <a href="https://en.wikipedia.org/wiki/1992_United_States_presidential_election">1992</a>, updated for 2025. "It's the people, dummy!" was always the right slogan, but never has it been more obvious that we've lost the fundamental idea behind the United States. It's we, the people, who created this country, and we the people are the only ones who can make it work again.</p>
+<p>My contribution for today is the slogan that's the title of this piece. It's derived from James Carville's <a href="https://en.wikipedia.org/wiki/It%27s_the_economy,_stupid">slogan</a> when Bill Clinton was running for president in <a href="https://en.wikipedia.org/wiki/1992_United_States_presidential_election">1992</a>, updated for 2025. </p>
+<p>"It's the people, dummy!" was always the right slogan. It's we, the people, who created this country, and we the people are the only ones who can make it work again.</p>
  
 
 <br> 
@@ -522,18 +866,18 @@ John Gruber is not mincing his words. What Apple showed regarding the upcoming �
 
 date: 2025-03-13, from: Dave Winer's Scripting News
 
-<p>The web was initially <a href="https://www.ietf.org/rfc/rfc1866.txt">designed</a> for writers. Styling, links, paragraphs, titles (at all levels). The ability to edit. No character limits. That's what we had to work with when we started blogging in the mid-late 90s. </p>
+<p>The web was initially <a href="https://www.ietf.org/rfc/rfc1866.txt">designed</a> for writers. Styling, links, paragraphs, titles (at all levels). The ability to edit. No character limits. That's what we had to work with when we started blogging in the mid-late 90s.  </p>
 <p>Then there was a big <a href="http://scripting.com/2016/09/22/tenYearsUsingTwitter.html">corner-turn</a> in 2006. In an instant the web shrunk to almost nothing. No titles, no style, no links, 140 chars max. Enough to say "I'm waiting in line at the bank." Nothing wrong with that, but it isn't what I think of as writing. </p>
-<p>A couple of years ago, I decided to focus on writers once again. I started developing ideas of what <i>the writer's web</i> would look like if we used today's technology. And here are the three main directions.</p>
+<p>A couple of years ago, I decided to focus on writers once again. I started developing ideas of what <b>the writer's web</b> would look like if we used today's technology. And here are the three main directions.</p>
 <ul>
 <li><b>New technology</b>. Since the last time we looked, Markdown was invented. RSS feeds had become instant. Websockets replaced long polling. Servers got cheap! And SQL is fast and the tools are much better. We'll use all the best new technology.  </li>
 <li><b>Modern interfaces</b>. We'll borrow the best ideas from twitter-like systems. Writing a new post should be as easy as writing a tweet, but with all the features writers need at-hand, easy to access. </li>
 <li><b>Open, for real</b>. And best of all, it'll be open, for real, now -- not some day. Each component will be completely replaceable with simple APIs, and lots of example code. </li>
 </ul>
 <p>I'm going to use WordPress as my basic back-end technology because it is reliable and broadly deployed, but you don't have to. The great thing about the web is that it's already federated. Nothing to wait for. <span class="spOldSchoolEmoji">😄</span> </p>
-<p>We know how to do this. The only remaining question imho is whether we <i>choose</i> to.</p>
-<p>What does the writer's web mean to you? Write a blog post. Start now.</p>
-<p><i>Let's write together!</i></p>
+<p>We know how to do this. The only question is whether we <i>choose</i> to.</p>
+<p>Best way to get started -- write a blog post about what the writer's web means to you. Send me a link. I'll read it. </p>
+<p>dave@scripting.com</p>
  
 
 <br> 
@@ -2012,4 +2356,236 @@ Today’s Observer column The design of Arpanet’s successor, the internet we u
 <br> 
 
 <https://memex.naughtons.org/skype-got-shouted-down-by-teams-but-it-gave-us-free-telephony/40517/>
+
+---
+
+## Yours Truly on The Vergecast, on the Cinematic Future of James Bond Under Amazon’s Stewardship
+
+date: 2025-03-08, updated: 2025-03-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/the-vergecast/623633/james-bond-amazon-framework-laptop-desktop-vergecast>
+
+---
+
+## Simon Willison on the Privacy/Security Risks of Personalized Siri, vis-à-vis Prompt Injection
+
+date: 2025-03-08, updated: 2025-03-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/8/delaying-personalized-siri/>
+
+---
+
+## Apple Pulls Bella Ramsey Ad That Promoted Vaporware Personalized Siri Feature
+
+date: 2025-03-08, updated: 2025-03-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/03/07/apple-pulls-ad-that-showed-siri-being-useful-after-delaying-feature-that-could-make-siri-useful/>
+
+---
+
+## March 7, 2025
+
+date: 2025-03-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158663199/e5b767c482af3fe50cbb191d49846440.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158663199/e5b767c482af3fe50cbb191d49846440.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-7-2025-06b>
+
+---
+
+## Loose Links
+
+date: 2025-03-08, from: Doc Searls (at Harvard), New Old Blog
+
+The big and scary news about the deaths of Gene Hackman and his wife, Betsy Arakawa, is that she died first, and suddenly, of hantavirus, which kills up to half the people it infects—often quickly.  It&#8217;s bad shit—or from bad shit: from rodents. Hackman, who had advanced Alzheimer&#8217;s, died later of his wife&#8217;s absent care. Their [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/08/loose-links-4/>
+
+---
+
+## Kopi: Track Your Coffee Brewing & Consumption
+
+date: 2025-03-08, from: mrusme blog
+
+Kopi is a command-line (CLI) coffee journal (or _habit tracker_) designed for
+coffee enthusiasts. It lets you track coffee beans, equipment usage, brewing
+methods, and individual cups. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/kopi-track-your-coffee-brewing-consumption/>
+
+---
+
+## Talking Right
+
+date: 2025-03-08, from: Doc Searls (at Harvard), New Old Blog
+
+Great speech by David Brooks at a recent ARC conference in London. I read here that he was booed and heckled, but in the video one only sees smiles, warmth, and occasional laughs (e.g. to &#8220;At Chicago I had a double major in history and celibacy&#8221;). It&#8217;s a short, deep, and caring talk that comes from [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/08/talking-right/>
+
+---
+
+## Bookings
+
+date: 2025-03-08, from: Doc Searls (at Harvard), New Old Blog
+
+Even in a small city such as Bloomington, one can make fun discoveries all the time. Yesterday, for example, I discovered Redbud Books, which had a table set up to sell books from Cory Doctorow&#39;s increasingly vast oeuvre while the man himself spoke to a packed classroom in the Media School here at Indiana University. He&#39;ll [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/08/bookings/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-08, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2018/10/04/gumby.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Praise from David, author of <a href="https://www.amazon.com/Small-Pieces-Loosely-Joined-Unified/dp/0738205435">Small Pieces Loosely Joined</a> and co-author of <a href="https://www.amazon.com/Cluetrain-Manifesto-End-Business-Usual/dp/0738204315">Cluetrain Manifesto</a>, is the best. He picked up <a href="https://wordland.social/">WordLand</a> overnight, and he loves it, for the right reasons. WordLand is an editor for "small pieces," maybe the first. Most of the really easy editors have been stuck in silos and thus are dead-ends. I'm sure the people who designed them wished they weren't locked up, but they had to work for billionaires-to-be, I don't. I called the locked-up editors <a href="http://scripting.com/2024/01/14/031201.html">tiny little text boxes</a>. I created an editor that starts out slightly larger than the TLTBs, and grows as your idea grows. So David opened up <a href="https://wordland.social/">WordLand</a> and started typing. And it turned into a <a href="https://www.hyperorg.com/blogger/2025/03/08/trying-out-wordland-for-blogging/">normal sized blog post</a>. It flowed right into it. And unlike the TLTB's in twitter-like worlds, those bits live on the open web, and can use all the features of the web, and are fed out to software networks via <a href="https://cyber.harvard.edu/rss/rss.html">RSS</a>, which is a lot simpler than other protocols. It can grow faster because there already is a huge installed base of software and knowledge for RSS. Imho developers should <a href="https://this.how/standards/">build on existing standards</a>, not try to replace them. They might be more <a href="https://isrssdead.com/">alive</a> than you think (or more accurately, wish). 
+
+<br> 
+
+<http://scripting.com/2025/03/08.html#a151455>
+
+---
+
+## Ural Notes Part 5: Winter Improvements
+
+date: 2025-03-08, updated: 2025-03-08, from: Russell Graves, Syonyk's Project Blog
+
+ 
+
+<br> 
+
+<https://www.sevarg.net/2025/03/08/ural-notes-part-5-winter-improvements/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-08, from: Dave Winer's Scripting News)
+
+<a href="https://www.hyperorg.com/blogger/2025/03/08/trying-out-wordland-for-blogging/">David Weinberger on WordLand</a>. "It's a web page that clears out all of WordPress's cruft and gives you an interface  that's so simple that it's actually enjoyable." 
+
+<br> 
+
+<http://scripting.com/2025/03/08.html#a145743>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-08, from: Dave Winer's Scripting News)
+
+I updated the <a href="https://this.how/wordland/#1734985792000">screen shot</a> on the WordLand <a href="https://this.how/wordland/">docs page</a>. It was really out of date. <a href="https://wordland.social/">WordLand</a> is the best editor for people to write in WordPress. I've been developing it over the last couple of years. I wanted to get a really nice editor into this slot. I felt WordPress deserved one. It's designed to feel like the editor in twitter-like services, but without the limits. I've been writing about this <a href="https://daytona.scripting.com/search?q=textcasting">on my blog</a>, while I was doing that, I was developing WordLand in the background. We have ignored the needs of writers for too long. It's time to remove the limits. People believed the formula Twitter arrived at was the right one. It is far too limited for writers. WordLand is the answer, in software. 
+
+<br> 
+
+<http://scripting.com/2025/03/08.html#a144727>
+
+---
+
+## Pancake Day
+
+date: 2025-03-08, from: Jessica Smith's blog
+
+<p>Earlier this week, I took Indie on her first trip into the Melbourne <abbr title="Central Business District">CBD</abbr>. Viv&rsquo;s office was celebrating Pancake Day, and Viv thought it was the perfect excuse to bring Indie in an introduce her to everybody! So I did, and <a href="https://www.jayeless.net/2025/03/04.html" title="link to my statuses from 4 March 2025">it went fine</a>.</p>
+<p>Pancake Day, though. When Viv first told me his office was doing this, my reaction was, &ldquo;Oh… is that a French thing?&rdquo; Because my high school used to do an annual Pancake Day too (or, well, for us it was &ldquo;Crêpe Day&rdquo;), and I thought that used to be in March too, and for us it was <em>definitely</em> a French thing. They used to get a Real-Life French Guy™ in to make the crêpes, and if you were unfortunate enough to be in the French class like I was, you were under strict instructions to order <em>in French</em>, and the French teacher would hover around the crêpe table like a hawk to make sure his students actually did it. At least we got tasty crêpes out of it to eat, I guess. It did seem a <em>bit</em> unfair that the Chinese students <em>also</em> got to eat crêpes <em>without</em> the hassle of ordering in French, but such is life.</p>
+<p>So anyway, I explained this to Viv, but his answer? He didn&rsquo;t know if it was a French thing. OK, very helpful.</p>
+<p>But then! On the day, I posted on Mastodon, and <a href="https://miraz.me/">Miraz<span style="white-space: nowrap;">&thinsp;<svg style="height: 0.7em; width: 0.7em;" focusable="false" data-prefix="fas" data-icon="external-link-alt" class="svg-inline--fa fa-external-link-alt fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><title>(external link)</title><path fill="currentColor" d="M432,320H400a16,16,0,0,0-16,16V448H64V128H208a16,16,0,0,0,16-16V80a16,16,0,0,0-16-16H48A48,48,0,0,0,0,112V464a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V336A16,16,0,0,0,432,320ZM488,0h-128c-21.37,0-32.05,25.91-17,41l35.73,35.73L135,320.37a24,24,0,0,0,0,34L157.67,377a24,24,0,0,0,34,0L435.28,133.32,471,169c15,15,41,4.5,41-17V24A24,24,0,0,0,488,0Z"></path></svg></span></a> kindly enlightened me as to the origins of &ldquo;Pancake Day&rdquo;, or as it&rsquo;s also known, &ldquo;Shrove Tuesday&rdquo;… the day exactly 47 days before Easter Sunday, or the last day before Lent. This gave me enough information to look it up, and as such I found out that it is <em>also</em> a French thing, and in that language it is called… Mardi Gras! Of course, in Australia we had our Mardi Gras last Saturday, but uhhh, ours is very different (and seems to never actually have been held on a Tuesday; Wikipedia claims queer activists named it that because &ldquo;the term <i>Mardi Gras</i> had become synonymous with street festivals&rdquo;, so there you go). Nonetheless, I suppose this explains why the Sydney Gay &amp; Lesbian Mardi Gras is always (excluding the first three) held at around that time of year – proximity to the pancake version! All the puzzle pieces fall into place.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/03/pancake-day.html>
+
+---
+
+## Stuff a Pi-hole in your router because your browser is about to betray you
+
+date: 2025-03-08, updated: 2025-03-08, from: Liam Proven's articles at the Register
+
+<h4>Mozilla sells ads, Google limits blocking them – it&#39;s time for stricter measures</h4>
+      <p>A new, lightweight version of Pi-Hole is here. Just how easy is it to block advertising on your home network?</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/08/pi_hole_6_flyby/>
+
+---
+
+## The End of the Trump Honeymoon | Coffee Klatch for March 8, 2025
+
+date: 2025-03-08, from: Robert Reich's blog
+
+With Michael Lahanas-Calder&#243;n and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/158607538/4281f2efbc2ecf16a0134489c8818ee6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/158607538/4281f2efbc2ecf16a0134489c8818ee6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/the-end-the-trump-honeymoon-coffee>
+
+---
+
+## March 7, 2025 
+
+date: 2025-03-08, from: Heather Cox Richardson blog
+
+Black Americans outnumbered white Americans among the 29,500 people who lived in Selma, Alabama, in the 1960s, but the city&#8217;s voting rolls were 99% white. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-7-2025>
+
+---
+
+## Weeknotes: March 1-7, 2025
+
+date: 2025-03-08, from: Tracy Durnell Blog
+
+The coup and the ravaging destruction of our government and the world order is getting to me&#8230; I&#8217;m antsy, so concentrating on reading a book is hard, and I&#8217;m noticing all these little signs of stress popping up in my body, like a canker sore and eczema flare-ups. What an annoyance on top of all [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/07/weeknotes-march-1-7-2025/>
+
+---
+
+## POWER9 OS update and other news
+
+date: 2025-03-08, from: Jirka's blog
+
+I finally have upgraded my POWER9 workstation. I was running the Fedora  {sup}1{/sup} 38 for  years and it was  already unsupported. So some  weeks ago I upgraded to 39. Today  I have upgraded to 40. The current  one is 41 so it isn't that bad as it was two months ago. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250308-0452_POWER9_OS_update_and_other_news>
+
+---
+
+## Fedora 41
+
+date: 2025-03-08, from: Jirka's blog
+
+Just a  short note:  the Fedora  41 for  ppc64le is  now running  on my Blackbird (my  POWER9 machine)! I'm  still using  X.org here so  no big changes actually happened so far. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250308-0452_Fedora_41>
 

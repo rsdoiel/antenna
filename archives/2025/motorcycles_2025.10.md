@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-03-14 06:07:44
+updated: 2025-03-15 06:07:29
 ---
 
 # motorcycles
 
-(date: 2025-03-14 06:07:44)
+(date: 2025-03-15 06:07:29)
+
+---
+
+## Here's the Value of the New Honda CB750 Hornet, CB1000 Hornet SP, and NT1100 DCT
+
+date: 2025-03-14, from: Ride Apart, Electric Motorcycle News
+
+All three bikes are new to the US in 2025. Here's how they stack up to the competition. 
+
+<br> 
+
+<https://www.rideapart.com/news/753485/cb750-cb1000-nt1100-us-release/>
 
 ---
 
@@ -437,4 +449,29 @@ It's hard to imagine anyone racing here any time soon, so place your bets.
 <br> 
 
 <https://www.rideapart.com/news/752858/jerez-motogp-facilities-flooding/>
+
+---
+
+## Greg Anderson Lays Down Quickest Run In NHRA Pro Stock History With 6.443-sec. Blast At Gainesville Raceway
+
+date: 2025-03-08, from: Kickin the Tires blog
+
+NHRA Press Release GAINESVILLE, Fla. (March 7, 2025) – Reigning Top Fuel world champion Antron Brown started his 2025 with the provisional No. 1 qualifier position at Gainesville Raceway, taking&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/greg-anderson-lays-down-quickest-run-in-nhra-pro-stock-history-with-6-443-sec-blast-at-gainesville-raceway/>
+
+---
+
+## Honda CB650R and CBR650R Owners, Your Bikes Have a New Recall
+
+date: 2025-03-08, from: Ride Apart, Electric Motorcycle News
+
+The gear shift arm might straight up fall off, and that’s definitely not good.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/752631/honda-cbr650r-cb650r-gear-shift-arm-recall/>
 

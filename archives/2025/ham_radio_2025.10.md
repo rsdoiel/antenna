@@ -1,11 +1,59 @@
 ---
 title: ham radio
-updated: 2025-03-14 06:07:39
+updated: 2025-03-15 06:07:24
 ---
 
 # ham radio
 
-(date: 2025-03-14 06:07:39)
+(date: 2025-03-15 06:07:24)
+
+---
+
+## Radio Connects is 2025 ARRL Field Day Theme
+
+date: 2025-03-14, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/radio-connects-is-2025-arrl-field-day-theme>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-03-14, from: Amateur Radio Relay League News
+
+<p>Geomagnetic field activity is expected to be at minor storm levels<br />for March 18, and then from March 27 and 27 all due to recurrent<br />Coronal Hole influences.<br /><br />Solar activity was at low levels. Multiple C-Class flares were<br />observed from newly numbered Region 4028. More spots are rotating<br />around the Southeast limb that maybe connected to the spot group.<br />The largest flare of the period was a C6.8 on March...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-5>
+
+---
+
+## Perfect Storm Exercise in California Gets Results
+
+date: 2025-03-14, from: Amateur Radio Relay League News
+
+<p>The ARRL San Joaquin Valley Section (SJV) conducted “Perfect Storm,” an amateur radio emergency exercise, on March 5 - 7.</p><p>Section Emergency Coordinator (SEC) Dan Sohn, WL7COO, asked that a section-wide exercise be created that would engage both amateur radio operators and non-amateurs to become more active in their community's emergency preparedness and response capabilities.  </p><p>There were 120 par...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/perfect-storm-exercise-in-california-gets-results>
+
+---
+
+## ARRL Ham Radio Open House — Site Locator Live, PR Workshop Registration
+
+date: 2025-03-14, from: Amateur Radio Relay League News
+
+<p>ARRL Ham Radio Open House is a national event being hosted by local amateur radio clubs in April to coincide with World Amateur Radio Day on April 18. The event is designed to highlight technical innovations in ham radio, and show off the current state of the art. It will serve as a tool to tell the story of amateur radio being a pathway to tomorrow's technical careers. </p><p>A site locator is now li...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-ham-radio-open-house-site-locator-live-pr-workshop-registration>
 
 ---
 

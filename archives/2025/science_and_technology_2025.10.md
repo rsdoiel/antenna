@@ -1,11 +1,263 @@
 ---
 title: science and technology
-updated: 2025-03-14 06:07:40
+updated: 2025-03-15 06:07:24
 ---
 
 # science and technology
 
-(date: 2025-03-14 06:07:40)
+(date: 2025-03-15 06:07:24)
+
+---
+
+## NASA’s SpaceX Crew-10 Launches to International Space Station
+
+date: 2025-03-14, from: NASA breaking news
+
+Four crew members of NASA’s SpaceX Crew-10 mission launched at 7:03 p.m. EDT Friday from Launch Complex 39A at NASA’s Kennedy Space Center in Florida for a science expedition aboard the International Space Station. A SpaceX Falcon 9 rocket propelled the Dragon spacecraft into orbit carrying NASA astronauts Anne McClain and Nichole Ayers, JAXA (Japan [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasas-spacex-crew-10-launches-to-international-space-station/>
+
+---
+
+## Google makes Vulkan the official graphics API for Android
+
+date: 2025-03-14, from: OS News
+
+Google’s biggest announcement today, at least as it pertains to Android, is that the Vulkan graphics API is now the official graphics API for Android. Vulkan is a modern, low-overhead, cross-platform 3D graphics and compute API that provides developers with more direct control over the GPU than older APIs like OpenGL. This increased control allows for significantly improved performance, especially in multi-threaded applications, by reducing CPU overhead. In contrast, OpenGL is an older, higher-level API that abstracts away many of the low-level details of the GPU, making it easier to use but potentially less efficient. Essentially, Vulkan prioritizes performance and explicit hardware control, while OpenGL emphasizes ease of use and cross-platform compatibility. ↫ Mishaal Rahman at Android Authority Android has supported Vulkan since Android 7.0, released in 2016, so it&#8217;s not like we&#8217;re looking at something earth-shattering here. The issue has been, as always with Android, fragmentation: it&#8217;s taken this long for about 85% of Android devices currently in use to support Vulkan in the first place. In other words, Google might&#8217;ve wanted to standardise on Vulkan much sooner, but if only a relatively small number of Android devices support it, that&#8217;s going to be a hard sell. In any event, from here on out, every application or game that wants to use the GPU on Android will have to do so through Vulkan, including everything inside Android. It&#8217;s still going to be a long process, though, as the requirement to use Vulkan will not fully come into effect until Android 17, and even then there will be exceptions for certain applications. Android tends to implement changes like this in phases, and the move to Vulkan is no different. All of this does mean that older devices with GPUs that do not support Vulkan, or at least not properly, will not be able to be updated to the Vulkan-only releases of Android, but let&#8217;s be real here &#8211; those kinds of devices were never going to be updated anyway. 
+
+<br> 
+
+<https://www.osnews.com/story/141929/google-makes-vulkan-the-official-graphics-api-for-android/>
+
+---
+
+## Risk of Venous Thromboembolism During Spaceflight
+
+date: 2025-03-14, from: NASA breaking news
+
+In October 2024, NASA’s Office of the Chief Health and Medical Officer (OCHMO) initiated a working group to review the status and progress of research and clinical activities intended to mitigate the risk of venous thromboembolism (VTE) during spaceflight. The working group took place over two days at NASA’s Johnson Space Center; a second meeting [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/organizations/ochmo/risk-of-venous-thromboembolism-during-spaceflight/>
+
+---
+
+## A more robust raw OpenBSD syscall demo
+
+date: 2025-03-14, from: OS News
+
+Ted Unangst published dude, where are your syscalls? on flak yesterday, with a neat demonstration of OpenBSD’s pinsyscall security feature, whereby only pre-registered addresses are allowed to make system calls. Whether it strengthens or weakens security is up for debate, but regardless it’s an interesting, low-level programming challenge. The original demo is fragile for multiple reasons, and requires manually locating and entering addresses for each build. In this article I show how to fix it. To prove that it’s robust, I ported an entire, real application to use raw system calls on OpenBSD. ↫ Chris Wellons Some light reading for the weekend. 
+
+<br> 
+
+<https://www.osnews.com/story/141927/a-more-robust-raw-openbsd-syscall-demo/>
+
+---
+
+## Sols 4479-4480: What IS That Lumpy, Bumpy Rock?
+
+date: 2025-03-14, from: NASA breaking news
+
+Written by Ashley Stroupe, Mission Operations Engineer at NASA’s Jet Propulsion Laboratory Earth planning date: Wednesday, March 12, 2025 The days are getting shorter and colder for Curiosity as we head into winter. So our rover is sleeping in a bit before waking up to a busy plan. Today I served as the Engineering Uplink […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4479-4480-what-is-that-lumpy-bumpy-rock/>
+
+---
+
+## Belgian cops raid Huawei in Euro bribery probe
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Chinese giant says it&#39;s &#39;committed&#39; to obeying the law as arrests made</h4> <p>Belgian authorities have raided multiple premises as part of a corruption probe involving Chinese tech giant Huawei, which has also led to the sealing of two EU parliamentary offices in Brussels.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/brussels_raid_huawei/>
+
+---
+
+## Career Spotlight: Engineer (Ages 14-18)
+
+date: 2025-03-14, from: NASA breaking news
+
+What does an engineer do? An engineer applies scientific principles to design, build, and test machines, systems, or structures to meet specific needs. They follow the steps of the engineering design process to ensure their designs work as planned while meeting a variety of requirements, including size, weight, safety, and cost. NASA hires several types [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/career-spotlight-engineer-ages-14-18/>
+
+---
+
+## NASA Super Pressure Balloons Return to New Zealand for Test Flights
+
+date: 2025-03-14, from: NASA breaking news
+
+NASA’s Scientific Balloon Program has returned to Wānaka, New Zealand, for two scheduled flights to test and qualify the agency’s super pressure balloon technology. These stadium-sized, heavy-lift balloons will travel the Southern Hemisphere’s mid-latitudes for planned missions of 100 days or more.&#160; Launch operations are scheduled to begin in late March from Wānaka Airport, NASA’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/scientific-balloons/nasa-super-pressure-balloons-return-to-new-zealand-for-test-flights/>
+
+---
+
+## NASA Expertise Helps Record all the Buzz
+
+date: 2025-03-14, from: NASA breaking news
+
+Airplane manufacturers running noise tests on new aircraft now have a much cheaper option than traditional wired microphone arrays. It’s also sensitive enough to help farmers with pest problems. A commercial wireless microphone array recently created with help from NASA can locate crop-threatening insects by listening for the sounds they make in fields.&#160; Since releasing [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-expertise-helps-record-all-the-buzz/>
+
+---
+
+## NASA Space Station Research Helps Power Moon Science
+
+date: 2025-03-14, from: NASA breaking news
+
+The International Space Station supports a wide range of scientific activities from looking out at our universe to breakthroughs in medical research, and is an active proving ground for technology for future Moon exploration missions and beyond. Firefly Aerospace’s Blue Ghost Mission-1 landed on the Moon on March 2, 2025, kicking off science and technology [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-space-station-research-helps-power-moon-science/>
+
+---
+
+## Musk’s Tesla warns Trump’s tariffs and trade wars will harm Tesla
+
+date: 2025-03-14, from: OS News
+
+Elon Musk&#8217;s Tesla is waving a red flag, warning that Donald Trump&#8217;s trade war risks dooming US electric vehicle makers, triggering job losses, and hurting the economy. In an unsigned letter to the US Trade Representative (USTR), Tesla cautioned that Trump&#8217;s tariffs could increase costs of manufacturing EVs in the US and forecast that any retaliatory tariffs from other nations could spike costs of exports. ↫ Ashley Belanger at Ars Technica Back in 2020, scientists at the University of Twente, The Netherlands, created the smallest string instrument that can produce tones audible by human ears when amplified. Its strings were a mere micrometer thin, or one millionth of a meter, and about half to one millimeter long. Using a system of tiny weights and combs producing tiny vibrations, tones can be created. And yet, this tiny violin still isn&#8217;t small enough for Tesla. 
+
+<br> 
+
+<https://www.osnews.com/story/141923/musks-tesla-warns-trumps-tariffs-and-trade-wars-will-harm-tesla/>
+
+---
+
+## AI bubble? What AI bubble? Datacenter investors all in despite whispers of a pop
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Billions continue to pour into bit barns across the globe</h4> <p>Fears that AI may be a bubble about to burst have yet to dent datacenter investment, with a handful of new developments revealed this week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/ai_datacenter_frenzy/>
+
+---
+
+## Embracing the Equinox
+
+date: 2025-03-14, from: NASA breaking news
+
+Depending on your locale, equinoxes can be seen as harbingers of longer nights and gloomy weather, or promising beacons of nicer temperatures and more sunlight. Observing and predicting equinoxes is one of the earliest skills in humanity’s astronomical toolkit. Many ancient observatories around the world observed equinoxes along with the more pronounced solstices. These days, […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/night-sky-network/embracing-the-equinox/>
+
+---
+
+## Finalists Selected in NASA Aeronautics Agriculture-Themed Competition
+
+date: 2025-03-14, from: NASA breaking news
+
+Eight finalist teams participating in the 2025 NASA Gateways to Blue Skies Competition have been selected to present to a panel of judges their design concepts for aviation solutions that can help the agriculture industry.&#160; Sponsored by NASA’s Aeronautics Research Mission Directorate, this year’s competition asked teams of university students to research new or improved [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/agriculture-comp-finalists/>
+
+---
+
+## NASA Atmospheric Wave-Studying Mission Releases Data from First 3,000 Orbits
+
+date: 2025-03-14, from: NASA breaking news
+
+Following the 3,000th orbit of NASA’s AWE (Atmospheric Waves Experiment) aboard the International Space Station, researchers publicly released the mission’s first trove of scientific data, crucial to investigate how and why subtle changes in Earth’s atmosphere cause disturbances, as well as how these atmospheric disturbances impact technological systems on the ground and in space. “We’ve […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasa-awe-first-data/>
+
+---
+
+## Bubble trouble in hydraulics blamed for NASA and SpaceX Crew-10 scrub
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Trapped gas isn&#39;t just a party foul – it&#39;s a launch-stopper</h4> <p>The hydraulic problem that kept the next International Space Station (ISS) crew on the ground this week was likely due to trapped air in the system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/spacex_crew_10_scrub/>
+
+---
+
+## SUSE doubles down on AI and Multi-Linux Support to prove it's still in the game
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>What has more than a decade of support ahead of it cannot be dead</h4> <p><strong>SUSECON25</strong>  Veteran Linux wrangler SUSE confirmed its place aboard the AI train at its Orlando SUSECON25 shindig, where announcements were plentiful regarding the tech industry&#39;s latest obsession.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/susecon25/>
+
+---
+
+## France offers US scientists a safe haven from Trump's war on woke
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>Aix-Marseille University rolls out welcome mat for American researchers facing funding cuts</h4> <p>American boffins fearful that their work (or should that be &#34;woke&#34;?) activities will draw the disfavor of the Trump administration are being offered sanctuary in the Land of the Free, otherwise known as Europe.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/france_us_science_offer/>
+
+---
+
+## ‘Once in a Century’ Proof Settles Math’s Kakeya Conjecture
+
+date: 2025-03-14, from: Quanta Magazine
+
+The deceptively simple Kakeya conjecture has bedeviled mathematicians for 50 years. A new proof of the conjecture in three dimensions illuminates a whole crop of related problems.            <p>The post <a href="https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/" target="_blank">‘Once in a Century’ Proof Settles Math’s Kakeya Conjecture</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/once-in-a-century-proof-settles-maths-kakeya-conjecture-20250314/>
+
+---
+
+## IBM boss Arvind Krishna pockets 23% pay rise to $25M
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>What about the average Big Blue worker? $48,582 up from $43,069</h4> <p><strong>CEO salary watch</strong>  IBM emperor Arvind Krishna&#39;s total financial package went up by double digits in 2024 to more than $25 million.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/ibm_arvind_kerching_pay/>
+
+---
+
+## Apple's alleged UK encryption battle sparks political and privacy backlash
+
+date: 2025-03-14, updated: 2025-03-14, from: The Register (UK I.T. News)
+
+<h4>National security defense being used to keep appeal behind closed doors</h4> <p>US politicians and privacy campaigners are calling for the private hearing between Apple and the UK government regarding its alleged encryption-busting order to be aired in public.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/14/apple_uk_encryption_hearing/>
 
 ---
 
@@ -1662,4 +1914,100 @@ date: 2025-03-09, updated: 2025-03-10, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/09/ebpf_meta_servers/>
+
+---
+
+## We call this kernel saunters: How Apple rearranged its XNU core with exclaves
+
+date: 2025-03-08, updated: 2025-03-10, from: The Register (UK I.T. News)
+
+<h4>iPhone giant compartmentalizes OS for the sake of security</h4> <p>Apple has been working to harden the XNU kernel that powers its various operating systems, including iOS and macOS, with a feature called &#34;exclaves.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/>
+
+---
+
+## Hubble Unveils a Glittering View of Sh2-284
+
+date: 2025-03-08, from: NASA breaking news
+
+A tiny fraction of the stellar nursery known as Sh2-284 is visible in this glittering, star-filled NASA Hubble Space Telescope image. This immense region of gas and dust is the birthing place of stars, which shine among the clouds. Bright clusters of newborn stars glow pink in infrared light, and clouds of gas and dust, […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-unveils-a-glittering-view-of-sh2-284/>
+
+---
+
+## Hubble Jams With A Cosmic Guitar
+
+date: 2025-03-08, from: NASA breaking news
+
+Arp 105 is a dazzling ongoing merger between an elliptical galaxy and a spiral galaxy drawn together by gravity, characterized by a long, drawn out tidal tail of stars and gas more than 362,000 light-years long. The immense tail, which extends beyond this image from NASA’s Hubble Space Telescope, was pulled from the two galaxies […] 
+
+<br> 
+
+<https://science.nasa.gov/centers-and-facilities/goddard/hubble-jams-with-a-cosmic-guitar/>
+
+---
+
+## Hubble Spies a Spectacular Starburst Galaxy
+
+date: 2025-03-08, from: NASA breaking news
+
+Sweeping spiral arms extend from NGC 4536, littered with bright blue clusters of star formation and red clumps of hydrogen gas shining among dark lanes of dust. The galaxy’s shape may seem a little unusual, and that’s because it’s what’s known as an “intermediate galaxy”: not quite a barred spiral, but not exactly an unbarred […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spies-a-spectacular-starburst-galaxy/>
+
+---
+
+## Hubble Examines Stars Ensconced in a Cocoon of Gas
+
+date: 2025-03-08, from: NASA breaking news
+
+An open cluster of stars shines through misty, cocoon-like gas clouds in this Hubble Space Telescope image of NGC 460. NGC 460 is located in a region of the Small Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. This particular region contains a number of young star clusters and nebulae of different sizes […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-examines-stars-ensconced-in-a-cocoon-of-gas/>
+
+---
+
+## Surprise! People don't want AI deciding who gets a kidney transplant and who dies or endures years of misery
+
+date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
+
+<h4>Researchers find AI isn&#39;t ready to help with moral decision making</h4> <p>Is AI an appropriate source of moral guidance about which patients should be given kidney transplants?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/08/ai_kidney_transplant_moral_decisions/>
+
+---
+
+## Stuff a Pi-hole in your router because your browser is about to betray you
+
+date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
+
+<h4>Mozilla sells ads, Google limits blocking them – it&#39;s time for stricter measures</h4> <p>A new, lightweight version of Pi-Hole is here. Just how easy is it to block advertising on your home network?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/08/pi_hole_6_flyby/>
+
+---
+
+## Developer sabotaged ex-employer with kill switch activated when he was let go
+
+date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
+
+<h4>IsDavisLuEnabledInActiveDirectory? Not any more. IsDavisLuGuilty? Yes. IsDavisLuFacingJail? Also yes</h4> <p>A federal jury in Cleveland has found a senior software developer guilty of sabotaging his employer&#39;s systems – and he&#39;s now facing a potential ten years behind bars.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/08/developer_server_kill_switch/>
 

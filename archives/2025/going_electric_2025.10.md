@@ -1,11 +1,259 @@
 ---
 title: going electric
-updated: 2025-03-14 06:07:45
+updated: 2025-03-15 06:07:30
 ---
 
 # going electric
 
-(date: 2025-03-14 06:07:45)
+(date: 2025-03-15 06:07:30)
+
+---
+
+## Honda launches 2025 Prologue deals: Here’s how you can snag some savings
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Honda-Prologue-record-sales-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda’s electric SUV took the US by storm, becoming the top-selling EV in the US outside of Tesla in the final three months of 2024. This year, Honda is making <a href="https://electrek.co/guides/honda-prologue/">the Prologue</a> even more attractive, upgrading it with over 300 miles of range. With 2025 Prologue models now arriving at dealerships, Honda wasted no time launching new deals this week.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda,honda-prologue" data-layer-viewtype="unknown" data-post-id="405979" href="https://electrek.co/2025/03/14/honda-launches-2025-prologue-deals-how-you-can-save/#more-405979" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/honda-launches-2025-prologue-deals-how-you-can-save/>
+
+---
+
+## 2026 BMW i3 And BMW iX3: Our Best Look Yet
+
+date: 2025-03-14, from: Inside EVs News
+
+The Neue Klasse EVs are coming in hot—and cold. Photos of extreme-weather testing come with new details on what's next for BMW. 
+
+<br> 
+
+<https://insideevs.com/news/753610/2026-bmw-i3-ix3-neue-klasse/>
+
+---
+
+## Kia’s first electric van looks even better in person [Video]
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Kias-first-electric-van-PV5-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia is launching its first electric van, <a href="https://electrek.co/guides/kia-pv5/">the PV5</a>, later this year. If you liked how it looked in pictures, wait until you see it in real life. A production PV5 was spotted in Korea for the first time, giving us a closer look at the futuristic van. See it for yourself in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="405943" href="https://electrek.co/2025/03/14/kias-first-electric-van-looks-even-better-in-person-video/#more-405943" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/kias-first-electric-van-looks-even-better-in-person-video/>
+
+---
+
+## Podcast: Trump’s Tesla ad, cheaper Tesla model, Mercedes CLA EV, and more
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Trump making an ad for Tesla, upcoming cheaper Tesla models, the unveiling of the new Mercedes CLA EV, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="405945" href="https://electrek.co/2025/03/14/podcast-trumps-tesla-ad-cheaper-tesla-model-mercedes-cla-ev-and-more/#more-405945" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/podcast-trumps-tesla-ad-cheaper-tesla-model-mercedes-cla-ev-and-more/>
+
+---
+
+## Covering every roof with solar could supply 2/3 of global electricity – study
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/02/az-solar.jpg?quality=82&#038;strip=all&#038;w=1350" /></div><p>If the world covered every suitable roof with solar panels, it could supply 2/3 of humanity’s total electricity consumption – allowing the globe to transition completely off of fossil electricity generation, according to <a href="https://www.nature.com/articles/s41558-025-02276-3#ref-CR35">a new study</a> out of the University of Sussex.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rooftop-solar,solar-power" data-layer-viewtype="unknown" data-post-id="405930" href="https://electrek.co/2025/03/14/covering-every-roof-with-solar-could-supply-2-3-of-global-electricity-study/#more-405930" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/covering-every-roof-with-solar-could-supply-2-3-of-global-electricity-study/>
+
+---
+
+## Trump’s Tesla commercial hasn’t helped inventory or new orders
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-14-at-2.19.11 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>President Trump’s $100 million publicity stunt for Tesla hasn’t helped the automaker’s struggling sales yet, based on an inventory check and new order delivery timelines in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405924" href="https://electrek.co/2025/03/14/trump-tesla-commercial-not-helping-inventory-check/#more-405924" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/trump-tesla-commercial-not-helping-inventory-check/>
+
+---
+
+## EcoFlow Spring Sale phase 2 takes 59% off units from $50, exclusive $2,900 off Mango Power E CATL power station, Heybike, more
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/EcoFlow-Spring-Sale-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’re ending this week’s Green Deals strong with a solid array of ways to electrify your upcoming adventures through spring. First, EcoFlow has continued its seasonal savings with its latest <a href="https://9to5toys.com/2025/03/14/ecoflow-spring-sale-second-phase-from-50/">Power-up Your Spring Adventure sale</a> that is offering up to 59% discounts on power stations – some continuing, some new – with plenty of low prices, multiple ways for extra savings, free gifts, and more. Among the offers, we spotted the brand’s <a href="https://9to5toys.com/2025/03/14/ecoflow-spring-sale-second-phase-from-50/">DELTA 2 Max bundle</a> with two 200W solar panels and a protective bag hitting a new <a href="https://9to5toys.com/2025/03/14/ecoflow-spring-sale-second-phase-from-50/">$1,424</a> low. Right behind it is <a href="https://9to5toys.com/2025/03/14/heybike-st-paddys-day-sale-from-999/">Heybike’s St. Paddy’s Day sale</a>, which is adding new deals every few days and is currently offering popular bundles like the <a href="https://9to5toys.com/2025/03/14/heybike-st-paddys-day-sale-from-999/">Ranger S Folding Fat Tire e-bike</a> and $198 in free gear for <a href="https://9to5toys.com/2025/03/14/heybike-st-paddys-day-sale-from-999/">$1,099</a>. We also have an exclusive $2,900 in savings on the <a href="https://9to5toys.com/2025/03/13/exclusive-mango-power-e-new-899-low/">Mango Power E Portable Power Station</a> that sports CATL battery cells hitting a new <a href="https://9to5toys.com/2025/03/13/exclusive-mango-power-e-new-899-low/">$899</a> low, as well as another collection of EGO Power+ lawncare tools, this time led by the <a href="https://9to5toys.com/2025/03/14/ego-56v-26-inch-cordless-hedge-trimmer-199-amz-low/">56V 26-inch Cordless Hedge Trimmer</a> that has fallen to its <a href="https://9to5toys.com/2025/03/14/ego-56v-26-inch-cordless-hedge-trimmer-199-amz-low/">$199</a> Amazon low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s massive $2,598+ launch savings on <a href="https://9to5toys.com/2025/03/13/anker-launches-solix-f3800-plus/">Anker’s new F3800 Plus</a> Portable Power Station, <a href="https://9to5toys.com/2025/03/13/749-off-rad-power-e-bikes-spring-sale/">Rad Power’s Spring e-bike Sale</a> offers, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="405903" href="https://electrek.co/2025/03/14/ecoflow-spring-adventure-sale-exclusive-mango-heybike-more/#more-405903" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/ecoflow-spring-adventure-sale-exclusive-mango-heybike-more/>
+
+---
+
+## BMW’s new iX3 will ignite an ‘unprecedented’ EV ramp-up starting this year
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BMWs-new-iX3-EV-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BMW is gearing up to launch its first Neue Klasse model later this year, promising 30% faster charging and at least 30% more range. Starting with the new iX3, <a href="https://electrek.co/guides/bmw/">BMW</a> says an “unprecedented ramp-up” is coming as it prepares to unleash over 40 new and updated models by 2027.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bmw,bmw-ix3" data-layer-viewtype="unknown" data-post-id="405910" href="https://electrek.co/2025/03/14/bmws-new-ix3-will-start-an-unprecedented-ev-ramp-up-this-year/#more-405910" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/bmws-new-ix3-will-start-an-unprecedented-ev-ramp-up-this-year/>
+
+---
+
+## Tesla is done in Germany: 94% say they won’t buy a Tesla car
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Heil-tesla-gigafactory-berlin.png?w=1600" /></div><p>A survey of over 100,000 Germans revealed that 94% won’t buy a Tesla vehicle. It doesn’t bode well for the automaker, whose sales had already been falling off a cliff in the important European market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405894" href="https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/#more-405894" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/tesla-is-done-in-germany-94-say-they-wont-buy-a-tesla-car/>
+
+---
+
+## Why is Volkswagen cutting ID.4 production just as US sales are surging?
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Volkswagen-ID.4-best-selling-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Volkswagen is slashing production in Chattanooga, Tennessee, where the <a href="https://electrek.co/guides/vw-id-4/">ID.4 electric SUV</a> is built. Although the ID.4 was the third top-selling EV in the US earlier this year behind Tesla’s Model Y and Model 3, the move suggests it may not last long.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,volkswagen-id-4,vw-id-4" data-layer-viewtype="unknown" data-post-id="405887" href="https://electrek.co/2025/03/14/volkswagen-cutting-id-4-production-just-as-us-sales-surging/#more-405887" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/volkswagen-cutting-id-4-production-just-as-us-sales-surging/>
+
+---
+
+## Don’t Forget: Many DC Fast Charging Adapters Are Technically Prohibited
+
+date: 2025-03-14, from: Inside EVs News
+
+We asked around, and those cheap fast-charging adapters are frowned upon. The same goes for extension cables. 
+
+<br> 
+
+<https://insideevs.com/news/753558/dc-fast-charging-adapter-probibited-tesla-evgo-chargepoint-electrify-america/>
+
+---
+
+## 1,000 kW fast charging?!? BYD teases tech twice as fast as Tesla, debuting March 17
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/1000-kw-charger-BYD.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Build Your Dreams <a href="https://electrek.co/guides/byd/">(BYD)</a> is gearing up for what has the makings of an epic launch event this coming Monday. The Chinese automaker announced several incoming debuts coming early next week, including a new “BYD Super e-Platform,” described as a “new benchmark in electric.” What’s most interesting, however, is that BYD is teasing a new ultra-fast EV charger with up to 1,000 kW of power – that’s twice as powerful as the current best on the market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="405867" href="https://electrek.co/2025/03/14/1000-kw-fast-charging-byd-teases-tech-twice-as-fast-march-17/#more-405867" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/1000-kw-fast-charging-byd-teases-tech-twice-as-fast-march-17/>
+
+---
+
+## Check out Kia’s cool new ‘Unplugged Ground’ EV experience center [Images]
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Kia-EV-experience.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/kia/">Kia</a> opened its new “Unplugged Ground” on Friday, a unique EV experience. The complex has Kia’s latest EVs, including the EV4, on display for visitors to meet and interact with.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="405859" href="https://electrek.co/2025/03/14/kia-opens-new-unplugged-ground-ev-experience-center-images/#more-405859" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/kia-opens-new-unplugged-ground-ev-experience-center-images/>
+
+---
+
+## Even Tesla Is Getting Nailed By The 'Bipolar Tariff Regime'
+
+date: 2025-03-14, from: Inside EVs News
+
+Even Tesla can't escape the tariff chaos. Plus, the VW Group's Cupra brand U.S. launch is on track, and BMW takes a hit in China. 
+
+<br> 
+
+<https://insideevs.com/news/753551/tesla-cm-tariff-bmw-cupra/>
+
+---
+
+## Rad Power Bikes appoints new CEO amid shifting company direction
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/09/rad-power-bikes-battery-header.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p><a href="http://bit.ly/Rad-Power_Bikes">Rad Power Bikes</a> has announced the appointment of Kathi Lentzsch as its new Chief Executive Officer, marking a leadership change as the company leans further into retail expansion and reduces its emphasis on direct-to-consumer (D2C) sales. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="405857" href="https://electrek.co/2025/03/14/rad-power-bikes-appoints-new-ceo-amid-shifting-company-direction/#more-405857" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/rad-power-bikes-appoints-new-ceo-amid-shifting-company-direction/>
+
+---
+
+## Former Waymo CEO on Tesla’s robotaxi launch: ‘there are many ways to fake a robotaxi service’
+
+date: 2025-03-14, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_75-e1728619627481.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>John Krafcik, Waymo’s long-time CEO until 2021 and auto industry veteran, explained why Tesla’s Cybercab won’t work in a new interview and went as far as suggesting that Tesla might ‘fake” its upcoming robotaxi launch in Austin in June.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="405862" href="https://electrek.co/2025/03/14/waymo-ceo-tesla-robotaxi-launch-fake/#more-405862" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/14/waymo-ceo-tesla-robotaxi-launch-fake/>
 
 ---
 
@@ -42,6 +290,10 @@ date: 2025-03-14, from: Electrek Feed
 date: 2025-03-14, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/05/wheel-e-podcast.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>This week on <em>Electrek</em>’s Wheel-E podcast, we discuss the most popular news stories from the world of electric bikes and other nontraditional electric vehicles. This time, that includes a new e-bike it from Clip, Orbea’s unveiling of the Denna e-bike, our Velotric Nomad 2 review, Rad Power Bikes’ CEO has stepped down, Segway and Apollo are shipping new scooters, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/03/WheelE_84.mp3"></audio></figure>
 
 
 
@@ -1532,4 +1784,88 @@ The Honda S7 goes further and costs less than a Tesla Model Y. But it's only ava
 <br> 
 
 <https://insideevs.com/news/752863/honda-s7-china-production-price/>
+
+---
+
+## Meet the newest EV from Hyundai – new HX19e electric excavator
+
+date: 2025-03-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/hyundai_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The HD arm of Hyundai has just released the first official images of the new, battery-electric HX19e mini excavator – the first ever production electric excavator from the global South Korean manufacturer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment,hyundai" data-layer-viewtype="unknown" data-post-id="404959" href="https://electrek.co/2025/03/08/meet-the-newest-ev-from-hyundai-new-hx19e-electric-excavator/#more-404959" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/08/meet-the-newest-ev-from-hyundai-new-hx19e-electric-excavator/>
+
+---
+
+## Take A First Look At Telo's $41,520 Mini EV Truck
+
+date: 2025-03-08, from: Inside EVs News
+
+The company says this thing will be on in production next year. Let's hope it works out. 
+
+<br> 
+
+<https://insideevs.com/news/752870/telo-mt1-first-look/>
+
+---
+
+## Toyota's $20,000 EV In China Gets Lidar, Cutting-Edge Nvidia Chip
+
+date: 2025-03-08, from: Inside EVs News
+
+A flood of orders reportedly crashed Toyota’s web server soon after the bZ3x went on sale. 
+
+<br> 
+
+<https://insideevs.com/news/752864/toyota-affordable-ev-china-lidar-nvidia-chip/>
+
+---
+
+## Unassuming Container Gives Second Life To Totaled Tesla Batteries
+
+date: 2025-03-08, from: Inside EVs News
+
+The Fellten Charge Qube acts as a huge battery generator thanks to repurposed packs from high-mileage or damaged EVs. 
+
+<br> 
+
+<https://insideevs.com/news/752797/tesla-ev-batteries-second-life-charge-qube/>
+
+---
+
+## Harbinger guarantees incentive pricing to combat Trump Administration chaos
+
+date: 2025-03-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/HARBRINGER1967.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With the Trump Administration fully in power and Federal electric vehicle incentives <a href="https://electrek.co/2024/11/26/california-ev-rebate-trump-kills-7500-federal-tax-credit/">apparently on the chopping block</a>, many fleet buyers are second-guessing the push to electrify their fleets. To help ease their minds, Harbinger is launching the IRA Risk-Free Guarantee, promising to cover the cost of anticipated IRA credits if the rebate goes away.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,harbinger-motors" data-layer-viewtype="unknown" data-post-id="404942" href="https://electrek.co/2025/03/08/harbinger-guarantees-incentive-pricing-to-combat-trump-administration-chaos/#more-404942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/08/harbinger-guarantees-incentive-pricing-to-combat-trump-administration-chaos/>
+
+---
+
+## It just gets worse for Nikola as massive hydrogen recall follows bankruptcy
+
+date: 2025-03-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/nikola-hydrogen.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Whoever is left at Nikola after the fledgling truck-maker filed for Chapter 11 bankruptcy protection last month is probably having a worse week than you – the company issued a recall with the NHTSA for 95 of its hydrogen fuel cell-powered semi trucks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,hydrogen,hydrogen-fuel-cell,nikola-motors" data-layer-viewtype="unknown" data-post-id="404932" href="https://electrek.co/2025/03/08/it-just-gets-worse-for-nikola-as-massive-recall-follows-bankruptcy-filing/#more-404932" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/08/it-just-gets-worse-for-nikola-as-massive-recall-follows-bankruptcy-filing/>
 

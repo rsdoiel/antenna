@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-03-14 06:07:43
+updated: 2025-03-15 06:07:28
 ---
 
 # libraries
 
-(date: 2025-03-14 06:07:43)
+(date: 2025-03-15 06:07:28)
 
 ---
 
@@ -46,6 +46,18 @@ A small-town housewife discovers a new sense of purpose after she begins to work
 <br> 
 
 <https://standardebooks.org/ebooks/dorothy-canfield-fisher/the-homemaker>
+
+---
+
+## Want to help preserve the web? Save Page Now!
+
+date: 2025-03-13, from: Internet Archive Blog
+
+The internet is a living, breathing space—constantly growing, changing, and, unfortunately, disappearing. Important articles get taken down. Research papers become inaccessible. Historical records vanish. When content disappears, we lose pieces [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/03/13/want-to-help-preserve-the-web-save-page-now/>
 
 ---
 
