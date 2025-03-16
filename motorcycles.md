@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-03-15 06:07:29
+updated: 2025-03-16 06:07:36
 ---
 
 # motorcycles
 
-(date: 2025-03-15 06:07:29)
+(date: 2025-03-16 06:07:36)
+
+---
+
+## 2025 ARCA West at Phoenix: Team Reactions and Analysis
+
+date: 2025-03-15, from: Kickin the Tires blog
+
+&#160;By Vincent Delforge, Staff Writer The second race of the 2025 season, the General Tire 150, held on the one-mile paved oval at Phoenix Raceway in Avondale, AZ, featured a&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2025-arca-west-at-phoenix-team-reactions-and-analysis/>
+
+---
+
+## A Supermoto Stark Varg Is In The Works, and It’ll Come To the US
+
+date: 2025-03-15, from: Ride Apart, Electric Motorcycle News
+
+A full-size, all-electric supermoto sounds like a total blast to ride.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753505/stark-varg-ex-sm-coming-to-us/>
+
+---
+
+## Four The Win, Christopher Bell Looks To Extend His NASCAR Winning Streak
+
+date: 2025-03-15, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor LAS VEGAS – Coming off his third trip to NASCAR Victory Lane in a row – Atlanta, COTA and Phoenix – Joe Gibbs Racing driver Christopher&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/four-the-win-christopher-bell-looks-to-extend-his-nascar-winning-streak/>
 
 ---
 
@@ -449,29 +486,4 @@ It's hard to imagine anyone racing here any time soon, so place your bets.
 <br> 
 
 <https://www.rideapart.com/news/752858/jerez-motogp-facilities-flooding/>
-
----
-
-## Greg Anderson Lays Down Quickest Run In NHRA Pro Stock History With 6.443-sec. Blast At Gainesville Raceway
-
-date: 2025-03-08, from: Kickin the Tires blog
-
-NHRA Press Release GAINESVILLE, Fla. (March 7, 2025) – Reigning Top Fuel world champion Antron Brown started his 2025 with the provisional No. 1 qualifier position at Gainesville Raceway, taking&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nhra/greg-anderson-lays-down-quickest-run-in-nhra-pro-stock-history-with-6-443-sec-blast-at-gainesville-raceway/>
-
----
-
-## Honda CB650R and CBR650R Owners, Your Bikes Have a New Recall
-
-date: 2025-03-08, from: Ride Apart, Electric Motorcycle News
-
-The gear shift arm might straight up fall off, and that’s definitely not good.
- 
-
-<br> 
-
-<https://www.rideapart.com/news/752631/honda-cbr650r-cb650r-gear-shift-arm-recall/>
 

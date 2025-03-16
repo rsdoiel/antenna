@@ -1,11 +1,87 @@
 ---
 title: going electric
-updated: 2025-03-15 06:07:30
+updated: 2025-03-16 06:07:37
 ---
 
 # going electric
 
-(date: 2025-03-15 06:07:30)
+(date: 2025-03-16 06:07:37)
+
+---
+
+## JPMorgan Says Tesla's About To Have A Bad Time
+
+date: 2025-03-15, from: Inside EVs News
+
+The firm cut Tesla's delivery forecast by 20% and said that stock could eventually drop even more to $120 per share.  
+
+<br> 
+
+<https://insideevs.com/news/753615/tesla-prediction-deliveries-jp-morgan/>
+
+---
+
+## Tesla’s top crash safety architect quits
+
+date: 2025-03-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Petter-Winberg-Tesla-crash-safety-architect.png?w=1600" /></div><p>Tesla’s top crash safety architect, who helped the automaker achieve top safety scores for its entire car line-up, announced that he is leaving the automaker after 14 years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406023" href="https://electrek.co/2025/03/15/tesla-top-crash-safety-architect-quits/#more-406023" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/15/tesla-top-crash-safety-architect-quits/>
+
+---
+
+## Tesla Model S Plaid gets smoked in drag race by Xiaomi’s cheaper SU7 Ultra
+
+date: 2025-03-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Model-S-Plaid-vs-Xiaomi-Su7-Ultra.png?w=1600" /></div><p>The SU7 Ultra, Xiaomi’s new flagship electric vehicle, went against a Tesla Model S Plaid in a drag race and it smoked it.</p>
+
+
+
+<p>The car is ridiculously powerful, and it’s about 35% cheaper than the Plaid, which is already affordable relative to its supercar performance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,xiaomi" data-layer-viewtype="unknown" data-post-id="405921" href="https://electrek.co/2025/03/15/tesla-model-s-plaid-smoked-drag-race-xiaomis-su7-ultra/#more-405921" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/15/tesla-model-s-plaid-smoked-drag-race-xiaomis-su7-ultra/>
+
+---
+
+## Volkswagen ID.4 Motor Teardown: Killed By A Very Simple Problem
+
+date: 2025-03-15, from: Inside EVs News
+
+The coolant seems to have gone where it wasn’t supposed to. Yet the damaged motor looks pretty much perfect inside. 
+
+<br> 
+
+<https://insideevs.com/news/753316/vw-id4-front-motor-fail-teardown/>
+
+---
+
+## Surprise! London’s tax on polluting vehicles made everyone much healthier
+
+date: 2025-03-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/electric-Cab-London-LEVC.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The city of London has released a report showing drastic drops in air pollution since it expanded its Ultra Low Emission Zone, an area within the city where polluting vehicles must pay a congestion charge to visit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="london" data-layer-viewtype="unknown" data-post-id="405963" href="https://electrek.co/2025/03/15/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/#more-405963" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/15/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/>
 
 ---
 
@@ -58,6 +134,10 @@ date: 2025-03-14, from: Electrek Feed
 date: 2025-03-14, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Trump making an ad for Tesla, upcoming cheaper Tesla models, the unveiling of the new Mercedes CLA EV, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Electrek_377.mp3"></audio></figure>
 
 
 
@@ -1784,88 +1864,4 @@ The Honda S7 goes further and costs less than a Tesla Model Y. But it's only ava
 <br> 
 
 <https://insideevs.com/news/752863/honda-s7-china-production-price/>
-
----
-
-## Meet the newest EV from Hyundai – new HX19e electric excavator
-
-date: 2025-03-08, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/hyundai_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The HD arm of Hyundai has just released the first official images of the new, battery-electric HX19e mini excavator – the first ever production electric excavator from the global South Korean manufacturer.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment,hyundai" data-layer-viewtype="unknown" data-post-id="404959" href="https://electrek.co/2025/03/08/meet-the-newest-ev-from-hyundai-new-hx19e-electric-excavator/#more-404959" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/03/08/meet-the-newest-ev-from-hyundai-new-hx19e-electric-excavator/>
-
----
-
-## Take A First Look At Telo's $41,520 Mini EV Truck
-
-date: 2025-03-08, from: Inside EVs News
-
-The company says this thing will be on in production next year. Let's hope it works out. 
-
-<br> 
-
-<https://insideevs.com/news/752870/telo-mt1-first-look/>
-
----
-
-## Toyota's $20,000 EV In China Gets Lidar, Cutting-Edge Nvidia Chip
-
-date: 2025-03-08, from: Inside EVs News
-
-A flood of orders reportedly crashed Toyota’s web server soon after the bZ3x went on sale. 
-
-<br> 
-
-<https://insideevs.com/news/752864/toyota-affordable-ev-china-lidar-nvidia-chip/>
-
----
-
-## Unassuming Container Gives Second Life To Totaled Tesla Batteries
-
-date: 2025-03-08, from: Inside EVs News
-
-The Fellten Charge Qube acts as a huge battery generator thanks to repurposed packs from high-mileage or damaged EVs. 
-
-<br> 
-
-<https://insideevs.com/news/752797/tesla-ev-batteries-second-life-charge-qube/>
-
----
-
-## Harbinger guarantees incentive pricing to combat Trump Administration chaos
-
-date: 2025-03-08, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/HARBRINGER1967.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>With the Trump Administration fully in power and Federal electric vehicle incentives <a href="https://electrek.co/2024/11/26/california-ev-rebate-trump-kills-7500-federal-tax-credit/">apparently on the chopping block</a>, many fleet buyers are second-guessing the push to electrify their fleets. To help ease their minds, Harbinger is launching the IRA Risk-Free Guarantee, promising to cover the cost of anticipated IRA credits if the rebate goes away.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-trucks,harbinger-motors" data-layer-viewtype="unknown" data-post-id="404942" href="https://electrek.co/2025/03/08/harbinger-guarantees-incentive-pricing-to-combat-trump-administration-chaos/#more-404942" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/03/08/harbinger-guarantees-incentive-pricing-to-combat-trump-administration-chaos/>
-
----
-
-## It just gets worse for Nikola as massive hydrogen recall follows bankruptcy
-
-date: 2025-03-08, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/nikola-hydrogen.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Whoever is left at Nikola after the fledgling truck-maker filed for Chapter 11 bankruptcy protection last month is probably having a worse week than you – the company issued a recall with the NHTSA for 95 of its hydrogen fuel cell-powered semi trucks.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,hydrogen,hydrogen-fuel-cell,nikola-motors" data-layer-viewtype="unknown" data-post-id="404932" href="https://electrek.co/2025/03/08/it-just-gets-worse-for-nikola-as-massive-recall-follows-bankruptcy-filing/#more-404932" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/03/08/it-just-gets-worse-for-nikola-as-massive-recall-follows-bankruptcy-filing/>
 

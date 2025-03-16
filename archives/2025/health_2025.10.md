@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-03-15 06:07:29
+updated: 2025-03-16 06:07:36
 ---
 
 # health
 
-(date: 2025-03-15 06:07:29)
+(date: 2025-03-16 06:07:36)
+
+---
+
+## Renal Diet Snacks You Wished You Knew Earlier
+
+date: 2025-03-15, from: The Kidney Dietitian
+
+<p>This article was written by dietetic student&#160;Yuning Liu&#160;&#38; reviewed by Melanie Betz MS, RD, CSR, CSG. Eating habits may vary from person to person following a renal diet. While some people with kidney disease only eat 3 meals a day, others may spread out their intake into smaller and more frequent meals and snacks. Finding [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/renal-diet-snacks/">Renal Diet Snacks You Wished You Knew Earlier</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/renal-diet-snacks/>
 
 ---
 

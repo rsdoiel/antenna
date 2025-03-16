@@ -1,11 +1,147 @@
 ---
 title: north america
-updated: 2025-03-15 06:07:22
+updated: 2025-03-16 06:07:29
 ---
 
 # north america
 
-(date: 2025-03-15 06:07:22)
+(date: 2025-03-16 06:07:29)
+
+---
+
+## Why Donald Trump Is Attacking Me—and You
+
+date: 2025-03-15, from: The Contrarian
+
+Publisher's Roundup, 9 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-donald-trump-is-attacking-meand>
+
+---
+
+##  YOU LOVE TO SEE IT: Even Trump Doesn’t Trust Big Tech 
+
+date: 2025-03-15, from: The Lever News
+
+ Google’s monopoly status is questioned, states can sue for climate cleanup, a judge tells Trump to do his research, and a zombie pipeline is stopped in its tracks.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-even-trump-doesnt-trust-big-tech/>
+
+---
+
+## Trump EPA Chief’s Assault on Environmental Justice Means Those With the Least Will Get Hurt the Most
+
+date: 2025-03-15, from: Capital and Main
+
+<p>The 'Great American Comeback' shouldn't be filthy air, dirty water and no sanitation for the marginalized, says activist Catherine Coleman Flowers. </p>
+<p>The post <a href="https://capitalandmain.com/trump-epa-chiefs-assault-on-environmental-justice-means-those-with-the-least-will-get-hurt-the-most">Trump EPA Chief’s Assault on Environmental Justice Means Those With the Least Will Get Hurt the Most</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-epa-chiefs-assault-on-environmental-justice-means-those-with-the-least-will-get-hurt-the-most>
+
+---
+
+## Who selected the Lady Gaga song you’re hearing at the grocery store?
+
+date: 2025-03-15, from: Market Place
+
+ Employees and marketing teams select songs from music providers, taking into account customer and employee feedback. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/who-selected-the-lady-gaga-song-youre-hearing-at-the-grocery-store/>
+
+---
+
+## Shutdown averted. How it all went down.
+
+date: 2025-03-15, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>A Republican-written spending bill is being backed by some Senate Democrats, including Senate Minority Leader Chuck Schumer, to avoid a government shutdown. Other Democrats — and much of the voter base — aren’t happy. We&#8217;ll get into it. Then, we&#8217;ll close out the week with a round of Half Full/Half Empty, weighing in on Southwest Airlines’ new checked bag policy and $19 strawberries. Plus, in the wake of a certain duchess’ foray into television, what are your thoughts on celeb cooking shows?</p>
+<p>Here’s everything we talked about today:</p>
+<p><!-- /wp:paragraph --> <!-- wp:list --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list"><!-- wp:list-item --></ul>
+</li>
+</ul>
+<p><!-- wp:list --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list"><!-- wp:list-item --></p>
+<li><a href="https://www.nytimes.com/interactive/2025/03/12/magazine/russia-arctic-fossils-expedition.html" target="_blank" rel="noreferrer noopener">“The Siberian Bone Hunters Diving for Ice Age Mammoth Fossils”</a> from The New York Times</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li><a href="https://www.politico.com/news/2025/03/14/dr-oz-health-care-00230949" target="_blank" rel="noreferrer noopener">“Dr. Oz, with a TV host’s flair, promises simple solutions for America’s health care ills”</a> by Politico</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li>&#8220;<a href="https://www.nytimes.com/2025/03/14/us/politics/schumer-trump-government-shutdown.html">Schumer Under Fire as Pelosi and Other Democrats Criticize Shutdown Retreat&#8221; </a>from The New York Times</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li><a href="https://www.bloomberg.com/news/articles/2025-03-11/half-past-four-is-the-new-five-o-clock-in-more-efficient-workday?campaign_id=4&amp;emc=edit_dk_20250312&amp;instance_id=149767&amp;nl=dealbook&amp;regi_id=144686531&amp;segment_id=193222&amp;user_id=d2d928a1f9dc3a96ed597f55afd46083&amp;embedded-checkout=true">&#8220;Half-Past Four is the New Five O’Clock in More Efficient Workday&#8221;</a> from Bloomberg</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li>&#8220;<a href="https://www.nytimes.com/2025/03/04/style/meghan-markle-netflix-takeaways.html">5 Takeaways From Meghan Markle’s Netflix Show ‘With Love, Meghan’&#8221;</a> from The New York Times</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li>&#8220;<a href="https://www.marketplace.org/2025/03/13/19-we-might-be-at-peak-strawberry/">Why does the viral Erewhon strawberry cost $19?&#8221;</a> from Marketplace</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --> <!-- wp:list-item --></p>
+<ul class="wp-block-list">
+<li style="list-style-type: none">
+<ul class="wp-block-list">
+<li>&#8220;<a href="https://www.usatoday.com/story/travel/airline-news/2025/03/12/southwest-airlines-major-changes-bag-fees/82281146007/">Southwest Airlines is charging for checked bags. Will loyal flyers stick around?</a>&#8221; from USA Today</li>
+</ul>
+</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/14/mms_20250314_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fshutdown-averted-how-it-all-went-down&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/14/mms_20250314_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fshutdown-averted-how-it-all-went-down&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/shutdown-averted-how-it-all-went-down>
 
 ---
 
@@ -1621,81 +1757,4 @@ date: 2025-03-09, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-cereal-of-the-damned/>
-
----
-
-## Here comes the House
-
-date: 2025-03-08, from: The Contrarian
-
-Publisher's Roundup, 8 
-
-<br> 
-
-<https://contrarian.substack.com/p/here-comes-the-house>
-
----
-
-##  YOU LOVE TO SEE IT:  Defrosting The Funding Freeze 
-
-date: 2025-03-08, from: The Lever News
-
- Aid money starts to flow, vital youth care is affirmed, a radical housing plan takes root, and desert water gets revolutionized.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-defrosting-the-funding-freeze/>
-
----
-
-## How do researchers measure income inequality?
-
-date: 2025-03-08, from: Market Place
-
-Common economic measurements, like GDP growth, tell us how fast the economic pie is growing. But they don’t tell us how the pie is getting distributed.  
-
-<br> 
-
-<https://www.marketplace.org/2025/03/07/how-do-researchers-measure-income-inequality/>
-
----
-
-## Oh, the irony!
-
-date: 2025-03-08, from: Market Place, Make me Smart
-
-<p>President Donald Trump’s family business is suing Capital One for closing its bank accounts in the aftermath of the Jan. 6 attack on the Capitol, arguing the bank violated consumer protection laws. Where&#8217;s the Consumer Financial Protection Bureau when ya need &#8217;em? Then, Kimberly breaks down two moves by the White House that could have sweeping consequences for law firms who work on cases against the Trump administration. Plus, we&#8217;ll weigh in on Trump&#8217;s strategic bitcoin reserve and tariff whiplash during a game of Half Full/Half Empty! Oh, and should there be a half-time show at the 2026 World Cup final?</p>
-<p>Here&#8217;s everything we talked about today:</p>
-<ul>
-<li><a href="https://www.nytimes.com/2025/03/07/us/politics/trump-organization-capital-one-lawsuit.html" target="_blank" rel="noreferrer noopener">&#8220;Trump Organization Sues Capital One for Closing Its Accounts&#8221;</a> from The New York Times</li>
-<li><a href="https://apnews.com/article/dei-purge-images-pentagon-diversity-women-black-8efcfaec909954f4a24bad0d49c78074">&#8220;War heroes and military firsts are among 26,000 images flagged for removal in Pentagon&#8217;s DEI purge&#8221;</a> from AP News</li>
-<li><a href="https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-ensures-the-enforcement-of-federal-rule-of-civil-procedure-65c/">&#8220;Fact Sheet: President Donald J. Trump Ensures the Enforcement of Federal Rule of Civil Procedure 65(c)&#8221;</a> from the White House</li>
-<li><a href="https://lawandcrime.com/high-profile/must-cover-the-costs-trump-directs-doj-to-enforce-a-rule-of-civil-procedure-and-seek-security-bonds-from-activist-groups-that-win-injunctions-against-the-government/">&#8220;Trump directs DOJ to seek security bonds for injunctions&#8221;</a> from Law and Crime</li>
-<li><a href="https://www.politico.com/news/2025/03/06/trump-security-clearance-steele-dossier-025203">&#8220;Trump targets prominent Democratic-linked law firm&#8221;</a> from Politico</li>
-<li><a href="https://mktplc.org/3DqZVCi">&#8220;Your tariff questions, answered.&#8221;</a> from the Marketplace newsletter</li>
-<li><a href="https://www.marketplace.org/2025/03/07/dunkin-nondairy-milk-surcharge-coffee/">&#8220;Why coffee shops like Dunkin&#8217; are dropping nondairy milk fees&#8221;</a> from Marketplace</li>
-<li><a href="https://www.washingtonpost.com/business/2025/03/07/powell-fed-caution/">&#8220;Fed chair signals patience amid Trump’s tariff whiplash&#8221;</a> from The Washington Post</li>
-<li><a href="https://www.npr.org/2025/03/05/nx-s1-5318759/fifa-world-cup-first-halftime-show-coldplay">&#8220;In a first, the 2026 World Cup final will include a halftime show&#8221;</a> from NPR</li>
-<li><a href="https://www.nytimes.com/2025/03/07/travel/ai-travel-planning-nyc.html">&#8220;Can an A.I. Travel Bot Plan Your Trip to NYC?&#8221;</a> from The New York Times</li>
-</ul>
-<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/07/mms_20250307_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Foh-the-irony&awCollectionId=mkp-MMsmrt"></source>
-</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/07/mms_20250307_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Foh-the-irony&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
-
-<https://www.marketplace.org/shows/make-me-smart/oh-the-irony>
-
----
-
-##  Do Democrats Have A Game Plan? 
-
-date: 2025-03-08, from: The Lever News
-
- The Democratic Party has lost the trust of working-class voters. This congressman says he has the key to winning them back.  
-
-<br> 
-
-<https://www.levernews.com/do-democrats-have-a-game-plan/>
 

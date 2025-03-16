@@ -1,11 +1,59 @@
 ---
 title: science and technology
-updated: 2025-03-15 06:07:24
+updated: 2025-03-16 06:07:31
 ---
 
 # science and technology
 
-(date: 2025-03-15 06:07:24)
+(date: 2025-03-16 06:07:31)
+
+---
+
+## RIP Mark Klein, the engineer who exposed US domestic spying ops after wiring it up
+
+date: 2025-03-15, updated: 2025-03-15, from: The Register (UK I.T. News)
+
+<h4>AT&amp;T engineer, and the Deep Throat of the network age, dies at 79</h4> <p>In 2006, a retired AT&amp;T engineer knocked on the door of the EFF&#39;s office in a rundown part of San Francisco&#39;s Mission district and asked, &#34;Do you folks care about privacy?&#34; With him he carried schematics exposing the largest US government domestic spying operation since Watergate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/15/rip_mark_klein/>
+
+---
+
+## NASA’s EZIE Launches on Mission to Study Earth’s Electrojets
+
+date: 2025-03-15, from: NASA breaking news
+
+Under the nighttime California sky, NASA’s EZIE (Electrojet Zeeman Imaging Explorer) mission launched aboard a SpaceX Falcon 9 rocket at 11:43 p.m. PDT on March 14. Taking off from Vandenberg Space Force Base near Santa Barbara, the EZIE mission’s trio of small satellites will fly in a pearls-on-a-string configuration approximately 260 to 370 miles above Earth’s surface to […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasas-ezie-launches-on-mission-to-study-earths-electrojets/>
+
+---
+
+## Ironclad 0.6 released
+
+date: 2025-03-15, from: OS News
+
+It&#8217;s been a while, but there&#8217;s a new release of Ironclad, the formally verified, hard real-time capable kernel written in SPARK and Ada. Aside from the usual bugfixes, this release moves Ironclad from multiboot to Limine, adds x86_64 ACPI support for poweroff and reboot, improvements to PTY support, the VFS layer, and much more. The easiest way to try out Ironclad is to download Gloire, a distribution that uses Ironclad and the GNU tools. It can be installed in both a virtual machine and on real hardware. 
+
+<br> 
+
+<https://www.osnews.com/story/141935/ironclad-0-6-released/>
+
+---
+
+## A look at Firefox forks
+
+date: 2025-03-15, from: OS News
+
+Mozilla&#8217;s actions have been rubbing many Firefox fans the wrong way as of late, and inspiring them to look for alternatives. There are many choices for users who are looking for a browser that isn&#8217;t part of the Chrome monoculture but is full-featured and suitable for day-to-day use. For those who are willing to stay in the Firefox &#8220;family&#8221; there are a number of good options that have taken vastly different approaches. This includes GNU IceCat, Floorp, LibreWolf, and Zen. ↫ Joe Brockmeier It&#8217;s a tough situation, as we&#8217;re all aware. We don&#8217;t want the Chrome monoculture to get any worse, but with Mozilla&#8217;s ever-increasing number of dubious decisions some people have been warning about for years, it&#8217;s only natural for people to look elsewhere. Once you decide to drop Firefox, there&#8217;s really nowhere else to go but Chrome and Chrome skins, or the various Firefox skins. As an aside, I really don&#8217;t think these browsers should be called Firefox &#8220;forks&#8221;; all they really do is change some default settings, add in an extension or two, and make some small UI tweaks. They may qualify as forks in a technical sense, but I think that overstates the differentiation they offer. Late last year, I tried my best to switch to KDE&#8217;s Falkon web browser, but after a few months the issues, niggles, and shortcomings just started to get under my skin. I switched back to Firefox for a little while, contemplating where to go from there. Recently, I decided to hop onto the Firefox skin train just to get rid of some of the Mozilla telemetry and useless &#8216;features&#8217; they&#8217;ve been adding to Firefox, and after some careful consideration I decided to go with Waterfox. Waterfox strikes a nice balance between the strict choices of LibreWolf &#8211; which most users of LibreWolf seem to undo, if my timeline is anything to go by &#8211; and the choices Mozilla itself makes. On top of that, Waterfox enables a few very nice KDE integrations Firefox itself and the other Firefox skins don&#8217;t have, making it a perfect choice for KDE users. Sadly, Waterfox isn&#8217;t packaged for most Linux distributions, so you&#8217;ll have to resort to a third-party packager. In the end, none of the Firefox skins really address the core problem, as they&#8217;re all still just Firefox. The problem with Firefox is Mozilla, and no amount of skins is going to change that. 
+
+<br> 
+
+<https://www.osnews.com/story/141933/a-look-at-firefox-forks/>
 
 ---
 
@@ -1914,100 +1962,4 @@ date: 2025-03-09, updated: 2025-03-10, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/09/ebpf_meta_servers/>
-
----
-
-## We call this kernel saunters: How Apple rearranged its XNU core with exclaves
-
-date: 2025-03-08, updated: 2025-03-10, from: The Register (UK I.T. News)
-
-<h4>iPhone giant compartmentalizes OS for the sake of security</h4> <p>Apple has been working to harden the XNU kernel that powers its various operating systems, including iOS and macOS, with a feature called &#34;exclaves.&#34;…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/08/kernel_sanders_apple_rearranges_xnu/>
-
----
-
-## Hubble Unveils a Glittering View of Sh2-284
-
-date: 2025-03-08, from: NASA breaking news
-
-A tiny fraction of the stellar nursery known as Sh2-284 is visible in this glittering, star-filled NASA Hubble Space Telescope image. This immense region of gas and dust is the birthing place of stars, which shine among the clouds. Bright clusters of newborn stars glow pink in infrared light, and clouds of gas and dust, […] 
-
-<br> 
-
-<https://science.nasa.gov/missions/hubble/hubble-unveils-a-glittering-view-of-sh2-284/>
-
----
-
-## Hubble Jams With A Cosmic Guitar
-
-date: 2025-03-08, from: NASA breaking news
-
-Arp 105 is a dazzling ongoing merger between an elliptical galaxy and a spiral galaxy drawn together by gravity, characterized by a long, drawn out tidal tail of stars and gas more than 362,000 light-years long. The immense tail, which extends beyond this image from NASA’s Hubble Space Telescope, was pulled from the two galaxies […] 
-
-<br> 
-
-<https://science.nasa.gov/centers-and-facilities/goddard/hubble-jams-with-a-cosmic-guitar/>
-
----
-
-## Hubble Spies a Spectacular Starburst Galaxy
-
-date: 2025-03-08, from: NASA breaking news
-
-Sweeping spiral arms extend from NGC 4536, littered with bright blue clusters of star formation and red clumps of hydrogen gas shining among dark lanes of dust. The galaxy’s shape may seem a little unusual, and that’s because it’s what’s known as an “intermediate galaxy”: not quite a barred spiral, but not exactly an unbarred […] 
-
-<br> 
-
-<https://science.nasa.gov/missions/hubble/hubble-spies-a-spectacular-starburst-galaxy/>
-
----
-
-## Hubble Examines Stars Ensconced in a Cocoon of Gas
-
-date: 2025-03-08, from: NASA breaking news
-
-An open cluster of stars shines through misty, cocoon-like gas clouds in this Hubble Space Telescope image of NGC 460. NGC 460 is located in a region of the Small Magellanic Cloud, a dwarf galaxy that orbits the Milky Way. This particular region contains a number of young star clusters and nebulae of different sizes […] 
-
-<br> 
-
-<https://science.nasa.gov/missions/hubble/hubble-examines-stars-ensconced-in-a-cocoon-of-gas/>
-
----
-
-## Surprise! People don't want AI deciding who gets a kidney transplant and who dies or endures years of misery
-
-date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
-
-<h4>Researchers find AI isn&#39;t ready to help with moral decision making</h4> <p>Is AI an appropriate source of moral guidance about which patients should be given kidney transplants?…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/08/ai_kidney_transplant_moral_decisions/>
-
----
-
-## Stuff a Pi-hole in your router because your browser is about to betray you
-
-date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
-
-<h4>Mozilla sells ads, Google limits blocking them – it&#39;s time for stricter measures</h4> <p>A new, lightweight version of Pi-Hole is here. Just how easy is it to block advertising on your home network?…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/08/pi_hole_6_flyby/>
-
----
-
-## Developer sabotaged ex-employer with kill switch activated when he was let go
-
-date: 2025-03-08, updated: 2025-03-08, from: The Register (UK I.T. News)
-
-<h4>IsDavisLuEnabledInActiveDirectory? Not any more. IsDavisLuGuilty? Yes. IsDavisLuFacingJail? Also yes</h4> <p>A federal jury in Cleveland has found a senior software developer guilty of sabotaging his employer&#39;s systems – and he&#39;s now facing a potential ten years behind bars.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/08/developer_server_kill_switch/>
 

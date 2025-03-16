@@ -1,11 +1,148 @@
 ---
 title: home
-updated: 2025-03-15 06:07:28
+updated: 2025-03-16 06:07:35
 ---
 
 # home
 
-(date: 2025-03-15 06:07:28)
+(date: 2025-03-16 06:07:35)
+
+---
+
+## 46 Species of Birds of Prey (With Pictures and Identification)
+
+date: 2025-03-16, from: Yard Life blog
+
+<p>Birds of prey are among the most fascinating and powerful creatures in the avian world. Known for their sharp talons, ... </p>
+<p class="read-more-container"><a title="46 Species of Birds of Prey (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/46-species-of-birds-of-prey-with-pictures-and-identification/#more-25195" aria-label="Read more about 46 Species of Birds of Prey (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/46-species-of-birds-of-prey-with-pictures-and-identification/">46 Species of Birds of Prey (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/46-species-of-birds-of-prey-with-pictures-and-identification/>
+
+---
+
+## How to Plant and Grow Clary Sage
+
+date: 2025-03-15, from: The Gardener's Path
+
+<p>Clary sage (Salvia sclarea) is an aromatic herb with a history of medicinal and culinary use, and the pretty flowers make it popular as an ornamental planting. Native to Mediterranean Europe and Central Asia, it thrives in Zones 5 to 9 as a short-lived perennial. Learn how to plant and grow clary sage in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-clary-sage/">How to Plant and Grow Clary Sage</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-clary-sage/>
+
+---
+
+## 32 Black Birds With Yellow Beaks (Pictures and Identification)
+
+date: 2025-03-15, from: Yard Life blog
+
+<p>Black birds with yellow beaks are a striking sight in the avian world, combining dark, elegant plumage with a vivid ... </p>
+<p class="read-more-container"><a title="32 Black Birds With Yellow Beaks (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/32-black-birds-with-yellow-beaks-pictures-and-identification/#more-25158" aria-label="Read more about 32 Black Birds With Yellow Beaks (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/32-black-birds-with-yellow-beaks-pictures-and-identification/">32 Black Birds With Yellow Beaks (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/32-black-birds-with-yellow-beaks-pictures-and-identification/>
+
+---
+
+## This Bright and Open Kitchen Cleverly Conceals Its Appliances
+
+date: 2025-03-15, from: Sunset Magazine - Living in the West
+
+The kitchen in a Fremont, California, house was spacious, but had a bad layout. Here's how one designer made it more functional. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/fremont-kitchen-makeover>
+
+---
+
+## This Kitchen Had to Keep Its Original Footprint Because of Its Tile—See How It Was Cleverly Remodeled
+
+date: 2025-03-15, from: Sunset Magazine - Living in the West
+
+A Calabasas kitchen was dated and traditional, so designer Sarah West gave it a modern update with custom cabinetry. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/calabasas-kitchen-makeover>
+
+---
+
+## A Bad Layout Was Ruining This Oakland Kitchen—Here’s How a Designer Saved It
+
+date: 2025-03-15, from: Sunset Magazine - Living in the West
+
+The kitchen in an Oakland condo was not an inviting space. It had a bad layout and was dark and dated. It got a major makeover. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/oakland-kitchen-makeover>
+
+---
+
+## This Outdated Kitchen Design Style Is Coming Back (and That’s a Good Thing)
+
+date: 2025-03-15, from: Sunset Magazine - Living in the West
+
+The wood kitchen is coming back in style. Designers share how to bring the look home in a modern, 21st century way. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/wood-kitchens-back-in-style>
+
+---
+
+## 46 Different Types of Rodents (With Pictures and Identification)
+
+date: 2025-03-15, from: Yard Life blog
+
+<p>Rodents are one of the most diverse groups of mammals, found in nearly every habitat across the world. With over ... </p>
+<p class="read-more-container"><a title="46 Different Types of Rodents (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/46-different-types-of-rodents-with-pictures-and-identification/#more-25105" aria-label="Read more about 46 Different Types of Rodents (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/46-different-types-of-rodents-with-pictures-and-identification/">46 Different Types of Rodents (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/46-different-types-of-rodents-with-pictures-and-identification/>
+
+---
+
+## Aloe Vera Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-15, from: Yard Life blog
+
+<p>Aloe vera is a well-loved succulent, widely recognized for its medicinal, skincare, and ornamental benefits. Its thick, fleshy leaves store ... </p>
+<p class="read-more-container"><a title="Aloe Vera Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/aloe-vera-plant-care-and-growing-guide-most-detailed/#more-25096" aria-label="Read more about Aloe Vera Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/aloe-vera-plant-care-and-growing-guide-most-detailed/">Aloe Vera Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/aloe-vera-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## 90 Stunning Flowers That Start With B (Pictures and Names)
+
+date: 2025-03-15, from: Yard Life blog
+
+<p>Finding the perfect flowers for your garden can be exciting, especially when exploring unique options. If you&#8217;re searching for flowers ... </p>
+<p class="read-more-container"><a title="90 Stunning Flowers That Start With B (Pictures and Names)" class="read-more button" href="https://ownyardlife.com/90-stunning-flowers-that-start-with-b-pictures-and-names/#more-24994" aria-label="Read more about 90 Stunning Flowers That Start With B (Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/90-stunning-flowers-that-start-with-b-pictures-and-names/">90 Stunning Flowers That Start With B (Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/90-stunning-flowers-that-start-with-b-pictures-and-names/>
 
 ---
 
@@ -613,18 +750,6 @@ date: 2025-03-13, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/ornamentals/grow-mountain-mahogany/>
-
----
-
-## This Outdated Kitchen Design Style Is Coming Back (and That’s a Good Thing)
-
-date: 2025-03-13, from: Sunset Magazine - Living in the West
-
-The wood kitchen is coming back in style. Designers share how to bring the look home in a modern, 21st century way. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/design/wood-kitchens-back-in-style>
 
 ---
 
@@ -1574,285 +1699,4 @@ date: 2025-03-09, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/asclepias-tuberosa-butterfly-weed-care-and-growing-guide/>
-
----
-
-## How to Plant and Grow Carrots from Seed: Tips for Success
-
-date: 2025-03-08, from: Homestead and Chil
-
-<p>Read along to learn all about growing carrots! We'll explore our top choice varieties to grow, the best time to plant carrots, tips for preparing your soil, sowing seeds, how to thin them, when and how to harvest, plus storage tips. I'll also share some of our favorite ways to prepare and preserve them! </p>
-<p>The post <a href="https://homesteadandchill.com/how-to-grow-carrots/">How to Plant and Grow Carrots from Seed: Tips for Success</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
- 
-
-<br> 
-
-<https://homesteadandchill.com/how-to-grow-carrots/>
-
----
-
-## Digital Edition: Winter 2025
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>The post <a href="https://www.ediblesfvalley.com/digital-edition/digital-edition-winter-2025/">Digital Edition: Winter 2025</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/digital-edition/digital-edition-winter-2025/?utm_source=rss&utm_medium=rss&utm_campaign=digital-edition-winter-2025>
-
----
-
-## Edible for Kids: Kale
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Can you color the different types of kale correctly?</p>
-<p>The post <a href="https://www.ediblesfvalley.com/experience/edible-for-kids-kale/">Edible for Kids: Kale</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/experience/edible-for-kids-kale/?utm_source=rss&utm_medium=rss&utm_campaign=edible-for-kids-kale>
-
----
-
-## 21 of the Best Fall-Blooming Clematis Varieties
-
-date: 2025-03-08, from: The Gardener's Path
-
-<p>If you want to add some reliable fall color to your landscape, look no further than clematis varieties that bloom in autumn. These vines are at their most dramatic when all the other summer-blooming species are reaching the end of their performance. Learn about 21 of the best fall-blooming clematis varieties in this guide.</p>
-<p>The post <a href="https://gardenerspath.com/plants/vines/fall-flowering-clematis/">21 of the Best Fall-Blooming Clematis Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/vines/fall-flowering-clematis/>
-
----
-
-## Bulk Up: re_ grocery Makes Organic, Zero-Waste Shopping Easy
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>A quiet grocery revolution is bubbling up locally</p>
-<p>The post <a href="https://www.ediblesfvalley.com/experience/bulk-up-re_-grocery-makes-organic-zero-waste-shopping-easy/">Bulk Up: re_ grocery Makes Organic, Zero-Waste Shopping Easy</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/experience/bulk-up-re_-grocery-makes-organic-zero-waste-shopping-easy/?utm_source=rss&utm_medium=rss&utm_campaign=bulk-up-re_-grocery-makes-organic-zero-waste-shopping-easy>
-
----
-
-## Fine Dining Grows Within The Arbour
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Pasadena restaurant serves up California-centric menu</p>
-<p>The post <a href="https://www.ediblesfvalley.com/eat/fine-dining-grows-within-the-arbour/">Fine Dining Grows Within The Arbour</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/eat/fine-dining-grows-within-the-arbour/?utm_source=rss&utm_medium=rss&utm_campaign=fine-dining-grows-within-the-arbour>
-
----
-
-## The SCV Hub Of Activity
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Virtual Food Hall Is Very Real in Santa Clarita Valley</p>
-<p>The post <a href="https://www.ediblesfvalley.com/eat/the-scv-hub-of-activity/">The SCV Hub Of Activity</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/eat/the-scv-hub-of-activity/?utm_source=rss&utm_medium=rss&utm_campaign=the-scv-hub-of-activity>
-
----
-
-## Topanga Canyon Staycation
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Farmers’ market and eatery pave the way</p>
-<p>The post <a href="https://www.ediblesfvalley.com/experience/topanga-canyon-staycation/">Topanga Canyon Staycation</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/experience/topanga-canyon-staycation/?utm_source=rss&utm_medium=rss&utm_campaign=topanga-canyon-staycation>
-
----
-
-## Simple Wild Greens
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>In times past, spring’s wild greens were a vital source of vitamins after long winters.</p>
-<p>The post <a href="https://www.ediblesfvalley.com/recipes/simple-wild-greens/">Simple Wild Greens</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/recipes/simple-wild-greens/?utm_source=rss&utm_medium=rss&utm_campaign=simple-wild-greens>
-
----
-
-## Wild About Foraging
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Deliciousness abounds, if you know where to look</p>
-<p>The post <a href="https://www.ediblesfvalley.com/eat/wild-about-foraging/">Wild About Foraging</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/eat/wild-about-foraging/?utm_source=rss&utm_medium=rss&utm_campaign=wild-about-foraging>
-
----
-
-## Trial By Fire: From Ashes, Recovery Grows
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>In the aftermath of the devastating January fires that scorched too many parts of Los Angeles County, we think about fire’s role in our ecosystem. </p>
-<p>The post <a href="https://www.ediblesfvalley.com/think/trial-by-fire-from-ashes-recovery-grows/">Trial By Fire: From Ashes, Recovery Grows</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/think/trial-by-fire-from-ashes-recovery-grows/?utm_source=rss&utm_medium=rss&utm_campaign=trial-by-fire-from-ashes-recovery-grows>
-
----
-
-## Top 10 Ways To Serve The Restaurant Community In Fire Impacted Areas And Beyond
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Running a restaurant is not for the faint of heart</p>
-<p>The post <a href="https://www.ediblesfvalley.com/eat/top-10-ways-to-serve-the-restaurant-community-in-fire-impacted-areas-and-beyond/">Top 10 Ways To Serve The Restaurant Community In Fire Impacted Areas And Beyond</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/eat/top-10-ways-to-serve-the-restaurant-community-in-fire-impacted-areas-and-beyond/?utm_source=rss&utm_medium=rss&utm_campaign=top-10-ways-to-serve-the-restaurant-community-in-fire-impacted-areas-and-beyond>
-
----
-
-## Lebanese Lentil Soup
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Make a big pot of this healthy, vegetarian (and vegan) soup.</p>
-<p>The post <a href="https://www.ediblesfvalley.com/recipes/lebanese-lentil-soup/">Lebanese Lentil Soup</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/recipes/lebanese-lentil-soup/?utm_source=rss&utm_medium=rss&utm_campaign=lebanese-lentil-soup>
-
----
-
-## White Bean Turkey Chili
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>This delicious, creamy chili is made with canned white beans, ground turkey, aromatics and spices.</p>
-<p>The post <a href="https://www.ediblesfvalley.com/recipes/white-bean-turkey-chili/">White Bean Turkey Chili</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/recipes/white-bean-turkey-chili/?utm_source=rss&utm_medium=rss&utm_campaign=white-bean-turkey-chili>
-
----
-
-## Chicken Barley Soup
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>When it’s cold outside, warm up with a bowl of this Chicken and Barley Soup. </p>
-<p>The post <a href="https://www.ediblesfvalley.com/recipes/chicken-barley-soup/">Chicken Barley Soup</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/recipes/chicken-barley-soup/?utm_source=rss&utm_medium=rss&utm_campaign=chicken-barley-soup>
-
----
-
-## Soup-perb Bowlfuls
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Caring is sharing with these homemade soups full of flavor and healthy ingredients</p>
-<p>The post <a href="https://www.ediblesfvalley.com/eat/soup-perb-bowlfuls/">Soup-perb Bowlfuls</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/eat/soup-perb-bowlfuls/?utm_source=rss&utm_medium=rss&utm_campaign=soup-perb-bowlfuls>
-
----
-
-## Spring To Life: Gardening Gurus Share Post-Wildfire Tips
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>Long after the fires are out, the ash that settles on the ground can still impact your garden. </p>
-<p>The post <a href="https://www.ediblesfvalley.com/grow/spring-to-life-gardening-gurus-share-post-wildfire-tips/">Spring To Life: Gardening Gurus Share Post-Wildfire Tips</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/grow/spring-to-life-gardening-gurus-share-post-wildfire-tips/?utm_source=rss&utm_medium=rss&utm_campaign=spring-to-life-gardening-gurus-share-post-wildfire-tips>
-
----
-
-## Images from an Unforgettable Time
-
-date: 2025-03-08, from: Edible San Fernando Valley
-
-<p>The flames had consumed everything</p>
-<p>The post <a href="https://www.ediblesfvalley.com/think/images-from-an-unforgettable-time/">Images from an Unforgettable Time</a> appeared first on <a href="https://www.ediblesfvalley.com">Edible San Fernando Valley</a>.</p>
- 
-
-<br> 
-
-<https://www.ediblesfvalley.com/think/images-from-an-unforgettable-time/?utm_source=rss&utm_medium=rss&utm_campaign=images-from-an-unforgettable-time>
-
----
-
-## 51 Plants That Don’t Need Sunlight To Survive (With Pictures)
-
-date: 2025-03-08, from: Yard Life blog
-
-<p>Finding plants that don’t need sunlight can be a game-changer for indoor gardening, especially in homes with limited natural light. ... </p>
-<p class="read-more-container"><a title="51 Plants That Don&#8217;t Need Sunlight To Survive (With Pictures)" class="read-more button" href="https://ownyardlife.com/51-plants-that-dont-need-sunlight-to-survive-with-pictures/#more-24632" aria-label="Read more about 51 Plants That Don&#8217;t Need Sunlight To Survive (With Pictures)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/51-plants-that-dont-need-sunlight-to-survive-with-pictures/">51 Plants That Don&#8217;t Need Sunlight To Survive (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/51-plants-that-dont-need-sunlight-to-survive-with-pictures/>
-
----
-
-## 35 Best Plants That Repel Mosquitoes (With Pictures)
-
-date: 2025-03-08, from: Yard Life blog
-
-<p>Mosquitoes can turn any outdoor space into an unbearable place, making it difficult to enjoy warm evenings or relax in ... </p>
-<p class="read-more-container"><a title="35 Best Plants That Repel Mosquitoes (With Pictures)" class="read-more button" href="https://ownyardlife.com/35-best-plants-that-repel-mosquitoes-with-pictures/#more-24615" aria-label="Read more about 35 Best Plants That Repel Mosquitoes (With Pictures)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/35-best-plants-that-repel-mosquitoes-with-pictures/">35 Best Plants That Repel Mosquitoes (With Pictures)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/35-best-plants-that-repel-mosquitoes-with-pictures/>
 

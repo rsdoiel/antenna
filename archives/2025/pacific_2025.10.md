@@ -1,11 +1,368 @@
 ---
 title: pacific
-updated: 2025-03-15 06:07:24
+updated: 2025-03-16 06:07:30
 ---
 
 # pacific
 
-(date: 2025-03-15 06:07:24)
+(date: 2025-03-16 06:07:30)
+
+---
+
+## Small farms and food banks are caught off guard by spending cuts
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>At Happy Hollow Farm, a small, 16-acre operation in central Missouri, Liz Graznak grows a variety of vegetables, including organic carrots, Swiss chard, radishes and beets.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/nation-world-news/small-farms-and-food-banks-are-caught-off-guard-by-spending-cuts/>
+
+---
+
+## Voice of America staff put on leave, Trump ally says agency ‘not salvageable’
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>More than 1,300 Voice of America employees were placed on leave on Saturday and funding for two U.S. news services that broadcast to authoritarian regimes was terminated, one day after President Donald Trump ordered the gutting of the government-funded media outlet&#8217;s parent and six other federal agencies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/nation-world-news/voice-of-america-staff-put-on-leave-trump-ally-says-agency-not-salvageable/>
+
+---
+
+## Fierce storms kill at least 18 as tornadoes batter the South and Midwest
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>The storms that killed at least 18 people across Arkansas, Mississippi and Missouri on Friday and Saturday continued to pummel a vast section of the South, leveling homes, taking down power lines and turning communities into debris fields.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/nation-world-news/fierce-storms-kill-at-least-18-as-tornadoes-batter-the-south-and-midwest/>
+
+---
+
+## Astronomy could be in jeopardy amidst federal cutbacks
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>As the Trump administration continues to slash federal spending, rumored cuts to science funding has left the future of Big Island astronomy up in the air.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/hawaii-news/astronomy-could-be-in-jeopardy-amidst-federal-cutbacks/>
+
+---
+
+## Lava buyouts program is winding down
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>A Hawaii County program offering to purchase Puna residents&#8217; lava-damaged properties should finally wrap up this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/hawaii-news/lava-buyouts-program-is-winding-down/>
+
+---
+
+## Kash Patel pushes command changes at FBI
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; FBI Director Kash Patel is pushing ahead with a plan to decentralize the agency&#8217;s command structure and divide the bureau into three regions, according to an internal email obtained by The New York Times.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/nation-world-news/kash-patel-pushes-command-changes-at-fbi/>
+
+---
+
+## Judge orders halt on deportations of Venezuelans under wartime law
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Saturday ordered the Trump administration to cease use of an obscure wartime law to deport Venezuelans without a hearing, saying that any planes that had departed the United States with immigrants under the law needed to return.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/nation-world-news/judge-orders-halt-on-deportations-of-venezuelans-under-wartime-law/>
+
+---
+
+## ‘It got everything’: Oklahoma residents who escaped fires brace for losses
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>When Geraldine and Charles Wyrick heard shouts ring out Friday afternoon through their community of a dozen trailer homes near Wellston, Oklahoma, they knew the fires were near. It was time to get out.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/nation-world-news/it-got-everything-oklahoma-residents-who-escaped-fires-brace-for-losses/>
+
+---
+
+## Volcano Watch: Determining magma storage depths at Kilauea
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>Consider a can of soda. When the can is closed (pressurized), the soda contains dissolved carbon dioxide (CO2). When you open the can, the pressure drops, bubbles form and rise. Molten rock (magma) beneath the Earth&#8217;s surface behaves similarly and we can learn from the gas trapped in tiny bubbles preserved in crystals from the rock after it&#8217;s erupted on the surface.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/community/volcano-watch-determining-magma-storage-depths-at-kilauea/>
+
+---
+
+## Steves: Germany’s Rothenburg keeps its medieval charm alive
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>As a young backpacker, I first fell in love with the picturesque village of Rothenburg, in Germany&#8217;s Franconian heartland. At that time, the town still fed a few farm animals within its medieval walls. Today its barns are hotels, its livestock are tourists, and Rothenburg is well on its way to becoming a medieval theme park.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/features/steves-germanys-rothenburg-keeps-its-medieval-charm-alive/>
+
+---
+
+## US launches broad attack on militant sites in Yemen and issues a warning to Iran
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The United States carried out large-scale military strikes on Saturday against dozens of targets in Yemen controlled by the Iranian-backed Houthi militia, President Donald Trump announced.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/nation-world-news/us-launches-broad-attack-on-militant-sites-in-yemen-and-issues-a-warning-to-iran/>
+
+---
+
+## Zelenskyy accuses Russia of trying to trap Ukraine’s forces amid ceasefire talks
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; President Volodymyr Zelenskyy of Ukraine on Saturday accused President Vladimir Putin of Russia of trying to surround Ukraine&#8217;s forces in Russia&#8217;s Kursk region to improve his position amid ceasefire talks with the United States, but said Ukraine&#8217;s forces had not been trapped.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/nation-world-news/zelenskyy-accuses-russia-of-trying-to-trap-ukraines-forces-amid-ceasefire-talks/>
+
+---
+
+## Feds indict Mexican national for drug trafficking
+
+date: 2025-03-16, from: Hawaii Tribune Harold
+
+
+				<p>Acting U.S. Attorney Kenneth M. Sorenson announced Wednesday that a federal grand jury returned an indictment against 59-year-old Enrique Gonzalez Jacobo, 59, of Mexico, charging him with attempting to possess with intent to distribute methamphetamine and being an illegal alien present in the U.S. after having been previously convicted of a felony and deported.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/16/hawaii-news/feds-indict-mexican-national-for-drug-trafficking/>
+
+---
+
+## Hydrology experts seek deeper study on freshwater extraction in Pacific islands 
+
+date: 2025-03-16, from: Pacific Island Times
+
+Hydrology experts at Flinders University in Australia are seeking further study into the method of drawing fresh groundwater that make use o 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/hydrology-experts-seek-deeper-study-on-freshwater-extraction-in-pacific-islands>
+
+---
+
+## Young Democrats’ anger boils over as Schumer retreats on shutdown
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Sen. Chuck Schumer&#8217;s sudden decision Thursday to support a Republican-written bill to avert a government shutdown so enraged his fellow Democrats that some were already talking about primary challenges to the 74-year-old Democratic leader from New York.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/young-democrats-anger-boils-over-as-schumer-retreats-on-shutdown/>
+
+---
+
+## Senate approves spending bill to avert government shutdown
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate on Friday narrowly averted a government shutdown at midnight, passing a GOP-written stopgap spending measure after Minority Leader Chuck Schumer of New York and a small group of Democrats joined Republicans in allowing it to advance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/senate-approves-spending-bill-to-avert-government-shutdown/>
+
+---
+
+## Senators grill Oz on Medicaid cuts and Medicare changes
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>In a hearing Friday, senators pressed Dr. Mehmet Oz, the TV celebrity nominated to head Medicare and Medicaid, on Republican-led proposals that would significantly affect the health care coverage for nearly half of all Americans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/senators-grill-oz-on-medicaid-cuts-and-medicare-changes/>
+
+---
+
+## Stuck NASA astronauts one step closer to home after SpaceX crew-swap launch
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; NASA and SpaceX on Friday launched a long-awaited crew to the International Space Station that opens the door to bringing home U.S. astronauts Butch Wilmore and Suni Williams, who have been stuck on the orbital lab for nine months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/stuck-nasa-astronauts-one-step-closer-to-home-after-spacex-crew-swap-launch/>
+
+---
+
+## Putin demands Ukrainian troops in Kursk region of Russia surrender
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; President Vladimir Putin of Russia on Friday insisted that Ukraine order some of its forces to surrender to Russia, a striking demand made hours after President Donald Trump said the United States had &#8220;very good and productive&#8221; discussions with Putin about a potential ceasefire in Ukraine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/putin-demands-ukrainian-troops-in-kursk-region-of-russia-surrender/>
+
+---
+
+## Challenged by Trump, Trudeau rallies Canada as his final act
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>OTTAWA, Ontario &#8212; It was not even three months ago when it seemed like Canadians couldn&#8217;t wait for an end to Prime Minister Justin Trudeau&#8217;s nearly decade-long stint as their leader. On Jan. 6, he announced his intention to step down, with polls showing most Canadians deeply unhappy with the state of their country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/challenged-by-trump-trudeau-rallies-canada-as-his-final-act/>
+
+---
+
+## Trump administration opens leak investigations
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration has opened its first known investigations into what it called &#8220;politically motivated leaks,&#8221; fulfilling promises to pursue the sources of stories involving national security revelations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/trump-administration-opens-leak-investigations/>
+
+---
+
+## Duterte appears in court in The Hague via video after arrest
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>In a scenario once considered unthinkable for a head of state who presided over the public and brutal killings of thousands of civilians, Rodrigo Duterte, the former president of the Philippines, appeared at an International Criminal Court hearing via a video link Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/duterte-appears-in-court-in-the-hague-via-video-after-arrest/>
+
+---
+
+## Tropical Gardening: Mulches help to build soils and conserve water
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>After 45 years of living in the cool mountain mists of Kaloko Mauka&#8217;s Kona Cloud Forest Sanctuary, we have decided to move.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/features/tropical-gardening-mulches-help-to-build-soils-and-conserve-water/>
+
+---
+
+## Business group says Guam's fragile economy calls for fiscal prudence, tax relief
+
+date: 2025-03-15, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   The governor’s call for the expansion of tax relief for small enterprises “is a positive step” but not enough to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/business-group-says-guam-s-fragile-economy-requires-fiscal-prudence-tax-relief>
+
+---
+
+## President Hensel: Federal policies pose major challenges for UH
+
+date: 2025-03-15, from: University of Hawaiʻi News
+
+<p>Hensel provided a stark update on the impact of new federal policies during a March 13 open forum, which was live-streamed to more than 1,000 viewers and more than 220 in-person attendees.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/14/hensel-federal-policies-major-challenges/">President Hensel: Federal policies pose major challenges for <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/14/hensel-federal-policies-major-challenges/>
+
+---
+
+## US Senate passes bill to avert shutdown, House Democrats turn on Schumer
+
+date: 2025-03-15, updated: 2025-03-16, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Senate on Friday passed a stopgap spending bill, averting a partial government shutdown, after Democrats backed down in a standoff driven by anger over President Donald Trump's campaign to slash the federal workforce. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-senate-passes-bill-to-avert-shutdown-house-democrats-turn-on-schumer/article_89f24e3a-013a-11f0-a363-0764923a2172.html>
 
 ---
 
@@ -23,6 +380,18 @@ date: 2025-03-14, from: Hawaii Tribune Harold
 
 ---
 
+## 3 expert tips for feeding your young athletes more protein
+
+date: 2025-03-14, updated: 2025-03-14, from: Marianas Variety
+
+(BPT) - Spring sports are just around the corner. If you have young athletes, it's time to think about what you'll feed them so they can perform their best physically and stay sharp mentally. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/3-expert-tips-for-feeding-your-young-athletes-more-protein/article_f5a4de4e-0fae-5c46-a73d-ed08a197a991.html>
+
+---
+
 ## 'It's going to happen fairly soon:' CNMI governor optimistic about 702 funding reinstatement 
 
 date: 2025-03-14, from: Pacific Island Times
@@ -32,6 +401,18 @@ Arnold Palacios By Frank Whitman   Northern Marianas Gov. Arnold Palacios has e
 <br> 
 
 <https://www.pacificislandtimes.com/post/it-s-going-to-happen-fairly-soon-cnmi-governor-optimistic-about-702-funding-reinstatement>
+
+---
+
+## Three ways to boost your professional skills in 2025
+
+date: 2025-03-14, updated: 2025-03-14, from: Marianas Variety
+
+(BPT) - Strong professional skills, like public speaking, writing and management, may go a long way in helping you advance in your career and remain competitive in the workplace. While developing these skills is beneficial, knowing where to begin can feel overwhelming. One place to start is by reviewing the job description for the position you want. What skills are required to be successful? In what areas would you like to build confidence? If you are unsure about the answers to these questions, you can seek the guidance of an HR professional or manager at your organization. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/education/three-ways-to-boost-your-professional-skills-in-2025/article_03b0835d-fd56-5bf9-a77b-94c7844c78b4.html>
 
 ---
 
@@ -570,6 +951,18 @@ date: 2025-03-14, from: Island Times
 
 ---
 
+## Graduating From College? Take These Steps to Launch Your Career
+
+date: 2025-03-14, updated: 2025-03-14, from: Marianas Variety
+
+(StatePoint) With demand for financial advisors expected to grow quickly — at a rate of 13% through 2032, according to the Bureau of Labor Statistics — those with college graduation on the horizon would be wise to consider this marketable profession. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/business_and_careers/graduating-from-college-take-these-steps-to-launch-your-career/article_1991bba6-b713-5054-9f0e-b51edc59d286.html>
+
+---
+
 ## Pacific governments warned of ‘threat’ from Cambodia’s Prince Group 
 
 date: 2025-03-14, from: Pacific Island Times
@@ -582,7 +975,7 @@ The governments of Taiwan and Palau have both been warned that offers of investm
 
 ---
 
-## Senator launches statehood campaign for Guam
+## Guam at decolonization ‘crossroads’ with resolution on US statehood 
 
 date: 2025-03-13, from: Pacific Island Times
 
@@ -650,7 +1043,7 @@ The post <a href="https://www.hawaii.edu/news/2025/03/13/2025-legislative-sessio
 
 ## Meghan Trainor Helps Consumers Reimagine and 'Re-Train' Their Laundry Routine
 
-date: 2025-03-13, updated: 2025-03-13, from: Marianas Variety
+date: 2025-03-13, updated: 2025-03-15, from: Marianas Variety
 
 Sorry, but your browser does not support the video tag. 
 
@@ -662,7 +1055,7 @@ Sorry, but your browser does not support the video tag.
 
 ## Achieve Optimum Wellness with endermologie by LPG: Revitalize Your Body, Relieve Stress and Enhance Sleep
 
-date: 2025-03-13, updated: 2025-03-13, from: Marianas Variety
+date: 2025-03-13, updated: 2025-03-15, from: Marianas Variety
 
 (BPT) - In the pursuit of holistic well-being, advanced technologies are revolutionizing the way we care for our bodies. One of the pioneers in this category is a company that was founded in the south of France in 1986. 
 
@@ -686,13 +1079,49 @@ by M. Anne Kala`i Naiwi’s first and only visit to the mainland nearly burned h
 
 ## Setting the record straight: The importance of tourism recovery and economic growth in the CNMI
 
-date: 2025-03-13, updated: 2025-03-14, from: Marianas Variety
+date: 2025-03-13, updated: 2025-03-16, from: Marianas Variety
 
 THE Saipan Chamber of Commerce and the Hotel Association of the Northern Mariana Islands board of directors and their members would like to set the record straight regarding our commitment to sustaining the recovery of our tourism economy. 
 
 <br> 
 
 <https://www.mvariety.com/views/letters_to_editor/setting-the-record-straight-the-importance-of-tourism-recovery-and-economic-growth-in-the-cnmi/article_9972e8d4-0008-11f0-ba2f-9b00b1bdc2bb.html>
+
+---
+
+## Lawyer appeals $500 reimbursement order
+
+date: 2025-03-13, updated: 2025-03-16, from: Marianas Variety
+
+ATTORNEY Joaquin DLG Torres has appealed Superior Court Judge Kenneth L. Govendo’s order directing him to pay former Rep. Tina Sablan $500 as reimbursement for her time and expenses in filing a motion to quash. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/lawyer-appeals-500-reimbursement-order/article_cae7d9ac-fff3-11ef-bb9b-a7337cbdf97b.html>
+
+---
+
+## Green Meadow School hosts successful Parents’ Summit
+
+date: 2025-03-13, updated: 2025-03-16, from: Marianas Variety
+
+(GMS) — Green Meadow School held its annual Parents Summit on March 8, 2025, at the Hibiscus Hall of Crowne Plaza Resort Saipan. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/green-meadow-school-hosts-successful-parents-summit/article_455c3b00-0004-11f0-85b9-03ba65c37c81.html>
+
+---
+
+## UAF names fall 2024 honors students
+
+date: 2025-03-13, updated: 2025-03-16, from: Marianas Variety
+
+FAIRBANKS, Ak. — The University of Alaska Fairbanks has announced the students named to the deans' and chancellor's lists for the fall 2024 semester. The lists recognize students' outstanding academic achievements. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/uaf-names-fall-2024-honors-students/article_e60c986a-0004-11f0-9f0e-4fdb59aa0d80.html>
 
 ---
 
@@ -717,42 +1146,6 @@ date: 2025-03-13, updated: 2025-03-13, from: Marianas Variety
 <br> 
 
 <https://www.mvariety.com/lifestyle/java-joe-s-celebrates-20-years-of-coffee-community-and-connection/article_2159645e-ffd1-11ef-ad3a-5faf18e76d1c.html>
-
----
-
-## Lawyer appeals $500 reimbursement order
-
-date: 2025-03-13, updated: 2025-03-13, from: Marianas Variety
-
-ATTORNEY Joaquin DLG Torres has appealed Superior Court Judge Kenneth L. Govendo’s order directing him to pay former Rep. Tina Sablan $500 as reimbursement for her time and expenses in filing a motion to quash. 
-
-<br> 
-
-<https://www.mvariety.com/news/local/lawyer-appeals-500-reimbursement-order/article_cae7d9ac-fff3-11ef-bb9b-a7337cbdf97b.html>
-
----
-
-## Green Meadow School hosts successful Parents’ Summit
-
-date: 2025-03-13, updated: 2025-03-13, from: Marianas Variety
-
-(GMS) — Green Meadow School held its annual Parents Summit on March 8, 2025, at the Hibiscus Hall of Crowne Plaza Resort Saipan. 
-
-<br> 
-
-<https://www.mvariety.com/news/community_bulletins/green-meadow-school-hosts-successful-parents-summit/article_455c3b00-0004-11f0-85b9-03ba65c37c81.html>
-
----
-
-## UAF names fall 2024 honors students
-
-date: 2025-03-13, updated: 2025-03-13, from: Marianas Variety
-
-FAIRBANKS, Ak. — The University of Alaska Fairbanks has announced the students named to the deans' and chancellor's lists for the fall 2024 semester. The lists recognize students' outstanding academic achievements. 
-
-<br> 
-
-<https://www.mvariety.com/news/community_bulletins/uaf-names-fall-2024-honors-students/article_e60c986a-0004-11f0-9f0e-4fdb59aa0d80.html>
 
 ---
 
@@ -2660,246 +3053,4 @@ date: 2025-03-09, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/03/09/hawaii-news/upcoming-road-closures-for-utility-work-in-hilo/>
-
----
-
-##  Tales that will make your hair curl: How Samoan parents keep hair on their daughters’ heads
-
-date: 2025-03-08, from: Pacific Island Times
-
-A woman's hair is more than just strands growing from her head. It is a powerful part of her identity that reflects her personality, culture 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/tales-that-will-make-your-hair-curl-how-samoan-parents-keep-hair-on-their-daughters-heads>
-
----
-
-## DOGE job cuts bring pain to Trump heartland
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>PARKERSBURG, W. Va. &#8212; Jennifer Piggott proudly hung a red-and-blue Trump campaign flag outside her one-story home during the November election race. Now, after she was abruptly fired from her civil service job, her days of supporting the president are over.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/doge-job-cuts-bring-pain-to-trump-heartland/>
-
----
-
-## Stocks suffer worst week in months as tariffs hang over Wall Street
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>The stock market suffered its worst week in many months, after a series of dizzying policy shifts on tariffs from the White House amid simmering concerns about the health of the economy.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/stocks-suffer-worst-week-in-months-as-tariffs-hang-over-wall-street/>
-
----
-
-## At crypto summit, Trump says US will be ‘the bitcoin superpower’
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>Sitting beneath a portrait of Abraham Lincoln, more than two dozen of the most powerful figures in the U.S. cryptocurrency industry, together worth many billions of dollars, gathered in the White House on Friday for an audience with President Donald Trump.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/at-crypto-summit-trump-says-us-will-be-the-bitcoin-superpower/>
-
----
-
-## Where do the legal cases against Trump’s executive orders stand?
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump&#8217;s agenda has partially stalled in court as judges pause major policy rollouts around immigration, spending and social issues, but his administration has notched some important wins as it seeks to dramatically shrink the federal bureaucracy and cut foreign aid spending.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/where-do-the-legal-cases-against-trumps-executive-orders-stand/>
-
----
-
-## Fed in no hurry to adjust rates amid Trump policy uncertainty
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>Jerome Powell, chair of the Federal Reserve, said the central bank is focused on the &#8220;net effect&#8221; of President Donald Trump&#8217;s economic agenda, amid high uncertainty about which policies will actually be enacted, as he reiterated that officials are still not in a &#8220;hurry&#8221; to adjust interest rates.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/fed-in-no-hurry-to-adjust-rates-amid-trump-policy-uncertainty/>
-
----
-
-## White House cancels $400 million in grants and contracts to Columbia
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>The Trump administration announced Friday that it had canceled $400 million in federal grants and contracts to Columbia University, an extraordinary step that it said was necessary because of what it described as the school&#8217;s failure to protect Jewish students from harassment.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/white-house-cancels-400-million-in-grants-and-contracts-to-columbia/>
-
----
-
-## Diversity dismissals begin at top US intelligence agency, lawyer says
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Officials involved in diversity, equality, inclusion and accessibility programs at the U.S. Office of the Director of National Intelligence have been ordered to resign or be fired, the lawyer for two of the officials said on Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/diversity-dismissals-begin-at-top-us-intelligence-agency-lawyer-says/>
-
----
-
-## Gene Hackman died of heart disease days after wife succumbed to rare virus
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>SANTA FE, N.M. &#8212; Oscar-winning actor Gene Hackman was in an advanced state of Alzheimer&#8217;s and died of heart disease and other factors likely days after his wife, Betsy Arakawa, died of a rare virus spread by mice, according to autopsy results released on Friday in New Mexico.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/gene-hackman-died-of-heart-disease-days-after-wife-succumbed-to-rare-virus/>
-
----
-
-## Texas company’s lander dies on moon the day after toppled landing
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>A day after landing on the moon, the robotic Athena spacecraft built by Intuitive Machines of Houston is dead.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/texas-companys-lander-dies-on-moon-the-day-after-toppled-landing/>
-
----
-
-## Trump ‘strongly considering’ new sanctions on Russia to force ceasefire deal
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump said Friday that he was &#8220;strongly considering&#8221; imposing sanctions and tariffs on Russia until a ceasefire and permanent peace deal was reached in its war with Ukraine, even as he defended Russia&#8217;s stepped-up attacks on Ukraine after the United States paused aid and intelligence sharing.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/trump-strongly-considering-new-sanctions-on-russia-to-force-ceasefire-deal/>
-
----
-
-## Texas, New Mexico report increase in measles cases
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>Texas and New Mexico on Friday reported an additional 59 cases of measles for a total of 228 known infections in those states, where an outbreak that began in West Texas in late January has spread, causing the first U.S. measles deaths in a decade.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/nation-world-news/texas-new-mexico-report-increase-in-measles-cases/>
-
----
-
-## Tropical Gardening: March comes like a lion, and leaves like a lamb
-
-date: 2025-03-08, from: Hawaii Tribune Harold
-
-
-				<p>The old saying that March comes like a lion and leaves like a lamb usually holds true, but this year, only time will tell.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/08/features/tropical-gardening-march-comes-like-a-lion-and-leaves-like-a-lamb/>
-
----
-
-## Exploring the bizarre Pacific wildlife 
-
-date: 2025-03-08, from: Pacific Island Times
-
-There is something oddly soothing and comforting in Sir David Attenborough’s commentary on our planet’s biggest wow moments. 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/exploring-the-bizarre-pacific-wildlife>
-
----
-
-## Guam artist josh anthony enters a new era with singles ‘matcha’ and ‘badmouth’
-
-date: 2025-03-08, from: Pacific Island Times
-
-Guam artist josh anthony enters a new era with singles ‘matcha’ and ‘badmouth’ 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/guam-artist-josh-anthony-enters-a-new-era-with-singles-matcha-and-badmouth>
-
----
-
-## ‘Climate impacts are changing how we plan for the future:’ Q&#38;A with Kathy Jetnil-Kijiner, poet-activist 
-
-date: 2025-03-08, from: Pacific Island Times
-
-Kathy Jetnil-Kijiner/Photo courtesy of Wikipedia Microwaves By Jack Niedenthal Kathy Jetnil-Kijiner’s focus has been climate change and... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/climate-impacts-are-changing-how-we-plan-for-the-future-q-a-with-kathy-jetnil-kijiner-poet-activ>
-
----
-
-## 23 representatives named to federal policy advisory council
-
-date: 2025-03-08, from: University of Hawaiʻi News
-
-<p>The council will meet twice a month, serving as a forum for community voices to help shape the university’s approach to evolving national policies.</p>
-The post <a href="https://www.hawaii.edu/news/2025/03/07/23-representatives-federal-policy-advisory-council/">23 representatives named to federal policy advisory council</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/03/07/23-representatives-federal-policy-advisory-council/>
-
----
-
-## UH Hilo’s He ʻōlelo Ola to host Indigenous language experts
-
-date: 2025-03-08, from: University of Hawaiʻi News
-
-<p>Participants will explore <abbr>UH</abbr> Hilo’s Hawaiian language college, home to the nation’s only <abbr>BA</abbr> to <abbr>PhD</abbr> <span aria-label="olelo">&#699;&#333;lelo</span> <span aria-label="Hawaii">Hawai&#699;i</span> medium program.</p>
-The post <a href="https://www.hawaii.edu/news/2025/03/07/uh-hilo-he-olelo-ola/"><abbr>UH</abbr> Hilo’s He ʻōlelo Ola to host Indigenous language experts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/03/07/uh-hilo-he-olelo-ola/>
 

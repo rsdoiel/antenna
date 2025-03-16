@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-03-15 06:07:26
+updated: 2025-03-16 06:07:33
 ---
 
 # games
 
-(date: 2025-03-15 06:07:26)
+(date: 2025-03-16 06:07:33)
+
+---
+
+## 10 cozy games that hide a secret twist
+
+date: 2025-03-16, updated: 2025-03-14, from: Polygon Website
+
+It’s nice to be cozy. I’m a huge fan of being wrapped up in a big blanket, sipping hot chocolate, and leisurely walks under colorful autumn trees. Cozy games are also great, and they’re an increasingly popular genre. While I’ve spent hours preparing the perfect farm in Stardew Valley or exploring Bahari Bay in Palia, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cozy-gaming/539022/best-cozy-games-twist-play-list>
+
+---
+
+## The awesome Monster Hunter movie just came to streaming at the perfect time
+
+date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
+
+Statistically, you probably haven’t seen the Monster Hunter movie, probably because it came out at exactly the wrong time. Paul W.S. Anderson’s adaptation of Capcom’s video game series was released in December 2020, during a period where many people were still staying home rather than going to the theaters. It’s one of the only box-office [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/539910/monster-hunter-movie-watch-streaming>
+
+---
+
+## Why Wheel of Time’s Josha Stradowski sees season 3 Rand as Mike Tyson
+
+date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
+
+Rand al’Thor is a singular figure in the Wheel of Time series: Though there are other men who try their hand at channeling, Rand’s prophetic role as the Dragon Reborn means he’s the sole man who’s able to use magic effectively (or, at least, without eventually being driven mad).&#160; That also puts Josha Stradowski, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/fantasy/538097/wheel-time-rosamund-pike-rand-josha-stradowski-channeling-interview>
+
+---
+
+## Wanderstop, a delicious game about making tea, is on sale this weekend
+
+date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
+
+Wanderstop managed to make me feel emotionally attacked while making tea, and I love it. If you’re looking for a cozy game to indulge in this weekend, whether indoors or in the pseudo-spring weather outside, Wanderstop is a great fit — and it’s discounted to $22.49 through March 18 on Steam as part of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/540051/steam-spring-sale-wanderstop-tea-game>
+
+---
+
+## A documentary analyzes Street Fighter 2’s cultural impact, 30-plus years later
+
+date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
+
+When you’ve devoted years of your life to covering Street Fighter 2 history, it’s nice knowing you’re not alone. So when I heard about the documentary Here Comes a New Challenger a few years ago, I was excited to see another take on the greatest game of all time. Now available for free on Tubi, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/538478/street-fighter-2-documentary-stream-free>
+
+---
+
+## The best sci-fi movies to watch on Netflix this March
+
+date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
+
+There are tons of cool sci-fi films to look forward to in the coming weeks. From Flying Lotus’ psychedelic horror thriller Ash to David Cronenberg’s The Shrouds, there’s no shortage of exciting new releases to catch in theaters. If you’re looking for the best sci-fi movies to watch from the comfort of your own home, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/538224/best-sci-fi-movies-watch-netflix-march-2025>
 
 ---
 
@@ -654,112 +726,4 @@ The perfect murder mystery is a rare thing to come by these days. Procedurals ar
 <br> 
 
 <https://www.polygon.com/what-to-watch/536225/school-spirits-watch-it-good-murder-mystery>
-
----
-
-## The coolest game developer ever put to film appears in a very unexpected movie
-
-date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
-
-Game developers get pretty short shrift on screen, mostly by not being represented at all. Filmmakers generally love to make movies about driven, uncompromising artists just like themselves, but for some reason — probably either snobbery, fear, or lack of understanding — they don’t often choose people who make video games as subjects. On the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/535933/yi-yi-ota-game-developer-movies>
-
----
-
-## Who said it, Daredevil’s Wilson Fisk or actual NYC mayor Eric Adams? 
-
-date: 2025-03-08, updated: 2025-03-08, from: Polygon Website
-
-I’m both a lifelong superhero fan and a born and bred New Yorker, which means that as this week’s Daredevil: Born Again rolled out its version of Wilson “The Kingpin” Fisk’s rise to the office of mayor of New York City, I wasn’t thinking about what this would mean for Matt Murdock. Instead, I was [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/marvel/535591/daredevil-kingpin-mayor-wilson-fisk-eric-adams-born-again>
-
----
-
-## Discover more than a dozen game consoles you never knew about
-
-date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
-
-History is told by the winners, the saying goes, and that’s certainly been true with English-language coverage of the video game industry. Want coverage of the NES and PlayStation? That’s easy to find. Want coverage of the Zemmix and Dendy? Were you even aware they existed? Lewis Packwood’s book Curious Video Game Machines was written [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/q-and-a/535455/curious-video-game-machines-book-interview>
-
----
-
-## Sorry We’re Closed is a stylish, sexy survival horror surprise
-
-date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
-
-I had no idea what I was getting into when I jumped into the world of Sorry We’re Closed, a narrative-driven survival horror adventure that pairs the grime and decay of Silent Hill with the stylish, sexed-up demons of Persona games. But the artists behind Sorry We’re Closed have managed to remix some of my [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/impressions/535708/sorry-were-closed-impressions-survival-horror>
-
----
-
-## The best thrillers to watch on Netflix this March
-
-date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
-
-Spring is nearly here, and that means Netflix has mixed up its library with plenty of new movies for you to discover. Every month, we handpick a few of the best thrillers on Netflix that fit the current season. Sometimes they pair well with an upcoming release. Other titles might be new additions to the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/movies/535079/best-thriller-movies-netflix-watch-march-2025>
-
----
-
-## Pokémon Go Fuecoco Community Day guide
-
-date: 2025-03-08, updated: 2025-03-07, from: Polygon Website
-
-Pokémon Go is having a Fuecoco Community Day event on Saturday, March 8, from 2-5 p.m. in your local time. As expected with a Community Day event, Fuecoco will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve listed out below. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/534548/fuecoco-community-day-shiny-skeledirge-moveset>
-
----
-
-## Gigantamax Charizard counters, weakness, and battle tips in Pokémon Go
-
-date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
-
-Gigantamax Charizard was one of the first Gigantamax Pokémon to show up in Pokémon Go, alongside its fellow Kanto starters, Blastoise and Venusaur. The first time around, Charizard was pretty hard to beat, but now there are a few more Dynamax Pokémon that can help you take it down when it returns on March 8 [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/535385/gigantamax-charizard-counters-weakness-tips>
-
----
-
-## Gigantamax Blastoise counters, weakness, and battle tips in Pokémon Go
-
-date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
-
-Gigantamax Blastoise was one of the first Gigantamax Pokémon in Pokémon Go, alongside its fellow Kanto starters, Charizard and Venusaur. While pretty difficult to take on at first, its reappearance in Max Battles on March 8 and 9 should be accessible to more players — so long as you’ve been catching some Dynamax Pokémon here [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/535489/gigantamax-blastoise-counters-weakness-tips>
-
----
-
-## Gigantamax Venusaur counters, weakness, and battle tips in Pokémon Go
-
-date: 2025-03-08, updated: 2025-03-06, from: Polygon Website
-
-Gigantamax Venusaur was one of the first Gigantamax Pokémon to debut in Pokémon Go, along its Kanto starter cousins, Blastoise and Charizard. At its initial launch, it was tough to grab one; players didn’t have strategies or strong counters ready. However, the plant-toad is making a return to the game on March 8 and 9, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/535219/gigantamax-venusaur-weakness-counters-tips>
 

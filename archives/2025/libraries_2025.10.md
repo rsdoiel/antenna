@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-03-15 06:07:28
+updated: 2025-03-16 06:07:35
 ---
 
 # libraries
 
-(date: 2025-03-15 06:07:28)
+(date: 2025-03-16 06:07:35)
 
 ---
 
@@ -99,6 +99,18 @@ Stürchler, Alessandra
 
 ---
 
+## From back shape to spine: A novel radiation-free system to assess posture, motion, and pathologies of the spine
+
+date: 2025-03-13, from: ETH Zurich, recently added
+
+Kaiser, Mirko 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/727284>
+
+---
+
 ## Savrola, by Winston Churchill
 
 date: 2025-03-12, from: Standard Ebooks, new releaases
@@ -159,6 +171,18 @@ date: 2025-03-12, from: Crossref Blog
 <br> 
 
 <https://www.crossref.org/blog/2025-public-data-file-now-available/>
+
+---
+
+## Renewing the Appreciation for Urban Essential Workers
+
+date: 2025-03-12, from: ETH Zurich, recently added
+
+Müller, Peppino; Testorelli, Florence 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/727285>
 
 ---
 

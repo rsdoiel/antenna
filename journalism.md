@@ -1,11 +1,228 @@
 ---
 title: journalism
-updated: 2025-03-15 06:07:27
+updated: 2025-03-16 06:07:34
 ---
 
 # journalism
 
-(date: 2025-03-15 06:07:27)
+(date: 2025-03-16 06:07:34)
+
+---
+
+## Pro-Palestine groups protest detainment of Columbia demonstrator Mahmoud Khalil
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Three campus organizations in support of Palestine organized a walkout on Tuesday. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/16/pro-palestine-groups-protest-detainment-of-columbia-demonstrator-mahmoud-khalil-2/>
+
+---
+
+## On The Steps Episode 7: Scientists walk out to protest funding cuts
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Last Friday, over a thousand scientists from across Southern California met to protest cuts to the NIH and other agencies. We take you to the demonstration in Westwood and then we look at how students are preparing for finals, a magic show, and the Gymnastics meet against Stanford. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/16/on-the-steps-episode-7-scientists-walk-out-to-protest-funding-cuts/>
+
+---
+
+## PRIME: In the Mountains of Nepal
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The sound of rain bouncing off the metallic wings overtakes the sound of the jet engine. Instead of city lights and the Santa Monica Mountains, the Himalayas rise up around the plane, dwarfing my perception of altitude. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/prime-in-the-mountains-of-nepal/>
+
+---
+
+## PRIME: Stewarding the 19th Century
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+Above and beyond publishing journal articles, credentialing young people and producing spectacles on the court, the field and the gridiron, the job of a university is to keep the books.&#160;
+Less visible than some of the university’s more prominent architectural symbols, the Michael Sadleir Collection of Nineteenth-Century British Fiction is deeply tied to the history, and the purpose, of UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/prime-stewarding-the-19th-century/>
+
+---
+
+## PRIME: Beyond the Bargain
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+I am no longer allowed to buy jackets.
+As a chronic shopper since I was 4 years old, my closet was stuffed with an endless supply of jackets, vests, belts and other pieces of clothing that still had tags on them. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/prime-beyond-the-bargain/>
+
+---
+
+## PRIME: After the Fire
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+“I was born in the greatest place on Earth.”
+&#160;
+Pacific Palisades is filled with spots to view the ocean sunset, but Leo Rochman’s favorite is a cul-de-sac at the bottom of the hill in the bluffs overlooking the coast. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/prime-after-the-fire/>
+
+---
+
+## The Giving Craft gives more than gifts to patients, encouraging creativity at UCLA
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Giving Craft shows how a small gesture can go a long way.
+The student-run organization, founded this past fall quarter, is open to all students interested in crafts &#8211; no matter the medium or level of experience, said social media manager and second-year cognitive science student Hannah Ngo. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/the-giving-craft-gives-more-than-gifts-to-patients-encouraging-creativity-at-ucla/>
+
+---
+
+## Neuroscientists network through learning, memory research at UCLA symposium
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UCLA Brain Research Institute hosted the annual Southern California Learning and Memory Symposium on March 3.
+Participants and attendees gathered in the Neuroscience Research Building for a day of collaboration and education centered on neuroplasticity. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/neuroscientists-network-through-learning-memory-research-at-ucla-symposium/>
+
+---
+
+## Winter music video roundup: Complex symbolism from award-winning veterans synthesizes storytelling and song
+
+date: 2025-03-16, from: The Daily Bruin (UCLA Student Newspaper)
+
+As winter quarter reaches its conclusion, it is time to revisit the visuals that made the season dynamic.
+A variety of female artists delivered unforgettable music videos for their singles, pulling from nostalgic television programs and original concepts to craft vibrant stories. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/winter-music-video-roundup-complex-symbolism-from-award-winning-veterans-synthesizes-storytelling-and-song/>
+
+---
+
+## From open mics to dorm shows, Gigi Goldberg turns every platform into her stage
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gigi Goldberg&#8217;s songs are striking a chord with the UCLA community.
+Goldberg, a second-year undeclared student and singer-songwriter who performs as keyofgigi, released her latest single last month &#8211; a soulful ballad dedicated to city life titled &#8220;urban wonderland.&#8221; While her new song is a dedication to cities such as Los Angeles and their communities, Goldberg said she first turned to music during her childhood in Colorado, where her hometown&#8217;s busking culture was her original source of inspiration for a career in music. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/from-open-mics-to-dorm-shows-gigi-goldberg-turns-every-platform-into-her-stage/>
+
+---
+
+## PRIME Winter 2025
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<http://dailybruin.com/tag/prime-w-2025>
+
+---
+
+## PRIME: A Year From Home
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/prime-a-year-from-home/>
+
+---
+
+## PRIME: #Period
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Social media led Annie Wong into an unexpected world of crimson-tinged activism.
+&#160;
+In her conservative household, discussions about menstruation were considered taboo. Coupled with less-than-thorough health classes at her Texas high school, Wong had limited access to period education before social media existed. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/prime-period/>
+
+---
+
+## PRIME: Generative AI, the New Teacher’s Pet?
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+I’m not afraid of many things. Heights are just glorified elevations; spiders, just misunderstood creatures; public speaking, just multifaceted conversation. So it came as a surprise to learn I was afraid of something that existed within the pixelated confines of my computer screen: generative artificial intelligence. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/generative-ai-the-new-teachers-pet/>
+
+---
+
+## UCPD arrests registered sex offender for unlawfully entering campus
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 14 at 10:59 p.m.</em>
+UCPD arrested a registered sex offender near Covel Commons around 1 p.m. Friday for unlawfully entering campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/ucpd-arrests-registered-sex-offender-for-unlawfully-entering-campus/>
+
+---
+
+## Speech Club aims to help students build skills, confidence in public speaking
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Forget spiders, snakes or heights – for some, public speaking is the most frightening thing of all.
+Founded this fall, Speech Team @UCLA provides UCLA students with the opportunity to strengthen their speaking skills, said Ernesto Perez, a team membership co-president of Speech Club. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/speech-club-aims-to-help-students-build-skills-confidence-in-public-speaking/>
+
+---
+
+## Second Take: Regardless of gender, Oscars should respect nominated acts’ sexual autonomy
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article includes a mention of rape that may be disturbing to some readers.
+There is nothing wrong with an actor baring it all to win an Oscar &#8211; but that doesn&#8217;t mean it should always happen. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/second-take-regardless-of-gender-oscars-should-respect-nominated-acts-sexual-autonomy/>
 
 ---
 
@@ -1061,66 +1278,4 @@ From downtown Los Angeles to Westwood, members of the LA Philharmonic are buildi
 <br> 
 
 <https://dailybruin.com/2025/03/08/ucla-faculty-at-la-philharmonic-explore-diverse-music-expand-student-education/>
-
----
-
-## Griffith Observatory
-
-date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<br> 
-
-<https://dailybruin.com/2025/03/07/griffith-observatory/>
-
----
-
-## Medical study finds no difference in patient success outcomes for MDs, DOs
-
-date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-A comparative study, using data from hospitals, concluded that the surgical program a doctor chooses produces no significant differences in their career surgical outcomes performed by allopathic and osteopathic surgeons. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/07/medical-study-finds-no-difference-in-patient-success-outcomes-for-mds-dos/>
-
----
-
-## Dancing for a cause with the Pediatric AIDs Coalition
-
-date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-The Pediatric AIDs Coalition raises money for HIV and AIDs research through their annual Dance Marathon. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/07/dancing-for-a-cause-with-the-pediatric-aids-coalition/>
-
----
-
-## Over 1,000 people protest executive orders at Stand Up For Science rally Friday
-
-date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-Over 1,000 people – including students and scientists – protested Trump administration executive orders related to science and health at a Stand Up For Science rally Friday.&#160;
-Protesters gathered at noon at the intersection of Wilshire Boulevard and Veteran Avenue to protest, hear speeches and write letters to government representatives. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/07/over-1000-people-protest-executive-orders-at-stand-up-for-science-rally-friday/>
-
----
-
-## Album Review: Lady Gaga’s ‘MAYHEM’ brings the magic with danceable tunes, quirky lyrics
-
-date: 2025-03-08, from: The Daily Bruin (UCLA Student Newspaper)
-
-Lady Gaga is back in frenetic but fantastic form with her electrifying new LP.
-The 14-time Grammy winner released her latest album, &#8220;MAYHEM,&#8221; on Friday. The 14-track project arrives as the singer-songwriter&#8217;s seventh solo studio album, almost five years after 2020&#8217;s &#8220;Chromatica.&#8221; In the intervening time, Gaga&#8217;s musical output has included the remix project &#8220;Dawn Of Chromatica,&#8221; a Grammy-winning collaboration album with Tony Bennett, work on the soundtracks of the films &#8220;Top Gun: Maverick&#8221; and &#8220;Joker: Folie &#224; Deux&#8221; and her 2024 release &#8220;Harlequin.&#8221; Now back with a more traditional album rollout to accompany &#8220;MAYHEM,&#8221; Gaga has unleashed a 53-minute body of work that is undoubtedly her finest record in more than a decade &#8211; an artistic achievement made possible by returning to the avant-garde dance tracks and unconventional lyrics that made her a superstar. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/07/album-review-lady-gagas-mayhem-brings-the-magic-with-danceable-tunes-quirky-lyrics/>
 

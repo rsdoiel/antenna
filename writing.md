@@ -1,11 +1,75 @@
 ---
 title: writing
-updated: 2025-03-15 06:07:26
+updated: 2025-03-16 06:07:33
 ---
 
 # writing
 
-(date: 2025-03-15 06:07:26)
+(date: 2025-03-16 06:07:33)
+
+---
+
+## Combat Monsters: Untold Tales of World War II, edited by Henry Herz: Review by Paul Di Filippo
+
+date: 2025-03-15, from: Locus Magazine
+
+<p><strong>Combat Monsters: Untold Tales of World War II</strong>, edited by Henry Herz (Blackstone 979-8874748432, trade paperback, 384pp, $18.99) February 2025</p>
+<p>Henry Herz, we learn from the ancillary matter in the new original anthology <b>Combat Monsters</b>, has assembled six other anthologies, and yet I found myself unfamiliar with his name. The answer to my lamentable ignorance is that his prior books are intended for the Young Adult market —  <a href="https://locusmag.com/2025/03/combat-monsters-untold-tales-of-world-war-ii-edited-by-henry-herz-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/combat-monsters-untold-tales-of-world-war-ii-edited-by-henry-herz-review-by-paul-di-filippo/>
+
+---
+
+## People & Publishing Roundup, February 2025
+
+date: 2025-03-15, from: Locus Magazine
+
+<div></div>
+<div class="catheader"><strong>MILESTONES</strong></div>
+
+<p><strong>MEGAN CHEE </strong>is now repre­sented by Stevie Finegan of Zeno Agency Ltd.</p>
+<div></div>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>EVE HILL-AGNUS </strong>won the 2024 Albertine Translation Prize for her translation of <strong>Ultramarine </strong>by <strong>MARIETTE NAVARRO </strong>(Deep Vellum), presented by the French Embassy in the US and selected by a jury.</p>
+<p>&#160;</p>
+<div class="catheader"><strong>BOOKS SOLD</strong></div>
+
+<p>&#160;</p>
+<p><strong>STEPHEN KING </strong>will write <strong>Han­sel and Gretel</strong>, a “reimagining” of the fairy tale, with illustrations by the late <strong>MAURICE SENDAK </strong> <a href="https://locusmag.com/2025/03/people-publishing-roundup-february-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/people-publishing-roundup-february-2025/>
+
+---
+
+## GigaNotoSaurus, Lightspeed, and Small Wonders: Reviews by Charles Payseur
+
+date: 2025-03-15, from: Locus Magazine
+
+<p>GigaNotoSaurus 12/24
+Lightspeed 12/24
+Small Wonders 12/24</p>
+<p>December’s GigaNotoSaurus is <strong>Sabrina Vourvou­lias</strong>’s “<strong>Dead reckoning in 6/8 time</strong>”, a story that finds Adriana remembering her mother’s stories about being a bailadora in Mexico and losing a contest to the devil himself. Which means that, now that her mother has passed, her soul is the devil’s, and that doesn’t sit well with Adriana, who determines that she will succeed  <a href="https://locusmag.com/2025/03/giganotosaurus-lightspeed-and-small-wonders-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/giganotosaurus-lightspeed-and-small-wonders-reviews-by-charles-payseur/>
+
+---
+
+## 🚸 #240 - Writing Kids
+
+date: 2025-03-15, from: Interesting, a blog on writing
+
+(About kids, not necessarily for kids) 
+
+<br> 
+
+<https://inneresting.substack.com/p/240-writing-kids>
 
 ---
 
@@ -450,42 +514,4 @@ Hexagon Winter ’24</p>
 <br> 
 
 <https://locusmag.com/2025/03/cast-of-wonders-strange-horizons-and-hexagon-winter-reviews-by-charles-payseur/>
-
----
-
-## Galaxy Raiders: Abyss, by Ian Douglas: Review by Paul Di Filippo
-
-date: 2025-03-08, from: Locus Magazine
-
-<p><strong>Galaxy Raiders: Abyss</strong>, Ian Douglas (Harper Voyager 978-0063205741, trade paperback, 400pp, $18.99) February 2025</p>
-<p>I think most folks are well aware of how SF/F/H concepts trickle out into the public domain, and percolate through the minds of citizenry who might never have read a relevant book or even experienced a relevant media presentation. Take “teleportation,” for instance. Once an abstruse notion that meant nothing to the average citizen of  <a href="https://locusmag.com/2025/03/galaxy-raiders-abyss-by-ian-douglas-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/03/galaxy-raiders-abyss-by-ian-douglas-review-by-paul-di-filippo/>
-
----
-
-## Analog: Short Fiction Reviews by A.C. Wise
-
-date: 2025-03-08, from: Locus Magazine
-
-<p>Analog 11-12/24</p>
-<p>“<strong>That Far, Uncharted Ocean</strong>” by <strong>Auston Haber­shaw </strong>in the November/December issue of Analog features recurring characters and a world appear­ing in previous Analog stories by the author. Amos Tambly is recruited by the Thraad, snaillike aliens, who want to win a sailing regatta but have no knowledge of boats and are afraid of the ocean. Amos agrees, but ultimately learns that the Thraad intend to wipe  <a href="https://locusmag.com/2025/03/analog-short-fiction-reviews-by-a-c-wise-3/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/03/analog-short-fiction-reviews-by-a-c-wise-3/>
-
----
-
-## ✍️ #239 - A Better Way to Write
-
-date: 2025-03-08, from: Interesting, a blog on writing
-
-Or, when we need guidance to break out of our habits 
-
-<br> 
-
-<https://inneresting.substack.com/p/239-a-better-way-to-write>
 

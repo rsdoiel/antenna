@@ -1,11 +1,157 @@
 ---
 title: socal north
-updated: 2025-03-15 06:07:23
+updated: 2025-03-16 06:07:29
 ---
 
 # socal north
 
-(date: 2025-03-15 06:07:23)
+(date: 2025-03-16 06:07:29)
+
+---
+
+## Utah architecture students help LA fire victims jump-start rebuilding
+
+date: 2025-03-16, updated: 2025-03-16, from: The LAist
+
+Several local firms are also offering help for fire victims with designs and plans, which can be time consuming and costly. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/eaton-fire-rebuilding-volunteer-architecture-design-services>
+
+---
+
+## Federal judge blocks Trump's plan to target 'alien enemies' for deportation
+
+date: 2025-03-16, updated: 2025-03-16, from: The LAist
+
+Trump invoked the wartime authority Alien Enemies Act, targeting members of Venezuelan gang Tren de Aragua for expedited deportation. But a federal judge blocked the action Saturday evening. 
+
+<br> 
+
+<https://laist.com/news/politics/federal-judge-blocks-trumps-plan-to-target-alien-enemies-for-deportation>
+
+---
+
+## One of Jackie and Shadow’s chicks has died. Volunteers tell fans: 'Grieve and feel whatever you feel'
+
+date: 2025-03-15, updated: 2025-03-16, from: The LAist
+
+Friends of Big Bear Valley, the nonprofit that manages the popular YouTube livestream of the nest, confirmed the news Saturday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/jackie-shadow-eaglets-chick-big-bear-nest-death>
+
+---
+
+## Look up! The Goodyear Blimp is celebrating a big birthday
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+We head up into the skies over Los Angeles in honor of the Goodyear Blimp's 100th. Come join us ... there's room for eight. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/look-up-the-goodyear-blimp-is-celebrating-a-big-birthday>
+
+---
+
+## 'Bloody Saturday' at Voice of America and other US-funded networks
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+Federal officials placed 1,300 employees at Voice of America on indefinite paid leave, while severing contracts with Radio Free Asia and other U.S.-funded networks. 
+
+<br> 
+
+<https://laist.com/news/politics/bloody-saturday-at-voice-of-america-and-other-u-s-funded-networks>
+
+---
+
+## A reopened library breathes life back into the Altadena burn zone
+
+date: 2025-03-15, updated: 2025-03-16, from: The LAist
+
+Residents find a semblance of normalcy amid the stacks. 
+
+<br> 
+
+<https://laist.com/news/altadena-library-breathes-life-back-into-the-altadena-burn-zone>
+
+---
+
+## Stimulating the SENSES in Old Town Newhall
+
+date: 2025-03-15, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Old Town Newhall has earned its title as Santa Clarita’s Premier Arts and Entertainment District and has also become well-known as a hub for prime dining and shopping. Not only that, it has become the home of one of the most popular and anticipated City events: SENSES Block Party. As [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/15/stimulating-the-senses-in-old-town-newhall/">Stimulating the SENSES in Old Town Newhall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/15/stimulating-the-senses-in-old-town-newhall/>
+
+---
+
+## Here are the Los Angeles Marathon road closures you need to know
+
+date: 2025-03-15, updated: 2025-03-16, from: The LAist
+
+Sunday’s marathon brings thousands of runners to L.A. streets — plan ahead to keep your day on track. 
+
+<br> 
+
+<https://laist.com/news/transportation/2025-la-marathon-road-closures>
+
+---
+
+## Trump says the U.S. is in a 'period of transition' — and more takeaways from this week
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+This week, President Trump continued to threaten tariffs as DOGE continued its cuts of the federal workforce. It was another consequential and news-packed week in Trump's presidency. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-says-the-u-s-is-in-a-period-of-transition-and-more-takeaways-from-this-week>
+
+---
+
+## Over 50 universities — 3 in California — are under investigation as part of Trump's anti-DEI crackdown
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+Three California schools, Cal Poly Humboldt, Cal State San Bernardino and UC Berkeley are on the list. 
+
+<br> 
+
+<https://laist.com/news/education/over-50-universities-3-in-california-are-under-investigation-as-part-of-trumps-anti-dei-crackdown>
+
+---
+
+## Federal agencies plan for mass layoffs as Trump's workforce cuts continue
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+Thursday's deadline for federal agencies to submit plans for large-scale layoffs kicks off a new phase in the dramatic restructuring of how the government operates. Here's what that looks like. 
+
+<br> 
+
+<https://laist.com/news/politics/federal-agencies-plan-for-mass-layoffs-as-trumps-workforce-cuts-continue>
+
+---
+
+## Pasadena has new rental protections in the wake of the Eaton Fire
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+Five regulations are aimed at protecting tenants as well as landlords who were affected by the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/pasadena-renter-protections-eaton-fire>
 
 ---
 
@@ -785,7 +931,7 @@ The youngest chick may be only a few days old, but it’s been holding its own a
 
 ## Fire victims need to decide soon about debris removal. Here are your options
 
-date: 2025-03-12, updated: 2025-03-12, from: The LAist
+date: 2025-03-12, updated: 2025-03-15, from: The LAist
 
 Also, we tell you how to avoid a nasty surprise when you get a big bill for cleanup. The trick is to save your receipts. 
 
@@ -1260,126 +1406,4 @@ House Republicans released the text of a continuing resolution that would fund t
 <br> 
 
 <https://laist.com/news/politics/gop-unveils-stopgap-bill-to-avert-a-government-shutdown-they-may-not-have-the-votes>
-
----
-
-## Photos: The 2025 Women's March in LA
-
-date: 2025-03-08, updated: 2025-03-10, from: The LAist
-
-The Women's March started in 2017, drawing hundreds of thousands of Angelenos to protest against the first Trump administration and spawning as many pink knitted pussyhats. We check in eight years later. 
-
-<br> 
-
-<https://laist.com/news/politics/photos-this-mornings-womens-march-in-l-a>
-
----
-
-## Uncovering Santa Clarita’s Hidden History in Our Parks
-
-date: 2025-03-08, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Our community is rich with history, blending the spirit of the Old West with the history of our great nation – especially in our parks. When Santa Clarita incorporated in 1987, we only had eight parks. Today, we are home to more than three dozen, and this year, we are [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/03/08/uncovering-santa-claritas-hidden-history-in-our-parks/">Uncovering Santa Clarita’s Hidden History in Our Parks</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/03/08/uncovering-santa-claritas-hidden-history-in-our-parks/>
-
----
-
-## Jackie and Shadow's third eaglet hatches into Big Bear's famous feathered family
-
-date: 2025-03-08, updated: 2025-03-08, from: The LAist
-
-More than 99,000 people were watching live on the Friends of Big Bear Valley Youtube livestream as the chick worked through the hatching process. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/third-eaglet-hatches-into-big-bears-famous-feathered-family>
-
----
-
-## Newsom extends rental price gouging protections after LA fires. But there's more
-
-date: 2025-03-08, updated: 2025-03-08, from: The LAist
-
-The executive order issued on Friday also suspends certain state laws that would prevent the rebuilding of Altadena's two commercial corridors to their "pre-fire character." 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/newsom-executive-order-extends-price-gouging-protections-for-fire-survivors>
-
----
-
-## Go Fact Yourself quiz for March 8
-
-date: 2025-03-08, updated: 2025-03-11, from: The LAist
-
-Our celebrity panelists Sarah Jones and Phil Rosenthal go head to head this week on their knowledge of 1990s East Coast hip-hop and the TV show 'The Odd Couple.' Think you might know more than they do? Go Fact Yourself! 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-march-8>
-
----
-
-## Thousands of trees will go unplanted in Los Angeles after Musk pulls funding
-
-date: 2025-03-08, updated: 2025-03-10, from: The LAist
-
-Tens of millions of dollars in grants were withdrawn across the country, targeting programs that plant trees in low-income communities. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/tree-planting-budget-cuts-doge-elon-musk>
-
----
-
-## Top Democrats ask Rubio for answers on now-canceled $400 million Tesla plan
-
-date: 2025-03-08, updated: 2025-03-08, from: The LAist
-
-A letter from two House Democrats presses Rubio for details about who approved an effort to try to use hundreds of millions of dollars of taxpayer money on armored electric vehicles from Tesla. 
-
-<br> 
-
-<https://laist.com/news/top-democrats-ask-rubio-for-answers-on-now-canceled-400-million-tesla-plan>
-
----
-
-## 5 takeaways from LA’s troubling new homelessness spending audit
-
-date: 2025-03-08, updated: 2025-03-08, from: The LAist
-
-Here’s what you need to know about the long-awaited findings on what the city has accomplished with billions of dollars in homelessness funding. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/los-angeles-homeless-services-authority-audit-judge-carter-5-takeaways>
-
----
-
-## LAPD seeks public’s help in 2006 unsolved murder of Emmery Muñoz
-
-date: 2025-03-08, updated: 2025-03-08, from: The LAist
-
-Emmery Muñoz was 14 years old when she was found dead in Boyle Heights. She was last seen on Jan. 20, 2006, in City Terrace, police said. 
-
-<br> 
-
-<https://laist.com/news/lapd-seeks-publics-help-in-2006-unsolved-murder-of-emmery-munoz>
-
----
-
-## New E-cargo bike voucher program launches for SGV residents. Here’s how to apply
-
-date: 2025-03-08, updated: 2025-03-08, from: The LAist
-
-In this first round, 300 vouchers for $2,000 are available. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/e-cargo-bike-voucher-program-san-gabriel-valley-residents>
 
