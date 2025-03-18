@@ -1,11 +1,411 @@
 ---
 title: food
-updated: 2025-03-17 06:10:24
+updated: 2025-03-18 06:08:43
 ---
 
 # food
 
-(date: 2025-03-17 06:10:24)
+(date: 2025-03-18 06:08:43)
+
+---
+
+## The Dish That Got My Toddler to Eat More Than Chicken Nuggets
+
+date: 2025-03-18, from: Bon Appetet
+
+For a few months we gave in. Then we tried this simple technique. 
+
+<br> 
+
+<https://www.bonappetit.com/story/small-plates-tofu-black-bean-sauce>
+
+---
+
+## Strawberry Cheesecake Pudding
+
+date: 2025-03-18, from: Taste of Home
+
+Strawberry cheesecake pudding takes the best of classic cheesecake—cream cheese, graham crackers, berries and a rich, creamy texture—and turns them into a no-bake pudding. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-cheesecake-pudding/>
+
+---
+
+## The Ultimate Coffee Bracket Challenge: Bracketsprology™ 2025
+
+date: 2025-03-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The only bracket that matters. 
+
+<br> 
+
+<https://sprudge.com/the-ultimate-coffee-bracket-challenge-bracketsprology-2025-307838.html>
+
+---
+
+## Erica Escalante’s Goal for the Reina Cafe Accelerator Program? Help New Coffee Shops Thrive
+
+date: 2025-03-18, from: The Fresh Cup
+
+<p>The Reina Cafe Accelerator program offers affordable group coaching for independent cafe owners looking to boost profitability, grow, and blossom.</p>
+<p>The post <a href="https://freshcup.com/erica-escalantes-goal-for-the-reina-cafe-accelerator-program-help-new-cafes-thrive/">Erica Escalante’s Goal for the Reina Cafe Accelerator Program? Help New Coffee Shops Thrive  </a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/erica-escalantes-goal-for-the-reina-cafe-accelerator-program-help-new-cafes-thrive/>
+
+---
+
+## Sheet-Pan Pomegranate Chicken With Walnut Relish
+
+date: 2025-03-18, from: Bon Appetet
+
+This weeknight-friendly chicken dinner—made with pomegranate molasses and a toasted walnut relish—is inspired by the flavors of Persian fesenjan. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/sheet-pan-pomegranate-chicken-with-walnut-relish>
+
+---
+
+## Sticky Honey-Soy Chicken Legs
+
+date: 2025-03-18, from: Bon Appetet
+
+Bone-in, skin-on chicken legs glossed in a sticky honey mustard glaze strike the perfect balance of tangy, sweet, and delightfully savory. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/sticky-honey-soy-chicken-legs>
+
+---
+
+## Balsamic Butterscotch sauce
+
+date: 2025-03-18, from: Bon Appetet
+
+Tangy-sweet and a cinch to make, balsamic butterscotch sauce is perfect for pouring over ice cream, grilled or roasted fruit, or your favorite cake. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/balsamic-butterscotch-sauce>
+
+---
+
+## Cod With Chorizo, Greens, and Chickpeas
+
+date: 2025-03-18, from: Bon Appetet
+
+In this one-pan dinner, flaky cod is finished in a chorizo-spiked sauce, alongside wilty greens and chickpeas—some tender, some crispy. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cod-with-chorizo-greens-and-chickpeas>
+
+---
+
+## Sake-Grapefruit Fizz
+
+date: 2025-03-18, from: Bon Appetet
+
+This light and drinkable cocktail pairs the bittersweet flavor of grapefruit with botanical gin and sparkling sake for a bubbly finish. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/sake-grapefruit-fizz>
+
+---
+
+## Silken Tofu With Black Bean Garlic Sauce
+
+date: 2025-03-18, from: Bon Appetet
+
+A homemade black bean sauce is better than anything you can find in the grocery store. Plus, the 15-minute dinner you can make with it. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/silken-tofu-with-black-bean-garlic-sauce>
+
+---
+
+## Chicharron Chicken Cutlets
+
+date: 2025-03-18, from: Bon Appetet
+
+Pork rind-crusted chicken is outrageous—outrageously good. Popular with children and adults alike, it’s a protein-packed gift that’s good for any occasion. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/chicharron-chicken-cutlets>
+
+---
+
+## Roasted Tofu Grain Bowls With Miso-Tahini Sauce
+
+date: 2025-03-18, from: Bon Appetet
+
+This vegetarian bowl is as colorful as it is hearty: brown rice and quinoa, roasted tofu and broccolini, avocado, cabbage slaw, and a turmeric-spiked dressing. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/roasted-tofu-grain-bowls-with-miso-tahini-sauce>
+
+---
+
+## Asparagus and Endive Salad With Comté Cream
+
+date: 2025-03-18, from: Bon Appetet
+
+A creamy Comté foundation is the perfect pairing for verdant asparagus and crisp endive in this simple-yet-elegant salad that celebrates the season. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/asparagus-and-endive-salad-with-comte-cream>
+
+---
+
+## Mar i Muntanya
+
+date: 2025-03-18, from: Bon Appetet
+
+The original surf-and-turf, this rustic Spanish dish combines tender seafood and beefy meatballs in a thick, savory stew. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/mar-i-muntanya>
+
+---
+
+## Best Countertop Microwaves, Tested and Reviewed
+
+date: 2025-03-18, from: Bon Appetet
+
+The latest batch of microwaves to hit the market are loaded with new features that do, well, everything. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-countertop-microwaves>
+
+---
+
+## This Is the 3-Ingredient Comfort Meal Stanley Tucci Loves Making
+
+date: 2025-03-17, from: Taste of Home
+
+<p>It doesn't get easier, or more nostalgic, than this pastina recipe from Stanley Tucci. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-tucci-pastina-recipe/">This Is the 3-Ingredient Comfort Meal Stanley Tucci Loves Making</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-tucci-pastina-recipe/>
+
+---
+
+## Easy Chocolate Eclair Cake
+
+date: 2025-03-17, from: Taste of Home
+
+With 15 minutes of prep and a short chill in the fridge, our no-bake eclair cake tastes just as great as the fancy French chocolate eclairs that are harder to make. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/easy-chocolate-eclair-cake/>
+
+---
+
+## 25 Eid al-Fitr Recipes for Your Eid Feast
+
+date: 2025-03-17, from: Taste of Home
+
+<p>Food is essential to celebrating Eid al-Fitr. From decadent sweet treats like date cookies to savory dishes like biryani, lamb tagine and hearty stew, this collection has something for everyone to add to their Eid feast.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/eid-feast/">25 Eid al-Fitr Recipes for Your Eid Feast</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/eid-feast/>
+
+---
+
+## We Ranked 9 Goldfish Flavors, and One Blew the Others Out of the Water
+
+date: 2025-03-17, from: Taste of Home
+
+<p>Feast your eyes on the best Goldfish flavors, ranked from good to "I ate the whole bag."</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-goldfish-flavors-ranked/">We Ranked 9 Goldfish Flavors, and One Blew the Others Out of the Water</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-goldfish-flavors-ranked/>
+
+---
+
+## Homemade Chocolate Custard
+
+date: 2025-03-17, from: Taste of Home
+
+Skip the complicated French techniques and take a straightforward approach to making luxurious chocolate custard right at home. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/homemade-chocolate-custard/>
+
+---
+
+## It's Back to Basics Week on 'Dinner SOS'
+
+date: 2025-03-17, from: Bon Appetet
+
+Chris and his Bon Appétit colleagues are here to answer all things back to basics. 
+
+<br> 
+
+<https://www.bonappetit.com/story/its-back-to-basics-week-on-dinner-sos>
+
+---
+
+## Vitamix Immersion Blender Review: This Handheld Appliance Is Incredibly Powerful
+
+date: 2025-03-17, from: Taste of Home
+
+<p>The Vitamix immersion blender was the most powerful immersion blender to come through our Testing Lab, making it one of our top picks.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/vitamix-immersion-blender-review/">Vitamix Immersion Blender Review: This Handheld Appliance Is Incredibly Powerful</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/vitamix-immersion-blender-review/>
+
+---
+
+## The Sprudge Guide To Coffee In Addis Ababa
+
+date: 2025-03-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Where to drink coffee in Addis Ababa, Ethiopia. 
+
+<br> 
+
+<https://sprudge.com/the-sprudge-guide-to-coffee-in-addis-ababa-269581.html>
+
+---
+
+## The Vitamix Propel Is Our Product Testing Team’s Favorite Vitamix Blender
+
+date: 2025-03-17, from: Taste of Home
+
+<p>The Vitamix Propel 510 was a top performer in our Testing Lab. Here's why you'll want to add it to your cart ASAP.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/vitamix-propel-review/">The Vitamix Propel Is Our Product Testing Team&#8217;s Favorite Vitamix Blender</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/vitamix-propel-review/>
+
+---
+
+## Vitamix Ascent X4 Review: This Splurge-Worthy Blender Does It All
+
+date: 2025-03-17, from: Taste of Home
+
+<p>Our testers set out to determine whether or not the Vitamix Ascent X4 is worth the splurge. Spoiler alert: it's worth every penny for serious blender users.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/vitamix-ascent-review/">Vitamix Ascent X4 Review: This Splurge-Worthy Blender Does It All</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/vitamix-ascent-review/>
+
+---
+
+## We Tried the New NutriBullet Ultra+, and It Replaces 3 Kitchen Appliances
+
+date: 2025-03-17, from: Taste of Home
+
+<p>NutriBullet just released an all-new 3-in-1 kitchen system. Can it really replace a blender, food processor and coffee grinder? Our editor tested it to find out. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/nutribullet-ultra/">We Tried the New NutriBullet Ultra+, and It Replaces 3 Kitchen Appliances</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/nutribullet-ultra/>
+
+---
+
+## Creme Brulee Cheesecake
+
+date: 2025-03-17, from: Taste of Home
+
+Creme brulee cheesecake is an elevated twist on the usual cheesecake. Break out the granulated sugar and kitchen torch to re-create that classic caramelized sugar topping. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/creme-brulee-cheesecake/>
+
+---
+
+## The Mushroom Stir-Fry That Pleases Both My Co-Parents
+
+date: 2025-03-17, from: Bon Appetet
+
+All four of us—three partners, one baby—have our food preferences. This dinner works for everyone. 
+
+<br> 
+
+<https://www.bonappetit.com/story/fourth-trimester-mushroom-stir-fry>
+
+---
+
+## Coffee Science Foundation Leading More Defects Research with UC Davis
+
+date: 2025-03-17, from: Daily Coffee News
+
+<div><img width="620" height="417" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-620x417.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-620x417.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1.jpg 1034w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association-supported Coffee Science Foundation (CSF) today announced the launch of a new research project in partnership with the UC Davis Coffee Center focused on green coffee defects.&#160;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/17/coffee-science-foundation-leading-more-defects-research-with-uc-davis/>
+
+---
+
+## Strawberry Pudding
+
+date: 2025-03-17, from: Taste of Home
+
+Strawberry pudding is a simple and classic treat made by stirring mashed strawberries into a smooth vanilla pudding base. Strawberries and pudding are a perfect match for spring and summer celebrations. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-pudding/>
+
+---
+
+## Vertically Integrated Hub Coffee Rolls Into Its Biggest Cafe in Reno
+
+date: 2025-03-17, from: Daily Coffee News
+
+<div><img width="620" height="421" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-620x421.jpg" class="attachment-large size-large wp-post-image" alt="Hub Coffee Roasters" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-620x421.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-768x522.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1.jpg 1143w" sizes="(max-width: 620px) 100vw, 620px" /></div>Highlighting partnerships involving three different coffee farms in Colombia, the third and largest Hub Coffee Roasters cafe recently rolled into Reno, Nevada.&#160; The newly opened 3,100-square-foot cafe at the Reno... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/17/vertically-integrated-hub-coffee-rolls-into-its-biggest-cafe-in-reno/>
+
+---
+
+## A Cup For Hot Or A Cup For Cold? Can’t It Be Both?
+
+date: 2025-03-17, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The 40oz Splitflask is on Kickstarter now. 
+
+<br> 
+
+<https://sprudge.com/a-cup-for-hot-or-a-cup-for-cold-cant-it-be-both-304925.html>
 
 ---
 

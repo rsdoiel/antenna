@@ -1,11 +1,97 @@
 ---
 title: motorcycles
-updated: 2025-03-17 06:10:23
+updated: 2025-03-18 06:08:42
 ---
 
 # motorcycles
 
-(date: 2025-03-17 06:10:23)
+(date: 2025-03-18 06:08:42)
+
+---
+
+## Florida Man Steals Motorcycle and Crashes, Tells Cops He Doesn't Know What Happened
+
+date: 2025-03-18, from: Ride Apart, Electric Motorcycle News
+
+There's no explanation! 
+
+<br> 
+
+<https://www.rideapart.com/news/753774/florida-man-steals-motorcycle-crashes/>
+
+---
+
+## Schuberth Partners With Cardo to Launch More Seamless Motorcycle Comms System
+
+date: 2025-03-18, from: Ride Apart, Electric Motorcycle News
+
+Can you hear me now? 
+
+<br> 
+
+<https://www.rideapart.com/news/753782/cardo-packtalk-sc-edge-schuberth-partnership-motorcycle-comms/>
+
+---
+
+## Keanu Reeves Shows Just How Cool He Really Is, Launches "Visionaries" Docuseries
+
+date: 2025-03-18, from: Ride Apart, Electric Motorcycle News
+
+Reeves and ARCH co-founder Gard Hollinger even took to WIRED to answer the two-wheeled world’s most frequently asked questions. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753649/keanu-reeves-gard-hollinger-visionaries-docuseries/>
+
+---
+
+## We’re Digging Motorcycle Rental Company EagleRider’s Massive Rebrand
+
+date: 2025-03-18, from: Ride Apart, Electric Motorcycle News
+
+It’s still all about the ride, but this time there's less BROTHERRRRR. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753651/eaglerider-rebrand-offroad-adventure-utv-tours/>
+
+---
+
+## Remember That 300 Horsepower Turbocharged Motorcycle, Well It's Being Crowdfunded
+
+date: 2025-03-17, from: Ride Apart, Electric Motorcycle News
+
+It's certainly one way of starting a business these days.  
+
+<br> 
+
+<https://www.rideapart.com/news/753602/langen-motorcycles-turbocharged-motorcycle-crowd-funding/>
+
+---
+
+## Polaris' Upcoming Electric Snowmobile Has F1 Technology, Here It Is Before It Debuts
+
+date: 2025-03-17, from: Ride Apart, Electric Motorcycle News
+
+Sssh, don't tell anyone.  
+
+<br> 
+
+<https://www.rideapart.com/news/753594/polaris-ev-snowmobile-patent/>
+
+---
+
+## The Hardest Enduro Motorcycle Race Ever Is Coming Soon, and We're Stoked
+
+date: 2025-03-17, from: Ride Apart, Electric Motorcycle News
+
+Erzbergrodeo plus Romaniacs? Sure, why the hell not.  
+
+<br> 
+
+<https://www.rideapart.com/news/753587/romaniacs-erzbergrodeo-hard-enduro-team-up/>
 
 ---
 

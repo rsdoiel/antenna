@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-03-17 06:10:23
+updated: 2025-03-18 06:08:42
 ---
 
 # retro computing
 
-(date: 2025-03-17 06:10:23)
+(date: 2025-03-18 06:08:42)
+
+---
+
+## New user or news seeker – come to  RISC OS North
+
+date: 2025-03-18, from: RiscOS Story
+
+If you&#8217;re a seasoned RISC OS User, you&#8217;ll know all about the operating system&#8217;s history, and you&#8217;ll be familiar with the people that look after it today &#8211; but you&#8217;ll want to find out the latest news. If, however, you&#8217;re a new user, or if are thinking of trying it out, you&#8217;ll want to find out more about it. In both cases, your needs will be met at RISC OS North. RISC OS Developments Ltd is the company that owns the OS itself. They also maintain a &#8216;distro&#8217; for the&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/new-user-news-seeker-risc-os-north/>
+
+---
+
+## Dash to Panel Maintainer Quits
+
+date: 2025-03-17, from: Linux Magazine
+
+<p>Charles Gagnon has stepped away as maintainer of the popular Dash to Panel Gnome extension.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Dash-to-Panel-Maintainer-Quits>
 
 ---
 
@@ -85,7 +109,7 @@ In the fall DEC leadership concluded their personal computer strategy was failin
 
 As for the Professional family, DEC reluctantly conceded the machines could never sell in volume as commodity PCs, and began shifting back to enterprise and research customers by reintroducing the Pros as premium workstations. Key to this plan was marketing them explicitly as "personal PDP-11s" even though the only thing the minis and the Pros had in common was their CPUs. As part of the refurbishment, DEC finally enabled the 350's network port with the long-promised CTI Ethernet card in April and added support for Decnet to the new P/OS 2.0; to broaden the operating system choices available, DEC started drawing on additional internal operating system options and contracting outside with others. The real-time RT-11 operating system was reworked as PRO/RT-11 and DEC's CTS-300 and the UCSD p-System were ported as well. DEC also commissioned a port of Standard Micro MUMPS 300, supporting up to seven simultaneous users, and TSX-Plus for timesharing under PRO/RT-11.
 <p>
-A glaring omission was a native Unix, which categorical PDP-11 minis had been able to run almost from the beginning in 1970. VenturCom, another Massachusetts tech company, was a current licensee of Version 7 Unix and sold their V7 variant with some BSD enhancements as VENIX (hereafter mostly rendered as Venix to save my eyes), which existed as VENIX-11 for the PDP-11/23 since at least 1982. VenturCom also had a Z80 Venix port at one time and after the introduction of the 5150 PC launched "Project Viking" to port it to the 8086 as well, arriving in January 1983 and beating IBM's PC/IX by a year.<!-- CW 1/83 --> Likely as the quickest means to market, DEC contracted VenturCom to port Venix-11 to the Pro 350 as its official Unix option, adding specific support for the Pro video hardware in its graphics library and including Venix's more unusual features like real-time programming, shared data segments, semaphores and code mapping (to dynamically page executable code in and out of main memory on small systems). We'll talk about why these features were important to DEC when we get to using Venix proper. The result was PRO/VENIX, announced in June 1984, and even included a future-facing UNIX System V license from AT&amp;T. (Later on DEC also commissioned Pro ports of XENIX and Whitesmiths Idris, though it's unclear if these were actually completed or sold.)
+A glaring omission was a native Unix, which categorical PDP-11 minis had been able to run almost from the beginning in 1970. VenturCom, another Massachusetts tech company like DEC, was a current licensee of Version 7 Unix and sold their V7 variant with some BSD enhancements as VENIX (hereafter mostly rendered as Venix to save my eyes), which existed as VENIX-11 for the PDP-11/23 since at least 1982. VenturCom also had a Z80 Venix port at one time and after the introduction of the 5150 PC launched "Project Viking" to port it to the 8086 as well, arriving in January 1983 and beating IBM's PC/IX by a year.<!-- CW 1/83 --> Likely as the quickest means to market, DEC contracted VenturCom to port Venix-11 to the Pro 350 as its official Unix option, adding specific support for the Pro video hardware in its graphics library and including Venix's more unusual features like real-time programming, shared data segments, semaphores and code mapping (to dynamically page executable code in and out of main memory on small systems). We'll talk about why these features were important to DEC when we get to using Venix proper. The result was PRO/VENIX, announced in June 1984, and even included a future-facing UNIX System V license from AT&amp;T. (Later on DEC also commissioned Pro ports of XENIX and Whitesmiths Idris, though it's unclear if these were actually completed or sold.)
 
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNtK3gF72BpdnwT1oxZfEClilyXCXU7uZFXH5Bwe_2iSdu6tlec2BxzowTqX4xAO5pBWoe5ZECiixD-BR4N8u-cUrstGv72SYmQIPTAt-xcEOsdJiYIXsYyfQbaIwQTe3OxK0SwYOokgLo1bYb9II60s7HuVtPSh9m4GAb4nA7HZia9UYxGdA2mQhShlI/s1234/dec-pro-380-clip-19840917.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" height="320" data-original-height="1234" data-original-width="1126" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNtK3gF72BpdnwT1oxZfEClilyXCXU7uZFXH5Bwe_2iSdu6tlec2BxzowTqX4xAO5pBWoe5ZECiixD-BR4N8u-cUrstGv72SYmQIPTAt-xcEOsdJiYIXsYyfQbaIwQTe3OxK0SwYOokgLo1bYb9II60s7HuVtPSh9m4GAb4nA7HZia9UYxGdA2mQhShlI/s320/dec-pro-380-clip-19840917.jpg"/></a></div>
 
