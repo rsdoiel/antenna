@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-03-18 06:08:39
+updated: 2025-03-19 06:08:50
 ---
 
 # games
 
-(date: 2025-03-18 06:08:39)
+(date: 2025-03-19 06:08:50)
+
+---
+
+## This underrated sci-fi horror game has the coolest UI design since Dead Space
+
+date: 2025-03-19, updated: 2025-03-18, from: Polygon Website
+
+Experimental user interface design is worth admiring. When done right, a game’s UI can not only serve the vital role of communicating important game mechanics to the player, but convey something deeper about the universe the player’s avatar inhabits and how they themselves view the world. One of the most memorable examples of this is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/541810/echo-sci-fi-horror-dead-space-ui>
+
+---
+
+## All Galar Pokémon in Pokémon Go so far
+
+date: 2025-03-19, updated: 2025-03-19, from: Polygon Website
+
+The Galar region is in Pokémon Go, meaning Pokémon from the Sword and Shield games (Gen 8) will start appearing over time. Most Pokémon will get added through events, with various Pokémon making their debuts around whatever theme each event has. While we did already have some Pokémon like Falinks and regional variations like Galarian [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8>
+
+---
+
+## How to get Nickit and evolution Thievul in Pokémon Go
+
+date: 2025-03-19, updated: 2025-03-19, from: Polygon Website
+
+Nickit makes its debut in Pokémon Go as part of March 2025’s “Deep Depths” event. The Galar dark-type can evolve into Thievul as part of its evolution line, provided you have enough Candy. Unlike many new Pokémon added to Pokémon Go in the past year, Nickit can be encountered in the wild — though there [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/542456/nickit-thievul-how-to-get>
+
+---
+
+## Opus’ director intended the movie’s ending as a warning
+
+date: 2025-03-19, updated: 2025-03-18, from: Polygon Website
+
+Ambition is a great thing. It drives us to seek out bigger and bigger things, or even just something new. No one knows that better than Opus protagonist Ariel (Ayo Edebiri), a music writer who can’t get a single pitch through her editor (at least, without him stealing it). That changes when aging pop star [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/542172/opus-director-ending-explained-interview>
+
+---
+
+## I installed a bunch of Fallout 4 mods to experience maximum coziness
+
+date: 2025-03-19, updated: 2025-03-18, from: Polygon Website
+
+Typing “cozy” into the Fallout 4 section of Nexus Mods doesn&#8217;t bring you as many actually cozy mods as you might think. According to modders, a custom bedroom with an American flag, something called “visible rain,” and a busty sweater are all cozy. I realize that the nuclear post-apocalypse isn&#8217;t exactly chill, but mods are [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/cozy-gaming/540304/fallout-4-cozy-mods>
+
+---
+
+## The comic book story behind Daredevil’s mystery killer
+
+date: 2025-03-19, updated: 2025-03-17, from: Polygon Website
+
+The funny thing about Daredevil: Born Again is that, despite sharing a name with one of the most iconic Daredevil stories ever told, it’s not based on that story at all. (In part because 2018’s third season of Netflix’s Daredevil already adapted it.)&#160; No, Daredevil: Born Again owes much more to Charles Soule’s 2015-2018 run [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/541635/daredevil-born-again-mask-graffiti-subway-serial-killer-muse>
+
+---
+
+## Best Master League teams to use in Pokémon Go
+
+date: 2025-03-18, updated: 2025-03-18, from: Polygon Website
+
+The Master League in Pokémon Go’s Go Battle League features the best of the best, thanks to its lack of CP cap — meaning titans of the Pokédex lock heads in heated battles, and only the very best trainers stand to reach the top of the rankings.&#160; Whether you’re looking to introduce your Pokémon to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/497479/master-league-best-team-meta>
+
+---
+
+## The best Humble deal is exclusive to Polygon readers
+
+date: 2025-03-18, updated: 2025-03-18, from: Polygon Website
+
+Humble Choice doesn’t get enough love. This subscription service from the same people responsible for Humble Bundles serves up a rotating catalog of DRM free games that you get to keep forever, in addition to an array of other cool benefits. Typically, an annual subscription costs $129, or $11.99 month-to-month. However, through March 31, Polygon [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/542142/humble-choice-march-polygon-promo-sale>
+
+---
+
+## The official Cyberpunk 2077 board game is 36% off for the first time
+
+date: 2025-03-18, updated: 2025-03-18, from: Polygon Website
+
+The transition from tabletop to video game, then back to tabletop, is something that few franchises have done successfully. Yet Cyberpunk has done it with relative ease. The Gangs of Night City board game from CMON borrows the setting and much of the styling of CD Projekt Red’s first-person RPG, Cyberpunk 2077, and turns it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/542227/cyberpunk-2077-gangs-night-city-board-game-sale>
+
+---
+
+## What is the Destiny 2 raid and dungeon rotation this week?
+
+date: 2025-03-18, updated: 2025-03-18, from: Polygon Website
+
+Learning the raid and dungeon rotation in Destiny 2 is great for farming loot you don’t have yet, and for increasing your Power in Destiny 2. As of the Episode: Revenant update in October 2024, Bungie showcases which activity is featured (via an icon on the map), and there are now two featured raids and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule>
 
 ---
 

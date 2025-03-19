@@ -1,11 +1,386 @@
 ---
 title: columns
-updated: 2025-03-18 06:08:38
+updated: 2025-03-19 06:08:48
 ---
 
 # columns
 
-(date: 2025-03-18 06:08:38)
+(date: 2025-03-19 06:08:48)
+
+---
+
+## 2025-03-15 New window manager: niri
+
+date: 2025-03-19, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-15-new-window-manager-niri">2025-03-15 New window manager: niri</h1>
+
+<p>I&rsquo;m giving <a href="https://github.com/YaLTeR/niri">niri</a> a go.
+The idea is that a scrollable tiling window manager
+(&ldquo;Wayland compositor&rdquo;) is a better fit than just a tiling window manager.
+For tiling window managers, I just create new stuff and have it maximized.
+I really can&rsquo;t do the quick splitting and rearranging that it seems to afford.
+The result is that I start moving stuff to other workspaces, where they&rsquo;re
+invisible and gone.
+I&rsquo;m hoping that new windows popping up next to existing windows makes it feel
+like a stack.</p>
+
+<p>Having gone through the config file and having made a few small changes it
+already feels pretty nice. Right now one of the problems I have is that
+by sheer bad luck I decided to rotate my external monitor by 90° and that
+doesn&rsquo;t work quite as well, maybe? I&rsquo;m not sure. One of the first changes
+I did was change the default widths from ⅓ / ½ / ⅔ to 0.95 / ⅔ / ½ with 0.95 being
+the default.</p>
+
+<p><a class="tag" href="/search/?q=%23Window_Managers">#Window Managers</a> <a class="tag" href="/search/?q=%23Niri">#Niri</a></p>
+
+<p>I didn&rsquo;t find a solution for Gimp. And I already had no solution for VASSAL under Sway. So for these applications, I still have Gnome installed.</p>
+
+<p>Currently my <code>~/.config/fish/conf.d/window-manager.fish</code> says:</p>
+
+<pre><code># If running from tty1 start sway
+set TTY (tty)
+[ &quot;$TTY&quot; = &quot;/dev/tty1&quot; ] &amp;&amp; exec sway
+[ &quot;$TTY&quot; = &quot;/dev/tty2&quot; ] &amp;&amp; exec startx
+[ &quot;$TTY&quot; = &quot;/dev/tty3&quot; ] &amp;&amp; exec niri
+</code></pre>
+
+<p>Oh well. 😅</p>
+
+<p><strong>2025-03-19</strong>. I&rsquo;m finding that there were too many problems with apps that didn&rsquo;t work or had very slow startup times. So I&rsquo;m back to <a href="2023-10-22-sway">using Sway</a>.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-15-niri>
+
+---
+
+## Ubuntu 25.10 plans to swap GNU coreutils for Rust
+
+date: 2025-03-19, updated: 2025-03-19, from: Liam Proven's articles at the Register
+
+<h4>It&#39;s easier to replace bits of userland than the kernel</h4>
+      <p>Efforts are afoot to replace the GNU coreutils with Rust ones in the version after next of Ubuntu, 25.10 – which also means changing the software license.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/19/ubuntu_2510_rust/>
+
+---
+
+## Office Hours: What’s Trump’s REAL goal?
+
+date: 2025-03-19, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-whats-trumps-real-goal>
+
+---
+
+## March 18, 2025
+
+date: 2025-03-19, from: Heather Cox Richardson blog
+
+On Saturday, U.S. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-18-2025>
+
+---
+
+## Wednesday 19 March, 2025
+
+date: 2025-03-19, from: John Naughton's online diary
+
+Building for Global Britain Can this really be the site office for one of the incessant central Cambridge construction projects? Quote of the Day ”Critics are men who watch a battle from a high place then come down and shoot &#8230; <a href="https://memex.naughtons.org/wednesday-19-march-2025/40564/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-19-march-2025/40564/>
+
+---
+
+## More of Trump’s descent into dictatorship
+
+date: 2025-03-19, from: Robert Reich's blog
+
+Two illegal firings that will increase prices for consumers and concentrate more power in Trump&#8217;s hands &#8212; unless the courts stop him. 
+
+<br> 
+
+<https://robertreich.substack.com/p/more-of-trumps-descent-into-dictatorship>
+
+---
+
+## Hyperspace 1.1
+
+date: 2025-03-18, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://hypercritical.co/hyperspace/>
+
+---
+
+##  Don&#8217;t Be a Sucker! 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/dont-be-a-sucker>
+
+---
+
+## March 17, 2025
+
+date: 2025-03-18, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159364784/2ea606cf6baebb3a79e5be93fc1a46f9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159364784/2ea606cf6baebb3a79e5be93fc1a46f9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-17-2025-66d>
+
+---
+
+##  What Are the Physical Limits of Humanity? 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/what-are-the-physical-limits-of-humanity-1>
+
+---
+
+##  A 6‑Hour Time-Stretched Version of Brian Eno&#8217;s Music For Airports. &#8220;The tonal... 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046459-a-6hour-time-stretched-ve>
+
+---
+
+## John Palfrey on the moment
+
+date: 2025-03-18, from: Dave Winer's Scripting News
+
+<p>This is like that moment, five years ago, when we realized that Covid was going to kill a lot of us but it hadn't happened yet. A lot of people weren't yet aware. My <a href="http://scripting.com/images/2024/10/02/palfrey2003.jpeg">friend</a> <a href="https://en.wikipedia.org/wiki/John_Palfrey">John Palfrey</a>, who is a legal scholar, has been writing about this moment on LinkedIn and Facebook. Things are flashing by very quickly, so I'm going to publish his latest piece here, below, so it gets a chance to get to the places I'm hooked into.</p>
+<ul>
+<li>Lawyer friends and non-lawyer friends: has it become hard to say out loud in public: "we believe in the rule of law in America"? That seems not remotely controversial as a concept. The relative quiet on this topic is what is striking me most at the moment.</li>
+<li>It would be a good idea for our Republic to avoid sleepwalking through a Constitutional crisis. Of course there are extremely talented lawyers working overtime on many fronts. Those who are not directly involved in litigation have other tools, including voice and funding and organizing, to make plain the simple truth that we should not let the rule of law slip away in America bit by bit. That will continue to happen if the rulings of federal judges can simply be ignored or sidestepped with impunity.</li>
+<li>If the legislature has abdicated its role in checking the power of the executive, and then the judicial branch is also out, well, that leaves just one. This is not "fancy law stuff". This is "4th grade civics stuff" -- separation of powers, checks and balances (I know, I know, we don't teach civics enough in America...).</li>
+<li>It is actually *not* more complicated than that. It can't be that hard to say out loud: "we value the rule of law in America" -- no matter your politics or party.</li>
+</ul>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/18/185358.html?title=johnPalfreyOnTheMoment>
+
+---
+
+##  UbuWeb, a pirate library of avant-garde artifacts, closed in 2024. But last... 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046456-ubuweb-a-pirate-library-o>
+
+---
+
+## What Can We Learn about Engineering and Innovation from Half a Century of the Game of Life Cellular Automaton?
+
+date: 2025-03-18, from: Stephen Wolfram blog
+
+<span class="thumbnail"><img width="128" height="108" src="https://content.wolfram.com/sites/43/2025/03/goL-icon-v5.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" /></span>Metaengineering and Laws of Innovation Things are invented. Things are discovered. And somehow there’s an arc of progress that’s formed. But are there what amount to “laws of innovation” that govern that arc of progress? There are some exponential and other laws that purport to at least measure overall quantitative aspects of progress (number of [&#8230;] 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/03/anim2.mp4"></source>
+	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/03/anim3.mp4"></source>
+	<source type="video/mp4" src="https://content.wolfram.com/sites/43/2025/03/anim4.mp4"></source>
+</video> <a href="https://content.wolfram.com/sites/43/2025/03/anim2.mp4" target="_blank">download video/mp4</a> 
+
+<https://writings.stephenwolfram.com/2025/03/what-can-we-learn-about-engineering-and-innovation-from-half-a-century-of-the-game-of-life-cellular-automaton/>
+
+---
+
+##  Bad at Goodbyes is a podcast highlighting a different critically endangered plant... 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046452-bad-at-goodbyes-is-a>
+
+---
+
+## Media Matters
+
+date: 2025-03-18, from: Doc Searls (at Harvard), New Old Blog
+
+Missing Mike. My favorite songwriter and performer is Mike Cross. He was headed to a career in law as an undergrad at UNC-Chapel Hill when a music bug bit him, he learned to play fiddle and guitar, and then to perform in local bars and clubs. I couldn&#8217;t count how many times I went to [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/18/media-matters/>
+
+---
+
+##  Fooling a Self-Driving Tesla Is Dangerously Easy 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/fooling-a-self-driving-tesla-is-dangerously-easy>
+
+---
+
+## Saturday Night Live’s Cue Cards
+
+date: 2025-03-18, updated: 2025-03-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.youtube.com/watch?v=3djg59JUrmc>
+
+---
+
+##  From The Climate Mental Health Network, a downloadable free zine for youth... 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046448-from-the-climate-mental-h>
+
+---
+
+## Chris Ware on Richard Scarry and the Art of Children’s Literature
+
+date: 2025-03-18, updated: 2025-03-18, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://yalereview.org/article/chris-ware-richard-scarry>
+
+---
+
+## Get back on the air
+
+date: 2025-03-18, from: Dave Winer's Scripting News
+
+<p>The Dems highest priority should be to get the Kamala Harris campaign back on social media, 24 by 7, with the truth and snark, irreverance, disrespectful of the Repubs, as a matter of principle. They were great. Perfect. We need a voice for the Democrats on the social networks. </p>
+<p>Would someone please send this to AOC, Jasmine Crockett, Bernie Sanders, Mark Cuban, James Carville, anyone else you can think of. </p>
+<p>The Dems only problem is there is no voice, no pulse, no heartbeat. Even without this, they almost won the last election. </p>
+<p>Everything you like about government came from the Democrats. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/18/getBackOnTheAir.png"></center>We miss you. Get <a href="https://daytona.scripting.com/search?q=%22on%20the%20air%22">back</a> on the air! No time to lose.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/18/161228.html?title=getBackOnTheAir>
+
+---
+
+##  The Women Who Wanted to Leave Their Husbands Over Politics. &#8220;This fall,... 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046436-the-women-who-wanted-to>
+
+---
+
+## Trump’s further descent into dictatorship
+
+date: 2025-03-18, from: Robert Reich's blog
+
+This morning, he issued a bellicose post against a federal judge who&#8217;s trying to constrain him. It&#8217;s part of an increasing attempt by Trump and Musk to threaten judges with violence. 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-further-descent-into-dictatorship>
+
+---
+
+##  Freedom of the Press Foundation: &#8220;[Wired] is going to stop paywalling articles... 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046455-freedom-of-the-press-foun>
+
+---
+
+##  You may have already seen it, but I finally got around to... 
+
+date: 2025-03-18, updated: 2025-03-18, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046454-you-may-have-already-seen>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-18, from: Miguel de Icaza Mastondon feed)
+
+<p>Silver lining moment: We might not have due process for these Gulags, but at least we don’t have troikas yet.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114183810469865171>
+
+---
+
+## Goodbye Torque. Hello TeraFLOPS!
+
+date: 2025-03-18, from: Om Malik blog
+
+In this week&#8217;s edition of CrazyStupidTech, I wrote about how Chinese domination of &#8220;electric vehicles&#8221; is going to become a nightmare, not just for car companies, but also for Silicon Valley. More below! The future of cars is code, not chrome. Volvo’s ES90 is the latest example of computing’s conquest of the automotive industry. Industry &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/18/goodbye-torque-hello-teraflops/>
 
 ---
 
@@ -223,7 +598,7 @@ date: 2025-03-17, updated: 2025-03-17, from: Jason Kittke's blog
 
 ## Ray Maker on the Heart Rate Sensor of the Beats PowerBeats 2 Pro
 
-date: 2025-03-17, updated: 2025-03-17, from: Daring Fireball
+date: 2025-03-17, updated: 2025-03-18, from: Daring Fireball
 
  
 
@@ -371,7 +746,7 @@ date: 2025-03-17, updated: 2025-03-17, from: Daring Fireball
 
 ## The Original ‘Something’s Rotten in Cupertino’ — Brent Schlender’s 1997 Story for Fortune
 
-date: 2025-03-17, updated: 2025-03-17, from: Daring Fireball
+date: 2025-03-17, updated: 2025-03-18, from: Daring Fireball
 
  
 
@@ -689,50 +1064,6 @@ If you’re a visitor to the website, you might have noticed a new link in the m
 <br> 
 
 <https://om.co/2025/03/16/my-new-daily-blog/>
-
----
-
-## 2025-03-15 New window manager: niri
-
-date: 2025-03-16, from: Alex Schroeder's Blog
-
-<h1 id="2025-03-15-new-window-manager-niri">2025-03-15 New window manager: niri</h1>
-
-<p>I&rsquo;m giving <a href="https://github.com/YaLTeR/niri">niri</a> a go.
-The idea is that a scrollable tiling window manager
-(&ldquo;Wayland compositor&rdquo;) is a better fit than just a tiling window manager.
-For tiling window managers, I just create new stuff and have it maximized.
-I really can&rsquo;t do the quick splitting and rearranging that it seems to afford.
-The result is that I start moving stuff to other workspaces, where they&rsquo;re
-invisible and gone.
-I&rsquo;m hoping that new windows popping up next to existing windows makes it feel
-like a stack.</p>
-
-<p>Having gone through the config file and having made a few small changes it
-already feels pretty nice. Right now one of the problems I have is that
-by sheer bad luck I decided to rotate my external monitor by 90° and that
-doesn&rsquo;t work quite as well, maybe? I&rsquo;m not sure. One of the first changes
-I did was change the default widths from ⅓ / ½ / ⅔ to 0.95 / ⅔ / ½ with 0.95 being
-the default.</p>
-
-<p><a class="tag" href="/search/?q=%23Window_Managers">#Window Managers</a> <a class="tag" href="/search/?q=%23Niri">#Niri</a></p>
-
-<p>I didn&rsquo;t find a solution for Gimp. And I already had no solution for VASSAL under Sway. So for these applications, I still have Gnome installed.</p>
-
-<p>Currently my <code>~/.config/fish/conf.d/window-manager.fish</code> says:</p>
-
-<pre><code># If running from tty1 start sway
-set TTY (tty)
-[ &quot;$TTY&quot; = &quot;/dev/tty1&quot; ] &amp;&amp; exec sway
-[ &quot;$TTY&quot; = &quot;/dev/tty2&quot; ] &amp;&amp; exec startx
-[ &quot;$TTY&quot; = &quot;/dev/tty3&quot; ] &amp;&amp; exec niri
-</code></pre>
-
-<p>Oh well. 😅</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-03-15-niri>
 
 ---
 

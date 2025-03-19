@@ -1,11 +1,321 @@
 ---
 title: home
-updated: 2025-03-18 06:08:41
+updated: 2025-03-19 06:08:51
 ---
 
 # home
 
-(date: 2025-03-18 06:08:41)
+(date: 2025-03-19 06:08:51)
+
+---
+
+## 48 Flowers That Start With F (With Pictures and Names)
+
+date: 2025-03-19, from: Yard Life blog
+
+<p>If you&#8217;re looking for a diverse and colorful list of flowers that start with F, you&#8217;re in the right place! ... </p>
+<p class="read-more-container"><a title="48 Flowers That Start With F (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/48-flowers-that-start-with-f-with-pictures-and-names/#more-25392" aria-label="Read more about 48 Flowers That Start With F (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/48-flowers-that-start-with-f-with-pictures-and-names/">48 Flowers That Start With F (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/48-flowers-that-start-with-f-with-pictures-and-names/>
+
+---
+
+## 54 Stunning Types of Orchids (With Pictures and Identification)
+
+date: 2025-03-19, from: Yard Life blog
+
+<p>Orchids are one of the most diverse and fascinating plant families in the world, with thousands of species found in ... </p>
+<p class="read-more-container"><a title="54 Stunning Types of Orchids (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/54-stunning-types-of-orchids-with-pictures-and-identification/#more-25335" aria-label="Read more about 54 Stunning Types of Orchids (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/54-stunning-types-of-orchids-with-pictures-and-identification/">54 Stunning Types of Orchids (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/54-stunning-types-of-orchids-with-pictures-and-identification/>
+
+---
+
+## Rare Plant of the Month: California alkali grass
+
+date: 2025-03-18, from: California Native Plants Society
+
+<p>Grasses don't get enough love, especially if they're rare. California alkali grass is a handsome grass that is increasingly difficult to find.</p>
+<p>The post <a href="https://www.cnps.org/rare-plants/rare-plant-of-the-month-california-alkali-grass-42688">Rare Plant of the Month: California alkali grass</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/rare-plants/rare-plant-of-the-month-california-alkali-grass-42688>
+
+---
+
+## Sec. Ross joins Community Alliance with Family Farmers for announcement of 10 projects receiving CDFA Urban Agriculture Grant Program funding
+
+date: 2025-03-18, from: Calfifornia Dept. Aggriculture blog
+
+CDFA Secretary Karen Ross spoke about the benefits of urban agriculture at an event hosted today by the Community Alliance with Family Farmers (CAFF) at the International Garden of Many Colors in Sacramento. “By continuing to invest in urban agriculture &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28699">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28699>
+
+---
+
+## How the Stick Shift Went Extinct
+
+date: 2025-03-18, from: Family Handyman Blog
+
+<p>Just 2 percent of cars sold come with a manual transmission. Here's what caused the stick shift to go nearly extinct.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-happened-to-manual-transmissions/">How the Stick Shift Went Extinct</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-happened-to-manual-transmissions/>
+
+---
+
+## Why Does This Hollywood Celebrity Hate Leaf Blowers?
+
+date: 2025-03-18, from: Family Handyman Blog
+
+<p>Cate Blanchett wants leaf blowers "eradicated from the face of the Earth."</p>
+<p>The post <a href="https://www.familyhandyman.com/article/cate-blanchett-hates-leaf-blowers/">Why Does This Hollywood Celebrity Hate Leaf Blowers?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/cate-blanchett-hates-leaf-blowers/>
+
+---
+
+## Can Google’s AI Overview Be Trusted for DIY Project Advice?
+
+date: 2025-03-18, from: Family Handyman Blog
+
+<p>Google Overview is awesome, but AI can be unreliable. You're usually better off following the links to the sources on which the Overview is based.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/can-you-trust-ai-google-results-for-diy-projects/">Can Google’s AI Overview Be Trusted for DIY Project Advice?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/can-you-trust-ai-google-results-for-diy-projects/>
+
+---
+
+## Why It’s a Good Thing Your Car Crumples
+
+date: 2025-03-18, from: Family Handyman Blog
+
+<p>While a smashed and totaled car might seem like a disaster, it may be a blessing in disguise. Car crumple zones can save your life. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-its-a-good-thing-your-car-crumples/">Why It&#8217;s a Good Thing Your Car Crumples</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-its-a-good-thing-your-car-crumples/>
+
+---
+
+## Why You Should Read Your Car’s Owner Manual
+
+date: 2025-03-18, from: Family Handyman Blog
+
+<p>It might seem like an obvious first step, but even though we should do it, many of us don't read our car's owner manual.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/why-you-should-read-your-cars-owner-manual/">Why You Should Read Your Car&#8217;s Owner Manual</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/why-you-should-read-your-cars-owner-manual/>
+
+---
+
+## Have You Been Opening Your Car Door Wrong This Whole Time?
+
+date: 2025-03-18, from: Family Handyman Blog
+
+<p>Here's how to prevent injuring a cyclist with your car door, by using the simple Dutch Reach method.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/dutch-reach-open-your-car-door/">Have You Been Opening Your Car Door Wrong This Whole Time?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/dutch-reach-open-your-car-door/>
+
+---
+
+## The Hidden Meanings of Different Design Styles in "Severance"
+
+date: 2025-03-18, from: Dwell
+
+As the show reveals more of the "outie" world beyond Lumon’s headquarters, the spaces the characters inhabit hint at clues to some of its major questions. 
+
+<br> 
+
+<https://www.dwell.com/article/severance-production-design-styles-hidden-meanings-c72cc8c4>
+
+---
+
+## In Philly, a Home in a Historic Brick Bank Hits the Market for $1M
+
+date: 2025-03-18, from: Dwell
+
+The 1893 building—with tall, tinned ceilings and an open-plan second floor—has lived past lives as a library, boxing gym, and recording studio. 
+
+<br> 
+
+<https://www.dwell.com/article/tacony-bank-john-ord-brick-home-renovation-philadelphia-real-estate-c50889fd>
+
+---
+
+## A Chilean Beach Home’s Sinuous Facade Is Designed for High Winds
+
+date: 2025-03-18, from: Dwell
+
+Thousands of pine battens clad the curving exterior, tempering gusts that come off the ocean. 
+
+<br> 
+
+<https://www.dwell.com/article/wind-house-larrou-blaq-curving-facade-beach-house-dcb17769>
+
+---
+
+## The L.A. Artist Memorializing Residential Architecture Lost in the Fires
+
+date: 2025-03-18, from: Dwell
+
+In the wake of destruction, Asher Bingham put out an offer on Instagram to draw homes that had been destroyed for free. The resulting work is an archive of styles we may not get back. 
+
+<br> 
+
+<https://www.dwell.com/article/los-angeles-fires-altadena-palisades-architecture-asher-bingham-illustrations-17fca7dd-ac9fcb45>
+
+---
+
+## 21 of the Best Tomato Companion Plants (And 3 to Avoid)
+
+date: 2025-03-18, from: The Gardener's Path
+
+<p>Are you wondering which herbs, flowers, or veggies make the best companion plants for your tomatoes? Different combinations of plants provide a variety of benefits which include adding nutrients to the soil, protection from pests, or attracting pollinators. Discover 21 of the best tomato companion plants in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/tomato-companion-plants/">21 of the Best Tomato Companion Plants (And 3 to Avoid)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/tomato-companion-plants/>
+
+---
+
+## Thuma Has Expanded Beyond Their Beloved Bed Frame—and We’re All In
+
+date: 2025-03-18, from: Dwell
+
+The brand behind one of our favorite platform beds is bringing minimalist design to the rest of the home. 
+
+<br> 
+
+<https://www.dwell.com/article/thuma-collection-expansion-into-bedroom-and-home-2eb27716>
+
+---
+
+## Go Ahead, Paint the Trim!
+
+date: 2025-03-18, from: Dwell
+
+Your house, your rules—who says your baseboards have to be white? 
+
+<br> 
+
+<https://www.dwell.com/article/painted-trim-8f61ff2d>
+
+---
+
+## These 10 Cities Have the Highest Rent in the Country—and Half Are out West
+
+date: 2025-03-18, from: Sunset Magazine - Living in the West
+
+A new study looked at the cities with the highest rents in U.S. and half were in the West, in California and Washington. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/cities-with-highest-rent-in-us-2025>
+
+---
+
+## These Are All the New Places to Stay in Yosemite
+
+date: 2025-03-18, from: Sunset Magazine - Living in the West
+
+One of America's oldest national parks has a whole lot of newness nowadays, from glamping resorts to campervans. 
+
+<br> 
+
+<https://www.sunset.com/travel/new-yosemite-lodging-2025>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-03-18, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## These Are the Pantry Staples Every Cook Needs from Trader Joe’s (Plus, the Ones You Can Skip)
+
+date: 2025-03-18, from: Sunset Magazine - Living in the West
+
+From Calabrian chili paste to coconut oil, here's a list of what your kitchen's pantry absolutely needs from Trader Joe's. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/pantry-staples-trader-joes>
+
+---
+
+## This Is L.A.’s Hottest Neighborhood Right Now—What to See, Do and Eat There
+
+date: 2025-03-18, from: Sunset Magazine - Living in the West
+
+Melrose Hill is home to a new spate of restaurants, shops, and galleries, poised to become L.A.’s next hot neighborhood. 
+
+<br> 
+
+<https://www.sunset.com/travel/melrose-hill-los-angeles-things-to-do>
+
+---
+
+## Inside L.A. Beauty Brand Tower 28’s Bright and Cheery Office
+
+date: 2025-03-18, from: Sunset Magazine - Living in the West
+
+LA-based beauty brand Tower 28 is known for its non-toxic makeup and skincare in fun and cheerful packaging. Its office is equally fun and vibrant. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/tower-28-office-tour>
+
+---
+
+## A Nostalgic Disneyland Attraction Is Making an Epic Return
+
+date: 2025-03-18, from: Sunset Magazine - Living in the West
+
+The Great Moments with Mr. Lincoln attraction at Disneyland was closed in April 2024, but now it's coming back. 
+
+<br> 
+
+<https://www.sunset.com/travel/great-moments-with-mr-lincoln-disneyland-return>
 
 ---
 
@@ -123,7 +433,7 @@ date: 2025-03-17, from: Family Handyman Blog
 
 ---
 
-## Budget Breakdown: They Turned a Shed Into an Off-Grid Island Home for €347K
+## Budget Breakdown: They Turned a Shed Into an Off-Grid Island Home for €257K
 
 date: 2025-03-17, from: Dwell
 
@@ -156,6 +466,18 @@ International trade plays and important role for California’s agricultural ind
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28681>
+
+---
+
+## Inside a San Francisco House Where the Wallpapers Are the Star
+
+date: 2025-03-17, from: Sunset Magazine - Living in the West
+
+The homeowners wanted plenty of wallpaper and color in their home. Designer Rachel Seldin covered almost every inch of it in wallpaper. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/wallpaper-house-cole-valley>
 
 ---
 
@@ -196,18 +518,6 @@ date: 2025-03-17, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/article/auto-start-stop-car/>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-17, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

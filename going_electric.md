@@ -1,11 +1,351 @@
 ---
 title: going electric
-updated: 2025-03-18 06:08:43
+updated: 2025-03-19 06:08:53
 ---
 
 # going electric
 
-(date: 2025-03-18 06:08:43)
+(date: 2025-03-19 06:08:53)
+
+---
+
+## See The Rivian R2's Production-Ready Body Months Before It Launches
+
+date: 2025-03-19, from: Inside EVs News
+
+Rivian just showed off an R2 body built with production dies for the first time. Here's why that shows Rivian is serious about success. 
+
+<br> 
+
+<https://insideevs.com/news/753935/rivian-r2-body-production-dies/>
+
+---
+
+## Tesla Gets Ride-Hailing Permit In California, But It’s Not What You Think
+
+date: 2025-03-19, from: Inside EVs News
+
+There’s still a long road ahead before Tesla’s EVs can offer paid driverless rides in California. 
+
+<br> 
+
+<https://insideevs.com/news/753966/tesla-ride-hailing-permit-california/>
+
+---
+
+## Thousands of Tesla owners doxxed. The only way to get off the list? Sell your car
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-19-at-12.08.14AM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Amid worldwide protests against Tesla due to CEO Elon Musk’s involvement in the company,  a website has surfaced with address and contact information of thousands of Tesla owners. And the same site says that the only way to get off the list is to prove that you’ve sold your car.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406528" href="https://electrek.co/2025/03/19/thousands-of-tesla-owners-doxxed-the-only-way-to-get-off-the-list-sell-your-car/#more-406528" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/thousands-of-tesla-owners-doxxed-the-only-way-to-get-off-the-list-sell-your-car/>
+
+---
+
+## Tesla (TSLA) obtains ride-hailing permit in California, no robotaxi yet
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_76.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) has officially obtained a permit in California to operate an internal fleet for a ride-hailing service, but it’s not for robotaxi yet.</p>
+
+
+
+<p>In fact, the automaker hasn’t even applied for an autonomous driving permit yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406516" href="https://electrek.co/2025/03/18/tesla-tsla-ride-hailing-permit-california-no-robotaxi-yet/#more-406516" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/tesla-tsla-ride-hailing-permit-california-no-robotaxi-yet/>
+
+---
+
+## 100+ US-made wind turbines are headed to 2 RWE Texas projects
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/wind-onshore-2.75-120-wind-turbines-emsdetten-germany-3000px.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>GE Vernova is going to supply more than 100 US-made wind turbines to renewables developer RWE for 308 megawatts (MW) of wind projects in west Texas.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,ge-vernova,solar,texas,wind-power,wind-turbine" data-layer-viewtype="unknown" data-post-id="406486" href="https://electrek.co/2025/03/18/rwe-texas-wind-ge-vernova/#more-406486" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/rwe-texas-wind-ge-vernova/>
+
+---
+
+## Dodge Charger EV gets a new ‘Bludicrous’ color and up to $12,500 in discounts
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Dodge-Charger-EV-discounts-6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The world’s first electric muscle car, as <a href="https://electrek.co/guides/dodge/">Dodge</a> calls it, is now arriving at dealerships in a new “Bludicrous” color. Dodge also launched a new virtual experience that lets you create the Charger you’ve been dreaming of right on your phone. To sweeten the deal, Dodge is offering hefty discounts of up to $12,500 on the new Charger Daytona EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,electric-dodge-charger" data-layer-viewtype="unknown" data-post-id="406464" href="https://electrek.co/2025/03/18/dodge-charger-ev-gets-new-bludicrous-color-huge-discounts/#more-406464" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/dodge-charger-ev-gets-new-bludicrous-color-huge-discounts/>
+
+---
+
+## General Motors And Nvidia Team Up To Build Self-Driving Cars
+
+date: 2025-03-18, from: Inside EVs News
+
+The automaker is teaming up with the chip giant to build next-generation vehicles, factories and robots. 
+
+<br> 
+
+<https://insideevs.com/news/753938/gm-nvidia-team-up-self-driving-cars/>
+
+---
+
+## Siemens slashes its worldwide EV charging workforce by 35%
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/si-sicharge-ds-4x3-srgb.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Siemens announced today that it’s cutting around 6,000 jobs worldwide, and 450 of them will be in its EV charging business.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-chargers,ev-charging-stations,germany,siemens" data-layer-viewtype="unknown" data-post-id="406459" href="https://electrek.co/2025/03/18/siemens-slashes-worldwide-ev-charging-workforce/#more-406459" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/siemens-slashes-worldwide-ev-charging-workforce/>
+
+---
+
+## Hyundai will give you a free ChargePoint home EV charger if you buy or lease these EVs
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-free-charger-EVs-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Buy or lease a new <a href="https://electrek.co/guides/hyundai/">Hyundai EV</a>, and you can get a free home charger or a $400 charging credit. Hyundai is offering a free ChargePoint Home Flex Level 2 EV charger with the purchase or lease of select EVs, including the new 2025 IONIQ 5 and IONIQ 6. Here’s how you can get yours.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-ioniq-6" data-layer-viewtype="unknown" data-post-id="406430" href="https://electrek.co/2025/03/18/hyundai-free-ev-charger-buy-or-lease-these-evs/#more-406430" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/hyundai-free-ev-charger-buy-or-lease-these-evs/>
+
+---
+
+## America's Best And Worst EV Charging Networks: These Fail Half The Time
+
+date: 2025-03-18, from: Inside EVs News
+
+Rivian and Tesla have the most reliable charging networks in America. Others have plenty of room for improvement. 
+
+<br> 
+
+<https://insideevs.com/news/753915/shell-ea-evgo-tesla-cahrging/>
+
+---
+
+## Jackery flash sale takes $2,500 off select units with extra savings + gift, Heybike Mars 2.0 hits $899 low, Autel EV charger, EGO, more
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Jackery-Flash-Sale-FI.png?w=1600" /></div><p>Today’s Green Deals are headlined by <a href="https://9to5toys.com/2025/03/17/jackerys-explorer-100-plus-90-in-flash-sale/">Jackery’s Sustainable Power Flash Sale</a> that is only running for a few days with up to $2,500 being taken off its power stations – there’s even some hangover St. Paddy’s Day extra savings and a free gift offer on select purchases. In a rare occurence directly from Jackery, we spotted the brand’s popular <a href="https://9to5toys.com/2025/03/17/jackerys-explorer-100-plus-90-in-flash-sale/">Explorer 100 Plus Portable Power Station</a> dropping to <a href="https://9to5toys.com/2025/03/17/jackerys-explorer-100-plus-90-in-flash-sale/">$90</a>, among other notable offers. Heybike has also switched to its <a href="https://9to5toys.com/2025/03/18/heybike-mars-2-0-e-bike-899-low-limited-spring-savings/">Limited Spring Sale</a>, with some short-term discounted bundle sale offers being led by the <a href="https://9to5toys.com/2025/03/18/heybike-mars-2-0-e-bike-899-low-limited-spring-savings/">Mars 2.0 Fat Tire e-bike</a> that is back down at its <a href="https://9to5toys.com/2025/03/18/heybike-mars-2-0-e-bike-899-low-limited-spring-savings/">$899</a> low for the next few days. We also have <a href="https://9to5toys.com/2025/03/18/autel-maxicharger-ac-lite-limited-455-amazon-low/">Autel’s MaxiCharger AC Lite Home Level 2 EV Charger</a> down at a limited-supply <a href="https://9to5toys.com/2025/03/18/autel-maxicharger-ac-lite-limited-455-amazon-low/">$455</a> Amazon low, as well as <a href="https://9to5toys.com/2025/03/18/nexus-escape-400w-inverter-kit-new-249-low/">EGO’s Nexus Escape 400W Inverter Kit</a> that helps you get more usage out of your batteries, returning to its <a href="https://9to5toys.com/2025/03/18/nexus-escape-400w-inverter-kit-new-249-low/">$249</a> low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/03/17/anker-solix-spring-sale-c1000-bundle-999/">Anker SOLIX Spring Sale</a> offers, Tenways’ <a href="https://9to5toys.com/2025/03/17/up-to-895-off-tenways-e-bikes-from-1499/">$895 in e-bike savings</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="406398" href="https://electrek.co/2025/03/18/jackery-sustainable-power-sale-heybike-mars-2-0-899-low-autel-ego-more/#more-406398" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/jackery-sustainable-power-sale-heybike-mars-2-0-899-low-autel-ego-more/>
+
+---
+
+## Several Tesla vehicles burned down in Las Vegas and Kansas City, arson suspected
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Las-Vegas-fire.png?w=1600" /></div><p>Several Tesla vehicles were set on fire at Tesla service center in Las Vegas. More Tesla vehicles were also set on fire in Kansas, arson is also suspected in this case, but it’s not confirmed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406417" href="https://electrek.co/2025/03/18/several-tesla-vehicles-burned-down-in-las-vegas-and-kansas-city-arson-suspected/#more-406417" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/several-tesla-vehicles-burned-down-in-las-vegas-and-kansas-city-arson-suspected/>
+
+---
+
+## Tesla’s Conservative Appeal Is Up. But It Might Not Matter
+
+date: 2025-03-18, from: Inside EVs News
+
+Elon Musk's political posturing may have improved Tesla's standing with conservatives, but that likely won't be enough to pick up lost sales. 
+
+<br> 
+
+<https://insideevs.com/news/753926/tesla-liberal-conservative-centrist-survey/>
+
+---
+
+## Rivian CEO shows off R2 body progress ahead of production
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-R2-body-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian is plowing ahead with its new midsize R2 electric SUV. As it gears up for production, Rivian’s CEO, RJ Scaringe, gave us a sneak peek at <a href="https://electrek.co/guides/rivian-r2/">the R2</a> body being built with production dies.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="406419" href="https://electrek.co/2025/03/18/rivian-ceo-shows-off-r2-body-progress-ahead-of-production/#more-406419" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/rivian-ceo-shows-off-r2-body-progress-ahead-of-production/>
+
+---
+
+## Volkswagen’s ID.1 entry-level EV will be here sooner than expected, thanks to Rivian
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Volkswagens-cheapest-EV-GTI.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> is gearing up to launch its new entry-level EV, the ID.1. The new electric car will be its cheapest so far, starting at under $22,000 (20,000 euros). It will also kick off a new “software-defined” era at VW. Thanks to its partnership with <a href="https://electrek.co/guides/rivian/">Rivian</a>, Volkswagen’s first SDV, the ID.1, will be here even sooner than expected.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,volkswagen" data-layer-viewtype="unknown" data-post-id="406387" href="https://electrek.co/2025/03/18/volkswagen-id-1-arriving-sooner-than-expected-thanks-to-rivian/#more-406387" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/volkswagen-id-1-arriving-sooner-than-expected-thanks-to-rivian/>
+
+---
+
+## Elon Musk’s biggest lie: Tesla vehicles are now appreciating assets
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-killer.png?w=1600" /></div><p>Elon Musk’s biggest lie has probably been that Tesla vehicles are now “appreciating assets.” Not only are Tesla vehicles depreciating at a faster rate than the rest of the market, but the lie was also connected to Musk’s pie-in-the-sky self-driving predictions.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="406308" href="https://electrek.co/2025/03/18/elon-musk-biggest-lie-tesla-vehicles-appreciating-assets/#more-406308" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/elon-musk-biggest-lie-tesla-vehicles-appreciating-assets/>
+
+---
+
+## BYD's New 'Megawatt' EV Charging Is So Fast It Makes Gas Irrelevant
+
+date: 2025-03-18, from: Inside EVs News
+
+Vehicles built on this platform will be able to add 249 miles of range in just five minutes, marking a turning point for electric cars. 
+
+<br> 
+
+<https://insideevs.com/news/753913/byd-ev-one-megawatt-charging/>
+
+---
+
+## ZEEKR launches first door-to-door Level 3 autonomous driving technology
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/ZEEKR-autonomous-GAES.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV automaker ZEEKR held a live event in China today, unveiling several new forms of autonomous driving technology. The company launched a new smart driving solution called G-Pilot, which will enable Level 3 <a href="https://electrek.co/guides/autonomous-driving/">autonomous driving</a> in one of its upcoming EV models before expanding to others.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-driving,autonomous-vehicle,zeekr" data-layer-viewtype="unknown" data-post-id="406391" href="https://electrek.co/2025/03/18/zeekr-launches-first-door-to-door-level-3-autonomous-driving-technology/#more-406391" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/zeekr-launches-first-door-to-door-level-3-autonomous-driving-technology/>
+
+---
+
+## Hyundai is about to shake things up its new ‘Pleos’ brand: Here’s what we know so far
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-Pleos-brand.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><span style="margin: 0px; padding: 0px;">In less than two wee</span>ks, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> will unveil its “groundbreaking” new Pleos brand. The brand will introduce advanced new software and tech that will be used in upcoming Hyundai, Kia, and Genesis vehicles. We will also get our first look at its new development platform. Here’s what we know about Hyundai Pleos so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="406337" href="https://electrek.co/2025/03/18/hyundai-shake-things-up-with-new-pleos-brand-coming-soon/#more-406337" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/hyundai-shake-things-up-with-new-pleos-brand-coming-soon/>
+
+---
+
+## Xiaomi hits 200,000 EV deliveries in a scorching 119 days and raises 2025 target
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Xiaomi-deliveries-200k.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Young EV automaker <a href="https://electrek.co/guides/xiaomi-automobile/">Xiaomi Automotive</a> continues to showcase that it is a force to be reckoned with in China. The automotive division of the massive electronics manufacturer Xiaomi Corporation recently hit 200,000 EV deliveries in record time. As such, the automaker has increased its delivery targets for 2025 as its second all-electric model looks to hit the market this summer.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,xiaomi,xiaomi-automobile" data-layer-viewtype="unknown" data-post-id="406370" href="https://electrek.co/2025/03/18/xiaomi-hits-200000-ev-deliveries-119-days-raises-2025-target/#more-406370" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/xiaomi-hits-200000-ev-deliveries-119-days-raises-2025-target/>
+
+---
+
+## NIO and CATL form new partnership to build the world’s largest battery swap network
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/NIO-battery-swap-network.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>This week, prominent Chinese EV automaker NIO and <a href="https://electrek.co/guides/catl/">CATL</a>, the world’s leading battery manufacturer, announced a new strategic partnership to combine and standardize their respective industries technologies and implement the “largest and most advanced battery swap network for passenger vehicles.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-swap,catl,china,nio" data-layer-viewtype="unknown" data-post-id="406340" href="https://electrek.co/2025/03/18/nio-and-catl-form-new-partnership-to-build-the-worlds-largest-battery-swap-network/#more-406340" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/nio-and-catl-form-new-partnership-to-build-the-worlds-largest-battery-swap-network/>
+
+---
+
+## Tesla (TSLA) stock crash on new data from China: here’s what’s happening
+
+date: 2025-03-18, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s (TSLA) stock crashed by as much as 4% in pre-market trading on new data coming from China.</p>
+
+
+
+<p>Let’s dive into what’s happening.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="406336" href="https://electrek.co/2025/03/18/tesla-tsla-stock-crash-new-data-china-whats-happening/#more-406336" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/18/tesla-tsla-stock-crash-new-data-china-whats-happening/>
 
 ---
 

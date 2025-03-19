@@ -1,11 +1,109 @@
 ---
 title: writing
-updated: 2025-03-18 06:08:39
+updated: 2025-03-19 06:08:49
 ---
 
 # writing
 
-(date: 2025-03-18 06:08:39)
+(date: 2025-03-19 06:08:49)
+
+---
+
+## Create a Writing Submission Tracker in Scrivener
+
+date: 2025-03-19, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/create-a-writing-submission-tracker-in-scrivener>
+
+---
+
+## Anathema Call For Co-Editors
+
+date: 2025-03-18, from: Locus Magazine
+
+<p>Anathema has announced a call for co-editors via Bluesky, saying they are &#8220;moving forward with plans for Anathema 2.0, and we would like to bring on more co-editors who are committed to the magazine&#8217;s longevity.&#8221; New co-editors will produce the magazine with Liza Wemakor, Lysz Flo, and Plangdi Neple.</p>
+<p>Anathema: Spec from the Margins was launched in 2017 by Michael Matheson &#38; Andrew Wilmot. The publication received numerous accolades from  <a href="https://locusmag.com/2025/03/anathema-call-for-co-editors/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/anathema-call-for-co-editors/>
+
+---
+
+## 2025 Jhalak Prize Longlists
+
+date: 2025-03-18, from: Locus Magazine
+
+<p>The 12-title longlists for the Jhalak Prose Prize, Jhalak Children&#8217;s &#38; Young Adult Prize, and the new Jhalak Poetry Prize have been announced.</p>
+<p>The awards &#8220;seek to celebrate books by writers of colour in the UK and Ireland.&#8221; The prize awards £1000 to each winner, along with &#8220;a unique work of art created by artists chosen for the annual Jhalak Art Residency.&#8221;</p>
+<p>The longlist features several titles and authors of  <a href="https://locusmag.com/2025/03/2025-jhalak-prize-longlists/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/2025-jhalak-prize-longlists/>
+
+---
+
+## New Book Releases: 3/18/2025
+
+date: 2025-03-18, from: Locus Magazine
+
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of March 18, 2025. </strong></p>
+<p>Baumann, Joe: <b>A Thing Is Only Known When It&#8217;s Gone</b> (University of Wisconsin Press 978-0299348946, $18.95, 224pp, formats: paperback, ebook, 03/18/2025)</p>
+<p>Collection of 20 surreal, mostly queer, speculative stories, including flowers that bloom from someone&#8217;s body and a teacher  <a href="https://locusmag.com/2025/03/new-books-3-18-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/new-books-3-18-2025/>
+
+---
+
+## Lessons for Screenwriters from SXSW
+
+date: 2025-03-18, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/lessons-for-screenwriters-from-sxsw" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Good%20Boy%20-%20Indy%20in%20woods.png" alt="Image of a tan colored dog sitting behind a tree stump in the woods in 'Good Boy'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The South by Southwest Conference &amp; Festival, held annually in Austin, TX, crackles with a creative energy no other film festival can match, offering screenwriters lessons from its wildly diverse slate.<br><br>While studios were certainly present at the fest, with big-name sequels like <em>The Accountant 2</em> and <em>Another Simple Favor</em> nabbing splashy premieres, it also feels like a remarkably scrappy place. You’ll find swing-for-the-fences high-concept projects sharing space with adult animation series, self-funded comedy pilots paired with deeply personal autobiographical stories, and concepts so audaciously weird they shouldn’t work but somehow do.<br><br>I saw as many features, shorts, and pilots as possible and spoke with writers from projects of all sizes and genres, putting together some of this year’s common themes and hearing what they’ve learned.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/lessons-for-screenwriters-from-sxsw>
+
+---
+
+## Writing Action Set Pieces
+
+date: 2025-03-18, from: John August blog
+
+John welcomes back Christina Hodson (The Flash, Bumblebee) to ask, how do you to construct a great action sequence? Using examples from three different movies, they discuss what good action looks like on the page, how to keep your reader from getting bored or confused, and why production can sometimes blow your plans to smithereens. [&#8230;]
+The post <a href="https://johnaugust.com/2025/writing-action-set-pieces">Writing Action Set Pieces</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/680standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/680standard.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://johnaugust.com/2025/writing-action-set-pieces>
+
+---
+
+## The Dream Hotel by Laila Lalami: Review by Gary K. Wolfe
+
+date: 2025-03-18, from: Locus Magazine
+
+<p><strong>The Dream Hotel</strong>, Laila Lalami (Pantheon 978-0593317600, $29.00, 336pp, hc) March 2025.</p>
+<p>This may sound like an odd question, but are algorithms starting to take over the narrative func­tion that psi powers once served in SF? The idea of preventing crimes by pre-emptively arresting supposed perpetrators has been around at least since Orwell’s notion of ‘‘thoughtcrimes,’’ and in the 1950s this became the province of psioni­cally gifted folks like  <a href="https://locusmag.com/2025/03/the-dream-hotel-by-laila-lalami-review-by-gary-k-wolfe/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/the-dream-hotel-by-laila-lalami-review-by-gary-k-wolfe/>
 
 ---
 

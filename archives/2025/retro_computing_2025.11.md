@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-03-18 06:08:42
+updated: 2025-03-19 06:08:52
 ---
 
 # retro computing
 
-(date: 2025-03-18 06:08:42)
+(date: 2025-03-19 06:08:52)
+
+---
+
+## Vote for the March 2025 + Post Topic
+
+date: 2025-03-18, from: Computer ads from the Past
+
+Make your vote count. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-march-2025-post-topic>
+
+---
+
+## Q-Chess 1.0
+
+date: 2025-03-18, from: Hans Otten's Retro blog
+
+Q-Chess 1.0 is a chess program for the KIM-1, from around 1980. The programs requiresa a memory expansion of 8K at $2000. The chess board is displayed at a TVT-6 (Don Lancaster) video display alongside the KIM LED Display and Keypad. In 1981 Fer Weber, a member of the Dutch KIM User Club published an [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/q-chess-1-0/>
 
 ---
 
@@ -95,7 +119,7 @@ Late in the product cycle SSG management renamed the DEC XT to the DEC Professio
 
 When the release date in May came around, Olsen unexpectedly rolled out <em>four</em> microcomputers: the DECmate II and the two Professionals, as predicted, but also the previously unannounced DEC Rainbow 100 aimed directly at the IBM PC 5150. In his remarks at the press conference, Ken Olsen called DEC's personal computer initiative "the largest investment in people and manpower" the company had made in its 25 years of existence. All superficially related units, the industrial design of the four computers was strongly based on the DEC XT prototype. Each system used similar or identical cases, the same monitors, the same floppy drives, the same 103-key keyboard and mostly the same cables, though their guts of course were in some cases very different.
 <p>
-To industry observers' surprise, DEC uncharacteristically seemed to price the DECmate II and Rainbow to sell. The now 8MHz DECmate II had better hardware yet went for much less than the DECmate ($3745 [$12,600] compared to 1982's later price of $5845 [$19,700]), even considering it needed its own keyboard and monitor. However, what really startled people was the Rainbow. Introduced at $3495 [$11,700], DEC had already slashed it to $2675 [$9000] by the fall. At a time when a reasonably configured IBM PC system might set you back itself around $3500-ish in late 1982, with CPU, monochrome display, base 64K RAM and 180K floppy drive(s), a comparable Rainbow setup with 64K, baseline 400K RX50 5.25" dual drives and serial port, hybrid CP/M-86/80, LK201 keyboard and VR201 monochrome display came in at just over $3700 at the later pricing, with MS-DOS support on the way.<!-- Creative Computing 11/82 p30 --> Although the barebone 16K IBM PC started at $1565 [$5260], DEC wisely predicted most people would opt for the larger RAM.
+To industry observers' surprise, DEC uncharacteristically seemed to price the DECmate II and Rainbow to sell. The now 8MHz DECmate II had better hardware yet went for much less than the DECmate ($3745 [$12,600] compared to 1982's later price of $5845 [$19,700]), even considering it needed its own keyboard and monitor. However, what really startled people was the Rainbow. Introduced at $3495 [$11,700], DEC had already slashed it to $2675 [$9000] by the fall. At a time when a reasonably configured IBM PC system might set you back itself around $3500-ish in late 1982, with CPU, monochrome display, base 64K RAM and 180K floppy drive(s), a comparable Rainbow setup with 64K, baseline 400K RX50 5.25" dual drives and serial port, hybrid CP/M-86/80 &mdash; it had both a Zilog Z80 and an Intel 8088, and could automatically switch between them &mdash; LK201 keyboard and VR201 monochrome display came in at just over $3700 at the later pricing, with MS-DOS support on the way.<!-- Creative Computing 11/82 p30 --> Although the barebone 16K IBM PC started at $1565 [$5260], DEC wisely predicted most people would opt for the larger RAM.
 <p>
 Even the higher-end Professionals seemed to be aggressively priced, though admittedly mostly when compared to their mini ancestors, starting with the lowest-spec 325 at $3995 [$13,400]. Their 256K base of RAM came from the original 128K plus the 128K upgrade (both as daughtercards) which was now standard. The Professional 325, sold with four CTI slots and no hard disk option, was proudly cited in DEC's Professional Handbook as "the lowest cost PDP-11 system ever produced." However, the two upper tiers got expensive quickly: the midrange configuration, a 350 without a hard disk, was otherwise the same except for its six CTI slots and sold for $4995 [$16,800], and adding the 5MB hard disk and controller card pushed the total bill to $8495 [$28,500].
 <p>
@@ -221,7 +245,7 @@ With the logic board out, we see a daughtercard attached to it on the left, and 
 
 Removing the daughterboard, which sits on four plastic posts with little snaps on top, reveals several custom gate arrays, an Intel 27128 EPROM, a bank of 128K of RAM (seen as 64 kilowords) in sixteen 8264 64Kbit chips on the left, and a white hybrid with two smaller chips embedded in it.
 <p>
-The gate array marked DC363 at the top left is the video chip, and the 64kW of memory is the base framebuffer. This is the same setup that the 325 and 350 require a separate CTI card for, just with twice the memory; here the video hardware is integrated into the logic board as a phantom seventh CTI slot and addressed in the same way. It provides a single plane of a 60Hz 1024x240 or 50Hz  1024x256 bitmap (typical displayed resolution 960x256). The extra 32kW in the 380 can be displayed as another 256 rows for an interlaced 60Hz 1024x480 or 50Hz 1024x512 image, double the vertical resolution.
+The gate array marked DC363 at the top left is the video chip, and the 64kW of memory is the base framebuffer. This is the same setup that the 325 and 350 require a separate CTI card for, just with twice the memory; here the video hardware is integrated into the logic board as a phantom seventh CTI slot and addressed in the same way. It provides a single plane of a 60Hz 1024x240 or 50Hz 1024x256 bitmap (typical displayed resolution 960x240). The extra 32kW in the 380 can be displayed as another 256 rows for an interlaced 60Hz 1024x480 or 50Hz 1024x512 image, double the vertical resolution.
 <p>
 Next to the 64-pin daughtercard connector is another gate array marked DC362. This is the I/O interface gate array and handles all CTI bus activity, including DMA and IRQs. It also multiplexes the CPU boot ROM (the EPROM) so that the CPU gets full 16-bit words, handles all system interrupts, handles support for the maintenance terminal mode, and contains support logic and the baud rate clocking signal for the communications ports.
 <p>

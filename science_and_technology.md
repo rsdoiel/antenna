@@ -1,11 +1,443 @@
 ---
 title: science and technology
-updated: 2025-03-18 06:08:38
+updated: 2025-03-19 06:08:48
 ---
 
 # science and technology
 
-(date: 2025-03-18 06:08:38)
+(date: 2025-03-19 06:08:48)
+
+---
+
+## Datacenter vacancies hit record low as power shortages stall projects
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Supply chain and tariffs issues could spell trouble across multiple markets, warns JLL</h4> <p><strong>Analysis</strong>  ​Despite ongoing construction efforts, the North American colocation datacenter market is grappling with record-high occupancy rates. This surge in demand, coupled with delays in new projects due to electricity shortages, has created a challenging environment for both developers and customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/datacenter_vacancy_record_low/>
+
+---
+
+## 'Once in a lifetime' IT outage at city council hit datacenter, but no files lost
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Services still down and out, but techies working for local government saved the day</h4> <p>Nottingham City Council continues to deal with the fallout from its freak IT outage from last week as it confirms in-house IT specialists managed to prevent any data from going missing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/nottingham_outage_sitrep/>
+
+---
+
+## Schneider Electric plugs into AI's power hunger with Nvidia digital twin tech
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Because guesswork won&#39;t keep the lights on</h4> <p><strong>GTC</strong>  Schneider Electric has developed a digital twin system to simulate how an AI datacenter operates in order to accurately design for the appropriate power requirements.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/schneider_electric_nvidia_digital_twin/>
+
+---
+
+## Ubuntu 25.10 plans to swap GNU coreutils for Rust
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>It&#39;s easier to replace bits of userland than the kernel</h4> <p>Efforts are afoot to replace the GNU coreutils with Rust ones in the version after next of Ubuntu, 25.10 – which also means changing the software license.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/ubuntu_2510_rust/>
+
+---
+
+## Brit supermarket finds breaking up is hard to do as Walmart-Asda divorce stretches into fourth year
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>&#39;Three-year&#39; tech support deal still running</h4> <p>The UK&#39;s third-largest grocery retailer is set to finish its &#34;three-year&#34; tech divorce project from Walmart in the third quarter of 2025, while most project staff have been moved on.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/asda_walmart_tech_divorce/>
+
+---
+
+## Show top LLMs buggy code and they'll finish off the mistakes rather than fix them
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>One more time, with feeling ... Garbage in, garbage out, in training and inference</h4> <p>Researchers have found that large language models (LLMs) tend to parrot buggy code when tasked with completing flawed snippets.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/llms_buggy_code/>
+
+---
+
+## Boffins 3D-print artificial iris muscle that flexes both ways
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>If this light-activated stuff works, it could make building robots easier - or make lazing about under the Sun quite a workout</h4> <p>Bioengineers have pulled together to get artificial muscles pulling in multiple directions, an important step towards using them in medical treatments and robots.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/mit_boffins_3d_print_iris_muscle/>
+
+---
+
+## Non-x86 servers boom even faster than the rest of the AI-infused and GPU-hungry market
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Analyst finds 91 percent revenue growth with white box makers leading the way</h4> <p>Here’s another thing AI can do: Increase revenue from selling servers by 91 percent year-over year, according to analyst firm IDC.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/idc_server_market_share/>
+
+---
+
+## China's EV champ BYD reveals super-fast charging that leaves Tesla eating dust
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Apparently boosts battery to 20 km range in 10 seconds, although as ever ... YMMV</h4> <p>Chinese electric automaker BYD has announced 1,000-volt supercharging technology it claims can fill a compatible vehicle’s battery in the same amount of time needed to pump fuel into a conventional car.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/byd_megawatt_ev_charging/>
+
+---
+
+## Trump fires Democrat FTC commissioners, presaging big tech policy shifts
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Remaining Republicans don&#39;t like the right to repair, non-compete clause ban, or some social media moderation</h4> <p><strong>Analysis</strong>  In a surprise Tuesday move, US President Donald Trump fired the two remaining Democratic commissioners at the Federal Trade Commission, potentially accelerating a shift in the consumer and competition watchdog&#39;s stance towards tech and other businesses.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/trump_ftc_fired/>
+
+---
+
+## Sols 4481-4483: Humber Pie
+
+date: 2025-03-19, from: NASA breaking news
+
+Written by Michelle Minitti, Planetary Geologist at Framework Earth planning date: Friday, March 14, 2025 The rover successfully arrived at the “Humber Park” outcrop which, on this fine “Pi Day” on Earth, we could convince ourselves looked like a pie with a sandy interior and a rough and rocky crust. We can only hope our […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4481-4483-humber-pie/>
+
+---
+
+## Nvidia's Vera Rubin CPU, GPU roadmap charts course for hot-hot-hot 600 kW racks
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Now that&#39;s what we call dense floating-point compute</h4> <p><strong>GTC</strong>  Nvidia&#39;s rack-scale compute architecture is about to get really hot.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/nvidia_charts_course_for_600kw/>
+
+---
+
+## Do AI robo-authors qualify for copyright? It's still no, says appeals court
+
+date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Computer scientist Stephen Thaler again told his &#39;Creativity Machine&#39; can&#39;t earn a ©</h4> <p>The US Court of Appeals for the District of Columbia Circuit has affirmed a lower court ruling that content created by an AI model without human input cannot be copyrighted.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/appeals_court_says_ai_authors/>
+
+---
+
+## After 47 years, OpenVMS gets a package manager
+
+date: 2025-03-18, from: OS News
+
+As of the 18th of February, OpenVMS, known for its stability and high-availability, 47 years old and ported to 4 different CPU architecture, has a package manager! This article shows you how to use the package manager and talks about a few of its quirks. It&#8217;s an early beta version, and you do notice that when using it. A small list of things I noticed, coming from a Linux (apt/yum/dnf) background: There seems to be no automatic dependency resolution and the dependencies it does list are incomplete. No update management yet, no removal of packages and no support for your own package repository, only the VSI official one. Service startup or login script changes are not done automatically. Packages with multiple installer files fail and require manual intervention. It does correctly identify the architectures, has search support and makes it way easier to install software. The time saved by downloading, manually copying and starting installation is huge, so even this early beta is a very welcome addition to OpenVMS. ↫ Remy van Elst Obviously, a way to install software packages without having to manually download them is a huge step forward for OpenVMS. The listed shortcomings might raise some eyebrows considering most of us are used to package management on Linux/BSD, which is far more advanced. Bear in mind, however, that this is a beta product, and it&#8217;s quite obvious these missing essential features will be added over time. Luckily it at least lists dependencies, so let&#8217;s hope actually automating installing them is in the works and will be available soon. I actually have an OpenVMS virtual machine set up and running, but I find using it incredibly difficult &#8211; but only because of my own lack of experience with and knowledge about OpenVMS, of course. Any experience of knowledge rooted in UNIX-based and Windows operating systems is useless here, even for the most basic of CLI tasks. If I find the time, I&#8217;d love to spend more time with it and get more acquainted with the way it works, including this new package manager. 
+
+<br> 
+
+<https://www.osnews.com/story/141953/after-47-years-openvms-gets-a-package-manager/>
+
+---
+
+## Welcome Home! NASA’s SpaceX Crew-9 Back on Earth After Science Mission
+
+date: 2025-03-18, from: NASA breaking news
+
+NASA’s SpaceX Crew-9 completed the agency’s ninth&#160;commercial crew rotation mission to the International Space Station on Tuesday, splashing down safely in a SpaceX Dragon spacecraft off the coast of Tallahassee, Florida, in the Gulf of America. NASA astronauts Nick Hague, Suni Williams, and Butch Wilmore, and Roscosmos cosmonaut Aleksandr Gorbunov,&#160;returned to Earth at 5:57 p.m. [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/welcome-home-nasas-spacex-crew-9-back-on-earth-after-science-mission/>
+
+---
+
+## Pebble unveils new devices, and strongly suggests you dump iOS for Android
+
+date: 2025-03-18, from: OS News
+
+It&#8217;s barely been two months after the announcement that Pebble would return with new watches, and they&#8217;re already here &#8211; well, sort of. Pebble has announced two new watches for preorder, the Core 2 Duo and the Core Time 2. The former is effectively a Pebble 2, upgraded with new internals, while the Core Time 2 is very similar, but comes with a colour e-ink display and a metal case. They&#8217;re up for preorder now at $149 and $225, respectively, with the Core 2 Duo shipping in July, and the Core Time 2 shipping in December. Alongside this unveil, Eric Migicovsky, the creator of Pebble, also published a blog post detailing the trouble Pebble is and will have with making smartwatches for iOS users. Apple effectively makes it impossible for third parties to make a proper smartwatch for iOS, since access to basic functionality you&#8217;d come to expect from such a device are locked by Apple, reserved only for its own Apple Watch. As such, Migicovsky makes it explicitly clear that iOS users who want to buy one of these new Pebbles will are going to have a very degraded experience compared to Android users. Not only will Android users with Pebble have access to a ton more functionality, any Pebble features that could exist for both Android and iOS users will always come to Android first, and possibly iOS later. In fact, Migicovksy goes as far as suggesting that if you want a Pebble, you should buy an Android phone. I don’t want to see any tweets or blog posts or complaints or whatever later on about this. I’m publishing this now so you can make an informed decision about whether to buy a new watch or not. If you’re worried about this, the easiest solution is to buy an Android phone. ↫ Eric Migicovsky I have to hand it to Migicovksy &#8211; I love the openness about this, and the fact he&#8217;s making this explicitly clear to any prospective buyers. There&#8217;s no sugarcoating or PR speak to try and please Tim Cook &#8211; he&#8217;s putting the blame squarely where it belongs: on Apple. It&#8217;s kind of unreal to see such directness about a new product, but as a Dutch person, it feels quite natural. We need more of this style of communication in the technology world, as it makes it much clearer that you&#8217;re getting &#8211; and not getting. I do hope that Pebble&#8217;s Android support functions without the need for Google Play Services or other proprietary Google code, since it would be great to have a proper, open source smartwatch fully supported by de-Googled Android. 
+
+<br> 
+
+<https://www.osnews.com/story/141951/pebble-unveils-new-devices-and-strongly-suggests-you-dump-ios-for-android/>
+
+---
+
+## CISA fires, now rehires and immediately benches security crew on full pay
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>DOGE efficiency in action</h4> <p>The upheaval at the US government&#39;s Cybersecurity and Infrastructure Security Agency, aka CISA, took another twist on Tuesday, as it moved to reinstate staffers it had fired over the past few weeks - specifically those still in their probationary period - though they&#39;ve been benched on paid leave for now.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/cisa_rehired_doge/>
+
+---
+
+## Dell delivers monster 20-petaFLOPS desktop built on Nvidia's GB300 Superchip
+
+date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>HPE and Lenovo also have plans to put Jensen&#39;s latest hardware to work</h4> <p><strong>GTC</strong>  The age of the 20-petaFLOPS desktop is upon us as Dell announced a machine capable of achieving that massive processing power today at Nvidia&#39;s <a target="_blank" href="https://www.theregister.com/special_features/nvidia_gtc/">GPU Technology Conference</a> in Silicon Valley.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/gtc_dell_lenovo_hpe_news/>
+
+---
+
+## Enlightenment 0.27.1 released
+
+date: 2025-03-18, from: OS News
+
+A few months after 0.27.0 was released, we&#8217;ve got a small update for Enlightenment today, version 0.27.1. It&#8217;s a short list of bugfixes, and one tiny new feature: you can now use the scroll wheel to change the volume when your cursor is hovering over the mixer controls. That&#8217;s it. That&#8217;s the release. 
+
+<br> 
+
+<https://www.osnews.com/story/141949/enlightenment-0-27-1-released/>
+
+---
+
+## NASA Science Continues After Firefly’s First Moon Mission Concludes
+
+date: 2025-03-18, from: NASA breaking news
+
+After landing on the Moon with NASA science and technology demonstrations March 2, Firefly Aerospace’s Blue Ghost Mission 1 concluded its mission March 16. Analysis of data returned to Earth from the NASA instruments continues, benefitting future lunar missions. As part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign, Firefly’s Blue Ghost [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-science-continues-after-fireflys-first-moon-mission-concludes/>
+
+---
+
+## NASA, USGS, Industry Explore Off-World Resource Development
+
+date: 2025-03-18, from: NASA breaking news
+
+NASA and the U.S. Geological Survey (USGS) welcomed a community of government, industry, and international partners to explore current technology needs around natural resources – both on Earth and “off world.” During a workshop held in February at NASA’s Ames Research Center in California’s Silicon Valley, participants discussed technologies that will improve the ability to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-usgs-industry-explore-off-world-resource-development/>
+
+---
+
+## Nvidia wants to put a GB300 Superchip on your desk with DGX Station, Spark PCs
+
+date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Or a 96 GB RTX PRO in your desktop or server</h4> <p><strong>GTC</strong>  After a Hopper hiatus, Nvidia&#39;s DGX Station returns, now armed with an all-new desktop-tuned Grace-Blackwell Ultra Superchip capable of churning out 20 petaFLOPS of AI performance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/gtc_frame_nvidias_budget_blackwell/>
+
+---
+
+## Nvidia punts silicon photonic switches to keep GPUs fed with data
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>Power sipping bandwidth bottleneck busters – or that&#39;s the hope, anyway</h4> <p><strong>GTC</strong>  Nvidia is set to make available Ethernet and InfiniBand switches featuring silicon photonics with co-packaged optics to advance its vision of datacenters with &#34;millions of GPUs,&#34; arguing that the equipment can keep power consumption down.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/nvidia_punts_silicon_photonic_switches/>
+
+---
+
+## We heard you like HBM – Nvidia's Blackwell Ultra GPUs have 288 GB of it
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>There goes AMD&#39;s capacity advantage</h4> <p><strong>GTC</strong>  Nvidia&#39;s Blackwell GPU architecture is barely out of the cradle – and the graphics chip giant is already looking to extend its lead over rival AMD with an Ultra-themed refresh of the technology.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/nvidia_blackwell_ultra/>
+
+---
+
+## Amazon accused of using algorithms to push warehouse workers to breaking point
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>Web souk hits back at critical study into union drive at package depot</h4> <p>Amazon has used tricks, algorithms, and surveillance to discourage warehouse employees from unionizing, according to a paper published in the journal Socius.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/amazon_algorithmic_worker_management/>
+
+---
+
+## US tech jobs outlook clouded by DOGE cuts, Trump tariffs
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>Hiring remains relatively strong as analysts warn of slowdown</h4> <p>A pair of reports on tech sector employment trends in the United States suggest out-of-work techies right now have relatively decent prospects, but economic uncertainty and rapid policy changes initiated by the Trump administration mean the future job market looks less rosy.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/us_tech_jobs_outlook/>
+
+---
+
+## NASA’s SpaceX Crew-9 Members Pose for Portrait
+
+date: 2025-03-18, from: NASA breaking news
+
+NASA astronauts Butch Wilmore, Nick Hague, and Suni Williams, and Roscosmos cosmonaut Aleksandr Gorbunov – the members of NASA&#8217;s SpaceX Crew-9 mission – smile at the camera in this Feb. 19, 2025, photo. While aboard the International Space Station, Hague, Williams, and Wilmore completed more than 900 hours of research between more than 150 unique [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-spacex-crew-9-members-pose-for-portrait/>
+
+---
+
+## NASA Invites Media to View Wildland Fire Technology Flight Test
+
+date: 2025-03-18, from: NASA breaking news
+
+NASA will conduct a live flight test of aircraft performing simulated wildland fire response operations using a newly developed airspace management system at 9 a.m. PDT on Tuesday, March 25, in Salinas, California. NASA’s new portable airspace management system, part of the agency’s Advanced Capabilities for Emergency Response Operations (ACERO) project, aims to significantly expand [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-view-wildland-fire-technology-flight-test/>
+
+---
+
+## Raspberry Pi RP2350 microcontroller now available to mere mortals
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>For when a Pico 2 is just too general purpose</h4> <p>The Raspberry Pi RP2350 microcontroller is generally available, meaning the chip can now be picked up from resellers rather than as a Pico 2 or on PCBs from manufacturers like JLC.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/raspberry_rp2350_microcontroller_now_available/>
+
+---
+
+## Vivaldi 7.2 browser wants to topple tech's feudal lords
+
+date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Tall order for tiny market share techies but &#39;this is the moment to decide what kind of internet we want,&#39; says CEO</h4> <p>A new, speedier browser has arrived in the form of Vivaldi 7.2, giving its CEO the opportunity to protest the power of tech giants.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/vivaldi_72/>
+
+---
+
+## NASA Invites Media to 62nd Annual Goddard Space Science Symposium
+
+date: 2025-03-18, from: NASA breaking news
+
+Media are invited to meet leaders in the space community during the 62nd annual Goddard Space Science Symposium, taking place from Wednesday, March 19, to Friday, March 21, at Martin’s Crosswinds in Greenbelt, Maryland. The symposium will also be streamed online. Hosted by the American Astronautical Society (AAS) in conjunction with NASA’s Goddard Space Flight [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-62nd-annual-goddard-space-science-symposium/>
+
+---
+
+## Microsoft isn't fixing 8-year-old shortcut exploit abused for spying
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>&#39;Only&#39; a local access bug but important part of N Korea, Russia, and China attack picture</h4> <p>An exploitation avenue found by Trend Micro in Windows has been used in an eight-year-long spying campaign, but there&#39;s no sign of a fix from Microsoft, which apparently considers this a low priority.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/microsoft_trend_flaw/>
+
+---
+
+## Oracle JDK 24 appears in rare alignment of version and feature count
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>The 24 JDK Enhancement Proposals in Java 24 represent a stochastic sign</h4> <p>Oracle JDK 24 debuted on Tuesday with 24 JDK Enhancement Proposals, or JEPs as they&#39;re known in the Java programming community.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/oracle_jdk_24/>
+
+---
+
+## Observing Storms from Skylab
+
+date: 2025-03-18, from: NASA breaking news
+
+Skylab 3 astronauts witnessed many spectacular sights during their 858 orbital trips around the Earth in the summer of 1973. One involved watching powerful Hurricane Ellen take shape off the West African coast. “There’s a nice storm down there. She looks pretty big. She’s got a lot of clouds,” said astronaut Alan L. Bean upon [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/observing-storms-from-skylab/>
+
+---
+
+## Atomic Layer Processing Coating Techniques Enable Missions to See Further into the Ultraviolet
+
+date: 2025-03-18, from: NASA breaking news
+
+Astrophysics observations at ultraviolet (UV) wavelengths often probe the most dynamic aspects of the universe. However, the high energy of ultraviolet photons means that their interaction with the materials that make up an observing instrument are less efficient, resulting in low overall throughput. New approaches in the development of thin film coatings are addressing this […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/atomic-layer-processing-coating-techniques-enable-missions-to-see-further-into-the-ultraviolet/>
+
+---
+
+## Google acquisition target Wiz links fresh supply chain attack to 23K pwned GitHub repos
+
+date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+
+<h4>Ad giant just confirmed its cloudy arm will embrace security shop in $30B deal</h4> <p>Infoseccers at Google acquisition target Wiz think they&#39;ve found the root cause of the GitHub supply chain attack that unfolded over the weekend, and they say that a separate attack may have been to blame.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/18/wiz_github_supply_chain/>
 
 ---
 
@@ -25,7 +457,7 @@ date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
 date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
-<h4>There&#39;s nothing bog-standard about this bombshell loo-suit</h4> <p>Rival HR technology unicorns are at each other&#39;s throats in a courtroom brawl over alleged corporate espionage.…</p> 
+<h4>There&#39;s nothing bog-standard about this bombshell loo-suit</h4> <p><strong>Updated</strong>  Rival HR technology unicorns are at each other&#39;s throats in a courtroom brawl over alleged corporate espionage.…</p> 
 
 <br> 
 
@@ -37,7 +469,7 @@ date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
 date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
-<h4>Govt wants to learning mistakes of serially breached record holders so it can, er, liberalize data sharing regs under new law</h4> <p>The UK government is inviting experts to provide insights about the data brokerage industry and the potential risks it poses to national security as it moves to push new data-sharing legislation over the line.…</p> 
+<h4>Govt yearns to learn mistakes of serially breached record holders so it can, er, liberalize data sharing regs</h4> <p>The UK government is inviting experts to provide insights about the data brokerage industry and the potential risks it poses to national security as it moves to push new data-sharing legislation over the line.…</p> 
 
 <br> 
 
@@ -71,9 +503,9 @@ date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
 ## AI crawlers haven't learned to play nice with websites
 
-date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
 
-<h4>SourceHut says it&#39;s getting DDoSed by LLM bots</h4> <p>SourceHut, an open source git-hosting service, says web crawlers for AI companies are slowing down services through their excessive demands for data.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>SourceHut says it&#39;s getting DDoSed by LLM bots</h4> <p>SourceHut, an open-source-friendly git-hosting service, says web crawlers for AI companies are slowing down services through their excessive demands for data.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -109,7 +541,7 @@ date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
 date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
-<h4>One PUT request, one poisoned session file, and the server’s yours</h4> <p>A trivial flaw in Apache Tomcat that allows remote code execution and access to sensitive files is said to be under attack in the wild within a week of its disclosure.…</p> 
+<h4>One PUT request, one poisoned session file, and the server’s yours</h4> <p><strong>Updated</strong>  A trivial flaw in Apache Tomcat that allows remote code execution and access to sensitive files is said to be under attack in the wild within a week of its disclosure.…</p> 
 
 <br> 
 

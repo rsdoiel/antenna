@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-03-18 06:08:42
+updated: 2025-03-19 06:08:52
 ---
 
 # motorcycles
 
-(date: 2025-03-18 06:08:42)
+(date: 2025-03-19 06:08:52)
+
+---
+
+## Fellow Shorties, The Yamaha Ténéré 700 of Your Dreams Isn't Out of Reach
+
+date: 2025-03-19, from: Ride Apart, Electric Motorcycle News
+
+Tap your favorite iron horse jockey on the shoulder and let them know. 
+
+<br> 
+
+<https://www.rideapart.com/news/753927/yamaha-tenere-700-low-accessories/>
+
+---
+
+## EV Motorcycle Maker Energica Is About to Be Auctioned Off, and It's a Steal
+
+date: 2025-03-19, from: Ride Apart, Electric Motorcycle News
+
+And the asking price ain't that much. 
+
+<br> 
+
+<https://www.rideapart.com/news/753921/energica-motorcycle-electric-ev-auction/>
+
+---
+
+## Is Buying the Absolute Cheapest Snowmobile Ever a Good Idea?
+
+date: 2025-03-19, from: Ride Apart, Electric Motorcycle News
+
+It's probably worse than you think. 
+
+<br> 
+
+<https://www.rideapart.com/news/753816/worlds-cheapest-snowmobile/>
+
+---
+
+## These Three New Electric Porsches All Cost Under $15,000, Making Them a Steal
+
+date: 2025-03-19, from: Ride Apart, Electric Motorcycle News
+
+There's just one catch, though, and you may already have spotted it. 
+
+<br> 
+
+<https://www.rideapart.com/news/753808/porsche-ebikes-performance-pricing-components/>
+
+---
+
+## Selling Public Lands to Fix the Housing Crisis Is a Lie, Don't Believe It
+
+date: 2025-03-19, from: Ride Apart, Electric Motorcycle News
+
+It's so easily fact-checked, but I'm not shocked they're parroting it. 
+
+<br> 
+
+<https://www.rideapart.com/news/753906/doi-hud-public-land-sell-off-housing-crisis/>
+
+---
+
+## 2025 Suzuki GSX-S1000GX Gets Sleek And Sporty New Colors, But Only In Japan
+
+date: 2025-03-18, from: Ride Apart, Electric Motorcycle News
+
+Shades of black and red give the otherwise vanilla sport-tourer some added flair. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753664/suzuki-gsx-s1000gx-new-colors-exclusive-japan/>
 
 ---
 

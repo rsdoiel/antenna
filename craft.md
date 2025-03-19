@@ -1,11 +1,35 @@
 ---
 title: craft
-updated: 2025-03-18 06:08:43
+updated: 2025-03-19 06:08:53
 ---
 
 # craft
 
-(date: 2025-03-18 06:08:43)
+(date: 2025-03-19 06:08:53)
+
+---
+
+## Just What is ‘Artisan Geometry?’
+
+date: 2025-03-19, from: Lost Arg Press blog
+
+&#8220;Artisan Geometry&#8221; is the overarching term used to describe the design approach in the five Lost Art Press books by Jim Tolpin and George Walker. We often get asked to explain it, and to recommend one or more of their books with which to get started. We decided those questions would be better answered by... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/19/just-what-is-artisan-geometry/>
+
+---
+
+## Grandpa Sam’s Woodshop of the Air
+
+date: 2025-03-18, from: Lost Arg Press blog
+
+The following is an excerpt from &#8220;Calvin Cobb: Radio Woodworker! A Novel With Measured Drawings&#8221; by Roy Underhill. Across the studio, behind a grove of microphones on stands, the piano sat silent under a quilted cover like a sleeping racehorse. Calvin leaned forward in his chair staring at it, trying to strike an intense, artistic... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/18/grandpa-sams-woodshop-of-the-air-2/>
 
 ---
 

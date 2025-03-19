@@ -1,11 +1,88 @@
 ---
 title: journalism
-updated: 2025-03-18 06:08:40
+updated: 2025-03-19 06:08:50
 ---
 
 # journalism
 
-(date: 2025-03-18 06:08:40)
+(date: 2025-03-19 06:08:50)
+
+---
+
+## DOJ files statement of interest supporting plaintiffs in UCLA antisemitism lawsuit
+
+date: 2025-03-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The United States Department of Justice filed a statement of interest Monday in support of three Jewish students and a faculty member in their lawsuit against UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/18/doj-files-statement-of-interest-supporting-plaintiffs-in-ucla-antisemitism-lawsuit/>
+
+---
+
+## Protesters rally on day 1 of UC Regents meetings to denounce Israeli airstrikes
+
+date: 2025-03-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+Around 150 people protested outside a UC Board of Regents meeting Tuesday to call for divestment from companies associated with the Israeli military and condemn the continuation of the Israeli military’s bombing of the Gaza Strip.&#160;
+The protest – led by organizations including Students for Justice in Palestine at UCLA and the Palestinian Youth Movement’s Los Angeles, Orange County and Inland Empire chapter – began with a noon press conference in front of the Meyer and Renee Luskin Conference Center, where the regents are meeting from Tuesday to Thursday. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/18/protesters-rally-on-day-1-of-uc-regents-meetings-to-denounce-israeli-airstrikes/>
+
+---
+
+## Brahmas march for education in Sacramento
+
+date: 2025-03-19, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Students march forth in the fight for the better colleges LACCD students and faculty march on the State’s Capitol with support from AFT Los Angeles</p>
+<p>The post <a href="https://theroundupnews.com/2025/03/18/brahmas-march-for-education-in-sacramento/">Brahmas march for education in Sacramento</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/03/18/brahmas-march-for-education-in-sacramento/?utm_source=rss&utm_medium=rss&utm_campaign=brahmas-march-for-education-in-sacramento>
+
+---
+
+## Speakers raise discrimination concerns at LACCD Board of Trustees meeting
+
+date: 2025-03-19, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Criticisms of the Los Angeles Community College District’s Human Resources department were  brought up at a Board of Trustees meeting on March 5, due to</p>
+<p>The post <a href="https://theroundupnews.com/2025/03/18/speakers-raise-discrimination-concerns-at-laccd-board-of-trustees-meeting/">Speakers raise discrimination concerns at LACCD Board of Trustees meeting</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/03/18/speakers-raise-discrimination-concerns-at-laccd-board-of-trustees-meeting/?utm_source=rss&utm_medium=rss&utm_campaign=speakers-raise-discrimination-concerns-at-laccd-board-of-trustees-meeting>
+
+---
+
+## Wired’s un-paywalling of stories built on public data is a reminder of its role in the information ecosystem
+
+date: 2025-03-18, from: Nieman Journalism Lab
+
+The federal government does a lot of things. It lifts millions of seniors out of poverty! It forecasts avalanches! It invades foreign countries based on dubious intelligence! It determines what time it is! And when it&#8217;s got a spare moment, it protects the Constitution — or at least one copy of it. If you set... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/wireds-un-paywalling-of-stories-built-on-public-data-is-a-reminder-of-that-datas-role-in-the-information-ecosystem/>
+
+---
+
+## New York Times bundles give European publishers a subscription boost
+
+date: 2025-03-18, from: Nieman Journalism Lab
+
+The “Trump bump” isn’t just for news publishers in the United States. Last fall, four European news publishers sweetened their subscription deals by offering complimentary access to The New York Times, with the idea that their readers might want more expansive U.S. election coverage. Premium subscribers to news outlets like El País (Spain), Politiken (Denmark),... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/new-york-times-bundles-gives-european-publishers-a-subscription-boost/>
 
 ---
 

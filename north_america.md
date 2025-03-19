@@ -1,11 +1,374 @@
 ---
 title: north america
-updated: 2025-03-18 06:08:35
+updated: 2025-03-19 06:08:46
 ---
 
 # north america
 
-(date: 2025-03-18 06:08:35)
+(date: 2025-03-19 06:08:46)
+
+---
+
+## Why private equity has taken an interest in pro sports
+
+date: 2025-03-19, from: Market Place
+
+The San Francisco Giants are selling a 10% ownership stake to private equity firm Sixth Street. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/san-francisco-giants-private-equity-pro-sports/>
+
+---
+
+## The Constitutional Crisis May be Upon Us
+
+date: 2025-03-19, from: The Contrarian
+
+With Trump openly challenging the courts, democracy defenders must draw a line in the sand 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-constitutional-crisis-may-be>
+
+---
+
+## Help for foster youth is available — if you can find it
+
+date: 2025-03-18, from: Market Place
+
+Apps and in-person organizations help foster youth find out about the rights and benefits they’re entitled to — even after they've "aged out." 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/foster-care-youth-resources-support-services-advocates-age-out-medicaid-child-welfare-florida/>
+
+---
+
+## Evening Roundup, March 18
+
+date: 2025-03-18, from: The Contrarian
+
+Another big win for Norm & SDD; plus features from Sarah Godlewski; Gabe Lezra, Diamond Brown, Siven Watt & Francois Barrilleaux; Brian O'Neill; Rushab Sanghvi; Shirley Atkins; Josh Levs; & Mimi Rocah 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-18>
+
+---
+
+## There’s lots of chatter about a recession. What do the indicators say?
+
+date: 2025-03-18, from: Market Place
+
+The hard data still points to a strong economy. But "soft" data — like consumer confidence readings — paints a different picture. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/recession-indicators-sentiment-data-tariffs-stock-market/>
+
+---
+
+## What we can learn from a past tariff tiff (rerun)
+
+date: 2025-03-18, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p><em>Hey Smarties! Today we&#8217;re revisiting an episode from earlier this year that might help you make sense of all the tit for tat tariff fight from the past few weeks. It unpacks some tariff history and the potential economic consequences of President Trump&#8217;s ongoing trade war.</em></p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>If President Donald Trump goes through with his plan to levy sweeping tariffs on foreign imports, it wouldn’t be the first time the U.S. has done such a thing. Ever heard of the Smoot-Hawley Tariff Act of 1930? Anyone? Those tariffs are widely credited with sinking the United States deeper into the Great Depression. And although global trade looks different nowadays, they can teach us a lot about how Trump’s protectionist approach to global trade could play out. On the show today, Inu Manak, a fellow for trade policy at the Council on Foreign Relations, explains how the Smoot-Hawley tariff debacle can shed light on the current moment, why the president has the power to wield tariffs in the first place, and how punishing trading partners could leave the U.S. economy at a disadvantage. Plus, what this fight has to do with the 1980s film “Ferris Bueller’s Day Off” and Roomba vacuum cleaners!</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Later, one listener’s call to visit your local butcher. And, dating coach Damona Hoffman, host of the <a href="https://damonahoffman.com/dates-and-mates-podcast/" target="_blank" rel="noreferrer noopener">“Dates and Mates”</a> podcast, answers the “Make Me Smart” question just in time for Valentine’s Day.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here’s everything we talked about today:</p>
+<p><!-- /wp:paragraph --></p>
+<ul>
+<li><a href="https://www.cfr.org/report/tariffs-trading-partners-can-president-actually-do" target="_blank" rel="noreferrer noopener">“Tariffs on Trading Partners: Can the President Actually Do That?”</a> from Council on Foreign Relations</li>
+<li><a href="https://www.nytimes.com/2025/02/03/business/trump-tariffs-global-trade-blocs.html" target="_blank" rel="noreferrer noopener">“One Response to Trump’s Tariffs: Trade That Excludes the U.S.”</a> from The New York Times</li>
+<li><a href="https://www.piie.com/research/piie-charts/united-states-has-been-disengaging-global-economy" target="_blank" rel="noreferrer noopener">“The United States has been disengaging from the global economy”</a> from the Peterson Institute for International Economics</li>
+<li><a href="https://www.washingtonpost.com/news/made-by-history/wp/2017/06/30/protectionism-100-years-ago-helped-ignite-a-world-war-could-it-happen-again/" target="_blank" rel="noreferrer noopener">“Protectionism 100 years ago helped ignite a world war. Could it happen again?”</a> from The Washington Post</li>
+<li><a href="https://theconversation.com/the-us-is-one-of-the-least-trade-oriented-countries-in-the-world-despite-laying-the-groundwork-for-todays-globalized-system-226448" target="_blank" rel="noreferrer noopener">“The US is one of the least trade-oriented countries in the world – despite laying the groundwork for today’s globalized system”</a> from The Conversation</li>
+</ul>
+<p>Double your impact when you donate to Marketplace today, thanks to a $30,000 match from the Investors Challenge Fund: <a href="https://support.marketplace.org/smart-sn">https://support.marketplace.org/smart-sn</a></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/18/mms_20250318_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-we-can-learn-from-a-past-tariff-tiff-rerun&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/18/mms_20250318_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-we-can-learn-from-a-past-tariff-tiff-rerun&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/what-we-can-learn-from-a-past-tariff-tiff-rerun>
+
+---
+
+## Rushab Sanghvi and Jen on the Importance of Labor Unions
+
+date: 2025-03-18, from: The Contrarian
+
+As the Trump-Musk regime continues to threaten thousands of government employees, Jen Rubin and Rushab Sanghvi discuss the critical importance that unions play in protecting our civil servants. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159360647/a1b2d7d4a1918a2ed370ca5a49e81c2f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159360647/a1b2d7d4a1918a2ed370ca5a49e81c2f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rushab-sanghvi-and-jen-on-the-importance>
+
+---
+
+## Liquefied natural gas is booming U.S. export
+
+date: 2025-03-18, from: Market Place
+
+Known as LNG, much of it is headed to Europe and other parts of the world in amounts expected to double over the next five years, according to S&#038;P Global.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/liquefied-natural-gas-is-booming-u-s-export/>
+
+---
+
+## Uncertainty drives gold to record prices
+
+date: 2025-03-18, from: Market Place
+
+Gold futures rose above $3,000 per ounce. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/uncertainty-drives-gold-to-record-prices/>
+
+---
+
+## How government-issued credits have supported Tesla and other EV makers
+
+date: 2025-03-18, from: Market Place
+
+Companies that make gas-powered vehicles need regulatory credits. Tesla and Rivian have plenty to sell to them. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/how-government-issued-credits-have-supported-tesla-and-other-ev-makers/>
+
+---
+
+## Tariffs could pinch the already tight building industry
+
+date: 2025-03-18, from: Market Place
+
+New residential building permits are down. High prices on building materials could further slow new construction.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/tariffs-could-pinch-the-already-tight-building-industry/>
+
+---
+
+## Trump’s Yemen strikes: A playbook of escalation, distraction, and hubris
+
+date: 2025-03-18, from: The Contrarian
+
+The Houthis have been fighting, and surviving, attacks for a long time. The right approach takes patience and precision. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-yemen-strikes-a-playbook-of>
+
+---
+
+## Ethics Complaint in WI Targets Elon-backed Organization
+
+date: 2025-03-18, from: The Contrarian
+
+A recording from Jen and Norm's 3/17 live 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159292611/9d6f615d8c4b743c9f01b1427c352318.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159292611/9d6f615d8c4b743c9f01b1427c352318.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ethics-complaint-in-wi-targets-elon>
+
+---
+
+## Legacy media fail to fact check Trump’s ‘border czar’ on sex trafficking
+
+date: 2025-03-18, from: The Contrarian
+
+To tackle any problem, you have to start with the facts. 
+
+<br> 
+
+<https://contrarian.substack.com/p/legacy-media-fail-to-fact-check-trumps>
+
+---
+
+## 15 Ways You Can Fight for Democracy
+
+date: 2025-03-18, from: The Contrarian
+
+Every day, hundreds of family members, friends, and Contrarian readers reach out to ask what they can do to stop Trump and turn the tide against autocracy. We can help 
+
+<br> 
+
+<https://contrarian.substack.com/p/15-ways-you-can-fight-for-democracy>
+
+---
+
+## A Tipping Point at the Department of Justice 
+
+date: 2025-03-18, from: The Contrarian
+
+Trump and his enablers have crossed a new bridge into autocratic territory 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-tipping-point-at-the-department>
+
+---
+
+##  Trump’s Gift To Loan Sharks 
+
+date: 2025-03-18, from: The Lever News
+
+ Trump promised caps on credit card rates — but his regulators are helping banks kill state initiatives to impose those caps.  
+
+<br> 
+
+<https://www.levernews.com/trumps-gift-to-loan-sharks/>
+
+---
+
+##  Bank Failures For All 
+
+date: 2025-03-18, from: The Lever News
+
+ After the collapse of Silicon Valley Bank, a new rule targeted the riskiest deposits. Now Trump has rescinded it.  
+
+<br> 
+
+<https://www.levernews.com/bank-failures-for-all/>
+
+---
+
+## Trade war
+
+date: 2025-03-18, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/trade-war>
+
+---
+
+## Elon Musk’s Scorched Earth Tactics Are Hurting Those Who Live Off That Land — The Farmers
+
+date: 2025-03-18, from: Capital and Main
+
+<p>It's a time of uncertainty in the heartland as agricultural programs are cut. “It’s very unsettling and very stressful.”</p>
+<p>The post <a href="https://capitalandmain.com/elon-musks-scorched-earth-tactics-are-hurting-those-who-live-off-that-land-the-farmers">Elon Musk’s Scorched Earth Tactics Are Hurting Those Who Live Off That Land — The Farmers</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/elon-musks-scorched-earth-tactics-are-hurting-those-who-live-off-that-land-the-farmers>
+
+---
+
+## Expanding Medicaid for Black women in the Delta could save lives—and the state budget
+
+date: 2025-03-18, from: The Contrarian
+
+By Shirley Atkins 
+
+<br> 
+
+<https://contrarian.substack.com/p/expanding-medicaid-for-black-women>
+
+---
+
+## Feeding 2.5 million people over 3 weeks at Houston’s rodeo
+
+date: 2025-03-18, from: Market Place
+
+From massive burgers to turkey legs, chocolate-covered strawberries and a half a pineapple stuffed with friend shrimp and Fruity Pebbles. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/houstons-rodeo-food-labor/>
+
+---
+
+## Wisconsin’s Supreme Court: The next battleground for democracy
+
+date: 2025-03-18, from: The Contrarian
+
+A powerful billionaire thinks he can buy votes in our state. But our courts and our democracy are not for sale. 
+
+<br> 
+
+<https://contrarian.substack.com/p/wisconsins-supreme-court-the-next>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-18, from: The Contrarian
+
+Tuesday: A veteran in D.C., a die-in at the New York Stock Exchange, Greenland gets in on the action, a protest in Atlanta, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Spending at bars and restaurants declined slightly in February
+
+date: 2025-03-18, from: Market Place
+
+Consumers spent 1.5% less than they did in January. Is this a worrying sign for the economy? 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/spending-at-bars-and-restaurants-declined-slightly-in-february/>
+
+---
+
+## Why Forever 21 couldn’t last forever
+
+date: 2025-03-18, from: Market Place
+
+The fast fashion retailer declared bankruptcy this week, for the second time in six years.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/18/why-forever-21-couldnt-last-forever/>
+
+---
+
+## Morning Roundup, March 18
+
+date: 2025-03-18, from: The Contrarian
+
+Featuring Jen Rubin in conversation with Stephen Vladeck, and our weekly installment of Words and Phrases We Could Do Without (for paid subscribers) 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-march-18>
+
+---
+
+## Steve Vladeck & Jen Rubin in conversation
+
+date: 2025-03-18, from: The Contrarian
+
+On the Alien Enemy Act, Trump's Reckless Deportations, and Lawlessness 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159304403/101862c2e26d0c90b2346c4632aeed79.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159304403/101862c2e26d0c90b2346c4632aeed79.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/steve-vladeck-and-jen-rubin-in-conversation>
 
 ---
 
@@ -189,18 +552,6 @@ Americans must demand accountability from social media executives, Meta especial
 <br> 
 
 <https://contrarian.substack.com/p/another-meta-whistleblower-when-will>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-17, from: The Contrarian
-
-Monday: A rally in Alabama, Tesla protests in upstate New York, Massachusetts and California, Tim Walz in Iowa, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

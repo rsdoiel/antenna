@@ -1,11 +1,485 @@
 ---
 title: pacific
-updated: 2025-03-18 06:08:37
+updated: 2025-03-19 06:08:47
 ---
 
 # pacific
 
-(date: 2025-03-18 06:08:37)
+(date: 2025-03-19 06:08:47)
+
+---
+
+## HFD: Man using torch for pest control ignites Pahala home
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>A Pahala man was &#8220;clearing pests with a torch&#8221; late Sunday night and unintentionally set his residence on fire, according to a press release from the Hawaii Fire Department.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/hawaii-news/hfd-man-using-torch-for-pest-control-ignites-pahala-home/>
+
+---
+
+## Rebuking talk from Trump, Roberts calls impeaching judges over rulings improper
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Just hours after President Donald Trump called for the impeachment of a judge who sought to pause the removal of more than 200 migrants to El Salvador, Chief Justice John Roberts issued a rare public statement.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/nation-world-news/rebuking-talk-from-trump-roberts-calls-impeaching-judges-over-rulings-improper/>
+
+---
+
+## Trump administration reinstating almost 25,000 fired workers after court order
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s administration in court filings has for the first time acknowledged it fired nearly 25,000 recently hired workers, and said federal agencies were working to bring all of them back after a judge ruled their terminations were likely illegal.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/nation-world-news/trump-administration-reinstating-almost-25000-fired-workers-after-court-order/>
+
+---
+
+## Hearing set for suspect in police car chase
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>The driver of a gold Honda Civic sedan that police pursued Friday &#8212; believing it might have been transporting wanted suspect Christopher Lucrisia &#8212; has been charged with first-degree property damage and first-degree resisting an order to stop.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/hawaii-news/hearing-set-for-suspect-in-police-car-chase/>
+
+---
+
+## New preschool to be built near ‘Imiloa Astronomy Center
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>A new preschool serving about 80 children between 3 and 4 years old will be built on the campus of the &#8216;Imiloa Astronomy Center in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/hawaii-news/new-preschool-to-be-built-near-imiloa-astronomy-center/>
+
+---
+
+## ‘The Little Mermaid’ set to take the stage in Hilo
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>The latest production from Hilo Education Art Repertory Theater, or HEART, pays homage to one of Hawaii&#8217;s most important locations: under the sea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/hawaii-news/the-little-mermaid-set-to-take-the-stage-in-hilo/>
+
+---
+
+## Vaccinations urged in Hawaii as measles cases rise nationally
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>Measles cases are on the rise across the United States and around the world, prompting health officials in Hawaii to urge residents to stay vigilant. The highly contagious viral illness, which was declared eliminated in the U.S. in 2000, has been making a troubling comeback as vaccination rates decline.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/hawaii-news/vaccinations-urged-in-hawaii-as-measles-cases-rise-nationally/>
+
+---
+
+## Kama‘aina Observatory Experience returns to Maunakea
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>The Maunakea Observatories has announced the return of the Kama&#8216;aina Observatory Experience, a program offering Hawaii residents the opportunity to visit world-class telescopes at the summit of Maunakea.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/community/kamaaina-observatory-experience-returns-to-maunakea/>
+
+---
+
+## KTA kicks off 2025 Safety Poster Contest
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>KTA Super Stores has announced the 37th Annual Island-Wide Fifth Grade Safety Poster Contest, continuing a long-standing tradition of encouraging keiki to express their creativity while promoting safe shopping practices.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/community/kta-kicks-off-2025-safety-poster-contest/>
+
+---
+
+## ‘Free Improv Comedy Show’ Saturday in Hilo
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island Comedy Theater invites the public to a &#8220;Free Improv Comedy Show&#8221; from 7 p.m. to 8:30 p.m. Saturday at Hilo Town Market, located at 69 Waianuenue Ave. in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/community/free-improv-comedy-show-saturday-in-hilo/>
+
+---
+
+## Quilt show Friday and Saturday in Kealakekua
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>The Aloha Quilters of Kona and the Hawaii Handweavers Hui will be presenting the 8th Biennial Quilt and Fiber Arts Show from 9 a.m. to 4 p.m. this Friday and Saturday at the Kona Dance and Performing Arts Studios, 81-973 Halekii St. in Kealakekua (down the street from the post office).</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/community/quilt-show-friday-and-saturday-in-kealakekua/>
+
+---
+
+## Event will focus on Alert Cards for First Responders
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>The Big Island-based Autism Support and Disabilities Center is hosting a symposium this weekend about Alert Cards for First Responders.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/community/event-will-focus-on-alert-cards-for-first-responders/>
+
+---
+
+## Musk’s team evicts officials at the US Institute of Peace
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A simmering dispute between the Department of Government Efficiency and an independent agency dedicated to promoting peace broke into an open standoff involving police Monday, as Elon Musk&#8217;s government cutters marched into the agency&#8217;s headquarters and evicted its officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/nation-world-news/musks-team-evicts-officials-at-the-us-institute-of-peace/>
+
+---
+
+## Kennedy’s alarming prescription for bird flu on poultry farms
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>Robert F. Kennedy Jr., the nation&#8217;s top health official, has an unorthodox idea for tackling the bird flu bedeviling U.S. poultry farms: Let the virus rip.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/nation-world-news/kennedys-alarming-prescription-for-bird-flu-on-poultry-farms/>
+
+---
+
+## Israel launches deadly strikes on Gaza, in breakdown of ceasefire
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>Israeli forces launched intense aerial attacks across the Gaza Strip on Tuesday, killing more than 400 people, according to Gaza officials, breaking a temporary ceasefire with Hamas and raising the prospect of a return to all-out war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/nation-world-news/israel-launches-deadly-strikes-on-gaza-in-breakdown-of-ceasefire/>
+
+---
+
+## News in Brief for March 19
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>Trump fires Democrats &#0010;on Federal Trade Commission</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/nation-world-news/news-in-brief-for-march-19-2/>
+
+---
+
+## Trump releases JFK assassination documents
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump released material related to the 1963 assassination of President John F. Kennedy on Tuesday, seeking to honor his campaign promise to provide more transparency about the shock event in Texas.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/nation-world-news/trump-releases-jfk-assassination-documents/>
+
+---
+
+## NASA astronauts ‘Butch and Suni’ return to Earth after drawn-out mission in space
+
+date: 2025-03-19, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; NASA astronauts Butch Wilmore and Suni Williams returned to Earth in a SpaceX capsule on Tuesday with a soft splashdown off Florida&#8217;s coast, nine months after their faulty Boeing Starliner craft upended what was to be a week-long stay on the International Space Station.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/19/nation-world-news/nasa-astronauts-butch-and-suni-return-to-earth-after-drawn-out-mission-in-space/>
+
+---
+
+## Vanuatu defends passport scheme in face of travel ban reports 
+
+date: 2025-03-19, from: Pacific Island Times
+
+The Vanuatu government said it had not yet received any formal communication from the Trump administration about the country’s reported incl 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/vanuatu-defends-passport-scheme-in-face-of-travel-ban-reports>
+
+---
+
+## HDR student induction 2025
+
+date: 2025-03-19, from: University of the South Pacific (Fiji)
+
+<p>Masters and PhD students at The University of the South Pacific (USP) were reminded of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/hdr-student-induction-2025/">HDR student induction 2025</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/hdr-student-induction-2025/>
+
+---
+
+## Carving a new path: Hawai‘i CC’s first butchery class graduates
+
+date: 2025-03-19, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> <abbr>CC</abbr>’s groundbreaking butchery course shapes a sustainable future for local meat processing and food security.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/18/hawaii-ccs-first-butchery-class-graduates/">Carving a new path: Hawai‘i <abbr>CC</abbr>’s first butchery class graduates</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/18/hawaii-ccs-first-butchery-class-graduates/>
+
+---
+
+## Pacific nation of Kiribati explores deep sea mining deal with China 
+
+date: 2025-03-19, from: Pacific Island Times
+
+Campaigner says The Metals Company’s loss of a third of its exploration area is sign of a stuttering industry By Stephen Wright... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/pacific-nation-of-kiribati-explores-deep-sea-mining-deal-with-china>
+
+---
+
+## Q&A: Measles outbreak and vaccination importance
+
+date: 2025-03-18, from: University of Hawaiʻi News
+
+<p>Philip Verhoef offers insights into measles, vaccination and the role of herd immunity in protecting vulnerable individuals.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/18/measles-outbreak-q-and-a/">Q&A: Measles outbreak and vaccination importance</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/18/measles-outbreak-q-and-a/>
+
+---
+
+## Professorship for advanced gynecological surgery established at JABSOM
+
+date: 2025-03-18, from: University of Hawaiʻi News
+
+<p>The new endowment will fund a professorship in benign gynecological surgery to enhance resident training.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/18/professorship-for-obgyn-surgery/">Professorship for advanced gynecological surgery established at <abbr>JABSOM</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/18/professorship-for-obgyn-surgery/>
+
+---
+
+## Rainbow Wahine earn WBIT bid; face UNLV
+
+date: 2025-03-18, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> will continue their postseason journey in Las Vegas on March 20.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/18/wahine-wbit-face-unlv/">Rainbow Wahine earn <abbr>WBIT</abbr> bid; face <abbr>UNLV</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/18/wahine-wbit-face-unlv/>
+
+---
+
+## Hamilton impressed by Pitt's speed in ‘authentic’ F1 movie
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+(Reuters) — Brad Pitt's speed is real and Hollywood's F1 movie will be the most authentic racing film ever seen when it hits cinema screens in June, according to seven times Formula One world champion Lewis Hamilton. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/hamilton-impressed-by-pitts-speed-in-authentic-f1-movie/article_2aaf7432-03fd-11f0-90a9-438885c01b3f.html>
+
+---
+
+## DPL supports land use plan bill
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+(DPL) — The Legislature is currently reviewing Senate Bill 24-12, a pivotal piece of legislation designed to enhance fiscal responsibility and transparency in the development and maintenance of the Commonwealth's Comprehensive Land Use Plan. This bill aims to ensure that critical land use planning is conducted with robust financial practices and open, accountable governance. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpl-supports-land-use-plan-bill/article_af939220-03f6-11f0-9c73-a78f62820b04.html>
+
+---
+
+## Yang sentenced to 30 days for alien transport, files appeal
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+AFTER being sentenced by the federal court to 30 days of imprisonment for conspiracy and aiding and abetting the transportation of illegal aliens, Hongjiang Yang filed a notice of appeal to the U.S. Court of Appeals for the Ninth Circuit. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/yang-sentenced-to-30-days-for-alien-transport-files-appeal/article_d2f5c796-03de-11f0-8d83-1bb862528b47.html>
+
+---
+
+## Stakeholders seek to improve coral reef conservation outreach
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+CORAL reef stakeholders gathered at Crowne Plaza Resort on Friday to help the Coral Reef Initiative create more effective outreach strategies for the public. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/stakeholders-seek-to-improve-coral-reef-conservation-outreach/article_d5ffff56-03b6-11f0-abde-1f554f5c87ed.html>
+
+---
+
+## DPL secretary resigns
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+DEPARTMENT of Public Lands Secretary Teresita A. Santos has resigned. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpl-secretary-resigns/article_b2f7b9ba-0387-11f0-9d78-e7bbba3174a3.html>
+
+---
+
+## Real estate appraiser reappointed to professional licensing board
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios has reappointed U.S.-certified real estate appraiser Lilio B. Tiples to the Board of Professional Licensing. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/real-estate-appraiser-reappointed-to-professional-licensing-board/article_2a547a64-03b2-11f0-bb82-33fb5b58aed0.html>
+
+---
+
+## Red flags at 5 Saipan sites
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzes water samples collected from Saipan’s west coast recreational beaches and storm drainages every week. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/red-flags-at-5-saipan-sites/article_447ee64e-03f4-11f0-aa93-bbc3dc1560f0.html>
+
+---
+
+## Educator opposes Guam-NMI merger
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+A CHAMORRO born and raised on Saipan, Ignacio Dela Cruz said he is strongly opposed to any proposal to reunify Guam and the Northern Marianas so they can aspire for statehood. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/educator-opposes-guam-nmi-merger/article_9d637e2a-03d9-11f0-a93c-17332635f28d.html>
+
+---
+
+## Public Health director hopes Guam is spared from Medicaid cuts
+
+date: 2025-03-18, updated: 2025-03-19, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Congressional Democrats are warning that Medicaid, a federal program that provides health coverage to millions of low-income Americans and about one-third of Guam residents, could be gutted by some $880 billion in the next federal budget. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/public-health-director-hopes-guam-is-spared-from-medicaid-cuts/article_c4ebb9c6-03f7-11f0-a306-eb3f073c1132.html>
+
+---
+
+## Simulacrum of a Weeping Willow
+
+date: 2025-03-18, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by MaryAnne Hafen My mountains bleed into my sky on paper, and it looks wrong, but it’s like real life; virgo at summer’s end. The world is too strange to paint as it really is, too filled with poorly pruned &#8230; <a href="https://hawaiipacificreview.org/2025/03/18/simulacrum-of-a-weeping-willow/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/03/18/simulacrum-of-a-weeping-willow/>
+
+---
+
+## Governor seeks court's approval to name an attorney to probe Guam AG
+
+date: 2025-03-18, from: Pacific Island Times
+
+By Pacific Island Times News Staff   Gov. Lou Leon Guerrero has petitioned the court to authorize her to appoint a special assistant... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/governor-seeks-court-s-approval-to-name-an-attorney-to-probe-guam-ag>
 
 ---
 

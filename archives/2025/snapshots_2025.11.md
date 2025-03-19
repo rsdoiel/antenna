@@ -1,11 +1,478 @@
 ---
 title: snapshots
-updated: 2025-03-18 06:08:44
+updated: 2025-03-19 06:08:54
 ---
 
 # snapshots
 
-(date: 2025-03-18 06:08:44)
+(date: 2025-03-19 06:08:54)
+
+---
+
+## Podcast: The Websites an ICE Contractor is Monitoring
+
+date: 2025-03-19, from: 404 Media Group
+
+The sites an ICE contractor is pulling data from; why top scientists are considering leaving the U.S. for France, and why Super Nintendos are getting faster as they age. 
+
+<br> 
+
+<https://www.404media.co/podcast-the-websites-an-ice-contractor-is-monitoring/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Judging by what’s in the press I’d say there’s a journalist movement to remove Schumer, as they did with Biden. They aren’t reporting his theory of why he voted as he did. Heard him last night on msnbc and it made sense. At least they let him speak. 
+
+<br> 
+
+<https://www.memeorandum.com/>
+
+---
+
+## Smears, Sadism and Social Security
+
+date: 2025-03-19, from: Paul Krugman
+
+Why Elon Musk wants to make seniors suffer 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/smears-sadism-and-social-security>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Tesla loses ground as Chinese EVs dominate global markets. 
+
+<br> 
+
+<https://restofworld.org/2025/tesla-loses-ground-chinese-ev-dominate-global-markets/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Social Security Administration to require in-person identity checks. 
+
+<br> 
+
+<https://apnews.com/article/social-security-fraud-waste-doge-elon-musk-212e3089951f731fd3f83443e104b315>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Voters boo Nebraska Republican over Musk, Ukraine, Trump tariffs during raucous town hall. The pitchforks are out. 
+
+<br> 
+
+<https://thehill.com/homenews/house/5202362-voters-boo-nebraska-republican-town-hall/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Remember when Obama said to the bankers that his “administration is the only thing between you and the pitchforks.” These are the same people. They’re back and this time they want everything. 
+
+<br> 
+
+<https://www.politico.com/story/2009/04/inside-obamas-bank-ceos-meeting-020871>
+
+---
+
+## My Thoughts on the Future of "AI"
+
+date: 2025-03-19, updated: 2025-03-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://nicholas.carlini.com/writing/2025/thoughts-on-future-ai.html">My Thoughts on the Future of &quot;AI&quot;</a></strong></p>
+Nicholas Carlini, previously deeply skeptical about the utility of LLMs, discusses at length his thoughts on where the technology might go.</p>
+<p>He presents compelling, detailed arguments for both ends of the spectrum - his key message is that it's best to maintain very wide error bars for what might happen next:</p>
+<blockquote>
+<p>I wouldn't be surprised if, in three to five years, language models are capable of performing most (all?) cognitive economically-useful tasks beyond the level of human experts. And I also wouldn't be surprised if, in five years, the best models we have are better than the ones we have today, but only in “normal” ways where costs continue to decrease considerably and capabilities continue to get better but there's no fundamental paradigm shift that upends the world order. To deny the <em>potential</em> for either of these possibilities seems to me to be a mistake.</p>
+</blockquote>
+<p>If LLMs do hit a wall, it's not at all clear what that wall might be:</p>
+<blockquote>
+<p>I still believe there is something fundamental that will get in the way of our ability to build LLMs that grow exponentially in capability. But I will freely admit to you now that I have no earthly idea what that limitation will be. I have no evidence that this line exists, other than to make some form of vague argument that when you try and scale something across many orders of magnitude, you'll probably run into problems you didn't see coming.</p>
+</blockquote>
+<p>There's lots of great stuff in here. I particularly liked this explanation of how you get R1:</p>
+<blockquote>
+<p>You take DeepSeek v3, and ask it to solve a bunch of hard problems, and when it gets the answers right, you train it to do more of that and less of whatever it did when it got the answers wrong. The idea here is actually really simple, and it works surprisingly well.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/deepseek">deepseek</a>, <a href="https://simonwillison.net/tags/nicholas-carlini">nicholas-carlini</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/19/my-thoughts-on-the-future-of-ai/#atom-everything>
+
+---
+
+## The Transiting Los Angeles Podcast – #11: What Happened to the Streetcars?
+
+date: 2025-03-19, from: Transiting Los Angeles
+
+Have you heard that L.A. used to have "the best public transportation system in the world"? Or that it was destroyed as part of a conspiracy? Well, let's set the record straight. In this episode, John explains the real reasons why our streetcars were torn up. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast.mp3"></source>
+</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://transitinglosangeles.com/2025/03/18/the-transiting-los-angeles-podcast-11-what-happened-to-the-streetcars/>
+
+---
+
+## Quoting David L. Poole and Alan K. Mackworth
+
+date: 2025-03-19, updated: 2025-03-19, from: Simon Willison’s Weblog
+
+<blockquote cite="https://artint.info/3e/html/ArtInt3e.Ch1.S1.html"><p>An <strong>agent</strong> is something that acts in an environment; it does something. Agents include worms, dogs, thermostats, airplanes, robots, humans, companies, and countries.</p></blockquote>
+<p class="cite">&mdash; <a href="https://artint.info/3e/html/ArtInt3e.Ch1.S1.html">David L. Poole and Alan K. Mackworth</a>, Artificial Intelligence: Foundations of Computational Agents</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/19/worms-and-dogs-and-countries/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+I’m interested in seeing what Ghost-written activitypub posts look like in other systems. If you have such a site could you reply with a link? I asked at the link below, but my comment of congratulations hasn’t appeared yet. Thanks in advance. 
+
+<br> 
+
+<https://activitypub.ghost.org/social-web-beta/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-19, from: Feed for Alt USDS)
+
+We started WTB to expose threats to government data security and inform readers about the administration’s impact. We’re spreading awareness and collaborating now while advocating for long-term solutions like Rep. Trahan’s efforts to modernize privacy laws. Protecting Americans’ data is essential.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkowmux2fc2p>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
+
+Previously classified files related to JFK assassination released. 
+
+<br> 
+
+<https://apnews.com/article/jfk-assassination-files-release-trump-3e8f31e18468d96b53210572e0992c07?taid=67da0143ea5620000169e16c>
+
+---
+
+## Vote for the March 2025 + Post Topic
+
+date: 2025-03-18, from: Computer ads from the Past
+
+Make your vote count. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/vote-for-the-march-2025-post-topic>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
+
+What John Roberts’s Rebuke of Trump Left Out. 
+
+<br> 
+
+<https://www.theatlantic.com/newsletters/archive/2025/03/trump-justice-roberts-impeachment-judge/682087/?gift=f35zZN0v_gDFE8xNwlQAHcF5tqZH-3JwU9f69yNwQt4>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
+
+John Turturro on Getting Lost in the Severance Hallways and Pitching Christopher Walken for His Role. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=_3sFRiFqs1M&t=247s&pp=2AH3AZACAdIHCQn3AIUdvf8Vzg==>
+
+---
+
+## NVIDIA DGX Spark is $3,000 “AI Supercomputer” in a mini PC form-factor
+
+date: 2025-03-18, from: Liliputing
+
+<p>NVIDIA&#8217;s new DGX Spark is a mini PC that measures 150 x 150 x 50.5mm (5.9&#8243; x 5.9&#8243; x 2&#8243;). But NVIDIA isn&#8217;t positioning it as a general-purpose computer. Instead, it&#8217;s an &#8220;AI Supercomputer&#8221; in a compact package. At the heart of the little PC is an NVIDIA GB10 Grace Blackwell Superchip that NVIDIA says delivers [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/nvidia-dgx-spark-is-3000-ai-supercomputer-in-a-mini-pc-form-factor/">NVIDIA DGX Spark is $3,000 &#8220;AI Supercomputer&#8221; in a mini PC form-factor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/nvidia-dgx-spark-is-3000-ai-supercomputer-in-a-mini-pc-form-factor/>
+
+---
+
+## Building and deploying a custom site using GitHub Actions and GitHub Pages
+
+date: 2025-03-18, updated: 2025-03-18, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://til.simonwillison.net/github-actions/github-pages">Building and deploying a custom site using GitHub Actions and GitHub Pages</a></strong></p>
+I figured out a minimal example of how to use GitHub Actions to run custom scripts to build a website and then publish that static site to GitHub Pages. I turned <a href="https://github.com/simonw/minimal-github-pages-from-actions/">the example</a> into a template repository, which should make getting started for a new project extremely quick.</p>
+<p>I've needed this for various projects over the years, but today I finally put these notes together while setting up <a href="https://github.com/simonw/recent-california-brown-pelicans">a system</a> for scraping the <a href="https://www.inaturalist.org/">iNaturalist</a> API for recent sightings of the California Brown Pelican and converting those into an Atom feed that I can subscribe to in <a href="https://netnewswire.com/">NetNewsWire</a>:</p>
+<p><img alt="Screenshot of a Brown Pelican sighting Atom feed in NetNewsWire showing a list of entries on the left sidebar and detailed view of &quot;Brown Pelican at Art Museum, Isla Vista, CA 93117, USA&quot; on the right with date &quot;MAR 13, 2025 AT 10:40 AM&quot;, coordinates &quot;34.4115542997, -119.8500448&quot;, and a photo of three brown pelicans in water near a dock with copyright text &quot;(c) Ery, all rights reserved&quot;" src="https://static.simonwillison.net/static/2025/pelicans-netnewswire.jpg" /></p>
+<p>I got Claude <a href="https://claude.ai/share/533a1d59-60db-4686-bd50-679dd01a585e">to write</a> me <a href="https://github.com/simonw/recent-california-brown-pelicans/blob/81f87b378b6626e97eeca0719e89c87ace141816/to_atom.py">the script</a> that converts the scraped JSON to atom.</p>
+<p><strong>Update</strong>: I just <a href="https://sfba.social/@kueda/114185945871929778">found out</a> iNaturalist have their own atom feeds! Here's their own <a href="https://www.inaturalist.org/observations.atom?verifiable=true&amp;taxon_id=123829">feed of recent Pelican observations</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/git-scraping">git-scraping</a>, <a href="https://simonwillison.net/tags/atom">atom</a>, <a href="https://simonwillison.net/tags/netnewswire">netnewswire</a>, <a href="https://simonwillison.net/tags/inaturalist">inaturalist</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/18/actions-pages/#atom-everything>
+
+---
+
+## “Open Recent” UI in VS Code Alternatives
+
+date: 2025-03-18, from: Chris Coyier blog
+
+When you open Visual Studio Code without doing something like opening a .workspace file or dragging a folder onto it, you get a fairly blank screen like this: RECORD SCRATCH. I&#8217;m an idiot. It was just like that because I had my &#8220;Work Bench&#8221; set to &#8220;none&#8221; instead of the default. Putting the value back [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/03/18/open-recent-ui-in-vs-code-alternatives/>
+
+---
+
+## Dell Pro Max laptops & desktop PCs with Intel Arrow Lake launch this month (AMD and next-gen graphics options coming this summer)
+
+date: 2025-03-18, from: Liliputing
+
+<p>This year Dell is rebranding its laptop and desktop computers with a new set of names that the company claims will be easier to understand. But I spent a long time looking at the company&#8217;s press release trying to figure out exactly what Dell is actually launching this month. That&#8217;s because its new Dell Pro [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dell-pro-max-laptops-desktop-pcs-with-intel-arrow-lake-launch-this-month-amd-and-next-gen-graphics-options-coming-this-summer/">Dell Pro Max laptops &#038; desktop PCs with Intel Arrow Lake launch this month (AMD and next-gen graphics options coming this summer)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dell-pro-max-laptops-desktop-pcs-with-intel-arrow-lake-launch-this-month-amd-and-next-gen-graphics-options-coming-this-summer/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
+
+Trump kickstarts new House GOP effort to impeach a federal judge. 
+
+<br> 
+
+<https://www.axios.com/2025/03/18/donald-trump-impeach-judge-house-republicans>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
+
+You Won’t Believe These 14 Dreamy Small Towns Hiding In The Catskills. 
+
+<br> 
+
+<https://www.travellerselixir.com/catskills-dreamy-small-towns/>
+
+---
+
+## Two new PebbleOS smartwatches go up for pre-order for the first time in nearly a decade
+
+date: 2025-03-18, from: Liliputing
+
+<p>Pebble was an early innovator in the smartwatch space, but the company struggled to compete when bigger companies like Apple, Google, and many of the companies partnering with Google entered the space. So Pebble sold it assets to Fitbit in 2016 and basically shut down. But Pebble&#8217;s watches still have a small but loyal fanbase [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/two-new-pebbleos-smartwatches-go-up-for-pre-order-for-the-first-time-in-nearly-a-decade/">Two new PebbleOS smartwatches go up for pre-order for the first time in nearly a decade</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/two-new-pebbleos-smartwatches-go-up-for-pre-order-for-the-first-time-in-nearly-a-decade/>
+
+---
+
+## Mac SSD Performance
+
+date: 2025-03-18, from: Michael Tsai
+
+Ric Ford: Apple&#8217;s exhorbitantly-priced Mac storage comes with impressive benchmark claims but has some serious, hidden bottlenecks in certain scenarios, as do other SSDs. David Harry illustrated this clearly in a video, using Activity Monitor as a novel window into dramatic SSD slowdowns when moving large amounts of data to an Apple internal SSD from [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/18/mac-ssd-performance/>
+
+---
+
+## Mark Klein, RIP
+
+date: 2025-03-18, from: Michael Tsai
+
+EFF (Hacker News): When the New York Times reported in late 2005 that the NSA was engaging in spying inside the U.S., Mark realized that he had witnessed how it was happening. He also realized that the President was not telling Americans the truth about the program. And, though newly retired, he knew that he [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/18/mark-klein-rip/>
+
+---
+
+## Alexa Removing “Do Not Send Voice Recordings” Feature
+
+date: 2025-03-18, from: Michael Tsai
+
+Amazon: You can opt out of sending voice recordings to the cloud for devices that can process the audio of your Alexa requests locally (Echo (4th Gen), Echo Show 10 or Echo Show 15) or supported devices that are able to communicate with the devices in your house on the same network (Echo (3rd Gen), [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/18/alexa-removing-do-not-send-voice-recordings-feature/>
+
+---
+
+## Firefox Benefits From Browser Choice Screens
+
+date: 2025-03-18, from: Michael Tsai
+
+Christina Petrova: The first DMA browser choice screens started rolling out in the EU in March 2024. Since then, they have slowly started appearing for:New and existing Android smartphones and tablet users with Chrome pre-set as a default browser (though rollout has been fairly inconsistent)New and existing iOS users with Safari as their default browser, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/18/firefox-benefits-from-browser-choice-screens/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
+
+Marco Rubio Announces Stunning Extent of USAID Purge. 
+
+<br> 
+
+<https://newrepublic.com/post/192520/marco-rubio-usaid-purge>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
+
+Democrats: Get back on the air! 
+
+<br> 
+
+<http://scripting.com/2025/03/18/161228.html>
+
+---
+
+## HP Omen Transcend 14 (2025) is a 3.7 pound gaming laptop with up to RTX 5070 and Core Ultra 9 285H
+
+date: 2025-03-18, from: Liliputing
+
+<p>The new HP Omen Transcend 14 is a compact gaming laptop that packs an Intel Arrow Lake-H processor and NVIDIA RTX 50-Series graphics into a body that measures 313 x 234 x 18mm (12.3&#8243; x 9.2&#8243; x 0.7&#8243;) and weighs 1.675 kg (3.7 pounds). That makes the new laptop a little heavier than the 2024 model [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/hp-omen-transcend-14-2025-is-a-3-7-pound-gaming-laptop-with-up-to-rtx-5070-and-core-ultra-9-285h/">HP Omen Transcend 14 (2025) is a 3.7 pound gaming laptop with up to RTX 5070 and Core Ultra 9 285H</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/hp-omen-transcend-14-2025-is-a-3-7-pound-gaming-laptop-with-up-to-rtx-5070-and-core-ultra-9-285h/>
+
+---
+
+## HP OmniBook 7 Aero 13 is a 2.2 pound laptop with Ryzen AI 300
+
+date: 2025-03-18, from: Liliputing
+
+<p>The HP OmniBook 7 Aero is a thin and light laptop that picks up where the HP Pavilion Aero 13 lineup left off. While HP has dropped the Pavilion name and given the new laptop the same OmniBook 7 branding as some of the company&#8217;s other recent premium notebooks, the emphasis here is on providing an ultraportable [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/hp-omnibook-7-aero-13-is-a-2-2-pound-laptop-with-ryzen-ai-300/">HP OmniBook 7 Aero 13 is a 2.2 pound laptop with Ryzen AI 300</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/hp-omnibook-7-aero-13-is-a-2-2-pound-laptop-with-ryzen-ai-300/>
+
+---
+
+## Recognizing Women in Federal Service, 1961
+
+date: 2025-03-18, from: National Archives, Text Message blog
+
+In October 1960, in the last months of the Eisenhower Administration, the Civil Service Commission announced the establishment of the Federal Woman’s Award for outstanding achievement by women in the Federal career service to be administered by the Board of Trustees, Federal Woman’s Award.&#160; The award was announced in the following press release: A pamphlet &#8230; <a href="https://text-message.blogs.archives.gov/2025/03/18/recognizing-women-in-federal-service-1961/" class="more-link">Continue reading <span class="screen-reader-text">Recognizing Women in Federal Service, 1961</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/03/18/recognizing-women-in-federal-service-1961/>
+
+---
+
+## Indigenous Woman Pioneer
+
+date: 2025-03-18, from: Guy Kawasaki blog
+
+Julie Reed, Penn State. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/indigenous-woman-pioneer>
+
+---
+
+## GMK introduces EVO-X2 mini PC with Ryzen AI Max+ 395 Strix Halo
+
+date: 2025-03-18, from: Liliputing
+
+<p>Chinese mini PC maker GMK was one of the first companies to introduce a compact desktop computer powered by an AMD Strix Point processor that combines a Zen 5 CPU with RNA 3.5 graphics. Now, as expected, the company is one of the first to unveil a mini PC with a Strix Halo processor that [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gmk-introduces-evo-x2-mini-pc-with-ryzen-ai-max-395-strix-halo/">GMK introduces EVO-X2 mini PC with Ryzen AI Max+ 395 Strix Halo</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gmk-introduces-evo-x2-mini-pc-with-ryzen-ai-max-395-strix-halo/>
+
+---
+
+## Public Records Reveal How Agencies Complied With Trump's Anti-Trans Order
+
+date: 2025-03-18, from: 404 Media Group
+
+FOIA documents show how agencies dropped everything to comply with Trump order—and that FOIA is still sort of working. 
+
+<br> 
+
+<https://www.404media.co/public-records-reveal-how-agencies-complied-with-trumps-anti-trans-order/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-18, from: Robert's feed at BlueSky)
+
+Something hopeful to start the day. https://www.hawaiitribune-herald.com/2025/03/18/hawaii-news/new-canoe-honors-legacy-of-moolele-burned-in-the-2023-maui-wildfires/ 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lknsysmxrc2a>
+
+---
+
+## This Is a Normal Candy Review
+
+date: 2025-03-18, updated: 2025-03-18, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/18/this-is-a-normal-candy-review/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
+
+Wired is dropping paywalls for FOIA-based reporting. Others should follow. (This is brilliant. Finally someone showing leadership in journalism.) 
+
+<br> 
+
+<https://freedom.press/issues/wired-is-dropping-paywalls-for-foia-based-reporting-others-should-follow/>
 
 ---
 
@@ -38,6 +505,19 @@ Noor Abdalla, the Pregnant Wife of Illegally-Arrested Columbia U Protest Leader,
 <br> 
 
 <https://www.michaelmoore.com/p/noor-and-mahmoud-young-hearts-be>
+
+---
+
+## Build a custom RAG AI agent in TypeScript and Jupyter
+
+date: 2025-03-18, updated: 2025-03-18, from: Deno blog
+
+AI and LLMs are certainly useful assistive tools. But what if we need to train LLMs on confidential documents and materials? Here's how you can build your own custom RAG AI agent.
+ 
+
+<br> 
+
+<https://deno.com/blog/build-custom-rag-ai-agent>
 
 ---
 

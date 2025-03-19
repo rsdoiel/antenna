@@ -1,11 +1,50 @@
 ---
 title: libraries
-updated: 2025-03-18 06:08:41
+updated: 2025-03-19 06:08:51
 ---
 
 # libraries
 
-(date: 2025-03-18 06:08:41)
+(date: 2025-03-19 06:08:51)
+
+---
+
+## Investissements dans le sport et politique internationale
+
+date: 2025-03-21, from: ETH Zurich, recently added
+
+Schmocker, Fabio
+Schepers, Névine 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/727725>
+
+---
+
+## A Second Digital Transformation for Scholarly Monographs?
+
+date: 2025-03-19, from: Scholarly Kitchen
+
+<p>Today, Roger Schonfeld examines several key drivers transforming the monographs marketplace and reflects on strategic opportunities ahead. </p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/19/second-digital-transformation-scholarly-monographs/">A Second Digital Transformation for Scholarly Monographs?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/19/second-digital-transformation-scholarly-monographs/>
+
+---
+
+## The Public Domain and the Rise of the Hays Code
+
+date: 2025-03-18, from: Internet Archive Blog
+
+Films entering the public domain will soon face a significant shift. In 2030, films governed by the Hays Code will start to enter the public domain. The Hays Code was [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/03/18/the-public-domain-and-the-rise-of-the-hays-code/>
 
 ---
 

@@ -1,11 +1,147 @@
 ---
 title: socal north
-updated: 2025-03-18 06:08:36
+updated: 2025-03-19 06:08:46
 ---
 
 # socal north
 
-(date: 2025-03-18 06:08:36)
+(date: 2025-03-19 06:08:46)
+
+---
+
+## The Transiting Los Angeles Podcast – #11: What Happened to the Streetcars?
+
+date: 2025-03-19, from: Transiting Los Angeles
+
+Have you heard that L.A. used to have "the best public transportation system in the world"? Or that it was destroyed as part of a conspiracy? Well, let's set the record straight. In this episode, John explains the real reasons why our streetcars were torn up. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast.mp3"></source>
+</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://transitinglosangeles.com/2025/03/18/the-transiting-los-angeles-podcast-11-what-happened-to-the-streetcars/>
+
+---
+
+## Attention bandwagon NCAA basketball fans: Your guide to top-seeded USC and UCLA in the women's tournament
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+The Bruins and Trojans have great records this season. And if they keep winning during March Madness, they may face each other soon. 
+
+<br> 
+
+<https://laist.com/news/education/usc-ucla-women-basketball-ncaa-championship-march-madness-2025>
+
+---
+
+## California crime victim fund ordered to change course: ‘They didn’t lift a damn finger’
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+Ruby Marichalar couldn’t get an in-person meeting after California’s crime victim compensation fund denied her claim. She wasn’t the only one. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/california-crime-victim-fund-ordered-to-change-course>
+
+---
+
+## E-bike vouchers and rooftop solar? Maybe not as local nonprofits face ongoing federal funding freeze
+
+date: 2025-03-18, updated: 2025-03-18, from: The LAist
+
+Climate resilience projects in the San Gabriel Valley are once again in flux amid Trump funding confusion. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/e-bike-vouchers-rooftop-solar-local-nonprofits-federal-funding-freeze>
+
+---
+
+## State-funded broadband access is coming to South LA. Here’s why
+
+date: 2025-03-18, updated: 2025-03-18, from: The LAist
+
+Nearly 13 miles of fiber lines will be installed along the 110 Freeway to support high-speed internet. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-internet-service-california-middle-mile-digital-divide>
+
+---
+
+## A federal judge says the USAID shutdown likely violated the Constitution
+
+date: 2025-03-18, updated: 2025-03-18, from: The LAist
+
+The Trump administration likely violated the Constitution when it effectively shuttered the U.S. Agency for International Development, a federal judge has ruled. 
+
+<br> 
+
+<https://laist.com/news/federal-judge-says-usaid-shutdown-likely-violated-the-constitution>
+
+---
+
+## Trail Tales and Wagging Tails: A Storytime Pet Adoption Event
+
+date: 2025-03-18, from: City of Santa Clarita
+
+<p>Join the Santa Clarita Public Library and Castaic Animal Care Center on March 25 Get ready for a paw-some morning filled with storytelling, adventure and adorable four-legged friends at the launch of the newest Trail Tales books! Families are invited to a heartwarming event on Tuesday, March 25, from 9:30 to 11:30 a.m. at Duane [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/18/trail-tales-and-wagging-tails-a-storytime-pet-adoption-event/">Trail Tales and Wagging Tails: A Storytime Pet Adoption Event</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/18/trail-tales-and-wagging-tails-a-storytime-pet-adoption-event/>
+
+---
+
+## 2 NASA astronauts return to Earth after an unexpectedly long mission in space
+
+date: 2025-03-18, updated: 2025-03-18, from: The LAist
+
+NASA astronauts Suni Williams and Butch Wilmore were on the International Space Station more than nine months after launching into space in June for what was expected to be an eight-day mission. 
+
+<br> 
+
+<https://laist.com/news/nasa-astronauts-head-back-to-earth-after-unexpectedly-long-mission>
+
+---
+
+## 'Segregated facilities' are no longer explicitly banned in federal contracts
+
+date: 2025-03-18, updated: 2025-03-18, from: The LAist
+
+The Trump administration cut a clause from federal contracting rules that had been on the books since the 1960s: Companies are no longer explicitly prohibited from having segregated facilities. 
+
+<br> 
+
+<https://laist.com/news/segregated-facilities-are-no-longer-explicitly-banned-in-federal-contracts>
+
+---
+
+## 4 things to know about the Alien Enemies Act and Trump's efforts to use it
+
+date: 2025-03-18, updated: 2025-03-18, from: The LAist
+
+President Trump invoked the Alien Enemies Act of 1798 against Tren de Aragua members, provoking a legal fight. Here's what to know about the controversial law, which was last used during World War II. 
+
+<br> 
+
+<https://laist.com/news/politics/4-things-to-know-about-the-alien-enemies-act-and-trumps-efforts-to-use-it>
+
+---
+
+## LA is on the hook for more than half a billion in liability payouts in just 2 years. 4 of the costliest cases
+
+date: 2025-03-18, updated: 2025-03-19, from: The LAist
+
+LAist took a deeper look at some of the highest-costing incidents of the last two fiscal years, including excessive use of force and injuries caused by decaying infrastructure. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-liability-payments-costliest-cases>
 
 ---
 
@@ -18,18 +154,6 @@ For the first time in L.A. County, voters were allowed to rank candidates instea
 <br> 
 
 <https://laist.com/news/politics/redondo-beach-ranked-choice-voting-march-result>
-
----
-
-## LA is on track to pay $600 million in civil claims and lawsuits in 2 years. Here are 4 of the costliest cases
-
-date: 2025-03-18, updated: 2025-03-18, from: The LAist
-
-LAist took a deeper look at some of the highest-costing incidents of the last two fiscal years, including excessive use of force and injuries caused by decaying infrastructure. 
-
-<br> 
-
-<https://laist.com/news/politics/los-angeles-liability-payments-costliest-cases>
 
 ---
 

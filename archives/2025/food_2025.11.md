@@ -1,11 +1,247 @@
 ---
 title: food
-updated: 2025-03-18 06:08:43
+updated: 2025-03-19 06:08:53
 ---
 
 # food
 
-(date: 2025-03-18 06:08:43)
+(date: 2025-03-19 06:08:53)
+
+---
+
+## The National Coffee Association Requests Tariff Exemption
+
+date: 2025-03-19, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. NCA Bill Murray issued a formal request. 
+
+<br> 
+
+<https://sprudge.com/the-national-coffee-association-requests-tariff-exemption-308093.html>
+
+---
+
+## One-Pot Beer Cheese Bucatini
+
+date: 2025-03-19, from: Bon Appetet
+
+Beer cheese dip meets mac and cheese. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/one-pot-beer-cheese-bucatini>
+
+---
+
+## Small Cafe? Here’s How To Design a Winning Food Program
+
+date: 2025-03-19, from: The Fresh Cup
+
+<p>More and more customers expect prepared food when they go to coffee shops, which poses a challenge for cafes with small kitchens. Here’s how they can still deliver a great food program, despite space constraints.</p>
+<p>The post <a href="https://freshcup.com/small-cafe-heres-how-to-design-a-winning-food-program/">Small Cafe? Here&#8217;s How To Design a Winning Food Program</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/small-cafe-heres-how-to-design-a-winning-food-program/>
+
+---
+
+## Lamb Korma Recipe
+
+date: 2025-03-19, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/lamb-korma/" title="Lamb Korma Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Delicious Lamb Korma in a serving bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Lamb korma is a comforting Indian curry with chunks of lamb simmered in a spiced cashew-yogurt sauce until super tender, so creamy and aromatic.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/lamb-korma/">Lamb Korma Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/lamb-korma/>
+
+---
+
+## Pringles Just Launched a Flavor That Shouldn’t Work—But It Does
+
+date: 2025-03-18, from: Taste of Home
+
+<p>Rumors about a second Pringles x Miller Lite collab are swirling on social media.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/miller-lite-beer-brat-pringles/">Pringles Just Launched a Flavor That Shouldn&#8217;t Work—But It Does</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/miller-lite-beer-brat-pringles/>
+
+---
+
+## Green Beans Recall: Del Monte Just Recalled 197,808 Cans of Green Beans
+
+date: 2025-03-18, from: Taste of Home
+
+<p>The canned green beans in your pantry might be contaminated—read the label to make sure your casserole plans aren't ruined. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/green-beans-recall-march-2025/">Green Beans Recall: Del Monte Just Recalled 197,808 Cans of Green Beans</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/green-beans-recall-march-2025/>
+
+---
+
+## Caprese Sandwich
+
+date: 2025-03-18, from: Taste of Home
+
+A Caprese sandwich highlights simple, seasonal ingredients for a fresh and delicious bite. Juicy tomatoes, fresh mozzarella and basil are layered on a baguette and drizzled with olive oil and balsamic glaze. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/caprese-sandwich-2/>
+
+---
+
+## Rainforest Alliance Reduces Requirements in Latest Standard Revision
+
+date: 2025-03-18, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-620x400.png" class="attachment-large size-large wp-post-image" alt="Raiforest Alliance" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The third-party sustainability certifier Rainforest Alliance recently launched a new version of its sustainable agriculture standard, while also introducing a future add-on program for specializations in regenerative agriculture, climate or... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/18/rainforest-alliance-reduces-requirements-in-latest-standard-revision/>
+
+---
+
+## Candied Lemon Slices
+
+date: 2025-03-18, from: Taste of Home
+
+Move over, cherries: Candied lemon slices are the perfect finishing touch. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/candied-lemon-slices/>
+
+---
+
+## Eating a 15-Course Meal in the Heights of the Himalayas
+
+date: 2025-03-18, from: Bon Appetet
+
+At the height of his career, chef Prateek Sadhu left Mumbai for his Himalayan roots, creating a restaurant that is reimagining dining in India 
+
+<br> 
+
+<https://www.bonappetit.com/story/naar-chef-prateek-sadhu-himalayan>
+
+---
+
+## How Destination Dining Transforms Travel
+
+date: 2025-03-18, from: Bon Appetet
+
+Editor in chief Jamila Robinson explores how dining on the road turns every meal into a cultural adventure. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-destination-dining-transforms-travel>
+
+---
+
+## The Best Saucepans (2025), Reviewed by Our Experts
+
+date: 2025-03-18, from: Bon Appetet
+
+One of the most important and underrated pieces of cookware in your house. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-saucepans-reviewed>
+
+---
+
+## The Best Stand Mixers, According to Our Expert Testers (2025)
+
+date: 2025-03-18, from: Bon Appetet
+
+We see big batches of cookies in your near future. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-stand-mixers>
+
+---
+
+## La Marzocco Announces The Launch Of All-New App
+
+date: 2025-03-18, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The La Marzocco App brings the home and pro espresso machines into one digital ecosystem. 
+
+<br> 
+
+<https://sprudge.com/la-marzocco-announces-the-launch-of-all-new-app-308077.html>
+
+---
+
+## Arizona Sunshine Lemon Pie
+
+date: 2025-03-18, from: Taste of Home
+
+This Arizona sunshine lemon pie recipe is a regional delight with a sweet yet tangy filling that includes one whole lemon. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/arizona-sunshine-lemon-pie/>
+
+---
+
+## The Yemeni Coffee Boom Is Only Just Beginning
+
+date: 2025-03-18, from: Bon Appetet
+
+For these entrepreneurs, building a flourishing footprint of Yemeni coffeehouses means centering community and cultural connections. 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-yemeni-coffee-boom-is-about-so-much-more-than-coffee>
+
+---
+
+## With No Arabica or Robusta, the Excelsa Cafe Opens in San Diego
+
+date: 2025-03-18, from: Daily Coffee News
+
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-620x450.jpg" class="attachment-large size-large wp-post-image" alt="Excelsa-Cafe-OB" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-620x450.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-768x557.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>While most specialty coffee shops promote their rarefied high-end arabica coffees, a new coffee business in San Diego called Excelsa Coffee Company is promoting a separate species altogether.&#160; The company... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/18/with-no-arabica-or-robusta-the-excelsa-cafe-opens-in-san-diego/>
+
+---
+
+## Caravela Coffee Expands with Dry Mills in Guatemala and Mexico
+
+date: 2025-03-18, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Caravela Coffee-072 Guatemala" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Green coffee trading company Caravela recently expanded operations with the opening of new dry mills in Guatemala and Mexico.&#160; In February, Caravela inaugurated the state-of-the-art dry mills: Trilladora El Jaguar,... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/18/caravela-coffee-expands-with-dry-mills-in-guatemala-and-mexico/>
+
+---
+
+## Keto Waffles
+
+date: 2025-03-18, from: Taste of Home
+
+Keto waffles are a healthy addition to breakfast or brunch, even if you're not strictly low-carb. They're made with keto-friendly ingredients, including coconut milk, coconut oil, almond flour and eggs. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/keto-waffles/>
 
 ---
 
@@ -56,6 +292,30 @@ date: 2025-03-18, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/erica-escalantes-goal-for-the-reina-cafe-accelerator-program-help-new-cafes-thrive/>
+
+---
+
+## Carrot Cake Muffins
+
+date: 2025-03-18, from: Taste of Home
+
+These moist and fluffy carrot cake muffins are easy and endlessly adaptable. Customize with a plethora of mix-ins, toppings or a glaze to create the perfect muffin. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/carrot-cake-muffins/>
+
+---
+
+## Copycat Taco Bell Cinnamon Twists
+
+date: 2025-03-18, from: Taste of Home
+
+Sweet and crunchy copycat Taco Bell cinnamon twists are ridiculously easy to make at home, so skip the drive-thru! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/copycat-taco-bell-cinnamon-twists/>
 
 ---
 
@@ -365,7 +625,7 @@ All four of us—three partners, one baby—have our food preferences. This dinn
 
 date: 2025-03-17, from: Daily Coffee News
 
-<div><img width="620" height="417" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-620x417.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-620x417.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1.jpg 1034w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association-supported Coffee Science Foundation (CSF) today announced the launch of a new research project in partnership with the UC Davis Coffee Center focused on green coffee defects.&#160;... 
+<div><img width="620" height="417" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-620x417.jpg" class="attachment-large size-large wp-post-image" alt="green coffee" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-620x417.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1-768x517.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/green-coffee-1.jpg 1034w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association-supported Coffee Science Foundation (CSF) today announced the launch of a new research project in partnership with the UC Davis Coffee Center focused on green coffee defects.&#160;... 
 
 <br> 
 
@@ -389,7 +649,7 @@ Strawberry pudding is a simple and classic treat made by stirring mashed strawbe
 
 date: 2025-03-17, from: Daily Coffee News
 
-<div><img width="620" height="421" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-620x421.jpg" class="attachment-large size-large wp-post-image" alt="Hub Coffee Roasters" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-620x421.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-768x522.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1.jpg 1143w" sizes="(max-width: 620px) 100vw, 620px" /></div>Highlighting partnerships involving three different coffee farms in Colombia, the third and largest Hub Coffee Roasters cafe recently rolled into Reno, Nevada.&#160; The newly opened 3,100-square-foot cafe at the Reno... 
+<div><img width="620" height="421" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-620x421.jpg" class="attachment-large size-large wp-post-image" alt="Hub Coffee Roasters" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-620x421.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-300x204.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1-768x522.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hub-Coffee-Roasters-Reno-bar-1.jpg 1143w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Highlighting partnerships involving three different coffee farms in Colombia, the third and largest Hub Coffee Roasters cafe recently rolled into Reno, Nevada.&#160; The newly opened 3,100-square-foot cafe at the Reno... 
 
 <br> 
 
@@ -511,7 +771,7 @@ date: 2025-03-17, from: Isebel Eats
 
 date: 2025-03-17, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/chipotle-mayo/" title="Chipotle Mayo Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Chipotle Mayo served with fries and a burger" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This creamy chipotle mayo is easy to make with pantry ingredients, the perfect condiment for sandwiches, tacos, crab cakes, fries and tots, so much more. Learn how to make it at home.</p>
+<a href="https://www.chilipeppermadness.com/recipes/chipotle-mayo/" title="Chipotle Mayo Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creamy Chipotle Mayo served with fries and a burger" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Chipotle-Mayo-Recipe-BURGER2.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This creamy chipotle mayo is easy to make with pantry ingredients, the perfect condiment for sandwiches, tacos, crab cakes, fries and tots, so much more. Learn how to make it at home.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/chipotle-mayo/">Chipotle Mayo Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
