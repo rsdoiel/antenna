@@ -1,11 +1,140 @@
 ---
 title: writing
-updated: 2025-03-19 06:08:49
+updated: 2025-03-20 06:08:58
 ---
 
 # writing
 
-(date: 2025-03-19 06:08:49)
+(date: 2025-03-20 06:08:58)
+
+---
+
+## New White Paper on Federal Public Access Policies
+
+date: 2025-03-20, from: Author's Union blog
+
+Authors Alliance and SPARC have released the first of four planned white papers addressing legal issues surrounding open access to scholarly publications under the 2022 OSTP memo (the “Nelson Memo”). The white papers are part of a larger project (described here) to support legal pathways to open access. This first paper discussed the “Federal Purpose [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/03/20/new-white-paper-on-federal-public-access-policies/>
+
+---
+
+## The Dagger in Vichy by Alastair Reynolds: Review by Alexandra Pierce
+
+date: 2025-03-19, from: Locus Magazine
+
+<p><strong>The Dagger in Vichy</strong>, Alastair Reynolds (Subter­ranean 978-1-64524-280-2, $40.00, 120pp, hc) August 2025. Cover by Andrew Davis.</p>
+<p><strong>The Dagger in Vichy </strong>is very different from Alastair Reynolds’s other recent work. His most recent novel, <strong>Machine Vendetta </strong>(2024), saw him return to the Revelation Space universe. This novella, on the other hand, is set on Earth – albeit (it becomes clear) many centuries in the future. No space op­era, <strong>The </strong> <a href="https://locusmag.com/2025/03/the-dagger-in-vichy-by-alastair-reynolds-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/the-dagger-in-vichy-by-alastair-reynolds-review-by-alexandra-pierce/>
+
+---
+
+## Barakat and Mtoor Win 2025 Watermelon Grant
+
+date: 2025-03-19, from: Locus Magazine
+
+<p></p>
+<p>L.D. Lewis has announced Ibtisam Barakat and Monir Mtoor (Nissan Al-Jalele) as the winners of the inaugural 2025 Watermelon Grant. This grant &#8220;offers $2000 USD in unrestricted funds to an emerging Palestinian creator in the field of speculative arts.&#8221; The award will allow entry to different artistic media in different yearly cycles, including literary, visual, and performing artists. This year, it names Barakat the winner in poetry and Mtoor the  <a href="https://locusmag.com/2025/03/barakat-and-mtoor-win-2025-watermelon-grant/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/barakat-and-mtoor-win-2025-watermelon-grant/>
+
+---
+
+## Climate Fiction Prize 2025 Shortlist
+
+date: 2025-03-19, from: Locus Magazine
+
+<p>The Climate Fiction Prize has announced its inaugural shortlist. Founded by Rose Goddard, Imran Khan, and Leo Barasi and supported by Climate Spring, the prize seeks to &#8220;celebrate the most inspiring novels tackling the climate crisis.&#8221;</p>
+<p>Shortlisted titles and authors of genre interest include <strong>The Ministry of Time</strong> by Kaliane Bradley (Sceptre), <strong>Briefly Very Beautiful</strong> by Roz Dineen (Bloomsbury Circus), <strong>Orbital</strong> by Samantha Harvey (Jonathan Cape), and <strong>The Morningside</strong> by  <a href="https://locusmag.com/2025/03/climate-fiction-prize-2025-shortlist/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/climate-fiction-prize-2025-shortlist/>
+
+---
+
+## What if the movie I wrote turns out god-awful?
+
+date: 2025-03-19, from: Interesting, a blog on writing
+
+This is going to ruin the tour. 
+
+<br> 
+
+<https://inneresting.substack.com/p/what-if-the-movie-i-wrote-turns-out>
+
+---
+
+## Write On: Peter Katz - Manager & Producer, Story Driven
+
+date: 2025-03-19, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-manager-and-producer-peter-katz-story-driven" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Manager%20and%20Producer%20Peter%20Katz_Story%20Driven.png" alt="Write On Logo of a cell phone featuring a headshot of manager &amp; producer Peter Katz with headphones around it. Green amplitude shown in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“Sameness is terrible. Your goal is to cut through it. If you have a unique perspective, you’re going to take vampires or anything that everybody thinks they know and do it in a way that’s really exciting and gets people really pumped up about it. There are all these incredible worlds to explore, but there just needs to be somebody that can take you there that has a different way of doing it… I want to see creators that offer something specific and unique. Specificity is key to me. I don’t want a cover band. I don’t want people covering what has been before. I want to see something new. I want to see a badass band with a new singer or new lyrics, a new style of music,” says Peter Katz, founder of Story Driven, a literary management and production company.&nbsp;<br><br>On today’s episode, we speak to Peter Katz, a manager and producer championing writers with fresh, unique voices who are forging new ground. We talk about what he looks for in a writing sample, why he loves being a judge in Final Draft’s Big Break screenplay competition, and why short stories are having a bright moment in the film industry.&nbsp;<br><br>“Recently, I’ve actually seen TV executives starting to think about short stories as a foundation for potential shows. It’s a really effective way to communicate an idea quickly, in a really conceptual way, but also, it’s not like a pitch. It’s very tonal, you have character perspective and you have the style that the author brings to it. So I think it has a really unique marriage between pitching the concept, but also immersing you in a world in a very short period of time. That’s why I think it’s been effective in selling to a market because you could share a short story with somebody and it doesn’t demand a lot of time If it’s developed properly, you’re able to learn about the potential of this project and then quickly share with somebody else on your team. And overnight, a lot of people can sign on to a project because it doesn’t take as long as other mediums,” says Katz.&nbsp;<br><br>To hear more about Katz’s perspective on the industry and what he looks for in a writer’s voice, listen to the podcast.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-manager-and-producer-peter-katz-story-driven>
+
+---
+
+## Thaler v. Perlmutter: D.C. Court of Appeals confirms that a non-human machine cannot be an author under the U.S. Copyright Act
+
+date: 2025-03-19, from: Author's Union blog
+
+Yesterday, the U.S. Court of Appeals for the District of Columbia Circuit issued its ruling in Thaler v. Perlmutter, a case centered on the question of whether a non-human author, without any intervention from a human, could be an author and hold copyright under the U.S. Copyright Act. The court found that a non-human machine [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/03/19/thaler-v-perlmutter-d-c-court-of-appeals-confirms-that-a-non-human-machine-cannot-be-an-author-under-the-u-s-copyright-act/>
+
+---
+
+## The A24 Brand: What ‘Opus’ Teaches Us About Today’s Indie Films
+
+date: 2025-03-19, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/what-opus-teaches-us-about-todays-indie-films" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/John%20Malkovich%20leaning%20over%20a%20marionette%20in%20Opus.png" alt="John Malkovich leaning over a marionette in Opus" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>About 30 years ago, something changed in Hollywood. Big blockbuster movies by top-notch filmmakers were no longer the clear-cut favorites to win Academy Awards. Small films were breaking through the surface and gaining appeal among a wide audience. Suddenly, filmmakers like Steven Soderbergh, the Coen Brothers and Kevin Smith, whose films’ budgets were miniscule compared to studio feature films, were finding niche audiences and building box office credibility.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/what-opus-teaches-us-about-todays-indie-films>
+
+---
+
+## Transmentation | Transience by Darkly Lem: Review by Alexandra Pierce
+
+date: 2025-03-19, from: Locus Magazine
+
+<p><strong>Transmentation &#124; Transience</strong>, Darkly Lem (Blackstone 979-8-21218-599-8, $28.99, 400pp, hc) March 2025. Cover by Kathryn English.</p>
+<p>I came to this novel with no knowledge of what I was going into. I had heard that Darkly Lem was a collaboration between five authors – Josh Eure, Craig Lincoln, Ben Murphy, Cadwell Turn­bull, and M. Darusha Wehm – but I hadn’t read any of their individual work. On top of that,  <a href="https://locusmag.com/2025/03/transmentation-transience-by-darkly-lem-review-by-alexandra-pierce/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/transmentation-transience-by-darkly-lem-review-by-alexandra-pierce/>
 
 ---
 
@@ -149,7 +278,7 @@ date: 2025-03-17, from: Final Draft blog
 <div class="hs-featured-image-wrapper"> 
  <a href="https://blog.finaldraft.com/how-the-righteous-gemstones-premiere-surprised-fans" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Bradley%20Cooper%20as%20Elijah%20Gemstone%20wears%20Civil%20War%20attire%20standing%20next%20to%20various%20Civil%20War%20soldiers%20.png" alt="Bradley Cooper as Elijah Gemstone wears Civil War attire standing next to various Civil War soldiers in 'The Righteous Gemstones'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
 </div> 
-<p>The premier episode of the fourth and final season of <em>The Righteous Gemstones</em> has a lot of people talking.&nbsp;<br><br>The episode, titled simply “Prelude,” doesn’t feature any of the series’ regular cast. It also takes place during the Civil War, and not during the show’s present-day setting, as it follows an ancestor of the Gemstone family: Elijah Gemstone (played wonderfully by Bradley Cooper).<br><br>One of the main reasons the episode has created such a buzz is how much of a departure it is from the rest of the show. Cowritten and directed by <em>Gemstones</em> creator and star Danny McBride, “Prelude” is highly cinematic and carries far more gravitas than a typical episode of the comedic series.&nbsp;<br><br>There <em>have </em>been tonal shifts previously in <em>The Righteous Gemstones</em>, largely due to the acting chops of John Goodman (playing family patriarch Eli Gemstone), as well as the occasional dramatic-leaning turn. The same can be said for McBride’s other HBO series <em>Eastbound &amp; Down</em> and <em>Vice Principals</em>. Whether it’s a shocking burst of violence or a cathartic moment set to an evocative piece of music, McBride’s comedy — alongside frequent collaborators Jody Hill and David Gordon Green — has always been offset by not only a cinematic flair, but also a willingness to embrace different tones. &nbsp;</p> 
+<p>The premiere episode of the fourth and final season of <em>The Righteous Gemstones</em> has a lot of people talking.&nbsp;<br><br>The episode, titled simply “Prelude,” doesn’t feature any of the series’ regular cast. It also takes place during the Civil War, and not during the show’s present-day setting, as it follows an ancestor of the Gemstone family: Elijah Gemstone (played wonderfully by Bradley Cooper).<br><br>One of the main reasons the episode has created such a buzz is how much of a departure it is from the rest of the show. Cowritten and directed by <em>Gemstones</em> creator and star Danny McBride, “Prelude” is highly cinematic and carries far more gravitas than a typical episode of the comedic series.&nbsp;<br><br>There <em>have </em>been tonal shifts previously in <em>The Righteous Gemstones</em>, largely due to the acting chops of John Goodman (playing family patriarch Eli Gemstone), as well as the occasional dramatic-leaning turn. The same can be said for McBride’s other HBO series <em>Eastbound &amp; Down</em> and <em>Vice Principals</em>. Whether it’s a shocking burst of violence or a cathartic moment set to an evocative piece of music, McBride’s comedy — alongside frequent collaborators Jody Hill and David Gordon Green — has always been offset by not only a cinematic flair, but also a willingness to embrace different tones. &nbsp;</p> 
 
 <br> 
 

@@ -1,17 +1,17 @@
 ---
 title: weather
-updated: 2025-03-19 06:08:49
+updated: 2025-03-20 06:08:58
 ---
 
 # weather
 
-(date: 2025-03-19 06:08:49)
+(date: 2025-03-20 06:08:58)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-03-19, from: Eastern Pacific Basin GIS Data
+date: 2025-03-20, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
@@ -21,11 +21,11 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Wed Mar 19 12:50:02 UTC 2025
+## SPC - No watches are valid as of Thu Mar 20 12:48:01 UTC 2025
 
-date: 2025-03-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-03-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Mar 19 12:50:02 UTC 2025. 
+No watches are valid as of Thu Mar 20 12:48:01 UTC 2025. 
 
 <br> 
 
@@ -33,69 +33,49 @@ No watches are valid as of Wed Mar 19 12:50:02 UTC 2025.
 
 ---
 
-## SPC Mar 19, 2025 1300 UTC Day 1 Convective Outlook
+## SPC - No MDs are in effect as of Thu Mar 20 12:48:01 UTC 2025
 
-date: 2025-03-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-03-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Thu Mar 20 12:48:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Mar 20, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-03-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0745 AM CDT Wed Mar 19 2025
+0743 AM CDT Thu Mar 20 2025
 
-Valid 191300Z - 201200Z
+Valid 201300Z - 211200Z
 
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS
-AFTERNOON/EVENING FOR PARTS OF CENTRAL/NORTHERN ILLINOIS AND WEST
-CENTRAL INDIANA...
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
 
 ...SUMMARY...
-Scattered severe thunderstorms are possible this afternoon/evening
-from central/northern Illinois to western Indiana.  A few tornadoes,
-large hail, and damaging wind gusts will be possible.
+Thunderstorm development will be possible today in parts of the
+Mid-Atlantic and northern Rockies. Severe weather is not expected.
 
-...IL/IN this afternoon into early tonight...
-A deep (989 mb) cyclone near the northeast KS/northwest MO border
-will move northeastward to northern IL by this evening and Lower MI
-overnight, in conjunction with a deep midlevel trough and 100+ kt
-midlevel jet streak.  Elevated convection is ongoing this morning in
-a zone of focused ascent with warm advection/frontogenesis across
-IA, where isolated large hail may occur with MUCAPE around 500 J/kg
-and steep midlevel lapse rates/cool midlevel temperatures.  The warm
-sector of the cyclone is characterized by a narrow/modest corridor
-of returning moisture (low-mid 50s boundary-layer dewpoints) that
-will overspread MO/IL through the afternoon.  Surface heating in
-cloud breaks, continued moisture advection and relatively cool
-midlevel temperatures will all contribute to warm sector
-destabilization (MLCAPE 500-750 J/kg) through the afternoon across
-IL.
+...Eastern NC/southeast VA this afternoon...
+A midlevel trough and an associated surface cold front will progress
+eastward from the Appalachians to the Atlantic coast by late this
+evening/early tonight.  Only a narrow corridor of low-level
+moistening is expected ahead of the front, as a result of only
+partial air mass modification and poor trajectories from the Gulf
+and western Atlantic.  There could be sufficient heating and
+moistening for very weak buoyancy (100-200 J/kg MLCAPE) and
+convection deep enough to produce isolated lightning flashes in a
+band along the front this afternoon, especially across eastern NC. 
+While there is a low chance for isolated wind damage, the very weak
+buoyancy does not support the addition of severe wind probabilities.
 
-Surface-based thunderstorm development will become probable by
-early-mid afternoon in a broken band along and just ahead of a
-remnant dryline moving from MO into IL, and storms will subsequently
-move eastward/northeastward into IN by early tonight before
-weakening gradually.  The deeper buoyancy profiles will be on the
-cyclonic side of the midlevel jet, where 500 mb temperatures will be
-< -20 C. Forecast wind profiles suggest supercell potential with
-long hodographs (effective bulk shear vectors >50 kt), and
-sufficient low-level hodograph curvature/shear for tornado
-potential.  The primary uncertainty centers of the degree of
-low-level moistening/destabilization, and the current forecast
-represents a conditional/reasonable worst case scenario.  Otherwise,
-occasional large hail (1-1.5 inches in diameter) will be possible in
-IL this afternoon/evening, and the threat for damaging gusts (60-70
-mph) and a couple of tornadoes will persist into IN through early
-tonight.
-
-...TN/MS/AL this afternoon/evening...
-Boundary-layer dewpoints will slowly increase to the upper 50s/lower
-60s ahead of the surface wind shift moving across AR/LA this
-afternoon.  Forcing for ascent should be sufficient to remove the
-cap, allowing some deep convection in a broken band this
-afternoon/evening.  Buoyancy will be relatively weak compared to the
-vertical shear, so it will be difficult to get sustained severe
-storms and isolated wind damage will be the most probable threat.
-
-..Thompson/Dean.. 03/19/2025
+..Thompson/Dean.. 03/20/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -104,6 +84,132 @@ storms and isolated wind damage will be the most probable threat.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Mar 20, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-03-20, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0358 AM CDT Thu Mar 20 2025
+
+Valid 231200Z - 281200Z
+
+...DISCUSSION...
+...Sunday/Day 4 and Monday/Day 5...
+A large-scale cyclonic flow pattern will be in place across much of
+the continental U.S. on Sunday. An upper-level low will develop over
+the Great Lakes, as an associated trough moves southeastward from
+the Great Plains to the Mississippi Valley. A cold front is forecast
+to move southeastward into the Ozarks. Ahead of the front, moisture
+advection is forecast to occur over the Sabine and lower Mississippi
+Valleys, where surface dewpoints will likely be in the 60s F and
+moderate instability is expected to develop. Scattered thunderstorms
+appear likely to initiate ahead of the front Sunday evening from the
+Sabine River Valley northeastward into the Tennessee Valley, with an
+MCS developing Sunday evening. Moderate deep-layer shear will likely
+support severe thunderstorm development, with a potential for severe
+wind gusts, isolated large hail. A tornado threat may also develop.
+
+A cold front is forecast to move through the Gulf Coast region
+Sunday morning. Isolated severe storms could develop ahead of the
+front early in the day from the Texas Coast eastward to the central
+Gulf Coast and Florida Panhandle. Predictability remains low
+concerning where the greatest severe threat will be along this
+corridor. The severe threat should end during the day as the front
+moves southward into the Gulf.
+
+...Tuesday/Day 6 to Thursday/Day 8...
+On Tuesday, a mid-level trough is forecast to dig southeastward into
+the Mississippi Valley. At the surface, a moist airmass will remain
+over the Gulf Coast region. Isolated strong to severe storms could
+occur along the northern edge of this moist airmass. The greatest
+potential for severe could be across the Sabine River Valley, where
+some solutions have moderate instability Tuesday afternoon. This
+appears to be a conditional severe threat, and predictability is
+low.
+
+From Wednesday into Thursday, a relatively dry airmass is forecast
+over much of the nation. The exception could be across south Texas,
+where thunderstorm development will be possible. Although an
+isolated severe threat would be possible there, predictability at
+this extended range in the forecast cycle is low.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-03-20, from: NOAA Weather Forecasts
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0112 AM CDT Thu Mar 20 2025
+
+Valid 211200Z - 221200Z
+
+...Synopsis...
+Fire weather concerns will continue to linger across the Plains and
+parts of the Midwest on Friday as a dry cold front pushes
+southeastward across the central CONUS. The weak upper trough
+currently pushing into the Pacific Northwest and an attendant
+surface low are forecast to eject into the Plains early Friday,
+reaching the Great Lakes by evening. As this occurs, a trailing
+surface trough/cold front will migrate southeast into the central
+and southern Plains. Both pre- and post-frontal winds are forecast
+to reach into the 15-25 mph range across a broad swath of the
+central CONUS. A dry return flow regime is expected across central
+TX/OK and into KS/MO ahead of the front, while an influx of dry
+post-frontal air will promote RH values in the teens across NE, KS,
+CO, and NM. 
+
+...Southern Plains into the mid-MS River Valley...
+The recent frontal intrusion into the Gulf has shunted any
+appreciable moisture well offshore with low 30 dewpoints noted along
+the TX Gulf coast as of 05 UTC. Moisture return through Friday is
+expected to be minimal, and guidance that typically over-mixes the
+boundary layer will likely better capture RH trends within the dry
+return flow regime. As such, the current forecast relies heavily on
+RAP/HRRR solutions that depict widespread 15-20 mph winds and 20-25%
+RH minimums ahead of the front, including into northeast AR and MO
+where active fires were observed on Wednesday. Ensemble guidance
+appears to support these solutions with 50-70% probabilities for
+sustained winds above 15 mph across this region. 
+
+...High Plains...
+Elevated fire weather conditions are expected to be fairly
+widespread behind the front from the NE Panhandle southward into the
+southern High Plains. Downslope warming/drying should yield the
+driest conditions with RH values in the 15-25% range and widespread
+wind speed between 15-25 mph. Although continuous elevated wind/RH
+conditions are expected, the risk area is bifurcated across parts of
+eastern CO and KS where substantial rain/snow has fallen over the
+past 24 hours. Fuel trends will be monitored across these regions,
+and an expansion of the risk area(s) may be needed as snow melts and
+grasses dry over the next 48 hours.
+
+..Moore.. 03/20/2025
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
 
 ---
 
@@ -179,101 +285,6 @@ LAT...LON   38510077 40719967 42119789 43089633 43699472 43879405
 
 ---
 
-## SPC Mar 19, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-03-19, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0350 AM CDT Wed Mar 19 2025
-
-Valid 221200Z - 271200Z
-
-...DISCUSSION...
-...Saturday/Day 4 to Sunday/Day 5...
-A mid-level trough will move through the central U.S. on Saturday
-and Sunday, as moisture advection takes place across the southern
-Plains, lower Mississippi Valley and Ark-La-Tex. Thunderstorm
-development will likely take place ahead of the trough on Sunday
-afternoon and evening, along the northern edge of the moist airmass
-from the Red River Valley eastward into the lower Mississippi
-Valley. A threat for large hail and severe wind gusts will be
-possible within the more organized components of a developing MCS.
-The MCS is forecast to move southeastward through the lower
-Mississippi valley during the overnight period.
-
-...Monday/Day 6 to Wednesday/Day 8...
-On Monday, the trough is forecast to become amplified across the
-Ohio and Tennessee Valleys, as a cold front moves southward through
-the Gulf Coast states. Isolated severe storms could occur near the
-central Gulf Coast early in the day, but the majority of the storms
-are expected to move offshore into the Gulf. On Tuesday and
-Wednesday, surface high pressure is forecast to settle over the
-eastern half of the nation. This dry and cool airmass will make
-conditions unfavorable for thunderstorms over most of the
-continental U.S.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-03-19, from: NOAA Weather Forecasts
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0143 AM CDT Wed Mar 19 2025
-
-Valid 201200Z - 211200Z
-
-...CRITICAL FIRE WEATHER AREA FOR NORTHEAST NEW MEXICO...
-
-...Synopsis...
-Elevated to critical fire weather conditions are expected again on
-Thursday for parts of the southern High Plains. Surface high
-pressure is expected to build into the south-central CONUS through
-the day Thursday in the wake of the strong surface low currently
-over the Plains and its attendant cold front. Meanwhile aloft, a
-relatively low-amplitude upper wave will begin impinging on the
-northern Rockies, resulting in modest lee troughing from the
-northern to central High Plains. West/southwesterly downslope winds
-are expected to develop to the west of the lee trough, resulting in
-dry/windy conditions from eastern MT and WY southward into NM and
-southwest TX. Downslope warming/drying will support RH values in the
-teens across much of the High Plains with the lowest RH (5-15%)
-expected across eastern NM given antecedent dry conditions.
-Sustained winds of 15-25 mph appear likely across northeastern NM
-where fuels remain dry and limited precipitation is expected over
-the next 48 hours. Weaker winds with southward extent will limit the
-potential for critical conditions, but winds in the between 15-20
-mph will still support areas of elevated fire weather conditions.
-Further north into the central High Plains, elevated to critical
-meteorological conditions are likely, but ongoing rain/snow will
-likely mitigate fuel dryness for the next few days.
-
-..Moore.. 03/19/2025
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
 ## NHC Atlantic Outlook
 
 date: 2025-03-18, from: Graphical Tropical Weather Outlooks
@@ -291,18 +302,6 @@ ZCZC MIATWOAT ALL<br>TTAA00 KNHC DDHHMM<br><br>Special Tropical Weather Outlook<
 <br> 
 
 <https://www.nhc.noaa.gov/gtwo.php?basin=atlc>
-
----
-
-## SPC - No MDs are in effect as of Tue Mar 18 12:43:01 UTC 2025
-
-date: 2025-03-18, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Mar 18 12:43:01 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 

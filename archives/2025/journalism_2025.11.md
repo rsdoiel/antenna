@@ -1,11 +1,186 @@
 ---
 title: journalism
-updated: 2025-03-19 06:08:50
+updated: 2025-03-20 06:08:59
 ---
 
 # journalism
 
-(date: 2025-03-19 06:08:50)
+(date: 2025-03-20 06:08:59)
+
+---
+
+## Rolling Loud 2025 erupts in rage-rocking rhymes, political visuals
+
+date: 2025-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The world’s largest hip-hop music festival featured A$AP Rocky, Playboi Carti and Peso Pluma</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/20/rolling-loud-2025-erupts-in-rage-rocking-rhymes-political-visuals/">Rolling Loud 2025 erupts in rage-rocking rhymes, political visuals</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/20/rolling-loud-2025-erupts-in-rage-rocking-rhymes-political-visuals/>
+
+---
+
+## UC announces elimination of diversity statements in hiring processes
+
+date: 2025-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC announced Wednesday that it will no longer require diversity statements as part of hiring processes.
+The University has asked job applicants to explain how they would contribute to diversity, equity and inclusion at the university since the 2000s, according to the Los Angeles Times. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/19/uc-announces-elimination-of-diversity-statements-in-hiring-processes/>
+
+---
+
+## House committee requests information on Chinese national students at USC
+
+date: 2025-03-20, from: The Daily Trojan (USC Student Newspaper)
+
+<p> The letter claimed the United States student visa system has become a “Trojan horse” that provides Beijing unrestricted access to top research institutes. </p>
+<p>The post <a href="https://dailytrojan.com/2025/03/19/house-committee-requests-information-on-chinese-national-students-at-usc/">House committee requests information on Chinese national students at USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/19/house-committee-requests-information-on-chinese-national-students-at-usc/>
+
+---
+
+## Pro-Palestine protesters, UCLA Faculty Association protest during regents meeting
+
+date: 2025-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two separate groups protested on campus Wednesday, coinciding with a UC Board of Regents meeting at UCLA.
+Around 40 pro-Palestine protesters, many wearing keffiyehs and masks, gathered outside a UC Board of Regents meeting at the Meyer and Renee Luskin Conference Center to call for divestment from companies associated with the Israeli military. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/19/pro-palestine-protesters-ucla-faculty-association-protest-during-regents-meeting/>
+
+---
+
+## Report for America’s parent organization will “sunset” its in-house editorial projects to focus on funding local journalism
+
+date: 2025-03-19, from: Nieman Journalism Lab
+
+After a decade at the helm, Charlie Sennott is leaving the GroundTruth Project, the nonprofit journalism organization he founded in 2014 that also launched Report for America and Report for the World. Sennott, a 2006 Nieman Fellow, will take the GroundTruth Project name and newsletter to launch GroundTruth Media Partners LLC, a for-profit organization with... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/report-for-americas-parent-organization-will-sunset-its-in-house-editorial-projects-to-focus-on-funding-local-journalism/>
+
+---
+
+## UC implements systemwide hiring freeze following federal, state threats to budget
+
+date: 2025-03-19, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC announced it would implement a systemwide hiring freeze in response to recent federal and state policies which threaten to cut the University’s budget.
+UC President Michael Drake announced the move in a Wednesday email, saying that recent policies implemented by President Donald Trump’s administration endanger the University’s education, medical and research funds. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/19/uc-implements-systemwide-hiring-freeze-following-federal-state-threats-to-budget/>
+
+---
+
+## Artist of the week Jonah Hasegawa channels the blues on his guitar
+
+date: 2025-03-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Jonah Hasegawa (sophomore) said he started playing the guitar when he was 12 years old and is completely self-taught. “My dad had this guitar,&#8221; Hasegawa said. &#8220;It was lying around, and I guess I just decided to start playing it. I knew a little bit of theory, so I asked my dad to show me [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/03/19/artist-of-the-week-jonah-hasegawa-channels-the-blues-on-his-guitar/2914677">Artist of the week Jonah Hasegawa channels the blues on his guitar</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/03/19/artist-of-the-week-jonah-hasegawa-channels-the-blues-on-his-guitar/2914677>
+
+---
+
+## Oscar nominee Bill Morrison screens documentary featuring restored nitrate film
+
+date: 2025-03-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Bill Morrison, 2025 Oscar nominee, visited Occidental March 6 for a screening of his 2017 documentary “Dawson City: Frozen in Time.” The film tells the story of the birth, golden age and decline of Dawson City, a northern Canadian town which exploded in population for a brief time during the Klondike gold rush, only to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/03/19/oscar-nominee-bill-morrison-screens-documentary-featuring-restored-nitrate-film/2914675">Oscar nominee Bill Morrison screens documentary featuring restored nitrate film</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/03/19/oscar-nominee-bill-morrison-screens-documentary-featuring-restored-nitrate-film/2914675>
+
+---
+
+## United Nations Week gives students an insider perspective on the UN
+
+date: 2025-03-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Diplomacy &#38; World Affairs (DWA) department at Occidental has organized United Nations Week for at least two decades, Laura Hebert said via email. Hebert is a professor of Diplomacy &#38; World Affairs and the chair of the William and Elizabeth United Nations Program (Kahane UN Program) advisory committee. She was responsible for coordinating planning for the week, which took [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/culture/2025/03/19/united-nations-week-gives-students-an-insider-perspective-on-the-un/2914668">United Nations Week gives students an insider perspective on the UN</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/03/19/united-nations-week-gives-students-an-insider-perspective-on-the-un/2914668>
+
+---
+
+## College expands immigration trainings, students petition for nearby ICE presence notifications through OxyAlert
+
+date: 2025-03-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Occidental offered employee training in Jan. on protocol for immigration enforcement action on campus in the wake of a barrage of immigration policies espoused in President Donald Trump&#8217;s executive orders in the last few months, including an expansion of who is targeted for deportation, according to a March 6 email from Occidental&#8217;s President Tom Stritikus. The protocol states that [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/03/19/college-expands-immigration-trainings-students-petition-for-nearby-ice-presence-notifications-through-oxyalert/2914645">College expands immigration trainings, students petition for nearby ICE presence notifications through OxyAlert</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/19/college-expands-immigration-trainings-students-petition-for-nearby-ice-presence-notifications-through-oxyalert/2914645>
+
+---
+
+## Stories over coffee: Collage Coffee is a mosaic of coffee culture
+
+date: 2025-03-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Collage Coffee, between Eagle Rock and Highland Park on York Boulevard, is recognizable by its turquoise, Mexico City-style tiles and two doors that are always open. Collage Coffee opened in 2017 by Kevin Hockin. Collage&#8217;s current manager, Michael Szerszunowicz, roasted beans for Hockin before the COVID-19 pandemic when he co-owned a coffee shop, Bicycle Coffee, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/community/2025/03/19/stories-over-coffee-collage-coffee-is-a-mosaic-of-coffee-culture/2914665">Stories over coffee: Collage Coffee is a mosaic of coffee culture</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2025/03/19/stories-over-coffee-collage-coffee-is-a-mosaic-of-coffee-culture/2914665>
+
+---
+
+## UCI Professor Michael Méndez speaks on environmental justice for undocumented migrants amid California wildfires
+
+date: 2025-03-19, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Dr. Michael Méndez, assistant professor of environmental policy and planning at the University of California, Irvine and former Pinchot Faculty Fellow at the Yale School of the Environment, spoke at Occidental March 6 about how wildfires and other climate disasters have worsened existing inequalities for undocumented Latino and Indigenous migrants in California. Méndez said his [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://theoccidentalnews.com/news/2025/03/19/uci-professor-michael-mendez-speaks-on-environmental-justice-for-undocumented-migrants-amid-california-wildfires/2914641">UCI Professor Michael Méndez speaks on environmental justice for undocumented migrants amid California wildfires</a> appeared first on <a rel="nofollow" href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/19/uci-professor-michael-mendez-speaks-on-environmental-justice-for-undocumented-migrants-amid-california-wildfires/2914641>
+
+---
+
+## The New York Times picks up the shuttered FiveThirtyEight’s poll tracking database
+
+date: 2025-03-19, from: Nieman Journalism Lab
+
+When ABC shut down FiveThirtyEight early this month, the site&#8217;s publicly available polling databases — like a presidential approval rating tracker — shut down, too. Many news outlets, including The New York Times and FiveThirtyEight founder Nate Silver&#8217;s Silver Bulletin, had relied on the data for election coverage, and people worried about its disappearance. &#8220;Collecting and maintaining... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/the-new-york-times-picks-up-the-shuttered-fivethirtyeights-poll-tracking-database/>
 
 ---
 

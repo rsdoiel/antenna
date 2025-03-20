@@ -1,11 +1,99 @@
 ---
 title: motorcycles
-updated: 2025-03-19 06:08:52
+updated: 2025-03-20 06:09:01
 ---
 
 # motorcycles
 
-(date: 2025-03-19 06:08:52)
+(date: 2025-03-20 06:09:01)
+
+---
+
+## Will Hero’s Upcoming ADV Bike Feature Some Of Its Racing DNA?
+
+date: 2025-03-20, from: Ride Apart, Electric Motorcycle News
+
+The XPulse 421 might just be the next big thing in the ADV scene. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753949/hero-xpulse421-adv-coming-soon/>
+
+---
+
+## This Dirt Bike Water Bladder Promises Next Level Performance, Has Baja Credentials
+
+date: 2025-03-20, from: Ride Apart, Electric Motorcycle News
+
+Will I finally remember to drink? 
+
+<br> 
+
+<https://www.rideapart.com/news/753928/fluidlogic-dirt-bike-hydration-bladder/>
+
+---
+
+## Heads Up, Kawasaki Issues Stop Sale, Recall On Some Ninja 500s and Z500s
+
+date: 2025-03-20, from: Ride Apart, Electric Motorcycle News
+
+There's a clutch lever issue, and it could affect riding safety. 
+
+<br> 
+
+<https://www.rideapart.com/news/754042/kawasaki-ninja500-z500-clutch-recall/>
+
+---
+
+## This Retro-Inspired Mini Bike Is Actually Just A Scooter In Disguise
+
+date: 2025-03-20, from: Ride Apart, Electric Motorcycle News
+
+And it has some Italian inspirations, too. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753947/qj-motor-srk-125e-mini-bike-launched/>
+
+---
+
+## NASCAR Power Rankings: History for Berry and the Wood Brothers shakes things up after Vegas
+
+date: 2025-03-19, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Going into this past weekend, all eyes were on Christopher Bell as he looked to become the first driver to win four races in a&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-power-rankings-history-for-berry-and-the-wood-brothers-shakes-things-up-after-vegas/>
+
+---
+
+## This Honda RVF750 RC45 Race Bike Is Looking For Its Forever Home
+
+date: 2025-03-19, from: Ride Apart, Electric Motorcycle News
+
+It’s nothing short of a living legend from the golden era of superbike racing.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753842/honda-rvf750-rc45-race-bike-for-sale-uk/>
+
+---
+
+## The Surfing Dog On This Motorcycle Helmet Has Viral Internet History
+
+date: 2025-03-19, from: Ride Apart, Electric Motorcycle News
+
+It’s not just cute, it also sends an important message we all could learn from. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753844/arai-rx7x-nagashima-surfing-dog-meme/>
 
 ---
 

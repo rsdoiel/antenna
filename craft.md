@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-03-19 06:08:53
+updated: 2025-03-20 06:09:03
 ---
 
 # craft
 
-(date: 2025-03-19 06:08:53)
+(date: 2025-03-20 06:09:03)
+
+---
+
+## New Edition of ‘Roubo on Furniture’ (With a Special Price)
+
+date: 2025-03-19, from: Lost Arg Press blog
+
+We&#8217;ve just received 3,000 copies of our newest edition of &#8220;With All the Precision Possible: Roubo on Furniture&#8221; and are offering it for a special introductory price: $100 with free domestic shipping until April 20, 2025. This new edition is a significant upgrade &#8220;trade&#8221; edition, which was in black-and-white and on uncoated paper. The new... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/19/new-edition-of-roubo-on-furniture-with-a-special-price/>
 
 ---
 

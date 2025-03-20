@@ -1,11 +1,411 @@
 ---
 title: pacific
-updated: 2025-03-19 06:08:47
+updated: 2025-03-20 06:08:56
 ---
 
 # pacific
 
-(date: 2025-03-19 06:08:47)
+(date: 2025-03-20 06:08:56)
+
+---
+
+## Hungary’s president signs law banning Pride parade despite protests
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>BUDAPEST &#8212; Hungary&#8217;s president has signed a law proposed by Prime Minister Viktor Orban&#8217;s ruling party that will ban LGBTQ+ communities from holding their annual Pride march, defying criticism by human rights organisations that it restricts freedom of assembly.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/hungarys-president-signs-law-banning-pride-parade-despite-protests/>
+
+---
+
+## Menaced by Trump, Canada prepares to join EU military industry buildup
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>OTTAWA, Ontario &#8212; Canada is in advanced talks with the European Union to join the bloc&#8217;s new project to expand its military industry, a move that would allow Canada to be part of building European fighter jets and other military equipment at its own industrial facilities.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/menaced-by-trump-canada-prepares-to-join-eu-military-industry-buildup/>
+
+---
+
+## Judges fear for their safety amid a wave of threats
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s angry call Tuesday for the impeachment of a federal judge who ruled against his administration on deportation flights has set off a string of near-instant social media taunts and threats, including images of judges being marched off in handcuffs.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/judges-fear-for-their-safety-amid-a-wave-of-threats/>
+
+---
+
+## Big Tech’s data center boom poses new risk to US grid operators
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Data Center Alley, a 30-square-mile stretch outside Washington D.C. and home to more than 200 data centers, consumes roughly the same electricity as Boston. So power company officials were alarmed when a big chunk of those centers - 60 of them - suddenly dropped off the grid one day last summer and switched to on-site generators.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/big-techs-data-center-boom-poses-new-risk-to-us-grid-operators/>
+
+---
+
+## What oil executives want from President Trump
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Oil and gas executives met with President Donald Trump at the White House on Wednesday as they seek to influence him on tariffs, tax credits and deregulation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/what-oil-executives-want-from-president-trump/>
+
+---
+
+## Record 2024 temperatures accelerate ice loss, rise in sea levels, UN weather body says
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>SINGAPORE &#8212; Record greenhouse gas levels helped bring temperatures to an all-time high in 2024, accelerating glacier and sea ice loss, raising sea levels and edging the world closer to a key warming threshold, the U.N. weather body said on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/record-2024-temperatures-accelerate-ice-loss-rise-in-sea-levels-un-weather-body-says/>
+
+---
+
+## News in brief for March 20
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Social Security Administration will no longer allow changes by phone</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/news-in-brief-for-march-20/>
+
+---
+
+## Israeli opposition to Netanyahu finds voice as war returns to Gaza
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; A coalition of hostage families and protesters against Israeli Prime Minister Benjamin Netanyahu&#8217;s moves against the judiciary and parts of the security establishment is coming together again after war returned this week to Gaza.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/israeli-opposition-to-netanyahu-finds-voice-as-war-returns-to-gaza/>
+
+---
+
+## Trump, Zelenskiy pledge in phone call to work for end to war in Ukraine
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump and Ukrainian President Volodymyr Zelenskyy agreed on Wednesday to work together to end Russia&#8217;s war with Ukraine, in what the White House described as a &#8220;fantastic&#8221; one-hour phone call.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/trump-zelenskiy-pledge-in-phone-call-to-work-for-end-to-war-in-ukraine/>
+
+---
+
+## Trump to sign order to shut down Department of Education, White House says
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump will sign a long-anticipated executive order today that aims to shut down the Department of Education, acting on a key campaign pledge, according to a White House summary seen by Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/trump-to-sign-order-to-shut-down-department-of-education-white-house-says/>
+
+---
+
+## Fed Holds Rates Steady and Predicts Higher Inflation, Slower Growth Ahead
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Federal Reserve left interest rates unchanged in its meeting Wednesday for a second time in a row, and officials stuck to their previous forecast for two more cuts this year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/fed-holds-rates-steady-and-predicts-higher-inflation-slower-growth-ahead/>
+
+---
+
+## Defiance and threats in deportation case renew fear of constitutional crisis
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Over the weekend, the Trump administration ignored a federal judge&#8217;s order not to deport a group of Venezuelan men, violating an instruction that could not have been plainer or more direct.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/nation-world-news/defiance-and-threats-in-deportation-case-renew-fear-of-constitutional-crisis/>
+
+---
+
+## Aloha Ilio Rescue to hold large pet-adoption event
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>Whether you already have a furry loved one to care for or you&#8217;re looking for that perfect animal addition to the family, Aloha Ilio Rescue&#8217;s fourth annual &#8220;Cause for Paws&#8221; event will have what you need.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/hawaii-news/aloha-ilio-rescue-to-hold-large-pet-adoption-event/>
+
+---
+
+## California man sentenced in Waikoloa stabbing
+
+date: 2025-03-20, from: Hawaii Tribune Harold
+
+
+				<p>A 67-year-old San Pedro, Calif., man who stabbed his then 64-year-old girlfriend several times with a steak knife while the couple was vacationing in South Kohala in 2022 has been sentenced to 20 years imprisonment.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/20/hawaii-news/california-man-sentenced-in-waikoloa-stabbing/>
+
+---
+
+## Japan-RMI mini-summit
+
+date: 2025-03-20, from: Marshal Islands Journal
+
+<p>Japan Prime Minister Shigeru Ishiba met RMI President Dr. Hilda C. Heine last week during her visit to Japan. The following is from a release provided by the Japan Embassy in Majuro. He also welcomed the RMI’s participation in Expo 2025, Osaka, Kansai, Japan, and also expressed his expectation for the RMI’s participation in the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/japan-rmi-mini-summit/">Japan-RMI mini-summit</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/japan-rmi-mini-summit/>
+
+---
+
+## Miss Majel focused on youth
+
+date: 2025-03-20, from: Marshal Islands Journal
+
+<p>WILMER JOEL Claret Chong Gum has taken the role of Miss Marshall Islands to new heights under her two-year reign. The Journal had a brief interview with Miss Marshall Islands during the opening of International Women’s Day in Jenrok, where she reflected on the role and how it transformed her. “It has been two years, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/miss-majel-focused-on-youth/">Miss Majel focused on youth</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/miss-majel-focused-on-youth/>
+
+---
+
+## PICRC teams up with Pacific RISA for  climate change adaptation in Palau
+
+date: 2025-03-20, from: Pacific Island Times
+
+The Palau International Coral Reef Center has signed a project award of $269,535 funded by the National Oceanic and Atmospheric Administrati 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/picrc-teams-up-with-pacific-risa-for-climate-change-adaptation-in-palau>
+
+---
+
+## CNMI delegate proposes reinstatement of Essential Air Service Eligibility for local airports
+
+date: 2025-03-20, from: Pacific Island Times
+
+By Pacific Island Times News Staff   CNMI Del. Kimberlyn King-Hinds has introduced H.R.2132, a landmark bill aimed at reestablishing... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/cnmi-delegate-proposes-reinstatement-of-essential-air-service-eligibility-for-local-airports>
+
+---
+
+## UH Hilo’s Paquet named PacWest Player of the Week for perfect singles record
+
+date: 2025-03-20, from: University of Hawaiʻi News
+
+<p>Jaime Paquet earned the tennis honor after a 3-0 singles record on Court 1, extending his win streak to four matches.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/19/paquet-pacwest-player-week/"><abbr>UH</abbr> Hilo’s Paquet named PacWest Player of the Week for perfect singles record</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/19/paquet-pacwest-player-week/>
+
+---
+
+## Water polo’s Doyle earns 2nd Big West Player this season
+
+date: 2025-03-20, from: University of Hawaiʻi News
+
+<p>Bernadette Doyle scored a hat trick and the game-winning goal in overtime for Hawaiʻiʻs 9-8 win over Long Beach State.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/19/water-polo-doyle-earns-bw-player-week/">Water polo’s Doyle earns 2nd Big West Player this season</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/19/water-polo-doyle-earns-bw-player-week/>
+
+---
+
+## Connecting students to careers at Kapiʻolani CC
+
+date: 2025-03-19, from: University of Hawaiʻi News
+
+<p>Students mingle with industry leaders and explore career pathways at <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/19/connecting-students-careers-kapiolani-cc/">Connecting students to careers at Kapiʻolani <abbr>CC</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/19/connecting-students-careers-kapiolani-cc/>
+
+---
+
+## GIZ backs RMI’s sustainable ships
+
+date: 2025-03-19, from: Marshal Islands Journal
+
+<p>The Marshall Islands continues to move forward in its commitment to sustainable maritime transport with the continued support of the German government. The German Cooperation Agency (GIZ) facilitated a high-level RMI delegation visit to Manila last month led by Minister of Transport Hilton Kendall. The delegation included Ambassador Albon Ishoda, Presidential Special Envoy for Maritime [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/giz-backs-rmis-sustainable-ships/">GIZ backs RMI’s sustainable ships</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/giz-backs-rmis-sustainable-ships/>
+
+---
+
+## UH announces search committee for next athletics director
+
+date: 2025-03-19, from: University of Hawaiʻi News
+
+<p>The university aims to conduct finalist interviews in late May and announce the new hire by mid to late summer.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/19/uh-search-committee-next-ad/"><abbr>UH</abbr> announces search committee for next athletics director</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/19/uh-search-committee-next-ad/>
+
+---
+
+## Scaling agroforestry supports fisheries, food production, cultural practices
+
+date: 2025-03-19, from: University of Hawaiʻi News
+
+<p>The study calls on policymakers, conservation organizations and funders to integrate biocultural strategies into conservation policies and funding mechanisms.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/19/forest-protection-food-production/">Scaling agroforestry supports fisheries, food production, cultural practices</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/19/forest-protection-food-production/>
+
+---
+
+## Hawaiʻi State Legislature honors late oceanographer Klaus Wyrtki
+
+date: 2025-03-19, from: University of Hawaiʻi News
+
+<p>The certificate recognizing Wyrtki’s legacy was presented to his widow, Erika Wyrtki, by her extended family during a symposium dedicated to his scientific achievements.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/19/klaus-wrtyki-honor/">Hawaiʻi State Legislature honors late oceanographer Klaus Wyrtki</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/19/klaus-wrtyki-honor/>
+
+---
+
+## World Down Syndrome Day
+
+date: 2025-03-19, updated: 2025-03-20, from: Marianas Variety
+
+THIS coming March 21st, Friday, marks the anniversary of World Down Syndrome Day or WDSD, and for the thirteenth year in 2025, this day will be officially observed by the United Nations. The date, 21st of March, was selected to signify the uniqueness of the triplication (trisomy) of the 21st chromosome which causes Down syndrome. It is also considered a day of global awareness for everyone to make it a better day than any day in support for individuals with Down Syndrome. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/world-down-syndrome-day/article_97b8db14-04b5-11f0-9992-7f1a0f146775.html>
+
+---
+
+## Thank you IT&E!
+
+date: 2025-03-19, updated: 2025-03-20, from: Marianas Variety
+
+IT&amp;E is an Isla Sponsor of the 44th Annual Flame Tree Festival set for April 25-27, 2025 at the Garapan Fishing Base. The telecommunications company donated $2,000 and an iPhone 15 to the Commonwealth Council for Arts &amp; Culture, which organizes the longest running annual arts and cultural festival in the region. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/thank-you-it-e/article_a454bb6d-75f2-4e3f-be37-0c56cb5c0d34.html>
+
+---
+
+## Saipan Community School announces 2nd Quarter Honor List
+
+date: 2025-03-19, updated: 2025-03-20, from: Marianas Variety
+
+“PRINCIPAL’S List” 4.00 – (No grade below a “A”) 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/saipan-community-school-announces-2nd-quarter-honor-list/article_af97cd28-04b3-11f0-8384-e31b4d627e1e.html>
+
+---
+
+## Soderbergh’s sleek spy thriller ‘Black Bag’ crackles
+
+date: 2025-03-19, updated: 2025-03-20, from: Marianas Variety
+
+(AP) — If you’re hosting a dinner for half a dozen British intelligence agents with the aim of ferreting out a mole, what should you cook? 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/soderbergh-s-sleek-spy-thriller-black-bag-crackles/article_000dab7e-04b4-11f0-b9c8-573fdcc787ca.html>
+
+---
+
+## ‘Sunrise’ arrives at midnight for fans celebrating release of new ‘Hunger Games’ novel
+
+date: 2025-03-19, updated: 2025-03-20, from: Marianas Variety
+
+NEW YORK (AP) — Savannah Miller, 26 years old and a “Hunger Games” reader for half of her life, has only grown in admiration for Suzanne Collins’ dystopian novels. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/sunrise-arrives-at-midnight-for-fans-celebrating-release-of-new-hunger-games-novel/article_f7d20e04-04b4-11f0-b420-db792c44b7ae.html>
 
 ---
 

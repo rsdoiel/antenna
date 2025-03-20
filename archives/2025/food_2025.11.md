@@ -1,11 +1,373 @@
 ---
 title: food
-updated: 2025-03-19 06:08:53
+updated: 2025-03-20 06:09:02
 ---
 
 # food
 
-(date: 2025-03-19 06:08:53)
+(date: 2025-03-20 06:09:02)
+
+---
+
+## The Best Kebabs in Paris
+
+date: 2025-03-20, from: Bon Appetet
+
+Parisian life is fueled by endless combinations of fire-grilled meat, crisp vegetables, and bright sauce folded into pliable bread. These versions are a cut above the rest. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-kebabs-restaurants-paris>
+
+---
+
+## Meatball Soup
+
+date: 2025-03-20, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/03/Meatball-Soup-1200-5647.jpg"/></div>
+<p>Meatballs and pasta in a soup with a tasty beef and tomato broth! Meatballs are one of my favourite meals and this meatball soup is an amazing way to enjoy them! This recipe takes all of the flavours of the classic Italian style meatball spaghetti and throws them into a soup! I like to make...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/meatball-soup/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/meatball-soup/">Meatball Soup</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/meatball-soup/>
+
+---
+
+## These Protein-Packed Cutlets Were a Birthday Request
+
+date: 2025-03-20, from: Bon Appetet
+
+Some people want cake. Test kitchen editor Jesse wanted chicken. 
+
+<br> 
+
+<https://www.bonappetit.com/story/protein-packed-chicken-cutlets>
+
+---
+
+## Blue Apron Review: A Meal Kit That Can Teach You About Cooking
+
+date: 2025-03-20, from: Bon Appetet
+
+Get ready to practice your knife skills 
+
+<br> 
+
+<https://www.bonappetit.com/story/blue-apron-review>
+
+---
+
+## Willa’s Apple and Bacon French Toast
+
+date: 2025-03-20, from: Taste of Home
+
+This special occasion French toast brings together a lot of fun flavors and textures. Sharp Gruyere cheese, tart apples and salty bacon make this a memorable addition to any brunch. —Willa Brown-Coosemans Crossfield, Canada 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/willas-apple-and-bacon-french-toast/>
+
+---
+
+## Southwestern Quiche
+
+date: 2025-03-20, from: Taste of Home
+
+This Southwest-inspired quiche is packed with sweet honey goat cheese, red and green peppers and fresh corn. It's my favorite quiche because it perfectly toes the line between breakfast and lunch. —Julie Merriman, Seattle, Washington 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/southwestern-quiche/>
+
+---
+
+## Sheet-Pan Breakfast Quesadillas
+
+date: 2025-03-20, from: Taste of Home
+
+We love to have family and friends over for brunch on the weekends. These soft and cheesy breakfast quesadillas are everyone's favorite! —Donna Gribbins, Shelbyville, Kentucky 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sheet-pan-breakfast-quesadillas/>
+
+---
+
+## Raspberry Smoothie Bowls
+
+date: 2025-03-20, from: Taste of Home
+
+This raspberry smoothie bowl is loaded with protein and a few of my favorite toppings: granola, coconut and chia seeds. Best part? It's ready in just 10 minutes! —Andrea Potischman, Menlo Park, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/raspberry-smoothie-bowls/>
+
+---
+
+## Apple Crumble Kugel
+
+date: 2025-03-20, from: Taste of Home
+
+I received an apple crumble recipe from my sister and combined it with kugel. A crumb topping enhances this brunch-style treat! —Dawn Lowenstein, Huntingdon Valley, Pennsylvania 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/apple-crumble-kugel/>
+
+---
+
+## Maple Granola with Dried Fruit
+
+date: 2025-03-20, from: Taste of Home
+
+Nutritious and delicious, this healthy homemade granola is a great start to your day! Enjoy it as a cereal or sprinkle it over yogurt or ice cream. Maple syrup and dried berries make it extra sweet. —Francine Lizotte, Langley, British Columbia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/maple-granola-with-dried-fruit/>
+
+---
+
+## Chipotle Tater Tot Breakfast Burritos
+
+date: 2025-03-20, from: Taste of Home
+
+One of my son's favorite local restaurants sells delicious burritos with tater tots inside. I wanted to surprise him with my own version for breakfast. He loves the crispy tater tots that balance out the softness of the rest of the burrito. —Elisabeth Larsen, Pleasant Grove, Utah 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chipotle-tater-tot-breakfast-burritos/>
+
+---
+
+## Berry Crepes with Coconut-Pistachio Crunch
+
+date: 2025-03-20, from: Taste of Home
+
+After finishing basic training in the U.S. Army, my first meal back was brunch. In the mess hall, they had different stations with brunch items and I opted for the chef making crêpes. I remember eating those crêpes and knowing that I'd be able to adjust to my new life. I was so inspired that I tried my hand at my own sweet and crunchy version. —Sharyn LaPointe Hill, Las Cruces, New Mexico 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/berry-crepes-with-coconut-pistachio-crunch/>
+
+---
+
+## Everything Bagel Lox Brunch Pizza
+
+date: 2025-03-20, from: Taste of Home
+
+I took my favorite brunch flavors and put them all on this pizza! An everything bagel layered with smoked salmon, briny capers, herby cheese and tangy pickled onions makes pure magic. It’s a good way to feed a crowd. —Pamela Gelsomini, Wrentham, Massachusetts 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/everything-bagel-lox-brunch-pizza/>
+
+---
+
+## Deep South Jalapeño Cheese Grits
+
+date: 2025-03-20, from: Taste of Home
+
+Grits are a true Deep South staple that warms the soul. I've made these spicy, cheesy baked grits for family, friends and church potlucks for many years. They’re always a hit! —Tamera Hazen, Daphne, Alabama 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/deep-south-jalapeno-cheese-grits/>
+
+---
+
+## Bacon and Feta Dutch Baby
+
+date: 2025-03-20, from: Taste of Home
+
+The best part about Dutch babies is how versatile they are. This savory, Greek-inspired one is my favorite. Sometimes, I’ll serve it plain with toppings on the side so everyone can top their own slice, like a taco bar. —Kristyne McDougle Walter, Lorain, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/bacon-and-feta-dutch-baby/>
+
+---
+
+## Sausage, Blueberry and Apricot Casserole
+
+date: 2025-03-20, from: Taste of Home
+
+My perfect breakfast or brunch menu always includes this quick sausage, blueberry and apricot casserole. Because it's so easy to prepare and made with pantry staples, it's a great choice for a relaxing weekend with family and friends. —Joan Hallford, North Richland Hills, Texas 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/sausage-blueberry-and-apricot-casserole/>
+
+---
+
+## I Made the Viral Pansy-Shaped Flower Sugar Cookies, and Now I’m Ready for Spring
+
+date: 2025-03-20, from: Taste of Home
+
+<p>These pansy-shaped sugar cookies are the cutest springtime addition to your cookie jar.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/flower-sugar-cookies/">I Made the Viral Pansy-Shaped Flower Sugar Cookies, and Now I&#8217;m Ready for Spring</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/flower-sugar-cookies/>
+
+---
+
+## I Tested 3 Viral Filet-O-Fish Hacks—Here’s the One That Actually Works
+
+date: 2025-03-19, from: Taste of Home
+
+<p>I found the best Filet-O-Fish hacks on Reddit and TikTok and put them to the test.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-filet-o-fish-hack/">I Tested 3 Viral Filet-O-Fish Hacks—Here&#8217;s the One That Actually Works</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-filet-o-fish-hack/>
+
+---
+
+## Lemon Drop Martini
+
+date: 2025-03-19, from: Bon Appetet
+
+This punchy sweet-and-sour lemon drop cocktail is best served with a side of gossip at your next happy hour. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/lemon-drop-martini-recipe>
+
+---
+
+## Buckeye Brownies
+
+date: 2025-03-19, from: Taste of Home
+
+Buckeye brownies are a simple but scrumptious dessert that starts with a boxed brownie mix. Once baked, the brownies are topped with a layer of sweetened peanut butter and then covered with melted chocolate for the ultimate chocolate and peanut butter treat! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/buckeye-brownies/>
+
+---
+
+## Here’s Why Queen Camilla Doesn’t Cook for King Charles
+
+date: 2025-03-19, from: Taste of Home
+
+<p>You won't find Camilla in the royal kitchen.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/why-camilla-doesnt-cook-for-charles/">Here’s Why Queen Camilla Doesn’t Cook for King Charles</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/why-camilla-doesnt-cook-for-charles/>
+
+---
+
+## Oreo Just Confirmed the Return of This Beloved Summer Flavor
+
+date: 2025-03-19, from: Taste of Home
+
+<p>No campfire needed for s'mores Oreos!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/smores-oreos-2025/">Oreo Just Confirmed the Return of This Beloved Summer Flavor</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/smores-oreos-2025/>
+
+---
+
+## I Need Plant-Based Protein Recipes
+
+date: 2025-03-19, from: Bon Appetet
+
+On this episode of Dinner SOS, Chris and Shilpa are here to help George tackle plant-based proteins. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-plant-based-protein-recipes>
+
+---
+
+## Cuisinart Immersion Blender Review: A Powerful Cordless Option
+
+date: 2025-03-19, from: Taste of Home
+
+<p>We put the Cuisinart immersion blender to the test in our kitchen—here's how it fared.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cuisinart-immersion-blender-review/">Cuisinart Immersion Blender Review: A Powerful Cordless Option</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cuisinart-immersion-blender-review/>
+
+---
+
+## These Port Cities Have the Best Local Food Scenes
+
+date: 2025-03-19, from: Bon Appetet
+
+Stretch your sea legs at these iconic destinations. 
+
+<br> 
+
+<https://www.bonappetit.com/story/cruise-port-cities-with-world-class-food-scenes>
+
+---
+
+## Amazon Spring Sale: Shop the Best Kitchen Deals (2025)
+
+date: 2025-03-19, from: Bon Appetet
+
+Stock up on kitchen tools and save big on Breville, Staub, Dyson, Ninja, and other top brands. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-spring-sale>
+
+---
+
+## Design Details: The Subjective Shape of Flavor with WeBe Coffee
+
+date: 2025-03-19, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg" class="attachment-large size-large wp-post-image" alt="WeBe Coffee Phoenix 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/19/design-details-the-subjective-shape-of-flavor-with-webe-coffee/>
+
+---
+
+## FAO Report Cites Climate as Driver of Price Volatility, Calls for Transparency
+
+date: 2025-03-19, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee parchment" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new report by the United Nations Food and Agriculture Organization (FAO) highlights how climate change is exacerbating price volatility, while calling for increased transparency and information-sharing among market participants.... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/19/fao-report-cites-climate-as-driver-of-price-volatility-calls-for-transparency/>
+
+---
+
+## West Lou Coffee is Brewing a Future For Louisville’s West End
+
+date: 2025-03-19, from: Daily Coffee News
+
+<div><img width="620" height="518" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-620x518.jpg" class="attachment-large size-large wp-post-image" alt="West Lou Coffee bags" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-620x518.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-300x250.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-150x125.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-768x641.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-600x500.jpg 600w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Louisville, Kentucky-based small batch roasting company West Lou Coffee made its first big move in late 2024, relocating from a food business incubator kitchen into a dedicated roastery. From within... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/19/west-lou-coffee-is-brewing-a-future-for-louisvilles-west-end/>
 
 ---
 
@@ -105,7 +467,7 @@ A Caprese sandwich highlights simple, seasonal ingredients for a fresh and delic
 
 date: 2025-03-18, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-620x400.png" class="attachment-large size-large wp-post-image" alt="Raiforest Alliance" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The third-party sustainability certifier Rainforest Alliance recently launched a new version of its sustainable agriculture standard, while also introducing a future add-on program for specializations in regenerative agriculture, climate or... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-620x400.png" class="attachment-large size-large wp-post-image" alt="Raiforest Alliance" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-620x400.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-300x194.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-150x97.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance-768x495.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Raiforest-Alliance.png 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The third-party sustainability certifier Rainforest Alliance recently launched a new version of its sustainable agriculture standard, while also introducing a future add-on program for specializations in regenerative agriculture, climate or... 
 
 <br> 
 
@@ -213,7 +575,7 @@ For these entrepreneurs, building a flourishing footprint of Yemeni coffeehouses
 
 date: 2025-03-18, from: Daily Coffee News
 
-<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-620x450.jpg" class="attachment-large size-large wp-post-image" alt="Excelsa-Cafe-OB" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-620x450.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-768x557.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>While most specialty coffee shops promote their rarefied high-end arabica coffees, a new coffee business in San Diego called Excelsa Coffee Company is promoting a separate species altogether.&#160; The company... 
+<div><img width="620" height="450" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-620x450.jpg" class="attachment-large size-large wp-post-image" alt="Excelsa-Cafe-OB" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-620x450.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-300x218.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-150x109.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1-768x557.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Excelsa-Cafe-OB-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>While most specialty coffee shops promote their rarefied high-end arabica coffees, a new coffee business in San Diego called Excelsa Coffee Company is promoting a separate species altogether.&#160; The company... 
 
 <br> 
 
@@ -225,7 +587,7 @@ date: 2025-03-18, from: Daily Coffee News
 
 date: 2025-03-18, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Caravela Coffee-072 Guatemala" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Green coffee trading company Caravela recently expanded operations with the opening of new dry mills in Guatemala and Mexico.&#160; In February, Caravela inaugurated the state-of-the-art dry mills: Trilladora El Jaguar,... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Caravela Coffee-072 Guatemala" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caravela-Coffee-072-Guatemala.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Green coffee trading company Caravela recently expanded operations with the opening of new dry mills in Guatemala and Mexico.&#160; In February, Caravela inaugurated the state-of-the-art dry mills: Trilladora El Jaguar,... 
 
 <br> 
 

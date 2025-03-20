@@ -1,11 +1,546 @@
 ---
 title: snapshots
-updated: 2025-03-19 06:08:54
+updated: 2025-03-20 06:09:03
 ---
 
 # snapshots
 
-(date: 2025-03-19 06:08:54)
+(date: 2025-03-20 06:09:03)
+
+---
+
+## New White Paper on Federal Public Access Policies
+
+date: 2025-03-20, from: Authors Union blogs
+
+Authors Alliance and SPARC have released the first of four planned white papers addressing legal issues surrounding open access to scholarly publications under the 2022 OSTP memo (the “Nelson Memo”). The white papers are part of a larger project (described here) to support legal pathways to open access. This first paper discussed the “Federal Purpose [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/03/20/new-white-paper-on-federal-public-access-policies/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-20, from: Dave Winer's linkblog)
+
+Profile of Steve Davis, Elon Musk’s Top Lieutenant Who Oversees DOGE. 
+
+<br> 
+
+<https://www.nytimes.com/2025/03/20/technology/elon-musk-steve-davis-doge.html?unlocked_article_code=1.5U4.GUNb.xRg-iIHV9zKe&smid=url-share>
+
+---
+
+## The Emperor’s New Philosophy
+
+date: 2025-03-20, from: Paul Krugman
+
+Of drunkards, lampposts and economic doctrines 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-emperors-new-philosophy>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-20, from: Dave Winer's linkblog)
+
+Good morning sports fans!  😊 
+
+<br> 
+
+<https://m.youtube.com/watch?v=ilP0dGXFNgw>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-20, from: Dave Winer's linkblog)
+
+Thejesh Is shutting down his Mastodon instance. 
+
+<br> 
+
+<https://thejeshgn.com/2025/03/20/shutting-down-my-mastodon-instance/>
+
+---
+
+## Calling a wrap on my weeknotes
+
+date: 2025-03-20, updated: 2025-03-20, from: Simon Willison’s Weblog
+
+<p>After <a href="https://simonwillison.net/tags/weeknotes/">192 posts</a> that ranged from weekly to roughly once-a-month, I've decided to call a wrap on my weeknotes habit. The <a href="https://simonwillison.net/2019/Sep/13/weeknotestwitter-sqlite-datasette-rure/">original goal</a> was to stay transparent during my 2019-2020 JSK fellowship, and I kept them up after that as an accountability mechanism and to get into a habit of writing regularly.</p>
+<p>Over the past two years I've adopted new posting habits which are solving those problems in other ways:</p>
+<ul>
+<li>I post something here almost every day. I actually maintained a daily posting streak throughout 2024, which I <a href="https://simonwillison.net/2025/Jan/2/ending-a-year-long-posting-streak/">ended in January</a>, but I'm still posting most days and plan to keep that up.</li>
+<li>Every time I ship a new release of one of my projects I link to it from here. This replaces the "recent releases" section of my weeknotes.</li>
+<li>I try to have a longer form piece of writing that's suitable for inclusion in <a href="https://simonw.substack.com/">my newsletter</a> at least once every two weeks. That's another accountability mechanism that's working well for me.</li>
+</ul>
+<p>One downside of weeknotes is that I'd sometimes save something to include in them, which could lead to several items getting bundled together in a way that reduced their potential impact as standalone posts.</p>
+<p>I got to the point with weeknotes where I was feeling guilty about not keeping them up. Given the volume of content I'm publishing already that felt like a sign that they were no longer providing the value they once did!</p>
+<p>I still think weeknotes are an excellent habit for anyone who wants to write more frequently and be more transparent about their work. It feels healthy to be able to end a habit that's finished serving its purpose.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/weeknotes">weeknotes</a>, <a href="https://simonwillison.net/tags/streaks">streaks</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/20/calling-a-wrap-on-my-weeknotes/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-20, from: Feed for Alt USDS)
+
+The mail arrives. Flights take off. Social Security checks hit bank accounts. You don’t think about it—it just works.
+
+That’s routinization, and it’s under threat. A former federal worker warns: If we lose it, we ALL pay the price. 🚨 Read more: https://www.wethebuilders.org/posts/government-stability
+
+#altgov @altusds 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkrlnsoi222g>
+
+---
+
+## Lilbits: EU orders Apple  to open up iPhone and iPad key technologies to competitors
+
+date: 2025-03-20, from: Liliputing
+
+<p>The European Union is telling Apple that, in order to comply with the Digital Markets Act, the company needs to allow competing device makers and app developers to access core iPhone and iPad technologies including peer-to-peer WiFi connection, NFC, proximity-triggered device pairing, AirDrop, AirPlay, and media casting. Apple isn&#8217;t particularly happy about any of that, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-eu-orders-apple-to-open-up-iphone-and-ipad-key-technologies-to-competitors/">Lilbits: EU orders Apple  to open up iPhone and iPad key technologies to competitors</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-eu-orders-apple-to-open-up-iphone-and-ipad-key-technologies-to-competitors/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-20, from: Dave Winer's linkblog)
+
+JFK assassination files converted to Markdown, uploaded to GitHub. 
+
+<br> 
+
+<https://github.com/amasad/jfk_files>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-20, from: Dave Winer's linkblog)
+
+Democrats Troll Republicans For Ghosting Their Constituents. 
+
+<br> 
+
+<https://www.huffpost.com/entry/democrats-troll-republicans-town-halls_n_67db1b7ae4b097824b243026>
+
+---
+
+## 549. The Road to 1066: Revenge of the Vikings (Part 2)
+
+date: 2025-03-20, from: This is history podcast
+
+<p>Following the bloody St Brice’s Day Massacre, of the 13th of November 1002, which saw King Æthelred brutally exterminating the Danes from England, the Vikings were hungry for revenge. None more so than the terrifying Scandinavian King, Sweyn Forkbeard. Having capitalised on his famous father, Harold Bluetooth’s unification of Norway and Denmark, through his aggressive [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/549-the-road-to-1066-revenge-of-the-vikings-part-2/">549. The Road to 1066: Revenge of the Vikings (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/549-the-road-to-1066-revenge-of-the-vikings-part-2/>
+
+---
+
+## OpenAI platform: o1-pro
+
+date: 2025-03-19, updated: 2025-03-19, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://platform.openai.com/docs/models/o1-pro">OpenAI platform: o1-pro</a></strong></p>
+OpenAI have a new most-expensive model: o1-pro can now be accessed through their API at a hefty $150/million tokens for input and $600/million tokens for output. That's 10x the price of their o1 and o1-preview models and a full 1,000x times more expensive than their cheapest model, gpt-4o-mini!</p>
+<p>Aside from that it has mostly the same features as o1: a 200,000 token context window, 100,000 max output tokens, Sep 30 2023 knowledge cut-off date and it supports function calling, structured outputs and image inputs.</p>
+<p>o1-pro doesn't support streaming, and most significantly for developers is the first OpenAI model to <em>only</em> be available via their new <a href="https://platform.openai.com/docs/api-reference/responses">Responses API</a>. This means tools that are built against their Chat Completions API (like my own <a href="https://llm.datasette.io/">LLM</a>) have to do a whole lot more work to support the new model - my <a href="https://github.com/simonw/llm/issues/839">issue for that is here</a>.</p>
+<p>Since LLM doesn't support this new model yet I had to make do with <code>curl</code>:</p>
+<pre><code>curl https://api.openai.com/v1/responses \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $(llm keys get openai)" \
+  -d '{
+    "model": "o1-pro",
+    "input": "Generate an SVG of a pelican riding a bicycle"
+  }'
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/0439d0255360c68b8f621133860710b1">the full JSON</a> I got back - 81 input tokens and 1552 output tokens for a <a href="https://tools.simonwillison.net/llm-prices">total cost</a> of 94.335 cents.</p>
+<p><img alt="Clearly a bird riding a bicycle. The pedals are in the wrong place and the bird doesn't quite have the majestic beak of a pelican." src="https://static.simonwillison.net/static/2025/o1-pro-pelican.png" /></p>
+<p>I took a risk and added <code>"reasoning": {"effort": "high"}</code> to see if I could get a better pelican with more reasoning:</p>
+<pre><code>curl https://api.openai.com/v1/responses \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer $(llm keys get openai)" \
+  -d '{
+    "model": "o1-pro",
+    "input": "Generate an SVG of a pelican riding a bicycle",
+    "reasoning": {"effort": "high"}
+  }'
+</code></pre>
+<p>Surprisingly that used <em>less</em> output tokens - 1459 compared to 1552 earlier (cost: 88.755 cents) - <a href="https://gist.github.com/simonw/085d81e1160157572c9bd361b01374c4">producing this JSON</a> which rendered as a slightly better pelican:</p>
+<p><img alt="A bit better - no pedals, so they cannot be in the wrong place. The bird has a slightly more majestic beak." src="https://static.simonwillison.net/static/2025/o1-pro-high-pelican.png" /></p>
+<p>It was cheaper because while it spent 960 reasoning tokens as opposed to 704 for the previous pelican it omitted the explanatory text around the SVG, saving on total output.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/o1">o1</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/inference-scaling">inference-scaling</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/19/o1-pro/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Menaced by Trump, Canada Prepares to Join E.U. Military Industry Efforts. 
+
+<br> 
+
+<https://www.nytimes.com/2025/03/19/world/canada/canada-eu-military-industry-trump.html?unlocked_article_code=1.5E4.daLb.bE5Ld12TXx4X&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Where is an example of a Ghost-published post  on a Mastodon server? 
+
+<br> 
+
+<https://www.theverge.com/news/632880/ghost-newsletter-blog-fediverse-activitypub-beta-live>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Trump-Musk Scandal on Ukrainian Kids Stolen by Russia Just Got Darker. 
+
+<br> 
+
+<https://newrepublic.com/article/192924/trump-musk-scandal-ukrainian-kids-stolen-russia>
+
+---
+
+## ShopTalk on YouTube
+
+date: 2025-03-19, from: Chris Coyier blog
+
+We&#8217;ve long had a YouTube channel for ShopTalk, but now we&#8217;re posting regular ol&#8217; episodes to it, which we&#8217;ve never done before. Like this: And &#8220;shorts&#8221; here and there that we&#8217;ll clip out of the shows when it&#8217;s fun. 
+
+<br> 
+
+<https://chriscoyier.net/2025/03/19/shoptalk-on-youtube/>
+
+---
+
+## Lifetime Dependencies in Swift 6.2 and Beyond
+
+date: 2025-03-19, from: Michael Tsai
+
+John McCall: SE-0446 added basic language support in Swift for non-escapable types, whose values are restricted in scope. However, it intentionally left out the ability for functions and properties to return values of these types, pending a future proposal to add lifetime dependencies. The design and implementation of that proposal is still in progress. In [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/19/lifetime-dependencies-in-swift-6-2-and-beyond/>
+
+---
+
+## DMA Compliance: Watch and Headphone Interoperability
+
+date: 2025-03-19, from: Michael Tsai
+
+Benjamin Mayo (Hacker News): The EU has followed up on its Digital Markets Act specification procedures for Apple regarding the iPhone&#8217;s interoperability with third-party connected devices like smartwatches and headphones, as announced last fall. Today&#8217;s announcement details exactly what third-party integrations the EU commission expects Apple to implement. This includes giving third-party devices access to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/19/dma-compliance-watch-and-headphone-interoperability/>
+
+---
+
+## Apple Restricts Pebble From Being Awesome With iPhones
+
+date: 2025-03-19, from: Michael Tsai
+
+Eric Migicovsky (via Dare Obasanjo, Hacker News): During Pebble v1, I learned how much harder it is to build a great smartwatch experience on iPhone than it is on Android. It sounds like things have actually gotten worse over the last 8 years. I want to set expectations accordingly. We will build a good app [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/19/apple-restricts-pebble-from-being-awesome-with-iphones/>
+
+---
+
+## Apple Passwords Phishing Vulnerability
+
+date: 2025-03-19, from: Michael Tsai
+
+Arin Waichulis (Hacker News, MacRumors): It&#8217;s now been revealed that a serious HTTP bug left Passwords users vulnerable to phishing attacks for nearly three months, from the initial release of iOS 18 until the patch in iOS 18.2.Security researchers at Mysk first discovered the flaw after noticing that their iPhone&#8217;s App Privacy Report showed Passwords [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/19/apple-passwords-phishing-vulnerability/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+The Cost of the Government’s Attack on Columbia. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/03/columbia-academic-freedom/682088/?gift=f35zZN0v_gDFE8xNwlQAHVJ-IIZ1pSnpH8eDD81rBA0&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Mecha Comet modular Linux handheld gets pre-launch upgrade, coming to Kickstarter in Q3, 2025
+
+date: 2025-03-19, from: Liliputing
+
+<p>The Mecha Comet is a phone-sized modular computer with a small touchscreen display positioned above a modular input area where you can place a QWERTY keyboard, game pad, or other devices. After making its debut at CES in January, the Mecha Comet has undergone some changes &#8211; in a recent live stream the company announced it [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/mecha-comet-modular-linux-handheld-gets-pre-launch-upgrade-coming-to-kickstarter-in-q3-2025/">Mecha Comet modular Linux handheld gets pre-launch upgrade, coming to Kickstarter in Q3, 2025</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/mecha-comet-modular-linux-handheld-gets-pre-launch-upgrade-coming-to-kickstarter-in-q3-2025/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Work in Progress: What Trump Took Away. 
+
+<br> 
+
+<https://www.emptywheel.net/2025/03/18/work-in-progress-what-trump-took-away/>
+
+---
+
+## Not all AI-assisted programming is vibe coding (but vibe coding rocks)
+
+date: 2025-03-19, updated: 2025-03-19, from: Simon Willison’s Weblog
+
+<p><strong>Vibe coding</strong> is having a moment. The term <a href="https://twitter.com/karpathy/status/1886192184808149383">was coined by Andrej Karpathy</a> just a few weeks ago (on February 6th) and has since been featured <a href="https://www.nytimes.com/2025/02/27/technology/personaltech/vibecoding-ai-software-programming.html">in the New York Times</a>, <a href="https://arstechnica.com/ai/2025/03/is-vibe-coding-with-ai-gnarly-or-reckless-maybe-some-of-both/">Ars Technica</a>, <a href="https://www.theguardian.com/technology/2025/mar/16/ai-software-coding-programmer-expertise-jobs-threat">the Guardian</a> and countless online discussions.</p>
+<p>I'm concerned that the definition is already escaping its original intent. I'm seeing people apply the term "vibe coding" to all forms of code written with the assistance of AI. I think that both dilutes the term and gives a false impression of what's possible with responsible <a href="https://simonwillison.net/tags/ai-assisted-programming/">AI-assisted programming</a>.</p>
+<p>Vibe coding is <em>not</em> the same thing as writing code with the help of LLMs!</p>
+<p>To quote Andrej's <a href="https://twitter.com/karpathy/status/1886192184808149383">original tweet</a> in full (with my emphasis added):</p>
+<blockquote>
+<p>There's a new kind of coding I call "vibe coding", where you fully give in to the vibes, embrace exponentials, and <strong>forget that the code even exists</strong>. It's possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper so I barely even touch the keyboard.</p>
+<p>I ask for the dumbest things like "decrease the padding on the sidebar by half" because I'm too lazy to find it. I "Accept All" always, I don't read the diffs anymore. When I get error messages I just copy paste them in with no comment, usually that fixes it. The code grows beyond my usual comprehension, I'd have to really read through it for a while. Sometimes the LLMs can't fix a bug so I just work around it or ask for random changes until it goes away.</p>
+<p><strong>It's not too bad for throwaway weekend projects, but still quite amusing</strong>. I'm building a project or webapp, but it's not really coding - I just see stuff, say stuff, run stuff, and copy paste stuff, and it mostly works.</p>
+</blockquote>
+<p>I <em>love</em> this definition. Andrej is an extremely talented and experienced programmer - he has no need for AI assistance at all. He's using LLMs like this because it's fun to try out wild new ideas, and the speed at which an LLM can produce code is an order of magnitude faster than even the most skilled human programmers. For low stakes projects and prototypes why not just <em>let it rip</em>?</p>
+
+<p>When I talk about vibe coding I mean <strong>building software with an LLM without reviewing the code it writes</strong>.</p>
+
+<h4 id="using-llms-for-code-responsibly-is-not-vibe-coding">Using LLMs for code responsibly is not vibe coding</h4>
+<p>Let's contrast this "forget that the code even exists" approach to how professional software developers use LLMs.</p>
+<p>The job of a software developer is not (just) to churn out code and features. We need to create code that demonstrably works, and can be understood by other humans (and machines), and that will support continued development in the future.</p>
+<p>We need to consider performance, accessibility, security, maintainability, cost efficiency. Software engineering is all about trade-offs - our job is to pick from dozens of potential solutions by balancing all manner of requirements, both explicit and implied.</p>
+<p>We also <em>need</em> to read the code. My golden rule for production-quality AI-assisted programming is that I won't commit any code to my repository if I couldn't explain exactly what it does to somebody else.</p>
+<p>If an LLM wrote the code for you, and you then reviewed it, tested it thoroughly and made sure you could explain how it works to someone else that's not vibe coding, it's software development. The usage of an LLM to support that activity is immaterial.</p>
+<p>I wrote extensively about my own process in <a href="https://simonwillison.net/2025/Mar/11/using-llms-for-code/">Here’s how I use LLMs to help me write code</a>. Vibe coding only describes a small subset of my approach.</p>
+<h4 id="let-s-not-lose-track-of-what-makes-vibe-coding-special">Let's not lose track of what makes vibe coding special</h4>
+<p>I don't want "vibe coding" to become a negative term that's synonymous with irresponsible AI-assisted programming either. This weird new shape of programming has so much to offer the world!</p>
+<p>I believe <strong>everyone deserves the ability</strong> to automate tedious tasks in their lives with computers. You shouldn't need a computer science degree or programming bootcamp in order to get computers to do extremely specific tasks for you.</p>
+<p>If vibe coding grants millions of new people the ability to build their own custom tools, I could not be happier about it.</p>
+<p>Some of those people will get bitten by the programming bug and go on to become proficient software developers. One of the biggest barriers to that profession is the incredibly steep initial learning curve - vibe coding shaves that initial barrier down to almost flat.</p>
+<p>Vibe coding also has a ton to offer experienced developers. I've talked before about how <a href="https://simonwillison.net/2025/Mar/11/using-llms-for-code/">using LLMs for code is difficult</a> - figuring out what does and doesn't work is a case of building intuition over time, and there are plenty of hidden sharp edges and traps along the way.</p>
+<p>I think vibe coding is the best tool we have to help experienced developers build that intuition as to what LLMs can and cannot do for them. I've published more than <a href="https://tools.simonwillison.net/colophon">80 experiments</a> I built with vibe coding and I've learned so much along the way. I would encourage any other developer, no matter their skill level, to try the same.</p>
+<h4 id="when-is-it-ok-to-vibe-code-">When is it OK to vibe code?</h4>
+<p>If you're an experienced engineer this is likely obvious to you already, so I'm writing this section for people who are just getting started building software.</p>
+<ul>
+<li>Projects should be <strong>low stakes</strong>. Think about how much harm the code you are writing could cause if it has bugs or security vulnerabilities. Could somebody be harmed - damaged reputation, lost money or something worse? This is particularly important if you plan to build software that will be used by other people!</li>
+<li>Consider <strong>security</strong>. This is a really difficult one - security is a huge topic. Some high level notes:
+<ul>
+<li>Watch out for <strong>secrets</strong> - anything that looks similar in shape to a password, such as the API key used to access an online tool. If your code involves secrets you need to take care not to accidentally expose them, which means you need to understand how the code works!</li>
+<li>Think about <strong>data privacy</strong>. If you are building a tool that has access to private data - anything you wouldn't want to display to the world in a screen-sharing session - approach with caution. It's possible to vibe code personal tools that you paste private information into but you need to be very sure you understand if there are ways that data might leave your machine.</li>
+</ul>
+</li>
+<li>Be a <strong>good network citizen</strong>. Anything that makes requests out to other platforms could increase the load (and hence the cost) on those services. This is a reason I like <a href="https://simonwillison.net/tags/claude-artifacts/">Claude Artifacts</a> - their sandbox prevents accidents from causing harm elsewhere.</li>
+<li>Is <strong>your money on the line</strong>? I've seen horror stories about people who vibe coded a feature against some API without a billing limit and racked up thousands of dollars in charges. Be very careful about using vibe coding against anything that's charged based on usage.</li>
+</ul>
+<p>If you're going to vibe code anything that might be used by other people, I recommend checking in with someone more experienced for a vibe check (hah) before you share it with the world.</p>
+<h4 id="how-do-we-make-vibe-coding-better-">How do we make vibe coding better?</h4>
+<p>I think there are some fascinating software design challenges to be solved here.</p>
+<p>Safe vibe coding for complete beginners starts with a <a href="https://en.wikipedia.org/wiki/Sandbox_(computer_security)">sandbox</a>. Claude Artifacts was one of the first widely available vibe coding platforms and their approach to sandboxing is fantastic: code is restricted to running in a locked down <code>&lt;iframe&gt;</code>, can load only approved libraries and can't make any network requests to other sites.</p>
+<p>This makes it very difficult for people to mess up and cause any harm with their projects. It also greatly limits what those projects can do - you can't use a Claude Artifact project to access data from external APIs for example, or even to build software that runs your own prompts against an LLM.</p>
+<p>Other popular vibe coding tools like Cursor (which was initially intended for professional developers) have far less safety rails.</p>
+<p>There's plenty of room for innovation in this space. I'm hoping to see a cambrian explosion in tooling to help people build their own custom tools as productively and safely as possible.</p>
+<h4 id="go-forth-and-vibe-code">Go forth and vibe code</h4>
+<p>I really don't want to discourage people who are new to software from trying out vibe coding. The best way to learn anything is to build a project!</p>
+<p>For experienced programmers this is an amazing way to start developing an intuition for what LLMs can and can't do. For beginners there's no better way to open your eyes to what's possible to achieve with code itself.</p>
+<p>But please, don't confuse vibe coding with all other uses of LLMs for code.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/sandboxing">sandboxing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/19/vibe-coding/#atom-everything>
+
+---
+
+## Thaler v. Perlmutter: D.C. Court of Appeals confirms that a non-human machine cannot be an author under the U.S. Copyright Act
+
+date: 2025-03-19, from: Authors Union blogs
+
+Yesterday, the U.S. Court of Appeals for the District of Columbia Circuit issued its ruling in Thaler v. Perlmutter, a case centered on the question of whether a non-human author, without any intervention from a human, could be an author and hold copyright under the U.S. Copyright Act. The court found that a non-human machine [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/03/19/thaler-v-perlmutter-d-c-court-of-appeals-confirms-that-a-non-human-machine-cannot-be-an-author-under-the-u-s-copyright-act/>
+
+---
+
+## This $80 wristwatch has an Atari 2600-inspired design, features 4 playable Atari games
+
+date: 2025-03-19, from: Liliputing
+
+<p>Earlier this year Atari partnered with Nubeo to release a premium, limited edition watch with a design inspired by the classic Asteroids video game. It had an interesting design, but it was basically just a watch. Now Atari is taking pre-orders for another watch. This time it&#8217;s the Atari 2600 My Play watch that&#8217;s both a fitness tracker [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-80-wristwatch-has-an-atari-2600-inspired-design-features-4-playable-atari-games/">This $80 wristwatch has an Atari 2600-inspired design, features 4 playable Atari games</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-80-wristwatch-has-an-atari-2600-inspired-design-features-4-playable-atari-games/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Stephen Mays wrote up a list of his early web influencers. 
+
+<br> 
+
+<https://www.smays.com/2025/03/early-web-influencers/>
+
+---
+
+## Google Pixel 9a is coming in April for $499 and up
+
+date: 2025-03-19, from: Liliputing
+
+<p>The Google Pixel 9a is a smartphone that shares many of the features of Google&#8217;s pricier Pixel 9 and 9 Pro smartphones. But it has an updated design (goodbye camera bar), a lower starting price, and a bigger battery than its siblings. Google did cut a few corners to keep the price low though. Google says the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/google-pixel-9a-is-coming-in-april-for-499-and-up/">Google Pixel 9a is coming in April for $499 and up</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/google-pixel-9a-is-coming-in-april-for-499-and-up/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-19, from: Feed for Alt USDS)
+
+Major! Thanks @wired.com 🙏
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkqkewvkyc2n>
+
+---
+
+## Facial Recognition Company Clearview Attempted to Buy Social Security Numbers and Mugshots for its Database
+
+date: 2025-03-19, from: 404 Media Group
+
+Clearview AI spent nearly a million dollars in a bid to purchase “690 million arrest records and 390 million arrest photos” from all 50 states, court records reveal. 
+
+<br> 
+
+<https://www.404media.co/facial-recognition-company-clearview-attempted-to-buy-social-security-numbers-and-mugshots-for-its-database/>
+
+---
+
+## Humor as Strategy
+
+date: 2025-03-19, from: Guy Kawasaki blog
+
+Turn skeptics into believers and make remarkable progress. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/humor-as-strategy>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+If you want to understand what Musk and Trump are doing, this scene from Goodfellas explains. It&#39;s worth watching, I promise. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=P4nYgfV2oJA&t=130s>
+
+---
+
+## Meta Promises to Fight Misinformation in Australia With Same Strategy It Killed in the U.S. to Appease Trump
+
+date: 2025-03-19, from: 404 Media Group
+
+Meta is preparing for the Australian election by working closely with the government and news outlets that Zuckerberg said were “clearly political” and dismissed in the US. 
+
+<br> 
+
+<https://www.404media.co/meta-promises-to-fight-misinformation-in-australia-with-same-strategy-it-killed-in-the-u-s-to-appease-trump/>
+
+---
+
+## Track air quality anywhere with Raspberry Pi
+
+date: 2025-03-19, from: Raspberry Pi News (.com)
+
+<p>This handheld air quality meter designed around Raspberry Pi Pico 2 detects and displays levels of pollutants in the air.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/track-air-quality-anywhere-with-raspberry-pi/">Track air quality anywhere with Raspberry Pi</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/track-air-quality-anywhere-with-raspberry-pi/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Does the Foreign Emoluments Clause Apply to Elon Musk? 
+
+<br> 
+
+<https://www.lawfaremedia.org/article/does-the-foreign-emoluments-clause-apply-to-elon-musk>
+
+---
+
+## People Are Using AI to Create Influencers With Down Syndrome Who Sell Nudes
+
+date: 2025-03-19, from: 404 Media Group
+
+Instagram’s unwillingness to moderate AI-generated content finds a new low.  
+
+<br> 
+
+<https://www.404media.co/people-are-using-ai-to-create-influencers-with-down-syndrome-who-sell-nudes/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
+
+Trump’s Tax Cuts Mainly Benefit Wealthy. 
+
+<br> 
+
+<https://politicalwire.com/2025/03/19/trumps-tax-cuts-mainly-benefit-wealthy/>
+
+---
+
+## The Tool Quandry
+
+date: 2025-03-19, updated: 2025-03-19, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/19/the-tool-quandry/>
 
 ---
 
@@ -1117,7 +1652,7 @@ My recent piece on <a href="https://simonwillison.net/2025/Mar/11/using-llms-for
 <p>My <a href="https://simonwillison.net/2025/Mar/8/delaying-personalized-siri/">hunch about Apple Intelligence Siri features being delayed</a> due to prompt injection also got a mention in <a href="https://podcasts.apple.com/us/podcast/apples-siri-ous-problem-how-starlink-took-over-the/id1528594034?i=1000699160930">the most recent episode</a> of the New York Times Hard Fork podcast.
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/the-guardian">the-guardian</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/the-guardian">the-guardian</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p> 
 
 <br> 
 

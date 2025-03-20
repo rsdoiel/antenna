@@ -1,11 +1,351 @@
 ---
 title: socal north
-updated: 2025-03-19 06:08:46
+updated: 2025-03-20 06:08:55
 ---
 
 # socal north
 
-(date: 2025-03-19 06:08:46)
+(date: 2025-03-20 06:08:55)
+
+---
+
+## For LAUSD’s students with disabilities, cellphone use is a balancing act
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+There are at least 63,000 students with disabilities in the Los Angeles Unified School District, and many may be exempted from the district’s restrictive cellphone policy. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-cell-phone-ban-students-with-disabilities-504-iep-special-education>
+
+---
+
+## Best things to do this weekend in LA and SoCal: March 21 - 23
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+Kelsea Ballerini at Crypto.com, the L.A. Folk Festival returns, a David Lynch-inspired meditation, Korean eats at Fanny’s, and more of the best things to do this weekend. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-march-21-23>
+
+---
+
+## SoCal welcomes first day of spring with warmer weather
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+Highs in the 70s for most areas today with clear skies. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-welcomes-first-day-of-spring-with-warmer-weather>
+
+---
+
+## Culver City cracking down on drivers blocking bus lanes and stops
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+New cameras on buses will spot cars parked where they shouldn't be. The goal is to improve bus service reliability and safety. 
+
+<br> 
+
+<https://laist.com/news/transportation/culver-city-cracking-down-on-drivers-blocking-bus-lanes-and-stops>
+
+---
+
+## Meet the filmmakers who (not so secretly) love AI
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+Many writers, actors and animators see artificial intelligence as a villain. But for some filmmakers, AI is a powerful democratizing tool. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/meet-the-filmmakers-who-not-so-secretly-love-ai>
+
+---
+
+## Residentes Enojados Porque un Segundo Vertedero del Noreste del Valle se usa para Escombros de Incendios
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="671" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Polvo excesivo, malos olores y demasiados camiones de basura en las calles de Sun Valley es lo que Claudia Aréchiga y sus vecinos han soportado durante años en su comunidad [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/residentes-enojados-porque-un-segundo-vertedero-del-noreste-del-valle-se-usa-para-escombros-de-incendios/">Residentes Enojados Porque un Segundo Vertedero del Noreste del Valle se usa para Escombros de Incendios</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/residentes-enojados-porque-un-segundo-vertedero-del-noreste-del-valle-se-usa-para-escombros-de-incendios/>
+
+---
+
+## La AQMD de la Costa Sur Aprueba una Reducción de los Malos Olores de Sunshine Canyon
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="681" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?fit=1024%2C681&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=300%2C199&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=1024%2C681&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=768%2C511&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=1536%2C1021&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=2048%2C1361&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=1200%2C798&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=1568%2C1042&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=2000%2C1330&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=400%2C266&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?resize=706%2C469&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/SCL-Meeting-02-e1742449754548.jpg?fit=1024%2C681&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Durante una audiencia celebrada el 19 de marzo, los funcionarios del Distrito de Gestión de la Calidad del Aire de la Costa Sur (AQMD) votaron a favor de aprobar una [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/la-aqmd-de-la-costa-sur-aprueba-una-reduccion-de-los-malos-olores-de-sunshine-canyon/">La AQMD de la Costa Sur Aprueba una Reducción de los Malos Olores de Sunshine Canyon </a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/la-aqmd-de-la-costa-sur-aprueba-una-reduccion-de-los-malos-olores-de-sunshine-canyon/>
+
+---
+
+## Horóscopo
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) No tendrás que presionar, manipular o trabajar horas extras. No tendrás que hacer peticiones difíciles ni venderte a [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/horoscopo-206/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/horoscopo-206/>
+
+---
+
+## EVENTOS Locales – Semana de 20 de marzo, 2025
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Sábado, Marzo 22 Festival de Primavera de Kitty Saugus High School 21900 Centurion Way Santa Clarita 10 a.m. – 5 p.m. Únase a nosotros para el Festival de Primavera de [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/eventos-locales-semana-de-20-de-marzo-2025/">EVENTOS Locales &#8211; Semana de 20 de marzo, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/eventos-locales-semana-de-20-de-marzo-2025/>
+
+---
+
+## CSUN Cruza Disciplinas para Entrenar a la Próxima Generación de Poredictores de Incendios Forestales
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="720" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun_elsol.jpg?fit=1024%2C720&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun_elsol.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun_elsol.jpg?resize=300%2C211&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun_elsol.jpg?resize=768%2C540&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun_elsol.jpg?resize=400%2C281&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun_elsol.jpg?resize=706%2C496&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun_elsol.jpg?fit=1024%2C720&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Como nos han recordado los recientes incendios forestales en el sur de California, uno debe estar preparado para lo inesperado, particularmente a medida que la densidad de población, la urbanización [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/csun-cruza-disciplinas-para-entrenar-a-la-proxima-generacion-de-poredictores-de-incendios-forestales/">CSUN Cruza Disciplinas para Entrenar a la Próxima Generación de Poredictores de Incendios Forestales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/csun-cruza-disciplinas-para-entrenar-a-la-proxima-generacion-de-poredictores-de-incendios-forestales/>
+
+---
+
+## Del Estadio a las Estrellas Los Corredores Llenan las Calles para el 40º Maratón de Los Ángeles
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="635" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250316_142922946-scaled-e1742449262527.jpg?fit=1024%2C635&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250316_142922946-scaled-e1742449262527.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250316_142922946-scaled-e1742449262527.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250316_142922946-scaled-e1742449262527.jpg?fit=1024%2C635&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/PXL_20250316_142922946-scaled-e1742449262527.jpg?fit=1024%2C635&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Fue una hermosa y fresca mañana en el Dodger Stadium cuando más de 26,000 corredores, jóvenes y viejos, salieron de la línea de salida con la esperanza de completar la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/del-estadio-a-las-estrellas-los-corredores-llenan-las-calles-para-el-40o-maraton-de-los-angeles/">Del Estadio a las Estrellas Los Corredores Llenan las Calles para el 40º Maratón de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/del-estadio-a-las-estrellas-los-corredores-llenan-las-calles-para-el-40o-maraton-de-los-angeles/>
+
+---
+
+## Instalan Nuevos Medidores Inteligentes en el Centro Comercial de San Fernando
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?w=2100&amp;ssl=1 2100w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/IMG_0040.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Es posible que los residentes de la ciudad de San Fernando hayan notado un cambio en el centro comercial San Fernando, ya que todos los viejos parquímetros que funcionan con [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/instalan-nuevos-medidores-inteligentes-en-el-centro-comercial-de-san-fernando/">Instalan Nuevos Medidores Inteligentes en el Centro Comercial de San Fernando</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/instalan-nuevos-medidores-inteligentes-en-el-centro-comercial-de-san-fernando/>
+
+---
+
+## Una Mujer trans Llamó a la Policía de Los Ángeles para Pedir Ayuda, Pero en Lugar de Eso le Dispararon y la Mataron
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="640" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?fit=1024%2C640&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?resize=1024%2C640&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?resize=768%2C480&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?resize=1536%2C960&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?resize=1200%2C750&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?resize=1568%2C980&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?resize=706%2C441&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Trans-Muder_05.jpeg?fit=1024%2C640&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>La policía le disparó a una mujer trans en un motel de Pacoima el mes pasado después de que ella llamara al 911 pidiendo ayuda, según un video publicado por [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/una-mujer-trans-llamo-a-la-policia-de-los-angeles-para-pedir-ayuda-pero-en-lugar-de-eso-le-dispararon-y-la-mataron/">Una Mujer trans Llamó a la Policía de Los Ángeles para Pedir Ayuda, Pero en Lugar de Eso le Dispararon y la Mataron</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/una-mujer-trans-llamo-a-la-policia-de-los-angeles-para-pedir-ayuda-pero-en-lugar-de-eso-le-dispararon-y-la-mataron/>
+
+---
+
+## Con Valentía, una Mujer de Glendale Abraza la Transición en la Era de Trump
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="821" height="676" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/image000000_el-sol.jpg?fit=821%2C676&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/image000000_el-sol.jpg?w=821&amp;ssl=1 821w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/image000000_el-sol.jpg?resize=300%2C247&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/image000000_el-sol.jpg?resize=768%2C632&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/image000000_el-sol.jpg?resize=400%2C329&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/image000000_el-sol.jpg?resize=706%2C581&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/image000000_el-sol.jpg?fit=821%2C676&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Desde que el presidente Donald Trump asumió el cargo para un segundo mandato, la administración ha estado tratando de dificultar la vida de los estadounidenses transgénero para vivir de manera [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/con-valentia-una-mujer-de-glendale-abraza-la-transicion-en-la-era-de-trump/">Con Valentía, una Mujer de Glendale Abraza la Transición en la Era de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/con-valentia-una-mujer-de-glendale-abraza-la-transicion-en-la-era-de-trump/>
+
+---
+
+## CSUN Crosses Disciplines to Train the Next Generation of Wildfire Predictors
+
+date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="720" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun.jpg?fit=1024%2C720&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun.jpg?w=1024&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun.jpg?resize=300%2C211&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun.jpg?resize=768%2C540&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun.jpg?resize=400%2C281&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun.jpg?resize=706%2C496&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/csun.jpg?fit=1024%2C720&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As the recent Southern California wildfires have reminded us, one needs to be prepared for the unexpected, particularly as population density, urbanization and other factors continue to impact the environment [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/19/csun-crosses-disciplines-to-train-the-next-generation-of-wildfire-predictors/">CSUN Crosses Disciplines to Train the Next Generation of Wildfire Predictors</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/19/csun-crosses-disciplines-to-train-the-next-generation-of-wildfire-predictors/>
+
+---
+
+## This celebrity chef is Huntington Beach's newest city councilmember
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+Are you a fan of Food Network? Then you might already know Andrew Gruel. 
+
+<br> 
+
+<https://laist.com/news/politics/andrew-gruel-huntington-beach-city-council-appointment>
+
+---
+
+## UC president announces hiring freeze and other cuts
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+President Michael Drake announced the changes amid uncertainty about the UC system's future budget and potential cuts because of Trump administration actions. 
+
+<br> 
+
+<https://laist.com/news/education/uc-president-michael-drake-trump-cuts-orders-uc-reductions>
+
+---
+
+## Watch a live taping of the Splendid Table in LA
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+The beloved public radio show about food and cooking comes to LA for a live taping. 
+
+<br> 
+
+<https://laist.com/news/food/watch-a-live-taping-of-the-splendid-table-in-la>
+
+---
+
+## It's your last chance to claim pandemic-era tax credits, the IRS says. Here's how
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+The IRS says some Americans who have not filed their 2021 tax returns could be eligible for a pandemic-era relief payment, as long as they do so by April 15. 
+
+<br> 
+
+<https://laist.com/news/last-chance-to-claim-pandemic-era-stimulus-checks>
+
+---
+
+## Facing a nearly $1 billion budget hole, LA officials warn city staffing cuts are inevitable
+
+date: 2025-03-19, updated: 2025-03-20, from: The LAist
+
+The city of Los Angeles is "in a particularly challenging financial position" as it develops a budget for the fiscal year that begins July 1. 
+
+<br> 
+
+<https://laist.com/news/politics/la-mayor-seeks-up-to-900m-in-proposed-budget-cuts>
+
+---
+
+## Trump administration extends opioid emergency as fentanyl deaths drop
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+U.S. Health Secretary Robert F. Kennedy Jr. says the Trump administration will continue to treat opioid overdoses as a "national security" emergency even as fentanyl deaths decline. 
+
+<br> 
+
+<https://laist.com/news/health/trump-administration-extends-opioid-emergency-as-fentanyl-deaths-drop>
+
+---
+
+## 5 ways the pandemic changed us for good, for bad and forever
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+This month marks five years since the pandemic began, and here are 5 things that changed permanently. 
+
+<br> 
+
+<https://laist.com/news/health/5-ways-the-pandemic-changed-us>
+
+---
+
+## Trump's college overhauls raise anxiety among college-bound high school students
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+College advisors are hearing concerns about the future of federal financial aid federal loans, and support for financial aid forms. 
+
+<br> 
+
+<https://laist.com/news/education/trump-administration-colleges-university-admissions-anxiety>
+
+---
+
+## Federal judge blocks Trump effort to ban transgender troops from military service
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+The decision by U.S. District Judge Ana C. Reyes blocks the Department of Defense from carrying through with a policy directive designed to remove transgender service members from the military. 
+
+<br> 
+
+<https://laist.com/news/federal-judge-blocks-effort-to-ban-transgender-troops-from-military-service>
+
+---
+
+## OC investigation found elected assessor treated women as subservient, harassed employee over her disability
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+Claude Parrish, who took office in 2015, was told to cease and desist following a confidential report LAist obtained through a public records request. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-assessor-claude-parrish-harassment-investigation>
+
+---
+
+## Having trouble with your income tax return? These IRS-approved college students can help — for free
+
+date: 2025-03-19, updated: 2025-03-19, from: The LAist
+
+Every year, Cal State Long Beach accounting students prepare taxes for dozens of classmates and other community members. 
+
+<br> 
+
+<https://laist.com/news/education/income-tax-returns-cal-state-long-beach-file>
 
 ---
 

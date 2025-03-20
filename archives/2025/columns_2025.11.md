@@ -1,11 +1,513 @@
 ---
 title: columns
-updated: 2025-03-19 06:08:48
+updated: 2025-03-20 06:08:58
 ---
 
 # columns
 
-(date: 2025-03-19 06:08:48)
+(date: 2025-03-20 06:08:58)
+
+---
+
+## SystemRescue 12 lands with added bcachefs support
+
+date: 2025-03-20, updated: 2025-03-20, from: Liam Proven's articles at the Register
+
+<h4>You might need that – the file system has some hard-to-squish bugs</h4>
+      <p>A new version of the handy all-in-one bootable system toolkit distro is here, now with a whole new file system for you to play with.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/20/systemrescue_12_bcachefs/>
+
+---
+
+## 2025-03-20 Something about the bot defence is working
+
+date: 2025-03-20, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-20-something-about-the-bot-defence-is-working">2025-03-20 Something about the bot defence is working</h1>
+
+<p>At midnight, there was a surge in activity.
+CPU usage went up.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-1.jpg" alt="" /></p>
+
+<p>Load went up, too. But it stayed within reasonable bounds &ndash; less than 4 instead of the more than 80 I have seen in the past.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-2.jpg" alt="" /></p>
+
+<p>And the number of IP addresses blocked by <code>fail2ban</code> went from 40 to 50.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-3.jpg" alt="" /></p>
+
+<p>I&rsquo;m usually sceptical of this because the big attacks are from a far wider variety of IP numbers.
+In this case, however, maybe there was some probing that resulted in blocks? I don&rsquo;t know. Lucky, I guess?</p>
+
+<p>In any case, the site is still up. Yay for small wins.</p>
+
+<p>Also, I cannot overstate how good it feel to have some <a href="https://munin-monitoring.org/">Munin</a> graphs available.</p>
+
+<p><code>alex-bots</code> is a setup I desribed in <a href="2025-02-19-bots-again">2025-02-19 Bots again, cursed</a>.
+Basically a request to one of my Oddmuse wikis containing the parameter <code>rcidonly</code> is an expensive endpoint: &ldquo;all changes for this single page&rdquo; or &ldquo;a feed for this single page&rdquo;. This is something a human would rarely access and yet it somehow the URLs landed in some dataset for AI training, I suspect. So what I do is I’m redirecting any request containing “rcidonly” in the query string to <code>/nobots</code>, warning humans not to click on these links.</p>
+
+<p>In addition to that, the filter <code>/etc/fail2ban/filter.d/alex-bots.conf</code> contains this:</p>
+
+<pre><code>[Definition]
+failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
+</code></pre>
+
+<p>And I added a section using this filter to my jail <code>/etc/fail2ban/jail.d/alex.conf</code>:</p>
+
+<pre><code>[alex-bots]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 3600
+maxretry = 2
+</code></pre>
+
+<p>So if an IP number visits three URLs containing &ldquo;rcidonly&rdquo; in an hour, they get banned for ten minutes.</p>
+
+<p>The <code>recidive</code> filter (a standard filter you just need to activate) then makes sure that any IP number that got blocked three times gets blocked for a week.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-20-bot-defence>
+
+---
+
+## The biggest upward transfer of wealth in history 
+
+date: 2025-03-20, from: Robert Reich's blog
+
+Trump&#8217;s tariffs will especially hurt lower-income Americans, while his tax cuts will especially benefit the wealthy. 
+
+<br> 
+
+<https://robertreich.substack.com/p/psst-trumps-tariffs-will-be-paid>
+
+---
+
+## March 19, 2025
+
+date: 2025-03-20, from: Heather Cox Richardson blog
+
+On the Fox News Channel&#8217;s The Five yesterday, the panel of Fox personalities expressed outrage that federal judge James Boasberg had ordered the Trump administration to stop its deportation of migrants based on the 1798 Alien Enemies Act. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-19-2025>
+
+---
+
+## Where Do We Stand: A ‘Correlation of Forces’ Assessment.
+
+date: 2025-03-20, from: James Fallows, Substack
+
+What might actually stop Trump? Let's go through some possibilities&#8212;which finally come down to each of us. 
+
+<br> 
+
+<https://fallows.substack.com/p/where-do-we-stand-a-correlation-of>
+
+---
+
+## ‘Hey Siri, What Month Is It?’
+
+date: 2025-03-19, updated: 2025-03-20, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reddit.com/r/iphone/comments/1jehkpm/apple_intelligence_this_apple_intelligence_that/>
+
+---
+
+## Apple Intelligence Is Coming to iOS in the EU in April
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2025/02/apple-intelligence-expands-to-more-languages-and-regions-in-april/>
+
+---
+
+## Women in Texas Are Dying
+
+date: 2025-03-19, from: Dan Rather's Steady
+
+Republicans pressured to &#8220;clarify&#8221; state abortion ban 
+
+<br> 
+
+<https://steady.substack.com/p/women-in-texas-are-dying>
+
+---
+
+## EU Adopts New ‘Interoperability’ Requirements for Apple Under DMA
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ec.europa.eu/commission/presscorner/detail/en/ip_25_816>
+
+---
+
+## Sebastiaan de With’s iPhone 16e Camera Review: ‘The Essentials’
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.lux.camera/iphone-16e-camera-review-the-essentials/>
+
+---
+
+##  A History Professor Answers Questions About Dictators 
+
+date: 2025-03-19, updated: 2025-03-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/a-history-professor-answers-questions-about-dictators>
+
+---
+
+## Apple Silicon Is Groundbreaking for AI
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/alexocheema/status/1899735281781411907?s=42>
+
+---
+
+## ‘Apple Needs to Get Out of the Way With AI’
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://shapeof.com/archives/2025/3/apple_needs_to_get_out_of_the_way_with_ai.html>
+
+---
+
+##  The Sticker Box and the Woodstock Message Tree. &#8220;What makes this sticker-covered... 
+
+date: 2025-03-19, updated: 2025-03-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046465-the-sticker-box-and-the>
+
+---
+
+## ‘A Delightful and Simple User Experience’
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://arstechnica.com/gadgets/2025/03/roku-says-unpopular-autoplay-ads-are-just-a-test/>
+
+---
+
+## Two New PebbleOS Watches
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://ericmigi.com/blog/introducing-two-new-pebbleos-watches>
+
+---
+
+## Did TikTok Swing the Election to Trump?
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://politicalwire.com/2025/03/19/did-tiktok-swing-the-election-to-trump/>
+
+---
+
+## March 18, 2025
+
+date: 2025-03-19, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159433627/b66e7096c8c4570ef4602b33f3e62f8e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159433627/b66e7096c8c4570ef4602b33f3e62f8e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-18-2025-227>
+
+---
+
+##  &#8220;Thirty lonely but beautiful actions you can take right now which probably... 
+
+date: 2025-03-19, updated: 2025-03-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046467-thirty-lonely-but-beautif>
+
+---
+
+## On Apple Exclaves
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194>
+
+---
+
+## Firefox Users on iOS Have Doubled in France and Germany, From a Very Small Number to a Slightly Less Small Number
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://pxlnv.com/linklog/firefox-france-germany/>
+
+---
+
+## Beyerdynamic DT 770 Pro: Closed Studio Headphones
+
+date: 2025-03-19, updated: 2025-03-19, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://north-america.beyerdynamic.com/p/dt-770-pro>
+
+---
+
+##  We might get to see Coyote vs. Acme after all&#8230;Warner Bros. is... 
+
+date: 2025-03-19, updated: 2025-03-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046468-we-might-get-to-see>
+
+---
+
+## Come from Everywhere
+
+date: 2025-03-19, from: Doc Searls (at Harvard), New Old Blog
+
+IIW, the Internet Identity Workshop, is the UN of identity. While located in the U.S., it has always represented and welcomed the whole world to work on global problems best addressed in person. As it happens, IIW was born exactly twenty years ago tomorrow—20 March 2005—at Esther Dyson&#8217;s PC Forum in Scottsdale, Arizona. A group [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/19/come-from-everywhere/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-19, from: Dave Winer's Scripting News)
+
+The basic thing about tech is that attracts people who take things that don't belong to them. There's no policing. The richest people are the ones who are best at grabbing control of other people's creations. That's the common theme. Now they're in DC, going for all of it. The whole thing. But they're like the <a href="https://www.youtube.com/watch?v=NWeh4A600E0">dog that catches the car</a>. They don't have the slightest idea what to do with what they're taking. How could they? It's incomprehensibly vast. 
+
+<br> 
+
+<http://scripting.com/2025/03/19.html#a171447>
+
+---
+
+##  On Edward Gorey&#8217;s Great Simple Theory About Art &#8220;Anything that is art&#8230;is... 
+
+date: 2025-03-19, updated: 2025-03-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046464-on-edward-goreys-great-si>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-19, from: Dave Winer's Scripting News)
+
+A piece that Paul Krugman should write. How what Musk is doing to the US is worse than the 2009 near-collapse of the world economy. People who think he's going to bring down just the US, should recall how close we all came to falling into the abyss. But this time there will be no one to save us. 
+
+<br> 
+
+<http://scripting.com/2025/03/19.html#a164449>
+
+---
+
+##  A UN World Meteorological Organization report &#8220;lists 151 unprecedented extreme weather events... 
+
+date: 2025-03-19, updated: 2025-03-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046466-a-un-world-meteorological>
+
+---
+
+## 2025-03-19 Grounding myself
+
+date: 2025-03-19, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-19-grounding-myself">2025-03-19 Grounding myself</h1>
+
+<p>The powerlessness when reading the news makes me think that perhaps I need to read even less news, shut it all out.</p>
+
+<p>I also find a new appreciation for all of my ancestors who bore children and raised them even though their world seems like a hellscape compared to what I&rsquo;m seeing.</p>
+
+<p>Sometimes I wish I could just go to church and sing and pray and it would all be good again. Except it don&rsquo;t believe in it.</p>
+
+<p>So all I have is plants and animals to care for. In a somewhat unhealthy (?) relationship with life around me I find that I put plants where they need me to water them, and find solace in the fact that they at least are unperturbed by everything and are just happy for me to be there and tend them. It feels a bit like an artificial dependent relationship so I dunno, it&rsquo;s weird.</p>
+
+<p>When I see happy dogs and their owners I keep thinking that a dog that&rsquo;s so happy to see me, to fetch that ball, to for that walk, this happiness is real, and they are grounded in life and the present moment.</p>
+
+<p>I want back this ignorant bliss of childhood, some days.</p>
+
+<p>I have no illusions. While I grew up, Iran and Iraq were at war; the Moçambique and Angolan wars of independence turned into civil wars; Yugoslavia fell apart in civil war. Those are the conflicts I remember, in any case.
+Life and the news wasn&rsquo;t great. I just didn&rsquo;t know.</p>
+
+<p><a class="tag" href="/search/?q=%23Life">#Life</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-19-touch-ground>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/03/08/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.politico.com/story/2009/04/inside-obamas-bank-ceos-meeting-020871">Obama once said</a> to the bankers who had just crashed the economy, much like Trump/Musk are trying to do now -- that his administration is the "only thing between you and the pitchforks.” These are the same people. They’re back from 2009 and this time they want <i>everything.</i> They don't care what's left, they're machines. All they know how to do is to consume. Squeeze a cent of value from every dollar. This <a href="https://www.youtube.com/watch?v=P4nYgfV2oJA&t=130s">clip</a> from Goodfellas explains. I saw a quote from one of the Dogeheads saying that all universities should be shut down. Hey you can say whatever you like, but they want to actually do it. 
+
+<br> 
+
+<http://scripting.com/2025/03/19.html#a145452>
+
+---
+
+##  Trump Has Gone From Unconstitutional to Anti-Constitutional. &#8220;[Anti-Constitutionalism] rejects the premise that... 
+
+date: 2025-03-19, updated: 2025-03-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046463-trump-has-gone-from-uncon>
+
+---
+
+## Chimera Linux ghosts RISC-V because there's no time for sluggish hardware
+
+date: 2025-03-19, updated: 2025-03-19, from: Liam Proven's articles at the Register
+
+<h4>Dev behind the GNU-free distro says boards too slow for serious work</h4>
+      <p>The creators of the unique Chimera Linux distro are dropping support for RISC-V because kit built on the open instruction set architecture just isn&#39;t fast enough and this is holding up the development pipeline.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/19/chimera_linux_riscv/>
+
+---
+
+##  Editorial from Nature magazine: Vaccines save lives. Leaders must champion them. &#8220;We... 
+
+date: 2025-03-19, updated: 2025-03-19, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046462-editorial-from-nature-mag>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-19, from: Dave Winer's Scripting News)
+
+The <a href="https://gist.github.com/scripting/85bc99f9dc055b220c43a6cde4aa6415">data behind</a> a <a href="https://daveverse.wordpress.com/2025/03/16/blogging-is-due-for-a-refresh/">WordLand blog post</a> I wrote a few days ago. I'm publishing these so people get an idea of the structures we're working with. It's basically a WordPress post with added metadata. They have these kinds of structures in RSS, Atom, ActivityPub and AT Proto. Eventually some of these will die out, there are too many formats to support. At any moment in time it feels like each one is enormous and permanent. But show me where the new OS/2, Novell, UCSD Pascal or CP/M apps are. Go back far enough, Alogol, Smalltalk, Lisp, Simula. I am very much a less-is-more type protocol designer, don't try to plan for things you don't have a working model of, because the ideas you gain when you actually put the app together will work much better. And only add things you're willing to live with forever. Slow down to hurry up. Etc. Anyway, <a href="https://gist.github.com/scripting/85bc99f9dc055b220c43a6cde4aa6415">this</a> is the format we work with inside <a href="https://wordland.social/">WordLand</a>, and more important, in the new APIs, that build on and simplify the <a href="https://www.npmjs.com/package/wpcom">excellent API</a> that Automattic had already produced. 
+
+<br> 
+
+<http://scripting.com/2025/03/19.html#a134638>
+
+---
+
+## Enshittification as a matter of taste
+
+date: 2025-03-19, from: Dave Rupert blog
+
+<p>“Enshittification” is a termed coined by Cory Doctorow in 2023 to describe a pattern of decreasing quality observed in online services and products. Since Doctorow’s post, there’s been no shortage of think pieces on enshittification and its role in our society and to a large extent I agree with them all. I think it’s an inevitable problem that shows the splitting seams of Capitalism. If you will allow, I’d like to add a tangential thought – one slight embellishment – to this topic.</p>
+<p>To me, enshittification means that a person who lacks taste was put in a position of power.</p>
+<p>Everyone knows ads on the internet suck. But ads also pay bills and help keep the lights on in newsrooms. When a website adds one (privacy-preserving) ad to a website, I say “Okay”. Two, I permit it. Three, I say “Easy now” but still scroll through unencumbered. But when the website adds a fifth, seventh, twelfth ad… I know a person who lacks taste is at the wheel. I can feel it in my bones when an app or website has prioritized revenue over user experience. A person without taste or high emotional intelligence broke the unspoken contract we had built on mutual respect.</p>
+<p>When you read about the development of the iPhone in books like Ken Kocienda’s <em>Creative Selection</em> or Tony Fadell’s <em>Build</em>,  you understand Steve Jobs’ superpower wasn’t so much that he possessed a reality distortion field, but that he was a great editor. He could find the good ideas in a pile of prototypes and say “no” (harshly, I’ve read) to the less-than-great ideas. You need a person with taste in the decision making process. <a href="https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino">When we see giants falter</a>, it’s a lack of taste shining through.</p>
+<p>Going forward, I think taste and style are more valuable than ever before. In an era where we’re able to rapidly generate cheap low quality content or software at a scale we’ve never seen before, <a href="https://www.itsnicethat.com/articles/elizabeth-goodspeed-column-taste-technology-art-280224">we will need people with taste in the mix</a>. We’ll need aggregators to dive in the dumpsters for the treasure. We’ll need people who know how to zig when everyone is using the Zag-o-tron 9000. We’ll need people who can offer critique and say “no” when the “yes yes always more” machine barrels through town and begins knocking down institutions.</p> 
+
+<br> 
+
+<https://daverupert.com/2025/03/enshittification-has-a-flavor/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-19, from: Dave Winer's Scripting News)
+
+<a href="https://www.techdirt.com/">Techdirt</a> has a well-deserved rep for exposing the false claims tech companies make. I’d love to see a Techdirt analysis of Bluesky’s claim that they’re billionaire-proof and they don’t lock users in. For background check out this <a href="https://techcrunch.com/2025/03/10/at-sxsw-bluesky-ceo-jay-graber-pokes-fun-at-mark-zuckerberg-with-latin-phrase-t-shirt/">TechCrunch piece</a> from SXSW. 
+
+<br> 
+
+<http://scripting.com/2025/03/19.html#a132654>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-19, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://imgs.scripting.com/2025/03/19/rivian.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Of course I'm getting ready to ditch <a href="https://daytona.scripting.com/search?q=tesla">my Tesla</a> Model Y, and thinking about what my options are. I saw someone comment on the <a href="https://www.caranddriver.com/rivian/r1t">Rivian truck</a>, and I've seen them around but didn't imagine they'd have the same muscle car profile as the Tesla, but apparently they do. That's the thing I'd miss the most about the Model Y. Its power and handling. It's a big car, but it drives in many ways like the <a href="https://www.edmunds.com/mazda/mx-5-miata/1992/review/">Miata</a> I drove in the 90s. 
+
+<br> 
+
+<http://scripting.com/2025/03/19.html#a132041>
 
 ---
 
@@ -305,7 +807,7 @@ date: 2025-03-18, from: Dave Winer's Scripting News
 <p>Would someone please send this to AOC, Jasmine Crockett, Bernie Sanders, Mark Cuban, James Carville, anyone else you can think of. </p>
 <p>The Dems only problem is there is no voice, no pulse, no heartbeat. Even without this, they almost won the last election. </p>
 <p>Everything you like about government came from the Democrats. </p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/18/getBackOnTheAir.png"></center>We miss you. Get <a href="https://daytona.scripting.com/search?q=%22on%20the%20air%22">back</a> on the air! No time to lose.</div></p>
+<p>We miss you. Get <a href="https://daytona.scripting.com/search?q=%22on%20the%20air%22">back</a> on the air! No time to lose.</p>
  
 
 <br> 
@@ -386,7 +888,7 @@ In this week&#8217;s edition of CrazyStupidTech, I wrote about how Chinese domin
 
 **@Dave Winer's Scripting News** (date: 2025-03-18, from: Dave Winer's Scripting News)
 
-This post is for idiots like you who <a href="https://imgs.scripting.com/2025/03/18/theBulwarkHatesYou.png">click</a> on links to The Bulwark. 
+This post is for idiots like <s>you</s> me who <a href="https://imgs.scripting.com/2025/03/18/theBulwarkHatesYou.png">click</a> on links to The Bulwark. 
 
 <br> 
 
@@ -487,18 +989,6 @@ date: 2025-03-18, from: Geoffrey Hunntley's blog
 <br> 
 
 <https://ghuntley.com/open-webui/>
-
----
-
-## Om Malik on Apple Intelligence: ‘Fud, Dud, or Both’
-
-date: 2025-03-18, updated: 2025-03-18, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://om.co/2025/03/13/apple-intelligence-fud-dud-or-both/>
 
 ---
 
@@ -921,7 +1411,7 @@ Letting sleeping cats lie The view from the front garden of the Fitzwilliam muse
 
 ## Dithering: ‘Being Real Points’
 
-date: 2025-03-17, updated: 2025-03-17, from: Daring Fireball
+date: 2025-03-17, updated: 2025-03-19, from: Daring Fireball
 
  
 

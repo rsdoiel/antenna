@@ -1,11 +1,343 @@
 ---
 title: going electric
-updated: 2025-03-19 06:08:53
+updated: 2025-03-20 06:09:02
 ---
 
 # going electric
 
-(date: 2025-03-19 06:08:53)
+(date: 2025-03-20 06:09:02)
+
+---
+
+## 46,000 Tesla Cybertrucks Recalled For Flying Trim Pieces
+
+date: 2025-03-20, from: Inside EVs News
+
+An adhesive that's “susceptible to environmental embrittlement" is responsible for body pieces coming unglued and flying off. 
+
+<br> 
+
+<https://insideevs.com/news/754110/tesla-cybertruck-recall-flying-pieces/>
+
+---
+
+## You’ll Soon Be Able To Buy Used Cars On Amazon
+
+date: 2025-03-20, from: Inside EVs News
+
+The e-commerce giant is already selling new Hyundais online. The next step is to go into the used car market. 
+
+<br> 
+
+<https://insideevs.com/news/754105/amazon-autos-used-cars-plans/>
+
+---
+
+## Elon’s missing billions, Tesla terrorism, bots rig surveys, and a Nissan battery deal
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/elon-money.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.youtube.com/@ElectrekDaily"></a>Is Elon Musk using the missing $1.4B to fund anti-Tesla protests as part of a massive false flag operation that will give him control of both the police and the courts? There’s absolutely ZERO evidence to support that idea (plus: I just made it up), but it’s 2025 and that means anything goes on today’s bats**t episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="406721" href="https://electrek.co/2025/03/19/elons-missing-billions-tesla-terrorism-bots-rig-surveys-and-a-nissan-battery-deal/#more-406721" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/elons-missing-billions-tesla-terrorism-bots-rig-surveys-and-a-nissan-battery-deal/>
+
+---
+
+## Trump’s US Commerce Secretary, who owns Tesla stocks, publicly recommends to buy TSLA
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-19-at-10.29.43 PM.jpg?quality=82&#038;strip=all&#038;w=1053" /></div><p>Trump’s US Commerce Secretary, Howard Lutnick, who indirectly owns Tesla (TSLA) stocks through his firm, has publicly recommended buying Tesla stocks today.</p>
+
+
+
+<p>This is likely the first time that a sitting US Commerce Secretary publicly recommends to buy a specific stock.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="406716" href="https://electrek.co/2025/03/19/trump-us-commerce-secretary-owns-tesla-recommends-buy-tsla-stocks/#more-406716" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/trump-us-commerce-secretary-owns-tesla-recommends-buy-tsla-stocks/>
+
+---
+
+## Residential battery storage skyrockets in record-setting 2024
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/sonnenCorre-home-with-solar-roof-2-units-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The US battery storage market set another record in 2024, installing 12.3 gigawatts (GW) of new capacity across all sectors, according to a new <a href="https://www.woodmac.com/industry/power-and-renewables/us-energy-storage-monitor/" target="_blank" rel="noreferrer noopener">report</a> from the American Clean Power Association (<a href="https://cleanpower.org/" target="_blank" rel="noreferrer noopener">ACP</a>) and Wood Mackenzie.</p>
+
+
+
+<p>In total, 12,314 megawatts (MW) and 37,143 megawatt-hours (MWh) of energy storage were added, marking a jump of 33% and 34%, respectively, compared to 2023.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,energy-storage,solar,home-energy-storage,tesla-powerwall" data-layer-viewtype="unknown" data-post-id="406704" href="https://electrek.co/2025/03/19/residential-battery-storage-skyrockets-in-record-setting-2024/#more-406704" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/residential-battery-storage-skyrockets-in-record-setting-2024/>
+
+---
+
+## BYD’s cheapest EV is launching in Europe soon with a new name and more upgrades
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BYD-cheapest-EV-Europe.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Seagull is <a href="https://electrek.co/guides/byd/">BYD’s</a> cheapest EV, starting at under $10,000 in China. Later this year, it will launch in Europe as the Dolphin Surf with added safety tech and more. BYD’s executive vice president, Stella Li, said it will be “the best value” when it arrives.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="406646" href="https://electrek.co/2025/03/19/byds-cheapest-ev-heads-to-europe-with-new-name-and-more/#more-406646" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/byds-cheapest-ev-heads-to-europe-with-new-name-and-more/>
+
+---
+
+## That Tesla Owner ‘Doxxing’ Website Doesn’t Pass The Smell Test
+
+date: 2025-03-19, from: Inside EVs News
+
+When examined closely, the website is incomplete and it's not clear how accurate any of the information truly is.  
+
+<br> 
+
+<https://insideevs.com/news/754062/tesla-doxxing-dogequest-website-smell/>
+
+---
+
+## South Korea just opened its largest EV charging hub
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Water-South-Korea-charging-hub.jpg?quality=82&#038;strip=all&#038;w=1380" /></div><p>South Korea just got its largest outdoor EV fast-charging hub, and it’s at the Korea International Exhibition Center (KINTEX) in Goyang. The new hub, built by charging network Water, features 46 fast chargers capable of juicing up everything from electric cars to buses and trucks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dc-fast-charging,ev-charging,ev-charging-stations,south-korea" data-layer-viewtype="unknown" data-post-id="406625" href="https://electrek.co/2025/03/19/south-korea-just-opened-its-largest-ev-charging-hub/#more-406625" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/south-korea-just-opened-its-largest-ev-charging-hub/>
+
+---
+
+## Hyundai caught testing one of China’s hottest selling EVs
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-testing-Chinas-EVs-3.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Is <a href="https://electrek.co/guides/hyundai/">Hyundai</a> taking a page from China for its upcoming electric vehicles? The new EV taking China by storm was caught with testing plates near Hyundai’s global R&amp;D hub.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="406606" href="https://electrek.co/2025/03/19/hyundai-caught-testing-chinas-hottest-selling-evs/#more-406606" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/hyundai-caught-testing-chinas-hottest-selling-evs/>
+
+---
+
+## CATL And Nio Join Forces To Standardize Battery Swapping
+
+date: 2025-03-19, from: Inside EVs News
+
+The two Chinese giants are trying to create a national standard for battery swapping.  
+
+<br> 
+
+<https://insideevs.com/news/754041/catl-nio-chocolate-battery-firefly/>
+
+---
+
+## Lectric March Madness e-bike bundles and price cuts from $999, Segway Spring Sale takes 50% off e-scooters, Aventon clearance, more
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Lectric-XP-3.0-e-bike-new-5.jpg?quality=82&#038;strip=all&#038;w=1210" /></div><p>Today’s Green Deals has plenty of EV options to upgrade your commute and keep things running, starting with <a href="https://9to5toys.com/2025/03/18/lectric-free-643-bundles-on-xp-3-0-e-bikes-from-999/">Lectric’s Nothin’ But Net Sale</a> with up to $762 in free gear accompanying e-bikes, a new price cut on the XPeak 2.0 models, and exclusive March Madness-inspired cargo packages of up to $643 in free gear on the <a href="https://9to5toys.com/2025/03/18/lectric-free-643-bundles-on-xp-3-0-e-bikes-from-999/">XP 3.0 e-bikes starting from $999</a>. Next, <a href="https://9to5toys.com/2025/03/19/segway-spring-sale-max-g2-800-low-more/">Segway’s Spring Sale</a> has launched with up to 50% being taken off e-scooters and power stations, like the <a href="https://9to5toys.com/2025/03/19/segway-spring-sale-max-g2-800-low-more/">Ninebot Max G2 KickScooter</a> with Apple Find My that is down at <a href="https://9to5toys.com/2025/03/19/segway-spring-sale-max-g2-800-low-more/">$800</a>. <a href="https://9to5toys.com/2025/03/18/aventon-clearance-sale-from-999/">Aventon is having a clearance sale</a> on its legacy models to make room for even more of its latest releases, including the popular <a href="https://9to5toys.com/2025/03/18/aventon-clearance-sale-from-999/">Abound Cargo e-bike for $1,799</a>, among others. Lastly, we have the next of EcoFlow’s one-day-only flash sale offers, with the <a href="https://9to5toys.com/2025/03/19/ecoflow-flash-sale-delta-pro-3-2899/">DELTA Pro 3 Portable Power Station</a> coming with a free Power Hat for <a href="https://9to5toys.com/2025/03/19/ecoflow-flash-sale-delta-pro-3-2899/">$2,899</a>, as well as an <a href="https://9to5toys.com/2025/03/19/ecoflow-flash-sale-delta-pro-3-2899/">add-on battery</a> for the brand’s WAVE 2 at <a href="https://9to5toys.com/2025/03/19/ecoflow-flash-sale-delta-pro-3-2899/">$399</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/03/17/jackerys-explorer-100-plus-90-in-flash-sale/">Jackery flash sale offers</a> (ending tonight), the returning low on <a href="https://9to5toys.com/2025/03/18/heybike-mars-2-0-e-bike-899-low-limited-spring-savings/">Heybike’s Mars 2.0</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="406522" href="https://electrek.co/2025/03/19/lectric-e-bike-bundles-from-999-segway-spring-sale-aventon-more/#more-406522" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/lectric-e-bike-bundles-from-999-segway-spring-sale-aventon-more/>
+
+---
+
+## Tesla (TSLA) accounting raises red flags as report shows $1.4 billion missing
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-TSLA-financial-red-flag.jpg?quality=82&#038;strip=all&#038;w=1499" /></div><p>Tesla’s (TSLA) accounting practices are raising red flags as a new report from the Financial Times shows that $1.4 billion is missing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="406600" href="https://electrek.co/2025/03/19/tesla-tsla-accounting-raises-red-flags-as-report-shows-1-4-billion-missing/#more-406600" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/tesla-tsla-accounting-raises-red-flags-as-report-shows-1-4-billion-missing/>
+
+---
+
+## Nearly 100% Of Lithium Recycled In Latest EV Battery Breakthrough
+
+date: 2025-03-19, from: Inside EVs News
+
+Chinese battery scientists developed a special technique to make battery recycling cheaper and way more efficient. 
+
+<br> 
+
+<https://insideevs.com/news/754036/ev-battery-100-percent-lithium-recycled/>
+
+---
+
+## Rivian’s first EV police cruiser is here: Meet the patrol-ready R1S
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivians-first-EV-police-cruiser.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>With a 0 to 60 mph sprint in as quick as 2.6 seconds, you might have a hard time outrunning <a href="https://electrek.co/guides/rivian/">Rivian’s</a> electric SUV. Soon, it will be hitting the streets after the Palo Alto police department debuted the patrol-ready R1S, Rivian’s first police cruiser.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s" data-layer-viewtype="unknown" data-post-id="406588" href="https://electrek.co/2025/03/19/rivians-first-ev-police-cruiser-meet-patrol-ready-r1s/#more-406588" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/rivians-first-ev-police-cruiser-meet-patrol-ready-r1s/>
+
+---
+
+## Chick-fil-A is piloting solar + storage microgrids in California
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/CFA-Microgrid-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chick-fil-A is working with microgrid developer SolMicroGrid to pilot solar and battery storage microgrids at its restaurants in California.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,california,egeb,energy-brief,solar,microgrids,solar-power" data-layer-viewtype="unknown" data-post-id="405947" href="https://electrek.co/2025/03/19/chick-fil-a-is-piloting-solar-storage-microgrids-in-california/#more-405947" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/chick-fil-a-is-piloting-solar-storage-microgrids-in-california/>
+
+---
+
+## Canada Has Had Enough Of Tesla
+
+date: 2025-03-19, from: Inside EVs News
+
+From kicking Tesla out of a car show to banning incentives for home chargers and new EVs, it’s safe to say that Canada is angry. 
+
+<br> 
+
+<https://insideevs.com/news/754013/canada-tesla-incentives-ban/>
+
+---
+
+## Chinese authorities delay approval for BYD’s pending EV plant in Mexico amid fears of the technology leaking into the US
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BYD-Mexico-Yuan-plus-deliveries.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Booming global EV automaker Build Your Dreams (BYD) has hit a snag with the <a href="https://electrek.co/guides/china/">Chinese government,</a> which has delayed the green light to build a new plant in Mexico amid fears that proprietary technology in the southern part of North America could more easily make its way into the United States</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,china,mexico,tarrifs" data-layer-viewtype="unknown" data-post-id="406557" href="https://electrek.co/2025/03/19/chinese-authorities-delay-approval-byd-ev-plant-mexico-fears-tech-leaking-us/#more-406557" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/chinese-authorities-delay-approval-byd-ev-plant-mexico-fears-tech-leaking-us/>
+
+---
+
+## As Tesla Falters, China's BYD Pulls Ahead With 5-Minute EV Charging
+
+date: 2025-03-19, from: Inside EVs News
+
+Plus, Audi and Alfa Romeo aren't so sure about an all-electric future anytime soon, and Nissan's U.S. arm inks an EV battery deal. 
+
+<br> 
+
+<https://insideevs.com/news/754010/byd-tesla-charging-alfa-romeo-audi/>
+
+---
+
+## Elon Musk promotes negative Tesla survey turned positive by bots
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Heil-tesla-gigafactory-berlin.png?w=1600" /></div><p>Elon Musk has shared a survey that was clearly negative about Tesla last week, but it was made to look positive for Tesla after bots rigged the results.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406563" href="https://electrek.co/2025/03/19/elon-musk-promotes-negative-tesla-survey-turned-positive-by-bots/#more-406563" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/elon-musk-promotes-negative-tesla-survey-turned-positive-by-bots/>
+
+---
+
+## Nissan just secured enough batteries to build about 1 million EVs in the US
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Nissan-EV-batteries-US-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Nissan became the first Japanese automaker to sign a supply deal with South Korea’s SK On. Under the new agreement, SK On will supply <a href="https://electrek.co/guides/nissan/">Nissan</a> with nearly 100 GWh of US-made EV batteries<span style="margin: 0px; padding: 0px;">,</span> or enough for around 1 million midsize models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,sk-on" data-layer-viewtype="unknown" data-post-id="406551" href="https://electrek.co/2025/03/19/nissan-secured-enough-ev-batteries-for-1-million-evs-us/#more-406551" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/nissan-secured-enough-ev-batteries-for-1-million-evs-us/>
+
+---
+
+## How Mazda Aims To Keep Its Electric Vehicle Plans ‘Lean’
+
+date: 2025-03-19, from: Inside EVs News
+
+The Japanese automaker is cutting up to $3.3 billion from EV production plans with the introduction of the “Lean Asset Strategy.” 
+
+<br> 
+
+<https://insideevs.com/news/754004/mazda-ev-plans-lean/>
+
+---
+
+## Tesla vandalism: Trump and AG claim someone ‘coordinate and fund’ them
+
+date: 2025-03-19, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Tesla-Salem-vandalism.png?w=1600" /></div><p>President Trump and Attorney General Bondi have suggested that someone is “coordinating and funding” the instances of Tesla vandalism in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406521" href="https://electrek.co/2025/03/19/tesla-vandalism-trump-and-ag-claim-someone-coordinate-and-fund-them/#more-406521" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/19/tesla-vandalism-trump-and-ag-claim-someone-coordinate-and-fund-them/>
 
 ---
 

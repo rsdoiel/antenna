@@ -1,11 +1,323 @@
 ---
 title: north america
-updated: 2025-03-19 06:08:46
+updated: 2025-03-20 06:08:55
 ---
 
 # north america
 
-(date: 2025-03-19 06:08:46)
+(date: 2025-03-20 06:08:55)
+
+---
+
+## The Houston Livestock Show is full of future business leaders
+
+date: 2025-03-20, from: Market Place
+
+Young business aces abound at the junior livestock show, including an agriculture podcast host and an aspiring loan officer. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/the-houston-livestock-show-is-full-of-future-business-leaders-rodeo-agriculture-loans/>
+
+---
+
+## A plain-spoken, fearless politician with a twinkle in his eye
+
+date: 2025-03-20, from: The Contrarian
+
+I spoke with Illinois Governor JB Pritzker, a man refreshingly candid about his disgust with the current administration's policies and its lack of humane leadership 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-plain-spoken-fearless-politician>
+
+---
+
+## U.S. trade tensions with the EU just got tenser
+
+date: 2025-03-20, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>President Donald Trump&#8217;s tariff fight with the European Union just got a little more heated after the EU accused U.S. tech giants Google and Apple of breaching antitrust rules. Could this escalate the EU-U.S. trade war? We&#8217;ll also talk about the erasure of Black history and why Elon Musk is about to be back in the money. Finally, Nova makes us smile with some of the funniest and nerdiest bumper stickers seen around the streets of Los Angeles.</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nbcnews.com/news/nbcblk/jackie-robinson-army-history-dei-military-department-defense-rcna197067" target="_blank" rel="noreferrer noopener">“Jackie Robinson’s Army career wiped from military website in DEI purge”</a> by NBC News<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://bsky.app/profile/danlamothe.bsky.social/post/3lkquytnc6s2y" target="_blank" rel="noreferrer noopener">@danlamothe.bsky.social</a>‬ on Bluesky<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-03-19/elon-musk-s-x-raises-close-to-1-billion-in-fresh-equity-funding?utm_source=website&amp;utm_medium=share&amp;utm_campaign=copy" target="_blank" rel="noreferrer noopener">“Elon Musk’s X Raises Almost $1 Billion in New Equity Funding”</a> by Bloomberg<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.theguardian.com/business/2025/mar/19/eu-google-apple-trump-digital-markets-act" target="_blank" rel="noreferrer noopener">“EU accuses Google and Apple of breaking its rules, risking Trump clash”</a> from The Guardian<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.latimes.com/lifestyle/story/2025-03-19/locals-best-bumper-stickers-los-angeles" target="_blank" rel="noreferrer noopener">“The funniest, weirdest and most niche bumper stickers seen around L.A.”</a> by The Los Angeles Times</li>
+<li>Watch: <a href="https://www.youtube.com/watch?v=JoWpZw9fN0E&amp;t=85s" target="_blank" rel="noreferrer noopener">“Debussy Prelude to the Afternoon of a Faun”</a> performed by the Detroit Symphony Orchestra on YouTube</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/19/mms_20250319_Make_Me_Smart_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fu-s-trade-tensions-with-the-eu-just-got-tenser&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/19/mms_20250319_Make_Me_Smart_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fu-s-trade-tensions-with-the-eu-just-got-tenser&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/u-s-trade-tensions-with-the-eu-just-got-tenser>
+
+---
+
+## The economy’s stability also depends on the rule of law
+
+date: 2025-03-20, from: Market Place
+
+"I continue to hold out hope that the administration, the Supreme Court, they don't want an economic recession," says legal expert Leah Litman. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/supreme-court-federal-reserve-fed-agencies-independence-monetary-policy-constitutional/>
+
+---
+
+## A Buffalo small business owner awaits clarity on Canadian tariffs
+
+date: 2025-03-19, from: Market Place
+
+Though some proposed tariffs on Canadian imports have been delayed, business owners near the border are preparing for cost increases
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/canadian-tariff-buffalo-imports-small-business-uncertainty-waiting-clarity/>
+
+---
+
+## Prices for U.S. agricultural exports rose in February
+
+date: 2025-03-19, from: Market Place
+
+Exports of meat, corn and soybeans may grow even more expensive if tariffs take effect. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/agricultural-export-prices-farmers-ag-economy-corn-soybeans-meat-ranchers/>
+
+---
+
+## Investors grow more wary of corporate bonds as spread increases
+
+date: 2025-03-19, from: Market Place
+
+As the gap between returns on government bonds versus corporate bonds mounts, investors are growing more cautious. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/investors-grow-more-wary-of-corporate-bonds-as-spread-increases/>
+
+---
+
+## Jen Rubin and Prof. Michael Albertus on land, wealth, and political power
+
+date: 2025-03-19, from: The Contrarian
+
+Jen Rubin is joined by Professor Michael Albertus to discuss his new book Land Power: Who Has It, Who Doesn't, and How That Determines the Fate of Societies. Together, they discuss how land ownership, and the power that comes with is, has evolved over time. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159340822/ddf51f3b5d7d05f567c468418dc7c66e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159340822/ddf51f3b5d7d05f567c468418dc7c66e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-prof-michael-albertus>
+
+---
+
+## Interest rates could be static for a while, Fed signals
+
+date: 2025-03-19, from: Market Place
+
+And that will impact businesses, the housing market and consumers. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/interest-rates-could-be-static-for-a-while-fed-signals/>
+
+---
+
+## The masculinity crisis: How economic struggles and Andrew Tate are radicalizing young men
+
+date: 2025-03-19, from: The Contrarian
+
+With housing out of reach, wages stagnant, and traditional career paths fading, young men are searching for a sense of purpose&#8212;and finding it in all the wrong places. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-masculinity-crisis-how-economic>
+
+---
+
+## Donald Trump's broken promises on the cost of things
+
+date: 2025-03-19, from: The Contrarian
+
+Eggs, cars, gas, mortgages: All up. Should we have expected any different? 
+
+<br> 
+
+<https://contrarian.substack.com/p/donald-trumps-broken-promises-on>
+
+---
+
+## Put American innovation first by funding the NSF and NIH
+
+date: 2025-03-19, from: The Contrarian
+
+The Trump administration is risking Americans' health and safety by cutting science and research funding. 
+
+<br> 
+
+<https://contrarian.substack.com/p/put-american-innovation-first-by>
+
+---
+
+##  How Elon Musk Helped Close Your Local Pharmacy 
+
+date: 2025-03-19, from: The Lever News
+
+ The billionaire’s rage-tweets protected the corporate middlemen inflating your medicine prices and killing your community’s economy.  
+
+<br> 
+
+<https://www.levernews.com/how-elon-musk-helped-close-your-local-pharmacy/>
+
+---
+
+## Coffee with The Contrarians 03/19
+
+date: 2025-03-19, from: The Contrarian
+
+A recording from the 03/17 Coffee With The Contrarians LIVE 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159410238/9cc0acc8df7fa631d810c0bbedc964f9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159410238/9cc0acc8df7fa631d810c0bbedc964f9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0319>
+
+---
+
+##  Trump’s Tuesday Night Massacre 
+
+date: 2025-03-19, from: The Lever News
+
+ The president just fired antitrust regulators investigating his corporate boosters. The Lever speaks with one of them about why he’s now taking Trump to court.  
+
+<br> 
+
+<https://www.levernews.com/trumps-tuesday-night-massacre/>
+
+---
+
+## Silencing VOA Is Like Silencing America
+
+date: 2025-03-19, from: The Contrarian
+
+Voice of America has been a pillar of U.S. diplomacy for decades. Its loss is a loss for democracy worldwide 
+
+<br> 
+
+<https://contrarian.substack.com/p/silencing-voa-is-like-silencing-america>
+
+---
+
+## Trump’s Plan to Dismantle Education Department Threatens Classroom Funding
+
+date: 2025-03-19, from: Capital and Main
+
+<p>Federal cuts would hurt students with disabilities, English learners and poor districts the most.</p>
+<p>The post <a href="https://capitalandmain.com/trumps-plan-to-dismantle-education-department-threatens-classroom-funding">Trump&#8217;s Plan to Dismantle Education Department Threatens Classroom Funding</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trumps-plan-to-dismantle-education-department-threatens-classroom-funding>
+
+---
+
+##  The Cover Up Coverup 
+
+date: 2025-03-19, from: The Lever News
+
+ Warren Buffett’s conglomerate profited off a makeup ingredient linked to cancer. Now its subsidiary is trying to create a legal precedent — and deny victims remuneration.  
+
+<br> 
+
+<https://www.levernews.com/the-cover-up-coverup/>
+
+---
+
+## Signing up for Social Security could soon feel like a trip to the DMV
+
+date: 2025-03-19, from: Market Place
+
+Additional identity requirements for those signing up for Social Security could boost visitors to field offices that already have long waits. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/new-social-security-identification-requirements-delays/>
+
+---
+
+## Trump's attacks on our core freedoms continue
+
+date: 2025-03-19, from: The Contrarian
+
+It is to our democracy&#8217;s peril if we lose sight of the ways comparable regimes worldwide regularly and deliberately target women&#8217;s and LGBTQ equality. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-attacks-on-our-core-freedoms>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-19, from: The Contrarian
+
+Wednesday: A billboard in Alabama, a protest at the White House, a protests at Tesla in Miami and Tucson, and more. Plus: Links to help you find where you can join a protest or attend a town hall. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Is that a soccer jersey? Or music merch? Why not both?
+
+date: 2025-03-19, from: Market Place
+
+The biggest sports teams are fashion brands in their own right, with people all around the world wearing merch from the likes of the New York Yankees. But how can a team tap into that market when it isn’t even fully pro? 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/bring-me-the-horizon-soccer-kit-jersey/>
+
+---
+
+## Retail at the rodeo means hats, boots and a whole lot more
+
+date: 2025-03-19, from: Market Place
+
+At the Houston Livestock Show and Rodeo, shoppers can buy cow-handling hardware, pizza ovens, furniture — and of course boots and cowboy hats. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/19/retail-at-the-rodeo-means-hats-boots-and-a-whole-lot-more/>
+
+---
+
+## Trump's Cultural Coup
+
+date: 2025-03-19, from: The Contrarian
+
+Artists remain defiant in response to the president&#8217;s hostile takeover of the Kennedy Center 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-cultural-coup>
 
 ---
 
@@ -290,7 +602,7 @@ By Shirley Atkins
 
 date: 2025-03-18, from: Market Place
 
-From massive burgers to turkey legs, chocolate-covered strawberries and a half a pineapple stuffed with friend shrimp and Fruity Pebbles. 
+From massive burgers to turkey legs, chocolate-covered strawberries and a half a pineapple stuffed with fried shrimp and Fruity Pebbles. 
 
 <br> 
 
@@ -307,18 +619,6 @@ A powerful billionaire thinks he can buy votes in our state. But our courts and 
 <br> 
 
 <https://contrarian.substack.com/p/wisconsins-supreme-court-the-next>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-18, from: The Contrarian
-
-Tuesday: A veteran in D.C., a die-in at the New York Stock Exchange, Greenland gets in on the action, a protest in Atlanta, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

@@ -1,11 +1,383 @@
 ---
 title: science and technology
-updated: 2025-03-19 06:08:48
+updated: 2025-03-20 06:08:57
 ---
 
 # science and technology
 
-(date: 2025-03-19 06:08:48)
+(date: 2025-03-20 06:08:57)
+
+---
+
+## Beyond the Algorithm Challenge
+
+date: 2025-03-20, from: NASA breaking news
+
+The NASA Earth Science Technology Office (ESTO) seeks solutions to complex Earth Science problems using transformative or unconventional computing technologies such as quantum computing, quantum machine learning, neuromorphic computing, or in-memory computing. Breakthrough computing methods show promise in overcoming processing power, efficiency, and performance limitations of conventional computing methods. Once fully harnessed, these methods could [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/beyond-the-algorithm-challenge/>
+
+---
+
+## Oops, they did it again: Microsoft breaks Outlook with another dubious update
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Testing? We&#39;ve heard of it</h4> <p>Users of Microsoft&#39;s email service might be feeling a distinct sense of déjà vu after the web version of Outlook last night blocked access to Exchange Online mailboxes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/outlook_outage_again/>
+
+---
+
+## SystemRescue 12 lands with added bcachefs support
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>You might need that – the file system has some hard-to-squish bugs</h4> <p>A new version of the handy all-in-one bootable system toolkit distro is here, now with a whole new file system for you to play with.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/systemrescue_12_bcachefs/>
+
+---
+
+## UK's biggest mobile operator starts 3G switchoff, hopes it won't catch out April fools
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>VMO2 starts in the north of England, says it&#39;s already contacted &#39;known vulnerable customers&#39;</h4> <p>UK telco Virgin Media O2 (VMO2) is preparing to retire its 3G services, and is set to start with the city of Durham in northeast England this April.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/vmo2_3g_switch_off/>
+
+---
+
+## SAP legacy ERP customers still in no rush to adopt latest platform
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Even looming support deadline isn&#39;t tempting ECC users to haul themselves over to S/4HANA, say analysts</h4> <p>The majority of SAP&#39;s ECC users have not purchased licenses for S/4HANA – meaning its unlikely some of the world&#39;s largest businesses will migrate before mainstream support for the legancy platform ends in 2027.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/sap_sees_little_progress_in/>
+
+---
+
+## Asahi Linux loses another prominent dev as GPU guru calls it quits
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Fedora Asahi Remix 42 still scheduled for release in about a month</h4> <p>Another developer has dropped out of Asahi Linux, the project to get Linux up and running on Apple silicon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/asahi_linux_asahi_lina/>
+
+---
+
+## US Space Force warns Chinese satellites are 'dogfighting' in space
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Begun, preparation for orbital wars has</h4> <p>China has practiced co-ordinated satellite maneuvers in space that resemble aerial combat, according to a US Space Force General.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/us_space_force_warns_chinese/>
+
+---
+
+## SoftBank buys server-grade Arm silicon designer Ampere Computing
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Japanese tech investor expects its own hyperscalers and e-com giants to collaborate, which could take a bite out of x86 market</h4> <p>Japanese tech investment house SoftBank Group has announced its intention to acquire Ampere Computing, the chip design firm that makes server-grade silicon based on the Arm architecture.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/softbank_acquires_ampere/>
+
+---
+
+## Tencent slows pace of GPU rollout as DeepSeek helps it wring more performance from fewer accelerators
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Chinese giant says locals are more efficient than Western hyperscalers, and has tiny capex to prove it</h4> <p>Chinese tech giant Tencent has slowed the pace of its GPU rollout since implementing DeepSeek.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/tencent_q4_fy2024_gpu_slowdown/>
+
+---
+
+## It looks like IBM is cutting jobs again, with Classic Cloud hit hard
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>We&#39;re told thousands may soon get a pink slip from Big Blue</h4> <p>IBM insiders believe Big Blue is laying off thousands of people at various locations around the US, including a quarter of staff the company&#39;s Cloud Classic operation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/ibm_cuts_us_jobs/>
+
+---
+
+## GNOME 48 released
+
+date: 2025-03-19, from: OS News
+
+One of the two major open source desktop environments, GNOME, just released version 48, and it&#8217;s got some very big and welcome improvements. First and foremost there&#8217;s dynamic triple-buffering, a feature that took over five years of extensive testing to get ready. It will improve the smoothness and fluidity of animations and other movements on the screen, as it did for KDE when it landed there in the middle of last year. GNOME 48 also brings notification stacking, combining notifications from the same source, improvements to the new default image viewer such as image editing features, a number of digital well-being options, as well as the introduction of a new, basic audio player designed explicitly for quickly playing individual audio files. There&#8217;s also a few changes to GNOME&#8217;s text editor, and following in KDE&#8217;s recent footsteps, GNOME 48 also brings HDR support. Another major change are the new default fonts. Finally, Cantarell is gone, replaced by slightly modified versions of Inter and Iosevka. Considering I absolutely adore Inter and installing and setting it as my main font is literally the first thing I do on any system that allows me to, I&#8217;m fully behind this change. Inter is exceptional in that it renders great in both high and low DPI environments, and its readability is outstanding. GNOME 48 will make its way to your distribution&#8217;s repositories soon enough. 
+
+<br> 
+
+<https://www.osnews.com/story/141957/gnome-48-released/>
+
+---
+
+## Java 24 released
+
+date: 2025-03-19, from: OS News
+
+Oracle, the company owned by a guy who purchased a huge chunk of the Kingdom of Hawaii from the Americans, has released Java 24. I&#8217;ll be honest and upfront: I just don&#8217;t care very much at all about this, as the only interaction I&#8217;ve had with Java over the past, I don&#8217;t know, 15 years or so, is either because of Minecraft, or because of my obsession with ancient UNIX workstations where Java programs pop up in the weirdest of places. I know Java is massive and used everywhere, but going through the list of changes and improvements does not spark any joy in me at all, and just makes me want to stick my pinky in an electrical socket to make something interesting happen. If you work with Java, you know all of this stuff already anyway, as you&#8217;ve been excitedly trying to impress Nick from accounting with your knowledge of Flexible Constructor Bodies and Quantum-Resistant Module-Lattice-Based Key Encapsulation Mechanisms because he&#8217;s just so dreamy and you desperately want to ask him out for a hot cup of coffee, but you&#8217;re not sure if he&#8217;s married or has a boy or girlfriend so you&#8217;re just kind of scoping things out a bit too excitedly and now you&#8217;re worried you might be coming off as too desperate for his attention. Anyway, that&#8217;s how offices work, right? I&#8217;ve never worked for anyone but myself and office settings induce a deep sense of existential dread in me, so my knowledge of office work, and Java if we&#8217;re honest, may be based a bit too much on &#8217;90s sitcoms and dramas. Whatever, Java 24 is here. Do a happy dance. 
+
+<br> 
+
+<https://www.osnews.com/story/141955/java-24-released/>
+
+---
+
+## HP Inc settles printer toner lockout lawsuit with a promise to make firmware updates optional
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Dynamic Security update blocks 3rd-party cartridges, but keeps printing money</h4> <p>HP Inc. has settled a class action lawsuit in which it was accused of unlawfully blocking customers from using third-party toner cartridges - a practice that left some with useless printers – but won’t pay a cent to make the case go away.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/hp_printer_lawsuit_settled/>
+
+---
+
+## Is Dark Energy Getting Weaker? New Evidence Strengthens the Case.
+
+date: 2025-03-19, from: Quanta Magazine
+
+Last year, an enormous map of the cosmos hinted that the engine driving cosmic expansion might be sputtering. Now physicists are back with an even bigger map, and a stronger conclusion.            <p>The post <a href="https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/" target="_blank">Is Dark Energy Getting Weaker? New Evidence Strengthens the Case.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/is-dark-energy-getting-weaker-new-evidence-strengthens-the-case-20250319/>
+
+---
+
+## Next-Generation Water Satellite Maps Seafloor From Space
+
+date: 2025-03-19, from: NASA breaking news
+
+More accurate maps based on data from the SWOT mission can improve underwater navigation and result in greater knowledge of how heat and life move around the world’s ocean. There are better maps of the Moon’s surface than of the bottom of Earth’s ocean. Researchers have been working for decades to change that. As part [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/swot/next-generation-water-satellite-maps-seafloor-from-space/>
+
+---
+
+## Attackers swipe data of 500k+ people from Pennsylvania teachers union
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>SSNs, payment details, and health info too</h4> <p>The Pennsylvania State Education Association (PSEA) says a July 2024 &#34;security incident&#34; exposed sensitive personal data on more than half a million individuals, including financial and health info.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/pennsylvania_nonprofit_cyberattack/>
+
+---
+
+## Names, bank info, and more spills from top sperm bank
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Cyber-crime is officially getting out of hand</h4> <p>One of the world&#39;s largest sperm banks, California Cryobank, is in a sticky situation.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/sperm_bank_data_leak/>
+
+---
+
+## New Bridge Ready to Serve NASA, America’s Space Interests
+
+date: 2025-03-19, from: NASA breaking news
+
+The high-rise bridge that serves as the primary access point for employees and visitors to NASA’s Kennedy Space Center in Florida is fully operational. In the late hours of March 18, 2025, the Florida Department of Transportation (FDOT) opened the westbound portion of the NASA Causeway Bridge, which spans the Indian River Lagoon and connects [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/new-bridge-ready-to-serve-nasa-americas-space-interests/>
+
+---
+
+## EU says Google scroogles app makers, also gives Apple an antitrust must-do-list
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Chrome colossus accused of tilting search results, blocking cheaper purchases, while iTitan told to open iOS</h4> <p>A year after kicking off its probe into three American tech giants, the European Union has fired off two sets of preliminary findings accusing Google parent Alphabet of failing to comply with Europe&#39;s monopoly-busting Digital Markets Act (DMA).…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/google_apple_dma_eu/>
+
+---
+
+## IBM scores perfect 10 ... vulnerability in mission-critical OS AIX
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Big Blue&#39;s workstation workhorse patches hole in network installation manager that could let the bad guys in</h4> <p>IBM &#34;strongly recommends&#34; customers running its Advanced Interactive eXecutive (AIX) operating system apply patches after disclosing two critical vulnerabilities, one of which has a perfect 10 severity score.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/ibm_aix_critical_vulnerabilities/>
+
+---
+
+## VA IT contract cancellation DOGE boasted about ... was due to end in 10 days anyway
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>How much money was going to be saved by ending tech deal with service-disabled veterans, then?</h4> <p>Elon Musk&#39;s DOGE promoted the decision to terminate a deal with service-disabled veterans supporting the Department of Veterans Affairs 10 days before the contract was set to expire anyway.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/va_contract_cancellation_doge/>
+
+---
+
+## Time to ditch US tech for homegrown options, says Dutch parliament
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Trump administration &#39;has made the call for tech sovereignty an urgent geopolitical issue&#39;</h4> <p>Not content to wait for open letters to influence the European Commission, Dutch parliamentarians have taken matters into their own hands by passing eight motions urging the government to ditch US-made tech for homegrown alternatives.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/dutch_parliament_us_tech/>
+
+---
+
+## Welcome Home, Crew-9!
+
+date: 2025-03-19, from: NASA breaking news
+
+NASA astronaut Butch Wilmore, left, Roscosmos cosmonaut Aleksandr Gorbunov, second from left, and NASA astronauts Nick Hague, second from right, and Suni Williams, right, are all smiles as they wait to exit a SpaceX Dragon spacecraft on March 18, 2025. The four returned from a long-duration science expedition aboard the International Space Station, splashing down [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/welcome-home-crew-9/>
+
+---
+
+## Nvidia invests in quantum computing weeks after CEO said it's decades from being useful
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Qubit awkward, you might say</h4> <p><strong>GTC</strong>  Nvidia is investing in a research center to advance quantum computing development, just weeks after its head honcho torpedoed the share price of quantum firms by declaring the tech is decades away from being useful.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/nvidia_boston_quantum_research/>
+
+---
+
+## Political poker? Tariff hunger games? Trump creates havoc for PC industry
+
+date: 2025-03-19, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Tech channel increases stockpiling amid &#39;volatile trade policies.&#39; CIOs to get fewer devices for same money</h4> <p><strong>Comment</strong>  US President Donald Trump&#39;s &#34;volatile trade policies&#34; are creating uncertainty among suppliers of computers and among biz customers looking to use budgets wisely amid a game of on-and-off Oval Office tariffs.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/tariffs_tech_channel_uncertainty/>
+
+---
+
+## Chimera Linux ghosts RISC-V because there's no time for sluggish hardware
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Dev behind the GNU-free distro says boards too slow for serious work</h4> <p>The creators of the unique Chimera Linux distro are dropping support for RISC-V because kit built on the open instruction set architecture just isn&#39;t fast enough and this is holding up the development pipeline.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/chimera_linux_riscv/>
+
+---
+
+## Crew-9 splashes down while NASA floats along with Trump and Musk nonsense
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Elements within the US space agency have elected to toe the party line</h4> <p><strong>Comment</strong>  The Crew-9 mission has safely returned to Earth, marking the end of Suni Williams and Butch Wilmore&#39;s extended time in space and possibly NASA&#39;s bipartisan leanings.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/crew9_mission_misinformation/>
+
+---
+
+## Interview with Michiharu Hyogo, Citizen Scientist and First Author of a New Scientific Paper
+
+date: 2025-03-19, from: NASA breaking news
+
+Peer-reviewed scientific journal articles are the bedrock of science. Each one represents the culmination of a substantial project, impartially checked for accuracy and relevance – a proud accomplishment for any science team.  The person who takes responsibility for writing the paper must inevitably and repeatedly  write, edit, and rewrite its content as they receive comments […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/interview-with-michiharu-hyogo-citizen-scientist-and-first-author-of-a-new-scientific-paper/>
+
+---
+
+## ESA Previews Euclid Mission’s Deep View of ‘Dark Universe’
+
+date: 2025-03-19, from: NASA breaking news
+
+With contributions from NASA, the mission is looking back into the universe’s history to understand how the universe’s expansion has changed.&#160; The Euclid mission — led by ESA (European Space Agency) with contributions from NASA — aims to find out why our universe is expanding at an accelerating rate. Astronomers use the term “dark energy” [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/euclid/esa-previews-euclid-missions-deep-view-of-dark-universe/>
+
+---
+
+## Ex-US Cyber Command chief: Europe and 5 Eyes can't fully replicate US intel
+
+date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+
+<h4>Cue deepening existential European dread as Rest of World contemplates Trump turning off the info tap</h4> <p>If the United States stopped sharing cyber-threat intel with Ukraine, its European allies and the rest of the Five Eyes nations wouldn&#39;t be able to provide all the info Uncle Sam collects, according to former chief of US Cyber Command and the NSA General Paul Nakasone.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/19/nakasone_us_intel_sharing/>
+
+---
+
+## Goodnight, Moon: NASA Cameras on Blue Ghost Capture Lunar Sunset
+
+date: 2025-03-19, from: NASA breaking news
+
+This compressed, resolution-limited gif shows the view of lunar sunset from one of the six Stereo Cameras for Lunar-Plume Surface Studies (SCALPSS) 1.1 cameras on Firefly’s Blue Ghost lander, which operated on the Moon’s surface for a little more than 14 days and stopped, as anticipated, a few hours into lunar night. SCALPSS was taking [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/goodnight-moon-nasa-cameras-on-blue-ghost-capture-lunar-sunset/>
 
 ---
 
@@ -69,11 +441,11 @@ date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
 
 ---
 
-## Show top LLMs buggy code and they'll finish off the mistakes rather than fix them
+## Show top LLMs some code and they'll merrily add in the bugs they saw in training
 
 date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
 
-<h4>One more time, with feeling ... Garbage in, garbage out, in training and inference</h4> <p>Researchers have found that large language models (LLMs) tend to parrot buggy code when tasked with completing flawed snippets.…</p> 
+<h4>One more time, with feeling ... Garbage in, garbage out</h4> <p>Researchers have found that large language models (LLMs) tend to parrot buggy code when tasked with completing flawed snippets.…</p> 
 
 <br> 
 
@@ -157,7 +529,7 @@ date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
 
 date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
 
-<h4>Computer scientist Stephen Thaler again told his &#39;Creativity Machine&#39; can&#39;t earn a ©</h4> <p>The US Court of Appeals for the District of Columbia Circuit has affirmed a lower court ruling that content created by an AI model without human input cannot be copyrighted.…</p> 
+<h4>Computer scientist Stephen Thaler again told his &#39;Creativity Machine&#39; can&#39;t earn a ©</h4> <p><strong>Updated</strong>  The US Court of Appeals for the District of Columbia Circuit has affirmed a lower court ruling that content created by an AI model without human input cannot be copyrighted.…</p> 
 
 <br> 
 
@@ -213,7 +585,7 @@ date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
 ---
 
-## Dell delivers monster 20-petaFLOPS desktop built on Nvidia's GB300 Superchip
+## Dell discloses monster 20-petaFLOPS desktop built on Nvidia's GB300 Superchip
 
 date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
 
@@ -275,7 +647,7 @@ date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
 
 ## Nvidia punts silicon photonic switches to keep GPUs fed with data
 
-date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+date: 2025-03-18, updated: 2025-03-19, from: The Register (UK I.T. News)
 
 <h4>Power sipping bandwidth bottleneck busters – or that&#39;s the hope, anyway</h4> <p><strong>GTC</strong>  Nvidia is set to make available Ethernet and InfiniBand switches featuring silicon photonics with co-packaged optics to advance its vision of datacenters with &#34;millions of GPUs,&#34; arguing that the equipment can keep power consumption down.…</p> 
 
@@ -285,9 +657,9 @@ date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
 
 ---
 
-## We heard you like HBM – Nvidia's Blackwell Ultra GPUs have 288 GB of it
+## We heard you like HBM – Nvidia's Blackwell Ultra GPUs will have 288 GB of it
 
-date: 2025-03-18, updated: 2025-03-18, from: The Register (UK I.T. News)
+date: 2025-03-18, updated: 2025-03-20, from: The Register (UK I.T. News)
 
 <h4>There goes AMD&#39;s capacity advantage</h4> <p><strong>GTC</strong>  Nvidia&#39;s Blackwell GPU architecture is barely out of the cradle – and the graphics chip giant is already looking to extend its lead over rival AMD with an Ultra-themed refresh of the technology.…</p> 
 

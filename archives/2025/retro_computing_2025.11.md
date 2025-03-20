@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-03-19 06:08:52
+updated: 2025-03-20 06:09:01
 ---
 
 # retro computing
 
-(date: 2025-03-19 06:08:52)
+(date: 2025-03-20 06:09:01)
 
 ---
 
@@ -1451,7 +1451,7 @@ cb        cxref     f77       lp        pack      sact      unpack
 cdc       date      fgrep     lplot     page      scat      uucp
 </pre></div>
 <p>
-I'm not going to go through all of these, and I don't have manual entries for all of them either, but it is a substantial complement and appears to have all of the base tools in System V R2.0 plus the Venix value-adds from 4BSD and a handful of Venix-specific utilities. The <tt>ps</tt> utility in particular is more of a system status utility, printing not only processes and their flags but also swap and memory status. This system additionally has Ted Green's <tt>vedit</tt> (probably a port of the C-language version developed for Xenix) and what look like cross-assemblers. You can also see the tools that were used to draw the graphs I showed you.
+I'm not going to go through all of these, and I don't have manual entries for all of them either, but it is a substantial complement and appears to have all of the base tools in System V R2.0 plus the Venix value-adds from 4BSD and a handful of Venix-specific utilities. The <tt>ps</tt> utility in particular is more of a system status utility, printing not only processes and their flags but also swap and memory status. This system additionally has Ted Green's <tt>vedit</tt> (probably a port of the C-language version developed for Xenix) and various graphics commands, and you can also see the tools that were used to draw the graphs I showed you.
 <p>
 Here are the libraries. Remember, they aren't shared, although the programs that use them might be.
 <p>
