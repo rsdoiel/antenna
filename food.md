@@ -1,11 +1,177 @@
 ---
 title: food
-updated: 2025-03-20 06:09:02
+updated: 2025-03-21 06:07:50
 ---
 
 # food
 
-(date: 2025-03-20 06:09:02)
+(date: 2025-03-21 06:07:50)
+
+---
+
+## New Product: Monin’s Matcha Green Tea Concentrate Eliminates the Whisk But Keeps the Flavor
+
+date: 2025-03-21, from: The Fresh Cup
+
+<p>Demand for matcha is skyrocketing. Enter Monin’s new Matcha Green Tea Concentrate, made with Japanese matcha powder and perfect for cafes looking to speed up service and help diversify their menus.</p>
+<p>The post <a href="https://freshcup.com/new-product-monins-matcha-green-tea-concentrate-eliminates-the-whisk-but-keeps-the-flavor/">New Product: Monin’s Matcha Green Tea Concentrate Eliminates the Whisk But Keeps the Flavor</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/new-product-monins-matcha-green-tea-concentrate-eliminates-the-whisk-but-keeps-the-flavor/>
+
+---
+
+## 10-Minute Broccoli and More Recipes We Made This Week
+
+date: 2025-03-21, from: Bon Appetet
+
+Like squash galette and Old Bay grilled shrimp. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-march-2025>
+
+---
+
+## Homemade Creole Seasoning Recipe
+
+date: 2025-03-21, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/creole-seasoning/" title="Homemade Creole Seasoning Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Creole-Seasoning-Recipe1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Creole Seasoning Recipe" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Creole-Seasoning-Recipe1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Creole-Seasoning-Recipe1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Creole-Seasoning-Recipe1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Creole-Seasoning-Recipe1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Creole-Seasoning-Recipe1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Creole-Seasoning-Recipe1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2023/02/Creole-Seasoning-Recipe1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This homemade creole seasoning blend is a powerhouse mix of herbs and spices for Cajun and Creole cuisine, or any dish for a dash of bold flavor, a go-to.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/creole-seasoning/">Homemade Creole Seasoning Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/creole-seasoning/>
+
+---
+
+## We Tried Caroline’s Cakes, and It Made Birthday Celebrating Easy
+
+date: 2025-03-21, from: Taste of Home
+
+<p>Our editors tried Caroline’s Cakes, a mail-order company that sells handmade cakes from South Carolina. Here’s what they thought about the Southern-style sweet treats.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/carolines-cakes-review/">We Tried Caroline&#8217;s Cakes, and It Made Birthday Celebrating Easy</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/carolines-cakes-review/>
+
+---
+
+## Ninja Immersion Blender Review: Here’s Why It’s Our Top Pick
+
+date: 2025-03-21, from: Taste of Home
+
+<p>The Ninja immersion blender functions as a blender and a hand mixer. Its affordable price point makes it accessible for every kitchen.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ninja-immersion-blender-review/">Ninja Immersion Blender Review: Here&#8217;s Why It&#8217;s Our Top Pick</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ninja-immersion-blender-review/>
+
+---
+
+## How to Grill Fish, Whole or Filleted
+
+date: 2025-03-20, from: Bon Appetet
+
+Whether you snagged a tuna steak, a side of salmon, or a whole red snapper, we have tips. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-to-grill-fish-guide-article>
+
+---
+
+## Presenting the Winners from Our ‘Eat More Fruits & Veggies’ Recipe Contest
+
+date: 2025-03-20, from: Taste of Home
+
+<p>Home cooks showcased their best fruit and veggie dishes, spotlighting fresh, frozen and canned produce.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/eat-more-fruits-veggies-contest-winners/">Presenting the Winners from Our &#8216;Eat More Fruits &#038; Veggies&#8217; Recipe Contest</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/eat-more-fruits-veggies-contest-winners/>
+
+---
+
+## Global Gin
+
+date: 2025-03-20, from: Bon Appetet
+
+These globe-spanning gins embrace bold botanicals that intrigue and delight. 
+
+<br> 
+
+<https://www.bonappetit.com/story/these-gins-from-around-the-world-are-reimagining-the-spirit>
+
+---
+
+## Best Vitamix Blenders at Every Price Point (2025)
+
+date: 2025-03-20, from: Bon Appetet
+
+The blender of your dreams awaits. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-vitamix-blender>
+
+---
+
+## Join Cafe Imports For A Live Podcast Taping Of Source: A Green Coffee Buying Panel
+
+date: 2025-03-20, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Source: A Green Coffee Buying Panel takes place Saturday, April 26th in Houston, Texas. 
+
+<br> 
+
+<https://sprudge.com/join-cafe-imports-for-a-live-podcast-taping-of-source-a-green-coffee-buying-panel-308678.html>
+
+---
+
+## Here Are the Winners from the African Fine Coffees Association Competitions
+
+date: 2025-03-20, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-620x414.jpg" class="attachment-large size-large wp-post-image" alt="AFCA Africa Barista Competition" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The 21st African Fine Coffees Conference &#38; Exhibition recently concluded in Dar es Salaam, Tanzania, shining a light on some of the finest coffees and most talented baristas throughout the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/20/here-are-the-winners-from-the-african-fine-coffees-association-competitions/>
+
+---
+
+## Gluten-Free Cinnamon Rolls
+
+date: 2025-03-20, from: Taste of Home
+
+These soft gluten-free cinnamon rolls are filled with cinnamon sugar and smothered in cream cheese frosting—just like the traditional version. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gluten-free-cinnamon-rolls/>
+
+---
+
+## From Australia, Caffeine Control Coffee Brings Balance to the Boost
+
+date: 2025-03-20, from: Daily Coffee News
+
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caffeine-Control-Coffee-products-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Caffeine Control Coffee products" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Caffeine-Control-Coffee-products-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caffeine-Control-Coffee-products-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caffeine-Control-Coffee-products-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caffeine-Control-Coffee-products-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Caffeine-Control-Coffee-products.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new roasting company called Caffeine Control Coffee is launching with a slate of blends created not only for deliciousness, but for precise control of coffee&#8217;s pick-me-up power. Launched in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/20/from-australia-caffeine-control-coffee-brings-balance-to-the-boost/>
 
 ---
 
@@ -46,6 +212,18 @@ Some people want cake. Test kitchen editor Jesse wanted chicken.
 <br> 
 
 <https://www.bonappetit.com/story/protein-packed-chicken-cutlets>
+
+---
+
+## Key Lime Mojito
+
+date: 2025-03-20, from: Taste of Home
+
+If you like Key lime pie, you're absolutely going to love our tart and creamy Key lime mojito. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/key-lime-mojito/>
 
 ---
 
@@ -339,7 +517,7 @@ Stock up on kitchen tools and save big on Breville, Staub, Dyson, Ninja, and oth
 
 date: 2025-03-19, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg" class="attachment-large size-large wp-post-image" alt="WeBe Coffee Phoenix 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg" class="attachment-large size-large wp-post-image" alt="WeBe Coffee Phoenix 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <br> 
 
@@ -351,7 +529,7 @@ date: 2025-03-19, from: Daily Coffee News
 
 date: 2025-03-19, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee parchment" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new report by the United Nations Food and Agriculture Organization (FAO) highlights how climate change is exacerbating price volatility, while calling for increased transparency and information-sharing among market participants.... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee parchment" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-parchment.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new report by the United Nations Food and Agriculture Organization (FAO) highlights how climate change is exacerbating price volatility, while calling for increased transparency and information-sharing among market participants.... 
 
 <br> 
 
@@ -363,7 +541,7 @@ date: 2025-03-19, from: Daily Coffee News
 
 date: 2025-03-19, from: Daily Coffee News
 
-<div><img width="620" height="518" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-620x518.jpg" class="attachment-large size-large wp-post-image" alt="West Lou Coffee bags" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-620x518.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-300x250.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-150x125.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-768x641.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-600x500.jpg 600w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Louisville, Kentucky-based small batch roasting company West Lou Coffee made its first big move in late 2024, relocating from a food business incubator kitchen into a dedicated roastery. From within... 
+<div><img width="620" height="518" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-620x518.jpg" class="attachment-large size-large wp-post-image" alt="West Lou Coffee bags" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-620x518.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-300x250.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-150x125.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-768x641.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags-600x500.jpg 600w, https://dailycoffeenews.com/wp-content/uploads/2025/03/West-Lou-Coffee-bags.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Louisville, Kentucky-based small batch roasting company West Lou Coffee made its first big move in late 2024, relocating from a food business incubator kitchen into a dedicated roastery. From within... 
 
 <br> 
 
@@ -395,6 +573,20 @@ Beer cheese dip meets mac and cheese.
 
 ---
 
+## Stanley Tucci Cooked This Iconic Fish Dish for Harry Styles
+
+date: 2025-03-19, from: Taste of Home
+
+<p>Even if Harry Styles isn't coming over, this dish is worth recreating.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cod-alla-livornese-stanley-tucci/">Stanley Tucci Cooked This Iconic Fish Dish for Harry Styles</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cod-alla-livornese-stanley-tucci/>
+
+---
+
 ## Small Cafe? Here’s How To Design a Winning Food Program
 
 date: 2025-03-19, from: The Fresh Cup
@@ -413,7 +605,7 @@ date: 2025-03-19, from: The Fresh Cup
 
 date: 2025-03-19, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/lamb-korma/" title="Lamb Korma Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Delicious Lamb Korma in a serving bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Lamb korma is a comforting Indian curry with chunks of lamb simmered in a spiced cashew-yogurt sauce until super tender, so creamy and aromatic.</p>
+<a href="https://www.chilipeppermadness.com/recipes/lamb-korma/" title="Lamb Korma Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Delicious Lamb Korma in a serving bowl" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/02/Lamb-Korma-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Lamb korma is a comforting Indian curry with chunks of lamb simmered in a spiced cashew-yogurt sauce until super tender, so creamy and aromatic.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/lamb-korma/">Lamb Korma Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 
@@ -1208,6 +1400,22 @@ date: 2025-03-16, from: The Sprudge
 <br> 
 
 <https://sprudge.com/it-take-a-village-a-roasters-village-to-bring-you-this-many-good-coffees-304916.html>
+
+---
+
+## One-Pan Meals
+
+date: 2025-03-16, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2018/04/One-Pan-Meal-Recipes.jpg"/></div>
+<p>Quick and easy recipes for meals that can be made in one pan or pot! All too often I find that my nights are super busy and I want a quick and easy meal, that&#8217;s homemade and most importantly, tasty! Quick is always good but sometimes I enjoy the simplicity of a meal that can...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/one-pan-meals/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/one-pan-meals/">One-Pan Meals</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/one-pan-meals/>
 
 ---
 

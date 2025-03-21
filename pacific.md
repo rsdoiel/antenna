@@ -1,11 +1,585 @@
 ---
 title: pacific
-updated: 2025-03-20 06:08:56
+updated: 2025-03-21 06:07:44
 ---
 
 # pacific
 
-(date: 2025-03-20 06:08:56)
+(date: 2025-03-21 06:07:44)
+
+---
+
+## Fact sheet on presidential directive disbanding US Department of Education 
+
+date: 2025-03-21, from: Pacific Island Times
+
+(White House)  -- Today, President Donald J. Trump signed an Executive Order returning power over education to families instead of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/fact-sheet-on-presidential-directive-disbanding-us-department-of-education>
+
+---
+
+## Northern Marianas College remains calm amid USDOE abolition
+
+date: 2025-03-21, from: Pacific Island Times
+
+By Pacific Island Times News Staff   Saipan — The Northern Marianas College has prepared a contingency plan ahead of time, allowing it to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/northern-marianas-college-remains-calm-amid-usdoe-abolition>
+
+---
+
+## VA shake-up disrupts mental health services for some US veterans
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>SAN FRANCISCO &#8212; Joey Cortez, who served 24 years in the U.S. Air Force, had been waiting since August to see a mental health specialist from the Department of Veterans&#8217; Affairs, when he experienced a fresh jolt of anxiety.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/va-shake-up-disrupts-mental-health-services-for-some-us-veterans/>
+
+---
+
+## Canadians cite Trump in canceling trips to Hawaii
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>A small sample of once-loyal Hawaii visitors from Canada have written to Gov. Josh Green and Hawaii tourism officials that they canceled their latest trips to the islands because of President Donald Trump&#8217;s comments and actions toward their country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/hawaii-news/canadians-cite-trump-in-canceling-trips-to-hawaii/>
+
+---
+
+## Progress made in effort to build Hilo skatepark
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>Funding from Hawaii County and the state totaling $6 million is bringing the decade-long effort to build Hilo&#8217;s first skatepark closer to fruition.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/hawaii-news/progress-made-in-effort-to-build-hilo-skatepark/>
+
+---
+
+## Trump signs order aimed at eliminating DOE ‘once and for all’
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Thursday instructed Education Secretary Linda McMahon to begin shutting down her agency, a task that cannot be completed without congressional approval and sets the stage for a seismic political and legal battle over the federal government&#8217;s role in the nation&#8217;s schools.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/trump-signs-order-aimed-at-eliminating-doe-once-and-for-all/>
+
+---
+
+## Judge stops Musk’s team from accessing millions of Americans’ data, cites privacy breach
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge said on Thursday the Social Security Administration likely violated privacy laws by giving tech billionaire Elon Musk&#8217;s aides &#8220;unbridled access&#8221; to millions of Americans&#8217; private data, and ordered a halt to any further record sharing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/judge-stops-musks-team-from-accessing-millions-of-americans-data-cites-privacy-breach/>
+
+---
+
+## Tesla recalls most Cybertrucks due to trim detaching from vehicle
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Tesla is recalling nearly all Cybertrucks in the United States to fix an exterior panel that could detach while driving, the company said on Thursday, the latest in a series of call-backs for the pickup truck.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/tesla-recalls-most-cybertrucks-due-to-trim-detaching-from-vehicle/>
+
+---
+
+## Ukraine strikes Russian strategic bomber airfield, triggering huge blast
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>MOSCOW &#8212; Ukraine struck a major Russian strategic bomber airfield on Thursday with drones, triggering a huge blast and fire about 700 km (435 miles) from the front lines of the war, Russian and Ukrainian officials said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/ukraine-strikes-russian-strategic-bomber-airfield-triggering-huge-blast/>
+
+---
+
+## Turkish protests ramp up over Istanbul mayor’s detention
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>ISTANBUL &#8212; Thousands of Turks were expected to ramp up protests on Thursday over what they called the undemocratic detention of Istanbul&#8217;s mayor Ekrem Imamoglu despite a ban on gatherings, police barricades and dozens of detentions over social media posts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/turkish-protests-ramp-up-over-istanbul-mayors-detention/>
+
+---
+
+## Millions of lives at risk from ‘brutal’ funding cuts, UN refugee chief says
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; Millions of lives are at risk from &#8220;brutal funding cuts&#8221; from donors, the U.N. refugee chief said on Thursday, warning that women refugees are already at greater risk of rape and that children are being pushed into trafficking or early marriage.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/millions-of-lives-at-risk-from-brutal-funding-cuts-un-refugee-chief-says/>
+
+---
+
+## At Mexico’s ‘ranch of horror’ families of the missing hope for answers
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>TEUCHITLAN, Mexico &#8212; The gate, black and 10 feet (3 meters) tall, decorated with two rearing white horses, has become synonymous with death in Mexico. For dozens of families waiting outside on Thursday it also offered a tragic sense of hope in their search for missing loved ones.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/at-mexicos-ranch-of-horror-families-of-the-missing-hope-for-answers/>
+
+---
+
+## US seeks to deport pro-Palestinian Georgetown University student
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/ NEW YORK &#8212; U.S. President Donald Trump&#8217;s administration has detained an Indian man studying at Washington&#8217;s Georgetown University and is seeking to deport him after deeming him a harm to U.S. foreign policy, the student&#8217;s lawyer said on Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/us-seeks-to-deport-pro-palestinian-georgetown-university-student/>
+
+---
+
+## A Trump recession?
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>Is the U.S. economy headed for a recession? Stocks have plunged. So have measures of consumer and business confidence. Forecasters expect slower growth, higher unemployment and faster inflation than they did just a few months ago &#8212; and Wednesday, policymakers at the Federal Reserve said they agreed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/a-trump-recession/>
+
+---
+
+## Reinstated, but not back to work: fired workers linger in ‘limbo’
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Erin Cagney was supposed to hear Monday that she could go back to doing the job she loved &#8212; as an archaeologist with the National Park Service in Washington, D.C. But the day came and went without a word.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/reinstated-but-not-back-to-work-fired-workers-linger-in-limbo/>
+
+---
+
+## News in brief for March 21
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>Pentagon to brief Musk on &#0010;plans for potential war with China</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/news-in-brief-for-march-21/>
+
+---
+
+## ‘Snow White’ debuts in theaters, dogged by controversy
+
+date: 2025-03-21, from: Hawaii Tribune Harold
+
+
+				<p>LOS ANGELES &#8212; Disney&#8217;s &#8220;Snow White&#8221; reaches theaters today, after having been dogged by controversies that dragged the retelling of the 1937 animated classic into the culture wars, potentially threatening its box office performance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/21/nation-world-news/snow-white-debuts-in-theaters-dogged-by-controversy/>
+
+---
+
+## Whipps denounces Senate’s rejection of Education Minister Nominee
+
+date: 2025-03-21, from: Island Times
+
+<p>KOROR, Palau — President Surangel Whipps Jr. criticized the Senate for rejecting his nominee for Minister of Education, Dr. Dale Jenkins, and for failing to act on the appointment of Kaleb Udui Jr. as Minister of Finance. “Enough is enough! We need to work based on facts, not feelings,” Whipps said during a press conference [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/whipps-denounces-senates-rejection-of-education-minister-nominee/">Whipps denounces Senate’s rejection of Education Minister Nominee</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/whipps-denounces-senates-rejection-of-education-minister-nominee/>
+
+---
+
+## Student-led project preserves Palauan Legends in Native Language
+
+date: 2025-03-21, from: Island Times
+
+<figure><img width="1024" height="577" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?fit=1024%2C577&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=1536%2C865&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=2048%2C1153&amp;ssl=1 2048w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=1200%2C676&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=1568%2C883&amp;ssl=1 1568w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=2000%2C1126&amp;ssl=1 2000w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?fit=1024%2C577&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76286" data-permalink="https://islandtimes.org/student-led-project-preserves-palauan-legends-in-native-language/20250319_105416/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?fit=2560%2C1441&amp;ssl=1" data-orig-size="2560,1441" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1742381656&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.9&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250319_105416" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/20250319_105416-scaled.jpg?fit=780%2C440&amp;ssl=1" /></figure>
+<p>KOROR, Palau — A new book featuring Palauan legends written in the Palauan language offers young readers an opportunity to learn traditional stories while strengthening their native language skills. Funded by the Sasakawa Foundation, the Palau High School Students’ Science Club compiled the collection of legends and folklore. “We went on field trips to cultural [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/student-led-project-preserves-palauan-legends-in-native-language/">Student-led project preserves Palauan Legends in Native Language</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/student-led-project-preserves-palauan-legends-in-native-language/>
+
+---
+
+## Public Hearings reveal deep divisions over Bill on Traditional title appointments
+
+date: 2025-03-21, from: Island Times
+
+<p>KOROR, Palau — The Senate held three public hearings on March 18 regarding Senate Bill 12-16, a measure that seeks to establish legal presumptions about the Klobak’s authority to accept or reject candidates for traditional titles. The bill has sparked strong opposition and support, with cultural leaders and lawmakers divided on whether legislation should govern [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/public-hearings-reveal-deep-divisions-over-bill-on-traditional-title-appointments/">Public Hearings reveal deep divisions over Bill on Traditional title appointments</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/public-hearings-reveal-deep-divisions-over-bill-on-traditional-title-appointments/>
+
+---
+
+## EU Ambassador highlights strengthened ties with Palau, Eyes Trade and Climate Cooperation
+
+date: 2025-03-21, from: Island Times
+
+<figure><img width="600" height="774" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/European-Union-EU-Ambassador-Barbara-Plinkert.jpg?fit=600%2C774&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/European-Union-EU-Ambassador-Barbara-Plinkert.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/European-Union-EU-Ambassador-Barbara-Plinkert.jpg?resize=233%2C300&amp;ssl=1 233w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/European-Union-EU-Ambassador-Barbara-Plinkert.jpg?resize=400%2C516&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/European-Union-EU-Ambassador-Barbara-Plinkert.jpg?fit=600%2C774&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76279" data-permalink="https://islandtimes.org/eu-ambassador-highlights-strengthened-ties-with-palau-eyes-trade-and-climate-cooperation/european-union-eu-ambassador-barbara-plinkert/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/European-Union-EU-Ambassador-Barbara-Plinkert.jpg?fit=600%2C774&amp;ssl=1" data-orig-size="600,774" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="European Union (EU) Ambassador Barbara Plinkert" data-image-description="&lt;p&gt; European Union (EU) Ambassador Barbara Plinkert&lt;/p&gt;
+" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/European-Union-EU-Ambassador-Barbara-Plinkert.jpg?fit=233%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/European-Union-EU-Ambassador-Barbara-Plinkert.jpg?fit=600%2C774&amp;ssl=1" /></figure>
+<p>KOROR, Palau — European Union (EU) Ambassador Barbara Plinkert reaffirmed the EU’s commitment to strengthening cooperation with Palau, focusing on climate action, ocean governance, economic development, and trade relations during her official visit to the island nation. Plinkert, who presented her credentials to President Surangel Whipps Jr., described Palau as a key partner in advancing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/eu-ambassador-highlights-strengthened-ties-with-palau-eyes-trade-and-climate-cooperation/">EU Ambassador highlights strengthened ties with Palau, Eyes Trade and Climate Cooperation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/eu-ambassador-highlights-strengthened-ties-with-palau-eyes-trade-and-climate-cooperation/>
+
+---
+
+## Palau launches official Climate Change Website to Drive Awareness and Action
+
+date: 2025-03-21, from: Island Times
+
+<figure><img width="1024" height="488" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?fit=1024%2C488&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?w=1236&amp;ssl=1 1236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?resize=300%2C143&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?resize=1024%2C488&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?resize=768%2C366&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?resize=1200%2C572&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?resize=400%2C191&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?resize=706%2C336&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?fit=1024%2C488&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76276" data-permalink="https://islandtimes.org/palau-launches-official-climate-change-website-to-drive-awareness-and-action/climate-change-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?fit=1236%2C589&amp;ssl=1" data-orig-size="1236,589" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="climate change" data-image-description="" data-image-caption="&lt;p&gt;(Official climate change website landing page)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?fit=300%2C143&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/climate-change.jpg?fit=780%2C372&amp;ssl=1" /></figure>
+<p>Koror, Palau – In a significant step toward climate resilience, Palau has launched www.climatechange.pw, an official website dedicated to climate change awareness and action. The platform, announced by President Surangel Whipps Jr. on March 5, 2025, serves as a central hub for citizens, policymakers, and stakeholders to access critical information on climate change impacts, adaptation [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-launches-official-climate-change-website-to-drive-awareness-and-action/">Palau launches official Climate Change Website to Drive Awareness and Action</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-launches-official-climate-change-website-to-drive-awareness-and-action/>
+
+---
+
+## Report warns of Chinese Criminal Networks investing in Palau
+
+date: 2025-03-21, from: Island Times
+
+<p>KOROR, Palau, March 21, 2025 (Island Times) — A U.S.-funded study has warned that Chinese-linked criminal enterprises are actively investing in Palau, posing potential risks to the country’s security and sovereignty. The report, first published by Benar News, alleges that investments tied to Cambodia-based Prince Group could serve as a conduit for illicit activities and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/report-warns-of-chinese-criminal-networks-investing-in-palau/">Report warns of Chinese Criminal Networks investing in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/report-warns-of-chinese-criminal-networks-investing-in-palau/>
+
+---
+
+## Palau hosts Historic Women Leaders’ Summit to Highlight Parental support
+
+date: 2025-03-21, from: Island Times
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?w=1236&amp;ssl=1 1236w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76270" data-permalink="https://islandtimes.org/palau-hosts-historic-women-leaders-summit-to-highlight-parental-support/54381269259_2e36c201d9_c/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?fit=1236%2C927&amp;ssl=1" data-orig-size="1236,927" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="54381269259_2e36c201d9_c" data-image-description="" data-image-caption="&lt;p&gt;genD&lt;br /&gt;
+irector of Domestic Affairs Eunice Akiwo&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/54381269259_2e36c201d9_c.jpg?fit=780%2C585&amp;ssl=1" /></figure>
+<p>CSW69, New York&#160;– Palau&#8217;s Director for Domestic Affairs, Eunice Akiwo, has underscored the importance of supporting parents as a key step in adopting a gender-focused approach to family resourcing. At the Pacific welcome reception at the 69th global Commission on the Status of Women (CSW) meeting in New York, Akiwo shared how Palau is introducing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-hosts-historic-women-leaders-summit-to-highlight-parental-support/">Palau hosts Historic Women Leaders&#8217; Summit to Highlight Parental support</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-hosts-historic-women-leaders-summit-to-highlight-parental-support/>
+
+---
+
+## Rolling with Resistance
+
+date: 2025-03-21, from: Island Times
+
+<figure><img width="900" height="339" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=900%2C339&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?resize=300%2C113&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?resize=768%2C289&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?resize=400%2C151&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=900%2C339&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="51943" data-permalink="https://islandtimes.org/mind-and-spirit/womens-corner-new-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=900%2C339&amp;ssl=1" data-orig-size="900,339" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="women&#8217;s corner-new" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=300%2C113&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/03/womens-corner-new.jpg?fit=780%2C294&amp;ssl=1" /></figure>
+<p>You tried not to be defensive but you messed up feeling like a failure.&#160; Failure is not weakness. It&#8217;s an event. It&#8217;s not being wrong. It&#8217;s not being inferior. It&#8217;s just being different. We all grew up from&#160; different environments with different experiences. And each child is unique.&#160; (All the reason not to compare ourselves [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/rolling-with-resistance/">Rolling with Resistance</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/rolling-with-resistance/>
+
+---
+
+## BCBP K9 Drug Detector Dog Unit and Biosecurity conducts Outreach Program at KES
+
+date: 2025-03-21, from: Island Times
+
+<figure><img width="1024" height="817" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?fit=1024%2C817&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?resize=300%2C239&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?resize=1024%2C817&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?resize=768%2C613&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?resize=1200%2C957&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?resize=400%2C319&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?resize=706%2C563&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?fit=1024%2C817&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76261" data-permalink="https://islandtimes.org/bcbp-k9-drug-detector-dog-unit-and-biosecurity-conducts-outreach-program-at-kes/red-k9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?fit=1230%2C981&amp;ssl=1" data-orig-size="1230,981" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Red K9" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?fit=300%2C239&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Red-K9.jpeg?fit=780%2C622&amp;ssl=1" /></figure>
+<p>Koror, Palau – On March 18, 2025, The Bureau of Customs and Border Protection’s K9 Drug Detector Dog Unit, in collaboration with Biosecurity Officers, conducted an interactive outreach program today for three third-grade classes at Koror Elementary School as part of their awareness program. The K9 Team, led by Officer in Charge (OIC) Mayer Julius, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/bcbp-k9-drug-detector-dog-unit-and-biosecurity-conducts-outreach-program-at-kes/">BCBP K9 Drug Detector Dog Unit and Biosecurity conducts Outreach Program at KES</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/bcbp-k9-drug-detector-dog-unit-and-biosecurity-conducts-outreach-program-at-kes/>
+
+---
+
+## PICRC partners with Pacific RISA to implement climate change adaptation in Palau
+
+date: 2025-03-21, from: Island Times
+
+<figure><img width="899" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?fit=899%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?w=1230&amp;ssl=1 1230w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?resize=263%2C300&amp;ssl=1 263w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?resize=899%2C1024&amp;ssl=1 899w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?resize=768%2C875&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?resize=1200%2C1367&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?resize=400%2C456&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?resize=706%2C804&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?fit=899%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76257" data-permalink="https://islandtimes.org/picrc-partners-with-pacific-risa-to-implement-climate-change-adaptation-in-palau/photo_picrc-partners-with-pacific-risa-to-implemen/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?fit=1230%2C1401&amp;ssl=1" data-orig-size="1230,1401" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-G781U1&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1709120905&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;5.4&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.025&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Photo_PICRC partners with Pacific RISA to implemen" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?fit=263%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Photo_PICRC-partners-with-Pacific-RISA-to-implemen.jpg?fit=780%2C888&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) has signed a project award of $269,535 funded by the US Department of Commerce: National Oceanic and Atmospheric Administration (NOAA), under the project titled, “Supporting WMO Region V and the Pacific Islands Regional Climate Assessment (PIRCA) through Climate Indicators Monitoring, Early Warning Systems Development, and Capacity Building”.&#160; The [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-partners-with-pacific-risa-to-implement-climate-change-adaptation-in-palau/">PICRC partners with Pacific RISA to implement climate change adaptation in Palau</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-partners-with-pacific-risa-to-implement-climate-change-adaptation-in-palau/>
+
+---
+
+## PCC student Andreas shares her experience  in Japan during the JENESYS Program
+
+date: 2025-03-21, from: Island Times
+
+<figure><img width="600" height="1017" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Klei-1.jpeg?fit=600%2C1017&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Klei-1.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Klei-1.jpeg?resize=177%2C300&amp;ssl=1 177w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Klei-1.jpeg?resize=400%2C678&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Klei-1.jpeg?fit=600%2C1017&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76254" data-permalink="https://islandtimes.org/pcc-student-andreas-shares-her-experience-in-japan-during-the-jenesys-program/klei-1/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Klei-1.jpeg?fit=600%2C1017&amp;ssl=1" data-orig-size="600,1017" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1742390895&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Klei 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Klei-1.jpeg?fit=177%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/Klei-1.jpeg?fit=600%2C1017&amp;ssl=1" /></figure>
+<p>On March 19th, 2025, Palau Community College (PCC) student, Ms. Klei Nadyn Andreas, who was a part of the JENESYS Program in Japan from January 29th to February 6th, 2025, gave a captivating presentation detailing her experience during her 9-day program. The JENESYS Program, funded by the Japanese Government, aims to foster friendship and cultural [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/pcc-student-andreas-shares-her-experience-in-japan-during-the-jenesys-program/">PCC student Andreas shares her experience  in Japan during the JENESYS Program</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/pcc-student-andreas-shares-her-experience-in-japan-during-the-jenesys-program/>
+
+---
+
+## ‘We want the death penalty’: Port Moresby women
+
+date: 2025-03-21, from: Island Times
+
+<p>PORT MORESBY (POST COURIER) &#8212; Port Moresby women are demanding the death penalty to be reinstated as punishment for perpetrators of violence against women in Papua New Guinea. Members of parliament discussed the motion of Gender Based Violence in yesterday’s parliament sitting, while hundreds of women around Port Moresby and NCD rallied outside the gates [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/we-want-the-death-penalty-port-moresby-women/">‘We want the death penalty’: Port Moresby women</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/we-want-the-death-penalty-port-moresby-women/>
+
+---
+
+## Greater internet accessibility in the Pacific, brings problems of ‘mis-information’
+
+date: 2025-03-21, from: Island Times
+
+<p>PERTH (ABC PACIFIC) &#8212; Better internet access in the internet means there&#8217;s greater exposure to disinformation, and the Pacific is region is no exception.  According to a report by the State of the Media research project, there have been positive advancements in the Pacific media sector, but it remains fragile due to digital disruption and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/greater-internet-accessibility-in-the-pacific-brings-problems-of-mis-information/">Greater internet accessibility in the Pacific, brings problems of &#8216;mis-information&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/greater-internet-accessibility-in-the-pacific-brings-problems-of-mis-information/>
+
+---
+
+## Vanuatu defends passport scheme in face of travel ban reports
+
+date: 2025-03-21, from: Island Times
+
+<p>PORT VILA (BENAR NEWS) &#8212; The Vanuatu government is yet to receive any formal communication from the Trump administration about the country’s reported inclusion in a sweeping travel ban on citizens of dozens of nations, while a U.S spokesperson denied the existence of such a list. Vanuatu is one of over 40 countries reported to [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/vanuatu-defends-passport-scheme-in-face-of-travel-ban-reports/">Vanuatu defends passport scheme in face of travel ban reports</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/vanuatu-defends-passport-scheme-in-face-of-travel-ban-reports/>
+
+---
+
+## Kiribati eyes deep-sea mining deal with China
+
+date: 2025-03-21, from: Island Times
+
+<p>TARAWA (AFP) &#8212; Pacific nation Kiribati says it is exploring a deep-sea mining partnership with China, dangling access to a vast patch of Pacific Ocean harbouring coveted metals and minerals. Beijing has been ramping up efforts to court Pacific nations sitting on lucrative seafloor deposits of cobalt, nickel and copper &#8212; recently inking a cooperation [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/kiribati-eyes-deep-sea-mining-deal-with-china/">Kiribati eyes deep-sea mining deal with China</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/kiribati-eyes-deep-sea-mining-deal-with-china/>
+
+---
+
+## Beijing-backed media welcome US cuts to media in Asia, amid warnings of information ‘black holes’
+
+date: 2025-03-21, from: Island Times
+
+<p>By the Asia-Pacific Newsroom (ABC-Australia) Beijing-backed media are celebrating cuts to US media agencies broadcasting into Asia, as activists and analysts warn the closures will create information &#8220;black holes&#8221; that could be filled by Russian or Chinese services. News of the funding slash emerged over the weekend after US President Donald Trump signed an order [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/beijing-backed-media-welcome-us-cuts-to-media-in-asia-amid-warnings-of-information-black-holes/">Beijing-backed media welcome US cuts to media in Asia, amid warnings of information &#8216;black holes&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/beijing-backed-media-welcome-us-cuts-to-media-in-asia-amid-warnings-of-information-black-holes/>
+
+---
+
+## Guam governor offers to 'lead the way' in managing climate change funds for the Pacific island region
+
+date: 2025-03-21, from: Pacific Island Times
+
+Claiming Guam had a good track record in managing federal funds, Gov. Lou Leon-Guerrero said the territory could play a bigger role in easin 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-governor-offers-to-lead-the-way-in-managing-climate-change-funds-for-the-pacific-island-regio>
+
+---
+
+## Public health scholars earn national fellowship for advancing community health
+
+date: 2025-03-20, from: University of Hawaiʻi News
+
+<p>Jena Funakoshi and  Carrie Soo Hoo were selected for the American Public Health Association fellowship.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/20/public-health-apha-fellows/">Public health scholars earn national fellowship for advancing community health</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/20/public-health-apha-fellows/>
+
+---
+
+## UH hosts two key events on rights, speech and empowerment
+
+date: 2025-03-20, from: University of Hawaiʻi News
+
+<p>The two events will focus on rights, speech, and building a more informed community.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/20/immigration-student-rights-events/"><abbr>UH</abbr> hosts two key events on rights, speech and empowerment</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/20/immigration-student-rights-events/>
+
+---
+
+## President Hensel provides updates on federal policy, upholds UH’s values
+
+date: 2025-03-20, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> President Wendy Hensel provided an update on the most recent federal policy changes, and outlined how <abbr>UH</abbr> is responding, at the March 20 Board of Regents monthly meeting.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/20/presidents-march-2025-report/">President Hensel provides updates on federal policy, upholds <abbr>UH</abbr>’s values</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/20/presidents-march-2025-report/>
+
+---
+
+## Shark nursery habitat research earns PhD candidate top international award
+
+date: 2025-03-20, from: University of Hawaiʻi News
+
+<p>The 2nd Australian and New Zealand Environmental <abbr>DNA</abbr> Conference was held in Wellington, New Zealand.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/20/best-early-career-researcher-talk/">Shark nursery habitat research earns <abbr>PhD</abbr> candidate top international award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/20/best-early-career-researcher-talk/>
+
+---
+
+## RMI a target for US waste
+
+date: 2025-03-20, from: Marshal Islands Journal
+
+<p>Journal 3/26/1982 P1 Old Gateway Hotel coming downThe old Eastern Gateway Hotel structure is going to be torn down this week one wing at a time, according to Gateway/Nauru Local Government Council Majuro Manager John Bill. Now there are only 30 rooms available for rent at the hotel’s cottages, motel and trailers. P7 High rate [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/rmi-a-target-for-us-waste/">RMI a target for US waste</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/rmi-a-target-for-us-waste/>
+
+---
+
+## Bluesology
+
+date: 2025-03-20, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Loukia Borrell When my brother was getting cancer treatment, he’d drive to his townhouse after the appointments, get sick and spend the rest of the night on his sofa, curled up and shivering. It was always the same. Get &#8230; <a href="https://hawaiipacificreview.org/2025/03/20/bluesology/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/03/20/bluesology/>
+
+---
+
+## Namdrik race moves along
+
+date: 2025-03-20, from: Marshal Islands Journal
+
+<p>HILARY HOSIA The race to determine the next mayor for Namdrik Atoll is formally underway following an official draw at the Ministry of Culture and Internal Affairs Tuesday. The Namdrik Special Election for the mayor seat is scheduled to take place on April 25 this year, timed to coincide with the vote on long-pending proposed [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/namdrik-race-moves-along/">Namdrik race moves along</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/namdrik-race-moves-along/>
 
 ---
 
@@ -1109,7 +1683,7 @@ date: 2025-03-18, from: Pacific Island Times
 
 date: 2025-03-18, from: Island Times
 
-<figure><img width="600" height="720" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=600%2C720&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?resize=250%2C300&amp;ssl=1 250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?resize=400%2C480&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=600%2C720&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="58039" data-permalink="https://islandtimes.org/letter-to-minister-jenkins/dale-jenkins-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=600%2C720&amp;ssl=1" data-orig-size="600,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Dale-Jenkins" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=250%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=600%2C720&amp;ssl=1" /></figure>
+<figure><img width="600" height="720" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=600%2C720&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?resize=250%2C300&amp;ssl=1 250w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?resize=400%2C480&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=600%2C720&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="58039" data-permalink="https://islandtimes.org/letter-to-minister-jenkins/dale-jenkins-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=600%2C720&amp;ssl=1" data-orig-size="600,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Dale-Jenkins" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=250%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2022/09/Dale-Jenkins.jpg?fit=600%2C720&amp;ssl=1" /></figure>
 <p>By: Eoghan Olkeriil Ngirudelsang NGERULMUD, Palau – The Palau Senate on Thursday voted to reject the reappointment of Dr. Dale Jenkins as Minister of Education. Seven senators opposed the nomination, while six voted in favor during the Senate’s Second Day of the First Special Session. A minimum of 10 votes is required to confirm a [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/senate-vote-blocks-education-ministers-return-citing-policy-and-staffing-issues/">Senate vote blocks Education Minister’s Return, citing Policy and Staffing Issues</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
  

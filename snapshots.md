@@ -1,11 +1,450 @@
 ---
 title: snapshots
-updated: 2025-03-20 06:09:03
+updated: 2025-03-21 06:07:52
 ---
 
 # snapshots
 
-(date: 2025-03-20 06:09:03)
+(date: 2025-03-21 06:07:52)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+I don&#39;t think we should use the term “social web” until there actually is such a thing, 
+
+<br> 
+
+<https://bsky.app/profile/scripting.com/post/3lktoxrxmok2v>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+Universities are caving to Trump with a stunning speed and scope. 
+
+<br> 
+
+<https://www.politico.com/news/2025/03/20/universities-cave-conservatives-trump-00241765>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+Steven Miller is the perfect Batman villain from Central Casting. An American Jew playing the role of a Nazi Sturmbannführer wannabe. 
+
+<br> 
+
+<https://bsky.app/profile/nikkimcr.bsky.social/post/3lktiphvu722d>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+How a Quiet Diner in the Catskills Became a Star of Severance. 
+
+<br> 
+
+<https://theoverlooknews.com/how-a-quiet-diner-in-the-catskills-became-a-star-of-severance/>
+
+---
+
+## Liberty or Death: Patrick Henry’s Bold Proclamation
+
+date: 2025-03-21, from: National Archives, Pieces of History blog
+
+In celebration of the upcoming 250th anniversary of the Declaration of Independence, we’re focusing on key events in the history of our nation&#8217;s independence.&#160;This edition provides deeper insight into Patrick Henry and his famous proclamation: “Give Me Liberty or Give Me Death.” Today&#8217;s post comes from Tracy Baker, an intern in the National Archives Office &#8230; <a href="https://prologue.blogs.archives.gov/2025/03/21/liberty-or-death-patrick-henrys-bold-proclamation/" class="more-link">Continue reading <span class="screen-reader-text">Liberty or Death: Patrick Henry’s Bold Proclamation </span></a> 
+
+<br> 
+
+<https://prologue.blogs.archives.gov/2025/03/21/liberty-or-death-patrick-henrys-bold-proclamation/>
+
+---
+
+## Is the Sleeping Giant Awakening?
+
+date: 2025-03-21, from: Paul Krugman
+
+Europe is a superpower, if it wants to be 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/is-the-sleeping-giant-awakening>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+‘Severance’ Finale was everything we could have hoped for. Bravo! 👏🏽 
+
+<br> 
+
+<https://www.vulture.com/article/severance-finale-recap-season-2-episode-10-cold-harbor.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+Heathrow Airport closes all day over power outage. 
+
+<br> 
+
+<https://www.bbc.com/news/articles/cvg5dg4p2l0o>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+Tesla confirms it can&#39;t sell the Cybertruck even with tax credit and discounts. 
+
+<br> 
+
+<https://electrek.co/2025/03/20/tesla-confirms-it-cant-sell-the-cybertruck-even-with-tax-credit-and-discounts/>
+
+---
+
+## 289: All The Birds Returned
+
+date: 2025-03-21, from: Fix the News
+
+"The villagers’ lives will become more prosperous too." Plus, young Americans are happier, great news on HIV prevention drug, the world's longest underwater tunnel, sociogenomics, and Donald Trump versus market forces. 
+
+<br> 
+
+<https://fixthenews.com/289-all-the-birds-returned/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+Elon Musk and China: Could Tesla’s bottom line influence Trump’s foreign policy? 
+
+<br> 
+
+<https://www.vox.com/world-politics/404621/elon-musk-china-tesla-trump>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+It&#39;s remarkable how some of the rich of Silicon Valley want to do to the world what they did to the web! If you extrapolate, we&#39;ll go from a world with great potential, to a lot of grunting and snorting and not much else. 
+
+<br> 
+
+<https://shownotes.scripting.com/scripting/2025/03/20/weStillNeedUniversities.html>
+
+---
+
+## Meta pirated at least 101 of my books and articles, and tens of millions of others
+
+date: 2025-03-20, from: Gary Marcus blog
+
+And they knew perfectly well what they were doing 
+
+<br> 
+
+<https://garymarcus.substack.com/p/meta-pirated-at-least-101-of-my-books>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-20, from: Feed for Alt USDS)
+
+🚨 A rogue mail server. No security clearance. A direct line into gov networks. 🚨
+DOGE’s reckless IT decisions are an insider threat of historic proportions. Your data, your privacy, and national security are at risk.
+
+Read more 🔗 https://www.wethebuilders.org/posts/biggest-insider-threat
+
+#InsiderThreat #ProtectOurData 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lktpecw2wn2v>
+
+---
+
+## New audio models from OpenAI, but how much can we rely on them?
+
+date: 2025-03-20, updated: 2025-03-20, from: Simon Willison’s Weblog
+
+<p>OpenAI announced <a href="https://openai.com/index/introducing-our-next-generation-audio-models/">several new audio-related API features</a> today, for both text-to-speech and speech-to-text. They're very promising new models, but they appear to suffer from the ever-present risk of accidental (or malicious) instruction following.</p>
+
+<h4 id="gpt-4o-mini-tts">gpt-4o-mini-tts</h4>
+
+<p><code>gpt-4o-mini-tts</code> is a brand new text-to-speech model with "better steerability". OpenAI released a delightful new playground interface for this at <a href="https://www.openai.fm/">OpenAI.fm</a> - you can pick from 11 base voices, apply instructions like "High-energy, eccentric, and slightly unhinged" and get it to read out a script (with optional extra stage directions in parenthesis). It can then provide the equivalent API code in Python, JavaScript or curl. You can share links to your experiments, <a href="https://www.openai.fm/#fa1e8762-ccf9-4f08-a468-7cc51632d0ed">here's an example</a>.</p>
+<p><img src="https://static.simonwillison.net/static/2025/openai-fm.jpg" alt="User interface showing voice and script options. Voice options include Alloy, Ash, Ballad, Coral (selected), Echo, Fable, Onyx, Nova, Sage, Shimmer, Verse, and a shuffle button. Vibe section shows Dramatic (selected), Cheerleader, Calm, Professional, True Crime Buff, and a refresh button. Instructions read Voice Affect: Low, hushed, and suspenseful; convey tension and intrigue. Tone: Deeply serious and mysterious, maintaining an undercurrent of unease throughout. Pacing: Fast paced, deliberate, pausing slightly after suspenseful moments to heighten drama. Emotion: Restrained yet intense—voice should subtly tremble or tighten at key suspenseful points. Emphasis: Highlight sensory descriptions (&quot;footsteps echoed,&quot; &quot;heart hammering,&quot; &quot;shadows melting into darkness&quot;) to amplify atmosphere. Pronunciation: Slightly elongated vowels and softened consonants for an eerie, haunting effect. Pauses: Insert meaningful pauses after phrases like &quot;only shadows melting into darkness,&quot; and especially before the final line, to enhance suspense dramatically. The script says: The night was thick with fog, wrapping the town in mist. Detective Evelyn Harper pulled her coat tighter, feeling the chill creep down her spine. She knew the town's buried secrets were rising again. (Whisper this bit:) Footsteps echoed behind her, slow and deliberate. She turned, heart racing but saw only shadows. (Now sound panicked) Evelyn steadied her breath—tonight felt different. Tonight, the danger felt personal. Somewhere nearby, hidden eyes watched her every move. Waiting. Planning. Knowing her next step. This was just the beginning.. Bottom shows DOWNLOAD, SHARE, and PLAY buttons." style="max-width: 100%;" /></p>
+
+<p>Note how part of my script there looks like this:</p>
+
+<blockquote><p>(Whisper this bit:)</p>
+
+<p>Footsteps echoed behind her, slow and deliberate. She turned, heart racing, but saw only shadows.</p></blockquote>
+
+<p>While fun and convenient, the fact that you can insert stage directions in the script itself feels like an anti-pattern to me - it means you can't safely use this for arbitrary text because there's a risk that some of that text may accidentally be treated as further instructions to the model.</p>
+
+<p>In my own experiments I've already seen this happen: sometimes the model follows my "Whisper this bit" instruction correctly, other times it says the word "Whisper" out loud but doesn't speak the words "this bit". The results appear non-deterministic, and might also vary with different base voices.</p>
+
+<p><code>gpt-4o-mini-tts</code> <a href="https://platform.openai.com/docs/pricing#transcription-and-speech-generation">costs</a> $0.60/million tokens, which OpenAI estimate as around 1.5 cents per minute.</p>
+
+<h4 id="gpt-4o-transcribe">gpt-4o-transcribe and gpt-4o-mini-transcribe</h4>
+
+<p><code>gpt-4o-transcribe</code> and <code>gpt-4o-mini-transcribe</code> are two new speech-to-text models, serving a similar purpose to <a href="https://github.com/openai/whisper">whisper</a> but built on top of GPT-4o and setting a "new state-of-the-art benchmark". These can be used via OpenAI's <a href="https://platform.openai.com/docs/guides/speech-to-text">v1/audio/transcriptions API</a>, as alternative options to `whisper-1. The API is still restricted to a 25MB audio file (MP3, WAV or several other formats).</p>
+<p>Any time an LLM-based model is used for audio transcription (or OCR) I worry about accidental instruction following - is there a risk that content that looks like an instruction in the spoken or scanned text might not be included in the resulting transcript?</p>
+<p>In <a href="https://news.ycombinator.com/item?id=43426022#43427525">a comment on Hacker News</a> OpenAI's Jeff Harris said this, regarding how these new models differ from <a href="https://platform.openai.com/docs/models/gpt-4o-audio-preview">gpt-4o-audio-preview</a>:</p>
+<blockquote>
+<p>It's a slightly better model for TTS. With extra training focusing on reading the script exactly as written.</p>
+<p>e.g. the audio-preview model when given instruction to speak "What is the capital of Italy" would often speak "Rome". This model should be much better in that regard</p>
+</blockquote>
+<p>"much better in that regard" sounds to me like there's still a risk of this occurring, so for some sensitive applications it may make sense to stick with whisper or other traditional text-to-speech approaches.</p>
+
+<p>On Twitter <a href="https://twitter.com/jeffintime/status/1902822589300609400">Jeff added</a>:</p>
+
+<blockquote><p>yep fidelity to transcript is the big chunk of work to turn an audio model into TTS model. still possible, but should be quite rare</p></blockquote>
+
+<p><code>gpt-4o-transcribe</code> is an estimated 0.6 cents per minute, and <code>gpt-4o-mini-transcribe</code> is 0.3 cents per minute.</p>
+
+<h4 id="cardinal-sin">Mixing data and instructions remains the cardinal sin of LLMs</h4>
+
+<p>If these problems look familiar to you that's because they are variants of the root cause behind <a href="https://simonwillison.net/tags/prompt-injection/">prompt injection</a>. LLM architectures encourage mixing instructions and data in the same stream of tokens, but that means there are always risks that tokens from data (which often comes from untrusted sources) may be misinterpreted as instructions to the model.</p>
+
+<p>How much of an impact this has on the utility of these new models remains to be seen. Maybe the new training is so robust that these issues won't actually cause problems for real-world applications?</p>
+
+<p>I remain skeptical. I expect we'll see demos of these flaws in action in relatively short order.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/audio">audio</a>, <a href="https://simonwillison.net/tags/text-to-speech">text-to-speech</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/whisper">whisper</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/multi-modal-output">multi-modal-output</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/20/new-openai-audio-models/#atom-everything>
+
+---
+
+## Claude can now search the web
+
+date: 2025-03-20, updated: 2025-03-20, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/news/web-search">Claude can now search the web</a></strong></p>
+Claude 3.7 Sonnet on the paid plan now has a web search tool that can be turned on as a global setting.</p>
+<p>This was sorely needed. ChatGPT, Gemini and Grok all had this ability already, and despite Anthropic's excellent model quality it was one of the big remaining reasons to keep other models in daily rotation.</p>
+<p>For the moment this is purely a product feature - it's available through their consumer applications but there's no indication of whether or not it will be coming to the Anthropic API. OpenAI launched the latest version of web search in their API <a href="https://openai.com/index/new-tools-for-building-agents/">last week</a>.</p>
+<p>Surprisingly there are no details on how it works under the hood. Is this a partnership with someone like Bing, or is it Anthropic's own proprietary index populated by their own crawlers?</p>
+<p>I think it may be their own infrastructure, but I've been unable to confirm that.</p>
+<p>Their support site offers some inconclusive hints.</p>
+<p><a href="https://support.anthropic.com/en/articles/10023637-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler">Does Anthropic crawl data from the web, and how can site owners block the crawler?</a> talks about their ClaudeBot crawler but the language indicates it's used for training data, with no mention of a web search index.</p>
+<p><a href="https://support.anthropic.com/en/articles/10684638-blocking-and-removing-content-from-claude">Blocking and Removing Content from Claude</a> looks a little more relevant, and has a heading "Blocking or removing websites from Claude web search" which includes this eyebrow-raising tip:</p>
+<blockquote>
+<p>Removing content from your site is the best way to ensure that it won't appear in Claude outputs when Claude searches the web.</p>
+</blockquote>
+<p>And then this bit, which <em>does</em> mention "our partners":</p>
+<blockquote>
+<p>The noindex robots meta tag is a rule that tells our partners not to index your content so that they don’t send it to us in response to your web search query. Your content can still be linked to and visited through other web pages, or directly visited by users with a link, but the content will not appear in Claude outputs that use web search.</p>
+</blockquote>
+<p>Both of those documents were last updated "over a week ago", so it's not clear to me if they reflect the new state of the world given today's feature launch or not.</p>
+<p>I got this delightful response trying out Claude search where it mistook my recent <a href="https://simonwillison.net/2025/Mar/4/squadron/">Squadron automata</a> for a software project:</p>
+<p><img alt="Claude screenshot. My prompt: What is the most recent piece of software that Simon Willison has released? Claude response: I believe Simon Willison has released several recent software projects, but my training cutoff means I might not have the latest information. Let me search for his most recent releases to give you an accurate answer.  Search box: Simon Willison latest software release 2025. Based on my search, Simon Willison's most recent software release appears to be &quot;Squadron,&quot; which he mentioned in a blog post from March 4, 2025, titled &quot;I built an automaton called Squadron&quot; according to his GitHub profile. He's also been actively maintaining and updating several projects in March 2025, with very recent releases including: e llm-command-r 0.3 (released March 13, 2025)" src="https://static.simonwillison.net/static/2025/claude-search.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/20/claude-can-now-search-the-web/#atom-everything>
+
+---
+
+## LincPlus LincStation N2 Review: A compact NAS with 10 GbE LAN, four M.2 slots and support for two 2.5 inch drives
+
+date: 2025-03-20, from: Liliputing
+
+<p>The LincPlus LincStation N2 is a network-attached storage device with a compact design, an Intel N100 Alder Lake-N processor, and support for up to six storage devices thanks to four M.2 2280 slots for PCIe NVMe SSDs and two bays for 2.5 inch drives. LincPlus recently launched a Kickstarter crowdfunding campaign for the LincStation N2, along with [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lincplus-lincstation-n2-review-a-compact-nas-with-10-gbe-lan-four-m-2-slots-and-support-for-two-2-5-inch-drives/">LincPlus LincStation N2 Review: A compact NAS with 10 GbE LAN, four M.2 slots and support for two 2.5 inch drives</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lincplus-lincstation-n2-review-a-compact-nas-with-10-gbe-lan-four-m-2-slots-and-support-for-two-2-5-inch-drives/>
+
+---
+
+## 2 Fasten, 2 Furious: Oh, Snap
+
+date: 2025-03-20, updated: 2025-03-20, from: Tedium site
+
+It turns out that the history of the snap fastener is actually surprisingly relevant to the political moment that we’re currently in. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16988541/snap-fasteners-tariffs-history>
+
+---
+
+## How Three Alleged Tesla Vandals Got Caught
+
+date: 2025-03-20, from: 404 Media Group
+
+Automatic license plate readers, Instagram captions, and fingerprints. 
+
+<br> 
+
+<https://www.404media.co/how-three-alleged-tesla-vandals-got-caught/>
+
+---
+
+## XPPen Magic Note Pad is an Android-powered “Color Note Pad” with a black & white “ink” mode
+
+date: 2025-03-20, from: Liliputing
+
+<p>XPPen is probably best known for making drawing tablets that artists can use as input devices for computers. But the company has begun branching out into standalone tablets like the Magic Drawing Pad Android tablet with a 12.2 inch display and the new Magic Note Pad with a 10.95 inch display and a few interesting tricks up [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/xppen-magic-note-pad-is-an-android-powered-color-note-pad-with-a-black-white-ink-mode/">XPPen Magic Note Pad is an Android-powered &#8220;Color Note Pad&#8221; with a black &#038; white &#8220;ink&#8221; mode</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/xppen-magic-note-pad-is-an-android-powered-color-note-pad-with-a-black-white-ink-mode/>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-03-20, from: IIIF Mastodon feed)
+
+<p>🎉 We&#39;re delighted to welcome Systemik Solutions as a new member of the Consortium!</p><p>Read more about Systemik, and their products, Glycerine Viewer &amp; Workbench on our website: <a href="https://iiif.io/news/2025/03/19/Systemik/" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="ellipsis">iiif.io/news/2025/03/19/System</span><span class="invisible">ik/</span></a></p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114195878690446587>
+
+---
+
+## The Modern Data Stack: A Scalable Future with Distributed Computing
+
+date: 2025-03-20, from: Bacalhau Blog
+
+(4:03) Navigating the Challenges of the Modern Data Stack 
+
+<br> 
+
+<https://blog.bacalhau.org/p/the-modern-data-stack-a-scalable>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-20, from: Dave Winer's linkblog)
+
+Immigration agents arrested a U.S. citizen and created warrants after an arrest, lawyers say in court. 
+
+<br> 
+
+<https://chicago.suntimes.com/immigration/2025/03/14/us-citizen-arrested-berwyn-ice-chicago-attorneys>
+
+---
+
+## Quoting Peter Bhat Harkins
+
+date: 2025-03-20, updated: 2025-03-20, from: Simon Willison’s Weblog
+
+<blockquote cite="https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with#c_xevn8a"><p>I’ve disabled the pending geoblock of the UK because I now think the risks of the Online Safety Act to this site are low enough to change strategies to only geoblock if directly threatened by the regulator. [...]</p>
+<p>It is not possible for a hobby site to comply with the Online Safety Act. The OSA is written to censor huge commercial sites with professional legal teams, and even understanding one's obligations under the regulations is an enormous project requiring expensive legal advice.</p>
+<p>The law is <a href="https://www.legislation.gov.uk/ukpga/2023/50/data.pdf">250 pages</a> and the mandatory "guidance" from Ofcom is more than 3,000 pages of dense, cross-referenced UK-flavoured legalese. To find all the guidance you'll have to <a href="https://www.ofcom.org.uk/information-for-industry/?SelectedTopic=67866">start here</a>, click through to each of the 36 pages listed, and expand each page's collapsible sections that might have links to other pages and documents. (Though I can't be sure that leads to all their guidance, and note you'll have to check back regularly <a href="https://www.ofcom.org.uk/siteassets/resources/documents/online-safety/information-for-industry/illegal-harms/overview.pdf?v=387529#page=4">for planned updates</a>.)</p></blockquote>
+<p class="cite">&mdash; <a href="https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with#c_xevn8a">Peter Bhat Harkins</a>, site administrator, lobste.rs</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/politics">politics</a>, <a href="https://simonwillison.net/tags/uk">uk</a>, <a href="https://simonwillison.net/tags/moderation">moderation</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/20/peter-bhat-harkins/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-20, from: Dave Winer's linkblog)
+
+DOT must not give Tesla or other automakers a free pass, advocates say. 
+
+<br> 
+
+<https://arstechnica.com/cars/2025/03/dot-must-not-give-tesla-or-other-automakers-a-free-pass-advocates-say/>
+
+---
+
+## Reading more blogs; Emacs Lisp: Listing blogs based on an OPML file :: Sacha Chua
+
+date: 2025-03-20, from: Dave Winer's linkblog
+
+Sacha Chua has a list of old school bloggers in every conceivable format. 
+
+<br> 
+
+<https://sachachua.com/blog/2025/03/reading-more-blogs-emacs-lisp-listing-blogs-based-on-an-opml-file/>
+
+---
+
+## Faces from a Vanished Ship: The Life and Afterlife of the S.S. Muskogee
+
+date: 2025-03-20, from: National Archives, Text Message blog
+
+Today’s post was written by Katherine Terry, Archives Technician at the National Archives at St. Louis. The Sinking of the Muskogee The S.S. Muskogee was a merchant tanker built in 1913 by the Sun Shipbuilding Company in Chester, Pennsylvania. It was originally constructed as an oil tanker and operated by the Pure Oil Company to &#8230; <a href="https://text-message.blogs.archives.gov/2025/03/20/faces-from-a-vanished-ship-the-life-and-afterlife-of-the-s-s-muskogee/" class="more-link">Continue reading <span class="screen-reader-text">Faces from a Vanished Ship: The Life and Afterlife of the S.S. Muskogee</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/03/20/faces-from-a-vanished-ship-the-life-and-afterlife-of-the-s-s-muskogee/>
+
+---
+
+## Democracy's Fragile Guardrails
+
+date: 2025-03-20, from: Guy Kawasaki blog
+
+Philip Klinkner on America's Constitutional Crisis. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/democracys-fragile-guardrails>
+
+---
+
+## Huawei Pura X is foldable phone that’s part flip-phone, part tablet
+
+date: 2025-03-20, from: Liliputing
+
+<p>Most smartphones with foldable displays fall into one of two categories: flip phones that fold in half to take up less space in your pocket or phones with small tablet-sized screens that fold to look more like a typical smartphone. The Huawei Pura X is a new phone that takes a little from column A [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/huawai-pura-x-is-foldable-phone-thats-part-flip-phone-part-tablet/">Huawei Pura X is foldable phone that&#8217;s part flip-phone, part tablet</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/phones/pura-x/video/kv-popup.mp4"></source>
+</video> <a href="https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/phones/pura-x/video/kv-popup.mp4" target="_blank">download video/mp4</a> 
+
+<https://liliputing.com/huawai-pura-x-is-foldable-phone-thats-part-flip-phone-part-tablet/>
+
+---
+
+## Anchor Pad
+
+date: 2025-03-20, from: Computer ads from the Past
+
+Two experts want your computer. Which one will get to it first? 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/anchor-pad>
+
+---
+
+## Notification Summary Miscues
+
+date: 2025-03-20, updated: 2025-03-20, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/20/erroneous-notification-summaries/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-20, from: Dave Winer's linkblog)
+
+Jeff Nichols on The Writer&#39;s Web. 
+
+<br> 
+
+<https://jeffcnichols.net/2025/03/20/the-writers-web-aka-blogging/>
 
 ---
 
@@ -13,7 +452,7 @@ updated: 2025-03-20 06:09:03
 
 date: 2025-03-20, from: Authors Union blogs
 
-Authors Alliance and SPARC have released the first of four planned white papers addressing legal issues surrounding open access to scholarly publications under the 2022 OSTP memo (the “Nelson Memo”). The white papers are part of a larger project (described here) to support legal pathways to open access. This first paper discussed the “Federal Purpose [&#8230;] 
+Authors Alliance and SPARC have released the second of four planned white papers addressing legal issues surrounding open access to scholarly publications under the 2022 OSTP memo (the “Nelson Memo”). The white papers are part of a larger project (described here) to support legal pathways to open access. This first paper discussed the “Federal Purpose [&#8230;] 
 
 <br> 
 
@@ -60,6 +499,18 @@ Thejesh Is shutting down his Mastodon instance.
 <br> 
 
 <https://thejeshgn.com/2025/03/20/shutting-down-my-mastodon-instance/>
+
+---
+
+## FOSS infrastructure is under attack by AI companies
+
+date: 2025-03-20, from: Libre News
+
+LLM scrapers are taking down FOSS projects' infrastructure, and it's getting worse. 
+
+<br> 
+
+<https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/>
 
 ---
 
@@ -556,6 +1007,18 @@ The sites an ICE contractor is pulling data from; why top scientists are conside
 
 ---
 
+## Asahi Lina pauses Apple GPU development, gets doxxed
+
+date: 2025-03-19, from: Libre News
+
+<div class="kg-card kg-callout-card kg-callout-card-red"><div class="kg-callout-emoji">&#x26A0;&#xFE0F;</div><div class="kg-callout-text">This article mentions sensitive topics such as suicide and harassment.</div></div><p>Asahi Lina, who was working on Apple GPU drivers, has decided to take a break from Asahi Linux development.</p><p>She did so through a Bluesky post; she said:</p><blockquote>For personal reasons, I no longer feel safe working on</blockquote> 
+
+<br> 
+
+<https://thelibre.news/asahi-lina-pauses-apple-gpu-development-gets-doxxed/>
+
+---
+
 **@Dave Winer's linkblog** (date: 2025-03-19, from: Dave Winer's linkblog)
 
 Judging by what’s in the press I’d say there’s a journalist movement to remove Schumer, as they did with Biden. They aren’t reporting his theory of why he voted as he did. Heard him last night on msnbc and it made sense. At least they let him speak. 
@@ -653,8 +1116,8 @@ date: 2025-03-19, from: Transiting Los Angeles
 Have you heard that L.A. used to have "the best public transportation system in the world"? Or that it was destroyed as part of a conspiracy? Well, let's set the record straight. In this episode, John explains the real reasons why our streetcars were torn up. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast.mp3"></source>
-</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast-1.mp3"></source>
+</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast-1.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://transitinglosangeles.com/2025/03/18/the-transiting-los-angeles-podcast-11-what-happened-to-the-streetcars/>
 
@@ -1031,6 +1494,18 @@ Farewell Photoshop? Google’s new AI lets you edit images by asking.
 
 ---
 
+## Why I recommend against Bluesky
+
+date: 2025-03-18, from: Libre News
+
+Have you ever heard of the term federation-washing? 
+
+<br> 
+
+<https://thelibre.news/why-i-recommend-against-bluesky/>
+
+---
+
 ## Noor & Mahmoud: Young Hearts Be Free Tonight, Time is on Your Side
 
 date: 2025-03-18, from: Michael Moore's blog
@@ -1369,7 +1844,11 @@ date: 2025-03-17, updated: 2025-03-17, from: Simon Willison’s Weblog
 Mistral Small 3 <a href="https://simonwillison.net/2025/Jan/30/mistral-small-3/">came out in January</a> and was a notable, genuinely excellent local model that used an Apache 2.0 license.</p>
 <p>Mistral Small 3.1 offers a significant improvement: it's multi-modal (images) and has an increased 128,000 token context length, while still "fitting within a single RTX 4090 or a 32GB RAM MacBook once quantized" (according to their <a href="https://huggingface.co/mistralai/Mistral-Small-3.1-24B-Instruct-2503">model card</a>). Mistral's own benchmarks show it outperforming Gemma 3 and GPT-4o Mini, but I haven't seen confirmation from external benchmarks.</p>
 <p>Despite their mention of a 32GB MacBook I haven't actually seen any quantized GGUF or MLX releases yet, which is a little surprising since they partnered with Ollama on launch day for their previous Mistral Small 3. I expect we'll see various quantized models released by the community shortly.</p>
-<p>The model <em>is</em> available via their <a href="https://docs.mistral.ai/api/">La Plateforme API</a>, which means you can access it via my <a href="https://github.com/simonw/llm-mistral">llm-mistral</a> plugin.</p>
+<p><strong>Update</strong> 20th March 2025: I've now run the text version on my laptop using <a href="https://huggingface.co/mlx-community/Mistral-Small-3.1-Text-24B-Instruct-2503-8bit">mlx-community/Mistral-Small-3.1-Text-24B-Instruct-2503-8bit</a> and <a href="https://github.com/simonw/llm-mlx">llm-mlx</a>:</p>
+<pre><code>llm mlx download-model mlx-community/Mistral-Small-3.1-Text-24B-Instruct-2503-8bit -a mistral-small-3.1
+llm chat -m mistral-small-3.1
+</code></pre>
+<p>The model can be accessed via Mistral's <a href="https://docs.mistral.ai/api/">La Plateforme API</a>, which means you can use it via my <a href="https://github.com/simonw/llm-mistral">llm-mistral</a> plugin.</p>
 <p>Here's the model describing <a href="https://static.simonwillison.net/static/2025/two-pelicans.jpg">my photo of two pelicans in flight</a>:</p>
 <pre><code>llm install llm-mistral
 # Run this if you have previously installed the plugin:

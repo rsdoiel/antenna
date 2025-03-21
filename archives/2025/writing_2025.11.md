@@ -1,11 +1,160 @@
 ---
 title: writing
-updated: 2025-03-20 06:08:58
+updated: 2025-03-21 06:07:46
 ---
 
 # writing
 
-(date: 2025-03-20 06:08:58)
+(date: 2025-03-21 06:07:46)
+
+---
+
+## It’s Not Cheating If It’s With Your Clone: Josh Pearce and Arley Sorg Discuss Mickey 17
+
+date: 2025-03-20, from: Locus Magazine
+
+<p>Capitalism, in fiction and in real life, depends on expendable (that is, cheap) labor. Slaves, serfs, indentured servants, children, undocumented migrants, gig workers, (now science fiction and real life start to blur) robots, assembly-line automation, &#8220;AI.&#8221; <strong>Mickey 17 </strong>extends logically next to clones, which are worked literally to death and then simply reprinted in fresh bodies for their next job.</p>
+<p>Mickey Barnes (Robert Pattinson) signs on to a colony ship  <a href="https://locusmag.com/2025/03/its-not-cheating-if-its-with-your-clone-josh-pearce-and-arley-sorg-discuss-mickey-17/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/its-not-cheating-if-its-with-your-clone-josh-pearce-and-arley-sorg-discuss-mickey-17/>
+
+---
+
+## 2025 International Dylan Thomas Prize Shortlist
+
+date: 2025-03-20, from: Locus Magazine
+
+<p> The shortlist for the 2025 International Dylan Thomas Prize has been announced. The six-title list includes <strong>Rapture&#8217;s Road</strong> by Seán Hewitt (Jonathan Cape) and <strong>Glorious Exploits</strong> by Ferdia Lennon (Fig Tree).</p>
+<div class="mynomorebulletlist">
+<div class="mynomorebulletlist">
+<p>The annual Dylan Thomas prize, in partnership with Swansea University, awards £20,000 &#8220;to the best eligible published literary work in the English language, written by an author aged 39 or under.&#8221; This year&#8217;s judges are Jan Carson, Mary Jean </p></div></div> <a href="https://locusmag.com/2025/03/2025-international-dylan-thomas-prize-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/2025-international-dylan-thomas-prize-shortlist/>
+
+---
+
+## New Books Video for the Week of 3/18/2025!
+
+date: 2025-03-20, from: Locus Magazine
+
+<p>Welcome back for another week of our picks for the top new releases in the SF, Fantasy, Horror, and YA fields! If you&#8217;re looking to keep up-to-date on super releases, and support what we do, come by our YouTube channel and subscribe! We post new videos videos weekly and we don&#8217;t want you to miss out!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/03/new-books-video-for-the-week-of-3-18-2025/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/new-books-video-for-the-week-of-3-18-2025/>
+
+---
+
+## How to Sell a Screenplay
+
+date: 2025-03-20, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-sell-a-screenplay" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/A%20man%20sits%20on%20the%20floor%20writing%20on%20his%20laptop%20as%20money%20rains%20down.png" alt="A man sits on the floor writing on his laptop as money rains down" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Selling a screenplay is the ultimate goal for every screenwriter. The general process itself seems simple enough to most at first glance. You write a screenplay. You get that screenplay into the hands of decision-makers in Hollywood. They buy your script and then attach a talented director, crew, and cast to make your cinematic story come to life. While that encompasses the general process of selling a screenplay overall, there’s a “little” more that goes into it than that. With that in mind, here we offer a closer look into the process of selling a screenplay.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-sell-a-screenplay>
+
+---
+
+## Benjamin Kramer: How Big Break Fueled His Success
+
+date: 2025-03-20, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/benjamin-kramer-how-big-break-fueled-his-success" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20Big%20Break%20Winner%20Benjamin%20Kramer%20smiling.png" alt="Image of Big Break Winner Benjamin Kramer smiling" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>The goal of Final Draft’s Big Break Screenwriting Contest has always been to boost the screenwriting career of winners and finalists. For writer Benjamin Kramer, winning the 2021 Big Break Action/Adventure category was just the push he needed to not only get great feedback on his script <em>Pulp in San Lorenzo</em>, but to sign with a management company that really values his work.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/benjamin-kramer-how-big-break-fueled-his-success>
+
+---
+
+## BSFA Awards 2024 Shortlist
+
+date: 2025-03-20, from: Locus Magazine
+
+<p>The shortlist for the 2024 British Science Fiction Association (BSFA) Awards has been announced.</p>
+<div class="mynomorebulletlist">
+<p><strong>Best Novel</strong></p>
+<ul>
+<li><strong>Calypso</strong>, Oliver K. Langmead (Titan)</li>
+<li><strong>Rabbit in the Moon</strong>, Fiona Moore (Epic)</li>
+<li><strong>Alien Clay</strong>, Adrian Tchaikovsky (Orbit)</li>
+<li><strong>Three Eight One</strong>, Aliya Whiteley (Solaris)</li>
+</ul>
+<p><strong>Best Shorter Fiction (for novelettes and novellas)
+</strong></p>
+<ul>
+<li><strong>Navigational Entanglements</strong>, Aliette de Bodard (Tordotcom)</li>
+<li>&#8220;What Happened at the Pony Club&#8221;, Fiona Moore (Fusion Fragment 8/24)</li>
+<li><strong>Saturation Point</strong></li></ul></div> <a href="https://locusmag.com/2025/03/bsfa-awards-2024-shortlist/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/bsfa-awards-2024-shortlist/>
+
+---
+
+## Locus Bestsellers, March
+
+date: 2025-03-20, from: Locus Magazine
+
+<div style="background-color: #dae1e8; padding: 14px 0px 0px 0px; text-align: center;">
+
+<strong>The Locus Bestsellers for September include top titles: Wind and Truth by Brandon Sanderson (Tor), The Way of Kings by Brandon Sanderson (Tor), </strong><strong>A Court of Thorns and Roses by Sarah J. Maas (Bloomsbury US), and The Book of Bill by Alex Hirsch (Hyperion Avenue)).</strong>
+
+</div>
+<p></p>
+<div class="postcontent">
+
+
+
+
+HARDCOVERS
+Months
+on list
+Last
+month
+
+
+1)
+<strong>Wind and Truth</strong>, Brandon Sanderson (Tor)
+1
+&#8211;
+
+
+2)
+<strong>The Wood at Midwinter</strong>, Susanna Clarke (Bloomsbury </div> <a href="https://locusmag.com/2025/03/locus-bestsellers-march-5/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/locus-bestsellers-march-5/>
+
+---
+
+## Death and Other Speculative Fictions by Caroline Hagood: Review by Jake Casella Brookins
+
+date: 2025-03-20, from: Locus Magazine
+
+<p><strong>Death and Other Speculative Fictions</strong>, Caroline Hagood (Spuyten Duvvil 9781963908503, $18.00, 116pp, tp) January 2025.</p>
+<p>Caroline Hagood’s <strong>Death and Other Speculative Fictions </strong>is an astonishing read, comforting and discomforting in equal measure. A philosophical, poetic meditation on the death of a parent, it’s a whirl of reflections on what fantastic stories can say about death, and vice versa. Don’t be dismayed by the fact that this doesn’t look like  <a href="https://locusmag.com/2025/03/death-and-other-speculative-fictions-by-caroline-hagood-review-by-jake-casella-brookins/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/death-and-other-speculative-fictions-by-caroline-hagood-review-by-jake-casella-brookins/>
 
 ---
 
@@ -13,7 +162,7 @@ updated: 2025-03-20 06:08:58
 
 date: 2025-03-20, from: Author's Union blog
 
-Authors Alliance and SPARC have released the first of four planned white papers addressing legal issues surrounding open access to scholarly publications under the 2022 OSTP memo (the “Nelson Memo”). The white papers are part of a larger project (described here) to support legal pathways to open access. This first paper discussed the “Federal Purpose [&#8230;] 
+Authors Alliance and SPARC have released the second of four planned white papers addressing legal issues surrounding open access to scholarly publications under the 2022 OSTP memo (the “Nelson Memo”). The white papers are part of a larger project (described here) to support legal pathways to open access. This first paper discussed the “Federal Purpose [&#8230;] 
 
 <br> 
 

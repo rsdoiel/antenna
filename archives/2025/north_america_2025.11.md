@@ -1,11 +1,312 @@
 ---
 title: north america
-updated: 2025-03-20 06:08:55
+updated: 2025-03-21 06:07:42
 ---
 
 # north america
 
-(date: 2025-03-20 06:08:55)
+(date: 2025-03-21 06:07:42)
+
+---
+
+## Undaunted
+
+date: 2025-03-21, from: The Contrarian
+
+Today, and every day, we honor our Veterans 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-dff>
+
+---
+
+##  Trump’s Tuesday Night Massacre (Transcript) 
+
+date: 2025-03-21, from: The Lever News
+
+ Following is an unedited, automated transcript of the podcast episode titled “Trump‘s Friday Night Massacre.”  
+
+<br> 
+
+<https://www.levernews.com/trumps-tuesday-night-massacre-transcript/>
+
+---
+
+## Evening Roundup, March 20
+
+date: 2025-03-20, from: The Contrarian
+
+Featuring Jen Rubin & Ruth Ben Ghiat; Dr. Zeke Emanuel; Ilan Goldenberg; Brian O'Neill; Julie Zebrak; and Carron J. Philips 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-20>
+
+---
+
+## With tariffs looming, businesses prepare for higher prices
+
+date: 2025-03-20, from: Market Place
+
+Some goods, like produce from Mexico and home appliances from China, could get more expensive soon. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/with-tariffs-looming-businesses-prepare-for-higher-prices/>
+
+---
+
+## Kids feel “trapped” and confused by social media’s microtrend machine
+
+date: 2025-03-20, from: Market Place
+
+Teens know social media and fast fashion work together to feed them trends, but find it hard to step away, says NYT writer Callie Holtermann. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/kids-feel-trapped-and-confused-by-social-medias-microtrend-machine/>
+
+---
+
+## Economists are betting on an AI productivity boom
+
+date: 2025-03-20, from: Market Place
+
+Will AI be more like the advent of electricity or smartphones for economic productivity? There's a lot riding on the question, including a bet by two economists. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/economists-are-betting-on-an-ai-productivity-boom/>
+
+---
+
+## We answer more of your questions about tariffs
+
+date: 2025-03-20, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Not totally sure how tariffs work, who pays for them and how they&#8217;re collected? Look no further. In today’s episode, Kai and Nova answer these questions and more. We’ll explain how tariffs are applied and what they&#8217;re based on, as well as what happens when a good crosses a border multiple times. Plus, what’s the point of a country retaliating with tariffs if its citizens have to pay for them? We’ll get into it.</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/02/02/business/economy/trump-tariffs-what-to-know.html" target="_blank" rel="noreferrer noopener">“Who Pays for Tariffs? Here’s What You Need to Know.”</a> by The New York Times<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://www.marketplace.org/2025/03/10/china-retaliatory-tariffs-agricultural-goods-farmers-tax-imports-exports/" target="_blank" rel="noreferrer noopener">“China&#8217;s retaliatory tariffs on agricultural goods will squeeze farmers”</a> from Marketplace</li>
+<li>Listen: <a href="https://otter.ai/s/6DVX-kQxQoWjPesGPeizSg?snpt=true" target="_blank" rel="noreferrer noopener">Audio snippet</a> on deals exporters and importers make to determine who will pay in the event of unexpected tariffs via OtterAi<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.nytimes.com/interactive/2025/business/economy/what-are-tariffs.html" target="_blank" rel="noreferrer noopener">“How Tariffs Work”</a> from The New York Times<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.reuters.com/business/autos-transportation/automakers-warn-that-trump-tariffs-will-hike-some-vehicle-prices-by-much-25-2025-03-04/" target="_blank" rel="noreferrer noopener">“Automakers warn that Trump tariffs will hike vehicle prices as much as 25%”</a> from Reuters<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.nytimes.com/2025/03/14/your-money/car-shopping-trump-tariffs-cfpb.html" target="_blank" rel="noreferrer noopener">“Buying a Car? Trump’s Tariffs Could Make It More Expensive.”</a> by The New York Times<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.nytimes.com/2025/03/20/world/europe/us-tariffs-eu-whiskey.html" target="_blank" rel="noreferrer noopener">“Europe Delays Tariffs on U.S. Whiskey to Make Time to Negotiate”</a> by The New York Times<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://apnews.com/article/donald-trump-wine-italy-france-spain-europe-tariffs-escalation-spat-74c133a51219c49ce8b807e978757cf7" target="_blank" rel="noreferrer noopener">“Trump&#8217;s 200% tariff threat would be &#8216;a real disaster&#8217; for Europe&#8217;s wine industry”</a> by AP News</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Join us tomorrow for “Economics on Tap.” The <a href="https://www.youtube.com/@marketplaceAPM/streams">YouTube livestream</a> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/20/mms_20250320_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwe-answer-more-of-your-questions-about-tariffs&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/20/mms_20250320_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwe-answer-more-of-your-questions-about-tariffs&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/we-answer-more-of-your-questions-about-tariffs>
+
+---
+
+## How’s the housing market doing? It depends where you are.
+
+date: 2025-03-20, from: Market Place
+
+The National Association of Realtors reported existing home sales for February that exceeded economists' expectations. But regional markets vary. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/housing-market-depends-where-you-are-local-real-estate-agent-homebuying/>
+
+---
+
+## Ruth Ben-Ghiat and Jen Rubin on the tactics of authoritarian regimes
+
+date: 2025-03-20, from: The Contrarian
+
+As the Trump-Musk regime attacks academic institutions, law firms, and &#8220;DEI&#8221; (whatever that means), Jen Rubin interviews Ruth Ben-Ghiat to help unravel the mechanisms of authoritarian regimes. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159510983/e4b6923fed1319e9f12a8c595777cf94.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159510983/e4b6923fed1319e9f12a8c595777cf94.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ruth-ben-ghiat-and-jen-rubin-on-the>
+
+---
+
+## Tariffs could strengthen the dollar, sap U.S. export power
+
+date: 2025-03-20, from: Market Place
+
+Once new levies take a bite out of imports, the currency's value is likely to grow, making American goods more expensive for foreign buyers. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/tariffs-dollar-value-imports-exports-trade-euro-tax-economic-growth/>
+
+---
+
+## Crude oil production in Alaska is expected to jump
+
+date: 2025-03-20, from: Market Place
+
+The U.S. Energy Information Administration says it could be the biggest jump in decades. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/crude-oil-production-in-alaska-is-expected-to-jump/>
+
+---
+
+## Teams visiting Trump as he dismantles the Education Dept. would truly be ‘March Madness’
+
+date: 2025-03-20, from: The Contrarian
+
+This week, the focus is on brackets and the ballots for a president whose policies are disrupting the schools these teams represent. 
+
+<br> 
+
+<https://contrarian.substack.com/p/teams-visiting-trump-as-he-dismantles>
+
+---
+
+## Finding Your Voice—and Using it 
+
+date: 2025-03-20, from: The Contrarian
+
+Leaving the Federal Government doesn't have to mean ceasing to be a public servant 
+
+<br> 
+
+<https://contrarian.substack.com/p/finding-your-voice-and-using-it>
+
+---
+
+##  How To Avoid Asbestos In Your Makeup 
+
+date: 2025-03-20, from: The Lever News
+
+ Many beauty products include talc, which has been shown to be contaminated with a dangerous toxin. Here’s how to avoid the risk.  
+
+<br> 
+
+<https://www.levernews.com/how-to-avoid-asbestos-in-your-makeup/>
+
+---
+
+##  Who Actually Owns Crypto? Almost Nobody. 
+
+date: 2025-03-20, from: The Lever News
+
+ As Trump prepares for a digital currency bailout, new data show just a tiny fraction of Americans own any of it.  
+
+<br> 
+
+<https://www.levernews.com/who-actually-owns-crypto/>
+
+---
+
+## The Gaza ceasefire is over. What’s next?
+
+date: 2025-03-20, from: The Contrarian
+
+Much will depend on Trump, who retains significant leverage over Israel's Netanyahu. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-gaza-ceasefire-is-over-whats>
+
+---
+
+## Trump’s broken-clock doctrine
+
+date: 2025-03-20, from: The Contrarian
+
+His enablers do not ask whether his foreign policy is effective; they work backward to justify it. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-broken-clock-doctrine>
+
+---
+
+## Breaking California’s Concrete Ceiling
+
+date: 2025-03-20, from: Capital and Main
+
+<p>Will Black women have to wait another century for wage equality?</p>
+<p>The post <a href="https://capitalandmain.com/breaking-californias-concrete-ceiling">Breaking California’s Concrete Ceiling</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/breaking-californias-concrete-ceiling>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-20, from: The Contrarian
+
+Thursday: Protests in Pennsylvania and Indiana, a reminder from Turkey, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Coffee with the Contrarians 3/20
+
+date: 2025-03-20, from: The Contrarian
+
+A recording from the 03/20 Coffee With The Contrarians LIVE 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159479582/87a2e9895730c3d8742c6226174fce21.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159479582/87a2e9895730c3d8742c6226174fce21.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-320>
+
+---
+
+## The cost of $880 billion in Medicaid cuts
+
+date: 2025-03-20, from: The Contrarian
+
+Half of all Americans have a family member or know someone who has received help from Medicaid. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-cost-of-880-billion-in-medicaid>
+
+---
+
+## There are signs consumers are losing their appetite for big grocery spending
+
+date: 2025-03-20, from: Market Place
+
+General Mills is the latest food company to lower its sales outlook for the year. Campbell's and Kraft Heinz have done it too.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/there-are-signs-consumers-are-losing-their-appetite-for-big-grocery-spending/>
+
+---
+
+## During unstable times for global trade, some seafood merchants turn to shelf-stable fish
+
+date: 2025-03-20, from: Market Place
+
+Thousands of wholesale seafood producers and buyers from around the world gathered in Boston for the North American Seafood Expo. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/20/seafood-expo-north-america-tariffs-global-trade-uncertainty/>
 
 ---
 
@@ -241,7 +542,7 @@ date: 2025-03-19, from: Capital and Main
 
 date: 2025-03-19, from: The Lever News
 
- Warren Buffett’s conglomerate profited off a makeup ingredient linked to cancer. Now its subsidiary is trying to create a legal precedent — and deny victims remuneration.  
+ Warren Buffett’s conglomerate owns a company that profited off a cancer-linked makeup ingredient. Now the firm aims to create a legal precedent — and deny victims remuneration.  
 
 <br> 
 
@@ -270,18 +571,6 @@ It is to our democracy&#8217;s peril if we lose sight of the ways comparable reg
 <br> 
 
 <https://contrarian.substack.com/p/trumps-attacks-on-our-core-freedoms>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-19, from: The Contrarian
-
-Wednesday: A billboard in Alabama, a protest at the White House, a protests at Tesla in Miami and Tucson, and more. Plus: Links to help you find where you can join a protest or attend a town hall. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -409,6 +698,37 @@ date: 2025-03-18, from: Market Place, Make me Smart
 </audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/18/mms_20250318_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fwhat-we-can-learn-from-a-past-tariff-tiff-rerun&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
 
 <https://www.marketplace.org/shows/make-me-smart/what-we-can-learn-from-a-past-tariff-tiff-rerun>
+
+---
+
+## What we can learn from a past tariff tiff (rerun)
+
+date: 2025-03-18, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p><em>Hey Smarties! Today we&#8217;re revisiting an episode from earlier this year that might help you make sense of all the tit for tat tariff fight from the past few weeks. It unpacks some tariff history and the potential economic consequences of President Trump&#8217;s ongoing trade war.</em></p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>If President Donald Trump goes through with his plan to levy sweeping tariffs on foreign imports, it wouldn’t be the first time the U.S. has done such a thing. Ever heard of the Smoot-Hawley Tariff Act of 1930? Anyone? Those tariffs are widely credited with sinking the United States deeper into the Great Depression. And although global trade looks different nowadays, they can teach us a lot about how Trump’s protectionist approach to global trade could play out. On the show today, Inu Manak, a fellow for trade policy at the Council on Foreign Relations, explains how the Smoot-Hawley tariff debacle can shed light on the current moment, why the president has the power to wield tariffs in the first place, and how punishing trading partners could leave the U.S. economy at a disadvantage. Plus, what this fight has to do with the 1980s film “Ferris Bueller’s Day Off” and Roomba vacuum cleaners!</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Later, one listener’s call to visit your local butcher. And, dating coach Damona Hoffman, host of the <a href="https://damonahoffman.com/dates-and-mates-podcast/" target="_blank" rel="noreferrer noopener">“Dates and Mates”</a> podcast, answers the “Make Me Smart” question just in time for Valentine’s Day.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here’s everything we talked about today:</p>
+<p><!-- /wp:paragraph --></p>
+<ul>
+<li><a href="https://www.cfr.org/report/tariffs-trading-partners-can-president-actually-do" target="_blank" rel="noreferrer noopener">“Tariffs on Trading Partners: Can the President Actually Do That?”</a> from Council on Foreign Relations</li>
+<li><a href="https://www.nytimes.com/2025/02/03/business/trump-tariffs-global-trade-blocs.html" target="_blank" rel="noreferrer noopener">“One Response to Trump’s Tariffs: Trade That Excludes the U.S.”</a> from The New York Times</li>
+<li><a href="https://www.piie.com/research/piie-charts/united-states-has-been-disengaging-global-economy" target="_blank" rel="noreferrer noopener">“The United States has been disengaging from the global economy”</a> from the Peterson Institute for International Economics</li>
+<li><a href="https://www.washingtonpost.com/news/made-by-history/wp/2017/06/30/protectionism-100-years-ago-helped-ignite-a-world-war-could-it-happen-again/" target="_blank" rel="noreferrer noopener">“Protectionism 100 years ago helped ignite a world war. Could it happen again?”</a> from The Washington Post</li>
+<li><a href="https://theconversation.com/the-us-is-one-of-the-least-trade-oriented-countries-in-the-world-despite-laying-the-groundwork-for-todays-globalized-system-226448" target="_blank" rel="noreferrer noopener">“The US is one of the least trade-oriented countries in the world – despite laying the groundwork for today’s globalized system”</a> from The Conversation</li>
+</ul>
+<p>Double your impact when you donate to Marketplace today, thanks to a $30,000 match from the Investors Challenge Fund: <a href="https://support.marketplace.org/smart-sn">https://support.marketplace.org/smart-sn</a></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/18/mms_20250318_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fepisode%2Fwhat-we-can-learn-from-a-past-tariff-tiff-rerun%2F"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/18/mms_20250318_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fepisode%2Fwhat-we-can-learn-from-a-past-tariff-tiff-rerun%2F" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/episode/what-we-can-learn-from-a-past-tariff-tiff-rerun/>
 
 ---
 

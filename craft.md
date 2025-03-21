@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-03-20 06:09:03
+updated: 2025-03-21 06:07:51
 ---
 
 # craft
 
-(date: 2025-03-20 06:09:03)
+(date: 2025-03-21 06:07:51)
+
+---
+
+## ‘Layout Computer’ – Now with Casework
+
+date: 2025-03-21, from: Lost Arg Press blog
+
+When Nick, a woodworker and LAP reader, first let us know about Layout Computer, his free digital chair design tool, I thought, &#8220;Wow – that&#8217;s nifty and would be awfully useful…if only I made chairs.&#8221; Well, now I think it&#8217;s unbearably cool and altogether useful, because Nick has added casework (as well as a dovetail... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/03/21/layout-computer-now-with-casework/>
 
 ---
 

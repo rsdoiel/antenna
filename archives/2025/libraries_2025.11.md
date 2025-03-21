@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-03-20 06:09:00
+updated: 2025-03-21 06:07:48
 ---
 
 # libraries
 
-(date: 2025-03-20 06:09:00)
+(date: 2025-03-21 06:07:48)
+
+---
+
+## SSP Compensation and Benefits Benchmarking Study Results Available
+
+date: 2025-03-21, from: Scholarly Kitchen
+
+<p>A sneak peek at the Individual results from the SSP's Compensation and Benefits Benchmarking Study provides insight into who has participated and reveals some interesting benefits of working in scholarly communications.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/21/ssp-compensation-and-benefits-benchmarking-study-results-available/">SSP Compensation and Benefits Benchmarking Study Results Available</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/21/ssp-compensation-and-benefits-benchmarking-study-results-available/>
 
 ---
 
@@ -172,7 +186,7 @@ date: 2025-03-18, from: Scholarly Kitchen
 
 date: 2025-03-17, from: Association of Research Libraries News
 
-<p>Last Updated on March 20, 2025, 8:52 am ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 18 &#124; Wednesday, March 19 &#124; Thursday,...</p>
+<p>Last Updated on March 20, 2025, 3:28 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, March 18 &#124; Wednesday, March 19 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-17-20/">Day in Review (March 17–20)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

@@ -1,11 +1,89 @@
 ---
 title: journalism
-updated: 2025-03-20 06:08:59
+updated: 2025-03-21 06:07:47
 ---
 
 # journalism
 
-(date: 2025-03-20 06:08:59)
+(date: 2025-03-21 06:07:47)
+
+---
+
+## Brahmas battle budget deficit
+
+date: 2025-03-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Pierce College is facing financial trouble and is navigating changes to the budget to combat it. Pierce has reported a projected $10 million deficit for</p>
+<p>The post <a href="https://theroundupnews.com/2025/03/20/in-the-hole-brahmas-battle-budget-deficit/">Brahmas battle budget deficit</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/03/20/in-the-hole-brahmas-battle-budget-deficit/?utm_source=rss&utm_medium=rss&utm_campaign=in-the-hole-brahmas-battle-budget-deficit>
+
+---
+
+## Theatre department reimagines classic tradegy
+
+date: 2025-03-21, from: The Round Up (Pierce College Student Newspaper)
+
+<p>A 3000-year-old tragedy is coming to Pierce College, but with a post-apocalyptic twist. Opening the 2025 spring Theatre department season, this “Antigone” is set in</p>
+<p>The post <a href="https://theroundupnews.com/2025/03/20/theatre-department-reimagines-classic-tradegy/">Theatre department reimagines classic tradegy</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/03/20/theatre-department-reimagines-classic-tradegy/?utm_source=rss&utm_medium=rss&utm_campaign=theatre-department-reimagines-classic-tradegy>
+
+---
+
+## UCLA child care center to close, attendees to move to Krieger Center in September
+
+date: 2025-03-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor’s note: This article contains mentions of child abuse that may be disturbing to some readers.&#160;
+UCLA will close one of its two on-campus child care centers Sept. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/20/ucla-child-care-center-to-close-attendees-to-move-to-krieger-center-in-september/>
+
+---
+
+## Pro-Palestine protesters file lawsuit against UC, UCLA, police, counter-protesters
+
+date: 2025-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Thirty-five pro-Palestine protesters, many of who participated in last spring’s Palestine solidarity encampment, announced Thursday they will be suing the UC, UCLA, police forces and counter-protesters. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/20/pro-palestine-protesters-file-lawsuit-against-uc-ucla-police-counter-protesters/>
+
+---
+
+## After years of exploring a sale, The Skimm is acquired by Ziff Davis
+
+date: 2025-03-20, from: Nieman Journalism Lab
+
+The digital media company Ziff Davis — owner of CNET, Mashable, Lifehacker, and PC Mag as well as a number of shopping and B2B sites — has acquired The Skimm. The Skimm will join Ziff Davis&#8217;s health and wellness division Everyday Health Group as part of the deal. The Skimm will operate as a standalone... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/after-years-of-exploring-a-sale-the-skimm-is-acquired-by-ziff-davis/>
+
+---
+
+## Five people steal a student’s clothes during quarterly Undie Run
+
+date: 2025-03-20, from: The Daily Bruin (UCLA Student Newspaper)
+
+Five people struck a student in the face and took his clothes in Dickson Plaza early Thursday morning while thousands of students participated in UCLA’s “Undie Run.”
+The incident happened around 12:20 a.m. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/20/five-people-steal-a-students-clothes-during-quarterly-undie-run/>
 
 ---
 
@@ -67,7 +145,7 @@ Around 40 pro-Palestine protesters, many wearing keffiyehs and masks, gathered o
 
 date: 2025-03-19, from: Nieman Journalism Lab
 
-After a decade at the helm, Charlie Sennott is leaving the GroundTruth Project, the nonprofit journalism organization he founded in 2014 that also launched Report for America and Report for the World. Sennott, a 2006 Nieman Fellow, will take the GroundTruth Project name and newsletter to launch GroundTruth Media Partners LLC, a for-profit organization with... 
+After a decade at the helm, Charlie Sennott is leaving the GroundTruth Project, the nonprofit journalism organization he founded in 2014 that also launched Report for America and Report for the World. Sennott, a 2006 Nieman Fellow, will take part of the GroundTruth Project name and newsletter to launch GroundTruth Media Partners LLC, a for-profit... 
 
 <br> 
 

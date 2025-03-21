@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-03-20 06:08:59
+updated: 2025-03-21 06:07:47
 ---
 
 # games
 
-(date: 2025-03-20 06:08:59)
+(date: 2025-03-21 06:07:47)
+
+---
+
+## Final Fantasy 7 Rebirth’s Costa del Sol gives so much wanderlust it hurts
+
+date: 2025-03-21, updated: 2025-03-21, from: Polygon Website
+
+I’m gonna let you in on a little secret: Polygon is weird. I can’t think of a single person on staff (besides me, obviously) who knows how to properly enjoy good weather. My coworkers openly celebrate the crisp breeze of nostalgic autumnal air. They cheer at the first annual snowfall. Just last week, someone in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/538594/final-fantasy-7-rebirth-costa-del-sol>
+
+---
+
+## What is the max level cap in Assassin’s Creed Shadows?
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+The max level cap in Assassin’s Creed Shadows is so high you might not even need to worry about it. In general, your level determines the equipment you can use, the in addition to the rating of your base stats, like health. The weapons and armor you find — plus the enemies you run into — [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/544101/max-level-cap>
+
+---
+
+## ‘Searching Sakai’ walkthrough and Imai Sokyu location in Assassin’s Creed Shadows
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+You’ll need to find Imai Sokyu during the “Searching Sakai” quest in Assassin’s Creed Shadow. It’s one of the main story missions where you’re trying to discover the identity of a the Golden Teppo. Imai Sokyu has a direct connection to Oda Nobunaga and might be the help you need to proceed with your plans. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/544042/searching-sakai-imai-sokyu-location-where-to-find>
+
+---
+
+## ‘Dress for Success’ walkthrough in Assassin’s Creed Shadows
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+“Dress for Success” is a key quest in taking down the Golden Teppo, one of your first main story targets in Assassin’s Creed Shadows. It’s available after completing “Searching Sakai.” In it, you’ll need to help a kosode maker retrieve her silk so that you can get a new garment for a tea ceremony, but [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/543636/dress-for-success-walkthrough-kasode-silk-location-where-to-find>
+
+---
+
+## Silent Hill 2 remake devs’ new horror game might scratch that Dead Space itch
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+After Bloober Team’s excellent Silent Hill 2 remake, I’m willing to give the developer the benefit of the doubt when it comes to its brand of horror games. It certainly helps that its next effort, Cronos: The New Dawn, looks incredible and is giving off gory Dead Space vibes. Cronos: The New Dawn co-directors Wojciech [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/543865/bloober-team-cronos-new-dawn-survival-horror>
+
+---
+
+## The first extended look at Remedy’s co-op shooter FBC: Firebreak is completely bonkers
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+Remedy Entertainment is no stranger to unconventional ballistics. The Finnish game developer is well known for its eclectic, boundary-pushing approach to third-person shooters with titles such as Max Payne, Alan Wake, Quantum Break, and Control. But a co-op first-person shooter where you fight, among other threats, a sentient swarm of Post-it notes? That’s a new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/543773/fbc-firebreak-paper-chase-trailer-preview>
+
+---
+
+## How to get Great Windward Aloe in Monster Hunter Wilds
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+Great Windward Aloe is a special item in Monster Hunter Wilds that you can use to trade for other items. This item only appears in a certain region, under special conditions, so it’s not always easy to find. Once you get it, it has some limited, but useful, applications that can help you get other [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/542534/great-windward-aloe-how-to-find-get>
+
+---
+
+## Nightdive Studios announces launch date for System Shock 2 remake
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+System Shock 2: 25th Anniversary Edition (formerly titled System Shock 2: Enhanced Edition) will be arriving on PC, Xbox, PlayStation, and Nintendo Switch on June 26, courtesy of Nightdive Studios. Announced at the Future Game Show Spring Showcase, the 25th Anniversary Edition brings a fresh coat of paint to the classic 1999 sci-fi horror game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/543748/system-shock-2-25th-anniversary-edition-launch-release-date-nightdive-studios>
+
+---
+
+## How to get the Latent Power skill in Monster Hunter Wilds
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+Latent Power is a powerful skill in Monster Hunter Wilds that you can get by crafting and equipping certain pieces of armor. In addition to influencing your stats, the armor in Monster Hunter Wilds have additional buffs called “skills.” These skills activate under special circumstances and provide additional powers to your hunter. One of these [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/542528/latent-power-skill-how-to-get>
+
+---
+
+## Romestead, an upcoming survival crafter, borrows from the best bits of Valheim
+
+date: 2025-03-20, updated: 2025-03-20, from: Polygon Website
+
+The Roman Empire has fallen, and I’ve barely escaped with my life. I’m now in a thick forest, surrounded by angry bears and ornery goats, and I’ve been forced to participate in the time-honored tradition of collecting sticks and stones so I can build basic accommodations. The day can be dangerous, but the night is [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/543149/romestead-survival-crafter-preview-fantasy-early-impressions>
 
 ---
 

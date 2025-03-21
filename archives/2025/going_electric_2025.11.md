@@ -1,11 +1,391 @@
 ---
 title: going electric
-updated: 2025-03-20 06:09:02
+updated: 2025-03-21 06:07:50
 ---
 
 # going electric
 
-(date: 2025-03-20 06:09:02)
+(date: 2025-03-21 06:07:50)
+
+---
+
+## Leader manufacturer recalls hundreds of thousands of electric scooters
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/segway-head-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Segway has issued a significant recall affecting approximately 220,000 units of its popular Ninebot Max G30P and Max G30LP electric scooters. The recall addresses a safety issue involving the scooters’ folding mechanism, which can unexpectedly fail during use. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-scooter,recall" data-layer-viewtype="unknown" data-post-id="406942" href="https://electrek.co/2025/03/21/leader-manufacturer-recalls-hundreds-of-thousands-of-electric-scooters/#more-406942" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/leader-manufacturer-recalls-hundreds-of-thousands-of-electric-scooters/>
+
+---
+
+## Karma Automotive Wants To Make An Extended-Range Luxury Coupe
+
+date: 2025-03-21, from: Inside EVs News
+
+It’s called the Karma Amaris and it will use a BMW turbo four-cylinder mated to a generator. 
+
+<br> 
+
+<https://insideevs.com/news/754225/karma-amaris-erev-coupe/>
+
+---
+
+## Elon Musk teases ‘Tesla Master Plan Part 4’ again, but part 2 is still incomplete
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500" /></div><p>During a <a href="https://electrek.co/2025/03/20/tesla-holds-all-hands-meeting-in-public-amid-tough-quarter/">strange publicly livestreamed “all-hands” meeting</a>, Tesla CEO Elon Musk said once again that he’s working on a “Master Plan Part 4” for the company, which is currently on part 3 of its master plan. But the problem is, even part 2 is not yet complete.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-master-plan" data-layer-viewtype="unknown" data-post-id="406937" href="https://electrek.co/2025/03/20/elon-musk-teases-tesla-master-plan-part-4-again-but-part-2-is-still-incomplete/#more-406937" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/elon-musk-teases-tesla-master-plan-part-4-again-but-part-2-is-still-incomplete/>
+
+---
+
+## Tesla holds ‘all-hands’ meeting in public amid tough quarter
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-al-hand-2025.png?w=1600" /></div><p>Tesla has mysteriously announced that it is holding an ‘all-hands’ meeting in public live-streamed on X amid a tough quarter.</p>
+
+
+
+<p>This is a first for the company.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406889" href="https://electrek.co/2025/03/20/tesla-holds-all-hands-meeting-in-public-amid-tough-quarter/#more-406889" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/tesla-holds-all-hands-meeting-in-public-amid-tough-quarter/>
+
+---
+
+## iKamper unveils new rooftop tent designed specifically for Rivian R1T and R1S EVs
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-tent-Hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rooftop tent specialist iKamper has unveiled a new all-season tent designed exclusively for Rivian EV owners. The Skycamp Mini was designed to protect its inhabitants from high winds, UV Rays, and inclement weather and just popped up in the <a href="https://electrek.co/guides/rivian/">Rivian</a> Gear Shop this afternoon. Check it out.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ikamper,rivian,rivian-accessories,tent" data-layer-viewtype="unknown" data-post-id="406878" href="https://electrek.co/2025/03/20/ikamper-unveils-new-rooftop-tent-designed-specifically-for-rivian-r1t-and-r1s-evs/#more-406878" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/ikamper-unveils-new-rooftop-tent-designed-specifically-for-rivian-r1t-and-r1s-evs/>
+
+---
+
+## Tesla protesters get rolled coal by diesel lover: no one knows which side is which anymore
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-protesters-rolling-coal.png?w=1600" /></div><p>In a new viral video, a diesel truck driver rolled coal over dozens of Tesla protesters peacefully exercising their First Amendment rights.</p>
+
+
+
+<p>It’s not clear which side is which at this point.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406862" href="https://electrek.co/2025/03/20/tesla-protesters-get-rolled-coal-by-diesel-lover-no-one-knows-which-side-is-which-anymore/#more-406862" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/tesla-protesters-get-rolled-coal-by-diesel-lover-no-one-knows-which-side-is-which-anymore/>
+
+---
+
+## Here are the cheapest EVs we could find for lease at under $300/month right now [Update]
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Cheapest-EVs-lease-March.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Spring is finally here, and so are some solid <a href="https://electrek.co/guides/electric-vehicles/">EV</a> lease deals. Right now, a few EVs are going for under $300 a month. Here are the cheapest EVs we could find this March.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="404778" href="https://electrek.co/2025/03/20/cheapest-evs-lease-march-under-300-month-update/#more-404778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/cheapest-evs-lease-march-under-300-month-update/>
+
+---
+
+## FERC: Solar + wind set for a strong 3-year run despite Trump’s sabotage
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/11/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZmw0ODk4MTE5NDM2Mi1pbWFnZS1rcDR2d2t1YS5qcGc.jpg?quality=82&#038;strip=all&#038;w=1300" /></div><p>By February 1, 2028, renewables would account for 37.4% of total available installed utility-scale generating capacity – just behind natural gas (40.2%) – with solar and wind making up more than 75% of the installed renewable energy capacity, according to data <a href="https://cms.ferc.gov/media/energy-infrastructure-update-january-2025" target="_blank" rel="noreferrer noopener">just released</a> by the Federal Energy Regulatory Commission (FERC).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,ferc,solar,inflation-reduction-act,president-biden,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="406814" href="https://electrek.co/2025/03/20/ferc-solar-wind-set-for-a-strong-3-year-run-despite-trumps-sabotage/#more-406814" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/ferc-solar-wind-set-for-a-strong-3-year-run-despite-trumps-sabotage/>
+
+---
+
+## Watch The New Tesla Model Y Take On The Old One In A 70-MPH Range Test
+
+date: 2025-03-20, from: Inside EVs News
+
+Tesla claims the updated Model Y is up to 10% more efficient. Real-world tests tell another story. 
+
+<br> 
+
+<https://insideevs.com/news/754181/model-y-juniper-vs-old-model-y/>
+
+---
+
+## Korea’s first electric pickup is already in high demand, and it’s not from Hyundai or Kia
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Koreas-first-EV-pickup-1.jpg?quality=82&#038;strip=all&#038;w=1080" /></div><p>The KGM Musso EV is Korea’s first electric pickup. It’s not from <a href="https://electrek.co/guides/hyundai/">Hyundai</a> or Kia. Launched earlier this month, the electric truck is already racking up orders. The Special Edition version sold out in under two hours. Meet the KGM Mussu EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-pickup-trucks" data-layer-viewtype="unknown" data-post-id="406810" href="https://electrek.co/2025/03/20/koreas-first-ev-pickup-high-demand-not-from-hyundai/#more-406810" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/koreas-first-ev-pickup-high-demand-not-from-hyundai/>
+
+---
+
+## EV Sales Were Up In February, But Tesla Keeps Falling
+
+date: 2025-03-20, from: Inside EVs News
+
+Data shows that Americans’ appetite for battery-powered vehicles isn’t fading just yet. 
+
+<br> 
+
+<https://insideevs.com/news/754163/us-february-ev-sales-record-tesla-falls/>
+
+---
+
+## Jackery Explorer 3000 Pro with 500W panel at $1,999 low in latest sale, Lectric XPeak 2.0 LR e-bike new $1,579 low, EGO leaf blower, more
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Jackery-Home-Improvement-Sale-FI-2-e1742490793460.png?w=1600" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/03/20/jackery-explorer-3000-pro-500w-panel-1999-low-more/">Jackery’s Home Improvement Sale</a>, which is continuing its previous flash sale offers alongside new additions, one of which being the <a href="https://9to5toys.com/2025/03/20/jackery-explorer-3000-pro-500w-panel-1999-low-more/">Explorer 3000 Pro solar generator bundle</a> with a 500W panel at its <a href="https://9to5toys.com/2025/03/20/jackery-explorer-3000-pro-500w-panel-1999-low-more/">$1,999</a> low – plus, continuing free gifts on the brand’s newest Explorer 5000 Plus and its bundles, and more. We also have the unexpected price cut on <a href="https://9to5toys.com/2025/03/20/lectric-xpeak-2-0-long-range-e-bike-new-1579-low/">Lectric’s XPeak 2.0 Off-Road Long-range e-bikes</a> to a new <a href="https://9to5toys.com/2025/03/20/lectric-xpeak-2-0-long-range-e-bike-new-1579-low/">$1,579</a> low, while also coming with $336 in free gear during the brand’s latest sale, as well as <a href="https://9to5toys.com/2025/03/20/ego-56v-765-cfm-leaf-blower-with-5-0ah-2-5ah-330/">EGO’s 56V 765 CFM Cordless Leaf Blower</a> with 5.0Ah and 2.5Ah batteries down at <a href="https://9to5toys.com/2025/03/20/ego-56v-765-cfm-leaf-blower-with-5-0ah-2-5ah-330/">$330</a>. Bringing up the rear is <a href="https://9to5toys.com/2025/03/20/govee-smart-electric-composter-305/">Govee’s Smart Electric Composter</a> which has dropped down to <a href="https://9to5toys.com/2025/03/20/govee-smart-electric-composter-305/">$305</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s latest sales from <a href="https://9to5toys.com/2025/03/18/lectric-free-643-bundles-on-xp-3-0-e-bikes-from-999/">Lectric</a>, <a href="https://9to5toys.com/2025/03/19/segway-spring-sale-max-g2-800-low-more/">Segway</a>, <a href="https://9to5toys.com/2025/03/18/aventon-clearance-sale-from-999/">Aventon</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="406803" href="https://electrek.co/2025/03/20/jackery-home-improvement-sale-lectric-ego-govee-more/#more-406803" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/jackery-home-improvement-sale-lectric-ego-govee-more/>
+
+---
+
+## Tesla confirms it can’t sell the Cybertruck even with tax credit and discounts
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Cybertruck-tunnel.png?w=1600" /></div><p>Tesla has revealed Cybertruck deliveries in the US, confirming that it can’t sell the electric truck even with federal tax credits and discounts.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="406772" href="https://electrek.co/2025/03/20/tesla-confirms-it-cant-sell-the-cybertruck-even-with-tax-credit-and-discounts/#more-406772" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/tesla-confirms-it-cant-sell-the-cybertruck-even-with-tax-credit-and-discounts/>
+
+---
+
+## Electrify America sweetens the deal for the 2025 Audi Q6 e-tron
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Electrify-America-Audi-Q6-etron.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.electrifyamerica.com/" target="_blank" rel="noreferrer noopener">Electrify America</a> and Audi of America are expanding their EV charging partnership to cover the new <a href="https://www.audiusa.com/us/web/en/models/q6-e-tron/q6-e-tron/2025/overview.html" target="_blank" rel="noreferrer noopener">2025 Audi Q6 e-tron</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="audi,audi-e-tron,audi-q6-e-tron,electrify-america" data-layer-viewtype="unknown" data-post-id="406789" href="https://electrek.co/2025/03/20/2025-audi-q6-e-tron-electrify-america/#more-406789" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/2025-audi-q6-e-tron-electrify-america/>
+
+---
+
+## This Is The First Rivian R1S Police Car
+
+date: 2025-03-20, from: Inside EVs News
+
+The electric cruiser will roam the streets of Palo Alto in the coming months. 
+
+<br> 
+
+<https://insideevs.com/news/754156/rivian-r1s-police-car-palo-alto/>
+
+---
+
+## Rivian’s R1S broke into the top 5 best-selling EVs last month
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-R1S-best-selling-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian (RIVN) is off to a strong start in 2025. The company’s sales surged in February, with the <a href="https://electrek.co/guides/rivian-r1s/">R1S</a> breaking into the top five best-selling EVs in the US. The electric SUV is once again a fan favorite.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1s" data-layer-viewtype="unknown" data-post-id="406782" href="https://electrek.co/2025/03/20/rivian-r1s-top-5-best-selling-evs-last-month/#more-406782" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/rivian-r1s-top-5-best-selling-evs-last-month/>
+
+---
+
+## Tesla's Missing $1.4 Billion Has Accounting Experts Asking Questions
+
+date: 2025-03-20, from: Inside EVs News
+
+Plus,  Hyundai is completely unbothered about Trump's EV policies, and Rivian throws Fisker owners a bone. 
+
+<br> 
+
+<https://insideevs.com/news/754063/cm-2025-03-20/>
+
+---
+
+## The Kia EV2 is real: Here’s our first look at the low-cost EV on the road [Video]
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Kia-EV2-4.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>Kia is gearing up to launch its smallest, most affordable EV yet. Despite its small size, <a href="https://electrek.co/guides/kia/">Kia</a> promises the EV2 has “a big personality” with its latest tech, features, and sleek new design. Here’s our first look at the Kia EV2 after it was spotted in public testing for the first time.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev2" data-layer-viewtype="unknown" data-post-id="406740" href="https://electrek.co/2025/03/20/kia-ev2-spotted-on-road-first-time-testing-video/#more-406740" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/kia-ev2-spotted-on-road-first-time-testing-video/>
+
+---
+
+## The Tesla Cybertruck May Soon Get A Significant Battery Upgrade: Report
+
+date: 2025-03-20, from: Inside EVs News
+
+Tesla’s long-awaited dry cathode program appears to be nearing the finish line. We could see the fruits of that in a few months. 
+
+<br> 
+
+<https://insideevs.com/news/754141/tesla-cybertruck-ev-battery-upgrade-dry-cathode/>
+
+---
+
+## Magna Steyr is finalizing deals with XPeng and GAC Motor to build Chinese EVs in Austria
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/08/Magna-net-zero-Steyr.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>A new report states that Austria-based contract manufacturer Magna Steyr is on the cusp of securing two new customers in <a href="https://electrek.co/guides/xpeng/">XPeng Motors</a> and GAC Motor Co. As a result of the reported deal, those Chinese automakers would have an avenue around additional tariffs on imports imposed by the EU, while Magna Steyr gains some much-needed EV manufacturing on its Austrian assembly lines.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="austria,gac-group,gac-motor,magna,magna-steyr,xpeng,xpeng-motors" data-layer-viewtype="unknown" data-post-id="406762" href="https://electrek.co/2025/03/20/magna-steyr-deals-xpeng-gac-motor-build-chinese-evs-austria/#more-406762" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/magna-steyr-deals-xpeng-gac-motor-build-chinese-evs-austria/>
+
+---
+
+## Honda and Acura EVs to gain access to Tesla Superchargers in June
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Supercharger-network-map-North-America.png?w=1600" /></div><p>Honda and Acura have confirmed that their electric vehicle owners in North America will gain access to Tesla Superchargers in June.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="acura,honda,tesla" data-layer-viewtype="unknown" data-post-id="406763" href="https://electrek.co/2025/03/20/honda-acura-evs-gain-access-tesla-superchargers-june/#more-406763" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/honda-acura-evs-gain-access-tesla-superchargers-june/>
+
+---
+
+## Honda And Acura EV Owners Will Soon Get Tesla Supercharger Access
+
+date: 2025-03-20, from: Inside EVs News
+
+The Honda Prologue and Acura ZDX will need a manufacturer-approved NACS to CCS charging adapter. 
+
+<br> 
+
+<https://insideevs.com/news/754127/honda-acura-ev-tesla-supercharger-access-june/>
+
+---
+
+## EU Commission opens probe as to whether China provided BYD with unfair subsidies for its EV plant in Hungary
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/BYD-production-Europe-Hungary.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/europe/">European Union Commission</a> has reportedly opened a preliminary probe investigating whether China provided unfair subsidies to support Chinese EV automaker BYD in establishing a new production facility in Hungary. This news comes one day after China delayed a decision on BYD’s planned production facility in Mexico, demonstrating growing trade tensions between countries worldwide.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,china,europe,hungary,subsidies" data-layer-viewtype="unknown" data-post-id="406738" href="https://electrek.co/2025/03/20/eu-commission-opens-probe-china-byd-unfair-subsidies-ev-plant-hungary/#more-406738" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/eu-commission-opens-probe-china-byd-unfair-subsidies-ev-plant-hungary/>
+
+---
+
+## Tesla recalls all Cybertrucks ever made over trim falling off
+
+date: 2025-03-20, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-cantrail-trim.png?w=1600" /></div><p>Tesla has recalled all Cybertrucks ever made and delivered in the US over a trim falling off the electric truck, which can be a dangerous hazard if it happens while driving.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="406739" href="https://electrek.co/2025/03/20/tesla-recalls-all-cybertrucks-ever-made-over-trim-falling-off/#more-406739" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/20/tesla-recalls-all-cybertrucks-ever-made-over-trim-falling-off/>
+
+---
+
+## The Chinese MG4 Is A Huge Hit In Europe. Now There's A Next-Gen Model
+
+date: 2025-03-20, from: Inside EVs News
+
+The MG4 was one of the best-selling Chinese EVs in Europe last year. 
+
+<br> 
+
+<https://insideevs.com/news/754109/new-mg4-revealed-china/>
 
 ---
 

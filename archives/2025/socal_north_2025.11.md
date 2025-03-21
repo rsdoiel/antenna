@@ -1,15 +1,221 @@
 ---
 title: socal north
-updated: 2025-03-20 06:08:55
+updated: 2025-03-21 06:07:43
 ---
 
 # socal north
 
-(date: 2025-03-20 06:08:55)
+(date: 2025-03-21 06:07:43)
 
 ---
 
-## For LAUSD’s students with disabilities, cellphone use is a balancing act
+## Warming trend to bring the heat to SoCal next week
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+L.A. County valleys will reach around 80 degrees today. Next week, temperatures could hit 90 in some areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warming-trend-to-bring-the-heat-to-socal-next-week>
+
+---
+
+## Trump policies will add to LA’s billion-dollar budget shortfall, officials say; others point to city overspending
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+Revenue alone is projected to be $315 million below the city’s four-year projected outlook, according to the city administrative officer 
+
+<br> 
+
+<https://laist.com/news/trump-policies-los-angeles-billion-dollar-budget-shortfall-overspending>
+
+---
+
+## The tradition of iftar is thriving in SoCal during Ramadan. Here's what it's like to be at the table
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+Two LAist colleagues attend iftar to break the Ramadan fast together with a Palestinian family in Rowland Heights. 
+
+<br> 
+
+<https://laist.com/news/food/experiencing-iftar-ramadan-socal>
+
+---
+
+## Hollywood filmmaker charged with defrauding Netflix of $11 million
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+Director Carl Erik Rinsch sold Netflix a sci-fi series. Instead of finishing it, prosecutors allege he spent some of the streamer's money on his own investments, luxury rentals, five Rolls-Royces, a Ferrari, and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/hollywood-filmmaker-charged-with-defrauding-netflix-of-11-million>
+
+---
+
+## Citing incomplete data, LAHSA announces drop in homelessness as county considers taking control of funding
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+The early data is incomplete, but the LA Homeless Services Authority's leader says final numbers are expected to show a 5% to 10% drop in street homelessness. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/citing-early-data-lahsa-ceo-claims-another-drop-in-homelessness-as-county-considers-taking-control-of-funding>
+
+---
+
+## Braving the Shave to fight cancer
+
+date: 2025-03-21, from: Catalina Islander
+
+On Saturday March 15 Avalon held its inaugural St. Baldrick’s fundraiser, called Avalon Braves the Shave. The last few years a few locals have participated in the one hosted in Long Beach. Sabrina Garza was the fearless leader with the help of many other. A couple hundred people passed through the event and bought food [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/braving-the-shave-to-fight-cancer/>
+
+---
+
+## Children’s book about Catalina finds market
+
+date: 2025-03-21, from: Catalina Islander
+
+A children’s book, entitled “ABC is for Catalina Island” has been gaining some traction at local stores, much to the delight of the author, who grew up taking family trips to the island. Katie Carter Elia grew up in Pasadena and made her first trip to Catalina at the age of two, with her parents. [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/childrens-book-about-catalina-finds-market/>
+
+---
+
+## Council OKs 4th of July contracts
+
+date: 2025-03-20, from: Catalina Islander
+
+The council on March 18 unanimously authorized the city manager to execute agreements for the 2025 Fourth of July fireworks show. Garden State Fireworks, Inc. will provide the fireworks show. The quoted cost: $45,300. Curtin Maritime will provide the barge services. Quoted cost: $38,500. Technically, the Avalon council authorized City Manager David Maistros to execute [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/council-oks-4th-of-july-contracts/>
+
+---
+
+## Edison International to buy fire engine for Avalon
+
+date: 2025-03-20, from: Catalina Islander
+
+Edison International recently offered to buy Avalon a new fire engine at $600,000. The City Council on Tuesday, March 18, voted 4-0 to authorize the city manager to execute the agreement. Councilmember Mary Schickling recused herself because she works for Southern California Edison. This was originally a Consent Calendar item, but was pulled for comments [&#8230;] 
+
+<br> 
+
+<https://thecatalinaislander.com/edison-international-to-buy-fire-engine-for-avalon/>
+
+---
+
+## How does Medi-Cal work and how might potential cuts affect California? Here's what you should know
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+Experts say the House's proposed budget cuts would almost inevitably affect the state’s health insurance for low-income people. 
+
+<br> 
+
+<https://laist.com/news/health/medi-cal-potential-cuts-california-explainer>
+
+---
+
+## Why California spent $13 million on controversial freeway only to abandon it
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+When their neighborhood was threatened by the proposed El Toyon Freeway, community members got together to stop construction. 
+
+<br> 
+
+<https://laist.com/news/transportation/california-san-diego-freeway-history-el-toyon-route-252>
+
+---
+
+## Worries rise as Rancho Palos Verdes landslide accelerates, even with rainfall way down
+
+date: 2025-03-20, updated: 2025-03-21, from: The LAist
+
+City officials say the findings don’t bode well for the landslide complex when heavier rains inevitably come. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-acceleration-recent-storms-rainfall>
+
+---
+
+## Judge calls the Trump administration response to his order 'woefully insufficient'
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+Judge James Boasberg had earlier asked the Trump administration to provide more details about weekend flights that deported hundreds of alleged Venezuelan gang members to El Salvador — despite his order to turn the planes around. 
+
+<br> 
+
+<https://laist.com/news/judge-trump-administration-woefully-insufficient-response-to-his-order>
+
+---
+
+## New 'baby pictures' of the cosmos show the universe in its infancy
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+If our 13.8-billion-year-old cosmos could be considered middle-aged, researchers note these new images captured around its 380,000th birthday represent a snapshot of the universe as a newborn. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/new-pictures-cosmos-show-universe-infancy>
+
+---
+
+## Discover Old Town Newhall
+
+date: 2025-03-20, from: City of Santa Clarita
+
+<p>By Mayor Bill Miranda Old Town Newhall is the place to go if you’re looking for arts, entertainment, dining, shopping and events! Whether it’s a romantic date night, a night out with friends or a day of family fun, Santa Clarita’s premier Arts and Entertainment District has something for everyone. If you’re looking for the [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/20/discover-old-town-newhall/">Discover Old Town Newhall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/20/discover-old-town-newhall/>
+
+---
+
+## Gavin Newsom’s MAGA-curious podcast mystifies listeners — and sets Democratic lawmakers on edge
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+The California governor’s about-face retreat from leading critic of President Donald Trump to MAGA-curious pundit comes at a critical moment for the state. 
+
+<br> 
+
+<https://laist.com/news/politics/gavin-newsoms-maga-curious-podcast-mystifies-listeners-and-sets-democratic-lawmakers-on-edge>
+
+---
+
+## Trump signs order aiming to close the Education Department
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+The Trump administration has already moved to cut the department's staff by nearly half. 
+
+<br> 
+
+<https://laist.com/news/education/trump-to-sign-order-aiming-to-close-education-department>
+
+---
+
+## What LAUSD students with disabilities need to know about the ban on cellphones in class
 
 date: 2025-03-20, updated: 2025-03-20, from: The LAist
 
@@ -30,6 +236,18 @@ Kelsea Ballerini at Crypto.com, the L.A. Folk Festival returns, a David Lynch-in
 <br> 
 
 <https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-march-21-23>
+
+---
+
+## Meet the filmmakers who (not so secretly) love AI
+
+date: 2025-03-20, updated: 2025-03-20, from: The LAist
+
+Many writers, actors and animators see artificial intelligence as a villain. But for some filmmakers, AI is a powerful democratizing tool. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/meet-the-filmmakers-who-not-so-secretly-love-ai>
 
 ---
 
@@ -54,18 +272,6 @@ New cameras on buses will spot cars parked where they shouldn't be. The goal is 
 <br> 
 
 <https://laist.com/news/transportation/culver-city-cracking-down-on-drivers-blocking-bus-lanes-and-stops>
-
----
-
-## Meet the filmmakers who (not so secretly) love AI
-
-date: 2025-03-20, updated: 2025-03-20, from: The LAist
-
-Many writers, actors and animators see artificial intelligence as a villain. But for some filmmakers, AI is a powerful democratizing tool. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/meet-the-filmmakers-who-not-so-secretly-love-ai>
 
 ---
 
@@ -267,7 +473,7 @@ The IRS says some Americans who have not filed their 2021 tax returns could be e
 
 ## Facing a nearly $1 billion budget hole, LA officials warn city staffing cuts are inevitable
 
-date: 2025-03-19, updated: 2025-03-20, from: The LAist
+date: 2025-03-19, updated: 2025-03-21, from: The LAist
 
 The city of Los Angeles is "in a particularly challenging financial position" as it develops a budget for the fiscal year that begins July 1. 
 
@@ -356,8 +562,8 @@ date: 2025-03-19, from: Transiting Los Angeles
 Have you heard that L.A. used to have "the best public transportation system in the world"? Or that it was destroyed as part of a conspiracy? Well, let's set the record straight. In this episode, John explains the real reasons why our streetcars were torn up. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast.mp3"></source>
-</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast-1.mp3"></source>
+</audio> <a href="https://transitinglosangeles.wordpress.com/wp-content/uploads/2025/03/streetcar_podcast-1.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://transitinglosangeles.com/2025/03/18/the-transiting-los-angeles-podcast-11-what-happened-to-the-streetcars/>
 

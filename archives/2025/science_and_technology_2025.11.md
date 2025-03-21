@@ -1,11 +1,419 @@
 ---
 title: science and technology
-updated: 2025-03-20 06:08:57
+updated: 2025-03-21 06:07:45
 ---
 
 # science and technology
 
-(date: 2025-03-20 06:08:57)
+(date: 2025-03-21 06:07:45)
+
+---
+
+## NASA's inbox goes orbital after email mishap spams entire space industry
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>MAPTIS mailing list blunder triggers reply-all chaos</h4> <p><strong>EXCLUSIVE</strong>  Everybody loves a good email storm. However, an insecure email distribution list that results in an accidental spamming of space agencies worldwide is undoubtedly one for the record books.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/nasa_maptis_reply_all/>
+
+---
+
+## Feds charge three over Molotov attacks on Tesla sites in multiple states
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Attorney General warns people tempted to join &#39;wave of domestic terrorism&#39;</h4> <p>Three individuals face federal arson charges labeled as domestic terrorism after a spate of Molotov cocktail attacks on Tesla properties in the US.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/tesla_attack_charges/>
+
+---
+
+## No big changes to UK broadband regs, despite no real competition for BT
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Regulator reviews wholesale telecoms markets and decides healthy fiber is its biggest concern</h4> <p>Britain&#39;s telecoms watchdog is giving itself a pat on the back for overseeing the UK&#39;s fiber broadband rollout thus far, so doesn&#39;t want to rock the boat by making any drastic changes to the regulations at this point, despite admitting there is no effective competition for BT.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/ofcom_no_big_changes_to/>
+
+---
+
+## Weeks with a BBC Micro? Good enough to fix a mainframe, apparently
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>With only BASIC knowledge to fall back on, and a typing pool in tears, the OFF switch looked very attractive</h4> <p><strong>On Call</strong>  Welcome once again to On Call, <i>The Register&#39;s</i> Friday column that tells your stories of tech support jobs performed under stress, duress, and all sorts of mess.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/on_call/>
+
+---
+
+## AdTech CEO whose products detected fraud jailed for financial fraud
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Made up revenue and pretended to use non-existent data</h4> <p>The former CEO of Kubient, an advertising tech company that developed a cloudy product capable of detecting fraudulent ads, has been jailed for fraud.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/kubient_ceo_jailed/>
+
+---
+
+## Paragon spyware deployed against journalists and activists, Citizen Lab claims
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Plus: Customer info stolen from &#39;parental control&#39; software slinger SpyX; F-35 kill switch denied</h4> <p><strong>Infosec newsbytes</strong>  Israeli spyware maker Paragon Solutions pitches its tools as helping governments and law enforcement agencies to catch criminals and terrorists, but a fresh Citizen Lab report claims its software has been used to target journalists, activists, and other civilians.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/paragon_spyx_hacked/>
+
+---
+
+## Datacenters near Heathrow seemingly stay up as substation fire closes airport
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Power outage means no flights for 24 hours. And chaos. Lots of chaos</h4> <p>London’s Heathrow Airport will close on Friday after a fire in an electricity substation it relies on caused a power outage - but nearby datacenters seem not to be unaffected.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/heathrow_closure_datacenter_resilience/>
+
+---
+
+## Cloudflare builds an AI to lead AI scraper bots into a horrible maze of junk content
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Slop-making machine will feed unauthorized scrapers what they so richly deserve, hopefully without poisoning the internet</h4> <p>Cloudflare has created a bot-busting AI to make life hell for AI crawlers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/cloudflare_ai_labyrinth/>
+
+---
+
+## Capital One cracker could be sent back to prison after judges rule she got off too lightly
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Feds want book thrown at Paige Thompson, who pinched 100M customer records</h4> <p>Paige Thompson, the perpetrator of the Capital One data theft, may be sent back behind bars – after an appeals court ruled her sentence of time served plus five years of probation was too lenient.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/capital_one_appeal/>
+
+---
+
+## Apple hallucinated Siri's future AI features, lawsuit claims
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Broken commitment to deliver hyped Intelligence upgrade branded false advertising</h4> <p>Apple on Wednesday was sued in a US federal court for allegedly misrepresenting the AI capabilities of its Siri personal digital assistant.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/apple_hallucinated_siri_ai_features/>
+
+---
+
+## Dept of Defense engineer took home top-secret docs, booked a fishing trip to Mexico – then the FBI showed up
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>So much for that vacation</h4> <p>A US Department of Defense electrical engineer has turned his world upside down after printing 155 pages from 20 documents, all of which were marked top secret and classified, from his DoD workspace, brought them home with him – and was collared on his way to Mexico.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/dod_engineer_took_home_topsecret/>
+
+---
+
+## FOSS infrastructure is under attack by AI companies
+
+date: 2025-03-20, from: OS News
+
+What do SourceHut, GNOME&#8217;s GitLab, and KDE&#8217;s GitLab have in common, other than all three of them being forges? Well, it turns out all three of them have been dealing with immense amounts of traffic from &#8220;AI&#8221; scrapers, who are effectively performing DDoS attacks with such ferocity it&#8217;s bringing down the infrastructures of these major open source projects. Being open source, and thus publicly accessible, means these scrapers have unlimited access, unlike with proprietary projects. These &#8220;AI&#8221; scrapers do not respect robots.txt, and have so many expensive endpoints it&#8217;s putting insane amounts of pressure on infrastructure. Of course, they use random user agents from an effectively infinite number of IP addresses. Blocking is a game of whack-a-mole you can&#8217;t win, and so the GNOME project is using a rather nuclear option called Anubis now, which aims to block &#8220;AI&#8221; scrapers with a heavy-handed approach that sometimes blocks real, genuine users as well. The numbers are insane, as Niccolò Venerandi at Libre News details. Over Mastodon, one GNOME sysadmin, Bart Piotrowski, kindly shared some numbers to let people fully understand the scope of the problem. According to him, in around two hours and a half they received 81k total requests, and out of those only 3% passed Anubi&#8217;s proof of work, hinting at 97% of the traffic being bots – an insane number! ↫ Niccolò Venerandi at Libre News Fedora is another project dealing with these attacks, with infrastructure sometimes being down for weeks as a result. Inkscape, LWN, Frama Software, Diaspora, and many more &#8211; they&#8217;re all dealing with the same problem: the vast majority of the traffic to their websites and infrastructure now comes from attacks by &#8220;AI&#8221; scrapers. Sadly, there&#8217;s doesn&#8217;t seem to be a reliable way to defend against these attacks just yet, so sysadmins and webmasters are wasting a ton of time, money, and resources fending off the hungry &#8220;AI&#8221; hordes. These &#8220;AI&#8221; companies are raking in billions and billions of dollars from investors and governments the world over, trying to build dead-end text generators while sucking up huge amounts of data and wasting massive amounts of resources from, in this case, open source projects. If no other solutions can be found, the end game here could be that open source projects will start to make their bug reporting tools and code repositories much harder and potentially even impossible to access without jumping through a massive amount of hoops. Everything about this &#8220;AI&#8221; bubble is gross, and I can&#8217;t wait for this bubble to pop so a semblance of sanity can return to the technology world. Until the next hype train rolls into the station, of course. As is tradition. 
+
+<br> 
+
+<https://www.osnews.com/story/141969/foss-infrastructure-is-under-attack-by-ai-companies/>
+
+---
+
+## Sols 4484-4485: Remote Sensing on a Monday
+
+date: 2025-03-20, from: NASA breaking news
+
+Written by Conor Hayes, Graduate Student at York University Earth planning date: Monday, March 17, 2025 Last week I was in Houston, Texas, at the Lunar and Planetary Science Conference. The mid-March weather in Houston is often more like mid-summer weather here in Toronto, so it has been a bit of a shock coming home […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4484-4485-remote-sensing-on-a-monday/>
+
+---
+
+## NASA Selects 14 Finalist Teams for the 2025 RASC-AL Competition
+
+date: 2025-03-20, from: NASA breaking news
+
+Fourteen university teams have been selected as finalists for NASA’s 2025 Revolutionary Aerospace Systems &#8211; Academic Linkage (RASC-AL) Competition. This year’s competition invited undergraduate and graduate students from across the nation to develop new, innovative concepts to improve our ability to operate on the Moon, Mars, and beyond. Finalists will present their proposed concepts to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-selects-14-finalist-teams-for-the-2025-rasc-al-competition/>
+
+---
+
+## Privacy warriors whip out GDPR after ChatGPT wrongly accuses dad of child murder
+
+date: 2025-03-20, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Tough Euro rules on data accuracy apply to AI yammering, formal complaint to watchdog argues</h4> <p>​A Norwegian man was shocked when ChatGPT falsely claimed in a conversation he murdered his two sons and tried to kill a third - mixing in real details about his personal life.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/chatgpt_accuses_man_of_murdering/>
+
+---
+
+## Memory safety for web fonts in Chrome: Google replaces FreeType with Rust-based alternative
+
+date: 2025-03-20, from: OS News
+
+There&#8217;s no escaping Rust, and the language is leaving its mark everywhere. This time around, Chrome has replaced its use of FreeType with Skrifa, a Rust-based replacement. Skrifa is written in Rust, and created as a replacement for FreeType to make font processing in Chrome secure for all our users. Skifra takes advantage of Rust&#8217;s memory safety, and lets us iterate faster on font technology improvements in Chrome. Moving from FreeType to Skrifa allows us to be both agile and fearless when making changes to our font code. We now spend far less time fixing security bugs, resulting in faster updates, and better code quality. ↫ Dominik Röttsches, Rod Sheeter, and Chad Brokaw The move to Skrifa is already complete, and it&#8217;s being used now by Chrome users on Linux, Android, and ChromeOS, and as a fallback for users on Windows and macOS. The reasons for this change are the same as they always are for replacing existing tools with new tools written in Rust: security. FreeType is a security risk for Chrome, and by replacing it with something written in a memory-safe language like Rust, Google was able to eliminate a whole slew of types of security issues. To ensure rendering correctness, Google performed a ton of pixel comparison tests to compare FreeType output to Skrifa output. On top of that, Google is continuously running similar tests to ensure no quality degradation sneaks into Skrifa as time progresses. Whether anyone likes Rust or not, the reality of the matter is that using Rust provides tangible benefits that reduce cost and lower security risks, and as such, its use will keep increasing, and tried and true tools will continue to be replaced by Rust counterparts. 
+
+<br> 
+
+<https://www.osnews.com/story/141963/memory-safety-for-web-fonts-in-chrome-google-replaces-freetype-with-rust-based-alternative/>
+
+---
+
+## I think we need a bigger boot partition
+
+date: 2025-03-20, from: OS News
+
+Long ago, during the time of creation, I confidently waved my hand and allocated a 1GB ESP partition and a 1GB boot partition, thinking to myself with a confident smile that this would surely be more than enough for the foreseeable future. However, this foreseeable future quickly vanished along with my smile. What was bound to happen eventually came, but I didn’t expect it to arrive so soon. What could possibly require such a large boot partition? And how should we resolve this? Here, I would like to introduce the boot partition issue I encountered, as well as temporary coping methods and final solutions, mentioning the problems encountered along the way for reference. ↫ fernvenue Some of us will definitely run into this issue at some point, so if you&#8217;re doing a fresh installation it might make sense to allocate a bit more space to your boot partition. If you have a running system and are bumping into the limitations of your boot partition and don&#8217;t want to reinstall, the linked article provides some possible solutions. 
+
+<br> 
+
+<https://www.osnews.com/story/141961/i-think-we-need-a-bigger-boot-partition/>
+
+---
+
+## Infoseccers criticize Veeam over critical RCE vulnerability and a failing blacklist
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Palming off the blame using an ‘unknown’ best practice didn’t go down well either</h4> <p>In patching the latest critical remote code execution (RCE) bug in Backup and Replication, software shop Veeam is attracting criticism from researchers for the way it handles uncontrolled deserialization vulnerabilities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/infoseccers_criticize_veeam_over_critical/>
+
+---
+
+## The Earth Observer Editor’s Corner: January–March 2025
+
+date: 2025-03-20, from: NASA breaking news
+
+NASA’s Earth Observing fleet continues to age gracefully. While several new missions have joined the fleet in the past year, scientists and engineers work to extend the life of existing missions and maximize their science along the way. The crowning example is the first Earth Observing System (EOS) Flagship mission, Terra, which celebrated a quarter-century […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/the-earth-observer-editors-corner-january-march-2025/>
+
+---
+
+## Celebrating 25 Years of Terra
+
+date: 2025-03-20, from: NASA breaking news
+
+Expanded coverage of topics from “The Editor’s Corner” in The Earth Observer On December 18, 2024, Terra—the first EOS Flagship mission celebrated the 25th anniversary of its launch from Vandenberg Space Force (then Air Force) Base. Some 70 individuals gathered at the Goddard Space Flight Center’s (GSFC) Visitor Center to celebrate this remarkable achievement for the […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/celebrating-25-years-of-terra/>
+
+---
+
+## How NASA’s “Autonomy Choreography” Will Impact Advanced Technologies
+
+date: 2025-03-20, from: NASA breaking news
+
+Imagine your car is in conversation with other traffic and road signals as you travel. Those conversations help your car anticipate actions you can’t see: the sudden slowing of a truck as it begins to turn ahead of you, or an obscured traffic signal turning red. Meanwhile, this system has plotted a course that will [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/how-nasas-autonomy-choreography-will-impact-advanced-technologies/>
+
+---
+
+## Hubble Sees a Spiral and a Star
+
+date: 2025-03-20, from: NASA breaking news
+
+This NASA/ESA&#160;Hubble Space Telescope&#160;image features a sparkling spiral galaxy paired with a prominent star, both in the constellation Virgo. While the galaxy and the star appear to be close to one another, even overlapping, they’re actually a great distance apart. The star, marked with four long diffraction spikes, is in our own galaxy. It’s just [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/hubble-sees-a-spiral-and-a-star/>
+
+---
+
+## Students Explore Technical Careers at NASA
+
+date: 2025-03-20, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland welcomed more than 150 students and educators to showcase technical careers, inspire the next generation, and ignite a passion for learning during a Career Technical Education program March 11. “Here at Glenn Research Center, we love what we do, and we love to share what we do,” said Dawn [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/glenn/students-explore-technical-careers-at-nasa/>
+
+---
+
+## Tesla Cybertruck recall #8: Exterior trim peels itself off, again
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Not even the parts want to be associated with Elon&#39;s steel monster</h4> <p>Tesla has issued its eighth Cybertruck recall, this time over exterior trim panels that risk detaching while driving - the second time loose body trim has triggered a safety fix.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/tesla_cybertruck_recall/>
+
+---
+
+## The FireSense Project
+
+date: 2025-03-20, from: NASA breaking news
+
+Expanded coverage of topics from “The Editor’s Corner” in The Earth Observer Wind is a major factor in fire. It controls how fires evolve and pose threats to the safety of communities. Traditionally, data from weather balloons have been used to produce vertical soundings to define changes in atmospheric dynamics. However, their use is restricted during […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/the-firesense-project/>
+
+---
+
+## Kaye Honored with Pecora Award
+
+date: 2025-03-20, from: NASA breaking news
+
+Expanded coverage of topics from “The Editor’s Corner” in The Earth Observer Jack Kaye [NASA Headquarters—Associate Director for Research of the Earth Science Division] has received the 2024 William T. Pecora Award award for his vision and creative leadership in multidisciplinary Earth science research, as well as for spurring advancements in the investigator community, supporting development […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/kaye-honored-with-pecora-award/>
+
+---
+
+## Big Red, Microsoft roll out Azure database services for more mainstream Oracle users
+
+date: 2025-03-20, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Enterprise Edition to be offered on OCI inside Redmond&#39;s cloud</h4> <p>Oracle is expanding its database services on hyperscale clouds outside of its muscle-car Exadata system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/oracle_microsoft_enterprise_db_azure/>
+
+---
+
+## Photoshop FOSS alternative GIMP wakes up from 7-year coma with version 3.0
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, open source video codec Ogg Theora stirs in its crypt</h4> <p>After a seven-year nap, version 3.0 of FOSS image editor GIMP is arriving with a splash, while a long-dormant open video format wakes from its slumbers and lumbers into beta.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/gimp_3_and_photogimp/>
+
+---
+
+## NASA Uses Advanced Radar to Track Groundwater in California
+
+date: 2025-03-20, from: NASA breaking news
+
+NASA’s radar-equipped jet is detecting ground movements to track snowmelt’s journey into California’s depleted groundwater aquifers. 
+
+<br> 
+
+<https://science.nasa.gov/earth/nasa-uses-advanced-radar-to-track-groundwater-in-california/>
+
+---
+
+## Boeing's Starliner future uncertain as NASA weighs next steps
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Fix testing to stretch into the summer. When will aerospace giant decide enough is enough?</h4> <p><strong>Comment</strong>  The return of Crew-9 from the International Space Station (ISS) in a Crew Dragon has raised the question of what the future holds for Boeing&#39;s Calamity Capsule, also known as the CST-100 Starliner.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/boeing_starliner_whats_next/>
+
+---
+
+## How Did Multicellular Life Evolve?
+
+date: 2025-03-20, from: Quanta Magazine
+
+One of the most important events in the history of life on Earth was the emergence of multicellularity. In this episode, Will Ratcliff discusses how his snowflake yeast models provide insight into what drove the transition from single-celled to multicellular organisms.             <p>The post <a href="https://www.quantamagazine.org/how-did-multicellular-life-evolve-20250320/" target="_blank">How Did Multicellular Life Evolve?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-did-multicellular-life-evolve-20250320/>
+
+---
+
+## Euro semi firms push for 'Chips Act 2.0' to expand beyond manufacturing
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Industry leaders want broader strategy, citing supply chain gaps, investment needs, and global trade uncertainty</h4> <p>European chipmakers want local politicians to look beyond the region&#39;s Chips Act and do more to support research and development, materials, and design, not just manufacturing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/european_chips_act_2/>
+
+---
+
+## Too many software supply chain defense bibles? Boffins distill advice
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>How to avoid another SolarWinds, Log4j, and XZ Utils situation</h4> <p>Organizations concerned about software supply chain attacks should focus on role-based access control, system monitoring, and boundary protection, according to a new preprint paper on the topic.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/software_supply_chain_defense/>
+
+---
+
+## The post-quantum cryptography apocalypse will be televised in 10 years, says UK's NCSC
+
+date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+
+<h4>Wow, a government project that could be on time for once ... cos it&#39;s gonna be wayyyy more than a decade</h4> <p>The UK&#39;s National Cyber Security Centre (NCSC) today started the post-quantum cryptography (PQC) countdown clock by claiming organizations have ten years to migrate to a safer future.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/20/ncsc_post_quantum_cryptogrpahy/>
 
 ---
 
@@ -119,9 +527,9 @@ date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
 
 ## It looks like IBM is cutting jobs again, with Classic Cloud hit hard
 
-date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+date: 2025-03-20, updated: 2025-03-21, from: The Register (UK I.T. News)
 
-<h4>We&#39;re told thousands may soon get a pink slip from Big Blue</h4> <p>IBM insiders believe Big Blue is laying off thousands of people at various locations around the US, including a quarter of staff the company&#39;s Cloud Classic operation.…</p> 
+<h4>We&#39;re told thousands may soon get a pink slip from Big Blue</h4> <p>IBM insiders believe Big Blue is laying off thousands of people at various locations around the US, including a quarter of staff at the corp&#39;s Cloud Classic operation.…</p> 
 
 <br> 
 
@@ -227,7 +635,7 @@ The high-rise bridge that serves as the primary access point for employees and v
 
 ## EU says Google scroogles app makers, also gives Apple an antitrust must-do-list
 
-date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+date: 2025-03-19, updated: 2025-03-21, from: The Register (UK I.T. News)
 
 <h4>Chrome colossus accused of tilting search results, blocking cheaper purchases, while iTitan told to open iOS</h4> <p>A year after kicking off its probe into three American tech giants, the European Union has fired off two sets of preliminary findings accusing Google parent Alphabet of failing to comply with Europe&#39;s monopoly-busting Digital Markets Act (DMA).…</p> 
 
@@ -287,7 +695,7 @@ NASA astronaut Butch Wilmore, left, Roscosmos cosmonaut Aleksandr Gorbunov, seco
 
 ## Nvidia invests in quantum computing weeks after CEO said it's decades from being useful
 
-date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+date: 2025-03-19, updated: 2025-03-21, from: The Register (UK I.T. News)
 
 <h4>Qubit awkward, you might say</h4> <p><strong>GTC</strong>  Nvidia is investing in a research center to advance quantum computing development, just weeks after its head honcho torpedoed the share price of quantum firms by declaring the tech is decades away from being useful.…</p> 
 

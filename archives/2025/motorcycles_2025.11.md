@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-03-20 06:09:01
+updated: 2025-03-21 06:07:49
 ---
 
 # motorcycles
 
-(date: 2025-03-20 06:09:01)
+(date: 2025-03-21 06:07:49)
+
+---
+
+## Bimota’s Ridiculous KB4RC Is Finally About To Go On Sale
+
+date: 2025-03-21, from: Ride Apart, Electric Motorcycle News
+
+No doubt it attracts attention, but is it up your alley? 
+
+<br> 
+
+<https://www.rideapart.com/news/754060/bimota-kb4rc-on-sale/>
+
+---
+
+## BRP Is Recalling Some Ski-Doo and Lynx Snowmobiles For Crash Hazard
+
+date: 2025-03-21, from: Ride Apart, Electric Motorcycle News
+
+All affected models are from the 2025 model year. 
+
+<br> 
+
+<https://www.rideapart.com/news/754180/brp-skidoo-lynx-snowmobile-recall/>
+
+---
+
+## Triumph Wants You To Customize Its Bikes, Holds Custom Contest In France
+
+date: 2025-03-21, from: Ride Apart, Electric Motorcycle News
+
+Because sometimes, stock isn’t always the best. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754078/triumph-custom-contest-2025-france/>
+
+---
+
+## MotoGP's Championship Could Come Down to a Race Between Two Brothers
+
+date: 2025-03-21, from: Ride Apart, Electric Motorcycle News
+
+I don't think it's a bad thing.  
+
+<br> 
+
+<https://www.rideapart.com/news/753942/motogp-championship-two-marquez-brothers/>
+
+---
+
+## The Honda Koraidon Project Is Everything I Wanted As A Child
+
+date: 2025-03-20, from: Ride Apart, Electric Motorcycle News
+
+Somewhere, tiny past-timeline me is absolutely shrieking with delight that this exists. 
+
+<br> 
+
+<https://www.rideapart.com/news/754046/honda-koraidon-project-bts-video/>
 
 ---
 
