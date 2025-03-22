@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-03-21 06:07:44
+updated: 2025-03-22 06:07:26
 ---
 
 # pacific
 
-(date: 2025-03-21 06:07:44)
+(date: 2025-03-22 06:07:26)
+
+---
+
+## Will Guam forfeit unliquidated Covid funds awarded to education agency?
+
+date: 2025-03-21, from: Pacific Island Times
+
+The fate of the Guam Department of Education’s unliquidated Covid-era federal grants hangs in the balance amid the impending dissolution of  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/will-guam-forfeit-unliquidated-covid-funds-awarded-to-education-agency>
 
 ---
 
@@ -2495,4 +2507,167 @@ Hydrology experts at Flinders University in Australia are seeking further study 
 <br> 
 
 <https://www.pacificislandtimes.com/post/hydrology-experts-seek-deeper-study-on-freshwater-extraction-in-pacific-islands>
+
+---
+
+## Young Democrats’ anger boils over as Schumer retreats on shutdown
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>Sen. Chuck Schumer&#8217;s sudden decision Thursday to support a Republican-written bill to avert a government shutdown so enraged his fellow Democrats that some were already talking about primary challenges to the 74-year-old Democratic leader from New York.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/young-democrats-anger-boils-over-as-schumer-retreats-on-shutdown/>
+
+---
+
+## Senate approves spending bill to avert government shutdown
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate on Friday narrowly averted a government shutdown at midnight, passing a GOP-written stopgap spending measure after Minority Leader Chuck Schumer of New York and a small group of Democrats joined Republicans in allowing it to advance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/senate-approves-spending-bill-to-avert-government-shutdown/>
+
+---
+
+## Senators grill Oz on Medicaid cuts and Medicare changes
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>In a hearing Friday, senators pressed Dr. Mehmet Oz, the TV celebrity nominated to head Medicare and Medicaid, on Republican-led proposals that would significantly affect the health care coverage for nearly half of all Americans.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/senators-grill-oz-on-medicaid-cuts-and-medicare-changes/>
+
+---
+
+## Stuck NASA astronauts one step closer to home after SpaceX crew-swap launch
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; NASA and SpaceX on Friday launched a long-awaited crew to the International Space Station that opens the door to bringing home U.S. astronauts Butch Wilmore and Suni Williams, who have been stuck on the orbital lab for nine months.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/stuck-nasa-astronauts-one-step-closer-to-home-after-spacex-crew-swap-launch/>
+
+---
+
+## Putin demands Ukrainian troops in Kursk region of Russia surrender
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>BERLIN &#8212; President Vladimir Putin of Russia on Friday insisted that Ukraine order some of its forces to surrender to Russia, a striking demand made hours after President Donald Trump said the United States had &#8220;very good and productive&#8221; discussions with Putin about a potential ceasefire in Ukraine.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/putin-demands-ukrainian-troops-in-kursk-region-of-russia-surrender/>
+
+---
+
+## Challenged by Trump, Trudeau rallies Canada as his final act
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>OTTAWA, Ontario &#8212; It was not even three months ago when it seemed like Canadians couldn&#8217;t wait for an end to Prime Minister Justin Trudeau&#8217;s nearly decade-long stint as their leader. On Jan. 6, he announced his intention to step down, with polls showing most Canadians deeply unhappy with the state of their country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/challenged-by-trump-trudeau-rallies-canada-as-his-final-act/>
+
+---
+
+## Trump administration opens leak investigations
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration has opened its first known investigations into what it called &#8220;politically motivated leaks,&#8221; fulfilling promises to pursue the sources of stories involving national security revelations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/trump-administration-opens-leak-investigations/>
+
+---
+
+## Duterte appears in court in The Hague via video after arrest
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>In a scenario once considered unthinkable for a head of state who presided over the public and brutal killings of thousands of civilians, Rodrigo Duterte, the former president of the Philippines, appeared at an International Criminal Court hearing via a video link Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/duterte-appears-in-court-in-the-hague-via-video-after-arrest/>
+
+---
+
+## Tropical Gardening: Mulches help to build soils and conserve water
+
+date: 2025-03-15, from: Hawaii Tribune Harold
+
+
+				<p>After 45 years of living in the cool mountain mists of Kaloko Mauka&#8217;s Kona Cloud Forest Sanctuary, we have decided to move.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/15/features/tropical-gardening-mulches-help-to-build-soils-and-conserve-water/>
+
+---
+
+## Business group says Guam's fragile economy calls for fiscal prudence, tax relief
+
+date: 2025-03-15, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   The governor’s call for the expansion of tax relief for small enterprises “is a positive step” but not enough to... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/business-group-says-guam-s-fragile-economy-requires-fiscal-prudence-tax-relief>
+
+---
+
+## President Hensel: Federal policies pose major challenges for UH
+
+date: 2025-03-15, from: University of Hawaiʻi News
+
+<p>Hensel provided a stark update on the impact of new federal policies during a March 13 open forum, which was live-streamed to more than 1,000 viewers and more than 220 in-person attendees.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/14/hensel-federal-policies-major-challenges/">President Hensel: Federal policies pose major challenges for <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/14/hensel-federal-policies-major-challenges/>
+
+---
+
+## US Senate passes bill to avert shutdown, House Democrats turn on Schumer
+
+date: 2025-03-15, updated: 2025-03-16, from: Marianas Variety
+
+WASHINGTON (Reuters) — The U.S. Senate on Friday passed a stopgap spending bill, averting a partial government shutdown, after Democrats backed down in a standoff driven by anger over President Donald Trump's campaign to slash the federal workforce. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/us-senate-passes-bill-to-avert-shutdown-house-democrats-turn-on-schumer/article_89f24e3a-013a-11f0-a363-0764923a2172.html>
 

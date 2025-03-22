@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-03-21 06:07:49
+updated: 2025-03-22 06:07:31
 ---
 
 # motorcycles
 
-(date: 2025-03-21 06:07:49)
+(date: 2025-03-22 06:07:31)
+
+---
+
+## Can-Am's Futuristic Pulse and Origin Win iF Design Award, Much Deserved
+
+date: 2025-03-21, from: Ride Apart, Electric Motorcycle News
+
+Are we looking at the future? 
+
+<br> 
+
+<https://www.rideapart.com/news/754065/can-am-pulse-origin-win-if-design-award/>
+
+---
+
+## Ducati’s Limited-Edition Panigale V4 Tricolore Italia Is the Most Italian Thing Ever
+
+date: 2025-03-21, from: Ride Apart, Electric Motorcycle News
+
+It's like eating a spaghetti pizza.  
+
+<br> 
+
+<https://www.rideapart.com/news/754195/limited-edition-panigale-v4-tricolore-2025/>
+
+---
+
+## Could This Obscure EV Dirtbike From Germany Be The Next Big Thing?
+
+date: 2025-03-21, from: Ride Apart, Electric Motorcycle News
+
+The EMX30 is designed to be ridden hard and go toe-to-toe with 250cc and 450cc MX machines.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754100/grizzlar-electric-dirtbike-specs-features-coming-soon/>
 
 ---
 
@@ -388,4 +425,41 @@ It doesn’t help that it’s a JDM exclusive.
 <br> 
 
 <https://www.rideapart.com/news/753503/yamaha-xsr900-ceramic-ivory-japan-only/>
+
+---
+
+## 2025 ARCA West at Phoenix: Team Reactions and Analysis
+
+date: 2025-03-15, from: Kickin the Tires blog
+
+&#160;By Vincent Delforge, Staff Writer The second race of the 2025 season, the General Tire 150, held on the one-mile paved oval at Phoenix Raceway in Avondale, AZ, featured a&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/2025-arca-west-at-phoenix-team-reactions-and-analysis/>
+
+---
+
+## A Supermoto Stark Varg Is In The Works, and It’ll Come To the US
+
+date: 2025-03-15, from: Ride Apart, Electric Motorcycle News
+
+A full-size, all-electric supermoto sounds like a total blast to ride.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/753505/stark-varg-ex-sm-coming-to-us/>
+
+---
+
+## Four The Win, Christopher Bell Looks To Extend His NASCAR Winning Streak
+
+date: 2025-03-15, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor LAS VEGAS – Coming off his third trip to NASCAR Victory Lane in a row – Atlanta, COTA and Phoenix – Joe Gibbs Racing driver Christopher&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/four-the-win-christopher-bell-looks-to-extend-his-nascar-winning-streak/>
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-03-21 06:07:49
+updated: 2025-03-22 06:07:31
 ---
 
 # retro computing
 
-(date: 2025-03-21 06:07:49)
+(date: 2025-03-22 06:07:31)
+
+---
+
+## The CRPG Renaissance, Part 5: Fallout 2 and Baldur’s Gate
+
+date: 2025-03-21, from: Digital Antiquarian
+
+As we learned in the earlier articles in this series, Interplay celebrated the Christmas of 1997 with two new CRPGs. One of them, the striking post-apocalyptic exercise called Fallout, was greeted with largely rave reviews. The other, of course, was the far less well-received licensed Dungeons &#38; Dragons game called Descent to Undermountain. The company [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/03/the-crpg-renaissance-part-5-fallout-2-and-baldurs-gate/>
 
 ---
 
@@ -95,17 +107,17 @@ date: 2025-03-20, from: Low-tech magazine
 <p>The carbon footprint and wood consumption of an individual book only tell a part of the story. Most environmental damage in the book industry is done by overproduction. A very large number of printed books are not sold but discarded before anyone can read them. Overproduction occurs in two ways. First, most books that come on the market fail commercially, which is a consequence of the business strategies of book publishers. <sup id="fnref:7"><a href="#fn:7" class="footnote-ref" role="doc-noteref">7</a></sup> Large publishers invest in a massive number of titles in the hope that one will become a bestseller.</p>
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/images/dithers/IMG_9514_dithered.png" alt='Image: The Compressed Book Edition (hardcover). Image by Marie Verdeil and Hugo Lopez.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/images/dithers/IMG_9514_dithered.png" alt='Image: The Compressed Book Edition (paperback). Image by Marie Verdeil and Hugo Lopez.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: The Compressed Book Edition (hardcover). Image by Marie Verdeil and Hugo Lopez. 
+ Image: The Compressed Book Edition (paperback). Image by Marie Verdeil and Hugo Lopez. 
 </figcaption>
 </div>
 </div>
 <div class="article-img ">
 <figure data-imgstate="dither">
-<img src="https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/images/dithers/IMG_9529_dithered.png" alt='Image: The Compressed Book Edition (hardcover). Image by Marie Verdeil and Hugo Lopez.' loading="lazy"/></figure>
+<img src="https://solar.lowtechmagazine.com/2025/03/the-compressed-book-edition/images/dithers/IMG_9529_dithered.png" alt='Image: The Compressed Book Edition (paperback). Image by Marie Verdeil and Hugo Lopez.' loading="lazy"/></figure>
 <figcaption class="caption">
- Image: The Compressed Book Edition (hardcover). Image by Marie Verdeil and Hugo Lopez. 
+ Image: The Compressed Book Edition (paperback). Image by Marie Verdeil and Hugo Lopez. 
 </figcaption>
 </div>
 </div>

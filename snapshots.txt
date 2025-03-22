@@ -265,3 +265,5 @@ https://guykawasaki.substack.com/feed "~Guy Kawasaki blog"
 https://bsky.app/profile/did:plc:fuovrvjiloafdym65x3oloqc/rss "~Feed for Alt USDS"
 https://tech.chrishardie.com/feed/ "~Charlie Hardie blog"
 https://thelibre.news/rss/ "~Libre News"
+
+https://hakaimagazine.com/feed/ "~Hakai Magazine"

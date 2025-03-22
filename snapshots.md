@@ -1,11 +1,363 @@
 ---
 title: snapshots
-updated: 2025-03-21 06:07:52
+updated: 2025-03-22 06:07:34
 ---
 
 # snapshots
 
-(date: 2025-03-21 06:07:52)
+(date: 2025-03-22 06:07:34)
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-21, from: Feed for Alt USDS)
+
+I dedicated my career to the VA, welcomed new employees, revamped programs, and received stellar reviews—then, without warning, I was fired. No appeal, no due process. This is happening across the federal workforce. Who’s next? 🚨💼
+🔗 Read more: https://www.wethebuilders.org/posts/discharged-as-unworthy
+
+#VA #Project2025 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkwcvmmzrj2g>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-21, from: Tomosino's Mastodon feed)
+
+<p>I'm in the process of setting up 1Password for work, which comes with 1Password Family plan stuff, so it looks like I'm migrating off Bitwarden.</p><p>As you might know, I store my ssh key passwords in my password manager. That lets me have unique keys for everything i log into, and unique passwords for every key. It's a nice little homebrew system. </p><p>I write a little wrapper script to help me load up keys into ssh-agent and I needed a new one for 1Password. Here it is - <a href="https://github.com/jamestomasino/opssh" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">github.com/jamestomasino/opssh</span><span class="invisible"></span></a></p><p>Here's a video I made about this setup from back when I was using LastPass - <a href="https://youtu.be/HUNaRMvcAcA?si=jLH-EQWosvdWCHVU" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">youtu.be/HUNaRMvcAcA?si=jLH-EQ</span><span class="invisible">WosvdWCHVU</span></a></p><p>(somehow this one vid never made it onto <span class="h-card" translate="no"><a href="https://mstdn.social/@tilvids" class="u-url mention" rel="nofollow noopener" target="_blank">@<span>tilvids</span></a></span> )</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114202712264583158>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+&quot;I don&#39;t regret the vote&quot;: Why most Trump voters stand by him, even as he ruins their lives. 
+
+<br> 
+
+<https://www.salon.com/2025/03/21/i-dont-regret-the-vote-why-most-stand-by-him-even-as-he-ruins-their-lives/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+Acting head threatens to shut down Social Security after court ruling. 
+
+<br> 
+
+<https://wapo.st/4bM5d89>
+
+---
+
+## Swift Testing Proposal: Exit Tests
+
+date: 2025-03-21, from: Michael Tsai
+
+ST-0008: One of the first enhancement requests we received for Swift Testing was the ability to test for precondition failures and other critical failures that terminate the current process when they occur. [&#8230;] This proposal introduces new overloads of the #expect() and #require() macros that take, as an argument, a closure to be executed in [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/21/swift-testing-proposal-exit-tests/>
+
+---
+
+## SwiftUI Fundamentals
+
+date: 2025-03-21, from: Michael Tsai
+
+Natalia Panferova (tweet): This book distills the core principles and foundational concepts behind SwiftUI, the modern UI framework for building apps across Apple platforms. My goal is to help you go beyond surface-level understanding and develop a deep, practical knowledge of how SwiftUI works under the hood. SwiftUI provides a simple, declarative way to build [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/21/swiftui-fundamentals/>
+
+---
+
+## Apple Shifts Siri From Giannandrea to Rockwell
+
+date: 2025-03-21, from: Michael Tsai
+
+John Gruber (Mastodon): Whole Reddit thread examining this simple question: &#8220;What month is it?&#8221; and Siri&#8217;s &#8220;I&#8217;m sorry, I don&#8217;t understand&#8221; response (which I just reproduced on my iPhone 16 Pro running iOS 18.4b4). One guy changed the question to &#8220;What month is it currently?&#8221; and got the answer &#8220;It is 2025.&#8221; David Price: I&#8217;d [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/21/apple-shifts-siri-from-giannandrea-to-rockwell/>
+
+---
+
+## Vibe Coding
+
+date: 2025-03-21, from: Michael Tsai
+
+Andrej Karpathy: There&#8217;s a new kind of coding I call &#8220;vibe coding&#8221;, where you fully give in to the vibes, embrace exponentials, and forget that the code even exists. It&#8217;s possible because the LLMs (e.g. Cursor Composer w Sonnet) are getting too good. Also I just talk to Composer with SuperWhisper so I barely even [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/21/vibe-coding/>
+
+---
+
+## LogUI 1.0
+
+date: 2025-03-21, from: Michael Tsai
+
+Howard Oakley: For most, Console isn&#8217;t the right tool. It only offers the options of viewing its live stream, or making an archive of the whole log and wading through that when you need to look at an event in the past. Although my log browser Ulbow gives much better access, for many it&#8217;s still [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/21/logui-1-0/>
+
+---
+
+## Two Decades of Bjango
+
+date: 2025-03-21, from: Michael Tsai
+
+Bjango: In the beginning, Bjango was just a couple of friends making free OS X Dashboard widgets. We started working on those widgets prior to OS X 10.4 Tiger&#8217;s release on 29 April 2005, so my best guess is we started working together some time in March 2005.After releasing a few successful widgets, we moved [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/21/two-decades-of-bjango/>
+
+---
+
+## Apple Under German Antitrust Scrutiny
+
+date: 2025-03-21, from: Michael Tsai
+
+Karin Matussek (Hacker News): The judges on Tuesday said the Federal Cartel Office was right to find that the iPhone maker&#8217;s footprint across markets meets the threshold for more oversight.[&#8230;]Apple was attempting to topple a May 2023 decision by the German antitrust watchdog, which subjected it to the so-called 19a rules on the grounds that [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/21/apple-under-german-antitrust-scrutiny/>
+
+---
+
+## The "think" tool: Enabling Claude to stop and think in complex tool use situations
+
+date: 2025-03-21, updated: 2025-03-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/engineering/claude-think-tool">The &quot;think&quot; tool: Enabling Claude to stop and think in complex tool use situations</a></strong></p>
+Fascinating new prompt engineering trick from Anthropic. They use their standard tool calling mechanism to define a tool called "think" that looks something like this:</p>
+<div class="highlight highlight-source-json"><pre>{
+  <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>think<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"description"</span>: <span class="pl-s"><span class="pl-pds">"</span>Use the tool to think about something. It will not obtain new information or change the database, but just append the thought to the log. Use it when complex reasoning or some cache memory is needed.<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"input_schema"</span>: {
+    <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>object<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"properties"</span>: {
+      <span class="pl-ent">"thought"</span>: {
+        <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>string<span class="pl-pds">"</span></span>,
+        <span class="pl-ent">"description"</span>: <span class="pl-s"><span class="pl-pds">"</span>A thought to think about.<span class="pl-pds">"</span></span>
+      }
+    },
+    <span class="pl-ent">"required"</span>: [<span class="pl-s"><span class="pl-pds">"</span>thought<span class="pl-pds">"</span></span>]
+  }
+}</pre></div>
+
+<p>This tool <em>does nothing at all</em>.</p>
+<p>LLM tools (like <a href="https://simonwillison.net/2025/Mar/21/anthropic-use-brave/">web_search</a>) usually involve some kind of implementation - the model requests a tool execution, then an external harness goes away and executes the specified tool and feeds the result back into the conversation.</p>
+<p>The "think" tool is a no-op - there is no implementation, it just allows the model to use its existing training in terms of when-to-use-a-tool to stop and dump some additional thoughts into the context.</p>
+<p>This works completely independently of the new "thinking" mechanism introduced <a href="https://simonwillison.net/2025/Feb/25/llm-anthropic-014/#extended-thinking-mode">in Claude 3.7 Sonnet</a>.</p>
+<p>Anthropic's benchmarks show impressive improvements from enabling this tool. I fully anticipate that models from other providers would benefit from the same trick.
+
+    <p><small></small>Via <a href="https://x.com/alexalbert__/status/1903130655564922911">@alexalbert__</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/21/the-think-tool/#atom-everything>
+
+---
+
+## Lilbits: Lenovo Legion Go S with SteamOS, Calibre 8.0, and Gemini Nano XXS (and some daily deals)
+
+date: 2025-03-21, from: Liliputing
+
+<p>One of the reasons the Steam Deck continues to be one of the most popular handheld gaming PCs several years after launch is that it runs Valve&#8217;s SteamOS software that was built from the ground up for handhelds. So even though there are newer devices that arguably have better hardware, many people feel the Steam [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-lenovo-legion-go-s-with-steamos-calibre-8-0-and-gemini-nano-xxs/">Lilbits: Lenovo Legion Go S with SteamOS, Calibre 8.0, and Gemini Nano XXS (and some daily deals)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-lenovo-legion-go-s-with-steamos-calibre-8-0-and-gemini-nano-xxs/>
+
+---
+
+## Facebook Pirated my Books
+
+date: 2025-03-21, from: Stephen Smith's blog
+
+Introduction The Atlantic has an interesting story on all the books Meta/Facebook pirated to train their Llama 3 AI model. The story includes a tool where you can enter an Author’s name and get a list of pirated books. For me, my three ARM Assembly Language programming books came up; This means Facebook used my [&#8230;] 
+
+<br> 
+
+<https://smist08.wordpress.com/2025/03/21/facebook-pirated-my-books/>
+
+---
+
+## Emdoor xCaim Laptop has a tiny AI module with sensor and second-screen functions
+
+date: 2025-03-21, from: Liliputing
+
+<p>Most PC makers are pushing the AI capabilities of their latest laptop, desktop and other computers these days. But for the most part they&#8217;re doing that by highlighting software experiences or the on-device processing features enabled by the latest mobile processors. But Chinese Chinese PC maker Emdoor has added an extra element to the design of [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/emdoor-xcaim-laptop-has-a-tiny-ai-module-with-sensor-and-second-screen-functions/">Emdoor xCaim Laptop has a tiny AI module with sensor and second-screen functions</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/emdoor-xcaim-laptop-has-a-tiny-ai-module-with-sensor-and-second-screen-functions/>
+
+---
+
+## Faster horses
+
+date: 2025-03-21, from: Status-Q blog
+
+I do like collecting quotations.  Here are some of the references to them on this blog, and I also have a collection of favourites here. But one thing you quickly discover, if you dig a little deeper, is that a large proportion of the most popular favourites cannot be traced reliably to the people to <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/03/21/13107/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/03/21/13107/>
+
+---
+
+## Acer Go Air is a 2.2 pound laptop with up to an Intel Core 7 240H Raptor Lake processor
+
+date: 2025-03-21, from: Liliputing
+
+<p>Earlier this year Acer introduced a new Acer Swift Go laptop with a 14 inch display, an Intel Core Ultra 200H processor and a starting weight of 1.3 kg (or about 2.9 pounds). Now the company has unveiled an even lighter-weight model. The new Acer Go Air (2025) laptop weighs just 999 grams (about 2.2 [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/acer-go-air-is-a-2-2-pound-laptop-with-up-to-an-intel-core-7-240h-raptor-lake-processor/">Acer Go Air is a 2.2 pound laptop with up to an Intel Core 7 240H Raptor Lake processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/acer-go-air-is-a-2-2-pound-laptop-with-up-to-an-intel-core-7-240h-raptor-lake-processor/>
+
+---
+
+## Washington Knew Business Differs From Government
+
+date: 2025-03-21, from: Guy Kawasaki blog
+
+Eliga Gould, University of New Hampshire. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/washington-knew-business-differs>
+
+---
+
+## Porn
+
+date: 2025-03-21, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>Pornography is the McDonald’s of sex — fast, convenient, and utterly divorced from nutrition. —Anonymous I was at Mobile World Congress in Barcelona earlier this month. A young man, married with two kids, who founded a tech firm, approached me and asked if I’d mentor him.  “Boss, you should mentor me. I mentor young men [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/porn/">Porn</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/porn/>
+
+---
+
+## Occupied
+
+date: 2025-03-21, updated: 2025-03-21, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/21/occupied/>
+
+---
+
+## Anthropic Trust Center: Brave Search added as a subprocessor
+
+date: 2025-03-21, updated: 2025-03-21, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://app.vanta.com/anthropic/trust/iz673w96495gyjer8h78n/updates">Anthropic Trust Center: Brave Search added as a subprocessor</a></strong></p>
+Yesterday I was <a href="https://simonwillison.net/2025/Mar/20/claude-can-now-search-the-web/">trying to figure out</a> if Anthropic has rolled their own search index for Claude's new web search feature or if they were working with a partner. Here's confirmation that they are using <a href="https://search.brave.com/">Brave Search</a>:</p>
+<blockquote>
+<p>Anthropic's subprocessor list. As of March 19, 2025, we have made the following changes:</p>
+<p>Subprocessors added:</p>
+<ul>
+<li>Brave Search (<a href="https://support.anthropic.com/en/articles/10684626-enabling-and-using-web-search">more info</a>)</li>
+</ul>
+</blockquote>
+<p>That "more info" links to the help page for their new web search feature.</p>
+<p>I confirmed this myself by prompting Claude to "<a href="https://claude.ai/share/e2beb581-b6ad-49b4-9d64-11e4691b8941">Search for pelican facts</a>" - it ran a search for "Interesting pelican facts" and the ten results it showed as citations were an exact match for <a href="https://search.brave.com/search?q=interesting+pelican+facts">that search on Brave</a>.</p>
+<p>And further evidence: if you <a href="https://claude.ai/share/45348349-8cc7-4447-8d79-eae6f218eb53">poke at it a bit</a> Claude will reveal the definition of its <code>web_search</code> function which looks like this - note the <code>BraveSearchParams</code> property:</p>
+<div class="highlight highlight-source-json"><pre>{
+  <span class="pl-ent">"description"</span>: <span class="pl-s"><span class="pl-pds">"</span>Search the web<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>web_search<span class="pl-pds">"</span></span>,
+  <span class="pl-ent">"parameters"</span>: {
+    <span class="pl-ent">"additionalProperties"</span>: <span class="pl-c1">false</span>,
+    <span class="pl-ent">"properties"</span>: {
+      <span class="pl-ent">"query"</span>: {
+        <span class="pl-ent">"description"</span>: <span class="pl-s"><span class="pl-pds">"</span>Search query<span class="pl-pds">"</span></span>,
+        <span class="pl-ent">"title"</span>: <span class="pl-s"><span class="pl-pds">"</span>Query<span class="pl-pds">"</span></span>,
+        <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>string<span class="pl-pds">"</span></span>
+      }
+    },
+    <span class="pl-ent">"required"</span>: [
+      <span class="pl-s"><span class="pl-pds">"</span>query<span class="pl-pds">"</span></span>
+    ],
+    <span class="pl-ent">"title"</span>: <span class="pl-s"><span class="pl-pds">"</span>BraveSearchParams<span class="pl-pds">"</span></span>,
+    <span class="pl-ent">"type"</span>: <span class="pl-s"><span class="pl-pds">"</span>object<span class="pl-pds">"</span></span>
+  }
+}</pre></div>
+
+    <p><small></small>Via <a href="https://bsky.app/profile/zugaldia.bsky.social/post/3lkvgzvarvs2s">@zugaldia.bsky.social</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/search">search</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/21/anthropic-use-brave/#atom-everything>
+
+---
+
+## Behind the Blog: Vile Media and Fine Sciences
+
+date: 2025-03-21, from: 404 Media Group
+
+This week, we discuss doxed Teslas, the concept of "amplification," and how we'd much rather be looking at cooking videos than all this mess. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-vile-media-and-fine-sciences/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
+Trump rescinds executive order after law firm agrees to provide $40m in free services. 
+
+<br> 
+
+<https://www.theguardian.com/us-news/2025/mar/20/trump-rescinds-executive-order-paul-weiss>
+
+---
+
+## Introducing rpi-image-gen: build highly customised Raspberry Pi software images
+
+date: 2025-03-21, from: Raspberry Pi News (.com)
+
+<p>Our powerful new tool, rpi-image-gen, puts you in complete control of your custom Raspberry Pi software images.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/introducing-rpi-image-gen-build-highly-customised-raspberry-pi-software-images/">Introducing rpi-image-gen: build highly customised Raspberry Pi software images</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/introducing-rpi-image-gen-build-highly-customised-raspberry-pi-software-images/>
 
 ---
 
@@ -135,6 +487,31 @@ It&#39;s remarkable how some of the rich of Silicon Valley want to do to the wor
 
 ---
 
+## 56 Projects Receive Grants for Improving Core Technological Building Blocks
+
+date: 2025-03-21, updated: 2025-03-21, from: nlnet feed
+
+ 
+
+<br> 
+
+<https://nlnet.nl/news/2025/20250321-call-announcement-core.html>
+
+---
+
+## ReactOS 0.4.15 released
+
+date: 2025-03-21, from: ReactOS News
+
+We are pleased to announce the release of ReactOS 0.4.15! This release offers Plug and Play fixes, audio fixes, memory management fixes, registry healing, improvements to accessories and system tools including Notepad, Paint, RAPPS, the Input Method Editor, and shell improvements.
+We chose to release this version of ReactOS in honor of Eric Kohl&rsquo;s first commit to the ReactOS code base, which dates back to 1999. Eric Kohl is the oldest active contributor of the project, and this is his 26th ReactOS anniversary! 
+
+<br> 
+
+<https://reactos.org/project-news/reactos-0415-released/>
+
+---
+
 ## Meta pirated at least 101 of my books and articles, and tens of millions of others
 
 date: 2025-03-20, from: Gary Marcus blog
@@ -228,6 +605,7 @@ Claude 3.7 Sonnet on the paid plan now has a web search tool that can be turned 
 <p>For the moment this is purely a product feature - it's available through their consumer applications but there's no indication of whether or not it will be coming to the Anthropic API. OpenAI launched the latest version of web search in their API <a href="https://openai.com/index/new-tools-for-building-agents/">last week</a>.</p>
 <p>Surprisingly there are no details on how it works under the hood. Is this a partnership with someone like Bing, or is it Anthropic's own proprietary index populated by their own crawlers?</p>
 <p>I think it may be their own infrastructure, but I've been unable to confirm that.</p>
+<p><em><strong>Update</strong>: it's confirmed <a href="https://simonwillison.net/2025/Mar/21/anthropic-used-brave/">as Brave Search</a>.</em></p>
 <p>Their support site offers some inconclusive hints.</p>
 <p><a href="https://support.anthropic.com/en/articles/10023637-does-anthropic-crawl-data-from-the-web-and-how-can-site-owners-block-the-crawler">Does Anthropic crawl data from the web, and how can site owners block the crawler?</a> talks about their ClaudeBot crawler but the language indicates it's used for training data, with no mention of a web search index.</p>
 <p><a href="https://support.anthropic.com/en/articles/10684638-blocking-and-removing-content-from-claude">Blocking and Removing Content from Claude</a> looks a little more relevant, and has a heading "Blocking or removing websites from Claude web search" which includes this eyebrow-raising tip:</p>
@@ -2517,4 +2895,311 @@ Serbia&#39;s largest-ever rally sees 325,000 protest government.
 <br> 
 
 <https://www.bbc.com/news/articles/cx2g8v32q30o>
+
+---
+
+## Pine64’s RISC-V tablet now ships with a Debian-based Linux distro and improved hardware
+
+date: 2025-03-15, from: Liliputing
+
+<p>The PineTab-V is a 10.1 inch tablet with a 1280 x 800 pixel IPS LCD display, 8GB of LPDDR4 memory, 128GB of eMMC storage, and a detachable keyboard with backlit keys. What really makes it different from most tablets though is that it&#8217;s powered by a RISC-V processor rather than an ARM or x86 chip. Pine64 began [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/">Pine64&#8217;s RISC-V tablet now ships with a Debian-based Linux distro and improved hardware</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Why write right? 
+
+<br> 
+
+<https://mrbrianpuck.wordpress.com/2025/03/15/why-write-right/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Do you really think the American military would follow an order to attack Canada? 
+
+<br> 
+
+<https://mastodon.social/@evan@cosocial.ca/114168125924351605>
+
+---
+
+## Lilbits: Amazon kills local processing of Alexa voice requests, Google replaces Assistant with Gemini
+
+date: 2025-03-15, from: Liliputing
+
+<p>Last month Amazon introduced Alexa+ which uses generative AI to offer an enhanced version of Amazon&#8217;s voice assistant software. It will do a better job of engaging in natural-sounding conversations, remembering things you&#8217;ve told it in the past, and have the ability to interact with other apps and services on your behalf. But Alexa+ also [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-amazon-kills-local-processing-of-alexa-voice-requests-google-replaces-assistant-with-gemini/">Lilbits: Amazon kills local processing of Alexa voice requests, Google replaces Assistant with Gemini</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-amazon-kills-local-processing-of-alexa-voice-requests-google-replaces-assistant-with-gemini/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
+
+I needed something fun to read, this was nice. https://guitar-maker.blogspot.com/2025/03/a-few-updates.html 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgtvebnl223>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Arlington Cemetery strips content on black and female veterans from website. 
+
+<br> 
+
+<https://www.bbc.com/news/articles/cz03gjnxe25o?xtor=AL-71-[partner]-[bbc.news.twitter]-[headline]-[news]-[bizdev]-[isapi]&at_link_origin=BBCWorld&at_ptr_name=twitter&at_link_type=web_link&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=22A1947E-01C2-11F0-A76B-C8861D16B53E&at_campaign_type=owned&at_format=link&at_medium=social>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
+
+An interesting bit of history.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgnea6vbs23>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
+
+We're not on a slippery slope, we're on a slippery PRECIPICE!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgna4wtw223>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
+
+Not getting coverage but the type of activity that can set us back a generation. So frustrating.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgn3whfxc23>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
+
+Made me laugh 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgllxgmps23>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Matt Terenzio has a great address for his new blog, where he writes about his vision for The Writer&#39;s Web. 
+
+<br> 
+
+<https://feeds.social/>
+
+---
+
+## Humiliation
+
+date: 2025-03-15, updated: 2025-03-15, from: Robin Rendle Essays
+
+ 
+
+<br> 
+
+<https://robinrendle.com/notes/humiliation/>
+
+---
+
+## AI Slop Podcasts?
+
+date: 2025-03-15, from: Chris Coyier blog
+
+My kid likes listening to podcasts sometimes and it&#8217;s cool with me! Story Pirates, for example, rules. She must have typed in &#8220;Bluey&#8221; at some point into the podcast app we use and found the Bluey Storytime Podcast. It looks kind of official. That&#8217;s real Bluey art, it uses the word &#8220;Bluey&#8221; in the title, [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/03/15/ai-slop-podcasts/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-15, from: Tomosino's Mastodon feed)
+
+<p>Ditched Audible for libro.fm today. Finally a good option that lets you download your purchases DRM free without workarounds. You can support a local shop too. Nice. </p><p>I've got a referral code if you want</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114167127129193182>
+
+---
+
+## Quoting Andrew Ng
+
+date: 2025-03-15, updated: 2025-03-15, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.deeplearning.ai/the-batch/issue-292/"><p>Some people today are discouraging others from learning programming on the grounds AI will automate it. This advice will be seen as some of the worst career advice ever given. I disagree with the Turing Award and Nobel prize winner who wrote, “It is far more likely that the programming occupation will become extinct [...] than that it will become all-powerful. More and more, computers will program themselves.”​ Statements discouraging people from learning to code are harmful!</p>
+<p>In the 1960s, when programming moved from punchcards (where a programmer had to laboriously make holes in physical cards to write code character by character) to keyboards with terminals, programming became easier. And that made it a better time than before to begin programming. Yet it was in this era that Nobel laureate Herb Simon wrote the words quoted in the first paragraph. Today’s arguments not to learn to code continue to echo his comment.</p>
+<p>As coding becomes easier, more people should code, not fewer!</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.deeplearning.ai/the-batch/issue-292/">Andrew Ng</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/15/andrew-ng/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Sebastian Abbott: The Distracted Procrastinating Writer&#39;s Web. 
+
+<br> 
+
+<https://sebabbott.net/2025/03/15/the-writers-web.html>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-15, from: Feed for Alt USDS)
+
+We've been busy.... Busy talking the The New Yorker Radio Hour 🎙️🥰  https://www.wnycstudios.org/podcasts/tnyradiohour/articles/we-the-builders-federal-employees-stand-up-to-doge 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkg7nuig3s22>
+
+---
+
+## My video chat with the mighty Maureen Dowd
+
+date: 2025-03-15, from: Tina Brown
+
+The topics we raced through: Maureen&#8217;s new book Notorious, Silicon Valley&#8217;s Zeus complex, how fame changes movie stars, post-#MeToo Hollywood, and the disappointment of Obama&#8217;s post-presidency. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159105765/cf2e355f715d11d2f8086c072e466a67.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159105765/cf2e355f715d11d2f8086c072e466a67.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://tinabrown.substack.com/p/my-video-chat-with-the-mighty-maureen>
+
+---
+
+## Jaws vs. the Megalodon: This Time, It’s Peer-Reviewed
+
+date: 2025-03-15, from: 404 Media Group
+
+The epic shark may have been a full 80 feet long with a slender build, according to new research. 
+
+<br> 
+
+<https://www.404media.co/jaws-vs-the-megalodon-this-time-its-peer-reviewed/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-15, from: Feed for Alt USDS)
+
+A small but significant update especially for our followers here: our best engineer made a custom icon just for Bluesky on wethebuilders.org 🥰 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lkg5gpxabc2w>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Much of what the U.S. president has done to curb independent media echoes the Hungarian autocrat Viktor Orbán’s playbook. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/03/trumps-press-freedom-hungary-orban/682060/?gift=f35zZN0v_gDFE8xNwlQAHdwxOalGWagil2BRvDJbzhI&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Instagram is now a (photo) information network. 
+
+<br> 
+
+<https://om.co/2025/03/14/instagram-is-now-a-photo-information-network/>
+
+---
+
+## How VeronicaExplains makes videos
+
+date: 2025-03-15, from: Libre News
+
+ 
+
+<br> 
+
+<https://thelibre.news/veronicaexplains/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Walz, Newsom and Buttigieg Are Among Democrats Stirring 2028 Presidential Chatter. Add AOC to your list. 
+
+<br> 
+
+<https://www.nytimes.com/2025/03/15/us/politics/democrats-president-2028-buttigieg-newsom-walz.html>
+
+---
+
+## How Worried Should We Be About the Economy?
+
+date: 2025-03-15, from: Paul Krugman
+
+A conversation with Neil Dutta 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/how-worried-should-we-be-about-the>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+South Milwaukee woman deported to Laos is stranded with few options. 
+
+<br> 
+
+<https://www.jsonline.com/story/news/local/milwaukee/2025/03/14/south-milwaukee-woman-deported-to-laos-is-stranded-with-few-options/82369691007/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
+
+Tesla Takedown. 
+
+<br> 
+
+<https://en.m.wikipedia.org/wiki/Tesla_Takedown>
 

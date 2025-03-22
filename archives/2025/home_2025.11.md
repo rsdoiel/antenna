@@ -1,11 +1,167 @@
 ---
 title: home
-updated: 2025-03-21 06:07:48
+updated: 2025-03-22 06:07:30
 ---
 
 # home
 
-(date: 2025-03-21 06:07:48)
+(date: 2025-03-22 06:07:30)
+
+---
+
+## California is Standing Strong for Public Lands
+
+date: 2025-03-21, from: California Native Plants Society
+
+<p>Thanks to all of you who have been calling your representatives, attending rallies, and speaking out for California public lands across your social media channels. It’s making a difference!</p>
+<p>The post <a href="https://www.cnps.org/conservation/california-is-standing-strong-for-public-lands-42791">California is Standing Strong for Public Lands</a> appeared first on <a href="https://www.cnps.org">California Native Plant Society</a>.</p>
+ 
+
+<br> 
+
+<https://www.cnps.org/conservation/california-is-standing-strong-for-public-lands-42791>
+
+---
+
+## Why Isn’t My Window Air Conditioner Blowing Cold Air?
+
+date: 2025-03-21, from: Family Handyman Blog
+
+<p>Window AC not blowing cold air? Here are some simple steps to troubleshoot the issue, and possibly get up and running without a repair call!</p>
+<p>The post <a href="https://www.familyhandyman.com/article/window-ac-not-blowing-cold-air/">Why Isn&#8217;t My Window Air Conditioner Blowing Cold Air?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/window-ac-not-blowing-cold-air/>
+
+---
+
+## 5 Tariff-Proof Home Improvement Projects to Tackle in 2025
+
+date: 2025-03-21, from: Family Handyman Blog
+
+<p>Skyrocketing prices have you abandoning major home projects in 2025? Here are some high-impact but low-cost projects you can take on instead.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/tariff-proof-home-projects/">5 Tariff-Proof Home Improvement Projects to Tackle in 2025</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/tariff-proof-home-projects/>
+
+---
+
+## Beyond Defensible Space: Here’s How to Protect Your Home with a Safer Garden.
+
+date: 2025-03-21, from: Sunset Magazine - Living in the West
+
+Here's everything you need to know about firescaping and fire defensive landscapes to protect yourself from wildfires. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/landscaping/firescaping-fire-defensive-tips>
+
+---
+
+## If You Dream of Life on the Range, Here’s a Unique Texas Ranch for $1M
+
+date: 2025-03-21, from: Dwell
+
+Designed by Max Levy, the contemporary home is wrapped in corrugated metal—and it comes with a barn, an ADU, and 4.65 acres of land. 
+
+<br> 
+
+<https://www.dwell.com/article/max-levy-big-sky-hayloft-home-texas-ranch-real-estate-1f8d9afe>
+
+---
+
+## This California Wine Region Is the Underrated Hidden Gem You Need to Visit
+
+date: 2025-03-21, from: Sunset Magazine - Living in the West
+
+Paso Robles is the Central Coast's hidden gem. Here's what to do, see, eat and taste where you're in the area, plus where to stay. 
+
+<br> 
+
+<https://www.sunset.com/travel/wine-country/what-to-do-in-paso-robles>
+
+---
+
+## This Is Why Everyone’s Obsessed with Traditional Decor Right Now
+
+date: 2025-03-21, from: Sunset Magazine - Living in the West
+
+Design trends come and go, but right now there's a swing towards more traditional decor. Designers explain why. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/traditional-interior-design-trend>
+
+---
+
+## 9 Reasons Why Hyacinths May Fail to Bloom
+
+date: 2025-03-21, from: The Gardener's Path
+
+<p>Perennial flowering hyacinths are a sweetly fragrant addition to spring gardens in Zones 4 to 8. Ideal growing conditions include full to partial sun and organically-rich, well-draining soil. Sometimes, even in an ideal growing environment, they fail to bloom. Discover nine reasons why in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/hyacinths-not-blooming/">9 Reasons Why Hyacinths May Fail to Bloom</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/hyacinths-not-blooming/>
+
+---
+
+## Evictions for Middle-Class New Yorkers Rise—and Everything Else You Need to Know About This Week
+
+date: 2025-03-21, from: Dwell
+
+In the news: Trump razes Washington, D.C.’s BLM Plaza, an L.A. community fights to save historic tiles from burned homes, artist Ming Fay’s legacy lives on, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-evictions-hit-middle-class-new-yorkers-trump-federal-land-affordable-housing-546fd955>
+
+---
+
+## Sick of Daylight Saving Time? Here’s the Case For & Against Ditching It
+
+date: 2025-03-21, from: Family Handyman Blog
+
+<p>Most agree we should stop switching the clocks, but debate over whether we should stay forward or back.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/daylight-saving-debate/">Sick of Daylight Saving Time? Here’s the Case For &#038; Against Ditching It</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/daylight-saving-debate/>
+
+---
+
+## Construction Diary: How a California Designer Crafted His New Family Home—On Top of Their First Home
+
+date: 2025-03-21, from: Dwell
+
+Eric Johnson fixed a 1,430-square-foot indoor/outdoor plan atop his ’50s Encinitas beach house, disguising the entire project as a single residence. 
+
+<br> 
+
+<https://www.dwell.com/article/construction-diary-hovis-house-anotherericjohnson-beach-home-renovation-2915e938-f471d2be-4c0ce4ca>
+
+---
+
+## Tesla Recalls 46,000 Cybertrucks Amid Plummeting Stock
+
+date: 2025-03-21, from: Family Handyman Blog
+
+<p>Tesla faces another recall as its stock continues to plummet.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/tesla-cybertruck-side-panel-recall/">Tesla Recalls 46,000 Cybertrucks Amid Plummeting Stock</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/tesla-cybertruck-side-panel-recall/>
 
 ---
 
@@ -139,18 +295,6 @@ date: 2025-03-20, from: Family Handyman Blog
 <br> 
 
 <https://www.familyhandyman.com/project/how-to-build-a-closet-organizer/>
-
----
-
-## This California Wine Region Is the Underrated Hidden Gem You Need to Visit
-
-date: 2025-03-20, from: Sunset Magazine - Living in the West
-
-Paso Robles is the Central Coast's hidden gem. Here's what to do, see, eat and taste where you're in the area, plus where to stay. 
-
-<br> 
-
-<https://www.sunset.com/travel/wine-country/what-to-do-in-paso-robles>
 
 ---
 
@@ -1211,4 +1355,126 @@ date: 2025-03-16, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/46-species-of-birds-of-prey-with-pictures-and-identification/>
+
+---
+
+## How to Plant and Grow Clary Sage
+
+date: 2025-03-15, from: The Gardener's Path
+
+<p>Clary sage (Salvia sclarea) is an aromatic herb with a history of medicinal and culinary use, and the pretty flowers make it popular as an ornamental planting. Native to Mediterranean Europe and Central Asia, it thrives in Zones 5 to 9 as a short-lived perennial. Learn how to plant and grow clary sage in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-clary-sage/">How to Plant and Grow Clary Sage</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-clary-sage/>
+
+---
+
+## 32 Black Birds With Yellow Beaks (Pictures and Identification)
+
+date: 2025-03-15, from: Yard Life blog
+
+<p>Black birds with yellow beaks are a striking sight in the avian world, combining dark, elegant plumage with a vivid ... </p>
+<p class="read-more-container"><a title="32 Black Birds With Yellow Beaks (Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/32-black-birds-with-yellow-beaks-pictures-and-identification/#more-25158" aria-label="Read more about 32 Black Birds With Yellow Beaks (Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/32-black-birds-with-yellow-beaks-pictures-and-identification/">32 Black Birds With Yellow Beaks (Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/32-black-birds-with-yellow-beaks-pictures-and-identification/>
+
+---
+
+## This Bright and Open Kitchen Cleverly Conceals Its Appliances
+
+date: 2025-03-15, from: Sunset Magazine - Living in the West
+
+The kitchen in a Fremont, California, house was spacious, but had a bad layout. Here's how one designer made it more functional. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/fremont-kitchen-makeover>
+
+---
+
+## This Kitchen Had to Keep Its Original Footprint Because of Its Tile—See How It Was Cleverly Remodeled
+
+date: 2025-03-15, from: Sunset Magazine - Living in the West
+
+A Calabasas kitchen was dated and traditional, so designer Sarah West gave it a modern update with custom cabinetry. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/calabasas-kitchen-makeover>
+
+---
+
+## A Bad Layout Was Ruining This Oakland Kitchen—Here’s How a Designer Saved It
+
+date: 2025-03-15, from: Sunset Magazine - Living in the West
+
+The kitchen in an Oakland condo was not an inviting space. It had a bad layout and was dark and dated. It got a major makeover. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/oakland-kitchen-makeover>
+
+---
+
+## This Outdated Kitchen Design Style Is Coming Back (and That’s a Good Thing)
+
+date: 2025-03-15, from: Sunset Magazine - Living in the West
+
+The wood kitchen is coming back in style. Designers share how to bring the look home in a modern, 21st century way. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/wood-kitchens-back-in-style>
+
+---
+
+## 46 Different Types of Rodents (With Pictures and Identification)
+
+date: 2025-03-15, from: Yard Life blog
+
+<p>Rodents are one of the most diverse groups of mammals, found in nearly every habitat across the world. With over ... </p>
+<p class="read-more-container"><a title="46 Different Types of Rodents (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/46-different-types-of-rodents-with-pictures-and-identification/#more-25105" aria-label="Read more about 46 Different Types of Rodents (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/46-different-types-of-rodents-with-pictures-and-identification/">46 Different Types of Rodents (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/46-different-types-of-rodents-with-pictures-and-identification/>
+
+---
+
+## Aloe Vera Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-15, from: Yard Life blog
+
+<p>Aloe vera is a well-loved succulent, widely recognized for its medicinal, skincare, and ornamental benefits. Its thick, fleshy leaves store ... </p>
+<p class="read-more-container"><a title="Aloe Vera Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/aloe-vera-plant-care-and-growing-guide-most-detailed/#more-25096" aria-label="Read more about Aloe Vera Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/aloe-vera-plant-care-and-growing-guide-most-detailed/">Aloe Vera Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/aloe-vera-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## 90 Stunning Flowers That Start With B (Pictures and Names)
+
+date: 2025-03-15, from: Yard Life blog
+
+<p>Finding the perfect flowers for your garden can be exciting, especially when exploring unique options. If you&#8217;re searching for flowers ... </p>
+<p class="read-more-container"><a title="90 Stunning Flowers That Start With B (Pictures and Names)" class="read-more button" href="https://ownyardlife.com/90-stunning-flowers-that-start-with-b-pictures-and-names/#more-24994" aria-label="Read more about 90 Stunning Flowers That Start With B (Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/90-stunning-flowers-that-start-with-b-pictures-and-names/">90 Stunning Flowers That Start With B (Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/90-stunning-flowers-that-start-with-b-pictures-and-names/>
 

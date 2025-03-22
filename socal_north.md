@@ -1,23 +1,145 @@
 ---
 title: socal north
-updated: 2025-03-21 06:07:43
+updated: 2025-03-22 06:07:25
 ---
 
 # socal north
 
-(date: 2025-03-21 06:07:43)
+(date: 2025-03-22 06:07:25)
 
 ---
 
-## Warming trend to bring the heat to SoCal next week
+## Homeland Security makes cuts to civil rights and immigration oversight offices
 
 date: 2025-03-21, updated: 2025-03-21, from: The LAist
 
-L.A. County valleys will reach around 80 degrees today. Next week, temperatures could hit 90 in some areas. 
+DHS confirms it is implementing a reduction in force in three oversight offices as part of the effort to cut the federal workforce. 
 
 <br> 
 
-<https://laist.com/news/climate-environment/warming-trend-to-bring-the-heat-to-socal-next-week>
+<https://laist.com/news/politics/homeland-security-makes-cuts-to-civil-rights-and-immigration-oversight-offices>
+
+---
+
+## Go beyond the beefsteak: Tomato-maniac shares 6 varieties you should plant this year
+
+date: 2025-03-21, updated: 2025-03-22, from: The LAist
+
+Spring's here, which means it's time to plant some tomatoes. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/tomato-maniac-six-varieties-plant>
+
+---
+
+## LA mayor announces first permits for Pacific Palisades rebuild and issues emergency order
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+Karen Bass' order directs multiple city departments to create plans to expedite rebuilding with wildfire resilience in mind. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-mayor-announces-first-permits-for-pacific-palisades-rebuild-and-issues-emergency-order>
+
+---
+
+## Saddle Up for a Wild West Experience at The MAIN
+
+date: 2025-03-21, from: City of Santa Clarita
+
+<p>Get ready to step back in time and immerse yourself in the spirit of the Old West as The MAIN (24266 Main Street) in Old Town Newhall brings two unforgettable performances to the stage during the 29th Annual Santa Clarita Cowboy Festival! From the legendary life of Buffalo Bill in Cody: An Evening with Buffalo [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/21/saddle-up-for-a-wild-west-experience-at-the-main/">Saddle Up for a Wild West Experience at The MAIN</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/21/saddle-up-for-a-wild-west-experience-at-the-main/>
+
+---
+
+## ‘We should be in crisis mode’: Toxic fumigant could be seeping into these communities
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+Long Beach residents near companies that use methyl bromide are angry that air quality officials didn’t notify them for years and haven’t assessed their health risks. Now officials say more facilities are operating in San Pedro and Compton. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/toxic-fumigant-could-be-seeping-into-long-beach-san-pedro>
+
+---
+
+## Is planting trees 'DEI'? Trump administration cuts nationwide tree-planting effort
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+The Trump administration's efforts to end DEI programs is hitting some unexpected targets, including a nationwide effort planting shade trees in neighborhoods to reduce extreme heat. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/is-planting-trees-dei-trump-administration-cuts-nationwide-tree-planting-effort>
+
+---
+
+## Trump says Education Department will no longer oversee student loans and 'special needs'
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+The president said federal student loans would move to the Small Business Administration, and hinted that the Department of Health and Human Services would take over special education oversight. 
+
+<br> 
+
+<https://laist.com/news/education/education-department-will-no-longer-oversee-student-loans-special-needs>
+
+---
+
+## Future of the newest national monuments looks murky after White House communication
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+White House communication has caused confusion over the fate of the country's newest national monuments in California. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/future-of-the-newest-national-monuments-looks-murky-after-white-house-communication>
+
+---
+
+## Fiona the flying squirrel gets her spotlight in the Jackie and Shadow show
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+San Bernardino flying squirrels nicknamed Fiona and Fast Freddie have made regular cameos on Jackie and Shadow's nest cam feed. A spinoff, anyone? 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/bald-eagles-jackie-shadow-big-bear-fiona-flying-squirrels>
+
+---
+
+## How the Education Department cuts could hurt low-income and rural schools
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+With cuts to nearly all the staff at the Department of Education's primary data agency, low-income and rural schools may not get the federal funds they rely on in coming years. 
+
+<br> 
+
+<https://laist.com/news/education/education-department-cuts-could-hurt-low-income-and-rural-schools>
+
+---
+
+## Students and faculty sue administrators over last spring’s UCLA pro-Palestinian protests
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+The suit also alleges that UC officials discriminated against pro-Palestinian supporters and failed to protect members of the encampment from the attackers. 
+
+<br> 
+
+<https://laist.com/news/education/students-and-faculty-sue-administrators-over-last-springs-ucla-pro-palestinian-protests>
 
 ---
 
@@ -25,7 +147,7 @@ L.A. County valleys will reach around 80 degrees today. Next week, temperatures 
 
 date: 2025-03-21, updated: 2025-03-21, from: The LAist
 
-Revenue alone is projected to be $315 million below the city’s four-year projected outlook, according to the city administrative officer 
+Revenue alone is projected to be $315 million below the city’s four-year projected outlook, according to the city administrative officer. 
 
 <br> 
 
@@ -42,6 +164,18 @@ Two LAist colleagues attend iftar to break the Ramadan fast together with a Pale
 <br> 
 
 <https://laist.com/news/food/experiencing-iftar-ramadan-socal>
+
+---
+
+## Warming trend to bring the heat to SoCal next week
+
+date: 2025-03-21, updated: 2025-03-21, from: The LAist
+
+L.A. County valleys will reach around 80 degrees today. Next week, temperatures could hit 90 in some areas. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/warming-trend-to-bring-the-heat-to-socal-next-week>
 
 ---
 
@@ -942,4 +1076,126 @@ Trump invoked the wartime authority Alien Enemies Act, targeting members of Vene
 <br> 
 
 <https://laist.com/news/politics/federal-judge-blocks-trumps-plan-to-target-alien-enemies-for-deportation>
+
+---
+
+## One of Jackie and Shadow’s chicks has died. Volunteers tell fans: 'Grieve and feel whatever you feel'
+
+date: 2025-03-15, updated: 2025-03-16, from: The LAist
+
+Friends of Big Bear Valley, the nonprofit that manages the popular YouTube livestream of the nest, confirmed the news Saturday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/jackie-shadow-eaglets-chick-big-bear-nest-death>
+
+---
+
+## Look up! The Goodyear Blimp is celebrating a big birthday
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+We head up into the skies over Los Angeles in honor of the Goodyear Blimp's 100th. Come join us ... there's room for eight. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/look-up-the-goodyear-blimp-is-celebrating-a-big-birthday>
+
+---
+
+## 'Bloody Saturday' at Voice of America and other US-funded networks
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+Federal officials placed 1,300 employees at Voice of America on indefinite paid leave, while severing contracts with Radio Free Asia and other U.S.-funded networks. 
+
+<br> 
+
+<https://laist.com/news/politics/bloody-saturday-at-voice-of-america-and-other-u-s-funded-networks>
+
+---
+
+## A reopened library breathes life back into the Altadena burn zone
+
+date: 2025-03-15, updated: 2025-03-16, from: The LAist
+
+Residents find a semblance of normalcy amid the stacks. 
+
+<br> 
+
+<https://laist.com/news/altadena-library-breathes-life-back-into-the-altadena-burn-zone>
+
+---
+
+## Stimulating the SENSES in Old Town Newhall
+
+date: 2025-03-15, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Old Town Newhall has earned its title as Santa Clarita’s Premier Arts and Entertainment District and has also become well-known as a hub for prime dining and shopping. Not only that, it has become the home of one of the most popular and anticipated City events: SENSES Block Party. As [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/15/stimulating-the-senses-in-old-town-newhall/">Stimulating the SENSES in Old Town Newhall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/15/stimulating-the-senses-in-old-town-newhall/>
+
+---
+
+## Here are the Los Angeles Marathon road closures you need to know
+
+date: 2025-03-15, updated: 2025-03-16, from: The LAist
+
+Sunday’s marathon brings thousands of runners to L.A. streets — plan ahead to keep your day on track. 
+
+<br> 
+
+<https://laist.com/news/transportation/2025-la-marathon-road-closures>
+
+---
+
+## Trump says the U.S. is in a 'period of transition' — and more takeaways from this week
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+This week, President Trump continued to threaten tariffs as DOGE continued its cuts of the federal workforce. It was another consequential and news-packed week in Trump's presidency. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-says-the-u-s-is-in-a-period-of-transition-and-more-takeaways-from-this-week>
+
+---
+
+## Over 50 universities — 3 in California — are under investigation as part of Trump's anti-DEI crackdown
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+Three California schools, Cal Poly Humboldt, Cal State San Bernardino and UC Berkeley are on the list. 
+
+<br> 
+
+<https://laist.com/news/education/over-50-universities-3-in-california-are-under-investigation-as-part-of-trumps-anti-dei-crackdown>
+
+---
+
+## Federal agencies plan for mass layoffs as Trump's workforce cuts continue
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+Thursday's deadline for federal agencies to submit plans for large-scale layoffs kicks off a new phase in the dramatic restructuring of how the government operates. Here's what that looks like. 
+
+<br> 
+
+<https://laist.com/news/politics/federal-agencies-plan-for-mass-layoffs-as-trumps-workforce-cuts-continue>
+
+---
+
+## Pasadena has new rental protections in the wake of the Eaton Fire
+
+date: 2025-03-15, updated: 2025-03-15, from: The LAist
+
+Five regulations are aimed at protecting tenants as well as landlords who were affected by the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/pasadena-renter-protections-eaton-fire>
 

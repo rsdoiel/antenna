@@ -1,11 +1,64 @@
 ---
 title: writing
-updated: 2025-03-21 06:07:46
+updated: 2025-03-22 06:07:28
 ---
 
 # writing
 
-(date: 2025-03-21 06:07:46)
+(date: 2025-03-22 06:07:28)
+
+---
+
+## Scriptnotes, Episode 678: The On-Set Producer, Transcript
+
+date: 2025-03-21, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. A standard warning for people who are in the car with their kids, there’s some swearing in this episode. Hello and welcome. My name is John August. Craig Mazin: Biddy, biddy, biddy, my name is Craig Mazin. John: This [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-678-the-on-set-producer-transcript">Scriptnotes, Episode 678: The On-Set Producer, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-678-the-on-set-producer-transcript>
+
+---
+
+##  #241 - Standing Up to False Gods
+
+date: 2025-03-21, from: Interesting, a blog on writing
+
+They think they have all the power (until you prove otherwise). 
+
+<br> 
+
+<https://inneresting.substack.com/p/241-standing-up-to-false-gods>
+
+---
+
+## ‘Novocaine’: How to write an Action Movie with a Twist
+
+date: 2025-03-21, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/novocaine-how-to-write-an-action-movie" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20Jack%20Quaid%20upside-down%2c%20with%20a%20huge%20hole%20in%20the%20ceiling.%20Hes%20wearing%20a%20business%20suit%20and%20talking%20on%20his%20cell%20phone%20in%20Novocaine.png" alt="Image of Jack Quaid upside-down, with a huge hole in the ceiling. He's wearing a business suit and talking on his cell phone in the movie 'Novocaine'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>It’s hard to write an original action movie. How different can car chases really be? And hasn’t a fight in a restaurant kitchen been done countless times already? Action movies can be a lot of fun, but creating a truly good story with action can be really tough. To make something original, you have to go beyond what the action is and look at the people in the story: What drives them? What was their call to action? And why do we even care?</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/novocaine-how-to-write-an-action-movie>
+
+---
+
+## Once Was Willem by M.R. Carey: Review by Colleen Mondor
+
+date: 2025-03-21, from: Locus Magazine
+
+<p><strong>Once Was Willem</strong>, M.R. Carey (Orbit 978-0-316-50502-4, $18.99, 320pp, tp) March 2025.</p>
+<p><strong>Once Was Willem</strong>, M.R. Carey’s new supernatu­ral medieval fantasy, is a gorgeously written visit to 12th century England, a time of murderous lords, preoccupied kings and the life-and-death struggles of a small village called Cosham in the fiefdom of Pennick. This was the place and time of narrator Willem Turling, who died from illness at the  <a href="https://locusmag.com/2025/03/once-was-willem-by-m-r-carey-review-by-colleen-mondor/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/once-was-willem-by-m-r-carey-review-by-colleen-mondor/>
 
 ---
 
@@ -613,4 +666,68 @@ date: 2025-03-16, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/03/augur-short-fiction-reviews-by-a-c-wise-3/>
+
+---
+
+## Combat Monsters: Untold Tales of World War II, edited by Henry Herz: Review by Paul Di Filippo
+
+date: 2025-03-15, from: Locus Magazine
+
+<p><strong>Combat Monsters: Untold Tales of World War II</strong>, edited by Henry Herz (Blackstone 979-8874748432, trade paperback, 384pp, $18.99) February 2025</p>
+<p>Henry Herz, we learn from the ancillary matter in the new original anthology <b>Combat Monsters</b>, has assembled six other anthologies, and yet I found myself unfamiliar with his name. The answer to my lamentable ignorance is that his prior books are intended for the Young Adult market —  <a href="https://locusmag.com/2025/03/combat-monsters-untold-tales-of-world-war-ii-edited-by-henry-herz-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/combat-monsters-untold-tales-of-world-war-ii-edited-by-henry-herz-review-by-paul-di-filippo/>
+
+---
+
+## People & Publishing Roundup, February 2025
+
+date: 2025-03-15, from: Locus Magazine
+
+<div></div>
+<div class="catheader"><strong>MILESTONES</strong></div>
+
+<p><strong>MEGAN CHEE </strong>is now repre­sented by Stevie Finegan of Zeno Agency Ltd.</p>
+<div></div>
+<div class="catheader"><strong>AWARDS</strong></div>
+
+<p><strong>EVE HILL-AGNUS </strong>won the 2024 Albertine Translation Prize for her translation of <strong>Ultramarine </strong>by <strong>MARIETTE NAVARRO </strong>(Deep Vellum), presented by the French Embassy in the US and selected by a jury.</p>
+<p>&#160;</p>
+<div class="catheader"><strong>BOOKS SOLD</strong></div>
+
+<p>&#160;</p>
+<p><strong>STEPHEN KING </strong>will write <strong>Han­sel and Gretel</strong>, a “reimagining” of the fairy tale, with illustrations by the late <strong>MAURICE SENDAK </strong> <a href="https://locusmag.com/2025/03/people-publishing-roundup-february-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/people-publishing-roundup-february-2025/>
+
+---
+
+## GigaNotoSaurus, Lightspeed, and Small Wonders: Reviews by Charles Payseur
+
+date: 2025-03-15, from: Locus Magazine
+
+<p>GigaNotoSaurus 12/24
+Lightspeed 12/24
+Small Wonders 12/24</p>
+<p>December’s GigaNotoSaurus is <strong>Sabrina Vourvou­lias</strong>’s “<strong>Dead reckoning in 6/8 time</strong>”, a story that finds Adriana remembering her mother’s stories about being a bailadora in Mexico and losing a contest to the devil himself. Which means that, now that her mother has passed, her soul is the devil’s, and that doesn’t sit well with Adriana, who determines that she will succeed  <a href="https://locusmag.com/2025/03/giganotosaurus-lightspeed-and-small-wonders-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/giganotosaurus-lightspeed-and-small-wonders-reviews-by-charles-payseur/>
+
+---
+
+## 🚸 #240 - Writing Kids
+
+date: 2025-03-15, from: Interesting, a blog on writing
+
+(About kids, not necessarily for kids) 
+
+<br> 
+
+<https://inneresting.substack.com/p/240-writing-kids>
 

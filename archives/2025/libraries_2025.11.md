@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-03-21 06:07:48
+updated: 2025-03-22 06:07:30
 ---
 
 # libraries
 
-(date: 2025-03-21 06:07:48)
+(date: 2025-03-22 06:07:30)
+
+---
+
+## ARL Honors Women’s History Month with a Roundup
+
+date: 2025-03-21, from: Association of Research Libraries News
+
+<p>Last Updated on March 21, 2025, 3:40 pm ET Join us and our member libraries in celebrating Women’s History during the month of March. Below is a roundup of events,...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-honors-womens-history-month-with-a-roundup/">ARL Honors Women’s History Month with a Roundup</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-honors-womens-history-month-with-a-roundup/>
+
+---
+
+## Internet Archive Responds to Record Labels: Stop Playing “Hide-The-Ball”
+
+date: 2025-03-21, from: Internet Archive Blog
+
+Yesterday, the Internet Archive submitted its response to the record labels’ recent motion, which seeks to add an additional 493 sound recordings to their lawsuit against the Internet Archive for [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/03/21/internet-archive-responds-to-record-labels-stop-playing-hide-the-ball/>
 
 ---
 
@@ -219,4 +245,16 @@ A physicist writes and illustrates a collection of humorous poems responding to 
 <br> 
 
 <https://standardebooks.org/ebooks/robert-williams-wood/how-to-tell-the-birds-from-the-flowers-and-other-woodcuts>
+
+---
+
+## Climate-Induced Polar Motion: 1900–2100
+
+date: 2025-03-16, from: ETH Zurich, recently added
+
+Kiani Shahvandi, Mostafa; Soja, Benedikt 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/727606>
 

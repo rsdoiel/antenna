@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-03-21 06:07:45
+updated: 2025-03-22 06:07:27
 ---
 
 # science and technology
 
-(date: 2025-03-21 06:07:45)
+(date: 2025-03-22 06:07:27)
+
+---
+
+## CAS Discovery and Foresight
+
+date: 2025-03-21, from: NASA breaking news
+
+Convergent Aeronautics Solutions (CAS) Discovery identifies problems worth solving for the benefit of all. We formulate “convergent” problems—across multiple disciplines and sectors—and build footholds toward potentially transformative opportunities in aeronautics. As aeronautics rapidly advances, it is increasingly intersecting with other sectors like energy, healthcare, emergency response, economic resilience, the space economy, and more. CAS Discovery [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/tacp/cas/cas-discovery/>
+
+---
+
+## Trump orders all government IT contracts consolidated under GSA
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>White House touts massive savings, agencies brace for shake-up</h4> <p>President Trump&#39;s latest executive order takes aim at federal IT procurement, moving to centralize how Uncle Sam buys tech across agencies.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/trump_orders_it_contracts_consolidated/>
+
+---
+
+## AWS sued by product manager who says she was laid off for being an older woman
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>&#39;Flawless&#39; team boss claims she was axed after raising alarm over shrinking female leadership ranks</h4> <p>A former senior product manager at Amazon Web Services has sued the cloud colossus in the US, claiming she faced retaliation from bosses and was ultimately laid off due to her gender and age.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/aws_sued_for_alleged_discrimination/>
+
+---
+
+## NASA to Launch Three Rockets from Alaska in Single Aurora Experiment
+
+date: 2025-03-21, from: NASA breaking news
+
+Three NASA-funded rockets are set to launch from Poker Flat Research Range in Fairbanks, Alaska, in an experiment that seeks to reveal how auroral substorms affect the behavior and composition of Earth’s far upper atmosphere.  The experiment’s outcome could upend a long-held theory about the aurora’s interaction with the thermosphere. It may also improve space […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/sounding-rockets/nasa-alaska-rockets-aurora-experiment/>
+
+---
+
+## NASA Reveals Semifinalists of Power to Explore Challenge
+
+date: 2025-03-21, from: NASA breaking news
+
+NASA has selected the 45 semifinalists of the Power to Explore Challenge, a national competition for K-12 students featuring the enabling power of radioisotopes. 
+
+<br> 
+
+<https://science.nasa.gov/technology/rps/nasa-reveals-semifinalists-of-power-to-explore-challenge/>
+
+---
+
+## Making Ripples
+
+date: 2025-03-21, from: NASA breaking news
+
+A dolphin swims through the water in the Launch Complex 39 Area turn basin at NASA&#8217;s Kennedy Space Center in Florida on Nov. 6, 2007. The turn basin was carved out of the Banana River when NASA Kennedy was built. Dolphins are a frequent sight in the rivers around Kennedy, which shares a boundary with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/making-ripples/>
+
+---
+
+## NASA Astronauts to Answer Questions from Students in New York
+
+date: 2025-03-21, from: NASA breaking news
+
+Students from Richmond Hill, New York,will have the chance to connect with NASA astronauts Anne McClain and Nichole Ayers as they answer prerecorded science, technology, engineering, and mathematics-related questions from aboard the International Space Station. Watch the 20-minute space-to-Earth call at 12 p.m. EDT on Wednesday, March 26, on NASA+ and learn how to watch [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-students-in-new-york/>
+
+---
+
+## Euro businesses flummoxed by Scope 3 emissions
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Measuring all the dirty work of the supply chain and other indirect influences? Ugh, just give us the fine</h4> <p>Half of European businesses fear they&#39;ll lose customers if they come clean about their greenhouse gas emissions, a third lack confidence in the accuracy of their carbon data, and and 40 percent will just take a fine as they can&#39;t be bothered with it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/report_scope_3_emissions/>
+
+---
+
+## Microsoft ducks politico questions on Copilot bundling and lack of consent
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Consumer price hikes come amid interrogation of why customers have to opt out of added AI features</h4> <p>The UK&#39;s Science, Innovation, and Technology Committee is pressing Microsoft for answers about the recent Microsoft 365 price hikes and why customers are forced to opt out of the more expensive Copilot version.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/microsoft_365_hikes/>
+
+---
+
+## NASA’s Artemis II Orion Service Module Buttoned Up for Launch
+
+date: 2025-03-21, from: NASA breaking news
+
+Technicians with NASA and Lockheed Martin fitted three spacecraft adapter jettison fairing panels onto the service module of the agency’s Orion’s spacecraft. The operation completed on Wednesday, March 19, 2025, inside the Neil A. Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center in Florida. The European-built service module is the powerhouse that will [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-artemis-ii-orion-service-module-buttoned-up-for-launch/>
+
+---
+
+## NASA to Cover Northrop Grumman’s 21st Cargo Space Station Departure
+
+date: 2025-03-21, from: NASA breaking news
+
+After delivering more than 8,200 pounds of supplies, scientific investigations, commercial products, hardware, and other cargo to the orbiting laboratory for NASA and its international partners, Northrop Grumman’s uncrewed Cygnus spacecraft is scheduled to depart the International Space Station on Friday, March 28. Watch NASA’s live coverage of undocking and departure at 6:30 a.m. EDT [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-cover-northrop-grummans-21st-cargo-space-station-departure/>
+
+---
+
+## 3D Printing: Saving Weight and Space at Launch
+
+date: 2025-03-21, from: NASA breaking news
+
+Science in Space March 2025 Additive manufacturing, also known as 3D printing, is regularly used on the ground to quickly produce a variety of devices. Adapting this process for space could let crew members create tools and parts for maintenance and repair of equipment on the spot, rather than trying to bring along every item [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/3d-printing-saving-weight-and-space-at-launch/>
+
+---
+
+## Accenture: DOGE's federal procurement review is hurting our sales
+
+date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+
+<h4>Share price list slides for top ten consultant to US government</h4> <p>Accenture says federal procurement projects are continuing to slow since Elon Musk&#39;s Department of Government Efficiency began reviewing ways to cut costs last month, and this is directly impacting its business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/21/accenture_warns_doges_federal_procurement/>
+
+---
+
+## How Metabolism Can Shape Cells’ Destinies
+
+date: 2025-03-21, from: Quanta Magazine
+
+A growing body of work suggests that cell metabolism — the chemical reactions that provide energy and building materials — plays a vital, overlooked role in the first steps of life.            <p>The post <a href="https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/" target="_blank">How Metabolism Can Shape Cells’ Destinies</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/how-metabolism-can-shape-cells-destinies-20250321/>
 
 ---
 
@@ -13,7 +181,7 @@ updated: 2025-03-21 06:07:45
 
 date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
 
-<h4>MAPTIS mailing list blunder triggers reply-all chaos</h4> <p><strong>EXCLUSIVE</strong>  Everybody loves a good email storm. However, an insecure email distribution list that results in an accidental spamming of space agencies worldwide is undoubtedly one for the record books.…</p> 
+<h4>A lone voice cries out from reply-all chaos: &#39;Someone tell DOGE to rehire whoever maintains this email list&#39;</h4> <p><strong>EXCLUSIVE</strong>  Everybody loves a good email storm. But an insecure email distribution list accidental spamming space agencies across the planet is undoubtedly one for the record books.…</p> 
 
 <br> 
 
@@ -83,9 +251,9 @@ date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
 
 ## Datacenters near Heathrow seemingly stay up as substation fire closes airport
 
-date: 2025-03-21, updated: 2025-03-21, from: The Register (UK I.T. News)
+date: 2025-03-21, updated: 2025-03-22, from: The Register (UK I.T. News)
 
-<h4>Power outage means no flights for 24 hours. And chaos. Lots of chaos</h4> <p>London’s Heathrow Airport will close on Friday after a fire in an electricity substation it relies on caused a power outage - but nearby datacenters seem not to be unaffected.…</p> 
+<h4>Power outage means no flights for 24 hours. And chaos. Lots of chaos</h4> <p>London’s Heathrow Airport will close on Friday after a fire in an electricity substation it relies on caused a power outage - but nearby datacenters seem to be unaffected.…</p> 
 
 <br> 
 
@@ -515,7 +683,7 @@ date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
 
 ## Tencent slows pace of GPU rollout as DeepSeek helps it wring more performance from fewer accelerators
 
-date: 2025-03-20, updated: 2025-03-20, from: The Register (UK I.T. News)
+date: 2025-03-20, updated: 2025-03-21, from: The Register (UK I.T. News)
 
 <h4>Chinese giant says locals are more efficient than Western hyperscalers, and has tiny capex to prove it</h4> <p>Chinese tech giant Tencent has slowed the pace of its GPU rollout since implementing DeepSeek.…</p> 
 
@@ -719,9 +887,9 @@ date: 2025-03-19, updated: 2025-03-20, from: The Register (UK I.T. News)
 
 ## Chimera Linux ghosts RISC-V because there's no time for sluggish hardware
 
-date: 2025-03-19, updated: 2025-03-19, from: The Register (UK I.T. News)
+date: 2025-03-19, updated: 2025-03-21, from: The Register (UK I.T. News)
 
-<h4>Dev behind the GNU-free distro says boards too slow for serious work</h4> <p>The creators of the unique Chimera Linux distro are dropping support for RISC-V because kit built on the open instruction set architecture just isn&#39;t fast enough and this is holding up the development pipeline.…</p> 
+<h4>Dev behind the GNU-free distro says boards too slow for serious work</h4> <p><strong>Updated</strong>  The creators of the unique Chimera Linux distro are dropping support for RISC-V because kit built on the open instruction set architecture just isn&#39;t fast enough and this is holding up the development pipeline.…</p> 
 
 <br> 
 
@@ -1722,4 +1890,52 @@ date: 2025-03-16, updated: 2025-03-16, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/16/qwq_hands_on_review/>
+
+---
+
+## RIP Mark Klein, the engineer who exposed US domestic spying ops after wiring it up
+
+date: 2025-03-15, updated: 2025-03-15, from: The Register (UK I.T. News)
+
+<h4>AT&amp;T engineer, and the Deep Throat of the network age, dies at 79</h4> <p>In 2006, a retired AT&amp;T engineer knocked on the door of the EFF&#39;s office in a rundown part of San Francisco&#39;s Mission district and asked, &#34;Do you folks care about privacy?&#34; With him he carried schematics exposing the largest US government domestic spying operation since Watergate.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/15/rip_mark_klein/>
+
+---
+
+## NASA’s EZIE Launches on Mission to Study Earth’s Electrojets
+
+date: 2025-03-15, from: NASA breaking news
+
+Under the nighttime California sky, NASA’s EZIE (Electrojet Zeeman Imaging Explorer) mission launched aboard a SpaceX Falcon 9 rocket at 11:43 p.m. PDT on March 14. Taking off from Vandenberg Space Force Base near Santa Barbara, the EZIE mission’s trio of small satellites will fly in a pearls-on-a-string configuration approximately 260 to 370 miles above Earth’s surface to […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasas-ezie-launches-on-mission-to-study-earths-electrojets/>
+
+---
+
+## Ironclad 0.6 released
+
+date: 2025-03-15, from: OS News
+
+It&#8217;s been a while, but there&#8217;s a new release of Ironclad, the formally verified, hard real-time capable kernel written in SPARK and Ada. Aside from the usual bugfixes, this release moves Ironclad from multiboot to Limine, adds x86_64 ACPI support for poweroff and reboot, improvements to PTY support, the VFS layer, and much more. The easiest way to try out Ironclad is to download Gloire, a distribution that uses Ironclad and the GNU tools. It can be installed in both a virtual machine and on real hardware. 
+
+<br> 
+
+<https://www.osnews.com/story/141935/ironclad-0-6-released/>
+
+---
+
+## A look at Firefox forks
+
+date: 2025-03-15, from: OS News
+
+Mozilla&#8217;s actions have been rubbing many Firefox fans the wrong way as of late, and inspiring them to look for alternatives. There are many choices for users who are looking for a browser that isn&#8217;t part of the Chrome monoculture but is full-featured and suitable for day-to-day use. For those who are willing to stay in the Firefox &#8220;family&#8221; there are a number of good options that have taken vastly different approaches. This includes GNU IceCat, Floorp, LibreWolf, and Zen. ↫ Joe Brockmeier It&#8217;s a tough situation, as we&#8217;re all aware. We don&#8217;t want the Chrome monoculture to get any worse, but with Mozilla&#8217;s ever-increasing number of dubious decisions some people have been warning about for years, it&#8217;s only natural for people to look elsewhere. Once you decide to drop Firefox, there&#8217;s really nowhere else to go but Chrome and Chrome skins, or the various Firefox skins. As an aside, I really don&#8217;t think these browsers should be called Firefox &#8220;forks&#8221;; all they really do is change some default settings, add in an extension or two, and make some small UI tweaks. They may qualify as forks in a technical sense, but I think that overstates the differentiation they offer. Late last year, I tried my best to switch to KDE&#8217;s Falkon web browser, but after a few months the issues, niggles, and shortcomings just started to get under my skin. I switched back to Firefox for a little while, contemplating where to go from there. Recently, I decided to hop onto the Firefox skin train just to get rid of some of the Mozilla telemetry and useless &#8216;features&#8217; they&#8217;ve been adding to Firefox, and after some careful consideration I decided to go with Waterfox. Waterfox strikes a nice balance between the strict choices of LibreWolf &#8211; which most users of LibreWolf seem to undo, if my timeline is anything to go by &#8211; and the choices Mozilla itself makes. On top of that, Waterfox enables a few very nice KDE integrations Firefox itself and the other Firefox skins don&#8217;t have, making it a perfect choice for KDE users. Sadly, Waterfox isn&#8217;t packaged for most Linux distributions, so you&#8217;ll have to resort to a third-party packager. In the end, none of the Firefox skins really address the core problem, as they&#8217;re all still just Firefox. The problem with Firefox is Mozilla, and no amount of skins is going to change that. 
+
+<br> 
+
+<https://www.osnews.com/story/141933/a-look-at-firefox-forks/>
 

@@ -1,15 +1,239 @@
 ---
 title: going electric
-updated: 2025-03-21 06:07:50
+updated: 2025-03-22 06:07:32
 ---
 
 # going electric
 
-(date: 2025-03-21 06:07:50)
+(date: 2025-03-22 06:07:32)
 
 ---
 
-## Leader manufacturer recalls hundreds of thousands of electric scooters
+## Hyundai’s limited-edition IONIQ 5 is heavily discounted right now
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundais-limited-edition-IONIQ-5.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The limited-edition Gold Matte IONIQ 5 Disney100 Platinum Edition is Hyundai’s first vehicle designed with Walt Disney Imagineering. You know, the creative forces behind the Disney movies, stories, characters, and theme parks. With a new secret discount, Hyundai’s limited-edition <a href="https://electrek.co/guides/hyundai-ioniq-5/">IONIQ 5</a> is a steal, but getting your hands on one might be tricky.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="407053" href="https://electrek.co/2025/03/21/hyundais-limited-edition-ioniq-5-heavily-discounted-right-now/#more-407053" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/hyundais-limited-edition-ioniq-5-heavily-discounted-right-now/>
+
+---
+
+## Xiaomi's SU7 Outsold All EVs Made By Ford And GM In 2024
+
+date: 2025-03-21, from: Inside EVs News
+
+Xiaomi, a newcomer to the EV space, outsold both GM and Ford in 2024. 
+
+<br> 
+
+<https://insideevs.com/news/754275/xiaomi-ford-gm-outsold-evs/>
+
+---
+
+## California now has nearly 50% more EV chargers than gas nozzles
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/Indoor-charging-station-front.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>California now has 178,549 public and shared private EV chargers – hitting a major milestone with 48% more chargers statewide than gas nozzles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="california,dc-fast-charging,ev-chargers,ev-charging-stations,gas-stations,gavin-newsom" data-layer-viewtype="unknown" data-post-id="407040" href="https://electrek.co/2025/03/21/california-50-percent-more-ev-chargers-than-gas-nozzles/#more-407040" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/california-50-percent-more-ev-chargers-than-gas-nozzles/>
+
+---
+
+## 2024 Honda Prologue Lease Deals Are Still Very Cheap
+
+date: 2025-03-21, from: Inside EVs News
+
+The Prologue was offered with some of the cheapest leases in the entire Honda lineup. That may be changing for 2025, so act fast. 
+
+<br> 
+
+<https://insideevs.com/news/754298/2024-honda-prologue-lease-deals/>
+
+---
+
+## Podcast: Tesla hate goes biblical, BYD comes out swinging, Renault 5 Turbo 3E, and more
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla hate going biblical, BYD coming out swinging with new record charging time, the new Renault 5 Turbo 3E, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="407023" href="https://electrek.co/2025/03/21/podcast-tesla-hate-goes-biblical-byd-comes-out-swinging-renault-5-turbo-3e-and-more/#more-407023" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/podcast-tesla-hate-goes-biblical-byd-comes-out-swinging-renault-5-turbo-3e-and-more/>
+
+---
+
+## Rivian’s R1T is flexing its might, proving it’s more than just an everyday electric truck
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Rivian-R1T-EV-mining.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/rivian-r1t/">R1T</a> is more than your average pickup truck. Rivian calls it an “Adventure Vehicle” for a reason. After Rivian’s R1T braved sun-scorched trials in Australia and sub-zero temps in North America, mining equipment specialist MEVCO claims one thing clear — “the R1T is built for extremes.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r1t" data-layer-viewtype="unknown" data-post-id="407006" href="https://electrek.co/2025/03/21/rivian-r1t-proving-more-than-just-an-everyday-ev-truck/#more-407006" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/rivian-r1t-proving-more-than-just-an-everyday-ev-truck/>
+
+---
+
+## Could The Audi TT Return As An Electric Sports Car?
+
+date: 2025-03-21, from: Inside EVs News
+
+"Audi should have a sports car, for sure,” CEO Gerald Döllner said. And a new concept due out this year could show where Audi is going. 
+
+<br> 
+
+<https://insideevs.com/news/754271/audi-tt-electric-possible-return/>
+
+---
+
+## Bluetti Spring Sale takes 54% off power stations with exclusive savings, Save $700 during Aventon e-bike sale, Greenworks, more
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Bluetti-Spring-Sale-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Closing out this week’s Green Deals, we’re starting with <a href="https://9to5toys.com/2025/03/21/bluetti-spring-sale-ac300-solar-generator-bundle-1899-low-more/">Bluetti’s newly launched Spring Sale</a> that is taking up to 54% off a massive collection of power stations, solar generator bundles, and accessories while also offering some limited flash offers and exclusive extra savings. Among the many notable inclusions, we spied the brand’s <a href="https://9to5toys.com/2025/03/21/bluetti-spring-sale-ac300-solar-generator-bundle-1899-low-more/">AC300 solar generator package</a> with an expansion battery and a 350W solar panel returning to the <a href="https://9to5toys.com/2025/03/21/bluetti-spring-sale-ac300-solar-generator-bundle-1899-low-more/">$1,899</a> low we last saw during Black Friday. Next, <a href="https://9to5toys.com/2025/03/21/aventon-spring-sale-ramblas-emb-2599-more/">Aventon’s Spring Sale</a> has a mix of increased and continuing savings on its e-bikes, like the <a href="https://9to5toys.com/2025/03/21/aventon-spring-sale-ramblas-emb-2599-more/">Ramblas Electric Mountain Bike</a> that has fallen to <a href="https://9to5toys.com/2025/03/21/aventon-spring-sale-ramblas-emb-2599-more/">$2,599</a>, among others. We’re also seeing up to $1,000 off Greenworks’ 30-inch, 42-inch, 54-inch and 60-inch <a href="https://9to5toys.com/2025/03/21/greenworks-60v-riding-mowers-from-2997/">electric riding mowers starting from $2,997</a>, as well as <a href="https://9to5toys.com/2025/03/21/eve-aqua-homekit-water-controller-new-99-low/">Eve’s Aqua HomeKit Smart Water Controller</a> dropping to <a href="https://9to5toys.com/2025/03/21/eve-aqua-homekit-water-controller-new-99-low/">$99</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/03/20/jackery-explorer-3000-pro-500w-panel-1999-low-more/">Jackery Home Improvement Sale</a>, the price cut on <a href="https://9to5toys.com/2025/03/20/lectric-xpeak-2-0-long-range-e-bike-new-1579-low/">Lectric’s XPeak 2.0 Long-Range e-bikes</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="406994" href="https://electrek.co/2025/03/21/bluetti-spring-sale-aventon-greenworks-more/#more-406994" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/bluetti-spring-sale-aventon-greenworks-more/>
+
+---
+
+## Is Cadillac killing off its last two sedans for EVs? Bring on the electric CT4 and CT5
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Cadillac-sedans-EVs.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The last two gas-powered <a href="https://electrek.co/guides/cadillac/">Cadillac</a> sedans, the CT4 and CT5, could be traded in for a pair of EVs. GM reportedly has no plans for a next-gen Cadillac CT4 or CT5 with an internal combustion engine, but an electric version could replace it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac" data-layer-viewtype="unknown" data-post-id="406972" href="https://electrek.co/2025/03/21/cadillac-killing-off-last-two-sedans-for-evs/#more-406972" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/cadillac-killing-off-last-two-sedans-for-evs/>
+
+---
+
+## Elon Musk Really Wants Tesla Investors To Think He's Not MIA
+
+date: 2025-03-21, from: Inside EVs News
+
+Elon Musk attempts to rally the troops, and investors, with a variation on the same act: Robots, space travel, don't sell your stock.  
+
+<br> 
+
+<https://insideevs.com/news/754274/tesla-all-hands-q1-speech/>
+
+---
+
+## Over 80 Tesla vehicles damaged at a single location
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-damaged-hamilton-canada.png?w=1600" /></div><p>The Hamilton police in Ontario announced that over 80 Tesla vehicles were damaged in a vandalism attack at a Tesla service center.</p>
+
+
+
+<p>It’s the latest example of a series of vandalism attacks against Tesla over the last few weeks.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406971" href="https://electrek.co/2025/03/21/over-80-tesla-vehicles-damaged-at-a-single-location/#more-406971" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/over-80-tesla-vehicles-damaged-at-a-single-location/>
+
+---
+
+## GM And Hyundai's Electric Van And Truck Plans Are Coming Together
+
+date: 2025-03-21, from: Inside EVs News
+
+The auto giants are exploring a broad partnership across vehicle segments and EV batteries. 
+
+<br> 
+
+<https://insideevs.com/news/754273/gm-hyundai-electric-van-truck-battery-partnership/>
+
+---
+
+## Chevy opens orders for the 615 hp Blazer EV SS, its quickest ‘SS’ model yet
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Chevys-Blazer-EV-SS-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The 2025 <a href="https://electrek.co/guides/chevy-blazer-ev/">Blazer EV</a> isn’t just fast. It’s the quickest SS vehicle that Chevy has ever built. With a staggering 615 horsepower and 650 lb-ft of instant torque, the electric SUV can outrun most sports cars. Plus, with over 300 miles of range, it’s practical enough for an everyday drive. The best part? It’s now available to order.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-blazer-ev" data-layer-viewtype="unknown" data-post-id="406949" href="https://electrek.co/2025/03/21/chevy-opens-orders-for-2025-blazer-ev-ss/#more-406949" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/chevy-opens-orders-for-2025-blazer-ev-ss/>
+
+---
+
+## The Lucid Air Gets A $4,000 Discount For Tesla Owners
+
+date: 2025-03-21, from: Inside EVs News
+
+The offer is valid for owners of several hybrid and gas-powered models, but Tesla is the only EV maker eligible. 
+
+<br> 
+
+<https://insideevs.com/news/754257/lucid-tesla-conquest-deal/>
+
+---
+
+## Elon tells Tesla employees not to sell TSLA stock as board and execs are dumping
+
+date: 2025-03-21, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-all-hands-meeting.png?w=1600" /></div><p>At an all-hands meeting last night, Elon Musk stood before Tesla employees and told them to “hang on to their TSLA stocks” as Tesla board members and top executive are dumping their shares amid a 40% crash.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406948" href="https://electrek.co/2025/03/21/elon-tells-tesla-employees-not-to-sell-tsla-stocks-board-execs-are-dumping/#more-406948" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/21/elon-tells-tesla-employees-not-to-sell-tsla-stocks-board-execs-are-dumping/>
+
+---
+
+## Leading manufacturer recalls hundreds of thousands of electric scooters
 
 date: 2025-03-21, from: Electrek Feed
 
@@ -429,7 +653,7 @@ date: 2025-03-20, from: Electrek Feed
 
 ---
 
-## Trump’s US Commerce Secretary, who owns Tesla stocks, publicly recommends to buy TSLA
+## Trump’s US Commerce Secretary, who owns Tesla stock, publicly recommends to buy TSLA
 
 date: 2025-03-20, from: Electrek Feed
 
@@ -1602,4 +1826,80 @@ The rental-car company has budget-priced Chevrolet Silverado EVs, Bolt EVs and F
 <br> 
 
 <https://insideevs.com/news/753629/hertz-ev-tesla-deals-2025/>
+
+---
+
+## JPMorgan Says Tesla's About To Have A Bad Time
+
+date: 2025-03-15, from: Inside EVs News
+
+The firm cut Tesla's delivery forecast by 20% and said that stock could eventually drop even more to $120 per share.  
+
+<br> 
+
+<https://insideevs.com/news/753615/tesla-prediction-deliveries-jp-morgan/>
+
+---
+
+## Tesla’s top crash safety architect quits
+
+date: 2025-03-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Petter-Winberg-Tesla-crash-safety-architect.png?w=1600" /></div><p>Tesla’s top crash safety architect, who helped the automaker achieve top safety scores for its entire car line-up, announced that he is leaving the automaker after 14 years.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406023" href="https://electrek.co/2025/03/15/tesla-top-crash-safety-architect-quits/#more-406023" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/15/tesla-top-crash-safety-architect-quits/>
+
+---
+
+## Tesla Model S Plaid gets smoked in drag race by Xiaomi’s cheaper SU7 Ultra
+
+date: 2025-03-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Model-S-Plaid-vs-Xiaomi-Su7-Ultra.png?w=1600" /></div><p>The SU7 Ultra, Xiaomi’s new flagship electric vehicle, went against a Tesla Model S Plaid in a drag race and it smoked it.</p>
+
+
+
+<p>The car is ridiculously powerful, and it’s about 35% cheaper than the Plaid, which is already affordable relative to its supercar performance.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,xiaomi" data-layer-viewtype="unknown" data-post-id="405921" href="https://electrek.co/2025/03/15/tesla-model-s-plaid-smoked-drag-race-xiaomis-su7-ultra/#more-405921" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/15/tesla-model-s-plaid-smoked-drag-race-xiaomis-su7-ultra/>
+
+---
+
+## Volkswagen ID.4 Motor Teardown: Killed By A Very Simple Problem
+
+date: 2025-03-15, from: Inside EVs News
+
+The coolant seems to have gone where it wasn’t supposed to. Yet the damaged motor looks pretty much perfect inside. 
+
+<br> 
+
+<https://insideevs.com/news/753316/vw-id4-front-motor-fail-teardown/>
+
+---
+
+## Surprise! London’s tax on polluting vehicles made everyone much healthier
+
+date: 2025-03-15, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/electric-Cab-London-LEVC.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The city of London has released a report showing drastic drops in air pollution since it expanded its Ultra Low Emission Zone, an area within the city where polluting vehicles must pay a congestion charge to visit.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="london" data-layer-viewtype="unknown" data-post-id="405963" href="https://electrek.co/2025/03/15/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/#more-405963" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/15/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/>
 

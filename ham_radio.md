@@ -1,11 +1,59 @@
 ---
 title: ham radio
-updated: 2025-03-21 06:07:44
+updated: 2025-03-22 06:07:26
 ---
 
 # ham radio
 
-(date: 2025-03-21 06:07:44)
+(date: 2025-03-22 06:07:26)
+
+---
+
+## Ham Radio, Students and Scientists at the 2025 HamSCI Workshop
+
+date: 2025-03-21, from: Amateur Radio Relay League News
+
+<p><strong>By: Rich Moseson, W2VU</strong></p><p>Some 175 scientists, students, professors, and amateur radio operators from around the world gathered in person and virtually on March 14 and 15 to share research, educate each other, and network at the annual HamSCI Workshop. HamSCI, the Ham Radio Science Citizen Investigation program, aims to promote collaboration between science, amateur radio, and education. The 2025 w...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/ham-radio-students-and-scientists-at-the-2025-hamsci-workshop>
+
+---
+
+## ARRL Ham Radio Open House Continues to Grow
+
+date: 2025-03-21, from: Amateur Radio Relay League News
+
+<p>Dozens of amateur radio clubs have made plans to host an ARRL Ham Radio Open House in April. The nationwide event is centered around World Amateur Radio Day on April 18. 2025 is the 100th anniversary of the founding of the International Amateur Radio Union (IARU).</p><p>While we’ve been using radio for well over 100 years, amateur radio operators continue to be on the cutting edge of innovation in ele...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-ham-radio-open-house-continues-to-grow>
+
+---
+
+## 76th International DX Convention April 11 – 13 in Visalia, CA
+
+date: 2025-03-21, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/76th-international-dx-convention-april-11-13-in-visalia-ca>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-03-21, from: Amateur Radio Relay League News
+
+<p>Solar activity reached moderate levels due to an isolated M1.5/1n<br />flare on March 19 at 2040 UTC from Region AR4031.  Regions AR4028,<br />AR4034, and AR4035 exhibited slight growth.<br /><br />Region AR4026 re-emerged in the Southwest quadrant. Regions in the<br />Northwest quadrant, including AR4020, AR4022, AR4025, and AR4031 all<br />appeared to be in a decay phase.<br /><br />No Earth-directed CMEs were detected in available coronag...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-6>
 
 ---
 

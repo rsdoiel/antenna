@@ -1,11 +1,189 @@
 ---
 title: food
-updated: 2025-03-21 06:07:50
+updated: 2025-03-22 06:07:33
 ---
 
 # food
 
-(date: 2025-03-21 06:07:50)
+(date: 2025-03-22 06:07:33)
+
+---
+
+## Aunt Edith’s Baked Pancake
+
+date: 2025-03-21, from: Taste of Home
+
+My aunt made a mighty breakfast that revolved around 'The Big Pancake'. I always enjoyed watching as she poured the batter into her huge cast-iron skillet, then created the perfect confection: baked pancakes. —Marion Kirst, Troy, Michigan 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/aunt-ediths-baked-pancake/>
+
+---
+
+## Cheese Recall: Aldi Recalls 4,800 Bags of Shredded Cheese
+
+date: 2025-03-21, from: Taste of Home
+
+<p>The shredded cheese from Aldi could contain fragments of stainless steel.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/aldi-cheese-recall-march-2025/">Cheese Recall: Aldi Recalls 4,800 Bags of Shredded Cheese</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/aldi-cheese-recall-march-2025/>
+
+---
+
+## Spring Ahead On The Coffee Sprudgecast
+
+date: 2025-03-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Drinking Heartwood Coffee and Partners Coffee on this week's episode of the Coffee Sprudgecast. 
+
+<br> 
+
+<https://sprudge.com/spring-ahead-on-the-coffee-sprudgecast-309562.html>
+
+---
+
+## Beef Sticks Recall: 29,541 Pounds of Beef Sticks Could Be Contaminated
+
+date: 2025-03-21, from: Taste of Home
+
+<p>Your favorite snack might contain pieces of metal. Here's what we know about this recall. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/beef-sticks-recall-march-2025/">Beef Sticks Recall: 29,541 Pounds of Beef Sticks Could Be Contaminated</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/beef-sticks-recall-march-2025/>
+
+---
+
+## McDonald’s Just Launched a New Happy Meal—Here’s What’s Inside
+
+date: 2025-03-21, from: Taste of Home
+
+<p>McDonald's crafted this new Happy Meal to be all mine.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mcdonalds-minecraft-happy-meal/">McDonald’s Just Launched a New Happy Meal—Here’s What’s Inside</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mcdonalds-minecraft-happy-meal/>
+
+---
+
+## Internal Documents Don’t Paint A Rosy Picture Of Chamberlain Coffee
+
+date: 2025-03-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Despite millions in sales, the brand was not profitable last year. 
+
+<br> 
+
+<https://sprudge.com/internal-documents-dont-paint-a-rosy-picture-of-chamberlain-coffee-309553.html>
+
+---
+
+## The Breville Sous Chef Is Our Favorite Food Processor
+
+date: 2025-03-21, from: Bon Appetet
+
+Much love to Cuisinart, but the Breville simply does it better. 
+
+<br> 
+
+<https://www.bonappetit.com/story/breville-sous-chef-review>
+
+---
+
+## This Is All Gordon Ramsay Eats for Breakfast—and Why He Won’t Change It
+
+date: 2025-03-21, from: Taste of Home
+
+<p>The king of kitchen entertainment keeps his breakfast simple.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/what-does-gordon-ramsay-eat-for-breakfast/">This Is All Gordon Ramsay Eats for Breakfast—and Why He Won&#8217;t Change It</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/what-does-gordon-ramsay-eat-for-breakfast/>
+
+---
+
+## The Cheesecake Factory Just Cut 13 Items from Its Menu—Here’s the Full List
+
+date: 2025-03-21, from: Taste of Home
+
+<p>The Cheesecake Factory is doing some spring cleaning.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/the-cheesecake-factory-menu-changes/">The Cheesecake Factory Just Cut 13 Items from Its Menu—Here&#8217;s the Full List</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/the-cheesecake-factory-menu-changes/>
+
+---
+
+## The Best Cordless Vacmop (2025) for Effortlessly Clean Floors
+
+date: 2025-03-21, from: Bon Appetet
+
+We’ve tested 16 popular models to find the very best wet-dry vacuum for your kitchen and beyond. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-vacmop>
+
+---
+
+## Weekly Coffee News: Webinars, Panels and Podcasts on Sourcing and Trade
+
+date: 2025-03-21, from: Daily Coffee News
+
+<div><img width="620" height="429" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/US-Canada-Mexico-trade-620x429.jpg" class="attachment-large size-large wp-post-image" alt="US Canada Mexico trade" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/US-Canada-Mexico-trade-620x429.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/US-Canada-Mexico-trade-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/US-Canada-Mexico-trade-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/US-Canada-Mexico-trade-768x531.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/US-Canada-Mexico-trade.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. NCA Hosting Webinar on &#8216;Trade War and Coffee Imports&#8217;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/21/weekly-coffee-news-webinars-panels-and-podcasts-on-sourcing-and-trade/>
+
+---
+
+## Baked Chicken Legs
+
+date: 2025-03-21, from: Taste of Home
+
+These baked chicken legs are crispy on the outside, juicy inside and packed with flavor thanks to a simple blend of pantry spices. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/baked-chicken-legs/>
+
+---
+
+## The Chef at London's Most Controversial Restaurant Goes on the Record
+
+date: 2025-03-21, from: Bon Appetet
+
+Hugh Corcoran, the firebrand chef behind the Yellow Bittern, thinks we all deserve a longer lunch break. “Reorganize society so we can drink wine in the middle of the afternoon.” 
+
+<br> 
+
+<https://www.bonappetit.com/story/london-yellow-bittern-hugh-corcoran>
+
+---
+
+## Voting Continues At The 16th Annual Sprudgie Awards
+
+date: 2025-03-21, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Voting is open through Friday, April 4th 11:59 PM PST. 
+
+<br> 
+
+<https://sprudge.com/voting-continues-at-the-16th-annual-sprudgie-awards-307834.html>
 
 ---
 
@@ -46,6 +224,18 @@ date: 2025-03-21, from: Chili Pepper Madness
 <br> 
 
 <https://www.chilipeppermadness.com/recipes/creole-seasoning/>
+
+---
+
+## Brazilian Chicken Stroganoff
+
+date: 2025-03-21, from: Taste of Home
+
+Brazilian chicken stroganoff is a fun twist on a classic that's beloved by Matthew McConaughey and Camila Alves, his Brazilian wife. It's a more heavily seasoned take on Russian stroganoff. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/brazilian-chicken-stroganoff/>
 
 ---
 
@@ -143,7 +333,7 @@ date: 2025-03-20, from: The Sprudge
 
 date: 2025-03-20, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-620x414.jpg" class="attachment-large size-large wp-post-image" alt="AFCA Africa Barista Competition" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The 21st African Fine Coffees Conference &#38; Exhibition recently concluded in Dar es Salaam, Tanzania, shining a light on some of the finest coffees and most talented baristas throughout the... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-620x414.jpg" class="attachment-large size-large wp-post-image" alt="AFCA Africa Barista Competition" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/AFCA-Africa-Barista-Competition.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The 21st African Fine Coffees Conference &#38; Exhibition recently concluded in Dar es Salaam, Tanzania, shining a light on some of the finest coffees and most talented baristas throughout the... 
 
 <br> 
 
@@ -517,7 +707,7 @@ Stock up on kitchen tools and save big on Breville, Staub, Dyson, Ninja, and oth
 
 date: 2025-03-19, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg" class="attachment-large size-large wp-post-image" alt="WeBe Coffee Phoenix 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg" class="attachment-large size-large wp-post-image" alt="WeBe Coffee Phoenix 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/NZ8_2214.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <br> 
 
@@ -1281,18 +1471,6 @@ date: 2025-03-17, from: Closet Cooking
 
 ---
 
-## The Chef at London's Most Controversial Restaurant Goes on the Record
-
-date: 2025-03-17, from: Bon Appetet
-
-Hugh Corcoran, the firebrand chef behind the Yellow Bittern, thinks we all deserve a longer lunch break. “Reorganize society so we can drink wine in the middle of the afternoon.” 
-
-<br> 
-
-<https://www.bonappetit.com/story/london-yellow-bittern-hugh-corcoran>
-
----
-
 ## Saucy Mushroom Stir-Fry
 
 date: 2025-03-17, from: Bon Appetet
@@ -1428,4 +1606,28 @@ Cheesy, tangy and just a little bit spicy, a pimiento cheese sandwich makes a pe
 <br> 
 
 <https://www.tasteofhome.com/recipes/pimiento-cheese-sandwich/>
+
+---
+
+## 23 Korean BBQ Recipes for Grilling Season
+
+date: 2025-03-15, from: Bon Appetet
+
+Gochujang pork steaks, bulgogi short ribs, and all the banchan to go with them. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/korean-barbecue-bbq-recipes>
+
+---
+
+## Fried Fish Sandwich
+
+date: 2025-03-15, from: Taste of Home
+
+The airy beer batter of this fried fish sandwich tastes even better with the creamy homemade tartar sauce and crunchy coleslaw. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/fried-fish-sandwich/>
 

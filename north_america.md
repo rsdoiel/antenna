@@ -1,11 +1,320 @@
 ---
 title: north america
-updated: 2025-03-21 06:07:42
+updated: 2025-03-22 06:07:24
 ---
 
 # north america
 
-(date: 2025-03-21 06:07:42)
+(date: 2025-03-22 06:07:24)
+
+---
+
+## Our tribute to cherry blossom season
+
+date: 2025-03-21, from: Market Place, Make me Smart
+
+<p>It&#8217;s almost peak bloom in Washington, D.C., which means it&#8217;s time for our annual cherry blossom celebration! But first, some federal funding news: Columbia University will give in to far-reaching demands by President Donald Trump to restore threatened federal funding. We&#8217;ll get into what kind of precedent the move sets for higher education. And, the U.S. Department of Agriculture will cancel <a href="https://www.washingtonpost.com/nation/2025/03/21/food-banks-funding-cuts-usda-trump/">$500 million</a> in food deliveries. Rural food banks could be impacted most. Plus, we&#8217;ll play a blossom-themed round of Half Full/Half Empty!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.independent.co.uk/news/world/americas/us-politics/trump-commonwealth-offer-us-member-b2719470.html" target="_blank" rel="noreferrer noopener">&#8220;Trump weighs in on report King Charles will offer U.S. Commonwealth membership&#8221;</a> from The Independent</li>
+<li><a href="https://www.wsj.com/us-news/education/columbia-university-trump-demands-federal-funding-e94d41ca?mod=hp_lead_pos1" target="_blank" rel="noreferrer noopener">&#8220;Columbia Yields to Trump in Battle Over Federal Funding&#8221;</a> from The Wall Street Journal</li>
+<li><a href="https://www.washingtonpost.com/nation/2025/03/21/food-banks-funding-cuts-usda-trump/" target="_blank" rel="noreferrer noopener">&#8220;USDA cancels $500M in food deliveries, leaving food banks scrambling&#8221;</a> from The Washington Post</li>
+<li><a href="https://www.dispatch.com/story/news/2025/03/19/ohio-best-view-cherry-tree-blooming-blossoms-sakura-festival-cincinnati-athens-cleveland/82370106007/" target="_blank" rel="noreferrer noopener">&#8220;Ohio among best places to see cherry blossoms blooming. Here&#8217;s where&#8221;</a> from The Columbus Dispatch</li>
+<li><a href="https://volgenau.gmu.edu/news/2025-03/cherry-blossom-predictions-are-will-ai-bloom-or-bust">&#8220;Cherry Blossom predictions are in! Will A</a><a href="https://volgenau.gmu.edu/news/2025-03/cherry-blossom-predictions-are-will-ai-bloom-or-bust" target="_blank" rel="noreferrer noopener">I</a><a href="https://volgenau.gmu.edu/news/2025-03/cherry-blossom-predictions-are-will-ai-bloom-or-bust"> bloom or bust?&#8221;</a> from George Mason University</li>
+<li><a href="https://www.wbaltv.com/article/cherry-blossoms-climate-change/64254389">&#8220;Beyond the bud: How the nation&#8217;s pink trees became an indicator of changing climate&#8221;</a> from WBAL</li>
+<li><a href="https://wjla.com/news/local/tourism-washington-dc-visit-2025-national-cherry-blossom-festival-economic-impact-mayor-muriel-bowser-nations-capital-dmv-smithsonian-free-events-activities-money-restaurants-leisure-travel-hotels-tidal-basin-visitors" target="_blank" rel="noreferrer noopener">&#8220;2025 National Cherry Blossom Festival set to boost DC tourism&#8221;</a> from ABC7 News</li>
+</ul>
+<p>Donate to our March fundraiser to get classic public media thank-you gifts! <a href="https://support.marketplace.org/smart-sn" target="_blank" rel="noreferrer noopener">https://support.marketplace.org/smart-sn</a></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/21/mms_20250321_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Four-tribute-to-cherry-blossom-season&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/21/mms_20250321_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Four-tribute-to-cherry-blossom-season&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/our-tribute-to-cherry-blossom-season>
+
+---
+
+## The Disaster After the Disaster: Many Contaminants May Be Overlooked in the Wake of the L.A. Fires
+
+date: 2025-03-21, from: Capital and Main
+
+<p>Why one Santa Monica resident has spent $8,000 testing for toxins on local beaches.</p>
+<p>The post <a href="https://capitalandmain.com/the-disaster-after-the-disaster-many-contaminants-may-be-overlooked-in-the-wake-of-the-l-a-fires">The Disaster After the Disaster: Many Contaminants May Be Overlooked in the Wake of the L.A. Fires </a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/the-disaster-after-the-disaster-many-contaminants-may-be-overlooked-in-the-wake-of-the-l-a-fires>
+
+---
+
+## *ENTERTAINMENT SCOOP*
+
+date: 2025-03-21, from: The Contrarian
+
+The Contrarian is thoroughly displeased to announce we have obtained the 2025 Kennedy Center lineup, as dictated by the newly self-minted Chairman, Donald Trump. There will be no auditions. 
+
+<br> 
+
+<https://contrarian.substack.com/p/entertainment-scoop>
+
+---
+
+## There’s a “mysterious and important” debate in Congress on how to measure tax cuts
+
+date: 2025-03-21, from: Market Place
+
+The fight is over how to frame the numbers, one tax law expert says, because that changes the rhetoric. A Senate adviser will decide. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/21/theres-a-mysterious-and-important-debate-in-congress-on-how-to-measure-tax-cuts/>
+
+---
+
+## Evening Roundup, March 21
+
+date: 2025-03-21, from: The Contrarian
+
+Featuring Ben Wikler & Jen Rubin; Austin Sarat; Joshua Kolb and The Democracy Index; Brian O'Neill; Ezra Levin & Jen Rubin; Meredith Blake; Marissa Rothkopf; Ruben Bolling; and our Pet of the Week! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-21>
+
+---
+
+## Immigrants play vital role in caregiving industry with meager reward
+
+date: 2025-03-21, from: Market Place
+
+Experts worry that restrictions on immigration could lead to a shortage of caregivers as the U.S. population grows older and more infirm. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/21/immigrants-play-vital-role-in-caregiving-industry-with-meager-reward/>
+
+---
+
+## Columbia’s White Flag is a Disaster for Democracy
+
+date: 2025-03-21, from: The Contrarian
+
+Columbia University&#8217;s capitulation to the Trump administration will echo throughout higher education&#8212;and far beyond 
+
+<br> 
+
+<https://contrarian.substack.com/p/columbias-white-flag-is-a-disaster>
+
+---
+
+## Ezra Levin of Indivisible talks to Jen Rubin 
+
+date: 2025-03-21, from: The Contrarian
+
+On the swell of organized, collective action we're seeing nationwide and the upcoming Keep Your Hands Off protest on April 5 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159580459/e40d9b86995bc4f39d733f1c5d362ab3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159580459/e40d9b86995bc4f39d733f1c5d362ab3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ezra-levin-of-indivisible-talks-to>
+
+---
+
+## The Leading Economic Index has declined for 3 months straight. Should we worry?
+
+date: 2025-03-21, from: Market Place
+
+The Conference Board's Leading Economic 
+ Index was down by 0.3% in February — the third consecutive monthly decline. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/21/one-index-of-economic-indicators-the-conference-board-lei-signal-data/>
+
+---
+
+## Each federal layoff could lead to at least 1 other job loss in the private sector
+
+date: 2025-03-21, from: Market Place
+
+Spending by federal workers stimulates local economies. Once they’re laid off, that could affect nearby businesses, like restaurants. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/21/each-federal-layoff-could-lead-to-at-least-1-other-job-loss-in-the-private-sector/>
+
+---
+
+## Ben Wikler & Jen Rubin in Conversation 
+
+date: 2025-03-21, from: The Contrarian
+
+Our weekly update on the consequential Wisconsin Supreme Court race--and a discussion on the complaint filed and moved forward, alleging that Musk violated state campaign finance laws 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159578111/a2227a0c081dc928f887c6a7564191fd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159578111/a2227a0c081dc928f887c6a7564191fd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ben-wikler-and-jen-rubin-in-conversation-170>
+
+---
+
+## Lemon drizzle cake
+
+date: 2025-03-21, from: The Contrarian
+
+Let this delicious treat be a reminder to take care of yourself. 
+
+<br> 
+
+<https://contrarian.substack.com/p/lemon-drizzle-cake>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-03-21, from: The Contrarian
+
+Meet Rocky! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-344>
+
+---
+
+## The Democracy Index
+
+date: 2025-03-21, from: The Contrarian
+
+March 21, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-02a>
+
+---
+
+## Contrarian Culture Club Recommendations
+
+date: 2025-03-21, from: The Contrarian
+
+What to watch to keep you engaged and/or distracted this weekend: featuring Adolescence and Every Little Thing 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-culture-club-recommendations>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-21, from: The Contrarian
+
+Friday: Politicians skip town halls, a rally for Ukraine, a billboard in America, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## The JFK Files: Wasted Money, Real Harm, and No Truth!
+
+date: 2025-03-21, from: The Contrarian
+
+We didn't learn much from the data dump, but a lot of people could be hurt. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-jfk-files-wasted-money-real-harm>
+
+---
+
+## Here’s what the impact of layoffs and site closures at Social Security could look like
+
+date: 2025-03-21, from: Market Place
+
+The Social Security Administration could lose at least 7,000 workers under recommended staff cuts by DOGE. That could lead to serious delays in benefits processing. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/21/social-security-doge-layoffs-site-closures/>
+
+---
+
+## Copper prices are typically a leading economic indicator. But maybe not this time.
+
+date: 2025-03-21, from: Market Place
+
+Copper prices have surged to their highest level in nearly 10 months. What does this tell us about the overall economy? 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/21/copper-prices-tariffs-economic-indicator/>
+
+---
+
+## Friday comic: Tom the Dancing Bug
+
+date: 2025-03-21, from: The Contrarian
+
+Local Crackpot Takes Trump Seriously 
+
+<br> 
+
+<https://contrarian.substack.com/p/friday-comic-tom-the-dancing-bug>
+
+---
+
+## Career coaching from rodeo clowns
+
+date: 2025-03-21, from: Market Place
+
+The official title is "barrelman." And it's a job that's equal parts entertainment and safety. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/21/career-coaching-from-rodeo-clowns/>
+
+---
+
+## Morning Roundup, March 21
+
+date: 2025-03-21, from: The Contrarian
+
+Featuring our Undaunted figures of the week, plus an Invitation to join us and show up for the Opposition 
+
+<br> 
+
+<https://contrarian.substack.com/p/morning-roundup-march-21>
+
+---
+
+## Rodeo Houston’s livestock auctions aren’t your typical auctions
+
+date: 2025-03-21, from: Market Place
+
+The auctions at Rodeo Houston are no normal auctions. They serve the dual functions of selling off livestock and raising money for Texas youth. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/21/rodeo-houstons-livestock-auctions-arent-your-typical-auctions/>
+
+---
+
+## Keep Your Hands Off!
+
+date: 2025-03-21, from: The Contrarian
+
+Save the Date! Join us on April 5th, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/keep-your-hands-off>
 
 ---
 
@@ -245,18 +554,6 @@ date: 2025-03-20, from: Capital and Main
 <br> 
 
 <https://capitalandmain.com/breaking-californias-concrete-ceiling>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-20, from: The Contrarian
-
-Thursday: Protests in Pennsylvania and Indiana, a reminder from Turkey, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 
@@ -1284,4 +1581,87 @@ date: 2025-03-16, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-yacht-rocked/>
+
+---
+
+## Why Donald Trump Is Attacking Me—and You
+
+date: 2025-03-15, from: The Contrarian
+
+Publisher's Roundup, 9 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-donald-trump-is-attacking-meand>
+
+---
+
+##  YOU LOVE TO SEE IT: Even Trump Doesn’t Trust Big Tech 
+
+date: 2025-03-15, from: The Lever News
+
+ Google’s monopoly status is questioned, states can sue for climate cleanup, a judge tells Trump to do his research, and a zombie pipeline is stopped in its tracks.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-even-trump-doesnt-trust-big-tech/>
+
+---
+
+## Trump EPA Chief’s Assault on Environmental Justice Means Those With the Least Will Get Hurt the Most
+
+date: 2025-03-15, from: Capital and Main
+
+<p>The 'Great American Comeback' shouldn't be filthy air, dirty water and no sanitation for the marginalized, says activist Catherine Coleman Flowers. </p>
+<p>The post <a href="https://capitalandmain.com/trump-epa-chiefs-assault-on-environmental-justice-means-those-with-the-least-will-get-hurt-the-most">Trump EPA Chief’s Assault on Environmental Justice Means Those With the Least Will Get Hurt the Most</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trump-epa-chiefs-assault-on-environmental-justice-means-those-with-the-least-will-get-hurt-the-most>
+
+---
+
+## Who selected the Lady Gaga song you’re hearing at the grocery store?
+
+date: 2025-03-15, from: Market Place
+
+ Employees and marketing teams select songs from music providers, taking into account customer and employee feedback. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/14/who-selected-the-lady-gaga-song-youre-hearing-at-the-grocery-store/>
+
+---
+
+## Shutdown averted. How it all went down.
+
+date: 2025-03-15, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>A Republican-written spending bill is being backed by some Senate Democrats, including Senate Minority Leader Chuck Schumer, to avoid a government shutdown. Other Democrats — and much of the voter base — aren’t happy. We&#8217;ll get into it. Then, we&#8217;ll close out the week with a round of Half Full/Half Empty, weighing in on Southwest Airlines’ new checked bag policy and $19 strawberries. Plus, in the wake of a certain duchess’ foray into television, what are your thoughts on celeb cooking shows?</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/interactive/2025/03/12/magazine/russia-arctic-fossils-expedition.html" target="_blank" rel="noreferrer noopener">“The Siberian Bone Hunters Diving for Ice Age Mammoth Fossils”</a> from The New York Times<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://www.politico.com/news/2025/03/14/dr-oz-health-care-00230949" target="_blank" rel="noreferrer noopener">“Dr. Oz, with a TV host’s flair, promises simple solutions for America’s health care ills”</a> by Politico</li>
+<li>&#8220;<a href="https://www.nytimes.com/2025/03/14/us/politics/schumer-trump-government-shutdown.html">Schumer Under Fire as Pelosi and Other Democrats Criticize Shutdown Retreat&#8221; </a>from The New York Times<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.bloomberg.com/news/articles/2025-03-11/half-past-four-is-the-new-five-o-clock-in-more-efficient-workday?campaign_id=4&amp;emc=edit_dk_20250312&amp;instance_id=149767&amp;nl=dealbook&amp;regi_id=144686531&amp;segment_id=193222&amp;user_id=d2d928a1f9dc3a96ed597f55afd46083&amp;embedded-checkout=true">&#8220;Half-Past Four is the New Five O’Clock in More Efficient Workday&#8221;</a> from Bloomberg<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li>&#8220;<a href="https://www.nytimes.com/2025/03/04/style/meghan-markle-netflix-takeaways.html">5 Takeaways From Meghan Markle’s Netflix Show ‘With Love, Meghan’&#8221;</a> from The New York Times<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li>&#8220;<a href="https://www.marketplace.org/2025/03/13/19-we-might-be-at-peak-strawberry/">Why does the viral Erewhon strawberry cost $19?&#8221;</a> from Marketplace<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li>&#8220;<a href="https://www.usatoday.com/story/travel/airline-news/2025/03/12/southwest-airlines-major-changes-bag-fees/82281146007/">Southwest Airlines is charging for checked bags. Will loyal flyers stick around?</a>&#8221; from USA Today</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --></p>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/14/mms_20250314_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fshutdown-averted-how-it-all-went-down&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/14/mms_20250314_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fshutdown-averted-how-it-all-went-down&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/shutdown-averted-how-it-all-went-down>
 

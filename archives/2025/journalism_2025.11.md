@@ -1,11 +1,50 @@
 ---
 title: journalism
-updated: 2025-03-21 06:07:47
+updated: 2025-03-22 06:07:29
 ---
 
 # journalism
 
-(date: 2025-03-21 06:07:47)
+(date: 2025-03-22 06:07:29)
+
+---
+
+## Trump signs executive order to dismantle Department of Education
+
+date: 2025-03-21, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The department’s student loan portfolio and services for disabled students will be taken over by other departments.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/21/trump-signs-executive-order-to-dismantle-department-of-education/">Trump signs executive order to dismantle Department of Education</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/21/trump-signs-executive-order-to-dismantle-department-of-education/>
+
+---
+
+## NCT 127’s exciting ‘NEO CITY – THE MOMENTUM’ tour reaches finale in LA
+
+date: 2025-03-21, from: The Sundail (CSUN Student Newspaper)
+
+Upon entering the Crypto.com Arena, faint music played. Opening the curtain to the center of the arena where the seats are located, NCT 127&#8217;s “Walk” blasted through the speakers, and... 
+
+<br> 
+
+<https://sundial.csun.edu/191467/arts-entertainment/nct-127s-exciting-neo-city-the-momentum-tour-reaches-finale-in-la/>
+
+---
+
+## UPTE-CWA 9119, AFSCME Local 3299 announce third strike in over 4 months across UC
+
+date: 2025-03-21, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 21 at 12:43 p.m.</em>
+Two UC unions representing nearly 60,000 workers called on their members to strike across the University on April 1. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/21/upte-cwa-9119-afscme-local-3299-announce-third-strike-in-over-4-months-across-uc/>
 
 ---
 
@@ -41,6 +80,7 @@ date: 2025-03-21, from: The Round Up (Pierce College Student Newspaper)
 
 date: 2025-03-21, from: The Daily Bruin (UCLA Student Newspaper)
 
+This post was updated March 21 at 11:21 a.m.
 Editor’s note: This article contains mentions of child abuse that may be disturbing to some readers.&#160;
 UCLA will close one of its two on-campus child care centers Sept. 
 
@@ -475,4 +515,106 @@ A variety of female artists delivered unforgettable music videos for their singl
 <br> 
 
 <https://dailybruin.com/2025/03/15/winter-music-video-roundup-complex-symbolism-from-award-winning-veterans-synthesizes-storytelling-and-song/>
+
+---
+
+## From open mics to dorm shows, Gigi Goldberg turns every platform into her stage
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gigi Goldberg&#8217;s songs are striking a chord with the UCLA community.
+Goldberg, a second-year undeclared student and singer-songwriter who performs as keyofgigi, released her latest single last month &#8211; a soulful ballad dedicated to city life titled &#8220;urban wonderland.&#8221; While her new song is a dedication to cities such as Los Angeles and their communities, Goldberg said she first turned to music during her childhood in Colorado, where her hometown&#8217;s busking culture was her original source of inspiration for a career in music. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/15/from-open-mics-to-dorm-shows-gigi-goldberg-turns-every-platform-into-her-stage/>
+
+---
+
+## PRIME Winter 2025
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<http://dailybruin.com/tag/prime-w-2025>
+
+---
+
+## PRIME: A Year From Home
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/prime-a-year-from-home/>
+
+---
+
+## PRIME: #Period
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Social media led Annie Wong into an unexpected world of crimson-tinged activism.
+&#160;
+In her conservative household, discussions about menstruation were considered taboo. Coupled with less-than-thorough health classes at her Texas high school, Wong had limited access to period education before social media existed. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/prime-period/>
+
+---
+
+## PRIME: Generative AI, the New Teacher’s Pet?
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+I’m not afraid of many things. Heights are just glorified elevations; spiders, just misunderstood creatures; public speaking, just multifaceted conversation. So it came as a surprise to learn I was afraid of something that existed within the pixelated confines of my computer screen: generative artificial intelligence. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/generative-ai-the-new-teachers-pet/>
+
+---
+
+## UCPD arrests registered sex offender for unlawfully entering campus
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 14 at 10:59 p.m.</em>
+UCPD arrested a registered sex offender near Covel Commons around 1 p.m. Friday for unlawfully entering campus. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/ucpd-arrests-registered-sex-offender-for-unlawfully-entering-campus/>
+
+---
+
+## Speech Club aims to help students build skills, confidence in public speaking
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Forget spiders, snakes or heights – for some, public speaking is the most frightening thing of all.
+Founded this fall, Speech Team @UCLA provides UCLA students with the opportunity to strengthen their speaking skills, said Ernesto Perez, a team membership co-president of Speech Club. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/speech-club-aims-to-help-students-build-skills-confidence-in-public-speaking/>
+
+---
+
+## Second Take: Regardless of gender, Oscars should respect nominated acts’ sexual autonomy
+
+date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
+
+Editor&#8217;s note: This article includes a mention of rape that may be disturbing to some readers.
+There is nothing wrong with an actor baring it all to win an Oscar &#8211; but that doesn&#8217;t mean it should always happen. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/14/second-take-regardless-of-gender-oscars-should-respect-nominated-acts-sexual-autonomy/>
 
