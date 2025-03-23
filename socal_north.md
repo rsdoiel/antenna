@@ -1,11 +1,148 @@
 ---
 title: socal north
-updated: 2025-03-22 06:07:25
+updated: 2025-03-23 06:08:00
 ---
 
 # socal north
 
-(date: 2025-03-22 06:07:25)
+(date: 2025-03-23 06:08:00)
+
+---
+
+## A newspaper sets up shop in an unexpected place: California's largest women's prison
+
+date: 2025-03-23, updated: 2025-03-23, from: The LAist
+
+The Paper Trail is the first women’s prison newspaper in California. 
+
+<br> 
+
+<https://laist.com/news/womens-prison-first-newspaper-paper-trail>
+
+---
+
+## Altadena Library reopens to the community for fun, games and a LeVar Burton reading
+
+date: 2025-03-22, updated: 2025-03-23, from: The LAist
+
+The event featured free books, cotton candy machines, and a live book reading by Star Trek star and author LeVar Burton. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-altadena-library-reopens-to-the-community-for-a-morning-of-fun-games-and-a-levar-burton-reading>
+
+---
+
+## The Social Security Administration's many proposed changes are worrying advocates
+
+date: 2025-03-22, updated: 2025-03-22, from: The LAist
+
+The Trump administration has announced a flurry of changes at the agency that oversees Social Security. Advocates warn these moves could lead to people having a harder time getting help with benefits. 
+
+<br> 
+
+<https://laist.com/news/the-social-security-administrations-many-proposed-changes-are-worrying-advocates>
+
+---
+
+## Some European countries and Canada issue advisories for travelers to the US
+
+date: 2025-03-22, updated: 2025-03-22, from: The LAist
+
+The advisories come after some citizens from European countries and Canada have been detained and deported by immigration officials while traveling to the United States. 
+
+<br> 
+
+<https://laist.com/news/some-european-countries-and-canada-issue-advisories-for-travelers-to-the-u-s>
+
+---
+
+## Controlled Burn at Pacoima Home Following Explosion
+
+date: 2025-03-22, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="641" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?fit=1024%2C641&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?w=1681&amp;ssl=1 1681w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?resize=300%2C188&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?resize=1024%2C641&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?resize=768%2C481&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?resize=1536%2C961&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?resize=1200%2C751&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?resize=1568%2C981&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?resize=400%2C250&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?resize=706%2C442&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Screenshot_20250322_095749_Chrome2.jpg?fit=1024%2C641&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>PACOIMA (CNS) &#8211;  A controlled burn of a home in Pacoima where there was a large explosion believed to have been ignited by fireworks extended into the early morning hours today. [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/22/controlled-burn-at-pacoima-home-following-explosion/">Controlled Burn at Pacoima Home Following Explosion</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/22/controlled-burn-at-pacoima-home-following-explosion/>
+
+---
+
+## Step Back in Time to the Wild West at the Santa Clarita Cowboy Festival
+
+date: 2025-03-22, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Spring is fast approaching and the moment we’ve all been waiting for is right around the corner. Join the City of Santa Clarita for the 29th annual Cowboy Festival. As you step into William S. Hart Park (24151 Newhall Ave) on Saturday, April 12 and Sunday, April 13, you will [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/22/step-back-in-time-to-the-wild-west-at-the-santa-clarita-cowboy-festival/">Step Back in Time to the Wild West at the Santa Clarita Cowboy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/22/step-back-in-time-to-the-wild-west-at-the-santa-clarita-cowboy-festival/>
+
+---
+
+## A forced good-bye: LA’s iconic Pacific Dining Car demolished after fire
+
+date: 2025-03-22, updated: 2025-03-23, from: The LAist
+
+The famed steakhouse was torn down Thursday. 
+
+<br> 
+
+<https://laist.com/news/la-history/forced-good-bye-l-a-s-iconic-pacific-dining-car-demolished-after-fire>
+
+---
+
+## 10 years after its big move, Taco Bell 'Numero Uno' is still waiting for its next act
+
+date: 2025-03-22, updated: 2025-03-22, from: The LAist
+
+In 2015, the first Taco Bell was moved with great fanfare from its OG location in Downey to the fast food chain's corporate HQ in Irvine. Ten years later, it's still there — murmurs of possible renovation and relocation notwithstanding. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/taco-bell-numero-uno-first-downey-irvine-parking-lot>
+
+---
+
+## 10,000 tiles and counting. Checking in with 'Save The Tiles' volunteers, one month later
+
+date: 2025-03-22, updated: 2025-03-22, from: The LAist
+
+The volunteer group give an update six weeks after they began recovering historic tiles from burned Altadena homes. 
+
+<br> 
+
+<https://laist.com/news/save-the-tiles-altadena-followup-eaton-fire>
+
+---
+
+## Go Fact Yourself quiz for March 22
+
+date: 2025-03-22, updated: 2025-03-22, from: The LAist
+
+Our celebrity panelists Jerry O'Connell and Mallory O'Meara go head to head this week on their knowledge of 1980's music and werewolves. Think you might know more than they do? Go Fact Yourself! 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/go-fact-yourself-quiz-for-march-22>
+
+---
+
+## Analysis: Courts push back, wars heat up and 3 more takeaways from Trump's moves this week
+
+date: 2025-03-22, updated: 2025-03-22, from: The LAist
+
+Here are five takeaways from a week when President Trump moved ahead with deportations and sweeping changes to the federal government — and ran into obstacles in the courts. 
+
+<br> 
+
+<https://laist.com/news/analysis-courts-push-back-wars-heat-up-and-3-more-takeaways-from-trumps-moves-this-week>
 
 ---
 
@@ -413,7 +550,7 @@ New cameras on buses will spot cars parked where they shouldn't be. The goal is 
 
 date: 2025-03-20, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="671" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="671" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/P1290526-scaled-e1742449973518.jpg?fit=1024%2C671&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Polvo excesivo, malos olores y demasiados camiones de basura en las calles de Sun Valley es lo que Claudia Aréchiga y sus vecinos han soportado durante años en su comunidad [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/03/19/residentes-enojados-porque-un-segundo-vertedero-del-noreste-del-valle-se-usa-para-escombros-de-incendios/">Residentes Enojados Porque un Segundo Vertedero del Noreste del Valle se usa para Escombros de Incendios</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -1076,126 +1213,4 @@ Trump invoked the wartime authority Alien Enemies Act, targeting members of Vene
 <br> 
 
 <https://laist.com/news/politics/federal-judge-blocks-trumps-plan-to-target-alien-enemies-for-deportation>
-
----
-
-## One of Jackie and Shadow’s chicks has died. Volunteers tell fans: 'Grieve and feel whatever you feel'
-
-date: 2025-03-15, updated: 2025-03-16, from: The LAist
-
-Friends of Big Bear Valley, the nonprofit that manages the popular YouTube livestream of the nest, confirmed the news Saturday. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/jackie-shadow-eaglets-chick-big-bear-nest-death>
-
----
-
-## Look up! The Goodyear Blimp is celebrating a big birthday
-
-date: 2025-03-15, updated: 2025-03-15, from: The LAist
-
-We head up into the skies over Los Angeles in honor of the Goodyear Blimp's 100th. Come join us ... there's room for eight. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/look-up-the-goodyear-blimp-is-celebrating-a-big-birthday>
-
----
-
-## 'Bloody Saturday' at Voice of America and other US-funded networks
-
-date: 2025-03-15, updated: 2025-03-15, from: The LAist
-
-Federal officials placed 1,300 employees at Voice of America on indefinite paid leave, while severing contracts with Radio Free Asia and other U.S.-funded networks. 
-
-<br> 
-
-<https://laist.com/news/politics/bloody-saturday-at-voice-of-america-and-other-u-s-funded-networks>
-
----
-
-## A reopened library breathes life back into the Altadena burn zone
-
-date: 2025-03-15, updated: 2025-03-16, from: The LAist
-
-Residents find a semblance of normalcy amid the stacks. 
-
-<br> 
-
-<https://laist.com/news/altadena-library-breathes-life-back-into-the-altadena-burn-zone>
-
----
-
-## Stimulating the SENSES in Old Town Newhall
-
-date: 2025-03-15, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Old Town Newhall has earned its title as Santa Clarita’s Premier Arts and Entertainment District and has also become well-known as a hub for prime dining and shopping. Not only that, it has become the home of one of the most popular and anticipated City events: SENSES Block Party. As [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/03/15/stimulating-the-senses-in-old-town-newhall/">Stimulating the SENSES in Old Town Newhall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/03/15/stimulating-the-senses-in-old-town-newhall/>
-
----
-
-## Here are the Los Angeles Marathon road closures you need to know
-
-date: 2025-03-15, updated: 2025-03-16, from: The LAist
-
-Sunday’s marathon brings thousands of runners to L.A. streets — plan ahead to keep your day on track. 
-
-<br> 
-
-<https://laist.com/news/transportation/2025-la-marathon-road-closures>
-
----
-
-## Trump says the U.S. is in a 'period of transition' — and more takeaways from this week
-
-date: 2025-03-15, updated: 2025-03-15, from: The LAist
-
-This week, President Trump continued to threaten tariffs as DOGE continued its cuts of the federal workforce. It was another consequential and news-packed week in Trump's presidency. 
-
-<br> 
-
-<https://laist.com/news/politics/trump-says-the-u-s-is-in-a-period-of-transition-and-more-takeaways-from-this-week>
-
----
-
-## Over 50 universities — 3 in California — are under investigation as part of Trump's anti-DEI crackdown
-
-date: 2025-03-15, updated: 2025-03-15, from: The LAist
-
-Three California schools, Cal Poly Humboldt, Cal State San Bernardino and UC Berkeley are on the list. 
-
-<br> 
-
-<https://laist.com/news/education/over-50-universities-3-in-california-are-under-investigation-as-part-of-trumps-anti-dei-crackdown>
-
----
-
-## Federal agencies plan for mass layoffs as Trump's workforce cuts continue
-
-date: 2025-03-15, updated: 2025-03-15, from: The LAist
-
-Thursday's deadline for federal agencies to submit plans for large-scale layoffs kicks off a new phase in the dramatic restructuring of how the government operates. Here's what that looks like. 
-
-<br> 
-
-<https://laist.com/news/politics/federal-agencies-plan-for-mass-layoffs-as-trumps-workforce-cuts-continue>
-
----
-
-## Pasadena has new rental protections in the wake of the Eaton Fire
-
-date: 2025-03-15, updated: 2025-03-15, from: The LAist
-
-Five regulations are aimed at protecting tenants as well as landlords who were affected by the Eaton Fire. 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/pasadena-renter-protections-eaton-fire>
 

@@ -1,11 +1,409 @@
 ---
 title: pacific
-updated: 2025-03-22 06:07:26
+updated: 2025-03-23 06:08:00
 ---
 
 # pacific
 
-(date: 2025-03-22 06:07:26)
+(date: 2025-03-23 06:08:00)
+
+---
+
+## Volcano Watch: A collapse at Mauna Loa’s summit in 1868, like Kilauea’s in 2018?
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>March 27 marks the anniversary of the onset of Mauna Loa&#8217;s dramatic 1868 eruption, when lava flows from the Southwest Rift Zone severely impacted the Ka&#8216;u district. However, this may not have been the only place that saw significant changes during the eruption, since new research suggests a simultaneous collapse at the volcano&#8217;s summit &#8212; similar to events at Kilauea in 2018.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/features/volcano-watch-a-collapse-at-mauna-loas-summit-in-1868-like-kilaueas-in-2018/>
+
+---
+
+## With new decree, Trump seeks to cow the legal profession
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump broadened his campaign of retaliation against lawyers he dislikes with a new memorandum that threatens to use government power to punish any law firms that, in his view, unfairly challenge his administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/nation-world-news/with-new-decree-trump-seeks-to-cow-the-legal-profession/>
+
+---
+
+## Trump and DOGE propel VA mental health system into turmoil
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>Late in February, as the Trump administration ramped up its quest to transform the federal government, a psychiatrist who treats veterans was directed to her new workstation &#8212; and was incredulous.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/nation-world-news/trump-and-doge-propel-va-mental-health-system-into-turmoil/>
+
+---
+
+## Green nominates Shishido for Kona Circuit bench
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green has nominated Scott K.D. Shishido to become a circuit court judge on the Big Island, filling a vacancy left by the retirement of Kona Circuit Judge Robert D.S. Kim in July 2024.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/hawaii-news/green-nominates-shishido-for-kona-circuit-bench/>
+
+---
+
+## Kennedy instructs anti-vaccine group to remove fake CDC page
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>Robert F. Kennedy Jr., the nation&#8217;s health secretary, on Saturday instructed leaders of the nonprofit he founded to take down a webpage that mimicked the design of the Centers for Disease Control and Prevention&#8217;s site but laid out a case that vaccines cause autism.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/nation-world-news/kennedy-instructs-anti-vaccine-group-to-remove-fake-cdc-page/>
+
+---
+
+## Alleged getaway driver pleads not guilty, held without bail
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>A 23-year-old Pahoa man accused of being the getaway driver for a since-deceased man police said shot and injured an officer on March 14 pleaded not guilty Friday to criminal charges.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/hawaii-news/alleged-getaway-driver-pleads-not-guilty-held-without-bail/>
+
+---
+
+## Steves: Sightseeing skills for the ancient world
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>Climbing the Acropolis, communing with the druids at Stonehenge, or marveling at the sprawling remains of Pompeii &#8212; exploring the remnants of Europe&#8217;s distant past brings a special thrill to travelers with the interest to resurrect all that rubble.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/features/steves-sightseeing-skills-for-the-ancient-world/>
+
+---
+
+## ‘So eager to get back’: Travelers pour into a reopened Heathrow
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Throngs of passengers anxious to get on their way surged into Heathrow Airport in London on Saturday, a day after a power blackout closed the airport and forced thousands to delay their trips.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/nation-world-news/so-eager-to-get-back-travelers-pour-into-a-reopened-heathrow/>
+
+---
+
+## Trump’s Social Security chief backs down from ‘shutting down’ agency
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; The head of the U.S. Social Security Administration has backed down from &#8220;shutting down the agency&#8221; after a federal judge rebuked him for misinterpreting a court ruling that limited billionaire Elon Musk&#8217;s access to agency information. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/nation-world-news/trumps-social-security-chief-backs-down-from-shutting-down-agency/>
+
+---
+
+## Pope Francis will be discharged from the hospital today, doctors say
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>ROME &#8212; Pope Francis&#8217; condition has improved enough that he will be discharged from a hospital in Rome today and sent to recover in the Vatican for at least two months, his doctors said Saturday evening.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/nation-world-news/pope-francis-will-be-discharged-from-the-hospital-today-doctors-say/>
+
+---
+
+## Thousands of agents diverted to Trump immigration crackdown
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Federal agents who usually hunt down child abusers are now cracking down on immigrants who live in the U.S. illegally.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/nation-world-news/thousands-of-agents-diverted-to-trump-immigration-crackdown/>
+
+---
+
+## Rockets fired from Lebanon prompt Israeli strikes
+
+date: 2025-03-23, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; Rockets were fired from Lebanon into Israel for the first time in months Saturday, prompting Israeli forces to strike back hours later at sites in southern Lebanon it said were linked to the militant group Hezbollah.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/23/nation-world-news/rockets-fired-from-lebanon-prompt-israeli-strikes/>
+
+---
+
+## Guam Adventures, LeoPalace Resort launch off-road adventure experience
+
+date: 2025-03-23, from: Pacific Island Times
+
+By Pacific Island Times News Staff    Guam Adventures and LeoPalace Resort have formed a partnership that combines adventure tourism... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-adventures-leopalace-resort-launch-off-road-adventure-experience>
+
+---
+
+## WWII veterans returning to Guam for 80th anniversary of US-Japan 'Reunion of Honor' 
+
+date: 2025-03-23, from: Pacific Island Times
+
+Iwo Jima, Feb. 23, 1945: Marines gathered atop Mount Suribachi to raise the American flag in Iwo Jima on Feb. 23, 1945. Photo by Marine... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/wwii-veterans-returning-to-guam-for-80th-anniversary-of-us-japan-reunion-of-honor>
+
+---
+
+## Guam's former Speaker Forbes dies 
+
+date: 2025-03-23, from: Pacific Island Times
+
+Mark Forbes By Pacific Island Times News Staff Guam mourns the passing of former Speaker Mark Forbes, who died Sunday morning. “Speaker... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-former-speaker-forbes-dies>
+
+---
+
+## Visitor ‘green fees’ bill passes Hawaii House committees
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Two House committees Thursday passed a bill that would impose more user fees to nonresidents who visit specified state parks and trails.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/hawaii-news/visitor-green-fees-bill-passes-hawaii-house-committees/>
+
+---
+
+## As Trump broadens crackdown, focus expands to legal immigrants and tourists
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. immigration agents wearing masks arrested a Georgetown University academic outside his home in Virginia. They detained two German tourists for weeks when they tried to enter the country legally through the southern border. They knocked on doors at Columbia University apartments, searching for pro-Palestinian protesters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/as-trump-broadens-crackdown-focus-expands-to-legal-immigrants-and-tourists/>
+
+---
+
+## Israel tries to pressure Hamas to free more hostages
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Israel&#8217;s defense minister said Friday that the military was preparing to seize more territory in the Gaza Strip and escalate its offensive there unless Hamas cooperated by releasing more hostages.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/israel-tries-to-pressure-hamas-to-free-more-hostages/>
+
+---
+
+## Dismantling of DOE raises concerns in Hawaii
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s widely expected executive order Thursday to dismantle the U.S. Department of Education was met with alarm and contempt from Hawaii educators and the state&#8217;s Democratic congressional delegation who are worried about many federally funded programs supporting student loans, civil rights and low-income children.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/hawaii-news/dismantling-of-doe-raises-concerns-in-hawaii/>
+
+---
+
+## Trump cleaves student loan and special education services from Education Dept.
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump announced Friday that the Education Department would no longer manage the nation&#8217;s $1.6 trillion student loan portfolio or supervise &#8220;special needs&#8221; programs in a major shake-up of an agency he has sought to eliminate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-cleaves-student-loan-and-special-education-services-from-education-dept/>
+
+---
+
+## Texas measles outbreak may continue for a year, officials say
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>As containment efforts falter, the measles outbreak in West Texas is likely to persist for a year, perhaps even setting back the country&#8217;s hard-fought victory over the virus, according to Texas health officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/texas-measles-outbreak-may-continue-for-a-year-officials-say/>
+
+---
+
+## Heathrow rumbles back to life after substation fire shut down airport
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Heathrow Airport in London was plunged into chaos after a fire at an electrical substation shut down operations at one of Europe&#8217;s busiest air hubs, forcing the airport to cancel or divert more than 1,000 flights Friday and removing a global linchpin of air travel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/heathrow-rumbles-back-to-life-after-substation-fire-shut-down-airport/>
+
+---
+
+## Columbia concedes to Trump’s demands after federal funds are stripped
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Columbia University agreed Friday to overhaul its protest policies, security practices and Middle Eastern studies department in a remarkable concession to the Trump administration, which has refused to consider restoring $400 million in federal funds without major changes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/columbia-concedes-to-trumps-demands-after-federal-funds-are-stripped/>
+
+---
+
+## Tate brothers, trailed by human-trafficking charges, are returning to Romania
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Andrew Tate and his brother, Tristan Tate, the online influencers who decamped last month to the United States while facing human-trafficking charges in two European countries, were set to return on Friday to Romania ahead of a criminal proceeding, one of them said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/tate-brothers-trailed-by-human-trafficking-charges-are-returning-to-romania/>
+
+---
+
+## Trump rejects idea that Musk should have access to top-secret China war plans
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A top-secret briefing for Elon Musk on the U.S. military&#8217;s plan for any war that might break out with China was called off after The New York Times reported late Thursday that it was about to happen. On Friday, President Donald Trump said Musk should not be given access to the war plan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-rejects-idea-that-musk-should-have-access-to-top-secret-china-war-plans/>
+
+---
+
+## Trump offers a glimpse of new stealth fighter, the F-47
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Since the late 1950s, most of the United States&#8217; warplanes have been given names that indicate a threat, such as the F-4 Phantom and the A-6 Intruder, or animals, such as the F-14 Tomcat, the F-15 Eagle and the F-16 Fighting Falcon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-offers-a-glimpse-of-new-stealth-fighter-the-f-47/>
+
+---
+
+## Tropical Gardening: A perfect lawn can be challenging
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>If you are maintaining turf on a golf course, it has to be almost perfect. However, most folks aren&#8217;t held to such high standards when it comes to a home garden. The important thing to know is that plants produce oxygen and sequester carbon, thus helping to reduce the amount of carbon dioxide in the atmosphere. So grass, shrubs and trees are helping to reduce the negative effects of global warming.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/features/tropical-gardening-a-perfect-lawn-can-be-challenging/>
+
+---
+
+## UH med students uncover their future destinations
+
+date: 2025-03-22, from: University of Hawaiʻi News
+
+<p>&#8220;Being able to stay home and train with the population that I'm going to work with in the future was really important to me.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/21/jabsom-match-day-2025/"><abbr>UH</abbr> med students uncover their future destinations</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/21/jabsom-match-day-2025/>
+
+---
+
+## Award-winning UH alumna inspires Hawaiʻi’s future leaders, educators
+
+date: 2025-03-22, from: University of Hawaiʻi News
+
+<p>Presidential awardee and <abbr>UH</abbr> alumna Whitney Aragaki empowers students through innovative teaching.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/21/uh-alumna-hawaiis-future-leaders-educators/">Award-winning <abbr>UH</abbr> alumna inspires Hawaiʻi’s future leaders, educators</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/21/uh-alumna-hawaiis-future-leaders-educators/>
 
 ---
 
@@ -2507,167 +2905,4 @@ Hydrology experts at Flinders University in Australia are seeking further study 
 <br> 
 
 <https://www.pacificislandtimes.com/post/hydrology-experts-seek-deeper-study-on-freshwater-extraction-in-pacific-islands>
-
----
-
-## Young Democrats’ anger boils over as Schumer retreats on shutdown
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>Sen. Chuck Schumer&#8217;s sudden decision Thursday to support a Republican-written bill to avert a government shutdown so enraged his fellow Democrats that some were already talking about primary challenges to the 74-year-old Democratic leader from New York.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/young-democrats-anger-boils-over-as-schumer-retreats-on-shutdown/>
-
----
-
-## Senate approves spending bill to avert government shutdown
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Senate on Friday narrowly averted a government shutdown at midnight, passing a GOP-written stopgap spending measure after Minority Leader Chuck Schumer of New York and a small group of Democrats joined Republicans in allowing it to advance.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/senate-approves-spending-bill-to-avert-government-shutdown/>
-
----
-
-## Senators grill Oz on Medicaid cuts and Medicare changes
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>In a hearing Friday, senators pressed Dr. Mehmet Oz, the TV celebrity nominated to head Medicare and Medicaid, on Republican-led proposals that would significantly affect the health care coverage for nearly half of all Americans.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/senators-grill-oz-on-medicaid-cuts-and-medicare-changes/>
-
----
-
-## Stuck NASA astronauts one step closer to home after SpaceX crew-swap launch
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; NASA and SpaceX on Friday launched a long-awaited crew to the International Space Station that opens the door to bringing home U.S. astronauts Butch Wilmore and Suni Williams, who have been stuck on the orbital lab for nine months.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/stuck-nasa-astronauts-one-step-closer-to-home-after-spacex-crew-swap-launch/>
-
----
-
-## Putin demands Ukrainian troops in Kursk region of Russia surrender
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>BERLIN &#8212; President Vladimir Putin of Russia on Friday insisted that Ukraine order some of its forces to surrender to Russia, a striking demand made hours after President Donald Trump said the United States had &#8220;very good and productive&#8221; discussions with Putin about a potential ceasefire in Ukraine.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/putin-demands-ukrainian-troops-in-kursk-region-of-russia-surrender/>
-
----
-
-## Challenged by Trump, Trudeau rallies Canada as his final act
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>OTTAWA, Ontario &#8212; It was not even three months ago when it seemed like Canadians couldn&#8217;t wait for an end to Prime Minister Justin Trudeau&#8217;s nearly decade-long stint as their leader. On Jan. 6, he announced his intention to step down, with polls showing most Canadians deeply unhappy with the state of their country.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/challenged-by-trump-trudeau-rallies-canada-as-his-final-act/>
-
----
-
-## Trump administration opens leak investigations
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The Trump administration has opened its first known investigations into what it called &#8220;politically motivated leaks,&#8221; fulfilling promises to pursue the sources of stories involving national security revelations.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/trump-administration-opens-leak-investigations/>
-
----
-
-## Duterte appears in court in The Hague via video after arrest
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>In a scenario once considered unthinkable for a head of state who presided over the public and brutal killings of thousands of civilians, Rodrigo Duterte, the former president of the Philippines, appeared at an International Criminal Court hearing via a video link Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/nation-world-news/duterte-appears-in-court-in-the-hague-via-video-after-arrest/>
-
----
-
-## Tropical Gardening: Mulches help to build soils and conserve water
-
-date: 2025-03-15, from: Hawaii Tribune Harold
-
-
-				<p>After 45 years of living in the cool mountain mists of Kaloko Mauka&#8217;s Kona Cloud Forest Sanctuary, we have decided to move.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/15/features/tropical-gardening-mulches-help-to-build-soils-and-conserve-water/>
-
----
-
-## Business group says Guam's fragile economy calls for fiscal prudence, tax relief
-
-date: 2025-03-15, from: Pacific Island Times
-
-By Mar-Vic Cagurangan   The governor’s call for the expansion of tax relief for small enterprises “is a positive step” but not enough to... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/business-group-says-guam-s-fragile-economy-requires-fiscal-prudence-tax-relief>
-
----
-
-## President Hensel: Federal policies pose major challenges for UH
-
-date: 2025-03-15, from: University of Hawaiʻi News
-
-<p>Hensel provided a stark update on the impact of new federal policies during a March 13 open forum, which was live-streamed to more than 1,000 viewers and more than 220 in-person attendees.</p>
-The post <a href="https://www.hawaii.edu/news/2025/03/14/hensel-federal-policies-major-challenges/">President Hensel: Federal policies pose major challenges for <abbr>UH</abbr></a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/03/14/hensel-federal-policies-major-challenges/>
-
----
-
-## US Senate passes bill to avert shutdown, House Democrats turn on Schumer
-
-date: 2025-03-15, updated: 2025-03-16, from: Marianas Variety
-
-WASHINGTON (Reuters) — The U.S. Senate on Friday passed a stopgap spending bill, averting a partial government shutdown, after Democrats backed down in a standoff driven by anger over President Donald Trump's campaign to slash the federal workforce. 
-
-<br> 
-
-<https://www.mvariety.com/news/national/us-senate-passes-bill-to-avert-shutdown-house-democrats-turn-on-schumer/article_89f24e3a-013a-11f0-a363-0764923a2172.html>
 

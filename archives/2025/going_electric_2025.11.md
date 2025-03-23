@@ -1,11 +1,111 @@
 ---
 title: going electric
-updated: 2025-03-22 06:07:32
+updated: 2025-03-23 06:08:07
 ---
 
 # going electric
 
-(date: 2025-03-22 06:07:32)
+(date: 2025-03-23 06:08:07)
+
+---
+
+## Everyone’s missing the point of the Tesla Vision vs. LiDAR Wile E Coyote video
+
+date: 2025-03-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-cameras-vs-radar-wall.png?w=1600" /></div><p>A video came out last week comparing two approaches to autonomous vehicles: cameras and LiDAR. The video was fun, as YouTube videos are wont to be, but the fallout from it has been anything but fun, with pretty much everyone missing the point of the video in the first place.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lidar,luminar,tesla,tesla-autopilot" data-layer-viewtype="unknown" data-post-id="406992" href="https://electrek.co/2025/03/23/everyones-missing-the-point-of-the-tesla-vision-vs-lidar-wile-e-coyote-video/#more-406992" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/23/everyones-missing-the-point-of-the-tesla-vision-vs-lidar-wile-e-coyote-video/>
+
+---
+
+## Xiaomi shows off battery safety tech – by dropping fruit off a 6 floor building
+
+date: 2025-03-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/watermelon-test.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Xiaomi is building some of the best, <a href="https://electrek.co/2025/03/15/tesla-model-s-plaid-smoked-drag-race-xiaomis-su7-ultra/">most capable high-performance electric cars in the world right now</a> – and Xiaomi CEO Lei Jun wants you to know that they’re among the safest, too. To prove it, he’s wrapping a watermelon in the company’s “bulletproof” battery armor and dropping it off a six-storey building.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,ev-batteries,xiaomi" data-layer-viewtype="unknown" data-post-id="407148" href="https://electrek.co/2025/03/22/xiaomi-shows-off-battery-safety-tech-by-dropping-it-off-a-6-floor-building/#more-407148" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/22/xiaomi-shows-off-battery-safety-tech-by-dropping-it-off-a-6-floor-building/>
+
+---
+
+## ZQUIP modular power lets job sites switch from diesel to EV on the same machine
+
+date: 2025-03-23, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/zquip_diesel.png?w=1600" /></div><p>MOOG Construction’s energy skunkworks <a href="https://electrek.co/2024/01/26/moog-modular-battery-concept-for-heavy-equipment-is-too-smart-to-ignore/">ZQUIP made headlines last year</a> by bringing the cordless power tool battery model to the world of industrial-grade heavy equipment – now, they’re making it even easier for job sites to make every kilowatt count by enabling them to switch from diesel to electric and back, on the same machine. (!)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-swap,case,caterpillar,electric-construction-equipment,heavy-equipment" data-layer-viewtype="unknown" data-post-id="407122" href="https://electrek.co/2025/03/22/zquip-modular-power-lets-job-sites-switch-from-diesel-to-ev-on-the-same-machine/#more-407122" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/22/zquip-modular-power-lets-job-sites-switch-from-diesel-to-ev-on-the-same-machine/>
+
+---
+
+## California Now Has More EV Chargers Than Gas Pumps
+
+date: 2025-03-22, from: Inside EVs News
+
+In the heart of American culture, the electric vehicle reigns supreme. There are nearly 50% more chargers than gas nozzles in the state. 
+
+<br> 
+
+<https://insideevs.com/news/754329/california-gas-pump-ev-charging/>
+
+---
+
+## Elgo-Plus Springer Max-EB electric micro excavator asks: Can you dig it?
+
+date: 2025-03-22, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/20250313-221054-ELGO-x-Briggs-Stratton.png?w=1600" /></div><p>If you’re a middle-aged suburbanite looking to throw down the landscaping gauntlet on a rival dad, the Elgo-Plus Springer Max-EB battery electric micro excavator is absolutely the one-up yard machine you’ve been waiting for.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="407093" href="https://electrek.co/2025/03/22/elgo-plus-springer-max-eb-electric-micro-excavator-asks-can-you-dig-it/#more-407093" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/22/elgo-plus-springer-max-eb-electric-micro-excavator-asks-can-you-dig-it/>
+
+---
+
+## Here's How Alfa Romeo Will Go Electrified Next
+
+date: 2025-03-22, from: Inside EVs News
+
+Looks like Alfa Romeo is another manufacturer to offer both electric and combustion versions of the same vehicle. 
+
+<br> 
+
+<https://insideevs.com/news/754292/alfa-romeo-stelvio-ev-teaser/>
+
+---
+
+## Tesla Cybertruck Sales Are Falling Off
+
+date: 2025-03-22, from: Inside EVs News
+
+Cybertruck sales dropped by 32.5% in February, and a new recall isn't helping matters either.  
+
+<br> 
+
+<https://insideevs.com/news/754161/tesla-cybertruck-sales-falling-panels/>
 
 ---
 
@@ -70,6 +170,10 @@ The Prologue was offered with some of the cheapest leases in the entire Honda li
 date: 2025-03-21, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla hate going biblical, BYD coming out swinging with new record charging time, the new Renault 5 Turbo 3E, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Electrek_378.mp3"></audio></figure>
 
 
 
@@ -1826,80 +1930,4 @@ The rental-car company has budget-priced Chevrolet Silverado EVs, Bolt EVs and F
 <br> 
 
 <https://insideevs.com/news/753629/hertz-ev-tesla-deals-2025/>
-
----
-
-## JPMorgan Says Tesla's About To Have A Bad Time
-
-date: 2025-03-15, from: Inside EVs News
-
-The firm cut Tesla's delivery forecast by 20% and said that stock could eventually drop even more to $120 per share.  
-
-<br> 
-
-<https://insideevs.com/news/753615/tesla-prediction-deliveries-jp-morgan/>
-
----
-
-## Tesla’s top crash safety architect quits
-
-date: 2025-03-15, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Petter-Winberg-Tesla-crash-safety-architect.png?w=1600" /></div><p>Tesla’s top crash safety architect, who helped the automaker achieve top safety scores for its entire car line-up, announced that he is leaving the automaker after 14 years.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="406023" href="https://electrek.co/2025/03/15/tesla-top-crash-safety-architect-quits/#more-406023" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/03/15/tesla-top-crash-safety-architect-quits/>
-
----
-
-## Tesla Model S Plaid gets smoked in drag race by Xiaomi’s cheaper SU7 Ultra
-
-date: 2025-03-15, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Model-S-Plaid-vs-Xiaomi-Su7-Ultra.png?w=1600" /></div><p>The SU7 Ultra, Xiaomi’s new flagship electric vehicle, went against a Tesla Model S Plaid in a drag race and it smoked it.</p>
-
-
-
-<p>The car is ridiculously powerful, and it’s about 35% cheaper than the Plaid, which is already affordable relative to its supercar performance.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="tesla,xiaomi" data-layer-viewtype="unknown" data-post-id="405921" href="https://electrek.co/2025/03/15/tesla-model-s-plaid-smoked-drag-race-xiaomis-su7-ultra/#more-405921" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/03/15/tesla-model-s-plaid-smoked-drag-race-xiaomis-su7-ultra/>
-
----
-
-## Volkswagen ID.4 Motor Teardown: Killed By A Very Simple Problem
-
-date: 2025-03-15, from: Inside EVs News
-
-The coolant seems to have gone where it wasn’t supposed to. Yet the damaged motor looks pretty much perfect inside. 
-
-<br> 
-
-<https://insideevs.com/news/753316/vw-id4-front-motor-fail-teardown/>
-
----
-
-## Surprise! London’s tax on polluting vehicles made everyone much healthier
-
-date: 2025-03-15, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/03/electric-Cab-London-LEVC.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The city of London has released a report showing drastic drops in air pollution since it expanded its Ultra Low Emission Zone, an area within the city where polluting vehicles must pay a congestion charge to visit.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="london" data-layer-viewtype="unknown" data-post-id="405963" href="https://electrek.co/2025/03/15/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/#more-405963" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/03/15/surprise-taxing-polluting-vehicles-in-london-made-everyone-much-healthier/>
 

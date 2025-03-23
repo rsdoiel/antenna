@@ -1,11 +1,24 @@
 ---
 title: journalism
-updated: 2025-03-22 06:07:29
+updated: 2025-03-23 06:08:04
 ---
 
 # journalism
 
-(date: 2025-03-22 06:07:29)
+(date: 2025-03-23 06:08:04)
+
+---
+
+## Chancellor Julio Frenk receives welcome, proclamation from LA City Council
+
+date: 2025-03-23, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Council presented Chancellor Julio Frenk with a proclamation welcoming him to the city Friday.
+Katy Yaroslavsky, who represents District 5 &#8211; which includes UCLA &#8211; led the presentation discussing Frenk&#8217;s achievements and future plans. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/22/chancellor-julio-frenk-receives-welcome-proclamation-from-la-city-council/>
 
 ---
 
@@ -515,106 +528,4 @@ A variety of female artists delivered unforgettable music videos for their singl
 <br> 
 
 <https://dailybruin.com/2025/03/15/winter-music-video-roundup-complex-symbolism-from-award-winning-veterans-synthesizes-storytelling-and-song/>
-
----
-
-## From open mics to dorm shows, Gigi Goldberg turns every platform into her stage
-
-date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-Gigi Goldberg&#8217;s songs are striking a chord with the UCLA community.
-Goldberg, a second-year undeclared student and singer-songwriter who performs as keyofgigi, released her latest single last month &#8211; a soulful ballad dedicated to city life titled &#8220;urban wonderland.&#8221; While her new song is a dedication to cities such as Los Angeles and their communities, Goldberg said she first turned to music during her childhood in Colorado, where her hometown&#8217;s busking culture was her original source of inspiration for a career in music. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/15/from-open-mics-to-dorm-shows-gigi-goldberg-turns-every-platform-into-her-stage/>
-
----
-
-## PRIME Winter 2025
-
-date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<br> 
-
-<http://dailybruin.com/tag/prime-w-2025>
-
----
-
-## PRIME: A Year From Home
-
-date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
-
- 
-
-<br> 
-
-<https://dailybruin.com/2025/03/14/prime-a-year-from-home/>
-
----
-
-## PRIME: #Period
-
-date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-Social media led Annie Wong into an unexpected world of crimson-tinged activism.
-&#160;
-In her conservative household, discussions about menstruation were considered taboo. Coupled with less-than-thorough health classes at her Texas high school, Wong had limited access to period education before social media existed. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/14/prime-period/>
-
----
-
-## PRIME: Generative AI, the New Teacher’s Pet?
-
-date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-I’m not afraid of many things. Heights are just glorified elevations; spiders, just misunderstood creatures; public speaking, just multifaceted conversation. So it came as a surprise to learn I was afraid of something that existed within the pixelated confines of my computer screen: generative artificial intelligence. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/14/generative-ai-the-new-teachers-pet/>
-
----
-
-## UCPD arrests registered sex offender for unlawfully entering campus
-
-date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated March 14 at 10:59 p.m.</em>
-UCPD arrested a registered sex offender near Covel Commons around 1 p.m. Friday for unlawfully entering campus. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/14/ucpd-arrests-registered-sex-offender-for-unlawfully-entering-campus/>
-
----
-
-## Speech Club aims to help students build skills, confidence in public speaking
-
-date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-Forget spiders, snakes or heights – for some, public speaking is the most frightening thing of all.
-Founded this fall, Speech Team @UCLA provides UCLA students with the opportunity to strengthen their speaking skills, said Ernesto Perez, a team membership co-president of Speech Club. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/14/speech-club-aims-to-help-students-build-skills-confidence-in-public-speaking/>
-
----
-
-## Second Take: Regardless of gender, Oscars should respect nominated acts’ sexual autonomy
-
-date: 2025-03-15, from: The Daily Bruin (UCLA Student Newspaper)
-
-Editor&#8217;s note: This article includes a mention of rape that may be disturbing to some readers.
-There is nothing wrong with an actor baring it all to win an Oscar &#8211; but that doesn&#8217;t mean it should always happen. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/14/second-take-regardless-of-gender-oscars-should-respect-nominated-acts-sexual-autonomy/>
 

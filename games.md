@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-03-22 06:07:29
+updated: 2025-03-23 06:08:03
 ---
 
 # games
 
-(date: 2025-03-22 06:07:29)
+(date: 2025-03-23 06:08:03)
+
+---
+
+## 7 great games you can finish in one sitting
+
+date: 2025-03-23, updated: 2025-03-21, from: Polygon Website
+
+You’re on your lunch break, or maybe you’re just bored and need something to do for 20 minutes. That’s where short games come in. They’re little experiences you can completely finish in a single sitting. Sometimes there are puzzles to solve or challenges to face, and sometimes there aren’t. These games can be anything, really. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/541150/best-games-under-30-minutes-one-sitting>
+
+---
+
+## What time does FFXIV patch 7.2 release?
+
+date: 2025-03-23, updated: 2025-03-21, from: Polygon Website
+
+FFXIV patch 7.2 — the second major Dawntrail update — releases soon, alongside a lot of content which will be spread out through several micropatches. That said, there’ll still be stuff to do between new story and a new raid tier right away, so don’t fret. Below, we explain when FFXIV maintenance starts and ends, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online>
+
+---
+
+## Assassin’s Creed Shadows voice actor Masumi reflects on her first video game performance
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+Singer-songwriter, actor, and now video game voice actor Masumi is not new to playing a Japanese assassin grieving the loss of her father. She starred as a yakuza heir in 2021’s Yakuza Princess — her “breakout movie,” as she calls it. Then, she booked a new challenge: Naoe, the shinobi assassin protagonist in Assassin’s Creed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/543792/assassins-creed-shadows-masumi-voice-actor-video-game-performance>
+
+---
+
+## Ne Zha 2 director launched his career with this wild animated short — and a much wilder backstory
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+The meteoric rise of the Chinese movie Ne Zha 2 has been stunning: The sequel has broken worldwide records for an animated movie, and as of this writing, has reportedly earned more than $2 billion at the international box office, putting it at No. 5 on the all-time highest-grossing-movie list, above Star Wars: The Force [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/544811/ne-zha-2-director-jiao-zi-free-animated-short-debut>
+
+---
+
+## Severance season 2 was always at war with itself — and season 3 might be, too
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+At the end of Severance season 2, Mark (Adam Scott) is not very happy with himself. Well, actually, let’s put this a little more clearly in Severance terms: Outie-Mark is not very happy with Innie-Mark — and the feeling is mutual.  Having now had a full conversation with each other for the first time, aided [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/544883/severance-season-2-review-finale-3-setup>
+
+---
+
+## A Nintendo game trend that looks like it will continue on Switch 2
+
+date: 2025-03-22, updated: 2025-03-22, from: Polygon Website
+
+This story was first published in Switchboard, a newsletter from Polygon that delivers all the latest Switch 2 news, reporting, and rumors directly to your inbox.&#160;Sign up here&#160;to get it weekly. Former Nintendo president Satoru Iwata passed before the Switch launched in 2017, but he left the company with a vision that it&#8217;s beginning to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/544241/nintendo-switch-2-multiplayer-mmo>
+
+---
+
+## How a Mega Man fan project got an official Capcom license
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+Back in 2021, Philip Summers launched a Kickstarter campaign for Hand-Drawn Game Guides, a series of books that resembled traditional strategy guides, apart from the fact that they were all illustrated by Summers. The campaign was a hit, generating over $300,000 in pledges, but like a number of fan projects utilizing game company IPs, it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/539004/mega-man-hand-drawn-guide-interview>
+
+---
+
+## All 14 Assassin’s Creed games, ranked
+
+date: 2025-03-22, updated: 2025-03-22, from: Polygon Website
+
+Over the nearly two decades since the first entry, Assassin’s Creed has ballooned into a mixed-media franchise that includes at least seven spinoffs, nine novels, 11 comics, a Michael Fassbender film, an in-development TV show, and enough Pop! toys to fill a jam band. The brand is so ubiquitous, so familiar, that its core ideas [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/2017/10/27/544208/assassins-creed-games-ranked-best-worst>
+
+---
+
+## The best horror movies to watch on Netflix this March
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+Look, March isn’t the scariest month of the year. In fact, it’s probably in the top three least scary months, if we had to rank them. Thankfully, Netflix is here to help, with a selection of great horror movies to keep things creepy. This month, we handpicked a few of the best horror movies on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/543139/best-horror-movies-netflix-watch-march-2025>
+
+---
+
+## Pokémon Go Totodile Community Day Classic guide
+
+date: 2025-03-22, updated: 2025-03-20, from: Polygon Website
+
+Pokémon Go is having a Totodile Community Day event on Saturday, March 22 from 2-5 p.m. in your local time. As expected with a Community Day event, Totodile will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/543535/totodile-community-day-shiny-feraligatr-moveset>
 
 ---
 
@@ -570,64 +690,4 @@ It’s nice to be cozy. I’m a huge fan of being wrapped up in a big blanket, s
 <br> 
 
 <https://www.polygon.com/cozy-gaming/539022/best-cozy-games-twist-play-list>
-
----
-
-## The awesome Monster Hunter movie just came to streaming at the perfect time
-
-date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
-
-Statistically, you probably haven’t seen the Monster Hunter movie, probably because it came out at exactly the wrong time. Paul W.S. Anderson’s adaptation of Capcom’s video game series was released in December 2020, during a period where many people were still staying home rather than going to the theaters. It’s one of the only box-office [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/539910/monster-hunter-movie-watch-streaming>
-
----
-
-## Why Wheel of Time’s Josha Stradowski sees season 3 Rand as Mike Tyson
-
-date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
-
-Rand al’Thor is a singular figure in the Wheel of Time series: Though there are other men who try their hand at channeling, Rand’s prophetic role as the Dragon Reborn means he’s the sole man who’s able to use magic effectively (or, at least, without eventually being driven mad).&#160; That also puts Josha Stradowski, the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/fantasy/538097/wheel-time-rosamund-pike-rand-josha-stradowski-channeling-interview>
-
----
-
-## Wanderstop, a delicious game about making tea, is on sale this weekend
-
-date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
-
-Wanderstop managed to make me feel emotionally attacked while making tea, and I love it. If you’re looking for a cozy game to indulge in this weekend, whether indoors or in the pseudo-spring weather outside, Wanderstop is a great fit — and it’s discounted to $22.49 through March 18 on Steam as part of the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/good-deals/540051/steam-spring-sale-wanderstop-tea-game>
-
----
-
-## A documentary analyzes Street Fighter 2’s cultural impact, 30-plus years later
-
-date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
-
-When you’ve devoted years of your life to covering Street Fighter 2 history, it’s nice knowing you’re not alone. So when I heard about the documentary Here Comes a New Challenger a few years ago, I was excited to see another take on the greatest game of all time. Now available for free on Tubi, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/q-and-a/538478/street-fighter-2-documentary-stream-free>
-
----
-
-## The best sci-fi movies to watch on Netflix this March
-
-date: 2025-03-15, updated: 2025-03-14, from: Polygon Website
-
-There are tons of cool sci-fi films to look forward to in the coming weeks. From Flying Lotus’ psychedelic horror thriller Ash to David Cronenberg’s The Shrouds, there’s no shortage of exciting new releases to catch in theaters. If you’re looking for the best sci-fi movies to watch from the comfort of your own home, [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/538224/best-sci-fi-movies-watch-netflix-march-2025>
 

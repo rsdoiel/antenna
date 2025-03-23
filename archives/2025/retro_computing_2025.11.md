@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-03-22 06:07:31
+updated: 2025-03-23 06:08:06
 ---
 
 # retro computing
 
-(date: 2025-03-22 06:07:31)
+(date: 2025-03-23 06:08:06)
+
+---
+
+## b.log 2025/03/22 - Holiday!, Mowing, Equinox, What the hell Mars?, The chuggers were fake!, Ghost notes, My first ever food delivery is imminent, I hadn't meant to wreck my shoulders today.
+
+date: 2025-03-22, from: Richard Murray's blog
+
+Holiday!, Mowing, Equinox, What the hell Mars?, The chuggers were fake!, Ghost notes, My first ever food delivery is imminent, I hadn't meant to wreck my shoulders today. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250322>
+
+---
+
+## Usurpator II Chess for the 6502
+
+date: 2025-03-22, from: Hans Otten's Retro blog
+
+Usurpator Chess for the 6800 and 6502, a book by H.G. Muller A small but capable chess playing program. Source published in the book for AIM 65. Typed in again in march 2025 and adapted for the KIM-1. Programs ready to run, AIM 65 and KIM-1 versions, with binaries and sources in modern 6502 assembler. [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/usurpator-ii-chess-for-the-6502/>
 
 ---
 

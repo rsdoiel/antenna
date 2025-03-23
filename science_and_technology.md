@@ -1,11 +1,83 @@
 ---
 title: science and technology
-updated: 2025-03-22 06:07:27
+updated: 2025-03-23 06:08:01
 ---
 
 # science and technology
 
-(date: 2025-03-22 06:07:27)
+(date: 2025-03-23 06:08:01)
+
+---
+
+## ReactOS 0.4.15 released
+
+date: 2025-03-22, from: OS News
+
+It&#8217;s been over three years since the last ReactOS release, but today, in honour of the first commit to the project by the oldest, still active contributor, the project released ReactOS 0.4.15. Of course, there&#8217;s been a steady stream of nightly releases, so it&#8217;s not like the project stalled or anything, but having a proper release is always nice to have. We are pleased to announce the release of ReactOS 0.4.15! This release offers Plug and Play fixes, audio fixes, memory management fixes, registry healing, improvements to accessories and system tools including Notepad, Paint, RAPPS, the Input Method Editor, and shell improvements. ↫ ReactOS 0.14.5 release announcement There&#8217;s a lot in this one, as the long gap between releases indicates. Thanks to the major changes in the plug and play subsystem of the kernel, ReactOS now supports more third party drivers, and it can now boot from USB and chipsets with EHCI, OHCI, and UHCI controllers. The open source AC’97 driver from the Windows Driver Kit has also been ported to ReactOS to enable sound on VirtualBox and old motherboards. The open source FAT driver from the same WDK has also been ported, which is a massive improvement over the old one. ReactOS can now also make use of custom IMEs, ZIP archive support has been integrated into the shell, and a new default visual style has been chosen. There&#8217;s a lot more in this release, though, and since it was branched over six months ago, there are a lot of improvements from since that time that are not yet part of this release, like a graphical installers, UEFI and SMP support, new NTFS driver, and a ton more. In other words &#8211; don&#8217;t let the long time between releases fool you; there&#8217;s a lot going on in the ReactOS world. 
+
+<br> 
+
+<https://www.osnews.com/story/141993/reactos-0-4-15-released/>
+
+---
+
+## Museum digs up Digital Equipment Corporation's dusty digital equipment
+
+date: 2025-03-22, updated: 2025-03-22, from: The Register (UK I.T. News)
+
+<h4>Remembering the fallen giant&#39;s first UK office</h4> <p>Reading Museum is hosting an exhibition marking more than 60 years since Digital Equipment Corporation (DEC) opened its first UK office.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/22/dec_reading_museum/>
+
+---
+
+## Nvidia Linux GPU driver ported to Haiku
+
+date: 2025-03-22, from: OS News
+
+Nvidia releasing its Linux graphics driver as open source is already bearing fruit for alternative operating systems. As many people already knows, Nvidia published their kernel driver under MIT license: GitHub &#8211; NVIDIA/open-gpu-kernel-modules: NVIDIA Linux open GPU kernel module source (I will call it NVRM). This driver is very portable and its platform-independent part can be compiled for Haiku with minor effort (but it need to implement OS-specific binding code to be actually useful). This is very valuable for Haiku because Linux kernel GPU drivers are very hard to port and it heavily depends on Linux kernel internals. Unfortunately userland OpenGL/Vulkan driver source code is not published. But as part of Mesa 3D project, new Vulkan driver “NVK” is being developed and is functional already. Mesa NVK driver is using Nouveau as kernel driver, so it can’t be directly used with NVRM kernel driver. NVK source code provides platform abstraction that allows to implement support of other kernel drivers such as NVRM. I finally managed to make initial port NVRM kernel driver to Haiku and added initial NVRM API support to Mesa NVK Vulkan driver, so NVRM and NVK can work together. Some simple Vulkan tests are working. ↫ X512 on the Haiku forums Incredibly impressive, and a huge milestone for the Haiku operating system. It supports any Nvidia GPU from the Turing architecture, which I think means Nvidia RTX 20xx and newer, since they have a required microcontroller older GPUs do not have. Of course, this is an early port and a lot of work remains to be done, but it could lead to huge things for Haiku. 
+
+<br> 
+
+<https://www.osnews.com/story/141985/nvidia-linux-gpu-driver-ported-to-haiku/>
+
+---
+
+## SoftBank acquires Ampere Computing
+
+date: 2025-03-22, from: OS News
+
+SoftBank Group Corp. today announced that it will acquire Ampere Computing, a leading independent silicon design company, in an all-cash transaction valued at $6.5 billion. Under the terms of the agreement, Ampere will operate as a wholly owned subsidiary of SoftBank Group and retain its name. As part of the transaction, Ampere’s lead investors – Carlyle and Oracle – are selling their respective positions in Ampere. ↫ SoftBank and Ampere Computing press release Despite not really knowing what SoftBank does and what their long-term goals are &#8211; I doubt anyone does &#8211; I hope this at the very least provides Ampere with the funds needed to expand its business. At this point, the only serious options for Arm-based hardware are either Apple or Qualcomm, and we could really use more players. Ampere&#8217;s hardware is impressive, but difficult to buy and expensive, and graphics card support is patchy, at best. What Ampere needs is more investment, and more OEMs picking up their chips. An Ampere workstation is incredibly high on my list of machines to test for OSNews (perhaps a System76 model?), and it&#8217;d be great if economies of scale worked to bring the prices down, possibly allowing Ampere to developer cheaper, more affordable variants for us mere mortals, too. I would love to build an Arm workstation in much the same way we build regular x86 PCs today, but I feel like that&#8217;s still far off. I have no idea if SoftBank is the right kind of company to make this possible, but one can dream. 
+
+<br> 
+
+<https://www.osnews.com/story/141983/softbank-acquires-ampere-computing/>
+
+---
+
+## Sols 4486-4487: Ankle-Breaking Kind of Terrain!
+
+date: 2025-03-22, from: NASA breaking news
+
+Written by Catherine O’Connell-Cooper, Planetary Geologist at University of New Brunswick Earth planning date: Wednesday, March 19, 2025  This terrain is a tricky drive, with rocks angled chaotically all around. One of our geologists remarked that they wouldn’t like to even walk over this without solid boots coming way up over the ankles — this […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4486-4487-ankle-breaking-kind-of-terrain/>
+
+---
+
+## Shocking Spherules!
+
+date: 2025-03-22, from: NASA breaking news
+
+Written by Alex Jones, Ph.D. candidate at Imperial College London Last week the Perseverance Science Team were astonished by a strange rock comprised of hundreds of millimeter-sized spheres… and the team are now working hard to understand their origin.  It has now been two weeks since Perseverance arrived at Broom Point, situated at the lower […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/shocking-spherules/>
 
 ---
 
@@ -1890,52 +1962,4 @@ date: 2025-03-16, updated: 2025-03-16, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/16/qwq_hands_on_review/>
-
----
-
-## RIP Mark Klein, the engineer who exposed US domestic spying ops after wiring it up
-
-date: 2025-03-15, updated: 2025-03-15, from: The Register (UK I.T. News)
-
-<h4>AT&amp;T engineer, and the Deep Throat of the network age, dies at 79</h4> <p>In 2006, a retired AT&amp;T engineer knocked on the door of the EFF&#39;s office in a rundown part of San Francisco&#39;s Mission district and asked, &#34;Do you folks care about privacy?&#34; With him he carried schematics exposing the largest US government domestic spying operation since Watergate.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/15/rip_mark_klein/>
-
----
-
-## NASA’s EZIE Launches on Mission to Study Earth’s Electrojets
-
-date: 2025-03-15, from: NASA breaking news
-
-Under the nighttime California sky, NASA’s EZIE (Electrojet Zeeman Imaging Explorer) mission launched aboard a SpaceX Falcon 9 rocket at 11:43 p.m. PDT on March 14. Taking off from Vandenberg Space Force Base near Santa Barbara, the EZIE mission’s trio of small satellites will fly in a pearls-on-a-string configuration approximately 260 to 370 miles above Earth’s surface to […] 
-
-<br> 
-
-<https://science.nasa.gov/science-research/heliophysics/nasas-ezie-launches-on-mission-to-study-earths-electrojets/>
-
----
-
-## Ironclad 0.6 released
-
-date: 2025-03-15, from: OS News
-
-It&#8217;s been a while, but there&#8217;s a new release of Ironclad, the formally verified, hard real-time capable kernel written in SPARK and Ada. Aside from the usual bugfixes, this release moves Ironclad from multiboot to Limine, adds x86_64 ACPI support for poweroff and reboot, improvements to PTY support, the VFS layer, and much more. The easiest way to try out Ironclad is to download Gloire, a distribution that uses Ironclad and the GNU tools. It can be installed in both a virtual machine and on real hardware. 
-
-<br> 
-
-<https://www.osnews.com/story/141935/ironclad-0-6-released/>
-
----
-
-## A look at Firefox forks
-
-date: 2025-03-15, from: OS News
-
-Mozilla&#8217;s actions have been rubbing many Firefox fans the wrong way as of late, and inspiring them to look for alternatives. There are many choices for users who are looking for a browser that isn&#8217;t part of the Chrome monoculture but is full-featured and suitable for day-to-day use. For those who are willing to stay in the Firefox &#8220;family&#8221; there are a number of good options that have taken vastly different approaches. This includes GNU IceCat, Floorp, LibreWolf, and Zen. ↫ Joe Brockmeier It&#8217;s a tough situation, as we&#8217;re all aware. We don&#8217;t want the Chrome monoculture to get any worse, but with Mozilla&#8217;s ever-increasing number of dubious decisions some people have been warning about for years, it&#8217;s only natural for people to look elsewhere. Once you decide to drop Firefox, there&#8217;s really nowhere else to go but Chrome and Chrome skins, or the various Firefox skins. As an aside, I really don&#8217;t think these browsers should be called Firefox &#8220;forks&#8221;; all they really do is change some default settings, add in an extension or two, and make some small UI tweaks. They may qualify as forks in a technical sense, but I think that overstates the differentiation they offer. Late last year, I tried my best to switch to KDE&#8217;s Falkon web browser, but after a few months the issues, niggles, and shortcomings just started to get under my skin. I switched back to Firefox for a little while, contemplating where to go from there. Recently, I decided to hop onto the Firefox skin train just to get rid of some of the Mozilla telemetry and useless &#8216;features&#8217; they&#8217;ve been adding to Firefox, and after some careful consideration I decided to go with Waterfox. Waterfox strikes a nice balance between the strict choices of LibreWolf &#8211; which most users of LibreWolf seem to undo, if my timeline is anything to go by &#8211; and the choices Mozilla itself makes. On top of that, Waterfox enables a few very nice KDE integrations Firefox itself and the other Firefox skins don&#8217;t have, making it a perfect choice for KDE users. Sadly, Waterfox isn&#8217;t packaged for most Linux distributions, so you&#8217;ll have to resort to a third-party packager. In the end, none of the Firefox skins really address the core problem, as they&#8217;re all still just Firefox. The problem with Firefox is Mozilla, and no amount of skins is going to change that. 
-
-<br> 
-
-<https://www.osnews.com/story/141933/a-look-at-firefox-forks/>
 

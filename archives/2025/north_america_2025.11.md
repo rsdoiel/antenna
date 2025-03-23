@@ -1,11 +1,35 @@
 ---
 title: north america
-updated: 2025-03-22 06:07:24
+updated: 2025-03-23 06:07:59
 ---
 
 # north america
 
-(date: 2025-03-22 06:07:24)
+(date: 2025-03-23 06:07:59)
+
+---
+
+## Publisher's Roundup, 10 
+
+date: 2025-03-22, from: The Contrarian
+
+Trump is Lashing Out Because He&#8217;s Losing 
+
+<br> 
+
+<https://contrarian.substack.com/p/publishers-roundup-10>
+
+---
+
+##  YOU LOVE TO SEE IT: You’re Rehired! 
+
+date: 2025-03-22, from: The Lever News
+
+ Federal workers are rehired, red states go green, a judge stops a different steal, and states repair consumer protections.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-youre-rehired/>
 
 ---
 
@@ -1581,87 +1605,4 @@ date: 2025-03-16, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-yacht-rocked/>
-
----
-
-## Why Donald Trump Is Attacking Me—and You
-
-date: 2025-03-15, from: The Contrarian
-
-Publisher's Roundup, 9 
-
-<br> 
-
-<https://contrarian.substack.com/p/why-donald-trump-is-attacking-meand>
-
----
-
-##  YOU LOVE TO SEE IT: Even Trump Doesn’t Trust Big Tech 
-
-date: 2025-03-15, from: The Lever News
-
- Google’s monopoly status is questioned, states can sue for climate cleanup, a judge tells Trump to do his research, and a zombie pipeline is stopped in its tracks.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-even-trump-doesnt-trust-big-tech/>
-
----
-
-## Trump EPA Chief’s Assault on Environmental Justice Means Those With the Least Will Get Hurt the Most
-
-date: 2025-03-15, from: Capital and Main
-
-<p>The 'Great American Comeback' shouldn't be filthy air, dirty water and no sanitation for the marginalized, says activist Catherine Coleman Flowers. </p>
-<p>The post <a href="https://capitalandmain.com/trump-epa-chiefs-assault-on-environmental-justice-means-those-with-the-least-will-get-hurt-the-most">Trump EPA Chief’s Assault on Environmental Justice Means Those With the Least Will Get Hurt the Most</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
- 
-
-<br> 
-
-<https://capitalandmain.com/trump-epa-chiefs-assault-on-environmental-justice-means-those-with-the-least-will-get-hurt-the-most>
-
----
-
-## Who selected the Lady Gaga song you’re hearing at the grocery store?
-
-date: 2025-03-15, from: Market Place
-
- Employees and marketing teams select songs from music providers, taking into account customer and employee feedback. 
- 
-
-<br> 
-
-<https://www.marketplace.org/2025/03/14/who-selected-the-lady-gaga-song-youre-hearing-at-the-grocery-store/>
-
----
-
-## Shutdown averted. How it all went down.
-
-date: 2025-03-15, from: Market Place, Make me Smart
-
-<p><!-- wp:paragraph --></p>
-<p>A Republican-written spending bill is being backed by some Senate Democrats, including Senate Minority Leader Chuck Schumer, to avoid a government shutdown. Other Democrats — and much of the voter base — aren’t happy. We&#8217;ll get into it. Then, we&#8217;ll close out the week with a round of Half Full/Half Empty, weighing in on Southwest Airlines’ new checked bag policy and $19 strawberries. Plus, in the wake of a certain duchess’ foray into television, what are your thoughts on celeb cooking shows?</p>
-<p>Here’s everything we talked about today:</p>
-<ul>
-<li><a href="https://www.nytimes.com/interactive/2025/03/12/magazine/russia-arctic-fossils-expedition.html" target="_blank" rel="noreferrer noopener">“The Siberian Bone Hunters Diving for Ice Age Mammoth Fossils”</a> from The New York Times<!-- /wp:paragraph --> <!-- wp:list-item --></li>
-<li><a href="https://www.politico.com/news/2025/03/14/dr-oz-health-care-00230949" target="_blank" rel="noreferrer noopener">“Dr. Oz, with a TV host’s flair, promises simple solutions for America’s health care ills”</a> by Politico</li>
-<li>&#8220;<a href="https://www.nytimes.com/2025/03/14/us/politics/schumer-trump-government-shutdown.html">Schumer Under Fire as Pelosi and Other Democrats Criticize Shutdown Retreat&#8221; </a>from The New York Times<!-- /wp:list-item --> <!-- wp:list-item --></li>
-<li><a href="https://www.bloomberg.com/news/articles/2025-03-11/half-past-four-is-the-new-five-o-clock-in-more-efficient-workday?campaign_id=4&amp;emc=edit_dk_20250312&amp;instance_id=149767&amp;nl=dealbook&amp;regi_id=144686531&amp;segment_id=193222&amp;user_id=d2d928a1f9dc3a96ed597f55afd46083&amp;embedded-checkout=true">&#8220;Half-Past Four is the New Five O’Clock in More Efficient Workday&#8221;</a> from Bloomberg<!-- /wp:list-item --> <!-- wp:list-item --></li>
-<li>&#8220;<a href="https://www.nytimes.com/2025/03/04/style/meghan-markle-netflix-takeaways.html">5 Takeaways From Meghan Markle’s Netflix Show ‘With Love, Meghan’&#8221;</a> from The New York Times<!-- /wp:list-item --> <!-- wp:list-item --></li>
-<li>&#8220;<a href="https://www.marketplace.org/2025/03/13/19-we-might-be-at-peak-strawberry/">Why does the viral Erewhon strawberry cost $19?&#8221;</a> from Marketplace<!-- /wp:list-item --> <!-- wp:list-item --></li>
-<li>&#8220;<a href="https://www.usatoday.com/story/travel/airline-news/2025/03/12/southwest-airlines-major-changes-bag-fees/82281146007/">Southwest Airlines is charging for checked bags. Will loyal flyers stick around?</a>&#8221; from USA Today</li>
-</ul>
-<p><!-- /wp:list-item --></p>
-<p><!-- /wp:list --></p>
-<p><!-- /wp:list-item --></p>
-<p><!-- /wp:list --> <!-- wp:paragraph --></p>
-<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
-<p><!-- /wp:paragraph --></p>
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/14/mms_20250314_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fshutdown-averted-how-it-all-went-down&awCollectionId=mkp-MMsmrt"></source>
-</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/14/mms_20250314_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fshutdown-averted-how-it-all-went-down&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
-
-<https://www.marketplace.org/shows/make-me-smart/shutdown-averted-how-it-all-went-down>
 

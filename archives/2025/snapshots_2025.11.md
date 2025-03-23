@@ -1,11 +1,351 @@
 ---
 title: snapshots
-updated: 2025-03-22 06:07:34
+updated: 2025-03-23 06:08:08
 ---
 
 # snapshots
 
-(date: 2025-03-22 06:07:34)
+(date: 2025-03-23 06:08:08)
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-23, from: Feed for Alt USDS)
+
+DOGE claimed they’d fix government inefficiency, but so far, they’ve only broken it more. 🤷‍♂️ Firing workers ≠ fixing processes. If the people suffer either way, is this really a solution?
+
+📖 Read the breakdown here: https://www.wethebuilders.org/posts/new-failure-same-failure
+
+#altgov #altUSDS #BureaucracyVsEfficiency ⚖ 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3ll2clh4vbp2v>
+
+---
+
+## A Balance of Payments Primer, Part I
+
+date: 2025-03-23, from: Paul Krugman
+
+And why you shouldn&#8217;t panic over trade deficits 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-balance-of-payments-primer-part>
+
+---
+
+## Servo vs Ladybird
+
+date: 2025-03-23, from: Libre News
+
+I believe that Ladybird has more funding and better support for the web, but Servo wins in performance. Though, they're hard to compare directly! 
+
+<br> 
+
+<https://thelibre.news/servo-vs-ladybird/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-23, from: Dave Winer's linkblog)
+
+What the Venezuelans Deported to El Salvador Experienced. 
+
+<br> 
+
+<https://time.com/7269604/el-salvador-photos-venezuelan-detainees/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-23, from: Dave Winer's linkblog)
+
+Musk’s X suspends opposition accounts in Turkey amid civil unrest. 
+
+<br> 
+
+<https://www.politico.eu/article/musks-x-suspends-opposition-accounts-turkey-protest-civil-unrest-erdogan-imamoglu-istanbul-mayor/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-23, from: Dave Winer's linkblog)
+
+I trust that invisible hand Darwinian ecosystem builds better networks, because they are real, not contrived. 
+
+<br> 
+
+<http://scripting.com/2025/03/22/140333.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-23, from: Dave Winer's linkblog)
+
+When power went out in our Kansas home, I pondered political disaster. Our only hope is self-rescue. 
+
+<br> 
+
+<https://kansasreflector.com/2025/03/23/when-power-went-out-in-our-kansas-home-i-pondered-political-disaster-our-only-hope-is-self-rescue/>
+
+---
+
+## Fasten Furious: When Laptops Had Hooks
+
+date: 2025-03-23, updated: 2025-03-23, from: Tedium site
+
+Considering the period in laptop history where Apple built PowerBooks with hooks that only exposed themselves when they got close to a magnet. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16989750/laptop-fastener-magnetic-hooks-history>
+
+---
+
+## Elon Musk Wasn’t the Only One This Week with a Top Secret National Security Meeting
+
+date: 2025-03-23, from: Michael Moore's blog
+
+I will be sharing State secrets this Wednesday with the new Prime Minister of Canada regarding Hockey, Chocolate and a European Union-style treaty between Michigan and Canada 
+
+<br> 
+
+<https://www.michaelmoore.com/p/elon-musk-wasnt-the-only-one-this>
+
+---
+
+## Quoting Jacob Kaplan-Moss
+
+date: 2025-03-23, updated: 2025-03-23, from: Simon Willison’s Weblog
+
+<blockquote cite="https://jacobian.org/2025/mar/13/beware-advice-from-old-heads/"><p>If you’re new to tech, taking advice on what works for someone with a 20-year career is likely to be about as effective as taking career advice from a stockbroker or firefighter or nurse. There’ll be a few things that generalize, but most advice won’t.</p>
+<p>Further, even advice people with long careers on what worked for them when <em>they</em> were getting started is unlikely to be advice that works today. The tech industry of 15 or 20 years ago was, again, <strong>dramatically</strong> different from tech today.</p></blockquote>
+<p class="cite">&mdash; <a href="https://jacobian.org/2025/mar/13/beware-advice-from-old-heads/">Jacob Kaplan-Moss</a>, Beware tech career advice from old heads</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/jacob-kaplan-moss">jacob-kaplan-moss</a>, <a href="https://simonwillison.net/tags/careers">careers</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/23/jacob-kaplan-moss/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Why isn’t  the Democratic Party flooding the zone with rallies like this, everywhere. 
+
+<br> 
+
+<https://bsky.app/profile/mjfree.bsky.social/post/3lkwonpyoak2z>
+
+---
+
+## simonw/ollama-models-atom-feed
+
+date: 2025-03-22, updated: 2025-03-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/ollama-models-atom-feed">simonw/ollama-models-atom-feed</a></strong></p>
+I setup a GitHub Actions + GitHub Pages Atom feed of scraped recent models data from the Ollama <a href="https://ollama.com/search?o=newest">latest models</a> page - Ollama remains one of the easiest ways to run models on a laptop so a new model release from them is worth hearing about.</p>
+<p>I built the scraper by pasting example HTML <a href="https://claude.ai/share/c96d6bb9-a976-45f9-82c2-8599c2d6d492">into Claude</a> and asking for a Python script to convert it to Atom - here's <a href="https://github.com/simonw/ollama-models-atom-feed/blob/main/to_atom.py">the script</a> we wrote together.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/git-scraping">git-scraping</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/atom">atom</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Stratechery Interview with OpenAI CEO Sam Altman About Building a Consumer Tech Company. 
+
+<br> 
+
+<https://stratechery.com/2025/an-interview-with-openai-ceo-sam-altman-about-building-a-consumer-tech-company/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+What Is It Like to Be on Ketamine? 
+
+<br> 
+
+<https://www.thecut.com/2019/11/ketamine-disassociation-generation.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Kitty Dukakis, former first lady of Massachusetts, has died. 
+
+<br> 
+
+<https://www.wgbh.org/news/local/2025-03-22/kitty-dukakis-former-first-lady-of-massachusetts-has-died>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Reading this fresh post from Ken Smith, I thought a good slogan for Bernie&#39;s new party (maybe they should call it that) is Build Back Better, stolen from Biden. That&#39;s going to be a popular message because everyone is quickly figuring out that we&#39;re getting the shit kicked out of us, and there&#39;s a lot of rebuilding in our future no matter what. 
+
+<br> 
+
+<https://akakensmith.com/2025/03/22/get-back-to-where-you-once-belonged/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Trump’s firings of military leaders pose a crucial question to service members of all ranks. 
+
+<br> 
+
+<https://theconversation.com/trumps-firings-of-military-leaders-pose-a-crucial-question-to-service-members-of-all-ranks-247665>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+In December I wrote about &quot;listening lists&quot; for podcasts. I believe it&#39;s coming into fruition soon, from at least one major podcast vendor. It&#39;s not only going to be nice to have imho but it&#39;s something the open web does better than the podcast silos, that in itself is important. 
+
+<br> 
+
+<https://this.how/podcasting/index.opml#1733322866000>
+
+---
+
+## Update: AYANEO AM01S mini PC has a retro design, a 4 inch flip-up display, and AMD Strix Point inside
+
+date: 2025-03-22, from: Liliputing
+
+<p>When AYANEO introduced the AM01S mini PC last year, the company positioned it as a compact computer with a design inspired by classic PCs from the 1980s, but a few upgrades over the original AYANEO AM01 that launched in 2023. For one thing, it had a higher-performance processor. For another, instead of a fake screen [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/update-ayaneo-am01s-mini-pc-has-a-retro-design-a-4-inch-flip-up-display-and-amd-strix-point-inside/">Update: AYANEO AM01S mini PC has a retro design, a 4 inch flip-up display, and AMD Strix Point inside</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/update-ayaneo-am01s-mini-pc-has-a-retro-design-a-4-inch-flip-up-display-and-amd-strix-point-inside/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+2009: Natural-born blogger. &quot;NBBs go first. If there&#39;s an NBB around you don&#39;t have to wait for a volunteer.&quot; 
+
+<br> 
+
+<http://scripting.com/stories/2009/11/24/naturalbornBlogger.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Newsom on the Podcast Train. 
+
+<br> 
+
+<https://daveverse.wordpress.com/2025/03/22/newsom-riding-on-the-podcast-train/>
+
+---
+
+## What’s in Your Head? A Plastic Spoon and Lost Baby Memories
+
+date: 2025-03-22, from: 404 Media Group
+
+This week, we journey into the human brain and find some disturbing stuff in there. 
+
+<br> 
+
+<https://www.404media.co/whats-in-your-head-a-plastic-spoon-and-lost-baby-memories/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Utah GOP Reps. Maloy and Kennedy told to “Do your job” at a town hall. 
+
+<br> 
+
+<https://www.sltrib.com/news/politics/2025/03/20/utah-gop-reps-maloy-kennedy-told/>
+
+---
+
+## The Cybernetic Teammate
+
+date: 2025-03-22, from: One Useful Thing
+
+Having an AI on your team can increase performance, provide expertise, and improve your experience 
+
+<br> 
+
+<https://www.oneusefulthing.org/p/the-cybernetic-teammate>
+
+---
+
+## How Michael Horn makes videos
+
+date: 2025-03-22, from: Libre News
+
+ 
+
+<br> 
+
+<https://thelibre.news/michael-horn/>
+
+---
+
+## How Should We Think About the Economics of AI?
+
+date: 2025-03-22, from: Paul Krugman
+
+A conversation with Erik Brynjolfsson 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/how-should-we-think-about-the-economics>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Local and State Police Are Joining Trump&#39;s &#39;Deportation Force.&#39; 
+
+<br> 
+
+<https://www.texasobserver.org/local-state-police-ice-287g-task-force/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Seniors won&#39;t complain if they miss a Social Security check, Lutnick says. 
+
+<br> 
+
+<https://www.axios.com/2025/03/21/social-security-lutnick-doge-checks>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Bird flu continues to spread as Trump’s pandemic experts are MIA. 
+
+<br> 
+
+<https://arstechnica.com/health/2025/03/bird-flu-continues-spread-as-trumps-pandemic-experts-are-mia/>
+
+---
+
+## Improved ways to operate a rude crawler
+
+date: 2025-03-22, from: Marginallia log
+
+This text is satirical in nature.
+Tech news is abuzz with rude AI crawlers that forge their user-agent and ignore robots.txt. In my opinion, if this is all the AI startups can muster, they&rsquo;re losing their touch. wget can do this. You need to up your game, get that crawler really rolling coal. Flagrant disregard for externalities is an important signal to the investors that your AI startup is the one. 
+
+<br> 
+
+<https://www.marginalia.nu/log/a_115_rude_crawler/>
 
 ---
 
@@ -437,6 +777,16 @@ Europe is a superpower, if it wants to be
 
 **@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
 
+Good morning sports fans! 
+
+<br> 
+
+<https://m.youtube.com/watch?v=wA0vIcESGkI>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-21, from: Dave Winer's linkblog)
+
 Heathrow Airport closes all day over power outage. 
 
 <br> 
@@ -806,7 +1156,7 @@ Two experts want your computer. Which one will get to it first?
 
 ## Notification Summary Miscues
 
-date: 2025-03-20, updated: 2025-03-20, from: One Foot Tsunami
+date: 2025-03-20, updated: 2025-03-22, from: One Foot Tsunami
 
  
 
@@ -1854,16 +2204,6 @@ Wired is dropping paywalls for FOIA-based reporting. Others should follow. (This
 
 **@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
 
-Stranger To Himself. 
-
-<br> 
-
-<https://m.youtube.com/watch?v=wA0vIcESGkI>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-18, from: Dave Winer's linkblog)
-
 Farewell Photoshop? Google’s new AI lets you edit images by asking. 
 
 <br> 
@@ -2895,311 +3235,4 @@ Serbia&#39;s largest-ever rally sees 325,000 protest government.
 <br> 
 
 <https://www.bbc.com/news/articles/cx2g8v32q30o>
-
----
-
-## Pine64’s RISC-V tablet now ships with a Debian-based Linux distro and improved hardware
-
-date: 2025-03-15, from: Liliputing
-
-<p>The PineTab-V is a 10.1 inch tablet with a 1280 x 800 pixel IPS LCD display, 8GB of LPDDR4 memory, 128GB of eMMC storage, and a detachable keyboard with backlit keys. What really makes it different from most tablets though is that it&#8217;s powered by a RISC-V processor rather than an ARM or x86 chip. Pine64 began [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/">Pine64&#8217;s RISC-V tablet now ships with a Debian-based Linux distro and improved hardware</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/pine64s-risc-v-tablet-now-ships-with-a-debian-based-linux-distro-and-improved-hardware/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Why write right? 
-
-<br> 
-
-<https://mrbrianpuck.wordpress.com/2025/03/15/why-write-right/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Do you really think the American military would follow an order to attack Canada? 
-
-<br> 
-
-<https://mastodon.social/@evan@cosocial.ca/114168125924351605>
-
----
-
-## Lilbits: Amazon kills local processing of Alexa voice requests, Google replaces Assistant with Gemini
-
-date: 2025-03-15, from: Liliputing
-
-<p>Last month Amazon introduced Alexa+ which uses generative AI to offer an enhanced version of Amazon&#8217;s voice assistant software. It will do a better job of engaging in natural-sounding conversations, remembering things you&#8217;ve told it in the past, and have the ability to interact with other apps and services on your behalf. But Alexa+ also [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/lilbits-amazon-kills-local-processing-of-alexa-voice-requests-google-replaces-assistant-with-gemini/">Lilbits: Amazon kills local processing of Alexa voice requests, Google replaces Assistant with Gemini</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/lilbits-amazon-kills-local-processing-of-alexa-voice-requests-google-replaces-assistant-with-gemini/>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
-
-I needed something fun to read, this was nice. https://guitar-maker.blogspot.com/2025/03/a-few-updates.html 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgtvebnl223>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Arlington Cemetery strips content on black and female veterans from website. 
-
-<br> 
-
-<https://www.bbc.com/news/articles/cz03gjnxe25o?xtor=AL-71-[partner]-[bbc.news.twitter]-[headline]-[news]-[bizdev]-[isapi]&at_link_origin=BBCWorld&at_ptr_name=twitter&at_link_type=web_link&at_campaign=Social_Flow&at_bbc_team=editorial&at_link_id=22A1947E-01C2-11F0-A76B-C8861D16B53E&at_campaign_type=owned&at_format=link&at_medium=social>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
-
-An interesting bit of history.
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgnea6vbs23>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
-
-We're not on a slippery slope, we're on a slippery PRECIPICE!
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgna4wtw223>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
-
-Not getting coverage but the type of activity that can set us back a generation. So frustrating.
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgn3whfxc23>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-03-15, from: Robert's feed at BlueSky)
-
-Made me laugh 👇
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lkgllxgmps23>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Matt Terenzio has a great address for his new blog, where he writes about his vision for The Writer&#39;s Web. 
-
-<br> 
-
-<https://feeds.social/>
-
----
-
-## Humiliation
-
-date: 2025-03-15, updated: 2025-03-15, from: Robin Rendle Essays
-
- 
-
-<br> 
-
-<https://robinrendle.com/notes/humiliation/>
-
----
-
-## AI Slop Podcasts?
-
-date: 2025-03-15, from: Chris Coyier blog
-
-My kid likes listening to podcasts sometimes and it&#8217;s cool with me! Story Pirates, for example, rules. She must have typed in &#8220;Bluey&#8221; at some point into the podcast app we use and found the Bluey Storytime Podcast. It looks kind of official. That&#8217;s real Bluey art, it uses the word &#8220;Bluey&#8221; in the title, [&#8230;] 
-
-<br> 
-
-<https://chriscoyier.net/2025/03/15/ai-slop-podcasts/>
-
----
-
-**@Tomosino's Mastodon feed** (date: 2025-03-15, from: Tomosino's Mastodon feed)
-
-<p>Ditched Audible for libro.fm today. Finally a good option that lets you download your purchases DRM free without workarounds. You can support a local shop too. Nice. </p><p>I've got a referral code if you want</p> 
-
-<br> 
-
-<https://tilde.zone/@tomasino/114167127129193182>
-
----
-
-## Quoting Andrew Ng
-
-date: 2025-03-15, updated: 2025-03-15, from: Simon Willison’s Weblog
-
-<blockquote cite="https://www.deeplearning.ai/the-batch/issue-292/"><p>Some people today are discouraging others from learning programming on the grounds AI will automate it. This advice will be seen as some of the worst career advice ever given. I disagree with the Turing Award and Nobel prize winner who wrote, “It is far more likely that the programming occupation will become extinct [...] than that it will become all-powerful. More and more, computers will program themselves.”​ Statements discouraging people from learning to code are harmful!</p>
-<p>In the 1960s, when programming moved from punchcards (where a programmer had to laboriously make holes in physical cards to write code character by character) to keyboards with terminals, programming became easier. And that made it a better time than before to begin programming. Yet it was in this era that Nobel laureate Herb Simon wrote the words quoted in the first paragraph. Today’s arguments not to learn to code continue to echo his comment.</p>
-<p>As coding becomes easier, more people should code, not fewer!</p></blockquote>
-<p class="cite">&mdash; <a href="https://www.deeplearning.ai/the-batch/issue-292/">Andrew Ng</a></p>
-
-    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Mar/15/andrew-ng/#atom-everything>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Sebastian Abbott: The Distracted Procrastinating Writer&#39;s Web. 
-
-<br> 
-
-<https://sebabbott.net/2025/03/15/the-writers-web.html>
-
----
-
-**@Feed for Alt USDS** (date: 2025-03-15, from: Feed for Alt USDS)
-
-We've been busy.... Busy talking the The New Yorker Radio Hour 🎙️🥰  https://www.wnycstudios.org/podcasts/tnyradiohour/articles/we-the-builders-federal-employees-stand-up-to-doge 
-
-<br> 
-
-<https://bsky.app/profile/altusds.bsky.social/post/3lkg7nuig3s22>
-
----
-
-## My video chat with the mighty Maureen Dowd
-
-date: 2025-03-15, from: Tina Brown
-
-The topics we raced through: Maureen&#8217;s new book Notorious, Silicon Valley&#8217;s Zeus complex, how fame changes movie stars, post-#MeToo Hollywood, and the disappointment of Obama&#8217;s post-presidency. 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159105765/cf2e355f715d11d2f8086c072e466a67.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/159105765/cf2e355f715d11d2f8086c072e466a67.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://tinabrown.substack.com/p/my-video-chat-with-the-mighty-maureen>
-
----
-
-## Jaws vs. the Megalodon: This Time, It’s Peer-Reviewed
-
-date: 2025-03-15, from: 404 Media Group
-
-The epic shark may have been a full 80 feet long with a slender build, according to new research. 
-
-<br> 
-
-<https://www.404media.co/jaws-vs-the-megalodon-this-time-its-peer-reviewed/>
-
----
-
-**@Feed for Alt USDS** (date: 2025-03-15, from: Feed for Alt USDS)
-
-A small but significant update especially for our followers here: our best engineer made a custom icon just for Bluesky on wethebuilders.org 🥰 
-
-<br> 
-
-<https://bsky.app/profile/altusds.bsky.social/post/3lkg5gpxabc2w>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Much of what the U.S. president has done to curb independent media echoes the Hungarian autocrat Viktor Orbán’s playbook. 
-
-<br> 
-
-<https://www.theatlantic.com/ideas/archive/2025/03/trumps-press-freedom-hungary-orban/682060/?gift=f35zZN0v_gDFE8xNwlQAHdwxOalGWagil2BRvDJbzhI&utm_source=copy-link&utm_medium=social&utm_campaign=share>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Instagram is now a (photo) information network. 
-
-<br> 
-
-<https://om.co/2025/03/14/instagram-is-now-a-photo-information-network/>
-
----
-
-## How VeronicaExplains makes videos
-
-date: 2025-03-15, from: Libre News
-
- 
-
-<br> 
-
-<https://thelibre.news/veronicaexplains/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Walz, Newsom and Buttigieg Are Among Democrats Stirring 2028 Presidential Chatter. Add AOC to your list. 
-
-<br> 
-
-<https://www.nytimes.com/2025/03/15/us/politics/democrats-president-2028-buttigieg-newsom-walz.html>
-
----
-
-## How Worried Should We Be About the Economy?
-
-date: 2025-03-15, from: Paul Krugman
-
-A conversation with Neil Dutta 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/how-worried-should-we-be-about-the>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-South Milwaukee woman deported to Laos is stranded with few options. 
-
-<br> 
-
-<https://www.jsonline.com/story/news/local/milwaukee/2025/03/14/south-milwaukee-woman-deported-to-laos-is-stranded-with-few-options/82369691007/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-15, from: Dave Winer's linkblog)
-
-Tesla Takedown. 
-
-<br> 
-
-<https://en.m.wikipedia.org/wiki/Tesla_Takedown>
 

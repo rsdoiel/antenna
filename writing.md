@@ -1,11 +1,38 @@
 ---
 title: writing
-updated: 2025-03-22 06:07:28
+updated: 2025-03-23 06:08:03
 ---
 
 # writing
 
-(date: 2025-03-22 06:07:28)
+(date: 2025-03-23 06:08:03)
+
+---
+
+## The West Passage Wins Crawford Award
+
+date: 2025-03-23, from: Locus Magazine
+
+<p dir="ltr">Jared Pechaček&#8217;s<strong> The West Passage </strong>(Tor) won this year&#8217;s the Crawford Award, presented at the International Conference of the Fantastic in the Arts in Orlando FL on March 22, 2025. The award jury received 59 submissions from over 30 publishers, by authors from 20 different countries. Eleven of the submitted novels were translations. Judges were Brian Attebery, Eddie Clark, Candas Jane Dorsey, Mimi Mondal, and Yilin Wang.</p>
+<p dir="ltr">The administrator was  <a href="https://locusmag.com/2025/03/the-west-passage-wins-crawford-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/the-west-passage-wins-crawford-award/>
+
+---
+
+## Beneath Ceaseless Skies and Diabolical Plots: Reviews by Charles Payseur
+
+date: 2025-03-22, from: Locus Magazine
+
+<p>Beneath Ceaseless Skies 12/26/24
+Diabolical Plots 12/24</p>
+<p>There’s only one December issue of Beneath Ceaseless Skies this year, and it contains a pair of epistolary stories dealing with injustice, royalty, and punishment. <strong>Shoshana Groom</strong>’s “<strong>The Be­loved Sisters of the Sun-Bleached Hills</strong>” unfolds as a series of letters between sisters Zarina and Durdana, who live in different kingdoms but who are facing the same alarming trend – their  <a href="https://locusmag.com/2025/03/beneath-ceaseless-skies-and-diabolical-plots-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/beneath-ceaseless-skies-and-diabolical-plots-reviews-by-charles-payseur/>
 
 ---
 
@@ -666,68 +693,4 @@ date: 2025-03-16, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/03/augur-short-fiction-reviews-by-a-c-wise-3/>
-
----
-
-## Combat Monsters: Untold Tales of World War II, edited by Henry Herz: Review by Paul Di Filippo
-
-date: 2025-03-15, from: Locus Magazine
-
-<p><strong>Combat Monsters: Untold Tales of World War II</strong>, edited by Henry Herz (Blackstone 979-8874748432, trade paperback, 384pp, $18.99) February 2025</p>
-<p>Henry Herz, we learn from the ancillary matter in the new original anthology <b>Combat Monsters</b>, has assembled six other anthologies, and yet I found myself unfamiliar with his name. The answer to my lamentable ignorance is that his prior books are intended for the Young Adult market —  <a href="https://locusmag.com/2025/03/combat-monsters-untold-tales-of-world-war-ii-edited-by-henry-herz-review-by-paul-di-filippo/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/03/combat-monsters-untold-tales-of-world-war-ii-edited-by-henry-herz-review-by-paul-di-filippo/>
-
----
-
-## People & Publishing Roundup, February 2025
-
-date: 2025-03-15, from: Locus Magazine
-
-<div></div>
-<div class="catheader"><strong>MILESTONES</strong></div>
-
-<p><strong>MEGAN CHEE </strong>is now repre­sented by Stevie Finegan of Zeno Agency Ltd.</p>
-<div></div>
-<div class="catheader"><strong>AWARDS</strong></div>
-
-<p><strong>EVE HILL-AGNUS </strong>won the 2024 Albertine Translation Prize for her translation of <strong>Ultramarine </strong>by <strong>MARIETTE NAVARRO </strong>(Deep Vellum), presented by the French Embassy in the US and selected by a jury.</p>
-<p>&#160;</p>
-<div class="catheader"><strong>BOOKS SOLD</strong></div>
-
-<p>&#160;</p>
-<p><strong>STEPHEN KING </strong>will write <strong>Han­sel and Gretel</strong>, a “reimagining” of the fairy tale, with illustrations by the late <strong>MAURICE SENDAK </strong> <a href="https://locusmag.com/2025/03/people-publishing-roundup-february-2025/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/03/people-publishing-roundup-february-2025/>
-
----
-
-## GigaNotoSaurus, Lightspeed, and Small Wonders: Reviews by Charles Payseur
-
-date: 2025-03-15, from: Locus Magazine
-
-<p>GigaNotoSaurus 12/24
-Lightspeed 12/24
-Small Wonders 12/24</p>
-<p>December’s GigaNotoSaurus is <strong>Sabrina Vourvou­lias</strong>’s “<strong>Dead reckoning in 6/8 time</strong>”, a story that finds Adriana remembering her mother’s stories about being a bailadora in Mexico and losing a contest to the devil himself. Which means that, now that her mother has passed, her soul is the devil’s, and that doesn’t sit well with Adriana, who determines that she will succeed  <a href="https://locusmag.com/2025/03/giganotosaurus-lightspeed-and-small-wonders-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/03/giganotosaurus-lightspeed-and-small-wonders-reviews-by-charles-payseur/>
-
----
-
-## 🚸 #240 - Writing Kids
-
-date: 2025-03-15, from: Interesting, a blog on writing
-
-(About kids, not necessarily for kids) 
-
-<br> 
-
-<https://inneresting.substack.com/p/240-writing-kids>
 

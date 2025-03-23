@@ -1,11 +1,438 @@
 ---
 title: columns
-updated: 2025-03-22 06:07:28
+updated: 2025-03-23 06:08:02
 ---
 
 # columns
 
-(date: 2025-03-22 06:07:28)
+(date: 2025-03-23 06:08:02)
+
+---
+
+## Revelations
+
+date: 2025-03-23, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/revelations>
+
+---
+
+## A thank you in this troubled time 
+
+date: 2025-03-23, from: Robert Reich's blog
+
+A Sunday thought 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-word-of-thanks>
+
+---
+
+## March 22, 2025 
+
+date: 2025-03-23, from: Heather Cox Richardson blog
+
+Perhaps in response to the growing outcry over last weekend&#8217;s rendition of Venezuelan migrants to El Salvador under a legal justification a federal judge has found questionable, President Donald Trump last night told reporters that he didn&#8217;t sign the proclamation that set that legal process in motion. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-22-2025>
+
+---
+
+## Elon Musk Wasn’t the Only One This Week with a Top Secret National Security Meeting
+
+date: 2025-03-23, from: Michael Moore's blog
+
+I will be sharing State secrets this Wednesday with the new Prime Minister of Canada regarding Hockey, Chocolate and a European Union-style treaty between Michigan and Canada 
+
+<br> 
+
+<https://www.michaelmoore.com/p/elon-musk-wasnt-the-only-one-this>
+
+---
+
+## When profit trumps principles
+
+date: 2025-03-23, from: Tracy Durnell Blog
+
+Enshittification as a matter of taste by Dave Rupert To me, enshittification means that a person who lacks taste was put in a position of power. Scale above all else is the philosophy that both buries us in endless genAI slop and locks customers in to enshittified platforms&#8230; and taste is in tension with scale. [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/22/when-profit-trumps-principles/>
+
+---
+
+## The Trump daymare
+
+date: 2025-03-22, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-trump-day-mare>
+
+---
+
+## March 21, 2025
+
+date: 2025-03-22, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159644749/f840558af2a8ffaa1fac54ffccd14bb6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159644749/f840558af2a8ffaa1fac54ffccd14bb6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-21-2025-9e1>
+
+---
+
+## 2025-03-20 Something about the bot defence is working
+
+date: 2025-03-22, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-20-something-about-the-bot-defence-is-working">2025-03-20 Something about the bot defence is working</h1>
+
+<p>At midnight, there was a surge in activity.
+CPU usage went up.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-1.jpg" alt="" /></p>
+
+<p>Load went up, too. But it stayed within reasonable bounds &ndash; less than 4 instead of the more than 80 I have seen in the past.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-2.jpg" alt="" /></p>
+
+<p>And the number of IP addresses blocked by <code>fail2ban</code> went from 40 to 50.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-3.jpg" alt="" /></p>
+
+<p>I&rsquo;m usually sceptical of this because the big attacks are from a far wider variety of IP numbers.
+In this case, however, maybe there was some probing that resulted in blocks? I don&rsquo;t know. Lucky, I guess?</p>
+
+<p>In any case, the site is still up. Yay for small wins.</p>
+
+<p>Also, I cannot overstate how good it feel to have some <a href="https://munin-monitoring.org/">Munin</a> graphs available.</p>
+
+<p><code>alex-bots</code> is a setup I desribed in <a href="2025-02-19-bots-again">2025-02-19 Bots again, cursed</a>.
+Basically a request to one of my Oddmuse wikis containing the parameter <code>rcidonly</code> is an expensive endpoint: &ldquo;all changes for this single page&rdquo; or &ldquo;a feed for this single page&rdquo;. This is something a human would rarely access and yet it somehow the URLs landed in some dataset for AI training, I suspect. So what I do is I’m redirecting any request containing “rcidonly” in the query string to <code>/nobots</code>, warning humans not to click on these links.</p>
+
+<p>In addition to that, the filter <code>/etc/fail2ban/filter.d/alex-bots.conf</code> contains this:</p>
+
+<pre><code>[Definition]
+failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
+</code></pre>
+
+<p>And I added a section using this filter to my jail <code>/etc/fail2ban/jail.d/alex.conf</code>:</p>
+
+<pre><code>[alex-bots]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 3600
+maxretry = 2
+</code></pre>
+
+<p>So if an IP number visits three URLs containing &ldquo;rcidonly&rdquo; in an hour, they get banned for ten minutes.</p>
+
+<p>The <code>recidive</code> filter (a standard filter you just need to activate) then makes sure that any IP number that got blocked three times gets blocked for a week.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<p><strong>2025-03-20</strong>. Ever since Drew DeVault published his blog post, more people seem to notice what&rsquo;s going on: AI ingestion is killing web sites and web services.</p>
+
+<blockquote>
+<p>If you think these crawlers respect <code>robots.txt</code> then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, <code>robots.txt</code> be damned, including expensive endpoints like git blame, every page of every git log, and every commit in every repo, and they do so using random User-Agents that overlap with end-users and come from tens of thousands of IP addresses – mostly residential, in unrelated subnets, each one making no more than one HTTP request over any time period we tried to measure – actively and maliciously adapting and blending in with end-user traffic and avoiding attempts to characterize their behavior or block their traffic. &ndash; <a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html">Please stop externalizing your costs directly into my face</a>, by Drew DeVault, for SourceHut</p>
+
+<p>Then, yesterday morning, KDE GitLab infrastructure was overwhelmed by another AI crawler, with IPs from an Alibaba range; this caused GitLab to be temporarily inaccessible by KDE developers. I then discovered that, one week ago, an Anime girl started appearing on the GNOME GitLab instance, as the page was loaded. It turns out that it&rsquo;s the default loading page for Anubis, a proof-of-work challenger that blocks AI scrapers that are causing outages. &ndash; <a href="https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Niccolò Venerandi, for LibreNews</p>
+
+<p>What do SourceHut, GNOME’s GitLab, and KDE’s GitLab have in common, other than all three of them being forges? Well, it turns out all three of them have been dealing with immense amounts of traffic from “AI” scrapers, who are effectively performing DDoS attacks with such ferocity it’s bringing down the infrastructures of these major open source projects. Being open source, and thus publicly accessible, means these scrapers have unlimited access, unlike with proprietary projects. … Everything about this “AI” bubble is gross, and I can’t wait for this bubble to pop so a semblance of sanity can return to the technology world. Until the next hype train rolls into the station, of course. &ndash; <a href="https://www.osnews.com/story/141969/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Thom Holwerda, for OSnews</p>
+</blockquote>
+
+<p><strong>2025-03-22</strong>. Ordinary sysadmins get hit as well. Here&rsquo;s Sean Conner of the The Boston Diaries: He reports on <a href="https://boston.conman.org/2025/03/21">Friday, March 21, 2025</a> that his logs show a total of 468439 requests for February 2025. The top hitter was 4.231.104.62 with 43242 requests (9%). This was from MICROSOFT-CORP-MSN-AS-BLOCK, US. But the ASN has more networks, of course. Adding them all up give 78889 (17%).</p>
+
+<p>He links to the <a href="https://www.team-cymru.com/ip-asn-mapping">IP to ASN Mapping Service</a> by Team Cymru. Apparently, this is also used by the Perl library <code>Net::Abuse::Utils</code>. I should use it!</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-20-bot-defence>
+
+---
+
+## Heavy Whether
+
+date: 2025-03-22, from: Doc Searls (at Harvard), New Old Blog
+
+We&#39;ll know soon. Whether or not you&#39;re watching St. John&#39;s playing Arkansas, right now, in the NCAA&#39;s March Madness tournament, take out a minute and a half to take in Jimmy Fallon and the boys singing the Red Storm Shanty. Lou Carnaseca must be glowing in his grave. (Later: they lost.) 
+
+<br> 
+
+<https://doc.searls.com/2025/03/22/heavy-whether-2/>
+
+---
+
+## Paving cowpaths
+
+date: 2025-03-22, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/04/10/cow.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A funny thing. A few months back someone told me that I had been gone from the podcast world for too long for anyone to listen to me. I thought how weird, I didn't go anywhere at all, I stayed exactly <a href="http://scripting.com/">where</a> I was, all the time. Virtually every day. If people cared to know what I think they could have found out pretty quickly because I am of course an <a href="http://scripting.com/stories/2009/11/24/naturalbornBlogger.html">NBB</a>. I talk about what I think all the time. (And besides, why do you care where you get ideas from, I don't.)</p>
+<p>Anyway, the idea was about a <a href="https://this.how/podcasting/index.opml#1733322866000">feature for podcasting</a> that would open up doors for influencers and ad hoc networks of podcasts, instead of a few dozen weak (imho) attempts to build synergy, I trust that invisible hand Darwinian ecosystem builds better networks, because they are real, not contrived. </p>
+<p>Give the people the tools and see what happens. </p>
+<p>Users and developers party together.</p>
+<p>That's the opposite of the "move fast and break things" approach to technology, instead it's "paving the cowpaths," the process that has always fascinated me and been the method to my madness. Make the tools, give them to the people and sit back and hope something happens. When it doesn't try to show the way. And try out lots of these kinds of ideas. </p>
+<p>This method really works, and it isn't destructive, it's totally constructive. (Actually it does destroy what was there before, but in a merciful way, they get a chance to jump on the train, even if they rarely do, but NPR got on early with podcasting, and the NYT with RSS.)</p>
+<p>PS: I did not invent "paving cowpaths" -- it's been around for a long time, like <a href="https://www.goodreads.com/work/quotes/1905885-the-mythical-man-month-essays-on-software-engineering">mythical man-month</a> and the like. It's pretty much the same thing as <a href="http://scripting.com/davenet/2000/11/30/bootstrapping.html">bootstrapping</a>, which I also advocate.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/22/140333.html?title=pavingCowpaths>
+
+---
+
+## 2025-03-21 A summary of my bot defence systems
+
+date: 2025-03-22, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-21-a-summary-of-my-bot-defence-systems">2025-03-21 A summary of my bot defence systems</h1>
+
+<p>If you&rsquo;ve followed my <a href="Butlerian_Jihad">Butlerian Jihad</a> pages, you know that I&rsquo;m constantly fiddling with the setup.
+Each page got written in the middle of an attack as I&rsquo;m trying to save my sites, documenting as I go along. But if
+you&rsquo;re looking for an overview, there is nothing to see. It&rsquo;s all over the place. Since the topic has gained some
+traction in recent days, I&rsquo;m going to assemble all the things I do on this page.</p>
+
+<p>Here&rsquo;s Drew DeVault complaining about the problem that system administrators have been facing for a while, now:</p>
+
+<blockquote>
+<p>If you think these crawlers respect <code>robots.txt</code> then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, <code>robots.txt</code> be damned, including expensive endpoints like git blame, every page of every git log, and every commit in every repo, and they do so using random User-Agents that overlap with end-users and come from tens of thousands of IP addresses – mostly residential, in unrelated subnets, each one making no more than one HTTP request over any time period we tried to measure – actively and maliciously adapting and blending in with end-user traffic and avoiding attempts to characterize their behavior or block their traffic. &ndash; <a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html">Please stop externalizing your costs directly into my face</a>, by Drew DeVault, for SourceHut</p>
+</blockquote>
+
+<p>I had read some similar reports before, on fedi, but this one links to quite a few of them: <a href="https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Niccolò Venerandi, for LibreNews.</p>
+
+<p>I&rsquo;m going to skip the defences against spam as spam hasn&rsquo;t been a problem in recent months, surprisingly.</p>
+
+<p>The first defence against bots is <code>robots.txt</code>. All well-behaving bots should read it every now and then and then either stop crawling
+the site or slow down.</p>
+
+<p>Let&rsquo;s look at the file <a href="https://www.emacswiki.org/robots.txt">for Emacs Wiki</a>.</p>
+
+<p>If I find that there are lot of requests from a particular user agent that looks like bot, and it has a URL where I can find instructions
+for how to address it in <code>robots.txt</code>, this is what I do. I tell them to stop crawling the entire site. Most of these are search engine optimizers, brand awareness monitors and other such creeps.</p>
+
+<p>The file also tells all well-behaving crawlers to slow down to a glacial tempo and it lists all the expensive endpoints that they should not be crawling at all. Conversely, this means that any bot that still crawls those URLs is a misbehaving bot and deserves to be blocked.</p>
+
+<p>Worth noting, perhaps, that &ldquo;an expensive endpoint&rdquo; means a URL that runs some executable to do something complicated, resulting in an answer that&rsquo;s always different. If the URL causes the web server to run a CGI script, for example, the request loads Perl, loads a script, loads all its libraries, compiles it all, runs it once, and answers with the request with the output. And since the answer is dynamic, it can&rsquo;t very well be cached, or additional complexity needs to be introduced and even more resources need to be allocated and paid for. In short, an expensive end-point is like loading an app. It&rsquo;s slow but useful, if done rarely. So you&rsquo;d do this for a human, for example. It&rsquo;s a disaster if bots swarm all over the site, clicking on every link.</p>
+
+<p>It&rsquo;s also worth noting that not all my sites have the same expensive endpoints and so the second half of <code>robots.txt</code> can vary. Which makes maintenance of the first half a chore. I have a little script that allows me to add one bot to &ldquo;all&rdquo; the files, but it&rsquo;s annoying to have to do that. And I recently just copied a list from an <a href="https://robotstxt.com/ai">AI / LLM User-Agents: Blocking Guide</a>.</p>
+
+<p>I use Apache as my web-server and I have a bunch of global configuration files to handle misbehaving bots and crawlers.</p>
+
+<p>This example blocks fediverse agents from accessing my site. That&rsquo;s because whenever anybody post a URL to one of my sites, within the next
+60 seconds, all the servers with users getting a copy of the URL will fetch a preview. That means hundreds of hits. This is particularly
+obnoxious for expensive endpoints. This response here tells them that they are forbidden from accessing the page.</p>
+
+<pre><code># Fediverse instances asking for previews: protect the expensive endpoints
+RewriteCond %{REQUEST_URI} /(wiki|download|food|paper|hug|helmut|input|korero|check|radicale|say|mojo|software)
+RewriteCond %{HTTP_USER_AGENT} Mastodon|Friendica|Pleroma [nocase]
+# then it's forbidden
+RewriteRule ^(.*)$ - [forbidden,last]
+</code></pre>
+
+<p>These are the evil bots that self-identify as a bot but don&rsquo;t seem to heed the <code>robots.txt</code> files. These are all told that whatever page they were looking for, it&rsquo;s now gone (410). And if there&rsquo;s a human looking at the output, it even links to an explanation. Adding new user agents to this list is annoying because I need to connect as root and restart the web server after making any changes.</p>
+
+<pre><code># SEO bots, borked feed services and other shit
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;academicbotrtu|ahrefsbot|amazonbot|awariobot|bitsightbot|blexbot|bytespider|dataforseobot|discordbot|domainstatsbot|dotbot|elisabot|eyemonit|facebot|linkfluence|magpie-crawler|megaindex|mediatoolkitbot|mj12bot|newslitbot|paperlibot|pcore|petalbot|pinterestbot|seekportbot|semanticscholarbot|semrushbot|semanticbot|seokicks-robot|siteauditbot|startmebot|summalybot|synapse|trendictionbot|twitterbot|wiederfrei|yandexbot|zoominfobot|velenpublicwebcrawler|gpt|\bads|feedburner|brandwatch|openai|facebookexternalhit|yisou|docspider&quot; [nocase]
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>For some of my sites, I disallow all user agents containing the words &ldquo;bot&rdquo;, &ldquo;crawler&rdquo;, &ldquo;spider&rdquo;, &ldquo;ggpht&rdquo; or &ldquo;gpt&rdquo; with the exception of &ldquo;archivebot&rdquo; and &ldquo;wibybot&rdquo; because these two bots I want to give access. Again, these bots are all told that whatever page they were looking for, it&rsquo;s now gone (410).</p>
+
+<pre><code># Private sites block all bots and crawlers. This list does no include
+# social.alexschroeder.ch, communitywiki.org, www.emacswiki.org,
+# oddmuse.org, orientalisch.info, korero.org.
+RewriteCond &quot;%{HTTP_HOST}&quot; &quot;^((src\.)?alexschroeder\.ch|flying-carpet\.ch|next\.oddmuse\.org|((chat|talk)\.)?campaignwiki\.org|((archive|vault|toki|xn--vxagggm5c)\.)?transjovian\.org)$&quot; [nocase]
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;!archivebot|^gwene|wibybot&quot; [nocase]
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;bot|crawler|spider|ggpht|gpt&quot; [nocase]
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>I also eliminate a lot of bots looking for PHP endpoints. I can do this because I know that I don&rsquo;t have any PHP application installed.</p>
+
+<pre><code># Deny all idiots that are looking for borked PHP applications
+RewriteRule \.php$ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>There&rsquo;s also one particular image scraper that&rsquo;s using a unique string in its user agent.</p>
+
+<pre><code># Deny the image scraper
+# https://imho.alex-kunz.com/2024/02/25/block-this-shit/
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;Firefox/72.0&quot; [nocase]
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>Next, all requests get logged by Apache in the <code>access.log</code> file. I use <code>fail2ban</code> to check this logfile. This is somewhat interesting
+because <code>fail2ban</code> is usually used to check for failed ssh login attempts. Those IP numbers that fail to login in a few times are banned.
+What I&rsquo;m doing is I wrote a filter that treats every hit on the web server as a &ldquo;failed login attempt&rdquo;.</p>
+
+<p>This is the filter:</p>
+
+<pre><code>[Definition]
+# Most sites in the logfile count! What doesn't count is fedi.alexschroeder.ch, or chat.campaignwiki.org.
+failregex = ^(www\.)?(alexschroeder\.ch|campaignwiki\.org|communitywiki\.org|emacswiki\.org|flying-carpet\.ch|korero\.org|oddmuse\.org|orientalisch\.info):[0-9]+ &lt;HOST&gt; 
+
+# Except css files, images...
+ignoreregex = ^[^&quot;]*&quot;(GET /(robots\.txt |favicon\.ico |[^/ \&quot;]+\.(css|js) |[^\&quot;]*\.(jpg|JPG|png|PNG) |css/|fonts/|pdfs/|txt/|pics/|export/|podcast/|1pdc/|static/|munin/|osr/|indie/|rpg/|face/|traveller/|hex-describe/|text-mapper/|contrib/pics/|roll/|alrik/|wiki/download/)|(OPTIONS|PROPFIND|REPORT) /radicale)
+</code></pre>
+
+<p>And this is the jail, saying that any IP number may make 30 hits in 60 seconds. If an IP number exceeds this (2s per page!) then it
+gets blocked at the firewall for 10 minutes.</p>
+
+<pre><code>[alex-apache]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 60
+maxretry = 30
+</code></pre>
+
+<p>I also have another filter for a particular substring in URLs that I found the bots are requesting all the time:</p>
+
+<pre><code>[Definition]
+failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
+</code></pre>
+
+<p>The corresponding jail says that when you trigger request such a URL for the third time in an hour, you&rsquo;re blocked at the firewall for 10 minutes.</p>
+
+<p>[alex-bots]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 3600
+maxretry = 2</p>
+
+<p>(At the same time, these URL&rsquo;s redirect to <a href="https://www.emacswiki.org/nobots">a warning</a> so that humans know that this is a trap.)</p>
+
+<p>Furthermore, <code>fail2ban</code> also comes with a <code>recidive</code> filter that watches its own logs. If an IP has been banned five times in a day, it gets banned for a week.</p>
+
+<pre><code>[recidive]
+enabled = true
+</code></pre>
+
+<p>To add to the <code>alex-bots</code> jail, here&rsquo;s what my Apache configuration says: RSS feeds for single pages are errors.</p>
+
+<pre><code>RewriteCond %{QUERY_STRING} action=rss
+RewriteCond %{QUERY_STRING} rcidonly=.*
+RewriteRule .* /error.rss [last]
+</code></pre>
+
+<p>Note that all my sites also use the following headers, so anybody ignoring these is also a prime candidate for blocking.</p>
+
+<pre><code># https://github.com/rom1504/img2dataset#opt-out-directives
+Header always set X-Robots-Tag: noai
+Header always set X-Robots-Tag: noimageai
+</code></pre>
+
+<p>All of the above still doesn&rsquo;t handle extremely distributed attacks. In such situations, almost all IP numbers are unique. What I try to do in this situation is block the entire IP range that they come from.
+I scan the <code>access.log</code> for IP numbers that connected to a URL that shouldn&rsquo;t be used by bots because of <code>robots.txt</code>, containing <code>rcidonly</code> because I know humans will very rarely click it and it&rsquo;s expensive to serve. For each such IP number, I determine the IP range they come from, and then I block it all.</p>
+
+<p>Basically, this is what I keep repeating:</p>
+
+<pre><code># prefix with a timestamp
+date
+# log some candidates without whois information, skipping my fedi instance
+tail -n 2000 /var/log/apache2/access.log \
+ | grep -v ^social \
+ | grep &quot;rcidonly&quot; \
+ | bin/admin/network-lookup-lean &gt; result.log
+# count
+grep ipset result.log|wc -l
+# add
+grep ipset result.log|sh
+# document
+grep ipset result.log&gt;&gt;bin/admin/ban-cidr
+</code></pre>
+
+<p>You can find the scripts in my <a href="https://alexschroeder.ch/admin/">admin collection</a>.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<p><strong>2025-03-22</strong>. The drawback of using the firewall to ban broad swaths of the Internet is that these networks host bots (bad) but also networked services that I&rsquo;m interested in (good). Yesterday I found that <a class="account" href="https://come-from.mad-scientist.club/users/algernon" title="@algernon@come-from.mad-scientist.club">@algernon</a> had gone silent, had been silent for quite a while, and yet I kept seeing replies to them by others. Something was off. We got into contact via an alt account and indeed, I had blocked the IPv4 range his server was on.</p>
+
+<p>So by my count I already had to unblock three networks on my list. It&rsquo;s not a great solution, to be honest.
+And it doesn&rsquo;t expire, either. The list still contains 47021 IP ranges.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-21-defence-summary>
+
+---
+
+## Giving Trump Shit | The Coffee Klatch for March 22, 2025
+
+date: 2025-03-22, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159568600/591fc93ccde14986c57ee59adb3f9690.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159568600/591fc93ccde14986c57ee59adb3f9690.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/giving-trump-shit-the-coffee-klatch>
+
+---
+
+## March 21, 2025
+
+date: 2025-03-22, from: Heather Cox Richardson blog
+
+These days, I keep coming back to the quotation recorded by journalist Ron Suskind in a New York Times Magazine article in 2004. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-21-2025>
+
+---
+
+## Weeknotes: March 15-21, 2025
+
+date: 2025-03-22, from: Tracy Durnell Blog
+
+Win of the week: got out and took some pictures in the garden with the ol&#8217; dSLR 🌸 Looking forward to: I&#8217;m working on a blog post I&#8217;m excited about and requested some books from the library for research 🤓 Stuff I did: 7 hours consulting 1.75 hours writing &#8212; had a good talk with my [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/21/weeknotes-march-15-21-2025/>
+
+---
+
+## Early spring osoberry bloom (photos)
+
+date: 2025-03-22, from: Tracy Durnell Blog
+
+Second day of spring in Seattle and the osoberries are flowering! We picked these to plant in the restoration because our neighbor had one huge, beautiful specimen behind his yard. About 8 or 9 years old, planted from bareroot, they&#8217;re easily 10-15 feet tall now. I love how the flowers seem to float against the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/21/early-spring-osoberry-bloom-photos/>
+
+---
+
+## The shame of Columbia University 
+
+date: 2025-03-22, from: Robert Reich's blog
+
+In surrendering to Trump, it's opening all universities to Trump's tyranny 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-shame-of-columbia-university>
 
 ---
 
@@ -23,7 +450,7 @@ date: 2025-03-21, updated: 2025-03-22, from: Daring Fireball
 
 ## WorkOS: Launch Week
 
-date: 2025-03-21, updated: 2025-03-21, from: Daring Fireball
+date: 2025-03-21, updated: 2025-03-22, from: Daring Fireball
 
  
 
@@ -35,7 +462,7 @@ date: 2025-03-21, updated: 2025-03-21, from: Daring Fireball
 
 ## Ookla: ‘A First Look at How Apple’s C1 Modem Performs With Early Adopters’
 
-date: 2025-03-21, updated: 2025-03-21, from: Daring Fireball
+date: 2025-03-21, updated: 2025-03-22, from: Daring Fireball
 
  
 
@@ -122,7 +549,7 @@ date: 2025-03-21, updated: 2025-03-21, from: Jason Kittke's blog
 
 ## ★ Keyboard Maestro Hack of the Week: Don’t Paste Images
 
-date: 2025-03-21, updated: 2025-03-21, from: Daring Fireball
+date: 2025-03-21, updated: 2025-03-22, from: Daring Fireball
 
 I keep meaning to write more about Keyboard Maestro, and so I’m just going to start documenting all the little use cases I find for it. Here’s one from today. 
 
@@ -185,7 +612,7 @@ date: 2025-03-21, updated: 2025-03-21, from: Jason Kittke's blog
 
 ## Matthew Belloni on the ‘Apple TV+ Experiment’
 
-date: 2025-03-21, updated: 2025-03-21, from: Daring Fireball
+date: 2025-03-21, updated: 2025-03-22, from: Daring Fireball
 
  
 
@@ -199,7 +626,7 @@ date: 2025-03-21, updated: 2025-03-21, from: Daring Fireball
 
 date: 2025-03-21, from: Doc Searls (at Harvard), New Old Blog
 
-What if it helps everyone do a better job? &#34;I take my dog for walks outside my apartment&#8230; on the ledge. Some people are afraid of heights. I&#39;m afraid of widths.&#34;—Steven Wright. Somehow that joke (as best I recall it) comes to mind when I consider OpenAI&#39;s Deep Research. Everybody I know who uses it [&#8230;] 
+But that&#8217;s the idea, right? Lucas Ropek in Gizmodo: Data Broker Brags About Having Highly Detailed Personal Information on Nearly All Internet Users: The advertising industry is immensely powerful and disturbingly opaque. Read it. Then look at a PageXray of that same story to see how much tracking Gizmodo does, and how deeply embedded it is in that same [&#8230;] 
 
 <br> 
 
@@ -332,73 +759,6 @@ date: 2025-03-21, updated: 2025-03-21, from: Jason Kittke's blog
 <br> 
 
 <https://kottke.org/25/03/0046480-severance-has-been-renewe>
-
----
-
-## 2025-03-20 Something about the bot defence is working
-
-date: 2025-03-21, from: Alex Schroeder's Blog
-
-<h1 id="2025-03-20-something-about-the-bot-defence-is-working">2025-03-20 Something about the bot defence is working</h1>
-
-<p>At midnight, there was a surge in activity.
-CPU usage went up.</p>
-
-<p><img loading="lazy" src="2025-03-20-bot-defence-1.jpg" alt="" /></p>
-
-<p>Load went up, too. But it stayed within reasonable bounds &ndash; less than 4 instead of the more than 80 I have seen in the past.</p>
-
-<p><img loading="lazy" src="2025-03-20-bot-defence-2.jpg" alt="" /></p>
-
-<p>And the number of IP addresses blocked by <code>fail2ban</code> went from 40 to 50.</p>
-
-<p><img loading="lazy" src="2025-03-20-bot-defence-3.jpg" alt="" /></p>
-
-<p>I&rsquo;m usually sceptical of this because the big attacks are from a far wider variety of IP numbers.
-In this case, however, maybe there was some probing that resulted in blocks? I don&rsquo;t know. Lucky, I guess?</p>
-
-<p>In any case, the site is still up. Yay for small wins.</p>
-
-<p>Also, I cannot overstate how good it feel to have some <a href="https://munin-monitoring.org/">Munin</a> graphs available.</p>
-
-<p><code>alex-bots</code> is a setup I desribed in <a href="2025-02-19-bots-again">2025-02-19 Bots again, cursed</a>.
-Basically a request to one of my Oddmuse wikis containing the parameter <code>rcidonly</code> is an expensive endpoint: &ldquo;all changes for this single page&rdquo; or &ldquo;a feed for this single page&rdquo;. This is something a human would rarely access and yet it somehow the URLs landed in some dataset for AI training, I suspect. So what I do is I’m redirecting any request containing “rcidonly” in the query string to <code>/nobots</code>, warning humans not to click on these links.</p>
-
-<p>In addition to that, the filter <code>/etc/fail2ban/filter.d/alex-bots.conf</code> contains this:</p>
-
-<pre><code>[Definition]
-failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
-</code></pre>
-
-<p>And I added a section using this filter to my jail <code>/etc/fail2ban/jail.d/alex.conf</code>:</p>
-
-<pre><code>[alex-bots]
-enabled = true
-port    = http,https
-logpath = %(apache_access_log)s
-findtime = 3600
-maxretry = 2
-</code></pre>
-
-<p>So if an IP number visits three URLs containing &ldquo;rcidonly&rdquo; in an hour, they get banned for ten minutes.</p>
-
-<p>The <code>recidive</code> filter (a standard filter you just need to activate) then makes sure that any IP number that got blocked three times gets blocked for a week.</p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
-
-<p><strong>2025-03-20</strong>. Ever since Drew DeVault published his blog post, more people seem to notice what&rsquo;s going on: AI ingestion is killing web sites and web services.</p>
-
-<blockquote>
-<p>If you think these crawlers respect <code>robots.txt</code> then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, <code>robots.txt</code> be damned, including expensive endpoints like git blame, every page of every git log, and every commit in every repo, and they do so using random User-Agents that overlap with end-users and come from tens of thousands of IP addresses – mostly residential, in unrelated subnets, each one making no more than one HTTP request over any time period we tried to measure – actively and maliciously adapting and blending in with end-user traffic and avoiding attempts to characterize their behavior or block their traffic. &ndash; <a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html">Please stop externalizing your costs directly into my face</a>, by Drew DeVault, for SourceHut</p>
-
-<p>Then, yesterday morning, KDE GitLab infrastructure was overwhelmed by another AI crawler, with IPs from an Alibaba range; this caused GitLab to be temporarily inaccessible by KDE developers. I then discovered that, one week ago, an Anime girl started appearing on the GNOME GitLab instance, as the page was loaded. It turns out that it&rsquo;s the default loading page for Anubis, a proof-of-work challenger that blocks AI scrapers that are causing outages. &ndash; <a href="https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Niccolò Venerandi, for LibreNews</p>
-
-<p>What do SourceHut, GNOME’s GitLab, and KDE’s GitLab have in common, other than all three of them being forges? Well, it turns out all three of them have been dealing with immense amounts of traffic from “AI” scrapers, who are effectively performing DDoS attacks with such ferocity it’s bringing down the infrastructures of these major open source projects. Being open source, and thus publicly accessible, means these scrapers have unlimited access, unlike with proprietary projects. … Everything about this “AI” bubble is gross, and I can’t wait for this bubble to pop so a semblance of sanity can return to the technology world. Until the next hype train rolls into the station, of course. &ndash; <a href="https://www.osnews.com/story/141969/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Thom Holwerda, for OSnews</p>
-</blockquote> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-03-20-bot-defence>
 
 ---
 
@@ -2529,632 +2889,4 @@ date: 2025-03-16, updated: 2025-03-17, from: Daring Fireball
 <br> 
 
 <https://mastodon.social/@Migueldeicaza/114169257456471618>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-15, from: Dave Winer's Scripting News)
-
-<a href="https://github.com/scripting/wpIdentity/issues/3">Looking for help</a> with <a href="https://www.npmjs.com/package/wpcom">wpcom</a> API in Node.js app. 
-
-<br> 
-
-<http://scripting.com/2025/03/15.html#a231046>
-
----
-
-## 2025-03-15 Canada
-
-date: 2025-03-15, from: Alex Schroeder's Blog
-
-<h1 id="2025-03-15-canada">2025-03-15 Canada</h1>
-
-<p>Today I saw somebody posting a message about Trump&rsquo;s threats to annex Canada from a friend that wanted to remain anonymous. It seems pretty important to me because that&rsquo;s how every former friend of the US is going to react. Greenland is an autonomous territory in the Kingdom of Denmark. Denmark is part of Europe. Denmark spent a lot to support Ukraine. The USA threatened to abandon Ukraine. Both Denmark and Canada are part of NATO. The USA is not behaving like a friend and ally. Not at all.</p>
-
-<p>Trump is a Russian asset.</p>
-
-<p>People will remember.</p>
-
-<p>For reference, aid to Ukraine:</p>
-
-<p><img loading="lazy" src="ukraine-aid-2025.jpg" alt="" /></p>
-
-<p>The US has contributed $69bn, Europe has contributed $66bn, the biggest contributors being Germany with $13.6bn, UK with $10.8bn, Denmark with $8.1bn, and so on. Source: <a href="https://www.ifw-kiel.de/topics/war-against-ukraine/ukraine-support-tracker/">Kiel Institute for the World Economy: War against Ukraine</a>.</p>
-
-<p>Here&rsquo;s the message I mentioned at the top:</p>
-
-<blockquote>
-<p>One thing I&rsquo;ve learned over the past few weeks, and it&rsquo;s been a bit of a sobering lesson, is that a lot of Americans I know don&rsquo;t actually know what&rsquo;s going on between the US and Canada right now, and just how seriously Canadians are taking this. So, against my better judgement, here&rsquo;s a timeline to explain why we&rsquo;re here, and why we&rsquo;re angry.</p>
-
-<p>Nov 30th, 2018. The United States, Canada and Mexico finalize a trade agreement. Trump personally negotiates the terms and signs the document, celebrating it as &lsquo;the greatest trade agreement in history&rdquo;. (This is important.)</p>
-
-<p>Nov 29th, 2024. In a face to face meeting, Trump threatens the Canadian Prime Minister, Justin Trudeau, that he will be imposing 25% tariffs and that if Canada wants to avoid that, it should join the US as a state.</p>
-
-<p>Nov 30th, 2024. Trump publicly calls our Prime Minister &lsquo;Governor Trudeau&rsquo; and instructs his staff to only address him as Governor going forward. He again suggests Canada should join the USA.</p>
-
-<p>Dec 3rd, 2024. Trump remarks that he would split Canada into two states once annexed.</p>
-
-<p>Dec 10th, 2024. Trump posts that the majority of Canadians support annexation, despite public polling that only 13% of Canadians would consider the idea.</p>
-
-<p>Dec 18th, 2024. Trump again falsely states that the majority of Canadians support annexation and that one of his lapdogs, Wayne Gretzky, should have a leadership role in that new scenario.</p>
-
-<p>Jan 7th, 2025. At a press conference, Trump says that he would use economic force to destroy the Canadian economy to annex it.</p>
-
-<p>Jan 14, 2025. Trump again claims that most Canadians want to be American, despite new polls showing only 10% of us are open to the idea.</p>
-
-<p>Jan 20th, 2025. During his inaugural address, Trump says that the U.S. will &lsquo;expand its territory&rsquo; during his second term.</p>
-
-<p>Jan 23rd, 2025. At the World Economic Forum, Trump says that Canada can avoid tariffs and economic collapse if it joins the US. He says this in front of representatives from most countries in the world.</p>
-
-<p>Jan 24th, 2025. Trump states publicly that Canada &lsquo;will&rsquo; become a state</p>
-
-<p>Jan 31st, 2025. Trump announces a 25% tariff on all Canadian imports to begin the next day.</p>
-
-<p>Feb 2nd, 2025. Trump refers to Canada as its &lsquo;Cherished 51st state&rsquo; and that it should join the US to avoid tariffs.</p>
-
-<p>Feb 3rd, 2025. A one month delay is agreed upon. Trump, in a conversation with Trudeau states that he doesn&rsquo;t think existing border treaties with Canada are valid, and need to be revised.</p>
-
-<p>Feb 7th, 2025. In a closed door meeting with his cabinet, Prime Minister Trudeau is recorded, without his knowledge, telling everyone that he believes very strongly that Trump is serious and that he stated his reason for annexation as Canadian resources.</p>
-
-<p>Feb 9th, 2025. In a Super Bowl pre-game interview, Trump says that he&rsquo;s serious about his threats, calling it a &lsquo;viable consideration for expanding US territory&rsquo;</p>
-
-<p>Feb 10th, 2025. Trump announces an additional 25% tariffs on steel and aluminum imports from Canada to come into effect March 12th.</p>
-
-<p>Feb 24th, 2025. Trump publicly remarks that whoever signed the USMCA agreement is an idiot. He was the one that signed it.</p>
-
-<p>March 4th, 5th, and 6th 2025. Tariffs come into effect. Canada retaliates with it&rsquo;s own tariffs. Tariffs are again postponed until April 1st after a huge market backlash.</p>
-
-<p>March 4th, 2025. In an address to a joint session of congress, Trump states that the US will own Greenland &lsquo;one way or the other&rsquo;.</p>
-
-<p>March 5th, 2025. US Secretary of Commerce Howard Lutnick told Canadian finance minister Dominic LeBlanc that Trump &ldquo;had come to realize that the relationship between the United States and Canada was governed by a slew of agreements and treaties that were easy to abandon.&rdquo;</p>
-
-<p>March 7th, 2025. Unconfirmed Memorandum and maps leaked on twitter reveal Trump is allegedly planning to annex the entirety of the great lakes and Southern Ontario, home to 13,491,332 Canadians. This amounts to 35.25% of Canada&rsquo;s total population and includes its largest city, Toronto. This region accounts for 38% of the Canadian economy, and its loss would make Canada&rsquo;s independence functionally impossible.</p>
-
-<p>March 8th, 2025. Canada&rsquo;s foreign minister warns European allies that their government considers Canada to be under existential threat.</p>
-
-<p>March 9th, 2025. Mark Carney, the new Canadian Prime Minister, in his acceptance speech, states that Trump is seeking to destroy Canada, and its way of life.</p>
-
-<p>March 11, 2025. President Trump threatens to “permanently shut down the automobile manufacturing business in Canada” if Canada does not drop a 250% to 390% tariff on U.S. dairy products, which he doesn’t state only kicks in after a certain quantity of tariff-free U.S. dairy enters Canada, a quantity that was originally negotiated and agreed to by Trump during the USMCA in 2018.</p>
-
-<p>In Trump&rsquo;s own words, &ldquo;The only thing that makes sense is for Canada to become our cherished Fifty First State. This would make all Tariffs, and everything else, totally disappear.</p>
-
-<p>Canadians’ taxes will be very substantially reduced, they will be more secure, militarily and otherwise, than ever before, there would no longer be a Northern Border problem, and the greatest and most powerful nation in the World will be bigger, better and stronger than ever — And Canada will be a big part of that. The artificial line of separation drawn many years ago will finally disappear, and we will have the safest and most beautiful Nation anywhere in the World — And your brilliant anthem, “O Canada,” will continue to play, but now representing a GREAT and POWERFUL STATE within the greatest Nation that the World has ever seen!&rdquo;</p>
-
-<p>March 11th, 2025 PT. II. Peter Navarro, a Senior Advisor for Trump is interviewed by MSNBC. When asked about the tariffs he responds with &ldquo;Just tamp it down, please, over there, ok? They&rsquo;re throwing down the hockey gloves. Stop that rhetoric&hellip;we&rsquo;re not going to tolerate anything but them stopping killing Americans&rdquo;, insinuating that this situation was caused by Canadians killing Americans.</p>
-
-<p>March 11th, 2025 PT III. Trump again publicly muses that Canada, Greenland, and the US should be one country, and questions the validity of the Canadian and American border.</p>
-
-<p>To my American friends, I know most of you are amazing and generous people. You didn&rsquo;t ask for this, and I understand that. I hold no ill will towards you, whatsoever. But I must stress, with as much seriousness as I can, the amount of damage this has done.</p>
-
-<p>We have viewed you as our closest friend and ally for a century. We thought of you as brothers and sisters. We answered the call, again and again, for any support you needed from us. Most of Canadians visit the USA so much that we&rsquo;ve seen more of the US than we have the rest of Canada.</p>
-
-<p>American products have been taken off our shelves. Canadians are cancelling travel plans to the US. Photo after photo has been shared on social media of empty flights from Canada to the USA.</p>
-
-<p>This isn&rsquo;t a joke to us. We&rsquo;re not overreacting. We don&rsquo;t think he&rsquo;s just saying this shit to cause chaos or negotiate a deal. We wholeheartedly believe that our closest ally and friend is about to bring violence across our border, economically destroy us, and eliminate our way of life.</p>
-
-<p>The main driver for Canada&rsquo;s creation in 1867 was SPECIFICALLY to not be part of America, and to end America&rsquo;s very public threats and plans to annex our territory.</p>
-
-<p>We&rsquo;re angry. We&rsquo;re really, really fucking angry. Open your eyes to what&rsquo;s happening because we&rsquo;re tired of trying to make you understand why and asking you why it seems like none of you care. **</p>
-
-<p>I still hope that there is time to repair this. I still believe that this is the result of one man&rsquo;s plan to burn it all down. But time is running out, and fast.</p>
-
-<p>&ndash; Anonymous</p>
-</blockquote>
-
-<p><a class="tag" href="/search/?q=%23USA">#USA</a> <a class="tag" href="/search/?q=%23Canada">#Canada</a> <a class="tag" href="/search/?q=%23Trump">#Trump</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-03-15-canada>
-
----
-
-## New RCS Spec From GSM Association Adds E2EE; Both Apple and Google to Support It
-
-date: 2025-03-15, updated: 2025-03-16, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.theverge.com/news/629620/apple-iphone-e2ee-encryption-rcs-messaging-android>
-
----
-
-## March 14, 2025
-
-date: 2025-03-15, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159145537/e0bc3baee17d34f74dd8f4af3729663b.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/159145537/e0bc3baee17d34f74dd8f4af3729663b.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/march-14-2025-74a>
-
----
-
-## Apple Did Demo Swift Assist at WWDC Last Year, and Has Shown It, Under NDA, Since Then
-
-date: 2025-03-15, updated: 2025-03-16, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.macstories.net/news/a-look-at-code-completion-and-swift-assist-coming-in-xcode-16/>
-
----
-
-## Lightning Up
-
-date: 2025-03-15, from: Doc Searls (at Harvard), New Old Blog
-
-What you see above is a line of storms that is moving northeastward from southern Louisiana across all of Mississippi, western Tennessee, all of Kentucky, southern Indiana (where I am), and western Ohio. It is provided by Weatherbug. If you go there and slide the Weather Overlay up to the Storm Tracker view, the map [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/03/15/lightning-up/>
-
----
-
-## Imagine How Powerful Meta Might Be Today If Their PR Wasn’t Run by Sycophantic Morons
-
-date: 2025-03-15, updated: 2025-03-15, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.businessinsider.com/meta-book-mark-zuckerberg-defense-drawing-more-attention-2025-3>
-
----
-
-## ‘Ted Lasso’ Renewed for a Fourth Season
-
-date: 2025-03-15, updated: 2025-03-15, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.hollywoodreporter.com/tv/tv-news/ted-lasso-renewed-season-4-apple-tv-1236163347/>
-
----
-
-## Best vs. First
-
-date: 2025-03-15, updated: 2025-03-16, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.cnbc.com/2016/10/07/the-one-great-reason-apple-ceo-tim-cook-doesnt-care-about-being-first.html>
-
----
-
-## A Suggested Demo for Google I/O 2025 (May 20–21)
-
-date: 2025-03-15, updated: 2025-03-15, from: Daring Fireball
-
- 
-
-<br> 
-
-<https://www.theverge.com/news/610508/google-i-o-2025-date>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-15, from: Dave Winer's Scripting News)
-
-I'd love to get a list of old school bloggers who are still at it. How would you go about that? I decided to give it to Gemini, limiting it at first to 100 bloggers. Here's the <a href="https://daveverse.wordpress.com/2025/03/15/finding-old-school-bloggers-who-are-still-at-it/">prompt</a> I wrote. For a while I was wondering what "deep research" was for, but as it's starting the work, I'm thinking of resources that would fit in -- like blogtree.com -- a fascinating site, gives a clear picture how blogs emerge out of the community of an earlier blog. Anyway it's working on it while I write this post. <span class="spOldSchoolEmoji">😄</span> 
-
-<br> 
-
-<http://scripting.com/2025/03/15.html#a135901>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-15, from: Dave Winer's Scripting News)
-
-An application ChatGPT is great it. You're staring at some code, it's really straightforward, you've done this a thousand times, but it doesn't work. Stare at it some more. Try re-entering it. Change the names of things. Still doesn't work. Copy and paste the problem code into ChatGPT and in an instant it tells you without you even having to ask that your comment isn't properly terminated, so the runtime was never seeing the code, and nothing I did made the slightest difference. The information was there. I had been staring at it, but humans see what we expect to see. Machines don't have that problem, at least not in this way (thinking of hallucinations). 
-
-<br> 
-
-<http://scripting.com/2025/03/15.html#a135610>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-15, from: Dave Winer's Scripting News)
-
-Another BTW, I'm still thinking about how I want to transition from the public and open-to-anyone FeedLand servers. So if you're still using .org or .com, they're still on the air doing the same thing they've been doing all along. 
-
-<br> 
-
-<http://scripting.com/2025/03/15.html#a133036>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-15, from: Dave Winer's Scripting News)
-
-BTW, these days the images are served via HTTPS so they don't show up in broken links in RSS readers, including my own <a href="https://feedland.com/">FeedLand</a> which is served over HTTPS. 
-
-<br> 
-
-<http://scripting.com/2025/03/15.html#a132949>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-15, from: Dave Winer's Scripting News)
-
-I asked <a href="https://chatgpt.com/share/67d580b2-8a68-8012-ad1a-65f2553978bb">ChatGPT</a> when Google started making HTTPS a requirement. Then I asked when was HTTPS first deployed, and was surprised it was in 1994 in Netscape Navigator. But apparently it was really buggy and wasn't codified until much later. Then I asked when HTTPS became the norm? 2017. So there's a lot of web out there that isn't being maintained by anyone, it just works, that predates HTTPS being widely adopted, if you believe the timelines ChatGPT produced. 
-
-<br> 
-
-<http://scripting.com/2025/03/15.html#a132638>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-15, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2023/07/05/pinkyFacingLeft.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">Why is scripting.com not https? I hope you can see that I have no trouble deploying https sites here. I use <a href="https://caddyserver.com/">Caddy</a> on my Linux servers, and I don't see why anyone uses anything else. It's really easy and requires none of the work people complain about. Anyway the reason scripting.com is http and not https is that the site dates back to 1994, before there was such a thing as https. Google didn't start their push to get the web to convert to https until 2014, 20 years after I started blogging. Have a look at <a href="http://scripting.com/1999/12/31.html">any</a> of <a href="http://scripting.com/fatpages/about.html">my</a> <a href="http://scripting.com/davenet/stories/DocSearlsonSteveJobs.html">archived</a> <a href="http://scripting.com/davenet/1994/10/18/billgatesvstheinternet.html">blog</a> <a href="http://scripting.com/davenet/1999/05/24/editThisPage.html">posts</a> and <a href="http://scripting.com/frontier/olddefault.html">docs</a>, the're pretty much all there. This is something I'm proud of. I wanted to create a record from the start, it was very deliberate. I was already an experienced developer when the web started up, so I had an idea what I was doing. I also use images on my site, in the right margin of posts, and lately as "inline" images, in their own boxes with a caption. It's a way for me to play with the ideas, and adds color to pages that are almost all text. So if I were to move the site from S3 to one of my hosted servers, which would be a fairly major undertaking on its own and add a lot of overhead because Amazon takes care of a lot of the bullshit you have to deal with, there would be a small matter of what about the images? They would all break if scripting.com was hosted on https and they were served from http. Now you might say -- Dave all you have to do is move all those images to a place with https support and remap the domains, and take care of all the michegas that's going to pop up. Or suffer with broken images. I decided to instead tell Google to stop trying to own something that belongs to no one and everyone. If they want a more secure web, create it, and make a browser for it, and respect the original web alone. Hopefully this clears it up. 
-
-<br> 
-
-<http://scripting.com/2025/03/15.html#a131603>
-
----
-
-## Who will Trump disappear next? | The Coffee Klatch, Saturday, March 15, 2025
-
-date: 2025-03-15, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159086188/54a8b06ab97ef15d42ac77bcacc65d62.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/159086188/54a8b06ab97ef15d42ac77bcacc65d62.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/who-will-trump-disappear-next-the>
-
----
-
-## March 14, 2025
-
-date: 2025-03-15, from: Heather Cox Richardson blog
-
-Today the Senate passed a stopgap measure from the House of Representatives to fund the government for six months through September 30. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/march-14-2025>
-
----
-
-## Mini mix: upbeat 2010s indie
-
-date: 2025-03-15, from: Tracy Durnell Blog
-
-Cayucas &#8211; Real Life (2019) Islandis &#8211; Home (2015) Roosevelt &#8211; Montreal (2014) Black Taxi &#8211; Electroshock Death Grip (2014) Hey Champ &#8211; Silver City (2011) Miniature Tigers &#8211; Crying in the Sunshine (2016) Painted Palms &#8211; Spinning Signs (2014) 
-
-<br> 
-
-<https://tracydurnell.com/2025/03/14/mini-mix-upbeat-2010s-indie/>
-
----
-
-## Weeknotes: March 8-14, 2025
-
-date: 2025-03-15, from: Tracy Durnell Blog
-
-Win of the week: Engaged in some guerilla gardening and transplanted two red flowering currant volunteers from my backyard to the storm water pond across the street &#8212; they&#8217;re starting to leaf out already so I may have left it two weeks too late, but c&#8217;est la vie Looking forward to: feel like it&#8217;s a [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/03/14/weeknotes-march-8-14-2025/>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-15, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/11/15/fatladysinging.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">My suggestion re <a href="https://www.axios.com/2025/03/14/senate-democrats-vote-with-republicans-avoid-government-shutdown">Schumer et al</a>. It's over -- remember the lessons, let's look forward, tonight's vote is already history. Let the Dems in the Senate take care of themselves. It's we, the people, who created this country, and we the people are the only ones who can make it work again. 
-
-<br> 
-
-<http://scripting.com/2025/03/14.html#a015848>
-
----
-
-## Archival Storage
-
-date: 2025-03-15, from: David Rosenthal's blog
-
-I gave a talk at the Berkeley I-school's <a href="https://www.ischool.berkeley.edu/events/ias">Information Access Seminar</a> entitled <i>Archival Storage</i>. Below the fold is the text of the talk with links to the sources and the slides (with yellow background).<br />
-<span><a name='more'></a></span>
-<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<i>Don't, don't, don't, don't believe the hype!</i><br />
-Public Enemy<br />
-</div>
-<h2>Introduction</h2>
-I'm honored to appear in what I believe is the final series of these seminars. Most of my previous appearances have focused on debunking some conventional wisdom, and this one is no exception. My parting gift to you is to stop you wasting time and resources on yet another seductive but impractical idea — that the solution to storing archival data is quasi-immortal media. As usual, you don't have to take notes. The full text of my talk with the slides and links to the sources will go up on my blog shortly after the seminar.<br />
-<h2>Backups</h2>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKlNGhJKcHdX4_k6tqmciQHF7bSn3qg5ytFYOIkZhGgB-fsJC3G5qdJQA2Lfni9EsxDaM5s5CDDjPb3t1o6MqhTn2iY7nz3bsL_MDlIR6hX0PE25SbGdCVE7AFOaxe6nsaW2RxVWsUSeDb7mnrJF24Tz_nR-QPzwbuqV3rDcKFEz7BIV_EYKuJ4RZZk-k/s5184/Backups.JPG" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="5184" data-original-width="3888" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKlNGhJKcHdX4_k6tqmciQHF7bSn3qg5ytFYOIkZhGgB-fsJC3G5qdJQA2Lfni9EsxDaM5s5CDDjPb3t1o6MqhTn2iY7nz3bsL_MDlIR6hX0PE25SbGdCVE7AFOaxe6nsaW2RxVWsUSeDb7mnrJF24Tz_nR-QPzwbuqV3rDcKFEz7BIV_EYKuJ4RZZk-k/s320/Backups.JPG" width="240" /></a>
-</div>
-Archival data is often confused with backup data. Everyone should back up their data. After nearly two decades working in digital preservation, here is how I back up my four important systems:<br />
-<ul>
-  <li>I run my own mail and Web server. It is on my DMZ network, exposed to the Internet. It is backed up to a Raspberry Pi, also on the DMZ network but not directly accessible from the Internet. Once a week there is a full backup, and daily an incremental backup. Every week the full and incremental backups for the week are written to two DVD-Rs.</li>
-  <li>My desktop PC creates a full backup on an external hard drive nightly. The drive is one of a cycle of three.</li>
-  <li>I back up my iPhone to my Mac Air laptop every day.</li>
-  <li>I create a Time Machine backup of my Mac Air laptop, which includes the most recent iPhone backup, every day on one of a cycle of <a href="https://blog.dshr.org/2024/01/a-lesson-learned.html">three external SSDs</a>.</li>
-</ul>
-Each week the DVD-Rs, the current SSD and the current hard drive are moved off-site. Why am I doing all this? In case of disasters such as fire or ransomware I want to be able to recover to a state as close as possible to that before the disaster. In my case, the worst case is not more than one week.<br />
-<br />
-Note the implication that the useful life of backup data is only the time that elapses between the last backup before a disaster and the recovery. Media life span is irrelevant to backup data; that is why backups and archiving are <i>completely different problems</i>.<br />
-<br />
-The fact that the data encoded in magnetic grains on the platters of the three hard drives is <a href="https://www.abitare.org/papers/ISandT2008.pdf">good for a quarter-century</a> is interesting but irrelevant to the backup task.<br />
-<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" border="3" cols="5">
-<thead>
-<tr><td>Month</td><td>Media</td><td>Good</td><td>Bad</td><td>Vendor</td>
-</tr>
-</thead>
-<tbody>
-<tr><td>01/04</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>05/04</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>Memorex</td></tr>
-<tr><td>02/06</td><td>CD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>11/06</td><td>DVD-R</td><td align="right">5x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>12/06</td><td>DVD-R</td><td align="right">1x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>01/07</td><td>DVD-R</td><td align="right">4x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>04/07</td><td>DVD-R</td><td align="right">3x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>05/07</td><td>DVD-R</td><td align="right">2x</td><td align="right">0</td><td>GQ</td></tr>
-<tr><td>07/11</td><td>DVD-R</td><td align="right">4x</td><td align="right">0</td><td>Verbatim</td></tr>
-<tr><td>08/11</td><td>DVD-R</td><td align="right">1x</td><td align="right">0</td><td>Verbatim</td></tr>
-<tr><td>05/12</td><td>DVD+R</td><td align="right">2x</td><td align="right">0</td><td>Verbatim</td></tr>
-<tr><td>06/12</td><td>DVD+R</td><td align="right">3x</td><td align="right">0</td><td>Verbatim</td></tr>
-<tr><td>04/13</td><td>DVD+R</td><td align="right">2x</td><td align="right">0</td><td>Optimum</td></tr>
-<tr><td>05/13</td><td>DVD+R</td><td align="right">3x</td><td align="right">0</td><td>Optimum</td></tr>
-</tbody>
-</table>
-</div>
-I have saved many hundreds of pairs of weekly DVD-Rs but the only ones that are ever accessed more than a few weeks after being written are the ones I use for my annual series of <a href="https://blog.dshr.org/2024/08/2024-optical-media-durability-update.html"><i>Optical Media Durability Update</i></a> posts. It is interesting that:<br />
-<blockquote>
-  with no special storage precautions, generic low-cost media, and consumer drives, I'm getting good data from CD-Rs more than 20 years old, and from DVD-Rs nearly 18 years old.
-</blockquote>
-But the DVD-R media lifetime is not why I'm writing backups to them. The attribute I'm interested in is that DVD-Rs are <i>write-once</i>; the backup data could be destroyed but it can't be modified.<br />
-<br />
-Note that the good data from 18-year-old DVD-Rs means that consumers have an affordable, effective archival technology. But the market for optical media and drives is dying, killed off by streaming, which suggests that consumers don't really care about archiving their data. Cathy Marshall's 2008 talk <a href="http://www.usenix.org/events/fast08/tech/marshall.pdf"><i>Its Like A Fire, You Just Have To Move On</i></a> vividly describes this attitude. Her subtitle is "Rethinking personal digital archiving".<br />
-<h2>Archival Data</h2>
-<div style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<ul>
-<li>Over time, data falls down the storage hierarchy.</li>
-<li>Data is archived when it can't earn its keep on near-line media.</li>
-<li>Lower cost is purchased with longer access latency.</li>
-</ul>
-</div>
-What is a useful definition of archival data? It is data that can no longer earn its keep on readily accessible storage. Thus the fundamental design goal for archival storage systems is to reduce costs by tolerating increased access latency. Data is archived, that is moved to an archival storage system, to save money. Archiving is an <i>economic</i> rather than a technical issue.<br />
-<br />
-<div style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzBYrJTsD8bf6nbT8H9zjvJ0ETZVnnrSL5BuTvzn-H5HxUgM12WJpwvx0w-PwZRKDd73PHfWDg7iih-x4bqWT32Gov4K1XHHSBQSfVzjIUO-jbzYBEJ-5dvZzYSaH-OuYP9uJOCwNdV8-XNP3ebafRzSGkX6ZPBPai7Rw88M7bv1rfEYcFgousGpK5STT5/s2032/Clock_of_the_Long_Now.jpeg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="2032" data-original-width="1524" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzBYrJTsD8bf6nbT8H9zjvJ0ETZVnnrSL5BuTvzn-H5HxUgM12WJpwvx0w-PwZRKDd73PHfWDg7iih-x4bqWT32Gov4K1XHHSBQSfVzjIUO-jbzYBEJ-5dvZzYSaH-OuYP9uJOCwNdV8-XNP3ebafRzSGkX6ZPBPai7Rw88M7bv1rfEYcFgousGpK5STT5/w150-h200/Clock_of_the_Long_Now.jpeg" width="150" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">By <a href="https://en.wikipedia.org/wiki/User:Pkirlin">Pkirlin</a> CC BY-SA 3.0 <a href="https://upload.wikimedia.org/wikipedia/commons/f/f3/Clock_of_the_Long_Now.JPG">Source</a></td></tr></tbody></table>
-</div>
-How long should the archived data last? The <a href="https://longnow.org/">Long Now Foundation</a> is building the <a href="https://longnow.org/clock/">Clock of the Long Now</a>, intended to keep time for 10,000 years. They would like to accompany it with a 10,000-year archive. That is at least two orders of magnitude longer than I am talking about here. We are only just over 75 years from the <a href="https://en.wikipedia.org/wiki/Manchester_Baby">first stored-program computer</a>, so designing a digital archive for a century is a very ambitious goal.<br />
-<h2>Archival Media</h2>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoG9pTJgaojUvVSXeXHAnLh2Ztx0rRm4rZr1WfdIZP6u0oRPSafDLoZW63H2eBTS-orZ5oE1GXETMAiOSqCw9RlkIoActw4FCsn70CexSAJh1VISrZKobjQNreInSfp3UCmVnc1uTcSjnf7RFHyt4aoVrzrsomxlZHNb8N0Q-P6v5ARnHbkuLsmcUsCPHe/s630/DailyMail.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="541" data-original-width="630" height="275" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoG9pTJgaojUvVSXeXHAnLh2Ztx0rRm4rZr1WfdIZP6u0oRPSafDLoZW63H2eBTS-orZ5oE1GXETMAiOSqCw9RlkIoActw4FCsn70CexSAJh1VISrZKobjQNreInSfp3UCmVnc1uTcSjnf7RFHyt4aoVrzrsomxlZHNb8N0Q-P6v5ARnHbkuLsmcUsCPHe/s320/DailyMail.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.dailymail.co.uk/sciencetech/article-2267158/Could-genome-inspire-hard-drives-future-Complete-works-Shakespeare-downloaded-synthetic-DNA.html">Source</a></td></tr></tbody></table>
-</div>
-The mainstream media occasionally comes out with an announcement like this from the <i>Daily Mail</i> in 2013. Note the extrapolation from "a 26 second excerpt" to "every film and TV program ever created in a teacup".<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_aB58W3Eew74rGTfksCtwUDkBaP8OzfB7E_szbleiLlWpCrlHjUpahWzV-re7gy0EUEtUorn9tU72Hh2Zg8lMdn0TlS1QYbn9FHRne5UZuiV7Z8G1ipYGyiymY3OCPgSVFC0DWvF_JHWHK05p5uB2_kMm9Emvi6QMFG0eEOcvMcCCb_DPJjQlSjjc5D4/s1492/AndToEndDNA.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="964" data-original-width="1492" height="207" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9_aB58W3Eew74rGTfksCtwUDkBaP8OzfB7E_szbleiLlWpCrlHjUpahWzV-re7gy0EUEtUorn9tU72Hh2Zg8lMdn0TlS1QYbn9FHRne5UZuiV7Z8G1ipYGyiymY3OCPgSVFC0DWvF_JHWHK05p5uB2_kMm9Emvi6QMFG0eEOcvMcCCb_DPJjQlSjjc5D4/s320/AndToEndDNA.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://doi.org/10.1038/s41598-019-41228-8">"drive the size of a teacup"</a><br /></td></tr></tbody></table>
-</div>
-Six years later, this is a picture of, as far as I know, the only write-to-read DNA storage drive ever demonstrated. It is from the Microsoft/University of Washington team that has done much of the research in DNA storage. They published it in 2019's <a href="https://doi.org/10.1038/s41598-019-41228-8"><i>Demonstration of End-to-End Automation of DNA Data Storage</i></a>. It cost about $10K and took 21 hours to write then read 5 bytes. <br />
-<br />
- The technical press is equally guilty.  The canonical article about some development in the lab starts with the famous IDC graph projecting the amount of data that will be generated in the future. It goes on to describe the amazing density some research team achieved by writing say a gigabyte into their favorite medium in the lab, and how this density could store all the world's data in a teacup for ever. This conveys five false impressions.<br />
-<h3>Market Size</h3>
-First, that there is some possibility the researchers could scale their process up to a meaningful fraction of IDC's projected demand, or even to the microscopic fraction of the projected demand that makes sense to archive. There is no such possibility. Archival media is a much <i>smaller</i> market than regular media. In 2018's <a href="https://blog.dshr.org/2018/03/archival-media-not-good-business.html"><i>Archival Media: Not a Good Business</i></a> I wrote:<br />
-<blockquote>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table cellpadding="0" cellspacing="0" class="tr-caption-container"><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE7h0N1sDrOWXX2FBwHux3o4-dNt-NBKk2MYiiVhlvssMeYmr6X2ukZmNe3iFJdnkla9doB_KtYqmFmvbkahcBt0ULgZwUhgz-TPGEHpmB2UweBFmH0IucGKJpX3OtLY58VBeHkxVMoOcM/s1600/DNA-storage-hierarchy.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="393" data-original-width="1088" height="71" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE7h0N1sDrOWXX2FBwHux3o4-dNt-NBKk2MYiiVhlvssMeYmr6X2ukZmNe3iFJdnkla9doB_KtYqmFmvbkahcBt0ULgZwUhgz-TPGEHpmB2UweBFmH0IucGKJpX3OtLY58VBeHkxVMoOcM/s200/DNA-storage-hierarchy.png" width="200" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;"><a href="http://dx.doi.org/10.1038/nbt.4079">Source</a></td></tr>
-</tbody></table>
-</div>
-Archival-only media such as <a href="http://www.digitalpreservation.gov/meetings/DSA2016/Day2/HUMMEL_G47-Bit_Plane_Image-Live_Fast_Pitch.pdf">steel tape</a>, <a href="https://www.storagenewsletter.com/2014/10/31/rd-hitachi-rw-of-digital-data-in-fused-silica-glass/">silica DVDs</a>, <a href="http://phys.org/news/2016-02-eternal-5d-storage-history-humankind.html">5D quartz DVDs</a>, and now <a href="https://blog.dshr.org/2018/02/dnas-niche-in-storage-market.html">DNA</a> face some fundamental business model problems because they function only at the very bottom of the storage hierarchy. The usual diagram of the storage hierarchy, like this one from the Microsoft/UW team researching DNA storage, makes it look like the size of the market increases downwards. But that's very far from the case.<br />
-</blockquote>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table cellpadding="0" cellspacing="0" class="tr-caption-container"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZx6Menygzsgh8swespt5o8ojGKNSl7yAxOKVdUsPA7nQmFs1LdDicqDWnP5Uvmss4Ggv2dS9EMXY0GMXfKVNm6Gw97riF-8B10zgOM2U5UGNvyglPaKa_2lkNWh_gNR2AUyS3-uXGT9kebbMPh5_o34OjlYuKw5lpBjburrFbk7TdaURC94tY97k5Oe3c/s2496/BitShipments.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1382" data-original-width="2496" height="177" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZx6Menygzsgh8swespt5o8ojGKNSl7yAxOKVdUsPA7nQmFs1LdDicqDWnP5Uvmss4Ggv2dS9EMXY0GMXfKVNm6Gw97riF-8B10zgOM2U5UGNvyglPaKa_2lkNWh_gNR2AUyS3-uXGT9kebbMPh5_o34OjlYuKw5lpBjburrFbk7TdaURC94tY97k5Oe3c/s320/BitShipments.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://digitalpreservation.gov/meetings/DSA2024/loc_dsa2024_website_0104_Lauhoff_Libary_of_Congress_2024_IBM.pdf">Source</a></td></tr></tbody></table>
-</div>
-<a href="https://digitalpreservation.gov/meetings/DSA2024/loc_dsa2024_website_0104_Lauhoff_Libary_of_Congress_2024_IBM.pdf">IBM's Georg Lauhoff and Gary M Decad's slide</a> shows that the size of the market in dollar terms <i>decreases</i> downwards. LTO tape is less than 1% of the media market in dollar terms and less than 5% in capacity terms. Archival media are a very small part of the storage market. It is noteworthy that in 2023 Optical Archival (OD-3), the most recent archive-only medium, was canceled for lack of a large enough market. It was a 1TB optical disk, an upgrade from Blu-Ray.<br />
-<h3>Timescales</h3>
-Second, that the researcher's favorite medium could make it into the market in the timescale of IDC's projections. Because the reliability and performance requirements of storage media are so challenging, time scales in the storage market are much longer than the industry's marketeers like to suggest.<br />
-<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEtHjIgtxAHlXzy_DQUhs8BB0KgahIURfneVHh3b49Byhf-rd_j7Qf9_7aSbFmWjIArop5kBHWS95UuOMYFrA9hbiNoEyDGnJNb7MOjLGtqRGFHfe9jb7HfpcbAsMVNGyh_-meN9PY7LEz1C4vIzDQDynC6EhUX3PV8K0wJ55NZwt2Hmk187QRdN5_pyr/s730/DaveAnderson.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="497" data-original-width="730" height="218" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEtHjIgtxAHlXzy_DQUhs8BB0KgahIURfneVHh3b49Byhf-rd_j7Qf9_7aSbFmWjIArop5kBHWS95UuOMYFrA9hbiNoEyDGnJNb7MOjLGtqRGFHfe9jb7HfpcbAsMVNGyh_-meN9PY7LEz1C4vIzDQDynC6EhUX3PV8K0wJ55NZwt2Hmk187QRdN5_pyr/s320/DaveAnderson.png" width="320" /></a>
-</div>
-Take, for example, Seagate's development of the next generation of hard disk technology, HAMR, where research started <a href="https://web.archive.org/web/20190813175046/https://www.seagate.com/news/news-archive/seagate-swings-increase-disc-drive-densities-master-pr/">twenty-six years ago</a>. Nine years later in 2008 they published this graph, showing HAMR entering the market in 2009. Seventeen years later it is only now starting to be shipped to the hyper-scalers. Research on data in silica started <a href="https://www.storagenewsletter.com/2014/10/31/rd-hitachi-rw-of-digital-data-in-fused-silica-glass/">fifteen years ago</a>. Research on the DNA medium started <a href="https://doi.org/10.2307/777811">thirty-six years ago</a>. Neither is within five years of market entry.<br />
-<h3>Customers</h3>
-Third, that even if the researcher's favorite medium did make it into the market it would be a product that consumers could use. As <a href="https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html">Kestutis Patiejunas figured out</a> at Facebook more than a decade ago, because the systems that surround archival media rather than the media themselves are the major cost, the only way to make the economics of archival storage work is to do it at data-center scale but in warehouse space and harvest the synergies that come from not needing data-center power, cooling, staffing, etc.<br />
-<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj76plfXCKW0BKTUKk41ApccSVDVlphOCKMavNRuae0_o2hjBlWLjo9LCTcsJ6kql_UtMfGA2laaX3goSNVKxu9g9EWTbanjPRQO5oGi1LLPhKBYNU-Cp33dumj-ZWcZurdjoGN0tDAnyw50y9NbropK8AJ3B15DXhy1Dr82sozd7UtcUe7_Prv-nG4vXCE/s2462/ArealDensityForecast.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1406" data-original-width="2462" height="229" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj76plfXCKW0BKTUKk41ApccSVDVlphOCKMavNRuae0_o2hjBlWLjo9LCTcsJ6kql_UtMfGA2laaX3goSNVKxu9g9EWTbanjPRQO5oGi1LLPhKBYNU-Cp33dumj-ZWcZurdjoGN0tDAnyw50y9NbropK8AJ3B15DXhy1Dr82sozd7UtcUe7_Prv-nG4vXCE/w400-h229/ArealDensityForecast.png" width="400" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://digitalpreservation.gov/meetings/DSA2024/loc_dsa2024_website_0104_Lauhoff_Libary_of_Congress_2024_IBM.pdf">Source</a></td></tr></tbody></table>
-</div>
-Storage has an analog of Moore's Law called <a href="https://www.scientificamerican.com/article/kryders-law/">Kryder's Law</a>, which states that over time the density of bits on a storage medium increases exponentially. Given the need to reduce costs at data-center scale, Kryder's Law limits the service life of even quasi-immortal media. As we see with tape robots, where data is routinely migrated to newer, denser media long before its theoretical lifespan, what matters is the economic, not the technical lifespan of a medium.<br />
-<br />
-Hard disks are replaced every five years although the magnetically encoded data on the platters is <a href="https://www.abitare.org/papers/ISandT2008.pdf">good for a quarter-century</a>. They are engineered to have a five-year life because Kryder's Law implies that they will be replaced after five years even though they still work perfectly. Seagate actually built drives with 25-year life but found that no-one would pay the extra for the longer life.<br />
-<h3>The Cloud</h3>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3Y_f6FGQQT_z9iWZfXE8_ZkcKu0TyVLmVSzePTuOrBCs0dBCGpQjVKG9tIYBKTCHe78v7aEhJjVn83fojbgbW3qgB1obKcTA4n7F5-upTA2-qostemebA1_xL_kPfiT7ivk1S40DFx1MMTmQvLpBHRa7S59EHb91-NsYkyavvhE2frWJ8Pa4wOIX2vto/s1600/Glacier.jpg" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="900" data-original-width="1600" height="180" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX3Y_f6FGQQT_z9iWZfXE8_ZkcKu0TyVLmVSzePTuOrBCs0dBCGpQjVKG9tIYBKTCHe78v7aEhJjVn83fojbgbW3qgB1obKcTA4n7F5-upTA2-qostemebA1_xL_kPfiT7ivk1S40DFx1MMTmQvLpBHRa7S59EHb91-NsYkyavvhE2frWJ8Pa4wOIX2vto/s320/Glacier.jpg" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://learning.workfall.com/learning/blog/create-vaults-in-aws-s3-glacier-to-store-and-archive-data/">Source</a></td></tr></tbody></table>
-</div>
-Fourth, that anyone either cares or even knows what medium their archived data lives on. Only the hyper-scalers do. Consumers believe their data is safe in the cloud. Why bother backing it up, let alone archiving it, if it is safe anyway? If anyone really cares about archiving they use a service such as Glacier, when they definitely have no idea what medium is being used.<br />
-<h3>Threats</h3>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM4NYj8m4Y-1fNojd59_FWVrM_r1JvKluouNltQgeRAOEN_-3y5MnUMfwsi1mMSa2tc1bNOFEojPIeYAIS2_uTtGO07D1PojewRnLtIQTttQjssMNvnt9wRPz_nfiJIEp7bH0w3dtsMa7LRjq7TfrqdEEC7xbdqxc2gCpSkBmjsm5dSvpybjsOVG5zeODa/s1778/BitRot.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1762" data-original-width="1778" height="317" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM4NYj8m4Y-1fNojd59_FWVrM_r1JvKluouNltQgeRAOEN_-3y5MnUMfwsi1mMSa2tc1bNOFEojPIeYAIS2_uTtGO07D1PojewRnLtIQTttQjssMNvnt9wRPz_nfiJIEp7bH0w3dtsMa7LRjq7TfrqdEEC7xbdqxc2gCpSkBmjsm5dSvpybjsOVG5zeODa/s320/BitRot.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.datacore.com/glossary/bit-rot/">Source</a></td></tr></tbody></table>
-</div>
-Fifth, that bit rot is the only threat that matters; the idea that with quasi-immortal media you don't need Lots Of Copies to Keep Stuff Safe.<br />
-<br />
-No medium is perfect. They all have a specified Unrecoverable Bit Error Rate (UBER) rate. For example, typical <a href="https://www.seagate.com/content/dam/seagate/en/content-fragments/products/datasheets/exos-x24/exos-x24-DS2080-2307US-en_US.pdf">disk UBERs are 10<sup>-15</sup></a>. A petabyte is 8*10<sup>15</sup> bits, so if the drive is within its specified performance you can expect up to 8 errors when reading a petabyte. The specified UBER is an upper limit, you will normally see <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2005/12/tr-2005-166.pdf">far fewer</a>. The <a href="https://cdn.allbound.com/iq-ab/2022/12/LTO-9-TB00068A.pdf">UBER for LT09 tape is 10<sup>-20</sup></a>, so unrecoverable errors on a new tape are very unlikely. But not impossible, and the rate goes up steeply with tape wear.<br />
-<br />
-The property that classifies a medium as quasi-immortal is not that its reliability is greater than regular media to start with, although as with tape it may be. It is rather that its reliability decays more slowly than that of regular media. Thus archival systems need to use erasure coding to mitigate both UBER data loss and media failures such as disk crashes and tape wear-out.<br />
-<br />
-Another reason for needing erasure codes is that media errors are not the only ones needing mitigation. What matters is the reliability the system delivers to the end user.  Research has shown that the <a href="https://blog.dshr.org/2008/03/more-bad-news-on-storage-reliability.html">majority of end user errors</a> come from layers of the system above the actual media.<br />
-<br />
-The archive may contain personally identifiable or other sensitive data. If so, the data on the medium must be encrypted. This is a double-edged sword, because the encryption key becomes a single point of failure; its loss or corruption renders the entire archive inaccessible. So you need Lots Of Copies to keep the key safe. But the more copies the greater the risk of key compromise.<br />
-<br />
-Media such as silica, DNA, quartz DVDs, steel tape and so on address bit rot, which is only one of the threats to which long-lived data is subject.  Clearly a single copy on such media, even if erasure coded, is still subject to threats including fire, flood, earthquake, ransomware, and insider attacks.  Thus even an archive needs to maintain multiple copies. This greatly increases the cost, bringing us back to the economic threat.<br />
-<br />
-<h2>Archival Storage Systems</h2>
-At Facebook Patiejunas built rack-scale systems, each holding 10,000 100GB optical disks for a Petabyte per rack. Writable Blu-Ray disks are about 80 cents each, so the media to fill the rack would cost about $8K. This is clearly much less than the cost of the robotics and the drives.<br />
-<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVMu254fhgifS464ejaY2f4YhDSg404cuLeqeGWe24d8TArKR0okskjUVwS7UF_OyD-8TooRJgX39DeUSavW_58SVik6rNJtXerUktsqvLp5ogV-K5MD2Kh_-b75KttqvCvjcLvpfBu317Dq8jcnDYMZfDYdkLjSZh_MrOjEkp2WXxxmr6zdSz2e8ocmE/s970/IBM-TS4300.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="970" data-original-width="834" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikVMu254fhgifS464ejaY2f4YhDSg404cuLeqeGWe24d8TArKR0okskjUVwS7UF_OyD-8TooRJgX39DeUSavW_58SVik6rNJtXerUktsqvLp5ogV-K5MD2Kh_-b75KttqvCvjcLvpfBu317Dq8jcnDYMZfDYdkLjSZh_MrOjEkp2WXxxmr6zdSz2e8ocmE/s320/IBM-TS4300.png" width="275" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ibm.com/products/ts4300">IBM TS4300</a></td></tr></tbody></table>
-</div>
-Let's drive this point home with another example. An <a href="https://www.ibm.com/products/ts4300">IBM TS4300</a> LTO tape robot <a href="https://www.ibm.com/flashsystem/pricing/us-en/family/TP9JK5">starts at $20K</a>. Two 20-pack tape cartridges to fill it cost about $4K, so the media is about 16% of the total system capex. The opex for the robot includes power, cooling, space, staff and an IBM maintenance contract. The opex for the tapes is essentially zero.<br />
-<br />
-The media is an insignificant part of the total lifecycle cost of storing archival data on tape. What matters for the economic viability of an archival storage system is minimizing the total system cost, not the cost of the media. No-one is going to spend $24K on a rack-mount tape system from IBM to store 720TB for their home or small business. The economics only work at data-center scale.<br />
-<br />
-The reason why this focus on media is a distraction is that the fundamental problem of digital preservation is economic, not technical.  No-one wants to pay for preserving data that isn't earning its keep, pretty much the definition of archived data.  The cost per terabyte of the <i>medium</i> is irrelevant, what drives the economic threat is the capital and operational cost of the <i>system</i>. Take tape for example. The media capital cost is low, but the much higher system capital cost includes the drives and the robotics. Then there are the operational costs of the data center space, power, cooling and staff. It is only by operating at data-center scale and thus amortizing the capital and operational costs over very large amounts of data that the system costs per terabyte can be made competitive.<br />
-<br />
-Operating at data center scale, as <a href="https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html">Patiejunas discovered</a> and <a href="https://blog.dshr.org/2025/01/storage-roundup.html">Microsoft understands</a>, means that one of the parameters that determines the system cost is <i>write bandwidth</i>. Each of Facebook's racks wrote 12 optical disks in parallel almost continuously. It would take over 800 times the time to write an entire disk to fill the rack.  At the 8x write speed it takes <a href="https://en.wikipedia.org/wiki/Blu-ray#Drive_speeds">22.5 minutes</a> to fill a disk, so it would take around 18,750 minutes to fill the rack, or about two weeks. It isn't clear how many racks Facebook needed simultaneously doing this to keep up with the flow of user-generated content, but it was likely enough to fill a reasonable-size warehouse. Similarly, it would take about 8.5 days to fill the <a href="https://www.ibm.com/docs/en/dtl?topic=performance-lto-specifications">base model TS4300</a>.<br />
-<h3>Project Silica</h3>
-I wrote about <a href="https://doi.org/10.1145/3600006.3613208">Microsoft's Project Silica</a> a year ago, in <a href="https://blog.dshr.org/2024/03/microsofts-archival-storage-research.html"><i>Microsoft's Archival Storage Research</i></a>. It uses femtosecond lasers to write data into platters of silica.
-Like Facebook's, the prototype Silica systems are <a href="https://doi.org/10.1145/3600006.3613208">data-center size</a>:<br />
-<div style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<blockquote>
-A <i>Silica library</i> is a sequence of contiguous write, read, and storage racks interconnected by a platter delivery system.  Along all racks there are parallel horizontal rails that span the entire library. We refer to a side of the library (spanning all racks) as a <i>panel</i>. A set of <i>free roaming</i> robots called <i>shuttles</i> are used to move platters between locations.<br />
-...<br />
-A read rack contains multiple read drives. Each read drive is independent and has slots into which platters are inserted and removed. The number of shuttles active on a panel is limited to twice the number of read drives in the panel. The write drive is full-rack-sized and writes multiple platters concurrently.
-</blockquote>
-</div>
-Their performance evaluation focuses on the ability to respond to read requests within 15 hours. Their cost evaluation, like Facebook's, focuses on the savings from using warehouse-type space to house the equipment, although is isn't clear that they have actually done so. The rest of their cost evaluation is somewhat hand-wavy, as is natural for a system that <a href="https://doi.org/10.1145/3600006.3613208">isn't yet in production</a>:<br />
-<div style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<blockquote>
-The Silica read drives use polarization microscopy, which is a commoditized technique widely used in many applications and is low-cost. Currently, system cost in Silica is dominated by the write drives, as they use femtosecond lasers which are currently expensive and used in niche applications.  ...  As the Silica technology proliferates, it will drive up the demand for femtosecond lasers, commoditizing the technology.
-</blockquote>
-</div>
-I'm skeptical of "commoditizing the technology". Archival systems are a niche in the IT market, and one on which companies are loath to spend money. Realistically, there aren't going to be a vast number of Silica write heads. The only customers for systems like Silica are the large cloud providers, who will be reluctant to commit their archives to technology owned by a competitor. Unless a mass-market application for femtosecond lasers emerges, the scope for cost reduction is limited.<br />
-<br />
-But the more I think about this technology, which is still in the lab, the more I think it probably has the best chance of impacting the market among all the rival archival storage technologies. Not great, but better than its competitors:<br />
-<ul>
-<li>The media is very cheap and very dense, so the effect of Kryder's Law economics driving media replacement and thus its economic rather than technical lifetime is minimal.</li>
-<li>The media is quasi-immortal and survives benign neglect, so opex once written is minimal.</li>
-<li>The media is write-once, and the write and read heads are physically separate, so the data cannot be encrypted or erased by malware. The long read latency makes exfiltrating large amounts of data hard.</li>
-<li>The robotics are simple and highly redundant. Any of the shuttles can reach any of the platters. They should be much less troublesome than tape library robotics because, unlike tape, a robot failure only renders a small fraction of the library inaccessible and is easily repaired.</li>
-<li>All the technologies needed are in the market now, the only breakthroughs needed are economic, not technological.</li>
-<li>The team has worked on improving the  write bandwidth which is a critical issue for archival storage at scale. They can currently write hundreds of megabytes a second.</li>
-<li>Like <a href="https://blog.dshr.org/2014/09/more-on-facebooks-cold-storage.html">Facebook's archival storage technologies</a>, Project Silica enjoys the synergies of data center scale without needing full data center environmental and power resources.</li>
-<li>Like Facebook's technologies, Project Silica has an in-house customer, Azure's archival storage, with a need for a product like this.</li>
-</ul>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghLqG9crY3hVHxsmumRIN_vmiEqjKUkghooUzFmWXho0HUKd5-c2ex-y95V8c_H_7QizT0xxwU-9WGQp4pRuVzJ3lFTzXqkHQ_NT3VPsSgotVfdUhoWJ04HY-K9bU1Zh0m6_LAG223w4fZkuttk6hJbMmG_vgJOfb3rK9iv00YVTn_KANu10Waz4d4L3fX/s1686/ThorLabsLaser.png" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="846" data-original-width="1686" height="161" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghLqG9crY3hVHxsmumRIN_vmiEqjKUkghooUzFmWXho0HUKd5-c2ex-y95V8c_H_7QizT0xxwU-9WGQp4pRuVzJ3lFTzXqkHQ_NT3VPsSgotVfdUhoWJ04HY-K9bU1Zh0m6_LAG223w4fZkuttk6hJbMmG_vgJOfb3rK9iv00YVTn_KANu10Waz4d4L3fX/s320/ThorLabsLaser.png" width="320" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=14348">$48,880 femtosecond laser</a><br /></td></tr></tbody></table>
-</div>
-The expensive part of the system is the write head. It is an entire rack using femtosecond lasers, which start at around $50K. The eventual system's economics will depend upon the progress made in cost-reducing the lasers.<br />
-<h2>Retrieval</h2>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;">
-<br /></td></tr></tbody><tbody>
-<tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylX6lEsVtgZQThycZr_Jh6V343e_3q1UAgNH7zTjEstLyox_cHDztAhO87cNlaErs17ySiP093EftucR4WxLtFEHJW1zxabt7ITB2z6lLlwe3fVAdftxgACWNT8GmBFtFYzByJx2EC_W7/s1600/1063px-Topographic_map_of_Svalbard.svg.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1080" data-original-width="1063" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylX6lEsVtgZQThycZr_Jh6V343e_3q1UAgNH7zTjEstLyox_cHDztAhO87cNlaErs17ySiP093EftucR4WxLtFEHJW1zxabt7ITB2z6lLlwe3fVAdftxgACWNT8GmBFtFYzByJx2EC_W7/s200/1063px-Topographic_map_of_Svalbard.svg.png" width="196" /></a></td></tr>
-<tr><td class="tr-caption" style="text-align: center;"><a href="https://commons.wikimedia.org/wiki/File:Topographic_map_of_Svalbard.svg">Svalbard</a> by <a href="https://en.wikipedia.org/wiki/User:Mysid">Oona Räisänen</a><br />
-<a href="http://https//creativecommons.org/licenses/by-sa/4.0">CC-BY-SA4.0</a></td></tr>
-</tbody></table>
-</div>
-The Svalbard archipelago is where I spent the summer of 1969 doing a geological survey.<br />
-<br />
-The most important part of an archiving strategy is knowing how you will get stuff out of the archive. Putting stuff in and keeping it safe are important and relatively easy, but if you can't get stuff out when you need it what's the point?<br />
-<br />
-In some cases access is only needed to a small proportion of the archive. At Facebook, Patiejunas expected that the major reason for access would be to respond to a subpoena. In other cases, such as migrating to a new archival system, bulk data retrieval is required.<br />
-<br />
-But if the reason for needing access is disaster recovery it is important to have a vision of what resources are likley to be available after the disaster. Microsoft gained a lot of <a href="https://www.bloomberg.com/news/features/2019-11-13/microsoft-apocalypse-proofs-open-source-code-in-an-arctic-cave">valuable PR</a> by encoding much of the world's open source software in QR codes on film and storing the cans of film in an abandoned coal mine in Svalbard so it would "survive the apocalypse". In <a href="https://blog.dshr.org/2019/11/seeds-or-code.html"><i>Seeds Or Code?</i></a> I had a lot of fun imagining how the survivors of the apocalypse would be able to access the archive.<br />
-<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table align="center" cellpadding="0" cellspacing="0" class="tr-caption-container" style="margin-left: auto; margin-right: auto;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUoFxpu0RgpPA5Ucc2BlYLWU-l9HrFklaIDCTtQBDyf7PvjsoAogcjeEm_xhg69X2p7xmxcRUXI3OF0jNmHjWUZ8IQ_bEpEPGp90IEL9QjTXvGsOvsC_MkErc7lWxYBWwnv8EUQyUoFIZoUKrD0YAPCM_H6B0erV3xmHlIyoYnq4e4RCUMj3uQ1PaJn2Df/s1040/TromsoLongyear.png" imageanchor="1" style="margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1040" data-original-width="698" height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUoFxpu0RgpPA5Ucc2BlYLWU-l9HrFklaIDCTtQBDyf7PvjsoAogcjeEm_xhg69X2p7xmxcRUXI3OF0jNmHjWUZ8IQ_bEpEPGp90IEL9QjTXvGsOvsC_MkErc7lWxYBWwnv8EUQyUoFIZoUKrD0YAPCM_H6B0erV3xmHlIyoYnq4e4RCUMj3uQ1PaJn2Df/s320/TromsoLongyear.png" width="215" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">The voyage<br /></td></tr></tbody></table>
-</div>
-To make a long story short, after even a mild apocalypse, they wouldn't be able to. Let's just point out that the first steps after the apocalypse are getting to Svalbard. They won't be able to fly to <a href="https://en.wikipedia.org/wiki/Svalbard_Airport">LYR</a>. As the crow flies, the voyage from Tromsø is 591 miles across very stormy seas. It takes several days, and getting to Tromsø won't be easy either.<br />
-<h2>Archival Storage Services</h2>
-Because technologies have very strong economies of scale, the economics of most forms of IT work in favor of the hyper-scalers. These forces are especially strong for archival data, both because it is almost pure cost with no income, and because as I discussed earlier the economics of archival storage only work at data-center scale. It will be the rare institution that can avoid using cloud archival storage. I analyzed the way these economic forces operate in 2019's <a href="https://blog.dshr.org/2019/02/cloud-for-preservation.html"><i>Cloud For Preservation</i></a>:<br />
-<div style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<blockquote>
-Much of the attraction of cloud technology for organizations, especially public institutions funded through a government's annual budget process, is that they transfer costs from capital to operational expenditure. It is easy to believe that this increases financial flexibility. As regards ingest and dissemination, this may be true. Ingesting some items can be delayed to the next budget cycle, or the access rate limit lowered temporarily. But as regards preservation, it isn't true. It is unlikely that parts of the institution's collection can be de-accessioned in a budget crunch, only to be re-accessioned later when funds are adequate. Even were the content still available to be re-ingested, the cost of ingest is a significant fraction of the total life-cycle cost of preserving digital content.
-</blockquote>
-</div>
-Cloud services typically charge differently for ingest, storage and retrieval. The service's goal in designing their pricing structure is to create lock-in, by analogy with the drug-dealer's algorithm "the first one's free".
-In 2019 I used the published rates to compute the cost of ingesting in a month, storing for a year, and retrieving in a month a petabyte using the archive services of the three main cloud providers. Here is that table, with the costs adjusted for inflation to 2024 using the <a href="https://www.bls.gov/data/inflation_calculator.htm">Bureau of Labor Statistics' calculator</a>:<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table border="1" cellpadding="2" cellspacing="0" class="tr-caption-container" cols="6" style="float: none; margin-left: 1em; text-align: right;"><tbody>
-<tr>
-    <th colspan="6" style="text-align: center;">Archival Services</th>
-</tr>
-<tr>
-    <th style="text-align: center;">Service</th>
-    <th style="text-align: center;">In</th>
-    <th style="text-align: center;">Store</th>
-    <th style="text-align: center;">Out</th>
-    <th style="text-align: center;">Total</th>
-    <th style="text-align: center;">Lock-in</th>
-  </tr>
-<tr> <td style="text-align: left;"><a href="https://aws.amazon.com/glacier/pricing/">AMZN Glacier</a></td> <td style="text-align: right;">$2,821</td> <td style="text-align: right;">$60,182</td> <td style="text-align: right;">$69,260</td> <td style="text-align: right;">$132,263</td> <td style="text-align: right;">13.8</td></tr>
-<tr> <td style="text-align: left;"><a href="https://cloud.google.com/storage/pricing">GOOG Coldline</a></td> <td style="text-align: right;">$4,514</td> <td style="text-align: right;">$105,319</td> <td style="text-align: right;">$105,144</td> <td style="text-align: right;">$214,977</td> <td style="text-align: right;">12.0</td></tr>
-<tr> <td style="text-align: left;"><a href="https://azure.microsoft.com/en-us/pricing/details/storage/blobs/">MSFT Archive</a></td> <td style="text-align: right;">$7,962</td> <td style="text-align: right;">$30,091</td> <td style="text-align: right;">$20,387</td> <td style="text-align: right;">$58,440</td> <td style="text-align: right;">8.1</td></tr>
-</tbody></table>
-</div>
-The "Lock-in" column is the approximate number of months of storage cost that getting the Petabyte out in a month represents. Note that:<br />
-<ul>
-<li>In all cases getting data out is much more expensive than putting it in.</li>
-<li>The lower cost of archival storage compared to the same service's near-line storage is purchased at the expense of a much stronger lock-in.</li>
-<li>Since the whole point of archival storage is keeping data for the long term, the service will earn much more in storage charges over the longer life of archival data than the shorter life of near-line data.</li>
-</ul>
-There may well be reasons why retrieving data from archival storage is expensive. Most storage technologies have unified read/write heads, so retrieval competes with ingest which, as Patiejunas figured out, is the critical performance parameter for archival storage. This is because, to minimize cost, archival systems are designed assuming bulk retrieval is rare. When it happens, whether from a user request or to migrate data to new media, it is disruptive. For example, emptying a base model TS4300 occupies it for more than a week.<br />
-<br />
-Six years later, things have changed significantly. Here is the current version of the archival services table:<br />
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table border="1" cellpadding="2" cellspacing="0" class="tr-caption-container" cols="6" style="float: none; margin-left: 1em; text-align: right;"><tbody>
-<tr>
-    <th colspan="6" style="text-align: center;">Archival Services</th>
-</tr>
-<tr>
-    <th style="text-align: center;">Service</th>
-    <th style="text-align: center;">In</th>
-    <th style="text-align: center;">Store</th>
-    <th style="text-align: center;">Out</th>
-    <th style="text-align: center;">Total</th>
-    <th style="text-align: center;">Lock-in</th>
-  </tr>
-<tr> <td style="text-align: left;"><a href="https://aws.amazon.com/glacier/pricing/">AMZN Glacier Deep Archive</a></td> <td style="text-align: right;">$500</td> <td style="text-align: right;">$10,900</td> <td style="text-align: right;">$49,550</td> <td style="text-align: right;">$60,950</td> <td style="text-align: right;">50.0<br /></td></tr>
-<tr> <td style="text-align: left;"><a href="https://cloud.google.com/storage/pricing">GOOG Archive</a></td> <td style="text-align: right;">$500</td> <td style="text-align: right;">$13,200</td> <td style="text-align: right;">$210,810</td> <td style="text-align: right;">$224,510</td> <td style="text-align: right;">175.6</td></tr>
-<tr> <td style="text-align: left;"><a href="https://azure.microsoft.com/en-us/pricing/details/storage/blobs/">MSFT Archive</a></td> <td style="text-align: right;">$100</td> <td style="text-align: right;">$22,000</td> <td style="text-align: right;">$40,100</td> <td style="text-align: right;">$62,200</td> <td style="text-align: right;">20.0</td></tr>
-</tbody></table>
-</div>
-Points to note:<br />
-<ul>
-<li>Glacier is the only one of the three that is significantly cheaper in real terms than it was 6 years ago.</li>
-<li>Glacier can do this because Kryder's Law has made their storage about a factor of about 6 cheaper in real terms in six years, or about a 35% Kryder rate. This is somewhat faster than the rate of areal density increase of tape, and much faster than that of disk. The guess is that Glacier Deep Archive is on tape.</li>
-<li>Google's pricing indicates they aren't serious about the archival market.</li>
-<li>Archive services now have differentiated tiers of service. This table uses S3 Deep Archive, Google Archive and Microsoft Archive.</li>
-<li>Lock-in has increased from 13.8/12.0/8.1 to 50/175/20. It is also increased by additional charges for data lifetimes less than a threshold, 180/365/180 days. So my cost estimate for Google is too low, because the data would suffer these charges. But accounting for this would skew the comparison.</li>
-<li>Bandwidth charges are a big factor in lock-in. For Amazon they are 77%, for Google they are 38%, for Microsoft they are 32%.  Amazon's marketing is smart, hoping you won't notice the outbound bandwidth charges.</li>
-</ul>
-Looking at these numbers it is hard to see how anyone can justify any archive storage other than S3 Deep Archive. It is the only one delivering Kryder's Law to the customer, and as my <a href="https://blog.dshr.org/2017/08/economic-model-of-long-term-storage.html">economic model</a> shows, delivering Kryder's Law is essential to affordable long-term storage. A petabyte for a decade costs under $120K before taking Kryder's Law into account and you can get it all out for under $50K.<br />
-<h2>LOCKSS</h2>
-<div align="center" style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<table cellpadding="0" cellspacing="0" class="tr-caption-container"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW7x_4i-TUwFG6xNVH2q_nk5jXabNhRGxUbnEeDV6vKapZoAmu9eDP1JY4Oavw508eDSbFy734Gxb2crvCI-eAQVjL-3LjYp0olWhqIR4OM6AhehgFJTKFxrKEdrLJHUOdsrPCeODqpu4dVDUT2sggb73rBj_EomjFI1YirWH2THzPUgP4_KwTIDX1Q/s151/LOCKSS.logo.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="151" data-original-width="151" height="151" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsW7x_4i-TUwFG6xNVH2q_nk5jXabNhRGxUbnEeDV6vKapZoAmu9eDP1JY4Oavw508eDSbFy734Gxb2crvCI-eAQVjL-3LjYp0olWhqIR4OM6AhehgFJTKFxrKEdrLJHUOdsrPCeODqpu4dVDUT2sggb73rBj_EomjFI1YirWH2THzPUgP4_KwTIDX1Q/s1600/LOCKSS.logo.png" width="151" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Original Logo<br /></td></tr></tbody></table>
-</div>
-The fundamental idea behind LOCKSS was that, given a limited budget and a realistic range of threats, data would survive better in many cheap, unreliable, loosely-coupled replicas than in a single expensive, durable one.<br />
-<br />
-<div style="background-color: #fff8c6; margin-left: 20px; margin-right: 20px; padding-bottom: 8px; padding-left: 8px; padding-right: 8px; padding-top: 8px; padding: 8px;">
-<blockquote>
-Replacing one drive takes about 15 minutes of work. If we have 30,000 drives and 2 percent fail, it takes 150 hours to replace those.  In other words, one employee for one month of 8 hour days. Getting the failure rate down to 1 percent means you save 2 weeks of employee salary - maybe $5,000 total? The 30,000 drives costs you $4m.<br />
-<br />
-The $5k/$4m means the Hitachis are worth 1/10th of 1 per cent higher cost to us. ACTUALLY we pay even more than that for them, but not more than a few dollars per drive (maybe 2 or 3 percent more).<br />
-<br />
-Moral of the story: design for failure and buy the cheapest components you can. :-)
-</blockquote>
-</div>
-Brian Wilson, CTO of BackBlaze <a href="https://blog.dshr.org/2014/04/evercloud-workshop.html">pointed out</a> eleven years ago that in their long-term storage environment <a href="http://www.theregister.co.uk/2014/02/17/backblaze_how_not_to_evaluate_disk_reliability/">"Double the reliability is only worth 1/10th of 1 percent cost increase"</a>. And thus that the moral of the story was "design for failure and buy the cheapest components you can".<br />
-<br />
-In other words, don't put all your eggs in one basket.<br /> 
-
-<br> 
-
-<https://blog.dshr.org/2025/03/archival-storage.html>
 

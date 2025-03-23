@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-03-22 06:07:31
+updated: 2025-03-23 06:08:05
 ---
 
 # motorcycles
 
-(date: 2025-03-22 06:07:31)
+(date: 2025-03-23 06:08:05)
+
+---
+
+## Your Retro Modern Bike Deserves A Gorgeous Retro Modern Helmet, Doesn't It?
+
+date: 2025-03-23, from: Ride Apart, Electric Motorcycle News
+
+Three words: Magnetic goggle attachment. 
+
+<br> 
+
+<https://www.rideapart.com/news/754197/marko-full-moon-2-helmet/>
+
+---
+
+## Justin Allgaier Strikes Gold in Overtime: Wins Xfinity Race and $100K Bonus at Miami
+
+date: 2025-03-23, from: Kickin the Tires blog
+
+By Holly Cain, NASCAR Wire Service HOMESTEAD, Fla. – In one of the most dramatic finishes of the season, JR Motorsports’ Justin Allgaier took the lead on the final lap&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/justin-allgaier-strikes-gold-in-overtime-wins-xfinity-race-and-100k-bonus-at-miami/>
+
+---
+
+## This Is The Honda CB1000F Concept, And It Was Designed By Suzuki
+
+date: 2025-03-22, from: Ride Apart, Electric Motorcycle News
+
+Probably not what you think! 
+
+<br> 
+
+<https://www.rideapart.com/news/754307/honda-cb1000f-concept-design-suzuki/>
 
 ---
 
@@ -425,41 +461,4 @@ It doesn’t help that it’s a JDM exclusive.
 <br> 
 
 <https://www.rideapart.com/news/753503/yamaha-xsr900-ceramic-ivory-japan-only/>
-
----
-
-## 2025 ARCA West at Phoenix: Team Reactions and Analysis
-
-date: 2025-03-15, from: Kickin the Tires blog
-
-&#160;By Vincent Delforge, Staff Writer The second race of the 2025 season, the General Tire 150, held on the one-mile paved oval at Phoenix Raceway in Avondale, AZ, featured a&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/2025-arca-west-at-phoenix-team-reactions-and-analysis/>
-
----
-
-## A Supermoto Stark Varg Is In The Works, and It’ll Come To the US
-
-date: 2025-03-15, from: Ride Apart, Electric Motorcycle News
-
-A full-size, all-electric supermoto sounds like a total blast to ride.
- 
-
-<br> 
-
-<https://www.rideapart.com/news/753505/stark-varg-ex-sm-coming-to-us/>
-
----
-
-## Four The Win, Christopher Bell Looks To Extend His NASCAR Winning Streak
-
-date: 2025-03-15, from: Kickin the Tires blog
-
-By Jerry Jordan, Editor LAS VEGAS – Coming off his third trip to NASCAR Victory Lane in a row – Atlanta, COTA and Phoenix – Joe Gibbs Racing driver Christopher&#8230;  
-
-<br> 
-
-<https://kickinthetires.net/nascar/four-the-win-christopher-bell-looks-to-extend-his-nascar-winning-streak/>
 
