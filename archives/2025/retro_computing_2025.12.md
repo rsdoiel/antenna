@@ -1,11 +1,107 @@
 ---
 title: retro computing
-updated: 2025-03-24 06:08:30
+updated: 2025-03-25 06:09:07
 ---
 
 # retro computing
 
-(date: 2025-03-24 06:08:30)
+(date: 2025-03-25 06:09:07)
+
+---
+
+## Soft Rock Software edition 2 collection at RISC OS North
+
+date: 2025-03-25, from: RiscOS Story
+
+The Soft Rock Software &#8216;Collection&#8217; &#8211; available on USB flash drive or CD &#8211; has been refreshed for a second edition, which will be available at the new RISC OS North event on Saturday, 29th March in Warrington. The Collection gathers together all of the software currently available to download for free from Soft Rock&#8217;s website, and adds more to it. The first edition included a number of budget games written by Vince Hudd from the late 1980s to the mid-1990s, website maintenance tool WebChange and its little brother Seek&#8217;n&#8217;Link,&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/soft-rock-software-collection-2-risc-os-north/>
+
+---
+
+## It’s a software pick ‘n’ mix at RISC OS North
+
+date: 2025-03-25, from: RiscOS Story
+
+As with any computer system, when using RISC OS you&#8217;ll need software to run on it &#8211; and you&#8217;ll be certain to have some already. As an existing user you&#8217;ll have built up a collection of applications you use, and may want to add to it. And as a new user you&#8217;ll have discovered that there is some supplied with the operating system &#8211; though how much depends on how you got started &#8211; and you almost certainly will want to add to it. So where do you go for&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/software-pick-n-mix-risc-os-north/>
+
+---
+
+## R-Comp bring Pi5 support to Hydra and N.Ex.T Systems
+
+date: 2025-03-25, from: Icon Bar, RISC OS News
+
+While The Raspberry Pi5 cannot run RISC OS, it does offer significant improvements to Linux performance, which R-Comp has made easy to access within their systems. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2180.html>
+
+---
+
+## EndeavorOS Mercury Neo Available
+
+date: 2025-03-24, from: Linux Magazine
+
+<p>A new release from the EndeavorOS team ships with Plasma 6.3 and other goodies.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/EndeavorOS-Mercury-Neo-Available>
+
+---
+
+## Applix Alis
+
+date: 2025-03-24, from: Computer ads from the Past
+
+Finally, some answers in Wonderland 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/applix-alis>
+
+---
+
+## Fedora 42 Beta Has Arrived
+
+date: 2025-03-24, from: Linux Magazine
+
+<p>The Fedora Project has announced the availability of the first beta release for version 42 of the open-source distribution.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Fedora-42-Beta-Has-Arrived>
+
+---
+
+## b.log 2025/03/24 - Wood, SimpleSeq v0.27c, Everyone is autistic...
+
+date: 2025-03-24, from: Richard Murray's blog
+
+Wood, SimpleSeq v0.27c, Everyone is autistic... 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250324>
+
+---
+
+## Archive magazine at RISC OS North
+
+date: 2025-03-24, from: Icon Bar, RISC OS News
+
+Archive Magazine will be at RISC OS North with copies of the latest edition (presumably with the ink still drying). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2182.html>
 
 ---
 

@@ -1,15 +1,101 @@
 ---
 title: motorcycles
-updated: 2025-03-24 06:08:30
+updated: 2025-03-25 06:09:07
 ---
 
 # motorcycles
 
-(date: 2025-03-24 06:08:30)
+(date: 2025-03-25 06:09:07)
 
 ---
 
-## FIM EnduroGP Romanian Round Gets Cancelled—Pigs To Blame
+## This Special Anniversary Honda Monkey is Shiny and Chrome
+
+date: 2025-03-25, from: Ride Apart, Electric Motorcycle News
+
+Bring sunglasses for sure. 
+
+<br> 
+
+<https://www.rideapart.com/news/754476/honda-new-monkey-chrome-legacy/>
+
+---
+
+## The Folks That Build the AK-47 Are Back With Another Bike, and It's For the Ladies
+
+date: 2025-03-25, from: Ride Apart, Electric Motorcycle News
+
+The brand is better known for its firearms, but this isn't its first motorcycle, either. 
+
+<br> 
+
+<https://www.rideapart.com/news/754470/kalashnikov-izh-49-pink-bike/>
+
+---
+
+## More 3D-Printed Metal Parts Are Likely Coming to Your Motorcycle, Says Bosch
+
+date: 2025-03-25, from: Ride Apart, Electric Motorcycle News
+
+It should go without saying that this has some serious potential in the motorcycle world. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754352/bosch-investing-millions-metal-3d-printing/>
+
+---
+
+## Maui Nui Vension Is Solving Hawai'i's Deer Problem With Polaris UTVs and Thermal Scopes
+
+date: 2025-03-25, from: Ride Apart, Electric Motorcycle News
+
+The key to everything is balance, and that's what the company aims to do.  
+
+<br> 
+
+<https://www.rideapart.com/news/750014/hawaii-axis-deer-maui-nui-venison-utv-polaris-watch/>
+
+---
+
+## Something Big Is Coming for the Distinguished Gentleman’s Ride, Don’t Miss It
+
+date: 2025-03-24, from: Ride Apart, Electric Motorcycle News
+
+Here's what's happening and how you can make a difference. 
+
+<br> 
+
+<https://www.rideapart.com/news/754306/distinguished-gentlemans-ride-charity-fundraiser/>
+
+---
+
+## The Yamaha XSR125 Just Has To Be The Coolest Beginner Bike Out There
+
+date: 2025-03-24, from: Ride Apart, Electric Motorcycle News
+
+Made even cooler by these eye-catching colorways just launched in Japan.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754201/2025-yamaha-xsr125-new-colors-launched-japan/>
+
+---
+
+## Shoei Could Totally Own Social Media With Its New Anime Helmet Graphics
+
+date: 2025-03-24, from: Ride Apart, Electric Motorcycle News
+
+Did you have Hatsune Miku or Mobile Suit Gundam on your future helmet graphics bingo card? 
+
+<br> 
+
+<https://www.rideapart.com/news/754302/shoei-z8-helmet-anime-designs/>
+
+---
+
+## This Off-Road Motorcycle Race Just Got Cancelled Because of Pigs, No Really
 
 date: 2025-03-24, from: Ride Apart, Electric Motorcycle News
 

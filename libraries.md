@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-03-24 06:08:29
+updated: 2025-03-25 06:09:06
 ---
 
 # libraries
 
-(date: 2025-03-24 06:08:29)
+(date: 2025-03-25 06:09:06)
+
+---
+
+## Guest Post — Classification as Colonization: The Hidden Politics of Library Catalogs
+
+date: 2025-03-25, from: Scholarly Kitchen
+
+<p>The renaming of "Mount Denali" and "Gulf of Mexico" to the politically loaded “Mount McKinley" and "Gulf of America" reveal the naked truth of what cataloging has always been: a battlefield where meaning is contested and conquered.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/25/guest-post-classification-as-colonization-the-hidden-politics-of-library-catalogs/">Guest Post &#8212; Classification as Colonization: The Hidden Politics of Library Catalogs</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/25/guest-post-classification-as-colonization-the-hidden-politics-of-library-catalogs/>
 
 ---
 
@@ -18,6 +32,20 @@ Katkeviciute, Egle; Bircher, Anna; Sanchez, Rocio; Schwill, Martin; Dorst, Andre
 <br> 
 
 <http://hdl.handle.net/20.500.11850/726131>
+
+---
+
+## March 2025
+
+date: 2025-03-24, from: Association of Research Libraries News
+
+<p>Last Updated on March 24, 2025, 2:04 pm ET ARL Public Policy Briefing (March 2025) This issue includes: Access to Information ARL Advocates for Strong Support of US National Archives...</p>
+<p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/march-2025/">March 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/march-2025/>
 
 ---
 
