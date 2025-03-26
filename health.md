@@ -1,11 +1,95 @@
 ---
 title: health
-updated: 2025-03-25 06:09:08
+updated: 2025-03-26 06:08:15
 ---
 
 # health
 
-(date: 2025-03-25 06:09:08)
+(date: 2025-03-26 06:08:15)
+
+---
+
+## Symphony of the gut microbiota and endocannabinoidome: a molecular and functional perspective
+
+date: 2025-03-26, from: Frontiers in Cellular and Infection Microbiology
+
+This review examines the impact of interactions between the gut microbiota and the endocannabinoidome (eCBome) on health and disease, highlighting their significance for physiological and pathological processes. We identify key research gaps and challenges to advance the field. The review discusses the role of dietary patterns and physical activity in regulating these interactions. It also explores the complex nature of these interactions in conditions such as inflammatory bowel disease (IBD), depression, anxiety, Alzheimer’s disease (AD), and metabolic disorders. This analysis evaluates their contributions to disease onset and progression, and examines the molecular mechanisms and signaling pathways involved. From this, we provide forward-looking perspectives on future research directions, advocating for a more nuanced understanding of the gut microbiota–eCBome axis. We anticipate that future research will integrate gut microbiota–endocannabinoidome interactions into therapeutic strategies for a broad range of diseases. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1566290>
+
+---
+
+## Tick-borne encephalitis virus subtypes: mono- and mixed infection in specific and non-specific ticks
+
+date: 2025-03-26, from: Frontiers in Cellular and Infection Microbiology
+
+Tick-borne encephalitis virus (TBEV) is traditionally divided into three main subtypes – European (Eu), Siberian (Sib) and Far Eastern (FE), the distribution of which is confined to the areas of the main vectors, Ixodes ricinus (TBEV-Eu) and Ixodes persulcatus (TBEV-Sib, TBEV-FE). Dermacentor reticulatus also can act as competent vector and participate in TBEV circulation together with the main vectors. It is suggested that there is a specific adaptation not only between TBEV variant and certain tick species, but also between virus variant and local populations of one tick species. In our study, we percoxally infected two populations of I. ricinus, I. persulcatus and D. reticulatus collected in remote areas with three TBEV strains of the main subtypes. Dynamics of the number of TBEV RNA copies and of the number of infectious for mammalian cells virus particles during mono- and mixed infection of ticks were estimated by real-time PCR and plaque assay in PEK cell culture, respectively. Data was obtained that I. ricinus, I. persulcatus and D. reticulatus effectively support the reproduction of TBEV regardless of the strain. Interpopulation differences of local populations of one tick species in the maintenance of TBEV reproduction were revealed in I. persulcatus during mono- and mixed infection and in I. ricinus during mixed infection. Despite minor differences in the level of virus reproduction in ticks, we observed changes in the infectivity of TBEV strains for mammalian cell culture during persistence in different species of ticks. Notably, the TBEV-Eu increased infectivity during adaptation to a non-specific tick species. Thus, we demonstrated that the level of virus reproduction is not the primary factor that determines the adaptation of TBEV to a new tick species. The nature of changes in TBEV infectivity depends on the virus strain and the species of ticks. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1568449>
+
+---
+
+## Carbapenem-resistant Klebsiella pneumoniae infections in Chinese children: in vitro activities of ceftazidime-avibactam and aztreonam-avibactam against carbapenemase-producing strains in a two-center study
+
+date: 2025-03-26, from: Frontiers in Cellular and Infection Microbiology
+
+ObjectiveThis study assessed epidemiology characteristics, carbapenem-resistance genes, and drug resistance to ceftazidime-avibactam (CZA) and aztreonam-avibactam (AZA) in children with carbapenem-resistant Klebsiella Pneumoniae (CRKP) infections.MethodsA total of 363 non-repetitive CRKP strains were collected from children who underwent two tertiary children’s hospital between 1 January 2021 and 30 June 2024 in Chongqing and Kunming in Southwest China. Carbapenem resistance genes and antimicrobial susceptibility were analyzed. Basic clinical characteristics of the patients were obtained from medical records.ResultsblaNDM-5, blaNDM-1, and blaKPC-2 were the predominant carbapenemase genes; their detection rates were 35.8%, 30.3%, and 25.3%, respectively. Patients in the KPC-2-producing Klebsiella pneumoniae (KPC-KP) (median age, 90 days) were older than those producing NDM-1 and NDM-5 Klebsiella pneumoniae (NDM-KP) (median age, 37 days) (P < 0.05). The detection rate of NDM-KP in the neonatal unit was higher compared with KPC-KP (62.5% vs. 9.8%, P < 0.05), while the detection rate of NDM-KP in the intensive care unit (ICU) was decreased compared with KPC-KP (9.6% vs. 40.2%, P < 0.05). NDM-KP had lower resistance rates to aminoglycosides and fluoroquinolones than KPC-KP; the resistance rate of aminoglycosides and fluoroquinolones among NDM-KP and KPC-KP in Chongqing was increased compared with Kunming. The sensitivity rates of KPC-KP to CZA and NDM-KP to AZA were 100%, and the MIC50 of the CRKP to CZA and AZA were 2 μg/mL and 0.125μg/mL, respectively.ConclusionsThe epidemiological characteristics of Chinese children with CRKP infections, including the resistance genes and the antibiotic resistance of CRKP, exhibited significant variation between the two regions.KPC-KP strains had higher antimicrobial resistance in patients and thus should be given more attention in clinics and infection control. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1545999>
+
+---
+
+## Mouse models as a tool to study asymptomatic DENV infections
+
+date: 2025-03-26, from: Frontiers in Cellular and Infection Microbiology
+
+Asymptomatic outcome accounts for most dengue virus infections and is likely to play an important role in maintaining virus circulation, contributing to its dissemination and shortening inter-epidemic periods. While dengue immunopathogenesis, investigation of potential therapeutics, and vaccine efficacy have been widely studied, only recently have inapparent infections begun to be comprehensively addressed as an integral and important part of the puzzle that is dengue infection. Animal models are one of the tools utilized to study dengue and, among these, mouse models have played an important role in understanding both dengue pathogenesis and the hosts’ initial immune response. However, these models have mostly focused on untangling the drivers of disease severity ignoring asymptomatic dengue virus infections. In this mini-review, the authors propose to provide a concise overview of the current state-of-the-art of existing mouse models with potential use for studying asymptomatic dengue virus infections, elaborating on the pros and cons of the several models. Variations in experimental conditions, such as altering the viral load of the inoculum or employing different virus entry routes, especially in mice with partial or transient blockade of the type I interferon response, might be sufficient to obtain both symptomatic and asymptomatic viremic mice. This would enable the study of factors involved in asymptomatic dengue virus infections. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1554090>
+
+---
+
+## HPV and co-infections: impacts on semen inflammation, oxidative stress, and sperm quality
+
+date: 2025-03-26, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionHuman papillomavirus (HPV) is the most common sexually transmitted viral infection worldwide, which has been suggested to induce male urogenital inflammation and affect fertility. However, reported evidence is scarce and inconclusive. Moreover, the putative effects of coinfections remain largely unexplored. This study aimed to analyze HPV male urogenital infection, both as a single infection and in conjunction with other common uropathogens, along with its impact on inflammatory biomarkers in semen, oxidative stress and sperm quality.MethodsThe prevalence of HPV urogenital infection and its coinfection with several other uropathogens was analyzed in a cohort of 205 men attending a urology clinic. Furthermore, levels of sperm leukocyte subsets and inflammatory cytokines, semen analysis, sperm apoptosis and necrosis, and sperm ROS production were assessed.ResultsA considerable prevalence (19%) of HPV male urogenital infection was found. Interestingly, HPV was detected coinfecting with at least one other uropathogen in most cases (74.4%). Notably, the most frequently detected coinfection was C. trachomatis (CT, 52% of cases). Remarkably, patients solely infected with HPV showed no significant alterations in conventional sperm quality parameters as well as reduced concentrations of IL-6 and leukocytes in semen. However, patients coinfected with HPV and CT showed significantly impaired sperm concentration and motility and increased levels of IL-6 in semen.ConclusionThese results indicate that HPV infection alone does not associate with semen inflammation or major changes in sperm quality. However, co-infection with CT is associated with both semen inflammation and reduced sperm quality. This indicates that, besides being prevalent, concurrent HPV and CT infections in semen may represent a unique clinical entity with particular characteristics. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1539871>
+
+---
+
+## Mechanisms and genetic mutations of pyrethroid resistance in Aedes albopictus in the context of urbanization: a case study of Hangzhou, China
+
+date: 2025-03-25, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe Asian tiger mosquito (Aedes albopictus) serves as a globally significant vector for arboviruses such as dengue, chikungunya, and Zika. The extensive application of pyrethroid insecticides has led to a growing resistance in Ae. albopictus populations, thereby compromising mosquito control initiatives. This study examines the mechanisms underlying pyrethroid resistance and the related genetic mutations in Ae. albopictus within the framework of urbanization, with the objective of informing the development of effective control strategies.MethodsAe. albopictus larvae were sampled from five districts in Hangzhou, China, each characterized by different levels of urbanization. Resistance to beta-cypermethrin and permethrin were evaluated utilizing the World Health Organization (WHO) tube test methodology. Molecular analyses were conducted to identify mutations in the voltage-gated sodium channel (VGSC) gene, with a specific focus on the F1534S mutation. The data were subjected to statistical analysis using Fisher’s exact test, chi-square test, and Pearson correlation to assess the relationship between resistance levels and urbanization.ResultsPopulations of Ae. albopictus in Hangzhou demonstrated substantial resistance to pyrethroids, with mortality rates falling below 90%. Notably, the Binjiang District exhibited the lowest mortality rates, with 20.55% for beta-cypermethrin and 21.21% for permethrin, whereas Chun’an County displayed relatively higher mortality rates of 32.00% and 47.28%, respectively. The F1534S mutation was predominantly observed, with homozygous (S/S) mutations constituting 87.78% and 83.29% of the populations exposed to beta-cypermethrin and permethrin, respectively. Chi-square analyses confirmed a significant association between the F1534S mutation and resistance (P < 0.01). Furthermore, no significant correlation was identified between resistance levels and urbanization rates (P > 0.05), indicating that urbanization is not a primary factor contributing to resistance.ConclusionThe F1534S mutation is pivotal in conferring pyrethroid resistance in Ae. albopictus. To enhance the effectiveness of mosquito control strategies, it is imperative to incorporate resistance monitoring, insecticide rotation, and non-chemical approaches. Additionally, further research is warranted to investigate alternative resistance mechanisms and the influence of urbanization on mosquito ecology. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1566942>
+
+---
+
+## Epicatechin gallate and its analogues interact with sortase A and β-lactamase to suppress Staphylococcus aureus virulence
+
+date: 2025-03-25, from: Frontiers in Cellular and Infection Microbiology
+
+Staphylococcus aureus sortase A can anchor virulence proteins, which are responsible for bacterial adhesion, biofilm formation, and inflammation, to the cell membrane surface. The ability of β-lactam antibiotics to combat S. aureus infections is limited by the presence of β-lactamases in this pathogen. In this study, we determined that epicatechin gallate (ECG) and its analogues inhibited the transpeptidase activity of sortase A by interacting with it directly, and the biofilm formation and adhesion abilities of the bacterium decreased after treatment with ECG and its analogues. Additionally, ECG bound to β-lactamase and reduced its ability to hydrolyze nitrocefin. Furthermore, ECG synergized with ampicillin (Amp), enhancing its bactericidal effects and inhibiting the formation of persisters. ECG did not affect the expression of sortase A or β-lactamase but significantly alleviated the cytotoxicity of S. aureus USA300. ECG alone or combined with Amp in vivo improved the survival of mice infected with S. aureus USA300, alleviated pathological tissue damage and pulmonary edema, and reduced the extent of inflammation and level of colonization. The results of this study indicate that the active ingredients of green tea, especially ECG, have the potential to be developed as anti-S. aureus infection agents. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1537564>
 
 ---
 

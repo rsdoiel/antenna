@@ -1,11 +1,558 @@
 ---
 title: columns
-updated: 2025-03-25 06:09:03
+updated: 2025-03-26 06:08:11
 ---
 
 # columns
 
-(date: 2025-03-25 06:09:03)
+(date: 2025-03-26 06:08:11)
+
+---
+
+## Coming Up:  More History
+
+date: 2025-03-26, from: Doc Searls (at Harvard), New Old Blog
+
+And what will we call it? What becomes of democracy when it seems everybody has been herded into separate and opposed algorithmically assembled and maintained tribes, and when most of tech is run by oligarchs (for a few years while tech oligarchy stays a thing), and every status quo will prove transient in a Digital [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/26/coming-up-more-history/>
+
+---
+
+## AI Data Poisoning
+
+date: 2025-03-26, updated: 2025-03-25, from: Bruce Schneier blog
+
+<p>Cloudflare has a <a href="https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/">new feature</a>&#8212;available to free users as well&#8212;that uses AI to generate random pages to feed to AI web crawlers:</p>
+<blockquote><p>Instead of simply blocking bots, Cloudflare&#8217;s new system lures them into a &#8220;maze&#8221; of realistic-looking but irrelevant pages, wasting the crawler&#8217;s computing resources. The approach is a notable shift from the standard block-and-defend strategy used by most website protection services. Cloudflare says blocking bots sometimes backfires because it alerts the crawler&#8217;s operators that they&#8217;ve been detected.</p>
+<p>&#8220;When we detect unauthorized crawling, rather than blocking the request, we will link to a series of AI-generated pages that are convincing enough to entice a crawler to traverse them,&#8221; writes Cloudflare. &#8220;But while real looking, this content is not actually the content of the site we are protecting, so the crawler wastes time and resources.&#8221;...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/ai-data-poisoning.html>
+
+---
+
+## 23
+
+date: 2025-03-26, from: Paolo Valdemarin's blog
+
+Not that it matters much, but it’s yet another anniversary of my first post. 
+
+<br> 
+
+<https://val.demar.in/2025/03/23-2/>
+
+---
+
+## 2025-03-20 Something about the bot defence is working
+
+date: 2025-03-26, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-20-something-about-the-bot-defence-is-working">2025-03-20 Something about the bot defence is working</h1>
+
+<p>At midnight, there was a surge in activity.
+CPU usage went up.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-1.jpg" alt="" /></p>
+
+<p>Load went up, too. But it stayed within reasonable bounds &ndash; less than 4 instead of the more than 80 I have seen in the past.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-2.jpg" alt="" /></p>
+
+<p>And the number of IP addresses blocked by <code>fail2ban</code> went from 40 to 50.</p>
+
+<p><img loading="lazy" src="2025-03-20-bot-defence-3.jpg" alt="" /></p>
+
+<p>I&rsquo;m usually sceptical of this because the big attacks are from a far wider variety of IP numbers.
+In this case, however, maybe there was some probing that resulted in blocks? I don&rsquo;t know. Lucky, I guess?</p>
+
+<p>In any case, the site is still up. Yay for small wins.</p>
+
+<p>Also, I cannot overstate how good it feel to have some <a href="https://munin-monitoring.org/">Munin</a> graphs available.</p>
+
+<p><code>alex-bots</code> is a setup I desribed in <a href="2025-02-19-bots-again">2025-02-19 Bots again, cursed</a>.
+Basically a request to one of my Oddmuse wikis containing the parameter <code>rcidonly</code> is an expensive endpoint: &ldquo;all changes for this single page&rdquo; or &ldquo;a feed for this single page&rdquo;. This is something a human would rarely access and yet it somehow the URLs landed in some dataset for AI training, I suspect. So what I do is I’m redirecting any request containing “rcidonly” in the query string to <code>/nobots</code>, warning humans not to click on these links.</p>
+
+<p>In addition to that, the filter <code>/etc/fail2ban/filter.d/alex-bots.conf</code> contains this:</p>
+
+<pre><code>[Definition]
+failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
+</code></pre>
+
+<p>And I added a section using this filter to my jail <code>/etc/fail2ban/jail.d/alex.conf</code>:</p>
+
+<pre><code>[alex-bots]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 3600
+maxretry = 2
+</code></pre>
+
+<p>So if an IP number visits three URLs containing &ldquo;rcidonly&rdquo; in an hour, they get banned for ten minutes.</p>
+
+<p>The <code>recidive</code> filter (a standard filter you just need to activate) then makes sure that any IP number that got blocked three times gets blocked for a week.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<p><strong>2025-03-20</strong>. Ever since Drew DeVault published his blog post, more people seem to notice what&rsquo;s going on: AI ingestion is killing web sites and web services.</p>
+
+<blockquote>
+<p>If you think these crawlers respect <code>robots.txt</code> then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, <code>robots.txt</code> be damned, including expensive endpoints like git blame, every page of every git log, and every commit in every repo, and they do so using random User-Agents that overlap with end-users and come from tens of thousands of IP addresses – mostly residential, in unrelated subnets, each one making no more than one HTTP request over any time period we tried to measure – actively and maliciously adapting and blending in with end-user traffic and avoiding attempts to characterize their behavior or block their traffic. &ndash; <a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html">Please stop externalizing your costs directly into my face</a>, by Drew DeVault, for SourceHut</p>
+
+<p>Then, yesterday morning, KDE GitLab infrastructure was overwhelmed by another AI crawler, with IPs from an Alibaba range; this caused GitLab to be temporarily inaccessible by KDE developers. I then discovered that, one week ago, an Anime girl started appearing on the GNOME GitLab instance, as the page was loaded. It turns out that it&rsquo;s the default loading page for Anubis, a proof-of-work challenger that blocks AI scrapers that are causing outages. &ndash; <a href="https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Niccolò Venerandi, for LibreNews</p>
+
+<p>What do SourceHut, GNOME’s GitLab, and KDE’s GitLab have in common, other than all three of them being forges? Well, it turns out all three of them have been dealing with immense amounts of traffic from “AI” scrapers, who are effectively performing DDoS attacks with such ferocity it’s bringing down the infrastructures of these major open source projects. Being open source, and thus publicly accessible, means these scrapers have unlimited access, unlike with proprietary projects. … Everything about this “AI” bubble is gross, and I can’t wait for this bubble to pop so a semblance of sanity can return to the technology world. Until the next hype train rolls into the station, of course. &ndash; <a href="https://www.osnews.com/story/141969/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Thom Holwerda, for OSnews</p>
+</blockquote>
+
+<p><strong>2025-03-22</strong>. Ordinary sysadmins get hit as well. Here&rsquo;s Sean Conner of the The Boston Diaries: He reports on <a href="https://boston.conman.org/2025/03/21">Friday, March 21, 2025</a> that his logs show a total of 468439 requests for February 2025. The top hitter was 4.231.104.62 with 43242 requests (9%). This was from MICROSOFT-CORP-MSN-AS-BLOCK, US. But the ASN has more networks, of course. Adding them all up give 78889 (17%).</p>
+
+<p>He links to the <a href="https://www.team-cymru.com/ip-asn-mapping">IP to ASN Mapping Service</a> by Team Cymru. I started switching my <a href="/admin/network-lookup">network-lookup</a> script to using it because it also supports IPv6. Something that I haven&rsquo;t done is find the ASN and then block all the blocks belonging to the ASN. That&rsquo;s where I want to be, actually.</p>
+
+<p><strong>2025-03-26</strong>. More media are picking it up, but with a strange focus on &ldquo;open source&rdquo;.</p>
+
+<blockquote>
+<p>As it currently stands, both the rapid growth of AI-generated content <a href="https://www.404media.co/ai-slop-is-a-brute-force-attack-on-the-algorithms-that-control-reality/">overwhelming</a> online spaces and aggressive web-crawling practices by AI firms threaten the sustainability of essential online resources. The current approach taken by some large AI companies—<a href="https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again">extracting</a> vast amounts of data from open-source projects without clear consent or compensation—risks severely damaging the very digital ecosystem on which these AI models depend. &ndash; <a href="https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/">Open Source devs say AI crawlers dominate traffic, forcing blocks on entire countries</a>, by Benj Edwards, for Ars Technica</p>
+</blockquote>
+
+<p><a class="account" href="https://mastodon.social/@bagder" title="@bagder@mastodon.social">@bagder</a> recently had some numbers:</p>
+
+<blockquote>
+<p>The AI bots that desperately need OSS for code training, are now slowly killing OSS by overloading every site.
+The curl website is now at 77TB/month, or 8GB every five minutes.</p>
+</blockquote> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-20-bot-defence>
+
+---
+
+## Office Hours: Who’s really pulling the strings?
+
+date: 2025-03-26, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-whos-really-pulling>
+
+---
+
+## March 25, 2025
+
+date: 2025-03-26, from: Heather Cox Richardson blog
+
+On March 25, 1911, Frances Perkins was visiting with a friend who lived near Washington Square in New York City when they heard fire engines and screams. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-25-2025>
+
+---
+
+## Wednesday 26 March, 2025
+
+date: 2025-03-26, from: John Naughton's online diary
+
+Light, shade, colour I tried this in black and white, but it works better in colour. Quote of the Day ”People do not expect to find chastity in a whorehouse. Why, then, do they expect to find honesty and humanity &#8230; <a href="https://memex.naughtons.org/wednesday-26-march-2025/40599/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-26-march-2025/40599/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I do keep a balanced diet, my carbs do come from wine.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114225874024301326>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-26, from: Miguel de Icaza Mastondon feed)
+
+<p>I had not seen the iOS design leaks until now, but we had already budgeted “summer to sync the UI design language”</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114225868073216429>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-25, from: Miguel de Icaza Mastondon feed)
+
+<p>The low carb diet will continue until morale improves</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114225753520858203>
+
+---
+
+## Of Course Trump Has Surrounded Himself With Idiots This Time Around
+
+date: 2025-03-25, updated: 2025-03-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.goodreads.com/work/quotes/23497-the-origins-of-totalitarianism>
+
+---
+
+## A fitting monument to Trump?
+
+date: 2025-03-25, from: Robert Reich's blog
+
+What the American Revolution was fought to prevent 
+
+<br> 
+
+<https://robertreich.substack.com/p/a-fitting-monument-to-trump>
+
+---
+
+##  The Frick Collection is back open after a five-year closure for a... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046509-the-frick-collection-is-b>
+
+---
+
+## Notification Summary Miscues
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/20/erroneous-notification-summaries/>
+
+---
+
+## March 24, 2025
+
+date: 2025-03-25, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159863389/cfdea88e8e1dee2c2dd45bcaa7e7d354.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159863389/cfdea88e8e1dee2c2dd45bcaa7e7d354.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-24-2025-69e>
+
+---
+
+##  Russian hackers find ways to snoop on Ukrainian Signal accounts. (Hmm, 18... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046518-russian-hackers-find-ways>
+
+---
+
+## OPSEC Isn’t Even the Worst Part of ‘SignalGate’
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://talkingpointsmemo.com/edblog/signalgate-is-bad-but-opsec-isnt-even-the-worst-part-of-it>
+
+---
+
+## The Problem Is Far More Than Just Whether Signal Is ‘Secure’
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.politico.com/news/2025/03/25/signal-cybersecurity-trump-war-planning-00246881?cid=apn>
+
+---
+
+##  McSweeney&#8217;s is documenting the &#8220;cruelties, collusions, corruptions, and crimes&#8221; of the 2nd... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046516-mcsweeneys-is-documenting>
+
+---
+
+## Days After the Trump National Security Team’s Signal Leak, the Pentagon Warned That Russian Hackers Are Using Phishing Attacks to Abuse Signal’s ‘Linked Devices’ Feature
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.npr.org/2025/03/25/nx-s1-5339801/pentagon-email-signal-vulnerability>
+
+---
+
+## New York Post: ‘European Union to Fine Meta Up to $1B or More for Breaching DMA’
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://nypost.com/2025/03/24/business/european-union-to-fine-meta-up-to-1b-or-more-for-breaching-digital-markets-act-sources/>
+
+---
+
+## Reuters Reports European Commission Will Decline to Fine Apple Over Browser Choice Screen, But Hints It Will Over Anti-Steering Provisions
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/technology/eu-set-close-investigation-into-apples-browser-options-sources-say-2025-03-25/>
+
+---
+
+## Bijan on the blog again
+
+date: 2025-03-25, from: Om Malik blog
+
+Bijan Sabet is one of the people in our industry I admire ardently. His work ethic, moral conviction, and understanding of himself have made him a joy. We served together on the board of Academia, where I learned much by observing his combination of empathy and steely resolve. He left to become U.S. ambassador to &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/25/bijan-on-the-blog-again/>
+
+---
+
+##  World Athletics, the international governing body for athletics (track & field, etc.),... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046513-world-athletics-the-inter>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-25, from: Miguel de Icaza Mastondon feed)
+
+<p>This sandwich is only available this week.</p><p>I am furiously trying to book a baby sitter so we can handle this emergency.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114224588618693244>
+
+---
+
+##  The Harriet Tubman $20 Stamp 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/the-harriet-tubman-20-stamp-1>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-25, from: Miguel de Icaza Mastondon feed)
+
+<p>New favorite sandwich at Parish Cafe</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114224521479752458>
+
+---
+
+## ReactOS emits release 0.4.15 – its first since 2021
+
+date: 2025-03-25, updated: 2025-03-25, from: Liam Proven's articles at the Register
+
+<h4>An impressive recreation of the Windows golden age</h4>
+      <p>The ReactOS project is putting out a point-release for the first time in a few years, and this insanely optimistic effort is making progress.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/25/reactos_drops_release_0415/>
+
+---
+
+##  A judge chastised vandals of a Paddington Bear statue: &#8220;His famous label... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046512-a-judge-chastised-vandals>
+
+---
+
+## WWDC 2025 Dates: June 9–13
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/newsroom/2025/03/apples-worldwide-developers-conference-returns-the-week-of-june-9/>
+
+---
+
+##  Long waits, waves of calls, website crashes: Social Security is breaking down.... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046510-long-waits-waves-of-calls>
+
+---
+
+## ★ It Might Be Time for Me to Collect Some Being Right Points for My 2023 Bluesky Prediction
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+Bluesky is what Twitter of yore aspired to be. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/bluesky_being_right_points>
+
+---
+
+##  The Bully Lie 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/the-bully-lie>
+
+---
+
+## Why Social Security is in the worst crisis since its 1935 founding, and what you can do about it
+
+date: 2025-03-25, from: Robert Reich's blog
+
+Hint: Not because it&#8217;s running out of money, nor fraud, nor administrative costs. 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-social-security-is-in-the-worst>
+
+---
+
+##  What the Press Got Wrong About Hitler. This &#8220;comical figure&#8221; was regularly... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046507-what-the-press-got-wrong>
+
+---
+
+## Threads Is Losing to Bluesky
+
+date: 2025-03-25, updated: 2025-03-25, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://birchtree.me/blog/meta-has-squandered-threads/>
+
+---
+
+##  Oscar-winning Palestinian director Hamdan Ballal (No Man&#8217;s Land) was attacked by a... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046506-oscar-winning-palestinian>
+
+---
+
+## There They Go
+
+date: 2025-03-25, from: Doc Searls (at Harvard), New Old Blog
+
+Also, killing surveillance, finally, maybe. Kaliya lays out some good themes for IIW. My faves: S__olving the identities of AI agents and Proof of Personhood and First Person Credentials. Unsubscribe now and skip the 7-day free trial. Is there a term of art for Substack newsletters that hide half of what&#39;s written behind a tease-wall? (Maybe &#34;teasewall&#34; [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/25/there-they-go/>
+
+---
+
+##  The expanding size of American cars over the past few decades is... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046505-the-expanding-size-of-ame>
+
+---
+
+##  A recent study found that Black Lives Matter protests had a &#8220;significant... 
+
+date: 2025-03-25, updated: 2025-03-25, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046501-a-recent-study-found-that>
 
 ---
 

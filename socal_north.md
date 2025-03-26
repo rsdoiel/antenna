@@ -1,11 +1,182 @@
 ---
 title: socal north
-updated: 2025-03-25 06:09:01
+updated: 2025-03-26 06:08:08
 ---
 
 # socal north
 
-(date: 2025-03-25 06:09:01)
+(date: 2025-03-26 06:08:08)
+
+---
+
+## Unused pools in LA fire burn scars could turn into mosquito breeding grounds
+
+date: 2025-03-26, updated: 2025-03-26, from: The LAist
+
+Vector control officials are in the process of treating hundreds of unmaintained pools. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-wildfire-mosquito-pool-altadena-palisades>
+
+---
+
+## LA County approves $908 million in spending to curb homelessness
+
+date: 2025-03-26, updated: 2025-03-26, from: The LAist
+
+The first budget allocating Measure A sales tax funds also includes cuts to services. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-approves-spending-to-curb-homelessness-measure-a>
+
+---
+
+## What immigration enforcement at Columbia and other universities means for SoCal campuses
+
+date: 2025-03-26, updated: 2025-03-26, from: The LAist
+
+Advocates on and off campus are preparing to help international students. 
+
+<br> 
+
+<https://laist.com/news/education/immigration-enforcement-columbia-mahmoud-khalil-ucla-cair>
+
+---
+
+## When will Palisades students return to burned-down campuses?
+
+date: 2025-03-26, updated: 2025-03-26, from: The LAist
+
+Palisades Charter High School plans to temporarily move students to a former Santa Monica department store while elementary students share campuses. 
+
+<br> 
+
+<https://laist.com/news/education/palisades-fire-los-angeles-unified-school-district>
+
+---
+
+## Watch NPR, PBS leaders testify before Congress on federal funding
+
+date: 2025-03-26, updated: 2025-03-26, from: The LAist
+
+Cuts from the Corporation for Public Broadcasting would affect NPR stations across the U.S., big and small. 
+
+<br> 
+
+<https://laist.com/news/politics/npr-pbs-leaders-congress-hearing-federal-funding-laist>
+
+---
+
+## Hot weather remains for deserts, cooler weather for rest of SoCal
+
+date: 2025-03-26, updated: 2025-03-26, from: The LAist
+
+A cooling trend is in store for the rest of the week with today's highs in the mid 70s for Southern California. Desert areas will continue to see high temperatures in the 90s. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/socal-weather-cool-warm-deserts>
+
+---
+
+## LA has big plans to recycle more water. Why the city says it’s going to take decades to do it
+
+date: 2025-03-26, updated: 2025-03-26, from: The LAist
+
+L.A. has touted its goal to recycle all its wastewater by 2035. Now that timeline has been pushed back 20 years. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/los-angeles-recycle-water-city-decades-wastewater>
+
+---
+
+## USC orders cuts and hiring freezes in face of federal scrutiny, budget problems
+
+date: 2025-03-26, updated: 2025-03-26, from: The LAist
+
+The cost cutting begins immediately and includes a hiring freeze, fewer faculty hires and no merit increases. 
+
+<br> 
+
+<https://laist.com/news/education/university-of-southern-california-cuts-and-hiring-freezes>
+
+---
+
+## Republican lawmakers seek to put PBS and NPR in the hot seat
+
+date: 2025-03-25, updated: 2025-03-26, from: The LAist
+
+A House subcommittee led by Rep. Marjorie Taylor Greene and named after Elon Musk's government-efficiency team has set its sights on the public broadcasters. 
+
+<br> 
+
+<https://laist.com/news/republican-lawmakers-seek-to-put-pbs-and-npr-in-the-hot-seat>
+
+---
+
+## Need immigration help? Start at the LA public library
+
+date: 2025-03-25, updated: 2025-03-25, from: The LAist
+
+The New American Initiative offers assistance with DACA renewals, green card applications and citizenship classes. 
+
+<br> 
+
+<https://laist.com/news/politics/la-public-library-free-immigration-services>
+
+---
+
+## Rural California schools and roads lose millions in federal funding after latest cuts
+
+date: 2025-03-25, updated: 2025-03-25, from: The LAist
+
+Last year, the nationwide total was $253 million, barely a blip in the overall federal budget, but a crucial funding source for rural communities that have limited options for raising revenue. 
+
+<br> 
+
+<https://laist.com/news/education/rural-california-schools-and-roads-lose-millions-in-federal-funding-after-latest-cuts>
+
+---
+
+## LA City Council votes to explore seizing control of LAHSA spending
+
+date: 2025-03-25, updated: 2025-03-25, from: The LAist
+
+Councilmember Monica Rodriguez called the homeless service agency a 'sinking Titanic.' 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/lahsa-city-council-vote-plan-seize-funding>
+
+---
+
+## 16-Year-Old Teen Girl Reported Missing in Lancaster
+
+date: 2025-03-25, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="618" height="800" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/MissingJuvenileLancaster.jpg?fit=618%2C800&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/MissingJuvenileLancaster.jpg?w=618&amp;ssl=1 618w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/MissingJuvenileLancaster.jpg?resize=232%2C300&amp;ssl=1 232w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/MissingJuvenileLancaster.jpg?resize=400%2C518&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/MissingJuvenileLancaster.jpg?fit=618%2C800&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LANCASTER (CNS) &#8211; Los Angeles County Sheriff&#8217;s Department investigators today are seeking the public&#8217;s help in locating a 16-year-old girl who was last seen in Lancaster. Isis Abbey Leia Valenzuela [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/25/16-year-old-teen-girl-reported-missing-in-lancaster/">16-Year-Old Teen Girl Reported Missing in Lancaster</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/25/16-year-old-teen-girl-reported-missing-in-lancaster/>
+
+---
+
+## Pomeranian rescued from Palisades Fire inspires state bill to protect pets in disasters
+
+date: 2025-03-25, updated: 2025-03-25, from: The LAist
+
+The bill would require cities and counties to have plans in place for rescuing pets in mandatory evacuation zones. 
+
+<br> 
+
+<https://laist.com/news/politics/pomeranian-rescued-palisades-fire-california-bill-pets-disasters>
 
 ---
 
@@ -147,7 +318,7 @@ With no help from the federal government, states are trying to regulate recreati
 
 date: 2025-03-24, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/Pacoimaexplosion-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>PACOIMA (CNS) &#8211; A police investigation is continuing today into what caused an explosion in a Pacoima neighborhood that blew up a house and led to evacuations. Most residents of [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/03/24/most-evacuees-home-after-controlled-burn-at-pacoima-home-involved-in-explosion/">   Most Evacuees Home After Controlled Burn at Pacoima Home Involved in Explosion</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

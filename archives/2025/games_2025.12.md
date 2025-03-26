@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-03-25 06:09:04
+updated: 2025-03-26 06:08:12
 ---
 
 # games
 
-(date: 2025-03-25 06:09:04)
+(date: 2025-03-26 06:08:12)
+
+---
+
+## The RTX 5090 is the best and most unnecessary GPU you can buy
+
+date: 2025-03-26, updated: 2025-03-25, from: Polygon Website
+
+The most powerful graphics card you can buy right now is actually pretty worthless if you don’t have the right PC gaming setup. Nvidia’s GeForce RTX 5090 is at its best when paired with a 4K monitor that can reach high refresh rates, like 144 Hz or 240 Hz. Anything less than that diminishes the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/545482/rtx-5090-review-nvidia-graphics-card-gpu>
+
+---
+
+## A24’s Death of a Unicorn finally gets the ‘Jurassic Park horror’ riff right
+
+date: 2025-03-26, updated: 2025-03-25, from: Polygon Website
+
+Jurassic Park is a horror franchise. Though it’s best remembered for its sense of awe and groundbreaking visual effects, Steven Spielberg’s Oscar-winning 1993 movie is also a scary gorefest, with brutal kills and plenty of dino jump scares. This is an element of that original winning formula that the reboot trilogy lacked: the horror influences [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/542759/death-of-a-unicorn-a24-jurassic-park-comparison>
+
+---
+
+## Kaiserpunk melds multiple genres while succeeding in none
+
+date: 2025-03-26, updated: 2025-03-25, from: Polygon Website
+
+When Kaiserpunk was announced a couple of years ago, I couldn’t contain my excitement. Having played numerous strategy games in the past, the notion of combining concepts from city-building management sims, 4X strategy, and grand warfare, all wrapped up in an alternate post-World War I timeline, seemed too good to be true. Regrettably, it surely [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/546592/kaiserpunk-review-pc>
+
+---
+
+## The best REPO mods
+
+date: 2025-03-25, updated: 2025-03-25, from: Polygon Website
+
+There are a lot of mods for multiplayer horror game REPO, some adding quality-of-life changes or enhancements to multiplayer and some completely changing how you may play the game. Pretty much all of the REPO mods are hosted on Thunderstore, and you can use either the Thunderstore app or the r2modman mod manager to easily [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/546341/best-repo-mods-more-players-heads-upgrades-hd>
+
+---
+
+## What is the Destiny 2 raid and dungeon rotation this week?
+
+date: 2025-03-25, updated: 2025-03-25, from: Polygon Website
+
+Learning the raid and dungeon rotation in Destiny 2 is great for farming loot you don’t have yet, and for increasing your Power in Destiny 2. As of the Episode: Revenant update in October 2024, Bungie showcases which activity is featured (via an icon on the map), and there are now two featured raids and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/24140653/raid-dungeon-rotation-this-week-calendar-schedule>
+
+---
+
+## Armor locations list in Assassin’s Creed Shadows
+
+date: 2025-03-25, updated: 2025-03-25, from: Polygon Website
+
+Armor is your primary means of staying safe (and stylish!) in Assassin’s Creed Shadows. You’ll expand both Naoe’s and Yasuke’s wardrobes as you play, through a mix of natural main story progression and exploration. Each armor piece can improve each character’s health and other stats, while some also feature powerful passive perks. As such, it’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/541239/armor-sets-all-list-locations-how-to-get>
+
+---
+
+## How to get tranq bombs in Monster Hunter Wilds
+
+date: 2025-03-25, updated: 2025-03-25, from: Polygon Website
+
+Tranq bombs are a hunting item in Monster Hunter Wilds that allow you to capture monsters instead of killing them. Monster Hunter Wilds gives hunters the option to capture monsters without killing them. For certain quests, like “New Ecosystems,” the game requires you to catch a monster instead of slaying it. To learn how to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/542544/tranq-bombs-how-to-get-craft>
+
+---
+
+## ‘The Stray Dogs’ walkthrough and Kanzashi location in Assassin’s Creed Shadows
+
+date: 2025-03-25, updated: 2025-03-25, from: Polygon Website
+
+“The Stray Dogs” is the final quest you’ll need to complete to recruit Yaya the monk as an ally in Assassin’s Creed Shadows. In it, you need to find a Kanzashi that was stolen by a guy named Tetsuo. In this Assassin’s Creed Shadows guide, we’ll give you a full “Stray Dogs” quest walkthrough, including [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/546479/stray-dogs-walkthrough-kanzashi-location-where-to-find>
+
+---
+
+## Helldivers 2 players are growing tired of fighting the slippery squids
+
+date: 2025-03-25, updated: 2025-03-25, from: Polygon Website
+
+Helldivers 2 players have had to make some tough choices in the past few months, and the Meridia Singularity is continuing to advance on Super Earth, consuming whatever unfortunate planets lie in its wake. The Galactic War continues apace, but Arrowhead has encountered one problem: Players aren’t interested in fighting the game’s third faction, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/546218/helldivers-2-players-avoid-squids-hate-illuminate>
+
+---
+
+## Watch Witch Watch’s new trailer for some witchy watchiness
+
+date: 2025-03-25, updated: 2025-03-25, from: Polygon Website
+
+If you have been craving some good witch content, look no further. Magical romantic comedy anime Witch Watch is all about a Nico, a young witch in high school. Sure, there’s a dire prophecy hanging over her foretelling some cataclysmic events… but that just means she gets to move in with her handsome childhood friend [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/546576/witch-watch-trailer-english-dub-release-date>
 
 ---
 

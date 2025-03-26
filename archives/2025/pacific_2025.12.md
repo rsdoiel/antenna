@@ -1,11 +1,502 @@
 ---
 title: pacific
-updated: 2025-03-25 06:09:02
+updated: 2025-03-26 06:08:09
 ---
 
 # pacific
 
-(date: 2025-03-25 06:09:02)
+(date: 2025-03-26 06:08:09)
+
+---
+
+## American Samoa delegate backs proposal to keep ocean monitors 
+
+date: 2025-03-26, from: Pacific Island Times
+
+As a coastal territory, American Samoa relies on scientific ocean data as predictive tools for its economic policy decisions and weather res 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/american-samoa-delegate-backs-proposal-to-keep-ocean-monitors>
+
+---
+
+## PBS and NPR prepare for showdown with Congress
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>PBS is practicing answers with lawyers. NPR executives are preparing to monitor the fallout. Members of Congress are promoting the star witnesses &#8212; the leaders of the two public media networks &#8212; as if they were combatants in a prizefight.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/pbs-and-npr-prepare-for-showdown-with-congress/>
+
+---
+
+## Leak of Signal chat poses early test for FBI and Justice Dept.
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; In years past, the move by senior members of President Donald Trump&#8217;s administration to share defense secrets over the Signal messaging app would have represented a serious breach that would have likely prompted investigations by the FBI and the Justice Department&#8217;s national security division.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/leak-of-signal-chat-poses-early-test-for-fbi-and-justice-dept/>
+
+---
+
+## A monument for Vietnam vets planned for school in Kona
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>Clyde Brumaghim, 73, is very proud of growing up in Kona, and especially proud to be a Wildcat, graduating from Konawaena High School with the Class of 1969.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/hawaii-news/a-monument-for-vietnam-vets-planned-for-school-in-kona/>
+
+---
+
+## Stagflation on the radar for the US economy, but no repeat of the ’70s
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Recent economic projections from Federal Reserve officials had shades of &#8220;Stagflation-lite,&#8221; in the words of one economist, a sentiment increasingly echoed among other observers of the U.S. economy and central bank wondering if the country&#8217;s outperformance during the pandemic is about to slide.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/stagflation-on-the-radar-for-the-us-economy-but-no-repeat-of-the-70s/>
+
+---
+
+## Trump signs election order calling for proof of US citizenship to vote
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON (Reuters) &#8212; U.S. President Donald Trump signed an executive order on Tuesday that would require voters to prove they are U.S. citizens and attempts to prevent states from counting mail-in ballots received after Election Day. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/trump-signs-election-order-calling-for-proof-of-us-citizenship-to-vote/>
+
+---
+
+## News in brief for March 26
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>Shooter who killed 23 in Texas will avoid the death penalty</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/news-in-brief-for-march-26/>
+
+---
+
+## Trump cuts hit struggling food banks, risking hunger for low-income Americans
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Food banks across the country, already strained by rising demand, say they will have less food to distribute because of at least $1 billion in federal funding cuts and pauses by the Trump administration, according to Reuters interviews with organizations in seven states.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/trump-cuts-hit-struggling-food-banks-risking-hunger-for-low-income-americans/>
+
+---
+
+## Professors sue Trump administration over arrests of campus protesters
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>Groups representing university professors sued the Trump administration on Tuesday, alleging that its practice of arresting and threatening noncitizen students and faculty members for protesting on campus deprives U.S. citizens of their right to engage with foreign-born peers and to hear their perspectives.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/professors-sue-trump-administration-over-arrests-of-campus-protesters/>
+
+---
+
+## Judge orders US to stop attempts to deport Columbia undergraduate
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>A federal judge on Tuesday ordered the Trump administration to halt its efforts to arrest and deport a 21-year old Columbia University student who participated in pro-Palestinian demonstrations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/judge-orders-us-to-stop-attempts-to-deport-columbia-undergraduate/>
+
+---
+
+## Trump’s World Liberty Financial crypto venture to launch stablecoin
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Donald Trump&#8217;s World Liberty Financial crypto venture will launch a dollar-pegged stablecoin, it said in a statement on Tuesday, after raising more than half a billion dollars from selling a separate digital token.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/trumps-world-liberty-financial-crypto-venture-to-launch-stablecoin/>
+
+---
+
+## US infrastructure improves, but cuts may imperil progress, report says
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>Increased federal spending in recent years has helped to improve U.S. ports, roads, parks, public transit and levees, according to a report released Tuesday by the American Society of Civil Engineers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/us-infrastructure-improves-but-cuts-may-imperil-progress-report-says/>
+
+---
+
+## Oscar-winning Palestinian director injured in attack by Israeli settlers released after arrest
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>SUSIYA, West Bank &#8212; The Oscar-winning director of a documentary on the Israel-Palestinian conflict was released from detention on Tuesday, a day after being injured and arrested during a raid by Israeli settlers on his village in the occupied West Bank.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/oscar-winning-palestinian-director-injured-in-attack-by-israeli-settlers-released-after-arrest/>
+
+---
+
+## Protesters clash with police outside of Chile’s Congress after fishing law vote gets delayed
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>VALPARAISO, Chile &#8212; Police tear gassed and hurled water from cannons at protesters in front of Chile&#8217;s national Congress in Valparaiso on Tuesday after a Senate commission delayed a vote on a controversial fishing law that seeks to redistribute quotas between artisanal and industrial fishers.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/protesters-clash-with-police-outside-of-chiles-congress-after-fishing-law-vote-gets-delayed/>
+
+---
+
+## South Korea wildfires spread forcing evacuation of four local prisons, homes
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>UISEONG COUNTY, South Korea &#8212; Wildfires spread across South Korea&#8217;s southeastern region on Tuesday, forcing the evacuation of thousands of inmates from local prisons and causing residents to flee their homes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/nation-world-news/south-korea-wildfires-spread-forcing-evacuation-of-four-local-prisons-homes/>
+
+---
+
+## ‘DA BUX’ program expands to all Foodland stores statewide
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>The Food Basket, Hawaii Island&#8217;s Food Bank, announces the &#8220;DA BUX&#8221; Double Up Food Bucks program has reached a major milestone, expanding to all Foodland locations statewide as of Feb. 28.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/community/da-bux-program-expands-to-all-foodland-stores-statewide/>
+
+---
+
+## Multimedia dance production comes to Hawi
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>What stories have shaped our collective consciousness, our world? What new stories can we tell that will uphold and protect the sanctity of all life?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/community/multimedia-dance-production-comes-to-hawi/>
+
+---
+
+## Fire department acquires four new ambulances
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Fire Department welcomed the arrival of four new ambulances with a blessing held March 17 in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/community/fire-department-acquires-four-new-ambulances/>
+
+---
+
+## Carvalho graduates from FBI National Academy
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>Police Capt. Aaron Carvalho graduated March 13 as a member of the 293rd session of the prestigious FBI National Academy in Quantico, Virginia.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/community/carvalho-graduates-from-fbi-national-academy/>
+
+---
+
+## Parker School teacher wins national honor
+
+date: 2025-03-26, from: Hawaii Tribune Harold
+
+
+				<p>Parker School in Waimea has announced that Rachel Wilczewski, upper school debate director and middle school humanities teacher, is one of just 15 coaches in the nation to receive the prestigious 5 Diamond Award from the National Speech &#38;Debate Association.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/26/community/parker-school-teacher-wins-national-honor/>
+
+---
+
+## Micronesian leader says he trusts Japan's nuclear wastewater disposal process
+
+date: 2025-03-26, from: Pacific Island Times
+
+Micronesian President Wesley W. Simina has expressed confidence in Japan’s treatment of radioactive water being dumped from the disabled Fuk 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/micronesian-leader-says-he-trusts-japan-s-nuclear-wastewater-disposal-process>
+
+---
+
+## Chuuk election still locked in court
+
+date: 2025-03-26, from: Pacific Island Times
+
+It has been more than three weeks and Chuuk has yet to finalize the official results of the recent election, which was riddled with voter fr 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/chuuk-election-still-locked-in-court>
+
+---
+
+## Sakura tree gift for UH Mānoa celebrates Japan partnerships
+
+date: 2025-03-26, from: University of Hawaiʻi News
+
+<p>The three sakura trees commemorate the continued partnership between <abbr>UH</abbr> Mānoa and Japan Airlines.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/sakura-tree-gift-japan-partnerships/">Sakura tree gift for <abbr>UH</abbr> Mānoa celebrates Japan partnerships</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/sakura-tree-gift-japan-partnerships/>
+
+---
+
+## U.S. diplomatic expert says Hawaiʻi critical in global security efforts
+
+date: 2025-03-26, from: University of Hawaiʻi News
+
+<p>Part of the <abbr>UH</abbr> Better Tomorrow Speaker Series, Glen S. Fukushima, a former U.S. diplomat, highlighted a need for more policymakers from the islands.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/us-diplomatic-expert-hawaii-global-security/">U.S. diplomatic expert says Hawaiʻi critical in global security efforts</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/us-diplomatic-expert-hawaii-global-security/>
+
+---
+
+## UH Mānoa invites students to provide feedback on triple-occupancy rooms, furniture
+
+date: 2025-03-26, from: University of Hawaiʻi News
+
+<p>The mock-up housing layout showings will be held on April 9 and 10 at the Hale Aloha Café.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/feedback-on-triple-occupancy-rooms/"><abbr>UH</abbr> Mānoa invites students to provide feedback on triple-occupancy rooms, furniture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/feedback-on-triple-occupancy-rooms/>
+
+---
+
+## UH Mānoa basketball players earn national academic honors
+
+date: 2025-03-26, from: University of Hawaiʻi News
+
+<p>Tanner Christensen, Tom Beattie, Akira Jacobs, Brooklyn Rewers and Lily Wahinekapu were recognized for their exceptional performance both on the court and in the classroom.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/basketball-earn-national-academic-honors/"><abbr>UH</abbr> Mānoa basketball players earn national academic honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/basketball-earn-national-academic-honors/>
+
+---
+
+## Solomon Islands calls for a fair course on global shipping energy transition
+
+date: 2025-03-25, from: Pacific Island Times
+
+The ocean has always been central to the life and prosperity of the Solomon Islands, serving as our highway for sustenance, connection, and  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/solomon-islands-calls-for-a-fair-course-on-global-shipping-energy-transition>
+
+---
+
+## Lyon Arboretum hosts CTAHR event: rare plants, tours, research, more
+
+date: 2025-03-25, from: University of Hawaiʻi News
+
+<p>Attendees participated in guided tours and hands-on activities led by arboretum staff.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/ctahr-day-at-lyon-arboretum/">Lyon Arboretum hosts <abbr>CTAHR</abbr> event: rare plants, tours, research, more</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/ctahr-day-at-lyon-arboretum/>
+
+---
+
+## Hawaiian Word of the Week: Huakaʻi
+
+date: 2025-03-25, from: University of Hawaiʻi News
+
+<p><span aria-label="Huakai">Huaka&#699;i</span>&#8212;Trip, voyage, journey.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/hawaiian-word-of-the-week-huakai/">Hawaiian Word of the Week: Huakaʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/hawaiian-word-of-the-week-huakai/>
+
+---
+
+## El Niño research brings global experts to UH Mānoa
+
+date: 2025-03-25, from: University of Hawaiʻi News
+
+<p>This year marks the 50th anniversary of key milestones in <abbr>ENSO</abbr> research.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/enso-winter-school-2025/">El Niño research brings global experts to <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/enso-winter-school-2025/>
+
+---
+
+## Water polo’s Doyle named to 2025 Cutino Award Watch List
+
+date: 2025-03-25, from: University of Hawaiʻi News
+
+<p>Bernadette Doyle ranks second on her team with 55 points, including 34 goals and 21 assists.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/doyle-2025-award-watch-list/">Water polo’s Doyle named to 2025 Cutino Award Watch List</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/doyle-2025-award-watch-list/>
+
+---
+
+## Windward CC visit concludes President Hensel’s UH campus tours
+
+date: 2025-03-25, from: University of Hawaiʻi News
+
+<p>Windward <abbr>CC</abbr>’s commitment to student success inspires alumni, and shapes the next generation.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/25/hensel-windward-visit/">Windward <abbr>CC</abbr> visit concludes President Hensel’s <abbr>UH</abbr> campus tours</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/25/hensel-windward-visit/>
+
+---
+
+## Saipan Chamber of Commerce introduces Career Pathways Internship Program
+
+date: 2025-03-25, updated: 2025-03-26, from: Marianas Variety
+
+(SCC) — The Saipan Chamber of Commerce is pleased to announce the launch of the Career Pathways Internship Program or CPIP, a collaborative initiative with the Public School System. This program provides high school juniors and seniors from Saipan, Tinian, and Rota the chance to gain valuable real-world work experience, professional mentorship, and career exploration opportunities. By aligning academic learning with the needs of local industries, the CPIP aims to bridge the gap between education and career success. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/saipan-chamber-of-commerce-introduces-career-pathways-internship-program/article_edb24e4a-ca4a-4a88-b2f1-5fd2e9e3e990.html>
+
+---
+
+## Convicted fraudsters stranded abroad after Marshall Islands revokes their passports
+
+date: 2025-03-25, updated: 2025-03-26, from: Marianas Variety
+
+MAJURO (Organized Crime and Corruption Reporting Project/Pacnews) — A pair of China-born scammers convicted of bribing officials via a fake United Nations agency have had their Marshall Islands passports revoked while outside the country, potentially leaving them stranded in permanent limbo abroad. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/convicted-fraudsters-stranded-abroad-after-marshall-islands-revokes-their-passports/article_193a2f6c-e8f5-49d7-82d4-196a78b3d3d0.html>
+
+---
+
+## White House mistakenly shares Yemen war plans with a journalist
+
+date: 2025-03-25, updated: 2025-03-26, from: Marianas Variety
+
+WASHINGTON (Reuters) — Top Trump administration officials mistakenly disclosed war plans in a messaging group that included a journalist shortly before the U.S. attacked Yemen's Iran-aligned Houthis, the White House said on Monday, following a first-hand account by The Atlantic. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/white-house-mistakenly-shares-yemen-war-plans-with-a-journalist/article_a33add1f-e8fc-4bca-ae88-57bff64d8342.html>
+
+---
+
+## Conan O'Brien decries ‘bullies’ while receiving Kennedy Center's Mark Twain Prize
+
+date: 2025-03-25, updated: 2025-03-26, from: Marianas Variety
+
+WASHINGTON (Reuters) — Conan O'Brien accepted the Mark Twain Prize for American Humor on Sunday with a not-so-subtle broadside against President Donald Trump, whose takeover of the Kennedy Center, which awarded the prize, has shaken the arts world. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/conan-obrien-decries-bullies-while-receiving-kennedy-centers-mark-twain-prize/article_ccbb76cb-a3b4-47e9-b89f-a16301b67d80.html>
+
+---
+
+## AG’s speech competition set for May 2
+
+date: 2025-03-25, updated: 2025-03-26, from: Marianas Variety
+
+ATTORNEY General Edward Manibusan is pleased to announce that the 38th Annual Attorney General’s Cup speech competition will be held on Friday, May 2, 2025 at 9 a.m. at the Guma Hustisia Supreme Court Courtroom. This event coincides with the Law Day events in the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/ag-s-speech-competition-set-for-may-2/article_b7dc2663-b25e-4cbc-86aa-467584ba6178.html>
 
 ---
 
@@ -217,7 +708,7 @@ The Department of Agriculture’s Dog Population Management Task Force is explor
 
 ---
 
-## Increasing prevalence of vision impairment in Pacific island countries call for better eye health awareness
+## Increasing prevalence of vision impairment in Pacific island countries calls for better eye health awareness
 
 date: 2025-03-25, from: Pacific Island Times
 

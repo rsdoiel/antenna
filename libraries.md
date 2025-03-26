@@ -1,11 +1,49 @@
 ---
 title: libraries
-updated: 2025-03-25 06:09:06
+updated: 2025-03-26 06:08:14
 ---
 
 # libraries
 
-(date: 2025-03-25 06:09:06)
+(date: 2025-03-26 06:08:14)
+
+---
+
+## Five Trends In The Publishers-Sustainability Nexus
+
+date: 2025-03-26, from: Scholarly Kitchen
+
+<p>In this article, I present five specific developments which may give us an idea how the relationship between sustainability and scholarly publishers is changing over time.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/26/five-trends-in-the-publishers-sustainability-nexus/">Five Trends In The Publishers-Sustainability Nexus</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/26/five-trends-in-the-publishers-sustainability-nexus/>
+
+---
+
+## Eight Hundred Leagues on the Amazon, by Jules Verne
+
+date: 2025-03-26, from: Standard Ebooks, new releaases
+
+An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/jules-verne/eight-hundred-leagues-on-the-amazon/w-j-gordon>
+
+---
+
+## Trajectory data for research article "Complex Networks in Phase-Separating Gels: A Computer Simulation Study"
+
+date: 2025-03-26, from: ETH Zurich, recently added
+
+Beer, Georg Friedrich 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/728415>
 
 ---
 

@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-03-25 06:09:07
+updated: 2025-03-26 06:08:15
 ---
 
 # retro computing
 
-(date: 2025-03-25 06:09:07)
+(date: 2025-03-26 06:08:15)
+
+---
+
+## New show, old kit? Retro exhibitors at RISC OS North
+
+date: 2025-03-26, from: RiscOS Story
+
+The list of exhibitors lined up for RISC OS North isn&#8217;t limited to just the world of modern RISC OS computing. Some will also cater to older platforms &#8211; and that doesn&#8217;t just mean older RISC OS platforms. If you have an Acorn Electron, for example, you should make your way to the Retro Hardware stand, where you&#8217;ll be able to find &#8220;all things Electron&#8221;. For slightly newer machines, Retro Hardware will also have a 32-bit DMA EIDI hard drive interface for A7000, A7000+, and RiscPCs &#8211; and some software,&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/new-show-old-kit-retro-at-risc-os-north/>
+
+---
+
+## MicroTimes Interviews Jim Clark from Mosaic Communications (1994)
+
+date: 2025-03-26, from: Computer ads from the Past
+
+They discuss how to commercialize the internet. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/microtimes-interviews-jim-clark-from>
+
+---
+
+## b.log 2025/03/25 - My first frozen food delivery.
+
+date: 2025-03-25, from: Richard Murray's blog
+
+My first frozen food delivery. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250325>
 
 ---
 

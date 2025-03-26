@@ -1,11 +1,359 @@
 ---
 title: science and technology
-updated: 2025-03-25 06:09:03
+updated: 2025-03-26 06:08:10
 ---
 
 # science and technology
 
-(date: 2025-03-25 06:09:03)
+(date: 2025-03-26 06:08:10)
+
+---
+
+## Schneider Electric pumps $700M into US ops as AI datacenter demand surges
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Meanwhile, Apple is lining up &#39;$1B&#39; of Nvidia Blackwell Ultra kit</h4> <p>Schneider Electric plans to spend $700 million through 2027 to expand its US operations and bolster the supply of its power equipment necessary to sustain the proliferation of AI datacenters.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/schneider_electric_ai_investment/>
+
+---
+
+## NCSC taps influencers to make 2FA go viral
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Who knew social media stars had a role to play in building national cyber resilience?</h4> <p>The world&#39;s biggest brands have benefited from influencer marketing for years – now the UK&#39;s National Cyber Security Centre (NCSC) has hopped on the bandwagon to preach two-factor authentication (2FA) to the masses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/ncsc_influencers_2fa/>
+
+---
+
+## UK satellite smartphone services could get green light this year
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>At last, cell service from SPAAAAAACE</h4> <p>Britain&#39;s telecoms regulator could authorize satellite-to-smartphone services in the UK before the end of this year.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/ofcom_could_authorize_uk_satellite/>
+
+---
+
+## NASA’s Webb Captures Neptune’s Auroras For First Time
+
+date: 2025-03-26, from: NASA breaking news
+
+Long-sought auroral glow finally emerges under Webb’s powerful gaze For the first time, NASA’s James Webb Space Telescope has captured bright auroral activity on Neptune. Auroras occur when energetic particles, often originating from the Sun, become trapped in a planet’s magnetic field and eventually strike the upper atmosphere. The energy released during these collisions creates […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-captures-neptunes-auroras-for-first-time/>
+
+---
+
+## British govt wants to mainline AI, but its arteries are clogged with legacy tech
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Spending watchdog says digital professionals need seat at top table to ensure &#39;transformation&#39;</h4> <p>The parlous state of UK government legacy IT systems is hampering attempts to adopt AI, a report from MPs has warned.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/legacy_systems_uk_ai/>
+
+---
+
+## Aardvark beats groundhogs and supercomputers in weather forecasting
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>PC-size ML prediction model predicted to be as good as a super at fraction of the cost</h4> <p>Aardvark, a novel machine learning-based weather prediction system, teases a future where supercomputers are optional for forecasting - but don&#39;t pull the plug just yet.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/aardvark_weather_forecast/>
+
+---
+
+## Jeff Bezos can now taunt Elon Musk: I'm building a moon rover for NASA, when can Tesla do that?
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Firefly Aerospace choses Amazon boss&#39;s Honeybee Robotics to supply vehicle for 2028 mission</h4> <p>Elon Musk may have launched hundreds of rockets and sent his own Tesla Roadster into space, but rival billionaire Jeff Bezos will soon be able to boast he’s built a moon rover.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/firefly_aerospac_honeybee_rover/>
+
+---
+
+## VMware sues Siemens for allegedly using unlicensed software
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>As rumors swirl about a new 72-core minimum vSphere license requirement</h4> <p>VMware has sued industrial giant AG Siemens’s US operations for alleged use of unlicensed software and accused it of changing its story negotiations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/vmware_sues_siemens_for_using/>
+
+---
+
+## India ditches its 'Google Tax', perhaps to tickle Trump and dodge tariffs
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Binned an e-commerce tax last year so this may not be complete capitulation</h4> <p>The lower house of India&#39;s parliament on Tuesday passed the nation&#39;s budget for 2025, after making a last-minute change that removed a tax on digital ads.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/india_drops_digital_ads_tax/>
+
+---
+
+## Revenge of the nerds: Teachers, professors sue to undo Trump science funding cuts
+
+date: 2025-03-25, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Who needs studies into diseases, virus infections, US mortality rates ... right?</h4> <p>Two academic organizations sued the Trump administration Tuesday for the allegedly unlawful withdrawal of $400 million in federal funding from Columbia University and associated demands for policy changes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/us_funding_science_cuts_lawsuit/>
+
+---
+
+## NASA Statement on Nomination of Greg Autry for Agency CFO
+
+date: 2025-03-25, from: NASA breaking news
+
+The following is a statement from NASA acting Administrator Janet Petro regarding the nomination by President Donald Trump of Greg Autry on March 24 to serve as the agency’s chief financial officer (CFO): “The NASA CFO is responsible for executing more than $25 billion in agency funding across a variety of missions, including the Moon [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-statement-on-nomination-of-greg-autry-for-agency-cfo/>
+
+---
+
+## God didn't have a plan for Gelsinger at Intel. Maybe there is one for his new gig, Gloo
+
+date: 2025-03-25, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Chip guru preaches virtues of &#39;values-aligned&#39; pray-I, sorry, AI</h4> <p>Pat Gelsinger, once CEO of VMware and later Intel, has announced he&#39;s taken a new job as executive chair and head of technology at Gloo, a Colorado-based startup offering technology tools for churches and other faith-based organizations.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/pat_gelsinger_gloo/>
+
+---
+
+## How NixOS and reproducible builds could have detected the xz backdoor for the benefit of all
+
+date: 2025-03-25, from: OS News
+
+Some more light reading: While it was already established that the open source supply chain was often the target of malicious actors, what is stunning is the amount of energy invested by Jia Tan to gain the trust of the maintainer of the xz project, acquire push access to the repository and then among other perfectly legitimate contributions insert – piece by piece – the code for a very sophisticated and obfuscated backdoor. This should be a wake up call for the OSS community. We should consider the open source supply chain a high value target for powerful threat actors, and to collectively find countermeasures against such attacks. In this article, I’ll discuss the inner workings of the xz backdoor and how I think we could have mechanically detected it thanks to build reproducibility. ↫ Julien Malka It&#8217;s a very detailed look at the situation and what Nix could to prevent it in the future. 
+
+<br> 
+
+<https://www.osnews.com/story/142000/how-nixos-and-reproducible-builds-could-have-detected-the-xz-backdoor-for-the-benefit-of-all/>
+
+---
+
+## NASA Cloud Software Helps Companies Find their Place in Space
+
+date: 2025-03-25, from: NASA breaking news
+
+Planning space missions is a very involved process, ensuring orbits are lined up and spacecraft have enough fuel is imperative to the long-term survival of orbital assets. Continuum Space Systems Inc. of Pasadena, California, produces a cloud-based platform that gives mission planners everything they need to certify that their space resources can accomplish their goals.&#160; [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-cloud-software-helps-companies-find-their-place-in-space/>
+
+---
+
+## NASA’s Spirit Rover Gets Looked Over
+
+date: 2025-03-25, from: NASA breaking news
+
+Technicians do final checks on NASA’s Spirit rover in this image from March 28, 2003. The rover – and its twin, Opportunity – studied the history of climate and water at sites on Mars where conditions may once have been favorable to life. Each rover is about the size of a golf cart and seven [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-spirit-rover-gets-looked-over/>
+
+---
+
+## NASA Invites Media to Learn About Artemis Moon Mission Recovery
+
+date: 2025-03-25, from: NASA breaking news
+
+NASA and the Department of Defense will host a media event on the recovery operations that will bring the Artemis II astronauts and the agency’s Orion spacecraft home at the conclusion of next year’s mission around the Moon. The in-person event will take place at 3 p.m. PDT on Monday, March 31, at Naval Base [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-invites-media-to-learn-about-artemis-moon-mission-recovery/>
+
+---
+
+## Judge halts DOGE's union personal data grab at OPM, Treasury, Education
+
+date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
+
+<h4>Officials likely broke Privacy Act by dishing out info without consent</h4> <p>A Maryland judge has dealt another blow to Elon Musk&#39;s cost-trimming DOGE unit, temporarily blocking the US Treasury, Dept of Education, and Office of Personnel Management from sharing union members&#39; personal data with the billionaire&#39;s minions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/doge_cannot_access_pii/>
+
+---
+
+## Samsung co-CEO Han Jong-hee dies of heart attack at 63
+
+date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
+
+<h4>The man who helped make Sammy the biggest name in modern tellies</h4> <p>Samsung co-CEO Han Jong-hee died this week in the Samsung Medical Center in southern Seoul after a cardiac arrest. He was 63.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/samsung_co_ceo_dies/>
+
+---
+
+## NASA’s Parker Solar Probe Team Wins 2024 Collier Trophy
+
+date: 2025-03-25, from: NASA breaking news
+
+The innovative team of engineers and scientists from NASA, the Johns Hopkins Applied Physics Laboratory in Laurel, Maryland, and more than 40 other partner organizations across the country that created the Parker Solar Probe mission has been awarded the 2024 Robert J. Collier Trophy by the National Aeronautic Association (NAA). This annual award recognizes the […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-team-wins-2024-collier-trophy/>
+
+---
+
+## ReactOS emits release 0.4.15 – its first since 2021
+
+date: 2025-03-25, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>An impressive recreation of the Windows golden age</h4> <p>The ReactOS project is putting out a point-release for the first time in a few years, and this insanely optimistic effort is making progress.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/reactos_drops_release_0415/>
+
+---
+
+## NASA Demonstrates New Wildland Fire Airspace Management System
+
+date: 2025-03-25, from: NASA breaking news
+
+NASA researchers conducted initial validation of a new airspace management system designed to enable crews to use aircraft to fight and monitor wildland fires 24 hours a day, even during low-visibility conditions.&#160;&#160; From March 17-28, NASA’s Advanced Capabilities for Emergency Response Operations (ACERO) project stationed researchers at multiple strategic locations across the foothills of the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasa-demonstrates-new-wildland-fire-airspace-management-system/>
+
+---
+
+## There are perhaps 10,000 reasons to doubt Oracle Cloud's security breach denial
+
+date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
+
+<h4>Customers come forward claiming info was swiped from prod</h4> <p>Oracle Cloud&#39;s denial of a digital break-in is now in clear dispute. A infosec researcher working on validating claims that the cloud provider&#39;s login servers were compromised earlier this year says some customers have confirmed data allegedly stolen and leaked from the database giant is genuine.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/oracle_breach_update/>
+
+---
+
+## Investigaciones de la NASA en la estación espacial ayudan a impulsar la ciencia lunar
+
+date: 2025-03-25, from: NASA breaking news
+
+La Estación Espacial Internacional sustenta una amplia gama de actividades científicas, desde la observación de nuestro universo hasta el logro de avances en investigaciones médicas, y es un campo de pruebas activo en la tecnología para futuras misiones de exploración en la Luna y más allá. La misión Blue Ghost&#160;1 de Firefly Aerospace aterrizó en [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/investigaciones-de-la-nasa-en-la-estacion-espacial-ayudan-a-impulsar-la-ciencia-lunar/>
+
+---
+
+## US Army’s laser obsession continues with yet another drone-zapper deal
+
+date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
+
+<h4>We have one, yes – but what about a second death ray?</h4> <p>Still shopping for the perfect death ray, the US Army has tapped Huntington Ingalls to build and test a prototype laser weapon designed to fry drones in flight.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/us_army_laser_weapon/>
+
+---
+
+## Interest in SAP cloud migration triples in its biz heartland
+
+date: 2025-03-25, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>User group chairman warns, however, that ERP giant&#39;s pace is not feasible for every org</h4> <p>Europe&#39;s German-speaking SAP user group is reporting a sharp uptick in organizations signing up or planning to sign up for the application vendor&#39;s preferred cloud migration route.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/rise_with_sap_dsag/>
+
+---
+
+## New Aircraft Wing Undergoes Crucial NASA Icing Testing
+
+date: 2025-03-25, from: NASA breaking news
+
+In the future, aircraft with long, thin wings supported by aerodynamic braces could help airlines save on fuel costs. But those same wings could be susceptible to ice buildup. NASA researchers are currently working to determine if such an issue exists, and how it could be addressed. In the historic Icing Research Tunnel at NASA’s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/new-aircraft-wing-undergoes-crucial-nasa-icing-testing/>
+
+---
+
+## NASA’s Lunar Reconnaissance Orbiter Views Blue Ghost on Moon’s Surface
+
+date: 2025-03-25, from: NASA breaking news
+
+NASA’s LRO (Lunar Reconnaissance Orbiter) imaged Firefly Aerospace’s Blue Ghost Mission 1 lunar lander on the Moon’s surface the afternoon of March 2, not quite 10 hours after the spacecraft landed. The delivery is part of NASA’s CLPS (Commercial Lunar Payload Services) initiative and Artemis campaign. This is the first CLPS delivery for Firefly, and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-lunar-reconnaissance-orbiter-views-blue-ghost-on-moons-surface/>
+
+---
+
+## Alibaba exec warns of overheating AI infrastructure market
+
+date: 2025-03-25, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Joe Tsai says speculative datacenter builds could exceed actual demand</h4> <p>Alibaba is warning of a datacenter spending &#34;bubble&#34; amid the rush to build infrastructure in anticipation of an AI feeding frenzy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/alibaba_ai_infrastructure/>
+
+---
+
+## Microsoft's many Outlooks are confusing users – including its own employees
+
+date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
+
+<h4>Redmond veteran proposes Zero Sugar and Caffeine Free variants</h4> <p>Baffled by the plethora of Outlook options out there? You aren&#39;t alone. Microsoft veteran Scott Hanselman posted a list of some more variants that could be used to do the same thing.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/25/too_many_outlooks/>
 
 ---
 
@@ -129,7 +477,7 @@ date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
 
 ---
 
-## OTF, which backs Tor, Let's Encrypt and more, sues to save funding from Trump cuts
+## OTF, which backs Tor, Let's Encrypt and more, sues to save its funding from Trump cuts
 
 date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
 
@@ -138,6 +486,18 @@ date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/25/otf_tor_lets_encrypt_funding_lawsuit/>
+
+---
+
+## Top Trump officials text secret Yemen airstrike plans to journo in Signal SNAFU
+
+date: 2025-03-24, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Massive OPSEC fail from the side who brought you &#39;lock her up&#39;</h4> <p><strong>Updated</strong>  Senior Trump administration officials used the messaging app Signal to discuss detailed plans to attack Houthi rebels in Yemen – and accidentally added a journalist to the group in which they chatted.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/24/signal_atlantic_security_disaster/>
 
 ---
 
@@ -455,7 +815,7 @@ date: 2025-03-24, updated: 2025-03-24, from: The Register (UK I.T. News)
 
 ## Microsoft tastes the unexpected consequences of tariffs on time
 
-date: 2025-03-24, updated: 2025-03-24, from: The Register (UK I.T. News)
+date: 2025-03-24, updated: 2025-03-25, from: The Register (UK I.T. News)
 
 <h4>Throw a spanner in the works, best get good at fixing things. Now, where did you put that spanner?</h4> <p><strong>Opinion</strong>  Never attribute to malice that which is adequately explained by stupidity. This works well in sane times, less so when &#34;but it&#39;s both&#34; is the default. Apply it to Microsoft&#39;s decision to make bug reports include not only a working example but a video of the same, and the meter oscillates wildly. What were they thinking? What did they expect?…</p> 
 
@@ -527,7 +887,7 @@ date: 2025-03-23, updated: 2025-03-24, from: The Register (UK I.T. News)
 
 ## Oracle Cloud says it's not true someone broke into its login servers and stole data
 
-date: 2025-03-23, updated: 2025-03-24, from: The Register (UK I.T. News)
+date: 2025-03-23, updated: 2025-03-25, from: The Register (UK I.T. News)
 
 <h4>Despite evidence to the contrary as alleged pilfered info goes on sale</h4> <p>Oracle has straight up denied claims by a miscreant that its public cloud offering has been compromised and information stolen.…</p> 
 

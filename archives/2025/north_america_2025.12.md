@@ -1,11 +1,285 @@
 ---
 title: north america
-updated: 2025-03-25 06:09:01
+updated: 2025-03-26 06:08:08
 ---
 
 # north america
 
-(date: 2025-03-25 06:09:01)
+(date: 2025-03-26 06:08:08)
+
+---
+
+## The Signal is Flashing Red
+
+date: 2025-03-26, from: The Contrarian
+
+No gaslighting this time 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-signal-is-flashing-red>
+
+---
+
+##  A Dark Money Deluge To Kill Consumer Protections 
+
+date: 2025-03-26, from: The Lever News
+
+ More than a dozen groups tied to conservative “friend of the court” Leonard Leo filed legal briefs pushing SCOTUS to further gut the government’s power to take on corporations.  
+
+<br> 
+
+<https://www.levernews.com/a-dark-money-deluge-to-kill-consumer-protections/>
+
+---
+
+## Trump’s race for the world’s rare earth minerals
+
+date: 2025-03-26, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>The United States and Ukraine are weighing a deal that would give the U.S. a cut of revenues from Ukraine&#8217;s rare earth minerals. But Gracelin Baskaran, mining economist at the Center for Strategic and International Studies, said rare earths aren&#8217;t all that rare. So why is the Trump administration scrambling to get its hands on these minerals from other countries? On the show today, Baskaran explains what rare earths are, why mining them isn&#8217;t always economically attractive, and what the U.S. is doing to try to catch up with China&#8217;s rare earth production. Plus, why recycling is only part of the solution.</p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Then, we&#8217;ll get into why Canadians are boycotting American vacations. And, how easy is it to get someone to dream about a tree or supply chain economics?</p>
+<p><!-- /wp:paragraph --></p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/03/04/opinion/ukraine-minerals-deal.html" target="_blank" rel="noreferrer noopener">&#8220;Opinion | How Trump Can Turn the Ukraine Mineral Deal Into Real Security&#8221;</a> from The New York Times</li>
+<li><a href="https://www.ft.com/content/88e4ea22-3a27-4e68-9c6e-4a008f257522" target="_blank" rel="noreferrer noopener">&#8220;US seeks to reopen terms of Ukraine minerals deal&#8221;</a> from Financial Times</li>
+<li><a href="https://www.whitehouse.gov/fact-sheets/2025/03/fact-sheet-president-donald-j-trump-takes-immediate-action-to-increase-american-mineral-production/" target="_blank" rel="noreferrer noopener">&#8220;Fact Sheet: President Donald J. Trump Takes Immediate Action to Increase American Mineral Production&#8221;</a> from the White House</li>
+<li><a href="https://www.marketplace.org/2025/02/26/with-ukraine-mineral-deal-the-u-s-continues-efforts-to-bolster-its-own-supply-and-lessen-dependence-on-china/" target="_blank" rel="noreferrer noopener">&#8220;Ukraine mineral deal could bolster U.S. supply of key materials&#8221;</a> from Marketplace</li>
+<li><a href="https://www.aljazeera.com/news/2025/3/17/amid-conflict-why-does-the-drc-want-a-minerals-deal-with-trump" target="_blank" rel="noreferrer noopener">&#8220;Why does DRC want a Ukraine-like minerals deal with Trump, amid conflict?&#8221;</a> from Al Jazeera</li>
+<li><a href="https://www.wsj.com/science/international-space-station-astronauts-sick-immune-system-1bffa6ed?mod=hp_featst_pos4" target="_blank" rel="noreferrer noopener">&#8220;The Space Station Is Too Clean, and It’s Making Astronauts Sick&#8221;</a> from The Wall Street Journal</li>
+<li><a href="https://www.wsj.com/lifestyle/travel/trump-canada-vacation-travel-plans-1428d574?mod=hp_lead_pos9" target="_blank" rel="noreferrer noopener">&#8220;Canadians Are Boycotting American Vacations&#8221;</a> from The Wall Street Journal</li>
+</ul>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/25/mms_20250325_MMS_032525_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftrumps-race-for-the-worlds-rare-earth-minerals&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/25/mms_20250325_MMS_032525_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftrumps-race-for-the-worlds-rare-earth-minerals&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/trumps-race-for-the-worlds-rare-earth-minerals>
+
+---
+
+## With federal jobs no longer safe, workers turn to job sites
+
+date: 2025-03-25, from: Market Place
+
+Indeed reports a jump in applications by government workers, especially those at agencies targeted by the Department of Government Efficiency. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/25/with-federal-jobs-no-longer-safe-workers-turn-to-job-sites/>
+
+---
+
+## Tariffs and uncertainty are prompting foreign investors to re-think U.S. investment
+
+date: 2025-03-25, from: Market Place
+
+The Trump administration's tariffs are likely to slow down the U.S. economy, making U.S. companies and government bonds a less attractive asset. International investors have started to think about investing elsewhere. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/25/tariffs-and-uncertainty-are-prompting-foreign-investors-to-re-think-u-s-investment/>
+
+---
+
+## Drinkable seawater? One company in drought-plagued SoCal is trying a new approach
+
+date: 2025-03-25, from: Market Place
+
+The biggest cost in desalination is energy, and this company says its approach uses at least 30% less of it. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/25/drinkable-seawater-one-company-in-drought-plagued-socal-is-trying-a-new-approach/>
+
+---
+
+## Evening Roundup, March 25
+
+date: 2025-03-25, from: The Contrarian
+
+Featuring Amy McGrath; Tom Malinowsky in conversation with Jen Rubin; Liam Scott; Brian O'Neill; Nick Anderson; and this week's Word or Phrase we Could Do Without... 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-25>
+
+---
+
+## Consumers are anticipating a weaker job market. Why does it matter?
+
+date: 2025-03-25, from: Market Place
+
+Pessimism can start to shape reality if people put off asking for a raise or decide to take a worse job then they might have otherwise. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/25/consumers-anticipating-weaker-job-market-what-it-matters/>
+
+---
+
+## Consumer confidence falls again. Consumer expectations fall even more.
+
+date: 2025-03-25, from: Market Place
+
+Conference Board surveys point to unease about job security and raise questions about Americans' future spending.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/25/consumer-confidence-falls-again-consumer-expectations-fall-even-more/>
+
+---
+
+## How bad would a recession be right now?
+
+date: 2025-03-25, from: Market Place
+
+Usually, the federal government spends to help people through recessions. Now, "there will be far less attempt to cushion the effects," said political economist Mark Blyth. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/25/how-bad-would-a-recession-be-right-now/>
+
+---
+
+## Walmart adds to its beauty offerings with more “affordable luxuries”
+
+date: 2025-03-25, from: Market Place
+
+The nation's largest retailer is increasingly competing with beauty retailers such as Ulta and Sephora. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/25/walmart-expands-beauty-products/>
+
+---
+
+## Tom Malinowski and Jen Rubin on free media and a Signal slip
+
+date: 2025-03-25, from: The Contrarian
+
+Last Friday, six Voice of America employees sued the Trump Administration claiming that it had violated the Constitution after placing 900 full-time network employees on indefinite leave and firing 550 contractors. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159782830/8605c5a4b8ce72774dbe60ffe0008989.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159782830/8605c5a4b8ce72774dbe60ffe0008989.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/tom-malinowski-and-jen-rubin-on-free>
+
+---
+
+## For Democracy Activists Around the World, VOA Represented Hope
+
+date: 2025-03-25, from: The Contrarian
+
+By broadcasting to the world&#8217;s most censored populations, Voice Of America offered a window to the rest of the world 
+
+<br> 
+
+<https://contrarian.substack.com/p/for-democracy-activists-around-the>
+
+---
+
+## War plans
+
+date: 2025-03-25, from: The Contrarian
+
+A cartoon by Nick Anderson. 
+
+<br> 
+
+<https://contrarian.substack.com/p/war-plans>
+
+---
+
+## When OPSEC is just a word
+
+date: 2025-03-25, from: The Contrarian
+
+The Atlantic shows how Trump&#8217;s national security team blurred strategy with spectacle. 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-opsec-is-just-a-word>
+
+---
+
+##  Inside The Billion-Dollar Business Of Deportation Flights 
+
+date: 2025-03-25, from: The Lever News
+
+ The recent GOP spending bill will mean more money for ICE — and less transparency for the private airlines making billions on deportation flights.  
+
+<br> 
+
+<https://www.levernews.com/inside-the-billion-dollar-business-of-deportation-flights/>
+
+---
+
+##  Billionaire Pritzker Boosts Billionaire Bezos 
+
+date: 2025-03-25, from: The Lever News
+
+ Illinois’ Dem governor blocks safety legislation after Senate report sounds the alarm about Amazon’s warehouse working conditions.  
+
+<br> 
+
+<https://www.levernews.com/billionaire-pritzker-boosts-billionaire-bezos/>
+
+---
+
+## The Real Harm in DOD’s Revisionist History
+
+date: 2025-03-25, from: The Contrarian
+
+Silencing the stories of non-male, non-white service members is not only an affront to our best and bravest&#8212;it&#8217;s also a military liability. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-real-harm-in-the-dods-revisionist>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-25, from: The Contrarian
+
+Tuesday: An attention-grabbing sign, a protest in Vermont, empty chairs for a no-show politician at a town hall in Colorado, Tesla protests in Tennessee and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Opportunities to wager on women’s college hoops lag
+
+date: 2025-03-25, from: Market Place
+
+Experts say the lag in betting on women's sports is a missed opportunity.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/25/opportunities-to-wager-on-womens-college-hoops-lag/>
+
+---
+
+## Venezuelan Dad Deported to Salvadoran Prison Was Family Man Who Worked for DoorDash
+
+date: 2025-03-25, from: Capital and Main
+
+<p>Alirio Guillermo Belloso Fuenmayor’s wife is trying to find a way to get him released and home to Venezuela.</p>
+<p>The post <a href="https://capitalandmain.com/venezuelan-dad-deported-to-salvadoran-prison-was-family-man-who-worked-for-doordash">Venezuelan Dad Deported to Salvadoran Prison Was Family Man Who Worked for DoorDash</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/venezuelan-dad-deported-to-salvadoran-prison-was-family-man-who-worked-for-doordash>
 
 ---
 
@@ -37,7 +311,7 @@ date: 2025-03-25, from: The Contrarian
 
 date: 2025-03-25, from: The Lever News
 
- Factory farms are blaming eggflation on animal welfare laws, in an attempt to boost their margins and crush their competitors.  
+ Factory farms are blaming eggflation on animal welfare laws in an attempt to boost their margins and crush their competitors.  
 
 <br> 
 
@@ -266,18 +540,6 @@ The painful echoes between America&#8217;s first and second redemptions remind u
 <br> 
 
 <https://contrarian.substack.com/p/americas-second-redemption>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-24, from: The Contrarian
-
-Monday: As the media talks incessantly about Democrats being down, Rep. Alexandria Ocasio-Cortez and Sen. Bernie Sanders draw tens of thousands in rallies nationwide. See images and video and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

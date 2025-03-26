@@ -1,11 +1,667 @@
 ---
 title: snapshots
-updated: 2025-03-25 06:09:10
+updated: 2025-03-26 06:08:17
 ---
 
 # snapshots
 
-(date: 2025-03-25 06:09:10)
+(date: 2025-03-26 06:08:17)
+
+---
+
+## Podcast: The DNA of 15 Million People Is For Sale
+
+date: 2025-03-26, from: 404 Media Group
+
+What the 23andMe bankruptcy means for privacy; the website doxing Tesla owners; and that crazy Signal group chat story. 
+
+<br> 
+
+<https://www.404media.co/podcast-the-dna-of-15-million-people-is-for-sale/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-26, from: Dave Winer's linkblog)
+
+Patronage Is a Lucrative Way to Attack Rule of Law. 
+
+<br> 
+
+<https://www.emptywheel.net/2025/03/26/patronage-is-a-lucrative-way-to-attack-rule-of-law/>
+
+---
+
+## Los Angeles to Shanghai, by Way of San Francisco
+
+date: 2025-03-26, updated: 2025-03-26, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/26/los-angeles-to-shanghai-by-way-of-san-francisco/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-26, from: Dave Winer's linkblog)
+
+Law Firms Are Chickening Out Of Representing Trump Foes. 
+
+<br> 
+
+<https://crooksandliars.com/2025/03/law-firms-are-chickening-out-representing>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-26, from: Dave Winer's linkblog)
+
+What Extreme Cold Feels Like in Prison. 
+
+<br> 
+
+<https://prisonjournalismproject.org/2025/02/25/extreme-cold-prison/>
+
+---
+
+## NARA Turns 40
+
+date: 2025-03-26, from: National Archives, Pieces of History blog
+
+On April 1, 2025, the National Archives and Records Administration (NARA) turns 40. Visit the National Archives History Office website for more information on the history of our agency.&#160; President Franklin D. Roosevelt signed legislation establishing the National Archives on June 19, 1934. For its first 15 years, the National Archives operated as an independent &#8230; <a href="https://prologue.blogs.archives.gov/2025/03/26/nara-turns-40/" class="more-link">Continue reading <span class="screen-reader-text">NARA Turns 40</span></a> 
+
+<br> 
+
+<https://prologue.blogs.archives.gov/2025/03/26/nara-turns-40/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-26, from: Dave Winer's linkblog)
+
+Breaks my heart to see foreigners excoriating my country, wanting to defend it, but knowing they’re right. This is not a way we can exist for very long. 
+
+<br> 
+
+<https://johnnaughton.substack.com/p/wednesday-26-march-2025?publication_id=31999&post_id=159868553&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Incompetent or Evil: A False Dichotomy
+
+date: 2025-03-26, from: Paul Krugman
+
+Trump&#8217;s people can be and are both 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/incompetent-or-evil-a-false-dichotomy>
+
+---
+
+## Can an Android phone be your next Linux PC?
+
+date: 2025-03-26, from: Libre News
+
+Maybe not, but Android 16 is now shipping Linux VMs, and that's something. 
+
+<br> 
+
+<https://thelibre.news/can-an-android-phone-be-your-next-linux-pc/>
+
+---
+
+## Note on 26th March 2025
+
+date: 2025-03-26, updated: 2025-03-26, from: Simon Willison’s Weblog
+
+<p>I've added a new content type to my blog: <strong>notes</strong>. These join my existing types: <a href="https://simonwillison.net/search/?type=entry">entries</a>, <a href="https://simonwillison.net/search/?type=blogmark">bookmarks</a> and <a href="https://simonwillison.net/search/?type=quotation">quotations</a>.</p>
+<p>A note is a little bit like a bookmark without a link. They're for short form writing - thoughts or images that don't warrant a full entry with a title. The kind of things I used to post to Twitter, but that don't feel right to cross-post to multiple social networks (Mastodon and Bluesky, for example.)</p>
+<p>I was partly inspired by Molly White's <a href="https://www.mollywhite.net/micro">short thoughts, notes, links, and musings</a>.</p>
+<p>I've been thinking about this for a while, but the amount of work involved in modifying all of the parts of my site that handle the three different content types was daunting. Then this evening I tried running my blog's source code (using <a href="https://github.com/simonw/files-to-prompt">files-to-prompt</a> and <a href="https://llm.datasette.io/">LLM</a>) through <a href="https://simonwillison.net/2025/Mar/25/gemini/">the new Gemini 2.5 Pro</a>:</p>
+<div class="highlight highlight-source-shell"><pre>files-to-prompt <span class="pl-c1">.</span> -e py -c <span class="pl-k">|</span> \
+  llm -m gemini-2.5-pro-exp-03-25 -s \
+  <span class="pl-s"><span class="pl-pds">'</span>I want to add a new type of content called a Note,</span>
+<span class="pl-s">  similar to quotation and bookmark and entry but it</span>
+<span class="pl-s">  only has a markdown text body. Output all of the</span>
+<span class="pl-s">  code I need to add for that feature and tell me</span>
+<span class="pl-s">  which files to add  the code to.<span class="pl-pds">'</span></span></pre></div>
+
+<p>Gemini gave me <a href="https://gist.github.com/simonw/6d9fb3e33e7105d391a31367d6a235de#response">a detailed 13 step plan</a> covering all of the tedious changes I'd been avoiding having to figure out!</p>
+<p>The code <a href="https://github.com/simonw/simonwillisonblog/pull/527">is in this PR</a>, which touched 18 different files. The whole project took around 45 minutes start to finish.</p>
+<p>(I used Claude to <a href="https://claude.ai/share/17656d59-6f52-471e-8aeb-6abbe1464471">brainstorm names</a> for the feature - I had it come up with possible nouns and then "rank those by least pretentious to most pretentious", and "notes" came out on top.)</p>
+<p>This is now far too long for a note and should really be upgraded to an entry, but I need to post a first note to make sure everything is working as it should.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/blogging">blogging</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/molly-white">molly-white</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/26/notes/#atom-everything>
+
+---
+
+## MicroTimes Interviews Jim Clark from Mosaic Communications (1994)
+
+date: 2025-03-26, from: Computer ads from the Past
+
+They discuss how to commercialize the internet. 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/microtimes-interviews-jim-clark-from>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-26, from: Feed for Alt USDS)
+
+💅
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llauyimjac2j>
+
+---
+
+## Quoting Manuel Hoffmann, Frank Nagle, Yanuo Zhou
+
+date: 2025-03-26, updated: 2025-03-26, from: Simon Willison’s Weblog
+
+<blockquote cite="https://www.hbs.edu/faculty/Pages/item.aspx?num=65230"><p>We estimate the supply-side value of widely-used OSS is $4.15 billion, but that the demand-side value is much larger at $8.8 trillion. We find that firms would need to spend 3.5 times more on software than they currently do if OSS did not exist.</p></blockquote>
+<p class="cite">&mdash; <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=65230">Manuel Hoffmann, Frank Nagle, Yanuo Zhou</a>, The Value of Open Source Software, Harvard Business School</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/open-source">open-source</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/26/value-of-open-source/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-26, from: Feed for Alt USDS)
+
+A good round up of the data that the IRS has... And therefore is vulnerable based on our current administration and leadership. What a time to be alive. 😩
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llaupjvnjs2j>
+
+---
+
+## Musk, Grok, and “rigorous adherence to truth“
+
+date: 2025-03-25, from: Gary Marcus blog
+
+Elon Musk, yesterday: &#8220;Rigorous adherence to truth is the only way to build safe Al.&#8221; 
+
+<br> 
+
+<https://garymarcus.substack.com/p/musk-grok-and-rigorous-adherence>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-25, from: Dave Winer's linkblog)
+
+Trump&#39;s Attack on Lawyers and Law Firms Takes a Page Out of the Southern 1950s Playbook. 
+
+<br> 
+
+<https://sherrilyn.substack.com/p/trumps-attack-on-lawyers-and-law?triedRedirect=true>
+
+---
+
+## Introducing 4o Image Generation
+
+date: 2025-03-25, updated: 2025-03-25, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://openai.com/index/introducing-4o-image-generation/">Introducing 4o Image Generation</a></strong></p>
+When OpenAI first announced GPT-4o <a href="https://simonwillison.net/2024/May/13/gpt-4o/">back in May 2024</a> one of the most exciting features was true multi-modality in that it could both input <em>and</em>  output audio and images. The "o" stood for "omni", and the image output examples <a href="https://openai.com/index/hello-gpt-4o/">in that launch post</a> looked really impressive.</p>
+<p>It's taken them over ten months (and Gemini <a href="https://developers.googleblog.com/en/experiment-with-gemini-20-flash-native-image-generation/">beat them to it</a>) but today they're finally making those image generation abilities available, live right now in ChatGPT for paying customers.</p>
+<p>My test prompt for any model that can manipulate incoming images is "Turn this into a selfie with a bear", because you should never take a selfie with a bear! I fed ChatGPT <a href="https://static.simonwillison.net/static/2025/selfie.jpg">this selfie</a> and got back this result:</p>
+<p><img alt="It's a selfie, there's a grizzly bear over my shoulder smiling." src="https://static.simonwillison.net/static/2025/selfie-with-a-bear.jpg" /></p>
+<p>That's pretty great! It mangled the text on my T-Shirt (which says "LAWRENCE.COM" in a creative font) and added a second visible AirPod. It's very clearly me though, and that's definitely a bear.</p>
+<p>There are plenty more examples in <a href="https://openai.com/index/introducing-4o-image-generation/">OpenAI's launch post</a>, but as usual the most interesting details are tucked away in <a href="https://openai.com/index/gpt-4o-image-generation-system-card-addendum/">the updates to the system card</a>. There's lots in there about their approach to safety and bias, including a section on "Ahistorical and Unrealistic Bias" which feels inspired by Gemini's <a href="https://blog.google/products/gemini/gemini-image-generation-issue/">embarrassing early missteps</a>.</p>
+<p>One section that stood out to me is their approach to images of public figures. The new policy is much more permissive than for DALL-E - highlights mine:</p>
+<blockquote>
+<p>4o image generation is capable, in many instances, of generating a depiction of a public figure based solely on a text prompt.</p>
+<p><strong>At launch, we are not blocking the capability to generate adult public figures</strong> but are instead implementing the same safeguards that we have implemented for editing images of photorealistic uploads of people. For instance, this includes seeking to block the generation of photorealistic images of public figures who are minors and of material that violates our policies related to violence, hateful imagery, instructions for illicit activities, erotic content, and other areas. <strong>Public figures who wish for their depiction not to be generated can opt out</strong>.</p>
+<p>This approach is more fine-grained than the way we dealt with public figures in our DALL·E series of models, where we used technical mitigations intended to prevent any images of a public figure from being generated. <strong>This change opens the possibility of helpful and beneficial uses in areas like educational, historical, satirical and political speech</strong>. After launch, we will continue to monitor usage of this capability, evaluating our policies, and will adjust them if needed.</p>
+</blockquote>
+<p>Given that "public figures who wish for their depiction not to be generated can opt out" I wonder if we'll see a stampede of public figures to do exactly that!</p>
+<p><strong>Update</strong>: There's significant confusion right now over this new feature because it is being rolled out gradually but older ChatGPT can still generate images using DALL-E instead... and there is no visual indication in the ChatGPT UI explaining which image generation method it used!</p>
+<p>OpenAI made the same mistake last year <a href="https://simonwillison.net/2024/May/15/chatgpt-in-4o-mode/">when they announced ChatGPT advanced voice mode</a> but failed to clarify that ChatGPT was still running the previous, less impressive voice implementation.</p>
+<p><strong>Update 2</strong>: Images created with DALL-E through the ChatGPT web interface now show a note with a warning:</p>
+<p><img alt="Created with DALL-E with an information icon. Clicking it reveals DALL-E is OpenAI's legacy image generation model. A new model is rolling out in ChatGPT soon." src="https://static.simonwillison.net/static/2025/dall-e-warning.jpg" />
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/multi-modal-output">multi-modal-output</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/dalle">dalle</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/25/introducing-4o-image-generation/#atom-everything>
+
+---
+
+## Lilbits: AI-enhanced search for Windows PCs and Amazon’s Big Spring Sale
+
+date: 2025-03-25, from: Liliputing
+
+<p>Many of the latest laptop processors from Intel, AMD, and Qualcomm have high-performance neural processing units that are supposed to let you run AI applications locally without sending any data to the cloud. But so far Microsoft and PC makers have had a hard time coming up with things that you can actually do with [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-ai-enhanced-search-for-windows-pcs-and-amazons-big-spring-sale/">Lilbits: AI-enhanced search for Windows PCs and Amazon&#8217;s Big Spring Sale</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-ai-enhanced-search-for-windows-pcs-and-amazons-big-spring-sale/>
+
+---
+
+## Putting Gemini 2.5 Pro through its paces
+
+date: 2025-03-25, updated: 2025-03-25, from: Simon Willison’s Weblog
+
+<p>There's a new release from Google Gemini this morning: <a href="https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/#gemini-2-5-thinking">the first in the Gemini 2.5</a> series. Google call it "a thinking model, designed to tackle increasingly complex problems". It's already sat at the top of the <a href="https://lmarena.ai/?leaderboard">LM Arena leaderboard</a>, and from initial impressions looks like it may deserve that top spot.</p>
+<p>I just released <a href="https://github.com/simonw/llm-gemini/releases/tag/0.16">llm-gemini 0.16</a> adding support for the new model to my <a href="https://llm.datasette.io/">LLM</a> command-line tool. Let's try it out.</p>
+
+<ul>
+  <li><a href="https://simonwillison.net/2025/Mar/25/gemini/#the-pelican-riding-a-bicycle">The pelican riding a bicycle</a></li>
+  <li><a href="https://simonwillison.net/2025/Mar/25/gemini/#transcribing-audio">Transcribing audio</a></li>
+  <li><a href="https://simonwillison.net/2025/Mar/25/gemini/#bounding-boxes">Bounding boxes</a></li>
+  <li><a href="https://simonwillison.net/2025/Mar/25/gemini/#characteristics">More characteristics of the model</a></li>
+  <li><a href="https://simonwillison.net/2025/Mar/25/gemini/#gemini-2-5-pro-is-a-very-strong-new-model">Gemini 2.5 Pro is a very strong new model</a></li>
+  <li><a href="https://simonwillison.net/2025/Mar/25/gemini/#update-it-s-very-good-at-code">Update: it's very good at code</a></li>
+</ul>
+
+<h4 id="the-pelican-riding-a-bicycle">The pelican riding a bicycle</h4>
+<p>First up, my classic <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle/">generate an SVG of a pelican riding a bicycle</a> prompt.</p>
+<div class="highlight highlight-source-shell"><pre><span class="pl-c"><span class="pl-c">#</span> Upgrade the plugin</span>
+llm install -U llm-gemini
+
+<span class="pl-c"><span class="pl-c">#</span> Now run the prompt:</span>
+llm -m gemini-2.5-pro-exp-03-25 <span class="pl-s"><span class="pl-pds">"</span>Generate an SVG of a pelican riding a bicycle<span class="pl-pds">"</span></span></pre></div>
+<p>It's pretty solid!</p>
+<p><img src="https://static.simonwillison.net/static/2025/gemini-2.5-pro-pelican.jpg" alt="The pelican is perched at an angle which suggests an effort at having it make contact with the pedals. It has a good large beak." style="max-width: 100%;" /></p>
+<p>Here's <a href="https://gist.github.com/simonw/c34f7f0c94afcbeab77e170511f6f51f">the full transcript</a>.</p>
+<p>This task is meant to be almost impossible: pelicans are the wrong shape to ride bicycles! Given that, I think this is a good attempt - I like it slightly better than my previous favourite <a href="https://simonwillison.net/2025/Feb/24/claude-37-sonnet-and-claude-code/">Claude 3.7 Sonnet</a>, which produced this a month ago:</p>
+<p><img src="https://static.simonwillison.net/static/2025/pelican-claude-3.7-sonnet.svg" alt="The bicycle has pokes but the pedal is in the wrong place, and the pelican perches uncomfortably on the seat with weird looking wings." style="max-width: 100%;" /></p>
+<h4 id="transcribing-audio">Transcribing audio</h4>
+<p>I had <a href="https://static.simonwillison.net/static/2025/russian-pelican-in-spanish.mp3">an MP3</a> lying around from <a href="https://simonwillison.net/2024/Oct/26/russian-spanish-pelican/">a previous experiment</a> which mixes English and Spanish. I tried running it with the prompt <code>transcribe</code> to see what would happen:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m gemini-2.5-pro-exp-03-25 <span class="pl-s"><span class="pl-pds">'</span>transcribe<span class="pl-pds">'</span></span> \
+  -a https://static.simonwillison.net/static/2025/russian-pelican-in-spanish.mp3</pre></div>
+<p>I got back this, with timestamps interspersed with the text:</p>
+<blockquote>
+<p>I need you [ 0m0s450ms ] to pretend [ 0m0s880ms ] to be [ 0m0s990ms ] a California [ 0m1s560ms ] brown [ 0m1s850ms ] pelican [ 0m2s320ms ] with [ 0m2s480ms ] a very [ 0m2s990ms ] thick [ 0m3s290ms ] Russian [ 0m3s710ms ] accent, [ 0m4s110ms ] but [ 0m4s540ms ] you [ 0m4s640ms ] talk [ 0m4s830ms ] to me [ 0m4s960ms ] exclusively [ 0m5s660ms ] in Spanish. [ 0m6s200ms ] Oye, [ 0m8s930ms ] camarada, [ 0m9s570ms ] aquí [ 0m10s240ms ] está [ 0m10s590ms ] tu [ 0m10s740ms ] pelícano [ 0m11s370ms ] californiano [ 0m12s320ms ] con [ 0m12s520ms ] acento [ 0m13s100ms ] ruso. [ 0m13s540ms ] Qué [ 0m14s230ms ] tal, [ 0m14s570ms ] tovarisch? [ 0m15s210ms ] Listo [ 0m15s960ms ] para [ 0m16s190ms ] charlar [ 0m16s640ms ] en [ 0m16s750ms ] español? [ 0m17s250ms ] How's [ 0m19s834ms ] your [ 0m19s944ms ] day [ 0m20s134ms ] today? [ 0m20s414ms ] Mi [ 0m22s654ms ] día [ 0m22s934ms ] ha [ 0m23s4ms ] sido [ 0m23s464ms ] volando [ 0m24s204ms ] sobre [ 0m24s594ms ] las [ 0m24s844ms ] olas, [ 0m25s334ms ] buscando [ 0m26s264ms ] peces [ 0m26s954ms ] y [ 0m27s84ms ] disfrutando [ 0m28s14ms ] del [ 0m28s244ms ] sol [ 0m28s664ms ] californiano. [ 0m29s444ms ] Y [ 0m30s314ms ] tú, [ 0m30s614ms ] amigo, ¿ [ 0m31s354ms ] cómo [ 0m31s634ms ] ha [ 0m31s664ms ] estado [ 0m31s984ms ] tu [ 0m32s134ms ] día? [ 0m32s424ms ]</p>
+</blockquote>
+<p>This inspired me to try again, this time including <a href="https://simonwillison.net/2025/Feb/28/llm-schemas/">a JSON schema</a> (using LLM's custom schema DSL):</p>
+<div class="highlight highlight-source-shell"><pre>llm -m gemini-2.5-pro-exp-03-25 <span class="pl-s"><span class="pl-pds">'</span>transcribe<span class="pl-pds">'</span></span> \
+  -a https://static.simonwillison.net/static/2025/russian-pelican-in-spanish.mp3 \
+  --schema-multi <span class="pl-s"><span class="pl-pds">'</span>timestamp str: mm:ss,text, language: two letter code<span class="pl-pds">'</span></span></pre></div>
+<p>I got an <em>excellent</em> response from that:</p>
+<div class="highlight highlight-source-json"><pre>{
+  <span class="pl-ent">"items"</span>: [
+    {
+      <span class="pl-ent">"language"</span>: <span class="pl-s"><span class="pl-pds">"</span>en<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>I need you to pretend to be a California brown pelican with a very thick Russian accent, but you talk to me exclusively in Spanish.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>00:00<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"language"</span>: <span class="pl-s"><span class="pl-pds">"</span>es<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>Oye, camarada. Aquí está tu pelícano californiano con acento ruso.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>00:08<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"language"</span>: <span class="pl-s"><span class="pl-pds">"</span>es<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>¿Qué tal, Tovarish? ¿Listo para charlar en español?<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>00:13<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"language"</span>: <span class="pl-s"><span class="pl-pds">"</span>en<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>How's your day today?<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>00:19<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"language"</span>: <span class="pl-s"><span class="pl-pds">"</span>es<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>Mi día ha sido volando sobre las olas, buscando peces y disfrutando del sol californiano.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>00:22<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"language"</span>: <span class="pl-s"><span class="pl-pds">"</span>es<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>¿Y tú, amigo, cómo ha estado tu día?<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>00:30<span class="pl-pds">"</span></span>
+    }
+  ]
+}</pre></div>
+<p>I confirmed that the timestamps match the audio. This is fantastic.</p>
+<p>Let's try that against a ten minute snippet of <a href="https://realpython.com/podcasts/rpp/236/">a podcast episode</a> I was on:</p>
+<div class="highlight highlight-source-shell"><pre>llm -m gemini-2.5-pro-exp-03-25 \
+  <span class="pl-s"><span class="pl-pds">'</span>transcribe, first speaker is Christopher, second is Simon<span class="pl-pds">'</span></span> \
+  -a ten-minutes-of-podcast.mp3 \
+  --schema-multi <span class="pl-s"><span class="pl-pds">'</span>timestamp str: mm:ss, text, speaker_name<span class="pl-pds">'</span></span></pre></div>
+<p>Useful LLM trick: you can use <code>llm logs -c --data</code> to get just the JSON data from the most recent prompt response, so I ran this:</p>
+<div class="highlight highlight-source-shell"><pre>llm logs -c --data <span class="pl-k">|</span> jq</pre></div>
+<p>Here's <a href="https://gist.github.com/simonw/23d4528e23e4897e0c43458e7c46c360">the full output JSON</a>, which starts and ends like this:</p>
+<div class="highlight highlight-source-json"><pre>{
+  <span class="pl-ent">"items"</span>: [
+    {
+      <span class="pl-ent">"speaker_name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Christopher<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>on its own and and it has this sort of like a it's like a you know old tree in the forest, you know, kind of thing that you've built, so.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>00:00<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"speaker_name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Simon<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>There's also like I feel like with online writing, never ever like stick something online just expect people to find it. You have to So one of the great things about having a blog is I can be in a conversation about something and somebody ask a question, I can say, oh, I wrote about that two and a half years ago and give people a link.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>00:06<span class="pl-pds">"</span></span>
+    },
+
+    {
+      <span class="pl-ent">"speaker_name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Simon<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>So on that basis, Chat and I can't remember if the free version of Chat GPT has code interpreter.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>09:45<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"speaker_name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Simon<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>I hope I think it does.<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>09:50<span class="pl-pds">"</span></span>
+    },
+    {
+      <span class="pl-ent">"speaker_name"</span>: <span class="pl-s"><span class="pl-pds">"</span>Christopher<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"text"</span>: <span class="pl-s"><span class="pl-pds">"</span>Okay. So this is like the basic paid one, maybe the $20 month because I know there's like a $200 one that's a little steep for like a basic<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"timestamp"</span>: <span class="pl-s"><span class="pl-pds">"</span>09:51<span class="pl-pds">"</span></span>
+    }
+  ]
+}</pre></div>
+<p>A spot check of the timestamps showed them in the right place. Gemini 2.5 supports long context prompts so it's possible this works well for much longer audio files - it would be interesting to dig deeper and try that out.</p>
+<h4 id="bounding-boxes">Bounding boxes</h4>
+<p>One of my favourite features of previous Gemini models is their support for bounding boxes: you can prompt them to return boxes around objects in images.</p>
+<p>I built a separate tool for experimenting with this feature in August last year, which I described in <a href="https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/">Building a tool showing how Gemini Pro can return bounding boxes for objects in images</a>. I've now upgraded that tool to add support the new model.</p>
+<p>You can access it at <a href="https://tools.simonwillison.net/gemini-bbox">tools.simonwillison.net/gemini-bbox</a> - you'll need to provide your own Gemini API key which is sent directly to their API from your browser (it won't be logged by an intermediary).</p>
+<p>I tried it out on <a href="https://static.simonwillison.net/static/2025/challenging-pelicans.jpg">a challenging photograph</a> of some pelicans... and it worked extremely well:</p>
+<p>My prompt was:</p>
+<blockquote>
+<p><code>Return bounding boxes around pelicans as JSON arrays [ymin, xmin, ymax, xmax]</code></p>
+</blockquote>
+<p>The Gemini models are all trained to return bounding boxes scaled between 0 and 100. My tool knows how to convert those back to the same dimensions as the input image.</p>
+<p>Here's what the visualized result looked like:</p>
+<p><img src="https://static.simonwillison.net/static/2025/gemini-pelicans-bbox.jpg" alt="Pelicans with bounding boxes around them" style="max-width: 100%;" /></p>
+<p>It got almost all of them! I like how it didn't draw a box around the one egret that had made it into the photo.</p>
+<h4 id="characteristics">More characteristics of the model</h4>
+
+<p>Here's the <a href="https://ai.google.dev/gemini-api/docs/models#gemini-2.5-pro-exp-03-25">official model listing</a> in the Gemini docs. Key details:</p>
+<ul>
+  <li>Input token limit: 1,000,000</li>
+  <li>Output token limit: 64,000 - this is a <em>huge</em> upgrade, all of the other listed models have 8,192 for this (correction: <a href="https://deepmind.google/technologies/gemini/flash-thinking/">Gemini 2.0 Flash Thinking</a> also had a 64,000 output length)</li>
+  <li>Knowledge cut-off: January 2025 - an improvement on Gemini 2.0's August 2024</li>
+</ul>
+
+<h4 id="gemini-2-5-pro-is-a-very-strong-new-model">Gemini 2.5 Pro is a very strong new model</h4>
+<p>I've hardly scratched the surface when it comes to trying out Gemini 2.5 Pro so far. How's its creative writing? Factual knowledge about the world? Can it write great code in Python, JavaScript, Rust and more?</p>
+<p>The Gemini family of models have capabilities that set them apart from other models:</p>
+<ul>
+<li>Long context length - Gemini 2.5 Pro supports up to 1 million tokens</li>
+<li>Audio input - something which few other models support, certainly not at this length and with this level of timestamp accuracy</li>
+<li>Accurate bounding box detection for image inputs</li>
+</ul>
+<p>My experiments so far with these capabilities indicate that Gemini 2.5 Pro really is a very strong new model. I'm looking forward to exploring more of what it can do.</p>
+
+<h4 id="update-it-s-very-good-at-code">Update: it's very good at code</h4>
+<p>I spent this evening trying it out for coding tasks, and it's very, very impressive. I'm seeing results for Python that feel comparable to my previous favourite Claude 3.7 Sonnet, and appear to be benefitting from Gemini 2.5 Pro's default reasoning mode and long context.</p>
+<p>I've been wanting to add a new content type of "notes" to my blog for quite a while now, but I was put off by the anticipated tedium of all of the different places in the codebase that would need to be updated.</p>
+<p>That feature is now live. <a href="https://simonwillison.net/2025/Mar/26/notes/">Here are my notes</a> on creating that notes feature using Gemini 2.5 Pro. It crunched through my entire codebase and figured out all of the places I needed to change - 18 files in total, as you can see in <a href="https://github.com/simonw/simonwillisonblog/pull/527/files">the resulting PR</a>. The whole project took about 45 minutes from start to finish - averaging less than three minutes per file I had to modify.</p>
+<p>I've thrown a whole bunch of other coding challenges at it, and the bottleneck on evaluating them has become my own mental capacity to review the resulting code!</p>
+<p>Here's another, more complex example. This hasn't resulted in actual running code yet but it took a big bite out of an architectural design problem I've been stewing on for a very long time.</p>
+
+<p>My <a href="https://llm.datasette.io/">LLM project</a> needs support for tools - a way to teach different LLMs how to request tool execution, then have those tools (implemented in Python) run and return their results back to the models.</p>
+
+<p>Designing this is really hard, because I need to create an abstraction that works across multiple different model providers, each powered by a different plugin.</p>
+
+<p>Could Gemini 2.5 Pro help unblock me by proposing an architectural approach that might work?</p>
+
+<p>I started by combining the Python and Markdown files for my <a href="https://github.com/simonw/sqlite-utils">sqlite-utils</a>, <a href="https://github.com/simonw/llm">llm</a>, <a href="https://github.com/simonw/llm-gemini">llm-gemini</a>, and <a href="https://github.com/simonw/llm-anthropic">llm-anthropic</a> repositories into one big document:</p>
+<div class="highlight highlight-source-shell"><pre>files-to-prompt sqlite-utils llm llm-gemini llm-anthropic -e md -e py -c</pre></div>
+<p>Piping it through <a href="https://github.com/simonw/ttok">ttok</a> showed that to be 316,098 tokens (using the OpenAI tokenizer, but the Gemini tokenizer is likely a similar number).</p>
+<p>Then I fed that all into Gemini 2.5 Pro with the following prompt:</p>
+<blockquote>
+<p>Provide a detailed design proposal for adding tool calling support to LLM</p>
+<p>Different model plugins will have different ways of executing tools, but LLM itself should provide both a Python and a CLI abstraction over these differences.</p>
+<p>Tool calling involves passing tool definitions to a model, the model then replies with tools it would like executed, the harness code then executes those and passes the result back to the model and continues in a loop until the model stops requesting tools. This should happen as part of the existing llm.Conversation mechanism.</p>
+<p>At the Python layer tools should be provided as Python functions that use type hints, which can then be converted into JSON schema using Pydantic - similar to how the existing schema= mechanism works.</p>
+<p>For the CLI option tools will be provided as an option passed to the command, similar to how the sqlite-utils convert CLI mechanism works.'</p>
+</blockquote>
+<p>I've been thinking about this problem for over a year now. <a href="https://gist.github.com/simonw/481f46a779f20d8650b4fc5854f070c5">Gemini 2.5 Pro's response</a> isn't exactly what I'm going to do, but it did include a flurry of genuinely useful suggestions to help me craft my final approach.</p>
+<p>I hadn't thought about the need for asyncio support for tool functions at all, so this idea from Gemini 2.5 Pro was very welcome:</p>
+<blockquote>
+<p>The <code>AsyncConversation.prompt()</code> method will mirror the synchronous API, accepting the <code>tools</code> parameter and handling the tool calling loop using <code>async/await</code> for tool execution if the tool functions themselves are async. If tool functions are synchronous, they will be run in a thread pool executor via <code>asyncio.to_thread</code>.</p>
+</blockquote>
+<p>Watching Gemini crunch through some of the more complex problems I've been dragging my heels on reminded me of something Harper Reed wrote <a href="https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/">about his   workflow with LLMs for code</a>:</p>
+<blockquote>
+<p>My hack to-do list is empty because I built everything. I keep thinking of new things and knocking them out while watching a movie or something.</p>
+</blockquote>
+<p>I've been stressing quite a bit about my backlog of incomplete projects recently. I don't think Gemini 2.5 Pro is quite going to work through all of them while I'm watching TV, but it does feel like it's going to help make a significant dent in them.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/25/gemini/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-25, from: Robert's feed at BlueSky)
+
+This looks fun.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lla24kg6hs2e>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-25, from: Dave Winer's linkblog)
+
+I love this, they look at protocols for news (I guess) and this guy leaves out RSS. It&#39;s amazing, leaving it out is the only way they can justify the existence of their protocol. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=HoagVD-Baa4&list=PL47nQSDRhiP2m8RH_AM4NTWuzN3XA3W27>
+
+---
+
+## Improving Firefox Stability in the Enterprise by Reducing DLL Injection
+
+date: 2025-03-25, from: Mozilla Developer Network blog
+
+<p>Beginning in version 138, Firefox will offer an alternative to DLL injection for Data Loss Prevention (DLP) deployments in enterprise environments. DLL Injection DLL injection into Firefox is a topic we’ve covered on the Hacks blog before. In 2023, we blogged about the Firefox capability to let users block third-party DLLs from being loaded. We [&#8230;]</p>
+<p>The post <a href="https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/">Improving Firefox Stability in the Enterprise by Reducing DLL Injection</a> appeared first on <a href="https://hacks.mozilla.org">Mozilla Hacks - the Web developer blog</a>.</p>
+ 
+
+<br> 
+
+<https://hacks.mozilla.org/2025/03/improving-firefox-stability-in-the-enterprise-by-reducing-dll-injection/>
+
+---
+
+## AirPods Max Lossless and Low Latency Audio Over USB-C
+
+date: 2025-03-25, from: Michael Tsai
+
+Tim Hardwick: Apple will bring lossless audio and ulta-low latency audio to AirPods Max in its upcoming iOS 18.4 software update arriving in April, according to the company.[&#8230;]Apple also said that today it is making a USB-C to 3.5mm audio cable available to buy for $39 from its online store, Apple Store app, and authorized [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/25/airpods-max-lossless-and-low-latency-audio-over-usb-c/>
+
+---
+
+## Error 702 Installing macOS on an External Drive
+
+date: 2025-03-25, from: Michael Tsai
+
+My Intel MacBook Pro died, and even though I have an M1 MacBookAir ready to replace it, it&#8217;s taken several days to get back to the point where I can run older versions of macOS for testing my apps. I had all the old versions installed in separate partitions on an external SSD. Prior to [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/25/error-702-installing-macos-on-an-external-drive/>
+
+---
+
+## Please Stop Externalizing Your Costs Directly Into My Face
+
+date: 2025-03-25, from: Michael Tsai
+
+Drew DeVault: Over the past few months, instead of working on our priorities at SourceHut, I have spent anywhere from 20-100% of my time in any given week mitigating hyper-aggressive LLM crawlers at scale. [&#8230;] If you think these crawlers respect robots.txt then you are several assumptions of good faith removed from reality. These bots [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/25/please-stop-externalizing-your-costs-directly-into-my-face/>
+
+---
+
+## Matching Drop Shadows
+
+date: 2025-03-25, from: Michael Tsai
+
+Mark Edwards: The image above shows the same drop shadow values, rendered by CSS on the web, Android, and iOS. It&#8217;s a dark and extreme shadow, to make the differences more pronounced. The shadows are black, with no X offset, 24px Y offset, and a 24px blur radius. I&#8217;ve used &#8220;px&#8221; when noting the values, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/25/matching-drop-shadows/>
+
+---
+
+## LilyGo T-Display K230 is a $99 RISC-V dev kit that looks like a phone
+
+date: 2025-03-25, from: Liliputing
+
+<p>The LilyGo T-Display K230 is a pocket-sized device with a 4.1 inch touchscreen AMOLED display, a camera, and support for WiFi and LoRa wireless communications. But it&#8217;s not a phone. Instead, LilyGo sells this little device as a $99 dev kit (currently out of stock) that combines a Kendryte K230 dual-core RISC-V processor with a screen, [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilygo-t-display-k230-is-a-99-risc-v-dev-kit-that-looks-like-a-phone/">LilyGo T-Display K230 is a $99 RISC-V dev kit that looks like a phone</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilygo-t-display-k230-is-a-99-risc-v-dev-kit-that-looks-like-a-phone/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-25, from: Dave Winer's linkblog)
+
+Social Security is breaking down. 
+
+<br> 
+
+<https://wapo.st/4hM5MAn>
+
+---
+
+## Defiance Through Mathematics
+
+date: 2025-03-25, from: Guy Kawasaki blog
+
+Tamar Lichter Blanks, PhD Candidate in Mathematics, Rutgers University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/defiance-through-mathematics>
+
+---
+
+## MINIX Z150-0dB is a slightly faster fanless mini PC (now
+
+date: 2025-03-25, from: Liliputing
+
+<p>The MINIX Z150-0dB is a fanless mini PC that packs an Intel N150 Twin lake processor and support for up to 32GB of user-replaceable memory and up to 4TB of PCIe 3.0 storage into a compact body that measures 123 x 120 x 46mm (4.84″ x 4.72″ x 1.81″). It&#8217;s an updated version of the Z100-0dB that [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/minix-z150-0db-is-a-slightly-faster-fanless-mini-pc-now/">MINIX Z150-0dB is a slightly faster fanless mini PC (now</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/minix-z150-0db-is-a-slightly-faster-fanless-mini-pc-now/>
+
+---
+
+## Bacalhau v1.7.0 - Day 2: Scaling Your Compute Jobs with Bacalhau Partitioned Jobs
+
+date: 2025-03-25, from: Bacalhau Blog
+
+This post is part of the 5-days of Bacalhau 1.7 series. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/bacalhau-v170-day-2-scaling-your>
+
+---
+
+## 'Brainrot' AI on Instagram Is Monetizing the Most Fucked Up Things You Can Imagine (and Lots You Can't)
+
+date: 2025-03-25, from: 404 Media Group
+
+The hottest use of AI right now? Dora the Explorer feet mukbang; Peppa the Pig Skibidi toilet explosion; Steph Curry and LeBron James Ahegao Drakedom threesome. 
+
+<br> 
+
+<https://www.404media.co/brainrot-ai-on-instagram-is-monetizing-the-most-fucked-up-things-you-can-imagine-and-lots-you-cant/>
+
+---
+
+## LG introduces an AMD Krackan Point version of the Gram 15 laptop
+
+date: 2025-03-25, from: Liliputing
+
+<p>The LG Gram 15 (15Z80T) is a laptop that has a 15.6 inch FHD display, an AMD &#8220;Krackan Point&#8221; processor, and thin and light design. Despite having a reasonably large display and a 72 Wh battery, the notebook measures just 17mm (0.67 inches) thick and weighs just 1.29 kg (2.84 pounds). That makes the new AMD-powered [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lg-introduces-an-amd-krackan-point-version-of-the-gram-15-laptop/">LG introduces an AMD Krackan Point version of the Gram 15 laptop</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lg-introduces-an-amd-krackan-point-version-of-the-gram-15-laptop/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-25, from: Dave Winer's linkblog)
+
+A very tasty title for today&#39;s Daily podcast, and it lives up to the promise. I keep wishing we had done something to prevent Twitter from being bought by a billionaire, same as I think now re Bluesky. Or if it&#39;s going to be bought, let a friendly billionaire buy it. 
+
+<br> 
+
+<https://podcasts.apple.com/us/podcast/nixon-dreamed-of-breaking-the-media-trump-is-doing-it/id1200361736?i=1000700734181>
+
+---
+
+## Standardizing Color Television Systems
+
+date: 2025-03-25, from: National Archives, Text Message blog
+
+Today&#8217;s post is written by Timothy Wilcox, an Archivist at the National Archives at Kansas City. Many born in the 1980s and after cannot recall a life without electronic visual media in vibrant hues. Few of us know the history that brought it to the masses. The advent of color television was a gradual process &#8230; <a href="https://text-message.blogs.archives.gov/2025/03/25/standardizing-color-television-systems/" class="more-link">Continue reading <span class="screen-reader-text">Standardizing Color Television Systems</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/03/25/standardizing-color-television-systems/>
+
+---
+
+## Texans Might Soon Have to Show Photo ID to Buy a Dildo Online
+
+date: 2025-03-25, from: 404 Media Group
+
+A new bill introduced by Angela Paxton, wife of Texas AG Ken Paxton, would impose privacy-invading age verification requirements on online sex toy retailers.   
+
+<br> 
+
+<https://www.404media.co/texas-sex-toy-age-verification/>
+
+---
+
+## Classified Clown Show, Law and Disorder & Farewell to the Best Guest in Manhattan 
+
+date: 2025-03-25, from: Tina Brown
+
+We knew it would happen and it has. 
+
+<br> 
+
+<https://tinabrown.substack.com/p/classified-clown-show-law-and-disorder>
 
 ---
 
@@ -44,6 +700,18 @@ This is a post authored by Maria Crusey, an intern with Authors Alliance and a t
 <br> 
 
 <https://www.authorsalliance.org/2025/03/25/government-operated-platforms-and-the-first-amendment-in-schiff-v-u-s-office-of-personnel-management/>
+
+---
+
+## Escaping POC Purgatory: Evaluation-Driven Development for AI Systems
+
+date: 2025-03-25, from: O'Reilly Radar
+
+Let’s be real: Building LLM applications today feels like purgatory. Someone hacks together a quick demo with ChatGPT and LlamaIndex. Leadership gets excited. “We can answer any question about our docs!” But then…reality hits. The system is inconsistent, slow, hallucinating—and that amazing demo starts collecting digital dust. We call this “POC purgatory”—that frustrating limbo where [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/escaping-poc-purgatory-evaluation-driven-development-for-ai-systems/>
 
 ---
 
@@ -449,17 +1117,29 @@ Why can’t the Dems run ads like this.
 
 ---
 
-## Marginalia Search recieves second nlnet grant
+## Marginalia Search receives second nlnet grant
 
 date: 2025-03-25, from: Marginallia log
 
 I&rsquo;m happy and grateful to announce that the Marginalia Search project has been accepted for a second nlnet grant.
-All the details are not yet finalized, but tentatively the grant will go toward addressing most of the items in the project backlog for 2025.
+All the details are not yet finalized, but tentatively the grant will go toward addressing most of the items in the project roadmap for 2025.
 I&rsquo;ve already been working full time on the project since summer 2023, and this grant secures additional development time, and extends the runway to a comfortable degree. 
 
 <br> 
 
 <https://www.marginalia.nu/log/a_116_grant_2.0/>
+
+---
+
+## Introducing GovArchive.us & Mirroring Entire Sites with Web Archives
+
+date: 2025-03-25, from: Web Recorder
+
+Introducing GovArchive.us and tooling to mirror web sites using web archives. 
+
+<br> 
+
+<https://webrecorder.net/blog/2025-03-25-govarchive-us-and-mirroring-sites-with-web-archives/>
 
 ---
 
@@ -785,7 +1465,7 @@ Finally, some answers in Wonderland
 
 date: 2025-03-24, from: 404 Media Group
 
-AI-generated audio of Vance saying Must is “cosplaying as a great American leader” has been played more than 2 million times on TikTok alone.  
+AI-generated audio of Vance saying Musk is “cosplaying as a great American leader” has been played more than 2 million times on TikTok alone.  
 
 <br> 
 
@@ -823,7 +1503,7 @@ Tax revenue could drop by $500 billion amid turmoil at IRS.
 
 ---
 
-## Announcing Bacalhau 1.7: Empowering Enterprises with Enhanced Scalability, Job Management, and Support
+## Announcing Bacalhau 1.7.0: Empowering Enterprises with Enhanced Scalability, Job Management, and Support
 
 date: 2025-03-24, from: Bacalhau Blog
 

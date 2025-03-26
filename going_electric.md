@@ -1,11 +1,427 @@
 ---
 title: going electric
-updated: 2025-03-25 06:09:08
+updated: 2025-03-26 06:08:16
 ---
 
 # going electric
 
-(date: 2025-03-25 06:09:08)
+(date: 2025-03-26 06:08:16)
+
+---
+
+## With 600 mile range and $9K price, maybe it really SHOULD be the new Model 2
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/hongguang_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The SGMW Wuling Hongguang EV offers Chinese car buyers five or seven-seat configurations, 300 km of range (that’s about 185 miles to you and me), and a $9,600 price tag – but it’s the 1000 km EREV version that would take the US by storm in 2025.</p>
+
+
+
+<p><strong>Context</strong>: this is an opinion/satire piece, so get that out of the way and have some fun.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,erev,opinion,saic-gm-wuling" data-layer-viewtype="unknown" data-post-id="407755" href="https://electrek.co/2025/03/26/with-600-mile-range-and-9k-price-maybe-it-really-should-be-the-new-model-2/#more-407755" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/with-600-mile-range-and-9k-price-maybe-it-really-should-be-the-new-model-2/>
+
+---
+
+## Nissan Micra EV: This Is It
+
+date: 2025-03-26, from: Inside EVs News
+
+It's based on the Renault 5 EV, and it'll be joined in the lineup by a new Juke EV.  
+
+<br> 
+
+<https://insideevs.com/news/754651/nissan-micra-electric-juke-ev/>
+
+---
+
+## Nissan Says 'We Never Stopped' Talking To Honda
+
+date: 2025-03-26, from: Inside EVs News
+
+The company's incoming CEO says Nissan remains "very open" to partnerships. Here's what that means. 
+
+<br> 
+
+<https://insideevs.com/news/754635/nissan-honda-partnership-talks-continue/>
+
+---
+
+## Nissan Is Making An Xterra-Inspired Adventure EV
+
+date: 2025-03-26, from: Inside EVs News
+
+I saw it in person, and it looks great. But should Nissan use the Xterra name on a crossover? 
+
+<br> 
+
+<https://insideevs.com/news/754632/nissan-ev-xterra/>
+
+---
+
+## 2026 Nissan Leaf: This Is It
+
+date: 2025-03-26, from: Inside EVs News
+
+Nissan's affordable EV is back, now as a crossover with more range and a NACS port. 
+
+<br> 
+
+<https://insideevs.com/news/754619/2026-nissan-leaf/>
+
+---
+
+## GM’s Gas Station-Like DC Fast Chargers Are Now In Over 25 States
+
+date: 2025-03-26, from: Inside EVs News
+
+GM Energy partnered with Pilot Company and EVgo to install thousands of 350 kW DC fast chargers on major travel corridors in the U.S. 
+
+<br> 
+
+<https://insideevs.com/news/754646/gm-evgo-pilot-dc-fast-chargers-130-locations/>
+
+---
+
+## Genesis EVs Get Tesla Supercharger Access In The U.S.
+
+date: 2025-03-26, from: Inside EVs News
+
+Owners of the GV60, Electrified GV70 and Electrified G80 EVs will get a free NACS to CCS adapter. 
+
+<br> 
+
+<https://insideevs.com/news/754634/genesis-ev-tesla-supercharger-access/>
+
+---
+
+## Tesla drops ‘FSD’ from name of its driver-assist tech in China
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-25-at-8.22.44PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After a rocky rollout of its “Full Self-Driving” (FSD) system in China, Tesla is dropping “FSD” from the name of the system while it faces increased scrutiny from regulators.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-full-self-driving" data-layer-viewtype="unknown" data-post-id="407748" href="https://electrek.co/2025/03/25/tesla-drops-fsd-from-name-of-its-driver-assist-tech-in-china/#more-407748" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/tesla-drops-fsd-from-name-of-its-driver-assist-tech-in-china/>
+
+---
+
+## The SEL trim is the best 2025 Hyundai IONIQ 5 lease deal right now
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/2025-IONIQ-5-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://www.carsdirect.com/buildyourcar/style?make=hyundai&amp;model=ioniq-5&amp;src=1001054&amp;lnk=subIDMichelle" target="_blank" rel="noreferrer noopener">2025 Hyundai IONIQ 5 SEL</a> is more expensive than the more basic SE, but it’s a better lease deal this month – here’s the lowdown. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-lease,hyundai,hyundai-ioniq-5" data-layer-viewtype="unknown" data-post-id="407709" href="https://electrek.co/2025/03/25/2025-hyundai-ioniq-5-sel-lease-deal/#more-407709" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/2025-hyundai-ioniq-5-sel-lease-deal/>
+
+---
+
+## Tesla is banned from Canada EV rebate program, gov freezes suspicous $43 million in rebates
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/08/tesla-montreal-store-e1470232605451.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>Tesla has been banned from upcoming federal EV rebate programs in Canada as the government freezes the suspicious $43 million in rebates that Tesla claimed days before the program was paused earlier this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="407697" href="https://electrek.co/2025/03/25/tesla-banned-canada-ev-rebate-program-gov-freezes-suspicous-43-million-rebates/#more-407697" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/tesla-banned-canada-ev-rebate-program-gov-freezes-suspicous-43-million-rebates/>
+
+---
+
+## XCharge NA + Hypercharge supercharge Canada’s EV infrastructure
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/XCharge-NA-GridLink-rendering.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>XCharge North America (XCharge NA) and Hypercharge Networks are bringing bidirectional DC fast chargers to Canada, starting in British Columbia and Ontario. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="british-columbia,canada,dc-fast-charging,ev-chargers,ontario" data-layer-viewtype="unknown" data-post-id="407688" href="https://electrek.co/2025/03/25/xcharge-na-hypercharge-canada/#more-407688" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/xcharge-na-hypercharge-canada/>
+
+---
+
+## Rivian (RIVN) is preparing to launch R2: Here’s the latest update on its progress
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivian-R2-pre-orders.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Rivian is still on track to launch the midsize R2 next year. The expansion at its Normal, Illinois, plant is quickly advancing as it preps for R2 deliveries in 2026. Rivian says it’s “slightly ahead” on construction. Here’s the latest update on <a href="https://electrek.co/guides/rivian-r2/">Rivian’s R2</a> expansion in Normal.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian,rivian-r2" data-layer-viewtype="unknown" data-post-id="407679" href="https://electrek.co/2025/03/25/rivian-rivn-preparing-to-launch-r2-latest-update/#more-407679" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/rivian-rivn-preparing-to-launch-r2-latest-update/>
+
+---
+
+## Meet BYD’s new Sealion 05 EV, a smart electric SUV that’s cheaper than it looks
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BYD-Sealion-05-EV-3.jpg?quality=82&#038;strip=all&#038;w=1125" /></div><p><a href="https://electrek.co/guides/byd/">BYD’s</a> new Sealion 05 EV is finally here, and it’s even better than expected. The mass-market electric SUV is loaded with BYD’s “God’s Eye” smart driving tech, has up to 323 miles of driving range, and starts at just around $16,000. It even has a built-in refrigerator.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="407646" href="https://electrek.co/2025/03/25/byds-sealion-05-ev-electric-suv-cheaper-than-it-looks/#more-407646" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/byds-sealion-05-ev-electric-suv-cheaper-than-it-looks/>
+
+---
+
+## Tesla can deliver a new Model Y order today in US – pointing to low demand for the refresh
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-model-Y-refresh-same-day-delivery.png?w=1600" /></div><p>You can order a new Model Y Launch Edition today in the US, and Tesla can deliver it on the same day. This points to weak demand just weeks after the new vehicle’s deliveries started, while CEO Elon Musk indirectly suggested strong demand.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="407626" href="https://electrek.co/2025/03/25/tesla-can-deliver-new-model-y-order-today-us-low-demand-refresh/#more-407626" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/tesla-can-deliver-new-model-y-order-today-us-low-demand-refresh/>
+
+---
+
+## Forget carbon neutral, Northwestern develops carbon NEGATIVE concrete
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Bloczek_betonowy.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Depending on who you believe, <a href="https://www.chathamhouse.org/2018/06/making-concrete-change-innovation-low-carbon-cement-and-concrete">concrete is responsible for between 5 and 10% of global carbon emissions</a>. That’s a lot of carbon, and the quest for carbon neutral concrete has become a multibillion-dollar endeavor – but a team of scientists from Northwestern University thinks they’ve cracked it, and gone one better: <strong>carbon negative concrete</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="carbon-capture,chicago,co2-emissions,construction" data-layer-viewtype="unknown" data-post-id="407524" href="https://electrek.co/2025/03/25/forget-carbon-neutral-northwestern-develops-carbon-negative-concrete/#more-407524" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/forget-carbon-neutral-northwestern-develops-carbon-negative-concrete/>
+
+---
+
+## First savings on new ECOVACS Goat O1000 RTK robot mower at $900, Anker PowerCore Reserve $90, Hiboy e-scooters, Husqvarna, more
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/ECOVACS-Goat-O1000-RTK-Robot-Lawn-Mower.webp?w=1600" /></div><p>Today’s Green Deals are headlined by the very first chance at cash savings on <a href="https://9to5toys.com/2025/03/24/ecovac-goat-o1000-robot-mower-first-discount/">ECOVACS’ new Goat O1000 RTK Robot Lawn Mower</a> that first debuted at CES 2025 and is now down at <a href="https://9to5toys.com/2025/03/24/ecovac-goat-o1000-robot-mower-first-discount/">$900</a>. Right behind it we have the popular <a href="https://9to5toys.com/2025/03/25/anker-powercore-reserve-90-more/">Anker PowerCore Reserve</a> 60,000mAh Power Bank Station dropping down to <a href="https://9to5toys.com/2025/03/25/anker-powercore-reserve-90-more/">$90</a>, as well as the newer C200 and C300 power banks that are also seeing significant savings. There’s also <a href="https://9to5toys.com/2025/03/25/hiboy-s2-pro-425-big-spring-savings-more/">Hiboy’s S2 Pro Electric Scooter</a> that has dropped down further from last week’s pricing to <a href="https://9to5toys.com/2025/03/25/hiboy-s2-pro-425-big-spring-savings-more/">$425</a>, among other discounted models to choose from. Lastly, we have a rare price cut on <a href="https://9to5toys.com/2025/03/24/husqvarna-power-axe-350i-chainsaw-kit-384-more/">Husqvarna’s Power Axe 350i</a> 42V 18-inch Cordless Chainsaw Kit to <a href="https://9to5toys.com/2025/03/24/husqvarna-power-axe-350i-chainsaw-kit-384-more/">$384</a> alongside a few other notable kit discounts. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s exclusive new low price on <a href="https://9to5toys.com/2025/03/24/exclusive-ecoflow-delta-2-new-360-low/">EcoFlow’s DELTA 2</a> power station, <a href="https://9to5toys.com/2025/03/24/aventon-level-2-commuter-e-bike-1499/">Aventon’s Level 2 e-bike discounts</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="407624" href="https://electrek.co/2025/03/25/ecovacs-goat-robot-mower-anker-hiboy-husqvarna-more/#more-407624" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/ecovacs-goat-robot-mower-anker-hiboy-husqvarna-more/>
+
+---
+
+## Tesla announces launch in Saudi Arabia
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-25-at-12.56.21 PM.png?w=1600" /></div><p>Tesla has announced an upcoming launch of its electric vehicles in Saudi Arabia with a launch event planned in April in Riyadh.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="407622" href="https://electrek.co/2025/03/25/tesla-announces-launch-in-saudi-arabia/#more-407622" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/tesla-announces-launch-in-saudi-arabia/>
+
+---
+
+## Xiaomi SU7's 5-Star Crash Rating: This Is China's Safest Car
+
+date: 2025-03-25, from: Inside EVs News
+
+The Chinese tech giant's sedan receives the highest score of 2024 in C-NCAP crash tests. Credit body and technology for the honors. 
+
+<br> 
+
+<https://insideevs.com/news/754590/xiaomi-su7-safety-test/>
+
+---
+
+## The loophole is back open – Kias can charge at Tesla Superchargers again
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/09/Kia-NACS-Hyundai-Tesla.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia owners have once again found that they are able to charge on Tesla Superchargers, after <a href="https://electrek.co/2025/03/25/hyundai-ev-owners-get-free-nacs-adapters-for-tesla-superchargers/">Hyundai was officially allowed</a> on the network this morning.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,north-american-charging-standard-nacs,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="407620" href="https://electrek.co/2025/03/25/the-loophole-is-back-open-kias-can-charge-at-tesla-superchargers-again/#more-407620" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/the-loophole-is-back-open-kias-can-charge-at-tesla-superchargers-again/>
+
+---
+
+## Toyota’s ultra-long-range EV batteries may have just hit a speed bump
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Toyota-long-range-EV-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Those ultra-long-range Toyota EV batteries we were waiting for? Yeah, they might take even longer than expected. <a href="https://electrek.co/guides/toyota/">Toyota</a> is delaying plans to build a new EV battery plant in Japan, where it was expected to begin producing its next-gen batteries with over 620 miles (1,000 km) range in 2028.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="toyota" data-layer-viewtype="unknown" data-post-id="407429" href="https://electrek.co/2025/03/25/toyotas-ultra-long-range-ev-batteries-hit-speed-bump/#more-407429" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/toyotas-ultra-long-range-ev-batteries-hit-speed-bump/>
+
+---
+
+## Jeep’s Smallest Hybrid Finally Gets AWD Thanks To Tiny Electric Motors
+
+date: 2025-03-25, from: Inside EVs News
+
+The Jeep Avenger debuted three years ago, but until now it has been only front-wheel drive. 
+
+<br> 
+
+<https://insideevs.com/news/754568/jeep-avenger-4xe-specs-delivery/>
+
+---
+
+## FBI puts together Tesla task force as counter-protest violence ramps up
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/FBI-Tesla-attacks.gif?w=1540" /></div><p>The FBI has launched a task force to address the violence against Tesla properties, which President Trump as labeled as “domestic terrorism.”</p>
+
+
+
+<p>On the other side, counter-protestors against peaceful Tesla protestors protected under the US Constitution are also getting violent.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="407603" href="https://electrek.co/2025/03/25/fbi-puts-together-tesla-task-force-as-counter-protest-violence-ramps-up/#more-407603" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/fbi-puts-together-tesla-task-force-as-counter-protest-violence-ramps-up/>
+
+---
+
+## Hyundai, Genesis EV owners are getting free NACS adapters for Tesla Superchargers
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-free-Tesla-adapters.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Starting today, all <a href="https://electrek.co/guides/hyundai/">Hyundai</a> and Genesis EV drivers are gaining access to over 20,000 Tesla Superchargers. That’s right, the IONIQ 5, IONIQ 6, Kona Electric, and even the OG IONIQ Electric hatchback can charge up at Tesla’s fast-charging network. Genesis GV60, Electrified GV70, and Electrified G80 drivers are also gaining access. Hyundai will begin shipping free NACS adapters soon. Here’s how you can snag yours.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-5,hyundai-ioniq-6,hyundai-kona-electric,tesla-supercharger" data-layer-viewtype="unknown" data-post-id="407602" href="https://electrek.co/2025/03/25/hyundai-ev-drivers-get-free-adapters-for-tesla-superchargers/#more-407602" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/hyundai-ev-drivers-get-free-adapters-for-tesla-superchargers/>
+
+---
+
+## Hyundai Insteroid EV will be like the Inster on steroids: Here’s our first look at the ‘dream car’
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hyundai-Insteroid-EV-teaser.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai</a> will unveil the so-called “dream car” as soon as next week. The Insteroid EV takes Hyundai’s low-cost Inster electric SUV to the next level, almost like it’s on “Steroids.” Here’s our first look at the upcoming EV concept.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-inster" data-layer-viewtype="unknown" data-post-id="407568" href="https://electrek.co/2025/03/25/hyundai-teases-first-look-insteroid-ev-dream-car-debuting-soon/#more-407568" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/hyundai-teases-first-look-insteroid-ev-dream-car-debuting-soon/>
+
+---
+
+## Surprise: Auto Tariffs Are Still On The Table
+
+date: 2025-03-25, from: Inside EVs News
+
+Plus, the FBI has a warning for Tesla owners and China's FSD rollout is officially paused. 
+
+<br> 
+
+<https://insideevs.com/news/754472/trump-tariffs-are-coming-anyway/>
+
+---
+
+## Rivian EVs Get A New Purpose-Built Rooftop Tent
+
+date: 2025-03-25, from: Inside EVs News
+
+Made by iKamper, the new Skycamp Mini can be locked with the same keys used for Rivian’s cargo bars. 
+
+<br> 
+
+<https://insideevs.com/news/754544/rivian-ikamper-hard-shell-rooftop-tent/>
+
+---
+
+## Zenobē completes £220 million raise for Scottish BESS project
+
+date: 2025-03-25, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/3D-mockup_Eccles_02.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>After £220 million financing raise to fund its 400/800 MW battery energy storage project in Eccles, Zenobē investment in Scotland reaches the £750 million mark – one of the largest BESS investments in all of Europe (so far).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="battery-storage,electric-utility" data-layer-viewtype="unknown" data-post-id="407510" href="https://electrek.co/2025/03/25/zenobe-completes-220-million-raise-for-scottish-bess-project/#more-407510" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/25/zenobe-completes-220-million-raise-for-scottish-bess-project/>
+
+---
+
+## EV Charging Startup Revel Launches California Expansion
+
+date: 2025-03-25, from: Inside EVs News
+
+Revel opened its first site outside of New York City on Monday, in San Francisco's Mission neighborhood.  
+
+<br> 
+
+<https://insideevs.com/news/754489/revel-charging-san-francisco-expansion/>
 
 ---
 

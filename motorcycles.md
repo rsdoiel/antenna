@@ -1,11 +1,122 @@
 ---
 title: motorcycles
-updated: 2025-03-25 06:09:07
+updated: 2025-03-26 06:08:14
 ---
 
 # motorcycles
 
-(date: 2025-03-25 06:09:07)
+(date: 2025-03-26 06:08:14)
+
+---
+
+## Here's the Real Reason Why There Aren't More American Racers In MotoGP
+
+date: 2025-03-26, from: Ride Apart, Electric Motorcycle News
+
+Spoiler: You (and your family) have to start super young, spend a whole bunch of money, and be insanely talented. 
+
+<br> 
+
+<https://www.rideapart.com/news/754570/getting-into-racing-motogp-impossible/>
+
+---
+
+## Triumph Is Coming Out With Enduro Dirt Bikes, Teases Street-Legal Versions
+
+date: 2025-03-26, from: Ride Apart, Electric Motorcycle News
+
+The company just reminds everyone these AREN'T street-legal...yet. 
+
+<br> 
+
+<https://www.rideapart.com/news/754582/2025-triumph-tf-250-tf-450-e-enduro-dirt-bikes-launch/>
+
+---
+
+## I Wish I Had $35K To Buy This Rare Ducati Motorcycle, and It Has a Senna Connection
+
+date: 2025-03-26, from: Ride Apart, Electric Motorcycle News
+
+This bike is 135 of just 300 ever made, and is in immaculate condition. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754499/ducati-916-senna-for-sale-bike-specialists/>
+
+---
+
+## Things Have Gone South For This UK-Based Motorcycle Builder, So Is This the End?
+
+date: 2025-03-26, from: Ride Apart, Electric Motorcycle News
+
+Dwindling sales and increasing competition have stopped the boutique brand dead in its tracks. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754500/mutt-motorcycles-enters-administration/>
+
+---
+
+## The Great Scrape
+
+date: 2025-03-26, from: Herman Bear Blog
+
+Scraper bots are destroying the commons to feed the machine 
+
+<br> 
+
+<https://herman.bearblog.dev/the-great-scrape/>
+
+---
+
+## What Do You Think, Will Rotting Corpse Smell Scare Off Motorcycle Thieves?
+
+date: 2025-03-26, from: Ride Apart, Electric Motorcycle News
+
+It's one way to tackle an annoying problem, certainly. 
+
+<br> 
+
+<https://www.rideapart.com/news/754603/cactus-lock-bike-rotting-corpse/>
+
+---
+
+## IndyCar Power Rankings: Palou looking strong early in campaign for a third straight title
+
+date: 2025-03-25, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer In a largely unsurprising development, two-time defending champion Alex Palou has now not only won the season-opener at St. Petersburg, but also the season&#8217;s second&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/indycar/indycar-power-rankings-palou-looking-strong-early-in-campaign-for-a-third-straight-title/>
+
+---
+
+## Is Utah's Big Game Price Increase Actually About Reducing Public Land Advocacy?
+
+date: 2025-03-25, from: Ride Apart, Electric Motorcycle News
+
+Allow me to doth my tinfoil hat.  
+
+<br> 
+
+<https://www.rideapart.com/news/754471/utah-big-game-hunting-price-increase-public-land/>
+
+---
+
+## Segway Is Recalling This E-Scooters Because They Can Fold-up While You're Riding
+
+date: 2025-03-25, from: Ride Apart, Electric Motorcycle News
+
+That’s probably the last thing you want your e-scooter to do. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754351/recall-segway-escooters-folding-mechanism/>
 
 ---
 
