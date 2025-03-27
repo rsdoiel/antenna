@@ -1,11 +1,395 @@
 ---
 title: science and technology
-updated: 2025-03-26 06:08:10
+updated: 2025-03-27 06:07:43
 ---
 
 # science and technology
 
-(date: 2025-03-26 06:08:10)
+(date: 2025-03-27 06:07:43)
+
+---
+
+## Now Windows Longhorn is long gone, witness reflects on Microsoft's OS belly-flop
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>&#39;This was not good dog food&#39;</h4> <p>Retired Microsoft engineer Dave Plummer has taken to his YouTube channel to explain Redmond&#39;s missteps with Windows Longhorn and the background to the company&#39;s failed attempt at an XP follow-up.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/looking_back_at_windows_longhorn/>
+
+---
+
+## Newport Wafer Fab rebooted with £250M silicon carbide investment
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Britain&#39;s biggest semiconductor plant to produce EV chips that can take the heat</h4> <p>The former Newport Wafer Fab (NWF) facility in South Wales is getting £250 million ($323 million) to start making silicon carbide semiconductors, a year after the sale of the site was approved by UK government.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/newport_wafer_fab_reboot/>
+
+---
+
+## The passive aggression of connecting USB to PS/2
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Your mouse once understood two protocols. What&#39;s your excuse?</h4> <p>Before Bluetooth and USB, computers had PS/2 ports. Microsoft veteran Raymond Chen took another trip down memory lane this week to explain just how dumb the USB-to-PS/2 adapters that shipped with Microsoft Mouse devices really were.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/raymond_chen_usb/>
+
+---
+
+## UK's first permanent facial recognition cameras installed in South London
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>As if living in Croydon wasn&#39;t bad enough</h4> <p>The Metropolitan Police has confirmed its first permanent installation of live facial recognition (LFR) cameras is coming this summer and the lucky location will be the South London suburb of Croydon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/uk_facial_recognition/>
+
+---
+
+## Ransomwared NHS software supplier nabs £3M discount from ICO for good behavior
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Data stolen included checklist for medics on how to get into vulnerable people&#39;s homes</h4> <p>The UK&#39;s data protection watchdog is dishing out a £3.07 million ($3.95 million) fine to Advanced Computer Software Group, whose subsidiary&#39;s security failings led to a ransomware attack affecting NHS care.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/ransomwared_nhs_software_supplier_nabs/>
+
+---
+
+## Today's jobs Microsoft thinks could use an AI assist: Researchers and analysts
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>If coworkers cranking out biz strategies and fussing over balance sheets seem robotic, you ain&#39;t seen nothing yet</h4> <p>Microsoft on Wednesday introduced out two &#34;reasoning agents&#34; it claims can handle research and analysis projects.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/microsoft_365_copilot_reasoning_agents/>
+
+---
+
+## Vivaldi bakes Proton VPN into browser to boost privacy
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Desktop users get free access – assuming they&#39;re cool with logging in and limited speeds</h4> <p>Vivaldi has become the latest browser to include a virtual private network (VPN) option with its product, working with Proton VPN to up user privacy.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/vivaldi_proton_vpn/>
+
+---
+
+## From MP3 to Web3 to now 3D, Napster gets a new owner
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Beating a dead horse to a 4-4 beat</h4> <p>Napster, the original file-sharing troublemaker that shook the music industry, is about to change hands once again in yet another attempt to drag the brand into relevance.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/napster_gets_new_owner/>
+
+---
+
+## Even Google struggles to balance fast-but-pricey flash and cheap-but-slow hard disks
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Reveals it ‘dramatically improved IOPS and throughput’ of its own storage with homebrew &#39;L4&#39; automation and cache</h4> <p>Google has revealed that it still relies on hard disk drives for most of its storage needs, but has been able to ‘dramatically’ improve the performance of its storage systems with a homebrew automated data tiering system.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/google_l4_storage_performance_improvements/>
+
+---
+
+## Dell sheds ten percent of staff for the second year in a row
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Confirmed: 12,000 people let go over 12 months</h4> <p>Rumours of swingeing layoffs at Dell were not exaggerated, a statement <i>The Register</i> offers after reading the hardware giant’s most recent annual report which reveals its workforce shrank by 12,000 in the year to January 31st, 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/dell_layoffs_2025/>
+
+---
+
+## Sols 4491-4492: Classic Field Geology Pose
+
+date: 2025-03-27, from: NASA breaking news
+
+Written by Lauren Edgar, Planetary Geologist at USGS Astrogeology Science Center Earth planning date: Monday, March 24, 2025 If you’ve ever seen a geologist in the field, you may have seen a classic stance: one leg propped up on a rock, knee bent, head down looking at the rocks at their feet, and arm pointing […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4491-4492-classic-field-geology-pose/>
+
+---
+
+## Microsoft walking away from datacenter leases (probably) isn't a sign the AI bubble is bursting
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Why lease space that can&#39;t power or cool 120kW racks - or the next-gen 600kW monsters?</h4> <p><strong>Comment</strong>  Microsoft has walked away from negotiations to lease two gigawatts worth of datacenter capacity in the US and Europe, and has deferred and cancelled other datacenter leases, according to a new report from investment bank TD Cowen.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/microsoft_ai_apocalypse/>
+
+---
+
+## Signalgate storm intensifies as journalist releases full secret Houthi airstrike chat
+
+date: 2025-03-26, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>So F-18 launch times, weapons, drone support aren&#39;t classified now ... who knew?</h4> <p>The Atlantic&#39;s editor-in-chief who was inadvertently added to a Signal group in which the US Secretary of Defense, Vice President, and others discussed secret military plans has now publicly released the messages.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/signal_calls_congress/>
+
+---
+
+## NASA’s X-59 Completes ‘Cruise Control’ Engine Speed Hold Test
+
+date: 2025-03-26, from: NASA breaking news
+
+The team behind NASA’s X-59 completed another critical ground test in March, ensuring the quiet supersonic aircraft will be able to maintain a specific speed during operation. The test, known as engine speed hold, is the latest marker of progress as the X-59 nears first flight this year. “Engine speed hold is essentially the aircraft&#8217;s [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-x-59-completes-cruise-control-engine-speed-hold-test/>
+
+---
+
+## US defense contractor cops to sloppy security, settles after infosec lead blows whistle
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>MORSE to pay -- .. .-.. .-.. .. --- -. ... for failing to meet cyber-grade</h4> <p>A US defense contractor will cough up $4.6 million to settle complaints it failed to meet cybersecurity requirements on military contracts and knowingly submitted false claims for payment.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/us_defense_contractor/>
+
+---
+
+## US government’s attack on free speech, science, and research is causing a brain drain
+
+date: 2025-03-26, from: OS News
+
+How do you create a brain drain and lose your status as eminent destination for scientists and researchers? The United States seems to be sending out questionnaires to researchers at universities and research institutes outside of the United States, asking them about their political leanings. Dutch universities are strongly advising Dutch researches not to respond to the questionnaires, and warn that they are designed to stifle free speech and independent research through intimidation. Universities of the Netherlands (UNL) has also warned researchers about the questionnaire. The USGS questionnaire asks, for example, whether the researcher’s organisation works with ‘entities associated with communist, socialist, or totalitarian parties’, whether the research project has taken ‘appropriate measures’ to ‘defend against gender ideology’ and whether the project has ‘measurable benefits for US domestic industries, workforce, or economic sectors’. ↫ Universiteit Leiden Researchers trying to enter the United States are also facing intimidation tactics, with the United States government going so far as to refuse entry to scientists critical of the Trump regime: A French scientist was denied entry to the US this month after immigration officers at an airport searched his phone and found messages in which he had expressed criticism of the Trump administration, said a French minister. “I learned with concern that a French researcher who was traveling to a conference near Houston was denied entry to the United States before being expelled,” Philippe Baptiste, France’s minister of higher education and research, said in a statement on Monday to Agence France-Presse published by Le Monde. ↫ Robert Mackey at the Guardian Being denied entry is one thing &#8211; being arrested and sent to a string of prisons is another, like this Canadian woman: Our next stop was Arizona, the San Luis Regional Detention Center. The transfer process lasted 24 hours, a sleepless, grueling ordeal. This time, men were transported with us. Roughly 50 of us were crammed into a prison bus for the next five hours, packed together – women in the front, men in the back. We were bound in chains that wrapped tightly around our waists, with our cuffed hands secured to our bodies and shackles restraining our feet, forcing every movement into a slow, clinking struggle. ↫ Jasmine Mooney at the Guardian If you&#8217;re a scientist or researcher planning on going to a conference in the US (or, say, a developer wanting to go to a tech conference), you should reconsider. Even if your papers are in order, you could end up on a plane to a concentration camp in El Salvador before you can even call a lawyer &#8211; while being told that any judge standing up for your rights should be impeached. The United States&#8217; war on free speech, science, and research goes far beyond intimidating individual scientists and researchers. The Trump regime is actively erasing and deleting entire fields of science, most notably anything involving things like climate and gender, and openly attacking and cutting funding to universities that disagree with the Trump regime. Almost immediately after being sworn in as president on 20 January, Trump put his signature to piles of executive orders cancelling or freezing tens of billions of dollars in funding for research and international assistance, and putting the seal on thousands of lay-offs. Orwellian restrictions have been placed on research, including bans on studies that mention particular words relating to sex and gender, race, disability and other protected characteristics. ↫ Nature US President Donald Trump’s latest war on the climate includes withdrawing support for any research that mentions the word. He has also launched a purge on government websites hosting climate data, in an apparent attempt to make the evidence disappear. ↫ Corey J. A. Bradshaw at The Conversation The Trump administration has fired hundreds of workers at the National Oceanic and Atmospheric Administration (Noaa), the US’s pre-eminent climate research agency housed within the Department of Commerce, the Guardian has learned.  “There is no plan or thought into how to continue to deliver science or service on weather, severe storms and events, conservation and management of our coasts and ocean life and much more,” he said. “Let’s not pretend this is about efficiency, quality of work or cost savings because none of those false justifications are remotely true.” ↫ Dharna Noor and Gabrielle Canon at the Guardian Intimidating current scientists isn&#8217;t enough, either &#8211; the scientists of the future must also suffer: US President Donald Trump has signed an executive orderto dismantle the Department of Education, fulfilling a campaign pledge and a long-cherished goal of some conservatives.  In its statement, the American Federation of Teachers said: &#8220;No-one likes bureaucracy, and everyone&#8217;s in favour of more efficiency, so let&#8217;s find ways to accomplish that. &#8220;But don&#8217;t use a &#8216;war on woke&#8217; to attack the children living in poverty and the children with disabilities.&#8221; ↫ Ana Faguy at the BBC But what about intimidating university students who don&#8217;t fall in line with the regime? Well, we can&#8217;t forget about those, now, can we? After immigration agents detained Columbia University graduate student Mahmoud Khalil over his involvement in pro-Palestine protests on campus, President Donald Trump promised it was just the beginning. The Department of Homeland Security (DHS) has since arrested at least two more students who are in the country on visas — one of whom had recently sued the Trump administration on First Amendment grounds. ↫ Gaby Del Valle at The Verge A Cornell University PhD student earlier this month sued the Trump administration seeking to stop the president’s order aimed at foreign students accused of “antisemitism”. Days later, lawyers at the justice department emailed to request that the student “surrender” to immigration officials ↫ Maanvi Singh at the Guardian These are just a small selection of stories, and I could&#8217;ve picked a dozen more still if I wanted to. The point should be squarely (roundly?) driven home by now: the United States government seems to be doing everything in its power to scare off the very people an economy based on science,  
+
+<br> 
+
+<https://www.osnews.com/story/141972/us-governments-attack-on-free-speech-science-and-research-is-causing-a-brain-drain/>
+
+---
+
+## KDE developers show off SDDM replacement
+
+date: 2025-03-26, from: OS News
+
+KDE&#8217;s login manager, SDDM, has its share of problems, and as such, a number of KDE developers are working on replacement to fix many of these long-standing issues. So, what exactly is wrong with SDDM as it exists today? With SDDM, power management is reinvented from scratch with bespoke configuration. We can&#8217;t integrate with Plasma&#8217;s network management, power management, volume controls, or brightness controls without reinventing them in the desktop-agnostic backend. SDDM was already having to duplicate too much functionality we have in KDE, which was very frustrating when we&#8217;re left maintaining it. ↫ David Edmundson On top of that, theming is also a big issue with SDDM, as it doesn&#8217;t adopt any of the existing Plasma themes, wallpapers, and so on, forcing users to manually makes thse changes for SDDM, and forcing theme developers to make custom themes just for SDDM instead of it just adopting Plasma&#8217;s settings. The new login manager they&#8217;re working on will instead make use of existing Plasma components and be brought up like Plasma itself, too. For now, the SDDM replacement is roughly at feature parity with SDDM, but it&#8217;s by no means ready for widespread adoption by distributions or users. Developers interested in trying it out can do so, though, and as it mostly looks like the existing default SDDM setup, you won&#8217;t even notice anything in day-to-day use. 
+
+<br> 
+
+<https://www.osnews.com/story/142010/kde-developers-show-off-sddm-replacement/>
+
+---
+
+## Files stolen from NSW court system, including restraining orders for violence
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Victims&#39; details at risk after criminals download 9,000 files from court database</h4> <p>Australian police are currently investigating the theft of &#34;sensitive&#34; data from a New South Wales court system after they confirmed approximately 9,000 files were stolen.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/nsw_police_investigating_court_system/>
+
+---
+
+## How Can I See the Northern Lights? We Asked a NASA Expert: Episode 54
+
+date: 2025-03-26, from: NASA breaking news
+
+How can I see the northern lights? To see the northern lights, you need to be in the right place at the right time. Auroras are the result of charged particles and magnetism from the Sun called space weather dancing with the Earth&#8217;s magnetic field. And they happen far above the clouds. So you need [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/smd/how-can-i-see-the-northern-lights-we-asked-a-nasa-expert-episode-54/>
+
+---
+
+## It's International Datacenter Day for those who colocate, er, celebrate
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>It&#39;s not a party until someone builds a bit barn on greenbelt land</h4> <p>It&#39;s International Datacenter Day, when people around the world get together to share their love of faceless concrete edifices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/international_datacenter_day/>
+
+---
+
+## Norman Rockwell Commemorates Gemini Program with Grissom and Young
+
+date: 2025-03-26, from: NASA breaking news
+
+In his painting called Grissom and Young, American painter and illustrator Norman Rockwell captures technicians helping NASA astronauts John Young and Gus Grissom suit up for the first flight of the Gemini program in March 1965. NASA loaned Norman Rockwell a Gemini spacesuit to make this painting as accurate as possible. Since its beginning, NASA [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/norman-rockwell-commemorates-gemini-program-with-grissom-and-young/>
+
+---
+
+## The Sky’s Not the Limit: Testing Precision Landing Tech for Future Space Missions
+
+date: 2025-03-26, from: NASA breaking news
+
+Nestled in a pod under an F/A-18 Hornet aircraft wing, flying above California, and traveling up to the speed of sound, NASA put a commercial sensor technology to the test. The flight tests demonstrated the sensor accuracy and navigation precision in challenging conditions, helping prepare the technology to land robots and astronauts on the Moon [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/stmd/the-skys-not-the-limit-testing-precision-landing-tech-for-future-space-missions/>
+
+---
+
+## NASA’s Webb Sees Galaxy Mysteriously Clearing Fog of Early Universe
+
+date: 2025-03-26, from: NASA breaking news
+
+Using the unique infrared sensitivity of NASA’s James Webb Space Telescope, researchers can examine ancient galaxies to probe secrets of the early universe. Now, an international team of astronomers has identified bright hydrogen emission from a galaxy in an unexpectedly early time in the universe’s history. The surprise finding is challenging researchers to explain how […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasas-webb-sees-galaxy-mysteriously-clearing-fog-of-early-universe/>
+
+---
+
+## NASA Starling and SpaceX Starlink Improve Space Traffic Coordination
+
+date: 2025-03-26, from: NASA breaking news
+
+As missions to low Earth orbit become more frequent, space traffic coordination remains a key element to efficiently operating in space. Different satellite operators using autonomous systems need to operate together and manage increasing workloads. NASA’s Starling spacecraft swarm recently tested a coordination with SpaceX’s Starlink constellation, demonstrating a potential solution to enhance space traffic [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/nasa-starling-and-spacex-starlink-improve-space-traffic-coordination/>
+
+---
+
+## NSTA Hyperwall Schedule
+
+date: 2025-03-26, from: NASA breaking news
+
+National Science Teaching Association (NSTA) Annual Conference, March 26-29, 2025 Join NASA in the Exhibit Hall (Booth #779) for Hyperwall Storytelling by NASA experts. Full Hyperwall Agenda below. THURSDAY, MARCH 27 FRIDAY, MARCH 28 SATURDAY, MARCH 29 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/nsta-hyperwall-schedule/>
+
+---
+
+## How NASA’s Perseverance Is Helping Prepare Astronauts for Mars
+
+date: 2025-03-26, from: NASA breaking news
+
+The rover carries several swatches of spacesuit materials, and scientists are assessing how they’ve held up after four years on the Red Planet. NASA’s Perseverance rover landed on Mars in 2021 to search for signs of ancient microbial life and to help scientists understand the planet’s climate and geography. But another key objective is to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/how-nasas-perseverance-is-helping-prepare-astronauts-for-mars/>
+
+---
+
+## Credible nerd says stop using atop, doesn't say why, everyone panics
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Bad news about the Linux system monitor may be on the way</h4> <p>Veteran sysadmin and tech blogger Rachel Kroll posted a cryptic warning yesterday about a popular Linux system monitoring tool. Maybe it&#39;s better to be safe than sorry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/uninstall_atop_for_now/>
+
+---
+
+## Google moves all Android development behind closed doors
+
+date: 2025-03-26, from: OS News
+
+Up until now, Google developed several components of Android out in the open, as part of AOSP, while developing everything else behind closed doors, only releasing the source code once the final new Android version was released. This meant that Google had to merge the two branches, which lead to problems and issues, so Google decided it&#8217;s now moving all development of Android behind closed doors. What will change is the frequency of public source code releases for specific Android components. Some components like the build system, update engine, Bluetooth stack, Virtualization framework, and SELinux configuration are currently AOSP-first, meaning they’re developed fully in public. Most Android components like the core OS framework are primarily developed internally, although some features, such as the unlocked-only storage area API, are still developed within AOSP. Beginning next week, all Android development will occur within Google’s internal branches, and the source code for changes will only be released when Google publishes a new branch containing those changes. As this is already the practice for most Android component changes, Google is simply consolidating its development efforts into a single branch. ↫ Mishaal Rahman at Android Authority This brings up a very old debate: if development happens entirely behind closed doors, with only the occasional code drop, is the software in question really open source? Technically, the answer is obviously &#8216;yes&#8217; &#8211; there&#8217;s no requirement that development take place in public. However, I&#8217;m fairly sure that when most people think of open source, they think not only of occasionally throwing chunks of code over the proverbial corporate walls, but also of open development, where everybody is free to contribute, pipe in, and follow along. Clearly, this move makes Android more closed, not less so, and it follows in a long string of changes Google has made to Android that make it ever harder to consider AOSP, the Android Open Source Project, a capable, modern mobile operating system. The Android fork of the Linux kernel will always be properly open, of course, but I have my doubts Android in and of itself will remain open source in the narrow definition for much longer, and even if it does, you have to wonder how much value it will have. I mean, Darwin, the open source base underneath macOS and iOS, is technically open source, but nobody cares because Apple made it pretty much worthless in and of itself. Anything of value is stripped out and not only developed behind closed doors, but also not released as open source, ensuring Darwin is nothing but a curiosity we sometimes remember exists. Android could be heading in the same direction. My biggest worry are Android ROMs, most notably for me personally GrapheneOS. I honestly have no idea how this will impact such projects. 
+
+<br> 
+
+<https://www.osnews.com/story/142002/google-moves-all-android-development-behind-closed-doors/>
+
+---
+
+## Microsoft patches patch that broke USB printing in Windows 11
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Now the only nonsense printed out will come from the user</h4> <p>Months after releasing a patch that left some printers spouting gibberish, Microsoft is issuing another update to deal with it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/microsoft_deborks_usb_printers/>
+
+---
+
+## US closes subsidiary loophole on dozens of Chinese entity list members
+
+date: 2025-03-26, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Bad news for American tech businesses making money off deals with sanction-dodging companies</h4> <p>The US government has initiated another crackdown on Chinese businesses skirting chip export bans, adding a few dozen new names, and offshoots of repeat offenders, to the entity list.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/us_entity_list_subsidiaries/>
+
+---
+
+## The Mysterious Flow of Fluid in the Brain
+
+date: 2025-03-26, from: Quanta Magazine
+
+A popular hypothesis for how the brain clears molecular waste, which may help explain why sleep feels refreshing, is a subject of debate.            <p>The post <a href="https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/" target="_blank">The Mysterious Flow of Fluid in the Brain</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-mysterious-flow-of-fluid-in-the-brain-20250326/>
+
+---
+
+## 50 years ago the last Saturn rocket rolled out of NASA's Vehicle Assembly Building
+
+date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+
+<h4>Half a century later, there&#39;s a Moon rocket behind those same doors</h4> <p>It is 50 years since the very last Saturn rocket rolled out from NASA&#39;s Vehicle Assembly Building (VAB) to launchpad 39B at the Kennedy Space Center.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/26/50_years_since_last_saturn/>
 
 ---
 
@@ -143,9 +527,9 @@ The following is a statement from NASA acting Administrator Janet Petro regardin
 
 ## God didn't have a plan for Gelsinger at Intel. Maybe there is one for his new gig, Gloo
 
-date: 2025-03-25, updated: 2025-03-26, from: The Register (UK I.T. News)
+date: 2025-03-25, updated: 2025-03-27, from: The Register (UK I.T. News)
 
-<h4>Chip guru preaches virtues of &#39;values-aligned&#39; pray-I, sorry, AI</h4> <p>Pat Gelsinger, once CEO of VMware and later Intel, has announced he&#39;s taken a new job as executive chair and head of technology at Gloo, a Colorado-based startup offering technology tools for churches and other faith-based organizations.…</p> 
+<h4>Chip guru preaches virtues of &#39;values-aligned&#39; pray-I, sorry, AI. He&#39;s also taken a VC gig</h4> <p><strong>Updated</strong>  Pat Gelsinger, once CEO of VMware and later Intel, has announced he&#39;s taken a new job as executive chair and head of technology at Gloo, a Colorado-based outfit offering technology tools for churches and other faith-based organizations.…</p> 
 
 <br> 
 
@@ -443,9 +827,9 @@ date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
 
 ## Hm, why are so many DrayTek routers stuck in a bootloop?
 
-date: 2025-03-25, updated: 2025-03-25, from: The Register (UK I.T. News)
+date: 2025-03-25, updated: 2025-03-27, from: The Register (UK I.T. News)
 
-<h4>Time to update your firmware, if you can, to one with the security fixes, cough cough</h4> <p>DrayTek router owners in the UK and beyond had a pretty miserable weekend after some ISPs began to notice a lot of their customers&#39; gateways going offline.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Time to update your firmware, if you can, to one with the security fixes, cough cough</h4> <p>DrayTek router owners in the UK and beyond had a pretty miserable weekend after some ISPs began to notice a bunch of their customers&#39; gateways going offline.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 

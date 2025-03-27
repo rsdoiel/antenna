@@ -1,11 +1,38 @@
 ---
 title: writing
-updated: 2025-03-26 06:08:12
+updated: 2025-03-27 06:07:44
 ---
 
 # writing
 
-(date: 2025-03-26 06:08:12)
+(date: 2025-03-27 06:07:44)
+
+---
+
+## How 'Severance' Changed a Writer’s Career
+
+date: 2025-03-26, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-severance-changed-a-writers-life" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Adam%20Scott%20walking%20down%20a%20plain%20white%20hallway%20carrying%20blue%20balloons%20in%20Severence.png" alt="Adam Scott walking down a plain white hallway carrying blue balloons in 'Severance'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Dan Erickson is currently one of the hottest TV writers in the business. He created, co-writes, co-produces and serves as showrunner for the popular and acclaimed Apple TV+ series Severance (starring Adam Scott and executive produced and primarily directed by Ben Stiller).<br><br>The second season of the sci-fi psychological thriller met with widespread praise and after its cliffhanger season finale, a third season has been announced. The series’ main plot follows Mark Scout (Adam Scott), who is part of a “severance” program in which his workplace memories are separated from his out-of-work memories, essentially creating two distinct identities: an “innie” whose existence revolves around his life at his corporate workplace, and an “outie” whose personal life is untouched — at least initially — by the drama and intrigue that’s occurring at the nebulous Lumon Industries. As the series progresses, Mark’s two worlds begin to collide, throwing him into an existential crisis as he attempts to find out more about the company he works for, and discover which version of him is his truer self.<br><br>This <a href="https://blog.finaldraft.com/your-elevator-pitch-just-got-shorter">high concept</a> came solely from Dan Erickson and <a href="https://blog.finaldraft.com/tv-pilot-writing-building-skeleton-show">a pilot</a> he wrote a decade ago.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-severance-changed-a-writers-life>
+
+---
+
+## The Public Interest Corpus Update – Boston Edition
+
+date: 2025-03-26, from: Author's Union blog
+
+On March 3, librarians, authors, publishers, and technologists gathered at Northeastern University Library in Boston to contribute to a startup plan for The Public Interest Corpus. The Public Interest Corpus is focused on supporting the creation of high-quality AI training data from memory organizations (e.g., libraries, archives, museums) and their partners (e.g., publishers) that advance [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/03/26/the-public-interest-corpus-update-boston-edition/>
 
 ---
 

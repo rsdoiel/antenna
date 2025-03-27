@@ -1,11 +1,47 @@
 ---
 title: retro computing
-updated: 2025-03-26 06:08:15
+updated: 2025-03-27 06:07:47
 ---
 
 # retro computing
 
-(date: 2025-03-26 06:08:15)
+(date: 2025-03-27 06:07:47)
+
+---
+
+## Games galore at RISC OS North
+
+date: 2025-03-27, from: RiscOS Story
+
+Having software to run on your RISC OS computer is all well and good &#8211; but every one knows the most important type of software of all is the type that entertains, and engages in an interactive way: Games Even if you don&#8217;t play computer games yourself, and might want to sit down with a spreadsheet, or while away the hours with a word processor, there&#8217;s a good chance you have family members who would prefer to just play. So here&#8217;s a quick round up of possible sources of computer&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/games-galore-risc-os-north/>
+
+---
+
+## Coming to RISC OS North: ECOS5 – FAST Linux Inside Your RISC OS World
+
+date: 2025-03-27, from: RiscOS Story
+
+With just two days to go until RISC OS North, another announcement has landed on the virtual doormat of the relocated RISCOSitory bunker &#8211; so with no further ado, it&#8217;s over to Andy Marks from RISCOSbits: Building on the &#8216;award-winning&#8217; success of Wispy, and ECOS (easy concurrent operating system) RISCOSbits is proud to unveil ECOS5 – an upgraded internal hardware solution that brings the full power of Linux into your RISCOSbits ITX-based FAST NVMe and SATA systems. Harnessing the raw power of the Compute Module 5, ECOS5 delivers 4GB RAM&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/ecos5-fast-linux-inside-your-risc-os-world/>
+
+---
+
+## b.log 2025/03/26 - It was a busy day, Blog changes, A new light in the kitchen, Vaccination, Mowing.
+
+date: 2025-03-26, from: Richard Murray's blog
+
+It was a busy day, Blog changes, A new light in the kitchen, Vaccination, Mowing. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250326>
 
 ---
 

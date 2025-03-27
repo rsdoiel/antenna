@@ -1,11 +1,267 @@
 ---
 title: home
-updated: 2025-03-26 06:08:14
+updated: 2025-03-27 06:07:47
 ---
 
 # home
 
-(date: 2025-03-26 06:08:14)
+(date: 2025-03-27 06:07:47)
+
+---
+
+## Gardening In Extremes: How to Tend Landscapes That Flood
+
+date: 2025-03-27, from: Dwell
+
+If the climate crisis has increased storms in your area, raised beds, rain gardens, and native plants should be your new best friends. 
+
+<br> 
+
+<https://www.dwell.com/article/gardening-in-extremes-how-to-tend-landscapes-that-flood-cfa64bca>
+
+---
+
+## 85 Types of Cactus Plants (With Pictures and Names)
+
+date: 2025-03-27, from: Yard Life blog
+
+<p>Cacti are some of the most fascinating and diverse plants in the world, thriving in some of the harshest environments. ... </p>
+<p class="read-more-container"><a title="85 Types of Cactus Plants (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/85-types-of-cactus-plants-with-pictures-and-names/#more-25880" aria-label="Read more about 85 Types of Cactus Plants (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/85-types-of-cactus-plants-with-pictures-and-names/">85 Types of Cactus Plants (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/85-types-of-cactus-plants-with-pictures-and-names/>
+
+---
+
+## 10 Common Causes of Yellow Leaves on Roses
+
+date: 2025-03-27, from: The Gardener's Path
+
+<p>If you notice the leaves on your rose bush turning yellow, don’t despair. While there are many possible causes for this common problem, most of them also have straightforward solutions. In this guide, we’ll help you identify exactly what’s causing your rose leaves to yellow and how to turn your plants green again.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/yellow-rose-leaves/">10 Common Causes of Yellow Leaves on Roses</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/yellow-rose-leaves/>
+
+---
+
+## Growing Heirloom Chrysanthemums
+
+date: 2025-03-26, from: The Freckled Gardener
+
+<p>The post <a href="https://freckledcalifornian.com/2025/03/26/growing-heirloom-chrysanthemums/">Growing Heirloom Chrysanthemums</a> appeared first on <a href="https://freckledcalifornian.com">Freckled Californian ~ A California Gardening &amp; Seasonal Living Blog</a>.</p>
+ 
+
+<br> 
+
+<https://freckledcalifornian.com/2025/03/26/growing-heirloom-chrysanthemums/>
+
+---
+
+## How To Strategically Place Your Security Cameras for Maximum Safety
+
+date: 2025-03-26, from: Family Handyman Blog
+
+<p>Security cameras can make your home safer. Our panel of experts offers tips to help you place your cameras where they'll be most effective.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-to-strategically-place-your-security-cameras-for-maximum-safety/">How To Strategically Place Your Security Cameras for Maximum Safety</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-to-strategically-place-your-security-cameras-for-maximum-safety/>
+
+---
+
+## Is Your House Too Humid for Your Plants?
+
+date: 2025-03-26, from: Family Handyman Blog
+
+<p>Making sure your home isn't too humid for your plants is vital to maintaining their overall health and promoting longevity.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/is-your-house-too-humid-for-plants/">Is Your House Too Humid for Your Plants?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/is-your-house-too-humid-for-plants/>
+
+---
+
+## Before & After: They Raised the Roof to Unlock Their Midcentury’s Peak Potential
+
+date: 2025-03-26, from: Dwell
+
+A family adds a glassy gable to their Colorado Springs home to bring in sunlight and views of the nearby mountains. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-rockbrook-remodel-workaday-design-colorado-springs-midcentury-e5bc4aa8>
+
+---
+
+## If You Love Homes With Glass Bricks, Here’s a $2.5M Stunner in Topanga
+
+date: 2025-03-26, from: Dwell
+
+Designed by Ed Niles, the crisp, white residence has floor-to-ceiling windows and a sprawling patio overlooking the ocean and downtown L.A. 
+
+<br> 
+
+<https://www.dwell.com/article/glass-brick-home-ed-niles-topanga-los-angeles-real-estate-307fac77>
+
+---
+
+## Ford Issues Recall for Cars That May Move Forward While in Reverse
+
+date: 2025-03-26, from: Family Handyman Blog
+
+<p>Ford vehicles are being recalled again; this time several hundred of their vehicles are at risk of driving forward while in reverse. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-recall-reverse-gear-defect/">Ford Issues Recall for Cars That May Move Forward While in Reverse</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-recall-reverse-gear-defect/>
+
+---
+
+## This Alps-Inspired Seattle Home Is Part Chalet, Part Sea Ranch
+
+date: 2025-03-26, from: Dwell
+
+Timber siding that recalls the Northern California enclave meets rooflines designed to echo Switzerland’s mountain lodging and craggy peaks. 
+
+<br> 
+
+<https://www.dwell.com/article/west-seattle-chalet-shed-architecture-and-design-mountain-lodging-1d0caf11>
+
+---
+
+## How to Grow and Use Hyssop
+
+date: 2025-03-26, from: The Gardener's Path
+
+<p>Hyssop is a fragrant culinary and medicinal herb with blue, purple, pink, or white flowers that attract a variety of pollinators. It's a relative of mint that doesn't spread aggressively, and is ideal for growing in rock gardens, borders, or containers. Learn how to grow and use hyssop in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-hyssop/">How to Grow and Use Hyssop</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-hyssop/>
+
+---
+
+## Inside a Seattle Home Designed for Family Functionality
+
+date: 2025-03-26, from: Sunset Magazine - Living in the West
+
+The vision for this 1970s Seattle house was to redesign it with funcitonality for a growing family in mind. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/seattle-house-family-functionality>
+
+---
+
+## 25 of the Best Cosmos Flower Cultivars for Your Yard
+
+date: 2025-03-26, from: The Gardener's Path
+
+<p>Cosmos come in a stunning array of different varieties, but we’ve narrowed the field to 25 of the most gorgeous, colorful cultivars, many of them award winners. Discover the best and most beautiful double, semi-double, bicolored, and patterned cosmos varieties and choose your favorite for your yard and garden.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-cosmos-varieties/">25 of the Best Cosmos Flower Cultivars for Your Yard</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-cosmos-varieties/>
+
+---
+
+## Travel the West
+
+date: 2025-03-26, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Home & Garden
+
+date: 2025-03-26, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## How They Pulled It Off: A Rural Vacation Home in Colombia Works With the Sloping Terrain
+
+date: 2025-03-26, from: Dwell
+
+An architect reimagines Colombo-Colonial architecture, creating a descending space plan and a "leaf-like" roof for only  $100,000. 
+
+<br> 
+
+<https://www.dwell.com/article/la-hoja-sobre-el-cerro-alsar-atelier-f0fed9e7>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-03-26, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## This Is the Easiest Patio Upgrade You’ll Make This Spring
+
+date: 2025-03-26, from: Sunset Magazine - Living in the West
+
+New Darlings launched a dreamy Southwest-inspired outdoor collection, and it's perfect for your spring home refresh. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/outdoor-living/new-darlings-rejuvenation-collection>
+
+---
+
+## This California Wine Region Is the Underrated Hidden Gem You Need to Visit
+
+date: 2025-03-26, from: Sunset Magazine - Living in the West
+
+Paso Robles is the Central Coast's hidden gem. Here's what to do, see, eat and taste where you're in the area, plus where to stay. 
+
+<br> 
+
+<https://www.sunset.com/travel/wine-country/what-to-do-in-paso-robles>
+
+---
+
+## Of Course Californians Are Making Wine Charged with Crystals
+
+date: 2025-03-26, from: Sunset Magazine - Living in the West
+
+Now your manifestating techniques can include wine. Tank Garage Winery's Crystal Visions wine is fermented with actual white and rose quartz crystals. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/crystal-visions-wine-tank-garage-winery>
 
 ---
 
@@ -137,6 +393,18 @@ date: 2025-03-26, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/23-bugs-that-look-like-giant-mosquitoes-with-pictures/>
+
+---
+
+## The 3 Things You Can’t Miss While Spring Cleaning
+
+date: 2025-03-25, from: Sunset Magazine - Living in the West
+
+When spring cleaning this season, there are some spots ythat are often forgotten about. Here's what not to miss. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/commonly-forgotten-spots-to-clean>
 
 ---
 
@@ -309,18 +577,6 @@ Amazon is hosting its Big Spring Sale from March 25 to March 31. Our editors sha
 <br> 
 
 <https://www.sunset.com/lifestyle/shopping/amazon-spring-sale-2025>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-25, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -554,12 +810,12 @@ These chicken breast recipes prove that the protein can be juicy, crispy, versat
 
 ---
 
-## Understanding Different Types of Peony Flowers
+## What Are the Different Types of Peony Flowers?
 
 date: 2025-03-24, from: The Gardener's Path
 
 <p>The Paeonia genus contains flowers native to Asia, Europe, and North America. There are numerous species and cultivars with different growth habits, dimensions, and colors. Discover exciting options for beds, borders, and containers, in this informative guide to the different types of peonies. Read more now.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/peony-types/">Understanding Different Types of Peony Flowers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/peony-types/">What Are the Different Types of Peony Flowers?</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
  
 
 <br> 

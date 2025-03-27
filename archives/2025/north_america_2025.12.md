@@ -1,11 +1,284 @@
 ---
 title: north america
-updated: 2025-03-26 06:08:08
+updated: 2025-03-27 06:07:41
 ---
 
 # north america
 
-(date: 2025-03-26 06:08:08)
+(date: 2025-03-27 06:07:41)
+
+---
+
+## How to beat back Trump’s divide & conquer strategy
+
+date: 2025-03-27, from: The Contrarian
+
+We must address the collective action problem 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-to-beat-back-trumps-divide-and>
+
+---
+
+## Beyond the “Signalgate” headlines
+
+date: 2025-03-27, from: Market Place, Make me Smart
+
+<p>In all the talk about senior White House officials discussing military attack plans over the messaging app Signal (and accidentally invited a journalist to the chat), one detail is being overlooked: the impact of the attacks on Yemen. We&#8217;ll get into it. And, we&#8217;ll unpack the chilling effect the Trump administration is having on U.S. tourism. Plus, nobody remembers that embarrassing time you misspoke in a Zoom meeting, right?</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/03/26/travel/foreign-travel-to-united-states-trump.html" target="_blank" rel="noreferrer noopener">&#8220;Foreign Travelers Are Rethinking Travel to the U.S.&#8221;</a> from The New York Times</li>
+<li><a href="https://www.washingtonpost.com/world/2025/03/26/trump-yemen-airstrikes-signal-chat-houthis/" target="_blank" rel="noreferrer noopener">&#8220;Beyond the Signal fiasco, Trump’s Yemen strategy needs more scrutiny&#8221;</a> from The Washington Post</li>
+<li><a href="https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/?gift=kPTlqn0J1iP9IBZcsdI5IWzhvFf3q4jecuzTA5cASGg&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" target="_blank" rel="noreferrer noopener">&#8220;Here Are the Attack Plans That Trump’s Advisers Shared on Signal&#8221; (gift link)</a> from The Atlantic</li>
+<li><a href="https://www.nytimes.com/2025/03/25/climate/car-free-arizona.html" target="_blank" rel="noreferrer noopener">&#8220;Living Car-Free in Arizona, on Purpose and Happily&#8221;</a> from The New York Times</li>
+<li><a href="https://www.wsj.com/lifestyle/ford-motor-mike-obrien-malaprops-6e560520?mod=hp_featst_pos5" target="_blank" rel="noreferrer noopener">&#8220;The Ford Executive Who Kept Score of Colleagues’ Verbal Flubs&#8221;</a> from The Wall Street Journal</li>
+<li><a href="https://www.nytimes.com/live/2025/03/26/business/pbs-npr-congress-hearing" target="_blank" rel="noreferrer noopener">&#8220;As Republicans Denounce NPR and PBS, Democrats Mock Hearing&#8221;</a> from The New York Times</li>
+</ul>
+<p>Help Marketplace and Make Me Smart plan for an uncertain future. <a href="https://support.marketplace.org/smart-sn">Donate now during our March fundraiser</a>.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/26/mms_20250326_Make_Me_Smart__128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fbeyond-the-signalgate-headlines&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/26/mms_20250326_Make_Me_Smart__128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fbeyond-the-signalgate-headlines&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/beyond-the-signalgate-headlines>
+
+---
+
+## China’s once-vibrant restaurant scene sees leaner times
+
+date: 2025-03-26, from: Market Place
+
+What the abrupt closure of a popular restaurant group in Shanghai says about the Chinese economy. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/26/chinas-once-vibrant-restaurant-scene-sees-leaner-times/>
+
+---
+
+## Consumers’ gloom may be spreading to small businesses
+
+date: 2025-03-26, from: Market Place
+
+High costs and uncertain economic conditions are motivating some to "pause their growth plans," the U.S. Chamber of Commerce says. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/26/consumers-gloom-may-be-spreading-to-small-businesses/>
+
+---
+
+## Evening Roundup, March 26
+
+date: 2025-03-26, from: The Contrarian
+
+Featuring Ann Telnaes; Brian O'Neill; Stephen Richer; AG Keith Ellison & AG Matthew Platkin; Meredith Blake; Cynthia Miller-Idriss & Bill Braniff; Jennifer Weiss Wolff; and Sen. Mallory McMorrow 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-26>
+
+---
+
+## Why does the government have 6 unemployment rates?
+
+date: 2025-03-26, from: Market Place
+
+The "official" rate only counts unemployed people who have looked in the last four weeks. Five other rates track other kinds of unemployment. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/26/why-does-the-government-have-6-unemployment-rates/>
+
+---
+
+## University endowments can’t replace federal funding
+
+date: 2025-03-26, from: Market Place
+
+Funds must be spent in specific ways and won't fill the gap left by cuts, says Elizabeth Popp Berman of the University of Michigan. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/26/university-endowments-cant-replace-federal-funding/>
+
+---
+
+## Mallory McMorrow and Jen Rubin on why hate won't win
+
+date: 2025-03-26, from: The Contrarian
+
+Jen Rubin is joined by Senator Mallory McMorrow to discuss her new book Hate Won't Win: Find Your Power and Leave This Place Better Than You Found It. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159942167/af769f1a0b79742cf4ae1f651e1a17bd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159942167/af769f1a0b79742cf4ae1f651e1a17bd.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/mallory-mcmorrow-and-jen-rubin-on>
+
+---
+
+## A History of American Cults, from the Pilgrims to MAGA
+
+date: 2025-03-26, from: The Contrarian
+
+A new book examines the Doomsday thinking that drives our politics 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-history-of-american-cults-from>
+
+---
+
+## Dr. Cynthia Miller-Idriss and Bill Braniff on the prevention of violent extremism 
+
+date: 2025-03-26, from: The Contrarian
+
+Dr. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159930807/6152293cfe72a2e804768c0be76c176c.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159930807/6152293cfe72a2e804768c0be76c176c.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/dr-cynthia-miller-idriss-and-bill>
+
+---
+
+## 29 states have a not-so-secret weapon to fight for democracy
+
+date: 2025-03-26, from: The Contrarian
+
+In the states, equal rights amendments are protecting people where the federal government can't&#8212;or won't. 
+
+<br> 
+
+<https://contrarian.substack.com/p/29-states-have-a-not-so-secret-weapon>
+
+---
+
+## AG Ellison and AG Platkin on Trump's attacks on state independence 
+
+date: 2025-03-26, from: The Contrarian
+
+Jen is joined by AG Keith Ellison and AG Matthew Platkin to discuss the terrible impact of the Trump Administration, the illegality of many of its actions, and what Democratic Attorney Generals can do to fight back. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159922936/c97afd2dca60be3ed34f25dd767da201.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159922936/c97afd2dca60be3ed34f25dd767da201.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ag-ellison-and-ag-platkin-on-trumps>
+
+---
+
+##  Meta Drags Delaware To The Bottom 
+
+date: 2025-03-26, from: The Lever News
+
+ Delaware just passed a bill to let executives off the hook across the country — and Meta helped write it.  
+
+<br> 
+
+<https://www.levernews.com/meta-drags-delaware-to-the-bottom/>
+
+---
+
+##  Boeing’s Sweetheart Deal Hits Unexpected Turbulence 
+
+date: 2025-03-26, from: The Lever News
+
+ The aerospace giant thought it would strike a new plea deal with the Trump administration before a judge suddenly sent the case to trial yesterday.  
+
+<br> 
+
+<https://www.levernews.com/boeings-sweetheart-deal-hits-unexpected-turbulence/>
+
+---
+
+## Trump's executive order on voting seems to ignore a lot of law
+
+date: 2025-03-26, from: The Contrarian
+
+The process of governance matters, but the president pretends we don't have a Congress and rides roughshod over the states. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-executive-order-on-voting>
+
+---
+
+## Here’s why prices of domestically-produced steel and aluminum are going up, too
+
+date: 2025-03-26, from: Market Place
+
+When prices go up for foreign steel and aluminum because of tariffs, domestic producers are given a sort of green light to raise their own prices. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/26/heres-why-prices-of-domestically-produced-steel-and-aluminum-are-going-up-too/>
+
+---
+
+## Coffee with The Contrarians 03/26
+
+date: 2025-03-26, from: The Contrarian
+
+A recording from Coffee with The Contrarians 03/13 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159911696/2ca4ede5831eeff026eb102d87b2a5c6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159911696/2ca4ede5831eeff026eb102d87b2a5c6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0326>
+
+---
+
+## When Signal met the Senate
+
+date: 2025-03-26, from: The Contrarian
+
+The Trump administration's spin on a colossal national security mistake didn't hold up under intense questioning. 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-signal-met-the-senate>
+
+---
+
+## Ann Telnaes: How autocracies take over the news media
+
+date: 2025-03-26, from: The Contrarian
+
+Trump goes from complaining to controlling. 
+
+<br> 
+
+<https://contrarian.substack.com/p/ann-telnaes-how-autocracies-take>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-26, from: The Contrarian
+
+Wednesday: When even the introverts come out, you know it's serious, plus Americans support the U.S. Postal Service, Greenland prepares for a visit from the Vance family, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## One year after the Key Bridge collapse, Baltimore’s port is recovering
+
+date: 2025-03-26, from: Market Place
+
+Ship traffic is back to about 90% of where it was prior to the bridge collapse. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/26/port-of-baltimore-port-is-recovering-one-year-on/>
 
 ---
 
@@ -242,18 +515,6 @@ Silencing the stories of non-male, non-white service members is not only an affr
 <br> 
 
 <https://contrarian.substack.com/p/the-real-harm-in-the-dods-revisionist>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-25, from: The Contrarian
-
-Tuesday: An attention-grabbing sign, a protest in Vermont, empty chairs for a no-show politician at a town hall in Colorado, Tesla protests in Tennessee and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

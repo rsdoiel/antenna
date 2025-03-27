@@ -1,11 +1,85 @@
 ---
 title: motorcycles
-updated: 2025-03-26 06:08:14
+updated: 2025-03-27 06:07:47
 ---
 
 # motorcycles
 
-(date: 2025-03-26 06:08:14)
+(date: 2025-03-27 06:07:47)
+
+---
+
+## onX Will Now Show Cell Coverage in the Woods, Making It Easier to Stay Connected
+
+date: 2025-03-27, from: Ride Apart, Electric Motorcycle News
+
+I can see you can hear me now.  
+
+<br> 
+
+<https://www.rideapart.com/news/754749/onx-off-road-cell-phone-carrier-coverage/>
+
+---
+
+## Yamaha Wants To Make Your XSR900 Look Even Better, Drops New Y’s Gear Goodies
+
+date: 2025-03-27, from: Ride Apart, Electric Motorcycle News
+
+I’ll take one of each, please. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754620/yamaha-xsr900-cowl-ys-gear-japan/>
+
+---
+
+## It Turns Out UBCO Owes A Bunch Of Money, But Is Someone Buying It?
+
+date: 2025-03-27, from: Ride Apart, Electric Motorcycle News
+
+The scrappy NZ EV motorbike maker isn't completely down yet. 
+
+<br> 
+
+<https://www.rideapart.com/news/754737/ubco-receivership-new-zealand-update/>
+
+---
+
+## This Is One Of the Sickest Custom Royal Enfield Himalayans Out There
+
+date: 2025-03-27, from: Ride Apart, Electric Motorcycle News
+
+This is exactly how we’d envision a Dakar-spec RE Himalayan. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754715/custom-royal-enfield-himalayan-dust-trail-ormotors/>
+
+---
+
+## NASCAR Power Rankings: William Byron remains at the top, but his Hendrick teammates are closing in
+
+date: 2025-03-26, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer A little over a month ago, William Byron kicked off the 2025 NASCAR season with a second straight Daytona 500 victory.&#160; Fast forward to now&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-power-rankings-william-byron-remains-at-the-top-but-his-hendrick-teammates-are-closing-in/>
+
+---
+
+## Is 3D Printing a Turbo Kit for a Temu Dirt Bike a Good Idea? Just Watch
+
+date: 2025-03-26, from: Ride Apart, Electric Motorcycle News
+
+Game changer or engine destroyer? 
+
+<br> 
+
+<https://www.rideapart.com/news/754494/3d-printing-dirtbike-turbo-kit/>
 
 ---
 

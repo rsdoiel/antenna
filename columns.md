@@ -1,49 +1,239 @@
 ---
 title: columns
-updated: 2025-03-26 06:08:11
+updated: 2025-03-27 06:07:44
 ---
 
 # columns
 
-(date: 2025-03-26 06:08:11)
+(date: 2025-03-27 06:07:44)
 
 ---
 
-## Coming Up:  More History
+## Tools
 
-date: 2025-03-26, from: Doc Searls (at Harvard), New Old Blog
+date: 2025-03-27, from: Doc Searls (at Harvard), New Old Blog
 
-And what will we call it? What becomes of democracy when it seems everybody has been herded into separate and opposed algorithmically assembled and maintained tribes, and when most of tech is run by oligarchs (for a few years while tech oligarchy stays a thing), and every status quo will prove transient in a Digital [&#8230;] 
+And just one for New Jersey! iLoveFood says the best pizza in Indiana is Mother Bear&#39;s here in Bloomington. Problem: it isn&#39;t. Osteria Rago&#39;s is better. Not that MB&#39;s is bad. It&#39;s good. Just not better than Osteria&#39;s. I&#39;m also betting there must be a better pizza than both somewhere in Indianapolis. iLoveFood also names top [&#8230;] 
 
 <br> 
 
-<https://doc.searls.com/2025/03/26/coming-up-more-history/>
+<https://doc.searls.com/2025/03/27/tools/>
 
 ---
 
-## AI Data Poisoning
+## A Taxonomy of Adversarial Machine Learning Attacks and Mitigations
 
-date: 2025-03-26, updated: 2025-03-25, from: Bruce Schneier blog
+date: 2025-03-27, updated: 2025-03-26, from: Bruce Schneier blog
 
-<p>Cloudflare has a <a href="https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/">new feature</a>&#8212;available to free users as well&#8212;that uses AI to generate random pages to feed to AI web crawlers:</p>
-<blockquote><p>Instead of simply blocking bots, Cloudflare&#8217;s new system lures them into a &#8220;maze&#8221; of realistic-looking but irrelevant pages, wasting the crawler&#8217;s computing resources. The approach is a notable shift from the standard block-and-defend strategy used by most website protection services. Cloudflare says blocking bots sometimes backfires because it alerts the crawler&#8217;s operators that they&#8217;ve been detected.</p>
-<p>&#8220;When we detect unauthorized crawling, rather than blocking the request, we will link to a series of AI-generated pages that are convincing enough to entice a crawler to traverse them,&#8221; writes Cloudflare. &#8220;But while real looking, this content is not actually the content of the site we are protecting, so the crawler wastes time and resources.&#8221;...</p></blockquote> 
+<p>NIST <a href="https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2025.pdf">just released</a> a comprehensive taxonomy of adversarial machine learning attacks and countermeasures.</p>
+ 
 
 <br> 
 
-<https://www.schneier.com/blog/archives/2025/03/ai-data-poisoning.html>
+<https://www.schneier.com/blog/archives/2025/03/a-taxonomy-of-adversarial-machine-learning-attacks-and-mitigations.html>
 
 ---
 
-## 23
+## Where the HELL are the Democrats?
 
-date: 2025-03-26, from: Paolo Valdemarin's blog
+date: 2025-03-27, from: Robert Reich's blog
 
-Not that it matters much, but it’s yet another anniversary of my first post. 
+Friends, 
 
 <br> 
 
-<https://val.demar.in/2025/03/23-2/>
+<https://robertreich.substack.com/p/where-the-hell-are-the-democrats>
+
+---
+
+## March 26, 2025 
+
+date: 2025-03-27, from: Heather Cox Richardson blog
+
+Monday&#8217;s astounding story that the most senior members of President Donald Trump&#8217;s administration planned military strikes on Yemen over an unsecure commercial messaging app, on which they had included national security reporter and editor in chief of 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-26-2025>
+
+---
+
+## Never in a million years...
+
+date: 2025-03-27, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Never in a million years...</span>
+
+            <p>...would I have imagined my <a href="https://www.youtube.com/watch?v=4pz2kMxCu8I">video on whether a pigeon is faster than the Internet</a> would end up on a popular Italian quiz show, L'Eredita. Specifically, in the <a href="https://www.raiplay.it/video/2025/03/LEredita---Puntata-del-26032025-789ab548-0e76-40eb-a64c-41e4c85eecd3.html">March 26th episode</a> (playable in Italy, or with an account).</p>
+
+<p></p>
+
+<p>The question, roughly translated:</p>
+
+<blockquote>
+  <p>A test by the expert Jeff Geerling from 2023 proved that in transporting data the carrier pigeons can be more, what?</p></blockquote>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">March 26, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/never-million-years>
+
+---
+
+## Simple Q-and-A About the Signal Leak.
+
+date: 2025-03-27, from: James Fallows, Substack
+
+We have all wondered when nonstop lies from Donald Trump and his team would begin to &#8220;matter.&#8221; The time may have come. 
+
+<br> 
+
+<https://fallows.substack.com/p/simple-q-and-a-about-the-signal-leak>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-27, from: Miguel de Icaza Mastondon feed)
+
+<p>I love this, and I am in awe at the community getting behind this grueling work, instead of fun hacks.</p><p>This is the kind of things companies can mandate but is harder to convince a community to do.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114231851722521835>
+
+---
+
+## ★ The Website Hacker News Is Afraid to Discuss (You’re Reading It)
+
+date: 2025-03-27, updated: 2025-03-27, from: Daring Fireball
+
+What bothers me isn’t so much that Daring Fireball is shitlisted at Hacker News. What bothers me is that it’s unexplained. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/the_website_hacker_news_is_afraid_to_discuss>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-26, from: Miguel de Icaza Mastondon feed)
+
+<p>Uh oh our Taco Tuesday plans have been leaked:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114231368177312048>
+
+---
+
+##  Wired surveyed 730 coders and developers about how they use AI chatbots... 
+
+date: 2025-03-26, updated: 2025-03-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046511-wired-surveyed-730-coders>
+
+---
+
+## 20 Signs of Tyranny
+
+date: 2025-03-26, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/20-signs-of-tyranny>
+
+---
+
+##  Tavares Strachan 
+
+date: 2025-03-26, updated: 2025-03-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/tavares-strachan>
+
+---
+
+## The Atlantic Has an Owner Committed to the Cause: Laurene Powell Jobs
+
+date: 2025-03-26, updated: 2025-03-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.status.news/p/atlantic-jeffrey-goldberg-signal-texts-war-plans>
+
+---
+
+##  Watch All of the Commercials That David Lynch Has Directed: A Big... 
+
+date: 2025-03-26, updated: 2025-03-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046520-watch-all-of-the-commerci>
+
+---
+
+## Apple Now Selling PCs From Other Companies at Apple.com
+
+date: 2025-03-26, updated: 2025-03-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.apple.com/mac/lumon-terminal-pro/>
+
+---
+
+## March 25, 2025
+
+date: 2025-03-26, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159932352/3878199bef8bd8c8638928a3d28058c5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159932352/3878199bef8bd8c8638928a3d28058c5.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-25-2025-293>
+
+---
+
+##  Jess Piper on speaking to people in conservative areas of America about... 
+
+date: 2025-03-26, updated: 2025-03-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046517-jess-piper-on-speaking-to>
+
+---
+
+##  What Did Hubble See on Your Birthday? 
+
+date: 2025-03-26, updated: 2025-03-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/what-did-hubble-see-on-your-birthday>
 
 ---
 
@@ -123,11 +313,182 @@ maxretry = 2
 <blockquote>
 <p>The AI bots that desperately need OSS for code training, are now slowly killing OSS by overloading every site.
 The curl website is now at 77TB/month, or 8GB every five minutes.</p>
+</blockquote>
+
+<p><a class="account" href="https://tilde.zone/@gluejar" title="@gluejar@tilde.zone">@gluejar</a> writes:</p>
+
+<blockquote>
+<p>There&rsquo;s a war going on on the Internet. AI companies with billions to burn are hard at work destroying the websites of libraries, archives, non-profit organizations, and scholarly publishers, anyone who is working to make quality information universally available on the internet. &ndash; <a href="https://go-to-hellman.blogspot.com/2025/03/ai-bots-are-destroying-open-access.html">AI bots are destroying Open Access</a>, by Eric Hellman</p>
 </blockquote> 
 
 <br> 
 
 <https://alexschroeder.ch/view/2025-03-20-bot-defence>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-03-26, from: Ryan Gantz Bluesky feed)
+
+Again for the libs: no classified information was revealed!! only the specific times when specific types of planes would be dropping bombs on specific targets in a particular area. We are investigaging how this so called "journalist" may have hacked his way into my snapchat 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3llc7fpikz22u>
+
+---
+
+##  Waldo Jaquith on why he works in the open (blogging, open sourcing... 
+
+date: 2025-03-26, updated: 2025-03-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046514-waldo-jaquith-on-why-he>
+
+---
+
+## Join a parade today
+
+date: 2025-03-26, from: Dave Winer's Scripting News
+
+<p>This morning‘s <a href="https://daveverse.wordpress.com/2025/03/26/join-a-parade-today/">early morning missive</a> from WordLand..</p>
+<p>Talking with friends about What To Do.</p>
+<p>I actually have an idea.</p>
+<p>We all try to lead a parade, with a big viral idea, if only everyone would follow me, it might just work. A lot of us have that feeling. My advice — it doesn’t work. Lose it. Instead, find a parade you can join, and add your energy, talent and experience to it.</p>
+<p>We have a tremendous oversupply of would-be parade leaders, we need to build momentum, and it doesn’t really matter what it is or who leads it. As long as it’s something the press can cover. A movement that begets more motion. A huge march in DC. Demonstrations at Tesla dealers. Blogging in a group. Helping an existing group route around an outage. Making a great list of causes others can join. Reading a blog and finding the thing the blogger is looking for. And so on.</p>
+<p>There’s great satisfaction in joining a righteous cause that’s working, my bother, my sister.</p>
+<p>This goes back to something observed in standards work. The standard is set by the person who goes second, not the one who goes first. The person who chooses to interop instead of blazing a new incompatible trail. We should celebrate people who support others as much as we do the one who goes first. You need both, and the thirds and fourth adopters to create a movement.</p>
+<p>At a time like now when there’s no room for error or individual ego, as Ben Franklin’s so wisely said during America’s revolution, we must all hang together or most assuredly we will all hang separately.</p>
+<p>PS: One way facebook can cripple a nascent movement, by the algorithm not showing you parades you might like too much. Remember Zuck is trying to ingratiate himself to trump. I find I’m seeing posts of vital interest to me over 24 hours after they were posted, when 165 people have already liked it. Suspicious behavior. We need to own our own social net. </p>
+<p>PPS: This philosophy led me to build on WordPress as a foundation, instead of building my own, which I am fully capable of. It’s working much better this way, so far. Could the be a way toward our own social net? Possibly.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/26/154836.html?title=joinAParadeToday>
+
+---
+
+## 2026 Porsches Still Won’t Have Next-Gen CarPlay, Which Was Announced in 2022
+
+date: 2025-03-26, updated: 2025-03-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.macrumors.com/2025/03/26/2026-porsches-still-wont-have-next-gen-carplay/>
+
+---
+
+## Credible nerd says stop using atop, doesn't say why, everyone panics
+
+date: 2025-03-26, updated: 2025-03-26, from: Liam Proven's articles at the Register
+
+<h4>Bad news about the Linux system monitor may be on the way</h4>
+      <p>Veteran sysadmin and tech blogger Rachel Kroll posted a cryptic warning yesterday about a popular Linux system monitoring tool. Maybe it&#39;s better to be safe than sorry.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/26/uninstall_atop_for_now/>
+
+---
+
+## Calling the White House’s Bluff, The Atlantic Releases the ‘Houthi PC Small Group’ Signal Text Thread
+
+date: 2025-03-26, updated: 2025-03-26, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theatlantic.com/politics/archive/2025/03/signal-group-chat-attack-plans-hegseth-goldberg/682176/?gift=j9r7avb6p-KY8zdjhsiSZwFkSOi1GsFtx-t3XSS0Gew>
+
+---
+
+## Doc's approach to WordLand
+
+date: 2025-03-26, from: Dave Winer's Scripting News
+
+<p>Watching Doc Searls use WordLand to post to his <a href="https://doc.searls.com/">WordPress blog</a>. </p>
+<p>He's using it the way <a href="https://www.google.com/search?q=site%3Ascripting.com+manila&rlz=1C5CHFA_enUS743US747&oq=site%3Ascripting.com+manila&aqs=chrome..69i57j69i58.4100j0j4&sourceid=chrome&ie=UTF-8">Manila</a> worked for blogging in the late 90s early 00s. Every day is a new page, which contained as many items as you liked. When you add a blank line that starts a new post. It's Markdown kind of a approach to structuring text. </p>
+<p>There's a point where you click the <i>Flip Home Page</i> button. You can do that once a day. Each day is a fresh start. Each day gets its own archive page. The software can automate some of that, but it's trivial to do it by hand. A nice daily ritual. </p>
+<p>The RSS feed we generated looked for two Returns in the text, that started a new &lt;item>.</p>
+<p>Manila eventually adopted Blogger's approach, but I always liked this way because it said a blog post can be a very small thing. That was certainly the way I write. Some ideas don't require a lot of writing, so why should they take up so much space? I'm trying to make sure that as WordLand evolves, it treats little things and big things with equal respect. </p>
+<p>Basically Doc is doing manually what Manila did for you, but it's not a lot of work, he just clicks the + icon to create a new post, when he wants a fresh start. He has to choose a site from a popup, and then he's ready to write. The advantage is he has them all arrayed for him to make a change where ever he likes. I have that when I write in Drummer. </p>
+<p>He's not getting the benefit of the RSS treatment in Manila. Both WordPress and WordLand see that as one post, not N posts. </p>
+<p>Below is a screen shot of Docs blog, and below it, in contrast is a page generated by Manila in 2001.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/26/docsBlogScreen.png"></center>A screen shot of a <a href="https://doc.searls.com/2025/03/25/there-they-go/">day</a> in the life of Doc's new blog.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/26/scriptingscreen.png"></center>And a <a href="http://scripting.com/2001/08/28.html">day</a> in the life of Scripting News in 2001.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/26/151834.html?title=docsApproachToWordland>
+
+---
+
+##  The Haunting of Verdant Valley is a photo book about Silicon Valley.... 
+
+date: 2025-03-26, updated: 2025-03-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046499-the-haunting-of-verdant-v>
+
+---
+
+##  The Atlantic has shared the text messages sent by the Trump regime’s... 
+
+date: 2025-03-26, updated: 2025-03-26, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046521-the-atlantic-has-shared-t>
+
+---
+
+## Coming Up:  More History
+
+date: 2025-03-26, from: Doc Searls (at Harvard), New Old Blog
+
+But I&#39;d orbit Saturn too, if I had the chance. Saturn has 128 more moons. I am a moon of my wife. And what will we call it? What becomes of democracy when it seems everybody has been herded into separate and opposed algorithmically assembled and maintained tribes, and when most of tech is run by [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/26/coming-up-more-history/>
+
+---
+
+## AI Data Poisoning
+
+date: 2025-03-26, updated: 2025-03-25, from: Bruce Schneier blog
+
+<p>Cloudflare has a <a href="https://arstechnica.com/ai/2025/03/cloudflare-turns-ai-against-itself-with-endless-maze-of-irrelevant-facts/">new feature</a>&#8212;available to free users as well&#8212;that uses AI to generate random pages to feed to AI web crawlers:</p>
+<blockquote><p>Instead of simply blocking bots, Cloudflare&#8217;s new system lures them into a &#8220;maze&#8221; of realistic-looking but irrelevant pages, wasting the crawler&#8217;s computing resources. The approach is a notable shift from the standard block-and-defend strategy used by most website protection services. Cloudflare says blocking bots sometimes backfires because it alerts the crawler&#8217;s operators that they&#8217;ve been detected.</p>
+<p>&#8220;When we detect unauthorized crawling, rather than blocking the request, we will link to a series of AI-generated pages that are convincing enough to entice a crawler to traverse them,&#8221; writes Cloudflare. &#8220;But while real looking, this content is not actually the content of the site we are protecting, so the crawler wastes time and resources.&#8221;...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/ai-data-poisoning.html>
+
+---
+
+## 23
+
+date: 2025-03-26, from: Paolo Valdemarin's blog
+
+Not that it matters much, but it’s yet another anniversary of my first post. 
+
+<br> 
+
+<https://val.demar.in/2025/03/23-2/>
 
 ---
 

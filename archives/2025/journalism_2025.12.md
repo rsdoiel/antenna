@@ -1,11 +1,232 @@
 ---
 title: journalism
-updated: 2025-03-26 06:08:13
+updated: 2025-03-27 06:07:45
 ---
 
 # journalism
 
-(date: 2025-03-26 06:08:13)
+(date: 2025-03-27 06:07:45)
+
+---
+
+## Vogue’s ‘Hairspray’ homage falls flat
+
+date: 2025-03-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>With skinniness back in fashion, Gigi Hadid stars in a failed attempt at body diversity in a cast spread too thin.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/27/vogues-hairspray-homage-falls-flat/">Vogue’s ‘Hairspray’ homage falls flat</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/27/vogues-hairspray-homage-falls-flat/>
+
+---
+
+## In “Abundance,” a future of plenty
+
+date: 2025-03-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In an era of ineffective governance, Ezra Klein and Derek Thompson propose a bountiful solution in their new book.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/27/in-abundance-a-future-of-plenty/">In “Abundance,” a future of plenty</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/27/in-abundance-a-future-of-plenty/>
+
+---
+
+## Student Health reminds students to make necessary appointments before summer break
+
+date: 2025-03-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Student health expects an uptick in respiratory illnesses in the weeks following spring break.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/27/student-health-reminds-students-to-make-necessary-appointments-before-summer-break/">Student Health reminds students to make necessary appointments before summer break</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/27/student-health-reminds-students-to-make-necessary-appointments-before-summer-break/>
+
+---
+
+## Main commencement will be ticketed for second year
+
+date: 2025-03-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University announced its new policy, including 10 free main commencement tickets, Tuesday.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/27/main-commencement-will-be-ticketed-for-second-year/">Main commencement will be ticketed for second year</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/27/main-commencement-will-be-ticketed-for-second-year/>
+
+---
+
+## USC ‘overwhelmingly likely’ to lose up to hundreds of millions of dollars in federal funding, Provost says
+
+date: 2025-03-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>President Carol Folt, Provost Andrew Guzman and three senior vice presidents answered questions from the senate.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/27/usc-leaders-speak-on-executive-actions-budget-at-academic-senate/">USC ‘overwhelmingly likely’ to lose up to hundreds of millions of dollars in federal funding, Provost says</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/27/usc-leaders-speak-on-executive-actions-budget-at-academic-senate/>
+
+---
+
+## ROSE organiza una marcha mientras continúan las negociaciones sindicales.
+
+date: 2025-03-27, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Alrededor de 50 estudiantes marcharon desde los escalones de AGC hasta JSC Studenmund en apoyo a las demandas del sindicato de trabajadores estudiantiles a las 11:30 a.m. del 6 de marzo. Durante la marcha, los estudiantes corearon consignas críticas hacia la administración de Occidental y en apoyo a la congelación de matrículas, el desinversionismo y [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/uncategorized/2025/03/26/rose-organiza-una-marcha-mientras-continuan-las-negociaciones-sindicales/2914591">ROSE organiza una marcha mientras continúan las negociaciones sindicales.</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/uncategorized/2025/03/26/rose-organiza-una-marcha-mientras-continuan-las-negociaciones-sindicales/2914591>
+
+---
+
+## @TheNewYorkBlvd Instagram account informs the neighborhood about news and events
+
+date: 2025-03-27, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Highland Park resident Saúl Narro runs the Instagram account @TheNewYorkBlvd, where he informs Highland Park, Northeast LA and surrounding neighborhoods about the community and different events taking place, according to Narro. Narro said he first started posting on Twitter in 2013 and opened his Instagram account in 2014. “What basically got me started was I [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/community/2025/03/26/thenewyorkblvd-instagram-account-informs-the-neighborhood-about-news-and-events/2914818">@TheNewYorkBlvd Instagram account informs the neighborhood about news and events</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2025/03/26/thenewyorkblvd-instagram-account-informs-the-neighborhood-about-news-and-events/2914818>
+
+---
+
+## Old Orchard Park is set to undergo some major renovations
+
+date: 2025-03-27, from: The Canyon News (COC Student Newspaper)
+
+<p>A beloved community space is getting a fresh new look. For years,&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/old-orchard/">Old Orchard Park is set to undergo some major renovations</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/old-orchard/>
+
+---
+
+## USC admits roughly 8.5% of regular decision applicants
+
+date: 2025-03-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University received 83,500 applications, a new record, surpassing last year by nearly 1,500. </p>
+<p>The post <a href="https://dailytrojan.com/2025/03/26/usc-admits-roughly-8-5-of-regular-decision-applicants/">USC admits roughly 8.5% of regular decision applicants</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/26/usc-admits-roughly-8-5-of-regular-decision-applicants/>
+
+---
+
+## UC Regents Health Services Committee discusses student access to health care
+
+date: 2025-03-26, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents Health Services Committee discussed increasing premiums for the UC Student Health Insurance Plan during its March 18 meeting.
+The board held its bimonthly meeting from March 18 to Thursday at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/26/uc-regents-health-services-committee-discusses-student-access-to-health-care/>
+
+---
+
+## Vivian Garay Santiago named Dean of Students
+
+date: 2025-03-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>A campus-wide email sent Feb. 19 announced that Interim Dean of Students Vivian Garay Santiago accepted President Stritikus’ offer to become dean of students. She has worked at Occidental College for 10 years within the Dean of Students office. Before joining Occidental, she held roles focused on aiding students at universities across the country, including [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/03/26/vivian-garay-santiago-named-dean-of-students/2914790">Vivian Garay Santiago named Dean of Students</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/26/vivian-garay-santiago-named-dean-of-students/2914790>
+
+---
+
+## AC to be installed in remaining dorms without it over the summer
+
+date: 2025-03-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>During Summer 2025, the remaining dorms at Occidental College without air conditioning — Chilcott Hall, Haines Hall, Stearns Hall and the Sigma Alpha Epsilon (SAE) house — are set to have it installed. According to Assistant Dean of Students and Director of Residential Education, Housing Services and Student Conduct Isaiah Thomas, the installations will be [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/03/26/ac-to-be-installed-in-remaining-dorms-without-it-over-the-summer/2914792">AC to be installed in remaining dorms without it over the summer</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/26/ac-to-be-installed-in-remaining-dorms-without-it-over-the-summer/2914792>
+
+---
+
+## Pro-Palestine protesters block cars and picket amidst admitted students event
+
+date: 2025-03-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>As admitted Early Decision students returned from their tours for a reception at Collins House March 21, roughly 100 protesters led by Occidental’s Students for Justice in Palestine (SJP) held a rally close by, walking in a picket line on Gilman Road to call attention to “repression and genocide,” according to their March 20 Instagram [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/03/26/pro-palestine-protesters-block-cars-and-picket-amidst-admitted-students-event/2914816">Pro-Palestine protesters block cars and picket amidst admitted students event</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/26/pro-palestine-protesters-block-cars-and-picket-amidst-admitted-students-event/2914816>
+
+---
+
+## Academic Planning Committee rejects education major proposal
+
+date: 2025-03-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The most recent education major proposal, which was first proposed in October 2024 and has been under review since then, was rejected by the Faculty Council’s Academic Planning Committee (APC) in an email Feb. 28, according to Professor of Education Ronald Solórzano. Solórzano said that he and other education department professors hope to meet with the [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/03/26/academic-planning-committee-rejects-education-major-proposal/2914795">Academic Planning Committee rejects education major proposal</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/03/26/academic-planning-committee-rejects-education-major-proposal/2914795>
+
+---
+
+## Vote-by-mail election system draws mixed reaction from Eagle Rock Neighborhood Council members
+
+date: 2025-03-26, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The period to apply for a ballot to vote in the Eagle Rock Neighborhood Council election, which is vote-by-mail only in 2025, opened March 7 and closes April 28. According to the council&#8217;s Communications Director Natalie Friedberg, the last day to mail a ballot is April 29. Election day is May 6. According to council Education Director Max Baumgarten, [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/community/2025/03/26/vote-by-mail-election-system-draws-mixed-reaction-from-eagle-rock-neighborhood-council-members/2914841">Vote-by-mail election system draws mixed reaction from Eagle Rock Neighborhood Council members</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2025/03/26/vote-by-mail-election-system-draws-mixed-reaction-from-eagle-rock-neighborhood-council-members/2914841>
+
+---
+
+## “Some hard and important lessons”: One of the most promising local news nonprofits looks back — and ahead
+
+date: 2025-03-26, from: Nieman Journalism Lab
+
+It’s hard not to root for the National Trust for Local News. Heralded as a savior of local newspapers, the nonprofit has presented itself as the ideal foil to the hedge fund-owned chains that slash local newsroom jobs and chase profit over meaningful journalism. The Trust has grown at a remarkable clip since its founding... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/national-trust-for-local-news/>
 
 ---
 
@@ -34,6 +255,20 @@ date: 2025-03-26, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2025/03/26/usg-talks-campus-access-updating-menstrual-items/>
+
+---
+
+## Report says USC is ‘overly pessimistic’ about finances
+
+date: 2025-03-26, from: The Daily Trojan (USC Student Newspaper)
+
+<p> The third-party report said recent USC budget cuts are not justified despite deficit.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/26/report-says-usc-is-overly-pessimistic-about-finances/">Report says USC is ‘overly pessimistic’ about finances</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/26/report-says-usc-is-overly-pessimistic-about-finances/>
 
 ---
 
@@ -76,20 +311,6 @@ date: 2025-03-26, from: The Daily Trojan (USC Student Newspaper)
 <br> 
 
 <https://dailytrojan.com/2025/03/26/japanese-breakfast-reads-their-way-into-a-new-record/>
-
----
-
-## Report says USC is ‘overly pessimistic’ about finances
-
-date: 2025-03-26, from: The Daily Trojan (USC Student Newspaper)
-
-<p> The third-party report said recent USC budget cuts are not justified despite deficit.</p>
-<p>The post <a href="https://dailytrojan.com/2025/03/26/report-says-usc-is-overly-pessimistic-about-finances/">Report says USC is ‘overly pessimistic’ about finances</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
- 
-
-<br> 
-
-<https://dailytrojan.com/2025/03/26/report-says-usc-is-overly-pessimistic-about-finances/>
 
 ---
 

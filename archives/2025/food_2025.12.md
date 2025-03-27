@@ -1,11 +1,155 @@
 ---
 title: food
-updated: 2025-03-26 06:08:16
+updated: 2025-03-27 06:07:49
 ---
 
 # food
 
-(date: 2025-03-26 06:08:16)
+(date: 2025-03-27 06:07:49)
+
+---
+
+## Privacy on Ice: Pedro Pascal Reveals Trauma After 2023 Coffee Order Drama
+
+date: 2025-03-27, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Pedro Pascal’s coffee order went viral, but at what cost? 
+
+<br> 
+
+<https://sprudge.com/privacy-on-ice-pedro-pascal-reveals-trauma-after-2023-coffee-order-drama-310663.html>
+
+---
+
+## Sweet Potato and Chorizo Chowder
+
+date: 2025-03-27, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/03/Sweet-Potato-and-Chorizo-Chowder-1200-0219.jpg"/></div>
+<p>A tasty chowder with spicy chilies and sweet potatoes and corn! The perfect balance of sweet and spicy! I&#8217;m a big fan of chowders and this chowder with sweet potatoes and fresh Mexican style chorizo sausage is a tasty one! This recipe starts out with bacon and chorizo sausage followed by onions, garlic, chipotle chiles...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/sweet-potato-and-chorizo-chowder/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/sweet-potato-and-chorizo-chowder/">Sweet Potato and Chorizo Chowder</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/sweet-potato-and-chorizo-chowder/>
+
+---
+
+## Popcorn Shrimp Tacos
+
+date: 2025-03-26, from: Taste of Home
+
+With crispy shrimp, tangy coleslaw and warm corn tortillas, these popcorn shrimp tacos are a delightful way to mix it up for taco night. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/popcorn-shrimp-tacos-with-cabbage-slaw/>
+
+---
+
+## 98-Year-Old Mel Brooks Has a Breakfast Recipe Worth Buying Eggs For
+
+date: 2025-03-26, from: Taste of Home
+
+<p>His late wife, Anne Bancroft, said this recipe was perfect.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mel-brooks-omelet-recipe/">98-Year-Old Mel Brooks Has a Breakfast Recipe Worth Buying Eggs For</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mel-brooks-omelet-recipe/>
+
+---
+
+## Walt Disney Had a Favorite Dessert—But It’s Not What You’d Expect
+
+date: 2025-03-26, from: Taste of Home
+
+<p>The animation pioneer wasn't an adventurous eater, but he made an exception for this recipe.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/walt-disney-chriss-cold-pie/">Walt Disney Had a Favorite Dessert—But It&#8217;s Not What You&#8217;d Expect</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/walt-disney-chriss-cold-pie/>
+
+---
+
+## Joanna Gaines Told Us Her Secret for Perfect Alfredo Pasta, and We’re Stealing the Idea
+
+date: 2025-03-26, from: Taste of Home
+
+<p>The secret to Joanna's gorgeous Alfredo sauce is hiding in plain sight.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/joanna-gaines-alfredo-pasta/">Joanna Gaines Told Us Her Secret for Perfect Alfredo Pasta, and We’re Stealing the Idea</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/joanna-gaines-alfredo-pasta/>
+
+---
+
+## The Costco Self-Checkout Has Just One Unspoken Rule
+
+date: 2025-03-26, from: Taste of Home
+
+<p>Here's what you need to know before your next Costco run.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/costco-self-checkout/">The Costco Self-Checkout Has Just One Unspoken Rule</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/costco-self-checkout/>
+
+---
+
+## Cup of Excellence Names V-Auction New Online Auction Provider
+
+date: 2025-03-26, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Cup of Excellence Vollers" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The organizers of the Cup of Excellence (CoE) coffee competition and auction program are switching online auction providers in 2025, partnering with V-Auction, part of the logistics conglomerate Vollers Group.&#160;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/26/__trashed-3/>
+
+---
+
+## Roest Launches Pre-Orders for the 3-Kilo P3000 Roaster
+
+date: 2025-03-26, from: Daily Coffee News
+
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-620x418.jpg" class="attachment-large size-large wp-post-image" alt="Roast P3000 roaster 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Norwegian coffee roasting equipment maker Roest is now taking pre-orders for its long-anticipated 3-kilo-capacity production roasting machine called P3000. Priced at €32,900 EUR ($35,486 USD as of this writing), the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/26/roest-launches-pre-orders-for-the-3-kilo-p3000-roaster/>
+
+---
+
+## Amazon Spring Sale: Shop the Best Kitchen Deals (2025)
+
+date: 2025-03-26, from: Bon Appetet
+
+Stock up on kitchen tools and save big on Breville, Staub, Dyson, Ninja, and other top brands. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-spring-sale>
+
+---
+
+## Study: Workplace Super-Automatic Machines Result in More Cholesterol-Elevating Compounds
+
+date: 2025-03-26, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="office coffee 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee from super-automatic workplace coffee makers may contain significantly higher levels of cholesterol-elevating substances than coffee from home and other commercial brewers, according to new research. While coffee consumption overall... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/26/study-workplace-super-automatic-machines-result-in-more-cholesterol-elevating-compounds/>
 
 ---
 
@@ -107,7 +251,7 @@ For its 10-year anniversary, the show will turn the lens on José Andrés, Thoma
 
 date: 2025-03-25, from: Daily Coffee News
 
-<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Stenophylla" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Five years ago, after embarking on a mission to find samples of the coffee species stenophylla in the wild in West Africa, renowned coffee plant scientist Aaron Davis spoke with... 
+<div><img width="620" height="465" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-620x465.jpg" class="attachment-large size-large wp-post-image" alt="Stenophylla" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-620x465.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-300x225.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-150x113.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla-768x576.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Stenophylla.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Five years ago, after embarking on a mission to find samples of the coffee species stenophylla in the wild in West Africa, renowned coffee plant scientist Aaron Davis spoke with... 
 
 <br> 
 
@@ -143,7 +287,7 @@ This food-safe method is quick and easy—and it won’t leave your kitchen smel
 
 date: 2025-03-25, from: Daily Coffee News
 
-<div><img width="620" height="410" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--620x410.jpg" class="attachment-large size-large wp-post-image" alt="Broche Coffee Oxford 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--620x410.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--768x508.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1-.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
+<div><img width="620" height="410" src="https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--620x410.jpg" class="attachment-large size-large wp-post-image" alt="Broche Coffee Oxford 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--620x410.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--300x198.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--150x99.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1--768x508.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/02/Broche-cafe-Oxford-1-.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Welcome to&#160;Design Details, an ongoing editorial feature in Daily Coffee News focused on individual examples of coffee shop architecture, interior design, packaging design or branding. If you are a coffee... 
 
 <br> 
 
@@ -155,7 +299,7 @@ date: 2025-03-25, from: Daily Coffee News
 
 date: 2025-03-25, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="La Marzocco Swan" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Italian espresso equipment maker La Marzocco launched an all-new app last week, replacing separate apps for home and pro/commercial users. In addition to all the scheduling and adjustment functions provided... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="La Marzocco Swan" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/La-Marzocco-Swan-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Italian espresso equipment maker La Marzocco launched an all-new app last week, replacing separate apps for home and pro/commercial users. In addition to all the scheduling and adjustment functions provided... 
 
 <br> 
 
@@ -172,18 +316,6 @@ An elegant, satisfying dinner in under 30 minutes.
 <br> 
 
 <https://www.bonappetit.com/recipe/skillet-gnocchi-leeks-bacon>
-
----
-
-## Amazon Spring Sale: Shop the Best Kitchen Deals (2025)
-
-date: 2025-03-25, from: Bon Appetet
-
-Stock up on kitchen tools and save big on Breville, Staub, Dyson, Ninja, and other top brands. 
-
-<br> 
-
-<https://www.bonappetit.com/story/amazon-spring-sale>
 
 ---
 

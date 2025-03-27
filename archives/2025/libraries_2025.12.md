@@ -1,11 +1,76 @@
 ---
 title: libraries
-updated: 2025-03-26 06:08:14
+updated: 2025-03-27 06:07:46
 ---
 
 # libraries
 
-(date: 2025-03-26 06:08:14)
+(date: 2025-03-27 06:07:46)
+
+---
+
+## Guest Post — Supporting Academic Librarians in Navigating Attacks on Intellectual Freedom
+
+date: 2025-03-27, from: Scholarly Kitchen
+
+<p>A recently announced partnership with Emerald Publishing will bring the EveryLibrary Institute’s expertise to the academic library community as the U.S. government attacks extend to institutions of higher education.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/27/guest-post-supporting-academic-librarians-in-navigating-attacks-on-intellectual-freedom/">Guest Post &#8212; Supporting Academic Librarians in Navigating Attacks on Intellectual Freedom</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/27/guest-post-supporting-academic-librarians-in-navigating-attacks-on-intellectual-freedom/>
+
+---
+
+## Memoirs of a Foxhunting Man, by Siegfried Sassoon
+
+date: 2025-03-26, from: Standard Ebooks, new releaases
+
+A young boy comes of age in the idyllic English countryside just before the Great War tears Europe apart. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/siegfried-sassoon/memoirs-of-a-foxhunting-man>
+
+---
+
+## DWeb and Digital Rights: A Report Back from RightsCon in Taipei
+
+date: 2025-03-26, from: Internet Archive Blog
+
+In late February, members of the DWeb Core Team and the DWeb community were in Taipei to attend the 13th edition of RightsCon, the largest global summit on human rights [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/03/26/dweb-and-digital-rights-a-report-back-from-rightscon-in-taipei/>
+
+---
+
+## Global Science in Danger
+
+date: 2025-03-26, from: SciELO in Perspective
+
+<p>The current American government is curtailing science in several ways. Certain terms are censored in scientific reports and publications, communications and collaborations between scientists are limited or even proscribed, and funding is withdrawn. The implications for scientific research in the US are vast, but the long arm of the American government has undesired effects on the global science community as well, particularly on the numerous ways scientists elsewhere collaborate with their American colleagues. The preeminence of American science seems truly being shattered. <span class="ellipsis">&#8230;</span> <span class="more-link-wrap"><a href="https://blog.scielo.org/en/2025/03/26/global-science-in-danger/" class="more-link"><span>Read More &#8594;</span></a></span></p>
+<p>The post <a href="https://blog.scielo.org/en/2025/03/26/global-science-in-danger/">Global Science in Danger</a> first appeared on <a href="https://blog.scielo.org/en">SciELO in Perspective</a>.</p> 
+
+<br> 
+
+<https://blog.scielo.org/en/2025/03/26/global-science-in-danger/>
+
+---
+
+## Repertoires: How Geneticists Keep Circling Back to Race
+
+date: 2025-03-26, from: Association of Research Libraries News
+
+<p>  Fifty years have come and gone since the discovery that there is more genetic variation within races than between them. Yet a recent book by anthropologist of science Duana...</p>
+<p>The post <a href="https://www.arl.org/blog/repertoires-how-geneticists-keep-circling-back-to-race/">Repertoires: How Geneticists Keep Circling Back to Race</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/repertoires-how-geneticists-keep-circling-back-to-race/>
 
 ---
 
@@ -32,6 +97,18 @@ An ex-slave trader with an encrypted note schemes about its meaning, while a man
 <br> 
 
 <https://standardebooks.org/ebooks/jules-verne/eight-hundred-leagues-on-the-amazon/w-j-gordon>
+
+---
+
+## The Giant Raft, by Jules Verne
+
+date: 2025-03-26, from: Standard Ebooks, new releaases
+
+An ex-slave trader with an encrypted note schemes about its meaning, while a man with a secret past travels with his family down the Amazon in a giant raft to attend his daughter’s wedding. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/jules-verne/the-giant-raft/w-j-gordon>
 
 ---
 

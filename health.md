@@ -1,11 +1,47 @@
 ---
 title: health
-updated: 2025-03-26 06:08:15
+updated: 2025-03-27 06:07:48
 ---
 
 # health
 
-(date: 2025-03-26 06:08:15)
+(date: 2025-03-27 06:07:48)
+
+---
+
+## Multi-omics assessment of gut microbiota in circadian rhythm disorders: a cross-sectional clinical study
+
+date: 2025-03-27, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe interaction between the host and microbiota is influenced by host circadian rhythm. However, it is unknown what the changes of gut microbiota and metabolites.MethodsWe conducted a cross-sectional study (n=72) in which participants’ fecal DNA was detected by macrogenomic sequencing analysis. The feces, urine and blood were analyzed by widely targeted metabolomics analysis.ResultsPearson correlation analysis showed that most of the clinical symptoms of people with circadian rhythm disorders were moderately positively correlated with gastrointestinal symptoms. By distilling the results of multinomic analysis, we reported a variety of different species (19 species in the gut) and metabolites. In our results, the correlation of multiomics is mostly concentrated in Lachnospiraceae bacterium and Streptococcus mitis oralis pneumoniae. Bile acid-related metabolites are the most significant metabolites associated with these species.DiscussionOur study demonstrates the severity of clinical manifestations caused by circadian rhythm disorder is closely related to microbiota and metabolism. In the future, personalized interventions targeting specific microbial species or metabolites may help alleviate the physical and psychological discomfort induced by circadian rhythm disturbances. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1524987>
+
+---
+
+## Corrigendum: Comparing NGS-based identification of bloodstream infections to traditional culture methods for enhanced ICU care: a comprehensive study
+
+date: 2025-03-27, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1553275>
+
+---
+
+## Pin-tract infection is an important factor associated with pin loosening during external fixation: a prospective analysis of 47 consecutive patients
+
+date: 2025-03-27, from: Frontiers in Cellular and Infection Microbiology
+
+BackgroundThe occurrence of pin loosening represents a common issue in the context of external fixation methodologies; nevertheless, a comprehensive investigation into the multifaceted causes of pin loosening, incorporating a multivariate analysis among pin infection, bone quality, and pin insertion angle, is notably absent in current literature. The present study endeavors to pinpoint factors associated with pin loosening through such a multivariate analysis.MethodologyThe study encompassed patients who underwent the removal of external fixators from March 2023 to July 2023. The assessment of pin loosening was executed through the utilization of the pin track score, the pin removal torque value (PRTV), and the radiolucent zone around the pin (RZAP) as depicted in digital radiography (DR) images. Culturing of the pin-bone interfaces was performed, and measurements of the grayscale intensity of cortical bone (GSCB) and pin verticality within DR images were taken. Multivariate analyses were conducted employing a Generalized Linear Mixed-Effects Model (GLMM), Adjusted odds ratios (aORs) with 95% confidence intervals (CIs) were calculated by exponentiating the model coefficients (Exp(β)).ResultsAltogether 47 patients with a total of 220 pins were included for analysis. The mean PRTV was 1.9 ± 2.1 N·m. The correlation analysis between PRTV and RZAP yielded a P-value of less than 0.001, signifying a substantial correlation between pin loosening and RZAP. For pins with a PRTV of 0, the RZAP measured 1.9 ± 0.8 mm. The positive rate of bacterial culture was 20%, and the loosening rate was 26.8%. Pin loosening was significantly associated with bacterial infection (aOR = 2.24, 95% CI: 1.03-4.90, P = 0.04) and GSCB (aOR = 0.50, 95% CI: 0.38-0.66, P < 0.01), but not with pin verticality (aOR = 1.00, 95% CI: 0.93-1.08, P = 0.99). Non-HA-coated pins remained significantly associated with bacterial infection (aOR = 8.20, 95% CI: 2.18-30.85, P = 0.002), whereas HA-coated pins were not (aOR = 3.44, 95% CI: 0.24-48.76, P = 0.36).ConclusionsPin loosening was significantly associated with bacterial infection at the pin-bone interface and lower GSCB, but not with pin verticality. Notably, infection strongly predicted loosening in non-HA-coated pins, while HA-coated pins demonstrated higher raw infection rates. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1459205>
 
 ---
 
@@ -90,6 +126,18 @@ Staphylococcus aureus sortase A can anchor virulence proteins, which are respons
 <br> 
 
 <https://www.frontiersin.org/articles/10.3389/fcimb.2025.1537564>
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2025-03-24, from: People's CDC
+
+This is the People’s CDC bi-weekly update for March 24, 2025! This Weather Report from the People’s CDC sheds light on the ongoing COVID pandemic and other public health crises in the US. This edition highlights Long COVID. 
+
+<br> 
+
+<https://peoplescdc.org/2025/03/24/peoples-cdc-covid-19-weather-report-94/>
 
 ---
 

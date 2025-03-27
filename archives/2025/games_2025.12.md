@@ -1,11 +1,107 @@
 ---
 title: games
-updated: 2025-03-26 06:08:12
+updated: 2025-03-27 06:07:45
 ---
 
 # games
 
-(date: 2025-03-26 06:08:12)
+(date: 2025-03-27 06:07:45)
+
+---
+
+## The 5 best cleaning games
+
+date: 2025-03-27, updated: 2025-03-26, from: Polygon Website
+
+Spring is here, and that means it’s time for spring cleaning! No, I’m not referring to my actual home, which I guess I’m also going to clean at some point, but we aren’t going to discuss that today. I am referring, of course, to the far more soothing experience of cleaning up a virtual space [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/547346/best-cleaning-video-games-cozy-house-flipper-unpacking>
+
+---
+
+## How to watch the new Nintendo Direct for a look at what’s coming to Switch
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+A new Nintendo Direct showcase will be streamed live on Thursday, March 27. The new Direct will focus on games coming to the original Switch, not the upcoming Nintendo Switch 2, Nintendo announced Wednesday. It appears to be one of the last, if not the last, Nintendo Direct events dedicated solely to Nintendo’s current-generation console. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/514779/nintendo-direct-march-2025-switch-games>
+
+---
+
+## Marvel’s Avengers: Doomsday reveal proves the MCU is just a machine for resurrecting Loki
+
+date: 2025-03-26, updated: 2025-03-26, from: Polygon Website
+
+Superhero universes are famed for their revolving-door approach to character death: You can hardly name a major comics character who’s never had some sort of death-and-resurrection arc. But even compared to the genre-standard number rate of deaths and returns, Tom Hiddleston’s Loki — who’s apparently set to appear in 2026’s Avengers: Doomsday, according to Marvel’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/547509/tom-hiddleston-loki-avengers-doomsday-timeline-how>
+
+---
+
+## Every reveal from Marvel Studios’ five-hour livestream of the Avengers: Doomsday cast
+
+date: 2025-03-26, updated: 2025-03-26, from: Polygon Website
+
+So… the X-Men are joining the Avengers in the Marvel Cinematic Universe, apparently, though it remains to be seen exactly how. Marvel Studios went live at 11 a.m. EDT on Wednesday with a livestream on Instagram and YouTube that was eventually revealed as a casting announcement for 2026’s Avengers: Doomsday, the Russo brothers’ continuation of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/547051/avengers-doomsday-cast-announcement-livestream>
+
+---
+
+## Should you help with the Fukui Curse in Assassin’s Creed Shadows?
+
+date: 2025-03-26, updated: 2025-03-26, from: Polygon Website
+
+The Fukui Curse in Assassin’s Creed Shadows is an affliction (real or imagined) that affects some of the people you’ll meet. These are people you’ll run into along the side of the road who have all had some sort of bad luck and blame the curse. Our Assassin’s Creed Shadows guide will tell you if [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/547478/fukui-curse-help-refuse>
+
+---
+
+## Avengers: Doomsday is looking like a ’00s X-Men reunion — Patrick Stewart, Ian McKellan, and more are back
+
+date: 2025-03-26, updated: 2025-03-26, from: Polygon Website
+
+Via a slow, four-hours-and-counting stream of names on the backs of director’s chairs, Marvel Studios has announced that Patrick Stewart is on the cast list for the Russo brothers’ upcoming MCU movie Avengers: Doomsday. The stream, still in progress, is continuing to list former X-Men actors who’ll be in the movie, including Ian McKellen, Alan [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel/547397/avengers-doomsday-professor-x-magneto-patrick-stewart-ian-mckellen>
+
+---
+
+## All romance options in Assassin’s Creed Shadows
+
+date: 2025-03-26, updated: 2025-03-26, from: Polygon Website
+
+Romance isn’t a huge component of Assassin’s Creed Shadows, but it does exist. You’ll naturally come across some romance options in the main story and via companion missions. Romance, then, is just a matter of knowing what to say — and when to say it. In this Assassin’s Creed Shadows guide, we’ll cover how romance [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/542414/romance-options-all-list-how-to-unlock>
+
+---
+
+## Pick up the Lord of the Rings illustrated box set during Amazon’s ‘buy 2, get 1 free’ sale
+
+date: 2025-03-26, updated: 2025-03-26, from: Polygon Website
+
+The Lord of the Rings Deluxe Illustrated Box Set is currently discounted to its lowest price ever; it’s also one of the dozens of eligible titles you can pick up during Amazon&#8217;s “buy two, get one free” sale. That lines up neatly with Amazon’s Big Spring Sale, going on right now: You can get a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/sales-guide/547308/lotr-lord-of-the-rings-illustrated-amazon-big-spring-buy-2-get-1-free-deal>
 
 ---
 

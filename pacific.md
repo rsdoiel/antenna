@@ -1,11 +1,341 @@
 ---
 title: pacific
-updated: 2025-03-26 06:08:09
+updated: 2025-03-27 06:07:42
 ---
 
 # pacific
 
-(date: 2025-03-26 06:08:09)
+(date: 2025-03-27 06:07:42)
+
+---
+
+## Hegseth warns China: Any attack on Guam and CNMI will be met with appropriate response
+
+date: 2025-03-27, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   Any attack on Guam and the Northern Marianas would be met with “appropriate response,” Defense Secretary Pete... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/hegseth-warns-china-any-attack-on-guam-and-cnmi-will-be-met-with-appropriate-response>
+
+---
+
+## US House Speaker Johnson says Congress can ‘eliminate’ district courts
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. House Speaker Mike Johnson on Tuesday warned that Congress&#8217; authority over the federal judiciary includes the power to eliminate entire district courts, as the White House rails against &#8220;activist&#8221; judges blocking Republican President Donald Trump&#8217;s agenda.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/us-house-speaker-johnson-says-congress-can-eliminate-district-courts/>
+
+---
+
+## US Democrats move to force House vote on Signal chat leak
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Democratic lawmakers in the U.S. House of Representatives sought on Wednesday to force the Trump administration to hand over records related to the disclosure of highly sensitive attack plans that were shared over a commercial messaging app, according to a document reviewed by Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/us-democrats-move-to-force-house-vote-on-signal-chat-leak/>
+
+---
+
+## US judiciary launches task force on security, independence after Trump criticism
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>The U.S. federal judiciary on Wednesday launched a task force focused on ensuring the continued security and independence of the courts as Republican President Donald Trump and his allies ramp up their criticism of judges who block his agenda.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/us-judiciary-launches-task-force-on-security-independence-after-trump-criticism/>
+
+---
+
+## Gender wage gap persists in Hawaii
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>Despite progress over the decades, data shows that women in the Hawaii still earn less than men, particularly in higher-paying occupations and among certain ethnic groups.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/hawaii-news/gender-wage-gap-persists-in-hawaii/>
+
+---
+
+## Trump announces 25% tariffs on imported cars and parts
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump said Wednesday that he would impose a 25% tariff on cars and car parts that were imported into the United States, a move that could encourage U.S. auto production over the longer run but is likely to throw global supply chains into disarray and raise prices for Americans who buy an automobile.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/trump-announces-25-tariffs-on-imported-cars-and-parts/>
+
+---
+
+## KTA’s Easter Egg Hunt now underway
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>KTA Super Stores is bringing back its beloved in-store Easter Egg Hunt, just in time for spring.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/community/ktas-easter-egg-hunt-now-underway/>
+
+---
+
+## Trump administration abruptly cuts billions from state health services
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>The u.s. Department of Health and Human Services has abruptly canceled more than $12 billion in federal grants to states that were being used for tracking infectious diseases, mental health services, addiction treatment and other urgent health issues.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/trump-administration-abruptly-cuts-billions-from-state-health-services/>
+
+---
+
+## County seeks operator for reusable foodware program
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii County has issued a request for proposals (RFP) for the launch of the Hilo Reusable Foodware Program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/community/county-seeks-operator-for-reusable-foodware-program/>
+
+---
+
+## Air ambulance in the works; mayor lauds partnership between Sayre foundation, Life Flight Network
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>The Daniel R. Sayre Memorial Foundation and Life Flight Network have reached an agreement to operate an air ambulance on Hawaii Island.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/community/air-ambulance-in-the-works-mayor-lauds-partnership-between-sayre-foundation-life-flight-network/>
+
+---
+
+## Three Big Island teachers recognized for receiving national certification
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>Three Hawaii Island teachers were among the 25 Hawaii educators from throughout the state who were recognized for their completion of the rigorous certification program of the National Board Certified Teacher.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/hawaii-news/three-big-island-teachers-recognized-for-receiving-national-certification/>
+
+---
+
+## Trump administration considers money for pardoned Jan. 6 rioters
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump said his administration was considering whether to establish a compensation fund for pardoned rioters who stormed the Capitol on Jan. 6, 2021, to stop certification of the election that he lost to former President Joe Biden.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/trump-administration-considers-money-for-pardoned-jan-6-rioters/>
+
+---
+
+## Wisconsin court race tests Trump’s approval as Musk pours millions into campaign
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>BELLEVUE, Wisconsin &#8212; A race for an open seat on Wisconsin&#8217;s top court will be an early test of the Trump administration&#8217;s popularity in a political swing state, with more than $17 million spent by groups tied to Elon Musk helping shatter election spending records.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/wisconsin-court-race-tests-trumps-approval-as-musk-pours-millions-into-campaign/>
+
+---
+
+## Jair Bolsonaro ordered to face trial in Brazil for attempting a coup
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>RIO DE JANEIRO &#8212; Jair Bolsonaro, Brazil&#8217;s former president, will face trial on charges that he oversaw a vast scheme to cling to power after losing the 2022 elections, including an attempt to overturn the vote and a plot to assassinate the nation&#8217;s president-elect, the country&#8217;s Supreme Court decided Wednesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/jair-bolsonaro-ordered-to-face-trial-in-brazil-for-attempting-a-coup/>
+
+---
+
+## Trump asks Supreme Court to let him cancel grants to teachers
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Trump administration on Wednesday asked the Supreme Court to let it cancel $65 million in teacher-training grants that it contends would promote diversity, equity and inclusion initiatives.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/trump-asks-supreme-court-to-let-him-cancel-grants-to-teachers/>
+
+---
+
+## News in brief for March 27
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>Trump to offer &#0010;China lower tariffs for TikTok deal</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/news-in-brief-for-march-27/>
+
+---
+
+## Supreme Court upholds Biden administration’s limits on ‘ghost guns’
+
+date: 2025-03-27, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Wednesday upheld federal restrictions aimed at curtailing access to kits that can be easily assembled into homemade, nearly untraceable firearms, a rare move by a court that has taken an expansive view of gun rights.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/27/nation-world-news/supreme-court-upholds-biden-administrations-limits-on-ghost-guns/>
+
+---
+
+## Keeping visiting vessels in line
+
+date: 2025-03-27, from: Marshal Islands Journal
+
+<p>A multi-agency group boarded and inspected five international vessels using port Majuro earlier this month. While it served as a training exercise for the 19 officers from five different ministries and agencies, it was also a hands on inspection that resulted in two of the five vessels being found “substantially non-compliant with international convention requirements.” [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/keeping-visiting-vessels-in-line/">Keeping visiting vessels in line</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/keeping-visiting-vessels-in-line/>
+
+---
+
+## Pacific Ocean and Climate Crisis Assessment (POCCA) Volume 2 Launched
+
+date: 2025-03-27, from: University of the South Pacific (Fiji)
+
+<p>The Pacific Ocean and Climate Crisis Assessment (POCCA) project launched Volume 2 of its POCCA...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/pacific-ocean-and-climate-crisis-assessment-pocca-volume-2-launched/">Pacific Ocean and Climate Crisis Assessment (POCCA) Volume 2 Launched</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/pacific-ocean-and-climate-crisis-assessment-pocca-volume-2-launched/>
+
+---
+
+## Capital building coming down
+
+date: 2025-03-27, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW After a few shipping delays, work deconstructing the capital building is now underway with a vengeance and is expected to be “completed in two months,” Pacific International Inc.’s Executive Project Manager Bobby Muller said Monday. PII brought in a big yellow “heavy excavator” to do the muscle work on tearing down the iconic, [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/capital-building-coming-down/">Capital building coming down</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/capital-building-coming-down/>
+
+---
+
+## JR wins gold in A. Samoa
+
+date: 2025-03-26, from: Marshal Islands Journal
+
+<p>WILMER JOEL Marshall Islands wrestler JR Bremen Leban will return home next week with gold and bronze medals. JR represented the RMI in the Oceania Championships Senior Under-20 and Under-17 wrestling championships in American Samoa last week. He defeated New Zealand and Australian wrestlers to win the gold medal in the first segment of the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/jr-wins-gold-in-a-samoa/">JR wins gold in A. Samoa</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/jr-wins-gold-in-a-samoa/>
+
+---
+
+## Image of the Week: Mamo
+
+date: 2025-03-26, from: University of Hawaiʻi News
+
+<p>This week’s image is from University of <span aria-label="Hawaii">Hawai&#699;i</span> at Hilo's Saxony Charlot.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/26/image-of-the-week-mamo/">Image of the Week: Mamo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/26/image-of-the-week-mamo/>
+
+---
+
+## $276K SSFM gift supports UH Mānoa student scholarships
+
+date: 2025-03-26, from: University of Hawaiʻi News
+
+<p>Since its inception in 1999, <abbr>SSFM</abbr> scholarships have benefited 70 students, distributing a cumulative total of 105 awards.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/26/ssfm-gift-supports-scholarships/">$276<abbr>K</abbr> <abbr>SSFM</abbr> gift supports <abbr>UH</abbr> Mānoa student scholarships</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/26/ssfm-gift-supports-scholarships/>
+
+---
+
+## Hegseth: US remains invested in Indo-Pacific amid China's threats
+
+date: 2025-03-26, from: Pacific Island Times
+
+“It's a vision in which our allies and partners are at the forefront of deterring aggression,” he said, adding that the Indo-Pacific “is mor 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/hegseth-us-remains-invested-in-indo-pacific-amid-china-s-threats>
 
 ---
 

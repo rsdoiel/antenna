@@ -1,11 +1,452 @@
 ---
 title: snapshots
-updated: 2025-03-26 06:08:17
+updated: 2025-03-27 06:07:49
 ---
 
 # snapshots
 
-(date: 2025-03-26 06:08:17)
+(date: 2025-03-27 06:07:49)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+Elon Musk, and How Techno-Fascism Has Come to America. 
+
+<br> 
+
+<https://www.newyorker.com/culture/infinite-scroll/techno-fascism-comes-to-america-elon-musk>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+21 attorneys general call on legal community to stand in &#39;defense of rule of law&#39; in wake of president&#39;s actions. 
+
+<br> 
+
+<https://www.ojaivalleynews.com/news/government/21-attorneys-general-call-on-legal-community-to-stand-in-defense-of-rule-of-law/article_e55cdac9-4165-4cc1-ad18-07e16f6fa27d.html>
+
+---
+
+## GenAI’s day of reckoning may have come
+
+date: 2025-03-27, from: Gary Marcus blog
+
+It&#8217;s not just the stock price 
+
+<br> 
+
+<https://garymarcus.substack.com/p/genais-day-of-reckoning-may-have>
+
+---
+
+## Poetry on the line: a vintage phone brought to life with Raspberry Pi
+
+date: 2025-03-27, from: Raspberry Pi News (.com)
+
+<p>Raspberry Pi Zero 2 W runs an AI model to find, edit, and play poems through this vintage telephone receiver.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/poetry-on-the-line-a-vintage-phone-brought-to-life-with-raspberry-pi/">Poetry on the line: a vintage phone brought to life with Raspberry Pi</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/poetry-on-the-line-a-vintage-phone-brought-to-life-with-raspberry-pi/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+Fox News’ Jessica Tarlov Says She Never Wants to Hear ‘But Her Emails’ Again After Trump’s Atlantic War Plans Fiasco. 
+
+<br> 
+
+<https://www.yahoo.com/news/fox-news-jessica-tarlov-says-231810388.html>
+
+---
+
+## A Monster Under the Bed
+
+date: 2025-03-27, updated: 2025-03-27, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/27/a-monster-under-the-bed/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+Dan Erickson Breaks Down the Shocking ‘Severance’ Season 2 Finale. 
+
+<br> 
+
+<https://www.esquire.com/uk/culture/a64252497/dan-erickson-interview-severance-season-2-finale/?link_source=ta_first_comment&taid=67e18192cd0e0f0001f82b0d>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+Lies and the City. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/lies-and-the-city?publication_id=277517&post_id=159914259&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Lies and the City
+
+date: 2025-03-27, from: Paul Krugman
+
+New York City is great again, but MAGA can&#8217;t handle the truth 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/lies-and-the-city>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+She Quit Google for ChatGPT and Other AI Search. 
+
+<br> 
+
+<https://www.wsj.com/tech/personal-tech/google-search-chatgpt-perplexity-gemini-6ac749d9?st=Y4a8zL&reflink=desktopwebshare_permalink>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+Let’s put it in language the Signal leakers will understand: what a bunch of pathetic sleazebags. 
+
+<br> 
+
+<https://www.theguardian.com/commentisfree/2025/mar/27/signal-leak-pathetic-sleazebags-maga-fratboy-lexicon>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+Journalist at centre of Trump&#39;s Signal chat scandal speaks to BBC. 
+
+<br> 
+
+<https://www.bbc.com/news/articles/c8rk7vyg83xo>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-27, from: Feed for Alt USDS)
+
+👎 Skip the spin.
+👍 Get the real story.
+
+While Elon & the DOGE team talk circles on Fox News, we’ll be breaking it down live—no nonsense, just facts.
+
+💬 Follow our live commentary beginning Thursday at 6pm ET right here on @bsky.app.
+
+#SaveOurServices #AltUSDS #DOGEwatch #PublicService #altgov 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llddxnmrik2u>
+
+---
+
+## [Igalia Podcast] What Happens If They Sell Chrome?
+
+date: 2025-03-27, from: Chris Coyier blog
+
+I think I preferred talking about it to writing about it as really I just wanted to spout off thoughts and ideas, and hear other people&#8217;s. My writing wasn&#8217;t real journalism, it was more if it goes this way my guess is it ends badly. There are some real extremes here. At worst: Google is [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/03/26/igalia-podcast-what-happens-if-they-sell-chrome/>
+
+---
+
+## 551. The Road to 1066: Countdown to Conquest (Part 4)
+
+date: 2025-03-27, from: This is history podcast
+
+<p>In the triumvirate of 1066, William of Normandy, Harald Hardrada, and Harold Godwinson, the latter has above all endured as one of the great heroes of English history. But how did he become the short-lived King during that tumultuous year? The answer lies in his formidable family, the Godwins. Often symbolised as the last of [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/551-the-road-to-1066-countdown-to-conquest-part-4/">551. The Road to 1066: Countdown to Conquest (Part 4)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/551-the-road-to-1066-countdown-to-conquest-part-4/>
+
+---
+
+## Crawl Order and Disorder
+
+date: 2025-03-27, from: Marginallia log
+
+A problem the search engine&rsquo;s crawler has struggled with for some time is that it takes a fairly long time to finish up, usually spending several days wrapping up the final few domains.
+This has been actualized recently, since the migration to slop crawl data has dropped memory requirements of the crawler by something like 80%, and as such I&rsquo;ve been able to increase the number of crawling tasks, which has led to a bizarre case where 99. 
+
+<br> 
+
+<https://www.marginalia.nu/log/a_117_crawl_order/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-26, from: Dave Winer's linkblog)
+
+Corporate America’s Euphoria Over Trump’s ‘Golden Age’ Is Giving Way to Distress. 
+
+<br> 
+
+<https://www.wsj.com/economy/wall-street-trump-golden-age-distress-28a1dfcc?st=hd7f1F&reflink=desktopwebshare_permalink>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-26, from: Feed for Alt USDS)
+
+"We're the next generation of federal workers, bringing fresh ideas and tackling challenges head-on. From systems architects to scientists, we're committed to serving the people."
+
+🔗 https://www.wethebuilders.org/posts/next-generation-of-employees
+
+#FederalWorkforce #NextGenLeadership #GovernmentInnovation #CivicTech #altusds 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llcq7bk6dp2p>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-26, from: Dave Winer's linkblog)
+
+Watch Your Tesla Is Watching. 
+
+<br> 
+
+<https://www.wired.com/video/watch/your-tesla-can-spy-on-you-is-it>
+
+---
+
+## Lilbits: Google is moving more Android development behind closed doors, Nothing Phone (3a) Community Edition, and a 31.2 inch color E Ink display with an 18 Hz refresh rate
+
+date: 2025-03-26, from: Liliputing
+
+<p>Google has been maintaining two Android development branches for years. One is the Android Open Source Project and the other is an internal branch of Android that&#8217;s closer to the software that actually ships on most Android phones and tablets since it includes Google Mobile Services including the Google Play Store and apps like Chrome, Google [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-google-is-moving-more-android-development-behind-closed-doors/">Lilbits: Google is moving more Android development behind closed doors, Nothing Phone (3a) Community Edition, and a 31.2 inch color E Ink display with an 18 Hz refresh rate</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-google-is-moving-more-android-development-behind-closed-doors/>
+
+---
+
+## Function calling with Gemma
+
+date: 2025-03-26, updated: 2025-03-26, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://ai.google.dev/gemma/docs/capabilities/function-calling">Function calling with Gemma</a></strong></p>
+Google's Gemma 3 model (the 27B variant is particularly capable, I've been trying it out <a href="https://ollama.com/library/gemma3">via Ollama</a>) supports function calling exclusively through prompt engineering. The official documentation describes two recommended prompts - both of them suggest that the tool definitions are passed in as JSON schema, but the way the model should request tool executions differs.</p>
+<p>The first prompt uses Python-style function calling syntax:</p>
+<blockquote>
+<p><code>You have access to functions. If you decide to invoke any of the function(s),
+ you MUST put it in the format of [func_name1(params_name1=params_value1, params_name2=params_value2...), func_name2(params)]</code></p>
+<p><code>You SHOULD NOT include any other text in the response if you call a function</code></p>
+</blockquote>
+<p>(Always love seeing CAPITALS for emphasis in prompts, makes me wonder if they proved to themselves that capitalization makes a difference in this case.)</p>
+<p>The second variant uses JSON instead:</p>
+<blockquote>
+<p><code>You have access to functions. If you decide to invoke any of the function(s),
+you MUST put it in the format of {"name": function name, "parameters": dictionary of argument name and its value}</code></p>
+<p><code>You SHOULD NOT include any other text in the response if you call a function</code></p>
+</blockquote>
+<p>This is a neat illustration of the fact that all of these fancy tool using LLMs are still using effectively the same pattern as was described in <a href="https://react-lm.github.io/">the ReAct paper</a> back in November 2022. Here's <a href="https://til.simonwillison.net/llms/python-react-pattern">my implementation of that pattern</a> from March 2023.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43451406">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/google">google</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/gemma">gemma</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/26/function-calling-with-gemma/#atom-everything>
+
+---
+
+## The Future of Swift Serialization and Deserialization APIs
+
+date: 2025-03-26, from: Michael Tsai
+
+Kevin Perry: It&#8217;s clear from community adoption and feedback that Codable has had a lot of success in the years since it was added to Swift 4, but that it doesn&#8217;t satisfy some important needs. One of the foremost of those needs is performance more in line with programming environments that compete with Swift. As [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/26/the-future-of-swift-serialization-and-deserialization-apis/>
+
+---
+
+## Apple TV+ Losing $1 Billion Per Year
+
+date: 2025-03-26, from: Michael Tsai
+
+Ryan Christoffel: Wayne Ma writes today at The Information about the state of Apple TV+ as a business, analyzing where the streamer stands in terms of revenue and subscribers after five years.In the heavily-paywalled article, Ma reports that Apple&#8217;s losses on TV+ amount to over $1 billion per year. While it&#8217;s long been known that [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/26/apple-tv-losing-1-billion-per-year/>
+
+---
+
+## Updates on HP Printers
+
+date: 2025-03-26, from: Michael Tsai
+
+Nathan Edwards (2023, via Nick Heer): It was fine until my yellow ink cartridge (allegedly) ran out, and the printer stopped printing in color. I soldiered on with the black cartridge. Until one day I tried to print a return label (in black and white!) and the printer decided it wouldn&#8217;t. Not until I replaced [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/26/updates-on-hp-printers/>
+
+---
+
+## Apple’s Dormant CUPS
+
+date: 2025-03-26, from: Michael Tsai
+
+Wikipedia: Michael Sweet, who owned Easy Software Products, started developing CUPS in 1997 and the first public betas appeared in 1999. The original design of CUPS used the Line Printer Daemon protocol (LPD), but due to limitations in LPD and vendor incompatibilities, the Internet Printing Protocol (IPP) was chosen instead. CUPS was initially called &#8220;The [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/26/apples-dormant-cups/>
+
+---
+
+## Quoting @OpenAIDevs
+
+date: 2025-03-26, updated: 2025-03-26, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/OpenAIDevs/status/1904957755829481737"><p>MCP 🤝 OpenAI Agents SDK</p>
+<p>You can now connect your Model Context Protocol servers to Agents: <a href="https://openai.github.io/openai-agents-python/mcp/">openai.github.io/openai-agents-python/mcp/</a></p>
+<p>We’re also working on MCP support for the OpenAI API and ChatGPT desktop app—we’ll share some more news in the coming months.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/OpenAIDevs/status/1904957755829481737">@OpenAIDevs</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/26/openaidevs/#atom-everything>
+
+---
+
+## AOL’s AI Image Captions Terribly Describe Attempted Murder
+
+date: 2025-03-26, from: 404 Media Group
+
+“A couple smiling on a beach at sunset, associated with Hawaii doctor incident.” 
+
+<br> 
+
+<https://www.404media.co/aols-ai-image-captions-terribly-describe-attempted-murder/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-26, from: Dave Winer's linkblog)
+
+DOGE can&#39;t explain why it wants sensitive government data. Isn’t it obvious. He has his own LLM and he’s loading it up with all this info, to be used to suck all the money he can out of the country. We’re sitting ducks. 
+
+<br> 
+
+<https://www.npr.org/2025/03/26/nx-s1-5339842/doge-data-access-privacy-act-social-security-treasury-opm-lawsuit>
+
+---
+
+## When Your Threat Model Is Being a Moron
+
+date: 2025-03-26, from: 404 Media Group
+
+No phone, no app, no encryption can protect you from yourself if you send the information you’re trying to hide directly to someone you don’t want to have it. 
+
+<br> 
+
+<https://www.404media.co/when-your-threat-model-is-being-a-moron-signal/>
+
+---
+
+## Bacalhau v1.7.0 - Day 3: Streamlining Security: Simplifying Bacalhau's Authentication Model
+
+date: 2025-03-26, from: Bacalhau Blog
+
+(12:30)This post covers Bacalhau 1.7&#8217;s new, simplified auth options: Basic Auth, API tokens, and OAuth 2.0 SSO. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/bacalhau-v170-day-3-streamlining>
+
+---
+
+## ReactOS 0.4.15 brings audio, memory, security, and plug and play improvements (Open source Windows-compatible OS)
+
+date: 2025-03-26, from: Liliputing
+
+<p>ReactOS is a free and open source operating system designed to be compatible with Windows software and drivers. While it&#8217;s been under active development since 1999, the operating system is still missing a lot of basic features (like automatic updates, printing, a task scheduler, hibernation support, and multi user support). But the ReactOS team has [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/reactos-0-4-15-brings-audio-memory-security-and-plug-and-play-improvements-open-source-windows-compatible-os/">ReactOS 0.4.15 brings audio, memory, security, and plug and play improvements (Open source Windows-compatible OS)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/reactos-0-4-15-brings-audio-memory-security-and-plug-and-play-improvements-open-source-windows-compatible-os/>
+
+---
+
+## You Need to Use Signal's Nickname Feature
+
+date: 2025-03-26, from: 404 Media Group
+
+Encryption can’t protect you from adding the wrong person to a group chat. But there is also a setting to make sure you don’t. 
+
+<br> 
+
+<https://www.404media.co/you-need-to-use-signals-nickname-feature/>
+
+---
+
+## The Public Interest Corpus Update – Boston Edition
+
+date: 2025-03-26, from: Authors Union blogs
+
+On March 3, librarians, authors, publishers, and technologists gathered at Northeastern University Library in Boston to contribute to a startup plan for The Public Interest Corpus. The Public Interest Corpus is focused on supporting the creation of high-quality AI training data from memory organizations (e.g., libraries, archives, museums) and their partners (e.g., publishers) that advance [&#8230;] 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/03/26/the-public-interest-corpus-update-boston-edition/>
+
+---
+
+## Bigme B7 is a color E Ink tablet with 4G LTE, a camera, and a digital pen
+
+date: 2025-03-26, from: Liliputing
+
+<p>For a long time it was pretty easy to tell the difference between a general-purpose tablet and an eReader. Devices with E Ink displays like Kindle or Kobo products were meant for reading eBooks, while devices with full-color displays and high-refresh rates like iPads and Samsung Galaxy tablets were general-purpose devices. But in recent years [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/bigme-b7-is-a-color-e-ink-tablet-with-4g-lte-a-camera-and-a-digital-pen/">Bigme B7 is a color E Ink tablet with 4G LTE, a camera, and a digital pen</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/bigme-b7-is-a-color-e-ink-tablet-with-4g-lte-a-camera-and-a-digital-pen/>
+
+---
+
+## Say Yes When You’re Young (and Old)
+
+date: 2025-03-26, from: Guy Kawasaki blog
+
+Lessons from Derek Sivers and the power of openness. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/say-yes-when-youre-young-and-old>
 
 ---
 
@@ -186,6 +627,18 @@ A good round up of the data that the IRS has... And therefore is vulnerable base
 <br> 
 
 <https://bsky.app/profile/altusds.bsky.social/post/3llaupjvnjs2j>
+
+---
+
+## Goodbye core types - Hello Go as we know and love it!
+
+date: 2025-03-26, updated: 2025-03-26, from: Go language blog
+
+Go 1.25 simplifies the language spec by removing the notion of core types 
+
+<br> 
+
+<https://go.dev/blog/coretypes>
 
 ---
 
@@ -681,7 +1134,8 @@ date: 2025-03-25, updated: 2025-03-25, from: One Foot Tsunami
 
 date: 2025-03-25, from: Windows Developer Blog
 
-<p><a href="https://aka.ms/aitoolkit">AI Toolkit</a> now supports <a href="https://developer.nvidia.com/nim">NVIDIA NIM microservice</a>-based foundation models for inference testing in the model playground! Explore these NIMs in AI Toolkit's model cata</p>
+<p><strong><em>Editor’s note – March 26, 2025 –</em></strong><em> The screenshot was updated to reflect relevant models.</em></p>
+<p><a href="https://aka.ms/aitoolkit">AI Toolkit</a> now supports <a href="https://developer.nvidia.com/nim">NVIDIA NIM mic</p>
 <p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/03/25/ai-toolkit-for-visual-studio-code-now-supports-nvidia-nim-microservices-for-rtx-ai-pcs/">AI Toolkit for Visual Studio Code now supports NVIDIA NIM microservices for RTX AI PCs</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
  
 
@@ -1089,7 +1543,7 @@ files-to-prompt . | llm -m claude-3.7-sonnet \
 </blockquote>
 
 
-    <p>Tags: <a href="https://simonwillison.net/tags/playwright">playwright</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+    <p>Tags: <a href="https://simonwillison.net/tags/playwright">playwright</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a></p> 
 
 <br> 
 

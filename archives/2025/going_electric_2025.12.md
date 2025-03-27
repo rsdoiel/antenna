@@ -1,11 +1,311 @@
 ---
 title: going electric
-updated: 2025-03-26 06:08:16
+updated: 2025-03-27 06:07:48
 ---
 
 # going electric
 
-(date: 2025-03-26 06:08:16)
+(date: 2025-03-27 06:07:48)
+
+---
+
+## Vessev opens US office with plans to establish electric hydrofoil sales, manufacturing
+
+date: 2025-03-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Hydrofoil-US-Vessev.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>New Zealand-based electric hydrofoil boat manufacturer Vessev announced exciting expansion plans to the US this morning. The new office is its first at the international level and will be the new headquarters for <a href="https://electrek.co/guides/vessev/">Vessev’s</a> overseas operations as it looks to “establish a strong market presence in the US.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-boats,electric-hydrofoil,vessev" data-layer-viewtype="unknown" data-post-id="407833" href="https://electrek.co/2025/03/27/vessev-opens-us-office-electric-hydrofoil-sales-manufacturing/#more-407833" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/27/vessev-opens-us-office-electric-hydrofoil-sales-manufacturing/>
+
+---
+
+## E-quipment highlight: Kovaco CyberX cabinless electric track loader [video]
+
+date: 2025-03-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Cyberx_electric_track_loader_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>When Kovaco (Firstgreen Industries) released its Elise CBL last year, it was the world’s first cabinless, remotely operated electric skid steer. This year, the company’s bringing another “world’s first” to America’s job sites. Meet CyberX – a machine that Kovaco claims is the world’s first, commercially available electric, remote-control mini track loader.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment,heavy-equipment" data-layer-viewtype="unknown" data-post-id="407954" href="https://electrek.co/2025/03/27/e-quipment-highlight-kovaco-cyberx-cabinless-electric-track-loader-video/#more-407954" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/27/e-quipment-highlight-kovaco-cyberx-cabinless-electric-track-loader-video/>
+
+---
+
+## Elon Musk: Tesla (TSLA) is ‘not unscathed’, tariff impact is ‘significant’
+
+date: 2025-03-27, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Elon-Musk-Tesla-all-hands-meeting.png?w=1600" /></div><p>Elon Musk has confirmed that Tesla (TSLA) is not coming out unscathed from the newly announced automotive tariffs. He admits that the impact is “significant.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="407948" href="https://electrek.co/2025/03/27/elon-musk-tesla-tsla-is-not-unscathed-tariff-impact-is-significant/#more-407948" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/27/elon-musk-tesla-tsla-is-not-unscathed-tariff-impact-is-significant/>
+
+---
+
+## The Audi A5 Plug-In Hybrid Has A Bigger Battery Than The Original Nissan Leaf
+
+date: 2025-03-27, from: Inside EVs News
+
+The electric motor is sandwiched between the gas engine and the transmission, so you get a seven-speed EV (sometimes). 
+
+<br> 
+
+<https://insideevs.com/news/754788/audi-a5-phev-battery-specs-range/>
+
+---
+
+## Trump imposes tariffs on all car imports: here’s where all EVs available in the US come from
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-14-at-2.19.11 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>President Trump has announced that the US will impose tariffs on all cars and trucks imported into the country.</p>
+
+
+
+<p>Here’s where all EVs available in the US are assembled.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="407888" href="https://electrek.co/2025/03/26/trump-imposes-tariffs-on-all-car-imports-here-where-all-evs-available-in-the-us-come-from/#more-407888" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/trump-imposes-tariffs-on-all-car-imports-here-where-all-evs-available-in-the-us-come-from/>
+
+---
+
+## Trump Slaps 25% Tariffs On All Imported Cars
+
+date: 2025-03-26, from: Inside EVs News
+
+Buckle up for your next electric car to be way more expensive. 
+
+<br> 
+
+<https://insideevs.com/news/754759/trump-tariffs-foreign-cars-evs/>
+
+---
+
+## Hyundai’s Georgia EV plant is officially open and ready to launch the three-row IONIQ 9
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/12/Hyundai-new-EVs-tech.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/hyundai/">Hyundai’s</a> massive new EV plant in Georgia is officially open for business. The company held the grand opening on Wednesday at its new Hyundai Motor Group Metaplant America, where it will build upcoming EVs, including its first three-row electric SUV, the IONIQ 9.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-9" data-layer-viewtype="unknown" data-post-id="407869" href="https://electrek.co/2025/03/26/hyundais-georgia-ev-plant-open-ioniq-9-launch/#more-407869" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/hyundais-georgia-ev-plant-open-ioniq-9-launch/>
+
+---
+
+## Hyundai's Georgia EV Metaplant Will Be Bigger Than Expected
+
+date: 2025-03-26, from: Inside EVs News
+
+Hyundai's brand new factory near Savannah makes the Ioniq 5 and Ioniq 9 EVs, and now it's going to expand even further. 
+
+<br> 
+
+<https://insideevs.com/news/754757/hyundai-metaplant-expansion-georgia/>
+
+---
+
+## Made-in-America solar just got a big win in Louisiana
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Prairie_Ronde_0022-1.jpg?quality=82&#038;strip=all&#038;w=1335" /></div><p>Lightsource bp’s 180 megawatt (MW) Prairie Ronde Solar in Louisiana is now online and generating enough power for the equivalent of around 31,000 homes.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,solar,louisiana,solar-power" data-layer-viewtype="unknown" data-post-id="407870" href="https://electrek.co/2025/03/26/made-in-america-solar-just-got-a-big-win-in-louisiana/#more-407870" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/made-in-america-solar-just-got-a-big-win-in-louisiana/>
+
+---
+
+## Tesla starts production of cheaper new Model Y non-Launch Edition
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>Tesla has started production of the new Model Y non-Launch Edition, which is going to be cheaper without all the options bundled together.</p>
+
+
+
+<p>However, the automaker hasn’t started to take orders yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="407866" href="https://electrek.co/2025/03/26/tesla-starts-production-of-cheaper-new-model-y-non-launch-edition/#more-407866" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/tesla-starts-production-of-cheaper-new-model-y-non-launch-edition/>
+
+---
+
+## Chevy is the fastest-growing EV brand in the US right now
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The fastest-growing EV brand in the US is not Tesla or Rivian. It’s GM’s Chevrolet. With the electric Equinox, Blazer, and Silverado rolling out, <a href="https://electrek.co/guides/chevrolet/">Chevy</a> is now the fastest-growing EV brand in the US. Although Tesla still accounts for about 50% of EV retail share, new models are eating away at its lead.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevrolet,general-motors,gm" data-layer-viewtype="unknown" data-post-id="407857" href="https://electrek.co/2025/03/26/chevy-fastest-growing-ev-brand/#more-407857" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/chevy-fastest-growing-ev-brand/>
+
+---
+
+## Save a massive $7,032 on Anker SOLIX F3800 bundles, EVOLV e-scooters $400 off, Worx lawn care roundup from $69, more
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Anker-SOLIX-f3800-Portable-Power-Station.webp?w=1200" /></div><p>Leading the pack of Green Deals today is the massive savings we’re seeing coming from <a href="https://9to5toys.com/2025/03/26/anker-solix-flash-f3800-bundles-from-2799/">Anker’s final SOLIX Spring Sale flash offers</a> running through March 31 on its <a href="https://9to5toys.com/2025/03/26/anker-solix-flash-f3800-bundles-from-2799/">F3800 Portable Power Station bundles</a>, with up to $7,032 off four options and some free gear too – all starting from <a href="https://9to5toys.com/2025/03/26/anker-solix-flash-f3800-bundles-from-2799/">$2,799</a>. Right behind it is <a href="https://9to5toys.com/2025/03/26/evolv-spring-savings-electric-scooters-from-1129/">EVOLV’s Spring Sale</a> discounts on four of its high-quality electric scooters, like the popular <a href="https://9to5toys.com/2025/03/26/evolv-spring-savings-electric-scooters-from-1129/">TERRA</a>, with deals starting from <a href="https://9to5toys.com/2025/03/26/evolv-spring-savings-electric-scooters-from-1129/">$1,129</a>. Lastly, we have <a href="https://9to5toys.com/2025/03/26/worx-12a-trivac-70-more-from-69/">Worx’s WG509 12A Trivac</a> 3-in-1 Electric Leaf Blower/Mulcher/Vacuum that has fallen to <a href="https://9to5toys.com/2025/03/26/worx-12a-trivac-70-more-from-69/">$70</a>, among other lawn care equipment from the brand. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s first-ever discount on <a href="https://9to5toys.com/2025/03/24/ecovac-goat-o1000-robot-mower-first-discount/">ECOVACS’ new RTK robot mower</a>, Anker’s <a href="https://9to5toys.com/2025/03/25/anker-powercore-reserve-90-more/">PowerCore Reserve at $90</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="407839" href="https://electrek.co/2025/03/26/anker-solix-f3800-evolv-e-scooters-worx-more/#more-407839" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/anker-solix-f3800-evolv-e-scooters-worx-more/>
+
+---
+
+## Car Companies Are Shifting Into Self-Preservation Mode
+
+date: 2025-03-26, from: Inside EVs News
+
+Nissan speeds up its EV development cycles, Toyota holds back on a battery plant, while Hyundai invests in the U.S. 
+
+<br> 
+
+<https://insideevs.com/news/754724/critical-materials-self-preservation-mode/>
+
+---
+
+## Rivian (RIVN) spin off ‘Also’ is a new micromobility EV startup for e-bikes, scooters, and more
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Rivians-legal-battle-Tesla.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After starting a “stealth program” years ago, <a href="https://electrek.co/guides/rivian/">Rivian’s</a> (RIVN) new spin off will take on the micromobility space. Rivian spun out its micromobility business into a new EV startup called Also, Inc. The new brand will focus on lightweight vehicles like electric scooters, bikes, and more. Here’s what we know about Rivian’s new startup so far.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="407817" href="https://electrek.co/2025/03/26/rivian-rivn-spin-off-also-micromobility-startup-for-small-evs/#more-407817" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/rivian-rivn-spin-off-also-micromobility-startup-for-small-evs/>
+
+---
+
+## Tesla hypes ‘unsupervised full self-driving’ launch in June: here’s what it will actually launch
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/Robotaxi_75-e1728619627481.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has started hyping its upcoming ‘unsupervised full self-driving’ launch in Austin in June. Let’s cut through the hype.</p>
+
+
+
+<p>Here’s what Tesla will actually launch.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="407803" href="https://electrek.co/2025/03/26/tesla-hypes-unsupervised-full-self-driving-june-actually-launch/#more-407803" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/tesla-hypes-unsupervised-full-self-driving-june-actually-launch/>
+
+---
+
+## Orange County to get new, stricter electric bicycle laws
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/electric-bike-company-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Orange County, California, is set to enforce new regulations for electric bicycles starting in April 2025, reflecting growing safety concerns amid rapidly increasing e-bike use. According to county supervisor Katrina Foley, e-bike-related accidents have surged by an alarming 500% since 2020, prompting local authorities to introduce stricter rules aimed at curbing dangerous riding behaviors and enhancing public safety.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="407462" href="https://electrek.co/2025/03/26/orange-county-to-get-new-stricter-electric-bicycle-laws/#more-407462" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/orange-county-to-get-new-stricter-electric-bicycle-laws/>
+
+---
+
+## The Nissan LEAF is all grown up and better than ever: Here’s our first look at the new EV
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Nissan-new-LEAF-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The <a href="https://electrek.co/guides/nissan-leaf/">Nissan LEAF</a> is now a crossover with some pretty major upgrades. Nissan unveiled the third-gen EV, dropping the iconic hatch design for a stylish crossover. It now has significantly more range, and it even has an NACS port for charging at Tesla Superchargers. Here’s our first look at the new Nissan LEAF EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="nissan,nissan-leaf" data-layer-viewtype="unknown" data-post-id="407793" href="https://electrek.co/2025/03/26/nissan-leaf-all-grown-up-first-look-new-ev/#more-407793" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/nissan-leaf-all-grown-up-first-look-new-ev/>
+
+---
+
+## BYD’s new 1,000 kW EV fast chargers are ready and could hit China as early as next week
+
+date: 2025-03-26, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/BYD-fast-charger-1000-kW-hero.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Less than ten days after BYD unveiled potentially game-changing <a href="https://electrek.co/guides/ev-chargers/">EV charging</a> technology, the Chinese auto conglomerate doubled down on its implementation plans and has shared that the first 1,000 kW fast chargers examples will be available to drivers as early as next week.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="407797" href="https://electrek.co/2025/03/26/byds-new-1000-kw-ev-fast-chargers-are-ready-and-could-hit-china-as-early-as-next-week/#more-407797" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/26/byds-new-1000-kw-ev-fast-chargers-are-ready-and-could-hit-china-as-early-as-next-week/>
+
+---
+
+## Rivian's Also Strikes Out Into The Scooter, E-Mobility Space
+
+date: 2025-03-26, from: Inside EVs News
+
+Also, incubated within Rivian, aims to take on scooters, three-wheelers and other small electric vehicles. But details are few for now. 
+
+<br> 
+
+<https://insideevs.com/news/754567/also-rivian-scooter-mobility/>
 
 ---
 
