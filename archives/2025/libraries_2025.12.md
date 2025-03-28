@@ -1,11 +1,39 @@
 ---
 title: libraries
-updated: 2025-03-27 06:07:46
+updated: 2025-03-28 06:09:30
 ---
 
 # libraries
 
-(date: 2025-03-27 06:07:46)
+(date: 2025-03-28 06:09:30)
+
+---
+
+## SSP’s Generations Fund Approaches the Finish Line
+
+date: 2025-03-28, from: Scholarly Kitchen
+
+<p>The Generations Fund is nearing the finish line, officially surpassing 90% of its goal, thanks to all of our generous donors.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/03/28/ssps-generations-fund-approaches-the-finish-line/">SSP’s Generations Fund Approaches the Finish Line</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/03/28/ssps-generations-fund-approaches-the-finish-line/>
+
+---
+
+## Day in Review (March 26–27)
+
+date: 2025-03-27, from: Association of Research Libraries News
+
+<p>Last Updated on March 27, 2025, 4:46 pm ET Sign up to receive the Day in Review by email. Jump to: Thursday, March 27 &#124; Wednesday, March 26 Top o’...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-26-27/">Day in Review (March 26–27)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-march-26-27/>
 
 ---
 

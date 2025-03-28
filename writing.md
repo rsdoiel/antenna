@@ -1,11 +1,67 @@
 ---
 title: writing
-updated: 2025-03-27 06:07:44
+updated: 2025-03-28 06:09:29
 ---
 
 # writing
 
-(date: 2025-03-27 06:07:44)
+(date: 2025-03-28 06:09:29)
+
+---
+
+## Write On: Paul William Davies - Creator and Showrunner of 'The Residence'
+
+date: 2025-03-27, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-paul-william-davies-creator-and-showrunner-of-the-residence" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Creator%20and%20Showrunner%20of%20The%20Residence%20Paul%20William%20Davies.png" alt="Write On Logo of a cell phone featuring the poster of 'The Residence' with Uzo Aduba. Headphones positioned around the cell phone. Green amplitude shown in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“I didn’t really set out to make Cordelia (Uzo Aduba) quirky. I just wanted to make her distinctive. I just really thought about who I wanted her to be and how I thought [birdwatching] would be an interesting way for her to approach her job. And the very first thing that came to me was just her use of silence and her ability to just be comfortable in situations that might make other people uncomfortable. And it’s a quality that I’ve seen in certain people that I’ve always admired and been fascinated with because there’s nobody quite like Cordelia, but I’ve seen glimmers of it,” says <em>The Residence</em> creator and showrunner Paul William Davies about creating his lead character Cordelia, a detective who uses her birdwatching skills as framework for solving cases.&nbsp;<br><br>On today’s episode, we talk with Paul William Davies about <em>The Residence</em>, the new Shondaland show streaming on Netflix. Set behind closed doors at the White House, <em>The Residence</em> follows an offbeat detective, Cordelia Cupp (Aduba), as she investigates the murder of a lead member of the White House staff. Davies says the idea came to him watching a hearing on C-SPAN that went into details of the White House’s layout. But the show is more than just a game of Clue set in the upstairs-downstairs world of 1600 Pennsylvania Ave. The show goes deep into character and offers plenty of laughs along the way.&nbsp;<br><br>Davies talks about what he’s learned working with television revolutionary Shonda Rhimes, the intense work that goes into structuring a murder mystery, and shares his advice for anyone who may be working on their own TV mystery. &nbsp;<br><br>“I think it’s really important that you think about what the environment is that you’re having this murder mystery in, and making the motive something that feels like it’s related to the world that you’re working in. In most murder mysteries, the murderer is doing it for money or for love or lust. And that’s probably in 98% of the ones that you read. And that’s fine… But I think really giving a lot of thought to, what is the motive here? How do I keep it organic to this world and these people, as opposed to it just being grafted onto it, which I think sometimes does happen. Make sure that the killer is doing something that feels like it’s part of that world for a reason that is related to that world,” he says.&nbsp;<br><br>To hear more, listen to the podcast.&nbsp;<br><br></p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-paul-william-davies-creator-and-showrunner-of-the-residence>
+
+---
+
+## New Books Video for 3/25/25 is Live!
+
+date: 2025-03-27, from: Locus Magazine
+
+<p>Welcome back to another week of Locus&#8217; top new releases for the week of 3/25/25! We&#8217;re going over the best of the best in the SF, Fantasy, Horror, and YA genres! Come by our channel and subscribe to support what we do while also keep up-to-date on future releases! We post a new video weekly and we&#8217;re super excited to help you add new books to your TBR pile!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/03/new-books-video-for-3-25-25-is-live/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/03/new-books-video-for-3-25-25-is-live/>
+
+---
+
+## Lady Churchill’s Rosebud Wristlet, Uncanny  and The Deadlands: Short Fiction Reviews by Paula Guran
+
+date: 2025-03-27, from: Locus Magazine
+
+<p>Lady Churchill’s Rosebud Wristlet 12/24
+Uncanny 1-2/25
+The Deadlands Winter ’25</p>
+<p>Before launching into new fiction for the (at this writing) still-new year of 2025, let’s mention Lady Churchill’s Rosebud Wristlet #49. It is a 2024 publication but came out late in the year. The issue contains two works of fiction: novella “<strong>Pomegranate Hearts</strong>” by <strong>Dora Holland </strong>and short story “<strong>Hannah and Grackle, Lost in the Woods</strong> <a href="https://locusmag.com/2025/03/lady-churchills-rosebud-wristlet-uncanny-and-the-deadlands-short-fiction-reviews-by-paula-guran/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/lady-churchills-rosebud-wristlet-uncanny-and-the-deadlands-short-fiction-reviews-by-paula-guran/>
 
 ---
 

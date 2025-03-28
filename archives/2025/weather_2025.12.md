@@ -1,19 +1,19 @@
 ---
 title: weather
-updated: 2025-03-27 06:07:44
+updated: 2025-03-28 06:09:28
 ---
 
 # weather
 
-(date: 2025-03-27 06:07:44)
+(date: 2025-03-28 06:09:28)
 
 ---
 
-## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
+## The Central North Pacific hurricane season runs from June 1st through November 30th.
 
-date: 2025-03-27, from: Eastern Pacific Basin GIS Data
+date: 2025-03-28, from: Central Pacific Basin Tropical Cyclones
 
-The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
+The Central North Pacific hurricane season runs from June 1st through November 30th. 
 
 <br> 
 
@@ -21,60 +21,88 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC Mar 27, 2025 1300 UTC Day 1 Convective Outlook
+## SPC - No watches are valid as of Fri Mar 28 12:45:01 UTC 2025
 
-date: 2025-03-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-03-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Fri Mar 28 12:45:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Fri Mar 28 12:45:01 UTC 2025
+
+date: 2025-03-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Fri Mar 28 12:45:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Mar 28, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-03-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
 Day 1 Convective Outlook  
 NWS Storm Prediction Center Norman OK
-0756 AM CDT Thu Mar 27 2025
+0740 AM CDT Fri Mar 28 2025
 
-Valid 271300Z - 281200Z
+Valid 281300Z - 291200Z
 
-...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS THE LOWER
-MISSOURI/MID-MISSISSIPPI VALLEY REGION...AND SOUTH TEXAS...
+...THERE IS A MARGINAL RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+COASTAL TEXAS INTO LOUISIANA...AND PORTIONS OF NEBRASKA INTO THE
+UPPER MIDWEST...
 
 ...SUMMARY...
-Multiple rounds of severe thunderstorms are possible in south Texas.
-Across parts of the Lower Missouri/Mid-Mississippi Valleys, isolated
-to scattered large hail and localized severe wind gusts are
-possible, mainly during the late afternoon and evening.
+A low probability tornado/wind threat is forecast through this
+evening across parts of coastal Texas into Louisiana. Isolated
+severe hail and wind is also possible this evening/tonight from
+Nebraska into portions of the Upper Midwest.
 
-...South Texas...
-The slow-moving upper trough will eject across northern Mexico
-toward deep South Texas by the end of the period. Strongest
-mid-level flow will translate through the base of the trough, south
-of the international border into the lower Valley of Texas by early
-evening. A low-level jet will remain focused across south Texas and
-multiple rounds of deep convection are expected. While regenerative
-convection and outflow will limit the northern extent of more
-appreciable destabilization, adequate buoyancy, a modestly steep
-lapse rate environment, and deep-layer shear will support robust
-updrafts and storm organization. Hail/wind appear to be the main
-threats, although a tornado or two can not be ruled out.
+...Coastal Texas into Louisiana...
+A convective cluster advanced eastward and offshore from deep south
+TX earlier this morning. In the wake of this activity, a remnant MCV
+should continue northeastward along/near the TX Coast today. With
+considerable convective overturning having already occurred, it
+remains unclear how much destabilization will occur along/behind the
+MCV across deep south TX through the afternoon. A better chance for
+modest surface-based instability to develop should exist across
+parts of the upper TX Coast into LA this afternoon. With modestly
+enhanced low-level winds veering with height across this area in
+association with the MCV, there may be sufficient 0-1 km SRH to
+support a couple of tornadoes with any cells or clusters that can
+develop this afternoon. An isolated damaging wind threat should also
+exist with this activity as it spreads into parts of LA early this
+evening, before eventually weakening with the loss of daytime
+heating. Poor mid-level lapse rates should limit the overall
+thermodynamic environment, and current expectations are for the
+severe threat to remain fairly isolated/marginal.
 
-...Central Plains to Lower Missouri/Middle Mississippi Valleys...
-Scattered thunderstorms, including a few lingering strong storms,
-continue early this morning mainly across northwest Missouri and far
-southern Iowa. These storms will continue to transition
-east-southeastward, with severe-storm potential remaining limited as
-the low-level jet/warm advection abate this morning. 
+...Nebraska into the Upper Midwest...
+Upper ridging will be gradually suppressed today as a low-amplitude
+shortwave trough moves eastward across the northern/central Plains
+and Upper Midwest through the period. Modest low-level moisture is
+forecast to continue streaming northward along/south of a sharpening
+warm front across MN/WI, and east of a cold front that will develop
+southward across parts of the northern/central Plains by this
+evening. Isolated to scattered thunderstorms may develop by mid to
+late evening along/near both fronts as low-level warm advection
+strengthens, from central NE northeastward into southern MN and
+central WI. Steep mid-level lapse rates will aid in the development
+of moderate MUCAPE, while deep-layer shear appears marginally
+supportive of organized convection. Any sustained thunderstorms
+could produce isolated severe hail and damaging winds. This activity
+will likely be elevated with eastward extent into the Upper Midwest
+through the evening and overnight, with a continued hail threat.
 
-As the regional upper ridge tends to flatten later today into
-tonight, steep mid-level lapse rates will overspread this region.
-Convective inhibition may become sufficiently weak by late
-afternoon/early for isolated thunderstorm development near the warm
-front/wind shift including a corridor across northern Kansas,
-southeast Nebraska to southwest Iowa/northwest Missouri.
-Supercellular development could occur in the presence of moderate
-instability and favorable wind profiles featuring around 35-40 kt
-effective shear magnitudes. A greater coverage of elevated storms
-will occur tonight as the low-level jet reestablishes and storms
-expand eastward regionally. Large hail is the most probable hazard
-in both regimes.
-
-..Guyer/Bentley.. 03/27/2025
+..Gleason/Leitman.. 03/28/2025
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
@@ -86,86 +114,56 @@ in both regimes.
 
 ---
 
-## SPC - No watches are valid as of Thu Mar 27 13:00:02 UTC 2025
+## SPC Mar 28, 2025 Day 4-8 Severe Weather Outlook
 
-date: 2025-03-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Thu Mar 27 13:00:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Thu Mar 27 13:00:02 UTC 2025
-
-date: 2025-03-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Thu Mar 27 13:00:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
-
----
-
-## SPC Mar 27, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-03-27, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+date: 2025-03-28, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
 <br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
+Day 4-8 Convective Outlook CORR 1
 NWS Storm Prediction Center Norman OK
-0357 AM CDT Thu Mar 27 2025
+0409 AM CDT Fri Mar 28 2025
 
-Valid 301200Z - 041200Z
+Valid 311200Z - 051200Z
+
+CORRECTED GRAPHIC
 
 ...DISCUSSION...
-Predictability remains a concern during the medium-range period. 
-Models reveal notable differences even in the Day 4-5 time frame
-with respect to strength of the eastern U.S. upper trough, and
-associated evolution/development of the surface pattern.  As the
-initial surface system moves offshore late in the Day 5 period
-(Tuesday morning), substantial divergence in solutions is evident
-with the next trough moving into/across the western CONUS.  Given
-these differences, any severe potential beyond Day 5 cannot be
-quantified with any degree of confidence.
+Widespread storms and at least some attendant severe risk will be
+ongoing at the start of the Day 4 period (Monday March 31) -- with
+the band of convection likely extending along the west slopes of the
+Appalachians initially.  Diurnal destabilization along and east of
+the mountains remains a question, particularly with northward extent
+into the Northeast, and thus the northern periphery of the risk area
+remains in question -- in what will likely be a very low CAPE/high
+shear environment -- suggestive of damaging gusts being the primary
+concern over northern portions of the area.  
 
-With that said, a fairly widespread area of severe potential remains
-evident Day 4/Sunday, ahead of a cold front moving eastward across
-the Mississippi and Ohio and eventually the Tennessee Valleys. 
-Northward advection of 60s dewpoints is expected ahead of this
-front, which will combine with daytime heating to boost mixed-layer
-CAPE into the 1000 to 1500 J/kg range, and potentially above 2000
-J/kg farther southwestward along the front from East Texas into the
-lower Mississippi Valley.
+Farther south, greater CAPE is expected, particularly from the
+Carolinas into the central Gulf Coast states.  Here, an all-hazards
+risk is forecast to continue from the Day 3 period into Day 4. 
+Storms/severe risk will shift eastward with time, crossing the East
+Coast states through the afternoon and evening, before clearing the
+coast overnight.
 
-As a belt of strong southwesterly flow aloft overspreads the
-moistening/destabilizing pre-frontal boundary layer, development of
-strong/severe storms is expected near and ahead of the boundary
-during the afternoon -- potentially extending as far southwestward
-as East Texas.  Along with potential for large hail and damaging
-winds, likelihood for supercell storms suggests potential for a few
-tornadoes as well.  Risk will spread eastward through the evening
-across portions of the Midwest/Ohio Valley and Mid/Lower Mississippi
-Valley, and southeastward into the Tennessee Valley and central Gulf
-Coast states overnight -- likely persisting through the end of the
-period.
+Day 5/Tuesday looks to be a relative down day in terms of severe
+potential, with moisture beginning to return northward into the
+central U.S. ahead of the next system. 
 
-Day 5/Monday, models begin to differ more substantially with respect
-to surface frontal location -- particularly with northern extent. 
-The GFS depicts the front as extending from New England
-southwestward to the Texas Coast Monday morning, while the ECMWF
-places it from Lower Michigan to coastal Texas.  By late afternoon,
-the GFS shows the front reaching the New England coastal area and
-Mid-Atlantic region, focusing the primary severe threat from the
-Mid-Atlantic area southwestward.  Meanwhile, some risk could extend
-as far north as the Lower Great Lakes region/central Appalachians
-per the ECMWF's deterministic forecast.  At this time, will keep the
-Day 5 risk area focused from the Mid-Atlantic region to the lower
-Mississippi Valley, though adjustments/refinements to the area over
-the next several days will likely be required.
+Day 6/Wednesday, moisture will continue returning northward across
+the central U.S., though substantial differences in timing/evolution
+of the upper system exists between the (slower) ECMWF and (faster)
+GFS.  However, the GEFS ensemble mean is slower than the operational
+GFS, not quite as slow as but more in line with the ECMWF -- and the
+Euro ensemble mean.  Given this, confidence is high enough to
+proceed with introduction of a broad -- though areally uncertain --
+15% area.  This system would appear to have the potential to produce
+another fairly widespread/all-hazards severe event, but will likely
+require a good bit of adjustment over the next few days.
+
+Beyond Day 6, confidence in evolution of the large-scale features
+diminishes further, due to the aforementioned differences between
+operations runs of the global models.  As such, no areas will be
+delineated beyond Day 6.
 
 </pre>
 <a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>

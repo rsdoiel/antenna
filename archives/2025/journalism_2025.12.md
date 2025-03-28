@@ -1,11 +1,221 @@
 ---
 title: journalism
-updated: 2025-03-27 06:07:45
+updated: 2025-03-28 06:09:29
 ---
 
 # journalism
 
-(date: 2025-03-27 06:07:45)
+(date: 2025-03-28 06:09:29)
+
+---
+
+## Classifieds – March 28, 2025
+
+date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/28/classifieds-march-28-2025/">Classifieds &#8211; March 28, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/28/classifieds-march-28-2025/>
+
+---
+
+## Sony sues USC for roughly $42 million
+
+date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University purportedly used over 170 songs without permission on social media.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/28/sony-sues-usc-for-roughly-42-million/">Sony sues USC for roughly $42 million</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/28/sony-sues-usc-for-roughly-42-million/>
+
+---
+
+## Rediscovering the joy of solitude
+
+date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Traveling solo has helped me reclaim a mindset of independence and relearn how to enjoy my own company.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/28/rediscovering-the-joy-of-solitude/">Rediscovering the joy of solitude</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/28/rediscovering-the-joy-of-solitude/>
+
+---
+
+## Gould Dean joins in condemning Trump law firm sanctions
+
+date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Multiple executive orders have terminated federal contracts with major firms.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/28/gould-dean-joins-in-condemning-trump-law-firm-sanctions/">Gould Dean joins in condemning Trump law firm sanctions</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/28/gould-dean-joins-in-condemning-trump-law-firm-sanctions/>
+
+---
+
+## The Weekly Frame III: Dorms and Rooms
+
+date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/03/28/the-weekly-frame-iii-dorms-and-rooms/">The Weekly Frame III: Dorms and Rooms</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/28/the-weekly-frame-iii-dorms-and-rooms/>
+
+---
+
+## 0livia Mae releases debut album ‘Butterfly Effect’
+
+date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The album delves into how a playful crush can lead to life-altering experiences.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/28/0livia-mae-releases-debut-album-butterfly-effect/">0livia Mae releases debut album &#8216;Butterfly Effect&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/28/0livia-mae-releases-debut-album-butterfly-effect/>
+
+---
+
+## USC reduces merit scholarship funds, citing budget woes
+
+date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University gave roughly $85 million in merit-based scholarships last school year.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/28/usc-reduces-merit-scholarship-funds-citing-budget-woes/">USC reduces merit scholarship funds, citing budget woes</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/28/usc-reduces-merit-scholarship-funds-citing-budget-woes/>
+
+---
+
+**@The Daily Trojan (USC Student Newspaper)** (date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper))
+
+<p>The post <a href="https://dailytrojan.com/2025/03/27/google8882d86f94399826-html/"></a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/27/google8882d86f94399826-html/>
+
+---
+
+## Technology is advancing at a fast rate including AI such as ChatGPT
+
+date: 2025-03-28, from: The Canyon News (COC Student Newspaper)
+
+<p>Professors on college campuses are learning how to use AI in the&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/ai-at-coc/">Technology is advancing at a fast rate including AI such as ChatGPT</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/ai-at-coc/>
+
+---
+
+## UC Board of Regents hears public comment on staff wages, antisemitism initiative
+
+date: 2025-03-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents heard public comment from community members calling on the University to raise staff wages and take stronger action against campus antisemitism last week. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/27/uc-board-of-regents-hears-public-comment-on-staff-wages-antisemitism-initiative/>
+
+---
+
+## Department of Education’s future remains uncertain amidst cuts
+
+date: 2025-03-27, from: The Sundail (CSUN Student Newspaper)
+
+President Donald Trump signed an executive order to shut down the U.S. Department of Education this past Thursday, paving the way to begin dismantling the agency. Though the order was... 
+
+<br> 
+
+<https://sundial.csun.edu/191765/news/department-of-educations-future-remains-uncertain-amidst-cuts/>
+
+---
+
+## USC changes DEI unifying value to ‘Community’
+
+date: 2025-03-27, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The University said the change made its language “precise and unambiguous” to comply with federal legal guidance.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/27/usc-changes-dei-unifying-value-to-community/">USC changes DEI unifying value to &#8216;Community&#8217;</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/27/usc-changes-dei-unifying-value-to-community/>
+
+---
+
+## Connecting Through Culture With Black Girl Magic
+
+date: 2025-03-27, from: The Sundail (CSUN Student Newspaper)
+
+Creating a strong community for Black women and allies is what affinity group Black Girl Magic (BGM) at CSUN strives to do for students. The group was created in 2016... 
+
+<br> 
+
+<https://sundial.csun.edu/191757/news/connecting-through-culture-with-black-girl-magic/>
+
+---
+
+## How can we reach beyond the local news choir? Spotlight PA’s founding editor has ideas
+
+date: 2025-03-27, from: Nieman Journalism Lab
+
+As LinkedIn post ledes go, Spotlight PA CEO and editor Christopher Baxter’s on a post last week was intriguing: “I recently had lunch with a staunch, pro-Trump Republican and highly successful business leader, and his views on local news changed my own.” In the post, Baxter, the founding editor of the six-year-old nonprofit local newsroom... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/how-can-we-reach-beyond-the-local-news-choir-spotlight-pas-founding-editor-has-ideas/>
+
+---
+
+## Robert W. McChesney, America’s leading left-wing critic of corporate media, has died
+
+date: 2025-03-27, from: Nieman Journalism Lab
+
+Robert W. McChesney, the lion of anti-corporate media scholarship, is dead at the age of 72. He was, for decades, probably the most prominent academic critic of American media from the left, focused on all the ways our idealized vision of a &#8220;free press&#8221; was actually hampered by the power of big business, the wealthy,... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/robert-w-mcchesney-americas-leading-left-wing-critic-of-corporate-media-has-died/>
+
+---
+
+## ‘The Valley’ begins filming at College of the Canyons
+
+date: 2025-03-27, from: The Canyon News (COC Student Newspaper)
+
+<p>A College of the Canyons film professor has begun filming his newest&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/the-valley-2/">&#8216;The Valley&#8217; begins filming at College of the Canyons</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/the-valley-2/>
 
 ---
 
@@ -69,7 +279,7 @@ date: 2025-03-27, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-03-27, from: The Daily Trojan (USC Student Newspaper)
 
-<p>President Carol Folt, Provost Andrew Guzman and three senior vice presidents answered questions from the senate.</p>
+<p>President Carol Folt, Provost Andrew Guzman and other University leaders answered questions from the Academic Senate. </p>
 <p>The post <a href="https://dailytrojan.com/2025/03/27/usc-leaders-speak-on-executive-actions-budget-at-academic-senate/">USC ‘overwhelmingly likely’ to lose up to hundreds of millions of dollars in federal funding, Provost says</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
  
 

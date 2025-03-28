@@ -1,11 +1,225 @@
 ---
 title: food
-updated: 2025-03-27 06:07:49
+updated: 2025-03-28 06:09:33
 ---
 
 # food
 
-(date: 2025-03-27 06:07:49)
+(date: 2025-03-28 06:09:33)
+
+---
+
+## Jim Seven Vs. V60: The Finals Of The Ultimate Coffee Bracket Challenge Have Been Set
+
+date: 2025-03-28, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A coffee matchup for the ages. 
+
+<br> 
+
+<https://sprudge.com/jim-seven-vs-v60-the-finals-of-the-ultimate-coffee-bracket-challenge-have-been-set-310805.html>
+
+---
+
+## Our Most Popular Recipes of March 2025
+
+date: 2025-03-28, from: Bon Appetet
+
+Like a tofu grain bowl, mushroom stir-fry, and pistachio cake. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/most-popular-recipes-march-2025>
+
+---
+
+## Behind the Headlines: Starbucks Popularized the Term ‘Third Place,’ But What Does It Mean in 2025?
+
+date: 2025-03-28, from: The Fresh Cup
+
+<p>As part of Brian Niccol’s “Back to Starbucks” plan, which rolled out in September 2024, the newly appointed Starbucks CEO announced that one of his goals was making the multinational’s coffee shops “third places” again.&#160; The term “third place” refers to spaces outside the home (the first place) and work (the second) that serve as&#8230;</p>
+<p>The post <a href="https://freshcup.com/behind-the-headlines-starbucks-popularized-the-term-third-place-but-what-does-it-mean-in-2025/">Behind the Headlines: Starbucks Popularized the Term ‘Third Place,’ But What Does It Mean in 2025?</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/behind-the-headlines-starbucks-popularized-the-term-third-place-but-what-does-it-mean-in-2025/>
+
+---
+
+## Sheet-Pan Chicken With Grapes and More Recipes We Made This Week
+
+date: 2025-03-28, from: Bon Appetet
+
+Like cornbread breakfast casserole and lamb burgers. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-march-2025>
+
+---
+
+## Lentil Chili Recipe
+
+date: 2025-03-28, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/lentil-chili/" title="Lentil Chili Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Lentil-Chili-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of lentil chili filled with beans and tomatoes is garnished with slices of jalapeño and cilantro. A spoon rests in the bowl, and a gray napkin is placed beside it on a textured blue surface." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Lentil-Chili-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Lentil-Chili-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Lentil-Chili-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Lentil-Chili-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Lentil-Chili-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Lentil-Chili-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Lentil-Chili-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This lentil chili is hearty and loaded with flavor, packed with protein-rich lentils, a blend of beans and vibrant spices, and robust roasted red peppers.</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/lentil-chili/">Lentil Chili Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/lentil-chili/>
+
+---
+
+## Mango Cake
+
+date: 2025-03-27, from: Taste of Home
+
+“Wow” a friend for their summer birthday or beat the winter blues with a mango cake that tastes like pure sunshine. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/mango-cake/>
+
+---
+
+## Jack Black Swears By This Recipe for Cheeseburger Mac n’ Cheese
+
+date: 2025-03-27, from: Taste of Home
+
+<p>He's been making this comfort food mashup for over 20 years.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/jack-black-cheeseburger-mac-n-cheese/">Jack Black Swears By This Recipe for Cheeseburger Mac n&#8217; Cheese</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/jack-black-cheeseburger-mac-n-cheese/>
+
+---
+
+## The Best Kitchen Scales for Precise Baking, Streamlined Cooking, and Easy Cleanup (2025)
+
+date: 2025-03-27, from: Bon Appetet
+
+Psst: They're not just for bakers. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-kitchen-scales>
+
+---
+
+## I’m a Gifting Expert—Here’s Why Uncommon Goods Is My Go-To for One-of-a-Kind Presents
+
+date: 2025-03-27, from: Taste of Home
+
+<p>The Uncommon Goods reviews are in! And spoiler—our editors love this gifting marketplace. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/uncommon-goods-reviews/">I&#8217;m a Gifting Expert—Here&#8217;s Why Uncommon Goods Is My Go-To for One-of-a-Kind Presents</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/uncommon-goods-reviews/>
+
+---
+
+## Best Slow Cookers (2025),  for Your Stews, Braises, and Dips
+
+date: 2025-03-27, from: Bon Appetet
+
+It’s for so much more than that Velveeta queso 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-slow-cookers>
+
+---
+
+## Frito-Lay Recall: Popular Tortilla Chips Recalled in 13 States
+
+date: 2025-03-27, from: Taste of Home
+
+<p>Frito-Lay recalled one popular flavor of Tostitos chips because of an undeclared allergen. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/frito-lay-tortilla-chips-recall-march-2025/">Frito-Lay Recall: Popular Tortilla Chips Recalled in 13 States</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/frito-lay-tortilla-chips-recall-march-2025/>
+
+---
+
+## Cuban Black Beans
+
+date: 2025-03-27, from: Bon Appetet
+
+Double, triple, or quadruple the recipe and freeze for later. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/cuban-style-black-beans>
+
+---
+
+## The Great Jones Hot Dish Is Our Favorite Baking Dish
+
+date: 2025-03-27, from: Bon Appetet
+
+Good looks? They were always an afterthought when it came to my cookware. Until I met this casserole dish, that is. 
+
+<br> 
+
+<https://www.bonappetit.com/story/great-jones-hot-dish>
+
+---
+
+## How to Safely Pack Kitchen Knives for Travel
+
+date: 2025-03-27, from: Bon Appetet
+
+We asked a knife expert for his pro tips. 
+
+<br> 
+
+<https://www.bonappetit.com/story/how-to-pack-kitchen-knives-for-travel>
+
+---
+
+## Chicken Biryani
+
+date: 2025-03-27, from: Taste of Home
+
+Few South Asian dishes are as exquisite as chicken biryani, with its fragrant spices and perfectly cooked rice. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/chicken-biryani/>
+
+---
+
+## With Small-Scale Solution, Researchers Suggest Everybody Must Destone
+
+date: 2025-03-27, from: Daily Coffee News
+
+<div><img width="620" height="445" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-620x445.jpg" class="attachment-large size-large wp-post-image" alt="coffee grinder 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-620x445.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-300x215.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-768x551.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Since the dawn of commercial coffee making, stones, rock fragments, shards and other detritus have been the mortal enemies of grinder burrs. The sound of one itsy bitsy stone on... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/27/with-small-scale-solution-researchers-suggest-everybody-must-destone/>
+
+---
+
+## Hutsul Coffee Factory Carries Ukrainian Quality to London, Ontario
+
+date: 2025-03-27, from: Daily Coffee News
+
+<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Hutsul Coffee Factory 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-768x555.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new cafe by startup roasting company Hutsul Coffee Factory is sharing the culture and coffee style of Western Ukraine with Canadians in London, Ontario. Inside the same building as... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/27/hutsul-coffee-factory-carries-ukrainian-quality-to-london-ontario/>
 
 ---
 
@@ -109,7 +323,7 @@ date: 2025-03-26, from: Taste of Home
 
 date: 2025-03-26, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Cup of Excellence Vollers" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The organizers of the Cup of Excellence (CoE) coffee competition and auction program are switching online auction providers in 2025, partnering with V-Auction, part of the logistics conglomerate Vollers Group.&#160;... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Cup of Excellence Vollers" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The organizers of the Cup of Excellence (CoE) coffee competition and auction program are switching online auction providers in 2025, partnering with V-Auction, part of the logistics conglomerate Vollers Group.&#160;... 
 
 <br> 
 
@@ -121,7 +335,7 @@ date: 2025-03-26, from: Daily Coffee News
 
 date: 2025-03-26, from: Daily Coffee News
 
-<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-620x418.jpg" class="attachment-large size-large wp-post-image" alt="Roast P3000 roaster 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Norwegian coffee roasting equipment maker Roest is now taking pre-orders for its long-anticipated 3-kilo-capacity production roasting machine called P3000. Priced at €32,900 EUR ($35,486 USD as of this writing), the... 
+<div><img width="620" height="418" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-620x418.jpg" class="attachment-large size-large wp-post-image" alt="Roast P3000 roaster 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-620x418.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-300x202.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1-768x518.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Roast-P3000-roaster-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Norwegian coffee roasting equipment maker Roest is now taking pre-orders for its long-anticipated 3-kilo-capacity production roasting machine called P3000. Priced at €32,900 EUR ($35,486 USD as of this writing), the... 
 
 <br> 
 
@@ -145,7 +359,7 @@ Stock up on kitchen tools and save big on Breville, Staub, Dyson, Ninja, and oth
 
 date: 2025-03-26, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="office coffee 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Coffee from super-automatic workplace coffee makers may contain significantly higher levels of cholesterol-elevating substances than coffee from home and other commercial brewers, according to new research. While coffee consumption overall... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-620x414.jpg" class="attachment-large size-large wp-post-image" alt="office coffee 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/office-coffee-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Coffee from super-automatic workplace coffee makers may contain significantly higher levels of cholesterol-elevating substances than coffee from home and other commercial brewers, according to new research. While coffee consumption overall... 
 
 <br> 
 
@@ -183,7 +397,7 @@ date: 2025-03-26, from: The Fresh Cup
 
 date: 2025-03-26, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/easy-chimichurri-rojo-red-chimichurri-recipe/" title="Red Chimichurri Recipe (Chimichurri Rojo)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Red Chimichurri (Chimichurri Rojo) in a bowl with a serving spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Red chimichurri is an Argentinian sauce made with plenty of fresh herbs, bell pepper, garlic, olive oil and vinegar, perfect over grilled meats and seafood. Whip this together in minutes to add depth and sophistication to so many meals!</p>
+<a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/easy-chimichurri-rojo-red-chimichurri-recipe/" title="Red Chimichurri Recipe (Chimichurri Rojo)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Red Chimichurri (Chimichurri Rojo) in a bowl with a serving spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2024/11/Red-Chimichurri-Recipe1-Chimichurri-Rojo.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Red chimichurri is an Argentinian sauce made with plenty of fresh herbs, bell pepper, garlic, olive oil and vinegar, perfect over grilled meats and seafood. Whip this together in minutes to add depth and sophistication to so many meals!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/chili-pepper-recipes/sauces/easy-chimichurri-rojo-red-chimichurri-recipe/">Red Chimichurri Recipe (Chimichurri Rojo)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

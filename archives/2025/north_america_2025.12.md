@@ -1,11 +1,346 @@
 ---
 title: north america
-updated: 2025-03-27 06:07:41
+updated: 2025-03-28 06:09:25
 ---
 
 # north america
 
-(date: 2025-03-27 06:07:41)
+(date: 2025-03-28 06:09:25)
+
+---
+
+## A dirty story about the compost supply chain
+
+date: 2025-03-28, from: Market Place
+
+A look at how cities, farmers and compost brokers help close the loop on organic waste. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/california-compost-supply-chain/>
+
+---
+
+## Undaunted: Tammy Duckworth fights for America
+
+date: 2025-03-28, from: The Contrarian
+
+We honor her for denouncing MAGA bullying, incompetence, and Democratic spinelessness--while exhibiting unceasing resilience and integrity 
+
+<br> 
+
+<https://contrarian.substack.com/p/undaunted-tammy-duckworth-fights>
+
+---
+
+## The chilling effect of ICE arrests
+
+date: 2025-03-28, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>On today&#8217;s episode, Kai and Reema discuss the disturbing arrest of a Turkish national with a valid student visa at Tufts University and the effects these immigration detentions are having on political speech. Plus, WNBA team New York Liberty got a shiny, new training facility. (No, it&#8217;s not a spa!) And, another big oops for National Security Adviser Mike Waltz. You just can’t make this stuff up.</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/03/27/business/new-york-liberty-practice-facility.html?smid=nytcore-ios-share&amp;referringSource=articleShare" target="_blank" rel="noreferrer noopener">“New York Liberty Unveil Practice Facility Amid WNBA’s Race to Attract Talent”</a> from The New York Times<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://www.theguardian.com/us-news/2025/mar/27/judge-explanation-tufts-student-rumeysa-ozturk-ice" target="_blank" rel="noreferrer noopener">“DoJ lawyers say detained Tufts student was sent to Louisiana before court order”</a> by The Guardian</li>
+<li>Video: <a href="https://bsky.app/profile/atrupar.com/post/3llet4wubns27" target="_blank" rel="noreferrer noopener">Marco Rubio&#8217;s comments on Ozturk&#8217;s arrest</a> posted by Aaron Rupar on Bluesky<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.wired.com/story/michael-waltz-left-his-venmo-public/" target="_blank" rel="noreferrer noopener">“Mike Waltz Left His Venmo Friends List Public”</a> by Wired</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Join us tomorrow for “Economics on Tap.” The <a href="https://www.youtube.com/@marketplaceAPM/streams" target="_blank" rel="noreferrer noopener">YouTube livestream</a> starts at 3:30 p.m. Pacific time, 6:30 p.m. Eastern.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/27/mms_20250327_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-chilling-effect-of-ice-arrests&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/27/mms_20250327_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fthe-chilling-effect-of-ice-arrests&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/the-chilling-effect-of-ice-arrests>
+
+---
+
+## Modern-day train heists are seeing a dramatic rise
+
+date: 2025-03-27, from: Market Place
+
+Between miles-long trains and an e-commerce boom, cargo on freight trains has become easy pickings for robbers. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/modern-day-train-heists-are-seeing-a-dramatic-rise/>
+
+---
+
+## Evening Roundup, March 27
+
+date: 2025-03-27, from: The Contrarian
+
+Featuring Jen Rubin & Rep. Mikie Sherrill; Josh Levs; Where in the World is Tim Mak; Alexander Vindman; Frederic Frommer; Meredith Blake; Meghan Houser; Michael de Adder; and the Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-27>
+
+---
+
+## Pay the student loan debt, the credit card debt or the rent?
+
+date: 2025-03-27, from: Market Place
+
+With missed student loan payments now affecting credit scores, borrowers face tough choices. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/pay-student-loan-debt-credit-card-debt/>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-27, from: The Contrarian
+
+Thursday: Protestors ask for the return of "detained" Tufts University student Rumeysa Ozturk, a protest against austerity in Chicago, scenes from Turkey, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## As economy changes fast, alternative data can help us keep up
+
+date: 2025-03-27, from: Market Place
+
+Yale's Martha Gimbel tracks frequently updated information like weekly unemployment claims and private-sector reports. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/as-economy-changes-fast-alternative-data-can-help-us-keep-up/>
+
+---
+
+## What can the latest GDP numbers tell us about where the economy is headed?
+
+date: 2025-03-27, from: Market Place
+
+Tariffs, uncertainty for businesses and consumer caution make a slowdown more likely, some economists say. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/what-can-the-latest-gdp-numbers-tell-us-about-where-the-economy-is-headed/>
+
+---
+
+## The Subtle Resistance of Dictionary.com
+
+date: 2025-03-27, from: The Contrarian
+
+Can you use "context" in a sentence? 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-subtle-resistance-of-dictionarycom>
+
+---
+
+## The upside of the trade deficit: More foreign investment in the U.S.
+
+date: 2025-03-27, from: Market Place
+
+Because if we want to buy imports, we either have to export an equivalent amount or borrow money. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/trade-deficit-upside-more-foreign-investment-in-u-s/>
+
+---
+
+## Is a car-free guy a carefree guy?
+
+date: 2025-03-27, from: Market Place
+
+Eric Brightwell happily lives without paying for gas and parking, even in LA. He's found lots of great things in walking and biking distance. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/is-a-car-free-guy-a-carefree-guy/>
+
+---
+
+## Contrarian Culture Club Recommendations
+
+date: 2025-03-27, from: The Contrarian
+
+What to watch to keep you engaged and/or distracted this weekend: featuring The Residence and Eyes on the Prize III 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-culture-club-recommendations-2da>
+
+---
+
+## Where in the World is Tim Mak? An update from Kyiv
+
+date: 2025-03-27, from: The Contrarian
+
+Tim Mak joins Jen Rubin to discuss the ceasefire (or lack thereof ) in the Russia-Ukraine conflict and the ongoing mineral resource discussions between the U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159996353/2f8edeabd0344c072820456c561e95bc.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159996353/2f8edeabd0344c072820456c561e95bc.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/where-in-the-world-is-tim-mak-an>
+
+---
+
+## Rep. Mikie Sherrill and Jen Rubin on Signalgate 
+
+date: 2025-03-27, from: The Contrarian
+
+Congresswoman Mikie Sherrill joins Jen Rubin to discuss the recent national security scandal Signalgate and her recently-announced run for New Jersey Governor. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159990825/16d59546b154c694395c8a06fb89e1a2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159990825/16d59546b154c694395c8a06fb89e1a2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rep-mikie-sherrill-and-jen-rubin>
+
+---
+
+## ‘Red’ America needs the truth on Trump’s fentanyl failures
+
+date: 2025-03-27, from: The Contrarian
+
+With some voters seeing the light, it's time to focus on an issue that hits home 
+
+<br> 
+
+<https://contrarian.substack.com/p/red-america-needs-the-truth-on-trumps>
+
+---
+
+## Use tariffs to shrink the trade deficit? Watch out for unintended consequences.
+
+date: 2025-03-27, from: Market Place
+
+Economists say that if foreigners buy fewer American goods, then the federal government needs to spend less, but that's not happening. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/tariffs-shrink-trade-deficit-unintended-consequences/>
+
+---
+
+## On the Shutdown of VOA and the USGM
+
+date: 2025-03-27, from: The Contrarian
+
+A Unilateral Concession to America&#8217;s Adversaries 
+
+<br> 
+
+<https://contrarian.substack.com/p/on-the-shutdown-of-voa-and-the-usgm>
+
+---
+
+##  The Gordon Gekko Tax Break 
+
+date: 2025-03-27, from: The Lever News
+
+ Private equity firms want to revive their tax rewards for looting companies and screwing workers.  
+
+<br> 
+
+<https://www.levernews.com/the-gordon-gekko-tax-break/>
+
+---
+
+## Stay Hungry: School Kids Learn the ABCs of Chaos
+
+date: 2025-03-27, from: Capital and Main
+
+<p>Trump’s penny pinching and immigrant hunting reach rural classrooms.</p>
+<p>The post <a href="https://capitalandmain.com/stay-hungry-school-kids-learn-the-abcs-of-chaos">Stay Hungry: School Kids Learn the ABCs of Chaos</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/stay-hungry-school-kids-learn-the-abcs-of-chaos>
+
+---
+
+## Pants on fire
+
+date: 2025-03-27, from: The Contrarian
+
+A cartoon by Michael de Adder. 
+
+<br> 
+
+<https://contrarian.substack.com/p/pants-on-fire>
+
+---
+
+##  The Secret Corporate Bounty Hunters Keeping People In Jail 
+
+date: 2025-03-27, from: The Lever News
+
+ The shadowy insurance companies underwriting bail bonds stand accused of a decades-long price-fixing conspiracy.  
+
+<br> 
+
+<https://www.levernews.com/the-secret-corporate-bounty-hunters-keeping-people-in-jail/>
+
+---
+
+## Could lunchtime civics lessons help workers become more engaged citizens?
+
+date: 2025-03-27, from: Market Place
+
+The Visible Hand Project helps remind workers of their civic responsibilities and bets that civic wellness can help overcome divisiveness. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/visible-hand-project-civics-polarization/>
+
+---
+
+## The MLB teams that took the lead on integration
+
+date: 2025-03-27, from: The Contrarian
+
+Years before significant civil rights milestones, teams like the Dodgers were ahead of society in employing African Americans 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-mlb-teams-that-took-the-lead>
+
+---
+
+## Coffee with The Contrarians 03/27
+
+date: 2025-03-27, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 03/27 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159987213/04504778be01eb7397883803c08e2e43.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159987213/04504778be01eb7397883803c08e2e43.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0327>
+
+---
+
+## “Tens of thousands of children dying quietly at home”: the human toll of USAID cuts
+
+date: 2025-03-27, from: Market Place
+
+The gutting of USAID has derailed aid programs around the world. Some worry whether critical food shipments will be delivered. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/27/usaid-cuts-deaths-nutrition-supplements/>
 
 ---
 
@@ -255,18 +590,6 @@ Trump goes from complaining to controlling.
 <br> 
 
 <https://contrarian.substack.com/p/ann-telnaes-how-autocracies-take>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-26, from: The Contrarian
-
-Wednesday: When even the introverts come out, you know it's serious, plus Americans support the U.S. Postal Service, Greenland prepares for a visit from the Vance family, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

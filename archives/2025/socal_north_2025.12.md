@@ -1,11 +1,270 @@
 ---
 title: socal north
-updated: 2025-03-27 06:07:41
+updated: 2025-03-28 06:09:25
 ---
 
 # socal north
 
-(date: 2025-03-27 06:07:41)
+(date: 2025-03-28 06:09:25)
+
+---
+
+## LA County leaders want to preserve homeless prevention funds, but some programs still face cuts
+
+date: 2025-03-28, updated: 2025-03-28, from: The LAist
+
+A last-minute vote reversed budget cuts to aid that helps people stay housed. So why are some programs still on the chopping block? 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-homelessness-budget-prevention-funds>
+
+---
+
+## AI cameras on just 2 LA bus lines generate big spike in bus-related parking tickets
+
+date: 2025-03-28, updated: 2025-03-28, from: The LAist
+
+New automated cameras on buses along Wilshire Boulevard and La Brea Avenue generate more than 5,000 tickets and $1.6 million in fines for cars parked in bus lanes in the first month of a pilot program. 
+
+<br> 
+
+<https://laist.com/news/transportation/ai-cameras-bus-lane-tickets-los-angeles-la-metro-wilshire-la-brea-routes>
+
+---
+
+## How to talk to children about Jackie and Shadow’s chick dying and other losses in life
+
+date: 2025-03-28, updated: 2025-03-28, from: The LAist
+
+When the chick died in a snowstorm, teachers suddenly had to get real with their students. Here’s how some of them handled it. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/jackie-and-shadow-chick-death-how-to-talk-to-children>
+
+---
+
+## (Nearly) every restaurant that's open late in LA, by neighborhood
+
+date: 2025-03-28, updated: 2025-03-28, from: The LAist
+
+Yes, you can get late night food in this town: in Koreatown, the Valley, Hollywood, downtown and elsewhere. You just have to know where to go. We can help. 
+
+<br> 
+
+<https://laist.com/news/food/nearly-every-restaurant-thats-open-late-in-la-by-neighborhood>
+
+---
+
+## Trump's new tariffs on imported cars could have a clear winner: Tesla
+
+date: 2025-03-28, updated: 2025-03-28, from: The LAist
+
+President Trump's newly announced 25% import tariffs on foreign cars will increase vehicle prices by thousands of dollars, experts say, but Tesla is likely to fare better than other carmakers. 
+
+<br> 
+
+<https://laist.com/news/trumps-auto-car-tariffs-imported-tesla-made-in-america>
+
+---
+
+## Trump executive order seeks to 'restore' American history through Smithsonian overhaul
+
+date: 2025-03-28, updated: 2025-03-28, from: The LAist
+
+The "Restoring Truth and Sanity to American History" order removes "divisive, race-centered ideology" from Smithsonian museums, educational and research centers, and the National Zoo. 
+
+<br> 
+
+<https://laist.com/news/trump-executive-order-seeks-to-restore-american-history-through-smithsonian-overhaul>
+
+---
+
+## Fans Fill Dodger Stadium on Opening Day Despite Controversy Over White House Visit
+
+date: 2025-03-28, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=1200%2C900&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=800%2C600&amp;ssl=1 800w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=600%2C450&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=400%2C300&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=1568%2C1176&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=2000%2C1500&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?resize=706%2C530&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/received_683625684132845-scaled.jpeg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>As excited fans of the Los Angeles Dodgers filled the stadium for the 2025 Opening Day afternoon game against the Detroit Tigers, many people across social media and beyond are [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/03/27/fans-fill-dodger-stadium-on-opening-day-despite-backlash-over-white-house-visit/">Fans Fill Dodger Stadium on Opening Day Despite Controversy Over White House Visit</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/03/27/fans-fill-dodger-stadium-on-opening-day-despite-backlash-over-white-house-visit/>
+
+---
+
+## Safe Streets Start with You
+
+date: 2025-03-27, from: City of Santa Clarita
+
+<p>By Councilwoman Marsha McLean Our family has called Santa Clarita home since 1972 and I take great pride in our city’s beautiful paseos, scenic trails and vibrant neighborhoods. Whether I’m out for a walk or just driving through town, one thing is always clear—our community is growing, and our roads are busier than ever—which is [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/27/safe-streets-start-with-you/">Safe Streets Start with You</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/27/safe-streets-start-with-you/>
+
+---
+
+## California not backing down on trans student privacy — despite Trump’s threat to yank funding
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+Last year, California passed a law that prohibits schools from requiring staff to notify parents if a student identifies as transgender. The U.S. Department of Education alleges the law violates parents’ rights. 
+
+<br> 
+
+<https://laist.com/news/politics/california-not-backing-down-trans-student-privacy-trump-threat-to-yank-funding>
+
+---
+
+## As the Kaiser strike drags on, state regulators say the company hasn’t corrected 'deficiencies' in mental health care
+
+date: 2025-03-27, updated: 2025-03-28, from: The LAist
+
+A report says the health care provider still fails to provide appointments in a timely fashion; Kaiser says it has made "substantial progress." 
+
+<br> 
+
+<https://laist.com/news/health/kaiser-mental-health-care-state-report-strike>
+
+---
+
+## After LA's wildfires, firefighters show high levels of toxic metals in their blood
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+Preliminary data shows that firefighters who battled urban wildfires in L.A. had more mercury and lead in their blood than firefighters who'd responded to forest fires. 
+
+<br> 
+
+<https://laist.com/news/health/after-las-wildfires-firefighters-show-high-levels-of-toxic-metals-in-their-blood>
+
+---
+
+## Judge blasts LA homeless spending as a ‘train wreck’ and threatens to seize control
+
+date: 2025-03-27, updated: 2025-03-28, from: The LAist
+
+A federal judge convenes a who’s who of top officials, lambasting a failure to properly track billions in spending on homelessness. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/judge-blasts-la-homeless-spending-as-a-train-wreck-and-threatens-to-seize-control>
+
+---
+
+## Metro moves forward on Vermont Avenue transit project — without bike lanes
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+A big debate in this project is whether Metro, a countywide transportation agency, is required to comply with Measure HLA, a city-level initiative, which requires more safety measures for pedestrians and bicyclists. 
+
+<br> 
+
+<https://laist.com/news/transportation/vermont-avenue-measure-hla-la-metro-michael-schneider-streets-for-all>
+
+---
+
+## City of Santa Clarita to Host Informational Meetings on Proposed Landscape Maintenance District Assessment Increases
+
+date: 2025-03-27, from: City of Santa Clarita
+
+<p>The City of Santa Clarita will be hosting four informational meetings to discuss proposed increases to the Landscape Maintenance District (LMD) assessments for three zones in the Saugus neighborhood, including portions of Canyon Heights (Zone T-62), Shadow Hills (Zone T-48) and Bouquet Canyon (Zone T-44). The meetings will provide property owners with important details regarding [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/27/city-of-santa-clarita-to-host-informational-meetings-on-proposed-landscape-maintenance-district-assessment-increases/">City of Santa Clarita to Host Informational Meetings on Proposed Landscape Maintenance District Assessment Increases</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/27/city-of-santa-clarita-to-host-informational-meetings-on-proposed-landscape-maintenance-district-assessment-increases/>
+
+---
+
+## Why some Los Angeles homes are being built to resist wildfires — and some aren't
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+California is one of the few states with building codes for wildfire protection because using fire-resistant materials helps homes survive. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/altadena-los-angeles-homes-rebuild-fire-resistant>
+
+---
+
+## The Sundance Film Festival announces its new home: Boulder, Colorado
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+The festival has been a Park City, Utah, institution for over 40 years. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/sundance-film-festival-new-home-boulder-colorado>
+
+---
+
+## A lawyer who represented SpaceX looks to downsize federal contracting watchdog
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+The appointment of Catherine Eschbach could raise conflict-of-interest concerns. She will also lead the downsizing of an agency that holds contractors accountable to federal civil rights laws. 
+
+<br> 
+
+<https://laist.com/news/a-lawyer-who-represented-spacex-looks-to-downsize-federal-contracting-watchdog>
+
+---
+
+## Trump team revokes $11 billion in funding for addiction and mental health care
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+The Trump administration says it hopes to save $11.4 billion by freezing and revoking COVID-era grants. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-team-revokes-11-billion-for-addiction-mental-health-care>
+
+---
+
+## Voter Game Plan: A guide to the Irvine City Council special election on April 15
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+In Irvine, legislative power rests in the hands of the seven-member City Council. One of those seats is up for grabs on April 15. 
+
+<br> 
+
+<https://laist.com/news/politics/irvine-city-council-special-election-guide-april-15>
+
+---
+
+## On the Eastside, chicken coops are easing the pain of egg prices
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+Amid a nationwide egg shortage, families in Boyle Heights and Lincoln Heights are turning to backyard farming to support their communities. 
+
+<br> 
+
+<https://laist.com/news/food/on-the-eastside-chicken-coops-are-easing-the-pain-of-egg-prices>
+
+---
+
+## Best things to do in LA and SoCal
+
+date: 2025-03-27, updated: 2025-03-27, from: The LAist
+
+Franz Ferdinand rocks the Wiltern, the Dr. Strangelove stage play comes to movie theaters, a cruise-in at the Peterson, WonderCon takes over Anaheim and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-in-los-angeles-and-southern-california-march-28-30>
 
 ---
 
@@ -49,7 +308,7 @@ Even as the songs on Forever Is a Feeling chronicle a love that's come to fruiti
 
 date: 2025-03-27, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=1568%2C1045&amp;ssl=1 1568w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/03/250322_Justice-for-Linda_SN_17-scaled.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los cánticos de “¡No al odio en el 818!” y “¡Sin justicia, no paz, no a la policía transfóbica!” resonaron mientras los manifestantes llevaban una caja pintada de blanco similar [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/03/26/la-comunidad-exige-justicia-para-la-mujer-trans-asesinada-a-tiros-por-la-policia-de-los-angeles/">La Comunidad Exige Justicia para la Mujer Trans Asesinada a Tiros por la Policía de Los Ángeles</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

@@ -1,11 +1,23 @@
 ---
 title: health
-updated: 2025-03-27 06:07:48
+updated: 2025-03-28 06:09:32
 ---
 
 # health
 
-(date: 2025-03-27 06:07:48)
+(date: 2025-03-28 06:09:32)
+
+---
+
+## Development and validation of an automated and high-throughput quadruplex RT–ddPCR assay for the detection of influenza A, influenza B, respiratory syncytial virus, and SARS-CoV-2
+
+date: 2025-03-28, from: Frontiers in Cellular and Infection Microbiology
+
+The main detection method for viral respiratory infections is reverse transcription polymerase chain reaction (RT–PCR), but it is susceptible to sample inhibitors and relies on a standard curve and subjective thresholds to quantify nucleic acid targets. However, droplet digital PCR (ddPCR), the third generation of PCR with higher sensitivity and accuracy, is an effective tool for the detection and absolute quantification of respiratory viruses. In this study, we introduced AHQR–ddPCR, which is an automated and high-throughput quadruplex reverse transcription ddPCR assay based on the QX ONE platform for the detection of influenza A, influenza B, respiratory syncytial virus, and SARS-CoV-2 in a single reaction. The AHQR–ddPCR assay had analytical sensitivity as low as 0.65–0.78 copies/μL for four respiratory viruses, and exhibited excellent analytical specificity, intraassay and interassay precision, and a wide linear range for each viral target. The results in clinical samples showed that the assay had good concordance and better diagnostic sensitivity compared to RT-PCR. In short, the highly sensitive and absolutely quantitative AHQR–ddPCR assay has excellent analytical and clinical performance, and the advantage of detecting weakly positive samples, which can effectively reduce false-negative results and is a powerful complement to RT–PCR. In addition, it has great value for virology research and the development of automated molecular assays. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1529336>
 
 ---
 

@@ -1,11 +1,631 @@
 ---
 title: snapshots
-updated: 2025-03-27 06:07:49
+updated: 2025-03-28 06:09:34
 ---
 
 # snapshots
 
-(date: 2025-03-27 06:07:49)
+(date: 2025-03-28 06:09:34)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Who decides what the interests of the US are? Certainly not Elon Musk. 
+
+<br> 
+
+<https://www.cnn.com/2025/03/27/politics/video/mark-kelly-elon-musk-fox-news-traitor-digvid>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Bill Gates on AI: Humans won’t be needed ‘for most things.’ 
+
+<br> 
+
+<https://www.nbcchicago.com/news/business/money-report/bill-gates-within-10-years-ai-will-replace-many-doctors-and-teachers-humans-wont-be-needed-for-most-things/3706507/>
+
+---
+
+## Of Tariffs and Totalitarianism
+
+date: 2025-03-28, from: Paul Krugman
+
+In MAGA world, there are no honest skeptics 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/of-tariffs-and-totalitarianism>
+
+---
+
+## Unwoven
+
+date: 2025-03-28, from: Gary Marcus blog
+
+How the CoreWeave IPO may be the beginning of the end 
+
+<br> 
+
+<https://garymarcus.substack.com/p/unwoven>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Three prominent Yale professors depart for Canadian university, citing Trump fears. 
+
+<br> 
+
+<https://yaledailynews.com/blog/2025/03/27/three-prominent-yale-professors-depart-for-canadian-university-citing-trump-fears/>
+
+---
+
+## Master Your Self-Reliance
+
+date: 2025-03-28, from: Guy Kawasaki blog
+
+Maha Abouelenein's 7 Rules for Success. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/master-your-self-reliance>
+
+---
+
+## 290: How The Dams Came Down
+
+date: 2025-03-28, from: Fix the News
+
+Plus, holding vigil on Mare Crisium, the Mothers of Light, and good news on solar powered vaccine fridges, poverty in Nepal, and conservation in Kazakhstan. 
+
+<br> 
+
+<https://fixthenews.com/290-how-the-dams-came-down/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Law Firm Skadden Arps Seeks Deal to Avert Trump Executive Order. (Maybe all law firms should negotiate as one.) 
+
+<br> 
+
+<https://www.nytimes.com/2025/03/27/business/trump-law-firms-skadden-arps.html?unlocked_article_code=1.7U4.dWaf.7Bti4A-63liN&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Law firms divided over response to Donald Trump&#39;s orders. 
+
+<br> 
+
+<https://thehill.com/regulation/court-battles/5211686-trump-administration-targets-law-firms/>
+
+---
+
+## Incomplete JSON Pretty Printer
+
+date: 2025-03-28, updated: 2025-03-28, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://tools.simonwillison.net/incomplete-json-printer">Incomplete JSON Pretty Printer</a></strong></p>
+Every now and then a log file or a tool I'm using will spit out a bunch of JSON that terminates unexpectedly, meaning I can't copy it into a text editor and pretty-print it to see what's going on.</p>
+<p>The other day I got frustrated with this and had the then-new GPT-4.5 build me a pretty-printer that didn't mind incomplete JSON, using an OpenAI Canvas. Here's <a href="https://chatgpt.com/share/67dd9d55-7f70-8006-b55d-72730f60ddbe">the chat</a> and here's <a href="https://chatgpt.com/canvas/shared/67e5e9b3f7bc8191b2306a123c9d328f">the resulting interactive</a>.</p>
+<p>I spotted a bug with the way it indented code today so I pasted it into Claude 3.7 Sonnet Thinking mode and had it make a bunch of improvements - <a href="https://claude.ai/share/22dc4b58-e8c4-44a4-9650-a37d21513b8d">full transcript here</a>. Here's the <a href="https://github.com/simonw/tools/blob/main/incomplete-json-printer.html">finished code</a>.</p>
+<p><img alt="Animated GIF demo - as I type JSON it is pretty printed below, at the end I click the Load Pelican Example button." src="https://static.simonwillison.net/static/2025/pretty-print-json.gif" /></p>
+<p>In many ways this is a perfect example of <a href="https://simonwillison.net/2025/Mar/19/vibe-coding/">vibe coding </a> in action. At no point did I look at a <em>single line</em> of code that either of the LLMs had written for me. I honestly don't care how this thing works: it could not be lower stakes for me, the worst a bug could do is show me poorly formatted incomplete JSON.</p>
+<p>I was vaguely aware that some kind of state machine style parser would be needed, because you can't parse incomplete JSON with a regular JSON parser. Building simple parsers is the kind of thing LLMs are surprisingly good at, and also the kind of thing I don't want to take on for a trivial project.</p>
+<p>At one point I told Claude "Try using your code execution tool to check your logic", because I happen to know Claude can write and then execute JavaScript independently of using it for artifacts. That helped it out a bunch.</p>
+<p>I later dropped in the following:</p>
+<blockquote>
+<p><code>modify the tool to work better on mobile screens and generally look a bit nicer - and remove the pretty print JSON button, it should update any time the input text is changed. Also add a "copy to clipboard" button next to the results. And add a button that says "example" which adds a longer incomplete example to demonstrate the tool, make that example pelican themed.</code></p>
+</blockquote>
+<p>It's fun being able to say "generally look a bit nicer" and get a perfectly acceptable result!
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/tools">tools</a>, <a href="https://simonwillison.net/tags/json">json</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/28/incomplete-json-pretty-printer/#atom-everything>
+
+---
+
+## Quoting Nelson Minar
+
+date: 2025-03-28, updated: 2025-03-28, from: Simon Willison’s Weblog
+
+<blockquote cite="https://lobste.rs/s/aygeaq/atom_vs_rss_2013#c_mxxurc"><p>I was there at the first Atom meeting at the Google offices. We meant so well! And I think the basic publishing spec is good, certainly better technically than the pastiche of different things called RSS.</p>
+<p>Alas, a bunch of things then went wrong. Feeds started losing market share. Facebook started doing something useful and interesting that ultimately replaced blog feeds in open formats. The Atom vs RSS spec was at best irrelevant to most people (even programmers) and at worst a confusing market-damaging thing. The XML namespaces in Atom made everyone annoyed. Also there was some confusing “Atom API” for publishing that diluted Atom’s mindshare for feeds.</p></blockquote>
+<p class="cite">&mdash; <a href="https://lobste.rs/s/aygeaq/atom_vs_rss_2013#c_mxxurc">Nelson Minar</a>, Comment on lobste.rs</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/atom">atom</a>, <a href="https://simonwillison.net/tags/syndication">syndication</a>, <a href="https://simonwillison.net/tags/nelson-minar">nelson-minar</a>, <a href="https://simonwillison.net/tags/rss">rss</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/28/nelson-minar/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-28, from: Feed for Alt USDS)
+
+
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llfjbadrpk2u>
+
+---
+
+## A Bug Report is a Gift
+
+date: 2025-03-28, updated: 2025-03-28, from: Anil Dash
+
+ 
+
+<br> 
+
+<https://anildash.com/2025/03/28/a-bug-report-is-a-gift/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-27, from: Feed for Alt USDS)
+
+Excellent question!
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llffxb2ab22c>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-27, from: Feed for Alt USDS)
+
+✨ f a c t s ✨
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llffuocyds2c>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-27, from: Feed for Alt USDS)
+
+Hell yes.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llfetttc722m>
+
+---
+
+## Lilbits: Light Phone III begins shipping, Amazon Kindle update lets you turn pages by tapping the back or sides
+
+date: 2025-03-27, from: Liliputing
+
+<p>The Light Phone line of handsets are positioned as minimalist phones that do less than most modern smartphones, while still letting you make calls, send messages, and perform basic functions&#8230; without giving into the temptation to spend hours doomscrolling. But that doesn&#8217;t mean users don&#8217;t want a nice screen or a decent camera. So last year [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-light-phone-iii-begins-shipping-amazon-kindle-update-lets-you-turn-pages-by-tapping-the-back-or-sides/">Lilbits: Light Phone III begins shipping, Amazon Kindle update lets you turn pages by tapping the back or sides</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-light-phone-iii-begins-shipping-amazon-kindle-update-lets-you-turn-pages-by-tapping-the-back-or-sides/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-27, from: Feed for Alt USDS)
+
+We're fact checking the DOGE interview live. Drop your questions in the comments! 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llfchtscrs2c>
+
+---
+
+## Tracing the thoughts of a large language model
+
+date: 2025-03-27, updated: 2025-03-27, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.anthropic.com/research/tracing-thoughts-language-model">Tracing the thoughts of a large language model</a></strong></p>
+In a follow-up to the research that brought us the <a href="https://simonwillison.net/2024/May/24/golden-gate-claude/">delightful Golden Gate Claude</a> last year, Anthropic have published two new papers about LLM interpretability:</p>
+<ul>
+<li><a href="https://transformer-circuits.pub/2025/attribution-graphs/methods.html">Circuit Tracing: Revealing Computational Graphs in Language Models </a> extends last year's interpretable features into <a href="https://transformer-circuits.pub/2025/attribution-graphs/methods.html#graphs">attribution graphs</a>, which can "trace the chain of intermediate steps that a model uses to transform a specific input prompt into an output response".</li>
+<li><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html">On the Biology of a Large Language Model</a> uses that methodology to investigate Claude 3.5 Haiku in a bunch of different ways. <a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-multilingual">Multilingual Circuits</a> for example shows that the same prompt in three different languages uses similar circuits for each one, hinting at an intriguing level of generalization.</li>
+</ul>
+<p>To my own personal delight, neither of these papers are published as PDFs. They're both presented as glorious mobile friendly HTML pages with linkable sections and even some inline interactive diagrams. More of this please!</p>
+<p><a href="https://transformer-circuits.pub/2025/attribution-graphs/biology.html#dives-multilingual"><img alt="Screenshot of a multilingual language model visualization showing antonym prediction across three languages. Left panel shows English with prompt &quot;The opposite of 'small' is'&quot; predicting &quot;large&quot;. Middle panel shows Chinese prompt &quot;小&quot;的反义词是&quot; predicting &quot;大 (zh: big)&quot;. Right panel shows French prompt &quot;Le contraire de &quot;petit&quot; est&quot; predicting &quot;grand (fr: big)&quot;. Above shows activation analysis with token predictions and highlighted instances of &quot;contraire&quot; in French text." src="https://static.simonwillison.net/static/2025/anthropic-diagrams.jpg" /></a>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/pdf">pdf</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/interpretability">interpretability</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/27/tracing-the-thoughts-of-a-large-language-model/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-27, from: Feed for Alt USDS)
+
+Happening at 6pm!
+
+🔗  buff.ly/lZ44aUy 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llfbrodu7s2v>
+
+---
+
+## MySQL and MariaDB client .so libraries on Linux
+
+date: 2025-03-27, from: Ocelot SQL GUI blog
+
+The MySQL library is libmysqlclient.so, the MariaDB library is libmariadbclient.so or libmariadb.so. I&#8217;ll list some quirks that I think are relatively unknown but good to know. I&#8217;ll end with a pointer to a function that&#8217;s good to have. mysql and mariadb clients don&#8217;t themselves use .so libraries To illustrate, here&#8217;s the file mysql.dir/link.txt that I&#8230; <a class="continue" href="https://ocelot.ca/blog/blog/2025/03/27/mysql-and-mariadb-client-so-libraries-on-linux/">Continue Reading MySQL and MariaDB client .so libraries on Linux</a> 
+
+<br> 
+
+<https://ocelot.ca/blog/blog/2025/03/27/mysql-and-mariadb-client-so-libraries-on-linux/>
+
+---
+
+## GPT-4o got another update in ChatGPT
+
+date: 2025-03-27, updated: 2025-03-27, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://twitter.com/OpenAI/status/1905331956856050135">GPT-4o got another update in ChatGPT</a></strong></p>
+This is a somewhat frustrating way to announce a new model. @OpenAI on Twitter just now:</p>
+<blockquote>
+<p>GPT-4o got an another update in ChatGPT!</p>
+<p>What's different?</p>
+<ul>
+<li>Better at following detailed instructions, especially prompts containing multiple requests</li>
+<li>Improved capability to tackle complex technical and coding problems</li>
+<li>Improved intuition and creativity</li>
+<li>Fewer emojis 🙃</li>
+</ul>
+</blockquote>
+<p>This sounds like a significant upgrade to GPT-4o, albeit one where the release notes are limited to a single tweet.</p>
+<p>ChatGPT-4o-latest (2025-0-26) just hit second place on <a href="https://lmarena.ai/?leaderboard">the LM Arena leaderboard</a>, behind only Gemini 2.5, so this really is an update worth knowing about.</p>
+<p>The @OpenAIDevelopers account <a href="https://twitter.com/OpenAIDevs/status/1905335104211185999">confirmed</a> that this is also now available in their API:</p>
+<blockquote>
+<p><code>chatgpt-4o-latest</code> is now updated in the API, but stay tuned—we plan to bring these improvements to a dated model in the API in the coming weeks.</p>
+</blockquote>
+<p>I <a href="https://simonwillison.net/2025/Feb/17/llm/#chatgpt-4o-latest">wrote about chatgpt-4o-latest</a> last month - it's a model alias in the OpenAI API which provides access to the model used for ChatGPT, available since August 2024. It's priced at $5/million input and $15/million output - a step up from regular GPT-4o's $2.50/$10.</p>
+<p>I'm glad they're going to make these changes available as a dated model release - the <code>chatgpt-4o-latest</code> alias is risky to build software against due to its tendency to change without warning.</p>
+<p>A more appropriate place for this announcement would be the <a href="https://platform.openai.com/docs/changelog">OpenAI Platform Changelog</a>, but that's not had an update since the release of their new audio models on March 20th.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/chatgpt">chatgpt</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/27/gpt-4o-update/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+Kristi Noem Records Chilling Video In Front Of Alien Enemies Act Detainees. 
+
+<br> 
+
+<https://talkingpointsmemo.com/morning-memo/kristi-noem-records-chilling-video-in-front-of-alien-enemies-act-detainees>
+
+---
+
+## Thoughts on setting policy for new AI capabilities
+
+date: 2025-03-27, updated: 2025-03-27, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://reservoirsamples.substack.com/p/thoughts-on-setting-policy-for-new">Thoughts on setting policy for new AI capabilities</a></strong></p>
+Joanne Jang leads model behavior at OpenAI. Their release of GPT-4o image generation included some notable relaxation of OpenAI's policies concerning acceptable usage - I <a href="https://simonwillison.net/2025/Mar/25/introducing-4o-image-generation/">noted some of those</a> the other day.</p>
+<p>Joanne summarizes these changes like so:</p>
+<blockquote>
+<p>tl;dr we’re shifting from blanket refusals in sensitive areas to a more precise approach focused on preventing real-world harm. The goal is to embrace humility: recognizing how much we don't know, and positioning ourselves to adapt as we learn.</p>
+</blockquote>
+<p>This point in particular resonated with me:</p>
+<blockquote>
+<ul>
+<li><strong>Trusting user creativity over our own assumptions</strong>. AI lab employees should not be the arbiters of what people should and shouldn’t be allowed to create.</li>
+</ul>
+</blockquote>
+<p>A couple of years ago when OpenAI were the only AI lab with models that were worth spending time with it really did feel that San Francisco cultural values (which I relate to myself) were being pushed on the entire world. That cultural hegemony has been broken now by the increasing pool of global organizations that can produce models, but it's still reassuring to see the leading AI lab relaxing its approach here.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/27/ai-policy/#atom-everything>
+
+---
+
+## SuperDuper 3.10 Beta Works Around asr Bug
+
+date: 2025-03-27, from: Michael Tsai
+
+Dave Nanian (Mastodon): Since a given APFS container can hold multiple copies of the OS, Preboot and Recovery have folder structures that include UUIDs corresponding to the volume that &#8220;owns&#8221; that part of their shared volumes in the group. Inside that UUID-named folder are the files that &#8220;pair&#8221; with the system you&#8217;re trying to boot.In [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/27/superduper-3-10-beta-works-around-asr-bug/>
+
+---
+
+## Double-Tap Kindle to Turn Page
+
+date: 2025-03-27, from: Michael Tsai
+
+Andrew Liszewski: Amazon has released a software update for the current-generation Colorsoft and Paperwhite that lets you double-tap on the sides or back of your Kindle to turn the page. The new feature, as spotted by The eBook Reader, is listed in the release notes for the 5.18.1 update and can be found in Settings [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/27/double-tap-kindle-to-turn-page/>
+
+---
+
+## Google Moves Android Development to Internal Branches
+
+date: 2025-03-27, from: Michael Tsai
+
+Ben Schoon (via Hacker News): The Android Open Source Project (AOSP) has left most of Google&#8217;s work in developing Android as an operating system visible to the public eye. But, starting next week, Google is moving that work behind closed doors.Google confirmed to Android Authority that &#8220;all Android development will occur within Google&#8217;s internal branches,&#8221; [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/27/google-moves-android-development-to-internal-branches/>
+
+---
+
+## Nomic Embed Code: A State-of-the-Art Code Retriever
+
+date: 2025-03-27, updated: 2025-03-27, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.nomic.ai/blog/posts/introducing-state-of-the-art-nomic-embed-code">Nomic Embed Code: A State-of-the-Art Code Retriever</a></strong></p>
+Nomic have released a new embedding model that specializes in code, based on their CoRNStack "large-scale high-quality training dataset specifically curated for code retrieval".</p>
+<p>The <a href="https://huggingface.co/nomic-ai/nomic-embed-code">nomic-embed-code</a> model is pretty large - 26.35GB - but the announcement also mentioned a much smaller model (released 5 months ago) called <a href="https://huggingface.co/nomic-ai/CodeRankEmbed">CodeRankEmbed</a> which is just 521.60MB.</p>
+<p>I missed that when it first came out, so I decided to give it a try using my <a href="https://github.com/simonw/llm-sentence-transformers">llm-sentence-transformers</a> plugin for <a href="https://llm.datasette.io/">LLM</a>.</p>
+<pre><code>llm install llm-sentence-transformers
+llm sentence-transformers register nomic-ai/CodeRankEmbed --trust-remote-code
+</code></pre>
+<p>Now I can run the model like this:</p>
+<pre><code>llm embed -m sentence-transformers/nomic-ai/CodeRankEmbed -c 'hello'
+</code></pre>
+<p>This outputs an array of 768 numbers, starting <code>[1.4794224500656128, -0.474479079246521, ...</code>.</p>
+<p>Where this gets fun is combining it with my <a href="https://simonwillison.net/2023/Jun/18/symbex/">Symbex tool</a> to create and then search embeddings for functions in a codebase.</p>
+<p>I created an index for my LLM codebase like this:</p>
+<pre><code>cd llm
+symbex '*' '*.*' --nl &gt; code.txt
+</code></pre>
+<p>This creates a newline-separated JSON file of all of the functions (from <code>'*'</code>) and methods (from <code>'*.*'</code>) in the current directory - you can <a href="https://gist.github.com/simonw/ac45c6638ea87942383e97c5cf69ae09">see that here</a>.</p>
+<p>Then I fed that into the <a href="https://llm.datasette.io/en/stable/embeddings/cli.html#llm-embed-multi">llm embed-multi</a> command like this:</p>
+<pre><code>llm embed-multi \
+  -d code.db \
+  -m sentence-transformers/nomic-ai/CodeRankEmbed \
+  code code.txt \
+  --format nl \
+  --store \
+  --batch-size 10
+</code></pre>
+<p>I found the <code>--batch-size</code> was needed to prevent it from crashing with an error. </p>
+<p>The above command creates a collection called <code>code</code> in a SQLite database called <code>code.db</code>.</p>
+<p>Having run this command I can search for functions that match a specific search term in that <code>code</code> collection like this:</p>
+<pre><code>llm similar code -d code.db \
+  -c 'Represent this query for searching relevant code: install a plugin' | jq
+</code></pre>
+<p>That <code>"Represent this query for searching relevant code: "</code> prefix is required by the model. I pipe it through <code>jq</code> to make it a little more readable, which gives me <a href="https://gist.github.com/simonw/fdc1b48b20a99714200f5d3970b1dff4">these results</a>.</p>
+<p>This <code>jq</code> recipe makes for a better output:</p>
+<pre><code>llm similar code -d code.db \
+  -c 'Represent this query for searching relevant code: install a plugin' | \
+  jq -r '.id + "\n\n" + .content + "\n--------\n"'
+</code></pre>
+<p>The output from that starts like so:</p>
+<pre><code>llm/cli.py:1776
+
+@cli.command(name="plugins")
+@click.option("--all", help="Include built-in default plugins", is_flag=True)
+def plugins_list(all):
+    "List installed plugins"
+    click.echo(json.dumps(get_plugins(all), indent=2))
+--------
+
+llm/cli.py:1791
+
+@cli.command()
+@click.argument("packages", nargs=-1, required=False)
+@click.option(
+    "-U", "--upgrade", is_flag=True, help="Upgrade packages to latest version"
+)
+...
+def install(packages, upgrade, editable, force_reinstall, no_cache_dir):
+    """Install packages from PyPI into the same environment as LLM"""
+</code></pre>
+<p>Getting this output was quite inconvenient, so I've <a href="https://github.com/simonw/llm/issues/853">opened an issue</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/nomic">nomic</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/embeddings">embeddings</a>, <a href="https://simonwillison.net/tags/jq">jq</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/27/nomic-embed-code/#atom-everything>
+
+---
+
+## Announcing Babylon.js 8.0
+
+date: 2025-03-27, from: Windows Developer Blog
+
+<p>Our mission is to build one of the most powerful, beautiful, simple and open web rendering engines in the world. Today, web graphics and rendering hit the accelerator with the release of Babylon.js 8.0.</p>
+<p>https://youtu.be/kKaomUggipQ</p>
+<p>Babylon.js 8.0 r</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/03/27/announcing-babylon-js-8-0/">Announcing Babylon.js 8.0</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/03/27/announcing-babylon-js-8-0/>
+
+---
+
+## This smartphone has a tiny detachable removable screen that becomes a smartwatch or earpiece
+
+date: 2025-03-27, from: Liliputing
+
+<p>The Oukitel WP200 Pro is a rugged smartphone with a sturdy design, an 8800 mAh battery, a MediaTek 8200 processor, 24GB of RAM, and 1TB of storage. But what really makes this phone weird are its displays. Yep, two of them. One is a 6.7 inch AMOLED display on the front of the phone. And the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-smartphone-has-a-tiny-detachable-removable-screen-that-becomes-a-smartwatch-or-earpiece/">This smartphone has a tiny detachable removable screen that becomes a smartwatch or earpiece</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-smartphone-has-a-tiny-detachable-removable-screen-that-becomes-a-smartwatch-or-earpiece/>
+
+---
+
+## GAZUMP
+
+date: 2025-03-27, from: Howard Jacobson blog
+
+I&#8217;ve written to Donald Trump to suggest that when he builds his new Fun Atlantis for the Mega Tasteless in Gaza it should be called 
+
+<br> 
+
+<https://jacobsonh.substack.com/p/gazump>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-27, from: Feed for Alt USDS)
+
+Another busy week on Team WTB!
+
+Check out this convo with Kate, Milo, and @parismarx.com where we talk about the critical civic tech infrastructure that USDS helped create, and what DOGE is working on tearing down.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llevmd245c2t>
+
+---
+
+## Plus Post: VTech Laser MSX2
+
+date: 2025-03-27, from: Computer ads from the Past
+
+The exciting new MSX computer with more features for less money 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-vtech-laser-msx2>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-27, from: Dave Winer's linkblog)
+
+Elie Mystal&#39;s List of Laws that Need to Go. 
+
+<br> 
+
+<https://www.wnyc.org/story/elie-mystals-list-of-laws-that-need-to-go>
+
+---
+
+## Pikachu Spotted Fleeing Police Crackdowns During Turkey Protests
+
+date: 2025-03-27, from: 404 Media Group
+
+As a real video of someone in a Pikachu suit at a protest goes viral, an AI-generated “photo” is fooling a lot of people. 
+
+<br> 
+
+<https://www.404media.co/pikachu-spotted-fleeing-police-crackdowns-during-turkey-protests/>
+
+---
+
+## Bacalhau v1.7.0 - Day 4: Using AWS S3 Partitioning With Bacalhau 
+
+date: 2025-03-27, from: Bacalhau Blog
+
+(7:00) Bacalhau 1.7.1 simplifies S3 data processing with automated partitioning and built-in failure handling. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/bacalhau-v170-day-4-using-aws-s3>
+
+---
+
+## Updates 2025/Q1
+
+date: 2025-03-27, from: mrusme blog
+
+Life and project updates from the current consecutive three-month period. You
+might find this interesting in case you're using any of my open source tools
+or you just want to read random things. :-) 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/updates-2025-q1/>
+
+---
+
+## Abxylute One Pro handheld Android game console hits Kickstarter
+
+date: 2025-03-27, from: Liliputing
+
+<p>Two years after launching a handheld game console with a 7 inch display and an underwhelming processor, Abxylute is back with a new model sporting a much faster chip and several other upgrades. The company says that while the original Abxylute One was designed primarily for game streaming, the new Abxylute One Pro has the [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/abxylute-one-pro-handheld-android-game-console-hits-kickstarter/">Abxylute One Pro handheld Android game console hits Kickstarter</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/abxylute-one-pro-handheld-android-game-console-hits-kickstarter/>
+
+---
+
+## Hayao Miyazaki, Who Said AI Is ‘Insult to Life Itself,” Reduced to AI-Generated Meme by OpenAI
+
+date: 2025-03-27, from: 404 Media Group
+
+The internet is flooded with AI-generated images in the style of Studio Ghibli, whose founder said “I would never wish to incorporate this technology into my work at all.” 
+
+<br> 
+
+<https://www.404media.co/hayao-miyazaki-who-said-ai-is-insult-to-life-itself-reduced-to-ai-generated-meme-by-openai/>
+
+---
+
+## Desk
+
+date: 2025-03-27, from: mrusme blog
+
+This page describes my *battlestation* a.k.a. my desk, and the equipment and
+items I keep on and underneath my desk. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/desk/>
+
+---
+
+## AI and the Structure of Scientific Revolutions
+
+date: 2025-03-27, from: O'Reilly Radar
+
+Thomas Wolf’s blog post “The Einstein AI Model” is a must-read. He contrasts his thinking about what we need from AI with another must-read, Dario Amodei’s “Machines of Loving Grace.”1 Wolf’s argument is that our most advanced language models aren’t creating anything new; they’re just combining old ideas, old phrases, old words according to probabilistic [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/ai-and-the-structure-of-scientific-revolutions/>
 
 ---
 
@@ -1254,7 +1874,7 @@ date: 2025-03-25, from: Berkley Artificial Intellegence Research Blog
 
 <meta name="twitter:card" content="summary_large_image" />
 
-<meta name="twitter:image" content="/blog/assets/rl_av_smoothing/cover.png" />
+<meta name="twitter:image" content="https://bair.berkeley.edu/static/blog/rl_av_smoothing/megavandertest.png" />
 
 <meta name="keywords" content="reinforcement learning, RL, autonomous vehicles, AV, traffic" />
 

@@ -1,11 +1,119 @@
 ---
 title: retro computing
-updated: 2025-03-27 06:07:47
+updated: 2025-03-28 06:09:31
 ---
 
 # retro computing
 
-(date: 2025-03-27 06:07:47)
+(date: 2025-03-28 06:09:31)
+
+---
+
+## The final miscellany at RISC OS North
+
+date: 2025-03-28, from: RiscOS Story
+
+In the run up to RISC OS North, which is taking place on 29th March, in Warrington, RISCOSitory has featured a series of posts giving an overview of the sorts of things you can expect to find at the show, and covering broad areas of interest, such as software, publications, hardware, and so on. However, there are a small number of exhibitors that either don&#8217;t fall into those broad categories, or where they do it&#8217;s only a small part of what they do, and they have much more of interest.&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/the-final-miscellany-risc-os-north/>
+
+---
+
+## RISCOSbits at RISC OS North
+
+date: 2025-03-28, from: RiscOS Story
+
+It&#8217;s show time tomorrow, so here&#8217;s something from RISCOSbits to tempt you to head to Warrington: RISCOSbits at RISC OS North Show – Warrington, 29th March 2025 We are pleased to announce that RISCOSbits will be exhibiting at the inaugural RISC OS North Show on Saturday, 29th March 2025. As a continuation of our commitment to providing high-quality, great value and innovative RISC OS systems, we’re bringing along a full range of new and improved products for users of all levels—from casual tinkerers to serious power users. You’ll be able&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/riscosbits-at-risc-os-north/>
+
+---
+
+## Get the whole kit and caboodle at RISC OS North
+
+date: 2025-03-28, from: RiscOS Story
+
+It&#8217;s all very well reading about RISC OS and getting your hands on software to run on it &#8211; but don&#8217;t you need something to run it on? Of course you do! You might be an existing user, looking to upgrade your hardware to something new &#8211; or you may be exploring the world of RISC OS, and considering your first system to run it. In either case, there&#8217;s something for you at the RISC OS North show on 29th March &#8211; which is so close now you can almost&#8230; 
+
+<br> 
+
+<https://www.riscository.com/2025/whole-kit-and-caboodle-risc-os-north/>
+
+---
+
+## RISCOSbits at RISC OS North show
+
+date: 2025-03-28, from: Icon Bar, RISC OS News
+
+RISCOSbits always like to have a full range of offering at a RISC OS show, and RISC OS North is no exception! 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2181.html>
+
+---
+
+## ROOL updates DDE tools for RISC OS North Show
+
+date: 2025-03-27, from: Icon Bar, RISC OS News
+
+Just in time for RISC OS North Show, ROOL have released the latest update for their DDE tool chain. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2184.html>
+
+---
+
+## RISCOSbits launch ECOS and ExCOS at RISC OS North Show
+
+date: 2025-03-27, from: Icon Bar, RISC OS News
+
+RISCOSbits are bringing the option to plug in a fast Pi5 running Linux a as integral part of your desktop for their FAST range. And it is an internal option so it plugs into your FAST box. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2183.html>
+
+---
+
+## Linux Kernel 6.14 Released
+
+date: 2025-03-27, from: Linux Magazine
+
+<p>The latest Linux kernel has arrived with extra Rust support and more.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Kernel-6.14-Released>
+
+---
+
+## We&#39;re off to visit RON
+
+date: 2025-03-27, from: RiscOS Open
+
+<p><span class="caps">ROOL</span> is proud to be attending the <a href="https://www.riscosnorth.uk/"><span class="caps">RISC</span> OS North show</a> in Warrington, UK. As a part of our commitment to the future of <span class="caps">RISC</span> OS, we will be introducing our &#8220;Moonshot&#8221; projects by giving an overview of the motivations behind them, how we&#8217;re planning to drive them forwards, and how the community can get involved.</p> 
+
+<br> 
+
+<https://www.riscosopen.org/news/articles/2025/03/27/were-off-to-visit-ron>
+
+---
+
+## Plus Post: VTech Laser MSX2
+
+date: 2025-03-27, from: Computer ads from the Past
+
+The exciting new MSX computer with more features for less money 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/plus-post-vtech-laser-msx2>
 
 ---
 

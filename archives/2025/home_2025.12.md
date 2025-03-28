@@ -1,15 +1,254 @@
 ---
 title: home
-updated: 2025-03-27 06:07:47
+updated: 2025-03-28 06:09:31
 ---
 
 # home
 
-(date: 2025-03-27 06:07:47)
+(date: 2025-03-28 06:09:31)
 
 ---
 
-## Gardening In Extremes: How to Tend Landscapes That Flood
+## 43 Types of Jade Plants (With Pictures and Identification)
+
+date: 2025-03-28, from: Yard Life blog
+
+<p>Jade plants are among the most popular succulents, known for their thick, fleshy leaves and low-maintenance care. With so many ... </p>
+<p class="read-more-container"><a title="43 Types of Jade Plants (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/43-types-of-jade-plants-with-pictures-and-identification/#more-26002" aria-label="Read more about 43 Types of Jade Plants (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/43-types-of-jade-plants-with-pictures-and-identification/">43 Types of Jade Plants (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/43-types-of-jade-plants-with-pictures-and-identification/>
+
+---
+
+## 80 Best Flowers That Bloom in Spring (With Pictures and Names)
+
+date: 2025-03-28, from: Yard Life blog
+
+<p>Spring is a magical season when nature awakens, filling gardens and landscapes with bursts of color and fragrance. Flowers that ... </p>
+<p class="read-more-container"><a title="80 Best Flowers That Bloom in Spring (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/80-best-flowers-that-bloom-in-spring-with-pictures-and-names/#more-25980" aria-label="Read more about 80 Best Flowers That Bloom in Spring (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/80-best-flowers-that-bloom-in-spring-with-pictures-and-names/">80 Best Flowers That Bloom in Spring (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/80-best-flowers-that-bloom-in-spring-with-pictures-and-names/>
+
+---
+
+## How to Plant and Grow Buttercrunch Lettuce
+
+date: 2025-03-28, from: The Gardener's Path
+
+<p>Ask any gardener what they’re growing this season, and more than likely, that list will include lettuce. Buttercrunch is one of the most popular varieties for the home garden, with a soft, buttery texture perfect for wraps, sandwiches, and salads. Learn how to triumph over pests and pitfalls when growing buttercrunch.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-buttercrunch-lettuce/">How to Plant and Grow Buttercrunch Lettuce</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-buttercrunch-lettuce/>
+
+---
+
+## They Lived in a "Secret Mall Apartment" for Years. Now, They’re Telling the Story
+
+date: 2025-03-27, from: Dwell
+
+A group of artists turned a hidden shopping center nook into a clandestine home: "At that time, I had a copy of Dwell and I was like, How do we make this something livable and desirable?" 
+
+<br> 
+
+<https://www.dwell.com/article/secret-mall-apartment-providence-place-documentary-interview-b201e0d5>
+
+---
+
+## This City Is Surprisingly the Best Home Base for Remote Workers
+
+date: 2025-03-27, from: Sunset Magazine - Living in the West
+
+Though it's certainly not the cheapest place to live, the California metropolis of Los Angeles has ranked the best for digital nomads. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-city-remote-work-digital-nomad>
+
+---
+
+## Where to See Some of Spring’s Most Spectacular Blooms in the West
+
+date: 2025-03-27, from: Sunset Magazine - Living in the West
+
+Spring in the West is nothing short of magical, with an explosion of color painting the landscape across the region. Here's where to visit. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/flowers-plants/where-to-see-spring-blooms-in-the-west>
+
+---
+
+## A No-Mess Solution To Toilet Plunging
+
+date: 2025-03-27, from: Family Handyman Blog
+
+<p>Unclogging a toilet is messy work for you and your bathroom. Fortunately, this hack can help.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/a-no-mess-solution-to-toilet-plunging/">A No-Mess Solution To Toilet Plunging</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/a-no-mess-solution-to-toilet-plunging/>
+
+---
+
+## How To Build a Modern Gazebo to Enhance Your Outdoor Space
+
+date: 2025-03-27, from: Family Handyman Blog
+
+<p>Whether for shade or style, our step-by-step project guide on how to build a gazebo will help you transform your outdoor space.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-build-a-modern-gazebo/">How To Build a Modern Gazebo to Enhance Your Outdoor Space</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-build-a-modern-gazebo/>
+
+---
+
+## These $52K Flatpack Cabins Are Now Shipping to the U.S.A.
+
+date: 2025-03-27, from: Dwell
+
+U.K. firm Koto just built two of its new tiny prefabs—an office and a guest suite—for a client in Boston. 
+
+<br> 
+
+<https://www.dwell.com/article/koto-niwa-collection-flatpack-tiny-prefab-cabin-8557879d>
+
+---
+
+## Use Your Chainsaw Safely and Effectively With These Tips
+
+date: 2025-03-27, from: Family Handyman Blog
+
+<p>Chainsaws are handy, hard-working tools. They can also be unwieldy and dangerous. These are our favorite tips for safe and effective chainsawing.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/chainsaw-safety-tips/">Use Your Chainsaw Safely and Effectively With These Tips</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/chainsaw-safety-tips/>
+
+---
+
+## CDFA celebrates Women’s History Month with  inspiring panel of women leaders
+
+date: 2025-03-27, from: Calfifornia Dept. Aggriculture blog
+
+CDFA proudly celebrated Women’s History Month with a dynamic panel discussion on Wednesday, March 26, moderated by Undersecretary Christine Birdsong. As part of the month-long celebration, CDFA’s Diversity, Equity, and Inclusion committee, along with the CDFA Office of Civil Rights, &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28811">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28811>
+
+---
+
+## Does Home Insurance Cover Damage from Space Debris?
+
+date: 2025-03-27, from: Family Handyman Blog
+
+<p>Look out below! If your property suffers damage from space debris, are you covered by your homeowner's policy? Our insurance experts weigh in.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/does-home-insurance-cover-damage-from-space-debris/">Does Home Insurance Cover Damage from Space Debris?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/does-home-insurance-cover-damage-from-space-debris/>
+
+---
+
+## Fixer Uppers Make Cities Great—At a Price
+
+date: 2025-03-27, from: Dwell
+
+A new report the the Harvard Joint Center for Housing Studies shows risks faced by homeowners make the proposition of a "cheap old house" a lot less romantic, and a lot more precarious. 
+
+<br> 
+
+<https://www.dwell.com/article/harvard-renovation-study-2025-fixer-upper-f128059d>
+
+---
+
+## Robert Rauschenberg and Roy Lichtenstein Stayed at This $2.4M Florida Compound
+
+date: 2025-03-27, from: Dwell
+
+Sculptor Mary Voytek’s sprawling estate includes a three-bedroom home, a Quonset hut, and an elevated tiny house with a slide. 
+
+<br> 
+
+<https://www.dwell.com/article/mary-voytek-artist-compound-fort-myers-florida-real-estate-07d8d6a1>
+
+---
+
+## From the Archive: Philip Johnson’s Glass House Gets a Restoration
+
+date: 2025-03-27, from: Dwell
+
+In 2007, we wrote about the icon reopening to the public—and to public scrutiny. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-philip-johnsons-glass-house-gets-a-restoration-dc790ab7>
+
+---
+
+## 15 of the Best Late Summer Flowering Bulbs
+
+date: 2025-03-27, from: The Gardener's Path
+
+<p>With the arrival of the dog days of summer, is your garden starting to look a bit drab as flowers fade? Bring a rainbow of late summer color to your beds, borders, and containers with flowering bulbs. Learn about 15 top-performing favorites, suited to a variety of growing conditions in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-late-summer-bulbs/">15 of the Best Late Summer Flowering Bulbs</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-late-summer-bulbs/>
+
+---
+
+## Celosia Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-27, from: Yard Life blog
+
+<p>Celosia plants are celebrated for their eye-catching, vividly colored blooms that come in a variety of unique shapes, resembling flames, ... </p>
+<p class="read-more-container"><a title="Celosia Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/celosia-plant-care-and-growing-guide-most-detailed/#more-25974" aria-label="Read more about Celosia Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/celosia-plant-care-and-growing-guide-most-detailed/">Celosia Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/celosia-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## The Benefits of Using Soil Inoculants and Microbes in the Garden
+
+date: 2025-03-27, from: The Gardener's Path
+
+<p>Soil is naturally full of beneficial microbes and nematodes that can help to prevent or even control plant diseases. Did you know you can increase the numbers of these useful organisms and improve the health of your garden by adding them as soil inoculants? Learn more about these fungi, bacteria, and other beneficials.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/composting/benefits-soil-inoculants/">The Benefits of Using Soil Inoculants and Microbes in the Garden</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/composting/benefits-soil-inoculants/>
+
+---
+
+## Gardening in Extremes: How to Tend Landscapes That Flood
 
 date: 2025-03-27, from: Dwell
 
@@ -18,6 +257,18 @@ If the climate crisis has increased storms in your area, raised beds, rain garde
 <br> 
 
 <https://www.dwell.com/article/gardening-in-extremes-how-to-tend-landscapes-that-flood-cfa64bca>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-03-27, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -214,18 +465,6 @@ An architect reimagines Colombo-Colonial architecture, creating a descending spa
 <br> 
 
 <https://www.dwell.com/article/la-hoja-sobre-el-cerro-alsar-atelier-f0fed9e7>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-26, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -652,18 +891,6 @@ Most people visit wine country for the wine. But now, wineries are commissioning
 
 ---
 
-## Where to See Some of Spring’s Most Spectacular Blooms in the West
-
-date: 2025-03-24, from: Sunset Magazine - Living in the West
-
-Spring in the West is nothing short of magical, with an explosion of color painting the landscape across the region. Here's where to visit. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/flowers-plants/where-to-see-spring-blooms-in-the-west>
-
----
-
 ## No Plunger? No Problem: How To Unclog Toilet With a Hanger
 
 date: 2025-03-24, from: Family Handyman Blog
@@ -851,6 +1078,18 @@ date: 2025-03-24, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/string-of-pearls-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## The Freshest and Most Delicious Recipes You Can Make This April
+
+date: 2025-03-23, from: Sunset Magazine - Living in the West
+
+April is time to really take advantage of the fresh spring produce in season. Here are our favorite recipes to make in April. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-april-2025>
 
 ---
 

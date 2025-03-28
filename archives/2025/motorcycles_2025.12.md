@@ -1,11 +1,108 @@
 ---
 title: motorcycles
-updated: 2025-03-27 06:07:47
+updated: 2025-03-28 06:09:31
 ---
 
 # motorcycles
 
-(date: 2025-03-27 06:07:47)
+(date: 2025-03-28 06:09:31)
+
+---
+
+## Can-Am, Ski-Doo Are Doing Better Than Expected, But Tariff Fears Remain
+
+date: 2025-03-28, from: Ride Apart, Electric Motorcycle News
+
+Just how spooky is it? Parent company BRP isn't offering financial guidance for the next fiscal year. 
+
+<br> 
+
+<https://www.rideapart.com/news/754883/can-am-skidoo-financials-tariffs/>
+
+---
+
+## Toprak Reportedly Signs With Honda MotoGP, But Only for 2025 Wild Card Rides
+
+date: 2025-03-28, from: Ride Apart, Electric Motorcycle News
+
+The Toprak—MotoGP rumor mill is back to maximum capacity. 
+
+<br> 
+
+<https://www.rideapart.com/news/754761/toprak-signs-honda-motogp-2025/>
+
+---
+
+## BMW Set to Unveil Its Small-Displacement Concept F 450 GS Model Soon
+
+date: 2025-03-28, from: Ride Apart, Electric Motorcycle News
+
+Could this take the lightweight adventure crown? 
+
+<br> 
+
+<https://www.rideapart.com/news/754768/bmw-unveils-gs-450-concept-tokyo/>
+
+---
+
+## NHRA to Honor LA County Firefighters During Lucas Oil NHRA Winternationals in Pomona
+
+date: 2025-03-27, from: Kickin the Tires blog
+
+POMONA, Calif. (March 27, 2025) – NHRA officials announced special plans to honor the Los Angeles County Fire Department’s heroic efforts during the recent Southern California wildfires as part of&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/nhra-to-honor-la-county-firefighters-during-lucas-oil-nhra-winternationals-in-pomona/>
+
+---
+
+## Greg Biffle named Honorary Pace Car Driver for Goodyear 400 at Darlington Raceway on Sunday, April 6
+
+date: 2025-03-27, from: Kickin the Tires blog
+
+DARLINGTON, S.C. (March 27, 2025) – Darlington Raceway announced today that former NASCAR Cup Series star and two-time Cup Series winner at the Track Too Tough to Tame, Greg Biffle,&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/greg-biffle-named-honorary-pace-car-driver-for-goodyear-400-at-darlington-raceway-on-sunday-april-6/>
+
+---
+
+## Christopher Bell to Honor Racing Mentor With Darlington Throwback Schemes
+
+date: 2025-03-27, from: Kickin the Tires blog
+
+HUNTERSVILLE, N.C. (March 27, 2025) – Christopher Bell will celebrate Throwback Weekend at Darlington Raceway by honoring his racing mentor, Rick Ferkel, with a pair of throwback schemes designed to&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/christopher-bell-to-honor-racing-mentor-with-darlington-throwback-schemes/>
+
+---
+
+## This Insane Scooter Makes the Most Delicious Crossplane Engine Noises
+
+date: 2025-03-27, from: Ride Apart, Electric Motorcycle News
+
+It's not an engine transplant; the guy handbuilt this engine from scraps. 
+
+<br> 
+
+<https://www.rideapart.com/news/754728/crossplane-inline-four-cylinder-scooter/>
+
+---
+
+## Schuberth May Have Just Built the Ultimate Motorcycle Helmet
+
+date: 2025-03-27, from: Ride Apart, Electric Motorcycle News
+
+Protection, comfort, and convenience where they matter most. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754624/schuberth-j2-ultimate-jet-helmet/>
 
 ---
 

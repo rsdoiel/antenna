@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-03-27 06:07:45
+updated: 2025-03-28 06:09:29
 ---
 
 # games
 
-(date: 2025-03-27 06:07:45)
+(date: 2025-03-28 06:09:29)
+
+---
+
+## Orb: On the Movements of the Earth is an anime that makes knowledge exciting
+
+date: 2025-03-28, updated: 2025-03-28, from: Polygon Website
+
+Though on the surface they seem to have next to nothing in common, I couldn&#8217;t help but think of Rogue One and Andor while watching Orb: On the Movements of the Earth, the latest anime by Hunter x Hunter and Frieren: Beyond Journey&#8217;s End studio Madhouse. Specifically, it was Luthen&#8217;s speech in Andor when he [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/548084/orb-anime-netflix-movements-earth-review>
+
+---
+
+## Get six awesome Earth Defense Force games and all their DLC for just $25
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+Don’t miss your chance to bring home the best titles in the Earth Defense Force franchise for just $25. The Earth Defense Force Collection from Humble combines six&#160;Earth Defense Force&#160;games and all of their associated DLC into a single package for $25. This bundle skips&#160;Earth Defense Force 6, but you’ll still find every other game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/548378/humble-earth-defense-force-collection-bundle-sale>
+
+---
+
+## All the new video games launching in 2025
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+After a brutal year for the video game industry, 2025 is looking brighter and much busier&#160;— if only because Rockstar Games plans to release Grand Theft Auto 6 in 2025, and Nintendo promises to deliver the Switch 2 and a bunch of new games to launch with it. Those aren’t the only highly anticipated sequels [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/24188125/2025-video-game-release-dates-new-upcoming>
+
+---
+
+## Netflix’s Dead Talents Society is the spiritual successor Beetlejuice really needed
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+For fans of Tim Burton’s 1998 comedy Beetlejuice, the 2024 sequel Beetlejuice Beetlejuice is a fun exercise in nostalgia, reuniting characters who haven’t been on the big screen in 35 years. Michael Keaton, Winona Ryder, and Catherine O’Hara revive and evolve their roles from the first movie, even if their characters are underserved and neglected. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/545741/dead-talents-society-best-new-on-netflix-horror-comedy>
+
+---
+
+## ‘An Evening in Otsu’ walkthrough and Aoi location in Assassin’s Creed Shadows
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+“An Evening in Otsu” is a main story quest in Assassin’s Creed Shadows that’s part of the chain to assassinate The Naginata, one of your primary targets. He’s hiding out in the Omi province, and you’ll need to locate an ally to help you get information on him. In this Assassin’s Creed Shadows guide, we’ll [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/548279/an-evening-in-otsu-aoi-location-where-to-find>
+
+---
+
+## Getting Terminator 2’s T-1000 into MK1 was both easy and incredibly hard
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+“Guest characters are always a challenge,” says Nick Nicastro, design manager at Mortal Kombat developer NetherRealm Studios. But there’s at least one thing that’s easy about bringing Mortal Kombat 1’s newest kombatant, the Terminator T-1000, to the fighting game: a shared understanding of what the character is and what he’s capable of in terms of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/mortal-kombat/548208/mk1-terminator-2-t-1000-netherrealm-interview>
+
+---
+
+## Infinity Nikki codes for March 2025
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+Infinity Nikki has codes to redeem that give you goodies, just like many other modern mobile games on the market. You won’t want to miss out on using these codes, since they expire and they actually give some pretty good loot, like premium currency. Below we list all the active codes in Infinity Nikki for [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/infinity-nikki-guides/490118/codes-list-redeem-diamonds-revelation-crystals>
+
+---
+
+## Ubisoft breaks off Assassin’s Creed, Far Cry, and Rainbow Six into a new Tencent-backed unit
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+Ubisoft’s biggest games — Assassin’s Creed, Far Cry, and Rainbow Six — will be split off into a separate entity with a €1.16 billion ($1.3 billion) investment from Chinese tech giant Tencent, the company announced on Thursday. The new subsidiary will include every Ubisoft team currently working on those three franchises in Montréal, Quebec, Sherbrooke, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/548281/ubisoft-tencent-investment-assassins-creed-far-cry-rainbow-six>
+
+---
+
+## Don’t miss out on Polygon’s exclusive Humble Choice discount
+
+date: 2025-03-27, updated: 2025-03-27, from: Polygon Website
+
+Polygon readers (that’s you) have until Monday, March 31, to save 25% on an annual Humble Choice subscription. Typically, yearly subscriptions cost $129, or $11.99 month-to-month. However, you can pick up a yearly subscription for just $99 when you use the code POLYGON25 at checkout. If you still aren’t convinced, you can also use the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/542142/humble-choice-march-polygon-promo-sale>
 
 ---
 

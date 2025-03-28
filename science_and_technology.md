@@ -1,11 +1,335 @@
 ---
 title: science and technology
-updated: 2025-03-27 06:07:43
+updated: 2025-03-28 06:09:27
 ---
 
 # science and technology
 
-(date: 2025-03-27 06:07:43)
+(date: 2025-03-28 06:09:27)
+
+---
+
+## Cardiff's children's chief confirms data leak 2 months after cyber risk was 'escalated'
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Department director admits Welsh capital&#39;s council still trying to get heads around threat of dark web leaks</h4> <p>Cardiff City Council&#39;s director of children&#39;s services says data was leaked or stolen from the organization, although she did not clarify how or what was pilfered.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/cardiff_childrens_chief_says_city/>
+
+---
+
+## Hubble Spots a Chance Alignment
+
+date: 2025-03-28, from: NASA breaking news
+
+The subject of today’s NASA/ESA Hubble Space Telescope image is the stunning spiral galaxy NGC 5530. This galaxy is situated 40 million light-years away in the constellation Lupus, the Wolf, and classified as a ‘flocculent’ spiral, meaning its spiral arms are patchy and indistinct. While some galaxies have extraordinarily bright centers that host a feasting […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spots-a-chance-alignment/>
+
+---
+
+## Windows Server 2025 locking up after February patch, no word of when a fix will land
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Similar issue in Windows 11 resolved as of Wednesday</h4> <p>Microsoft is warning that a faulty patch pushed out in February is causing Windows Server 2025 Remote Desktop sessions to freeze under certain circumstances.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/windoers_server_2025_freezing/>
+
+---
+
+## UK govt data people not 'technical,' says ex-Downing St data science head
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Despite pockets of excellence, many wouldn&#39;t make the grade in business, AI advisor implies</h4> <p>A former director of data science at the UK prime minister&#39;s office has told MPs that people working with data in government are not typically technical and would be unlikely to get a similar job in the private sector.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/uk_government_data_people/>
+
+---
+
+## Nuclear center must replace roof on 70-year-old lab so it can process radioactive waste
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Project sees 7-year delay and budget swell to £1.5B, but nuclear leadership &#39;confident&#39; it has an alternative</h4> <p>The center of the UK&#39;s nuclear industry has agreed on alternatives for how it will process waste into the next decade after delays and overspending hit a lab project.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/uk_nuclear_center_waste_project_delayed/>
+
+---
+
+## Tech support session saved files, but probably ended a marriage
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Self-described &#39;visionary&#39; made life hell for our hero, then some oily vids returned the favor</h4> <p><strong>On Call</strong>  The working week can be ugly, which is why <em>The Register</em> beautifies each Friday morning with a new instalment of On Call, the reader-contributed column in which we tell your tales of tech support splendor.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/on_call/>
+
+---
+
+## VMware distributor Arrow says minimum software subs set to jump from 16 to 72 cores
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Claims Broadcom will levy 20 percent penalty for customers who don’t pay before renewal deadlines</h4> <p>The French limb of global tech distributor Arrow has emailed VMware partners it serves with news of big price increases.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/arrow_vmware_licensing_change/>
+
+---
+
+## After Chrome patches zero-day used to target Russians, Firefox splats similar bug
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Single click on a phishing link in Google browser blew up sandbox on Windows</h4> <p>Google pushed out an emergency patch for Chrome on Windows this week to stop attackers exploiting a sandbox-breaking zero-day vulnerability, seemingly used by snoops to target certain folks in Russia.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/google_kaspersky_mozilla/>
+
+---
+
+## SK hynix has probably already sold most of the HBM DRAM it will make next year
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>As this year’s buyers rush to beat Trump’s tariffs</h4> <p>Korean chipmaker SK hynix has told investors the future looks bright thanks to strong demand for its memory products and early delivery of its first HBM4 samples.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/sk_hynix_hbm_forward_sales/>
+
+---
+
+## TSMC's US builds won't make America great at chips again, says ex-Intel boss Gelsinger
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Argues making stuff using foreign-designed tech isn&#39;t leadership, as x86 giant shakes up board</h4> <p>Intel ex-CEO Pat Gelsinger has thrown shade on Taiwanese chipmaker TSMC&#39;s plans to build fabrication plants in the USA, saying the factories will do nothing to advance American semiconductor leadership.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/gelsinger_tsmc_leadership_intel_board/>
+
+---
+
+## Cyber-crew claims it cracked American cableco, releases terrible music video to prove it
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>WOW<em>!</em> DID<em>!</em> SOMEONE<em>!</em> REALLY<em>!</em> STEAL<em>!</em> DATA<em>!</em> ON<em>!</em> 400K<em>!</em> USERS?<em>!</em></h4> <p>A cyber-crime ring calling itself Arkana has made a cringe music video to boast of an alleged theft of subscriber account data from Colorado-based cableco WideOpenWest (literally, WOW<em>!</em>)…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/arkana_wow_ransomware/>
+
+---
+
+## Feds drop bomb on Multiplan in legal war over healthcare 'price-fixing' algorithms
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>DoJ suggests it sure looks like collusion when several big players use the same cost-saving software</h4> <p>The US Justice Department on Thursday weighed into an antitrust legal war that alleges algorithmic price fixing by healthcare services by MultiPlan and its health insurance clients.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/feds_multiplan_antitrust_defense/>
+
+---
+
+## China’s FamousSparrow flies back into action, breaches US org after years off the radar
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Crew also cooked up two fresh SparrowDoor backdoor variants, says ESET</h4> <p>The China-aligned FamousSparrow crew has resurfaced after a long period of presumed inactivity, compromising a US financial-sector trade group and a Mexican research institute. The gang also likely targeted a governmental institution in Honduras, along with other yet-to-be-identified victims.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/china_famoussparrow_back/>
+
+---
+
+## NASA Shares SpaceX Crew-11 Assignments for Space Station Mission
+
+date: 2025-03-27, from: NASA breaking news
+
+As part of NASA’s SpaceX Crew-11 mission, four crew members from three space agencies will launch in the coming months to the International Space Station for a long-duration science expedition aboard the orbiting laboratory. NASA astronauts Commander Zena Cardman and Pilot Mike Fincke, JAXA (Japan Aerospace Exploration Agency) astronaut Mission Specialist Kimiya Yui, and Roscosmos [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-shares-spacex-crew-11-assignments-for-space-station-mission/>
+
+---
+
+## IBM US cuts may run deeper than feared ‒ and the jobs are heading to India
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Big Blue &#39;might as well move its headquarters&#39; to Bengaluru since it &#39;no longer prioritizes&#39; America</h4> <p>Following our report last week on IBM&#39;s ongoing layoffs, current and former employees got in touch to confirm what many suspected: The US cuts run deeper than reported, and the jobs are heading to India.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/ibm_cuts_jobs_in_us/>
+
+---
+
+## Meet the Space Ops Team: Anum Ashraf
+
+date: 2025-03-27, from: NASA breaking news
+
+For Anum Ashraf, Ph.D., the interconnectedness of NASA’s workforce presents the exciting opportunity to collaborate with a multitude of people and teams. With more than 11 years at the agency, Ashraf has played a fundamental role in leading efforts that actively bridge these connections and support NASA’s mission.&#160; Ashraf serves as the mission commitment lead [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/somd/meet-the-space-ops-team-anum-ashraf/>
+
+---
+
+## NEO Surveyor Instrument Enclosure Inside Historic Chamber A
+
+date: 2025-03-27, from: NASA breaking news
+
+The instrument enclosure of NASA’s Near-Earth Object Surveyor is prepared for critical environmental tests inside the historic Chamber A at the Space Environment Simulation Laboratory at NASA’s Johnson Space Center in Houston in December 2024. Wrapped in silver thermal blanketing, the 12-foot-long (3.7-meter-long) angular structure was subjected to the frigid, airless conditions that the spacecraft [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/neo-surveyor-instrument-enclosure-inside-historic-chamber-a/>
+
+---
+
+## Panic averted: It was just a bug in Atop after all
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Warning of possible problems sparks controversy: Was it OverDAtop?</h4> <p>Rachel Kroll has clarified the Atop alarm: Turns out it was just a weird little bug, and it&#39;s probably already been fixed.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/atop_panic_averted/>
+
+---
+
+## Understanding Cosmic Explosions: StarBurst Arrives at NASA for Testing
+
+date: 2025-03-27, from: NASA breaking news
+
+StarBurst, a wide-field gamma ray observatory, arrived at NASA’s Marshall Space Flight Center in Huntsville, Alabama, March 4 for environmental testing and final instrument integration. The instrument is designed to detect the initial emission of short gamma-ray bursts, a key electromagnetic indicator of neutron star mergers. “Gamma-ray bursts are among the most powerful explosions in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/understanding-cosmic-explosions-starburst-arrives-at-nasa-for-testing/>
+
+---
+
+## NASA’s Dust Shield Successfully Repels Lunar Regolith on Moon
+
+date: 2025-03-27, from: NASA breaking news
+
+NASA’s Electrodynamic Dust Shield (EDS) successfully demonstrated its ability to remove regolith, or lunar dust and dirt, from its various surfaces on the Moon during Firefly Aerospace’s Blue Ghost Mission 1, which concluded on March 16. Lunar dust is extremely abrasive and electrostatic, which means it clings to anything that carries a charge. It can [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasas-dust-shield-successfully-repels-lunar-regolith-on-moon/>
+
+---
+
+## Dems dub Trump cuts to chip export controls a 'gift' to Xi and Putin
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Concerns over whether Bureau of Industry and Security, which maintains entity list, would be able to do its job</h4> <p>Keeping critical tech out of the hands of US adversaries is about to get harder for the Bureau of Industry and Security (BIS) with the Trump administration seemingly poised to slash its already meager budget by $20 million.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/proposed_bis_buget_cuts/>
+
+---
+
+## Security shop pwns ransomware gang, passes insider info to authorities
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Researchers say &#39;proactive&#39; approach is needed to combat global cybercrime</h4> <p>Here&#39;s one you don&#39;t see every day: A cybersecurity vendor is admitting to breaking into a notorious ransomware crew&#39;s infrastructure and gathering data it relayed to national agencies to help victims.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/security_shop_pwns_ransomware_gang/>
+
+---
+
+## NASA, NSIDC Scientists Say Arctic Winter Sea Ice at Record Low
+
+date: 2025-03-27, from: NASA breaking news
+
+Winter sea ice cover in the Arctic was the lowest it&#8217;s ever been at its annual peak on March 22, 2025, according to NASA and the National Snow and Ice Data Center (NSIDC) at the University of Colorado, Boulder. At 5.53 million square miles (14.33 million square kilometers), the maximum extent fell below the prior [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/earth/arctic-winter-sea-ice-at-record-low/>
+
+---
+
+## ISS resupply and trash pickup craft postponed indefinitely after Cygnus container crunch
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>All eyes on SpaceX&#39;s April cargo mission to the orbital outpost</h4> <p>Northrop Grumman&#39;s Cygnus cargo freighter, the NG-22, is being delayed indefinitely after engineers confirmed the Pressurized Cargo Module (PCM) had sustained damage in its shipping container.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/cygnus_freighter_damaged/>
+
+---
+
+## Finding Clues in Ruins of Ancient Dead Star With NASA’s Chandra
+
+date: 2025-03-27, from: NASA breaking news
+
+People often think about archaeology happening deep in jungles or inside ancient pyramids. However, a team of astronomers has shown that they can use stars and the remains they leave behind to conduct a special kind of archaeology in space. Mining data from NASA’s Chandra X-ray Observatory, the team of astronomers studied the relics that [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/finding-clues-in-ruins-of-ancient-dead-star-with-nasas-chandra/>
+
+---
+
+## Tech suppliers await final grade as Trump prepares to flunk Department of Education
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Vendors with millions in federal contracts are watching nervously</h4> <p>Tech vendors are awaiting the outcome of a constitutional battle to decide the fate of government contracts worth hundreds of millions of dollars after US President Donald Trump issued an executive order calling for the federal Department of Education to be dismantled.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/us_education_tech_contractors/>
+
+---
+
+## CrushFTP CEO's feisty response to VulnCheck's CVE for critical make-me-admin bug
+
+date: 2025-03-27, updated: 2025-03-27, from: The Register (UK I.T. News)
+
+<h4>Screenshot shows company head unhappy, claiming &#39;real CVE is pending&#39;</h4> <p>CrushFTP&#39;s CEO is not happy with VulnCheck after the CVE numbering authority (CNA) released an unofficial ID for the critical vulnerability in its file transfer tech disclosed almost a week ago.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/27/crushftp_cve/>
 
 ---
 
@@ -157,7 +481,7 @@ date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
 
 date: 2025-03-26, updated: 2025-03-27, from: The Register (UK I.T. News)
 
-<h4>So F-18 launch times, weapons, drone support aren&#39;t classified now ... who knew?</h4> <p>The Atlantic&#39;s editor-in-chief who was inadvertently added to a Signal group in which the US Secretary of Defense, Vice President, and others discussed secret military plans has now publicly released the messages.…</p> 
+<h4>So F-18 launch times, weapons, drone support aren&#39;t classified now ... who knew?</h4> <p><strong>Updated</strong>  The Atlantic&#39;s editor-in-chief who was inadvertently added to a Signal group in which the US Secretary of Defense, Vice President, and others discussed secret military plans has now publicly released the messages.…</p> 
 
 <br> 
 
