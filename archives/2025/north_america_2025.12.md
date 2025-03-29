@@ -1,11 +1,317 @@
 ---
 title: north america
-updated: 2025-03-28 06:09:25
+updated: 2025-03-29 06:12:26
 ---
 
 # north america
 
-(date: 2025-03-28 06:09:25)
+(date: 2025-03-29 06:12:26)
+
+---
+
+## A water-saving experiment got some LA homes to use half as much as their neighbors
+
+date: 2025-03-28, from: Market Place
+
+The experiment is part of a project to cut per-capita water use to just 13 gallons a day. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/a-water-saving-experiment-got-some-la-homes-to-use-half-as-much-as-their-neighbors/>
+
+---
+
+## Evening Roundup, March 28
+
+date: 2025-03-28, from: The Contrarian
+
+Adav Noti, Barb McQuade, Rep. Auchincloss, Azza Cohen, Jeff Nesbit, Rep. Beyer, Sen. Sheldon Whitehouse, Democracy Index, Michael de Adder, Brian O'Neill, Jamie Schler, Ruben Bolling & Pumpkin! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-march-28>
+
+---
+
+## Congressman Don Beyer and Jen Rubin on Institute of Peace raid and Republican loyalty to Trump
+
+date: 2025-03-28, from: The Contrarian
+
+Jen Rubin is joined by Congressman Don Beyer to discuss DOGE&#8217;s recent raid against the U.S. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160086914/b50d0b827403112f79f243a15db50112.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160086914/b50d0b827403112f79f243a15db50112.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/congressman-don-beyer-and-jen-rubin>
+
+---
+
+## Are we finally done with revenge spending?
+
+date: 2025-03-28, from: Market Place
+
+Consumers have been saying how fed up they are with inflation. But they keep on buying stuff, says Stephen Brown at Capital Economics.  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/consumer-spending-tariff-anxiety/>
+
+---
+
+## The Democracy Index
+
+date: 2025-03-28, from: The Contrarian
+
+This week&#8217;s Democracy Index comes to you securely over Substack &#8212; if you were inadvertently added by the team, please remove yourself from the chat. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-b5c>
+
+---
+
+## Victory food: A look back at wartime cooking
+
+date: 2025-03-28, from: The Contrarian
+
+Chard, Zucchini, Potato Gratin and Fruit Crumble 
+
+<br> 
+
+<https://contrarian.substack.com/p/victory-food-a-look-back-at-wartime>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-03-28, from: The Contrarian
+
+Introducing...Pumpkin! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-6ca>
+
+---
+
+## Split Screen: Kamala Harris at the Munich Security Conference, The New Yorker
+
+date: 2025-03-28, from: The Contrarian
+
+Seemingly neutral choices add up to a larger narrative about powerful women. 
+
+<br> 
+
+<https://contrarian.substack.com/p/split-screen-kamala-harris-at-the>
+
+---
+
+##  This State Is For Sale 
+
+date: 2025-03-28, from: The Lever News
+
+ Delaware just passed a bill to prevent CEOs like Elon Musk from leaving their state. Lawyers and legislators sound the alarm about what this means for the rest of us.  
+
+<br> 
+
+<https://www.levernews.com/this-state-is-for-sale/>
+
+---
+
+##  This State Is For Sale (Transcript) 
+
+date: 2025-03-28, from: The Lever News
+
+ Following is an unedited, automated transcript of the podcast episode titled “This State Is For Sale.”  
+
+<br> 
+
+<https://www.levernews.com/this-state-is-for-sale-transcript/>
+
+---
+
+## The alarming reckless disregard for national security
+
+date: 2025-03-28, from: The Contrarian
+
+The national security risks should be obvious to anyone who cares. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-alarming-reckless-disregard-for>
+
+---
+
+## Rep. Jake Auchincloss and Jen Rubin discuss Trump tariffs and the right to free speech 
+
+date: 2025-03-28, from: The Contrarian
+
+Jen Rubin interviews Rep. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160080410/987b649a22e1ef7397c373ceb25b5514.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160080410/987b649a22e1ef7397c373ceb25b5514.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rep-jake-auchincloss-and-jen-rubin>
+
+---
+
+## Elon Musk Is Drowning Out the Voices of Wisconsinites. That Should Worry Every American.
+
+date: 2025-03-28, from: The Contrarian
+
+In every election cycle since the 2010 Citizens United ruling, the influence of billionaires and corporate interests has increased, muting the voices of regular voters. 
+
+<br> 
+
+<https://contrarian.substack.com/p/elon-musk-is-drowning-out-the-voices>
+
+---
+
+## Florida legislators advance bill to loosen restrictions on child labor
+
+date: 2025-03-28, from: Market Place
+
+The proposal backed by Gov. Ron DeSantis would allow some teenagers to work full time on school days and take on overnight shifts. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/florida-legislators-advance-bill-to-loosen-restrictions-on-child-labor/>
+
+---
+
+## Student loan repayments remain stable — but that’s not likely to last
+
+date: 2025-03-28, from: Market Place
+
+Student loan interest was paused during the pandemic, but that ended in September. That's just one reason experts expect more borrowers to default on their loans. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/student-loan-repayments-remain-stable-but-thats-not-likely-to-last/>
+
+---
+
+## Crocs hits record revenue as popularity with younger consumers soars
+
+date: 2025-03-28, from: Market Place
+
+In recent years Crocs have become a Gen Z fashion staple  in spite of both aesthetic and environmental objections. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/crocs-hits-record-revenue-as-popularity-with-younger-consumers-soars/>
+
+---
+
+## Part II - When Signal Met the House
+
+date: 2025-03-28, from: The Contrarian
+
+Five days into the crisis, the Trump administration is pressing hard to reach the final phase in what has become a recognizable playbook. 
+
+<br> 
+
+<https://contrarian.substack.com/p/part-ii-when-signal-met-the-house>
+
+---
+
+## Question of the day
+
+date: 2025-03-28, from: The Contrarian
+
+A cartoon by Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/question-of-the-day>
+
+---
+
+## A beacon of hope as Trump’s dark age descends
+
+date: 2025-03-28, from: The Contrarian
+
+If you listen, you can hear a a signal through the Trump noise showing that the Democratic Party still has a pulse. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-beacon-of-hope-as-trumps-dark-age>
+
+---
+
+## USDA Cuts Hit Food Banks Across the Country: ‘This Is Just the Tip of the Iceberg’
+
+date: 2025-03-28, from: Capital and Main
+
+<p>More than $1 billion in assistance has been cut; millions of families could be affected.</p>
+<p>The post <a href="https://capitalandmain.com/usda-cuts-hit-food-banks-across-the-country-this-is-just-the-tip-of-the-iceberg">USDA Cuts Hit Food Banks Across the Country: ‘This Is Just the Tip of the Iceberg’</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/usda-cuts-hit-food-banks-across-the-country-this-is-just-the-tip-of-the-iceberg>
+
+---
+
+## How accurate are recession indicators based on culture?
+
+date: 2025-03-28, from: Market Place
+
+People are trading recession theories online based on cultural observations. But how much can culture tell us about the economy?  
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/recession-indicators-internet-culture-trend/>
+
+---
+
+## Mortgage applications spiked in March, but what does that really say about housing?
+
+date: 2025-03-28, from: Market Place
+
+Applications for mortgages at Bank of America increased about 20% more than typical between January and March. Here's what that says about the housing market. 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/mortgage-applications-spiked-in-march-but-what-does-that-really-say-about-housing/>
+
+---
+
+## What it looks like when a Justice System Gets "Weaponized" 
+
+date: 2025-03-28, from: The Contrarian
+
+The Flagrant Red Flags that Help Distinguish when our Justice System is actually being used Improperly 
+
+<br> 
+
+<https://contrarian.substack.com/p/what-it-looks-like-when-a-justice>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-03-28, from: The Contrarian
+
+Friday: A bit of common sense, protests in Michigan and Washington state, Europe joins the Tesla Takedown, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Friday comic: Tom the Dancing Bug
+
+date: 2025-03-28, from: The Contrarian
+
+The N-Word Is Back! 
+
+<br> 
+
+<https://contrarian.substack.com/p/friday-comic-tom-the-dancing-bug-836>
 
 ---
 
@@ -96,18 +402,6 @@ With missed student loan payments now affecting credit scores, borrowers face to
 
 ---
 
-## The Contrarian covers the Democracy Movement
-
-date: 2025-03-27, from: The Contrarian
-
-Thursday: Protestors ask for the return of "detained" Tufts University student Rumeysa Ozturk, a protest against austerity in Chicago, scenes from Turkey, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
-
----
-
 ## As economy changes fast, alternative data can help us keep up
 
 date: 2025-03-27, from: Market Place
@@ -187,8 +481,8 @@ date: 2025-03-27, from: The Contrarian
 Tim Mak joins Jen Rubin to discuss the ceasefire (or lack thereof ) in the Russia-Ukraine conflict and the ongoing mineral resource discussions between the U.S. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159996353/2f8edeabd0344c072820456c561e95bc.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/159996353/2f8edeabd0344c072820456c561e95bc.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159996353/c3fe05ba11be9c5001e8a8e39fab6dfd.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159996353/c3fe05ba11be9c5001e8a8e39fab6dfd.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/where-in-the-world-is-tim-mak-an>
 
@@ -1214,4 +1508,28 @@ date: 2025-03-23, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-lurking-in-the-eyeshadows/>
+
+---
+
+## Publisher's Roundup, 10 
+
+date: 2025-03-22, from: The Contrarian
+
+Trump is Lashing Out Because He&#8217;s Losing 
+
+<br> 
+
+<https://contrarian.substack.com/p/publishers-roundup-10>
+
+---
+
+##  YOU LOVE TO SEE IT: You’re Rehired! 
+
+date: 2025-03-22, from: The Lever News
+
+ Federal workers are rehired, red states go green, a judge stops a different steal, and states repair consumer protections.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-youre-rehired/>
 

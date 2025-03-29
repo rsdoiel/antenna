@@ -1,11 +1,179 @@
 ---
 title: food
-updated: 2025-03-28 06:09:33
+updated: 2025-03-29 06:12:34
 ---
 
 # food
 
-(date: 2025-03-28 06:09:33)
+(date: 2025-03-29 06:12:34)
+
+---
+
+## Best Espresso Machines to Elevate Your Brew (2025)
+
+date: 2025-03-28, from: Bon Appetet
+
+A good espresso machine is an investment. But how much do you spend at the coffee shop every year? 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-espresso-machines>
+
+---
+
+## The Best Cookbooks of Spring 2025
+
+date: 2025-03-28, from: Bon Appetet
+
+Here are the titles our editors are cooking from at home—recipes included. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-cookbooks-spring-2025>
+
+---
+
+## I Taste-Tested the Pancakes at McDonald’s, Denny’s and IHOP—Here’s the Clear Winner
+
+date: 2025-03-28, from: Taste of Home
+
+<p>Pancakes for breakfast are a treat! Here's where to find the best stack.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/who-has-the-best-pancakes/">I Taste-Tested the Pancakes at McDonald&#8217;s, Denny&#8217;s and IHOP—Here’s the Clear Winner</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/who-has-the-best-pancakes/>
+
+---
+
+## I Made the Viral ‘Onion Ring Chips,’ and They’re As Tasty As They Look
+
+date: 2025-03-28, from: Taste of Home
+
+<p>You'll want to bake a few sheet pans of these crispy, cheesy onion ring chips.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/onion-ring-chips/">I Made the Viral &#8216;Onion Ring Chips,&#8217; and They&#8217;re As Tasty As They Look</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/onion-ring-chips/>
+
+---
+
+## Coffee Recall: 4,152 Bags of Coffee Accidentally Labled as Decaf
+
+date: 2025-03-28, from: Taste of Home
+
+<p>Check your pantry, because these decaf bags actually contain caffeinated coffee.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/our-family-coffee-recall-march-2025/">Coffee Recall: 4,152 Bags of Coffee Accidentally Labled as Decaf</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/our-family-coffee-recall-march-2025/>
+
+---
+
+## Chick-fil-A Just Landed at Costco, and Everyone Is Rushing to the Warehouse
+
+date: 2025-03-28, from: Taste of Home
+
+<p>Here's the delicious reason people are flocking to Costco.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chick-fil-a-sauce-at-costco/">Chick-fil-A Just Landed at Costco, and Everyone Is Rushing to the Warehouse</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chick-fil-a-sauce-at-costco/>
+
+---
+
+## Made In Dutch Oven: A More Affordable Pot I Love as Much as Le Creuset
+
+date: 2025-03-28, from: Bon Appetet
+
+Testing kitchen gear professionally has provided an opportunity to discover that the most lauded brands aren’t the only ones worth buying. 
+
+<br> 
+
+<https://www.bonappetit.com/story/made-in-dutch-oven-review>
+
+---
+
+## I Taste-Tested Hot Chips from Takis, Doritos and Cheetos—Here’s the Clear Winner
+
+date: 2025-03-28, from: Taste of Home
+
+<p>Which of these spice-dusted chips boasts the best flavor and right level of heat?</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/hot-cheetos-vs-takis-vs-doritos/">I Taste-Tested Hot Chips from Takis, Doritos and Cheetos—Here&#8217;s the Clear Winner</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/hot-cheetos-vs-takis-vs-doritos/>
+
+---
+
+## 6 Common Food Additives You Should Know About
+
+date: 2025-03-28, from: Bon Appetet
+
+Preservatives, emulsifiers, and other food additives perform pivotal roles in packaged foods. Here’s what you need to know about what they do. 
+
+<br> 
+
+<https://www.bonappetit.com/story/additives-red-dye-preservatives-emulsifiers-msg>
+
+---
+
+## Xanadu Coffee Closed ‘Until Further Notice’ as Founder Sentenced for Attempted Sex Trafficking
+
+date: 2025-03-28, from: Daily Coffee News
+
+<div><img width="620" height="405" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Maricopa-County-Courthouse-620x405.jpg" class="attachment-large size-large wp-post-image" alt="Maricopa County Courthouse" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Maricopa-County-Courthouse-620x405.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Maricopa-County-Courthouse-300x196.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Maricopa-County-Courthouse-150x98.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Maricopa-County-Courthouse-768x501.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Maricopa-County-Courthouse.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A day after its founding owner was sentenced in a Maricopa County courthouse for attempted sex trafficking with a minor, Phoenix-based Xanadu Coffee announced it is &#8220;closed until further notice.&#8221;... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/28/xanadu-coffee-closed-until-further-notice-as-founder-sentenced-for-attempted-sex-trafficking/>
+
+---
+
+## Ninja Just Launched the FlexFlame—And It Can Replace Your Grill, Pizza Oven and Griddle
+
+date: 2025-03-28, from: Taste of Home
+
+<p>Thinking about buying a new grill? You'll want to see this. Ninja's new FlexFlame Grill combines the prowess of a gas grill, pellet smoker, pizza oven and griddle.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ninja-flexflame/">Ninja Just Launched the FlexFlame—And It Can Replace Your Grill, Pizza Oven and Griddle</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ninja-flexflame/>
+
+---
+
+## Cauliflower Tacos
+
+date: 2025-03-28, from: Taste of Home
+
+Cauliflower tacos are the perfect vegetarian spin for your Meatless Monday or Taco Tuesday. Spiced cauliflower is roasted till crispy, then piled on soft tortillas with shredded cabbage and a creamy avocado sauce. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cauliflower-tacos/>
+
+---
+
+## Weekly Coffee News: Caffeine and Tinnitus + Recall in 15 States
+
+date: 2025-03-28, from: Daily Coffee News
+
+<div><img width="620" height="430" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-espresso-1-620x430.jpg" class="attachment-large size-large wp-post-image" alt="coffee espresso" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-espresso-1-620x430.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-espresso-1-300x208.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-espresso-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-espresso-1-768x532.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-espresso-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Researchers Say the Association Between Caffeine and Tinnitus Remains... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/28/weekly-coffee-news-caffeine-and-tinnitus-recall-in-15-states/>
 
 ---
 
@@ -85,12 +253,12 @@ date: 2025-03-27, from: Taste of Home
 
 ---
 
-## Jack Black Swears By This Recipe for Cheeseburger Mac n’ Cheese
+## Jack Black Swears By This Recipe for Cheeseburger Mac and Cheese
 
 date: 2025-03-27, from: Taste of Home
 
 <p>He's been making this comfort food mashup for over 20 years.</p>
-<p>The post <a href="https://www.tasteofhome.com/article/jack-black-cheeseburger-mac-n-cheese/">Jack Black Swears By This Recipe for Cheeseburger Mac n&#8217; Cheese</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/jack-black-cheeseburger-mac-n-cheese/">Jack Black Swears By This Recipe for Cheeseburger Mac and Cheese</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
  
 
 <br> 
@@ -103,7 +271,7 @@ date: 2025-03-27, from: Taste of Home
 
 date: 2025-03-27, from: Bon Appetet
 
-Psst: They're not just for bakers. 
+Psst: They’re not just for bakers. 
 
 <br> 
 
@@ -203,7 +371,7 @@ Few South Asian dishes are as exquisite as chicken biryani, with its fragrant sp
 
 date: 2025-03-27, from: Daily Coffee News
 
-<div><img width="620" height="445" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-620x445.jpg" class="attachment-large size-large wp-post-image" alt="coffee grinder 2" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-620x445.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-300x215.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-768x551.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Since the dawn of commercial coffee making, stones, rock fragments, shards and other detritus have been the mortal enemies of grinder burrs. The sound of one itsy bitsy stone on... 
+<div><img width="620" height="445" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-620x445.jpg" class="attachment-large size-large wp-post-image" alt="coffee grinder 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-620x445.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-300x215.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1-768x551.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-grinder-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Since the dawn of commercial coffee making, stones, rock fragments, shards and other detritus have been the mortal enemies of grinder burrs. The sound of one itsy bitsy stone on... 
 
 <br> 
 
@@ -215,7 +383,7 @@ date: 2025-03-27, from: Daily Coffee News
 
 date: 2025-03-27, from: Daily Coffee News
 
-<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Hutsul Coffee Factory 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-768x555.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new cafe by startup roasting company Hutsul Coffee Factory is sharing the culture and coffee style of Western Ukraine with Canadians in London, Ontario. Inside the same building as... 
+<div><img width="620" height="448" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-620x448.jpg" class="attachment-large size-large wp-post-image" alt="Hutsul Coffee Factory 3" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-620x448.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-300x217.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-150x108.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1-768x555.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Hutsul-Coffee-Factory-3-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>A new cafe by startup roasting company Hutsul Coffee Factory is sharing the culture and coffee style of Western Ukraine with Canadians in London, Ontario. Inside the same building as... 
 
 <br> 
 
@@ -323,7 +491,7 @@ date: 2025-03-26, from: Taste of Home
 
 date: 2025-03-26, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Cup of Excellence Vollers" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The organizers of the Cup of Excellence (CoE) coffee competition and auction program are switching online auction providers in 2025, partnering with V-Auction, part of the logistics conglomerate Vollers Group.&#160;... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Cup of Excellence Vollers" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Cup-of-Excellence-Vollers.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The organizers of the Cup of Excellence (CoE) coffee competition and auction program are switching online auction providers in 2025, partnering with V-Auction, part of the logistics conglomerate Vollers Group.&#160;... 
 
 <br> 
 
@@ -900,4 +1068,16 @@ date: 2025-03-23, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/succulent-shrimp-recipes/>
+
+---
+
+## Rice Kheer
+
+date: 2025-03-22, from: Taste of Home
+
+This delicately spiced and velvety smooth kheer recipe is made with simple pantry staples, and is great warmed or chilled. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/rice-kheer-recipe/>
 

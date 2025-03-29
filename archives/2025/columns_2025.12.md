@@ -1,11 +1,365 @@
 ---
 title: columns
-updated: 2025-03-28 06:09:28
+updated: 2025-03-29 06:12:29
 ---
 
 # columns
 
-(date: 2025-03-28 06:09:28)
+(date: 2025-03-29 06:12:29)
+
+---
+
+## curl up 2025
+
+date: 2025-03-28, from: Daniel Stenberg Blog
+
+Soon, in the first weekend of May 2025, we are gathering curl enthusiasts in a room in the wonderful city Prague and we talk curl related topics over two full days. We call it curl up 2025. curl up is our annual curl event and physical meetup. It is a low key and casual event &#8230; <a href="https://daniel.haxx.se/blog/2025/03/29/curl-up-2025/" class="more-link">Continue reading <span class="screen-reader-text">curl up 2025</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/03/29/curl-up-2025/>
+
+---
+
+## 2025-03-28 Locarno Camellia park
+
+date: 2025-03-28, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-28-locarno-camellia-park">2025-03-28 Locarno Camellia park</h1>
+
+<p>It’s spring and we went there. Locarno is in the canton Ticino, in the south of Switzerland, at the shores of Lago Maggiore (“big lake”) that it shares with Italy.</p>
+
+<p>They have a fantastic camellia park. In early spring, it&rsquo;s the best place to be.</p>
+
+<p>I tried to take pictures with my trusty Olympus EP-5 and the 30mm 1:3.5 macro lens. Sadly, I have been untrained by the phone and was confused by the settings and the tiny screen. Oh my! So this is mix of camera pictures and phone pictures.</p>
+
+<p><img loading="lazy" src="2025-03-25-camellias-1.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-2.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-3.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-4.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-5.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-6.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-7.jpg" alt="" /></p>
+
+<p><img loading="lazy" src="2025-03-25-camellias-8.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-9.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-10.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-11.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-12.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-13.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-14.jpg" alt="" /></p>
+
+<p><img loading="lazy" src="2025-03-25-camellias-15.jpg" alt="" />
+<img loading="lazy" src="2025-03-25-camellias-16.jpg" alt="" /></p>
+
+<p><img loading="lazy" src="2025-03-25-camellias-17.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a> <a class="tag" href="/search/?q=%23Camellias">#Camellias</a> <a class="tag" href="/search/?q=%23Locarno">#Locarno</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-25-camellias>
+
+---
+
+## March 27, 2025
+
+date: 2025-03-28, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160100429/89ce269d742e5d74b3bda0381c7012b4.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160100429/89ce269d742e5d74b3bda0381c7012b4.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-27-2025-2db>
+
+---
+
+##  Multi-Player plays a grid of multiple copies of a single YouTube video,... 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046533-multi-player-plays-a-grid>
+
+---
+
+## Trump’s car taxes on Americans 
+
+date: 2025-03-28, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-new-car-taxes-on-americans>
+
+---
+
+##  Conan O&#8217;Brien&#8217;s Mark Twain Prize Acceptance Speech 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/conan-obriens-mark-twain-prize-acceptance-speech>
+
+---
+
+## Friday Squid Blogging: Squid Werewolf Hacking Group
+
+date: 2025-03-28, updated: 2025-03-28, from: Bruce Schneier blog
+
+<p>In another rare squid/cybersecurity intersection, APT37 is also known as &#8220;<a href="https://gbhackers.com/squid-werewolf-mimics-recruiters/">Squid Werewolf</a>.&#8221;</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/03/friday-squid-blogging-squid-werewolf-hacking-group.html>
+
+---
+
+##  Rembrandt to Picasso: Five Ways to Spot a Fake Masterpiece. I&#8217;ve always... 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046508-rembrandt-to-picasso-five>
+
+---
+
+##  TV Garden: stream television channels from all over the world for free.... 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046531-tv-garden-stream-televisi>
+
+---
+
+##  Steve Coogan Plays Four Roles in Dr. Strangelove Stage Adaptation 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/steve-coogan-plays-four-roles-in-dr-strangelove-stage-adaptation>
+
+---
+
+##  March 2025 Anti-Trans National Risk Assessment Map. &#8220;The risk level for transgender... 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046529-march-2025-anti-trans-nat>
+
+---
+
+##  Apple has added the Lumon Terminal Pro computer to their devices lineup,... 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046528-apple-has-added-the-lumon>
+
+---
+
+##  The Design of the New Swiss Passport 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/the-design-of-the-new-swiss-passport>
+
+---
+
+##  Finally got around to reading Craig Mod&#8217;s &#8220;rules&#8221; for running his membership... 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046498-finally-got-around-to-rea>
+
+---
+
+## Both Haiku and Linux get new FOSS Nvidia drivers
+
+date: 2025-03-28, updated: 2025-03-28, from: Liam Proven's articles at the Register
+
+<h4>Thanks to Collabora&#39;s work on Zink and NVK… and indirectly to GPU-maker&#39;s FOSS release, too</h4>
+      <p>Not one but two new drivers for some Nvidia GPUs is a promising, if indirect, offshoot of the GPU maker&#39;s open-saucy moves.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/28/haiku_linux_foss_nvidia_drivers/>
+
+---
+
+## ChatGPT 4o Adds Image Generation and It’s Fun as Hell
+
+date: 2025-03-28, updated: 2025-03-28, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://spyglass.org/openai-product-launches/>
+
+---
+
+##  The Atlantic handled &#8216;Signalgate&#8217; with good judgment. &#8220;The journalists&#8217; actions &#8216;could be... 
+
+date: 2025-03-28, updated: 2025-03-28, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046526-the-atlantic-handled-sign>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-28, from: Dave Winer's Scripting News)
+
+When your AI bot gave you code that worked do you go back and thank it and say it worked? I do. I don't feel complete until I do. 
+
+<br> 
+
+<http://scripting.com/2025/03/28.html#a145853>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-28, from: Dave Winer's Scripting News)
+
+When you put a hack into a piece of software you have to say out loud "It's a hack." That makes it okay. 
+
+<br> 
+
+<http://scripting.com/2025/03/28.html#a145411>
+
+---
+
+## We had it all on the web, and we will again
+
+date: 2025-03-28, from: Dave Winer's Scripting News
+
+<p>When we flatten out the differences between the different social networks, we'll start with their RSS feeds, if it works, ultimately there will be no need for different social networks. And again, if it works, we'll bring back the features of the open web that Twitter left out.</p>
+<p>This is a much better approach to federation, delivers the benefits long before hashing out the diffs betw ATP and ActivityPub will take. And we really have the choice that Bluesky says they will deliver, and yes, it will also be billionaire-proof.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/28/142546.html?title=weHadItAllOnTheWebAndWeWillAgain>
+
+---
+
+## DIY PTP Grandmaster Clock with a Raspberry Pi
+
+date: 2025-03-28, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">DIY PTP Grandmaster Clock with a Raspberry Pi</span>
+
+            <blockquote>
+  <p><strong>tl;dr</strong>: I set up an open source <a href="https://github.com/geerlingguy/time-pi">Time Pi project</a> to build a stratum 1 PTP and NTP timeserver using a Raspberry Pi.</p>
+</blockquote>
+
+<p>Time is important to modern society, and most of us have a clock on our wrist that's more accurate than at any time in human history. But <em>highly precise</em> time is important in many industries, especially robotics, finance, and media production. And with tech like VR working its way into homes, precise time may become more important <em>there</em>, too.</p>
+
+<p>The timing industry has many solutions for 'grandmaster' clocks, which take in highly accurate time from GPS, GNSS, or other atomic-clock-backed time sources, and distribute it to local networks with <em>extreme</em> precision—down to the nanosecond range—using PTP.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">March 28, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/diy-ptp-grandmaster-clock-raspberry-pi>
+
+---
+
+## More art examples
+
+date: 2025-03-28, from: Dave Winer's Scripting News
+
+<p>I gave ChatGPT a picture of a man and woman, reading the screen of a computer, then asked for various renditions. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/28/davinci.png"></center>In the style of Leonardo da Vinci.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/28/steinbeck.png"></center>In the style of the cover of a John Steinbeck novel.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/28/huckFinn.png"></center>As if it were an illustration inside Huckleberry Finn by Mark Twain.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/28/orangeNewBlack.png"></center>As if it were Mr Caputo and Chapman from Orange is the New Black.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/28/succession.png"></center>From Succession with Logan and Sioban Roy.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/28/severance.png"></center>From Severance, with Mark S and Helly R.</div></p>
+<p>If you step through the pictures after giving each a bit of your time, by the time you get here, if you were asked if it's art, I hope you'd say Who cares. If it helps you see something new about anything (probably yourself) whether or not it's art is not the most interesting thing.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/28/135826.html?title=moreArtExamples>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-28, from: Miguel de Icaza Mastondon feed)
+
+<p>God I love the comments section on this new app: <a href="https://www.reddit.com/r/swift/comments/1jlmxks/my_first_paid_app/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://www.</span><span class="ellipsis">reddit.com/r/swift/comments/1j</span><span class="invisible">lmxks/my_first_paid_app/</span></a></p><p>Edit: actually just three comments, but they are good.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114240371611858055>
+
+---
+
+## Is software art?
+
+date: 2025-03-28, from: Dave Winer's Scripting News
+
+<p>I believe it is. When people say my software thinks like they do, what's really happening is the software has gotten out of their way, they've incorporated the way it works into the base of their spine, so they can remain in the world they're writing about, and forget that they're using a piece of software. They perceive that as the software thinking like they do, which is fine -- it's the goal. But it's quite possible they have a totally different experience that takes them out of their suspension of disbelief by not working the way they expect, the same way it did the last 100 times, or it failes to open a file, or whatever might cause them to leave their own world and have to deal with the one I, and generations of software developers, have created, which can (as I know) be excruciating, humiliating, and whatever else you may feel. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/28/133340.html?title=isSoftwareArt>
+
+---
+
+## What is art?
+
+date: 2025-03-28, from: Dave Winer's Scripting News
+
+<p>Yesterday I <a href="http://scripting.com/2025/03/27/131121.html">posted</a> four new ChatGPT-created drawings, created with the latest upgrade of ChatGPT's drawing functions which are better than previous versions. The usual controversy is rekindled on the networks. The concern as always is that it learned how from human artists, puts artists out of business, and human artists create art, machines can't, and since this is created by software, it isn't art. </p>
+<p>This gives me a chance to write a piece I've been wanting to write for a while. The meaning of art imho comes from what it says to and about the person observing it, what it does to them, how it changes them, what they experience. For most people, most of the time, they don't have any idea who created the art beyond their name, nationality and when they lived. If you see enough of their work, you learn about the work, not the person. What you learn from art is always going to be about yourself.  </p>
+<p>My father once told me, in all seriousness, the cliche about an abstract work of art -- it isn't art, my father said. I said to him, Dad that you feel so strongly about it means to you it most definitely <i>is</i> art. I believe if he were more truthful about his response, he would say what's behind the feeling, he's experiencing dishonesty, stolen valor, the artist is a profiteer, the person who made it a <i>con</i> artist not a real artist. Pretty similar to what people say in 2025 about art-making machines. </p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/28/124753.html?title=whatIsArt>
 
 ---
 
@@ -435,7 +789,7 @@ date: 2025-03-27, from: Dave Winer's Scripting News
 
 date: 2025-03-27, from: Doc Searls (at Harvard), New Old Blog
 
-Here&#39;s to a lifetime of &#34;What&#39;s that?&#34; Gothamist: This SoHo brewpub is offering a year of free beer if you get a tattoo of its logo. And what if it goes out of business next month? Or whenever? Though suspiciously perfected. As TV series go, Reacher is candy. But we enjoy it. If you do too, this [&#8230;] 
+And just one for New Jersey! iLoveFood says the best pizza in Indiana is Mother Bear&#8217;s here in Bloomington. Problem: it isn&#8217;t. Osteria Rago&#8217;s is better. Not that MB&#8217;s is bad. It&#8217;s good. Just not better than Osteria&#8217;s. I&#8217;m also betting there must be a better pizza than both somewhere in Indianapolis. iLoveFood also names top [&#8230;] 
 
 <br> 
 
@@ -2224,4 +2578,300 @@ Enshittification as a matter of taste by Dave Rupert To me, enshittification mea
 <br> 
 
 <https://tracydurnell.com/2025/03/22/when-profit-trumps-principles/>
+
+---
+
+## The Trump daymare
+
+date: 2025-03-22, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-trump-day-mare>
+
+---
+
+## March 21, 2025
+
+date: 2025-03-22, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159644749/f840558af2a8ffaa1fac54ffccd14bb6.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159644749/f840558af2a8ffaa1fac54ffccd14bb6.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-21-2025-9e1>
+
+---
+
+## Heavy Whether
+
+date: 2025-03-22, from: Doc Searls (at Harvard), New Old Blog
+
+We&#39;ll know soon. Whether or not you&#39;re watching St. John&#39;s playing Arkansas, right now, in the NCAA&#39;s March Madness tournament, take out a minute and a half to take in Jimmy Fallon and the boys singing the Red Storm Shanty. Lou Carnaseca must be glowing in his grave. (Later: they lost.) 
+
+<br> 
+
+<https://doc.searls.com/2025/03/22/heavy-whether-2/>
+
+---
+
+## Paving cowpaths
+
+date: 2025-03-22, from: Dave Winer's Scripting News
+
+<p><img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/04/10/cow.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A funny thing. A few months back someone told me that I had been gone from the podcast world for too long for anyone to listen to me. I thought how weird, I didn't go anywhere at all, I stayed exactly <a href="http://scripting.com/">where</a> I was, all the time. Virtually every day. If people cared to know what I think they could have found out pretty quickly because I am of course an <a href="http://scripting.com/stories/2009/11/24/naturalbornBlogger.html">NBB</a>. I talk about what I think all the time. (And besides, why do you care where you get ideas from, I don't.)</p>
+<p>Anyway, the idea was about a <a href="https://this.how/podcasting/index.opml#1733322866000">feature for podcasting</a> that would open up doors for influencers and ad hoc networks of podcasts, instead of a few dozen weak (imho) attempts to build synergy, I trust that invisible hand Darwinian ecosystem builds better networks, because they are real, not contrived. </p>
+<p>Give the people the tools and see what happens. </p>
+<p>Users and developers party together.</p>
+<p>That's the opposite of the "move fast and break things" approach to technology, instead it's "paving the cowpaths," the process that has always fascinated me and been the method to my madness. Make the tools, give them to the people and sit back and hope something happens. When it doesn't try to show the way. And try out lots of these kinds of ideas. </p>
+<p>This method really works, and it isn't destructive, it's totally constructive. (Actually it does destroy what was there before, but in a merciful way, they get a chance to jump on the train, even if they rarely do, but NPR got on early with podcasting, and the NYT with RSS.)</p>
+<p>PS: I did not invent "paving cowpaths" -- it's been around for a long time, like <a href="https://www.goodreads.com/work/quotes/1905885-the-mythical-man-month-essays-on-software-engineering">mythical man-month</a> and the like. It's pretty much the same thing as <a href="http://scripting.com/davenet/2000/11/30/bootstrapping.html">bootstrapping</a>, which I also advocate.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/22/140333.html?title=pavingCowpaths>
+
+---
+
+## 2025-03-21 A summary of my bot defence systems
+
+date: 2025-03-22, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-21-a-summary-of-my-bot-defence-systems">2025-03-21 A summary of my bot defence systems</h1>
+
+<p>If you&rsquo;ve followed my <a href="Butlerian_Jihad">Butlerian Jihad</a> pages, you know that I&rsquo;m constantly fiddling with the setup.
+Each page got written in the middle of an attack as I&rsquo;m trying to save my sites, documenting as I go along. But if
+you&rsquo;re looking for an overview, there is nothing to see. It&rsquo;s all over the place. Since the topic has gained some
+traction in recent days, I&rsquo;m going to assemble all the things I do on this page.</p>
+
+<p>Here&rsquo;s Drew DeVault complaining about the problem that system administrators have been facing for a while, now:</p>
+
+<blockquote>
+<p>If you think these crawlers respect <code>robots.txt</code> then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, <code>robots.txt</code> be damned, including expensive endpoints like git blame, every page of every git log, and every commit in every repo, and they do so using random User-Agents that overlap with end-users and come from tens of thousands of IP addresses – mostly residential, in unrelated subnets, each one making no more than one HTTP request over any time period we tried to measure – actively and maliciously adapting and blending in with end-user traffic and avoiding attempts to characterize their behavior or block their traffic. &ndash; <a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html">Please stop externalizing your costs directly into my face</a>, by Drew DeVault, for SourceHut</p>
+</blockquote>
+
+<p>I had read some similar reports before, on fedi, but this one links to quite a few of them: <a href="https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Niccolò Venerandi, for LibreNews.</p>
+
+<p>I&rsquo;m going to skip the defences against spam as spam hasn&rsquo;t been a problem in recent months, surprisingly.</p>
+
+<p>The first defence against bots is <code>robots.txt</code>. All well-behaving bots should read it every now and then and then either stop crawling
+the site or slow down.</p>
+
+<p>Let&rsquo;s look at the file <a href="https://www.emacswiki.org/robots.txt">for Emacs Wiki</a>.</p>
+
+<p>If I find that there are lot of requests from a particular user agent that looks like bot, and it has a URL where I can find instructions
+for how to address it in <code>robots.txt</code>, this is what I do. I tell them to stop crawling the entire site. Most of these are search engine optimizers, brand awareness monitors and other such creeps.</p>
+
+<p>The file also tells all well-behaving crawlers to slow down to a glacial tempo and it lists all the expensive endpoints that they should not be crawling at all. Conversely, this means that any bot that still crawls those URLs is a misbehaving bot and deserves to be blocked.</p>
+
+<p>Worth noting, perhaps, that &ldquo;an expensive endpoint&rdquo; means a URL that runs some executable to do something complicated, resulting in an answer that&rsquo;s always different. If the URL causes the web server to run a CGI script, for example, the request loads Perl, loads a script, loads all its libraries, compiles it all, runs it once, and answers with the request with the output. And since the answer is dynamic, it can&rsquo;t very well be cached, or additional complexity needs to be introduced and even more resources need to be allocated and paid for. In short, an expensive end-point is like loading an app. It&rsquo;s slow but useful, if done rarely. So you&rsquo;d do this for a human, for example. It&rsquo;s a disaster if bots swarm all over the site, clicking on every link.</p>
+
+<p>It&rsquo;s also worth noting that not all my sites have the same expensive endpoints and so the second half of <code>robots.txt</code> can vary. Which makes maintenance of the first half a chore. I have a little script that allows me to add one bot to &ldquo;all&rdquo; the files, but it&rsquo;s annoying to have to do that. And I recently just copied a list from an <a href="https://robotstxt.com/ai">AI / LLM User-Agents: Blocking Guide</a>.</p>
+
+<p>I use Apache as my web-server and I have a bunch of global configuration files to handle misbehaving bots and crawlers.</p>
+
+<p>This example blocks fediverse agents from accessing my site. That&rsquo;s because whenever anybody post a URL to one of my sites, within the next
+60 seconds, all the servers with users getting a copy of the URL will fetch a preview. That means hundreds of hits. This is particularly
+obnoxious for expensive endpoints. This response here tells them that they are forbidden from accessing the page.</p>
+
+<pre><code># Fediverse instances asking for previews: protect the expensive endpoints
+RewriteCond %{REQUEST_URI} /(wiki|download|food|paper|hug|helmut|input|korero|check|radicale|say|mojo|software)
+RewriteCond %{HTTP_USER_AGENT} Mastodon|Friendica|Pleroma [nocase]
+# then it's forbidden
+RewriteRule ^(.*)$ - [forbidden,last]
+</code></pre>
+
+<p>These are the evil bots that self-identify as a bot but don&rsquo;t seem to heed the <code>robots.txt</code> files. These are all told that whatever page they were looking for, it&rsquo;s now gone (410). And if there&rsquo;s a human looking at the output, it even links to an explanation. Adding new user agents to this list is annoying because I need to connect as root and restart the web server after making any changes.</p>
+
+<pre><code># SEO bots, borked feed services and other shit
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;academicbotrtu|ahrefsbot|amazonbot|awariobot|bitsightbot|blexbot|bytespider|dataforseobot|discordbot|domainstatsbot|dotbot|elisabot|eyemonit|facebot|linkfluence|magpie-crawler|megaindex|mediatoolkitbot|mj12bot|newslitbot|paperlibot|pcore|petalbot|pinterestbot|seekportbot|semanticscholarbot|semrushbot|semanticbot|seokicks-robot|siteauditbot|startmebot|summalybot|synapse|trendictionbot|twitterbot|wiederfrei|yandexbot|zoominfobot|velenpublicwebcrawler|gpt|\bads|feedburner|brandwatch|openai|facebookexternalhit|yisou|docspider&quot; [nocase]
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>For some of my sites, I disallow all user agents containing the words &ldquo;bot&rdquo;, &ldquo;crawler&rdquo;, &ldquo;spider&rdquo;, &ldquo;ggpht&rdquo; or &ldquo;gpt&rdquo; with the exception of &ldquo;archivebot&rdquo; and &ldquo;wibybot&rdquo; because these two bots I want to give access. Again, these bots are all told that whatever page they were looking for, it&rsquo;s now gone (410).</p>
+
+<pre><code># Private sites block all bots and crawlers. This list does no include
+# social.alexschroeder.ch, communitywiki.org, www.emacswiki.org,
+# oddmuse.org, orientalisch.info, korero.org.
+RewriteCond &quot;%{HTTP_HOST}&quot; &quot;^((src\.)?alexschroeder\.ch|flying-carpet\.ch|next\.oddmuse\.org|((chat|talk)\.)?campaignwiki\.org|((archive|vault|toki|xn--vxagggm5c)\.)?transjovian\.org)$&quot; [nocase]
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;!archivebot|^gwene|wibybot&quot; [nocase]
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;bot|crawler|spider|ggpht|gpt&quot; [nocase]
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>I also eliminate a lot of bots looking for PHP endpoints. I can do this because I know that I don&rsquo;t have any PHP application installed.</p>
+
+<pre><code># Deny all idiots that are looking for borked PHP applications
+RewriteRule \.php$ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>There&rsquo;s also one particular image scraper that&rsquo;s using a unique string in its user agent.</p>
+
+<pre><code># Deny the image scraper
+# https://imho.alex-kunz.com/2024/02/25/block-this-shit/
+RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;Firefox/72.0&quot; [nocase]
+RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
+</code></pre>
+
+<p>Next, all requests get logged by Apache in the <code>access.log</code> file. I use <code>fail2ban</code> to check this logfile. This is somewhat interesting
+because <code>fail2ban</code> is usually used to check for failed ssh login attempts. Those IP numbers that fail to login in a few times are banned.
+What I&rsquo;m doing is I wrote a filter that treats every hit on the web server as a &ldquo;failed login attempt&rdquo;.</p>
+
+<p>This is the filter:</p>
+
+<pre><code>[Definition]
+# Most sites in the logfile count! What doesn't count is fedi.alexschroeder.ch, or chat.campaignwiki.org.
+failregex = ^(www\.)?(alexschroeder\.ch|campaignwiki\.org|communitywiki\.org|emacswiki\.org|flying-carpet\.ch|korero\.org|oddmuse\.org|orientalisch\.info):[0-9]+ &lt;HOST&gt; 
+
+# Except css files, images...
+ignoreregex = ^[^&quot;]*&quot;(GET /(robots\.txt |favicon\.ico |[^/ \&quot;]+\.(css|js) |[^\&quot;]*\.(jpg|JPG|png|PNG) |css/|fonts/|pdfs/|txt/|pics/|export/|podcast/|1pdc/|static/|munin/|osr/|indie/|rpg/|face/|traveller/|hex-describe/|text-mapper/|contrib/pics/|roll/|alrik/|wiki/download/)|(OPTIONS|PROPFIND|REPORT) /radicale)
+</code></pre>
+
+<p>And this is the jail, saying that any IP number may make 30 hits in 60 seconds. If an IP number exceeds this (2s per page!) then it
+gets blocked at the firewall for 10 minutes.</p>
+
+<pre><code>[alex-apache]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 60
+maxretry = 30
+</code></pre>
+
+<p>I also have another filter for a particular substring in URLs that I found the bots are requesting all the time:</p>
+
+<pre><code>[Definition]
+failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
+</code></pre>
+
+<p>The corresponding jail says that when you trigger request such a URL for the third time in an hour, you&rsquo;re blocked at the firewall for 10 minutes.</p>
+
+<p>[alex-bots]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 3600
+maxretry = 2</p>
+
+<p>(At the same time, these URL&rsquo;s redirect to <a href="https://www.emacswiki.org/nobots">a warning</a> so that humans know that this is a trap.)</p>
+
+<p>Furthermore, <code>fail2ban</code> also comes with a <code>recidive</code> filter that watches its own logs. If an IP has been banned five times in a day, it gets banned for a week.</p>
+
+<pre><code>[recidive]
+enabled = true
+</code></pre>
+
+<p>To add to the <code>alex-bots</code> jail, here&rsquo;s what my Apache configuration says: RSS feeds for single pages are errors.</p>
+
+<pre><code>RewriteCond %{QUERY_STRING} action=rss
+RewriteCond %{QUERY_STRING} rcidonly=.*
+RewriteRule .* /error.rss [last]
+</code></pre>
+
+<p>Note that all my sites also use the following headers, so anybody ignoring these is also a prime candidate for blocking.</p>
+
+<pre><code># https://github.com/rom1504/img2dataset#opt-out-directives
+Header always set X-Robots-Tag: noai
+Header always set X-Robots-Tag: noimageai
+</code></pre>
+
+<p>All of the above still doesn&rsquo;t handle extremely distributed attacks. In such situations, almost all IP numbers are unique. What I try to do in this situation is block the entire IP range that they come from.
+I scan the <code>access.log</code> for IP numbers that connected to a URL that shouldn&rsquo;t be used by bots because of <code>robots.txt</code>, containing <code>rcidonly</code> because I know humans will very rarely click it and it&rsquo;s expensive to serve. For each such IP number, I determine the IP range they come from, and then I block it all.</p>
+
+<p>Basically, this is what I keep repeating:</p>
+
+<pre><code># prefix with a timestamp
+date
+# log some candidates without whois information, skipping my fedi instance
+tail -n 2000 /var/log/apache2/access.log \
+ | grep -v ^social \
+ | grep &quot;rcidonly&quot; \
+ | bin/admin/network-lookup-lean &gt; result.log
+# count
+grep ipset result.log|wc -l
+# add
+grep ipset result.log|sh
+# document
+grep ipset result.log&gt;&gt;bin/admin/ban-cidr
+</code></pre>
+
+<p>You can find the scripts in my <a href="https://alexschroeder.ch/admin/">admin collection</a>.</p>
+
+<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
+
+<p><strong>2025-03-22</strong>. The drawback of using the firewall to ban broad swaths of the Internet is that these networks host bots (bad) but also networked services that I&rsquo;m interested in (good). Yesterday I found that <a class="account" href="https://come-from.mad-scientist.club/@algernon" title="@algernon@come-from.mad-scientist.club">@algernon</a> had gone silent, had been silent for quite a while, and yet I kept seeing replies to them by others. Something was off. We got into contact via an alt account and indeed, I had blocked the IPv4 range his server was on.</p>
+
+<p>So by my count I already had to unblock three networks on my list. It&rsquo;s not a great solution, to be honest.
+And it doesn&rsquo;t expire, either. The list still contains 47021 IP ranges.</p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-21-defence-summary>
+
+---
+
+## Giving Trump Shit | The Coffee Klatch for March 22, 2025
+
+date: 2025-03-22, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159568600/591fc93ccde14986c57ee59adb3f9690.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/159568600/591fc93ccde14986c57ee59adb3f9690.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/giving-trump-shit-the-coffee-klatch>
+
+---
+
+## March 21, 2025
+
+date: 2025-03-22, from: Heather Cox Richardson blog
+
+These days, I keep coming back to the quotation recorded by journalist Ron Suskind in a New York Times Magazine article in 2004. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-21-2025>
+
+---
+
+## Weeknotes: March 15-21, 2025
+
+date: 2025-03-22, from: Tracy Durnell Blog
+
+Win of the week: got out and took some pictures in the garden with the ol&#8217; dSLR 🌸 Looking forward to: I&#8217;m working on a blog post I&#8217;m excited about and requested some books from the library for research 🤓 Stuff I did: 7 hours consulting 1.75 hours writing &#8212; had a good talk with my [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/21/weeknotes-march-15-21-2025/>
+
+---
+
+## Early spring osoberry bloom (photos)
+
+date: 2025-03-22, from: Tracy Durnell Blog
+
+Second day of spring in Seattle and the osoberries are flowering! We picked these to plant in the restoration because our neighbor had one huge, beautiful specimen behind his yard. About 8 or 9 years old, planted from bareroot, they&#8217;re easily 10-15 feet tall now. I love how the flowers seem to float against the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/21/early-spring-osoberry-bloom-photos/>
+
+---
+
+## The shame of Columbia University 
+
+date: 2025-03-22, from: Robert Reich's blog
+
+In surrendering to Trump, it's opening all universities to Trump's tyranny 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-shame-of-columbia-university>
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-03-28 06:09:30
+updated: 2025-03-29 06:12:32
 ---
 
 # libraries
 
-(date: 2025-03-28 06:09:30)
+(date: 2025-03-29 06:12:32)
 
 ---
 
@@ -182,7 +182,7 @@ Katkeviciute, Egle; Bircher, Anna; Sanchez, Rocio; Schwill, Martin; Dorst, Andre
 
 date: 2025-03-24, from: Association of Research Libraries News
 
-<p>Last Updated on March 24, 2025, 2:04 pm ET ARL Public Policy Briefing (March 2025) This issue includes: Access to Information ARL Advocates for Strong Support of US National Archives...</p>
+<p>Last Updated on March 28, 2025, 3:30 pm ET ARL Public Policy Briefing (March 2025) This issue includes: Access to Information ARL Advocates for Strong Support of US National Archives...</p>
 <p>The post <a href="https://www.arl.org/our-priorities/advocacy-public-policy/public-policy-briefing/march-2025/">March 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
@@ -215,4 +215,16 @@ Ruggia, Alessandra
 <br> 
 
 <http://hdl.handle.net/20.500.11850/728197>
+
+---
+
+## Estimation of energy efficiency of heat pumps in residential buildings using real operation data
+
+date: 2025-03-22, from: ETH Zurich, recently added
+
+Brudermueller, Tobias; Potthoff, Ugne; Fleisch, Elgar; Wortmann, Felix; Staake, Thorsten 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/728289>
 

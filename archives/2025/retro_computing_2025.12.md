@@ -1,11 +1,61 @@
 ---
 title: retro computing
-updated: 2025-03-28 06:09:31
+updated: 2025-03-29 06:12:33
 ---
 
 # retro computing
 
-(date: 2025-03-28 06:09:31)
+(date: 2025-03-29 06:12:33)
+
+---
+
+## Adam Osborne Interview by Practical Computing (1983)
+
+date: 2025-03-28, from: Computer ads from the Past
+
+Osborne reveals his philosophy 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/adam-osborne-interview-by-practical>
+
+---
+
+## b.log 2025/03/28 - Should I just give up on PlingStore?, Bye bye W H Smith, McNuggets!
+
+date: 2025-03-28, from: Richard Murray's blog
+
+Should I just give up on PlingStore?, Bye bye W H Smith, McNuggets! 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250328>
+
+---
+
+## This Week on The Analog Antiquarian
+
+date: 2025-03-28, from: Digital Antiquarian
+
+The Voyage of Magellan, Chapter 26: Homeward Bound 
+
+<br> 
+
+<https://www.filfre.net/2025/03/this-week-on-the-analog-antiquarian/>
+
+---
+
+## &quot;Moonshots&quot; Initiative to Secure the Future of the OS
+
+date: 2025-03-28, from: RiscOS Open
+
+<p>Cambridge, UK – 28-Mar-2025 – <span class="caps">RISC</span> OS Open Limited (<span class="caps">ROOL</span>) is calling on the global technology community to support a bold new initiative to secure the long-term future of <span class="caps">RISC</span> OS. The company today announced the launch of its Moonshots programme &#8211; a strategic shift away from incremental development, towards large-scale engineering efforts aimed at modernising the operating system for next-generation Arm architectures.</p>
+<center><img src="/images/risc_os_open/moonshot-logo-sm-black.png" alt="" /></center>
+<p><span class="caps">RISC</span> OS, originally developed alongside the first Arm chips in Cambridge, remains a uniquely simple and efficient desktop operating system. It has found renewed interest in recent years thanks to its availability on the Raspberry Pi and its open-source licensing model. However, the platform now faces an existential challenge.</p> 
+
+<br> 
+
+<https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os>
 
 ---
 
@@ -378,4 +428,28 @@ The RISC OS North show takes place this saturday in Warrington.
 <br> 
 
 <http://www.iconbar.com/comments/rss/news2176.html>
+
+---
+
+## b.log 2025/03/22 - Holiday!, Mowing, Equinox, What the hell Mars?, The chuggers were fake!, Ghost notes, My first ever food delivery is imminent, I hadn't meant to wreck my shoulders today.
+
+date: 2025-03-22, from: Richard Murray's blog
+
+Holiday!, Mowing, Equinox, What the hell Mars?, The chuggers were fake!, Ghost notes, My first ever food delivery is imminent, I hadn't meant to wreck my shoulders today. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250322>
+
+---
+
+## Usurpator II Chess for the 6502
+
+date: 2025-03-22, from: Hans Otten's Retro blog
+
+Usurpator Chess for the 6800 and 6502, a book by H.G. Muller A small but capable chess playing program. Source published in the book for AIM 65.Typed in again in March 2025 and adapted for the KIM-1. See also:Focal-65 V3D for TIM and KIM-1Focal on the 6502, a page on this small language, originating for [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/usurpator-ii-chess-for-the-6502/>
 

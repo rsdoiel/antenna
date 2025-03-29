@@ -1,11 +1,76 @@
 ---
 title: journalism
-updated: 2025-03-28 06:09:29
+updated: 2025-03-29 06:12:30
 ---
 
 # journalism
 
-(date: 2025-03-28 06:09:29)
+(date: 2025-03-29 06:12:30)
+
+---
+
+## Students seek PAWS-itivity during midterms
+
+date: 2025-03-28, from: The Sundail (CSUN Student Newspaper)
+
+The Blues Project Resource Fair offered more than just information; therapy dogs were there to greet students and ease their anxiety, embodying the event’s focus on mental health. The event,... 
+
+<br> 
+
+<https://sundial.csun.edu/191771/news/students-seek-paws-itivity-during-midterms/>
+
+---
+
+## Preview: CSUN’s Big Show Featuring Deorro
+
+date: 2025-03-28, from: The Sundail (CSUN Student Newspaper)
+
+Deorro will take the stage at CSUN’s Big Show on Saturday, March 29, at the University Library Lawn. Deorro is an LA-based Mexican-American DJ with over 7 million monthly listeners... 
+
+<br> 
+
+<https://sundial.csun.edu/191768/arts-entertainment/preview-csuns-big-show-featuring-dj-deorro/>
+
+---
+
+## Department of Justice investigates UCLA for alleged use of affirmative action
+
+date: 2025-03-28, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Department of Justice announced an investigation into UCLA on Thursday for the alleged use of affirmative action when admitting students.
+A 2023 Supreme Court ruling made it illegal to consider race in the college admissions process nationwide, but affirmative action was already illegal across the UC at the time due to California voters passing Proposition 209 – which banned the practice in public employment, education and contracting – in 1996. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/28/department-of-justice-investigates-ucla-for-alleged-use-of-affirmative-action/>
+
+---
+
+## Festival highlights diversity of humanities
+
+date: 2025-03-28, from: The Round Up (Pierce College Student Newspaper)
+
+<p>Professors Christopher Strickland and Sheryl Nomelli organized a festival for students and faculty on March 19 and 20, sharing the diversity and depth of the</p>
+<p>The post <a href="https://theroundupnews.com/2025/03/28/festival-highlights-diversity-of-humanities/">Festival highlights diversity of humanities</a> appeared first on <a href="https://theroundupnews.com"></a>.</p>
+ 
+
+<br> 
+
+<https://theroundupnews.com/2025/03/28/festival-highlights-diversity-of-humanities/?utm_source=rss&utm_medium=rss&utm_campaign=festival-highlights-diversity-of-humanities>
+
+---
+
+## College of the Canyons is handing out ‘Constitutional Rights’ cards to keep students and faculty informed
+
+date: 2025-03-28, from: The Canyon News (COC Student Newspaper)
+
+<p>At College of the Canyons, small cards are making a big statement.&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/red-cards/">College of the Canyons is handing out &#8216;Constitutional Rights&#8217; cards to keep students and faculty informed</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/red-cards/>
 
 ---
 

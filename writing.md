@@ -1,11 +1,63 @@
 ---
 title: writing
-updated: 2025-03-28 06:09:29
+updated: 2025-03-29 06:12:30
 ---
 
 # writing
 
-(date: 2025-03-28 06:09:29)
+(date: 2025-03-29 06:12:30)
+
+---
+
+## Death of a Unicorn Review: A Wickedly Clever Monster Movie? by Erin Underwood
+
+date: 2025-03-28, from: Locus Magazine
+
+<p><strong>Death of a Unicorn</strong> blends fantasy and horror with a weird monster movie twist, but is it enough to refresh a somewhat stale fantasy trope? Written and directed by Alex Scharfman, this A24’s genre-crossing film stars Paul Rudd and Jenna Ortega as the father-daughter duo of the story along with a talented cast of supporting actors including Richard E. Grant, Téa Leoni, and Steve Park among others. A24 is known  <a href="https://locusmag.com/2025/03/death-of-a-unicorn-review-a-wickedly-clever-monster-movie-by-erin-underwood/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/death-of-a-unicorn-review-a-wickedly-clever-monster-movie-by-erin-underwood/>
+
+---
+
+## 💭 #242 - Knowing Me, Knowing You
+
+date: 2025-03-28, from: Interesting, a blog on writing
+
+How do characters show their emotional intelligence? 
+
+<br> 
+
+<https://inneresting.substack.com/p/242-knowing-me-knowing-you>
+
+---
+
+## 'Black Bag': How to Write a Spy Movie that Sells
+
+date: 2025-03-28, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/black-bag-how-to-write-a-spy-movie-that-sells" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Cate%20Blanchett%20walking%20outside%20in%20Black%20Bag.png" alt="Cate Blanchett walking outside in Black Bag" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>International intrigue. Secret agencies. Clandestine operations. Who doesn’t love a spy movie? From big action blockbusters like the <em>Mission: Impossible</em> and the <em>Bourne Identity</em> series, to smaller scale arthouse films like The <em>Imitation Game</em> and even family movies like <em>Spy Kids</em>, there always seems to be a market for the spy movie, and they often attract top talent.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/black-bag-how-to-write-a-spy-movie-that-sells>
+
+---
+
+## 2025 IAFA Awards Winners
+
+date: 2025-03-28, from: Locus Magazine
+
+<p>Winners of several awards given by the International Association for the Fantastic in the Arts (IAFA) were announced during the 46th International Conference on the Fantastic in the Arts (ICFA 43), held March 19-22, 2025 in Orlando FL.</p>
+<p>&#8220;Parasitism, Coexistence, and Colonialism in Animorphs&#8221; by Miranda Miller won the David G. Hartwell Emerging Scholar Award, which gives a $250 stipend &#8220;to the graduate student submitting the most outstanding paper.&#8221; An  <a href="https://locusmag.com/2025/03/2025-iafa-awards-winners/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/2025-iafa-awards-winners/>
 
 ---
 
@@ -407,4 +459,18 @@ date: 2025-03-23, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/03/the-west-passage-wins-crawford-award/>
+
+---
+
+## Beneath Ceaseless Skies and Diabolical Plots: Reviews by Charles Payseur
+
+date: 2025-03-22, from: Locus Magazine
+
+<p>Beneath Ceaseless Skies 12/26/24
+Diabolical Plots 12/24</p>
+<p>There’s only one December issue of Beneath Ceaseless Skies this year, and it contains a pair of epistolary stories dealing with injustice, royalty, and punishment. <strong>Shoshana Groom</strong>’s “<strong>The Be­loved Sisters of the Sun-Bleached Hills</strong>” unfolds as a series of letters between sisters Zarina and Durdana, who live in different kingdoms but who are facing the same alarming trend – their  <a href="https://locusmag.com/2025/03/beneath-ceaseless-skies-and-diabolical-plots-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/beneath-ceaseless-skies-and-diabolical-plots-reviews-by-charles-payseur/>
 

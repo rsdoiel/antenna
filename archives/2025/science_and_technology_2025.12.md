@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-03-28 06:09:27
+updated: 2025-03-29 06:12:28
 ---
 
 # science and technology
 
-(date: 2025-03-28 06:09:27)
+(date: 2025-03-29 06:12:28)
+
+---
+
+## Mobile ad world drama: AppLovin not lovin' short seller assault claiming fraud
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>A peek behind the curtain in one corner of online advertising</h4> <p>AppLovin, which provides a way for software developers to make money by embedding ads in their mobile apps, has been sued for a third time this month – after short-seller reports accused the biz of fraud and deceptive revenue practices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/applovin_alleged_ad_fraud/>
+
+---
+
+## NASA Awards Launch Services Contract for SpaceX Starship
+
+date: 2025-03-28, from: NASA breaking news
+
+NASA has awarded SpaceX of Starbase, Texas, a modification under the NASA Launch Services (NLS) II contract to add Starship to their existing Falcon 9 and Falcon Heavy launch service offerings. The NLS II contracts provide a broad range of commercial launch services for NASA’s planetary, Earth-observing, exploration, and scientific satellites. These high-priority, low and [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-awards-launch-services-contract-for-spacex-starship/>
+
+---
+
+## NASA Boosts Efficiency with Custom X-66 Flooring
+
+date: 2025-03-28, from: NASA breaking news
+
+NASA designed temporary floorboards for the MD-90 aircraft to use while it is transformed into the X-66 experimental demonstrator aircraft. These floorboards will protect the original flooring and streamline the modification process. Supporting the agency’s Sustainable Flight Demonstrator project, a small team in the Experimental Fabrication Shop at NASA’s Armstrong Flight Research Center in Edwards, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-boosts-efficiency-with-custom-x-66-flooring/>
+
+---
+
+## Congress takes another swing at Uncle Sam's software licensing mess
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>SAMOSA digested by House last year, but choked on in Senate. Second time&#39;s a charm?</h4> <p>A bipartisan group of US lawmakers is once again pushing legislation aimed at reining in the federal government&#39;s fragmented and wasteful software licensing practices.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/congress_software_licensing/>
+
+---
+
+## CoreWeave cools its jets, downsizing IPO as investor heat fades
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>That stands for I Probably Overestimated?</h4> <p>CoreWeave has pared back the scope of its initial public offering amid growing investor uncertainty in an overheating AI marketplace and risks posed by the GPU cloud specialist&#39;s exposure to a small number of customers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/coreweave_downsizes_ipo/>
+
+---
+
+## Visiting Mars on the Way to the Outer Solar System
+
+date: 2025-03-28, from: NASA breaking news
+
+Written by Roger Wiens, Principal Investigator, SuperCam instrument / Co-Investigator, SHERLOC instrument at Purdue University Recently Mars has had a few Earthly visitors. On March 1, NASA’s Europa Clipper flew within 550 miles (884 kilometers) of the Red Planet’s surface on its way out to Jupiter. On March 12, the European Space Agency’s Hera spacecraft […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/visiting-mars-on-the-way-to-the-outer-solar-system/>
+
+---
+
+## Boeing's Starliner may fly again, pending fixes to literally everything
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>More than 70 percent of anomalies closed out, but those pesky thrusters are still a problem</h4> <p><strong>Updated</strong>  NASA says Boeing&#39;s Starliner – dubbed the Calamity Capsule – could fly again, but not before the end of 2025 or start of 2026.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/boeing_starliner_fixes/>
+
+---
+
+## Turning Vanes inside the Altitude Wind Tunnel
+
+date: 2025-03-28, from: NASA breaking news
+
+Men stand in front of turning vanes inside the Altitude Wind Tunnel (AWT) at the National Advisory Committee for Aeronautics Aircraft Engine Research Laboratory in this February 1944 publicity photo. The photo was taken just weeks after the tunnel became operational. The AWT was the only wind tunnel capable of testing full-size aircraft engines in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/turning-vanes-inside-the-altitude-wind-tunnel/>
+
+---
+
+## Both Haiku and Linux get new FOSS Nvidia drivers
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Thanks to Collabora&#39;s work on Zink and NVK… and indirectly to GPU-maker&#39;s FOSS release, too</h4> <p>Not one but two new drivers for some Nvidia GPUs is a promising, if indirect, offshoot of the GPU maker&#39;s open-saucy moves.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/haiku_linux_foss_nvidia_drivers/>
+
+---
+
+## Meanwhile, in Japan, train stations are being 3D-printed in an afternoon
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>How&#39;s that for Platform-as-a-Service?</h4> <p>You&#39;ve seen small 3D printed models, heard about 3D printers being used to make guns, and even read news about printed food, but a 3D printed train station? Where else could this be but Japan?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/japan_3d_printing_railway/>
+
+---
+
+## Sols 4493-4494: Just Looking Around
+
+date: 2025-03-28, from: NASA breaking news
+
+Written by Alex Innanen, atmospheric scientist at York University Earth planning date: Wednesday, March 26, 2025 It’s my second shift of the week as the Environmental theme lead and keeper of the plan (a bit of a mouthful we shorten to ESTLK) and today started out feeling eerily similar to Monday. Once again, Curiosity is […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4493-4494-just-looking-around/>
+
+---
+
+## The High Cost of Quantum Randomness Is Dropping
+
+date: 2025-03-28, from: Quanta Magazine
+
+Randomness is essential to some research, but it’s always been prohibitively complicated. Now, we can use “pseudorandomness” instead.            <p>The post <a href="https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/" target="_blank">The High Cost of Quantum Randomness Is Dropping</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/the-high-cost-of-quantum-randomness-is-dropping-20250328/>
+
+---
+
+## Windows 11 roadmap great for knowing what's coming next week. Not so good for next year
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>Microsoft promises clarity, gets partway there</h4> <p>Microsoft has introduced a roadmap for Windows 11 that takes customers all the way to ... April 2025.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/microsoft_windows_11_roadmap/>
+
+---
+
+## From concept to cosmos: Webb engineers on the telescope that changed everything
+
+date: 2025-03-28, updated: 2025-03-28, from: The Register (UK I.T. News)
+
+<h4>JWST trio awarded IEEE Simon Ramo medal: &#39;I&#39;m proud of the whole damn team&#39;</h4> <p><strong>Interview</strong>  The team behind the James Webb Space Telescope (JWST) just scored the Simon Ramo Medal, given by the Institute of Electrical and Electronics Engineers (IEEE) for exceptional achievement in systems engineering and systems science.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/28/james_webb_interview/>
 
 ---
 
@@ -647,9 +815,9 @@ The rover carries several swatches of spacesuit materials, and scientists are as
 
 ## Credible nerd says stop using atop, doesn't say why, everyone panics
 
-date: 2025-03-26, updated: 2025-03-26, from: The Register (UK I.T. News)
+date: 2025-03-26, updated: 2025-03-28, from: The Register (UK I.T. News)
 
-<h4>Bad news about the Linux system monitor may be on the way</h4> <p>Veteran sysadmin and tech blogger Rachel Kroll posted a cryptic warning yesterday about a popular Linux system monitoring tool. Maybe it&#39;s better to be safe than sorry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Bad news about the Linux system monitor may be on the way</h4> <p><strong>Updated</strong>  Veteran sysadmin and tech blogger Rachel Kroll posted a cryptic warning yesterday about a popular Linux system monitoring tool. Maybe it&#39;s better to be safe than sorry.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -1638,4 +1806,76 @@ date: 2025-03-23, updated: 2025-03-23, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/23/nsa_rogers_russia/>
+
+---
+
+## ReactOS 0.4.15 released
+
+date: 2025-03-22, from: OS News
+
+It&#8217;s been over three years since the last ReactOS release, but today, in honour of the first commit to the project by the oldest, still active contributor, the project released ReactOS 0.4.15. Of course, there&#8217;s been a steady stream of nightly releases, so it&#8217;s not like the project stalled or anything, but having a proper release is always nice to have. We are pleased to announce the release of ReactOS 0.4.15! This release offers Plug and Play fixes, audio fixes, memory management fixes, registry healing, improvements to accessories and system tools including Notepad, Paint, RAPPS, the Input Method Editor, and shell improvements. ↫ ReactOS 0.14.5 release announcement There&#8217;s a lot in this one, as the long gap between releases indicates. Thanks to the major changes in the plug and play subsystem of the kernel, ReactOS now supports more third party drivers, and it can now boot from USB and chipsets with EHCI, OHCI, and UHCI controllers. The open source AC’97 driver from the Windows Driver Kit has also been ported to ReactOS to enable sound on VirtualBox and old motherboards. The open source FAT driver from the same WDK has also been ported, which is a massive improvement over the old one. ReactOS can now also make use of custom IMEs, ZIP archive support has been integrated into the shell, and a new default visual style has been chosen. There&#8217;s a lot more in this release, though, and since it was branched over six months ago, there are a lot of improvements from since that time that are not yet part of this release, like a graphical installers, UEFI and SMP support, new NTFS driver, and a ton more. In other words &#8211; don&#8217;t let the long time between releases fool you; there&#8217;s a lot going on in the ReactOS world. 
+
+<br> 
+
+<https://www.osnews.com/story/141993/reactos-0-4-15-released/>
+
+---
+
+## Museum digs up Digital Equipment Corporation's dusty digital equipment
+
+date: 2025-03-22, updated: 2025-03-22, from: The Register (UK I.T. News)
+
+<h4>Remembering the fallen giant&#39;s first UK office</h4> <p>Reading Museum is hosting an exhibition marking more than 60 years since Digital Equipment Corporation (DEC) opened its first UK office.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/22/dec_reading_museum/>
+
+---
+
+## Nvidia Linux GPU driver ported to Haiku
+
+date: 2025-03-22, from: OS News
+
+Nvidia releasing its Linux graphics driver as open source is already bearing fruit for alternative operating systems. As many people already knows, Nvidia published their kernel driver under MIT license: GitHub &#8211; NVIDIA/open-gpu-kernel-modules: NVIDIA Linux open GPU kernel module source (I will call it NVRM). This driver is very portable and its platform-independent part can be compiled for Haiku with minor effort (but it need to implement OS-specific binding code to be actually useful). This is very valuable for Haiku because Linux kernel GPU drivers are very hard to port and it heavily depends on Linux kernel internals. Unfortunately userland OpenGL/Vulkan driver source code is not published. But as part of Mesa 3D project, new Vulkan driver “NVK” is being developed and is functional already. Mesa NVK driver is using Nouveau as kernel driver, so it can’t be directly used with NVRM kernel driver. NVK source code provides platform abstraction that allows to implement support of other kernel drivers such as NVRM. I finally managed to make initial port NVRM kernel driver to Haiku and added initial NVRM API support to Mesa NVK Vulkan driver, so NVRM and NVK can work together. Some simple Vulkan tests are working. ↫ X512 on the Haiku forums Incredibly impressive, and a huge milestone for the Haiku operating system. It supports any Nvidia GPU from the Turing architecture, which I think means Nvidia RTX 20xx and newer, since they have a required microcontroller older GPUs do not have. Of course, this is an early port and a lot of work remains to be done, but it could lead to huge things for Haiku. 
+
+<br> 
+
+<https://www.osnews.com/story/141985/nvidia-linux-gpu-driver-ported-to-haiku/>
+
+---
+
+## SoftBank acquires Ampere Computing
+
+date: 2025-03-22, from: OS News
+
+SoftBank Group Corp. today announced that it will acquire Ampere Computing, a leading independent silicon design company, in an all-cash transaction valued at $6.5 billion. Under the terms of the agreement, Ampere will operate as a wholly owned subsidiary of SoftBank Group and retain its name. As part of the transaction, Ampere’s lead investors – Carlyle and Oracle – are selling their respective positions in Ampere. ↫ SoftBank and Ampere Computing press release Despite not really knowing what SoftBank does and what their long-term goals are &#8211; I doubt anyone does &#8211; I hope this at the very least provides Ampere with the funds needed to expand its business. At this point, the only serious options for Arm-based hardware are either Apple or Qualcomm, and we could really use more players. Ampere&#8217;s hardware is impressive, but difficult to buy and expensive, and graphics card support is patchy, at best. What Ampere needs is more investment, and more OEMs picking up their chips. An Ampere workstation is incredibly high on my list of machines to test for OSNews (perhaps a System76 model?), and it&#8217;d be great if economies of scale worked to bring the prices down, possibly allowing Ampere to developer cheaper, more affordable variants for us mere mortals, too. I would love to build an Arm workstation in much the same way we build regular x86 PCs today, but I feel like that&#8217;s still far off. I have no idea if SoftBank is the right kind of company to make this possible, but one can dream. 
+
+<br> 
+
+<https://www.osnews.com/story/141983/softbank-acquires-ampere-computing/>
+
+---
+
+## Sols 4486-4487: Ankle-Breaking Kind of Terrain!
+
+date: 2025-03-22, from: NASA breaking news
+
+Written by Catherine O’Connell-Cooper, Planetary Geologist at University of New Brunswick Earth planning date: Wednesday, March 19, 2025  This terrain is a tricky drive, with rocks angled chaotically all around. One of our geologists remarked that they wouldn’t like to even walk over this without solid boots coming way up over the ankles — this […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4486-4487-ankle-breaking-kind-of-terrain/>
+
+---
+
+## Shocking Spherules!
+
+date: 2025-03-22, from: NASA breaking news
+
+Written by Alex Jones, Ph.D. candidate at Imperial College London Last week the Perseverance Science Team were astonished by a strange rock comprised of hundreds of millimeter-sized spheres… and the team are now working hard to understand their origin.  It has now been two weeks since Perseverance arrived at Broom Point, situated at the lower […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/shocking-spherules/>
 

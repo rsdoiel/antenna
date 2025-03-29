@@ -1,11 +1,423 @@
 ---
 title: snapshots
-updated: 2025-03-28 06:09:34
+updated: 2025-03-29 06:12:35
 ---
 
 # snapshots
 
-(date: 2025-03-28 06:09:34)
+(date: 2025-03-29 06:12:35)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+We need a plan for communication after the end of democracy. 
+
+<br> 
+
+<https://daveverse.wordpress.com/2025/03/28/we-need-a-plan-for-communication-after-the-end-of-democracy/>
+
+---
+
+## Is Trump Really an Environmentalist?
+
+date: 2025-03-28, from: Stephen Smith's blog
+
+Introduction Trump has received a lot of negative press for disbanding the US Environmental Protection Agency and removing many environmental protection laws and is generally hated by environmentalists. His campaign promises have been to drill oil like mad and burn as much oil as possible. Of course, with Trump what he actually does, does not [&#8230;] 
+
+<br> 
+
+<https://smist08.wordpress.com/2025/03/28/is-trump-really-an-environmentalist/>
+
+---
+
+## Adam Osborne Interview by Practical Computing (1983)
+
+date: 2025-03-28, from: Computer ads from the Past
+
+Osborne reveals his philosophy 
+
+<br> 
+
+<https://computeradsfromthepast.substack.com/p/adam-osborne-interview-by-practical>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Elon Musk’s DOGE role draws effort to force Tesla to close Missouri dealerships. 
+
+<br> 
+
+<https://missouriindependent.com/2025/03/28/elon-musks-doge-role-draws-effort-to-force-tesla-to-close-missouri-dealerships/>
+
+---
+
+## LILYGO T-Deck Pro is a mobile dev kit with an ePaper display, QWERTY keyboard, 4G and
+
+date: 2025-03-28, from: Liliputing
+
+<p>Last summer LILYGO launched a pocket-sized mobile communications device called the T-Deck Plus that looks like a phone, but is really more of a mobile dev kit with a 2.8 inch IPS LCD display, a BlackBerry keyboard, and support for WiFi, Bluetooth, and LoRa wireless connectivity&#8230; but no support for cellular networks. The new LilyGo [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilygo-t-deck-pro-is-a-mobile-dev-kit-with-an-epaper-display-qwerty-keyboard-4g-and/">LILYGO T-Deck Pro is a mobile dev kit with an ePaper display, QWERTY keyboard, 4G and</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilygo-t-deck-pro-is-a-mobile-dev-kit-with-an-epaper-display-qwerty-keyboard-4g-and/>
+
+---
+
+## Bacalhau v1.7.0 - Day 5: Distributed Data Warehouse with Bacalhau and DuckDB
+
+date: 2025-03-28, from: Bacalhau Blog
+
+(3:11) Build a distributed data warehouse with Bacalhau and DuckDB to run SQL queries on regional data without moving it. 
+
+<br> 
+
+<https://blog.bacalhau.org/p/distributed-data-warehouse-with-bacalhau>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-28, from: Robert's feed at BlueSky)
+
+Interesting thread 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llhjbzmqos2z>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-28, from: Robert's feed at BlueSky)
+
+Good news for a change.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llhiy4xsrs2z>
+
+---
+
+## Daily Deals (3-28-2025)
+
+date: 2025-03-28, from: Liliputing
+
+<p>The Amazon Big Spring Sale runs through Monday, March 31st and&#8230; honestly it&#8217;s kind of underwhelming. I&#8217;ve spotted a few good deals on tech products this week, but even discounts on Amazon&#8217;s own tablets, eReaders, and other products aren&#8217;t all that exciting this time around. Fortunately if you&#8217;ve already got all the gear you need [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-3-28-2025/">Daily Deals (3-28-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-3-28-2025/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-28, from: Robert's feed at BlueSky)
+
+My speculation was they chose Signal to avoid FOIA and the national archives.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llhisd6skc2z>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-28, from: Robert's feed at BlueSky)
+
+Something positive. Made remember Sean Connery's character in Presidio saying, "who's the Dead?"
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llhinue4tc2z>
+
+---
+
+## macOS 15.4 Adds TCC Events to Endpoint Security
+
+date: 2025-03-28, from: Michael Tsai
+
+Patrick Wardle (tweet): Since TCC is designed to protect these resources, it poses a challenge for malware that often tries to access them. Generally malware takes one of two approaches: exploiting TCC bugs, or obtaining explicit user permission access to the TCC protected item. The former is rather uncommon, while the latter is much more [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/28/macos-15-4-adds-tcc-events-to-endpoint-security/>
+
+---
+
+## ChangeTheHeaders 1.0
+
+date: 2025-03-28, from: Michael Tsai
+
+Jeff Johnson: ChangeTheHeaders is a Safari extension for iOS, iPadOS, macOS, and visionOS that allows you to customize HTTP request headers such as Accept, Accept-Language, Cookie, and User-Agent. ChangeTheHeaders is available now in the App Store. [&#8230;]You might ask, why didn&#8217;t I just add this feature to StopTheMadness Pro? On macOS, StopTheMadness Pro is a [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/28/changetheheaders-1-0/>
+
+---
+
+## Controlling Launch Services in Sequoia
+
+date: 2025-03-28, from: Michael Tsai
+
+Howard Oakley: LaunchServices compiles a large registry database of apps and their associations with and capabilities for handling different document types. Its records determine which app opens a document when you double-click on its icon in the Finder, and most prominently which are listed when you open the Open With&#8230; item in the Finder&#8217;s contextual [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/28/controlling-launch-services-in-sequoia/>
+
+---
+
+## Apple Needs a Snow Sequoia
+
+date: 2025-03-28, from: Michael Tsai
+
+Timothy R. Butler (Hacker News, Slashdot): The latest releases &#8212; MacOS Sequoia and iOS/iPadOS 18 &#8212; are screaming for such a reset. Yes, they work and are still smoother and less glitchy than Windows 11, but they feel like software developed by people who don&#8217;t actually use that software. In the 22 years since I [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/28/apple-needs-a-snow-sequoia/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-28, from: Robert's feed at BlueSky)
+
+Very good question. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llhiek47kk2z>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Why Sheinbaum Can Surrender to Trump. 
+
+<br> 
+
+<https://www.theatlantic.com/international/archive/2025/03/mexico-trump-sheinbaum-appeasement/682213/>
+
+---
+
+## Dell 14 Plus is an Intel Lunar Lake laptop that picks up where the Inspiron 14 Plus left off
+
+date: 2025-03-28, from: Liliputing
+
+<p>The Dell 14 Plus and Dell 14 Plus 2-in-1 laptops are now available with prices starting at $1100 and $1050, respectively. Both are notebooks with Intel Lunar Lake processors and 14 inch displays, but the 2-in-1 model has a convertible touchscreen display while Dell 14 Plus is a clamshell that&#8217;s available with a few more configuration options. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/dell-14-plus-is-an-intel-lunar-lake-laptop-that-picks-up-where-the-inspiron-14-plus-left-off/">Dell 14 Plus is an Intel Lunar Lake laptop that picks up where the Inspiron 14 Plus left off</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/dell-14-plus-is-an-intel-lunar-lake-laptop-that-picks-up-where-the-inspiron-14-plus-left-off/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Elon you can’t speak for your customers. The car is great, but you suck. 
+
+<br> 
+
+<https://newrepublic.com/post/193305/elon-musk-donald-trump-tesla-protest>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+We all try to lead a parade, with a big viral idea, if only everyone would follow me, it might just work. Instead, find a parade you can join, and add your energy, talent and experience to it. 
+
+<br> 
+
+<http://scripting.com/2025/03/26/154836.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+Today&#39;s song: Volunteers. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=SboRijhWFDU>
+
+---
+
+## Mind Biases Behind Trans Laws
+
+date: 2025-03-28, from: Guy Kawasaki blog
+
+Julia Standefer, Ph.D. Student in Psychology, Iowa State University. L. Alison Phillips Professor of Psychology, Iowa State University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/mind-biases-behind-trans-laws>
+
+---
+
+## Quoting Colin Fraser
+
+date: 2025-03-28, updated: 2025-03-28, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/colin_fraser/status/1905158970337083676"><p>Slop is about collapsing to the mode. It’s about information heat death. It’s lukewarm emptiness. It’s ten million approximately identical cartoon selfies that no one will ever recall in detail because none of the details matter.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/colin_fraser/status/1905158970337083676">Colin Fraser</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/slop">slop</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/28/colin-fraser/#atom-everything>
+
+---
+
+## The Abduction of Rumeysa Ozturk
+
+date: 2025-03-28, updated: 2025-03-28, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/28/the-abduction-of-rumeysa-ozturk/>
+
+---
+
+## MeLE Quieter 4C fanless mini PC gets an Intel N150 “Twin Lake” spec bump
+
+date: 2025-03-28, from: Liliputing
+
+<p>The MeLE Quieter 4C is a fanless mini PC that&#8217;s small enough to fit in a pocket, but versatile enough to be used for a wide variety of applications. It can be connected to up to three displays, supports up 32GB of onboard RAM, and has an M.2 2280 slot for user-replaceable PCIe 3.0 NVMe storage. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/mele-quieter-4c-fanless-mini-pc-gets-an-intel-n150-twin-lake-spec-bump/">MeLE Quieter 4C fanless mini PC gets an Intel N150 &#8220;Twin Lake&#8221; spec bump</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/mele-quieter-4c-fanless-mini-pc-gets-an-intel-n150-twin-lake-spec-bump/>
+
+---
+
+## Behind the Blog: Foolishness and Breaking Through
+
+date: 2025-03-28, from: 404 Media Group
+
+This week, we discuss getting fooled, the 'one big story' of the week, and Ghibli. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-foolishness-and-breaking-through/>
+
+---
+
+## How the FBI Tracked, and Froze, Millions Sent to Criminals in Massive Caesars Casino Hack
+
+date: 2025-03-28, from: 404 Media Group
+
+A new court document shows the FBI raced to stop hackers moving the ransom Caesars paid, with authorities freezing much of the extortion payment. 
+
+<br> 
+
+<https://www.404media.co/how-the-fbi-tracked-and-froze-millions-sent-to-criminals-in-massive-caesars-casino-hack/>
+
+---
+
+## AYANEO Pocket ACE is a retro handheld with a 4.5 inch screen and Snapdragon G3x Gen 2
+
+date: 2025-03-28, from: Liliputing
+
+<p>Another day, another handheld game console from AYANEO. This time it&#8217;s the AYANEO Pocket ACE: a compact model designed for playing classic console games on modern hardware. The Pocket ACE features a 4.5 inch, 1620 x 1080 pixel IPS LCD display with a 3:2 aspect ratio, a Qualcomm Snapdragon G3x Gen 2 processor, and a [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ayaneo-pocket-ace-is-a-retro-handheld-with-a-4-5-inch-screen-and-snapdragon-g3x-gen-2/">AYANEO Pocket ACE is a retro handheld with a 4.5 inch screen and Snapdragon G3x Gen 2</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ayaneo-pocket-ace-is-a-retro-handheld-with-a-4-5-inch-screen-and-snapdragon-g3x-gen-2/>
+
+---
+
+## Project 2028: Wages
+
+date: 2025-03-28, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>Democrats need to be the party of ideas, not indignation. Our “Project 2028” series addresses critical issues facing America through a No Mercy / No Malice lens. Today, we shift from housing to wages.  Maximizing Wages Before he was sworn in as Treasury secretary in January, hedge fund manager Scott Bessent warned that failing to [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/project-2028-wages/">Project 2028: Wages</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/project-2028-wages/>
+
+---
+
+## THE REST IS SILENCE
+
+date: 2025-03-28, from: Howard Jacobson blog
+
+Well, that&#8217;s a bit melodramatic, I grant you. 
+
+<br> 
+
+<https://jacobsonh.substack.com/p/the-rest-is-silence>
+
+---
+
+## Ploopy Classic 2 is an upgraded trackball mouse available as a DIY kit or fully assembled
+
+date: 2025-03-28, from: Liliputing
+
+<p>Ploopy has made a name for itself over the past few years by offering a line of customizable trackball mice with open source designs that allow you 3D print or modify your own device. Since launching its first trackball in 2019, Ploopy has followed up with several additional designs for different trackball styles. Last year [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/ploopy-classic-2-is-an-upgraded-trackball-mouse-available-as-a-diy-kit-or-fully-assembled/">Ploopy Classic 2 is an upgraded trackball mouse available as a DIY kit or fully assembled</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/ploopy-classic-2-is-an-upgraded-trackball-mouse-available-as-a-diy-kit-or-fully-assembled/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-28, from: Dave Winer's linkblog)
+
+It&#39;s Time for Zealous Advocacy To Safeguard the Rule of Law. 
+
+<br> 
+
+<https://www.newsweek.com/its-time-zealous-advocacy-safeguard-rule-law-opinion-2051637>
+
+---
+
+## A Clarifying Moment
+
+date: 2025-03-28, updated: 2025-03-28, from: Tedium site
+
+In case you were on the fence about whether OpenAI was a positive force in the world, they sort of revealed their hand this week by leaning into a meme. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16994084/openai-studio-ghibli-ai-controversy-reveal>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-03-28, from: Feed for Alt USDS)
+
+Sorry for the typo! 😫
+You could always find payment and spending info on GSA and ➡️ usaspending.gov ⬅️  This is not new information.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llgy3legqc2k>
 
 ---
 
@@ -3247,4 +3659,232 @@ date: 2025-03-23, updated: 2025-03-23, from: Simon Willison’s Weblog
 <br> 
 
 <https://simonwillison.net/2025/Mar/23/jacob-kaplan-moss/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Why isn’t  the Democratic Party flooding the zone with rallies like this, everywhere. 
+
+<br> 
+
+<https://bsky.app/profile/mjfree.bsky.social/post/3lkwonpyoak2z>
+
+---
+
+## simonw/ollama-models-atom-feed
+
+date: 2025-03-22, updated: 2025-03-22, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/ollama-models-atom-feed">simonw/ollama-models-atom-feed</a></strong></p>
+I setup a GitHub Actions + GitHub Pages Atom feed of scraped recent models data from the Ollama <a href="https://ollama.com/search?o=newest">latest models</a> page - Ollama remains one of the easiest ways to run models on a laptop so a new model release from them is worth hearing about.</p>
+<p>I built the scraper by pasting example HTML <a href="https://claude.ai/share/c96d6bb9-a976-45f9-82c2-8599c2d6d492">into Claude</a> and asking for a Python script to convert it to Atom - here's <a href="https://github.com/simonw/ollama-models-atom-feed/blob/main/to_atom.py">the script</a> we wrote together.</p>
+<p><strong>Update 25th March 2025</strong>: The first version of this included all 160+ models in a single feed. I've upgraded the script to output two feeds - the original <a href="https://simonw.github.io/ollama-models-atom-feed/atom.xml">atom.xml</a> one and a new <a href="https://simonw.github.io/ollama-models-atom-feed/atom-recent-20.xml">atom-recent-20.xml</a> feed containing just the most recent 20 items.</p>
+<p>I modified the script using Google's <a href="https://simonwillison.net/2025/Mar/25/gemini/">new Gemini 2.5 Pro</a> model, like this:</p>
+<pre><code>cat to_atom.py | llm -m gemini-2.5-pro-exp-03-25 \
+  -s 'rewrite this script so that instead of outputting Atom to stdout it saves two files, one called atom.xml with everything and another called atom-recent-20.xml with just the most recent 20 items - remove the output option entirely'
+</code></pre>
+<p>Here's the <a href="https://gist.github.com/simonw/358b5caa015de53dee0fbc96415ae6d6">full transcript</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/git-scraping">git-scraping</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/atom">atom</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Stratechery Interview with OpenAI CEO Sam Altman About Building a Consumer Tech Company. 
+
+<br> 
+
+<https://stratechery.com/2025/an-interview-with-openai-ceo-sam-altman-about-building-a-consumer-tech-company/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+What Is It Like to Be on Ketamine? 
+
+<br> 
+
+<https://www.thecut.com/2019/11/ketamine-disassociation-generation.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Kitty Dukakis, former first lady of Massachusetts, has died. 
+
+<br> 
+
+<https://www.wgbh.org/news/local/2025-03-22/kitty-dukakis-former-first-lady-of-massachusetts-has-died>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Reading this fresh post from Ken Smith, I thought a good slogan for Bernie&#39;s new party (maybe they should call it that) is Build Back Better, stolen from Biden. That&#39;s going to be a popular message because everyone is quickly figuring out that we&#39;re getting the shit kicked out of us, and there&#39;s a lot of rebuilding in our future no matter what. 
+
+<br> 
+
+<https://akakensmith.com/2025/03/22/get-back-to-where-you-once-belonged/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Trump’s firings of military leaders pose a crucial question to service members of all ranks. 
+
+<br> 
+
+<https://theconversation.com/trumps-firings-of-military-leaders-pose-a-crucial-question-to-service-members-of-all-ranks-247665>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+In December I wrote about &quot;listening lists&quot; for podcasts. I believe it&#39;s coming into fruition soon, from at least one major podcast vendor. It&#39;s not only going to be nice to have imho but it&#39;s something the open web does better than the podcast silos, that in itself is important. 
+
+<br> 
+
+<https://this.how/podcasting/index.opml#1733322866000>
+
+---
+
+## Update: AYANEO AM01S mini PC has a retro design, a 4 inch flip-up display, and AMD Strix Point inside
+
+date: 2025-03-22, from: Liliputing
+
+<p>When AYANEO introduced the AM01S mini PC last year, the company positioned it as a compact computer with a design inspired by classic PCs from the 1980s, but a few upgrades over the original AYANEO AM01 that launched in 2023. For one thing, it had a higher-performance processor. For another, instead of a fake screen [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/update-ayaneo-am01s-mini-pc-has-a-retro-design-a-4-inch-flip-up-display-and-amd-strix-point-inside/">Update: AYANEO AM01S mini PC has a retro design, a 4 inch flip-up display, and AMD Strix Point inside</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/update-ayaneo-am01s-mini-pc-has-a-retro-design-a-4-inch-flip-up-display-and-amd-strix-point-inside/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+2009: Natural-born blogger. &quot;NBBs go first. If there&#39;s an NBB around you don&#39;t have to wait for a volunteer.&quot; 
+
+<br> 
+
+<http://scripting.com/stories/2009/11/24/naturalbornBlogger.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Newsom on the Podcast Train. 
+
+<br> 
+
+<https://daveverse.wordpress.com/2025/03/22/newsom-riding-on-the-podcast-train/>
+
+---
+
+## What’s in Your Head? A Plastic Spoon and Lost Baby Memories
+
+date: 2025-03-22, from: 404 Media Group
+
+This week, we journey into the human brain and find some disturbing stuff in there. 
+
+<br> 
+
+<https://www.404media.co/whats-in-your-head-a-plastic-spoon-and-lost-baby-memories/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Utah GOP Reps. Maloy and Kennedy told to “Do your job” at a town hall. 
+
+<br> 
+
+<https://www.sltrib.com/news/politics/2025/03/20/utah-gop-reps-maloy-kennedy-told/>
+
+---
+
+## The Cybernetic Teammate
+
+date: 2025-03-22, from: One Useful Thing
+
+Having an AI on your team can increase performance, provide expertise, and improve your experience 
+
+<br> 
+
+<https://www.oneusefulthing.org/p/the-cybernetic-teammate>
+
+---
+
+## How Michael Horn makes videos
+
+date: 2025-03-22, from: Libre News
+
+ 
+
+<br> 
+
+<https://thelibre.news/michael-horn/>
+
+---
+
+## How Should We Think About the Economics of AI?
+
+date: 2025-03-22, from: Paul Krugman
+
+A conversation with Erik Brynjolfsson 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/how-should-we-think-about-the-economics>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Local and State Police Are Joining Trump&#39;s &#39;Deportation Force.&#39; 
+
+<br> 
+
+<https://www.texasobserver.org/local-state-police-ice-287g-task-force/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Seniors won&#39;t complain if they miss a Social Security check, Lutnick says. 
+
+<br> 
+
+<https://www.axios.com/2025/03/21/social-security-lutnick-doge-checks>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
+
+Bird flu continues to spread as Trump’s pandemic experts are MIA. 
+
+<br> 
+
+<https://arstechnica.com/health/2025/03/bird-flu-continues-spread-as-trumps-pandemic-experts-are-mia/>
+
+---
+
+## Improved ways to operate a rude crawler
+
+date: 2025-03-22, from: Marginallia log
+
+This text is satirical in nature.
+Tech news is abuzz with rude AI crawlers that forge their user-agent and ignore robots.txt. In my opinion, if this is all the AI startups can muster, they&rsquo;re losing their touch. wget can do this. You need to up your game, get that crawler really rolling coal. Flagrant disregard for externalities is an important signal to the investors that your AI startup is the one. 
+
+<br> 
+
+<https://www.marginalia.nu/log/a_115_rude_crawler/>
 

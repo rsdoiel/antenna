@@ -1,11 +1,249 @@
 ---
 title: home
-updated: 2025-03-28 06:09:31
+updated: 2025-03-29 06:12:32
 ---
 
 # home
 
-(date: 2025-03-28 06:09:31)
+(date: 2025-03-29 06:12:32)
+
+---
+
+## This Popular National Park Attraction Will Close Indefinitely This Summer
+
+date: 2025-03-28, from: Sunset Magazine - Living in the West
+
+Fiery Furnace in Utah's Arches National Park, which is popular with hikers and climbers, will shutter this summer. 
+
+<br> 
+
+<https://www.sunset.com/travel/fiery-furnace-arches-national-park-utah-closure>
+
+---
+
+## The 3 Things You Can’t Miss While Spring Cleaning
+
+date: 2025-03-28, from: Sunset Magazine - Living in the West
+
+When spring cleaning this season, there are some spots ythat are often forgotten about. Here's what not to miss. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/commonly-forgotten-spots-to-clean>
+
+---
+
+## Why "The Studio" Created a Faux Frank Lloyd Wright and Filmed at Multiple Lautners
+
+date: 2025-03-28, from: Dwell
+
+The long list of cameos on the new Apple TV+ series includes a handful of L.A.’s midcentury landmarks—and an invented one as well. 
+
+<br> 
+
+<https://www.dwell.com/article/the-studio-apple-tv-filming-locations-production-design-frank-lloyd-wright-john-lautner-97c68081>
+
+---
+
+## Turf Pros Explain How To Make Your Yard the Envy of the Block
+
+date: 2025-03-28, from: Family Handyman Blog
+
+<p>Besides being green and luxurious, a healthy lawn also minimizes the need for fertilizers and weed control. Here are some turf tips from the pros.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/turf-pros-explain-how-to-make-your-yard-the-envy-of-the-block/">Turf Pros Explain How To Make Your Yard the Envy of the Block</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/turf-pros-explain-how-to-make-your-yard-the-envy-of-the-block/>
+
+---
+
+## For $1M, You Can Scoop Up a Sleek Black Cabin in the Catskills
+
+date: 2025-03-28, from: Dwell
+
+Built just a few years ago, the getaway has 30-foot ceilings, 10 acres of land, and comes fully furnished. 
+
+<br> 
+
+<https://www.dwell.com/article/bethel-pines-cabin-inc-architecture-catskills-new-york-real-estate-8c0e4a5a>
+
+---
+
+## Where Do You Put a Tiny House? Navigating Rules, Land, and Freedom
+
+date: 2025-03-28, from: The Tiny Life blog
+
+<p>Living in a tiny home offers freedom, lower costs, and a more sustainable lifestyle. But before I could settle in and start living my dream, there was one crucial question that I needed to ask myself — where do you put a tiny house?</p>
+<p>The post <a href="https://thetinylife.com/where-do-you-put-a-tiny-house-navigating-rules-land-and-freedom/">Where Do You Put a Tiny House? Navigating Rules, Land, and Freedom</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/where-do-you-put-a-tiny-house-navigating-rules-land-and-freedom/>
+
+---
+
+## Budget Breakdown: They Turned a Backyard Shed Into an Aging-in-Place Guest Suite for $140K
+
+date: 2025-03-28, from: Dwell
+
+An architect couple made updates to accommodate their elderly parents, like Tasmanian oak handrails and a curbless floor plan. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-suite-shed-alsocan-aging-in-place-guest-suite-renovation-04845ab1>
+
+---
+
+## 6 Reasons Your High Beams Won’t Turn Off
+
+date: 2025-03-28, from: Family Handyman Blog
+
+<p>High beams are a vital safety feature when driving at night on dark roads but are dangerous to oncoming traffic if your high beams won't turn off....</p>
+<p>The post <a href="https://www.familyhandyman.com/article/reasons-high-beams-wont-turn-off/">6 Reasons Your High Beams Won&#8217;t Turn Off</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/reasons-high-beams-wont-turn-off/>
+
+---
+
+## 5 Valuable Home Materials Thieves Could Target
+
+date: 2025-03-28, from: Family Handyman Blog
+
+<p>Skyrocketing scrap metal prices mean these valuable home materials are more likely to be stolen. Protect your home exteriors to reduce the risk.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/valuable-home-materials/">5 Valuable Home Materials Thieves Could Target</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/valuable-home-materials/>
+
+---
+
+## What Is a Bunkie? From Guest House to Getaway — It Does It All
+
+date: 2025-03-28, from: The Tiny Life blog
+
+<p>I like to think of bunkies as the Swiss army knives of backyard buildings. They’re compact, versatile, and infinitely useful. But, exactly what is a bunkie?</p>
+<p>The post <a href="https://thetinylife.com/what-is-a-bunkie/">What Is a Bunkie? From Guest House to Getaway — It Does It All</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/what-is-a-bunkie/>
+
+---
+
+## How to Grow and Care for Amaryllis Belladonna Lillies
+
+date: 2025-03-28, from: The Gardener's Path
+
+<p>True amaryllis, aka belladonna lily is a striking late season perennial that needs dry summers and mild, moist winters to produce their tall flower stalks. Sweetly fragrant, the many showy blooms are ideal for adding color to arid spots throughout the garden. Learn how to grow Amaryllis belladonna in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-amaryllis-belladonna/">How to Grow and Care for Amaryllis Belladonna Lillies</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-amaryllis-belladonna/>
+
+---
+
+## Building A House On A Slope: Costs, Challenges, & Considerations
+
+date: 2025-03-28, from: The Tiny Life blog
+
+<p>Building a house on a slope is equal parts opportunity and challenge. On one hand, slopes are one of the most difficult terrains to build on, and construction is often slow, expensive, and complicated.</p>
+<p>The post <a href="https://thetinylife.com/building-on-a-slope/">Building A House On A Slope: Costs, Challenges, &#038; Considerations</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/building-on-a-slope/>
+
+---
+
+## The Push for Government-Run Grocery Stores—and Everything Else You Need to Know About This Week
+
+date: 2025-03-28, from: Dwell
+
+In the news: A tech millionaire’s dream to build a California metropolis, Waymo drives itself toward D.C., Trump’s plan to privatize mortgage lending, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/design-news-government-grocery-stores-trump-privatizing-mortgages-home-inside-a-mall-c68c81f8>
+
+---
+
+## Duck Dining 101: The Best (And Worst) Food For Ducks
+
+date: 2025-03-28, from: The Tiny Life blog
+
+<p>Once I added ducks to my flock I had to ponder, what can I feed my ducks? After a bunch of research, trial and error, and some friendly advice, I’ve learned that ducks are like feathered foodies — they truly need a balanced diet to stay happy and healthy.</p>
+<p>The post <a href="https://thetinylife.com/best-feed-for-ducks/">Duck Dining 101: The Best (And Worst) Food For Ducks</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/best-feed-for-ducks/>
+
+---
+
+## When Are You Too Old to Mow Your Own Lawn? Experts Weigh In
+
+date: 2025-03-28, from: Family Handyman Blog
+
+<p>The age to stop mowing depends more on awareness of the risks and taking steps to mitigate them than a specific cutoff.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/age-to-stop-mowing-lawn/">When Are You Too Old to Mow Your Own Lawn? Experts Weigh In</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/age-to-stop-mowing-lawn/>
+
+---
+
+## Yes, You Can Build On Land That Doesn’t Perc: Here’s How
+
+date: 2025-03-28, from: The Tiny Life blog
+
+<p>Few things are as daunting to landowners as the idea of building on land that doesn’t perc. As a reminder, perc tests measure how well your soil drains water. And since well-draining soil is crucial for septic systems, failing one may mean your land isn’t suitable for a conventional system. </p>
+<p>The post <a href="https://thetinylife.com/building-on-land-that-does-not-perc/">Yes, You Can Build On Land That Doesn’t Perc: Here’s How</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/building-on-land-that-does-not-perc/>
+
+---
+
+## Inside a Seattle Home Designed for Family Functionality
+
+date: 2025-03-28, from: Sunset Magazine - Living in the West
+
+The vision for this 1970s Seattle house was to redesign it with funcitonality for a growing family in mind. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/seattle-house-family-functionality>
+
+---
+
+## What Is Unrestricted Land? A Foundation Of Free Homesteading
+
+date: 2025-03-28, from: The Tiny Life blog
+
+<p>There isn’t anything more infuriating than someone telling you what you can do with your own property. Homesteaders, tiny home owners, off-gridders, and anyone leading an independent lifestyle need the freedom to use their land as they see fit. My own years of maintaining my homestead have shown me the necessity of owning unrestricted land for full autonomy in how I live.</p>
+<p>The post <a href="https://thetinylife.com/what-is-unrestricted-land/">What Is Unrestricted Land? A Foundation Of Free Homesteading</a> appeared first on <a href="https://thetinylife.com">The Tiny Life</a>.</p>
+ 
+
+<br> 
+
+<https://thetinylife.com/what-is-unrestricted-land/>
 
 ---
 
@@ -21,6 +259,30 @@ date: 2025-03-28, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/43-types-of-jade-plants-with-pictures-and-identification/>
+
+---
+
+## Travel the West
+
+date: 2025-03-28, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-03-28, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -169,7 +431,7 @@ date: 2025-03-27, from: Family Handyman Blog
 
 ---
 
-## Fixer Uppers Make Cities Great—At a Price
+## Fixer-Uppers Make Cities Great—At a Price
 
 date: 2025-03-27, from: Dwell
 
@@ -257,18 +519,6 @@ If the climate crisis has increased storms in your area, raised beds, rain garde
 <br> 
 
 <https://www.dwell.com/article/gardening-in-extremes-how-to-tend-landscapes-that-flood-cfa64bca>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-27, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -406,18 +656,6 @@ date: 2025-03-26, from: The Gardener's Path
 
 ---
 
-## Inside a Seattle Home Designed for Family Functionality
-
-date: 2025-03-26, from: Sunset Magazine - Living in the West
-
-The vision for this 1970s Seattle house was to redesign it with funcitonality for a growing family in mind. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/home-tours/seattle-house-family-functionality>
-
----
-
 ## 25 of the Best Cosmos Flower Cultivars for Your Yard
 
 date: 2025-03-26, from: The Gardener's Path
@@ -429,18 +667,6 @@ date: 2025-03-26, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/best-cosmos-varieties/>
-
----
-
-## Travel the West
-
-date: 2025-03-26, from: Sunset Magazine - Living in the West
-
-The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
-
-<br> 
-
-<https://www.sunset.com/travel>
 
 ---
 
@@ -632,18 +858,6 @@ date: 2025-03-26, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/23-bugs-that-look-like-giant-mosquitoes-with-pictures/>
-
----
-
-## The 3 Things You Can’t Miss While Spring Cleaning
-
-date: 2025-03-25, from: Sunset Magazine - Living in the West
-
-When spring cleaning this season, there are some spots ythat are often forgotten about. Here's what not to miss. 
-
-<br> 
-
-<https://www.sunset.com/home-garden/commonly-forgotten-spots-to-clean>
 
 ---
 
@@ -1178,4 +1392,144 @@ date: 2025-03-23, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/flaming-katy-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Glamping Tents, Luxe Lodges, Sleek Airstreams: Here’s Where to Get Your Nature Fix Now
+
+date: 2025-03-22, from: Sunset Magazine - Living in the West
+
+For those who want to get outdoors but don't really want to camp or rough it, these best nature resorts and hotels are your solution. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-nature-resorts-hotels-2023>
+
+---
+
+## 5 Things You Should Never Do in National Parks
+
+date: 2025-03-22, from: Sunset Magazine - Living in the West
+
+In light of recent incidents of tourists chasing bears and being attacked by bison, here is a reminder of things you should never do in the National Parks. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/5-things-never-do-in-national-parks>
+
+---
+
+## These Are All the New Places to Stay in Yosemite
+
+date: 2025-03-22, from: Sunset Magazine - Living in the West
+
+One of America's oldest national parks has a whole lot of newness nowadays, from glamping resorts to campervans. 
+
+<br> 
+
+<https://www.sunset.com/travel/new-yosemite-lodging-2025>
+
+---
+
+## How to Plant and Grow Chives
+
+date: 2025-03-22, from: The Gardener's Path
+
+<p>Chives (Allium schoenoprasum) are versatile alliums suitable for cultivation in the ground, raised beds, or containers, making them ideal for small-space and kitchen gardens. These easy-care perennials offer flavor, beauty, and even some pest control benefits. Learn how to plant and grow chives in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-chives/">How to Plant and Grow Chives</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-chives/>
+
+---
+
+## Desert Rose Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-22, from: Yard Life blog
+
+<p>The Desert Rose (Adenium obesum) is a stunning succulent plant known for its thick, swollen trunk and vibrant, trumpet-shaped flowers. ... </p>
+<p class="read-more-container"><a title="Desert Rose Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/desert-rose-plant-care-and-growing-guide-most-detailed/#more-25591" aria-label="Read more about Desert Rose Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/desert-rose-plant-care-and-growing-guide-most-detailed/">Desert Rose Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/desert-rose-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Bromeliad Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-22, from: Yard Life blog
+
+<p>Bromeliads are stunning tropical plants that thrive in various environments, offering unique foliage and vibrant flowers. Whether grown indoors or ... </p>
+<p class="read-more-container"><a title="Bromeliad Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/bromeliad-plant-care-and-growing-guide-most-detailed/#more-25585" aria-label="Read more about Bromeliad Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/bromeliad-plant-care-and-growing-guide-most-detailed/">Bromeliad Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/bromeliad-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Begonia Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-22, from: Yard Life blog
+
+<p>Begonias are popular ornamental plants cherished for their striking foliage and vibrant flowers. They thrive both indoors and outdoors, making ... </p>
+<p class="read-more-container"><a title="Begonia Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/begonia-plant-care-and-growing-guide-most-detailed/#more-25579" aria-label="Read more about Begonia Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/begonia-plant-care-and-growing-guide-most-detailed/">Begonia Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/begonia-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Arrowhead Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-22, from: Yard Life blog
+
+<p>Arrowhead Plant Care is essential for keeping Syngonium podophyllum thriving in your home. These beautiful and versatile houseplants are loved ... </p>
+<p class="read-more-container"><a title="Arrowhead Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/arrowhead-plant-care-and-growing-guide-most-detailed/#more-25573" aria-label="Read more about Arrowhead Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/arrowhead-plant-care-and-growing-guide-most-detailed/">Arrowhead Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/arrowhead-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Yucca Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-22, from: Yard Life blog
+
+<p>Yucca plants are stunning, low-maintenance perennials that thrive in various environments. Known for their striking foliage and dramatic flower spikes, ... </p>
+<p class="read-more-container"><a title="Yucca Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/yucca-plant-care-and-growing-guide-most-detailed/#more-25566" aria-label="Read more about Yucca Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/yucca-plant-care-and-growing-guide-most-detailed/">Yucca Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/yucca-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Pitcher Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-03-22, from: Yard Life blog
+
+<p>Pitcher plants (Sarracenia, Nepenthes, and Darlingtonia) are fascinating carnivorous plants known for their ability to trap and digest insects. Their ... </p>
+<p class="read-more-container"><a title="Pitcher Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/pitcher-plant-care-and-growing-guide-most-detailed/#more-25561" aria-label="Read more about Pitcher Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/pitcher-plant-care-and-growing-guide-most-detailed/">Pitcher Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/pitcher-plant-care-and-growing-guide-most-detailed/>
 

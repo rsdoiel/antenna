@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-03-28 06:09:31
+updated: 2025-03-29 06:12:33
 ---
 
 # motorcycles
 
-(date: 2025-03-28 06:09:31)
+(date: 2025-03-29 06:12:33)
+
+---
+
+## Girl Tribe Co. and NASCAR Launch First-Ever Apparel Collaboration
+
+date: 2025-03-28, from: Kickin the Tires blog
+
+Charlotte, NC (March 28, 2025) – Girl Tribe Co., a local Charlotte women-owned business, is teaming up with America’s No.1 motorsport for the first time to launch an exclusive apparel&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/girl-tribe-co-and-nascar-launch-first-ever-apparel-collaboration/>
+
+---
+
+## This Chinese Scooter Looks Like a Clone of a Honda, Has to Be a Copyright Issue
+
+date: 2025-03-28, from: Ride Apart, Electric Motorcycle News
+
+It wants to one-up a certain Japanese scooter icon.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754784/kamax-cub-x-honda-cub-lookalike/>
+
+---
+
+## Update: BMW's New Adventure Motorcycle is an Old-School Vibe, But Why the AI Images?
+
+date: 2025-03-28, from: Ride Apart, Electric Motorcycle News
+
+It already looks awesome, so why use AI to pretend it's cool? 
+
+<br> 
+
+<https://www.rideapart.com/news/754875/2026-bmw-r-12-gs-debut-adventure-motorcycle/>
 
 ---
 
@@ -460,4 +497,16 @@ By Holly Cain, NASCAR Wire Service HOMESTEAD, Fla. – In one of the most dramat
 <br> 
 
 <https://kickinthetires.net/nascar/justin-allgaier-strikes-gold-in-overtime-wins-xfinity-race-and-100k-bonus-at-miami/>
+
+---
+
+## Wait, This Honda Motorcycle Was Actually Designed By Suzuki?
+
+date: 2025-03-22, from: Ride Apart, Electric Motorcycle News
+
+Probably not what you think! 
+
+<br> 
+
+<https://www.rideapart.com/news/754307/honda-cb1000f-concept-design-suzuki/>
 

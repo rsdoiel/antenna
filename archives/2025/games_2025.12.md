@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-03-28 06:09:29
+updated: 2025-03-29 06:12:30
 ---
 
 # games
 
-(date: 2025-03-28 06:09:29)
+(date: 2025-03-29 06:12:30)
+
+---
+
+## Mufasa: The Lion King, Queer, Dead Talents Society on Netflix, and every movie new to streaming this week
+
+date: 2025-03-28, updated: 2025-03-28, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, Mufasa: The Lion King, the Barry Jenkins-directed animated prequel to 2019’s The Lion King, comes to streaming on Disney Plus following its theatrical run [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/543313/new-movies-watch-streaming-queer-mufasa-the-lion-king-dead-talents-society-netflix>
+
+---
+
+## ‘Tea Bowls for Rikyu’ locations in Assassin’s Creed Shadows
+
+date: 2025-03-28, updated: 2025-03-28, from: Polygon Website
+
+“Tea Bowls for Rikyu” is a quest in Assassin’s Creed Shadows that you can pick up in Yamashiro after you unlock Yasuke. It’s part of the People of Yamashiro Objectives board. Tea Master Sen no Rikyu is setting up a new tea house and he needs tea bowl collections for it. You’ll have to find [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/548925/tea-bowls-for-rikyu-locations-where-to-find-all>
+
+---
+
+## Nintendo Switch 2 pre-orders to start in early April, leaks say
+
+date: 2025-03-28, updated: 2025-03-28, from: Polygon Website
+
+Pre-orders for the Nintendo Switch 2 will open on Wednesday, April 2 — if you believe retailer Best Buy Canada, which announced that pre-order date in a blog post (and then quickly pulled it) on Thursday. A new report from Insider Gaming, citing documents from an unnamed “large U.S. retailer,” says pre-orders for Switch 2 will [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/549116/nintendo-switch-2-pre-order-date-when>
+
+---
+
+## All weapons in Assassin&#8217;s Creed Shadows
+
+date: 2025-03-28, updated: 2025-03-28, from: Polygon Website
+
+There are eight weapons in Assassin’s Creed Shadows — not including the infamous hidden blade of the Assassins. Each weapon has its own style, and can only be used by one of the game’s two playable protagonists, Naoe or Yasuke. In this Assassin’s Creed Shadows guide, we’ll go over the list of weapons available to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/542005/all-weapons-list-how-to-get>
+
+---
+
+## Death of a Unicorn’s director went all-in on unicorn lore: ‘They’re symbolic of our own corruption’
+
+date: 2025-03-28, updated: 2025-03-28, from: Polygon Website
+
+Death of a Unicorn, a monster flick in which two enraged, predatory unicorns chomp and stomp through a mansion’s worth of exploitative, rich assholes, seems as far as possible from the classic vibe of unicorns as fragile, rare, gently magical creatures. It’s equally as far from the more contemporary My Little Pony-clutching Horse Girl vibe [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/548437/death-of-a-unicorn-alex-scharfman-lore>
 
 ---
 
@@ -510,4 +570,100 @@ FFXIV patch 7.2 — the second major Dawntrail update — releases soon, alongsi
 <br> 
 
 <https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online>
+
+---
+
+## Assassin’s Creed Shadows voice actor Masumi reflects on her first video game performance
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+Singer-songwriter, actor, and now video game voice actor Masumi is not new to playing a Japanese assassin grieving the loss of her father. She starred as a yakuza heir in 2021’s Yakuza Princess — her “breakout movie,” as she calls it. Then, she booked a new challenge: Naoe, the shinobi assassin protagonist in Assassin’s Creed [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/543792/assassins-creed-shadows-masumi-voice-actor-video-game-performance>
+
+---
+
+## Ne Zha 2 director launched his career with this wild animated short — and a much wilder backstory
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+The meteoric rise of the Chinese movie Ne Zha 2 has been stunning: The sequel has broken worldwide records for an animated movie, and as of this writing, has reportedly earned more than $2 billion at the international box office, putting it at No. 5 on the all-time highest-grossing-movie list, above Star Wars: The Force [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/animation-cartoons/544811/ne-zha-2-director-jiao-zi-free-animated-short-debut>
+
+---
+
+## Severance season 2 was always at war with itself — and season 3 might be, too
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+At the end of Severance season 2, Mark (Adam Scott) is not very happy with himself. Well, actually, let’s put this a little more clearly in Severance terms: Outie-Mark is not very happy with Innie-Mark — and the feeling is mutual.  Having now had a full conversation with each other for the first time, aided [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/544883/severance-season-2-review-finale-3-setup>
+
+---
+
+## A Nintendo game trend that looks like it will continue on Switch 2
+
+date: 2025-03-22, updated: 2025-03-22, from: Polygon Website
+
+This story was first published in Switchboard, a newsletter from Polygon that delivers all the latest Switch 2 news, reporting, and rumors directly to your inbox.&#160;Sign up here&#160;to get it weekly. Former Nintendo president Satoru Iwata passed before the Switch launched in 2017, but he left the company with a vision that it&#8217;s beginning to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/544241/nintendo-switch-2-multiplayer-mmo>
+
+---
+
+## How a Mega Man fan project got an official Capcom license
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+Back in 2021, Philip Summers launched a Kickstarter campaign for Hand-Drawn Game Guides, a series of books that resembled traditional strategy guides, apart from the fact that they were all illustrated by Summers. The campaign was a hit, generating over $300,000 in pledges, but like a number of fan projects utilizing game company IPs, it [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/539004/mega-man-hand-drawn-guide-interview>
+
+---
+
+## All 14 Assassin’s Creed games, ranked
+
+date: 2025-03-22, updated: 2025-03-22, from: Polygon Website
+
+Over the nearly two decades since the first entry, Assassin’s Creed has ballooned into a mixed-media franchise that includes at least seven spinoffs, nine novels, 11 comics, a Michael Fassbender film, an in-development TV show, and enough Pop! toys to fill a jam band. The brand is so ubiquitous, so familiar, that its core ideas [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/2017/10/27/544208/assassins-creed-games-ranked-best-worst>
+
+---
+
+## The best horror movies to watch on Netflix this March
+
+date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
+
+Look, March isn’t the scariest month of the year. In fact, it’s probably in the top three least scary months, if we had to rank them. Thankfully, Netflix is here to help, with a selection of great horror movies to keep things creepy. This month, we handpicked a few of the best horror movies on [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/543139/best-horror-movies-netflix-watch-march-2025>
+
+---
+
+## Pokémon Go Totodile Community Day Classic guide
+
+date: 2025-03-22, updated: 2025-03-20, from: Polygon Website
+
+Pokémon Go is having a Totodile Community Day event on Saturday, March 22 from 2-5 p.m. in your local time. As expected with a Community Day event, Totodile will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/543535/totodile-community-day-shiny-feraligatr-moveset>
 

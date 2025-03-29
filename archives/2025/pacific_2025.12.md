@@ -1,11 +1,63 @@
 ---
 title: pacific
-updated: 2025-03-28 06:09:26
+updated: 2025-03-29 06:12:27
 ---
 
 # pacific
 
-(date: 2025-03-28 06:09:26)
+(date: 2025-03-29 06:12:27)
+
+---
+
+## The Reading Room’s expanding reach: libraries, literacy, local voices
+
+date: 2025-03-28, from: University of Hawaiʻi News
+
+<p><em>The Reading Room</em> amplifies <span aria-label="Hawaii">Hawai&#699;i</span>'s writers and poets, fostering community and literacy through partnerships.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/28/the-reading-room-libraries-literacy-local-voices/">The Reading Room’s expanding reach: libraries, literacy, local voices</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/28/the-reading-room-libraries-literacy-local-voices/>
+
+---
+
+## Free cybersecurity training through UH Maui College
+
+date: 2025-03-28, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Maui College offers cybersecurity scholarships, industry certifications and career pathways.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/28/free-cybersecurity-training-uh-maui-college/">Free cybersecurity training through <abbr>UH</abbr> Maui College</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/28/free-cybersecurity-training-uh-maui-college/>
+
+---
+
+## UH President: Important update on federal actions, court rulings
+
+date: 2025-03-28, from: University of Hawaiʻi News
+
+<p>&#8220;We have already begun reviewing our federally funded programs and will soon take a broader look across the university to ensure we are protecting our mission and preserving our values.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/28/uh-president-federal-actions-court-rulings/"><abbr>UH</abbr> President: Important update on federal actions, court rulings</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/28/uh-president-federal-actions-court-rulings/>
+
+---
+
+## Wahine water polo player earns second Big West Player of the Week award
+
+date: 2025-03-28, from: University of Hawaiʻi News
+
+<p>Jordan Wedderbur’s five-goal performance on March 22 earned her a second Big West Player of the Week award.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/28/wedderbur-second-bw-player-of-the-week/">Wahine water polo player earns second Big West Player of the Week award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/28/wedderbur-second-bw-player-of-the-week/>
 
 ---
 
@@ -244,6 +296,20 @@ date: 2025-03-28, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/03/28/nation-world-news/10000-federal-health-workers-to-be-laid-off/>
+
+---
+
+## DOH shuts down Hiro’s Place in Hilo for multiple food safety violations
+
+date: 2025-03-28, from: Hawaii Tribune Harold
+
+
+				<p>The state Department of Health&#8217;s Food Safety Branch has issued a red &#8220;closed&#8221; placard and immediately shut down Hiro&#8217;s Place in Hilo due to multiple repeated food safety violations.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/28/hawaii-news/doh-shuts-down-hiros-place-in-hilo-for-multiple-food-safety-violations/>
 
 ---
 
@@ -623,6 +689,18 @@ date: 2025-03-27, from: INSIGHTS ON PBS HAWAIʻI
 
 ---
 
+## The time is now: What schools need to bolster waning math education
+
+date: 2025-03-27, updated: 2025-03-28, from: Marianas Variety
+
+(BPT) - The latest release of the Nation's Report Card (also referred to as the National Assessment of Educational Progress or NAEP) include extremely concerning results. According to the report card for grades 4 and 8, there was no measurable change in mathematics scores in all locales compared to 2022. This data highlights significant ongoing challenges in student math achievement — challenges that must be addressed by states, districts and schools to prepare students for workforce demands of tomorrow. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/family_living/the-time-is-now-what-schools-need-to-bolster-waning-math-education/article_21a332ea-d23e-5512-af2f-62ea1939ba89.html>
+
+---
+
 ## From Hilo to Miss Hawaiʻi USA
 
 date: 2025-03-27, from: University of Hawaiʻi News
@@ -633,6 +711,90 @@ The post <a href="https://www.hawaii.edu/news/2025/03/27/from-hilo-to-miss-hawai
 <br> 
 
 <https://www.hawaii.edu/news/2025/03/27/from-hilo-to-miss-hawaii-usa/>
+
+---
+
+## 4 fabulous reasons to eat more fish this spring
+
+date: 2025-03-27, updated: 2025-03-27, from: Marianas Variety
+
+(BPT) - March is National Nutrition Month, the perfect time to review your diet and eating habits so you can make informed decisions about your food choices. As you take stock of your fridge, consider adding one important staple to your weekly meal plans: fish. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/health_and_wellness/4-fabulous-reasons-to-eat-more-fish-this-spring/article_6cb8003a-0d1a-5ad3-ba56-e2b1d2126d1c.html>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-03-27, updated: 2025-03-27, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Make your day Endlessly Yours at Crowne Plaza Resort Saipan
+
+date: 2025-03-27, updated: 2025-03-27, from: Marianas Variety
+
+IMAGINE exchanging vows with the ocean breeze in your hair, a golden sunset as your backdrop, and a seamless celebration tailored just for you. At Crowne Plaza Resort Saipan, we don’t just host weddings—we bring love stories to life. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/make-your-day-endlessly-yours-at-crowne-plaza-resort-saipan/article_0d80158d-a1ec-4ba7-bd12-74c3f6b68e67.html>
+
+---
+
+## CCC submits $3.1M budget for FY2026, wants to hire 50 employees
+
+date: 2025-03-27, updated: 2025-03-27, from: Marianas Variety
+
+IN anticipation of any ruling that may come out of the Chapter 11 bankruptcy proceedings involving Imperial Pacific International, the Commonwealth Casino Commission has submitted a $3.1 million budget request for fiscal year 2026. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/ccc-submits-3-1m-budget-for-fy2026-wants-to-hire-50-employees/article_ad0d7f59-cd54-48ee-a319-58b5f7e5739f.html>
+
+---
+
+## Beware of politicians who would rather prove they are right than do what is right
+
+date: 2025-03-27, updated: 2025-03-27, from: Marianas Variety
+
+Consequences cannot be avoided 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/beware-of-politicians-who-would-rather-prove-they-are-right-than-do-what-is-right/article_0f1d70f9-6f2d-4857-a116-338a1f6af030.html>
+
+---
+
+## Poetry
+
+date: 2025-03-27, updated: 2025-03-27, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_15d8245d-f837-44d2-9d2f-5666e19ca9c6.html>
+
+---
+
+## HANMI-NMTech chicken kelaguen cook-off on May 24
+
+date: 2025-03-27, updated: 2025-03-27, from: Marianas Variety
+
+(HANMI) —  The Hotel Association of the Northern Mariana Islands  and the culinary program of Northern Marianas Technical Institute are teaming up again in May 2025 on a cook-off featuring the mouth-watering island staple chicken kelaguen. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/hanmi-nmtech-chicken-kelaguen-cook-off-on-may-24/article_48b59401-a18a-4856-aa70-c842a5473c32.html>
 
 ---
 
@@ -2562,4 +2724,198 @@ Mark Forbes By Pacific Island Times News Staff Guam mourns the passing of former
 <br> 
 
 <https://www.pacificislandtimes.com/post/guam-s-former-speaker-forbes-dies>
+
+---
+
+## Visitor ‘green fees’ bill passes Hawaii House committees
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Two House committees Thursday passed a bill that would impose more user fees to nonresidents who visit specified state parks and trails.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/hawaii-news/visitor-green-fees-bill-passes-hawaii-house-committees/>
+
+---
+
+## As Trump broadens crackdown, focus expands to legal immigrants and tourists
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. immigration agents wearing masks arrested a Georgetown University academic outside his home in Virginia. They detained two German tourists for weeks when they tried to enter the country legally through the southern border. They knocked on doors at Columbia University apartments, searching for pro-Palestinian protesters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/as-trump-broadens-crackdown-focus-expands-to-legal-immigrants-and-tourists/>
+
+---
+
+## Israel tries to pressure Hamas to free more hostages
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Israel&#8217;s defense minister said Friday that the military was preparing to seize more territory in the Gaza Strip and escalate its offensive there unless Hamas cooperated by releasing more hostages.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/israel-tries-to-pressure-hamas-to-free-more-hostages/>
+
+---
+
+## Dismantling of DOE raises concerns in Hawaii
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump&#8217;s widely expected executive order Thursday to dismantle the U.S. Department of Education was met with alarm and contempt from Hawaii educators and the state&#8217;s Democratic congressional delegation who are worried about many federally funded programs supporting student loans, civil rights and low-income children.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/hawaii-news/dismantling-of-doe-raises-concerns-in-hawaii/>
+
+---
+
+## Trump cleaves student loan and special education services from Education Dept.
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump announced Friday that the Education Department would no longer manage the nation&#8217;s $1.6 trillion student loan portfolio or supervise &#8220;special needs&#8221; programs in a major shake-up of an agency he has sought to eliminate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-cleaves-student-loan-and-special-education-services-from-education-dept/>
+
+---
+
+## Texas measles outbreak may continue for a year, officials say
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>As containment efforts falter, the measles outbreak in West Texas is likely to persist for a year, perhaps even setting back the country&#8217;s hard-fought victory over the virus, according to Texas health officials.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/texas-measles-outbreak-may-continue-for-a-year-officials-say/>
+
+---
+
+## Heathrow rumbles back to life after substation fire shut down airport
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; Heathrow Airport in London was plunged into chaos after a fire at an electrical substation shut down operations at one of Europe&#8217;s busiest air hubs, forcing the airport to cancel or divert more than 1,000 flights Friday and removing a global linchpin of air travel.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/heathrow-rumbles-back-to-life-after-substation-fire-shut-down-airport/>
+
+---
+
+## Columbia concedes to Trump’s demands after federal funds are stripped
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; Columbia University agreed Friday to overhaul its protest policies, security practices and Middle Eastern studies department in a remarkable concession to the Trump administration, which has refused to consider restoring $400 million in federal funds without major changes.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/columbia-concedes-to-trumps-demands-after-federal-funds-are-stripped/>
+
+---
+
+## Tate brothers, trailed by human-trafficking charges, are returning to Romania
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>Andrew Tate and his brother, Tristan Tate, the online influencers who decamped last month to the United States while facing human-trafficking charges in two European countries, were set to return on Friday to Romania ahead of a criminal proceeding, one of them said Friday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/tate-brothers-trailed-by-human-trafficking-charges-are-returning-to-romania/>
+
+---
+
+## Trump rejects idea that Musk should have access to top-secret China war plans
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; A top-secret briefing for Elon Musk on the U.S. military&#8217;s plan for any war that might break out with China was called off after The New York Times reported late Thursday that it was about to happen. On Friday, President Donald Trump said Musk should not be given access to the war plan.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-rejects-idea-that-musk-should-have-access-to-top-secret-china-war-plans/>
+
+---
+
+## Trump offers a glimpse of new stealth fighter, the F-47
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Since the late 1950s, most of the United States&#8217; warplanes have been given names that indicate a threat, such as the F-4 Phantom and the A-6 Intruder, or animals, such as the F-14 Tomcat, the F-15 Eagle and the F-16 Fighting Falcon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-offers-a-glimpse-of-new-stealth-fighter-the-f-47/>
+
+---
+
+## Tropical Gardening: A perfect lawn can be challenging
+
+date: 2025-03-22, from: Hawaii Tribune Harold
+
+
+				<p>If you are maintaining turf on a golf course, it has to be almost perfect. However, most folks aren&#8217;t held to such high standards when it comes to a home garden. The important thing to know is that plants produce oxygen and sequester carbon, thus helping to reduce the amount of carbon dioxide in the atmosphere. So grass, shrubs and trees are helping to reduce the negative effects of global warming.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/22/features/tropical-gardening-a-perfect-lawn-can-be-challenging/>
+
+---
+
+## UH med students uncover their future destinations
+
+date: 2025-03-22, from: University of Hawaiʻi News
+
+<p>&#8220;Being able to stay home and train with the population that I'm going to work with in the future was really important to me.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/21/jabsom-match-day-2025/"><abbr>UH</abbr> med students uncover their future destinations</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/21/jabsom-match-day-2025/>
+
+---
+
+## Award-winning UH alumna inspires Hawaiʻi’s future leaders, educators
+
+date: 2025-03-22, from: University of Hawaiʻi News
+
+<p>Presidential awardee and <abbr>UH</abbr> alumna Whitney Aragaki empowers students through innovative teaching.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/21/uh-alumna-hawaiis-future-leaders-educators/">Award-winning <abbr>UH</abbr> alumna inspires Hawaiʻi’s future leaders, educators</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/21/uh-alumna-hawaiis-future-leaders-educators/>
 
