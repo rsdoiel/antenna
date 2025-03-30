@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-03-29 06:12:26
+updated: 2025-03-30 06:07:31
 ---
 
 # north america
 
-(date: 2025-03-29 06:12:26)
+(date: 2025-03-30 06:07:31)
+
+---
+
+## Publisher's Roundup, 11
+
+date: 2025-03-29, from: The Contrarian
+
+&#8220;Have You No Sense of Decency,&#8221; Mr. Trump? 
+
+<br> 
+
+<https://contrarian.substack.com/p/publishers-roundup-11>
+
+---
+
+##  YOU LOVE TO SEE IT: Fighting The Oligarchs 
+
+date: 2025-03-29, from: The Lever News
+
+ Thousands fight the oligarchy, states give credit where credit’s due, a free-press challenge gets crushed, and state death penalties meet their fate.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-fighting-the-oligarchs/>
+
+---
+
+## Are budget guidelines based on your pre-tax or post-tax income?
+
+date: 2025-03-29, from: Market Place
+
+Conventional budgeting wisdom, like the 30% rent rule, is usually based on gross income, but experts say these guidelines are just a starting point. Personal circumstances could change your tax bill and therefore your budget. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/are-budget-guidelines-based-on-your-pre-tax-or-post-tax-income/>
+
+---
+
+## CoreWeave’s IPO tests money magic of AI
+
+date: 2025-03-29, from: Market Place, Make me Smart
+
+<p>The artificial intelligence cloud computing provider CoreWeave sold shares to the public today with so-so results. Because it&#8217;s the first major IPO of the current generative AI era, some argue that CoreWeave could be a barometer of the AI boom. We&#8217;ll get into it. And, a federal appeals court ruled in favor of President Donald Trump&#8217;s firings of independent agency heads. The case will likely make its way to the Supreme Court. Plus, we&#8217;ll play a round of Half Full/Half Empty!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.politico.com/news/2025/03/28/appeals-court-ruling-trump-independent-federal-agencies-00258300" target="_blank" rel="noreferrer noopener">&#8220;Appeals court clears way for Trump to fire leaders of ‘independent’ federal agencies&#8221;</a> from Politico</li>
+<li><a href="https://finance.yahoo.com/news/coreweave-stock-seesaws-after-ipo-in-first-big-test-of-ai-trade-173445419.html" target="_blank" rel="noreferrer noopener">&#8220;CoreWeave stock seesaws after IPO in first big test of AI trade&#8221;</a> from Yahoo Finance</li>
+<li><a href="https://www.wheresyoured.at/core-incompetency/?ref=ed-zitrons-wheres-your-ed-at-newsletter" target="_blank" rel="noreferrer noopener">&#8220;CoreWeave Is A Time Bomb&#8221;</a> from Ed Zitron&#8217;s Where&#8217;s Your Ed At</li>
+<li><a href="https://www.nytimes.com/2025/03/25/technology/chatgpt-image-generator.html?partner=slack&amp;smid=sl-share" target="_blank" rel="noreferrer noopener">&#8220;OpenAI Unveils New Image Generator for ChatGPT&#8221;</a> from The New York Times</li>
+<li><a href="https://www.marketplace.org/2025/03/24/doordash-klarna-buy-now-pay-later-orders/" target="_blank" rel="noreferrer noopener">&#8220;DoorDash and Klarna partner to offer buy now, pay later for takeout&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2025/03/28/crocs-hits-record-revenue-as-popularity-with-younger-consumers-soars/" target="_blank" rel="noreferrer noopener">&#8220;Crocs hits record revenue as popularity with younger consumers soars&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2025/03/24/when-should-we-pay-rent-with-a-credit-card/" target="_blank" rel="noreferrer noopener">&#8220;When should we pay rent with a credit card?</a> from Marketplace</li>
+<li><a href="https://www.nytimes.com/2025/03/27/technology/meta-facebook-friends-tab.html?campaign_id=4&amp;emc=edit_dk_20250328&amp;instance_id=151206&amp;nl=dealbook&amp;regi_id=144686531&amp;segment_id=194638&amp;user_id=d2d928a1f9dc3a96ed597f55afd46083" target="_blank" rel="noreferrer noopener">&#8220;Facebook’s New Friends Tab Brings App Back to Its Roots&#8221;</a> from The New York Times</li>
+</ul>
+<p>Marketplace’s March fundraiser ends today! Chip in now and pick up a classic public media thank-you gift: <a href="https://support.marketplace.org/smart-sn" target="_blank" rel="noreferrer noopener">https://support.marketplace.org/smart-sn</a></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/28/mms_20250328_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcoreweaves-ipo-tests-money-magic-of-ai&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/28/mms_20250328_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcoreweaves-ipo-tests-money-magic-of-ai&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/coreweaves-ipo-tests-money-magic-of-ai>
 
 ---
 
@@ -40,8 +104,8 @@ date: 2025-03-28, from: The Contrarian
 Jen Rubin is joined by Congressman Don Beyer to discuss DOGE&#8217;s recent raid against the U.S. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160086914/b50d0b827403112f79f243a15db50112.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160086914/b50d0b827403112f79f243a15db50112.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160086914/cc518c39bd8059cec52bc2dc80da00f7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160086914/cc518c39bd8059cec52bc2dc80da00f7.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/congressman-don-beyer-and-jen-rubin>
 
@@ -150,8 +214,8 @@ date: 2025-03-28, from: The Contrarian
 Jen Rubin interviews Rep. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160080410/987b649a22e1ef7397c373ceb25b5514.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160080410/987b649a22e1ef7397c373ceb25b5514.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160080410/31fd31c7fe4694dc4a3e0c5f1e5eabc3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160080410/31fd31c7fe4694dc4a3e0c5f1e5eabc3.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/rep-jake-auchincloss-and-jen-rubin>
 
@@ -1508,28 +1572,4 @@ date: 2025-03-23, from: The Lever News
 <br> 
 
 <https://www.levernews.com/lever-weekly-lurking-in-the-eyeshadows/>
-
----
-
-## Publisher's Roundup, 10 
-
-date: 2025-03-22, from: The Contrarian
-
-Trump is Lashing Out Because He&#8217;s Losing 
-
-<br> 
-
-<https://contrarian.substack.com/p/publishers-roundup-10>
-
----
-
-##  YOU LOVE TO SEE IT: You’re Rehired! 
-
-date: 2025-03-22, from: The Lever News
-
- Federal workers are rehired, red states go green, a judge stops a different steal, and states repair consumer protections.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-youre-rehired/>
 

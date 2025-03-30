@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-03-29 06:12:30
+updated: 2025-03-30 06:07:36
 ---
 
 # writing
 
-(date: 2025-03-29 06:12:30)
+(date: 2025-03-30 06:07:36)
+
+---
+
+## Luminous by Silvia Park: Review by Abigail Nussbaum
+
+date: 2025-03-29, from: Locus Magazine
+
+<p><strong>Luminous</strong>, Silvia Park (Simon &#38; Schuster 978-1-66802-166-8, 400pp, $29.99, hc) March 2025.</p>
+<p>The woman might have been beautiful once. Lips pink and plush, and long blond hair, the kind that shone with each brush. She was falling apart. Her face had been shredded into confetti, held together by one bleary blue eye, while her torso was a smooth bioplastic vest, translucent as a milk carton. Ruijie had tried pressing  <a href="https://locusmag.com/2025/03/luminous-by-silvia-park-review-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/luminous-by-silvia-park-review-by-abigail-nussbaum/>
 
 ---
 
@@ -459,18 +472,4 @@ date: 2025-03-23, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/03/the-west-passage-wins-crawford-award/>
-
----
-
-## Beneath Ceaseless Skies and Diabolical Plots: Reviews by Charles Payseur
-
-date: 2025-03-22, from: Locus Magazine
-
-<p>Beneath Ceaseless Skies 12/26/24
-Diabolical Plots 12/24</p>
-<p>There’s only one December issue of Beneath Ceaseless Skies this year, and it contains a pair of epistolary stories dealing with injustice, royalty, and punishment. <strong>Shoshana Groom</strong>’s “<strong>The Be­loved Sisters of the Sun-Bleached Hills</strong>” unfolds as a series of letters between sisters Zarina and Durdana, who live in different kingdoms but who are facing the same alarming trend – their  <a href="https://locusmag.com/2025/03/beneath-ceaseless-skies-and-diabolical-plots-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
-
-<br> 
-
-<https://locusmag.com/2025/03/beneath-ceaseless-skies-and-diabolical-plots-reviews-by-charles-payseur/>
 

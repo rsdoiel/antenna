@@ -1,11 +1,368 @@
 ---
 title: pacific
-updated: 2025-03-29 06:12:27
+updated: 2025-03-30 06:07:33
 ---
 
 # pacific
 
-(date: 2025-03-29 06:12:27)
+(date: 2025-03-30 06:07:33)
+
+---
+
+## Volcano Watch: What happens after a dike intrudes a rift zone?
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>When magma moves into the rift zone of a Hawaiian volcano, there is understandably a lot of excitement and apprehension. How far will the magma go, and will it erupt? But even long after the activity stops &#8212; regardless of whether it erupts &#8212; the subsurface magma continues to have a noticeable impact on the landscape.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/features/volcano-watch-what-happens-after-a-dike-intrudes-a-rift-zone/>
+
+---
+
+## Community health center eyes expansion
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>A bill that would provide funding for Hawaii Island Community Health Center to expand the reach of its services to about 55,000 patients yearly is making its way through the state Legislature.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/hawaii-news/community-health-center-eyes-expansion/>
+
+---
+
+## Federal funding cuts ripple through the heart of Trump country
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>RAINELLE, W.V. &#8212; The phone rang over the whine of Trey Yates&#8217; butter churn. The person calling was polite, but the message was devastating: Mountaineer Food Bank was ending Yates&#8217; butter contract, due to the federal government&#8217;s funding cuts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/nation-world-news/federal-funding-cuts-ripple-through-the-heart-of-trump-country/>
+
+---
+
+## Legislature moves to tighten oversight of Hawai‘i Tourism Authority
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>State lawmakers took swift action Friday to amend a bill to tighten oversight of the Hawai&#8216;i Tourism Authority, which is undergoing more leadership shake-ups, while dealing with allegations that procedural deficiencies allowed for inappropriate freebies at the Hawai&#8216;i Convention Center.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/hawaii-news/legislature-moves-to-tighten-oversight-of-hawaii-tourism-authority/>
+
+---
+
+## Top FDA vaccine official resigns, citing Kennedy’s ‘misinformation and lies’
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>The Food and Drug Administration&#8217;s top vaccine official, Dr. Peter Marks, resigned under pressure Friday and said that Health Secretary Robert F. Kennedy Jr.&#8217;s aggressive stance on vaccines was irresponsible and posed a danger to the public.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/nation-world-news/top-fda-vaccine-official-resigns-citing-kennedys-misinformation-and-lies/>
+
+---
+
+## WHO proposing to cut jobs and slash budget by a fifth, memo shows
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; The World Health Organization is proposing to reduce staff numbers and the scale of its work as it slashes its budget by just over one fifth due to the impact of U.S. funding cuts, according to an internal memo seen by Reuters.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/nation-world-news/who-proposing-to-cut-jobs-and-slash-budget-by-a-fifth-memo-shows/>
+
+---
+
+## Magnitude 7.7 quake ravages Myanmar; death toll could exceed 10,000
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>BANGKOK (Reuters) &#8212; Myanmar&#8217;s military rulers let in hundreds of foreign rescue personnel on Saturday after an earthquake killed more than 1,600 people, the deadliest natural disaster to hit the impoverished, war-torn country in years.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/nation-world-news/magnitude-7-7-quake-ravages-myanmar-death-toll-could-exceed-10000/>
+
+---
+
+## Targeting of Tufts student for deportation stuns friends and teachers
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>On March 9, Rumeysa Ozturk, a Turkish graduate student at Tufts University in Massachusetts, sent an anxious text message to Najiba Akbar, the university&#8217;s former Muslim chaplain, with whom she had become close.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/nation-world-news/targeting-of-tufts-student-for-deportation-stuns-friends-and-teachers/>
+
+---
+
+## GOP lawmaker faces angry crowds at town halls outside Indianapolis
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>House Republicans have been told by their party&#8217;s leadership to avoid town halls after Democrats and others began to seize on the events to vent frustration with the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/nation-world-news/gop-lawmaker-faces-angry-crowds-at-town-halls-outside-indianapolis/>
+
+---
+
+## Steves: Alsace blends the best of France, Germany
+
+date: 2025-03-30, from: Hawaii Tribune Harold
+
+
+				<p>France&#8217;s easternmost region, Alsace, is also one of its most enchanting &#8212; thanks largely to its location. Pressed up against the German border, along the Rhine, the region flip-flopped between Germany and France for centuries. (The Germans considered the Vosges Mountains, east of the Rhine, to be the natural border, while the French thought the river made a better border.)</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/30/features/steves-alsace-blends-the-best-of-france-germany/>
+
+---
+
+## Senator proposes three-year freeze on Univerity of Guam tuition hike 
+
+date: 2025-03-30, from: Pacific Island Times
+
+While the University of Guam has said it has no plans to raise tuition right now, Sen. Chris Barnett has proposed a bill that would freeze U 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/senator-proposes-three-year-freeze-on-univerity-of-guam-tuition-hike>
+
+---
+
+##  $40 million contract inked to kickstart 3D printing project on Guam
+
+date: 2025-03-29, from: Pacific Island Times
+
+ASTRO said additive manufacturing “has the potential to produce parts on-demand at the point of need, consolidating supply chains, cutting l 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/40-million-contract-inked-to-kickstart-3d-printing-project-on-guam>
+
+---
+
+## Visiting Greenland, Vance finds the weather and the reception chilly
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump has been less than subtle in his insistence that the United States will &#8220;get&#8221; Greenland one way or another, reiterating Friday that the United States cannot &#8220;live without it.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/visiting-greenland-vance-finds-the-weather-and-the-reception-chilly/>
+
+---
+
+## Wobbly US stocks face test with tariffs, jobs data
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A rocky U.S. stock market will be tested in the coming week by a pivotal deadline for President Donald Trump&#8217;s tariff plans and an employment report that could reveal a slowing economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/wobbly-us-stocks-face-test-with-tariffs-jobs-data/>
+
+---
+
+## Trump’s tariffs cast doubt on Hawaii vehicle sales forecast
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s auto dealers ended 2024 down 3% in sales and were expecting a rebound this year until the enthusiasm was abruptly halted when President Donald Trump announced 25% tariffs on foreign auto imports and auto parts this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/hawaii-news/trumps-tariffs-cast-doubt-on-hawaii-vehicle-sales-forecast/>
+
+---
+
+## Tomb of unidentified ancient Egyptian pharaoh discovered
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Burial chamber unearthed seven meters (23 feet) underground</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/tomb-of-unidentified-ancient-egyptian-pharaoh-discovered/>
+
+---
+
+## Inflation remained sticky ahead of Trump’s escalating trade war
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Americans hoping for some relief on inflation suffered a setback in February, as new data showed underlying price pressures intensifying even before the latest escalation in President Donald Trump&#8217;s trade war and consumers pulled back on spending.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/inflation-remained-sticky-ahead-of-trumps-escalating-trade-war/>
+
+---
+
+## Israel launches airstrikes near Beirut for first time since ceasefire
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; The Israeli military launched airstrikes in the southern outskirts of Beirut on Friday for the first time since a U.S.-brokered ceasefire came into effect in November, shattering months of tense calm in the Lebanese capital and stoking fears of a further escalation. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/israel-launches-airstrikes-near-beirut-for-first-time-since-ceasefire/>
+
+---
+
+## Trump orders Smithsonian Institution to promote ‘American greatness’
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump intensified his push to impose a more positive view of American history by moving to curb the independence of the Smithsonian Institution, which he wants to make into a &#8220;symbol of inspiration and American greatness.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/trump-orders-smithsonian-institution-to-promote-american-greatness/>
+
+---
+
+## Major quake batters Myanmar; high toll is feared as buildings topple
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>BANGKOK &#8212; A powerful earthquake struck central Myanmar on Friday, gouging open roads, toppling century-old religious monuments and destroying multistory buildings as it shook a vast expanse of Southeast Asia and dealt another severe blow to a country that has been ripped apart by civil war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/major-quake-batters-myanmar-high-toll-is-feared-as-buildings-topple/>
+
+---
+
+## Elon Musk says he has sold X to his AI startup xAI
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk said Friday that he had sold X, his social media company, to xAI, his artificial intelligence startup, in an unusual arrangement that shows the financial maneuvering inside the business empire of the world&#8217;s richest man.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/elon-musk-says-he-has-sold-x-to-his-ai-startup-xai/>
+
+---
+
+## FCC chair orders inquiry into Disney’s DEI practices
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The chair of the Federal Communications Commission said Friday that he had opened an investigation into The Walt Disney Co.&#8217;s diversity, equity and inclusion programs in the latest attempt under the Trump administration to halt such efforts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/fcc-chair-orders-inquiry-into-disneys-dei-practices/>
+
+---
+
+## Tropical Gardening: Consider adding a walkway to your yard or garden
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Warm days have caused our gardens to flourish, but this can mean too much of a good thing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/features/topical-gardening-consider-adding-a-walkway-to-your-yard-or-garden/>
+
+---
+
+## Elderly woman slain in Hilo; suspect in custody
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>An elderly woman, 81, was stabbed to death this morning on the 200 block of Olu Street in Hilo, police said,</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/hawaii-news/elderly-woman-slain-in-hilo-suspect-in-custody/>
+
+---
+
+## Robert Jones steps down as Triple J's head, Jeff Jones takes over 
+
+date: 2025-03-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff Robert Jones Robert H. Jones, who founded Triple J in 1984 and has served as CEO since its inception,... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/robert-jones-steps-down-as-triple-j-s-head-jeff-jones-takes-over>
+
+---
+
+## From student to hotel general manager, Kapiʻolani CC alumna Kiana Beimes
+
+date: 2025-03-29, from: University of Hawaiʻi News
+
+<p>In a decade, <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> graduate Kiana Beimes rose from intern to the general manager of a Waik&#299;k&#299; hotel.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/28/kapiolani-cc-alumna-kiana-beimes/">From student to hotel general manager, Kapiʻolani <abbr>CC</abbr> alumna Kiana Beimes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/28/kapiolani-cc-alumna-kiana-beimes/>
 
 ---
 
@@ -48,6 +405,18 @@ The post <a href="https://www.hawaii.edu/news/2025/03/28/uh-president-federal-ac
 
 ---
 
+## 4 ways to save money all year round
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(BPT) - So, you've filed your taxes and are waiting for your refund. Now what? 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/4-ways-to-save-money-all-year-round/article_95f58d8c-ca84-5ee1-a453-e4a2492e9ad0.html>
+
+---
+
 ## Wahine water polo player earns second Big West Player of the Week award
 
 date: 2025-03-28, from: University of Hawaiʻi News
@@ -58,6 +427,54 @@ The post <a href="https://www.hawaii.edu/news/2025/03/28/wedderbur-second-bw-pla
 <br> 
 
 <https://www.hawaii.edu/news/2025/03/28/wedderbur-second-bw-player-of-the-week/>
+
+---
+
+## 4 razones fabulosas para comer más pescado esta primavera
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(BPT) - Marzo es el Mes Nacional de la Nutrición, momento perfecto para revisar su dieta y hábitos alimenticios, a fin de que pueda tomar decisiones informadas sobre los alimentos que consume. En la medida que hace un balance de lo que tiene en su refrigerador, considere agregar un alimento básico importante a sus planes de comidas semanales: el pescado. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/espanol/4-razones-fabulosas-para-comer-m-s-pescado-esta-primavera/article_6c140433-e851-57eb-8b14-13e1aef60dab.html>
+
+---
+
+## Hot take: 3 reasons cheesecake is not just for dessert anymore
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(BPT) - Cheesecake is having a moment — and it's not just after a celebratory steak dinner in a fancy restaurant. That's right, you can have cheesecake anytime morning, noon or night. Feeling peckish before lunch? Use Krusteaz Cheesecake Muffin Mix to whip up a mid-morning snack to tide yourself over. Or maybe it's an afternoon pick-me-up you need? Cheesecake is here for that, too. In fact, research shows that 80% of consumers like or even love cheesecake. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/hot-take-3-reasons-cheesecake-is-not-just-for-dessert-anymore/article_b0743668-b0ee-5dab-8786-25aada76509d.html>
+
+---
+
+## A Moving New Book About Moving And Much More
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(NAPSI)—Here’s a sweet idea: Treat a child you care about to a new book, such as “Harlem Honey: The Adventures of a Curious Kid.” 
+
+<br> 
+
+<https://www.mvariety.com/online_features/family_living/a-moving-new-book-about-moving-and-much-more/article_d00d5e18-7642-5efc-8f32-8f039c6b8d1d.html>
+
+---
+
+## Beware of imposter scams: How to stay safe
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(BPT) - Imposter scams are at an all-time high. These scammers may call, text or email an individual to convince them that the caller is someone in authority to commit identity theft, get people to send money or share personal information. Here are do's and don'ts to best protect yourself. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/money_and_finance/beware-of-imposter-scams-how-to-stay-safe/article_9a98d4e8-3dc3-5acf-8d8e-58cee5df5102.html>
 
 ---
 
@@ -533,6 +950,30 @@ date: 2025-03-28, from: Island Times
 
 ---
 
+## Are Your Financial Investments Good for the Planet?
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(StatePoint) Did you know that a thoughtful investment strategy can go beyond simply delivering big returns? Financial professionals say that with some careful consideration, it can also reflect your values. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/community_cares/are-your-financial-investments-good-for-the-planet/article_14aa8142-eec4-5d2a-9475-32c920639f2b.html>
+
+---
+
+## How You Can Support the Nation’s 1.6 Million Military Kids
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(StatePoint) Life in the Armed Forces has its challenges, especially for the youngest members of the U.S. military community – the 1.6 million kids whose parents are service members. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/community_cares/how-you-can-support-the-nation-s-1-6-million-military-kids/article_2e039302-4e99-573f-909a-a00febe40385.html>
+
+---
+
 ## Guam requests $600M from defense department to fund hospital project
 
 date: 2025-03-28, from: Pacific Island Times
@@ -542,6 +983,42 @@ Gov. Lou Leon Guerrero asked the Department of Defense to fund Guam’s hospital
 <br> 
 
 <https://www.pacificislandtimes.com/post/guam-requests-600m-from-defense-department-to-fund-hospital-project>
+
+---
+
+## Superscript trial
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(NewsUSA) - For more details, including important safety information, on VenaSeal, visit: https://www.medtronic.com/breakfree. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/family_living/superscript-trial/article_23a5ade6-b4de-5a45-b2fe-d9bc728d2249.html>
+
+---
+
+## Test Story
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(NewsUSA) - For more details, including important safety information, on VenaSeal, visit: https://www.medtronic.com/breakfree. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/family_living/test-story/article_76787c02-566e-538a-acbf-e270155bb851.html>
+
+---
+
+## Test story II
+
+date: 2025-03-28, updated: 2025-03-28, from: Marianas Variety
+
+(NewsUSA) - For more details, including important safety information, on VenaSeal, visit: https://www.medtronic.com/breakfree. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/family_living/test-story-ii/article_317c7cda-2f40-5778-979d-a6ad2900f816.html>
 
 ---
 
@@ -2724,198 +3201,4 @@ Mark Forbes By Pacific Island Times News Staff Guam mourns the passing of former
 <br> 
 
 <https://www.pacificislandtimes.com/post/guam-s-former-speaker-forbes-dies>
-
----
-
-## Visitor ‘green fees’ bill passes Hawaii House committees
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>Two House committees Thursday passed a bill that would impose more user fees to nonresidents who visit specified state parks and trails.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/hawaii-news/visitor-green-fees-bill-passes-hawaii-house-committees/>
-
----
-
-## As Trump broadens crackdown, focus expands to legal immigrants and tourists
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; U.S. immigration agents wearing masks arrested a Georgetown University academic outside his home in Virginia. They detained two German tourists for weeks when they tried to enter the country legally through the southern border. They knocked on doors at Columbia University apartments, searching for pro-Palestinian protesters.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/as-trump-broadens-crackdown-focus-expands-to-legal-immigrants-and-tourists/>
-
----
-
-## Israel tries to pressure Hamas to free more hostages
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>Israel&#8217;s defense minister said Friday that the military was preparing to seize more territory in the Gaza Strip and escalate its offensive there unless Hamas cooperated by releasing more hostages.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/israel-tries-to-pressure-hamas-to-free-more-hostages/>
-
----
-
-## Dismantling of DOE raises concerns in Hawaii
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump&#8217;s widely expected executive order Thursday to dismantle the U.S. Department of Education was met with alarm and contempt from Hawaii educators and the state&#8217;s Democratic congressional delegation who are worried about many federally funded programs supporting student loans, civil rights and low-income children.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/hawaii-news/dismantling-of-doe-raises-concerns-in-hawaii/>
-
----
-
-## Trump cleaves student loan and special education services from Education Dept.
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump announced Friday that the Education Department would no longer manage the nation&#8217;s $1.6 trillion student loan portfolio or supervise &#8220;special needs&#8221; programs in a major shake-up of an agency he has sought to eliminate.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-cleaves-student-loan-and-special-education-services-from-education-dept/>
-
----
-
-## Texas measles outbreak may continue for a year, officials say
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>As containment efforts falter, the measles outbreak in West Texas is likely to persist for a year, perhaps even setting back the country&#8217;s hard-fought victory over the virus, according to Texas health officials.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/texas-measles-outbreak-may-continue-for-a-year-officials-say/>
-
----
-
-## Heathrow rumbles back to life after substation fire shut down airport
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>LONDON &#8212; Heathrow Airport in London was plunged into chaos after a fire at an electrical substation shut down operations at one of Europe&#8217;s busiest air hubs, forcing the airport to cancel or divert more than 1,000 flights Friday and removing a global linchpin of air travel.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/heathrow-rumbles-back-to-life-after-substation-fire-shut-down-airport/>
-
----
-
-## Columbia concedes to Trump’s demands after federal funds are stripped
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; Columbia University agreed Friday to overhaul its protest policies, security practices and Middle Eastern studies department in a remarkable concession to the Trump administration, which has refused to consider restoring $400 million in federal funds without major changes.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/columbia-concedes-to-trumps-demands-after-federal-funds-are-stripped/>
-
----
-
-## Tate brothers, trailed by human-trafficking charges, are returning to Romania
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>Andrew Tate and his brother, Tristan Tate, the online influencers who decamped last month to the United States while facing human-trafficking charges in two European countries, were set to return on Friday to Romania ahead of a criminal proceeding, one of them said Friday.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/tate-brothers-trailed-by-human-trafficking-charges-are-returning-to-romania/>
-
----
-
-## Trump rejects idea that Musk should have access to top-secret China war plans
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; A top-secret briefing for Elon Musk on the U.S. military&#8217;s plan for any war that might break out with China was called off after The New York Times reported late Thursday that it was about to happen. On Friday, President Donald Trump said Musk should not be given access to the war plan.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-rejects-idea-that-musk-should-have-access-to-top-secret-china-war-plans/>
-
----
-
-## Trump offers a glimpse of new stealth fighter, the F-47
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; Since the late 1950s, most of the United States&#8217; warplanes have been given names that indicate a threat, such as the F-4 Phantom and the A-6 Intruder, or animals, such as the F-14 Tomcat, the F-15 Eagle and the F-16 Fighting Falcon.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/nation-world-news/trump-offers-a-glimpse-of-new-stealth-fighter-the-f-47/>
-
----
-
-## Tropical Gardening: A perfect lawn can be challenging
-
-date: 2025-03-22, from: Hawaii Tribune Harold
-
-
-				<p>If you are maintaining turf on a golf course, it has to be almost perfect. However, most folks aren&#8217;t held to such high standards when it comes to a home garden. The important thing to know is that plants produce oxygen and sequester carbon, thus helping to reduce the amount of carbon dioxide in the atmosphere. So grass, shrubs and trees are helping to reduce the negative effects of global warming.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/22/features/tropical-gardening-a-perfect-lawn-can-be-challenging/>
-
----
-
-## UH med students uncover their future destinations
-
-date: 2025-03-22, from: University of Hawaiʻi News
-
-<p>&#8220;Being able to stay home and train with the population that I'm going to work with in the future was really important to me.&#8221;</p>
-The post <a href="https://www.hawaii.edu/news/2025/03/21/jabsom-match-day-2025/"><abbr>UH</abbr> med students uncover their future destinations</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/03/21/jabsom-match-day-2025/>
-
----
-
-## Award-winning UH alumna inspires Hawaiʻi’s future leaders, educators
-
-date: 2025-03-22, from: University of Hawaiʻi News
-
-<p>Presidential awardee and <abbr>UH</abbr> alumna Whitney Aragaki empowers students through innovative teaching.</p>
-The post <a href="https://www.hawaii.edu/news/2025/03/21/uh-alumna-hawaiis-future-leaders-educators/">Award-winning <abbr>UH</abbr> alumna inspires Hawaiʻi’s future leaders, educators</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/03/21/uh-alumna-hawaiis-future-leaders-educators/>
 

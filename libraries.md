@@ -1,11 +1,71 @@
 ---
 title: libraries
-updated: 2025-03-29 06:12:32
+updated: 2025-03-30 06:07:37
 ---
 
 # libraries
 
-(date: 2025-03-29 06:12:32)
+(date: 2025-03-30 06:07:37)
+
+---
+
+## Improving forecast of “21.7” Henan extreme heavy rain by assimilating high spatial resolution GNSS ZTDs
+
+date: 2025-04-01, from: ETH Zurich, recently added
+
+Liu M.; Lou Y.; Zhang W.; Wan R.; Zhang Z.; Fu Z.; Zhang X. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/713624>
+
+---
+
+## Hyaluronan composite bioink preserves nucleus pulposus cell phenotype in a stiffness-dependent manner
+
+date: 2025-04-01, from: ETH Zurich, recently added
+
+Miklosic G.; De Oliveira S.; Schlittler M.; Le Visage C.; Hélary C.; Ferguson S.J.; D'Este M. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/718151>
+
+---
+
+## Growth and adaptation to climate change in the long run
+
+date: 2025-04-01, from: ETH Zurich, recently added
+
+Dietz S.; Lanz B. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/722283>
+
+---
+
+## Shrouded in Secrecy: Explaining Why Some Countries Refuse to Disclose Their Military Aid to Ukraine
+
+date: 2025-04-01, from: ETH Zurich, recently added
+
+Ghincea, Marius 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/722345>
+
+---
+
+## Regulation of p65 nuclear localization and chromatin states by compressive force
+
+date: 2025-04-01, from: ETH Zurich, recently added
+
+Gupta, Rajshikhar; Schärer, Paulina; Liao, Yawen; Roy, Bibhas; Benoit, Roger M.; Shivashankar, G.V. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/727614>
 
 ---
 
@@ -215,16 +275,4 @@ Ruggia, Alessandra
 <br> 
 
 <http://hdl.handle.net/20.500.11850/728197>
-
----
-
-## Estimation of energy efficiency of heat pumps in residential buildings using real operation data
-
-date: 2025-03-22, from: ETH Zurich, recently added
-
-Brudermueller, Tobias; Potthoff, Ugne; Fleisch, Elgar; Wortmann, Felix; Staake, Thorsten 
-
-<br> 
-
-<http://hdl.handle.net/20.500.11850/728289>
 

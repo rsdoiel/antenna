@@ -1,11 +1,703 @@
 ---
 title: snapshots
-updated: 2025-03-29 06:12:35
+updated: 2025-03-30 06:07:41
 ---
 
 # snapshots
 
-(date: 2025-03-29 06:12:35)
+(date: 2025-03-30 06:07:41)
+
+---
+
+## 
+                I/O wait and io_uring
+            
+
+date: 2025-03-30, updated: 2025-03-30, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-03-30/0/POSTING-en.html>
+
+---
+
+## No elephants: Breakthroughs in image generation
+
+date: 2025-03-30, from: One Useful Thing
+
+When Language Models Learn to See and Create 
+
+<br> 
+
+<https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-30, from: Dave Winer's linkblog)
+
+NASA’s Curiosity rover has found the longest chain carbon molecules yet on Mars. 
+
+<br> 
+
+<https://arstechnica.com/science/2025/03/nasas-curiosity-rover-has-found-the-longest-chain-carbon-molecules-yet-on-mars/>
+
+---
+
+## A Balance of Payments Primer, Part II: The Dollar and All That
+
+date: 2025-03-30, from: Paul Krugman
+
+And what is the &#8220;Mar-a-Lago Accord&#8221;? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-balance-of-payments-primer-part-b66>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-30, from: Dave Winer's linkblog)
+
+Prompt in alt, great graphic prompts that work in the new chatgpt. 
+
+<br> 
+
+<https://www.promptinalt.com/gallery/#search>
+
+---
+
+## IFSC Competition Regulations Para Climbing Events
+
+date: 2025-03-30, from: Stubbornella Blog
+
+The international federation of sport climbing released its 2025 paraclimbing regulations. The document was a PDF that was in accessible to screen readers so I converted it to HTML. It is far from perfect, but should be a lot better than the PDF. For some odd reason every bit of text on the PDF was [&#8230;] 
+
+<br> 
+
+<https://www.stubbornella.org/2025/03/30/ifsc-competition-regulations-para-climbing-events/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-30, from: Dave Winer's linkblog)
+
+And The NY Times sold us out to Trump, never to be trusted again. 
+
+<br> 
+
+<https://www.nytimes.com/2025/03/29/opinion/democrats-strategy-2024.html>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-30, from: Robert's feed at BlueSky)
+
+Something to consider.👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llklxoqiv22i>
+
+---
+
+## Minimal CSS-only blurry image placeholders
+
+date: 2025-03-30, from: Lean Rada's blog
+
+
+<p>Here’s a CSS technique that produces blurry image placeholders (LQIPs) without cluttering up your markup — <em>Only a single custom property needed!</em></p>
+<card-box>
+  <code-block language="html">
+    <pre><code>&lt;img src="…" style="--lqip:192900"&gt;</code></pre>
+  </code-block>
+
+  <p>The custom property above gives you this image:</p>
+
+  <p>
+  </p><div></div>
+  <p></p>
+
+  <label>
+    Try changing the property’s value <strong>(WARNING: FLASHING)</strong>
+    <input type="range" min="-999999" max="999999">
+  </label>
+  <script>
+    {
+      const card = document.currentScript.parentElement;
+      const input = card.querySelector("input");
+      const code = card.querySelector("code");
+      const preview = card.querySelector("div");
+
+      let currentValueStr = "192900";
+      let targetCode = null
+
+      input.addEventListener("input", event => {
+        if (!targetCode) {
+          targetCode = Array.from(code.querySelectorAll("span")).filter(el => el.textContent.includes(currentValueStr)).slice(-1)[0] ?? code;
+        }
+
+        const lqip = Number(event.currentTarget.value);
+        // use this page's lqip to avoid breakage if I ever update the scheme
+        preview.style.setProperty("--my-lqip", lqip);
+        targetCode.innerHTML = targetCode.innerHTML.replace(currentValueStr, lqip);
+        currentValueStr = String(lqip);
+      });
+    }
+  </script>
+</card-box>
+<p>Granted, it’s a <em>very blurry</em> placeholder especially in contrast to other leading solutions. But the point is that it’s minimal and non-invasive! No need for wrapper elements or attributes with long strings of data, or JavaScript at all.</p>
+<box-note>Note for RSS readers / ‘Reader’ mode clients: This post makes heavy use of CSS-based images. Your client may not support it.</box-note>
+<h2>Example images</h2>
+<lqip-examples>
+  <img src="https://leanrada.com/notes/css-only-lqip/gallery/aj-McsNra2VRQQ-unsplash.jpg?ref=rss" width="300" height="199">
+  <img src="https://leanrada.com/notes/css-only-lqip/gallery/henry-co-3JFVNo4ukKQ-unsplash.jpg?ref=rss" width="300" height="200">
+  <img src="https://leanrada.com/notes/css-only-lqip/gallery/tienko-dima-uYoVf9I6ANI-unsplash.jpg?ref=rss" width="300" height="196">
+  <a href="https://leanrada.com/notes/css-only-lqip/javascript:(()=%3E%7Blet%20s;(s=document.getElementById('lqip-debug'))?s.remove%28%29%3A%28%28s=document.createElement%28%27style%27%29%29.innerHTML%3D%60%5Bstyle*%3D%27--my-lqip%3A%27%5D%3Anot%28%3Ahover%29%7Bobject-position%3Acalc%28infinity*1px%29%21important%7D%60%2Cs.id%3D%27lqip-debug%27%2Cdocument.head.append%28s%29%29%7D%29%28%29&amp;ref=rss">
+    Toggle images
+  </a>
+</lqip-examples><card-box>
+  <a href="https://leanrada.com/notes/css-only-lqip/gallery?ref=rss" target="_blank">Check out the LQIP gallery for examples!</a>
+</card-box>
+<h2>Survey of LQIP approaches</h2>
+
+<p>There have been many different techniques to implement LQIPs (low quality image placeholders), such as a very low
+  resolution WebP or JPEG (<a href="https://engineering.fb.com/2015/08/06/android/the-technology-behind-preview-photos/" target="_blank">beheaded JPEGs</a> even), optimised SVG shape placements (<a href="https://github.com/axe312ger/sqip" target="_blank">SQIP</a>), and directly applying a discrete cosine
+  transform (<a href="https://blurha.sh/" target="_blank">BlurHash</a>). Don’t forget good old progressive JPEGs and interlaced
+  PNGs!</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/css-only-lqip/solid-colour.png?ref=rss" alt="image gallery with solid colour placeholders" width="1368" height="832">
+  <figcaption>Canva and Pinterest use solid colour placeholders.</figcaption>
+</figure>
+
+<p>At the other end of the spectrum, we have low tech solutions such as a simple solid fill of the image’s average colour.</p>
+
+<p>Pure inline CSS solutions have the advantage rendering immediately — even a <code>background-image: url(…a data URL)</code> would be fine!</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/css-only-lqip/gradient-css.png?ref=rss" alt="image gallery with gradient placeholders" width="1368" height="832">
+  <figcaption><a href="https://github.com/fraser-hemp/gradify" target="_blank">Gradify</a> generates linear-gradients
+    that very roughly approximate the full image.</figcaption>
+</figure>
+
+<p>The big disadvantage of pure CSS approaches is that you typically litter your markup with lengthy inline styles or obnoxious data URLs. My handcoded site with no build step would be extra incompatible with this approach!</p>
+
+<pre><code>&lt;!-- typical gradify css --&gt;
+&lt;img width="200" height="150" style="
+  background: linear-gradient(45deg, #f4a261, transparent),
+    linear-gradient(-45deg, #e76f51, transparent),
+    linear-gradient(90deg, #8ab17d, transparent),
+    linear-gradient(0deg, #d62828, #023047);
+"&gt;
+</code></pre>
+
+<p><strong><a href="https://blurha.sh/">BlurHash</a></strong> is a solution that minimises markup by compressing image
+  data into a
+  <strong>short base-83 string</strong>, but decoding and rendering that data requires additional JS…
+</p>
+
+<pre><code>&lt;!-- a blurhash markup --&gt;
+&lt;img width="200" height="150" src="…"
+  data-blurhash="LEHV6nWB2yk8pyo0adR*.7kCMdnj"&gt;</code></pre>
+
+<figure>
+  <img src="https://leanrada.com/notes/css-only-lqip/blurhash.png?ref=rss" width="276" height="171">
+  <figcaption>BlurHash example</figcaption>
+</figure>
+
+<p>Is it possible to decode a blur hash in CSS instead?</p>
+
+<h2>Decoding in pure CSS</h2>
+
+<p>Unlike BlurHash, we can’t use a string encoding because there are very few if any string manipulation
+  functions in CSS (2025), so strings are out.</p>
+
+<p>In the end, I came up with my own hash / encoding, and the <b>integer</b> type was the best vessel for it.</p>
+
+<p>The usual way to encode stuff in a single integer is by <a href="https://en.wikipedia.org/wiki/Bit_manipulation" target="_blank"><strong>bit packing</strong></a>, where you pack multiple numbers in an integer as bits. Amazingly, we can unpack them in pure CSS!</p>
+
+<p>To unpack bits, all you need is bit shifting and bit masking. <strong>Bit shifting</strong> can be done by division and floor operations — <code>calc(x / y)</code> and <code>round(down,n)</code> — and <strong>bit masking</strong> via the modulo function <code>mod(a,b)</code>.</p>
+
+<pre><code>* {
+/* Example packed int: */
+/* 0b11_00_001_101 */
+--packed-int: 781;
+--bits-9-10: mod(round(down, calc(var(--packed-int) / 256)), 4); /* 3 */
+--bits-7-8: mod(round(down, calc(var(--packed-int) / 64)), 4); /* 0 */
+--bits-4-6: mod(round(down, calc(var(--packed-int) / 8)), 8); /* 1 */
+--bits-0-3: mod(var(--packed-int), 8); /* 5 */
+}</code></pre>
+
+<p>Of course, we could also use <code>pow(2,n)</code> instead of hardcoded powers of two.</p>
+
+<p>So, a <strong>single CSS integer value</strong> was going to be the encoding of the “hash” of my CSS-only blobhash
+  (that’s what I’m calling it now). But how much information can we pack in a single CSS int?</p>
+
+<h2>Side quest: Limits of CSS values</h2>
+
+<p>The spec doesn’t say anything about the allowed range for int values, leaving the fate of my shenanigans to browser vendors.</p>
+
+<p>From my experiments, apparently you can only use integers from <strong>-999,999 up to 999,999</strong> in custom
+  properties before you lose precision. Just beyond that limit, we start getting values rounded to tens —
+  1,234,56<del>7</del> becomes 1,234,56<ins>0</ins>. Which is weird (precision is counted in decimal places!?), but I
+  bet it’s due to historical, Internet Explorer-esque reasons.</p>
+
+<p>Anyway, within the range of [-999999, 999999] there are <strong>1,999,999</strong> values. This meant that with a
+  single integer hash, almost two million LQIP configurations could be described. To make calculation
+  easier, I reduced it to the nearest power of two down which is 2<sup>20</sup>.</p>
+<card-box>
+  <code>2<sup>20</sup> = 1,048,576 &lt; 1,999,999 &lt; 2,097,152 = 2<sup>21</sup></code>
+</card-box>
+<p><strong>In short, I had 20 bits of information to encode the CSS-based LQIP hash.</strong></p>
+<box-note><strong>Why is it called a “hash”?</strong> Because it’s a mapping from an any-size data to a fixed-size
+  value. In this case, there are an infinite number of images of arbitrary sizes, but only 1,999,999 possible hash
+  values.</box-note>
+<h2>The Scheme</h2>
+
+<p>With only 20 bits, the LQIP image must be a very simplified version of the full image. I ended up with this scheme:
+  a single base colour + 6 brightness components, to be overlaid on top of the base colour in a 3×2 grid. A
+  rather extreme version of <a href="https://en.wikipedia.org/wiki/Chroma_subsampling" target="_blank">chroma
+    subsampling</a>.</p>
+
+<img src="https://leanrada.com/notes/css-only-lqip/scheme.png?ref=rss" alt="illustration of encoded components" width="600" height="500">
+
+<p>This totals <strong>9 numbers</strong> to pack into the 20-bit integer:</p>
+
+<p>The <strong>base colour</strong> is encoded in the <strong>lower 8 bits</strong> in the <a href="https://en.wikipedia.org/wiki/Oklab_color_space" target="_blank">Oklab colour space</a>. 2 bits for luminance, and 3 bits for each of the a and b coordinates. I’ve found Oklab to give subjectively balanced results, but RGB should work just as well.</p>
+
+<p>The <strong>6 greyscale components</strong> are encoded in the <strong>higher 12 bits</strong> — 2 bits each.</p>
+
+<p>An offline script was created to compress any given image into this integer format. The script was quite simple: Get the average
+  or dominant colour — there are a lot of libraries that can do that — then resize the image down to
+  3×2 pixels and get the greyscale values. <a href="https://github.com/Kalabasa/leanrada.com/blob/7b6739c7c30c66c771fcbc9e1dc8942e628c5024/main/scripts/update/lqip.mjs#L118-L159" target="_blank">Here’s my script.</a></p>
+<box-note>I even tried a <a href="https://blog.4dcu.be/programming/2020/01/12/Genetic-Art-Algorithm.html" target="_blank">genetic algorithm</a> to optimise the LQIP bits, but the fitness function was hard to establish. Ultimately, I would’ve needed an offline CSS renderer for this to work accurately. Maybe a future iteration could use some headless Chrome solution to automatically compare real renderings of the LQIP against the source image.</box-note>
+<p>Once encoded, it’s set as the value of <code>--lqip</code> via the style attribute in the target element. It could then be decoded in CSS. Here’s the actual code I used for decoding:</p>
+
+<pre><code>[style*="--lqip:"] {
+--lqip-ca: mod(round(down, calc((var(--lqip) + pow(2, 19)) / pow(2, 18))), 4);
+--lqip-cb: mod(round(down, calc((var(--lqip) + pow(2, 19)) / pow(2, 16))), 4);
+--lqip-cc: mod(round(down, calc((var(--lqip) + pow(2, 19)) / pow(2, 14))), 4);
+--lqip-cd: mod(round(down, calc((var(--lqip) + pow(2, 19)) / pow(2, 12))), 4);
+--lqip-ce: mod(round(down, calc((var(--lqip) + pow(2, 19)) / pow(2, 10))), 4);
+--lqip-cf: mod(round(down, calc((var(--lqip) + pow(2, 19)) / pow(2, 8))), 4);
+--lqip-ll: mod(round(down, calc((var(--lqip) + pow(2, 19)) / pow(2, 6))), 4);
+--lqip-aaa: mod(round(down, calc((var(--lqip) + pow(2, 19)) / pow(2, 3))), 8);
+--lqip-bbb: mod(calc(var(--lqip) + pow(2, 19)), 8);</code></pre>
+
+<p>Before rendering the decoded values, the raw number data values need to be converted to CSS colours. It’s fairly
+  straightforward, just a bunch linear interpolations into colour constructor functions.</p>
+
+<pre><code>/* continued */
+--lqip-ca-clr: hsl(0 0% calc(var(--lqip-ca) / 3 * 100%));
+--lqip-cb-clr: hsl(0 0% calc(var(--lqip-cb) / 3 * 100%));
+--lqip-cc-clr: hsl(0 0% calc(var(--lqip-cc) / 3 * 100%));
+--lqip-cd-clr: hsl(0 0% calc(var(--lqip-cd) / 3 * 100%));
+--lqip-ce-clr: hsl(0 0% calc(var(--lqip-ce) / 3 * 100%));
+--lqip-cf-clr: hsl(0 0% calc(var(--lqip-cf) / 3 * 100%));
+--lqip-base-clr: oklab(
+  calc(var(--lqip-ll) / 3 * 0.6 + 0.2)
+  calc(var(--lqip-aaa) / 8 * 0.7 - 0.35)
+  calc((var(--lqip-bbb) + 1) / 8 * 0.7 - 0.35)
+);
+}</code></pre>
+<card-box>
+  <strong>Time for another demo!</strong>
+  <label>
+    Try different values of <code>--lqip</code> to decode
+    <input type="range" min="-999999" max="999999">
+  </label>
+  <p>
+    <code></code>
+  </p>
+  <script>
+    {
+      const card = document.currentScript.parentElement;
+      const input = card.querySelector("input");
+      const preview = card.querySelector(".lqip-unpack").parentElement;
+
+      let currentValueStr = "-721311";
+      render(Number(currentValueStr));
+
+      input.addEventListener("input", event => {
+        const lqip = Number(event.currentTarget.value);
+        render(lqip);
+        currentValueStr = String(lqip);
+      });
+
+      function render(lqip) {
+        preview.style.setProperty("--my-lqip", lqip);
+      };
+    }
+  </script>
+  
+
+  You can see here how each component variable maps to the LQIP image. E.g. the <code>cb</code> value corresponds to
+  the relative brightness of the top middle area. <em>Fun fact: The above preview content is implemented in pure
+    CSS!</em>
+</card-box>
+<h2>Rendering it all</h2>
+
+<p>Finally, rendering the LQIP. I used multiple <strong>radial gradients</strong> to render the greyscale components,
+  and a flat base colour at the bottom.</p>
+
+<pre><code>[style*="--lqip:"] {
+background-image:
+  radial-gradient(50% 75% at 16.67% 25%, var(--lqip-ca-clr), transparent),
+  radial-gradient(50% 75% at 50% 25%, var(--lqip-cb-clr), transparent),
+  radial-gradient(50% 75% at 83.33% 25%, var(--lqip-cc-clr), transparent),
+  radial-gradient(50% 75% at 16.67% 75%, var(--lqip-cd-clr), transparent),
+  radial-gradient(50% 75% at 50% 75%, var(--lqip-ce-clr), transparent),
+  radial-gradient(50% 75% at 83.33% 75%, var(--lqip-cf-clr), transparent),
+  linear-gradient(0deg, var(--lqip-base-clr), var(--lqip-base-clr));
+}</code></pre>
+
+<p>The above is a simplified version of the full renderer for illustrative purposes. <small>The real one has doubled layers, smooth gradient falloffs, and blend modes.</small></p>
+
+<p>As you might expect, the radial gradients are arranged in a 3×2 grid. You can see it in this interactive deconstructor view!</p>
+<card-box>
+  <strong>LQIP deconstructor!</strong>
+  <label>
+    Reveal the individual layers using this slider!
+    <input type="range" min="0" max="100" value="0">
+    Change the <code>--lqip</code> value,
+    <input type="range" min="-999999" max="999999">
+  </label>
+  <div></div>
+  <script>
+    {
+      const card = document.currentScript.parentElement;
+      const [revealInput, lqipInput] = card.querySelectorAll("input");
+      const preview = card.querySelector(".lqip-reveal");
+
+      let currentValueStr = "-747540";
+      render(Number(currentValueStr));
+
+      lqipInput.addEventListener("input", event => {
+        const lqip = Number(event.currentTarget.value);
+        render(lqip);
+        currentValueStr = String(lqip);
+      });
+
+      revealInput.addEventListener("input", event => {
+        preview.style.setProperty("--reveal", event.currentTarget.value / 100);
+      });
+
+      function render(lqip) {
+        preview.style.setProperty("--my-lqip", lqip);
+      };
+    }
+  </script>
+  
+</card-box>
+<p>These radial gradients are the core of the CSS-based LQIP. The position and radius of the gradients are an important detail that would determine how well these can approximate real images. Besides that, another requirement is that these individual radial gradients must be seamless when combined together.</p>
+
+<p>I implemented smooth gradient falloffs to make the final result look seamless. It took special care to make the gradients extra smooth, so let’s dive into it…</p>
+
+<h2>Bilinear interpolation approximation with radial gradients</h2>
+
+<p>Radial gradients use linear interpolation by default. Interpolation refers to how it maps the in-between colours from the start colour to the end colour. And linear interpolation, the most basic interpolation, well…</p>
+
+<figure>
+  <interpolation-example></interpolation-example>
+  <figcaption>CSS radial-gradients with linear interpolation</figcaption>
+</figure>
+
+<p>It doesn’t look good. It gives us these hard edges (highlighted above). You could almost see the elliptical edges of each radial gradient and their centers.</p>
+
+<p>In real raster images, we’d use <a href="https://harmoniccode.blogspot.com/2011/04/bilinear-color-interpolation.html" target="_blank">bilinear interpolation</a> at the very least when scaling up low resolution images. <a href="https://blog.demofox.org/2015/08/15/resizing-images-with-bicubic-interpolation/" target="_blank">Bicubic interpolation is even better.</a></p>
+
+<p>One way to simulate the smoothness of bilinear interpolation in an array of CSS radial-gradients is to use <strong>‘quadratic easing’</strong> to control the gradation of opacity.</p>
+
+<p>This means the opacity falloff of the gradient would be smoother around the center and the edges. Each gradient would get feathered edges, smoothening the overall composite image.</p>
+<prose-bleed>
+  <fixed-grid>
+    <figure>
+      <interpolation-example></interpolation-example>
+      <figcaption>
+        <strong>CSS radial-gradients:</strong>
+        Quadratic interpolation <em>(touch to see edges)</em>
+      </figcaption>
+    </figure>
+    <figure>
+      <interpolation-example></interpolation-example>
+      <figcaption>
+        <strong>CSS radial-gradients:</strong>
+        Linear interpolation <em>(touch to see edges)</em>
+      </figcaption>
+    </figure>
+    <figure>
+      <img src="https://leanrada.com/notes/css-only-lqip/interpolation-bilinear.png?ref=rss" width="900" height="600">
+      <figcaption>Image: Bilinear interpolation</figcaption>
+    </figure>
+    <figure>
+      <img src="https://leanrada.com/notes/css-only-lqip/interpolation-bicubic.png?ref=rss" width="900" height="600">
+      <figcaption>Image: Bicubic interpolation</figcaption>
+    </figure>
+    <figure>
+      <img src="https://leanrada.com/notes/css-only-lqip/interpolation-pixels.png?ref=rss" width="3" height="2">
+      <figcaption>Image: Your browser’s native interpolation</figcaption>
+    </figure>
+    <figure>
+      <img src="https://leanrada.com/notes/css-only-lqip/interpolation-pixels.png?ref=rss" width="3" height="2">
+      <figcaption>Image: No interpolation</figcaption>
+    </figure>
+  
+</fixed-grid></prose-bleed>
+<p>However, CSS gradients <a href="https://github.com/w3c/csswg-drafts/issues/1332" target="_blank">don’t support nonlinear interpolation of opacity yet as of writing</a> (not to be confused with colour space interpolation, which browsers do support!). The solution for now is to add more points in the gradient to get a smooth opacity curve based on the quadratic formula.</p>
+
+<pre><code>radial-gradient(
+  &lt;position&gt;,
+  rgb(82 190 240 / 100%) 0%,
+  rgb(82 190 204 / 98%) 10%,
+  rgb(82 190 204 / 92%) 20%,
+  rgb(82 190 204 / 82%) 30%,
+  rgb(82 190 204 / 68%) 40%,
+  rgb(82 190 204 / 32%) 60%,
+  rgb(82 190 204 / 18%) 70%,
+  rgb(82 190 204 / 8%) 80%,
+  rgb(82 190 204 / 2%) 90%,
+  transparent 100%
+)</code></pre>
+
+<figure>
+  <img src="https://leanrada.com/notes/css-only-lqip/interpolation-graph.png?ref=rss" width="1024" height="768">
+  <figcaption>The quadratic interpolation is based on two quadratic curves (parabolas), one for each half of the gradient — one upward and another downward.</figcaption>
+</figure>
+
+<p>The quadratic easing blends adjacent radial gradients together, mimicking the smooth bilinear (or even bicubic) interpolation. It’s almost like a fake blur filter, thus achieving the ‘blur’ part of this BlurHash alternative.</p>
+<card-box>
+  <a href="https://leanrada.com/notes/css-only-lqip/gallery?ref=rss">Check out the gallery for a direct comparison to BlurHash.</a>
+</card-box><lqip-examples>
+  <img src="https://leanrada.com/notes/css-only-lqip/gallery/karsten-winegeart-613pTZEFf2U-unsplash.jpg?ref=rss" width="300" height="208">
+  <img src="https://leanrada.com/notes/css-only-lqip/gallery/fahrul-azmi-Q1l1ofdVYl4-unsplash.jpg?ref=rss" width="225" height="300">
+  <img src="https://leanrada.com/notes/css-only-lqip/gallery/esma-melike-sezer-9NRRCTGKYS4-unsplash.jpg?ref=rss" width="191" height="300">
+  <img src="https://leanrada.com/notes/css-only-lqip/gallery/daniel-b-herrmann-squbLwpQRQ8-unsplash.jpg?ref=rss" width="240" height="300">
+  <a href="https://leanrada.com/notes/css-only-lqip/javascript:(()=%3E%7Blet%20s;(s=document.getElementById('lqip-debug'))?s.remove%28%29%3A%28%28s=document.createElement%28%27style%27%29%29.innerHTML%3D%60%5Bstyle*%3D%27--my-lqip%3A%27%5D%3Anot%28%3Ahover%29%7Bobject-position%3Acalc%28infinity*1px%29%21important%7D%60%2Cs.id%3D%27lqip-debug%27%2Cdocument.head.append%28s%29%29%7D%29%28%29&amp;ref=rss">
+    Toggle images
+  </a>
+</lqip-examples>
+<h2>Appendix: Alternatives considered</h2>
+
+<h3>Four colours instead of monochromatic preview</h3>
+
+<p>Four 5-bit colours, where each <b>R</b> is 2 bits, <b>G</b> is 2 bits, and <b>B</b> is just a zero or one.</p>
+
+<p>The four colours would map to the four corners of the image box, rendered as radial gradients</p>
+
+<p>This was my first attempt, and I fiddled with this for a while, but mixing four colours properly require proper bilinear interpolation and probably a shader. Just layering gradients resulted in muddiness (just like mixing too many watercolour pigments), and there was no CSS blend mode that could fix it. So I abandoned it, and moved on to a monochromatic approach.</p>
+
+<h3>Single solid colour</h3>
+
+<p>This was what I used on this website before. It’s simple and effective. A clean-markup approach could still use the custom <code>--lqip</code> variable:</p>
+
+<pre><code>&lt;img src="…" style="--lqip:#9bc28e"&gt;
+
+&lt;style&gt;
+/* we save some bytes by ‘aliasing’ this property */
+* { background-color: var(--lqip) }
+&lt;/style&gt;</code></pre>
+
+<h3>HTML attribute instead of CSS custom property</h3>
+
+<p>We can use HTML attributes to control CSS soon! Here’s what the LQIP markup would look like in the future:</p>
+
+<pre><code>&lt;img src="…" lqip="192900"&gt;</code></pre>
+
+<p>Waiting for <a href="https://developer.chrome.com/blog/advanced-attr" target="_blank"><code>attr()</code> Level 5</a> for this one. It’s nicer and shorter, fewer weird punctuations in markup <small>(who came up with the double dash for CSS vars anyway?)</small>. The value can then be referenced in CSS with <code>attr(lqip type(&lt;number&gt;))</code> instead of <code>var(--lqip)</code>.</p>
+
+<p>For extra safety, a <code>data-</code> prefix could be added to the attribute name.</p>
+
+<p>Can’t wait for this to get widespread adoption. I also want it for my <a href="https://jordanbrennan.hashnode.dev/tac-a-new-css-methodology" target="_blank">TAC components</a>.</p>
+ 
+
+<br> 
+
+<https://leanrada.com/notes/css-only-lqip/?ref=rss>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+How to Remove Your Tesla Logo. 
+
+<br> 
+
+<https://hive-mind.com/how-to-remove-your-tesla-logo/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-29, from: Tomosino's Mastodon feed)
+
+<p>Anyone got an extra void lying about for me to scream into?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114247833725803998>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Republican Abortion Laws Are &#39;Torturing Women.&#39; Can the GOP Fix Its Own Crisis? 
+
+<br> 
+
+<https://www.texasobserver.org/republican-abortion-laws-texas-legislature-exceptions/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-29, from: Robert's feed at BlueSky)
+
+If you're looking for something fun in these challenging times. Nice coverage of RISC OS North Show.
+
+https://www.iconbar.com/articles/RISC_OS_North_Show_Report_2025/index2187.html 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lljvwuhros22>
+
+---
+
+## Severed Edits
+
+date: 2025-03-29, updated: 2025-03-29, from: Tedium site
+
+Whether it was trying to or not, Apple exposed a huge flaw with its pitch to professional video editors with a new Severance promotional video. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16994717/severance-apple-remote-editing-weirdness>
+
+---
+
+## Meet the Fish That Doesn’t Want to Be Met
+
+date: 2025-03-29, from: 404 Media Group
+
+“Go away.” – Mexican tetra. 
+
+<br> 
+
+<https://www.404media.co/meet-the-fish-that-doesnt-want-to-be-met/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Timothy Snyder: The Imperialism Has no Clothes. 
+
+<br> 
+
+<https://snyder.substack.com/p/vance-in-greenland?publication_id=310897&post_id=160107346&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Rethinking Security from the Ground Up
+
+date: 2025-03-29, from: The Markup blog
+
+Professor Rikke Bjerg Jensen explores how social context shapes security 
+
+<br> 
+
+<https://themarkup.org/hello-world/2025/03/29/rethinking-security-from-the-ground-up>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+No one voted for Musk. 
+
+<br> 
+
+<https://bsky.app/profile/uraniumgirl.bsky.social/post/3llj5frwcf22p>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+The Signal chat exposes the administration’s incompetence – and its pecking order. 
+
+<br> 
+
+<https://www.theguardian.com/commentisfree/2025/mar/29/signal-chat-trump-incompetence-stephen-miller>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Emboldened Trump Squeezes Traditional Media. 
+
+<br> 
+
+<https://www.wsj.com/business/media/emboldened-trump-squeezes-traditional-media-dfa5c686?st=P2Z7Zn>
+
+---
+
+## From Bidenomics to Trumponomics: A Talk with Jared Bernstein
+
+date: 2025-03-29, from: Paul Krugman
+
+Or, we used to have reasonable people in government 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/from-bidenomics-to-trumponomics-a>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Harvard Faculty Did the Right Thing. The University Should. 
+
+<br> 
+
+<https://www.thecrimson.com/article/2025/3/28/editorial-harvard-aaup-lawsuit/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+“This is the official rapid response page of the Democratic Party, holding Trump and MAGA extremists accountable.” 
+
+<br> 
+
+<https://bsky.app/profile/factpostnews.bsky.social/post/3lfn5pghprs26>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-29, from: Robert's feed at BlueSky)
+
+RSS receivers and transmitters run outside the U.S. accessed through VPN the rebroadcast with clandestine WiFi access points run on single board computers. Make them play whack a mole to shut them all down. The way TCP/IP was originally planned way back when in that RAND paper.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lli3wtpm2c2x>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Noem&#39;s vow to eliminate FEMA raises disaster response concerns. 
+
+<br> 
+
+<https://thehill.com/policy/energy-environment/5220996-noem-trump-fema-elimination-concerns/>
+
+---
+
+## 2025-03-29: GCC 14.2.0 on PowerPC Mac OS X 10.4 Tiger
+
+date: 2025-03-29, from: Brian Robert Callahan blog
+
+Step-by-step process to get a modern GCC on an old Mac OS X 
+
+<br> 
+
+<https://briancallahan.net/blog/20250329.html>
 
 ---
 
@@ -583,6 +1275,31 @@ date: 2025-03-28, updated: 2025-03-28, from: Anil Dash
 <br> 
 
 <https://anildash.com/2025/03/28/a-bug-report-is-a-gift/>
+
+---
+
+## US-RSE March 2025 Newsletter
+
+date: 2025-03-28, from: The United States Research Software Engineer Association
+
+March 2025 - 
+          🎊We’re back!🎊 After a brief hiatus, the US-RSE Newsletter is back in production! In this monthly newsletter, we share recent, current, and planned activities of the US-RSE Association, and related news that we think is of interest to US-RSE members. Newsletters are also available on our website alongside the growing... 
+
+<br> 
+
+<https://us-rse.org/2025-03-28-newsletter/>
+
+---
+
+## Dan Katz' Community and Travel Funds Report: deRSE25
+
+date: 2025-03-28, from: The United States Research Software Engineer Association
+
+I’m thankful to have been partially supported by US-RSE’s Community and Travel Funds program, using a grant from the Alfred P Sloan foundation, to attend the 2025 German RSE Conference (deRSE25), which was co-located with the 2025 German Software Engineering Conference (SE25). While at the conference in Karlsruhe, Germany, I... 
+
+<br> 
+
+<https://us-rse.org/2025-03-28-katz-community-travel-funds-report/>
 
 ---
 
@@ -3659,232 +4376,4 @@ date: 2025-03-23, updated: 2025-03-23, from: Simon Willison’s Weblog
 <br> 
 
 <https://simonwillison.net/2025/Mar/23/jacob-kaplan-moss/#atom-everything>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Why isn’t  the Democratic Party flooding the zone with rallies like this, everywhere. 
-
-<br> 
-
-<https://bsky.app/profile/mjfree.bsky.social/post/3lkwonpyoak2z>
-
----
-
-## simonw/ollama-models-atom-feed
-
-date: 2025-03-22, updated: 2025-03-22, from: Simon Willison’s Weblog
-
-<p><strong><a href="https://github.com/simonw/ollama-models-atom-feed">simonw/ollama-models-atom-feed</a></strong></p>
-I setup a GitHub Actions + GitHub Pages Atom feed of scraped recent models data from the Ollama <a href="https://ollama.com/search?o=newest">latest models</a> page - Ollama remains one of the easiest ways to run models on a laptop so a new model release from them is worth hearing about.</p>
-<p>I built the scraper by pasting example HTML <a href="https://claude.ai/share/c96d6bb9-a976-45f9-82c2-8599c2d6d492">into Claude</a> and asking for a Python script to convert it to Atom - here's <a href="https://github.com/simonw/ollama-models-atom-feed/blob/main/to_atom.py">the script</a> we wrote together.</p>
-<p><strong>Update 25th March 2025</strong>: The first version of this included all 160+ models in a single feed. I've upgraded the script to output two feeds - the original <a href="https://simonw.github.io/ollama-models-atom-feed/atom.xml">atom.xml</a> one and a new <a href="https://simonw.github.io/ollama-models-atom-feed/atom-recent-20.xml">atom-recent-20.xml</a> feed containing just the most recent 20 items.</p>
-<p>I modified the script using Google's <a href="https://simonwillison.net/2025/Mar/25/gemini/">new Gemini 2.5 Pro</a> model, like this:</p>
-<pre><code>cat to_atom.py | llm -m gemini-2.5-pro-exp-03-25 \
-  -s 'rewrite this script so that instead of outputting Atom to stdout it saves two files, one called atom.xml with everything and another called atom-recent-20.xml with just the most recent 20 items - remove the output option entirely'
-</code></pre>
-<p>Here's the <a href="https://gist.github.com/simonw/358b5caa015de53dee0fbc96415ae6d6">full transcript</a>.
-
-
-    <p>Tags: <a href="https://simonwillison.net/tags/github-actions">github-actions</a>, <a href="https://simonwillison.net/tags/git-scraping">git-scraping</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/ollama">ollama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/github">github</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/atom">atom</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a></p> 
-
-<br> 
-
-<https://simonwillison.net/2025/Mar/22/ollama-models-atom-feed/#atom-everything>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Stratechery Interview with OpenAI CEO Sam Altman About Building a Consumer Tech Company. 
-
-<br> 
-
-<https://stratechery.com/2025/an-interview-with-openai-ceo-sam-altman-about-building-a-consumer-tech-company/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-What Is It Like to Be on Ketamine? 
-
-<br> 
-
-<https://www.thecut.com/2019/11/ketamine-disassociation-generation.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Kitty Dukakis, former first lady of Massachusetts, has died. 
-
-<br> 
-
-<https://www.wgbh.org/news/local/2025-03-22/kitty-dukakis-former-first-lady-of-massachusetts-has-died>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Reading this fresh post from Ken Smith, I thought a good slogan for Bernie&#39;s new party (maybe they should call it that) is Build Back Better, stolen from Biden. That&#39;s going to be a popular message because everyone is quickly figuring out that we&#39;re getting the shit kicked out of us, and there&#39;s a lot of rebuilding in our future no matter what. 
-
-<br> 
-
-<https://akakensmith.com/2025/03/22/get-back-to-where-you-once-belonged/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Trump’s firings of military leaders pose a crucial question to service members of all ranks. 
-
-<br> 
-
-<https://theconversation.com/trumps-firings-of-military-leaders-pose-a-crucial-question-to-service-members-of-all-ranks-247665>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-In December I wrote about &quot;listening lists&quot; for podcasts. I believe it&#39;s coming into fruition soon, from at least one major podcast vendor. It&#39;s not only going to be nice to have imho but it&#39;s something the open web does better than the podcast silos, that in itself is important. 
-
-<br> 
-
-<https://this.how/podcasting/index.opml#1733322866000>
-
----
-
-## Update: AYANEO AM01S mini PC has a retro design, a 4 inch flip-up display, and AMD Strix Point inside
-
-date: 2025-03-22, from: Liliputing
-
-<p>When AYANEO introduced the AM01S mini PC last year, the company positioned it as a compact computer with a design inspired by classic PCs from the 1980s, but a few upgrades over the original AYANEO AM01 that launched in 2023. For one thing, it had a higher-performance processor. For another, instead of a fake screen [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/update-ayaneo-am01s-mini-pc-has-a-retro-design-a-4-inch-flip-up-display-and-amd-strix-point-inside/">Update: AYANEO AM01S mini PC has a retro design, a 4 inch flip-up display, and AMD Strix Point inside</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/update-ayaneo-am01s-mini-pc-has-a-retro-design-a-4-inch-flip-up-display-and-amd-strix-point-inside/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-2009: Natural-born blogger. &quot;NBBs go first. If there&#39;s an NBB around you don&#39;t have to wait for a volunteer.&quot; 
-
-<br> 
-
-<http://scripting.com/stories/2009/11/24/naturalbornBlogger.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Newsom on the Podcast Train. 
-
-<br> 
-
-<https://daveverse.wordpress.com/2025/03/22/newsom-riding-on-the-podcast-train/>
-
----
-
-## What’s in Your Head? A Plastic Spoon and Lost Baby Memories
-
-date: 2025-03-22, from: 404 Media Group
-
-This week, we journey into the human brain and find some disturbing stuff in there. 
-
-<br> 
-
-<https://www.404media.co/whats-in-your-head-a-plastic-spoon-and-lost-baby-memories/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Utah GOP Reps. Maloy and Kennedy told to “Do your job” at a town hall. 
-
-<br> 
-
-<https://www.sltrib.com/news/politics/2025/03/20/utah-gop-reps-maloy-kennedy-told/>
-
----
-
-## The Cybernetic Teammate
-
-date: 2025-03-22, from: One Useful Thing
-
-Having an AI on your team can increase performance, provide expertise, and improve your experience 
-
-<br> 
-
-<https://www.oneusefulthing.org/p/the-cybernetic-teammate>
-
----
-
-## How Michael Horn makes videos
-
-date: 2025-03-22, from: Libre News
-
- 
-
-<br> 
-
-<https://thelibre.news/michael-horn/>
-
----
-
-## How Should We Think About the Economics of AI?
-
-date: 2025-03-22, from: Paul Krugman
-
-A conversation with Erik Brynjolfsson 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/how-should-we-think-about-the-economics>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Local and State Police Are Joining Trump&#39;s &#39;Deportation Force.&#39; 
-
-<br> 
-
-<https://www.texasobserver.org/local-state-police-ice-287g-task-force/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Seniors won&#39;t complain if they miss a Social Security check, Lutnick says. 
-
-<br> 
-
-<https://www.axios.com/2025/03/21/social-security-lutnick-doge-checks>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-22, from: Dave Winer's linkblog)
-
-Bird flu continues to spread as Trump’s pandemic experts are MIA. 
-
-<br> 
-
-<https://arstechnica.com/health/2025/03/bird-flu-continues-spread-as-trumps-pandemic-experts-are-mia/>
-
----
-
-## Improved ways to operate a rude crawler
-
-date: 2025-03-22, from: Marginallia log
-
-This text is satirical in nature.
-Tech news is abuzz with rude AI crawlers that forge their user-agent and ignore robots.txt. In my opinion, if this is all the AI startups can muster, they&rsquo;re losing their touch. wget can do this. You need to up your game, get that crawler really rolling coal. Flagrant disregard for externalities is an important signal to the investors that your AI startup is the one. 
-
-<br> 
-
-<https://www.marginalia.nu/log/a_115_rude_crawler/>
 

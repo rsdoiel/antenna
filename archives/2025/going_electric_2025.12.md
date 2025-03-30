@@ -1,11 +1,115 @@
 ---
 title: going electric
-updated: 2025-03-29 06:12:34
+updated: 2025-03-30 06:07:40
 ---
 
 # going electric
 
-(date: 2025-03-29 06:12:34)
+(date: 2025-03-30 06:07:40)
+
+---
+
+## BUY IT NOW: these EV deals will be hardest hit by Trump’s tariffs after April 2nd
+
+date: 2025-03-30, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/id4-main.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Last week, <a href="https://electrek.co/2025/03/26/trump-imposes-tariffs-on-all-car-imports-here-where-all-evs-available-in-the-us-come-from/">US President Donald Trump announced that his administration would impose a 25% tariff on all cars</a>, trucks, and even automotive parts imported into the country. The tariffs kick in April 2nd, and these are the EVs set to be the hardest hit by those tariffs – if any of these are on your shopping list, <strong>you’ll want to act now</strong>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ev-deals,tariffs" data-layer-viewtype="unknown" data-post-id="408599" href="https://electrek.co/2025/03/30/buy-it-now-these-ev-deals-will-be-hardest-hit-by-trumps-tariffs-after-april-2nd/#more-408599" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/30/buy-it-now-these-ev-deals-will-be-hardest-hit-by-trumps-tariffs-after-april-2nd/>
+
+---
+
+## SANY electric excavator arrives in Europe with MASSIVE 422 kWh battery
+
+date: 2025-03-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/sany_excavator.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese equipment manufacturer SANY says its new, SY215E 25 ton electric excavator offers all the power and performance of its diesel competitors while dramatically reducing both noise, total cost of ownership, and (of course) emissions … but the number that stands out to me is 422.</p>
+
+
+
+<p>As in: the machine’s massive, <a href="https://electrek.co/2024/12/20/critical-ev-battery-materials-face-a-supply-crunch-by-2030/">cobalt-free</a>, 422 kWh lithium iron phosphate battery pack. (!)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,sany" data-layer-viewtype="unknown" data-post-id="408574" href="https://electrek.co/2025/03/29/sany-electric-excavator-arrives-in-europe-with-massive-422-kwh-battery/#more-408574" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/29/sany-electric-excavator-arrives-in-europe-with-massive-422-kwh-battery/>
+
+---
+
+## E-quipment highlight: KUKA robots keep the kegs of Yuengling moving [video]
+
+date: 2025-03-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/kuka-keg-robot.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It may market itself as “<a href="https://www.youtube.com/watch?v=HZeSUHPjJhY" target="_blank" rel="noreferrer noopener nofollow">America’s Oldest Brewery</a>,” but the D.G. Yuengling and Son, Inc. brewery in Pottsville, Pennsylvania has been on the leading edge of manufacturing innovation for decades. Recently, Yuengling replaced its original automation equipment with new, state-of-the-art robots from Kuka.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="automation,robots" data-layer-viewtype="unknown" data-post-id="408549" href="https://electrek.co/2025/03/29/e-quipment-highlight-kuka-robots-keep-the-kegs-of-yuengling-moving-video/#more-408549" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/29/e-quipment-highlight-kuka-robots-keep-the-kegs-of-yuengling-moving-video/>
+
+---
+
+## Did Ford time BlueOval SK factory opening perfectly to navigate Trump tariffs?
+
+date: 2025-03-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/mach-e_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>US President Donald Trump recently announced a raft of new, expensive import tariffs on cars, trucks, and even parts and batteries imported into the country – which means that Ford might have timed its BlueOval SK battery factory going online perfectly.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,sk-on,tariffs" data-layer-viewtype="unknown" data-post-id="408514" href="https://electrek.co/2025/03/29/did-ford-time-blueoval-sk-factory-opening-perfectly-to-navigate-trump-tariffs/#more-408514" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/29/did-ford-time-blueoval-sk-factory-opening-perfectly-to-navigate-trump-tariffs/>
+
+---
+
+## TikTok Is Roasting The Crazy Spaceship Noises EVs Make
+
+date: 2025-03-29, from: Inside EVs News
+
+"When I heard it for the first time, I thought I was about to meet God," wrote one TikTok user. They're not wrong. 
+
+<br> 
+
+<https://insideevs.com/news/754999/tiktok-trend-reverse-ev-sound/>
+
+---
+
+## Nissan's Next-Gen Hybrids Are Actually EREVs
+
+date: 2025-03-29, from: Inside EVs News
+
+Even in non-plug-in models, Nissan's hybrid system has no direct connection between its engine and wheels.  
+
+<br> 
+
+<https://insideevs.com/news/754997/nissan-erev-e-power-rogue/>
+
+---
+
+## Lucid Gravity Deliveries Start In Force In Late April
+
+date: 2025-03-29, from: Inside EVs News
+
+A lot is riding on the success of Lucid's three-row electric SUV. Now we know the Gravity will arrive for regular customers next month. 
+
+<br> 
+
+<https://insideevs.com/news/755016/lucid-gravity-customer-deliveries-april/>
 
 ---
 
@@ -74,6 +178,10 @@ Georgia Rep. Buddy Carter's district gets a lot of jobs, thanks to Hyundai's EV 
 date: 2025-03-28, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Trump’s dumb new auto tariffs explained, Tesla being in the crosshairs of retaliatory tariffs, the new Nissan Leaf, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Electrek_379.mp3"></audio></figure>
 
 
 
@@ -489,7 +597,7 @@ By CEC Staff The California Energy Commission  (CEC) is working hard to develop
 
 ---
 
-## 2025 Porsche Macan EV review – a good car, but is it a good EV?
+## 2025 Porsche Macan Electric review – a good car, but is it a good EV?
 
 date: 2025-03-27, from: Electrek Feed
 
@@ -1990,56 +2098,4 @@ date: 2025-03-23, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/03/22/zquip-modular-power-lets-job-sites-switch-from-diesel-to-ev-on-the-same-machine/>
-
----
-
-## California Now Has More EV Chargers Than Gas Pumps
-
-date: 2025-03-22, from: Inside EVs News
-
-In the heart of American culture, the electric vehicle reigns supreme. There are nearly 50% more chargers than gas nozzles in the state. 
-
-<br> 
-
-<https://insideevs.com/news/754329/california-gas-pump-ev-charging/>
-
----
-
-## Elgo-Plus Springer Max-EB electric micro excavator asks: Can you dig it?
-
-date: 2025-03-22, from: Electrek Feed
-
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/20250313-221054-ELGO-x-Briggs-Stratton.png?w=1600" /></div><p>If you’re a middle-aged suburbanite looking to throw down the landscaping gauntlet on a rival dad, the Elgo-Plus Springer Max-EB battery electric micro excavator is absolutely the one-up yard machine you’ve been waiting for.</p>
-
-
-
- <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-construction-equipment" data-layer-viewtype="unknown" data-post-id="407093" href="https://electrek.co/2025/03/22/elgo-plus-springer-max-eb-electric-micro-excavator-asks-can-you-dig-it/#more-407093" class="more-link">more…</a> 
-
-<br> 
-
-<https://electrek.co/2025/03/22/elgo-plus-springer-max-eb-electric-micro-excavator-asks-can-you-dig-it/>
-
----
-
-## Here's How Alfa Romeo Will Go Electrified Next
-
-date: 2025-03-22, from: Inside EVs News
-
-Looks like Alfa Romeo is another manufacturer to offer both electric and combustion versions of the same vehicle. 
-
-<br> 
-
-<https://insideevs.com/news/754292/alfa-romeo-stelvio-ev-teaser/>
-
----
-
-## Tesla Cybertruck Sales Are Falling Off
-
-date: 2025-03-22, from: Inside EVs News
-
-Cybertruck sales dropped by 32.5% in February, and a new recall isn't helping matters either.  
-
-<br> 
-
-<https://insideevs.com/news/754161/tesla-cybertruck-sales-falling-panels/>
 

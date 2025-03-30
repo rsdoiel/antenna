@@ -1,11 +1,105 @@
 ---
 title: journalism
-updated: 2025-03-29 06:12:30
+updated: 2025-03-30 06:07:37
 ---
 
 # journalism
 
-(date: 2025-03-29 06:12:30)
+(date: 2025-03-30 06:07:37)
+
+---
+
+## Santa Clarita business partners with LA County to help make prom dreams come true for foster teen boys
+
+date: 2025-03-29, from: The Canyon News (COC Student Newspaper)
+
+<p>Several times a day, a special piece of joy is carefully packaged&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/perfect-tux/">Santa Clarita business partners with LA County to help make prom dreams come true for foster teen boys</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/perfect-tux/>
+
+---
+
+## UCLA recommends indefinite ban for SJP, 4-year suspension for Graduate SJP
+
+date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 29 at 2:22 a.m.</em>
+UCLA has recommended sanctions for two pro-Palestine student organizations on campus.
+The Office of Student Conduct recommended indefinitely revoking the student organization status of Students for Justice in Palestine at UCLA and suspending Graduate SJP at UCLA’s status for four years, according to a statement emailed Friday by a UCLA spokesperson. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/29/ucla-office-of-student-conduct-recommends-bans-for-2-pro-palestine-organizations/>
+
+---
+
+## UC Regents committee reviews educational support for transfer, disabled students
+
+date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents discussed cross-campus educational initiatives and support for disabled students at a March 19 meeting.
+The board held its bimonthly meeting March 18 to March 20 at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/28/uc-regents-committee-reviews-educational-support-for-transfer-disabled-students/>
+
+---
+
+## UCLA community reacts, responds to Department of Education restructuring
+
+date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+Recent changes at the Department of Education have raised concerns about how public universities like UCLA could be affected.
+President Donald Trump signed an executive order March 20 to close the Department of Education in an effort to increase state control over education one week after laying off nearly 50% of the department&#8217;s workforce. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/28/ucla-community-reacts-responds-to-department-of-education-restructuring/>
+
+---
+
+## Wind Ensemble Delivers Thrilling Night of Varied Music at The Soraya
+
+date: 2025-03-29, from: The Sundail (CSUN Student Newspaper)
+
+On the four-floor stage of The Soraya, Lawrence Stoffel conducted the CSUN Wind Ensemble, filling the stage with music that switched from fast and powerful to soulful and slow. With... 
+
+<br> 
+
+<https://sundial.csun.edu/191794/arts-entertainment/wind-ensemble-delivers-thrilling-night-of-varied-music-at-the-soraya/>
+
+---
+
+## College of the Canyons hosts it’s annual  Cougar Fest
+
+date: 2025-03-29, from: The Canyon News (COC Student Newspaper)
+
+<p>Students across the College of the Canyons got to experience the annual&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/cougar-fest/">College of the Canyons hosts it&#8217;s annual  Cougar Fest</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/cougar-fest/>
+
+---
+
+## Comfort shows offer calm in the middle of chaos
+
+date: 2025-03-28, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Rhythm and News hosts Alison Mitchell and Christina Vo discuss their favorite comfort shows to relax with — ranging from "Abbott Elementary" to "The Great British Bake Off" — and offer the perfect show suggestions for any mood you're in.</p>
+<p>The post <a href="https://dailytrojan.com/2025/03/28/comfort-shows-offer-calm-in-the-middle-of-chaos/">Comfort shows offer calm in the middle of chaos</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/03/28/comfort-shows-offer-calm-in-the-middle-of-chaos/>
 
 ---
 
@@ -37,8 +131,8 @@ Deorro will take the stage at CSUN’s Big Show on Saturday, March 29, at the Un
 
 date: 2025-03-28, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Department of Justice announced an investigation into UCLA on Thursday for the alleged use of affirmative action when admitting students.
-A 2023 Supreme Court ruling made it illegal to consider race in the college admissions process nationwide, but affirmative action was already illegal across the UC at the time due to California voters passing Proposition 209 – which banned the practice in public employment, education and contracting – in 1996. 
+<em>This post was updated March 29 at 11:19 a.m.</em>
+The Department of Justice announced an investigation into UCLA on Thursday for the alleged use of affirmative action when admitting students. 
 
 <br> 
 

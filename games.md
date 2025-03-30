@@ -1,11 +1,71 @@
 ---
 title: games
-updated: 2025-03-29 06:12:30
+updated: 2025-03-30 06:07:36
 ---
 
 # games
 
-(date: 2025-03-29 06:12:30)
+(date: 2025-03-30 06:07:36)
+
+---
+
+## The live-action Disney Princess dresses, ranked
+
+date: 2025-03-29, updated: 2025-03-29, from: Polygon Website
+
+As Disney keeps rolling out live-action versions of its classic animated movies, costume and production designers keep facing the challenge of making attractive animated images look equally good in the real world.&#160; Consider the Disney Princess characters: They all have iconic dresses that look gorgeous in their original animated outings (except Aladdin’s Jasmine, who rocks [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/disney/548340/disney-princess-live-action-dresses-snow-white-ranked>
+
+---
+
+## The Journey and Sky art books each hold a secret
+
+date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
+
+Most video game art books follow a certain template: Load up on concept art, show how the game evolved during production, add some commentary to connect the dots. Some lean more heavily on a studio’s history and others focus on technique, but it’s a proven formula that, in the best cases, has produced books that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/546844/journey-sky-thatgamecompany-art-books>
+
+---
+
+## Giratina ex just fixed going first in Pokémon TCG Pocket
+
+date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
+
+Going first in Pokémon TCG Pocket sucks. You can’t equip any energy (unless you happen to have Misty). You can’t evolve. You kind of just put a Pokémon in the active spot and hope that your opponent doesn’t wallop you too hard on the second turn. It’s pretty rough — that is, until Giratina ex showed up [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/548611/giratina-ex-deck>
+
+---
+
+## John Carpenter’s Prince of Darkness is an underseen and essential masterpiece
+
+date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
+
+I don’t think we give John Carpenter enough credit. That might sound hyperbolic, given that we’re talking about the creator of one the most enduring cinematic horror franchises of all time, but it’s true. He’s more than just the mastermind behind Halloween; he’s a renaissance man, at once the director of such touchstones as The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/548730/prince-of-darkness-streaming-what-to-watch-prime-video>
+
+---
+
+## The best sci-fi and fantasy books to read this April
+
+date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
+
+Spring is finally here, and with it, some warmer weather. While many of you will take this as an opportunity to get outside more and see your loved ones, I see this as the prime season for curling up in a sunbeam or sprawling on a picnic blanket with a good book. The real challenge [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/548735/best-sci-fi-fantasy-releases-april-2025>
 
 ---
 
@@ -570,100 +630,4 @@ FFXIV patch 7.2 — the second major Dawntrail update — releases soon, alongsi
 <br> 
 
 <https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/543582/patch-7-2-maintenance-end-time-back-online>
-
----
-
-## Assassin’s Creed Shadows voice actor Masumi reflects on her first video game performance
-
-date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
-
-Singer-songwriter, actor, and now video game voice actor Masumi is not new to playing a Japanese assassin grieving the loss of her father. She starred as a yakuza heir in 2021’s Yakuza Princess — her “breakout movie,” as she calls it. Then, she booked a new challenge: Naoe, the shinobi assassin protagonist in Assassin’s Creed [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/q-and-a/543792/assassins-creed-shadows-masumi-voice-actor-video-game-performance>
-
----
-
-## Ne Zha 2 director launched his career with this wild animated short — and a much wilder backstory
-
-date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
-
-The meteoric rise of the Chinese movie Ne Zha 2 has been stunning: The sequel has broken worldwide records for an animated movie, and as of this writing, has reportedly earned more than $2 billion at the international box office, putting it at No. 5 on the all-time highest-grossing-movie list, above Star Wars: The Force [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/animation-cartoons/544811/ne-zha-2-director-jiao-zi-free-animated-short-debut>
-
----
-
-## Severance season 2 was always at war with itself — and season 3 might be, too
-
-date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
-
-At the end of Severance season 2, Mark (Adam Scott) is not very happy with himself. Well, actually, let’s put this a little more clearly in Severance terms: Outie-Mark is not very happy with Innie-Mark — and the feeling is mutual.  Having now had a full conversation with each other for the first time, aided [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/review/544883/severance-season-2-review-finale-3-setup>
-
----
-
-## A Nintendo game trend that looks like it will continue on Switch 2
-
-date: 2025-03-22, updated: 2025-03-22, from: Polygon Website
-
-This story was first published in Switchboard, a newsletter from Polygon that delivers all the latest Switch 2 news, reporting, and rumors directly to your inbox.&#160;Sign up here&#160;to get it weekly. Former Nintendo president Satoru Iwata passed before the Switch launched in 2017, but he left the company with a vision that it&#8217;s beginning to [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/nintendo-switch-2/544241/nintendo-switch-2-multiplayer-mmo>
-
----
-
-## How a Mega Man fan project got an official Capcom license
-
-date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
-
-Back in 2021, Philip Summers launched a Kickstarter campaign for Hand-Drawn Game Guides, a series of books that resembled traditional strategy guides, apart from the fact that they were all illustrated by Summers. The campaign was a hit, generating over $300,000 in pledges, but like a number of fan projects utilizing game company IPs, it [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/q-and-a/539004/mega-man-hand-drawn-guide-interview>
-
----
-
-## All 14 Assassin’s Creed games, ranked
-
-date: 2025-03-22, updated: 2025-03-22, from: Polygon Website
-
-Over the nearly two decades since the first entry, Assassin’s Creed has ballooned into a mixed-media franchise that includes at least seven spinoffs, nine novels, 11 comics, a Michael Fassbender film, an in-development TV show, and enough Pop! toys to fill a jam band. The brand is so ubiquitous, so familiar, that its core ideas [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/2017/10/27/544208/assassins-creed-games-ranked-best-worst>
-
----
-
-## The best horror movies to watch on Netflix this March
-
-date: 2025-03-22, updated: 2025-03-21, from: Polygon Website
-
-Look, March isn’t the scariest month of the year. In fact, it’s probably in the top three least scary months, if we had to rank them. Thankfully, Netflix is here to help, with a selection of great horror movies to keep things creepy. This month, we handpicked a few of the best horror movies on [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/543139/best-horror-movies-netflix-watch-march-2025>
-
----
-
-## Pokémon Go Totodile Community Day Classic guide
-
-date: 2025-03-22, updated: 2025-03-20, from: Polygon Website
-
-Pokémon Go is having a Totodile Community Day event on Saturday, March 22 from 2-5 p.m. in your local time. As expected with a Community Day event, Totodile will spawn in huge numbers with a high chance for it to appear shiny. There are also several other bonuses and perks, which we’ve list out below. [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-go-guide/543535/totodile-community-day-shiny-feraligatr-moveset>
 

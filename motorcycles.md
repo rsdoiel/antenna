@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-03-29 06:12:33
+updated: 2025-03-30 06:07:38
 ---
 
 # motorcycles
 
-(date: 2025-03-29 06:12:33)
+(date: 2025-03-30 06:07:38)
+
+---
+
+## GALLERY: NASCAR Xfinity Series At Historic Martinsville Speedway
+
+date: 2025-03-30, from: Kickin the Tires blog
+
+Photos by Blake Ulino/Kickin&#8217; the Tires 
+
+<br> 
+
+<https://kickinthetires.net/nascar/gallery-nascar-xfinity-series-at-historic-martinsville-speedway/>
+
+---
+
+## KTM Likely Just Cancelled Its New EV Dirt Bike, and Is Erasing All Mention Of It
+
+date: 2025-03-29, from: Ride Apart, Electric Motorcycle News
+
+The KTM chaos continues.  
+
+<br> 
+
+<https://www.rideapart.com/news/754994/ktm-freeride-e-ev-electric-dirt-bike-cancelled-postponed/>
 
 ---
 
@@ -497,16 +521,4 @@ By Holly Cain, NASCAR Wire Service HOMESTEAD, Fla. – In one of the most dramat
 <br> 
 
 <https://kickinthetires.net/nascar/justin-allgaier-strikes-gold-in-overtime-wins-xfinity-race-and-100k-bonus-at-miami/>
-
----
-
-## Wait, This Honda Motorcycle Was Actually Designed By Suzuki?
-
-date: 2025-03-22, from: Ride Apart, Electric Motorcycle News
-
-Probably not what you think! 
-
-<br> 
-
-<https://www.rideapart.com/news/754307/honda-cb1000f-concept-design-suzuki/>
 

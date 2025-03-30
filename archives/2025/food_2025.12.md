@@ -1,11 +1,71 @@
 ---
 title: food
-updated: 2025-03-29 06:12:34
+updated: 2025-03-30 06:07:40
 ---
 
 # food
 
-(date: 2025-03-29 06:12:34)
+(date: 2025-03-30 06:07:40)
+
+---
+
+## Don’t Talk To Me Until I’ve Had All 21 Coffees From The Sprudge Roaster’s Village
+
+date: 2025-03-30, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village. 
+
+<br> 
+
+<https://sprudge.com/dont-talk-to-me-until-ive-had-all-21-coffees-from-the-roasters-village-311084.html>
+
+---
+
+## This Coconut-Chile Salmon Got Me Excited About Salmon Again
+
+date: 2025-03-30, from: Bon Appetet
+
+A delightful 30-minute recipe to add to the weekly meal plan. 
+
+<br> 
+
+<https://www.bonappetit.com/story/why-i-love-this-coconut-salmon>
+
+---
+
+## 47 Spicy Recipes to Make You Sweat
+
+date: 2025-03-29, from: Bon Appetet
+
+Fiery chili-crisp pasta, spicy cocoa shrimp, beef mala hot pot, and more tingle-inducing recipes. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/spicy-recipes>
+
+---
+
+## Mango Mousse Cake
+
+date: 2025-03-29, from: Taste of Home
+
+Mango mousse cake tastes like sunshine, which means it's perfect for a special summer dessert or for fighting off the winter blues. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/mango-mousse-cake/>
+
+---
+
+## All the Recipes From Bon Appétit’s Travel Issue
+
+date: 2025-03-29, from: Bon Appetet
+
+We’ve got honey-soy chicken, asparagus Comté salad, and a grapefruit cocktail. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/bon-appetit-april-2025-issue>
 
 ---
 
@@ -1068,16 +1128,4 @@ date: 2025-03-23, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/succulent-shrimp-recipes/>
-
----
-
-## Rice Kheer
-
-date: 2025-03-22, from: Taste of Home
-
-This delicately spiced and velvety smooth kheer recipe is made with simple pantry staples, and is great warmed or chilled. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/rice-kheer-recipe/>
 

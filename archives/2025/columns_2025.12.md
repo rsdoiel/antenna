@@ -1,11 +1,285 @@
 ---
 title: columns
-updated: 2025-03-29 06:12:29
+updated: 2025-03-30 06:07:35
 ---
 
 # columns
 
-(date: 2025-03-29 06:12:29)
+(date: 2025-03-30 06:07:35)
+
+---
+
+## ‘You Are So Beautiful’
+
+date: 2025-03-30, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/you-are-so-beautiful>
+
+---
+
+## 
+                I/O wait and io_uring
+            
+
+date: 2025-03-30, updated: 2025-03-30, from: Uninformative blog
+
+ 
+
+<br> 
+
+<https://www.uninformativ.de/blog/postings/2025-03-30/0/POSTING-en.html>
+
+---
+
+## Dash to Panel lives on, thanks to Zorin sponsorship
+
+date: 2025-03-30, updated: 2025-03-30, from: Liam Proven's articles at the Register
+
+<h4>There&#39;s also a new release of the Zorin OS distro</h4>
+      <p>The handy GNOME extension Dash to Panel will live on, under its present maintainer, after winning financial backing from one of the distros that uses it.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/03/30/zorin_and_dash_to_panel/>
+
+---
+
+## Sunday thought
+
+date: 2025-03-30, from: Robert Reich's blog
+
+Comedy and tragedy 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought>
+
+---
+
+## The Mediocrity of Modern Google
+
+date: 2025-03-30, from: Om Malik blog
+
+These days, whenever I think about Google, I recall a line from Madame Bovary. “She wanted to die, but she also wanted to live in Paris,” Flaubert writes, capturing Emma Bovary’s provincial reality and her romanticized dreams of escape. That is Google in a nutshell, isn’t it? The company that once represented the pinnacle of &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/29/the-mediocrity-of-modern-google/>
+
+---
+
+## IFSC Competition Regulations Para Climbing Events
+
+date: 2025-03-30, from: Stubbornella Blog
+
+The international federation of sport climbing released its 2025 paraclimbing regulations. The document was a PDF that was in accessible to screen readers so I converted it to HTML. It is far from perfect, but should be a lot better than the PDF. For some odd reason every bit of text on the PDF was [&#8230;] 
+
+<br> 
+
+<https://www.stubbornella.org/2025/03/30/ifsc-competition-regulations-para-climbing-events/>
+
+---
+
+## March 29, 2025
+
+date: 2025-03-30, from: Heather Cox Richardson blog
+
+I actually had things to say tonight, but slept most the day and cannot seem to wake up enough to write coherently. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-29-2025>
+
+---
+
+## 2025-03-30 Don't visit the USA
+
+date: 2025-03-30, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-30-don-t-visit-the-usa">2025-03-30 Don&rsquo;t visit the USA</h1>
+
+<p>When people talk about minimal laptop installs, burner phones, and the
+mess of US border crossings, I wonder where they habe been the last
+twenty years. A dude from work flew to the states to work for HP as a
+student, got turned back at the airport and put on a flight back. He
+got to make one family call, his dad called HP, they called some
+lawyers and by the time they go there he was already on a plane. And
+those were the good days, before 9/11, Homeland Security and all that.</p>
+
+<p>Have you seen the forms they have you sign on the Visa Waiver program?
+The border agents have total discretion over you. Those are not &ldquo;passenger
+rights&rdquo; but &ldquo;small mercies&rdquo;. And that was long before Trump. It&rsquo;s
+terrible fuckery now, but it wasn&rsquo;t great before that. Not travelling
+to the states? I&rsquo;ve told people at the office that I won&rsquo;t be going to
+the states for work ever since 9/11. The last time I went happily was,
+uh, when The Phantom Menace came out?</p>
+
+<p>I went once more when
+my wife wanted to go to Hawaii. Somebody there held my hand and
+prayed for me on a parking lot. Somebody there gave me an ad for an
+underground firing range. I learned how the US treated the locals. No,
+visiting the US was never an easy call to make. And those were the
+good days.</p>
+
+<p>And what about boycotting the US? It is with despair that I see my
+employer buying more and more into Windows and Microsoft and Azure and
+Amazon S3. Have they not learned anything from Snowden? American IT is
+not to be trusted. I mean, it&rsquo;s probably not be trusted anywhere, but
+when give a choice, there is no reason to trust the USA. The agencies
+can get all the information they want and hand out gag orders to prevent
+the well-meaning corporations to warning you. From the outside, they
+are just as bad as the rest of them. And they will use their power against
+you. And Snowden was during the good years!</p>
+
+<p>And yes, Fortress Europe is not great, either. Two things being not
+great doesn&rsquo;t make a right, though. The first step is to realise how
+bad the situation is, how bad the situation has been.</p>
+
+<p>And now the situation really is fucked up.</p>
+
+<p>If you look at the attempts at regime change in recent years,
+I think the lessons are obvious: It can only succeed with long, weekly
+mass demonstrations, in broad coalitions.</p>
+
+<p>The only way out of a corrupt government
+that controls access to jobs, controls the institutions, controls most
+media is weekly protest. It takes a long time to grow. You have to
+be there, every time. &ldquo;Pumpaj!” Keep the pressure up.</p>
+
+<p>Join whatever protest is on this week.</p>
+
+<p>I also think it is important to not conflate the man with the mob.
+Name no names! Because it’s never just one person. If it looks like
+one person then that person is the face man of the mob. The people that
+need kicking are all those that got their jobs from the mob. All these
+greedy incompetents whose only qualification is how far they can bend
+over.</p>
+
+<p>Yeet them into the sun. Send them off to Mars. Whatever.</p>
+
+<p>To think that Canadians or Greenlanders want to be part of the USA is
+about as absurd to me as Taiwanese wanting to be part of mainland China
+or Ukrainians wanting to be part of Russia. The only ones not getting it
+are the sympathisers of the dread regimes in China, in Russia &ndash; and in the USA.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-30-visit-the-usa>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-29, from: Miguel de Icaza Mastondon feed)
+
+<p>Give us __asm__ in safe languages you cowards!</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114248424960473217>
+
+---
+
+## When AI Whispers in Ink
+
+date: 2025-03-29, from: Om Malik blog
+
+As one month ends and another begins, I find myself performing what has become a private ritual with two pens from my unusually large collection of fountain pens. These are not the sober instruments that sign checks or pen manuscripts—those steadfast companions are already loaded with respectable blues and blacks, the colors of responsibility. These &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/29/when-ai-whispers-in-ink/>
+
+---
+
+## March 28, 2025
+
+date: 2025-03-29, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160140804/b0c72cc7666686b0d4217206d6083920.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160140804/b0c72cc7666686b0d4217206d6083920.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-28-2025-3d2>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/11/26/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is very important. If you're on Bluesky, <a href="https://bsky.app/profile/factpostnews.bsky.social/post/3lfn5pghprs26">follow this account</a>. "This is the official rapid response page of the Democratic Party." I've been <a href="https://daytona.scripting.com/search?q=%22on%20the%20air%22">begging</a> the Dems to do this since 2009, a permanent heartbeat for the Dems on social media. Staffed by the team that ran the Harris campaign social media center during the campaign. They were snarky, fun, irreverent, and never apologized for representing the people, and they did it well. This is a moment. I no longer have to beg for this. It exists. So the first step has already been taken, thank goodness!!! Now it's up to <i>us</i> to spread the news that there is a place to find the heartbeat of the Dems. I'm going to study it, RT it, and keep the flame lit the best I can. 
+
+<br> 
+
+<http://scripting.com/2025/03/29.html#a144822>
+
+---
+
+## Miscellany № 107: old books (and a new Book)
+
+date: 2025-03-29, from: Shady Characters blog
+
+<p>Some big news today: <a href="/books/the-book"><cite>The Book: A Cover-to-Cover Exploration of the Most Powerful Object of our Time</cite></a> will be published soon in paperback!</p>
+<p>The paperback edition is updated from the hardback, with all of the various <a href="https://shadycharacters.co.uk/books/the-book/errata-for-the-book/">errata</a> fixed and a number of changes made to account for the book’s paperback rather than hardcover construction.  If you remember, the hardback edition had a number of references to its own physical form (“Tip the book towards you and look at the spine”, and so on) which have now been modified accordingly. Of course, the paperback edition provides a new and different set of reference points, so if some passages now ask you to find a hardback on your bookshelf, others can now tell you to look again at the paperback in your hands.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/03/miscellany-107-book-paperback/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/03/miscellany-107-book-paperback/>
+
+---
+
+## Is the Trump Fever Breaking? | Saturday Coffee Klatch for March 29, 2025
+
+date: 2025-03-29, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160087362/9997f650c186b50799f94536e0be4c31.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160087362/9997f650c186b50799f94536e0be4c31.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/is-the-trump-fever-breaking-saturday>
+
+---
+
+## March 28, 2025
+
+date: 2025-03-29, from: Heather Cox Richardson blog
+
+&#8220;Another wipeout walloped Wall Street Friday,&#8221; Stan Choe of the Associated Press wrote today. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-28-2025>
+
+---
+
+## Weeknotes: March 22-28, 2025
+
+date: 2025-03-29, from: Tracy Durnell Blog
+
+Win of the week: published the next piece in my ongoing Mindset of More series &#8212; so far these posts are taking me about a month to write (since the first few I wrote while on vacation), feels like a good pace Looking forward to: hoping to go see cherry blossoms next week if I can find [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/28/weeknotes-march-22-28-2025/>
+
+---
+
+## Pictures
+
+date: 2025-03-29, from: Doc Searls (at Harvard), New Old Blog
+
+Still miss him. Just found a photo of Aaron Swartz from the time I recruited him for a panel at Comdex in 2002. He was a kid, but rocked it. I suppose it&#39;s one of these. The photo at the top of this story is of the Linden Cogeneration Plant in New Jersey, which I [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/28/pictures/>
 
 ---
 
@@ -1163,7 +1437,7 @@ date: 2025-03-26, updated: 2025-03-26, from: Daring Fireball
 
 date: 2025-03-26, updated: 2025-03-26, from: Liam Proven's articles at the Register
 
-<h4>Bad news about the Linux system monitor may be on the way</h4>
+<h4><span class="label">Updated</span> Bad news about the Linux system monitor may be on the way</h4>
       <p>Veteran sysadmin and tech blogger Rachel Kroll posted a cryptic warning yesterday about a popular Linux system monitoring tool. Maybe it&#39;s better to be safe than sorry.</p> 
 
 <br> 
@@ -2578,300 +2852,4 @@ Enshittification as a matter of taste by Dave Rupert To me, enshittification mea
 <br> 
 
 <https://tracydurnell.com/2025/03/22/when-profit-trumps-principles/>
-
----
-
-## The Trump daymare
-
-date: 2025-03-22, from: Robert Reich's blog
-
-Friends, 
-
-<br> 
-
-<https://robertreich.substack.com/p/the-trump-day-mare>
-
----
-
-## March 21, 2025
-
-date: 2025-03-22, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159644749/f840558af2a8ffaa1fac54ffccd14bb6.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/159644749/f840558af2a8ffaa1fac54ffccd14bb6.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/march-21-2025-9e1>
-
----
-
-## Heavy Whether
-
-date: 2025-03-22, from: Doc Searls (at Harvard), New Old Blog
-
-We&#39;ll know soon. Whether or not you&#39;re watching St. John&#39;s playing Arkansas, right now, in the NCAA&#39;s March Madness tournament, take out a minute and a half to take in Jimmy Fallon and the boys singing the Red Storm Shanty. Lou Carnaseca must be glowing in his grave. (Later: they lost.) 
-
-<br> 
-
-<https://doc.searls.com/2025/03/22/heavy-whether-2/>
-
----
-
-## Paving cowpaths
-
-date: 2025-03-22, from: Dave Winer's Scripting News
-
-<p><img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/04/10/cow.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A funny thing. A few months back someone told me that I had been gone from the podcast world for too long for anyone to listen to me. I thought how weird, I didn't go anywhere at all, I stayed exactly <a href="http://scripting.com/">where</a> I was, all the time. Virtually every day. If people cared to know what I think they could have found out pretty quickly because I am of course an <a href="http://scripting.com/stories/2009/11/24/naturalbornBlogger.html">NBB</a>. I talk about what I think all the time. (And besides, why do you care where you get ideas from, I don't.)</p>
-<p>Anyway, the idea was about a <a href="https://this.how/podcasting/index.opml#1733322866000">feature for podcasting</a> that would open up doors for influencers and ad hoc networks of podcasts, instead of a few dozen weak (imho) attempts to build synergy, I trust that invisible hand Darwinian ecosystem builds better networks, because they are real, not contrived. </p>
-<p>Give the people the tools and see what happens. </p>
-<p>Users and developers party together.</p>
-<p>That's the opposite of the "move fast and break things" approach to technology, instead it's "paving the cowpaths," the process that has always fascinated me and been the method to my madness. Make the tools, give them to the people and sit back and hope something happens. When it doesn't try to show the way. And try out lots of these kinds of ideas. </p>
-<p>This method really works, and it isn't destructive, it's totally constructive. (Actually it does destroy what was there before, but in a merciful way, they get a chance to jump on the train, even if they rarely do, but NPR got on early with podcasting, and the NYT with RSS.)</p>
-<p>PS: I did not invent "paving cowpaths" -- it's been around for a long time, like <a href="https://www.goodreads.com/work/quotes/1905885-the-mythical-man-month-essays-on-software-engineering">mythical man-month</a> and the like. It's pretty much the same thing as <a href="http://scripting.com/davenet/2000/11/30/bootstrapping.html">bootstrapping</a>, which I also advocate.</p>
- 
-
-<br> 
-
-<http://scripting.com/2025/03/22/140333.html?title=pavingCowpaths>
-
----
-
-## 2025-03-21 A summary of my bot defence systems
-
-date: 2025-03-22, from: Alex Schroeder's Blog
-
-<h1 id="2025-03-21-a-summary-of-my-bot-defence-systems">2025-03-21 A summary of my bot defence systems</h1>
-
-<p>If you&rsquo;ve followed my <a href="Butlerian_Jihad">Butlerian Jihad</a> pages, you know that I&rsquo;m constantly fiddling with the setup.
-Each page got written in the middle of an attack as I&rsquo;m trying to save my sites, documenting as I go along. But if
-you&rsquo;re looking for an overview, there is nothing to see. It&rsquo;s all over the place. Since the topic has gained some
-traction in recent days, I&rsquo;m going to assemble all the things I do on this page.</p>
-
-<p>Here&rsquo;s Drew DeVault complaining about the problem that system administrators have been facing for a while, now:</p>
-
-<blockquote>
-<p>If you think these crawlers respect <code>robots.txt</code> then you are several assumptions of good faith removed from reality. These bots crawl everything they can find, <code>robots.txt</code> be damned, including expensive endpoints like git blame, every page of every git log, and every commit in every repo, and they do so using random User-Agents that overlap with end-users and come from tens of thousands of IP addresses – mostly residential, in unrelated subnets, each one making no more than one HTTP request over any time period we tried to measure – actively and maliciously adapting and blending in with end-user traffic and avoiding attempts to characterize their behavior or block their traffic. &ndash; <a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html">Please stop externalizing your costs directly into my face</a>, by Drew DeVault, for SourceHut</p>
-</blockquote>
-
-<p>I had read some similar reports before, on fedi, but this one links to quite a few of them: <a href="https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS infrastructure is under attack by AI companies</a>, by Niccolò Venerandi, for LibreNews.</p>
-
-<p>I&rsquo;m going to skip the defences against spam as spam hasn&rsquo;t been a problem in recent months, surprisingly.</p>
-
-<p>The first defence against bots is <code>robots.txt</code>. All well-behaving bots should read it every now and then and then either stop crawling
-the site or slow down.</p>
-
-<p>Let&rsquo;s look at the file <a href="https://www.emacswiki.org/robots.txt">for Emacs Wiki</a>.</p>
-
-<p>If I find that there are lot of requests from a particular user agent that looks like bot, and it has a URL where I can find instructions
-for how to address it in <code>robots.txt</code>, this is what I do. I tell them to stop crawling the entire site. Most of these are search engine optimizers, brand awareness monitors and other such creeps.</p>
-
-<p>The file also tells all well-behaving crawlers to slow down to a glacial tempo and it lists all the expensive endpoints that they should not be crawling at all. Conversely, this means that any bot that still crawls those URLs is a misbehaving bot and deserves to be blocked.</p>
-
-<p>Worth noting, perhaps, that &ldquo;an expensive endpoint&rdquo; means a URL that runs some executable to do something complicated, resulting in an answer that&rsquo;s always different. If the URL causes the web server to run a CGI script, for example, the request loads Perl, loads a script, loads all its libraries, compiles it all, runs it once, and answers with the request with the output. And since the answer is dynamic, it can&rsquo;t very well be cached, or additional complexity needs to be introduced and even more resources need to be allocated and paid for. In short, an expensive end-point is like loading an app. It&rsquo;s slow but useful, if done rarely. So you&rsquo;d do this for a human, for example. It&rsquo;s a disaster if bots swarm all over the site, clicking on every link.</p>
-
-<p>It&rsquo;s also worth noting that not all my sites have the same expensive endpoints and so the second half of <code>robots.txt</code> can vary. Which makes maintenance of the first half a chore. I have a little script that allows me to add one bot to &ldquo;all&rdquo; the files, but it&rsquo;s annoying to have to do that. And I recently just copied a list from an <a href="https://robotstxt.com/ai">AI / LLM User-Agents: Blocking Guide</a>.</p>
-
-<p>I use Apache as my web-server and I have a bunch of global configuration files to handle misbehaving bots and crawlers.</p>
-
-<p>This example blocks fediverse agents from accessing my site. That&rsquo;s because whenever anybody post a URL to one of my sites, within the next
-60 seconds, all the servers with users getting a copy of the URL will fetch a preview. That means hundreds of hits. This is particularly
-obnoxious for expensive endpoints. This response here tells them that they are forbidden from accessing the page.</p>
-
-<pre><code># Fediverse instances asking for previews: protect the expensive endpoints
-RewriteCond %{REQUEST_URI} /(wiki|download|food|paper|hug|helmut|input|korero|check|radicale|say|mojo|software)
-RewriteCond %{HTTP_USER_AGENT} Mastodon|Friendica|Pleroma [nocase]
-# then it's forbidden
-RewriteRule ^(.*)$ - [forbidden,last]
-</code></pre>
-
-<p>These are the evil bots that self-identify as a bot but don&rsquo;t seem to heed the <code>robots.txt</code> files. These are all told that whatever page they were looking for, it&rsquo;s now gone (410). And if there&rsquo;s a human looking at the output, it even links to an explanation. Adding new user agents to this list is annoying because I need to connect as root and restart the web server after making any changes.</p>
-
-<pre><code># SEO bots, borked feed services and other shit
-RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;academicbotrtu|ahrefsbot|amazonbot|awariobot|bitsightbot|blexbot|bytespider|dataforseobot|discordbot|domainstatsbot|dotbot|elisabot|eyemonit|facebot|linkfluence|magpie-crawler|megaindex|mediatoolkitbot|mj12bot|newslitbot|paperlibot|pcore|petalbot|pinterestbot|seekportbot|semanticscholarbot|semrushbot|semanticbot|seokicks-robot|siteauditbot|startmebot|summalybot|synapse|trendictionbot|twitterbot|wiederfrei|yandexbot|zoominfobot|velenpublicwebcrawler|gpt|\bads|feedburner|brandwatch|openai|facebookexternalhit|yisou|docspider&quot; [nocase]
-RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
-</code></pre>
-
-<p>For some of my sites, I disallow all user agents containing the words &ldquo;bot&rdquo;, &ldquo;crawler&rdquo;, &ldquo;spider&rdquo;, &ldquo;ggpht&rdquo; or &ldquo;gpt&rdquo; with the exception of &ldquo;archivebot&rdquo; and &ldquo;wibybot&rdquo; because these two bots I want to give access. Again, these bots are all told that whatever page they were looking for, it&rsquo;s now gone (410).</p>
-
-<pre><code># Private sites block all bots and crawlers. This list does no include
-# social.alexschroeder.ch, communitywiki.org, www.emacswiki.org,
-# oddmuse.org, orientalisch.info, korero.org.
-RewriteCond &quot;%{HTTP_HOST}&quot; &quot;^((src\.)?alexschroeder\.ch|flying-carpet\.ch|next\.oddmuse\.org|((chat|talk)\.)?campaignwiki\.org|((archive|vault|toki|xn--vxagggm5c)\.)?transjovian\.org)$&quot; [nocase]
-RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;!archivebot|^gwene|wibybot&quot; [nocase]
-RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;bot|crawler|spider|ggpht|gpt&quot; [nocase]
-RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
-</code></pre>
-
-<p>I also eliminate a lot of bots looking for PHP endpoints. I can do this because I know that I don&rsquo;t have any PHP application installed.</p>
-
-<pre><code># Deny all idiots that are looking for borked PHP applications
-RewriteRule \.php$ https://alexschroeder.ch/nobots [redirect=410,last]
-</code></pre>
-
-<p>There&rsquo;s also one particular image scraper that&rsquo;s using a unique string in its user agent.</p>
-
-<pre><code># Deny the image scraper
-# https://imho.alex-kunz.com/2024/02/25/block-this-shit/
-RewriteCond &quot;%{HTTP_USER_AGENT}&quot; &quot;Firefox/72.0&quot; [nocase]
-RewriteRule ^ https://alexschroeder.ch/nobots [redirect=410,last]
-</code></pre>
-
-<p>Next, all requests get logged by Apache in the <code>access.log</code> file. I use <code>fail2ban</code> to check this logfile. This is somewhat interesting
-because <code>fail2ban</code> is usually used to check for failed ssh login attempts. Those IP numbers that fail to login in a few times are banned.
-What I&rsquo;m doing is I wrote a filter that treats every hit on the web server as a &ldquo;failed login attempt&rdquo;.</p>
-
-<p>This is the filter:</p>
-
-<pre><code>[Definition]
-# Most sites in the logfile count! What doesn't count is fedi.alexschroeder.ch, or chat.campaignwiki.org.
-failregex = ^(www\.)?(alexschroeder\.ch|campaignwiki\.org|communitywiki\.org|emacswiki\.org|flying-carpet\.ch|korero\.org|oddmuse\.org|orientalisch\.info):[0-9]+ &lt;HOST&gt; 
-
-# Except css files, images...
-ignoreregex = ^[^&quot;]*&quot;(GET /(robots\.txt |favicon\.ico |[^/ \&quot;]+\.(css|js) |[^\&quot;]*\.(jpg|JPG|png|PNG) |css/|fonts/|pdfs/|txt/|pics/|export/|podcast/|1pdc/|static/|munin/|osr/|indie/|rpg/|face/|traveller/|hex-describe/|text-mapper/|contrib/pics/|roll/|alrik/|wiki/download/)|(OPTIONS|PROPFIND|REPORT) /radicale)
-</code></pre>
-
-<p>And this is the jail, saying that any IP number may make 30 hits in 60 seconds. If an IP number exceeds this (2s per page!) then it
-gets blocked at the firewall for 10 minutes.</p>
-
-<pre><code>[alex-apache]
-enabled = true
-port    = http,https
-logpath = %(apache_access_log)s
-findtime = 60
-maxretry = 30
-</code></pre>
-
-<p>I also have another filter for a particular substring in URLs that I found the bots are requesting all the time:</p>
-
-<pre><code>[Definition]
-failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
-</code></pre>
-
-<p>The corresponding jail says that when you trigger request such a URL for the third time in an hour, you&rsquo;re blocked at the firewall for 10 minutes.</p>
-
-<p>[alex-bots]
-enabled = true
-port    = http,https
-logpath = %(apache_access_log)s
-findtime = 3600
-maxretry = 2</p>
-
-<p>(At the same time, these URL&rsquo;s redirect to <a href="https://www.emacswiki.org/nobots">a warning</a> so that humans know that this is a trap.)</p>
-
-<p>Furthermore, <code>fail2ban</code> also comes with a <code>recidive</code> filter that watches its own logs. If an IP has been banned five times in a day, it gets banned for a week.</p>
-
-<pre><code>[recidive]
-enabled = true
-</code></pre>
-
-<p>To add to the <code>alex-bots</code> jail, here&rsquo;s what my Apache configuration says: RSS feeds for single pages are errors.</p>
-
-<pre><code>RewriteCond %{QUERY_STRING} action=rss
-RewriteCond %{QUERY_STRING} rcidonly=.*
-RewriteRule .* /error.rss [last]
-</code></pre>
-
-<p>Note that all my sites also use the following headers, so anybody ignoring these is also a prime candidate for blocking.</p>
-
-<pre><code># https://github.com/rom1504/img2dataset#opt-out-directives
-Header always set X-Robots-Tag: noai
-Header always set X-Robots-Tag: noimageai
-</code></pre>
-
-<p>All of the above still doesn&rsquo;t handle extremely distributed attacks. In such situations, almost all IP numbers are unique. What I try to do in this situation is block the entire IP range that they come from.
-I scan the <code>access.log</code> for IP numbers that connected to a URL that shouldn&rsquo;t be used by bots because of <code>robots.txt</code>, containing <code>rcidonly</code> because I know humans will very rarely click it and it&rsquo;s expensive to serve. For each such IP number, I determine the IP range they come from, and then I block it all.</p>
-
-<p>Basically, this is what I keep repeating:</p>
-
-<pre><code># prefix with a timestamp
-date
-# log some candidates without whois information, skipping my fedi instance
-tail -n 2000 /var/log/apache2/access.log \
- | grep -v ^social \
- | grep &quot;rcidonly&quot; \
- | bin/admin/network-lookup-lean &gt; result.log
-# count
-grep ipset result.log|wc -l
-# add
-grep ipset result.log|sh
-# document
-grep ipset result.log&gt;&gt;bin/admin/ban-cidr
-</code></pre>
-
-<p>You can find the scripts in my <a href="https://alexschroeder.ch/admin/">admin collection</a>.</p>
-
-<p><a class="tag" href="/search/?q=%23Administration">#Administration</a> <a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a></p>
-
-<p><strong>2025-03-22</strong>. The drawback of using the firewall to ban broad swaths of the Internet is that these networks host bots (bad) but also networked services that I&rsquo;m interested in (good). Yesterday I found that <a class="account" href="https://come-from.mad-scientist.club/@algernon" title="@algernon@come-from.mad-scientist.club">@algernon</a> had gone silent, had been silent for quite a while, and yet I kept seeing replies to them by others. Something was off. We got into contact via an alt account and indeed, I had blocked the IPv4 range his server was on.</p>
-
-<p>So by my count I already had to unblock three networks on my list. It&rsquo;s not a great solution, to be honest.
-And it doesn&rsquo;t expire, either. The list still contains 47021 IP ranges.</p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-03-21-defence-summary>
-
----
-
-## Giving Trump Shit | The Coffee Klatch for March 22, 2025
-
-date: 2025-03-22, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/159568600/591fc93ccde14986c57ee59adb3f9690.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/159568600/591fc93ccde14986c57ee59adb3f9690.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/giving-trump-shit-the-coffee-klatch>
-
----
-
-## March 21, 2025
-
-date: 2025-03-22, from: Heather Cox Richardson blog
-
-These days, I keep coming back to the quotation recorded by journalist Ron Suskind in a New York Times Magazine article in 2004. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/march-21-2025>
-
----
-
-## Weeknotes: March 15-21, 2025
-
-date: 2025-03-22, from: Tracy Durnell Blog
-
-Win of the week: got out and took some pictures in the garden with the ol&#8217; dSLR 🌸 Looking forward to: I&#8217;m working on a blog post I&#8217;m excited about and requested some books from the library for research 🤓 Stuff I did: 7 hours consulting 1.75 hours writing &#8212; had a good talk with my [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/03/21/weeknotes-march-15-21-2025/>
-
----
-
-## Early spring osoberry bloom (photos)
-
-date: 2025-03-22, from: Tracy Durnell Blog
-
-Second day of spring in Seattle and the osoberries are flowering! We picked these to plant in the restoration because our neighbor had one huge, beautiful specimen behind his yard. About 8 or 9 years old, planted from bareroot, they&#8217;re easily 10-15 feet tall now. I love how the flowers seem to float against the [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/03/21/early-spring-osoberry-bloom-photos/>
-
----
-
-## The shame of Columbia University 
-
-date: 2025-03-22, from: Robert Reich's blog
-
-In surrendering to Trump, it's opening all universities to Trump's tyranny 
-
-<br> 
-
-<https://robertreich.substack.com/p/the-shame-of-columbia-university>
 

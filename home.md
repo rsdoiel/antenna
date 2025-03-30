@@ -1,11 +1,81 @@
 ---
 title: home
-updated: 2025-03-29 06:12:32
+updated: 2025-03-30 06:07:38
 ---
 
 # home
 
-(date: 2025-03-29 06:12:32)
+(date: 2025-03-30 06:07:38)
+
+---
+
+## 17 of the Best Coreopsis Varieties
+
+date: 2025-03-30, from: The Gardener's Path
+
+<p>There are so many coreopsis varieties to choose from that it’s easy to get overwhelmed when you’re trying to pick out a few to plant in your flower beds. We’ve rounded up 17 of our favorite varieties to make the decision easy! Whether you’re looking for a specific color or height, we’ve got you covered. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/best-coreopsis-varieties/">17 of the Best Coreopsis Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/best-coreopsis-varieties/>
+
+---
+
+## When Does Astilbe Bloom? Extending the Flowering Season
+
+date: 2025-03-29, from: The Gardener's Path
+
+<p>Astilbe flowers are striking, like plumes of feathers in a rainbow of colors from white to the deepest purple – often lasting for weeks at a time. These shade-loving perennials are ideal for those darker spots in the landscape. Discover when astilbe blooms and how to extend the flowering season in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/astilbe-bloom/">When Does Astilbe Bloom? Extending the Flowering Season</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/astilbe-bloom/>
+
+---
+
+## The Freshest and Most Delicious Recipes You Can Make This April
+
+date: 2025-03-29, from: Sunset Magazine - Living in the West
+
+April is time to really take advantage of the fresh spring produce in season. Here are our favorite recipes to make in April. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-april-2025>
+
+---
+
+## 85 Stunning Types of Lilies (With Pictures and Names)
+
+date: 2025-03-29, from: Yard Life blog
+
+<p>Lilies are among the most breathtaking flowers, admired for their vibrant colors, elegant shapes, and enchanting fragrances. With their ability ... </p>
+<p class="read-more-container"><a title="85 Stunning Types of Lilies (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/#more-26076" aria-label="Read more about 85 Stunning Types of Lilies (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/">85 Stunning Types of Lilies (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/>
+
+---
+
+## 21 Common Types of Ivy Plants (With Pictures and Names)
+
+date: 2025-03-29, from: Yard Life blog
+
+<p>Ivy plants are some of the most versatile and visually appealing greenery found in both indoor and outdoor settings. With ... </p>
+<p class="read-more-container"><a title="21 Common Types of Ivy Plants (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/#more-26049" aria-label="Read more about 21 Common Types of Ivy Plants (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/">21 Common Types of Ivy Plants (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/>
 
 ---
 
@@ -1295,18 +1365,6 @@ date: 2025-03-24, from: Yard Life blog
 
 ---
 
-## The Freshest and Most Delicious Recipes You Can Make This April
-
-date: 2025-03-23, from: Sunset Magazine - Living in the West
-
-April is time to really take advantage of the fresh spring produce in season. Here are our favorite recipes to make in April. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-april-2025>
-
----
-
 ## How to Plant and Grow Radicchio
 
 date: 2025-03-23, from: The Gardener's Path
@@ -1392,144 +1450,4 @@ date: 2025-03-23, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/flaming-katy-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## Glamping Tents, Luxe Lodges, Sleek Airstreams: Here’s Where to Get Your Nature Fix Now
-
-date: 2025-03-22, from: Sunset Magazine - Living in the West
-
-For those who want to get outdoors but don't really want to camp or rough it, these best nature resorts and hotels are your solution. 
-
-<br> 
-
-<https://www.sunset.com/travel/best-nature-resorts-hotels-2023>
-
----
-
-## 5 Things You Should Never Do in National Parks
-
-date: 2025-03-22, from: Sunset Magazine - Living in the West
-
-In light of recent incidents of tourists chasing bears and being attacked by bison, here is a reminder of things you should never do in the National Parks. 
-
-<br> 
-
-<https://www.sunset.com/travel/national-parks/5-things-never-do-in-national-parks>
-
----
-
-## These Are All the New Places to Stay in Yosemite
-
-date: 2025-03-22, from: Sunset Magazine - Living in the West
-
-One of America's oldest national parks has a whole lot of newness nowadays, from glamping resorts to campervans. 
-
-<br> 
-
-<https://www.sunset.com/travel/new-yosemite-lodging-2025>
-
----
-
-## How to Plant and Grow Chives
-
-date: 2025-03-22, from: The Gardener's Path
-
-<p>Chives (Allium schoenoprasum) are versatile alliums suitable for cultivation in the ground, raised beds, or containers, making them ideal for small-space and kitchen gardens. These easy-care perennials offer flavor, beauty, and even some pest control benefits. Learn how to plant and grow chives in this guide. Read more.</p>
-<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-chives/">How to Plant and Grow Chives</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/herbs/grow-chives/>
-
----
-
-## Desert Rose Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-03-22, from: Yard Life blog
-
-<p>The Desert Rose (Adenium obesum) is a stunning succulent plant known for its thick, swollen trunk and vibrant, trumpet-shaped flowers. ... </p>
-<p class="read-more-container"><a title="Desert Rose Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/desert-rose-plant-care-and-growing-guide-most-detailed/#more-25591" aria-label="Read more about Desert Rose Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/desert-rose-plant-care-and-growing-guide-most-detailed/">Desert Rose Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/desert-rose-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## Bromeliad Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-03-22, from: Yard Life blog
-
-<p>Bromeliads are stunning tropical plants that thrive in various environments, offering unique foliage and vibrant flowers. Whether grown indoors or ... </p>
-<p class="read-more-container"><a title="Bromeliad Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/bromeliad-plant-care-and-growing-guide-most-detailed/#more-25585" aria-label="Read more about Bromeliad Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/bromeliad-plant-care-and-growing-guide-most-detailed/">Bromeliad Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/bromeliad-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## Begonia Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-03-22, from: Yard Life blog
-
-<p>Begonias are popular ornamental plants cherished for their striking foliage and vibrant flowers. They thrive both indoors and outdoors, making ... </p>
-<p class="read-more-container"><a title="Begonia Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/begonia-plant-care-and-growing-guide-most-detailed/#more-25579" aria-label="Read more about Begonia Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/begonia-plant-care-and-growing-guide-most-detailed/">Begonia Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/begonia-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## Arrowhead Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-03-22, from: Yard Life blog
-
-<p>Arrowhead Plant Care is essential for keeping Syngonium podophyllum thriving in your home. These beautiful and versatile houseplants are loved ... </p>
-<p class="read-more-container"><a title="Arrowhead Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/arrowhead-plant-care-and-growing-guide-most-detailed/#more-25573" aria-label="Read more about Arrowhead Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/arrowhead-plant-care-and-growing-guide-most-detailed/">Arrowhead Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/arrowhead-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## Yucca Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-03-22, from: Yard Life blog
-
-<p>Yucca plants are stunning, low-maintenance perennials that thrive in various environments. Known for their striking foliage and dramatic flower spikes, ... </p>
-<p class="read-more-container"><a title="Yucca Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/yucca-plant-care-and-growing-guide-most-detailed/#more-25566" aria-label="Read more about Yucca Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/yucca-plant-care-and-growing-guide-most-detailed/">Yucca Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/yucca-plant-care-and-growing-guide-most-detailed/>
-
----
-
-## Pitcher Plant Care and Growing Guide (Most Detailed)
-
-date: 2025-03-22, from: Yard Life blog
-
-<p>Pitcher plants (Sarracenia, Nepenthes, and Darlingtonia) are fascinating carnivorous plants known for their ability to trap and digest insects. Their ... </p>
-<p class="read-more-container"><a title="Pitcher Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/pitcher-plant-care-and-growing-guide-most-detailed/#more-25561" aria-label="Read more about Pitcher Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/pitcher-plant-care-and-growing-guide-most-detailed/">Pitcher Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/pitcher-plant-care-and-growing-guide-most-detailed/>
 
