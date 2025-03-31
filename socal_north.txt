@@ -64,3 +64,9 @@ https://www.portofhueneme.org/feed/ "~Port Hueneme"
 # State of California
 #
 https://www.californiavolunteers.ca.gov/feed/ "~CalVolunteers"
+
+#
+# San Pedro & Long Beach
+#
+https://lbpost.com/news/feed/ "~Longbeach Post"
+
