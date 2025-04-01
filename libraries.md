@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-03-31 06:07:59
+updated: 2025-04-01 06:09:04
 ---
 
 # libraries
 
-(date: 2025-03-31 06:07:59)
+(date: 2025-04-01 06:09:04)
+
+---
+
+## Guest Post — No Data? No Acceptance. How IOP Publishing is Strengthening Open Science
+
+date: 2025-04-01, from: Scholarly Kitchen
+
+<p>Nicola Davies from IOPP details the publisher's new data sharing  requirements for authors.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/01/guest-post-no-data-no-acceptance-how-iop-publishing-is-strengthening-open-science/">Guest Post &#8212; No Data? No Acceptance. How IOP Publishing is Strengthening Open Science</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/01/guest-post-no-data-no-acceptance-how-iop-publishing-is-strengthening-open-science/>
+
+---
+
+## April Celebrations – Poetry, the Library, and More!
+
+date: 2025-04-01, from: CSUN Library Blog, Cited
+
+<div><img width="300" height="200" src="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/04/april-post-300x200.jpg" class="attachment-medium size-medium wp-post-image" alt="" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/04/april-post-300x200.jpg 300w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/04/april-post-768x512.jpg 768w, https://library.csun.edu/blogs/cited/wp-content/uploads/sites/4/2025/04/april-post.jpg 900w" sizes="(max-width: 300px) 100vw, 300px" /></div>April marks a number of observances, including Poetry Month, Armenian Heritage Month, Arab-American Heritage Month, National Library Week (April 6-10), and UNESCO World Book Day&#8230; 
+
+<br> 
+
+<https://library.csun.edu/blogs/cited/2025/04/01/april-celebrations-2025/>
 
 ---
 
@@ -66,6 +92,20 @@ Gupta, Rajshikhar; Schärer, Paulina; Liao, Yawen; Roy, Bibhas; Benoit, Roger M.
 <br> 
 
 <http://hdl.handle.net/20.500.11850/727614>
+
+---
+
+## Day in Review (March 31– April 3)
+
+date: 2025-03-31, from: Association of Research Libraries News
+
+<p>Last Updated on March 31, 2025, 3:56 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 1 &#124; Wednesday, April 2 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-31-april-3/">Day in Review (March 31– April 3)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/day-in-review/day-in-review-march-31-april-3/>
 
 ---
 

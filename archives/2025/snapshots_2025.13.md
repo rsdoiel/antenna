@@ -1,11 +1,554 @@
 ---
 title: snapshots
-updated: 2025-03-31 06:08:03
+updated: 2025-04-01 06:09:07
 ---
 
 # snapshots
 
-(date: 2025-03-31 06:08:03)
+(date: 2025-04-01 06:09:07)
+
+---
+
+## OnlyFans Sued After Two Guys Realized They Might Not Actually Be Talking to Models
+
+date: 2025-04-01, from: 404 Media Group
+
+A class action complaint claims OnlyFans is allowing fraud on its platform by letting models use agency chat service to talk to fans. 
+
+<br> 
+
+<https://www.404media.co/onlyfans-sued-after-two-guys-realized-they-might-not-actually-be-talking-to-models/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Trump&#39;s tariffs are like his idea for injecting bleach to get rid of Covid. 
+
+<br> 
+
+<https://www.youtube.com/watch?v=zicGxU5MfwE>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+It’s the moment of truth for Zuckerberg’s Trump bet. 
+
+<br> 
+
+<https://www.theverge.com/news/640368/mark-zuckerberg-meta-eu-fine-trump>
+
+---
+
+## A Note on Trade Deficits and Manufacturing
+
+date: 2025-04-01, from: Paul Krugman
+
+Some perspective on the eve of trade war 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-note-on-trade-deficits-and-manufacturing>
+
+---
+
+## Radar Trends to Watch: April 2025
+
+date: 2025-04-01, from: O'Reilly Radar
+
+March has been the biggest month that Trends has ever had. In addition to almost daily announcements about AI, a lot has been going on in programming, in security, in operations (which usually doesn’t merit its own topic), and even in quantum computing. It’s been a long time since we’ve had much to say about [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/radar-trends-to-watch-april-2025/>
+
+---
+
+## SPD muss Informationsfreiheit schützen!
+
+date: 2025-04-01, updated: 2025-04-01, from: Chaos Computer Club Updates
+
+Die CDU/CSU plant, das Informationsfreiheitsgesetz in seiner jetzigen Form abzuschaffen. Der CCC fordert die SPD auf, dies zu verhindern. 
+
+<br> 
+
+<https://www.ccc.de/de/updates/2025/spd-muss-informationsfreiheit-schuetzen>
+
+---
+
+## Pydantic Evals
+
+date: 2025-04-01, updated: 2025-04-01, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://ai.pydantic.dev/evals/">Pydantic Evals</a></strong></p>
+Brand new package from the Pydantic AI team which directly tackles what I consider to be the single hardest problem in AI engineering: building evals to determine if your LLM-based system is working correctly and getting better over time.</p>
+<p>The feature is described as "in beta" and comes with this very realistic warning:</p>
+<blockquote>
+<p>Unlike unit tests, evals are an emerging art/science; anyone who claims to know for sure exactly how your evals should be defined can safely be ignored.</p>
+</blockquote>
+<p>This code example from their documentation illustrates the relationship between the two key nouns - Cases and Datasets:</p>
+<pre><span class="pl-k">from</span> <span class="pl-s1">pydantic_evals</span> <span class="pl-k">import</span> <span class="pl-v">Case</span>, <span class="pl-v">Dataset</span>
+
+<span class="pl-s1">case1</span> <span class="pl-c1">=</span> <span class="pl-en">Case</span>(
+    <span class="pl-s1">name</span><span class="pl-c1">=</span><span class="pl-s">"simple_case"</span>,
+    <span class="pl-s1">inputs</span><span class="pl-c1">=</span><span class="pl-s">"What is the capital of France?"</span>,
+    <span class="pl-s1">expected_output</span><span class="pl-c1">=</span><span class="pl-s">"Paris"</span>,
+    <span class="pl-s1">metadata</span><span class="pl-c1">=</span>{<span class="pl-s">"difficulty"</span>: <span class="pl-s">"easy"</span>},
+)
+
+<span class="pl-s1">dataset</span> <span class="pl-c1">=</span> <span class="pl-en">Dataset</span>(<span class="pl-s1">cases</span><span class="pl-c1">=</span>[<span class="pl-s1">case1</span>])</pre>
+
+<p>The library also supports custom evaluators, including LLM-as-a-judge:</p>
+<pre><span class="pl-en">Case</span>(
+    <span class="pl-s1">name</span><span class="pl-c1">=</span><span class="pl-s">"vegetarian_recipe"</span>,
+    <span class="pl-s1">inputs</span><span class="pl-c1">=</span><span class="pl-en">CustomerOrder</span>(
+        <span class="pl-s1">dish_name</span><span class="pl-c1">=</span><span class="pl-s">"Spaghetti Bolognese"</span>, <span class="pl-s1">dietary_restriction</span><span class="pl-c1">=</span><span class="pl-s">"vegetarian"</span>
+    ),
+    <span class="pl-s1">expected_output</span><span class="pl-c1">=</span><span class="pl-c1">None</span>,
+    <span class="pl-s1">metadata</span><span class="pl-c1">=</span>{<span class="pl-s">"focus"</span>: <span class="pl-s">"vegetarian"</span>},
+    <span class="pl-s1">evaluators</span><span class="pl-c1">=</span>(
+        <span class="pl-en">LLMJudge</span>(
+            <span class="pl-s1">rubric</span><span class="pl-c1">=</span><span class="pl-s">"Recipe should not contain meat or animal products"</span>,
+        ),
+    ),
+)</pre>
+
+<p>Cases and datasets can also be serialized to YAML.</p>
+<p>My first impressions are that this looks like a solid implementation of a sensible design. I'm looking forward to trying it out against a real project.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/pydantic">pydantic</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/1/pydantic-evals/#atom-everything>
+
+---
+
+## Why is everything so scalable?
+
+date: 2025-04-01, from: Stavros Stuff
+
+<div class="pull-quote">Everyone is a FAANG engineer</div><p>I&#8217;m entirely convinced that basically every developer alive today heard the adage &#8220;dress for the job you want, not the job you have&#8221; and figured that, since they always wear jeans and a t-shirt anyway, they might as well apply it to their systems&#8217; architecture.
+This explains why the stack of every single company I&#8217;ve seen is invariably AWS/GCP with at least thirty microservices (how else will you keep the code tidy?), a distributed datastore 
+
+<br> 
+
+<https://www.stavros.io/posts/why-is-everything-so-scalable/>
+
+---
+
+## Quoting Brad Lightcap
+
+date: 2025-04-01, updated: 2025-04-01, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/bradlightcap/status/1906823733446427065"><p>We’re planning to release a very capable open language model in the coming months, our first since GPT-2. [...]</p>
+<p>As models improve, there is more and more demand to run them everywhere. Through conversations with startups and developers, it became clear how important it was to be able to support a spectrum of needs, such as custom fine-tuning for specialized tasks, more tunable latency, running on-prem, or deployments requiring full data control.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/bradlightcap/status/1906823733446427065">Brad Lightcap</a>, COO, OpenAI</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/1/brad-lightcap/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Trump officials to review $9bn in Harvard funds over antisemitism claims. 
+
+<br> 
+
+<https://www.theguardian.com/education/2025/mar/31/trump-harvard-funding-review>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Bird flu could be on the cusp of transmitting between humans − but there are ways to slow down viral evolution. 
+
+<br> 
+
+<https://theconversation.com/bird-flu-could-be-on-the-cusp-of-transmitting-between-humans-but-there-are-ways-to-slow-down-viral-evolution-250232>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Software is a mathematical science, so if I write a piece that says what a company is telling you about their technology is not true, I’m not saying it because of a conflict, or because I don’t like them, I say it because it’s true. 
+
+<br> 
+
+<http://scripting.com/2025/03/11/113838.html>
+
+---
+
+## LLMs Are Not Security Mitigations
+
+date: 2025-04-01, updated: 2025-04-01, from: Tom Kellog blog
+
+LLMs are great code reviewers. They can even spot security mistakes that open us up to vulnerabilities.
+But no, they’re not an adequate mitigation. You can’t use them to ensure security. 
+
+<br> 
+
+<http://timkellogg.me/blog/2025/04/01/llm-security>
+
+---
+
+## Apply for funding before June 1st 2025
+
+date: 2025-04-01, updated: 2025-04-01, from: nlnet feed
+
+ 
+
+<br> 
+
+<https://nlnet.nl/news/2025/20250401-call.html>
+
+---
+
+## Managed HTTPS tunnels in one-click with inlets cloud
+
+date: 2025-04-01, updated: 2025-04-01, from: Inlets.dev, cloud tunneling
+
+Imagine if you could expose a local HTTP service, without TLS enabled to the public Internet with a HTTPS certificate with just one click. 
+
+<br> 
+
+<https://inlets.dev/blog/tutorial/2025/04/01/one-click-hosted-http-tunnels.html>
+
+---
+
+## nimi sin
+
+date: 2025-04-01, from: Nora Tindall's blog
+
+<blockquote>
+<p>This post is part of <a href="https://www.aprilcools.club/">April Cools Club</a>: an April 1st effort to publish
+genuine essays on unexpected topics. Please enjoy these true stories, and rest
+assured that the tech content will be back <del>soon</del> eventually!</p></blockquote>
+<p><em>sina o pali e nimi sin. sina o pana e nimi mute tawa mi.</em><br>
+<em>nimi o kama sama pi soweli lili. mi wile e ni: nimi li kama mute a.</em></p>
+<p>That&rsquo;s <a href="https://tokipona.org/"><em>toki pona</em></a>, a constructed language with somewhere between 118
+and 181 words, depending on who you ask. It was meant to be quick and easy to
+learn, but more importantly, to <a href="https://en.wikipedia.org/wiki/Linguistic_relativity">guide the mind</a> toward a simpler,
+better, more <em>pona</em> way of being. The fewer words, the broader their
+semantic space, the more contextual and general their meaning, the better.
+That&rsquo;s the <em>toki pona</em> philosophy - but that&rsquo;s not what I&rsquo;m asking you for.</p> 
+
+<br> 
+
+<https://nora.codes/post/nimi-sin/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-31, from: Dave Winer's linkblog)
+
+Trump Administration Will Review Billions in Funding for Harvard. 
+
+<br> 
+
+<https://www.nytimes.com/2025/03/31/us/trump-administration-harvard-funding.html?unlocked_article_code=1.8E4.FKTT.InfhSzOCRWtU&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-31, from: Dave Winer's linkblog)
+
+OpenAI just raised another $40 billion funding round. 
+
+<br> 
+
+<https://www.theverge.com/news/640259/openai-40-billion-softbank-investment>
+
+---
+
+## debug-gym
+
+date: 2025-03-31, updated: 2025-03-31, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://microsoft.github.io/debug-gym/">debug-gym</a></strong></p>
+New paper and code from Microsoft Research that experiments with giving LLMs access to the Python debugger. They found that the best models could indeed improve their results by running pdb as a tool.</p>
+<p>They saw the best results overall from Claude 3.7 Sonnet against <a href="https://www.swebench.com/lite.html">SWE-bench Lite</a>, where it scored 37.2% in rewrite mode without a debugger, 48.4% with their debugger tool and 52.1% with debug(5) - a mechanism where the pdb tool is made available only after the 5th rewrite attempt.</p>
+<p>Their code is <a href="https://github.com/microsoft/debug-gym">available on GitHub</a>. I found this implementation of <a href="https://github.com/microsoft/debug-gym/blob/1.0.0/debug_gym/gym/tools/pdb.py">the pdb tool</a>, and tracked down the main system and user prompt in <a href="https://github.com/microsoft/debug-gym/blob/1.0.0/debug_gym/agents/debug_agent.py">agents/debug_agent.py</a>:</p>
+<p>System prompt:</p>
+<blockquote>
+<p><code>Your goal is to debug a Python program to make sure it can pass a set of test functions. You have access to the pdb debugger tools, you can use them to investigate the code, set breakpoints, and print necessary values to identify the bugs. Once you have gained enough information, propose a rewriting patch to fix the bugs. Avoid rewriting the entire code, focus on the bugs only.</code></p>
+</blockquote>
+<p>User prompt (which they call an "action prompt"):</p>
+<blockquote>
+<p><code>Based on the instruction, the current code, the last execution output, and the history information, continue your debugging process using pdb commands or to propose a patch using rewrite command. Output a single command, nothing else. Do not repeat your previous commands unless they can provide more information. You must be concise and avoid overthinking.</code></p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://jack-clark.net/2025/03/31/import-ai-406-ai-driven-software-explosion-robot-hands-are-still-bad-better-llms-via-pdb/">Import AI</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/microsoft">microsoft</a>, <a href="https://simonwillison.net/tags/claude">claude</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Mar/31/debug-gym/#atom-everything>
+
+---
+
+## Addison Kliewer – Bridging Academia and Industry with Technical Writing Mastery
+
+date: 2025-03-31, from: Digital Humanities Quarterly News
+
+Addison Kliewer did not initially plan to become a technical writer. As an undergraduate honors student majoring in English at the University of Texas, Austin, he envisioned an academic career in publishing, teaching, or even writing books. He was drawn to how storytelling can be enriching and insightful, fascinated by how clothing symbolized identity and [...]
+<p><a href="https://www.digitalrhetoriccollaborative.org/2025/03/31/addison-kliewer-bridging-academia-and-industry-with-technical-writing-mastery/" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://www.digitalrhetoriccollaborative.org/2025/03/31/addison-kliewer-bridging-academia-and-industry-with-technical-writing-mastery/>
+
+---
+
+## Lilbits: ZimaBoard 2 pocket-sized server is coming, Alexa+ Early Access is here, and more Copilot+ features roll out to Intel and AMD PCs
+
+date: 2025-03-31, from: Liliputing
+
+<p>Four years after launching a single-board server with an Intel Apollo Lake processor, the makers of the ZimaBoard are preparing to introduce a new model. The company hasn&#8217;t provided detailed specifications yet, but the design, expansion slots, and processor have all been upgraded for the upcoming ZimaBoard 2. In other recent tech news from around [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-zimaboard-2-pocket-sized-server-is-coming-alexa-early-access-is-here-and-more-copilot-features-roll-out-to-intel-and-amd-pcs/">Lilbits: ZimaBoard 2 pocket-sized server is coming, Alexa+ Early Access is here, and more Copilot+ features roll out to Intel and AMD PCs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-zimaboard-2-pocket-sized-server-is-coming-alexa-early-access-is-here-and-more-copilot-features-roll-out-to-intel-and-amd-pcs/>
+
+---
+
+## macOS 15.4
+
+date: 2025-03-31, from: Michael Tsai
+
+Juli Clover (release notes, security, enterprise, developer, full installer, IPSW): With macOS 15.4, Apple is bringing Mail Categorization to the Mac. The Mail app features dedicated categories like transactions, updates, and promotions, with important emails organized into a primary section.Apple News+ subscribers now have access to an Apple News Food section with recipes, food articles, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/31/macos-15-4/>
+
+---
+
+## macOS 14.7.5 and macOS 13.7.5
+
+date: 2025-03-31, from: Michael Tsai
+
+macOS 14.7.5 (full installer, security): This update provides important security fixes and is recommended for all users. macOS 13.7.5 (full installer, security): This update provides important security fixes and is recommended for all users. Previously: macOS 14.7.4 and macOS 13.7.4 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/31/macos-14-7-5-and-macos-13-7-5/>
+
+---
+
+## iOS 18.4 and iPadOS 18.4
+
+date: 2025-03-31, from: Michael Tsai
+
+Juli Clover (no iOS/iPadOS release notes, security, enterprise, no developer): iOS 18.4 adds Priority notifications for Apple Intelligence-capable devices, showing you your most notification first. There&#8217;s a dedicated Apple Vision Pro app for Vision Pro owners, and a new Apple News Food feature for Apple News+ subscribers. There&#8217;s lots more quoted in her article, though [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/31/ios-18-4-and-ipados-18-4/>
+
+---
+
+## tvOS 18.4
+
+date: 2025-03-31, from: Michael Tsai
+
+Juli Clover (release notes, security, no developer): Apple shares full release notes for tvOS in its tvOS support document, which is updated after each new version of tvOS comes out. But all it says is &#8220;performance and stability improvements.&#8221; Previously: tvOS 18.3.1 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/31/tvos-18-4/>
+
+---
+
+## watchOS 11.4
+
+date: 2025-03-31, from: Michael Tsai
+
+Ryan Christoffel (no release notes, no security, no developer): After initially listing watchOS 11.4 on its website as released, the site has since been updated to remove the update. It&#8217;s unknown when it will return. Previously: watchOS 11.3.1 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/31/watchos-11-4/>
+
+---
+
+## visionOS 2.4
+
+date: 2025-03-31, from: Michael Tsai
+
+Juli Clover (no release notes, security, developer, enterprise): The visionOS 2.4 update brings Apple Intelligence to the Vision Pro for the first time, putting it on par with the iPhone, iPad, and Mac. [&#8230;] Along with Apple Intelligence, Apple added a Spatial Gallery app for the Vision Pro. The Spatial Gallery app offers a curated [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/31/visionos-2-4/>
+
+---
+
+## audioOS 18.4
+
+date: 2025-03-31, from: Michael Tsai
+
+Apple: This update includes performance and stability improvements. Previously: audioOS 18.3 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/03/31/audioos-18-4/>
+
+---
+
+## This DIY NAS has four M.2 slots for storage, two 2.5 GbE LAN ports, and an Alder Lake-N processors
+
+date: 2025-03-31, from: Liliputing
+
+<p>The Maiyunda M1S is a small, low-power computer with an Intel Alder Lake-N processor, an aluminum body, and support for plenty of storage thanks to four M.2 2280 slots that can theoretically hold up to 32TB of storage (if you&#8217;re willing to spend the money on four 8GB SSDs). Positioned for use as a server or [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-diy-nas-has-four-m-2-slots-for-storage-two-2-5-gbe-lan-ports-and-an-alder-lake-n-processors/">This DIY NAS has four M.2 slots for storage, two 2.5 GbE LAN ports, and an Alder Lake-N processors</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-diy-nas-has-four-m-2-slots-for-storage-two-2-5-gbe-lan-ports-and-an-alder-lake-n-processors/>
+
+---
+
+## Part 2 – Babylon.js 8.0: Audio, Gaussian Splat and physics updates
+
+date: 2025-03-31, from: Windows Developer Blog
+
+<p>Our mission is to create one of the most powerful, beautiful and simple web rendering engines in the world. The latest Babylon.js 8.0 engine packs a ton of new improvements to help you create stunning experiences.</p>
+<h3><strong>Overhauled Audio Engine<
+</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/03/31/part-2-babylon-js-8-0-audio-gaussian-splat-and-physics-updates/">Part 2 &#8211; Babylon.js 8.0: Audio, Gaussian Splat and physics updates</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/03/31/part-2-babylon-js-8-0-audio-gaussian-splat-and-physics-updates/>
+
+---
+
+## Ann and Pete Talk AI
+
+date: 2025-03-31, from: Peter Warden
+
+I&#8217;ve never been much of a podcast or video creator but recently I&#8217;ve started posting a series of short chats with my friend Ann Spencer on YouTube and it&#8217;s been a lot of fun. I realized I hadn&#8217;t mentioned it here, so as they say, please like and subscribe. I&#8217;ve also embedded one of my [&#8230;] 
+
+<br> 
+
+<https://petewarden.com/2025/03/31/ann-and-pete-talk-ai/>
+
+---
+
+## Veterans Bear Brunt Of Cuts
+
+date: 2025-03-31, from: Guy Kawasaki blog
+
+Jamie Rowen, Associate Professor of Legal Studies and Political Science, UMass Amherst 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/veterans-bear-brunt-of-cuts>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-31, from: Robert's feed at BlueSky)
+
+Chrome, the Internet Explorer of the 21st century. It works and tastes great. Complete with just the right amount of extra surveillance without any of those pesky vitamins a body needs. 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lloqyj45es2w>
+
+---
+
+## Open Source Genetic Database Shuts Down to Protect Users From 'Authoritarian Governments'
+
+date: 2025-03-31, from: 404 Media Group
+
+"The risk/benefit calculus of providing free & open access to individual genetic data in 2025 is very different compared to 14 years ago." 
+
+<br> 
+
+<https://www.404media.co/open-source-genetic-database-opensnp-shuts-down-to-protect-users-from-authoritarian-governments/>
+
+---
+
+## Fire Toolbox v39.1 lets you replace the Fire OS launcher on recent Amazon Fire tablets
+
+date: 2025-03-31, from: Liliputing
+
+<p>Amazon&#8217;s Fire tablets offer pretty good bang for the buck if you&#8217;re just looking at the hardware-to-price ratio. They tend to have decent screens, reasonably good processors, and niche features like&#8230; microSD card readers. But they also run a fork of Android called Fire OS that may not be everybody&#8217;s cup of tea. Fire Toolbox [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/fire-toolbox-v39-1-lets-you-replace-the-fire-os-launcher-on-recent-amazon-fire-tablets/">Fire Toolbox v39.1 lets you replace the Fire OS launcher on recent Amazon Fire tablets</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/fire-toolbox-v39-1-lets-you-replace-the-fire-os-launcher-on-recent-amazon-fire-tablets/>
+
+---
+
+## The Elephant in the Closet
+
+date: 2025-03-31, updated: 2025-03-31, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/03/31/the-elephant-in-the-closet/>
+
+---
+
+## Name that Ware, March 2025
+
+date: 2025-03-31, from: Bunnie's Studio Blog
+
+The Ware for March 2025 is shown below. I was just taking this thing apart to see what went wrong, and thought it had some merit as a name that ware. But perhaps more interestingly, I was also experimenting with my cross-polarized imaging setup. This is a technique a friend of mine told me about [&#8230;] 
+
+<br> 
+
+<https://www.bunniestudios.com/blog/2025/name-that-ware-march-2025/>
+
+---
+
+## Winner, Name that Ware February 2025
+
+date: 2025-03-31, from: Bunnie's Studio Blog
+
+The Ware from last month is the main board from a Lego Duplo Steam Train. As predicted, this was a much easier one to guess. Congrats to MJS for naming it (with a margin of just half an hour ahead of Will), email me for your prize! And again, thanks to spida for contributing yet [&#8230;] 
+
+<br> 
+
+<https://www.bunniestudios.com/blog/2025/winner-name-that-ware-february-2025/>
+
+---
+
+## Nvidia CEO Jensen Huang's Iconic Look Used to Promote Knockoff Leather Jackets
+
+date: 2025-03-31, from: 404 Media Group
+
+Everyone wants to look cool in a leather jacket and lead one of the most valuable companies in the world, but not everyone can pull it off.  
+
+<br> 
+
+<https://www.404media.co/nvidia-ceo-jensen-huangs-iconic-look-used-to-promote-knockoff-leather-jackets/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-31, from: Tomosino's Mastodon feed)
+
+<p>My dad used to work with a guy who only ate French fries</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114257318490544735>
 
 ---
 
@@ -52,6 +595,34 @@ FBI raids home of prominent computer scientist who has gone incommunicado.
 <br> 
 
 <https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/>
+
+---
+
+## Summary of changes for March 2025
+
+date: 2025-03-31, from: Hundred Rabbits blog
+
+<p>Hey everyone!</p><p>This is the list of all the changes we've done to our projects during the month of March.</p>
+
+<img src="../media/content/videos/march_2025.jpg" alt="little ninj, a plus ninja, is examining at the contents of a first-aid kit" loading="lazy">
+
+<h2>Summary Of Changes</h2>
+
+<p>In the above illustration, little Ninj is going through a <a href="https://rabbitwaves.ca/site/first_aid_kit.html" target="_blank">first-aid kit</a>, looking through our supplies to see what needs to be topped off and what is out-of-date. Rek drew a list of suggestions on what to include in both a first-aid and a medical kit for the Rabbit Waves project, we plan to add more items soon(thanks to everyone on Mastodon who suggested additions! It'll be in the April update).</p>
+
+<p>We will spend the first few days of April participating in <a href="https://itch.io/jam/flickjam-2025" target="_blank">Flickjam</a>, making small games in the style of <a href="https://www.flickgame.org/index.html" target="_blank">Flickgame</a>, a tool originally made by Increpare, in which the world is navigated by clicking on pixels of different colors to head in different directions. Devine ported <a href="https://wiki.xxiivv.com/site/flick.html" target="_blank">Flickgame to Varvara</a>, and wrote a compiler for flick games to uxn roms.</p>
+
+<p>This past month, Rek finished transcribing the entire 15 weeks of the <a href="../site/victoria_to_sitka_logbook.html">Victoria to Sitka logbook</a>! We have plans to turn it into a book, in the style of <a href="../site/busy_doing_nothing.html">Busy Doing Nothing</a>, with tons of extra content and illustrations.</p>
+
+<p>March was a very good month for silly <a href="https://rabbits.srht.site/days/2025/03/31.html" target="_blank">calendar doodles</a>. Our paper calendar is always in view, it documents important events like releases, appointments, as well as food, memes, and other noteworthy things that happened on each day.</p>
+
+<p><b>Book Club:</b> This month we are still reading <i>The Goldfinch</i> by Donna Tartt(it's a long book).</p>
+
+<p><a href='https://100r.co/site/log.html#mar2025' target='_blank'>Continue Reading</a></p> 
+
+<br> 
+
+<https://100r.co/site/log.html#mar2025>
 
 ---
 

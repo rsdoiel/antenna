@@ -1,11 +1,265 @@
 ---
 title: food
-updated: 2025-03-31 06:08:02
+updated: 2025-04-01 06:09:07
 ---
 
 # food
 
-(date: 2025-03-31 06:08:02)
+(date: 2025-04-01 06:09:07)
+
+---
+
+## 13 Best Coffee Subscriptions of 2025, Tested and Reviewed
+
+date: 2025-04-01, from: Bon Appetet
+
+Never run out of beans again. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-coffee-subscriptions>
+
+---
+
+## The E-Nose Knows: Identifying A Coffee’s Origin By Volatile Aromatic Compounds
+
+date: 2025-04-01, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Researchers were able to correctly identify eight different origins.  
+
+<br> 
+
+<https://sprudge.com/the-e-nose-knows-identifying-a-coffees-origin-by-volatile-aromatic-compounds-311438.html>
+
+---
+
+## The Chocolate-Caramel Cookie Bar of Our Dreams
+
+date: 2025-04-01, from: Bon Appetet
+
+Alert the chat—the latest Bake Club recipe is here. 
+
+<br> 
+
+<https://www.bonappetit.com/story/bake-club>
+
+---
+
+## Millionaire’s Shortbread
+
+date: 2025-04-01, from: Bon Appetet
+
+Our ultimate version of the luxe chocolate-caramel bars. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/millionaires-shortbread>
+
+---
+
+## It Might Be Time to Fire Your Office Coffee
+
+date: 2025-04-01, from: The Fresh Cup
+
+<p>Depending on the type of machine your office has, your morning coffee may contain higher cholesterol-elevating substances than brewing it at home.</p>
+<p>The post <a href="https://freshcup.com/it-might-be-time-to-fire-your-office-coffee/">It Might Be Time to Fire Your Office Coffee</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/it-might-be-time-to-fire-your-office-coffee/>
+
+---
+
+## Strawberry Jell-O Poke Cake
+
+date: 2025-04-01, from: Taste of Home
+
+Bring a smile to everyone's face by making an easy Jell-O poke cake with fruity, colorful gelatin, boxed white cake mix and whipped topping. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/strawberry-jell-o-poke-cake/>
+
+---
+
+## Best Personal Blenders for Solo Smoothies and Other Small Jobs (2025)
+
+date: 2025-03-31, from: Bon Appetet
+
+Nothing beats a bullet. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-personal-blenders>
+
+---
+
+## Amazon Spring Sale: Shop the Best Kitchen Deals (2025)
+
+date: 2025-03-31, from: Bon Appetet
+
+This is your final chance to save big on tools and tableware, plus gear from Breville, Staub, Dyson, Ninja, and other top brands. 
+
+<br> 
+
+<https://www.bonappetit.com/story/amazon-spring-sale>
+
+---
+
+## 48 Vegetarian Lunch Ideas
+
+date: 2025-03-31, from: Taste of Home
+
+<p>Kick your boring salad to the curb, because these vegetarian lunch ideas are calling your name! With soups, sandwiches, wraps and more, these filling recipes will have you looking forward to lunch.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/vegetarian-lunch-ideas/">48 Vegetarian Lunch Ideas</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/vegetarian-lunch-ideas/>
+
+---
+
+## BOG BUTTER: WHY ANCIENT IRISH PEOPLE BURIED BUTTER FOR YEARS
+
+date: 2025-03-31, from: Irish Food Hub
+
+<p>The Mystery of Bog Butter Deep within the ancient peat bogs of Ireland, archaeologists and farmers have uncovered something extraordinary—centuries-old lumps of butter, buried in wooden containers, animal bladders, or even wrapped in bark. This substance, known as bog butter, has fascinated historians, food scientists, and archaeologists alike. Some specimens have been found to be over 2,000 years old, yet still remarkably well-preserved. But why did the ancient Irish deliberately bury their butter in the bogs? Was it a form of preservation, a hidden treasure, or perhaps something more ritualistic?  The Science Behind the Bogs Ireland’s vast peat bogs are more than just striking landscapes—they are natural refrigerators. The conditions within these bogs are what made them perfect for preserving butter for years, decades, or even centuries. Peat bogs are cold, acidic, and oxygen-deprived, which slows bacterial growth and prevents spoilage. When butter was buried in these bogs, it was effectively sealed off from air and microbes that would normally cause it to go rancid. Over time, the butter’s texture and flavor changed, becoming firmer, waxier, and sometimes acquiring a strong, earthy aroma from the surrounding peat. But was bog butter merely a method of preservation, or was there a deeper cultural purpose behind this ancient practice?  More Than Just Preservation While the cool, oxygen-poor environment of Ireland’s bogs made them ideal for preserving butter, historians believe that bog butter wasn’t just about food storage—it had deeper economic and cultural significance. In early Irish society, butter was a luxury item. Unlike today, where butter is common, it was a prized food reserved for the wealthy or for special occasions. Some historians suggest that bog butter may have been a way to store surplus butter in a time before refrigeration, much like burying treasure. By hiding it in the bog, owners could protect their valuable dairy from thieves or raiders. Others argue that bog butter could have had a ceremonial or ritualistic purpose. Some lumps have been found near ancient boundary lines, leading researchers to believe they may have been offerings to the gods or spirits as a way of blessing the land. But what did this buried butter actually taste like after centuries underground?  The Taste of Time What happens to butter after spending centuries underground? In recent years, archaeologists and food historians have uncovered well-preserved bog butter, with some dating back over 3,000 years. But the big question remains: Can you eat it? The answer is yes—technically. When researchers and chefs have sampled bog butter, they describe it as having a waxy texture with a pungent, earthy aroma, often compared to strong-aged cheese. Some versions remain creamy and spreadable, while others harden over time. The taste varies depending on how long it was buried and the conditions of the bog. Some butter samples remain surprisingly mild, while others develop an intense, almost rancid flavor due to fermentation. Despite its unusual taste, some chefs and experimental archaeologists have tried incorporating bog butter into modern dishes. From rich stews to rustic breads, it offers a unique connection to Ireland’s culinary past. But while bog butter is fascinating, why did the practice of burying butter eventually disappear?  The End of a Tradition As centuries passed, the practice of burying butter in bogs gradually faded. By the 19th century, advancements in dairy farming, preservation techniques, and transportation reduced the need for underground storage. The introduction of salted butter, cool storage, and later, refrigeration made it easier to keep butter fresh for extended periods without relying on bogs. Additionally, the shift from small-scale, home-based dairy production to commercial butter-making changed how people stored and used butter. Butter became more widely available and affordable, reducing the necessity of preserving large quantities for long periods. Though the tradition of bog butter has vanished from everyday life, its archaeological discoveries continue to captivate historians, food experts, and curious minds. These unearthed relics offer a rare glimpse into Ireland’s culinary past, showing how ancient people ingeniously adapted to their environment. Today, bog butter remains a fascinating piece of Irish history, celebrated in museums, research studies, and even culinary experiments. While we no longer bury butter in bogs, the legend of this unique tradition continues to live on—a true taste of Ireland’s past. Related Articles THE BUTTER WITCH: IRISH DAIRY SUPERSTITIONS AND CURSED CHURNS The Fear of Stolen Butter For centuries, dairy was a vital part of rural Irish life. Milk, butter, and cheese provided essential sustenance, and their production was seen as both an art and a form of magic. But with such importance placed on dairy, people feared that supernatural forces—or envious&#8230; Read More&#8230; WHAT MAKES IRISH BUTTER SO SPECIAL? THE SECRET TO ITS CREAMY DELICIOUSNESS Irish butter has a well-deserved reputation for being of outstanding quality and having a memorable flavor. This golden pleasure is distinguished from other butters on the market by its rich, creamy flavor and velvety texture. But what makes Irish butter so unique? Let&#8217;s delve into the secrets of Irish butters&#8230; Read More&#8230;</p>
+<p>The post <a href="https://irishfoodhub.com/bog-butter-why-ancient-irish-people-buried-butter-for-years/">BOG BUTTER: WHY ANCIENT IRISH PEOPLE BURIED BUTTER FOR YEARS</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/bog-butter-why-ancient-irish-people-buried-butter-for-years/>
+
+---
+
+## The Best Balsam Hill Christmas Trees
+
+date: 2025-03-31, from: Taste of Home
+
+<p>Are top-of-the-line Balsam Hill trees worth the hype? Our Christmas expert picks the top options. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/balsam-hill-christmas-trees/">The Best Balsam Hill Christmas Trees</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/balsam-hill-christmas-trees/>
+
+---
+
+## IRISH PEA & HAM SOUP
+
+date: 2025-03-31, from: Irish Food Hub
+
+<p>Description: Irish Pea &#38; Ham Soup is a comforting, hearty dish made with split peas, ham, and aromatic vegetables. This traditional soup is rich in flavor and perfect for chilly days, offering a taste of classic Irish home cooking. Preparation Time: 15 minutesCooking Time: 1.5 &#8211; 2 hoursServing Size: Serves 6 Ingredients: 1 ½ cups dried split peas (green or yellow), rinsed 1 large onion, chopped 2 carrots, diced 2 celery stalks, diced 2 cloves garlic, minced 1 smoked ham hock (or 2 cups cooked ham, chopped) 6 cups chicken or vegetable broth 2 bay leaves 1 teaspoon dried thyme ½ teaspoon black pepper Salt to taste 2 tablespoons butter or olive oil Fresh parsley for garnish (optional) Instructions: Prepare the Base: In a large pot, melt the butter over medium heat. Add the chopped onion, carrots, celery, and garlic. Sauté for about 5 minutes until softened. Add Peas and Ham: Stir in the rinsed split peas, ham hock (or cooked ham), broth, bay leaves, thyme, and black pepper. Bring to a boil. Simmer the Soup: Reduce the heat to low, cover, and let it simmer for 1.5 to 2 hours, stirring occasionally. If using a ham hock, remove it after 1.5 hours, shred the meat, and return it to the pot. Blend (Optional): For a smoother texture, use an immersion blender to partially blend the soup while keeping some chunks for texture. Season &#38; Serve: Taste and adjust seasoning with salt if needed. Garnish with fresh parsley if desired. Serve warm with crusty Irish soda bread. Enjoy this nourishing Irish Pea &#38; Ham Soup as a cozy and flavorful meal! 🍲</p>
+<p>The post <a href="https://irishfoodhub.com/irish-pea-ham-soup/">IRISH PEA &amp; HAM SOUP</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/irish-pea-ham-soup/>
+
+---
+
+## James Hoffmann Is Literally More Popular Than Coffee
+
+date: 2025-03-31, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. It was one of the closest matchups in Bracketspology history. 
+
+<br> 
+
+<https://sprudge.com/james-hoffmann-is-literally-more-popular-than-coffee-311418.html>
+
+---
+
+## SPICED APPLE IRISH BREAD
+
+date: 2025-03-31, from: Irish Food Hub
+
+<p>Description: Spiced Apple Irish Bread is a warm, flavorful twist on traditional Irish soda bread. Made with fresh apples, cinnamon, and nutmeg, this bread has a soft, moist texture with a hint of sweetness—perfect for breakfast or an afternoon treat with tea. Preparation Time: 15 minutesCooking Time: 40-45 minutesServing Size: Makes 1 loaf (8-10 slices) Ingredients: 3 cups all-purpose flour 1/3 cup granulated sugar 1 teaspoon baking soda 1 teaspoon baking powder 1/2 teaspoon salt 1 teaspoon ground cinnamon 1/2 teaspoon ground nutmeg 1/4 teaspoon ground cloves (optional) 1 1/2 cups buttermilk 1 large egg 4 tablespoons unsalted butter, melted 1 teaspoon vanilla extract 1 1/2 cups grated apple (Granny Smith or Honeycrisp work well) 1/2 cup chopped walnuts or pecans (optional) Instructions: Preheat the Oven: Preheat your oven to 375°F (190°C). Grease and lightly flour a 9-inch round cake pan or a baking sheet. Prepare the Dry Ingredients: In a large mixing bowl, whisk together the flour, sugar, baking soda, baking powder, salt, cinnamon, nutmeg, and cloves. Mix the Wet Ingredients: In a separate bowl, whisk the buttermilk, egg, melted butter, and vanilla extract until well combined. Combine the Ingredients: Gradually add the wet ingredients to the dry ingredients, mixing gently with a wooden spoon or spatula. Fold in the grated apples and chopped nuts (if using). The dough will be slightly sticky. Shape and Bake: Turn the dough onto a lightly floured surface and shape it into a round loaf. Transfer to the prepared pan or baking sheet. Score the top with a deep “X” using a sharp knife. Bake for 40-45 minutes, or until golden brown and a toothpick inserted into the center comes out clean. Cool and Serve: Let the bread cool for at least 10 minutes before slicing. Serve warm with butter, honey, or a drizzle of caramel sauce for extra indulgence. Enjoy this Spiced Apple Irish Bread, a comforting and flavorful treat with a deliciously soft crumb! 🍏🍞✨</p>
+<p>The post <a href="https://irishfoodhub.com/spiced-apple-irish-bread/">SPICED APPLE IRISH BREAD</a> appeared first on <a href="https://irishfoodhub.com">Irish Food Hub</a>.</p>
+ 
+
+<br> 
+
+<https://irishfoodhub.com/spiced-apple-irish-bread/>
+
+---
+
+## Vegan Deviled "Eggs"
+
+date: 2025-03-31, from: Bon Appetet
+
+Vegan or not, these creamy, potato-based hors d’oeuvres will have you coming back for more. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/vegan-deviled-eggs>
+
+---
+
+## This Is Your Final Week To Vote For The 16th Annual Sprudgie Awards
+
+date: 2025-03-31, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Voting for the 16th Annual Sprudgie Awards is open through Friday, April 4th at 11:59 PM PST. 
+
+<br> 
+
+<https://sprudge.com/this-is-your-final-week-to-vote-for-the-16th-annual-sprudgie-awards-311413.html>
+
+---
+
+## Cheesecake Cups
+
+date: 2025-03-31, from: Taste of Home
+
+No-bake cheesecake cups might just be the easiest and prettiest dessert to serve at your next party. A fuss-free recipe coupled with easy serving will make hosting a breeze! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cheesecake-cups/>
+
+---
+
+## Fairtrade International Names Lisa Prassack CEO, Revises Executive Model
+
+date: 2025-03-31, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Fairtrade-logo-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Fairtrade logo" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Fairtrade-logo-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Fairtrade-logo-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Fairtrade-logo-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Fairtrade-logo-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Fairtrade-logo.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Bonn, Germany-based Fairtrade International this week announced the appointment of longtime corporate sustainability advisor Lisa Prassack as its new chief executive officer. The nonprofit organization, which owns the Fairtrade sustainability... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/31/fairtrade-international-names-lisa-prassack-ceo-revises-executive-model/>
+
+---
+
+## For Five Coffee Roasters Opens a Big One For Atlanta
+
+date: 2025-03-31, from: Daily Coffee News
+
+<div><img width="620" height="467" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/For-Five-Coffee-Roasters-Atlanta-3-1-620x467.jpeg" class="attachment-large size-large wp-post-image" alt="For Five Coffee Roasters Atlanta 3" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/For-Five-Coffee-Roasters-Atlanta-3-1-620x467.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/For-Five-Coffee-Roasters-Atlanta-3-1-300x226.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/For-Five-Coffee-Roasters-Atlanta-3-1-150x113.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/For-Five-Coffee-Roasters-Atlanta-3-1-768x578.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/For-Five-Coffee-Roasters-Atlanta-3-1.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>With a name referencing its New York City origins, For Five Coffee Roasters recently made a major leap south, opening a spacious flagship cafe in Atlanta.&#160; Opened last month on... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/03/31/for-five-coffee-roasters-opens-a-big-one-for-atlanta/>
+
+---
+
+## Hershey’s Just Turned Cinnamon Toast Crunch into Kisses, and We Need a Bag ASAP
+
+date: 2025-03-31, from: Taste of Home
+
+<p>It's technically candy, but that doesn't mean we can't eat it for breakfast, right?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/cinnamon-toast-crunch-hersheys-kisses/">Hershey’s Just Turned Cinnamon Toast Crunch into Kisses, and We Need a Bag ASAP</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/cinnamon-toast-crunch-hersheys-kisses/>
 
 ---
 

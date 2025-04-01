@@ -1,11 +1,537 @@
 ---
 title: columns
-updated: 2025-03-31 06:07:57
+updated: 2025-04-01 06:09:02
 ---
 
 # columns
 
-(date: 2025-03-31 06:07:57)
+(date: 2025-04-01 06:09:02)
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-01, from: Dave Winer's Scripting News)
+
+How did the music industry get through <a href="https://en.wikipedia.org/wiki/Sampling_(music)#Hip-hop">hip-hop sampling</a> in the 80s without blowing itself up? I was paying attention to copyright issues in software at the time, we used copy protection, but we knew it didn't work. It was just how things were done. 
+
+<br> 
+
+<http://scripting.com/2025/04/01.html#a111248>
+
+---
+
+## Cell Phone OPSEC for Border Crossings
+
+date: 2025-04-01, updated: 2025-03-30, from: Bruce Schneier blog
+
+<p>I have heard stories of more aggressive interrogation of electronic devices at US border crossings. I know a lot about securing computers, but very little about securing phones.</p>
+<p>Are there easy ways to delete data&#8212;files, photos, etc.&#8212;on phones so it can&#8217;t be recovered? Does resetting a phone to factory defaults erase data, or is it still recoverable? That is, does the reset erase the old encryption key, or just sever the password that access that key? When the phone is rebooted, are deleted files still available?</p>
+<p>We need answers for both iPhones and Android phones. And it&#8217;s not just the US; the world is going to become a more dangerous place to oppose state power...</p> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html>
+
+---
+
+## More weird ChatGPT fun
+
+date: 2025-04-01, from: Dave Winer's Scripting News
+
+<p>The prompt: Here's a drawing and a profile picture. I'd like you to insert the person in the profile into the drawing, and adapt it as you see fit, but the face of the person in the profile should be in the same style as the ones around it. </p>
+<p>I gave it a snapshot of the art from the season finale of Severance, and my profile picture from Facebook. </p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/01/daveInSeverance.png"></center>I laughed out loud as this was revealed by ChatGPT.</div></p>
+<p></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/01/104758.html?title=moreWeirdChatgptFun>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-01, from: Dave Winer's Scripting News)
+
+The <a href="http://scripting.com/images/2025/03/25/severanceArt.png">beautiful art</a> that came with the season finale of Severance could have been drawn by ChatGPT, it's that good, in the way that machine art is good. There's a point of view reflected in its creations, looking into a soul that in no way exists. We're learning about it, but it's a moving target, evolving before our eyes, in huge steps. 
+
+<br> 
+
+<http://scripting.com/2025/04/01.html#a104129>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-01, from: Dave Winer's Scripting News)
+
+My server has been coughing up hairballs tonight. It coughed up a link to <a href="http://scripting.com/2023/02/02/133127.html">this piece</a> from two years ago, when Twitter pulled the plug on their API. It knocked everything I had built on the Twitter API off the air. Every thing. Just like that. That's what tonight was like here. It was just some of my apps, suddenly, not working. Whew. 
+
+<br> 
+
+<http://scripting.com/2025/04/01.html#a103900>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-01, from: Dave Winer's Scripting News)
+
+<a href="https://wordland.social/">WordLand</a> and <a href="http://scripting.com/">Scripting News</a> and a bunch of other sites/apps were off the air starting about 1AM Eastern, but mostly things seem to be working now, shortly after 6AM. It was a big scramble, I had to provision a new server on Digital Ocean. 
+
+<br> 
+
+<http://scripting.com/2025/04/01.html#a101609>
+
+---
+
+## RISC OS Open plots great escape from 32-bit purgatory
+
+date: 2025-04-01, updated: 2025-04-01, from: Liam Proven's articles at the Register
+
+<h4>Modern 64-bit-only chips are leaving the original Arm operating system behind</h4>
+      <p>A new funding effort from RISC OS Open seeks to modernize the operating system for future Arm hardware.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/01/risc_os_open_moonshots/>
+
+---
+
+## Today is April 2!
+
+date: 2025-04-01, from: Robert Reich's blog
+
+Did you miss last night&#8217;s executive order? 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-latest-executive-orders>
+
+---
+
+## March 31, 2025 
+
+date: 2025-04-01, from: Heather Cox Richardson blog
+
+On April 1, 1861, Secretary of State William Henry Seward wrote an astonishing letter to President Abraham Lincoln. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-31-2025>
+
+---
+
+##  Senator Cory Booker is holding the floor of the Senate and says... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046551-senator-cory-booker-is-ho>
+
+---
+
+## [Sponsor] Democracy
+
+date: 2025-04-01, updated: 2025-04-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://protectdemocracy.org/>
+
+---
+
+## Resistance Rises
+
+date: 2025-04-01, from: Dan Rather's Steady
+
+Turns out Americans are paying attention 
+
+<br> 
+
+<https://steady.substack.com/p/resistance-rises>
+
+---
+
+## Solidarity on April 5 
+
+date: 2025-04-01, from: Robert Reich's blog
+
+&#8220;Hands off&#8221; our health care, our schools, our Social Security, and our rights! 
+
+<br> 
+
+<https://robertreich.substack.com/p/april-5-hands-off-our-healthcare>
+
+---
+
+##  If you need a distraction: 368 Chickens. Line up the chickens to... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046547-if-you-need-a-distraction>
+
+---
+
+## Monday 1 April, 2025
+
+date: 2025-03-31, from: John Naughton's online diary
+
+The Hepworth View The grounds of Churchill College, Cambridge with Barbara Hepworth’s sculpture in the foreground. Photographes last Friday afternoon during a break from the unmissable annual conference of the Bennett Institute. Quote of the Day &#8220;I felt it myself, &#8230; <a href="https://memex.naughtons.org/monday-1-april-2025/40614/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/monday-1-april-2025/40614/>
+
+---
+
+##  The United States Disappeared Tracker is &#8220;tracking persons politically arrested, detained, or... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046546-the-united-states-disappe>
+
+---
+
+##  The view from Europe, courtesy of Zeit Online: Thanks America, That&#8217;ll Be... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046545-the-view-from-europe-cour>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-31, from: Miguel de Icaza Mastondon feed)
+
+<p>This is now a StoreKit2 Stan account.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114259293671897989>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-31, from: Dave Winer's Scripting News)
+
+I changed the <a href="https://radiofreeamerica.online/">domain</a> for Radio Free America and the <a href="https://bsky.app/profile/radiofreeamerica.online">Bluesky channel</a>. It's not a Canadian site. Maybe at some time we can have a version of the news flow from Canada. We may need it! 
+
+<br> 
+
+<http://scripting.com/2025/03/31.html#a220033>
+
+---
+
+##  What Will America Look Like in 10 Years? 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/what-will-america-look-like-in-10-years>
+
+---
+
+##  White House Correspondents&#8217; Dinner Scraps Host In Favor Of Terrified Silence. &#8220;While... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046544-white-house-correspondent>
+
+---
+
+##  A thread from Berkeley political science professor Omar Wasow about how protests... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046537-a-thread-from-berkeley-po>
+
+---
+
+## ★ France Fines Apple $162M for App Tracking Transparency, Taking the Side of Surveillance Advertisers Over Users
+
+date: 2025-03-31, updated: 2025-03-31, from: Daring Fireball
+
+It’s like a consortium of sketchy pawn shops complaining to the authorities after a retailer successfully cracked down on an organized shoplifting/pickpocketing ring, and the authorities then fining the retailer for the damage to the pawnbrokers’ business fencing stolen goods — and for exposing the police as ineffective. 
+
+<br> 
+
+<https://daringfireball.net/2025/03/france_merde_decision_app_tracking_transparency>
+
+---
+
+##  The End of College Life? 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/the-end-of-college-life>
+
+---
+
+## March 30, 2025
+
+date: 2025-03-31, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160282548/ed78e27fe84609dfe5b32d10737d2b32.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160282548/ed78e27fe84609dfe5b32d10737d2b32.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-30-2025-955>
+
+---
+
+## The shock market 
+
+date: 2025-03-31, from: Robert Reich's blog
+
+It&#8217;s melting down. The consequences? 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-shock-market>
+
+---
+
+## Release Day for Apple’s .4 OS Versions
+
+date: 2025-03-31, updated: 2025-03-31, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/03/31/ios-18-4-now-available-heres-whats-new/>
+
+---
+
+## Hawaii, 30 years later
+
+date: 2025-03-31, from: Matt Haughey blog
+
+<p>In 1996, I took my very first trip to the state of Hawaii, where I spent 5 days in Oahu to attend a wedding with my then-girlfriend (now spouse). As a kid growing up in Southern California, I remember the rich kids went to Hawaii for xmas vacations but I</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/hawaii-30-years-later/>
+
+---
+
+##  DOGE Plans to Rebuild SSA Code Base in Months, Risking Benefits and... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046540-doge-plans-to-rebuild-ssa>
+
+---
+
+##  Roxane Gay and Debbie Millman are buying The Rumpus. &#8220;They are committed... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046539-roxane-gay-and-debbie-mil>
+
+---
+
+##  &#8220;The federal government isn&#8217;t just pressuring universities over speech — it&#8217;s literally... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046538-the-federal-government-is>
+
+---
+
+##  From the Center for Third World Organizing, an Organizing 101 bootcamp, &#8220;a... 
+
+date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/03/0046536-from-the-center-for-third>
+
+---
+
+## The White House Correspondents Association Speaks Cowardice to Power
+
+date: 2025-03-31, updated: 2025-03-31, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://variety.com/2025/politics/news/whca-drops-amber-ruffin-performance-dinner-1236351795/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-31, from: Dave Winer's Scripting News)
+
+When <a href="https://en.wikipedia.org/wiki/Steve_Jobs#1997%E2%80%932011">Apple bought NeXT</a>, it wasn't long before we understood that it was the other way around. 
+
+<br> 
+
+<http://scripting.com/2025/03/31.html#a135725>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-31, from: Dave Winer's Scripting News)
+
+Bluesky is today brimming with irreverance. 
+
+<br> 
+
+<http://scripting.com/2025/03/31.html#a133802>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-31, from: Dave Winer's Scripting News)
+
+<a href="https://bsky.app/profile/did:plc:oety7qbfx7x6exn2ytrwikmr/post/3llo7jvji5c2j">Great artists</a>, before they die, should share their secrets, so the next generation can be even greater. 
+
+<br> 
+
+<http://scripting.com/2025/03/31.html#a133352>
+
+---
+
+## 2025-03-30 Don't visit the USA
+
+date: 2025-03-31, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-30-don-t-visit-the-usa">2025-03-30 Don&rsquo;t visit the USA</h1>
+
+<p>When people talk about minimal laptop installs, burner phones, and the
+mess of US border crossings, I wonder where they habe been the last
+twenty years. A dude from work flew to the states to work for HP as a
+student, got turned back at the airport and put on a flight back. He
+got to make one family call, his dad called HP, they called some
+lawyers and by the time they go there he was already on a plane. And
+those were the good days, before 9/11, Homeland Security and all that.</p>
+
+<p>Have you seen the forms they have you sign on the Visa Waiver program?
+The border agents have total discretion over you. Those are not &ldquo;passenger
+rights&rdquo; but &ldquo;small mercies&rdquo;. And that was long before Trump. It&rsquo;s
+terrible fuckery now, but it wasn&rsquo;t great before that. Not travelling
+to the states? I&rsquo;ve told people at the office that I won&rsquo;t be going to
+the states for work ever since 9/11. The last time I went happily was,
+uh, when The Phantom Menace came out?</p>
+
+<p>I went once more when
+my wife wanted to go to Hawaii. Somebody there held my hand and
+prayed for me on a parking lot. Somebody there gave me an ad for an
+underground firing range. I learned how the US treated the locals. No,
+visiting the US was never an easy call to make. And those were the
+good days.</p>
+
+<p>And what about boycotting the US? It is with despair that I see my
+employer buying more and more into Windows and Microsoft and Azure and
+Amazon S3. Have they not learned anything from Snowden? American IT is
+not to be trusted. I mean, it&rsquo;s probably not be trusted anywhere, but
+when give a choice, there is no reason to trust the USA. The agencies
+can get all the information they want and hand out gag orders to prevent
+the well-meaning corporations from warning you. From the outside, they
+are just as bad as the rest of them. And they will use their power against
+you. And Snowden was during the good years!</p>
+
+<p>And yes, Fortress Europe is not great, either. Two things being not
+great doesn&rsquo;t make a right, though. The first step is to realise how
+bad the situation is, how bad the situation has been.</p>
+
+<p>And now the situation really is fucked up.</p>
+
+<p>If you look at the attempts at regime change in recent years,
+I think the lessons are obvious: It can only succeed with long, weekly
+mass demonstrations, in broad coalitions.</p>
+
+<p>The only way out of a corrupt government
+that controls access to jobs, controls the institutions, controls most
+media is weekly protest. It takes a long time to grow. You have to
+be there, every time. &ldquo;Pumpaj!” Keep the pressure up.</p>
+
+<p>Join whatever protest is on this week.</p>
+
+<p>I also think it is important to not conflate the man with the mob.
+Name no names! Because it’s never just one person. If it looks like
+one person then that person is the face man of the mob. The people that
+need kicking are all those that got their jobs from the mob. All these
+greedy incompetents whose only qualification is how far they can bend
+over.</p>
+
+<p>Yeet them into the sun. Send them off to Mars. Whatever.</p>
+
+<p>To think that Canadians or Greenlanders want to be part of the USA is
+about as absurd to me as Taiwanese wanting to be part of mainland China
+or Ukrainians wanting to be part of Russia. The only ones not getting it
+are the sympathisers of the dread regimes in China, in Russia &ndash; and in the USA.</p>
+
+<p><a class="tag" href="/search/?q=%23USA">#USA</a></p>
+
+<p><strong>2025-03-31</strong>. I keep learning new things. This is from a post about US politicians visiting Greenland.</p>
+
+<blockquote>
+<p>Americans might chuckle at that idea, but such arrogance is unwarranted. We are the only ones ever to have invoked Article 5, the mutual defense obligation of the NATO treaty, after 9/11; and our European allies did respond. Per capita more Danish soldiers were killed in the Afghan war than were American soldiers … and of course defending against a Russian attack is the NATO mission. But right now the United States is supporting Russia in its war against Ukraine. No one is doing more to contain the Russian threat than Ukraine. Indeed, Ukraine is in effect fulfilling the entire NATO mission, right now, by absorbing a huge Russian attack. … Denmark meanwhile has given more than four times as much aid to Ukraine, per capita, as does the United States. … The US is is 24th in the world in the happiness rankings. Not bad. But Denmark is number two (after Finland). On a scale of 1 to 100, Freedom House ranks Denmark 97 and the US 84 on freedom — and the US will drop a great deal this year. An American is about ten times more likely to be incarcerated than a Dane. Danes have access to universal and essentially free health care; Americans spend a huge amount of money to be sick more often and to be treated worse when they are. Danes on average live four years longer than Americans. In Denmark university education is free; the average balance owed by the tens of millions of Americans who hold student debt in the US is about $40,000. Danish parents share a year of paid parental leave. In the US, one parent might get twelve weeks of unpaid leave. – <a href="https://snyder.substack.com/p/vance-in-greenland">The Imperialism Has no Clothes</a>, by Timothy Snyder</p>
+</blockquote> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-30-visit-the-usa>
+
+---
+
+## More ChatGPT fun
+
+date: 2025-03-31, from: Dave Winer's Scripting News
+
+<p>Yesterday I uploaded an image of a pizza pie, in a New York pizzeria, with a couple dressed in evening clothes with a NYC cop and off-duty sanitation worker lurking in the background. </p>
+<p>Paolo Valdemarin writes from London, "Have you tried adding more images to a prompt? From my experiments it can easily keep 'in mind' five different images and mix them. You can get a bunch of people sitting in the same room, with a very detailed version of the room." He sent two examples which are somewhat embarrassing, but you'll probably enjoy them. :-)</p>
+<p>First, he uploaded my profile picture from Facebook. And asked ChatGPT to add me to the picture and then to "sit him next to the couple, with both of them kissing him on the cheek, and as you can see ChatGPT complied!</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/31/profilePicture.png"></center>Facebook profile picture.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/31/originalPizzeria.png"></center>Original pizzeria.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/31/daveInserted.png"></center>Dave inserted.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/03/31/kissing.png"></center>Awwww.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/03/31/130142.html?title=moreChatgptFun>
 
 ---
 
@@ -220,7 +746,7 @@ date: 2025-03-31, from: Alex Schroeder's Blog
 
 ## Vertu Is Still Selling Phones, Which Suggests Someone Is Still Buying Them
 
-date: 2025-03-30, updated: 2025-03-30, from: Daring Fireball
+date: 2025-03-30, updated: 2025-03-31, from: Daring Fireball
 
  
 
@@ -264,90 +790,6 @@ And last week&#8217;s winner
 
 ---
 
-## 2025-03-30 Don't visit the USA
-
-date: 2025-03-30, from: Alex Schroeder's Blog
-
-<h1 id="2025-03-30-don-t-visit-the-usa">2025-03-30 Don&rsquo;t visit the USA</h1>
-
-<p>When people talk about minimal laptop installs, burner phones, and the
-mess of US border crossings, I wonder where they habe been the last
-twenty years. A dude from work flew to the states to work for HP as a
-student, got turned back at the airport and put on a flight back. He
-got to make one family call, his dad called HP, they called some
-lawyers and by the time they go there he was already on a plane. And
-those were the good days, before 9/11, Homeland Security and all that.</p>
-
-<p>Have you seen the forms they have you sign on the Visa Waiver program?
-The border agents have total discretion over you. Those are not &ldquo;passenger
-rights&rdquo; but &ldquo;small mercies&rdquo;. And that was long before Trump. It&rsquo;s
-terrible fuckery now, but it wasn&rsquo;t great before that. Not travelling
-to the states? I&rsquo;ve told people at the office that I won&rsquo;t be going to
-the states for work ever since 9/11. The last time I went happily was,
-uh, when The Phantom Menace came out?</p>
-
-<p>I went once more when
-my wife wanted to go to Hawaii. Somebody there held my hand and
-prayed for me on a parking lot. Somebody there gave me an ad for an
-underground firing range. I learned how the US treated the locals. No,
-visiting the US was never an easy call to make. And those were the
-good days.</p>
-
-<p>And what about boycotting the US? It is with despair that I see my
-employer buying more and more into Windows and Microsoft and Azure and
-Amazon S3. Have they not learned anything from Snowden? American IT is
-not to be trusted. I mean, it&rsquo;s probably not be trusted anywhere, but
-when give a choice, there is no reason to trust the USA. The agencies
-can get all the information they want and hand out gag orders to prevent
-the well-meaning corporations to warning you. From the outside, they
-are just as bad as the rest of them. And they will use their power against
-you. And Snowden was during the good years!</p>
-
-<p>And yes, Fortress Europe is not great, either. Two things being not
-great doesn&rsquo;t make a right, though. The first step is to realise how
-bad the situation is, how bad the situation has been.</p>
-
-<p>And now the situation really is fucked up.</p>
-
-<p>If you look at the attempts at regime change in recent years,
-I think the lessons are obvious: It can only succeed with long, weekly
-mass demonstrations, in broad coalitions.</p>
-
-<p>The only way out of a corrupt government
-that controls access to jobs, controls the institutions, controls most
-media is weekly protest. It takes a long time to grow. You have to
-be there, every time. &ldquo;Pumpaj!” Keep the pressure up.</p>
-
-<p>Join whatever protest is on this week.</p>
-
-<p>I also think it is important to not conflate the man with the mob.
-Name no names! Because it’s never just one person. If it looks like
-one person then that person is the face man of the mob. The people that
-need kicking are all those that got their jobs from the mob. All these
-greedy incompetents whose only qualification is how far they can bend
-over.</p>
-
-<p>Yeet them into the sun. Send them off to Mars. Whatever.</p>
-
-<p>To think that Canadians or Greenlanders want to be part of the USA is
-about as absurd to me as Taiwanese wanting to be part of mainland China
-or Ukrainians wanting to be part of Russia. The only ones not getting it
-are the sympathisers of the dread regimes in China, in Russia &ndash; and in the USA.</p>
-
-<p><a class="tag" href="/search/?q=%23USA">#USA</a></p>
-
-<p><strong>2025-03-31</strong>. I keep learning new things. This is from a post about US politicians visiting Greenland.</p>
-
-<blockquote>
-<p>Americans might chuckle at that idea, but such arrogance is unwarranted. We are the only ones ever to have invoked Article 5, the mutual defense obligation of the NATO treaty, after 9/11; and our European allies did respond. Per capita more Danish soldiers were killed in the Afghan war than were American soldiers … and of course defending against a Russian attack is the NATO mission. But right now the United States is supporting Russia in its war against Ukraine. No one is doing more to contain the Russian threat than Ukraine. Indeed, Ukraine is in effect fulfilling the entire NATO mission, right now, by absorbing a huge Russian attack. – <a href="https://snyder.substack.com/p/vance-in-greenland">The Imperialism Has no Clothes</a>, by Timothy Snyder</p>
-</blockquote> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-03-30-visit-the-usa>
-
----
-
 **@Miguel de Icaza Mastondon feed** (date: 2025-03-30, from: Miguel de Icaza Mastondon feed)
 
 <p>Me looking at crash logs:</p><p>&quot;The bugs are mysterious and important&quot;</p> 
@@ -360,7 +802,7 @@ are the sympathisers of the dread regimes in China, in Russia &ndash; and in the
 
 ## ★ ‘The Studio’ Is Fantastic So Far
 
-date: 2025-03-30, updated: 2025-03-30, from: Daring Fireball
+date: 2025-03-30, updated: 2025-03-31, from: Daring Fireball
 
 Perhaps Apple’s leadership simply believes, as I do, that cinema is the grandest and greatest form of art the world has ever seen — one that encompasses acting, writing, photography and/or illustration, and music — and but that great cinema is expensive and delicate and needs, from deep-pocketed studios and their deeper-pocketed corporate parents, more than patrons, but *champions*. 
 

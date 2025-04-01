@@ -1,17 +1,401 @@
 ---
 title: science and technology
-updated: 2025-03-31 06:07:55
+updated: 2025-04-01 06:09:01
 ---
 
 # science and technology
 
-(date: 2025-03-31 06:07:55)
+(date: 2025-04-01 06:09:01)
+
+---
+
+## Delicious irony as Euro alliance pumps €1M of Microsoft's money into open source cloud federation tech
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Fulcrum is region&#39;s latest challenge to the hyperscalers</h4> <p>An alliance of cloud service providers in Europe is investing €1 million into the Fulcrum Project, an open source cloud federation tech that gives an alternative to local customers anxious about using US hypercalers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/cispe_fulcrum_donation/>
+
+---
+
+## UK threatens £100K-a-day fines under new cyber bill
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Tech secretary reveals landmark legislation&#39;s full details for first time</h4> <p>The UK&#39;s technology secretary revealed the full breadth of the government&#39;s Cyber Security and Resilience (CSR) Bill for the first time this morning, pledging £100,000 ($129,000) daily fines for failing to act against specific threats under consideration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/uk_100k_fines_csr/>
+
+---
+
+## Isar’s first orbital rocket crashes into sea – CEO calls it a 'great success'
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>What counts as failure in New Space?</h4> <p><strong>Comment</strong>  Yet another rocket exploded over the weekend and – you guessed it – its CEO called the test flight &#34;a great success.&#34; This raises the question: what even counts as failure anymore in the world of so-called &#34;New Space&#34; – the VC-fueled and risk-friendly private rocket sector?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/failure_in_new_space/>
+
+---
+
+## RISC OS Open plots great escape from 32-bit purgatory
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Modern 64-bit-only chips are leaving the original Arm operating system behind</h4> <p>A new funding effort from RISC OS Open seeks to modernize the operating system for future Arm hardware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/risc_os_open_moonshots/>
+
+---
+
+## Asda's tech separation from Walmart nears £1B as delays mount
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Lenders told of £175 million project top-up for 2025, four years after buyout</h4> <p>The UK&#39;s third-largest supermarket has seen the expected costs of its tech divorce from former US owner Walmart rise to nearly £1 billion ($1.3 billion) after news broke that the project is now expected to run into calendar Q3 of year four, overshooting its original three-year timeline.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/asda_walmart_tech_separation_cost/>
+
+---
+
+## GCHQ intern took top secret spy tool home, now faces prison
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Not exactly Snowden levels of skill</h4> <p>A student at Britain&#39;s top eavesdropping government agency has pleaded guilty to taking sensitive information home on the first day of his trial.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/student_gchq_theft/>
+
+---
+
+## Arm reckons it'll own 50% of the datacenter by year's end
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Optimistic much?</h4> <p>Arm expects to see its architecture account for half of the datacenter CPU market by the end of this year, up from 15 percent in 2024, all thanks to the AI boom.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/arm_datacenter_cpu_market/>
+
+---
+
+## Genetic data repo OpenSNP to self-destruct before authoritarians weaponize it
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Blame the 23andMe implosion, rise in far-right govt</h4> <p>OpenSNP, a fourteen-year-old open source repository for genetic records, will shut down and delete all its data at the end of April.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/opensnp_shutdown/>
+
+---
+
+## Microsoft is redesigning the Windows BSoD to get you back to work ‘as fast as possible’
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>How about making sure OS crashes less, stops hassling us to use Edge? That would improve productivity, too</h4> <p>Microsoft has quietly revealed it’s redesigning the Blue Screen of Death, the notification that Windows presents after it crashes so badly a reboot is the only way out.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/microsoft_is_redesigning_the_windows/>
+
+---
+
+## Discovery Alert: Four Little Planets, One Big Step
+
+date: 2025-04-01, from: NASA breaking news
+
+The Discovery Four rocky planets much smaller than Earth orbit Barnard’s Star, the next closest to ours after the three-star Alpha Centauri system. Barnard’s is the nearest single star. Key Facts Barnard’s Star, six light-years away, is notorious among astronomers for a history of false planet detections. But with the help of high-precision technology, the […] 
+
+<br> 
+
+<https://science.nasa.gov/universe/exoplanets/discovery-alert-four-little-planets-one-big-step/>
+
+---
+
+## Sols 4495-4497: Yawn, Perched, and Rollin’
+
+date: 2025-04-01, from: NASA breaking news
+
+Written by Natalie Moore, Mission Operations Specialist at Malin Space Science Systems Earth planning date: Friday, March 28, 2025 Womp, womp. Another SRAP (Slip Risk Assessment Process) issue due to wheels being perched on these massive layered sulfate rocks. With our winter power constraints as tight as they are, though, keeping the arm stowed freed […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4495-4497-yawn-perched-and-rollin/>
+
+---
+
+## Intel's latest CEO Lip Bu Tan: 'You deserve better'
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>OK, AMD it is, then. Or Nvidia, Arm, Qualcomm, RISC-V, MOS 6502 ...</h4> <p>Intel&#39;s newly appointed CEO Lip-Bu Tan has used his first major speech to admit the x86 goliath needs to shape up, and sketched out plans to turn things around.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/new_intel_ceo_major_speech/>
+
+---
+
+## Generative AI app goes dark after child-like deepfakes found in open S3 bucket
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Producing this stuff is bad enough, but d&#39;ya really have to leave all of it on the web for anyone to find?</h4> <p>Jeremiah Fowler, an Indiana Jones of insecure systems, says he found a trove of sexually explicit AI-generated images exposed to the public internet – all of which disappeared after he tipped off the team seemingly behind the highly questionable pictures.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/nudify_website_open_database/>
+
+---
+
+## CISA spots spawn of Spawn malware targeting Ivanti flaw
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Resurge an apt name for malware targeting hardware maker that has security bug after security bug</h4> <p>Owners of Ivanti’s Connect Secure, Policy Secure, and ZTA Gateway products have a new strain of malware to fend off, according to the US Cybersecurity and Infrastructure Security Agency, aka CISA.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/cisa_ivanti_warning/>
+
+---
+
+## ARMD Solicitations (ULI Proposals Invited)
+
+date: 2025-04-01, from: NASA breaking news
+
+This ARMD solicitations page compiles the opportunities to collaborate with NASA’s aeronautical innovators and/or contribute to their research to enable new and improved air transportation systems. A summary of available opportunities with key dates requiring action are listed first. More information about each opportunity is detailed lower on this page. University Leadership InitiativeStep-A proposals due [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/aeronautics/armd-solicitations/>
+
+---
+
+## Top cybersecurity boffin, wife vanish as FBI raids homes
+
+date: 2025-03-31, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Indiana Uni rm -rf online profiles while agents haul boxes of evidence</h4> <p>A tenured computer security professor at Indiana University and his university-employed wife have not been seen publicly since federal agents raided their homes late last week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/31/indiana_cybersecurity_professor_fbi/>
+
+---
+
+## Oracle Cloud security SNAFU latest: IT giant accused of pedantry as evidence scrubbed
+
+date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+
+<h4>1990s incident response in 2025</h4> <p>Two Oracle data security breaches have been reported in the past week, and the database goliath not only remains reluctant to acknowledge the disasters publicly – it may be scrubbing the web of evidence, too.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/31/oracle_reported_breaches/>
+
+---
+
+## NASA Trains for Orion Water Recovery Ahead of Artemis II Launch
+
+date: 2025-03-31, from: NASA breaking news
+
+Preparations for NASA’s next Artemis flight recently took to the seas as a joint NASA and Department of Defense team, led by NASA’s&#160;Exploration Ground Systems Program, spent a week aboard the USS Somerset off the coast of California practicing procedures for recovering the Artemis II spacecraft and crew. Following successful completion of Underway Recovery Test-12 [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/nasa-trains-for-orion-water-recovery-ahead-of-artemis-ii-launch/>
+
+---
+
+## Nvidia challenger Cerebras says it's leaped Mid-East funding hurdle on way to IPO
+
+date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+
+<h4>Wafer-scale AI chip startup apparently smoothed over American concerns around UAE&#39;s G42 planned stake</h4> <p>AI chip startup Cerebras Systems says it has cleared a key hurdle ahead of its planned initial public offering (IPO), claiming it resolved concerns about its sources of funding with the US Committee on Foreign Investment (CFIUS).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/31/cerebras_ipo_roadblock/>
+
+---
+
+## Old Missions, New Discoveries: NASA’s Data Archives Accelerate Science
+
+date: 2025-03-31, from: NASA breaking news
+
+Every NASA mission represents a leap into the unknown, collecting data that pushes the boundaries of human understanding. But the story doesn’t end when the mission concludes. The data carefully preserved in NASA’s archives often finds new purpose decades later, unlocking discoveries that continue to benefit science, technology, and society. “NASA’s science data is one […] 
+
+<br> 
+
+<https://science.nasa.gov/open-science/archival-data-discoveries/>
+
+---
+
+## Artemis II Core Stage Integration – Complete!
+
+date: 2025-03-31, from: NASA breaking news
+
+Technicians from NASA and primary contractor Amentum join the SLS (Space Launch System) rocket with the stacked solid rocket boosters for the Artemis II mission at NASA’s Kennedy Space Center in Florida on March 23, 2025. The core stage is the largest component of the rocket, standing 212 feet tall and weighing about 219,000 pounds [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/artemis-ii-core-stage-integration-complete/>
+
+---
+
+## Career Spotlight: Technologist (Ages 14-18)
+
+date: 2025-03-31, from: NASA breaking news
+
+What does a technologist do? Technologists are professionals who research, develop, and test emerging technologies. They also find useful ways to put new technologies to work. A technologist is an expert in a specific type of technology, often within a specific field. Many industries rely on innovations developed by technologists. Some of these include aerospace, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/career-spotlight-technologist/>
+
+---
+
+## Career Spotlight: Scientist (Ages  14-18)
+
+date: 2025-03-31, from: NASA breaking news
+
+What does a scientist do? Science is about exploring answers to questions. A scientist uses research and evidence to form hypotheses, test variables, and then share their findings. NASA scientists conduct groundbreaking research to answer some of humanity’s most profound questions. Most scientists start as project scientists in their early careers. They spend a lot [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/career-spotlight-scientist/>
+
+---
+
+## 20-Year Hubble Study of Uranus Yields New Atmospheric Insights
+
+date: 2025-03-31, from: NASA breaking news
+
+The ice-giant planet Uranus, which travels around the Sun tipped on its side, is a weird and mysterious world. Now, in an unprecedented study spanning two decades, researchers using NASA’s Hubble Space Telescope have uncovered new insights into the planet’s atmospheric composition and dynamics. This was possible only because of Hubble’s sharp resolution, spectral capabilities, […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/20-year-hubble-study-of-uranus-yields-new-atmospheric-insights/>
+
+---
+
+## University High Triumphs at JPL-Hosted Ocean Sciences Bowl
+
+date: 2025-03-31, from: NASA breaking news
+
+The annual regional event puts students’ knowledge of ocean-related science to the test in a fast-paced academic competition. A team of students from University High School in Irvine earned first place at a fast-paced regional academic competition focused on ocean science disciplines and hosted by NASA’S Jet Propulsion Laboratory in Southern California. Eight teams from [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/jpl/university-high-triumphs-at-jpl-hosted-ocean-sciences-bowl/>
+
+---
+
+## Check Point confirms breach, but says it was 'old' data and crook made 'false' claims
+
+date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+
+<h4>Explanation leaves a &#39;lot of questions unanswered,&#39; says infosec researcher</h4> <p>A digital burglar is claiming to have nabbed a trove of &#34;highly sensitive&#34; data from Check Point - something the American-Israeli security biz claims is a huge exaggeration.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/31/check_point_confirms_breach/>
+
+---
+
+## AI datacenters want to go nuclear. Too bad they needed it yesterday
+
+date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+
+<h4>Silicon Valley&#39;s latest energy fixation won&#39;t stop the coming power panic</h4> <p><strong>Analysis</strong>  Atomic energy is becoming the preferred solution to address the projected bump in megawatts needed to charge AI in the future, but it simply won&#39;t come soon enough in many cases.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/31/nuclear_no_panacea_ai/>
+
+---
+
+## Nova Custom: this week’s sponsor
+
+date: 2025-03-31, from: OS News
+
+Nova Custom, based in The Netherlands, makes laptops focused on privacy, customisation, and freedom. Nova Custom laptops ship with either Linux, Windows, or no operating system, and they&#8217;re uniquely certified for Qubes OS (the V54 model will be certified soon), the ultra-secure and private operating system. On top of that, Nova Custom laptops come with Dasharo coreboot firmware preinstalled, which is completely open source, instead of a proprietary BIOS. Nova Custom can also disable the Intel Management Engine for you, and you can opt for Dasharo coreboot+Heads for the ultimate in boot security. Nova Custom offers visual customisations, too, including engraving a logo or text of your choice on the metal screen lid and/or palmrest and adding your own boot logo. They also offer privacy customisations like removing the microphone and webcam, installing a privacy screen, and more. A small touch I personally appreciate: Nova Custom offers a long, long list of keyboard layouts, as well as the option to customise the super key. Nova Custom products enjoy 3 years of warranty, as well as updates and spare parts for at least seven years after the launch of a product, which includes everything from motherboard replacements down to sets of screws. Nova Custom laptops can be configured with a wide variety of Intel processor options, as well as a choice between integrated Intel GPUs or Nvidia laptop GPUs. Thanks to Nova Custom for sponsoring OSNews! 
+
+<br> 
+
+<https://www.osnews.com/story/142028/nova-custom-this-weeks-sponsor/>
+
+---
+
+## LLM providers on the cusp of an 'extinction' phase as capex realities bite
+
+date: 2025-03-31, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Only the strong will survive, but analyst says cull will not be as rapid as during dotcom era</h4> <p>Gartner says the market for large language model (LLM) providers is on the cusp of an extinction phase as it grapples with the capital-intensive costs of building products in a competitive market.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/31/llm_providers_extinction/>
+
+---
+
+## A New Proof Smooths Out the Math of Melting
+
+date: 2025-03-31, from: Quanta Magazine
+
+A powerful mathematical technique is used to model melting ice and other phenomena. But it has long been imperiled by certain “nightmare scenarios.” A new proof has removed that obstacle.            <p>The post <a href="https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/" target="_blank">A New Proof Smooths Out the Math of Melting</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/a-new-proof-smooths-out-the-math-of-melting-20250331/>
+
+---
+
+## Windows 11 adds auto-recovery, kills offline setup loophole
+
+date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+
+<h4>Microsoft giveth with one hand but taketh away with the other</h4> <p>Windows Insiders will soon get their hands on Microsoft&#39;s attempt to ward off another CrowdStrike incident, and the company is also closing a loophole for users who don&#39;t want a Microsoft account.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/31/windows_11_insiders/>
+
+---
+
+## Nvidia's latest AI PC boxes sound great – if you're a data scientist with $3,000 to spare
+
+date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+
+<h4>But will they really upend the enterprise PC market? How about software? Networking, anyone?</h4> <p><strong>Analysis</strong>  Disrupt? It&#39;s an awful hackneyed term that some analysts, consultants and technologists like to use.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/31/can_nvidia_shakeup_pcs/>
 
 ---
 
 ## Privacy died last century, the only way to go is off-grid
 
-date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+date: 2025-03-31, updated: 2025-04-01, from: The Register (UK I.T. News)
 
 <h4>From smartphones to surveillance cameras to security snafus, there&#39;s no escape</h4> <p><strong>Opinion</strong>  I was going to write a story about how Amazon is no longer even pretending to respect your privacy. But, really, why bother?…</p> 
 
@@ -95,7 +479,7 @@ date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
 
 ## Cashless society could be why fewer kids are eating coins and sticking things up their noses
 
-date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+date: 2025-03-31, updated: 2025-04-01, from: The Register (UK I.T. News)
 
 <h4>NHS boffins think there&#39;s a connection, but ‘snot all good news: Swallowing batteries is even more dangerous</h4> <p>Researchers from the UK’s National Health Service believe increasing adoption of cashless payments may be having an unexpected payoff: Fewer kids are swallowing coins and seeking medical help to remove them.…</p> 
 

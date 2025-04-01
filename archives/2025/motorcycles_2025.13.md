@@ -1,11 +1,84 @@
 ---
 title: motorcycles
-updated: 2025-03-31 06:08:00
+updated: 2025-04-01 06:09:05
 ---
 
 # motorcycles
 
-(date: 2025-03-31 06:08:00)
+(date: 2025-04-01 06:09:05)
+
+---
+
+## Watch Man Use Pathetic Excuse for an ATV to Ram Teslas, Faces Felony Charges
+
+date: 2025-04-01, from: Ride Apart, Electric Motorcycle News
+
+He could've picked a better ram. 
+
+<br> 
+
+<https://www.rideapart.com/news/755022/texas-man-atv-rams-teslas/>
+
+---
+
+## Is Yamaha Tricking Out Its Wild 3-Wheeler With a Bunch Of New Tech?
+
+date: 2025-04-01, from: Ride Apart, Electric Motorcycle News
+
+While it went away in the US, it's alive and kicking in other markets. Is it getting an upgrade? 
+
+<br> 
+
+<https://www.rideapart.com/news/755023/yamaha-niken-new-patent-tech/>
+
+---
+
+## The New Brabus Motorcycle Is Under Development, and It’s Coming To the US
+
+date: 2025-04-01, from: Ride Apart, Electric Motorcycle News
+
+Despite KTM’s recent struggles, it’s still pushing through with one of the wildest production bikes out there. 
+
+<br> 
+
+<https://www.rideapart.com/news/755062/brabus-1400r-coming-soon-details-leaked/>
+
+---
+
+## NHRA Winternationals Among Rick Ware Racing’s 3 Wins on Weekend
+
+date: 2025-03-31, from: Kickin the Tires blog
+
+POMONA, Calif. (March 30, 2025) – Rick Ware Racing (RWR) earned its third victory in less than 24 hours when NHRA Top Fuel driver Clay Millican drove the RWR-prepared Mighty&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/nhra-winternationals-among-rick-ware-racings-3-wins-on-weekend/>
+
+---
+
+## Airoh Ventures Into the E-Bike Helmet World With New Metropolis
+
+date: 2025-03-31, from: Ride Apart, Electric Motorcycle News
+
+It’s using its expertise to keep e-bike and light e-mobility users safe on the streets. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/754897/airoh-metropolis-ebike-helmet-specs-details-features/>
+
+---
+
+## Times Are Tough For GoPro, So Its CEO Won't Take a Salary This Year
+
+date: 2025-03-31, from: Ride Apart, Electric Motorcycle News
+
+The action camera maker is struggling, but hoping to turn things around with key moves. 
+
+<br> 
+
+<https://www.rideapart.com/news/755005/gopro-ceo-no-salary-2025/>
 
 ---
 
