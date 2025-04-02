@@ -1,11 +1,528 @@
 ---
 title: pacific
-updated: 2025-04-01 06:09:00
+updated: 2025-04-02 06:08:25
 ---
 
 # pacific
 
-(date: 2025-04-01 06:09:00)
+(date: 2025-04-02 06:08:25)
+
+---
+
+## Road closure Thursday on Kapiolani Street
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>The Department of Public Works will be performing &#8220;street light foundation and sidewalk work&#8221; Thursday on Kapiolani Street in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/hawaii-news/road-closure-thursday-on-kapiolani-street/>
+
+---
+
+## Milolii homeowner wins lawsuit against county
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>A Kona judge ruled Friday that the Hawaii County Board of Appeals erred when it sided with the Department of Public Works, which revoked a 2020 renovation building permit that was in effect after a man bought a small Milolii Beach Lots house in a shoreline management area four years ago.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/hawaii-news/milolii-homeowner-wins-lawsuit-against-county/>
+
+---
+
+## Kona woman pleads guilty to federal drug charge
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>A 44-year-old woman who allegedly used a U.S. passport stolen from a car in Las Vegas to hide her identity and move methamphetamine and money between Hawaii and the mainland pleaded guilty Tuesday in federal court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/hawaii-news/kona-woman-pleads-guilty-to-federal-drug-charge/>
+
+---
+
+## Mass layoffs hit health agencies that track disease and regulate food
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration laid off thousands of federal health workers Tuesday in a purge that included senior leaders and top scientists charged with regulating food and drugs, protecting Americans from disease and researching new treatments and cures.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/mass-layoffs-hit-health-agencies-that-track-disease-and-regulate-food/>
+
+---
+
+## White House says Trump will go ahead with tariffs as nervous world awaits trade war
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The White House confirmed on Tuesday that President Donald Trump will impose new tariffs today, though it provided no details about the size and scope of trade barriers that have businesses, consumers and investors fretting about an intensifying global trade war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/white-house-says-trump-will-go-ahead-with-tariffs-as-nervous-world-awaits-trade-war/>
+
+---
+
+## GOP bolsters House majority by retaining two seats in Florida
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>ORMOND BEACH, Fla. &#8212; Two Trump-backed Republicans won special congressional elections in Florida on Tuesday, according to The Associated Press, shoring up their party&#8217;s slim majority in the House at a crucial moment for President Donald Trump&#8217;s domestic agenda.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/gop-bolsters-house-majority-by-retaining-two-seats-in-florida/>
+
+---
+
+## News in brief for April 2
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>US judge blocks Trump from &#0010;firing federal workers on probation</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/news-in-brief-for-april-2-2/>
+
+---
+
+## US prosecutors to seek death penalty for Luigi Mangione, Bondi says
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK/WASHINGTON &#8212; U.S. Attorney General Pamela Bondi directed federal prosecutors to seek the death penalty for Luigi Mangione, the man accused of shooting and killing Brian Thompson, the CEO of UnitedHealth Group&#8217;s insurance division, in New York last year.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/us-prosecutors-to-seek-death-penalty-for-luigi-mangione-bondi-says/>
+
+---
+
+## Cory Booker slams Trump’s policies in marathon Senate floor speech
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>Sen. Cory Booker, visibly tired but still upright at a lectern on the Senate floor, was deep into the second day of a speech criticizing the Trump administration Tuesday, a show of physical and oratorical stamina that he hoped would spotlight what he called a &#8220;crisis&#8221; facing the United States under President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/cory-booker-slams-trumps-policies-in-marathon-senate-floor-speech/>
+
+---
+
+## Trump administration says man was deported to El Salvador in error
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump&#8217;s administration erroneously deported a Salvadoran man as part of three high-profile deportation flights to El Salvador last month, after a judge&#8217;s ruling prohibited the man&#8217;s removal to his home country, a court filing on Monday showed.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/trump-administration-says-man-was-deported-to-el-salvador-in-error/>
+
+---
+
+## Princeton’s US grants frozen, follows Trump actions against other schools
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Princeton University said on Tuesday the U.S. government froze several dozen research grants to the school, which became the latest academic institution targeted by the Trump administration in a crackdown on what it calls antisemitism on campuses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/princetons-us-grants-frozen-follows-trump-actions-against-other-schools/>
+
+---
+
+## Wisconsin votes in high-profile judicial race after millions spent by Musk
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>Wisconsin voters were choosing a new justice for the state&#8217;s top court on Tuesday in a race that offers an early referendum on Donald Trump&#8217;s presidency, with abortion rights, labor rights and election rules all potentially in the balance.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/wisconsin-votes-in-high-profile-judicial-race-after-millions-spent-by-musk/>
+
+---
+
+## Musk again misleads on Social Security fraud
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Elon Musk, the world&#8217;s richest man, has continued his campaign to aggressively undercut Social Security, leveling baseless and often misleading attacks on the insurance program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/musk-again-misleads-on-social-security-fraud/>
+
+---
+
+## UN urges aid to Myanmar quake survivors before monsoons hit, death toll climbs towards 3,000
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>United Nations officials who surveyed earthquake damage in Myanmar urged the global community on Tuesday to ramp up aid before the looming monsoon season worsens already catastrophic conditions, with the death toll at 2,719 and expected to surpass 3,000.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/un-urges-aid-to-myanmar-quake-survivors-before-monsoons-hit-death-toll-climbs-towards-3000/>
+
+---
+
+## Medicaid could be targets of Republican budget cuts, hurting poor Americans
+
+date: 2025-04-02, from: Hawaii Tribune Harold
+
+
+				<p>When Blair Isbell&#8217;s food aid benefits arrive each month, the community college student and mother of two starts planning how to spend the roughly $7 per person per day she gets for groceries. Isbell has an app on her phone for every grocery store in her area of California&#8217;s Central Valley, and uses them to find the best deals. She favors pasta and rice combinations, stretching the meat and vegetables as far as she can for her sons, ages 4 and 8.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/02/nation-world-news/medicaid-could-be-targets-of-republican-budget-cuts-hurting-poor-americans/>
+
+---
+
+## Top Pacific diplomats ready for direct talks on Bougainville independence 
+
+date: 2025-04-02, from: Pacific Island Times
+
+Ahead of the talks, ABG’s President Ishmael Toroama moved to sideline a key sticking point over PNG parliamentary ratification of the vote,  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/top-pacific-diplomats-ready-for-direct-talks-on-bougainville-independence-leah-lowonbu-stefan-armbr>
+
+---
+
+## N-POC Scholars undertake PhD Writing and Publishing Workshop
+
+date: 2025-04-02, from: University of the South Pacific (Fiji)
+
+<p>Scholars under the Norway-Pacific Ocean-Climate Scholarship Programme (N-POC) at The University of the South Pacific...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/n-poc-scholars-undertake-phd-writing-and-publishing-workshop/">N-POC Scholars undertake PhD Writing and Publishing Workshop</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/n-poc-scholars-undertake-phd-writing-and-publishing-workshop/>
+
+---
+
+## USP Research Students Participate in Social Anthropology meeting
+
+date: 2025-04-02, from: University of the South Pacific (Fiji)
+
+<p>Seven research students from The University of the South Pacific (USP) attended the Association for...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-research-students-participate-in-social-anthropology-meeting/">USP Research Students Participate in Social Anthropology meeting</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-research-students-participate-in-social-anthropology-meeting/>
+
+---
+
+## Discussions highlight evolving workforce dynamics
+
+date: 2025-04-02, from: University of the South Pacific (Fiji)
+
+<p>In a joint effort to address evolving workforce dynamics in Fiji, the Graduate School of...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/discussions-highlight-evolving-workforce-dynamics/">Discussions highlight evolving workforce dynamics</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/discussions-highlight-evolving-workforce-dynamics/>
+
+---
+
+## ʻŌhiʻa love grows at UH CTAHR event in Hilo
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>More than 1,300 people gathered in Hilo to celebrate and protect one of <span aria-label="Hawaii">Hawai&#699;i</span>’s most treasured trees&#8212;the <span aria-label="ohia">&#699;&#333;hi&#699;a</span> lehua.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/ohia-love-grows-ctahr-hilo/">ʻŌhiʻa love grows at <abbr>UH CTAHR</abbr> event in Hilo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/ohia-love-grows-ctahr-hilo/>
+
+---
+
+## Nahaku earns national baseball award, Big West Player of the Week
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>Kamana Nahaku became the first player in <abbr>UH</abbr> history to receive the Golden Spikes National Player of the Week recognition.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/nahaku-earns-nation-big-west/">Nahaku earns national baseball award, Big West Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/nahaku-earns-nation-big-west/>
+
+---
+
+## UH Hilo Crinella receives 2nd PacWest men’s golf Player of the Week honor
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>Ben Crinella finished fourth at the Sonoma State Spring Invitational.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/crinella-2nd-pacwest-mens-golf-player-of-the-week/"><abbr>UH</abbr> Hilo Crinella receives 2nd PacWest men’s golf Player of the Week honor</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/crinella-2nd-pacwest-mens-golf-player-of-the-week/>
+
+---
+
+## Sakanoko, Rosenthal capture men’s volleyball Big West awards
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>Louis Sakanoko received the Offensive Player of the Week award, and Tread Rosenthal was named Setter of the Week.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/sakanoko-rosenthal-big-west-awards/">Sakanoko, Rosenthal capture men’s volleyball Big West awards</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/sakanoko-rosenthal-big-west-awards/>
+
+---
+
+## Former Senator Klitzkie passes away 
+
+date: 2025-04-02, from: Pacific Island Times
+
+Bob Klitzkie By Pacific Island Times News Staff Robert “Bob” Klitzkie, former senator and a popular talk show host, passed away early... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-s-talk-show-host-former-senator-bob-klitzkie-passed-away>
+
+---
+
+## Planter bed project helps Hale Wainani residents bloom
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>The Hale Wainani Lei Garden allows student residents to have a sustainable relationship with native Hawaiian plants.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/hale-wainani-planter-bed-project/">Planter bed project helps Hale Wainani residents bloom</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/hale-wainani-planter-bed-project/>
+
+---
+
+## Kaʻana Manaʻo: Behind the Scenes
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>While faculty, staff, students, and administration go about the business of higher education, <abbr>O</abbr> &#38; <abbr>M</abbr> keeps everything humming.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/kaana-manao-behind-the-scenes/">Kaʻana Manaʻo: Behind the Scenes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/kaana-manao-behind-the-scenes/>
+
+---
+
+## UH Hilo’s Paquet earns 2nd PacWest men’s tennis Player of the Week
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>Jaime Paquet continues his dominance on the court with a 5-0 week in singles.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/paquet-pacwest-player-of-the-week/"><abbr>UH</abbr> Hilo’s Paquet earns 2nd PacWest men’s tennis Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/paquet-pacwest-player-of-the-week/>
+
+---
+
+## UH Speaker Series: Disaster recovery and community change
+
+date: 2025-04-01, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Better Tomorrow Speaker Series features attorney Colette Pichon Battle, the founder of Taproot Earth, which fights for just recoveries in the wake of climate disasters.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/better-tomorrow-speaker-colette-pichon-battle/"><abbr>UH</abbr> Speaker Series: Disaster recovery and community change</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/better-tomorrow-speaker-colette-pichon-battle/>
+
+---
+
+## Miles for Smiles HIKI NŌ on PBS Hawai‘i
+
+date: 2025-04-01, from: HIKI NŌ ON PBS HAWAIʻI
+
+<p>“Miles for Smiles” On this episode of HIKI NŌ on PBS Hawaiʻi, watch stories about inspiring teachers, the power of hula and the ways of Hawaiian ancestors, financial tips tailored to students, as well as new initiatives to promote student mental health. Students at Hawaiʻi Preparatory Academy Middle School on Hawaiʻi Island share their teacherʻs [&#8230;]</p>
+<p>The post <a href="https://www.pbshawaii.org/miles-for-smiles/">Miles for Smiles &lt;br/&gt;HIKI NŌ on PBS Hawai‘i</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/miles-for-smiles/>
+
+---
+
+## Lava fountains top 700 feet in latest ‘episode’ of Kilauea eruption
+
+date: 2025-04-01, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaiian Volcano Observatory reported today that the &#8220;high fountain phase&#8221; of episode 16 of the ongoing Kilauea eruption begun at 10:24 a.m.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/01/hawaii-news/lava-fountains-top-700-feet-in-latest-episode-of-kilauea-eruption/>
+
+---
+
+## UH professor to lead top systematics, evolutionary biology journal
+
+date: 2025-04-01, from: University of Hawaiʻi News
+
+<p>Under Thomson’s leadership, <em>Systematic Biology</em> will continue to serve as a premier platform for groundbreaking research and collaboration in evolutionary biology.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/01/robert-thomson-systematic-biology/"><abbr>UH</abbr> professor to lead top systematics, evolutionary biology journal</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/01/robert-thomson-systematic-biology/>
+
+---
+
+## US Supreme Court declines to review ruling on NMI cockfighting ban
+
+date: 2025-04-01, updated: 2025-04-02, from: Marianas Variety
+
+THE U.S. Supreme Court has declined to review the U.S. Court of Appeals for the Ninth District’s order affirming the District Court for the NMI’s ruling that the federal ban on cockfighting applies to the Commonwealth and does not intrude on its right to self-governance. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/us-supreme-court-declines-to-review-ruling-on-nmi-cockfighting-ban/article_fda0b67c-35b3-4b48-b56c-63f6015cd803.html>
+
+---
+
+## Federal court denies drug defendant’s renewed motion to vacate sentence
+
+date: 2025-04-01, updated: 2025-04-02, from: Marianas Variety
+
+CHIEF Judge Ramona V. Manglona of the District Court for the NMI has denied Huaishu Wang’s renewed motion to “vacate, set aside, or correct” his sentence for involvement in the importation of more than two pounds of methamphetamine through the U.S. Postal Service. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/federal-court-denies-drug-defendant-s-renewed-motion-to-vacate-sentence/article_6278b2a8-e6f2-432e-b109-82fc40b847c6.html>
+
+---
+
+## Northern Islands mayor asks lawmakers to fund construction of Pagan office
+
+date: 2025-04-01, updated: 2025-04-02, from: Marianas Variety
+
+NORTHERN Islands Mayor Valentino N. Taisacan Jr. is asking the Saipan and Northern Islands Legislative Delegation to fund the construction of his office on the volcanic island of Pagan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/northern-islands-mayor-asks-lawmakers-to-fund-construction-of-pagan-office/article_3729c74b-f0ce-4964-929c-7e154952446f.html>
+
+---
+
+## Rami Malek leads ‘relatable’ revenge thriller ‘The Amateur’
+
+date: 2025-04-01, updated: 2025-04-02, from: Marianas Variety
+
+LONDON (Reuters) — Oscar winner and former Bond villain Rami Malek plays an unlikely action hero in the espionage thriller "The Amateur." 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/rami-malek-leads-relatable-revenge-thriller-the-amateur/article_2c8593ec-6cc5-49ef-9ebf-6b022168c2d8.html>
+
+---
+
+## Poems
+
+date: 2025-04-01, updated: 2025-04-02, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poems/article_c50a3d52-e60d-4ed3-a97d-39ed7862b89e.html>
+
+---
+
+## Rebrand of Pleasure Island suggested by GVB Recovery Committee, Lee welcomed
+
+date: 2025-04-01, updated: 2025-04-02, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Turning the tide in Guam’s tourism is the challenge that Guam Visitors Bureau’s new general manager, Regine Biscoe Lee, and the GVB recovery committee signed up for. With the former senator at the helm, GVB board members expressed a sense of renewed confidence in collaboration to pursue initiatives aimed at boosting tourist arrival numbers and re-establishing Guam as the premier travel destination in the region. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/rebrand-of-pleasure-island-suggested-by-gvb-recovery-committee-lee-welcomed/article_3728ee2a-ac50-461c-b7d4-a2a2f9142431.html>
+
+---
+
+## Court rules in favor of PSS, rejects IBSS protest on printer bid
+
+date: 2025-04-01, updated: 2025-04-02, from: Marianas Variety
+
+SUPERIOR Court Presiding Judge Roberto C. Naraja found that Island Business Systems &amp; Supplies Inc.’s protest lacked merit as he affirmed the Public School System’s decision denying IBSS's protest in the bidding for multifunctional networked printers for PSS operations. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/court-rules-in-favor-of-pss-rejects-ibss-protest-on-printer-bid/article_8b2a414c-1b4d-4bcc-ac0a-0444b162ead4.html>
+
+---
+
+## Creative West to host grant workshop for artists on Saipan
+
+date: 2025-04-01, updated: 2025-04-02, from: Marianas Variety
+
+REPRESENTATIVES from Creative West, a regional arts nonprofit organization that serves far-reaching parts of the U.S., will be on Saipan on April 23 to host an information session and mini-grant writing workshop at Joeten-Kiyu Public Library. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/creative-west-to-host-grant-workshop-for-artists-on-saipan/article_809af13a-2949-4f6f-920e-60b839826b23.html>
 
 ---
 

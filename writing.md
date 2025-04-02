@@ -1,11 +1,97 @@
 ---
 title: writing
-updated: 2025-04-01 06:09:02
+updated: 2025-04-02 06:08:27
 ---
 
 # writing
 
-(date: 2025-04-01 06:09:02)
+(date: 2025-04-02 06:08:27)
+
+---
+
+## Write Now with Scrivener, Episode no. 49: Nicolas Binge, Science Fiction Author
+
+date: 2025-04-02, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/write-now-with-scrivener-episode-no-49-nicolas-binge-science-fiction-author>
+
+---
+
+## How to Write Outside your Comfort Zone
+
+date: 2025-04-01, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-write-outside-your-comfort-zone" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/8%20white%20paperplanes%20stuck%20in%20a%20box%20as%20the%209th%20paperplane%20%28which%20is%20red%29%20breaks%20out%20of%20the%20box.png" alt="8 white paper planes stuck in a box as the 9th paper plane (which is red) breaks out of the box" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Most of us are creatures of habits, and one of the biggest reasons for this is comfort.&nbsp;<br><br>It’s comforting to know you’ve got a certain activity or way of doing something that’s a fixture of your life. In a similar fashion, many screenwriters get comfortable writing in a certain <a href="https://blog.finaldraft.com/what-genre-is-my-screenplay">film genre</a> or in a specific style, and stick with it. However, this mindset is not always <a href="https://blog.finaldraft.com/5-tips-for-a-winning-screenwriting-strategy">the best strategy</a> for screenwriting success. In fact, learning to <span style="font-weight: bold;">write outside your comfort zone</span> might be a smart thing to do for several reasons I’ll explain below, along with tips on how to learn to do it.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-write-outside-your-comfort-zone>
+
+---
+
+## New Book Releases: 4/1/2025
+
+date: 2025-04-01, from: Locus Magazine
+
+<p></p>
+<p style="text-align: center;"><strong>Visit our bookshop.org page to purchase this week&#8217;s new books and support your local bookstore. And us!</strong></p>
+
+<p style="text-align: center;"><strong>New science fiction, fantasy, and horror books for the week of April 1, 2025. </strong></p>
+<p>Abeysekara, Shalini: <b>This Monster of Mine</b> (Sterling/Union Square &#38; Co. 978-1454958093, $19.99, 416pp, formats: paperback, ebook, 04/01/2025)</p>
+<p>Fantasy romance novel in a world inspired by ancient Rome. Sarai survived an attempted murder four years ago. As a Petitor, a  <a href="https://locusmag.com/2025/04/new-book-releases-4-1-2025/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/new-book-releases-4-1-2025/>
+
+---
+
+## Baffling, Flash Fiction Online and Zooscape: Reviews by Charles Payseur
+
+date: 2025-04-01, from: Locus Magazine
+
+<p>Baffling 12/24
+Flash Fiction Online 12/24
+Zooscape 12/24</p>
+<p>Baffling closes out 2024 with plenty of steam in an issue that mixes queer themes, speculative elements, and a particular focus on intimacy and sex. In <strong>K-Ming Chang</strong>’s “<strong>The Glass Wife</strong>”, that focus illuminates a narrator and her lover, who is made of glass. For the narrator, having a lover made of glass means sometimes losing sight of her,  <a href="https://locusmag.com/2025/04/baffling-flash-fiction-online-and-zooscape-reviews-by-charles-payseur/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/baffling-flash-fiction-online-and-zooscape-reviews-by-charles-payseur/>
+
+---
+
+## The Second Season with Tony Gilroy
+
+date: 2025-04-01, from: John August blog
+
+John and Craig welcome writer and showrunner Tony Gilroy (Andor, Michael Clayton) for an in-depth look at crafting a second season of a hit TV show. They look at ways to find your season’s structure, setting your production up for success, controlling the energy your audience spends on information, and how to wrap up your [&#8230;]
+The post <a href="https://johnaugust.com/2025/the-second-season-with-tony-gilroy">The Second Season with Tony Gilroy</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/the-second-season-with-tony-gilroy>
+
+---
+
+## Saga Publishes Novel Co-Written by Clippy
+
+date: 2025-04-01, from: Locus Magazine
+
+<p></p>
+<p>On <strong>APRIL 1, 2025</strong>, Saga Press published <strong>When We Were Real</strong>, a science fiction novel written by Daryl Gregory and Clippy, the Microsoft Office Assistant which debuted in Office 97.</p>
+<p>Gregory said that he would never use an AI to write. “LLMs have used the work of writers and artists without permission or compensation, they waste huge amounts of water and energy, and the output they generate is  <a href="https://locusmag.com/2025/04/saga-publishes-novel-co-written-by-clippy/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/saga-publishes-novel-co-written-by-clippy/>
 
 ---
 

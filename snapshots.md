@@ -1,11 +1,556 @@
 ---
 title: snapshots
-updated: 2025-04-01 06:09:07
+updated: 2025-04-02 06:08:32
 ---
 
 # snapshots
 
-(date: 2025-04-01 06:09:07)
+(date: 2025-04-02 06:08:32)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+David Frum: No Tariff Carve-Out for Farmers. 
+
+<br> 
+
+<https://www.theatlantic.com/politics/archive/2025/04/trump-tariff-carveout-farmers/682260/?gift=f35zZN0v_gDFE8xNwlQAHVfPnI_oK8aBbjCmLTzPyVg&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Are AI Models Advanced Enough To Translate Literature? The Debate Is Roiling Publishing
+
+date: 2025-04-02, from: The Markup blog
+
+Major publishers are experimenting with automated translations, hundreds of which have already been produced 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/04/02/are-ai-models-advanced-enough-to-translate-literature-the-debate-is-roiling-publishing>
+
+---
+
+## Stop Looking for Methods in the Madness
+
+date: 2025-04-02, from: Paul Krugman
+
+There&#8217;s no plan, secret or otherwise, behind Trump&#8217;s tariffs 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/stop-looking-for-methods-in-the-madness>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-02, updated: 2025-04-02, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/77af7118e88e7c24f97dd0b381b0ecee5cd78a83">(77af7118)</a>
+<i>
+at
+02 Apr 10:08
+</i>
+</p>
+<div class="blockquote"><p dir="auto">intermediate step</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/77af7118e88e7c24f97dd0b381b0ecee5cd78a83>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+‘It’s a bloodbath’: Massive wave of job cuts underway at US health agencies. 
+
+<br> 
+
+<https://www.cnn.com/2025/04/01/health/staff-cuts-at-federal-health-agencies-have-begun/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Susan Crawford wins Wisconsin Supreme Court race as Democrats take stand against Donald Trump, Elon Musk. 
+
+<br> 
+
+<https://www.wpr.org/news/susan-crawford-wins-wisconsin-supreme-court-race-democrats-elon-musk>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Val Kilmer, star of Top Gun and The Doors, dies aged 65. 
+
+<br> 
+
+<https://www.theguardian.com/film/2025/apr/02/val-kilmer-death-age-65-pneumonia>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Joe Rogan: &#39;Horrific&#39; that innocent people could be deported to El Salvador. 
+
+<br> 
+
+<https://thehill.com/homenews/media/5224117-trump-deportation-gang-members/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Silly Nice Seeks Hospitality Partnerships Across New York. 
+
+<br> 
+
+<https://stupiddope.com/2025/04/silly-nice-seeks-hospitality-partnerships-across-new-york/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-01, from: Robert's feed at BlueSky)
+
+About time 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llrx422sbk2b>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-01, from: Robert's feed at BlueSky)
+
+So true 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llrx27jd422b>
+
+---
+
+## Journalism and its discontents [Draft]
+
+date: 2025-04-01, from: Press Think
+
+<p>In mid-March of this year I was invited to speak to a conference in Montreal that had primarily attracted disinformation reseachers and activists in that field, along with some civic tech people, some journalists (mostly Canadian) and myself as a press critic who could lend a different persective. The plan was to tape a podcast [&#8230;]</p>
+<p>The post <a href="https://pressthink.org/2025/04/journalism-and-its-discontents-draft/">Journalism and its discontents [Draft]</a> appeared first on <a href="https://pressthink.org">PressThink</a>.</p>
+ 
+
+<br> 
+
+<https://pressthink.org/2025/04/journalism-and-its-discontents-draft/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-01, from: Feed for Alt USDS)
+
+We stand behind Senator Booker as he approaches 24 hours on the Senate floor protesting the administration. We stand for a government that functions, that serves its citizens, just as Sen. Booker does
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llrt4zobqs2r>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-01, from: Feed for Alt USDS)
+
+Today is a lot. 
+
+We have public health gutted across the government. HHS, CDC, FDA. @altcdc.altgov.info @altfda.altgov.info 
+
+But then there's @booker.senate.gov taking a stand, being a model for everyone else in Congress. 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llrsleqnes2y>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-01, from: Feed for Alt USDS)
+
+Cory Booker is standing up to the dismantling of the services and agencies and we're all watching him as he approaches 24 hours on the Senate floor
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llrsd3evzk2y>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Is your state at risk? These 15 states face huge job losses if the IRA is repealed. 
+
+<br> 
+
+<https://electrek.co/2025/04/01/15-states-face-huge-job-losses-ira-is-repealed/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-01, from: Robert's feed at BlueSky)
+
+Impressive and still going strong.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llrqbrnhck23>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-01, updated: 2025-04-01, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/fae020c894c469d25e90a572e1a66433f7296b23">(fae020c8)</a>
+<i>
+at
+01 Apr 22:24
+</i>
+</p>
+<div class="blockquote"><p dir="auto">64-bit adaptions</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/fae020c894c469d25e90a572e1a66433f7296b23>
+
+---
+
+## Chicanes, not Chicanery
+
+date: 2025-04-01, updated: 2025-04-01, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/01/chicanes-not-chicanery/>
+
+---
+
+## Swift Testing: Test Scoping Traits
+
+date: 2025-04-01, from: Michael Tsai
+
+Holly Borla: Swift 6.1 enables custom Swift Testing traits to perform logic before or after tests run in order to share set-up or tear-down logic. If you write a custom trait type which conforms to the new TestScoping protocol, you can implement a method to customize the scope in which each test or suite the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/01/swift-testing-test-scoping-traits/>
+
+---
+
+## Xcode 16.3
+
+date: 2025-04-01, from: Michael Tsai
+
+Apple (security, downloads): Clang now defines TARGET_OS_* conditionals as built-in macros based on the provided target triple.[&#8230;]Searching in the documentation viewer may start an indexing process which makes no progress. This may result in missing search results and increased CPU usage.[&#8230;]Fixed: Foundation encoders/decoders user info dictionaries now require Sendable values. This may cause build errors [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/01/xcode-16-3/>
+
+---
+
+## SpamSieve 3.1.2
+
+date: 2025-04-01, from: Michael Tsai
+
+SpamSieve 3.1.2 improves the filtering accuracy of my Mac e-mail spam filter, amongst other enhancements and fixes. Some interesting issues were: I made some more table view improvements enabled by the lazy Core Data collections mentioned in the previous release. Since it no longer loads the whole selection into RAM, it&#8217;s now possible to operate [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/01/spamsieve-3-1-2/>
+
+---
+
+## xAI Acquires X/Twitter
+
+date: 2025-04-01, from: Michael Tsai
+
+Elon Musk (Hacker News): @xAI has acquired @X in an all-stock transaction. The combination values xAI at $80 billion and X at $33 billion ($45B less $12B debt). Since its founding two years ago, xAI has rapidly become one of the leading AI labs in the world, building models and data centers at unprecedented speed [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/01/xai-acquires-x-twitter/>
+
+---
+
+## Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor
+
+date: 2025-04-01, from: Liliputing
+
+<p>The Orange Pi RV2 is a credit card-sized single-board computer with Gigabit Ethernet, four USB 3.0 Type-A ports, HDMI and USB-C ports, and a 3.5mm audio jack plus a 40-pin GPIO header. It looks a lot like a Raspberry Pi Model B, but Orange Pi&#8217;s board stands out for a few reasons. First, it has [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/">Orange Pi RV2 is a single-board PC with an 8-core RISC-V processor</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/orange-pi-rv2-is-a-single-board-pc-with-an-8-core-risc-v-processor/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+GM is beating EV rivals with more choices at lower prices. 
+
+<br> 
+
+<https://electrek.co/2025/04/01/gm-beating-ev-rivals-with-more-choices-at-lower-prices/>
+
+---
+
+**@IIIF Mastodon feed** (date: 2025-04-01, from: IIIF Mastodon feed)
+
+<p>Join us April 9 at 9am PT / 17:00 UTC for our next <a href="https://glammr.us/tags/IIIF" class="mention hashtag" rel="tag">#<span>IIIF</span></a> Community Call.</p><p><span class="h-card" translate="no"><a href="https://vis.social/@aboutgeo" class="u-url mention">@<span>aboutgeo</span></a></span> will demo liiive, a real-time collaborative viewing and &amp; annotation platform. </p><p>Zoom link on the Community Calendar: iiif.io/community</p> 
+
+<br> 
+
+<https://glammr.us/@IIIF/114263953317138762>
+
+---
+
+## AOOSTAR WTR Max 11-drive NAS with AMD Hawk Point now available for pre-order for $699
+
+date: 2025-04-01, from: Liliputing
+
+<p>The AOOSTAR WTR Max is a network-attached storage (NAS) system with an AMD Ryzen 7 PRO 8845HS &#8220;Hawk Point&#8221; processor, support for up to 128GB of RAM, and support for up to 11 storage devices thanks to 6 slots for 3.5 inch drives and 5 M.2 2280 slots for SSDs. It also has a robust set [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/aoostar-wtr-max-11-drive-nas-with-amd-hawk-point-now-available-for-pre-order-for-699/">AOOSTAR WTR Max 11-drive NAS with AMD Hawk Point now available for pre-order for $699</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/aoostar-wtr-max-11-drive-nas-with-amd-hawk-point-now-available-for-pre-order-for-699/>
+
+---
+
+## If FEMA Didn’t Exist
+
+date: 2025-04-01, from: Guy Kawasaki blog
+
+Ming Xie, University of Maryland, Baltimore County. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/if-fema-didnt-exist>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Trump Nominee for Joint Chiefs Denies Wearing MAGA Hat. 
+
+<br> 
+
+<https://politicalwire.com/2025/04/01/trump-nominee-for-joint-chiefs-denies-wearing-maga-hat/>
+
+---
+
+## Sticky Fingers in Moscow, 1959
+
+date: 2025-04-01, from: National Archives, Text Message blog
+
+One of the more notable events in U.S.-Soviet relations during the Eisenhower Administration War was the American National Exhibit in Moscow from July 25 to September 4, in 1959.&#160; This was the scene of the so-called Kitchen Debate between Vice President Richard Nixon and Soviet Chairman of the Soviet Council of Ministers Nikita Khrushchev.&#160; The &#8230; <a href="https://text-message.blogs.archives.gov/2025/04/01/sticky-fingers-in-moscow-1959/" class="more-link">Continue reading <span class="screen-reader-text">Sticky Fingers in Moscow, 1959</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/04/01/sticky-fingers-in-moscow-1959/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+300 Alums Call on HLS to Denounce Trump’s Attacks on Law Firms. 
+
+<br> 
+
+<https://www.thecrimson.com/article/2025/4/1/hls-alums-trump-letter/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-01, from: Feed for Alt USDS)
+
+Fed workers are required to send 5 bullet points each week, but where is the data going? Some believe it's being funneled into AI systems, targeting workers for layoffs.
+
+🔗 : https://www.wethebuilders.org/posts/why-are-we-writing-5-bullets
+
+#altgov #altUSDS #GovernmentEfficiency #FedUp #CivicTec 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3llra6ghxp32v>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+House Republicans Blame Elon Musk for Dragging GOP Down 
+
+<br> 
+
+<https://www.mediaite.com/news/house-republicans-say-elon-musk-is-dragging-down-party-rooting-for-special-election-massacre-so-gop-will-bench-him/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Federal food assistance cuts would crush 1.8M NYers, city officials say. 
+
+<br> 
+
+<https://gothamist.com/news/federal-food-assistance-cuts-would-crush-18m-nyers-city-officials-say>
+
+---
+
+## Felix Oliver Friedrich pushed new project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-01, updated: 2025-04-01, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/vy64">(4f7edb92)</a>
+<i>
+at
+01 Apr 17:03
+</i>
+</p>
+<div class="blockquote"><p dir="auto">started with porting vy / ants to 64 bit</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commits/vy64>
+
+---
+
+## Half Stack Data Science: Programming with AI, with Simon Willison
+
+date: 2025-04-01, updated: 2025-04-01, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://halfstackdatascience.com/s4e2-programming-with-ai-with-simon-willison">Half Stack Data Science: Programming with AI, with Simon Willison</a></strong></p>
+I participated in this wide-ranging 50 minute conversation with David Asboth and Shaun McGirr. Topics we covered included applications of LLMs to data journalism, the challenges of building an intuition for how best to use these tool given their "jagged frontier" of capabilities, how LLMs impact learning to program and how local models are starting to get genuinely useful now.</p>
+<p>At <a href="https://overcast.fm/+AAnGvyyrHkg/27:47">27:47</a>:</p>
+<blockquote>
+<p>If you're a new programmer, my optimistic version is that there has never been a better time to learn to program, because it shaves down the learning curve so much. When you're learning to program and you miss a semicolon and you bang your head against the computer for four hours [...] if you're unlucky you quit programming for good because it was so frustrating. [...]</p>
+<p>I've always been a project-oriented learner; I can learn things by building something, and now the friction involved in building something has gone down so much [...] So I think especially if you're an autodidact, if you're somebody who likes teaching yourself things, these are a gift from heaven. You get a weird teaching assistant that knows loads of stuff and occasionally makes weird mistakes and believes in bizarre conspiracy theories, but you have 24 hour access to that assistant.</p>
+<p>If you're somebody who prefers structured learning in classrooms, I think the benefits are going to take a lot longer to get to you because we don't know how to use these things in classrooms yet. [...]</p>
+<p>If you want to strike out on your own, this is an amazing tool <em>if</em> you learn how to learn with it. So you've got to learn the limits of what it can do, and you've got to be disciplined enough to make sure you're not outsourcing the bits you need to learn to the machines.</p>
+</blockquote>
+
+    <p><small></small>Via <a href="https://bsky.app/profile/halfstackdatascience.com/post/3llo3l33opk2p">@halfstackdatascience.com</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/podcasts">podcasts</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/podcast-appearances">podcast-appearances</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/data-journalism">data-journalism</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/1/half-stack-data-science/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Scripting News: More weird ChatGPT fun. 
+
+<br> 
+
+<http://scripting.com/2025/04/01/104758.html>
+
+---
+
+## Who can Stop Trump's Bullet Train... and A Fab Party in a London Time Capsule 
+
+date: 2025-04-01, from: Tina Brown
+
+Why does America have to lurch between such extremes? 
+
+<br> 
+
+<https://tinabrown.substack.com/p/who-can-stop-trumps-bullet-train>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Substack says it’ll legally defend writers ‘targeted by the government. ’ 
+
+<br> 
+
+<https://www.theverge.com/news/640495/substack-legally-defend-writers-targeted-by-government>
+
+---
+
+## What's wrong with AI-generated docs
+
+date: 2025-04-01, from: Blog by Fabrizio Ferri-Benedetti
+
+<p>In what is tantamount to a <a href="https://tante.cc/2025/03/28/vulgar-display-of-power/">vulgar display of power</a>, social media has been flooded with AI-generated images that mimic the style of Hayao Miyazaki&rsquo;s anime. Something similar happens daily with tech writing, folks happily throwing context at LLMs and thinking they can vibe write outstanding docs out of them, perhaps even surpassing human writers. Well, it&rsquo;s time to draw a line. Don&rsquo;t let AI influencers <em>studioghiblify</em> your work as if it were a matter of processing text.</p> 
+
+<br> 
+
+<https://passo.uno/whats-wrong-ai-generated-docs/>
+
+---
+
+## Breaking GPT-5 news
+
+date: 2025-04-01, from: Gary Marcus blog
+
+To my amazement, I just came back from a trip to Europe only to find an invite to a private GPT-5 demo, and I tried it. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/breaking-gpt-5-news>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+The Hungarian Model. 
+
+<br> 
+
+<https://anneapplebaum.substack.com/p/the-hungarian-model>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Civil Rights and Historical Honesty. 
+
+<br> 
+
+<https://snyder.substack.com/p/civil-rights-and-historical-honesty?publication_id=310897&post_id=160312432&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+First ever USB-C recharging electric bicycles launch sales. 
+
+<br> 
+
+<https://electrek.co/2025/04/01/first-ever-usb-c-chargeable-electric-bikes-launched-hopefully-becoming-new-trend/>
 
 ---
 
@@ -28,6 +573,18 @@ Trump&#39;s tariffs are like his idea for injecting bleach to get rid of Covid.
 <br> 
 
 <https://www.youtube.com/watch?v=zicGxU5MfwE>
+
+---
+
+## Q1 2025
+
+date: 2025-04-01, from: Accidentally in Code
+
+Having set my intention for the year as “health”, Q1 2025 felt a bit like whatever the atheist, gender neutral equivalent is of the saying “Man plans, and God laughs”. I had a good start to January &#8211; all set with my intentions and my Trello board &#8211; only to get very sick in February [&#8230;] 
+
+<br> 
+
+<https://cate.blog/2025/04/01/q1-2025/>
 
 ---
 
@@ -57,11 +614,23 @@ Some perspective on the eve of trade war
 
 date: 2025-04-01, from: O'Reilly Radar
 
-March has been the biggest month that Trends has ever had. In addition to almost daily announcements about AI, a lot has been going on in programming, in security, in operations (which usually doesn’t merit its own topic), and even in quantum computing. It’s been a long time since we’ve had much to say about [&#8230;] 
+March was the biggest month that Trends has ever had. In addition to almost daily announcements about AI, a lot has been going on in programming, in security, in operations (which usually doesn’t merit its own topic), and even in quantum computing. It’s been a long time since we’ve had much to say about social [&#8230;] 
 
 <br> 
 
 <https://www.oreilly.com/radar/radar-trends-to-watch-april-2025/>
+
+---
+
+## Exploring Art with TypeScript, Jupyter, Polars, and Observable Plot
+
+date: 2025-04-01, updated: 2025-04-01, from: Deno blog
+
+With Deno's Jupyter support, you can explore, interact, and create interactive charts with TypeScript and HTML. Here's a tutorial featuring data of over 130,000 famous artworks. 
+
+<br> 
+
+<https://deno.com/blog/exploring-art-with-typescript-and-jupyter>
 
 ---
 
@@ -82,7 +651,7 @@ Die CDU/CSU plant, das Informationsfreiheitsgesetz in seiner jetzigen Form abzus
 date: 2025-04-01, updated: 2025-04-01, from: Simon Willison’s Weblog
 
 <p><strong><a href="https://ai.pydantic.dev/evals/">Pydantic Evals</a></strong></p>
-Brand new package from the Pydantic AI team which directly tackles what I consider to be the single hardest problem in AI engineering: building evals to determine if your LLM-based system is working correctly and getting better over time.</p>
+Brand new package from David Montague and the Pydantic AI team which directly tackles what I consider to be the single hardest problem in AI engineering: building evals to determine if your LLM-based system is working correctly and getting better over time.</p>
 <p>The feature is described as "in beta" and comes with this very realistic warning:</p>
 <blockquote>
 <p>Unlike unit tests, evals are an emerging art/science; anyone who claims to know for sure exactly how your evals should be defined can safely be ignored.</p>
@@ -116,6 +685,8 @@ Brand new package from the Pydantic AI team which directly tackles what I consid
 
 <p>Cases and datasets can also be serialized to YAML.</p>
 <p>My first impressions are that this looks like a solid implementation of a sensible design. I'm looking forward to trying it out against a real project.
+
+    <p><small></small>Via <a href="https://twitter.com/samuel_colvin/status/1906841604377211375">@samuel_colvin</a></small></p>
 
 
     <p>Tags: <a href="https://simonwillison.net/tags/evals">evals</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/pydantic">pydantic</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
@@ -372,7 +943,7 @@ Juli Clover (release notes, security, no developer): Apple shares full release n
 
 date: 2025-03-31, from: Michael Tsai
 
-Ryan Christoffel (no release notes, no security, no developer): After initially listing watchOS 11.4 on its website as released, the site has since been updated to remove the update. It&#8217;s unknown when it will return. Previously: watchOS 11.3.1 
+Ryan Christoffel (release notes, security, developer): After initially listing watchOS 11.4 on its website as released, the site has since been updated to remove the update. It&#8217;s unknown when it will return. Previously: watchOS 11.3.1 Update (2025-04-01): Juli Clover: Apple today released watchOS 11.4[&#8230;] With watchOS 11.4, Apple has added an option for a Sleep [&#8230;] 
 
 <br> 
 

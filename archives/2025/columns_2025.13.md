@@ -1,11 +1,358 @@
 ---
 title: columns
-updated: 2025-04-01 06:09:02
+updated: 2025-04-02 06:08:26
 ---
 
 # columns
 
-(date: 2025-04-01 06:09:02)
+(date: 2025-04-02 06:08:26)
+
+---
+
+## Rational Astrologies and Security
+
+date: 2025-04-02, updated: 2025-04-01, from: Bruce Schneier blog
+
+<p>John Kelsey and I wrote a short paper for the <a href="https://www.cl.cam.ac.uk/events/rossfest/">Rossfest Festschrift</a>: &#8220;<a href="https://www.schneier.com/academic/archives/2025/03/rational-astrologies-and-security.html">Rational Astrologies and Security</a>&#8220;:</p>
+<blockquote><p>There is another non-security way that designers can spend their security budget: on making their own lives easier. Many of these fall into the category of what has been called rational astrology. First identified by Randy Steve Waldman [Wal12], the term refers to something people treat as though it works, generally for social or institutional reasons, even when there’s little evidence that it works&#8212;­and sometimes despite substantial evidence that it does not...</p></blockquote> 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/rational-astrologies-and-security.html>
+
+---
+
+## Office Hours: Trump’s worst Cabinet member?
+
+date: 2025-04-02, from: Robert Reich's blog
+
+Not including Elon Musk, because he isn&#8217;t officially in the Cabinet 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-who-has-so-far-shown>
+
+---
+
+## April 1, 2025
+
+date: 2025-04-02, from: Heather Cox Richardson blog
+
+Today Senator Cory Booker (D-NJ) made history. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-1-2025>
+
+---
+
+## curl 8.13.0
+
+date: 2025-04-02, from: Daniel Stenberg Blog
+
+Welcome to another curl release. Download it here. Release presentation I will do a live-streamed curl 8.13.0 release presentation on Twitch at 08:00 UTC (10:00 CEST) Numbers the 266th release12 changes48 days (total: 9,875)305 bugfixes (total: 11,786)499 commits (total: 34,782)0 new public libcurl function (total: 96)1 new curl_easy_setopt() option (total: 307)1 new curl command line &#8230; <a href="https://daniel.haxx.se/blog/2025/04/02/curl-8-13-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.13.0</span> <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://daniel.haxx.se/blog/2025/04/02/curl-8-13-0/>
+
+---
+
+## Personal security roundup
+
+date: 2025-04-02, from: Tracy Durnell Blog
+
+Information The Cyber Cleanse (The Opt-Out Project) &#8212; I like that they think I could leave Gmail/Gcal in two days, took multiple tries and customer support to set up all my custom domains, overall transition still in process a month later lol The 200+ Sites an Ice Surveillance Contractor is Monitoring (404 Media) &#8220;Big Ass [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/01/personal-security-roundup/>
+
+---
+
+##  Oh man, rest in peace to Val Kilmer.... 
+
+date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046567-oh-man-rest-in-peace>
+
+---
+
+##  &#8220;Watch the moment when Cory Booker ended his more than 25-hour long... 
+
+date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046566-watch-the-moment-when-cor>
+
+---
+
+## No more on Mastodon
+
+date: 2025-04-02, from: Jirka's blog
+
+I finally deleted  my Mastodon account. It is for  the second time. For the first  time it was  when many T*****r  users moved to  the Mastodon with all their  habits and agendas. Then I deleted  my original account but after some time I decided to open the new one at the  {sup}1{/sup}. 
+
+<br> 
+
+<http://jirka.1-2-8.net/20250402-0443_No_more_on_Mastodon>
+
+---
+
+## Wednesday 2 April, 2025
+
+date: 2025-04-01, from: John Naughton's online diary
+
+Gateway to Heaven? Walking through Selwyn College the other day on my way to a conversation elsewhere with Audrey Tang (one of the most remarkable people I’ve met) I was struck by this framing of the college’s chapel as I &#8230; <a href="https://memex.naughtons.org/wednesday-2-april-2025/40623/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-2-april-2025/40623/>
+
+---
+
+## March 31, 2025
+
+date: 2025-04-01, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160376602/096619127440328203a58fe93988c065.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160376602/096619127440328203a58fe93988c065.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-31-2025-800>
+
+---
+
+## Trump’s Crypto Inc.
+
+date: 2025-04-01, from: Robert Reich's blog
+
+He and his family are reaping a fortune from his presidency &#8212; starting with cryptocurrencies 
+
+<br> 
+
+<https://robertreich.substack.com/p/trumps-crypto-inc>
+
+---
+
+##  Hands Off! A Day of Action and Protest on April 5. 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/hands-off-a-day-of-action-and-protest-on-april-5>
+
+---
+
+##  A two-part online training event on the Fundamentals of Organizing. It kicked... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046559-a-two-part-online-trainin>
+
+---
+
+##  The record for the longest individual speech in the Senate belongs to... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046560-the-record-for-the-longes>
+
+---
+
+##  Mercator Extreme is a fun tool that you can use to choose... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046532-mercator-extreme-is-a-fun>
+
+---
+
+##  With a headline like this, how can you resist? On the Best... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046558-i-couldnt-pass-up-reading>
+
+---
+
+## Jason Snell’s Unsuccessful Journey Into Netflix’s Ad Tier
+
+date: 2025-04-01, updated: 2025-04-01, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/04/my-unsuccessful-journey-into-netflixs-ad-tier/>
+
+---
+
+##  &#8220;A fragile 13th century manuscript fragment, hidden in plain sight as the... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046541-a-fragile-13th-century-ma>
+
+---
+
+##  No One Is Safe From America&#8217;s Abusive Immigration Authorities Anymore. &#8220;Immigration agents... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046555-no-one-is-safe-from>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-01, from: Miguel de Icaza Mastondon feed)
+
+<p>Godot 4.4 on the iPad: <a href="https://blog.la-terminal.net/godot-4-4-xogot-in-testflight/" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">blog.la-terminal.net/godot-4-4</span><span class="invisible">-xogot-in-testflight/</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114263764045526418>
+
+---
+
+##  Historian Heather Cox Richardson says that Facebook is removing her posts. Her... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046557-historian-heather-cox-ric>
+
+---
+
+##  Here&#8217;s What Life Was Like Before the Affordable Care Act 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/heres-what-life-was-like-before-the-affordable-care-act>
+
+---
+
+## If you live in Wisconsin or Florida’s 6th Congressional District, today’s your day to tell Trump and Musk to go to hell
+
+date: 2025-04-01, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/if-you-live-in-wisconsin-or-floridas>
+
+---
+
+##  Of Course Trump Will Tank the Economy. It&#8217;s What Republicans Do. &#8220;They... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046554-of-course-trump-will-tank>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-01, from: Dave Winer's Scripting News)
+
+The chickens of <a href="https://en.wikipedia.org/wiki/Sanewashing">sanewashing</a> come home to <a href="https://bsky.app/profile/pbump.com/post/3llqu7ed5nc2x">roost</a>. 
+
+<br> 
+
+<http://scripting.com/2025/04/01.html#a142343>
+
+---
+
+## Running the LAMP Stack in a Lamp Rack
+
+date: 2025-04-01, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Running the LAMP Stack in a Lamp Rack</span>
+
+            <p></p>
+
+<p>I typically don't do anything for April Fool's Day, but this year I thought I'd unite a bit of a meme in the homelab community with something I wanted to make a video on anyway: a <em>lamp rack</em>.</p>
+
+<p>What's a lamp rack? Well, you're looking at one! It's a floor lamp with an integrated <a href="https://mini-rack.jeffgeerling.com">mini rack</a>!</p>
+
+<p>I didn't want to make a video about a floor lamp, but more on the fact you don't <em>need</em> fancy racks or any new hardware at <em>all</em> to start a homelab.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">April 1, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/running-lamp-stack-lamp-rack>
+
+---
+
+##  John Lithgow Reads 20 Lessons on Tyranny by Timothy Snyder 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/john-lithgow-reads-20-lessons-on-tyranny-by-timothy-snyder>
+
+---
+
+##  Tressie McMillan Cottom: AI is mid tech for mid tasks. &#8220;The use... 
+
+date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046548-tressie-mcmillan-cottom-a>
 
 ---
 
@@ -39,8 +386,7 @@ date: 2025-04-01, from: Dave Winer's Scripting News
 
 <p>The prompt: Here's a drawing and a profile picture. I'd like you to insert the person in the profile into the drawing, and adapt it as you see fit, but the face of the person in the profile should be in the same style as the ones around it. </p>
 <p>I gave it a snapshot of the art from the season finale of Severance, and my profile picture from Facebook. </p>
-<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/01/daveInSeverance.png"></center>I laughed out loud as this was revealed by ChatGPT.</div></p>
-<p></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/01/daveSevChatGPT.png"></center>I laughed out loud as this was revealed by ChatGPT.</div></p>
  
 
 <br> 
@@ -270,7 +616,7 @@ date: 2025-03-31, updated: 2025-03-31, from: Jason Kittke's blog
 
 ## ★ France Fines Apple $162M for App Tracking Transparency, Taking the Side of Surveillance Advertisers Over Users
 
-date: 2025-03-31, updated: 2025-03-31, from: Daring Fireball
+date: 2025-03-31, updated: 2025-04-01, from: Daring Fireball
 
 It’s like a consortium of sketchy pawn shops complaining to the authorities after a retailer successfully cracked down on an organized shoplifting/pickpocketing ring, and the authorities then fining the retailer for the damage to the pawnbrokers’ business fencing stolen goods — and for exposing the police as ineffective. 
 

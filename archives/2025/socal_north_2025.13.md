@@ -1,11 +1,250 @@
 ---
 title: socal north
-updated: 2025-04-01 06:08:59
+updated: 2025-04-02 06:08:24
 ---
 
 # socal north
 
-(date: 2025-04-01 06:08:59)
+(date: 2025-04-02 06:08:24)
+
+---
+
+## Sunny skies and breezy, with mild temps
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+Sunny and breezy weather today. Wind gusts up to 25 mph. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sunny-and-breezy-high-near-65-degrees>
+
+---
+
+## LAUSD relies on thousands of portable classrooms. Here’s what a (bond-funded) future could look like
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+John F. Kennedy High School in the San Fernando Valley is in the midst of a $274 million renovation that includes replacing dozens of aging portable buildings. And it's funded by a very old bond. 
+
+<br> 
+
+<https://laist.com/news/education/john-f-kennedy-high-school-renovation-lausd-measure-q-us>
+
+---
+
+## New foundation led by Altadena residents launches with $55 million to help community rebuild
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+Board members of the Altadena Builds Back Foundation include those who lost homes in the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/altadena-eaton-residents-55-million-foundation-rebuild>
+
+---
+
+## The same technology behind Pokémon Go is helping document the aftermath of LA’s wildfires
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+A team out of Arizona State University is creating 3D models to help fire victims with their insurance claims, and to help bring closure. 
+
+<br> 
+
+<https://laist.com/news/education/eaton-fire-palisades-arizona-state-university-documenting-team>
+
+---
+
+## Big Bear’s beloved eaglets have new names, meet Sunny and Gizmo
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+The decision comes after a week-long naming contest and a final vote by elementary school students. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/big-bears-beloved-eaglets-have-new-names-meet-sunny-and-gizmo>
+
+---
+
+## HHS layoffs hit Meals on Wheels and other services for seniors and disabled
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+Staff that administer programs to help the elderly, disabled people and poor families with basic needs lost their jobs amid the Trump administration's layoffs. 
+
+<br> 
+
+<https://laist.com/news/health/hhs-layoffs-hit-meals-on-wheels-and-other-services-for-seniors-and-disabled>
+
+---
+
+## In a gesture of thanks, Grand Prix drivers swap helmets with Long Beach firefighters
+
+date: 2025-04-02, from: Longbeach Post
+
+<figure><img width="1024" height="629" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-1024x629.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-1024x629.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-300x184.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-768x472.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-176x108.jpg 176w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-400x246.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Two LBFD firefighters who responded to the Eaton and Palisades fires were given custom racing helmets by drivers Colton Herta and Colin Braun.</p>
+<p>The post <a href="https://lbpost.com/news/city/in-a-gesture-of-thanks-grand-prix-drivers-swap-helmets-with-long-beach-firefighters">In a gesture of thanks, Grand Prix drivers swap helmets with Long Beach firefighters</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/in-a-gesture-of-thanks-grand-prix-drivers-swap-helmets-with-long-beach-firefighters>
+
+---
+
+## Menendez brothers' lawyers say DA is playing politics with their case
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+LA County District Attorney Nathan Hochman withdrew a recommendation from his predecessor, George Gascón, that the brothers be resentenced. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/menendez-brothers-lawyers-say-da-is-playing-politics-with-their-case>
+
+---
+
+## Long Beach sues after state blocks its sales tax increase
+
+date: 2025-04-01, from: Longbeach Post
+
+<figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The state agency responsible for collecting sales taxes refused to implement the increase scheduled for today, saying voters didn’t approve the timing. The city now wants the courts to intervene.</p>
+<p>The post <a href="https://lbpost.com/news/sales-tax-long-beach-lawsuit-increase-state-blocks">Long Beach sues after state blocks its sales tax increase</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/sales-tax-long-beach-lawsuit-increase-state-blocks>
+
+---
+
+## MacArthur Park residents, still unhappy about crime, plan town hall
+
+date: 2025-04-01, updated: 2025-04-02, from: The LAist
+
+Despite L.A. Mayor Karen Bass' recent announcement that crime is down, some residents aren't seeing it. They've organized a community town hall for April 24. 
+
+<br> 
+
+<https://laist.com/news/politics/macarthur-park-residents-unhappy-about-crime-to-hold-residentswill-hold-macarthur-park-townhall>
+
+---
+
+## LA County to strip hundreds of millions of taxpayer dollars from homelessness agency
+
+date: 2025-04-01, updated: 2025-04-02, from: The LAist
+
+The homelessness agency known as LAHSA has been criticized for failing to account for its use of taxpayers' money. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-county-supervisors-lahsa-vote-homeless-spending-accountability>
+
+---
+
+## Fullerton considers banning newspaper distribution at City Hall
+
+date: 2025-04-01, updated: 2025-04-01, from: The LAist
+
+The city says the proposed ban, coming up for a vote as a local political activist says he plans to create a print component to his blog, would ensure a neutral space for the public. 
+
+<br> 
+
+<https://laist.com/news/politics/fullerton-considers-banning-newspaper-distribution-at-city-hall>
+
+---
+
+## Register Now to Volunteer at the 2025 Neighborhood Cleanup in Celebration of Earth Day on April 19
+
+date: 2025-04-01, from: City of Santa Clarita
+
+<p>Registered Participants Pick-Up Free Cleaning Supplies, Mulch and a Plant Time is running out to pre-register for the annual Neighborhood Cleanup (NCU) in celebration of Earth Day, scheduled for Saturday, April 19, 2025. Join the City in removing litter from neighborhoods and public spaces. Pre-registration is available by visiting GreenSantaClarita.com. This event is a valuable [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/01/register-now-to-volunteer-at-the-2025-neighborhood-cleanup-in-celebration-of-earth-day-on-april-19/">Register Now to Volunteer at the 2025 Neighborhood Cleanup in Celebration of Earth Day on April 19</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/01/register-now-to-volunteer-at-the-2025-neighborhood-cleanup-in-celebration-of-earth-day-on-april-19/>
+
+---
+
+## LA passes ‘Right to Counsel’ law, but many tenants facing eviction won’t get a lawyer yet
+
+date: 2025-04-01, updated: 2025-04-02, from: The LAist
+
+Advocates cheered the City Council vote, but said it will be years before every low-income renter in L.A. gets a free eviction attorney. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-right-to-counsel-vote-eviction-attorney-tenant-housing-landlord>
+
+---
+
+## 2 mothers bring the House to a halt over push to allow proxy voting for new parents
+
+date: 2025-04-01, updated: 2025-04-01, from: The LAist
+
+GOP leaders tried to block a bipartisan measure to allow proxy voting, but nine Republicans joined with Democrats to overcome it. 
+
+<br> 
+
+<https://laist.com/news/politics/2-mothers-bring-the-house-to-a-halt-push-to-allow-proxy-voting-for-new-parents>
+
+---
+
+## Widespread firings start at federal health agencies including many in leadership
+
+date: 2025-04-01, updated: 2025-04-01, from: The LAist
+
+Staffers began receiving termination notices this morning as part of a major restructuring at HHS. Some senior leadership are on their way out too. 
+
+<br> 
+
+<https://laist.com/news/politics/widespread-firings-start-federal-health-agencies-including-many-in-leadership>
+
+---
+
+## Sea lion attacks girl swimming in Long Beach Junior Lifeguard tryouts
+
+date: 2025-04-01, from: Longbeach Post
+
+<figure><img width="845" height="448" src="https://img.lbpost.com/wp-content/uploads/2019/02/10124411/fire-boat.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2019/02/10124411/fire-boat.jpg 845w, https://img.lbpost.com/wp-content/uploads/2019/02/10124411/fire-boat-300x159.jpg 300w, https://img.lbpost.com/wp-content/uploads/2019/02/10124411/fire-boat-768x407.jpg 768w, https://img.lbpost.com/wp-content/uploads/2019/02/10124411/fire-boat-192x102.jpg 192w, https://img.lbpost.com/wp-content/uploads/2019/02/10124411/fire-boat-400x212.jpg 400w, https://img.lbpost.com/wp-content/uploads/2019/02/10124411/fire-boat-470x249.jpg 470w, https://img.lbpost.com/wp-content/uploads/2019/02/10124411/fire-boat-970x514.jpg 970w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>It bit her in the arm and swam off as lifeguards rushed to help her, according to the Long Beach Fire Department.</p>
+<p>The post <a href="https://lbpost.com/news/sea-lion-attacks-girl-swimming-in-long-beach-junior-lifeguard-tryouts">Sea lion attacks girl swimming in Long Beach Junior Lifeguard tryouts</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/sea-lion-attacks-girl-swimming-in-long-beach-junior-lifeguard-tryouts>
+
+---
+
+## Inside a $17 billion maintenance backlog plaguing California’s universities
+
+date: 2025-04-01, updated: 2025-04-01, from: The LAist
+
+Infrastructure issues at California’s public universities are hindering students and faculty’s ability to learn and work on campus. 
+
+<br> 
+
+<https://laist.com/news/education/17-billion-maintenance-backlog-californias-universities>
+
+---
+
+## Trump tries to curb ticket industry’s price-gouging in executive order
+
+date: 2025-04-01, updated: 2025-04-01, from: The LAist
+
+President Donald Trump on Monday signed an executive order that he says will help curb ticket scalping and bring “commonsense” changes to the way live events are priced. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-tries-to-curb-ticket-industrys-price-gouging-in-executive-order>
 
 ---
 
@@ -112,7 +351,7 @@ date: 2025-03-31, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-03-31, from: Longbeach Post
 
-<figure><img width="1024" height="570" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-1024x570.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-1024x570.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-300x167.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-768x428.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-1200x669.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-400x223.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g.jpg 1296w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="570" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-1024x570.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-1024x570.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-300x167.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-768x428.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-1200x669.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g-400x223.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/31163044/small-aphitheater-jp-388921-cjoszzxh-130431-EB6x1w7g.jpg 1296w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The City Council will vote Tuesday on a proposal to build the $14 million venue, dubbed the Long Beach Bowl.</p>
 <p>The post <a href="https://lbpost.com/news/city/amphitheater-queen-mary-long-beach-bowl-construction-timeline">Long Beach finalizing plans to build shoreline amphitheater next to Queen Mary; here&#8217;s the timeline</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -135,9 +374,9 @@ It marks another major milestone for the Wallis Annenberg Wildlife Crossing, the
 
 ---
 
-## How SoCal campus protesters are responding as ICE makes arrests at other colleges
+## Will college campus protests stop as ICE makes arrests?
 
-date: 2025-03-31, updated: 2025-03-31, from: The LAist
+date: 2025-03-31, updated: 2025-04-02, from: The LAist
 
 Faculty and student activists say they’re proceeding with caution and camaraderie. 
 
@@ -245,6 +484,18 @@ date: 2025-03-31, from: Longbeach Post
 
 ---
 
+## Best things to do this week in LA and SoCal
+
+date: 2025-03-31, updated: 2025-04-01, from: The LAist
+
+A photo exhibit from ‘Poor Things’ director Yorgos Lanthimos, downtown L.A. art night returns, an L.A. Youth Orchestra premiere, and more of the best things to do this week. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-week-los-angeles-southern-california-march-31-april-3>
+
+---
+
 ## BYO-fridge? New bill aims to ban LA’s refrigerator-less apartments
 
 date: 2025-03-31, updated: 2025-03-31, from: The LAist
@@ -254,18 +505,6 @@ Why do so many L.A. landlords make renters bring their own refrigerators? An Ing
 <br> 
 
 <https://laist.com/news/housing-homelessness/new-bill-aims-to-ban-las-refrigerator-less-apartments>
-
----
-
-## Best things to do this week in LA and SoCal
-
-date: 2025-03-31, updated: 2025-03-31, from: The LAist
-
-A photo exhibit from ‘Poor Things’ director Yorgos Lanthimos, downtown L.A. art night returns, an L.A. Youth Orchestra premiere, and more of the best things to do this week. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/best-things-to-do-week-los-angeles-southern-california-march-31-april-3>
 
 ---
 

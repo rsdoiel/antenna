@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-04-01 06:09:04
+updated: 2025-04-02 06:08:29
 ---
 
 # libraries
 
-(date: 2025-04-01 06:09:04)
+(date: 2025-04-02 06:08:29)
+
+---
+
+## The Humanities as Canary:  Understanding this Crisis Now
+
+date: 2025-04-02, from: Scholarly Kitchen
+
+<p>The Humanities have always been the canary in the coal mine of the full knowledge industry. What information can help us understand this crisis and its implications?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/02/the-humanities-as-canary-understanding-this-crisis-now/">The Humanities as Canary:  Understanding this Crisis Now</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/02/the-humanities-as-canary-understanding-this-crisis-now/>
+
+---
+
+## Vanishing Culture: Cultural Preservation and Queer History
+
+date: 2025-04-02, from: Internet Archive Blog
+
+The following guest post from artist and writer Brooke Palmieri is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the full [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/04/02/vanishing-culture-cultural-preservation-and-queer-history/>
 
 ---
 
@@ -95,12 +121,12 @@ Gupta, Rajshikhar; Schärer, Paulina; Liao, Yawen; Roy, Bibhas; Benoit, Roger M.
 
 ---
 
-## Day in Review (March 31– April 3)
+## Day in Review (March 31–April 3)
 
 date: 2025-03-31, from: Association of Research Libraries News
 
-<p>Last Updated on March 31, 2025, 3:56 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 1 &#124; Wednesday, April 2 &#124; Thursday,...</p>
-<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-31-april-3/">Day in Review (March 31– April 3)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+<p>Last Updated on April 1, 2025, 3:23 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 1 &#124; Wednesday, April 2 &#124; Thursday,...</p>
+<p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-31-april-3/">Day in Review (March 31–April 3)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 
 <br> 

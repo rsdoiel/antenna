@@ -1,11 +1,337 @@
 ---
 title: home
-updated: 2025-04-01 06:09:05
+updated: 2025-04-02 06:08:29
 ---
 
 # home
 
-(date: 2025-04-01 06:09:05)
+(date: 2025-04-02 06:08:29)
+
+---
+
+## How to Plant and Grow Common Sage
+
+date: 2025-04-02, from: The Gardener's Path
+
+<p>Common sage is a versatile, savory herb often found in the company of parsley, rosemary, and thyme. Do you enjoy the flavor of sage in recipes like meat rubs and stuffing? It’s time you started your own supply. Learn how easy it is to grow this essential Mediterranean herb in the garden or a container. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/common-sage/">How to Plant and Grow Common Sage</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/common-sage/>
+
+---
+
+## 51 Types of Hibiscus Plants (With Pictures and Identification)
+
+date: 2025-04-02, from: Yard Life blog
+
+<p>Hibiscus plants are a stunning addition to any garden, known for their vibrant, showy blooms and striking foliage. Whether you’re ... </p>
+<p class="read-more-container"><a title="51 Types of Hibiscus Plants (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/51-types-of-hibiscus-plants-with-pictures-and-identification/#more-26333" aria-label="Read more about 51 Types of Hibiscus Plants (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/51-types-of-hibiscus-plants-with-pictures-and-identification/">51 Types of Hibiscus Plants (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/51-types-of-hibiscus-plants-with-pictures-and-identification/>
+
+---
+
+## Firecracker Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-04-02, from: Yard Life blog
+
+<p>Firecracker plants (Russelia equisetiformis), also known as coral plant or fountain plant, are beloved for their vibrant, tube-like flowers and ... </p>
+<p class="read-more-container"><a title="Firecracker Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/firecracker-plant-care-and-growing-guide-most-detailed/#more-26327" aria-label="Read more about Firecracker Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/firecracker-plant-care-and-growing-guide-most-detailed/">Firecracker Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/firecracker-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## Coffee Plant Care and Growing Guide for Indoors and Outdoors
+
+date: 2025-04-02, from: Yard Life blog
+
+<p>Coffee plants (Coffea arabica and Coffea canephora) are beautiful, evergreen plants that not only produce coffee beans but also make ... </p>
+<p class="read-more-container"><a title="Coffee Plant Care and Growing Guide for Indoors and Outdoors" class="read-more button" href="https://ownyardlife.com/coffee-plant-care-and-growing-guide-for-indoors-and-outdoors/#more-26322" aria-label="Read more about Coffee Plant Care and Growing Guide for Indoors and Outdoors">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/coffee-plant-care-and-growing-guide-for-indoors-and-outdoors/">Coffee Plant Care and Growing Guide for Indoors and Outdoors</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/coffee-plant-care-and-growing-guide-for-indoors-and-outdoors/>
+
+---
+
+## This Secret Cave Hike in the Sequoias Will Open for the First Time in Many Years
+
+date: 2025-04-01, from: Sunset Magazine - Living in the West
+
+Crystal Cave in the Sequoia National Park was closed to visitors for four years. It will open via reservation starting this summer. 
+
+<br> 
+
+<https://www.sunset.com/travel/crystal-cave-sequoia-national-park-reopens>
+
+---
+
+## These 6 Wellness Resorts Are the Ultimate Way to Reset
+
+date: 2025-04-01, from: Sunset Magazine - Living in the West
+
+Need to unwind and get away? These spas and wellness resorts are the perfect spots for rest and relaxation. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-spa-wellness-resorts-2024>
+
+---
+
+## These Are the 9 Most Luxurious All-Inclusive Resorts Across the West
+
+date: 2025-04-01, from: Sunset Magazine - Living in the West
+
+Looking to book your next trip? Check out these luxurious all-inclusive resort located in the Western U.S. 
+
+<br> 
+
+<https://www.sunset.com/travel/hotels/best-all-inclusive-resorts-in-west>
+
+---
+
+## A Lush Lagoon in Scottsdale Awaits You for $3.4M
+
+date: 2025-04-01, from: Dwell
+
+Calming interiors open up to verdant gardens and tranquil indoor/outdoor living. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-lagoon-scottsdale-real-estate-ef2ef95b>
+
+---
+
+## "We’re Going to Have Something Worse": What Dr. Lucy Jones Says Will Make L.A. More Fire Resilient
+
+date: 2025-04-01, from: Dwell
+
+The city’s seismologist turned climate disaster expert wants better building codes but isn’t waiting around for them. 
+
+<br> 
+
+<https://www.dwell.com/article/dr-lucy-jones-natural-disaster-preparedness-los-angeles-fires-64818568>
+
+---
+
+## 10 Tips For Removing Mold and Mildew Before It Becomes a Problem
+
+date: 2025-04-01, from: Family Handyman Blog
+
+<p>Don’t let mold take over your home! Here are some simple DIY tips to remove mold and prevent future growth.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/mold-mildew-removal-tips/">10 Tips For Removing Mold and Mildew Before It Becomes a Problem</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/mold-mildew-removal-tips/>
+
+---
+
+## 10 DIY Pond, Fountain and Waterfall Projects That Will Transform Your Yard
+
+date: 2025-04-01, from: Family Handyman Blog
+
+<p>Elevate your backyard with a water feature you can build all by yourself.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/pond-fountain-waterfall-diy-projects/">10 DIY Pond, Fountain and Waterfall Projects That Will Transform Your Yard</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/pond-fountain-waterfall-diy-projects/>
+
+---
+
+## Make Your House More Comfortable with These Insulation Tips
+
+date: 2025-04-01, from: Family Handyman Blog
+
+<p>Get the most energy efficiency from your insulation by filling all gaps, avoiding compression, sealing holes in framing and other expert tips.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/improve-wall-insulation/">Make Your House More Comfortable with These Insulation Tips</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/improve-wall-insulation/>
+
+---
+
+## 7 Best Cucumber Trellis Ideas + Easy DIY Designs with Photos
+
+date: 2025-04-01, from: Homestead and Chil
+
+<p>Growing cucumbers on a trellis is a great way to save space and maximize yield! Come explore a variety of cucumber trellises, including some of the best clever, cheap, and easy DIY cucumber trellis ideas. </p>
+<p>The post <a href="https://homesteadandchill.com/best-diy-cucumber-trellis-ideas/">7 Best Cucumber Trellis Ideas + Easy DIY Designs with Photos</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/best-diy-cucumber-trellis-ideas/>
+
+---
+
+## How to Plant and Grow Cucumbers: Tips for Success and Big Harvests
+
+date: 2025-04-01, from: Homestead and Chil
+
+<p>Nothing says summer like cool, crisp, refreshing homegrown cukes! Come learn how to plant, grow, harvest, and preserve cucumbers - with our top tips to maximize space, yield, and success!</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-plant-and-grow-cucumbers/">How to Plant and Grow Cucumbers: Tips for Success and Big Harvests</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-plant-and-grow-cucumbers/>
+
+---
+
+## This $1.6M Gregory Ain Midcentury Just Listed for the First Time in Decades
+
+date: 2025-04-01, from: Dwell
+
+The 1948 L.A. home has long been held by the same family, and it still has its original windows, built-ins, and fireplace. 
+
+<br> 
+
+<https://www.dwell.com/article/mar-vista-midcentury-home-gregory-ain-los-angeles-real-estate-62fbcd1e>
+
+---
+
+## This Farmhouse Near Berlin Came With a Tenant. The New Owner Renovated Around Them
+
+date: 2025-04-01, from: Dwell
+
+The structure now includes a two-level live/work flat punctuated by a circular window and sculptural wooden stair. 
+
+<br> 
+
+<https://www.dwell.com/article/house-for-a-goldsmith-christoph-wagner-architecten-farmhouse-renovation-b1f832ae>
+
+---
+
+## Can Wayfair’s Decorating AI Help Me Reimagine My Living Room?
+
+date: 2025-04-01, from: Dwell
+
+Muse can't replicate the power of an interior designer, but when you have a blank slate, the tool can at least help guide your direction. 
+
+<br> 
+
+<https://www.dwell.com/article/wayfair-ai-muse-review-e0a7fbd4>
+
+---
+
+## How to Plant and Grow Winged Beans
+
+date: 2025-04-01, from: The Gardener's Path
+
+<p>Winged beans (Psophocarpus tetragonolobus) are tropical, vining legumes that grow as perennials in Zones 10 to 12 and as annuals elsewhere. The entire plant is edible, and the ruffled, feather-like pods are a visual treat, as well. Learn how to plant and grow winged beans aka four-angled beans in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-winged-beans/">How to Plant and Grow Winged Beans</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-winged-beans/>
+
+---
+
+## New CDFA report details “Progress for California’s Agricultural Community”
+
+date: 2025-04-01, from: Calfifornia Dept. Aggriculture blog
+
+From the past winter’s fires in Southern California to our ongoing recovery from bird flu in California’s dairy and poultry farms, California agriculture has been put to the test. The headlines are captivating and the emergency response efforts are urgent &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28794">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28794>
+
+---
+
+## 50 Types of Green Birds (With Pictures and Identification)
+
+date: 2025-04-01, from: Yard Life blog
+
+<p>Green birds are some of the most vibrant and captivating creatures in the avian world. With their rich, emerald plumage, ... </p>
+<p class="read-more-container"><a title="50 Types of Green Birds (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/50-types-of-green-birds-with-pictures-and-identification/#more-26267" aria-label="Read more about 50 Types of Green Birds (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-types-of-green-birds-with-pictures-and-identification/">50 Types of Green Birds (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-types-of-green-birds-with-pictures-and-identification/>
+
+---
+
+## These Insider Tips Will Make Traveling with Kids So, So Much Easier
+
+date: 2025-04-01, from: Sunset Magazine - Living in the West
+
+Traveling with children can be difficult, but it can actually be even more enriching than going it alone if you plan ahead using these tips. 
+
+<br> 
+
+<https://www.sunset.com/travel/how-to-travel-with-kids>
+
+---
+
+## This City Is Surprisingly the Best Home Base for Remote Workers
+
+date: 2025-04-01, from: Sunset Magazine - Living in the West
+
+Though it's certainly not the cheapest place to live, the California metropolis of Los Angeles has ranked the best for digital nomads. 
+
+<br> 
+
+<https://www.sunset.com/travel/best-city-remote-work-digital-nomad>
+
+---
+
+## This Popular National Park Attraction Will Close Indefinitely This Summer
+
+date: 2025-04-01, from: Sunset Magazine - Living in the West
+
+Fiery Furnace in Utah's Arches National Park, which is popular with hikers and climbers, will shutter this summer. 
+
+<br> 
+
+<https://www.sunset.com/travel/fiery-furnace-arches-national-park-utah-closure>
+
+---
+
+## Travel the West
+
+date: 2025-04-01, from: Sunset Magazine - Living in the West
+
+The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
+
+<br> 
+
+<https://www.sunset.com/travel>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-04-01, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -152,30 +478,6 @@ date: 2025-03-31, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/75-common-types-of-succulents-with-pictures-and-names/>
-
----
-
-## Travel the West
-
-date: 2025-03-31, from: Sunset Magazine - Living in the West
-
-The West is cities and small towns, national parks and wine country, natural wonders and manmade amusements. We have all the tips, guides, ideas, and road-trip routes you need to plan an adventure! 
-
-<br> 
-
-<https://www.sunset.com/travel>
-
----
-
-## Sunset.com Home Page
-
-date: 2025-03-31, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 

@@ -1,11 +1,98 @@
 ---
 title: motorcycles
-updated: 2025-04-01 06:09:05
+updated: 2025-04-02 06:08:30
 ---
 
 # motorcycles
 
-(date: 2025-04-01 06:09:05)
+(date: 2025-04-02 06:08:30)
+
+---
+
+## This Custom Motorcycle Proves That Choppers Will Live On In the Electric Era
+
+date: 2025-04-02, from: Ride Apart, Electric Motorcycle News
+
+It’s not exactly the most practical thing out there, but it sure has some character. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/755207/sine-cycles-king-current-custom-chopper/>
+
+---
+
+## Oakley Celebrates 50th Anniversary, Drops Dope-Looking Moto Googles
+
+date: 2025-04-02, from: Ride Apart, Electric Motorcycle News
+
+The drip is out of this world.  
+
+<br> 
+
+<https://www.rideapart.com/news/755177/oakley-airbrake-mx-googles-50th-anniversary-gear/>
+
+---
+
+## Yamaha's EV Trials Motorcycle Gets Some Updates With the TY-E 3.0
+
+date: 2025-04-02, from: Ride Apart, Electric Motorcycle News
+
+Will Team Blue dominate the 2025 All Japan Trial Championship with this thing?
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/755201/yamaha-tye3-electric-trials-bike/>
+
+---
+
+## Piaggio’s Beverly 310 S Scooter Gets An Upgrade In Europe
+
+date: 2025-04-02, from: Ride Apart, Electric Motorcycle News
+
+Engine tweaks make the Beverly compliant with the latest Euro 5+ emissions standards. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/755061/piaggio-beverly-310s-scooter-update-europe/>
+
+---
+
+## KTM Says Production Has Resumed, But It Won't Say What It's Building
+
+date: 2025-04-02, from: Ride Apart, Electric Motorcycle News
+
+Why so coy, KTM? 
+
+<br> 
+
+<https://www.rideapart.com/news/755279/ktm-production-resumes-austria-what-motorcycles/>
+
+---
+
+## Robinhood Joins 23XI Racing as an Official Partner for 2025 Season
+
+date: 2025-04-01, from: Kickin the Tires blog
+
+Huntersville, N.C. (Apr. 1, 2025) – 23XI Racing announced today that Robinhood has joined theteam as an official partner. As a leading financial services platform that has democratizedaccess to the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/robinhood-joins-23xi-racing-as-an-official-partner-for-2025-season/>
+
+---
+
+## Apparently, There Are a Couple Buyers Interested in Arctic Cat's Snowmobile Business
+
+date: 2025-04-01, from: Ride Apart, Electric Motorcycle News
+
+Supposedly a few folks are interested in acquiring the sled maker. 
+
+<br> 
+
+<https://www.rideapart.com/news/755162/arctic-cat-textron-specialty-vehicles-bankrupt-sale/>
 
 ---
 

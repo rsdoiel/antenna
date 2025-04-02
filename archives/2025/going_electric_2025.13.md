@@ -1,11 +1,407 @@
 ---
 title: going electric
-updated: 2025-04-01 06:09:06
+updated: 2025-04-02 06:08:31
 ---
 
 # going electric
 
-(date: 2025-04-01 06:09:06)
+(date: 2025-04-02 06:08:31)
+
+---
+
+## Tesla (TSLA) announces 336,681 deliveries, far worse than expected
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2020/03/Tesla-Model-Y-shipment-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla (TSLA) has released its Q1 2025 production and delivery numbers. The automaker confirmed it delivered 336,681 electric vehicles during the first three months of the year — far below expectations.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="409262" href="https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/#more-409262" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/tesla-tsla-q1-deliveries-worse/>
+
+---
+
+## Ride1Up launches new Vorsa electric bike as incredible bang-for-your-buck urban ride
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/ride1up-vorsa-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://go.ride1up.com/SH2z">Ride1Up</a> got its start as a dedicated urban-focused electric bike maker, bringing affordable e-bikes with excellent performance to commuters all over the US. The brand has since expanded into a number of diverse categories both on and off-road, but continues to lead in the urban sector. Now Ride1Up has launched its newest model, the <a href="https://go.ride1up.com/SHCA">Vorsa</a>, which sets a new high watermark for value among urban riders.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="409272" href="https://electrek.co/2025/04/02/ride1up-launches-new-vorsa-electric-bike-as-incredible-bang-for-your-buck-urban-ride/#more-409272" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/ride1up-launches-new-vorsa-electric-bike-as-incredible-bang-for-your-buck-urban-ride/>
+
+---
+
+## ICON’s EV Bronco restomod is a crazy $449k electric beast and we drove it
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/IconEVBronco-Pass-F34-Blue-White-e1743564481787.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>ICON invited us up to its office in Chatsworth, CA, to have a chat with its founder, Jonathan Ward, and to take a quick spin in its bonkers new Bronco EV restomod.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-classic-ford-bronco,icon,restomods" data-layer-viewtype="unknown" data-post-id="408481" href="https://electrek.co/2025/04/02/icons-ev-bronco-restomod-is-a-crazy-449k-electric-beast-and-we-drove-it/#more-408481" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/icons-ev-bronco-restomod-is-a-crazy-449k-electric-beast-and-we-drove-it/>
+
+---
+
+## Elon Musk goes full propaganda mode to distract from Tesla’s delivery numbers
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/01/Tesla-Bot-Optimus-hero.webp?w=1500" /></div><p>Elon Musk is going on full propaganda mode to distract from Tesla’s delivery numbers with new Optimus robot content and misleading claims about Model Y’s popularity.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="409291" href="https://electrek.co/2025/04/02/elon-musk-propaganda-mode-distract-tsla-tesla-delivery-numbers/#more-409291" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/elon-musk-propaganda-mode-distract-tsla-tesla-delivery-numbers/>
+
+---
+
+## Tesla Braces For Impact
+
+date: 2025-04-02, from: Inside EVs News
+
+Plus, the auto industry gets ready for the new tariff order, and the CEO of Volkswagen's Seat brand is out ahead of its U.S. debut. 
+
+<br> 
+
+<https://insideevs.com/news/755372/tesla-q1-tariffs-stelltantis-seat/>
+
+---
+
+## The 2026 Polestar 2 Gets A New Battery And A Faster Infotainment System
+
+date: 2025-04-02, from: Inside EVs News
+
+Polestar’s first EV lives on with an optional Bowers & Wilkins premium audio system. 
+
+<br> 
+
+<https://insideevs.com/news/755334/polestar-2-2026-battery-infotainment-bowers-wilkins/>
+
+---
+
+## Stellantis Sales Slump Showed No Signs Of Improvement In Q1
+
+date: 2025-04-02, from: Inside EVs News
+
+Last year, the auto giant’s U.S. sales went down 15%. In the first quarter of this year, sales went down by 12%. 
+
+<br> 
+
+<https://insideevs.com/news/755319/stellantis-sales-ev-phev-q1-2025/>
+
+---
+
+## Economists, experts call for governments to ditch hydrogen, go fully electric
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/milence-main.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>In a joint statement, French and German economists have called on governments to adopt “a common approach” to decarbonize European trucking fleets – and they’re calling for a focus on fully electric trucks, not hydrogen.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,europe,hydrogen" data-layer-viewtype="unknown" data-post-id="409202" href="https://electrek.co/2025/04/01/economists-experts-call-for-governments-to-ditch-hydrogen-go-fully-electric/#more-409202" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/economists-experts-call-for-governments-to-ditch-hydrogen-go-fully-electric/>
+
+---
+
+## Quick Charge | the terrifying Trump tariffs are finally upon us!
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/tariffs_MAIN.png?w=1600" /></div><p>On today’s tariff-tastic episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we’ve got tariffs! Big ones, small ones, crazy ones, and fake ones – but whether or not you agree with the Trump tariffs coming into effect tomorrow, one thing is absolutely certain: they are going to change the price you pay for your next car … and that price won’t be going down!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,quick-charge,tariffs,tesla" data-layer-viewtype="unknown" data-post-id="409192" href="https://electrek.co/2025/04/01/quick-charge-the-terrifying-trump-tariffs-are-finally-upon-us/#more-409192" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/quick-charge-the-terrifying-trump-tariffs-are-finally-upon-us/>
+
+---
+
+## SunZia Wind’s massive 2.4 GW project hits a big milestone
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/GE-Vernova-Pensacola-wind-turbines.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>GE Vernova has produced over half the turbines needed for <a href="https://patternenergy.com/projects/sunzia-wind/" target="_blank" rel="noreferrer noopener">SunZia Wind</a>, which will be the largest wind farm in the Western Hemisphere when it comes online in 2026.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,ge-vernova,solar,new-mexico,wind-power" data-layer-viewtype="unknown" data-post-id="409160" href="https://electrek.co/2025/04/01/sunzia-wind-massive-2-4-gw-project-hits-a-big-milestone/#more-409160" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/sunzia-wind-massive-2-4-gw-project-hits-a-big-milestone/>
+
+---
+
+## BYD’s global EV takeover is far from over as overseas sales double to start 2025
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-new-EVs-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After its meteoric rise in the global auto industry last year, the Chinese EV giant is off to a hot start in 2025. BYD sold over one million EVs and plug-in hybrids in the first three months of the year. Even more impressive, <a href="https://electrek.co/guides/byd/">BYD’s</a> overseas sales doubled to start the year as it expands into new markets. With new EVs arriving, some predict BYD could see even more growth this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="409143" href="https://electrek.co/2025/04/01/byds-global-ev-takeover-far-from-over-as-overseas-sales-double/#more-409143" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/byds-global-ev-takeover-far-from-over-as-overseas-sales-double/>
+
+---
+
+## Chevy Sold 13 Bolt EVs Last Quarter
+
+date: 2025-04-01, from: Inside EVs News
+
+Production ended in 2023, but then some Bolt EVs and EUVs are just now leaving dealer lots. 
+
+<br> 
+
+<https://insideevs.com/news/755307/chevy-bolt-ev-sales-q1-2025/>
+
+---
+
+## Is your state at risk? These 15 states face huge job losses if the IRA is repealed
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/07/15678-VolkswagenstartsU.S.assemblyofall-electricID.4flagshipinChattanoogaTennessee.jpg?quality=82&#038;strip=all&#038;w=1500" /></div><p>The repeal of the Inflation Reduction Act (IRA) would wipe out thousands of US jobs, especially in the booming EV and battery manufacturing sectors, according to a new report from the International Council on Clean Transportation (<a href="https://theicct.org/" target="_blank" rel="noreferrer noopener">ICCT</a>).</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="409098" href="https://electrek.co/2025/04/01/15-states-face-huge-job-losses-ira-is-repealed/#more-409098" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/15-states-face-huge-job-losses-ira-is-repealed/>
+
+---
+
+## IEVs E-Bike Reviews: Ask Us About Riese & Müller's $14,000 Load4 75
+
+date: 2025-04-01, from: Inside EVs News
+
+We’re testing more e-bikes and urban mobility vehicles, starting with this peanut-colored cargo hauler. Ask us anything. 
+
+<br> 
+
+<https://insideevs.com/news/755291/riese-muller-load4-75-ama/>
+
+---
+
+## Ford Mustang Mach-E is off to a hot start in 2025: Here’s how it stacks up against other top EVs
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Ford-Mach-E-lease-Camry-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The electric SUV is off to a record start in 2025, but was it enough to outsell GM’s Chevy Equinox EV or the Honda Prologue? Here’s how <a href="https://electrek.co/guides/ford-mach-e/">Ford Mustang Mach-E</a> sales stacked up against other top-selling EVs in the first quarter.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,ford-mach-e" data-layer-viewtype="unknown" data-post-id="409097" href="https://electrek.co/2025/04/01/ford-mustang-mach-e-starts-2025-strong-was-it-a-top-selling-ev/#more-409097" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/ford-mustang-mach-e-starts-2025-strong-was-it-a-top-selling-ev/>
+
+---
+
+## JackRabbit XG Pro review: A faster, more powerful micro e-bike built for off-roading
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/jackrabbit-xg-pro-header-review.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We r<a href="https://electrek.co/2025/03/30/jackrabbit-og2-pro-and-xg-pro-launched-as-faster-and-more-powerful-micro-e-bikes/">ecently covered</a> the launch of the JackRabbit OG2 Pro and XG Pro electric bikes, which added more range and power to the existing micro e-bike lineup from JackRabbit. Having spent a few weeks testing the <a href="https://www.avantlink.com/click.php?tt=cl&amp;merchant_id=9bf363e8-95c7-41cf-b1e5-fa19bcbaab31&amp;website_id=d8cb501a-c5ae-4e37-bc97-8c54add0467e&amp;url=https%3A%2F%2Fjackrabbit.bike%2Fproducts%2Fjackrabbit-xg-pro-green%3Fvariant%3D50117478351016">XG Pro</a> myself, I can attest to just what that means from the perspective of someone with saddle time doing things you wouldn’t have thought possible on a micro e-bike.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes,review" data-layer-viewtype="unknown" data-post-id="408491" href="https://electrek.co/2025/04/01/jackrabbit-xg-pro-review-a-faster-more-powerful-micro-e-bike-built-for-off-roading/#more-408491" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/jackrabbit-xg-pro-review-a-faster-more-powerful-micro-e-bike-built-for-off-roading/>
+
+---
+
+## Hyundai Just Had Its Second-Highest Sales Month On Record
+
+date: 2025-04-01, from: Inside EVs News
+
+Hyundai's EV sales continued to grow in the first quarter, whereas Kia witnessed a small drop. 
+
+<br> 
+
+<https://insideevs.com/news/755282/hyundai-kia-record-first-quarter-2025-sales/>
+
+---
+
+## EcoFlow Easter Sale takes 60% off units with free gear + major EcoCredit rewards, Lectric one-day-only e-bike price cuts to new lows, more
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/EcoFlow-Easter-Sale-FI.png?w=1600" /></div><p>Today’s Green Deals are kicking off April with some major savings, led by <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">EcoFlow’s newly launched Easter Sale</a> that is taking up to 60% off power stations, along with scheduled flash sales, free gear at pricing thresholds, and even larger EcoCredit rewards – including bonus savings – than we’ve seen in past sales. Among the lineup, there’s the <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">DELTA 2 Solar Generator bundle</a> that comes with an expansion battery and two 110W solar panels down at a <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">$1,049</a> low, among many others. We also spotted <a href="https://9to5toys.com/2025/04/01/lectric-cuts-prices-xp-3-0-e-bikes-from-899-today-only/">Lectric’s one-day-only April Fools flash sale</a> that isn’t joking around as its <a href="https://9to5toys.com/2025/04/01/lectric-cuts-prices-xp-3-0-e-bikes-from-899-today-only/">XP 3.0 e-bikes</a> lead a bunch of price cuts and changed-up bundle packages at new <a href="https://9to5toys.com/2025/04/01/lectric-cuts-prices-xp-3-0-e-bikes-from-899-today-only/">$899</a> and <a href="https://9to5toys.com/2025/04/01/lectric-cuts-prices-xp-3-0-e-bikes-from-899-today-only/">$1,099</a> lows. Lastly, EGO is continuing its Power+ savings event with its <a href="https://9to5toys.com/2025/04/01/ego-56v-15-inch-string-trimmer-159/">EGO POWER+ 56V 15-inch String Trimmer</a> that comes with a 2.5Ah battery at <a href="https://9to5toys.com/2025/04/01/ego-56v-15-inch-string-trimmer-159/">$159</a>, along with plenty more lawn care solutions at discounted rates. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s new low price on the <a href="https://9to5toys.com/2025/03/31/niu-bqi3-c3-pro-e-bike-new-999-low/">NIU BQi-C3 Pro e-bike</a>, the $400 discount on <a href="https://9to5toys.com/2025/03/31/segway-max-g3-1000/">Segway’s latest Max G3 e-scooter</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="409074" href="https://electrek.co/2025/04/01/ecoflow-easter-sale-lectric-flash-more/#more-409074" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/ecoflow-easter-sale-lectric-flash-more/>
+
+---
+
+## GM EV Sales Exploded In Q1 2025. But There's A Big Cliff Ahead
+
+date: 2025-04-01, from: Inside EVs News
+
+The company's affordable EV bet is paying off, but the good times might not last long. 
+
+<br> 
+
+<https://insideevs.com/news/755280/gm-ev-sales-q1-2025/>
+
+---
+
+## GM is beating EV rivals by giving buyers more choices at lower prices
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/10/35000-Chevy-Equinox-EV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>GM’s electric vehicle sales nearly doubled in the first three months of the year, with impressive growth across all brands. Chevy is now the fastest-growing EV brand in the US, with the electric Equinox and Blazer rolling out, while Cadillac is quickly making a comeback in the luxury segment. Even GMC just had its best first quarter ever. With the broadest selection of models in the industry, <a href="https://electrek.co/guides/gm/">GM</a> continues outpacing EV rivals.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="chevy-blazer-ev,chevy-equinox-ev,general-motors,gm" data-layer-viewtype="unknown" data-post-id="409069" href="https://electrek.co/2025/04/01/gm-beating-ev-rivals-with-more-choices-at-lower-prices/#more-409069" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/gm-beating-ev-rivals-with-more-choices-at-lower-prices/>
+
+---
+
+## No Anode, No Problem: The Battery Breakthrough That May Enable 500-Mile EVs
+
+date: 2025-04-01, from: Inside EVs News
+
+Battery start-up QuantumScape believes ditching the anode can unlock big improvements in EVs, but challenges persist. 
+
+<br> 
+
+<https://insideevs.com/news/755188/anode-free-ev-batteries-quantumscape/>
+
+---
+
+## Tesla is sitting on $200 million worth of Cybertruck inventory
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Hyundai-Tesla-Cybertruck.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Tesla has about $200 million worth of Cybertrucks in inventory in the US, as the truck is extremely difficult to sell.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="409068" href="https://electrek.co/2025/04/01/tesla-is-sitting-on-200-million-worth-of-cybertruck-inventory/#more-409068" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/tesla-is-sitting-on-200-million-worth-of-cybertruck-inventory/>
+
+---
+
+## Toyota's Hybrids Are In High Demand. Too Bad Nobody Can Get One.
+
+date: 2025-04-01, from: Inside EVs News
+
+Some markets have a nine-month wait for Toyota hybrids. Here's why. 
+
+<br> 
+
+<https://insideevs.com/news/755158/toyota-hybrid-demand-months-shortage/>
+
+---
+
+## Kia expects EV sales to pick up as the EV6 and EV9 enter full-scale production in Georgia
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Kia-EV6-EV9-production-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s EV sales run is about to heat up. With the EV9 and EV6 now in full-scale production at its West Point, Georgia, plant, <a href="https://electrek.co/guides/kia/">Kia</a> plans to sell even more EVs in the US this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev6,kia-ev9" data-layer-viewtype="unknown" data-post-id="409055" href="https://electrek.co/2025/04/01/kia-ev6-ev9-enter-full-scale-production-georgia/#more-409055" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/kia-ev6-ev9-enter-full-scale-production-georgia/>
+
+---
+
+## Hyundai Tells Dealers To Brace For Tariff Impacts
+
+date: 2025-04-01, from: Inside EVs News
+
+Plus, U.S. consumers are likely to begin feeling the impacts of auto tariffs in May, and Elon Musk gets ready to depart from DOGE. 
+
+<br> 
+
+<https://insideevs.com/news/755180/hyundai-us-dealer-tariff-impacts/>
+
+---
+
+## Hyundai just unveiled its ‘Dream Car’ — but will it bring the funky Insteroid EV to life?
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Hyundais-Insteroid-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai took its smaller electric SUV and injected it with fun upgrades. Meet the Insteroid EV — <a href="https://electrek.co/guides/hyundai/">Hyundai’s </a>“Dream Car.” The concept car has sporty design elements like an added wing spoiler, a widened stance, and more. Like the IONIQ 5 N, it will make you feel like you’re in a real sports car. It even has an added Drift Mode.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="409014" href="https://electrek.co/2025/04/01/hyundais-insteroid-ev-is-a-dream-car-but-will-it-bring-it-to-life/#more-409014" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/hyundais-insteroid-ev-is-a-dream-car-but-will-it-bring-it-to-life/>
+
+---
+
+## Tesla’s electric car sales decline deepens in Europe
+
+date: 2025-04-01, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Tesla-Model-Y-hero-new-design.png?w=1600" /></div><p>Tesla’s European problems are not over. Some countries have already reported their March delivery numbers,, and despite the new Model Y, Tesla’s electric car sales decline is deepening in some European countries.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="409034" href="https://electrek.co/2025/04/01/teslas-electric-car-sales-decline-deepens-in-europe/#more-409034" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/01/teslas-electric-car-sales-decline-deepens-in-europe/>
 
 ---
 

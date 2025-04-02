@@ -1,11 +1,323 @@
 ---
 title: science and technology
-updated: 2025-04-01 06:09:01
+updated: 2025-04-02 06:08:25
 ---
 
 # science and technology
 
-(date: 2025-04-01 06:09:01)
+(date: 2025-04-02 06:08:25)
+
+---
+
+## Qualcomm set to move in on UK chip IP biz Alphawave
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Has until month end to make an offer for semiconductor design and licensing shop</h4> <p>Qualcomm has confirmed its interest in buying high-speed connectivity module designer Alphawave Semi, a move that could see yet another major British tech operation swallowed up by a foreign business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/qualcomm_alphawave/>
+
+---
+
+## For healthcare orgs, disaster recovery means making sure docs can save lives during ransomware infection
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Organizational, technological resilience combined defeat the disease that is cybercrime</h4> <p>When IT disasters strike, it can become a matter of life and death for healthcare organizations – and criminals know it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/disaster_recovery_healthcare/>
+
+---
+
+## Oracle faces Texas-sized lawsuit over alleged cloud snafu and radio silence
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Victims expect to spend considerable time and money over privacy incident, lawyers argue</h4> <p>Specialist class action lawyers have launched proceedings against Oracle in Texas over two alleged data breaches.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/oracle_breach_class_action/>
+
+---
+
+## One of the last of Bletchley Park's quiet heroes, Betty Webb, dies at 101
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Kept quiet for 30 years before becoming an &#39;unrivalled advocate&#39; for the site</h4> <p><strong>Obit</strong>  Betty Webb MBE, one of the team who worked at the code-breaking Bletchley Park facility during the Second World War, has died at the age of 101.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/bletchley_webb_obituary/>
+
+---
+
+## Citizen Scientists Use NASA Open Science Data to Research Life in Space
+
+date: 2025-04-02, from: NASA breaking news
+
+How can life thrive in deep space? The Open Science Data Repository Analysis Working Groups invite volunteers from all backgrounds to help answer this question. Request to join these citizen science groups to help investigate how life adapts to space environments, exploring topics like radiation effects, microgravity’s impact on human and plant health, and how microbes […] 
+
+<br> 
+
+<https://science.nasa.gov/get-involved/citizen-science/citizen-scientists-use-nasa-open-science-data-to-research-life-in-space/>
+
+---
+
+## Specsavers takes off the Oracle glasses, sees better ERP options
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>£5M in savings? Should&#39;ve gone to third-party support</h4> <p>International optometry company Specsavers has paused the global standardization of its Oracle ERP system and moved to third-party support, saving £5 million ($6.5 million) that can be reallocated to the business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/specsavers_oracle_ebs_standardization/>
+
+---
+
+## Speech now streaming from brains in real-time
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Boosted human-computer interface promises better communication for patients who lost ability to speak</h4> <p>Some smart cookies have implemented a brain-computer interface that can synthesize speech from thought in near real-time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/speech_now_streaming_from_brains/>
+
+---
+
+## Apple belatedly patches actively exploited bugs in older OSes
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Cupertino already squashed &#39;em in more recent releases - which this week get a fresh round of fixes</h4> <p>Apple has delivered a big batch of OS updates, some of which belatedly patch older versions of its operating systems to address exploited-in-the-wild flaws the iGiant earlier fixed in more recent releases.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/apple_patch_bundle/>
+
+---
+
+## North Korea’s fake tech workers now targeting European employers
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>With help from UK operatives, because it’s getting tougher to run the scam in the USA</h4> <p>North Korea’s scamming, thieving, and AI-abusing fake IT workers are increasingly targeting European employers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/north_korean_fake_techies_target_europe/>
+
+---
+
+## Forget Signal. National Security Adviser Waltz now accused of using Gmail for work
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>But his emails! Sharing them with Google!</h4> <p>Senior members of the US National Security Council, including the White House national security adviser Michael Waltz, have been accused of using their personal Gmail accounts to exchange sensitive information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/waltz_gmail_security/>
+
+---
+
+## Mozilla is rolling Thundermail, a Gmail, Office 365 rival
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Thunderbirds are Pro: Open-source email client to get message hosting, appointment scheduling, more</h4> <p>Thunderbird, Firefox maker Mozilla&#39;s open-source email client, is aiming to reinvent itself as a more comprehensive communications platform.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/thunderbird_pay_services/>
+
+---
+
+## Lightmatter says it's ready to ship chip-to-chip optical highways as early as summer
+
+date: 2025-04-01, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>AI accelerators to see the light, literally</h4> <p>Lightmatter this week unveiled a pair of silicon photonic interconnects designed to satiate the growing demand for chip-to-chip bandwidth associated with ever-denser AI deployments.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/lightmatter_photonics_passage/>
+
+---
+
+## Not even Intel's top bosses know what's on CEO Lip-Bu Tan's chopping block
+
+date: 2025-04-01, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Chipzilla chief asked customers to be &#39;brutally honest&#39; ... which will lead to what changes, we wonder</h4> <p><strong>Vision</strong>  Not even Intel&#39;s top brass know what&#39;s on newly minted CEO Lip-Bu Tan&#39;s chopping block.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/intel_vision_cuts/>
+
+---
+
+## To avoid disaster-recovery disasters, learn from <em>Reg</em> readers' experiences
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Nobody’s tested the tapes this decade, thinks to back up the Recycle Bin, or takes care when using rm</h4> <p><strong>On Call Special</strong>  How can you avoid a disaster recovery disaster?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/on_call_dr_lessons/>
+
+---
+
+## Nvidia’s AI suite may get a whole lot pricier, thanks to Jensen’s GPU math mistake
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Old naming convention didn&#39;t just &#39;screw up&#39; the NVLink nomenclature - it left money on the table</h4> <p><strong>Comment</strong>  At its GPU Technology Conference last month, Nvidia broke with convention by shifting its definition of what counts as a GPU.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/nvidia_ai_enterprise_cost/>
+
+---
+
+## NASA Receives 10 Nominations for the 29th Annual Webby Awards
+
+date: 2025-04-01, from: NASA breaking news
+
+Since it began in 1958, NASA has been charged by law with spreading the word about its work to the widest extent practicable. From typewritten press releases to analog photos and film, the agency has effectively moved into social media and other online communications. NASA’s broad reach across digital platforms has been recognized by the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-receives-10-nominations-for-the-29th-annual-webby-awards/>
+
+---
+
+## NASA’s SPHEREx Takes First Images, Preps to Study Millions of Galaxies
+
+date: 2025-04-01, from: NASA breaking news
+
+Processed with rainbow hues to represent a range of infrared wavelengths, the new pictures indicate the astrophysics space observatory is working as expected. NASA’s SPHEREx (short for Spectro-Photometer for the History of the Universe, Epoch of Reionization and Ices Explorer) has turned on its detectors for the first time in space. Initial images from the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/spherex/nasas-spherex-takes-first-images-preps-to-study-millions-of-galaxies/>
+
+---
+
+## Studying Ice for the Future of Flight
+
+date: 2025-04-01, from: NASA breaking news
+
+Thomas Ozoroski, a researcher at NASA’s Glenn Research Center in Cleveland, takes icing accretion measurements in October 2024 as part of transonic truss-braced wing concept research. In the future, aircraft with long, thin wings supported by aerodynamic braces could help airlines save on fuel costs – but those same wings could be susceptible to ice [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/studying-ice-for-the-future-of-flight/>
+
+---
+
+## FAA closes investigations into Blue Origin landing fail, Starship Flight 7 explosion
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>New Glenn landing scuppered by engine problems</h4> <p>The US Federal Aviation Administration (FAA) is closing its investigations into both the SpaceX Starship Flight 7 explosion and Blue Origin New Glenn-1 landing failure.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/faa_closes_blue_origin_and/>
+
+---
+
+## What’s Up: April 2025 Skywatching Tips from NASA
+
+date: 2025-04-01, from: NASA breaking news
+
+April (Meteor) Showers and See a City of Stars! Enjoy observing planets in the morning and evening sky, look for Lyrid meteors, and hunt for the “faint fuzzy” wonder that is the distant and ancient city of stars known as globular cluster M3.  Skywatching Highlights All Month – Planet Visibility: Daily Highlights: April 1 &#038; […] 
+
+<br> 
+
+<https://science.nasa.gov/solar-system/skywatching/whats-up-april-2025-skywatching-tips-from-nasa/>
+
+---
+
+## Microsoft to mark five decades of Ctrl-Alt-Deleting the competition
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Copilot told us that half a century is 25 years. It feels much longer</h4> <p>Microsoft will officially hit the half-century mark on Friday as the Windows giant turns 50 years old. What do you consider the highs and lows of the company&#39;s journey to dominance?…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/50_years_of_microsoft/>
+
+---
+
+## NASA History News and Notes–Spring 2025
+
+date: 2025-04-01, from: NASA breaking news
+
+The NASA History Office brings you the new Spring 2025 issue of NASA History News &#38; Notes reflecting on some of the transitional periods in NASA’s history, as well as the legacies of past programs. Topics include NASA’s 1967 class of astronauts, historic experiments in airborne astronomy, NASA’s aircraft consolidation efforts in the 1990s, lightning [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/history/nasa-history-news-and-notes-spring-2025/>
+
+---
+
+## Writing for humans? Perhaps in future we'll write specifically for AI – and be paid for it
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>&#39;There needs to be a better economic as well as copyright framework&#39;, Thomson Reuters CPO tells us</h4> <p><strong>Interview</strong>  Thomson Reuters, based in Canada, recently scored a partial summary judgment against Ross Intelligence, after a US court ruled the AI outfit&#39;s use of the newswire giant&#39;s copyrighted Westlaw content didn&#39;t qualify as fair use.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/interview_with_david_wong/>
+
+---
+
+## Trump yanks CHIPS Act cash unless tech giants pony up more of their own dough
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>Commerce chief threatens to pull grants so firms double down on US spending</h4> <p>More doubt is being cast over the US CHIPS Act program with the Trump administration threatening to halt payments unless companies in line to receive funding commit to substantially expand their own investments.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/trump_chips_act_eo/>
+
+---
+
+## Ways Community College Students Can Get Involved With NASA
+
+date: 2025-04-01, from: NASA breaking news
+
+For many students, the path to a NASA career begins at a community college. These local, two-year institutions offer valuable flexibility and options to those aspiring to be part of the nation’s next generation STEM workforce. NASA offers several opportunities for community college students to expand their horizons, make connections with agency experts, add valuable [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/learning-resources/ways-community-college-students-can-get-involved-with-nasa/>
+
+---
+
+## Google makes end-to-end encrypted Gmail easy for all – even Outlook users
+
+date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+
+<h4>The UK government must be thrilled</h4> <p>Google will soon offer end-to-end encrypted (E2EE) email for all users, even those who do not use Google Workspace, and says it&#39;ll do so without imposing any undue stress on IT admins.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/01/google_e2ee_gmail/>
 
 ---
 
@@ -145,7 +457,7 @@ Written by Natalie Moore, Mission Operations Specialist at Malin Space Science S
 
 date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
 
-<h4>OK, AMD it is, then. Or Nvidia, Arm, Qualcomm, RISC-V, MOS 6502 ...</h4> <p>Intel&#39;s newly appointed CEO Lip-Bu Tan has used his first major speech to admit the x86 goliath needs to shape up, and sketched out plans to turn things around.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>AMD it is, then. Or Nvidia, Arm, Qualcomm, RISC-V, MOS 6502 ...</h4> <p><strong>Vision</strong>  Intel&#39;s newly appointed CEO Lip-Bu Tan has used his first major speech to admit the x86 goliath needs to shape up, and sketched out plans to turn things around.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -371,7 +683,7 @@ A powerful mathematical technique is used to model melting ice and other phenome
 
 ## Windows 11 adds auto-recovery, kills offline setup loophole
 
-date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+date: 2025-03-31, updated: 2025-04-02, from: The Register (UK I.T. News)
 
 <h4>Microsoft giveth with one hand but taketh away with the other</h4> <p>Windows Insiders will soon get their hands on Microsoft&#39;s attempt to ward off another CrowdStrike incident, and the company is also closing a loophole for users who don&#39;t want a Microsoft account.…</p> 
 
@@ -419,7 +731,7 @@ date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
 
 ## European Gaia mapping satellite is retired but proves very tough to kill
 
-date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+date: 2025-03-31, updated: 2025-04-01, from: The Register (UK I.T. News)
 
 <h4>I&#39;m sorry Dave, I can&#39;t do that</h4> <p>The last commands have been sent to the ESA&#39;s Gaia satellite and, after a dozen years scanning the galaxy, the spacecraft is shutting down its computers and boosting out into a retirement orbit around the Sun.…</p> 
 
@@ -443,7 +755,7 @@ date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
 
 ## UK finance watchdog spends millions 'enhancing' Workday software rolled out 4 years ago
 
-date: 2025-03-31, updated: 2025-03-31, from: The Register (UK I.T. News)
+date: 2025-03-31, updated: 2025-04-01, from: The Register (UK I.T. News)
 
 <h4>FCA still splashing on customizing, integrating HR and finance system way after 2021 go-live</h4> <p>The UK&#39;s financial regulator is signing a deal worth up to £12.3 million ($15.9 million) with tech services biz Cognizant to make &#34;enhancements&#34; to a Workday HR and finance system it implemented several years ago.…</p> 
 
