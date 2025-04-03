@@ -1,11 +1,383 @@
 ---
 title: science and technology
-updated: 2025-04-02 06:08:25
+updated: 2025-04-03 06:09:15
 ---
 
 # science and technology
 
-(date: 2025-04-02 06:08:25)
+(date: 2025-04-03 06:09:15)
+
+---
+
+## Why is someone mass-scanning Juniper and Palo Alto Networks products?
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Espionage? Botnets? Trying to exploit a zero-day?</h4> <p>Someone or something is probing devices made by Juniper Networks and Palo Alto Networks, and researchers think it could be evidence of espionage attempts, attempts to build a botnet, or an effort to exploit zero-day vulnerabilities.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/unknown_scanners_probing_juniper_paloalto/>
+
+---
+
+## Zorin OS 17.3 takes the Brave step of changing its default browser from Firefox
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>To be fair, it sounds like the team has ironed out the more controversial features</h4> <p><strong>Comment</strong>  The latest version of Zorin OS, a popular Windows-macOS-like Ubuntu Linux remix, looks good, but there&#39;s one change that causes this vulture some concern.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/zorin_os_173/>
+
+---
+
+## EU: These are scary times – let's backdoor encryption!
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>ProtectEU plan wants to have its cake and eat it too</h4> <p>The EU has issued its plans to keep the continent&#39;s denizens secure and among the pages of bureaucratese are a few worrying sections that indicate the political union wants to backdoor encryption by 2026, or even sooner.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/eu_backdoor_encryption/>
+
+---
+
+## System builders say server prices set to spike as Trump plays customs cowboy
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Tariff moves threaten supply chain stability</h4> <p>The cost of buying servers for business will inevitably rise as a result of US President Donald Trump&#39;s trade policies, at least in the short term, as uncertainty grips the supply chain.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/trump_tariffs_servers/>
+
+---
+
+## Heterogeneous stacks, ransomware, and ITaaS: A DR nightmare
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Recovery&#39;s never been harder in today&#39;s tangled, outsourced infrastructure</h4> <p><strong>Comment</strong>  Disaster recovery is getting tougher as IT estates sprawl across on-prem gear, public cloud, SaaS, and third-party ITaaS providers. And it&#39;s not floods or fires causing most outages anymore - ransomware now leads the pack, taking down systems faster than any natural disaster.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/heterogeneity_itaas_ransomware_disaster_recovery/>
+
+---
+
+## UK government told to get a grip on £23B tech spend
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Former official also points to processes driving up the cost of IT investment</h4> <p>The UK government does not have a clear picture of what it is spending on digital technology, and its approach to buying associated services and products drives up the cost of investment, MPs have heard.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/uk_government_told_to_get/>
+
+---
+
+## On the issue of AI copyright, Blair Institute favors tech bros over Cool Britannia
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Think tank report backs data mining for machine learning, leaving artists and rights holders behind</h4> <p><strong>Opinion</strong>  Former UK prime minister Tony Blair became famous for standing shoulder to shoulder with allies, even though the fallout from the Iraq war forever sullied his reputation. Nonetheless, the institute that bears his name makes it clear who it stands with when it comes to using copyrighted material to fuel the expansion of machine learning into every human domain.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/blair_institute_ai_copyright/>
+
+---
+
+## Customer info allegedly stolen from Royal Mail, Samsung via compromised supplier
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Stamp it out: Infostealer malware at German outfit may be culprit</h4> <p>Britain&#39;s Royal Mail is investigating after a crew calling itself GHNA claimed it has put 144GB of the delivery giant’s data up for sale, perhaps after acquiring it with the same stolen credentials it used to crack Samsung Germany.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/royal_mail_data_spectos/>
+
+---
+
+## OpenStack delivers ‘Epoxy’ release, which it hopes will unglue more VMware customers
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>The BBC and Blizzard Entertainment have chipped in with contributions</h4> <p>The Open InfraFoundation has delivered a new version of OpenStack named “Epoxy” and thinks it’s an even better option for those seeking a VMware alternative.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/openstack_epoxy_released/>
+
+---
+
+## OpenAI wants to bend copyright rules. Study suggests it isn’t waiting for permission
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>GPT-4o likely trained on O’Reilly books without permission, figures appear to show</h4> <p>Tech textbook tycoon Tim O&#39;Reilly claims OpenAI mined his publishing house&#39;s copyright-protected tomes for training data and fed it all into its top-tier GPT-4o model without permission.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/openai_copyright_bypass/>
+
+---
+
+## Wikipedia's overlords bemoan AI bot bandwidth burden
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Crawlers snarfing long-tail content for training and whatnot cost us a fortune</h4> <p>Web-scraping bots have become an unsupportable burden for the Wikimedia community due to their insatiable appetite for online content to train AI models.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/wikimedia_foundation_bemoans_bot_bandwidth/>
+
+---
+
+## Americans set to pay more on all imports: Trump activates blanket tariffs
+
+date: 2025-04-02, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Tech slugged with higher duties, broad base 10% hike, semiconductors avoid retaliatory levies for now</h4> <p>US President Donald Trump has imposed a base ten percent tariff on all imports into America, and higher levies on goods from major producers of digital tech, such as China, South Korea, and Taiwan.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/us_tariffs_liberation_day_announcement/>
+
+---
+
+## Raw Deel: Corporate spy admits role in espionage at HR software biz Rippling
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Double-oh-sh...</h4> <p>The name&#39;s not Bond. It&#39;s O&#39;Brien - Keith O&#39;Brien, now-former global payroll compliance manager at the Dublin, Ireland office of HR software-as-a-service maker Rippling.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/deel_rippling_espionage/>
+
+---
+
+## NASA Makes Progress on Advanced Drone Safety Management System
+
+date: 2025-04-02, from: NASA breaking news
+
+From agriculture and law enforcement to entertainment and disaster response, industries are increasingly turning to drones for help, but the growing volume of these aircraft will require trusted safety management systems to maintain safe operations. NASA is testing a new software system to create an improved warning system – one that can predict hazards to drones before [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/aam/nasa-makes-progress-on-advanced-drone-safety-management-system/>
+
+---
+
+## Pennsylvania’s once top coal power plant eyed for revival as 4.5GW gas-fired AI campus
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Seven gas turbines planned to juice datacenter demand by 2027</h4> <p>Developers on Wednesday announced plans to bring up to 4.5 gigawatts of natural gas-fired power online by 2027 at the site of what was once Pennsylvania&#39;s largest coal plant, as part of a proposed datacenter campus running AI and high-performance computing workloads.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/pennsylvanias_largest_coal_plant/>
+
+---
+
+## Artemis Astronauts & Orion Leadership Visit NASA Ames
+
+date: 2025-04-02, from: NASA breaking news
+
+As NASA prepares to send astronauts to the Moon aboard the Orion spacecraft, research, testing, and development at NASA’s Ames Research Center in California’s Silicon Valley has played a critical role. Recently, Ames welcomed Artemis II astronauts Christina Koch and Victor Glover and Orion leaders Debbie Korth, deputy program manager, and Luis Saucedo, deputy crew [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/ames/artemis-astronauts-and-orion-leadership-visit-nasa-ames/>
+
+---
+
+## What Are the Dangers of Going to Space? We Asked a NASA Expert: Episode 55
+
+date: 2025-04-02, from: NASA breaking news
+
+What are the dangers of going to space? For human spaceflight, the first thing I think about is the astronauts actually strapping themselves to a rocket. And if that isn&#8217;t dangerous enough, once they launch and they&#8217;re out into space in deep exploration, we have to worry about radiation. Radiation is coming at them from [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/what-are-the-dangers-of-going-to-space-we-asked-a-nasa-expert-episode-55/>
+
+---
+
+## NASA Sets Coverage for Crew Launch to Join Station Expedition 72/73
+
+date: 2025-04-02, from: NASA breaking news
+
+NASA astronaut Jonny Kim will launch aboard the Roscosmos Soyuz MS-27 spacecraft to the International Space Station, accompanied by cosmonauts Sergey Ryzhikov and Alexey Zubritsky, where they will join the Expedition 72/73 crew in advancing scientific research. Kim, Ryzhikov, and Zubritsky will lift off at 1:47 a.m. EDT Tuesday, April 8 (10:47 a.m. Baikonur time) [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-sets-coverage-for-crew-launch-to-join-station-expedition-72-73/>
+
+---
+
+## Crimelords at Hunters International tell lackeys ransomware too 'risky'
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Bosses say theft now the name of the game with a shift in tactics, apparent branding</h4> <p>Big-game ransomware crew Hunters International says its criminal undertaking has become &#34;unpromising, low-converting, and extremely risky,&#34; and it is mulling shifting tactics amid an apparent rebrand.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/hunters_international_rebrand/>
+
+---
+
+## Raspberry Pi not affected by Trump tariffs yet while China-tied rivals feel the heat
+
+date: 2025-04-02, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>CEO hails &#39;transformative year&#39; as IPO puts &#39;puter maker on the big board</h4> <p><strong>Updated</strong>  Raspberry Pi hasn&#39;t felt the sting of US tariffs yet, and having its boards built outside China might give it an edge over rivals, analysts reckon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/raspberry_pi_not_affected_by_tariff/>
+
+---
+
+## X-ray Clues Reveal Destroyed Planet
+
+date: 2025-04-02, from: NASA breaking news
+
+This image of the Helix Nebula, released on March 4, 2025, shows a potentially destructive white dwarf at the nebula’s center: this star may have destroyed a planet. This has never been seen before – and could explain a mysterious X-ray signal that astronomers have detected from the nebula for over 40 years. This view combines X-rays [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/x-ray-clues-reveal-destroyed-planet/>
+
+---
+
+## NASA Continues Support for Private Astronaut Missions to Space Station
+
+date: 2025-04-02, from: NASA breaking news
+
+NASA is seeking proposals for two new private astronaut missions to the International Space Station, targeted for 2026 and 2027, as the agency continues its commitment to expanding access to space. These private missions enable American commercial companies to further develop capabilities and support a continuous human presence in low Earth orbit. “We are in [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-continues-support-for-private-astronaut-missions-to-space-station/>
+
+---
+
+## Why Everything in the Universe Turns More Complex
+
+date: 2025-04-02, from: Quanta Magazine
+
+A new suggestion that complexity increases over time, not just in living organisms but in the nonliving world, promises to rewrite notions of time and evolution.            <p>The post <a href="https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/" target="_blank">Why Everything in the Universe Turns More Complex</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/why-everything-in-the-universe-turns-more-complex-20250402/>
+
+---
+
+## Oracle's masterclass in breach comms: Deny, deflect, repeat
+
+date: 2025-04-02, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Fallout shows how what you say must be central to disaster planning</h4> <p><strong>Opinion</strong>  Oracle is being accused of poor incident comms as it reels from two reported data security mishaps over the past fortnight, amid a reluctance to publicly acknowledge all of the events as well as allegedly deleting evidence from the web.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/oracle_breach_disaster_planning/>
+
+---
+
+## Lagniappe for April 2025
+
+date: 2025-04-02, from: NASA breaking news
+
+Explore Lagniappe for April 2025 featuring: Gator Speaks New beginnings feel a lot like the month of April. It is the heart of spring and the season that symbolizes growth and renewal. April is the perfect time to break free from old routines and try something new. If you have landed here in this website [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/stennis/lagniappe-for-april-2025/>
+
+---
+
+## NASA Space Flight Awareness Program Recognizes Stennis Employees
+
+date: 2025-04-02, from: NASA breaking news
+
+NASA’s Stennis Space Center employees were recognized with Honoree Awards from NASA’s Space Flight Awareness Program during a March 10 ceremony in Orlando, Florida, for outstanding support of human spaceflight. Melissa Wagner of Pass Christian, Mississippi,&#160;is a NASA contract specialist in the Office of Procurement at NASA Stennis. She received the honor for contributions to [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/nasa-space-flight-awareness-program-recognizes-stennis-employees/>
+
+---
+
+## Rocket Test Group Visits NASA Stennis
+
+date: 2025-04-02, from: NASA breaking news
+
+NASA Stennis partnered with Mississippi Enterprise for Technology to host more than 100 members of the 57th Rocket Test Group on March 18-19. The group toured the south Mississippi NASA center on March 19, learning how NASA Stennis operates as NASA’s primary, and America’s largest, rocket propulsion test site to serve the nation and commercial [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/rocket-test-group-visits-nasa-stennis/>
+
+---
+
+## Data doesn't lie, but Microsoft's new Power BI prices might make you cry
+
+date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+
+<h4>Hike is no joke and users are not laughing</h4> <p>Microsoft&#39;s Power BI price rises have arrived, with some tiers increasing by up to 40 percent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/02/microsoft_power_bi_hikes/>
+
+---
+
+## Literally Windows on arm: here is Windows running on the Pixel Watch 3
+
+date: 2025-04-02, from: OS News
+
+Right off the bat, there is not that much use for a Pixel Watch with Windows on it. The project, as the maker says, is for &#8220;shits and giggles&#8221; and more like an April Fool&#8217;s joke. However, it shows how capable modern smartwatches are, with the Pixel Watch 3 being powered by a processor with four ARM Cortex A53 cores, 2GB of DDR4X memory, and 32GB of storage. Getting Windows to run on Gustave&#8217;s arm, as you can imagine, took some time and effort of inspecting a rooted boot image, modifying the stock UEFI to run custom UEFI, editing the ACPI table, and patching plenty of other files. The result of all that is a Pixel Watch 3 with Windows PE. ↫ Taras Buria at Neowin More of this sort of nonsense, please. This is such a great idea, especially because it&#8217;s so utterly useless and pointless. However pointless it may be, though, it does show that Windows on ARM is remarkably flexible, as it&#8217;s been ported to a variety of ARM devices it should never be supposed to run on. With Microsoft&#8217;s renewed entry into the ARM world with Windows on ARM and Qualcomm, I would&#8217;ve hoped for more standardisation in the ARM space to bring it closer to the widely compatible world of x86. That, sadly, has not yet happened, and I doubt it ever will &#8211; it seems like ARM is already too big of a fragmented mess to be consolidated for easy portability for operating systems. Instead, individual crazy awesome people have to manually port Windows to other ARM variants, and that, while cool projects, is kind of sad. 
+
+<br> 
+
+<https://www.osnews.com/story/142040/literally-windows-on-arm-here-is-windows-running-on-the-pixel-watch-3/>
+
+---
+
+## FreeDOS: history, legacy, and a valuable resource for old machines
+
+date: 2025-04-02, from: OS News
+
+FreeDOS is a free and open‐source operating system designed to be compatible with MS‑DOS. Developed to keep the DOS experience alive even after Microsoft ended support for MS‑DOS, FreeDOS has grown into a complete environment that not only preserves classic DOS functionality but also introduces modern enhancements. Its simplicity and low resource requirements have made it a cherished resource for retro computing enthusiasts and a practical tool for embedded systems and legacy hardware. ↫ André Machado A short but useful overview of what FreeDOS is. One of my favourite stories about FreeDOS will always be not just that HP offered it as an option on some of its laptops &#8211; supposedly because it couldn&#8217;t sell laptops without an operating system preinstalled &#8211; but also just how convoluted this preinstalled copy of FreeDOS was set up. They shipped several FreeDOS virtual machines on top of a minimal installation of Debian, in a complex web of operating systems and VMs. 
+
+<br> 
+
+<https://www.osnews.com/story/142038/freedos-history-legacy-and-a-valuable-resource-for-old-machines/>
+
+---
+
+## NASA Webb Explores Effect of Strong Magnetic Fields on Star Formation
+
+date: 2025-04-02, from: NASA breaking news
+
+Follow-up research on a 2023 image of the Sagittarius C stellar nursery in the heart of our Milky Way galaxy, captured by NASA’s James Webb Space Telescope, has revealed ejections from still-forming protostars and insights into the impact of strong magnetic fields on interstellar gas and the life cycle of stars.   “A big question […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasa-webb-explores-effect-of-strong-magnetic-fields-on-star-formation/>
 
 ---
 
@@ -49,7 +421,7 @@ date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
 
 date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
 
-<h4>Kept quiet for 30 years before becoming an &#39;unrivalled advocate&#39; for the site</h4> <p><strong>Obit</strong>  Betty Webb MBE, one of the team who worked at the code-breaking Bletchley Park facility during the Second World War, has died at the age of 101.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Tip-lipped for 30 years before becoming an &#39;unrivaled advocate&#39; for the site</h4> <p><strong>Obit</strong>  Betty Webb MBE, one of the team who worked at the code-breaking Bletchley Park facility in England during the Second World War, has died at the age of 101.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -359,7 +731,7 @@ date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
 
 ## RISC OS Open plots great escape from 32-bit purgatory
 
-date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+date: 2025-04-01, updated: 2025-04-03, from: The Register (UK I.T. News)
 
 <h4>Modern 64-bit-only chips are leaving the original Arm operating system behind</h4> <p>A new funding effort from RISC OS Open seeks to modernize the operating system for future Arm hardware.…</p> 
 
@@ -467,7 +839,7 @@ date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
 
 ## Generative AI app goes dark after child-like deepfakes found in open S3 bucket
 
-date: 2025-04-01, updated: 2025-04-01, from: The Register (UK I.T. News)
+date: 2025-04-01, updated: 2025-04-03, from: The Register (UK I.T. News)
 
 <h4>Producing this stuff is bad enough, but d&#39;ya really have to leave all of it on the web for anyone to find?</h4> <p>Jeremiah Fowler, an Indiana Jones of insecure systems, says he found a trove of sexually explicit AI-generated images exposed to the public internet – all of which disappeared after he tipped off the team seemingly behind the highly questionable pictures.…</p> 
 

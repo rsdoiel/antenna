@@ -1,11 +1,351 @@
 ---
 title: home
-updated: 2025-04-02 06:08:29
+updated: 2025-04-03 06:09:20
 ---
 
 # home
 
-(date: 2025-04-02 06:08:29)
+(date: 2025-04-03 06:09:20)
+
+---
+
+## Shasta Daisies: Planting, Growing and Care Guide
+
+date: 2025-04-03, from: The Gardener's Path
+
+<p>Shasta daisy is a popular plant that adds a pop of fresh, bright summer color. This sturdy beauty is an easy and versatile perennial to have in your garden, whether you use it in a border or as a cut flower. Learn all about how to grow, propagate, and care for this robust plant in our guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-shasta-daisy/">Shasta Daisies: Planting, Growing and Care Guide</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-shasta-daisy/>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-03, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
+
+---
+
+## 20 New Garden Books to Order This Spring
+
+date: 2025-04-03, from: Sunset Magazine - Living in the West
+
+From climate-resilient gardening to no-dig veggie hacks, these fresh and upcoming book releases will change the way you garden. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/garden-books-for-spring>
+
+---
+
+## How Copper Tariffs Could Make Everything Way More Expensive
+
+date: 2025-04-02, from: Family Handyman Blog
+
+<p>With new tariffs looming, copper prices are set to rise soon. Find out what this might mean for you and your projects. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/how-copper-tariffs-could-make-everything-way-more-expensive/">How Copper Tariffs Could Make Everything Way More Expensive</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/how-copper-tariffs-could-make-everything-way-more-expensive/>
+
+---
+
+## Take Your Lawn to the Next Level With the Coolest New Shrubs
+
+date: 2025-04-02, from: Family Handyman Blog
+
+<p>Don't settle for ordinary shrubs when deciding what to plant in your yard. These new and improved cultivars are a step above the rest.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/new-shrubs-2025/">Take Your Lawn to the Next Level With the Coolest New Shrubs</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/new-shrubs-2025/>
+
+---
+
+## 10 Brilliant Entryway Shelf Ideas You Can DIY
+
+date: 2025-04-02, from: Family Handyman Blog
+
+<p>Entryway shelves can serve as a place to store items and add personality to a space. Keep reading to find DIY options to get the creative juices flowing.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/entryway-shelf-ideas/">10 Brilliant Entryway Shelf Ideas You Can DIY</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/entryway-shelf-ideas/>
+
+---
+
+## Traffic Cameras and Road Sensors Every Driver Should Know
+
+date: 2025-04-02, from: Family Handyman Blog
+
+<p>Smile...you're on camera. When you're driving, here's how to distinguish the friendly cameras from the ones that can make you pay a fine.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/traffic-cameras-and-road-sensors-every-driver-should-know/">Traffic Cameras and Road Sensors Every Driver Should Know</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/traffic-cameras-and-road-sensors-every-driver-should-know/>
+
+---
+
+## The Truth About Using Salt to Eliminate Weeds
+
+date: 2025-04-02, from: Family Handyman Blog
+
+<p>It sounds affordable and environmentally friendly, and it can work, but there are dangers with using salt in your driveway and yard.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/does-salt-kill-weeds/">The Truth About Using Salt to Eliminate Weeds</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/does-salt-kill-weeds/>
+
+---
+
+## If You Love Pastels, Here’s a Pink and Pistachio Berlin Flat for €2.4M
+
+date: 2025-04-02, from: Dwell
+
+Situated in the heart of the city, the 2,045-square-foot apartment has been refreshed with vibrant hues, terrazzo, and high-end appliances. 
+
+<br> 
+
+<https://www.dwell.com/article/pastel-apartment-renovation-albert-gottheimer-mitte-berlin-real-estate-2c2d5eed>
+
+---
+
+## Tips for Growing Cushaw Squash
+
+date: 2025-04-02, from: The Gardener's Path
+
+<p>Cushaw squash is a large winter variety, with delicious, meaty, moist flesh. The fruits are shaped like crooknecks and can weigh up to 20 pounds. Since you're unlikely to find them at the grocery store or farmer’s market, you'll need to grow your own. Learn how to plant and grow cushaw squash in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/grow-cushaw-squash/">Tips for Growing Cushaw Squash</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/grow-cushaw-squash/>
+
+---
+
+## Charred Pine Brings a Dramatic Finish to a Coastal Cabin in Denmark
+
+date: 2025-04-02, from: Dwell
+
+The four-room compound’s allover velvety black cladding contrasts its grassy setting. 
+
+<br> 
+
+<https://www.dwell.com/article/house-with-a-hidden-atrium-forstberg-ling-black-cabin-1e7be0a7>
+
+---
+
+## Budget Breakdown: They Built a Net-Positive Home in the Hamptons for $3.2 Million
+
+date: 2025-04-02, from: Dwell
+
+After moving back to New York from Japan, one woman calls an old college friend at Khanna Schultz Architecture to design a solar-powered house that can feed electricity back to the grid. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-house-in-the-lanes-khanna-schultz-net-positive-hamptons-home-896cbc61>
+
+---
+
+## The Story Behind Our Special LA Fires Issue
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Our new special issue reflecting on the LA wildfires is an homage to what we’ve lost and a guidebook for reviving what we hold so dear. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/essay/behind-sunset-special-la-wildfire-issue>
+
+---
+
+## How to Identify and Control Woolly Aphids
+
+date: 2025-04-02, from: The Gardener's Path
+
+<p>Woolly aphids are plant-sucking insects that cover themselves with a fluffy, waxy coating, making them look like little cotton balls. They feed on shrubs and trees, and are mainly a cosmetic concern. This guide covers everything you need to know about these pests, including the strategies you can use to control them.</p>
+<p>The post <a href="https://gardenerspath.com/how-to/disease-and-pests/control-woolly-aphids/">How to Identify and Control Woolly Aphids</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/how-to/disease-and-pests/control-woolly-aphids/>
+
+---
+
+## How They Pulled It Off: A 48-Foot Glass Hallway Joins a Pair of 200-Year-Old Homes
+
+date: 2025-04-02, from: Dwell
+
+In New Orleans, design firm Mason Ros came up with a gallery-like addition that links an 1830s-era Creole cottage to its next-door neighbor. 
+
+<br> 
+
+<https://www.dwell.com/article/mason-ros-creole-cottage-shotgun-house-e7136a7d>
+
+---
+
+## Why California Is Still Worth Fighting For
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Sunset's chairman and publisher, Michael A. Reinstein, reflects on the Los Angeles wildfires. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/essay/why-california-is-still-worth-fighting-for>
+
+---
+
+## From Traditional to Modern, Here Are All the Ways You Can Decorate Your Table for Easter (and Spring!)
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+It’s time to hop to it if you want to get started on decorating for Easter. These are the best decor finds for spring. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/design/easter-table-decor>
+
+---
+
+## Here’s Everything Worth Buying from Amazon’s Big Spring Sale, According to Our Editors
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Amazon is hosting its Big Spring Sale from March 25 to March 31. Our editors share the best deals worth shopping. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/amazon-spring-sale-2025>
+
+---
+
+## Sunset.com Home Page
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
+
+<br> 
+
+<https://www.sunset.com/front>
+
+---
+
+## Rams Announcer Sam Laganà on Staying to Fight the Fires
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Armed with a garden hose and a lifelong love of Pacific Palisades, Sam Laganà stayed to fight the Palisades wildfire. This is his story. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/sam-lagana-palisades-fire-interview>
+
+---
+
+## Salomón Huerta on Art and Altadena
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Painter Salomón Huerta recalls the harrowing moments of escaping his Altadena home and haven during the Eaton Fire. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/salomon-huerta-on-the-altadena-eaton-fire>
+
+---
+
+## Amanda Gorman’s Poem ‘Smoldering Dawn’
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Poet Amanda Gorman shares a poem about the Los Angeles wildfires, that offers a message of resilience and a look forward. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/smoldering-dawn-amanda-gorman-poem>
+
+---
+
+## A Helicopter Firefighter’s View From Above
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+A Cal Fire Battalion Chief describes the harrowing first days of fighting the L.A. fires from the cockpit of a helicopter. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/calfire-batallion-chief-sean-ketchum>
+
+---
+
+## Alison Martino’s Reflections on Loss
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Los Angeles history expert, TV personality, writer, and lifelong Angeleno, Alison Martino mourns the loss from the L.A. fires. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/alison-martino-wildfire-essay>
+
+---
+
+## Amber Lewis on Rebuilding the California Home
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Designer Amber Lewis shares her thoughts on rising to the challenges of rebuilding the California dream home after the Palisades Fire. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/amber-lewis-los-angeles-wildfires-rebuild>
+
+---
+
+## Why I’m Never Leaving Malibu
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Podcaster Rich Roll on impermanence, uncertainty, and not giving up on the Malibu land he loves in the wake of the Palisades Fire. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/rich-roll-malibu-california-wildfires>
+
+---
+
+## A Photographic Love Letter to California
+
+date: 2025-04-02, from: Sunset Magazine - Living in the West
+
+Sunset Staff Photographer Thomas J. Story on the allure of California. Here he shares some photos from his archives. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/culture/love-letter-to-california-photo-essay>
 
 ---
 
@@ -113,6 +453,18 @@ Calming interiors open up to verdant gardens and tranquil indoor/outdoor living.
 <br> 
 
 <https://www.dwell.com/article/sothebys-international-lagoon-scottsdale-real-estate-ef2ef95b>
+
+---
+
+## In Los Angeles, a Modern Farmhouse With an ADU and Pickleball Court Seeks $8.9M
+
+date: 2025-04-01, from: Dwell
+
+A sleek and soothing escape in Bel Air awaits. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-azul-farmhouse-los-angeles-beach-real-estate-76897857>
 
 ---
 
@@ -323,18 +675,6 @@ The West is cities and small towns, national parks and wine country, natural won
 
 ---
 
-## Sunset.com Home Page
-
-date: 2025-04-01, from: Sunset Magazine - Living in the West
-
-Sunset is the leading Western lifestyle brand. We deliver travel ideas, home design and gardening inspiration, and recipes that celebrate the West and its bounty. 
-
-<br> 
-
-<https://www.sunset.com/>
-
----
-
 ## 34 Best House Plants That Purify The Air (With Pictures)
 
 date: 2025-04-01, from: Yard Life blog
@@ -540,18 +880,6 @@ Red, yellow, and blue are the foundation of the color wheel, but not the obvious
 <br> 
 
 <https://www.sunset.com/home-garden/design/how-to-decorate-with-primary-colors>
-
----
-
-## Here’s Everything Worth Buying from Amazon’s Big Spring Sale, According to Our Editors
-
-date: 2025-03-30, from: Sunset Magazine - Living in the West
-
-Amazon is hosting its Big Spring Sale from March 25 to March 31. Our editors share the best deals worth shopping. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/shopping/amazon-spring-sale-2025>
 
 ---
 

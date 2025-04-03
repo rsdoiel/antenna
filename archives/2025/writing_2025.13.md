@@ -1,11 +1,174 @@
 ---
 title: writing
-updated: 2025-04-02 06:08:27
+updated: 2025-04-03 06:09:17
 ---
 
 # writing
 
-(date: 2025-04-02 06:08:27)
+(date: 2025-04-03 06:09:17)
+
+---
+
+## China’s Controversial Court Rulings on AI Output—and How It May Affect People in the US
+
+date: 2025-04-03, from: Author's Union blog
+
+Chinese courts are recognizing AI-generated works as copyrightable, and these rulings could potentially impact those in the US under certain circumstances. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/04/03/chinas-controversial-court-rulings-on-ai-output-and-how-it-may-affect-people-in-the-us/>
+
+---
+
+## Scriptnotes, Episode 682: The Second Season with Tony Gilroy, Transcript
+
+date: 2025-04-02, from: John August blog
+
+The original post for this episode can be found here. John August: Hey, this is John. A standard warning for people who are in the car with their kids. There’s some swearing in this episode. [music] John: Hello and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You’re listening [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-682-the-second-season-with-tony-gilroy-transcript">Scriptnotes, Episode 682: The Second Season with Tony Gilroy, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-682-the-second-season-with-tony-gilroy-transcript>
+
+---
+
+## Society of Illustrators Hall of Fame
+
+date: 2025-04-02, from: Locus Magazine
+
+<p>The Society of Illustrators has announced the 2025 inductees into its Hall of Fame. Honorees &#8220;are chosen based on their body of work and the impact it has made on the field of illustration.&#8221;</p>
+<p><b>2025 Hall of Fame Laureates
+</b></p>
+<div class="mynomorebulletlist">
+<ul>
+<li>Peter Arno</li>
+<li>Rudy Gutierrez</li>
+<li>Kadir Nelson</li>
+<li>Tim O’Brien</li>
+<li>Frank R. Paul</li>
+<li>Marie Severin</li>
+</ul>
+</div>
+<p>The artists will be honored at the 2025 Hall of Fame Induction Ceremony, to be held October 9,  <a href="https://locusmag.com/2025/04/society-of-illustrators-hall-of-fame-3/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/society-of-illustrators-hall-of-fame-3/>
+
+---
+
+## 2025 Nebula Conference Registration Opens
+
+date: 2025-04-02, from: Locus Magazine
+
+<p><strong></strong></p>
+<p>The Science Fiction &#38; Fantasy Writers Association (SFWA) has opened registration for the 2025 Nebula Conference and Award Ceremony, to be held June 5-8, 2025 in Kansas City MO and online.</p>
+<p>Registration may be purchased at this link.</p>
+<p>Registration to attend the in-person conference is $375.00. The ticket is all-inclusive and grants access to &#8220;in-person programming &#38; events, the Nebula Banquet and Ceremony, and&#8230; online recorded content at events.sfwa.org until  <a href="https://locusmag.com/2025/04/2025-nebula-conference-registration-opens/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-nebula-conference-registration-opens/>
+
+---
+
+## 2025 Joyce Carol Oates Prize Finalists
+
+date: 2025-04-02, from: Locus Magazine
+
+<p><strong></strong>The 2025 Joyce Carol Oates Prize has announced its list of five finalists. The award honors &#8220;mid-career authors in fiction,&#8221; and the winner receives a $50,000 prize and a residence at the University of California, Berkeley and/or Bay Area. The award is given by the New Literary Project. Works and authors of genre interest include:</p>
+<div class="mynomorebulletlist">
+<ul>
+<li><strong>Say Hello to My Little Friend</strong>, Jennine Capó Crucet (Simon &#38; Schuster)</li>
+<li><strong>Bear</strong>, </li></ul></div> <a href="https://locusmag.com/2025/04/2025-joyce-carol-oates-prize-finalists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-joyce-carol-oates-prize-finalists/>
+
+---
+
+## 2026 Crawford Award Submissions Open
+
+date: 2025-04-02, from: Locus Magazine
+
+<p>The judges for the Crawford Award, which honors &#8220;an author’s first work of fantasy in book form,&#8221; are soliciting books published in the year 2025 between March 30 and December 31, 2025. What qualifies as a book is flexible: &#8220;In addition to novels and novellas, collections of poetry, short stories, and fiction aimed at younger readers are all eligible.&#8221; The Crawford Award will be given at the International Conference of  <a href="https://locusmag.com/2025/04/2026-crawford-award-submissions-open/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2026-crawford-award-submissions-open/>
+
+---
+
+## Scriptnotes, Episode 681: The Waiting Game, Transcript
+
+date: 2025-04-02, from: John August blog
+
+The original post for this episode can be found here. John August: Hello, and welcome. My name is John August. Craig Mazin: My name is Craig Mazin. John: You’re listening to Episode 681 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the show, what do you do when [&#8230;]
+The post <a href="https://johnaugust.com/2025/scriptnotes-episode-681-the-waiting-game-transcript">Scriptnotes, Episode 681: The Waiting Game, Transcript</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
+
+<br> 
+
+<https://johnaugust.com/2025/scriptnotes-episode-681-the-waiting-game-transcript>
+
+---
+
+## Big Break Winner Joseph Greenberg’s advice for screenwriters
+
+date: 2025-04-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/big-break-winner-joe-greenbergs-advice-for-screenwriters" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Image%20of%20Big%20Break%20Winner%20Joe%20Greenberg%20standing%20in%20front%20of%20a%20brick%20wall.png" alt="Image of Big Break Winner Joe Greenberg standing in front of a brick wall wearing a red t-shirt" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Breaking into Hollywood as a screenwriter can seem almost impossible at times, like a hero trying to enter an impenetrable fortress. But <a href="https://www.imdb.com/name/nm1692159/?ref_=nv_sr_srsg_4_tt_0_nm_8_in_0_q_Joe%2520Greenberg">Joseph Greenberg’s</a> journey, from contest winner to having his scripts set up with major talent attached, offers an invaluable guide for up-and-coming writers.&nbsp;<br><br>After his script <a href="https://deadline.com/2016/04/noah-hawley-man-alive-sci-fi-movie-fox-joe-greenberg-1201742376/"><span style="font-style: italic;">Man Alive</span></a> won Final Draft’s <a href="https://www.finaldraft.com/big-break-screenwriting-contest/">Big Break</a> screenwriting competition in the sci-fi category in 2014, it was acquired by 20th Century Fox with Noah Hawley attached to direct. Now, his latest project <a href="https://deadline.com/2025/02/dave-bautista-star-in-dreadnought-for-john-wick-producer-thunder-road-1236284883/"><span style="font-style: italic;">Dreadnought</span></a> is in development with Dave Bautista set to star.&nbsp;<br><br>Final Draft caught up with Joseph to hear about his amazing journey since winning his Big Break category, and to get his advice for emerging screenwriters on navigating a screenwriting career.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/big-break-winner-joe-greenbergs-advice-for-screenwriters>
+
+---
+
+## Griffith Named SFWA Grand Master
+
+date: 2025-04-02, from: Locus Magazine
+
+<p>The Science Fiction &#38; Fantasy Writers Association (SFWA) has named Mercedes Lackey the 41st recipient of the Damon Knight Memorial Grand Master Award.</p>
+<p>SFWA President Kate Ristau said,</p>
+<p>It is SFWA’s honor to recognize and celebrate Nicola’s past achievements, while looking forward to her future triumphs. Her work continues to inspire and challenge me, and when asked to pick a Grand Master to lead us into our Diamond Year, I  <a href="https://locusmag.com/2025/04/griffith-named-sfwa-grand-master/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/griffith-named-sfwa-grand-master/>
+
+---
+
+## How are Movies Made?
+
+date: 2025-04-02, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-are-movies-made" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Close-up%20on%20a%20slate.%20Behind%20the%20slate%20is%20a%20movie%20set%20of%20a%20space%20ship%20pointing%20towards%20the%20Earth%20with%20a%20camera%20assistant%20adjusting%20a%20crane.png" alt="Close-up on a slate. Behind the slate is a movie set of a space ship pointing towards the Earth with a camera assistant adjusting a crane in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Ever watched a movie and wondered “How did they make this?”<br><br>From a screenwriter first getting an idea to a director delivering a final cut, there are numerous steps in the making of a movie and not every journey from page to screen is the same. Some movies get made after years – sometimes even decades – of development. Other movies are quickly greenlit. Some movies are made independently. Other movies are made by a major studio. Some have trouble free productions. Others are marred by difficulties. Every scenario is different and dependent on various factors.<br><br>That being said, there are <span style="font-weight: bold;">5 stages</span> to the making of pretty much any movie:</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-are-movies-made>
+
+---
+
+## Clarkesworld: Short Fiction Reviews by A.C. Wise
+
+date: 2025-04-02, from: Locus Magazine
+
+<p>Clarkesworld 1/25</p>
+<p><strong>Zun Yu Tan</strong>’s “<strong>When There Are Two of You: A Documentary</strong>” in the January issue of Clarkesworld is set in a world where people can implant digital clones of themselves in their heads or have them uploaded into artificial bodies. The story is told in alternating sections between a woman with a Sentience in her head, and a digital clone in an artificial body, effectively  <a href="https://locusmag.com/2025/04/clarkesworld-short-fiction-reviews-by-a-c-wise-7/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/clarkesworld-short-fiction-reviews-by-a-c-wise-7/>
 
 ---
 
@@ -75,7 +238,9 @@ date: 2025-04-01, from: John August blog
 John and Craig welcome writer and showrunner Tony Gilroy (Andor, Michael Clayton) for an in-depth look at crafting a second season of a hit TV show. They look at ways to find your season’s structure, setting your production up for success, controlling the energy your audience spends on information, and how to wrap up your [&#8230;]
 The post <a href="https://johnaugust.com/2025/the-second-season-with-tony-gilroy">The Second Season with Tony Gilroy</a> first appeared on <a href="https://johnaugust.com">John August</a>. 
 
-<br> 
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/682standard.mp3"></source>
+</audio> <a href="http://media.blubrry.com/scriptnotes/traffic.libsyn.com/scriptnotes/682standard.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://johnaugust.com/2025/the-second-season-with-tony-gilroy>
 

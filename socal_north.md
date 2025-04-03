@@ -1,23 +1,410 @@
 ---
 title: socal north
-updated: 2025-04-02 06:08:24
+updated: 2025-04-03 06:09:14
 ---
 
 # socal north
 
-(date: 2025-04-02 06:08:24)
+(date: 2025-04-03 06:09:14)
 
 ---
 
-## Sunny skies and breezy, with mild temps
+## Best things to do this weekend in LA and SoCal
 
-date: 2025-04-02, updated: 2025-04-02, from: The LAist
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
 
-Sunny and breezy weather today. Wind gusts up to 25 mph. 
+The UCLA women's basketball team in the Final Four, a Homeboy Industries musical, a White Lotus finale party, Shakespeare at a bar and more of the best things to do this weekend. 
 
 <br> 
 
-<https://laist.com/news/climate-environment/sunny-and-breezy-high-near-65-degrees>
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-april-4-6>
+
+---
+
+## How much toxic heavy metal is in that bright red fire retardant? We had it tested to find out
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+An LAist investigation found arsenic, cadmium, chromium and lead in samples of fire retardant collected from the Palisades, Eaton and Franklin fires. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out>
+
+---
+
+## A mostly sunny day before possible thunderstorms
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+Clear skies for Southern California before showers and possible thunderstorms this afternoon. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/a-mostly-sunny-day-could-lead-to-afternoon-rain>
+
+---
+
+## With Huntington Beach's voter ID law in court, President Trump looms large
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+Huntington Beach wants to enforce its own voter ID rules — and the state is seeking a court order to stop them. 
+
+<br> 
+
+<https://laist.com/news/politics/how-president-trump-is-looming-over-huntington-beach-voter-id-bid>
+
+---
+
+## Desperate for money while fighting a massive landslide, Rancho Palos Verdes plans to make its case in Washington
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+The city is tapping a lobbying firm to make the case in D.C. for more help in shoring up a landslide that is slowly destroying entire neighborhoods. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-funding-washington>
+
+---
+
+## Is the margarita LA’s (un)official cocktail?
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+A new book, 'Margarita Time' by Caroline Pardilla, explores how one Mexican cocktail captured our heart. 
+
+<br> 
+
+<https://laist.com/news/food/is-the-margarita-las-unofficial-cocktail>
+
+---
+
+## El Costo de Sus Encimeras: los Trabajadores de la Fabricación de Piedra Mueren de Silicosis
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="592" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1536%2C889&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1200%2C694&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=780%2C451&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=400%2C231&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=706%2C408&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Esta es la parte 1 de una serie sobre la silicosis. Eric Reyes-Barriga aprendió por primera vez a cortar y pulir piedra en un pequeño taller en Sun Valley, donde [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/el-costo-de-sus-encimeras-los-trabajadores-de-la-fabricacion-de-piedra-mueren-de-silicosis/">El Costo de Sus Encimeras: los Trabajadores de la Fabricación de Piedra Mueren de Silicosis</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/el-costo-de-sus-encimeras-los-trabajadores-de-la-fabricacion-de-piedra-mueren-de-silicosis/>
+
+---
+
+## UCLA Abre un Centro de Éxito Latinx en el Día de César Chávez
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="541" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?fit=1024%2C541&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1024%2C541&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=768%2C406&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1536%2C812&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1200%2C634&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=780%2C412&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=400%2C211&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=706%2C373&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?fit=1024%2C541&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>En medio de los recortes nacionales a los programas de diversidad, equidad e inclusión (DEI, por sus siglas en inglés), la Universidad de California en Los Ángeles (UCLA, por sus [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/ucla-abre-un-centro-de-exito-latinx-en-el-dia-de-cesar-chavez/">UCLA Abre un Centro de Éxito Latinx en el Día de César Chávez</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/ucla-abre-un-centro-de-exito-latinx-en-el-dia-de-cesar-chavez/>
+
+---
+
+## Horóscopo
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Por Holiday Mathis (Creators.com) ARIES (21 de mar &#8211; 19 de abr) Al igual que el aceite caliente a un grano de palomitas de maíz, esta semana trae mucha atención [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/horoscopo-208/">Horóscopo</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/horoscopo-208/>
+
+---
+
+## EVENTOS Locales – Semana de 3 de abril, 2025
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Viernes, Abril 4 Mercado de Creadores Lawless Brewing Co. 5275 Craner Ave. North Hollywood 5 p.m. – 9 p.m. Celebra a la comunidad creativa echando un vistazo a 25+ creadores [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/eventos-locales-semana-de-3-de-abril-2025/">EVENTOS Locales &#8211; Semana de 3 de abril, 2025</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/eventos-locales-semana-de-3-de-abril-2025/>
+
+---
+
+## Manifestantes Marchan en Pacoima para Honrar el Legado de César Chávez y Denunciar las Deportaciones Masivas de Trump
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>El día antes del feriado estatal en honor al fallecido líder sindical y activista de los derechos civiles César Chávez, cientos de manifestantes se reunieron en la Escuela Primaria Charter [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/manifestantes-marchan-en-pacoima-para-honrar-el-legado-de-cesar-chavez-y-denunciar-las-deportaciones-masivas-de-trump/">Manifestantes Marchan en Pacoima para Honrar el Legado de César Chávez y Denunciar las Deportaciones Masivas de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/manifestantes-marchan-en-pacoima-para-honrar-el-legado-de-cesar-chavez-y-denunciar-las-deportaciones-masivas-de-trump/>
+
+---
+
+## Magnolia Science Academy 5 Ofrece Paquetes de Atención ‘Conozca Sus Derechos’ a las Familias
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Los consejeros escolares de Magnolia Science Academy 5 (MSA-5), una escuela chárter en Reseda para estudiantes de 6º a 12º grado, se unieron para entregar paquetes de atención de “Conozca [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/magnolia-science-academy-5-ofrece-paquetes-de-atencion-conozca-sus-derechos-a-las-familias/">Magnolia Science Academy 5 Ofrece Paquetes de Atención ‘Conozca Sus Derechos’ a las Familias</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/magnolia-science-academy-5-ofrece-paquetes-de-atencion-conozca-sus-derechos-a-las-familias/>
+
+---
+
+## La Marcha de César Chávez en Todo el Estado Demostró Solidaridad y ‘la Unión Hace la Fuerza’
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Para Tejinder Dhami, oficial de seguridad y delegado sindical del Sindicato Internacional de Empleados de Servicios (SEIU, por sus siglas en inglés), estar entre las aproximadamente 5,000 personas en la [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/la-marcha-de-cesar-chavez-en-todo-el-estado-demostro-solidaridad-y-la-union-hace-la-fuerza/">La Marcha de César Chávez en Todo el Estado Demostró Solidaridad y ‘la Unión Hace la Fuerza’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/la-marcha-de-cesar-chavez-en-todo-el-estado-demostro-solidaridad-y-la-union-hace-la-fuerza/>
+
+---
+
+## Xavier Becerra Anuncia su Candidatura a Gobernador de California
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>LOS ÁNGELES (CNS) &#8211; El excongresista de Los Ángeles Xavier Becerra anunció su candidatura para la carrera por la gobernación de California en 2026 el miércoles 2 de abril, uniéndose [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/xavier-becerra-anuncia-su-candidatura-a-gobernador-de-california/">Xavier Becerra Anuncia su Candidatura a Gobernador de California</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/xavier-becerra-anuncia-su-candidatura-a-gobernador-de-california/>
+
+---
+
+## El Mundial conjunto EEUU-Canadá-México Pasa de Unidad a Tensiones por Aranceles y ‘Estado 51’
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?w=2482&amp;ssl=1 2482w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Por Howard Fendrich  WASHINGTON (AP) — Hace siete años, cuando una candidatura conjunta de Estados Unidos, Canadá y México fue premiada con la sede de la Copa del Mundo 2026, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/el-mundial-conjunto-eeuu-canada-mexico-pasa-de-unidad-a-tensiones-por-aranceles-y-estado-51/">El Mundial conjunto EEUU-Canadá-México Pasa de Unidad a Tensiones por Aranceles y &#8216;Estado 51&#8217;</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/el-mundial-conjunto-eeuu-canada-mexico-pasa-de-unidad-a-tensiones-por-aranceles-y-estado-51/>
+
+---
+
+## LAMC Organiza la 19ª Conferencia Anual de la Asociación de Educadores Raciales
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="844" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?fit=1024%2C844&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?w=1638&amp;ssl=1 1638w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?resize=300%2C247&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?resize=1024%2C844&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?resize=768%2C633&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?resize=1536%2C1266&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?resize=1200%2C989&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?resize=780%2C643&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?resize=400%2C330&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?resize=706%2C582&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ARE-002-e1743648286528.jpg?fit=1024%2C844&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Educadores de todo California asistieron a la 19ª Conferencia Estatal de la Asociación Anual de Educadores de Raza (ARE, por sus siglas en inglés), titulada &#8220;Tierra, río, mar: los estudios [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/02/lamc-organiza-la-19a-conferencia-anual-de-la-asociacion-de-educadores-raciales/">LAMC Organiza la 19ª Conferencia Anual de la Asociación de Educadores Raciales</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/02/lamc-organiza-la-19a-conferencia-anual-de-la-asociacion-de-educadores-raciales/>
+
+---
+
+## DA files manslaughter, DUI charges in July 3 boat crash that killed 1, seriously injured 7
+
+date: 2025-04-03, from: Longbeach Post
+
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-300x225.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-144x108.jpg 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-800x600.jpg 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-600x450.jpg 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-200x150.jpg 200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Prosecutors allege that Kevin King was drunk when he crashed his 48-foot sportfishing boat into an Alamitos Bay jetty with ten passengers aboard.</p>
+<p>The post <a href="https://lbpost.com/news/crime/july-4-boat-crash-charges-dui-manslaughter-kevin-king-john-correa">DA files manslaughter, DUI charges in July 3 boat crash that killed 1, seriously injured 7</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/july-4-boat-crash-charges-dui-manslaughter-kevin-king-john-correa>
+
+---
+
+## Fast food workers want more job protections. What will LA City Council do about it?
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+The City Council is considering how to expand an existing policy, the “Fair Work Week” ordinance, to fast food workers. 
+
+<br> 
+
+<https://laist.com/news/politics/fast-food-workers-job-protections-la-city-council-report>
+
+---
+
+## California just blew a deadline for voter-approved healthcare measure — losing millions of federal dollars
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+The unclaimed money is tied to Proposition 35, a ballot measure passed by 68% of voters in November. The measure committed money from a special tax on health insurance plans to increase payments to doctors and healthcare facilities that treat low-income patients in Medi-Cal, the state’s Medicaid program. 
+
+<br> 
+
+<https://laist.com/news/health/california-just-blew-a-deadline-for-voter-approved-healthcare-measure-losing-millions-of-federal-dollars>
+
+---
+
+## With broken streetlight complaints on the rise in LA — 46K last year alone — lag on repairs keeps growing
+
+date: 2025-04-02, updated: 2025-04-03, from: The LAist
+
+City officials point to a fee that's stayed stagnant for almost 30 years for why estimated repair times are now creeping up to a year or more. 
+
+<br> 
+
+<https://laist.com/news/transportation/repair-broken-street-lights-la-city-council-fee-increase>
+
+---
+
+## LAX FlyAway bus service ticket prices go up, with another increase possible
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+One-way ticket prices went up April 2. Here’s what to do if you bought a ticket before. 
+
+<br> 
+
+<https://laist.com/news/transportation/lax-flyaway-bus-service-ticket-increase>
+
+---
+
+## LBPD should improve how it handles aftermath of police shootings, oversight office says
+
+date: 2025-04-02, from: Longbeach Post
+
+<figure><img width="1024" height="561" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/06160230/06feb25-police-8-335788-gnialeqs-533898-axYPkb2A-1024x561.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/06160230/06feb25-police-8-335788-gnialeqs-533898-axYPkb2A-1024x561.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/06160230/06feb25-police-8-335788-gnialeqs-533898-axYPkb2A-300x164.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/06160230/06feb25-police-8-335788-gnialeqs-533898-axYPkb2A-768x420.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/06160230/06feb25-police-8-335788-gnialeqs-533898-axYPkb2A-192x105.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/06160230/06feb25-police-8-335788-gnialeqs-533898-axYPkb2A-400x219.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/02/06160230/06feb25-police-8-335788-gnialeqs-533898-axYPkb2A.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Its first-ever set of annual recommendations includes steps Long Beach police could take to avoid inflaming tensions with the families of people killed or injured by officers.</p>
+<p>The post <a href="https://lbpost.com/news/city/long-beach-police-oversight-shootings-brandon-boyd">LBPD should improve how it handles aftermath of police shootings, oversight office says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/long-beach-police-oversight-shootings-brandon-boyd>
+
+---
+
+## This dense neighborhood has been voted LA’s worst parking
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+Nearly 50 parking lots and garages were entered, but only one was crowned the worst of the worst. 
+
+<br> 
+
+<https://laist.com/news/transportation/worst-parking-los-angeles-competition-winner>
+
+---
+
+## LA County looks to improve support for vulnerable, older people during disasters
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+A motion passed on Tuesday directs county departments to study making a registry of people who may need more help evacuating. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-looks-to-improve-support-for-vulnerable-older-people-during-disasters>
+
+---
+
+## Trump unveils 10% tariff on all imports and 'reciprocal' tariffs on dozens of nations
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+Trump said his administration will apply a 10% tariff on all imports, and that other trading partners will face additional "reciprocal tariffs" ranging as high as 49%. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-unveils-10-tariff-on-all-imports-plus-reciprocal-tariffs-dozens-of-nations>
+
+---
+
+## The Cube Seeks Restaurant Partner
+
+date: 2025-04-02, from: City of Santa Clarita
+
+<p>Requests for Proposals Process Begins for Dining Space American Sports Entertainment Company (ASEC) and the LA Kings, collectively referred to as JV Ice at The Cube, are seeking proposals to license restaurant and bar space at The Cube – Ice and Entertainment Center, powered by FivePoint Valencia, located at 27745 Smyth Drive in Valencia. The [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/02/the-cube-seeks-restaurant-partner/">The Cube Seeks Restaurant Partner</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/02/the-cube-seeks-restaurant-partner/>
+
+---
+
+## Judge orders White House to restore legal aid to unaccompanied migrant children
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+A federal judge in California has ordered the Trump administration to temporarily restore legal aid to tens of thousands of migrant children who are in the United States without a parent or guardian. 
+
+<br> 
+
+<https://laist.com/news/politics/judge-orders-white-house-to-restore-legal-aid-to-unaccompanied-migrant-children>
+
+---
+
+## Val Kilmer, 'Top Gun' star with an intense approach, dies at 65
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+Val Kilmer died from pneumonia. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/val-kilmer-top-gun-star-with-an-intense-approach-dies-at-65>
+
+---
+
+## Democrats reject California bills banning transgender athletes
+
+date: 2025-04-02, from: Longbeach Post
+
+<figure><img width="1024" height="597" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-1024x597.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-1024x597.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-300x175.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-768x448.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-185x108.jpg 185w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-1536x895.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-1200x699.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-1568x914.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb-400x233.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02070950/caifornia-state-capitol-dome-schodt2017-264308-1sdn6vur-271856-zouuhWrb.jpg 1812w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Democrats on the Assembly Arts, Entertainment, Sports and Tourism Committee blocked two bills that would have banned transgender athletes from participating in girls’ sports.</p>
+<p>The post <a href="https://lbpost.com/news/education/democrats-reject-california-bills-banning-transgender-athletes">Democrats reject California bills banning transgender athletes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/education/democrats-reject-california-bills-banning-transgender-athletes>
+
+---
+
+## The same technology behind Pokémon Go is helping document the aftermath of LA’s wildfires
+
+date: 2025-04-02, updated: 2025-04-03, from: The LAist
+
+A team out of Arizona State University is creating 3D models to help fire victims with their insurance claims, and to help bring closure. 
+
+<br> 
+
+<https://laist.com/news/education/eaton-fire-palisades-arizona-state-university-documenting-team>
 
 ---
 
@@ -33,6 +420,18 @@ John F. Kennedy High School in the San Fernando Valley is in the midst of a $274
 
 ---
 
+## Sunny skies and breezy, with mild temps
+
+date: 2025-04-02, updated: 2025-04-02, from: The LAist
+
+Sunny and breezy weather today. Wind gusts up to 25 mph. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/sunny-and-breezy-high-near-65-degrees>
+
+---
+
 ## New foundation led by Altadena residents launches with $55 million to help community rebuild
 
 date: 2025-04-02, updated: 2025-04-02, from: The LAist
@@ -42,18 +441,6 @@ Board members of the Altadena Builds Back Foundation include those who lost home
 <br> 
 
 <https://laist.com/news/housing-homelessness/altadena-eaton-residents-55-million-foundation-rebuild>
-
----
-
-## The same technology behind Pokémon Go is helping document the aftermath of LA’s wildfires
-
-date: 2025-04-02, updated: 2025-04-02, from: The LAist
-
-A team out of Arizona State University is creating 3D models to help fire victims with their insurance claims, and to help bring closure. 
-
-<br> 
-
-<https://laist.com/news/education/eaton-fire-palisades-arizona-state-university-documenting-team>
 
 ---
 
@@ -85,7 +472,7 @@ Staff that administer programs to help the elderly, disabled people and poor fam
 
 date: 2025-04-02, from: Longbeach Post
 
-<figure><img width="1024" height="629" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-1024x629.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-1024x629.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-300x184.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-768x472.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-176x108.jpg 176w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-400x246.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="629" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-1024x629.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-1024x629.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-300x184.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-768x472.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-176x108.jpg 176w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q-400x246.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/01171644/01apr25-helmet-4-433033-nz2fbiwy-029679-lfL4b50q.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Two LBFD firefighters who responded to the Eaton and Palisades fires were given custom racing helmets by drivers Colton Herta and Colin Braun.</p>
 <p>The post <a href="https://lbpost.com/news/city/in-a-gesture-of-thanks-grand-prix-drivers-swap-helmets-with-long-beach-firefighters">In a gesture of thanks, Grand Prix drivers swap helmets with Long Beach firefighters</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

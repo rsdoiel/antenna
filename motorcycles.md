@@ -1,11 +1,95 @@
 ---
 title: motorcycles
-updated: 2025-04-02 06:08:30
+updated: 2025-04-03 06:09:20
 ---
 
 # motorcycles
 
-(date: 2025-04-02 06:08:30)
+(date: 2025-04-03 06:09:20)
+
+---
+
+## You've Got To See These Unbelievable Retro Yamaha Ténéré 700 Fairing Kits
+
+date: 2025-04-03, from: Ride Apart, Electric Motorcycle News
+
+The timeless look of Ténéré is perfection. 
+
+<br> 
+
+<https://www.rideapart.com/news/755298/retro-yamaha-tenere-700-holymoly/>
+
+---
+
+## Watch a Snowmobile Racer Crash Into a Crowd at a Wyoming Hillclimb
+
+date: 2025-04-03, from: Ride Apart, Electric Motorcycle News
+
+A reminder: even spectating some powersports can be dangerous. 
+
+<br> 
+
+<https://www.rideapart.com/news/755285/snowmobile-racer-hillclimb-crash-into-crowd-spectators-video/>
+
+---
+
+## Some Jerks Stole a Bunch Of Bikes From This Colorado Motorcycle School
+
+date: 2025-04-03, from: Ride Apart, Electric Motorcycle News
+
+Seriously, who does this? 
+
+<br> 
+
+<https://www.rideapart.com/news/755292/motorcycle-school-stolen-bikes-colorado/>
+
+---
+
+## Can-Am's Parent Company Begins Boat Business Sale, Sells One To Yamaha
+
+date: 2025-04-03, from: Ride Apart, Electric Motorcycle News
+
+It's all powersports, all the time now. 
+
+<br> 
+
+<https://www.rideapart.com/news/755396/brp-telwater-alumacraft-manitou-triton-boat-sale/>
+
+---
+
+## Wood Brothers Racing Named Grand Marshals for Sunday’s Goodyear 400 at Darlington Raceway
+
+date: 2025-04-02, from: Kickin the Tires blog
+
+DARLINGTON, S.C. (April 2, 2025) – Darlington Raceway announced today that the family of the Wood Brothers Racing team will serve as the Grand Marshals for the Goodyear 400 this&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/wood-brothers-racing-named-grand-marshals-for-sundays-goodyear-400-at-darlington-raceway/>
+
+---
+
+## NASCAR Power Rankings: Kyle Larson takes over top spot as William Byron slides
+
+date: 2025-04-02, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer For the third time this season, we have a change at No. 1. And the driver who suddenly finds himself atop these rankings should come&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-power-rankings-kyle-larson-takes-over-top-spot-as-william-byron-slides/>
+
+---
+
+## Trump Opens Up Public Land to Be Strip Mined, Mineral Industry Rejoices
+
+date: 2025-04-02, from: Ride Apart, Electric Motorcycle News
+
+Extractive industries are celebrating, which is all you need to know.  
+
+<br> 
+
+<https://www.rideapart.com/news/755169/president-trump-public-land-executive-order-mining/>
 
 ---
 

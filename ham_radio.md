@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-04-02 06:08:25
+updated: 2025-04-03 06:09:15
 ---
 
 # ham radio
 
-(date: 2025-04-02 06:08:25)
+(date: 2025-04-03 06:09:15)
+
+---
+
+## Building a low-cost, precision digital oscilloscope
+
+date: 2025-04-02, from: EDN Blog
+
+<img width="1140" height="417" src="https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?fit=1140%2C417" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=1140 1140w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=1024 1024w" sizes="(max-width: 1140px) 100vw, 1140px" /><p>Utilize analog and digital signal processing techniques in building a low-cost high-precision digital oscilloscope for high school use.</p>
+<p>The post <a href="https://www.edn.com/building-a-low-cost-precision-digital-oscilloscope/" data-wpel-link="internal">Building a low-cost, precision digital oscilloscope</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/building-a-low-cost-precision-digital-oscilloscope/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-04-02 06:08:25
 
 date: 2025-04-02, from: EDN Blog
 
-<img width="3733" height="5829" src="https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?fit=3733%2C5829" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=3733 3733w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=192 192w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=656 656w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=984 984w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=1312 1312w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=2850 2850w" sizes="(max-width: 3733px) 100vw, 3733px" /><p>Here is how an LED and photodetector pairing combined with AI and analog drivers and amplifiers can open new biomedical venues.</p>
+<img width="3733" height="5829" src="https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?fit=3733%2C5829" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=3733 3733w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=192 192w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=656 656w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=984 984w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=1312 1312w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=1900 1900w, https://www.edn.com/wp-content/uploads/Figure-3-BP-monitor-data-analysis.png?w=2850 2850w" sizes="auto, (max-width: 3733px) 100vw, 3733px" /><p>Here is how an LED and photodetector pairing combined with AI and analog drivers and amplifiers can open new biomedical venues.</p>
 <p>The post <a href="https://www.edn.com/ai-empowered-optoelectronics-reinvigorates-biomedical-sensing/" data-wpel-link="internal">AI-empowered optoelectronics reinvigorates biomedical sensing</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 
@@ -27,7 +41,7 @@ date: 2025-04-02, from: EDN Blog
 
 date: 2025-04-01, from: EDN Blog
 
-<img width="1400" height="2168" src="https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?fit=1400%2C2168" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" srcset="https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=194 194w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=661 661w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=992 992w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=1323 1323w" sizes="(max-width: 1400px) 100vw, 1400px" /><p>Is it a costly, but clean, power supply? Or a noisier, less expensive, and lower-loss design? Or (gulp) something even more basic?</p>
+<img width="1400" height="2168" src="https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?fit=1400%2C2168" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=1400 1400w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=194 194w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=768 768w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=661 661w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=992 992w, https://www.edn.com/wp-content/uploads/insides_enclosed.jpg?w=1323 1323w" sizes="auto, (max-width: 1400px) 100vw, 1400px" /><p>Is it a costly, but clean, power supply? Or a noisier, less expensive, and lower-loss design? Or (gulp) something even more basic?</p>
 <p>The post <a href="https://www.edn.com/taking-apart-a-wall-wart/" data-wpel-link="internal">Taking apart a wall wart</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

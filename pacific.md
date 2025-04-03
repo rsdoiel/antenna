@@ -1,11 +1,410 @@
 ---
 title: pacific
-updated: 2025-04-02 06:08:25
+updated: 2025-04-03 06:09:14
 ---
 
 # pacific
 
-(date: 2025-04-02 06:08:25)
+(date: 2025-04-03 06:09:14)
+
+---
+
+## World leaders react to Trump’s tariffs
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>U.S. President Donald Trump said he would impose a 10% baseline tariff on all imports to the United States and higher duties on some of the country&#8217;s biggest trading partners, drawing defiant responses from leaders and governments around the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/world-leaders-react-to-trumps-tariffs/>
+
+---
+
+## Analysis: US tariffs pile stress on ailing world economy
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>LONDON/TOKYO &#8212; The latest round of U.S. trade tariffs unveiled on Wednesday will sap yet more vigour from a world economy barely recovered from the post-pandemic inflation surge, weighed down by record debt and unnerved by geopolitical strife.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/analysis-us-tariffs-pile-stress-on-ailing-world-economy/>
+
+---
+
+## ‘It’s a disaster’: Global markets reel after Trump unveils tariffs
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Wall Street shuddered as President Donald Trump announced sweeping tariffs on countries across the globe Wednesday, with the administration unveiling higher taxes on imports than investors had expected, weighing on markets around the world.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/its-a-disaster-global-markets-reel-after-trump-unveils-tariffs/>
+
+---
+
+## Trump unleashes tariffs; president’s action escalates global trade war
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Wednesday unveiled a 10% minimum tariff on most goods imported to the United States, with much higher duties on products from dozens of countries, kicking into high gear a global trade war that threatens to drive up inflation and stall U.S. and worldwide economic growth.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/trump-unleashes-tariffs-presidents-action-escalates-global-trade-war/>
+
+---
+
+## Liberal wins Wisconsin Supreme Court election in setback for Trump, Musk
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Wisconsin voters elected Susan Crawford to the state Supreme Court on Tuesday, maintaining the court&#8217;s 4-3 liberal majority in a setback for President Donald Trump and his billionaire ally Elon Musk, who had backed her conservative rival.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/liberal-wins-wisconsin-supreme-court-election-in-setback-for-trump-musk/>
+
+---
+
+## News in brief for April 3
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Israel strikes &#0010;at military &#0010;bases in Syria</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/news-in-brief-for-april-3/>
+
+---
+
+## Danish PM pledges to support Greenland against Trump pressure
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>NUUK, Greenland &#8212; Denmark&#8217;s prime minister pledged to support Greenland against U.S. President Donald Trump&#8217;s expressions of interest in acquiring the Danish semi-autonomous territory as she landed in Nuuk on Wednesday for talks with its incoming government.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/danish-pm-pledges-to-support-greenland-against-trump-pressure/>
+
+---
+
+## Musk will stay until he completes DOGE mission, White House says
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The White House said on Wednesday that tech billionaire Elon Musk will stay on to complete his mission to slash government spending and downsize the federal workforce, dismissing media reports that he will leave the role soon.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/musk-will-stay-until-he-completes-doge-mission-white-house-says/>
+
+---
+
+## Amazon said to make a bid to buy TikTok in the US
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Amazon has put in a last-minute bid to acquire all of TikTok, the popular video app, as it approaches an April deadline to be separated from its Chinese owner or face a ban in the United States, according to three people familiar with the bid.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/nation-world-news/amazon-said-to-make-a-bid-to-buy-tiktok-in-the-us/>
+
+---
+
+## Local turkey federation chapter holds banquet
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>For many turkey hunters, Hawaii is a bucket list destination for a wild turkey hunt, especially for those pursuing a U.S. Super Slam.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/community/local-turkey-federation-chapter-holds-banquet/>
+
+---
+
+## Zonta Club seeks applicants for business, STEM awards
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>The Zonta Club of Hilo seeks applicants for the Women in Business Leadership Award and the Women in STEM Award.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/community/zonta-club-seeks-applicants-for-business-stem-awards/>
+
+---
+
+## HOPE Services to convert Kona apartments into affordable housing
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>HOPE Services Hawaii has acquired an apartment building in Kailua-Kona for affordable housing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/community/hope-services-to-convert-kona-apartments-into-affordable-housing/>
+
+---
+
+## Inaugural class of new butchery course graduates
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>The inaugural class of Hawaii Community College&#8217;s new butchery course &#8212; the first program of its kind in the state &#8212; graduated in March at the Ko Education Center in Honokaa.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/community/inaugural-class-of-new-butchery-course-graduates/>
+
+---
+
+## USP signs partnership agreement to foster sustainable agricultural research
+
+date: 2025-04-03, from: University of the South Pacific (Fiji)
+
+<p>The University of the South Pacific (USP) and the Australian Centre for International Agricultural Research...</p>
+<p>The post <a href="https://www.usp.ac.fj/news/usp-signs-partnership-agreement-to-foster-sustainable-agricultural-research/">USP signs partnership agreement to foster sustainable agricultural research</a> appeared first on <a href="https://www.usp.ac.fj">The University of the South Pacific</a>.</p>
+ 
+
+<br> 
+
+<https://www.usp.ac.fj/news/usp-signs-partnership-agreement-to-foster-sustainable-agricultural-research/>
+
+---
+
+## UH Community Colleges innovate workforce development, ‘life design’
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Community Colleges are equipping students with essential career skills for lifelong success.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/uh-community-colleges-life-design/"><abbr>UH</abbr> Community Colleges innovate workforce development, ‘life design’</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/uh-community-colleges-life-design/>
+
+---
+
+## Sustainable table design earns architecture instructor woodshow award
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p>Steven Hill’s sustainable and innovative dining table wins the 2024 <span aria-label="Laau">L&#257;&#699;au</span> Pono Award.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/hill-hawaii-woodshow-award/">Sustainable table design earns architecture instructor woodshow award</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/hill-hawaii-woodshow-award/>
+
+---
+
+## Hawaiʻi migration trends show more balance than expected, UHERO blog shows
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p>In 2023, about 72,000 individuals moved to <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/migration-trends-blog/">Hawaiʻi migration trends show more balance than expected, <abbr>UHERO</abbr> blog shows</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/migration-trends-blog/>
+
+---
+
+## UH swim and dive teams places 5 on Academic All-District Team
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p>Catherine Belyakov, Nellie Thompson, Arianna Sakellaris, Holly Nelson and Milan Bukovics named to the <abbr>CSC</abbr> Academic All-District team.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/uh-swim-dive-teams-academic-all-district-team/"><abbr>UH</abbr> swim and dive teams places 5 on Academic All-District Team</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/uh-swim-dive-teams-academic-all-district-team/>
+
+---
+
+## Vilcek earns tennis Big West Player of the Week honors
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa women’s tennis player Ana Vilcek earned her third career Big West Player of the Week honor.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/vilcek-tennis-bw-player-of-week/">Vilcek earns tennis Big West Player of the Week honors</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/vilcek-tennis-bw-player-of-week/>
+
+---
+
+## UH joins effort to strengthen public health emergency preparedness
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa is leading a key project in a regional effort to strengthen public health emergency preparedness, focusing on health risk communication.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/public-health-emergency-preparedness/"><abbr>UH</abbr> joins effort to strengthen public health emergency preparedness</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/public-health-emergency-preparedness/>
+
+---
+
+## Stuck in colonial crisis, what can we do?
+
+date: 2025-04-02, from: Pacific Island Times
+
+ 
+
+A U.S. territory in the Pacific is clearly a colony by any definition. Colonies are defined based on their lack of full participation in  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/stuck-in-colonial-crisis-what-can-we-do>
+
+---
+
+## Register for cybersecurity camps for middle and high schoolers, teachers
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>Students and teachers can explore cybersecurity through hands-on training at GenCyber camps.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/cybersecurity-camps-middle-high-schoolers-teachers/">Register for cybersecurity camps for middle and high schoolers, teachers</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/cybersecurity-camps-middle-high-schoolers-teachers/>
+
+---
+
+## United opens new direct flight service between Guam and Taipei
+
+date: 2025-04-02, from: Pacific Island Times
+
+United hosted a gate celebration at the A. B. Won Pat International Airport on Wednesday to mark the launch of the Guam-Taipei direct... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/united-opens-new-direct-flight-service-between-guam-and-taipei>
+
+---
+
+## Image of the week: Baby seahorses
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>This week's image is from the Waikīkī Aquarium.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/image-of-the-week-baby-seahorses/">Image of the week: Baby seahorses</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/image-of-the-week-baby-seahorses/>
+
+---
+
+## New grants support Ala Wai water quality improvements
+
+date: 2025-04-02, from: University of Hawaiʻi News
+
+<p>These projects are part of the Ola Waikīkī project.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/02/grants-support-ala-wai-water-quality/">New grants support Ala Wai water quality improvements</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/02/grants-support-ala-wai-water-quality/>
+
+---
+
+## CHCC introduces telehealth-enabled capsule endoscopy service
+
+date: 2025-04-02, updated: 2025-04-03, from: Marianas Variety
+
+THE Commonwealth Healthcare Corporation is proud to announce a groundbreaking initiative aimed at addressing the critical shortage of gastrointestinal or GI diagnostic services in the Commonwealth of the Northern Mariana Islands. In collaboration with GI Digital and the practice of Dr. Paul Alfred Muna-Aguon in Guam, CHCC will introduce a telehealth-enabled capsule endoscopy or CE service in Saipan. This new service will provide local access to advanced GI diagnostics and care, transforming the way gastrointestinal diseases are diagnosed and managed in the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/chcc-introduces-telehealth-enabled-capsule-endoscopy-service/article_93f0d6f4-5451-45fd-a761-56b16fd77c4c.html>
+
+---
+
+## UOG Isla Center for the Arts hosts undergraduate student exhibition
+
+date: 2025-04-02, updated: 2025-04-03, from: Marianas Variety
+
+MANGILAO (UOG) — The Isla Center for the Arts at the University of Guam is proud to announce the opening of the 2025 UOG Undergraduate Exhibition which includes 128 works of art created by selected UOG undergraduate students. Fine Arts faculty selected works of art produced by students enrolled in the various studio classes. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/uog-isla-center-for-the-arts-hosts-undergraduate-student-exhibition/article_49009829-3a67-4914-949e-28166fe3ed54.html>
+
+---
+
+## UOG launches year-long online course schedule
+
+date: 2025-04-02, updated: 2025-04-03, from: Marianas Variety
+
+MANGILAO (UOG) — The University of Guam is excited to unveil an innovation in academic planning: an online, year-long Course Schedule is now live for the Academic Year 2025–2026. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/uog-launches-year-long-online-course-schedule/article_1f8fef6e-b1b9-4e2d-a929-58232ea2389f.html>
+
+---
+
+## CNMI SBDC Network delivers Federal Contracting 101 training
+
+date: 2025-04-02, updated: 2025-04-03, from: Marianas Variety
+
+(SBDC) — The CNMI Small Business Development Center Network at Northern Marianas College successfully concluded Part 1 of its Federal Contracting 101 training series, equipping local businesses with practical knowledge and resources to enter the federal marketplace. The training, led by expert business consultant Sixto K. Igisomar, provided attendees with step-by-step guidance on setting up their SAM.gov accounts and crafting an effective capabilities statement — two essential components for businesses seeking federal contracts. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/cnmi-sbdc-network-delivers-federal-contracting-101-training/article_bd2c31c5-cdd1-41da-87f6-9fc2540fa14b.html>
+
+---
+
+## Flame trees at AMP
+
+date: 2025-04-02, updated: 2025-04-03, from: Marianas Variety
+
+I FREQUENTLY go to our beautiful American Memorial Park to walk my dog. I notice the flame trees that are flowering nicely. However, there are trees that are struggling. 
+
+<br> 
+
+<https://www.mvariety.com/views/letters_to_editor/flame-trees-at-amp/article_bf4992de-ef20-4730-b90e-b2d618969411.html>
 
 ---
 
@@ -278,7 +677,7 @@ date: 2025-04-02, from: University of the South Pacific (Fiji)
 date: 2025-04-02, from: University of Hawaiʻi News
 
 <p>More than 1,300 people gathered in Hilo to celebrate and protect one of <span aria-label="Hawaii">Hawai&#699;i</span>’s most treasured trees&#8212;the <span aria-label="ohia">&#699;&#333;hi&#699;a</span> lehua.</p>
-The post <a href="https://www.hawaii.edu/news/2025/04/01/ohia-love-grows-ctahr-hilo/">ʻŌhiʻa love grows at <abbr>UH CTAHR</abbr> event in Hilo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+The post <a href="https://www.hawaii.edu/news/2025/04/01/ohia-love-grows-ctahr-hilo/">ʻŌhiʻa love grows at <abbr>UH</abbr> <abbr>CTAHR</abbr> event in Hilo</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
 
 <br> 
 
@@ -325,7 +724,7 @@ The post <a href="https://www.hawaii.edu/news/2025/04/01/sakanoko-rosenthal-big-
 
 ---
 
-## Former Senator Klitzkie passes away 
+## Guam's leading conservative voice, former Senator Klitzkie dies
 
 date: 2025-04-02, from: Pacific Island Times
 

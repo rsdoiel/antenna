@@ -1,11 +1,447 @@
 ---
 title: going electric
-updated: 2025-04-02 06:08:31
+updated: 2025-04-03 06:09:21
 ---
 
 # going electric
 
-(date: 2025-04-02 06:08:31)
+(date: 2025-04-03 06:09:21)
+
+---
+
+## Lucid Had Another Record Quarter Thanks To Tesla Owners Who Jumped Ship
+
+date: 2025-04-03, from: Inside EVs News
+
+The American luxury EV maker had its fifth consecutive record quarter. 
+
+<br> 
+
+<https://insideevs.com/news/755495/lucid-record-deliveries-q1-2025/>
+
+---
+
+## More hydrogen fails: Doosan, Air Products cancel over $1 billion in fuel cell deals
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/fuel-cell.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Multiple reports have both South Korean firm Doosan and American company Air Products backing out of a number of nine-figure hydrogen fuel cell deals, with more than $1 billion across five contracts canceled in the past few weeks alone.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="doosan,hydrogen,hydrogen-fuel-cell" data-layer-viewtype="unknown" data-post-id="409501" href="https://electrek.co/2025/04/03/more-hydrogen-fails-doosan-air-products-cancel-over-1-billion-in-fuel-cell-deals/#more-409501" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/more-hydrogen-fails-doosan-air-products-cancel-over-1-billion-in-fuel-cell-deals/>
+
+---
+
+## The New Hyundai Nexo Shows Hyundai Is Serious About Hydrogen
+
+date: 2025-04-03, from: Inside EVs News
+
+Despite poor sales of hydrogen-powered cars worldwide, Hyundai charges ahead with a new generation of its FCEV. 
+
+<br> 
+
+<https://insideevs.com/news/755466/2026-hyundai-nexo-hydrogen-fuel-cell-official-specs/>
+
+---
+
+## Hyundai’s super-efficient Ioniq 6 updated with sportier look, ‘N’ model coming soon
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/mk01.png?w=1600" /></div><p>Hyundai has unveiled the design refresh of its Ioniq 6 sedan, and announced that it will become a family of cars rather than a single model, with an N Line trim and upcoming N performance model, much like its sister car the Ioniq 5.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-6" data-layer-viewtype="unknown" data-post-id="409525" href="https://electrek.co/2025/04/02/hyundais-super-efficient-ioniq-6-updated-with-sportier-look-n-model-coming-soon/#more-409525" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/hyundais-super-efficient-ioniq-6-updated-with-sportier-look-n-model-coming-soon/>
+
+---
+
+## 2026 Hyundai Ioniq 6: This Is It
+
+date: 2025-04-03, from: Inside EVs News
+
+The Ioniq 6 always had polarizing looks. That won't change with a sleek update, but Hyundai promises more comfort and better tech. 
+
+<br> 
+
+<https://insideevs.com/news/755443/hyundai-ioniq-6-2026-update/>
+
+---
+
+## 1,500 new Colorado homes will come with geothermal heat pumps
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Dandelion-Lennar-geothermal-Littleton-Colorado.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Over the next two years, homebuilder Lennar is outfitting more than 1,500 new Colorado homes with Dandelion Energy’s geothermal systems in one of the largest residential geothermal rollouts in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="egeb,energy-brief,geothermal,solar" data-layer-viewtype="unknown" data-post-id="409438" href="https://electrek.co/2025/04/02/dandelion-geothermal-lennar/#more-409438" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/dandelion-geothermal-lennar/>
+
+---
+
+## Polestar 2 removed from Polestar’s US website alongside tariff announcement
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/polestar2gone.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Polestar has removed the Polestar 2 from its US website header in an early sign of how new tariffs will restrict choice and competition for American consumers, thus increasing prices.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="409439" href="https://electrek.co/2025/04/02/polestar-2-removed-from-polestars-us-website-alongside-tariff-announcement/#more-409439" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/polestar-2-removed-from-polestars-us-website-alongside-tariff-announcement/>
+
+---
+
+## Lucid (LCID) set another EV delivery record and the Gravity SUV is just getting started
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Lucid-Gravity-EV-batteries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lucid Motors (LCID) has now had six straight quarters with higher deliveries. The delivery record comes just as <a href="https://electrek.co/guides/lucid-motors/">Lucid</a> prepares to begin delivering its first electric SUV, the Gravity, to customers by the end of this month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lucid,lucid-motors" data-layer-viewtype="unknown" data-post-id="409447" href="https://electrek.co/2025/04/02/lucid-lcid-sets-delivery-record-gravity-suv-ramp-up-begins/#more-409447" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/lucid-lcid-sets-delivery-record-gravity-suv-ramp-up-begins/>
+
+---
+
+## Trump announces sweeping tariffs ranging from 10 to 49%, will increase cost of everything
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-14-at-2.19.11 PM.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>President Trump has announced new sweeping tariffs ranging from 10 to 49% on virtually every trade partner, which will increase the cost of almost everything in the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump" data-layer-viewtype="unknown" data-post-id="409450" href="https://electrek.co/2025/04/02/trump-announces-sweeping-tariffs-ranging-from-10-to-46-will-increase-cost-of-everything/#more-409450" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/trump-announces-sweeping-tariffs-ranging-from-10-to-46-will-increase-cost-of-everything/>
+
+---
+
+## Ford’s EV, Hybrid Sales Surge In Q1 Ahead Of Tariff Chaos
+
+date: 2025-04-02, from: Inside EVs News
+
+It was a record start to the year for electrified vehicles, mainly led by the Mustang Mach-E. But that could get pricier soon. 
+
+<br> 
+
+<https://insideevs.com/news/755423/ford-ev-hybrid-sales-soared-q1-2025/>
+
+---
+
+## Ford is preparing for an all-new EV at its Louisville assembly plant, but which one?
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/07/Ford-monster-vehicles.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The Louisville assembly plant is scheduled for an extensive retooling starting later this year to produce a new <a href="https://electrek.co/guides/ford/">Ford</a> EV model. After the Escape is phased out, Ford will upgrade the facility to introduce an all-new EV.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="409421" href="https://electrek.co/2025/04/02/ford-preparing-for-all-new-ev-in-louisville-but-which-one/#more-409421" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/ford-preparing-for-all-new-ev-in-louisville-but-which-one/>
+
+---
+
+## Greenlane and Volvo’s bold plan to transform electric truck charging in the US
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Greenlane-Colton-CA.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://www.drivegreenlane.com/" target="_blank" rel="noreferrer noopener">Greenlane</a> is teaming up with <a href="https://www.volvotrucks.us/trucks/vnr-electric/" target="_blank" rel="noreferrer noopener">Volvo Trucks North America</a> to make charging heavy-duty electric vehicles (HDEVs) easier and more accessible. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,electric-trucks,greenlane,volvo-trucks" data-layer-viewtype="unknown" data-post-id="409419" href="https://electrek.co/2025/04/02/greenlane-volvo-electric-truck-charging-us/#more-409419" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/greenlane-volvo-electric-truck-charging-us/>
+
+---
+
+## Rivian's Q1 Sales Fell 36% Amid L.A. Wildfire Fallout
+
+date: 2025-04-02, from: Inside EVs News
+
+The American EV startup said it delivered 8,640 vehicles from January through March, a year-over-year and quarter-over-quarter drop. 
+
+<br> 
+
+<https://insideevs.com/news/755425/rivian-q1-deliveries-2025/>
+
+---
+
+## BMW Sold Even More Electric Cars In The U.S. In Q1 2025
+
+date: 2025-04-02, from: Inside EVs News
+
+The i4 electric fastback saw a sizable increase, but some models sold less than last year. 
+
+<br> 
+
+<https://insideevs.com/news/755412/bmw-q1-2025-sales-us/>
+
+---
+
+## Preorder Segway’s new Ninebot F3 smart eKickScooter at $250 off, Anker SOLIX flash sale takes 45% off units, Greenworks, LG, more
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Segway-Ninebot-F3-eKickScooter-FI-2-e1743614255433.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Headlining today’s mid-week Green Deals is the early-bird preorder savings you can score on Segway’s new <a href="https://9to5toys.com/2025/04/02/preorder-segway-ninebot-f3-ekickscooter-600/">Ninebot F3 eKickScooter</a> through April 14 that drops the price down to <a href="https://9to5toys.com/2025/04/02/preorder-segway-ninebot-f3-ekickscooter-600/">$600</a>, with similar smart features to last month’s Max G3 model, including Apple Find My and autonomous locking/unlocking, among others. Next, Anker has launched another <a href="https://9to5toys.com/2025/04/02/anker-solix-flash-sale-f2000-with-400w-panel-1599-more/">SOLIX weekend flash sale</a> that is offering up to $2,898 in savings on a selection of varying backup power solutions, including the <a href="https://9to5toys.com/2025/04/02/anker-solix-flash-sale-f2000-with-400w-panel-1599-more/">F2000 Portable Power Station</a> with a 400W solar panel for <a href="https://9to5toys.com/2025/04/02/anker-solix-flash-sale-f2000-with-400w-panel-1599-more/">$1,599</a>, as well as some C800 Plus and F3800 offers. Next, we have a roundup of Greenworks electric pressure washers for your spring cleaning needs, with the brand’s <a href="https://9to5toys.com/2025/04/02/greenworks-2000-psi-pressure-washer-new-135-low-more/">GPW2003 2,000 PSI model</a> hitting a new <a href="https://9to5toys.com/2025/04/02/greenworks-2000-psi-pressure-washer-new-135-low-more/">$135</a> low. Bringing up the rear is <a href="https://9to5toys.com/2025/04/02/lg-all-in-one-electric-washer-dryer-combo-1999/">LG’s WashCombo</a> All-in-One Electric Washer/Dryer with Ventless Inverter Heat Pump that is down at <a href="https://9to5toys.com/2025/04/02/lg-all-in-one-electric-washer-dryer-combo-1999/">$1,999</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">EcoFlow Easter Sale</a> offers, the collection of <a href="https://9to5toys.com/2025/04/01/ego-56v-15-inch-string-trimmer-159/">EGO lawn care savings</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="409386" href="https://electrek.co/2025/04/02/segways-ninebot-f3-ekickscooter-preorders-anker-solix-greenworks-lg-more/#more-409386" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/segways-ninebot-f3-ekickscooter-preorders-anker-solix-greenworks-lg-more/>
+
+---
+
+## Honda’s new electric SUV and Prelude debut on public roads for the first time [Video]
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Hondas-SUV-on-road.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Honda’s next-gen EVs are finally coming. On Wednesday, a Honda 0 prototype made its global debut in Tokyo, giving us our first look at the electric SUV in action. <a href="https://electrek.co/guides/honda/">Honda’s</a> new electric SUV and the upcoming Prelude were shown on public roads for the first time. Although still a prototype, the new SUV looks pretty… boxy?</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="honda" data-layer-viewtype="unknown" data-post-id="409381" href="https://electrek.co/2025/04/02/hondas-new-electric-suv-looks-chunky-on-public-streets-video/#more-409381" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/hondas-new-electric-suv-looks-chunky-on-public-streets-video/>
+
+---
+
+## NYC to sue Tesla over Elon Musk’s alleged breach of fiduciary duties
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/Elon-musk-Tesla-vote.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>New York City Comptroller Brad Lander has asked the city, which is a major Tesla shareholder, to sue Tesla and CEO Elon Musk over alleged breaches of fiduciary duties.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="409394" href="https://electrek.co/2025/04/02/nyc-sue-tesla-over-elon-musk-breach-fiduciary-duties/#more-409394" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/nyc-sue-tesla-over-elon-musk-breach-fiduciary-duties/>
+
+---
+
+## Would you buy a Tesla right now and why
+
+date: 2025-04-02, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/would-you-buy-a-tesla-right-now-and-why/>
+
+---
+
+## Tesla (TSLA) surges on report Elon Musk is leaving DOGE, White House denies
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Elon-Musk-temper-tantrum.png?w=1600" /></div><p>Tesla’s stock (TSLA) surged on a report that Elon Musk is leaving the Department of Government Efficiency (DOGE) soon. Investors appear happy that Musk will spend more time on Tesla, even though the company’s brand issues are linked to Musk.</p>
+
+
+
+<p><strong>Update</strong>: White House press secretary <a href="https://x.com/PressSec"></a>Karoline Leavitt has denied the report.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="409372" href="https://electrek.co/2025/04/02/tesla-tsla-surges-on-report-elon-musk-is-leaving-doge/#more-409372" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/tesla-tsla-surges-on-report-elon-musk-is-leaving-doge/>
+
+---
+
+## Kia is off to its best sales start since 1962, but with new EVs on the way, the run has just begun
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Kia-EV4-GT-Line.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia just notched its best first-quarter sales performance since it began selling cars in 1962. With its first electric sedan, the EV4, launching this year, <a href="https://electrek.co/guides/kia/">Kia</a> says its sales run is just getting started.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia" data-layer-viewtype="unknown" data-post-id="409358" href="https://electrek.co/2025/04/02/kia-best-sales-start-since-1962-as-new-evs-drive-growth/#more-409358" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/kia-best-sales-start-since-1962-as-new-evs-drive-growth/>
+
+---
+
+## Setting the standard: 4 Gen Logistics to reach 100% ZEV goal in 2025
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/VFS-4-Gen-Logistics_FINAL_18.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The California Air Resource Board (<a href="https://ww2.arb.ca.gov/our-work/programs/advanced-clean-fleets">CARB</a>) <a href="https://electrek.co/2025/01/18/diesel-wins-this-round-as-carb-backs-away-from-advanced-clean-fleets-rule/">may have withdrawn its request to enact the proposed Advanced Clean Fleets rule</a>, but California drayage company 4 Gen Logistics is still full speed ahead in its efforts to decarbonize. 4 Gen remains committed to the deployment of a fully zero-emission fleet by the end of 2025 – and it looks like they’re going to get there!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="commercial-evs,electric-semi-truck,volvo-trucks" data-layer-viewtype="unknown" data-post-id="409274" href="https://electrek.co/2025/04/02/setting-the-standard-4-gen-logistics-to-reach-100-zev-goal-in-2025/#more-409274" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/setting-the-standard-4-gen-logistics-to-reach-100-zev-goal-in-2025/>
+
+---
+
+## MAGA Republicans Overwhelmingly Support EV Investments: Survey
+
+date: 2025-04-02, from: Inside EVs News
+
+President Trump wants to kill EV funding. But the majority of his voters support American EV jobs and investments to fight China. 
+
+<br> 
+
+<https://insideevs.com/news/755393/maga-republicans-support-evs-in-new-poll/>
+
+---
+
+## Tesla’s delivery miss means bigger brand issues in the US, Cybertruck is dead weight
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/08/Tesla-Cybertruck-machine-gun.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s big delivery miss means the automaker has bigger brand issues than expected in the US, and the Cybertruck is absolutely unsellable.</p>
+
+
+
+<p>It’s worse than anyone expected.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="409336" href="https://electrek.co/2025/04/02/tesla-delivery-miss-bigger-brand-issues-us-cybertruck-dead-weight/#more-409336" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/tesla-delivery-miss-bigger-brand-issues-us-cybertruck-dead-weight/>
+
+---
+
+## The Toyota BZ4X And Subaru Solterra Sales Shot Up In Q1
+
+date: 2025-04-02, from: Inside EVs News
+
+Sales of these EVs got off to a slow start, but discounts and improvements have turned the tide. 
+
+<br> 
+
+<https://insideevs.com/news/755382/bz4x-solterra-sales-increase-q1/>
+
+---
+
+## Lotus revamps 2026 Emeya and Eletre EVs with a dozen new trims and varying standard features
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Lotus-2026-Emeya-Eletre.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Lotus has launched its 2026 model year versions of its Emeya and Eletre EVs and is changing things up a bit this year to provide a wider array of standard features for its customers. The automaker has introduced new “600” and “900” trim nomenclature and several variants within each of those badges to note performance and other key features. You can see the trim breakdown of <a href="https://electrek.co/guides/lotus/">Lotus’</a> revamped trims below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="lotus,lotus-eletre,lotus-emeya" data-layer-viewtype="unknown" data-post-id="409348" href="https://electrek.co/2025/04/02/lotus-revamps-2026-emeya-eletre-evs-dozen-new-trims-standard-features/#more-409348" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/lotus-revamps-2026-emeya-eletre-evs-dozen-new-trims-standard-features/>
+
+---
+
+## Volvo EV Sales In The U.S. Are Up. It's Not As Rosy Everywhere Else
+
+date: 2025-04-02, from: Inside EVs News
+
+After last year’s disastrous sales, the Swedish brand’s EVs are getting some love stateside. But that’s not the big picture. 
+
+<br> 
+
+<https://insideevs.com/news/755379/volvo-sales-q1-2025-ev-phev/>
+
+---
+
+## Bikers REJOICE! Liberation Day is the perfect excuse to get back on 2 wheels
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/maeving_electric-motorcycles.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The Trump Administration’s 25% tariffs are set to hit the auto industry today, targeting imported sedans, SUVs, vans, pickups, and even the parts required to keep existing vehicles on the road. But, <em>crucially</em>, <strong>the tariffs do not  impact motorcycles</strong>.</p>
+
+
+
+<p>So, if you’ve been searching for an excuse to buy a new motorcycle, The God Emperor Donald J. Trump might have just handed you one!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-motorcycle,motorcycles,tariffs" data-layer-viewtype="unknown" data-post-id="409216" href="https://electrek.co/2025/04/02/bikers-rejoice-liberation-day-is-the-perfect-excuse-to-get-back-on-2-wheels/#more-409216" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/bikers-rejoice-liberation-day-is-the-perfect-excuse-to-get-back-on-2-wheels/>
+
+---
+
+## Rivian’s (RIVN) stock is down after EV deliveries slip in Q1: Here’s what to expect in 2025
+
+date: 2025-04-02, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Rivian-Q1-2025-deliveries.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/rivian/">Rivian</a> (RIVN) was bracing for fewer deliveries in the first quarter but still managed to beat expectations. With things looking up from here, the EV maker confirmed it’s still on track to deliver between 46,000 and 51,000 EVs this year.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="rivian" data-layer-viewtype="unknown" data-post-id="409298" href="https://electrek.co/2025/04/02/rivian-rivn-stock-falls-after-ev-deliveries-slip-q1-heres-why/#more-409298" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/02/rivian-rivn-stock-falls-after-ev-deliveries-slip-q1-heres-why/>
+
+---
+
+## Tesla Posts Worst Deliveries In Over Two Years
+
+date: 2025-04-02, from: Inside EVs News
+
+The automaker said it delivered 336,681 vehicles to customers globally in the first quarter, a 13% drop year-over-year.  
+
+<br> 
+
+<https://insideevs.com/news/755384/tesla-q1-2025-deliveries-drop/>
 
 ---
 

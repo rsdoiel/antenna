@@ -1,11 +1,23 @@
 ---
 title: craft
-updated: 2025-04-02 06:08:31
+updated: 2025-04-03 06:09:22
 ---
 
 # craft
 
-(date: 2025-04-02 06:08:31)
+(date: 2025-04-03 06:09:22)
+
+---
+
+## For Sale: Comb-back Stick Chair in Figured Red Elm
+
+date: 2025-04-02, from: Lost Arg Press blog
+
+This comb-back stick chair is built entirely in American red elm, with the seat, arm and comb made from figured red elm, some of the most difficult wood I have ever saddled. The chair is raked back for lounging, reading or sitting by the fire. The chair’s features heavily shaped arms, tapered octagonal stretchers and... 
+
+<br> 
+
+<https://blog.lostartpress.com/2025/04/02/for-sale-comb-back-stick-chair-in-figured-red-elm/>
 
 ---
 

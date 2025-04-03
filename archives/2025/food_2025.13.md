@@ -1,11 +1,177 @@
 ---
 title: food
-updated: 2025-04-02 06:08:31
+updated: 2025-04-03 06:09:22
 ---
 
 # food
 
-(date: 2025-04-02 06:08:31)
+(date: 2025-04-03 06:09:22)
+
+---
+
+## A Carrot Wellington for Your Spring Celebrations
+
+date: 2025-04-03, from: Bon Appetet
+
+Sounds like the punchline to a joke about vegetarianism. Actually a showstopping main dish. 
+
+<br> 
+
+<https://www.bonappetit.com/story/easter-carrot-wellington>
+
+---
+
+## Greek Style Spaghetti (Makaronia Me Kima)
+
+date: 2025-04-03, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/03/Greek-Style-Spaghetti-Makaronia-Me-Kima-1200-1088.jpg"/></div>
+<p>A quick and easy Greek style spaghetti with a hint of cinnamon and spice! I&#8217;m a big fan of spaghetti (a meal with a tomato meat sauce served over spaghetti noodles) and this is a tasty Greek style version! This is a super simple recipe with beef, onions, garlic, and tomatoes seasoned with oregano and...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/greek-style-spaghetti-makaronia-me-kima/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/greek-style-spaghetti-makaronia-me-kima/">Greek Style Spaghetti (Makaronia Me Kima)</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/greek-style-spaghetti-makaronia-me-kima/>
+
+---
+
+## Easter Salad
+
+date: 2025-04-03, from: Bon Appetet
+
+With colorful radishes and jammy eggs, this is just as great for a holiday as it is for a casual spring lunch. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/easter-salad>
+
+---
+
+## Chocolate Bars Recalled Across the U.S. After Small Stones Were Found In Them
+
+date: 2025-04-02, from: Taste of Home
+
+<p>If Tony's Chocolonely is in your candy stash, you're going to want to check the label before breaking into a new bar. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/chocolate-bar-recall-april-2025/">Chocolate Bars Recalled Across the U.S. After Small Stones Were Found In Them</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chocolate-bar-recall-april-2025/>
+
+---
+
+## Sunbasket Review: Does the Meal Kit Actually Deliver Fresh, Healthy Meals?
+
+date: 2025-04-02, from: Bon Appetet
+
+Here are my honest thoughts after 3 weeks of testing. 
+
+<br> 
+
+<https://www.bonappetit.com/story/sunbasket-review>
+
+---
+
+## In Madagascar, A Coffee Revival Steps Into The Spotlight
+
+date: 2025-04-02, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Madagascar Has The World's Most Diverse Coffee Genetic Population—Now It's Ready To Bloom on Sprudge Special Projects. 
+
+<br> 
+
+<https://sprudge.com/in-madagascar-a-coffee-revival-steps-into-the-spotlight-311866.html>
+
+---
+
+## Raleigh’s Black & White Coffee Roasters Now Part of FairWave Collective
+
+date: 2025-04-02, from: Daily Coffee News
+
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="FairWave Black and White" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Raleigh, North Carolina-based Black &#38; White Coffee Roasters is now part of FairWave, continuing FairWave&#8217;s five-year streak of acquisitions in the high-end specialty coffee industry. Black &#38; White, founded in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/02/raleighs-black-white-coffee-roasters-now-part-of-fairwave-collective/>
+
+---
+
+## Peanut Butter Overnight Oats
+
+date: 2025-04-02, from: Taste of Home
+
+Peanut butter overnight oats are a no-cook make-ahead breakfast that takes just 10 minutes to prepare. They're creamy, delicious and packed with protein for a wholesome start to your day! 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/peanut-butter-overnight-oats/>
+
+---
+
+## This High-Protein Ingredient Makes Omelets Without Eggs
+
+date: 2025-04-02, from: Taste of Home
+
+<p>Learn how to make a vegan omelet with high-protein chickpea flour!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/chickpea-flour-omelet/">This High-Protein Ingredient Makes Omelets Without Eggs</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/chickpea-flour-omelet/>
+
+---
+
+## DMV and Pennsylvania Chocolate & Coffee Festivals Returning in 2025
+
+date: 2025-04-02, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Chocolate and coffee fest" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two relatively new coffee (and chocolate) consumer events are returning to the East Coast in 2025, with the DMV and Pennsylvania Chocolate &#38; Coffee Festivals. Entering its fourth year, the... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/02/dmv-and-pennsylvania-chocolate-coffee-festivals-returning-in-2025/>
+
+---
+
+## Dekáf Coffee Roasters Seeks 100% Quality with Little to No Caffeine
+
+date: 2025-04-02, from: Daily Coffee News
+
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="DEKÁFXDCN PICS &#8211; DEKÁF PRODUCT LAYOUT" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two key figures behind 20-year-old Salem, Massachusetts-based Jaho Coffee recently launched a new direct-to-consumer coffee brand called Dekáf Coffee Roasters. Marketing and design specialist Khanh Nguyen and Jaho Coffee Founder... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/02/dekaf-coffee-roasters-seeks-100-quality-with-little-to-no-caffeine/>
+
+---
+
+## Pop-Tarts Just Dropped the Girl Scout Cookie Flavors You’ve Been Waiting For
+
+date: 2025-04-02, from: Taste of Home
+
+<p>Breakfast won't be complete without one (or three) of these.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/girl-scouts-pop-tarts/">Pop-Tarts Just Dropped the Girl Scout Cookie Flavors You&#8217;ve Been Waiting For</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/girl-scouts-pop-tarts/>
+
+---
+
+## I Need a Pistachio Cake Recipe
+
+date: 2025-04-02, from: Bon Appetet
+
+On this episode of Dinner SOS, the BA Bake Club is back with a brand new cake recipe. Plus, a baking icon makes a special guest appearance. 
+
+<br> 
+
+<https://www.bonappetit.com/story/i-need-a-pistachio-cake-recipe>
 
 ---
 
@@ -13,7 +179,7 @@ updated: 2025-04-02 06:08:31
 
 date: 2025-04-02, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee cherry" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Before the specialty coffee associations of the United States and Europe merged to form SCA, I spent a few years as a volunteer on the SCAA&#160;Sustainability Council. I was working... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee cherry" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-cherry.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Before the specialty coffee associations of the United States and Europe merged to form SCA, I spent a few years as a volunteer on the SCAA&#160;Sustainability Council. I was working... 
 
 <br> 
 
@@ -99,6 +265,20 @@ Not all comfort food needs to be made from scratch.
 
 ---
 
+## The Great Beef Grillable Contest
+
+date: 2025-04-02, from: Taste of Home
+
+<p>The Great Grillable Contest</p>
+<p>The post <a href="https://www.tasteofhome.com/article/grillablegiveaway/">The Great Beef Grillable Contest</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/grillablegiveaway/>
+
+---
+
 ## Braised Cabbage
 
 date: 2025-04-02, from: Taste of Home
@@ -115,7 +295,7 @@ Braised cabbage is sauteed then cooked slowly with broth and cider vinegar for a
 
 date: 2025-04-01, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Coffee April Fools" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Per DCN tradition, we&#8217;ve rounded up some of the top April 1 headlines of the year, because, after all, who couldn&#8217;t use a bit of levity these days — even... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="Coffee April Fools" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-April-Fools.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Per DCN tradition, we&#8217;ve rounded up some of the top April 1 headlines of the year, because, after all, who couldn&#8217;t use a bit of levity these days — even... 
 
 <br> 
 
@@ -231,7 +411,7 @@ Fill hearts and bellies with sweet childhood nostalgia through our classic M&amp
 
 date: 2025-04-01, from: Daily Coffee News
 
-<div><img width="620" height="463" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-620x463.jpg" class="attachment-large size-large wp-post-image" alt="roasted-coffee-2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-620x463.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-300x224.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-768x574.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Cloud-based coffee software provider Flexnet is making its official United States launch at the SCA Expo in Houston next month.&#160; Founded in Australia by longtime specialty coffee professional Caleb Sexton,... 
+<div><img width="620" height="463" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-620x463.jpg" class="attachment-large size-large wp-post-image" alt="roasted-coffee-2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-620x463.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-300x224.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-150x112.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1-768x574.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/roasted-coffee-2-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Cloud-based coffee software provider Flexnet is making its official United States launch at the SCA Expo in Houston next month.&#160; Founded in Australia by longtime specialty coffee professional Caleb Sexton,... 
 
 <br> 
 

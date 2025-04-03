@@ -28,7 +28,599 @@
 Items collected from feeds in <a href="columns.txt">columns.txt</a>
 </div>
 <h1 id="columns">columns</h1>
-<p>(date: 2025-04-02 06:08:26)</p>
+<p>(date: 2025-04-03 06:09:17)</p>
+<hr />
+<h2 id="what-happenedings">What-Happenedings</h2>
+<p>date: 2025-04-03, from: Doc Searls (at Harvard), New Old Blog</p>
+<p>Be theres. In The False Intention Economy: How AI Systems Are
+Replacing Human Will with Modeled Behavior, Katalin Bártfai-Walcott lays
+out the battlefield between the real Intention Economy and the fake one
+that surveillance creeps are talking about. We'll be working on the real
+one next week at VRM Day and IIW. VRM Day (on Monday) is […]</p>
+<p><br></p>
+<p><a href="https://doc.searls.com/2025/04/03/what-happenedings/"
+class="uri">https://doc.searls.com/2025/04/03/what-happenedings/</a></p>
+<hr />
+<h2
+id="zorin-os-17.3-takes-the-brave-step-of-changing-its-default-browser-from-firefox">Zorin
+OS 17.3 takes the Brave step of changing its default browser from
+Firefox</h2>
+<p>date: 2025-04-03, updated: 2025-04-03, from: Liam Proven’s articles
+at the Register</p>
+<h4>
+<span class="label">Comment</span> To be fair, it sounds like the team
+has ironed out the more controversial features
+</h4>
+<pre><code>  &lt;p&gt;The latest version of Zorin OS, a popular Windows-macOS-like Ubuntu Linux remix, looks good, but there&amp;#39;s one change that causes this vulture some concern.&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/03/zorin_os_173/"
+class="uri">https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/03/zorin_os_173/</a></p>
+<hr />
+<h2 id="web-3.0-requires-data-integrity">Web 3.0 Requires Data
+Integrity</h2>
+<p>date: 2025-04-03, updated: 2025-04-02, from: Bruce Schneier blog</p>
+<p>
+If you’ve ever taken a computer security class, you’ve probably learned
+about the three legs of computer security—confidentiality, integrity,
+and availability—known as
+the <a href="https://www.nist.gov/image/cia-triad">CIA triad</a>. When
+we talk about a system being secure, that’s what we’re referring to. All
+are important, but to different degrees in different contexts. In a
+world populated by artificial intelligence (AI) systems and artificial
+intelligent agents, integrity will be paramount.
+</p>
+<p>
+What is data integrity? It’s ensuring that no one can modify data—that’s
+the security angle—but it’s much more than that. It encompasses
+accuracy, completeness, and quality of data—all over both time and
+space. It’s preventing accidental data loss; the “undo” button is a
+primitive integrity measure. It’s also making sure that data is accurate
+when it’s collected—that it comes from a trustworthy source, that
+nothing important is missing, and that it doesn’t change as it moves
+from format to format. The ability to restart your computer is another
+integrity measure…
+</p>
+<p><br></p>
+<p><a
+href="https://www.schneier.com/blog/archives/2025/04/web-3-0-requires-data-integrity.html"
+class="uri">https://www.schneier.com/blog/archives/2025/04/web-3-0-requires-data-integrity.html</a></p>
+<hr />
+<h2
+id="why-foss-oses-often-dont-have-power-management-as-good-as-proprietary-ones">Why
+FOSS OSes often don’t have power management as good as proprietary
+ones</h2>
+<p>date: 2025-04-03, from: Liam on Linux</p>
+(Especially Haiku.)<br /><br />It may seem odd but it’s not.<br />
+<p>
+Haiku is a recreation of a late-1990s OS. News for you: in the 1990s and
+until then, computers didn’t do power management.
+</p>
+<p>
+The US government had to institute a whole big programme to get
+companies to add power management.
+</p>
+<p>
+<a rpl="" class="relative pointer-events-auto a cursor-pointer          underline  " href="https://en.wikipedia.org/wiki/Energy_Star" rel="noopener nofollow ugc" target="_blank">https://en.wikipedia.org/wiki/Energy_Star</a>
+</p>
+<p>
+Aggressive power management is only a thing because silicon vendors lie
+to their customers. Yes, seriously.
+</p>
+<p>
+From the mid-1970s for about 30 years, adding more transistors meant
+computers got faster. CPUs went from 4-bit to 8-bit to 16-bit to 32-bit,
+then there was a pause while they gained onboard memory management
+(Intel 80386/Motorola 68030 generation) then scalar execution and
+onboard hardware floating point (80486/68040 generation), then onboard
+L1 cache (Pentium), then superscalar execution and near-board L2 cache
+(Pentium II), then onboard L2 (Pentium III), then they ran out of ideas
+to spend CPU transistors on, so the transistor budget went on RAM
+instead, meaning we needed 64-bit CPUs to track it.
+</p>
+<p>
+The Pentium 4 was an attempt to crank this as high as it would go by
+running as fast as possible and accepting a low IPC (instructions per
+clock). It was nicknamed the fanheater. So Intel US pivoted to Intel
+Israel’s low-power laptop chip with aggressive power management. Voilà,
+the Core and then Core 2 series.
+</p>
+<p>
+Then, circa 2006-2007, <em>big</em> problem. 64-bit chips had loads of
+cache on board, they were superscalar, decomposing x86 instructions into
+micro ops, resequencing them for optimal execution with branch
+prediction, they had media and 3D extensions like MMX2, SSE, SSE2, they
+were 64-bit with lots of RAM, and there was <em>nowhere to spend the
+increasing transistor budget.</em>
+</p>
+<p>
+Result, multicore. Duplicate everything. Tell the punters it’s twice as
+fast. It isn’t. Very few things are parallel.
+</p>
+<p>
+With an SMP-aware OS, like NT or BeOS or Haiku, 2 cores make things a
+bit more responsive but no faster.
+</p>
+<p>
+Then came 3 and 4 cores, and onboard GPUs, and then heterogenous cores,
+with "efficiency" and "performance" cores… but none of this makes your
+software run faster. It’s marketing.
+</p>
+<p>
+You can’t run all the components of a modern CPU at once. It would burn
+itself out in seconds. Most of the chip is turned off most of the time,
+and there’s an onboard management core running its own OS, invisible to
+user code, to handle this.
+</p>
+<p>
+Silicon vendors are selling us stuff we can’t use. If you turned it all
+on at once, instant self-destruction. We spend money on transistors that
+<em>must</em> spend 99% of the time turned off. It’s called "dark
+silicon" and it’s what we pay for.
+</p>
+<p>
+In real life, chips stopped getting Moore’s Law speed increases 20 years
+ago. That’s when we stopped getting twice the performance every 18
+months.
+</p>
+<p>
+All the aggressive power management and sleep modes are to help
+inadequate cooling systems stop CPUs instantly incinerating themselves.
+Hibernation is to disguise how slowly multi-gigabyte OSes boot. You
+can’t see the slow boot if it doesn’t boot so often.
+</p>
+<p>
+For 20 years the CPU and GPU vendors have been selling us transistors we
+can’t use. Power management is the excuse.
+</p>
+<p>
+Update your firmware early and often. Get a nice fast SSD. Shut it down
+when you’re not using it: it reboots fast.
+</p>
+<p>
+Enjoy a fast responsive OS that doesn’t try to play the Win/Lin/Mac game
+of "write more code to use the fancy accelerators and hope things go
+faster".   
+</p>
+<p><br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=94479" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/>
+comments</p>
+<p><br></p>
+<p><a href="https://liam-on-linux.dreamwidth.org/94479.html"
+class="uri">https://liam-on-linux.dreamwidth.org/94479.html</a></p>
+<hr />
+<h2 id="rules-for-dealing-with-trumps-demands-for-capitulation">10 rules
+for dealing with Trump’s demands for capitulation</h2>
+<p>date: 2025-04-03, from: Robert Reich’s blog</p>
+<p>Whether it’s universities, law firms, or entire countries, here are
+10 basic rules for hitting back</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/how-to-deal-with-trumps-demands-for"
+class="uri">https://robertreich.substack.com/p/how-to-deal-with-trumps-demands-for</a></p>
+<hr />
+<h2 id="april-2-2025-wednesday">April 2, 2025 (Wednesday)</h2>
+<p>date: 2025-04-03, from: Heather Cox Richardson blog</p>
+<p>Just five months ago, on October 19, 2024, The Economist ran a
+special report on America’s economy.</p>
+<p><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/april-2-2025-wednesday"
+class="uri">https://heathercoxrichardson.substack.com/p/april-2-2025-wednesday</a></p>
+<hr />
+<h2
+id="what-canada-mexico-japan-the-uk-and-the-european-union-should-do-in-response-to-trumps-grossly-irresponsible-tariffs">What
+Canada, Mexico, Japan, the UK, and the European Union should do in
+response to Trump’s grossly irresponsible tariffs</h2>
+<p>date: 2025-04-03, from: Robert Reich’s blog</p>
+<p>Don’t negotiate. Do this now so you’ll be negotiating from a position
+of power.</p>
+<p><br></p>
+<p><a
+href="https://robertreich.substack.com/p/what-canada-mexico-japan-the-uk-and"
+class="uri">https://robertreich.substack.com/p/what-canada-mexico-japan-the-uk-and</a></p>
+<hr />
+<h2 id="launching-the-economic-version-of-the-iraq-war.">Launching the
+Economic Version of the Iraq War.</h2>
+<p>date: 2025-04-02, from: James Fallows, Substack</p>
+<p>Tariffs are like military actions. They’re ‘good’ or ‘bad’ based on
+specifics: Why, how, at what cost, toward what end. Donald Trump has
+just committed US power in a profoundly stupid way.</p>
+<p><br></p>
+<p><a
+href="https://fallows.substack.com/p/launching-the-economic-version-of"
+class="uri">https://fallows.substack.com/p/launching-the-economic-version-of</a></p>
+<hr />
+<h2 id="google-products-are-shit-for-meaningful-collaboration">Google
+products are shit for meaningful collaboration</h2>
+<p>date: 2025-04-02, from: Matt Haughey blog</p>
+<p>
+A couple months back, I started freelancing with a new organization,
+helping people dealing with natural disasters. Getting access to
+previous work and plans was a pain at first, because I had to request
+access to items one by one with my personal email address. Soon after, I
+converted to
+</p>
+<p><br></p>
+<p><a
+href="https://a.wholelottanothing.org/google-products-are-shit-for-meaningful-collaboration/"
+class="uri">https://a.wholelottanothing.org/google-products-are-shit-for-meaningful-collaboration/</a></p>
+<hr />
+<h2 id="wisconsin-for-the-win">Wisconsin for the Win</h2>
+<p>date: 2025-04-02, from: Dan Rather’s Steady</p>
+<p>Democrats nationally have reason for cautious optimism</p>
+<p><br></p>
+<p><a href="https://steady.substack.com/p/wisconsin-for-the-win"
+class="uri">https://steady.substack.com/p/wisconsin-for-the-win</a></p>
+<hr />
+<h2 id="april-1-2025">April 1, 2025</h2>
+<p>date: 2025-04-02, from: Heather Cox Richardson blog</p>
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160453516/eaf58edabf3663583d4cb1c00238949e.mp3">
+</source>
+</audio>
+<p><a href="https://api.substack.com/feed/podcast/160453516/eaf58edabf3663583d4cb1c00238949e.mp3" target="_blank">download
+audio/mpeg</a><br></p>
+<p><a
+href="https://heathercoxrichardson.substack.com/p/april-1-2025-b4f"
+class="uri">https://heathercoxrichardson.substack.com/p/april-1-2025-b4f</a></p>
+<hr />
+<h2
+id="m.-gessen-unmarked-vans.-secret-lists.-public-denunciations.-our-police-state-has">M.
+Gessen: Unmarked Vans. Secret Lists. Public Denunciations. Our Police
+State Has…</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046573-m-gessen-unmarked-vans-se"
+class="uri">https://kottke.org/25/04/0046573-m-gessen-unmarked-vans-se</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="John">@John</span>’s World
+Wide Wall Display</strong> (date: 2025-04-02, from: John’s World Wide
+Wall Display)</p>
+<p>As my full time teaching moves towards the end. I wonder what other
+job allows you to: organise an art exhibit; video conference with
+someone from NASA; go for walks in the woods; write poems; learn about
+AI; play with paint, numbers, cardboard &amp; a whole lot more. Half
+full I’d say.</p>
+<p><br></p>
+<p><a href="https://johnjohnston.info/blog/teaching/"
+class="uri">https://johnjohnston.info/blog/teaching/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Miguel">@Miguel</span> de
+Icaza Mastondon feed</strong> (date: 2025-04-02, from: Miguel de Icaza
+Mastondon feed)</p>
+<p>
+Current status
+</p>
+<p><br></p>
+<p><a href="https://mastodon.social/@Migueldeicaza/114270059880023724"
+class="uri">https://mastodon.social/@Migueldeicaza/114270059880023724</a></p>
+<hr />
+<h2
+id="nature-poll-of-1600-us-scientists-75-are-considering-leaving-the-country">Nature
+poll of 1600 US scientists: 75% are considering leaving the
+country,…</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046569-nature-poll-of-1600-us"
+class="uri">https://kottke.org/25/04/0046569-nature-poll-of-1600-us</a></p>
+<hr />
+<h2
+id="clickens-judge-paintings-of-chickens-based-on-characteristics-like-persistence-altruism-petulance">Clickens!
+Judge paintings of chickens based on characteristics like persistence,
+altruism, petulance,…</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046553-clickens-judge-paintings-"
+class="uri">https://kottke.org/25/04/0046553-clickens-judge-paintings-</a></p>
+<hr />
+<h2
+id="lots-of-great-comments-from-students-parents-and-faculty-in-the-end">Lots
+of great comments from students, parents, and faculty in “The End…</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046568-lots-of-great-comments-fr"
+class="uri">https://kottke.org/25/04/0046568-lots-of-great-comments-fr</a></p>
+<hr />
+<h2
+id="timothy-snyder-the-american-imperialism-directed-towards-denmark-and-canada-is-not">Timothy
+Snyder: “The American imperialism directed towards Denmark and Canada is
+not…</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046565-timothy-snyder-the-americ"
+class="uri">https://kottke.org/25/04/0046565-timothy-snyder-the-americ</a></p>
+<hr />
+<h2
+id="an-e-bike-transformed-my-familys-life.-i-felt-connected-to-our-neighborhood">An
+E-Bike Transformed My Family’s Life. “I felt connected to our
+neighborhood…</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046564-an-e-bike-transformed-my-"
+class="uri">https://kottke.org/25/04/0046564-an-e-bike-transformed-my-</a></p>
+<hr />
+<h2 id="nintendo-switch-2-details">Nintendo Switch 2 Details</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Daring Fireball</p>
+<p><br></p>
+<p><a
+href="https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream"
+class="uri">https://www.theverge.com/nintendo/638604/nintendo-switch-2-direct-news-trailers-stream</a></p>
+<hr />
+<h2
+id="steve-kornacki-exits-msnbc-for-new-deal-with-nbc-news-and-nbc-sports">Steve
+Kornacki Exits MSNBC for New Deal With NBC News and NBC Sports</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Daring Fireball</p>
+<p><br></p>
+<p><a
+href="https://www.latimes.com/entertainment-arts/business/story/2025-04-01/steve-kornacki-exits-msnbc-lands-new-deal-with-nbc-news-and-nbc-sports"
+class="uri">https://www.latimes.com/entertainment-arts/business/story/2025-04-01/steve-kornacki-exits-msnbc-lands-new-deal-with-nbc-news-and-nbc-sports</a></p>
+<hr />
+<h2 id="what-makes-an-app-feel-right-on-the-mac">‘What Makes an App Feel
+“Right” on the Mac?’</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Daring Fireball</p>
+<p><br></p>
+<p><a href="https://coyotetracks.org/blog/app-feel-on-mac/"
+class="uri">https://coyotetracks.org/blog/app-feel-on-mac/</a></p>
+<hr />
+<h2
+id="margaret-sullivan-on-the-need-for-straight-talk-right-now.-enough-with">Margaret
+Sullivan on “the need for straight talk right now. Enough with…</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046563-margaret-sullivan-on-the-"
+class="uri">https://kottke.org/25/04/0046563-margaret-sullivan-on-the-</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-04-02, from: Dave Winer’s Scripting
+News)</p>
+<p>Gambling and sports don’t mix for me. I want a version of games
+without the gambling. I don’t know how parents can let their kids watch
+games with all the gambling ads.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/04/02.html#a142431"
+class="uri">http://scripting.com/2025/04/02.html#a142431</a></p>
+<hr />
+<h2
+id="this-propublica-story-about-ice-deportation-flights-with-intel-from-flight-attendants">This
+ProPublica story about ICE deportation flights, with intel from flight
+attendants…</h2>
+<p>date: 2025-04-02, updated: 2025-04-02, from: Jason Kittke’s blog</p>
+<p><br></p>
+<p><a href="https://kottke.org/25/04/0046562-this-propublica-story-abo"
+class="uri">https://kottke.org/25/04/0046562-this-propublica-story-abo</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+Scripting News</strong> (date: 2025-04-02, from: Dave Winer’s Scripting
+News)</p>
+<p><img class="imgRightMargin" src="https://imgs.scripting.com/2025/04/02/cheese.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://www.njspotlightnews.org/2025/04/booker-makes-speech-marathon-to-fight-trump-crisis/">Cory
+Booker asked the right question</a>. “Where does the Constitution live?
+On paper or in our hearts?” Every living American was raised under the
+Bill of Rights. That’s different from other countries which have long
+traditions of autocracies. Fascism on a mass scale will have a harder
+time taking root in this country.
+<a href="https://thehill.com/homenews/media/5224117-trump-deportation-gang-members/">Joe
+Rogan said</a> what Trump is doing is wrong. He knows he has the right
+to say that. Setting a fine example. It will be hard to suppress
+that.</p>
+<p><br></p>
+<p><a href="http://scripting.com/2025/04/02.html#a140506"
+class="uri">http://scripting.com/2025/04/02.html#a140506</a></p>
+<hr />
+<h2 id="something-about-the-bot-defence-is-working">2025-03-20 Something
+about the bot defence is working</h2>
+<p>date: 2025-04-02, from: Alex Schroeder’s Blog</p>
+<h1 id="2025-03-20-something-about-the-bot-defence-is-working">
+2025-03-20 Something about the bot defence is working
+</h1>
+<p>
+At midnight, there was a surge in activity. CPU usage went up.
+</p>
+<p>
+<img loading="lazy" src="2025-03-20-bot-defence-1.jpg" alt="" />
+</p>
+<p>
+Load went up, too. But it stayed within reasonable bounds – less than 4
+instead of the more than 80 I have seen in the past.
+</p>
+<p>
+<img loading="lazy" src="2025-03-20-bot-defence-2.jpg" alt="" />
+</p>
+<p>
+And the number of IP addresses blocked by <code>fail2ban</code> went
+from 40 to 50.
+</p>
+<p>
+<img loading="lazy" src="2025-03-20-bot-defence-3.jpg" alt="" />
+</p>
+<p>
+I’m usually sceptical of this because the big attacks are from a far
+wider variety of IP numbers. In this case, however, maybe there was some
+probing that resulted in blocks? I don’t know. Lucky, I guess?
+</p>
+<p>
+In any case, the site is still up. Yay for small wins.
+</p>
+<p>
+Also, I cannot overstate how good it feel to have some
+<a href="https://munin-monitoring.org/">Munin</a> graphs available.
+</p>
+<p>
+<code>alex-bots</code> is a setup I desribed in
+<a href="2025-02-19-bots-again">2025-02-19 Bots again, cursed</a>.
+Basically a request to one of my Oddmuse wikis containing the parameter
+<code>rcidonly</code> is an expensive endpoint: “all changes for this
+single page” or “a feed for this single page”. This is something a human
+would rarely access and yet it somehow the URLs landed in some dataset
+for AI training, I suspect. So what I do is I’m redirecting any request
+containing “rcidonly” in the query string to <code>/nobots</code>,
+warning humans not to click on these links.
+</p>
+<p>
+In addition to that, the filter
+<code>/etc/fail2ban/filter.d/alex-bots.conf</code> contains this:
+</p>
+<pre><code>[Definition]
+failregex = ^(www\.emacswiki\.org|communitywiki\.org|campaignwiki\.org):[0-9]+ &lt;HOST&gt; .*rcidonly=
+</code></pre>
+<p>
+And I added a section using this filter to my jail
+<code>/etc/fail2ban/jail.d/alex.conf</code>:
+</p>
+<pre><code>[alex-bots]
+enabled = true
+port    = http,https
+logpath = %(apache_access_log)s
+findtime = 3600
+maxretry = 2
+</code></pre>
+<p>
+So if an IP number visits three URLs containing “rcidonly” in an hour,
+they get banned for ten minutes.
+</p>
+<p>
+The <code>recidive</code> filter (a standard filter you just need to
+activate) then makes sure that any IP number that got blocked three
+times gets blocked for a week.
+</p>
+<p>
+<a class="tag" href="/search/?q=%23Administration">#Administration</a>
+<a class="tag" href="/search/?q=%23Butlerian_Jihad">#Butlerian Jihad</a>
+</p>
+<p>
+<strong>2025-03-20</strong>. Ever since Drew DeVault published his blog
+post, more people seem to notice what’s going on: AI ingestion is
+killing web sites and web services.
+</p>
+<blockquote>
+<p>
+If you think these crawlers respect <code>robots.txt</code> then you are
+several assumptions of good faith removed from reality. These bots crawl
+everything they can find, <code>robots.txt</code> be damned, including
+expensive endpoints like git blame, every page of every git log, and
+every commit in every repo, and they do so using random User-Agents that
+overlap with end-users and come from tens of thousands of IP addresses –
+mostly residential, in unrelated subnets, each one making no more than
+one HTTP request over any time period we tried to measure – actively and
+maliciously adapting and blending in with end-user traffic and avoiding
+attempts to characterize their behavior or block their traffic. –
+<a href="https://drewdevault.com/2025/03/17/2025-03-17-Stop-externalizing-your-costs-on-me.html">Please
+stop externalizing your costs directly into my face</a>, by Drew
+DeVault, for SourceHut
+</p>
+<p>
+Then, yesterday morning, KDE GitLab infrastructure was overwhelmed by
+another AI crawler, with IPs from an Alibaba range; this caused GitLab
+to be temporarily inaccessible by KDE developers. I then discovered
+that, one week ago, an Anime girl started appearing on the GNOME GitLab
+instance, as the page was loaded. It turns out that it’s the default
+loading page for Anubis, a proof-of-work challenger that blocks AI
+scrapers that are causing outages. –
+<a href="https://thelibre.news/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS
+infrastructure is under attack by AI companies</a>, by Niccolò
+Venerandi, for LibreNews
+</p>
+<p>
+What do SourceHut, GNOME’s GitLab, and KDE’s GitLab have in common,
+other than all three of them being forges? Well, it turns out all three
+of them have been dealing with immense amounts of traffic from “AI”
+scrapers, who are effectively performing DDoS attacks with such ferocity
+it’s bringing down the infrastructures of these major open source
+projects. Being open source, and thus publicly accessible, means these
+scrapers have unlimited access, unlike with proprietary projects. …
+Everything about this “AI” bubble is gross, and I can’t wait for this
+bubble to pop so a semblance of sanity can return to the technology
+world. Until the next hype train rolls into the station, of course. –
+<a href="https://www.osnews.com/story/141969/foss-infrastructure-is-under-attack-by-ai-companies/">FOSS
+infrastructure is under attack by AI companies</a>, by Thom Holwerda,
+for OSnews
+</p>
+</blockquote>
+<p>
+<strong>2025-03-22</strong>. Ordinary sysadmins get hit as well. Here’s
+Sean Conner of the The Boston Diaries: He reports on
+<a href="https://boston.conman.org/2025/03/21">Friday, March 21,
+2025</a> that his logs show a total of 468439 requests for February
+2025. The top hitter was 4.231.104.62 with 43242 requests (9%). This was
+from MICROSOFT-CORP-MSN-AS-BLOCK, US. But the ASN has more networks, of
+course. Adding them all up give 78889 (17%).
+</p>
+<p>
+He links to the <a href="https://www.team-cymru.com/ip-asn-mapping">IP
+to ASN Mapping Service</a> by Team Cymru. I started switching my
+<a href="/admin/network-lookup">network-lookup</a> script to using it
+because it also supports IPv6. Something that I haven’t done is find the
+ASN and then block all the blocks belonging to the ASN. That’s where I
+want to be, actually.
+</p>
+<p>
+<strong>2025-03-26</strong>. More media are picking it up, but with a
+strange focus on “open source”.
+</p>
+<blockquote>
+<p>
+As it currently stands, both the rapid growth of AI-generated content
+<a href="https://www.404media.co/ai-slop-is-a-brute-force-attack-on-the-algorithms-that-control-reality/">overwhelming</a>
+online spaces and aggressive web-crawling practices by AI firms threaten
+the sustainability of essential online resources. The current approach
+taken by some large AI
+companies—<a href="https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again">extracting</a>
+vast amounts of data from open-source projects without clear consent or
+compensation—risks severely damaging the very digital ecosystem on which
+these AI models depend. –
+<a href="https://arstechnica.com/ai/2025/03/devs-say-ai-crawlers-dominate-traffic-forcing-blocks-on-entire-countries/">Open
+Source devs say AI crawlers dominate traffic, forcing blocks on entire
+countries</a>, by Benj Edwards, for Ars Technica
+</p>
+</blockquote>
+<p>
+<a class="account" href="https://mastodon.social/@bagder" title="@bagder@mastodon.social"><span
+class="citation" data-cites="bagder">@bagder</span></a> recently had
+some numbers:
+</p>
+<blockquote>
+<p>
+The AI bots that desperately need OSS for code training, are now slowly
+killing OSS by overloading every site. The curl website is now at
+77TB/month, or 8GB every five minutes.
+</p>
+</blockquote>
+<p>
+<a class="account" href="https://tilde.zone/@gluejar" title="@gluejar@tilde.zone"><span
+class="citation" data-cites="gluejar">@gluejar</span></a> writes:
+</p>
+<blockquote>
+<p>
+There’s a war going on on the Internet. AI companies with billions to
+burn are hard at work destroying the websites of libraries, archives,
+non-profit organizations, and scholarly publishers, anyone who is
+working to make quality information universally available on the
+internet. –
+<a href="https://go-to-hellman.blogspot.com/2025/03/ai-bots-are-destroying-open-access.html">AI
+bots are destroying Open Access</a>, by Eric Hellman
+</p>
+</blockquote>
+<p>
+<strong>2025-04-02</strong>. The bots keep eating everything of value.
+</p>
+<blockquote>
+<p>
+Since January 2024, we have seen the bandwidth used for downloading
+multimedia content grow by 50%. This increase is not coming from human
+readers, but largely from automated programs that scrape the Wikimedia
+Commons image catalog of openly licensed images to feed images to AI
+models. Our infrastructure is built to sustain sudden traffic spikes
+from humans during high-interest events, but the amount of traffic
+generated by scraper bots is unprecedented and presents growing risks
+and costs. –
+<a href="https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/">How
+crawlers impact the operations of the Wikimedia projects</a>, Birgit
+Mueller, Chris Danis and Giuseppe Lavagetto, all for the Wikimedia
+Foundation
+</p>
+</blockquote>
+<p><br></p>
+<p><a href="https://alexschroeder.ch/view/2025-03-20-bot-defence"
+class="uri">https://alexschroeder.ch/view/2025-03-20-bot-defence</a></p>
 <hr />
 <h2 id="rational-astrologies-and-security">Rational Astrologies and
 Security</h2>
@@ -66,7 +658,7 @@ Cabinet</p>
 href="https://robertreich.substack.com/p/office-hours-who-has-so-far-shown"
 class="uri">https://robertreich.substack.com/p/office-hours-who-has-so-far-shown</a></p>
 <hr />
-<h2 id="april-1-2025">April 1, 2025</h2>
+<h2 id="april-1-2025-1">April 1, 2025</h2>
 <p>date: 2025-04-02, from: Heather Cox Richardson blog</p>
 <p>Today Senator Cory Booker (D-NJ) made history.</p>
 <p><br></p>

@@ -1,11 +1,896 @@
 ---
 title: snapshots
-updated: 2025-04-02 06:08:32
+updated: 2025-04-03 06:09:23
 ---
 
 # snapshots
 
-(date: 2025-04-02 06:08:32)
+(date: 2025-04-03 06:09:23)
+
+---
+
+## China’s Controversial Court Rulings on AI Output—and How It May Affect People in the US
+
+date: 2025-04-03, from: Authors Union blogs
+
+Chinese courts are recognizing AI-generated works as copyrightable, and these rulings could potentially impact those in the US under certain circumstances. 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/04/03/chinas-controversial-court-rulings-on-ai-output-and-how-it-may-affect-people-in-the-us/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+Waltz’s team set up at least 20 Signal group chats for crises across the world. 
+
+<br> 
+
+<https://www.politico.com/news/2025/04/02/waltzs-team-set-up-at-least-20-signal-group-chats-for-crises-across-the-world-00266845>
+
+---
+
+## Curiouser and curiouser
+
+date: 2025-04-03, from: Status-Q blog
+
+Amongst the more bizarre aspects of the Trump tariff announcements last night were the figures he came up with for the tariffs being charged by other countries. Even people who are as unfamiliar with economics as I am wondered, &#8220;Where on earth did he get those from?&#8221; They didn&#8217;t seem to bear any resemblance to <a class="more-link excerpt-link" href="https://statusq.org/archives/2025/04/03/13111/">Continue Reading<span class="glyphicon glyphicon-chevron-right"></span></a> 
+
+<br> 
+
+<https://statusq.org/archives/2025/04/03/13111/>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-03, updated: 2025-04-03, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/b1251cc3253319c6b0f451c218fd171458f5e506">(b1251cc3)</a>
+<i>
+at
+03 Apr 12:51
+</i>
+</p>
+<div class="blockquote"><p dir="auto">a few more steps</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/b1251cc3253319c6b0f451c218fd171458f5e506>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+I’ve been friends with Om for decades, but he’s wrong about Bluesky. It’s a clone of Twitter, that’s why it’s so popular, but it has the same flaw Twitter had — it could be turned against its users by an acquiring billionaire. He and his co-author fell for their hype. 
+
+<br> 
+
+<https://crazystupidtech.com/archive/bluesky-isnt-just-another-twitterx-competitor-it/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+Trump’s Fight Against Antisemitism Has Become Fraught for Many Jews. 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/02/us/jews-trump.html>
+
+---
+
+## Will Malignant Stupidity Kill the World Economy?
+
+date: 2025-04-03, from: Paul Krugman
+
+Trump&#8217;s tariffs are a disaster. His policy process is worse. 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/will-careless-stupidity-kill-the>
+
+---
+
+## What's up with Linux on Snapdragons?
+
+date: 2025-04-03, from: Libre News
+
+Linux support for the Snapdragon X Elite is not there yet, but Tuxedo has a plan to ship their ARM-based Linux laptop anyway. 
+
+<br> 
+
+<https://thelibre.news/snadpragon-laptops-are-pretty-rough-on-linux-but-theres-hope-2/>
+
+---
+
+## Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard
+
+date: 2025-04-03, from: Raspberry Pi News (.com)
+
+<p>A Raspberry Pi Pico W–powered e-ink display helps this maker stay on track with the demands of a busy schedule.</p>
+<p>The post <a href="https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/">Stay on schedule with Raspberry Pi Pico W and an e-ink dashboard</a> appeared first on <a href="https://www.raspberrypi.com">Raspberry Pi</a>.</p>
+ 
+
+<br> 
+
+<https://www.raspberrypi.com/news/stay-on-schedule-with-raspberry-pi-pico-w-and-an-e-ink-dashboard/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+Trump wanted people to inject chlorine, take ivermectin, to recover from Covid, now prescribes same for the world economy. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-2-2025-wednesday?publication_id=20533&post_id=160478600&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-03, updated: 2025-04-03, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/4b9505b7b54cc89e6b00f1d304f13fd90a98bd95">(4b9505b7)</a>
+<i>
+at
+03 Apr 09:33
+</i>
+</p>
+<div class="blockquote"><p dir="auto">continued with adaptation</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/4b9505b7b54cc89e6b00f1d304f13fd90a98bd95>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+Inside ICE Air: What It’s Like to Be a Deportation Flight Attendant. 
+
+<br> 
+
+<https://www.propublica.org/article/inside-ice-air-deportation-flights>
+
+---
+
+## 291: Merlin's Manuscript
+
+date: 2025-04-03, from: Fix the News
+
+Plus, Thailand bans smacking kids, solar canals, India's super highways, and good news on dementia in the United States, wildlife crossings in Colorado, and Finland going coal-free ahead of schedule. 
+
+<br> 
+
+<https://fixthenews.com/291-merlins-manuscript/>
+
+---
+
+## Many second-hand electric cars are cheaper up-front than their petrol equivalents
+
+date: 2025-04-03, from: Hannah Richie at Substack
+
+And no, it's not just for old ones that have done lots of miles. 
+
+<br> 
+
+<https://www.sustainabilitybynumbers.com/p/used-electric-car-costs>
+
+---
+
+## The VCR’s Last Stand
+
+date: 2025-04-03, updated: 2025-04-03, from: Tedium site
+
+It’s pretty much the answer to a trivia question at this point, but there was once a version of VHS that looked better than DVDs. Really. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16997781/d-vhs-d-theater-digital-vcr-history>
+
+---
+
+**@Seth Erickson's Mastodon feed** (date: 2025-04-03, from: Seth Erickson's Mastodon feed)
+
+<p>Nicely designed scholarly web project: <a href="https://stones.computer" target="_blank" rel="nofollow noopener noreferrer" translate="no"><span class="invisible">https://</span><span class="">stones.computer</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://hachyderm.io/@serickson/114271765657834315>
+
+---
+
+## Minimal CSS-only blurry image placeholders
+
+date: 2025-04-03, updated: 2025-04-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://leanrada.com/notes/css-only-lqip/">Minimal CSS-only blurry image placeholders</a></strong></p>
+Absolutely brilliant piece of CSS ingenuity by Lean Rada, who describes a way to implement blurry placeholder images using just CSS, with syntax like this:</p>
+<pre><span class="pl-kos">&lt;</span><span class="pl-ent">img</span> <span class="pl-c1">src</span>="<span class="pl-s">…</span>" <span class="pl-c1">style</span>="<span class="pl-s">--lqip:192900</span>"<span class="pl-kos">&gt;</span></pre>
+
+<p>That 192900 number encodes everything needed to construct the placeholder - it manages to embed a single base color and six brightness components (in a 3x2 grid) in 20 bits, then encodes those as an integer in the roughly 2 million available values between -999,999 and 999,999 - beyond which range Lean found some browsers would start to lose precision.</p>
+<p>The implementation for decoding that value becomes a bunch of clever bit-fiddling CSS expressions to expand it into further CSS variables:</p>
+<pre>[<span class="pl-c1">style</span><span class="pl-c1">*=</span><span class="pl-s">"--lqip:"</span>] {
+  <span class="pl-s1">--lqip-ca</span><span class="pl-kos">:</span> <span class="pl-en">mod</span>(<span class="pl-en">round</span>(down<span class="pl-kos">,</span> <span class="pl-en">calc</span>((<span class="pl-en">var</span>(<span class="pl-s1">--lqip</span>) <span class="pl-c1">+</span> <span class="pl-en">pow</span>(<span class="pl-c1">2</span><span class="pl-kos">,</span> <span class="pl-c1">19</span>)) <span class="pl-c1">/</span> <span class="pl-en">pow</span>(<span class="pl-c1">2</span><span class="pl-kos">,</span> <span class="pl-c1">18</span>)))<span class="pl-kos">,</span> <span class="pl-c1">4</span>);
+  <span class="pl-s1">--lqip-cb</span><span class="pl-kos">:</span> <span class="pl-en">mod</span>(<span class="pl-en">round</span>(down<span class="pl-kos">,</span> <span class="pl-en">calc</span>((<span class="pl-en">var</span>(<span class="pl-s1">--lqip</span>) <span class="pl-c1">+</span> <span class="pl-en">pow</span>(<span class="pl-c1">2</span><span class="pl-kos">,</span> <span class="pl-c1">19</span>)) <span class="pl-c1">/</span> <span class="pl-en">pow</span>(<span class="pl-c1">2</span><span class="pl-kos">,</span> <span class="pl-c1">16</span>)))<span class="pl-kos">,</span> <span class="pl-c1">4</span>);
+  <span class="pl-c">/* more like that */</span>
+}</pre>
+
+<p>Which are expanded to even more variables with code like this:</p>
+<pre><span class="pl-s1">--lqip-ca-clr</span><span class="pl-kos">:</span> <span class="pl-en">hsl</span>(<span class="pl-c1">0</span> <span class="pl-c1">0<span class="pl-smi">%</span></span> <span class="pl-en">calc</span>(<span class="pl-en">var</span>(<span class="pl-s1">--lqip-ca</span>) <span class="pl-c1">/</span> <span class="pl-c1">3</span> <span class="pl-c1">*</span> <span class="pl-c1">100<span class="pl-smi">%</span></span>));
+<span class="pl-s1">--lqip-cb-clr</span><span class="pl-kos">:</span> <span class="pl-en">hsl</span>(<span class="pl-c1">0</span> <span class="pl-c1">0<span class="pl-smi">%</span></span> <span class="pl-en">calc</span>(<span class="pl-en">var</span>(<span class="pl-s1">--lqip-cb</span>) <span class="pl-c1">/</span> <span class="pl-c1">3</span> <span class="pl-c1">*</span> <span class="pl-c1">100<span class="pl-smi">%</span></span>));</pre>
+
+<p>And finally rendered using a CSS gradient definition that starts like this:</p>
+<pre>[<span class="pl-c1">style</span><span class="pl-c1">*=</span><span class="pl-s">"--lqip:"</span>] {
+  <span class="pl-c1">background-image</span><span class="pl-kos">:</span>
+    <span class="pl-en">radial-gradient</span>(<span class="pl-c1">50<span class="pl-smi">%</span></span> <span class="pl-c1">75<span class="pl-smi">%</span></span> at <span class="pl-c1">16.67<span class="pl-smi">%</span></span> <span class="pl-c1">25<span class="pl-smi">%</span></span><span class="pl-kos">,</span> <span class="pl-en">var</span>(<span class="pl-s1">--lqip-ca-clr</span>)<span class="pl-kos">,</span> transparent)<span class="pl-kos">,</span>
+    <span class="pl-en">radial-gradient</span>(<span class="pl-c1">50<span class="pl-smi">%</span></span> <span class="pl-c1">75<span class="pl-smi">%</span></span> at <span class="pl-c1">50<span class="pl-smi">%</span></span> <span class="pl-c1">25<span class="pl-smi">%</span></span><span class="pl-kos">,</span> <span class="pl-en">var</span>(<span class="pl-s1">--lqip-cb-clr</span>)<span class="pl-kos">,</span> transparent)<span class="pl-kos">,</span>
+    <span class="pl-c">/* ... */</span>
+    <span class="pl-en">linear-gradient</span>(<span class="pl-c1">0<span class="pl-smi">deg</span></span><span class="pl-kos">,</span> <span class="pl-en">var</span>(<span class="pl-s1">--lqip-base-clr</span>)<span class="pl-kos">,</span> <span class="pl-en">var</span>(<span class="pl-s1">--lqip-base-clr</span>));
+}</pre>
+
+<p>The article includes several interactive explainers (most of which are also powered by pure CSS) illustrating how it all works.</p>
+<p>Their <a href="https://github.com/Kalabasa/leanrada.com/blob/7b6739c7c30c66c771fcbc9e1dc8942e628c5024/main/scripts/update/lqip.mjs#L118-L159">Node.js script</a> for converting images to these magic integers uses <a href="https://www.npmjs.com/package/sharp">Sharp</a> to resize the image to 3x2 and then use the <a href="https://en.m.wikipedia.org/wiki/Oklab_color_space">Oklab perceptually uniform color space</a> (new to me, that was created by Björn Ottosson in 2020) to derive the six resulting values.
+
+    <p><small></small>Via <a href="https://news.ycombinator.com/item?id=43523220">Hacker News</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/css">css</a>, <a href="https://simonwillison.net/tags/css-custom-properties">css-custom-properties</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/3/minimal-css-only-blurry-image-placeholders/#atom-everything>
+
+---
+
+## Quoting Nolan Lawson
+
+date: 2025-04-03, updated: 2025-04-03, from: Simon Willison’s Weblog
+
+<blockquote cite="https://nolanlawson.com/2025/04/02/ai-ambivalence/"><p>I started using Claude and Claude Code a bit in my regular workflow. I’ll skip the suspense and just say that the tool is <em>way</em> more capable than I would ever have expected. The way I can use it to interrogate a large codebase, or generate unit tests, or even “refactor every callsite to use such-and-such pattern” is utterly gobsmacking. [...]</p>
+<p>Here’s the main problem I’ve found with generative AI, and with “vibe coding” in general: it completely sucks out the joy of software development for me. [...]</p>
+<p>This is how I feel using gen-AI: like a babysitter. It spits out reams of code, I read through it and try to spot the bugs, and then we repeat.</p></blockquote>
+<p class="cite">&mdash; <a href="https://nolanlawson.com/2025/04/02/ai-ambivalence/">Nolan Lawson</a>, AI ambivalence</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/nolan-lawson">nolan-lawson</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/3/nolan-lawson/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+“Every living American was raised under the Bill of Rights.” 
+
+<br> 
+
+<http://scripting.com/2025/04/02.html#a140506>
+
+---
+
+## Language evolves, so we must too. On generative art
+
+date: 2025-04-03, from: Lean Rada's blog
+
+
+<p>A year ago, I stood by the statement that <a href="https://leanrada.com/notes/ai-art-not-generative-art?ref=rss">AI Art is not Generative Art</a>, arguing that the term ‘generative art’ is an art movement in itself that is separate from AI art.</p>
+
+<p>Safe to say, it has been a losing battle.</p>
+
+<p>Even the converse, <em>“generative art is not necessarily AI art”</em>, would be met by confusion from most people. ‘Generative’ has been equated to AI.</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/language-evolves-generative-art/fidenza.jpg?ref=rss" loading="lazy" width="1000" height="1200">
+  <figcaption>Fidenza, a generative artwork system, by Tyler Hobbs</figcaption>
+</figure>
+
+<h2>Exhibition</h2>
+
+<img src="https://leanrada.com/notes/language-evolves-generative-art/sadly-yes.png?ref=rss" loading="lazy" width="654" height="140">
+
+<img src="https://leanrada.com/notes/language-evolves-generative-art/when-we-talk.png?ref=rss" loading="lazy" width="805" height="101">
+
+<img src="https://leanrada.com/notes/language-evolves-generative-art/the-other-day.png?ref=rss" loading="lazy" width="718" height="118">
+
+<p><a href="https://www.reddit.com/r/generative/comments/1hks3sg/has_the_word_generative_been_hijacked_by_ai/" target="_blank">r/generative - Has the word 'generative' been hijacked by AI?</a></p>
+
+<p>I think it's time to move on to a different label. Words are for
+communication, and if a word results in failure of communication, we
+should either agree on a common definition (we can’t) or just use better
+word.</p>
+
+<h2>So, what are the other words for this art?</h2>
+<box-note>If you haven’t read the mentioned <a href="https://leanrada.com/notes/ai-art-not-generative-art?ref=rss" target="_blank">prequel post</a>, you may not understand what “art” I’m taliking about. There’s one example above, but <a href="https://leanrada.com/art?ref=rss" target="_blank">here’s more</a>.</box-note>
+<p>Fortunately, there are already well-established terms to describe the
+medium:</p>
+
+<ul>
+  <li>Procedural art
+  </li><li>Algorithmic art
+  </li><li>Creative coding
+</li></ul>
+
+<p>It’s just a matter of choosing one and leaving the now-loaded
+‘generative’ term behind.</p>
+
+<p>By the process of elimination, I think ‘procedural art’ is the best
+term to use. Let me explain each of the other options.</p>
+
+<h2>Why not Algorithmic</h2>
+
+<p>‘Algorithmic art’ is a top candidate, for sure, and many others have <a href="https://monokai.com/articles/algorithmic-art-as-a-subset-of-generative-art" target="_blank">opted for it in the exodus from ‘generative’</a>. Algorithmic art and procedural art are pretty much synonymous, so why or why not?</p>
+
+<p><strong>Pros:</strong> Unlike generative art, algorithmic art doesn’t
+have the unfortunate connotation from sharing a word with ‘generative
+AI’.</p>
+
+<p><strong>Cons:</strong> While ‘algorithmic art’ doesn’t immediately
+invoke visions of generative AI, the term ‘algortihm’ under the broad definition
+of a ‘set of instructions’ would still include machine learning
+models.</p>
+
+<p>In fact, the word ‘algorithm’ has also entered commonplace usage via
+<strong>‘social media algorithms’</strong>, which are yet another application of machine
+learning and statistics. In this sense, it is used interchangeably with
+the recommender system used to construct personalised content feeds.
+<em>“The algorithm”</em> is a black box, and the word <a href="https://www.technologyreview.com/2021/02/26/1020007/what-is-an-algorithm/" target="_blank">suggests a system beyond understanding</a>. This connotation is not in the spirit of procedural art, where the procedures are authored knowingly.</p>
+
+<p>Another distinction is that while an algorithm is usually defined as a process that takes some <strong>input</strong> and processes it into an <strong>output</strong>, most procedural art programs don’t need inputs at all. They create things from scratch, from maths, from chaos. <small>OK, technically random seeds would be considerend input. But on a conceptual level, no inputs!</small></p>
+
+<h2>Why not Creative Coding</h2>
+
+<p>First of all, it’s such a vague phrase. Why not ‘dynamic
+programming’? 😉</p>
+
+<p>Anyway, that’s not the main point.</p>
+
+<p>Procedural art has grown beyond <em>just coding</em>. I would even
+say most procedural artists don't use code, but nodes and graphs. The
+majority of these procedural art would be used in video games and movie
+VFX.</p>
+
+<p>Instead of coding, one would use <a href="https://pixieditor.net/blog/2024/07/12/devlog5#nodes" target="_blank">node-based programming</a> connecting
+<strong>nodes</strong> that represent operations, building up a
+<strong>graph</strong> to produce a complex image or even a
+3D model.</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/language-evolves-generative-art/nodes.jpg?ref=rss" alt="Node graph and its output" loading="lazy" width="1100" height="910">
+  <figcaption><a href="https://shahriyarshahrabi.medium.com/procedural-chinese-landscape-painting-in-geometry-nodes-blender-3d-6417403430e6" target="_blank">Shahriar Shahrabi - Procedural Chinese Landscape Painting in Geometry Nodes</a></figcaption>
+</figure>
+
+<p>And it’s not just for industrial VFX purposes. It’s also used mainly
+for multimedia, interactive, and installation art.</p>
+
+<figure>
+  <img src="https://leanrada.com/notes/language-evolves-generative-art/sydney1_0.jpg?ref=rss" alt="Sydney Opera House with a projected image on it" loading="lazy" width="640" height="320">
+  <figcaption>Audiovisual projection by <a href="https://derivative.ca/community-post/obscura-digital-turns-sydney-opera-house-inside-out-outside/60793" target="_blank">Obscura Digital using TouchDesigner, a node-based software</a>. (<a href="https://www.youtube.com/watch?v=YKFxkqPdsoI" target="_blank">Picture from YouTube Symphony Orchestra</a>)</figcaption>
+</figure>
+
+<p>So... yeah this genre of art, is not coding.</p>
+
+<h2>OK, then why Procedural Art</h2>
+
+<p>Because the ‘procedure’, the ‘how’ is the core feature of procedural art.</p>
+
+<p>In procedural art, we describe precisely <strong>how</strong> the
+artwork is made. And it’s far from describing to a chatbot in plain
+English. The how is well-defined and understood. Every shape, stroke,
+their positions, colours, ranges, constraints, rules of interaction,
+etc., are all described in some precise way. Sometimes we go down to individual
+pixel level as in a shader. Sometimes at a more geometric level, like in
+turtle or vector graphics. Sometimes on a mathematical level, like
+fractals. Sometimes it’s even a simulation with emergent properties!</p>
+
+<p>Procedural art is more about the <em>process</em>, watching things unfold and emerge, rather than the final output that algorithms are obsessed about.</p>
+
+<p>Procedural art is about the interaction of rules in interesting ways, regardless of whether the rules were written in code, or connected as a graph, or wired in redstone dust.</p>
+
+<p>Finally, <em>procedural art is not AI art</em>. [Insert same exact argument as <a href="https://leanrada.com/notes/ai-art-not-generative-art?ref=rss" target="_blank">AI Art is not Generative Art</a> but with a different name, here]. For funsies, here’s a quick guide: <em>In AI art, you describe <strong>what</strong> the artwork should be. In procedural art, you describe <strong>how</strong> the artwork could be.</em></p>
+
+<h2>What now</h2>
+
+<p>Language evolves because of general usage. See: <em>AI, <a href="https://www.vice.com/en/article/cryptocurrency-are-not-crypto-bitcoin/" target="_blank">crypto</a>,
+cyber, generative</em>. As a fellow user of language, I must evolve my languaging as well — starting with this website.</p>
+
+<p>I have updated the following pages to either disambiguate or even
+completely replace mentions of “generative art”:</p>
+
+<ul>
+  <li>/art/</li>
+  <li>/wares/dimensions/</li>
+</ul>
+
+<p>For the record, I’m not rejecting the other perfectly acceptable terms like algorithmic art and creative coding. My art is still algorithmic, and it’s the result of creative coding. I’m just moving away from ‘generative’.</p>
+
+<p>I’m sure we’ll settle on a universal term soon. Language evolves, after all.</p>
+
+<h2>Appendix</h2>
+
+<figure>
+  <img src="https://leanrada.com/notes/language-evolves-generative-art/search-time.png?ref=rss" loading="lazy" width="1122" height="424">
+  <figcaption>Searches for “generative art” over time</figcaption>
+</figure>
+
+<figure>
+  <img src="https://leanrada.com/notes/language-evolves-generative-art/i-like.png?ref=rss" alt="Note saying: I like your algorithmic art" loading="lazy" width="402" height="115">
+  <figcaption>A visitor has left me this note, which made me rethink</figcaption>
+</figure>
+ 
+
+<br> 
+
+<https://leanrada.com/notes/language-evolves-generative-art/?ref=rss>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Central U.S. braces for powerful tornadoes and flash floods. (No FEMA.) 
+
+<br> 
+
+<https://www.npr.org/2025/04/02/nx-s1-5349304/storms-tornadoes-flooding-midwest-south>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Adam Schiff: Putin Sees Trump as a ‘Child’ Who Can Be Easily Manipulated. 
+
+<br> 
+
+<https://foreignpolicy.com/2025/04/02/adam-schiff-putin-trump-ukraine-signalgate-witkoff/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Apple leads a drop in tech stocks after Trump tariff announcement. 
+
+<br> 
+
+<https://www.cnbc.com/2025/04/02/-apple-leads-drop-in-tech-stocks-after-trump-tariff-announcement.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Dow futures tumble 1,000 points on fear Trump’s tariffs will spark trade war. 
+
+<br> 
+
+<https://bsky.app/notifications>
+
+---
+
+## 553. The Last Viking: Warrior of the New Rome (Part 2)
+
+date: 2025-04-02, from: This is history podcast
+
+<p>Harald Hardrada; exiled prince of Norway and mercenary, has landed in the greatest city on Earth: Constantinople. There he joins one of the most prestigious military organisations in the world, the Varangian Guard, charged with protecting the Emperor. Almost the next ten years of Harald’s young life are spent at war protecting the city from [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/553-the-last-viking-warrior-of-the-new-rome-part-2/">553. The Last Viking: Warrior of the New Rome (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/553-the-last-viking-warrior-of-the-new-rome-part-2/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Immigrant toddlers ordered to appear in court alone. 
+
+<br> 
+
+<https://www.texastribune.org/2018/06/27/immigrant-toddlers-ordered-appear-court-alone/>
+
+---
+
+## Trump Goes Crazy on Trade
+
+date: 2025-04-02, from: Paul Krugman
+
+&#8220;Liberation Day&#8221; is even worse than expected 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-goes-crazy-on-trade>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-02, from: Robert's feed at BlueSky)
+
+Yet another wrong committed by the spoiled orange boy.  Unfortunately not surprising. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llu6navz3223>
+
+---
+
+## Lilbits: Framework Laptop 12, Dasung Paperlike 13K, and Snapdragon 8s Gen 3
+
+date: 2025-04-02, from: Liliputing
+
+<p>Frameworks is expanding its modular, repairable laptop lineup this year with the introduction of the first Framework Laptop 12. It&#8217;s the company&#8217;s first laptop with a touchscreen display and 360-degree hinge, the first with a 12.2 inch screen, and the first that&#8217;s positioned as more of a budget device than a premium system: it&#8217;s expected [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-framework-laptop-12-dasung-paperlike-13k-and-snapdragon-8s-gen-3/">Lilbits: Framework Laptop 12, Dasung Paperlike 13K, and Snapdragon 8s Gen 3</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-framework-laptop-12-dasung-paperlike-13k-and-snapdragon-8s-gen-3/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-02, from: Robert's feed at BlueSky)
+
+Well said 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3llu646v3bs23>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-02, updated: 2025-04-02, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/eae32bde5287031a2446a1b22c57cd018f8668b2">(eae32bde)</a>
+<i>
+at
+02 Apr 21:42
+</i>
+</p>
+<div class="blockquote"><p dir="auto">a few ants modules</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/eae32bde5287031a2446a1b22c57cd018f8668b2>
+
+---
+
+## Moving Targets
+
+date: 2025-04-02, from: Michael Tsai
+
+Nick Lockwood: Airdrop on macOS has this &#8220;great&#8221; feature where it displays receivers asynchronously as it finds them and they are sorted alphabetically, so the order shuffles randomly under the mouse as you are trying to clickBrought to you by the guy who sent a file to a random colleague when trying to share it [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/02/moving-targets/>
+
+---
+
+## Swift Testing: Return Errors From #expect(throws:)
+
+date: 2025-04-02, from: Michael Tsai
+
+Also new in Swift 6.1, ST-0006: We offer three variants of #expect(throws:):One that takes an error type, and matches any error of the same type;One that takes an error instance (conforming to Equatable) and matches any error that compares equal to it; andOne that takes a trailing closure and allows test authors to write arbitrary [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/02/swift-testing-return-errors-from-expectthrows/>
+
+---
+
+## Severed Edits
+
+date: 2025-04-02, from: Michael Tsai
+
+Ernie Smith (via Hacker News): But it of course raises the question: Do they make Apple&#8216;s shows on Macs? As the second season of Severance ended in dramatic fashion, Apple decided to answer that question, and the answer was &#8230; surprisingly confusing. [&#8230;] In the video Apple released, which highlights the Mac-driven editing process that [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/02/severed-edits/>
+
+---
+
+## Rebuilding the Social Security Administration’s Codebase
+
+date: 2025-04-02, from: Michael Tsai
+
+Makena Kelly (Hacker News): The project is being organized by Elon Musk lieutenant Steve Davis, multiple sources who were not given permission to talk to the media tell WIRED, and aims to migrate all SSA systems off COBOL, one of the first common business-oriented programming languages, and onto a more modern replacement like Java within [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/02/rebuilding-the-social-security-administrations-codebase/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Tesla car sales lurch as Elon Musk hits the gas for President Trump. 
+
+<br> 
+
+<https://www.politico.com/news/2025/04/02/elon-musk-alliance-with-trump-turns-off-potential-tesla-buyers-00249228>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+WordPress maker Automattic lays off 16% of staff. 
+
+<br> 
+
+<https://techcrunch.com/2025/04/02/wordpress-maker-automattic-lays-off-16-of-staff/>
+
+---
+
+## Earners vs Owners
+
+date: 2025-04-02, from: Prof. Scott Galloway, No Mercy/No Malace blog
+
+<p>It’s tax season in the U.S. At least 60 million Americans have taxes that are so simple, the IRS could do them automatically and just send them the bill. Instead, the average American spends $270 and 13 hours filing their taxes each year. Is anyone surprised that the IRS is the least popular federal agency, [&#8230;]</p>
+<p>The post <a href="https://www.profgalloway.com/earners-vs-owners-2/">Earners vs Owners</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
+ 
+
+<br> 
+
+<https://www.profgalloway.com/earners-vs-owners-2/>
+
+---
+
+## My Pen Plotter Collection
+
+date: 2025-04-02, from: Biosrhythm blog
+
+Amazing to think I’ve been playing with pen plotters for over 10 years (longer if you count my first plotter, the Commodore 1520 with my VIC-20). What started out as a curiosity has continued to keep me engaged as a retro computing enthusiast and captivated as an artist. I thought I’d go back in time [&#8230;] 
+
+<br> 
+
+<https://biosrhythm.com/?p=3004>
+
+---
+
+## Samsung Galaxy Tab S10 FE brings a modest spec bump, Galaxy Tab S10 FE+ gets a bigger screen
+
+date: 2025-04-02, from: Liliputing
+
+<p>Samsung&#8217;s latest mid-range tablets arrive this week with the new Samsung Galaxy Tab S10 FE and Galaxy Tab S10 FE+ set to go on sale in select markets starting April 3, 2025. At first glance, the new tablets look a lot like the Galaxy Tab S9 FE series that launched about a year and a half ago. But [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/samsung-galaxy-tab-s10-fe-brings-a-modest-spec-bump-galaxy-tab-s10-fe-gets-a-bigger-screen/">Samsung Galaxy Tab S10 FE brings a modest spec bump, Galaxy Tab S10 FE+ gets a bigger screen</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/samsung-galaxy-tab-s10-fe-brings-a-modest-spec-bump-galaxy-tab-s10-fe-gets-a-bigger-screen/>
+
+---
+
+## Forks or No?
+
+date: 2025-04-02, updated: 2025-04-02, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/02/forks-or-no/>
+
+---
+
+## PocketCloud is a portable NAS with a docking station for home use (crowdfunding)
+
+date: 2025-04-02, from: Liliputing
+
+<p>The PocketCloud is a modular storage solution designed to function as a portable hard drive, a backup device for camera SD cards, and a network-attached storage solution with wireless and wired capabilities. It does all of that thanks to a two-part design. Most of the hardware is built into a small, portable gadget that lets you [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/pocketcloud-is-a-portable-nas-with-a-docking-station-for-home-use-crowdfunding/">PocketCloud is a portable NAS with a docking station for home use (crowdfunding)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/pocketcloud-is-a-portable-nas-with-a-docking-station-for-home-use-crowdfunding/>
+
+---
+
+## T-Mobile Shows Users the Names, Pictures, and Exact Locations of Random Children
+
+date: 2025-04-02, from: 404 Media Group
+
+"I would log in and I couldn’t see my children but I could see a kid in California. I refreshed and would see a different child.” 
+
+<br> 
+
+<https://www.404media.co/t-mobile-shows-users-the-names-pictures-and-exact-locations-of-random-children/>
+
+---
+
+## MediaTek Kompanio Ultra is made for high-performance Chromebooks… and maybe more?
+
+date: 2025-04-02, from: Liliputing
+
+<p>MediaTek&#8217;s ARM-based processors are often found in entry-level Chromebooks. But the company is taking aim at the premium Chromebook Plus platform with a new chip for high-performance laptops. The MediaTek Kompanio Ultra 910 is the first chip in the new Kompanio Ultra family, and it features 8 high-performance CPU cores, Immortalis-G925MC 11 graphics with support for [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/mediatek-kompanio-ultra-is-made-for-high-performance-chromebooks-and-maybe-more/">MediaTek Kompanio Ultra is made for high-performance Chromebooks&#8230; and maybe more?</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/mediatek-kompanio-ultra-is-made-for-high-performance-chromebooks-and-maybe-more/>
+
+---
+
+## Nintendo Switch 2 launches June 5 for $450, has a 7.9 inch FHD 120 Hz HDR display and new accessories
+
+date: 2025-04-02, from: Liliputing
+
+<p>The Nintendo Switch has been a wildly successful game console since it first launched in 2017. So what&#8217;s Nintendo planning for its next game console? Something similar&#8230; but bigger in just about every way that matters. The Nintendo Switch 2 will be available June 5 for $450. It goes up for pre-order on April 9. And it has [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/nintendo-switch-2-launches-june-5-for-450-has-a-7-9-inch-fhd-120-hz-hdr-display-and-new-accessories/">Nintendo Switch 2 launches June 5 for $450, has a 7.9 inch FHD 120 Hz HDR display and new accessories</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/nintendo-switch-2-launches-june-5-for-450-has-a-7-9-inch-fhd-120-hz-hdr-display-and-new-accessories/>
+
+---
+
+## Why Every Entrepreneur Needs a Little Delusion
+
+date: 2025-04-02, from: Guy Kawasaki blog
+
+Entrepreneurship is not for the faint of heart. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-every-entrepreneur-needs-a-little>
+
+---
+
+## Composite primary keys in Django
+
+date: 2025-04-02, updated: 2025-04-02, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://docs.djangoproject.com/en/5.2/topics/composite-primary-key/">Composite primary keys in Django</a></strong></p>
+Django 5.2 is <a href="https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/">out today</a> and a big new feature is composite primary keys, which can now be defined like this:</p>
+<pre><span class="pl-k">class</span> <span class="pl-v">Release</span>(<span class="pl-s1">models</span>.<span class="pl-c1">Model</span>):
+    <span class="pl-s1">pk</span> <span class="pl-c1">=</span> <span class="pl-s1">models</span>.<span class="pl-c1">CompositePrimaryKey</span>(
+        <span class="pl-s">"version"</span>, <span class="pl-s">"name"</span>
+    )
+    <span class="pl-s1">version</span> <span class="pl-c1">=</span> <span class="pl-s1">models</span>.<span class="pl-c1">IntegerField</span>()
+    <span class="pl-s1">name</span> <span class="pl-c1">=</span> <span class="pl-s1">models</span>.<span class="pl-c1">CharField</span>(<span class="pl-s1">max_length</span><span class="pl-c1">=</span><span class="pl-c1">20</span>)</pre>
+
+<p>They don't yet work with the Django admin or as targets for foreign keys.</p>
+<p>Other smaller new features include:</p>
+<ul>
+<li>All ORM models are now automatically imported into <code>./manage.py shell</code> - a feature borrowed from <code>./manage.py shell_plus</code> in <a href="https://django-extensions.readthedocs.io/">django-extensions</a></li>
+<li>Feeds from the Django syndication framework can now specify <a href="https://docs.djangoproject.com/en/5.2/ref/contrib/syndication/#feed-stylesheets">XSLT stylesheets</a></li>
+<li><a href="https://docs.djangoproject.com/en/5.2/ref/request-response/#django.http.HttpResponse.text">response.text</a> now returns the string representation of the body - I'm so happy about this, now I don't have to litter my Django tests with <code>response.content.decode("utf-8")</code> any more</li>
+<li>a new <a href="https://docs.djangoproject.com/en/5.2/howto/custom-template-tags/#django.template.Library.simple_block_tag">simple_block_tag</a> helper making it much easier to create a custom Django template tag that further processes its own inner rendered content</li>
+<li>A bunch more in the <a href="https://docs.djangoproject.com/en/5.2/releases/5.2/">full release notes</a></li>
+</ul>
+<p>5.2 is also an LTS release, so it will receive security and data loss bug fixes up to April 2028.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/django">django</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/2/composite-primary-keys-in-django/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+In Alien Enemies Case, Many With Open Asylum Claims Allegedly Removed. 
+
+<br> 
+
+<https://www.lawfaremedia.org/article/in-alien-enemies-case--many-with-open-asylum-claims-allegedly-removed>
+
+---
+
+## AI has (sort of) passed the Turing Test; here’s why that hardly matters
+
+date: 2025-04-02, from: Gary Marcus blog
+
+Don&#8217;t panic 
+
+<br> 
+
+<https://garymarcus.substack.com/p/ai-has-sort-of-passed-the-turing>
+
+---
+
+## 'I Want to Make You Immortal:' How One Woman Confronted Her Deepfakes Harasser
+
+date: 2025-04-02, from: 404 Media Group
+
+“After discovering this content, I’m not going to lie… there are times it made me not want to be around any more either,” she said. “I literally felt buried.”  
+
+<br> 
+
+<https://www.404media.co/deepfakes-harassment-youtube-instagram-ai-generated-explicit-videos/>
+
+---
+
+## Vibe Coded AI App Generates Recipes for Cyanide Ice Cream and Cum Soup
+
+date: 2025-04-02, from: 404 Media Group
+
+A Y Combinator partner proudly launched an AI recipe app that told people how to make “Actual Cocaine” and a “Uranium Bomb.” 
+
+<br> 
+
+<https://www.404media.co/vibe-coded-ai-app-generates-recipes-for-cyanide-ice-cream-and-cum-soup/>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-02, updated: 2025-04-02, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/248948a553508f7a48e9dc1210a822fc857d522c">(248948a5)</a>
+<i>
+at
+02 Apr 15:18
+</i>
+</p>
+<div class="blockquote"><p dir="auto">missing file</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/248948a553508f7a48e9dc1210a822fc857d522c>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-02, updated: 2025-04-02, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/5de8971072e744416b134ba3eaddd8c8e7a7fb59">(5de89710)</a>
+<i>
+at
+02 Apr 15:10
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Voyager compiles on a 64 bit platform</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/5de8971072e744416b134ba3eaddd8c8e7a7fb59>
+
+---
+
+## Escaping POC Purgatory: Evaluation-Driven Development for AI Systems
+
+date: 2025-04-02, from: O'Reilly Radar
+
+Let’s be real: Building LLM applications today feels like purgatory. Someone hacks together a quick demo with ChatGPT and LlamaIndex. Leadership gets excited. “We can answer any question about our docs!” But then…reality hits. The system is inconsistent, slow, hallucinating—and that amazing demo starts collecting digital dust. We call this “POC purgatory”—that frustrating limbo where [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/escaping-poc-purgatory-evaluation-driven-development-for-ai-systems/>
 
 ---
 
@@ -16,6 +901,18 @@ David Frum: No Tariff Carve-Out for Farmers.
 <br> 
 
 <https://www.theatlantic.com/politics/archive/2025/04/trump-tariff-carveout-farmers/682260/?gift=f35zZN0v_gDFE8xNwlQAHVfPnI_oK8aBbjCmLTzPyVg&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Copyright-Aware AI: Let’s Make It So
+
+date: 2025-04-02, from: O'Reilly Radar
+
+On April 22, 2022, I received an out-of-the-blue text from Sam Altman inquiring about the possibility of training GPT-4 on O’Reilly books. We had a call a few days later to discuss the possibility. As I recall our conversation, I told Sam I was intrigued, but with reservations. I explained to him that we could [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/copyright-aware-ai-lets-make-it-so/>
 
 ---
 
@@ -112,6 +1009,18 @@ Silly Nice Seeks Hospitality Partnerships Across New York.
 <br> 
 
 <https://stupiddope.com/2025/04/silly-nice-seeks-hospitality-partnerships-across-new-york/>
+
+---
+
+## More predictable benchmarking with testing.B.Loop
+
+date: 2025-04-02, updated: 2025-04-02, from: Go language blog
+
+Better benchmark looping in Go 1.24. 
+
+<br> 
+
+<https://go.dev/blog/testing-b-loop>
 
 ---
 
@@ -931,7 +1840,7 @@ Juli Clover (no iOS/iPadOS release notes, security, enterprise, no developer): i
 
 date: 2025-03-31, from: Michael Tsai
 
-Juli Clover (release notes, security, no developer): Apple shares full release notes for tvOS in its tvOS support document, which is updated after each new version of tvOS comes out. But all it says is &#8220;performance and stability improvements.&#8221; Previously: tvOS 18.3.1 
+Juli Clover (release notes, security, no developer): Apple shares full release notes for tvOS in its tvOS support document, which is updated after each new version of tvOS comes out. But all it says is &#8220;performance and stability improvements.&#8221; Previously: tvOS 18.3.1 Update (2025-04-02): Ryan Christoffel: At the top of the TV app&#8217;s interface, the [&#8230;] 
 
 <br> 
 
@@ -979,7 +1888,7 @@ Apple: This update includes performance and stability improvements. Previously: 
 
 date: 2025-03-31, from: Liliputing
 
-<p>The Maiyunda M1S is a small, low-power computer with an Intel Alder Lake-N processor, an aluminum body, and support for plenty of storage thanks to four M.2 2280 slots that can theoretically hold up to 32TB of storage (if you&#8217;re willing to spend the money on four 8GB SSDs). Positioned for use as a server or [&#8230;]</p>
+<p>The Maiyunda M1S is a small, low-power computer with an Intel Alder Lake-N processor, an aluminum body, and support for plenty of storage thanks to four M.2 2280 slots that can theoretically hold up to 32TB of storage (if you&#8217;re willing to spend the money on four 8TB SSDs). Positioned for use as a server or [&#8230;]</p>
 <p>The post <a href="https://liliputing.com/this-diy-nas-has-four-m-2-slots-for-storage-two-2-5-gbe-lan-ports-and-an-alder-lake-n-processors/">This DIY NAS has four M.2 slots for storage, two 2.5 GbE LAN ports, and an Alder Lake-N processors</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 

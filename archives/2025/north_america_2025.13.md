@@ -1,11 +1,351 @@
 ---
 title: north america
-updated: 2025-04-02 06:08:23
+updated: 2025-04-03 06:09:13
 ---
 
 # north america
 
-(date: 2025-04-02 06:08:23)
+(date: 2025-04-03 06:09:13)
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-03, from: The Contrarian
+
+Thursday: Residents of Heard Island protest Trump's tariffs, gearing up for Hands Off protests on Saturday, plus protests California and Ohio, protesting AI book thieves and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Truth still matters
+
+date: 2025-04-03, from: The Contrarian
+
+Voters are seeing--and experiencing--that lies have consequences 
+
+<br> 
+
+<https://contrarian.substack.com/p/truth-still-matters>
+
+---
+
+##  The Lost History of Trump’s Tariff War 
+
+date: 2025-04-03, from: The Lever News
+
+ Trump’s costly trade policy is the culmination of a long-simmering backlash — but will tariffs hurt more than they help?  
+
+<br> 
+
+<https://www.levernews.com/the-lost-history-of-trumps-tariff-war/>
+
+---
+
+## Maker of a life-saving peanut paste reflects on the impact of USAID international aid cuts
+
+date: 2025-04-03, from: Market Place
+
+Since January, contracts with the company have been paused, un-paused, canceled, and restarted, and the government now owes Mana $20 million. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/maker-of-a-life-saving-peanut-paste-reflects-on-the-impact-of-usaid-international-aid-cuts/>
+
+---
+
+## Trump’s tariff test. Will it work?
+
+date: 2025-04-02, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>Keyed to President Donald Trump&#8217;s tariff announcement today, Kimberly and Sabri unpack some of the messaging about the impact tariffs had during the president&#8217;s first term and explain why many of those claims are overblown. Plus, why we&#8217;re smiling about Sen. Cory Booker&#8217;s historic speech and how Sabri fell victim to April Fools&#8217; Day shenanigans! (Note: This episode was recorded prior to Trump’s speech.)<em> </em></p>
+<p><!-- /wp:paragraph --> <!-- wp:paragraph --></p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.nytimes.com/2025/04/02/business/economy/trump-tariffs-federal-reserve-inflation.html" target="_blank" rel="noreferrer noopener">“Trump’s Tariffs Make the Fed’s Interest Rate Decisions Tougher”</a> from The New York Times<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://www.whitehouse.gov/articles/2025/04/tariffs-work-and-president-trumps-first-term-proves-it/" target="_blank" rel="noreferrer noopener">“Tariffs Work — and President Trump’s First Term Proves It”</a> from The White House<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://prosperousamerica.org/economic-view-tariffs-have-strengthened-the-u-s-economy/" target="_blank" rel="noreferrer noopener">“Economic View: Tariffs Have Strengthened the U.S. Economy”</a> from the Coalition for a Prosperous America<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.usitc.gov/publications/332/pub5405.pdf" target="_blank" rel="noreferrer noopener">“Economic Impact of Section 232 and 301 Tariffs on U.S. Industries”</a> from the United States International Trade Commission<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://prosperousamerica.org/itc-study-proves-effectiveness-of-china-tariffs-on-boosting-domestic-production-reducing-dependence-on-imports/#:~:text=The%20USITC%20report%20found%20that%20the%20tariffs%20reduced,chain%20inflation%20and%20shocks%20than%20before%20the%20tariffs." target="_blank" rel="noreferrer noopener">“ITC Study Proves Effectiveness of China Tariffs on Boosting Domestic Production, Reducing Dependence on Imports”</a> from the Coalition for a Prosperous America<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.protoolreviews.com/home-depot-charge-parking-inflation/" target="_blank" rel="noreferrer noopener">“Home Depot to Charge For Parking to Combat Inflation”</a> by Pro Tool Reviews<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://rollcall.com/2025/04/01/booker-sets-new-record-for-longest-senate-floor-speech/" target="_blank" rel="noreferrer noopener">“Booker sets new record for longest Senate floor speech”</a> from Roll Call<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://bsky.app/profile/kimberlyadams.bsky.social/post/3llrn7zcs7s2h" target="_blank" rel="noreferrer noopener">@kimberlyadams.bsky.social‬</a> via Bluesky</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/04/02/mms_20250402_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftrumps-tariff-test-will-it-work&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/04/02/mms_20250402_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Ftrumps-tariff-test-will-it-work&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/trumps-tariff-test-will-it-work>
+
+---
+
+## Trump’s tariffs are intended to give U.S. manufacturing a boost. Is it ready?
+
+date: 2025-04-02, from: Market Place
+
+Companies will need workers with the right skills — and will need to invest in training them.  
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/manufacturing-sector-trump-tariffs-workforce-skilled-labor-factories/>
+
+---
+
+## Minority bankruptcy filers less likely to get debt forgiven, study finds
+
+date: 2025-04-02, from: Market Place
+
+The study argues implicit bias from court officials is part of the problem in Chapter 13 cases. The head of a trustees group doesn't agree. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/study-minority-borrowers-debt-forgiven-bankruptcy-proceedings/>
+
+---
+
+## Evening Roundup, April 2
+
+date: 2025-04-02, from: The Contrarian
+
+Featuring Jen Rubin, Michael Franklin, Lily Conway, Meghan Meehan-Draper, Carron J. Phillips, Olivia Julianna, Meredith Blake, and the Democracy Movement 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-2>
+
+---
+
+## Mr. Booker Goes to Washington—and delivers a must-see cultural moment
+
+date: 2025-04-02, from: The Contrarian
+
+With his historic speech, the NJ senator embraced a Hollywood trope 
+
+<br> 
+
+<https://contrarian.substack.com/p/mr-booker-goes-to-washingtonand-delivers>
+
+---
+
+## Federal job cuts may threaten a low-income energy assistance program
+
+date: 2025-04-02, from: Market Place
+
+Twenty federal employees at LIHEAP have been laid off. Officials fear it may impact the overall energy assistance program. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/federal-job-cuts-may-threaten-a-low-income-energy-assistance-program/>
+
+---
+
+## Nintendo unveils details of new Switch 2 console
+
+date: 2025-04-02, from: Market Place
+
+The new console is set to be released in June. It will have new video chat and game sharing features, but it will not come cheap. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/nintendo-unveils-details-of-new-switch-2-console/>
+
+---
+
+## “Low hiring, low firing” economy not great for Gen Z
+
+date: 2025-04-02, from: Market Place
+
+Career opportunities are scarce for young adults, which can have long-term impact on their financial well-being, says Bloomberg's Conor Sen. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/low-hiring-low-firing-economy-not-great-for-gen-z/>
+
+---
+
+## Dealmakers hoped for a mergers and acquisitions comeback this year. Instead, deals have tanked.
+
+date: 2025-04-02, from: Market Place
+
+The first quarter of 2025 was the slowest first quarter for M&#038;A deals in more than a decade, according to Dealogic. That’s largely thanks to uncertainty about the economy and the regulatory environment. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/dealmakers-hoped-for-a-mergers-and-acquisitions-comeback-this-year-instead-deals-have-tanked/>
+
+---
+
+## What is the status of the Trump administration’s tariffs?
+
+date: 2025-04-02, from: Market Place
+
+It’s been a confusing ride. Here’s a time line of what is happening and what tariffs are currently in place.  
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/tariff-timeline-what-is-the-status-of-the-trump-administrations-tariffs/>
+
+---
+
+## Today’s Problems Won’t Be Solved by Yesterday’s Politics
+
+date: 2025-04-02, from: The Contrarian
+
+How a Special Election in Texas Could Send Shockwaves Nationwide 
+
+<br> 
+
+<https://contrarian.substack.com/p/todays-problems-wont-be-solved-by>
+
+---
+
+## 48 Hours in Wisconsin
+
+date: 2025-04-02, from: The Contrarian
+
+Dispatch from the frontlines of Justice Susan Crawford's historic win 
+
+<br> 
+
+<https://contrarian.substack.com/p/48-hours-in-wisconsin>
+
+---
+
+## L.A. Can Rein in Illegal Short-Term Rentals, Says Longtime Airbnb Watcher
+
+date: 2025-04-02, from: Capital and Main
+
+<p>With the Olympics approaching and housing in short supply after recent fires, the city is moving to crack down on illegal rentals.</p>
+<p>The post <a href="https://capitalandmain.com/l-a-can-rein-in-illegal-short-term-rentals-says-longtime-airbnb-watcher">L.A. Can Rein in Illegal Short-Term Rentals, Says Longtime Airbnb Watcher</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/l-a-can-rein-in-illegal-short-term-rentals-says-longtime-airbnb-watcher>
+
+---
+
+## Cory Booker delivered a historic speech because we're in extraordinary times
+
+date: 2025-04-02, from: The Contrarian
+
+History will determine how the senator's marathon speech is remembered. It will also remind us why the speech was necessary. 
+
+<br> 
+
+<https://contrarian.substack.com/p/cory-booker-delivered-a-historic>
+
+---
+
+## Wisconsin Victory with The Contrarians
+
+date: 2025-04-02, from: The Contrarian
+
+A recording from Jennifer Rubin's live video from Crawford HQ in Madison, Wisconsin 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160390286/a031c71099b7361b18459205c6058977.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160390286/a031c71099b7361b18459205c6058977.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/wisconsin-victory-with-the-contrarians>
+
+---
+
+## Cory Booker Met the Moment
+
+date: 2025-04-02, from: The Contrarian
+
+The senator&#8217;s record-breaking speech reminds us that voice is still a form of resistance 
+
+<br> 
+
+<https://contrarian.substack.com/p/cory-booker-met-the-moment>
+
+---
+
+##  Health Care Giants Say It’s Too Costly To Protect Your Privacy 
+
+date: 2025-04-02, from: The Lever News
+
+ Amid hacks of patient data, the medical industry is trying to block a rule requiring cybersecurity upgrades.  
+
+<br> 
+
+<https://www.levernews.com/health-care-giants-say-its-too-costly-to-protect-your-privacy/>
+
+---
+
+## Trans Student Athlete AB Hernandez Finds Support in Her Town That Elected Trump
+
+date: 2025-04-02, from: Capital and Main
+
+<p>Hernandez was doxxed by right-wing influencers and an elected official.	</p>
+<p>The post <a href="https://capitalandmain.com/trans-student-athlete-ab-hernandez-finds-support-in-her-town-that-elected-trump">Trans Student Athlete AB Hernandez Finds Support in Her Town That Elected Trump </a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/trans-student-athlete-ab-hernandez-finds-support-in-her-town-that-elected-trump>
+
+---
+
+## Democratic governors are fighting Trump’s attacks on democracy in the courts
+
+date: 2025-04-02, from: The Contrarian
+
+The American people are again looking for reassurance, leadership, and good governance. 
+
+<br> 
+
+<https://contrarian.substack.com/p/democratic-governors-are-fighting>
+
+---
+
+## Coffee with The Contrarians 04/02
+
+date: 2025-04-02, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/02 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160418130/a3e5e7f9e2ec57ffc2241d04faa32d25.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160418130/a3e5e7f9e2ec57ffc2241d04faa32d25.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0402>
+
+---
+
+## How London’s millennium-old Borough Market has evolved to serve modern tastes
+
+date: 2025-04-02, from: Market Place
+
+London's Borough Market, a stone's throw from the Thames, attracts roughly 20 million visitors a year.  
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/london-borough-market/>
+
+---
+
+## Johnson & Johnson tried 3 times to resolve talc suits in bankruptcy court. It didn’t work.
+
+date: 2025-04-02, from: Market Place
+
+A federal bankruptcy judge has rejected Johnson &#038; Johnson’s latest attempt to settle lawsuits that allege its talc baby powder caused cancer.  
+
+<br> 
+
+<https://www.marketplace.org/2025/04/02/johnson-johnson-tried-3-times-to-resolve-talc-suits-in-bankruptcy-court-it-didnt-work/>
 
 ---
 
@@ -257,18 +597,6 @@ It's April Fool's Day, but these headlines are very real.
 <br> 
 
 <https://contrarian.substack.com/p/f-is-for-fertilization-and-fool>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-01, from: The Contrarian
-
-Tuesday: Morning chuckle, Tesla Takedowns across the country, protests in California, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

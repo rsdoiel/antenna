@@ -1,11 +1,61 @@
 ---
 title: libraries
-updated: 2025-04-02 06:08:29
+updated: 2025-04-03 06:09:19
 ---
 
 # libraries
 
-(date: 2025-04-02 06:08:29)
+(date: 2025-04-03 06:09:19)
+
+---
+
+## New STM 2029 Trends Report Provides a Bridge to the Future
+
+date: 2025-04-03, from: Scholarly Kitchen
+
+<p>Todd Carpenter describes the new 2029 STM Trends report, which provides a vision and a bridge to the future for the community.</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/03/new-2029-stm-trends-report-a-bridge-to-the-future/">New STM 2029 Trends Report Provides a Bridge to the Future</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/03/new-2029-stm-trends-report-a-bridge-to-the-future/>
+
+---
+
+## Data set for the article "In-vitro investigation of endothelial monolayer retention on an inflow VAD cannula inside a beating heart phantom"
+
+date: 2025-04-03, from: ETH Zurich, recently added
+
+Giampietro, Costanza 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/729900>
+
+---
+
+## Dataset for the article "A free-form patterning method enabling endothelialization under dynamic flow"
+
+date: 2025-04-03, from: ETH Zurich, recently added
+
+Giampietro, Costanza 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/729901>
+
+---
+
+## Nanoporous Ag networks fabricated using EHD-RP and PVD stl files
+
+date: 2025-04-03, from: ETH Zurich, recently added
+
+Gallivan, Rebecca 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/729906>
 
 ---
 
@@ -125,7 +175,7 @@ Gupta, Rajshikhar; Schärer, Paulina; Liao, Yawen; Roy, Bibhas; Benoit, Roger M.
 
 date: 2025-03-31, from: Association of Research Libraries News
 
-<p>Last Updated on April 1, 2025, 3:23 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 1 &#124; Wednesday, April 2 &#124; Thursday,...</p>
+<p>Last Updated on April 2, 2025, 3:58 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 1 &#124; Wednesday, April 2 &#124; Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-31-april-3/">Day in Review (March 31–April 3)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

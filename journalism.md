@@ -1,11 +1,320 @@
 ---
 title: journalism
-updated: 2025-04-02 06:08:28
+updated: 2025-04-03 06:09:18
 ---
 
 # journalism
 
-(date: 2025-04-02 06:08:28)
+(date: 2025-04-03 06:09:18)
+
+---
+
+## USC sophomore founds fashion collective
+
+date: 2025-04-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Mold. will hold its first runway in July.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/03/usc-sophomore-founds-fashion-collective/">USC sophomore founds fashion collective</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/03/usc-sophomore-founds-fashion-collective/>
+
+---
+
+## April movies to ring in spring
+
+date: 2025-04-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p> From the blocky realms of Minecraft to Finn Wolfhard’s directorial debut, film lovers are in good hands.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/03/april-movies-to-ring-in-spring/">April movies to ring in spring</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/03/april-movies-to-ring-in-spring/>
+
+---
+
+## Western music, K-pop collabs are catapulting both industries — they cannot mess it up
+
+date: 2025-04-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Collabs have turned me and many others into K-pop fans overnight, but ignorance jeopardizes what should be easy success.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/03/western-music-k-pop-collabs-are-catapulting-both-industries-they-cannot-mess-it-up/">Western music, K-pop collabs are catapulting both industries — they cannot mess it up</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/03/western-music-k-pop-collabs-are-catapulting-both-industries-they-cannot-mess-it-up/>
+
+---
+
+## Student Health reports ‘unprecedented’ number of whooping cough cases
+
+date: 2025-04-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Flu, norovirus and common cold cases have yet to decline on campus.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/03/student-health-reports-unprecedented-number-of-whooping-cough-cases/">Student Health reports ‘unprecedented’ number of whooping cough cases</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/03/student-health-reports-unprecedented-number-of-whooping-cough-cases/>
+
+---
+
+## Dining services limited as UPTE-CWA 9119, AFSCME Local 3299 strike
+
+date: 2025-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Two unions struck on campus Tuesday, limiting student access to dining, cleaning and mail services.
+The University Professional and Technical Employees-Communications Workers of America 9119 &#8211; which represents researchers and technical workers &#8211; voted to strike across the UC in response to the University&#8217;s alleged unfair labor practices and bad-faith bargaining. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/02/dining-services-limited-as-upte-cwa-9119-afscme-local-3299-strike/>
+
+---
+
+## Review: Like a Dragon: Pirate Yakuza in Hawaii
+
+date: 2025-04-03, from: The Sundail (CSUN Student Newspaper)
+
+From swashbuckling action to embarking on a legendary treasure-hunting journey, Goro Majima, a ruthless yakuza boss with amnesia, sets sail on an over-the-top adventure featuring pirates and the Japanese yakuza.... 
+
+<br> 
+
+<https://sundial.csun.edu/191999/arts-entertainment/review-like-a-dragon-pirate-yakuza-in-hawaii/>
+
+---
+
+## Bruin to Bruin: Exploring Marine Biology with Tonya Kane
+
+date: 2025-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daily Bruin Podcast contributor Megan Vahdat sat down with UCLA professor Tonya Kane to discuss her journey to UCLA, travels abroad and advice for undergraduates.
+
+Megan Vahdat: I&#8217;m Megan Vahdat, and this is &#8220;Bruin to Bruin,&#8221; a Daily Bruin podcast that interviews influential members of the UCLA community. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/02/bruin-to-bruin-exploring-marine-biology-with-tonya-kane/>
+
+---
+
+## Navigating the complexities of parking at UCLA
+
+date: 2025-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+Difficulty finding a parking space is a notorious problem in Los Angeles, and UCLA is no exception.
+According to the 2023 UCLA State of the Commute Report, more than 20,000 individuals drive to campus with a car on a regular basis. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/02/navigating-the-complexities-of-parking-at-ucla/>
+
+---
+
+## Professor Warren Montag reflects on 40-year teaching career
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>In Fall 1987, Warren Montag arrived at Occidental College for a part-time position in the English department. He stepped into a full-time position when a professor died three days before the semester began, leaving a vacancy. “They were desperate. I was there. I was willing to teach anything,” Montag said. This semester, the Louis M. [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/04/02/professor-warren-montag-reflects-on-40-year-teaching-career/2914965">Professor Warren Montag reflects on 40-year teaching career</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/04/02/professor-warren-montag-reflects-on-40-year-teaching-career/2914965>
+
+---
+
+## Project SAFE creates open conversations about harm prevention at Consent Carnival
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Consent Carnival was held March 20 by Project SAFE to promote campus-wide harm reduction. Several campus and student organizations also participated in the event, including Residential Education &#38; Housing Services, Campus Safety, Oxy Sexual Assault Coalition (OSAC), Alpha Lambda Phi (Alpha), Sigma Alpha Epsilon (SAE), the Intercultural Community Center (ICC), Oxy Gaming, Emmons Wellness Center, Jenesse Center and the Peer Power [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/02/project-safe-creates-open-conversations-about-harm-prevention-at-consent-carnival/2915000">Project SAFE creates open conversations about harm prevention at Consent Carnival</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/02/project-safe-creates-open-conversations-about-harm-prevention-at-consent-carnival/2915000>
+
+---
+
+## ‘Alone Together’ commemorates five years since COVID-19 lockdowns through live performance
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>&#8220;Alone Together,&#8221; a play put on by the Occidental theater department, will take place April 3–6 at 8 p.m. in the Keck Theater Lobby. Theater &#38; Performance Studies Associate Professor and &#8220;Alone Together&#8221; Director Sarah Kozinn said the play seeks to reflect on the five years since the first COVID-19 lockdown, exploring how people remember [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/02/alone-together-commemorates-five-years-since-covid-19-lockdowns-through-live-performance/2914997">&#8216;Alone Together&#8217; commemorates five years since COVID-19 lockdowns through live performance</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/02/alone-together-commemorates-five-years-since-covid-19-lockdowns-through-live-performance/2914997>
+
+---
+
+## Artist of the week Olivia Lampel finds her groove at Occidental
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Olivia Lampel (first year) started dancing when her mom put her in ballet classes at age 3. Her own interest in dance sparked at age 8, making the decision to move from Virginia to California to attend California School of the Arts in San Gabriel Valley. “I feel like I really blossomed as an artist, I trained [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/02/artist-of-the-week-olivia-lampel-finds-her-groove-at-occidental/2914994">Artist of the week Olivia Lampel finds her groove at Occidental</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/02/artist-of-the-week-olivia-lampel-finds-her-groove-at-occidental/2914994>
+
+---
+
+## Clown and Comedy class encourages the freedom of failure and chaos
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>For the first time in Occidental&#8217;s theater department, Topics and Performance: Clown and Comedy Class is being offered Spring 2025, taught by Wanlass Visiting Artist Professor Daniel Passer. Passer has vast experience in the world of comedy and theater, credits including Comedy Concepter for Cirque Du Soleil Zarkana and director of My Birthday Party at several theaters across LA. According to Samuel Levy (senior), [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/02/clown-and-comedy-class-encourages-the-freedom-of-failure-and-chaos/2914992">Clown and Comedy class encourages the freedom of failure and chaos</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/02/clown-and-comedy-class-encourages-the-freedom-of-failure-and-chaos/2914992>
+
+---
+
+## Poetry open mic spotlights LA’s cultural tapestry during Women’s History Month
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Intercultural Community Center (ICC) and OXY ARTS hosted “They Can’t Take Away Our Words,” an open mic centering poets of color March 28. The event took place at the OXY ARTS Gallery. The event was open to the public and featured guest poets Aman K. Batra, Yesika Salgado, Alyesha Wise, Tiffany Ike and Bay Davis. Davis closed out the event with [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/02/poetry-open-mic-spotlights-las-cultural-tapestry-during-womens-history-month/2914990">Poetry open mic spotlights LA&#8217;s cultural tapestry during Women&#8217;s History Month</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/02/poetry-open-mic-spotlights-las-cultural-tapestry-during-womens-history-month/2914990>
+
+---
+
+## Off-campus housing approvals ‘based on a multitude of factors’
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>According to Assistant Dean of Students and Director of Residential Education, Housing Services and Student Conduct Isaiah Thomas, junior and senior students have the opportunity to live off campus at Occidental, with rising juniors having to apply for approval to live off campus and rising seniors having to apply to live on campus. &#8220;Our process [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/04/02/off-campus-housing-approvals-based-on-a-multitude-of-factors/2914954">Off-campus housing approvals &#8216;based on a multitude of factors&#8217;</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/04/02/off-campus-housing-approvals-based-on-a-multitude-of-factors/2914954>
+
+---
+
+## Teaching others, SSAP tutors ‘see the light in students’ eyes’
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>The Scientific Scholars Achievement Program (SSAP) is a student-led academic support program that provides peer-led tutoring for STEM subjects, including chemistry, computer science and math. Resident Associate Professor of Chemistry Doug Duquette, the program&#8217;s faculty supervisor, said SSAP tutoring helps to create a tight-knit community for STEM students on campus. “It’s a really important part [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/news/2025/04/02/teaching-others-ssap-tutors-see-the-light-in-students-eyes/2914958">Teaching others, SSAP tutors &#8216;see the light in students&#8217; eyes&#8217;</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/news/2025/04/02/teaching-others-ssap-tutors-see-the-light-in-students-eyes/2914958>
+
+---
+
+## Eagle Rock Night Market raises money for veterans, brings local vendors together
+
+date: 2025-04-02, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Before the intersection of Colorado Boulevard and Eagle Rock Boulevard, in a small tan building with a black-tiled roof, The American Legion, a national veterans association, holds regular meetings for its Eagle Rock chapter. However, every third Friday of the month, the building plays host to the Eagle Rock Night Market, featuring samosas, necklaces, beer [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/community/2025/04/02/eagle-rock-night-market-raises-money-for-veterans-brings-local-vendors-together/2914969">Eagle Rock Night Market raises money for veterans, brings local vendors together</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/community/2025/04/02/eagle-rock-night-market-raises-money-for-veterans-brings-local-vendors-together/2914969>
+
+---
+
+## From Rosh Hashanah to Nowruz, Bruins celebrate new years across various cultures
+
+date: 2025-04-02, from: The Daily Bruin (UCLA Student Newspaper)
+
+Jan. 1 is not the only day Bruins celebrate the new year.
+Lunar New Year, Rosh Hashanah and Nowruz are holidays celebrating the start of various calendar years that differ from the Gregorian calendar used in the United States. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/02/from-rosh-hashanah-to-nowruz-bruins-celebrate-new-years-across-various-cultures/>
+
+---
+
+## Viterbi announces undergraduate, master’s commencement speakers
+
+date: 2025-04-02, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Two of the speakers attended Viterbi while the other was a faculty member.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/02/viterbi-announces-undergraduate-masters-commencement-speakers/">Viterbi announces undergraduate, master’s commencement speakers</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/02/viterbi-announces-undergraduate-masters-commencement-speakers/>
+
+---
+
+## How to leak to a journalist
+
+date: 2025-04-02, from: Nieman Journalism Lab
+
+There&#8217;s a lot out there to leak. The second Trump administration, historically unfriendly to the press, has thrown Washington into chaos. Tens of thousands of federal employees have been placed on leave or fired as billionaire Elon Musk&#8217;s DOGE tries to gut the government. And taxpayer-funded data is being destroyed. Amid the confusion, news organizations... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/04/how-to-leak-to-a-journalist/>
+
+---
+
+## Can Bluesky’s AT Protocol build the decentralized social media ecosystem the Fediverse aspires to?
+
+date: 2025-04-02, from: Nieman Journalism Lab
+
+Billionaire Mark Cuban backing a startup is not, on its own, a big story. He&#8217;s done it hundreds of times. But I was interested in this particular investment highlighted by Sarah Perez in TechCrunch: (You can download Skylight for iOS and Android now. It&#8230;looks like an underpopulated TikTok clone — but one I could log... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/04/can-blueskys-at-protocol-build-the-decentralized-social-media-ecosystem-the-fediverse-aspires-to/>
+
+---
+
+## Hundreds gather and march to remember the legacy of Cesar Chavez
+
+date: 2025-04-02, from: The Sundail (CSUN Student Newspaper)
+
+Hundreds of Angelenos participated in the 32nd annual Cesar E. Chavez March for Justice in Pacoima on Sunday, March 30, 2025. The Cesar E. Chavez Commemorative Committee of the San... 
+
+<br> 
+
+<https://sundial.csun.edu/191890/news/hundreds-gather-and-march-to-remember-the-legacy-of-cesar-chavez/>
+
+---
+
+## Deorro headlines CSUN’s largest student event of the year
+
+date: 2025-04-02, from: The Sundail (CSUN Student Newspaper)
+
+The crowd was sweaty, music vibrated through the crowd and excitement was undeniably electric at CSUN’s Library Lawn. On Saturday, Big Show returned with headliner Deorro, drawing hundreds of students... 
+
+<br> 
+
+<https://sundial.csun.edu/191869/arts-entertainment/deorro-headlines-csuns-largest-student-event-of-the-year/>
 
 ---
 

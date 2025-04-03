@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-02 06:08:30
+updated: 2025-04-03 06:09:20
 ---
 
 # retro computing
 
-(date: 2025-04-02 06:08:30)
+(date: 2025-04-03 06:09:20)
+
+---
+
+## b.log 2025/04/02 - Sun!, Cherry blossom, Stew!, McDonald's Nether Flame Sauce, April Fool.
+
+date: 2025-04-02, from: Richard Murray's blog
+
+Sun!, Cherry blossom, Stew!, McDonald's Nether Flame Sauce, April Fool. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250402>
 
 ---
 
