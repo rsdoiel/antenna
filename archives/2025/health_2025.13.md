@@ -1,11 +1,25 @@
 ---
 title: health
-updated: 2025-04-03 06:09:21
+updated: 2025-04-03 14:09:07
 ---
 
 # health
 
-(date: 2025-04-03 06:09:21)
+(date: 2025-04-03 14:09:07)
+
+---
+
+## Air Fryer Tilapia with Herbs & Garlic
+
+date: 2025-04-03, from: The Kidney Dietitian
+
+<p>Do you have an air fryer? It quickly became a staple in my kitchen. Here’s a low sodium air fryer tilapia recipe that takes only 14 minutes to prepare start to finish! Why Use An Air Fryer? Using an air fryer is a quick and easy way to prepare many foods. Air fryers are great [&#8230;]</p>
+<p>The post <a href="https://www.thekidneydietitian.org/air-fryer-tilapia/">Air Fryer Tilapia with Herbs &amp; Garlic</a> appeared first on <a href="https://www.thekidneydietitian.org">The Kidney Dietitian</a>.</p>
+ 
+
+<br> 
+
+<https://www.thekidneydietitian.org/air-fryer-tilapia/>
 
 ---
 

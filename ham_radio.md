@@ -1,11 +1,95 @@
 ---
 title: ham radio
-updated: 2025-04-03 06:09:15
+updated: 2025-04-03 14:09:02
 ---
 
 # ham radio
 
-(date: 2025-04-03 06:09:15)
+(date: 2025-04-03 14:09:02)
+
+---
+
+## Fractal Unveils Acoustic Tech to Disable Drones
+
+date: 2025-04-03, from: EDN Blog
+
+<img width="700" height="496" src="https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?fit=700%2C496" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Fractal Antenna Systems has introduced Acoustic Resonance Mitigation (ARM), a technology that disables drones using directed acoustic energy. </p>
+<p>The post <a href="https://www.edn.com/fractal-unveils-acoustic-tech-to-disable-drones/" data-wpel-link="internal">Fractal Unveils Acoustic Tech to Disable Drones</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/fractal-unveils-acoustic-tech-to-disable-drones/>
+
+---
+
+## Partners demo 200G multimode VCSEL
+
+date: 2025-04-03, from: EDN Blog
+
+<img width="800" height="438" src="https://www.edn.com/wp-content/uploads/Keysight_Coherent.jpg?fit=800%2C438" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Keysight_Coherent.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Keysight_Coherent.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Keysight_Coherent.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Keysight and Coherent showcased 200G-per-lane VCSEL technology at OFC 2025, demonstrating characterization, tuning, and validation.</p>
+<p>The post <a href="https://www.edn.com/partners-demo-200g-multimode-vcsel/" data-wpel-link="internal">Partners demo 200G multimode VCSEL</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/partners-demo-200g-multimode-vcsel/>
+
+---
+
+## IR color sensor enhances automotive displays
+
+date: 2025-04-03, from: EDN Blog
+
+<img width="800" height="435" src="https://www.edn.com/wp-content/uploads/Vishay-VEML6046.jpg?fit=800%2C435" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Vishay-VEML6046.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/Vishay-VEML6046.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/Vishay-VEML6046.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>Vishay’s VEML6046X00 RGB IR sensor is AEC-Q100 qualified for use in vehicle displays and interior lighting.</p>
+<p>The post <a href="https://www.edn.com/ir-color-sensor-enhances-automotive-displays/" data-wpel-link="internal">IR color sensor enhances automotive displays</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/ir-color-sensor-enhances-automotive-displays/>
+
+---
+
+## Intelligent high-side switches manage diverse loads
+
+date: 2025-04-03, from: EDN Blog
+
+<img width="800" height="450" src="https://www.edn.com/wp-content/uploads/STMicro-IPS4140HQ.jpg?fit=800%2C450" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/STMicro-IPS4140HQ.jpg?w=800 800w, https://www.edn.com/wp-content/uploads/STMicro-IPS4140HQ.jpg?w=300 300w, https://www.edn.com/wp-content/uploads/STMicro-IPS4140HQ.jpg?w=768 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><p>ST’s four-channel high-side switches, the IPS4140HQ and IPS4140HQ-1, drive ground-connected resistive, capacitive, and inductive loads. </p>
+<p>The post <a href="https://www.edn.com/intelligent-high-side-switches-manage-diverse-loads/" data-wpel-link="internal">Intelligent high-side switches manage diverse loads</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/intelligent-high-side-switches-manage-diverse-loads/>
+
+---
+
+## Infineon prepares DTO247-packaged IGBTs
+
+date: 2025-04-03, from: EDN Blog
+
+<img width="700" height="309" src="https://www.edn.com/wp-content/uploads/Infineon-logo.jpg?fit=700%2C309" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Infineon-logo.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Infineon-logo.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Infineon is developing TRENCHSTOP H7 IGBTs in a DTO247 package, which is twice the size of a standard TO247.</p>
+<p>The post <a href="https://www.edn.com/infineon-prepares-dto247-packaged-igbts/" data-wpel-link="internal">Infineon prepares DTO247-packaged IGBTs</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/infineon-prepares-dto247-packaged-igbts/>
+
+---
+
+## PUT a reset in its place
+
+date: 2025-04-03, from: EDN Blog
+
+<img width="1978" height="1363" src="https://www.edn.com/wp-content/uploads/Bonnicatto_TftC.png?fit=1978%2C1363" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Bonnicatto_TftC.png?w=1978 1978w, https://www.edn.com/wp-content/uploads/Bonnicatto_TftC.png?w=300 300w, https://www.edn.com/wp-content/uploads/Bonnicatto_TftC.png?w=768 768w, https://www.edn.com/wp-content/uploads/Bonnicatto_TftC.png?w=1024 1024w, https://www.edn.com/wp-content/uploads/Bonnicatto_TftC.png?w=1536 1536w, https://www.edn.com/wp-content/uploads/Bonnicatto_TftC.png?w=1900 1900w" sizes="auto, (max-width: 1978px) 100vw, 1978px" /><p>An engineer must recreate a customer coffee maker failure and employ simple fix that misses a patent opportunity but turns into a design idea!</p>
+<p>The post <a href="https://www.edn.com/put-a-reset-in-its-place/" data-wpel-link="internal">PUT a reset in its place</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/put-a-reset-in-its-place/>
 
 ---
 
@@ -13,7 +97,7 @@ updated: 2025-04-03 06:09:15
 
 date: 2025-04-02, from: EDN Blog
 
-<img width="1140" height="417" src="https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?fit=1140%2C417" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=1140 1140w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=1024 1024w" sizes="(max-width: 1140px) 100vw, 1140px" /><p>Utilize analog and digital signal processing techniques in building a low-cost high-precision digital oscilloscope for high school use.</p>
+<img width="1140" height="417" src="https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?fit=1140%2C417" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=1140 1140w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=300 300w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=768 768w, https://www.edn.com/wp-content/uploads/DIYscope_Figure1.png?w=1024 1024w" sizes="auto, (max-width: 1140px) 100vw, 1140px" /><p>Utilize analog and digital signal processing techniques in building a low-cost high-precision digital oscilloscope for high school use.</p>
 <p>The post <a href="https://www.edn.com/building-a-low-cost-precision-digital-oscilloscope/" data-wpel-link="internal">Building a low-cost, precision digital oscilloscope</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

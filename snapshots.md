@@ -1,11 +1,332 @@
 ---
 title: snapshots
-updated: 2025-04-03 06:09:23
+updated: 2025-04-03 14:09:09
 ---
 
 # snapshots
 
-(date: 2025-04-03 06:09:23)
+(date: 2025-04-03 14:09:09)
+
+---
+
+## A Model Context Protocol Server (MCP) for Microsoft Paint
+
+date: 2025-04-03, from: Geoffrey Hunntley's blog
+
+<p>Why did I do this? I have no idea, honest, but it now exists. It has been over 10 years since I last had to use the Win32 API, and part of me was slightly curious about how the Win32 interop works with Rust.</p><p>Anywhoooo, below you&apos;ll find</p> 
+
+<br> 
+
+<https://ghuntley.com/mcp/>
+
+---
+
+## Part 3 – Babylon.js 8.0: glTF, USDz, and WebXR advancements
+
+date: 2025-04-03, from: Windows Developer Blog
+
+<p>The latest Babylon.js 8.0 release includes several updates to assist developers in creating beautiful and performant 3D experiences.</p>
+<h3><strong>Updated glTF Support — KHR_materials_diffuse_transmission</strong></h3>
+<p>Babylon.js 8.0 continues the lo</p>
+<p>The post <a href="https://blogs.windows.com/windowsdeveloper/2025/04/03/part-3-babylon-js-8-0-gltf-usdz-and-webxr-advancements/">Part 3 – Babylon.js 8.0: glTF, USDz, and WebXR advancements</a> appeared first on <a href="https://blogs.windows.com/windowsdeveloper">Windows Developer Blog</a>.</p>
+ 
+
+<br> 
+
+<https://blogs.windows.com/windowsdeveloper/2025/04/03/part-3-babylon-js-8-0-gltf-usdz-and-webxr-advancements/>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-03, updated: 2025-04-03, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/bd8ea88ca09b7acb789ae80ab393968beb0cc8d1">(bd8ea88c)</a>
+<i>
+at
+03 Apr 21:53
+</i>
+</p>
+<div class="blockquote"><p dir="auto">all files compile on 64bit</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/bd8ea88ca09b7acb789ae80ab393968beb0cc8d1>
+
+---
+
+## Altair Basic Source Code
+
+date: 2025-04-03, from: Michael Tsai
+
+Bill Gates (via Slashdot): It feels like just yesterday that Paul and I were hunched over the PDP-10 in Harvard&#8217;s computer lab, writing the code that would become the first product of our new company. That code remains the coolest code I&#8217;ve ever written to this day&#8212;and you can see it for yourself at the [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/03/altair-basic-source-code/>
+
+---
+
+## France Fines Apple Over App Tracking Transparency
+
+date: 2025-04-03, from: Michael Tsai
+
+Reuters (PDF, Slashdot): Apple was hit with a 150 million euro ($162.4 million) fine by French antitrust regulators on Monday for abusing its dominant position in mobile app advertising on its devices via a privacy control tool. [&#8230;] &#8220;While we are disappointed with today&#8217;s decision, the French Competition Authority has not required any specific changes [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/03/france-fines-apple-over-app-tracking-transparency/>
+
+---
+
+## France Rejects Backdoor Mandate
+
+date: 2025-04-03, from: Michael Tsai
+
+Joe Mullin: In a moment of clarity after initially moving forward a deeply flawed piece of legislation, the French National Assembly has done the right thing: it rejected a dangerous proposal that would have gutted end-to-end encryption in the name of fighting drug trafficking. Despite heavy pressure from the Interior Ministry, lawmakers voted Thursday night [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/03/france-rejects-backdoor-mandate/>
+
+---
+
+## Apple Intelligence Available in EU
+
+date: 2025-04-03, from: Michael Tsai
+
+Apple: Starting today, with the availability of iOS 18.4, iPadOS 18.4, and macOS Sequoia 15.4, Apple Intelligence features are now available in many new languages, including French, German, Italian, Portuguese (Brazil), Spanish, Japanese, Korean, and Chinese (simplified) &#8212; as well as localized English for Singapore and India &#8212; and are accessible in nearly all regions [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/03/apple-intelligence-available-in-eu/>
+
+---
+
+## Thunderbird plans to launch open source alternatives to Gmail, Google Calendar and Office 365
+
+date: 2025-04-03, from: Liliputing
+
+<p>Mozilla Thunderbird is a free and open source email client, calendar, and contact application that&#8217;s been available for more than two decades. It first launched at a time when Gmail wasn&#8217;t a thing and most web-based email service providers offered only a few megabytes of storage space. But the demand for desktop-only email applications has [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/thunderbird-plans-to-launch-open-source-alternatives-to-gmail-google-calendar-and-office-365/">Thunderbird plans to launch open source alternatives to Gmail, Google Calendar and Office 365</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/thunderbird-plans-to-launch-open-source-alternatives-to-gmail-google-calendar-and-office-365/>
+
+---
+
+## Did an LLM help write Trump’s trade plan?
+
+date: 2025-04-03, from: Gary Marcus blog
+
+Probably yes 
+
+<br> 
+
+<https://garymarcus.substack.com/p/did-an-llm-help-write-trumps-trade>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+Tesla&#39;s only growing business was just kneecapped by Trump&#39;s tariffs. 
+
+<br> 
+
+<https://electrek.co/2025/04/03/tesla-only-growing-business-kneecapped-trump-tariffs/>
+
+---
+
+## Expanso Wins 2025 Data Breakthrough Award 
+
+date: 2025-04-03, from: Bacalhau Blog
+
+for Open Source Data Platform of the Year 
+
+<br> 
+
+<https://blog.bacalhau.org/p/expanso-wins-2025-data-breakthrough>
+
+---
+
+## Breaking the STEM Stereotype
+
+date: 2025-04-03, from: Guy Kawasaki blog
+
+Yamil&#233;e Toussaint's Dance Revolution. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/breaking-the-stem-stereotype>
+
+---
+
+## Podcast: OpenAI's Studio Ghibli AI Is 'An Insult to Life Itself'
+
+date: 2025-04-03, from: 404 Media Group
+
+Jason, Sam, and Emanuel talk about Miyazaki being turned into a meme, the guys suing OnlyFans after being surprised to learn they were not actually talking to models, and the depravity of "brainrot" AI.  
+
+<br> 
+
+<https://www.404media.co/podcast-openais-studio-ghibli-ai-is-an-insult-to-life-itself/>
+
+---
+
+## Eventually, You’ll Pay
+
+date: 2025-04-03, updated: 2025-04-03, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/03/sooner-or-later-youll-pay/>
+
+---
+
+## 'Sea of Idiocy:' Economists Say Trump Tariffs Will Raise Price of Switch 2 and Everything Else
+
+date: 2025-04-03, from: 404 Media Group
+
+“The policy announcement is astonishing for its stupidity. It seems like a joke!" 
+
+<br> 
+
+<https://www.404media.co/sea-of-idiocy-economists-say-trump-tariffs-will-raise-price-of-switch-2-and-everything-else/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+Trump’s new tariff math looks a lot like ChatGPT’s. 
+
+<br> 
+
+<https://www.theverge.com/news/642620/trump-tariffs-formula-ai-chatgpt-gemini-claude-grok>
+
+---
+
+## Intel is discontinuing its Unison app for connecting smartphones and PCs (just two years after launch)
+
+date: 2025-04-03, from: Liliputing
+
+<p>I&#8217;ve lost count of the number of companies that have launched software designed to bridge the divide between smartphones and PCs. Microsoft has Phone Link. Samsung has Samsung Flow. And over the years I&#8217;ve seen PC makers introduce and eventually discontinue a bunch of proprietary solutions. Last year Intel introduced its entry in this space: [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/intel-is-discontinuing-its-unison-app-for-connecting-smartphones-and-pcs-just-two-years-after-launch/">Intel is discontinuing its Unison app for connecting smartphones and PCs (just two years after launch)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/intel-is-discontinuing-its-unison-app-for-connecting-smartphones-and-pcs-just-two-years-after-launch/>
+
+---
+
+## First look at the modern attr()
+
+date: 2025-04-03, updated: 2025-04-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://ishadeed.com/article/modern-attr/">First look at the modern attr()</a></strong></p>
+Chrome 133 (released February 25th 2025) was the first browser to <a href="https://developer.chrome.com/release-notes/133?hl=en#css_advanced_attr_function">ship support</a> for the advanced CSS <code>attr()</code> function (<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/attr">MDN</a>), which lets <code>attr()</code> be used to compose values using types other than strings.</p>
+<p>Ahmad Shadeed explores potential applications of this in detail, trying it out for CSS grid columns, progress bars, background images, animation delays and more.</p>
+<p>I like this example that uses the <code>rows="5"</code> attribute on a <code>&lt;textarea&gt;</code> to calculate its <code>max-height</code> - here wrapped in a feature detection block:</p>
+<pre><span class="pl-k">@supports</span> (<span class="pl-c1">x</span><span class="pl-kos">:</span> <span class="pl-en">attr</span>(x <span class="pl-en">type</span>(<span class="pl-c1">*</span>))) {
+  <span class="pl-ent">textarea</span> {
+    <span class="pl-c1">min-height</span><span class="pl-kos">:</span> <span class="pl-en">calc</span>(
+      <span class="pl-en">attr</span>(rows <span class="pl-en">type</span>(&lt;number<span class="pl-c1">&gt;</span>)) <span class="pl-c1">*</span> <span class="pl-c1">50<span class="pl-smi">px</span></span>
+    );
+  }
+}</pre>
+
+<p>That <code>type(&lt;number&gt;)</code> is the new syntax.</p>
+<p>Many of Ahmad's examples can be achieved today across all browsers using a slightly more verbose CSS custom property syntax.</p>
+<p>Here are the tracking issues for CSS values support in <code>attr()</code> for <a href="https://bugzilla.mozilla.org/show_bug.cgi?id=435426">Firefox</a> (opened 17 years ago) and <a href="https://bugs.webkit.org/show_bug.cgi?id=26609">WebKit</a> (16 years ago).
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/css">css</a>, <a href="https://simonwillison.net/tags/css-custom-properties">css-custom-properties</a>, <a href="https://simonwillison.net/tags/chrome">chrome</a>, <a href="https://simonwillison.net/tags/web-standards">web-standards</a>, <a href="https://simonwillison.net/tags/ahmad-shadeed">ahmad-shadeed</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/3/first-look-at-the-modern-attr/#atom-everything>
+
+---
+
+## smartfunc
+
+date: 2025-04-03, updated: 2025-04-03, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/koaning/smartfunc">smartfunc</a></strong></p>
+Vincent D. Warmerdam built this ingenious wrapper around my <a href="https://llm.datasette.io/en/stable/python-api.html">LLM Python library</a> which lets you build LLM wrapper functions using a decorator and a docstring:</p>
+<pre><span class="pl-k">from</span> <span class="pl-s1">smartfunc</span> <span class="pl-k">import</span> <span class="pl-s1">backend</span>
+
+<span class="pl-en">@<span class="pl-en">backend</span>(<span class="pl-s">"gpt-4o"</span>)</span>
+<span class="pl-k">def</span> <span class="pl-en">generate_summary</span>(<span class="pl-s1">text</span>: <span class="pl-smi">str</span>):
+    <span class="pl-s">"""Generate a summary of the following text: {{ text }}"""</span>
+    <span class="pl-k">pass</span>
+
+<span class="pl-s1">summary</span> <span class="pl-c1">=</span> <span class="pl-en">generate_summary</span>(<span class="pl-s1">long_text</span>)</pre>
+
+<p>It works with <a href="https://llm.datasette.io/en/stable/plugins/directory.html">LLM plugins</a> so the same pattern should work against Gemini, Claude and hundreds of others, including local models.</p>
+<p>It integrates with more recent LLM features too, including <a href="https://llm.datasette.io/en/stable/python-api.html#python-api-async">async support</a> and <a href="https://simonwillison.net/2025/Feb/28/llm-schemas/">schemas</a>, by introspecting the function signature:</p>
+<pre><span class="pl-k">class</span> <span class="pl-v">Summary</span>(<span class="pl-v">BaseModel</span>):
+    <span class="pl-s1">summary</span>: <span class="pl-smi">str</span>
+    <span class="pl-s1">pros</span>: <span class="pl-s1">list</span>[<span class="pl-smi">str</span>]
+    <span class="pl-s1">cons</span>: <span class="pl-s1">list</span>[<span class="pl-smi">str</span>]
+
+<span class="pl-en">@<span class="pl-en">async_backend</span>(<span class="pl-s">"gpt-4o-mini"</span>)</span>
+<span class="pl-k">async</span> <span class="pl-k">def</span> <span class="pl-en">generate_poke_desc</span>(<span class="pl-s1">text</span>: <span class="pl-smi">str</span>) <span class="pl-c1">-&gt;</span> <span class="pl-smi">Summary</span>:
+    <span class="pl-s">"Describe the following pokemon: {{ text }}"</span>
+    <span class="pl-k">pass</span>
+
+<span class="pl-s1">pokemon</span> <span class="pl-c1">=</span> <span class="pl-k">await</span> <span class="pl-en">generate_poke_desc</span>(<span class="pl-s">"pikachu"</span>)</pre>
+
+<p>Vincent also recorded <a href="https://www.youtube.com/watch?v=j9jh46R0ryY">a 12 minute video</a> walking through the implementation and showing how it uses <a href="https://docs.pydantic.dev/">Pydantic</a>, Python's <a href="https://docs.python.org/3/library/inspect.html">inspect</a> module and <a href="https://docs.python.org/3/library/typing.html#typing.get_type_hints">typing.get_type_hints()</a> function.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vincent-d-warmerdam">vincent-d-warmerdam</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/3/smartfunc/#atom-everything>
+
+---
+
+## Questions about President Trump from a former psychology professor
+
+date: 2025-04-03, from: Gary Marcus blog
+
+Is he well? 
+
+<br> 
+
+<https://garymarcus.substack.com/p/questions-about-president-trump-from>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-03, updated: 2025-04-03, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/d43baa3b165d862cd9c16bbfd5a812a460ad9355">(d43baa3b)</a>
+<i>
+at
+03 Apr 15:46
+</i>
+</p>
+<div class="blockquote"><p dir="auto">a few more</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/d43baa3b165d862cd9c16bbfd5a812a460ad9355>
 
 ---
 
@@ -1797,6 +2118,20 @@ date: 2025-03-31, from: Liliputing
 <br> 
 
 <https://liliputing.com/lilbits-zimaboard-2-pocket-sized-server-is-coming-alexa-early-access-is-here-and-more-copilot-features-roll-out-to-intel-and-amd-pcs/>
+
+---
+
+## The Signal Noise: A Wake-Up Call for Secure Communications
+
+date: 2025-03-31, from: Purism News and Events
+
+<p>When all the control is handled in-house and all communication is quantum-safe as well as on private networks you have the strongest possible security story and the most convenient offering for the toughest of security needs; including national security.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/the-signal-noise-a-wake-up-call-for-secure-communications/">The Signal Noise: A Wake-Up Call for Secure Communications</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br> 
+
+<https://puri.sm/posts/the-signal-noise-a-wake-up-call-for-secure-communications/>
 
 ---
 

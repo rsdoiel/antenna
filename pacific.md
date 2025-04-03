@@ -1,11 +1,76 @@
 ---
 title: pacific
-updated: 2025-04-03 06:09:14
+updated: 2025-04-03 14:09:02
 ---
 
 # pacific
 
-(date: 2025-04-03 06:09:14)
+(date: 2025-04-03 14:09:02)
+
+---
+
+## Cutting-edge tech for Kapiʻolani CC dental assisting students
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p><abbr>3D</abbr> printing makes <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr>’s Dental Assisting Program one of the most advanced in the country.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/03/cutting-edge-tech-for-dental-assisting/">Cutting-edge tech for Kapiʻolani <abbr>CC</abbr> dental assisting students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/03/cutting-edge-tech-for-dental-assisting/>
+
+---
+
+## More than $300K raised to support future travel industry leaders
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p>Celebrate a Legacy in Tourism honors individuals and organizations that have made outstanding and long-lasting contributions to <span aria-label="Hawaii">Hawai&#699;i</span>’s tourism industry.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/03/celebrate-a-legacy-in-tourism-2025/">More than $300<abbr>K</abbr> raised to support future travel industry leaders</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/03/celebrate-a-legacy-in-tourism-2025/>
+
+---
+
+## UH achieves ‘gold standard,’ reaccredited for human research protection
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> was awarded full reaccreditation by <abbr>AAHRPP</abbr> for a period of five years.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/03/aahrpp-full-reaccreditation/"><abbr>UH</abbr> achieves ‘gold standard,’ reaccredited for human research protection</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/03/aahrpp-full-reaccreditation/>
+
+---
+
+## I Should Write a Poem About Mrs. C. From “Happy Days”
+
+date: 2025-04-03, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Jennifer Randall Hotz Mrs. C. will tell you she doesn&#8217;t mind that the children never ask her what she thinks about anything important or that her husband, when she cooks him breakfast, rushes out the door, claims he only &#8230; <a href="https://hawaiipacificreview.org/2025/04/03/i-should-write-a-poem-about-mrs-c-from-happy-days/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/04/03/i-should-write-a-poem-about-mrs-c-from-happy-days/>
+
+---
+
+## Canvasback provides new knees
+
+date: 2025-04-03, from: Marshal Islands Journal
+
+<p>KAREN EARNSHAW Almost 40 people underwent life-changing surgeries at Majuro hospital over the last two weeks thanks to a Canvasback mission that included 26 team members from the United States who were assisted by a large number of the hospital’s staff. Jacque Spence, co-founder of Canvasback Missions, was ecstatic late last week with the level [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/canvasback-provides-new-knees/">Canvasback provides new knees</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/canvasback-provides-new-knees/>
 
 ---
 
@@ -191,6 +256,34 @@ date: 2025-04-03, from: Hawaii Tribune Harold
 
 ---
 
+## VIDEO: HVNP releases body-worn camera footage from March 4 officer involved shooting (viewer discretion advised)
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>As part of the National Park Service&#8217;s established protocol regarding officer-involved shootings, Hawaii Volcanoes National Park has released body-worn camera footage from a March 4, 2025, officer involved shooting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/hawaii-news/video-hvnp-releases-body-worn-camera-footage-from-march-4-officer-involved-shooting-viewer-discretion-advised/>
+
+---
+
+## Trump actions hurt Pacific
+
+date: 2025-04-03, from: Marshal Islands Journal
+
+<p>GIFF JOHNSON President Donald Trump’s team’s takeover of the United States Institute of Peace, closure of Voice of America, and plan to defund the East-West Center was, perhaps, predictable but is nevertheless undermining US relations in the Pacific region and with allies around the world. All three institutions have been in place for decades, furthering [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/trump-actions-hurt-pacific/">Trump actions hurt Pacific</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/trump-actions-hurt-pacific/>
+
+---
+
 ## USP signs partnership agreement to foster sustainable agricultural research
 
 date: 2025-04-03, from: University of the South Pacific (Fiji)
@@ -202,6 +295,20 @@ date: 2025-04-03, from: University of the South Pacific (Fiji)
 <br> 
 
 <https://www.usp.ac.fj/news/usp-signs-partnership-agreement-to-foster-sustainable-agricultural-research/>
+
+---
+
+## Deaf students get boost
+
+date: 2025-04-03, from: Marshal Islands Journal
+
+<p>The Majuro Deaf Education Center (MDEC), located on the Marshall Islands High School campus, celebrated a groundbreaking ceremony last week for a new basketball court. This project is made possible through the funding support of the Church of Jesus Christ of Latter-day Saints and the collaborative efforts of the Public School System. MDEC is a [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/deaf-students-get-boost/">Deaf students get boost</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/deaf-students-get-boost/>
 
 ---
 
@@ -294,6 +401,20 @@ A U.S. territory in the Pacific is clearly a colony by any definition. Colonies
 <br> 
 
 <https://www.pacificislandtimes.com/post/stuck-in-colonial-crisis-what-can-we-do>
+
+---
+
+## Power plant takes shape
+
+date: 2025-04-02, from: Marshal Islands Journal
+
+<p>Journal 4/2/1982 P2 Status talks to resume on radiationThe status talks between the Republic of the Marshall Islands and the United States will resume this month, with meetings to be held in the Marshall Islands. That development was announced April 1 by Foreign Secretary Tony deBrum when he returned to Majuro from meetings in Honolulu [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/power-plant-takes-shape/">Power plant takes shape</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/power-plant-takes-shape/>
 
 ---
 

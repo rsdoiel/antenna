@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-04-03 06:09:15
+updated: 2025-04-03 14:09:03
 ---
 
 # science and technology
 
-(date: 2025-04-03 06:09:15)
+(date: 2025-04-03 14:09:03)
+
+---
+
+## NASA Supports Wildland Fire Technology Demonstration
+
+date: 2025-04-03, from: NASA breaking news
+
+Advancements in NASA’s airborne technology have made it possible to gather localized wind data and assess its impacts on smoke and fire behavior. This information could improve wildland fire decision making and enable operational agencies to better allocate firefighters and resources. A small team from NASA’s Armstrong Flight Research Center in Edwards, California, is demonstrating [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-supports-wildland-fire-technology-demonstration/>
+
+---
+
+## Suspected Chinese spies right now hijacking buggy Ivanti gear – for third time in 3 years
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Simple denial-of-service blunder turned out to be remote unauth code exec disaster</h4> <p>Suspected Chinese government spies have been exploiting a newly disclosed critical bug in Ivanti VPN appliances since mid-March. This is now at least the third time in three years these snoops have been pwning these products.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/suspected_chines_snoops_hijacked_buggy/>
+
+---
+
+## University Student Research Challenge (USRC) Awards
+
+date: 2025-04-03, from: NASA breaking news
+
+University Student Research Challenge (USRC) seeks to challenge students to propose new ideas/concepts that are relevant to NASA Aeronautics. USRC will provide students, from accredited U.S. colleges or universities, with grants for their projects and with the challenge of raising cost share funds through a crowdfunding campaign. The process of creating and implementing a crowdfunding [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/armd/tacp/ui/armd-tacp-ui-usrc/usrc-awards/>
+
+---
+
+## Artemis II Insignia Honors All
+
+date: 2025-04-03, from: NASA breaking news
+
+The four astronauts who will be the first to fly to the Moon under NASA&#8217;s Artemis campaign have designed an emblem to represent their mission that references both their distant destination and the home they will return to. The crew unveiled their patch in this April 2, 2025, photo. The crew explained the patch’s symbolism, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/artemis-ii-insignia-honors-all/>
+
+---
+
+## Sols 4498-4499: Flexing Our Arm Once Again
+
+date: 2025-04-03, from: NASA breaking news
+
+Written by Conor Hayes, Graduate Student at York University Earth planning date: Monday, March 31, 2025 Planning today began with two pieces of great news. First, our 50-meter drive (about 164 feet) from the weekend plan completed successfully, bringing us oh-so-close to finally driving out of the small canyon that we’ve been traversing through and […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4498-4499-flexing-our-arm-once-again/>
+
+---
+
+## NASA Astronaut Chris Williams Assigned to First Space Station Mission
+
+date: 2025-04-03, from: NASA breaking news
+
+NASA astronaut Chris Williams will embark on his first mission to the International Space Station, serving as a flight engineer and Expedition 74 crew member. Williams will launch aboard the Roscosmos Soyuz MS-28 spacecraft in November, accompanied by Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev. After launching from the Baikonur Cosmodrome in Kazakhstan, the trio [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-chris-williams-assigned-to-first-space-station-mission/>
+
+---
+
+## Amazon's Project Kuiper satellites now boarding the rocket to relevance
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Jeff Bezos&#39; other space business finally shows signs of life with launch scheduled for next week</h4> <p>The first batch of Amazon&#39;s Project Kuiper satellites is due to be lofted into orbit next week.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/project_kuiper_launch/>
+
+---
+
+## Perseverance Rover Witnesses One Martian Dust Devil Eating Another
+
+date: 2025-04-03, from: NASA breaking news
+
+The six-wheeled explorer recently captured several Red Planet mini-twisters spinning on the rim of Jezero Crater. A Martian dust devil can be seen consuming a smaller one in this short video made of images taken by a navigation camera aboard NASA’s Perseverance Mars rover. These swirling, sometimes towering columns of air and dust are common [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/perseverance-rover-witnesses-one-martian-dust-devil-eating-another/>
+
+---
+
+## La NASA aumenta su eficiencia con un piso modificado para el avión X-66
+
+date: 2025-04-03, from: NASA breaking news
+
+Read this story in English&#160;here. La NASA diseño unas tablas de piso temporales para el avión MD-90, que se utilizaran mientras el avión se transforma en el demostrador experimental X-66. Estas tablas de piso protegerán el piso original y agilizarán el proceso de modificación.&#160;&#160; En apoyo al proyecto Demostrador de Vuelo Sostenible de la agencia, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/la-nasa-aumenta-su-eficiencia-con-un-piso-modificado-para-el-avion-x-66/>
+
+---
+
+## When disaster strikes, proper preparation prevents poor performance
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>It&#39;s going to happen to you one day, so get your ducks in a row</h4> <p>As Benjamin Franklin famously said: &#34;An ounce of prevention is worth a pound of cure,&#34; and that&#39;s especially true when it comes to disaster recovery.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/disaster_planning_preparation/>
+
+---
+
+## What Is the True Promise of Quantum Computing?
+
+date: 2025-04-03, from: Quanta Magazine
+
+Despite the hype, it’s been surprisingly challenging to find quantum algorithms that outperform classical ones. In this episode, Ewin Tang discusses her pioneering work in “dequantizing” quantum algorithms — and what it means for the future of quantum computing.            <p>The post <a href="https://www.quantamagazine.org/what-is-the-true-promise-of-quantum-computing-20250403/" target="_blank">What Is the True Promise of Quantum Computing?</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/what-is-the-true-promise-of-quantum-computing-20250403/>
+
+---
+
+## NASA Langley’s Legacy of Landing
+
+date: 2025-04-03, from: NASA breaking news
+
+Landing safely on the surface of another planetary body, like the Moon or Mars, is one of the most important milestones of any given space mission. From the very beginning, NASA&#8217;s Langley Research Center has been at the heart of the entry, descent and landing (EDL) research that enables our exploration. Today, NASA Langley&#8217;s legacy [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasa-langleys-legacy-of-landing/>
+
+---
+
+## Mediatek wants to make Chromebooks more like Copilot+ PCs
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Arm-based silicon to help Google hardware muscle in on territory of Microsoft&#39;s own Arm-based PCs</h4> <p>MediaTek is bringing out a new chip for Chromebooks that blurs the boundary with Copilot+ PCs, sporting an 8-core CPU cluster and a neural processing unit (NPU) rated at 50 <a href="https://www.theregister.com/Tag/TOPS/">TOPS</a><b>.</b>…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/mediatek_wants_to_make_chromebooks/>
+
+---
+
+## Bill Gates unearths Microsoft's ancient code like a proud nerd dad
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>Founder shares 4K Altair BASIC source ahead of 50th anniversary</h4> <p>Microsoft co-founder Bill Gates has shared the 1975 source code for Altair BASIC.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/bill_gates_altair_basic/>
 
 ---
 
@@ -37,7 +205,7 @@ date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
 
 date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
 
-<h4>ProtectEU plan wants to have its cake and eat it too</h4> <p>The EU has issued its plans to keep the continent&#39;s denizens secure and among the pages of bureaucratese are a few worrying sections that indicate the political union wants to backdoor encryption by 2026, or even sooner.…</p> 
+<h4>ProtectEU plan wants to have its cake and eat it too</h4> <p>The EU has shared its plans to ostensibly keep the continent&#39;s denizens secure – and among the pages of bureaucratese are a few worrying sections that indicate the political union wants to backdoor encryption by 2026, or even sooner.…</p> 
 
 <br> 
 
@@ -145,7 +313,7 @@ date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
 
 date: 2025-04-02, updated: 2025-04-03, from: The Register (UK I.T. News)
 
-<h4>Tech slugged with higher duties, broad base 10% hike, semiconductors avoid retaliatory levies for now</h4> <p>US President Donald Trump has imposed a base ten percent tariff on all imports into America, and higher levies on goods from major producers of digital tech, such as China, South Korea, and Taiwan.…</p> 
+<h4>Tech slugged with higher duties, broad base 10% hike, semiconductors avoid retaliatory levies for now</h4> <p>US President Donald Trump has imposed a base ten percent tariff on imports into America, and higher levies on goods from major producers of digital tech, such as China, South Korea, and Taiwan.…</p> 
 
 <br> 
 

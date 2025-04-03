@@ -1,11 +1,37 @@
 ---
 title: libraries
-updated: 2025-04-03 06:09:19
+updated: 2025-04-03 14:09:06
 ---
 
 # libraries
 
-(date: 2025-04-03 06:09:19)
+(date: 2025-04-03 14:09:06)
+
+---
+
+## The Tour, by Louis Couperus
+
+date: 2025-04-03, from: Standard Ebooks, new releaases
+
+A Roman nobleman travels through Egypt in search of a lost love. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/louis-couperus/the-tour/alexander-teixeira-de-mattos>
+
+---
+
+## ARL Advocates for Social Sciences, Library Funding on Capitol Hill
+
+date: 2025-04-03, from: Association of Research Libraries News
+
+<p>Last Updated on April 3, 2025, 11:30 am ET Advocates from 17 US states met with members of Congress during the Consortium of Social Science Associations (COSSA) annual Social Science...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-advocates-for-social-sciences-library-funding-on-capitol-hill/">ARL Advocates for Social Sciences, Library Funding on Capitol Hill</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-advocates-for-social-sciences-library-funding-on-capitol-hill/>
 
 ---
 
@@ -56,6 +82,30 @@ Gallivan, Rebecca
 <br> 
 
 <http://hdl.handle.net/20.500.11850/729906>
+
+---
+
+## The Nebuly Coat, by John Meade Falkner
+
+date: 2025-04-02, from: Standard Ebooks, new releaases
+
+While overseeing renovations of a medieval church, a young architect is drawn unwillingly into local mysteries. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/john-meade-falkner/the-nebuly-coat>
+
+---
+
+## Manhattan Transfer, by John Dos Passos
+
+date: 2025-04-02, from: Standard Ebooks, new releaases
+
+Several characters strive for happiness and excitement in early twentieth century New York City. 
+
+<br> 
+
+<https://standardebooks.org/ebooks/john-dos-passos/manhattan-transfer>
 
 ---
 
@@ -175,7 +225,7 @@ Gupta, Rajshikhar; Schärer, Paulina; Liao, Yawen; Roy, Bibhas; Benoit, Roger M.
 
 date: 2025-03-31, from: Association of Research Libraries News
 
-<p>Last Updated on April 2, 2025, 3:58 pm ET Sign up to receive the Day in Review by email. Jump to: Tuesday, April 1 &#124; Wednesday, April 2 &#124; Thursday,...</p>
+<p>Last Updated on April 3, 2025, 1:02 pm ET Sign up to receive the Day in Review by email. Note: Day in Review will be on hiatus next week, Monday–Thursday,...</p>
 <p>The post <a href="https://www.arl.org/day-in-review/day-in-review-march-31-april-3/">Day in Review (March 31–April 3)</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
  
 

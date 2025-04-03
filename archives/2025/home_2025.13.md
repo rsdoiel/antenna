@@ -1,11 +1,208 @@
 ---
 title: home
-updated: 2025-04-03 06:09:20
+updated: 2025-04-03 14:09:06
 ---
 
 # home
 
-(date: 2025-04-03 06:09:20)
+(date: 2025-04-03 14:09:06)
+
+---
+
+## I’m a New Homeowner—Here’s What I’m Shopping During The Home Depot’s Spring Black Friday Sale
+
+date: 2025-04-03, from: Family Handyman Blog
+
+<p>Now is the perfect time to stock up (and save!) on spring essentials.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/home-depot-spring-black-friday-2025/">I’m a New Homeowner—Here’s What I’m Shopping During The Home Depot’s Spring Black Friday Sale</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/home-depot-spring-black-friday-2025/>
+
+---
+
+## The Top Home Depot Gear You Need for Spring, According to Family Handyman Editors
+
+date: 2025-04-03, from: Family Handyman Blog
+
+<p>Now's the time to stock up on spring essentials—and save!</p>
+<p>The post <a href="https://www.familyhandyman.com/list/home-depot-spring-editors-picks-2025/">The Top Home Depot Gear You Need for Spring, According to Family Handyman Editors</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/home-depot-spring-editors-picks-2025/>
+
+---
+
+## What Is Passive Solar Design?
+
+date: 2025-04-03, from: Family Handyman Blog
+
+<p>If you're building or renovating, passive solar design can make your house easier to keep comfortable. Our panel of experts tells you more.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/what-is-passive-solar-design/">What Is Passive Solar Design?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/what-is-passive-solar-design/>
+
+---
+
+## From the Archive: How Renegade Architecture Firms Challenged the Status Quo
+
+date: 2025-04-03, from: Dwell
+
+Starting in the 1960s, Archigram, Ant Farm, and Superstudio questioned the very fundamentals of architecture, from its relationship to society to the production of buildings. 
+
+<br> 
+
+<https://www.dwell.com/article/archigram-ant-farm-superstudio-b52fae2b-f2924796>
+
+---
+
+## This $1M California Cabin Feels Like a Multilevel Tree House
+
+date: 2025-04-03, from: Dwell
+
+Set in the San Jacinto Mountains, the ’80s home is surrounded by boulders, trees, and forest trails—and it comes with a guesthouse and a hot tub. 
+
+<br> 
+
+<https://www.dwell.com/article/mountain-cabin-dennis-mcguire-idyllwild-california-real-estate-b5e14c63-3ddcd249>
+
+---
+
+## You Can Plug This $19K Backyard Office Into an Outlet
+
+date: 2025-04-03, from: Dwell
+
+Autonomous’s tiny prefab, which is also solar capable, can be shipped with a suite of ergonomic work-from-home essentials. 
+
+<br> 
+
+<https://www.dwell.com/article/autonomous-workpod-solar-powered-prefab-backyard-office-d85163d8>
+
+---
+
+## When and How to Harvest Radishes
+
+date: 2025-04-03, from: The Gardener's Path
+
+<p>An excellent crop for beginning gardeners, radishes are fun, easy, and fast to grow. These members of the mustard family are also easy to pick – but it’s important to get the timing right. And depending on the type, you may need a hand tool to help with the task. Learn how to harvest radishes in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/vegetables/harvest-radishes/">When and How to Harvest Radishes</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/vegetables/harvest-radishes/>
+
+---
+
+## Peace Lily Plant Care and Growing Guide (Most Detailed)
+
+date: 2025-04-03, from: Yard Life blog
+
+<p>The Peace Lily (Spathiphyllum) is a popular houseplant known for its lush green foliage and elegant white blooms. It is ... </p>
+<p class="read-more-container"><a title="Peace Lily Plant Care and Growing Guide (Most Detailed)" class="read-more button" href="https://ownyardlife.com/peace-lily-plant-care-and-growing-guide-most-detailed/#more-26388" aria-label="Read more about Peace Lily Plant Care and Growing Guide (Most Detailed)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/peace-lily-plant-care-and-growing-guide-most-detailed/">Peace Lily Plant Care and Growing Guide (Most Detailed)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/peace-lily-plant-care-and-growing-guide-most-detailed/>
+
+---
+
+## How Much Should You Pay Someone to Mow Your Lawn?
+
+date: 2025-04-03, from: Family Handyman Blog
+
+<p>Determine how much to pay for lawn mowing based on your yard size, professional experience, location and more.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/lawn-mowing-cost/">How Much Should You Pay Someone to Mow Your Lawn?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/lawn-mowing-cost/>
+
+---
+
+## Are You Buying Watered Down Gas?
+
+date: 2025-04-03, from: Family Handyman Blog
+
+<p>Chances are, no one is intentionally adding water to your fill-up. However, there could be many other ingredients in there.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/gas-additives/">Are You Buying Watered Down Gas?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/gas-additives/>
+
+---
+
+## How to Grow Coneflowers in Containers
+
+date: 2025-04-03, from: The Gardener's Path
+
+<p>Want to bring the prairie beauty of echinacea to your patio? Coneflowers are a sturdy staple of flower gardens across the US, with their stand-out shape and color. We’ll help you learn how to grow coneflowers in containers so you can enjoy these fetching flowers even if you only have a tiny spot on a balcony.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-coneflowers-containers/">How to Grow Coneflowers in Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-coneflowers-containers/>
+
+---
+
+## Home & Garden
+
+date: 2025-04-03, from: Sunset Magazine - Living in the West
+
+Great home and garden design ideas, from decorating and DIY projects to landscaping and edible gardening tips from Sunset magazine. 
+
+<br> 
+
+<https://www.sunset.com/home-garden>
+
+---
+
+## Food and Drink
+
+date: 2025-04-03, from: Sunset Magazine - Living in the West
+
+Delicious recipes, food and wine pairings, and more ways to savor the West. 
+
+<br> 
+
+<https://www.sunset.com/food-wine>
+
+---
+
+## This Denver House Will Transport You to the English Countryside
+
+date: 2025-04-03, from: Sunset Magazine - Living in the West
+
+The owner of this house was totally charmed by the English countryside and wanted her Denver home to feel like it. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/home-tours/english-countryside-inspired-house>
+
+---
+
+## Homepage 2025
+
+date: 2025-04-03, from: Sunset Magazine - Living in the West
+
+ 
+
+<br> 
+
+<https://www.sunset.com/>
 
 ---
 
@@ -20,18 +217,6 @@ date: 2025-04-03, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-shasta-daisy/>
-
----
-
-## Homepage 2025
-
-date: 2025-04-03, from: Sunset Magazine - Living in the West
-
- 
-
-<br> 
-
-<https://www.sunset.com/>
 
 ---
 
@@ -453,6 +638,18 @@ Calming interiors open up to verdant gardens and tranquil indoor/outdoor living.
 <br> 
 
 <https://www.dwell.com/article/sothebys-international-lagoon-scottsdale-real-estate-ef2ef95b>
+
+---
+
+## A Charming Waterfront Cottage and Studio in Provincetown Hits the Market for $3.9M
+
+date: 2025-04-01, from: Dwell
+
+This was once the home of playwright Eugene O'Neill as well as photographer Joel Meyerowitz. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-historic-waterfront-provincetown-real-estate-1a76650c>
 
 ---
 

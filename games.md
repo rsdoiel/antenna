@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-03 06:09:18
+updated: 2025-04-03 14:09:05
 ---
 
 # games
 
-(date: 2025-04-03 06:09:18)
+(date: 2025-04-03 14:09:05)
+
+---
+
+## A Minecraft Movie’s post-credit scene teases the Minecraft Cinematic Universe
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+After watching A Minecraft Movie in the theater, I decided to stick around and see whether a post-credits scene would show up. Perhaps after Napoleon Dynamite director Jared Hess and his writing team told the story of Steve (Jack Black), his new friends from Chuglas, Idaho, and their adventures running around the Overworld and The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/552514/a-minecraft-movie-post-credit-scenes>
+
+---
+
+## Switch 2 vs. Steam Deck: How Nintendo’s next console measures up
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+The Nintendo Switch 2’s hardware is no longer a secret, which means we can finally see how it stacks up against the Steam Deck. Nintendo dropped a full list of the specs after its Switch 2 Direct, and there are a few surprising features that make it more of a direct competitor to Valve’s handheld [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/analysis/510197/switch-2-vs-steam-deck-comparison-specs-hardware>
+
+---
+
+## Monkey Palace, a Lego tower-building game for the whole family, is 32% off
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+Looking for a creative new game to play? You can currently pick up the Lego board game Monkey Palace on Amazon for only $27.23 — that’s 32% off its typical price of $39.99. Designed for two to four players ages 10 and up, Monkey Palace has players take on the role of monkeys building a [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/545234/monkey-palace-amazon-big-spring-sale>
+
+---
+
+## Pacific Drive’s largest update yet adds a new survival game mode
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+The most recent update to the extremely normal and not-at-all-weird driving simulator, Pacific Drive, adds a whole new layer of replayability. The Endless Expeditions update from developer Ironwood Studios is the largest update Pacific Drive has received since its launch last year, and delivers a brand new survival game mode in addition to a number [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/552535/pacific-drive-endless-expeditions-update>
+
+---
+
+## The Switch 2 mouse does work on pants… and lots of other things
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+There’s a lot to talk about since the Switch 2 reveal, and one of the jokey-but-not questions from many folks is: Will the Switch 2 mouse work on my pants? Which makes sense! Rarely are we doing handheld or console gaming with a table in front of us, let alone a large, luxurious desk mat [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/552594/switch-2-joy-con-mouse-controller-test-hands-on>
+
+---
+
+## Everything we know about the Switch 2: News, reviews, analyses, and more
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+It’s been a huge few days for the Switch 2, with a jam-packed Nintendo Direct and our first opportunity to get hands on the console and try some of the new games and features. While a lot of the reveals have been exciting (Moo Moo in Mario Kart!), the steep prices for the Switch 2 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/550648/switch-2-nintendo-direct-news>
+
+---
+
+## Marvel Rivals will soon get new heroes every month
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+Marvel Rivals is about to start getting new heroes every month as the length of its seasons gets shorter, creative director Guangyun Chen said in an update video on Thursday. Starting with season 3, Marvel Rivals seasons will last two months instead of three, which means we’ll get a new hero at the start of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/552464/marvel-rivals-new-heroes-every-month-season-3>
+
+---
+
+## Online multiplayer game study shows frequent sexual harassment, abuse
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+A paper from the Offenburg University in Germany shows new statistics about sexual harassment in Valorant and Overwatch, two popular online multiplayer shooters from Riot Games and Blizzard Entertainment. The results showed that sexual harassment and abusive comments are still an unfortunately common part of online play experiences, with the authors suggesting a larger study [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/551632/valorant-overwatch-sexual-harassment-study-offenburg-university>
+
+---
+
+## Right now is the best time to Wonder Pick in Pokémon TCG Pocket
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+In the lead-up to the release of the Shining Revelry expansion for Pokémon TCG Pocket, the developers touted additions like shiny Pokémon and a new Ranked mode. But on Thursday, the developers added a time-limited feature called “sneak peek” that improves Wonder Pick in a big way — so if you’ve been accumulating Wonder Hourglasses, now [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/551123/sneak-peek-wonder-pick-event>
+
+---
+
+## Pokémon Go ‘Stunning Styles’ event guide
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+Pokémon Go’s “Stunning Styles” event runs from April 3-7 and focuses on Pokémon with various forms (or styles, I guess). Paldean Tauros is making its debut with its three different types of breeds, and Pokémon like Shellos, Burmy, and Castform (all of which have different forms) are featured as part of the event. During the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/552351/stunning-styles-timed-research-raids-spawns>
 
 ---
 

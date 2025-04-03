@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-03 06:09:20
+updated: 2025-04-03 14:09:07
 ---
 
 # retro computing
 
-(date: 2025-04-03 06:09:20)
+(date: 2025-04-03 14:09:07)
+
+---
+
+## b.log 2025/04/03 - Politics.
+
+date: 2025-04-03, from: Richard Murray's blog
+
+Politics. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250403>
 
 ---
 

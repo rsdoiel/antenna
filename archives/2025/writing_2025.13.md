@@ -1,11 +1,98 @@
 ---
 title: writing
-updated: 2025-04-03 06:09:17
+updated: 2025-04-03 14:09:04
 ---
 
 # writing
 
-(date: 2025-04-03 06:09:17)
+(date: 2025-04-03 14:09:04)
+
+---
+
+## 2025 Writers Guild Awards Winners
+
+date: 2025-04-03, from: Locus Magazine
+
+<p>Winners of the 2025 Writers Guild Awards were announced February 15, 2025 during a ceremony at the Beverly Hilton Hotel in Beverly Hills CA.</p>
+<p>Winners of genre interest include <strong>Nickel Boys </strong>in the Adapted Screenplay category, based on the book by Colson Whitehead, and <strong>The Penguin </strong>in the Limited Series category.</p>
+<p>For more information, including a complete list of winners and nominees, see the Writers Guild website.</p>
+
+<p><strong>While you are </strong> <a href="https://locusmag.com/2025/04/2025-writers-guild-awards-winners/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-writers-guild-awards-winners/>
+
+---
+
+## New Books Video for 4/1/25 is Live!
+
+date: 2025-04-03, from: Locus Magazine
+
+<p>Welcome back, book lovers! We&#8217;re starting the month of April off right with a lovely new video on our top picks for the best SF, Fantasy, Horror, and YA books of the week! We post a new video every week, so come on by our YouTube channel and subscribe to keep up-to-date on future releases! We hope to see you next week!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/04/new-books-video-for-4-1-25-is-live/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/new-books-video-for-4-1-25-is-live/>
+
+---
+
+## SFWA 2025 Election Results
+
+date: 2025-04-03, from: Locus Magazine
+
+<p>The Science Fiction &#38; Fantasy Writers Association (SFWA) has posted an update on the election results for the 2025 SFWA Board of Directors.</p>
+<p>Ryka Aoki joins as new Director-at-Large along with returning Director-at-Large Curtis C. Chen and continuing Director-at-Large Christine Taylor-Butler. Kate Ristau continues as president and Steven D. Brewer continues as secretary. These terms will take effect on July 1, 2025.</p>
+<p>As previously reported, Day Al-Mohamed was appointed to  <a href="https://locusmag.com/2025/04/sfwa-2025-election-results/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/sfwa-2025-election-results/>
+
+---
+
+## Candlemark & Gleam Sold
+
+date: 2025-04-03, from: Locus Magazine
+
+<p>Candlemark &#38; Gleam has announced that editor and publisher Athena Andreadis has stepped down and sold the press to Candlemark author Melissa Scott.</p>
+<p>Candlemark &#38; Gleam was originally founded by Kate Sullivan in 2010 and was purchased by Andreadis in November 2015. Since its inception, Candlemark has earned a reputation for publishing a wide range of speculative fiction—science fiction, fantasy, alternate history, magical realism, and more—that regardless of subgenre focuses  <a href="https://locusmag.com/2025/04/candlemark-gleam-sold/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/candlemark-gleam-sold/>
+
+---
+
+## Producer Mona Garcea's Tips for Breaking into TV Writing
+
+date: 2025-04-03, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/producer-mona-garceas-tips-for-breaking-into-tv-writing" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Headshot%20of%20Mona%20Garcea%2c%20Head%20of%20Development%20at%20After%20January%20Productions%20.png" alt="Headshot of Mona Garcea, Head of Development at After January Productions " class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Film and television can have a big influence on so many people, especially for creatives. A TV show, movie, song, painting or other artwork can spark a passion that leads to a lifelong career pursuit.&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/producer-mona-garceas-tips-for-breaking-into-tv-writing>
+
+---
+
+## Rest Stop by Nat Cassidy: Review by Gabino Iglesias
+
+date: 2025-04-03, from: Locus Magazine
+
+<p><strong>Rest Stop, </strong>Nat Cassidy (Shortwave 978-1-95956-536-9, $13.99, 160pp, tp) October 2024. Cover by Alan Lastufka.</p>
+<p>When done right, there’s nothing like a novella: short, fast, engaging, and easy to devour. Nat Cassidy’s <strong>Rest Stop </strong>brings all of that and more to the table. Besides being fast and engaging, it’s also weird, intense, and deeper than it seems on the surface.</p>
+<p>A young vocalist and bass player named Abe is on  <a href="https://locusmag.com/2025/04/rest-stop-by-nat-cassidy-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/rest-stop-by-nat-cassidy-review-by-gabino-iglesias/>
 
 ---
 

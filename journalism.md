@@ -1,11 +1,51 @@
 ---
 title: journalism
-updated: 2025-04-03 06:09:18
+updated: 2025-04-03 14:09:05
 ---
 
 # journalism
 
-(date: 2025-04-03 06:09:18)
+(date: 2025-04-03 14:09:05)
+
+---
+
+## Jane Fonda named Annenberg commencement speaker
+
+date: 2025-04-03, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The ceremony will take place May 16 at Shrine Auditorium.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/03/jane-fonda-named-annenberg-commencement-speaker/">Jane Fonda named Annenberg commencement speaker</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/03/jane-fonda-named-annenberg-commencement-speaker/>
+
+---
+
+## As Trump silences Voice of America, Russia and China seize the opportunity to reshape Africa’s news ecosystem
+
+date: 2025-04-03, from: Nieman Journalism Lab
+
+When Donald Trump signed an executive order to gut the government-run agency overseeing Voice of America (VOA), among the first in line to celebrate were Russian and Chinese state officials. “Today is a celebration for my colleagues at RT, Sputnik, and other outlets, because Trump unexpectedly announced that he’s closing down Radio Liberty and Voice... 
+
+<br> 
+
+<https://www.niemanlab.org/2025/04/as-trump-silences-voice-of-america-russia-and-china-seize-the-opportunity-to-reshape-africas-news-ecosystem/>
+
+---
+
+## ‘Peeping Tom’ caught on video running away from Womens’ restrooms
+
+date: 2025-04-03, from: The Canyon News (COC Student Newspaper)
+
+<p>This was the scene in a Valencia campus bathroom last October. Recording&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/bathroom-assault/">&#8216;Peeping Tom&#8217; caught on video running away from Womens&#8217; restrooms</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/bathroom-assault/>
 
 ---
 

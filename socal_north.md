@@ -1,11 +1,142 @@
 ---
 title: socal north
-updated: 2025-04-03 06:09:14
+updated: 2025-04-03 14:09:01
 ---
 
 # socal north
 
-(date: 2025-04-03 06:09:14)
+(date: 2025-04-03 14:09:01)
+
+---
+
+## WE ❤️ LA Concert Was A Night of Gratitude and Acknowledgment
+
+date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="Christinal Aguilera in a billowing red tafetta dress is accompanied by the LA Phil Harmonic conducted by Gustavo Dudamel" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?w=2500&amp;ssl=1 2500w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/ChristinaAguilera.jpeg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Cristina Aguilera sang &#8220;Beautiful&#8221; accompanied by the Los Angeles Master Chorale and the Los Angeles Philharmonic conducted by Gustavo Dudamel&#160; A special concert performed for free by the LA Philharmonic, [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/03/we-%e2%9d%a4%ef%b8%8f-la-concert-was-a-night-of-gratitude-and-acknowledgment/">WE ❤️ LA Concert Was A Night of Gratitude and Acknowledgment</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/03/we-%e2%9d%a4%ef%b8%8f-la-concert-was-a-night-of-gratitude-and-acknowledgment/>
+
+---
+
+## Minority bankruptcy filers less likely to get debt forgiven, study finds
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+The study argues implicit bias from court officials is part of the problem in Chapter 13 cases. The head of a trustees group doesn't agree. 
+
+<br> 
+
+<https://laist.com/news/minority-bankruptcy-filers-less-likely-to-get-debt-forgiven-study-finds>
+
+---
+
+## No more calling ‘shotgun?’ California could ban teens from riding in the front seat
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+A new bill would require teens up to 16 years old to ride in the back seat if they’re not tall enough. Middle schoolers up to age 13 would need to use booster seats if they’re tiny. 
+
+<br> 
+
+<https://laist.com/news/california-could-ban-teens-from-riding-front-seat>
+
+---
+
+## Thousands of complaints, 4 citations: Audit finds LA’s tenant harassment law is rarely enforced
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+A survey by the L.A. City Controller’s Office found 72% of tenants said landlord harassment continued after the city closed its case. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-tenant-anti-harassment-ordinance-audit-renter-landlord-housing>
+
+---
+
+## A ‘missed opportunity’: Does Newsom’s plan to get Californians into better jobs do enough?
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+The governor’s plan for career education attempts to streamline a disjointed job training system, but critics say the reforms aren’t enough. 
+
+<br> 
+
+<https://laist.com/news/education/does-newsoms-plan-to-get-californians-into-better-jobs-do-enough>
+
+---
+
+## Long Beach may mandate more staffing at self-checkout lanes
+
+date: 2025-04-03, from: Longbeach Post
+
+<figure><img width="1024" height="650" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101136/img-7461-734315-czditvx8-644112-tMpRaPSX-1024x650.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101136/img-7461-734315-czditvx8-644112-tMpRaPSX-1024x650.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101136/img-7461-734315-czditvx8-644112-tMpRaPSX-300x191.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101136/img-7461-734315-czditvx8-644112-tMpRaPSX-768x488.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101136/img-7461-734315-czditvx8-644112-tMpRaPSX-170x108.jpg 170w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101136/img-7461-734315-czditvx8-644112-tMpRaPSX-400x254.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/03101136/img-7461-734315-czditvx8-644112-tMpRaPSX.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The idea, which City Council members said is about deterring theft and keeping workers safe, pitted grocery unions against parts of the business community, who said it was a veiled attempt to force stores to hire more employees.</p>
+<p>The post <a href="https://lbpost.com/news/city/self-checkout-lanes-minimum-staffing-mandate-long-beach">Long Beach may mandate more staffing at self-checkout lanes</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/self-checkout-lanes-minimum-staffing-mandate-long-beach>
+
+---
+
+## DA files attempted murder charges in wild truck chase that ended in violent crash on 7th Street
+
+date: 2025-04-03, from: Longbeach Post
+
+<figure><img width="1024" height="605" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-1024x605.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-1024x605.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-300x177.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-768x454.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-183x108.png 183w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-1536x908.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-2048x1210.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-1200x709.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-1568x927.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/28165242/screenshot-2025-03-28-at-44935pm-273670-clekzo3m-187216-TgeEdhxE-400x236.png 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>“This was an extremely reckless and brazen act that endangered the lives of other drivers and pedestrians that could have resulted in a far more tragic outcome," the District Attorney said in a statement.</p>
+<p>The post <a href="https://lbpost.com/news/crime/7th-street-truck-chase-attempted-murder-charges">DA files attempted murder charges in wild truck chase that ended in violent crash on 7th Street</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/7th-street-truck-chase-attempted-murder-charges>
+
+---
+
+## Celebrate Arbor Day in Santa Clarita!
+
+date: 2025-04-03, from: City of Santa Clarita
+
+<p>By Councilmember Jason Gibbs “Arbor Day is not like other holidays. Each of those reposes on the past, while Arbor Day proposes for the future.” – Julius Sterling Morton &#160;&#160; Arbor Day is more than just a celebration – it’s a commitment to our future. Every year, communities across the world come together to plant [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/03/celebrate-arbor-day-in-santa-clarita/">Celebrate Arbor Day in Santa Clarita!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/03/celebrate-arbor-day-in-santa-clarita/>
+
+---
+
+## Justice Department lawyers struggle to defend a mountain of Trump executive orders
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+The Justice Department lawyers defending the president's executive orders are struggling to answer questions and correct the record in front of judges. 
+
+<br> 
+
+<https://laist.com/news/justice-department-lawyers-struggle-to-defend-a-mountain-of-trump-executive-orders>
+
+---
+
+## Brutal day for stocks: Dow plunges almost 1,700 points on new Trump tariffs
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+President Trump announced sweeping tariffs on imported goods, which were higher and broader than many expected. The new import taxes are expected to raise prices and slow growth in the U.S., while pushing many other countries into recession. 
+
+<br> 
+
+<https://laist.com/news/dow-drops-1-500-points-on-trade-war-fears-over-new-tariffs>
 
 ---
 
@@ -21,15 +152,39 @@ The UCLA women's basketball team in the Final Four, a Homeboy Industries musical
 
 ---
 
-## How much toxic heavy metal is in that bright red fire retardant? We had it tested to find out
+## What's in that bright red fire retardant? No one will say, so we had it tested
 
 date: 2025-04-03, updated: 2025-04-03, from: The LAist
 
-An LAist investigation found arsenic, cadmium, chromium and lead in samples of fire retardant collected from the Palisades, Eaton and Franklin fires. 
+An LAist investigation found toxic heavy metals in samples of fire retardant collected from the Palisades, Eaton and Franklin fires. Here's what that means. 
 
 <br> 
 
 <https://laist.com/news/climate-environment/how-much-toxic-heavy-metal-is-in-that-bright-red-fire-retardant-we-had-it-tested-to-find-out>
+
+---
+
+## Is the margarita LA’s (un)official cocktail?
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+A new book, 'Margarita Time' by Caroline Pardilla, explores how one Mexican cocktail captured our heart. 
+
+<br> 
+
+<https://laist.com/news/food/is-the-margarita-las-unofficial-cocktail>
+
+---
+
+## Desperate for money while fighting a massive landslide, Rancho Palos Verdes plans to make its case in Washington
+
+date: 2025-04-03, updated: 2025-04-03, from: The LAist
+
+The city is tapping a lobbying firm to make the case in D.C. for more help in shoring up a landslide that is slowly destroying entire neighborhoods. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-funding-washington>
 
 ---
 
@@ -57,35 +212,11 @@ Huntington Beach wants to enforce its own voter ID rules — and the state is se
 
 ---
 
-## Desperate for money while fighting a massive landslide, Rancho Palos Verdes plans to make its case in Washington
-
-date: 2025-04-03, updated: 2025-04-03, from: The LAist
-
-The city is tapping a lobbying firm to make the case in D.C. for more help in shoring up a landslide that is slowly destroying entire neighborhoods. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/rancho-palos-verdes-landslide-funding-washington>
-
----
-
-## Is the margarita LA’s (un)official cocktail?
-
-date: 2025-04-03, updated: 2025-04-03, from: The LAist
-
-A new book, 'Margarita Time' by Caroline Pardilla, explores how one Mexican cocktail captured our heart. 
-
-<br> 
-
-<https://laist.com/news/food/is-the-margarita-las-unofficial-cocktail>
-
----
-
 ## El Costo de Sus Encimeras: los Trabajadores de la Fabricación de Piedra Mueren de Silicosis
 
 date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="592" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1536%2C889&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1200%2C694&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=780%2C451&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=400%2C231&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=706%2C408&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="592" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1536%2C889&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1200%2C694&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=780%2C451&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=400%2C231&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=706%2C408&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Esta es la parte 1 de una serie sobre la silicosis. Eric Reyes-Barriga aprendió por primera vez a cortar y pulir piedra en un pequeño taller en Sun Valley, donde [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/02/el-costo-de-sus-encimeras-los-trabajadores-de-la-fabricacion-de-piedra-mueren-de-silicosis/">El Costo de Sus Encimeras: los Trabajadores de la Fabricación de Piedra Mueren de Silicosis</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -233,7 +364,7 @@ date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-03, from: Longbeach Post
 
-<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-300x225.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-144x108.jpg 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-800x600.jpg 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-600x450.jpg 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-200x150.jpg 200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-300x225.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-768x576.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-144x108.jpg 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-800x600.jpg 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-600x450.jpg 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-400x300.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/02173452/boat-887407-higdtoyh-822920-i6pllgk8-1024x768-056358-gyr3vr0a-921027-mM8xaMx3-200x150.jpg 200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Prosecutors allege that Kevin King was drunk when he crashed his 48-foot sportfishing boat into an Alamitos Bay jetty with ten passengers aboard.</p>
 <p>The post <a href="https://lbpost.com/news/crime/july-4-boat-crash-charges-dui-manslaughter-kevin-king-john-correa">DA files manslaughter, DUI charges in July 3 boat crash that killed 1, seriously injured 7</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -309,7 +440,7 @@ date: 2025-04-02, from: Longbeach Post
 
 ## This dense neighborhood has been voted LA’s worst parking
 
-date: 2025-04-02, updated: 2025-04-02, from: The LAist
+date: 2025-04-02, updated: 2025-04-03, from: The LAist
 
 Nearly 50 parking lots and garages were entered, but only one was crowned the worst of the worst. 
 
@@ -331,11 +462,11 @@ A motion passed on Tuesday directs county departments to study making a registry
 
 ---
 
-## Trump unveils 10% tariff on all imports and 'reciprocal' tariffs on dozens of nations
+## Trump unveils sweeping 10% tariff and 'reciprocal' tariffs on dozens of nations
 
 date: 2025-04-02, updated: 2025-04-02, from: The LAist
 
-Trump said his administration will apply a 10% tariff on all imports, and that other trading partners will face additional "reciprocal tariffs" ranging as high as 49%. 
+Trump said trading partners will face "reciprocal tariffs" ranging as high as 49% aimed at penalizing them for their trade barriers. 
 
 <br> 
 
@@ -396,6 +527,18 @@ date: 2025-04-02, from: Longbeach Post
 
 ---
 
+## LAUSD relies on thousands of portable classrooms. What does it take to replace them?
+
+date: 2025-04-02, updated: 2025-04-03, from: The LAist
+
+A high school in the San Fernando Valley is in the midst of a $274 million renovation that demonstrates the longevity of school bonds. 
+
+<br> 
+
+<https://laist.com/news/education/john-f-kennedy-high-school-renovation-lausd-measure-q-us>
+
+---
+
 ## The same technology behind Pokémon Go is helping document the aftermath of LA’s wildfires
 
 date: 2025-04-02, updated: 2025-04-03, from: The LAist
@@ -405,18 +548,6 @@ A team out of Arizona State University is creating 3D models to help fire victim
 <br> 
 
 <https://laist.com/news/education/eaton-fire-palisades-arizona-state-university-documenting-team>
-
----
-
-## LAUSD relies on thousands of portable classrooms. Here’s what a (bond-funded) future could look like
-
-date: 2025-04-02, updated: 2025-04-02, from: The LAist
-
-John F. Kennedy High School in the San Fernando Valley is in the midst of a $274 million renovation that includes replacing dozens of aging portable buildings. And it's funded by a very old bond. 
-
-<br> 
-
-<https://laist.com/news/education/john-f-kennedy-high-school-renovation-lausd-measure-q-us>
 
 ---
 
@@ -500,7 +631,7 @@ LA County District Attorney Nathan Hochman withdrew a recommendation from his pr
 date: 2025-04-01, from: Longbeach Post
 
 <figure><img width="1024" height="550" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-1024x550.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-1024x550.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-300x161.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-768x413.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-192x103.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F-400x215.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/11/05143720/05nov24-vote-7-021875-j8qbk1go-141813-UDEAM69F.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
-<p>The state agency responsible for collecting sales taxes refused to implement the increase scheduled for today, saying voters didn’t approve the timing. The city now wants the courts to intervene.</p>
+<p>The state agency responsible for collecting sales taxes refused to implement the increase scheduled for April 1, saying voters didn’t approve the timing. The city now wants the courts to intervene.</p>
 <p>The post <a href="https://lbpost.com/news/sales-tax-long-beach-lawsuit-increase-state-blocks">Long Beach sues after state blocks its sales tax increase</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
 

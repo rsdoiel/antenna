@@ -1,11 +1,225 @@
 ---
 title: north america
-updated: 2025-04-03 06:09:13
+updated: 2025-04-03 14:09:00
 ---
 
 # north america
 
-(date: 2025-04-03 06:09:13)
+(date: 2025-04-03 14:09:00)
+
+---
+
+## The rhetorical genius of “Elon Schimel”
+
+date: 2025-04-03, from: The Contrarian
+
+Susan Crawford didn&#8217;t just drive a wedge between Musk and Trump. She showed every Democrat how to take on the world&#8217;s richest man. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-rhetorical-genius-of-elon-schimel>
+
+---
+
+## If you want to “win” at life, new book suggests applying economic theories to your choices
+
+date: 2025-04-03, from: Market Place
+
+In “Hate the Game: Economic Cheat Codes for Life, Love, and Work," economist Daryl Fairweather has some ideas about how to get ahead. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/03/if-you-want-to-win-at-life-new-book-suggests-applying-economic-theories-to-your-choices/>
+
+---
+
+## Ana María Archila and Jen Rubin discuss the political power of the working class 
+
+date: 2025-04-03, from: The Contrarian
+
+"Alone we are fragile but together we are strong" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160520271/e9dd33694643cc378988f90708c5bb96.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160520271/e9dd33694643cc378988f90708c5bb96.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ana-maria-archila-and-jen-rubin-discuss>
+
+---
+
+## With latest tariffs in place, small businesses have some things to figure out
+
+date: 2025-04-03, from: Market Place
+
+Owners have to figure out how these duties will impact input costs and assess whether they need to do anything differently. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/03/tariffs-small-businesses-taxes-imports-price-increase/>
+
+---
+
+##  Trump Lets “Good” Banks Hide Their Bad Fees 
+
+date: 2025-04-03, from: The Lever News
+
+ Last year, credit unions were forced to disclose the billions they made charging their members unnecessary junk fees. Now Trump is once again hiding their grift.  
+
+<br> 
+
+<https://www.levernews.com/trump-lets-good-banks-hide-their-bad-fees/>
+
+---
+
+##  Florida Republicans Seek To Gut Wildly Popular Minimum Wage Law 
+
+date: 2025-04-03, from: The Lever News
+
+ Sunshine State voters overwhelmingly voted to approve a new $15 minimum wage, but Republican lawmakers are now trying to carve out exceptions.  
+
+<br> 
+
+<https://www.levernews.com/florida-republicans-seek-to-gut-wildly-popular-minimum-wage-law/>
+
+---
+
+## Why Trump's Smithsonian executive order is especially painful 
+
+date: 2025-04-03, from: The Contrarian
+
+The blood spilled by our ancestors for voting rights, fair housing and other freedoms has benefitted non-Black Americans arguably more than they have benefitted us. 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-trumps-smithsonian-executive>
+
+---
+
+## Gas Operator Fined $1.9 Million for Damaging Wetlands Is on Trump’s ‘Fast Track’ Approval List
+
+date: 2025-04-03, from: Capital and Main
+
+<p>Fracking operation is among more than 600 controversial projects the president wants to expedite to combat the nation's 'energy emergency'</p>
+<p>The post <a href="https://capitalandmain.com/gas-operator-fined-1-9-million-for-damaging-wetlands-is-on-trumps-fast-track-approval-list">Gas Operator Fined $1.9 Million for Damaging Wetlands Is on Trump&#8217;s &#8216;Fast Track&#8217; Approval List</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/gas-operator-fined-1-9-million-for-damaging-wetlands-is-on-trumps-fast-track-approval-list>
+
+---
+
+## A trade war—for what?
+
+date: 2025-04-03, from: The Contrarian
+
+Liberation Day will liberate the United States from global supply chains while pushing everyone else closer together. 
+
+<br> 
+
+<https://contrarian.substack.com/p/a-trade-warfor-what>
+
+---
+
+##  Sports Gambling Is California’s New Gold Rush 
+
+date: 2025-04-03, from: The Lever News
+
+ Native American tribes, voters, and billion-dollar gambling giants face off over an untapped sports betting market.  
+
+<br> 
+
+<https://www.levernews.com/sports-gambling-is-californias-new-gold-rush/>
+
+---
+
+## Have Skilled Nursing Facilities Become Dumping Grounds for the Mentally Ill?
+
+date: 2025-04-03, from: Capital and Main
+
+<p>When the 911 call comes from inside the nursing home, health care workers are sometimes the victims.</p>
+<p>The post <a href="https://capitalandmain.com/have-skilled-nursing-facilities-become-dumping-grounds-for-the-mentally-ill">Have Skilled Nursing Facilities Become Dumping Grounds for the Mentally Ill?</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/have-skilled-nursing-facilities-become-dumping-grounds-for-the-mentally-ill>
+
+---
+
+## Coffee with The Contrarians 04/03
+
+date: 2025-04-03, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/03 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160497988/513d4e77bf15ab89e3dbd1fbe7088ccf.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160497988/513d4e77bf15ab89e3dbd1fbe7088ccf.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0403>
+
+---
+
+## Jen Rubin and Andrew Weissmann on the Eric Adams Corruption Case
+
+date: 2025-04-03, from: The Contrarian
+
+Yesterday, Federal District Judge Dale Ho dismissed the corruption charges against NYC Mayor Eric Adams. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160497962/601e1c887fa0a3a7774935d72b3c4f32.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160497962/601e1c887fa0a3a7774935d72b3c4f32.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/jen-rubin-and-andrew-weissmann-on-385>
+
+---
+
+## Service members: Remember the duty to disobey
+
+date: 2025-04-03, from: The Contrarian
+
+In the not-too-distant future, military members of all ranks and specialties might have a difficult choice: side with an unlawful president or with the Constitution. 
+
+<br> 
+
+<https://contrarian.substack.com/p/service-members-remember-the-duty>
+
+---
+
+## The shareholder warning Trump would never file
+
+date: 2025-04-03, from: The Contrarian
+
+An insider risk assessment of U.S. democratic integrity. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-shareholder-warning-trump-would>
+
+---
+
+## Why haven’t higher interest rates slowed the job market?
+
+date: 2025-04-03, from: Market Place
+
+A new report by the Dallas Fed offers some insight: employment growth has been unusually strong in areas like health care, which is less cyclical and therefore less sensitive to changes in monetary policy. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/03/why-havent-higher-interest-rates-slowed-the-job-market/>
+
+---
+
+## All-time congressional records
+
+date: 2025-04-03, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/all-time-congressional-records>
 
 ---
 

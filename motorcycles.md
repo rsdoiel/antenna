@@ -1,11 +1,36 @@
 ---
 title: motorcycles
-updated: 2025-04-03 06:09:20
+updated: 2025-04-03 14:09:07
 ---
 
 # motorcycles
 
-(date: 2025-04-03 06:09:20)
+(date: 2025-04-03 14:09:07)
+
+---
+
+## Soon, You'll Be Able To Own This Hayabusa-Powered Mini Car
+
+date: 2025-04-03, from: Ride Apart, Electric Motorcycle News
+
+Is this what it's like to live your best life, if you're a car? 
+
+<br> 
+
+<https://www.rideapart.com/news/755287/hayabusa-powered-citicar-for-sale/>
+
+---
+
+## This Beautiful Custom Motorcycle is Actually a Royal Enfield Underneath, Seriously
+
+date: 2025-04-03, from: Ride Apart, Electric Motorcycle News
+
+Talk about “less is more.”
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/755313/bandit9-arthur-ii-custom-royal-enfield-motorcycle/>
 
 ---
 

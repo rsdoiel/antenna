@@ -1,11 +1,137 @@
 ---
 title: food
-updated: 2025-04-03 06:09:22
+updated: 2025-04-03 14:09:08
 ---
 
 # food
 
-(date: 2025-04-03 06:09:22)
+(date: 2025-04-03 14:09:08)
+
+---
+
+## 10 Kitchen Tools To Make Cooking at an Airbnb So Much Easier
+
+date: 2025-04-03, from: Bon Appetet
+
+Because even the most picturesque kitchens often lack some basic supplies. 
+
+<br> 
+
+<https://www.bonappetit.com/story/basic-cooking-tools-for-airbnb>
+
+---
+
+## A Kate Spade x Target Collection Is Coming—And It Has the Cutest Home Finds for Spring
+
+date: 2025-04-03, from: Taste of Home
+
+<p>Host the ultimate spring party with entertaining essentials from the limited-edition Kate Spade New York x Target collection.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/kate-spade-target/">A Kate Spade x Target Collection Is Coming—And It Has the Cutest Home Finds for Spring</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/kate-spade-target/>
+
+---
+
+## Live Data: U.S. Tariffs on Coffee Producing Countries
+
+date: 2025-04-03, from: The Fresh Cup
+
+<p>Tracking President Trump's tariffs on coffee producing countries.</p>
+<p>The post <a href="https://freshcup.com/coffee-tariff-tracker/">Live Data: U.S. Tariffs on Coffee Producing Countries</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/coffee-tariff-tracker/>
+
+---
+
+## Here Are the New US Tariffs on Major Coffee Producing and Exporting Countries
+
+date: 2025-04-03, from: Daily Coffee News
+
+<div><img width="620" height="597" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-620x597.png" class="attachment-large size-large wp-post-image" alt="New U.S. tariff rates for major coffee producing and exporting countries" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-620x597.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-300x289.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-150x144.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries.png 693w" sizes="(max-width: 620px) 100vw, 620px" /></div>United States President Donald Trump announced his &#8220;Liberation Day&#8221; tariffs yesterday, including new fees between 10% and 46% on imports from 15 of the world&#8217;s top 20 coffee-producing countries.&#160; Outside... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/03/here-are-the-new-us-tariffs-on-major-coffee-producing-and-exporting-countries/>
+
+---
+
+## The Legendary Coffee Exchange By Cafe Imports Returns To Expo
+
+date: 2025-04-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The big roaster's coffee swap is back! 
+
+<br> 
+
+<https://sprudge.com/the-legendary-coffee-exchange-by-cafe-imports-returns-to-expo-311903.html>
+
+---
+
+## You're Not Imagining It, Restaurants Really Do Save the Best Tables For Reservations
+
+date: 2025-04-03, from: Bon Appetet
+
+We asked restaurant owners and managers how they choose which tables to set aside for walk-ins. You might want to book your next dinner now. 
+
+<br> 
+
+<https://www.bonappetit.com/story/restaurant-seating-explained>
+
+---
+
+## Study Suggests How Color ‘Should’ Be Used to Market Specialty Coffees
+
+date: 2025-04-03, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-and-Color-1-620x414.png" class="attachment-large size-large wp-post-image" alt="Coffee and Color" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-and-Color-1-620x414.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-and-Color-1-300x200.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-and-Color-1-150x100.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-and-Color-1-768x512.png 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Coffee-and-Color-1.png 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>A new study explores how the color of coffee packaging exerts a powerful influence on consumer expectations of specialty coffee.&#160; Not only does bag color affect expectations of sensory attributes... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/03/study-suggests-how-color-should-be-used-to-market-specialty-coffees/>
+
+---
+
+## Anticonquista Café Opens with Splashes of Color and Coffee in Chicago
+
+date: 2025-04-03, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Anticonquista Cafe Chicago Pilsen" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Central America-connected roasting company Anticonquista Café opened its first brick-and-mortar coffee shop in Chicago this month, following five years of mobile and pop-up operations. The new Pilsen neighborhood cafe aims... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/03/anticonquista-cafe-opens-with-splashes-of-color-and-coffee-in-chicago/>
+
+---
+
+## I Just Found the Only Easter Candy That’s Better Than Reese’s Eggs
+
+date: 2025-04-03, from: Taste of Home
+
+<p>Reese's Peanut Butter Eggs, who?</p>
+<p>The post <a href="https://www.tasteofhome.com/article/best-easter-candy-2025/">I Just Found the Only Easter Candy That&#8217;s Better Than Reese&#8217;s Eggs</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/best-easter-candy-2025/>
+
+---
+
+## On The Menu: In Sacramento, Pachamama Coffee’s Seasonal Menu Springs To Life
+
+date: 2025-04-03, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The spring menu for Pachamama Coffee in Sacramento, California. 
+
+<br> 
+
+<https://sprudge.com/on-the-menu-in-sacramento-pachamama-coffees-seasonal-menu-springs-to-life-311068.html>
 
 ---
 
@@ -46,6 +172,18 @@ With colorful radishes and jammy eggs, this is just as great for a holiday as it
 <br> 
 
 <https://www.bonappetit.com/recipe/easter-salad>
+
+---
+
+## What It Took to Reach a Fine-Dining Restaurant in the Himalayas
+
+date: 2025-04-03, from: Bon Appetet
+
+Sarah Khan’s travel diary on the hurdles of reaching Naar, the 16-seat, tasting menu destination on the cover of the Travel Issue. 
+
+<br> 
+
+<https://www.bonappetit.com/story/naar-travel-issue-behind-the-scenese-2025>
 
 ---
 
@@ -91,7 +229,7 @@ date: 2025-04-02, from: The Sprudge
 
 date: 2025-04-02, from: Daily Coffee News
 
-<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="FairWave Black and White" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White.jpeg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Raleigh, North Carolina-based Black &#38; White Coffee Roasters is now part of FairWave, continuing FairWave&#8217;s five-year streak of acquisitions in the high-end specialty coffee industry. Black &#38; White, founded in... 
+<div><img width="620" height="400" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-620x400.jpeg" class="attachment-large size-large wp-post-image" alt="FairWave Black and White" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-620x400.jpeg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-300x194.jpeg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-150x97.jpeg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White-768x495.jpeg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/FairWave-Black-and-White.jpeg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Raleigh, North Carolina-based Black &#38; White Coffee Roasters is now part of FairWave, continuing FairWave&#8217;s five-year streak of acquisitions in the high-end specialty coffee industry. Black &#38; White, founded in... 
 
 <br> 
 
@@ -129,7 +267,7 @@ date: 2025-04-02, from: Taste of Home
 
 date: 2025-04-02, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Chocolate and coffee fest" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two relatively new coffee (and chocolate) consumer events are returning to the East Coast in 2025, with the DMV and Pennsylvania Chocolate &#38; Coffee Festivals. Entering its fourth year, the... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Chocolate and coffee fest" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Chocolate-and-coffee-fest.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Two relatively new coffee (and chocolate) consumer events are returning to the East Coast in 2025, with the DMV and Pennsylvania Chocolate &#38; Coffee Festivals. Entering its fourth year, the... 
 
 <br> 
 
@@ -141,7 +279,7 @@ date: 2025-04-02, from: Daily Coffee News
 
 date: 2025-04-02, from: Daily Coffee News
 
-<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="DEKÁFXDCN PICS &#8211; DEKÁF PRODUCT LAYOUT" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Two key figures behind 20-year-old Salem, Massachusetts-based Jaho Coffee recently launched a new direct-to-consumer coffee brand called Dekáf Coffee Roasters. Marketing and design specialist Khanh Nguyen and Jaho Coffee Founder... 
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="DEKÁFXDCN PICS &#8211; DEKÁF PRODUCT LAYOUT" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-150x101.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Dekaf-1-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Two key figures behind 20-year-old Salem, Massachusetts-based Jaho Coffee recently launched a new direct-to-consumer coffee brand called Dekáf Coffee Roasters. Marketing and design specialist Khanh Nguyen and Jaho Coffee Founder... 
 
 <br> 
 
@@ -175,7 +313,7 @@ On this episode of Dinner SOS, the BA Bake Club is back with a brand new cake re
 
 ---
 
-## Column: Let’s Reject the False Dichotomoy of Aid or Trade
+## Column: Let’s Reject the False Dichotomy of Aid or Trade
 
 date: 2025-04-02, from: Daily Coffee News
 

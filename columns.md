@@ -1,11 +1,373 @@
 ---
 title: columns
-updated: 2025-04-03 06:09:17
+updated: 2025-04-03 14:09:04
 ---
 
 # columns
 
-(date: 2025-04-03 06:09:17)
+(date: 2025-04-03 14:09:04)
+
+---
+
+## A Model Context Protocol Server (MCP) for Microsoft Paint
+
+date: 2025-04-03, from: Geoffrey Hunntley's blog
+
+<p>Why did I do this? I have no idea, honest, but it now exists. It has been over 10 years since I last had to use the Win32 API, and part of me was slightly curious about how the Win32 interop works with Rust.</p><p>Anywhoooo, below you&apos;ll find</p> 
+
+<br> 
+
+<https://ghuntley.com/mcp/>
+
+---
+
+## ‘Trump Declares a Trade War on Uninhabited Islands, US Military, and Economic Logic’
+
+date: 2025-04-03, updated: 2025-04-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.techdirt.com/2025/04/03/trump-declares-a-trade-war-on-uninhabited-islands-us-military-and-economic-logic/>
+
+---
+
+## The Economist on Trump’s Mindless Tariffs
+
+date: 2025-04-03, updated: 2025-04-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.economist.com/leaders/2025/04/03/president-trumps-mindless-tariffs-will-cause-economic-havoc>
+
+---
+
+## Trump Tariffs, Day Two
+
+date: 2025-04-03, updated: 2025-04-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2025/04/03/trump-tariffs-live-updates-stock-market-trade-war.html>
+
+---
+
+##  It Is All Just So Very Very Stupid 
+
+date: 2025-04-03, updated: 2025-04-03, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/it-is-all-just-so-very-very-stupid>
+
+---
+
+## Elon Musk: Threat Or Menace? Part 6
+
+date: 2025-04-03, from: David Rosenthal's blog
+
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4UJpRDQvkYKA3Imb7d9F1mGWOOFhet-9nG-jcXxqJT40InqWWlG4tczFT3-L_H-D7SPuNo2OJY4rpd0djYb5DNwDsdzc1x-y5Z4FrA9YhQE17XCp_wcW_V_C5D-_2cFA3yKQw17chFEN1_-sXlwJsDr2dX_1lB54uR6uSLBDURTZHTD2359pKV2hyphenhyphenUOEV/s2070/TSLA-040125.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="978" data-original-width="2070" height="94" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4UJpRDQvkYKA3Imb7d9F1mGWOOFhet-9nG-jcXxqJT40InqWWlG4tczFT3-L_H-D7SPuNo2OJY4rpd0djYb5DNwDsdzc1x-y5Z4FrA9YhQE17XCp_wcW_V_C5D-_2cFA3yKQw17chFEN1_-sXlwJsDr2dX_1lB54uR6uSLBDURTZHTD2359pKV2hyphenhyphenUOEV/w200-h94/TSLA-040125.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.nasdaq.com/market-activity/stocks/tsla">Source</a></td></tr></tbody></table>
+Mark Rober's video <a href="https://www.youtube.com/watch?v=IQJL3htsDyQ"><i>Can You Fool A Self Driving Car?</i></a> demonstrating why self-driving cars need LIDAR not just cameras was extremely well done, and deserved its 16M views, but it was easily the least bad recent news for Tesla. When your sales figures and your stock price look this bad, desperation tends to set in. And trotting out the <a href="https://www.nbcnews.com/tech/elon-musk/trump-musk-tesla-white-house-showroom-buys-car-rcna195905">co-President</a> and the <a href="https://www.axios.com/2025/03/20/tesla-musk-lutnick">Commerce Secretary</a> to make sales pitches for you is a clear sign that it has.<br />
+<br />
+Below the fold I look at the flood of bad news for Tesla.<br />
+<span><a name='more'></a></span>
+<h3>Finances</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuBJVKBs4rvZfsOTyRufySQh5dXFzP9qRa78PtX_t7t_MFNElD8XVkRBYS9TlelXl1_CL_WzPvi_qBTHNKZ98iltNQpNXKy45KFK9RtsFwSnpElMH5jb73hm_G-f2fsMGj4wKAs2gSUTfKs3Cok6M68W94nEan2vp22vowVQ8iZmn81Pprctmsi1p5uWIw/s1606/MagnificentSeven.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1482" data-original-width="1606" height="184" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuBJVKBs4rvZfsOTyRufySQh5dXFzP9qRa78PtX_t7t_MFNElD8XVkRBYS9TlelXl1_CL_WzPvi_qBTHNKZ98iltNQpNXKy45KFK9RtsFwSnpElMH5jb73hm_G-f2fsMGj4wKAs2gSUTfKs3Cok6M68W94nEan2vp22vowVQ8iZmn81Pprctmsi1p5uWIw/w200-h184/MagnificentSeven.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ft.com/content/ad80f737-3261-4e11-8608-2ed3db522e55#22401918">Source</a></td></tr></tbody></table>
+The stock is currently down nearly 50% from its peak, but despite that drop its trailing P/E is still over 60, which is valuing the company as a tech company with vast growth potential. For comparison, Nvidia is down 25% from its peak and its P/E is around 40. In the most recent quarter, Nvidia's revenues were almost $40B with operating income up 77% year-on-year, Tesla's revenue was $25B with operating income down 23% year-on-year. <br />
+<br />
+It is clearly time to pump the stock, and Musk's favored pumping technique is to announce an implausible schedule for some vaporware product and hope that no-one remembers what happened to all the previous implausible schedules he announced. So far this year we have:<br />
+<ul>
+<li>During the January earnings call Musk <a href="https://www.cnbc.com/2025/01/29/tesla-tsla-2024-q4-earnings.html">announced that</a>:<br />
+<blockquote>
+the company would be “launching unsupervised Full Self-Driving as a paid service” in Austin in June.
+</blockquote>
+Outside China, Waymo is the only company currently offering a fully autonomous paid taxi service. To do it they need staffed depots for charging and cleaning, and a staff of remote drivers for when the cars get into trouble. June is ten weeks away, so Tesla should be leasing depot space, and hiring and training staff. Is it?</li>
+<li>Musk claims Tesla will <a href="https://elonbuzz.com/elon-musk-confirms-3-new-teslas-models-for-2025/">launch Model 2 this year</a>:<br />
+<blockquote>
+Model 2 Redwood’s price will start at just $19,999,
+</blockquote>
+Does anyone remember his announcement of a ship date and a price for the Cybertruck? Does anyone remember Tesla announced then cancelled the Model 2 last year? And given the <a href="https://edition.cnn.com/2025/03/20/business/even-used-teslas-are-falling-out-of-favor/index.html">collapse in used Tesla prices</a>, at $20K it will compete with the Model 3.</li>
+<li>Musk claims Tesla will <a href="https://elonbuzz.com/elon-musk-confirms-3-new-teslas-models-for-2025/">refresh the Model Y this year</a>:<br />
+<blockquote>
+Expected to launch in early 2025, the Model Y Opal retains the same exterior dimensions but focuses on maximizing interior space and improving range.
+</blockquote>
+A refresh of Tesla's model lineup is long overdue. They have actually refreshed one of the five this year.</li>
+<li>Then of course there is the inevitable <a href="https://phys.org/news/2025-03-musk-starship-depart-mars.html">Mars announcement</a>:<br />
+<blockquote>
+SpaceX founder Elon Musk said Saturday its massive Starship rocket would leave for Mars at the end of 2026 with Tesla humanoid robot Optimus onboard, adding that human landings could follow "as soon as 2029."
+</blockquote>
+Given that Starship needs a major redesign after <a href="https://arstechnica.com/science/2025/03/the-starship-program-hits-another-speed-bump-with-second-consecutive-failure/">two successive failures</a> rained flaming debris on Caribbean islands and disrupted flights across the Eatern US, reporters might take note of <a href="https://arstechnica.com/space/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/">Eric Berger's skepticism</a>:<br />
+<blockquote>
+Although there will no doubt be pressure from SpaceX leadership to rapidly move forward, there appears to be a debilitating design flaw in the upgraded version of Starship. It will be important to understand and address this. Another launch before this summer seems unlikely. A third consecutive catastrophic failure would be really, really bad.
+</blockquote></li>
+</ul>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzK6SyKJ2WrELlvfcZFwxbIkaK3PW9OwUQvzvJsrbzDX2HD5Jfn6q-0Qr6hU-10-FnsEMAaErhEpKAdaI5WN0OAldpAG9hTSODdDJ9JgbxvsZrUU2DGsv-rB0ELCNvYxkBLg9wphKA2TvUNOFxh3X9L6R86g1GpnVCIhnMfioIQU_H5k_UYw019muvxYOl/s1035/BaseEggs.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="936" data-original-width="1035" height="181" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzK6SyKJ2WrELlvfcZFwxbIkaK3PW9OwUQvzvJsrbzDX2HD5Jfn6q-0Qr6hU-10-FnsEMAaErhEpKAdaI5WN0OAldpAG9hTSODdDJ9JgbxvsZrUU2DGsv-rB0ELCNvYxkBLg9wphKA2TvUNOFxh3X9L6R86g1GpnVCIhnMfioIQU_H5k_UYw019muvxYOl/w200-h181/BaseEggs.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://x.com/PStyle0ne1/status/1902833800926630333">Source</a></td></tr></tbody></table>
+These pumps didn't work. Clearly, people are starting to remember, which is probably the reason for the Trump and Lutnick sales pitches.<br />
+<br />
+About 4% of Tesla's revenue comes from <a href="https://www.cnbc.com/2025/01/29/tesla-tsla-2024-q4-earnings.html">carbon credits</a>:<br />
+<blockquote>
+Automotive revenue fell 8% to $19.8 billion from $21.56 billion in the same quarter last year, and of that, $692 million came from regulatory credits.
+</blockquote>
+4% of revenue doesn't sound like much, but it goes straight to the bottom line. A better way to think of it is that carbon credits are 30% of Tesla's net income.  Tesla can only claim a credit after it sells a car, something that has recently become <a href="https://www.ft.com/content/ea2329e4-b4bc-4e2d-be34-e9a8ea31129c">more difficult</a>. Unsold cars don't just represent tied-up capital, they also represent unclaimed carbon credits.  Dean Blundell's <a href="https://x.com/ItsDeanBlundell/status/1901674845517262992">thread reports that</a>:<br />
+<blockquote>
+The Canadian government is probing Tesla for allegedly inflating EV sales to claim $43M in rebates during the final days of the iZEV program. Here’s what we know. Over a 3-day period, Tesla reported selling 8,653 cars across 4 dealerships, claiming over half of the remaining rebate funds. This surge coincided with the program’s announced suspension, raising suspicions of foul play. To put this into perspective: Tesla would have needed to sell 2 cars per minute continuously for 72 hours. Many dealerships couldn’t even process claims as Tesla reportedly consumed most of the funds.  Independent dealers are now out $10M after providing rebates they expected to be reimbursed for. The Canadian Automobile Dealers Association accuses Tesla of exploiting the system, leaving others locked out. Transport Canada officials noted discrepancies, suggesting Tesla may have backdated claims or exaggerated sales figures. One Quebec location alone claimed 4,000 sales in a weekend—an implausible number given its capacity. Tesla’s actions have sparked outrage among dealers and industry groups, with calls for stricter oversight of rebate programs. The investigation continues, but questions remain about whether laws were broken or loopholes abused.
+</blockquote>
+See also CTV's report <a href="https://www.youtube.com/watch?v=Idxuc0F5EWk"><i>Questions over rows of brand new Teslas filling random parking lots</i></a>. Apparently this isn't the only country where similar shenanigans are being investigated.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7qieygRDes3hKxAoXV2bq4mapXeboRN0gxuZbUgKHy0127EcVLRYnllsP0qoL5KlRW2usb2HAcyYYJ8nxi3h4R0bVp_9w5GSSoElmbttE2gZ7fISajbgKoqZU8_YKRlunJsPvGPqGerOiw0Bvmz2NDMxp2B_ueGxc-YsPqh1VoUYLcZ3vpIpDC_6uWKIV/s1602/CapexMissing.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1112" data-original-width="1602" height="139" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7qieygRDes3hKxAoXV2bq4mapXeboRN0gxuZbUgKHy0127EcVLRYnllsP0qoL5KlRW2usb2HAcyYYJ8nxi3h4R0bVp_9w5GSSoElmbttE2gZ7fISajbgKoqZU8_YKRlunJsPvGPqGerOiw0Bvmz2NDMxp2B_ueGxc-YsPqh1VoUYLcZ3vpIpDC_6uWKIV/w200-h139/CapexMissing.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.ft.com/content/62df8d8d-31f2-445e-bfa2-c171ac43db6e">Source</a></td></tr></tbody></table>
+There have been rumors for a long time that another Tesla pump technique was dodgy accounting, and it seems that the <i>Financial Times</i> may have found some.  <a href="https://www.ft.com/content/62df8d8d-31f2-445e-bfa2-c171ac43db6e"><i>$1.4bn is a lot to fall through the cracks, even for Tesla</i></a> by Dan McCrum and Steven Morris reports:<br />
+<blockquote>
+Compare Tesla’s capital expenditure in the last six months of 2024 to its valuation of the assets that money was spent on, and $1.4bn appears to have gone astray.<br />
+<br />
+The sum is big enough to matter even at Tesla, and comes at a moment when attention is returning to the group’s underlying numbers, now that its fully diluted stock market valuation has crashed from $1.7tn to below $800bn.
+</blockquote>
+McCrum and Morris <a href="https://www.ft.com/content/62df8d8d-31f2-445e-bfa2-c171ac43db6e">comment</a>:<br />
+<blockquote>
+Such anomalies can be red flags, potentially indicative of weak internal controls. Aggressive classification of operating expenses as investment can be used to artificially boost reported profits. 
+</blockquote>
+Why might Musk be desperate to pump the stock? Will Lockett examines this question in <a href="https://www.planetearthandbeyond.co/p/tesla-is-so-screwed"><i>Tesla Is So Screwed</i></a>:<br />
+<blockquote>
+Just a reminder that Tesla stock is so wildly overvalued because investors have been speculating that the 4680, Cybertruck, FSD, and Cybercab would be the revolutions Musk promised and would dominate the automotive world. As such, Musk should see the fact that Tesla’s stock has only shrunk by 36% as a miracle. But, as time goes on, and Tesla abandons the 4680, Cybertruck sales continue to disappoint, and FSD and Cybercab demonstrations are either delayed or it becomes painfully obvious to everyone how abysmally perilous they are, these investors will realise they made a bad bet and pull their money out, crashing Tesla even further.
+</blockquote>
+Lockett looks at each of the four factors in turn:<br />
+<ul>
+<li><a href="https://www.planetearthandbeyond.co/p/tesla-is-so-screwed">4680</a>:<br />
+<blockquote>
+This was meant to be a revolutionary battery with high specs and industry-crushing low prices. Tesla has sunk billions upon billions of dollars into its development, yet five years since it was announced, it has yet to meet the target specification or price. Naturally, it has slipped miles behind the curve, given that there are now battery packs that are simultaneously safer, far cheaper, and charge much faster than the 4680. 
+</blockquote></li>
+<li><a href="https://www.planetearthandbeyond.co/p/tesla-is-so-screwed">Cybertruck</a>:<br />
+<blockquote>
+But, after a dismal year of sales, Tesla is already scaling back Cybertruck production capacity to only a few tens of thousands of units per year. This isn’t surprising, as they are terribly built, practically useless, and reports have found they are more deadly than the infamous Ford Pinto
+</blockquote></li>
+<li><a href="https://www.planetearthandbeyond.co/p/tesla-is-so-screwed">FSD</a>:<br />
+<blockquote>
+Then there is the fact that Tesla has admitted that the current hardware installed on its cars isn’t good enough for self-driving, even though they previously stated that it was, meaning that to sell fully-fledged FSD, Tesla will have to do one of the most expensive recalls in history to retrofit new hardware into millions of cars. 
+</blockquote></li>
+<li><a href="https://www.planetearthandbeyond.co/p/tesla-is-so-screwed">Cybercab</a>:<br />
+<blockquote>
+On top of that, even after the Cybercab demonstration, we have yet to see a Tesla safely drive itself on public streets, even when its competitors have been achieving that for years.
+</blockquote>
+</li>
+</ul>
+<a href="https://www.newsweek.com/elon-musk-facing-margin-call-tesla-stock-2047059"><i>Could Elon Musk Face Margin Call Over Tesla Stock? What We Know</i></a> by Hugh Cameron provides some details:<br />
+<blockquote>
+According to a 2024 Tesla filing with the Securities and Exchange Commission (SEC), Musk has pledged 238.4 million shares "as collateral to secure certain personal indebtedness." At the time, Musk held a total of 715.0 million shares, meaning approximately one-third were being used as collateral for personal loans.<br />
+<br />
+Musk currently owns around 411 million shares in Tesla, according to portfolio management service Whalewisdom, equating to a roughly 12.8 percent stake in the company.
+</blockquote>
+Assuming these numbers are still correct, Musk has 172.6M unpledged shares, today "worth" about $46B. At JP Morgan's $120/share target, they would be worth about $20.7B. That's a problem for Musk. But the 238.4M pledged shares, today worth around $64B would be worth only $28.6B, which might be a bigger problem for Musk's lenders.<br />
+<br />
+People tend to focus on Musk's and Tesla's assets but not so much on the debt. Lockett has looked at the the other side of the ledger in <a href="https://www.planetearthandbeyond.co/p/this-is-how-tesla-will-die"><i>This Is How Tesla Will Die</i></a>:<br />
+<ul>
+<li>First <a href="https://www.planetearthandbeyond.co/p/this-is-how-tesla-will-die">Tesla's debt</a>:<br />
+<blockquote>
+As of writing, Tesla has at least $48.39 billion in debt.
+</blockquote></li>
+<li>Second <a href="https://www.planetearthandbeyond.co/p/this-is-how-tesla-will-die">Musk's debt</a>:<br />
+<blockquote>
+Musk has also used his Tesla stock as collateral for SpaceX, Twitter, and Tesla loans. Before he bought Twitter, over half of his shares were collateralised; now, that figure is far, far higher. Again, let’s be generous and assume only 70% of his 12.8% stake in Tesla is collateralised in this way, with a third of these loans for Tesla. That would mean Musk has $71.68 billion in personal loans, with $23.89 billion for Tesla.
+</blockquote></li>
+</ul>
+Lockett notes <a href="https://www.planetearthandbeyond.co/p/this-is-how-tesla-will-die">this means</a>:<br />
+<blockquote>
+In other words, Tesla actually has $72.28 billion in debt. That is more than the company is realistically worth!
+</blockquote>
+Lockett means worth if it were valued as a car company, because at Toyota's PE of 8.4 instead of Tesla's current forward PE of 116, it would be worth $54B. Today, Tesla's market cap is around $827B. At JP Morgan's $120 target Tesla's market cap would be around $386B, so the total debt would be around 19% of market cap. Tesla's debt would be around 12.5% of market cap, so they'd be fine. But Musk would appear to owe around $72B but have around $24B of collateral pledged. Adding the $21B of unpledged shares gets to $45B, leaving a gap of $27B. Both Musk and the lenders would have a problem.<br />
+<br />
+Apart from general greed, the co-Presidents have a special need to keep TSLA pumped. Their hold on the Republican party depends to a large extent on the perception that the $300M Musk paid to elect Trump was small change compared to what they could donate to their primary opponents. In <a href="https://abcnews.go.com/Politics/sen-lisa-murkowski-fellow-republicans-afraid-trump-musk/story?id=119956519"><i>Sen. Lisa Murkowski says fellow Republicans 'afraid' of Trump, Musk</i></a>, Benjamin Siegel gives an example:<br />
+<blockquote>
+"It may be that Elon Musk decides that he's going to take the next billion dollars he makes off Starlink and put it directly against Lisa Murkowksi. And you know what. That may happen. But I'm not giving up one minute, one opportunity to try to stand up for Alaska," she said.
+</blockquote>
+<h3>Sales &amp; Marketing</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhshF_SyFvxlYmfZXeZDKhutAKbSsR4tFe8Qpwg7WZ4u-RBNfUbd9r2nh8azwF3IRIZEhddHrkGKLABR8_Q5FNgheyRLyoSdDvA_AWITc4xW6mcLM1f9eW9X1BnEITt8r_1DW5iRngqOxWuVGlB94IQ23C_le1xLrvX9i123nBoU6BNMuCP1O_RZKtoUogI/s1080/Salute.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1080" data-original-width="1080" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhshF_SyFvxlYmfZXeZDKhutAKbSsR4tFe8Qpwg7WZ4u-RBNfUbd9r2nh8azwF3IRIZEhddHrkGKLABR8_Q5FNgheyRLyoSdDvA_AWITc4xW6mcLM1f9eW9X1BnEITt8r_1DW5iRngqOxWuVGlB94IQ23C_le1xLrvX9i123nBoU6BNMuCP1O_RZKtoUogI/w200-h200/Salute.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://x.com/PrivateEyeNews/status/1902775762681467113">Source</a></td></tr></tbody></table>
+Craig Trudell reports that <a href="https://www.bloomberg.com/news/articles/2025-03-25/tesla-s-dismal-run-in-europe-continues-with-40-drop-in-february"><i>Tesla Extends Dismal Run in Europe With 40% Drop in February</i></a>:<br />
+<blockquote>
+Tesla Inc.’s sales fell for the 10th time in the last 12 months in Europe, where Elon Musk’s politicking and a changeover of the carmaker’s most important product have been major hindrances.<br />
+<br />
+The company registered 16,888 new cars in February, down 40% from a year ago, according to the European Automobile Manufacturers’ Association. Tesla’s sales plunged 43% in the first two months of the year, <a href="https://www.bloomberg.com/news/articles/2025-03-25/europe-car-sales-drop-as-economic-uncertainty-weighs-on-buyers">deviating</a> from the 31% rise in industrywide EV registrations.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQvou79fDEk5MRNjwwdQIVMMh2zr9WtVB4DbCaBbpm2ywQ3v2AI6h3q_LYNHEZcCvG6hx7BkUfRn2PBfnH88JnW7JeHEMKa0xZX7DCt2arV8MPkIdfETF0klp6gE71Red1VfrDbkLLmTkQyvl9MgTYjcujTmOWx_QJB76w81GNzE9iz4OyhCvIF5BMVsqd/s2222/Sales-Q1-2025.png" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1164" data-original-width="2222" height="105" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQvou79fDEk5MRNjwwdQIVMMh2zr9WtVB4DbCaBbpm2ywQ3v2AI6h3q_LYNHEZcCvG6hx7BkUfRn2PBfnH88JnW7JeHEMKa0xZX7DCt2arV8MPkIdfETF0klp6gE71Red1VfrDbkLLmTkQyvl9MgTYjcujTmOWx_QJB76w81GNzE9iz4OyhCvIF5BMVsqd/w200-h105/Sales-Q1-2025.png" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://www.bloomberg.com/news/articles/2025-04-02/tesla-sales-slump-to-lowest-since-2022-amid-anti-musk-backlash">Source</a></td></tr></tbody></table>
+Kara Carlson reports that <a href="https://www.bloomberg.com/news/articles/2025-04-02/tesla-sales-slump-to-lowest-since-2022-amid-anti-musk-backlash"><i>Tesla Sales Drop to Lowest Since 2022 Amid Musk Backlash</i></a>:<br />
+<blockquote>
+Tesla Inc.’s vehicle sales fell 13% last quarter to an almost three-year low, as the carmaker made over its most important model and dealt with international <a href="https://www.bloomberg.com/news/features/2025-02-26/tesla-sales-plunge-as-anti-elon-musk-backlash-takes-hold">backlash</a> against Elon Musk.<br />
+<br />
+The company <a href="https://ir.tesla.com/press-release/tesla-first-quarter-2025-production-deliveries-and-deployments">said</a> Wednesday that it delivered 336,681 vehicles in the first three months of the year, its worst showing since the second quarter of 2022. Analysts on average were expecting the company to sell more than <a href="https://www.bloomberg.com/news/articles/2025-04-01/tesla-to-report-sales-amid-musk-backlash-overseas-delivery-woes">390,000</a> cars and trucks, according to estimates compiled by Bloomberg.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuEML1FyFy0dXVccGrAlMC3cFAHclp1buD3NJVkW4_ikQ9Wc94tz6Evi3ieotVtkmS4dzF7lZbd1_C5Yn7gIK0r6eq_3yzFnosN50MoOKi_kw4UwcZJMxphS77EsoOl0BwmzN6iu5rTvrH-7MTsXoXkwJO1DWV1ljoGvbceJzGPR2ecP_DaJ9JIcUXA8UD/s1243/eggspensive.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1243" data-original-width="911" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuEML1FyFy0dXVccGrAlMC3cFAHclp1buD3NJVkW4_ikQ9Wc94tz6Evi3ieotVtkmS4dzF7lZbd1_C5Yn7gIK0r6eq_3yzFnosN50MoOKi_kw4UwcZJMxphS77EsoOl0BwmzN6iu5rTvrH-7MTsXoXkwJO1DWV1ljoGvbceJzGPR2ecP_DaJ9JIcUXA8UD/w147-h200/eggspensive.jpeg" width="147" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://x.com/PStyle0ne1/status/1902833925174579444">Source</a></td></tr></tbody></table>
+The Cybertruck can't be sold in Europe, but it isn't helping in the US. Fred Lambert reports that <a href="https://electrek.co/2025/03/20/tesla-confirms-it-cant-sell-the-cybertruck-even-with-tax-credit-and-discounts/"><i>Tesla confirms it can’t sell the Cybertruck even with tax credit and discounts</i></a>:<br />
+<blockquote>
+With Tesla’s announcement today that <a href="https://electrek.co/2025/03/20/tesla-recalls-all-cybertrucks-ever-made-over-trim-falling-off/">it recalled all Cybertrucks produced up until last month</a>, the company confirmed that it made and delivered 46,000 Cybertrucks in the US since launching production in late 2023.<br />
+<br />
+By comparing them to previous numbers, it means that Tesla is only going to deliver between 7,000 and 8,000 Cybertrucks in Q1 2025.<br />
+<br />
+That would be significantly down from the last two quarters when Tesla is estimated to have delivered between 10,000 and 12,000 Cybertruck.
+</blockquote>
+Ford sells about <a href="https://fordauthority.com/fmc/ford-motor-company-sales-numbers/ford-sales-numbers/ford-f-series-sales-numbers/">57K F-series trucks</a> a <i>month</i>.<br />
+<br />
+On 12<sup>th</sup> March, Derek Saul reported that <a href="https://www.forbes.com/sites/dereksaul/2025/03/12/jpmorgans-scathing-tesla-prediction-musks-car-company-will-report-worst-quarterly-deliveries-in-3-years/"><i>JPMorgan's Scathing Tesla Prediction: Musk's Car Company Will Report Worst Quarterly Deliveries In 3 Years</i></a>. It was too optimistic:<br />
+<blockquote>
+In a Wednesday note to clients, the JPMorgan group led by Ryan Brinkman lowered its forecast for Tesla’s first-quarter deliveries by 20% from 444,000 to 355,000, significantly below the consensus analyst projection of 430,000, according to FactSet.<br />
+<br />
+JPMorgan’s prediction calls for Tesla’s lowest deliveries since 2022’s third quarter and an 8% decline from 2024’s first quarter<br />
+...<br />
+JPMorgan’s $120 share price target for Musk’s company is the lowest on Wall Street, according to FactSet data, and it implies more than 50% downside from Tesla’s $248 ticker Wednesday.
+</blockquote>
+One reason Tesla's sales are slumping is their reputation for terrible build quality. Lawerence Hodge's <a href="https://www.jalopnik.com/teslas-quality-control-is-so-bad-customers-are-taking-d-1851369990/"><i>Tesla's Quality Control Is So Bad Customers Are Taking Delivery Inspections Into Their Own Hands</i></a> starts:<br />
+<blockquote>
+Tesla's build <a href="https://jalopnik.com/tesla-known-for-quality-will-wrap-your-model-y-or-mod-1850917842">quality problems</a> are well known; from <a href="https://jalopnik.com/watch-a-pro-detailer-point-out-all-the-flaws-on-a-tesla-1847839135">panel gaps</a> to <a href="https://jalopnik.com/tesla-model-3-teardown-by-engineering-firm-reveals-qual-1822678045">crummy interiors</a> to <a href="https://jalopnik.com/brand-new-tesla-model-ys-roof-flies-off-on-first-drive-1845275335">glass roofs</a> that just fly off for no reason, it's safe to say customers should be on the lookout when they purchase a brand-new Tesla.<br />
+...<br />
+Instead of being up in arms about quality issues on one of the most expensive purchases most people will ever make, Tesla customers are selling ways to double check quality problems to other owners. It's safe to say, no other automaker could ever get away with something like this.
+</blockquote>
+This problem has been hard to ignore since the launch of the Cybertruck 16 months ago, because there have been 8 recalls, the latest because <a href="https://apnews.com/article/cybertruck-recall-tesla-elon-musk-nhtsa-8c517e21aa1119d74b9db39f6aca01b7">parts have been falling off</a> and causing a hazard for other road users.  Remy Tumin <a href="https://www.nytimes.com/2025/03/20/business/tesla-cybertruck-recall.html">reports on this</a>:<br />
+<blockquote>
+The announcement marks one of the <a href="https://www.nhtsa.gov/vehicle/2024/TESLA/CYBERTRUCK#recalls">largest recalls</a> for Cybertrucks in the model’s short and at times flawed history on the road. Other issues with the vaunted model have included <a href="https://www.nytimes.com/2024/11/13/business/tesla-cybertruck-recall.html">losing drive power</a>, its front-windshield wiper malfunctioning and an accelerator pedal getting stuck. Cybertrucks <a href="https://www.caranddriver.com/tesla/cybertruck">sell for about $80,000 to $100,000</a>, depending on customization.
+</blockquote>
+Other car manufacturers don't have models that average a recall every other month.<br />
+<br />
+At the launch event, Musk famously claimed that the Cybertruck was bullet-proof. Several YouTube videos and James Gilroy's <a href="https://www.thedrive.com/news/tesla-cybertruck-isnt-nearly-as-bulletproof-as-elon-musk-wants-you-to-think"><i>Tesla Cybertruck Isn’t Nearly as Bulletproof as Elon Musk Wants You to Think</i></a> showed that this isn't true:<br />
+<blockquote>
+One of the <a href="https://www.thedrive.com/news/tesla-cybertruck-gets-new-self-driving-computer-that-might-not-be-retrofit-to-other-evs">Tesla Cybertruck</a>‘s headline features is its “bulletproof” windows and stainless steel body. Elon Musk has even gone as far as describing the angular, polarizing electric pickup as an “<a href="https://twitter.com/elonmusk/status/1719518654063096087">armored personnel carrier from the future.</a>” But if the Cybertruck’s <a href="https://www.youtube.com/watch?v=L1e8skuA6_Y">protection from Robin Hood</a> is a major selling point for you, you should know that Tesla’s proof of its bullet resistance crumples like a hollow point under close scrutiny.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8l8JUoH0djcV6llbZ-3Hwah5leOWNMcFj2INcrdIju8QBlGiw44fWalcSmie_EE5HThpZ5D4Pu8UO26tdTZL-OUG9lawJZHuvi8Co-SGdkypfS4NJFFoOuGwEjUJpkuOCgDm9iIQB5zIBuKV7PyMfWhFdnODESH1jBXNf3o9WjqBjsMVhewXjhY__42rQ/s855/Yukon.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="855" data-original-width="826" height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8l8JUoH0djcV6llbZ-3Hwah5leOWNMcFj2INcrdIju8QBlGiw44fWalcSmie_EE5HThpZ5D4Pu8UO26tdTZL-OUG9lawJZHuvi8Co-SGdkypfS4NJFFoOuGwEjUJpkuOCgDm9iIQB5zIBuKV7PyMfWhFdnODESH1jBXNf3o9WjqBjsMVhewXjhY__42rQ/w193-h200/Yukon.jpeg" width="193" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://x.com/davies_gord69/status/1904379988935164381">Source</a></td></tr></tbody></table>
+This could be why <a href="https://x.com/davies_gord69/status/1904379988935164381">@davies_gord69</a> asks:<br />
+<blockquote>
+If Teslas are as safe as people claim that they are then why does Elon Musk allways ride in a GMC Yukon?
+</blockquote>
+Another big problem affects all car makers. The recent activities of Musk and his co-President have made consumers reluctant to make large purchases. Mark Niquette reported that <a href="https://www.bloomberg.com/news/articles/2025-03-25/us-consumer-confidence-tumbles-again-to-lowest-since-early-2021"><i>US Consumer Confidence Tumbles Again to Lowest Since Early 2021</i></a>:<br />
+<blockquote>
+Consumer sentiment surveys from The Conference Board and University of Michigan have been dismal of late as households fear a resurgence in inflation from President Donald Trump’s tariffs. Companies have warned of higher prices and less demand, coinciding with economists’ forecasts that suggest a risk of stagflation and rising odds of recession.
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF19rNqj9kaDduwVJuIZdeoTcVeTFOPZLIgqujsyTYu6dUN9X320TVYJG2sc-Ct9iDir1neZWUZ-MYo-urTxwJF6u_6sXQMwLFHDT5hmKH9AnMhwDTde-Vp9sngwBApgm1uPMJTlzfMe2Eurlnpr6zC_lM-2YZIdELtE2OpXOn4smg_wj2DeNL8-wIqyGl/s1200/BotPoll.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="1025" data-original-width="1200" height="171" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF19rNqj9kaDduwVJuIZdeoTcVeTFOPZLIgqujsyTYu6dUN9X320TVYJG2sc-Ct9iDir1neZWUZ-MYo-urTxwJF6u_6sXQMwLFHDT5hmKH9AnMhwDTde-Vp9sngwBApgm1uPMJTlzfMe2Eurlnpr6zC_lM-2YZIdELtE2OpXOn4smg_wj2DeNL8-wIqyGl/w200-h171/BotPoll.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://x.com/NotHoodlum/status/1902533391880221113">Source</a></td></tr></tbody></table>
+You can tell Tesla is worried about consumer sentiment from Fred Lambert's <a href="https://electrek.co/2025/03/19/elon-musk-promotes-negative-tesla-survey-turned-positive-by-bots/"><i>Elon Musk promotes negative Tesla survey turned positive by bots</i></a>:<br />
+<blockquote>
+Tesla’s sales dropped by 41% in Germany last year compared to 2023 despite EV sales surging 27% during the year.<br />
+<br />
+Despite the already bad results in 2024, <a href="https://electrek.co/2025/03/05/tesla-tsla-sales-crash-continues-in-europe-with-germany-down-70/">Tesla’s sales were down 70% in the first two months of 2025</a>.<br />
+...<br />
+Amid this evident crisis for Tesla in Germany, we reported last week on a survey of 100,000 people by Germany’s popular T-Online publication that showed that only 3% of respondents would consider buying a Tesla vehicle.<br />
+...<br />
+Musk shared a post that claimed the survey now points to “70% of people in Germany would buy a Tesla again”<br />
+...<br />
+Sure enough, <a href="https://www.t-online.de/finanzen/aktuelles/wirtschaft/id_100642002/tesla-umfrage-t-online-stoppt-umfrage-wegen-manipulationsverdacht.html">T Online</a> has now reported that the survey has been manipulated by bots, with 253,000 votes coming from just two IP addresses in the US:
+</blockquote>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC5dCkHWn07PCl7Xr1JNym-w5TZ3gGv3XNUgrQmjhIy_VqeN2hTpUZApqBLO9n8bcK1uHvrFKt0F_4HRuyWMD3aBBmWDxUEY7kknn8-YZtig0oVAjJIkln31b9YgzLXVIY0noJGddKGzBrCPdPH0OSUot2k6CU1GKr7QRz2VddYhUS5JGwVxtVGmnrv30p/s1529/UsedModel3.jpeg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="822" data-original-width="1529" height="108" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC5dCkHWn07PCl7Xr1JNym-w5TZ3gGv3XNUgrQmjhIy_VqeN2hTpUZApqBLO9n8bcK1uHvrFKt0F_4HRuyWMD3aBBmWDxUEY7kknn8-YZtig0oVAjJIkln31b9YgzLXVIY0noJGddKGzBrCPdPH0OSUot2k6CU1GKr7QRz2VddYhUS5JGwVxtVGmnrv30p/w200-h108/UsedModel3.jpeg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://x.com/secretsqrl123/status/1905314605594747241/photo/1">Source</a></td></tr></tbody></table>
+It isn't just that many fewer people are buying new Teslas, it is also that existing Tesla owners are dumping theirs. CNN's <a href="https://edition.cnn.com/2025/03/20/business/even-used-teslas-are-falling-out-of-favor/index.html"><i>The used Tesla market is crumbling</i></a> describes the rout:<br />
+<blockquote>
+CarGurus, a car-buying site, found that used Tesla prices are falling at more than double the rate of the average used car price. The Cybertruck, the controversial steel-sided pickup, fared the worst of any Tesla vehicle, with a resale value 58% less than its original price, according to CarGurus.
+</blockquote>
+This has three effects. It increases the motivation for owners to sell their cars, because they see them depreciating so fast, it diverts buyers who actually want a Tesla from new to used, and it forces Tesla to discount new car prices to move them off the lots, which increases the depreciation. It is a vicious cycle.<br />
+<h3>Competition</h3>
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu-jAZ7VzMxPyyJkt9FTH9aIGFc_RjmA2MrQJFvn5H0Qin324JDLs7zytCHS0iytzkVMuOvxr_-tYRizTUuwuRfrn6rYVOeWabVEbGK56CSxL81449QkJTa86eRRlaKKuLXZFuJTOn5AFJrwPjkLIZXcKbKct7ijzJNbS6i9muYyygP54-cZoD8g_Ta38D/s800/byd_han_L_official-1-800x450.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="450" data-original-width="800" height="113" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu-jAZ7VzMxPyyJkt9FTH9aIGFc_RjmA2MrQJFvn5H0Qin324JDLs7zytCHS0iytzkVMuOvxr_-tYRizTUuwuRfrn6rYVOeWabVEbGK56CSxL81449QkJTa86eRRlaKKuLXZFuJTOn5AFJrwPjkLIZXcKbKct7ijzJNbS6i9muYyygP54-cZoD8g_Ta38D/w200-h113/byd_han_L_official-1-800x450.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;"><a href="https://carnewschina.com/wp-content/uploads/2025/01/byd_han_L_official-1-800x450.jpg">BYD Han L</a></td></tr></tbody></table>
+But the much bigger problem is simply that Tesla hasn't kept up with the competition in the Chinese market, which last year contributed <a href="https://global.chinadaily.com.cn/a/202302/01/WS63d9d98ea31057c47ebac4f1.html">22% of revenue</a>.<br />
+<br />
+William Gavin's <a href="https://qz.com/byd-ev-electric-vehicle-fast-charging-tesla-nio-zeekr-1851770679"><i>Tesla faces trouble from BYD's new EV charger breakthrough. Here's what to know</i></a> provides just one example:
+<blockquote>
+BYD on Monday unveiled a new charging system that can deliver enough power to its cars to travel 292 miles within just five minutes, a tad longer than it takes to fill up a tank of gas. BYD Chair Wang Chuanu told Bloomberg News that the company plans to set up 4,000 charging stations, although he didn’t specify a timeline for doing so. <br />
+<br />
+The “Super e-Platform” includes flash-charging batteries, a 30,000 RPM motor, and silicon carbide power chips, according to Bloomberg. It claims that its system is the fastest of its type for mass-produced vehicles. <br />
+<br />
+The first BYD models to get the five-minute charging system will be the Han L sedan and Tang L SUV, which are set to hit the market in April at prices starting at 270,000 yuan ($37,338). The company sold more than 318,000 passenger vehicles in February, up 161% year-over-year. <br />
+<br />
+Cornering the market on ultra-speed EV charging would be a major boost to BYD, which is already the biggest automaker in the world’s biggest auto market. BYD also plans to equip all of its models priced above $13,688 with the “God’s Eye” software, offering assisted driving software to mass-market buyers.
+</blockquote>
+Tesla's Supercharger network is a big part of its product appeal, and it is vulnerable. Om Malik's <a href="https://crazystupidtech.com/archive/chinas-ev-boom-is-bad-for-ustech/">China's EV Boom Is Bad For U.S.Tech</a> has the dismal numbers:<br />
+<blockquote>
+In 2023, Tesla delivered 1.8 million cars, while BYD delivered 1.57 million. In 2024, Tesla delivered 1.79 million electric vehicles, while BYD sold 1.76 million. BYD is nipping on its heels, and poised to take a lead.<br />
+<br />
+However, these numbers don’t tell the complete story. BYD reported higher revenues in the third quarter of 2024 and delivered more fully electric vehicles than Tesla in the fourth quarter. According to China Passenger Car Association data released March 4, Tesla’s wholesale sales in the Chinese market fell 49% in February compared to the same period last year, reaching 30,688 units.<br />
+...<br />
+BYD sold 4.27 million cars in 2024, approaching Ford's estimated sales for the year. China exports EVs in aggregate to the Global South rather than to the EU or US. No wonder Ford’s CEO is honest enough to admit that they are facing down the barrel of the gun. 
+</blockquote>
+<a href="https://www.youtube.com/watch?v=IYz9kxLHj7g"><i>Xiaomi is Why Apple Should Have Made a Car</i></a> on Asianometry's YouTube channel recounts the history of just one of BYD's several competitors. Starting around 21:15 the video explains how an attempt by the US to sanction Xiaomi drove them into the EV market.<br />
+<br />
+<table cellpadding="0" cellspacing="0" class="tr-caption-container" style="float: right;"><tbody><tr><td style="text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Gm5H48XbfmFtW72kntPqrXxohtOQyYhsf7XHwqgKrsTgDKS6BcCnHt5-q1L7WGDpb7dL6PeZ59ey0zkgrw5SUJj0z4gs51PE6Tx1ZxKohxbKWwYi7kmXYCgJ2ekEgzxANp2RVLvC8wsYzSrJoIvcl3ZobwL2h-bTtjmH7AEr77ItnYmE8F_WmWWJu_jc/s5358/Xiaomi_SU7.jpg" style="clear: right; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" data-original-height="3014" data-original-width="5358" height="113" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1Gm5H48XbfmFtW72kntPqrXxohtOQyYhsf7XHwqgKrsTgDKS6BcCnHt5-q1L7WGDpb7dL6PeZ59ey0zkgrw5SUJj0z4gs51PE6Tx1ZxKohxbKWwYi7kmXYCgJ2ekEgzxANp2RVLvC8wsYzSrJoIvcl3ZobwL2h-bTtjmH7AEr77ItnYmE8F_WmWWJu_jc/w200-h113/Xiaomi_SU7.jpg" width="200" /></a></td></tr><tr><td class="tr-caption" style="text-align: center;">Xiaomi SU-7<br /><a href="https://commons.wikimedia.org/w/index.php?curid=155683912">By S5A-0043 - Own work</a><br />CC BY 4.0</td></tr></tbody></table>
+BYD is, like Tesla, a vertically integrated company. But Xiaomi and the other Chinese EV companies are not. They are enabled by the fact that the EV industry in China is like the PC or the smartphone business. The product is modular, and each module forms a competitive market. Xiaomi, the smartphone company, understood how to operate in this market when, on 30<sup>th</sup> March 2021 they announced that they would build an EV.<br />
+<br />
+They launched their first car in December 2023, announced prices for a Model S size sedan in March 2024 at $30K ($4K cheaper than a Model 3) for the base model and up to $41.5K for one with a 497-mile range on the CLTC standard, 673 horsepower, four-wheel drive and a self-driving stack including dual Nvidia Orin and lidar. They started taking orders on 28<sup>th</sup> March 2024. The first 50K orders took 27 minutes, they had 100K by April, and were shipping a few days later. They delivered 140K cars in the first 8 months, and are now producing 20K cars/month.<br />
+<br />
+Business Insider's YouTube review is entitled <a href="https://www.youtube.com/watch?v=ZgbahaAG1HQ"><i>Test-Driving The $30,000 Chinese EV That Ford's CEO Loves: Xiaomi SU7</i></a>. Last October Zac Palmer's <a href="https://www.roadandtrack.com/news/a62705480/ford-ceo-jim-farley-praises-xiaomi-su7-chinese-electric-car/"><i>Ford CEO Jim Farley Praises His Xiaomi SU7, Says 'I Don't Want To Give It Up'</i></a> started:<br />
+<blockquote>
+If you had to guess what the chief executive officer of the Ford Motor Company used as his daily driver ... well, no matter what you might think, you'd probably be wrong. As it turns out, <a href="https://www.roadandtrack.com/car-culture/ford-ceo-jim-farley-on-turning-pro-in-a-race-car/">Ford CEO Jim Farley</a> has been driving around in a <a href="https://www.mi.com/global/discover/article?id=3263">Chinese-made Xiaomi SU7</a> as of late for a little competitive research — and he sure does love it.<br />
+<br />
+Speaking on the Everything Electric Show podcast, Farley praised the brand-new automaker’s electric sedan. "I don't like talking about the competition so much, but I drive a Xiaomi," he said. "We flew one from Shanghai to Chicago, and I've been driving it for six months now, and I don't want to give it up."
+</blockquote>
+In late 2024 Xiaomi launched an Ultra version with 1500hp and 0-100KPH in 2s, priced between $72K and $114K. Deliveries began last month.  Jack Fitzgerald reports that a <a href="https://www.caranddriver.com/news/a62766049/xiaomi-su7-ultra-prototype-nurburgring-lap-time/"><i>Xiaomi SU7 Ultra Prototype Laps the Nürburgring in 6:46.87 Minutes</i></a>, the fastest time ever for a 4-door sedan:<br />
+<blockquote>
+A video released by the Nürburgring shows the Xiaomi prototype smashing the official lap records for production versions of four-door and electric cars. Not only is the electric sedan's time remarkable, but the SU7 Ultra managed it while appearing to lose power around the 4:15-minute mark, as indicated by the onboard video.
+</blockquote>
+Not that everything is smooth sailing for Xiaomi. Reuters reports that <a href="https://www.yahoo.com/news/chinas-xiaomi-says-actively-cooperating-052114932.html"><i>Xiaomi will cooperate with investigation into fatal EV crash, says founder</i></a> (my emphasis):<br />
+<blockquote>
+The incident on March 29 marks the first major accident involving the SU7 sedan, which Xiaomi launched in March last year and which since December has <b>outsold Tesla's Model 3 on a monthly basis</b>.<br />
+...<br />
+A disclosure from the company earlier on Tuesday said initial information showed the car was in the Navigate on Autopilot intelligent-assisted driving mode before the accident and was moving at 116 kph (72 mph).<br />
+<br />
+In a rundown of the data submitted to local police posted on a company Weibo account, Xiaomi said the autopilot system had issued a risk warning of obstacles ahead.<br />
+<br />
+A driver inside the car took over and tried to slow it down, but then collided with a cement pole at a speed of 97 kph.
+</blockquote>
+Note that this was the standard model SU-7 which, like Tesla, <i>lacks lidar</i> and the full self-driving stack.  Tesla's Fake Self-Driving has problems in China too. Fred Lambert reports that <a href="https://electrek.co/2025/03/24/tesla-tsla-rolls-back-full-self-driving-trial-china-approval-rules/"><i>Tesla rolls back ‘Full Self-Driving’ trial in China amid new approval rules</i></a>:<br />
+<blockquote>
+Tesla had to roll back its ‘Full Self-Driving’ free trial in China after a policy change brought more scrutiny to software updates for advanced driver assist systems.<br />
+<br />
+Last month, <a href="https://electrek.co/2025/02/25/tesla-launches-limited-full-self-driving-in-china-to-mixed-reviews/">Tesla launched a first version of its “Full Self-Driving” FSD package in China</a> for owners with the latest “Hardware 4.0”, or “HW4”, vehicles.<br />
+<br />
+The automaker made the system available through a free trial this month to try to encourage people to buy the system through an over-the-air software update.<br />
+<br />
+However, Tesla halted the program this week.
+</blockquote>
+Jameson Dow reported that <a href="https://electrek.co/2025/03/25/tesla-drops-fsd-from-name-of-its-driver-assist-tech-in-china/"><i>Tesla drops ‘FSD’ from name of its driver-assist tech in China</i></a>:<br />
+<blockquote>
+Previously, the system was called “FSD Intelligent Assisted Driving” in Chinese. The new name drops “FSD” from the title, and simply calls it “Intelligent Assisted Driving.” It has also previously been called “Full Self-Driving Capability” in China.<br />
+<br />
+Tesla has received plenty of criticism over the years for the name of its system, which, despite being called “Full Self-Driving,” does not actually allow cars to fully drive themselves. Tesla changed the name to “Full Self-Driving (Supervised)” in the US last year, to show that a driver still needs to supervise the vehicle while the system is active.
+</blockquote>
+"Intelligent Assisted Driving" costs almost $8K in China, <a href="https://electrek.co/2025/03/25/tesla-drops-fsd-from-name-of-its-driver-assist-tech-in-china/">but</a>:<br />
+<blockquote>
+BYD recently pushed a software update giving <a href="https://electrek.co/2025/02/10/byds-most-affordable-evs-smart-driving-upgrade-free/">smart driving features to all of its vehicles – for free</a>. This is surely part of what pushed Tesla to roll out its FSD system in China in the first place.<br />
+<br />
+But immediately after that rollout, Tesla drivers started <a href="https://electrek.co/2025/02/27/tesla-drivers-are-racking-up-fines-using-fsd-in-china/">racking up fines</a> for violating the law. Many roads in China are watched by CCTV cameras, and fines are automatically handed out to drivers to break the law.<br />
+<br />
+It’s clear that the system still needs more knowledge about Chinese roads in general, because it kept mistaking bike lanes for right turn lanes, etc. One driver racked up 7 tickets within the span of a single drive after driving through bike lanes and crossing over solid lines. If a driver gets enough points on their license, they could even have their license suspended.
+</blockquote>
+Props to China for forcing Tesla to be somewhat less misleading about Fake Self Driving. Prospects for Tesla's eventual Robotaxi in China don't look great, because there already are <a href="https://www.channelnewsasia.com/east-asia/china-robotaxis-baidu-tesla-driverless-vehicles-4670506"><i>Robotaxis on the roads: China’s Baidu eyes overseas rollout as autonomous driving race heats up</i></a>:<br />
+<blockquote>
+Chinese tech giant Baidu is reportedly planning to launch its robotaxi service outside of China as it looks to make inroads in the autonomous driving global market - a growing industry that other Chinese players as well as Western firms are racing towards.<br />
+<br />
+The Beijing-based company is hoping to test and deploy its Apollo Go robotaxis in places including Hong Kong, Singapore and the Middle East, according to reports from the likes of Nikkei Asia and the Wall Street Journal that cited people familiar with the matter.<br />
+...<br />
+Baidu is already operating robotaxi services in multiple cities in China. It provided close to 900,000 rides in the second quarter of the year, up 26 per cent year-on-year, according to its latest earnings call. More than 7 million robotaxi rides in total had been operated as of late July.
+</blockquote>
+Waymo is in the robotaxi market, albeit with vehicles that are a lot more expensive than Baidu's. Tesla is not in this market.<br />
+<br />
+Xiaomi is just one of the Chinese EV makers, and both it and BYD are obviously performing better and faster than Tesla. How is Tesla responding? By getting the White House to place a <a href="https://www.bloomberg.com/news/articles/2025-03-26/trump-prepares-auto-tariff-announcement-as-soon-as-wednesday">25% tariff on imported cars</a>. China has studied the history of Japanese car exports, as Lingling Wei reports in <a href="https://www.msn.com/en-us/money/markets/china-explores-limiting-its-own-exports-to-mollify-trump/ar-AA1BqftW"><i>China Explores Limiting Its Own Exports to Mollify Trump</i></a>:<br />
+<blockquote>
+Like Japan decades ago, China is considering trying to blunt greater U.S. tariffs and other trade barriers by offering to curb the quantity of certain goods exported to the U.S., according to advisers to the Chinese government.<br />
+<br />
+Tokyo’s adoption of so-called voluntary export restraints, or VERs, to limit its auto shipments to the U.S. in the 1980s helped prevent Washington from imposing higher import duties
+</blockquote>
+These restrictions didn't prevent Toyota and Honda grabbing a big chunk of the US market, because their cars were better. The reviews of EVs in the Chinese market agree that comparable models are both better and cheaper than Tesla's, which is why their sales are dropping. It is likely that the highly competitive Chinese market can produce EVs that are better and more than 25% cheaper than US-made EVs.<br />
+<br /> 
+
+<br> 
+
+<https://blog.dshr.org/2025/04/elon-musk-threat-or-menace-part-6.html>
+
+---
+
+**@Ryan Gantz Bluesky feed** (date: 2025-04-03, from: Ryan Gantz Bluesky feed)
+
+starting to question whether these billionaires are looking out for me and my family 
+
+<br> 
+
+<https://bsky.app/profile/sixfoot6.bsky.social/post/3llw5yhdjl226>
 
 ---
 
@@ -13,7 +375,7 @@ updated: 2025-04-03 06:09:17
 
 date: 2025-04-03, from: Doc Searls (at Harvard), New Old Blog
 
-Be theres. In The False Intention Economy: How AI Systems Are Replacing Human Will with Modeled Behavior, Katalin Bártfai-Walcott lays out the battlefield between the real Intention Economy and the fake one that surveillance creeps are talking about. We&#39;ll be working on the real one next week at VRM Day and IIW. VRM Day (on Monday) is [&#8230;] 
+Though it may take longer. Usually does. I say some stuff I trust will eventually prove true in Pew&#39;s Imagining the Digital Future report on being human ten years from now. Be theres. In The False Intention Economy: How AI Systems Are Replacing Human Will with Modeled Behavior, Katalin Bártfai-Walcott lays out the battlefield between the real [&#8230;] 
 
 <br> 
 

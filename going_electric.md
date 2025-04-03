@@ -1,11 +1,237 @@
 ---
 title: going electric
-updated: 2025-04-03 06:09:21
+updated: 2025-04-03 14:09:08
 ---
 
 # going electric
 
-(date: 2025-04-03 06:09:21)
+(date: 2025-04-03 14:09:08)
+
+---
+
+## This EV Battery Charges In 10 Minutes At Sub-Zero Temperatures
+
+date: 2025-04-03, from: Inside EVs News
+
+Researchers developed a special coating that can enable blistering charging speeds and no range degradation even in cold weather. 
+
+<br> 
+
+<https://insideevs.com/news/755553/ev-charging-10-minutes-subzero-temperatures/>
+
+---
+
+## Here’s what TSLA analysts are saying about Tesla’s big delivery miss
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/03/img_1665-e1457955946161.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Most Wall Street analysts covering Tesla’s stock (TSLA) badly misread the automaker’s delivery volumes this quarter. Some of them have started releasing notes to clients following Tesla’s production and delivery results.</p>
+
+
+
+<p>Here’s what they have to say:</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="409666" href="https://electrek.co/2025/04/03/what-tsla-analysts-saying-about-tesla-delivery-miss/#more-409666" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/what-tsla-analysts-saying-about-tesla-delivery-miss/>
+
+---
+
+## Here's Every Single EV About To Get Hit With Tariffs
+
+date: 2025-04-03, from: Inside EVs News
+
+Even the most red-white-and-blue EVs come loaded with foreign auto parts—and that's a ticking tariff timebomb. 
+
+<br> 
+
+<https://insideevs.com/news/755440/ev-tariffs-list-2025-trump/>
+
+---
+
+## How Sustainable Flooring Supports a Self-Sufficient Lifestyle Beyond Just a Beautiful Home
+
+date: 2025-04-03, from: Off the Grid World
+
+<p>It&#8217;s a little unsettling to think about how much our homes impact the environment, isn’t it? Of course, we all want a beautiful space, but what if that beauty came &#8230;</p>
+<p>The post <a href="https://offgridworld.com/how-sustainable-flooring-supports-a-self-sufficient-lifestyle/">How Sustainable Flooring Supports a Self-Sufficient Lifestyle Beyond Just a Beautiful Home</a> appeared first on <a href="https://offgridworld.com">Off Grid World</a>.</p>
+ 
+
+<br> 
+
+<https://offgridworld.com/how-sustainable-flooring-supports-a-self-sufficient-lifestyle/>
+
+---
+
+## Mazda’s $20,000 Chinese EV is about to launch overseas and a new SUV is up next
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Mazda-EV-overseas-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Wait, <a href="https://electrek.co/guides/mazda/">Mazda</a> sells a real EV? It’s only in China for now, but that will change very soon. The first Mazda 6e built for overseas markets rolled off the assembly line Thursday. Mazda’s new EV will arrive in Europe, Southeast Asia, and other overseas markets later this year. This could be the start of something with a new SUV due out next.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="409612" href="https://electrek.co/2025/04/03/mazdas-20000-chinese-ev-heads-overseas-suv-is-next/#more-409612" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/mazdas-20000-chinese-ev-heads-overseas-suv-is-next/>
+
+---
+
+## America's $35,000 Kia EV3 Is Still MIA
+
+date: 2025-04-03, from: Inside EVs News
+
+Kia's staying quiet for now on the affordable EV3, but the EV4 sedan is coming to the New York Auto Show. 
+
+<br> 
+
+<https://insideevs.com/news/755547/kia-ev3-affordable-ev-usa/>
+
+---
+
+## Americans already losing jobs to tariffs – 900 laid off as Stellantis idles plants
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/13194136893_f26c8b7ecf_o-e1743703675874.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Stellantis has paused production at two assembly plants in Canada and Mexico in response to tariffs, leaving thousands of Americans and Canadians out of their jobs while the company figures out what to do next. The idled plants produce both the Dodge Charger Daytona EV and Jeep Wagoneer S EV, among other vehicles.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="stellantis,tariffs" data-layer-viewtype="unknown" data-post-id="409613" href="https://electrek.co/2025/04/03/americans-already-losing-jobs-to-tariffs-900-laid-off-as-stellantis-idles-plants/#more-409613" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/americans-already-losing-jobs-to-tariffs-900-laid-off-as-stellantis-idles-plants/>
+
+---
+
+## Lectric XPress 750 e-bikes get free $557 bundle at $1,399 in April sale, Jackery units up to $1,900 off in flash savings, Kärcher, more
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Lectric-Xpress-750-High-Step-e-bike-2.webp?w=1200" /></div><p>Today’s Green Deals are led by <a href="https://9to5toys.com/2025/04/02/lectric-april-sale-up-to-654-in-free-add-ons/">Lectric’s newly launched April Showers Sale</a> which has up to $654 in free add-on gear accompanying e-bikes, with the models aside from the XP 3.0 e-bikes retaining their earlier price cuts. Among the lineup though, the <a href="https://9to5toys.com/2025/04/02/lectric-april-sale-up-to-654-in-free-add-ons/">Lectric XPress 750 Commuter e-bikes</a> are getting the largest bundle to date with $557 in free gear at <a href="https://9to5toys.com/2025/04/02/lectric-april-sale-up-to-654-in-free-add-ons/">$1,399</a>. Right behind it is the latest collection of <a href="https://9to5toys.com/2025/04/03/jackery-flash-sale-starting-from-90/">Jackery flash offers through April 6</a>, like the <a href="https://9to5toys.com/2025/04/03/jackery-flash-sale-starting-from-90/">Explorer 1000 v2</a> Portable Power Station at <a href="https://9to5toys.com/2025/04/03/jackery-flash-sale-starting-from-90/">$499</a>, among others. You can also score the popular <a href="https://9to5toys.com/2025/04/03/karcher-k1700-pressure-washer-105/">Kärcher K1700 Electric Pressure Washer</a> right now for one of its best prices ever at <a href="https://9to5toys.com/2025/04/03/karcher-k1700-pressure-washer-105/">$105</a>, as well as the <a href="https://9to5toys.com/2025/04/03/greenworks-80v-mower-trimmer-blower-combo-new-560-low/">Greenworks 3-tool combo</a> that bundles a 80V 21-inch Lawn Mower, 13-inch String Trimmer, and 730 CFM Leaf Blower – all at a new <a href="https://9to5toys.com/2025/04/03/greenworks-80v-mower-trimmer-blower-combo-new-560-low/">$560</a> low, but only for the rest of the day. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/04/02/preorder-segway-ninebot-f3-ekickscooter-600/">Segway Ninebot F3 eKickScooter</a> preorder savings, <a href="https://9to5toys.com/2025/04/02/anker-solix-flash-sale-f2000-with-400w-panel-1599-more/">Anker’s SOLIX weekend flash sale</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="409598" href="https://electrek.co/2025/04/03/lectric-april-showers-sale-jackery-karcher-more/#more-409598" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/lectric-april-showers-sale-jackery-karcher-more/>
+
+---
+
+## Ford’s new strategy includes big discounts, employee pricing for all, and free EV chargers
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/2025-Ford-F-150-Lightning.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Ford’s vehicles are about to get a whole lot cheaper. With its new “From America, For America” campaign, launched Thursday, <a href="https://electrek.co/guides/ford/">Ford</a> is rolling out steep discounts, including employee pricing for all, and a free home charger for EV buyers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford" data-layer-viewtype="unknown" data-post-id="409584" href="https://electrek.co/2025/04/03/ford-plans-big-discounts-employee-pricing-free-ev-chargers/#more-409584" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/ford-plans-big-discounts-employee-pricing-free-ev-chargers/>
+
+---
+
+## Tesla’s only growing business was just kneecapped by Trump’s tariffs
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/11/PILLSWOOD-21-NOV-scaled-1-e1669131463878.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Trump’s new tariffs on China have just kneecapped Tesla’s only growing business: energy storage, which uses battery cells from China.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="409580" href="https://electrek.co/2025/04/03/tesla-only-growing-business-kneecapped-trump-tariffs/#more-409580" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/tesla-only-growing-business-kneecapped-trump-tariffs/>
+
+---
+
+## Tech research firm once again predicts BYD will overtake Tesla in global BEV market share (for real this time)
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Tesla-marketshare-BYD.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Another fiscal year and another bold prediction that Tesla’s long-running reign as the global market share leader will end. As previously predicted, <a href="https://electrek.co/guides/byd/">BYD</a> is once again expected to usurp Tesla in total BEV sales in 2025, and it may actually happen this time.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd,ev-sales,tesla" data-layer-viewtype="unknown" data-post-id="409568" href="https://electrek.co/2025/04/03/tech-research-firm-predicts-byd-will-overtake-tesla-global-bev-market-share/#more-409568" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/tech-research-firm-predicts-byd-will-overtake-tesla-global-bev-market-share/>
+
+---
+
+## Kia’s new PV5 ‘Spielraum’ is the ultimate electric camping van and it’s coming soon
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Kia-PV5-camping-van-7.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Your next camping trip is about to get an upgrade. Kia just dropped two new electric van concepts based on <a href="https://electrek.co/guides/kia-pv5/">the PV5</a>. With AI-powered home appliances like a refrigerator and microwave, and even a wine cellar, Kia’s new PV5 “Speilraum” is an electric van built for camping and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-pv5" data-layer-viewtype="unknown" data-post-id="409539" href="https://electrek.co/2025/04/03/kias-new-pv5-spielraum-electric-van-is-the-ultimate-camping-ev/#more-409539" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/kias-new-pv5-spielraum-electric-van-is-the-ultimate-camping-ev/>
+
+---
+
+## DC Fast Charging In Europe Will Get A Lot Easier This Summer
+
+date: 2025-04-03, from: Inside EVs News
+
+Four of the biggest charging operators in Europe are joining forces to eliminate the need for multiple smartphone apps. 
+
+<br> 
+
+<https://insideevs.com/news/755519/spark-alliance-dc-fast-chargers-europe/>
+
+---
+
+## Tesla Cybertruck’s recall fix is a joke that leaves burn mark and gap
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Cybertruck-recall-fix.png?w=1600" /></div><p>Tesla Cybertruck owners are starting to get the fix for the truck’s recent recall related to a falling trim. The fix is ridiculous for a $80,000-$100,000 vehicle as it leaves a weld burn and a panel gap.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="409235" href="https://electrek.co/2025/04/03/tesla-cybertruck-recall-fix-joke-leaves-mark-gap/#more-409235" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/tesla-cybertruck-recall-fix-joke-leaves-mark-gap/>
+
+---
+
+## Analysts Sound The Alarm: The Auto Market Is About To Get Bad
+
+date: 2025-04-03, from: Inside EVs News
+
+Plus, automakers have no idea what their final tariff bills will be and NYC prepares to sue Tesla over Musk's abandonment. 
+
+<br> 
+
+<https://insideevs.com/news/755435/auto-market-slump-price-rise/>
 
 ---
 
@@ -93,11 +319,15 @@ date: 2025-04-02, from: Electrek Feed
 
 ---
 
-## Polestar 2 removed from Polestar’s US website alongside tariff announcement
+## Polestar 2 removed from Polestar’s US website alongside tariffs (Upd.: it’s back)
 
 date: 2025-04-02, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/polestar2gone.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Polestar has removed the Polestar 2 from its US website header in an early sign of how new tariffs will restrict choice and competition for American consumers, thus increasing prices.</p>
+
+
+
+<p><em><strong>Update: </strong></em>The Polestar 2 tab has returned to the website. Polestar told us “<em>Wanted to share that Polestar 2 tab is back up. Select stock of new and Certified Pre-Owned are still available for customers.</em>“</p>
 
 
 
