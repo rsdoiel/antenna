@@ -1,11 +1,26 @@
 ---
 title: writing
-updated: 2025-04-03 14:09:04
+updated: 2025-04-04 06:07:43
 ---
 
 # writing
 
-(date: 2025-04-03 14:09:04)
+(date: 2025-04-04 06:07:43)
+
+---
+
+## Weekly Bestsellers, 31 March 2025
+
+date: 2025-04-04, from: Locus Magazine
+
+<div style="padding: 14px 0px 0px 0px; text-align: center;">
+<p>Stephen Graham Jones&#8217; <b>The Buffalo Hunter Hunter</b> (Saga) debuts on three lists this week, ranking as high as #2 on the Los Angeles Times list.</p>
+<p>Suzanne Collins&#8217;s <b>Sunrise on the Reaping</b> debuts on two print lists at #1, and is part of the #1 ranked title on the NYT Children&#8217;s &#38; Young Adult Series list; NYT won&#8217;t be listing the title separately.</p>
+<p>Note that Publishers Weekly has an updated Children&#8217;s </p></div> <a href="https://locusmag.com/2025/04/weekly-bestsellers-31-march-2025/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/weekly-bestsellers-31-march-2025/>
 
 ---
 

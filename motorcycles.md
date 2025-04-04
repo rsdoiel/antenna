@@ -1,11 +1,60 @@
 ---
 title: motorcycles
-updated: 2025-04-03 14:09:07
+updated: 2025-04-04 06:07:46
 ---
 
 # motorcycles
 
-(date: 2025-04-03 14:09:07)
+(date: 2025-04-04 06:07:46)
+
+---
+
+## Yamaha Will Acquire Brose’s High-Performance E-Bike System, Here’s Why It Matters
+
+date: 2025-04-04, from: Ride Apart, Electric Motorcycle News
+
+Sure, Yamaha may have exited the US e-bike market, but that doesn’t mean it’s slowing down.
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/755436/yamaha-acquires-brose-ekit-ebike-technology/>
+
+---
+
+## Crooked Police Chief Pleads Guilty To Selling Confiscated Bikes, Keeping The Money
+
+date: 2025-04-04, from: Ride Apart, Electric Motorcycle News
+
+And that's not all. 
+
+<br> 
+
+<https://www.rideapart.com/news/755419/crooked-police-sell-confiscated-bikes/>
+
+---
+
+## Roland Sands Teams Up With Cardo for Special Edition PackTalk Pro Comms
+
+date: 2025-04-04, from: Ride Apart, Electric Motorcycle News
+
+Have you been waiting for a sleeker PackTalk? 
+
+<br> 
+
+<https://www.rideapart.com/news/755406/roland-sands-designs-rsd-cardo-packtalk-pro/>
+
+---
+
+## Will We Soon See Sub-500cc Norton Motorcycles Rolling Out to Customers?
+
+date: 2025-04-04, from: Ride Apart, Electric Motorcycle News
+
+Rumors are swirling, and here's what they say. 
+
+<br> 
+
+<https://www.rideapart.com/news/755408/norton-motorcycles-under-500cc-tvs/>
 
 ---
 

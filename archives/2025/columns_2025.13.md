@@ -1,11 +1,215 @@
 ---
 title: columns
-updated: 2025-04-03 14:09:04
+updated: 2025-04-04 06:07:43
 ---
 
 # columns
 
-(date: 2025-04-03 14:09:04)
+(date: 2025-04-04 06:07:43)
+
+---
+
+## Ubuntu 25.04 beta takes flight – but this Plucky Puffin is still molting
+
+date: 2025-04-04, updated: 2025-04-04, from: Liam Proven's articles at the Register
+
+<h4>&#39;Pudgy&#39; might be more apt given the download size</h4>
+      <p>The beta version of Ubuntu 25.04, the next interim release of this Linux OS, has arrived.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/04/ubuntu_2504_beta/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-04, from: Miguel de Icaza Mastondon feed)
+
+<p>Well this is disappointing- I got distracted, but I was planning on using this feature for my great Mexican-American novel.<br /><a href="https://mastodon.social/@appleinsider/114279480057147933" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">mastodon.social/@appleinsider/</span><span class="invisible">114279480057147933</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114279490812328853>
+
+---
+
+## 2025-04-04 Aufsteigende Rüstungsklasse
+
+date: 2025-04-04, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-04-aufsteigende-rüstungsklasse">2025-04-04 Aufsteigende Rüstungsklasse</h1>
+
+<p>Ich hatte schon vor einiger Zeit angefangen, über einen Wechsel zur aufsteigenden Rüstungsklasse nachzudenken. Neue Spieler fanden die traditionelle, absteigende Rüstungsklasse meistens doof. Die Leute, mit denen ich schon spielte, hatten sich an die absteigende Rüstungsklasse gewöhnt und wollten nicht umsteigen. Was tun? Mir gefällt die Absteigende Rüstungsklasse und die kleine Tabelle, wo man sich aufschreibt, welche Rüstungsklasse welchen Wurf benötigt, oder die seltsame Notation aus AD&amp;D Zeiten mit dem ETW0 (Engl. THAC0).</p>
+
+<p>Irgendwann hatte ich mich halb durchgerungen, einen Versuch zu starten. Positiv aufgefallen ist sofort, dass die Tabellen im Handbuch für die Spielenden kompakter werden. Auf den Charakterbögen hat es nun auch etwas mehr Platz. Beides finde ich sehr positiv.</p>
+
+<p>Eher unangenehm war, dass in allen anderen Dokumenten immer noch absteigende Rüstungsklassen zu finden war. Oje! Mit dem aktuellen Update hoffe ich, sie alle gefunden zu haben. Und wer ansonsten eine Rüstungsklasse unter 10 findet, konvertiert wie folgt:</p>
+
+<ul>
+<li>Für Menschen ohne Rüstung wird RK 9 zu RK 10.</li>
+<li>Für alle anderen ist die aufsteigende Rüstungsklasse = 20 minus die absteigende Rüstungsklasse.</li>
+</ul>
+
+<p>Beispielsweise: Ork mit RK 6 wird zu Ork mit RK 14.</p>
+
+<p>Warum nicht &ldquo;19 minus die absteigende Rüstungsklasse&rdquo;? Nun ist alles um eins besser geschützt, würde man meinen. Der Vorteil ist aber, dass es nun zu neueren D&amp;D Versionen passt. Wenn ich beispielsweise bei D&amp;D 3.5 reinschaue:</p>
+
+<p>Krieger mit Stufe 1 hat einen Angriffsbonus von +1 (gleich wie die Stufe, was mir sehr gefällt). Die Rüstungen sind: beschlagene Lederrüstung 13 (20-7); Kettenpanzer 15 (20-5); Plattenpanzer 17 (20-3). Aus dem Rahmen fällt &ldquo;ohne Rüstung&rdquo;, denn 10 ist nicht 20-9. Tja… Dafür habe ich keine Lösung. RK 11 für Leute ohne Rüstung gefällt mir auch nicht.</p>
+
+<p>Und was ist mit den Trefferchancen? Vorher benötigte ein Krieger Stufe 1 eine 13 um einen Ork mit RK 6 zu treffen. Jetzt hat der Krieger einen Bonus von +1 um eine Ork mit RK 14 (20-6) zu treffen und braucht also immer noch eine 13. Insofern ist also alles gleich geblieben.</p>
+
+<p>Neue Versionen:</p>
+
+<ul>
+<li><a href="/pdfs/Hellebarden-und-Helme.pdf">Hellebarden &amp; Helme</a>, Regeln</li>
+<li><a href="/pdfs/rauchberg/Rauchberg.pdf">Rauchberg</a>, ein Megadungeon</li>
+<li><a href="/pdfs/Megadungeon.pdf">Megadungeon</a>, eine Einführung</li>
+<li><a href="/pdfs/Horte.pdf">Horte</a>, für Monster und Schätze</li>
+<li><a href="https://campaignwiki.org/character-sheet-generator/random/de?name=&amp;class=">Charaktergenerator</a></li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Hellebarden_und_Helme">#Hellebarden und Helme</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-04-aufsteigende-ruestungsklasse>
+
+---
+
+## An Entire Wing of the Smithsonian Full of Your Perfect Portraits of Donald Trump!
+
+date: 2025-04-04, from: Michael Moore's blog
+
+Plus - Massive protests this weekend in DC and around the nation! 
+
+<br> 
+
+<https://www.michaelmoore.com/p/an-entire-wing-of-the-smithsonian>
+
+---
+
+## Troy Hunt Gets Phished
+
+date: 2025-04-04, updated: 2025-04-03, from: Bruce Schneier blog
+
+<p>In case you need proof that <i>anyone</i>, even people who do cybersecurity for a living, Troy Hunt has a long, iterative <a href="https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/">story</a> on his webpage about how he got phished. Worth reading.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/troy-hunt-gets-phished.html>
+
+---
+
+## Additional small reasons for modest optimism
+
+date: 2025-04-04, from: Robert Reich's blog
+
+11 from this week 
+
+<br> 
+
+<https://robertreich.substack.com/p/yesterday-was-a-good-day-for-democrats>
+
+---
+
+## April 3, 2025
+
+date: 2025-04-04, from: Heather Cox Richardson blog
+
+Trump&#8217;s announcement last night that he was placing high tariffs on countries around the world came after the stock market closed, but it drove stock futures dramatically downward. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-3-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-03, from: Miguel de Icaza Mastondon feed)
+
+<p>My last pre-tariff Barolo, before I am forced to drink cleaning supplies from California.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114276725708264729>
+
+---
+
+## Friday 4 April, 2025
+
+date: 2025-04-03, from: John Naughton's online diary
+
+Not quite a host, but&#8230; Quote of the Day ”A machine learning algorithm walks into a bar. The bartender asks, ‘What’ll you have?’ The algorithm says, ‘What’s everyone else having?’ ” Chet Haase This is a profound joke and it captures &#8230; <a href="https://memex.naughtons.org/friday-4-april-2025/40636/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/friday-4-april-2025/40636/>
+
+---
+
+## U.S. Transaction Shares for Visa, Mastercard, and Amex
+
+date: 2025-04-03, updated: 2025-04-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/finance/banking/visa-wanted-a-vast-empire-first-it-had-to-beat-back-its-foes-3b3067f3?mod=article_inline>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-03, from: Miguel de Icaza Mastondon feed)
+
+<p>What dreams are made of.</p><p>WebAssembky and swift: <a href="https://forums.swift.org/t/pitch-a-vision-for-webassembly-support-in-swift/79060" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="ellipsis">forums.swift.org/t/pitch-a-vis</span><span class="invisible">ion-for-webassembly-support-in-swift/79060</span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114276602206402787>
+
+---
+
+## WSJ: Visa Offers Apple Roughly $100 Million to Switch Apple Card’s Network From Mastercard
+
+date: 2025-04-03, updated: 2025-04-03, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/finance/banking/apple-card-visa-mastercard-deal-3ce762da>
+
+---
+
+## Journalists still sanewashing
+
+date: 2025-04-03, from: Dave Winer's Scripting News
+
+<p>They're still <a href="https://en.wikipedia.org/wiki/Sanewashing">sanewashing</a> Trump.</p>
+<p>Example. Just listened to Brian Lehrer, a news interview and call-in show on WNYC, which I revere, for many reasons. Lehrer is smart, and doesn't dumb things down for his audience. He usually asks the question I'm dying to hear the answer to, which most reporters don't think of or won't ask.</p>
+<p>On the March 27 they had a <a href="https://www.wnycstudios.org/podcasts/bl-daily-politics-podcast/articles/columbia-university-faces-the-prisoners-dilemma">discussion</a> about Trump's assault on Columbia University, which has now been extended to Harvard and Princeton. In all of them, the main issue is antisemitism at these universities.</p>
+<p>Never in the discussion did they raise this question --</p>
+<p>Do we believe that Trump cares about antisemitism?</p>
+<p>And if he did, there are much bigger antisemites who are much more powerful and much closer to Trump (who is an obvious antisemite himself).</p>
+<p>I'll mention just one -- Elon Musk, who actually did the Nazi salute, twice, from the podium with the Presidential Seal on it, at the freaking inauguration.</p>
+<p>Musk has also backed the German Nazi party (they have a different name but to use that name would be NaziWashing, which I won't do).</p>
+<p>The Occam's truth is that he's tying antisemitism to things because it's fun for him, and because later -- they will blame Jews for everything that's wrong in the US, as they always do.</p>
+<p>The whole thing of Trump being a champion for Jewish people made me really uneasy, until I read a <a href="https://snyder.substack.com/p/antisemitism-and-antisemitism">piece</a> in Timothy Snyder's newsletter, which I recommend to everyone. </p>
+<p>Anyway, I trust Brian Lehrer, I don't think he'd shirk a tough question, I just think as a journalist he still isn't thinking realistically about the world as it is now, instead behaving as he did before it got so rotten.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/03/215240.html?title=journalistsStillSanewashing>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-03, from: Dave Winer's Scripting News)
+
+We're doing some research into the origins of my family in Germany, learning a lot. 
+
+<br> 
+
+<http://scripting.com/2025/04/03.html#a213053>
 
 ---
 
@@ -816,7 +1020,7 @@ Today Senator Cory Booker (D-NJ) made history.
 
 date: 2025-04-02, from: Daniel Stenberg Blog
 
-Welcome to another curl release. Download it here. Release presentation I will do a live-streamed curl 8.13.0 release presentation on Twitch at 08:00 UTC (10:00 CEST) Numbers the 266th release12 changes48 days (total: 9,875)305 bugfixes (total: 11,786)499 commits (total: 34,782)0 new public libcurl function (total: 96)1 new curl_easy_setopt() option (total: 307)1 new curl command line &#8230; <a href="https://daniel.haxx.se/blog/2025/04/02/curl-8-13-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.13.0</span> <span class="meta-nav">&#8594;</span></a> 
+Welcome to another curl release. Download it here. Release presentation Numbers the 266th release12 changes48 days (total: 9,875)305 bugfixes (total: 11,786)499 commits (total: 34,782)0 new public libcurl function (total: 96)1 new curl_easy_setopt() option (total: 307)1 new curl command line option (total: 268)71 contributors, 37 new (total: 3,379)41 authors, 16 new (total: 1,358)0 security fixes (total: &#8230; <a href="https://daniel.haxx.se/blog/2025/04/02/curl-8-13-0/" class="more-link">Continue reading <span class="screen-reader-text">curl 8.13.0</span> <span class="meta-nav">&#8594;</span></a> 
 
 <br> 
 

@@ -1,11 +1,101 @@
 ---
 title: snapshots
-updated: 2025-04-03 14:09:09
+updated: 2025-04-04 06:07:49
 ---
 
 # snapshots
 
-(date: 2025-04-03 14:09:09)
+(date: 2025-04-04 06:07:49)
+
+---
+
+## An Entire Wing of the Smithsonian Full of Your Perfect Portraits of Donald Trump!
+
+date: 2025-04-04, from: Michael Moore's blog
+
+Plus - Massive protests this weekend in DC and around the nation! 
+
+<br> 
+
+<https://www.michaelmoore.com/p/an-entire-wing-of-the-smithsonian>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-04, updated: 2025-04-04, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/38704e6dc71a7013e3011ef1b5b7ac4e6c2cd14b">(38704e6d)</a>
+<i>
+at
+04 Apr 12:40
+</i>
+</p>
+<div class="blockquote"><p dir="auto">wedgelets compile and work</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/38704e6dc71a7013e3011ef1b5b7ac4e6c2cd14b>
+
+---
+
+## How a Con Man President Is Destroying Confidence
+
+date: 2025-04-04, from: Paul Krugman
+
+Chaos and incompetence are bad. Who knew? 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/how-a-con-man-president-is-destroying>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+“We cannot leave the security of Europe in the hands of voters in Wisconsin every four years.” 
+
+<br> 
+
+<https://www.thebulwark.com/p/the-american-age-is-over>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+“The purpose of these tariffs is to be able to lift them to those who bow down to him and sacrifice their dignity.” 
+
+<br> 
+
+<https://bsky.app/profile/marcelias.bsky.social/post/3llwymr6asc27>
+
+---
+
+## Lilbits: Tariffs and tech prices, a 13.3 inch color ePaper monitor, and a dual-screen rugged phone
+
+date: 2025-04-03, from: Liliputing
+
+<p>So it&#8217;s an interesting time to be writing about weird gadgets produced by small Chinese companies because I have no idea if the price tags they&#8217;re advertising this week are going to be the actual prices for long now that the Trump administration has imposed a global tariffs on imports to the United States. Some [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-tariffs-and-tech-prices-a-13-3-inch-color-epaper-monitor-and-a-dual-screen-rugged-phone/">Lilbits: Tariffs and tech prices, a 13.3 inch color ePaper monitor, and a dual-screen rugged phone</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-tariffs-and-tech-prices-a-13-3-inch-color-epaper-monitor-and-a-dual-screen-rugged-phone/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-03, from: Dave Winer's linkblog)
+
+Timothy Snyder gave a presentation at the New York Public Library on Monday. 
+
+<br> 
+
+<https://www.nypl.org/events/programs/2025/04/01/timothy-snyder>
 
 ---
 

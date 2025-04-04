@@ -1,11 +1,203 @@
 ---
 title: science and technology
-updated: 2025-04-03 14:09:03
+updated: 2025-04-04 06:07:42
 ---
 
 # science and technology
 
-(date: 2025-04-03 14:09:03)
+(date: 2025-04-04 06:07:42)
+
+---
+
+## Ubuntu 25.04 beta takes flight – but this Plucky Puffin is still molting
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>&#39;Pudgy&#39; might be more apt given the download size</h4> <p>The beta version of Ubuntu 25.04, the next interim release of this Linux OS, has arrived.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/ubuntu_2504_beta/>
+
+---
+
+## 30 minutes to pwn town: Are speedy responses more important than backups for recovery?
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>The industry’s approach to keeping quality backups may be masking the importance of other recovery mainstays</h4> <p>Maintaining good-quality backups is often seen as the spine of any organization&#39;s ability to recover from cyberattacks quickly. Naturally, given the emphasis placed on them by experts of all stripes, you&#39;d be forgiven for thinking that prioritizing them over anything else would be the way to go.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/30_minutes_to_pwn_town/>
+
+---
+
+## Hubble Studies a Nearby Galaxy’s Star Formation
+
+date: 2025-04-04, from: NASA breaking news
+
+This NASA/ESA Hubble Space Telescope image features the picturesque spiral galaxy NGC 4941, which lies about 67 million light-years from Earth in the constellation Virgo (The Maiden). Because this galaxy is nearby, cosmically speaking, Hubble’s keen instruments are able to pick out exquisite details such as individual star clusters and filamentary clouds of gas and […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-studies-a-nearby-galaxys-star-formation/>
+
+---
+
+## Governments cling to private cloud despite inexorable public cloud adoption
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>The need to scale still battling security worries ... on both sides</h4> <p>Governments continue to adopt cloud services, for better or worse, hoping to modernize their IT services, leading big cloud operators to aggressively court public sector bodies for lucrative contracts.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/public_sector_private_cloud/>
+
+---
+
+## Home Office haunted by 25-year-old asylum system
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>&#39;Full benefit&#39; of replacement will not be realized until old one is shut down, projects watchdog warns</h4> <p>The effectiveness of new IT systems designed to speed up asylum claim processing in the UK continues to be held back by the Home Office&#39;s failure to decommission its 25-year-old case management database, five years after it promised to retire it.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/home_office_asylum_system/>
+
+---
+
+## Alan Turing Institute: UK can't handle a fight against AI-enabled crims
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>Law enforcement facing huge gap in &#39;AI adoption&#39;</h4> <p>The National Crime Agency (NCA) will &#34;closely examine&#34; the recommendations made by the Alan Turing Institute after it claimed the UK was ill-equipped to tackle AI-enabled crime.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/nca_ati_ai_report/>
+
+---
+
+## Hubble Spots Stellar Sculptors in Nearby Galaxy
+
+date: 2025-04-04, from: NASA breaking news
+
+As part of ESA/Hubble’s 35th anniversary celebrations, the European Space Agency (ESA) is sharing a new image series revisiting stunning, previously released Hubble targets with the addition of the latest Hubble data and new processing techniques. This new image showcases the dazzling young star cluster NGC 346. Although both the James Webb Space Telescope and […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-spots-stellar-sculptors-in-nearby-galaxy/>
+
+---
+
+## How do you explain what magnetic fields do to monitors to people wearing bowling shoes?
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>Techie demoed the effect in about 3 seconds, as On Call again tries to break tech-support world records</h4> <p><strong>On Call</strong>  The working week sometimes speeds by, sometimes crawls, and often ends with a crash. Each Friday, we try to avert the latter by delivering a new edition of On Call, <em>The Register</em>&#39;s reader-contributed tales of handling ridiculous, ribald, and remarkable tech support requests.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/on_call/>
+
+---
+
+## Ex-ASML, NXP staffer accused of stealing chip secrets, peddling them to Moscow
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>We&#39;re not Putin up with this alleged industrial espionage, say the Dutch</h4> <p>A Russian national appeared in a Netherlands court on Thursday accused of industrial espionage against ASML, the world’s leading manufacturer of chip factory equipment and a key supplier that helps the likes of TSMC pump out top-drawer processors.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/amsl_russian_spy/>
+
+---
+
+## Retirement funds reportedly raided after unexplained portal probes and data theft
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>Australians checking their pensions are melting down call centres and websites</h4> <p>Australian retirement fund operators are scrambling after reports emerged of unauthorized access to customer accounts leading to theft of cash.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/australian_retirement_funds_attacked/>
+
+---
+
+## China’s chip champ Loongson teases trio of new processors for lappies, factories, maybe servers too
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>Probably still behind western rivals, but improved GPU and higher core count can’t hurt</h4> <p>Chinese chip designer Loongson, whose products have been promoted by China’s government, has teased two new designs that will make it more of a contender for mobile and industrial applications. It may also have a new server up its sleeve.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/loongson_cpu_update/>
+
+---
+
+## Signalgate: Pentagon watchdog probes Defense Sec Hegseth
+
+date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>Classification compliance? Records retention requirements? How quaint</h4> <p>A US Department of Defense watchdog has opened an investigation into its own Secretary of Defense, Pete Hegseth, over his use of instant-messaging app Signal to discuss government business.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/hegseth_inspector_general/>
+
+---
+
+## For flux sake: CISA, annexable allies warn of hot DNS threat
+
+date: 2025-04-03, updated: 2025-04-04, from: The Register (UK I.T. News)
+
+<h4>Shape shifting technique described as menace to national security</h4> <p>The US govt&#39;s Cybersecurity Infrastructure Agency, aka CISA, on Thursday urged organizations, internet service providers, and security firms to strengthen defenses against so-called fast flux attacks.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/cisa_and_annexable_allies_warn/>
+
+---
+
+## Debugging Lotus 1-2-3 by fax
+
+date: 2025-04-03, from: OS News
+
+There isn&#8217;t a lot to this story beyond the fact that in around 1990 I helped debug someone&#8217;s Lotus 1-2-3 set up via fax. But it&#8217;s a good reminder of how important the Zeroth Law of Debugging is (see below). Without some sort of online connection with these folks, and with transatlantic phone calls being very, very expensive (I was in the UK, they were in the US) fax was the obvious answer. ↫ John Graham Honestly, this would still be easier today than some of the bug reporting systems I&#8217;ve seen. 
+
+<br> 
+
+<https://www.osnews.com/story/142044/debugging-lotus-1-2-3-by-fax/>
+
+---
+
+## Windows 9x QuickInstall simplifies installing Windows 98
+
+date: 2025-04-03, from: OS News
+
+If you&#8217;re elbow-deep in &#8217;90s retrocomputing and maintain a fleet of your own personal seemingly identical but definitely completely different Windows 98 machines, Windows 9x QuickInstall is tailor-made just for you. It takes the root file system of an already installed Windows 98 system and packages it, whilst allowing drivers and tools to be slipstreamed at will. For the installer, it uses Linux as a base, paired with some tools to allow hard disk partitioning and formatting, as well as a custom installer with a custom data packing method that is optimized for streaming directly from CD to the hard disk without any seeking. ↫ Windows 9x QuickInstall gitHub page What you end up with is an easily customisable packaged Windows 98 installation that can be installed onto computers (or in virtual machines, I guess) at blazing speeds. It&#8217;s a relatively simple concept, but its implementation is genius and definitely not simple at all. This is a great tool for the retrocomputing community. 
+
+<br> 
+
+<https://www.osnews.com/story/142042/windows-9x-quickinstall-simplifies-installing-windows-98/>
+
+---
+
+## Windows intros 365 Link, a black box that does nothing but connect to Microsoft's cloud
+
+date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+
+<h4>And it can be yours for a rather steep $349</h4> <p>Microsoft&#39;s Windows 365 Link has reached general availability, although some may question its value.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/03/windows_365_link/>
 
 ---
 
@@ -179,9 +371,9 @@ date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
 
 ## Why is someone mass-scanning Juniper and Palo Alto Networks products?
 
-date: 2025-04-03, updated: 2025-04-03, from: The Register (UK I.T. News)
+date: 2025-04-03, updated: 2025-04-04, from: The Register (UK I.T. News)
 
-<h4>Espionage? Botnets? Trying to exploit a zero-day?</h4> <p>Someone or something is probing devices made by Juniper Networks and Palo Alto Networks, and researchers think it could be evidence of espionage attempts, attempts to build a botnet, or an effort to exploit zero-day vulnerabilities.…</p> 
+<h4>Espionage? Botnets? Trying to exploit a zero-day?</h4> <p><strong>Updated</strong>  Someone or something is probing devices made by Juniper Networks and Palo Alto Networks, and researchers think it could be evidence of espionage attempts, attempts to build a botnet, or an effort to exploit zero-day vulnerabilities.…</p> 
 
 <br> 
 
@@ -561,9 +753,9 @@ date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
 
 ---
 
-## For healthcare orgs, disaster recovery means making sure docs can save lives during ransomware infection
+## For healthcare orgs, DR means making sure docs can save lives during ransomware infections
 
-date: 2025-04-02, updated: 2025-04-02, from: The Register (UK I.T. News)
+date: 2025-04-02, updated: 2025-04-03, from: The Register (UK I.T. News)
 
 <h4>Organizational, technological resilience combined defeat the disease that is cybercrime</h4> <p>When IT disasters strike, it can become a matter of life and death for healthcare organizations – and criminals know it.…</p> 
 

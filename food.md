@@ -1,11 +1,163 @@
 ---
 title: food
-updated: 2025-04-03 14:09:08
+updated: 2025-04-04 06:07:47
 ---
 
 # food
 
-(date: 2025-04-03 14:09:08)
+(date: 2025-04-04 06:07:47)
+
+---
+
+## Bigface & Created Co Made A Mean-Lookin’ Mug
+
+date: 2025-04-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The new Warp Collection by Bigface Coffee and Created Co. 
+
+<br> 
+
+<https://sprudge.com/bigface-created-co-made-a-mean-lookin-mug-312090.html>
+
+---
+
+## 3 Vintage Cow Creamers to Look for at the Thrift Store
+
+date: 2025-04-04, from: Taste of Home
+
+<p>Kitschy yet so cute, vintage cow creamers are more valuable than you'd think.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/vintage-cow-creamer/">3 Vintage Cow Creamers to Look for at the Thrift Store</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/vintage-cow-creamer/>
+
+---
+
+## If Your Chicken Has Brown Stuff Inside It, This Is What It Means
+
+date: 2025-04-04, from: Taste of Home
+
+<p>If you've seen this discoloration, you've probably wondered what causes it—and whether the chicken is safe to eat.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/brown-stuff-in-chicken/">If Your Chicken Has Brown Stuff Inside It, This Is What It Means</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/brown-stuff-in-chicken/>
+
+---
+
+## Kay Cheon Is the Champion We All Wanted To See Win
+
+date: 2025-04-04, from: The Fresh Cup
+
+<p>Kay Cheon of Dune Coffee Roasters is the 2025 United States Barista Champion. In this new interview, he talks about competing for the sake of learning, LEGO, and having his mom witness his win. </p>
+<p>The post <a href="https://freshcup.com/kay-cheon-interview-placeholder/">Kay Cheon Is the Champion We All Wanted To See Win</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/kay-cheon-interview-placeholder/>
+
+---
+
+## Chocolate Olive Oil Cake and More Recipes We Made This Week
+
+date: 2025-04-04, from: Bon Appetet
+
+Like mushroom pasta and vegetarian frito pie. 
+
+<br> 
+
+<https://www.bonappetit.com/story/recipes-bon-appetit-editors-cooked-april-2025>
+
+---
+
+## Mexican Pizza Recipe
+
+date: 2025-04-04, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/mexican-pizza/" title="Mexican Pizza Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Mexican-Pizza-Recipe1-2025-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Close-up of a Taco Bell-style Mexican Pizza sliced into 4 pieces, garnished with chopped tomato, black olives, and green onion" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Mexican-Pizza-Recipe1-2025-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Mexican-Pizza-Recipe1-2025-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Mexican-Pizza-Recipe1-2025-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Mexican-Pizza-Recipe1-2025-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Mexican-Pizza-Recipe1-2025-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Mexican-Pizza-Recipe1-2025-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Mexican-Pizza-Recipe1-2025.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This Mexican pizza is layered with seasoned taco meat, refried beans, enchilada sauce, and lots of cheese, then loaded with your favorite toppings, so good!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/mexican-pizza/">Mexican Pizza Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/mexican-pizza/>
+
+---
+
+## Neapolitan Cake
+
+date: 2025-04-04, from: Bon Appetet
+
+Inspired by Wayne Thiebaud’s iconic Cake Slice, these three distinct layers start with one simple batter. 
+
+<br> 
+
+<https://www.bonappetit.com/recipe/neapolitan-cake>
+
+---
+
+## Egg Sando
+
+date: 2025-04-03, from: Taste of Home
+
+This fluffy egg sando is the perfect breakfast sandwich! —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/egg-sando/>
+
+---
+
+## Air-Fryer Buffalo Chicken Taquitos
+
+date: 2025-04-03, from: Taste of Home
+
+Here's one of my favorite quick and tasty appetizers that has a perfect blend of Buffalo heat and tortilla crunch. It will leave everyone wanting more, so maybe make a double batch. —Tyler Smith, Virginia Beach, Virginia 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/air-fryer-buffalo-chicken-taquitos/>
+
+---
+
+## The Best Vegan Mayo: A Taste Test
+
+date: 2025-04-03, from: Bon Appetet
+
+We tried 9 brands of vegan mayonnaise to see which ones can ditch the eggs and get away with it. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-vegan-mayo-taste-test-article>
+
+---
+
+## Cadbury Coffee Shots
+
+date: 2025-04-03, from: Taste of Home
+
+These tasty spring cocktails are quick and easy to make. You can even do them ahead (but add the whipped cream at the end). —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cadbury-coffee-shots/>
+
+---
+
+## Naomi Hand Soap Gets Rid of Garlic Smells and Softens Your Skin
+
+date: 2025-04-03, from: Bon Appetet
+
+It feels like a little luxury (but is half the price of Aesop). 
+
+<br> 
+
+<https://www.bonappetit.com/story/naomi-hand-soap-review>
 
 ---
 
@@ -381,7 +533,7 @@ date: 2025-04-02, from: The Fresh Cup
 
 date: 2025-04-02, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/beef-chow-fun/" title="Beef Chow Fun (Chow Ho Fun)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of beef chow fun features wide, flat noodles with tender beef slices, garnished with green onions. The richly sauced dish boasts a glossy texture. Beside the bowl on a blue surface lies a folded dark cloth napkin accented with a lighter section." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Beef Chow Fun is a classic Cantonese stir-fried noodle dish with tender beef slices, wide rice noodles (ho fun), and bean sprouts wok-tossed in a savory soy-based sauce. It is easy to make and huge on flavor!</p>
+<a href="https://www.chilipeppermadness.com/recipes/beef-chow-fun/" title="Beef Chow Fun (Chow Ho Fun)" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="A bowl of beef chow fun features wide, flat noodles with tender beef slices, garnished with green onions. The richly sauced dish boasts a glossy texture. Beside the bowl on a blue surface lies a folded dark cloth napkin accented with a lighter section." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Chow-Fun-Recipe-BOWL1.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>Beef Chow Fun is a classic Cantonese stir-fried noodle dish with tender beef slices, wide rice noodles (ho fun), and bean sprouts wok-tossed in a savory soy-based sauce. It is easy to make and huge on flavor!</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/beef-chow-fun/">Beef Chow Fun (Chow Ho Fun)</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

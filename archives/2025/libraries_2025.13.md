@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-03 14:09:06
+updated: 2025-04-04 06:07:45
 ---
 
 # libraries
 
-(date: 2025-04-03 14:09:06)
+(date: 2025-04-04 06:07:45)
+
+---
+
+## In an Age of Chaos, Some Things Remain Constant. Like, Gravity…
+
+date: 2025-04-04, from: Scholarly Kitchen
+
+<p>In chaotic times, we must look for reliable things, like the joy of dropping stuff off a tall building...</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/04/in-an-age-of-chaos-some-things-remain-constant-like-gravity/">In an Age of Chaos, Some Things Remain Constant. Like, Gravity&#8230;</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/04/in-an-age-of-chaos-some-things-remain-constant-like-gravity/>
 
 ---
 

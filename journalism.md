@@ -1,11 +1,300 @@
 ---
 title: journalism
-updated: 2025-04-03 14:09:05
+updated: 2025-04-04 06:07:44
 ---
 
 # journalism
 
-(date: 2025-04-03 14:09:05)
+(date: 2025-04-04 06:07:44)
+
+---
+
+## Amid renewed bombing, SJP hosts vigil for Palestinians killed by Israeli military
+
+date: 2025-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Members of Students for Justice in Palestine at UCLA held a vigil Wednesday night to remember Palestinians killed by the Israeli military in the Gaza Strip. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/amid-renewed-bombing-sjp-hosts-vigil-for-palestinians-killed-by-israeli-military/>
+
+---
+
+## Prioritizing Mental Health Fitness panel promotes journaling app Mirror
+
+date: 2025-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+&#8220;Raise your hand if you do not have a smartphone.&#8221;
+In a room full of students and faculty, not one person raised their hand.
+Dr. Sohil Sud posed this question to the audience at the &#8220;Prioritizing Mental Health Fitness&#8221; panel March 12. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/prioritizing-mental-health-fitness-panel-promotes-journaling-app-mirror/>
+
+---
+
+## New campus dining website sparks criticism from students
+
+date: 2025-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+Students reacted strongly to a newly redesigned web page for campus dining hours and menus as they returned from spring break.
+The new page was introduced week one of spring quarter to better align the UCLA Dining website with other campus web pages, according to a written statement from UCLA Housing. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/new-campus-dining-website-sparks-criticism-from-students/>
+
+---
+
+## Classifieds – April 4, 2025
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/classifieds-april-4-2025/">Classifieds &#8211; April 4, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/classifieds-april-4-2025/>
+
+---
+
+## Usher talks world tour, vision for R&B
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>In an exclusive interview with the Daily Trojan, the singer spoke about his recent success and creative approach. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/usher-talks-world-tour-vision-for-rb/">Usher talks world tour, vision for R&#038;B</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/usher-talks-world-tour-vision-for-rb/>
+
+---
+
+## Immigration policies spark uncertainty, anxiety at USC
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students and staff hope to support international and undocumented students.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/immigration-policy-causes-uncertainty/">Immigration policies spark uncertainty, anxiety at USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/immigration-policy-causes-uncertainty/>
+
+---
+
+## USC revokes some Ph.D. acceptances citing fund issues
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Departments like chemistry, classics and philosophy took back some of their offers.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/usc-revokes-some-phd-acceptances-citing-fund-issues/">USC revokes some Ph.D. acceptances citing fund issues</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/usc-revokes-some-phd-acceptances-citing-fund-issues/>
+
+---
+
+## AYA@USC takes on the LA marathon
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The USC group raises money for young adults with cancer and for cancer research. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/ayausc-takes-on-la-marathon/">AYA@USC takes on the LA marathon</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/ayausc-takes-on-la-marathon/>
+
+---
+
+## Where did the animals go during the fires?
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Los Angeles wildfires have impacted species from zooplankton to horses.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/animals-displaced-during-wildfires/">Where did the animals go during the fires?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/animals-displaced-during-wildfires/>
+
+---
+
+## Students, faculty grapple with loss to the fires
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Victims of the L.A. fires speak on evacuations and how their lives changed. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/victims-of-la-wildfires/">Students, faculty grapple with loss to the fires</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/victims-of-la-wildfires/>
+
+---
+
+## USC international student-athletes push for success
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>After finding their footing at USC, this group of student athletes looks to the future. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/international-student-athletes-find-success/">USC international student-athletes push for success</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/international-student-athletes-find-success/>
+
+---
+
+## The biggest takeaways from CinemaCon 2025
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Theater owners gathered in Las Vegas this week for the premier blockbuster preview showcase.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/the-biggest-takeaways-from-cinemacon-2025/">The biggest takeaways from CinemaCon 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/the-biggest-takeaways-from-cinemacon-2025/>
+
+---
+
+## Transfer students find their second chances at USC
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Students prove that there is no singular journey in finding college community.  </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/transfer-students-find-success/">Transfer students find their second chances at USC</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/transfer-students-find-success/>
+
+---
+
+## Advocacy groups hold rally for Palestine
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The protestors established and dismantled a four-tent encampment at USC Village. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/advocacy-groups-hold-rally-for-palestine/">Advocacy groups hold rally for Palestine</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/advocacy-groups-hold-rally-for-palestine/>
+
+---
+
+## The Weekly Frame III: Sound
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>While it was a very difficult task to capture sound in an image — something meant explicitly not for sound — deputy photo editor Ellie Henderson was up to the task for “The Weekly Frame: Sound.”</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/04/the-weekly-frame-iii-sound/">The Weekly Frame III: Sound</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/04/the-weekly-frame-iii-sound/>
+
+---
+
+## Se instalará aire acondicionado en los dormitorios restantes que aún no lo tienen durante el verano
+
+date: 2025-04-04, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Durante el verano de 2025, los dormitorios de Occidental College que aún no cuentan con aire acondicionado — Chilcott Hall, Haines Hall, Stearns Hall y la casa de Sigma Alpha Epsilon (SAE) — tendrán aire acondicionado instalado. Según Isaiah Thomas, Decano Asistente de Estudiantes y Director de Educación Residencial, Servicios de Vivienda y Conducta Estudiantil, [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/espanol/2025/04/03/se-instalara-aire-acondicionado-en-los-dormitorios-restantes-que-aun-no-lo-tienen-durante-el-verano/2914906">Se instalará aire acondicionado en los dormitorios restantes que aún no lo tienen durante el verano</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/espanol/2025/04/03/se-instalara-aire-acondicionado-en-los-dormitorios-restantes-que-aun-no-lo-tienen-durante-el-verano/2914906>
+
+---
+
+## Hammer Museum will present “On the Air” series as tribute to filmmaker David Lynch
+
+date: 2025-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 3 at 8:20 p.m.</em>
+The UCLA Film and Television Archive is unearthing a forgotten piece of David Lynch’s filmography.
+As his critically acclaimed series “Twin Peaks” ended in 1991, the filmmaker created the short-lived series “On the Air.” As a tribute to Lynch following his death in January, the 1992 series will be presented in its entirety Friday during the “David Lynch Tribute: On the Air Marathon” event at the Hammer Museum’s Billy Wilder Theater. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/03/hammer-museum-will-present-on-the-air-series-as-tribute-to-filmmaker-david-lynch/>
+
+---
+
+## Graffiti continues to cover the third-floor stairwell in Mentry Hall
+
+date: 2025-04-04, from: The Canyon News (COC Student Newspaper)
+
+<p>The College of the Canyons is home to all kinds of art,&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/stairwell-graffiti/">Graffiti continues to cover the third-floor stairwell in Mentry Hall</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/stairwell-graffiti/>
+
+---
+
+## Pro-Palestinian protesters march in ‘Gaza Unbreakable Week of Rage’
+
+date: 2025-04-04, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Roughly 50 protesters marched near campus late Thursday afternoon.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/03/pro-palestinian-protesters-march-in-gaza-unbreakable-week-of-rage/">Pro-Palestinian protesters march in ‘Gaza Unbreakable Week of Rage’</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/03/pro-palestinian-protesters-march-in-gaza-unbreakable-week-of-rage/>
+
+---
+
+## Educating the Immigrant Community: Resources to avoid self-deportation
+
+date: 2025-04-03, from: The Sundail (CSUN Student Newspaper)
+
+The Dream Center hosted a workshop in collaboration with the Sociology, Chicano/a Studies and Asian American Studies Department, providing tools and resources on immigrant rights. Empowering Our Immigrant Communities at... 
+
+<br> 
+
+<https://sundial.csun.edu/192029/news/educating-the-immigrant-community-resources-to-avoid-self-deportation/>
+
+---
+
+## Second Take: Social perceptions of pop music as emasculating lead to less relevant male stars
+
+date: 2025-04-03, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 3 at 8:28 p.m.</em>
+Now more than ever, male pop stars are hard to come by.
+Female artists are taking the reins and defining the current pop landscape. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/03/second-take-social-perceptions-of-pop-music-as-emasculating-lead-to-less-relevant-male-stars/>
 
 ---
 
@@ -109,8 +398,9 @@ date: 2025-04-03, from: The Daily Trojan (USC Student Newspaper)
 
 date: 2025-04-03, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 4 at 12:45 a.m.</em>
 Two unions struck on campus Tuesday, limiting student access to dining, cleaning and mail services.
-The University Professional and Technical Employees-Communications Workers of America 9119 &#8211; which represents researchers and technical workers &#8211; voted to strike across the UC in response to the University&#8217;s alleged unfair labor practices and bad-faith bargaining. 
+The University Professional and Technical Employees-Communications Workers of America 9119 – which represents researchers and technical workers – voted to strike across the UC in response to the University’s alleged unfair labor practices and bad-faith bargaining. 
 
 <br> 
 
@@ -148,8 +438,8 @@ Megan Vahdat: I&#8217;m Megan Vahdat, and this is &#8220;Bruin to Bruin,&#8221; 
 
 date: 2025-04-03, from: The Daily Bruin (UCLA Student Newspaper)
 
-Difficulty finding a parking space is a notorious problem in Los Angeles, and UCLA is no exception.
-According to the 2023 UCLA State of the Commute Report, more than 20,000 individuals drive to campus with a car on a regular basis. 
+<em>This post was updated April 3 at 11:00 p.m.</em>
+Difficulty finding a parking space is a notorious problem in Los Angeles, and UCLA is no exception. 
 
 <br> 
 

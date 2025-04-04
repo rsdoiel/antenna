@@ -1,15 +1,63 @@
 ---
 title: games
-updated: 2025-04-03 14:09:05
+updated: 2025-04-04 06:07:44
 ---
 
 # games
 
-(date: 2025-04-03 14:09:05)
+(date: 2025-04-04 06:07:44)
 
 ---
 
-## A Minecraft Movie’s post-credit scene teases the Minecraft Cinematic Universe
+## The new sneak peek at James Gunn’s Superman movie is a little more Superman torture than I needed
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+Warner Bros. dropped a new sneak-peek teaser for James Gunn’s Superman on Thursday out of CinemaCon, and it’s mostly just the same trailer we saw back in December, with the same quick-cut looks at Hawkgirl (Isabela Merced), Mister Terrific (Edi Gathegi), Guy “worst haircut in the ’verse” Gardner (Nathan Fillion), Metamorpho (Anthony Carrigan), a giant [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/552878/superman-movie-sneak-peek-krypto>
+
+---
+
+## Tabletop industry in full panic as Trump tariffs are poised to erase decades of growth
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+President Donald Trump unveiled sweeping tariffs on foreign goods Wednesday, with the reportedly “arbitrary” levies exceeding 60% in some cases. While the tariffs were long expected, one business analyst told CNBC that the administration’s plans are “worse than the worst case scenario.” With most tabletop games produced overseas, many in China, the impact could be [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tabletop-games/552558/tabletop-panic-tariffs-on-china-layoffs-bankruptcy-gama>
+
+---
+
+## Everything we know about Switch 2, Nintendo’s next-gen console
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+After many months, if not years, of leaks and speculation, it’s finally official: Nintendo has announced and fully revealed its next console. It’s called Nintendo Switch 2, and as the name implies, it’s a very similar design to the Switch — a hybrid handheld console with detachable controllers that can be connected to a TV [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/23899504/nintendo-switch-2-release-date-power-name-games>
+
+---
+
+## Where are all the first-party Switch 2 launch games?
+
+date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
+
+During an hourlong presentation on Wednesday, Nintendo bombarded prospective Switch 2 buyers with information about the new console and its games, including a torrent of ports from third-party publishers. But, once the dust had settled, it was easy to succumb to a creeping anxiety. Where were all the first-party launch titles from Nintendo itself? Mario Kart [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/552601/switch-2-game-release-first-party-strategy>
+
+---
+
+## A Minecraft Movie’s post-credits scene teases the Minecraft Cinematic Universe
 
 date: 2025-04-03, updated: 2025-04-03, from: Polygon Website
 

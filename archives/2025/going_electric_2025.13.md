@@ -1,11 +1,99 @@
 ---
 title: going electric
-updated: 2025-04-03 14:09:08
+updated: 2025-04-04 06:07:47
 ---
 
 # going electric
 
-(date: 2025-04-03 14:09:08)
+(date: 2025-04-04 06:07:47)
+
+---
+
+## Tesla Semi suffers more delays and ‘dramatic’ price increase
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/01/Tesla-Semi-fleet-hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>According to a Tesla Semi customer, the electric truck program is suffering more delays and a price increase that is described as “dramatic.”</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-semi" data-layer-viewtype="unknown" data-post-id="409737" href="https://electrek.co/2025/04/04/tesla-semi-suffers-delays-dramatic-price-increase/#more-409737" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/tesla-semi-suffers-delays-dramatic-price-increase/>
+
+---
+
+## Skoda’s Cheapest EV Gets A Hot Hatch Makeover
+
+date: 2025-04-04, from: Inside EVs News
+
+This is the new Skoda Elroq RS, a Hyundai Tucson-sized EV with 340 horsepower. 
+
+<br> 
+
+<https://insideevs.com/news/755589/skoda-elroq-rs-specs-range-official/>
+
+---
+
+## Quick Charge | hydrogen hype falls flat amid very public failures
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/hydrogen_special.png?w=1600" /></div><p>On today’s hyped up hydrogen episode of <em><a href="https://www.youtube.com/@ElectrekDaily" target="_blank" rel="noreferrer noopener">Quick Charge</a></em>, we look at some of the fuel’s recent failures and billion dollar bungles as the fuel cell crowd continues to lose the credibility race against a rapidly evolving battery electric market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-semi-truck,hydrogen,hydrogen-fuel-cell,quick-charge" data-layer-viewtype="unknown" data-post-id="409706" href="https://electrek.co/2025/04/03/quick-charge-hydrogen-hype-falls-flat-amid-very-public-failures/#more-409706" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/quick-charge-hydrogen-hype-falls-flat-amid-very-public-failures/>
+
+---
+
+## Looking for an EV lease under $200 a month? Here’s what’s available in April
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/EVs-lease-200-April.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Believe it or not, you can lease an EV for under $200 a month. New deals on models like the 2025 <a href="https://electrek.co/guides/hyundai-ioniq-5/">Hyundai IONIQ 5 </a>and Kia EV6 are hard to pass up this month.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-lease" data-layer-viewtype="unknown" data-post-id="409659" href="https://electrek.co/2025/04/03/evs-for-under-200-a-month-heres-whats-available-april/#more-409659" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/evs-for-under-200-a-month-heres-whats-available-april/>
+
+---
+
+## GM's Best Selling EV Is Not What You Think
+
+date: 2025-04-03, from: Inside EVs News
+
+GM sold 87,000 of the Wuling Hongguang Mini EV during Q1 in China. 
+
+<br> 
+
+<https://insideevs.com/news/755560/wuling-hongguang-mini-ev-sales/>
+
+---
+
+## The US’s first solar panels over canals pilot is now online [video]
+
+date: 2025-04-03, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Project-Nexus-solar-canal.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Project Nexus, the first solar panel canopies over irrigation canals in the US, is now online in California, and there are plans to expand the project to other areas.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="409664" href="https://electrek.co/2025/04/03/us-first-solar-panels-canals-pilot-online/#more-409664" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/03/us-first-solar-panels-canals-pilot-online/>
 
 ---
 
@@ -99,7 +187,7 @@ Kia's staying quiet for now on the affordable EV3, but the EV4 sedan is coming t
 
 date: 2025-04-03, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/13194136893_f26c8b7ecf_o-e1743703675874.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Stellantis has paused production at two assembly plants in Canada and Mexico in response to tariffs, leaving thousands of Americans and Canadians out of their jobs while the company figures out what to do next. The idled plants produce both the Dodge Charger Daytona EV and Jeep Wagoneer S EV, among other vehicles.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/13194136893_f26c8b7ecf_o-e1743703675874.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Stellantis has paused production at two assembly plants in Canada and Mexico in response to tariffs, leaving 900 Americans and thousands of Canadians out of their jobs while the company figures out what to do next. The idled plants produce both the Dodge Charger Daytona EV and Jeep Wagoneer S EV, among other vehicles.</p>
 
 
 

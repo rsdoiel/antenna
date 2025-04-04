@@ -1,11 +1,591 @@
 ---
 title: pacific
-updated: 2025-04-03 14:09:02
+updated: 2025-04-04 06:07:41
 ---
 
 # pacific
 
-(date: 2025-04-03 14:09:02)
+(date: 2025-04-04 06:07:41)
+
+---
+
+## How Guam can leverage US tariffs 
+
+date: 2025-04-04, from: Pacific Island Times
+
+By Jayvee Vallejera   The sweeping tariffs the Trump administration has imposed on many products imported to the United States set Guam... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/how-guam-can-leverage-us-tariffs>
+
+---
+
+## NEH grants terminated, Humanities Guåhan facing shutdown
+
+date: 2025-04-04, from: Pacific Island Times
+
+In 2023, Humanities Guahan was among the recipients of the NEH’s $1.3 million grant for the Pacific Islands Cultural Initiative, which it sh 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/neh-grants-terminated-humanities-gu%C3%A5han-facing-shutdown>
+
+---
+
+## Feds sentence Mexican national for drug crimes
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>A Mexican national arrested a year ago in Ocean View with 184 grams of heroin (about 6.4 ounces) and 176 grams of methamphetamine (about 6.2 ounces) has been sentenced to 12 1/2 years in federal prison.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/hawaii-news/feds-sentence-mexican-national-for-drug-crimes/>
+
+---
+
+## Trade war could undo resilient US job market
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>For three years, the U.S. economy has been buffeted by rapid inflation, high interest rates and political instability at home and abroad. Yet it has proved surprisingly resilient, supported by the sturdy pillars of robust consumer spending, a rising stock market, and healthy balance sheets for households and businesses alike.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/trade-war-could-undo-resilient-us-job-market/>
+
+---
+
+## HPD detective found guilty of perjury
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>William Brown, a Hawaii Police Department detective, was found guilty Wednesday of perjury, a class C felony offense, following a bench trial by Judge Peter K. Kubota.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/hawaii-news/hpd-detective-found-guilty-of-perjury/>
+
+---
+
+## Bill to clear Hawaii Island marijuana arrests is sent to governor’s office
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>A bill that would help clear Hawaii County arrest records of cases of possessing small amounts of drugs, including marijuana, is on its way to the governor&#8217;s office.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/hawaii-news/bill-to-clear-hawaii-island-marijuana-arrests-is-sent-to-governors-office/>
+
+---
+
+## Hawaii businesses brace for fallout from Trump’s new tariffs
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Mom-and-pop businesses across Hawaii could close their doors and consumers will soon face higher prices for everyday items after President Donald Trump announced an across-the-board minimum 10% tariff on most imports, which went into effect Wednesday night, local business and government officials say.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/hawaii-news/hawaii-businesses-brace-for-fallout-from-trumps-new-tariffs/>
+
+---
+
+## A stunned world reckons with economic fallout from Trump’s tariffs
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Laptop computers from Taiwan, wine from Italy, frozen shrimp from India, Nike sneakers from Vietnam and Irish butter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/a-stunned-world-reckons-with-economic-fallout-from-trumps-tariffs/>
+
+---
+
+## News in brief for April
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>Forecasters predict above-average 2025 Atlantic hurricane season</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/news-in-brief-for-april/>
+
+---
+
+## Deadly US storm system expected to intensify today after killing 7
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>A deadly spring storm killed at least seven people and spawned tornadoes and drenching thunderstorms in a swath of the U.S. stretching from Texas to Ohio for a second day on Thursday, raising the risk of flooding.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/deadly-us-storm-system-expected-to-intensify-today-after-killing-7/>
+
+---
+
+## White House national security officials fired, sources say, in Trump’s first purge
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>At least six White House National Security Council officials have been fired or reassigned, according to several people familiar with the matter, in what appears to be the first significant purge of Donald Trump&#8217;s second presidency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/white-house-national-security-officials-fired-sources-say-in-trumps-first-purge/>
+
+---
+
+## Democratic-led states sue over Trump’s order overhauling elections
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>BOSTON &#8212; Democratic state attorneys general on Thursday filed a lawsuit challenging U.S. President Donald Trump&#8217;s executive order that compels voters to prove they are U.S. citizens and bars states from counting mail-in ballots received after Election Day.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/democratic-led-states-sue-over-trumps-order-overhauling-elections/>
+
+---
+
+## Senate Republicans vote to advance Trump’s sweeping tax cut plan
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Senate Republicans took a procedural step forward on President Donald Trump&#8217;s sweeping tax cut agenda on Thursday, overcoming concerns among some Republican lawmakers that the plan does not include sufficient spending cuts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/senate-republicans-vote-to-advance-trumps-sweeping-tax-cut-plan/>
+
+---
+
+## Dozens of Big Island artists featured in Hilo exhibit
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>The MANA 2025 Invitational Art Show will showcase artwork by noted Bid Island artists.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/community/dozens-of-big-island-artists-featured-in-hilo-exhibit/>
+
+---
+
+## Aloha Exchange Club honors police officer, firefighter
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>The Aloha Exchange Club of East Hawaii recognized Hawaii Police Department Puna Patrol Officer Rodney De Lima Jr. as 2024 Officer of the Year and Hawaii Fire Department Battalion Chief Patrick Springer as 2024 Firefighter of the Year during a ceremony on March 8 in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/community/aloha-exchange-club-honors-police-officer-firefighter/>
+
+---
+
+## Laupahoehoe Transfer Station to close until 2026
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>The Laupahoehoe Transfer Station will close for up to 10 months starting Monday, April 21, so significant improvements can be made to the facility.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/community/laupahoehoe-transfer-station-to-close-until-2026/>
+
+---
+
+## Public invited to health and wellness event in Hilo
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>As National Public Health Week 2025 celebrates 30 years, the state Department of Health and the Mayor&#8217;s Office will host a special community event from 11 a.m. to 2 p.m. on Friday, April 11, outside on the Hilo State Office Building lanai.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/community/public-invited-to-health-and-wellness-event-in-hilo/>
+
+---
+
+## Pentagon watchdog opens probe into use of Signal for Yemen attack plans
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Pentagon&#8217;s Inspector General&#8217;s office announced on Thursday it was opening a probe into Defense Secretary Pete Hegseth&#8217;s use of an unclassified commercial texting application to coordinate on the highly sensitive March 15 launch of U.S. strikes on Yemen&#8217;s Houthis.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/pentagon-watchdog-opens-probe-into-use-of-signal-for-yemen-attack-plans/>
+
+---
+
+## Hundreds of thousands flee as Israel seizes Rafah in new Gaza ‘security zone’
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>CAIRO/GAZA &#8212; Hundreds of thousands of fleeing Gazans sought shelter on Thursday in one of the biggest mass displacements of the war, as Israeli forces advanced into the ruins of the city of Rafah, part of a newly announced &#8220;security zone&#8221; they intend to seize.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/hundreds-of-thousands-flee-as-israel-seizes-rafah-in-new-gaza-security-zone/>
+
+---
+
+## Oʻahu’s Landfill Dilemma INSIGHTS ON PBS HAWAIʻI
+
+date: 2025-04-04, from: INSIGHTS ON PBS HAWAIʻI
+
+<p>The City and County of Honolulu selected a site on private land in Wahiawā for a landfill to replace the current Waimānalo Gulch Sanitary Landfill in West Oʻahu, which is scheduled to close in a few years. </p>
+<p>The post <a href="https://www.pbshawaii.org/o%ca%bbahus-landfill-dilemma-insights-on-pbs-hawai%ca%bbi/">Oʻahu’s Landfill Dilemma &lt;br/&gt;INSIGHTS ON PBS HAWAIʻI</a> appeared first on <a href="https://www.pbshawaii.org">PBS Hawai‘i</a>.</p>
+ 
+
+<br> 
+
+<https://www.pbshawaii.org/o%ca%bbahus-landfill-dilemma-insights-on-pbs-hawai%ca%bbi/>
+
+---
+
+## ‘Push forward, maintain momentum:’ Response to climate change requires an integrated approach
+
+date: 2025-04-04, from: Pacific Island Times
+
+ At the end of the day though, we made sure to submit our NDCs despite our contributions to emissions being negligible at 0.0005 percent of  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/push-forward-maintain-momentum-response-to-climate-change-requires-an-integrated-approach>
+
+---
+
+## South Korea’s Yoon removed from office over martial law, election looms
+
+date: 2025-04-04, updated: 2025-04-04, from: Marianas Variety
+
+SEOUL (Reuters) — South Korean President Yoon Suk Yeol was ousted on Friday by the Constitutional Court, ushering in an election after it upheld parliament's impeachment over Yoon's imposition of martial law that sparked the nation's worst political crisis in decades. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/south-korea-s-yoon-removed-from-office-over-martial-law-election-looms/article_d1d8392a-6924-4b6d-bc6e-a13f30956513.html>
+
+---
+
+## Palau officials Assess Patient Housing in Taiwan, Hawaii
+
+date: 2025-04-04, from: Island Times
+
+<figure><img width="911" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=911%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=267%2C300&amp;ssl=1 267w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=911%2C1024&amp;ssl=1 911w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=768%2C863&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=1200%2C1349&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=780%2C877&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=400%2C450&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?resize=706%2C794&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=911%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76593" data-permalink="https://islandtimes.org/palau-officials-assess-patient-housing-in-taiwan-hawaii/20250402_101334/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=1249%2C1404&amp;ssl=1" data-orig-size="1249,1404" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;1.7&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1743588814&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6.3&quot;,&quot;iso&quot;:&quot;160&quot;,&quot;shutter_speed&quot;:&quot;0.0083&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="20250402_101334" data-image-description="" data-image-caption="&lt;p&gt;Minister of Health Raynold “Arnold” Oilouch&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=267%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/20250402_101334.jpg?fit=780%2C877&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Housing for Palauan patients referred to Taiwan for medical treatment is currently adequate, Vice President and Minister of Health Raynold “Arnold” Oilouch said, following an offer from Shin Kong Hospital to provide four additional rooms. The four rooms at the Shin Kong Hospital Training Center, combined with Palau’s two medical houses, are [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-officials-assess-patient-housing-in-taiwan-hawaii/">Palau officials Assess Patient Housing in Taiwan, Hawaii</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-officials-assess-patient-housing-in-taiwan-hawaii/>
+
+---
+
+## Debate over Reef Fish Exportation weighs culture against conservation
+
+date: 2025-04-04, from: Island Times
+
+<figure><img width="900" height="686" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?fit=900%2C686&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?resize=300%2C229&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?resize=768%2C585&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?resize=780%2C595&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?resize=400%2C305&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?resize=706%2C538&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?fit=900%2C686&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76589" data-permalink="https://islandtimes.org/debate-over-reef-fish-exportation-weighs-culture-against-conservation/attachment/1000007847/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?fit=900%2C686&amp;ssl=1" data-orig-size="900,686" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000007847" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?fit=300%2C229&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007847.jpg?fit=780%2C595&amp;ssl=1" /></figure>
+<p>NGERULMUD, Palau — A proposal to allow limited exportation of reef fish for personal consumption is reigniting debate among lawmakers, scientists, government agencies, and the public, as concerns over cultural traditions clash with warnings of declining fish populations. Supporters of the measure argue that sending fish abroad allows Palauans living overseas to maintain a vital [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/debate-over-reef-fish-exportation-weighs-culture-against-conservation/">Debate over Reef Fish Exportation weighs culture against conservation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/debate-over-reef-fish-exportation-weighs-culture-against-conservation/>
+
+---
+
+## Ngeremlengui’s upgraded fish market, Gas Station to boost local economy, community access
+
+date: 2025-04-04, from: Island Times
+
+<figure><img width="900" height="605" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?fit=900%2C605&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?resize=300%2C202&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?resize=768%2C516&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?resize=780%2C524&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?resize=400%2C269&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?resize=706%2C475&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?fit=900%2C605&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76581" data-permalink="https://islandtimes.org/palau-lawmakers-officials-discuss-labor-law-reforms-amid-workforce-challenges/hod-ngeremlengui/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?fit=900%2C605&amp;ssl=1" data-orig-size="900,605" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="HOD Ngeremlengui" data-image-description="" data-image-caption="&lt;p&gt;Credit to Ngeremlengui State Facebook&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?fit=300%2C202&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/HOD-Ngeremlengui.jpg?fit=780%2C524&amp;ssl=1" /></figure>
+<p>NGEREMLENGUI, Palau – The rehabilitation of Ngeremlengui’s Fishing Market and Gas Station has been completed, promising long-term benefits for local fishermen, residents, and the broader community. The newly upgraded facility is expected to enhance economic opportunities, ensure reliable fuel access, and promote sustainable development across the state. On April 1, 2025, Delegate Rechelulk Mengkur, chairman [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/ngeremlenguis-upgraded-fish-market-gas-station-to-boost-local-economy-community-access/">Ngeremlengui’s upgraded fish market, Gas Station to boost local economy, community access</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/ngeremlenguis-upgraded-fish-market-gas-station-to-boost-local-economy-community-access/>
+
+---
+
+## Palau Lawmakers, officials discuss Labor Law Reforms Amid workforce challenges
+
+date: 2025-04-04, from: Island Times
+
+<figure><img width="900" height="506" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?fit=900%2C506&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?fit=900%2C506&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76583" data-permalink="https://islandtimes.org/palau-lawmakers-officials-discuss-labor-law-reforms-amid-workforce-challenges/senate-jga2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?fit=900%2C506&amp;ssl=1" data-orig-size="900,506" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Senate JGA2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Senate-JGA2.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>KOROR, Palau — Minister Ngiraibelas Tmetuchl of the Ministry of Human Resources, Culture, Tourism, and Development and Director Terralyn R. Nabeyama of the Bureau of Human Resources met with the Senate Committee on Judicial and Governmental Affairs (JGA) to discuss legislative and regulatory challenges affecting Palau’s workforce. JGA Committee Chairman Seigfried Bai Nakamura, Vice Chairman [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/palau-lawmakers-officials-discuss-labor-law-reforms-amid-workforce-challenges/">Palau Lawmakers, officials discuss Labor Law Reforms Amid workforce challenges</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/palau-lawmakers-officials-discuss-labor-law-reforms-amid-workforce-challenges/>
+
+---
+
+## Suspect in attempted robbery at 7-EAT Restaurant released after 24 Hours in custody
+
+date: 2025-04-04, from: Island Times
+
+<figure><img width="900" height="510" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?fit=900%2C510&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?resize=300%2C170&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?resize=768%2C435&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?resize=780%2C442&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?resize=400%2C227&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?resize=706%2C400&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?fit=900%2C510&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76577" data-permalink="https://islandtimes.org/suspect-in-attempted-robbery-at-7-eat-restaurant-released-after-24-hours-in-custody/temarikel/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?fit=900%2C510&amp;ssl=1" data-orig-size="900,510" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Temarikel" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?fit=300%2C170&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Temarikel.jpg?fit=780%2C442&amp;ssl=1" /></figure>
+<p>KOROR, Palau — A suspect in an attempted robbery at 7-EAT Restaurant in Madalii was released after being held in custody for 24 hours, authorities confirmed. Police arrested Temarikel Jewish Baustor on Tuesday morning, April 2, after receiving a report of a masked man attempting to rob the restaurant. According to the police report, Baustor [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/suspect-in-attempted-robbery-at-7-eat-restaurant-released-after-24-hours-in-custody/">Suspect in attempted robbery at 7-EAT Restaurant released after 24 Hours in custody</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/suspect-in-attempted-robbery-at-7-eat-restaurant-released-after-24-hours-in-custody/>
+
+---
+
+## PICRC strengthens Marine Conservation Partnerships with Ngaraard and Ngarchelong State Governments
+
+date: 2025-04-04, from: Island Times
+
+<figure><img width="1024" height="795" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?fit=1024%2C795&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?resize=300%2C233&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?resize=1024%2C795&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?resize=768%2C596&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?resize=1200%2C932&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?resize=780%2C606&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?resize=400%2C311&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?resize=706%2C548&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?fit=1024%2C795&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76569" data-permalink="https://islandtimes.org/picrc-strengthens-marine-conservation-partnerships-with-ngaraard-and-ngarchelong-state-governments/mou-ngaraard/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?fit=1249%2C970&amp;ssl=1" data-orig-size="1249,970" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="MOU Ngaraard" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?fit=300%2C233&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/MOU-Ngaraard.jpeg?fit=780%2C606&amp;ssl=1" /></figure>
+<p>The Palau International Coral Reef Center (PICRC) has reinforced its commitment to protecting Palau’s marine resources by signing Memorandums of Understanding (MOUs) with Ngaraard State Government on March 7, 2025, and with Ngarchelong State Government on March 25, 2025, respectively. These agreements establish formal collaborations to enhance marine research, education, and outreach, ensuring the long-term [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/picrc-strengthens-marine-conservation-partnerships-with-ngaraard-and-ngarchelong-state-governments/">PICRC strengthens Marine Conservation Partnerships with Ngaraard and Ngarchelong State Governments</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/picrc-strengthens-marine-conservation-partnerships-with-ngaraard-and-ngarchelong-state-governments/>
+
+---
+
+## BenarNews bids farewell after 10 years of pioneering reporting in Asia Pacific
+
+date: 2025-04-04, from: Island Times
+
+<p>SUVA (PACNEWS)&#8212;In a heartfelt farewell, BenarNews, a trailblazer in independent journalism across the Asia-Pacific, has announced a pause in operations due to funding challenges.&#160; After a decade of delivering crucial news from countries such as Indonesia, Malaysia, Thailand, Bangladesh, the Philippines, and the Pacific the outlet faces an uncertain future after the U.S administration withheld [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/benarnews-bids-farewell-after-10-years-of-pioneering-reporting-in-asia-pacific/">BenarNews bids farewell after 10 years of pioneering reporting in Asia Pacific</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/benarnews-bids-farewell-after-10-years-of-pioneering-reporting-in-asia-pacific/>
+
+---
+
+## Trump slaps higher tariffs on Fiji and Pacific nations in response to unfair trade practices
+
+date: 2025-04-04, from: Island Times
+
+<p>WASHINGTON/SUVA (FBC NEWS/PACNEWS) &#8212;Fiji and other Pacific countries will now face higher export charges to the US under newly introduced reciprocal tariffs. Under the new policy, Fiji will face a 32 per cent tariff on its exports to the United States of America. This in response to the 63 per cent tariff Fiji imposes on [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trump-slaps-higher-tariffs-on-fiji-and-pacific-nations-in-response-to-unfair-trade-practices/">Trump slaps higher tariffs on Fiji and Pacific nations in response to unfair trade practices</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trump-slaps-higher-tariffs-on-fiji-and-pacific-nations-in-response-to-unfair-trade-practices/>
+
+---
+
+## Fossil fuel nations to see value of their economies shrink under new UN-agreed measure
+
+date: 2025-04-04, from: Island Times
+
+<p>Changes to how economies are measured will reflect the depletion of oil, gas and coal reserves, affecting big players like Saudi Arabia, Russia and Norway WASHINGTON (CLIMATE HOME) &#8212;Government statisticians have endorsed a new measure of the size of national economies, tackling statistical quirks that led to the contribution of fossil fuels being overstated and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/fossil-fuel-nations-to-see-value-of-their-economies-shrink-under-new-un-agreed-measure/">Fossil fuel nations to see value of their economies shrink under new UN-agreed measure</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/fossil-fuel-nations-to-see-value-of-their-economies-shrink-under-new-un-agreed-measure/>
+
+---
+
+## ‘Playing gods with the cradle of life’: French Polynesia’s president issues warning over deep-sea mining
+
+date: 2025-04-04, from: Island Times
+
+<p>PAPE&#8217;ETE (THE GUARDIAN)&#8212;French Polynesia’s president has issued a stark warning over the risks of deep-sea mining, saying it will be allowed in his territory “over my dead body” as he argues the potential for environmental damage outweighs any benefits. Moetai Brotherson’s comments to the Guardian come as countries in the Pacific and elsewhere grapple with [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/playing-gods-with-the-cradle-of-life-french-polynesias-president-issues-warning-over-deep-sea-mining/">‘Playing gods with the cradle of life’: French Polynesia’s president issues warning over deep-sea mining</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/playing-gods-with-the-cradle-of-life-french-polynesias-president-issues-warning-over-deep-sea-mining/>
+
+---
+
+## Milestone PNG conviction puts sorcery accusers on notice over inciting lynchings
+
+date: 2025-04-04, from: Island Times
+
+<p>PORT MORESBY (BENAR NEWS) &#8212; A landmark court conviction in Papua New Guinea related to the murder of a mother-of-five accused of sorcery is being hailed as a major victory in the fight to stop such attacks and murders. For the first time, a court has found a person guilty of accusing someone of sorcery [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/milestone-png-conviction-puts-sorcery-accusers-on-notice-over-inciting-lynchings/">Milestone PNG conviction puts sorcery accusers on notice over inciting lynchings</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/milestone-png-conviction-puts-sorcery-accusers-on-notice-over-inciting-lynchings/>
+
+---
+
+## Britain launches AUKUS parliamentary inquiry amid ‘geopolitical shifts’
+
+date: 2025-04-04, from: Island Times
+
+<p>By Riley Stuart and Europe correspondent Elias Clure in London In short: (ABC-Australia) The House of Commons Defense Committee has announced it is putting the AUKUS partnership under the microscope. The trilateral pact is supposed to see Australia acquire nuclear-powered submarines, at a cost of hundreds of billions of dollars. What&#8217;s next? The MP leading the inquiry says it&#8217;ll [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/britain-launches-aukus-parliamentary-inquiry-amid-geopolitical-shifts/">Britain launches AUKUS parliamentary inquiry amid &#8216;geopolitical shifts&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/britain-launches-aukus-parliamentary-inquiry-amid-geopolitical-shifts/>
+
+---
+
+## World economies brace for Donald Trump’s ‘Liberation Day’ tariffs
+
+date: 2025-04-04, from: Island Times
+
+<p>WASHINGTON (AFP)&#8212;The White House confirmed on Tuesday that President Donald Trump will impose new tariffs on Wednesday, though it provided no details about the size and scope of trade barriers that have businesses, consumers and investors fretting about an intensifying global trade war. Trump has for weeks trumpeted 02 April as a “Liberation Day” that [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/world-economies-brace-for-donald-trumps-liberation-day-tariffs/">World economies brace for Donald Trump&#8217;s &#8216;Liberation Day&#8217; tariffs</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/world-economies-brace-for-donald-trumps-liberation-day-tariffs/>
+
+---
+
+## Tesla sales fall in first months of 2025 amid Elon Musk backlash
+
+date: 2025-04-04, from: Island Times
+
+<p>In short: (ABC- Australia) Tesla sales in the first three months of 2025 have fallen by a bigger-than-expected margin, with a slump in sales in the US, Europe and China. It comes amid increased electric vehicle competition and chief executive Elon Musk&#8217;s embrace of far-right politics. What&#8217;s next? Chinese company BYD is set to unseat [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/tesla-sales-fall-in-first-months-of-2025-amid-elon-musk-backlash/">Tesla sales fall in first months of 2025 amid Elon Musk backlash</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/tesla-sales-fall-in-first-months-of-2025-amid-elon-musk-backlash/>
+
+---
+
+## Critical investments needed on ocean science front to prepare, report says
+
+date: 2025-04-04, from: University of Hawaiʻi News
+
+<p>The report provides advice to the National Science Foundation on how to reinvigorate U.S. leadership in ocean research.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/03/nasem-ocean-studies-report/">Critical investments needed on ocean science front to prepare, report says</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/03/nasem-ocean-studies-report/>
+
+---
+
+## COMWRONG-21: Long before DOGE, Guam had a 'rightsizing' commission 
+
+date: 2025-04-03, from: Pacific Island Times
+
+Guam is particularly surprised to find out that debloating bureaucracy is possible. At the local level, “modernizing the government” and “ma 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/remember-comwrong-21>
+
+---
+
+## Peace begins in Guam: Former JGPO chief says military investments will assure stability in the region
+
+date: 2025-04-03, from: Pacific Island Times
+
+“The investments that the United States is making—both on the military side as well as economic and other soft power areas resonating from G 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/peace-begins-in-guam-former-jgpo-chief-says-military-investments-will-assure-stability-in-the-regio>
+
+---
+
+## UH Mānoa undergrads advocate for research on Capitol Hill
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p>Their training, which began in November 2024, included workshops on relationship building with legislators, writing policy briefs and crafting persuasive op-eds.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/03/undergrads-advocate-for-research/"><abbr>UH</abbr> Mānoa undergrads advocate for research on Capitol Hill</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/03/undergrads-advocate-for-research/>
+
+---
+
+## UH alum, award-winning teacher inspires Molokaʻi keiki with STEM, culture
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p>Gonzales is leading his students on an educational journey that blends Hawaiian culture with <abbr>STEM</abbr> learning.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/03/teacher-inspires-molokai-keiki/"><abbr>UH</abbr> alum, award-winning teacher inspires Molokaʻi keiki with <abbr>STEM</abbr>, culture</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/03/teacher-inspires-molokai-keiki/>
+
+---
+
+## Bringing aloha to the Windy City: UH alumni celebrate in Chicago
+
+date: 2025-04-03, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> alumni gathered in Chicago for a weekend of connection, featuring a special tour of the Chicago Legacy Hula exhibit.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/03/bringing-aloha-to-the-windy-city/">Bringing aloha to the Windy City: <abbr>UH</abbr> alumni celebrate in Chicago</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/03/bringing-aloha-to-the-windy-city/>
 
 ---
 
@@ -35,6 +615,20 @@ The post <a href="https://www.hawaii.edu/news/2025/04/03/celebrate-a-legacy-in-t
 
 ---
 
+## PSS launches annual work program
+
+date: 2025-04-03, from: Marshal Islands Journal
+
+<p>The annual Secondary School Practicum Program, providing valuable hands-on experience to 357 students across various ministries, agencies and private sector companies in Majuro, Wotje, Jaluit, Ebeye, and Enniburr, Kwajalein, launched late last month. This initiative is designed to bridge academic learning with practical workplace experience, equipping students with the skills and knowledge necessary for their [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/pss-launches-annual-work-program/">PSS launches annual work program</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/pss-launches-annual-work-program/>
+
+---
+
 ## UH achieves ‘gold standard,’ reaccredited for human research protection
 
 date: 2025-04-03, from: University of Hawaiʻi News
@@ -57,6 +651,78 @@ by Jennifer Randall Hotz Mrs. C. will tell you she doesn&#8217;t mind that the c
 <br> 
 
 <https://hawaiipacificreview.org/2025/04/03/i-should-write-a-poem-about-mrs-c-from-happy-days/>
+
+---
+
+## What really happened
+
+date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+
+Deal or no deal 
+
+<br> 
+
+<https://www.mvariety.com/views/editorials/what-really-happened/article_34b1a3a8-afd8-4968-80ac-bf069fa2b0f9.html>
+
+---
+
+## Police investigating threat to NMC
+
+date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+
+ASSISTANT Police Chief Simon Manacop said the Department of Public Safety is conducting routine checks at Northern Marianas College while detectives prioritize the investigation of an online threat made to NMC. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/police-investigating-threat-to-nmc/article_b303da99-95ea-4261-a149-84b746e4a6de.html>
+
+---
+
+## CNMI has until Dec. 31, 2026 to spend ARPA funds
+
+date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+
+THE CNMI has until Dec. 31, 2026 to spend the state and local fiscal recovery funds that it received from the federal government under the American Rescue Plan Act, U.S. Congresswoman Kimberlyn King-Hinds said. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-has-until-dec-31-2026-to-spend-arpa-funds/article_8f0a5bcf-61a0-4cd9-9067-dbf46c78cd25.html>
+
+---
+
+## DPW to inspect IPI building
+
+date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+
+THE Department of Public Works will inspect Imperial Pacific International's unfinished hotel and casino building in Garapan. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/dpw-to-inspect-ipi-building/article_89d40412-e9b6-4311-a9da-8023d046d6c5.html>
+
+---
+
+## UOG Student Government Association crowns inaugural Miss UOG pageant winner
+
+date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+
+MANGILAO (UOG) — The University of Guam Student Government Association made history with the successful debut of its first-ever Miss UOG Pageant, held at the UOG Center Courtyard during Blue Night on March 7, 2025. The highly anticipated event showcased the intelligence, talent, and leadership of UOG’s brightest women, culminating in the crowning of Ashley Topasña as the inaugural Miss UOG. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/uog-student-government-association-crowns-inaugural-miss-uog-pageant-winner/article_c62abcc6-3977-4d6d-9bf3-189044a4b114.html>
+
+---
+
+## Hop into April at Crowne Plaza Resort Saipan
+
+date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+
+SPRING has arrived, and with it comes a lineup of egg-citing offers at Crowne Plaza Resort Saipan! From a festive Easter Brunch to seasonal cocktails and special appreciation deals, there are plenty of reasons to celebrate all month long. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/hop-into-april-at-crowne-plaza-resort-saipan/article_bb875978-48c0-4cb9-8e15-c625d3c09638.html>
 
 ---
 
@@ -267,6 +933,20 @@ date: 2025-04-03, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/03/hawaii-news/video-hvnp-releases-body-worn-camera-footage-from-march-4-officer-involved-shooting-viewer-discretion-advised/>
+
+---
+
+## Police arrest suspect in auto parts store robbery
+
+date: 2025-04-03, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii Island police have arrested a Mountain View man following a violent robbery Tuesday morning at O&#8217;Reilly Auto Parts in Hilo.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/03/hawaii-news/police-arrest-suspect-in-auto-parts-store-robbery/>
 
 ---
 
@@ -1312,7 +1992,7 @@ The post <a href="https://www.hawaii.edu/news/2025/03/31/tiktok-tradwife-trend/"
 
 date: 2025-03-31, from: Island Times
 
-<figure><img width="600" height="671" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?fit=600%2C671&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?resize=268%2C300&amp;ssl=1 268w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?resize=400%2C447&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?fit=600%2C671&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76468" data-permalink="https://islandtimes.org/whipps-nominates-olgeriil-for-minister-of-justice/olgeriell-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?fit=600%2C671&amp;ssl=1" data-orig-size="600,671" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="olgeriell" data-image-description="" data-image-caption="&lt;p&gt;Jennifer Olgeriil&lt;/p&gt;
+<figure><img width="600" height="671" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?fit=600%2C671&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?resize=268%2C300&amp;ssl=1 268w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?resize=400%2C447&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?fit=600%2C671&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76468" data-permalink="https://islandtimes.org/whipps-nominates-olgeriil-for-minister-of-justice/olgeriell-2/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?fit=600%2C671&amp;ssl=1" data-orig-size="600,671" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="olgeriell" data-image-description="" data-image-caption="&lt;p&gt;Jennifer Olgeriil&lt;/p&gt;
 " data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?fit=268%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/03/olgeriell.jpg?fit=600%2C671&amp;ssl=1" /></figure>
 <p>KOROR, Palau — After weeks of speculation, President Surangel Whipps Jr. has nominated Jennifer Olegeriil to lead the Ministry of Justice. Olegeriil, a veteran in Palau’s law enforcement system, has 32 years of experience at both the state and national levels. She currently serves as the Director of Environment and Law Enforcement for Koror State [&#8230;]</p>
 <p>The post <a href="https://islandtimes.org/whipps-nominates-olgeriil-for-minister-of-justice/">Whipps Nominates Olegeriil for Minister of Justice</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
