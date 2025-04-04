@@ -1,11 +1,24 @@
 ---
 title: motorcycles
-updated: 2025-04-04 06:07:46
+updated: 2025-04-04 14:09:47
 ---
 
 # motorcycles
 
-(date: 2025-04-04 06:07:46)
+(date: 2025-04-04 14:09:47)
+
+---
+
+## This Company Sells As Many Motorcycles In a Month Than the Entire US Does In a Year
+
+date: 2025-04-04, from: Ride Apart, Electric Motorcycle News
+
+Just goes to show how massive this Indian motorcycle maker is—and it’s isn’t slowing down one bit. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/755437/tvs-record-breaking-sales-500k-march-2025/>
 
 ---
 

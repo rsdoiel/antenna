@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-04 06:07:46
+updated: 2025-04-04 14:09:47
 ---
 
 # retro computing
 
-(date: 2025-04-04 06:07:46)
+(date: 2025-04-04 14:09:47)
+
+---
+
+## The End of Sierra as We Knew It, Part 1: The Acquisition
+
+date: 2025-04-04, from: Digital Antiquarian
+
+I feel very comfortable working in a company where you can&#8217;t touch anything. &#8212; Walter Forbes At the beginning of 1996, Sierra On-Line was still basking in the success of the previous summer&#8217;s Phantasmagoria, the best-selling game it had ever published. With revenues of $158.1 million and profits of $16 million in 1995, the company [&#8230;] 
+
+<br> 
+
+<https://www.filfre.net/2025/04/the-end-of-sierra-as-we-knew-it-part-1-the-acquisition/>
 
 ---
 

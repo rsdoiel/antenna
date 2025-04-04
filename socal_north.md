@@ -1,11 +1,145 @@
 ---
 title: socal north
-updated: 2025-04-04 06:07:40
+updated: 2025-04-04 14:09:42
 ---
 
 # socal north
 
-(date: 2025-04-04 06:07:40)
+(date: 2025-04-04 14:09:42)
+
+---
+
+## Some trails closed by the Eaton Fire have reopened. Here's what to know
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+Visitors are being asked to tread lightly and stay on the trails to prevent more damage to hillsides. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/angeles-national-fores-eaton-fire-trails-reopen-guide>
+
+---
+
+## LA sound stages yet to rebound after Hollywood strikes
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+Film LA reports that just 63% of major studios' sound stage space was in use in 2024, compared with 90% before the Hollywood strikes of 2023. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/la-sound-stages-have-yet-to-rebound-after-hollywood-strikes>
+
+---
+
+## Dow Jones plunges over 2,200 points as tariff carnage roils global markets
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+Investors, businesses and consumers all seem terrified of how President Trump's tariffs could upend the global economy. 
+
+<br> 
+
+<https://laist.com/news/stocks-sink-in-another-brutal-day-as-trumps-tariffs-send-global-shockwaves>
+
+---
+
+## Trans student athlete AB Hernandez finds support in her town that elected Trump
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+Hernandez was doxxed by right-wing influencers and an elected official. 
+
+<br> 
+
+<https://laist.com/news/education/trans-student-athlete-ab-hernandez-finds-support-in-her-town-that-elected-trump>
+
+---
+
+## Travel the World in 2025 with the Celebrate Passport
+
+date: 2025-04-04, from: City of Santa Clarita
+
+<p>Journey to New Destinations Monthly at the Canyon Country Community Center Explore the world by traveling to the Canyon Country Community Center (18410 Sierra Highway) for the Celebrate event series! Experience different customs and cultures &#8211; no plane ticket needed! The Celebrate event series is back for its highly anticipated fourth year and offers glimpses [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/04/travel-the-world-in-2025-with-the-celebrate-passport/">Travel the World in 2025 with the Celebrate Passport</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/04/travel-the-world-in-2025-with-the-celebrate-passport/>
+
+---
+
+## An LAFD and LA County firefighter brawled at the scene of a fire. Here’s what we know
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+The exchange of punches took place Monday as both departments responded to car fire in South L.A. 
+
+<br> 
+
+<https://laist.com/news/lafd-la-county-fire-department-firefighter-fight-scene-of-fire>
+
+---
+
+## Hasna Maznavi, the LA-based founder of the first all women’s mosque in the US, dies at 39
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+Maznavi leaves behind a legacy of creating safe spaces for Muslim women. 
+
+<br> 
+
+<https://laist.com/news/hasna-maznavi-all-womens-mosque-founder-dies>
+
+---
+
+## LA can rein in illegal short-term rentals, says longtime Airbnb watcher
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+With the Olympics approaching and housing in short supply after recent fires, the city is moving to crack down on illegal rentals. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-can-rein-in-illegal-short-term-rentals-says-longtime-airbnb-watcher>
+
+---
+
+## How much will tariffs raise prices? Trump's economists just revealed their answer
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+The administration revealed how they calculated the tariffs. Buried in that math is a straightforward answer to a question Trump has long refused to answer: How much will his tariffs raise prices? 
+
+<br> 
+
+<https://laist.com/news/tariffs-prices-understanding-trump-trade-formula-economists>
+
+---
+
+## Trade war escalates as China hits back with 34% tariffs on all U.S. goods
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+Analysts say the escalating trade tensions between the U.S and China will make a near-term deal to end the trade war "highly unlikely". 
+
+<br> 
+
+<https://laist.com/news/trade-war-china-tariffs-us-goods>
+
+---
+
+## After losing 60,000 rabbit-related items in the Eaton Fire, The Bunny Museum vows to reopen
+
+date: 2025-04-04, updated: 2025-04-04, from: The LAist
+
+Owners Steve Lubanski and Candace Frazee plan to rebuild with fire resistance in mind. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/the-bunny-museum-reopen-eaton-fire>
 
 ---
 
@@ -69,19 +203,7 @@ Here’s what we’ve heard so far in our audience survey for 2025. If you haven
 
 ---
 
-## After losing 60,000 rabbit-related items in the Eaton Fire, the Bunny Museum vows to reopen
-
-date: 2025-04-04, updated: 2025-04-04, from: The LAist
-
-Owners Steve Lubanski and Candace Frazee plan to rebuild with fire resistance in mind. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/the-bunny-museum-reopen-eaton-fire>
-
----
-
-## Citing rent, beloved Greek restaurant and market Papa Cristo’s to close next month
+## Citing rent, beloved Greek restaurant and market Papa Cristo’s to close
 
 date: 2025-04-04, updated: 2025-04-04, from: The LAist
 
@@ -375,7 +497,7 @@ Huntington Beach wants to enforce its own voter ID rules — and the state is se
 
 date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="592" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1536%2C889&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1200%2C694&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=780%2C451&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=400%2C231&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=706%2C408&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="592" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=300%2C174&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1024%2C592&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=768%2C444&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1536%2C889&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=1200%2C694&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=780%2C451&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=400%2C231&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?resize=706%2C408&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250321_Fabrication-Shops_SN_08-scaled-e1743649539223.jpeg?fit=1024%2C592&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Esta es la parte 1 de una serie sobre la silicosis. Eric Reyes-Barriga aprendió por primera vez a cortar y pulir piedra en un pequeño taller en Sun Valley, donde [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/02/el-costo-de-sus-encimeras-los-trabajadores-de-la-fabricacion-de-piedra-mueren-de-silicosis/">El Costo de Sus Encimeras: los Trabajadores de la Fabricación de Piedra Mueren de Silicosis</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -390,7 +512,7 @@ date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="541" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?fit=1024%2C541&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1024%2C541&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=768%2C406&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1536%2C812&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1200%2C634&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=780%2C412&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=400%2C211&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=706%2C373&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?fit=1024%2C541&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="541" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?fit=1024%2C541&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=300%2C159&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1024%2C541&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=768%2C406&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1536%2C812&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=1200%2C634&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=780%2C412&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=400%2C211&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?resize=706%2C373&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/250331_UCLA_LatinxSuccessCenter-8-scaled-e1743649365122.jpg?fit=1024%2C541&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>En medio de los recortes nacionales a los programas de diversidad, equidad e inclusión (DEI, por sus siglas en inglés), la Universidad de California en Los Ángeles (UCLA, por sus [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/02/ucla-abre-un-centro-de-exito-latinx-en-el-dia-de-cesar-chavez/">UCLA Abre un Centro de Éxito Latinx en el Día de César Chávez</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -433,7 +555,7 @@ date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="771" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/PXL_20250330_183231342.MP_-scaled-e1743648990899.jpg?fit=1024%2C771&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>El día antes del feriado estatal en honor al fallecido líder sindical y activista de los derechos civiles César Chávez, cientos de manifestantes se reunieron en la Escuela Primaria Charter [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/02/manifestantes-marchan-en-pacoima-para-honrar-el-legado-de-cesar-chavez-y-denunciar-las-deportaciones-masivas-de-trump/">Manifestantes Marchan en Pacoima para Honrar el Legado de César Chávez y Denunciar las Deportaciones Masivas de Trump</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -448,7 +570,7 @@ date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Mag-02-scaled-e1743648849496.jpg?fit=1024%2C683&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Los consejeros escolares de Magnolia Science Academy 5 (MSA-5), una escuela chárter en Reseda para estudiantes de 6º a 12º grado, se unieron para entregar paquetes de atención de “Conozca [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/02/magnolia-science-academy-5-ofrece-paquetes-de-atencion-conozca-sus-derechos-a-las-familias/">Magnolia Science Academy 5 Ofrece Paquetes de Atención ‘Conozca Sus Derechos’ a las Familias</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -463,7 +585,7 @@ date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="768" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?w=1560&amp;ssl=1 1560w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/State-March-01-scaled-e1743648680922.jpg?fit=1024%2C768&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Para Tejinder Dhami, oficial de seguridad y delegado sindical del Sindicato Internacional de Empleados de Servicios (SEIU, por sus siglas en inglés), estar entre las aproximadamente 5,000 personas en la [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/02/la-marcha-de-cesar-chavez-en-todo-el-estado-demostro-solidaridad-y-la-union-hace-la-fuerza/">La Marcha de César Chávez en Todo el Estado Demostró Solidaridad y ‘la Unión Hace la Fuerza’</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -478,7 +600,7 @@ date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="683" height="1024" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1&amp;w=370 370w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/Xavier_Becerra_official_portrait-e1743644118576.jpg?fit=683%2C1024&amp;ssl=1&amp;w=400 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>LOS ÁNGELES (CNS) &#8211; El excongresista de Los Ángeles Xavier Becerra anunció su candidatura para la carrera por la gobernación de California en 2026 el miércoles 2 de abril, uniéndose [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/02/xavier-becerra-anuncia-su-candidatura-a-gobernador-de-california/">Xavier Becerra Anuncia su Candidatura a Gobernador de California</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  
@@ -493,7 +615,7 @@ date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-03, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
-<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?w=2482&amp;ssl=1 2482w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?w=2482&amp;ssl=1 2482w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=2048%2C1366&amp;ssl=1 2048w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=600%2C400&amp;ssl=1 600w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=2000%2C1334&amp;ssl=1 2000w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?w=2340&amp;ssl=1 2340w, https://i0.wp.com/sanfernandosun.com/wp-content/uploads/2025/04/AP25087723956599_elsol.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Por Howard Fendrich  WASHINGTON (AP) — Hace siete años, cuando una candidatura conjunta de Estados Unidos, Canadá y México fue premiada con la sede de la Copa del Mundo 2026, [&#8230;]</p>
 <p>The post <a href="https://sanfernandosun.com/2025/04/02/el-mundial-conjunto-eeuu-canada-mexico-pasa-de-unidad-a-tensiones-por-aranceles-y-estado-51/">El Mundial conjunto EEUU-Canadá-México Pasa de Unidad a Tensiones por Aranceles y &#8216;Estado 51&#8217;</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
  

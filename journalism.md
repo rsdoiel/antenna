@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2025-04-04 06:07:44
+updated: 2025-04-04 14:09:45
 ---
 
 # journalism
 
-(date: 2025-04-04 06:07:44)
+(date: 2025-04-04 14:09:45)
+
+---
+
+## The Wolves: A production that confronts societal issues with female empowerment
+
+date: 2025-04-04, from: The Sundail (CSUN Student Newspaper)
+
+Following a two-night run prior to spring break, “The Wolves” returned for a three-day production, kicking off with a sold-out show on March 27. Directed by Jade C. Huell, “The... 
+
+<br> 
+
+<https://sundial.csun.edu/192060/arts-entertainment/the-wolves-a-production-that-confronts-societal-issues-with-female-empowerment/>
+
+---
+
+## Concert Life in Los Angeles
+
+date: 2025-04-04, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/concert-life-in-los-angeles/>
+
+---
+
+## Trump: ‘Our country will be woke no longer!’ — COC has a different message
+
+date: 2025-04-04, from: The Canyon News (COC Student Newspaper)
+
+<p>Fulfilling his campaign promise, the Trump administration has ordered the Department of&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/president-trump/">Trump: &#8216;Our country will be woke no longer!&#8217; — COC has a different message</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/president-trump/>
 
 ---
 

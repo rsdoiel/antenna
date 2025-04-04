@@ -1,11 +1,380 @@
 ---
 title: snapshots
-updated: 2025-04-04 06:07:49
+updated: 2025-04-04 14:09:49
 ---
 
 # snapshots
 
-(date: 2025-04-04 06:07:49)
+(date: 2025-04-04 14:09:49)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Not even the most fervent MAGA supporter will think it harmful to bargain-shop for free-trade underwear out of the back of a truck driven from Mexico or Canada. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/04/trump-tariffs-smugglers/682303/?gift=f35zZN0v_gDFE8xNwlQAHalDNaXpRl29WJJcKBE0ghg&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+## Frontend Masters “Snackable Tutorials”
+
+date: 2025-04-04, from: Chris Coyier blog
+
+Frontend Masters now has a Tutorials section of their site. Just makes your subscription all the more valuable, I suppose. I&#8217;ve got a couple videos on there now, based on a little component I was obsessed with for a minute. I re-created it my own way using an HTML Web Component and modern CSS fancy [&#8230;] 
+
+<br> 
+
+<https://chriscoyier.net/2025/04/04/frontend-masters-snackable-tutorials/>
+
+---
+
+## Lilbits: Nintendo Switch 2 pre-orders delayed due to tariffs, Onn 4K Plus Google TV Streamer coming soon
+
+date: 2025-04-04, from: Liliputing
+
+<p>This week Nintendo announced that the follow-up to the wildly popular Nintendo Switch is coming soon. The Nintendo Switch 2 arrives in June and sells for $450. It was supposed to go up for pre-order on April 9th. But you know what else happened this week? The Trump administration announced global tariffs affecting imports from every [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-nintendo-switch-2-pre-orders-delayed-due-to-tariffs-onn-4k-plus-google-tv-streamer-coming-soon/">Lilbits: Nintendo Switch 2 pre-orders delayed due to tariffs, Onn 4K Plus Google TV Streamer coming soon</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-nintendo-switch-2-pre-orders-delayed-due-to-tariffs-onn-4k-plus-google-tv-streamer-coming-soon/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Hands Off! Hudson Valley Fights Back. 
+
+<br> 
+
+<https://www.mobilize.us/handsoff/event/765249/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Poll: AOC leads Schumer in head-to-head New York primary matchup by double digits. 
+
+<br> 
+
+<https://www.politico.com/news/2025/04/04/schumer-aoc-poll-primary-new-york-030621>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Maybe California will become the -1st state. 
+
+<br> 
+
+<https://www.axios.com/2025/04/04/newsom-california-tariffs-trump-trade-war>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Ted Cruz warns Trump tariffs could be ‘terrible for America.’ 
+
+<br> 
+
+<https://www.politico.com/live-updates/2025/04/04/congress/ted-cruz-warns-trump-tariffs-could-be-terrible-for-america-00272219>
+
+---
+
+## A Country Club for Older Animals
+
+date: 2025-04-04, updated: 2025-04-04, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/04/a-country-club-for-older-animals/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Starlink competition is ramping up in Ukraine. 
+
+<br> 
+
+<https://www.theverge.com/news/643780/ukraine-eutelsat-satellite-internet-germany-starlink-competition>
+
+---
+
+## Quoting Sam Altman
+
+date: 2025-04-04, updated: 2025-04-04, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/sama/status/1908167621624856998"><p>change of plans: we are going to release o3 and o4-mini after all, probably in a couple of weeks, and then do GPT-5 in a few months</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/sama/status/1908167621624856998">Sam Altman</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/sam-altman">sam-altman</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/4/sam-altman/#atom-everything>
+
+---
+
+## New Microsoft Copilot tricks: Remembering what you tell it, interacting with anything running on your PC
+
+date: 2025-04-04, from: Liliputing
+
+<p>Microsoft is bringing some big updates to its Copilot AI applications for Windows and mobile. Some of the biggest are that Copilot on Windows now runs entirely as a native app rather than a web app. It now has memory and personalization features that can recall things it&#8217;s learned about you and apply them to future [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/new-microsoft-copilot-tricks-remembering-what-you-tell-it-interacting-with-anything-running-on-your-pc/">New Microsoft Copilot tricks: Remembering what you tell it, interacting with anything running on your PC</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/new-microsoft-copilot-tricks-remembering-what-you-tell-it-interacting-with-anything-running-on-your-pc/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Great quote from Carville. 
+
+<br> 
+
+<https://politicalwire.com/2025/04/04/bonus-quote-of-the-day-2168/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Hyundai is vowing not to raise US vehicle prices. 
+
+<br> 
+
+<https://electrek.co/2025/04/04/hyundai-vowing-not-to-raise-us-vehicle-prices-but-for-how-long/>
+
+---
+
+## April fools bring May hallucinations
+
+date: 2025-04-04, from: Gary Marcus blog
+
+No, Grok didn&#8217;t just solve a legendary math problem. But it gets worse. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/april-fools-bring-may-hallucinations>
+
+---
+
+## Volunteering Is a Win-Win
+
+date: 2025-04-04, from: Guy Kawasaki blog
+
+Cal J. Halvorsen, Washington University in St. Louis and Seoyoun Kim, University of Michigan. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/volunteering-is-a-win-win>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Basics of the Unix Philosophy. 
+
+<br> 
+
+<http://www.catb.org/~esr/writings/taoup/html/ch01s06.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Nintendo delays Switch 2 pre-orders because of Trump tariffs. 
+
+<br> 
+
+<https://www.cnbc.com/2025/04/04/nintendo-delays-switch-2-pre-orders-because-of-trump-tariffs-.html>
+
+---
+
+## Gemini 2.5 Pro Preview pricing
+
+date: 2025-04-04, updated: 2025-04-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://ai.google.dev/gemini-api/docs/pricing#gemini-2.5-pro-preview">Gemini 2.5 Pro Preview pricing</a></strong></p>
+Google's Gemini 2.5 Pro is currently the top model <a href="https://lmarena.ai/?leaderboard">on LM Arena</a> and, from <a href="https://simonwillison.net/2025/Mar/25/gemini/">my own testing</a>, a superb model for OCR, audio transcription and long-context coding.</p>
+<p>You can now pay for it!</p>
+<p>The new <code>gemini-2.5-pro-preview-03-25</code> model ID is priced like this:</p>
+<ul>
+<li>Prompts less than 200,00 tokens: $1.25/million tokens for input, $10/million for output</li>
+<li>Prompts more than 200,000 tokens (up to the 1,048,576 max): $2.50/million for input, $15/million for output</li>
+</ul>
+<p>This is priced at around the same level as Gemini 1.5 Pro ($1.25/$5 for input/output below 128,000 tokens, $2.50/$10 above 128,000 tokens), is cheaper than GPT-4o for shorter prompts ($2.50/$10) and is cheaper than Claude 3.7 Sonnet ($3/$15).</p>
+<p>Gemini 2.5 Pro is a reasoning model, and invisible reasoning tokens are included in the output token count. I just tried prompting "hi" and it charged me 2 tokens for input and 623 for output, of which 613 were "thinking" tokens. That still adds up to just 0.6232 cents (less than a cent) using my <a href="https://tools.simonwillison.net/llm-prices">LLM pricing calculator</a> which I updated to support the new model just now.</p>
+<p>I released <a href="https://github.com/simonw/llm-gemini/releases/tag/0.17">llm-gemini 0.17</a> this morning adding support for the new model:</p>
+<pre><code>llm install -U llm-gemini
+llm -m gemini-2.5-pro-preview-03-25 hi
+</code></pre>
+<p>Note that the model continues to be available for free under the previous <code>gemini-2.5-pro-exp-03-25</code> model ID:</p>
+<pre><code>llm -m gemini-2.5-pro-exp-03-25 hi
+</code></pre>
+<p>The free tier is "used to improve our products", the paid tier is not.</p>
+<p>Rate limits for the paid model <a href="https://ai.google.dev/gemini-api/docs/rate-limits#tier-1">vary by tier</a> - from 150/minute and 1,000/day for tier 1 (billing configured), 1,000/minute and 50,000/day for Tier 2 ($250 total spend) and 2,000/minute and unlimited/day for Tier 3 ($1,000 total spend). Meanwhile the free tier continues to limit you to 5 requests per minute and 25 per day.</p>
+<p>Google are <a href="https://twitter.com/OfficialLoganK/status/1908179750536827183">retiring the Gemini 2.0 Pro preview</a> entirely in favour of 2.5.
+
+    <p><small></small>Via <a href="https://twitter.com/OfficialLoganK/status/1908175318709330215">@OfficialLoganK</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/inference-scaling">inference-scaling</a>, <a href="https://simonwillison.net/tags/google">google</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/4/gemini-25-pro-pricing/#atom-everything>
+
+---
+
+## Behind the Blog: Ancient Civilizations and Modern-Day Driving
+
+date: 2025-04-04, from: 404 Media Group
+
+This week, we discuss learning from civilizations past and learning to drive. 
+
+<br> 
+
+<https://www.404media.co/behind-the-blog-ancient-civilizations-and-modern-day-driving/>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-04, updated: 2025-04-04, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/507c67ea54efb9d108e1dc58480c5562959428a9...4bde3dcde05bca92b5d80ede2428d15a7f19840e">(4bde3dcd)</a>
+<i>
+at
+04 Apr 18:50
+</i>
+</p>
+<div class="blockquote"><p dir="auto">Merge branch &#39;vy64&#39; into &#39;main&#39;</p></div>
+<p>
+<i>
+... and
+12 more commits
+</i>
+</p>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/compare/507c67ea54efb9d108e1dc58480c5562959428a9...4bde3dcde05bca92b5d80ede2428d15a7f19840e>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch vy64 at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-04, updated: 2025-04-04, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/249928a1df80e7c6f197131993ddd08bce8de7e7">(249928a1)</a>
+<i>
+at
+04 Apr 18:43
+</i>
+</p>
+<div class="blockquote"><p dir="auto">made the keyboard work properly with Linux64/oberon box in A2</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/249928a1df80e7c6f197131993ddd08bce8de7e7>
+
+---
+
+## Big Tech Backed Trump for Acceleration. They Got a Decel President Instead
+
+date: 2025-04-04, from: 404 Media Group
+
+Effective accelerationists didn’t just accidentally shoot themselves in the foot. They methodically blew off each of their toes with a .50 caliber sniper rifle. 
+
+<br> 
+
+<https://www.404media.co/big-tech-backed-trump-for-acceleration-they-got-a-decel-president-instead/>
+
+---
+
+## Massive, Unarchivable Datasets of Cancer, Covid, and Alzheimer's Research Could Be Lost Forever
+
+date: 2025-04-04, from: 404 Media Group
+
+Days before Robert F. Kennedy Jr. announced that 10,000 HHS staffers would lose their jobs, a message appeared on NIH research repository sites saying they were "under review."  
+
+<br> 
+
+<https://www.404media.co/nih-archives-repositories-marked-for-review-for-potential-modification/>
+
+---
+
+## Shuttle launches two XPC nano mini PCs with Intel Meteor Lake processors
+
+date: 2025-04-04, from: Liliputing
+
+<p>Earlier this year small form-factor PC maker Shuttle introduced the first member of the XPC nano series to feature an integrated NPU for hardware-accelerated AI features. Now the company is expanding the lineup with two new models. What&#8217;s a little confusing is that the Shuttle XPC nano NA10H7 that was unveiled in February features and [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/shuttle-launches-two-xpc-nano-mini-pcs-with-intel-meteor-lake-processors/">Shuttle launches two XPC nano mini PCs with Intel Meteor Lake processors</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/shuttle-launches-two-xpc-nano-mini-pcs-with-intel-meteor-lake-processors/>
+
+---
+
+## A Sneaky Phish Just Grabbed my Mailchimp Mailing List
+
+date: 2025-04-04, updated: 2025-04-04, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://www.troyhunt.com/a-sneaky-phish-just-grabbed-my-mailchimp-mailing-list/">A Sneaky Phish Just Grabbed my Mailchimp Mailing List</a></strong></p>
+In further evidence that phishing attacks can catch out the <em>most</em> sophisticated among us, security researcher (and operator of <a href="https://haveibeenpwned.com/">';--have i been pwned?</a>) Troy Hunt reports on how he fell for an extremely well crafted phishing attack against his MailChimp account which then exported his full list of subscribers, including people who had unsubscribed (data which MailChimp stores and continues to make available).</p>
+<p>This could happen to any of us:</p>
+<blockquote>
+<p>I've received a gazillion similar phishes before that I've identified early, so what was different about this one? Tiredness, was a major factor. I wasn't alert enough, and I didn't properly think through what I was doing.</p>
+</blockquote>
+<p>Troy's account was protected by authenticator app 2FA, but the phishing site (on the realistic sounding <code>mailchimp-sso.com</code> domain) asked for that code too and instantly proxied it through to MailChimp - somewhat ironic as Troy had been promoting phishing-resistant passkeys on his trip to London, a technology that MailChimp doesn't offer yet.</p>
+<p>There are a bunch of interesting details here. I appreciated this point about how short-lived authentication sessions can <em>reduce</em> account security by conditioning users to expect constant login requests:</p>
+<blockquote>
+<p>I also realised another factor that pre-conditioned me to enter credentials into what I thought was Mailchimp is their very short-lived authentication sessions. Every time I go back to the site, I need to re-authenticate and whilst the blame still clearly lies with me, I'm used to logging back in on every visit. Keeping a trusted device auth'd for a longer period would likely have raised a flag on my return to the site if I wasn't still logged in.</p>
+</blockquote>
+<p>It looks like MailChimp preserve the email addresses of unsubscribed users to prevent them from being re-subscribed by future list imports. Troy discusses this issue at length in further updates to the post.</p>
+<p>Also interesting: this <a href="https://www.validin.com/blog/pulling_threads_on_phishing_campaign/">article by DNS forensics company Validin</a> which tracks down the responsible group using DNS records and other hints such as title tags and favicon hashes.
+
+    <p><small></small>Via <a href="https://www.schneier.com/blog/archives/2025/04/troy-hunt-gets-phished.html">Bruce Schneier</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/passkeys">passkeys</a>, <a href="https://simonwillison.net/tags/troy-hunt">troy-hunt</a>, <a href="https://simonwillison.net/tags/phishing">phishing</a>, <a href="https://simonwillison.net/tags/dns">dns</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/4/a-sneaky-phish/#atom-everything>
+
+---
+
+## Stickerbombed: Google Pixel Tablet
+
+date: 2025-04-04, from: mrusme blog
+
+A tablet is not only a tool but also a canvas. I take great pleasure in
+personalizing my tools to function and look the way I want them to. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/stickerbombed-google-pixel-tablet/>
 
 ---
 
@@ -1056,7 +1425,7 @@ WordPress maker Automattic lays off 16% of staff.
 
 date: 2025-04-02, from: Prof. Scott Galloway, No Mercy/No Malace blog
 
-<p>It’s tax season in the U.S. At least 60 million Americans have taxes that are so simple, the IRS could do them automatically and just send them the bill. Instead, the average American spends $270 and 13 hours filing their taxes each year. Is anyone surprised that the IRS is the least popular federal agency, [&#8230;]</p>
+<p>It’s tax season in the U.S. Sixty-million-plus Americans’ taxes are so simple, the IRS could process them automatically and just send a bill or refund check. Instead, the average American spends $270 and 13 hours filing their taxes each year. Spoiler alert: The IRS is the least popular federal agency. Last month, DOGE came for [&#8230;]</p>
 <p>The post <a href="https://www.profgalloway.com/earners-vs-owners-2/">Earners vs Owners</a> appeared first on <a href="https://www.profgalloway.com">No Mercy / No Malice</a>.</p>
  
 
@@ -1130,6 +1499,16 @@ date: 2025-04-02, from: 404 Media Group
 
 ---
 
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+Why Every Entrepreneur Needs a Little Delusion. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-every-entrepreneur-needs-a-little>
+
+---
+
 ## MediaTek Kompanio Ultra is made for high-performance Chromebooks… and maybe more?
 
 date: 2025-04-02, from: Liliputing
@@ -1155,18 +1534,6 @@ date: 2025-04-02, from: Liliputing
 <br> 
 
 <https://liliputing.com/nintendo-switch-2-launches-june-5-for-450-has-a-7-9-inch-fhd-120-hz-hdr-display-and-new-accessories/>
-
----
-
-## Why Every Entrepreneur Needs a Little Delusion
-
-date: 2025-04-02, from: Guy Kawasaki blog
-
-Entrepreneurship is not for the faint of heart. 
-
-<br> 
-
-<https://guykawasaki.substack.com/p/why-every-entrepreneur-needs-a-little>
 
 ---
 

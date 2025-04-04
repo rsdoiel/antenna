@@ -1,11 +1,221 @@
 ---
 title: north america
-updated: 2025-04-04 06:07:40
+updated: 2025-04-04 14:09:42
 ---
 
 # north america
 
-(date: 2025-04-04 06:07:40)
+(date: 2025-04-04 14:09:42)
+
+---
+
+## How New Mexico is trying to stabilize a broken child care market
+
+date: 2025-04-04, from: Market Place
+
+In New Mexico, a family of four making up to $124,000 a year can now send their kids to day care for free. That’s twice the state’s median income.  
+
+<br> 
+
+<https://www.marketplace.org/2025/04/04/how-new-mexico-is-trying-to-stabilize-a-broken-child-care-market/>
+
+---
+
+## In booming West Texas, a growing community struggles to access running water
+
+date: 2025-04-04, from: Market Place
+
+West Odessa is an unincorporated community in the heart of West Texas’ oil patch that has outgrown its water system, leaving many to buy and haul in their water.  
+
+<br> 
+
+<https://www.marketplace.org/2025/04/04/in-booming-west-texas-a-growing-community-struggles-to-access-running-water/>
+
+---
+
+## Cake for Cory Booker
+
+date: 2025-04-04, from: The Contrarian
+
+'I'm not going to allow my inability to do everything undermine my ability to do something.' 
+
+<br> 
+
+<https://contrarian.substack.com/p/cake-for-cory-booker>
+
+---
+
+## HANDS OFF! 
+
+date: 2025-04-04, from: The Contrarian
+
+The Contrarian, the country, and true patriots like Alice Yee prepare for tomorrow's National Day of Action 
+
+<br> 
+
+<https://contrarian.substack.com/p/hands-off>
+
+---
+
+## Contrarian Pet of the Week
+
+date: 2025-04-04, from: The Contrarian
+
+Meet Gia and Max! 
+
+<br> 
+
+<https://contrarian.substack.com/p/contrarian-pet-of-the-week-7c2>
+
+---
+
+## Legacy media is losing America
+
+date: 2025-04-04, from: The Contrarian
+
+Earning the attention of more Americans, especially those who are not firmly in a political camp, requires telling the truth. 
+
+<br> 
+
+<https://contrarian.substack.com/p/legacy-media-is-losing-america>
+
+---
+
+## Maria Peralta on the moral direction and clarity of everyday Americans 
+
+date: 2025-04-04, from: The Contrarian
+
+"Change doesn't come from within D.C., it comes from outside TO D.C." 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160584805/95bf4b74ef994d55644d2c9857905c85.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160584805/95bf4b74ef994d55644d2c9857905c85.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/maria-peralta-on-the-moral-direction>
+
+---
+
+##  Wall Street Wants To Fix Your Airplane 
+
+date: 2025-04-04, from: The Lever News
+
+ The airline-repair business has been beset by corporate outsourcing and spotty oversight — now, venture capitalists want a piece of the action.  
+
+<br> 
+
+<https://www.levernews.com/wall-street-wants-to-fix-your-airplane/>
+
+---
+
+## Musk and Kennedy have taken a chainsaw to HHS. What does it mean?
+
+date: 2025-04-04, from: The Contrarian
+
+Virtually everything HHS is responsible for affects our daily lives. 
+
+<br> 
+
+<https://contrarian.substack.com/p/musk-and-kennedy-have-taken-a-chainsaw>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-04, from: The Contrarian
+
+Friday: Getting ready for Hands Off protests across the country and around the world on Saturday, plus protests in California, Ohio, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## In Democratic New Mexico, Oil and Gas Legislation Doesn’t Pass
+
+date: 2025-04-04, from: Capital and Main
+
+<p>Sixty days and 1,182 bills later, state legislators take a pass on oil and gas reforms.</p>
+<p>The post <a href="https://capitalandmain.com/in-democratic-new-mexico-oil-and-gas-legislation-doesnt-pass">In Democratic New Mexico, Oil and Gas Legislation Doesn’t Pass</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/in-democratic-new-mexico-oil-and-gas-legislation-doesnt-pass>
+
+---
+
+## Ezra Levin and Jen Rubin on the April 5th Day of Action
+
+date: 2025-04-04, from: The Contrarian
+
+"It never rains on a day of protest for justice, and when it does it's a baptism" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160578886/0f27a6efebf0a30883f3a0a985e9d00e.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160578886/0f27a6efebf0a30883f3a0a985e9d00e.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/ezra-levin-and-jen-rubin-on-the-april>
+
+---
+
+## Lifting the hood on a used car auction
+
+date: 2025-04-04, from: Market Place
+
+Ever wondered what happens to old rental cars? Odds are, they get snapped up by dealers looking for bargains at car auctions. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/04/manheim-leeds-car-auction/>
+
+---
+
+## Most of U.S. venture capital went to AI-focused startups. Is that a problem?
+
+date: 2025-04-04, from: Market Place
+
+When investors concentrate capital in AI-related companies, what does that mean for startups in other sectors? 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/04/most-of-u-s-venture-capital-went-to-ai-focused-startups-is-that-a-problem/>
+
+---
+
+## Commodity prices drop in response to tariffs
+
+date: 2025-04-04, from: Market Place
+
+Even though many commodities, like oil, were exempt from tariffs, the broader economic effects are likely to take a toll if they continue. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/04/commodities-prices-drop-in-response-to-tariffs/>
+
+---
+
+## Tariffs could bring an end to the days of cheap clothing
+
+date: 2025-04-04, from: Market Place
+
+Most of the shoes and clothes purchased in the U.S. come from countries hit hard by tariffs. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/04/tariffs-could-bring-an-end-to-the-days-of-cheap-clothing/>
+
+---
+
+## Friday comic: Tom the Dancing Bug
+
+date: 2025-04-04, from: The Contrarian
+
+SeverVance 
+
+<br> 
+
+<https://contrarian.substack.com/p/friday-comic-tom-the-dancing-bug-157>
 
 ---
 
@@ -362,18 +572,6 @@ A cartoon by RJ Matson
 <br> 
 
 <https://contrarian.substack.com/p/all-time-congressional-records>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-03, from: The Contrarian
-
-Thursday: Residents of Heard Island protest Trump's tariffs, gearing up for Hands Off protests on Saturday, plus protests California and Ohio, protesting AI book thieves and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

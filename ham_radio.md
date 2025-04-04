@@ -1,11 +1,97 @@
 ---
 title: ham radio
-updated: 2025-04-04 06:07:41
+updated: 2025-04-04 14:09:43
 ---
 
 # ham radio
 
-(date: 2025-04-04 06:07:41)
+(date: 2025-04-04 14:09:43)
+
+---
+
+## ARRL DXCC Statement on Mount Athos Operation SV1GA/A
+
+date: 2025-04-04, from: Amateur Radio Relay League News
+
+<p><span>The ARRL DXCC Desk has determined that the operation by a DXpedition team from Mount Athos meets the DXCC award program’s accreditation criteria. Contacts with the team, which operated in January 2025 using the call sign SV1GA/A, will therefore count toward DXCC. Additionally, due to actions taken by local authorities that resulted in the early termination of the operation, any future operation...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-dxcc-statement-on-mount-athos-operation-sv1ga-a>
+
+---
+
+## The ARRL Solar Report
+
+date: 2025-04-04, from: Amateur Radio Relay League News
+
+<p>Solar activity is likely to be moderate (R1-R2, Minor-Moderate) with<br />a slight chance for X-class flares through April 5.<br /><br />The geomagnetic field is expected to be quiet to minor storm levels<br />on April 4 and 5.<br /><br />NOAA Geomagnetic Activity Probabilities for April 5 and 6 forecast a<br />15% chance, and then a 1% chance, of a Moderate storm for the<br />reporting period.<br /><br />The forecast of solar and geomagnetic activity c...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-solar-report-8>
+
+---
+
+## HamSCI Call for Operators and Monitors 2025
+
+date: 2025-04-04, from: Amateur Radio Relay League News
+
+<p><span>HamSCI, Ham Radio Science Citizen Investigation, is preparing now for a series of meteor scatter (MS) experiments later this year and need amateur radio operators to help. </span></p><p></p><p><span>While the target storms are in August (Perseids) and December (Geminids) preparation and testing is already underway. This is a combination 'special event' and a contest to generate contact data during meteor scatter events u...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/hamsci-call-for-operators-and-monitors-2025>
+
+---
+
+## The ARRL Repeater Directory® — 2025 Edition Now Powered by RepeaterBook
+
+date: 2025-04-04, from: Amateur Radio Relay League News
+
+<p><span>ARRL is excited to announce that the new 2025 edition of </span><i><span>The ARRL Repeater Directory</span></i><span>® is now powered by </span><span>RepeaterBook</span><span>, amateur radio's worldwide repeater database. </span></p><p></p><p><span> </span></p><p><span>“This collaboration ensures that amateur radio operators across the country have access to one of the most comprehensive and up-to-date collections of repeater information available,” said Garrett Dow, KD6KPC, of RepeaterBook. </span></p><p></p><p><span> </span></p><p><span>Dow p...</span></p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/the-arrl-repeater-directory-2025-edition-now-powered-by-repeaterbook>
+
+---
+
+## Fram2 Astronaut Conducts First Amateur Radio Contacts from SpaceX Dragon
+
+date: 2025-04-04, from: Amateur Radio Relay League News
+
+<p>Rabea Rogge, LB9NJ/KD3AID, a private astronaut on the crew of the Fram2 mission, has conducted the first amateur radio contacts from aboard a SpaceX Dragon capsule. The Fram2 flight sets many firsts, including being the first crewed mission to do polar orbits of the Earth, and Rogge became the first German woman in space. <br /><br />The mission is funded and commanded by cryptocurrency billionaire Chun Wa...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/fram2-astronaut-conducts-first-amateur-radio-contacts-from-spacex-dragon>
+
+---
+
+## ARRL Learning and Education Programs in Front of 15,000 Science Teachers
+
+date: 2025-04-04, from: Amateur Radio Relay League News
+
+ 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-learning-and-education-programs-in-front-of-15-000-science-teachers>
+
+---
+
+## Flip ON flop OFF without a flip/flop
+
+date: 2025-04-04, from: EDN Blog
+
+<img width="406" height="327" src="https://www.edn.com/wp-content/uploads/NoFlop_Figure1.png?fit=406%2C327" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/NoFlop_Figure1.png?w=406 406w, https://www.edn.com/wp-content/uploads/NoFlop_Figure1.png?w=300 300w" sizes="(max-width: 406px) 100vw, 406px" /><p>ON/OFF power control with flip/flop-free, debounced push ON push OFF toggling, power-on reset, and a low parts count.</p>
+<p>The post <a href="https://www.edn.com/flip-on-flop-off-without-a-flip-flop/" data-wpel-link="internal">Flip ON flop OFF without a flip/flop</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/flip-on-flop-off-without-a-flip-flop/>
 
 ---
 
@@ -13,7 +99,7 @@ updated: 2025-04-04 06:07:41
 
 date: 2025-04-03, from: EDN Blog
 
-<img width="700" height="496" src="https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?fit=700%2C496" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?w=300 300w" sizes="(max-width: 700px) 100vw, 700px" /><p>Fractal Antenna Systems has introduced Acoustic Resonance Mitigation (ARM), a technology that disables drones using directed acoustic energy. </p>
+<img width="700" height="496" src="https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?fit=700%2C496" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?w=700 700w, https://www.edn.com/wp-content/uploads/Fractal-Drone-Blastr.jpg?w=300 300w" sizes="auto, (max-width: 700px) 100vw, 700px" /><p>Fractal Antenna Systems has introduced Acoustic Resonance Mitigation (ARM), a technology that disables drones using directed acoustic energy. </p>
 <p>The post <a href="https://www.edn.com/fractal-unveils-acoustic-tech-to-disable-drones/" data-wpel-link="internal">Fractal Unveils Acoustic Tech to Disable Drones</a> appeared first on <a href="https://www.edn.com" data-wpel-link="internal">EDN</a>.</p>
  
 

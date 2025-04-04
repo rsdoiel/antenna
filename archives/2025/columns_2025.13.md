@@ -1,11 +1,292 @@
 ---
 title: columns
-updated: 2025-04-04 06:07:43
+updated: 2025-04-04 14:09:44
 ---
 
 # columns
 
-(date: 2025-04-04 06:07:43)
+(date: 2025-04-04 14:09:44)
+
+---
+
+##  The extended trailer for Mario Kart World, the new Kart title launching... 
+
+date: 2025-04-04, updated: 2025-04-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046576-the-extended-trailer-for->
+
+---
+
+## Trump Claims to Extend TikTok Deadline for Another 75 Days
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.cnbc.com/2025/04/04/trumps-extends-tiktok-second-time.html>
+
+---
+
+## Fry Day
+
+date: 2025-04-04, from: Doc Searls (at Harvard), New Old Blog
+
+Subscription economy suckage. Just made my annual call to The New Yorker, to get a better subscription deal than what they offer with automatic renewal. So, instead of paying $169.99, I&#39;m getting a new subscriber promotional rate of $99.99. I&#39;ve been a new subscriber every year since the 1960s. Bonus link from 10 years ago. [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/04/04/fry-day/>
+
+---
+
+## ‘Floundering’
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.reuters.com/technology/will-trump-tariffs-make-apple-iphones-more-expensive-2025-04-03/>
+
+---
+
+## ★ Tired: Irresistable Force vs. Immovable Object — Wired: Unchanging Prices vs. Nonsensical Tariffs
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+The erratic, illogical, nonsensical nature of Trump’s tariffs is bad for everyone. (Understatement.) But it’s particularly troublesome for a company that sees retail price stability as part of the branding for its products. 
+
+<br> 
+
+<https://daringfireball.net/2025/04/unchanging_prices_vs_nonsensical_tariffs>
+
+---
+
+##  50 Ways to Rest. &#8220;Wander slowly around the block. Look at the... 
+
+date: 2025-04-04, updated: 2025-04-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046530-50-ways-to-rest-wander>
+
+---
+
+##  NYC is getting a new subway map, based on the 1972 Unimark/Vignelli... 
+
+date: 2025-04-04, updated: 2025-04-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046570-nyc-is-getting-a-new>
+
+---
+
+## Why Trump’s Tariffs Are Rattling Even Meta
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/04/technology/trump-tariffs-meta.html>
+
+---
+
+##  The championship match of the 2025 Tournament of Books pits Percival Everett&#8217;s... 
+
+date: 2025-04-04, updated: 2025-04-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046574-the-championship-match-of>
+
+---
+
+## How come Linux replaced Unix? What happened to proprietary Unix?
+
+date: 2025-04-04, from: Liam on Linux
+
+<p>The personal histories involved are highly relevant and they are one  of the things that get forgotten in boring grey corporate histories.</p>  <p>Bill Gates didn't get lucky: he got a leg up from mum &amp; dad, and  was nasty and rapacious and fast, and clawed his way to industry  dominance. On the way he climbed over Gary Kildall of Digital Research  and largely obliterated DR.<br /><br />&nbsp;</p>  <p>Ray Noorda of Novell was the big boss of the flourishing Mormon  software industry of Utah. (Another big Utah company was WordPerfect.)<br /><br />Several of them were in the Canopy Group:</p><p><a href="https://en.wikipedia.org/wiki/Canopy_Group">https://en.wikipedia.org/wiki/Canopy_Group</a></p><p>Ray Noorda owned the whole lot, via NFT Ventures Inc., which stood for &quot;Noorda Family Trust&quot;.</p><p><a href="https://en.wikipedia.org/wiki/Ray_Noorda">https://en.wikipedia.org/wiki/Ray_Noorda</a></p><p>Caldera acquired the Unix business from SCO, as my current employers reported a quarter of a century ago:</p><p>&nbsp;</p><p><a href="https://www.theregister.com/2000/08/02/caldera_goes_unix_with_sco/">https://www.theregister.com/2000/08/02/caldera_goes_unix_with_sco/</a></p>  <p>Noorda managed to surf Gates's and Microsoft's wave. Novell made  servers, with their own proprietary OS, and workstations, with their own OS, and the network.  As Microsoft s/w on IBM-compatible PCs became dominant, Novell  strategically killed off first its workstations and pivoted to cards for  PCs and clients for DOS. Then it ported its server OS to PC servers,  and killed its server hardware. Then it was strong and secure and safe for a  while, growing fat on the booming PC business.</p>  <p>But Noorda knew damned well that Gates resented anyone else making  good money of DOS systems. In the late 1980s, when DR no longer  mattered, MS screwed IBM because IBM fumbled OS/2. MS got lucky with  Windows 3.</p>  <p>MS help screw DEC and headhunted DEC's head OS man Dave Cutler <em>and his core team</em>  and gave him the leftovers of the IBM divorce: &quot;Portable OS/2&quot;, the  CPU-independent version. Cutler turned Portable OS/2 into what he had  planned to turn DEC VMS into: a cross-platform Unix killer. It ended up  being renamed &quot;OS/2 NT&quot; and then &quot;Windows NT&quot;.</p>  <p>Noorda knew it was just a matter of time 'til MS had a  Netware-killer. He was right. So, he figured 2 things would help Novell  adapt: embrace the TCP/IP network standard, and Unix.</p>  <p>And Novell had cash.</p>  <p>So, Novell bought Unix and did a slightly Netwarified Unix: UnixWare.</p>  <p>He also spied that the free Unix clone Linux would be big and he spun off a side-business to make a Linux-based Windows killer, <a href="https://www.linuxjournal.com/article/1094">codenamed &quot;Corsair&quot;</a> -- a fast-moving pirate ship.</p>  <p>Corsair became Caldera and Caldera OpenLinux. The early version was  expensive and had a proprietary desktop, but it also had a licensed  version of <a href="https://en.wikipedia.org/wiki/Wabi_(software">SUN WABI</a>). Before WINE worked, Caldera OpenLinux could run Windows apps.</p>  <p>Caldera also bought the rump of DR so it also had a good solid DOS as well: DR-DOS.</p>  <p>Then Caldera were the first&nbsp;corporate Linux to adopt the new FOSS  desktop, KDE. I got a copy of Caldera OpenLinux with KDE from them.  Without a commercial desktop it was both cheaper <em>and</em> better than the earlier version. WABI couldn't run much but it&nbsp;could run the core apps of MS Office, which was what mattered.</p>  <p>So, low end workstation, Novell DOS; high end workstation, Caldera  OpenLinux (able to connect to Novell servers, and run DOS and Windows  apps); legacy servers, Netware; new open-standards app servers,  UnixWare.</p>  <p>Every level of the MS stack, Novell had an alternative. Server,  network protocol, network client/server, low end workstation, high end  workstation.</p>  <p>Well, it didn't work out. Commercial Unix was dying; UnixWare flopped. Linux was killing it. So Caldera snapped up the dying <em>PC</em> Unix vendor, SCO, and renamed itself &quot;SCO Group&quot;, and now that its corporate ally, the also-Noorda-owned-and-backed Novell <em>owned</em>  the Unix source code, SCO Group tried to kill Linux by showing it was  based on stolen Unix code, and later when that failed, that it contained  stolen Unix code.</p>  <p>Caldera decided DOS wasn't worth having and open sourced it. (I have a  physical copy from them.) Lots of people were interested. It realised  DOS <em>was</em> still worth money, reverse course and made the next  version non-FOSS again. It also offered me a job. I said no. I like  drinking beer. Utah is dry.</p>  <p>The whole sorry saga of the SCO Group and the Unix lawsuits was because Ray Noorda wanted to outdo Bill Gates.</p>  <p>Sadly Noorda got Alzheimer's. The managers who took over tried to back away, but&nbsp;bits of Noorda's extended empire started attacking things which  other bits had been trying to exploit. It also shows the danger and  power of names.</p><p>Now the vague recollection&nbsp;in the industry seems to be &quot;SCO was bad&quot;.</p><p>No: SCO were good guys and SCO Xenix was great. It wasn't even  x86-only: an early version ran on the Apple Lisa, alongside 2 others.<br />&nbsp;</p><p><em>The SCO Group</em> went evil. SCO was fine. SCO != SCO <em>Group</em>.</p><p>&nbsp;</p><p>Caldera was an attempt to bring Linux up to a level where it could  compete with Windows, and it was a good product. It was the first <em>desktop</em> Linux I ran as my main desktop OS for a while.&nbsp;</p>  <p>Only one company both owned and sold a UNIX&trade; <em>and</em> had invested heavily in Linux <em>and</em> had the money to fight the SCO Group: IBM.</p>  <p>IBM set its lawyers on the SCO Group lawsuit and it collapsed.</p>  <p>Xinuos salvaged the tiny residual revenues to be had from the SCO and Novell Unixware product lines.</p>  <p>Who owns the Unix source code? Microfocus, because it owns Novell.</p>  <p>Who sells actual Unix? Xinuos.</p>  <p>Who owns the trademark? The Open Group. &quot;POSIX&quot; (a name coined by Richard Stallman) <em>became</em> UNIX&trade;.</p>  <p>Who owns Bell Labs? AT&amp;T spin off Lucent, later bought by Alcatel, later bought by Nokia.</p>  <p>Was Linux stolen? No.</p>  <p>Does anyone care now? No.</p>  Did anyone ever care? No, only Ray Noorda with a determined attempt to out-Microsoft Microsoft, which failed.&nbsp;<br /><br /><img src="https://www.dreamwidth.org/tools/commentcount?user=liam_on_linux&ditemid=94885" width="30" height="12" alt="comment count unavailable" style="vertical-align: middle;"/> comments 
+
+<br> 
+
+<https://liam-on-linux.dreamwidth.org/94885.html>
+
+---
+
+## Nintendo Delays Switch 2 Preorders Over Tariff Concerns
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/643483/nintendo-switch-2-preorders-delayed-tariffs>
+
+---
+
+## Apple Cash Switched From Discover to Visa in 2022
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2022/04/22/apple-cash-discover-visa/>
+
+---
+
+## Costco Only Accepts Visa Credit Cards
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://customerservice.costco.com/app/answers/answer_view/a_id/719/~/what-payment-methods-are-accepted-at-costco%3F>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-04, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/12/07/fauci.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;"><a href="https://this.how/bluesky/">Bluesky is centralized</a>, version 2. I wasn't satisfied with the blog post I wrote in March. I felt it was poorly organized and hard to understand, so I edited it, to get it down to its essential elements, and at the end explain why it's so important to get this right. Basically, by trying to be the universe, Bluesky is cutting off easy connections that can be made with other networks, make the system work better for communication, and at least deliver <i>some</i> of the freedom we all want. They've been very successful, and deserve to profit from that, but recognize it plays a larger role today than just as a business, so let's spread it out so it's harder to shut it down. This is a real concern, not just a nice-to-have thing. 
+
+<br> 
+
+<http://scripting.com/2025/04/04.html#a165519>
+
+---
+
+## Bill Gates on the Creation of Microsoft, and the Source Code for Its First Product
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.gatesnotes.com/microsoft-original-source-code>
+
+---
+
+## The Making of the Lumon Industries WoeMeter
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://make3.co/work/woemeter>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-04, from: Dave Winer's Scripting News)
+
+ChatGPT <a href="https://imgs.scripting.com/2025/04/04/rudyColorized.png">colorized</a> the photo of my grandfather on his <a href="https://rudykiesler.com/">tribute site</a>. 
+
+<br> 
+
+<http://scripting.com/2025/04/04.html#a155703>
+
+---
+
+## Jason Snell’s M4 MacBook Air Review
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/03/m4-macbook-air-review-am-i-blue/>
+
+---
+
+## A torpedo “bat” of innovation?
+
+date: 2025-04-04, from: Om Malik blog
+
+A “bat” isn’t always just a bat. Sometimes it’s a perfect alchemy of data, science, and ingenuity. The “Torpedo” bat, which is making waves in Major League Baseball, serves as a perfect example. During opening weekend, the New York Yankees hit 15 home runs, partially attributed to their hitters using bats with a distinctive “Torpedo” &#8230; 
+
+<br> 
+
+<https://om.co/2025/04/04/a-torpedo-bat-of-innovation/>
+
+---
+
+## Miscellany № 108: emoji, for all the wrong reasons
+
+date: 2025-04-04, from: Shady Characters blog
+
+<p>Emoji have been in the news recently for a host of reasons, most of them bad — but all of them, I would submit, worthy of our attention.</p>
+<hr>
+<p>First up is a <a href="https://www.netflix.com/gb/title/81756069">Netflix series called <cite>Adolescence</cite></a> that has been garnering plaudits in the <abbr class="initialism">UK</abbr> and elsewhere since it went on air last month. I won’t spoil the plot, but I note that Emojipedia has joined the clamour with a blog post titled “<a href="https://blog.emojipedia.org/netflixs-adolescence-emoji-codes-emoji-repurposing/">Netflix’s ‘Adolescence’, Emoji Codes &#38; Emoji Repurposing</a>”. In it, Keith Broni explores the programme’s use of an “emoji code” by so-called incels — a misogynistic online culture of men who blame women for their lack of sexual success — in which, for instance, ‘💯’ refers to the belief that 20% of men attract 80% of women. <cite>Adolescence</cite> moots other codes too, such as ‘🔵’ and ‘🔴’ to represent the blue and red pills made famous by <cite>The Matrix</cite>, the Wachowski sisters’ dystopian action film, and which in turn relate to being “blue pilled” or “red pilled” — either accepting of mainstream views or “seeing through” them to some alleged hidden truth.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/04/miscellany-108-emoji/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/04/miscellany-108-emoji/>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-04, from: Dave Winer's Scripting News)
+
+One thing led to another, we discussed lots of facets to the RFSM document. At some point it started rewriting what I had, and used two terms that don't belong in standards-making: dogfood and deprecate. Nothing ever is deprecated. That's arrogance on the part of developers. Imagine if someone in charge of NYC decided to deprecate the arrangement of the streets. Also, if your protocol achieved any adoption at all, there are far more developers than there are originators of the format. If I decided, for example, that the "webmaster" element in RSS was deprecated, do you think anyone would care? Of course not, nor should they. It's a powerless thing. I feel you should introduce features carefully because you will have to live with them forever. Also I thought there was a section in RFSM about breakage. That was Rule #1 at UserLand. We didn't always live up to it. About dogfood:  I don't eat dog food, I'm a human. 2. It says we think of our users as pets, that's not rational or productive. However I do very strongly believe you have to use what you create, because you won't understand what users say unless you are one yourself. 
+
+<br> 
+
+<http://scripting.com/2025/04/04.html#a134727>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-04, from: Dave Winer's Scripting News)
+
+Just tried an <a href="https://chatgpt.com/share/67efabbd-1758-8012-a19b-a912cd72944a">experiment</a>, I asked ChatGPT to review <a href="https://en.wikipedia.org/wiki/ActivityPub">ActivityPub</a> re <a href="https://this.how/standards/">Rules for Standards-makers</a>. I totally concurred with its conclusions. In any case, it illustrates how ChatGPT can be helpful in designing new formats and protocols, making them more supportable and more useful for interop, which according to Rule 1, is the only reason we make standards. 
+
+<br> 
+
+<http://scripting.com/2025/04/04.html#a131728>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-04, from: Miguel de Icaza Mastondon feed)
+
+<p>Pretty psyched with our one-click publish game to the web.</p><p>Now, @clancey.bsky.social added automatic virtual game controllers, so your games don’t need custom code to work on mobile devices, we will provide one for you.</p><p>(He replicated the iOS feature for wasm deployments):</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114279851908488891>
+
+---
+
+## Stickerbombed: Google Pixel Tablet
+
+date: 2025-04-04, from: mrusme blog
+
+A tablet is not only a tool but also a canvas. I take great pleasure in
+personalizing my tools to function and look the way I want them to. 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/stickerbombed-google-pixel-tablet/>
 
 ---
 
@@ -100,7 +381,7 @@ date: 2025-04-04, updated: 2025-04-03, from: Bruce Schneier blog
 
 ---
 
-## Additional small reasons for modest optimism
+## This week's small reasons for modest optimism
 
 date: 2025-04-04, from: Robert Reich's blog
 
@@ -572,6 +853,20 @@ starting to question whether these billionaires are looking out for me and my fa
 <br> 
 
 <https://bsky.app/profile/sixfoot6.bsky.social/post/3llw5yhdjl226>
+
+---
+
+## April 2, 2025
+
+date: 2025-04-03, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160579758/3a7f629bc6ecd092ed2a82ded6c59755.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160579758/3a7f629bc6ecd092ed2a82ded6c59755.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-2-2025>
 
 ---
 

@@ -1,11 +1,153 @@
 ---
 title: home
-updated: 2025-04-04 06:07:45
+updated: 2025-04-04 14:09:46
 ---
 
 # home
 
-(date: 2025-04-04 06:07:45)
+(date: 2025-04-04 14:09:46)
+
+---
+
+## Ford Recalls 33,000+ Vehicles Over Potential Engine Fire Risk
+
+date: 2025-04-04, from: Family Handyman Blog
+
+<p>Ford recently announced that they're recalling tens of thousands of vehicles due to the risk of an engine fire. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/ford-bronco-escape-engine-fire-recall/">Ford Recalls 33,000+ Vehicles Over Potential Engine Fire Risk</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/ford-bronco-escape-engine-fire-recall/>
+
+---
+
+## 8 Genius Ways to Store Backpacks in a Small Apartment
+
+date: 2025-04-04, from: Family Handyman Blog
+
+<p>Say goodbye to the pile of backpacks on the floor with these apartment backpack storage ideas—from simple hooks to repurposed lockers!</p>
+<p>The post <a href="https://www.familyhandyman.com/list/backpack-storage-ideas/">8 Genius Ways to Store Backpacks in a Small Apartment</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/backpack-storage-ideas/>
+
+---
+
+## Deep Clean Your Dyson Vacuum in 12 Easy Steps
+
+date: 2025-04-04, from: Family Handyman Blog
+
+<p>From filter to canister, this project reveals everything you need to know about how to clean a Dyson vacuum so it performs at its peak.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-clean-dyson-vacuum/">Deep Clean Your Dyson Vacuum in 12 Easy Steps</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-clean-dyson-vacuum/>
+
+---
+
+## California FFA State Leadership Conference: Secretary Karen Ross speaks to future agricultural leaders
+
+date: 2025-04-04, from: Calfifornia Dept. Aggriculture blog
+
+On Thursday night April 3,&#160;CDFA Secretary Karen Ross&#160;addressed California FFA students at the Golden 1 Center in Sacramento, delivering an inspiring message about the power of teamwork, innovation, and the role of FFA in shaping the future of agriculture. More &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28837">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28837>
+
+---
+
+## The Secret Powers of Your Key Fob You Need to Know
+
+date: 2025-04-04, from: Family Handyman Blog
+
+<p>"Manufacturers are tasking key fobs with a multitude of functions that make the car—and the key fob—more useful than ever."</p>
+<p>The post <a href="https://www.familyhandyman.com/article/secret-powers-of-your-key-fob/">The Secret Powers of Your Key Fob You Need to Know</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/secret-powers-of-your-key-fob/>
+
+---
+
+## Asking $4.5M, This Huge, Historic San Francisco Victorian Is a Rare Find
+
+date: 2025-04-04, from: Dwell
+
+The fully detached home—with front and back patios—was built in 1872, and it’s still packed with period detail after a top to bottom revamp. 
+
+<br> 
+
+<https://www.dwell.com/article/san-francisco-victorian-renovation-edward-leodore-mayberry-real-estate-8c538e9b>
+
+---
+
+## What the Roaches in My Rent-Stabilized Apartment Taught Me About the Housing Crisis
+
+date: 2025-04-04, from: Dwell
+
+In my fight against infestation, I realized that no man is an island, least of all in the New York City rental market. 
+
+<br> 
+
+<https://www.dwell.com/article/what-the-roaches-in-my-rent-stabilized-apartment-taught-me-about-the-housing-crisis-2c517efd>
+
+---
+
+## Before & After: She Renovated Her Austin Home With an Unusually Specific Aesthetic
+
+date: 2025-04-04, from: Dwell
+
+The nondescript 2000s residence now channels Belgian minimalism with luxe finishes like plaster and marble. 
+
+<br> 
+
+<https://www.dwell.com/article/before-and-after-belgian-modern-north-arrow-studio-family-renovation-0791907a>
+
+---
+
+## 23 of the Best Evergreen Magnolia Varieties
+
+date: 2025-04-04, from: The Gardener's Path
+
+<p>If you want to be able to enjoy your magnolia in all its glory year-round, you need an evergreen type. There are three common species that can remain evergreen all year long so you can enjoy the glorious leaves even in the winter. Learn about 23 of the best evergreen magnolias in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/landscape-trees/best-evergreen-magnolias/">23 of the Best Evergreen Magnolia Varieties</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/landscape-trees/best-evergreen-magnolias/>
+
+---
+
+## Can the Malibu Mansion Kanye Ruined Be Saved? Plus, Everything Else You Need to Know About This Week
+
+date: 2025-04-04, from: Dwell
+
+In the news: An Icelandic wheelchair ramp project sets a new precedent for accessibility, Rocket Co.’s buying spree to control the housing market, L.A.’s newest plan to turn offices into housing, and more. 
+
+<br> 
+
+<https://www.dwell.com/article/kanye-sells-malibu-home-tadao-ando-los-angeles-office-buildings-turned-into-housing-fdaa34d9>
+
+---
+
+## Why We Need the Nation’s First Public Housing Museum
+
+date: 2025-04-04, from: Dwell
+
+Opening this week in Chicago, the National Public Housing Museum wants to reinvigorate our interest in collective well-being by tackling dominant narratives—of crime, poverty, and eventual destruction—head on. 
+
+<br> 
+
+<https://www.dwell.com/article/national-public-housing-museum-chicago-ff1805f0>
 
 ---
 
@@ -407,11 +549,11 @@ date: 2025-04-02, from: The Gardener's Path
 
 ---
 
-## How They Pulled It Off: A 48-Foot Glass Hallway Joins a Pair of 200-Year-Old Homes
+## How They Pulled It Off: A 48-Foot Glass Hallway Joins a Pair of Historic Homes
 
 date: 2025-04-02, from: Dwell
 
-In New Orleans, design firm Mason Ros came up with a gallery-like addition that links an 1830s-era Creole cottage to its next-door neighbor. 
+In New Orleans, design firm Mason Ros came up with a gallery-like addition that links an 1830s-era Creole cottage to a neighboring shotgun. 
 
 <br> 
 
@@ -682,6 +824,18 @@ This was once the home of playwright Eugene O'Neill as well as photographer Joel
 
 ---
 
+## A Southern Utah Sanctuary Between Three National Parks Asks $8M
+
+date: 2025-04-01, from: Dwell
+
+Enjoy a saltwater pool and spa, gym, infrared sauna, and hiking trails aplenty. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-solente-washington-real-estate-c52bf505>
+
+---
+
 ## In Los Angeles, a Modern Farmhouse With an ADU and Pickleball Court Seeks $8.9M
 
 date: 2025-04-01, from: Dwell
@@ -823,6 +977,18 @@ date: 2025-04-01, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/vegetables/grow-winged-beans/>
+
+---
+
+## Ask an Expert: A Guide for Choosing the Right Windows and Doors With Your Builder
+
+date: 2025-04-01, from: Dwell
+
+General contractor Brad Leavitt gives us insights into the biggest considerations homeowners might be overlooking. 
+
+<br> 
+
+<https://www.dwell.com/article/ask-an-expert-guide-to-choosing-windows-and-doors-marvin-9f0d60dc>
 
 ---
 

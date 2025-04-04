@@ -1,11 +1,53 @@
 ---
 title: writing
-updated: 2025-04-04 06:07:43
+updated: 2025-04-04 14:09:45
 ---
 
 # writing
 
-(date: 2025-04-04 06:07:43)
+(date: 2025-04-04 14:09:45)
+
+---
+
+## Majestic Screenwriting Takeaways from ‘Death of a Unicorn’
+
+date: 2025-04-04, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/majestic-screenwriting-takeaways-from-death-of-a-unicorn" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Paul%20Rudd%20and%20Jenna%20Ortega%20in%20Death%20of%20a%20Unicorn.png" alt="Paul Rudd sits in the driver's seat as Jenna Ortega sits next to him. Wearing shocked expressions they glance behind in 'Death of a Unicorn'" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Unicorns are real. They’ve been hiding in folklore and, until recently, they have remained undiscovered in the mountain wilderness of Canada. That’s the idea behind the latest A24 dark-comedy <em>Death of a Unicorn</em> starring Paul Rudd and Jenna Ortega, who accidentally hit a unicorn while driving to the remote house of the CEO of a pharmaceutical company.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/majestic-screenwriting-takeaways-from-death-of-a-unicorn>
+
+---
+
+## The Black Orb by Ewhan Kim: Review by Ian Mond
+
+date: 2025-04-04, from: Locus Magazine
+
+<p><strong>The Black Orb</strong>, Ewhan Kim (Serpent’s Tail 978-1-80081-572-8, £14.99, 368pp, tp) August 2024. (Mira 978-0-77838-734-8, $28.99, 304pp, tp) February 2025.</p>
+<p>There’s little written in English about South Korean science fiction author and critic Ewhan Kim. A brief profile of Kim written by the author on the ‘‘Science Fiction Writers Union of the Republic of Korea’’ tells us he became ‘‘a writer after reading Bradbury’s <strong>The Martian Chronicles</strong>’’ and  <a href="https://locusmag.com/2025/04/the-black-orb-by-ewhan-kim-review-by-ian-mond/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/the-black-orb-by-ewhan-kim-review-by-ian-mond/>
+
+---
+
+## Brooks Steps Back
+
+date: 2025-04-04, from: Locus Magazine
+
+<p>Bestselling fantasy writer Terry Brooks announced his semi-retire­ment from writing in a post on his website and social media March 8, 2025. He also announced that author Delilah Dawson will become his co-author on the Shannara series going forward.</p>
+<p>Brooks wrote,</p>
+<p>Let’s start with a few life facts that I have come to accept and just recently decided to address. I am now eighty-one years old. I have been writing  <a href="https://locusmag.com/2025/04/brooks-steps-back/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/brooks-steps-back/>
 
 ---
 

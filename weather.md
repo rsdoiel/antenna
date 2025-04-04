@@ -1,11 +1,215 @@
 ---
 title: weather
-updated: 2025-04-04 06:07:43
+updated: 2025-04-04 14:09:44
 ---
 
 # weather
 
-(date: 2025-04-04 06:07:43)
+(date: 2025-04-04 14:09:44)
+
+---
+
+## SPC MD 397
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0397.html"><img src="https://www.spc.noaa.gov/products/md/mcd0397.png" border="1" alt="MD 0397 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0397
+NWS Storm Prediction Center Norman OK
+0333 PM CDT Fri Apr 04 2025
+
+Areas affected...Northeast TX...southeast OK...western AR
+
+Concerning...Tornado Watch 113...114...
+
+Valid 042033Z - 042200Z
+
+The severe weather threat for Tornado Watch 113, 114 continues.
+
+SUMMARY...Maturing supercells will pose an increasing tornado threat
+this afternoon.
+
+DISCUSSION...Multiple supercells have developed over the last hour
+across northeast TX, in the immediate vicinity of a slow-moving cold
+front that extends from southeast OK into central TX. The 18Z SHV
+sounding is representative of the environment across the region,
+with very rich low-level moisture, large to extreme MLCAPE,
+deep-layer shear sufficient for supercells, and a rather strong
+low-level jet. 
+
+A corridor of increasing short-term tornado threat is evident from
+northeast TX into far southeast OK and western AR, where locally
+backed surface winds are resulting in 0-1 km SRH of 150-250 m2/s2.
+This combination of favorable buoyancy, boundary-layer moisture, and
+relatively strong low-level shear/SRH will support an increasing
+tornado threat with any sustained supercells, including significant
+(EF2+) tornado potential. Large hail and damaging winds could also
+accompany the strongest cells.
+
+..Dean.. 04/04/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...LZK...SHV...TSA...FWD...
+
+LAT...LON   31889648 32739620 33549548 34629455 35499358 35179295
+            34369299 32779455 31879567 31889648 
+
+MOST PROBABLE PEAK TORNADO INTENSITY...120-150 MPH
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...2.00-3.50 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0397.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0397.html>
+
+---
+
+## SPC MD 396
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/md/md0396.html"><img src="https://www.spc.noaa.gov/products/md/mcd0396.png" border="1" alt="MD 0396 Image" hspace="1" vspace="1" width="815" height="611" align="center" /></a><pre>
+
+Mesoscale Discussion 0396
+NWS Storm Prediction Center Norman OK
+0329 PM CDT Fri Apr 04 2025
+
+Areas affected...southern Kentucky and northern Tennessee
+
+Concerning...Severe potential...Watch possible 
+
+Valid 042029Z - 042300Z
+
+Probability of Watch Issuance...60 percent
+
+SUMMARY...Thunderstorms are expected to increase in coverage and
+intensity through the afternoon across the area.  Convective trends
+will be monitored for the possibility of a watch.
+
+DISCUSSION...Warm sector convection has slowly deepened with time
+with some intensification of cells as they cross over the stationary
+front in southeastern Kentucky.  Updraft intensity so far has been
+muted by a warm layer around 700 mb, but additional destabilization
+and subtle height falls into the evening should result in more
+robust updraft development over the next few hours.  Modest
+low-level shear (per local VWPs) should support some tornado
+potential, especially along the surface boundary, but damaging winds
+and hail should be the primary threats with the strongest storms. 
+With storm motion predominantly to the northeast, storms will
+eventually cross to the cool side of the boundary, resulting in hail
+being the primary threat and eventual weakening of storms.  The
+coverage and intensity of storms will be monitored regarding the
+need for a watch.
+
+..Jirak/Thompson.. 04/04/2025
+
+...Please see www.spc.noaa.gov for graphic product...
+
+ATTN...WFO...MRX...JKL...LMK...OHX...PAH...
+
+LAT...LON   37248698 37718627 37888512 37818426 37738321 37458279
+            36968283 36528334 36298384 36118467 36038531 36018635
+            36118697 36148701 36438723 37248698 
+
+MOST PROBABLE PEAK TORNADO INTENSITY...85-115 MPH
+MOST PROBABLE PEAK WIND GUST...55-70 MPH
+MOST PROBABLE PEAK HAIL SIZE...1.00-1.75 IN
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/md/md0396.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/md0396.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 117 Status Reports
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0117.html"><img src="https://www.spc.noaa.gov/products/watch/ww0117_radar.gif" border="1" alt="WW 0117 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS FOR WATCH 0117 HAS NOT BEEN ISSUED YET
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0117.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0117.html>
+
+---
+
+## SPC Severe Thunderstorm Watch 117
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0117.html"><img src="https://www.spc.noaa.gov/products/watch/ww0117_radar.gif" border="1" alt="WW 0117 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Severe Thunderstorm Watch Number 117
+NWS Storm Prediction Center Norman OK
+500 PM EDT Fri Apr 4 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Severe Thunderstorm Watch for portions of 
+  South central and southeast Kentucky
+
+* Effective this Friday afternoon and evening from 500 PM until
+  1000 PM EDT.
+
+* Primary threats include...
+  Scattered large hail and isolated very large hail events to 2
+    inches in diameter possible
+  Scattered damaging wind gusts to 70 mph possible
+
+SUMMARY...Isolated warm sector supercells will persist through the
+afternoon/evening with the potential to produce large hail of 1-2
+inches in diameter and isolated damaging gusts of 60-70 mph.
+
+The severe thunderstorm watch area is approximately along and 40
+statute miles north and south of a line from 35 miles west northwest
+of Bowling Green KY to 25 miles south southeast of Jackson KY. For a
+complete depiction of the watch see the associated watch outline
+update (WOUS64 KWNS WOU7).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Severe Thunderstorm Watch means conditions are
+favorable for severe thunderstorms in and close to the watch area.
+Persons in these areas should be on the lookout for threatening
+weather conditions and listen for later statements and possible
+warnings. Severe thunderstorms can and occasionally do produce
+tornadoes.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 113...WW 114...WW
+115...WW 116...
+
+AVIATION...A few severe thunderstorms with hail surface and aloft to
+2 inches. Extreme turbulence and surface wind gusts to 60 knots. A
+few cumulonimbi with maximum tops to 500. Mean storm motion vector
+25025.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0117.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0117.html>
 
 ---
 
@@ -18,6 +222,952 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC Tornado Watch 113
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0113.html"><img src="https://www.spc.noaa.gov/products/watch/ww0113_radar.gif" border="1" alt="WW 0113 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 113
+NWS Storm Prediction Center Norman OK
+1255 PM CDT Fri Apr 4 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Southwest, central and northern Arkansas
+  Extreme northwest Louisiana
+  Extreme southeast Oklahoma
+  Northeast Texas
+
+* Effective this Friday afternoon and evening from 1255 PM until
+  900 PM CDT.
+
+* Primary threats include...
+  Several tornadoes and a couple intense tornadoes likely
+  Widespread large hail and scattered very large hail events to
+    2.5 inches in diameter likely
+  Scattered damaging winds likely with isolated significant gusts
+    to 75 mph possible
+
+SUMMARY...Supercell development is expected along a surface front
+and into the warm sector this afternoon from northeast Texas
+northeastward into Arkansas.  The storm environment will support the
+potential for a few strong (EF2-EF3) tornadoes, very large hail to
+2.5 inches in diameter, and damaging gusts up to 75 mph as storms
+congeal into multiple clusters later this afternoon.
+
+The tornado watch area is approximately along and 75 statute miles
+east and west of a line from 50 miles east northeast of Flippin AR
+to 60 miles south southwest of Texarkana AR. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU3).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 2.5 inches. Extreme turbulence and surface wind
+gusts to 65 knots. A few cumulonimbi with maximum tops to 550. Mean
+storm motion vector 23035.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0113.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0113.html>
+
+---
+
+## SPC Tornado Watch 113 Status Reports
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0113.html"><img src="https://www.spc.noaa.gov/products/watch/ww0113_radar.gif" border="1" alt="WW 0113 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 113
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..LYONS..04/04/25
+
+ATTN...WFO...LZK...SHV...
+
+
+STATUS REPORT FOR WT 113 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ARC005-009-013-019-023-025-027-029-039-045-049-051-053-057-059-
+061-063-065-067-069-071-073-075-081-083-085-089-091-097-099-101-
+103-105-109-113-115-117-119-121-125-127-129-133-135-137-141-145-
+147-149-042140-
+
+AR 
+.    ARKANSAS COUNTIES INCLUDED ARE
+
+BAXTER               BOONE               CALHOUN             
+CLARK                CLEBURNE            CLEVELAND           
+COLUMBIA             CONWAY              DALLAS              
+FAULKNER             FULTON              GARLAND             
+GRANT                HEMPSTEAD           HOT SPRING          
+HOWARD               INDEPENDENCE        IZARD               
+JACKSON              JEFFERSON           JOHNSON             
+LAFAYETTE            LAWRENCE            LITTLE RIVER        
+LOGAN                LONOKE              MARION              
+MILLER               MONTGOMERY          NEVADA              
+NEWTON               OUACHITA            PERRY               
+PIKE                 POLK                POPE                
+PRAIRIE              PULASKI             RANDOLPH            
+SALINE               SCOTT               SEARCY              
+SEVIER               SHARP               STONE               
+VAN BUREN            WHITE               WOODRUFF            
+YELL                 
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0113.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0113.html>
+
+---
+
+## SPC Tornado Watch 114 Status Reports
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0114.html"><img src="https://www.spc.noaa.gov/products/watch/ww0114_radar.gif" border="1" alt="WW 0114 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 114
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..LYONS..04/04/25
+
+ATTN...WFO...FWD...HGX...
+
+
+STATUS REPORT FOR WT 114 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+TXC001-041-051-145-161-185-213-225-289-293-313-331-349-395-455-
+467-471-042140-
+
+TX 
+.    TEXAS COUNTIES INCLUDED ARE
+
+ANDERSON             BRAZOS              BURLESON            
+FALLS                FREESTONE           GRIMES              
+HENDERSON            HOUSTON             LEON                
+LIMESTONE            MADISON             MILAM               
+NAVARRO              ROBERTSON           TRINITY             
+VAN ZANDT            WALKER              
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0114.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0114.html>
+
+---
+
+## SPC Tornado Watch 115
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0115.html"><img src="https://www.spc.noaa.gov/products/watch/ww0115_radar.gif" border="1" alt="WW 0115 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 115
+NWS Storm Prediction Center Norman OK
+255 PM CDT Fri Apr 4 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Northeast Arkansas
+  Extreme southern Illinois
+  Western Kentucky
+  Southeast Missouri
+  Norhern Mississippi
+  Western and Middle Tennessee
+
+* Effective this Friday afternoon and evening from 255 PM until
+  1000 PM CDT.
+
+* Primary threats include...
+  A few tornadoes likely with a couple intense tornadoes possible
+  Scattered damaging winds likely with isolated significant gusts
+    to 75 mph possible
+  Scattered large hail likely with isolated very large hail events
+    to 2 inches in diameter possible
+
+SUMMARY...Widely scattered supercell development is expected this
+afternoon from northern Mississippi across western/Middle Tennessee
+into western Kentucky.  The storm environment supports the potential
+for several tornadoes (including an isolated strong tornado), large
+hail up to 2 inches in diameter, and isolated damaging gusts.  The
+potential for damaging winds up to 75 mph will increase later this
+evening into early tonight as storm clusters spread into southeast
+Missouri from Arkansas.
+
+The tornado watch area is approximately along and 80 statute miles
+east and west of a line from 30 miles east northeast of Paducah KY
+to 25 miles south southwest of Memphis TN. For a complete depiction
+of the watch see the associated watch outline update (WOUS64 KWNS
+WOU5).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 113...WW 114...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 2 inches. Extreme turbulence and surface wind
+gusts to 65 knots. A few cumulonimbi with maximum tops to 550. Mean
+storm motion vector 24025.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0115.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0115.html>
+
+---
+
+## SPC Tornado Watch 114
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0114.html"><img src="https://www.spc.noaa.gov/products/watch/ww0114_radar.gif" border="1" alt="WW 0114 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 114
+NWS Storm Prediction Center Norman OK
+225 PM CDT Fri Apr 4 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  East central and southeast Texas
+
+* Effective this Friday afternoon and evening from 225 PM until
+  900 PM CDT.
+
+* Primary threats include...
+  A few tornadoes possible
+  Scattered large hail and isolated very large hail events to 2.5
+    inches in diameter likely
+  Scattered damaging wind gusts to 70 mph possible
+
+SUMMARY...Thunderstorms will intensify along and east of a
+slow-moving front across east and southeast Texas through the
+afternoon/evening.  The storm environment will favor supercells
+capable of producing isolated very large hail (up to 2.5 inches in
+diameter), damaging gusts of 60-70 mph, and a few tornadoes.
+
+The tornado watch area is approximately along and 60 statute miles
+east and west of a line from 20 miles north northeast of Longview TX
+to 35 miles west southwest of College Station TX. For a complete
+depiction of the watch see the associated watch outline update
+(WOUS64 KWNS WOU4).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 113...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 2.5 inches. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 600. Mean
+storm motion vector 22030.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0114.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0114.html>
+
+---
+
+## SPC Tornado Watch 115 Status Reports
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0115.html"><img src="https://www.spc.noaa.gov/products/watch/ww0115_radar.gif" border="1" alt="WW 0115 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 115
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..LYONS..04/04/25
+
+ATTN...WFO...MEG...PAH...OHX...
+
+
+STATUS REPORT FOR WT 115 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ARC021-031-035-037-055-077-093-107-111-123-042140-
+
+AR 
+.    ARKANSAS COUNTIES INCLUDED ARE
+
+CLAY                 CRAIGHEAD           CRITTENDEN          
+CROSS                GREENE              LEE                 
+MISSISSIPPI          PHILLIPS            POINSETT            
+ST. FRANCIS          
+
+
+ILC003-069-087-127-151-153-181-042140-
+
+IL 
+.    ILLINOIS COUNTIES INCLUDED ARE
+
+ALEXANDER            HARDIN              JOHNSON             
+MASSAC               POPE                PULASKI             
+UNION                
+
+
+KYC007-033-035-039-047-055-075-083-105-107-139-143-145-157-177-
+219-221-042140-
+
+KY 
+.    KENTUCKY COUNTIES INCLUDED ARE
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0115.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0115.html>
+
+---
+
+## SPC Tornado Watch 116
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ww0116.html"><img src="https://www.spc.noaa.gov/products/watch/ww0116_radar.gif" border="1" alt="WW 0116 Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+URGENT - IMMEDIATE BROADCAST REQUESTED
+Tornado Watch Number 116
+NWS Storm Prediction Center Norman OK
+345 PM CDT Fri Apr 4 2025
+
+The NWS Storm Prediction Center has issued a
+
+* Tornado Watch for portions of 
+  Exteme west central Arkansas
+  Extreme east central Oklahoma
+
+* Effective this Friday afternoon and evening from 345 PM until
+  900 PM CDT.
+
+* Primary threats include...
+  A few tornadoes and a couple intense tornadoes possible
+  Scattered large hail and isolated very large hail events to 2
+    inches in diameter possible
+  Scattered damaging wind gusts to 70 mph possible
+
+SUMMARY...Supercells along a stalled front will move into the area
+of east central Oklahoma and west central Arkansas (close to Fort
+Smith) just to the west of the earlier tornado watch to the east in
+Arkansas.  A couple of tornadoes, including the chance for a strong
+tornado, large hail and wind damage will all be possible this
+afternoon/evening before the storms shift farther east into
+Arkansas.
+
+The tornado watch area is approximately along and 20 statute miles
+east and west of a line from 40 miles northeast of Fort Smith AR to
+40 miles south southwest of Poteau OK. For a complete depiction of
+the watch see the associated watch outline update (WOUS64 KWNS
+WOU6).
+
+PRECAUTIONARY/PREPAREDNESS ACTIONS...
+
+REMEMBER...A Tornado Watch means conditions are favorable for
+tornadoes and severe thunderstorms in and close to the watch
+area. Persons in these areas should be on the lookout for
+threatening weather conditions and listen for later statements
+and possible warnings.
+
+&&
+
+OTHER WATCH INFORMATION...CONTINUE...WW 113...WW 114...WW 115...
+
+AVIATION...Tornadoes and a few severe thunderstorms with hail
+surface and aloft to 2 inches. Extreme turbulence and surface wind
+gusts to 60 knots. A few cumulonimbi with maximum tops to 550. Mean
+storm motion vector 22040.
+
+...Thompson
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ww0116.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ww0116.html>
+
+---
+
+## SPC Tornado Watch 116 Status Reports
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/watch/ws0116.html"><img src="https://www.spc.noaa.gov/products/watch/ww0116_radar.gif" border="1" alt="WW 0116 Status Image" hspace="1" vspace="1" width="525" height="459" align="center" /></a><pre>
+
+STATUS REPORT ON WW 116
+
+THE SEVERE WEATHER THREAT CONTINUES ACROSS THE ENTIRE WATCH AREA.
+
+..LYONS..04/04/25
+
+ATTN...WFO...TSA...
+
+
+STATUS REPORT FOR WT 116 
+
+SEVERE WEATHER THREAT CONTINUES FOR THE FOLLOWING AREAS 
+
+ARC047-131-042140-
+
+AR 
+.    ARKANSAS COUNTIES INCLUDED ARE
+
+FRANKLIN             SEBASTIAN           
+
+
+OKC079-042140-
+
+OK 
+.    OKLAHOMA COUNTIES INCLUDED ARE
+
+LE FLORE             
+
+
+THE WATCH STATUS MESSAGE IS FOR GUIDANCE PURPOSES ONLY.  PLEASE
+REFER TO WATCH COUNTY NOTIFICATION STATEMENTS FOR OFFICIAL
+INFORMATION ON COUNTIES...INDEPENDENT CITIES AND MARINE ZONES
+CLEARED FROM SEVERE THUNDERSTORM AND TORNADO WATCHES.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/watch/ws0116.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/ws0116.html>
+
+---
+
+## SPC Apr 4, 2025 2000 UTC Day 1 Convective Outlook
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0259 PM CDT Fri Apr 04 2025
+
+Valid 042000Z - 051200Z
+
+...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS ARKLATEX TO
+SOUTHEAST MISSOURI...
+
+...SUMMARY...
+Several clusters of severe storms are expected from central Texas
+across the ArkLaTex and into the lower Ohio Valley through tonight.
+The greatest threat for tornadoes, large hail and damaging winds
+will be from the ArkLaTex across western Arkansas into southeast
+Missouri, including potential for strong to potentially intense
+tornadoes.
+
+...20z Update...
+Morning and early afternoon observations show the frontal zone
+gradually expanding north/northwest from the ArkLaTex to the mid MS
+and lower OH Valleys. As strong mid-level flow overlaps with the
+destabilizing air mass, several clusters of severe thunderstorms
+appear are ongoing and are likely to continue, with a risk for all
+hazards into tonight. Minor changes were made to the northern end of
+the outlook area, in accordance with the latest
+observations/guidance.
+
+...ArkLaTex...
+The primary surface-based convective band, forming along and east of
+the surface front from northeast TX to southern AR should continue
+intensify with several supercells likely emerging and tracking
+through the MDT Risk Corridor. Additional, more isolated storms are
+possible within a pre-frontal confluence axis and across the warm
+sector this afternoon. The 18z SHV and LZK soundings show very
+favorable thermodynamic profiles, with considerable low-level
+hodograph curvature (ESRH 330-500 m2/s2) and deep-layer shear
+supportive for intense supercells. With observed and forecast STP of
+5+, several tornadoes, some of which may be strong to intense appear
+likely into this evening. The primary limiting factor for higher
+probabilities continues to be the more meridional and front parallel
+flow near the baroclinic zone. The numerous storm interactions
+should favor upscale growth as a QLCS gradually emerges later this
+afternoon/evening.
+
+...Lower OH and TN valley...
+Weak convective development within the broader warm sector has been
+noted early this afternoon across parts of TN and southern KY.
+Strong diurnal heating amid 70s F surface dewpoints and steep
+low-level lapse rates may allow these storms to slowly intensify
+through the afternoon. Displaced from the deeper ascent near the
+front, storm coverage and organization are expected to be somewhat
+less than farther southwest. Still, 40+ kt of effective shear with
+modestly large clockwise curved hodographs suggests some potential
+for supercellular activity, with a risk for damaging gusts, hail,
+and a couple tornadoes.
+
+The greater severe concern is expected later tonight as upscale
+growth from the convection over the MS Valley moves eastward. A QLCS
+with embedded supercellular elements appears likely across parts of
+western KY and TN into central KY and southern OH. Damaging gusts
+and tornadoes are expected. Given the robust destabilization now
+ongoing south of the warm front, have opted to expand the SLGT and
+the ENH farther east across KY and TN for a damaging wind and
+tornado threat.
+
+...West TX...
+Model guidance continues to show a broad area of elevated convection
+developing after dark. Significant hail and some damaging winds are
+possible with elevated supercells tracking north from the Edwards
+Plateau toward the Red River tonight.
+
+..Lyons.. 04/04/2025
+
+.PREV DISCUSSION... /ISSUED 1129 AM CDT Fri Apr 04 2025/
+
+...ArkLaTex to the lower OH Valley through tonight...
+An amplified midlevel trough over the Southwest will move slowly
+eastward, while embedded/subtle speed maxima eject northeastward
+over the southern Plains.  Additionally, large-scale ascent will be
+enhanced within the right-entrance region of the upper jet over the
+upper Midwest.  At the surface, a baroclinic zone is expected to
+move northward today across AR/western TN/KY in response to a weak
+wave developing northeastward from northeast TX toward northwest AR
+this afternoon and southeast MO tonight.  The depth of the cool air
+at LZK diminished substantially from 00z to 12z, which supports
+northward mixing of the front and warm sector this afternoon.
+
+Within the surface warm sector, a very moist air mass is in place
+with low 70s boundary-layer dewpoints beneath midlevel lapse rates
+of 7.5-8.5 C/km.  Daytime heating in cloud breaks will contribute to
+MLCAPE of 2000-3000 J/kg and weakening convective inhibition by
+early-mid afternoon, when thunderstorm development is expected both
+along the surface front and in the open warm sector.  Storm
+development will be most concentrated along the front where ascent
+will be focused and training storms are likely.  More isolated
+storms will also be possible farther east in the warm sector from AR
+into western TN/KY by mid-late afternoon.  Deep-layer vertical
+shear/hodograph length will be favorable for supercells, with
+substantial low-level hodograph curvature (effective SRH near or
+above 300 m2/s2, especially near and just southeast of the front in
+AR).  Given the fairly strong low-level shear and a relatively moist
+environment in the low levels, supercells will be capable of
+producing a few strong (EF2-EF3) tornadoes this afternoon into this
+evening in the Moderate risk area.  Otherwise, very large hail to
+baseball size and damaging gusts will be possible with the
+supercells and embedded/organized storm clusters training along the
+baroclinic zone.  North of the front, organized storms will be
+capable of producing large hail and occasional damaging gusts.
+
+...Edwards Plateau to north TX late tonight...
+Similar to the previous two nights, another round of elevated
+thunderstorms is expected near and after 06z from the Edwards
+Plateau into north TX and perhaps southeast OK.  The storm
+environment will be favorable for both elevated supercells with very
+large hail and bowing clusters with some potential for damaging
+winds to the surface.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
+
+---
+
+## SPC Apr 4, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 3 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0229 PM CDT Fri Apr 04 2025
+
+Valid 061200Z - 071200Z
+
+...THERE IS A SLIGHT RISK OF SEVERE THUNDERSTORMS ACROSS PARTS OF
+THE SOUTHEAST AND SOUTHERN APPALACHIANS...
+
+...SUMMARY...
+A wind-damage and isolated tornado threat will be likely on Sunday
+across parts of the Southeast and southern Appalachians. Marginally
+severe wind gusts will also be possible in parts of the southern
+Appalachians, Carolinas, and Mid-Atlantic.
+
+...Synopsis...
+A mid-level jet streak will shift east from the ArkLaTex to the
+Appalachians during the day Sunday with some amplification of the
+broader scale mid-level trough by the end of the period. A surface
+front will also shift east through the period with a weak surface
+low forecast to move along this boundary from MS/AL Sunday morning
+to the Carolinas by Sunday night. A moist airmass will be in place
+ahead of this front which should result in some severe weather
+threat from southeast Mississippi to Georgia and the Florida
+Panhandle. 
+
+...Southeast/Southern Appalachians...
+A line of thunderstorms will be ongoing at the beginning of the
+period from eastern Tennessee to southeast Louisiana. Instability
+should be relatively weak ahead of this line Sunday morning except
+for where upper 60s to low 70s dewpoints remain. This will initially
+be from central Alabama southward and perhaps expanding into parts
+of northern Georgia during the afternoon. Expansive cloudcover in a
+moist/weak lapse rate environment should limit additional
+destabilization. However, there should be sufficient instability for
+maintaining ongoing convection, potentially with some embedded
+supercells. Severe wind gusts and a tornado or two will be the
+primary threat. 
+
+...Southern Appalachians/Carolinas/Mid-Atlantic...
+A large MCS will likely be ongoing west of the Appalachians at the
+beginning of the period. The combination of the terrain, and a drier
+airmass along and east of the Appalachians will likely result in
+this line of storms weakening on Sunday morning. Some moistening and
+at least marginal heating through the cloud cover could result in
+some weak destabilization east of the Appalachians. A few strong to
+isolated severe storms will be possible from the Carolinas into the
+Mid-Atlantic as a mid-level jet streak overspreads the region and
+the low-level jet intensifies.
+
+..Bentley.. 04/04/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
+
+---
+
+## SPC Day 2 Fire Weather Outlook
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Fire Weather Outlook  
+NWS Storm Prediction Center Norman OK
+0147 PM CDT Fri Apr 04 2025
+
+Valid 051200Z - 061200Z
+
+...NO CRITICAL AREAS...
+
+Locally elevated conditions are possible on western/central portions
+of the Florida Peninsula, where southeast sustained winds of 10-15
+mph, minimum RH of 30-45%, and temperatures in the 80s to low 90s
+are expected. Additionally, ERCs range from the 60th to 90th
+percentiles with KBDIs of 600-750 on the peninsula. Some cloud cover
+will help mitigate the pre-frontal fire environment, but the
+warming/drying trend will continue.
+
+..Nauslar.. 04/04/2025
+
+.PREV DISCUSSION... /ISSUED 0147 AM CDT Fri Apr 04 2025/
+
+...Synopsis...
+A deep mid-level shortwave trough over the western CONUS will slowly
+move eastward during the day on Saturday. Precipitation accompanying
+this trough is expected to fall across parts of the southern Rockies
+as well as the southern Plains, which should keep fire concerns
+minimal.
+
+...Please see www.spc.noaa.gov/fire for graphic product...
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
+
+---
+
+## SPC Apr 4, 2025 1730 UTC Day 2 Convective Outlook
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 2 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1213 PM CDT Fri Apr 04 2025
+
+Valid 051200Z - 061200Z
+
+...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FROM EAST TEXAS
+TO MIDDLE TENNESSEE...
+
+...SUMMARY...
+Severe storms, capable of producing damaging wind gusts, large hail
+and several tornadoes are expected from Saturday into Saturday night
+from the Sabine River Valley northeastward into the lower to mid
+Mississippi and Ohio Valleys. Strong tornadoes, very large hail, and
+severe gusts above 70 mph will be possible in parts of the lower to
+mid Mississippi Valley.
+
+...Synopsis...
+A mid-level jet streak, situated near the southern axis of the
+mid-level trough across northern New Mexico will shift northeastward
+through the day and will be centered over Arkansas by 12Z Sunday. An
+elongated surface frontal zone will run parallel to this deep-layer
+flow from South Texas to the Mid-Mississippi Valley. A weak surface
+low is forecast to develop along this frontal zone and move
+northeast through the day Saturday. Large hail, severe wind gusts,
+and tornadoes are possible along and southeast of this surface front
+during the day Saturday and into Saturday night. 
+
+...East Texas into Middle Tennessee...
+Widespread convection is anticipated Saturday morning along the
+frontal zone from northeast Texas into the Ohio Valley. This
+convection should reinforce the cold air north of the front which
+may result in it continuing to move south through the day. This is a
+complicating factor to the overall forecast which could limit the
+longevity of surface based storms and thus the overall severe
+weather threat closer to the front from southern Arkansas into
+western Tennessee and northern Mississippi. The HRRR and other CAM
+guidance develops a strong enough surface wave along the front from
+mid-morning to early afternoon which stalls and/or results in a
+slight northward shift of the frontal zone by early afternoon. This
+would result in longer residence time for any surface based storms
+and at least some window for a strong tornado threat. However,
+guidance has trended weaker with the surface wave over the last
+several runs with slightly slower ejection of the mid-level jet max.
+Therefore, am not confident that the front will stall/lift north,
+with a preferred solution similar to the NAM which shows a continual
+southeast movement of the frontal zone through the day Saturday. 
+
+Farther southwest, frontal orientation across east Texas should be
+more supportive for surface-based supercells along and perhaps east
+of the front. Therefore, have expanded 10% tornado probabilities
+farther southwest to address this threat. A line of storms with
+embedded supercells will continue southeast through the evening and
+into the overnight hours across Louisiana and eventually into
+Mississippi. The greatest significant tornado threat will likely be
+associated with any storms which can remain more discrete, ahead of
+the primary frontal development. 
+
+...Ohio Valley into parts of the central Appalachians...
+The severe weather threat from western Kentucky to southern
+Pennsylvania and western Maryland remains very conditional on
+overnight/morning convection from the Day 1 period. 12Z guidance
+varies greatly in the expansiveness of these thunderstorms tonight
+with stratiform rain and a stable airmass depicted by the HRRR with
+the NAM indicating minimal thunderstorm activity from northern
+Kentucky and southern Ohio eastward which will permit some
+instability and given the shear, potential for some severe weather
+threat Saturday afternoon. A slight/marginal risk seems appropriate
+to handle this conditional threat with some modifications likely
+once Day 1 convective evolution becomes more apparent.
+
+..Bentley.. 04/04/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
+
+---
+
+## SPC Center Public Severe Weather Outlook (PWO)
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/pwo.html"><img src="https://www.spc.noaa.gov/products/outlook/swo_rss.png" border="1" alt="PWO Image" hspace="1" vspace="1" width="1010" height="963" align="center" /></a><pre>
+PUBLIC SEVERE WEATHER OUTLOOK  
+NWS STORM PREDICTION CENTER NORMAN OK
+1144 AM CDT FRI APR 04 2025
+
+...Severe thunderstorms expected over parts of the ArkLaTex to the
+lower Ohio Valley this afternoon and tonight...
+
+* LOCATIONS...
+  Arkansas
+  Northeast Texas
+  Southeast Missouri
+  Extreme southeast Oklahoma
+  Extreme northwest Louisiana
+  Extreme northwest Tennessee
+  Western Kentucky
+  Southern Illinois
+  Southwest Indiana
+
+* HAZARDS...
+  Several tornadoes, a few intense
+  Scattered large hail, some baseball size
+  Scattered damaging winds
+
+* SUMMARY...
+  Several clusters of severe storms are expected from central
+  Texas across the ArkLaTex and into the lower Ohio Valley through
+  tonight. The greatest threat for tornadoes, large hail and
+  damaging winds will be from the ArkLaTex across western Arkansas
+  into southeast Missouri, including potential for strong to
+  potentially intense tornadoes.
+
+Preparedness actions...
+
+Review your severe weather safety procedures for the possibility
+of dangerous weather today. Stay tuned to NOAA Weather Radio, 
+weather.gov, or other media for watches and warnings. A tornado
+watch means that conditions are favorable for tornadoes to form
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/pwo.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/pwo.html>
+
+---
+
+## SPC Apr 4, 2025 1630 UTC Day 1 Convective Outlook
+
+date: 2025-04-04, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1129 AM CDT Fri Apr 04 2025
+
+Valid 041630Z - 051200Z
+
+...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS THIS
+AFTERNOON/EVENING FROM THE ARKLATEX TO SOUTHEAST MISSOURI...
+
+...SUMMARY...
+Several clusters of severe storms are expected from central Texas
+across the ArkLaTex and into the lower Ohio Valley through tonight.
+The greatest threat for tornadoes, large hail and damaging winds
+will be from the ArkLaTex across western Arkansas into southeast
+Missouri, including potential for strong to potentially intense
+tornadoes.
+
+...ArkLaTex to the lower OH Valley through tonight...
+An amplified midlevel trough over the Southwest will move slowly
+eastward, while embedded/subtle speed maxima eject northeastward
+over the southern Plains.  Additionally, large-scale ascent will be
+enhanced within the right-entrance region of the upper jet over the
+upper Midwest.  At the surface, a baroclinic zone is expected to
+move northward today across AR/western TN/KY in response to a weak
+wave developing northeastward from northeast TX toward northwest AR
+this afternoon and southeast MO tonight.  The depth of the cool air
+at LZK diminished substantially from 00z to 12z, which supports
+northward mixing of the front and warm sector this afternoon.
+
+Within the surface warm sector, a very moist air mass is in place
+with low 70s boundary-layer dewpoints beneath midlevel lapse rates
+of 7.5-8.5 C/km.  Daytime heating in cloud breaks will contribute to
+MLCAPE of 2000-3000 J/kg and weakening convective inhibition by
+early-mid afternoon, when thunderstorm development is expected both
+along the surface front and in the open warm sector.  Storm
+development will be most concentrated along the front where ascent
+will be focused and training storms are likely.  More isolated
+storms will also be possible farther east in the warm sector from AR
+into western TN/KY by mid-late afternoon.  Deep-layer vertical
+shear/hodograph length will be favorable for supercells, with
+substantial low-level hodograph curvature (effective SRH near or
+above 300 m2/s2, especially near and just southeast of the front in
+AR).  Given the fairly strong low-level shear and a relatively moist
+environment in the low levels, supercells will be capable of
+producing a few strong (EF2-EF3) tornadoes this afternoon into this
+evening in the Moderate risk area.  Otherwise, very large hail to
+baseball size and damaging gusts will be possible with the
+supercells and embedded/organized storm clusters training along the
+baroclinic zone.  North of the front, organized storms will be
+capable of producing large hail and occasional damaging gusts.
+
+...Edwards Plateau to north TX late tonight...
+Similar to the previous two nights, another round of elevated
+thunderstorms is expected near and after 06z from the Edwards
+Plateau into north TX and perhaps southeast OK.  The storm
+environment will be favorable for both elevated supercells with very
+large hail and bowing clusters with some potential for damaging
+winds to the surface.
+
+..Thompson/Jirak.. 04/04/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 
@@ -1019,337 +2169,6 @@ storm motion vector 23035.
 
 ---
 
-## SPC Apr 3, 2025 2000 UTC Day 1 Convective Outlook
-
-date: 2025-04-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0300 PM CDT Thu Apr 03 2025
-
-Valid 032000Z - 041200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS THIS
-AFTERNOON/EVENING FROM NORTHEAST TX TO MIDDLE TN...
-
-...SUMMARY...
-Severe thunderstorms will continue to form and move along a stalled
-frontal zone from northeast Texas into middle Tennessee and southern
-Kentucky through late evening, with the possibility of very large
-hail and a couple of strong tornadoes.  Very large hail will be
-possible after midnight from southwest Texas into cnetral Texas and
-southern Oklahoma.
-
-...Northeast TX to middle TN/southern KY this afternoon/evening...
-Severe storms are developing along and to the immediate cool side of
-a rain-reinforced baroclinic zone from northeast TX across AR and
-middle TN/southern KY.  Initial storm motions will tend to carry the
-convection to the cool side of the boundary (especially across AR),
-though there is some potential for surface-based supercells to form
-and move along the wind shift.  The warm sector to the south is
-characterized by boundary-layer dewpoints ranging from mid 60s F
-across TN/KY to low 70s F from northeast TX into southern AR.  The
-rich moisture and surface temperatures warming into the low-mid 80s
-beneath 7-8.5 C/km midlevel lapse rates maintain MLCAPE ranging from
-1500 J/kg east to 3000+ in northeast TX/northern LA.  Deep-layer
-vertical shear/hodograph length is more than sufficient for
-sustained supercells, while substantial low-level hodograph
-curvature (effective SRH of 200-300 m2/s2) and the moist boundary
-layer will support the potential for a couple of strong tornadoes
-with supercells moving along the boundary.  Otherwise, large hail of
-1.5-2.5 inches in diameter will be possible with both the
-surface-based and elevated supercells, as well as isolated wind
-damage as storms train along and just north of the boundary.
-
-...SW into central TX and southern OK overnight...
-Within the large-scale trough over the Southwest, an embedded jet
-streak will move through the base of the trough from Baja to
-southwest TX by the end of the period.  Mass response to the
-approaching jet streak will result in strengthening warm advection
-and the likelihood of elevated thunderstorm development over
-southwest TX after 06z.  Storms will subsequently spread
-northeastward, with additional storm development expected by 12z
-from northwest TX into southern OK.  Steep midlevel lapse rates, a
-rapid increase in moisture above the surface, and strong deep-layer
-shear will favor elevated supercells capable of producing very large
-hail (2-3 inches in diameter), as well as isolated damaging surface
-winds.
-
-..Thompson.. 04/03/2025
-
-.PREV DISCUSSION... /ISSUED 1130 AM CDT Thu Apr 03 2025/
-
-...Southern Plains/Mid-South/Tennessee Valley...
-With a prominent upper trough over the West, strong southwesterly
-winds aloft will overlie areas along/north of a frontal zone
-extending from the middle part of Texas into the ArkLaTex/Mid-South,
-east-northeastward to the central Appalachians and Mid-Atlantic
-States. With neutral to slightly rising mid-level heights, the
-convectively reinforced front is forecast to move little today
-across the ArkLaTex, Mid-South, and Tennessee Valley.
-
-Even though large-scale ascent will tend to remain somewhat nebulous
-near the front and southward into the warm sector, persistent
-low-level warm advection should aid in renewed thunderstorm
-development along/near the stalled front through the afternoon and
-evening. Any convection which can form on or just south of this
-boundary will have a rather favorably moist low-level airmass, steep
-lapse rates aloft, and strong deep-layer shear to support organized
-updrafts.
-
-A notable diurnal strengthening of the low-level jet /45-55 kt/ is
-expected today across the ArkLaTex to the Mid-South/Lower
-Mississippi Valley, where it will impinge on the west/southwest to
-east/northeast-oriented effective front. This is concerning
-regarding supercell tornado potential later today, some of which
-could be strong (EF2+) given the magnitudes of the
-deep-layer/low-level shear and moisture-rich environment with
-surface dewpoints in the upper 60s/near 70F. That said, some
-modal/mesoscale uncertainties still persist as to warm-sector
-development and the coverage and longevity of surface-based
-supercells, with convection potentially tending to be more
-prevalent/likely just north of the effective front. Otherwise, large
-to very large hail will be a threat with the expected supercellular
-development along/north of the front, with upscale-growing clusters
-posing a damaging wind threat as well.
-
-...West-central/North Texas and southern Oklahoma late tonight...
-Elevated supercells are expected to again develop late tonight
-(after midnight CDT) and early Friday as forcing for ascent
-increases to the north of the surface front. These storms will pose
-a large hail threat, and possibly some severe-wind potential as
-well, particularly if elevated bow echo development occurs as storms
-spread northeastward within a highly sheared environment.
-
-...Central Appalachians to Mid-Atlantic/Delmarva...
-Remnants of convection and related outflow boundaries will serve as
-a northern limit to any appreciable severe threat today. While some
-details remain uncertain, any storms that develop along/south of the
-front could pose risks for hail and damaging winds.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_2000.html>
-
----
-
-## SPC Day 2 Fire Weather Outlook
-
-date: 2025-04-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html"><img src="https://www.spc.noaa.gov/products/fire_wx/day2fireotlk.gif" border="1" alt="Day 2 Fire Weather Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Fire Weather Outlook  
-NWS Storm Prediction Center Norman OK
-0236 PM CDT Thu Apr 03 2025
-
-Valid 041200Z - 051200Z
-
-...NO CRITICAL AREAS...
-
-Locally elevated conditions are possible in the lowlands of
-south-central New Mexico under diminishing southwest flow aloft amid
-residual surface dryness. Otherwise, the previous forecast (see
-below) remains on track.
-
-..Squitieri/Williams.. 04/03/2025
-
-.PREV DISCUSSION... /ISSUED 0151 AM CDT Thu Apr 03 2025/
-
-...Synopsis...
-Downstream of a highly amplified large-scale trough centered on the
-Southwest, a belt of strong south-southwesterly flow and embedded
-midlevel speed maximum will shift eastward into TX. While a weak
-surface cyclone and related breezy conditions will persist over
-parts of southern/central NM, the meridional orientation and
-displacement of the midlevel jet will limit fire-weather concerns
-compared to previous days.
-
-...Please see www.spc.noaa.gov/fire for graphic product...
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/fire_wx/fwdy2.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC Apr 3, 2025 1930 UTC Day 3 Severe Thunderstorm Outlook
-
-date: 2025-04-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day3otlk.gif" border="1" alt="Day 3 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 3 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0223 PM CDT Thu Apr 03 2025
-
-Valid 051200Z - 061200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS FOR EASTERN
-TEXAS TO WESTERN MISSISSIPPI...
-
-...SUMMARY...
-Severe storms producing damaging winds and a few tornadoes are
-forecast Saturday and Saturday night from the Sabine Valley to the
-Tennessee Valley.
-
-...Synopsis...
-A mid-level speed max across northern Mexico, rounding the base of a
-larger scale trough, will emerge and strengthen into a 100 knot jet
-streak across the southern Plains on Saturday. As this occurs, a
-closed surface low is forecast to develop somewhere near the
-ArkLatex Saturday afternoon/evening and move along the pre-existing
-frontal zone to northern Mississippi by Sunday morning. An
-unseasonably warm/moist airmass will be in place south of this front
-which will support potentially multiple rounds of severe storms on
-Saturday and Saturday night. 
-
-...Eastern Texas to the Mid-Mississippi Valley...
-A cluster of storms, emanating from initial elevated supercells
-across central Texas, will likely be ongoing at the beginning of the
-period across east Texas. The very moist airmass, featuring
-dewpoints in the low 70s, and the strong wind field, will likely
-support some severe threat from this activity through the morning as
-it moves east. Guidance remains unclear whether this convection will
-strengthen through the day and pose some severe weather threat (such
-as shown by the ECMWF), or if it weakens and moves into
-Arkansas/northern Mississippi and reinforces the baroclinic zone.
-The evolution of this morning activity will affect both the timing
-and the intensity of the severe weather threat as a more robust
-morning MCS through the warm sector would probably inhibit a greater
-supercell tornado threat later in the day with a much reduced
-available warm sector. Despite these uncertainties, an ejecting
-mid-level trough with a very strong jet streak, a developing surface
-low, and an unseasonably warm/moist airmass will support a
-significant severe weather threat on Saturday. 
-
-...Mid-Mississippi Valley to the Upper Ohio Valley...
-Mid 60s dewpoints are expected along and ahead of the cold front
-from northeast Arkansas to western Pennsylvania on Saturday morning.
-Expansive cloud cover will likely inhibit significant
-destabilization. However, weak instability associated with the moist
-airmass could support maintenance of a squall line along and south
-of the Ohio River and perhaps a few stronger, more cellular storms
-from eastern Ohio into western Pennsylvania.
-
-..Bentley.. 04/03/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day3otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day3otlk_1930.html>
-
----
-
-## SPC Apr 3, 2025 1730 UTC Day 2 Convective Outlook
-
-date: 2025-04-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day2otlk.gif" border="1" alt="Day 2 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 2 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1230 PM CDT Thu Apr 03 2025
-
-Valid 041200Z - 051200Z
-
-...THERE IS A MODERATE RISK OF SEVERE THUNDERSTORMS THE ARKLATEX
-INTO WESTERN ARKANSAS...
-
-...SUMMARY...
-Several clusters of strong to severe storms are possible from
-central Texas across the ArkLaTex and into the lower Ohio Valley
-Friday and Friday night. The greatest threat for tornadoes, large
-hail and damaging winds will be from the ArkLaTex across western
-Arkansas, including potential for strong to potentially intense
-tornadoes.
-
-...Synopsis...
-A mid-level trough, centered across the Southwest and northern New
-Mexico, will start to shift east on Friday. As this occurs a broad,
-strong low-level jet will develop across eastern Texas and into
-Louisiana, Arkansas, and Mississippi. This strengthening lower
-tropospheric flow will aid in the northward advancement of a warm
-front, located from central Texas to the Mid-Mississippi Valley at
-the beginning of the period, to eastern Oklahoma an near the MO/AR
-border by 00Z Sat. This reorientation of the frontal boundary should
-be favorable for supercells with the potential for large hail (some
-2+ inch), damaging wind gusts, and tornadoes (some potentially
-EF3+). 
-
-...ArkLatex to Western Arkansas...
-As a warm front lifts north across Arkansas through the day, a very
-unstable environment (2500-4000 J/kg MLCAPE) will develop from the
-ArkLaTex into western Arkansas as temperatures warm into the mid 80s
-with dewpoints in the low 70s. Some weak convection may maintain
-along the frontal zone in eastern Oklahoma during the morning and
-early afternoon. However, more robust convective development is not
-anticipated until mid-afternoon when height falls start to
-overspread the region, and the influence of the entrance region of
-the upper-level jet increases ascent. In addition, most high
-resolution guidance indicates a local area of low pressure may
-traverse the frontal zone to near northwest Arkansas by 21Z. The
-combination of these factors, which have decent agreement among 12Z
-guidance, points toward multiple supercells along the frontal zone
-during the mid to late afternoon and into the evening. These
-supercells, in an environment featuring 2500-3500 J/kg MLCAPE and
-0-1km SRH ~400 m2/s2, will support the potential for strong to
-intense tornadoes. Messy storm mode could limit the longevity of any
-of these supercells/tornadoes, but even with limited duration, the
-environment supports a tornado threat.
-
-A more conditional long-track tornado threat, which would also bring
-greater opportunity for EF3+ tornadoes, exists east of the frontal
-boundary. Synoptic forcing ahead of the boundary is relatively weak,
-but very strong instability (3000-4000 J/kg MLCAPE) is forecast with
-minimal inhibition across the warm sector. Therefore, more discrete,
-open warm-sector supercell development is possible, but will be more
-dependent on mesoscale details which will become more clear in the
-Day 1 timeframe.
-
-...Missouri into the Ohio Valley...
-Storm mode and destabilization will be a lot more unclear farther
-northeast along the frontal zone from southern Missouri and into
-western Ohio. Multiple rounds of ongoing storms and new development
-are anticipated through the period in a strongly sheared
-environment, but storm motion will likely keep the majority of
-storms on the cool side of the boundary. Any storms which can stay
-along or south of the boundary will pose some severe weather threat
-with all hazards possible, particularly farther southwest, closer to
-the richer low-level moisture. However, hail, and perhaps some wind
-gusts will be possible with any storms in this region. 
-
-...West Texas to Central Texas...
-Strong elevated instability (2500-3000 J/kg MUCAPE) is forecast
-across central Texas and into portions of west Texas Friday night
-and into early Saturday morning. This instability, combined with
-very strong shear (70-80 knots per NAM forecast soundings), will
-support elevated supercells capable of large hail (perhaps 2+")
-early Saturday morning as the low-level jet reintensifies and
-orients into central Texas ahead of the approaching mid-level
-trough.
-
-..Bentley.. 04/03/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day2otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day2otlk_1730.html>
-
----
-
 ## SPC Day 1 Fire Weather Outlook
 
 date: 2025-04-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
@@ -1396,88 +2215,6 @@ conditions are expected north of the surface cyclone.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Apr 3, 2025 1630 UTC Day 1 Convective Outlook
-
-date: 2025-04-03, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1130 AM CDT Thu Apr 03 2025
-
-Valid 031630Z - 041200Z
-
-...THERE IS AN ENHANCED RISK OF SEVERE THUNDERSTORMS ACROSS THE
-ARKLATEX AND MID-SOUTH REGIONS...
-
-...SUMMARY...
-Severe thunderstorms are likely today along a frontal zone from the
-southern Plains into the lower Mississippi and Tennessee Valleys.
-The most concentrated corridor for severe potential should be
-focused from the ArkLaTex across the Mid-South into Middle
-Tennessee. Large hail, damaging winds, and a few strong tornadoes
-are all possible.
-
-...Southern Plains/Mid-South/Tennessee Valley...
-With a prominent upper trough over the West, strong southwesterly
-winds aloft will overlie areas along/north of a frontal zone
-extending from the middle part of Texas into the ArkLaTex/Mid-South,
-east-northeastward to the central Appalachians and Mid-Atlantic
-States. With neutral to slightly rising mid-level heights, the
-convectively reinforced front is forecast to move little today
-across the ArkLaTex, Mid-South, and Tennessee Valley.
-
-Even though large-scale ascent will tend to remain somewhat nebulous
-near the front and southward into the warm sector, persistent
-low-level warm advection should aid in renewed thunderstorm
-development along/near the stalled front through the afternoon and
-evening. Any convection which can form on or just south of this
-boundary will have a rather favorably moist low-level airmass, steep
-lapse rates aloft, and strong deep-layer shear to support organized
-updrafts.
-
-A notable diurnal strengthening of the low-level jet /45-55 kt/ is
-expected today across the ArkLaTex to the Mid-South/Lower
-Mississippi Valley, where it will impinge on the west/southwest to
-east/northeast-oriented effective front. This is concerning
-regarding supercell tornado potential later today, some of which
-could be strong (EF2+) given the magnitudes of the
-deep-layer/low-level shear and moisture-rich environment with
-surface dewpoints in the upper 60s/near 70F. That said, some
-modal/mesoscale uncertainties still persist as to warm-sector
-development and the coverage and longevity of surface-based
-supercells, with convection potentially tending to be more
-prevalent/likely just north of the effective front. Otherwise, large
-to very large hail will be a threat with the expected supercellular
-development along/north of the front, with upscale-growing clusters
-posing a damaging wind threat as well.
-
-...West-central/North Texas and southern Oklahoma late tonight...
-Elevated supercells are expected to again develop late tonight
-(after midnight CDT) and early Friday as forcing for ascent
-increases to the north of the surface front. These storms will pose
-a large hail threat, and possibly some severe-wind potential as
-well, particularly if elevated bow echo development occurs as storms
-spread northeastward within a highly sheared environment.
-
-...Central Appalachians to Mid-Atlantic/Delmarva...
-Remnants of convection and related outflow boundaries will serve as
-a northern limit to any appreciable severe threat today. While some
-details remain uncertain, any storms that develop along/south of the
-front could pose risks for hail and damaging winds.
-
-..Guyer/Jirak.. 04/03/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

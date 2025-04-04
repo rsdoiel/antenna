@@ -1,11 +1,24 @@
 ---
 title: pacific
-updated: 2025-04-04 06:07:41
+updated: 2025-04-04 14:09:43
 ---
 
 # pacific
 
-(date: 2025-04-04 06:07:41)
+(date: 2025-04-04 14:09:43)
+
+---
+
+## UH faculty, alumni honored in Hawaiʻi Business Magazine’s ‘20 for the Next 20’
+
+date: 2025-04-04, from: University of Hawaiʻi News
+
+<p>The annual awards recognize accomplished professionals whose talents and potential set them apart as emerging leaders of <span aria-label="Hawaii">Hawai&#699;i</span>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/04/2025-20-for-the-next-20/"><abbr>UH</abbr> faculty, alumni honored in Hawaiʻi Business Magazine’s ‘20 for the Next 20’</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/04/2025-20-for-the-next-20/>
 
 ---
 
@@ -612,6 +625,18 @@ The post <a href="https://www.hawaii.edu/news/2025/04/03/celebrate-a-legacy-in-t
 <br> 
 
 <https://www.hawaii.edu/news/2025/04/03/celebrate-a-legacy-in-tourism-2025/>
+
+---
+
+## Card payment strategies to boost your business’s bottom line
+
+date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+
+(BPT) - By Amber Tialino, senior vice president and general manager of Spend &amp; Expense at BILL 
+
+<br> 
+
+<https://www.mvariety.com/online_features/tech_talk_and_innovation/card-payment-strategies-to-boost-your-business-s-bottom-line/article_ccc06278-c6e6-5384-bfee-bcfc39aee670.html>
 
 ---
 

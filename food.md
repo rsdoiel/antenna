@@ -1,11 +1,113 @@
 ---
 title: food
-updated: 2025-04-04 06:07:47
+updated: 2025-04-04 14:09:48
 ---
 
 # food
 
-(date: 2025-04-04 06:07:47)
+(date: 2025-04-04 14:09:48)
+
+---
+
+## The 11 Best Restaurants in London Right Now
+
+date: 2025-04-04, from: Bon Appetet
+
+England's capital city is a dining destination like no other, and these 11 restaurants reflect the best that London has to offer. 
+
+<br> 
+
+<https://www.bonappetit.com/story/london-restaurants-where-to-eat-article>
+
+---
+
+## Ninja Artisan Outdoor Pizza Oven Review: This Electric Oven Is Easy to Use and Budget-Friendly
+
+date: 2025-04-04, from: Taste of Home
+
+<p>The Ninja Pizza Oven is an easy-to-use electric outdoor pizza oven at an approachable price. Read our full review.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/ninja-artisan-pizza-oven/">Ninja Artisan Outdoor Pizza Oven Review: This Electric Oven Is Easy to Use and Budget-Friendly</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/ninja-artisan-pizza-oven/>
+
+---
+
+## Best Food Processors (2025) for All Your Dinner Prep Needs
+
+date: 2025-04-04, from: Bon Appetet
+
+This kitchen workhorse deserves a spot on your countertop—here are our top picks. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-food-processor>
+
+---
+
+## Cinnamon Sugar Sourdough Croissant Loaf
+
+date: 2025-04-04, from: Taste of Home
+
+This cinnamon swirl sourdough croissant loaf makes the perfect addition to your breakfast spread. You'll want to plan ahead for this recipe, but the result is so worth the wait. —Elise Jesse, Cincinnati, Ohio 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/cinnamon-sugar-sourdough-croissant-loaf/>
+
+---
+
+## Mister Rogers’s Family Recipe Will Make You Want to Be His Neighbor
+
+date: 2025-04-04, from: Taste of Home
+
+<p>The television icon's beloved family dish will have you looking for a second helping.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/mister-rogers-corn-pudding/">Mister Rogers&#8217;s Family Recipe Will Make You Want to Be His Neighbor</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/mister-rogers-corn-pudding/>
+
+---
+
+## This Is The Last Day To Vote For The 16th Annual Sprudgie Awards
+
+date: 2025-04-04, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Voting ends tonight at 11:59 PM PST. 
+
+<br> 
+
+<https://sprudge.com/this-is-the-last-day-to-vote-for-the-16th-annual-sprudgie-awards-311911.html>
+
+---
+
+## Weekly Coffee News: The Rancilio iSteam + Smithsonian on Stenophylla
+
+date: 2025-04-04, from: Daily Coffee News
+
+<div><img width="620" height="429" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/rancilio-iSteam-620x429.jpg" class="attachment-large size-large wp-post-image" alt="rancilio iSteam" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/rancilio-iSteam-620x429.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/rancilio-iSteam-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/rancilio-iSteam-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/rancilio-iSteam-768x531.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/rancilio-iSteam.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Welcome to DCN’s Weekly Coffee News!&#160;Subscribe here&#160;for all the latest coffee industry news. Also, check out the latest career opportunities at&#160;CoffeeIndustryJobs.com. Rancilio Rolls Out the iSteam Pro Italian espresso machine... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/04/weekly-coffee-news-the-rancilio-isteam-smithsonian-on-stenophylla/>
+
+---
+
+## This Is the Martha Stewart Recipe That Jennifer Garner Swears By
+
+date: 2025-04-04, from: Taste of Home
+
+<p>Jennifer Garner has good taste!</p>
+<p>The post <a href="https://www.tasteofhome.com/article/jennifer-garner-martha-stewart-recipe/">This Is the Martha Stewart Recipe That Jennifer Garner Swears By</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/jennifer-garner-martha-stewart-recipe/>
 
 ---
 
@@ -98,6 +200,18 @@ Inspired by Wayne Thiebaud’s iconic Cake Slice, these three distinct layers st
 <br> 
 
 <https://www.bonappetit.com/recipe/neapolitan-cake>
+
+---
+
+## Gingerbread Ice Cream
+
+date: 2025-04-03, from: Taste of Home
+
+Gingerbread ice cream is the ultimate treat for lovers of both ice cream and gingerbread. The warming spices make this the perfect ice cream flavor for cozy winter gatherings throughout the holiday season. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/gingerbread-ice-cream/>
 
 ---
 
@@ -205,7 +319,7 @@ date: 2025-04-03, from: The Fresh Cup
 
 date: 2025-04-03, from: Daily Coffee News
 
-<div><img width="620" height="597" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-620x597.png" class="attachment-large size-large wp-post-image" alt="New U.S. tariff rates for major coffee producing and exporting countries" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-620x597.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-300x289.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-150x144.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries.png 693w" sizes="(max-width: 620px) 100vw, 620px" /></div>United States President Donald Trump announced his &#8220;Liberation Day&#8221; tariffs yesterday, including new fees between 10% and 46% on imports from 15 of the world&#8217;s top 20 coffee-producing countries.&#160; Outside... 
+<div><img width="620" height="597" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-620x597.png" class="attachment-large size-large wp-post-image" alt="New U.S. tariff rates for major coffee producing and exporting countries" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-620x597.png 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-300x289.png 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries-150x144.png 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/New-U.S.-tariff-rates-for-major-coffee-producing-and-exporting-countries.png 693w" sizes="(max-width: 620px) 100vw, 620px" /></div>United States President Donald Trump announced his &#8220;Liberation Day&#8221; tariffs yesterday, including new fees between 10% and 46% on imports from 15 of the world&#8217;s top 20 coffee-producing countries.&#160; Outside... 
 
 <br> 
 
@@ -253,7 +367,7 @@ date: 2025-04-03, from: Daily Coffee News
 
 date: 2025-04-03, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Anticonquista Cafe Chicago Pilsen" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Central America-connected roasting company Anticonquista Café opened its first brick-and-mortar coffee shop in Chicago this month, following five years of mobile and pop-up operations. The new Pilsen neighborhood cafe aims... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-620x414.jpg" class="attachment-large size-large wp-post-image" alt="Anticonquista Cafe Chicago Pilsen" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Anticonquista-Cafe-Chicago-Pilsen.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Central America-connected roasting company Anticonquista Café opened its first brick-and-mortar coffee shop in Chicago this month, following five years of mobile and pop-up operations. The new Pilsen neighborhood cafe aims... 
 
 <br> 
 

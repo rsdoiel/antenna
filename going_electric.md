@@ -1,11 +1,239 @@
 ---
 title: going electric
-updated: 2025-04-04 06:07:47
+updated: 2025-04-04 14:09:48
 ---
 
 # going electric
 
-(date: 2025-04-04 06:07:47)
+(date: 2025-04-04 14:09:48)
+
+---
+
+## Toyota, Honda and Hyundai Are Clear: We're Not Raising Prices (Yet)
+
+date: 2025-04-04, from: Inside EVs News
+
+Meanwhile, Stellantis and Ford have actually announced discounts. 
+
+<br> 
+
+<https://insideevs.com/news/755678/toyota-honda-hyundai-hold-prices-steady/>
+
+---
+
+## Kia’s EV3 is the best-selling retail EV in the UK right now
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Kia-EV3-best-selling-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s electric SUVs are taking over. The EV3 is the best-selling retail EV in the UK this year, giving <a href="https://electrek.co/guides/kia/">Kia</a> its strongest sales start since it arrived 34 years ago. And it’s not just in the UK. Kia just had its best first quarter globally since it started selling cars in 1962.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev3" data-layer-viewtype="unknown" data-post-id="409873" href="https://electrek.co/2025/04/04/kia-ev3-is-best-selling-retail-ev-in-the-uk-right-now/#more-409873" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/kia-ev3-is-best-selling-retail-ev-in-the-uk-right-now/>
+
+---
+
+## Podcast: Tesla’s disastrous deliveries, more Trump tariffs, EV delivery numbers, and more
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s disastrous deliveries, more Trump tariffs, EV delivery numbers, and more.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electrek-podcast" data-layer-viewtype="unknown" data-post-id="409865" href="https://electrek.co/2025/04/04/podcast-tesla-disastrous-deliveries-more-trump-tariffs-ev-delivery-numbers/#more-409865" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/podcast-tesla-disastrous-deliveries-more-trump-tariffs-ev-delivery-numbers/>
+
+---
+
+## University of Michigan cracks rapid EV charging in freezing temps
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/charging-electric-vehicles-5x-faster-in-subfreezing-temps-EV-charging.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Charging your EV in freezing weather could soon become dramatically faster, thanks to a big breakthrough from the University of Michigan engineers.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="409813" href="https://electrek.co/2025/04/04/university-of-michigan-cracks-rapid-ev-charging-in-freezing-temps/#more-409813" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/university-of-michigan-cracks-rapid-ev-charging-in-freezing-temps/>
+
+---
+
+## Hyundai and Genesis will not raise US vehicle prices, at least for now
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Hyundai-US-vehicle-prices-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai and Genesis brand vehicles will not see price hikes over the next few months. After launching its new Customer Assurance program on Friday, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> said US buyers can have peace of mind knowing vehicle prices will not increase.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="409818" href="https://electrek.co/2025/04/04/hyundai-genesis-will-not-raise-us-vehicle-prices-for-now/#more-409818" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/hyundai-genesis-will-not-raise-us-vehicle-prices-for-now/>
+
+---
+
+## Nissan's Solid State Battery Should Arrive In 2028: 'That's Our Ambition'
+
+date: 2025-04-04, from: Inside EVs News
+
+We may see it in hybrid versions of the company's large SUVs, executives say. But it'll start in an EV. 
+
+<br> 
+
+<https://insideevs.com/news/755673/nissan-solid-state-battery-plans/>
+
+---
+
+## Tesla launches cheaper new Model Y in US and Canada
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/TEsla-Model-Y-non-launch-edition.png?w=1600" /></div><p>Tesla has launched the cheaper non-Launch Edition version of the new Model Y in the US and Canada. It now starts at $49,000 before incentives.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="409839" href="https://electrek.co/2025/04/04/tesla-launches-cheaper-new-model-y-in-us-and-canada/#more-409839" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/tesla-launches-cheaper-new-model-y-in-us-and-canada/>
+
+---
+
+## EcoFlow Mega Sale takes 65% off power stations + new flash sale lows, Aventon e-bikes $700 off, Husqvarna tools, more
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/EcoFlow-Members-Mega-Sale-FI.png?w=1600" /></div><p>We’re closing out this week’s Green Deals with a double-feature from EcoFlow, as the brand has launched its <a href="https://9to5toys.com/2025/04/04/ecoflow-members-mega-sale-from-113/">Members’ Mega Sale</a> (AKA its Members’ Festival) that is running parallel to its <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">ongoing Easter Sale</a> with a fresh batch of offers at up to 65% off, like the <a href="https://9to5toys.com/2025/04/04/ecoflow-members-mega-sale-from-113/">DELTA Pro 3</a> Portable Power Station that is hitting <a href="https://9to5toys.com/2025/04/04/ecoflow-members-mega-sale-from-113/">$2,799</a>, among others – all complete with bonus savings and rewards. On top of the initial sale, the brand is also giving us two short-term flash savings to new low prices on the <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">RIVER 2 Pro</a> Portable Power Station for <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">$349</a> and <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">dual DELTA Pro Smart Extra Batteries for $2,899</a>. Aventon’s <a href="https://9to5toys.com/2025/04/04/aventon-extended-spring-sale-from-999/">Spring Into Motion Sale</a> getting extended, with the <a href="https://9to5toys.com/2025/04/04/aventon-extended-spring-sale-from-999/">Abound Cargo e-bike</a> down at <a href="https://9to5toys.com/2025/04/04/aventon-extended-spring-sale-from-999/">$1,599</a>, as well as its legacy discounts and a full list of its latest smart models. Lastly, we have a roundup of Husqvarna lawn care equipment seeing discounts, like the <a href="https://9to5toys.com/2025/04/04/husqvarna-hedge-master-320ihd60-270-more/">40V 24-inch Hedge Master 320iHD60</a> Cordless Electric Hedge Trimmer at <a href="https://9to5toys.com/2025/04/04/husqvarna-hedge-master-320ihd60-270-more/">$270</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s <a href="https://9to5toys.com/2025/04/02/lectric-april-sale-up-to-654-in-free-add-ons/">Lectric April Showers e-bike sale</a>, Jackery’s <a href="https://9to5toys.com/2025/04/03/jackery-flash-sale-starting-from-90/">flash offers</a>, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="409819" href="https://electrek.co/2025/04/04/ecoflow-mega-sale-and-flash-sale-aventon-husqvarna-more/#more-409819" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/ecoflow-mega-sale-and-flash-sale-aventon-husqvarna-more/>
+
+---
+
+## Porsche Cayenne EV spotted in the US with a new look
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Porsche-Cayenne-EV-Coupe-US.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>The electric SUV will finally be here later this year. With its highly anticipated debut just around the corner, the <a href="https://electrek.co/guides/porsche/">Porsche Cayenne EV</a> was caught in a parking lot in the US with a sleek new design.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="porsche,porsche-cayenne" data-layer-viewtype="unknown" data-post-id="409797" href="https://electrek.co/2025/04/04/porsche-cayenne-ev-spotted-in-the-us-with-new-look/#more-409797" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/porsche-cayenne-ev-spotted-in-the-us-with-new-look/>
+
+---
+
+## 2026 Hyundai Ioniq 6: A Video Tour Shows Why It's So Much Better
+
+date: 2025-04-04, from: Inside EVs News
+
+Not every car looks good with a facelift. But the Ioniq 6 sedan looks smoother, sleeker and even more striking. This video shows why. 
+
+<br> 
+
+<https://insideevs.com/news/755641/2026-hyundai-ioniq-6-tfl-tour/>
+
+---
+
+## Tesla should pivot the Cybertruck to this
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-Cybertruck-alternative.png?w=1600" /></div><p>With the Cybertruck proving extremely difficult to sell, Tesla should pivot the vehicle to a rugged SUV – something like this.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="409787" href="https://electrek.co/2025/04/04/tesla-should-pivot-cybertruck-to-this/#more-409787" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/tesla-should-pivot-cybertruck-to-this/>
+
+---
+
+## Billions In U.S. EV Projects Just Stalled, As China Speeds Ahead
+
+date: 2025-04-04, from: Inside EVs News
+
+EV investments are crumbling under policy uncertainty, giving China an even bigger lead. 
+
+<br> 
+
+<https://insideevs.com/news/755658/america-ev-boom-hits-a-wall/>
+
+---
+
+## This Kia electric SUV is beating every BYD EV in Australia and it’s about to launch globally
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/01/Kia-EV5-US-Canada.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Kia’s new electric SUV is quickly climbing the sales charts overseas. The <a href="https://electrek.co/guides/kia-ev5/">Kia EV5</a> is now a top-selling EV in Australia, slipping past all BYD models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev5" data-layer-viewtype="unknown" data-post-id="409780" href="https://electrek.co/2025/04/04/kia-electric-suv-outselling-every-byd-ev-australia/#more-409780" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/kia-electric-suv-outselling-every-byd-ev-australia/>
+
+---
+
+## First month on record: fossil fuels drop below 50% of US power mix
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/European-Energy-solar.jpg?quality=82&#038;strip=all&#038;w=1580" /></div><p>Fossil fuels just hit a record low in the US electricity mix last month, while solar and wind soared to all-time highs, according to fresh data from global energy think tank Ember. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="coal,egeb,energy-brief,fossil-fuels,solar,solar-power,wind-power" data-layer-viewtype="unknown" data-post-id="409694" href="https://electrek.co/2025/04/04/first-month-on-record-fossil-fuels-drop-below-50-of-us-power-mix/#more-409694" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/first-month-on-record-fossil-fuels-drop-below-50-of-us-power-mix/>
+
+---
+
+## All the EVs (and PHEVs) you can buy with 0% financing in April 2025
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/zero_hero.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p><a href="https://electrek.co/2025/04/03/evs-for-under-200-a-month-heres-whats-available-april/">Lease deals get all the hype</a>, but most people still want to own the car after they’re done making all those payments on it. If that sounds like you, and you’ve been waiting for the interest rates on auto loans to drop, you’re in luck: there are a bunch of great plug-in cars you can buy with 0% financing <em>and</em> at pre-tariff prices this April!</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="0-financing,ev-deals,ford,nissan" data-layer-viewtype="unknown" data-post-id="409719" href="https://electrek.co/2025/04/04/all-the-evs-and-phevs-you-can-buy-with-0-financing-in-april-2025/#more-409719" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/all-the-evs-and-phevs-you-can-buy-with-0-financing-in-april-2025/>
 
 ---
 

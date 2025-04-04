@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-04 06:07:44
+updated: 2025-04-04 14:09:45
 ---
 
 # games
 
-(date: 2025-04-04 06:07:44)
+(date: 2025-04-04 14:09:45)
+
+---
+
+## Best Kilo 141 loadout, class build in Black Ops 6
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+The Kilo 141 in Black Ops 6 looks a little different than its series debut, because the latest iteration of Call of Duty multiplayer has a much more streamlined attachment system, but the gist of the weapon is still the same: Manage the recoil and it becomes a powerhouse. Much like weapons such as the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/553815/kilo-141-loadout-class-build-setup-bo6>
+
+---
+
+## Best CR-56 AMAX loadout, class build in Black Ops 6
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+The best CR-56 AMAX loadout in Black Ops 6 may come as a surprise given that this is another simple automatic assault rifle — or at least, that&#8217;s what it seems like on the face of it. It&#8217;s another familiar face returning to the series from both Modern Warfare 2019 and Warzone, joining season 3 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/553819/cr-56-amax-loadout-class-build-setup-bo6>
+
+---
+
+## All Lost Pages and Temples locations in Assassin’s Creed Shadows
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+Collecting Lost Pages in Assassin’s Creed Shadows is a time-consuming process, but is one of the least dangerous ways to earn knowledge points (and thus get even stronger). They’re located in Temples. In this in-progress Assassin’s Creed Shadows guide, we’ll not only show you where to find all Temples but where to find all Lost [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed-shadows-guides/541459/lost-pages-temples-locations-all-list-where-to-find>
+
+---
+
+## How to catch all 151 Pokémon in Google&#8217;s Pokémon game
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+Google has added a new quirky feature to its search: the ability to catch Pokémon, namely the original 151 Pokémon from the Kanto region. If you’re looking to catch ‘em all, we’re here to help you out. It should be noted before you dive in that this game is only playable via mobile browser. If [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/guides/553617/google-pokemon-game-how-to-catch-all>
+
+---
+
+## ‘The Apple of Her Eye’ walkthrough for Monster Hunter Wilds
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+“The Apple of Her Eye” is a new side quest in Monster Hunter Wilds where you help Alma find her missing glasses with some help from a Wudwud named Ayejack. When you complete this side mission, you’ll be able to customize the look of Alma, and edit her clothes and accessories. This Monster Hunter Wilds [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/monster-hunter-wilds-guide/552490/apple-of-her-eye-walkthrough-sleeping-ayejack-location>
+
+---
+
+## How to unlock all Barrow-Dyad Catalysts in Destiny 2
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+All Barrow-Dyad Catalysts are now in Destiny 2. But unlike previous episodic Exotic Catalysts, these don’t come from running a mission multiple times. Instead, you’ll need to fulfill some secret conditions. In this Destiny 2 guide, we’ll walk you through how to unlock all Barrow-Dyad Catalysts in Destiny 2. These quests will net you the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/destiny-2-guide-walkthrough/538297/barrow-dyad-catalyst-how-to-get-unlock>
+
+---
+
+## Google has its own Pokédex now
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+In its latest little widget that shows up when searching for a specific game-related term, Google has now added… filling out a complete* Pokédex. *For the first 151 Pokémon, at least. Any mobile user who searches for one of those original Pokémon will find a Poké Ball button that they can tap to catch that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon/553132/google-pokemon-pokedex-easter-egg-secret>
+
+---
+
+## This 4K gaming monitor is on sale for its lowest price ever
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+Amazon has discounted our favorite 4K OLED gaming monitor, the Alienware AW2725Q, to its lowest price ever. Typically $899, this monitor is on sale for just $749.99. The AW2725Q is an excellent value and makes a strong case for 4K gaming. The 27-inch OLED monitor boasts a 240Hz refresh rate and is less expensive than [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/553549/alienware-4k-oled-gaming-monitor-sale>
+
+---
+
+## Grand Theft Auto 5 crashes into Xbox Game Pass on April 15
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+Grand Theft Auto 5 is making its way back to Xbox Game Pass on April 15 after being removed early last year. The long-in-the-tooth crime simulator will be made available to folks with either a Standard or Ultimate subscription. If you’re on PC, an active membership will also grant you access to Grand Theft Auto [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/553480/grand-theft-auto-5-gta5-xbox-game-pass-gta-online-pc-enhanced>
+
+---
+
+## I’ve been ensnared into the wild life of a drug dealer in Schedule 1
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+There’s something wrong with this town; it’s immediately apparent as soon as I arrive. I’ve recently fled my humble desert hometown after my uncle was raided by the cops and his criminal enterprise was seized. I’m working on rebuilding the empire here in the sleepy town of Hyland Point, but there are a few problems [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/553156/schedule-1-impressions-weed-drug-game>
 
 ---
 
