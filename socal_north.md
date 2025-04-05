@@ -1,11 +1,11 @@
 ---
 title: socal north
-updated: 2025-04-05 06:08:02
+updated: 2025-04-05 14:07:33
 ---
 
 # socal north
 
-(date: 2025-04-05 06:08:02)
+(date: 2025-04-05 14:07:33)
 
 ---
 
@@ -21,11 +21,11 @@ Va Lecia Adams Kellum’s departure from LAHSA comes after L.A. County leaders v
 
 ---
 
-## In historic agreement, LA County to pay $4 billion to settle thousands of childhood sexual abuse cases
+## How financially-stressed LA County plans to pay historic $4 billion sexual abuse settlement
 
 date: 2025-04-04, updated: 2025-04-05, from: The LAist
 
-Most of the abuse occurred in the 1980s, 1990s and 2000s inside county juvenile facilities. 
+The abuse of children under county dates mostly to the 1980s, 1990s and 2000s and took place inside county juvenile facilities. 
 
 <br> 
 
@@ -49,7 +49,7 @@ Supervisors Janet Nguyen and Doug Chaffee argue the disgraced official's plea de
 
 date: 2025-04-04, from: Longbeach Post
 
-<figure><img width="1024" height="448" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-300x131.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1024x448.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-768x336.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-192x84.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1536x672.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1200x525.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1568x686.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-400x175.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="448" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-300x131.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1024x448.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-768x336.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-192x84.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1536x672.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1200x525.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1568x686.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-400x175.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The pilot program, which is still being developed, will let people ride e-scooters at up to 15 mph along the path.</p>
 <p>The post <a href="https://lbpost.com/news/city/electrict-schooters-beach-bike-path-long-beach">Long Beach to allow electric scooters on beach bike path starting in May</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -306,7 +306,7 @@ Some takeaways from the files obtained so far and what we know about the delay o
 
 date: 2025-04-03, from: Longbeach Post
 
-<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A new bill would require teens up to 16 years old to ride in the back seat if they’re not tall enough. Middle schoolers up to age 13 would need to use booster seats if they’re tiny.</p>
 <p>The post <a href="https://lbpost.com/news/politics/california-ban-teens-from-riding-in-the-front-seat">No more calling ‘shotgun?’ California could ban teens from riding in the front seat</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

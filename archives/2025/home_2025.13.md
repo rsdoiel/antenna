@@ -1,11 +1,11 @@
 ---
 title: home
-updated: 2025-04-05 06:08:07
+updated: 2025-04-05 14:07:39
 ---
 
 # home
 
-(date: 2025-04-05 06:08:07)
+(date: 2025-04-05 14:07:39)
 
 ---
 
@@ -809,6 +809,18 @@ Calming interiors open up to verdant gardens and tranquil indoor/outdoor living.
 <br> 
 
 <https://www.dwell.com/article/sothebys-international-lagoon-scottsdale-real-estate-ef2ef95b>
+
+---
+
+## Take in Views of Lake Washington From This Kirkland Home, Asking $3.1M
+
+date: 2025-04-01, from: Dwell
+
+Cozy amenities abound, including heated floors, a jetted tub, and multiple fireplaces. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-modern-comfort-kirkland-real-estate-a1c0cab2>
 
 ---
 

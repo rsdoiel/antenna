@@ -1,11 +1,11 @@
 ---
 title: motorcycles
-updated: 2025-04-05 06:08:08
+updated: 2025-04-05 14:07:39
 ---
 
 # motorcycles
 
-(date: 2025-04-05 06:08:08)
+(date: 2025-04-05 14:07:39)
 
 ---
 
@@ -21,7 +21,7 @@ Leonard Wood has often mentioned that the notoriety and attention given to the W
 
 ---
 
-## This Company Sells As Many Motorcycles In a Month As the Entire US Does In a Year
+## This Company Sells As Many Motorcycles In a Month As Are Sold in the US In a Year
 
 date: 2025-04-04, from: Ride Apart, Electric Motorcycle News
 
