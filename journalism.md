@@ -1,11 +1,23 @@
 ---
 title: journalism
-updated: 2025-04-04 14:09:45
+updated: 2025-04-05 06:08:06
 ---
 
 # journalism
 
-(date: 2025-04-04 14:09:45)
+(date: 2025-04-05 06:08:06)
+
+---
+
+## Presidential candidate runs unopposed, leading team of 19 into election day
+
+date: 2025-04-04, from: The Sundail (CSUN Student Newspaper)
+
+What began as friendly competition became a partnership between Kiery Saravia and Alvaro Geminiano Aragon, the future Associated Students (AS) president and vice president. The pair stood before their peers... 
+
+<br> 
+
+<https://sundial.csun.edu/192066/news/presidential-candidate-runs-unopposed-leading-team-of-19-into-election-day/>
 
 ---
 
@@ -1331,4 +1343,84 @@ Dr. Anjay Rastogi, the clinical chief of nephrology and director of the Clinical
 <br> 
 
 <https://dailybruin.com/2025/03/30/qa-dr-anjay-rastogi-aims-to-raise-kidney-disease-awareness-with-health-program/>
+
+---
+
+## Santa Clarita business partners with LA County to help make prom dreams come true for foster teen boys
+
+date: 2025-03-29, from: The Canyon News (COC Student Newspaper)
+
+<p>Several times a day, a special piece of joy is carefully packaged&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/perfect-tux/">Santa Clarita business partners with LA County to help make prom dreams come true for foster teen boys</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/perfect-tux/>
+
+---
+
+## UCLA recommends indefinite ban for SJP, 4-year suspension for Graduate SJP
+
+date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 30 at 9:44 p.m.</em>
+UCLA has recommended sanctions for two pro-Palestine student organizations on campus.
+The Office of Student Conduct recommended indefinitely revoking the student organization status of Students for Justice in Palestine at UCLA and suspending Graduate SJP at UCLA’s status for four years, according to a statement emailed Friday by a UCLA spokesperson. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/29/ucla-office-of-student-conduct-recommends-bans-for-2-pro-palestine-organizations/>
+
+---
+
+## UC Regents committee reviews educational support for transfer, disabled students
+
+date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+The UC Board of Regents discussed cross-campus educational initiatives and support for disabled students at a March 19 meeting.
+The board held its bimonthly meeting March 18 to March 20 at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/28/uc-regents-committee-reviews-educational-support-for-transfer-disabled-students/>
+
+---
+
+## UCLA community reacts, responds to Department of Education restructuring
+
+date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated March 30 at 8:30 p.m.</em>
+Recent changes at the Department of Education have raised concerns about how public universities like UCLA could be affected. 
+
+<br> 
+
+<https://dailybruin.com/2025/03/28/ucla-community-reacts-responds-to-department-of-education-restructuring/>
+
+---
+
+## Wind Ensemble Delivers Thrilling Night of Varied Music at The Soraya
+
+date: 2025-03-29, from: The Sundail (CSUN Student Newspaper)
+
+On the four-floor stage of The Soraya, Lawrence Stoffel conducted the CSUN Wind Ensemble, filling the stage with music that switched from fast and powerful to soulful and slow. With... 
+
+<br> 
+
+<https://sundial.csun.edu/191794/arts-entertainment/wind-ensemble-delivers-thrilling-night-of-varied-music-at-the-soraya/>
+
+---
+
+## College of the Canyons hosts it’s annual  Cougar Fest
+
+date: 2025-03-29, from: The Canyon News (COC Student Newspaper)
+
+<p>Students across the College of the Canyons got to experience the annual&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/cougar-fest/">College of the Canyons hosts it&#8217;s annual  Cougar Fest</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/cougar-fest/>
 

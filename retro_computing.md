@@ -1,11 +1,11 @@
 ---
 title: retro computing
-updated: 2025-04-04 14:09:47
+updated: 2025-04-05 06:08:08
 ---
 
 # retro computing
 
-(date: 2025-04-04 14:09:47)
+(date: 2025-04-05 06:08:08)
 
 ---
 
@@ -170,4 +170,76 @@ Some things we noticed this month. What did you see?
 <br> 
 
 <http://www.iconbar.com/comments/rss/news2174.html>
+
+---
+
+## CauseWay DOS extender v5
+
+date: 2025-03-29, from: FreeDOS News
+
+<div class="markdown_content"><p>Japheth has released a new version of the CauseWay DOS extender. The origin of the extender itself are the CauseWay source files supplied with an earlier version of Open Watcom. The sources are in Masm v6 syntax. The new "v5" release has several fixes and changes, including: - better DOS/4G compatibility - better DPMI compliance - cleaned source code (tools: Masm v6+, JWasm, WL32) - smaller file size, less extended memory usage - lower DOS memory footprint, no scattered free DOS memory - faster mode switches. See the <a class="" href="https://github.com/Baron-von-Riedesel/CauseWay/releases/tag/v5.0" rel="nofollow">release page</a> for details and to download the new version. </p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/03/causeway-dos-extender-v5/>
+
+---
+
+## Blocek text editor 1.76
+
+date: 2025-03-29, from: FreeDOS News
+
+<div class="markdown_content"><p>Ladislav has shared a new version of the Blocek text editor. This version has several changes, including: + Bar code generator - fixed bug in processing keyboard shortcuts in the main menu - filenames without extension could be misinterpreted in the file selector * possibility to replace the hardware VGA font to disk files (see TECHNOTE.TXT) - fixed bug in character translation from Unicode to code page 850. You can download it at the <a class="" href="https://www.laaca.borec.cz/blocek/" rel="nofollow">Blocek website</a>. We've also mirrored this in the FreeDOS Files Archive at Ibiblio, under <a class="" href="https://www.ibiblio.org/pub/micro/pc-stuff/freedos/files/edit/blocek/1.76/" rel="nofollow">/files/edit/blocek</a></p></div> 
+
+<br> 
+
+<https://sourceforge.net/p/freedos/news/2025/03/blocek-text-editor-176/>
+
+---
+
+## RISC OS North Show Report 2025
+
+date: 2025-03-29, from: Icon Bar, RISC OS News
+
+The first ever RISC OS North show took place today. Doors opened at 10:30am and there was lots to see (and buy). You can also see all the stands in our pictures and I have made some notes on the talks. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2187.html>
+
+---
+
+## RISC OS North Show 2025 - Notes from the talks
+
+date: 2025-03-29, from: Icon Bar, RISC OS News
+
+Here are my notes from the talks. Any mistakes or omissions are mine. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2186.html>
+
+---
+
+## RISC OS North Show 2025 - pictures
+
+date: 2025-03-29, from: Icon Bar, RISC OS News
+
+Here is a selection of pictures to show you what the new event was like..... 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2185.html>
+
+---
+
+## TKChess Computerschaak Theo Kortekaas for the KIM-1
+
+date: 2025-03-29, from: Hans Otten's Retro blog
+
+Theo Kortekaas, a member of the Dutch KIM User Club, published in the club magazine the KIM Kenner, Issue 11 and 20, a chess program for the standard unenhanced KIM-1. The program files are from audio cassette digitized wave files from 1982. for keypad and LED display. See also:Focal-65 V3D for TIM and KIM-1Focal on [&#8230;] 
+
+<br> 
+
+<http://retro.hansotten.nl/tkchess-computerschaak-theo-kortekaas-for-the-kim-1/>
 

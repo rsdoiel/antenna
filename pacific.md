@@ -1,11 +1,62 @@
 ---
 title: pacific
-updated: 2025-04-04 14:09:43
+updated: 2025-04-05 06:08:03
 ---
 
 # pacific
 
-(date: 2025-04-04 14:09:43)
+(date: 2025-04-05 06:08:03)
+
+---
+
+## Mathematician Ellenberg’s visit expands math horizons for UH Mānoa students
+
+date: 2025-04-04, from: University of Hawaiʻi News
+
+<p>His visit, spanning about a week, connected students with complex mathematical ideas in an engaging and accessible way.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/04/jordan-ellenberg-uh-manoa-visit/">Mathematician Ellenberg’s visit expands math horizons for <abbr>UH</abbr> Mānoa students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/04/jordan-ellenberg-uh-manoa-visit/>
+
+---
+
+## Disco, deception and dueling lovers—Shakespeare’s Much Ado gets a ’70s twist
+
+date: 2025-04-04, from: University of Hawaiʻi News
+
+<p>Shakespeare’s Much Ado gets a 1970s makeover at Windward <abbr>CC</abbr>’s Palik&#363; Theatre.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/04/shakespeares-much-ado-gets-70s-twist/">Disco, deception and dueling lovers—Shakespeare’s Much Ado gets a ’70s twist</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/04/shakespeares-much-ado-gets-70s-twist/>
+
+---
+
+## UH Mānoa launches national search for athletic director
+
+date: 2025-04-04, from: University of Hawaiʻi News
+
+<p>The university encourages members of the community to participate in the search process by providing feedback and submitting nominations for individuals.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/04/uh-manoa-ad-search-announce/"><abbr>UH</abbr> Mānoa launches national search for athletic director</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/04/uh-manoa-ad-search-announce/>
+
+---
+
+## From blockprints to acrylics: Monica Baza pushes artistic boundaries
+
+date: 2025-04-04, from: Pacific Island Times
+
+For artist and small business owner Monica Baza, art isn’t just about creativity; it’s about connection. From her early days as a founding m 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/from-blockprints-to-acrylics-monica-baza-pushes-artistic-boundaries>
 
 ---
 
@@ -34,7 +85,7 @@ By Jayvee Vallejera   The sweeping tariffs the Trump administration has imposed
 
 ---
 
-## NEH grants terminated, Humanities Guåhan facing shutdown
+## Humanities grants terminated; arts and culture programs in Guam, CNMI facing shutdown 
 
 date: 2025-04-04, from: Pacific Island Times
 
@@ -281,6 +332,20 @@ date: 2025-04-04, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/04/nation-world-news/hundreds-of-thousands-flee-as-israel-seizes-rafah-in-new-gaza-security-zone/>
+
+---
+
+## Police investigate officer-involved shooting in Kona; no serious injuries
+
+date: 2025-04-04, from: Hawaii Tribune Harold
+
+
+				<p>A traffic-related incident early this morning in Kona led to an officer-involved shooting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/04/hawaii-news/police-investigate-officer-involved-shooting-in-kona-no-serious-injuries/>
 
 ---
 
@@ -2669,4 +2734,209 @@ While the University of Guam has said it has no plans to raise tuition right now
 <br> 
 
 <https://www.pacificislandtimes.com/post/senator-proposes-three-year-freeze-on-univerity-of-guam-tuition-hike>
+
+---
+
+##  $40 million contract inked to kickstart 3D printing project on Guam
+
+date: 2025-03-29, from: Pacific Island Times
+
+ASTRO said additive manufacturing “has the potential to produce parts on-demand at the point of need, consolidating supply chains, cutting l 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/40-million-contract-inked-to-kickstart-3d-printing-project-on-guam>
+
+---
+
+## Visiting Greenland, Vance finds the weather and the reception chilly
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump has been less than subtle in his insistence that the United States will &#8220;get&#8221; Greenland one way or another, reiterating Friday that the United States cannot &#8220;live without it.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/visiting-greenland-vance-finds-the-weather-and-the-reception-chilly/>
+
+---
+
+## Wobbly US stocks face test with tariffs, jobs data
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>NEW YORK &#8212; A rocky U.S. stock market will be tested in the coming week by a pivotal deadline for President Donald Trump&#8217;s tariff plans and an employment report that could reveal a slowing economy.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/wobbly-us-stocks-face-test-with-tariffs-jobs-data/>
+
+---
+
+## Trump’s tariffs cast doubt on Hawaii vehicle sales forecast
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Hawaii&#8217;s auto dealers ended 2024 down 3% in sales and were expecting a rebound this year until the enthusiasm was abruptly halted when President Donald Trump announced 25% tariffs on foreign auto imports and auto parts this week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/hawaii-news/trumps-tariffs-cast-doubt-on-hawaii-vehicle-sales-forecast/>
+
+---
+
+## Tomb of unidentified ancient Egyptian pharaoh discovered
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Burial chamber unearthed seven meters (23 feet) underground</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/tomb-of-unidentified-ancient-egyptian-pharaoh-discovered/>
+
+---
+
+## Inflation remained sticky ahead of Trump’s escalating trade war
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Americans hoping for some relief on inflation suffered a setback in February, as new data showed underlying price pressures intensifying even before the latest escalation in President Donald Trump&#8217;s trade war and consumers pulled back on spending.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/inflation-remained-sticky-ahead-of-trumps-escalating-trade-war/>
+
+---
+
+## Israel launches airstrikes near Beirut for first time since ceasefire
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>BEIRUT &#8212; The Israeli military launched airstrikes in the southern outskirts of Beirut on Friday for the first time since a U.S.-brokered ceasefire came into effect in November, shattering months of tense calm in the Lebanese capital and stoking fears of a further escalation. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/israel-launches-airstrikes-near-beirut-for-first-time-since-ceasefire/>
+
+---
+
+## Trump orders Smithsonian Institution to promote ‘American greatness’
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>President Donald Trump intensified his push to impose a more positive view of American history by moving to curb the independence of the Smithsonian Institution, which he wants to make into a &#8220;symbol of inspiration and American greatness.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/trump-orders-smithsonian-institution-to-promote-american-greatness/>
+
+---
+
+## Major quake batters Myanmar; high toll is feared as buildings topple
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>BANGKOK &#8212; A powerful earthquake struck central Myanmar on Friday, gouging open roads, toppling century-old religious monuments and destroying multistory buildings as it shook a vast expanse of Southeast Asia and dealt another severe blow to a country that has been ripped apart by civil war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/major-quake-batters-myanmar-high-toll-is-feared-as-buildings-topple/>
+
+---
+
+## Elon Musk says he has sold X to his AI startup xAI
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Elon Musk said Friday that he had sold X, his social media company, to xAI, his artificial intelligence startup, in an unusual arrangement that shows the financial maneuvering inside the business empire of the world&#8217;s richest man.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/elon-musk-says-he-has-sold-x-to-his-ai-startup-xai/>
+
+---
+
+## FCC chair orders inquiry into Disney’s DEI practices
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The chair of the Federal Communications Commission said Friday that he had opened an investigation into The Walt Disney Co.&#8217;s diversity, equity and inclusion programs in the latest attempt under the Trump administration to halt such efforts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/fcc-chair-orders-inquiry-into-disneys-dei-practices/>
+
+---
+
+## Tropical Gardening: Consider adding a walkway to your yard or garden
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>Warm days have caused our gardens to flourish, but this can mean too much of a good thing.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/features/topical-gardening-consider-adding-a-walkway-to-your-yard-or-garden/>
+
+---
+
+## Elderly woman slain in Hilo; suspect in custody
+
+date: 2025-03-29, from: Hawaii Tribune Harold
+
+
+				<p>An elderly woman, 81, was stabbed to death this morning on the 200 block of Olu Street in Hilo, police said,</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/03/29/hawaii-news/elderly-woman-slain-in-hilo-suspect-in-custody/>
+
+---
+
+## Robert Jones steps down as Triple J's head, Jeff Jones takes over 
+
+date: 2025-03-29, from: Pacific Island Times
+
+By Pacific Island Times News Staff Robert Jones Robert H. Jones, who founded Triple J in 1984 and has served as CEO since its inception,... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/robert-jones-steps-down-as-triple-j-s-head-jeff-jones-takes-over>
+
+---
+
+## From student to hotel general manager, Kapiʻolani CC alumna Kiana Beimes
+
+date: 2025-03-29, from: University of Hawaiʻi News
+
+<p>In a decade, <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> graduate Kiana Beimes rose from intern to the general manager of a Waik&#299;k&#299; hotel.</p>
+The post <a href="https://www.hawaii.edu/news/2025/03/28/kapiolani-cc-alumna-kiana-beimes/">From student to hotel general manager, Kapiʻolani <abbr>CC</abbr> alumna Kiana Beimes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/03/28/kapiolani-cc-alumna-kiana-beimes/>
 

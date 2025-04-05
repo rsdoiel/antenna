@@ -1,11 +1,23 @@
 ---
 title: home
-updated: 2025-04-04 14:09:46
+updated: 2025-04-05 06:08:07
 ---
 
 # home
 
-(date: 2025-04-04 14:09:46)
+(date: 2025-04-05 06:08:07)
+
+---
+
+## The Story Behind Our Special LA Fires Issue
+
+date: 2025-04-04, from: Sunset Magazine - Living in the West
+
+Our new special issue reflecting on the LA wildfires is an homage to what we’ve lost and a guidebook for reviving what we hold so dear. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/essay/behind-sunset-special-la-wildfire-issue>
 
 ---
 
@@ -523,18 +535,6 @@ After moving back to New York from Japan, one woman calls an old college friend 
 
 ---
 
-## The Story Behind Our Special LA Fires Issue
-
-date: 2025-04-02, from: Sunset Magazine - Living in the West
-
-Our new special issue reflecting on the LA wildfires is an homage to what we’ve lost and a guidebook for reviving what we hold so dear. 
-
-<br> 
-
-<https://www.sunset.com/lifestyle/essay/behind-sunset-special-la-wildfire-issue>
-
----
-
 ## How to Identify and Control Woolly Aphids
 
 date: 2025-04-02, from: The Gardener's Path
@@ -821,6 +821,18 @@ This was once the home of playwright Eugene O'Neill as well as photographer Joel
 <br> 
 
 <https://www.dwell.com/article/sothebys-international-historic-waterfront-provincetown-real-estate-1a76650c>
+
+---
+
+## With a 30-Foot Front Door, This $3.8M San Diego Home Makes a Grand First Impression
+
+date: 2025-04-01, from: Dwell
+
+Enjoy the year-round sunshine with multiple outdoor spaces and beautifully landscaped grounds. 
+
+<br> 
+
+<https://www.dwell.com/article/sothebys-international-outside-in-san-diego-real-estate-7b3c051a>
 
 ---
 
@@ -1300,4 +1312,60 @@ date: 2025-03-30, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/best-coreopsis-varieties/>
+
+---
+
+## When Does Astilbe Bloom? How to Extend the Flowering Season
+
+date: 2025-03-29, from: The Gardener's Path
+
+<p>Astilbe flowers are striking, like plumes of feathers in a rainbow of colors from white to the deepest purple – often lasting for weeks at a time. These shade-loving perennials are ideal for those darker spots in the landscape. Discover when astilbe blooms and how to extend the flowering season in this guide. Read more.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/astilbe-bloom/">When Does Astilbe Bloom? How to Extend the Flowering Season</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/astilbe-bloom/>
+
+---
+
+## The Freshest and Most Delicious Recipes You Can Make This April
+
+date: 2025-03-29, from: Sunset Magazine - Living in the West
+
+April is time to really take advantage of the fresh spring produce in season. Here are our favorite recipes to make in April. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-april-2025>
+
+---
+
+## 85 Stunning Types of Lilies (With Pictures and Names)
+
+date: 2025-03-29, from: Yard Life blog
+
+<p>Lilies are among the most breathtaking flowers, admired for their vibrant colors, elegant shapes, and enchanting fragrances. With their ability ... </p>
+<p class="read-more-container"><a title="85 Stunning Types of Lilies (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/#more-26076" aria-label="Read more about 85 Stunning Types of Lilies (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/">85 Stunning Types of Lilies (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/>
+
+---
+
+## 21 Common Types of Ivy Plants (With Pictures and Names)
+
+date: 2025-03-29, from: Yard Life blog
+
+<p>Ivy plants are some of the most versatile and visually appealing greenery found in both indoor and outdoor settings. With ... </p>
+<p class="read-more-container"><a title="21 Common Types of Ivy Plants (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/#more-26049" aria-label="Read more about 21 Common Types of Ivy Plants (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/">21 Common Types of Ivy Plants (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/>
 

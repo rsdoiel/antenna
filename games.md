@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-04-04 14:09:45
+updated: 2025-04-05 06:08:05
 ---
 
 # games
 
-(date: 2025-04-04 14:09:45)
+(date: 2025-04-05 06:08:05)
+
+---
+
+## The Monkey, Black Bag, One of Them Days on Netflix, and every movie new to streaming this week
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+Each week on Polygon, we round up the most notable new releases to streaming and VOD, highlighting the biggest and best new movies for you to watch at home. This week, The Monkey, the new black comedy horror thriller from director Osgood Perkins (Longlegs), screeches and bangs its way onto VOD. That’s not all that’s [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/549471/new-movies-watch-streaming-the-monkey-black-bag-one-of-them-days-netflix>
+
+---
+
+## Trump’s trade war swallowed the Switch 2 — but what happens next?
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+Nintendo’s Switch 2 ramp-up week started with a cheerful bang (a jingle, really) at Wednesday’s Switch 2 Direct that revealed the sleek new console’s release date, launch games, and features. Donkey Kong hype abounded online, at least until the company’s news releases started trickling out to outlets like Polygon, and sticker shock took over. Nintendo [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/553604/switch-2-pre-order-delay-tariffs-economic-analysis-joost-van-dreunen>
+
+---
+
+## Dropout.tv subscriptions are about to get more expensive
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+In a YouTube video Friday, Dropout.tv CEO Sam Reich announced plans to increase the cost of subscriptions to the streaming service starting May 7. Monthly subscription costs will go from $5.99 to $6.99, while annual subscriptions will go from $59.99 to $69.99. However, anyone with a current Dropout subscription will remain locked into the legacy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/553813/dropout-tv-subscription-price-increase>
+
+---
+
+## ‘Cozy horror’ game The Midnight Walk feels like walking through a Mad God world
+
+date: 2025-04-04, updated: 2025-04-04, from: Polygon Website
+
+A few minutes into my first look at The Midnight Walk, I thought to myself, Wait, is this actually the game? Not a cutscene? What I was watching looked like a gorgeous stop-motion animated short film, but I soon realized the developers from MoonHood Studios were showing me real-time game footage.&#160; The Midnight Walk looks [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/553831/cozy-horror-game-midnight-walk-release-date>
 
 ---
 
@@ -666,4 +714,64 @@ I haven’t watched Novocaine yet, but I’m looking forward to it. The action c
 <br> 
 
 <https://www.polygon.com/what-to-watch/548733/man-who-feels-no-pain-netflix-movie-like-novocaine>
+
+---
+
+## The live-action Disney Princess dresses, ranked
+
+date: 2025-03-29, updated: 2025-03-29, from: Polygon Website
+
+As Disney keeps rolling out live-action versions of its classic animated movies, costume and production designers keep facing the challenge of making attractive animated images look equally good in the real world.&#160; Consider the Disney Princess characters: They all have iconic dresses that look gorgeous in their original animated outings (except Aladdin’s Jasmine, who rocks [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/disney/548340/disney-princess-live-action-dresses-snow-white-ranked>
+
+---
+
+## The Journey and Sky art books each hold a secret
+
+date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
+
+Most video game art books follow a certain template: Load up on concept art, show how the game evolved during production, add some commentary to connect the dots. Some lean more heavily on a studio’s history and others focus on technique, but it’s a proven formula that, in the best cases, has produced books that [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/546844/journey-sky-thatgamecompany-art-books>
+
+---
+
+## Giratina ex just fixed going first in Pokémon TCG Pocket
+
+date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
+
+Going first in Pokémon TCG Pocket sucks. You can’t equip any energy (unless you happen to have Misty). You can’t evolve. You kind of just put a Pokémon in the active spot and hope that your opponent doesn’t wallop you too hard on the second turn. It’s pretty rough — that is, until Giratina ex showed up [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/548611/giratina-ex-deck>
+
+---
+
+## John Carpenter’s Prince of Darkness is an underseen and essential masterpiece
+
+date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
+
+I don’t think we give John Carpenter enough credit. That might sound hyperbolic, given that we’re talking about the creator of one the most enduring cinematic horror franchises of all time, but it’s true. He’s more than just the mastermind behind Halloween; he’s a renaissance man, at once the director of such touchstones as The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/548730/prince-of-darkness-streaming-what-to-watch-prime-video>
+
+---
+
+## The best sci-fi and fantasy books to read this April
+
+date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
+
+Spring is finally here, and with it, some warmer weather. While many of you will take this as an opportunity to get outside more and see your loved ones, I see this as the prime season for curling up in a sunbeam or sprawling on a picnic blanket with a good book. The real challenge [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/books/548735/best-sci-fi-fantasy-releases-april-2025>
 

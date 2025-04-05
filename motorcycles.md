@@ -1,15 +1,27 @@
 ---
 title: motorcycles
-updated: 2025-04-04 14:09:47
+updated: 2025-04-05 06:08:08
 ---
 
 # motorcycles
 
-(date: 2025-04-04 14:09:47)
+(date: 2025-04-05 06:08:08)
 
 ---
 
-## This Company Sells As Many Motorcycles In a Month Than the Entire US Does In a Year
+## Wood Brothers Racing Honoring Historic Indy Win at Darlington
+
+date: 2025-04-04, from: Kickin the Tires blog
+
+Leonard Wood has often mentioned that the notoriety and attention given to the Wood Brothers following their work on pit road for Team Lotus in the 1965 Indianapolis 500 far&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/wood-brothers-racing-honoring-historic-indy-win-at-darlington/>
+
+---
+
+## This Company Sells As Many Motorcycles In a Month As the Entire US Does In a Year
 
 date: 2025-04-04, from: Ride Apart, Electric Motorcycle News
 
@@ -422,4 +434,16 @@ Photos by Blake Ulino/Kickin&#8217; the Tires
 <br> 
 
 <https://kickinthetires.net/nascar/gallery-nascar-xfinity-series-at-historic-martinsville-speedway/>
+
+---
+
+## Update: KTM Likely Just Delayed Its New EV Dirt Bike, and Is Erasing All Mention Of It
+
+date: 2025-03-29, from: Ride Apart, Electric Motorcycle News
+
+The KTM chaos continues.  
+
+<br> 
+
+<https://www.rideapart.com/news/754994/ktm-freeride-e-ev-electric-dirt-bike-cancelled-postponed/>
 

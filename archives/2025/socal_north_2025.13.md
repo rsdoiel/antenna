@@ -1,11 +1,62 @@
 ---
 title: socal north
-updated: 2025-04-04 14:09:42
+updated: 2025-04-05 06:08:02
 ---
 
 # socal north
 
-(date: 2025-04-04 14:09:42)
+(date: 2025-04-05 06:08:02)
+
+---
+
+## Head of LA homeless services resigns days after county votes to pull $350M from troubled agency
+
+date: 2025-04-04, updated: 2025-04-05, from: The LAist
+
+Va Lecia Adams Kellum’s departure from LAHSA comes after L.A. County leaders voted to pull hundreds of millions of dollars from the agency’s budget. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-services-authority-ceo-va-lecia-adams-kellum-resigns-lahsa>
+
+---
+
+## In historic agreement, LA County to pay $4 billion to settle thousands of childhood sexual abuse cases
+
+date: 2025-04-04, updated: 2025-04-05, from: The LAist
+
+Most of the abuse occurred in the 1980s, 1990s and 2000s inside county juvenile facilities. 
+
+<br> 
+
+<https://laist.com/news/politics/la-county-4-billion-tentative-settlement-childhood-sexual-abuse-cases>
+
+---
+
+## Alleging 'special treatment,' OC supervisors push for longer sentence for Andrew Do
+
+date: 2025-04-04, updated: 2025-04-05, from: The LAist
+
+Supervisors Janet Nguyen and Doug Chaffee argue the disgraced official's plea deal 'stands in stark contrast to harsher penalties imposed on others.' 
+
+<br> 
+
+<https://laist.com/news/politics/two-orange-county-supervisors-call-for-longer-andrew-do-prison-recommendation>
+
+---
+
+## Long Beach to allow electric scooters on beach bike path starting in May
+
+date: 2025-04-04, from: Longbeach Post
+
+<figure><img width="1024" height="448" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-300x131.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1024x448.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-768x336.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-192x84.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1536x672.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1200x525.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-1568x686.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/07/17165653/BLUR_7206-400x175.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The pilot program, which is still being developed, will let people ride e-scooters at up to 15 mph along the path.</p>
+<p>The post <a href="https://lbpost.com/news/city/electrict-schooters-beach-bike-path-long-beach">Long Beach to allow electric scooters on beach bike path starting in May</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/electrict-schooters-beach-bike-path-long-beach>
 
 ---
 
@@ -35,7 +86,7 @@ Film LA reports that just 63% of major studios' sound stage space was in use in 
 
 ## Dow Jones plunges over 2,200 points as tariff carnage roils global markets
 
-date: 2025-04-04, updated: 2025-04-04, from: The LAist
+date: 2025-04-04, updated: 2025-04-05, from: The LAist
 
 Investors, businesses and consumers all seem terrified of how President Trump's tariffs could upend the global economy. 
 
@@ -255,7 +306,7 @@ Some takeaways from the files obtained so far and what we know about the delay o
 
 date: 2025-04-03, from: Longbeach Post
 
-<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="671" src="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="The California state capitol building." decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870.jpg 2400w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-458x300.jpg 458w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1110x728.jpg 1110w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-768x503.jpg 768w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1536x1007.jpg 1536w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-2048x1342.jpg 2048w, https://img.lbpost.com/wp-content/uploads/2022/03/24110827/SAC_6870-1320x865.jpg 1320w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A new bill would require teens up to 16 years old to ride in the back seat if they’re not tall enough. Middle schoolers up to age 13 would need to use booster seats if they’re tiny.</p>
 <p>The post <a href="https://lbpost.com/news/politics/california-ban-teens-from-riding-in-the-front-seat">No more calling ‘shotgun?’ California could ban teens from riding in the front seat</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -1484,4 +1535,138 @@ date: 2025-03-30, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/body-of-la-firefighter-found-in-waters-off-long-beach-months-after-he-went-missing>
+
+---
+
+## You’ve Got a Friend at City Hall
+
+date: 2025-03-29, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin Did you know, You’ve Got a Friend at City Hall? From our fun and friendly staff that run our Recreation and Community Services programs, to our Building and Safety team that make sure all developments are up to code, to our Communications team who bring all the trending, informational videos [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/03/29/youve-got-a-friend-at-city-hall-4/">You’ve Got a Friend at City Hall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/03/29/youve-got-a-friend-at-city-hall-4/>
+
+---
+
+## These Altadenans want everyone to know their homes are not for sale
+
+date: 2025-03-29, updated: 2025-03-31, from: The LAist
+
+Eaton Fire survivors gather for food supplies and community building at an “Altadena Not For Sale” rally on Saturday 
+
+<br> 
+
+<https://laist.com/news/altadena-not-for-sale-fair-oaks-burger-rally>
+
+---
+
+## Alec Baldwin, a $227,000 payment and a San Jose fundraiser at heart of allegations against former lawmaker
+
+date: 2025-03-29, updated: 2025-03-30, from: The LAist
+
+California’s political watchdog is fining former Assemblymember Evan Low $106,000 for campaign finance violations after he admitted trying to conceal payments to actor Alec Baldwin, who appeared at a 2020 fundraiser for Low. 
+
+<br> 
+
+<https://laist.com/news/politics/alec-baldwin-a-227-000-payment-and-a-san-jose-fundraiser-at-heart-of-allegations-against-former-lawmaker>
+
+---
+
+## From LA to Seattle to Miami, anti-Musk protesters gather at hundreds of Tesla locations
+
+date: 2025-03-29, updated: 2025-03-30, from: The LAist
+
+At a rally in Los Angeles, 65-year-old Phil Ansell said he wanted to participate because "I want to do everything possible to protect democracy in this country." 
+
+<br> 
+
+<https://laist.com/news/politics/anti-musk-protests-are-planned-at-tesla-locations-worldwide-this-weekend-including-in-socal>
+
+---
+
+## An art gallery destroyed in the Palisades Fire finds its next chapter
+
+date: 2025-03-29, updated: 2025-04-03, from: The LAist
+
+Bruce Lurie Gallery has reopened in Santa Monica with an inaugural group exhibition. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/an-art-gallery-destroyed-in-the-palisades-fire-finds-its-next-chapter>
+
+---
+
+## These 100 Angelenos form a 'human atlas' of LA for major art project
+
+date: 2025-03-29, updated: 2025-03-29, from: The LAist
+
+A large-scale interactive project asks local leaders about life in L.A. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/100-angelenos-form-human-atlas-la-art-project>
+
+---
+
+## Inside the tricky, complicated process of debris removal after LA's fires
+
+date: 2025-03-29, updated: 2025-03-29, from: The LAist
+
+As FEMA extends deadline to sign up for free debris removal, we explain different steps of the process. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/debris-removal-april-army-corps-explained>
+
+---
+
+## What's soil blocking? This seeding method helps gardeners use less plastic and peat
+
+date: 2025-03-29, updated: 2025-03-29, from: The LAist
+
+Soil blocking is an environmentally friendly method to prep seedlings. The technique has captured the attention of serious gardeners who'd like to make their growing more sustainable. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/whats-soil-blocking-this-seeding-method-helps-gardeners-use-less-plastic-and-peat>
+
+---
+
+## Federal judge prevents Trump administration from dismantling CFPB
+
+date: 2025-03-29, updated: 2025-03-29, from: The LAist
+
+The temporary injunction issued by Judge Berman Jackson seeks to preserve the Consumer Financial Protection Bureau as a lawsuit filed by the agency's union proceeds. 
+
+<br> 
+
+<https://laist.com/news/federal-judge-prevents-trump-administration-from-dismantling-cfpb>
+
+---
+
+## Appeals court rules Trump can fire board members of independent agencies
+
+date: 2025-03-29, updated: 2025-03-29, from: The LAist
+
+The D.C. Circuit Court of Appeals ruled 2-1 that Trump can fire Democratic members of the National Labor Relations Board and the Merit Systems Protection Board after a lower court had them reinstated. 
+
+<br> 
+
+<https://laist.com/news/appeals-court-rules-trump-can-fire-board-members-of-independent-agencies>
+
+---
+
+## Under federal pressure, USC eliminates DEI as a stated value
+
+date: 2025-03-29, updated: 2025-03-29, from: The LAist
+
+The Trump administration has threatened to withhold funds from schools who uphold the framework. 
+
+<br> 
+
+<https://laist.com/news/education/usc-eliminates-dei-trump-administration>
 

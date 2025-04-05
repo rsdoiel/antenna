@@ -1,11 +1,99 @@
 ---
 title: snapshots
-updated: 2025-04-04 14:09:49
+updated: 2025-04-05 06:08:10
 ---
 
 # snapshots
 
-(date: 2025-04-04 14:09:49)
+(date: 2025-04-05 06:08:10)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+The Rise and Fall of Elon Musk. 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/04/opinion/elon-musk-doge-technocracy.html?unlocked_article_code=1.9E4.jbqi._r1JRLOGnC6_&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Why Canadians Are Better Than Americans at Protesting Trump Right Now. 
+
+<br> 
+
+<https://www.theatlantic.com/newsletters/archive/2025/04/buy-canadian-movement-trump-protests-america/682309/?gift=f35zZN0v_gDFE8xNwlQAHRjIo-KLA4_ED9mQDwRKyPs&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Tesla loses another top talent: its long-time head of software. 
+
+<br> 
+
+<https://electrek.co/2025/04/04/tesla-loses-another-top-talent-its-long-time-head-of-software/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-04, from: Dave Winer's linkblog)
+
+Speculations at the Outer Bounds of the Constitutional Order. 
+
+<br> 
+
+<https://talkingpointsmemo.com/edblog/speculations-at-the-outer-bounds-of-the-constitutional-order>
+
+---
+
+## Delta at 10
+
+date: 2025-04-04, from: Michael Tsai
+
+Riley Testut: Some personal news: this month marks 10 years since I first started developing Delta! So much has changed since then &#8212; when Delta launched it didn&#8217;t even support DS! &#8212; but I couldn&#8217;t be more thankful to still be working on it after all this time &#x1F49C; The first commit includes the obligatory [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/04/delta-at-10/>
+
+---
+
+## Zelle Is Shutting Down Payments via Its App
+
+date: 2025-04-04, from: Michael Tsai
+
+Zelle (via Slashdot): When Zelle first launched, we also created a standalone Zelle-branded app for consumers whose banks or credit unions had not yet joined the network. With the strong growth of adoption by banks and credit unions, we now see just ~2% of transactions on the standalone app. As a result of our growth, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/04/zelle-is-shutting-down-payments-via-its-app/>
+
+---
+
+## Windows 11 Install to Require Internet and Microsoft Account
+
+date: 2025-04-04, from: Michael Tsai
+
+Microsoft (via Will Dormann, Hacker News): We&#8217;re removing the bypassnro.cmd script from the build to enhance security and user experience of Windows 11. This change ensures that all users exit setup with internet connectivity and a Microsoft Account. Lawrence Abrams: A previously unknown trick lets you easily bypass using a Microsoft Account in Windows 11, [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/04/windows-11-install-to-require-internet-and-microsoft-account/>
+
+---
+
+## How External Bootable Disks Work With Apple Silicon Macs
+
+date: 2025-04-04, from: Michael Tsai
+
+Howard Oakley: Unlike Intel Macs (including those with T2 chips), all Apple silicon Macs always start their boot process from their internal SSD, even when they are set to start up from a bootable external disk. This ensures the security and integrity of that process and prevents an attacker from starting that Mac up without [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/04/how-external-bootable-disks-work-with-apple-silicon-macs/>
 
 ---
 
@@ -2052,6 +2140,16 @@ Trump Nominee for Joint Chiefs Denies Wearing MAGA Hat.
 
 ---
 
+**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
+
+Harvard means something. If they go down without a fight, what hope is there for our country? Even if they had all the money in the world, Harvard as an idea will be lost. 
+
+<br> 
+
+<https://www.thecrimson.com/article/2025/4/1/hls-alums-trump-letter/>
+
+---
+
 ## Sticky Fingers in Moscow, 1959
 
 date: 2025-04-01, from: National Archives, Text Message blog
@@ -2061,16 +2159,6 @@ One of the more notable events in U.S.-Soviet relations during the Eisenhower Ad
 <br> 
 
 <https://text-message.blogs.archives.gov/2025/04/01/sticky-fingers-in-moscow-1959/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-04-01, from: Dave Winer's linkblog)
-
-300 Alums Call on HLS to Denounce Trump’s Attacks on Law Firms. 
-
-<br> 
-
-<https://www.thecrimson.com/article/2025/4/1/hls-alums-trump-letter/>
 
 ---
 
@@ -3651,4 +3739,188 @@ A first take of LLM use for coding projects.
 <br> 
 
 <https://rsdoiel.github.io/blog/2025/03/30/LLM_first_impressions_a_few_weeks_in.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+How to Remove Your Tesla Logo. 
+
+<br> 
+
+<https://hive-mind.com/how-to-remove-your-tesla-logo/>
+
+---
+
+**@Tomosino's Mastodon feed** (date: 2025-03-29, from: Tomosino's Mastodon feed)
+
+<p>Anyone got an extra void lying about for me to scream into?</p> 
+
+<br> 
+
+<https://tilde.zone/@tomasino/114247833725803998>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Republican Abortion Laws Are &#39;Torturing Women.&#39; Can the GOP Fix Its Own Crisis? 
+
+<br> 
+
+<https://www.texasobserver.org/republican-abortion-laws-texas-legislature-exceptions/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-29, from: Robert's feed at BlueSky)
+
+If you're looking for something fun in these challenging times. Nice coverage of RISC OS North Show.
+
+https://www.iconbar.com/articles/RISC_OS_North_Show_Report_2025/index2187.html 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lljvwuhros22>
+
+---
+
+## Severed Edits
+
+date: 2025-03-29, updated: 2025-03-29, from: Tedium site
+
+Whether it was trying to or not, Apple exposed a huge flaw with its pitch to professional video editors with a new Severance promotional video. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/16994717/severance-apple-remote-editing-weirdness>
+
+---
+
+## Meet the Fish That Doesn’t Want to Be Met
+
+date: 2025-03-29, from: 404 Media Group
+
+“Go away.” – Mexican tetra. 
+
+<br> 
+
+<https://www.404media.co/meet-the-fish-that-doesnt-want-to-be-met/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Timothy Snyder: The Imperialism Has no Clothes. 
+
+<br> 
+
+<https://snyder.substack.com/p/vance-in-greenland?publication_id=310897&post_id=160107346&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Rethinking Security from the Ground Up
+
+date: 2025-03-29, from: The Markup blog
+
+Professor Rikke Bjerg Jensen explores how social context shapes security 
+
+<br> 
+
+<https://themarkup.org/hello-world/2025/03/29/rethinking-security-from-the-ground-up>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+No one voted for Musk. 
+
+<br> 
+
+<https://bsky.app/profile/uraniumgirl.bsky.social/post/3llj5frwcf22p>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+The Signal chat exposes the administration’s incompetence – and its pecking order. 
+
+<br> 
+
+<https://www.theguardian.com/commentisfree/2025/mar/29/signal-chat-trump-incompetence-stephen-miller>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Emboldened Trump Squeezes Traditional Media. 
+
+<br> 
+
+<https://www.wsj.com/business/media/emboldened-trump-squeezes-traditional-media-dfa5c686?st=P2Z7Zn>
+
+---
+
+## From Bidenomics to Trumponomics: A Talk with Jared Bernstein
+
+date: 2025-03-29, from: Paul Krugman
+
+Or, we used to have reasonable people in government 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/from-bidenomics-to-trumponomics-a>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Harvard Faculty Did the Right Thing. The University Should. 
+
+<br> 
+
+<https://www.thecrimson.com/article/2025/3/28/editorial-harvard-aaup-lawsuit/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+“This is the official rapid response page of the Democratic Party, holding Trump and MAGA extremists accountable.” 
+
+<br> 
+
+<https://bsky.app/profile/factpostnews.bsky.social/post/3lfn5pghprs26>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-03-29, from: Robert's feed at BlueSky)
+
+RSS receivers and transmitters run outside the U.S. accessed through VPN the rebroadcast with clandestine WiFi access points run on single board computers. Make them play whack a mole to shut them all down. The way TCP/IP was originally planned way back when in that RAND paper.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lli3wtpm2c2x>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
+
+Noem&#39;s vow to eliminate FEMA raises disaster response concerns. 
+
+<br> 
+
+<https://thehill.com/policy/energy-environment/5220996-noem-trump-fema-elimination-concerns/>
+
+---
+
+## 2025-03-29: GCC 14.2.0 on PowerPC Mac OS X 10.4 Tiger
+
+date: 2025-03-29, from: Brian Robert Callahan blog
+
+Step-by-step process to get a modern GCC on an old Mac OS X 
+
+<br> 
+
+<https://briancallahan.net/blog/20250329.html>
 

@@ -1,11 +1,128 @@
 ---
 title: columns
-updated: 2025-04-04 14:09:44
+updated: 2025-04-05 06:08:04
 ---
 
 # columns
 
-(date: 2025-04-04 14:09:44)
+(date: 2025-04-05 06:08:04)
+
+---
+
+## The Truth Is, These Are Not Very Bright Guys
+
+date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.newyorker.com/news/letter-from-trumps-washington/donald-trumps-ego-melts-the-global-economy>
+
+---
+
+## Trump’s Hidden Agenda
+
+date: 2025-04-04, from: Dan Rather's Steady
+
+Will tariffs be the president&#8217;s most costly con yet? 
+
+<br> 
+
+<https://steady.substack.com/p/trumps-hidden-agenda>
+
+---
+
+## 2025-04-04 Aufsteigende Rüstungsklasse
+
+date: 2025-04-04, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-04-aufsteigende-rüstungsklasse">2025-04-04 Aufsteigende Rüstungsklasse</h1>
+
+<p>Ich hatte schon vor einiger Zeit angefangen, über einen Wechsel zur aufsteigenden Rüstungsklasse nachzudenken. Neue Spieler fanden die traditionelle, absteigende Rüstungsklasse meistens doof. Die Leute, mit denen ich schon spielte, hatten sich an die absteigende Rüstungsklasse gewöhnt und wollten nicht umsteigen. Was tun? Mir gefällt die Absteigende Rüstungsklasse und die kleine Tabelle, wo man sich aufschreibt, welche Rüstungsklasse welchen Wurf benötigt, oder die seltsame Notation aus AD&amp;D Zeiten mit dem ETW0 (Engl. THAC0).</p>
+
+<p>Irgendwann hatte ich mich halb durchgerungen, einen Versuch zu starten. Positiv aufgefallen ist sofort, dass die Tabellen im Handbuch für die Spielenden kompakter werden. Auf den Charakterbögen hat es nun auch etwas mehr Platz. Beides finde ich sehr positiv.</p>
+
+<p>Eher unangenehm war, dass in allen anderen Dokumenten immer noch absteigende Rüstungsklassen zu finden war. Oje! Mit dem aktuellen Update hoffe ich, sie alle gefunden zu haben. Und wer ansonsten eine Rüstungsklasse unter 10 findet, konvertiert wie folgt:</p>
+
+<ul>
+<li>Für Menschen ohne Rüstung wird RK 9 zu RK 10.</li>
+<li>Für alle anderen ist die aufsteigende Rüstungsklasse = 20 minus die absteigende Rüstungsklasse.</li>
+</ul>
+
+<p>Beispielsweise: Ork mit RK 6 wird zu Ork mit RK 14.</p>
+
+<p>Warum nicht &ldquo;19 minus die absteigende Rüstungsklasse&rdquo;? Nun ist alles um eins besser geschützt, würde man meinen. Der Vorteil ist aber, dass es nun zu neueren D&amp;D Versionen passt. Wenn ich beispielsweise bei D&amp;D 3.5 reinschaue:</p>
+
+<p>Krieger mit Stufe 1 hat einen Angriffsbonus von +1 (gleich wie die Stufe, was mir sehr gefällt). Die Rüstungen sind: beschlagene Lederrüstung 13 (20-7); Kettenpanzer 15 (20-5); Plattenpanzer 17 (20-3). Aus dem Rahmen fällt &ldquo;ohne Rüstung&rdquo;, denn 10 ist nicht 20-9. Tja… Dafür habe ich keine Lösung. RK 11 für Leute ohne Rüstung gefällt mir auch nicht.</p>
+
+<p>Und was ist mit den Trefferchancen? Vorher benötigte ein Krieger Stufe 1 eine 13 um einen Ork mit RK 6 zu treffen. Jetzt hat der Krieger einen Bonus von +1 um eine Ork mit RK 14 (20-6) zu treffen und braucht also immer noch eine 13. Insofern ist also alles gleich geblieben.</p>
+
+<p>Neue Versionen:</p>
+
+<ul>
+<li><a href="/pdfs/Hellebarden-und-Helme.pdf">Hellebarden &amp; Helme</a>, Regeln</li>
+<li><a href="/pdfs/rauchberg/Rauchberg.pdf">Rauchberg</a>, ein Megadungeon</li>
+<li><a href="/pdfs/Megadungeon.pdf">Megadungeon</a>, eine Einführung</li>
+<li><a href="/pdfs/Horte.pdf">Horte</a>, für Monster und Schätze</li>
+<li><a href="https://campaignwiki.org/character-sheet-generator/random/de?name=&amp;class=">Charaktergenerator</a></li>
+</ul>
+
+<p><a class="tag" href="/search/?q=%23Hellebarden_und_Helme">#Hellebarden und Helme</a> <a class="tag" href="/search/?q=%23RSP">#RSP</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-04-aufsteigende-ruestungsklasse>
+
+---
+
+## April 3, 2025
+
+date: 2025-04-04, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160616512/0a532cfaabf049d91342b321b2abcce8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160616512/0a532cfaabf049d91342b321b2abcce8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-3-2025-926>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-04, from: Dave Winer's Scripting News)
+
+How Bluesky <a href="https://www.youtube.com/shorts/kb45rYbR8YY">hooks up via RSS</a> into a powerful news system. 
+
+<br> 
+
+<http://scripting.com/2025/04/04.html#a215138>
+
+---
+
+##  There&#8217;s a new Frank Lloyd Wright house that was just built in... 
+
+date: 2025-04-04, updated: 2025-04-04, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046550-theres-a-new-frank-lloyd>
+
+---
+
+## Friday Squid Blogging: Two-Man Giant Squid
+
+date: 2025-04-04, updated: 2025-04-03, from: Bruce Schneier blog
+
+<p>The Brooklyn indie art-punk group, <a href="https://twomangiantsquid.bandcamp.com/album/two-man-giant-squid">Two-Man Giant Squid</a>, just <a href="https://weallwantsomeone.org/2025/03/18/two-man-giant-squid-i-think-im-in-love/">released</a> a new album.</p>
+<p>As usual, you can also use this squid post to talk about the security stories in the news that I haven&#8217;t covered.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/friday-squid-blogging-two-man-giant-squid.html>
 
 ---
 
@@ -313,49 +430,6 @@ date: 2025-04-04, updated: 2025-04-04, from: Liam Proven's articles at the Regis
 
 ---
 
-## 2025-04-04 Aufsteigende Rüstungsklasse
-
-date: 2025-04-04, from: Alex Schroeder's Blog
-
-<h1 id="2025-04-04-aufsteigende-rüstungsklasse">2025-04-04 Aufsteigende Rüstungsklasse</h1>
-
-<p>Ich hatte schon vor einiger Zeit angefangen, über einen Wechsel zur aufsteigenden Rüstungsklasse nachzudenken. Neue Spieler fanden die traditionelle, absteigende Rüstungsklasse meistens doof. Die Leute, mit denen ich schon spielte, hatten sich an die absteigende Rüstungsklasse gewöhnt und wollten nicht umsteigen. Was tun? Mir gefällt die Absteigende Rüstungsklasse und die kleine Tabelle, wo man sich aufschreibt, welche Rüstungsklasse welchen Wurf benötigt, oder die seltsame Notation aus AD&amp;D Zeiten mit dem ETW0 (Engl. THAC0).</p>
-
-<p>Irgendwann hatte ich mich halb durchgerungen, einen Versuch zu starten. Positiv aufgefallen ist sofort, dass die Tabellen im Handbuch für die Spielenden kompakter werden. Auf den Charakterbögen hat es nun auch etwas mehr Platz. Beides finde ich sehr positiv.</p>
-
-<p>Eher unangenehm war, dass in allen anderen Dokumenten immer noch absteigende Rüstungsklassen zu finden war. Oje! Mit dem aktuellen Update hoffe ich, sie alle gefunden zu haben. Und wer ansonsten eine Rüstungsklasse unter 10 findet, konvertiert wie folgt:</p>
-
-<ul>
-<li>Für Menschen ohne Rüstung wird RK 9 zu RK 10.</li>
-<li>Für alle anderen ist die aufsteigende Rüstungsklasse = 20 minus die absteigende Rüstungsklasse.</li>
-</ul>
-
-<p>Beispielsweise: Ork mit RK 6 wird zu Ork mit RK 14.</p>
-
-<p>Warum nicht &ldquo;19 minus die absteigende Rüstungsklasse&rdquo;? Nun ist alles um eins besser geschützt, würde man meinen. Der Vorteil ist aber, dass es nun zu neueren D&amp;D Versionen passt. Wenn ich beispielsweise bei D&amp;D 3.5 reinschaue:</p>
-
-<p>Krieger mit Stufe 1 hat einen Angriffsbonus von +1 (gleich wie die Stufe, was mir sehr gefällt). Die Rüstungen sind: beschlagene Lederrüstung 13 (20-7); Kettenpanzer 15 (20-5); Plattenpanzer 17 (20-3). Aus dem Rahmen fällt &ldquo;ohne Rüstung&rdquo;, denn 10 ist nicht 20-9. Tja… Dafür habe ich keine Lösung. RK 11 für Leute ohne Rüstung gefällt mir auch nicht.</p>
-
-<p>Und was ist mit den Trefferchancen? Vorher benötigte ein Krieger Stufe 1 eine 13 um einen Ork mit RK 6 zu treffen. Jetzt hat der Krieger einen Bonus von +1 um eine Ork mit RK 14 (20-6) zu treffen und braucht also immer noch eine 13. Insofern ist also alles gleich geblieben.</p>
-
-<p>Neue Versionen:</p>
-
-<ul>
-<li><a href="/pdfs/Hellebarden-und-Helme.pdf">Hellebarden &amp; Helme</a>, Regeln</li>
-<li><a href="/pdfs/rauchberg/Rauchberg.pdf">Rauchberg</a>, ein Megadungeon</li>
-<li><a href="/pdfs/Megadungeon.pdf">Megadungeon</a>, eine Einführung</li>
-<li><a href="/pdfs/Horte.pdf">Horte</a>, für Monster und Schätze</li>
-<li><a href="https://campaignwiki.org/character-sheet-generator/random/de?name=&amp;class=">Charaktergenerator</a></li>
-</ul>
-
-<p><a class="tag" href="/search/?q=%23Hellebarden_und_Helme">#Hellebarden und Helme</a></p> 
-
-<br> 
-
-<https://alexschroeder.ch/view/2025-04-04-aufsteigende-ruestungsklasse>
-
----
-
 ## An Entire Wing of the Smithsonian Full of Your Perfect Portraits of Donald Trump!
 
 date: 2025-04-04, from: Michael Moore's blog
@@ -381,7 +455,7 @@ date: 2025-04-04, updated: 2025-04-03, from: Bruce Schneier blog
 
 ---
 
-## This week's small reasons for modest optimism
+## This week’s small reasons for modest optimism
 
 date: 2025-04-04, from: Robert Reich's blog
 
@@ -2551,4 +2625,113 @@ I actually had things to say tonight, but slept most the day and cannot seem to 
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/march-29-2025>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-03-29, from: Miguel de Icaza Mastondon feed)
+
+<p>Give us __asm__ in safe languages you cowards!</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114248424960473217>
+
+---
+
+## When AI Whispers in Ink
+
+date: 2025-03-29, from: Om Malik blog
+
+As one month ends and another begins, I find myself performing what has become a private ritual with two pens from my unusually large collection of fountain pens. These are not the sober instruments that sign checks or pen manuscripts—those steadfast companions are already loaded with respectable blues and blacks, the colors of responsibility. These &#8230; 
+
+<br> 
+
+<https://om.co/2025/03/29/when-ai-whispers-in-ink/>
+
+---
+
+## March 28, 2025
+
+date: 2025-03-29, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160140804/b0c72cc7666686b0d4217206d6083920.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160140804/b0c72cc7666686b0d4217206d6083920.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/march-28-2025-3d2>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-03-29, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/11/26/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is very important. If you're on Bluesky, <a href="https://bsky.app/profile/factpostnews.bsky.social/post/3lfn5pghprs26">follow this account</a>. "This is the official rapid response page of the Democratic Party." I've been <a href="https://daytona.scripting.com/search?q=%22on%20the%20air%22">begging</a> the Dems to do this since 2009, a permanent heartbeat for the Dems on social media. Staffed by the team that ran the Harris campaign social media center during the campaign. They were snarky, fun, irreverent, and never apologized for representing the people, and they did it well. This is a moment. I no longer have to beg for this. It exists. So the first step has already been taken, thank goodness!!! Now it's up to <i>us</i> to spread the news that there is a place to find the heartbeat of the Dems. I'm going to study it, RT it, and keep the flame lit the best I can. 
+
+<br> 
+
+<http://scripting.com/2025/03/29.html#a144822>
+
+---
+
+## Miscellany № 107: old books (and a new Book)
+
+date: 2025-03-29, from: Shady Characters blog
+
+<p>Some big news today: <a href="/books/the-book"><cite>The Book: A Cover-to-Cover Exploration of the Most Powerful Object of our Time</cite></a> will be published soon in paperback!</p>
+<p>The paperback edition is updated from the hardback, with all of the various <a href="https://shadycharacters.co.uk/books/the-book/errata-for-the-book/">errata</a> fixed and a number of changes made to account for the book’s paperback rather than hardcover construction.  If you remember, the hardback edition had a number of references to its own physical form (“Tip the book towards you and look at the spine”, and so on) which have now been modified accordingly. Of course, the paperback edition provides a new and different set of reference points, so if some passages now ask you to find a hardback on your bookshelf, others can now tell you to look again at the paperback in your hands.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/03/miscellany-107-book-paperback/">Read more →</a> 
+
+<br> 
+
+<https://shadycharacters.co.uk/2025/03/miscellany-107-book-paperback/>
+
+---
+
+## Is the Trump Fever Breaking? | Saturday Coffee Klatch for March 29, 2025
+
+date: 2025-03-29, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160087362/9997f650c186b50799f94536e0be4c31.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160087362/9997f650c186b50799f94536e0be4c31.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/is-the-trump-fever-breaking-saturday>
+
+---
+
+## March 28, 2025
+
+date: 2025-03-29, from: Heather Cox Richardson blog
+
+&#8220;Another wipeout walloped Wall Street Friday,&#8221; Stan Choe of the Associated Press wrote today. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/march-28-2025>
+
+---
+
+## Weeknotes: March 22-28, 2025
+
+date: 2025-03-29, from: Tracy Durnell Blog
+
+Win of the week: published the next piece in my ongoing Mindset of More series &#8212; so far these posts are taking me about a month to write (since the first few I wrote while on vacation), feels like a good pace Looking forward to: hoping to go see cherry blossoms next week if I can find [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/03/28/weeknotes-march-22-28-2025/>
+
+---
+
+## Pictures
+
+date: 2025-03-29, from: Doc Searls (at Harvard), New Old Blog
+
+Still miss him. Just found a photo of Aaron Swartz from the time I recruited him for a panel at Comdex in 2002. He was a kid, but rocked it. I suppose it&#39;s one of these. The photo at the top of this story is of the Linden Cogeneration Plant in New Jersey, which I [&#8230;] 
+
+<br> 
+
+<https://doc.searls.com/2025/03/28/pictures/>
 

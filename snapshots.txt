@@ -267,3 +267,4 @@ https://tech.chrishardie.com/feed/ "~Charlie Hardie blog"
 https://thelibre.news/rss/ "~Libre News"
 
 https://hakaimagazine.com/feed/ "~Hakai Magazine"
+https://seldo.com/rss.xml "~Laurie Voss blog"

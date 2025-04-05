@@ -1,11 +1,59 @@
 ---
 title: north america
-updated: 2025-04-04 14:09:42
+updated: 2025-04-05 06:08:01
 ---
 
 # north america
 
-(date: 2025-04-04 14:09:42)
+(date: 2025-04-05 06:08:01)
+
+---
+
+## Evening Roundup, April 4
+
+date: 2025-04-04, from: The Contrarian
+
+Featuring Jen Rubin in conversation with Ezra Levin and with Maria Peralta; Eliza Orlins; Jeff Nesbit; Josh Levs; The Democracy Index; Marissa Rothkopf; the Pet(s) of the Week; and Ruben Bolling! 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-4>
+
+---
+
+## How tariffs could affect employment in the months ahead
+
+date: 2025-04-04, from: Market Place
+
+March's jobs report was decent. But sweeping changes to U.S. trade policy taking effect in early April may show up in next month's numbers. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/04/employment-tariffs-jobs-import-taxes-hiring-labor-prices-consumer-spending/>
+
+---
+
+## The Democracy Index
+
+date: 2025-04-04, from: The Contrarian
+
+April 4, 2025 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-democracy-index-ef0>
+
+---
+
+## Tariffs will hit consumers with the lowest incomes hardest. Here’s why.
+
+date: 2025-04-04, from: Market Place
+
+They simply have to spend a bigger slice of their income on necessities. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/04/low-income-tariffs-tax-prices-affordable-groceries-clothing-consumer-choice/>
 
 ---
 
@@ -30,6 +78,20 @@ West Odessa is an unincorporated community in the heart of West Texas’ oil pat
 <br> 
 
 <https://www.marketplace.org/2025/04/04/in-booming-west-texas-a-growing-community-struggles-to-access-running-water/>
+
+---
+
+## With the Destruction of the Consumer Financial Protection Bureau, Fraud Victim ‘Not Hopeful’ He’ll Be Refunded
+
+date: 2025-04-04, from: Capital and Main
+
+<p>Agency charged with protecting consumers drops high-profile fraud cases, leaving victims in limbo.</p>
+<p>The post <a href="https://capitalandmain.com/with-cfpbs-destruction-fraud-victim-not-hopeful-hell-be-refunded">With the Destruction of the Consumer Financial Protection Bureau, Fraud Victim ‘Not Hopeful’ He’ll Be Refunded</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/with-cfpbs-destruction-fraud-victim-not-hopeful-hell-be-refunded>
 
 ---
 
@@ -724,6 +786,20 @@ Career opportunities are scarce for young adults, which can have long-term impac
 <br> 
 
 <https://www.marketplace.org/2025/04/02/low-hiring-low-firing-economy-not-great-for-gen-z/>
+
+---
+
+## Un pueblo que votó por Trump apoya a una estudiante y atleta trans local
+
+date: 2025-04-02, from: Capital and Main
+
+<p>AB Hernández había sido expuesta en internet por influencers de derecha y un funcionario electo.</p>
+<p>The post <a href="https://capitalandmain.com/un-pueblo-que-voto-por-trump-apoya-a-una-estudiante-y-atleta-trans-local">Un pueblo que votó por Trump apoya a una estudiante y atleta trans local</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/un-pueblo-que-voto-por-trump-apoya-a-una-estudiante-y-atleta-trans-local>
 
 ---
 
@@ -1445,4 +1521,68 @@ date: 2025-03-31, from: The Lever News
 <br> 
 
 <https://www.levernews.com/how-big-law-killed-the-democrats/>
+
+---
+
+## Publisher's Roundup, 11
+
+date: 2025-03-29, from: The Contrarian
+
+&#8220;Have You No Sense of Decency,&#8221; Mr. Trump? 
+
+<br> 
+
+<https://contrarian.substack.com/p/publishers-roundup-11>
+
+---
+
+##  YOU LOVE TO SEE IT: Fighting The Oligarchs 
+
+date: 2025-03-29, from: The Lever News
+
+ Thousands fight the oligarchy, states give credit where credit’s due, a free-press challenge gets crushed, and state death penalties meet their fate.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-fighting-the-oligarchs/>
+
+---
+
+## Are budget guidelines based on your pre-tax or post-tax income?
+
+date: 2025-03-29, from: Market Place
+
+Conventional budgeting wisdom, like the 30% rent rule, is usually based on gross income, but experts say these guidelines are just a starting point. Personal circumstances could change your tax bill and therefore your budget. 
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/03/28/are-budget-guidelines-based-on-your-pre-tax-or-post-tax-income/>
+
+---
+
+## CoreWeave’s IPO tests money magic of AI
+
+date: 2025-03-29, from: Market Place, Make me Smart
+
+<p>The artificial intelligence cloud computing provider CoreWeave sold shares to the public today with so-so results. Because it&#8217;s the first major IPO of the current generative AI era, some argue that CoreWeave could be a barometer of the AI boom. We&#8217;ll get into it. And, a federal appeals court ruled in favor of President Donald Trump&#8217;s firings of independent agency heads. The case will likely make its way to the Supreme Court. Plus, we&#8217;ll play a round of Half Full/Half Empty!</p>
+<p>Here&#8217;s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.politico.com/news/2025/03/28/appeals-court-ruling-trump-independent-federal-agencies-00258300" target="_blank" rel="noreferrer noopener">&#8220;Appeals court clears way for Trump to fire leaders of ‘independent’ federal agencies&#8221;</a> from Politico</li>
+<li><a href="https://finance.yahoo.com/news/coreweave-stock-seesaws-after-ipo-in-first-big-test-of-ai-trade-173445419.html" target="_blank" rel="noreferrer noopener">&#8220;CoreWeave stock seesaws after IPO in first big test of AI trade&#8221;</a> from Yahoo Finance</li>
+<li><a href="https://www.wheresyoured.at/core-incompetency/?ref=ed-zitrons-wheres-your-ed-at-newsletter" target="_blank" rel="noreferrer noopener">&#8220;CoreWeave Is A Time Bomb&#8221;</a> from Ed Zitron&#8217;s Where&#8217;s Your Ed At</li>
+<li><a href="https://www.nytimes.com/2025/03/25/technology/chatgpt-image-generator.html?partner=slack&amp;smid=sl-share" target="_blank" rel="noreferrer noopener">&#8220;OpenAI Unveils New Image Generator for ChatGPT&#8221;</a> from The New York Times</li>
+<li><a href="https://www.marketplace.org/2025/03/24/doordash-klarna-buy-now-pay-later-orders/" target="_blank" rel="noreferrer noopener">&#8220;DoorDash and Klarna partner to offer buy now, pay later for takeout&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2025/03/28/crocs-hits-record-revenue-as-popularity-with-younger-consumers-soars/" target="_blank" rel="noreferrer noopener">&#8220;Crocs hits record revenue as popularity with younger consumers soars&#8221;</a> from Marketplace</li>
+<li><a href="https://www.marketplace.org/2025/03/24/when-should-we-pay-rent-with-a-credit-card/" target="_blank" rel="noreferrer noopener">&#8220;When should we pay rent with a credit card?</a> from Marketplace</li>
+<li><a href="https://www.nytimes.com/2025/03/27/technology/meta-facebook-friends-tab.html?campaign_id=4&amp;emc=edit_dk_20250328&amp;instance_id=151206&amp;nl=dealbook&amp;regi_id=144686531&amp;segment_id=194638&amp;user_id=d2d928a1f9dc3a96ed597f55afd46083" target="_blank" rel="noreferrer noopener">&#8220;Facebook’s New Friends Tab Brings App Back to Its Roots&#8221;</a> from The New York Times</li>
+</ul>
+<p>Marketplace’s March fundraiser ends today! Chip in now and pick up a classic public media thank-you gift: <a href="https://support.marketplace.org/smart-sn" target="_blank" rel="noreferrer noopener">https://support.marketplace.org/smart-sn</a></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/28/mms_20250328_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcoreweaves-ipo-tests-money-magic-of-ai&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/28/mms_20250328_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcoreweaves-ipo-tests-money-magic-of-ai&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/coreweaves-ipo-tests-money-magic-of-ai>
 

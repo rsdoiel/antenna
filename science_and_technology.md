@@ -1,11 +1,47 @@
 ---
 title: science and technology
-updated: 2025-04-04 14:09:43
+updated: 2025-04-05 06:08:03
 ---
 
 # science and technology
 
-(date: 2025-04-04 14:09:43)
+(date: 2025-04-05 06:08:03)
+
+---
+
+## Windows Hotpatch comes to client version of Windows
+
+date: 2025-04-04, from: OS News
+
+Good news for Windows users, and for once there&#8217;s not a hint of sarcasm here: Microsoft has started rolling out Windows Hotpatch to the client versions of Windows. This feature, which comes from the server versions of Windows, allows the operating system to install patches to in-memory processes, removing the need for a number of restarts. Obviously, this is hugely beneficial for users, as they won&#8217;t have to deal with constant reboots whenever a new bunch of Windows updates are pushed. There are some limitations and other things you should know. First, the way the system works is that every quarter, installations with Hotpatch enabled will receive a quarterly baseline update that requires a reboot, followed by two months of hotpatches which do not require a reboot. Hotpatches can only be security updates; new features and enhancements are rolled up into the quarterly baseline updates. In other words, while this will not completely eliminate reboots, it will cut the number of reboots per year down from twelve to just four, which is substantial, and very welcome in especially corporate environments. The biggest limitation, however, is that Windows Hotpatch will only make it to one client version of Windows, Enterprise version 24H2, so users of the Home or Professional version are out of luck for now. On top of that, you&#8217;re going to need a Microsoft subscription, use Microsoft Intune, and an Intel/AMD-based system (Hotpatch will come to ARM later). I hope it&#8217;ll make its way to Windows 11 Home and Professional, too, because I&#8217;m fairly sure quite a few of you using Windows would love to set this up on your own machines. 
+
+<br> 
+
+<https://www.osnews.com/story/142059/windows-hotpatch-comes-to-client-version-of-windows/>
+
+---
+
+## China hits back at America with retaliatory tariffs, export controls on rare earth minerals
+
+date: 2025-04-04, updated: 2025-04-05, from: The Register (UK I.T. News)
+
+<h4>Shock and ore, 北京-style</h4> <p>Beijing has responded to the Trump administration&#39;s latest round of import taxes with retaliatory tariffs and new restrictions on rare earth minerals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/04/china_hits_back_at_trump/>
+
+---
+
+## How big is VMS?
+
+date: 2025-04-04, from: OS News
+
+This question was asked during my Boot Camp presentation last fall in Boston, and over the past 35 years dozens of times people have asked, how big is VMS? That translates into &#8220;how many lines of code are in VMS&#8221;? I thought it was time to at least make a stab at pursuing some insight into the answer. I wrote some command procedures to count the number of source lines in .B32, .B64, .C, .MAR, .M64, and .S files. Not counted are blank lines and lines beginning with the standard comment characters and miscellaneous directives for the particular language. ↫ Clair Grant As always with the &#8216;lines of code&#8217; metric, there&#8217;s some real arbitrariness going on, and in this case that means things like excluding networking, which to me seems like a core part of an operating system, but alas, choices need to be made. The final tally for lines of code, as per the definition used in the article, in the most recent version of OpenVMS, version 9.2-3, is almost 1.9 million. Do with that information as you please. What&#8217;s really fascinating, though, are the deltas between the versions investigated in this article: V6.2 (May 1995, port to Alpha), V7.2 (February 1999, kernel threads, 64-bit APIs, Galaxy, and more), V8.2 (February 2005, port to Itanium), V9.2-3 (december 2024, port to x86). Going from one version to the next, roughly 400000 lines of code were added each time &#8211; the article doesn&#8217;t theorise about the consistency of this number, and I suspect it&#8217;s mostly just a fun coincidence, but it does jump out. 
+
+<br> 
+
+<https://www.osnews.com/story/142057/how-big-is-vms/>
 
 ---
 
@@ -23,9 +59,9 @@ Microsoft is celebrating its 50th anniversary, and in honour of this milestone, 
 
 ## Trump fires NSA boss, deputy
 
-date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
+date: 2025-04-04, updated: 2025-04-05, from: The Register (UK I.T. News)
 
-<h4>Intelligence chief booted after less than two years on the job</h4> <p>President Trump yesterday fired the head of the NSA and US Cyber Command and his deputy.…</p> 
+<h4>&#39;Nonpartisan&#39; intelligence chief booted less than two years into the job</h4> <p>President Trump yesterday fired the head of the NSA and US Cyber Command and his deputy.…</p> 
 
 <br> 
 
@@ -73,7 +109,7 @@ NASA astronaut Jonny Kim poses for a portrait while wearing a spacesuit on July 
 
 date: 2025-04-04, updated: 2025-04-04, from: The Register (UK I.T. News)
 
-<h4>Panel finds plaintiffs should get a chance to prove docs not submitted too late</h4> <p>IBM may have seen off a lawsuit accusing it of using outdated mortality data to underfund retiree pensions, but an appeals court has now reopened the matter to further litigation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+<h4>Panel finds plaintiffs should get a chance to prove docs not submitted too late</h4> <p><strong>Updated</strong>  IBM may have seen off a lawsuit accusing it of using outdated mortality data to underfund retiree pensions, but an appeals court has now reopened the matter to further litigation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
 <br> 
 
@@ -1782,4 +1818,40 @@ date: 2025-03-30, updated: 2025-03-30, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/30/zorin_and_dash_to_panel/>
+
+---
+
+## Nvidia GPU roadmap confirms it: Moore’s Law is dead and buried
+
+date: 2025-03-29, updated: 2025-03-29, from: The Register (UK I.T. News)
+
+<h4>More silicon, more power, more pain for datacenter operators</h4> <p><strong>Comment</strong>  As Jensen Huang is fond of saying, Moore&#39;s Law is dead – and <a target="_blank" href="https://www.theregister.com/special_features/nvidia_gtc/">at Nvidia GTC this month</a>, the GPU-slinger&#39;s chief exec let slip just how deep in the ground the computational scaling law really is.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/29/nvidia_moores_law/>
+
+---
+
+## Malware in Lisp? Now you're just being cruel
+
+date: 2025-03-29, updated: 2025-03-29, from: The Register (UK I.T. News)
+
+<h4>Miscreants warming to Delphi, Haskell, and the like to evade detection</h4> <p>Malware authors looking to evade analysis are turning to less popular programming languages like Delphi or Haskell.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/29/malware_obscure_languages/>
+
+---
+
+## Brits to build ExoMars landing gear after Russia sent packing
+
+date: 2025-03-29, updated: 2025-03-30, from: The Register (UK I.T. News)
+
+<h4>Airbus UK wins £150M contract to revive long-delayed rover project</h4> <p>Airbus UK, a wholly-owned subsidiary of the European aerospace giant, has won the £150 million contract to complete a landing system for the long-delayed ExoMars rover.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/03/29/mars_lander_airbus_stevenage/>
 

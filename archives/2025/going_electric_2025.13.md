@@ -1,11 +1,27 @@
 ---
 title: going electric
-updated: 2025-04-04 14:09:48
+updated: 2025-04-05 06:08:09
 ---
 
 # going electric
 
-(date: 2025-04-04 14:09:48)
+(date: 2025-04-05 06:08:09)
+
+---
+
+## Tesla loses another top talent: its long-time head of software
+
+date: 2025-04-04, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/02/tesla-xray-2-e1455320423724.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla is losing another top talent: its long-time head of software, David Lau, has reportedly told co-workers that he is exiting the automaker.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="409877" href="https://electrek.co/2025/04/04/tesla-loses-another-top-talent-its-long-time-head-of-software/#more-409877" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/04/tesla-loses-another-top-talent-its-long-time-head-of-software/>
 
 ---
 
@@ -42,6 +58,10 @@ date: 2025-04-04, from: Electrek Feed
 date: 2025-04-04, from: Electrek Feed
 
 <div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>In the <a href="https://electrek.co/guides/electrek-podcast/">Electrek Podcast</a>, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss Tesla’s disastrous deliveries, more Trump tariffs, EV delivery numbers, and more.</p>
+
+
+
+<figure class="wp-block-audio"><audio controls src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Electrek_86.mp3"></audio></figure>
 
 
 
@@ -1924,4 +1944,92 @@ date: 2025-03-30, from: Electrek Feed
 <br> 
 
 <https://electrek.co/2025/03/30/buy-it-now-these-ev-deals-will-be-hardest-hit-by-trumps-tariffs-after-april-2nd/>
+
+---
+
+## SANY electric excavator arrives in Europe with MASSIVE 422 kWh battery
+
+date: 2025-03-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/sany_excavator.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Chinese equipment manufacturer SANY says its new, SY215E 25 ton electric excavator offers all the power and performance of its diesel competitors while dramatically reducing both noise, total cost of ownership, and (of course) emissions … but the number that stands out to me is 422.</p>
+
+
+
+<p>As in: the machine’s massive, <a href="https://electrek.co/2024/12/20/critical-ev-battery-materials-face-a-supply-crunch-by-2030/">cobalt-free</a>, 422 kWh lithium iron phosphate battery pack. (!)</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,sany" data-layer-viewtype="unknown" data-post-id="408574" href="https://electrek.co/2025/03/29/sany-electric-excavator-arrives-in-europe-with-massive-422-kwh-battery/#more-408574" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/29/sany-electric-excavator-arrives-in-europe-with-massive-422-kwh-battery/>
+
+---
+
+## E-quipment highlight: KUKA robots keep the kegs of Yuengling moving [video]
+
+date: 2025-03-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/kuka-keg-robot.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>It may market itself as “<a href="https://www.youtube.com/watch?v=HZeSUHPjJhY" target="_blank" rel="noreferrer noopener nofollow">America’s Oldest Brewery</a>,” but the D.G. Yuengling and Son, Inc. brewery in Pottsville, Pennsylvania has been on the leading edge of manufacturing innovation for decades. Recently, Yuengling replaced its original automation equipment with new, state-of-the-art robots from Kuka.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="automation,robots" data-layer-viewtype="unknown" data-post-id="408549" href="https://electrek.co/2025/03/29/e-quipment-highlight-kuka-robots-keep-the-kegs-of-yuengling-moving-video/#more-408549" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/29/e-quipment-highlight-kuka-robots-keep-the-kegs-of-yuengling-moving-video/>
+
+---
+
+## Did Ford time BlueOval SK factory opening perfectly to navigate Trump tariffs?
+
+date: 2025-03-29, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/mach-e_MAIN.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>US President Donald Trump recently announced a raft of new, expensive import tariffs on cars, trucks, and even parts and batteries imported into the country – which means that Ford might have timed its BlueOval SK battery factory going online perfectly.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ford,sk-on,tariffs" data-layer-viewtype="unknown" data-post-id="408514" href="https://electrek.co/2025/03/29/did-ford-time-blueoval-sk-factory-opening-perfectly-to-navigate-trump-tariffs/#more-408514" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/03/29/did-ford-time-blueoval-sk-factory-opening-perfectly-to-navigate-trump-tariffs/>
+
+---
+
+## TikTok Is Roasting The Crazy Spaceship Noises EVs Make
+
+date: 2025-03-29, from: Inside EVs News
+
+"When I heard it for the first time, I thought I was about to meet God," wrote one TikTok user. They're not wrong. 
+
+<br> 
+
+<https://insideevs.com/news/754999/tiktok-trend-reverse-ev-sound/>
+
+---
+
+## Nissan's Next-Gen Hybrids Are Actually EREVs
+
+date: 2025-03-29, from: Inside EVs News
+
+Even in non-plug-in models, Nissan's hybrid system has no direct connection between its engine and wheels.  
+
+<br> 
+
+<https://insideevs.com/news/754997/nissan-erev-e-power-rogue/>
+
+---
+
+## Lucid Gravity Deliveries Start In Force In Late April
+
+date: 2025-03-29, from: Inside EVs News
+
+A lot is riding on the success of Lucid's three-row electric SUV. Now we know the Gravity will arrive for regular customers next month. 
+
+<br> 
+
+<https://insideevs.com/news/755016/lucid-gravity-customer-deliveries-april/>
 

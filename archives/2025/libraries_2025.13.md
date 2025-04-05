@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-04 14:09:46
+updated: 2025-04-05 06:08:07
 ---
 
 # libraries
 
-(date: 2025-04-04 14:09:46)
+(date: 2025-04-05 06:08:07)
 
 ---
 
@@ -96,6 +96,18 @@ Gallivan, Rebecca
 <br> 
 
 <http://hdl.handle.net/20.500.11850/729906>
+
+---
+
+## Inhibition of PRC2 enables self-renewal of blastoid-competent naive pluripotent stem cells from chimpanzee
+
+date: 2025-04-03, from: ETH Zurich, recently added
+
+Huang T.; Radley A.; Yanagida A.; Ren Z.; Carlisle F.; Tahajjodi S.; Kim D.; O'Neill P.; Clarke J.; Lancaster M.A.; Heckhausen Z.; Zhuo J.; de Sousa J.P.A.; Hajkova P.; von Meyenn F.; Imai H.; Nakauchi H.; Guo G.; Smith A.; Masaki H. 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/730126>
 
 ---
 

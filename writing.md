@@ -1,11 +1,11 @@
 ---
 title: writing
-updated: 2025-04-04 14:09:45
+updated: 2025-04-05 06:08:05
 ---
 
 # writing
 
-(date: 2025-04-04 14:09:45)
+(date: 2025-04-05 06:08:05)
 
 ---
 
@@ -465,4 +465,17 @@ date: 2025-03-31, from: Locus Magazine
 <br> 
 
 <https://locusmag.com/2025/03/our-winter-monster-by-dennis-mahoney-review-by-gabino-iglesias/>
+
+---
+
+## Luminous by Silvia Park: Review by Abigail Nussbaum
+
+date: 2025-03-29, from: Locus Magazine
+
+<p><strong>Luminous</strong>, Silvia Park (Simon &#38; Schuster 978-1-66802-166-8, 400pp, $29.99, hc) March 2025.</p>
+<p>The woman might have been beautiful once. Lips pink and plush, and long blond hair, the kind that shone with each brush. She was falling apart. Her face had been shredded into confetti, held together by one bleary blue eye, while her torso was a smooth bioplastic vest, translucent as a milk carton. Ruijie had tried pressing  <a href="https://locusmag.com/2025/03/luminous-by-silvia-park-review-by-abigail-nussbaum/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/03/luminous-by-silvia-park-review-by-abigail-nussbaum/>
 
