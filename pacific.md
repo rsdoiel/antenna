@@ -1,11 +1,429 @@
 ---
 title: pacific
-updated: 2025-04-05 14:07:34
+updated: 2025-04-06 06:07:15
 ---
 
 # pacific
 
-(date: 2025-04-05 14:07:34)
+(date: 2025-04-06 06:07:15)
+
+---
+
+## Mass protests across the country show resistance to Trump
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>They came out in defense of national parks and small businesses, public education and health care for veterans, abortion rights and fair elections. They marched against tariffs and oligarchs, dark money and fascism, the deportation of legal immigrants and the Department of Government Efficiency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/nation-world-news/mass-protests-across-the-country-show-resistance-to-trump/>
+
+---
+
+## US starts collecting Trump’s 10% tariff, smashing global trade norms
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/JUPITER, Fla. &#8212; U.S. customs agents began collecting President Donald Trump&#8217;s unilateral 10% tariff on all imports from many countries on Saturday, with higher levies on goods from 57 larger trading partners due to start next week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/nation-world-news/us-starts-collecting-trumps-10-tariff-smashing-global-trade-norms/>
+
+---
+
+## Work on Goodwill campus progresses
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>The consolidation of Goodwill Hawaii&#8217;s Hilo stores and social service programs to the 67,000 square-foot campus at 17 Makaala St. acquired in late 2023 should be completed by the end of 2026.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/hawaii-news/work-on-goodwill-campus-progresses/>
+
+---
+
+## More than a thousand protest Trump administration at Hilo rally
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>The Hilo rally for the &#8220;Hands Off!&#8221; nationwide day of protest on Saturday saw over 1,000 people turn out to protest the Trump administration.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/hawaii-news/more-than-a-thousand-protest-trump-administration-at-hilo-rally/>
+
+---
+
+## Mental exam ordered for fatal stabbing suspect
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>A 30-year-old Hilo man accused of fatally stabbing an 81-year-old woman who lived next door to him will receive a mental examination.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/hawaii-news/mental-exam-ordered-for-fatal-stabbing-suspect/>
+
+---
+
+## Netanyahu will meet Trump in Washington in a sign of their strong ties
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>Israeli Prime Minister Benjamin Netanyahu is set to meet with President Donald Trump at the White House on Monday, according to two White House officials and an Israeli official, in the second such visit by the Israeli leader since the president&#8217;s inauguration in January.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/nation-world-news/netanyahu-will-meet-trump-in-washington-in-a-sign-of-their-strong-ties/>
+
+---
+
+## Senate approves GOP budget plan after overnight vote-a-thon
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Senate approved Republicans&#8217; budget blueprint just after 2:30 a.m. Saturday to clear the way for passing President Donald Trump&#8217;s domestic agenda, after Democrats forced an overnight session to protest the GOP push to deliver what the president has called &#8220;one big beautiful bill&#8221; of spending and tax cuts.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/nation-world-news/senate-approves-gop-budget-plan-after-overnight-vote-a-thon/>
+
+---
+
+## Rivers in central US swell rapidly as storm inundates region
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>Rivers were rising rapidly across much of the Midwest and South on Saturday, prompting water rescues and road closures as a relentless storm continued to dump rain across the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/nation-world-news/rivers-in-central-us-swell-rapidly-as-storm-inundates-region/>
+
+---
+
+## Steves: Třeboň and Třebíč are two gems of the Czech countryside
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>If you&#8217;re traveling in the Czech Republic south of Prague, you may have the famously cute town of Cesky Krumlov on your itinerary. While it&#8217;s delightful, two nearby towns &#8212; straddling the regions of Bohemia and Moravia &#8212; feel less commercial and, for many, equally worthwhile.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/features/steves-trebon-and-trebic-are-two-gems-of-the-czech-countryside/>
+
+---
+
+## Trump administration fires U.S. Aid workers in quake zone in Myanmar
+
+date: 2025-04-06, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Trump administration officials have fired workers for the main U.S. aid agency who were sent to Myanmar to assess how the United States could help with earthquake relief efforts, three people with knowledge of the actions said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/06/nation-world-news/trump-administration-fires-u-s-aid-workers-in-quake-zone-in-myanmar/>
+
+---
+
+## 21-year-old Remathau entrepreneur Alisha Tareg is just getting started
+
+date: 2025-04-06, from: The Husk
+
+Alisha crafts fresh leis and baskets, using materials from her home islands 
+
+<br> 
+
+<https://thehusk.substack.com/p/21-year-old-remathau-entrepreneur>
+
+---
+
+## 'Paying federal tax is a small price to pay for security,' Guam senator says 
+
+date: 2025-04-05, from: Pacific Island Times
+
+ While the U.S. military maintains that beefing up existing defense resources and building a missile defense system would secure the island, 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/paying-federal-tax-is-a-small-price-to-pay-for-security-guam-senator-says>
+
+---
+
+##  When super is not so super
+
+date: 2025-04-05, from: Pacific Island Times
+
+The word “supercalifragilisticexpialidocious” was coined in the 1930s and popularized by the 1964 film “Mary Poppins,” which my wife Sharon  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/when-super-is-not-so-super>
+
+---
+
+## Obsidian in ancient Vanuatu
+
+date: 2025-04-05, from: Pacific Island Times
+
+In ancient times, obsidian was highly valued in Vanuatu for its sharpness and ease of shaping.  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/obsidian-in-ancient-vanuatu>
+
+---
+
+## Trump’s trade war escalates as China retaliates with 34% tariffs
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>BEIJING &#8212; China has struck back at President Donald Trump.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trumps-trade-war-escalates-as-china-retaliates-with-34-tariffs/>
+
+---
+
+## Trump sounds defiant note as tariffs roil markets again
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>Two days after President Donald Trump announced his expansive global tariffs, the United States confronted wide-ranging and painful blowback, as China retaliated against U.S. goods and markets plummeted again on worries of a persistent, damaging trade war.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-sounds-defiant-note-as-tariffs-roil-markets-again/>
+
+---
+
+## Loomer’s role in firings shows rising sway of fringe figures on Trump
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Laura Loomer had President Donald Trump&#8217;s full attention.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/loomers-role-in-firings-shows-rising-sway-of-fringe-figures-on-trump/>
+
+---
+
+## Hawaii condo insurance relief on horizon
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>Relief for many Hawaii condominium owners paying sky-high insurance premiums may be available soon under a state program.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/hawaii-news/hawaii-condo-insurance-relief-on-horizon/>
+
+---
+
+## SpaceX, ULA, Blue Origin clinch $13.5 billion-dollar Pentagon launch contracts
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Elon Musk&#8217;s SpaceX, United Launch Alliance and Jeff Bezos&#8217; Blue Origin on Friday won U.S. Space Force rocket launch contracts worth a combined $13.5 billion through 2029 to send some of the Pentagon&#8217;s most sensitive and complex satellites into space.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/spacex-ula-blue-origin-clinch-13-5-billion-dollar-pentagon-launch-contracts/>
+
+---
+
+## Israeli military expands ground operations in Gaza City
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; The Israeli military pressed deeper into northern Gaza by ground on Friday after issuing a series of evacuation orders calling on Palestinians to flee, part of its escalating offensive against Hamas in the war-battered Gaza Strip.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/israeli-military-expands-ground-operations-in-gaza-city/>
+
+---
+
+## YouTuber is arrested after leaving Diet Coke on isolated tribe’s island
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>An American tourist set off alone last week on an inflatable boat for the remote island of North Sentinel in the Indian Ocean. He had packed a Diet Coke and a coconut as an offering for the highly isolated tribe that lives there, and he had brought along a GoPro camera in hopes of filming the encounter, the Indian police said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/youtuber-is-arrested-after-leaving-diet-coke-on-isolated-tribes-island/>
+
+---
+
+## Trump administration is ordered to return migrant deported to El Salvador
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>GREENBELT, Md. &#8212; A federal judge gave the Trump administration until the end of Monday to return to the United States a Maryland man who was inadvertently deported to El Salvador last month despite a court order allowing him to stay in the country.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-administration-is-ordered-to-return-migrant-deported-to-el-salvador/>
+
+---
+
+## Boy swept away by raging waters in Kentucky as rain soaks central US
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>Over the past few days, more than 30 tornadoes have shredded a vast stretch of the central United States, and relentless rain has pushed creeks and streams beyond their banks. In Kentucky, floodwaters swept away a 9-year-old boy, making him at least the eighth person killed by the violent series of storms.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/boy-swept-away-by-raging-waters-in-kentucky-as-rain-soaks-central-us/>
+
+---
+
+## Russian strike kills 16, including six children, Ukraine says
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>KYIV, Ukraine &#8212; A Russian missile strike Friday on Kryvyi Rih, a city in central Ukraine, killed at least 16 people, including six children, and wounded more than 50, local officials said. It was the latest in a series of Russian attacks on urban centers in recent days, despite ongoing ceasefire talks, that have caused significant civilian casualties.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/russian-strike-kills-16-including-six-children-ukraine-says/>
+
+---
+
+## Trump rejects Biden plan to expand Medicare coverage for obesity drugs
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration on Friday rejected a Biden administration plan that would have required Medicare and Medicaid to cover obesity drugs and expanded access for millions of people.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/nation-world-news/trump-rejects-biden-plan-to-expand-medicare-coverage-for-obesity-drugs/>
+
+---
+
+## Tropical Gardening: Legal mood-enhancers like chocolate are nothing new in Hawaii
+
+date: 2025-04-05, from: Hawaii Tribune Harold
+
+
+				<p>Mark your calendar for the Big Island Chocolate Festival, April 10 to April 12, and learn everything from growing to eating cacao or chocolate.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/05/features/tropical-gardening-legal-mood-enhancers-like-chocolate-are-nothing-new-in-hawaii/>
+
+---
+
+## Trump tariffs wipe $5 trillion off Wall Street
+
+date: 2025-04-05, updated: 2025-04-06, from: Marianas Variety
+
+ORLANDO, Florida (Reuters) — One of the most pivotal weeks in years — even decades — for the global economy closed on Friday to the sound of the Nasdaq crashing into a bear market as investors fear President Donald Trump's trade war will tip the world into recession. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/trump-tariffs-wipe-5-trillion-off-wall-street/article_8a459cf7-cc31-423c-820d-64db1d156e84.html>
+
+---
+
+## 'No more excuses: real climate action now'
+
+date: 2025-04-05, from: Pacific Island Times
+
+Vanuatu stands with the 6PAC+ alliance at the IMO that includes the Pacific, the Caribbean, Africa, and many SIDS and LDCs. We stand with th 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/no-more-excuses-real-climate-action-now>
+
+---
+
+## Hands-on STEAM program for Maui keiki expands with new funding
+
+date: 2025-04-05, from: University of Hawaiʻi News
+
+<p>The S.T.E.A.M. on the Bookshelf program has already engaged over 200 <span aria-label="ohana">&#699;ohana</span> on Maui.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/04/steam-on-the-bookshelf-program/">Hands-on <abbr>STEAM</abbr> program for Maui keiki expands with new funding</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/04/steam-on-the-bookshelf-program/>
+
+---
+
+## Peddling influence in the New Cold War
+
+date: 2025-04-05, from: Pacific Island Times
+
+ Every institution deserves to have its roots shaken from time to time. Most NGOs fall victim to their own foregone conclusions, a de facto  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/peddling-influence-in-the-new-cold-war>
+
+---
+
+## UH Mānoa dance majors to perform on European stages
+
+date: 2025-04-05, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa Faculty, lecturers and graduate students will tour with their original world premiere dance production, <em>EchoEight</em>.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/04/uh-manoa-dance-echoeight-european-stages/"><abbr>UH</abbr> Mānoa dance majors to perform on European stages</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/04/uh-manoa-dance-echoeight-european-stages/>
 
 ---
 
@@ -70,6 +488,18 @@ The post <a href="https://www.hawaii.edu/news/2025/04/04/2025-20-for-the-next-20
 <br> 
 
 <https://www.hawaii.edu/news/2025/04/04/2025-20-for-the-next-20/>
+
+---
+
+## Elevate outdoor entertaining with petunias and pansies
+
+date: 2025-04-04, updated: 2025-04-04, from: Marianas Variety
+
+Sorry, but your browser does not support the video tag. 
+
+<br> 
+
+<https://www.mvariety.com/online_features/senior_living/elevate-outdoor-entertaining-with-petunias-and-pansies/article_cd501b68-7283-5b3e-9e8b-050025f85bf3.html>
 
 ---
 
@@ -377,7 +807,7 @@ date: 2025-04-04, from: Pacific Island Times
 
 ## South Korea’s Yoon removed from office over martial law, election looms
 
-date: 2025-04-04, updated: 2025-04-04, from: Marianas Variety
+date: 2025-04-04, updated: 2025-04-06, from: Marianas Variety
 
 SEOUL (Reuters) — South Korean President Yoon Suk Yeol was ousted on Friday by the Constitutional Court, ushering in an election after it upheld parliament's impeachment over Yoon's imposition of martial law that sparked the nation's worst political crisis in decades. 
 
@@ -695,7 +1125,7 @@ The post <a href="https://www.hawaii.edu/news/2025/04/03/celebrate-a-legacy-in-t
 
 ## Card payment strategies to boost your business’s bottom line
 
-date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+date: 2025-04-03, updated: 2025-04-05, from: Marianas Variety
 
 (BPT) - By Amber Tialino, senior vice president and general manager of Spend &amp; Expense at BILL 
 
@@ -746,7 +1176,7 @@ by Jennifer Randall Hotz Mrs. C. will tell you she doesn&#8217;t mind that the c
 
 ## What really happened
 
-date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+date: 2025-04-03, updated: 2025-04-06, from: Marianas Variety
 
 Deal or no deal 
 
@@ -758,7 +1188,7 @@ Deal or no deal
 
 ## Police investigating threat to NMC
 
-date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+date: 2025-04-03, updated: 2025-04-06, from: Marianas Variety
 
 ASSISTANT Police Chief Simon Manacop said the Department of Public Safety is conducting routine checks at Northern Marianas College while detectives prioritize the investigation of an online threat made to NMC. 
 
@@ -770,7 +1200,7 @@ ASSISTANT Police Chief Simon Manacop said the Department of Public Safety is con
 
 ## CNMI has until Dec. 31, 2026 to spend ARPA funds
 
-date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+date: 2025-04-03, updated: 2025-04-06, from: Marianas Variety
 
 THE CNMI has until Dec. 31, 2026 to spend the state and local fiscal recovery funds that it received from the federal government under the American Rescue Plan Act, U.S. Congresswoman Kimberlyn King-Hinds said. 
 
@@ -782,7 +1212,7 @@ THE CNMI has until Dec. 31, 2026 to spend the state and local fiscal recovery fu
 
 ## DPW to inspect IPI building
 
-date: 2025-04-03, updated: 2025-04-03, from: Marianas Variety
+date: 2025-04-03, updated: 2025-04-06, from: Marianas Variety
 
 THE Department of Public Works will inspect Imperial Pacific International's unfinished hotel and casino building in Garapan. 
 
@@ -2734,209 +3164,4 @@ While the University of Guam has said it has no plans to raise tuition right now
 <br> 
 
 <https://www.pacificislandtimes.com/post/senator-proposes-three-year-freeze-on-univerity-of-guam-tuition-hike>
-
----
-
-##  $40 million contract inked to kickstart 3D printing project on Guam
-
-date: 2025-03-29, from: Pacific Island Times
-
-ASTRO said additive manufacturing “has the potential to produce parts on-demand at the point of need, consolidating supply chains, cutting l 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/40-million-contract-inked-to-kickstart-3d-printing-project-on-guam>
-
----
-
-## Visiting Greenland, Vance finds the weather and the reception chilly
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; President Donald Trump has been less than subtle in his insistence that the United States will &#8220;get&#8221; Greenland one way or another, reiterating Friday that the United States cannot &#8220;live without it.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/visiting-greenland-vance-finds-the-weather-and-the-reception-chilly/>
-
----
-
-## Wobbly US stocks face test with tariffs, jobs data
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>NEW YORK &#8212; A rocky U.S. stock market will be tested in the coming week by a pivotal deadline for President Donald Trump&#8217;s tariff plans and an employment report that could reveal a slowing economy.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/wobbly-us-stocks-face-test-with-tariffs-jobs-data/>
-
----
-
-## Trump’s tariffs cast doubt on Hawaii vehicle sales forecast
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>Hawaii&#8217;s auto dealers ended 2024 down 3% in sales and were expecting a rebound this year until the enthusiasm was abruptly halted when President Donald Trump announced 25% tariffs on foreign auto imports and auto parts this week.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/hawaii-news/trumps-tariffs-cast-doubt-on-hawaii-vehicle-sales-forecast/>
-
----
-
-## Tomb of unidentified ancient Egyptian pharaoh discovered
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>Burial chamber unearthed seven meters (23 feet) underground</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/tomb-of-unidentified-ancient-egyptian-pharaoh-discovered/>
-
----
-
-## Inflation remained sticky ahead of Trump’s escalating trade war
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>Americans hoping for some relief on inflation suffered a setback in February, as new data showed underlying price pressures intensifying even before the latest escalation in President Donald Trump&#8217;s trade war and consumers pulled back on spending.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/inflation-remained-sticky-ahead-of-trumps-escalating-trade-war/>
-
----
-
-## Israel launches airstrikes near Beirut for first time since ceasefire
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>BEIRUT &#8212; The Israeli military launched airstrikes in the southern outskirts of Beirut on Friday for the first time since a U.S.-brokered ceasefire came into effect in November, shattering months of tense calm in the Lebanese capital and stoking fears of a further escalation. </p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/israel-launches-airstrikes-near-beirut-for-first-time-since-ceasefire/>
-
----
-
-## Trump orders Smithsonian Institution to promote ‘American greatness’
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>President Donald Trump intensified his push to impose a more positive view of American history by moving to curb the independence of the Smithsonian Institution, which he wants to make into a &#8220;symbol of inspiration and American greatness.&#8221;</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/trump-orders-smithsonian-institution-to-promote-american-greatness/>
-
----
-
-## Major quake batters Myanmar; high toll is feared as buildings topple
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>BANGKOK &#8212; A powerful earthquake struck central Myanmar on Friday, gouging open roads, toppling century-old religious monuments and destroying multistory buildings as it shook a vast expanse of Southeast Asia and dealt another severe blow to a country that has been ripped apart by civil war.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/major-quake-batters-myanmar-high-toll-is-feared-as-buildings-topple/>
-
----
-
-## Elon Musk says he has sold X to his AI startup xAI
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>Elon Musk said Friday that he had sold X, his social media company, to xAI, his artificial intelligence startup, in an unusual arrangement that shows the financial maneuvering inside the business empire of the world&#8217;s richest man.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/elon-musk-says-he-has-sold-x-to-his-ai-startup-xai/>
-
----
-
-## FCC chair orders inquiry into Disney’s DEI practices
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>WASHINGTON &#8212; The chair of the Federal Communications Commission said Friday that he had opened an investigation into The Walt Disney Co.&#8217;s diversity, equity and inclusion programs in the latest attempt under the Trump administration to halt such efforts.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/nation-world-news/fcc-chair-orders-inquiry-into-disneys-dei-practices/>
-
----
-
-## Tropical Gardening: Consider adding a walkway to your yard or garden
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>Warm days have caused our gardens to flourish, but this can mean too much of a good thing.</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/features/topical-gardening-consider-adding-a-walkway-to-your-yard-or-garden/>
-
----
-
-## Elderly woman slain in Hilo; suspect in custody
-
-date: 2025-03-29, from: Hawaii Tribune Harold
-
-
-				<p>An elderly woman, 81, was stabbed to death this morning on the 200 block of Olu Street in Hilo, police said,</p>
-			 
-
-<br> 
-
-<https://www.hawaiitribune-herald.com/2025/03/29/hawaii-news/elderly-woman-slain-in-hilo-suspect-in-custody/>
-
----
-
-## Robert Jones steps down as Triple J's head, Jeff Jones takes over 
-
-date: 2025-03-29, from: Pacific Island Times
-
-By Pacific Island Times News Staff Robert Jones Robert H. Jones, who founded Triple J in 1984 and has served as CEO since its inception,... 
-
-<br> 
-
-<https://www.pacificislandtimes.com/post/robert-jones-steps-down-as-triple-j-s-head-jeff-jones-takes-over>
-
----
-
-## From student to hotel general manager, Kapiʻolani CC alumna Kiana Beimes
-
-date: 2025-03-29, from: University of Hawaiʻi News
-
-<p>In a decade, <span aria-label="Kapiolani">Kapi&#699;olani</span> <abbr>CC</abbr> graduate Kiana Beimes rose from intern to the general manager of a Waik&#299;k&#299; hotel.</p>
-The post <a href="https://www.hawaii.edu/news/2025/03/28/kapiolani-cc-alumna-kiana-beimes/">From student to hotel general manager, Kapiʻolani <abbr>CC</abbr> alumna Kiana Beimes</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
-
-<br> 
-
-<https://www.hawaii.edu/news/2025/03/28/kapiolani-cc-alumna-kiana-beimes/>
 

@@ -1,11 +1,23 @@
 ---
 title: libraries
-updated: 2025-04-05 14:07:38
+updated: 2025-04-06 06:07:19
 ---
 
 # libraries
 
-(date: 2025-04-05 14:07:38)
+(date: 2025-04-06 06:07:19)
+
+---
+
+## Nitrate contamination in groundwater across Switzerland: Spatial prediction and data-driven assessment of anthropogenic and environmental drivers
+
+date: 2025-04-10, from: ETH Zurich, recently added
+
+Covatti, Gustavo; Li, Kai-Yun; Podgorski, Joel; Winkel, Lenny H.E.; Berg, Michael 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/729458>
 
 ---
 

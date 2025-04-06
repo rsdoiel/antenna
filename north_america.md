@@ -1,11 +1,68 @@
 ---
 title: north america
-updated: 2025-04-05 14:07:33
+updated: 2025-04-06 06:07:13
 ---
 
 # north america
 
-(date: 2025-04-05 14:07:33)
+(date: 2025-04-06 06:07:13)
+
+---
+
+## Hands off! Jen Rubin and April Ryan kick off the day of action
+
+date: 2025-04-05, from: The Contrarian
+
+A recording from Jennifer Rubin's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160645673/c7c867d645619e88f4ffd15a188cd900.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160645673/c7c867d645619e88f4ffd15a188cd900.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/hands-off-jen-rubin-and-april-ryan>
+
+---
+
+##  YOU LOVE TO SEE IT: Elon Goes Home Empty-Handed 
+
+date: 2025-04-05, from: The Lever News
+
+ A state court seat is not for sale, lawmakers tackle surveillance pricing, journalists won’t be silenced, and states ban political deepfakes.  
+
+<br> 
+
+<https://www.levernews.com/you-love-to-see-it-elon-goes-home-empty-handed/>
+
+---
+
+## Can you tariff-proof a cocktail?
+
+date: 2025-04-05, from: Market Place, Make me Smart
+
+<p><!-- wp:paragraph --></p>
+<p>On this edition of &#8220;Economics on Tap,&#8221; Kimberly and Sabri discuss how it’s nearly impossible to tariff-proof your shopping list (or cocktail) because of the way our global economy works. They also get into why reshoring might be easier said than done. Plus, could Congress claw back some of the authority on tariffs? And the hosts weigh in on this season of &#8220;White Lotus&#8221; in a round of Half-Full/Half-Empty!</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.washingtonpost.com/business/2025/03/29/tariffs-alcohol-cocktails-wines/" target="_blank" rel="noreferrer noopener">“These cocktails and wines could get pricier if Trump imposes tariffs”</a> from The Washington Post<!-- /wp:paragraph --> <!-- wp:list-item --></li>
+<li><a href="https://www.reuters.com/world/us/us-senate-republican-pushes-congressional-approval-presidents-tariffs-2025-04-03/" target="_blank" rel="noreferrer noopener">“US Senate Republican pushes to require congressional approval for new tariffs”</a> by Reuters<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.politico.com/live-updates/2025/04/04/congress/don-bacon-tariff-powers-bill-00273307" target="_blank" rel="noreferrer noopener">“House Republican moves to rein in tariff powers”</a> by Politico<!-- /wp:list-item --> <!-- wp:list-item --></li>
+<li><a href="https://www.nytimes.com/2025/04/04/business/economy/powell-trump-tariff-inflation-risk.html" target="_blank" rel="noreferrer noopener">“Powell Warns Trump’s Tariffs Risk Stoking Even Higher Inflation and Slower Growth”</a> from The New York Times</li>
+<li>&#8220;<a class="c-link" href="https://www.nytimes.com/2025/04/01/dining/revolving-restaurant.html?partner=slack&amp;smid=sl-share" target="_blank" rel="noopener noreferrer" data-stringify-link="https://www.nytimes.com/2025/04/01/dining/revolving-restaurant.html?partner=slack&amp;smid=sl-share" data-sk="tooltip_parent">The Revolving Restaurant Is Back Again (and Again)&#8221;</a> from The New York Times</li>
+<li><a href="https://www.wsj.com/economy/consumers/americans-rush-to-buy-tvs-soy-sauce-lululemon-workout-gear-fd6126ac"><span style="font-weight: 400">&#8220;Americans Rush to Buy TVs, Soy Sauce, Lululemon Workout Gear&#8221;</span></a> from The Wall Street Journal</li>
+<li><a href="https://www.wsj.com/tech/ai/this-financial-firm-can-give-investment-advice-in-gen-z-slang-no-cap-eea745eb"><span style="font-weight: 400">&#8220;This Financial Firm Can Give Investment Advice in Gen Z Slang, No Cap&#8221;</span></a> from The Wall Street Journal</li>
+<li><a class="c-link c-message_attachment__title_link" href="https://www.yahoo.com/entertainment/the-white-lotus-season-3-finale-how-to-watch-plus-what-we-know-about-season-4-133010993.html" target="_blank" rel="noopener noreferrer" data-qa="message_attachment_title_link"><span dir="auto">&#8216;The White Lotus&#8221; Season 3 finale: How to watch, plus what we know about Season 4</span></a> from Yahoo Entertainment</li>
+</ul>
+<p><!-- /wp:list-item --></p>
+<p><!-- /wp:list --> <!-- wp:paragraph --></p>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+<p><!-- /wp:paragraph --></p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/04/04/mms_20250404_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcan-you-tariff-proof-a-cocktail&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/04/04/mms_20250404_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcan-you-tariff-proof-a-cocktail&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/can-you-tariff-proof-a-cocktail>
 
 ---
 
@@ -1521,68 +1578,4 @@ date: 2025-03-31, from: The Lever News
 <br> 
 
 <https://www.levernews.com/how-big-law-killed-the-democrats/>
-
----
-
-## Publisher's Roundup, 11
-
-date: 2025-03-29, from: The Contrarian
-
-&#8220;Have You No Sense of Decency,&#8221; Mr. Trump? 
-
-<br> 
-
-<https://contrarian.substack.com/p/publishers-roundup-11>
-
----
-
-##  YOU LOVE TO SEE IT: Fighting The Oligarchs 
-
-date: 2025-03-29, from: The Lever News
-
- Thousands fight the oligarchy, states give credit where credit’s due, a free-press challenge gets crushed, and state death penalties meet their fate.  
-
-<br> 
-
-<https://www.levernews.com/you-love-to-see-it-fighting-the-oligarchs/>
-
----
-
-## Are budget guidelines based on your pre-tax or post-tax income?
-
-date: 2025-03-29, from: Market Place
-
-Conventional budgeting wisdom, like the 30% rent rule, is usually based on gross income, but experts say these guidelines are just a starting point. Personal circumstances could change your tax bill and therefore your budget. 
- 
-
-<br> 
-
-<https://www.marketplace.org/2025/03/28/are-budget-guidelines-based-on-your-pre-tax-or-post-tax-income/>
-
----
-
-## CoreWeave’s IPO tests money magic of AI
-
-date: 2025-03-29, from: Market Place, Make me Smart
-
-<p>The artificial intelligence cloud computing provider CoreWeave sold shares to the public today with so-so results. Because it&#8217;s the first major IPO of the current generative AI era, some argue that CoreWeave could be a barometer of the AI boom. We&#8217;ll get into it. And, a federal appeals court ruled in favor of President Donald Trump&#8217;s firings of independent agency heads. The case will likely make its way to the Supreme Court. Plus, we&#8217;ll play a round of Half Full/Half Empty!</p>
-<p>Here&#8217;s everything we talked about today:</p>
-<ul>
-<li><a href="https://www.politico.com/news/2025/03/28/appeals-court-ruling-trump-independent-federal-agencies-00258300" target="_blank" rel="noreferrer noopener">&#8220;Appeals court clears way for Trump to fire leaders of ‘independent’ federal agencies&#8221;</a> from Politico</li>
-<li><a href="https://finance.yahoo.com/news/coreweave-stock-seesaws-after-ipo-in-first-big-test-of-ai-trade-173445419.html" target="_blank" rel="noreferrer noopener">&#8220;CoreWeave stock seesaws after IPO in first big test of AI trade&#8221;</a> from Yahoo Finance</li>
-<li><a href="https://www.wheresyoured.at/core-incompetency/?ref=ed-zitrons-wheres-your-ed-at-newsletter" target="_blank" rel="noreferrer noopener">&#8220;CoreWeave Is A Time Bomb&#8221;</a> from Ed Zitron&#8217;s Where&#8217;s Your Ed At</li>
-<li><a href="https://www.nytimes.com/2025/03/25/technology/chatgpt-image-generator.html?partner=slack&amp;smid=sl-share" target="_blank" rel="noreferrer noopener">&#8220;OpenAI Unveils New Image Generator for ChatGPT&#8221;</a> from The New York Times</li>
-<li><a href="https://www.marketplace.org/2025/03/24/doordash-klarna-buy-now-pay-later-orders/" target="_blank" rel="noreferrer noopener">&#8220;DoorDash and Klarna partner to offer buy now, pay later for takeout&#8221;</a> from Marketplace</li>
-<li><a href="https://www.marketplace.org/2025/03/28/crocs-hits-record-revenue-as-popularity-with-younger-consumers-soars/" target="_blank" rel="noreferrer noopener">&#8220;Crocs hits record revenue as popularity with younger consumers soars&#8221;</a> from Marketplace</li>
-<li><a href="https://www.marketplace.org/2025/03/24/when-should-we-pay-rent-with-a-credit-card/" target="_blank" rel="noreferrer noopener">&#8220;When should we pay rent with a credit card?</a> from Marketplace</li>
-<li><a href="https://www.nytimes.com/2025/03/27/technology/meta-facebook-friends-tab.html?campaign_id=4&amp;emc=edit_dk_20250328&amp;instance_id=151206&amp;nl=dealbook&amp;regi_id=144686531&amp;segment_id=194638&amp;user_id=d2d928a1f9dc3a96ed597f55afd46083" target="_blank" rel="noreferrer noopener">&#8220;Facebook’s New Friends Tab Brings App Back to Its Roots&#8221;</a> from The New York Times</li>
-</ul>
-<p>Marketplace’s March fundraiser ends today! Chip in now and pick up a classic public media thank-you gift: <a href="https://support.marketplace.org/smart-sn" target="_blank" rel="noreferrer noopener">https://support.marketplace.org/smart-sn</a></p>
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/28/mms_20250328_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcoreweaves-ipo-tests-money-magic-of-ai&awCollectionId=mkp-MMsmrt"></source>
-</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/03/28/mms_20250328_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fcoreweaves-ipo-tests-money-magic-of-ai&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
-
-<https://www.marketplace.org/shows/make-me-smart/coreweaves-ipo-tests-money-magic-of-ai>
 

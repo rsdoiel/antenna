@@ -1,11 +1,329 @@
 ---
 title: journalism
-updated: 2025-04-05 14:07:37
+updated: 2025-04-06 06:07:18
 ---
 
 # journalism
 
-(date: 2025-04-05 14:07:37)
+(date: 2025-04-06 06:07:18)
+
+---
+
+## Rising Artists: Blossoming musicians deliver fresh sounds, lush lyrics this spring
+
+date: 2025-04-06, from: The Daily Bruin (UCLA Student Newspaper)
+
+As flowers come into bloom this spring, so do several rising artists.
+From electronic musicians to potential folk icons, a variety of artists have released or will release new albums in 2025. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/05/rising-artists-blossoming-musicians-deliver-fresh-sounds-lush-lyrics-this-spring/>
+
+---
+
+## Local first responders roll up their sleeves to compete for a noble cause
+
+date: 2025-04-06, from: The Canyon News (COC Student Newspaper)
+
+<p>On March 28th, from 10 a.m. to 4 p.m., the Santa Clarita&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/battle-of-the-badges/">Local first responders roll up their sleeves to compete for a noble cause</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/battle-of-the-badges/>
+
+---
+
+## BREAKING: “Hands Off!” rallies take place across the nation
+
+date: 2025-04-05, from: The Sundail (CSUN Student Newspaper)
+
+Approximately one million people across every state and 10 countries are participating in the “Hands-Off!” protests on April 5. Across California, dozens of protests are taking place today to voice... 
+
+<br> 
+
+<https://sundial.csun.edu/192113/news/breaking-hands-off-rallies-take-place-across-the-nation/>
+
+---
+
+## UCLA team prototypes compact, efficient alternative to existing cooling technology
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA researchers designed a new compact cooling device that may have implications for tackling climate change and developing wearable technology.
+The October study describes a heat pump that uses stacks of polymer that change in temperature under an electric field, a phenomenon known as the electrocaloric effect. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/05/ucla-team-prototypes-compact-efficient-alternative-to-existing-cooling-technology/>
+
+---
+
+## Senate Bill 4: A Step Toward Safeguarding Undocumented Communities
+
+date: 2025-04-05, from: The Sundail (CSUN Student Newspaper)
+
+Associated Students ruled during a special meeting on March 3 to continue supporting undocumented students with Red Cards (Know Your Rights cards) and urging CSUN partners and community to remain... 
+
+<br> 
+
+<https://sundial.csun.edu/192104/news/senate-bill-4-a-step-toward-safeguarding-undocumented-communities/>
+
+---
+
+## 5 years since COVID-19 lockdowns: How campus life was transformed
+
+date: 2025-04-05, from: The Canyon News (COC Student Newspaper)
+
+<p>Last month marked the fifth anniversary of the global COVID-19 pandemic. Canyons&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/covid-5-years-later/">5 years since COVID-19 lockdowns: How campus life was transformed</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/covid-5-years-later/>
+
+---
+
+## Trump administration revokes visas of multiple UCLA, UC students
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 5 at 2:46 p.m.</em>
+The United States government has revoked the visas of multiple students across the UC, including at UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/trump-administration-revokes-visas-of-multiple-ucla-uc-students/>
+
+---
+
+## Students voiced their concerns at the ASG Town Hall
+
+date: 2025-04-05, from: The Canyon News (COC Student Newspaper)
+
+<p>The Associated Student Government (ASG) held its second annual Town Hall Meeting&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/asg-town-hall/">Students voiced their concerns at the ASG Town Hall</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/asg-town-hall/>
+
+---
+
+## Good night from Tampa, and thank you
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+A tough way for us to sign out here at Amalie Arena. 
+Amalie Arena vacated with time still left on the clock, and it&#8217;s now deep into the night and these halls ghost like. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/good-night-from-tampa-and-thank-you/>
+
+---
+
+## Our full wrap
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+In what was slated to be a historic night for No. 1 seed UCLA women&#8217;s basketball, a more painful first transpired for the Bruins.
+UCLA’s 85-51 obliteration at the hands of No. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/our-full-wrap-2/>
+
+---
+
+## The good news
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+All of UCLA&#8217;s players – including faces of the program, junior center Lauren Betts, junior guard Gabriela Jaquez and junior guard Kiki Rice – are eligible to return next season. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/the-good-news/>
+
+---
+
+## Deep Breaths
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCLA&#8217;s worst loss of the season came on arguably the biggest stage the program has ever seen.
+It&#8217;s 51 points are the fewest it&#8217;s scored all season and UConn&#8217;s 85 the most its allowed. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/deep-breaths/>
+
+---
+
+## Sad smiles in the stands
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The applause at Pauley Pavilion has been replaced by resigned smiles as UCLA’s March Madness run came to an end. People have been depopulating the stands since halftime but a few devoted dozens stuck it out until the end. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/sad-smiles-in-the-stands/>
+
+---
+
+## A loss for the history books
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+In their first-ever NCAA Final Four appearance, the Bruins made history as the first team to lose by more than 30 points in national semifinals. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/a-loss-for-the-history-books/>
+
+---
+
+## No Hollywood ending
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Bruins are heading home – the Huskies beat just swamped them in Tampa Bay – but it looked like no one besides junior center Lauren Betts arrived anyway, with the rest of the team scoring just 25 points to Betts&#8217; 26. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/no-hollywood-ending/>
+
+---
+
+## Final
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+FINAL: UConn 85, UCLA 51.
+Bruins are completely and utterly blown out in what became their final game of the season Friday night in Tampa. 34-point loss and nothing – at all – went right for UCLA. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/final-3/>
+
+---
+
+## Emotions rise
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Lauren Betts, in tears, has taken to the sideline.
+The 2025 Naismith Defensive Player of the Year has accounted for more than half of UCLA’s points, while the rest of the team has struggled to gain any momentum. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/emotions-rise/>
+
+---
+
+## UConn’s victory lap and UCLA’s ugly defeat
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+With just 51 points with under a minute left, it&#8217;s looking like tonight will be the fewest points scored by UCLA all season. 
+The Bruins trail the Huskies by 32. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/uconns-victory-lap-and-uclas-ugly-defeat/>
+
+---
+
+## Garbage time in Tampa
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+If you told someone UCLA junior center Lauren Betts would have 23 points with four minutes remaining in the final frame and UConn guard Paige Bueckers would have just 16, they probably wouldn&#8217;t guess the current score – 72-43 Huskies. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/garbage-time-in-tampa/>
+
+---
+
+## It’s an early goodbye
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Fans are starting to trickle out of Amalie Arena, and you hate to say it, but justifiably so. 
+It&#8217;s getting more and more empty by the second as this game has fallen completely out of UCLA&#8217;s control. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/its-an-early-goodbye/>
+
+---
+
+## Hope slips away
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+ESPN sportscaster Scott Van Pelt echoes the opinion of many online Husky fans, suggesting that although over four minutes remain, the nail is already in the Bruins’ coffin. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/hope-slips-away/>
+
+---
+
+## Too little too late
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Junior center Lauren Betts has 21 points – one point less than the game’s leading scorer, UConn forward Sarah Strong, a freshman. 
+Bruins have cleaned up on turnovers, but it looks too little too late. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/too-little-too-late/>
+
+---
+
+## Gabs can’t get it going
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Gabriela Jaquez misses her third 3-point attempt of the game, bringing the Bruins to just 3-for-15 from downtown. The shooters touch that blessed UCLA&#8217;s role players against LSU has completely vanished. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/gabs-cant-get-it-going/>
+
+---
+
+## Strong-armed
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Sarah Strong has erupted for 16 points in the second half, capped off by a nearly uncontested layup, bringing her to 22 on the game. UCLA&#8217;s efforts to contain Paige Bueckers and Azzi Fudd have opened the door for Strong to play at her own pace and take advantage of fast break opportunities. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/strong-armed/>
+
+---
+
+## Raffle-ing feathers
+
+date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
+
+Watch party attendees who got raffle tickets also have the chance to win a prize after each quarter. 
+“The first time he said the numbers, I didn&#8217;t believe it,” said Zariah McCray, a first year pre-psychology student who won a signed basketball in the first raffle. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/04/raffle-ing-feathers/>
 
 ---
 
@@ -1343,84 +1661,4 @@ Dr. Anjay Rastogi, the clinical chief of nephrology and director of the Clinical
 <br> 
 
 <https://dailybruin.com/2025/03/30/qa-dr-anjay-rastogi-aims-to-raise-kidney-disease-awareness-with-health-program/>
-
----
-
-## Santa Clarita business partners with LA County to help make prom dreams come true for foster teen boys
-
-date: 2025-03-29, from: The Canyon News (COC Student Newspaper)
-
-<p>Several times a day, a special piece of joy is carefully packaged&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/perfect-tux/">Santa Clarita business partners with LA County to help make prom dreams come true for foster teen boys</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/perfect-tux/>
-
----
-
-## UCLA recommends indefinite ban for SJP, 4-year suspension for Graduate SJP
-
-date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated March 30 at 9:44 p.m.</em>
-UCLA has recommended sanctions for two pro-Palestine student organizations on campus.
-The Office of Student Conduct recommended indefinitely revoking the student organization status of Students for Justice in Palestine at UCLA and suspending Graduate SJP at UCLA’s status for four years, according to a statement emailed Friday by a UCLA spokesperson. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/29/ucla-office-of-student-conduct-recommends-bans-for-2-pro-palestine-organizations/>
-
----
-
-## UC Regents committee reviews educational support for transfer, disabled students
-
-date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
-
-The UC Board of Regents discussed cross-campus educational initiatives and support for disabled students at a March 19 meeting.
-The board held its bimonthly meeting March 18 to March 20 at UCLA. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/28/uc-regents-committee-reviews-educational-support-for-transfer-disabled-students/>
-
----
-
-## UCLA community reacts, responds to Department of Education restructuring
-
-date: 2025-03-29, from: The Daily Bruin (UCLA Student Newspaper)
-
-<em>This post was updated March 30 at 8:30 p.m.</em>
-Recent changes at the Department of Education have raised concerns about how public universities like UCLA could be affected. 
-
-<br> 
-
-<https://dailybruin.com/2025/03/28/ucla-community-reacts-responds-to-department-of-education-restructuring/>
-
----
-
-## Wind Ensemble Delivers Thrilling Night of Varied Music at The Soraya
-
-date: 2025-03-29, from: The Sundail (CSUN Student Newspaper)
-
-On the four-floor stage of The Soraya, Lawrence Stoffel conducted the CSUN Wind Ensemble, filling the stage with music that switched from fast and powerful to soulful and slow. With... 
-
-<br> 
-
-<https://sundial.csun.edu/191794/arts-entertainment/wind-ensemble-delivers-thrilling-night-of-varied-music-at-the-soraya/>
-
----
-
-## College of the Canyons hosts it’s annual  Cougar Fest
-
-date: 2025-03-29, from: The Canyon News (COC Student Newspaper)
-
-<p>Students across the College of the Canyons got to experience the annual&#8230;</p>
-<p>The post <a href="https://canyonsnews.com/cougar-fest/">College of the Canyons hosts it&#8217;s annual  Cougar Fest</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
- 
-
-<br> 
-
-<https://canyonsnews.com/cougar-fest/>
 

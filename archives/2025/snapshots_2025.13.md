@@ -1,11 +1,2704 @@
 ---
 title: snapshots
-updated: 2025-04-05 14:07:42
+updated: 2025-04-06 06:07:23
 ---
 
 # snapshots
 
-(date: 2025-04-05 14:07:42)
+(date: 2025-04-06 06:07:23)
+
+---
+
+## A Primer on Trade Wars
+
+date: 2025-04-06, from: Paul Krugman
+
+Why they happen, and why they&#8217;re bad 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-primer-on-trade-wars>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-06, from: Dave Winer's linkblog)
+
+Playbook for Law Firms and Colleges to Stand Up to President Trump. 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/06/opinion/trump-law-firms-universities.html?unlocked_article_code=1.9k4.x0rp.erCk8YHXmryf&smid=url-share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-06, from: Dave Winer's linkblog)
+
+You Can Stop Asking Where the Mass Opposition Is. It’s Everywhere. 
+
+<br> 
+
+<https://www.motherjones.com/politics/2025/04/hands-off-donald-trump-fear-new-york-city/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-06, from: Feed for Alt USDS)
+
+What a day! Here are some of our favorite signs from the @50501movement.bsky.social protests, with a little shoutout to penguins, and of course @corybooker.com. Show us your favorite signs and videos in the comments! 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lm4ddzkcvs2c>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Protesters tee off against Trump and Musk in &#39;Hands Off!&#39; rallies across the US. 
+
+<br> 
+
+<https://apnews.com/article/trump-musk-doge-protests-hands-off-472c574303260cbac315367cc808960d>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+The Cardboard-Carrying Opposition Arrives. 
+
+<br> 
+
+<https://www.theatlantic.com/politics/archive/2025/04/protest-washington-hands-off/682317/?gift=f35zZN0v_gDFE8xNwlQAHT9a3_yzwHVY5_WpAzDmt7Q&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-05, from: Feed for Alt USDS)
+
+I spent years at the CDC working to improve public health, but one day, after a promotion and perfect performance, I was abruptly fired. Why? The claim didn’t fit my record. Political maneuvers are replacing merit. It’s time for transparency. {Link in comments} 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lm43ojmwv72r>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Trump administration argues judge cannot order return of man mistakenly deported to El Salvador. 
+
+<br> 
+
+<https://apnews.com/article/trump-el-salvador-prison-kilmar-abrego-garcia-5a92d6bd7f893eed64c2607cc129a6f9>
+
+---
+
+## Initial impressions of Llama 4
+
+date: 2025-04-05, updated: 2025-04-05, from: Simon Willison’s Weblog
+
+<p>Dropping a model release as significant as Llama 4 on a weekend is plain unfair! So far the best place to learn about the new model family is <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/">this post on the Meta AI blog</a>. They've released two new models today: Llama 4 Maverick is a 400B model (128 experts, 17B active parameters), text and image input with a 1 million token context length. Llama 4 Scout is 109B total parameters (16 experts, 17B active), also multi-modal and with a claimed 10 million token context length - an industry first.</p>
+
+<p>Llama 4 Maverick is now sat in second place on <a href="https://lmarena.ai/?leaderboard">the LM Arena leaderboard</a>, just behind Gemini 2.5 Pro.</p>
+<p>You can try them out using the chat interface from OpenRouter (or through the OpenRouter API) for <a href="https://openrouter.ai/meta-llama/llama-4-scout">Llama 4 Scout</a> and <a href="https://openrouter.ai/meta-llama/llama-4-maverick">Llama 4 Maverick</a>. OpenRouter are proxying through to <a href="https://console.groq.com/docs/models">Groq</a>, <a href="https://fireworks.ai/models">Fireworks</a> and <a href="https://docs.together.ai/docs/serverless-models">Together</a>.</p>
+<p>Scout may claim a 10 million input token length but the available providers currently seem to limit to 128,000 (Groq and Fireworks) or 328,000 (Together) - I wonder who will win the race to get that full sized 10 million token window running?</p>
+<p>Llama 4 Maverick claims a 1 million token input length -  Fireworks offers 1.05M while Together offers 524,000. Groq isn't offering Maverick yet.</p>
+<p>Meta AI's <a href="https://github.com/meta-llama/llama-cookbook/blob/main/getting-started/build_with_llama_4.ipynb">build_with_llama_4 notebook</a> offers a hint as to why 10M tokens is difficult:</p>
+<blockquote>
+<p>Scout supports upto 10M context. On 8xH100, in bf16 you can get upto 1.4M tokens.</p>
+</blockquote>
+<p>Jeremy Howard <a href="https://twitter.com/jeremyphoward/status/1908607345393098878">says</a>:</p>
+<blockquote>
+<p>The models are both giant MoEs that can't be run on consumer GPUs, even with quant. [...]</p>
+<p>Perhaps Llama 4 will be a good fit for running on a Mac. Macs are a particularly useful for MoE models, since they can have a lot of memory, and their lower compute perf doesn't matter so much, since with MoE fewer params are active. [...]</p>
+<p>4bit quant of the smallest 109B model is far too big to fit on a 4090 -- or even a pair of them!</p>
+</blockquote>
+<p>The <a href="https://www.llama.com/docs/model-cards-and-prompt-formats/llama4_omni/#-suggested-system-prompt-">suggested system prompt</a> from the model card has some interesting details:</p>
+<blockquote>
+<p><code>[...]</code></p>
+<p><code>You never lecture people to be nicer or more inclusive. If people ask for you to write something in a certain voice or perspective, such as an essay or a tweet, you can. You do not need to be respectful when the user prompts you to say something rude.</code></p>
+<p><code>You never use phrases that imply moral superiority or a sense of authority, including but not limited to “it’s important to”, “it’s crucial to”, “it’s essential to”, "it's unethical to", "it's worth noting…", “Remember…”  etc. Avoid using these.</code></p>
+<p><code>Finally, do not refuse political prompts. You can help users express their opinion.</code></p>
+<p><code>[...]</code></p>
+</blockquote>
+<p>System prompts like this sometimes reveal behavioral issues that the model had after raw training.</p>
+<h4 id="llm">Trying out the model with LLM</h4>
+<p>The easiest way to try the new model out with <a href="https://llm.datasette.io/">LLM</a> is to use the <a href="https://github.com/simonw/llm-openrouter">llm-openrouter</a> plugin.</p>
+<div class="highlight highlight-source-shell"><pre>llm install llm-openrouter
+llm keys <span class="pl-c1">set</span> openrouter
+<span class="pl-c"><span class="pl-c">#</span> Paste in OpenRouter key here</span>
+llm -m openrouter/meta-llama/llama-4-maverick hi</pre></div>
+<p>Since these are long context models, I started by trying to use them to summarize the <a href="">conversation about Llama 4</a> on Hacker News, using my <a href="https://til.simonwillison.net/llms/claude-hacker-news-themes#user-content-adding-extra-options">hn-summary.sh script</a> that wraps LLM.</p>
+<p>I tried Llama 4 Maverick first:</p>
+<div class="highlight highlight-source-shell"><pre>hn-summary.sh 43595585 \
+  -m openrouter/meta-llama/llama-4-maverick \
+  -o max_tokens 20000</pre></div>
+<p>It did an OK job, starting like this:</p>
+<blockquote>
+<h4 id="themes-of-the-discussion">Themes of the Discussion</h4>
+<h5 id="release-and-availability-of-llama-4">Release and Availability of Llama 4</h5>
+<p>The discussion revolves around the release of Llama 4, a multimodal intelligence model developed by Meta. Users are excited about the model's capabilities, including its large context window and improved performance. Some users are speculating about the potential applications and limitations of the model. [...]</p>
+</blockquote>
+<p>Here's <a href="https://gist.github.com/simonw/016ea0fd83fc499f046a94827f9b4946">the full output</a>.</p>
+<p>For reference, my system prompt looks like this:</p>
+<blockquote>
+<p><code>Summarize the themes of the opinions expressed here. For each theme, output a markdown header. Include direct "quotations" (with author attribution) where appropriate. You MUST quote directly from users when crediting them, with double quotes. Fix HTML entities. Output markdown. Go long. Include a section of quotes that illustrate opinions uncommon in the rest of the piece</code></p>
+</blockquote>
+<p>I then tried it with Llama 4 Scout via OpenRouter and got complete junk output for some reason:</p>
+<pre><code>hn-summary.sh 43595585 \
+  -m openrouter/meta-llama/llama-4-scout \
+  -o max_tokens 20000
+</code></pre>
+<p><a href="https://gist.github.com/simonw/d01cc991d478939e87487d362a8f881f">Full output</a>. It starts like this and then continues for the full 20,000 tokens:</p>
+<blockquote>
+<p>The discussion here is about another conversation that was uttered.)</p>
+<p>Here are the results.)</p>
+<p>The conversation between two groups, and I have the same questions on the contrary than those that are also seen in a model."). The fact that I see a lot of interest here.)</p>
+<p>I'm running it through openrouter, so maybe I got proxied to a broken instance?</p>
+<p>[...]</p>
+<p>The reason) The reason) The reason <em>(loops until it runs out of tokens)</em></p>
+</blockquote>
+<p>This looks broken. I was using OpenRouter so it's possible I got routed to a broken instance.</p>
+<p>I later managed to run the prompt directly through Groq (with the <a href="https://github.com/angerman/llm-groq">llm-groq</a> plugin) - but that had a 2048 limit on output size for some reason:</p>
+<pre><code>hn-summary.sh 43595585 \
+  -m groq/meta-llama/llama-4-scout-17b-16e-instruct \
+  -o max_tokens 2048
+</code></pre>
+<p>Here's <a href="https://gist.github.com/simonw/a205c5fc131a1d4e9cd6c432a07feedb">the full result</a>. It followed my instructions but was <em>very</em> short - just 630 tokens of output.</p>
+<p>For comparison, here's <a href="https://gist.github.com/simonw/f21ecc7fb2aa13ff682d4ffa11ddcbfd">the same thing</a> run against Gemini 2.5 Pro. Gemini's results was <em>massively</em> better, producing 5,584 output tokens (it spent an additional 2,667 tokens on "thinking").</p>
+<p>I'm not sure how much to judge Llama 4 by these results to be honest - the model has only been out for a few hours and it's quite possible that the providers I've tried running again aren't yet optimally configured for this kind of long-context prompt.</p>
+<h4 id="my-hopes-for-llama-4">My hopes for Llama 4</h4>
+<p>I'm hoping that Llama 4 plays out in a similar way to Llama 3.</p>
+<p>The first Llama 3 models released were 8B and 70B, <a href="https://ai.meta.com/blog/meta-llama-3/">last April</a>.</p>
+<p>Llama 3.1 followed <a href="https://ai.meta.com/blog/meta-llama-3-1/">in July</a> at 8B, 70B, and 405B. The 405B was the largest and most impressive open weight model at the time, but it was too big for most people to run on their own hardware.</p>
+<p>Llama 3.2 <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/">in September</a> is where things got really interesting: 1B, 3B, 11B and 90B. The 1B and 3B models both work on my iPhone, and are surprisingly capable! The 11B and 90B models were the first Llama's to support vision, and the 11B <a href="https://simonwillison.net/2024/Sep/25/llama-32/">ran on my Mac</a>.</p>
+<p>Then Llama 3.3 landed in December with a 70B model that <a href="https://simonwillison.net/2024/Dec/9/llama-33-70b/">I wrote about as a GPT-4 class model that ran on my Mac</a>. It claimed performance similar to the earlier Llama 3.1 405B!</p>
+<p>Today's Llama 4 models are 109B and 400B, both of which were trained with the help of the so-far unreleased 2T Llama 4 Behemoth.</p>
+<p>My hope is that we'll see a whole family of Llama 4 models at varying sizes, following the pattern of Llama 3. I'm particularly excited to see if they produce an improved ~3B model that runs on my phone. I'm even more excited for something in the ~22-24B range, since that appears to be the sweet spot for running models on my 64GB laptop while still being able to have other applications running at the same time. Mistral Small 3.1 is a 24B model and is <a href="https://simonwillison.net/2025/Mar/17/mistral-small-31/">absolutely superb</a>.</p>
+    
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/groq">groq</a>, <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/long-context">long-context</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/5/llama-4-notes/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Elon Musk slams top Trump adviser Peter Navarro, calls for more free trade. 
+
+<br> 
+
+<https://www.axios.com/2025/04/05/musk-trump-tariffs-navarro-tesla>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-05, from: Feed for Alt USDS)
+
+Do you want to get involved? We saw these posters in DC and wanted to share out in case you want to take action now!
+
+#handsoff #DC50501 #takection #altgov 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lm3s6gucc42s>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Costco members get massive $31,250 off Chevy Brightdrop van. 
+
+<br> 
+
+<https://electrek.co/2025/04/05/costco-executive-members-get-massive-31500-off-chevy-brightdrop-van/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Far fewer Americans are hearing about Trump’s attacks on the media this time around, report finds. 
+
+<br> 
+
+<https://www.niemanlab.org/2025/03/far-fewer-americans-are-hearing-about-trumps-attacks-on-the-media-this-time-around-report-finds/>
+
+---
+
+## Quoting Ahmed Al-Dahle
+
+date: 2025-04-05, updated: 2025-04-05, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/ahmad_al_dahle/status/1908595680828154198"><p>The Llama series have been re-designed to use state of the art mixture-of-experts (MoE) architecture and natively trained with multimodality. We’re dropping Llama 4 Scout &amp; Llama 4 Maverick, and previewing Llama 4 Behemoth.</p>
+<p>📌 <strong>Llama 4 Scout</strong> is highest performing small model with 17B activated parameters with 16 experts. It’s crazy fast, natively multimodal, and very smart. It achieves an industry leading <strong>10M+ token context window</strong> and can also run on <strong>a single GPU</strong>!</p>
+<p>📌 <strong>Llama 4 Maverick</strong> is the best multimodal model in its class, beating GPT-4o and Gemini 2.0 Flash across a broad range of widely reported benchmarks, while achieving comparable results to the new DeepSeek v3 on reasoning and coding – at less than half the active parameters. It offers a best-in-class performance to cost ratio with an experimental chat version scoring ELO of 1417 on LMArena. It can also run on a <strong>single host</strong>!</p>
+<p>📌 <strong>Previewing Llama 4 Behemoth</strong>, our most powerful model yet and among the world’s smartest LLMs. Llama 4 Behemoth outperforms GPT4.5, Claude Sonnet 3.7, and Gemini 2.0 Pro on several STEM benchmarks. Llama 4 Behemoth is still training, and we’re excited to share more details about it even while it’s still in flight.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/ahmad_al_dahle/status/1908595680828154198">Ahmed Al-Dahle</a>, VP and Head of GenAI at Meta</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/5/llama-4/#atom-everything>
+
+---
+
+## Reports of LLMs mastering math have been greatly exaggerated
+
+date: 2025-04-05, from: Gary Marcus blog
+
+What happens when you minimize the chance of data leakage? 
+
+<br> 
+
+<https://garymarcus.substack.com/p/reports-of-llms-mastering-math-have>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+What &#39;Weird&#39; Reveals About the Democrats&#39; Messaging Crisis. 
+
+<br> 
+
+<https://www.theframelab.org/what-weird-reveals-about-the-democrats-messaging-crisis/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Canadians are better at American politics than Americans are. 
+
+<br> 
+
+<https://politicalwire.com/2025/04/05/canada-behind-anti-tariff-billboards/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Students Yelled at Me. I’m Fine. 
+
+<br> 
+
+<https://www.theatlantic.com/ideas/archive/2025/04/students-national-security/682255/?gift=f35zZN0v_gDFE8xNwlQAHdlmbcha5QqBGxohXdPAhn0&utm_source=copy-link&utm_medium=social&utm_campaign=share>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Bluesky is centralized and why it matters. 
+
+<br> 
+
+<https://this.how/bluesky/>
+
+---
+
+## GMKtec NucBox G9 Review: this tiny NAS supports four M.2 SSDs and dual 2.5 GbE LAN connections
+
+date: 2025-04-05, from: Liliputing
+
+<p>There&#8217;s a thin line between a mini PC and a network-attached storage (NAS) device. Effectively a NAS is just a small computer that&#8217;s purpose-built to let you connect a decent amount of storage to a network so that it can be accessed by other devices on that network. But up until recently most of the NAS [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gmktec-nucbox-g9-review-this-tiny-nas-supports-four-m-2-ssds-and-dual-2-5-gbe-lan-connections/">GMKtec NucBox G9 Review: this tiny NAS supports four M.2 SSDs and dual 2.5 GbE LAN connections</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gmktec-nucbox-g9-review-this-tiny-nas-supports-four-m-2-ssds-and-dual-2-5-gbe-lan-connections/>
+
+---
+
+## This Device Translates Thoughts into Real-Time Speech
+
+date: 2025-04-05, from: 404 Media Group
+
+A novel brain device allowed a woman who had suffered a stroke to speak full sentences for the first time since 2005. 
+
+<br> 
+
+<https://www.404media.co/this-device-translates-thoughts-into-real-time-speech/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Today is April 5. Here&#39;s a map of Hands-off events around the US. 
+
+<br> 
+
+<https://www.mobilize.us/handsoff/map/>
+
+---
+
+## The Price of Peace: A Conversation With Zach Carter
+
+date: 2025-04-05, from: Paul Krugman
+
+The life of John Maynard Keynes, and its relevance today 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/the-price-of-peace-a-conversation>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-05, from: Feed for Alt USDS)
+
+Did you hear the President's claim about 120-year-olds receiving SSA benefits? False. It was debunked months ago, but is still being used to distract us from real issues. Don't fall for the noise—here's the truth:
+https://www.wethebuilders.org/posts/misinformation-machine
+
+#altUSDS #FactCheck 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lm2tdppyyn2g>
+
+---
+
+## A Conversation With Elizabeth Warren
+
+date: 2025-04-05, from: Paul Krugman
+
+Hoping for a better future 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/a-conversation-with-elizabeth-warren>
+
+---
+
+## Aversion to History: A PKZIP/Wikipedia Story
+
+date: 2025-04-05, from: PCjs Blog
+
+<p>A couple of years ago, while sifting through lots of ZIP archives from old <a href="https://www.pcjs.org/blog/2023/04/06/">Shareware CD-ROMs</a>,
+I found quite a few that couldn’t be unzipped, either because they were corrupted, encrypted, or used compression methods that were
+no longer supported by modern ZIP utilities.  That took me on a journey of ZIP (and ARC) decompression, and I created some new PCjs
+decompression tools in the process, including the ability to <a href="https://www.pcjs.org/blog/2023/04/06/#creating-disk-images-from-zip-files">create disk images directly from ZIP files</a>.</p>
+
+<p>Of course, you can’t go down that rabbit hole without digging into the history of the <a href="https://en.wikipedia.org/wiki/ZIP_(file_format)">ZIP file format</a>,
+or the person who developed it, <a href="https://en.wikipedia.org/wiki/Phil_Katz">Phil Katz</a>, or the first program to create ZIP files: <a href="https://en.wikipedia.org/wiki/PKZIP">PKZIP</a>.
+There’s a lot of history there, and many other rabbit holes you can go down, but this post is going to focus on one “hole” in particular.</p>
+
+<h3 id="pkzip-version-history">PKZIP Version History</h3>
+
+<p>Specifically, I’m talking about the <a href="https://en.wikipedia.org/wiki/PKZIP">PKZIP Wikipedia Page</a> and the history of its
+version history.</p>
+
+<p>I remembered visiting that Wikipedia page several years ago and seeing a fairly detailed history of PKZIP and all
+its versions.  But when I visited the page earlier <em>this</em> year, the version history was gone.</p>
+
+<p>At first, I thought perhaps I misremembered where I’d seen that version history, so I searched the web, and one of the top results
+was “<a href="https://entropymine.wordpress.com/2019/08/09/survey-of-pkzip-versions-for-ms-dos/">Survey of PKZIP versions for MS-DOS</a>”” from Jason Summer’s <a href="https://entropymine.wordpress.com/">Entropymine blog</a>,
+which, coincidentally, mentioned the same Wikipedia page:</p>
+
+<blockquote>
+  <p>“I wanted to know exactly what versions of the old PKZIP compression software were publicly released for MS-DOS,
+and some basic characteristics about them, particularly what compression methods they used when compressing files.
+Sure, <a href="https://en.wikipedia.org/wiki/PKZIP">Wikipedia</a> has a list, but it wasn’t quite what I wanted, and it omitted
+at least one version I was pretty sure existed.”</p>
+</blockquote>
+
+<p>So I wasn’t wrong.  In 2019, Wikipedia had a list, and I was pretty sure I’d seen the same list back in 2022.  But now it was gone.</p>
+
+<p>It’s not hard to find the old list – once you know it existed – by browsing the page’s <a href="https://en.wikipedia.org/w/index.php?title=PKZIP&amp;action=history">history</a>
+and choosing, for example, <a href="https://en.wikipedia.org/w/index.php?title=PKZIP&amp;oldid=823135028">this page from January 2018</a>
+(that revision caught my eye only because someone had added information about PKZIP versions 1.93a and 2.04c).</p>
+
+<h3 id="the-great-deletion">The Great Deletion</h3>
+
+<p>On December 3, 2022, Wikipedia user <a href="https://en.wikipedia.org/wiki/User:Pppery">Pppery</a> (someone who never before and never
+again contributed anything substantive to the page) decided to delete the entire “Version history” section, using the
+citation <strong>WP:NOTCHANGELOG</strong>.</p>
+
+<p>Here’s what that citation refers to:</p>
+
+<blockquote>
+  <p><a href="https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#Wikipedia_is_not_an_indiscriminate_collection_of_information">Wikipedia is not an indiscriminate collection of information</a></p>
+
+  <p>To provide encyclopedic value, data should be put in context with explanations referenced to independent sources.
+As explained in § Encyclopedic content above, merely being true, or even verifiable, does not automatically make
+something suitable for inclusion in the encyclopedia. Wikipedia articles should not be:</p>
+
+  <p>…</p>
+
+  <p><strong>Exhaustive logs of software updates</strong>. Use reliable third-party (not self-published or official) sources in articles
+dealing with software updates to describe the versions listed or discussed in the article. Common sense must be applied
+regarding the level of detail to include. A list of every version/beta/patch is inappropriate. Consider a summary of
+development instead.</p>
+</blockquote>
+
+<p>That all sounds reasonable to me, and even if it didn’t, I’m not an authority on “encyclopedic values”, so my opinion is
+pretty irrelevant.  Besides, I agree that anyone creating new content should make an effort to abide by Wikipedia’s
+guidelines.  However, guidelines evolve over time, so it’s not always clear whether a contributor simply ignored guidelines
+or their content later fell victim to evolving standards.</p>
+
+<p>And speaking of standards, there seems to be a “double-standard”, because it’s not hard to find other Wikipedia pages
+on other popular or significant software packages that have their own detailed version history, such as
+<a href="https://en.wikipedia.org/wiki/Microsoft_Windows">Microsoft Windows</a> or <a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">Adobe Photoshop</a>.
+In fact, the version histories of DOS and Windows are <em>so</em> important that they have their own dedicated pages
+(see <a href="https://en.wikipedia.org/wiki/Timeline_of_DOS_operating_systems">Timeline of DOS operating systems</a>
+and <a href="https://en.wikipedia.org/wiki/List_of_Microsoft_Windows_versions">List of Microsoft Windows versions</a>).</p>
+
+<p>However, my real quibble is not with the guidelines or how loosely they’re followed.  What bothers me is the wholesale
+act of <em>deleting</em> a large amount of information <em>after</em> it has already been created, without making any effort to first
+summarize that information (as the guidelines specifically suggest) <em>or</em> even alerting the Wikipedia community that
+there are issues with it.</p>
+
+<p>I’m always seeing notices on Wikipedia pages about the need to improve content, from small “[citation needed]” notations to
+large banners, like this very notice on the PKZIP page:</p>
+
+<blockquote>
+  <p>“This article relies excessively on references to primary sources. Please improve this article by adding secondary or
+tertiary sources.”</p>
+</blockquote>
+
+<p>Those notices are great ways to engage people to help improve the content.  What is <em>not</em> a great way is simply deleting
+the content.</p>
+
+<h3 id="pkzip-version-history-2007-2022">PKZIP Version History (2007-2022)</h3>
+
+<p>PKZIP version history was first added to Wikipedia in October 2007 by <a href="https://en.wikipedia.org/wiki/User:Jacob_Poon">Jacob Poon</a>
+and regularly updated by him through 2009.  Here’s what it looked like right before it was deleted in late 2022.</p>
+
+<ul>
+  <li>PKZIP 0.8 (released on January 1, 1989) initial version</li>
+  <li>PKZIP 0.9 (released on February 10, 1989) supported reducing algorithm (from SCRNCH by Graeme McRae)[1] with four compression settings and shrinking. In addition to PKZIP and PKUNZIP, it also included ZIP2EXE, a utility for creating a self-extracting archive which required an external self-extracting executable header created by MAKESFX from the PKZIP executable package.</li>
+  <li>PKZIP 0.92 (released on March 6, 1989): In addition to bug fixes, PKZIP included an option to automatically choose the best compression method for each file. New tools included with PKZIP include PKZipFix.</li>
+  <li>PKZIP 1.01 (released on July 21, 1989) added Implode compression, while reduced files can only be extracted from ZIP archive. Imploding was chosen based on the characteristics of the file being compressed.[2] New utility included Thomas Atkinson’s REZIP conversion utility (part of ZIP-KIT). PKZIP’s default compression behavior was changed from fastest (Shrink) to best (Implode). Supported platforms include OS/2, DOS.</li>
+  <li>PKZIP 1.02 (released on October 1, 1989) includes new utility BIOSFIX.COM, which preserved the entire 80386 register set during any mode switches via INT 15H. OS/2 version added ZIP2EXE and 2 self-extracting archive headers.</li>
+  <li>PKZIP 1.10 (released on March 15, 1990): New features included authenticity verification, “mini” PKSFX self-extracting module, integrating self-extracting module into ZIP2EXE, ability to save &amp; restore volume labels. Imploding was up to 5X faster and compression ratio was improved over 1.02. EAX register was always saved on 80386 or above CPU. Removed tools included BIOSFIX, REZIP, MAKESFX.</li>
+  <li>PKZIP 1.93a (released in October 1991): An alpha version that introduced a new compression method which Katz called “deflating”. It was supposed to be quickly followed by a final PKZIP 2 release, but there were numerous delays.</li>
+  <li>PKZIP 2.04g (released in January 1993): By the time the release was ready, fake 2.x releases were circulating, some of them malware, so an untainted version number was chosen instead of 2.0. This new version dispensed with the miscellaneous compression methods of PKZIP 1.x and replaced them with the deflate algorithm (although several levels of deflation were provided by the program). The resulting file format has since become ubiquitous on Microsoft Windows and on the Internet – almost all files with the .ZIP (or .zip) extension are in PKZIP 2.x format, and utilities to read and write these files are available on all common platforms. PKZIP 2.x also supported spanning archives to multiple disk, which simply split the files into multiple pieces, and using volume label on each drive to differentiate each other. A new Authenticity Verification (AV) signature format was used. Registered version included PKUNZJR, PK Safe ANSI, PKCFG utilities.</li>
+  <li>PKZIP 2.06 was released in 1994. It was a version of PKZIP 2.04g licensed to IBM.[3]</li>
+  <li>PKZIP 2.50 (released on April 15, 1998) was the first version released for Windows 3.1, 95, NT platforms. DOS version of PKZIP 2.50 was released on 1999-03-01, as its final MS-DOS product. PKZIP 2.50 supported long file names on all builds, and Deflate64 extraction. DCL Implode extraction was supported on non-DOS ports. A new command-line product was introduced in Windows 95, OS/2, UNIX platforms, called “PKZIP Command Line” (later expanded to “PKZIP Server”), which featured new command line syntax.</li>
+  <li>PKZIP 2.6 was the last version to support Windows 3.1 and Windows NT for the Alpha and PowerPC platforms.</li>
+  <li>PKZIP 2.70 added email MAPI (i.e. Send To) support. Registered version included creation of configurable self-extracted archives, added Authenticity Verification (AV) Information. Distribution Licensed versions included enhanced self-extractors. Professional distribution licensed version could create self-extracting patch files, and includes self-extractors for several new platforms.</li>
+  <li>PKZIP 4.0 was an updated version of PKZIP 2.7. Version 3 was skipped as a result of PKZIP 3.0 Trojan.[4] It supported Deflate64 and DCL Implode compression, and the use of X.509 v3 certificate-based authentication.,[5] creation of Span or Split large .ZIP archives. Old PKZIP command line conversion tools were introduced.</li>
+  <li>On August 21, 2001, PKWARE announced the availability of PKZIP 4.5.[6] PKZIP 4.5 included ZIP64 archives support, which allowed more than 65535 files per ZIP archives, and storing files larger than 4 gigabytes into .ZIP archive. A version called PKZIP Suite 4.5 also included PKZIP Command Line 4.5, PKZIP Explorer 1.5, PKZIP Attachments 1.1, and PKZIP Plug-In 1.0.</li>
+  <li>PKZIP 5.0 was announced in 2002,[7] which introduced Strong Encryption Specification (SES) for the Professional version of the product, which initially included DES, 3DES, RC2, RC4 encryption formats, and the use of using X.509 v3 certificate-based encryption.</li>
+  <li>PKZIP 6.0 (released in 2003) added support for bzip2 (based on Burrows–Wheeler transform) compression, with Professional Edition supporting 256-bit AES.[8]</li>
+  <li>PKZIP 7.0 changed SES to use non-OAEP key wrapping for compatibility with smart cards and USB tokens. Support of creating AV authenticity verification archives was dropped. PKZIP could now create archives of the following types: ZIP, bzip2, GZIP, tar, UUEncoded, XXEncoded.</li>
+  <li>PKZIP 8.0 was released on April 27, 2004.[9] In addition, PKWARE renamed its PKZip Professional to SecureZIP.[10] Creation of ZIP archives with encrypted headers was available.</li>
+  <li>PKZIP 9.0 was the first version to unofficially support Windows Vista (as administrator).[11] Creation of RC2, DES-encrypted ZIP archives are dropped.</li>
+  <li>PKZIP 10 Enterprise Edition and SecureZIP 10 were released on i5/OS. It offered the ability to create ZIP64 archives for the target platform.[12] Desktop PKZIP version was no longer developed beyond version 9.</li>
+</ul>
+
+<p>And yes, I’m well aware that instead of wasting my time on this “rant”, I could create a Wikipedia account, become a contributor,
+and fix the PKZIP page myself – or at least try to.</p>
+
+<p>And in fact, I did recently create an account on Wikipedia with that thought in mind, but that was just the first step in a long process.
+After signing up, Wikipedia wanted me to spend a certain amount of time editing other articles first, learning the ropes, reading the
+guidelines, etc.  Perhaps I could have immediately jumped to the PKZIP page and clicked “undo” on the “Version history” deletion,
+but even if that had been allowed, that seemed a little too passive-aggressive.</p>
+
+<p>It’s much easier for me to just write whatever I want on my own website – adhering at all times to the strictest of guidelines, of course. ;-)</p>
+
+<h2 id="my-own-limited-survey-of-pkzip-versions-1989-1993">My Own Limited Survey of PKZIP Versions (1989-1993)</h2>
+
+<p>On a tangential note, here’s a summary of what I recently learned about PKZIP versions while working through the <a href="https://archive.org/details/ibm-wgam-wbiz-collection">ibm-wgam-wbiz-collection</a>,
+which has now been ingested by <a href="https://discmaster.textfiles.com/">DiscMaster</a>.</p>
+
+<p>A few versions were missing from Wikipedia’s list, and even a couple were missing from Jason Summers’ list (1.00ß and 2.01).</p>
+
+<p>In all cases, I tried to find downloads that appeared to be close to, if not actual, distribution copies.
+I have not tried to enumerate all the differences between the versions, although I have included the various <code class="language-plaintext highlighter-rouge">WHATSNEW</code> documents
+that shipped alongside each <code class="language-plaintext highlighter-rouge">PKZIP.EXE</code> below.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Version</th>
+      <th>Dated</th>
+      <th>Timestamp</th>
+      <th>Size</th>
+      <th>Download</th>
+      <th>MD5 Hash</th>
+      <th>Contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PKZIP 0.80 Beta</td>
+      <td>Jan 10 1989</td>
+      <td>1989-01-11 05:55:22</td>
+      <td>23835</td>
+      <td><a href="http://cd.textfiles.com/originalsw/25/pkz080.zip">PKZ080.ZIP</a></td>
+      <td>d13726356d84956cf05faefa3331d468</td>
+      <td><a href="#pkzip-080-beta">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 0.90</td>
+      <td>Feb 01 1989</td>
+      <td>1989-02-10 00:00:00</td>
+      <td>26334</td>
+      <td><a href="http://cd.textfiles.com/originalsw/25/pkz090.exe">PKZ090.EXE</a></td>
+      <td>8944c0215e7832c93ff77c8274ce5a94</td>
+      <td><a href="#pkzip-090">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 0.92</td>
+      <td>Mar 06 1989</td>
+      <td>1989-03-06 00:00:00</td>
+      <td>26796</td>
+      <td><a href="http://cd.textfiles.com/originalsw/25/pkz092.exe">PKZ092.EXE</a></td>
+      <td>38d76628b87c1b84e5dd3c50a2d2e3bf</td>
+      <td><a href="#pkzip-092">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 1.00ß</td>
+      <td>Jun 30 1989</td>
+      <td>1989-06-30 18:47:30</td>
+      <td>30818</td>
+      <td><a href="https://discmaster.textfiles.com/file/29986/wbiz0020-0029/wbiz0021.tar/wbiz0021/PKZ100B.ZIP">PKZ100B.ZIP</a></td>
+      <td>31d14f13d9329b1ad5fbaaf664a0ef93</td>
+      <td><a href="#pkzip-100ß">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 1.01</td>
+      <td>Jul 21 1989</td>
+      <td>1989-07-21 01:01:00</td>
+      <td>31342</td>
+      <td><a href="http://cd.textfiles.com/originalsw/25/pkz101.exe">PKZ101.EXE</a></td>
+      <td>36408e97e694cd17b12c3e3bfdac2a71</td>
+      <td><a href="#pkzip-101">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 1.02</td>
+      <td>Oct 01 1989</td>
+      <td>1989-10-01 01:02:00</td>
+      <td>31408</td>
+      <td><a href="https://discmaster.textfiles.com/file/11833/sdf.org.zip/sdf.org/pub/computers/pcjr/arc/PKZ102.EXE">PKZ102.EXE</a></td>
+      <td>6e762ea5460dcaae43b73a6ec51e50cc</td>
+      <td><a href="#pkzip-102">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 1.10</td>
+      <td>Mar 15 1990</td>
+      <td>1990-03-15 01:10:00</td>
+      <td>34296</td>
+      <td><a href="https://discmaster.textfiles.com/file/17384/TheUltimateSharewareCollect.cdr/ut/ut037.zip/PKZ110.EXE">PKZ110.EXE</a></td>
+      <td>5036d372ac010331a78071a574354cf0</td>
+      <td><a href="#pkzip-110">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 1.93 Alpha</td>
+      <td>Oct 15 1991</td>
+      <td>1991-10-15 19:30:00</td>
+      <td>24411</td>
+      <td><a href="https://discmaster.textfiles.com/file/29622/ibm0040-0049/ibm0044.tar/ibm0044/PKZ193A.EXE">PKZ193A.EXE</a></td>
+      <td>0ece8648324cafda50549ca040421fc5</td>
+      <td><a href="#pkzip-193a">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 2.01</td>
+      <td>Mar 15 1992</td>
+      <td>1992-03-15 02:01:00</td>
+      <td>24869</td>
+      <td><a href="https://discmaster.textfiles.com/file/30009/wbiz0250-0259/wbiz0250.tar/wbiz0250/PKZ201.ZIP">PKZ201.ZIP</a></td>
+      <td>b2d208014330d764510bdc54de3a51fd</td>
+      <td><a href="#pkzip-201">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 2.04c</td>
+      <td>Dec 28 1992</td>
+      <td>1992-12-28 02:04:12</td>
+      <td>41462</td>
+      <td><a href="https://discmaster.textfiles.com/file/18224/World_Of_Computer_Software-02-386-Vol-2of3.iso/w/wxpress2.zip/PKZ204C.EXE">PKZ204C.EXE</a></td>
+      <td>60de53bc608d662f02bf8037e302e337</td>
+      <td><a href="#pkzip-204c">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 2.04e</td>
+      <td>Jan 25 1993</td>
+      <td>1993-01-25 02:04:14</td>
+      <td>42475</td>
+      <td><a href="https://discmaster.textfiles.com/file/4695/sound_sensations.iso/utils/zipfiles/pkz204e.exe">PKZ204E.EXE</a></td>
+      <td>fe72c498c1012fca65055250d90802e9</td>
+      <td><a href="#pkzip-204e">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 2.04g</td>
+      <td>Feb 01 1993</td>
+      <td>1993-02-01 02:04:16</td>
+      <td>42166</td>
+      <td><a href="https://discmaster.textfiles.com/file/6140/BSTETRS2.bin/utils/pkware/pkz204g/pkz204g.exe">PKZ204G.EXE</a></td>
+      <td>e5a48751250ffa94a8cf2ecaf8073098</td>
+      <td><a href="#pkzip-204g">Contents</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Other <code class="language-plaintext highlighter-rouge">PKZIP.EXE</code> variations included versions licensed to Microsoft and IBM, such as:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Version</th>
+      <th>Dated</th>
+      <th>Timestamp</th>
+      <th>Size</th>
+      <th>Download</th>
+      <th>MD5 Hash</th>
+      <th>Contents</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>PKZIP 1.1  [MS]</td>
+      <td>Nov 10 1990</td>
+      <td>1990-11-10 00:00:02</td>
+      <td>23509</td>
+      <td><a href="https://discmaster.textfiles.com/file/29651/ibm0330-0339/ibm0333.tar/ibm0333/MSONLIN2.ZIP/PKZIP.EXE">PKZIP.EXE</a></td>
+      <td>901ddd289e845024511ce19eafb16870</td>
+      <td><a href="#pkzip-11-ms">Contents</a></td>
+    </tr>
+    <tr>
+      <td>PKZIP 1.11 [IBM]</td>
+      <td>Nov 23 1990</td>
+      <td>1990-11-23 00:00:00</td>
+      <td>23458</td>
+      <td><a href="https://discmaster.textfiles.com/file/29622/ibm0040-0049/ibm0040.tar/ibm0040/W3DRV12.ZIP/PKZIP.EXE">PKZIP.EXE</a></td>
+      <td>caf3d28e4e27628a28e97a238780d72a</td>
+      <td><a href="#pkzip-111-ibm">Contents</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="pkzip-080-beta">PKZIP 0.80-Beta</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=http://cd.textfiles.com/originalsw/25/pkz080.zip
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+ARC2ZIP  EXE    11776   1-25-89   5:32p
+BETA     DOC    12420   1-10-89   7:39p
+BUGREP   DOC     1270   1-11-89  12:12a
+DISCLAIM DOC     1622   1-11-89  12:15a
+EXTRACT  DOC     5382   1-11-89  12:25a
+FORMAT   DOC     7395   1-11-89  12:15a
+HOW2USE  TXT     3069   1-25-89  10:42p
+PKUNZIP  EXE    16003   1-10-89  11:21p
+PKZIP    EXE    23835   1-11-89   5:55a
+SDK      DOC     1372   1-11-89   6:38p
+       10 File(s)     73728 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP   Create/Update Utility   Version 0.80 Beta   1-10-89
+Copyright 1989 PKWARE Inc.  All Rights Reserved.  Not For Distribution.
+
+See Beta documentation for help.
+
+Beta Version - Please do not distribute!
+
+PKWARE hereby disclaims all warranties relating to this software, whether
+express or implied, including without limitation any implied warranties of
+merchantability or fitness for a particular purpose. PKWARE will not be liable
+for any special, incidental, consequential, indirect or similar damages due to
+loss of data or any other reason, even if PKWARE or an agent of PKWARE has
+been advised of the possibility of such damages.  In no event shall PKWARE's
+liability for any damages ever exceed the price paid for the license to use
+software, regardless of the form of the claim.  The person using the software
+bears all risk as to the quality and performance of the software.
+</code></pre></div></div>
+
+<h2 id="pkzip-090">PKZIP 0.90</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=http://cd.textfiles.com/originalsw/25/pkz090.exe
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+README   DOC      535   2-10-89
+RELEASE  DOC      307   2-10-89
+MANUAL   DOC    73345   2-10-89
+ORDER    DOC     5729   2-10-89
+DEDICATE DOC      718   2-10-89
+APPNOTE  TXT    13715   2-10-89
+PKZIP    EXE    26334   2-10-89
+PKUNZIP  EXE    18034   2-10-89
+ZIP2EXE  EXE     6674   2-10-89
+MAKESFX  COM      846   2-10-89
+       10 File(s)     10752 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (tm)   FAST!   Create/Update Utility   Version 0.90   02-01-89
+Copyright 1989 PKWARE Inc.  All Rights Reserved.  PKZIP/h for help
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options are:
+  -a = add files to zipfile         -b = create tmp zipfile on alternate drive
+  -d = delete files from zipfile    -f = freshen files in zipfile
+  -i = add changed files to zipfile -l = display software license
+  -u = update files to zipfile      -z = add zipfile comment
+  -v[t] = view files in zipfile [with long technical info]
+  -m = move files to zipfile (can be combined with A,F,U options)
+  -r = recurse subdirectories       -p = store pathnames in zipfile
+  -e[a,b][n] = use extra compression on [Ascii,Binary] files with
+       compression factor of N.  Default factor is 2 if not given.
+zipfile = ZIP file name, wildcards *,? ok.  Default extension is .ZIP
+file    = Name(s) of files to compress. Wildcards *,? ok. Default is ALL files.
+
+If you find PKZIP fast, easy, and convenient to use, a registration of $25
+would be appreciated.  If you send $47 or more you will receive, when
+available, the next version of the PKZIP, PKUNZIP, and PKSFX programs.
+Please state the version of the software that you currently have.  Send
+check or money order to:   PKWARE, Inc.
+                           7545 N. Port Washington Rd.
+                           Glendale, WI 53217
+</code></pre></div></div>
+
+<h2 id="pkzip-092">PKZIP 0.92</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=http://cd.textfiles.com/originalsw/25/pkz092.exe
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+MANUAL   DOC    73345   2-10-89
+OMBUDSMN ASP      592   3-06-89
+ORDER    DOC     7253   3-06-89
+DEDICATE DOC      718   2-10-89
+APPNOTE  TXT    13715   2-10-89
+PKZIPFIX DOC     2434   2-23-89
+PKZIPFIX EXE     8388   2-23-89
+MAKESFX  COM      846   3-06-89
+ZIP2EXE  EXE     6686   3-06-89
+PKZIP    EXE    26796   3-06-89
+PKUNZIP  EXE    18208   3-06-89
+VER092   DOC     2920   3-06-89
+RELEASE  DOC      307   3-06-89
+README   DOC      535   3-06-89
+       14 File(s)    152576 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (tm)   FAST!   Create/Update Utility   Version 0.92   03-06-89
+Copyright 1989 PKWARE Inc.  All Rights Reserved.  PKZIP/h for help
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options are:
+  -a = add files             -b = create tmp zipfile on alternate drive
+  -d = delete files          -f = freshen files    -i = add changed files
+  -l = display license info  -u = update files     -z = add zipfile comment
+  -m[u,f] = move files       -r = recurse subdirs  -p = store pathnames
+  -v[t] = view files [with long technical information]
+  -e[a,b][n] = use extra compression on [Ascii,Binary] files with
+       compression factor of N, (1-4).  Default factor is 2 if not given.
+  -ex = use maximum optimal compression on all files.
+
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+
+If you find PKZIP fast, easy, and convenient to use, a registration of $25
+would be appreciated.  If you send $47 or more you will receive, when
+available, the next version of the PKZIP, PKUNZIP, and PKSFX programs.
+Please state the version of the software that you currently have.  Send
+check or money order to:   PKWARE, Inc.
+                           7545 N. Port Washington Rd.
+                           Glendale, WI 53217
+</code></pre></div></div>
+
+<h2 id="pkzip-100ß">PKZIP 1.00ß</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/29986/wbiz0020-0029/wbiz0021.tar/wbiz0021/PKZ100B.ZIP
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+MANUAL   DOC    86718   6-30-89   6:47p
+PKZIP    EXE    30818   6-30-89   6:47p
+PKUNZIP  EXE    21396   6-30-89   6:47p
+APPNOTE  TXT    20951   6-30-89   6:47p
+        4 File(s)    160768 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (tm)   FAST!   Create/Update Utility   Version 1.0ß   06-30-89
+Copyright 1989 PKWARE Inc.   All Rights Reserved.   DO NOT DISTRIBUTE!
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options are:
+  -d = delete files           -f = freshen files     -i = add changed files
+  -l = display license info   -u = update files      -m[u,f] = move files
+  -a = add files              -b = create temp zipfile on alternate drive
+  -c = add/edit file comments -C = add comments to new files only
+ -es = use fast compression  -ex = use maximal compression (default)
+  -k = keep same ZIP date     -o = set ZIP date to latest file
+  -q = enable ANSI comments   -s&lt;pwd&gt; = Scramble files with password
+  -p = store pathnames recursed into                 -r = recurse subdirs
+  -P = store pathnames specified &amp; recursed into     -z = add zipfile comment
+  -w&lt;H,S&gt; = include Hidden/System files       -x&lt;filespec&gt; = eXclude filespec
+  -W&lt;H,S&gt; = don't include Hidden/System files (default)
+  -j&lt;H,S,R&gt; = mask Hidden/System/Readonly attributes when adding files
+  -J&lt;H,S,R&gt; = don't mask Hidden/System/Readonly attributes when adding files
+  -v[b,c,d,e,n,p,s,r,t] = view ZIP(s) [Brief listing/show Comments/sort by -
+    Date/Ext/Name/Percentage/Size/sort Reverse/Technical (long) listing]
+
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+@list   = listfile containing names of files to add or view etc.
+                         
+If you find PKZIP fast, easy, and convenient to use, a registration of $25
+would be appreciated.  If you send $47 or more you will receive, when
+available, the next version of the PKZIP, PKUNZIP, and PKSFX programs.
+Please state the version of the software that you currently have.  Send
+check or money order to:   PKWARE, Inc.
+                           7545 N. Port Washington Rd.
+                           Glendale, WI 53217
+</code></pre></div></div>
+
+<h2 id="pkzip-101">PKZIP 1.01</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=http://cd.textfiles.com/originalsw/25/pkz101.exe
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+README   DOC      873   7-21-89   1:01a
+MANUAL   DOC   140355   7-21-89   1:01a
+DEDICATE DOC      720   7-21-89   1:01a
+LICENSE  DOC     8959   7-21-89   1:01a
+ORDER    DOC     4607   7-21-89   1:01a
+APPNOTE  TXT    25662   7-21-89   1:01a
+OMBUDSMN ASP      595   7-21-89   1:01a
+PKZIP    EXE    31342   7-21-89   1:01a
+PKUNZIP  EXE    21440   7-21-89   1:01a
+MAKESFX  COM      896   7-21-89   1:01a
+ZIP2EXE  EXE     6898   7-21-89   1:01a
+PKZIPFIX EXE     8926   7-21-89   1:01a
+REZIP    ZIP    14592   7-21-89   1:01a
+       13 File(s)     51200 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (tm)   FAST!   Create/Update Utility   Version 1.01   07-21-89
+Copyright 1989 PKWARE Inc.   All Rights Reserved.   PKZIP/h for help
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options are:
+  -d = delete files           -f = freshen files     -i = add changed files
+  -l = display license info   -u = update files      -m[u,f] = move files
+  -a = add files              -b = create temp zipfile on alternate drive
+  -c = add/edit file comments -C = add comments to new files only
+ -es = use fast compression  -ex = use maximal compression (default)
+  -k = keep same ZIP date     -o = set ZIP date to latest file
+  -q = enable ANSI comments   -s&lt;pwd&gt; = Scramble files with password
+  -p = store pathnames recursed into                 -r = recurse subdirs
+  -P = store pathnames specified &amp; recursed into     -z = add zipfile comment
+  -w&lt;H,S&gt; = include Hidden/System files       -x&lt;filespec&gt; = eXclude filespec
+  -W&lt;H,S&gt; = don't include Hidden/System files (default)
+  -j&lt;H,S,R&gt; = mask Hidden/System/Readonly attributes when adding files
+  -J&lt;H,S,R&gt; = don't mask Hidden/System/Readonly attributes when adding files
+  -v[b,c,d,e,n,p,s,r,t] = view ZIP(s) [Brief listing/show Comments/sort by -
+    Date/Ext/Name/Percentage/Size/sort Reverse/Technical (long) listing]
+
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+@list   = listfile containing names of files to add or view etc.
+                         
+If you find PKZIP fast, easy, and convenient to use, a registration of $25
+would be appreciated.  If you send $47 or more you will receive, when
+available, the next version of the PKZIP, PKUNZIP, and PKSFX programs.
+Please state the version of the software that you currently have.  Send
+check or money order to:   PKWARE, Inc.
+                           7545 N. Port Washington Rd.
+                           Glendale, WI 53217
+</code></pre></div></div>
+
+<h2 id="pkzip-102">PKZIP 1.02</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/11833/sdf.org.zip/sdf.org/pub/computers/pcjr/arc/PKZ102.EXE
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+WHATSNEW 102     5837  10-01-89   1:02a
+BIOSFIX  COM      295  10-01-89   1:02a
+README   DOC      873  10-01-89   1:02a
+MANUAL   DOC   140355   7-21-89   1:01a
+DEDICATE DOC      720   7-21-89   1:01a
+LICENSE  DOC     8959   7-21-89   1:01a
+ORDER    DOC     4607   7-21-89   1:01a
+APPNOTE  TXT    25662   7-21-89   1:01a
+OMBUDSMN ASP      595   7-21-89   1:01a
+PKZIP    EXE    31408  10-01-89   1:02a
+PKUNZIP  EXE    22022  10-01-89   1:02a
+MAKESFX  COM      896  10-01-89   1:02a
+ZIP2EXE  EXE     6906  10-01-89   1:02a
+PKZIPFIX EXE     8926   7-21-89   1:01a
+REZIP    ZIP    14592  10-01-89   1:02a
+       15 File(s)     43008 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (tm)   FAST!   Create/Update Utility   Version 1.02   10-01-89
+Copyright 1989 PKWARE Inc.   All Rights Reserved.   PKZIP/h for help
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options are:
+  -d = delete files           -f = freshen files     -i = add changed files
+  -l = display license info   -u = update files      -m[u,f] = move files
+  -a = add files              -b = create temp zipfile on alternate drive
+  -c = add/edit file comments -C = add comments to new files only
+ -es = use fast compression  -ex = use maximal compression (default)
+  -k = keep same ZIP date     -o = set ZIP date to latest file
+  -q = enable ANSI comments   -s&lt;pwd&gt; = Scramble files with password
+  -p = store pathnames recursed into                 -r = recurse subdirs
+  -P = store pathnames specified &amp; recursed into     -z = add zipfile comment
+  -w&lt;H,S&gt; = include Hidden/System files       -x&lt;filespec&gt; = eXclude filespec
+  -W&lt;H,S&gt; = don't include Hidden/System files (default)
+  -j&lt;H,S,R&gt; = mask Hidden/System/Readonly attributes when adding files
+  -J&lt;H,S,R&gt; = don't mask Hidden/System/Readonly attributes when adding files
+  -v[b,c,d,e,n,p,s,r,t] = view ZIP(s) [Brief listing/show Comments/sort by -
+    Date/Ext/Name/Percentage/Size/sort Reverse/Technical (long) listing]
+
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+@list   = listfile containing names of files to add or view etc.
+                         
+If you find PKZIP fast, easy, and convenient to use, a registration of $25
+would be appreciated.  If you send $47 or more you will receive, when
+available, the next version of the PKZIP, PKUNZIP, and PKSFX programs.
+Please state the version of the software that you currently have.  Send
+check or money order to:   PKWARE, Inc.
+                           7545 N. Port Washington Rd.
+                           Glendale, WI 53217
+
+A:\&gt;TYPE WHATSNEW.102
+Version 1.02 is a minor bug fix for version 1.01 of PKZIP,
+PKUNZIP, and ZIP2EXE for the MS-DOS software; and PKSFX and
+ZIP2EXE for the OS/2 software.  No new features have been added
+to the software in this release.
+
+Those who have registered version 1.0x and are due a free
+upgrade will receive PKZIP/PKUNZIP/PKSFX(R) etc. version 1.1,
+with manual, when it becomes avaliable.
+
+
+MS-DOS
+======
+
+New files:  PKZIP.EXE, PKUNZIP.EXE, ZIP2EXE.EXE, BIOSFIX.COM
+            REZIP.ZIP, MAKESFX.COM
+
+All other files are the same as for version 1.01.
+
+Description of changes
+----------------------
+
+  o An updated version of Thomas Atkinson's REZIP is included
+    with this version, that properly handles paths stored
+    within a .ZIP file.
+
+  o Several people have reported problems with PKZIP/PKUNZIP
+    1.01 on 80386 computers, especially with disk caching
+    programs using EXTended memory, such as Super PC-Kwik.
+    This is due to the fact that Super PC-Kwik will access
+    '80286 extended memory' during the timer interrupt via
+    the BIOS interrupt 15H.  However, this corrupts the 32-bit
+    accumulator (EAX) in the 80386 CPU, and neither many BIOS's
+    nor PC-Kwik bother to preserve the EAX register.  If you have
+    an 80386 CPU and have had problems with PKZIP/PKUNZIP 1.01,
+    try these work-arounds, in the following order:
+
+    - Run BIOSFIX.COM supplied with version 1.02.  BIOSFIX
+      is a small (288 bytes resident) TSR program that preserves
+      the entire 80386 register set during any mode switches via
+      INT 15H.  This has been tested with Super PC-Kwik, and
+      should work with other programs that may be performing
+      asynchronouos CPU mode switching.
+
+    - Use an 80386 memory manager such as QEMM or 386^MAX which
+      will control and preserve the 80386 machine state.  Also,
+      use exPANded memory with your application instead of
+      exTENded memory, if possible.
+
+    - If you are using Super PC-Kwik, place /H- /D- on the
+      SUPERPCK command line.
+
+    - SET the environment variable PKNO386=xxxx where "xxxx"
+      is any string you want.  If the string PKNO386 is present
+      in the environment, then PKZIP/PKUNZIP 1.02 will not use
+      80386 instructions or registers.  Note however that
+      disabling the 80386 usage will make PKZIP run up to 20%
+      slower and PKUNZIP up to 40% slower than if the 80386
+      instructions are used.
+
+  o Using the "-c" option with PKZIP 1.01 could, in very rare
+    instances, cause random corruption of the .ZIP file.  This
+    was due to an anomoly in the MSC _ffree() function when
+    passed a canonical pointer.  This has been corrected in
+    PKZIP 1.02.
+
+  o There is bug in MS-DOS 3.3 and 4.x when SHARE is loaded and
+    I/O redirection is used, that sometimes prevents a file or
+    device, once redirected to, from ever being opened in a
+    sharing mode.  This would cause PKUNZIP to display the message 
+    "can't open: NUL" when using the "-t" test option.  PKUNZIP 1.02
+    first tries to open NUL in share-deny-none mode, and if that
+    fails, it will open the NUL device in compatibility mode,
+    bypassing SHARE.
+
+  o ZIP2EXE 1.01 could, on occasion, erroneously report that the
+    .ZIP file it was converting contained Reduced files.  This has
+    been corrected in this release.
+
+  o When PKZIP 1.01 would be unable to open a file that it was
+    trying to compress (it is locked by another program on a
+    network, for example) PKZIP would display a message that
+    the file could not be added.  However, when PKZIP terminated
+    it would exit with an exit code of 0 in this circumstance.
+    Several people have requested a way of determining this
+    condition when run from a program or batch file, so PKZIP 1.02
+    will exit with an errorlevel of 18 when it is unable to open
+    one or more files that were specified.  It should be noted that
+    this is a 'warning' condition only, and that otherwise PKZIP
+    was able to construct the .ZIP file without any errors.
+
+
+OS/2
+====
+
+New files:  PKSFX2.PRG, PKSFXF.PRG, ZIP2EXE.EXE
+
+All other files are the same as for version 1.01.
+
+Description of changes
+----------------------
+
+  o The same condition reported above for ZIP2EXE could also
+    occur with the OS/2 version of ZIP2EXE.
+
+  o The PKSFX2 and PKSFXF programs would fail if the self-
+    extracting file contained more than approximately 50 files.
+    This was due to an anomoly between memory allocation under
+    MS-DOS vs OS/2, and has been corrected in this release.
+
+Some Common Questions &amp; Answers
+-------------------------------
+
+o Where is my copy of PKSFX??  I ran PKZ102.EXE, but I don't have 
+  the third program, PKSFX.
+  
+  - You have to run the program MAKESFX to create the file PKSFX.PRG.
+
+o Why is the new version of PKZIP so much slower than my earlier version?
+
+  - PKZIP version 0.90 or 0.92 defaulted to its fastest compression
+    method, called Shrinking.  PKZIP 1.0 defaults to its best
+    compressing, albeit slower method called Imploding.  Imploding
+    typically compresses much better than Shrinking.  However, you can
+    still tell PKZIP 1.02 to perform Shrinking if you want by specifying
+    "-es" on the PKZIP command line, or by placing COMPRESS=SPEED in
+    your PKZIP.CFG file.  See MANUAL.DOC for more information about
+    specifying what compression method is to be used with PKZIP.
+
+o Do I have to convert the .ZIP files I made with earlier version of PKZIP?
+
+  - No, PKZIP and PKUNZIP 1.02 can read and extract .ZIP files created
+    by any version of the software.  However, converting .ZIP files
+    created by PKZIP 0.92 with the new software can result in additional
+    compression.
+</code></pre></div></div>
+
+<h2 id="pkzip-110">PKZIP 1.10</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/17384/TheUltimateSharewareCollect.cdr/ut/ut037.zip/PKZ110.EXE
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+WHATSNEW 110     2916   3-15-90   1:10a
+README   DOC      800   3-15-90   1:10a
+MANUAL   DOC   140355   7-21-89   1:01a
+ADDENDUM DOC    21473   3-15-90   1:10a
+DEDICATE DOC      720   3-15-90   1:10a
+LICENSE  DOC     9366   3-15-90   1:10a
+ORDER    DOC     4701   3-15-90   1:10a
+APPNOTE  TXT    25811   3-15-90   1:10a
+AUTHVERI FRM     1744   3-15-90   1:10a
+OMBUDSMN ASP      595   3-15-90   1:10a
+PKZIP    EXE    34296   3-15-90   1:10a
+PKUNZIP  EXE    23528   3-15-90   1:10a
+ZIP2EXE  EXE    22188   3-15-90   1:10a
+PKZIPFIX EXE     9224   3-15-90   1:10a
+PUTAV    EXE     4479   3-15-90   1:10a
+       15 File(s)     13312 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (R)   FAST!   Create/Update Utility   Version 1.1   03-15-90
+Copr. 1989-1990 PKWARE Inc.  All Rights Reserved.  PKZIP/h for help
+PKZIP Reg. U.S. Pat. and Tm. Off.
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options summary - consult the PKWARE documentation for additional information
+  -x&lt;filespec|@list&gt; = eXclude filespec(s)            -z = add zipfile comment
+  -d = delete files            -f = freshen files     -i = add changed files
+  -l = display license info    -u = update files      -m[u,f] = move files
+  -a = add files               -b = create temp zipfile on alternate drive
+  -c = add/edit file comments  -C = add comments to new files only
+  -k = keep same ZIP date      -o = set ZIP date to latest file
+  -q = enable ANSI comments    -s&lt;pwd&gt; = Scramble files with password
+  -r = recurse subdirs         -$[drive] = save volume label 
+  -t[mmddyy] = Compress files on or after specified date (default=today)
+  -e[x,i,s] = use maXimal compression/Implode only/Shrink only
+  -&lt;p|P&gt; = store pathnames | p=recursed into | P=specified &amp; recursed into
+  -&lt;w|W&gt;&lt;H,S&gt; = | w=include | W=don't include | Hidden/System files
+  -&lt;j|J&gt;&lt;H,S,R&gt; = | j=mask | J=don't mask | Hidden/System/Readonly attributes
+  -v[b,c,d,e,n,p,s,r,t] = view ZIP [Brief listing/show Comments/sort by -
+    Date/Ext/Name/Percentage/Size/sort Reverse/Technical (long) listing]
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+@list   = listfile containing names of files to add or view etc.
+                         
+If you find PKZIP fast, easy, and convenient to use, a registration of $25
+would be appreciated.  If you send $47 or more you will receive, when
+available, the next version of the PKZIP, PKUNZIP, and PKSFX programs.
+Please state the version of the software that you currently have.  Send
+check or money order to:   PKWARE, Inc.
+                           7545 N. Port Washington Rd.
+                           Glendale, WI 53217
+
+A:\&gt;TYPE WHATSNEW.110
+
+Several new features have been added to PKZIP/PKUNZIP/PKSFX
+version 1.1.  Read the file ADDENDUM.DOC for a complete
+description of these changes and enhancements.  Highlights
+of PKZIP/PKUNZIP/PKSFX etc. version 1.1 include:
+
+- PKZIP 1.1 Imploding is up to 5X faster, particularly on large
+  spreadsheet and database type files where PKZIP 1.02 would run
+  relatively slowly.  Most 'typical' types of files should
+  implode 5% to 25% faster.  In addition, compression has been
+  improved over version 1.02 as well.
+
+- Authenticity Verification.
+
+- A 2,934 byte "mini" PKSFX self-extracting module.
+
+- ZIP2EXE no longer requires the external file PKSFX.PRG.
+
+- The ability to save &amp; restore volume labels.
+
+- Defensive use of the 32 bit accumulator EAX on 80386 or 80486
+  computers. In many instances, such as when using MultiSoft's
+  PC-KWIK cache or Novell non-dedicated NetWare software, if you
+  needed to set the PKNO386 environment variable with
+  PKZIP/PKUNZIP version 1.02, you probably don't need to set this
+  anymore with PKZIP/PKUNZIP version 1.1.
+
+  There appear to be many programs that use exTENded memory
+  and/or '80286 protected mode' that have absolutely no regard to
+  saving or restoring the EAX register when switching to and from
+  protected mode on an 80386 or 80486 CPU.  There were no bugs in
+  PKZIP/PKUNZIP 1.02 regarding usage of the 80386 instructions or
+  registers.  However, PKZIP/PKUNZIP 1.02 did not expect that the
+  EAX register would be wantonly corrupted from one instruction
+  to the next.  PKZIP/PKUNZIP 1.1 do expect that other programs
+  may randomly destroy the EAX register, and defends against
+  this.  PKZIP/PKUNZIP 1.1 treat all references to EAX as a
+  critical section, briefly disallowing programs from
+  interrupting PKZIP/PKUNZIP when the EAX register is used.
+
+  If it sounds ludicrous that a program would need to protect
+  access to a CPU register like this, particularly the
+  accumulator, that's because it is!  Considering that 80386
+  computers have commonly been available for over two years now,
+  it is unfortunate that many '80286 specific' programs don't
+  have any consideration that they could be running on an 80386
+  or 80486 CPU.  It takes approximately 30 bytes of code for a
+  program to determine if it is running on an 80286 CPU versus an
+  80386/80486 CPU, and two instructions (namely PUSH EAX and POP
+  EAX) to save and restore the EAX register.  Any program that
+  uses exTENded memory or 80286 protected mode has little excuse
+  not to save and restore EAX when running on an 80386 or 80486
+  CPU, especially if they are going to interrupt the currently
+  executing program!  Programs that are negligent of this will
+  only cause additional problems in the future as more software
+  is developed to take advantage of the 80386 and 80486
+  instruction sets and 32-bit registers.
+</code></pre></div></div>
+
+<h2 id="pkzip-11-ms">PKZIP 1.1 [MS]</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/29651/ibm0330-0339/ibm0333.tar/ibm0333/MSONLIN2.ZIP
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+ABORT    DIA       75  11-10-92  12:00a
+HAYESOFF DIA      597  11-10-92  12:00a
+HAYESON  DIA     2881  11-10-92  12:00a
+ISAMREPR DLL   101100  11-10-92  12:00a
+LOGOFF   DIA      684  11-10-92  12:00a
+LOGON    DIA     2685  11-10-92  12:00a
+PKUNZIP  EXE    16622  11-10-92  12:00a
+PKZIP    EXE    23509  11-10-92  12:00a
+PKZIP10  TXT   122513  11-10-92  12:00a
+PKZIP11  TXT    16587  11-10-92  12:00a
+PKZIPFIX EXE     7523  11-10-92  12:00a
+FILE_ID  DIZ       47   4-20-95   8:30p
+       12 File(s)     21504 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (R)   FAST!   Create/Update Utility   Version 1.1   03-15-90
+Copr. 1989-1990 PKWARE Inc.  All Rights Reserved.  PKZIP/h for help
+PKZIP Reg. U.S. Pat. and Tm. Off.
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options summary - consult the PKWARE documentation for additional information
+  -x&lt;filespec|@list&gt; = eXclude filespec(s)            -z = add zipfile comment
+  -d = delete files            -f = freshen files     -i = add changed files
+  -l = display license info    -u = update files      -m[u,f] = move files
+  -a = add files               -b = create temp zipfile on alternate drive
+  -c = add/edit file comments  -C = add comments to new files only
+  -k = keep same ZIP date      -o = set ZIP date to latest file
+  -q = enable ANSI comments    -s&lt;pwd&gt; = Scramble files with password
+  -r = recurse subdirs         -$[drive] = save volume label 
+  -t[mmddyy] = Compress files on or after specified date (default=today)
+  -e[x,i,s] = use maXimal compression/Implode only/Shrink only
+  -&lt;p|P&gt; = store pathnames | p=recursed into | P=specified &amp; recursed into
+  -&lt;w|W&gt;&lt;H,S&gt; = | w=include | W=don't include | Hidden/System files
+  -&lt;j|J&gt;&lt;H,S,R&gt; = | j=mask | J=don't mask | Hidden/System/Readonly attributes
+  -v[b,c,d,e,n,p,s,r,t] = view ZIP [Brief listing/show Comments/sort by -
+    Date/Ext/Name/Percentage/Size/sort Reverse/Technical (long) listing]
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+@list   = listfile containing names of files to add or view etc.
+                         
+This copy of PKZIP has been licensed to Microsoft Corporation for
+distribution to Microsoft customers.
+</code></pre></div></div>
+
+<h2 id="pkzip-111-ibm">PKZIP 1.11 [IBM]</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/29622/ibm0040-0049/ibm0040.tar/ibm0040/W3DRV12.ZIP
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+PKZIP    EXE    23458  11-23-90
+DRVRDSK1 ZIP   362246  10-16-91  11:02a
+DRVRDSK2 ZIP   324181  10-16-91  11:04a
+        3 File(s)    503296 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (R)   FAST!   Create/Update Utility   Version 1.11  11-23-90
+Copr. 1989-1990 PKWARE Inc.  All Rights Reserved.  PKZIP/h for help
+PKZIP Reg. U.S. Pat. and Tm. Off.    IBM LICENSED VERSION
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options summary - consult the PKWARE documentation for additional information
+  -x&lt;filespec|@list&gt; = eXclude filespec(s)            -z = add zipfile comment
+  -d = delete files            -f = freshen files     -i = add changed files
+  -l = display license info    -u = update files      -m[u,f] = move files
+  -a = add files               -b = create temp zipfile on alternate drive
+  -c = add/edit file comments  -C = add comments to new files only
+  -k = keep same ZIP date      -o = set ZIP date to latest file
+  -q = enable ANSI comments
+  -r = recurse subdirs         -$[drive] = save volume label 
+  -t[mmddyy] = Compress files on or after specified date (default=today)
+  -e[x,i,s] = use maXimal compression/Implode only/Shrink only
+  -&lt;p|P&gt; = store pathnames | p=recursed into | P=specified &amp; recursed into
+  -&lt;w|W&gt;&lt;H,S&gt; = | w=include | W=don't include | Hidden/System files
+  -&lt;j|J&gt;&lt;H,S,R&gt; = | j=mask | J=don't mask | Hidden/System/Readonly attributes
+  -v[b,c,d,e,n,p,s,r,t] = view ZIP [Brief listing/show Comments/sort by -
+    Date/Ext/Name/Percentage/Size/sort Reverse/Technical (long) listing]
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+@list   = listfile containing names of files to add or view etc.
+                         
+PKWARE, Inc.
+7545 N. Port Washington Rd.
+Glendale, WI 53217
+</code></pre></div></div>
+
+<h2 id="pkzip-193a">PKZIP 1.93A</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/29622/ibm0040-0049/ibm0044.tar/ibm0044/PKZ193A.EXE
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+ALPHA193 DOC     9299  10-15-91   7:30p
+BUGREP   DOC     2275  10-15-91   7:30p
+BENCH    DOC     2449  10-15-91   7:30p
+PKZIP    EXE    24411  10-15-91   7:30p
+PKUNZIP  EXE    19411  10-15-91   7:30p
+APPNOTE  TXT    32227  10-15-91   7:30p
+CRC      DOC     1547  10-15-91   7:30p
+        7 File(s)     67072 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (R)  FAST!  Create/Update Utility  Version 1.93  ALPHA  10-15-91
+Copr. 1989-1991 PKWARE Inc.  All Rights Reserved.  PKZIP/h for help
+PKZIP Reg. U.S. Pat. and Tm. Off.   Patent No. 5,051,745
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options summary - consult the PKWARE documentation for additional information
+  -x&lt;filespec|@list&gt; = eXclude filespec(s)            -z = add zipfile comment
+  -d = delete files            -f = freshen files     -i = add changed files
+  -l = display license info    -u = update files      -m[u,f] = move files
+  -a = add files               -b = create temp zipfile on alternate drive
+  -c = add/edit file comments  -C = add comments to new files only
+  -k = keep same ZIP date      -o = set ZIP date to latest file
+  -q = enable ANSI comments    -s&lt;pwd&gt; = Scramble files with password
+  -r = recurse subdirs         -$[drive] = save volume label
+  -&lt;T|t&gt;[mmddyy] = Compress files before|after specified date (default=today)
+  -e[x,n,s] = maXimal compression/Normal compression/Speed(fast) compression
+  -&lt;p|P&gt; = store pathnames | p=recursed into | P=specified &amp; recursed into
+  -&lt;w|W&gt;&lt;H,S&gt; = | w=include | W=don't include | Hidden/System files
+  -&lt;j|J&gt;&lt;H,S,R&gt; = | j=mask | J=don't mask | Hidden/System/Readonly attributes
+  -v[b,c,d,e,n,p,s,r,t] = view ZIP [Brief listing/show Comments/sort by -
+    Date/Ext/Name/Percentage/Size/sort Reverse/Technical (long) listing]
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+@list   = listfile containing names of files to add or view etc.
+                         
+NOTICE: THIS IS PRE-RELEASE SOFTWARE AND, AS SUCH, HAS NOT BEEN COMPLETELY
+TESTED.  PERSONS USING THIS SOFTWARE MAY ENCOUNTER PROBLEMS AND IT IS LIKELY
+THAT YOU MAY LOSE OR DESTROY DATA.  YOU MUST BACKUP YOUR SYSTEM PRIOR
+TO USING THIS SOFTWARE, AND SHOULD DO SO OFTEN DURING SUBSEQUENT USE.
+
+PKWARE, Inc.
+9025 N. Deerwood Drive
+Brown Deer, WI 53223
+
+A:\&gt;TYPE ALPHA193.DOC
+Copyright 1989-1991 PKWARE Inc.  All Rights Reserved.
+
+NOTICE
+------
+
+  THIS IS PRE-RELEASE SOFTWARE AND, AS SUCH, HAS NOT BEEN COMPLETELY
+  TESTED. PERSONS USING THIS SOFTWARE MAY ENCOUNTER PROBLEMS AND IT IS
+  LIKELY THAT YOU MAY LOSE OR DESTROY DATA.  YOU MUST BACKUP YOUR SYSTEM
+  PRIOR TO USING THIS SOFTWARE, AND SHOULD DO SO OFTEN DURING SUBSEQUENT
+  USE. PLEASE DON'T COMPRESS ANYTHING THAT CANNOT BE EASILY REPLACED OR
+  RESTORED. THIS VERSION OF PKZIP POSSIBLY MAY NOT BE COMPATIBLE WITH
+  LATER VERSIONS OF THE SOFTWARE AND SHOULD NOT BE USED TO ARCHIVE FILES
+  YOU PLAN TO EXCHANGE WITH OTHER PERSONS.
+
+
+Disclaimer
+----------
+
+Although PKWARE will attempt to supply current and accurate information
+relating to its file formats, algorithms, and the subject programs, the
+possibility of error can not be eliminated. PKWARE therefore expressly
+disclaims any warranty that the information contained in the associated
+materials relating to the subject programs and/or the format of the
+files created or accessed by the subject programs and/or the algorithms
+used by the subject programs, or any other matter, is current, correct
+or accurate as delivered.  Any risk of damage due to any possible
+inaccurate information is assumed by the user of the information.
+Furthermore, the information relating to the subject programs and/or the
+file formats created or accessed by the subject programs and/or the
+algorithms used by the subject programs is subject to change without
+notice.
+
+                                 ALPHA 1.93
+
+Due to the extensive changes in PKZIP including the incorporation of our
+new data compression technology, this ALPHA version is being made
+available for a wide-spread test.  PLEASE be aware that this is NOT
+final software, and must be treated as such.  It is EXTREMELY LIKELY
+that files created with this version of PKZIP will NOT be compatible
+with future/final releases of the product.  Therefore, do NOT use this
+program to archive any data which cannot be replaced easily.  BBS SysOps
+SHOULD NOT convert their archives to this release of PKZIP.  Although it
+is true that significant space savings can be realized on all BBS's by
+converting to the new compression, PLEASE wait until the final version
+is available to ensure compatibility with your users and other BBS's.
+
+This generation of PKZIP offers the following significant improvements
+over previous releases:
+
+1)  ALL NEW COMPRESSION ALGORITHM.  This new process allows PKZIP to
+    compress data TIGHTER and FASTER.  In fact, the new FAST method gets
+    more compression than the maximum compression in PKZIP 1.10, yet is
+    almost as fast as Shrinking!
+
+2)  MULTI-VOLUME ARCHIVES.  PKZIP can now create and extract ZIP files
+    which cross more than one disk.  This is not functional in this
+    Alpha 1.93 version.
+
+3)  EMS SUPPORT.  When sufficient EMS is available PKZIP now requires
+    only 85K of conventional memory to run.  Without EMS PKZIP requires
+    183K.  PKUNZIP requires approximately 75K if EMS is present and
+    approximately 81K without EMS.
+
+=================
+NEW PKZIP OPTIONS
+=================
+Brackets [] are used in command option descriptions only to indicate the
+position of optional or required switches and are NEVER typed as part of
+a command.
+
+****
+Compression Type
+-e[s/n/x]
+
+Specifying this parameter allows you to select the compression type you
+desire.  (s) specifies the FAST compression algorithm, (x) specifies the
+EXTRA compression algorithm.  (n) specifies the NORMAL (default)
+compression type and is provided to override the configuration file in
+future revisions.
+
+Examples:
+
+        pkzip -es test.zip *.doc
+        pkzip -ex test2.zip *.gif
+
+****
+Date Specifier
+-t[mmyydd]    (files on or AFTER this date)
+-T[mmyydd]    (files BEFORE this date)
+
+With this option, you can specify a date so that only files with a date
+that is equal to or more recent/older will be included in the PKZIP
+operation.  These options MAY be combined, but take care not to have
+them overlap or you will exclude all files!
+
+Examples:
+
+        pkzip -ex -m -T010191 oldstuff *.wk1
+
+        This example would compress all files matching the file
+        specification *.wk1 and created before January 1st, 1991, and
+        place them into the ZIP file called 'oldstuff.zip'.  This
+        example is also using the EXTRA compression option and MOVING
+        the files (deleting them after they are compressed).
+
+        pkzip -t110191 catalog catalog.*
+
+        This example would compress all files matching the file
+        specification catalog.* (i.e. all files names catalog,
+        regardless of extension) and created on or after November
+        1st, 1991, and copy them into a ZIP files called 'catalog.zip'.
+
+****
+Create Multi-Volume Archives
+-&amp;
+
+This feature is not functional in this ALPHA 1.93 version, but will be
+in the final release of the product.
+
+When this option is specified, and a ZIP file is being created on a
+REMOVABLE DOS media device, PKZIP has permission to create a ZIP file
+that is larger than that single media.  When a ZIP file reaches the
+point where it would exceed the capacity of the storage device, the user
+is prompted to insert another one.  In the case of standard floppy disks
+(360K/720K/1.2M/1.44M) these disks may be formatted on-the-fly, that is,
+if an un-formatted disk is inserted it will be formatted before PKZIP
+continues to write the archive.
+
+****
+Open files in compatibility mode
+-=
+
+When this option is specified, PKZIP will open files for archiving in
+compatibility mode, as opposed to 'sharing' mode.  On some systems this
+will bypass any network sharing and allow PKZIP to read files opened by
+other programs or applications.
+
+****
+Disable EMS usage
+-+
+
+If you experience strange behavior when testing PKZIP, try using this
+option. When this option is on PKZIP will use only conventional memory.
+Use of this switch may reveal problems or incompatibilities with your
+EMS driver.  Please report these occurances.
+
+===================
+NEW PKUNZIP OPTIONS
+===================
+Brackets [] are used in command option descriptions only to indicate the
+position of optional or required switches and are NEVER typed as part of
+a command.
+
+****
+Command line options for PKUNZIP may now be combined!  This was possible
+with previous versions of PKZIP but never before with PKUNZIP.  For
+example in the past if you wanted to extract a ZIP file while restoring
+directory paths AND overwrite any previously existing files by the same
+name you needed to give the command with separate -d -o options, you may
+now combine them as the single option -do.
+
+Please note: As with PKZIP, you still MUST separate options which take
+additional parameters themselves, such as -e (extract files in
+designated order).  The -ed option is the extract files in order of file
+date, thus if you had planned it to also restore directories it would
+not be interpreted in that fashion.
+
+****
+Exclude Files
+-xfilename
+-x@exclude.lst
+
+PKZIP allows you to create plain ASCII text files containing file names
+that you wish to compress, or exclude from an operation.  Now with this
+option you may specify a list of files to EXCLUDE from an unzip
+operation, or a particular file.
+
+Example:
+
+        pkunzip testfile.zip -xmanual.txt
+
+        This example would extract the files contained in the archive
+        'testfile.zip' but not the file 'manual.txt'
+
+        pkunzip -d a:project2.zip -x@nowant.lst
+
+        This example would extract the files contained in the archive
+        'project2.zip' (which incidentally is located on the a: drive
+        and is having it's directory structure restored via the -d
+        option and the a: being added to the file name).  The files
+        contained in the list file 'nowant.lst' would NOT be extracted
+        from this archive.
+
+****
+Disable EMS usage
+-+
+
+If you experience strange behavior when testing PKUNZIP, try this
+option. When this option is on PKUNZIP will use only conventional
+memory.  Use of this switch may reveal problems or incompatibilities
+with your EMS driver.  Please report these occurances.
+
+****
+New Overwrite Option
+(automatic)
+
+Past versions of PKUNZIP, when encountering a file it was extracting
+that already existed, would prompt you as to whether or not you wished
+to overwrite the existing file.  This question could only be answered in
+a yes or no manner.
+
+Starting with this revision, PKUNZIP will now prompt you with:
+
+File already exists overwrite (y/n/a/r)?
+
+The four possible responses to this question are:
+
+Y - Yes, overwrite the existing file with the version that is contained
+    in the archive.
+
+N - No, leave the existing file alone and skip to the next file.
+
+A - All, overwrite the existing file, and do so for any others that are
+    run across as well.  This is useful if you forget to specify -o when
+    you give the original PKUNZIP command.
+
+R - Rename it!  This will prompt you for a new name of the file and then
+    extract the file in the archive to this new name.  This is very
+    useful when extracting downloads from BBS systems, which frequently
+    contain files such as 'readme.doc' or 'manual.doc' in many different
+    files.
+</code></pre></div></div>
+
+<h2 id="pkzip-201">PKZIP 2.01</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/30009/wbiz0250-0259/wbiz0250.tar/wbiz0250/PKZ201.ZIP
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+OMBUDSMN ASP      595   3-15-92   2:01a
+FILE_ID  DIZ      118   3-15-92   2:01a
+BENCH    DOC     2449   3-15-92   2:01a
+CRC      DOC     1888   3-15-92   2:01a
+DEDICATE DOC      720   3-15-92   2:01a
+MANUAL   DOC   132199   3-15-92   2:01a
+ORDER    DOC     4654   3-15-92   2:01a
+README   DOC      789   3-15-92   2:01a
+WHATSNEW DOC     7885   3-15-92   2:01a
+PKUNZIP  EXE    19793   3-15-92   2:01a
+PKZIP    EXE    24869   3-15-92   2:01a
+APPNOTE  TXT    32227   3-15-92   2:01a
+WAREZ        &lt;DIR&gt;   
+       13 File(s)     86016 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (R)  FAST!  Create/Update Utility    Version 2.01   03-15-92    
+Copr. 1989-1992 PKWARE Inc.  All Rights Reserved.  PKZIP/h for help
+PKZIP Reg. U.S. Pat. and Tm. Off.                       
+
+Usage: PKZIP [-b[path]] [options] zipfile [@list] [files...]
+Options summary - consult the PKWARE documentation for additional information
+  -x&lt;filespec|@list&gt; = eXclude filespec(s)            -z = add zipfile comment
+  -d = delete files            -f = freshen files     -i = add changed files
+  -l = display license info    -u = update files      -m[u,f] = move files
+  -a = add files               -b = create temp zipfile on alternate drive
+  -c = add/edit file comments  -C = add comments to new files only
+  -k = keep same ZIP date      -o = set ZIP date to latest file
+  -q = enable ANSI comments    -s&lt;pwd&gt; = Scramble files with password
+  -r = recurse subdirs         -$[drive] = save volume label
+  -&lt;T|t&gt;[mmddyy] = Compress files before|after specified date (default=today)
+  -e[x,n,s] = maXimal compression/Normal compression/Speed(fast) compression
+  -&lt;p|P&gt; = store pathnames | p=recursed into | P=specified &amp; recursed into
+  -&lt;w|W&gt;&lt;H,S&gt; = | w=include | W=don't include | Hidden/System files
+  -&lt;j|J&gt;&lt;H,S,R&gt; = | j=mask | J=don't mask | Hidden/System/Readonly attributes
+  -v[b,c,d,e,n,p,s,r,t] = view ZIP [Brief listing/show Comments/sort by -
+    Date/Ext/Name/Percentage/Size/sort Reverse/Technical (long) listing]
+zipfile = ZIP file name.  Default extension is .ZIP
+file    = Names of files to compress. Wildcards *,? ok. Default is ALL files.
+@list   = listfile containing names of files to add or view etc.
+                         
+If you find PKZIP fast, easy, and convenient to use, a registration of $33
+would be encouraged. If you send $60 you will receive, when available,      
+the next version of PKZIP, PKUNZIP, programs. Please state the version
+of the software that you have, Please send check or money order to: PKWARE, Inc
+7545 N.PORT Washington Rd.
+Glendale, WI 53217
+   
+A:\&gt;TYPE WHATSNEW.DOC
+Copyright 1989-1992 PKWARE Inc.  All Rights Reserved.
+
+Disclaimer
+----------
+
+Although PKWARE will attempt to supply current and accurate information
+relating to its file formats, algorithms, and the subject programs, the
+possibility of error can not be eliminated. PKWARE therefore expressly
+disclaims any warranty that the information contained in the associated
+materials relating to the subject programs and/or the format of the
+files created or accessed by the subject programs and/or the algorithms
+used by the subject programs, or any other matter, is current, correct
+or accurate as delivered.  Any risk of damage due to any possible
+inaccurate information is assumed by the user of the information.
+Furthermore, the information relating to the subject programs and/or the
+file formats created or accessed by the subject programs and/or the
+algorithms used by the subject programs is subject to change without
+notice.
+
+                                 PKZIP V2.01
+
+This generation of PKZIP offers the following significant improvements
+over previous releases:
+
+1)  ALL NEW COMPRESSION ALGORITHM.  This new process allows PKZIP to
+    compress data TIGHTER and FASTER.  In fact, the new FAST method gets
+    more compression than the maximum compression in PKZIP 1.10, yet is
+    almost as fast as Shrinking!
+
+2)  MULTI-VOLUME ARCHIVES.  PKZIP can now create and extract ZIP files
+    which cross more than one disk.  This is only available in  the
+    Registered version.
+
+3)  EMS SUPPORT.  When sufficient EMS is available PKZIP now requires
+    only 85K of conventional memory to run.  Without EMS PKZIP requires
+    183K.  PKUNZIP requires approximately 75K if EMS is present and
+    approximately 81K without EMS.
+
+=================
+NEW PKZIP OPTIONS
+=================
+Brackets [] are used in command option descriptions only to indicate the
+position of optional or required switches and are NEVER typed as part of
+a command.
+
+****
+Compression Type
+-e[s/n/x]
+
+Specifying this parameter allows you to select the compression type you
+desire.  (s) specifies the FAST compression algorithm, (x) specifies the
+EXTRA compression algorithm.  (n) specifies the NORMAL (default)
+compression type and is provided to override the configuration file in
+future revisions.
+
+Examples:
+
+        pkzip -es test.zip *.doc
+        pkzip -ex test2.zip *.gif
+
+****
+Date Specifier
+-t[mmyydd]    (files on or AFTER this date)
+-T[mmyydd]    (files BEFORE this date)
+
+With this option, you can specify a date so that only files with a date
+that is equal to or more recent/older will be included in the PKZIP
+operation.  These options MAY be combined, but take care not to have
+them overlap or you will exclude all files!
+
+Examples:
+
+        pkzip -ex -m -T010191 oldstuff *.wk1
+
+        This example would compress all files matching the file
+        specification *.wk1 and created before January 1st, 1991, and
+        place them into the ZIP file called 'oldstuff.zip'.  This
+        example is also using the EXTRA compression option and MOVING
+        the files (deleting them after they are compressed).
+
+        pkzip -t110191 catalog catalog.*
+
+        This example would compress all files matching the file
+        specification catalog.* (i.e. all files names catalog,
+        regardless of extension) and created on or after November
+        1st, 1991, and copy them into a ZIP files called 'catalog.zip'.
+
+****
+Create Multi-Volume Archives
+-&amp;
+
+This feature is only available in Registered versions!
+
+When this option is specified, and a ZIP file is being created on a
+REMOVABLE DOS media device, PKZIP has permission to create a ZIP file
+that is larger than that single media.  When a ZIP file reaches the
+point where it would exceed the capacity of the storage device, the user
+is prompted to insert another one.  In the case of standard floppy disks
+(360K/720K/1.2M/1.44M) these disks may be formatted on-the-fly, that is,
+if an un-formatted disk is inserted it will be formatted before PKZIP
+continues to write the archive.
+
+****
+Open files in compatibility mode
+-=
+
+When this option is specified, PKZIP will open files for archiving in
+compatibility mode, as opposed to 'sharing' mode.  On some systems this
+will bypass any network sharing and allow PKZIP to read files opened by
+other programs or applications.
+
+****
+Disable EMS usage
+-+
+
+If you experience strange behavior when testing PKZIP, try using this
+option. When this option is on PKZIP will use only conventional memory.
+Use of this switch may reveal problems or incompatibilities with your
+EMS driver.  Please report these occurances.
+
+===================
+NEW PKUNZIP OPTIONS
+===================
+Brackets [] are used in command option descriptions only to indicate the
+position of optional or required switches and are NEVER typed as part of
+a command.
+
+****
+Command line options for PKUNZIP may now be combined!  This was possible
+with previous versions of PKZIP but never before with PKUNZIP.  For
+example in the past if you wanted to extract a ZIP file while restoring
+directory paths AND overwrite any previously existing files by the same
+name you needed to give the command with separate -d -o options, you may
+now combine them as the single option -do.
+
+Please note: As with PKZIP, you still MUST separate options which take
+additional parameters themselves, such as -e (extract files in
+designated order).  The -ed option is the extract files in order of file
+date, thus if you had planned it to also restore directories it would
+not be interpreted in that fashion.
+
+****
+Exclude Files
+-xfilename
+-x@exclude.lst
+
+PKZIP allows you to create plain ASCII text files containing file names
+that you wish to compress, or exclude from an operation.  Now with this
+option you may specify a list of files to EXCLUDE from an unzip
+operation, or a particular file.
+
+Example:
+
+        pkunzip testfile.zip -xmanual.txt
+
+        This example would extract the files contained in the archive
+        'testfile.zip' but not the file 'manual.txt'
+
+        pkunzip -d a:project2.zip -x@nowant.lst
+
+        This example would extract the files contained in the archive
+        'project2.zip' (which incidentally is located on the a: drive
+        and is having it's directory structure restored via the -d
+        option and the a: being added to the file name).  The files
+        contained in the list file 'nowant.lst' would NOT be extracted
+        from this archive.
+
+****
+Disable EMS usage
+-+
+
+If you experience strange behavior when testing PKUNZIP, try this
+option. When this option is on PKUNZIP will use only conventional
+memory.  Use of this switch may reveal problems or incompatibilities
+with your EMS driver.  Please report these occurances.
+
+****
+New Overwrite Option
+(automatic)
+
+Past versions of PKUNZIP, when encountering a file it was extracting
+that already existed, would prompt you as to whether or not you wished
+to overwrite the existing file.  This question could only be answered in
+a yes or no manner.
+
+Starting with this revision, PKUNZIP will now prompt you with:
+
+File already exists overwrite (y/n/a/r)?
+
+The four possible responses to this question are:
+
+Y - Yes, overwrite the existing file with the version that is contained
+    in the archive.
+
+N - No, leave the existing file alone and skip to the next file.
+
+A - All, overwrite the existing file, and do so for any others that are
+    run across as well.  This is useful if you forget to specify -o when
+    you give the original PKUNZIP command.
+
+R - Rename it!  This will prompt you for a new name of the file and then
+    extract the file in the archive to this new name.  This is very
+    useful when extracting downloads from BBS systems, which frequently
+    contain files such as 'readme.doc' or 'manual.doc' in many different
+    files.
+</code></pre></div></div>
+
+<h2 id="pkzip-204c">PKZIP 2.04c</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/18224/World_Of_Computer_Software-02-386-Vol-2of3.iso/w/wxpress2.zip/PKZ204C.EXE
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+README   DOC      537  12-28-92   2:04a
+SHAREWAR DOC      573  12-28-92   2:04a
+WHATSNEW 204     2430  12-28-92   2:04a
+LICENSE  DOC     3707  12-28-92   2:04a
+ORDER    DOC     3456  12-28-92   2:04a
+ADDENDUM DOC    13700  12-28-92   2:04a
+MANUAL   DOC   191376  12-28-92   2:04a
+AUTHVERI FRM     2299  12-28-92   2:04a
+PKZIP    EXE    41462  12-28-92   2:04a
+PKUNZIP  EXE    28806  12-28-92   2:04a
+PKZIPFIX EXE     7672  12-28-92   2:04a
+ZIP2EXE  EXE    27069  12-28-92   2:04a
+PKUNZJR  COM     2750  12-28-92   2:04a
+OMBUDSMN ASP      591  12-28-92   2:04a
+       14 File(s)     28672 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (R)   FAST!   Create/Update Utility   Version 2.04c   12-28-92
+Copr. 1989-1992 PKWARE Inc.  All Rights Reserved.  Shareware Version
+PKZIP Reg. U.S. Pat. and Tm. Off.   Patent No. 5,051,745
+
+
+PKZIP /h[1] for basic help   PKZIP /h[2|3|4] for other help screens.
+
+
+Usage:  PKZIP [options] zipfile [@list] [files...]
+
+
+       Simple Usage:   PKZIP zipfile file(s)...
+                         |      |      |
+Program -----------------       |      |
+                                |      |
+New zipfile to create ----------       |
+                                       |
+File(s) you wish to compress ----------
+
+The above usage is only a very basic example of PKZIP's capability.
+
+
+Press 2 for more options (including spanning &amp; formatting), press 3 for
+advanced options, 4 for trouble shooting options, any other key to quit help.
+
+If you use PKZIP on a regular basis you are strongly encouraged to register
+it.  With a full registration of US $47.00 you will receive a comprehensive
+printed manual, the latest version of PKZIP, PKUNZIP &amp; PKSFX software, and
+when available, the next version of the software.  See the documentation for
+commercial and distribution licensing info.  Send check or money order to:
+                PKWARE, Inc.
+                9025 N. Deerwood Drive
+                Brown Deer, WI 53223
+
+A:\&gt;TYPE WHATSNEW.204
+
+Several new features have been added to PKZIP/PKUNZIP/PKSFX
+version 2.04c.  Read the file ADDENDUM.DOC for a complete
+description of these changes and enhancements.  Highlights
+of PKZIP/PKUNZIP/PKSFX etc. version 2.04c include:
+
+-Improved Compression
+
+        PKZIP/PKUNZIP 2.04c implements a new compression algorithm
+        called Deflating.  Deflating has varying levels of compression
+        and speed available.  Both speed and compression are greatly
+        improved over previous versions of PKZIP.
+
+-Multi-Volume Archive Support/Formatting
+
+        PKZIP/PKUNZIP 2.04c has the ability to "span" a .ZIP file across
+        multiple diskettes if the final .ZIP file size would be greater
+        than a single diskette.  PKZIP 2.04c also has the ability to
+        format the destination diskettes on the fly.
+
+-XMS/EMS Usage
+
+        PKZIP/PKUNZIP 2.04c has the ability to use of EMS, UMB, and HMA
+        memory, which will allow the ability to process more files or be
+        able to run with less conventional memory.  PKZIP/PKUNZIP 2.04
+        will run in as little as 85K of conventional memory if EMS or
+        XMS memory is available.
+
+-Novell Network Aware
+
+        PKZIP 2.04c is Novell Netware "aware".  Updating or creating
+        a .ZIP file on a network drive is much faster with the network
+        support in PKZIP 2.04c.
+
+-Auto CPU type detection.
+        
+        PKZIP/PKUNZIP 2.04c will detect what type of CPU it is being run
+        on and will use instructions specifcally optimized for an 808x
+        CPU, 80386 CPU, or 80486 CPU.
+
+-DPMI support
+        
+        PKZIP/PKUNZIP 2.04c automatically detects if DPMI (DOS Protected
+        Mode Interface) support is available and will execute code in
+        32-bit protected mode for better speed.
+
+-PKCFG program
+
+        PKZIP 2.04c can be configured to best suit your needs through
+        the use of the PKCFG program.  This is only available in the
+        registered version of PKZIP.
+
+-PKSFX Junior and PKUNZIP Junior
+
+        These "Junior" programs use very little memory and are extremely
+        small.  Although they are reduced in ability, their small size
+        makes them very useful.
+
+-Password Encryption
+
+        Sensitive data files can be scrambled with password protection.
+        The security of this feature has been significantly improved in
+        PKZIP/PKUNZIP 2.04c.
+
+-Authenticy Verification
+
+        Users requiring authentication of archive files may request an
+        Authenticy Verification code.  This allows users to create .ZIP
+        files which PKUNZIP can detect tampering of.
+</code></pre></div></div>
+
+<h2 id="pkzip-204e">PKZIP 2.04e</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/4695/sound_sensations.iso/utils/zipfiles/pkz204e.exe
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+README   DOC      536   1-25-93   2:04a
+SHAREWAR DOC      573   1-25-93   2:04a
+WHATSNEW 204     2430   1-25-93   2:04a
+V204E    NEW     8837   1-25-93   2:04a
+LICENSE  DOC     3707   1-25-93   2:04a
+ORDER    DOC     3304   1-25-93   2:04a
+ADDENDUM DOC    18782   1-25-93   2:04a
+MANUAL   DOC   202252   1-25-93   2:04a
+AUTHVERI FRM     2330   1-25-93   2:04a
+PKZIP    EXE    42475   1-25-93   2:04a
+PKUNZIP  EXE    29371   1-25-93   2:04a
+PKZIPFIX EXE     7682   1-25-93   2:04a
+ZIP2EXE  EXE    27326   1-25-93   2:04a
+PKUNZJR  COM     2750   1-25-93   2:04a
+OMBUDSMN ASP      591   1-25-93   2:04a
+       15 File(s)      2048 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (R)   FAST!   Create/Update Utility   Version 2.04e   01-25-93
+Copr. 1989-1993 PKWARE Inc.  All Rights Reserved.  Shareware Version
+PKZIP Reg. U.S. Pat. and Tm. Off.   Patent No. 5,051,745
+
+
+PKZIP /h[1] for basic help   PKZIP /h[2|3|4] for other help screens.
+
+
+Usage:  PKZIP [options] zipfile [@list] [files...]
+
+
+       Simple Usage:   PKZIP zipfile file(s)...
+                         |      |      |
+Program -----------------       |      |
+                                |      |
+New zipfile to create ----------       |
+                                       |
+File(s) you wish to compress ----------
+
+The above usage is only a very basic example of PKZIP's capability.
+
+
+Press 2 for more options (including spanning &amp; formatting), press 3 for
+advanced options, 4 for trouble shooting options, any other key to quit help.
+
+If you use PKZIP on a regular basis you are strongly encouraged to register
+it.  With a full registration of US $47.00 you will receive a comprehensive
+printed manual, the latest version of PKZIP, PKUNZIP &amp; PKSFX software, and
+when available, the next version of the software.  See the documentation for
+commercial and distribution licensing info.  Send check or money order to:
+                PKWARE, Inc.
+                9025 N. Deerwood Drive
+                Brown Deer, WI 53223
+
+A:\&gt;TYPE V204E.NEW
+
+The following changes have been made in version 2.04e of
+PKZIP/PKUNZIP from version 2.04c.
+
+1) DPMI.
+
+     The DPMI support in PKZIP/PKUNZIP has been changed to work
+     around bugs and anomolies with the following DPMI drivers or
+     environments.  PKWARE would like to thank Quarterdeck Office
+     Systems and Qualitas, Inc. for their technical assistance
+     regarding DPMI.
+
+    a) PC-KWIK
+
+      According to PC-KWIK corporation's document, 'PC-KWIK
+      Technical Issues "Summer '92"':
+
+        PC-KWIK is unable to recognize memory requests from programs
+        using VCPI or DPMI protocols ... For programs [that use VCPI
+        or DPMI] it is necessary to reduce the size of the cache and
+        disable lending.
+
+      PC-KWIK has a lending feature that allows memory to loaned
+      from the cache memory to applications.  However, PC-KWIK is
+      not aware of any memory allocated or used by DPMI, and will
+      loan this memory as well, possibly causing corruption of the
+      DPMI driver and usually resulting in a system crash or reboot.
+
+      This problem seems to present in most versions of SUPERPCK,
+      through version 5.01.
+
+      In other words, when using PC-KWIK with any program that uses DPMI,
+      including PKZIP and PKUNZIP, you should either make sure that you
+      have enough memory in your computer so that lending will not occur,
+      reduce the size of your cache, or disable PC-KWIK's lending.
+
+      Therefore, PKZIP/PKUNZIP detect for the presence of PC-KWIK
+      and default DPMI to DISABLE when PC-KWIK is installed.  This
+      can be overidden by specifying -)+ on the PKZIP or PKUNZIP
+      command line, or by placing DPMI=ENABLE in your PKZIP.CFG for
+      PKZIP or setting the environment variable PKUNZIP=-)+ for PKUNZIP.
+
+  b) QDPMI 1.00
+
+      If a program tries to use DPMI and EMS memory with QDPMI 1.00,
+      QDPMI would become unstable or crash.  PKZIP/PKUNZIP now
+      check for the presence of QDPMI 1.00 and if PKZIP/PKUNZIP
+      are using EMS memory, they do not attempt to use DPMI at all.
+
+  c) QDPMI 1.01
+
+      When a program switches to protected mode, QDPMI does not
+      'synchronize' the EMS page frame.  The result is that programs
+      can not correctly read or write any data in the EMS page frame
+      while in proteced mode.  PKZIP/PKUNZIP now check for the presence
+      of QDPMI 1.01 and will use slower real-mode code for any
+      manipulation of data in the EMS page frame rather than faster
+      protected mode code.
+
+  d) OS/2 2.0 DOS BOX
+
+      The OS/2 2.0 DOS box does not allow programs to allocate the
+      'DPMI private data area' in an UMB.  Doing so causes a system
+      violation error.  PKZIP/PKUNZIP now check to see if they are
+      running in the OS/2 2.0 DOS box and will not allocate the DPMI
+      private data area in an UMB.  (This is actually kind of a shame,
+      as the OS/2 DOS box (unlike the Windows DOS box) provides UMB
+      memory to DOS applications.  It should be able to allow programs
+      to store the DPMI data area in these UMB's.)
+
+  e) Windows 3.0 DOS BOX
+
+      The DPMI support in the Windows 3.0 DOS box does not always
+      seem to work correctly.  Therefore, PKZIP/PKUNZIP detect if
+      they are running in the Windows 3.0 DOS box and will not support
+      DPMI in this environment.
+
+  f) Windows 3.1 DOS BOX
+
+      The way PKZIP/PKUNZIP allocates the DPMI save/restore state
+      buffer has been changed to be more compatible with Windows 3.1.
+
+2)  The Norton AntiVirus program FALSELY reported that PKZIPFIX and
+    PKUNZIP contained the Maltese Ameoba virus.  The software DID
+    NOT contain this virus.  All files in this release have been
+    modified so as to not trigger any FALSE virus reports by the
+    Norton AntiVirus program.
+
+3)  QEMM versions 5.1x would corrupt the high word of the 32-bit
+    registers on an 80386 or 80486 CPU.  PKZIP/PKUNZIP check for
+    this condition, and will not use 32-bit instructions if QEMM
+    version 5.1x is present.
+
+4)  Apparently some peer-to-peer networks such as Novell Netware Lite
+    and others do not support canonical or fully specified filename.
+    PKZIP now uses noncanonical filenames when specifying temporary
+    filenames on a network drive to avoid this problem.
+
+5)  PKZIP would erroneously report "E28 Destination is same as temp
+    directory" when creating a new .zip file on drive A:.  This has
+    been fixed.
+
+6)  The keywords on/enable and off/disable are now synonymous when
+    used in the PKZIP configuration file.
+
+7)  Using EMS= options in the PKZIP configuration file would enable
+    or disable both EMS and XMS usage.  The XMS= option had no effect.
+    This has been corrected.
+
+8)  The Quick format option in PKZIP would zero out the existing FAT
+    on the disk (by design).  However, if the disk had any bad
+    sectors on it (in which case, it isn't a good idea to use that
+    disk as a backup disk anyway...) they would now be marked as
+    good.  By popular demand, PKZIP now reads the existing FAT and
+    leaves any bad sectors marked as bad.  This however, makes the
+    'Quick' format function about twice as slow as it was (although
+    still much faster than an unconditional format).  In most cases
+    however, unless there are several subdirectories on the diskette,
+    the -&amp;w (wipe) option is faster than the -&amp;f (format) option when
+    backing up to pre-formatted diskettes.
+
+9)  Under some cirumstances, PKZIP could possibly store the last
+    file in a multi-disk backup set incorrectly.  This has been
+    corrected.
+
+10) The volume label option in PKZIP would not work.  This has been
+    fixed.
+
+11) PKZIP/PKUNZIP now searches for a PKNOFASTCHAR variable in the
+    DOS environment.  If this variable is present, PKZIP/PKUNZIP
+    will use the slower DOS 1.x/2.x character output functions
+    rather than the 'DOS Fast Character Output' function.  This is
+    provided for compatability with some TSR's, BBS Doors and mail
+    readers etc., that redirect or capture the output of programs and
+    do not support the DOS Fast Character Output function.
+
+12) PKZIP will now accept either MAXIMUM or MAXIMAL in the
+    configuration file.
+
+13) Some people have requested that the -&amp; backup option support the
+    DOS verify function.  Specifying -&amp;v on the PKZIP command line
+    or BACKUP=VERIFY in the PKZIP.CFG file will turn on the DOS
+    verify flag when writing to the backup disk(s).  This makes
+    PKZIP run slower, but ensures better integrity of each diskette.
+
+14) Using the -m option with -rp in PKZIP will delete any empty
+    subdirectories that have been saved in the .ZIP file after all
+    the files have been moved into the .ZIP file.  Some people have
+    requested a way to have PKZIP leave these empty subdirectories
+    behind.  This can be accomplished by using -m- on the PKZIP
+    command line.
+
+15) It appears that some versions of NoGate's PAK program would
+    place incorrect information in the .ZIP file directories that it
+    created.  Specifically, the disk number information for where
+    files, the central directory, and the central end directory
+    started is inconsistent, causing PKUNZIP to think it was
+    extracting a multi-disk .ZIP file when it really wasn't.
+    PKUNZIP now checks for this condition, and ignores this
+    erroneous information.
+
+16) PKZIP now ignores any ZIPDATE= or -o or -k options when creating
+    multi-disk .ZIP files, rather than displaying the help screens.
+
+17) On some 80386 machines running PKZIP could leave allocated UMB's
+    behind.  This has been corrected.
+
+18) In some circumstances, running PKZIP with EMS memory and very low
+    free conventional memory could cause corruption of the .ZIP file.
+    This has been corrected.
+
+19) When PKZIP prompts for an encryption password, it will now ask the
+    user to enter the password twice for verification.
+
+20) PKZIP/PKUNZIP would not work under DOS 2.x.  This is because
+    DOS 2.x crashes on many int 2Fh installation check calls for
+    EMS/XMS drivers etc.  These calls work properly under DOS 3.0
+    or above.  Therefore, PKZIP/PKUNZIP detect for the presence
+    of DOS 2.x, and will not support any of the advanced features
+    including 32-bit instructions, EMS memory, XMS memory, DPMI
+    support and Netware usage.
+
+21) PKSFX could in some instances erroneously report failed AV's or
+    garble any AVEXTRA text present.  This has been fixed.
+
+22) Using PKZIP with the -o option or ZIPDATE=LATEST in the configuration
+    file would set the date of the .ZIP file to the latest dated file
+    or directory.  Directory dates are now ignored in this version.
+</code></pre></div></div>
+
+<h2 id="pkzip-204g">PKZIP 2.04g</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pc.js v3.00
+Copyright © 2012-2025 Jeff Parsons &lt;Jeff@pcjs.org&gt;
+Options: --disk=https://harddisks.pcjs.org/pcx86/10mb/MSDOS330-C400.json --diskette=https://discmaster.textfiles.com/file/6140/BSTETRS2.bin/utils/pkware/pkz204g/pkz204g.exe
+[Press CTRL-D to enter command mode]
+
+A:\&gt;DIR
+
+ Volume in drive A has no label
+ Directory of  A:\
+
+README   DOC      741   2-01-93   2:04a
+SHAREWAR DOC      573   2-01-93   2:04a
+WHATSNEW 204     2430   2-01-93   2:04a
+V204G    NEW    10704   2-01-93   2:04a
+HINTS    TXT    14109   2-01-93   2:04a
+LICENSE  DOC     3707   2-01-93   2:04a
+ORDER    DOC     3304   2-01-93   2:04a
+ADDENDUM DOC    19361   2-01-93   2:04a
+MANUAL   DOC   202252   2-01-93   2:04a
+AUTHVERI FRM     2330   2-01-93   2:04a
+PKZIP    EXE    42166   2-01-93   2:04a
+PKUNZIP  EXE    29378   2-01-93   2:04a
+PKZIPFIX EXE     7687   2-01-93   2:04a
+ZIP2EXE  EXE    27319   2-01-93   2:04a
+PKUNZJR  COM     2750   2-01-93   2:04a
+OMBUDSMN ASP      591   2-01-93   2:04a
+       16 File(s)    839680 bytes free
+
+A:\&gt;PKZIP
+
+PKZIP (R)   FAST!   Create/Update Utility   Version 2.04g   02-01-93
+Copr. 1989-1993 PKWARE Inc.  All Rights Reserved.  Shareware Version
+PKZIP Reg. U.S. Pat. and Tm. Off.   Patent No. 5,051,745
+
+
+PKZIP /h[1] for basic help   PKZIP /h[2|3|4] for other help screens.
+
+
+Usage:  PKZIP [options] zipfile [@list] [files...]
+
+
+       Simple Usage:   PKZIP zipfile file(s)...
+                         |      |      |
+Program -----------------       |      |
+                                |      |
+New zipfile to create ----------       |
+                                       |
+File(s) you wish to compress ----------
+
+The above usage is only a very basic example of PKZIP's capability.
+
+
+Press 2 for more options (including spanning &amp; formatting), press 3 for
+advanced options, 4 for trouble shooting options, any other key to quit help.
+
+If you use PKZIP on a regular basis you are strongly encouraged to register
+it.  With a full registration of US $47.00 you will receive a comprehensive
+printed manual, the latest version of PKZIP, PKUNZIP &amp; PKSFX software, and
+when available, the next version of the software.  See the documentation for
+commercial and distribution licensing info.  Send check or money order to:
+                PKWARE, Inc.
+                9025 N. Deerwood Drive
+                Brown Deer, WI 53223
+
+A:\&gt;TYPE V204G.NEW
+
+Please note that the only program that has functionally changed
+from version 2.04e to 2.04g is PKZIP.EXE, PKUNZIP.EXE and PKCFG.EXE.
+The other programs in this release have been changed to read version
+2.04g for consistency.  However, no functional changes have been made
+to them.
+
+
+The following changes have been made in version 2.04g of PKZIP.EXE
+from version 2.04e.
+
+1)  PKZIP's Quick format in an over-zealous effort to leave bad
+    sectors marked as bad, could in some instances leave unallocated
+    sectors (orphaned clusters) on the diskette.  This has been fixed.
+
+
+The following changes have been made in version 2.04g of PKZIP.EXE
+from version 2.04c/2.04e.
+
+1)  Using the BACKUP= option in the PKZIP.CFG file would automatically
+    turn on the SPAN option and cause PKZIP to generate a E27 or E28
+    error, or display the help screen when creating a .ZIP file
+    on non-removable media.  This has been corrected.
+
+2)  When Norton Utilities creates a volume label on a diskette, it 
+    stores trailing nulls rather than trailing spaces after the volume 
+    name, as DOS does (and expects).  A volume label created by NU can 
+    not be changed by even the LABEL command in DOS.  PKZIP uses the 
+    volume label when creating multi-disk .ZIP files, and could not 
+    change any volume label created by NU.  PKZIP has been modified to 
+    be able to deal with and change volume labels created by NU.  
+    PKUNZIP -$ was also unable to restore volume labels over NU created 
+    labels.  PKUNZIP has been modified to deal with NU volume labels as 
+    well.
+
+
+The following changes have been made in version 2.04e of
+PKZIP/PKUNZIP from version 2.04c.
+
+1) DPMI.
+
+     The DPMI support in PKZIP/PKUNZIP has been changed to work
+     around bugs and anomolies with the following DPMI drivers or
+     environments.  PKWARE would like to thank Quarterdeck Office
+     Systems and Qualitas, Inc. for their technical assistance
+     regarding DPMI.
+
+    a) PC-KWIK
+
+      According to PC-KWIK corporation's document, 'PC-KWIK
+      Technical Issues "Summer '92"':
+
+        PC-KWIK is unable to recognize memory requests from programs
+        using VCPI or DPMI protocols ... For programs [that use VCPI
+        or DPMI] it is necessary to reduce the size of the cache and
+        disable lending.
+
+      PC-KWIK has a lending feature that allows memory to be loaned
+      from the cache memory to applications.  However, PC-KWIK is
+      not aware of any memory allocated or used by DPMI, and will
+      loan this memory as well, possibly causing corruption of the
+      DPMI driver and usually resulting in a system crash or reboot.
+
+      PKWARE has tested several versions of SUPERPCK, through version
+      5.01 and running PKZIP (as well as several commercial programs
+      that use DPMI) consistently causes a system reboot or some kind
+      of protected mode error such as a page fault.  PC-KWIK Corporation
+      is aware of this problem, and is trying to correct it.
+
+      In other words, when using PC-KWIK with any program that uses DPMI,
+      including PKZIP and PKUNZIP, you should either make sure that you
+      have enough memory in your computer so that lending will not occur,
+      reduce the size of your cache, or disable PC-KWIK's lending.
+
+      Therefore, PKZIP/PKUNZIP detect for the presence of PC-KWIK
+      and default DPMI to DISABLE when PC-KWIK is installed.  This
+      can be overidden by specifying -)+ on the PKZIP or PKUNZIP
+      command line, or by placing DPMI=ENABLE in your PKZIP.CFG for
+      PKZIP or setting the environment variable PKUNZIP=-)+ for PKUNZIP.
+
+  b) QDPMI 1.00
+
+      If a program tries to use DPMI and EMS memory with QDPMI 1.00,
+      QDPMI would become unstable or crash.  PKZIP/PKUNZIP now
+      check for the presence of QDPMI 1.00 and if PKZIP/PKUNZIP
+      are using EMS memory, they do not attempt to use DPMI at all.
+
+  c) QDPMI 1.01
+
+      When a program switches to protected mode, QDPMI does not
+      'synchronize' the EMS page frame.  The result is that programs
+      can not correctly read or write any data in the EMS page frame
+      while in proteced mode.  PKZIP/PKUNZIP now check for the presence
+      of QDPMI 1.01 and will use slower real-mode code for any
+      manipulation of data in the EMS page frame rather than faster
+      protected mode code.
+
+  d) OS/2 2.0 DOS BOX
+
+      The OS/2 2.0 DOS box does not allow programs to allocate the
+      'DPMI private data area' in an UMB.  Doing so causes a system
+      violation error.  PKZIP/PKUNZIP now check to see if they are
+      running in the OS/2 2.0 DOS box and will not allocate the DPMI
+      private data area in an UMB.  (This is actually kind of a shame,
+      as the OS/2 DOS box (unlike the Windows DOS box) provides UMB
+      memory to DOS applications.  It should be able to allow programs
+      to store the DPMI data area in these UMB's.)
+
+  e) Windows 3.0 DOS BOX
+
+      The DPMI support in the Windows 3.0 DOS box does not always
+      seem to work correctly.  Therefore, PKZIP/PKUNZIP detect if
+      they are running in the Windows 3.0 DOS box and will not support
+      DPMI in this environment.
+
+  f) Windows 3.1 DOS BOX
+
+      The way PKZIP/PKUNZIP allocates the DPMI save/restore state
+      buffer has been changed to be more compatible with Windows 3.1.
+
+2)  The Norton AntiVirus program FALSELY reported that PKZIPFIX and
+    PKUNZIP contained the Maltese Ameoba virus.  The software DID
+    NOT contain this virus.  All files in this release have been
+    modified so as to not trigger any FALSE virus reports by the
+    Norton AntiVirus program.
+
+3)  QEMM versions 5.1x would corrupt the high word of the 32-bit
+    registers on an 80386 or 80486 CPU.  PKZIP/PKUNZIP check for
+    this condition, and will not use 32-bit instructions if QEMM
+    version 5.1x is present.
+
+4)  Apparently some peer-to-peer networks such as Novell Netware Lite
+    and others do not support canonical or fully specified filename.
+    PKZIP now uses noncanonical filenames when specifying temporary
+    filenames on a network drive to avoid this problem.
+
+5)  PKZIP would erroneously report "E28 Destination is same as temp
+    directory" when creating a new .zip file on drive A:.  This has
+    been fixed.
+
+6)  The keywords on/enable and off/disable are now synonymous when
+    used in the PKZIP configuration file.
+
+7)  Using EMS= options in the PKZIP configuration file would enable
+    or disable both EMS and XMS usage.  The XMS= option had no effect.
+    This has been corrected.
+
+8)  The Quick format option in PKZIP would zero out the existing FAT
+    on the disk (by design).  However, if the disk had any bad
+    sectors on it (in which case, it isn't a good idea to use that
+    disk as a backup disk anyway...) they would now be marked as
+    good.  By popular demand, PKZIP now reads the existing FAT and
+    leaves any bad sectors marked as bad.  This however, makes the
+    'Quick' format function about twice as slow as it was (although
+    still much faster than an unconditional format).  In most cases
+    however, unless there are several subdirectories on the diskette,
+    the -&amp;w (wipe) option is faster than the -&amp;f (format) option when
+    backing up to pre-formatted diskettes.
+
+9)  Under some cirumstances, PKZIP could possibly store the last
+    file in a multi-disk backup set incorrectly.  This has been
+    corrected.
+
+10) The volume label option in PKZIP would not work.  This has been
+    fixed.
+
+11) PKZIP/PKUNZIP now searches for a PKNOFASTCHAR variable in the
+    DOS environment.  If this variable is present, PKZIP/PKUNZIP
+    will use the slower DOS 1.x/2.x character output functions
+    rather than the 'DOS Fast Character Output' function.  This is
+    provided for compatability with some TSR's, BBS Doors and mail
+    readers etc., that redirect or capture the output of programs and
+    do not support the DOS Fast Character Output function.
+
+12) PKZIP will now accept either MAXIMUM or MAXIMAL in the
+    configuration file.
+
+13) Some people have requested that the -&amp; backup option support the
+    DOS verify function.  Specifying -&amp;v on the PKZIP command line
+    or BACKUP=VERIFY in the PKZIP.CFG file will turn on the DOS
+    verify flag when writing to the backup disk(s).  This makes
+    PKZIP run slower, but ensures better integrity of each diskette.
+
+14) Using the -m option with -rp in PKZIP will delete any empty
+    subdirectories that have been saved in the .ZIP file after all
+    the files have been moved into the .ZIP file.  Some people have
+    requested a way to have PKZIP leave these empty subdirectories
+    behind.  This can be accomplished by using -m- on the PKZIP
+    command line.
+
+15) It appears that some versions of NoGate's PAK program would
+    place incorrect information in the .ZIP file directories that it
+    created.  Specifically, the disk number information for where
+    files, the central directory, and the central end directory
+    started is inconsistent, causing PKUNZIP to think it was
+    extracting a multi-disk .ZIP file when it really wasn't.
+    PKUNZIP now checks for this condition, and ignores this
+    erroneous information.
+
+16) PKZIP now ignores any ZIPDATE= or -o or -k options when creating
+    multi-disk .ZIP files, rather than displaying the help screens.
+
+17) On some 80386 machines running PKZIP could leave allocated UMB's
+    behind.  This has been corrected.
+
+18) In some circumstances, running PKZIP with EMS memory and very low
+    free conventional memory could cause corruption of the .ZIP file.
+    This has been corrected.
+
+19) When PKZIP prompts for an encryption password, it will now ask the
+    user to enter the password twice for verification.
+
+20) PKZIP/PKUNZIP would not work under DOS 2.x.  This is because
+    DOS 2.x crashes on many int 2Fh installation check calls for
+    EMS/XMS drivers etc.  These calls work properly under DOS 3.0
+    or above.  Therefore, PKZIP/PKUNZIP detect for the presence
+    of DOS 2.x, and will not support any of the advanced features
+    including 32-bit instructions, EMS memory, XMS memory, DPMI
+    support and Netware usage.
+
+21) PKSFX could in some instances erroneously report failed AV's or
+    garble any AVEXTRA text present.  This has been fixed.
+
+22) Using PKZIP with the -o option or ZIPDATE=LATEST in the configuration
+    file would set the date of the .ZIP file to the latest dated file
+    or directory.  Directory dates are now ignored in this version.
+</code></pre></div></div> 
+
+<br> 
+
+<https://www.pcjs.org/blog/2025/04/05/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Being alone has its benefits − a psychologist flips the script on the ‘loneliness epidemic.’ 
+
+<br> 
+
+<https://theconversation.com/being-alone-has-its-benefits-a-psychologist-flips-the-script-on-the-loneliness-epidemic-250742>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+Law firms, ex-judges back Perkins Coie in Trump case. 
+
+<br> 
+
+<https://thehill.com/regulation/court-battles/5233200-law-firms-judges-trump-executive-order-perkins-coie/amp/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+File in the “no one tells me anything “ department, I just learned about 25-year blogger Matt Webb. Subscribed and added to my blogroll. Blogging is the way of the future. 
+
+<br> 
+
+<https://interconnected.org/home/2025/04/04/interview>
+
+---
+
+## Quoting Matt Webb
+
+date: 2025-04-05, updated: 2025-04-05, from: Simon Willison’s Weblog
+
+<blockquote cite="https://manuelmoreale.com/pb-matt-webb"><p>Blogging is small-p political again, today. It’s come back round. It’s a statement to put your words in a place where they are not subject to someone else’s algorithm telling you what success looks like; when you blog, your words are not a vote for the values of someone else’s platform.</p></blockquote>
+<p class="cite">&mdash; <a href="https://manuelmoreale.com/pb-matt-webb">Matt Webb</a>, Interview for People and Blogs</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/matt-webb">matt-webb</a>, <a href="https://simonwillison.net/tags/blogging">blogging</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/5/matt-webb/#atom-everything>
+
+---
+
+## Panama City, Panama
+
+date: 2025-04-05, from: mrusme blog
+
+"Panama City, also known as Panama (or Panamá in Spanish), is the capital and
+largest city of Panama. It has a total population of 1,086,990, with over
+2,100,000 in its metropolitan area. The city is located at the Pacific
+entrance of the Panama Canal, in the province of Panama. The city is the
+political and administrative center of the country, as well as a hub for
+banking and commerce." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/panama/panama-city/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-05, from: Dave Winer's linkblog)
+
+New York Warns Trump It Will Not Comply With Public School D.E.I. Order. 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/04/us/politics/new-york-trump-dei-order.html?smid=url-share>
+
+---
+
+## Get Up! Get Out! Get in the Streets! Mass Protests Saturday Near You! 
+
+date: 2025-04-05, from: Michael Moore's blog
+
+And... More of your amazing portraits of Dear Leader Comrade Trump! 
+
+<br> 
+
+<https://www.michaelmoore.com/p/get-up-get-out-get-in-the-streets>
 
 ---
 
@@ -1381,6 +4074,16 @@ date: 2025-04-02, from: Paul Krugman
 
 ---
 
+**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
+
+In Alien Enemies Case, Many With Open Asylum Claims Allegedly Removed. 
+
+<br> 
+
+<https://www.lawfaremedia.org/article/in-alien-enemies-case--many-with-open-asylum-claims-allegedly-removed>
+
+---
+
 **@Robert's feed at BlueSky** (date: 2025-04-02, from: Robert's feed at BlueSky)
 
 Yet another wrong committed by the spoiled orange boy.  Unfortunately not surprising. 👇
@@ -1551,7 +4254,7 @@ date: 2025-04-02, from: Liliputing
 
 ## Forks or No?
 
-date: 2025-04-02, updated: 2025-04-02, from: One Foot Tsunami
+date: 2025-04-02, updated: 2025-04-06, from: One Foot Tsunami
 
  
 
@@ -1587,16 +4290,6 @@ date: 2025-04-02, from: 404 Media Group
 
 ---
 
-**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
-
-Why Every Entrepreneur Needs a Little Delusion. 
-
-<br> 
-
-<https://guykawasaki.substack.com/p/why-every-entrepreneur-needs-a-little>
-
----
-
 ## MediaTek Kompanio Ultra is made for high-performance Chromebooks… and maybe more?
 
 date: 2025-04-02, from: Liliputing
@@ -1622,6 +4315,18 @@ date: 2025-04-02, from: Liliputing
 <br> 
 
 <https://liliputing.com/nintendo-switch-2-launches-june-5-for-450-has-a-7-9-inch-fhd-120-hz-hdr-display-and-new-accessories/>
+
+---
+
+## Why Every Entrepreneur Needs a Little Delusion
+
+date: 2025-04-02, from: Guy Kawasaki blog
+
+Entrepreneurship is not for the faint of heart. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/why-every-entrepreneur-needs-a-little>
 
 ---
 
@@ -1655,16 +4360,6 @@ Django 5.2 is <a href="https://www.djangoproject.com/weblog/2025/apr/02/django-5
 <br> 
 
 <https://simonwillison.net/2025/Apr/2/composite-primary-keys-in-django/#atom-everything>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-04-02, from: Dave Winer's linkblog)
-
-In Alien Enemies Case, Many With Open Asylum Claims Allegedly Removed. 
-
-<br> 
-
-<https://www.lawfaremedia.org/article/in-alien-enemies-case--many-with-open-asylum-claims-allegedly-removed>
 
 ---
 
@@ -2159,6 +4854,18 @@ One of the more notable events in U.S.-Soviet relations during the Eisenhower Ad
 <br> 
 
 <https://text-message.blogs.archives.gov/2025/04/01/sticky-fingers-in-moscow-1959/>
+
+---
+
+## Sticky Fingers in Moscow, 1959
+
+date: 2025-04-01, from: National Archives, Text Message blog
+
+One of the more notable events in U.S.-Soviet relations during the Eisenhower Administration War was the American National Exhibit in Moscow from July 25 to September 4, in 1959.&#160; This was the scene of the so-called Kitchen Debate between Vice President Richard Nixon and Soviet Chairman of the Soviet Council of Ministers Nikita Khrushchev.&#160; The &#8230; <a href="http://text-message.blogs.archives.gov/2025/04/01/sticky-fingers-in-moscow-1959/" class="more-link">Continue reading <span class="screen-reader-text">Sticky Fingers in Moscow, 1959</span></a> 
+
+<br> 
+
+<http://text-message.blogs.archives.gov/2025/04/01/sticky-fingers-in-moscow-1959/>
 
 ---
 
@@ -3739,188 +6446,4 @@ A first take of LLM use for coding projects.
 <br> 
 
 <https://rsdoiel.github.io/blog/2025/03/30/LLM_first_impressions_a_few_weeks_in.html>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-How to Remove Your Tesla Logo. 
-
-<br> 
-
-<https://hive-mind.com/how-to-remove-your-tesla-logo/>
-
----
-
-**@Tomosino's Mastodon feed** (date: 2025-03-29, from: Tomosino's Mastodon feed)
-
-<p>Anyone got an extra void lying about for me to scream into?</p> 
-
-<br> 
-
-<https://tilde.zone/@tomasino/114247833725803998>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-Republican Abortion Laws Are &#39;Torturing Women.&#39; Can the GOP Fix Its Own Crisis? 
-
-<br> 
-
-<https://www.texasobserver.org/republican-abortion-laws-texas-legislature-exceptions/>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-03-29, from: Robert's feed at BlueSky)
-
-If you're looking for something fun in these challenging times. Nice coverage of RISC OS North Show.
-
-https://www.iconbar.com/articles/RISC_OS_North_Show_Report_2025/index2187.html 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lljvwuhros22>
-
----
-
-## Severed Edits
-
-date: 2025-03-29, updated: 2025-03-29, from: Tedium site
-
-Whether it was trying to or not, Apple exposed a huge flaw with its pitch to professional video editors with a new Severance promotional video. 
-
-<br> 
-
-<https://feed.tedium.co/link/15204/16994717/severance-apple-remote-editing-weirdness>
-
----
-
-## Meet the Fish That Doesn’t Want to Be Met
-
-date: 2025-03-29, from: 404 Media Group
-
-“Go away.” – Mexican tetra. 
-
-<br> 
-
-<https://www.404media.co/meet-the-fish-that-doesnt-want-to-be-met/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-Timothy Snyder: The Imperialism Has no Clothes. 
-
-<br> 
-
-<https://snyder.substack.com/p/vance-in-greenland?publication_id=310897&post_id=160107346&isFreemail=true&r=w33x&triedRedirect=true>
-
----
-
-## Rethinking Security from the Ground Up
-
-date: 2025-03-29, from: The Markup blog
-
-Professor Rikke Bjerg Jensen explores how social context shapes security 
-
-<br> 
-
-<https://themarkup.org/hello-world/2025/03/29/rethinking-security-from-the-ground-up>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-No one voted for Musk. 
-
-<br> 
-
-<https://bsky.app/profile/uraniumgirl.bsky.social/post/3llj5frwcf22p>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-The Signal chat exposes the administration’s incompetence – and its pecking order. 
-
-<br> 
-
-<https://www.theguardian.com/commentisfree/2025/mar/29/signal-chat-trump-incompetence-stephen-miller>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-Emboldened Trump Squeezes Traditional Media. 
-
-<br> 
-
-<https://www.wsj.com/business/media/emboldened-trump-squeezes-traditional-media-dfa5c686?st=P2Z7Zn>
-
----
-
-## From Bidenomics to Trumponomics: A Talk with Jared Bernstein
-
-date: 2025-03-29, from: Paul Krugman
-
-Or, we used to have reasonable people in government 
-
-<br> 
-
-<https://paulkrugman.substack.com/p/from-bidenomics-to-trumponomics-a>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-Harvard Faculty Did the Right Thing. The University Should. 
-
-<br> 
-
-<https://www.thecrimson.com/article/2025/3/28/editorial-harvard-aaup-lawsuit/>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-“This is the official rapid response page of the Democratic Party, holding Trump and MAGA extremists accountable.” 
-
-<br> 
-
-<https://bsky.app/profile/factpostnews.bsky.social/post/3lfn5pghprs26>
-
----
-
-**@Robert's feed at BlueSky** (date: 2025-03-29, from: Robert's feed at BlueSky)
-
-RSS receivers and transmitters run outside the U.S. accessed through VPN the rebroadcast with clandestine WiFi access points run on single board computers. Make them play whack a mole to shut them all down. The way TCP/IP was originally planned way back when in that RAND paper.
-
-[contains quote post or other embedded content] 
-
-<br> 
-
-<https://bsky.app/profile/rsdoiel.bsky.social/post/3lli3wtpm2c2x>
-
----
-
-**@Dave Winer's linkblog** (date: 2025-03-29, from: Dave Winer's linkblog)
-
-Noem&#39;s vow to eliminate FEMA raises disaster response concerns. 
-
-<br> 
-
-<https://thehill.com/policy/energy-environment/5220996-noem-trump-fema-elimination-concerns/>
-
----
-
-## 2025-03-29: GCC 14.2.0 on PowerPC Mac OS X 10.4 Tiger
-
-date: 2025-03-29, from: Brian Robert Callahan blog
-
-Step-by-step process to get a modern GCC on an old Mac OS X 
-
-<br> 
-
-<https://briancallahan.net/blog/20250329.html>
 

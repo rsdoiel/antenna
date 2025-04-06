@@ -1,11 +1,35 @@
 ---
 title: science and technology
-updated: 2025-04-05 14:07:35
+updated: 2025-04-06 06:07:16
 ---
 
 # science and technology
 
-(date: 2025-04-05 14:07:35)
+(date: 2025-04-06 06:07:16)
+
+---
+
+## Introducing Windows on arm. And by arm, we mean wrist
+
+date: 2025-04-05, updated: 2025-04-05, from: The Register (UK I.T. News)
+
+<h4>Pixel Watch 3 boots Microsoft&#39;s OS in latest feat of delightful pointlessness</h4> <p>Windows on Arm has been around since the Surface RT – but this is another kind of arm altogether.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/05/windows_smartwatch_hack/>
+
+---
+
+## NASA doubles odds of Moon hitting near-Earth asteroid
+
+date: 2025-04-05, updated: 2025-04-05, from: The Register (UK I.T. News)
+
+<h4>Heads up to those living on lunar base in 2032: DUCK!!</h4> <p>The likelihood of asteroid 2024 YR4 hitting the Moon, during Christmas 2032, has more than doubled.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/05/nasa_moon_asteroid/>
 
 ---
 
@@ -1818,40 +1842,4 @@ date: 2025-03-30, updated: 2025-03-30, from: The Register (UK I.T. News)
 <br> 
 
 <https://go.theregister.com/feed/www.theregister.com/2025/03/30/zorin_and_dash_to_panel/>
-
----
-
-## Nvidia GPU roadmap confirms it: Moore’s Law is dead and buried
-
-date: 2025-03-29, updated: 2025-03-29, from: The Register (UK I.T. News)
-
-<h4>More silicon, more power, more pain for datacenter operators</h4> <p><strong>Comment</strong>  As Jensen Huang is fond of saying, Moore&#39;s Law is dead – and <a target="_blank" href="https://www.theregister.com/special_features/nvidia_gtc/">at Nvidia GTC this month</a>, the GPU-slinger&#39;s chief exec let slip just how deep in the ground the computational scaling law really is.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/29/nvidia_moores_law/>
-
----
-
-## Malware in Lisp? Now you're just being cruel
-
-date: 2025-03-29, updated: 2025-03-29, from: The Register (UK I.T. News)
-
-<h4>Miscreants warming to Delphi, Haskell, and the like to evade detection</h4> <p>Malware authors looking to evade analysis are turning to less popular programming languages like Delphi or Haskell.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/29/malware_obscure_languages/>
-
----
-
-## Brits to build ExoMars landing gear after Russia sent packing
-
-date: 2025-03-29, updated: 2025-03-30, from: The Register (UK I.T. News)
-
-<h4>Airbus UK wins £150M contract to revive long-delayed rover project</h4> <p>Airbus UK, a wholly-owned subsidiary of the European aerospace giant, has won the £150 million contract to complete a landing system for the long-delayed ExoMars rover.…</p> 
-
-<br> 
-
-<https://go.theregister.com/feed/www.theregister.com/2025/03/29/mars_lander_airbus_stevenage/>
 

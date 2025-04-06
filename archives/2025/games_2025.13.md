@@ -1,11 +1,83 @@
 ---
 title: games
-updated: 2025-04-05 14:07:37
+updated: 2025-04-06 06:07:18
 ---
 
 # games
 
-(date: 2025-04-05 14:07:37)
+(date: 2025-04-06 06:07:18)
+
+---
+
+## Untitled Goose Game is a good excuse to talk about Australia
+
+date: 2025-04-05, updated: 2025-04-04, from: Polygon Website
+
+At a glance, House House’s 2019 honking sensation Untitled Goose Game may not seem like the most obvious choice to write a book about. The game — essentially a stealth game where your job is to cause trouble — was a viral hit, but isn’t filled with extensive lore or complex mechanics that beg to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/546855/untitled-goose-game-book-interview>
+
+---
+
+## By playing every heel in a wrestling tournament, Brennan Lee Mulligan has reached peak Dungeon Master
+
+date: 2025-04-05, updated: 2025-04-05, from: Polygon Website
+
+“People don&#8217;t understand how close D&#38;D and wrestling are,” said Brennan Lee Mulligan. And he’s speaking from an informed perspective, ushering Dimension 20: Titan Takedown into the world this week.  In the new four-episode season of the long-running anthology actual play show, Mulligan hosts four WWE superstars — Xavier Woods, Kofi Kingston, Bayley, and Chelsea [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/q-and-a/552001/dimension-20-brennan-lee-mulligan-titan-takedown>
+
+---
+
+## How a 25-year-old Dutch game developer reclaimed her childhood
+
+date: 2025-04-05, updated: 2025-04-04, from: Polygon Website
+
+Of the hundreds of indie games released on Steam each week, only a fortunate few become breakout hits. Last week’s biggest winner was the viral drug-dealing simulator Schedule I. But it wasn’t the only game that managed to crack 1,000 “overwhelmingly positive” reviews in its first week. The other surprise was Spilled!, a bite-sized game [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/features/553839/push-to-talk-newsletter-spilled-game-dutch-game-dev>
+
+---
+
+## Netflix’s latest horror-comedy was inspired by Silent Hill 2 — and Katamari Damacy??
+
+date: 2025-04-05, updated: 2025-04-05, from: Polygon Website
+
+Netflix’s gleeful horror-comedy Dead Talents Society wears a lot of its influences out in the open. Writer-director John Hsu talked with Polygon earlier this month about how YouTube streamers, ’90s Taiwanese pop music, Satoshi Kon’s Perfect Blue and Tokyo Godfathers, and real Asian urban legends like “the little girl in red” helped inspire his manic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/548962/dead-talents-society-video-game-connections-katamari>
+
+---
+
+## Assassin&#8217;s Creed Syndicate did 2 protagonists first — and best
+
+date: 2025-04-05, updated: 2025-04-04, from: Polygon Website
+
+All the best Assassin’s Creed games are about family.&#160; The Ezio trilogy, long considered the peak of the series, is built on the tragic loss of Ezio’s family, and his fundamental loneliness. The game’s most iconic song — the one whose motif is colloquially known as “the Assassin’s Creed theme” — is titled “Ezio’s Family.” [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/assassins-creed/550748/assassins-creed-syndicate-dual-protagonists>
+
+---
+
+## The best movies new to streaming this April
+
+date: 2025-04-05, updated: 2025-04-05, from: Polygon Website
+
+March is finally behind us, and with its passing comes the arrival of spring and all its splendors! There’s a ton of exciting new releases to catch in theaters this month, from the returns of major directors, like Ryan Coogler’s Sinners and David Cronenberg’s The Shrouds, to escapist genre fare like The Accountant 2 and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/550317/best-new-movies-netflix-amazon-prime-max-hulu-april-2025>
 
 ---
 
@@ -714,64 +786,4 @@ I haven’t watched Novocaine yet, but I’m looking forward to it. The action c
 <br> 
 
 <https://www.polygon.com/what-to-watch/548733/man-who-feels-no-pain-netflix-movie-like-novocaine>
-
----
-
-## The live-action Disney Princess dresses, ranked
-
-date: 2025-03-29, updated: 2025-03-29, from: Polygon Website
-
-As Disney keeps rolling out live-action versions of its classic animated movies, costume and production designers keep facing the challenge of making attractive animated images look equally good in the real world.&#160; Consider the Disney Princess characters: They all have iconic dresses that look gorgeous in their original animated outings (except Aladdin’s Jasmine, who rocks [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/disney/548340/disney-princess-live-action-dresses-snow-white-ranked>
-
----
-
-## The Journey and Sky art books each hold a secret
-
-date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
-
-Most video game art books follow a certain template: Load up on concept art, show how the game evolved during production, add some commentary to connect the dots. Some lean more heavily on a studio’s history and others focus on technique, but it’s a proven formula that, in the best cases, has produced books that [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/q-and-a/546844/journey-sky-thatgamecompany-art-books>
-
----
-
-## Giratina ex just fixed going first in Pokémon TCG Pocket
-
-date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
-
-Going first in Pokémon TCG Pocket sucks. You can’t equip any energy (unless you happen to have Misty). You can’t evolve. You kind of just put a Pokémon in the active spot and hope that your opponent doesn’t wallop you too hard on the second turn. It’s pretty rough — that is, until Giratina ex showed up [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/pokemon-tcg-pocket-guides/548611/giratina-ex-deck>
-
----
-
-## John Carpenter’s Prince of Darkness is an underseen and essential masterpiece
-
-date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
-
-I don’t think we give John Carpenter enough credit. That might sound hyperbolic, given that we’re talking about the creator of one the most enduring cinematic horror franchises of all time, but it’s true. He’s more than just the mastermind behind Halloween; he’s a renaissance man, at once the director of such touchstones as The [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/what-to-watch/548730/prince-of-darkness-streaming-what-to-watch-prime-video>
-
----
-
-## The best sci-fi and fantasy books to read this April
-
-date: 2025-03-29, updated: 2025-03-28, from: Polygon Website
-
-Spring is finally here, and with it, some warmer weather. While many of you will take this as an opportunity to get outside more and see your loved ones, I see this as the prime season for curling up in a sunbeam or sprawling on a picnic blanket with a good book. The real challenge [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/books/548735/best-sci-fi-fantasy-releases-april-2025>
 

@@ -1,11 +1,125 @@
 ---
 title: home
-updated: 2025-04-05 14:07:39
+updated: 2025-04-06 06:07:19
 ---
 
 # home
 
-(date: 2025-04-05 14:07:39)
+(date: 2025-04-06 06:07:19)
+
+---
+
+## 22 Recipes Where Fresh and Vibrant Spring Vegetables Are the Star
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+It’s time to take advantage of the fresh spring produce that abounds this time of year. Try these spring vegetable recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/spring-vegetable-recipes>
+
+---
+
+## 9 Tips for Better Farmers’ Market Manners
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+Some folks brave the farmers’ market all year-round, which is wonderful, but for others, the warm months are the ideal time for leisurely laps of local produce vendors. But how’s your etiquette? Read on. 
+
+<br> 
+
+<https://www.sunset.com/syndication/farmers-market-manners>
+
+---
+
+## These Least Visited, Under-the-Radar National Parks Deserve a Spot on Your Bucket List
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+If you want a non-touristy experience, these are the least crowded and under-visted National Parks according to Google Maps. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/least-crowded-national-parks-in-the-us>
+
+---
+
+## National Parks Are in Crisis. Here’s What You Need to Know About the Layoffs.
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+Thousands of National Parks Service workers have been laid off due to executive orders, and the impact could be devastating. 
+
+<br> 
+
+<https://www.sunset.com/travel/national-parks/national-parks-service-layoffs>
+
+---
+
+## This Secret Cave Hike in the Sequoias Will Open for the First Time in Many Years
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+Crystal Cave in the Sequoia National Park was closed to visitors for four years. It will open via reservation starting this summer. 
+
+<br> 
+
+<https://www.sunset.com/travel/crystal-cave-sequoia-national-park-reopens>
+
+---
+
+## This Popular National Park Attraction Will Close Indefinitely This Summer
+
+date: 2025-04-05, from: Sunset Magazine - Living in the West
+
+Fiery Furnace in Utah's Arches National Park, which is popular with hikers and climbers, will shutter this summer. 
+
+<br> 
+
+<https://www.sunset.com/travel/fiery-furnace-arches-national-park-utah-closure>
+
+---
+
+## How to Plant and Grow Potatoes in Containers, Pots, or Grow Bags
+
+date: 2025-04-05, from: Homestead and Chil
+
+<p>Potatoes are easy to grow, fun to harvest, and the flavorful is unbeatable! Come learn how to grow potatoes in containers, pots or grow bags - with tips on sprouting seed potatoes, planting, hilling, harvest and more.</p>
+<p>The post <a href="https://homesteadandchill.com/how-to-grow-potatoes-containers/">How to Plant and Grow Potatoes in Containers, Pots, or Grow Bags</a> appeared first on <a href="https://homesteadandchill.com">Homestead and Chill</a>.</p>
+ 
+
+<br> 
+
+<https://homesteadandchill.com/how-to-grow-potatoes-containers/>
+
+---
+
+## How to Plant and Grow Indian Paintbrush Flowers (Castilleja)
+
+date: 2025-04-05, from: The Gardener's Path
+
+<p>Indian paintbrush is a hemiparasitic plant native to North America, generally sporting bright crimson blooms. These wildflowers can be challenging to cultivate, but in the right conditions, they will bring an abundance of pollinators to meadows, rock gardens, or xeriscapes. Learn how to grow Castilleja in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-indian-paintbrush/">How to Plant and Grow Indian Paintbrush Flowers (Castilleja)</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-indian-paintbrush/>
+
+---
+
+## Stewarding trees: The avocado in the bananas
+
+date: 2025-04-05, from: Greg Alder's blog, Yard Post
+
+<p>Stefan was driving, taking me on a tour of avocados in South Africa, but he took a turn on a dirt road into a banana plantation. We got out of the truck and I followed him into the dark and humid canopy of green acres and acres of Dwarf Cavendish plants. We walked through the [&#8230;]</p>
+<p>The post <a href="https://gregalder.com/yardposts/stewarding-trees-the-avocado-in-the-bananas/">Stewarding trees: The avocado in the bananas</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/stewarding-trees-the-avocado-in-the-bananas/>
 
 ---
 
@@ -764,18 +878,6 @@ date: 2025-04-02, from: Yard Life blog
 
 ---
 
-## This Secret Cave Hike in the Sequoias Will Open for the First Time in Many Years
-
-date: 2025-04-01, from: Sunset Magazine - Living in the West
-
-Crystal Cave in the Sequoia National Park was closed to visitors for four years. It will open via reservation starting this summer. 
-
-<br> 
-
-<https://www.sunset.com/travel/crystal-cave-sequoia-national-park-reopens>
-
----
-
 ## These 6 Wellness Resorts Are the Ultimate Way to Reset
 
 date: 2025-04-01, from: Sunset Magazine - Living in the West
@@ -1067,18 +1169,6 @@ Though it's certainly not the cheapest place to live, the California metropolis 
 
 ---
 
-## This Popular National Park Attraction Will Close Indefinitely This Summer
-
-date: 2025-04-01, from: Sunset Magazine - Living in the West
-
-Fiery Furnace in Utah's Arches National Park, which is popular with hikers and climbers, will shutter this summer. 
-
-<br> 
-
-<https://www.sunset.com/travel/fiery-furnace-arches-national-park-utah-closure>
-
----
-
 ## Travel the West
 
 date: 2025-04-01, from: Sunset Magazine - Living in the West
@@ -1324,60 +1414,4 @@ date: 2025-03-30, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/best-coreopsis-varieties/>
-
----
-
-## When Does Astilbe Bloom? How to Extend the Flowering Season
-
-date: 2025-03-29, from: The Gardener's Path
-
-<p>Astilbe flowers are striking, like plumes of feathers in a rainbow of colors from white to the deepest purple – often lasting for weeks at a time. These shade-loving perennials are ideal for those darker spots in the landscape. Discover when astilbe blooms and how to extend the flowering season in this guide. Read more.</p>
-<p>The post <a href="https://gardenerspath.com/plants/flowers/astilbe-bloom/">When Does Astilbe Bloom? How to Extend the Flowering Season</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
- 
-
-<br> 
-
-<https://gardenerspath.com/plants/flowers/astilbe-bloom/>
-
----
-
-## The Freshest and Most Delicious Recipes You Can Make This April
-
-date: 2025-03-29, from: Sunset Magazine - Living in the West
-
-April is time to really take advantage of the fresh spring produce in season. Here are our favorite recipes to make in April. 
-
-<br> 
-
-<https://www.sunset.com/food-wine/kitchen-assistant/recipes-to-cook-april-2025>
-
----
-
-## 85 Stunning Types of Lilies (With Pictures and Names)
-
-date: 2025-03-29, from: Yard Life blog
-
-<p>Lilies are among the most breathtaking flowers, admired for their vibrant colors, elegant shapes, and enchanting fragrances. With their ability ... </p>
-<p class="read-more-container"><a title="85 Stunning Types of Lilies (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/#more-26076" aria-label="Read more about 85 Stunning Types of Lilies (With Pictures and Names)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/">85 Stunning Types of Lilies (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/85-stunning-types-of-lilies-with-pictures-and-names/>
-
----
-
-## 21 Common Types of Ivy Plants (With Pictures and Names)
-
-date: 2025-03-29, from: Yard Life blog
-
-<p>Ivy plants are some of the most versatile and visually appealing greenery found in both indoor and outdoor settings. With ... </p>
-<p class="read-more-container"><a title="21 Common Types of Ivy Plants (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/#more-26049" aria-label="Read more about 21 Common Types of Ivy Plants (With Pictures and Names)">Read more</a></p>
-<p>The post <a href="https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/">21 Common Types of Ivy Plants (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
- 
-
-<br> 
-
-<https://ownyardlife.com/21-common-types-of-ivy-plants-with-pictures-and-names/>
 

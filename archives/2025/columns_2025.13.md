@@ -1,11 +1,321 @@
 ---
 title: columns
-updated: 2025-04-05 14:07:36
+updated: 2025-04-06 06:07:17
 ---
 
 # columns
 
-(date: 2025-04-05 14:07:36)
+(date: 2025-04-06 06:07:17)
+
+---
+
+## Fortunate Son — Now and Then
+
+date: 2025-04-06, from: Dan Rather's Steady
+
+A Reason To Smile 
+
+<br> 
+
+<https://steady.substack.com/p/fortunate-son-now-and-then>
+
+---
+
+## April 5, 2025
+
+date: 2025-04-06, from: Heather Cox Richardson blog
+
+It&#8217;s been quite a week. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-5-2025>
+
+---
+
+## Sunday thought
+
+date: 2025-04-06, from: Robert Reich's blog
+
+The importance of taking care of yourself 
+
+<br> 
+
+<https://robertreich.substack.com/p/sunday-thought-1d6>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-06, from: Dave Winer's Scripting News)
+
+And btw it could be <a href="https://en.wikipedia.org/wiki/Nuclear_weapons_of_the_United_States">worse</a>. <span class="spOldSchoolEmoji">💥</span> 
+
+<br> 
+
+<http://scripting.com/2025/04/05.html#a015405>
+
+---
+
+## Scores Attend ‘Hands Off’ Protests Across U.S. — and Europe — to Oppose Trump’s Agenda
+
+date: 2025-04-05, updated: 2025-04-06, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theguardian.com/world/live/2025/apr/05/hands-off-protests-trump-administration>
+
+---
+
+## The WSJ Estimates the Effect of Trump’s Tariffs on the iPhone
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.wsj.com/tech/personal-tech/iphone-apple-tariffs-china-bb20c7a3?mod=hp_lead_pos7>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-04-05, from: Jessica Smith's blog)
+
+<p>Last night Viv and I took Indie to the Satsung that he likes to go to with his mum. I dressed her in this cute onesie with dogs on it, and we got so many, &ldquo;Oh, so this is your darling son!&rdquo;, &ldquo;How handsome!&rdquo; etc. 😑 News just in I guess – dogs are just for boys now! Girls keep away!! How pathetic, right?</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/04/dogs-not-for-girls-apparently.html>
+
+---
+
+## The Pricing Stability of the iMac
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://sixcolors.com/post/2025/04/the-pinnacle-of-apples-price-stability-is-the-imac/>
+
+---
+
+**@Jessica Smith's blog** (date: 2025-04-05, from: Jessica Smith's blog)
+
+<p>Mission accomplished! I waited so long to reset Gidget&rsquo;s timed, automated feeder for DST that I don&rsquo;t have to any more 😎</p>
+<p>That said, in the manner of non-internet-connected electronics, its sense of time has slipped such that it runs nearly an hour behind the real time (so in the opposite direction from DST)… good thing Gidget can&rsquo;t tell time.</p> 
+
+<br> 
+
+<https://www.jayeless.net/2025/04/did-not-reset-gidgets-feeder.html>
+
+---
+
+## Perhaps the E.U. Took Mercy on Apple and Meta (and Investors) This Week
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.ft.com/content/c3933e2f-787e-453b-82eb-a981ddd48a31>
+
+---
+
+## Letter to Senators re: Signal chat
+
+date: 2025-04-05, from: Tracy Durnell Blog
+
+Note: I&#8217;ve been trying to call but I didn&#8217;t get around to it last week, so I wrote in instead &#8212; don&#8217;t let the perfect be the enemy of the good 🦾 I&#8217;m trying to pick one topic each week but it&#8217;s pretty hard given how much is going on! My approach has been to [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/05/letter-to-senators-re-signal-chat/>
+
+---
+
+##  Season Three Trailer for Star Trek: Strange New Worlds 
+
+date: 2025-04-05, updated: 2025-04-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/season-three-trailer-for-star-trek-strange-new-worlds>
+
+---
+
+## Tim Sweeney’s Praise for Microsoft
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://x.com/TimSweeneyEpic/status/1908303468349063539>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-05, from: Dave Winer's Scripting News)
+
+I now have a Canadian partner on the <a href="https://radiofreeameri.ca/">radiofreeameri.ca</a> project, a founder of <a href="https://www.tucows.com/">Tucows</a>, who I've known for <i>decades,</i>  <a href="https://www.google.com/search?q=site%3Ascripting.com+ross+rader">Ross Rader</a>. We've done work together in the past, it's great to be doing it again. 
+
+<br> 
+
+<http://scripting.com/2025/04/05.html#a180800>
+
+---
+
+## Microsoft’s 50th Birthday Was Interrupted, Twice, by Employees Protesting Against Israel
+
+date: 2025-04-05, updated: 2025-04-05, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://www.theverge.com/news/644027/microsoft-50th-anniversary-protest>
+
+---
+
+##  They&#8217;re gonna do a season three of The Lord of the Rings:... 
+
+date: 2025-04-05, updated: 2025-04-05, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046572-theyre-gonna-do-a-season>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-05, from: Dave Winer's Scripting News)
+
+On the path we're on, no doubt <a href="https://this.how/bluesky/">Bluesky</a> will come under the same kind of regulation law firms and universities are. And the shame of it is we could be using this time to spread out, distribute. 
+
+<br> 
+
+<http://scripting.com/2025/04/05.html#a171020>
+
+---
+
+## Trump’s Terrifying Tariff-Taxes! The Coffee Klatch for Saturday, April 5, 2025
+
+date: 2025-04-05, from: Robert Reich's blog
+
+With Heather Lofthouse and yours truly, Robert Reich 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160610353/df8d2b415491d63cdefad7960e80ab0f.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160610353/df8d2b415491d63cdefad7960e80ab0f.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://robertreich.substack.com/p/trumps-terrifying-tariff-taxes-the>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-05, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2024/05/03/shootThisDog.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">I finally looked at my <a href="https://claude.ai/share/cbdb33ac-0f47-4e39-acb4-43eba5998a4e">nest egg</a> and was shocked to see the new number. Even worse that the dollars in the account will buy even less as the US dollar loses its value as the <a href="https://en.wikipedia.org/wiki/Flight-to-quality#:~:text=A%20flight%2Dto%2Dquality%2C,gold%20and%20other%20precious%20metals.">flight to safety</a> currency. It's not a big surprise as the US behaves like a drunk <a href="https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect">Dunning-Kruger</a> deluded schoolyard bully. What is amazing, if you think about it, is that we aren't having an emergency impeachment and trial to get him out of there. That could actually restore a bit of confidence of the outside world, showing that the power in the US is more with the people than it has been for a long time. Maybe our <a href="https://www.theguardian.com/technology/2025/jan/26/elon-musk-peter-thiel-apartheid-south-africa">would-be overlords</a> are scared too at what their idea has unleashed. Even if Trump weren't so inept, eventually whoever you choose as the monarch, they're going to behave like this. Inevitable. We could have a revolution right now, fix this, and set the country on the right course. We could do it. I believe we could. 
+
+<br> 
+
+<http://scripting.com/2025/04/05.html#a153440>
+
+---
+
+## Diego Rivera style portrait
+
+date: 2025-04-05, from: Dave Winer's Scripting News
+
+<p>I asked ChatGPT to draw a portrait of the <a href="https://imgs.scripting.com/2025/04/05/trump.png">current US president</a> in the style of Diego Rivera.</p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/05/riveraPresident.png"></center>US president in style of Diego Rivera.</div></p>
+<p><div class="divInlineImage"><center><img class="imgInline" src="https://imgs.scripting.com/2025/04/05/clown.png"></center>Diego Rivera style clown.</div></p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/05/151446.html?title=diegoRiveraStylePortrait>
+
+---
+
+## Introducing Windows on arm. And by arm, we mean wrist
+
+date: 2025-04-05, updated: 2025-04-05, from: Liam Proven's articles at the Register
+
+<h4>Pixel Watch 3 boots Microsoft&#39;s OS in latest feat of delightful pointlessness</h4>
+      <p>Windows on Arm has been around since the Surface RT – but this is another kind of arm altogether.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/05/windows_smartwatch_hack/>
+
+---
+
+## April 4, 2025
+
+date: 2025-04-05, from: Heather Cox Richardson blog
+
+The stock market rout continued today. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-4-2025>
+
+---
+
+## Panama City, Panama
+
+date: 2025-04-05, from: mrusme blog
+
+"Panama City, also known as Panama (or Panamá in Spanish), is the capital and
+largest city of Panama. It has a total population of 1,086,990, with over
+2,100,000 in its metropolitan area. The city is located at the Pacific
+entrance of the Panama Canal, in the province of Panama. The city is the
+political and administrative center of the country, as well as a hub for
+banking and commerce." 
+
+<br> 
+
+<https://xn--gckvb8fzb.com/travel/panama/panama-city/>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-05, from: Miguel de Icaza Mastondon feed)
+
+<p>God I love this <a href="https://youtu.be/bzsYlG6TqFw" target="_blank" rel="nofollow noopener" translate="no"><span class="invisible">https://</span><span class="">youtu.be/bzsYlG6TqFw</span><span class="invisible"></span></a></p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114282933517083602>
+
+---
+
+## Weeknotes: Mar. 29 – Apr. 4, 2025
+
+date: 2025-04-05, from: Tracy Durnell Blog
+
+Win of the week: freeing the car of its mouse overlord (probably, hopefully) Looking forward to: I want to make these snickerdoodle blondies Stuff I did: 17.75 hours consulting weekend walk with my friend, who brought over some disinfectant for the car 🙌 biked to the drug store because I didn&#8217;t want to drive the [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/04/weeknotes-mar-29-apr-4-2025/>
+
+---
+
+## Get Up! Get Out! Get in the Streets! Mass Protests Saturday Near You! 
+
+date: 2025-04-05, from: Michael Moore's blog
+
+And... More of your amazing portraits of Dear Leader Comrade Trump! 
+
+<br> 
+
+<https://www.michaelmoore.com/p/get-up-get-out-get-in-the-streets>
 
 ---
 
@@ -2625,113 +2935,4 @@ I actually had things to say tonight, but slept most the day and cannot seem to 
 <br> 
 
 <https://heathercoxrichardson.substack.com/p/march-29-2025>
-
----
-
-**@Miguel de Icaza Mastondon feed** (date: 2025-03-29, from: Miguel de Icaza Mastondon feed)
-
-<p>Give us __asm__ in safe languages you cowards!</p> 
-
-<br> 
-
-<https://mastodon.social/@Migueldeicaza/114248424960473217>
-
----
-
-## When AI Whispers in Ink
-
-date: 2025-03-29, from: Om Malik blog
-
-As one month ends and another begins, I find myself performing what has become a private ritual with two pens from my unusually large collection of fountain pens. These are not the sober instruments that sign checks or pen manuscripts—those steadfast companions are already loaded with respectable blues and blacks, the colors of responsibility. These &#8230; 
-
-<br> 
-
-<https://om.co/2025/03/29/when-ai-whispers-in-ink/>
-
----
-
-## March 28, 2025
-
-date: 2025-03-29, from: Heather Cox Richardson blog
-
- 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160140804/b0c72cc7666686b0d4217206d6083920.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160140804/b0c72cc7666686b0d4217206d6083920.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://heathercoxrichardson.substack.com/p/march-28-2025-3d2>
-
----
-
-**@Dave Winer's Scripting News** (date: 2025-03-29, from: Dave Winer's Scripting News)
-
-<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2020/11/26/uncleSam.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">This is very important. If you're on Bluesky, <a href="https://bsky.app/profile/factpostnews.bsky.social/post/3lfn5pghprs26">follow this account</a>. "This is the official rapid response page of the Democratic Party." I've been <a href="https://daytona.scripting.com/search?q=%22on%20the%20air%22">begging</a> the Dems to do this since 2009, a permanent heartbeat for the Dems on social media. Staffed by the team that ran the Harris campaign social media center during the campaign. They were snarky, fun, irreverent, and never apologized for representing the people, and they did it well. This is a moment. I no longer have to beg for this. It exists. So the first step has already been taken, thank goodness!!! Now it's up to <i>us</i> to spread the news that there is a place to find the heartbeat of the Dems. I'm going to study it, RT it, and keep the flame lit the best I can. 
-
-<br> 
-
-<http://scripting.com/2025/03/29.html#a144822>
-
----
-
-## Miscellany № 107: old books (and a new Book)
-
-date: 2025-03-29, from: Shady Characters blog
-
-<p>Some big news today: <a href="/books/the-book"><cite>The Book: A Cover-to-Cover Exploration of the Most Powerful Object of our Time</cite></a> will be published soon in paperback!</p>
-<p>The paperback edition is updated from the hardback, with all of the various <a href="https://shadycharacters.co.uk/books/the-book/errata-for-the-book/">errata</a> fixed and a number of changes made to account for the book’s paperback rather than hardcover construction.  If you remember, the hardback edition had a number of references to its own physical form (“Tip the book towards you and look at the spine”, and so on) which have now been modified accordingly. Of course, the paperback edition provides a new and different set of reference points, so if some passages now ask you to find a hardback on your bookshelf, others can now tell you to look again at the paperback in your hands.</p><a class="more-link" href="https://shadycharacters.co.uk/2025/03/miscellany-107-book-paperback/">Read more →</a> 
-
-<br> 
-
-<https://shadycharacters.co.uk/2025/03/miscellany-107-book-paperback/>
-
----
-
-## Is the Trump Fever Breaking? | Saturday Coffee Klatch for March 29, 2025
-
-date: 2025-03-29, from: Robert Reich's blog
-
-With Heather Lofthouse and yours truly, Robert Reich 
-
-<audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160087362/9997f650c186b50799f94536e0be4c31.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160087362/9997f650c186b50799f94536e0be4c31.mp3" target="_blank">download audio/mpeg</a><br> 
-
-<https://robertreich.substack.com/p/is-the-trump-fever-breaking-saturday>
-
----
-
-## March 28, 2025
-
-date: 2025-03-29, from: Heather Cox Richardson blog
-
-&#8220;Another wipeout walloped Wall Street Friday,&#8221; Stan Choe of the Associated Press wrote today. 
-
-<br> 
-
-<https://heathercoxrichardson.substack.com/p/march-28-2025>
-
----
-
-## Weeknotes: March 22-28, 2025
-
-date: 2025-03-29, from: Tracy Durnell Blog
-
-Win of the week: published the next piece in my ongoing Mindset of More series &#8212; so far these posts are taking me about a month to write (since the first few I wrote while on vacation), feels like a good pace Looking forward to: hoping to go see cherry blossoms next week if I can find [&#8230;] 
-
-<br> 
-
-<https://tracydurnell.com/2025/03/28/weeknotes-march-22-28-2025/>
-
----
-
-## Pictures
-
-date: 2025-03-29, from: Doc Searls (at Harvard), New Old Blog
-
-Still miss him. Just found a photo of Aaron Swartz from the time I recruited him for a panel at Comdex in 2002. He was a kid, but rocked it. I suppose it&#39;s one of these. The photo at the top of this story is of the Linden Cogeneration Plant in New Jersey, which I [&#8230;] 
-
-<br> 
-
-<https://doc.searls.com/2025/03/28/pictures/>
 

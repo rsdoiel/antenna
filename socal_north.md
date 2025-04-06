@@ -1,11 +1,175 @@
 ---
 title: socal north
-updated: 2025-04-05 14:07:33
+updated: 2025-04-06 06:07:14
 ---
 
 # socal north
 
-(date: 2025-04-05 14:07:33)
+(date: 2025-04-06 06:07:14)
+
+---
+
+## Knitting nights. Pickleball. Cocktails. Movie theaters aren't just for movies anymore
+
+date: 2025-04-06, updated: 2025-04-06, from: The LAist
+
+At CinemaCon, a yearly convention for movie theater industry leaders, cinema owners say they're experimenting with events to bring in customers. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/knitting-nights-pickleball-cocktails-movie-theaters-arent-just-for-movies-anymore>
+
+---
+
+## The turf war between tennis and pickleball arrives in Northeast LA’s Hermon
+
+date: 2025-04-06, updated: 2025-04-06, from: The LAist
+
+The city parks department is seeking community input on a plan to replace a tennis court at Hermon Park with pickleball. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/pickleball-tennis-court-hermon-park>
+
+---
+
+## A second life for Altadena’s burned trees
+
+date: 2025-04-06, updated: 2025-04-06, from: The LAist
+
+The Altadena Reciprocity Project aims to keep trees from burn sites in the community after the Eaton Fire. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/altadena-reciprocity-project-burned-trees-angel-city-lumber-eaton-fire>
+
+---
+
+## Senate GOP passes budget plan, setting up a critical next phase for Trump agenda
+
+date: 2025-04-06, updated: 2025-04-06, from: The LAist
+
+The vote brings Republicans a step closer to finalizing a sweeping plan to address defense, energy, immigration and tax policy. But a number of potential wildcards must still be sorted out. 
+
+<br> 
+
+<https://laist.com/news/senate-gop-passes-budget-plan-setting-up-a-critical-next-phase-for-trump-agenda>
+
+---
+
+## At park burned by Eaton Fire, volunteers kick off restoration while others question safety and priorities
+
+date: 2025-04-05, updated: 2025-04-06, from: The LAist
+
+L.A. County parks officials asked Angelenos from near and far for help to get Loma Alta Park in Altadena reopened by May. Hundreds answered the call. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/burned-by-the-eaton-fire-loma-alta-park-in-altadena-gets-restoration-underway>
+
+---
+
+## Second suspect arrested in killing at Long Beach homeless encampment, police say
+
+date: 2025-04-05, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the deadly shooting occurred in an encampment next to the 91 Freeway on Jan. 10, 2021.</p>
+<p>The post <a href="https://lbpost.com/news/crime/second-suspect-arrested-in-killing-at-long-beach-homeless-encampment-police-say">Second suspect arrested in killing at Long Beach homeless encampment, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/second-suspect-arrested-in-killing-at-long-beach-homeless-encampment-police-say>
+
+---
+
+## Dodgers head to White House Monday to celebrate World Series win
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+The team is making the traditional celebratory trip but not everyone is happy about the Dodgers meeting up with President Trump. 
+
+<br> 
+
+<https://laist.com/news/dodgers-heading-to-the-white-house-monday-to-celebrate-world-series-championship>
+
+---
+
+## Holding the Line in Uncertain Times
+
+date: 2025-04-05, from: City of Santa Clarita
+
+<p>By City Manager Ken Striplin As we move through the budget process for Fiscal Year 2025/26, our focus remains clear—fiscal responsibility, long-term stability and protecting the quality of life our residents have come to expect. While we remain committed to excellence in service delivery and forward-looking planning, the economic landscape we face is increasingly unpredictable. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/05/holding-the-line-in-uncertain-times/">Holding the Line in Uncertain Times</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/05/holding-the-line-in-uncertain-times/>
+
+---
+
+## TikTok creators go from sadness and fear to...'whatever!' over app's future
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+It's been an emotional rollercoaster for TikTok creators over the past few months, with the app's future uncertain. But there are ways to decompress. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/tiktok-creators-go-from-sadness-and-fear-to-whatever-over-apps-future>
+
+---
+
+## LA County set to pay $4 billion settlement to resolve thousands of sex abuse cases
+
+date: 2025-04-05, from: Longbeach Post
+
+<figure><img width="800" height="584" src="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="BoardofSupervisorsBuilding" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding.png 800w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-300x219.png 300w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-768x561.png 768w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-148x108.png 148w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-400x292.png 400w, https://img.lbpost.com/wp-content/uploads/2016/05/10171250/BoardofSupervisorsBuilding-411x300.png 411w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>County officials called it “the costliest financial settlement in the history of LA County." It settles thousands of claims dating back as far as the 1960s.</p>
+<p>The post <a href="https://lbpost.com/news/la-county-settlement-abuse-cases-billion">LA County set to pay $4 billion settlement to resolve thousands of sex abuse cases</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/la-county-settlement-abuse-cases-billion>
+
+---
+
+## Higher prices are likely for these 10 grocery items when tariffs hit
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+A trip to the grocery or liquor store is about to become even more expensive, economists say. From seafood to olive oil, these items will likely cost more under President Trump's tariffs. 
+
+<br> 
+
+<https://laist.com/news/food/tariffs-higher-prices-seafood-coffee-fruit-alcohol-beef-rice-cheese-nuts-chocolate-olive-oil>
+
+---
+
+## After losing his home in the Eaton Fire, the work of a volunteer trail rebuilder takes on new meaning
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+An Altadena resident and dedicated trail steward now has a two-fold mission — to rebuild his house, and the nearby trails that made it home. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/eaton-fire-lowelifes-altadena-wildfires-trail-rebuilding>
+
+---
+
+## A stuck and ‘skittish’ minke whale is still swimming in Long Beach Harbor
+
+date: 2025-04-05, updated: 2025-04-05, from: The LAist
+
+Officials have attempted to shepherd the whale back out to sea for days. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/a-stuck-and-skittish-minke-whale-is-still-swimming-in-long-beach-harbor>
 
 ---
 
@@ -1535,138 +1699,4 @@ date: 2025-03-30, from: Longbeach Post
 <br> 
 
 <https://lbpost.com/news/body-of-la-firefighter-found-in-waters-off-long-beach-months-after-he-went-missing>
-
----
-
-## You’ve Got a Friend at City Hall
-
-date: 2025-03-29, from: City of Santa Clarita
-
-<p>By City Manager Ken Striplin Did you know, You’ve Got a Friend at City Hall? From our fun and friendly staff that run our Recreation and Community Services programs, to our Building and Safety team that make sure all developments are up to code, to our Communications team who bring all the trending, informational videos [&#8230;]</p>
-<p>The post <a href="https://santaclarita.gov/blog/2025/03/29/youve-got-a-friend-at-city-hall-4/">You’ve Got a Friend at City Hall</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
- 
-
-<br> 
-
-<https://santaclarita.gov/blog/2025/03/29/youve-got-a-friend-at-city-hall-4/>
-
----
-
-## These Altadenans want everyone to know their homes are not for sale
-
-date: 2025-03-29, updated: 2025-03-31, from: The LAist
-
-Eaton Fire survivors gather for food supplies and community building at an “Altadena Not For Sale” rally on Saturday 
-
-<br> 
-
-<https://laist.com/news/altadena-not-for-sale-fair-oaks-burger-rally>
-
----
-
-## Alec Baldwin, a $227,000 payment and a San Jose fundraiser at heart of allegations against former lawmaker
-
-date: 2025-03-29, updated: 2025-03-30, from: The LAist
-
-California’s political watchdog is fining former Assemblymember Evan Low $106,000 for campaign finance violations after he admitted trying to conceal payments to actor Alec Baldwin, who appeared at a 2020 fundraiser for Low. 
-
-<br> 
-
-<https://laist.com/news/politics/alec-baldwin-a-227-000-payment-and-a-san-jose-fundraiser-at-heart-of-allegations-against-former-lawmaker>
-
----
-
-## From LA to Seattle to Miami, anti-Musk protesters gather at hundreds of Tesla locations
-
-date: 2025-03-29, updated: 2025-03-30, from: The LAist
-
-At a rally in Los Angeles, 65-year-old Phil Ansell said he wanted to participate because "I want to do everything possible to protect democracy in this country." 
-
-<br> 
-
-<https://laist.com/news/politics/anti-musk-protests-are-planned-at-tesla-locations-worldwide-this-weekend-including-in-socal>
-
----
-
-## An art gallery destroyed in the Palisades Fire finds its next chapter
-
-date: 2025-03-29, updated: 2025-04-03, from: The LAist
-
-Bruce Lurie Gallery has reopened in Santa Monica with an inaugural group exhibition. 
-
-<br> 
-
-<https://laist.com/news/arts-and-entertainment/an-art-gallery-destroyed-in-the-palisades-fire-finds-its-next-chapter>
-
----
-
-## These 100 Angelenos form a 'human atlas' of LA for major art project
-
-date: 2025-03-29, updated: 2025-03-29, from: The LAist
-
-A large-scale interactive project asks local leaders about life in L.A. 
-
-<br> 
-
-<https://laist.com/news/los-angeles-activities/100-angelenos-form-human-atlas-la-art-project>
-
----
-
-## Inside the tricky, complicated process of debris removal after LA's fires
-
-date: 2025-03-29, updated: 2025-03-29, from: The LAist
-
-As FEMA extends deadline to sign up for free debris removal, we explain different steps of the process. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/debris-removal-april-army-corps-explained>
-
----
-
-## What's soil blocking? This seeding method helps gardeners use less plastic and peat
-
-date: 2025-03-29, updated: 2025-03-29, from: The LAist
-
-Soil blocking is an environmentally friendly method to prep seedlings. The technique has captured the attention of serious gardeners who'd like to make their growing more sustainable. 
-
-<br> 
-
-<https://laist.com/news/climate-environment/whats-soil-blocking-this-seeding-method-helps-gardeners-use-less-plastic-and-peat>
-
----
-
-## Federal judge prevents Trump administration from dismantling CFPB
-
-date: 2025-03-29, updated: 2025-03-29, from: The LAist
-
-The temporary injunction issued by Judge Berman Jackson seeks to preserve the Consumer Financial Protection Bureau as a lawsuit filed by the agency's union proceeds. 
-
-<br> 
-
-<https://laist.com/news/federal-judge-prevents-trump-administration-from-dismantling-cfpb>
-
----
-
-## Appeals court rules Trump can fire board members of independent agencies
-
-date: 2025-03-29, updated: 2025-03-29, from: The LAist
-
-The D.C. Circuit Court of Appeals ruled 2-1 that Trump can fire Democratic members of the National Labor Relations Board and the Merit Systems Protection Board after a lower court had them reinstated. 
-
-<br> 
-
-<https://laist.com/news/appeals-court-rules-trump-can-fire-board-members-of-independent-agencies>
-
----
-
-## Under federal pressure, USC eliminates DEI as a stated value
-
-date: 2025-03-29, updated: 2025-03-29, from: The LAist
-
-The Trump administration has threatened to withhold funds from schools who uphold the framework. 
-
-<br> 
-
-<https://laist.com/news/education/usc-eliminates-dei-trump-administration>
 

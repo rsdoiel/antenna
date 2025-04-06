@@ -1,11 +1,59 @@
 ---
 title: motorcycles
-updated: 2025-04-05 14:07:39
+updated: 2025-04-06 06:07:20
 ---
 
 # motorcycles
 
-(date: 2025-04-05 14:07:39)
+(date: 2025-04-06 06:07:20)
+
+---
+
+## Whoever's the Biggest DGR Fundraiser Will Get a Prize So Sweet, It’ll Make You Feel Guilty
+
+date: 2025-04-06, from: Ride Apart, Electric Motorcycle News
+
+If what I'm doing is good, why do I suddenly feel a bit bad? 
+
+<br> 
+
+<https://www.rideapart.com/news/755434/distinguished-gentlemans-ride-dgr-scrambler-1200-prize/>
+
+---
+
+## Brandon Jones Breaks 98-Race NASCAR Winless Drought With Victory at Darlington Raceway
+
+date: 2025-04-06, from: Kickin the Tires blog
+
+By Holly Cain, NASCAR Wire Service&#160; DARLINGTON, S.C. – After diligently working through a 98-race winless streak over the last three NASCAR Xfinity Series seasons, Joe Gibbs Racing’s Brandon Jones&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/brandon-jones-breaks-98-race-nascar-winless-drought-with-victory-at-darlington-raceway/>
+
+---
+
+## Every Dirty Piece of Info About Ducati’s New Dirt Bike, as It's Finally Here
+
+date: 2025-04-05, from: Ride Apart, Electric Motorcycle News
+
+is this what the next era of motocross looks like? 
+
+<br> 
+
+<https://www.rideapart.com/news/755539/2025-ducati-desmo450-mx-specs-launch/>
+
+---
+
+## ARCA Menards West Series: 2025 Tucson Race Preview
+
+date: 2025-04-05, from: Kickin the Tires blog
+
+By Vincent Delforce, Staff Writer The third race of the 2025 ARCA Menards West Series season will take place this Saturday, April 5, at Tucson Speedway. This 0.375-mile short-track, paved&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/arca-menards-west-series-2025-tucson-race-preview/>
 
 ---
 
@@ -434,16 +482,4 @@ Photos by Blake Ulino/Kickin&#8217; the Tires
 <br> 
 
 <https://kickinthetires.net/nascar/gallery-nascar-xfinity-series-at-historic-martinsville-speedway/>
-
----
-
-## Update: KTM Likely Just Delayed Its New EV Dirt Bike, and Is Erasing All Mention Of It
-
-date: 2025-03-29, from: Ride Apart, Electric Motorcycle News
-
-The KTM chaos continues.  
-
-<br> 
-
-<https://www.rideapart.com/news/754994/ktm-freeride-e-ev-electric-dirt-bike-cancelled-postponed/>
 

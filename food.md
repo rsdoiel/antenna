@@ -1,11 +1,49 @@
 ---
 title: food
-updated: 2025-04-05 14:07:41
+updated: 2025-04-06 06:07:22
 ---
 
 # food
 
-(date: 2025-04-05 14:07:41)
+(date: 2025-04-06 06:07:22)
+
+---
+
+## But First (And Last And At All Points In Between), Coffee
+
+date: 2025-04-06, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A weekly curated selection of coffees from the Sprudge Roaster's Village.  
+
+<br> 
+
+<https://sprudge.com/but-first-and-last-and-at-all-points-in-between-coffee-312349.html>
+
+---
+
+## 19 Green Sauces to Use Up All Your Herbs
+
+date: 2025-04-05, from: Bon Appetet
+
+Including pesto, salsa verde, chimichurri, and more, these kicky condiments zhuzh up any meal. 
+
+<br> 
+
+<https://www.bonappetit.com/gallery/types-of-green-sauces-with-recipes>
+
+---
+
+## This Is What Marie Antoinette Had for Breakfast Every Day
+
+date: 2025-04-05, from: Taste of Home
+
+<p>It's not what we were expecting, but we are 100% here for her sweet choice. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/marie-antoinette-breakfast/">This Is What Marie Antoinette Had for Breakfast Every Day</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/marie-antoinette-breakfast/>
 
 ---
 
@@ -1224,40 +1262,4 @@ A delightful 30-minute recipe to add to the weekly meal plan.
 <br> 
 
 <https://www.bonappetit.com/story/why-i-love-this-coconut-salmon>
-
----
-
-## 47 Spicy Recipes to Make You Sweat
-
-date: 2025-03-29, from: Bon Appetet
-
-Fiery chili-crisp pasta, spicy cocoa shrimp, beef mala hot pot, and more tingle-inducing recipes. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/spicy-recipes>
-
----
-
-## Mango Mousse Cake
-
-date: 2025-03-29, from: Taste of Home
-
-Mango mousse cake tastes like sunshine, which means it's perfect for a special summer dessert or for fighting off the winter blues. 
-
-<br> 
-
-<https://www.tasteofhome.com/recipes/mango-mousse-cake/>
-
----
-
-## All the Recipes From Bon Appétit’s Travel Issue
-
-date: 2025-03-29, from: Bon Appetet
-
-We’ve got honey-soy chicken, asparagus Comté salad, and a grapefruit cocktail. 
-
-<br> 
-
-<https://www.bonappetit.com/gallery/bon-appetit-april-2025-issue>
 
