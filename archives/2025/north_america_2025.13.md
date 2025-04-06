@@ -1,11 +1,39 @@
 ---
 title: north america
-updated: 2025-04-06 06:07:13
+updated: 2025-04-06 14:08:37
 ---
 
 # north america
 
-(date: 2025-04-06 06:07:13)
+(date: 2025-04-06 14:08:37)
+
+---
+
+## Publisher's Roundup, 12
+
+date: 2025-04-06, from: The Contrarian
+
+Trump Is Paying the Price for his BIG Mistake 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160722550/b9aaee4954f0028bb2ea5d503f5e7de9.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160722550/b9aaee4954f0028bb2ea5d503f5e7de9.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/publishers-roundup-12>
+
+---
+
+## April 5: Millions Take to the Streets for a National Day of Action
+
+date: 2025-04-06, from: The Contrarian
+
+Americans Say: Hands Off! 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160706819/388d14cdbc1ce110dd303e35302ef867.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160706819/388d14cdbc1ce110dd303e35302ef867.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/april-5-millions-take-to-the-streets>
 
 ---
 

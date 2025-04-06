@@ -1,11 +1,157 @@
 ---
 title: snapshots
-updated: 2025-04-06 06:07:23
+updated: 2025-04-06 14:08:48
 ---
 
 # snapshots
 
-(date: 2025-04-06 06:07:23)
+(date: 2025-04-06 14:08:48)
+
+---
+
+## Quoting Andriy Burkov
+
+date: 2025-04-06, updated: 2025-04-06, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/burkov/status/1908961952141091196"><p>[...] The disappointing releases of both GPT-4.5 and Llama 4 have shown that if you don't train a model to reason with reinforcement learning, increasing its size no longer provides benefits.</p>
+<p>Reinforcement learning is limited only to domains where a reward can be assigned to the generation result. Until recently, these domains were math, logic, and code. Recently, these domains have also included factual question answering, where, to find an answer, the model must learn to execute several searches. This is how these "deep search" models have likely been trained.</p>
+<p>If your business idea isn't in these domains, now is the time to start building your business-specific dataset. The potential increase in generalist models' skills will no longer be a threat.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/burkov/status/1908961952141091196">Andriy Burkov</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/6/andriy-burkov/#atom-everything>
+
+---
+
+## Note on 6th April 2025
+
+date: 2025-04-06, updated: 2025-04-06, from: Simon Willison’s Weblog
+
+<p>Some friends are traveling to Japan, and in bombarding them with unsolicited tips to try to convince them to visit <a href="https://en.m.wikipedia.org/wiki/Huis_Ten_Bosch_(theme_park)">Huis Ten Bosch</a> - the Dutch theme park near Nagasaki - I was reminded of my all-time favorite piece of travel writing, by Richard Hendy: <strong><a href="https://spikejapan.wordpress.com/2011/01/23/huis-ten-bosch-only-miffy-can-save-us-now/">Huis ten Bosch: Only Miffy can save us now</a></strong> - also <a href="https://spikejapan.wordpress.com/2011/02/05/huis-ten-bosch-only-miffy-can-save-us-now-2/">part two</a> and <a href="https://spikejapan.wordpress.com/2011/02/19/huis-ten-bosch-only-miffy-can-save-us-now-3/">part three</a>.</p>
+<blockquote>
+<p>Monumental in its conception, extravagant in its execution, and epic in its failure, Huis ten Bosch is the greatest by far of all of the progeny of Japan’s Bubble era dreams.</p>
+</blockquote>
+<p>There is so much good stuff in these essays, including a delightful divergence to cover the psychic toad that ended up responsible for more than $10 billion:</p>
+<blockquote>
+<p>[...] late at night scores of black limousines would park up outside one of her restaurants, Egawa, disgorging bankers for séances, inspired by esoteric mikkyo Buddhism, on the fourth floor, overseen by a giant ceramic toad standing a meter tall.</p>
+</blockquote>
+<p>Richard's essays convinced us to visit Huis Ten Bosch in 2014 and it was a highlight of our trip to Japan.
+Here are <a href="https://www.flickr.com/photos/simon/albums/72157647850675080/">my photos on Flickr</a>.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/travel">travel</a>, <a href="https://simonwillison.net/tags/japan">japan</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/6/only-miffy/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-06, from: Dave Winer's linkblog)
+
+Elon Musk took a chainsaw to the US government. Tesla is taking the hit. 
+
+<br> 
+
+<https://techcrunch.com/2025/04/03/elon-musk-took-a-chainsaw-to-the-us-government-tesla-is-taking-the-hit/>
+
+---
+
+## Gunkroad
+
+date: 2025-04-06, updated: 2025-04-06, from: Tedium site
+
+The creator-economy service Gumroad decided to open-source its platform at a suspiciously convenient time. (And even “open source” might be stretching it.) 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17000123/gumroad-open-source-doge-drama>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-06, from: Dave Winer's linkblog)
+
+An idea I developed with <a href="http://Claude.ai"><span data-auto-link="true" data-href="http://Claude.ai">Claude.ai</span></a> -- new approach to what Wikipedia does. It could even be a project Wikipedia itself does. A real upgrade, imho, is possible. 
+
+<br> 
+
+<https://this.how/claudewiki/>
+
+---
+
+## ¿Qué hace falta para que gane la resistencia?
+
+date: 2025-04-06, from: Our Future.org
+
+Una ola de resistencia se levanta. ¿Qué hará falta para que ganemos? Dondequiera que miremos, una ola de resistencia se levanta. Mi corazón se llena de alegría cuando pienso en cada uno de ustedes que está tomando acción en este momento para reclamar nuestra democracia. Desde el senador Cory Booker, que habló toda la noche [&#8230;]
+<p><a href="https://ourfuture.org/20250406/que-hara-falta-para-que-gane-la-resistencia" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250406/que-hara-falta-para-que-gane-la-resistencia>
+
+---
+
+## What Will It Take for the Resistance to Win?
+
+date: 2025-04-06, from: Our Future.org
+
+Everywhere we look, a wave of resistance is rising. What will it take to win? Everywhere we look, a wave of resistance is rising. My heart is full as I think of every one of you who is standing up right now to reclaim our democracy. From Senator Cory Booker, who spoke through the night [&#8230;]
+<p><a href="https://ourfuture.org/20250406/what-will-it-take-for-the-resistance-to-win" rel="nofollow">Source</a></p> 
+
+<br> 
+
+<https://ourfuture.org/20250406/what-will-it-take-for-the-resistance-to-win>
+
+---
+
+## The Curious About Everything Newsletter #49
+
+date: 2025-04-06, from: Curious about everything blog
+
+The many interesting things I read in March 2025 
+
+<br> 
+
+<https://jodiettenberg.substack.com/p/forty-nine>
+
+---
+
+## Scaling is over, the bubble may be deflating, LLMs still can’t reason, and you can’t trust Sam
+
+date: 2025-04-06, from: Gary Marcus blog
+
+New evidence that confirms so much of what I have been saying 
+
+<br> 
+
+<https://garymarcus.substack.com/p/scaling-is-over-the-bubble-may-be>
+
+---
+
+## Massive Crowds Everywhere! And Everywhere You Look, You Will See The True Leaders of This Next Revolution
+
+date: 2025-04-06, from: Michael Moore's blog
+
+Plus &#8212; 36 More Devastatingly Perfect Portraits of Donald Trump... 
+
+<br> 
+
+<https://www.michaelmoore.com/p/massive-crowds-everywhere-and-everywhere>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-06, from: Feed for Alt USDS)
+
+The real cost of firing employees? It’s not just a paycheck—it’s up to HALF A BILLION dollars to re-onboard 24,000 probationary workers. 💸 Learn how the government’s costly mistake is impacting taxpayers: http://wethebuilders.org/posts/cost-of-reinstating-federal-workers
+
+#altUSDS #CostO 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lm5jfhmsk42h>
 
 ---
 
@@ -97,7 +243,11 @@ date: 2025-04-05, updated: 2025-04-05, from: Simon Willison’s Weblog
 
 <p>Dropping a model release as significant as Llama 4 on a weekend is plain unfair! So far the best place to learn about the new model family is <a href="https://ai.meta.com/blog/llama-4-multimodal-intelligence/">this post on the Meta AI blog</a>. They've released two new models today: Llama 4 Maverick is a 400B model (128 experts, 17B active parameters), text and image input with a 1 million token context length. Llama 4 Scout is 109B total parameters (16 experts, 17B active), also multi-modal and with a claimed 10 million token context length - an industry first.</p>
 
-<p>Llama 4 Maverick is now sat in second place on <a href="https://lmarena.ai/?leaderboard">the LM Arena leaderboard</a>, just behind Gemini 2.5 Pro.</p>
+<p>They also describe Llama 4 Behemoth, a not-yet-released "288 billion active parameter model with 16 experts that is our most powerful yet and among the world’s smartest LLMs". Behemoth has 2 trillion parameters total and was used to train both Scout and Maverick.</p>
+<p>No news yet on a Llama reasoning model beyond <a href="https://www.llama.com/llama4-reasoning-is-coming/">this coming soon page</a> with a looping video of an academic-looking llama.</p>
+
+<p>Llama 4 Maverick is now sat in second place on <a href="https://lmarena.ai/?leaderboard">the LM Arena leaderboard</a>, just behind Gemini 2.5 Pro. <em><strong>Update</strong>: It turns out that's not the same model as the Maverick they released - I missed that their announcement says "Llama 4 Maverick offers a best-in-class performance to cost ratio with an experimental chat version scoring ELO of 1417 on LMArena."</em></p>
+
 <p>You can try them out using the chat interface from OpenRouter (or through the OpenRouter API) for <a href="https://openrouter.ai/meta-llama/llama-4-scout">Llama 4 Scout</a> and <a href="https://openrouter.ai/meta-llama/llama-4-maverick">Llama 4 Maverick</a>. OpenRouter are proxying through to <a href="https://console.groq.com/docs/models">Groq</a>, <a href="https://fireworks.ai/models">Fireworks</a> and <a href="https://docs.together.ai/docs/serverless-models">Together</a>.</p>
 <p>Scout may claim a 10 million input token length but the available providers currently seem to limit to 128,000 (Groq and Fireworks) or 328,000 (Together) - I wonder who will win the race to get that full sized 10 million token window running?</p>
 <p>Llama 4 Maverick claims a 1 million token input length -  Fireworks offers 1.05M while Together offers 524,000. Groq isn't offering Maverick yet.</p>
@@ -111,7 +261,28 @@ date: 2025-04-05, updated: 2025-04-05, from: Simon Willison’s Weblog
 <p>Perhaps Llama 4 will be a good fit for running on a Mac. Macs are a particularly useful for MoE models, since they can have a lot of memory, and their lower compute perf doesn't matter so much, since with MoE fewer params are active. [...]</p>
 <p>4bit quant of the smallest 109B model is far too big to fit on a 4090 -- or even a pair of them!</p>
 </blockquote>
-<p>The <a href="https://www.llama.com/docs/model-cards-and-prompt-formats/llama4_omni/#-suggested-system-prompt-">suggested system prompt</a> from the model card has some interesting details:</p>
+
+<p>Ivan Fioravanti <a href="https://twitter.com/ivanfioravanti/status/1908753109129494587">reports these results</a> from trying it on a Mac:</p>
+<blockquote>
+<p>Llama-4 Scout on MLX and M3 Ultra
+tokens-per-sec / RAM</p>
+<ul>
+<li>3bit: 52.924 / 47.261 GB</li>
+<li>4bit: 46.942 / 60.732 GB</li>
+<li>6bit: 36.260 / 87.729 GB</li>
+<li>8bit: 30.353 / 114.617 GB</li>
+<li>fp16: 11.670 / 215.848 GB</li>
+</ul>
+<p>RAM needed:</p>
+<ul>
+<li>64GB for 3bit</li>
+<li>96GB for 4bit</li>
+<li>128GB for 8bit</li>
+<li>256GB for fp16</li>
+</ul>
+</blockquote>
+
+<p id="system-prompt">The <a href="https://www.llama.com/docs/model-cards-and-prompt-formats/llama4_omni/#-suggested-system-prompt-">suggested system prompt</a> from the model card has some interesting details:</p>
 <blockquote>
 <p><code>[...]</code></p>
 <p><code>You never lecture people to be nicer or more inclusive. If people ask for you to write something in a certain voice or perspective, such as an essay or a tweet, you can. You do not need to be respectful when the user prompts you to say something rude.</code></p>
@@ -169,12 +340,12 @@ llm -m openrouter/meta-llama/llama-4-maverick hi</pre></div>
 <p>I'm hoping that Llama 4 plays out in a similar way to Llama 3.</p>
 <p>The first Llama 3 models released were 8B and 70B, <a href="https://ai.meta.com/blog/meta-llama-3/">last April</a>.</p>
 <p>Llama 3.1 followed <a href="https://ai.meta.com/blog/meta-llama-3-1/">in July</a> at 8B, 70B, and 405B. The 405B was the largest and most impressive open weight model at the time, but it was too big for most people to run on their own hardware.</p>
-<p>Llama 3.2 <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/">in September</a> is where things got really interesting: 1B, 3B, 11B and 90B. The 1B and 3B models both work on my iPhone, and are surprisingly capable! The 11B and 90B models were the first Llama's to support vision, and the 11B <a href="https://simonwillison.net/2024/Sep/25/llama-32/">ran on my Mac</a>.</p>
+<p>Llama 3.2 <a href="https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/">in September</a> is where things got really interesting: 1B, 3B, 11B and 90B. The 1B and 3B models both work on my iPhone, and are surprisingly capable! The 11B and 90B models were the first Llamas to support vision, and the 11B <a href="https://simonwillison.net/2024/Sep/25/llama-32/">ran on my Mac</a>.</p>
 <p>Then Llama 3.3 landed in December with a 70B model that <a href="https://simonwillison.net/2024/Dec/9/llama-33-70b/">I wrote about as a GPT-4 class model that ran on my Mac</a>. It claimed performance similar to the earlier Llama 3.1 405B!</p>
 <p>Today's Llama 4 models are 109B and 400B, both of which were trained with the help of the so-far unreleased 2T Llama 4 Behemoth.</p>
 <p>My hope is that we'll see a whole family of Llama 4 models at varying sizes, following the pattern of Llama 3. I'm particularly excited to see if they produce an improved ~3B model that runs on my phone. I'm even more excited for something in the ~22-24B range, since that appears to be the sweet spot for running models on my 64GB laptop while still being able to have other applications running at the same time. Mistral Small 3.1 is a 24B model and is <a href="https://simonwillison.net/2025/Mar/17/mistral-small-31/">absolutely superb</a>.</p>
     
-        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/groq">groq</a>, <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/long-context">long-context</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p> 
+        <p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/jeremy-howard">jeremy-howard</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/gemini">gemini</a>, <a href="https://simonwillison.net/tags/vision-llms">vision-llms</a>, <a href="https://simonwillison.net/tags/groq">groq</a>, <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/long-context">long-context</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/openrouter">openrouter</a></p> 
 
 <br> 
 
@@ -2645,6 +2816,91 @@ File in the “no one tells me anything “ department, I just learned about 25-
 <br> 
 
 <https://interconnected.org/home/2025/04/04/interview>
+
+---
+
+## My first year as a software engineering manager, pt. 1
+
+date: 2025-04-05, from: Matthew Lincoln Blog
+
+<p>Well it’s been over a year since taking on <a href="/2024/01/27/managing">managing the engineering team at JSTOR Labs</a> and I haven’t exactly been posting prolifically on here…
+I think I am just better at knowing how much I don’t know now, compared to when I began this blog.
+I also feel as though I haven’t had a lot original to say that hasn’t been said elsewhere, better.</p>
+
+<p>It’s high time I get this out of my drafts branch, where it’s been stewing for almost 5 months now:
+In no particular order, here’s some things that have been taking up my mind space since 2024:</p>
+
+<h2 id="explicit-over-implicit">Explicit over implicit</h2>
+
+<p>Software developers often talk about the benefits of being explicit vs. implicit.
+This applies a lot in management work, too.</p>
+
+<p>A small thing I pushed for early this year was making our professional development funding process as transparent as possible to the whole Labs team.
+We’d always had a budget for folks for everything from buying books to paying for workshops and classes, and certifications, up to and including tuition towards a degree.
+Whether you were an engineer, a designer, or a product owner, all you had to do was ask your manager.
+<em>But you had to know to ask!</em>
+And it was never spelled out what the range of options was, nor what decisionmaking amongst leadership was about how fund bigger ticket requests like a multi-week training across the many folks in our team - something we can gladly fund, but not for every single person each year.
+So we made sure to write it down in a shared document: every single person gets a modest amount earmarked annually for educational materials, no questions asked.
+For things exceeding that amount, we asked team members to let us know their requests by late January to get priority consideration.</p>
+
+<p>A more difficult adjustment I am still working on making is dealing with the changed nature of my technical advice and suggestions in my new role.
+I am trying to be more disciplined about being <em>explicit</em> when I am suggesting a task or story as something for one of our team to consider, and to be equally explicit when I am instructing the team to add a task to their sprint or move it forward in the priority list.
+It’s important I be able to do both, and to communicate the difference.
+For what it’s worth, the latter directives are quite rare!</p>
+
+<h2 id="prioritize-lower-priority-but-high-importance-code">Prioritize lower priority but high importance code</h2>
+
+<p>Because I now get pulled in a lot of different directions in any given day, I need to keep myself <em>off</em> the critical path for hour-to-hour commits that need to happen on our projects.
+This means I avoid picking up too many application-feature tickets in our sprints.
+The devs on those teams will <em>always</em> be able to work those out faster, and with much better context, than I will.</p>
+
+<p>What I focus on instead is building out or refactoring parts of our codebases that tend to share patterns across our projects: runtime configuration; CICD improvements; logging; dependency upgrades; and the like.</p>
+
+<p>A big part of this has been building out more monitoring - getting our applications to send us better data about how healthy they are, creating dashboards our devs can eyeball to look for behavior patterns,
+as well as push alerts when our services start showing unusual behavior.
+It has also meant gradually aligning our bouquet of different technical experiments into greater alignment with technologies and patterns the rest of ITHAKA’s technology organization is familiar with.</p>
+
+<h2 id="developers-have-user-stories-too">Developers have user stories too</h2>
+
+<p>The engineering teams on our projects are quite small.
+Our very largest has only just grown to three software engineers; our smallest is supported currently by just one.
+We build on the shoulders of ITHAKA’s software deployment platform that supports all of JSTOR, however.
+Therefore we don’t have to invent our own Kubernetes support, routing, CDNs, autoscaling, logging, monitoring, or networking from scratch.
+We get to lean on shared infrastructure teams, and we’ve been learning how to work better with them this past year.</p>
+
+<p>Specifically, we’ve been intentionally working to frame all our asks to the core infrastructure and deployment teams in the form of <em>user stories</em>.
+Developers are used to user stories, usually phrased like:</p>
+
+<blockquote>
+  <p>As a USER ROLE, I want to be able to DO SOME FUNCTION so that I can accomplish SOME OBJECTIVE</p>
+</blockquote>
+
+<p>By phrasing it so, teams can capture what kind of user is asking for this, and what the broader context of that feature will be in their workflow, without prescribing <em>how</em> developers will implement that feature.</p>
+
+<p>It’s easy to forget this when we’re trying to ask our infrastructure teams for advice.</p>
+
+<p>I might say:</p>
+
+<blockquote>
+  <p>How do I create a ConfigMap instance on our Kubernetes cluster from a value that I’ve written in to s3?</p>
+</blockquote>
+
+<p>And our infra team, used to some very heterogeneous tech stacks at ITHAKA, would gamely start trying to work out how best enable that, no matter that it might be an unnecessarily complicated solution to my real underlying need.
+Whereas, if I’d asked:</p>
+
+<blockquote>
+  <p>As a developer on X service, I want my application to read a configuration value from a centrally-managed location on startup so that I can configure every instance to have the correct database host and password.</p>
+</blockquote>
+
+<p>By not overspecifying an implementation, our infra teams could then come back with advice on the most well-supported golden path for that need, before accidentally adding in requirements we don’t actually have.</p>
+
+<hr />
+
+<p>In a follow up to this post, I’ll discuss harder things that happened over this first year: sunsetting several of our projects.</p> 
+
+<br> 
+
+<https://matthewlincoln.net/2025/04/05/first-year-swe-manager-i.html>
 
 ---
 

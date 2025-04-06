@@ -1,11 +1,59 @@
 ---
 title: games
-updated: 2025-04-06 06:07:18
+updated: 2025-04-06 14:08:42
 ---
 
 # games
 
-(date: 2025-04-06 06:07:18)
+(date: 2025-04-06 14:08:42)
+
+---
+
+## Are PC handhelds like Steam Deck really competitors for Switch 2?
+
+date: 2025-04-06, updated: 2025-04-04, from: Polygon Website
+
+When Nintendo launched the Switch in 2017, it had no competition in dedicated handheld gaming, a sector it had established with the Game Boy in 1989 and ruled ever since. Sega had come and gone; Sony, after two determined attempts with the PlayStation Portable and PlayStation Vita, had just about given up. As Switch 2 [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/553131/pc-handhelds-steam-deck-vs-switch-2>
+
+---
+
+## How the Righteous Gemstones brought sci-fi to church with the magic of jetpacks
+
+date: 2025-04-06, updated: 2025-04-06, from: Polygon Website
+
+As it barrels through its characteristically outlandish fourth and final season, Danny McBride’s HBO comedy The Righteous Gemstones has cemented a reputation for itself. Yes, it’s side-splittingly funny. Yes, its “failchildren of a crumbling empire” narrative is surprisingly relevant. Yes, there is a core of sincerity at the center of the madness. But Gemstones’ legacy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/552379/righteous-gemstones-jetpack-scene-interview>
+
+---
+
+## Disney Villains Cursed Café is the Modern AU of my dreams
+
+date: 2025-04-06, updated: 2025-04-04, from: Polygon Website
+
+I did something horrible. I told Jafar, the scheming vizier villain in Disney’s Aladdin, about cryptocurrency, and now he’s determined to get WyshCoin off the ground by selling the luxurious lifestyle associated with the brand. The problem is he’s actually broke, so I need to brew him teleportation potion after teleportation potion so he can [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/review/552799/disney-villains-cursed-cafe-review>
+
+---
+
+## If John Wick director Chad Stahelski ‘could get away with it,’ he’d fully pivot to anime
+
+date: 2025-04-06, updated: 2025-04-04, from: Polygon Website
+
+Tuesday morning, Lionsgate announced that among a trio of new projects in the John Wick universe, there will be an animated prequel movie about the night the master assassin initially broke free from his obligation to the High Table. Intended for “more mature audiences,” the movie will be directed by Shannon Tindle (Ultraman: Rising) and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/anime/551982/chad-stahelski-lazarus-john-wick-animation-interview>
 
 ---
 

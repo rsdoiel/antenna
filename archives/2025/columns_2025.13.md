@@ -1,11 +1,165 @@
 ---
 title: columns
-updated: 2025-04-06 06:07:17
+updated: 2025-04-06 14:08:41
 ---
 
 # columns
 
-(date: 2025-04-06 06:07:17)
+(date: 2025-04-06 14:08:41)
+
+---
+
+## Hear in Near L.A.
+
+date: 2025-04-06, from: Doc Searls (at Harvard), New Old Blog
+
+Just loving the hang time we got yesterday with Tony after two long flights and one short drive from LAX. 
+
+<br> 
+
+<https://doc.searls.com/2025/04/06/hear-in-near-l-a/>
+
+---
+
+##  This Is the Holocaust Story I Said I Wouldn&#8217;t Write by Taffy... 
+
+date: 2025-04-06, updated: 2025-04-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046582-this-is-the-holocaust-sto>
+
+---
+
+##  Photos of the Hands Off! Protests 
+
+date: 2025-04-06, updated: 2025-04-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/photos-of-the-hands-off-protests>
+
+---
+
+##  A rare interview with Tracy Chapman. &#8220;But I grew up across the... 
+
+date: 2025-04-06, updated: 2025-04-06, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046580-a-rare-interview-with-tra>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-06, from: Dave Winer's Scripting News)
+
+I wonder when ChatGPT or Claude.ai will compete with Wikipedia. I think Wikipedia is great but it has always had a weakness in that it can be manipulated to tell a story from a very limited point of view. For example the RSS page has a long section explaining the benefits of Atom. What I like about the AI versions of the basic history of things is that it isn't so easily manipulated. I talked about this with Claude, and asked it to write up a <a href="https://this.how/claudewiki/">proposal for ClaudeWiki</a>, a Wikipedia workalike, not too expensive to run, make it part of a user's $20 per month subscription. I think it would be useful, if only as a demo how Wikipedia itself might improve its service. 
+
+<br> 
+
+<http://scripting.com/2025/04/06.html#a170408>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-06, from: Dave Winer's Scripting News)
+
+A search for <a href="https://daytona.scripting.com/search?q=wordpress">WordPress</a> on this blog tells an interesting story. 
+
+<br> 
+
+<http://scripting.com/2025/04/06.html#a165936>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-06, from: Dave Winer's Scripting News)
+
+If I were designing a social network, I would implement replies differently. When you reply to a post, only the person who wrote the post sees it. If they want they can RT it. The way it works now on all twitter-like systems means most of the replies are basically spam, people using your post as a way to reach people who follow you. 
+
+<br> 
+
+<http://scripting.com/2025/04/06.html#a163805>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-06, from: Dave Winer's Scripting News)
+
+BTW, when you post something on Bluesky it's just a tweet. These things don't need different names on each platform. 
+
+<br> 
+
+<http://scripting.com/2025/04/06.html#a163543>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-06, from: Dave Winer's Scripting News)
+
+I like people who stand up and speak the truth. This is one of the silver linings of this crisis. There's no real advantage at this point in trying to play it safe, to not be noticed. So I like what Chris Murphy, Senator from Connecticut has been saying. 
+
+<br> 
+
+<http://scripting.com/2025/04/06.html#a163058>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-06, from: Dave Winer's Scripting News)
+
+I used to tell friends you can't go wrong buying the S&P 500. The president is rated by now the stock market does, and so over the long haul you can expect steady growth from the S&P 500, and it keeps things really simple. Well, have to say -- that's no longer good advice. Maybe real estate? Outside the United States? I don't know. It depends on what the people of this country do, and if our representatives are listening. 
+
+<br> 
+
+<http://scripting.com/2025/04/06.html#a162836>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-06, from: Dave Winer's Scripting News)
+
+MAGA's goal, it turns out, was the Great Depression. 
+
+<br> 
+
+<http://scripting.com/2025/04/06.html#a143650>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-06, from: Miguel de Icaza Mastondon feed)
+
+<p>If I were applying to college, this would be my application:</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114291406112736885>
+
+---
+
+## April 4, 2025
+
+date: 2025-04-06, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160708779/5b70ec97f345cf6e7c2e3fddbbcdb5a3.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160708779/5b70ec97f345cf6e7c2e3fddbbcdb5a3.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-4-2025-49c>
+
+---
+
+## Massive Crowds Everywhere! And Everywhere You Look, You Will See The True Leaders of This Next Revolution
+
+date: 2025-04-06, from: Michael Moore's blog
+
+Plus &#8212; 36 More Devastatingly Perfect Portraits of Donald Trump... 
+
+<br> 
+
+<https://www.michaelmoore.com/p/massive-crowds-everywhere-and-everywhere>
 
 ---
 
@@ -55,7 +209,7 @@ And btw it could be <a href="https://en.wikipedia.org/wiki/Nuclear_weapons_of_th
 
 ---
 
-## Scores Attend ‘Hands Off’ Protests Across U.S. — and Europe — to Oppose Trump’s Agenda
+## Millions Attend ‘Hands Off’ Protests Across U.S. — and Europe — to Oppose Trump’s Agenda
 
 date: 2025-04-05, updated: 2025-04-06, from: Daring Fireball
 
@@ -474,7 +628,7 @@ Subscription economy suckage. Just made my annual call to The New Yorker, to get
 
 ## ‘Floundering’
 
-date: 2025-04-04, updated: 2025-04-04, from: Daring Fireball
+date: 2025-04-04, updated: 2025-04-06, from: Daring Fireball
 
  
 
@@ -2125,7 +2279,7 @@ date: 2025-04-01, updated: 2025-04-01, from: Jason Kittke's blog
 
 ## [Sponsor] Democracy
 
-date: 2025-04-01, updated: 2025-04-01, from: Daring Fireball
+date: 2025-04-01, updated: 2025-04-06, from: Daring Fireball
 
  
 

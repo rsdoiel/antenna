@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-06 06:07:20
+updated: 2025-04-06 14:08:45
 ---
 
 # retro computing
 
-(date: 2025-04-06 06:07:20)
+(date: 2025-04-06 14:08:45)
+
+---
+
+## b.log 2025/04/06 - Five thousand, Mowing!!!, Coffee capsules, Sad Trump!, Sakura starts! Swallows!, Vegetables, Hovercat.
+
+date: 2025-04-06, from: Richard Murray's blog
+
+Five thousand, Mowing!!!, Coffee capsules, Sad Trump!, Sakura starts! Swallows!, Vegetables, Hovercat. 
+
+<br> 
+
+<https://heyrick.eu/blog/index.php?diary=20250406>
 
 ---
 

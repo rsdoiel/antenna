@@ -1,11 +1,156 @@
 ---
 title: pacific
-updated: 2025-04-06 06:07:15
+updated: 2025-04-06 14:08:39
 ---
 
 # pacific
 
-(date: 2025-04-06 06:07:15)
+(date: 2025-04-06 14:08:39)
+
+---
+
+## ‘We are given more money than we need’: Guam relinquished $1.5M in DVR funds in 2024
+
+date: 2025-04-06, from: Pacific Island Times
+
+By Mar-Vic Cagurangan   While Guam persistently asks for federal funds, the Division of Vocational Rehabilitation has relinquished $1.5... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/we-are-given-more-money-than-we-need-guam-relinquished-1-5m-in-dvr-funds-in-2024>
+
+---
+
+## The strings attached to federal dollars
+
+date: 2025-04-06, from: Pacific Island Times
+
+So the effects are in play. As desired, federal budgets and bureaucracy are being curtailed, so are the jobs. 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/the-strings-attached-to-federal-dollars>
+
+---
+
+## Falling through the cracks: The uncertain future of adults with autism
+
+date: 2025-04-06, from: Pacific Island Times
+
+The financial and emotional challenges parents face, along with the difficulties individuals on the spectrum already experience, unfold in a 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/falling-through-the-cracks-the-uncertain-future-of-adults-with-autism>
+
+---
+
+## Lights, Camera, Career! National gold for UH Community College CTE showcase
+
+date: 2025-04-06, from: University of Hawaiʻi News
+
+<p>Award-winning video series spotlights <abbr>UH</abbr> Community Colleges’ hands-on programs for exciting careers</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/06/national-gold-for-uh-community-college-cte-showcase/">Lights, Camera, Career! National gold for <abbr>UH</abbr> Community College <abbr>CTE</abbr> showcase</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/06/national-gold-for-uh-community-college-cte-showcase/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## Managaha cleanup
+
+date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
+
+On April 2, 2025, the Korea Tour Guide Association, with the help of the Santa Rosa boat, conducted a cleanup at Managaha to help preserve its beautiful environment. The group collected several plastic bottles, dirty bags, tree branches, and other pieces of trash on the island, which is one of the CNMI’s top tourist destinations.  “With the number of tourists decreasing significantly these days, we hope that our small efforts will help promote the beauty of the CNMI,” the group said. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/managaha-cleanup/article_0120eb58-c6c8-4333-8b72-65dcbe0b0d9b.html>
+
+---
+
+## Vice Principals Appreciation Week, April 7-11
+
+date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
+
+Happy Vice Principals Appreciation Week to Admiral Herbert G. Hopwood Middle School's vice principal, Karen Manuel! Thank you for your dedication to our students and their families, our teachers and staff, and creating a positive learning community. Vice principals play a crucial role, and this week is a dedicated time to recognize them for their hard work and commitment to our schools, students, and profession. Please join us in celebrating these incredible school leaders! 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/vice-principals-appreciation-week-april-7-11/article_328408a4-4fce-4c9c-b0d0-b121e48b02ee.html>
+
+---
+
+## US starts collecting Trump’s 10% tariff, smashing global trade norms
+
+date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
+
+WASHINGTON/JUPITER, Florida (Reuters) — U.S. customs agents began collecting President Donald Trump's unilateral 10% tariff on all imports from many countries on Saturday, with higher levies on goods from 57 larger trading partners due to start next week. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/us-starts-collecting-trump-s-10-tariff-smashing-global-trade-norms/article_8ec0da6d-7358-4afe-8e28-9a6fa7e2bde4.html>
+
+---
+
+## ‘The Simpsons,’ ‘Family Guy’ renewed for four seasons at Fox
+
+date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
+
+LOS ANGELES (Reuters) — Animated television sitcoms "The Simpsons," "Family Guy," and "Bob's Burgers" have been renewed for four more seasons on Fox, Fox Entertainment said on Wednesday. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/the-simpsons-family-guy-renewed-for-four-seasons-at-fox/article_8abaa6a2-ed92-49b9-b92d-badf8e46896f.html>
+
+---
+
+## One Beijing man’s quest to keep cooking — and connecting with Americans — on camera
+
+date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
+
+BEIJING (Reuters) — From his kitchen in Beijing, Yu Bo is running a campaign to connect China with America — one slapstick cooking video at a time. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/one-beijing-man-s-quest-to-keep-cooking-and-connecting-with-americans-on-camera/article_598b5899-66a4-4973-8876-beea82ec0225.html>
+
+---
+
+## Poetry
+
+date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
+
+ 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/poetry/article_5455a16e-7631-4787-809a-cb539e4acebf.html>
+
+---
+
+## Jury trial of former chief of parole, co-defendant starts today
+
+date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
+
+THE jury trial of former Chief of Parole Nick M. Reyes and his co-defendant Chuilian Fu, owner of F&amp;S Corporation, will begin today. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/jury-trial-of-former-chief-of-parole-co-defendant-starts-today/article_363e4b90-a9ff-41d5-9fd1-b6fe1c216239.html>
 
 ---
 

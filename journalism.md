@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-04-06 06:07:18
+updated: 2025-04-06 14:08:43
 ---
 
 # journalism
 
-(date: 2025-04-06 06:07:18)
+(date: 2025-04-06 14:08:43)
+
+---
+
+## Lumpia eating showdown: Contestants devour cultural delicacies in a fun-fueled eating competition
+
+date: 2025-04-06, from: The Canyon News (COC Student Newspaper)
+
+<p>In Santa Clarita, Island Pacific Market hosted a Lumpia Eating Contest brought&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/eating-contest/">Lumpia eating showdown: Contestants devour cultural delicacies in a fun-fueled eating competition</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/eating-contest/>
 
 ---
 
@@ -91,7 +105,7 @@ date: 2025-04-05, from: The Canyon News (COC Student Newspaper)
 
 date: 2025-04-05, from: The Daily Bruin (UCLA Student Newspaper)
 
-<em>This post was updated April 5 at 2:46 p.m.</em>
+<em>This post was updated April 6 at 12:38 p.m.</em>
 The United States government has revoked the visas of multiple students across the UC, including at UCLA. 
 
 <br> 
