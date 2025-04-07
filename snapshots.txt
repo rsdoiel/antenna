@@ -268,3 +268,4 @@ https://thelibre.news/rss/ "~Libre News"
 
 https://hakaimagazine.com/feed/ "~Hakai Magazine"
 https://seldo.com/rss.xml "~Laurie Voss blog"
+https://www.noemamag.com/feed/ "~NOEMA Mag."

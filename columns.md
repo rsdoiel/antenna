@@ -1,11 +1,173 @@
 ---
 title: columns
-updated: 2025-04-07 06:08:19
+updated: 2025-04-07 14:10:46
 ---
 
 # columns
 
-(date: 2025-04-07 06:08:19)
+(date: 2025-04-07 14:10:46)
+
+---
+
+##  Rebecca Solnit on the importance of Preaching to The Choir in activism.... 
+
+date: 2025-04-07, updated: 2025-04-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046589-rebecca-solnit-on-the-imp>
+
+---
+
+##  &#8220;If we want to bring the world back from the brink, we... 
+
+date: 2025-04-07, updated: 2025-04-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046588-if-we-want-to-bring>
+
+---
+
+## Why we’ll have a recession
+
+date: 2025-04-07, from: Robert Reich's blog
+
+Trump wants to get it over early in his term, so he and his fellow billionaires can buy up everything cheap and then enjoy the ride upward 
+
+<br> 
+
+<https://robertreich.substack.com/p/why-trump-and-his-billionaires-welcome>
+
+---
+
+##  Tesla&#8217;s Cybertruck Is The Auto Industry&#8217;s Biggest Flop In Decades 
+
+date: 2025-04-07, updated: 2025-04-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/tesla-cybertruck-biggest-flop>
+
+---
+
+##  An editorial in Nature: &#8220;A brain drain would impoverish the United States... 
+
+date: 2025-04-07, updated: 2025-04-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046586-an-editorial-in-nature-a>
+
+---
+
+##  America Is Watching the Rise of a Dual State. &#8220;For most people,... 
+
+date: 2025-04-07, updated: 2025-04-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046585-america-is-watching-the-r>
+
+---
+
+##  Silence is Collaboration: Academics Must Speak Out Against Fascism. &#8220;We will call... 
+
+date: 2025-04-07, updated: 2025-04-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046584-silence-is-collaboration->
+
+---
+
+##  I&#8217;m a Free-Thinking Centrist with Only Right-Wing Ideas. &#8220;I voted for Trump,... 
+
+date: 2025-04-07, updated: 2025-04-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046581-im-a-free-thinking-centri>
+
+---
+
+## 2025-04-07 Galène was comparatively easy to setup
+
+date: 2025-04-07, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-07-galène-was-comparatively-easy-to-setup">2025-04-07 Galène was comparatively easy to setup</h1>
+
+<p>I remember how tricky the Jitsi setup was, at the time. When we used it, system load for my small server jumped up to seven or eight. And in the end, we all ended up on Discord. But with Discord showing annoying ads even to paying customers, I&rsquo;m taking another look at the alternatives.</p>
+
+<p>From my point of view, <a href="https://galene.org/">Galène</a> has the benefits of requiring just a single binary for installation. Sure, deployment is trickier, but in typical Go fashion, you get a huge binary that you copy over to the server and you&rsquo;re essentially ready to test it.</p>
+
+<p>So what did I do?</p>
+
+<p>I created a system user <code>galene</code> with home directory <code>/home/galene</code>. There is no <code>galene</code> group.</p>
+
+<p>This is where the binary lives.</p>
+
+<p>I copied the example <code>galene.service</code> <a href="https://galene.org/INSTALL.html#:~:text=systemd">from the website</a> and adapted it (by changing <code>Group=galene</code> to <code>Group=nogroup</code>).</p>
+
+<p>My Galène installation does not live behind a reverse proxy, so there is no logging of bots trying to access it. Perhaps a problem to solve for later.</p>
+
+<p>I had to add a bunch of lines to my <code>/etc/apache2/hook.sh</code> that runs whenever <code>mod_md</code> gets new certificates. When that happens, Galène also gets a copy, with permissions set appropriately. And it gets restarted.</p>
+
+<p>I created a JSON file to define a single group, making me the operator (with a password), and allowing <a href="https://galene.org/README.html#:~:text=wildcard">wildcard users</a> (all sharing the same password). I handed out this password on the IRC channel we use to chat and hang out.</p>
+
+<p>Should we end up with two dozen people or more, then I&rsquo;ll write a web app to administrate these JSON files via the web. Or if I&rsquo;m feeling evil, I&rsquo;ll add the functionality to administer them to an IRC bot. 😂</p>
+
+<p><a class="tag" href="/search/?q=%23Jitsi">#Jitsi</a> <a class="tag" href="/search/?q=%23Galène">#Galène</a> <a class="tag" href="/search/?q=%23Discord">#Discord</a> <a class="tag" href="/search/?q=%23Administration">#Administration</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-07-galene>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-07, from: Dave Winer's Scripting News)
+
+<a href="https://bsky.app/profile/hillaryclinton.bsky.social/post/3lma3a4rgks2y">Hillary Clinton</a> makes a very important point. "Republicans in Congress can put a stop to this at any time." By this, she means the crashing US economy. And even if you believe they'll "never do it" -- it's still the right thing to repeat this over and over -- people should know they could. This should be repeated until enough people get it, this is being done <i>on purpose</i> by the Repubs. This isn't about winning elections, it's about understanding who's doing this to you and how deliberate it is. 
+
+<br> 
+
+<http://scripting.com/2025/04/07.html#a143224>
+
+---
+
+##  Travel maven Rick Steves made a great hour-long documentary about the history... 
+
+date: 2025-04-07, updated: 2025-04-07, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046583-travel-maven-rick-steves->
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-07, from: Dave Winer's Scripting News)
+
+<img class="imgRightMargin" src="https://s3.amazonaws.com/scripting.com/images/2022/12/15/drummer.png" border="0" style="float: right; padding-left: 25px; padding-bottom: 10px; padding-top: 10px; padding-right: 15px;">A <a href="https://github.com/scripting/drummerSupport/issues/198">question</a> on GitHub: Is OPML the native file format for Drummer? It's better to first <a href="https://imgs.scripting.com/2025/04/07/fileformatScreen.png">use</a> the product or <a href="https://docserver.scripting.com/drummer/about.opml#1633536117000">read</a> the docs or <a href="https://www.google.com/search?q=What+is+the+native+file+format+for+Drummer%3F&rlz=1C5CHFA_enUS743US747&oq=What+is+the+native+file+format+for+Drummer%3F&aqs=chrome..69i57j0i512i546j0i546i649j69i64.10884j0j4&sourceid=chrome&ie=UTF-8">search</a> on web or use an <a href="https://claude.ai/share/08b9de36-bc41-454b-a21d-e2edcc75d094">AI chatbot</a> before getting humans involved. Anyway, the answer is yes, OPML is the native file format of <a href="http://drummer.land/">Drummer</a>. It's the reason we chose <a href="http://opml.org/">OPML</a> as the format for RSS reading lists, so we could edit them in a distant <a href="http://scripting.com/2021/01/21/141332.html?title=twentyYearsAgoInPodcasting#a154217">ancestor</a> of Drummer's whose native file format was also OPML. I tend not to change file formats gratuitously -- it's how you can use different tools to edit your own data. That's a big part of the plan with <a href="https://wordland.social/">WordLand</a>, because the internal file format for drafts is Markdown, you could put any editor alongside that can edit and save text in Markdown, without a glitch. The idea is to create a new platform, editors for WordPress, and have them all interop with each other perfectly from the start. Because WordLand is the first product in this niche, and Markdown is a very safe choice these days (understood to discourage lock-in), I think it's going to be a perfect basis for interop. Learning from past experience and doing it better each time. 
+
+<br> 
+
+<http://scripting.com/2025/04/07.html#a133100>
 
 ---
 

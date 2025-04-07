@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-04-07 06:08:22
+updated: 2025-04-07 14:10:49
 ---
 
 # motorcycles
 
-(date: 2025-04-07 06:08:22)
+(date: 2025-04-07 14:10:49)
+
+---
+
+## Hattori Racing Enterprises Team Owner, Shigeaki ‘Shige’ Hattori, Killed In Car Crash
+
+date: 2025-04-07, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor It’s a sad day for motorsports as NASCAR team owner, Shigeaki “Shige” Hattori was killed in a car crash on Sunday morning in Huntersville, N.C. According&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/hattori-racing-enterprises-team-owner-shigeaki-shige-hattori-killed-in-car-crash/>
+
+---
+
+## Rev’It!’s New Metropolitan Collection Takes Aim At Urban Motorcyclists, and Alpinestars
+
+date: 2025-04-07, from: Ride Apart, Electric Motorcycle News
+
+It's called "fashion". Ever heard of it? 
+
+<br> 
+
+<https://www.rideapart.com/news/755573/revit-metropolitan-collection-launch/>
+
+---
+
+## BMW Recalls Certain M 1000 XR and M 1000 R Motorcycles Due To Steering Damper Fault
+
+date: 2025-04-07, from: Ride Apart, Electric Motorcycle News
+
+This is certainly not what you want on an M model. 
+
+<br> 
+
+<https://www.rideapart.com/news/755684/bmw-recall-m1000xr-m1000r-steering-damper/>
 
 ---
 

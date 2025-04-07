@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-07 06:08:22
+updated: 2025-04-07 14:10:48
 ---
 
 # libraries
 
-(date: 2025-04-07 06:08:22)
+(date: 2025-04-07 14:10:48)
 
 ---
 
@@ -18,6 +18,18 @@ Covatti, Gustavo; Li, Kai-Yun; Podgorski, Joel; Winkel, Lenny H.E.; Berg, Michae
 <br> 
 
 <http://hdl.handle.net/20.500.11850/729458>
+
+---
+
+## Vanishing Culture: Preserving the Library System
+
+date: 2025-04-07, from: Internet Archive Blog
+
+The following guest post from digital librarian and founder of the Internet Archive,&#160;Brewster Kahle,&#160;is part of our&#160;Vanishing Culture&#160;series, highlighting the power and importance of preservation in our digital age.&#160;Read more [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/04/07/vanishing-culture-preserving-the-library-system/>
 
 ---
 

@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-07 06:08:20
+updated: 2025-04-07 14:10:47
 ---
 
 # games
 
-(date: 2025-04-07 06:08:20)
+(date: 2025-04-07 14:10:47)
+
+---
+
+## All ‘Pawmot Drop Event’ cards and best decks in Pokémon TCG Pocket
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+The “Pawmot Drop Event” in&#160;Pokémon TCG Pocket&#160;allows you to battle against computers for a chance to get a full art Pawmot card and a handful of other promo cards. The event is a chance to get promo cards like Bidoof, Machamp, and Floatzel. It started on Monday, April 7, and will run until Thursday, April [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/554020/pawmot-drop-event-cards-best-decks-in-pokemon-tcg-pocket>
+
+---
+
+## One small black dot almost ruined A Goofy Movie
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+For those of us who grew up in the 1990s or early 2000s, A Goofy Movie was everywhere. Substitute teachers showed it during the last lazy days before summer vacation. Disney Channel played it during prime cartoon-watching hours. And friends loaded up the VHS tape during sleepovers. The 1995 blockbuster disappointment deserves the cult classic [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/movies/554432/a-goofy-movie-not-just-a-goof-production>
+
+---
+
+## Win a Switch 2 from Polygon!
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+We cover a lot of things at Polygon, but nothing gets us more excited lately than the Nintendo Switch 2. And now you have a chance to win your very own Switch 2! All you need to do is take a few seconds to submit an entry. If selected, you’ll win a new Switch 2. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/539299/sweepstakes-newsletter-entry-details>
+
+---
+
+## Lego&#8217;s new Minecraft sets include the viral Chicken Jockey scene
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+Lego has just released a pair of new Minecraft sets inspired by scenes from A Minecraft Movie. The Woodland Mansion Fighting Ring is currently available from Amazon or Lego for $49.95, while the slightly larger Ghast Balloon Village Attack is available for $69.99 from Lego or Amazon. The Woodland Mansion Fighting Ring is a 491-piece [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/deals/554246/lego-minecraft-movie-sets-where-to-buy>
+
+---
+
+## Gamers have ‘right to resell’ Roblox accounts and items, PlayerAuctions says
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+PlayerAuctions has responded to Roblox’s February lawsuit, in which the gaming company is looking to shut down the third-party buying and selling of Roblox’s digital goods, in new court documents filed in late March. The company claims in its response that Roblox’s rules preventing asset trading in secondary markets are “fundamentally anti-competitive” and a violation [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/554009/playerauctions-roblox-lawsuit-update>
+
+---
+
+## How to Mega Evolve and get Mega Energy in Pokémon Go
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+Pokémon Go now has Mega Evolution, allowing you to make strong Pokémon and make them even stronger. In this Pokémon Go guide, we’ll show you how to get Mega Energy and use it to power up your Pokémon with Mega Evolution, explaining candy, candy bonus, raids and more along the way. There’s also Primal Reversion, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/22447919/mega-evolution-list-candy-bonus-buddy-raids>
+
+---
+
+## We attempted the silliest challenges possible in Hitman
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+If there’s one thing Polygon Senior Video Producer Patrick Gill is good at, it’s coming up with the perfect quip to say while knocking someone out in Hitman. It’s an innate talent that simply cannot be taught. So when NVIDIA asked if they could send us an ultra powerful gaming machine to highlight their new [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/videos/552494/lets-play-hitman-world-of-assassination-nvidia-gpu-laptop>
+
+---
+
+## Switch 2 game-key cards won’t be account- or console-locked
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+Good news: Switch 2 game-key cards won’t be locked to the first account or console that uses them. “[Game-key cards] will start up on the console or system that it is slotted into, so it’s not tied to an account or anything,” Tetsuya Sasaki, general manager of Nintendo’s technology development division, told GameSpot. Unlike regular [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/554236/switch-2-game-key-card-digital-account-console-lock>
+
+---
+
+## The best Black Ops 6 guns to use in Season 3
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+Three seasons in and the best guns in Black Ops 6 continue to shake up the meta, with plenty of new additions joining the pack. There isn&#8217;t a whole lot of variety here — as usual, the best guns in this Call of Duty game are typically short to mid-range automatic weapons, due to their [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/black-ops-6-guides/470851/best-guns-weapons-meta-bo6>
+
+---
+
+## Netflix’s Black Mirror season 7, The Last of Us season 2, The Pitt finale, and more new TV this week
+
+date: 2025-04-07, updated: 2025-04-04, from: Polygon Website
+
+Hoo boy, is there a lot of new TV this week. Basically everywhere you turn you will find exciting new TV premieres and finales (this is technically true all the time, but we’re talking about more curated stuff for the week). It’s hard to go wrong with any of the options this week. Perhaps the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/tv/24203814/new-netflix-tlou-black-mirror-pitt-hacks>
 
 ---
 

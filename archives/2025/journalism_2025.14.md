@@ -1,11 +1,49 @@
 ---
 title: journalism
-updated: 2025-04-07 06:08:21
+updated: 2025-04-07 14:10:48
 ---
 
 # journalism
 
-(date: 2025-04-07 06:08:21)
+(date: 2025-04-07 14:10:48)
+
+---
+
+## CSUN dance club surprises students with April Fools flash mob
+
+date: 2025-04-07, from: The Sundail (CSUN Student Newspaper)
+
+Those surrounding Sierra Tower could hear the sound of Doechii’s “Catfish,” as Northridge Street Dancers (NSD) performed in an April Fool’s flash mob. Street dancing is widely known for its... 
+
+<br> 
+
+<https://sundial.csun.edu/192281/arts-entertainment/csun-dance-club-surprises-students-with-april-fools-flash-mob/>
+
+---
+
+## Entertainment Unscripted: Hannah Colburn
+
+date: 2025-04-07, from: The Daily Bruin (UCLA Student Newspaper)
+
+In the premiere episode of Entertainment Unscripted, host Mia Fernandez sits down with filmmaker and content creator Hannah Colburn &#8211; known online as thathannahshow &#8211; to talk about breaking into the entertainment industry, creating viral behind-the-scenes content and navigating the world of independent filmmaking. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/07/entertainment-unscripted-hannah-colburn/>
+
+---
+
+## The Castaic Animal Care Center is making an effort for animals in need of a home
+
+date: 2025-04-07, from: The Canyon News (COC Student Newspaper)
+
+<p>Last weekend, the Animal Care Center in Castaic hosted its spring fling&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/castaic-animal-care-center/">The Castaic Animal Care Center is making an effort for animals in need of a home</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/castaic-animal-care-center/>
 
 ---
 

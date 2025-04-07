@@ -1,23 +1,180 @@
 ---
 title: socal north
-updated: 2025-04-07 06:08:17
+updated: 2025-04-07 14:10:43
 ---
 
 # socal north
 
-(date: 2025-04-07 06:08:17)
+(date: 2025-04-07 14:10:43)
 
 ---
 
-## Best things to do this week in LA and SoCal: April 7 - 10
+## City of Santa Clarita Presents “Fortitude” by Sena Clara Creston
 
-date: 2025-04-07, updated: 2025-04-07, from: The LAist
+date: 2025-04-07, from: City of Santa Clarita
 
-Wet Leg plays an intimate show at The River, Gretchen Rubin on adulting at Live Talks L.A., a toy-inspired art show, National Beer Day and more of the best things to do this week. 
+<p>The City of Santa Clarita announces Fortitude, a solo photographic exhibition by artist Sena Clara Creston, on view at the Canyon Country Community Center through June 30, 2025. This immersive exhibition showcases a striking series of photographs capturing impromptu driftwood huts constructed on California beaches, examining the relationship between human shelter and nature’s unpredictability. Through [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/07/city-of-santa-clarita-presents-fortitude-by-sena-clara-creston/">City of Santa Clarita Presents &#8220;Fortitude&#8221; by Sena Clara Creston</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
 
 <br> 
 
-<https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-southern-california-april-7-10>
+<https://santaclarita.gov/blog/2025/04/07/city-of-santa-clarita-presents-fortitude-by-sena-clara-creston/>
+
+---
+
+## Wall Street leaders warn of harsh economic consequences from Trump's tariffs
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+The business sector has tried to avoid criticizing Trump in public and welcomed his vows of lower taxes and deregulation, but the market sell-off appears to have loosened more tongues on Wall Street. 
+
+<br> 
+
+<https://laist.com/news/wall-street-leaders-warn-of-harsh-economic-consequences-from-trumps-tariffs>
+
+---
+
+## Judge sides with Huntington Beach in voter ID case. Here's what it means
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Huntington Beach’s voter ID rule is set to go into effect in 2026, but the city has yet to specify whether or how it would implement it. 
+
+<br> 
+
+<https://laist.com/news/politics/judge-sides-with-huntington-beach-voter-id-case>
+
+---
+
+## Woman dies after driver crashes into her car at high speed, Long Beach police say
+
+date: 2025-04-07, from: Longbeach Post
+
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said the crash happened when she tried to turn left at Atlantic Avenue and Harding Street.</p>
+<p>The post <a href="https://lbpost.com/news/crime/woman-dies-after-driver-crashes-into-her-car-at-high-speed-long-beach-police-say">Woman dies after driver crashes into her car at high speed, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/woman-dies-after-driver-crashes-into-her-car-at-high-speed-long-beach-police-say>
+
+---
+
+## Canadians pull back on travel to California because of Trump: ‘I will miss the desert’
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Canada has been the No. 2 source of international travel to California, but there are already signs that point to a change. 
+
+<br> 
+
+<https://laist.com/news/canadians-pull-back-on-travel-to-california-trump>
+
+---
+
+## Heat wave is bearing down on Southern California this week
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Temperatures into the 90s are expected to hit Wednesday through Friday. LA and the rest of SoCal should be closer to normal April weather by Sunday. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/heat-wave-southern-california-this-week>
+
+---
+
+## Can California vets claw back another cat declawing ban? Lawmakers are trying
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Five different measures to ban claw declawing surgery have died in the Legislature since 2018. Lawmakers are trying again this year, despite lobbying by state veterinarians. 
+
+<br> 
+
+<https://laist.com/news/politics/can-california-vets-claw-back-another-cat-declawing-ban-lawmakers-are-trying>
+
+---
+
+## Egg-Straordinary Fun Awaits at the Splash N’ Dash Egg Hunt!
+
+date: 2025-04-07, from: City of Santa Clarita
+
+<p>Get ready for an egg hunt like no other – the Splash N’ Dash at the Santa Clarita Aquatic Center, presented by Kaiser Permanente (20850 Centre Pointe Parkway)! Taking place on Saturday, April 19, at 10:00 a.m. at the Waterslide Pool, hundreds of eggs will rush down the slide and into the water for kids [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/07/egg-straordinary-fun-awaits-at-the-splash-n-dash-egg-hunt/">Egg-Straordinary Fun Awaits at the Splash N&#8217; Dash Egg Hunt!</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/07/egg-straordinary-fun-awaits-at-the-splash-n-dash-egg-hunt/>
+
+---
+
+## Can California vets claw back another cat declawing ban? Lawmakers are trying
+
+date: 2025-04-07, from: Longbeach Post
+
+<figure><img width="1024" height="564" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-1024x564.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-1024x564.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-300x165.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-768x423.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-400x220.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Five different measures to ban declawing surgery have died in the Legislature since 2018. Lawmakers are trying again this year, despite lobbying by state veterinarians.</p>
+<p>The post <a href="https://lbpost.com/news/politics/can-california-vets-claw-back-another-cat-declawing-ban-lawmakers-are-trying">Can California vets claw back another cat declawing ban? Lawmakers are trying</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/can-california-vets-claw-back-another-cat-declawing-ban-lawmakers-are-trying>
+
+---
+
+## How does deportation work, and how much does it cost? We break it down
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Here's how immigration experts and lawyers who reviewed government documents break down the steps and associated costs of the U.S. deportation process. 
+
+<br> 
+
+<https://laist.com/news/politics/deportation-explained-steps-costs-breakdown>
+
+---
+
+## Freedom of speech is shifting under the Trump administration. We're exploring how
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Many Americans worry freedom of speech is fading, while others feel empowered to say what they want. NPR's Morning Edition, which airs on LAist 89.3 FM, explores this dynamic in a new series, The State of the First Amendment. 
+
+<br> 
+
+<https://laist.com/news/politics/freedom-of-speech-trump-administration-changes>
+
+---
+
+## Whale dies after spending days stuck in Long Beach harbor
+
+date: 2025-04-07, from: Longbeach Post
+
+<figure><img width="1024" height="694" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07071558/minke-whale-noass-583095-1gkpt0kq-584201-LSeK1bik-e1744035395908-1024x694.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07071558/minke-whale-noass-583095-1gkpt0kq-584201-LSeK1bik-e1744035395908-1024x694.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07071558/minke-whale-noass-583095-1gkpt0kq-584201-LSeK1bik-e1744035395908-300x203.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07071558/minke-whale-noass-583095-1gkpt0kq-584201-LSeK1bik-e1744035395908-768x520.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07071558/minke-whale-noass-583095-1gkpt0kq-584201-LSeK1bik-e1744035395908-159x108.webp 159w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07071558/minke-whale-noass-583095-1gkpt0kq-584201-LSeK1bik-e1744035395908-400x271.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07071558/minke-whale-noass-583095-1gkpt0kq-584201-LSeK1bik-e1744035395908.webp 1190w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The whale was discovered dead Sunday morning, and experts were examining the body for potential injuries or illnesses.</p>
+<p>The post <a href="https://lbpost.com/news/minke-whale-dead-harbod-long-beach">Whale dies after spending days stuck in Long Beach harbor</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/minke-whale-dead-harbod-long-beach>
+
+---
+
+## U.S. stocks are volatile as selloffs sweep through global markets
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Shares dropped around the world Monday as higher U.S. tariffs and a backlash from Beijing triggered massive sell-offs. Trump has defended the tariffs: "You have to take medicine to fix something." 
+
+<br> 
+
+<https://laist.com/news/global-stock-markets-in-meltdown-on-fears-over-trump-tariffs>
 
 ---
 
@@ -30,6 +187,18 @@ Supercomputers, drones and sensors are all being deployed to help firefighters o
 <br> 
 
 <https://laist.com/news/climate-environment/the-human-element-is-still-key-in-detecting-wildfires-but-new-tech-is-aiding-the-fight>
+
+---
+
+## Best things to do this week in LA and SoCal: April 7 - 10
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Wet Leg plays an intimate show at The River, Gretchen Rubin on adulting at Live Talks L.A., a toy-inspired art show, National Beer Day and more of the best things to do this week. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-los-angeles-southern-california-april-7-10>
 
 ---
 
@@ -133,7 +302,7 @@ The import tax has already triggered big moves by automakers, from layoffs to su
 
 date: 2025-04-06, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/22100346/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>It happened around 7:30 p.m. Saturday in the 400 block of Shoreline Village Drive, police said.</p>
 <p>The post <a href="https://lbpost.com/news/crime/shoreline-village-stabbing-long-beach-police">Man stabbed during argument at Shoreline Village, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

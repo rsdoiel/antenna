@@ -1,11 +1,87 @@
 ---
 title: pacific
-updated: 2025-04-07 06:08:17
+updated: 2025-04-07 14:10:44
 ---
 
 # pacific
 
-(date: 2025-04-07 06:08:17)
+(date: 2025-04-07 14:10:44)
+
+---
+
+## Q&A: Shidler alum leads Prince Waikīkī, Hawaiʻi Prince Golf Club
+
+date: 2025-04-07, from: University of Hawaiʻi News
+
+<p>Sean Ganhinhin earned his bachelor’s degree in travel industry management from <abbr>UH</abbr> Mānoa.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/07/shidler-alum-sean-ganhinhin/">Q&A: Shidler alum leads Prince Waikīkī, Hawaiʻi Prince Golf Club</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/07/shidler-alum-sean-ganhinhin/>
+
+---
+
+## Innovative CO₂ removal monitoring device earns student team $10K top prize
+
+date: 2025-04-07, from: University of Hawaiʻi News
+
+<p>They are now trying to make this concept a reality, having secured additional funding to develop a prototype this coming summer.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/07/innovative-co2-removal-monitoring-device/">Innovative <abbr>CO</abbr>₂ removal monitoring device earns student team $10<abbr>K</abbr> top prize</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/07/innovative-co2-removal-monitoring-device/>
+
+---
+
+## Marianas reunification revisited
+
+date: 2025-04-07, from: Pacific Island Times
+
+Guam and the CNMI are part of the same Marianas archipelago and share the same historical and cultural backgrounds, but each has a distinct  
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/marianas-reunification-revisited>
+
+---
+
+## DEI rollbacks and VA cuts: What’s next for Micronesian veterans?
+
+date: 2025-04-07, from: Pacific Island Times
+
+The per capita enlistment rate in the U.S. military for citizens of the freely associated states (Palau, the Marshall Islands and the Federa 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/dei-rollbacks-and-va-cuts-what-s-next-for-micronesian-veterans>
+
+---
+
+## $1M endowment supports UH Mānoa anthropology faculty, grad students
+
+date: 2025-04-07, from: University of Hawaiʻi News
+
+<p>Jack Bilmes and Alice Dewey are former professors in the <abbr>UH</abbr> Mānoa College of Social Sciences.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/07/endowment-supports-anthropology/">$1<abbr>M</abbr> endowment supports <abbr>UH</abbr> Mānoa anthropology faculty, grad students</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/07/endowment-supports-anthropology/>
+
+---
+
+## Lower tuition rates make UH Community College summer classes more affordable
+
+date: 2025-04-07, from: University of Hawaiʻi News
+
+<p><span aria-label="Hawaii">Hawai&#699;i</span> residents can save money and earn credits faster with <abbr title="University of Hawaii">UH</abbr> Community Colleges’ summer courses.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/07/lower-tuition-rates-uh-community-college-summer-classes/">Lower tuition rates make <abbr>UH</abbr> Community College summer classes more affordable</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/07/lower-tuition-rates-uh-community-college-summer-classes/>
 
 ---
 
