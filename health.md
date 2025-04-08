@@ -1,11 +1,47 @@
 ---
 title: health
-updated: 2025-04-07 14:10:50
+updated: 2025-04-08 06:10:04
 ---
 
 # health
 
-(date: 2025-04-07 14:10:50)
+(date: 2025-04-08 06:10:04)
+
+---
+
+## People’s CDC COVID-19 Weather Report
+
+date: 2025-04-08, from: People's CDC
+
+This is the People’s CDC bi-weekly update for April 7, 2025! This Very Brief Weather Report from the People’s CDC sheds light on the ongoing COVID pandemic and other public health crises in the US.  
+
+<br> 
+
+<https://peoplescdc.org/2025/04/07/peoples-cdc-covid-19-weather-report-95/>
+
+---
+
+## Editorial: Papillomaviruses, immunity, and tumour development
+
+date: 2025-04-08, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1599910>
+
+---
+
+## A retrospective analysis comparing metagenomic next-generation sequencing with conventional microbiology testing for the identification of pathogens in patients with severe infections
+
+date: 2025-04-08, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe application value of metagenomic next-generation sequencing (mNGS) in detecting pathogenic bacteria was evaluated to promote the rational and accurate use of antibiotics. A total of 180 patients with severe infections were included in this study.MethodsBased on their different symptoms, bronchoalveolar lavage fluid (BALF) or blood samples were collected for conventional microbiological testing (CMT) and mNGS.ResultsThe results indicated that the etiological diagnosis rate of mNGS (78.89%) was significantly higher than that of CMT (20%) (p<0.001). Notably, mNGS exhibited greater sensitivity towards rare pathogens such as Chlamydia pneumoniae, Mycobacterium tuberculosis complex, and Legionella pneumophila, which were undetectable by CMT. Additionally, 64 cases underwent blood culture, BALF culture, and mNGS testing. Analysis revealed that the positive rate of blood culture (3.1%) was lower than that of BALF (25%), and the positive rate of CMT from both types was significantly lower than that of mNGS (89.1%) (p<0.001). In this study, 168 mNGS results were accepted, and 116 patients had their antibiotic therapy adjustment based on mNGS. Paired analysis indicated that white blood cell count (WBC), procalcitonin (PCT), C-reactive protein (CRP), and neutrophil (NEU) percentage provided valuable therapeutic guidance. The survival rate of patients was 55.36%, influenced by patient physical condition and age.DiscussionOur data indicated that mNGS had significant auxiliary value in the clinical diagnosis and treatment for critically ill patients, especially for those with negative CMT results and clinically undefined infections. mNGS could broaden the detection scope, especially for special pathogens, and improve the detection rate, providing powerful assistance for early clinical diagnosis and treatment. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1530486>
 
 ---
 

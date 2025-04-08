@@ -1,11 +1,146 @@
 ---
 title: north america
-updated: 2025-04-07 14:10:42
+updated: 2025-04-08 06:09:57
 ---
 
 # north america
 
-(date: 2025-04-07 14:10:42)
+(date: 2025-04-08 06:09:57)
+
+---
+
+## Why are oil prices plummeting? Hint: it’s not just tariffs.
+
+date: 2025-04-08, from: Market Place
+
+When the economy slows down, the price of oil tends to fall. But this time, OPEC+ is  increasing production despite weak demand. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/08/oil-prices-fell-trump-tariffs/>
+
+---
+
+## Words & Phrases We Could Do Without
+
+date: 2025-04-08, from: The Contrarian
+
+The anti-DEI crusade is about cementing white male dominance 
+
+<br> 
+
+<https://contrarian.substack.com/p/words-and-phrases-we-could-do-without-ccd>
+
+---
+
+## Is the tide turning against Trump’s tariffs?
+
+date: 2025-04-08, from: Market Place, Make me Smart
+
+<p>Markets are still reeling after President Donald Trump announced sweeping tariffs last week, and <a href="https://www.wsj.com/politics/policy/wall-street-starts-to-speak-out-against-trumps-tariffs-c747f806">business leaders</a>, including JPMorgan Chase CEO Jamie Dimon, are speaking out. Kai Ryssdal is back from vacation, and he&#8217;s not impressed. Get ready for a rant. Plus, the conservative and libertarian groups splitting from Trump over his trade policies. And, our thoughts on last weekend&#8217;s nationwide &#8220;Hands-Off!&#8221; protests.</p>
+<p>Here’s everything we talked about today:</p>
+<ul>
+<li><a href="https://www.wsj.com/economy/jamie-dimon-warns-tariffs-will-raise-prices-slow-growth-8b82baaf">“JPMorgan CEO Jamie Dimon Warns Tariffs Will Raise Prices, Slow Growth”</a> from The Wall Street Journal</li>
+<li><a href="https://www.cnbc.com/2025/01/22/jamie-dimon-on-trumps-tariffs-get-over-it.html">“Jamie Dimon says Trump&#8217;s tariff policy is positive for national security so people should &#8216;get over it&#8217;“</a> from CNBC</li>
+<li><a href="https://cei.org/news_releases/new-tariffs-could-spell-major-trouble-for-global-economy-cei-analysis/">“New tariffs could spell major trouble for global economy”</a> from the Competitive Enterprise Institute</li>
+<li><a href="https://www.aei.org/op-eds/trumps-tariffs-are-an-economic-emergency-for-americans/">“Trump’s Tariffs Are an Economic Emergency for Americans”</a> from the American Enterprise Institute</li>
+<li><a href="https://www.cato.org/commentary/brace-impact-america-trumps-tariffs-will-soon-hit-bank-accounts#">“Brace for Impact, America. Trump’s Tariffs Will Soon Hit Your Bank Accounts”</a> from the Cato Institute</li>
+</ul>
+<p>Got a question or comment for the hosts? Email makemesmart@marketplace.org or leave us a voicemail at 508-U-B-SMART.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/04/07/mms_20250407_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fis-the-tide-turning-against-trumps-tariffs&awCollectionId=mkp-MMsmrt"></source>
+</audio> <a href="https://pscrb.fm/rss/p/mgln.ai/e/5/dts.podtrac.com/redirect.mp3/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/make_me_smart/2025/04/07/mms_20250407_MMS_128.mp3?awEpisodeId=https%3A%2F%2Fwww.marketplace.org%2Fshows%2Fmake-me-smart%2Fis-the-tide-turning-against-trumps-tariffs&awCollectionId=mkp-MMsmrt" target="_blank">download audio/mpeg</a><br> 
+
+<https://www.marketplace.org/shows/make-me-smart/is-the-tide-turning-against-trumps-tariffs>
+
+---
+
+## Uncertainty about tariffs “hits people in their jobs”
+
+date: 2025-04-07, from: Market Place
+
+At the end of the day, consumers need jobs and stable income, says labor economist Elizabeth Crofoot of Lightcast.
+ 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/07/uncertainty-about-tariffs-hit-people-in-their-jobs/>
+
+---
+
+## Evening Roundup, April 7
+
+date: 2025-04-07, from: The Contrarian
+
+Featuring Pablo Torre & Jen Rubin; Brian O'Neill; Dr. Brian Klaas & Jen Rubin; Elaine Weiss; Sen. Angus King & Jen Rubin; Marvin Kalb; Stephen Richer; Owen Pence; and Michael de Adder 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-7>
+
+---
+
+## Europe’s carmakers already caught in crossfire of trade war
+
+date: 2025-04-07, from: Market Place
+
+Companies may have to shift more production to the U.S. or sales to other countries. Coordination among partners, though, may be difficult. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/07/eu-carmakers-trade-war-crossfire-vehicles-automaker-cars-imports-tariffs-european/>
+
+---
+
+## What falling copper prices mean for the global economy
+
+date: 2025-04-07, from: Market Place
+
+Copper prices rose rapidly a few weeks ago, ahead of further tariff announcements. But the metal ended up on a short list of goods exempted from import taxes. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/07/copper-prices-global-economy-market/>
+
+---
+
+## So far, 2-year Treasury yields show slowdown fears beating inflation fears
+
+date: 2025-04-07, from: Market Place
+
+High tariffs could spur inflation and hold back employment, pulling the Federal Reserve in different directions on interest rates. 
+
+<br> 
+
+<https://www.marketplace.org/2025/04/07/so-far-2-year-treasury-yields-show-slowdown-fears-beating-inflation-fears/>
+
+---
+
+## Take Your Ball and Go Home: Sportswriter Pablo Torre and Jen Rubin on Trump’s failed Appropriation of Sports
+
+date: 2025-04-07, from: The Contrarian
+
+&#8220;We&#8217;re seeing so much B.S. on sports from this White House that it infuriates anyone who actually knows sports&#8221; 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160816416/49fb4c5dc3f67863f3fac1a558f31256.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160816416/49fb4c5dc3f67863f3fac1a558f31256.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/take-your-ball-and-go-home-sportswriter>
+
+---
+
+## One Day that Shook the World
+
+date: 2025-04-07, from: The Contrarian
+
+By Marvin Kalb 
+
+<br> 
+
+<https://contrarian.substack.com/p/one-day-that-shook-the-world>
 
 ---
 
@@ -25,7 +160,7 @@ Her appreciation of the Black women who came before and her support of those who
 
 date: 2025-04-07, from: Market Place
 
-Shoe making has been shifting to countries like Vietnam, Cambodia and Indonesia, but China is still a leading footwear manufacturer. 
+Shoemaking has been shifting to countries like Vietnam, Cambodia and Indonesia, but China is still a leading footwear manufacturer. 
 
 <br> 
 

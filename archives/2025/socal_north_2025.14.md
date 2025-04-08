@@ -1,11 +1,90 @@
 ---
 title: socal north
-updated: 2025-04-07 14:10:43
+updated: 2025-04-08 06:09:57
 ---
 
 # socal north
 
-(date: 2025-04-07 14:10:43)
+(date: 2025-04-08 06:09:57)
+
+---
+
+## Sylmar Soccer Coach Faces Possible Death Sentence if Convicted of Killing 13-Year-Old Oscar Omar Hernandez
+
+date: 2025-04-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
+
+<p>Police are Asking for Other Possible Victims to Come Forward This afternoon, LA County District Attorney Nathan Hochman announced a murder charge with special circumstances against 43-year-old Mario Edgardo Garcia [&#8230;]</p>
+<p>The post <a href="https://sanfernandosun.com/2025/04/07/sylmar-soccer-coach-faces-possible-death-sentence-if-convicted-of-killing-13-year-old-oscar-omar-hernandez/">Sylmar Soccer Coach Faces Possible Death Sentence if Convicted of Killing 13-Year-Old Oscar Omar Hernandez</a> appeared first on <a href="https://sanfernandosun.com">The San Fernando Valley Sun</a>.</p>
+ 
+
+<br> 
+
+<https://sanfernandosun.com/2025/04/07/sylmar-soccer-coach-faces-possible-death-sentence-if-convicted-of-killing-13-year-old-oscar-omar-hernandez/>
+
+---
+
+## State accuses food bank of decade-long scheme to enrich board members, ex-CEO
+
+date: 2025-04-08, from: Longbeach Post
+
+<figure><img width="1024" height="534" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-1024x534.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-1024x534.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-300x157.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-768x401.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-192x100.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-400x209.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A lawsuit alleges that millions of dollars were diverted to pay for self-dealing contracts, a sham job for a family member, and personal items like smart watches and cell phones.</p>
+<p>The post <a href="https://lbpost.com/news/food-bank-southern-california-scheme-lawsuit-enrich-attorney-general">State accuses food bank of decade-long scheme to enrich board members, ex-CEO</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/food-bank-southern-california-scheme-lawsuit-enrich-attorney-general>
+
+---
+
+## This LA County program can prevent homelessness — if it can convince people it’s not a scam
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+Despite being offered help with rent, debt and medical care, nearly half the people contacted by a county homelessness prevention program never call back. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-county-homelessness-prevention-unit-ai-outreach-california-policy-lab>
+
+---
+
+## Could 800 homes be headed for this coastal stretch of Huntington Beach?
+
+date: 2025-04-07, updated: 2025-04-08, from: The LAist
+
+The stretch of seaside Orange County has been the site of oil production for nearly 100 years. But the oil company that owns it wants to redevelop the land for housing, a hotel and other commercial uses. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/could-800-homes-be-headed-for-this-coastal-stretch-of-huntington-beach>
+
+---
+
+## Deadline looms in case of Maryland man's wrongful deportation to El Salvador
+
+date: 2025-04-07, updated: 2025-04-07, from: The LAist
+
+The Supreme Court has paused a deadline to return a Maryland man who was mistakenly deported to El Salvador, after a federal district judge ordered the administration to bring him back by tonight. 
+
+<br> 
+
+<https://laist.com/news/deadline-looms-in-case-of-maryland-mans-wrongful-deportation-to-el-salvador>
+
+---
+
+## 2025 Cowboy Festival Road Closure, Parking and Public Transportation Details
+
+date: 2025-04-07, from: City of Santa Clarita
+
+<p>The 29th Annual Santa Clarita Cowboy Festival makes its anticipated return to William S. Hart Park (24141 Newhall Avenue) this upcoming weekend! Residents are encouraged to prepare for road closures around the event site and plan transportation accordingly for Saturday, April 12 and Sunday, April 13.  The 2025 Cowboy Festival, taking place at William S. [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/07/2025-cowboy-festival-road-closure-parking-and-public-transportation-details/">2025 Cowboy Festival Road Closure, Parking and Public Transportation Details</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/07/2025-cowboy-festival-road-closure-parking-and-public-transportation-details/>
 
 ---
 
@@ -51,7 +130,7 @@ Huntington Beach’s voter ID rule is set to go into effect in 2026, but the cit
 
 date: 2025-04-07, from: Longbeach Post
 
-<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="664" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-300x195.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1024x664.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-768x498.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-166x108.jpg 166w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1536x997.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1200x779.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-1568x1017.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/03/17181537/1212-Chase-199-400x260.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Police said the crash happened when she tried to turn left at Atlantic Avenue and Harding Street.</p>
 <p>The post <a href="https://lbpost.com/news/crime/woman-dies-after-driver-crashes-into-her-car-at-high-speed-long-beach-police-say">Woman dies after driver crashes into her car at high speed, Long Beach police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -116,7 +195,7 @@ date: 2025-04-07, from: City of Santa Clarita
 
 date: 2025-04-07, from: Longbeach Post
 
-<figure><img width="1024" height="564" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-1024x564.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-1024x564.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-300x165.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-768x423.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-400x220.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="564" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-1024x564.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-1024x564.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-300x165.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-768x423.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-192x106.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA-400x220.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/15123749/15jul24-cats-4-498194-njjmuwy6-984826-Szm1gDGA.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Five different measures to ban declawing surgery have died in the Legislature since 2018. Lawmakers are trying again this year, despite lobbying by state veterinarians.</p>
 <p>The post <a href="https://lbpost.com/news/politics/can-california-vets-claw-back-another-cat-declawing-ban-lawmakers-are-trying">Can California vets claw back another cat declawing ban? Lawmakers are trying</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -166,7 +245,7 @@ date: 2025-04-07, from: Longbeach Post
 
 ---
 
-## U.S. stocks are volatile as selloffs sweep through global markets
+## US stocks are volatile as selloffs sweep through global markets
 
 date: 2025-04-07, updated: 2025-04-07, from: The LAist
 
@@ -315,7 +394,7 @@ date: 2025-04-06, from: Longbeach Post
 
 ## A second life for Altadena’s burned trees  as lumber that stays local
 
-date: 2025-04-06, updated: 2025-04-06, from: The LAist
+date: 2025-04-06, updated: 2025-04-07, from: The LAist
 
 The Altadena Reciprocity Project aims to keep trees from burn sites in the community after the Eaton Fire. 
 

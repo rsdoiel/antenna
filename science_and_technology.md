@@ -1,11 +1,191 @@
 ---
 title: science and technology
-updated: 2025-04-07 14:10:45
+updated: 2025-04-08 06:09:59
 ---
 
 # science and technology
 
-(date: 2025-04-07 14:10:45)
+(date: 2025-04-08 06:09:59)
+
+---
+
+## Scattered Spider stops the Rickrolls, starts the RAT race
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Despite arrests, eight-legged menace targeted more victims this year</h4> <p>Despite several arrests last year, Scattered Spider&#39;s social engineering attacks are continuing into 2025 as the cybercrime collective targets high-profile organizations and adds another phishing kit to its arsenal along with a new version of Spectre RAT malware.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/scattered_spider_updates/>
+
+---
+
+## NASA Welcomes Bangladesh as Newest Artemis Accords Signatory
+
+date: 2025-04-08, from: NASA breaking news
+
+Following a signing ceremony Tuesday in Bangladesh’s capital city of Dhaka, NASA congratulates Bangladesh as the 54th nation to commit to the safe and responsible exploration of space that benefits humanity. “We are thrilled by Bangladesh’s signature of the Accords,” said NASA acting Administrator Janet Petro. “Bangladesh affirms its role in shaping the future of [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-welcomes-bangladesh-as-newest-artemis-accords-signatory/>
+
+---
+
+## UALink debuts its first AI interconnect spec – usable in just 18 short months
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>No-Nvidia networking club is banking on you running different GPUs on one network</h4> <p>The Ultra Accelerator Link Consortium has delivered its first GPU interconnect specification: UALink 200G 1.0.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/ualink_200g_version_1/>
+
+---
+
+## Procter &amp; Gamble study finds AI could help make Pringles tastier, spice up Old Spice, sharpen Gillette
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Go on, then, knock yourself out, pal</h4> <p>Procter &amp; Gamble says organizations should rethink how they&#39;re run to take better advantage of innovation enabled by generative AI.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/procter_gamble_finds_ai_improves_teamwork/>
+
+---
+
+## Boffins turn Moon dirt into glass for solar panels, eye future lunar base power
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Lugging a solar furnace to melt it could slash the need to launch bulky power gear from Earth</h4> <p>You&#39;ve perhaps heard of using Moon dirt for building roads and other structures for future lunar explorers. But a group of German scientists reckon they&#39;ve found another use for the grey stuff: Turn it into glass and use it to assemble solar power cells right there on the Moon.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/melted_moon_dust/>
+
+---
+
+## IBM's z17 mainframe – now with 7.5x more AI performance
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Who wouldn&#39;t want predictive business insights in a week like this? (We jest, it can&#39;t solve for Trump tariffs)</h4> <p>IBM&#39;s latest mainframe builds on the platform&#39;s traditional attributes of security and reliability for mission-critical workloads, adding AI to support large language models (LLMs), assistants, and agents.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/ibm_z17_update/>
+
+---
+
+## NASA Astronaut, Crewmates Arrive Safely at Space Station
+
+date: 2025-04-08, from: NASA breaking news
+
+NASA astronaut Jonny Kim, accompanied by Roscosmos cosmonauts Sergey Ryzhikov and Alexey Zubritsky, arrived at the International Space Station on Tuesday, bringing the number of residents to 10 for the next two weeks. The Soyuz MS-27 spacecraft carrying Kim, Ryzhikov, and Zubritsky docked to the Prichal module at 4:57 a.m. EDT, following a three-hour, two-orbit [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-crewmates-arrive-safely-at-space-station/>
+
+---
+
+## Brit universities told to keep up the world-class research with less cash
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Government boasts of £14B in R&amp;D spending, but grant body takes £300M hit</h4> <p>Despite ambitions to position itself as a science and tech superpower, the UK has cut the budget for the government body responsible for university research funding.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/ukri_funding_cuts/>
+
+---
+
+## UK data watchdog seeks fresh blood as more complaints lie unanswered for up to a year
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Multiple red-rated performance metrics blamed on inability to answer rising numbers of data protection worries</h4> <p>The UK&#39;s data protection watchdog is recruiting more warm bodies to tackle its red-rated backlog of unresolved complaints.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/ico_recruitment_drive/>
+
+---
+
+## Eight charged with corruption, money laundering, in case linked to Huawei lobbying
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Chinese tech giant has fired two staff, but Europe&#39;s anti-fraud org isn&#39;t probing</h4> <p>European authorities last week charged eight people with offenses including corruption and money laundering linked to the European Parliament – and perhaps also to Huawei.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/belgium_arrests_huawei_raid_links/>
+
+---
+
+## Samsung trumps USA's tariffs by making displays in Mexico, and elsewhere if needed
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>May also have fixed AI memory biz if better-than-expected revenue guidance is anything to go by</h4> <p><strong>World War Fee</strong>  Samsung Electronics doesn’t fear the impact of the USA’s new tariffs regime on its displays business because it makes many of them in Mexico, according to Yong Seok-woo, president and head the company’s visual display business,…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/samsung_q1_2025_tariff_response/>
+
+---
+
+## As CISA braces for more cuts, threat intel sharing takes a hit
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Will &#39;gutting&#39; the civilian defense agency make American cybersecurity great again?</h4> <p><strong>Analysis</strong>  Slashing staff at the US govt&#39;s Cybersecurity and Infrastructure Security Agency, aka CISA, and scrapping vital programs, isn’t exactly boosting national security, say infosec and national security officials watching America’s digital defenses unravel in real time.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/cisa_cuts_threat_intel/>
+
+---
+
+## Oracle says its cloud was in fact compromised
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Reliability, honesty, accuracy. And then there&#39;s this lot</h4> <p>Oracle has briefed some customers about a successful intrusion into its public cloud, as well as the theft of their data, after previously denying it had been compromised.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/oracle_cloud_compromised/>
+
+---
+
+## Microsoft’s AI masterplan: Let OpenAI burn cash, then build on their successes
+
+date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
+
+<h4>Redmond’s not alone: AWS, Alibaba, DeepSeek also rely on others blazing the trail</h4> <p><strong>Analysis</strong>  Microsoft AI CEO Mustafa Suleyman has extolled the virtues of playing second fiddle in the generative-AI race.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/07/microsofts_ai_strategy/>
+
+---
+
+## Trump tariffs to make prices great – a gain
+
+date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
+
+<h4>As costs for US shoppers set to rise, markets slump, orange is new red, we speak to economic experts</h4> <p><strong>World War Fee</strong>  President Donald Trump last week announced a sweeping new round of tariffs, setting the stage for price hikes across consumer tech, pro gear, and almost anything else that crosses a border.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/07/trump_tariffs_make_prices_greater/>
 
 ---
 

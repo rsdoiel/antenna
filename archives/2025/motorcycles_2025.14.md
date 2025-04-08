@@ -1,11 +1,47 @@
 ---
 title: motorcycles
-updated: 2025-04-07 14:10:49
+updated: 2025-04-08 06:10:04
 ---
 
 # motorcycles
 
-(date: 2025-04-07 14:10:49)
+(date: 2025-04-08 06:10:04)
+
+---
+
+## Coleman Finally Makes a Cooler You Can Launch Off a UTV and Not Break
+
+date: 2025-04-08, from: Ride Apart, Electric Motorcycle News
+
+Yeet it into whatever and never worry again.  
+
+<br> 
+
+<https://www.rideapart.com/news/755850/coleman-pro-cooler-gear-inexpensive-utv-atv-hunting/>
+
+---
+
+## CFMoto's New Side-By-Sides Look Ready For Action, Whether It's the Farm or Woods
+
+date: 2025-04-08, from: Ride Apart, Electric Motorcycle News
+
+Another option to get stuff done.  
+
+<br> 
+
+<https://www.rideapart.com/news/755855/cfmoto-u10-pro-highland-xl-pro-utv-side-by-side-price-specs/>
+
+---
+
+## Kawasaki's Built a Hydrogen-Powered Robot Horse, No Really
+
+date: 2025-04-08, from: Ride Apart, Electric Motorcycle News
+
+H2 OMG. 
+
+<br> 
+
+<https://www.rideapart.com/news/755889/kawasaki-corleo-robot-horse-mobility-hydrogen/>
 
 ---
 

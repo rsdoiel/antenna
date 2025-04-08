@@ -1,11 +1,207 @@
 ---
 title: snapshots
-updated: 2025-04-07 14:10:52
+updated: 2025-04-08 06:10:06
 ---
 
 # snapshots
 
-(date: 2025-04-07 14:10:52)
+(date: 2025-04-08 06:10:06)
+
+---
+
+## ‘Elon Musk’ Was a Prolific Money Launderer for Hackers and Drug Traffickers. It Was Secretly the FBI
+
+date: 2025-04-08, from: 404 Media Group
+
+In 2023 the FBI quietly arrested a notorious money launderer called ElonmuskWHM. Then the FBI secretly ran his operation for nearly a year to catch (and give money to) more criminals. 
+
+<br> 
+
+<https://www.404media.co/elon-musk-was-a-prolific-money-launderer-for-hackers-and-drug-traffickers-it-was-secretly-the-fbi/>
+
+---
+
+## For the First Time, Artificial Intelligence is Being Used at a Nuclear Power Plant: California’s Diablo Canyon
+
+date: 2025-04-08, from: The Markup blog
+
+Some lawmakers think additional guardrails are needed for future uses. For now, the facility will use AI to comply with regulations 
+
+<br> 
+
+<https://themarkup.org/artificial-intelligence/2025/04/08/for-the-first-time-artificial-intelligence-is-being-used-at-a-nuclear-power-plant-californias-diablo-canyon>
+
+---
+
+## There Was a Record 5 to 6 Million People Who Took to the Streets to Stop Trump on Saturday! — And the Only Sound of Silence You Hear is from the Media and the Democratic Party
+
+date: 2025-04-08, from: Michael Moore's blog
+
+Plus &#8212; 36 Brand New Even More Perfect Portraits of Donald Trump! 
+
+<br> 
+
+<https://www.michaelmoore.com/p/there-was-a-record-5-to-6-million>
+
+---
+
+## Attack of the Quack-Industrial Complex
+
+date: 2025-04-08, from: Paul Krugman
+
+Another front in the war on American greatness 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/attack-of-the-quack-industrial-complex>
+
+---
+
+## Seniors and Juniors
+
+date: 2025-04-08, from: O'Reilly Radar
+
+It almost sounds pejorative, doesn’t it? But the distinction between senior and junior software developers is built into our jobs and job titles. Whether we call it entry-level or something else, we distinguish between people who are just starting their careers and those who have been around for a while. We’re all still learning (one [&#8230;] 
+
+<br> 
+
+<https://www.oreilly.com/radar/seniors-and-juniors/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-08, from: Dave Winer's linkblog)
+
+Mark Zuckerberg’s Former AI Lawyer for Meta Is Now Taking on Elon Musk, DOGE, and Trump. 
+
+<br> 
+
+<https://www.vanityfair.com/news/story/mark-zuckerbergs-former-ai-lawyer-for-meta-is-now-taking-on-elon-musk-doge-and-trump>
+
+---
+
+## Quoting Jack Clark
+
+date: 2025-04-08, updated: 2025-04-08, from: Simon Willison’s Weblog
+
+<blockquote cite="https://jack-clark.net/2025/04/07/import-ai-407-deepmind-sees-agi-by-2030-mousegpt-and-bytedances-inference-cluster/"><p>Imagine if Ford published a paper saying it was thinking about long term issues of the automobiles it made and one of those issues included “misalignment “Car as an adversary”“ and when you asked Ford for clarification the company said “yes, we believe as we make our cars faster and more capable, they may sometimes take actions harmful to human well being” and you say “oh, wow, thanks Ford, but… what do you mean precisely?” and Ford says “well, we cannot rule out the possibility that the car might decide to just start running over crowds of people” and then Ford looks at you and says “this is a long-term research challenge”.</p></blockquote>
+<p class="cite">&mdash; <a href="https://jack-clark.net/2025/04/07/import-ai-407-deepmind-sees-agi-by-2030-mousegpt-and-bytedances-inference-cluster/">Jack Clark</a>, DeepMind gazes into the AGI future</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/jack-clark">jack-clark</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/8/jack-clark/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-08, from: Dave Winer's linkblog)
+
+Liberals Jews Say Antisemitism Is Being Misused. 
+
+<br> 
+
+<https://nymag.com/intelligencer/article/liberal-jewish-antisemitism-trump-protection.html>
+
+---
+
+## Quoting lmarena.ai
+
+date: 2025-04-08, updated: 2025-04-08, from: Simon Willison’s Weblog
+
+<blockquote cite="https://twitter.com/lmarena_ai/status/1909397817434816562"><p>We've seen questions from the community about the latest release of Llama-4 on Arena. To ensure full transparency, we're releasing <a href="https://huggingface.co/spaces/lmarena-ai/Llama-4-Maverick-03-26-Experimental_battles">2,000+ head-to-head battle results</a> for public review. [...] </p>
+<p>In addition, we're also adding the HF version of Llama-4-Maverick to Arena, with leaderboard results published shortly. Meta’s interpretation of our policy did not match what we expect from model providers. Meta should have made it clearer that “Llama-4-Maverick-03-26-Experimental” was a customized model to optimize for human preference. As a result of that we are updating our leaderboard policies to reinforce our commitment to fair, reproducible evaluations so this confusion doesn’t occur in the future.</p></blockquote>
+<p class="cite">&mdash; <a href="https://twitter.com/lmarena_ai/status/1909397817434816562">lmarena.ai</a></p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/meta">meta</a>, <a href="https://simonwillison.net/tags/ai-ethics">ai-ethics</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llama">llama</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/lm-arena">lm-arena</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/8/lmaren/#atom-everything>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-08, from: Robert's feed at BlueSky)
+
+So true.
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmbawlmcuc2d>
+
+---
+
+## llm-hacker-news
+
+date: 2025-04-08, updated: 2025-04-08, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/simonw/llm-hacker-news">llm-hacker-news</a></strong></p>
+I built this new plugin to exercise the new <a href="https://llm.datasette.io/en/stable/plugins/plugin-hooks.html#register-fragment-loaders-register">register_fragment_loaders()</a> plugin hook I added to <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/">LLM 0.24</a>. It's the plugin equivalent of <a href="https://til.simonwillison.net/llms/claude-hacker-news-themes">the Bash script</a> I've been using to summarize <a href="https://news.ycombinator.com/">Hacker News</a> conversations for the past 18 months.</p>
+<p>You can use it like this:</p>
+<pre><code>llm install llm-hacker-news
+llm -f hn:43615912 'summary with illustrative direct quotes'
+</code></pre>
+<p>You can see the output <a href="https://github.com/simonw/llm-hacker-news/issues/1#issuecomment-2784887743">in this issue</a>.</p>
+<p>The plugin registers a <code>hn:</code> prefix - combine that with the ID of a Hacker News conversation to pull that conversation into the context.</p>
+<p>It uses the Algolia Hacker News API which returns <a href="https://hn.algolia.com/api/v1/items/43615912">JSON like this</a>. Rather than feed the JSON directly to the LLM it instead converts it to a hopefully more LLM-friendly format that looks like this example from <a href="https://github.com/simonw/llm-hacker-news/blob/0.1/tests/test_hacker_news.py#L5-L18">the plugin's test</a>:</p>
+<pre><code>[1] BeakMaster: Fish Spotting Techniques
+
+[1.1] CoastalFlyer: The dive technique works best when hunting in shallow waters.
+
+[1.1.1] PouchBill: Agreed. Have you tried the hover method near the pier?
+
+[1.1.2] WingSpan22: My bill gets too wet with that approach.
+
+[1.1.2.1] CoastalFlyer: Try tilting at a 40° angle like our Australian cousins.
+
+[1.2] BrownFeathers: Anyone spotted those "silver fish" near the rocks?
+
+[1.2.1] GulfGlider: Yes! They're best caught at dawn.
+Just remember: swoop &gt; grab &gt; lift
+</code></pre>
+<p>That format was suggested by Claude, which then wrote most of the plugin implementation for me. Here's <a href="https://claude.ai/share/6da6ec5a-b8b3-4572-ab1b-141bb37ef70b">that Claude transcript</a>.
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/hacker-news">hacker-news</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/projects">projects</a>, <a href="https://simonwillison.net/tags/anthropic">anthropic</a>, <a href="https://simonwillison.net/tags/claude">claude</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/8/llm-hacker-news/#atom-everything>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-08, from: Dave Winer's linkblog)
+
+Long Live RSS. 
+
+<br> 
+
+<https://www.windley.com/archives/2025/04/long_live_rss.shtml>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-07, from: Dave Winer's linkblog)
+
+District Court and Fourth Circuit Order Trump Administration to Return Wrongfully Deported Immigrant. 
+
+<br> 
+
+<https://reason.com/volokh/2025/04/07/district-court-and-fourth-circuit-order-trump-administration-to-return-wrongfully-deported-immigrant/>
+
+---
+
+## Daily Deals (4-07-2025)
+
+date: 2025-04-07, from: Liliputing
+
+<p>The Lenovo Legion Tab (Gen 3) is a tablet made for gamers, with an 8.8 inch, 2560 x 1600 pixel, 165 Hz LTPS display, a Qualcomm Snapdragon 8 Gen 3 processor, 12GB of LPDDR5x memory and 256GB of UFS 4.0 storage. It supports WiFi 7 and Bluetooth 5.4 and has two USB Type-C ports (one [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/daily-deals-4-07-2025/">Daily Deals (4-07-2025)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/daily-deals-4-07-2025/>
 
 ---
 
@@ -240,6 +436,7 @@ date: 2025-04-07, updated: 2025-04-07, from: Simon Willison’s Weblog
   <li><a href="https://simonwillison.net/2025/Apr/7/long-context-llm/#improving-llm-s-support-for-long-context-models">Improving LLM's support for long context models</a></li>
   <li><a href="https://simonwillison.net/2025/Apr/7/long-context-llm/#asking-questions-of-llm-s-documentation">Asking questions of LLM's documentation</a></li>
   <li><a href="https://simonwillison.net/2025/Apr/7/long-context-llm/#publishing-sharing-and-reusing-templates">Publishing, sharing and reusing templates</a></li>
+  <li><a href="https://simonwillison.net/2025/Apr/7/long-context-llm/#template-and-fragment-loader-plugins">Template and fragment loader plugins so far</a></li>
   <li><a href="https://simonwillison.net/2025/Apr/7/long-context-llm/#everything-else-in-llm-0-24">Everything else in LLM 0.24</a></li>
 </ul>
 
@@ -277,7 +474,7 @@ llm -f github:simonw/s3-credentials <span class="pl-s"><span class="pl-pds">'</s
 <li>using <code>prefix:argument</code> to specify fragments from a plugin</li>
 </ul>
 <h4 id="asking-questions-of-llm-s-documentation">Asking questions of LLM's documentation</h4>
-<p>Wouldn't it be neat if LLM could anser questions about its own documentation?</p>
+<p>Wouldn't it be neat if LLM could answer questions about its own documentation?</p>
 <p>The new <a href="https://github.com/simonw/llm-docs">llm-docs</a> plugin (built with the new <a href="https://llm.datasette.io/en/stable/plugins/plugin-hooks.html#register-fragment-loaders-register">register_fragment_loaders() plugin hook</a>) enables exactly that:</p>
 <div class="highlight highlight-source-shell"><pre>llm install llm-docs
 llm -f docs: <span class="pl-s"><span class="pl-pds">"</span>How do I embed a binary file?<span class="pl-pds">"</span></span></pre></div>
@@ -313,6 +510,22 @@ llm -t gh:simonw/pelican-svg -m o3-mini</pre></div>
 curl https://simonwillison.net/2025/Apr/6/only-miffy/ <span class="pl-k">|</span> \
   llm -t f:extract_main_idea</pre></div>
 <p>A conversation with Daniel was the inspiration for this new plugin hook.</p>
+
+<h4 id="template-and-fragment-loader-plugins">Template and fragment loader plugins so far</h4>
+<p>Here's the list of fragment and template loader plugins so far from the <a href="https://llm.datasette.io/en/stable/plugins/directory.html#fragments-and-template-loaders">LLM plugins directory</a>:</p>
+<blockquote>
+<ul>
+<li>
+<strong><a href="https://github.com/simonw/llm-templates-github">llm-templates-github</a></strong> supports loading templates shared on GitHub, e.g. <code>llm -t gh:simonw/pelican-svg</code>.</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-templates-fabric">llm-templates-fabric</a></strong> provides access to the <a href="https://github.com/danielmiessler/fabric">Fabric</a> collection of prompts: <code>cat setup.py | llm -t fabric:explain_code</code>.</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-fragments-github">llm-fragments-github</a></strong> can load entire GitHub repositories in a single operation: <code>llm -f github:simonw/files-to-prompt 'explain this code'</code>.</li>
+<li>
+<strong><a href="https://github.com/simonw/llm-hacker-news">llm-hacker-news</a></strong> imports conversations from Hacker News as fragments: <code>llm -f hn:43615912 'summary with illustrative direct quotes'</code>.</li>
+</ul>
+</blockquote>
+
 <h4 id="everything-else-in-llm-0-24">Everything else in LLM 0.24</h4>
 <p>LLM 0.24 is a big release, spanning <a href="https://github.com/simonw/llm/compare/0.23...0.24">51 commits</a>. The <a href="https://llm.datasette.io/en/stable/changelog.html#v0-24">release notes</a> cover everything that's new in full - here are a few of my highlights:</p>
 <blockquote>
@@ -712,6 +925,16 @@ Global markets nosedive and China accuses US of bullying with tariffs.
 
 ---
 
+**@Dave Winer's linkblog** (date: 2025-04-07, from: Dave Winer's linkblog)
+
+Big Tech Backed Trump for Acceleration. They Got a Decel President Instead. 
+
+<br> 
+
+<https://www.404media.co/big-tech-backed-trump-for-acceleration-they-got-a-decel-president-instead/>
+
+---
+
 ## Raspberry Pi 45W USB-C Power Supply on sale now at $15
 
 date: 2025-04-07, from: Raspberry Pi News (.com)
@@ -810,7 +1033,7 @@ date: 2025-04-06, from: This is history podcast
 
 ---
 
-## if you aren't redlining the LLM, you aren't headlining
+## if you are redlining the LLM, you aren't headlining
 
 date: 2025-04-06, from: Geoffrey Hunntley's blog
 

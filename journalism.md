@@ -1,11 +1,160 @@
 ---
 title: journalism
-updated: 2025-04-07 14:10:48
+updated: 2025-04-08 06:10:02
 ---
 
 # journalism
 
-(date: 2025-04-07 14:10:48)
+(date: 2025-04-08 06:10:02)
+
+---
+
+## LA City Clerk announces results of North Westwood Neighborhood Council election
+
+date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+The Los Angeles City Clerk released results Friday for the North Westwood Neighborhood Council&#8217;s biennial election.
+Fourteen UCLA students and faculty members ran for the 19 seats up for election. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/la-city-clerk-announces-results-of-north-westwood-neighborhood-council-election/>
+
+---
+
+## How Opium healed me
+
+date: 2025-04-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Confessions from (probably) one of the most normal Yeat fans.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/08/how-opium-healed-me/">How Opium healed me</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/08/how-opium-healed-me/>
+
+---
+
+## ‘Something Rotten!’ is fairly ripe
+
+date: 2025-04-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The hit musical arrived at the School of Dramatic Arts for one of the major theatrical events of the semester.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/08/something-rotten-is-fairly-ripe/">‘Something Rotten!’ is fairly ripe</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/08/something-rotten-is-fairly-ripe/>
+
+---
+
+## USC’s toy industry class heads to NYC toy fair, develops products
+
+date: 2025-04-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The students are working to develop their own products, and got to view unreleased products. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/08/uscs-toy-industry-class-heads-to-nyc-toy-fair-develops-products/">USC’s toy industry class heads to NYC toy fair, develops products</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/08/uscs-toy-industry-class-heads-to-nyc-toy-fair-develops-products/>
+
+---
+
+## MENASA celebrates Arab American Heritage Month
+
+date: 2025-04-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event provided free food, a lively performance and henna tattooing.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/08/menasa-celebrates-arab-american-heritage-month/">MENASA celebrates Arab American Heritage Month</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/08/menasa-celebrates-arab-american-heritage-month/>
+
+---
+
+## More 2025 commencement speakers announced
+
+date: 2025-04-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Five schools recently revealed their keynote speakers including artists, writers and professors.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/08/2025-commencement-speakers-announced/">More 2025 commencement speakers announced</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/08/2025-commencement-speakers-announced/>
+
+---
+
+## USC offers legal resources for international students as visas get revoked nationwide
+
+date: 2025-04-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The released frequently asked questions page emphasized the University's support resources. </p>
+<p>The post <a href="https://dailytrojan.com/2025/04/08/usc-offers-legal-resources-for-international-students-as-visas-get-revoked-nationwide-2/">USC offers legal resources for international students as visas get revoked nationwide</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/08/usc-offers-legal-resources-for-international-students-as-visas-get-revoked-nationwide-2/>
+
+---
+
+## Thousands gather in the “Hands Off!” protest
+
+date: 2025-04-08, from: The Sundail (CSUN Student Newspaper)
+
+Across all 50 states, people participated in the &#8220;Hands Off!&#8221; protest, with over 1,300 events on April 5 to express their frustrations and concerns regarding the recent actions of the... 
+
+<br> 
+
+<https://sundial.csun.edu/192291/news/thousands-gather-in-the-hands-off-protest/>
+
+---
+
+## Panelists highlight gender, class gaps in LA water conservation efforts
+
+date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+Panelists from the anthropology department called for a reframing of Los Angeles&#8217; approach to water conservation in a talk hosted by the UCLA Graduate Student Water Resources Group in March. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/07/panelists-highlight-gender-class-gaps-in-la-water-conservation-efforts/>
+
+---
+
+## A student author looks to inspire others with his latest book ‘Transform’
+
+date: 2025-04-08, from: The Canyon News (COC Student Newspaper)
+
+<p>They say you don&#8217;t judge a book by its cover. Mark Jonathan&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/mark-jonathan-romero/">A student author looks to inspire others with his latest book &#8216;Transform&#8217;</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/mark-jonathan-romero/>
+
+---
+
+## The annual ‘Bloom Fest’ welcomes spring the Santa Clarita Valley
+
+date: 2025-04-08, from: The Canyon News (COC Student Newspaper)
+
+<p>On April 6th, the Santa Clarita community came together for a lively&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/bloom-fest/">The annual &#8216;Bloom Fest&#8217; welcomes spring the Santa Clarita Valley</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/bloom-fest/>
 
 ---
 
@@ -18,6 +167,20 @@ Those surrounding Sierra Tower could hear the sound of Doechii’s “Catfish,�
 <br> 
 
 <https://sundial.csun.edu/192281/arts-entertainment/csun-dance-club-surprises-students-with-april-fools-flash-mob/>
+
+---
+
+## Condé Nast CEO named Dornsife commencement speaker
+
+date: 2025-04-07, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Roger Lynch, also a USC physics alum, will receive the Dornsife Distinguished Alumnus award at the ceremony.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/07/conde-nast-ceo-named-dornsife-commencement-speaker/">Condé Nast CEO named Dornsife commencement speaker</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/07/conde-nast-ceo-named-dornsife-commencement-speaker/>
 
 ---
 

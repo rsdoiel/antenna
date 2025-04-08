@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-04-07 14:10:47
+updated: 2025-04-08 06:10:02
 ---
 
 # games
 
-(date: 2025-04-07 14:10:47)
+(date: 2025-04-08 06:10:02)
+
+---
+
+## Why REPO has topped Steam charts and Twitch feeds since launch
+
+date: 2025-04-08, updated: 2025-04-07, from: Polygon Website
+
+At first, the Steam page for REPO was an off-putting sight; the game’s key art has only just recently been updated to move away from a macabre-looking emoji leering at the viewer with gnarled teeth and hollowed-out eyes leaking tears. But it only takes a couple of rounds to understand why this game has taken [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/impressions/554398/repo-streamer-social-media-clips-game>
+
+---
+
+## What is the Pokémon TCG Pocket meta in April 2025?
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+The Pokémon TCG Pocket meta must’ve recently turned 30 — because it’s finally settling down! Released in late 2024, Pokémon TCG Pocket is a card-collecting game with a competitive streak — a streamlined iteration on the classic Pokémon trading card game. There’s incentive to play battles, as winning earns you XP, which helps you level [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-tcg-pocket-guides/480843/meta-best-decks-cards>
+
+---
+
+## Can Meditite be shiny in Pokémon Go?
+
+date: 2025-04-08, updated: 2025-04-07, from: Polygon Website
+
+Meditite, the meditate Pokémon from Hoenn, can be found in the wild in Pokémon Go. Yes, Meditite can be shiny in Pokémon Go! If you are a Meditite family fan, then I’m sorry. Despite being a usually-powerful Mega Evolution, Mega Medicham is… bad. There’s no reason really to invest in it, as it’s outranked by [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/554117/can-meditite-be-shiny-medicham-mega>
+
+---
+
+## I went to Universal’s new $7 billion Epic Universe park early — here’s what I saw
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+We’re less than two months away from the grand opening of Epic Universe, the brand-new park at the Universal Orlando Resort. Originally announced in 2019, the park, which joins the existing Universal Studios, Islands of Adventure, and Volcano Bay and is estimated to have cost over $7 billion, has been highly anticipated by theme park [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/theme-parks/553995/epic-universe-tour-nintendo-harry-potter-dragon-photos>
+
+---
+
+## Donkey Kong Bananza leak throws a wrench in the Donkey Kong timeline
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+Donkey Kong Bananza may have intriguing implications for the Donkey Kong timeline, based on a leak for the ape’s upcoming Nintendo Switch 2 game. A piece of artwork apparently leaked by Nintendo of Korea, and then spotted by a poster on Resetera, indicates that another well-known Donkey Kong character heretofore unannounced for the game may [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/554164/donkey-kong-bananza-leak-pauline-odd-rock>
+
+---
+
+## Nintendo Switch 2 cartridges designed to be spit out
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+Nintendo uses a bitterant called denatonium benzoate applied to its Nintendo Switch cartridges to dissuade people from putting cartridges in their mouths. It’s a substance that tastes absolutely foul, often used in similar situations — to keep people from consuming things they shouldn’t be, like antifreeze. While a Nintendo Switch cartridge might not be poisonous, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/554646/nintendo-switch-2-still-taste-bad>
+
+---
+
+## Researchers have discovered the original source of The Shining’s iconic end photograph
+
+date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
+
+A long-hidden piece of film history trivia has finally been uncovered. On April 5, New York Times visual investigator Aric Toler announced on Bluesky that he and British academic Alasdair Spark found the original photo that was doctored for the ending of Stanley Kubrick’s The Shining. Despite the fact that this photo is one of [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/554423/shining-ending-photo-original-discovered>
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-07 14:10:48
+updated: 2025-04-08 06:10:03
 ---
 
 # libraries
 
-(date: 2025-04-07 14:10:48)
+(date: 2025-04-08 06:10:03)
 
 ---
 
@@ -18,6 +18,32 @@ Covatti, Gustavo; Li, Kai-Yun; Podgorski, Joel; Winkel, Lenny H.E.; Berg, Michae
 <br> 
 
 <http://hdl.handle.net/20.500.11850/729458>
+
+---
+
+## Defending Libraries in the Digital Age: Lila Bailey Calls for Library Legal Champions at Georgetown Law’s iPIP Clinic Celebration
+
+date: 2025-04-08, from: Internet Archive Blog
+
+Libraries, now more than ever, need innovative, dedicated champions to help them meet the needs of the public in the digital age. Internet Archive’s Lila Bailey said she sees hope [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/04/08/defending-libraries-in-the-digital-age-lila-bailey-calls-for-library-legal-champions-at-georgetown-laws-ipip-clinic-celebration/>
+
+---
+
+## Misinformation, Disinformation, and Scholarly Communication (Part 2)
+
+date: 2025-04-08, from: Scholarly Kitchen
+
+<p>How should we think about the problems of misinformation and disinformation in the context of scholarly publishing, research, and libraries?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/08/how-should-we-think-about-the-problems-of-misinformation-and-disinformation-in-the-context-of-scholarly-publishing-research-and-libraries/">Misinformation, Disinformation, and Scholarly Communication (Part 2)</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/08/how-should-we-think-about-the-problems-of-misinformation-and-disinformation-in-the-context-of-scholarly-publishing-research-and-libraries/>
 
 ---
 

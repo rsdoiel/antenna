@@ -1,11 +1,521 @@
 ---
 title: pacific
-updated: 2025-04-07 14:10:44
+updated: 2025-04-08 06:09:58
 ---
 
 # pacific
 
-(date: 2025-04-07 14:10:44)
+(date: 2025-04-08 06:09:58)
+
+---
+
+## Hilo man accused of sexually assaulting his ex-girlfriend
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>A 51-year-old Hilo man pleaded not guilty Monday to three counts of second-degree sexual assault, plus burglary and violating an order for protection.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/hawaii-news/hilo-man-accused-of-sexually-assaulting-his-ex-girlfriend/>
+
+---
+
+## Hilo High debate team qualifies for national tourney
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>Hilo High School&#8217;s speech and debate team has qualified for a national tournament taking place in Iowa this summer.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/hawaii-news/hilo-high-debate-team-qualifies-for-national-tourney/>
+
+---
+
+## Russia has its own interests in the region as the U.S. shifts its focus there from Europe
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>As the Trump administration pushes efforts to end the war in Ukraine and shift its attention to the Pacific, the Russian navy&#8217;s Pacific fleet has been asserting its presence.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/hawaii-news/russia-has-its-own-interests-in-the-region-as-the-u-s-shifts-its-focus-there-from-europe/>
+
+---
+
+## UH Hilo dance team wins spot in national event
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>Hiloverse, the dance team from the University of Hawaii at Hilo&#8217;s Performing Arts Department, has been selected to appear at the 2025 American College Dance Association&#8217;s national festival in Washington, D.C., in May.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/hawaii-news/uh-hilo-dance-team-wins-spot-in-national-event/>
+
+---
+
+## Bills drive union challenge of Hawaiian Electric
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>The powerful Hawaii Carpenters Union has launched a high-stakes campaign against Hawaiian Electric Co. over wildfire liability legislation that has driven a deeper wedge between Hawaii&#8217;s trade unions, which publicly pride themselves on labor solidarity.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/hawaii-news/bills-drive-union-challenge-of-hawaiian-electric/>
+
+---
+
+## Trump says US and Iran set for direct nuclear talks; Tehran says they will be indirect
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump made a surprise announcement on Monday that the United States and Iran were poised to begin direct talks on Tehran&#8217;s nuclear program, but Iran&#8217;s foreign minister said the discussions in Oman would be indirect.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/trump-says-us-and-iran-set-for-direct-nuclear-talks-tehran-says-they-will-be-indirect/>
+
+---
+
+## News in brief for April 8
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>Supreme Court clears way for Venezuelan deportations to resume</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/news-in-brief-for-april-8/>
+
+---
+
+## The pandemic is not the only reason US students are losing ground
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>There was once a time when America&#8217;s lowest-performing students were improving just as much as the country&#8217;s top students.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/the-pandemic-is-not-the-only-reason-us-students-are-losing-ground/>
+
+---
+
+## Nearly 150 students have had visas revoked and could face deportation
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>At least 147 international students were abruptly stripped of their ability to stay in the United States in recent days, according to universities and media reports, sowing fear among students and confusion at schools scrambling to help students facing detention and possible deportation.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/nearly-150-students-have-had-visas-revoked-and-could-face-deportation/>
+
+---
+
+## Europe gears up to make its first countermove to Trump tariffs
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>BRUSSELS &#8212; European Union officials are taking a two-part approach to President Donald Trump&#8217;s unfolding trade war, offering to slash tariffs on American-made cars and industrial products even as they prepare to retaliate imminently with wide-ranging levies.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/europe-gears-up-to-make-its-first-countermove-to-trump-tariffs/>
+
+---
+
+## Haiti humanitarian crisis worsening as violence escalates, says aid group
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>The humanitarian situation in Haiti is dramatically worsening, aid group Save the Children said, with underfunded security forces increasingly overwhelmed by powerful gangs and capital Port-au-Prince on the brink of collapse.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/haiti-humanitarian-crisis-worsening-as-violence-escalates-says-aid-group/>
+
+---
+
+## Kennedy to kick off tour on fighting chronic disease
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>SALT LAKE CITY &#8212; A day after attending the funeral of an unvaccinated child who died of measles, Health Secretary Robert F. Kennedy Jr. will kick off a tour through Southwestern states Monday, spotlighting initiatives that emphasize nutrition and lifestyle choices as tools for combating disease.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/kennedy-to-kick-off-tour-on-fighting-chronic-disease/>
+
+---
+
+## Musk’s DOGE team can access sensitive data for now, appeals court rules
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>A divided federal appeals court on Monday put on hold an injunction that blocked Elon Musk and his Department of Government Efficiency from accessing Americans&#8217; private data at the Treasury and Education departments and the Office of Personnel Management.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/musks-doge-team-can-access-sensitive-data-for-now-appeals-court-rules/>
+
+---
+
+## Harvard plans to borrow $750 million after federal funding threats
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>Harvard University plans to borrow $750 million from Wall Street as part of contingency preparations, it said on Monday, days after President Donald Trump&#8217;s administration said it was reviewing $9 billion in federal grants and contracts in a crackdown on alleged antisemitism on college campuses.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/harvard-plans-to-borrow-750-million-after-federal-funding-threats/>
+
+---
+
+## US admiral at NATO fired in expanding national security purge
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. Navy Vice Admiral Shoshana Chatfield, who holds a senior position in NATO, has been fired as part of what appears to be an expanding national security purge of top officials by the Trump administration, three sources told Reuters on Monday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/us-admiral-at-nato-fired-in-expanding-national-security-purge/>
+
+---
+
+## Ukraine’s Kryvyi Rih mourns victims of Russian missile strike
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>KRYVYI RIH, Ukraine &#8212; A central Ukrainian city held vigils on Monday that began three days of mourning for 11 adults and nine children killed by a Russian missile last week, as one of the deadliest attacks on civilians in months jeopardised Washington&#8217;s ceasefire push.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/nation-world-news/ukraines-kryvyi-rih-mourns-victims-of-russian-missile-strike/>
+
+---
+
+## Let’s Talk Food: Colorful beets
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>Beets are versatile and add beautiful color to your dishes. I have a container of organic beet powder. On the package it states that beets have natural antioxidants, and has naturally occurring betacyanins, which are an immune boosting antioxidant It also states that it can be used as a natural colorant in baked goods.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/features/lets-talk-food-colorful-beets/>
+
+---
+
+## Make your own Dubai chocolate
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>I don&#8217;t pay attention to all the viral food trends on TikTok and Instagram. There are so many crazy recipes screaming for attention, and so many of them just seem dumb. But every once in a while something looks just so incredibly awesome that I have to try it.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/features/make-your-own-dubai-chocolate/>
+
+---
+
+## Gov. Rudimch outlines strategies behind Koror State’s Economic Rebound
+
+date: 2025-04-08, from: Island Times
+
+<figure><img width="1024" height="862" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1024%2C862&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=300%2C253&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=1024%2C862&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=768%2C647&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=1200%2C1011&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=780%2C657&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=400%2C337&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?resize=706%2C595&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1024%2C862&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76662" data-permalink="https://islandtimes.org/gov-rudimch-outlines-strategies-behind-koror-states-economic-rebound/attachment/1000007916/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=1249%2C1052&amp;ssl=1" data-orig-size="1249,1052" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;3.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Galaxy S24 Ultra&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744024489&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;18.6&quot;,&quot;iso&quot;:&quot;640&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1000007916" data-image-description="" data-image-caption="&lt;p&gt;K&lt;br /&gt;
+oror State Leaders hip meet with Gov. Rudimch for state report&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=300%2C253&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/1000007916.jpg?fit=780%2C657&amp;ssl=1" /></figure>
+<p>Koror, Palau — Koror State has demonstrated resilience and made significant strides in recovery since the COVID-19 pandemic, according to Governor Eyos Rudimch, who addressed state leaders in a recent report on government progress. Rudimch credited collaboration between Koror’s leadership and its citizens for the state’s improved outlook. “Being resilient—how do we bounce back? Bouncing [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/gov-rudimch-outlines-strategies-behind-koror-states-economic-rebound/">Gov. Rudimch outlines strategies behind Koror State’s Economic Rebound</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/gov-rudimch-outlines-strategies-behind-koror-states-economic-rebound/>
+
+---
+
+## President Whipps to deliver state of the Republic Address on April 24
+
+date: 2025-04-08, from: Island Times
+
+<figure><img width="600" height="856" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?w=600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?resize=210%2C300&amp;ssl=1 210w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?resize=400%2C571&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="70146" data-permalink="https://islandtimes.org/palau-recognizes-law-enforcement-during-national-police-week/whipps-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" data-orig-size="600,856" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;SM-A725F&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715164497&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;7.12&quot;,&quot;iso&quot;:&quot;320&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="whipps" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=210%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2024/05/whipps.jpg?fit=600%2C856&amp;ssl=1" /></figure>
+<p>NGERULMUD, Palau – Members of the Olbiil Era Kelulau (OEK) are set to convene in a joint session later this month to receive the annual State of the Republic Address from His Excellency Surangel S. Whipps Jr., President of the Republic of Palau. The joint session was formally scheduled through the unanimous adoption of Senate [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/president-whipps-to-deliver-state-of-the-republic-address-on-april-24/">President Whipps to deliver state of the Republic Address on April 24</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/president-whipps-to-deliver-state-of-the-republic-address-on-april-24/>
+
+---
+
+## Woman bound for Palau intercepted for smuggling meth
+
+date: 2025-04-08, from: Island Times
+
+<p>On April 1, Hong Kong Customs intercepted a 50-year-old female passenger who was preparing to depart from Hong Kong to Koror, Palau. Customs officials seized approximately 600 grams of suspected methamphetamine, with an estimated market value of about $300,000 HK dollars.&#160; According to a statement on the Hong Kong Customs website, officers found the suspected [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/woman-bound-for-palau-intercepted-for-smuggling-meth/">Woman bound for Palau intercepted for smuggling meth</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/woman-bound-for-palau-intercepted-for-smuggling-meth/>
+
+---
+
+## WHO in the Western Pacific calls for urgent action to save mothers and newborns
+
+date: 2025-04-08, from: Island Times
+
+<p>Manila, 7 April 2025&#160;– On World Health Day, the World Health Organization (WHO) is calling for immediate and decisive action to ensure that every mother and every baby receives the care they deserve. WHO’s year-long campaign, “Healthy beginnings, hopeful futures” urges countries to renew their commitment to ensure good-quality health care for every mother and [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/who-in-the-western-pacific-calls-for-urgent-action-to-save-mothers-and-newborns/">WHO in the Western Pacific calls for urgent action to save mothers and newborns</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/who-in-the-western-pacific-calls-for-urgent-action-to-save-mothers-and-newborns/>
+
+---
+
+## Visitor arrivals in Palau Show mixed trends in February
+
+date: 2025-04-08, from: Island Times
+
+<figure><img width="1024" height="761" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?fit=1024%2C761&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?resize=300%2C223&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?resize=1024%2C761&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?resize=768%2C571&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?resize=200%2C150&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?resize=1200%2C892&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?resize=780%2C580&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?resize=400%2C297&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?resize=706%2C525&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?fit=1024%2C761&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76649" data-permalink="https://islandtimes.org/visitor-arrivals-in-palau-show-mixed-trends-in-february/pva-21/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?fit=1249%2C928&amp;ssl=1" data-orig-size="1249,928" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="pva" data-image-description="" data-image-caption="&lt;p&gt;Source: Monthly Reports are compiled from the Division of Immigration’s arrival and departure data and processed by the Palau Visitors Authority’s Strategic Planning Department.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?fit=300%2C223&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/pva.jpg?fit=780%2C580&amp;ssl=1" /></figure>
+<p>KOROR, Palau (April 8, 2025) — Palau welcomed 5,135 visitors in February, reflecting a mixed picture of growth and decline across key tourism markets. Compared to the same month last year, arrivals surged from several countries. Australia led with a 120% increase, marking the most significant year-on-year jump. Taiwan followed with a 38% rise, while [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/visitor-arrivals-in-palau-show-mixed-trends-in-february/">Visitor arrivals in Palau Show mixed trends in February</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/visitor-arrivals-in-palau-show-mixed-trends-in-february/>
+
+---
+
+## Senate reviews Bill to mandate Allergen Labels on food products
+
+date: 2025-04-08, from: Island Times
+
+<p>NGERULMUD, Palau &#8211; Senator Kazuki L. “Topps” Sungino has introduced Senate Bill No. 12-20, which seeks to require clear labeling of allergenic substances in all food products sold in Palau, including locally packaged meals like bento. The bill aims to add a new Chapter 11 to Title 20 of the Palau National Code to strengthen [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/senate-reviews-bill-to-mandate-allergen-labels-on-food-products/">Senate reviews Bill to mandate Allergen Labels on food products</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/senate-reviews-bill-to-mandate-allergen-labels-on-food-products/>
+
+---
+
+## Musk’s DOGE terminates $1.9 million consultancy contract for Palau
+
+date: 2025-04-08, from: Island Times
+
+<p>The United States Department of Government Efficiency (DOGE), led by billionaire Elon Musk, has terminated a consulting contract with the State Department for the Republic of Palau. In a statement posted on its X account last week, DOGE described the $1.9 million contract as providing “global advisory and support services for the Republic of Palau.” [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/musks-doge-terminates-1-9-million-consultancy-contract-for-palau/">Musk&#8217;s DOGE terminates $1.9 million consultancy contract for Palau </a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/musks-doge-terminates-1-9-million-consultancy-contract-for-palau/>
+
+---
+
+## Dare to Dream. We’re your Team! Join Taiwan Dreamer Program now
+
+date: 2025-04-08, from: Island Times
+
+<figure><img width="1024" height="576" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?fit=1024%2C576&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?w=1920&amp;ssl=1 1920w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?resize=1536%2C864&amp;ssl=1 1536w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?resize=1200%2C675&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?resize=780%2C439&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?resize=400%2C225&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?resize=706%2C397&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?fit=1024%2C576&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76634" data-permalink="https://islandtimes.org/dare-to-dream-were-your-team-join-taiwan-dreamer-program-now/dreamer-project-flyer/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?fit=1920%2C1080&amp;ssl=1" data-orig-size="1920,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Dreamer Project Flyer" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/Dreamer-Project-Flyer.jpg?fit=780%2C439&amp;ssl=1" /></figure>
+<p>We are proud to announce the Taiwan Global Pathfinders Initiative is calling for applications! Dare to Dream! We’re your team! Dear Palau youths, 18-30 year-old, welcome to explore a journey in Taiwan. Taiwan Global Pathfinders Initiative is calling applications for Taiwan Dreamer Program, Participation-based program and a Proposal-based program. Under the Participation-based program, you are [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/dare-to-dream-were-your-team-join-taiwan-dreamer-program-now/">Dare to Dream. We’re your Team! Join Taiwan Dreamer Program now</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/dare-to-dream-were-your-team-join-taiwan-dreamer-program-now/>
+
+---
+
+## Australia Awards Scholarship
+
+date: 2025-04-08, from: Island Times
+
+<figure><img width="1024" height="1024" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?fit=1024%2C1024&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=1024%2C1024&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=768%2C767&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=1200%2C1199&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=800%2C800&amp;ssl=1 800w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=400%2C400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=200%2C200&amp;ssl=1 200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=780%2C779&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=706%2C705&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?resize=100%2C100&amp;ssl=1 100w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?fit=1024%2C1024&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76636" data-permalink="https://islandtimes.org/australia-awards-scholarship/minister-payne-media-release-template-6/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?fit=1249%2C1248&amp;ssl=1" data-orig-size="1249,1248" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;Southall, Ben&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Minister Payne Media Release Template&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Minister Payne Media Release Template" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/2026-AAS-Intaks.jpg?fit=780%2C780&amp;ssl=1" /></figure>
+<p>&#8211; Open for Applications 4 April 2025&#8211; The Australian Embassy is glad to announce the 2026 intake for the Australia Awards Scholarship is now open.  The Australia Awards Scholarships are prestigious international awards offered by the Australian Government to the next generation of global leaders for development.&#160; Through study and research, recipients develop the skills [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/australia-awards-scholarship/">Australia Awards Scholarship</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/australia-awards-scholarship/>
+
+---
+
+## Creating safe spaces and Healing Hearts for bright futures
+
+date: 2025-04-08, from: Island Times
+
+<figure><img width="400" height="213" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/unicef.jpg?fit=400%2C213&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/unicef.jpg?w=400&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/unicef.jpg?resize=300%2C160&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/unicef.jpg?fit=400%2C213&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76628" data-permalink="https://islandtimes.org/creating-safe-spaces-and-healing-hearts-for-bright-futures/unicef-4/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/unicef.jpg?fit=400%2C213&amp;ssl=1" data-orig-size="400,213" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="unicef" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/unicef.jpg?fit=300%2C160&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/unicef.jpg?fit=400%2C213&amp;ssl=1" /></figure>
+<p>Regional conference to address abuse, neglect and mental health issues that impact the wellbeing and learning outcomes of Pacific children Suva, Fiji, 3 April 2025 – A staggering number of Pacific children, some as young as five, experience abuse, neglect, and mental health challenges both in and out of school. Strengthening child protection mechanisms in [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/creating-safe-spaces-and-healing-hearts-for-bright-futures/">Creating safe spaces and Healing Hearts for bright futures</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/creating-safe-spaces-and-healing-hearts-for-bright-futures/>
+
+---
+
+## In the crosshairs of stiff U.S tariffs, tiny coral islands in the South Pacific and Arctic outposts
+
+date: 2025-04-08, from: Island Times
+
+<p>WASHINGTON/MELBOURNE (AP)&#8212; The Trump administration appears to be leaving no stone unturned with its sweeping tariffs around the globe, from rocky outcrops home to polar bears in the Arctic to tiny tropical islands to a former British penal colony whose leader is befuddled that it was targeted. The American president rattled markets, manufacturers and more [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/in-the-crosshairs-of-stiff-u-s-tariffs-tiny-coral-islands-in-the-south-pacific-and-arctic-outposts/">In the crosshairs of stiff U.S tariffs, tiny coral islands in the South Pacific and Arctic outposts</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/in-the-crosshairs-of-stiff-u-s-tariffs-tiny-coral-islands-in-the-south-pacific-and-arctic-outposts/>
+
+---
+
+## Cook Islands and French Polynesia look to strengthen cooperation
+
+date: 2025-04-08, from: Island Times
+
+<p>RAROTONGA (COOK ISLANDS GOVT) &#8212; Cook Islands Prime Minister Mark Brown, met virtually with Moetai Brotherson, President of French Polynesia, last week reaffirming the historical ties between their peoples and to discuss opportunities for enhanced cooperation, centred on a shared vision for prosperity and partnership. Prime Minister Brown and President Brotherson acknowledged the depth of [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/cook-islands-and-french-polynesia-look-to-strengthen-cooperation/">Cook Islands and French Polynesia look to strengthen cooperation</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/cook-islands-and-french-polynesia-look-to-strengthen-cooperation/>
+
+---
+
+## ‘Paying federal tax is a small price to pay for security,’ Guam senator says
+
+date: 2025-04-08, from: Island Times
+
+<p>HAGATNA (PACIFIC ISLAND TIMES) &#8212; The Pacific is on the brink of war and, as a territory, Guam faces one of two scenarios: it will either be abandoned or taken over by China, Sen. William Parkinson said. At this juncture, he added, Guam must be incorporated into the United States, probably as a 51st state, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/paying-federal-tax-is-a-small-price-to-pay-for-security-guam-senator-says/">&#8216;Paying federal tax is a small price to pay for security,&#8217; Guam senator says</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/paying-federal-tax-is-a-small-price-to-pay-for-security-guam-senator-says/>
+
+---
+
+## U.S. Coast Guard strengthens partnership with Republic of Palau at Joint Committee Meeting
+
+date: 2025-04-08, from: Island Times
+
+<figure><img width="1024" height="683" src="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?fit=1024%2C683&amp;ssl=1" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?w=1249&amp;ssl=1 1249w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?resize=1200%2C800&amp;ssl=1 1200w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?resize=780%2C520&amp;ssl=1 780w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?resize=400%2C267&amp;ssl=1 400w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?resize=706%2C471&amp;ssl=1 706w, https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?fit=1024%2C683&amp;ssl=1&amp;w=370 370w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" data-attachment-id="76642" data-permalink="https://islandtimes.org/u-s-coast-guard-strengthens-partnership-with-republic-of-palau-at-joint-committee-meeting/p4-9/" data-orig-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?fit=1249%2C833&amp;ssl=1" data-orig-size="1249,833" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="p4" data-image-description="" data-image-caption="&lt;p&gt;Photo By Sgt. Austin Riel | Rear Adm. Gregory Huffman, commander of Joint Task Force &#8211; Micronesia, joins President of the Republic of Palau Surangel Whipps Jr. for a group photo during the biannual Joint Committee Meeting at the U.S. Indo-Pacific Command headquarters, Camp H.M. Smith, Hawaii, March 27, 2025. USINDOPACOM is committed to enhancing stability in the Indo-Pacific region by promoting security cooperation, encouraging peaceful development, responding to contingencies, deterring aggression and, when necessary, prevailing in conflict. (U.S. Army photo by Sgt. Austin Riel)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/islandtimes.org/wp-content/uploads/2025/04/p4.jpg?fit=780%2C520&amp;ssl=1" /></figure>
+<p>Story by Chief Warrant Officer Sara Muir                   U.S. Coast Guard Forces Micronesia / Sector Guam&#160;&#160; HONOLULU — The U.S. Coast Guard played a notable role in the U.S.-Palau Joint Committee Meeting (JCM) held March 27 and 28 at U.S. Indo-Pacific Command Headquarters, Camp H.M. Smith. Hosted by Navy Adm. Samuel Paparo, commander of U.S. Indo-Pacific Command, [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/u-s-coast-guard-strengthens-partnership-with-republic-of-palau-at-joint-committee-meeting/">U.S. Coast Guard strengthens partnership with Republic of Palau at Joint Committee Meeting</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/u-s-coast-guard-strengthens-partnership-with-republic-of-palau-at-joint-committee-meeting/>
+
+---
+
+## Trump officials say some tariffs could last ‘days or weeks’
+
+date: 2025-04-08, from: Island Times
+
+<p>In short: (ABC-Australia) Several of Donald Trump&#8217;s economic advisers have taken to the airwaves to defend the president&#8217;s tariffs. Treasury Secretary Scott Bessent says at least 50 countries have indicated they want to negotiate with the US, but refuses to name any of them. What&#8217;s next? Commerce Secretary Howard Lutnick says the tariffs, which caused [&#8230;]</p>
+<p>The post <a href="https://islandtimes.org/trump-officials-say-some-tariffs-could-last-days-or-weeks/">Trump officials say some tariffs could last &#8216;days or weeks&#8217;</a> appeared first on <a href="https://islandtimes.org">Island Times</a>.</p>
+ 
+
+<br> 
+
+<https://islandtimes.org/trump-officials-say-some-tariffs-could-last-days-or-weeks/>
+
+---
+
+## ‘Like a dagger to the heart of the American heartland’:
+
+date: 2025-04-08, from: Pacific Island Times
+
+That vast corridor of peace and security that spans nearly 3 million square miles and connects the Pacific to the seas of other allied natio 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/like-a-dagger-to-the-heart-of-the-american-heartland>
+
+---
+
+## World organizations call for urgent action to save mothers and newborns in the Pacific region
+
+date: 2025-04-08, from: Pacific Island Times
+
+Health organizations noted that the Pacific region faces some of the starkest maternal and newborn health disparities in the world, a predic 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/world-organizations-call-for-urgent-action-to-save-mothers-and-newborns-in-the-pacific-region>
+
+---
+
+## UH launches Workforce Learning Community to strengthen career readiness statewide
+
+date: 2025-04-08, from: University of Hawaiʻi News
+
+<p>President Wendy Hensel shared a bold vision for integrated, future-ready workforce development.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/07/uh-launches-workforce-learning-community/"><abbr>UH</abbr> launches Workforce Learning Community to strengthen career readiness statewide</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/07/uh-launches-workforce-learning-community/>
 
 ---
 
@@ -82,6 +592,90 @@ The post <a href="https://www.hawaii.edu/news/2025/04/07/lower-tuition-rates-uh-
 <br> 
 
 <https://www.hawaii.edu/news/2025/04/07/lower-tuition-rates-uh-community-college-summer-classes/>
+
+---
+
+## Healing and support highlighted at Sexual Assault Awareness Month proclamation
+
+date: 2025-04-07, updated: 2025-04-08, from: Marianas Variety
+
+ADVOCATES, survivors, government officials and community members participated in Monday’s proclamation signing for April as Sexual Assault Awareness Month at the Saipan World Resort’s Taga Hall. The event was organized by the Northern Marianas Coalition Against Domestic and Sexual Violence, and the theme this year is “Solidarity for Safety.” 
+
+<br> 
+
+<https://www.mvariety.com/news/local/healing-and-support-highlighted-at-sexual-assault-awareness-month-proclamation/article_e876ac38-e6e2-4fb2-b90f-1764c8e69e5f.html>
+
+---
+
+## Governor submits $179.7M budget for FY 2026
+
+date: 2025-04-07, updated: 2025-04-08, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios, on Tuesday last week, submitted a proposed budget for fiscal year 2026 with a “total identified revenue” of $179,701,969 — more than $20 million above the FY 2025 budget. These amounts include funds for earmarks and debt payments. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-submits-179-7m-budget-for-fy-2026/article_a9886ed2-8f23-4546-9120-b0d6843a8a84.html>
+
+---
+
+## Stocks dive in Asia, markets hunger for rapid US rate cuts
+
+date: 2025-04-07, updated: 2025-04-08, from: Marianas Variety
+
+SYDNEY (Reuters) — Major stock indexes plunged in Asia on Monday as White House officials showed no sign of backing away from their sweeping tariff plans, and investors wagered the mounting risk of recession could see U.S. interest rates cut as early as May. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/stocks-dive-in-asia-markets-hunger-for-rapid-us-rate-cuts/article_9aeb5b2c-c9ee-4852-81d7-f5c7e1521e44.html>
+
+---
+
+## More NMC nursing graduates pass NCLEX-RN
+
+date: 2025-04-07, updated: 2025-04-08, from: Marianas Variety
+
+(NMC) — Northern Marianas College 2024 nursing graduates Ming Palacios and Donna Mallari have joined the long list of NMC students who have passed the National Council Licensure Examination for Registered Nurses or NCLEX-RN. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/more-nmc-nursing-graduates-pass-nclex-rn/article_65ef64fc-1c2d-4803-8fbe-3babb78a2443.html>
+
+---
+
+## Active women
+
+date: 2025-04-07, updated: 2025-04-08, from: Marianas Variety
+
+From left, Ana Chan, Chailang Palacios, Carol Chan Wong, and Lupe Borja-Robinson. These four women on Saipan try to stay active each day.  Chailang is a retired health educator who gardens in her yard and has several dogs. She says her Catholic spirituality helps her stay focused on the important things in life:  her faith, family, friends, and good health. Chailang likes to do tai chi and swims every week with friends. Lupe is a retired NMC instructor who taught Current Issues and English as a Second Language classes. For her spirituality, she likes to walk her dog at American Memorial Park for good health for the dog and herself.  At AMP, she  focuses on the beauty of Mother Nature.  She and her dog also get good exercise. She is a former staff writer of the Pacific Daily News on Guam in the mid 1970’s. She believes she is very fortunate to have covered the village meetings on Saipan, Tinian and Rota leading to the plebiscite vote on the Commonwealth Covenant in 1976.  When she has time, she writes short articles with photos on local issues for Marianas Variety. Sisters Ana, Carol, and Rose Chan from Hong Kong helped their parents open and operate Canton Restaurant in Garapan many years ago. Rose is presently off-island. The three sisters have retired from the Canton Restaurant so it has a new management. The restaurant is proud of its tasty lunch buffet served almost every day. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/active-women/article_3a1c15eb-1b7f-420e-85ba-047c96fdd842.html>
+
+---
+
+## Hollywood lands a much-needed box office hit with ‘A Minecraft Movie’
+
+date: 2025-04-07, updated: 2025-04-08, from: Marianas Variety
+
+(AP) — Hollywood needed “A Minecraft Movie” to be a hit, and it delivered in its opening weekend, significantly narrowing this year’s box office deficit. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/hollywood-lands-a-much-needed-box-office-hit-with-a-minecraft-movie/article_73500909-7ca8-42e0-8bc6-f61d4ee6c444.html>
+
+---
+
+## Spare writing style propels tragic story in ‘Flesh’
+
+date: 2025-04-07, updated: 2025-04-08, from: Marianas Variety
+
+(AP) — Istvan, the protagonist in David Szalay’s new novel “Flesh,” is a character who reveals little in his conversations with others. His clipped responses to questions are akin to the frustrating conversations adults have with teenagers. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/spare-writing-style-propels-tragic-story-in-flesh/article_3531bcaa-f610-4e25-95ae-448a76990a8d.html>
 
 ---
 

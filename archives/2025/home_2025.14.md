@@ -1,11 +1,25 @@
 ---
 title: home
-updated: 2025-04-07 14:10:49
+updated: 2025-04-08 06:10:03
 ---
 
 # home
 
-(date: 2025-04-07 14:10:49)
+(date: 2025-04-08 06:10:03)
+
+---
+
+## The Best Time to Prune Trees for Healthy Growth
+
+date: 2025-04-07, from: Family Handyman Blog
+
+<p>Learn the best times to prune your trees to promote health, safety and growth with expert tips for homeowners.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/when-to-prune-trees/">The Best Time to Prune Trees for Healthy Growth</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/when-to-prune-trees/>
 
 ---
 
@@ -18,6 +32,18 @@ By CDFA Secretary Karen Ross Whenever I’m asked to describe or summarize Calif
 <br> 
 
 <https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28798>
+
+---
+
+## This Is the Best Week of the Year to Sell Your Home
+
+date: 2025-04-07, from: Sunset Magazine - Living in the West
+
+If you're looking to sell your house, there's an ideal time to list it. Realtor.com has a new report detailing the best week to sell your house. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/this-is-the-best-week-of-the-year-to-sell-your-home>
 
 ---
 
@@ -68,6 +94,18 @@ date: 2025-04-07, from: The Gardener's Path
 <br> 
 
 <https://gardenerspath.com/plants/flowers/grow-queen-lime-zinnias/>
+
+---
+
+## Amanda Gorman’s Poem ‘Smoldering Dawn’
+
+date: 2025-04-07, from: Sunset Magazine - Living in the West
+
+Poet Amanda Gorman shares a poem about the Los Angeles wildfires, that offers a message of resilience and a look forward. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/smoldering-dawn-amanda-gorman-poem>
 
 ---
 

@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-07 14:10:50
+updated: 2025-04-08 06:10:04
 ---
 
 # retro computing
 
-(date: 2025-04-07 14:10:50)
+(date: 2025-04-08 06:10:04)
+
+---
+
+## Drag'n'Drop 14i3 edition reviewed
+
+date: 2025-04-08, from: Icon Bar, RISC OS News
+
+The latest edition of Drag'n'Drop magazine was released at the RISC OS North Show (where you could also chat to the editor on his stand). This edition is 25 pages of news, reviews, tools and lots of code. As always, there is a newbies sections answering questions you might have. As it is a PDF you can read it on just about any system (I read it on my M4 MAC laptop). 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2192.html>
 
 ---
 

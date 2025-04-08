@@ -1,11 +1,75 @@
 ---
 title: food
-updated: 2025-04-07 14:10:51
+updated: 2025-04-08 06:10:05
 ---
 
 # food
 
-(date: 2025-04-07 14:10:51)
+(date: 2025-04-08 06:10:05)
+
+---
+
+## Voga Coffee, Maker of Ground Control Brewers, Ceases Operations
+
+date: 2025-04-08, from: Daily Coffee News
+
+<div><img width="620" height="381" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-620x381.jpg" class="attachment-large size-large wp-post-image" alt="Ground Control logo" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-620x381.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-300x184.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-150x92.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-768x472.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Voga Coffee LLC, the Oakland, California-based maker of innovative Ground Control batch coffee brewing machines, has ceased operations. The company, which first launched onto the specialty coffee scene with a... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/08/voga-coffee-maker-of-ground-control-brewers-ceases-operations/>
+
+---
+
+## 2025 US Barista Champion Kay Cheon: The Sprudge Interview
+
+date: 2025-04-08, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. We interview 2025 US Barista Champion Kay Cheon. 
+
+<br> 
+
+<https://sprudge.com/2025-us-barista-champion-kay-cheon-the-sprudge-interview-312399.html>
+
+---
+
+## Trump’s Tariffs Throw the Coffee Industry Into Chaos
+
+date: 2025-04-08, from: The Fresh Cup
+
+<p>The Trump administration’s announcement of sweeping tariffs—including those on coffee imports—has thrown the industry into chaos. We spoke to professionals across the coffee supply chain to see how they are responding.</p>
+<p>The post <a href="https://freshcup.com/trumps-tariffs-throw-the-coffee-industry-into-chaos/">Trump’s Tariffs Throw the Coffee Industry Into Chaos</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/trumps-tariffs-throw-the-coffee-industry-into-chaos/>
+
+---
+
+## The Best Drip Coffee Makers, Reviewed by Our Experts (2025)
+
+date: 2025-04-07, from: Bon Appetet
+
+Coffee doesn’t need to be hard to be delicious. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-drip-coffee-makers>
+
+---
+
+## ‘White Lotus’ Star Aimee Lou Wood Reveals the Tropical Food She Was ‘Addicted’ to Eating in Thailand
+
+date: 2025-04-07, from: Taste of Home
+
+<p>Aimee Lou Wood could not stop snacking on this tropical food while filming the third season of The White Lotus.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/aimee-lou-wood-white-lotus-food-thailand/">&#8216;White Lotus&#8217; Star Aimee Lou Wood Reveals the Tropical Food She Was &#8216;Addicted&#8217; to Eating in Thailand</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/aimee-lou-wood-white-lotus-food-thailand/>
 
 ---
 
@@ -147,7 +211,7 @@ date: 2025-04-07, from: The Sprudge
 
 date: 2025-04-07, from: Daily Coffee News
 
-<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="Driftaway Coffee Brooklyn 1" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Brooklyn, New York-based Driftaway Coffee is now helping guests explore the friendly seas of specialty coffee through its new roastery tasting room.&#160; A cheerful terrazzo-topped bar and wooden stadium-style bench... 
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="Driftaway Coffee Brooklyn 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Brooklyn, New York-based Driftaway Coffee is now helping guests explore the friendly seas of specialty coffee through its new roastery tasting room.&#160; A cheerful terrazzo-topped bar and wooden stadium-style bench... 
 
 <br> 
 
