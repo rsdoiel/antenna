@@ -1,11 +1,295 @@
 ---
 title: snapshots
-updated: 2025-04-08 06:10:06
+updated: 2025-04-08 14:08:47
 ---
 
 # snapshots
 
-(date: 2025-04-08 06:10:06)
+(date: 2025-04-08 14:08:47)
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-08, from: Dave Winer's linkblog)
+
+How Apple &#39;flew&#39; 5 flights full of iPhones from India and China in 3 days to beat Trump Tariffs. 
+
+<br> 
+
+<https://timesofindia.indiatimes.com/technology/mobiles-tabs/how-apple-flew-5-flights-full-of-iphones-from-india-and-china-in-3-days-to-beat-trump-tariffs/articleshow/120044321.cms>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-08, from: Dave Winer's linkblog)
+
+Not only don’t trade deficits matter, they don’t mathematically exist. 
+
+<br> 
+
+<https://daveverse.wordpress.com/2025/04/08/not-only-dont-trade-deficits-matter-they-dont-mathematically-exist/>
+
+---
+
+## Lilbits: Bigme’s HiBreak E Ink phone (without the phone), India’s mix & match laptop refurbishers, and 104 percent tariffs on Chinese imports
+
+date: 2025-04-08, from: Liliputing
+
+<p>A number of things happened after the Trump administration announced a set of global tariffs last week. Global stock markets have tanked. Some device makers have temporarily paused sales of certain devices or delayed plans to start taking orders of others. And while some countries that have been hit hard by tariffs are trying to [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/lilbits-bigmes-hibreak-e-ink-phone-without-the-phone-indias-mix-match-laptop-refurbishers-and-104-percent-tariffs-on-chinese-imports/">Lilbits: Bigme&#8217;s HiBreak E Ink phone (without the phone), India&#8217;s mix &#038; match laptop refurbishers, and 104 percent tariffs on Chinese imports</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/lilbits-bigmes-hibreak-e-ink-phone-without-the-phone-indias-mix-match-laptop-refurbishers-and-104-percent-tariffs-on-chinese-imports/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-08, from: Dave Winer's linkblog)
+
+I was trying to explain to a friend the other day that Signal  is not any kind of an answer. There are back doors into it for sure. The government doesn’t let things like that go out into the wild without them being able to spy on you. Sorry. 
+
+<br> 
+
+<https://www.jwz.org/blog/2025/04/signal-3/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-08, from: Dave Winer's linkblog)
+
+It may not be a sad story for Apple. 
+
+<br> 
+
+<https://daveverse.wordpress.com/2025/04/08/it-may-not-be-a-sad-story-for-apple/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-08, from: Dave Winer's linkblog)
+
+What’s Happening to Social Security Under Trump? Here’s What Retirees Need to Know. 
+
+<br> 
+
+<https://www.nytimes.com/2025/04/08/business/social-security-changes-trump-doge.html?unlocked_article_code=1.-E4.i55X.rx90vyVK8xR5&smid=url-share>
+
+---
+
+## This cheap dual-bay NAS now available with Intel N150
+
+date: 2025-04-08, from: Liliputing
+
+<p>A few years ago several Chinese mini PC makers started branching out into the NAS (network attached storage) space with the introduction of computers that blurred the lines between PC and connected storage device. One of the first to arrive was a model with the guts of a mini PC combined with two 3.5 inch [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-cheap-dual-bay-nas-now-available-with-intel-n150/">This cheap dual-bay NAS now available with Intel N150</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-cheap-dual-bay-nas-now-available-with-intel-n150/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-08, from: Feed for Alt USDS)
+
+Elon Musk wants you to think he is a technical genius. We don't think that's the case. Quite the opposite, in fact. In today's article, we describe what damage can be done by a team of young people and yes men led by this man.
+
+ https://www.wethebuilders.org/posts/rush-job 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lmd46klhrr2k>
+
+---
+
+## Swiftly 1.0
+
+date: 2025-04-08, from: Michael Tsai
+
+Chris McGee: Today we&#8217;re delighted to introduce the first stable release of swiftly, a Swift version manager that takes the pain out of installing, managing and updating your Swift toolchain.The latest version of Swift is bundled with Xcode for writing apps for Apple platforms. But perhaps you want to install Swift on a different platform [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/08/swiftly-1-0/>
+
+---
+
+## Kaleidoscope 5.4
+
+date: 2025-04-08, from: Michael Tsai
+
+Florian Albrecht: [The ksdiff] command (called ksp in earlier versions) captures the output from any LLDB command and sends it to Kaleidoscope. Key features include:Designed for repeated use to compare debugger output over timeAutomatically groups related calls into a single Kaleidoscope windowSeparates output from different debug targets into distinct windows[The kspo] command offers enhanced visualization [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/08/kaleidoscope-5-4/>
+
+---
+
+## Locked Out of Apple Developer Accounts
+
+date: 2025-04-08, from: Michael Tsai
+
+Dave DeLong: In the past 24 hours I&#8217;ve heard of four different developers who have been entirely locked out of their Apple Developer accounts for seemingly no reason whatsoever, with no help from support and no apparent way to escalate.No idea what&#8217;s going on, but this for sure does not seem good. Janie Larson: Last [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/08/locked-out-of-apple-developer-accounts/>
+
+---
+
+## Abysmal Services
+
+date: 2025-04-08, from: Michael Tsai
+
+Cory Dransfeldt (via Pawe&#x142; Grzybek, Hacker News): They range from mediocre to outright unusable and none of them are reliable. I&#8217;ve written about Apple Music. That one launched and cost me a phone battery. Duplicate tracks, halting playback and heat.[&#8230;]I used iCloud Mail for a bit, configured rules, deleted the rules and &#8212; well &#8212; [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/08/abysmal-services/>
+
+---
+
+## Stop syncing everything
+
+date: 2025-04-08, updated: 2025-04-08, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://sqlsync.dev/posts/stop-syncing-everything/">Stop syncing everything</a></strong></p>
+In which Carl Sverre announces <a href="https://github.com/orbitinghail/graft">Graft</a>, a fascinating new open source Rust data synchronization engine he's been working on for the past year.</p>
+<p>Carl's <a href="https://www.youtube.com/watch?v=eRsD8uSAi0s">recent talk at the Vancouver Systems meetup</a> explains Graft in detail, including this slide which helped everything click into place for me:</p>
+<p><img alt="Diagram explaining Graft data organization: Left side text reads &quot;Graft organizes data into Volumes. Volumes are sparse ordered sets of Pages.&quot; Right side shows a grid of colored squares (purple, green, blue) representing data organization. Bottom text states &quot;E.g. A SQLite database with three tables&quot;" src="https://static.simonwillison.net/static/2025/graft-slide.jpg" /></p>
+<p>Graft manages a volume, which is a collection of pages (currently at a fixed 4KB size). A full history of that volume is maintained using snapshots. Clients can read and write from particular snapshot versions for particular pages, and are constantly updated on which of those pages have changed (while not needing to synchronize the actual changed data until they need it).</p>
+<p>This is a great fit for B-tree databases like SQLite.</p>
+<p>The Graft project includes a SQLite VFS extension that implements multi-leader read-write replication on top of a Graft volume. You can see a demo of that running at <a href="https://www.youtube.com/watch?v=eRsD8uSAi0s&amp;t=36m15s">36m15s</a> in the video, or consult the <a href="https://github.com/orbitinghail/graft/blob/main/docs/sqlite.md">libgraft extension documentation</a> and try it yourself.</p>
+<p>The section at the end on <a href="https://sqlsync.dev/posts/stop-syncing-everything/#what-can-you-build-with-graft">What can you build with Graft?</a> has some very useful illustrative examples:</p>
+<blockquote>
+<p><strong>Offline-first apps</strong>: Note-taking, task management, or CRUD apps that operate partially offline. Graft takes care of syncing, allowing the application to forget the network even exists. When combined with a conflict handler, Graft can also enable multiplayer on top of arbitrary data.</p>
+<p><strong>Cross-platform data</strong>: Eliminate vendor lock-in and allow your users to seamlessly access their data across mobile platforms, devices, and the web. Graft is architected to be embedded anywhere</p>
+<p><strong>Stateless read replicas</strong>: Due to Graft's unique approach to replication, a database replica can be spun up with no local state, retrieve the latest snapshot metadata, and immediately start running queries. No need to download all the data and replay the log.</p>
+<p><strong>Replicate anything</strong>: Graft is just focused on consistent page replication. It doesn't care about what's inside those pages. So go crazy! Use Graft to sync AI models, <a href="https://en.wikipedia.org/wiki/Apache_Parquet">Parquet</a> or <a href="https://github.com/lancedb/lance">Lance</a> files, <a href="https://docs.mapbox.com/help/glossary/mbtiles/">Geospatial tilesets</a>, or just photos of your <a href="https://www.google.com/search?udm=2&amp;q=cats">cats</a>. The sky's the limit with Graft.</p>
+</blockquote>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/replication">replication</a>, <a href="https://simonwillison.net/tags/rust">rust</a>, <a href="https://simonwillison.net/tags/sqlite">sqlite</a>, <a href="https://simonwillison.net/tags/open-source">open-source</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/8/stop-syncing-everything/#atom-everything>
+
+---
+
+## FreeDOS 1.4 released, keeping the dream of an open source DOS alternative alive
+
+date: 2025-04-08, from: Liliputing
+
+<p>FreeDOS is an open source operating system designed to let you run DOS programs without installing an operating system that Microsoft abandoned decades ago. Unlike some other open source alternatives to Microsoft operating systems, FreeDOS has been feature complete and stable for a very long time&#8230; but that doesn&#8217;t mean there&#8217;s not room for improvement. [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/freedos-1-4-released-keeping-the-dream-of-an-open-source-dos-alternative-alive/">FreeDOS 1.4 released, keeping the dream of an open source DOS alternative alive</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://lpxshow.com/wp-content/uploads/2022/11/lpx_ep11.mp3"></source>
+</audio> <a href="https://lpxshow.com/wp-content/uploads/2022/11/lpx_ep11.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://liliputing.com/freedos-1-4-released-keeping-the-dream-of-an-open-source-dos-alternative-alive/>
+
+---
+
+## Superman’s Copyright Saga
+
+date: 2025-04-08, from: Authors Union blogs
+
+The creators of Superman sold their rights for just $130 in 1938, igniting decades of lawsuits over ownership and fair treatment. Now, the battle continues as Shuster's heir claims to hold certain foreign rights... 
+
+<br> 
+
+<https://www.authorsalliance.org/2025/04/08/supermans-copyright-saga/>
+
+---
+
+## Is it possible to heal the damage we have already done to the Earth?
+
+date: 2025-04-08, from: Guy Kawasaki blog
+
+Scott Denning, Professor of Atmospheric Science, Colorado State University. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/is-it-possible-to-heal-the-damage>
+
+---
+
+## GPD Pocket 3 mini-laptop gets another spec bump
+
+date: 2025-04-08, from: Liliputing
+
+<p>The GPD Pocket 3 is a mini laptop with an 8 inch FHD+ touchscreen display that can swivel and folds down over the keyboard, allowing you to use this tiny PC as a laptop or tablet. There&#8217;s also a modular port section that allows you to swap out a USB-A port for an RS-232 or KVM [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/gpd-pocket-3-mini-laptop-gets-another-spec-bump/">GPD Pocket 3 mini-laptop gets another spec bump</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/gpd-pocket-3-mini-laptop-gets-another-spec-bump/>
+
+---
+
+## A 'US-Made iPhone' Is Pure Fantasy
+
+date: 2025-04-08, from: 404 Media Group
+
+"The army of millions and millions of people screwing in little, little screws to make iPhones, that kind of thing is going to come to America." 
+
+<br> 
+
+<https://www.404media.co/a-us-made-iphone-is-pure-fantasy/>
+
+---
+
+## Moto G Stylus (2025) brings processor, display, camera, and charging improvements
+
+date: 2025-04-08, from: Liliputing
+
+<p>Some phone makers have made stylus support a premium feature. But Motorola has been bundling a stylus with its mid-range Moto G Stylus phones for years, offering users the chance to interact with their phones via fingertips or something a little more precise. The latest arrives April 17th for $400 and the Moto G Stylus [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/moto-g-stylus-2025-brings-processor-display-camera-and-charging-improvements/">Moto G Stylus (2025) brings processor, display, camera, and charging improvements</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/moto-g-stylus-2025-brings-processor-display-camera-and-charging-improvements/>
+
+---
+
+## Framework stops selling some laptops in the US in response to tariffs
+
+date: 2025-04-08, from: Liliputing
+
+<p>Modular, repairable computer maker Framework has announced it&#8217;s &#8220;temporarily pausing&#8221; the sales of some laptops in the United States in response to global tariffs that recently took effect. Specifically, customers in the US can no longer order an entry-level Framework Laptop 13 with an Intel Core Ultra 125H or AMD Ryzen 5 7640U processor. Higher-priced [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/framework-stops-selling-some-laptops-in-the-us-in-response-to-tariffs/">Framework stops selling some laptops in the US in response to tariffs</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/framework-stops-selling-some-laptops-in-the-us-in-response-to-tariffs/>
+
+---
+
+## Another Masterful Gambit: DOGE Moves From Secure, Reliable Tape Archives to Hackable Digital Records
+
+date: 2025-04-08, from: 404 Media Group
+
+DOGE claimed it saved "$1M per year" by converting 14,000 magnetic tapes to digital storage. 
+
+<br> 
+
+<https://www.404media.co/doge-gsa-magnetic-tape-archives-digital-storage/>
+
+---
+
+## It’s a Baseball! It’s a Pearl! It’s…
+
+date: 2025-04-08, updated: 2025-04-08, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/08/its-a-baseball-its-a-pearl-its/>
 
 ---
 
@@ -33,6 +317,18 @@ Some lawmakers think additional guardrails are needed for future uses. For now, 
 
 ---
 
+## CCC aktualisiert Unvereinbarkeitserklärung
+
+date: 2025-04-08, updated: 2025-04-08, from: Chaos Computer Club Updates
+
+Auf seiner Mitgliederversammlung in Frankfurt/Main am Wochenende hat der Chaos Computer Club (CCC) seine Unvereinbarkeitserklärung erneuert und einstimmig verabschiedet. 
+
+<br> 
+
+<https://www.ccc.de/de/updates/2025/ccc-aktualisiert-unvereinbarkeitserklaerung>
+
+---
+
 ## There Was a Record 5 to 6 Million People Who Took to the Streets to Stop Trump on Saturday! — And the Only Sound of Silence You Hear is from the Media and the Democratic Party
 
 date: 2025-04-08, from: Michael Moore's blog
@@ -54,6 +350,194 @@ Another front in the war on American greatness
 <br> 
 
 <https://paulkrugman.substack.com/p/attack-of-the-quack-industrial-complex>
+
+---
+
+## Repurposing Protein Folding Models for Generation with Latent Diffusion
+
+date: 2025-04-08, from: Berkley Artificial Intellegence Research Blog
+
+<!-- twitter -->
+<meta name="twitter:title" content="Repurposing Protein Folding Models for Generation with Latent Diffusion" />
+
+<meta name="twitter:card" content="summary_large_image" />
+
+<meta name="twitter:image" content="https://bair.berkeley.edu/blog/assets/plaid/main.png" />
+
+<meta name="keywords" content="Protein Design, Protein Structure Prediction, Latent Diffusion, Multimodal Generation" />
+
+<meta name="description" content="The BAIR Blog" />
+
+<meta name="author" content="Amy X. Lu" />
+
+<!--
+The actual text for the post content appears below.  Text will appear on the
+homepage, i.e., https://bair.berkeley.edu/blog/ but we only show part of theac
+posts on the homepage. The rest is accessed via clicking 'Continue'. This is
+enforced with the `more` excerpt separator.
+-->
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image1.jpg" width="75%" />
+<br />
+<i style="font-size: 0.9em;"><a href="https://www.biorxiv.org/content/10.1101/2024.12.02.626353v2" target="_blank">PLAID</a> is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models.</i>
+</p>
+
+<p>The awarding of the 2024 <a href="https://www.nobelprize.org/prizes/chemistry/">Nobel Prize</a> to AlphaFold2 marks an important moment of recognition for the of AI role in biology. What comes next after protein folding?</p>
+
+<p>In <strong><a href="https://www.biorxiv.org/content/10.1101/2024.12.02.626353v2">PLAID</a></strong>, we develop a method that learns to sample from the latent space of protein folding models to <em>generate</em> new proteins. It can accept <strong>compositional function and organism prompts</strong>, and can be <strong>trained on sequence databases</strong>, which are 2-4 orders of magnitude larger than structure databases. Unlike many previous protein structure generative models, PLAID addresses the multimodal co-generation problem setting: simultaneously generating both discrete sequence and continuous all-atom structural coordinates.</p>
+
+<!--more-->
+
+<h2 id="from-structure-prediction-to-real-world-drug-design">From structure prediction to real-world drug design</h2>
+
+<p>Though recent works demonstrate promise for the ability of diffusion models to generate proteins, there still exist limitations of previous models that make them impractical for real-world applications, such as:</p>
+
+<ul>
+  <li><span style="color:#17a589"><strong>All-atom generation</strong></span>: Many existing generative models only produce the backbone atoms. To produce the all-atom structure and place the sidechain atoms, we need to know the sequence. This creates a multimodal generation problem that requires simultaneous generation of discrete and continuous modalities.</li>
+  <li><span style="color:#dc7633"><strong>Organism specificity</strong></span>: Proteins biologics intended for human use need to be <em>humanized</em>, to avoid being destroyed by the human immune system.</li>
+  <li><span style="color:#9F2B68"><strong>Control specification</strong></span>: Drug discovery and putting it into the hands of patients is a complex process. How can we specify these complex constraints? For example, even after the biology is tackled, you might decide that tablets are easier to transport than vials, adding a new constraint on soluability.</li>
+</ul>
+
+<h2 id="generating-useful-proteins">Generating “useful” proteins</h2>
+
+<p>Simply generating proteins is not as useful as  <span style="color:#9F2B68"><em>controlling</em></span> the generation to get <em>useful</em> proteins. What might an interface for this look like?</p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image2.jpg" width="70%" />
+<br />
+<i>For inspiration, let's consider how we'd control image generation via compositional textual prompts (example from <a href="https://energy-based-model.github.io/Compositional-Visual-Generation-with-Composable-Diffusion-Models/">Liu et al., 2022</a>).</i>
+</p>
+
+<p>In PLAID, we mirror this interface for <span style="color:#9F2B68">control specification</span>. The ultimate goal is to control generation entirely via a textual interface, but here we consider compositional constraints for two axes as a proof-of-concept: <span style="color:#9F2B68">function</span> and <span style="color:#dc7633">organism</span>:</p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image3.jpg" width="70%" />
+<br />
+<i><b>Learning the function-structure-sequence connection.</b> PLAID learns the tetrahedral cysteine-Fe<sup>2+</sup>/Fe<sup>3+</sup> coordination pattern often found in metalloproteins, while maintaining high sequence-level diversity.</i>
+</p>
+
+<h2 id="training-using-sequence-only-training-data">Training using sequence-only training data</h2>
+<p><strong>Another important aspect of the PLAID model is that we only require sequences to train the generative model!</strong> Generative models learn the data distribution defined by its training data, and sequence databases are considerably larger than structural ones, since sequences are much cheaper to obtain than experimental structure.</p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image4.jpg" width="100%" />
+<br />
+<i><b>Learning from a larger and broader database.</b> The cost of obtaining protein sequences is much lower than experimentally characterizing structure, and sequence databases are 2-4 orders of magnitude larger than structural ones.</i>
+</p>
+
+<h2 id="how-does-it-work">How does it work?</h2>
+<p>The reason that we’re able to train the generative model to generate structure by only using sequence data is by learning a diffusion model over the <em>latent space of a protein folding model</em>. Then, during inference, after sampling from this latent space of valid proteins, we can take <em>frozen weights</em> from the protein folding model to decode structure. Here, we use <a href="https://www.science.org/doi/10.1126/science.ade2574">ESMFold</a>, a successor to the AlphaFold2 model which replaces a retrieval step with a protein language model.</p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image5.jpg" width="80%" />
+<br />
+<i><b>Our method.</b> During training, only sequences are needed to obtain the embedding; during inference, we can decode sequence and structure from the sampled embedding. ❄️ denotes frozen weights.
+</i>
+</p>
+
+<p>In this way, we can use structural understanding information in the weights of pretrained protein folding models for the protein design task. This is analogous to how vision-language-action (VLA) models in robotics make use of priors contained in vision-language models (VLMs) trained on internet-scale data to supply perception and reasoning and understanding information.</p>
+
+<h2 id="compressing-the-latent-space-of-protein-folding-models">Compressing the latent space of protein folding models</h2>
+
+<p>A small wrinkle with directly applying this method is that the latent space of ESMFold – indeed, the latent space of many transformer-based models – requires a lot of regularization. This space is also very large, so learning this embedding ends up mapping to high-resolution image synthesis.</p>
+
+<p>To address this, we also propose <strong><a href="https://www.biorxiv.org/content/10.1101/2024.08.06.606920v2">CHEAP</a> (Compressed Hourglass Embedding Adaptations of Proteins)</strong>, where we learn a compression model for the joint embedding of protein sequence and structure.</p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image6.jpg" width="80%" />
+<br />
+<i><b>Investigating the latent space.</b> (A) When we visualize the mean value for each channel, some channels exhibit “massive activations”. (B) If we start examining the top-3 activations compared to the median value (gray), we find that this happens over many layers. (C) Massive activations have also been observed for other transformer-based models.</i>
+</p>
+
+<p>We find that this latent space is actually highly compressible. By doing a bit of mechanistic interpretability to better understand the base model that we are working with, we were able to create an all-atom protein generative model.</p>
+
+<h2 id="whats-next">What’s next?</h2>
+
+<p>Though we examine the case of protein sequence and structure generation in this work, we can adapt this method to perform multi-modal generation for any modalities where there is a predictor from a more abundant modality to a less abundant one. As sequence-to-structure predictors for proteins are beginning to tackle increasingly complex systems (e.g. AlphaFold3 is also able to predict proteins in complex with nucleic acids and molecular ligands), it’s easy to imagine performing multimodal generation over more complex systems using the same method. 
+If you are interested in collaborating to extend our method, or to test our method in the wet-lab, please reach out!</p>
+
+<h2 id="further-links">Further links</h2>
+<p>If you’ve found our papers useful in your research, please consider using the following BibTeX for PLAID and CHEAP:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@article{lu2024generating,
+  title={Generating All-Atom Protein Structure from Sequence-Only Training Data},
+  author={Lu, Amy X and Yan, Wilson and Robinson, Sarah A and Yang, Kevin K and Gligorijevic, Vladimir and Cho, Kyunghyun and Bonneau, Richard and Abbeel, Pieter and Frey, Nathan},
+  journal={bioRxiv},
+  pages={2024--12},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
+}
+</code></pre></div></div>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@article{lu2024tokenized,
+  title={Tokenized and Continuous Embedding Compressions of Protein Sequence and Structure},
+  author={Lu, Amy X and Yan, Wilson and Yang, Kevin K and Gligorijevic, Vladimir and Cho, Kyunghyun and Abbeel, Pieter and Bonneau, Richard and Frey, Nathan},
+  journal={bioRxiv},
+  pages={2024--08},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
+}
+</code></pre></div></div>
+
+<p>You can also checkout our preprints (<a href="https://www.biorxiv.org/content/10.1101/2024.12.02.626353v2">PLAID</a>, <a href="https://www.biorxiv.org/content/10.1101/2024.08.06.606920v2">CHEAP</a>) and codebases (<a href="https://github.com/amyxlu/plaid">PLAID</a>, <a href="https://github.com/amyxlu/cheap-proteins">CHEAP</a>).</p>
+
+<p><br /><br /></p>
+
+<h2 id="some-bonus-protein-generation-fun">Some bonus protein generation fun!</h2>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image7.jpg" width="100%" />
+<br />
+<i>Additional function-prompted generations with PLAID.
+</i>
+</p>
+
+<p><br /><br /></p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image9.jpg" width="100%" />
+<br />
+<i>
+Unconditional generation with PLAID.
+</i>
+</p>
+
+<p><br /><br /></p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image10.jpg" width="90%" />
+<br />
+<i>Transmembrane proteins have hydrophobic residues at the core, where it is embedded within the fatty acid layer. These are consistently observed when prompting PLAID with transmembrane protein keywords.
+</i>
+</p>
+
+<p><br /><br /></p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image11.jpg" width="100%" />
+<br />
+<i>Additional examples of active site recapitulation based on function keyword prompting.
+</i>
+</p>
+
+<p><br /><br /></p>
+
+<p style="text-align:center;">
+<img src="https://bair.berkeley.edu/static/blog/plaid/image8.jpg" width="50%" />
+<br />
+<i>Comparing samples between PLAID and all-atom baselines. PLAID samples have better diversity and captures the beta-strand pattern that has been more difficult for protein generative models to learn.
+</i>
+</p>
+
+<p><br /><br /></p>
+
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>Thanks to Nathan Frey for detailed feedback on this article, and to co-authors across BAIR, Genentech, Microsoft Research, and New York University: Wilson Yan, Sarah A. Robinson, Simon Kelow, Kevin K. Yang, Vladimir Gligorijevic, Kyunghyun Cho, Richard Bonneau, Pieter Abbeel, and Nathan C. Frey.</p> 
+
+<br> 
+
+<http://bair.berkeley.edu/blog/2025/04/08/plaid/>
 
 ---
 

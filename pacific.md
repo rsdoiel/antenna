@@ -1,11 +1,196 @@
 ---
 title: pacific
-updated: 2025-04-08 06:09:58
+updated: 2025-04-08 14:08:39
 ---
 
 # pacific
 
-(date: 2025-04-08 06:09:58)
+(date: 2025-04-08 14:08:39)
+
+---
+
+## From Hilo to nationals: A tribute to Kaimū
+
+date: 2025-04-08, from: University of Hawaiʻi News
+
+<p>University of <span aria-label="Hawaii">Hawai&#699;i</span> at Hilo dance students were chosen to compete at the 2025 American College Dance Association Festival in Washington, D.C.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/from-hilo-to-nationals-a-tribute-to-kaimu/">From Hilo to nationals: A tribute to Kaimū</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/from-hilo-to-nationals-a-tribute-to-kaimu/>
+
+---
+
+## New UH Cancer Center program supports cancer community
+
+date: 2025-04-08, from: University of Hawaiʻi News
+
+<p>The April 5 launch of the Susan C. Hirano Cancer C.A.R.E. Community drew more than 100 people.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/cancer-care-community-launch/">New <abbr>UH</abbr> Cancer Center program supports cancer community</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/cancer-care-community-launch/>
+
+---
+
+## UH Hilo grad student’s legacy: Pohnpei water quality research
+
+date: 2025-04-08, from: University of Hawaiʻi News
+
+<p>Bryan Tonga, a <abbr>UH</abbr> Hilo graduate student, led Pohnpei’s first island-wide nearshore water quality study–the work published nearly four years after his death.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/tonga-pohnpei-water-quality-research/"><abbr>UH</abbr> Hilo grad student’s legacy: Pohnpei water quality research</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/tonga-pohnpei-water-quality-research/>
+
+---
+
+## UH offers support, promotes healthy relationships for Sex Assault Awareness Month
+
+date: 2025-04-08, from: University of Hawaiʻi News
+
+<p>&#8220;This is an important time for our <abbr title="University of Hawaii">UH</abbr> &#699;ohana to come together to stand with survivors and demand respect and safety for all.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/uh-offers-support-promotes-healthy-relationships-saam/"><abbr>UH</abbr> offers support, promotes healthy relationships for Sex Assault Awareness Month</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/uh-offers-support-promotes-healthy-relationships-saam/>
+
+---
+
+##  ‘Sustainable’ and ‘diversification’: Catchphrases that mean everything and nothing
+
+date: 2025-04-08, from: Pacific Island Times
+
+The local economy has been down since the imposition of Covid restrictions five years ago so there are talks, once again, of “diversificatio 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/sustainable-and-diversification-catchphrases-that-mean-everything-and-nothing>
+
+---
+
+## 6 UH Mānoa grad programs in nation’s top 50, 10 more in top 100
+
+date: 2025-04-08, from: University of Hawaiʻi News
+
+<p>Rankings were based on different criteria, including research activity, placement success, quality assessment, student selectivity and faculty resources.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/us-news-best-grad-programs-2025/">6 <abbr>UH</abbr> Mānoa grad programs in nation’s top 50, 10 more in top 100</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/us-news-best-grad-programs-2025/>
+
+---
+
+## Variety editor’s 4th book available at Joeten Susupe
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
+
+---
+
+## JKPL showcases growth, faces uncertain funding future
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+AT the Literacy Block Party held on Saturday at Joeten-Kiyu Public Library in Susupe, JKPL staff, CNMI officials, and members of the public came together to celebrate the library’s achievements and highlight its ongoing and upcoming projects. Amid the festivities, however, the library also acknowledged a looming concern: the potential loss of critical federal funding. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/jkpl-showcases-growth-faces-uncertain-funding-future/article_8b9d5a5b-c017-4757-9d0b-fdb313e8a63f.html>
+
+---
+
+## King-Hinds calls for reversal of humanities funding cut
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+U.S. Congresswoman Kimberlyn King-Hinds urged National Endowment for the Humanities Acting Chairman Michael McDonald to reconsider the decision to end funding for the CNMI. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/king-hinds-calls-for-reversal-of-humanities-funding-cut/article_84aee929-af1b-41cd-ab74-e878f0c0e269.html>
+
+---
+
+## Military population in Guam to surge to more than 35k in next 12 years
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+HAGÅTÑA (The Guam Daily Post) — Guam’s current military population of 22,890 is projected to reach 35,062 by 2037, according to estimates presented by U.S. Department of Defense representatives at an informational briefing before the legislative Committee on Military Buildup on Monday. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/military-population-in-guam-to-surge-to-more-than-35k-in-next-12-years/article_14831067-d26a-478c-bc6a-1ce8f5d76660.html>
+
+---
+
+## Trump threatens to hike China tariffs further as market plunge continues
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+WASHINGTON/BRUSSELS (Reuters) — A global trade war touched off by President Donald Trump's sweeping tariffs escalated further on Monday, as Trump threatened to increase duties on China and the European Union proposed counter-tariffs of its own. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/trump-threatens-to-hike-china-tariffs-further-as-market-plunge-continues/article_d26533ba-d28c-4277-8a0d-8d4824147b14.html>
+
+---
+
+## ‘Handmaid’s Tale’ star Elisabeth Moss not ready for final season farewell
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+LOS ANGELES (Reuters) — As a producer, director and the lead actor for the Emmy-winning Hulu series “The Handmaid’s Tale,” Elisabeth Moss isn’t ready to say goodbye to the dystopian drama series after a six-season long run. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/handmaid-s-tale-star-elisabeth-moss-not-ready-for-final-season-farewell/article_738fce4e-dddc-48ab-94bf-30524ad16d69.html>
+
+---
+
+## Marianas Eye Institute’s Jennifer Armia achieves Ophthalmic Coding Specialist certification
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+MARIANAS Eye Institute is proud to announce that Jennifer Armia has officially earned the title of Ophthalmic Coding Specialist or OCS. This certification is awarded by the Joint Commission on Allied Health Personnel in Ophthalmology and represents the highest standard of expertise in ophthalmic coding and billing practices. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/marianas-eye-institute-s-jennifer-armia-achieves-ophthalmic-coding-specialist-certification/article_ad2691d8-6f10-4b94-a902-e16aa653ae80.html>
+
+---
+
+## NMC to host free summer 2025 info session on April 24
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+COMMUNITY members interested in pursuing higher education are invited to attend Northern Marianas College’s free information session regarding the upcoming Summer 2025 semester on Thursday, April 24, 2025. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-to-host-free-summer-2025-info-session-on-april-24/article_ba79720c-948e-4393-b448-5d25121fafa8.html>
+
+---
+
+## NMC student receives Pacific Region Scholarship
+
+date: 2025-04-08, updated: 2025-04-08, from: Marianas Variety
+
+(NMC) — Maxine Alexandra Rabago, a nursing student at Northern Marianas College, received a $1,000 scholarship and was named one of the recipients of the Pacific Region Scholarship by Phi Theta Kappa Honor Society. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/nmc-student-receives-pacific-region-scholarship/article_2eb6c409-b4ad-46b5-a71b-9eb26a7bbc89.html>
 
 ---
 
@@ -937,18 +1122,6 @@ BEIJING (Reuters) — From his kitchen in Beijing, Yu Bo is running a campaign t
 <br> 
 
 <https://www.mvariety.com/lifestyle/one-beijing-man-s-quest-to-keep-cooking-and-connecting-with-americans-on-camera/article_598b5899-66a4-4973-8876-beea82ec0225.html>
-
----
-
-## Variety editor’s 4th book available at Joeten Susupe
-
-date: 2025-04-06, updated: 2025-04-06, from: Marianas Variety
-
-MARIANAS Variety editor Zaldy Dandan’s fourth book, "If He Isn’t Insane Then He Should Be: Stories &amp; Poems from Saipan," is available at the Joeten Shopping Center in Susupe. 
-
-<br> 
-
-<https://www.mvariety.com/lifestyle/variety-editor-s-4th-book-available-at-joeten-susupe/article_5eeb8ede-98d3-11ee-aa1f-37847a9e623b.html>
 
 ---
 

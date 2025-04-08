@@ -1,11 +1,170 @@
 ---
 title: socal north
-updated: 2025-04-08 06:09:57
+updated: 2025-04-08 14:08:39
 ---
 
 # socal north
 
-(date: 2025-04-08 06:09:57)
+(date: 2025-04-08 14:08:39)
+
+---
+
+## LA City Council votes to explore pulling its funding from beleaguered homelessness agency
+
+date: 2025-04-08, updated: 2025-04-08, from: The LAist
+
+After L.A. County decided to withdraw its funding last week, Council President Marqueece Harris-Dawson said “LAHSA is effectively ended.” 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/la-city-council-votes-to-explore-lahsa-exit>
+
+---
+
+## Feds launch task force to look for fraud, corruption in use of homelessness funds
+
+date: 2025-04-08, from: Longbeach Post
+
+<figure><img width="1024" height="503" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-768x378.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-400x197.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>"Taxpayers deserve answers for where and how their hard-earned money has been spent," U.S. Attorney Bill Essayli said in a statement.</p>
+<p>The post <a href="https://lbpost.com/news/feds-launch-task-force-to-look-for-fraud-corruption-in-use-of-homelessness-funds">Feds launch task force to look for fraud, corruption in use of homelessness funds</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/feds-launch-task-force-to-look-for-fraud-corruption-in-use-of-homelessness-funds>
+
+---
+
+## It’s the first US nuclear plant to use AI. Why Diablo Canyon has California lawmakers worried
+
+date: 2025-04-08, updated: 2025-04-08, from: The LAist
+
+For now, the nuclear facility will use AI to comply with regulations. But some lawmakers think additional guardrails are needed. 
+
+<br> 
+
+<https://laist.com/news/nuclear-plant-ai-diablo-canyon-california-lawmakers-worried>
+
+---
+
+## Who says it’s last call? Two lawmakers push drinking until 4 a.m. at California bars
+
+date: 2025-04-08, from: Longbeach Post
+
+<figure><img width="1024" height="796" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-1024x796.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-1024x796.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-300x233.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-768x597.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-139x108.jpg 139w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-400x311.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Business groups and downtown associations say drinking later could revitalize nightlife and ease the 2 a.m. rush when bars shut down.</p>
+<p>The post <a href="https://lbpost.com/news/politics/who-says-its-last-call-two-lawmakers-push-drinking-until-4-a-m-at-california-bars">Who says it’s last call? Two lawmakers push drinking until 4 a.m. at California bars</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/politics/who-says-its-last-call-two-lawmakers-push-drinking-until-4-a-m-at-california-bars>
+
+---
+
+## Will your insurance go up? State Farm rate hike hearings kick off
+
+date: 2025-04-08, updated: 2025-04-08, from: The LAist
+
+Homeowners with State Farm insurance policies could see a 22% rate hike. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/insurance-state-farm-rate-hike-hearing>
+
+---
+
+## California has big plans for improving mental health. Medicaid cuts could upend them
+
+date: 2025-04-08, updated: 2025-04-08, from: The LAist
+
+Almost 15 million Californians are covered by Medicaid. Cuts to the program could weaken mental health programs, including those that connect people with housing and treatment. 
+
+<br> 
+
+<https://laist.com/news/health/california-has-big-plans-for-improving-mental-health-medicaid-cuts-could-upend-them>
+
+---
+
+## Supreme Court lets Trump move forward with firing thousands of federal workers
+
+date: 2025-04-08, updated: 2025-04-08, from: The LAist
+
+The Supreme Court's stay, which allows the administration to execute the firings for now, while it litigates in federal court, does not mean the terminations were lawful. 
+
+<br> 
+
+<https://laist.com/news/politics/supreme-court-lets-trump-move-forward-with-firing-thousands-of-federal-workers>
+
+---
+
+## Federal task force to investigate potential fraud and misuse of homelessness funding
+
+date: 2025-04-08, updated: 2025-04-08, from: The LAist
+
+The task force will target federal dollars set aside for homelessness in seven SoCal counties. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/federal-task-force-to-investigate-potential-fraud-and-misuse-of-homelessness-funding>
+
+---
+
+## Long Beach native Billie Jean King gets star on Hollywood Walk of Fame
+
+date: 2025-04-08, from: Longbeach Post
+
+<figure><img width="1024" height="748" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3-300x219.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3-1024x748.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3-768x561.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3-148x108.jpg 148w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3-1536x1121.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3-1200x876.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3-1568x1145.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/09/20095236/0912-LIBRARY07-3-400x292.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>She became the first woman to receive a star on the Hollywood Walk of Fame in the sports entertainment category.</p>
+<p>The post <a href="https://lbpost.com/news/long-beach-native-billie-jean-king-gets-star-on-hollywood-walk-of-fame">Long Beach native Billie Jean King gets star on Hollywood Walk of Fame</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/long-beach-native-billie-jean-king-gets-star-on-hollywood-walk-of-fame>
+
+---
+
+## California solar plant is riding into the sunset, thanks to cheaper panels
+
+date: 2025-04-08, updated: 2025-04-08, from: The LAist
+
+Photvoltaic solar panels are now so much cheaper than the energy being generated at the Ivanpah facility in the Mojave Desert that the plant is set to close. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/california-solar-plant-is-riding-into-the-sunset-thanks-to-cheaper-panels>
+
+---
+
+## California’s big pension funds lost billions in stock market selloff. Can they recover in time?
+
+date: 2025-04-08, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08065620/111224-calstrs-mg-cm-06-782761-cbknpw5i-330265-WzME2tIS.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The stock market selloff that followed President Trump’s latest tariff announcement underscored the “unprecedented” risk that California pension funds see in a potential trade war.</p>
+<p>The post <a href="https://lbpost.com/news/californias-big-pension-funds-lost-billions-in-stock-market-selloff-can-they-recover-in-time">California’s big pension funds lost billions in stock market selloff. Can they recover in time?</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/californias-big-pension-funds-lost-billions-in-stock-market-selloff-can-they-recover-in-time>
+
+---
+
+## City approves plans for Lucky Strike bowling alley at Long Beach Exchange
+
+date: 2025-04-08, from: Longbeach Post
+
+<figure><img width="1024" height="561" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-1024x561.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-1024x561.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-300x164.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-768x420.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-192x105.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-1536x841.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-2048x1121.png 2048w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-1200x657.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-1568x858.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-400x219.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/07134556/screenshot-2025-04-07-at-122444pm-121776-kgw1kix6-998271-gMmT3OcE-e1744058800751.png 1722w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Planning commissioners approved a project that will convert the old Orchard Supply Hardware into a 34-lane bowling alley and entertainment center. </p>
+<p>The post <a href="https://lbpost.com/news/business/development/luck-strike-bowling-alley-long-beach-exchange">City approves plans for Lucky Strike bowling alley at Long Beach Exchange </a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/business/development/luck-strike-bowling-alley-long-beach-exchange>
 
 ---
 
@@ -27,7 +186,7 @@ date: 2025-04-08, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-08, from: Longbeach Post
 
-<figure><img width="1024" height="534" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-1024x534.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-1024x534.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-300x157.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-768x401.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-192x100.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-400x209.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="534" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-1024x534.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-1024x534.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-300x157.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-768x401.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-192x100.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf-400x209.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/09/26155345/26sep24-food-0-381769-lwargnif-355193-2ZTNAgbf.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>A lawsuit alleges that millions of dollars were diverted to pay for self-dealing contracts, a sham job for a family member, and personal items like smart watches and cell phones.</p>
 <p>The post <a href="https://lbpost.com/news/food-bank-southern-california-scheme-lawsuit-enrich-attorney-general">State accuses food bank of decade-long scheme to enrich board members, ex-CEO</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -40,7 +199,7 @@ date: 2025-04-08, from: Longbeach Post
 
 ## This LA County program can prevent homelessness — if it can convince people it’s not a scam
 
-date: 2025-04-07, updated: 2025-04-07, from: The LAist
+date: 2025-04-07, updated: 2025-04-08, from: The LAist
 
 Despite being offered help with rent, debt and medical care, nearly half the people contacted by a county homelessness prevention program never call back. 
 
@@ -343,9 +502,9 @@ The whale had been swimming around the harbor for a week.
 
 ## Scenes from the 'Hands Off!' protests in Southern California
 
-date: 2025-04-06, updated: 2025-04-06, from: The LAist
+date: 2025-04-06, updated: 2025-04-08, from: The LAist
 
-Proetsts took place in more than a dozen communities across Southern California. 
+Protests took place in more than a dozen communities across Southern California. 
 
 <br> 
 

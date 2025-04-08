@@ -1,11 +1,153 @@
 ---
 title: columns
-updated: 2025-04-08 06:10:01
+updated: 2025-04-08 14:08:42
 ---
 
 # columns
 
-(date: 2025-04-08 06:10:01)
+(date: 2025-04-08 14:08:42)
+
+---
+
+## Apple Is Hustling to Fly Planes of iPhones Into the U.S. Ahead of Trump’s Tariffs
+
+date: 2025-04-08, updated: 2025-04-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/04/07/iphone-inventory-united-states-planes/>
+
+---
+
+##  The Rules of Road Runner and Wile E. Coyote Cartoons 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-rules-of-road-runner-and-wile-e-coyote-cartoons-1>
+
+---
+
+##  Can I Teach the First Amendment If I Only Have a Green... 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046600-can-i-teach-the-first>
+
+---
+
+##  25 Films to Help Understand the US Today 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/25-films-to-help-understand-the-us-today>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-08, from: Miguel de Icaza Mastondon feed)
+
+<p>Glad I bought those new Macs when they were announced last month.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114303905014979883>
+
+---
+
+##  Happy 10th birthday to Lit Hub, a site I&#8217;ve been reading and... 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046596-happy-10th-birthday-to-li>
+
+---
+
+##  DJ Bart Simpson & The Hood Internet 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/dj-bart-simpson-the-hood-internet>
+
+---
+
+## April 7, 2025
+
+date: 2025-04-08, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160881012/4d55821e75b723ce9811b6aa854688a7.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160881012/4d55821e75b723ce9811b6aa854688a7.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-7-2025-752>
+
+---
+
+##  How to Enter the US With Your Digital Privacy Intact. &#8220;Crossing into... 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046594-how-to-enter-the-us>
+
+---
+
+##  On the Episode That Changed Ira Glass&#8217;s This American Life Forever. Or,... 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046549-on-the-episode-that-chang>
+
+---
+
+**@Dave Winer's Scripting News** (date: 2025-04-08, from: Dave Winer's Scripting News)
+
+Today's song: <a href="https://www.youtube.com/watch?v=6BODDyZRF6A">Come on Eileen</a>. 
+
+<br> 
+
+<http://scripting.com/2025/04/08.html#a160945>
+
+---
+
+##  Torpedo Bats and the Physics of the Sweet Spot. They invented a... 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046590-torpedo-bats-and-the-phys>
 
 ---
 

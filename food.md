@@ -1,11 +1,71 @@
 ---
 title: food
-updated: 2025-04-08 06:10:05
+updated: 2025-04-08 14:08:46
 ---
 
 # food
 
-(date: 2025-04-08 06:10:05)
+(date: 2025-04-08 14:08:46)
+
+---
+
+## What 20 Years of Traveling Taught Me About Eating Like A Local
+
+date: 2025-04-08, from: Bon Appetet
+
+From avoiding crowds to asking the right questions, here are some tried-and-true tips from a seasoned traveler. 
+
+<br> 
+
+<https://www.bonappetit.com/story/what-20-years-of-traveling-taught-me-about-eating-like-a-local>
+
+---
+
+## Column: In Coffee, the U.S. is Not Well-Suited to Play Trade Victim
+
+date: 2025-04-08, from: Daily Coffee News
+
+<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg" class="attachment-large size-large wp-post-image" alt="adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-768x545.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The coffee in the cups of hundreds of millions of Americans this morning is a minor miracle, made possible through the work of a long chain of related actors. That... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/08/column-in-coffee-the-u-s-is-not-well-suited-to-play-trade-victim/>
+
+---
+
+## Forum Coffee Opens in Downtown Hoboken, Plans 8-10 More Shops
+
+date: 2025-04-08, from: Daily Coffee News
+
+<div><img width="620" height="476" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-620x476.jpg" class="attachment-large size-large wp-post-image" alt="Forum Coffee Hoboken 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-620x476.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-300x230.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-768x590.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The third location of New Jersey-based Forum Coffee is now open for business in downtown Hoboken, offering a small gathering place for discussion over brews of freshly roasted coffees and... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/08/forum-coffee-opens-in-downtown-hoboken-plans-8-10-more-shops/>
+
+---
+
+## The Best Sparkling Water Maker (2025), According to Years of Testing
+
+date: 2025-04-08, from: Bon Appetet
+
+This is how you transform a bad rosé into something bubbly and palatable. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-soda-makers>
+
+---
+
+## New York Roaster Coffee Bros. Calls for Tariff Exemptions for Coffee
+
+date: 2025-04-08, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee-exempt-from-tariffs" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros.jpg 1000w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York City-based specialty coffee roasting company Coffee Bros. is calling on the federal government to exempt coffee from the sweeping new tariffs announced by President Donald Trump. The company&#8217;s... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/08/new-york-roaster-coffee-bros-calls-for-tariff-exemptions-for-coffee/>
 
 ---
 
@@ -13,7 +73,7 @@ updated: 2025-04-08 06:10:05
 
 date: 2025-04-08, from: Daily Coffee News
 
-<div><img width="620" height="381" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-620x381.jpg" class="attachment-large size-large wp-post-image" alt="Ground Control logo" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-620x381.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-300x184.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-150x92.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-768x472.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Voga Coffee LLC, the Oakland, California-based maker of innovative Ground Control batch coffee brewing machines, has ceased operations. The company, which first launched onto the specialty coffee scene with a... 
+<div><img width="620" height="381" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-620x381.jpg" class="attachment-large size-large wp-post-image" alt="Ground Control logo" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-620x381.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-300x184.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-150x92.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo-768x472.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/Ground-Control-logo.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Voga Coffee LLC, the Oakland, California-based maker of innovative Ground Control batch coffee brewing machines, has ceased operations. The company, which first launched onto the specialty coffee scene with a... 
 
 <br> 
 
@@ -44,6 +104,30 @@ date: 2025-04-08, from: The Fresh Cup
 <br> 
 
 <https://freshcup.com/trumps-tariffs-throw-the-coffee-industry-into-chaos/>
+
+---
+
+## The Seeds That Grow the Most Delicious Vegetables
+
+date: 2025-04-08, from: Bon Appetet
+
+Row 7 is taking on Big Produce, one crop at a time 
+
+<br> 
+
+<https://www.bonappetit.com/story/the-harvest-row-7-seeds>
+
+---
+
+## Melting Cabbage
+
+date: 2025-04-08, from: Taste of Home
+
+Our popular melting cabbage recipe transforms wedges of the healthy, crunchy vegetable into a silky, tender treat that's a perfect accompaniment to roasted meats and starchy sides. 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/melting-cabbage/>
 
 ---
 
@@ -211,7 +295,7 @@ date: 2025-04-07, from: The Sprudge
 
 date: 2025-04-07, from: Daily Coffee News
 
-<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="Driftaway Coffee Brooklyn 1" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Brooklyn, New York-based Driftaway Coffee is now helping guests explore the friendly seas of specialty coffee through its new roastery tasting room.&#160; A cheerful terrazzo-topped bar and wooden stadium-style bench... 
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-620x420.jpg" class="attachment-large size-large wp-post-image" alt="Driftaway Coffee Brooklyn 1" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Driftaway-Coffee-Brooklyn-1-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Brooklyn, New York-based Driftaway Coffee is now helping guests explore the friendly seas of specialty coffee through its new roastery tasting room.&#160; A cheerful terrazzo-topped bar and wooden stadium-style bench... 
 
 <br> 
 

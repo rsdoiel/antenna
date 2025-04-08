@@ -1,11 +1,62 @@
 ---
 title: journalism
-updated: 2025-04-08 06:10:02
+updated: 2025-04-08 14:08:43
 ---
 
 # journalism
 
-(date: 2025-04-08 06:10:02)
+(date: 2025-04-08 14:08:43)
+
+---
+
+## Arianna Huffington named baccalaureate keynote speaker
+
+date: 2025-04-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The ceremony will take place May 14 at Bovard Auditorium.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/08/arianna-huffington-named-baccalaureate-keynote-speaker/">Arianna Huffington named baccalaureate keynote speaker</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/08/arianna-huffington-named-baccalaureate-keynote-speaker/>
+
+---
+
+## No. 1 women’s water polo beats out Stanford, continuing to dominate with new stars
+
+date: 2025-04-08, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The post <a href="https://dailytrojan.com/2025/04/08/no-1-womens-water-polo-beats-out-stanford-continuing-to-dominate-with-new-stars/">No. 1 women&#8217;s water polo beats out Stanford, continuing to dominate with new stars</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/08/no-1-womens-water-polo-beats-out-stanford-continuing-to-dominate-with-new-stars/>
+
+---
+
+## Second Spin: How local records stores are preparing for Record Store Day 2025
+
+date: 2025-04-08, from: The Sundail (CSUN Student Newspaper)
+
+The San Fernando Valley and Los Angeles area have some stellar vinyl record stores for music lovers who champion physical media. Vinyl record collecting and its popularity have been steadily... 
+
+<br> 
+
+<https://sundial.csun.edu/192307/arts-entertainment/second-spin-how-local-records-stores-are-preparing-for-record-store-day-2025/>
+
+---
+
+## Federal judge sides with joint UCLA suit to block end to Venezuelans’ protections
+
+date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+A federal judge temporarily blocked the Trump administration March 31 from ending temporary protected status for Venezuelan migrants, in response to a lawsuit co-filed by the UCLA Center for Immigration Law and Policy. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/federal-judge-sides-with-joint-ucla-suit-to-block-end-to-venezuelans-protections/>
 
 ---
 

@@ -1,11 +1,102 @@
 ---
 title: home
-updated: 2025-04-08 06:10:03
+updated: 2025-04-08 14:08:44
 ---
 
 # home
 
-(date: 2025-04-08 06:10:03)
+(date: 2025-04-08 14:08:44)
+
+---
+
+## March in Jacques’ food garden
+
+date: 2025-04-08, from: Greg Alder's blog, Yard Post
+
+<p>Spring has sprung. See what&#8217;s ready to eat in the San Diego County food garden of Jacques: Thank you for your support of my Yard Posts so I can keep them coming and without ads. All of my Yard Posts are categorized and listed&#160;here.</p>
+<p>The post <a href="https://gregalder.com/yardposts/march-in-jacques-food-garden/">March in Jacques&#8217; food garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
+ 
+
+<br> 
+
+<https://gregalder.com/yardposts/march-in-jacques-food-garden/>
+
+---
+
+## A Moroccan-Inspired Midcentury Near Palm Springs Lists for $6M
+
+date: 2025-04-08, from: Dwell
+
+Designed by Eggers & Wilkman, the 1958 Rancho Mirage home has Carrara marble floors, decorative wood screens, and a courtyard with a fountain. 
+
+<br> 
+
+<https://www.dwell.com/article/white-shadows-desert-home-eggers-and-wilkman-rancho-mirage-california-real-estate-da2218a2>
+
+---
+
+## A Bowie-Inspired Mural Strikes the Right Chord at a Family’s Renovated Flat
+
+date: 2025-04-08, from: Dwell
+
+The "Aladdin Sane" reference adds to the irreverent apartment’s bricolage of checkerboard, splashy color, and eclectic shelving. 
+
+<br> 
+
+<https://www.dwell.com/article/stazione123-02a-studio-renovated-family-apartment-social-housing-c9409ee5>
+
+---
+
+## Benefits of California Farm to School Program discussed at school nutrition conference
+
+date: 2025-04-08, from: Calfifornia Dept. Aggriculture blog
+
+At the California State Nutrition Association (CSNA) Legislative Action Conference yesterday (April 7), CDFA Farm to School Program Manager Nick Anicich discussed how the initiative is benefitting students, farmers, and school meal supply chain partners across California. From frequent Farm &#8230; <a href="https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28849">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://plantingseedsblog.cdfa.ca.gov/wordpress/?p=28849>
+
+---
+
+## How to Plant and Grow Sweet Cicely
+
+date: 2025-04-08, from: The Gardener's Path
+
+<p>Sweet cicely (Myrrhis odorata) is a perennial herb native to Europe, suited to cultivation in USDA Hardiness Zones 3 to 7. The flowers, leaves, roots, stems, and seeds have an anise-like aroma and flavor, and it's easy to grow. Learn how to cultivate sweet cicely in your herb garden in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/herbs/grow-sweet-cicely/">How to Plant and Grow Sweet Cicely</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/herbs/grow-sweet-cicely/>
+
+---
+
+## 50 Most Popular Birds of Hawaii (With Pictures and Identification)
+
+date: 2025-04-08, from: Yard Life blog
+
+<p>Hawaii is home to some of the most unique and fascinating bird species in the world. With its tropical climate, ... </p>
+<p class="read-more-container"><a title="50 Most Popular Birds of Hawaii (With Pictures and Identification)" class="read-more button" href="https://ownyardlife.com/50-most-popular-birds-of-hawaii-with-pictures-and-identification/#more-26570" aria-label="Read more about 50 Most Popular Birds of Hawaii (With Pictures and Identification)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/50-most-popular-birds-of-hawaii-with-pictures-and-identification/">50 Most Popular Birds of Hawaii (With Pictures and Identification)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/50-most-popular-birds-of-hawaii-with-pictures-and-identification/>
+
+---
+
+## Why California Is Still Worth Fighting For
+
+date: 2025-04-08, from: Sunset Magazine - Living in the West
+
+Sunset's chairman and publisher, Michael A. Reinstein, reflects on the Los Angeles wildfires. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/essay/why-california-is-still-worth-fighting-for>
 
 ---
 

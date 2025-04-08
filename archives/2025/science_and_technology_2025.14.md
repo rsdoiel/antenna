@@ -1,11 +1,227 @@
 ---
 title: science and technology
-updated: 2025-04-08 06:09:59
+updated: 2025-04-08 14:08:40
 ---
 
 # science and technology
 
-(date: 2025-04-08 06:09:59)
+(date: 2025-04-08 14:08:40)
+
+---
+
+## Canadian nuclear watchdog green-lights construction of first licensed SMR
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Built by 2028? Maybe. Powering homes? That’s another licence entirely</h4> <p>Canadian nuclear regulators have approved an Ontario company&#39;s request to build a single small modular reactor - the first such license issued in the country. But with the chosen design yet to be operated anywhere in the world, it&#39;s best to take the news with a heap of salt.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/canada_nuclear_regulators_bless_smr_construction/>
+
+---
+
+## Welcome to the Mission Support Directorate (MSD)
+
+date: 2025-04-08, from: NASA breaking news
+
+David Mitchell, the Associate Administrator for MSD.    Have you ever wondered how NASA manages to achieve all the incredible missions it does, like probing the Sun and studying the history of our Universe? We do it through teamwork, one of our core values. And an essential part of NASA’s team is what we call Mission [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/welcome-to-msd/>
+
+---
+
+## Meta accused of Llama 4 bait-and-switch to juice AI benchmark rank
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Did Facebook giant rizz up LLM to win over human voters? It appears so</h4> <p>Meta submitted a specially crafted, non-public variant of its Llama 4 AI model to an online benchmark that may have unfairly boosted its leaderboard position over rivals.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/meta_llama4_cheating/>
+
+---
+
+## Sixty Years in Canberra: NASA’s Deep Space Network
+
+date: 2025-04-08, from: NASA breaking news
+
+Deep Space Station 43 (DSS-43), a 230-foot-wide (70-meter-wide) radio antenna at NASA’s Deep Space Network facility in Canberra, Australia, is seen in this March 4, 2020, image. DSS-43 was more than six times as sensitive as the original antenna at the Canberra complex, so it could communicate with spacecraft at greater distances from Earth. In [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/sixty-years-in-canberra-nasas-deep-space-network/>
+
+---
+
+## Boeing 787 radio software safety fix didn't work, says Qatar
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>&#39;Loss of safe separation between aircraft, collision, or runway incursion&#39; is not what we want to hear</h4> <p>Boeing issued a software patch for the VHF radio systems used on its 787 aircraft, and the update turned out to be ineffective, Qatar Airways has complained.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/boeing_787_radio_software_patch/>
+
+---
+
+## Findings from the Field: A Research Symposium for Student Scientists
+
+date: 2025-04-08, from: NASA breaking news
+
+Within the scientific community, peer review has become the process norm for which an author’s research or ideas undergo careful examination by other experts in their field. It encourages each scientist to meet the high standards that they themselves, as writers and reviewers, have aided in setting. It has become essential to the academic writing […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/findings-from-the-field-a-research-symposium-for-student-scientists/>
+
+---
+
+## Don't open that JPEG in WhatsApp for Windows. It might be an .EXE
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>What a MIME field</h4> <p>A bug in WhatsApp for Windows can be exploited to execute malicious code by anyone crafty enough to persuade a user to open a rigged attachment - and, to be fair, it doesn&#39;t take much craft to pull that off.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/whatsapp_windows_bug/>
+
+---
+
+## NASA’s First Flight With Crew Important Step on Long-term Return to the Moon, Missions to Mars
+
+date: 2025-04-08, from: NASA breaking news
+
+The Artemis II test flight will be NASA’s first mission with crew under Artemis. Astronauts on their first flight aboard NASA’s Orion spacecraft will confirm all of the spacecraft’s systems operate as designed with crew aboard in the actual environment of deep space.  Through the Artemis campaign, NASA will send astronauts to explore the Moon [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/artemis/nasas-first-flight-with-crew-important-step-on-long-term-return-to-the-moon-missions-to-mars/>
+
+---
+
+## NASA’s Deep Space Network Starts New Dish, Marks 60 Years in Australia
+
+date: 2025-04-08, from: NASA breaking news
+
+Canberra joined the global network in 1965 and operates four radio antennas. Now, preparations have begun on its fifth as NASA works to increase the network’s capacity. NASA’s Deep Space Network facility in Canberra, Australia celebrated its 60th anniversary on March 19 while also breaking ground on a new radio antenna. The pair of achievements [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/technology/space-comms/deep-space-network/nasas-deep-space-network-starts-new-dish-marks-60-years-in-australia/>
+
+---
+
+## Musk's DOGE muzzled on X over tape storage baloney
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>70 years old, yes. Obsolete? Not by a long shot</h4> <p><strong>Comment</strong>  There is something about Elon Musk&#39;s career trajectory that compels onlookers to hang around for the seemingly inevitable crash landing. Tesla, SpaceX, and X – formerly known as Twitter – have all become hosts to the man&#39;s galactic ego.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/doge_tape_storage_diss/>
+
+---
+
+## Style Guidelines for ‘The Earth Observer’ Newsletter
+
+date: 2025-04-08, from: NASA breaking news
+
+IntroductionEditorial Process for The Earth Observer Types of Articles in The Earth ObserverGeneral article format— Announcement article— Feature article— Hybrid article— In Memoriam article— Kudos article— Summary articleGuidelines for Preparing Articles for The Earth Observer— Writing for the web— Catchy headline— Naming files— Use visuals to draw the reader in— Search engine optimization—— Headline and […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/earth-science/style-guidelines-for-the-earth-observer-newsletter/>
+
+---
+
+## Windows Server Update Services live to patch another day
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Disconnected device scenarios cause headaches for Microsoft</h4> <p>Microsoft is extending support for a product scheduled for deprecation. Sadly for some, it&#39;s not Windows 10.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/microsoft_wsus_extended_support/>
+
+---
+
+## NASA Astronaut to Answer Questions from Students in Florida
+
+date: 2025-04-08, from: NASA breaking news
+
+Students from Dade City, Florida, will have the chance to connect with NASA astronaut Nichole Ayers as she answers prerecorded science, technology, engineering, and mathematics-related questions from aboard the International Space Station. Watch the 20-minute space-to-Earth call at 1 p.m. EDT on Friday, April 11, on NASA+ and learn how to watch NASA content on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-astronaut-to-answer-questions-from-students-in-florida/>
+
+---
+
+## Eclipses, Science, NASA Firsts: Heliophysics Big Year Highlights
+
+date: 2025-04-08, from: NASA breaking news
+
+One year ago today, a total solar eclipse swept across the United States. The event was a cornerstone moment in the Heliophysics Big Year, a global celebration of the Sun’s influence on Earth and the entire solar system. From October 2023 to December 2024 — a period encompassing two solar eclipses across the U.S., two […] 
+
+<br> 
+
+<https://science.nasa.gov/science-research/heliophysics/eclipses-science-nasa-firsts-heliophysics-big-year-highlights/>
+
+---
+
+## Meet Alex Olley: Air Force Veteran Powering the Space Station
+
+date: 2025-04-08, from: NASA breaking news
+
+As an Air Force veteran from Spartanburg, South Carolina, Alex Olley now serves as a contract specialist in the International Space Station Procurement Office at NASA’s Johnson Space Center in Houston.&#160;&#160; Olley joined NASA as a Pathways intern in January 2023 to turn his lifelong goal into a reality—bringing his unique experience in the defense [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/meet-alex-olley-air-force-veteran-powering-the-space-station/>
+
+---
+
+## Tariff-ied Framework pulls laptops, Keyboardio warns of keystroke sticker shock
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Small IT hardware firms feel the heat from Trump making prices great</h4> <p><strong>World War Fee</strong>  Modular laptop maker Framework is pausing sales of models it would make a loss on, while a small US keyboard biz is facing hundreds of dollars slapped on its products that American consumers will have to pay.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/small_hardware_firms_tariffs/>
+
+---
+
+## Microsoft celebrates 50 years with, sigh, AI
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Windows maker marks milestone with Clippy-esque additions that resemble tools from OpenAI, Google</h4> <p>Microsoft used its 50th birthday to announce a slew of new Copilot features, many of which will be eerily familiar to anyone who&#39;s used rival AI platforms.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/microsoft_new_copilot_features/>
+
+---
+
+## NASA to Kick Off 31st Annual Rover Competition
+
+date: 2025-04-08, from: NASA breaking news
+
+NASA’s annual Human Exploration Rover Challenge returns Friday, April 11, and Saturday, April 12, with student teams competing at the U.S. Space &#38; Rocket Center’s Aviation Challenge course near the agency’s Marshall Space Flight Center in Huntsville, Alabama. Media are invited to watch as hundreds of students from around the world attempt to navigate a [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-to-kick-off-31st-annual-rover-competition/>
 
 ---
 
@@ -145,7 +361,7 @@ date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
 
 date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
 
-<h4>Will &#39;gutting&#39; the civilian defense agency make American cybersecurity great again?</h4> <p><strong>Analysis</strong>  Slashing staff at the US govt&#39;s Cybersecurity and Infrastructure Security Agency, aka CISA, and scrapping vital programs, isn’t exactly boosting national security, say infosec and national security officials watching America’s digital defenses unravel in real time.…</p> 
+<h4>How will &#39;gutting&#39; civilian defense agency make American cybersecurity great again?</h4> <p><strong>Analysis</strong>  Slashing staff at the US govt&#39;s Cybersecurity and Infrastructure Security Agency, aka CISA, and scrapping vital programs, isn’t exactly boosting national security, say infosec and national security officials watching America’s digital defenses unravel in real time.…</p> 
 
 <br> 
 
@@ -179,7 +395,7 @@ date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
 
 ## Trump tariffs to make prices great – a gain
 
-date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
+date: 2025-04-07, updated: 2025-04-08, from: The Register (UK I.T. News)
 
 <h4>As costs for US shoppers set to rise, markets slump, orange is new red, we speak to economic experts</h4> <p><strong>World War Fee</strong>  President Donald Trump last week announced a sweeping new round of tariffs, setting the stage for price hikes across consumer tech, pro gear, and almost anything else that crosses a border.…</p> 
 
@@ -527,7 +743,7 @@ date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
 
 ## Meta debuts its first 'mixture of experts' models from the Llama 4 herd
 
-date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
+date: 2025-04-07, updated: 2025-04-08, from: The Register (UK I.T. News)
 
 <h4>Says they’re done right as they don’t lean so far left</h4> <p>Meta has debuted the first two models in its Llama 4 family, its first to use mixture of experts tech.…</p> 
 

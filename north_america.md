@@ -1,11 +1,139 @@
 ---
 title: north america
-updated: 2025-04-08 06:09:57
+updated: 2025-04-08 14:08:38
 ---
 
 # north america
 
-(date: 2025-04-08 06:09:57)
+(date: 2025-04-08 14:08:38)
+
+---
+
+## March Madness is over. But what are we celebrating? 
+
+date: 2025-04-08, from: The Contrarian
+
+Most of these athletes are returning to schools where support is being eliminated or curtailed. There's a better choice. 
+
+<br> 
+
+<https://contrarian.substack.com/p/march-madness-is-over-but-what-are>
+
+---
+
+## Let’s Do Lunch! with Jared Bernstein
+
+date: 2025-04-08, from: The Contrarian
+
+A recording from Let's Do Lunch 04/08 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160875470/e2c039ef6445c099bea7187604b93064.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160875470/e2c039ef6445c099bea7187604b93064.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/lets-do-lunch-with-jared-bernstein>
+
+---
+
+## Aslı Aydıntaşbaş and Jen Rubin on Turkey’s Authoritarian Rise and Growing Opposition
+
+date: 2025-04-08, from: The Contrarian
+
+Mass protests have erupted across Turkey following the arrest of Istanbul Mayor Ekrem Imamoglu, a leading opposition figure expected to be named a presidential candidate. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160819143/fcef6c761584952cb4a85a1f0b057bdb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160819143/fcef6c761584952cb4a85a1f0b057bdb.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/asl-aydntasbas-and-jen-rubin-on-turkeys>
+
+---
+
+## Soccer-Loving Father of Four Caught Up in El Cajon Immigration Raid
+
+date: 2025-04-08, from: Capital and Main
+
+<p>The operation included dozens of officers, some with guns in hand, as they moved through a paint business.</p>
+<p>The post <a href="https://capitalandmain.com/soccer-loving-father-of-four-caught-up-in-el-cajon-immigration-raid">Soccer-Loving Father of Four Caught Up in El Cajon Immigration Raid</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/soccer-loving-father-of-four-caught-up-in-el-cajon-immigration-raid>
+
+---
+
+## The cure for all that ails
+
+date: 2025-04-08, from: The Contrarian
+
+A cartoon by RJ Matson 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-cure-for-all-the-ails>
+
+---
+
+## Fear & Loathing at DOJ
+
+date: 2025-04-08, from: The Contrarian
+
+Many federal agencies have new leadership that are hostile to the career personnel. 
+
+<br> 
+
+<https://contrarian.substack.com/p/fear-and-loathing-at-doj>
+
+---
+
+##  DOGE Weaponizes AI To Surveil Federal Workers 
+
+date: 2025-04-08, from: The Lever News
+
+ Elon Musk is reportedly using artificial intelligence to monitor the communications of government employees.  
+
+<br> 
+
+<https://www.levernews.com/doge-weaponizes-ai-to-surveil-federal-workers/>
+
+---
+
+## Is North Carolina the canary in the coal mine for American democracy?
+
+date: 2025-04-08, from: The Contrarian
+
+One man can save democracy for future generations. 
+
+<br> 
+
+<https://contrarian.substack.com/p/is-north-carolina-the-canary-in-the>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-08, from: The Contrarian
+
+Tuesday: More posts from the Hands Off protests across the country, including in Georgia, Connecticut, Indiana, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Adam Kinzinger and Jen Rubin on MAGA, Markets, and Measles 
+
+date: 2025-04-08, from: The Contrarian
+
+Adam Kinzinger is a former (a word he relishes) member of Congress from Illinois and was one of two Republican members who sat on the January 6th Committee. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160825641/2677836c60ccb4e69feb88cb6050f7e2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160825641/2677836c60ccb4e69feb88cb6050f7e2.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/adam-kinzinger-and-jen-rubin>
 
 ---
 
@@ -343,18 +471,6 @@ Now we all have a responsibility to keep the momentum moving forward
 <br> 
 
 <https://contrarian.substack.com/p/we-are-all-in-this-together>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-07, from: The Contrarian
-
-Monday: Millions joined protests all around the country and the world on Saturday to tell the Musk-Trump regime 'hands off.' A sampling from Knoxville, Tenn.; Seattle, Wash.; Madison, Wis.; and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

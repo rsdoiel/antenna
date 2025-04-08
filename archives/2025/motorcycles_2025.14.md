@@ -1,11 +1,48 @@
 ---
 title: motorcycles
-updated: 2025-04-08 06:10:04
+updated: 2025-04-08 14:08:45
 ---
 
 # motorcycles
 
-(date: 2025-04-08 06:10:04)
+(date: 2025-04-08 14:08:45)
+
+---
+
+## Harley-Davidson's CEO Is Out, Company Is Looking for Replacement
+
+date: 2025-04-08, from: Ride Apart, Electric Motorcycle News
+
+Whoever's next has a lot of work ahead of them.  
+
+<br> 
+
+<https://www.rideapart.com/news/755974/harley-davidson-jochen-zeitz-ceo-retirment-tariff/>
+
+---
+
+## Honda Issues Stop Sale on Some Adorable Scooters Over Oil Pump Issue
+
+date: 2025-04-08, from: Ride Apart, Electric Motorcycle News
+
+A manufacturing defect is to blame, could eventually cause engine seizure if left untreated. 
+
+<br> 
+
+<https://www.rideapart.com/news/755686/honda-adv160-oil-pump-recall/>
+
+---
+
+## This Electric Dual-Sport Looks Like Tons of Fun, But Is Made for the City
+
+date: 2025-04-08, from: Ride Apart, Electric Motorcycle News
+
+It sits somewhere between an electric mountain bike and a full-on electric dirt bike. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/755765/yotsuba-gen3-electric-dual-sport-japan/>
 
 ---
 

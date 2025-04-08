@@ -1,11 +1,131 @@
 ---
 title: games
-updated: 2025-04-08 06:10:02
+updated: 2025-04-08 14:08:43
 ---
 
 # games
 
-(date: 2025-04-08 06:10:02)
+(date: 2025-04-08 14:08:43)
+
+---
+
+## Switch 2 price won’t increase in response to tariffs, analyst says
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+One research firms expects the price of Nintendo Switch 2 to hold steady in response to President Donald Trump’s sweeping tariffs, arguing that Nintendo had already baked potential tariffs into the system’s cost. That’s despite Nintendo of America president Doug Bowser downplaying the impact of tariffs on Nintendo’s price decision-making process. Research firm DFC Intelligence [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/554889/price-tariffs-analyst-forecast>
+
+---
+
+## Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+Assassin’s Creed Shadows players will spend dozens of hours traversing the sprawling provinces of central Japan. Now they’ll be able to turn off their brain during those long treks through the rolling hills of the countryside, thanks to a feature introduced — or should we say, reintroduced to the franchise — in the first proper [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes>
+
+---
+
+## Nintendo confirms you will have to pay to use the Switch 2’s C button
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+Nintendo has made its own Discord-like chat app for the Switch 2, and it’s going to charge you for it. Once the free period is over on March 31, 2026, GameChat, and the C button that activates it, will require a Nintendo Switch Online (NSO) membership. So what happens if you aren’t a subscriber and [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/553458/switch-2-nintendo-confirms-c-button-price>
+
+---
+
+## Disney Lorcana’s first bans include a humble toymaker
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+Disney Lorcana, the charming trading card game, has banned its first cards from competitive play. Sapphire decks will be a little less powerful without Hiram Flaversham, Toymaker and the item Fortisphere, which are no longer legal to play in core constructed formats. They will, of course, remain available for other formats and in casual play. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/554810/hiram-flaversham-fortisphere-pawpsicle-banned-disney-lorcana>
+
+---
+
+## Even with inflation, Switch 2 is Nintendo’s priciest console ever
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+January’s Nintendo Switch 2 reveal event took the wraps off the console, but left a lot of details unanswered until now. After the initial reveal, I put together an analysis of the possible pricing for the console, using Nintendo’s own historical pricing strategies to guide my thinking. My conclusion then was that it would cost [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/551545/price-history-comparison-inflation>
+
+---
+
+## Switch 2 pre-orders delayed in Canada, too
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+As if Canada didn’t have enough reasons to hate Donald Trump, the reality-TV-star-turned-politician’s excessive tariffs will delay Switch 2 pre-orders not only in the United States but in the Great White North as well. CBC Radio senior writer Jonathan Ore was told by Nintendo of Canada on Tuesday that Canadians will also have to sit [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/554960/switch-2-pre-order-delay-canada-trump-tariffs>
+
+---
+
+## Hulu secretly made an animated miniseries of Predator period pieces
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+Say “Predator period piece” three times fast — or say it slow, because that’s what Predator: Killer of Killers is. A three-episode animated miniseries from the director of Prey, featuring Predator attacks in three different periods of humanity’s past. A newly released trailer for the show has all the gore, ominous de-cloaking, and weird clicking [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/555001/predator-animated-series-killer-of-killers-hulu>
+
+---
+
+## Netflix’s Love, Death &#038; Robots returns with an explosive new trailer
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+After a three-year break, Netflix’s adult animated sci-fi anthology series, Love, Death &#38; Robots, returns! A first, very M-rated trailer shows off some of the new shorts, which include dinosaurs, incredibly fluffy cats, giant babies, flashers at a concert, and a whole lot of explosions. All very intriguing concepts, but we’re specifically on the look [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/554948/love-death-and-robots-season-4-release-date-trailer>
+
+---
+
+## Blizzard reveals the next 6 months of Diablo 4 updates before its next expansion
+
+date: 2025-04-08, updated: 2025-04-07, from: Polygon Website
+
+For the first time since Diablo 4 was released, Blizzard is giving us a look at what’s going on with it months in advance. Not only has it detailed the permanent additions to the game coming this year, it also has revealed the season themes leading up to the launch of its second expansion in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/xbox/554248/blizzard-diablo-4-2025-roadmap-seasons>
+
+---
+
+## How to quick catch in Pokémon Go
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+The art of the quick catch (or fast catch) in Pokémon Go is a sacred and important one if you’re looking to truly maximize your gains. For events like Community Days and Spotlight Hours, you may be trying to rake in the Pokémon due to Stardust bonuses, or maybe you just love Bulbasaur and you [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/554242/quick-catch-how-to-tips>
 
 ---
 
@@ -234,18 +354,6 @@ Last week, Nintendo revealed a ton of information about the Switch 2. And while 
 <br> 
 
 <https://www.polygon.com/nintendo-switch-2/553517/price-interview-tariffs>
-
----
-
-## Nintendo confirms you will have to pay to use the Switch 2’s C button
-
-date: 2025-04-07, updated: 2025-04-07, from: Polygon Website
-
-Nintendo has made its own Discord-like chat app for the Switch 2, and it’s going to charge you for it. Once the free period is over on March 31, 2026, GameChat, and the C button that activates it, will require a Nintendo Switch Online (NSO) membership. So what happens if you aren’t a subscriber and [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/nintendo-switch-2/553458/switch-2-nintendo-confirms-c-button-price>
 
 ---
 
