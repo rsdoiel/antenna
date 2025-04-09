@@ -1,11 +1,103 @@
 ---
 title: socal north
-updated: 2025-04-09 09:34:19
+updated: 2025-04-09 14:06:45
 ---
 
 # socal north
 
-(date: 2025-04-09 09:34:19)
+(date: 2025-04-09 14:06:45)
+
+---
+
+## You may love cocktails — but would you pay $100 for a margarita?
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+Providence, the two-star Michelin restaurant on Melrose, offers a tableside margarita that costs 100 bucks. Is it worth it? 
+
+<br> 
+
+<https://laist.com/news/food/you-may-love-cocktails-but-would-you-pay-100-for-a-margarita>
+
+---
+
+## A high-end steakhouse transformed into an outlaw nightclub, roiling one of Long Beach’s priciest neighborhoods
+
+date: 2025-04-09, from: Longbeach Post
+
+<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-300x170.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-768x435.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-400x227.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>City officials sent cease and desist orders and nuisance notices to a local owner and NFL receiver tied to the businesses.</p>
+<p>The post <a href="https://lbpost.com/news/city/4-shore-outlaw-nightclub-naples-long-beach-restaurant">A high-end steakhouse transformed into an outlaw nightclub, roiling one of Long Beach’s priciest neighborhoods</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/city/4-shore-outlaw-nightclub-naples-long-beach-restaurant>
+
+---
+
+## 5 key moments leading up to LA homelessness leader’s resignation
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+How did L.A. County get to the stage that Va Lecia Adams Kellum, the top executive at homelessness agency LAHSA, is resigning at a critical moment for funding local services? 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-homeless-services-authority-va-lecia-adams-kellum-resignation-key-moments>
+
+---
+
+## Police look for hit-and-run driver who checked the damage to his truck and then drove off
+
+date: 2025-04-09, from: Longbeach Post
+
+<figure><img width="1024" height="768" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-1024x768.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-1024x768.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-300x225.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-768x576.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-144x108.png 144w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-1536x1152.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-1200x900.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-800x600.png 800w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-600x450.png 600w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-400x300.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-200x150.png 200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO-1568x1176.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/09104743/32625-hit-and-run-1-436155-gdkw3vr6-953615-3XKuG0oO.png 1950w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Police said he left the other driver injured at the scene of the crash in Bixby Knolls.</p>
+<p>The post <a href="https://lbpost.com/news/crime/police-look-for-hit-and-run-driver-who-checked-the-damage-to-his-truck-and-then-drove-off">Police look for hit-and-run driver who checked the damage to his truck and then drove off</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/police-look-for-hit-and-run-driver-who-checked-the-damage-to-his-truck-and-then-drove-off>
+
+---
+
+## US says it is now monitoring immigrants' social media for antisemitism
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+Effective immediately, the government says it will begin screening immigrant social media for activity that officials think indicates support for antisemitism. 
+
+<br> 
+
+<https://laist.com/news/us-says-it-is-now-monitoring-immigrants-social-media-for-antisemitism>
+
+---
+
+## Fake student aid: California colleges detect more fraudsters stealing millions
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+Scammers have stolen more than $10 million in federal financial aid from California’s community colleges in the last 12 months. 
+
+<br> 
+
+<https://laist.com/news/education/fake-student-aid-california-colleges-detect-more-fraudsters-stealing-millions>
+
+---
+
+## “Saddle Up Santa Clarita” in City Hall’s First Floor Gallery
+
+date: 2025-04-09, from: City of Santa Clarita
+
+<p>Celebrating the Spirit, Adventure and Legacy of the Old West The City of Santa Clarita is pleased to present its latest art exhibition, “Saddle Up Santa Clarita,”on view in the First Floor Gallery at City Hall (23920 Valencia Boulevard) now through Wednesday, May 14. A special reception will take place on Friday, April 11, from [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/09/saddle-up-santa-clarita-in-city-halls-first-floor-gallery/">“Saddle Up Santa Clarita&#8221; in City Hall&#8217;s First Floor Gallery</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/09/saddle-up-santa-clarita-in-city-halls-first-floor-gallery/>
 
 ---
 
@@ -18,6 +110,18 @@ Temperatures could reach the mid 90s in the valley.
 <br> 
 
 <https://laist.com/news/climate-environment/mini-heatwave-arrives-wednesday>
+
+---
+
+## Rebuild or leave? In Altadena’s Black community, a family grapples with their future after the Eaton fire
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+A recent UCLA report found that Black Altadena residents were disproportionately affected by the Eaton Fire. What will one family decide to do next? 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/rebuild-leave-altadena-black-community-eaton-fire>
 
 ---
 
@@ -81,18 +185,6 @@ Now on view at The Cheech in Riverside, a retrospective features dozens of piece
 
 ---
 
-## Rebuild or leave? In Altadena’s Black community, a family grapples with their future after the Eaton fire
-
-date: 2025-04-09, updated: 2025-04-09, from: The LAist
-
-A recent UCLA report found that Black Altadena residents were disproportionately affected by the Eaton Fire. What will one family decide to do next? 
-
-<br> 
-
-<https://laist.com/news/housing-homelessness/rebuild-leave-altadena-black-community-eaton-fire>
-
----
-
 ## 2 prosecutors sue LA County district attorney; claim they were demoted over Menendez case
 
 date: 2025-04-09, updated: 2025-04-09, from: The LAist
@@ -133,7 +225,7 @@ The Los Angeles Unified School District Board voted Tuesday to amplify the role 
 
 date: 2025-04-08, from: Longbeach Post
 
-<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>The wreck left the motorcyclist in critical condition, and he died a year later, according to police.</p>
 <p>The post <a href="https://lbpost.com/news/motorcyclist-dies-after-crash-with-car-making-left-turn-at-studebaker-and-atherton-lbpd-says">Motorcyclist dies after crash with car making left turn at Studebaker and Atherton, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -160,7 +252,7 @@ After L.A. County decided to withdraw its funding last week, Council President M
 
 date: 2025-04-08, from: Longbeach Post
 
-<figure><img width="1024" height="503" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-768x378.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-400x197.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="503" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-768x378.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-400x197.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>"Taxpayers deserve answers for where and how their hard-earned money has been spent," U.S. Attorney Bill Essayli said in a statement.</p>
 <p>The post <a href="https://lbpost.com/news/feds-launch-task-force-to-look-for-fraud-corruption-in-use-of-homelessness-funds">Feds launch task force to look for fraud, corruption in use of homelessness funds</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

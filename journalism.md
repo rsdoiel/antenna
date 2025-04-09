@@ -1,11 +1,107 @@
 ---
 title: journalism
-updated: 2025-04-09 09:34:23
+updated: 2025-04-09 14:06:48
 ---
 
 # journalism
 
-(date: 2025-04-09 09:34:23)
+(date: 2025-04-09 14:06:48)
+
+---
+
+## UCPD searches for suspect after Tuesday evening burglary at Centennial Hall
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD is searching for a suspect after a reported burglary Tuesday evening.&#160;&#160;
+The burglary occurred at Centennial Hall around 8:55 p.m. , according to a UCPD crime alert sent Wednesday morning. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/09/ucpd-searches-for-suspect-after-tuesday-evening-burglary-at-centennial-hall/>
+
+---
+
+## Crimewatch: March 2025
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+UCPD recorded 672 unique entries in its March daily crime log.
+University police received 129 crime reports from March 1 to 31 that resulted in active police cases. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/09/crimewatch-march-2025/>
+
+---
+
+## Lencia Kebede ’16 ‘defies gravity’ as she flies from Keck Theater to Broadway
+
+date: 2025-04-09, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Lencia Kebede &#8217;16 began her historic Broadway debut as the first Black woman to play Elphaba in “Wicked&#8221; full time on Broadway at the Gershwin Theater in New York City March 4. According to Kebede, seeing an LA performance of “The Lion King” as a child originally sparked her interest in live performance art. Kebede [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/09/lencia-kebede-16-defies-gravity-as-she-flies-from-keck-theater-to-broadway/2915133">Lencia Kebede &#8217;16 &#8216;defies gravity&#8217; as she flies from Keck Theater to Broadway</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/09/lencia-kebede-16-defies-gravity-as-she-flies-from-keck-theater-to-broadway/2915133>
+
+---
+
+## COVID-19 destabilized Occidental. Five years later, have we moved on?
+
+date: 2025-04-09, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>What do the words “global pandemic” mean? I define it this way: Zoom calls, neighborhood walks and anxiety. For some, the words sound like painted cars and drive-by graduation ceremonies. Others think of police brutality and protests. Still others miss loved ones. COVID-19 gave those words a literal meaning. Where before they were science fiction, the words “global [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/featured/2025/04/09/covid-19-destabilized-occidental-five-years-later-have-we-moved-on/2915113">COVID-19 destabilized Occidental. Five years later, have we moved on?</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/featured/2025/04/09/covid-19-destabilized-occidental-five-years-later-have-we-moved-on/2915113>
+
+---
+
+## ‘Feels like you’re on Project Runway’: Occidental students host second annual fashion show
+
+date: 2025-04-09, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Models sporting jewelry and garments designed and constructed by current and former Occidental students strutted around the Gilman Fountain April 5 as part of the Flaneur Fashion Show, the second annual fashion show at Occidental. According to Co-Director Tori Iturralde (senior), organizing the show this year differed significantly from the previous year&#8217;s show, dubbed TENS, which they [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/09/feels-like-youre-on-project-runway-occidental-students-host-second-annual-fashion-show/2915128">&#8216;Feels like you’re on Project Runway&#8217;: Occidental students host second annual fashion show</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/09/feels-like-youre-on-project-runway-occidental-students-host-second-annual-fashion-show/2915128>
+
+---
+
+## Armenian artists and writers discuss diaspora perspectives during ‘The Politics and Poetics of Memory’
+
+date: 2025-04-09, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>OXY ARTS hosted a conversation titled “The Politics and Poetics of Memory” April 1 co-presented by the Occidental College Armenian Students Association. According to OXY ARTS Director Meldia Yesayan, the conversation provided context for other current OXY ARTS events by centering Armenian artists and writers whose works are rooted in the Armenian diaspora experience. According to Yesayan, [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/09/armenian-artists-and-writers-discuss-diaspora-perspectives-during-the-politics-and-poetics-of-memory/2915130">Armenian artists and writers discuss diaspora perspectives during &#8216;The Politics and Poetics of Memory&#8217;</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/09/armenian-artists-and-writers-discuss-diaspora-perspectives-during-the-politics-and-poetics-of-memory/2915130>
+
+---
+
+## The Eagle Rock Historical Society preserves the rich history of the Eagle Rock community
+
+date: 2025-04-09, from: The Occidental News (Occidental College Student Newspaper)
+
+<p>Around 1:00 p.m. every day, a cracked boulder in the San Rafael Hills casts a shadow of an eagle on the ground. It is the Eagle Rock, one of Eagle Rock&#8217;s Historic Cultural Monuments. According to their website, the name of the landmark came about with the arrival of English speakers in the area around 1886. [&#8230;]</p>
+<p>The post <a href="https://theoccidentalnews.com/culture/2025/04/09/the-eagle-rock-historical-society-preserves-the-rich-history-of-the-eagle-rock-community/2915115">The Eagle Rock Historical Society preserves the rich history of the Eagle Rock community</a> appeared first on <a href="https://theoccidentalnews.com">The Occidental</a>.</p>
+ 
+
+<br> 
+
+<https://theoccidentalnews.com/culture/2025/04/09/the-eagle-rock-historical-society-preserves-the-rich-history-of-the-eagle-rock-community/2915115>
 
 ---
 
@@ -289,6 +385,18 @@ A federal judge temporarily blocked the Trump administration March 31 from endin
 
 ---
 
+## ASCIT 2025 Spring Elections: Candidate Statements
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+ASCIT 2025 Spring Elections: Candidate Statements 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/ascit-2025-spring-elections-candidate-statements/>
+
+---
+
 ## LA City Clerk announces results of North Westwood Neighborhood Council election
 
 date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
@@ -403,7 +511,8 @@ Across all 50 states, people participated in the &#8220;Hands Off!&#8221; protes
 
 date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
 
-Panelists from the anthropology department called for a reframing of Los Angeles&#8217; approach to water conservation in a talk hosted by the UCLA Graduate Student Water Resources Group in March. 
+<em>This post was updated April 8 11:36 p.m.</em>
+Panelists from the anthropology department called for a reframing of Los Angeles’ approach to water conservation in a talk hosted by the UCLA Graduate Student Water Resources Group in March. 
 
 <br> 
 

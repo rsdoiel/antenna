@@ -1,11 +1,155 @@
 ---
 title: going electric
-updated: 2025-04-09 09:34:26
+updated: 2025-04-09 14:06:51
 ---
 
 # going electric
 
-(date: 2025-04-09 09:34:26)
+(date: 2025-04-09 14:06:51)
+
+---
+
+## Yes, Automotive Tariffs Are Still In Effect Amid 'Pause'
+
+date: 2025-04-09, from: Inside EVs News
+
+The tariffs come at a moment of profound change for the auto industry as it seeks to electrify and invest in new technology. 
+
+<br> 
+
+<https://insideevs.com/news/756143/auto-tariff-pause-evs-april/>
+
+---
+
+## Tesla Model 3 and Model Y prices rose higher in March as sales fell
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2023/12/Group_98-e1702471801886.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla average transaction prices (ATPs) in March are estimated at $54,582, higher year-over-year by 3.5% and higher than in February, according to the latest monthly new-vehicle <a href="https://www.coxautoinc.com/wp-content/uploads/2025/04/March-2025-Kelley-Blue-Book-Average-Transaction-Price-tables.pdf" target="_blank" rel="noreferrer noopener">ATP report</a> from Cox Automotive’s Kelley Blue Book. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="410602" href="https://electrek.co/2025/04/09/tesla-model-3-and-model-y-prices-rose-higher-in-march-as-sales-fell/#more-410602" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/tesla-model-3-and-model-y-prices-rose-higher-in-march-as-sales-fell/>
+
+---
+
+## BYD launches its first EVs with ultra-fast charging starting at just $30,000
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/BYD-EVs-ultra-fast-charging.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/byd/">BYD</a> just launched the first EVs based on its new Super e-platform with ultra-fast charging. The new Han L sedan and Tang L SUV can gain nearly 250 miles range in 5 minutes, and prices start at just $30,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="410570" href="https://electrek.co/2025/04/09/byd-launches-first-evs-with-ultra-fast-charging-starting-at-30000/#more-410570" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/byd-launches-first-evs-with-ultra-fast-charging-starting-at-30000/>
+
+---
+
+## Tesla Canada says its shady $43 million incentive grab was a misunderstanding
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2016/08/tesla-montreal-store-e1470232605451.jpg?quality=82&#038;strip=all&#038;w=1280" /></div><p>Tesla has sent a response to Transport Canada about its <a href="https://electrek.co/2025/03/07/tesla-made-a-suspicious-number-of-rebate-requests-on-last-days-of-canadian-ev-incentive/">sudden incentive cash grab</a> from March, stating that this is standard process and suggesting that the incentives were for backdated sales that Tesla hadn’t filed yet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="canada,elon-musk,tesla" data-layer-viewtype="unknown" data-post-id="410567" href="https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/#more-410567" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/tesla-canada-says-its-shady-43-million-incentive-grab-was-a-misunderstanding/>
+
+---
+
+## Tesla (TSLA) surges on Trump announcing bigger tariffs on China that will destroy its energy business
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2022/04/Megapack_Mosslanding-1-e1714486362120.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla’s stock (TSLA) surged today after President Trump announced changes to his tariffs, which were put in place hours ago.</p>
+
+
+
+<p>However, the move is irrational since Trump significantly increased tariffs on China, which will destroy Tesla’s energy business.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="410599" href="https://electrek.co/2025/04/09/tesla-tsla-surges-trump-bigger-tariffs-on-china-destroy-energy-business/#more-410599" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/tesla-tsla-surges-trump-bigger-tariffs-on-china-destroy-energy-business/>
+
+---
+
+## Heybike’s latest ALPHA all-terrain e-bike hits new $1,499 low, Hiboy takes 50% off EVs, AeroGarden Harvest 2.0 at new $35 low, more
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/02/Heybike-ALPHA-All-Terrain-e-bike-FI.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>We’ve got new and returning lows in our Green Deals today, starting with <a href="https://9to5toys.com/2025/04/09/heybike-early-easter-flash-sale-alpha-e-bike-1499-low-more/">Heybike’s early Easter flash savings</a> that are seeing up to $500 in discounts (and bonus free gear) across its e-bike lineup, including the latest <a href="https://9to5toys.com/2025/04/09/heybike-early-easter-flash-sale-alpha-e-bike-1499-low-more/">ALPHA All-Terrain e-bike</a> hitting a new <a href="https://9to5toys.com/2025/04/09/heybike-early-easter-flash-sale-alpha-e-bike-1499-low-more/">$1,499</a> low. Right behind it is <a href="https://9to5toys.com/2025/04/09/hiboy-spring-sale-s2-se-scooter-300-low-more/">Hiboy’s Spring Sale</a> offers that are taking up to 50% off e-scooters and e-bikes alike, like the new <a href="https://9to5toys.com/2025/04/09/hiboy-spring-sale-s2-se-scooter-300-low-more/">S2 SE Electric Scooter</a> returning to its <a href="https://9to5toys.com/2025/04/09/hiboy-spring-sale-s2-se-scooter-300-low-more/">$300</a> low. Lastly, AeroGarden has a collection of its indoor hydroponic systems getting some big price cuts, led by the <a href="https://9to5toys.com/2025/04/09/aerogarden-harvest-2-0-new-35-low-more/">6-pod Harvest 2.0</a> falling to a new <a href="https://9to5toys.com/2025/04/09/aerogarden-harvest-2-0-new-35-low-more/">$35</a> low. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s massive <a href="https://9to5toys.com/2025/04/08/anker-solix-easter-sale-up-to-54-off/">Anker SOLIX Easter Sale</a> lineup, the switched around <a href="https://9to5toys.com/2025/04/07/lectric-april-sale-xp-lite-2-0-bundles-from-999-more/">Lectric April sale</a> offers, and more. </p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="410583" href="https://electrek.co/2025/04/09/heybike-alpha-e-bike-new-1499-low-hiboy-aerogarden-more/#more-410583" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/heybike-alpha-e-bike-new-1499-low-hiboy-aerogarden-more/>
+
+---
+
+## This Company Made Your iPhone. Now, It Wants To Make Your EV
+
+date: 2025-04-09, from: Inside EVs News
+
+Electronics giant Foxconn wants to sell EVs in America. It may even partner with Nissan, Honda or Mitsubishi to pull it off. 
+
+<br> 
+
+<https://insideevs.com/news/756115/foxconn-ev-plan-nissan-honda/>
+
+---
+
+## Tesla’s top financial controller leaves (TSLA)
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Screenshot-2025-03-25-at-12.56.21 PM.png?w=1600" /></div><p>Tesla’s director of accounting controllership, Harsh Rungta, has left the automaker and joined eVTOL aircraft manufacturer Archer Aviation. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tsla-tesla-stock" data-layer-viewtype="unknown" data-post-id="410563" href="https://electrek.co/2025/04/09/tesla-top-financial-controller-leaves-tsla/#more-410563" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/tesla-top-financial-controller-leaves-tsla/>
+
+---
+
+## Volkswagen is ‘shifting into the fast lane’ as EV sales climb 59%, double in Europe
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Volkswagen-EV-sales-Europe-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>After its electric car sales surged in the first three months of 2025, Volkswagen’s CEO said the company is “shifting into the fast lane.” In Europe, <a href="https://electrek.co/guides/volkswagen/">Volkswagen</a> expanded its lead after EV sales doubled. Despite the success, the auto giant is still struggling in one key market.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="volkswagen,vw" data-layer-viewtype="unknown" data-post-id="410542" href="https://electrek.co/2025/04/09/volkswagen-shifts-into-fast-lane-as-ev-sales-double-europe/#more-410542" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/volkswagen-shifts-into-fast-lane-as-ev-sales-double-europe/>
 
 ---
 

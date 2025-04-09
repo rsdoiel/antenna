@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-04-09 09:34:18
+updated: 2025-04-09 14:06:44
 ---
 
 # north america
 
-(date: 2025-04-09 09:34:18)
+(date: 2025-04-09 14:06:44)
+
+---
+
+## Win Back the House! Yasmin Radjy on the grassroots strategy to deliver Democratic wins
+
+date: 2025-04-09, from: The Contrarian
+
+Democrats only need to flip three seats in the House to win back the majority. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160960897/2d2ce66c12e86f6e19bc87a6139e62ed.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160960897/2d2ce66c12e86f6e19bc87a6139e62ed.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/win-back-the-house-yasmin-radjy-on>
+
+---
+
+## Steve Vladeck and Jen Rubin unpack the SCOTUS Deportation Ruling 
+
+date: 2025-04-09, from: The Contrarian
+
+Yesterday, SCOTUS delivered a 5-4 ruling allowing the Trump administration to continue deporting people under the Alien Enemies Act. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160950979/761048db4bbd27b1728e06ed6ea027a8.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160950979/761048db4bbd27b1728e06ed6ea027a8.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/steve-vladeck-and-jen-rubin-unpack>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-09, from: The Contrarian
+
+Wednesday: More posts from the Hands Off protests across the country, including in Minnesota, Arizona, Oregon, Pennsylvania, Maine, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## Have You No Decency?
+
+date: 2025-04-09, from: The Contrarian
+
+(Not to Mention Shame, Soul, Balls, Brains, Beer, Taste, or Friends?) 
+
+<br> 
+
+<https://contrarian.substack.com/p/have-you-no-decency>
+
+---
+
+##  Vampire Capitalists Cash In Amid Stock Market Crash 
+
+date: 2025-04-09, from: The Lever News
+
+ While the markets spin out of control, private equity firms are accelerating their looting of shareholders and businesses.  
+
+<br> 
+
+<https://www.levernews.com/vampire-capitalists-cash-in-amid-stock-market-crash/>
 
 ---
 
@@ -66,8 +130,8 @@ date: 2025-04-09, from: The Contrarian
 On Monday, the Supreme Court delivered a 5-4 ruling allowing the Trump administration to continue its horrendous deportations. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160896567/9358adde8021c38c7e9b0a20f0a33fb2.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160896567/9358adde8021c38c7e9b0a20f0a33fb2.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160896567/6f5f1f0a79377e2df12b722bb477d210.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160896567/6f5f1f0a79377e2df12b722bb477d210.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/andrew-weissmann-and-jen-rubin-on-7a3>
 
@@ -116,8 +180,8 @@ date: 2025-04-08, from: The Contrarian
 In November 2024, Allison Riggs was elected to retain her seat on the North Carolina Supreme Court. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160893311/7ec2b697560c22f7384723ef111ce854.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160893311/7ec2b697560c22f7384723ef111ce854.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160893311/f147e692d88b15da7697661dd38a6449.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160893311/f147e692d88b15da7697661dd38a6449.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/north-carolina-supreme-court-justice>
 
@@ -142,8 +206,8 @@ date: 2025-04-08, from: The Contrarian
 A recording from Let's Do Lunch 04/08 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160875470/651df7baae8cb1e92b9e0083bbe43783.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160875470/651df7baae8cb1e92b9e0083bbe43783.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160875470/e2c039ef6445c099bea7187604b93064.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160875470/e2c039ef6445c099bea7187604b93064.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/lets-do-lunch-with-jared-bernstein>
 
@@ -156,8 +220,8 @@ date: 2025-04-08, from: The Contrarian
 Mass protests have erupted across Turkey following the arrest of Istanbul Mayor Ekrem Imamoglu, a leading opposition figure expected to be named a presidential candidate. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160819143/57be8df50caece30d26055c5110c2529.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160819143/57be8df50caece30d26055c5110c2529.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160819143/fcef6c761584952cb4a85a1f0b057bdb.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160819143/fcef6c761584952cb4a85a1f0b057bdb.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/asl-aydntasbas-and-jen-rubin-on-turkeys>
 
@@ -225,18 +289,6 @@ One man can save democracy for future generations.
 
 ---
 
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-08, from: The Contrarian
-
-Tuesday: More posts from the Hands Off protests across the country, including in Georgia, Connecticut, Indiana, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
-
----
-
 ## Adam Kinzinger and Jen Rubin on MAGA, Markets, and Measles 
 
 date: 2025-04-08, from: The Contrarian
@@ -244,8 +296,8 @@ date: 2025-04-08, from: The Contrarian
 Adam Kinzinger is a former (a word he relishes) member of Congress from Illinois and was one of two Republican members who sat on the January 6th Committee. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160825641/262c193ae7c4236f2f09913c3ba126e5.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160825641/262c193ae7c4236f2f09913c3ba126e5.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160825641/2677836c60ccb4e69feb88cb6050f7e2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160825641/2677836c60ccb4e69feb88cb6050f7e2.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/adam-kinzinger-and-jen-rubin>
 

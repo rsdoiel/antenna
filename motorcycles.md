@@ -1,11 +1,23 @@
 ---
 title: motorcycles
-updated: 2025-04-09 09:34:25
+updated: 2025-04-09 14:06:50
 ---
 
 # motorcycles
 
-(date: 2025-04-09 09:34:25)
+(date: 2025-04-09 14:06:50)
+
+---
+
+## NASCAR Power Rankings: Denny Hamlin goes back-to-back, wins at Darlington to claim No. 1 spot
+
+date: 2025-04-09, from: Kickin the Tires blog
+
+By Noah Poser, Staff Writer Another week, another change at the top. Denny Hamlin wasn’t the dominant driver at Darlington (see William Byron) nor was he the fastest at the&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/nascar-power-rankings-denny-hamlin-goes-back-to-back-wins-at-darlington-to-claim-no-1-spot/>
 
 ---
 

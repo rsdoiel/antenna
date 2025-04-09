@@ -1,11 +1,50 @@
 ---
 title: pacific
-updated: 2025-04-09 09:34:20
+updated: 2025-04-09 14:06:46
 ---
 
 # pacific
 
-(date: 2025-04-09 09:34:20)
+(date: 2025-04-09 14:06:46)
+
+---
+
+## UH professor, composer honored for lifelong impact on American music
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>Womack’s recognition highlights <abbr>UH</abbr> Mānoa’s role as a global hub for musical innovation and cultural exchange.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/09/womack-society-for-american-music/"><abbr>UH</abbr> professor, composer honored for lifelong impact on American music</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/09/womack-society-for-american-music/>
+
+---
+
+## UH President Wendy Hensel visits Molokaʻi in final stop of statewide tour
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>&#8220;It was a day of inspiring stories that really moved me about the power of education and the importance of having access on every island.&#8221;</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/09/uh-president-hensel-visits-molokai/"><abbr>UH</abbr> President Wendy Hensel visits Molokaʻi in final stop of statewide tour</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/09/uh-president-hensel-visits-molokai/>
+
+---
+
+## Image of the Week: Imagination to art
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>This week’s Image of the Week is from Leeward Community College's Erin Maruoka.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/09/image-of-the-week-imagination/">Image of the Week: Imagination to art</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/09/image-of-the-week-imagination/>
 
 ---
 

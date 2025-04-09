@@ -1,11 +1,95 @@
 ---
 title: columns
-updated: 2025-04-09 09:34:22
+updated: 2025-04-09 14:06:47
 ---
 
 # columns
 
-(date: 2025-04-09 09:34:22)
+(date: 2025-04-09 14:06:47)
+
+---
+
+## ★ How Many New iPhones Can Fit on a Freight Plane?
+
+date: 2025-04-09, updated: 2025-04-09, from: Daring Fireball
+
+This sounds like one of those puzzles job interviewers often ask, but there’s a practical relevance at the moment. 
+
+<br> 
+
+<https://daringfireball.net/2025/04/how_many_iphones_can_fit_on_a_freight_plane>
+
+---
+
+## Trump only simulates madness 
+
+date: 2025-04-09, from: Robert Reich's blog
+
+The rest of us pay the price 
+
+<br> 
+
+<https://robertreich.substack.com/p/trump-only-simulates-madness>
+
+---
+
+##  The List Keepers, on the informal efforts to keep track of the... 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046607-the-list-keepers-on-the>
+
+---
+
+##  Former Substack creators say they&#8217;re earning more on new platforms. &#8220;Paying someone... 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046606-former-substack-creators->
+
+---
+
+##  ICE director&#8217;s dream: &#8220;Squads of trucks rounding up immigrants for deportation the... 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046605-ice-directors-dream-squad>
+
+---
+
+## Trump Cuts Most Tariffs to 10% but Increases Tariffs on China to 125%
+
+date: 2025-04-09, updated: 2025-04-09, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://truthsocial.com/@realDonaldTrump/posts/114309144289505174>
+
+---
+
+## Predictability and trust is key to American business, and it's disappearing quickly
+
+date: 2025-04-09, from: Matt Haughey blog
+
+<p>Running a small business is tough. It&apos;s so unpredictable that most people have to run them as side projects alongside their day jobs, and you can&apos;t really quit your day job (with all its healthcare and predictable checks coming in each month) until your small biz</p> 
+
+<br> 
+
+<https://a.wholelottanothing.org/predictability-and-trust-is-key-to-american-business-and-its-disappearing-quickly/>
 
 ---
 

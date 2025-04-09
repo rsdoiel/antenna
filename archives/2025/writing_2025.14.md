@@ -1,11 +1,24 @@
 ---
 title: writing
-updated: 2025-04-09 09:34:22
+updated: 2025-04-09 14:06:48
 ---
 
 # writing
 
-(date: 2025-04-09 09:34:22)
+(date: 2025-04-09 14:06:48)
+
+---
+
+## Murakami Wins Sheikh Zayed Book Award
+
+date: 2025-04-09, from: Locus Magazine
+
+<p>The Abu Dhabi Arabic Language Centre (ALC) has announced its 2025 Book Award Winners, including Haruki Murakami as Cultural Personality of the Year for the 19th Sheikh Zayed Book Award (SZBA). The award recognizes &#8220;a prominent Arab or international figure (or organization) who has contributed to the advancement of the Arabic culture, embodies through his/her work tolerance and promotes peaceful coexistence.&#8221;</p>
+<p>In particular, the announcement credits Murakami&#8217;s &#8220;creative career and  <a href="https://locusmag.com/2025/04/murakami-wins-sheikh-zayed-book-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/murakami-wins-sheikh-zayed-book-award/>
 
 ---
 

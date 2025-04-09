@@ -29,7 +29,311 @@
 An experiment in personal news aggregation.
 </div>
 <h1 id="snapshots">snapshots</h1>
-<p>(date: 2025-04-09 09:34:28)</p>
+<p>(date: 2025-04-09 14:06:53)</p>
+<hr />
+<h2 id="an-llm-query-understanding-service">An LLM Query Understanding
+Service</h2>
+<p>date: 2025-04-09, updated: 2025-04-09, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://softwaredoug.com/blog/2025/04/08/llm-query-understand">An
+LLM Query Understanding Service</a></strong>
+</p>
+Doug Turnbull recently wrote about how
+<a href="https://softwaredoug.com/blog/2025/04/02/all-search-structured-now">all
+search is structured now</a>:
+</p>
+<blockquote>
+<p>
+Many times, even a small open source LLM will be able to turn a search
+query into reasonable structure at relatively low cost.
+</p>
+</blockquote>
+<p>
+In this follow-up tutorial he demonstrates Qwen 2-7B running in a
+GPU-enabled Google Kubernetes Engine container to turn user search
+queries like “red loveseat” into structured filters like
+<code>{“item_type”: “loveseat”, “color”: “red”}</code>.
+</p>
+<p>
+Here’s the prompt he uses.
+</p>
+<pre><code>Respond with a single line of JSON:
+
+  {"item_type": "sofa", "material": "wood", "color": "red"}
+
+Omit any other information. Do not include any
+other text in your response. Omit a value if the
+user did not specify it. For example, if the user
+said "red sofa", you would respond with:
+
+  {"item_type": "sofa", "color": "red"}
+
+Here is the search query: blue armchair
+</code></pre>
+<p>
+Out of curiosity, I tried running his prompt against some other models
+using <a href="https://llm.datasette.io/">LLM</a>:
+</p>
+<ul>
+<li>
+<code>gemini-1.5-flash-8b</code>, the cheapest of the Gemini models,
+<a href="https://gist.github.com/simonw/cc825bfa7f921ca9ac47d7afb6eab1ce">handled
+it well</a> and cost $0.000011 - or 0.0011 cents.
+</li>
+<li>
+<code>llama3.2:3b</code>
+<a href="https://gist.github.com/simonw/d18422ca24528cdb9e5bd77692531cfd">worked
+too</a> - that’s a very small 2GB model which I ran using Ollama.
+</li>
+<li>
+<code>deepseek-r1:1.5b</code> - a tiny 1.1GB model, again via Ollama,
+<a href="https://gist.github.com/simonw/c37eca96dd6721883207c99d25aec49d">amusingly
+failed</a> by interpreting “red loveseat” as <code>{“item_type”: “sofa”,
+“material”: null, “color”: “red”}</code> after thinking very hard about
+the problem!
+</li>
+</ul>
+<pre><code>&lt;p&gt;&lt;small&gt;&lt;/small&gt;Via &lt;a href=&quot;https://lobste.rs/s/oa5hbz/llm_query_understanding_service&quot;&gt;lobste.rs&lt;/a&gt;&lt;/small&gt;&lt;/p&gt;
+
+
+&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/prompt-engineering&quot;&gt;prompt-engineering&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llm&quot;&gt;llm&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/generative-ai&quot;&gt;generative-ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/search&quot;&gt;search&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ai&quot;&gt;ai&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/llms&quot;&gt;llms&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/gemini&quot;&gt;gemini&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/ollama&quot;&gt;ollama&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Apr/9/an-llm-query-understanding-service/#atom-everything"
+class="uri">https://simonwillison.net/2025/Apr/9/an-llm-query-understanding-service/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-09, from: Dave Winer’s linkblog)</p>
+<p>BYD launches first EVs with ultra-fast charging starting at
+$30,000.</p>
+<p><br></p>
+<p><a
+href="https://electrek.co/2025/04/09/byd-launches-first-evs-with-ultra-fast-charging-starting-at-30000/"
+class="uri">https://electrek.co/2025/04/09/byd-launches-first-evs-with-ultra-fast-charging-starting-at-30000/</a></p>
+<hr />
+<h2 id="unable-to-send-messages-with-apple-mail-on-macos-15.4">Unable to
+Send Messages With Apple Mail on macOS 15.4</h2>
+<p>date: 2025-04-09, from: Michael Tsai</p>
+<p>Awkward_One_9772: MacOS 15.4 (Sequoia) cannot send email, but it
+receives email eMail. Using 3 different accounts in apple email it fails
+for all three. […] When I click “send” on an email created in apple mail
+or as a draft in apple mail, apple eMail nothing happens, just the
+airplane send icon grays out, also […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/04/09/unable-to-send-messages-with-apple-mail-on-macos-15-4/"
+class="uri">https://mjtsai.com/blog/2025/04/09/unable-to-send-messages-with-apple-mail-on-macos-15-4/</a></p>
+<hr />
+<h2 id="why-companies-dont-fix-bugs">Why Companies Don’t Fix Bugs</h2>
+<p>date: 2025-04-09, from: Michael Tsai</p>
+<p>Ibrahim Diallo (via Hacker News): A few years ago, a lone programmer
+named t0st did something extraordinary: he fixed an 8-year-old bug in
+GTA Online that had been driving players crazy. The bug? Painfully long
+load times, sometimes up to 20 minutes. While the single-player mode
+loaded in seconds. His solution was elegant: a 13-line […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/04/09/why-companies-dont-fix-bugs/"
+class="uri">https://mjtsai.com/blog/2025/04/09/why-companies-dont-fix-bugs/</a></p>
+<hr />
+<h2 id="soured">Soured</h2>
+<p>date: 2025-04-09, from: Michael Tsai</p>
+<p>Matthew Bickham (Hacker News): Once upon a time, developing for Apple
+was an exciting, rewarding challenge. Apple built world-class hardware
+and software, and developers created incredible apps that made those
+devices indispensable. It was a win-win. But in 2025, that relationship
+has soured. […] Sure, they’ll pay lip service to developers. But as in
+any […]</p>
+<p><br></p>
+<p><a href="https://mjtsai.com/blog/2025/04/09/soured/"
+class="uri">https://mjtsai.com/blog/2025/04/09/soured/</a></p>
+<hr />
+<h2 id="reflecting-on-18-years-at-google">Reflecting on 18 Years at
+Google</h2>
+<p>date: 2025-04-09, from: Michael Tsai</p>
+<p>Ian Hickson (2023, via Hacker News): I feel very lucky to have
+experienced the early post-IPO Google; unlike most companies, and
+contrary to the popular narrative, Googlers, from the junior engineer
+all the way to the C-suite, were genuinely good people who cared very
+much about doing the right thing. The oft-mocked “don’t be evil“ […]</p>
+<p><br></p>
+<p><a
+href="https://mjtsai.com/blog/2025/04/09/reflecting-on-18-years-at-google/"
+class="uri">https://mjtsai.com/blog/2025/04/09/reflecting-on-18-years-at-google/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-09, from: Dave Winer’s linkblog)</p>
+<p>Scott Knaster’s first book about debugging Mac software was an
+instant lifesaver for early Mac developers.</p>
+<p><br></p>
+<p><a
+href="https://scottknaster.substack.com/p/the-first-book-i-wrote?publication_id=3817465&amp;post_id=160582548&amp;isFreemail=true&amp;r=w33x&amp;triedRedirect=true"
+class="uri">https://scottknaster.substack.com/p/the-first-book-i-wrote?publication_id=3817465&amp;post_id=160582548&amp;isFreemail=true&amp;r=w33x&amp;triedRedirect=true</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-09, from: Dave Winer’s linkblog)</p>
+<p>Trump says ‘I know what I’m doing’ before stepping back from global
+tariffs.</p>
+<p><br></p>
+<p><a
+href="https://www.theguardian.com/us-news/2025/apr/09/trump-address-republicans-china-tariffs"
+class="uri">https://www.theguardian.com/us-news/2025/apr/09/trump-address-republicans-china-tariffs</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Feed">@Feed</span> for Alt
+USDS</strong> (date: 2025-04-09, from: Feed for Alt USDS)</p>
+<p>🍿Can’t wait to see what they find</p>
+<p>[contains quote post or other embedded content]</p>
+<p><br></p>
+<p><a
+href="https://bsky.app/profile/altusds.bsky.social/post/3lmfq56ebo22m"
+class="uri">https://bsky.app/profile/altusds.bsky.social/post/3lmfq56ebo22m</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-09, from: Dave Winer’s linkblog)</p>
+<p>“We oppose reckless funding cuts and restrictions that imperil the
+research enterprise of our universities, hospitals, and laboratories,
+which contribute enormously to our prosperity, health, and national
+security.”</p>
+<p><br></p>
+<p><a
+href="https://www.amacad.org/news/board-statement-values-april-2025"
+class="uri">https://www.amacad.org/news/board-statement-values-april-2025</a></p>
+<hr />
+<h2
+id="framework-laptop-12-is-now-available-for-pre-order-for-569-and-up-but-not-in-the-us">Framework
+Laptop 12 is now available for pre-order for €569 and up (but not in the
+US)</h2>
+<p>date: 2025-04-09, from: Liliputing</p>
+<p>
+The Framework Laptop 12 is a modular, repairable, and upgradeable
+notebook computer that represents several firsts for Framework. It’s the
+company’s first laptop with a screen smaller than 13.5 inches. It’s the
+first with a touchscreen display and support for a pressure-sensitive
+style. It’s the first with a 360-degree hinge that lets you switch
+between […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/framework-laptop-12-is-now-available-for-pre-order-for-e569-and-up-but-not-in-the-us/">Framework
+Laptop 12 is now available for pre-order for €569 and up (but not in the
+US)</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/framework-laptop-12-is-now-available-for-pre-order-for-e569-and-up-but-not-in-the-us/"
+class="uri">https://liliputing.com/framework-laptop-12-is-now-available-for-pre-order-for-e569-and-up-but-not-in-the-us/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-09, from: Dave Winer’s linkblog)</p>
+<p>Predictability and trust is key to American business, and it's
+disappearing quickly.</p>
+<p><br></p>
+<p><a
+href="https://a.wholelottanothing.org/predictability-and-trust-is-key-to-american-business-and-its-disappearing-quickly/"
+class="uri">https://a.wholelottanothing.org/predictability-and-trust-is-key-to-american-business-and-its-disappearing-quickly/</a></p>
+<hr />
+<h2
+id="amd-introduces-ryzen-8000hx-dragon-range-mobile-chips-for-gaming-laptops">AMD
+introduces Ryzen 8000HX “Dragon Range” mobile chips for gaming
+laptops</h2>
+<p>date: 2025-04-09, from: Liliputing</p>
+<p>
+Two years after introducing the Ryzen 7045 “Dragon Range” line of mobile
+chips for gaming laptops AMD is back with four new processors with new
+names and… very similar features. The new Ryzen 8000HX series processors
+are 55+ watt chips with up to 16 Zen 4 CPU cores, CPU frequencies up to
+5.4 GHz, and […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/amd-introduces-ryzen-8000hx-dragon-range-mobile-chips-for-gaming-laptops/">AMD
+introduces Ryzen 8000HX “Dragon Range” mobile chips for gaming
+laptops</a> appeared first on
+<a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/amd-introduces-ryzen-8000hx-dragon-range-mobile-chips-for-gaming-laptops/"
+class="uri">https://liliputing.com/amd-introduces-ryzen-8000hx-dragon-range-mobile-chips-for-gaming-laptops/</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-09, from: Dave Winer’s linkblog)</p>
+<p>It’s time to change the American national anthem.</p>
+<p><br></p>
+<p><a href="https://m.youtube.com/watch?v=8iruzIEQsL4"
+class="uri">https://m.youtube.com/watch?v=8iruzIEQsL4</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-09, from: Dave Winer’s linkblog)</p>
+<p>Companies See China as a Safe Harbor Amid Trump’s Tariffs.</p>
+<p><br></p>
+<p><a
+href="https://www.nytimes.com/2025/04/09/business/trump-tariffs-china-factories.html"
+class="uri">https://www.nytimes.com/2025/04/09/business/trump-tariffs-china-factories.html</a></p>
+<hr />
+<h2 id="css-naked-day-2025">CSS Naked Day 2025</h2>
+<p>date: 2025-04-09, from: Eric Meyer blog</p>
+<p>meyerweb.com goes au naturel, mostly, in observance of the annual CSS
+Naked Day.</p>
+<p><br></p>
+<p><a
+href="https://meyerweb.com/eric/thoughts/2025/04/09/css-naked-day-2025/"
+class="uri">https://meyerweb.com/eric/thoughts/2025/04/09/css-naked-day-2025/</a></p>
+<hr />
+<h2 id="name-available-on-request-from-companies-house">[NAME AVAILABLE
+ON REQUEST FROM COMPANIES HOUSE]</h2>
+<p>date: 2025-04-09, updated: 2025-04-09, from: Simon Willison’s
+Weblog</p>
+<p>
+<strong><a href="https://find-and-update.company-information.service.gov.uk/company/10542519">[NAME
+AVAILABLE ON REQUEST FROM COMPANIES HOUSE]</a></strong>
+</p>
+I just noticed that the legendary company name <code>; DROP TABLE
+“COMPANIES”;– LTD</code> is now listed as <code>[NAME AVAILABLE ON
+REQUEST FROM COMPANIES HOUSE]</code> on the UK government Companies
+House website.
+</p>
+<p>
+<p>For background, see
+<a href="https://pizzey.me/posts/no-i-didnt-try-to-break-companies-house/">No,
+I didn’t try to break Companies House</a> by culprit Sam Pizzey.</p>
+<pre><code>&lt;p&gt;Tags: &lt;a href=&quot;https://simonwillison.net/tags/sql&quot;&gt;sql&lt;/a&gt;, &lt;a href=&quot;https://simonwillison.net/tags/sql-injection&quot;&gt;sql-injection&lt;/a&gt;&lt;/p&gt; </code></pre>
+<p><br></p>
+<p><a
+href="https://simonwillison.net/2025/Apr/9/name-available-on-request/#atom-everything"
+class="uri">https://simonwillison.net/2025/Apr/9/name-available-on-request/#atom-everything</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-09, from: Dave Winer’s linkblog)</p>
+<p>Philanthropy Coalition Launches Solidarity Campaign.</p>
+<p><br></p>
+<p><a
+href="https://nonprofitquarterly.org/unite-in-advance-philanthropy-coalition-launches-solidarity-campaign/"
+class="uri">https://nonprofitquarterly.org/unite-in-advance-philanthropy-coalition-launches-solidarity-campaign/</a></p>
+<hr />
+<h2
+id="report-major-pc-makers-respond-to-tariffs-by-pausing-shipments">Report:
+Major PC makers respond to tariffs by pausing shipments</h2>
+<p>date: 2025-04-09, from: Liliputing</p>
+<p>
+Earlier this week Framework announced it would stop selling some laptop
+models in the US, and today the company revealed it would delay US
+pre-orders of the new Framework Laptop 12 (which were originally
+scheduled to begin today). Meanwhile gaming hardware company Razer has
+paused sales for all of its gaming laptops. But those are […]
+</p>
+<p>
+The post
+<a href="https://liliputing.com/report-major-pc-makers-respond-to-tariffs-by-pausing-shipments/">Report:
+Major PC makers respond to tariffs by pausing shipments</a> appeared
+first on <a href="https://liliputing.com">Liliputing</a>.
+</p>
+<p><br></p>
+<p><a
+href="https://liliputing.com/report-major-pc-makers-respond-to-tariffs-by-pausing-shipments/"
+class="uri">https://liliputing.com/report-major-pc-makers-respond-to-tariffs-by-pausing-shipments/</a></p>
 <hr />
 <h2
 id="inside-a-powerful-database-ice-uses-to-identify-and-deport-people">Inside
@@ -1471,15 +1775,15 @@ class="uri">https://simonwillison.net/2025/Apr/8/jack-clark/#atom-everything</a>
 <p>
 <em>TL;DR Just because someone says they’ve archived something from the
 web doesn’t mean it isn’t worth checking and possibly archiving again.
-We need better tools and methods for doing this type of appraisal
-work.</em>
+We need better tools and methods for appraising web content in need of
+preservation.</em>
 </p>
 <hr />
 <p>
 As the Trump administration’s destruction of the federal government has
 spilled out into the removal of web pages and entire websites we have
 seen the emergence, and re-emergence, of several efforts to try to
-collect imperiled government web pages. There has been a lot of valuable
+collect at risk government web content. There has been a lot of valuable
 coverage of this work in the mainstream media, and I won’t pretend to do
 it justice by trying to summarize it here.
 </p>
@@ -3031,6 +3335,15 @@ tariffs.</p>
 <p><a
 href="https://apnews.com/article/stocks-markets-nikkei-tariffs-trump-76d0de278a6cad291ace624a74a6a1b6"
 class="uri">https://apnews.com/article/stocks-markets-nikkei-tariffs-trump-76d0de278a6cad291ace624a74a6a1b6</a></p>
+<hr />
+<p><strong><span class="citation" data-cites="Dave">@Dave</span> Winer’s
+linkblog</strong> (date: 2025-04-07, from: Dave Winer’s linkblog)</p>
+<p>Big Tech Backed Trump for Acceleration. They Got a Decel President
+Instead.</p>
+<p><br></p>
+<p><a
+href="https://www.404media.co/big-tech-backed-trump-for-acceleration-they-got-a-decel-president-instead/"
+class="uri">https://www.404media.co/big-tech-backed-trump-for-acceleration-they-got-a-decel-president-instead/</a></p>
 <hr />
 <h2 id="raspberry-pi-45w-usb-c-power-supply-on-sale-now-at-15">Raspberry
 Pi 45W USB-C Power Supply on sale now at $15</h2>

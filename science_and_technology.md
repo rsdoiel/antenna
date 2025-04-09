@@ -1,11 +1,107 @@
 ---
 title: science and technology
-updated: 2025-04-09 09:34:20
+updated: 2025-04-09 14:06:46
 ---
 
 # science and technology
 
-(date: 2025-04-09 09:34:20)
+(date: 2025-04-09 14:06:46)
+
+---
+
+## Sensitive financial files feared stolen from US bank watchdog
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>OCC mum on who broke into email, but Treasury fingered China in similar hack months ago</h4> <p>A US banking regulator fears sensitive financial oversight data was stolen from its IT systems in what&#39;s been described as &#34;a major information security incident.&#34;…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/occ_bank_email_hack/>
+
+---
+
+## FreeDOS 1.4 released
+
+date: 2025-04-09, from: OS News
+
+With FreeDOS being, well, DOS, you&#8217;d think there wasn&#8217;t much point in putting out major releases and making big changes, and you&#8217;d mostly be right. However, being a DOS clone doesn&#8217;t mean there isn&#8217;t room for improvement within the confines of the various parts and tools that make up DOS, and that&#8217;s exactly where FreeDOS focuses its attention. FreeDOS 1.4 comes about three years after 1.2. This version includes an updated FreeCOM, Install program, and HTML Help system. This also includes improvements to many of the utilities including FDISK, JEMM, 7Zip, FORMAT, FASM, MORE, RUNTIME, and more! ↫ FreeDOS website If you&#8217;re using FreeDOS, you&#8217;re most likely doing so for a highly specialised task, and racing to upgrade isn&#8217;t exactly high on your list of priorities. Still, it&#8217;s great to see FreeDOS moving forward and improving where it can. 
+
+<br> 
+
+<https://www.osnews.com/story/142077/freedos-1-4-released/>
+
+---
+
+## Trump thinks we can make iPhones in the US just like China. Yeah, right
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>One&#39;s a world power with extensive cutting-edge electronics manufacturing empire, the other is America</h4> <p><strong>World War Fee</strong>  President Trump&#39;s trade war with China kicked into gear this week. The upshot is Americans face having to pay more for products and components sourced from the Middle Kingdom, as the eye-watering import tariffs on the gear are set to be passed onto them.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/iphones_manufacture_unlikely_in_us/>
+
+---
+
+## What’s up with Linux support for Qualcomm X Elite chips?
+
+date: 2025-04-09, from: OS News
+
+Remember when Qualcomm promised Linux would be a first-tier platform alongside Windows for its Snapdragon X Elite, almost a year ago now? Well, the Snapdragon X laptop have been out in the market for a while running Windows, but Linux support is still a complete crapshoot, despite the lofty promises by Qualcomm. Tuxedo, a European Linux OEM who promised to ship a Snapdragon X laptop running Linux, has posted an update on its progress, and it&#8217;s not looking good. While Tuxedo did reach a major milestone last week by sending the laptop&#8217;s device tree to the LKML, that&#8217;s where the good news ends. The next step is to support additional components of the ARM notebook within the device tree. This includes all USB functionalities, including USB4, external monitor connectivity via HDMI, and audio features, such as the headset jack. Additionally, driver testing is on the agenda. Unfortunately, a planned collaboration with Qualcomm, the manufacturer of the Snapdragon X Elite, did not materialize. However, we are in contact with the ARM specialists at Linaro and have sent test devices to them. We hope to receive valuable feedback from their developers and the community in the near future. ↫ Tuxedo&#8217;s website This seems to indicate that Qualcomm isn&#8217;t as interested in Linux support after all, which may be because the Snapdragon X machines haven&#8217;t exactly taken over the laptop market as Microsoft and Qualcomm had hoped. The market for these things is probably not large enough for Qualcomm to justify investing in Linux support, especially when Windows on ARM is apparently not up to snuff yet either. In case you are unaware of why device trees are such a big thing in ARM land, it&#8217;s because ARM devices do not have a nice ACPI table for operating systems to read system information from. Whereas x86 devices have their hardware components laid out in a nice ACPI table in UEFI, ARM devices do not, meaning that the Linux kernel needs to know specifically which device you&#8217;re using so it can load the correct device tree. On x86, this isn&#8217;t necessary, as the Linux kernel can just read the ACPI table, which works 99% of the time to get it to boot, even if specific components might not be supported (yet). On ARM, without a device tree, the Linux kernel doesn&#8217;t know what to do. That&#8217;s one of the major reasons why it&#8217;s so hard for ARM to take off in the same way x86 once did. It&#8217;s just not designed to be infinitely intercompatible and interoperable as we&#8217;ve come to expect from the x86 world, and I don&#8217;t think anybody has any vested interest in changing that. I had hoped Microsoft might throw its weight around here, but it seems that&#8217;s not happening either. The ARM desktop/laptop revolution seems mostly confined to Apple for now. 
+
+<br> 
+
+<https://www.osnews.com/story/142075/whats-up-with-linux-support-for-qualcomm-x-elite-chips/>
+
+---
+
+## Expedition 73 Crew Launches to International Space Station
+
+date: 2025-04-09, from: NASA breaking news
+
+A Soyuz rocket launches to the International Space Station with Expedition 73 crew members including NASA astronaut Jonny Kim on Tuesday, April 8, 2025, at the Baikonur Cosmodrome in Kazakhstan. The crew arrived at the space station the same day, bringing the number of residents to 10 for the next two weeks. Expedition 73 will [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/expedition-73-crew-launches-to-international-space-station/>
+
+---
+
+## This month in Redox, March 2025
+
+date: 2025-04-09, from: OS News
+
+Another month, another month of Redox improvements and bug fixes. This month saw a ton of work on process management as part of the NLnet grant, massive improvements to the USB stack, including a USB hub driver, as well as the usual kernel and driver improvements. On top of all this work, there&#8217;s the usual long list of bugfixes and smaller improvements. 
+
+<br> 
+
+<https://www.osnews.com/story/142073/this-month-in-redox-march-2025/>
+
+---
+
+## NASA Science Supports Data Literacy for K-12 Students
+
+date: 2025-04-09, from: NASA breaking news
+
+Data – and our ability to understand and use it – shapes nearly every aspect of our world, from decisions in our lives to the skills we need in the workplace and more. All of us, as either producers or consumers of data, will experience how it can be used to problem-solve and think critically […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/nasa-science-supports-data-literacy-for-k-12-students/>
+
+---
+
+## EU lands 25% counter tariff punch on US, Trump pauses broad import levy hike – China excepted
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Middle Kingdom gets 125%. So this is what it&#39;s like living in reality TV</h4> <p><strong>World War Fee</strong>  The EU voted Wednesday to introduce 25 percent import tariffs on American goods, with the first duties being collected from European consumers on April 15.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/eu_tariffs/>
 
 ---
 
@@ -49,7 +145,7 @@ NASA is bringing the world of planetary defense to the public with its new docum
 
 date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
 
-<h4>Committed $80B capex for DCs as recently as January. We wonder what changed?</h4> <p><strong>World War Fee</strong>  Microsoft has called a halt to the construction of three datacenter campuses in central Ohio, in a sign the tech giant is having to reappraise its infrastructure requirements amid uncertain economic circumstances and concerns over AI demand.…</p> 
+<h4>Committed $80B capex for DCs as recently as January. We wonder what changed?</h4> <p><strong>World War Fee</strong>  Microsoft has called a halt to the construction of three datacenter campuses in central Ohio, in a sign the tech giant is having to reappraise its infrastructure requirements amid uncertain economic circumstances and weaker-than-expected AI demand.…</p> 
 
 <br> 
 
@@ -93,11 +189,11 @@ date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
 
 ---
 
-## Google's got a hot cloud security startup, a new unified platform — and its eye on Microsoft's $20B+ security biz
+## Google's got a hot cloud infosec startup, a new unified platform — and its eye on Microsoft's $20B+ security biz
 
 date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
 
-<h4>Chocolate Factory doubles down on enterprise security at Cloud Next</h4> <p>Google will today reveal a new unified security platform that analysts think can help it battle Microsoft for a bigger chunk of the enterprise infosec market.…</p> 
+<h4>How Chocolate Factory hopes to double down on enterprise-sec</h4> <p><strong>Cloud Next</strong>  Google will today reveal a new unified security platform that analysts think can help it battle Microsoft for a bigger chunk of the enterprise infosec market.…</p> 
 
 <br> 
 
@@ -251,7 +347,7 @@ date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
 
 ## Canada OKs construction of first licensed teeny atomic reactor
 
-date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
 
 <h4>Built by 2028? Maybe. Powering homes? That’s another slip of paper entirely</h4> <p>Canadian nuclear regulators have approved an Ontario company&#39;s request to build a single small modular reactor (SMR) – the first such license issued in the country.…</p> 
 
@@ -349,7 +445,7 @@ date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
 
 date: 2025-04-08, from: NASA breaking news
 
-The Artemis II test flight will be NASA’s first mission with crew under Artemis. Astronauts on their first flight aboard NASA’s Orion spacecraft will confirm all of the spacecraft’s systems operate as designed with crew aboard in the actual environment of deep space.  Through the Artemis campaign, NASA will send astronauts to explore the Moon [&#8230;] 
+The Artemis II test flight will be NASA’s first mission with crew under Artemis. Astronauts on their first flight aboard NASA’s Orion spacecraft will confirm all of the spacecraft’s systems operate as designed with crew aboard in the actual environment of deep space.&#160; Through the Artemis campaign, NASA will send astronauts to explore the Moon [&#8230;] 
 
 <br> 
 

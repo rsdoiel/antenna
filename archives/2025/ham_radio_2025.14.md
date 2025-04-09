@@ -1,11 +1,23 @@
 ---
 title: ham radio
-updated: 2025-04-09 09:34:20
+updated: 2025-04-09 14:06:46
 ---
 
 # ham radio
 
-(date: 2025-04-09 09:34:20)
+(date: 2025-04-09 14:06:46)
+
+---
+
+## ARRL Iowa Section Wins Ham Exemption to Handsfree Law
+
+date: 2025-04-09, from: Amateur Radio Relay League News
+
+<p>ARRL volunteers in the Iowa Section have cause to celebrate. Their state-level advocacy work on behalf of amateur radio has resulted in an exemption to the state’s handsfree law that covers ham operators.</p><p>Iowa Senate File 22 (SF22), a bill addressing distracted driving, had been in development since 2020. Former ARRL Section Manager Lelia Garner, WAØUIG, and Iowa Section State Government Liaison...</p> 
+
+<br> 
+
+<http://www.arrl.org/news/view/arrl-iowa-section-wins-ham-exemption-to-handsfree-law>
 
 ---
 

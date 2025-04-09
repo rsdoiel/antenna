@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-04-09 09:34:23
+updated: 2025-04-09 14:06:48
 ---
 
 # games
 
-(date: 2025-04-09 09:34:23)
+(date: 2025-04-09 14:06:48)
+
+---
+
+## How quickly could Nintendo move Switch 2 production to the U.S.?
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+No stupid questions: If Nintendo wanted to avoid any hefty tariffs imposed by President Donald Trump, how quickly could it move Switch 2 production to the U.S.? Trump has done a partial walkback on the tariffs already, but let’s get hypothetical here. The short answer is that it would take a lot more time than [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo-switch-2/555749/switch-2-america-usa-production-how-fast-tariffs>
+
+---
+
+## Court denies Build-A-Bear’s request to be sent 3,000 Squishmallows as part of lawsuit
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Kelly Toys, the maker of the ever-popular Squishmallows, and stuff-it-yourself plush company Build-A-Bear have been at it in court for well over a year now. Both Kelly Toys and Build-A-Bear filed their own respective lawsuits in February 2024, in different courts. Kelly Toys’ was filed in California, where its lawyers argue Build-A-Bear’s Skoosherz line looks [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/toys/556065/squishmallows-build-a-bear-copyright-trademark-lawsuit>
+
+---
+
+## Anker’s very fast USB-C power bank is 67% off for the first time
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+A good power bank is one of the best gadgets you can buy these days. You should buy one that’s powerful enough to charge any of your daily drivers, from your phone to your Steam Deck. One of the best overall power banks available is selling at its best price ever. The Anker 737, which [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/556081/ankers-very-fast-usb-c-power-bank-is-67-off-for-the-first-time>
+
+---
+
+## Blue Prince will be on PlayStation Plus from launch
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Blue Prince releases on April 10, and will immediately be available on Xbox Game Pass, Microsoft announced last week. The PlayStation Blog announced today that it will be available the same day on PlayStation Plus, as well. Between a nomination for “Best Gameplay” at Gamescom 2024 and a more recent deluge of positive reviews, the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/556017/blue-prince-playstation-plus-xbox-game-pass-launch-date>
+
+---
+
+## What is the the Diablo 4 roadmap for 2025?
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Blizzard has published the Diablo 4 2025 roadmap that lists out some of what players can look forward to this year (and beyond). After the rise of Mephisto during Vessel of Hatred, 2025 will be mostly about the spread of Mephisto’s influence, along with some unannounced collaborations and rewards. We’ll break down everything announced in [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/diablo-4-guides/555617/what-is-the-the-diablo-4-roadmap-for-2025>
+
+---
+
+## The Last of Us is coming back for season 3 on HBO
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+The Last of Us season 2 is just days away, but it seems that HBO doesn’t want to leave everyone in suspense about what’s next for one of its most popular series. The network announced on Wednesday that the series has been renewed for season 3 via a short video teaser. For those that may [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/entertainment/555645/the-last-of-us-is-coming-back-for-season-3-on-hbo>
+
+---
+
+## The worst game of all time is somehow even worse on Steam
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Big Rigs: Over the Road Racing was snaked from the sewers of gaming history and re-released on Steam on April 8, giving a new generation of players the opportunity to experience one of the worst games of all time. And yet, going by the Steam reviews, this version somehow manages to be even worse than [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/555614/the-worst-game-of-all-time-is-somehow-even-worse-on-steam>
 
 ---
 

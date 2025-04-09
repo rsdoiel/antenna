@@ -1,11 +1,101 @@
 ---
 title: home
-updated: 2025-04-09 09:34:24
+updated: 2025-04-09 14:06:50
 ---
 
 # home
 
-(date: 2025-04-09 09:34:24)
+(date: 2025-04-09 14:06:50)
+
+---
+
+## What Ikea Designers Keep for Themselves
+
+date: 2025-04-09, from: Dwell
+
+The minds behind the world’s most ubiquitous furniture brand share the stuff they love so much they use it in their own homes. 
+
+<br> 
+
+<https://www.dwell.com/article/ikea-designers-favorite-pieces-182da620-683a9e89>
+
+---
+
+## Create the Perfect Skateboard Display With This DIY Wall Mount
+
+date: 2025-04-09, from: Family Handyman Blog
+
+<p>Building a skateboard wall mount is an easy project that'll keep your boards neat and tidy while displaying them as functional artwork.</p>
+<p>The post <a href="https://www.familyhandyman.com/project/how-to-make-skateboard-wall-mount/">Create the Perfect Skateboard Display With This DIY Wall Mount</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/project/how-to-make-skateboard-wall-mount/>
+
+---
+
+## Car Thieves Are Hacking Into Headlights— Here’s What You Need to Know
+
+date: 2025-04-09, from: Family Handyman Blog
+
+<p>Car thieves are always on the lookout for new methods, and one of their latest involves the headlights. Learn how they do it and what you can do.</p>
+<p>The post <a href="https://www.familyhandyman.com/article/car-theft-through-headlights/">Car Thieves Are Hacking Into Headlights— Here&#8217;s What You Need to Know</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/car-theft-through-headlights/>
+
+---
+
+## Tips for Growing Shasta Daisies in Containers
+
+date: 2025-04-09, from: The Gardener's Path
+
+<p>Shasta daisies are clump-forming perennials that bloom all summer with bright white or yellow ray florets with yellow centers. Hardy and easy to cultivate, these flowers are ideal for growing in containers, adding charm to decks and patios. Learn how to grow Shasta daisies in containers in this guide. Read more now.</p>
+<p>The post <a href="https://gardenerspath.com/plants/flowers/grow-shasta-daisies-containers/">Tips for Growing Shasta Daisies in Containers</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/flowers/grow-shasta-daisies-containers/>
+
+---
+
+## Frank Lloyd Wright’s Surprising Superfan: The Founder of Domino’s Pizza?
+
+date: 2025-04-09, from: Dwell
+
+One of the 20th-century architect’s biggest admirers is a somewhat unexpected—and similarly complicated—man. 
+
+<br> 
+
+<https://www.dwell.com/article/frank-lloyd-wright-surprising-superfan-dominos-pizza-founder-tom-monaghan-b47c17a3-e668870a>
+
+---
+
+## Budget Breakdown: A Butter-Yellow, Swooped-Roof Houston Home Gets a Secret Addition for $507K
+
+date: 2025-04-09, from: Dwell
+
+Inflection Architecture adds 700 square feet to a century-old Texas bungalow by tucking a new second story just beyond street view. 
+
+<br> 
+
+<https://www.dwell.com/article/budget-breakdown-norhill-residence-bungalow-renovation-inflection-architecture-houston-texas-31f3be30>
+
+---
+
+## Solar Panels Completely Cover One Side of This 98-Foot-Long Brutalist Home in Tasmania
+
+date: 2025-04-09, from: Dwell
+
+The generous array, along with a rainwater harvesting system, allows the concrete residence to operate entirely off-grid. 
+
+<br> 
+
+<https://www.dwell.com/article/tunnel-tasmania-vipp-brutalist-architecture-8df624e2>
 
 ---
 
@@ -61,6 +151,18 @@ date: 2025-04-09, from: Yard Life blog
 <br> 
 
 <https://ownyardlife.com/40-shrubs-with-purple-flowers-with-pictures-and-names/>
+
+---
+
+## 20 New Garden Books to Order This Spring
+
+date: 2025-04-09, from: Sunset Magazine - Living in the West
+
+From climate-resilient gardening to no-dig veggie hacks, these fresh and upcoming book releases will change the way you garden. 
+
+<br> 
+
+<https://www.sunset.com/home-garden/garden-basics/garden-books-for-spring>
 
 ---
 
@@ -149,7 +251,7 @@ date: 2025-04-09, from: Yard Life blog
 
 date: 2025-04-08, from: Greg Alder's blog, Yard Post
 
-<p>Spring has sprung. See what&#8217;s ready to eat &#8212; and what&#8217;s in bloom &#8212; in the diversified San Diego County food garden of Jacques: Thank you for&#160;your support&#160;of my Yard Posts so I can keep them coming and without ads. All of my Yard Posts are categorized and listed&#160;here.</p>
+<p>Spring has sprung. See what&#8217;s ready to eat &#8212; and what&#8217;s in bloom &#8212; in the diversified San Diego County food garden of Jacques: Ever eaten an ice-cream bean? Do you have a favorite loquat? Do you share Jacques&#8217; chop-and-drop perspective on some weeds? The &#8216;New Zealand Lemonade&#8217; lemon reminds me of the overwhelming number [&#8230;]</p>
 <p>The post <a href="https://gregalder.com/yardposts/march-in-jacques-food-garden/">March in Jacques&#8217; food garden</a> appeared first on <a href="https://gregalder.com/yardposts">Greg Alder&#039;s Yard Posts: Southern California food gardening</a>.</p>
  
 
