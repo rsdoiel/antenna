@@ -1,11 +1,25 @@
 ---
 title: ham radio
-updated: 2025-04-08 14:08:40
+updated: 2025-04-09 06:07:55
 ---
 
 # ham radio
 
-(date: 2025-04-08 14:08:40)
+(date: 2025-04-09 06:07:55)
+
+---
+
+## The transformative force of ultra-wideband (UWB) radar
+
+date: 2025-04-09, from: EDN Blog
+
+<img width="1200" height="900" src="https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?fit=1200%2C900" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=1200 1200w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=1024 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>It's the latest wireless technology to hit automotive, helping OEMs to meet safety regulations, introduce new features, and even cut costs.</p>
+<p>The post <a href="https://www.edn.com/the-transformative-force-of-ultra-wideband-uwb-radar/">The transformative force of ultra-wideband (UWB) radar</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/the-transformative-force-of-ultra-wideband-uwb-radar/>
 
 ---
 
@@ -13,7 +27,7 @@ updated: 2025-04-08 14:08:40
 
 date: 2025-04-08, from: EDN Blog
 
-<img width="1300" height="1000" src="https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?fit=1300%2C1000" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?w=1300 1300w, https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?w=300 300w, https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?w=768 768w, https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?w=1024 1024w" sizes="(max-width: 1300px) 100vw, 1300px" /><p>The semiconductor industry must rely comprehensive digital twins and adopt collaborations to partner both inside and outside of the industry. </p>
+<img width="1300" height="1000" src="https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?fit=1300%2C1000" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?w=1300 1300w, https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?w=300 300w, https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?w=768 768w, https://www.edn.com/wp-content/uploads/Siemens_Semiconductor-Lifecycle-Management_original.png?w=1024 1024w" sizes="auto, (max-width: 1300px) 100vw, 1300px" /><p>The semiconductor industry must rely comprehensive digital twins and adopt collaborations to partner both inside and outside of the industry. </p>
 <p>The post <a href="https://www.edn.com/semiconductor-industry-strategy-2025-semiconductors-at-the-heart-of-software-defined-products/">Semiconductor industry strategy 2025: Semiconductors at the heart of software-defined products</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

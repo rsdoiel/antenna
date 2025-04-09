@@ -1,11 +1,35 @@
 ---
 title: retro computing
-updated: 2025-04-08 14:08:45
+updated: 2025-04-09 06:07:59
 ---
 
 # retro computing
 
-(date: 2025-04-08 14:08:45)
+(date: 2025-04-09 06:07:59)
+
+---
+
+## Plasma 6.3.4 Now Available
+
+date: 2025-04-08, from: Linux Magazine
+
+<p>Although not a major release, Plasma 6.3.4 does fix some bugs and offer a subtle change for the Plasma sidebar.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Plasma-6.3.4-Now-Available>
+
+---
+
+## Linux Kernel 6.15 First Release Candidate Now Available
+
+date: 2025-04-08, from: Linux Magazine
+
+<p>Linux Torvalds has announced that the release candidate for the final release of the Linux 6.15 series is now available.</p> 
+
+<br> 
+
+<http://www.linux-magazine.com/Online/News/Linux-Kernel-6.15-First-Release-Candidate-Now-Available>
 
 ---
 

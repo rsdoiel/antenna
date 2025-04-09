@@ -1,11 +1,119 @@
 ---
 title: going electric
-updated: 2025-04-08 14:08:46
+updated: 2025-04-09 06:07:59
 ---
 
 # going electric
 
-(date: 2025-04-08 14:08:46)
+(date: 2025-04-09 06:07:59)
+
+---
+
+## Emporia launches its ‘Pro’ Level 2 home EV charger that alleviates need for costly panel upgrades
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Emporia-charger.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Veteran energy management specialist Emporia Energy has launched its latest home EV charger called the “Pro,” complete with built-in load management and <a href="https://electrek.co/guides/ev-chargers/">charging speeds</a> 9x faster than a standard outlet.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="emporia-energy,ev-charger,ev-chargers" data-layer-viewtype="unknown" data-post-id="410291" href="https://electrek.co/2025/04/09/emporia-launches-pro-level-2-home-ev-charger-alleviates-costly-panel-upgrades/#more-410291" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/emporia-launches-pro-level-2-home-ev-charger-alleviates-costly-panel-upgrades/>
+
+---
+
+## Belfast’s Artemis Technologies Secures Major US Deal to Electrify Passenger Ferries
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Artemis-EF-12-Escape-copy.jpeg?quality=82&#038;strip=all&#038;w=1333" /></div><p>We recently had the chance to take an up-close look at the 100% electric EF-12 Escape. The passenger hydrofoil ferry is one of the many vessels the UK-based company designed, and we might be seeing more of them in the near future as the company expands into the US.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="408979" href="https://electrek.co/2025/04/09/belfasts-artemis-technologies-secures-major-us-deal-to-electrify-passenger-ferries/#more-408979" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/belfasts-artemis-technologies-secures-major-us-deal-to-electrify-passenger-ferries/>
+
+---
+
+## The Tesla Model Y Is Now $11,000 Cheaper In The U.S.
+
+date: 2025-04-09, from: Inside EVs News
+
+The Launch Series has been retired, making way for a much cheaper Model Y.  
+
+<br> 
+
+<https://insideevs.com/news/756065/tesla-model-y-juniper-cheaper-us/>
+
+---
+
+## The 2026 BMW iX Has More Range Than Any Tesla
+
+date: 2025-04-09, from: Inside EVs News
+
+The BMW i5 also gets a slight range boost. 
+
+<br> 
+
+<https://insideevs.com/news/756038/2026-bmw-ix-xdrive60-range-official/>
+
+---
+
+## The US wind industry’s 5-year outlook is now a total roller-coaster
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/06/pexels-photo-2673471.jpeg?quality=82&#038;strip=all&#038;w=1528" /></div><p>The US wind industry installed just 5.2 gigawatts (GW) in 2024 – the lowest level in a decade, according to Wood Mackenzie’s new US Wind Energy Monitor <a href="https://www.woodmac.com/industry/power-and-renewables/us-wind-energy-monitor/" target="_blank" rel="noreferrer noopener">report</a>. Installations are expected to rebound in 2025, but the real concern lies in US wind’s sharply downgraded 5-year outlook. As for the reason behind that bleak forecast, we’ll give you one guess as to why, and it starts with a T.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="donald-trump,egeb,energy-brief,solar,offshore-wind-power,wind-power" data-layer-viewtype="unknown" data-post-id="410455" href="https://electrek.co/2025/04/08/the-us-wind-industrys-5-year-outlook-is-now-a-total-roller-coaster/#more-410455" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/08/the-us-wind-industrys-5-year-outlook-is-now-a-total-roller-coaster/>
+
+---
+
+## BYD’s low-cost Seagull EV now starts at under $8,000 in China
+
+date: 2025-04-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/04/BYD-cheapest-electric-car.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>BYD’s cheapest EV in China just got even more affordable. After cutting prices this month, the <a href="https://electrek.co/guides/byd/">BYD</a> Seagull EV starts at just 56,800 yuan, or under $8,000.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="byd" data-layer-viewtype="unknown" data-post-id="410431" href="https://electrek.co/2025/04/08/byds-low-cost-seagull-ev-now-starts-under-8000-china/#more-410431" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/08/byds-low-cost-seagull-ev-now-starts-under-8000-china/>
+
+---
+
+## Tesla already has new Model Y inventory available today in the US – demand is terrible
+
+date: 2025-04-08, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-new-Model-Y-inventory-us-hero-1.jpeg?quality=82&#038;strip=all&#038;w=1600" /></div><p>Tesla has new Model Y inventory available today in the US, just days after opening orders for what is supposed to be its most popular model.</p>
+
+
+
+<p>This proves that demand is terrible and Tesla is trying to hide it.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-model-y" data-layer-viewtype="unknown" data-post-id="410423" href="https://electrek.co/2025/04/08/tesla-already-has-new-model-y-inventory-available-today-in-the-us-demand-is-terrible/#more-410423" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/08/tesla-already-has-new-model-y-inventory-available-today-in-the-us-demand-is-terrible/>
 
 ---
 

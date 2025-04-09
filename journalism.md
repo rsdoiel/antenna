@@ -1,11 +1,225 @@
 ---
 title: journalism
-updated: 2025-04-08 14:08:43
+updated: 2025-04-09 06:07:57
 ---
 
 # journalism
 
-(date: 2025-04-08 14:08:43)
+(date: 2025-04-09 06:07:57)
+
+---
+
+## Classifieds – April 9, 2025
+
+date: 2025-04-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Daily Trojan features Classified advertising in each day's edition.  Here you can read, search, and even print out each day's edition of the Classifieds.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/09/classifieds-april-9-2025/">Classifieds &#8211; April 9, 2025</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/09/classifieds-april-9-2025/>
+
+---
+
+## How, why and where does USC test its wastewater?
+
+date: 2025-04-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>USC currently tests wastewater for influenza, norovirus and coronavirus.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/09/how-why-and-where-does-usc-test-its-wastewater/">How, why and where does USC test its wastewater?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/09/how-why-and-where-does-usc-test-its-wastewater/>
+
+---
+
+## UCLA alumni create AI business tool Kona through Anderson accelerator program
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Whether it be to find a cooking recipe or help with schoolwork, most people use AI as a tool in their daily endeavors.
+But for UCLA alumni Sid Pandiya and Yen Tan, the technology instead provided an opportunity to create a remote working tool. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/09/ucla-alumni-create-ai-business-tool-kona-through-anderson-accelerator-program/>
+
+---
+
+## Syante hitchhikes to a contest-winning single
+
+date: 2025-04-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The master’s student and musician’s new song “A Little Sunshine” is out now.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/09/syante-hitchhikes-to-a-contest-winning-single/">Syante hitchhikes to a contest-winning single</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/09/syante-hitchhikes-to-a-contest-winning-single/>
+
+---
+
+## USG hears presentations on senators’ final projects
+
+date: 2025-04-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p> Senator Patrick Nguyen said his financial aid call wait time project will start in fall.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/09/usg-hears-presentations-on-senators-final-projects/">USG hears presentations on senators’ final projects</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/09/usg-hears-presentations-on-senators-final-projects/>
+
+---
+
+## Small Talk has enormous potential
+
+date: 2025-04-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The six-piece freshman band turned out to be one of Springfest’s newest stars.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/09/small-talk-has-enormous-potential/">Small Talk has enormous potential</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/09/small-talk-has-enormous-potential/>
+
+---
+
+## Alice Phoebe Lou charms the Lodge Room
+
+date: 2025-04-09, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The Cape Town musician played at the Lodge Room Sunday to hundreds of fans.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/09/alice-phoebe-lou-charms-the-lodge-room/">Alice Phoebe Lou charms the Lodge Room</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/09/alice-phoebe-lou-charms-the-lodge-room/>
+
+---
+
+## Richard Kahlenberg talks class-based affirmative action for colleges in new book
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Lawyer and author Richard Kahlenberg argued in favor of a class-based approach to college admissions in a Wednesday book talk at UCLA.
+The event, held at the UCLA School of Law, was hosted by UCLA&#8217;s chapters of Heterodox Academy and BridgeUSA, two nonprofit academic organizations that seek to bring more viewpoint diversity to colleges. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/richard-kahlenberg-talks-class-based-affirmative-action-for-colleges-in-new-book/>
+
+---
+
+## 2025 USAC election ballot features 32 candidates
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+The 2025 Undergraduate Students Association Council election ballot will feature the fewest candidates since 2022.
+Thirty-two candidates will appear on the ballot, which will be open May 9 to May 16. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/2025-usac-election-ballot-features-32-candidates/>
+
+---
+
+## From A to Zine: Printed Matter Society explores creative mediums, DIY art
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+At Printed Matter Society, paper holds memory.
+The club deals in collages, bookbinding, printed photography and, most prominently, zines. These handmade, noncommercial issues are curated from original or appropriated images and text to encapsulate the artist&#8217;s vision in booklet form. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/from-a-to-zine-printed-matter-society-explores-creative-mediums-diy-art/>
+
+---
+
+## Emily Davis pins her artistic statement in fashion through styling, accessories
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+Emily Davis is bringing fringe, fabric and fur to UCLA.
+Davis, a third-year business economics student, made her debut in the UCLA fashion scene as a stylist this past fall. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/emily-davis-pins-her-artistic-statement-in-fashion-through-styling-accessories/>
+
+---
+
+## Book preview: Spring literature line-up blooms with heartfelt stories, tell-all revelations
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+As spring awakens with its blooming flowers and gentle warmth, a fresh energy rustles through the pages of new literary releases.
+Book lovers will find inspiration in the season&#8217;s offerings, from stories of self-discovery to tales that mirror the world&#8217;s own renewal. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/book-preview-spring-literature-line-up-blooms-with-heartfelt-stories-tell-all-revelations/>
+
+---
+
+## The 9th Annual Youth Arts Showcase invited the community to explore their artistic side
+
+date: 2025-04-09, from: The Canyon News (COC Student Newspaper)
+
+<p>Communities are built on strong relationships that allow one another to seek&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/youth-arts-showcase/">The 9th Annual Youth Arts Showcase invited the community to explore their artistic side</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/youth-arts-showcase/>
+
+---
+
+## UAW Local 4811 protests against federal funding cuts for research, education
+
+date: 2025-04-09, from: The Daily Bruin (UCLA Student Newspaper)
+
+<em>This post was updated April 8 11:17 p.m.</em>
+Hundreds of protesters halted traffic for over 10 minutes Tuesday at the intersection of Wilshire Boulevard and Veteran Avenue while rallying against the Trump administration’s cuts to health care and science funding. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/uaw-local-4811-protests-against-federal-funding-cuts-for-research-education/>
+
+---
+
+## Music preview: Anticipated albums from acclaimed artists usher in blooming music landscape
+
+date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+As leaves return to the trees and bees pollinate new flowers, new sounds are also on the horizon.
+Several exciting albums are due to be released in the next few months from some of the music industry’s biggest stars and acclaimed creators. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/music-preview-anticipated-albums-from-acclaimed-artists-usher-in-blooming-music-landscape/>
+
+---
+
+## Thrifting in LA: Around UCLA
+
+date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
+
+ 
+
+<br> 
+
+<https://dailybruin.com/2025/04/08/thrifting-in-la-around-ucla/>
 
 ---
 
@@ -52,6 +266,7 @@ The San Fernando Valley and Los Angeles area have some stellar vinyl record stor
 
 date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
 
+<em>This post was updated April 8 11:20 p.m.</em>
 A federal judge temporarily blocked the Trump administration March 31 from ending temporary protected status for Venezuelan migrants, in response to a lawsuit co-filed by the UCLA Center for Immigration Law and Policy. 
 
 <br> 
@@ -64,7 +279,8 @@ A federal judge temporarily blocked the Trump administration March 31 from endin
 
 date: 2025-04-08, from: The Daily Bruin (UCLA Student Newspaper)
 
-The Los Angeles City Clerk released results Friday for the North Westwood Neighborhood Council&#8217;s biennial election.
+<em>This post was updated April 8 11:21 p.m.</em>
+The Los Angeles City Clerk released results Friday for the North Westwood Neighborhood Council’s biennial election.
 Fourteen UCLA students and faculty members ran for the 19 seats up for election. 
 
 <br> 

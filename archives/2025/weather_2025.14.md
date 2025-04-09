@@ -1,23 +1,152 @@
 ---
 title: weather
-updated: 2025-04-08 14:08:42
+updated: 2025-04-09 06:07:56
 ---
 
 # weather
 
-(date: 2025-04-08 14:08:42)
+(date: 2025-04-09 06:07:56)
 
 ---
 
 ## The Eastern North Pacific hurricane season runs from May 15th through November 30th.
 
-date: 2025-04-08, from: Eastern Pacific Basin GIS Data
+date: 2025-04-09, from: Eastern Pacific Basin GIS Data
 
 The Eastern North Pacific hurricane season runs from May 15th through November 30th. 
 
 <br> 
 
 <https://www.nhc.noaa.gov/>
+
+---
+
+## SPC - No watches are valid as of Wed Apr  9 12:39:01 UTC 2025
+
+date: 2025-04-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Apr  9 12:39:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/watch/>
+
+---
+
+## SPC - No MDs are in effect as of Wed Apr  9 12:39:01 UTC 2025
+
+date: 2025-04-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No Mesoscale Discussions are in effect as of Wed Apr  9 12:39:01 UTC 2025. 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/md/>
+
+---
+
+## SPC Apr 9, 2025 1300 UTC Day 1 Convective Outlook
+
+date: 2025-04-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0734 AM CDT Wed Apr 09 2025
+
+Valid 091300Z - 101200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Thunderstorms are possible from the northern Plains into the Upper
+Midwest as well as across portions of the Midwest and central
+Plains. Severe storms are not expected.
+
+...Synopsis and Discussion...
+Shortwave trough currently moving through the northern Plains is
+forecast to continue southeastward throughout the day, reaching the
+Mid MS Valley by early tomorrow. Some modest amplification of this
+shortwave is expected as a jet streak progresses through it base. An
+attendant surface low, currently over southeast NE, will move
+eastward just ahead of its parent shortwave, reaching the Mid MS
+Valley tonight and the middle OH Valley by early tomorrow morning.
+An associated cold front will push southeastward through MO, KS and
+OK.
+
+Limited moisture return will keep buoyancy muted ahead of the front,
+keeping the potential for surface-based thunderstorm development
+along the front low. Cooling mid-level temperatures and moistening
+low/mid-levels will likely result in isolated elevated thunderstorms
+across IL during the early evening. Persistent warm-air advection
+along the front should allow for isolated thunderstorms to continue
+throughout the evening and overnight across central/southern IN, KY,
+and western/middle TN. An isolated instance or two of small hail is
+possible but any severe threat should be tempered by limited
+buoyancy. 
+
+Farther west, a separate, lower amplitude shortwave trough is
+expected to move eastward from the northern Rockies into the
+northern/central Plains. Large-scale ascent attendant to this
+shortwave will spread into the northern and central Plains near peak
+heating. Modest airmass destabilization is anticipated from the
+Black Hills across NE where deep mixing is likely, as well as
+farther north from eastern MT/western ND into MN where cold
+mid-level temperatures are expected. Isolated thunderstorms are
+possible within these corridors. Overall severe potential will be
+very low, but the high-based character of these storms could result
+in a strong downdraft or two.
+
+..Mosier/Kerr.. 04/09/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
+
+---
+
+## SPC Apr 9, 2025 Day 4-8 Severe Weather Outlook
+
+date: 2025-04-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 4-8 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+0337 AM CDT Wed Apr 09 2025
+
+Valid 121200Z - 171200Z
+
+...DISCUSSION...
+From Day 5/Sunday through Day 6/Monday, a robust midlevel trough
+will advance eastward from the northern Plains to the Great Lakes.
+On Day 5/Sunday, a related broad/elongated surface low will move
+eastward across the northern/central Plains, while a dryline
+develops farther south over the southern Plains. Isolated strong
+storms may be possible ahead of the surface low in the Upper MS
+Valley, though poor boundary-layer moisture will tend to limit the
+severe risk. Farther south along the dryline, a strong EML and
+related capping should inhibit thunderstorm development, despite the
+development of larger buoyancy here. 
+
+On Day 6/Monday, a cold front will move across the eastern half of
+the CONUS, in tandem with the eastward-moving trough. Strong
+midlevel flow and a weakly unstable air mass along the front may
+support a marginal severe-storm risk from the OH Valley
+southwestward to the Ozarks. However, considerable differences among
+the medium-range guidance regarding the quality of boundary-layer
+moisture ahead of the front casts uncertainty on the overall risk.
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 
@@ -79,30 +208,6 @@ weather highlights introduced at this time.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy2.html>
-
----
-
-## SPC - No watches are valid as of Tue Apr  8 20:00:02 UTC 2025
-
-date: 2025-04-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No watches are valid as of Tue Apr  8 20:00:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/watch/>
-
----
-
-## SPC - No MDs are in effect as of Tue Apr  8 20:00:02 UTC 2025
-
-date: 2025-04-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-No Mesoscale Discussions are in effect as of Tue Apr  8 20:00:02 UTC 2025. 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/md/>
 
 ---
 
@@ -365,105 +470,6 @@ stronger/gusty thunderstorm winds may occur.
 <br> 
 
 <https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
-
----
-
-## SPC Apr 8, 2025 1300 UTC Day 1 Convective Outlook
-
-date: 2025-04-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0730 AM CDT Tue Apr 08 2025
-
-Valid 081300Z - 091200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-Isolated strong storms may occur over far southern Florida and the
-Keys today into Wednesday morning, and from southeast Montana to the
-Black Hills.
-
-...Synopsis and Discussion...
-A slow-moving cold front continues to push southward across central
-FL. This front is expected to continue southward throughout the day,
-progressing through South FL and offshore by this evening. Isolated
-showers and thunderstorms are anticipated in the vicinity of this
-boundary, but poor lapse rates and weak shear should mitigate
-overall storm strength. 
-
-A positively tilted shortwave trough is expected to track eastward
-across the Gulf today, reaching the FL Peninsula by early Wednesday
-morning. A post-frontal airmass will exist across the peninsula
-whenever this shortwave arrives, which will keep thunderstorm
-chances over land very low.
-
-Farther north and west, a shortwave trough is forecast to move from
-the northern Rockies into the southern Canadian Prairies, while 
-moderate mid-level flow expands eastward from the Pacific Northwest
-into the northern High Plains. Some high-based convection is
-possible during the afternoon and evening from southeast MT/northern
-WY into the Black Hills as modest large-scale ascent occurs over
-regions that have destabilized amid boundary-layer heating. Weak
-buoyancy should temper overall updraft strength, but a few gusty
-downdrafts are possible.
-
-..Mosier/Kerr.. 04/08/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1300.html>
-
----
-
-## SPC Apr 8, 2025 Day 4-8 Severe Weather Outlook
-
-date: 2025-04-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/exper/day4-8/"><img src="https://www.spc.noaa.gov/products/exper/day4-8/day48prob.gif" border="1" alt="Day 4-8 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 4-8 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-0337 AM CDT Tue Apr 08 2025
-
-Valid 111200Z - 161200Z
-
-...DISCUSSION...
-On Day 4/Friday, an amplified large-scale trough will move slowly
-eastward across the Appalachians. Ahead of a related surface low in
-the lee of the Appalachians, weakly modified boundary-layer moisture
-will be in place across the coastal Mid-Atlantic states. While
-instability will be marginal, owing to the limited moisture and poor
-lapse rates, strong south-southwesterly midlevel flow may support a
-couple strong storms during the afternoon. The overall severe threat
-appears too marginal for severe probabilities at this time. 
-
-By Day 6/Sunday, a midlevel trough will advance eastward across the
-northern/central Plains, while an elongated downstream surface
-trough (with embedded surface lows) promotes partially modified Gulf
-moisture return across the southern/central Plains and MS Valley.
-Despite multiple surface boundaries across the Plains, current
-indications are that a strong EML and related capping atop the
-limited boundary-layer moisture should inhibit surface-based
-thunderstorm potential.
-
-Thereafter, medium-range guidance varies considerably regarding the
-timing and evolution of the aforementioned midlevel trough and
-associated warm sector -- limiting confidence in severe-storm
-potential for Days 7-8/Monday-Tuesday.
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/exper/day4-8/">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/exper/day4-8/>
 
 ---
 

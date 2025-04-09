@@ -1,11 +1,146 @@
 ---
 title: socal north
-updated: 2025-04-08 14:08:39
+updated: 2025-04-09 06:07:54
 ---
 
 # socal north
 
-(date: 2025-04-08 14:08:39)
+(date: 2025-04-09 06:07:54)
+
+---
+
+## Springtime heat wave could bring record breaking temps to the valley
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+Temperatures could reach the mid 90s in the valley. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/mini-heatwave-arrives-wednesday>
+
+---
+
+## 'Technical issue' causes months-long delay for LA County transportation subsidy
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+Two thousand people in L.A. County are still waiting for the first tranche of money, $900, they’ve been expecting since November. 
+
+<br> 
+
+<https://laist.com/news/transportation/technical-issue-causes-delay-for-la-county-transportation-subsidy>
+
+---
+
+## Free new or vintage prom outfits are available to students affected by the LA fires
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+Thousands of donated dresses, suits, shoes, jewelry and accessories are available for students to pick from. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-activities/free-prom-outfits-students-affected-by-la-wildfires>
+
+---
+
+## LA's neighborhood council elections are seeing their lowest turnout in years
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+The councils were meant to help more residents have a voice at L.A. City Hall, but voter participation has been declining for a decade. 
+
+<br> 
+
+<https://laist.com/news/politics/neighborhood-council-elections-low-turnout>
+
+---
+
+## You can relax: LA County taxpayers have until October to file most taxes
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+The IRS extended the county’s filing deadline after the firestorm in January. 
+
+<br> 
+
+<https://laist.com/news/los-angeles-tax-day-deadline-april-october>
+
+---
+
+## At Cheech Museum, a long overdue celebration for 'irrepressible women'
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+Now on view at The Cheech in Riverside, a retrospective features dozens of pieces from the pioneering Chicana artist Amalia Mesa-Bains. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/the-cheech-riverside-artist-amalia-mesa-bains-retrospective>
+
+---
+
+## Rebuild or leave? In Altadena’s Black community, a family grapples with their future after the Eaton fire
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+A recent UCLA report found that Black Altadena residents were disproportionately affected by the Eaton Fire. What will one family decide to do next? 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/rebuild-leave-altadena-black-community-eaton-fire>
+
+---
+
+## 2 prosecutors sue LA County district attorney; claim they were demoted over Menendez case
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+In separate lawsuits filed Monday in Superior Court, deputy district attorneys Nancy Theberge and Brock Lunsford accuse their boss of retaliation, harassment and defamation. 
+
+<br> 
+
+<https://laist.com/news/2-prosecutors-sue-la-county-district-attorney-claim-they-were-demoted-over-menendez-case>
+
+---
+
+## OC supervisors battle over Andrew Do plea deal and whether to call for tougher prison sentence
+
+date: 2025-04-08, updated: 2025-04-08, from: The LAist
+
+Some on the board contend that the disgraced supervisor's deal equates to “special treatment” compared with other major corruption cases and doesn’t reflect “the severity and extent" of Do’s behavior. 
+
+<br> 
+
+<https://laist.com/news/politics/oc-supervisors-andrew-do-plea-deal-tougher-prison-sentence-recommendation>
+
+---
+
+## LAUSD adopts land acknowledgment. What comes next?
+
+date: 2025-04-08, updated: 2025-04-09, from: The LAist
+
+The Los Angeles Unified School District Board voted Tuesday to amplify the role of the region’s Indigenous communities. 
+
+<br> 
+
+<https://laist.com/news/education/lausd-land-acknowledgment-gabrieleno-fernandeno-tataviam-peoples>
+
+---
+
+## Motorcyclist dies after crash with car making left turn at Studebaker and Atherton, LBPD says
+
+date: 2025-04-08, from: Longbeach Post
+
+<figure><img width="1024" height="683" src="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96.jpg 1800w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-300x200.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1024x683.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-768x512.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-162x108.jpg 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1536x1025.jpg 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1200x801.jpg 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-1568x1046.jpg 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2023/04/04124012/1030-Body-96-400x267.jpg 400w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>The wreck left the motorcyclist in critical condition, and he died a year later, according to police.</p>
+<p>The post <a href="https://lbpost.com/news/motorcyclist-dies-after-crash-with-car-making-left-turn-at-studebaker-and-atherton-lbpd-says">Motorcyclist dies after crash with car making left turn at Studebaker and Atherton, LBPD says</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/motorcyclist-dies-after-crash-with-car-making-left-turn-at-studebaker-and-atherton-lbpd-says>
 
 ---
 
@@ -25,7 +160,7 @@ After L.A. County decided to withdraw its funding last week, Council President M
 
 date: 2025-04-08, from: Longbeach Post
 
-<figure><img width="1024" height="503" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-768x378.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-400x197.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="503" src="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-1024x503.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-300x148.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-768x378.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-192x94.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR-400x197.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2024/07/30110549/29jul24-camps-2-273607-z6icthkk-833901-4RZ1CuDR.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>"Taxpayers deserve answers for where and how their hard-earned money has been spent," U.S. Attorney Bill Essayli said in a statement.</p>
 <p>The post <a href="https://lbpost.com/news/feds-launch-task-force-to-look-for-fraud-corruption-in-use-of-homelessness-funds">Feds launch task force to look for fraud, corruption in use of homelessness funds</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  
@@ -52,7 +187,7 @@ For now, the nuclear facility will use AI to comply with regulations. But some l
 
 date: 2025-04-08, from: Longbeach Post
 
-<figure><img width="1024" height="796" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-1024x796.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-1024x796.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-300x233.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-768x597.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-139x108.jpg 139w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-400x311.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="796" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-1024x796.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-1024x796.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-300x233.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-768x597.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-139x108.jpg 139w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll-400x311.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/08110459/12sep23-restaurant-8-160105-yvmrcxrd-674681-9Bky72ll.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>Business groups and downtown associations say drinking later could revitalize nightlife and ease the 2 a.m. rush when bars shut down.</p>
 <p>The post <a href="https://lbpost.com/news/politics/who-says-its-last-call-two-lawmakers-push-drinking-until-4-a-m-at-california-bars">Who says it’s last call? Two lawmakers push drinking until 4 a.m. at California bars</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

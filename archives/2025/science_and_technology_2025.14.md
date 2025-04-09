@@ -1,11 +1,179 @@
 ---
 title: science and technology
-updated: 2025-04-08 14:08:40
+updated: 2025-04-09 06:07:55
 ---
 
 # science and technology
 
-(date: 2025-04-08 14:08:40)
+(date: 2025-04-09 06:07:55)
+
+---
+
+## Google's got a hot cloud security startup, a new unified platform — and its eye on Microsoft's $20B+ security biz
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Chocolate Factory doubles down on enterprise security at Cloud Next</h4> <p>Google will today reveal a new unified security platform that analysts think can help it battle Microsoft for a bigger chunk of the enterprise infosec market.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/google_enterprise_security_ambitions/>
+
+---
+
+## FreeDOS 1.4: Still DOS, still FOSS, more modern than ever
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>The 1990s called – they&#39;re impressed</h4> <p>The FreeDOS Project has released version 1.4 of its fully open source DOS-compatible OS – but you&#39;ll need a BIOS for bare metal.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/freedos_14/>
+
+---
+
+## Microsoft resets 'days since last Windows 11 problem' counter to 0
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>SenseShield the latest company to fall foul of 24H2</h4> <p>Microsoft has thrown up a Windows 11 24H2 compatibility hold for devices running SenseShield Technology&#39;s <code>sprotect.sys</code> driver.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/microsoft_resets_the_days_since/>
+
+---
+
+## UK's answer to DARPA sprouts new ideas, like programmable plants
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Updated programs suggest ARIA will keep singing for another year</h4> <p>The UK&#39;s Advanced Research and Invention Agency (ARIA) has appointed a second tranche of program leaders and announced new program areas, suggesting confidence in its long-term funding.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/aria_new_programs/>
+
+---
+
+## Microsoft lists seven habits of highly effective Windows 11 users
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Strangely no eighth tip to use something else</h4> <p>Microsoft has published seven tips for getting the most out of Windows 11, and the pitches for the operating system – which has failed to win hearts and minds of users – are not very compelling.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/microsoft_windows_11_tips/>
+
+---
+
+## Laser-cooled chips: Maybe coming soon-ish to a datacenter near you
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Public-private partnership zaps photons at hotspots, hopes to ship by 2027</h4> <p>A startup backed by Sandia National Laboratories thinks it&#39;s found a cool new way to keep the world&#39;s supercomputers and datacenters cool enough to run efficiently: Zap ‘em with lasers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/lasercooled_chips_datacenter/>
+
+---
+
+## Copyright-ignoring AI scraper bots laugh at robots.txt so the IETF is trying to improve it
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Recently formed AI Preferences Working Group has August deadline to develop ideas on how to tell crawlers to go away, or come for a feast</h4> <p>The Internet Engineering Task Force has chartered a group it hopes will create a standard that lets content creators tell AI developers whether it’s OK to use their work.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/ietf_ai_preferences_working_group/>
+
+---
+
+## DOGE dilettantes 'didn't test' Social Security fraud detection tool at appropriate scale
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Feds claim creaky COBOL, user spike is real reason key portal now flaky</h4> <p>The United States Social Security Administration&#39;s internet portal has frequently gone offline in recent weeks, and presented inaccurate or incomplete information to users, perhaps because of changes steered by Elon Musk&#39;s cost-trimming DOGE unit.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/social_security_website/>
+
+---
+
+## Pharmacist accused of using webcams to spy on women in intimate moments at work, home
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Lawsuit claims sick cyber-voyeurism went undetected for years, using hundreds of PCs, due to lax infosec</h4> <p>A now-former pharmacist at the University of Maryland Medical Center (UMMC) has been accused of compromising the US healthcare organization&#39;s IT systems to ogle female clinicians using webcams at their workplace and at their homes.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/pharmacist_accused_of_cyber_voyeurism/>
+
+---
+
+## AI entrepreneur sent avatar to argue in court – and the judge shut it down fast
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>We hear from court-scolded Jerome Dewald, who insists lawyer-bots have a future</h4> <p><strong>Interview</strong>  The founder of an AI startup who attempted to use an artificially generated avatar to argue his case in court has been scolded by a judge for the stunt.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/court_scolds_ai_entrepreneur_avatar_testify/>
+
+---
+
+## Bad luck, Windows 10 users. No fix yet for ransomware-exploited bug
+
+date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>A novel way to encourage upgrades? Microsoft would never stoop so low</h4> <p><strong>Patch Tuesday</strong>  Patch Tuesday has arrived, and Microsoft has revealed one flaw in its products under active exploitation and 11 critical issues in its code to fix.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/patch_tuesday_microsoft/>
+
+---
+
+## Sols 4505-4506: Up, up and onto the Devil’s Gate
+
+date: 2025-04-08, from: NASA breaking news
+
+Written by Catherine O’Connell-Cooper, Planetary Geologist at University of New Brunswick Earth planning date: Monday, April 7, 2025 Over the weekend, we completed our drive up the steep side of a canyon, up onto “Devil’s Gate,” a small butte which forms part of the ridge along the top of the canyon and now we can see down into the next […] 
+
+<br> 
+
+<https://science.nasa.gov/blog/sols-4505-4506-up-up-and-onto-the-devils-gate/>
+
+---
+
+## TSMC blew whistle on suspected verboten exports to Huawei – that may cost it $1B+
+
+date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>What did we learn today, hm?</h4> <p>TSMC could end up paying $1 billion or more to settle a US investigation into whether the Taiwanese outfit busted sanctions, inadvertently or not, by indirectly manufacturing AI accelerators for Huawei.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/tsmc_blew_whistle_on_chinese/>
+
+---
+
+## Canada OKs construction of first licensed teeny atomic reactor
+
+date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+
+<h4>Built by 2028? Maybe. Powering homes? That’s another slip of paper entirely</h4> <p>Canadian nuclear regulators have approved an Ontario company&#39;s request to build a single small modular reactor (SMR) – the first such license issued in the country.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/08/canada_smr_construction_approved/>
 
 ---
 
@@ -59,9 +227,9 @@ Deep Space Station 43 (DSS-43), a 230-foot-wide (70-meter-wide) radio antenna at
 
 ## Boeing 787 radio software safety fix didn't work, says Qatar
 
-date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
 
-<h4>&#39;Loss of safe separation between aircraft, collision, or runway incursion&#39; is not what we want to hear</h4> <p>Boeing issued a software patch for the VHF radio systems used on its 787 aircraft, and the update turned out to be ineffective, Qatar Airways has complained.…</p> 
+<h4>&#39;Loss of safe separation between aircraft, collision, or runway incursion&#39; is not what we want to hear</h4> <p>Boeing issued a software safety patch for the VHF radio systems used on its 787 aircraft, and the update turned out to be ineffective, Qatar Airways has complained.…</p> 
 
 <br> 
 
@@ -201,11 +369,11 @@ date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
 
 ---
 
-## Microsoft celebrates 50 years with, sigh, AI
+## 'Copilot will remember key details about you' for a 'catered to you' experience
 
-date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
 
-<h4>Windows maker marks milestone with Clippy-esque additions that resemble tools from OpenAI, Google</h4> <p>Microsoft used its 50th birthday to announce a slew of new Copilot features, many of which will be eerily familiar to anyone who&#39;s used rival AI platforms.…</p> 
+<h4>Microsoft celebrates 50 years with, sigh, AI</h4> <p>Microsoft used its 50th birthday to announce a slew of new Copilot features, many of which will be eerily familiar to anyone who&#39;s used rival AI platforms.…</p> 
 
 <br> 
 
@@ -251,7 +419,7 @@ Following a signing ceremony Tuesday in Bangladesh’s capital city of Dhaka, NA
 
 ## UALink debuts its first AI interconnect spec – usable in just 18 short months
 
-date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
+date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
 
 <h4>No-Nvidia networking club is banking on you running different GPUs on one network</h4> <p>The Ultra Accelerator Link Consortium has delivered its first GPU interconnect specification: UALink 200G 1.0.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
 
@@ -395,7 +563,7 @@ date: 2025-04-07, updated: 2025-04-07, from: The Register (UK I.T. News)
 
 ## Trump tariffs to make prices great – a gain
 
-date: 2025-04-07, updated: 2025-04-08, from: The Register (UK I.T. News)
+date: 2025-04-07, updated: 2025-04-09, from: The Register (UK I.T. News)
 
 <h4>As costs for US shoppers set to rise, markets slump, orange is new red, we speak to economic experts</h4> <p><strong>World War Fee</strong>  President Donald Trump last week announced a sweeping new round of tariffs, setting the stage for price hikes across consumer tech, pro gear, and almost anything else that crosses a border.…</p> 
 

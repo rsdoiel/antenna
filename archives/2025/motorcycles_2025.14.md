@@ -1,11 +1,83 @@
 ---
 title: motorcycles
-updated: 2025-04-08 14:08:45
+updated: 2025-04-09 06:07:59
 ---
 
 # motorcycles
 
-(date: 2025-04-08 14:08:45)
+(date: 2025-04-09 06:07:59)
+
+---
+
+## Is the Segway Xyber a Motorcycle or E-Bike? I Can't Tell
+
+date: 2025-04-09, from: Ride Apart, Electric Motorcycle News
+
+Is this another case of the "Blue or Black" dress? 
+
+<br> 
+
+<https://www.rideapart.com/news/755989/segway-xyber-e-bike-ev-motorcycle-thing/>
+
+---
+
+## Specialized Recalls E-Bikes That Want To Rip Your Pants Off
+
+date: 2025-04-09, from: Ride Apart, Electric Motorcycle News
+
+I'm all for having my pants ripped off but this is not good. 
+
+<br> 
+
+<https://www.rideapart.com/news/756005/specialized-ebike-recall-chain-guard-clothes-rip/>
+
+---
+
+## Polaris Recalls Some RZR Pro R and RZR Pro R 4s Over Roll Cage Hazard
+
+date: 2025-04-09, from: Ride Apart, Electric Motorcycle News
+
+One of the last things you want to go wrong in an off-road vehicle. 
+
+<br> 
+
+<https://www.rideapart.com/news/755892/polaris-recall-rzr-pro-r-roll-cage/>
+
+---
+
+## Joey Logano To Meet With President Donald Trump In Celebration Of His 2024 NASCAR Championship
+
+date: 2025-04-09, from: Kickin the Tires blog
+
+By Jerry Jordan, Editor Joey Logano, the 2024 NASCAR Cup Series Champion, along with other racing champions, will meet with President Donald Trump on Wednesday at the South Portico for&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/joey-logano-to-meet-with-president-donald-trump-in-celebration-of-his-2024-nascar-championship/>
+
+---
+
+## 1,000th Top Fuel Race Headlines NHRA 4-Wide Nationals at zMAX Dragway April 25-27
+
+date: 2025-04-09, from: Kickin the Tires blog
+
+CONCORD, N.C. (April 7, 2025) – One of the most electrifying spectacles in motorsports returns to zMAX Dragway this month with more thunder than ever as the 15th annual NHRA&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/1000th-top-fuel-race-headlines-nhra-4-wide-nationals-at-zmax-dragway-april-25-27/>
+
+---
+
+## Multi-Platinum Smash Mouth to Headline Charlotte NASCAR Weekend on May 24
+
+date: 2025-04-09, from: Kickin the Tires blog
+
+CONCORD, N.C. (April 8, 2025) – Get ready to be an “All Star” as GRAMMY-nominated global phenom, Smash Mouth headlines the BetMGM Speed Street stage Saturday, May 24, as part&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nascar/multi-platinum-smash-mouth-to-headline-charlotte-nascar-weekend-on-may-24/>
 
 ---
 

@@ -1,11 +1,365 @@
 ---
 title: pacific
-updated: 2025-04-08 14:08:39
+updated: 2025-04-09 06:07:55
 ---
 
 # pacific
 
-(date: 2025-04-08 14:08:39)
+(date: 2025-04-09 06:07:55)
+
+---
+
+## Governor: ‘Get the MMR vaccine’
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Gov. Josh Green on Tuesday urged the public to get vaccinated against measles after the discovery of a case Monday in a child under 5 on Oahu.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/hawaii-news/governor-get-the-mmr-vaccine/>
+
+---
+
+## Mayor touts early success; Alameda gives State of the County Address, claims ‘best start ever’
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>&#8220;I got to tell you, best start ever. You heard it. Best start ever.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/hawaii-news/mayor-touts-early-success-alameda-gives-state-of-the-county-address-claims-best-start-ever/>
+
+---
+
+## Wall Street slides again as US forges ahead with 104% tariffs on China
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON/BEIJING &#8212; The United States said on Tuesday that 104% duties on imports from China will take effect shortly after midnight, even as the Trump administration moved to quickly start talks with other trading partners targeted by President Donald Trump&#8217;s sweeping tariff plan. U.S. stocks dropped on Tuesday for a fourth straight trading day since Trump&#8217;s tariffs announcement last week, with the S&#038;P 500 closing below 5,000 for the first time in almost a year. The index is now 18.9% below its most recent high on February 19, close to the 20% decline that defines a bear market.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/wall-street-slides-again-as-us-forges-ahead-with-104-tariffs-on-china/>
+
+---
+
+## Musk’s DOGE using AI to snoop on U.S. federal workers, sources say
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Trump administration officials have told some U.S. government employees that Elon Musk&#8217;s DOGE team of technologists is using artificial intelligence to surveil at least one federal agency&#8217;s communications for hostility to President Donald Trump and his agenda, said two people with knowledge of the matter.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/musks-doge-using-ai-to-snoop-on-u-s-federal-workers-sources-say/>
+
+---
+
+## Guterres, at UN, denounces Israel’s Gaza aid blockade
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>GENEVA &#8212; United Nations Secretary-General Ant&#0243;nio Guterres on Tuesday criticized Israel&#8217;s renewed blockade of aid to the Gaza Strip as a violation of its obligations under international law and said it had opened &#8220;the floodgates of horror.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/guterres-at-un-denounces-israels-gaza-aid-blockade/>
+
+---
+
+## Dominican Republican nightclub roof collapse kills at least 66, including governor and ex-MLB players
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>SANTO DOMINGO &#8212; A catastrophic roof collapse at a nightclub in the Dominican Republic&#8217;s capital left at least 66 people dead, including a popular singer, a provincial governor, and former Major League Baseball pitcher Octavio Dotel, authorities said on Tuesday.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/dominican-republican-nightclub-roof-collapse-kills-at-least-66-including-governor-and-ex-mlb-players/>
+
+---
+
+## Trump administration opens more public land to drilling and mining
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>The Trump administration has opened thousands of acres of land in Nevada and New Mexico to oil and gas drilling, geothermal development and hard-rock mining, reversing protections that President Joe Biden enacted during his final weeks in office.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/trump-administration-opens-more-public-land-to-drilling-and-mining/>
+
+---
+
+## News in brief for April 9
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Measles cases in Texas rise to 505, state health department says</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/news-in-brief-for-april-9-2/>
+
+---
+
+## US company resurrects the extinct dire wolf, or some version of it
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The dire wolf was one of the most formidable predators in the Americas during the last Ice Age, possessing a body more stout and a skull more robust than those of modern wolves. The species went extinct along with many others as the Ice Age ended.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/us-company-resurrects-the-extinct-dire-wolf-or-some-version-of-it/>
+
+---
+
+## Supreme Court pauses ruling requiring rehiring of 16,000 probationary workers
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The Supreme Court on Tuesday blocked a ruling from a federal judge in California that had ordered the Trump administration to rehire thousands of fired federal workers who had been on probationary status.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/supreme-court-pauses-ruling-requiring-rehiring-of-16000-probationary-workers/>
+
+---
+
+## Trump’s NASA pick wants to prioritize Mars, setting stage for tense Senate hearing
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump&#8217;s pick to lead NASA will tell senators today that the agency will prioritize an astronaut mission to Mars, while four astronauts in the agency&#8217;s moon program are set to make a rare appearance at the hearing, sources said.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/trumps-nasa-pick-wants-to-prioritize-mars-setting-stage-for-tense-senate-hearing/>
+
+---
+
+## Chinese nationals captured fighting for Russia in Ukraine, Zelenskyy says
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>KYIV &#8212; President Volodymyr Zelenskyy said on Tuesday that Ukrainian forces had captured two Chinese men fighting for Russia in eastern Ukraine, potentially threatening a fragile peace effort in the three-year-old war. Beijing is a close diplomatic ally of Moscow but is not publicly known to have directly aided in the Kremlin&#8217;s full-scale invasion, which U.S. President Donald Trump is seeking to swiftly end.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/chinese-nationals-captured-fighting-for-russia-in-ukraine-zelenskyy-says/>
+
+---
+
+## IRS agrees to share migrants’ tax information with ICE
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; The IRS has agreed to help homeland security officials find immigrants they are trying to deport, according to court records, committing to sharing information in what would be a fundamental change in how the tax collector uses its tightly regulated records.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/irs-agrees-to-share-migrants-tax-information-with-ice/>
+
+---
+
+## Man pleads guilty to trying to assassinate Justice Kavanaugh
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>A California man pleaded guilty Tuesday to a charge that he tried to assassinate Supreme Court Justice Brett Kavanaugh in June 2022, when he was arrested near the justice&#8217;s home in Maryland with a pistol, a knife and other weapons.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/man-pleads-guilty-to-trying-to-assassinate-justice-kavanaugh/>
+
+---
+
+## Some US consumers stockpile goods ahead of Trump’s new tariffs
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>SECAUCUS, New Jersey &#8212; Pushing a shopping cart down the aisle of a Walmart Supercenter, Thomas Jennings, 53, loaded up on juices, condiments and whatever he could think of.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/some-us-consumers-stockpile-goods-ahead-of-trumps-new-tariffs/>
+
+---
+
+## Hawaiian Word of the Week: ʻIʻini
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p><span aria-label="Iini">&#699;I&#699;ini</span>&#8212;Desire, affirmations, to wish for.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/hawaiian-word-of-the-week-iini/">Hawaiian Word of the Week: ʻIʻini</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/hawaiian-word-of-the-week-iini/>
+
+---
+
+## Wyllie earns Big West Field Athlete of the Week
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p><abbr>UH</abbr> Mānoa Tara Wyllie earned the Big West honor after posting a conference-leading mark in the triple jump at the Stanford Invitational.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/wyllie-bw-field-athlete-week/">Wyllie earns Big West Field Athlete of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/wyllie-bw-field-athlete-week/>
+
+---
+
+## UH Hilo softball senior honored as PacWest Conference Co-Pitcher of the Week
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>Chloe Sales tossed 12 scoreless innings in two complete-game shutouts with a no-hitter against Vanguard.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/senior-honored-pw-co-pitcher-of-the-week/"><abbr>UH</abbr> Hilo softball senior honored as PacWest Conference Co-Pitcher of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/senior-honored-pw-co-pitcher-of-the-week/>
+
+---
+
+## UH Hilo Rabe earns PacWest Pitcher of the Week
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>Madison Rabe allowed zero runs in nine total innings of work, including a seven-inning no-hit shutout on eight strikeouts.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/rabe-earns-pacwest-pitcher/"><abbr>UH</abbr> Hilo Rabe earns PacWest Pitcher of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/rabe-earns-pacwest-pitcher/>
+
+---
+
+## UH softball’s Martinez earns Big West Field Player of the Week
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>Izabella Martinez led the Rainbow Wahine with a .556 batting average against <abbr>UC</abbr> Riverside.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/martinez-earns-bw-field-player/"><abbr>UH</abbr> softball’s Martinez earns Big West Field Player of the Week</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/martinez-earns-bw-field-player/>
+
+---
+
+## Molokaʻi students receive no-cost dental services at school
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>About 110 students received free dental services through the <span aria-label="Hawaii">Hawai&#699;i</span> Keiki: Healthy &#38; Ready to Learn Program.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/molokai-dental-sealant-events/">Molokaʻi students receive no-cost dental services at school</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/molokai-dental-sealant-events/>
+
+---
+
+## Fiji leader inspires students, faculty at UH Mānoa
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>Fiji’s Deputy Prime Minister, Honorable Professor Biman Prasad held an open conversation at <abbr>UH</abbr> M&#257;noa about the future of the Pacific.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/fiji-leader-inspires-students-faculty/">Fiji leader inspires students, faculty at <abbr>UH</abbr> Mānoa</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/fiji-leader-inspires-students-faculty/>
+
+---
+
+## UH Hilo prof shines light on hidden toll of first responder life
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>Psychology Professor Chris Frueh shared his research about firefighting risks linked to chronic stress and injuries with <span aria-label="Hawaii">Hawai&#699;i</span> Island’s first responders.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/chris-frueh-operator-syndrome/"><abbr>UH</abbr> Hilo prof shines light on hidden toll of first responder life</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/chris-frueh-operator-syndrome/>
+
+---
+
+## Hawaii confirms travel-related measles case in child under 5
+
+date: 2025-04-08, from: Hawaii Tribune Harold
+
+
+				<p>The Hawaii Department of Health has confirmed its first measles case this year in an unvaccinated child on Oahu under the age of 5.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/08/hawaii-news/hawaii-confirms-travel-related-measles-case-in-child-under-5/>
+
+---
+
+## Noble Chef gala raises funds for UH Maui College culinary program
+
+date: 2025-04-08, from: University of Hawaiʻi News
+
+<p>Celebrity chefs and <abbr>UH</abbr> Maui College culinary students wow guests.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/noble-chef-gala-2025/">Noble Chef gala raises funds for <abbr>UH</abbr> Maui College culinary program</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/noble-chef-gala-2025/>
+
+---
+
+## Award-winning UH astronomer who studies alien worlds named fellow
+
+date: 2025-04-08, from: University of Hawaiʻi News
+
+<p><abbr>IfA</abbr> Professor Karen Meech has been named a 2024 Fellow of the American Association for the Advancement of Science.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/08/karen-meech-named-aaas-fellow/">Award-winning <abbr>UH</abbr> astronomer who studies alien worlds named fellow</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/08/karen-meech-named-aaas-fellow/>
 
 ---
 

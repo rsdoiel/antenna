@@ -1,11 +1,448 @@
 ---
 title: columns
-updated: 2025-04-08 14:08:42
+updated: 2025-04-09 06:07:56
 ---
 
 # columns
 
-(date: 2025-04-08 14:08:42)
+(date: 2025-04-09 06:07:56)
+
+---
+
+## The Cootie Zone
+
+
+date: 2025-04-09, from: Dave Winer's Scripting News
+
+<p>All Trump is doing is making the US the <a href="https://en.wikipedia.org/wiki/Cooties">cootie</a> zone.</p>
+<p>We won't make anything here and we won't buy anything.</p>
+<p>We'll have nice 2025 computers, phones, cars, medicine, lumber, energy, but all the shit we import will break and be used up and we won't be able to replace it.</p>
+<p>The rest of the world will wonder why they cared so much about the US, as the world gets along just fine without us.</p>
+<p>And that $1 trillion military budget, forget it -- not only did they fire everyone at the IRS, but no one is making any money so there aren't actually any taxes to pay, and there sure as hell aren't any tariffs because no one can afford to buy anything produced anywhere, in the US or the rest of the world.</p>
+<p>We become a very sad, poor, sick, uneducated country, but -- Trump will be on Mount Rushmore and his face will be on the $20 bill, which no one sees because no one has $20.</p>
+<p>And thus, dear friends, America has become Great Again!</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/09/123749.html?title=theCootieZone>
+
+---
+
+## FreeDOS 1.4: Still DOS, still FOSS, more modern than ever
+
+date: 2025-04-09, updated: 2025-04-09, from: Liam Proven's articles at the Register
+
+<h4>The 1990s called – they&#39;re impressed</h4>
+      <p>The FreeDOS Project has released version 1.4 of its fully open source DOS-compatible OS – but you&#39;ll need a BIOS for bare metal.</p> 
+
+<br> 
+
+<https://go.theregister.com/i/cfa/https://www.theregister.com/2025/04/09/freedos_14/>
+
+---
+
+## How to Leak to a Journalist
+
+date: 2025-04-09, updated: 2025-04-08, from: Bruce Schneier blog
+
+<p>Neiman Lab has some <a href="https://www.niemanlab.org/2025/04/how-to-leak-to-a-journalist/">good advice</a> on how to leak a story to a journalist.</p>
+ 
+
+<br> 
+
+<https://www.schneier.com/blog/archives/2025/04/how-to-leak-to-a-journalist.html>
+
+---
+
+## 2025-04-09 Balconia
+
+date: 2025-04-09, from: Alex Schroeder's Blog
+
+<h1 id="2025-04-09-balconia">2025-04-09 Balconia</h1>
+
+<p>Some pictures from the balcony pointing south east, i.e. the sunny one.
+This is what it looks like: some breakfast ready to eat, with a newspaper on the table, the reeds with all the bees to the left (mostly Osmia), and potted plants all around.</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-6.jpg" alt="" /></p>
+
+<p>I took these pictures in response to <a class="account" href="https://rage.love/@GwenfarsGarden" title="@GwenfarsGarden@rage.love">@GwenfarsGarden</a>&rsquo;s blog post, <a href="https://www.gwenfarsgarden.info/2025/04/recently-flowering.html">Photo essay: recently flowering</a>.</p>
+
+<p>Goldlack<br>
+Erysimum cheiri</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-26.jpg" alt="" /></p>
+
+<p>Armenische Traubenhyazinthe<br>
+Muscari armeniacum</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-27.jpg" alt="" /></p>
+
+<p>Gewöhnliche Küchenschelle<br>
+Pulsatilla vulgaris</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-1.jpg" alt="" /></p>
+
+<p>Stiefmütterchen
+Viola</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-2.jpg" alt="" /></p>
+
+<p>Einjähriges Silberblatt<br>
+Lunaria annua</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-3.jpg" alt="" /></p>
+
+<p>Kohl-Gänsedistel<br>
+Sonchus oleraceus</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-4.jpg" alt="" /></p>
+
+<p>Löwenzahn<br>
+Taraxacum</p>
+
+<p><img loading="lazy" src="2025-04-09-balconia-5.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-04-09-balconia>
+
+---
+
+## 2025-03-24 Blumenfotos
+
+date: 2025-04-09, from: Alex Schroeder's Blog
+
+<h1 id="2025-03-24-blumenfotos">2025-03-24 Blumenfotos</h1>
+
+<p>I’ve been taking pictures of flowers in spring…</p>
+
+<p>Hanami!</p>
+
+<p>I&rsquo;m so happy to have these cherry blossoms in the school yard accross the road.</p>
+
+<p>Japanische Blütenkirsche<br>
+Prunus serrulata</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-1.jpg" alt="" /></p>
+
+<p>I’m walking through the neighbourhood. Identifying flowers using Flora Incognita.</p>
+
+<p>Scharbockskraut<br>
+Ficaria verna</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-2.jpg" alt="" /></p>
+
+<p>Chinesische Zierquitte<br>
+Chaenomeles speciosa</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-3.jpg" alt="" /></p>
+
+<p>Gewöhnliche Mahonie<br>
+Berberis aquifolium</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-4.jpg" alt="" /></p>
+
+<p>Stängellose Schlüsselblume<br>
+Primula acaulis</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-5.jpg" alt="" /></p>
+
+<p>Wald-Veilchen<br>
+Viola reichenbachiana</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-6.jpg" alt="" /></p>
+
+<p>Dunkle Sternhyazinthe<br>
+Scilla sardensis</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-7.jpg" alt="" /></p>
+
+<p>Frühlings-Krokus<br>
+Crocus vernus</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-8.jpg" alt="" /></p>
+
+<p>Busch-Windröschen<br>
+Anemone nemorosa</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-9.jpg" alt="" /></p>
+
+<p>Sent from this nice bench overlooking an outer part of Zürich.
+I just like taking pictures of benches where I intend to sit moments later. 😅</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-10.jpg" alt="" /></p>
+
+<p>Griechisches Blaukissen<br>
+Aubrieta deltoidea</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-11.jpg" alt="" /></p>
+
+<p>These flowers are all over the lawns in early spring!
+Here it is again.</p>
+
+<p>Stängellose Schlüsselblume<br>
+Primula acaulis</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-12.jpg" alt="" /></p>
+
+<p>Like aubrieta, this one forms hanging carpets and I love that.</p>
+
+<p>Immergrüne Schleifenblume<br>
+Iberis sempervirens</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-13.jpg" alt="" /></p>
+
+<p>And of course, the largest flowers in the area…</p>
+
+<p>Tulpen-Magnolie<br>
+Magnolia soulangeana</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-14.jpg" alt="" /></p>
+
+<p>Riesen Schachtelhalm<br>
+Equisetum telmateia</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-15.jpg" alt="" /></p>
+
+<p>Balkan-Windröschen<br>
+Anemone blanda</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-16.jpg" alt="" /></p>
+
+<p>Weisses Veilchen<br>
+Viola alba</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-18.jpg" alt="" /></p>
+
+<p>Gewöhnliches Greiskraut<br>
+Senecio vulgaris</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-19.jpg" alt="" /></p>
+
+<p>And again, the wonderful magnolia.</p>
+
+<p>Tulpen-Magnolie<br>
+Magnolia soulangeana</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-20.jpg" alt="" /></p>
+
+<p>I thought chaenomeles was always red, but I guess not.
+Here it is again.</p>
+
+<p>Chinesische Zierquitte<br>
+Chaenomeles speciosa</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-21.jpg" alt="" /></p>
+
+<p>Gewöhnliche Kegelblume<br>
+Puschkinia scilloides</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-24.jpg" alt="" /></p>
+
+<p>Gefiederte Sockenblume<br>
+Epimedium pinnatum</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-17.jpg" alt="" /></p>
+
+<p>Not sure what this is. Some sort of prunus?</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-22.jpg" alt="" /></p>
+
+<p>The contrast between those trees and the road construction works is poignant.</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-23.jpg" alt="" /></p>
+
+<p>And back to cherry trees. 😍</p>
+
+<p><img loading="lazy" src="2025-03-21-blumen-25.jpg" alt="" /></p>
+
+<p><a class="tag" href="/search/?q=%23Pictures">#Pictures</a> <a class="tag" href="/search/?q=%23Flowers">#Flowers</a> <a class="tag" href="/search/?q=%23Plants">#Plants</a></p> 
+
+<br> 
+
+<https://alexschroeder.ch/view/2025-03-21-blumen>
+
+---
+
+## Office Hours: Has anything like this ever happened before?
+
+date: 2025-04-09, from: Robert Reich's blog
+
+What&#8217;s the most accurate historical parallel? 
+
+<br> 
+
+<https://robertreich.substack.com/p/office-hours-whats-the-rhyme-for>
+
+---
+
+## April 8, 2025
+
+date: 2025-04-09, from: Heather Cox Richardson blog
+
+Stocks were up early today as traders put their hopes in Treasury Secretary Scott Bessent&#8217;s suggestion that the Trump administration was open to negotiations for lowering Trump&#8217;s proposed tariffs. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-8-2025>
+
+---
+
+## Dumbness is emotional, not intellectual
+
+date: 2025-04-09, from: Tracy Durnell Blog
+
+When I talk about people acting dumb, I don&#8217;t mean that they are unintelligent, but that they are failing to act towards the bigger picture / long term benefit. (Intelligence is multivalent, changeable, and not a measurable thing.) Emotions can easily override critical thinking and rationality. Mark Stoneman recently pointed out that the emotional overwhelm of [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/08/dumbness-is-emotional-not-intellectual/>
+
+---
+
+##  From Edith Zimmerman: Vampire Brand Crossovers. Like Nosferatuthbrush from Orlok-B.... 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046598-from-edith-zimmerman-vamp>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-09, from: Miguel de Icaza Mastondon feed)
+
+<p>Drowning my sorrows in mushrooms</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114305072983063765>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-08, from: Miguel de Icaza Mastondon feed)
+
+<p>Finally my habit of buying Apple products in six packs has come in handy.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114305028487779474>
+
+---
+
+## Wednesday 9 April
+
+date: 2025-04-08, from: John Naughton's online diary
+
+The physicist in lyrical mode Bernardo Huberman, speaking at a conference in Cambridge in 2012. Quote of the Day ”In this world of sin and sorrow there is always something to be thankful for; as for me, I rejoice that &#8230; <a href="https://memex.naughtons.org/wednesday-9-april/40653/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://memex.naughtons.org/wednesday-9-april/40653/>
+
+---
+
+##  The Phoenician Scheme 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/the-phoenician-scheme>
+
+---
+
+## The art of the despicable deal
+
+date: 2025-04-08, from: Robert Reich's blog
+
+Trump&#8217;s grovelers 
+
+<br> 
+
+<https://robertreich.substack.com/p/the-art-of-the-despicable-deal>
+
+---
+
+## The big vision behind WordLand
+
+date: 2025-04-08, from: Dave Winer's Scripting News
+
+<p>I believe that eventually WordPress will be the hub for writers the way the web itself became the the hub for apps. Initially, the web wasn’t the best place to host apps, the Mac had a much more developed set of meaningful features for app devs, and we already knew the Mac APIs where the web was strange and incomplete. </p>
+<p>Yet most of the energy in AppLand quickly shifted to the web because of three advantages it had:  </p>
+<ol>
+<li>Anyone could publish for it, there was no platform vendor.</li>
+<li>The networking model was open and simple, where the Mac's was hidden behind incomplete and poorly written docs. </li>
+<li>The Mac's networking only worked on the Mac at a time when Windows was becoming dominant, and the web offered simplicity that neither platform could match.</li>
+</ol>
+<p>The web made writing network apps a joy, where the Mac made it a slog. No matter how much time you spent developing, it never resulted in success. </p>
+<p>There was no question for me when I saw the web, I had to be there.</p>
+<p>Substack and Ghost are like Mac and Windows at the dawn of the web. Their big mistake imho is they weren’t built on WordPress, which can and should imho serve as the base platform for writing on the web. If an ecosystem of writing tools is built on the Wordpress foundation how could silo’d writing tools hope to compete? </p>
+<p>If you question the choice of Wordpress, what would you go with in its place? I argue that whatever it is, it would work much like Wordpress, which has a 20+ year head start, is stable, scales, is widely supported, and open source, so if you don't like the company behind it, you can choose not to use their distribution.</p>
+<p>With WordLand we are testing the water hopefully proving that it is possible to create a functional writing environment on the WordPress foundation. Why is that such an advantage? Because, like the word processing products of the 80s on various OSes, these apps should be able to share data. One day you may feel like writing something with WordLand and a few days later you might want to try editing the same document using a different editing tool. As long as they both ingest and emit Markdown, they should have no trouble editing each others' documents. This is where the benefit of a common platform becomes insurmountable, because the silos insist you use their editor and only their editor and an open platform with open data formats lets you move between apps that interop. There’s a reason so many word processors thrived in the 80s, because the needs and tastes of writers vary so much, and technically it was possible to move data around in an ad hoc way.</p>
+<p>Until WordLand, tools for writers on the Wordpress platform were practically nonexistent. I think that can change now, because the <a href="https://github.com/scripting/wpIdentity">middleware</a> that connects WordLand to Wordpress is both easy to understand, for developers, and open source under the most liberal license. Any app that connects with Wordpress through this API will interop with WordLand so totally that it could replace WordLand. </p>
+<p>I would be happy if WordLand played the role of <a href="https://en.wikipedia.org/wiki/MacWrite">MacWrite</a> in the Mac ecosystem of the 80s. At the outset it was the only writing tool for the Mac, and set the usability pattern for all that followed. As a result the Mac platform, even though initially its appeal was mainly to developers and designers, quickly boomed as a writer's platform. I strongly believe Wordpress has this potential. </p>
+<p>I think writers need the same variety and open possibilities as developers, and the existing writer's systems are not offering that choice. I believe this is the start of the writers web, that should, if we do it right, and if my intuition is correct, grow like the web itself at inception. My bet is that an expansive approach will yield far more creativity in a very important area, writing, and should quickly become the place writers want to be.</p>
+ 
+
+<br> 
+
+<http://scripting.com/2025/04/08/220456.html?title=theBigVisionBehindWordland>
+
+---
+
+## [Sponsor] WorkOS: Scalable, Secure Authentication
+
+date: 2025-04-08, updated: 2025-04-08, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://workos.com/?utm_source=daringfireball&utm_medium=RSS&utm_campaign=q12025>
+
+---
+
+##  Which types of people aren&#8217;t big fans of &#8220;impartial&#8221; news? People who... 
+
+date: 2025-04-08, updated: 2025-04-08, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046601-which-types-of-people-are>
+
+---
+
+## BPS is a GPS alternative that nobody's heard of
+
+date: 2025-04-08, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">BPS is a GPS alternative that nobody's heard of</span>
+
+            <p>I came to the NAB (National Association of Broadcasters) show this year with my Dad to learn more about time in broadcast and live production.</p>
+
+<p>I was expecting to learn more about grandmaster clocks, AV sync, timing in protocols like Dante, Livewire, AES67, and more—and I <em>have</em>. But then on the first day here I found this odd little corner of the building with a completely empty booth:</p>
+
+<p></p>
+
+<p>When you see an oscilloscope that costs 3x the value of your car on a trade show floor... well, let's just say my interest was piqued.</p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">April 8, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard>
 
 ---
 

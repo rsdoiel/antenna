@@ -1,11 +1,71 @@
 ---
 title: health
-updated: 2025-04-08 14:08:45
+updated: 2025-04-09 06:07:59
 ---
 
 # health
 
-(date: 2025-04-08 14:08:45)
+(date: 2025-04-09 06:07:59)
+
+---
+
+## Editorial: Microbiome-based metabolomics revolution in health and microbial metabolites redefinition
+
+date: 2025-04-09, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1582602>
+
+---
+
+## Sirtuin 2 inhibitor AGK2 exerts antiviral effects by inducing epigenetic suppression of hepatitis B virus covalently closed circular DNA through recruitment of repressive histone lysine methyltransferases and reduction of cccDNA
+
+date: 2025-04-09, from: Frontiers in Cellular and Infection Microbiology
+
+Chronic hepatitis B virus (HBV) infection continues to be a global health concern because current treatments such as interferon-α and nucleos(t)ide analogs cannot fully eliminate the virus due to persistence of covalently closed circular DNA (cccDNA) and integrated HBV DNA. Earlier research suggests that AGK2, a selective SIRT2 inhibitor, suppresses HBV replication by modifying key signaling pathways. This study aimed to further explore the anti-HBV effects of AKG2, particularly its effects on the epigenetic landscape of cccDNA. HBV-transfected and -infected cells were used to assess the impact of AGK2 on viral replication. Changes in SIRT2 expression and α-tubulin acetylation (SDS-PAGE-immunoblotting), core particle formation (native agarose gel electrophoresis and immunoblotting), HBV RNA (northern blotting) and DNA (Southern blotting) synthesis, and cccDNA levels (Southern blotting) were measured. Chromatin immunoprecipitation assays were performed to examine deposition of transcriptionally repressive epigenetic markers on cccDNA. AGK2 reduced expression of SIRT2, increased acetylated α-tubulin levels, and reduced synthesis of HBV RNA and DNA. Importantly, AGK2 also reduced cccDNA levels and increased deposition of repressive histone markers H4K20me1, H3K27me3, and H3K9me3 on cccDNA, mediated by histone lysine methyltransferases such as PR-Set7, EZH2, SETDB1, and SUV39H1. Additionally, there was a reduction in recruitment of RNA polymerase II and acetylated H3 to cccDNA, indicating that AGK2 enhances transcriptional repression. AGK2 suppresses HBV replication through direct antiviral actions, and by epigenetic modulation of cccDNA, indicating that using AGK2 to target SIRT2 and associated epigenetic regulators shows promise as a functional cure for chronic hepatitis B. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1537929>
+
+---
+
+## Commentary: Molecular characterization of Smtdc-1 and Smddc-1 discloses roles as male-competence factors for the sexual maturation of Schistosoma mansoni females
+
+date: 2025-04-09, from: Frontiers in Cellular and Infection Microbiology
+
+ 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1564081>
+
+---
+
+## Self-assembled epitope-based nanoparticles targeting the SARS-CoV-2 spike protein enhanced the immune response and induced potential broad neutralizing activity
+
+date: 2025-04-09, from: Frontiers in Cellular and Infection Microbiology
+
+IntroductionThe ongoing COVID-19 has caused a global pandemic, resulting in millions of infections and deaths. While current vaccines target the SARS-CoV-2 spike (S) protein, its high mutation rate significantly compromises vaccine efficacy. We aimed to evaluate the potential of epitope-based nanoparticles (NPs) to induce broad cross-protection and durable immune responses against SARS-CoV-2.MethodsFour conserved epitopes derived from the receptor-binding domain (RBD) and S2 subunit of the spike protein were integrated into Helicobacter pylori ferritin to create epitope-based NPs named S18-F, RBM-F, UH-F, and HR2-F. The immunogenicity of the epitope-based NPs was evaluated through animal experiments to measure epitope-specific antibody titers and assess neutralizing activity against SARS-CoV-2 pseudovirus. To characterize cellular immune responses, splenic lymphocyte proliferation following epitope stimulation was measured, and cytokine secretion profiles including IFN-γ, IL-2, IL-4, and IL-10 were analyzed to determine Th1/Th2 immune polarization. Antibody-dependent cellular cytotoxicity (ADCC) assays were performed to evaluate NP-enhanced recognition and elimination of infected target cells.ResultsThese NPs induced high titers of epitope-specific antibodies lasting three months post-immunization. Sera from the RBM-F, UH-F, and HR2-F groups exhibited neutralizing activity against the SARS-CoV-2 pseudovirus WH-1 in vitro. Splenic lymphocytes from the S18-F, RBM-F, and UH-F groups showed significantly increased proliferation. Lymphocytes from the RBM-F group demonstrated increased secretion of IFN-γ, IL-2, IL-4, and IL-10 cytokines, indicating a balanced Th1 and Th2 immune response. Immune sera from the S18-F and mixed-immunized groups exhibited antibody-dependent cellular cytotoxicity.DiscussionThe results indicate that these NPs induce robust humoral and cellular immune responses, potentially offering a promising strategy for effective vaccine development against SARS-CoV-2. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1560330>
+
+---
+
+## Gut microbiota and intestinal immunity interaction in ulcerative colitis and its application in treatment
+
+date: 2025-04-09, from: Frontiers in Cellular and Infection Microbiology
+
+Ulcerative colitis (UC) is a chronic, non-specific inflammatory bowel disease characterized by inflammation and injury of the colonic mucosa, exhibiting an increasing global incidence. Although research into UC pathogenesis is ongoing, the precise mechanisms remain to be fully elucidated. Studies indicate that UC development results from a complex interplay of factors, including genetic predisposition, environmental exposures, gut microbial dysbiosis, and immune dysregulation. Specifically, UC pathogenesis involves aberrant immune responses triggered by interactions between the host and gut microbiota. A complex, dynamic relationship exists between the microbial community and the host immune system throughout UC pathogenesis. Accumulating evidence suggests that changes in microbiota composition significantly impact gut immunity. This review will examine the intricate balance between the gut microbiota and mucosal immunity in UC progression and discuss potential therapeutic applications, providing a reference for further clinical treatment of this patient population. 
+
+<br> 
+
+<https://www.frontiersin.org/articles/10.3389/fcimb.2025.1565082>
 
 ---
 

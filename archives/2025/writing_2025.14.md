@@ -1,11 +1,23 @@
 ---
 title: writing
-updated: 2025-04-08 14:08:42
+updated: 2025-04-09 06:07:57
 ---
 
 # writing
 
-(date: 2025-04-08 14:08:42)
+(date: 2025-04-09 06:07:57)
+
+---
+
+## How to Nurture Your Unconscious Mind and Enhance Your Creativity
+
+date: 2025-04-09, from: Literature & a Latte blog
+
+ 
+
+<br> 
+
+<https://www.literatureandlatte.com/blog/how-to-nurture-your-unconscious-mind-and-enhance-your-creativity>
 
 ---
 

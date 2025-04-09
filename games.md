@@ -1,11 +1,95 @@
 ---
 title: games
-updated: 2025-04-08 14:08:43
+updated: 2025-04-09 06:07:57
 ---
 
 # games
 
-(date: 2025-04-08 14:08:43)
+(date: 2025-04-09 06:07:57)
+
+---
+
+## This mythical crowdfunded indie anime is a must-see, under-the-radar gem
+
+date: 2025-04-09, updated: 2025-04-08, from: Polygon Website
+
+I’m a huge enthusiast when it comes to independent animation. Whether it’s stop-motion animation like Takahide Hori’s Junk Head or one-man masterpieces like Shingo Tamagawa’s Puparia and Kenji Iwaisawa’s On-Gaku: Our Sound, I’m an ardent believer in both seeking out and championing passion projects that exist both within and outside of the mainstream animation industry. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-watch/555123/michinoku-toge-indie-anime-watch-youtube>
+
+---
+
+## Astro Bot dominates surprisingly unsurprising BAFTA Games Awards
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Astro Bot won five awards, including Best Game, at Tuesday’s BAFTA Games Awards, wrapping up a triumphant awards season for Sony’s PlayStation 5 platformer. Dominating the night, Team Asobi’s game also took home awards for Game Design, Animation, Audio, and Family. The Chinese Room’s oil-rig thriller Still Wakes the Deep won three awards, for New [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/awards/555367/bafta-games-awards-2025-astro-bot>
+
+---
+
+## All Galar Pokémon in Pokémon Go so far
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+The Galar region is in Pokémon Go, meaning Pokémon from the Sword and Shield games (Gen 8) will start appearing over time. Most Pokémon will get added through events, with various Pokémon making their debuts around whatever theme each event has. While we did already have some Pokémon like Falinks and regional variations like Galarian [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/444111/galar-pokemon-list-gen-8>
+
+---
+
+## How to get Gossifleur and evolution Eldegoss in Pokémon Go
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Gossifleur makes its debut in Pokémon Go as part of April 2025’s “Spring into Spring” event. The Galar grass-type can evolve into Eldegoss as part of its evolution line with enough Candy in your possession. As with the recent addition of Nickit, Gossifleur appears in the wild as part of this event, but can also [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/pokemon-go-guide/555372/gossifleur-eldegoss-how-to-get>
+
+---
+
+## 5 games about taxes to procrastinate filing your actual taxes
+
+date: 2025-04-09, updated: 2025-04-08, from: Polygon Website
+
+Tax season is upon us. Individual income tax returns are due April 15 in the United States. If you haven’t filed your taxes yet, why not procrastinate a little bit longer and play some games instead? Here are five games about taxes to play to procrastinate filing your taxes. Some involve filing virtual taxes, some [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-play/553687/video-games-about-taxes>
+
+---
+
+## What time does Marvel Rivals season 2 release in your time zone?
+
+date: 2025-04-09, updated: 2025-04-08, from: Polygon Website
+
+Season 2, the second major content update for Marvel Rivals, is based on the Hellfire Gala, a red carpet event from the X-Men series. Season 2 will add two new characters to the game: Emma Frost, a vanguard, and Ultron, whose class type hasn’t been revealed yet. There’s also the new Krakoa map. As with [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/marvel-rivals-guide/555131/season-2-release-time-date-edt-pdt>
+
+---
+
+## ‘There were some blatant fuck-ups’: Path of Exile 2 devs address its most disastrous update
+
+date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
+
+Path of Exile 2 Dawn of the Hunt — its first major update since it launched in early access last year — has been a disaster. When players logged in last Friday to try it out, they immediately realized the game had become almost comically difficult. Killing weak monsters in the opening hours of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/555208/path-of-exile-2-dawn-of-the-hunt-rebalance-fix-update>
 
 ---
 

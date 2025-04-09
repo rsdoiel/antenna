@@ -1,11 +1,105 @@
 ---
 title: food
-updated: 2025-04-08 14:08:46
+updated: 2025-04-09 06:08:00
 ---
 
 # food
 
-(date: 2025-04-08 14:08:46)
+(date: 2025-04-09 06:08:00)
+
+---
+
+## DiFluid Clears the Air with Countertop AirWave Purifier for Roasters
+
+date: 2025-04-09, from: Daily Coffee News
+
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg" class="attachment-large size-large wp-post-image" alt="DiFluid AirWave purifier" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chinese coffee equipment and technology company DiFluid is launching a low-temperature electronic afterburner for small-scale roasters called the AirWave Smart Roasting Purifier. Revealed to the public on March 30 at... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/09/difluid-clears-the-air-with-countertop-airwave-purifier-for-roasters/>
+
+---
+
+## A New Study Shows Why Stenophylia Tastes So Similar To Arabica
+
+date: 2025-04-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. A chemical analysis of Stenophylla provides more promise. 
+
+<br> 
+
+<https://sprudge.com/a-new-study-shows-why-stenophylia-tastes-so-similar-to-arabica-313458.html>
+
+---
+
+## Tech Is Changing Sourcing for Roasters With Kat Melheim of Algrano
+
+date: 2025-04-09, from: The Fresh Cup
+
+<p>On the latest episode of the Coffee Think Tank Podcast, Kat Melheim explains how digital platforms like Algrano enable direct producer-roaster relationships—and shift how specialty coffee moves through the supply chain.</p>
+<p>The post <a href="https://freshcup.com/tech-is-changing-sourcing-for-roasters/">Tech Is Changing Sourcing for Roasters With Kat Melheim of Algrano</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/tech-is-changing-sourcing-for-roasters/>
+
+---
+
+## What’s That Coffee? An Electronic Nose Might Have the Answer
+
+date: 2025-04-09, from: The Fresh Cup
+
+<p>How can you tell where a coffee comes from? An electronic nose might be the answer. </p>
+<p>The post <a href="https://freshcup.com/whats-that-coffee-an-electronic-nose-knows/">What&#8217;s That Coffee? An Electronic Nose Might Have the Answer</a> appeared first on <a href="https://freshcup.com">Fresh Cup Magazine</a>.</p>
+ 
+
+<br> 
+
+<https://freshcup.com/whats-that-coffee-an-electronic-nose-knows/>
+
+---
+
+## Homemade Chicken al Pastor
+
+date: 2025-04-09, from: Chili Pepper Madness
+
+<a href="https://www.chilipeppermadness.com/recipes/chicken-al-pastor/" title="Homemade Chicken al Pastor" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="3 Chicken al Pastor tacos on a plate, ready to be enjoyed." style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Chicken-al-Pastor-Recipe-TACOS3.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This recipe for Chicken al Pastor is a spicy-sweet delight with marinated chicken thighs grilled up with fresh pineapple, then chopped and served on tortillas, taco style. Don't forget the toppings!</p>
+<p>The post <a href="https://www.chilipeppermadness.com/recipes/chicken-al-pastor/">Homemade Chicken al Pastor</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
+ 
+
+<br> 
+
+<https://www.chilipeppermadness.com/recipes/chicken-al-pastor/>
+
+---
+
+## The Best Carrot Cake Box Mix, According to a Professional Baker
+
+date: 2025-04-08, from: Taste of Home
+
+<p>Whether you bake it in simple sheet pans or ornately fluted tube pans, the best carrot cake box mix will always stand out on Easter dessert tables. </p>
+<p>The post <a href="https://www.tasteofhome.com/collection/best-carrot-cake-box-mix/">The Best Carrot Cake Box Mix, According to a Professional Baker</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/best-carrot-cake-box-mix/>
+
+---
+
+## Olive Garden Is No Longer America’s Top Restaurant Chain—Here’s What Took Its Spot
+
+date: 2025-04-08, from: Taste of Home
+
+<p>The Italian casual dining chain missed the industry's top spot for the first time in nearly seven years due to slower growth in 2024.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/americas-top-restaurant-chain-2025/">Olive Garden Is No Longer America&#8217;s Top Restaurant Chain—Here&#8217;s What Took Its Spot</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/americas-top-restaurant-chain-2025/>
 
 ---
 
@@ -25,7 +119,7 @@ From avoiding crowds to asking the right questions, here are some tried-and-true
 
 date: 2025-04-08, from: Daily Coffee News
 
-<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg" class="attachment-large size-large wp-post-image" alt="adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-768x545.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The coffee in the cups of hundreds of millions of Americans this morning is a minor miracle, made possible through the work of a long chain of related actors. That... 
+<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg" class="attachment-large size-large wp-post-image" alt="adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-768x545.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The coffee in the cups of hundreds of millions of Americans this morning is a minor miracle, made possible through the work of a long chain of related actors. That... 
 
 <br> 
 
@@ -61,7 +155,7 @@ This is how you transform a bad rosé into something bubbly and palatable.
 
 date: 2025-04-08, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee-exempt-from-tariffs" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros.jpg 1000w" sizes="(max-width: 620px) 100vw, 620px" /></div>New York City-based specialty coffee roasting company Coffee Bros. is calling on the federal government to exempt coffee from the sweeping new tariffs announced by President Donald Trump. The company&#8217;s... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee-exempt-from-tariffs" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros.jpg 1000w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>New York City-based specialty coffee roasting company Coffee Bros. is calling on the federal government to exempt coffee from the sweeping new tariffs announced by President Donald Trump. The company&#8217;s... 
 
 <br> 
 
@@ -365,7 +459,7 @@ date: 2025-04-07, from: Closet Cooking
 
 date: 2025-04-07, from: Chili Pepper Madness
 
-<a href="https://www.chilipeppermadness.com/recipes/beef-stew-seasoning/" title="Beef Stew Seasoning Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Beef Stew Seasoning in a bowl with a measuring spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" fetchpriority="high" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This beef stew seasoning blend is loaded with robust, aromatic spices and herbs that takes your favorite comforting beef stew to a new level of flavor.</p>
+<a href="https://www.chilipeppermadness.com/recipes/beef-stew-seasoning/" title="Beef Stew Seasoning Recipe" rel="nofollow"><img width="683" height="1024" src="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-683x1024.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="Beef Stew Seasoning in a bowl with a measuring spoon" style="display: block; margin: auto; margin-bottom: 5px;max-width: 100%;" link_thumbnail="1" decoding="async" srcset="https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-683x1024.jpg 683w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-500x750.jpg 500w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-100x150.jpg 100w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-768x1152.jpg 768w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-1024x1536.jpg 1024w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4-150x225.jpg 150w, https://www.chilipeppermadness.com/wp-content/uploads/2025/03/Beef-Stew-Seasoning-Recipe4.jpg 1200w" sizes="(max-width: 683px) 100vw, 683px" /></a><p>This beef stew seasoning blend is loaded with robust, aromatic spices and herbs that takes your favorite comforting beef stew to a new level of flavor.</p>
 <p>The post <a href="https://www.chilipeppermadness.com/recipes/beef-stew-seasoning/">Beef Stew Seasoning Recipe</a> appeared first on <a href="https://www.chilipeppermadness.com">Chili Pepper Madness</a>.</p>
  
 

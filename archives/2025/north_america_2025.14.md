@@ -1,11 +1,75 @@
 ---
 title: north america
-updated: 2025-04-08 14:08:38
+updated: 2025-04-09 06:07:54
 ---
 
 # north america
 
-(date: 2025-04-08 14:08:38)
+(date: 2025-04-09 06:07:54)
+
+---
+
+## Andrew Weissmann and Jen Rubin on atrocious SCOTUS deportation ruling
+
+date: 2025-04-09, from: The Contrarian
+
+On Monday, the Supreme Court delivered a 5-4 ruling allowing the Trump administration to continue its horrendous deportations. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160896567/6f5f1f0a79377e2df12b722bb477d210.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160896567/6f5f1f0a79377e2df12b722bb477d210.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/andrew-weissmann-and-jen-rubin-on-7a3>
+
+---
+
+## It’s Republicans' Fault
+
+date: 2025-04-09, from: The Contrarian
+
+MAGA Republicans own the tariff and recession 
+
+<br> 
+
+<https://contrarian.substack.com/p/its-republicans-fault>
+
+---
+
+## Evening Roundup, April 8
+
+date: 2025-04-08, from: The Contrarian
+
+Featuring Adam Kinzinger & Jen; Mike Sacks & Evan Vorpahl; Let's Do Lunch! with Jared Bernstein; Shalise Manza Young; Justice Allison Riggs; Meredith Blake; Talking Feds; and Asl&#305; Ayd&#305;nta&#351;ba&#351; 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-8>
+
+---
+
+## How the Cybertruck became a symbol of MAGA dysfunction 
+
+date: 2025-04-08, from: The Contrarian
+
+Elon Musk&#8217;s expensive lemon featured prominently at Hands Off protests last weekend 
+
+<br> 
+
+<https://contrarian.substack.com/p/how-the-cybertruck-became-a-symbol>
+
+---
+
+## North Carolina Supreme Court Justice on Brazen Effort to Steal an Election
+
+date: 2025-04-08, from: The Contrarian
+
+In November 2024, Allison Riggs was elected to retain her seat on the North Carolina Supreme Court. 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160893311/f147e692d88b15da7697661dd38a6449.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160893311/f147e692d88b15da7697661dd38a6449.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/north-carolina-supreme-court-justice>
 
 ---
 

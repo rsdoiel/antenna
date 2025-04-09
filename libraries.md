@@ -1,11 +1,11 @@
 ---
 title: libraries
-updated: 2025-04-08 14:08:44
+updated: 2025-04-09 06:07:58
 ---
 
 # libraries
 
-(date: 2025-04-08 14:08:44)
+(date: 2025-04-09 06:07:58)
 
 ---
 
@@ -18,6 +18,58 @@ Covatti, Gustavo; Li, Kai-Yun; Podgorski, Joel; Winkel, Lenny H.E.; Berg, Michae
 <br> 
 
 <http://hdl.handle.net/20.500.11850/729458>
+
+---
+
+## Vanishing Culture: When Preservation Meets Social Media
+
+date: 2025-04-09, from: Internet Archive Blog
+
+The following discussion between writer Caralee Adams and book historian Allie Alvis is part of our Vanishing Culture series, highlighting the power and importance of preservation in our digital age. Read more essays online or download the [&#8230;] 
+
+<br> 
+
+<https://blog.archive.org/2025/04/09/vanishing-culture-when-preservation-meets-social-media/>
+
+---
+
+## Peer Review Has Lost Its Human Face. So, What’s Next?
+
+date: 2025-04-09, from: Scholarly Kitchen
+
+<p>I think human-dependent peer review has lost its human element, thus its relevance, so what we can do to install a new system by abandoning the present one?</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/09/peer-review-has-lost-its-human-face-so-whats-next/">Peer Review Has Lost Its Human Face. So, What’s Next?</a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/09/peer-review-has-lost-its-human-face-so-whats-next/>
+
+---
+
+## How Native Are Peptides After Activation by Collisions or Photons? A Gas-Phase FRET Study
+
+date: 2025-04-09, from: ETH Zurich, recently added
+
+Greis, Kim; Busse, Linus; Benzenberg, Lukas R.; Wu, Ri; Zenobi, Renato 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/722436>
+
+---
+
+## ARL Celebrates National Library Week 2025
+
+date: 2025-04-08, from: Association of Research Libraries News
+
+<p>Last Updated on April 8, 2025, 5:32 pm ET National Library Week—April 6–12 this year—is an annual celebration highlighting the valuable role libraries and library workers play in transforming lives...</p>
+<p>The post <a href="https://www.arl.org/blog/arl-celebrates-national-library-week-2025/">ARL Celebrates National Library Week 2025</a> appeared first on <a href="https://www.arl.org">Association of Research Libraries</a>.</p>
+ 
+
+<br> 
+
+<https://www.arl.org/blog/arl-celebrates-national-library-week-2025/>
 
 ---
 
@@ -166,6 +218,18 @@ alt="screenshot from Strategy page showing Crossref strategic themes." width="75
 <br> 
 
 <https://www.crossref.org/blog/the-programs-approach-our-experiences-during-the-first-quarter-of-2025/>
+
+---
+
+## Breaking BASS
+
+date: 2025-04-08, from: ETH Zurich, recently added
+
+Merz, Simon-Philipp; Paterson, Kenneth G.; Rodríguez García, Àlex 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/730661>
 
 ---
 
