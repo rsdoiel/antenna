@@ -1,11 +1,47 @@
 ---
 title: food
-updated: 2025-04-09 06:08:00
+updated: 2025-04-09 09:34:26
 ---
 
 # food
 
-(date: 2025-04-09 06:08:00)
+(date: 2025-04-09 09:34:26)
+
+---
+
+## Eggless Chocolate Cake
+
+date: 2025-04-09, from: Taste of Home
+
+Mayo is just oil and eggs, which actually works as an egg fat replacement in this cake! This hack makes a cake that’s incredibly moist, tender, and packed with chocolaty flavor. You can find <a href="https://milkandcardamom.com/2025/04/01/chocolate-mayonnaise-cake/" target="_blank" rel="nofollow noopener noreferrer">the recipe</a> on my blog, Milk &amp; Cardamom too! —Hetal Vasavada, San Francisco, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/eggless-chocolate-cake-2/>
+
+---
+
+## U.S. Congressional Coffee Caucus Launches to Promote Industry
+
+date: 2025-04-09, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee in a grinder" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>U.S. Representatives Jill Tokuda (D-HI) and William Timmons (R-SC) yesterday launched the Congressional Coffee Caucus, a first-of-its-kind caucus supporting the coffee industry. The Congressional Caucus, which has been months in... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/09/u-s-congressional-coffee-caucus-launches-to-promote-industry/>
+
+---
+
+## Ready To Drink: Joe Coffee Company’s Ready To Use Espresso Concentrate
+
+date: 2025-04-09, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Ready To Use Espresso by Joe Coffee Company. 
+
+<br> 
+
+<https://sprudge.com/ready-to-drink-joe-coffee-companys-ready-to-use-espresso-concentrate-313291.html>
 
 ---
 
@@ -13,7 +49,7 @@ updated: 2025-04-09 06:08:00
 
 date: 2025-04-09, from: Daily Coffee News
 
-<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg" class="attachment-large size-large wp-post-image" alt="DiFluid AirWave purifier" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chinese coffee equipment and technology company DiFluid is launching a low-temperature electronic afterburner for small-scale roasters called the AirWave Smart Roasting Purifier. Revealed to the public on March 30 at... 
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg" class="attachment-large size-large wp-post-image" alt="DiFluid AirWave purifier" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chinese coffee equipment and technology company DiFluid is launching a low-temperature electronic afterburner for small-scale roasters called the AirWave Smart Roasting Purifier. Revealed to the public on March 30 at... 
 
 <br> 
 
@@ -131,7 +167,7 @@ date: 2025-04-08, from: Daily Coffee News
 
 date: 2025-04-08, from: Daily Coffee News
 
-<div><img width="620" height="476" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-620x476.jpg" class="attachment-large size-large wp-post-image" alt="Forum Coffee Hoboken 2" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-620x476.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-300x230.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-768x590.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The third location of New Jersey-based Forum Coffee is now open for business in downtown Hoboken, offering a small gathering place for discussion over brews of freshly roasted coffees and... 
+<div><img width="620" height="476" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-620x476.jpg" class="attachment-large size-large wp-post-image" alt="Forum Coffee Hoboken 2" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-620x476.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-300x230.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-150x115.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1-768x590.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/Forum-Coffee-Hoboken-2-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>The third location of New Jersey-based Forum Coffee is now open for business in downtown Hoboken, offering a small gathering place for discussion over brews of freshly roasted coffees and... 
 
 <br> 
 

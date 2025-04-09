@@ -1,11 +1,95 @@
 ---
 title: science and technology
-updated: 2025-04-09 06:07:55
+updated: 2025-04-09 09:34:20
 ---
 
 # science and technology
 
-(date: 2025-04-09 06:07:55)
+(date: 2025-04-09 09:34:20)
+
+---
+
+## Mike Drury: A 40-Year Legacy of Precision
+
+date: 2025-04-09, from: NASA breaking news
+
+Deputy Integration and Testing Manager &#8211; Goddard Space Flight Center Mike Drury began at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, as a temporary technician — a contractor hired for six weeks to set up High Capacity Centrifuge tests. Six weeks then turned into three months and, eventually, over 40 years. Now, Mike is [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/people-of-nasa/goddard-people/mike-drury-a-40-year-legacy-of-precision/>
+
+---
+
+## Commercial space station outfit plans two Orbital Data Center nodes by the end of 2025
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Yep. It&#39;s Axiom&#39;s datacenters in SPAAAAACE</h4> <p>Axiom Space says it is planning to launch a pair of Orbital Data Center (ODC) nodes to low Earth orbit by the end of 2025.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/data_centers_leo_axiom_space/>
+
+---
+
+## NASA’s Planetary Defenders Documentary Premieres April 16
+
+date: 2025-04-09, from: NASA breaking news
+
+NASA is bringing the world of planetary defense to the public with its new documentary, “Planetary Defenders.” What would humanity do if an asteroid were headed for Earth? The documentary takes viewers inside the real-life efforts of scientists and engineers working to detect, track, and mitigate potential asteroid threats. Featuring firsthand accounts from experts on [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/general/nasas-planetary-defenders-documentary-premieres-april-16/>
+
+---
+
+## Microsoft puts $1B US datacenter builds on hold amid AI, tariff uncertainty
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Committed $80B capex for DCs as recently as January. We wonder what changed?</h4> <p><strong>World War Fee</strong>  Microsoft has called a halt to the construction of three datacenter campuses in central Ohio, in a sign the tech giant is having to reappraise its infrastructure requirements amid uncertain economic circumstances and concerns over AI demand.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/microsoft_puts_more_datacenter_builds/>
+
+---
+
+## Tech hiring stalls as AI hype, layoffs, tariffs, economic uncertainty, more collide
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>And coming up next, Trump&#39;s World War Fee</h4> <p>The hint of optimism to be found in February&#39;s tech jobs numbers? Yeah, it&#39;s pretty much gone, according to multiple analyses of the latest data out from the US Bureau of Labor Statistics for March. …</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/it_hiring_slows/>
+
+---
+
+## Where Does Meaning Live in a Sentence? Math Might Tell Us.
+
+date: 2025-04-09, from: Quanta Magazine
+
+The mathematician Tai-Danae Bradley is using category theory to try to understand both human and AI-generated language.            <p>The post <a href="https://www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409/" target="_blank">Where Does Meaning Live in a Sentence? Math Might Tell Us.</a> first appeared on <a href="https://www.quantamagazine.org" target="_blank">Quanta Magazine</a></p> 
+
+<br> 
+
+<https://www.quantamagazine.org/where-does-meaning-live-in-a-sentence-math-might-tell-us-20250409/>
+
+---
+
+## UK officials insist 'murder prediction tool' algorithms purely abstract
+
+date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+
+<h4>Even though policing department spent 2 years on &#39;Minority Report&#39; evoking study predicting which criminals will become killers</h4> <p>The UK&#39;s justice department has confirmed it is working on developing algorithms to predict which criminals will later become murderers.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/uks_ministry_of_justice_algorithm_murders/>
 
 ---
 
@@ -189,11 +273,11 @@ date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
 
 ---
 
-## Welcome to the Mission Support Directorate (MSD)
+## Welcome to the Mission Support Directorate
 
 date: 2025-04-08, from: NASA breaking news
 
-David Mitchell, the Associate Administrator for MSD.    Have you ever wondered how NASA manages to achieve all the incredible missions it does, like probing the Sun and studying the history of our Universe? We do it through teamwork, one of our core values. And an essential part of NASA’s team is what we call Mission [&#8230;] 
+David Mitchell, Associate Administrator for Mission Support Directorate  Have you ever wondered how NASA manages to achieve all the incredible missions it does, like probing the Sun and studying the history of our Universe? We do it through teamwork, one of our core values. And an essential part of NASA’s team is what we call [&#8230;] 
 
 <br> 
 
@@ -373,7 +457,7 @@ date: 2025-04-08, updated: 2025-04-08, from: The Register (UK I.T. News)
 
 date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
 
-<h4>Microsoft celebrates 50 years with, sigh, AI</h4> <p>Microsoft used its 50th birthday to announce a slew of new Copilot features, many of which will be eerily familiar to anyone who&#39;s used rival AI platforms.…</p> 
+<h4>And Vision will &#39;read&#39; your screen and interact with the content, says Microsoft</h4> <p>Microsoft used its 50th birthday to announce a slew of new Copilot features, many of which will be eerily familiar to anyone who&#39;s used rival AI platforms.…</p> 
 
 <br> 
 

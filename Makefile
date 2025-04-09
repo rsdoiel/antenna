@@ -27,7 +27,7 @@ endif
 
 PROJECT = Antenna
 
-section_names = north_america socal_north pacific ham_radio science_and_technology columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft snapshots
+section_names = north_america socal_north pacific ham_radio science_and_technology columns weather writing games journalism libraries home parks motorcycles retro_computing health going_electric food craft small_papers snapshots
 
 md_files = $(addsuffix .md,$(section_names))
 
@@ -108,8 +108,11 @@ retro_computing: .FORCE
 going_electric: .FORCE
 	-skimmer going_electric.txt
 
-science_and_technology:
-	- skimmer science_and_technology.txt
+science_and_technology: .FORCE
+	-skimmer science_and_technology.txt
+
+small_papers: .FORCE
+	-skimmer small_papers.txt
 
 markdown: $(md_files)
 
@@ -183,6 +186,8 @@ clean: .FORCE
 	-rm health.html 2>/dev/null
 	-rm snapshots.md 2>/dev/null
 	-rm snapshots.html 2>/dev/null
+	-rm small_papers.md 2>/dev/null
+	-rm small_papers.html 2>/dev/null
 	cd archives && make clean
 
 CITATION.cff: .FORCE

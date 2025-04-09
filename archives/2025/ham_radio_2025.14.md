@@ -1,11 +1,39 @@
 ---
 title: ham radio
-updated: 2025-04-09 06:07:55
+updated: 2025-04-09 09:34:20
 ---
 
 # ham radio
 
-(date: 2025-04-09 06:07:55)
+(date: 2025-04-09 09:34:20)
+
+---
+
+## A high-performance current source
+
+date: 2025-04-09, from: EDN Blog
+
+<img width="1091" height="518" src="https://www.edn.com/wp-content/uploads/Figure-1_CP_current-source.png?fit=1091%2C518" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Figure-1_CP_current-source.png?w=1091 1091w, https://www.edn.com/wp-content/uploads/Figure-1_CP_current-source.png?w=300 300w, https://www.edn.com/wp-content/uploads/Figure-1_CP_current-source.png?w=768 768w, https://www.edn.com/wp-content/uploads/Figure-1_CP_current-source.png?w=1024 1024w" sizes="(max-width: 1091px) 100vw, 1091px" /><p>Investigating potential power current sources capable of handling both AC and DC currents using the LM317 current source.</p>
+<p>The post <a href="https://www.edn.com/a-high-performance-current-source/">A high-performance current source</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/a-high-performance-current-source/>
+
+---
+
+## FPGA learning made easy with a virtual university program
+
+date: 2025-04-09, from: EDN Blog
+
+<img width="1312" height="874" src="https://www.edn.com/wp-content/uploads/Hero-image-Altera-University.png?fit=1312%2C874" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Hero-image-Altera-University.png?w=1312 1312w, https://www.edn.com/wp-content/uploads/Hero-image-Altera-University.png?w=300 300w, https://www.edn.com/wp-content/uploads/Hero-image-Altera-University.png?w=768 768w, https://www.edn.com/wp-content/uploads/Hero-image-Altera-University.png?w=1024 1024w" sizes="auto, (max-width: 1312px) 100vw, 1312px" /><p>Program users will have access to the latest tools and resources to quickly develop FPGA-centric designs.</p>
+<p>The post <a href="https://www.edn.com/fpga-learning-made-easy-with-a-virtual-university-program/">FPGA learning made easy with a virtual university program</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
+ 
+
+<br> 
+
+<https://www.edn.com/fpga-learning-made-easy-with-a-virtual-university-program/>
 
 ---
 
@@ -13,7 +41,7 @@ updated: 2025-04-09 06:07:55
 
 date: 2025-04-09, from: EDN Blog
 
-<img width="1200" height="900" src="https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?fit=1200%2C900" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" fetchpriority="high" srcset="https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=1200 1200w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=1024 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /><p>It's the latest wireless technology to hit automotive, helping OEMs to meet safety regulations, introduce new features, and even cut costs.</p>
+<img width="1200" height="900" src="https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?fit=1200%2C900" class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=1200 1200w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=300 300w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=768 768w, https://www.edn.com/wp-content/uploads/Fig-1-UWB-Car-Access-NXP.png?w=1024 1024w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /><p>It's the latest wireless technology to hit automotive, helping OEMs to meet safety regulations, introduce new features, and even cut costs.</p>
 <p>The post <a href="https://www.edn.com/the-transformative-force-of-ultra-wideband-uwb-radar/">The transformative force of ultra-wideband (UWB) radar</a> appeared first on <a href="https://www.edn.com">EDN</a>.</p>
  
 

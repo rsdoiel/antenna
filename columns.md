@@ -1,11 +1,23 @@
 ---
 title: columns
-updated: 2025-04-09 06:07:56
+updated: 2025-04-09 09:34:22
 ---
 
 # columns
 
-(date: 2025-04-09 06:07:56)
+(date: 2025-04-09 09:34:22)
+
+---
+
+##  Speedrunning Economic Collapse for Funsies 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/speedrunning-economic-collapse-for-funsies>
 
 ---
 

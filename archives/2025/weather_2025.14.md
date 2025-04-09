@@ -1,11 +1,11 @@
 ---
 title: weather
-updated: 2025-04-09 06:07:56
+updated: 2025-04-09 09:34:22
 ---
 
 # weather
 
-(date: 2025-04-09 06:07:56)
+(date: 2025-04-09 09:34:22)
 
 ---
 
@@ -21,11 +21,53 @@ The Eastern North Pacific hurricane season runs from May 15th through November 3
 
 ---
 
-## SPC - No watches are valid as of Wed Apr  9 12:39:01 UTC 2025
+## SPC Apr 9, 2025 1630 UTC Day 1 Convective Outlook
 
 date: 2025-04-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No watches are valid as of Wed Apr  9 12:39:01 UTC 2025. 
+<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
+Day 1 Convective Outlook  
+NWS Storm Prediction Center Norman OK
+1115 AM CDT Wed Apr 09 2025
+
+Valid 091630Z - 101200Z
+
+...NO SEVERE THUNDERSTORM AREAS FORECAST...
+
+...SUMMARY...
+Isolated thunderstorms may occur today and tonight from parts of the
+northern/central Plains into the Midwest and Ohio Valley. Severe
+thunderstorms are not expected.
+
+...Synopsis and Discussion...
+Multiple low-amplitude, mid-level shortwave troughs are forecast to
+develop east-southeastward today and tonight from parts of the
+northern/central Plains into the Midwest and OH Valley. Rather
+meager/shallow low-level moisture will tend to limit thunderstorm
+coverage and intensity across these regions. Even so, sufficient
+large-scale ascent and weak MUCAPE may still support isolated
+convection capable of producing lightning through the period.
+Occasional strong/gusty winds may occur with high-based
+thunderstorms across parts of SD/NE this afternoon, but organized
+severe thunderstorms are not forecast.
+
+..Gleason/Lyons.. 04/09/2025
+
+</pre>
+<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
+ 
+
+<br> 
+
+<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
+
+---
+
+## SPC - No watches are valid as of Wed Apr  9 16:20:02 UTC 2025
+
+date: 2025-04-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
+
+No watches are valid as of Wed Apr  9 16:20:02 UTC 2025. 
 
 <br> 
 
@@ -33,11 +75,11 @@ No watches are valid as of Wed Apr  9 12:39:01 UTC 2025.
 
 ---
 
-## SPC - No MDs are in effect as of Wed Apr  9 12:39:01 UTC 2025
+## SPC - No MDs are in effect as of Wed Apr  9 16:20:02 UTC 2025
 
 date: 2025-04-09, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
 
-No Mesoscale Discussions are in effect as of Wed Apr  9 12:39:01 UTC 2025. 
+No Mesoscale Discussions are in effect as of Wed Apr  9 16:20:02 UTC 2025. 
 
 <br> 
 
@@ -417,59 +459,6 @@ precluding fire weather highlights.
 <br> 
 
 <https://www.spc.noaa.gov/products/fire_wx/fwdy1.html>
-
----
-
-## SPC Apr 8, 2025 1630 UTC Day 1 Convective Outlook
-
-date: 2025-04-08, from: NOAA tornado/severe thunderstorm watches, mesoscale discussions, convective outlooks, fire weather outlooks
-
-<br /><a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html"><img src="https://www.spc.noaa.gov/products/outlook/day1otlk.gif" border="1" alt="Day 1 Outlook Image" hspace="1" vspace="1" width="815" height="555" align="center" /></a><pre>
-Day 1 Convective Outlook  
-NWS Storm Prediction Center Norman OK
-1122 AM CDT Tue Apr 08 2025
-
-Valid 081630Z - 091200Z
-
-...NO SEVERE THUNDERSTORM AREAS FORECAST...
-
-...SUMMARY...
-While organized severe storms are unlikely, isolated strong storms
-may occur over far southern Florida and the Keys through early
-evening, and perhaps also across southeast Montana to the Black
-Hills.
-
-...South Florida/Keys...
-A cold front will continue to progress southeastward and move
-offshore by evening with scattered showers and thunderstorms
-continuing this afternoon ahead of it. While a couple of stronger
-storms could occur this afternoon through early evening, poor
-mid-level lapse rates and weak deep-layer shear should mitigate
-overall storm strength. A positively tilted shortwave trough will
-approach the region later tonight. But with the front having
-progressed offshore, thunderstorm potential (including any severe
-risk) over land should remain very low.
-
-...North-central High Plains..
-A shortwave trough is forecast to move from the northern Rockies
-into the southern Canadian Prairies, while moderate mid-level flow
-expands eastward from the Pacific Northwest into the northern High
-Plains. Widely scattered high-based convection is possible during
-the afternoon and evening from southeast Montana/northern Wyoming to
-the Black Hills as modest large-scale ascent influences areas that
-have destabilized amid boundary-layer heating. Weak buoyancy should
-temper overall updraft strength, but a few instances of
-stronger/gusty thunderstorm winds may occur.
-
-..Guyer/Lyons.. 04/08/2025
-
-</pre>
-<a href="https://www.spc.noaa.gov/products/outlook/day1otlk.html">Read more</a>
- 
-
-<br> 
-
-<https://www.spc.noaa.gov/products/outlook/day1otlk_1630.html>
 
 ---
 

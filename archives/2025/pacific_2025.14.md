@@ -1,11 +1,23 @@
 ---
 title: pacific
-updated: 2025-04-09 06:07:55
+updated: 2025-04-09 09:34:20
 ---
 
 # pacific
 
-(date: 2025-04-09 06:07:55)
+(date: 2025-04-09 09:34:20)
+
+---
+
+## Guam boosts vaccine drive amid US measles outbreak 
+
+date: 2025-04-09, from: Pacific Island Times
+
+While Guam currently has zero measles cases, Public Health Director Theresa C. Arriola warned about the island’s “unique position as a trans 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-boosts-vaccine-drive-amid-us-measles-outbreak>
 
 ---
 

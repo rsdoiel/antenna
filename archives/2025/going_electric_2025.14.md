@@ -1,11 +1,107 @@
 ---
 title: going electric
-updated: 2025-04-09 06:07:59
+updated: 2025-04-09 09:34:26
 ---
 
 # going electric
 
-(date: 2025-04-09 06:07:59)
+(date: 2025-04-09 09:34:26)
+
+---
+
+## Icon's Ford Bronco Proves Old Cars Can Have The Latest EV Tech
+
+date: 2025-04-09, from: Inside EVs News
+
+Forget what you know about battery-swapped electric restomods. Icon's new Bronco even has OTA updates. 
+
+<br> 
+
+<https://insideevs.com/news/756016/icon-ford-bronco-nelson/>
+
+---
+
+## CEC’s Electrification Summit Builds Clean Energy Partnerships Among Policy Leaders, Manufacturers, and Utilities 
+
+date: 2025-04-09, from: California Energy Blog
+
+By Media Office Staff More than 500 people came together in the California Natural Resources Agency Headquarters Building in Sacramento... 
+
+<br> 
+
+<https://www.calenergyblog.com/post/cec-s-electrification-summit-builds-clean-energy-partnerships-among-policy-leaders-manufacturers-a>
+
+---
+
+## Tesla sales are down in every single European country except the UK, here’s why
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Tesla-Model-Y-refreshed-interior-1.png?w=1600" /></div><p>Tesla sales were down in every European country except for the UK in the first quarter, and there’s a reason why.</p>
+
+
+
+<p>That’s while electric vehicle sales are still booming in Europe.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="410514" href="https://electrek.co/2025/04/09/tesla-sales-are-down-in-every-single-european-country-except-the-uk-heres-why/#more-410514" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/tesla-sales-are-down-in-every-single-european-country-except-the-uk-heres-why/>
+
+---
+
+## Kia’s first electric sedan is almost here, but plenty more EVs are on the way
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Kia-EV4-orders-Korea-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>That <a href="https://electrek.co/guides/kia/">Kia</a> EV sedan we’ve been waiting for is almost here. Kia also confirmed it will launch a midsize pickup in North America. Next week, three new Kia vehicles, including the EV4, its first electric sedan, will debut at the New York International Auto Show. Here’s what to expect.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev4" data-layer-viewtype="unknown" data-post-id="410507" href="https://electrek.co/2025/04/09/kias-first-electric-sedan-almost-here-more-evs-on-the-way/#more-410507" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/kias-first-electric-sedan-almost-here-more-evs-on-the-way/>
+
+---
+
+## Lectron's Tesla Supercharger Adapter May Be In Big Trouble
+
+date: 2025-04-09, from: Inside EVs News
+
+The adapter is helping open up Tesla Supercharger access to the masses. Now it could get caught up in tariff crossfire. 
+
+<br> 
+
+<https://insideevs.com/news/756076/electron-tesla-supercharger-adapter-tariff-trouble/>
+
+---
+
+## Kia Is Making An Electric Truck For America
+
+date: 2025-04-09, from: Inside EVs News
+
+The unnamed EV should hit the market by 2030. 
+
+<br> 
+
+<https://insideevs.com/news/756073/kia-electric-pickup-north-america/>
+
+---
+
+## The Unexpected Rival Stealing Tesla’s Customers
+
+date: 2025-04-09, from: Inside EVs News
+
+With blood in the water at Tesla, the Volkswagen Group is moving in. Plus: BYD surges, and South Korea plans a tariff rescue.  
+
+<br> 
+
+<https://insideevs.com/news/756069/tesla-vw-byd-sales-korea/>
 
 ---
 
@@ -41,7 +137,7 @@ date: 2025-04-09, from: Electrek Feed
 
 ---
 
-## The Tesla Model Y Is Now $11,000 Cheaper In The U.S.
+## The New Tesla Model Y Is Now $11,000 Cheaper In The U.S.
 
 date: 2025-04-09, from: Inside EVs News
 

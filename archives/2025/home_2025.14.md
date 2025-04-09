@@ -1,11 +1,102 @@
 ---
 title: home
-updated: 2025-04-09 06:07:58
+updated: 2025-04-09 09:34:24
 ---
 
 # home
 
-(date: 2025-04-09 06:07:58)
+(date: 2025-04-09 09:34:24)
+
+---
+
+## For $900K, You Can Nab a Ray Kappe Condo in the Hollywood Hills
+
+date: 2025-04-09, from: Dwell
+
+The historic two-story home has double-height windows, original wood paneling, and three separate patios. 
+
+<br> 
+
+<https://www.dwell.com/article/hollywood-hills-ray-kappe-condo-real-estate-ec4ebd49>
+
+---
+
+## How One State Plans to Force Repeat Speeders to Slow Down
+
+date: 2025-04-09, from: Family Handyman Blog
+
+<p>Everyone is guilty of speeding from time to time. But one state is considering harsher penalties for frequent speeders. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/virginia-speed-limiter-law/">How One State Plans to Force Repeat Speeders to Slow Down</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/virginia-speed-limiter-law/>
+
+---
+
+## The 10 Colors Everyone’s Painting Their Homes in 2025
+
+date: 2025-04-09, from: Family Handyman Blog
+
+<p>Explore the top exterior paint colors for 2025 to find the perfect shade for your next painting project.</p>
+<p>The post <a href="https://www.familyhandyman.com/list/best-exterior-house-colors/">The 10 Colors Everyone’s Painting Their Homes in 2025</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/list/best-exterior-house-colors/>
+
+---
+
+## 40 Shrubs with Purple Flowers (With Pictures and Names)
+
+date: 2025-04-09, from: Yard Life blog
+
+<p>Purple is a color often associated with elegance, mystery, and charm — and in the garden, it never fails to ... </p>
+<p class="read-more-container"><a title="40 Shrubs with Purple Flowers (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/40-shrubs-with-purple-flowers-with-pictures-and-names/#more-26706" aria-label="Read more about 40 Shrubs with Purple Flowers (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/40-shrubs-with-purple-flowers-with-pictures-and-names/">40 Shrubs with Purple Flowers (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/40-shrubs-with-purple-flowers-with-pictures-and-names/>
+
+---
+
+## How They Pulled It Off: A Reclaimed Wood Countertop at the Heart of a Kitchen Renovation
+
+date: 2025-04-09, from: Dwell
+
+A slab sourced from a bowling alley in upstate New York makes for a durable, history-filled surface in this Brooklyn home. 
+
+<br> 
+
+<https://www.dwell.com/article/mattaforma-ditmas-park-reclaimed-wood-kitchen-counter-4254b719>
+
+---
+
+## Travel Hacks That Will Save You Time and Money
+
+date: 2025-04-09, from: Sunset Magazine - Living in the West
+
+Must-know tricks for every traveler 
+
+<br> 
+
+<https://www.sunset.com/syndication/the-best-travel-hacks>
+
+---
+
+## These Are Hands Down the Best Bathing Suits for Adventurous Swimmers
+
+date: 2025-04-09, from: Sunset Magazine - Living in the West
+
+These stylish swimsuits stay put while swimming, surfing, and being active, and will make a splash this season. 
+
+<br> 
+
+<https://www.sunset.com/lifestyle/shopping/most-comfortable-womens-swimsuits>
 
 ---
 

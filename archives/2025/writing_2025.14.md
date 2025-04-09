@@ -1,11 +1,116 @@
 ---
 title: writing
-updated: 2025-04-09 06:07:57
+updated: 2025-04-09 09:34:22
 ---
 
 # writing
 
-(date: 2025-04-09 06:07:57)
+(date: 2025-04-09 09:34:22)
+
+---
+
+## Write On: Big Break 2024 Grand Prize Winners Laura Kroeger and Maia Mulcahy
+
+date: 2025-04-09, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-big-break-grand-prize-winners" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Big%20Break%20Grand%20Prize%20Winners%20Laura%20Kroeger%20and%20Maia%20Mulcahy%20Talk%20About%20What%20Winning%20a%20Screenwriting%20Competition%20is%20Really%20Like%20%281%29.png" alt="Write On Logo of a cell phone with headphones around it. In the cell phone sits an image of Big Break Winners Laura Kroeger and Maia Mulcahy wearing dazzling dresses, on the red carpet at the WGA Awards" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>“I think it was more like a litmus test of, where is the script? How would it be received? With this script, I was a quarter finalist in some competitions, and this was obviously the most exciting, the winning… I just wanted to really put my best foot forward, and with this script, I was like, okay, I actually feel like I’m confident and ready,” says Maia Mulcahy, Grand Prize TV winner of the 2024 Final Draft Big Break Contest.<br><br>In this episode hosted by screenwriting career coach Lee Jessup, <a href="https://www.finaldraft.com/big-break-screenwriting-contest/">Final Draft Big Break Contest</a> 2024 Grand Prize winners Laura Kroeger and Maia Mulcahy talk about working in the industry, writers’ groups and mentors, and the ups and downs of submitting to and winning a respected screenwriting competition.<br><br>Laura Kroeger won the Feature Film category for her dramatic feature script “Bigger in Texas,” which follows a wealthy woman in Texas who loses everything and, with a partner, blackmails powerful men by exploiting a real law in Texas that limits the amount of sex toys a person can own.&nbsp;<br><br>Maia Mulcahy won the TV category for her half-hour comedy “Fountain of Ruth,” which follows an older couple in a special retirement community after the wife gets de-aged but the husband opts out at the last minute, and are now faced with this big new challenge in their relationship.<br><br>Kroeger says, of the value of screenwriting contests for someone who lives outside of LA:<br><br>“For me, I don’t live in LA, and so my way into the industry had to be different. I knew that contests were going to be a big part of me being able to demonstrate that I had ability when I didn’t necessarily have the network, or the ability to run into somebody at the supermarket or a bar or restaurant, and make those connections. So, I did use contests. I use them judiciously. I did a lot of research on what contests were worthwhile. Both their prize packages as well as their reputation. So if I placed in them, maybe if I didn’t quite win them, that would still mean something in the industry.”<br><br>To hear more, watch the <a href="https://www.youtube.com/watch?v=QdPXPKciXOs">podcast</a>.&nbsp;</p> 
+<div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0px; max-width: 256px; min-width: 256px; display: block; margin: auto;"> 
+ <div class="hs-embed-content-wrapper"> 
+  <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 56.25%; margin: 0px;">  
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-big-break-grand-prize-winners>
+
+---
+
+## How to Handle Screenwriting Rejection Like a Pro
+
+date: 2025-04-09, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/how-to-handle-screenwriting-rejection-like-a-pro" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/A%20finger%20tapping%20on%20a%20wooden%20block%20that%20has%20a%20red%20X%20through%20the%20middle.%20A%20green%20checkmark%20block%20lays%20out%20of%20focus%20in%20the%20background.png" alt="A finger tapping on a wooden block that has a red 'X' through the middle. A green checkmark block lays out of focus in the background" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Nobody likes rejection. It doesn’t feel good. It creates an immediate negative emotional and physical response. A study from the University of Amsterdam found that unexpected social rejection triggers the parasympathetic nervous system, which governs our body’s “rest and digest” functions. Unlike the “fight or flight” response, which heightens alertness, rejection causes our heart rate to slow, leading to feelings of disorientation, sadness, and even physical lethargy.<br><br>Rejection is not fun and never will be, no matter what the situation.&nbsp;<br><br>However, rejection is also a powerful tool that you can use to become a better you — <span style="font-weight: bold;">and</span> a better screenwriter. A not-so-famous and moderately successful pro screenwriter (yours truly) once said, <em>“You have to fail before you can prevail.”</em> It’s a quote that I live by in my career.&nbsp;<br><br>I’ve learned to thrive through rejection. It still sucks, but you can turn it into the necessary motivation to help you become not just a better and stronger screenwriter, but also a better and stronger person. Here we’ll cover how you can handle screenwriting rejection like a pro. But before we do…&nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/how-to-handle-screenwriting-rejection-like-a-pro>
+
+---
+
+## Write On: 'Dying for Sex' Co-Creator & Co-Showrunner Kim Rosenstock
+
+date: 2025-04-09, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/write-on-dying-for-sex-co-creator-co-showrunner-kim-rosenstock" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Write%20On%20Dying%20for%20Sex%20Co-Creator%20%26%20Co-Showrunner%20Kim%20Rosenstock-1.png" alt="Write On logo of a cell phone with headphones around it featuring the main poster of 'Dying for Sex' with Michelle Williams lying on a bed" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>On today’s episode of Write On, we chat with Kim Rosenstock, co-creator and co-showrunner for the new limited series, <em>Dying For Sex</em>, starring Michelle Williams, Jenny Slate and Sissy Spacek.&nbsp;<br><br>Based on a true story, <em>Dying for Sex</em> is about a woman diagnosed with metastatic breast cancer who abandons her husband of 15 years to begin a journey of sexual discovery.<br><br>Rosenstock talks about her background as a playwright, nearly missing out on the opportunity to write for the hit show <em>New Girl</em>, and navigating the complicated tone of <em>Dying For Sex</em> that balances a woman having unconventional, often hilarious sexual escapades with facing her own mortality.&nbsp;<br><br>“We need humor the most as human beings, so don’t be afraid of injecting humor and joy and levity into these sort of subject matters… If you have the impulse to make it funny or to make it feel joyful or hopeful, lean into that and don’t be afraid of it. I also think that is what makes it feel real, actually. To me, that makes it feel more honest, not the other way around… I think what’s exciting is that audiences are embracing these kinds of stories that can kind of go into darker and lighter places at the same time,” says Rosenstock about mixing joy and sadness in <em>Dying For Sex</em>.&nbsp;<br><br>To hear more, listen to the podcast. Please be advised the interview includes discussion of sexual abuse.&nbsp;<br><br><em>Dying for Sex</em> is currently streaming on Hulu.&nbsp;</p> 
+<div> 
+ <br> 
+ <div> 
+  <div class="hs-embed-wrapper" style="position: relative; overflow: hidden; width: 100%; height: auto; padding: 0; max-width: 880px; min-width: 256px; display: block; margin: auto;"> 
+   <div class="hs-embed-content-wrapper"> 
+    <div style="position: relative; overflow: hidden; max-width: 100%; padding-bottom: 35%; margin: 0px;">  
+    </div> 
+   </div> 
+  </div> 
+ </div> 
+</div> 
+
+<br> 
+
+<https://blog.finaldraft.com/write-on-dying-for-sex-co-creator-co-showrunner-kim-rosenstock>
+
+---
+
+## Lessons for Screenwriters from CinemaCon 2025
+
+date: 2025-04-09, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/lessons-for-screenwriters-from-cinemacon-2025" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/David%20Corenswet%20wearing%20his%20Superman%20costume%2c%20strapped%20down%20on%20a%20table%2c%20screaming%20as%20he%20absorbs%20sunlight.%20He%20is%20surrounded%20by%20creatures%20in%20Superman.png" alt="David Corenswet wearing his Superman costume, strapped down on a table, screaming as he absorbs sunlight. He is surrounded by creatures in Superman" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>Since 2011, <a href="https://cinemacon.com/">CinemaCon</a> has transformed Las Vegas into the movie industry’s ultimate insider gathering each year, drawing studios, stars, and distributors for a glimpse at Hollywood’s coming attractions.&nbsp;<br><br>The event is the official convention of the <a href="https://cinemaunited.org/">Cinema United</a>, formerly The National Association of Theatre Owners. Obviously, the organization is focused on getting people into theaters to watch movies on the big screen. Hey, that’s my preference, too.<br><br>Think of it as a massive trade show where industry players reveal their cards for the months ahead. While there are plenty of <a href="https://deadline.com/2025/04/tom-cruise-mission-impossible-cinemacon-1236358190/">celebrities plugging their latest</a> and big trailer premieres, screenwriters should pay attention to what’s happening amidst the glitz. There’s value in understanding which genres and stories are actually (hopefully) selling tickets. Smart writers can take these insights to position their work in Hollywood.&nbsp;<br><br>So here are some of the key lessons we noticed this year.</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/lessons-for-screenwriters-from-cinemacon-2025>
+
+---
+
+## Haldeman Receives Inaugural Arthur C. Clarke Memorial Award
+
+date: 2025-04-09, from: Locus Magazine
+
+<p>The National Space Society (NSS) has announced Joe Haldeman as recipient of the inaugural Arthur C. Clarke Memorial Award &#8220;for inspiring and educating the public about humanity’s journey to space.&#8221;</p>
+<p>Haldeman will also be a featured guest at the 43rd International Space Development Conference (ISDC) to be held June 19-22, 2025 at the Rosen Centre Hotel in Orlando FL. For more information, see the official announcement.</p>
+
+<p><strong>While you are here,</strong> <a href="https://locusmag.com/2025/04/haldeman-receives-inaugural-arthur-c-clarke-memorial-award/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/haldeman-receives-inaugural-arthur-c-clarke-memorial-award/>
+
+---
+
+## Asimov’s: Short Fiction Reviews by A.C. Wise
+
+date: 2025-04-09, from: Locus Magazine
+
+<p>Asimov’s 1-2/25</p>
+<p>The January/February issue of Asimov’s opens with “<strong>In the Splinterlands the Crows Fly Blind</strong>” by <strong>Siobhan Carroll</strong>, a novelette full of gorgeous imagery and excellent worldbuilding. When Charlie’s younger brother Gabe goes missing, he initially tries to wash his hands of the situation. He’s spent a lifetime caring for Gabe, finding them a new home on Earth 3, and he’s done cleaning up after his  <a href="https://locusmag.com/2025/04/asimovs-short-fiction-reviews-by-a-c-wise-4/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/asimovs-short-fiction-reviews-by-a-c-wise-4/>
 
 ---
 

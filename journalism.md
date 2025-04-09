@@ -1,11 +1,25 @@
 ---
 title: journalism
-updated: 2025-04-09 06:07:57
+updated: 2025-04-09 09:34:23
 ---
 
 # journalism
 
-(date: 2025-04-09 06:07:57)
+(date: 2025-04-09 09:34:23)
+
+---
+
+## Student-run journal Cul-de-sac gears up for spring edition
+
+date: 2025-04-09, from: The Canyon News (COC Student Newspaper)
+
+<p>Cul-Da-Sac makes an appearance when they publish the Creative Literary Arts magazine&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/cul-da-sac/">Student-run journal Cul-de-sac gears up for spring edition</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/cul-da-sac/>
 
 ---
 

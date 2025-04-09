@@ -1,11 +1,85 @@
 ---
 title: snapshots
-updated: 2025-04-09 06:08:01
+updated: 2025-04-09 09:34:28
 ---
 
 # snapshots
 
-(date: 2025-04-09 06:08:01)
+(date: 2025-04-09 09:34:28)
+
+---
+
+## Inside a Powerful Database ICE Uses to Identify and Deport People
+
+date: 2025-04-09, from: 404 Media Group
+
+The database allows filtering according to hundreds of different categories, including visa status, “unique physical characteristics (e.g. scars, marks, tattoos),” “criminal affiliation,” license plate reader data, and more. 
+
+<br> 
+
+<https://www.404media.co/inside-a-powerful-database-ice-uses-to-identify-and-deport-people/>
+
+---
+
+## Zero-config Debugging with Deno and OpenTelemetry
+
+date: 2025-04-09, updated: 2025-04-09, from: Deno blog
+
+Debugging requires implementation to get the right data for you to resolve issues quickly. Here's how you can use Deno to capture necessary telemetry data without any additional work. 
+
+<br> 
+
+<https://deno.com/blog/zero-config-debugging-deno-opentelemetry>
+
+---
+
+## Live with Paul Krugman: the convulsions of the Trump tariffs
+
+date: 2025-04-09, from: Paul Krugman
+
+A recording from Paul Krugman and Harry Litman's live video 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160794793/617b4914633244fbeb3968e89c257eaa.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160794793/617b4914633244fbeb3968e89c257eaa.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://paulkrugman.substack.com/p/live-with-paul-krugman-the-convulsions>
+
+---
+
+## How to Build a Personal Board of Directors
+
+date: 2025-04-09, from: Guy Kawasaki blog
+
+Surround yourself with the right people to level up. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/how-to-build-a-personal-board-of>
+
+---
+
+## Car-Free in Tempe
+
+date: 2025-04-09, updated: 2025-04-09, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/09/car-free-in-tempe/>
+
+---
+
+## U.S. Army Says It Could Acquire Targets Faster With ‘Advanced AI’
+
+date: 2025-04-09, from: 404 Media Group
+
+The Pentagon is working to incorporate AI into everything and it has given investigators a status update. 
+
+<br> 
+
+<https://www.404media.co/u-s-army-says-it-could-acquire-targets-faster-with-advanced-ai/>
 
 ---
 

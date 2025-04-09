@@ -1,11 +1,61 @@
 ---
 title: north america
-updated: 2025-04-09 06:07:54
+updated: 2025-04-09 09:34:18
 ---
 
 # north america
 
-(date: 2025-04-09 06:07:54)
+(date: 2025-04-09 09:34:18)
+
+---
+
+## Here’s why Trump ignores traditional media: He has his own media ecosystem now.
+
+date: 2025-04-09, from: The Contrarian
+
+And Democrats not only don't have the same network, but they don't seem interested in building one. 
+
+<br> 
+
+<https://contrarian.substack.com/p/heres-why-trump-ignores-traditional>
+
+---
+
+## Democratic and Republican Lawmakers Work to Undermine Voter-Backed Wage and Sick Leave Laws
+
+date: 2025-04-09, from: Capital and Main
+
+<p>Legislators from both parties and in multiple states are rolling back wage hikes and paid sick leave policies approved by voters.</p>
+<p>The post <a href="https://capitalandmain.com/democratic-and-republican-lawmakers-work-to-undermine-voter-backed-wage-and-sick-leave-laws">Democratic and Republican Lawmakers Work to Undermine Voter-Backed Wage and Sick Leave Laws</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/democratic-and-republican-lawmakers-work-to-undermine-voter-backed-wage-and-sick-leave-laws>
+
+---
+
+## The Trump administration is gutting the rights of federal workers in unions.
+
+date: 2025-04-09, from: The Contrarian
+
+Here&#8217;s why that matters to all of us. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-trump-administration-is-gutting>
+
+---
+
+## Coffee with The Contrarians 04/09
+
+date: 2025-04-09, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/09 
+
+<br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0409>
 
 ---
 
@@ -16,8 +66,8 @@ date: 2025-04-09, from: The Contrarian
 On Monday, the Supreme Court delivered a 5-4 ruling allowing the Trump administration to continue its horrendous deportations. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160896567/6f5f1f0a79377e2df12b722bb477d210.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160896567/6f5f1f0a79377e2df12b722bb477d210.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160896567/9358adde8021c38c7e9b0a20f0a33fb2.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160896567/9358adde8021c38c7e9b0a20f0a33fb2.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/andrew-weissmann-and-jen-rubin-on-7a3>
 
@@ -66,8 +116,8 @@ date: 2025-04-08, from: The Contrarian
 In November 2024, Allison Riggs was elected to retain her seat on the North Carolina Supreme Court. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160893311/f147e692d88b15da7697661dd38a6449.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160893311/f147e692d88b15da7697661dd38a6449.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160893311/7ec2b697560c22f7384723ef111ce854.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160893311/7ec2b697560c22f7384723ef111ce854.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/north-carolina-supreme-court-justice>
 
@@ -92,8 +142,8 @@ date: 2025-04-08, from: The Contrarian
 A recording from Let's Do Lunch 04/08 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160875470/e2c039ef6445c099bea7187604b93064.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160875470/e2c039ef6445c099bea7187604b93064.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160875470/651df7baae8cb1e92b9e0083bbe43783.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160875470/651df7baae8cb1e92b9e0083bbe43783.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/lets-do-lunch-with-jared-bernstein>
 
@@ -106,8 +156,8 @@ date: 2025-04-08, from: The Contrarian
 Mass protests have erupted across Turkey following the arrest of Istanbul Mayor Ekrem Imamoglu, a leading opposition figure expected to be named a presidential candidate. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160819143/fcef6c761584952cb4a85a1f0b057bdb.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160819143/fcef6c761584952cb4a85a1f0b057bdb.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160819143/57be8df50caece30d26055c5110c2529.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160819143/57be8df50caece30d26055c5110c2529.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/asl-aydntasbas-and-jen-rubin-on-turkeys>
 
@@ -194,8 +244,8 @@ date: 2025-04-08, from: The Contrarian
 Adam Kinzinger is a former (a word he relishes) member of Congress from Illinois and was one of two Republican members who sat on the January 6th Committee. 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160825641/2677836c60ccb4e69feb88cb6050f7e2.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160825641/2677836c60ccb4e69feb88cb6050f7e2.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160825641/262c193ae7c4236f2f09913c3ba126e5.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160825641/262c193ae7c4236f2f09913c3ba126e5.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/adam-kinzinger-and-jen-rubin>
 
@@ -317,8 +367,8 @@ date: 2025-04-07, from: The Contrarian
 &#8220;We&#8217;re seeing so much B.S. on sports from this White House that it infuriates anyone who actually knows sports&#8221; 
 
 <audio crossorigin="anonymous" controls="controls">
-<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160816416/49fb4c5dc3f67863f3fac1a558f31256.mp3"></source>
-</audio> <a href="https://api.substack.com/feed/podcast/160816416/49fb4c5dc3f67863f3fac1a558f31256.mp3" target="_blank">download audio/mpeg</a><br> 
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160816416/6f2a2ee8e8188f30f6f6974ecf0f467d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160816416/6f2a2ee8e8188f30f6f6974ecf0f467d.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/take-your-ball-and-go-home-sportswriter>
 

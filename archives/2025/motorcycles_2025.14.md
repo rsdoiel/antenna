@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-04-09 06:07:59
+updated: 2025-04-09 09:34:25
 ---
 
 # motorcycles
 
-(date: 2025-04-09 06:07:59)
+(date: 2025-04-09 09:34:25)
+
+---
+
+## The Top Non-Ducati In MotoGP Right Now Is Ridden By This Talented Rookie
+
+date: 2025-04-09, from: Ride Apart, Electric Motorcycle News
+
+We're only six races into what looks like an unbelievable season, and Ai Ogura is a force to be reckoned with. 
+
+<br> 
+
+<https://www.rideapart.com/news/756013/ai-ogura-motogp-top-rookie/>
+
+---
+
+## Watch as a Snowmobiler Triggers an Avalanche, This Was Right Near My House
+
+date: 2025-04-09, from: Ride Apart, Electric Motorcycle News
+
+Hey mom, I can see my house from here! 
+
+<br> 
+
+<https://www.rideapart.com/news/755995/snowmobile-triggers-avalanche-video-fail/>
 
 ---
 

@@ -1,11 +1,119 @@
 ---
 title: games
-updated: 2025-04-09 06:07:57
+updated: 2025-04-09 09:34:23
 ---
 
 # games
 
-(date: 2025-04-09 06:07:57)
+(date: 2025-04-09 09:34:23)
+
+---
+
+## ‘We’re firing from the hip a lot here’: Path of Exile 2 devs address its most disastrous update
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Path of Exile 2 Dawn of the Hunt — its first major update since it launched in early access last year — has been a disaster. When players logged in last Friday to try it out, they immediately realized the game had become almost comically difficult. Killing weak monsters in the opening hours of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/555208/path-of-exile-2-dawn-of-the-hunt-rebalance-fix-update>
+
+---
+
+## Honkai: Star Rail codes for April 2025
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Honkai: Star Rail is Hoyoverse’s latest title added to their mobile (and PC) game lineup, which means that yes, the game has codes that you can redeem for premium currency. In this case, Honkai: Star Rail codes reward Stellar Jade and the usual other goodies — money, EXP, and the like. Below we list out [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/23699079/code-redeem-redemption-gift-stellar-jade>
+
+---
+
+## Should you claim Luocha or Ruan Mei for free in Honkai Star Rail?
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+You’ll have the opportunity to grab a free copy of Luocha or Ruan Mei in Honkai: Star Rail as part of the version 3.2 update. All Star Rail players will be able to claim a Golden Companion Spirit (a new type of currency) between the launch of version 3.2 and the end of version 3.4. [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/honkai-star-rail-guides/554895/should-you-claim-luocha-or-ruan-mei-for-free-in-honkai-star-rail>
+
+---
+
+## Brush up on Marathon’s lore with this awesome fan-made timeline
+
+date: 2025-04-09, updated: 2025-04-08, from: Polygon Website
+
+On Saturday, Bungie is slated to premiere the first gameplay reveal of Marathon, the studio’s upcoming team-based extraction shooter suspected to be released sometime later this year. Marathon is not only Bungie’s first non-Destiny project in more than a decade, but the first new entry in the Marathon franchise in the nearly three decades since [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/gaming/554894/history-of-marathon-timeline-video-essay-jake-the-alright>
+
+---
+
+## The best microSD Express cards for the Switch 2
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+The microSD Express card specification became very popular recently, as Nintendo confirmed the Switch 2 will support that type of removable storage. The console supports up to 2 TB, though 1 TB is the highest capacity currently available at stores. It’s worth noting that the stock of most microSD Express cards is always in flux, [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/what-to-buy/555234/the-best-microsd-express-cards-for-the-switch-2>
+
+---
+
+## Get 3 months of Apple TV Plus for $9
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Apple is offering a rare discount on its ad-free Apple TV Plus streaming service through Thursday, April 24. New and returning subscribers can pay just $2.99 per month for three months (totaling $9) before the price goes back up to its normal $9.99 per month cost. Discounts for Apple TV Plus are typically tied to [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/555512/get-3-months-of-apple-tv-plus-for-9>
+
+---
+
+## Get Turbo Overkill and six other boomer shooters for just $16
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+If you yearn for the “good old days” when taking cover was for cowards, reloading was just a suggestion, and reaching your potential meant shooting a rocket at your own feet, check out this bundle at Humble. Right now, you can pick up a collection of seven retro-inspired shooters for just $16. Some of the [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/good-deals/555179/get-turbo-overkill-and-six-other-boomer-shooters-for-just-16>
+
+---
+
+## The first trailer for Murderbot reveals an awkward cyborg workplace comedy with laser explosions
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+The first images from Murderbot, Apple TV’s adaptation of Martha Wells’ The Murderbot Diaries series, lacked personality. In retrospect, this makes a certain amount of sense; the titular cyborg of the books is, after all, only just learning to express its personality in the first place. In hindsight, this also makes sense because the first [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/trailer/555471/the-first-trailer-for-murderbot-reveals-an-awkward-cyborg-workplace-comedy-with-laser-explosions>
+
+---
+
+## Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows
+
+date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
+
+Assassin’s Creed Shadows players will spend dozens of hours traversing the sprawling provinces of central Japan. Now they’ll be able to turn off their brain during those long treks through the rolling hills of the countryside, thanks to a feature introduced — or should we say, reintroduced to the franchise — in the first proper [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes>
 
 ---
 
@@ -81,18 +189,6 @@ Season 2, the second major content update for Marvel Rivals, is based on the Hel
 
 ---
 
-## ‘There were some blatant fuck-ups’: Path of Exile 2 devs address its most disastrous update
-
-date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
-
-Path of Exile 2 Dawn of the Hunt — its first major update since it launched in early access last year — has been a disaster. When players logged in last Friday to try it out, they immediately realized the game had become almost comically difficult. Killing weak monsters in the opening hours of the [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/news/555208/path-of-exile-2-dawn-of-the-hunt-rebalance-fix-update>
-
----
-
 ## Switch 2 price won’t increase in response to tariffs, analyst says
 
 date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
@@ -102,18 +198,6 @@ One research firms expects the price of Nintendo Switch 2 to hold steady in resp
 <br> 
 
 <https://www.polygon.com/nintendo-switch-2/554889/price-tariffs-analyst-forecast>
-
----
-
-## Thank goodness, they added auto-follow for your horse in Assassin’s Creed Shadows
-
-date: 2025-04-08, updated: 2025-04-08, from: Polygon Website
-
-Assassin’s Creed Shadows players will spend dozens of hours traversing the sprawling provinces of central Japan. Now they’ll be able to turn off their brain during those long treks through the rolling hills of the countryside, thanks to a feature introduced — or should we say, reintroduced to the franchise — in the first proper [&#8230;] 
-
-<br> 
-
-<https://www.polygon.com/news/554829/assassins-creed-shadows-update-102-patch-notes>
 
 ---
 
