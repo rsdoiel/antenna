@@ -1,11 +1,201 @@
 ---
 title: columns
-updated: 2025-04-09 14:06:47
+updated: 2025-04-10 06:08:18
 ---
 
 # columns
 
-(date: 2025-04-09 14:06:47)
+(date: 2025-04-10 06:08:18)
+
+---
+
+## April 8, 2025
+
+date: 2025-04-10, from: Heather Cox Richardson blog
+
+ 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161013353/8916389bc41229d3484a796060db21ad.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161013353/8916389bc41229d3484a796060db21ad.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://heathercoxrichardson.substack.com/p/april-8-2025-77d>
+
+---
+
+## Announcing my book
+
+date: 2025-04-10, from: Robert Reich's blog
+
+Friends, 
+
+<br> 
+
+<https://robertreich.substack.com/p/announcing-book>
+
+---
+
+## April 9, 2025 (Wednesday)
+
+date: 2025-04-10, from: Heather Cox Richardson blog
+
+On April 9, 1865, General Robert E. 
+
+<br> 
+
+<https://heathercoxrichardson.substack.com/p/april-9-2025-wednesday>
+
+---
+
+**@Miguel de Icaza Mastondon feed** (date: 2025-04-10, from: Miguel de Icaza Mastondon feed)
+
+<p>I needed an embeddable https server for Xogot, and Swift’s Hummingbird is everything I wanted.</p> 
+
+<br> 
+
+<https://mastodon.social/@Migueldeicaza/114311494769432582>
+
+---
+
+## Raspberry Pi cluster spotted inside $6k audio processor
+
+date: 2025-04-10, from: Jeff Geerling blog
+
+<span class="field field--name-title field--type-string field--label-hidden">Raspberry Pi cluster spotted inside $6k audio processor</span>
+
+            <p>People often ask me whether Pi clusters are useful besides just tinkering. I've <a href="https://www.jeffgeerling.com/tags/cluster">built my fair share</a>, including my most recent <a href="https://www.jeffgeerling.com/blog/2025/running-lamp-stack-lamp-rack">'Lamp Rack' Kubernetes-in-a-Lamp cluster</a>.</p>
+
+<p>Well... I have a definitive answer: the <a href="https://www.orban.com/overview-optimod-5750-audio-processor">Orban Optimod 5000-series</a> audio processors:</p>
+
+<p></p>
+      <span class="field field--name-uid field--type-entity-reference field--label-hidden"><span>Jeff Geerling</span></span>
+<span class="field field--name-created field--type-created field--label-hidden">April 9, 2025
+</span>
+ 
+
+<br> 
+
+<https://www.jeffgeerling.com/blog/2025/raspberry-pi-cluster-spotted-inside-6k-audio-processor>
+
+---
+
+## Words mean things
+
+date: 2025-04-10, from: Tracy Durnell Blog
+
+The occupying administration is seeking to limit free speech by declaring it terrorism. They claim Mahmoud Khalil and Rumeysa Ozturk are terrorists for advocating for human rights in Palestine, where there is an ongoing genocide. They&#8217;re equating opposition to Israeli state violence with antisemitism. Speech is not an act of terrorism. States are distinct from [&#8230;] 
+
+<br> 
+
+<https://tracydurnell.com/2025/04/09/words-mean-things/>
+
+---
+
+## ‘American Disruption’
+
+date: 2025-04-10, updated: 2025-04-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://stratechery.com/2025/american-disruption/>
+
+---
+
+## Trump, Supposedly, Thinks the U.S. Has the ‘Resources’ Needed to Make iPhones
+
+date: 2025-04-10, updated: 2025-04-10, from: Daring Fireball
+
+ 
+
+<br> 
+
+<https://9to5mac.com/2025/04/08/trump-thinks-the-us-has-the-resources-needed-to-make-iphones/>
+
+---
+
+##  All the headlines are following Trump&#8217;s messaging of a &#8220;pause&#8221;, but the... 
+
+date: 2025-04-10, updated: 2025-04-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046614-all-the-headlines-are-fol>
+
+---
+
+##  Clean energy powered 40% of global electricity in 2024, report finds. &#8220;The... 
+
+date: 2025-04-10, updated: 2025-04-10, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046612-clean-energy-powered-40-o>
+
+---
+
+##  What It Feels Like, Right Now. &#8220;It&#8217;s hard to focus. It&#8217;s hard... 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046611-what-it-feels-like-right>
+
+---
+
+## ★ WebKit Adds Support for ‘text-wrap: pretty’, Now Shipping in Safari Technology Preview
+
+date: 2025-04-09, updated: 2025-04-09, from: Daring Fireball
+
+I think it’s a good start, and I couldn’t be happier that the WebKit team is even tackling the problem at all. As Simmons notes, line-wrapping layout in web browsers has, until now, been very crude — and the web has been around a long time. 
+
+<br> 
+
+<https://daringfireball.net/2025/04/webkit_textwrap_pretty>
+
+---
+
+##  We Should All Be Very, Very Afraid. &#8220;The administration could create its... 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046610-we-should-all-be-very>
+
+---
+
+##  If You Heard What I Heard is a collection of Holocaust stories... 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046599-if-you-heard-what-i>
+
+---
+
+##  From the NYT&#8217;s Overlooked obituary series: Katharine McCormick, Force Behind the Birth... 
+
+date: 2025-04-09, updated: 2025-04-09, from: Jason Kittke's blog
+
+ 
+
+<br> 
+
+<https://kottke.org/25/04/0046608-from-the-nyts-overlooked->
 
 ---
 
@@ -81,7 +271,7 @@ date: 2025-04-09, updated: 2025-04-09, from: Daring Fireball
 
 ---
 
-## Predictability and trust is key to American business, and it's disappearing quickly
+## Predictability and trust is key to American business, and they're disappearing quickly
 
 date: 2025-04-09, from: Matt Haughey blog
 

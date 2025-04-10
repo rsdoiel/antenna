@@ -1,11 +1,120 @@
 ---
 title: journalism
-updated: 2025-04-09 14:06:48
+updated: 2025-04-10 06:08:19
 ---
 
 # journalism
 
-(date: 2025-04-09 14:06:48)
+(date: 2025-04-10 06:08:19)
+
+---
+
+## ‘Drop’ brings thrills from your phone to the big screen
+
+date: 2025-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Christopher Landon’s latest fare makes a great popcorn film, if not much else.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/10/drop-brings-thrills-from-your-phone-to-the-big-screen/">‘Drop’ brings thrills from your phone to the big screen</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/10/drop-brings-thrills-from-your-phone-to-the-big-screen/>
+
+---
+
+## USC celebrates Asian American and Pacific Islander Heritage Month
+
+date: 2025-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The event featured live performances as well as free food and drinks.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/10/usc-celebrates-asian-american-and-pacific-islander-heritage-month/">USC celebrates Asian American and Pacific Islander Heritage Month</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/10/usc-celebrates-asian-american-and-pacific-islander-heritage-month/>
+
+---
+
+## Will the Beatles beat iPhone face allegations?
+
+date: 2025-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>The casting for the upcoming Beatles biopics has the internet and film fans everywhere abuzz.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/10/will-the-beatles-beat-iphone-face-allegations/">Will the Beatles beat iPhone face allegations?</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/10/will-the-beatles-beat-iphone-face-allegations/>
+
+---
+
+## Whooping cough remains steady at USC; influenza cases decline
+
+date: 2025-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Student Health emphasized the importance of sun protection as temperatures rise.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/10/whooping-cough-remains-steady-at-usc-influenza-cases-decline/">Whooping cough remains steady at USC; influenza cases decline</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/10/whooping-cough-remains-steady-at-usc-influenza-cases-decline/>
+
+---
+
+## Daniela Huerta thinks outside the Letterboxd in film-focused podcast
+
+date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Daniela Huerta is unboxing people&#8217;s personalities one film at a time.
+The fourth-year political science student &#8211; who is also known as DJ frootgummie &#8211; is host to the UCLA Radio show &#8220;Letterboxd Unboxed,&#8221; an hourlong podcast that dissects guest&#8217;s four favorite movies. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/09/daniela-huerta-thinks-outside-the-letterboxd-in-film-focused-podcast/>
+
+---
+
+## Concert preview: Upcoming performances across genres spring into Los Angeles
+
+date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+There may be no season better for concerts than spring.
+As the sun in the Northern Hemisphere stays out later, the hours for sunsets are extended. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/09/concert-preview-upcoming-performances-across-genres-spring-into-los-angeles/>
+
+---
+
+## The Senses Block Party brings the community together with a night of free entertainment
+
+date: 2025-04-10, from: The Canyon News (COC Student Newspaper)
+
+<p>Every third Thursday of the month, Old Town Newhall transforms into a&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/senses/">The Senses Block Party brings the community together with a night of free entertainment</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/senses/>
+
+---
+
+## Students who had visas revoked were previously arrested, USAC meeting reveals
+
+date: 2025-04-10, from: The Daily Bruin (UCLA Student Newspaper)
+
+Minutes from a meeting between UCLA administrators and Undergraduate Students Association Council officers revealed that the students whose visas were revoked had previously been arrested.
+The United States government revoked the visas of around 50 international students and alumni across the UC, according to a Tuesday statement from UC President Michael Drake. 
+
+<br> 
+
+<https://dailybruin.com/2025/04/09/students-who-had-visas-revoked-were-previously-arrested-usac-meeting-reveals/>
 
 ---
 
@@ -385,6 +494,19 @@ A federal judge temporarily blocked the Trump administration March 31 from endin
 
 ---
 
+## Read Our Latest Issue
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+Vol. CXXVII, Issue 25 | April 8, 2025 View full PDF
+Accessing Buildings After Hours Applications Open for 2025 Wolfram Summer School ASCIT 2025 Spring Elections: Candidate Statements Caltech Must Protect Its Students Caltech Rugby Club SAVES Graduate Formal Caltech Wildlife: The Migrators Epicurus at Caltech: The Garden of Serenity and Science Off-Campus Report: SURF at MIT and Study Abroad at the University of Edinburgh The Underrated and Underexplored World of South Indian Cuisine Vol. 
+
+<br> 
+
+<https://tech.caltech.edu/issues/latest/>
+
+---
+
 ## ASCIT 2025 Spring Elections: Candidate Statements
 
 date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
@@ -394,6 +516,114 @@ ASCIT 2025 Spring Elections: Candidate Statements
 <br> 
 
 <https://tech.caltech.edu/2025/04/ascit-2025-spring-elections-candidate-statements/>
+
+---
+
+## Accessing Buildings After Hours
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+One of the projects ASCIT B.o.D. adopted in 2023 was to review the building accessibility policies for undergraduate students outside of normal operational hours. For context, following the pandemic, building access was understandably limited in order to prioritize the safety and health of the campus communities. Since then, many of the previous building accessibility policies have been reinstated. The following outlines what these policies are, and who to reach out to should you experience difficulties. Additionally, while there are buildings that all students have access to, students also have access to specific (and relevant) buildings based upon the division that their option is in. Thus, the following will outline the building policies for each division as well as campus-wide accessibility. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/accessing-buildings-after-hours/>
+
+---
+
+## Applications Open for 2025 Wolfram Summer School
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+Applications are now open for the 23rd annual Wolfram Summer School, taking place June 22–July 11, 2025, at Bentley University in Waltham, Massachusetts. The three-week program offers students, researchers, and innovators the opportunity to work on real-world projects alongside leading technologists, researchers, and physicists. Participants will collaborate directly with Stephen Wolfram to shape and refine their project goals. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/applications-open-for-2025-wolfram-summer-school/>
+
+---
+
+## ASCIT 2025 Spring Elections: Candidate Statements
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+ASCIT 2025 Spring Elections: Candidate Statements 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/ascit-2025-spring-elections-candidate-statements/>
+
+---
+
+## Caltech Must Protect Its Students
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+Caltech claims to strive to “expand human knowledge and benefit society.” A necessary requisite to accomplish this mission is a community that values intellectual diversity. One where peers challenge the preconceived notions of others, and where all can speak freely. We, thus, have a vested interest in protecting free speech. Over the 24 presidential administrations that have come and gone from Washington DC since the Institute’s inception, Caltech has historically remained politically neutral. But this present crisis transcends politics. It challenges the core assumptions that students make when choosing to entrust the Institute with their time, intellect, energy, and safety. Simply put, this is not a moment in history when Caltech can remain silent. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/caltech-must-protect-its-students/>
+
+---
+
+## Caltech Rugby Club SAVES Graduate Formal
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+The Graduate Student formal has become the latest casualty of DOGE’s sweeping budget cuts. Fear not, however: the Caltech Rugby Club will be hosting their Annual Ball at the Athenaeum, open to both the blossoming club membership and the wider Graduate Student body. Expect crowd-pleasing music, free flowing food and drink, all set amongst the grandeur of our very own Athenaeum Club. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/caltech-rugby-club-saves-graduate-formal/>
+
+---
+
+## Caltech Wildlife: The Migrators
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+Spring at Caltech is a season of rapid transformation. Step away for just a few days, and you’ll return to a campus bursting with changes: the once-bare branches are now decorated with colorful flowers. The drastic changes aren’t limited to flora – migrating wildlife also contributes to the seasonal dynamics. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/caltech-wildlife-the-migrators/>
+
+---
+
+## Epicurus at Caltech: The Garden of Serenity and Science
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+There is a question pulsing quietly beneath the surface of every lab bench, every line of code, every equation scribbled onto a whiteboard: Why are we doing this? Is it for discovery, for prestige, for the betterment of humanity—or something more elusive? At Caltech, we pride ourselves on pushing the boundaries of what is knowable, and we do, no one says the opposite. We decode the stars, manipulate the quantum, edit genes and simulate the brain. But in a world full of complexity, speed, and ambition, can knowledge make us wise? Can science teach us how to live well? 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/epicurus-at-caltech/>
+
+---
+
+## Off-Campus Report: SURF at MIT and Study Abroad at the University of Edinburgh
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+Few Caltech students will take advantage of the opportunity to study abroad during their undergraduate time here. Understandably, undergrads are some of the busiest people you will meet here: classes throughout the day, sports and house activities through the afternoon, problem sets throughout the night and well into the morning, sleep if you can afford it, rinse and repeat. Our four-year plans are often packed; graduating on time is important when your tuition is, to say the least, exorbitant. We are lucky if we have the sheer time management to fit in downtime, much less plan opportunities to exit the Caltech bubble, the boundaries of which are fortified by mediocre public transport and the expense of a car. Throughout my freshman to junior years, I struggled intensely with work-life balance, gradually setting goals to leave campus once a week to control the stress associated with this place. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/off-campus-report/>
+
+---
+
+## The Underrated and Underexplored World of South Indian Cuisine
+
+date: 2025-04-08, from: California Tech (Caltech Student Newspaper)
+
+The Caltech Y regularly organizes Cultural Cuisine Tours across L.A., allowing people to try out new cuisines for a subsidized rate in the presence of a cultural leader, who understands the cuisine and can provide additional information about the food options. Recently, I helped them organize a Cultural Cuisine Tour to Annapurna Grill, specifically to explore South Indian cuisine. And in so doing, I found out just how little people actually knew about South Indian cuisine. 
+
+<br> 
+
+<https://tech.caltech.edu/2025/04/08/the-underrated-and-underexplored-world-of-south-indian-cuisine/>
 
 ---
 

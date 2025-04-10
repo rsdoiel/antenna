@@ -1,11 +1,95 @@
 ---
 title: socal north
-updated: 2025-04-09 14:06:45
+updated: 2025-04-10 06:08:15
 ---
 
 # socal north
 
-(date: 2025-04-09 14:06:45)
+(date: 2025-04-10 06:08:15)
+
+---
+
+## What undocumented SoCal residents should know about the IRS deal with ICE
+
+date: 2025-04-09, updated: 2025-04-10, from: The LAist
+
+We’re in tax season now, but advocates say you should consult with an immigrant rights group before filing if you’re undocumented. 
+
+<br> 
+
+<https://laist.com/news/politics/los-angeles-irs-ice-undocumented-taxes-itin>
+
+---
+
+## LA County supervisors want to speed up process for rebuilding permits in Altadena
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+The L.A. County Board of Supervisors has voted to create a "Unified Permitting Authority" aimed at cutting red tape for wildfire survivors who want to rebuild their homes. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-county-supervisors-rebuilding-permits-altadena-eaton-fire>
+
+---
+
+## The government is clearing fire debris from thousands of plots. Here’s what it looks like
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+On any given day, around 215 crews work to clear the burn zones of the Palisades and Eaton fires while keeping debris out of the air. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/army-corps-fire-debris-clearing-altadena-eaton-fire>
+
+---
+
+## If Planet Nine is out there, this telescope might actually find it
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+A powerful new observatory is the best hope yet for finding the elusive Planet 9, a large planet that some scientists say is hidden in our solar system. 
+
+<br> 
+
+<https://laist.com/news/planet-nine-search-telescope>
+
+---
+
+## Orange County agrees to settle handful of Airport Fire claims for $9.5 million
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+The county could be on the hook for far more money, with more than $400 million in claims filed overall. 
+
+<br> 
+
+<https://laist.com/news/politics/orange-county-airport-fire-settlements>
+
+---
+
+## Trump says he will pause tariff hikes for 90 days, but not for China
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+The president announced he would raise tariffs on China to 125% "effective immediately" but said he was pausing big hikes on other U.S. trading partners to allow time for trade negotiations. 
+
+<br> 
+
+<https://laist.com/news/politics/trump-says-he-will-pause-tariff-hikes-for-90-days-but-not-for-china>
+
+---
+
+## Live in LA? Get ready for your trash fees to nearly double
+
+date: 2025-04-09, updated: 2025-04-09, from: The LAist
+
+We could soon see the first collection fee increase in 15 years. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/la-trash-fees-double>
 
 ---
 

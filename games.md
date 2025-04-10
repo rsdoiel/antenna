@@ -1,15 +1,51 @@
 ---
 title: games
-updated: 2025-04-09 14:06:48
+updated: 2025-04-10 06:08:19
 ---
 
 # games
 
-(date: 2025-04-09 14:06:48)
+(date: 2025-04-10 06:08:19)
 
 ---
 
-## How quickly could Nintendo move Switch 2 production to the U.S.?
+## Has Nintendo just set up the original Switch to be the best-selling console of all time?
+
+date: 2025-04-10, updated: 2025-04-09, from: Polygon Website
+
+The sticker shock of Nintendo’s $449.99 pricing for Switch 2 has not yet subsided — and it could yet get even worse, if Nintendo decides to increase the price further in response to President Donald Trump’s tariffs. But the high price for Nintendo’s new console might have an unexpected consequence for its old one. The [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/nintendo/555598/has-nintendo-just-set-up-the-original-switch-to-be-the-best-selling-console-of-all-time>
+
+---
+
+## Best class ranking in Path of Exile 2
+
+date: 2025-04-10, updated: 2025-04-10, from: Polygon Website
+
+The best class to play in Path of Exile 2 have changed little since April 2025’s “Dawn of the Hunt” update, even with the arrival of the new Huntress class. The ascendancy options it introduced for a handful of classes offer new ways to play, but they don&#8217;t radically change how each class functions. Developer [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/path-exile-2-guide/495790/class-best-all-what-to-play>
+
+---
+
+## Black Mirror’s Plaything is a great sequel to Bandersnatch because there’s a new game to play, too
+
+date: 2025-04-10, updated: 2025-04-09, from: Polygon Website
+
+A sequel to a beloved anthology TV episode might seem like a cash grab; two in one season could reek of desperation. Yet Charlie Brooker bests the skepticism in Black Mirror season 7 with a double whammy of “USS Callister: Into Infinity,” a follow-up to season 4’s Star Trek spoof, and “Plaything,” a sci-fi tragedy [&#8230;] 
+
+<br> 
+
+<https://www.polygon.com/555730/black-mirror-plaything-real-game-thronglets>
+
+---
+
+## How quickly could Nintendo move Switch 2 production to the US?
 
 date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
 
@@ -33,11 +69,11 @@ Kelly Toys, the maker of the ever-popular Squishmallows, and stuff-it-yourself p
 
 ---
 
-## Anker’s very fast USB-C power bank is 67% off for the first time
+## Anker’s very fast USB-C power bank is 67% off (update: sold out)
 
 date: 2025-04-09, updated: 2025-04-09, from: Polygon Website
 
-A good power bank is one of the best gadgets you can buy these days. You should buy one that’s powerful enough to charge any of your daily drivers, from your phone to your Steam Deck. One of the best overall power banks available is selling at its best price ever. The Anker 737, which [&#8230;] 
+A good power bank is one of the best gadgets you can buy these days. You should buy one that’s powerful enough to charge any of your daily drivers, from your phone to your Steam Deck. One of the best overall power banks available was selling at its lowest price yet, but it sold out [&#8230;] 
 
 <br> 
 

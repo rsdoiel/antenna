@@ -1,19 +1,259 @@
 ---
 title: science and technology
-updated: 2025-04-09 14:06:46
+updated: 2025-04-10 06:08:17
 ---
 
 # science and technology
 
-(date: 2025-04-09 14:06:46)
+(date: 2025-04-10 06:08:17)
 
 ---
 
-## Sensitive financial files feared stolen from US bank watchdog
+## Tech CEO: 4-day work week didn't hurt or help productivity
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>&#39;There are challenges&#39; but staff recruitment and retention isn&#39;t one of them</h4> <p><strong>Interview</strong>  Civo shifted its workforce to a four-day working week and while it hasn&#39;t changed productivity much at the cloud biz, it has helped attract &#34;new talent&#34; and retain existing staff, CEO Mark Boost says.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/4_day_week_productivity/>
+
+---
+
+## Infosec experts fear China could retaliate against tariffs with a Typhoon attack
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Scammers are already cashing in with fake invoices for import costs</h4> <p><strong>World War Fee</strong>  As the trade war between America and China escalates, some infosec and policy experts fear Beijing will strike back in cyberspace.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/trade_war_reaches_cyberspace/>
+
+---
+
+## OK great, UK is building loads of AI datacenters. How are we going to power that?
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Practical matters like being 1 of most expensive energy regions in Europe focuses minds at AI Energy Council meeting</h4> <p>The UK government&#39;s AI Energy Council held its first meeting this week, in an attempt to square the circle of its AI ambitions with the state of the country&#39;s power infrastructure and having the most expensive energy in Europe.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/uk_ai_energy_council_meets/>
+
+---
+
+## Staff at UK's massive health service still have interoperability issues with electronic records
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Government plans to boost efficiency with IT need to get people onside</h4> <p>UK health professionals remain &#34;skeptical&#34; about electronic patient records, despite the NHS in England achieving more than 90 percent coverage.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/nhs_electronic_records_face_skepticism/>
+
+---
+
+## Not updated in 7 years, IIS is still a default part of Windows, apparently
+
+date: 2025-04-10, from: OS News
+
+This month&#8217;s security updates for Windows 11 create a new empty folder on drive C. It is called &#8220;inetpub,&#8221; and it does not contain any extra folders or files. Its properties window shows 0 bytes in size and that it was created by the system itself. Neowin checked a bunch of Windows 11 PCs with the April 2025 security updates installed, and all of them had inetpub on drive C. ↫ Taras Buria at Neowin So this folder, inetpub, is most likely coming from Microsoft&#8217;s Internet Information Services, the company&#8217;s web server. IIS is part of Windows, but inactive by default, and it seems some buggy update script somewhere forgot to remove the folder or created it by accident. Regardless, it seems you can remove it without any issue, so if you see it on your Windows&#8217; root drive, just delete it any be on your merry way. Still though, something about this seems odd, right? Internet Information Services as a core product hasn&#8217;t been updated since 2018 when version 10 came out, which doesn&#8217;t necessarily mean specific Windows updates might not have changed it since then, but it doesn&#8217;t exactly inspire confidence. The Internet Information Services&#8217; website also hasn&#8217;t been updated in ages, and is broken in places, further adding to the feeling IIS seems to be mostly abandoned, only kept going as part of Windows updates because it&#8217;s, well, part of Windows. I&#8217;m not trying to insinuate there&#8217;s anything nefarious or dangerous going on with this silly folder glitch or anything; I was just surprised to see such an outdated, seemingly abandoned web server suite still being a default part of Windows today. 
+
+<br> 
+
+<https://www.osnews.com/story/142085/not-updated-in-7-years-iis-is-still-a-default-part-of-windows-apparently/>
+
+---
+
+## IBM unveils z17 mainframe, z/OS 3.2
+
+date: 2025-04-10, from: OS News
+
+IBM today announced the IBM z17, the next generation of the company&#8217;s iconic mainframe, fully engineered with AI capabilities across hardware, software, and systems operations. Powered by the new IBM Telum II processor, IBM z17 expands the system&#8217;s capabilities beyond transactional AI capabilities to enable new workloads. ↫ IBM z17 press release Alongside this brand new behemoth of a computer, IBM also announced z/OS 3.2, the next version of its mainframe operating system, which brings with it even more &#8220;AI&#8221; buzzwords and features. z/OS 3.2 is slated for release later in 2025. It it is highly unlikely any one of us will ever get to interact with any of this hardware or software. 
+
+<br> 
+
+<https://www.osnews.com/story/142081/ibm-unveils-z17-mainframe-z-os-3-2/>
+
+---
+
+## Europol: Five pay-per-infect suspects cuffed, some spill secrets to cops
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Officials teased more details to come later this year</h4> <p>Following the 2024 takedown of several major malware operations under Operation Endgame, law enforcement has continued its crackdown into 2025, detaining five individuals linked to the Smokeloader botnet.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/europol_malware_loader_arrests/>
+
+---
+
+## Meta's AI, built on ill-gotten content, can probably build a digital you
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Llama 4 Scout is just the right size to ingest a lifetime of Facebook and Insta posts</h4> <p>In the last twelve months generative AI has transformed from a helpful and cheeky tool into something more worrying.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/meta_copyright_digital_you/>
+
+---
+
+## <i>The Reg</i> translates the letter in which Oracle kinda-sorta tells customers it was pwned
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>TL;DR: Move along, still nothing to see here - an idea that leaves infosec pros aghast</h4> <p>Oracle&#39;s letter to customers about an intrusion into part of its public cloud empire - while insisting Oracle Cloud Infrastructure was untouched - has sparked a mix of ridicule and outrage in the infosec community.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/oracles_breach_letter/>
+
+---
+
+## Fear of tariffs made the PC market great again in Q1 as vendors emptied factories to dodge price future hikes
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Expected sales surge sparked by Windows 10 support ending could yet be trumped, analysts suggest</h4> <p><strong>World War Fee</strong>  The first quarter of 2025 saw shipments of new PCs surge, as vendors and buyers tried to move machines before tariffs made them more expensive.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/q1_2025_pc_shipments_tariffs/>
+
+---
+
+## Did someone say AI agents, Google asks, bursting in
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Customers aren&#39;t sure, economy isn&#39;t great, tech looks cute, though</h4> <p><strong>Cloud Next</strong>  This week Google joined a throng of tech vendors pushing the concept of &#34;agentic AI&#34; on an unsuspecting and perhaps unreceptive collection of enterprise users. Questions remain about how effective this tranche of tools will be at solving business problems and how much it might all cost.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/google_agentic_ai_cloud_next/>
+
+---
+
+## Google offers 7th-gen Ironwood TPUs for AI, with AI-inspired comparisons
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Sure, we&#39;re doing FP8 versus a supercomputer&#39;s FP64. What of it?</h4> <p><strong>Cloud Next</strong>  Google&#39;s seventh-generation Tensor Processing Units (TPU), announced Wednesday, will soon be available to cloud customers to rent in pods of 256 or 9,216 chips.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/googles_7thgen_ironwood_tpus_debut/>
+
+---
+
+## Trump kills clearances for infosec's SentinelOne, ex-CISA boss Chris Krebs
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Alleges cybersecurity agency was ‘weaponized’ to suppress debunked theories</h4> <p><strong>Updated</strong>  The Trump administration on Wednesday ordered a criminal investigation into alleged censorship conducted by the USA’s Cybersecurity and Infrastructure Security Agency, aka CISA, plus revocation of any security clearances held by the agency&#39;s ex-head Chris Krebs and anyone else at SentinelOne, the cybersecurity company where he now works.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/trump_cisa_investigation_memo/>
+
+---
+
+## Apple settles unfair labor charges brought by fired engineering manager
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Whistleblower Ashley Gjøvik hails iWatershed iMoment for iStaff iRights</h4> <p>Apple has agreed to settle charges of labor rights violations filed with America&#39;s employment watchdog by whistleblower Ashley Gjøvik.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/apple_agrees_to_settle_unfair/>
+
+---
+
+## Nvidia paid $1M for Mar-a-Lago meal, US later scrapped AI chip export crackdown
+
+date: 2025-04-09, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Best after-dinner mint ever</h4> <p>Nvidia may have been served a particularly delicious digestif after dropping a million bucks for dinner at President Trump’s Florida home Mar-a-Lago: A reprieve on restrictions of its AI chips to China.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/nvidia_us_export_ban_change/>
+
+---
+
+## Founder of facial-rec controversy biz Clearview AI booted from board
 
 date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
 
-<h4>OCC mum on who broke into email, but Treasury fingered China in similar hack months ago</h4> <p>A US banking regulator fears sensitive financial oversight data was stolen from its IT systems in what&#39;s been described as &#34;a major information security incident.&#34;…</p> 
+<h4>From wanting to weed out far-Left, anti-Trump migrants to amassing a huge database of internet photos</h4> <p>Clearview AI has booted founder and former CEO Hoan Ton-That from its board, just weeks after he stepped down as president.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/clearview_founder_exceo_ousted/>
+
+---
+
+## April's Patch Tuesday leaves unlucky Windows Hello users unable to login
+
+date: 2025-04-09, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Can&#39;t Redmond ask its whizz-bang Copilot AI to fix it?</h4> <p><strong>Updated</strong>  Those keen to get their Microsoft PCs patched up as soon as possible have been getting an unpleasant shock when they try to get in using Windows Hello.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/microsoft_hello_patch/>
+
+---
+
+## NASA’s Juno Back to Normal Operations After Entering Safe Mode
+
+date: 2025-04-09, from: NASA breaking news
+
+The spacecraft was making its 71st close approach to Jupiter when it unexpectedly entered into a precautionary status. Data received from NASA’s Juno mission indicates the solar-powered spacecraft went into safe mode twice on April 4 while the spacecraft was flying by Jupiter. Safe mode is a precautionary status that a spacecraft enters when it […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/juno/nasas-juno-back-to-normal-operations-after-entering-safe-mode/>
+
+---
+
+## Wyden blocks Trump's CISA boss nominee, blames cyber agency for 'actively hiding info' about telecom insecurity
+
+date: 2025-04-09, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>It worked for in 2018 with Chris Krebs. Will it work again?</h4> <p>Uncle Sam&#39;s Cybersecurity and Infrastructure Security Agency, aka CISA, has been &#34;actively hiding information&#34; about American telecommunications networks&#39; weak security for years, according to Senator Ron Wyden.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/09/wyden_blocks_trumps_cisa_boss/>
+
+---
+
+## Hubble Helps Determine Uranus’ Rotation Rate with Unprecedented Precision
+
+date: 2025-04-09, from: NASA breaking news
+
+An international team of astronomers using the NASA/ESA Hubble Space Telescope has made new measurements of Uranus’ interior rotation rate with a novel technique, achieving a level of accuracy 1,000 times greater than previous estimates. By analyzing more than a decade of Hubble observations of Uranus’ aurorae, researchers have refined the planet’s rotation period and […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/hubble/hubble-helps-determine-uranus-rotation-rate-with-unprecedented-precision/>
+
+---
+
+## Someone compromised US bank watchdog to access sensitive financial files
+
+date: 2025-04-09, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>OCC mum on who broke into email, but Treasury fingered China in similar hack months ago</h4> <p>A US banking regulator says sensitive financial oversight data was accessed by one or more system intruders for more than a year in what&#39;s been described as &#34;a major information security incident.&#34;…</p> 
 
 <br> 
 
@@ -25,7 +265,7 @@ date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
 
 date: 2025-04-09, from: OS News
 
-With FreeDOS being, well, DOS, you&#8217;d think there wasn&#8217;t much point in putting out major releases and making big changes, and you&#8217;d mostly be right. However, being a DOS clone doesn&#8217;t mean there isn&#8217;t room for improvement within the confines of the various parts and tools that make up DOS, and that&#8217;s exactly where FreeDOS focuses its attention. FreeDOS 1.4 comes about three years after 1.2. This version includes an updated FreeCOM, Install program, and HTML Help system. This also includes improvements to many of the utilities including FDISK, JEMM, 7Zip, FORMAT, FASM, MORE, RUNTIME, and more! ↫ FreeDOS website If you&#8217;re using FreeDOS, you&#8217;re most likely doing so for a highly specialised task, and racing to upgrade isn&#8217;t exactly high on your list of priorities. Still, it&#8217;s great to see FreeDOS moving forward and improving where it can. 
+With FreeDOS being, well, DOS, you&#8217;d think there wasn&#8217;t much point in putting out major releases and making big changes, and you&#8217;d mostly be right. However, being a DOS clone doesn&#8217;t mean there isn&#8217;t room for improvement within the confines of the various parts and tools that make up DOS, and that&#8217;s exactly where FreeDOS focuses its attention. FreeDOS 1.4 comes about three years after 1.3. This version includes an updated FreeCOM, Install program, and HTML Help system. This also includes improvements to many of the utilities including FDISK, JEMM, 7Zip, FORMAT, FASM, MORE, RUNTIME, and more! ↫ FreeDOS website If you&#8217;re using FreeDOS, you&#8217;re most likely doing so for a highly specialised task, and racing to upgrade isn&#8217;t exactly high on your list of priorities. Still, it&#8217;s great to see FreeDOS moving forward and improving where it can. 
 
 <br> 
 
@@ -95,7 +335,7 @@ Data – and our ability to understand and use it – shapes nearly every aspect
 
 ## EU lands 25% counter tariff punch on US, Trump pauses broad import levy hike – China excepted
 
-date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
+date: 2025-04-09, updated: 2025-04-10, from: The Register (UK I.T. News)
 
 <h4>Middle Kingdom gets 125%. So this is what it&#39;s like living in reality TV</h4> <p><strong>World War Fee</strong>  The EU voted Wednesday to introduce 25 percent import tariffs on American goods, with the first duties being collected from European consumers on April 15.…</p> 
 

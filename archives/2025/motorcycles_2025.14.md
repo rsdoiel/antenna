@@ -1,11 +1,72 @@
 ---
 title: motorcycles
-updated: 2025-04-09 14:06:50
+updated: 2025-04-10 06:08:21
 ---
 
 # motorcycles
 
-(date: 2025-04-09 14:06:50)
+(date: 2025-04-10 06:08:21)
+
+---
+
+## Dainese Just Dropped Some Sick New Racing Gear, Including a New Suit
+
+date: 2025-04-10, from: Ride Apart, Electric Motorcycle News
+
+If I were a track rat, I'd be checking my bank account.  
+
+<br> 
+
+<https://www.rideapart.com/news/756124/dainese-racing-collection-2025-motorcycle-gear/>
+
+---
+
+## Google’s AI Is Still Ridiculously Wrong About Motorcycles, Don’t Get Tricked
+
+date: 2025-04-10, from: Ride Apart, Electric Motorcycle News
+
+To those of you taking the AI Overview as the de facto answer: stop. 
+
+<br> 
+
+<https://www.rideapart.com/news/755887/google-ai-overview-wrong-ducati-specs/>
+
+---
+
+## Ewan McGregor and Charley Boorman Are Back On Motorcycles, 'Long Way Home' Is Coming
+
+date: 2025-04-10, from: Ride Apart, Electric Motorcycle News
+
+The boys are back riding, just not around the world this time. 
+
+<br> 
+
+<https://www.rideapart.com/news/756116/long-way-home-ewan-mcgregor-charley-boorman-apple-tv/>
+
+---
+
+## Yoshimura’s Badass Restomod Suzuki Motorcycle Can Actually Be Yours
+
+date: 2025-04-10, from: Ride Apart, Electric Motorcycle News
+
+It’s what every oil-cooled Suzuki Gixxer aspires to be. 
+ 
+
+<br> 
+
+<https://www.rideapart.com/news/756044/yoshimura-restomod-suzuki-gsxr750-for-sale/>
+
+---
+
+## Can-Am, Ski-Doo Parent Says Tariffs Aren't an Issue For Them, Actually
+
+date: 2025-04-10, from: Ride Apart, Electric Motorcycle News
+
+Are they right? Here's why they say so. 
+
+<br> 
+
+<https://www.rideapart.com/news/756129/canam-skidoo-tariffs-canada-mexico/>
 
 ---
 

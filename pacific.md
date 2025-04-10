@@ -1,11 +1,365 @@
 ---
 title: pacific
-updated: 2025-04-09 14:06:46
+updated: 2025-04-10 06:08:16
 ---
 
 # pacific
 
-(date: 2025-04-09 14:06:46)
+(date: 2025-04-10 06:08:16)
+
+---
+
+## Prescription drugs become a target in Trump’s trade war
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>LONDON &#8212; U.S. President Donald Trump late on Tuesday reiterated he would impose tariffs on imports of pharmaceutical products that have long been spared from past trade disputes due to the potential for harm to patients.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/prescription-drugs-become-a-target-in-trumps-trade-war/>
+
+---
+
+## ‘Kinky Boots’ hit the stage tonight in Hilo
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>A three-day run of the classic musical &#8220;Kinky Boots&#8221; kicks off tonight at the University of Hawaii at Hilo Performing Arts Center. </p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/hawaii-news/kinky-boots-hit-the-stage-tonight-in-hilo/>
+
+---
+
+## State AG releases handgun statistics
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Less than 1% of Hawaii&#8217;s adults 20 and older are licensed to carry a concealed handgun in public.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/hawaii-news/state-ag-releases-handgun-statistics/>
+
+---
+
+## US measles battle hindered by confusion over health secretary response
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>CHICAGO &#8212; U.S. pediatricians and infectious disease experts say the fight against rising measles cases nationwide is being hampered by a lack of forceful advocacy for vaccination from government health officials and statements on unproven treatments that are confusing parents.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/us-measles-battle-hindered-by-confusion-over-health-secretary-response/>
+
+---
+
+## Trump reverses course on global tariffs, announcing 90-day pause
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; President Donald Trump on Wednesday abruptly reversed course on steep global tariffs that have roiled markets, upset members of his own party and raised fears of a recession. Just hours after he put punishing levies into place on nearly 60 countries, the president said he would pause them for 90 days.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/trump-reverses-course-on-global-tariffs-announcing-90-day-pause/>
+
+---
+
+## Army secretary replaces Patel as head of ATF
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Kash Patel, the FBI director, has been removed as the interim head of the Bureau of Alcohol, Tobacco, Firearms and Explosives and replaced by Daniel Driscoll, the Army secretary, four people with knowledge of the switch said Wednesday. The highly unusual move places a civilian military leader in charge of a domestic law enforcement entity.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/army-secretary-replaces-patel-as-head-of-atf/>
+
+---
+
+## Trump threatens climate policies in the states
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>First, the Trump administration moved to dismantle federal climate regulations. Now it has launched an assault on efforts at the state and local levels, where many leaders are still working to try to avoid the dangerous impacts of global warming.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/trump-threatens-climate-policies-in-the-states/>
+
+---
+
+## News in brief for April 10
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Johnson delays &#0010;budget vote as &#0010;GOP defectors balk</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/news-in-brief-for-april-10/>
+
+---
+
+## Supreme Court sides with Trump, for now, on firing agencies’ leaders
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; Chief Justice John Roberts on Wednesday temporarily let the Trump administration remove the leaders of two independent agencies while their challenges to their dismissals move forward in court.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/supreme-court-sides-with-trump-for-now-on-firing-agencies-leaders/>
+
+---
+
+## Congo repatriates 3 Americans sentenced to death over failed coup
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>DAKAR, Senegal &#8212; Three American citizens who had been sentenced to death over a failed coup attempt in Congo were sent back to the United States on Tuesday, according to a spokesperson for the Congolese presidency.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/congo-repatriates-3-americans-sentenced-to-death-over-failed-coup/>
+
+---
+
+## Trump repeats threat to use military force if Iran does not agree to nuclear deal
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>WASHINGTON &#8212; U.S. President Donald Trump on Wednesday repeated his threat to use military force if Iran did not agree to end its nuclear program, saying Israel would play a key role in any military action.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/trump-repeats-threat-to-use-military-force-if-iran-does-not-agree-to-nuclear-deal/>
+
+---
+
+## New generation of African chocolatiers gets hobbled by US tariffs
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>DAKAR, Senegal &#8212; Dana Mroueh, a small-business owner in Ivory Coast, was negotiating to introduce her organic chocolate bars into stores in New York and Washington when President Donald Trump announced new tariffs on all U.S. imports last week.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/new-generation-of-african-chocolatiers-gets-hobbled-by-us-tariffs/>
+
+---
+
+## Netanyahu sticks by Trump’s brazen proposal for Palestinians to leave
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>JERUSALEM &#8212; When Prime Minister Benjamin Netanyahu of Israel visited the White House two months ago, President Donald Trump sold him a brazen dream: The United States would take control of the Gaza Strip, relocate about 2 million Palestinians and turn the devastated seaside enclave into a glittering &#8220;riviera.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/nation-world-news/netanyahu-sticks-by-trumps-brazen-proposal-for-palestinians-to-leave/>
+
+---
+
+## Public invited to free ag conservation workshop
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Are you interested in conservation for &#0010;your farm or land?</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/community/public-invited-to-free-ag-conservation-workshop/>
+
+---
+
+## Scouts participate in spring merit badge camp
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>HONOKAA &#8212; Camp Honokaia welcomed more than 40 Scouts from across two islands this spring for a dynamic short-term merit badge camp, offering youth a unique opportunity to build skills, earn badges and connect with peers in a vibrant outdoor setting.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/community/scouts-participate-in-spring-merit-badge-camp/>
+
+---
+
+## Parker Ranch wins national Beef Quality Assurance award
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>WAIMEA &#8211; The National Cattlemen&#8217;s Beef Association has announced Parker Ranch as the winner of the 2025 Beef Quality Assurance Cow-Calf Award.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/community/parker-ranch-wins-national-beef-quality-assurance-award/>
+
+---
+
+## Big Island Singers to perform this weekend
+
+date: 2025-04-10, from: Hawaii Tribune Harold
+
+
+				<p>Big Island Singers has announced its upcoming spring concert series, &#8220;Flora-n-Fauna: 500 Years of Songs about Nature.&#8221;</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/10/entertainment/big-island-singers-to-perform-this-weekend/>
+
+---
+
+## Emelak dazzles any event
+
+date: 2025-04-10, from: Marshal Islands Journal
+
+<p>Event designer Emelak Services is gaining popularity and nothing but great feedback following their latest event designs on Kwajalein in honor of two royal family events on Eneen Jabro and Ebeye this year. The latest being the 80th birthday celebration for Iroojlaplap Mike Kabua and Libokiang and Limwelan Kabua’s first combined kemem. Founded by Jeremiah [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/emelak-dazzles-any-event/">Emelak dazzles any event</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/emelak-dazzles-any-event/>
+
+---
+
+## Letter to the editor: Guam's tariff-free status provides unique 0pportunity
+
+date: 2025-04-10, from: Pacific Island Times
+
+By Sen. William Parkinson Guam faces a historic opportunity through Bill 102-38, the Guam Tariff Advantage Development Act. As a U.S.... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/letter-to-the-editor-guam-s-tariff-free-status-provides-unique-0pportunity>
+
+---
+
+## Guam bill proposes to formally create an existing judicial commission n
+
+date: 2025-04-10, from: Pacific Island Times
+
+By Pacific Island Times News Staff Sen. Shawn Gumataotao has introduced a measure to codify Guam's 32-year-old Criminal Justice... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/guam-bill-proposes-to-formally-create-an-existing-judicial-commission-n>
+
+---
+
+## New Catholic Prefect Apostolic
+
+date: 2025-04-10, from: Marshal Islands Journal
+
+<p>The Catholic community of the Marshall Islands held a significant and well-attended ceremony two Saturdays ago to install the new Apostolic Prefect. Rev. Fr. Tamati Alefosio Sefo, MSC, was the subject of the Eucharistic Celebration and Canonical Installation at Assumption Church March 29. Fr. Tamati is from Samoa and with this ceremony, he became the [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/new-catholic-prefect-apostolic/">New Catholic Prefect Apostolic</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/new-catholic-prefect-apostolic/>
+
+---
+
+## FSM launches Smart Island digital hub in Tonoas, Chuuk
+
+date: 2025-04-10, from: Pacific Island Times
+
+FSM President Wesley Simina leads a ceremony launching  Smart Island Digital Hub in Tonoa, Chuuk on April 8, 2025. Photo courtesy of... 
+
+<br> 
+
+<https://www.pacificislandtimes.com/post/fsm-launches-smart-island-digital-hub-in-tonoas-chuuk>
+
+---
+
+## International researchers tackle the future of parallel computing
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>The workshop goal was to advance research in parallel algorithms, while fostering global collaborations and long-term partnerships.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/09/workshop-parallel-algorithms-data-structures/">International researchers tackle the future of parallel computing</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/09/workshop-parallel-algorithms-data-structures/>
+
+---
+
+## In sudden change of course, Trump lowers tariffs for most countries, raises them for China
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+WASHINGTON (Reuters) — In a stunning reversal, President Donald Trump said on Wednesday he would temporarily lower the hefty duties he had just imposed on dozens of countries while further ramping up pressure on China, sending U.S. stocks rocketing higher. 
+
+<br> 
+
+<https://www.mvariety.com/news/national/in-sudden-change-of-course-trump-lowers-tariffs-for-most-countries-raises-them-for-china/article_c3e5ed2b-cdd2-4084-8a75-9e9194ec21bc.html>
+
+---
+
+## UH Giving Day: Community unites in support of the University of Hawaiʻi
+
+date: 2025-04-09, from: University of Hawaiʻi News
+
+<p>Donors across <span aria-label="Hawaii">Hawai&#699;i</span> and beyond come together to uplift <abbr>UH</abbr> students, drive progress and build a stronger future.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/09/uh-giving-day-community-unites/"><abbr>UH</abbr> Giving Day: Community unites in support of the University of Hawaiʻi</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/09/uh-giving-day-community-unites/>
+
+---
+
+## ICE ramps up focus on COFA citizens
+
+date: 2025-04-09, from: Marshal Islands Journal
+
+<p>“The 25,000 Hawaii residents from countries of Micronesia, the Marshall Islands and Palau who are legally allowed to live and work in the US are facing greater risk of removal if they have been arrested, charged with or convicted of certain crimes — even years after they have served their sentences in jails or prisons.” [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ice-ramps-up-focus-on-cofa-citizens/">ICE ramps up focus on COFA citizens</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/ice-ramps-up-focus-on-cofa-citizens/>
 
 ---
 
@@ -45,6 +399,114 @@ The post <a href="https://www.hawaii.edu/news/2025/04/09/image-of-the-week-imagi
 <br> 
 
 <https://www.hawaii.edu/news/2025/04/09/image-of-the-week-imagination/>
+
+---
+
+## Robert Caro, Salman Rushdie and Sandra Cisneros honored by Authors Guild
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+NEW YORK (AP) — Robert Caro, Salman Rushdie and Sandra Cisneros were honored Monday night at an Authors Guild dinner gala that celebrated the written word and its vital role in the preservation of democracy. 
+
+<br> 
+
+<https://www.mvariety.com/lifestyle/robert-caro-salman-rushdie-and-sandra-cisneros-honored-by-authors-guild/article_955ecab9-834d-40b1-a87e-a8ee2eb1b096.html>
+
+---
+
+## NOAA ship to survey coral reefs in Marianas starting April 15
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+STARTING April 15, 2025, a 231-foot white research vessel from the National Oceanic and Atmospheric Administration may be seen offshore. 
+
+<br> 
+
+<https://www.mvariety.com/news/community_bulletins/noaa-ship-to-survey-coral-reefs-in-marianas-starting-april-15/article_c20d17b0-2e4d-4be7-aaa3-f69ccbbc629b.html>
+
+---
+
+## Celebrate Earth Month with 2025 Miss Earth candidates
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+2024 Miss Earth Northern Marianas Heavenly Pangelinan is inviting community members to join the 2025 Earth Month celebration at Tank Beach in Kagman, from 7 a.m. to 11 a.m. on Sunday, April 13. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/celebrate-earth-month-with-2025-miss-earth-candidates/article_06729b80-906b-40fb-8faa-0b6ce869c5f5.html>
+
+---
+
+## Fiji: Potential China flights ahead
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+SUVA (FBC News/Pacnews) — Direct flights between Fiji and mainland China are on the horizon, with potential commencement by the end of the year. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/fiji-potential-china-flights-ahead/article_b4390e46-4a41-4905-97dd-5eb62888dcf4.html>
+
+---
+
+## Fuel prices down 10 cents
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+AFTER last month’s increase, fuel prices on Saipan dropped by 10 cents on Tuesday. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/fuel-prices-down-10-cents/article_4257fcf8-0e8f-49b1-8f34-682c533f3bec.html>
+
+---
+
+## NMC business students partner with lawmaker to analyze wellness costs and accessibility
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+(NMC) — Northern Marianas College business students recently found that high costs limit access to healthier food despite consumer demand and local efforts through a collaborative research project with Rep. Thomas John “TJ” DLC Manglona. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/nmc-business-students-partner-with-lawmaker-to-analyze-wellness-costs-and-accessibility/article_c6df3688-8ea2-4c18-86eb-2c731c223509.html>
+
+---
+
+## Eucon offers $1.35M in full scholarships for CNMI indigenous students
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+IN a historic move to give back to the people of the Northern Mariana Islands, Eucon International University has announced a transformative scholarship program totaling $1.35 million in full-tuition awards for indigenous Chamorro and Carolinian students. This initiative reflects the university’s deep commitment to supporting the future leaders of the CNMI and strengthening local communities for generations to come. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/eucon-offers-1-35m-in-full-scholarships-for-cnmi-indigenous-students/article_43e030d4-145d-4844-b44d-da074f9d76a9.html>
+
+---
+
+## Governor signs $50K spending bill
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+GOVERNOR Arnold I. Palacios on Monday signed House Local Bill 24-6 into law, appropriating $50,411 in casino revenue for Saipan projects. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/governor-signs-50k-spending-bill/article_89a5aadf-c794-487e-921b-3d79a475eae7.html>
+
+---
+
+## 2025 CNMI Industry Day to connect businesses with federal contracting opportunities
+
+date: 2025-04-09, updated: 2025-04-10, from: Marianas Variety
+
+(SBDC) — The CNMI Small Business Development Center Network at Northern Marianas College, in partnership with the Commonwealth Bureau of Military Affairs, Pacific Air Forces, and Naval Facilities Engineering Systems Command, invites businesses across the Commonwealth to participate in the 2025 CNMI Industry Day. This multi-island event aims to provide local businesses with direct access to federal contracting opportunities and vital information on upcoming projects in the region. 
+
+<br> 
+
+<https://www.mvariety.com/business/business_news/2025-cnmi-industry-day-to-connect-businesses-with-federal-contracting-opportunities/article_0fb79ccb-6992-4917-80d9-c72d83b24405.html>
 
 ---
 
@@ -267,6 +729,20 @@ date: 2025-04-09, from: Hawaii Tribune Harold
 <br> 
 
 <https://www.hawaiitribune-herald.com/2025/04/09/nation-world-news/some-us-consumers-stockpile-goods-ahead-of-trumps-new-tariffs/>
+
+---
+
+## Hawaii lawmakers endorse subsidized housing for state employees
+
+date: 2025-04-09, from: Hawaii Tribune Harold
+
+
+				<p>Many local government employees in Hawaii may be able to rent or buy taxpayer-subsidized housing if a bill pending at the Legislature becomes law.</p>
+			 
+
+<br> 
+
+<https://www.hawaiitribune-herald.com/2025/04/09/hawaii-news/hawaii-lawmakers-endorse-subsidized-housing-for-state-employees/>
 
 ---
 

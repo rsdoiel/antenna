@@ -1,11 +1,85 @@
 ---
 title: north america
-updated: 2025-04-09 14:06:44
+updated: 2025-04-10 06:08:14
 ---
 
 # north america
 
-(date: 2025-04-09 14:06:44)
+(date: 2025-04-10 06:08:14)
+
+---
+
+## When Autocrats Screw Up
+
+date: 2025-04-10, from: The Contrarian
+
+Maybe Trump really blew it this time 
+
+<br> 
+
+<https://contrarian.substack.com/p/when-autocrats-screw-up>
+
+---
+
+##  UAW’s Shawn Fain On Trump’s Tariff-pocalypse (TRANSCRIPT) 
+
+date: 2025-04-10, from: The Lever News
+
+ Following is an unedited, automated transcript of this Lever Time episode.  
+
+<br> 
+
+<https://www.levernews.com/uaws-shawn-fain-on-trumps-tariff-pocalypse-transcript/>
+
+---
+
+## Evening Roundup, April 9
+
+date: 2025-04-10, from: The Contrarian
+
+Featuring Jen Rubin interviews with Andrew Weissmann, Rep. Ritchie Torres, Steve Vladeck, and Yasmin Radjy; as well as pieces by Jennifer Weiss Wolf; Liz Shuler; Jeff Nesbit; and Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/evening-roundup-april-9>
+
+---
+
+##  UAW’s Shawn Fain On Trump’s Tariff-pocalypse 
+
+date: 2025-04-09, from: The Lever News
+
+ The leader of one of America’s largest unions says that inflation concerns are legitimate but argues that it’s time to end the era of free trade.  
+
+<br> 
+
+<https://www.levernews.com/uaws-shawn-fain-on-trumps-tariff-pocalypse/>
+
+---
+
+## Rep. Ritchie Torres on the Whiplash of Trump's Tariffs 
+
+date: 2025-04-09, from: The Contrarian
+
+"The only certainty is uncertainty" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/160970838/7c33342c18ca0dbb3d8caaf35e7cdb7d.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/160970838/7c33342c18ca0dbb3d8caaf35e7cdb7d.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rep-ritchie-torres-on-the-whiplash>
+
+---
+
+## Dire wolf
+
+date: 2025-04-09, from: The Contrarian
+
+A cartoon by Nick Anderson 
+
+<br> 
+
+<https://contrarian.substack.com/p/dire-wolf>
 
 ---
 

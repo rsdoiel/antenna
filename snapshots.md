@@ -1,11 +1,159 @@
 ---
 title: snapshots
-updated: 2025-04-09 14:06:53
+updated: 2025-04-10 06:08:24
 ---
 
 # snapshots
 
-(date: 2025-04-09 14:06:53)
+(date: 2025-04-10 06:08:24)
+
+---
+
+## The Name’s the Same
+
+date: 2025-04-10, updated: 2025-04-10, from: One Foot Tsunami
+
+ 
+
+<br> 
+
+<https://onefoottsunami.com/2025/04/10/the-names-the-same/>
+
+---
+
+## This pocket-sized PC is made from an old smartphone motherboard
+
+date: 2025-04-10, from: Liliputing
+
+<p>You often hear that the phone in your pocket has more processing power than the room-sized computers that NASA used to help send astronauts to the moon. But modern smartphones also have relatively limited lifespans &#8211; while some device makers are doing a better job of offering long-term support, it&#8217;s often cheaper or easier to [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/this-pocket-sized-pc-is-made-from-an-old-smartphone-motherboard/">This pocket-sized PC is made from an old smartphone motherboard</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/this-pocket-sized-pc-is-made-from-an-old-smartphone-motherboard/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+Aussies miss when morning routine didn&#39;t involve finding out whatever the fuck this cunt did today. 
+
+<br> 
+
+<https://chaser.com.au/general-news/aussies-miss-when-morning-routine-didnt-involve/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+Federal workers fear Musk’s ‘efficiency’ agency is using AI to spy on them: ‘They are omnipresent.’ 
+
+<br> 
+
+<https://www.theguardian.com/us-news/ng-interactive/2025/apr/10/elon-musk-doge-spying>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+Cases of civilians posing as ICE agents to detain migrants are on the rise. 
+
+<br> 
+
+<https://english.elpais.com/usa/2025-04-10/cases-of-civilians-posing-as-ice-agents-to-detain-migrants-are-on-the-rise.html>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+<span style="letter-spacing: 0.01rem; -webkit-text-size-adjust: 100%;">Trump Is Stupid, Erratic and Weak.</span> 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-is-stupid-erratic-and-weak?publication_id=277517&post_id=160964128&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Trump Is Stupid, Erratic and Weak
+
+date: 2025-04-10, from: Paul Krugman
+
+The disaster of Trumponomics continues 
+
+<br> 
+
+<https://paulkrugman.substack.com/p/trump-is-stupid-erratic-and-weak>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+The Dems can’t say this I guess but the United States is being stripped for parts the way a corporate raider tears down a company that had too much cash. This scene from Goodfellas explains. 
+
+<br> 
+
+<https://m.youtube.com/watch?v=P4nYgfV2oJA&t=130s&pp=2AGCAZACAdIHCQnYAKO1ajebQw==>
+
+---
+
+## Felix Oliver Friedrich pushed to project branch main at Felix Oliver Friedrich / Oberon A2
+
+date: 2025-04-10, updated: 2025-04-10, from: Oberon A2 repository
+
+
+<p>
+<strong>Felix Oliver Friedrich</strong>
+<a href="https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/216a445e1a1e21dc1d6fa545a08627ce3d2cae06">(216a445e)</a>
+<i>
+at
+10 Apr 07:53
+</i>
+</p>
+<div class="blockquote"><p dir="auto">conversion bug: changed pointer values</p></div>
+ 
+
+<br> 
+
+<https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/216a445e1a1e21dc1d6fa545a08627ce3d2cae06>
+
+---
+
+## CCC fordert Notbremse für den Überwachungskatalog im Koalitionsvertrag
+
+date: 2025-04-09, updated: 2025-04-10, from: Chaos Computer Club Updates
+
+CDU, CSU und SPD lassen alle Hemmungen fallen. Sie planen Massenüberwachung auf gleich drei Ebenen: Telekommunikations-, Autokennzeichen- und Biometriedaten. Die alten und neuen riesigen Datenhalden sollen mit „automatisierter Datenrecherche und -analyse“ durchkämmt werden dürfen. Staatliches Hacken soll ebenfalls ausgeweitet werden. 
+
+<br> 
+
+<https://www.ccc.de/de/updates/2025/ueberwachungshoelle>
+
+---
+
+## 555. 1066: Slaughter at Stamford Bridge (Part 2)
+
+date: 2025-04-09, from: This is history podcast
+
+<p>In the tumultuous climax of 1066, why was Harold’s very own brother Tostig the first of the mighty foes he had to face? How did Harald Hardrada then launch his invasion of England, and how much resistance did he initially receive? And, what unfolded at the bloody battle of Stamford Bridge, in which Harold Godwinson [&#8230;]</p>
+<p>The post <a href="https://therestishistory.com/555-1066-slaughter-at-stamford-bridge-part-2/">555. 1066: Slaughter at Stamford Bridge (Part 2)</a> appeared first on <a href="https://therestishistory.com">The Rest is History</a>.</p>
+ 
+
+<br> 
+
+<https://therestishistory.com/555-1066-slaughter-at-stamford-bridge-part-2/>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-09, from: Feed for Alt USDS)
+
+Excellent take on the wrecking ball that is DOGE. Merici Vinton is a legend to the US Digital Service.
+
+https://www.cnn.com/2025/04/08/politics/video/inside-the-doge-takeover 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lmg2joo7fk25>
 
 ---
 
@@ -449,6 +597,21 @@ mere implementation detail of this system, and does not really matter to them.
 <p><strong>Clients</strong>: consider that malicious instructions may try to trigger unwanted tool calls. Make sure users have the interfaces they need to understand what's going on - don't hide horizontal scrollbars for example!</p>
 <p><strong>Servers</strong>: ask yourself how much damage a malicious instruction could do. Be very careful with things like calls to <code>os.system()</code>. As with clients, make sure your users have a fighting chance of preventing unwanted actions that could cause real harm to them.</p>
 <p><strong>Users</strong>: be thoughtful about what you install, and watch out for dangerous combinations of tools.</p>
+
+<p>Pay special attention to this part of the <a href="https://modelcontextprotocol.io/specification/2025-03-26/server/tools">MCP specification</a>:</p>
+
+<blockquote>
+<p>For trust &amp; safety and security, there <strong>SHOULD</strong> always be a human in the loop with the ability to deny tool invocations.</p>
+
+<p>Applications <strong>SHOULD</strong>:</p>
+<ul>
+<li>Provide UI that makes clear which tools are being exposed to the AI model</li>
+<li>Insert clear visual indicators when tools are invoked</li>
+<li>Present confirmation prompts to the user for operations, to ensure a human is in the loop</li>
+</ul>
+</blockquote>
+
+<p>I suggest treating those SHOULDs as if they were MUSTs.</p>
 <p>I really want this stuff to work safely and securely, but the lack of progress over the past two and a half years doesn't fill me with confidence that we'll figure this out any time soon.</p>
     
         <p>Tags: <a href="https://simonwillison.net/tags/security">security</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/prompt-injection">prompt-injection</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/exfiltration-attacks">exfiltration-attacks</a>, <a href="https://simonwillison.net/tags/llm-tool-use">llm-tool-use</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/model-context-protocol">model-context-protocol</a></p> 
@@ -826,12 +989,12 @@ In which Carl Sverre announces <a href="https://github.com/orbitinghail/graft">G
 
 ---
 
-## FreeDOS 1.4 released, keeping the dream of an open source DOS alternative alive
+## FreeDOS 1.4 brings improvements to this open source DOS alternative
 
 date: 2025-04-08, from: Liliputing
 
 <p>FreeDOS is an open source operating system designed to let you run DOS programs without installing an operating system that Microsoft abandoned decades ago. Unlike some other open source alternatives to Microsoft operating systems, FreeDOS has been feature complete and stable for a very long time&#8230; but that doesn&#8217;t mean there&#8217;s not room for improvement. [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/freedos-1-4-released-keeping-the-dream-of-an-open-source-dos-alternative-alive/">FreeDOS 1.4 released, keeping the dream of an open source DOS alternative alive</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+<p>The post <a href="https://liliputing.com/freedos-1-4-released-keeping-the-dream-of-an-open-source-dos-alternative-alive/">FreeDOS 1.4 brings improvements to this open source DOS alternative</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
  
 
 <audio crossorigin="anonymous" controls="controls">

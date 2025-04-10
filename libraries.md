@@ -1,11 +1,25 @@
 ---
 title: libraries
-updated: 2025-04-09 14:06:49
+updated: 2025-04-10 06:08:20
 ---
 
 # libraries
 
-(date: 2025-04-09 14:06:49)
+(date: 2025-04-10 06:08:20)
+
+---
+
+## No One Size Fits All: The Case for Taking a National Approach to PID Adoption
+
+date: 2025-04-10, from: Scholarly Kitchen
+
+<p>Today, Alice Meadows shares some learnings from MoreBrains Cooperative's recent cost-benefit analysis of persistent identifiers, conducted on behalf of the Czech National Library of Technology (NTK).</p>
+<p>The post <a href="https://scholarlykitchen.sspnet.org/2025/04/10/no-one-size-fits-all-the-case-for-taking-a-national-approach-to-pid-adoption/">No One Size Fits All: The Case for Taking a National Approach to PID Adoption </a> appeared first on <a href="https://scholarlykitchen.sspnet.org">The Scholarly Kitchen</a>.</p>
+ 
+
+<br> 
+
+<https://scholarlykitchen.sspnet.org/2025/04/10/no-one-size-fits-all-the-case-for-taking-a-national-approach-to-pid-adoption/>
 
 ---
 
@@ -18,6 +32,18 @@ Covatti, Gustavo; Li, Kai-Yun; Podgorski, Joel; Winkel, Lenny H.E.; Berg, Michae
 <br> 
 
 <http://hdl.handle.net/20.500.11850/729458>
+
+---
+
+## Detailed evolution of a long-lived Siberian summer cyclone that evolved from a heat low into an Arctic cyclone
+
+date: 2025-04-10, from: ETH Zurich, recently added
+
+Schnyder, Franziska 
+
+<br> 
+
+<http://hdl.handle.net/20.500.11850/730684>
 
 ---
 

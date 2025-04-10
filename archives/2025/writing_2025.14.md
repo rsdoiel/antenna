@@ -1,11 +1,44 @@
 ---
 title: writing
-updated: 2025-04-09 14:06:48
+updated: 2025-04-10 06:08:18
 ---
 
 # writing
 
-(date: 2025-04-09 14:06:48)
+(date: 2025-04-10 06:08:18)
+
+---
+
+## 2025 Romantic Novel Awards Shortlists
+
+date: 2025-04-09, from: Locus Magazine
+
+<p>The Romantic Novelists&#8217; Association (RNA) has announced the shortlists for the 2025 Romantic Novel Awards. Titles and authors of genre interest include:</p>
+<div class="nobullets">
+<p><strong>The Fantasy Romantic Novel Award</strong></p>
+<ul>
+<li><strong>The Love of Her Lives</strong>, C.J. Connolly (Joffe)</li>
+<li><strong>Now Comes the Mist</strong>, Julie C. Dao (Podium)</li>
+<li><strong>Meet Me on the Bridge</strong>, Sarah J. Harris (Amazon)</li>
+<li><strong>Apprentice to the Villain</strong>, Hannah Nicole Maehrer (Penguin)</li>
+<li><strong>The Courting of Bristol Keats</strong>, </li></ul></div> <a href="https://locusmag.com/2025/04/2025-romantic-novel-awards-shortlists/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-romantic-novel-awards-shortlists/>
+
+---
+
+## 2025 HWA Lifetime Achievement Awards
+
+date: 2025-04-09, from: Locus Magazine
+
+<p>The Horror Writers Association (HWA) has announced David Cronenberg, Dame Susan Elizabeth Hill, and Del and Sue Howison as recipients of the Lifetime Achievement Award, presented periodically by the Board of Trustees to &#8220;an individual whose work has substantially influenced the horror genre.&#8221;</p>
+<p>The award is voted on by a Lifetime Achievement Awards Committee appointed annually by the president of HWA. Recipients will be honored along with the winners of  <a href="https://locusmag.com/2025/04/2025-hwa-lifetime-achievement-awards/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/2025-hwa-lifetime-achievement-awards/>
 
 ---
 

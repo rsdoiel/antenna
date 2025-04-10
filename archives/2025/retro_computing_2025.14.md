@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-09 14:06:51
+updated: 2025-04-10 06:08:21
 ---
 
 # retro computing
 
-(date: 2025-04-09 14:06:51)
+(date: 2025-04-10 06:08:21)
+
+---
+
+## Archive Edition 27:5 reviewed
+
+date: 2025-04-10, from: Icon Bar, RISC OS News
+
+Archive Magazine 27:5 arrived hot off the press for attendees of RISC OS North to pick up their copy. If you were not there, it should appearing in your mail box/doorstep as usual. 
+
+<br> 
+
+<http://www.iconbar.com/comments/rss/news2193.html>
 
 ---
 

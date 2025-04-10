@@ -1,11 +1,139 @@
 ---
 title: going electric
-updated: 2025-04-09 14:06:51
+updated: 2025-04-10 06:08:22
 ---
 
 # going electric
 
-(date: 2025-04-09 14:06:51)
+(date: 2025-04-10 06:08:22)
+
+---
+
+## Trump’s massive tariffs – and sudden backtrack – bring chaos to e-bike prices
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/05/ananda-factory-tour-header.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The e-bike market in the US, and the broader micromobility industry consisting of e-bikes, e-scooters, and other ridables, is feeling the rollercoaster effects of the Trump administration’s recent move to impose sweeping new tariffs on global imports, only to swiftly reverse course just days later. </p>
+
+
+
+<p>The abrupt policy changes have sent shockwaves through the micromobility industry, leaving companies scrambling to adjust and consumers uncertain about future pricing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="ebikes" data-layer-viewtype="unknown" data-post-id="410694" href="https://electrek.co/2025/04/10/trumps-massive-tariffs-and-sudden-backtrack-bring-chaos-to-e-bike-prices/#more-410694" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/trumps-massive-tariffs-and-sudden-backtrack-bring-chaos-to-e-bike-prices/>
+
+---
+
+## Polestar Came Back With A Vengeance In Q1
+
+date: 2025-04-10, from: Inside EVs News
+
+After a disappointing 2024, Polestar gets its swagger back with a 76% increase in first-quarter sales. Can it keep the momentum up? 
+
+<br> 
+
+<https://insideevs.com/news/756202/polestar-global-sales-q1-2025/>
+
+---
+
+## ChargePoint May Soon Double Your Home-Charging Speeds
+
+date: 2025-04-10, from: Inside EVs News
+
+ChargePoint's new AC charging adds a lot of speed for capable EVs—not to mention bidirectional charging. You may want to upgrade. 
+
+<br> 
+
+<https://insideevs.com/news/756198/chargepoint-new-ac-upgrade-speed/>
+
+---
+
+## ChargePoint unveils ‘revolutionary’ V2X EV charger tech that can double Level 2 speeds
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/ChargePoint-charger-new-level-2.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>EV charging veteran ChargePoint has unveiled its new charger product architecture, which is described as a “generational leap in AC Level 2 charging.” The new <a href="http://ChargePoint">ChargePoint</a> technology designed for consumers in North America and Europe will enable vehicle-to-everything (V2X) capabilities and the ability to charge your EV in as quickly as four hours.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="bidirectional-charging,chargepoint,ev-chargers,ev-charging" data-layer-viewtype="unknown" data-post-id="410515" href="https://electrek.co/2025/04/10/chargepoint-unveils-revolutionary-v2x-ev-charger-tech-that-can-double-level-2-speeds/#more-410515" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/chargepoint-unveils-revolutionary-v2x-ev-charger-tech-that-can-double-level-2-speeds/>
+
+---
+
+## Nissan’s Lidar-Based Driver Assistance System Is Coming In 2027
+
+date: 2025-04-10, from: Inside EVs News
+
+The next-generation ProPilot suite has several sensors and uses Wayve’s AI Driver software that can react in real time. 
+
+<br> 
+
+<https://insideevs.com/news/756167/nissan-lidar-adas-2027/>
+
+---
+
+## Do you prefer one-pedal driving?
+
+date: 2025-04-09, from: Electrek Feed
+
+ 
+
+<br> 
+
+<https://electrek.co/poll-post/do-you-prefer-one-pedal-driving/>
+
+---
+
+## BYD's Five-Minute Fast-Charging EV Is Even Cheaper Than We Thought
+
+date: 2025-04-09, from: Inside EVs News
+
+The BYD Han L sedan blows every other EV out of the water when it comes to charging, but still costs less than a Tesla Model 3. 
+
+<br> 
+
+<https://insideevs.com/news/756144/byd-han-l-megawatt-charging/>
+
+---
+
+## Hyundai is teasing a sleek new electric SUV in China: Is this the IONIQ 4?
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Hyundai-IONIQ-4-teaser.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai is about to launch a new electric SUV in China. With its big debut coming up, <a href="https://electrek.co/guides/hyundai/">Hyundai</a> just dropped a sneak peek, and it looks like it could be the IONIQ 4. Check it out for yourself in the video below.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai" data-layer-viewtype="unknown" data-post-id="410641" href="https://electrek.co/2025/04/09/hyundai-teases-new-electric-suv-china-ioniq-4/#more-410641" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/hyundai-teases-new-electric-suv-china-ioniq-4/>
+
+---
+
+## UK unveils largest curbside EV charger installation of 6,000 ports
+
+date: 2025-04-09, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/chargy-brighton-hove-curbside-charging.jpg?quality=82&#038;strip=all&#038;w=1200" /></div><p>Charge point provider <a href="https://char.gy/us" target="_blank" rel="noreferrer noopener">char.gy</a> has secured a £130 million contract to install 6,000 curbside EV chargers for Brighton and Hove City Council (BHCC) – the UK’s largest installation of its kind.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="curbside-charging,ev-charging,uk,united-kingdom" data-layer-viewtype="unknown" data-post-id="410651" href="https://electrek.co/2025/04/09/uk-largest-curbside-ev-charger-installation-6000-ports/#more-410651" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/09/uk-largest-curbside-ev-charger-installation-6000-ports/>
 
 ---
 
@@ -29,7 +157,7 @@ date: 2025-04-09, from: Electrek Feed
 
 
 
- <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="410602" href="https://electrek.co/2025/04/09/tesla-model-3-and-model-y-prices-rose-higher-in-march-as-sales-fell/#more-410602" class="more-link">more…</a> 
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-vehicles,ev-sales,evs,kelley-blue-book,tesla,tesla-model-3,tesla-model-y" data-layer-viewtype="unknown" data-post-id="410602" href="https://electrek.co/2025/04/09/tesla-model-3-and-model-y-prices-rose-higher-in-march-as-sales-fell/#more-410602" class="more-link">more…</a> 
 
 <br> 
 
@@ -269,7 +397,7 @@ date: 2025-04-09, from: Electrek Feed
 
 date: 2025-04-09, from: Electrek Feed
 
-<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Artemis-EF-12-Escape-copy.jpeg?quality=82&#038;strip=all&#038;w=1333" /></div><p>We recently had the chance to take an up-close look at the 100% electric EF-12 Escape. The passenger hydrofoil ferry is one of the many vessels the UK-based company designed, and we might be seeing more of them in the near future as the company expands into the US.</p>
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/03/Artemis-EF-12-Escape-copy.jpeg?quality=82&#038;strip=all&#038;w=1333" /></div><p>We recently had the chance to take an up-close look at the 100% electric Artemis EF-12 Escape. The passenger hydrofoil ferry is one of the many vessels the UK-based company designed, and we might be seeing more of them in the near future as the company expands into the US.</p>
 
 
 

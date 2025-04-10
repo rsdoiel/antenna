@@ -1,11 +1,95 @@
 ---
 title: food
-updated: 2025-04-09 14:06:52
+updated: 2025-04-10 06:08:22
 ---
 
 # food
 
-(date: 2025-04-09 14:06:52)
+(date: 2025-04-10 06:08:22)
+
+---
+
+## Bon Iver And Ruby Coffee Roasters Team Up For Limited Edition Coffees
+
+date: 2025-04-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. SABLE, fABLE releases tomorrow, April 11th. 
+
+<br> 
+
+<https://sprudge.com/bon-iver-and-ruby-coffee-roasters-team-up-for-limited-edition-coffees-313640.html>
+
+---
+
+## Pasta e Ceci (Chickpea Pasta)
+
+date: 2025-04-10, from: Closet Cooking
+
+<div><img src="https://www.closetcooking.com/wp-content/uploads/2025/04/Pasta-e-Ceci-Chickpea-Pasta-1200-3377.jpg"/></div>
+<p>A quick, easy and light soup with pasta and chickpeas! This is a super simple Italian style chickpea and pasta soup that takes almost no time to make! Other than the chickpeas and pasta, the soup is seasoned with onions, garlic, tomato paste, rosemary and pecorino romano cheese. I like to use canned chickpeas so...</p>
+<p><a class="more-link" href="https://www.closetcooking.com/pasta-e-ceci-chickpea-pasta/">Read On &#8594;</a></p>
+<p>The post <a href="https://www.closetcooking.com/pasta-e-ceci-chickpea-pasta/">Pasta e Ceci (Chickpea Pasta)</a> appeared first on <a href="https://www.closetcooking.com">Closet Cooking</a>.</p>
+ 
+
+<br> 
+
+<https://www.closetcooking.com/pasta-e-ceci-chickpea-pasta/>
+
+---
+
+## Katharine Hepburn’s Fudgy Brownie Hack Is Pure Genius
+
+date: 2025-04-10, from: Taste of Home
+
+<p>Use less, not more, of this one important ingredient.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/katharine-hepburn-brownies/">Katharine Hepburn’s Fudgy Brownie Hack Is Pure Genius</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/katharine-hepburn-brownies/>
+
+---
+
+## 15 Ways to Fill Your Easter Basket Without Hard-Boiled Eggs
+
+date: 2025-04-09, from: Taste of Home
+
+<p>Eggs are in short supply this year, but you can still fill your family's Easter baskets with fun Easter egg alternatives.</p>
+<p>The post <a href="https://www.tasteofhome.com/collection/easter-egg-alternatives/">15 Ways to Fill Your Easter Basket Without Hard-Boiled Eggs</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/collection/easter-egg-alternatives/>
+
+---
+
+## This Is What Queen Elizabeth Gave Up for Lent Every Year
+
+date: 2025-04-09, from: Taste of Home
+
+<p>For 40 days every Lenten season, the Queen would put her royal sweet tooth on hold. </p>
+<p>The post <a href="https://www.tasteofhome.com/article/queen-elizabeth-gave-up-lent/">This Is What Queen Elizabeth Gave Up for Lent Every Year</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/queen-elizabeth-gave-up-lent/>
+
+---
+
+## I Tried the Popeyes Pickle Menu—Here’s My Honest Review
+
+date: 2025-04-09, from: Taste of Home
+
+<p>It wasn't an April Fools' prank! There really is a limited-time pickle menu now available at Popeyes.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/popeyes-pickle-menu-review/">I Tried the Popeyes Pickle Menu—Here&#8217;s My Honest Review</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/popeyes-pickle-menu-review/>
 
 ---
 
@@ -231,7 +315,7 @@ From avoiding crowds to asking the right questions, here are some tried-and-true
 
 date: 2025-04-08, from: Daily Coffee News
 
-<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg" class="attachment-large size-large wp-post-image" alt="adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-768x545.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The coffee in the cups of hundreds of millions of Americans this morning is a minor miracle, made possible through the work of a long chain of related actors. That... 
+<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg" class="attachment-large size-large wp-post-image" alt="adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-768x545.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Update, April 9, 2025: This story was originally published prior to U.S. President Donald Trump&#8217;s April 9 announcement that the U.S. would postpone most new tariffs for 90 days.] The... 
 
 <br> 
 
@@ -267,7 +351,7 @@ This is how you transform a bad rosé into something bubbly and palatable.
 
 date: 2025-04-08, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee-exempt-from-tariffs" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros.jpg 1000w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>New York City-based specialty coffee roasting company Coffee Bros. is calling on the federal government to exempt coffee from the sweeping new tariffs announced by President Donald Trump. The company&#8217;s... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee-exempt-from-tariffs" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-bros.jpg 1000w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>[Update, April 9, 2025: This story was originally published prior to U.S. President Donald Trump&#8217;s April 9 announcement that the U.S. would postpone most new tariffs for 90 days.] New... 
 
 <br> 
 
