@@ -1,11 +1,215 @@
 ---
 title: science and technology
-updated: 2025-04-10 06:08:17
+updated: 2025-04-10 14:08:42
 ---
 
 # science and technology
 
-(date: 2025-04-10 06:08:17)
+(date: 2025-04-10 14:08:42)
+
+---
+
+## Return of Redis creator bears fruit with vector set data type
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>LLM query caching also lands soon</h4> <p>The return of Redis creator Salvatore Sanfilippo has borne fruit in the form of a new data type - vector sets - for the widely used cache-turned-multi-model database.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/return_of_redis_creator/>
+
+---
+
+## OpenAI slams 'sham' takeover bid by wannabe 'AGI dictator' Musk in countersuit
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Billionaire &#39;tried every tool to harm us&#39;, says super lab, and it wants judge to end &#39;harassment&#39;</h4> <p>OpenAI has countersued co-founder Elon Musk, accusing him of unlawful and unfair tactics to derail its restructuring plans and demanding a judge hold him liable for damage allegedly inflicted on the AI super-lab.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/openai_countersues_elon_musk/>
+
+---
+
+## GLOBE, NASA, and the Monsignor McClancy Memorial High School in Queens, New York
+
+date: 2025-04-10, from: NASA breaking news
+
+When students actively participate in scientific investigations that connect to their everyday lives, something powerful happens: they begin to see themselves as scientists. This sense of relevance and ownership can spark a lifelong interest in science, technology, engineering, and math (STEM), paving the way for continued education and even future careers in these fields. Opportunities […] 
+
+<br> 
+
+<https://science.nasa.gov/learning-resources/science-activation/globe-nasa-and-the-monsignor-mcclancy-memorial-high-school-in-queens-new-york/>
+
+---
+
+## US sensor giant Sensata admits ransomware derailed ops
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Props for the transparency though</h4> <p>US sensor maker Sensata has told regulators that a ransomware attack caused an operational disruption, and that it&#39;s still working to fully restore affected systems.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/us_sensor_giant_sensata_ransomware/>
+
+---
+
+## Satellite phone tech coming to your mobe this year – but who pays for it?
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Operators mulling whether to price tech into subs, says report, which notes Musk&#39;s Starlink satellite dominance</h4> <p>This year will be Ground Zero for the commercialization of satellite smartphone services, but a key question is whether operators will charge extra for this capability or include it as part of customer subscriptions.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/satellite_phone_service/>
+
+---
+
+## NASA Measures Moonlight to Improve Earth Observations
+
+date: 2025-04-10, from: NASA breaking news
+
+Flying high above the clouds and moon-gazing may sound like a scene from a timeless romance, but NASA did just that in the name of Earth science research. In March 2025 pilots took the agency’s ER-2 science aircraft on a series of night flights over NASA’s Armstrong Flight Research Center in Edwards, California, as the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/armstrong/nasa-measures-moonlight-to-improve-earth-observations/>
+
+---
+
+## Atlassian makes its Rovo AI free, for now, to reduce 'friction' holding you back from agentic nirvana
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Apparently it&#39;s time to assume you will work with AI and must &#39;move from doing the thing to being the architect of the thing&#39;</h4> <p>Atlassian has decided to make its Rovo AI suite free but will in future introduce fees for use beyond a yet-to-be-determined threshold.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/atlassian_rovo_free_teams_news/>
+
+---
+
+## Have We Been to Uranus? We Asked a NASA Expert: Episode 56
+
+date: 2025-04-10, from: NASA breaking news
+
+Have we ever been to Uranus? The answer is simple, yes, but only once. The Voyager II spacecraft flew by the planet Uranus back in 1986, during a golden era when the Voyager spacecraft explored all four giant planets of our solar system. It revealed an extreme world, a planet that had been bowled over [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/directorates/smd/have-we-been-to-uranus-we-asked-a-nasa-expert-episode-56/>
+
+---
+
+## Linear Sand Dunes in the Great Sandy Desert
+
+date: 2025-04-10, from: NASA breaking news
+
+On March 25, 2013, an astronaut aboard the International Space Station took this photo of the Great Sandy Desert in northwest Australia, showcasing linear dunes separated in a roughly regular fashion. When you fly over such dune fields—either in an airplane or the space station—the fire scars stand out. Where thin vegetation has been burned, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/image-article/linear-sand-dunes-in-the-great-sandy-desert/>
+
+---
+
+## Station Nation: Meet Nick Kopp, SpaceX Dragon Flight Lead
+
+date: 2025-04-10, from: NASA breaking news
+
+Nick Kopp is a Dragon flight lead in the Transportation Integration Office at Johnson Space Center in Houston. He is currently leading NASA’s efforts to prepare, launch, and return the agency’s 32nd SpaceX commercial resupply services mission. He works directly with SpaceX and collaborates with NASA’s many internal, external, and international partners to ensure the [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/centers-and-facilities/johnson/station-nation-meet-nick-kopp-spacex-dragon-flight-lead/>
+
+---
+
+## NASA’s Perseverance Mars Rover Studies Trove of Rocks on Crater Rim
+
+date: 2025-04-10, from: NASA breaking news
+
+The diversity of rock types along the rim of Jezero Crater offers a wide glimpse of Martian history. Scientists with NASA’s Perseverance rover are exploring what they consider a veritable Martian cornucopia full of intriguing rocky outcrops on the rim of Jezero Crater. Studying rocks, boulders, and outcrops helps scientists understand the planet’s history, evolution, [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-mars-rover-studies-trove-of-rocks-on-crater-rim/>
+
+---
+
+## AmigaOS updated in 2025 for some reason
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>Hyperion ships another patch, which is nice</h4> <p>Belgian software house Hyperion Entertainment has released <a target="_blank" href="https://www.hyperion-entertainment.com/index.php/news/1-latest-news/320-new-update-3-for-amigaos-32-available-for-download" rel="nofollow">Update 3</a> for AmigaOS <a target="_blank" href="https://www.hyperion-entertainment.com/index.php/news/1-latest-news/290-amigaos-42-for-all-classic-amigas-released-and-available" rel="nofollow">3.2</a>, the version of the classic operating system it launched in 2021. The update targets Amigas with 680x0 processors, including systems enhanced with <a target="_blank" href="https://www.theregister.com/2024/02/12/pistorm_accelerated_amiga_pi/">PiStorm accelerator boards</a>.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/amigaos_3_2_3/>
+
+---
+
+## NASA’s SpaceX 32nd Resupply Mission Launches New Research to Station
+
+date: 2025-04-10, from: NASA breaking news
+
+NASA and SpaceX are launching the company’s 32nd commercial resupply services mission to the International Space Station later this month, bringing a host of new research to the orbiting laboratory. Aboard the SpaceX Dragon spacecraft are experiments focused on vision-based navigation, spacecraft air quality, materials for drug and product manufacturing, and advancing plant growth with [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/missions/station/iss-research/nasas-spacex-32nd-resupply-mission-launches-new-research-to-station/>
+
+---
+
+## NASA Webb’s Autopsy of Planet Swallowed by Star Yields Surprise
+
+date: 2025-04-10, from: NASA breaking news
+
+Observations from NASA’s James Webb Space Telescope have provided a surprising twist in the narrative surrounding what is believed to be the first star observed in the act of swallowing a planet. The new findings suggest that the star actually did not swell to envelop a planet as previously hypothesized. Instead, Webb’s observations show the […] 
+
+<br> 
+
+<https://science.nasa.gov/missions/webb/nasa-webbs-autopsy-of-planet-swallowed-by-star-yields-surprise/>
+
+---
+
+## Amazon Nova Sonic AI doesn't just hear you, it takes tonal cues too
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>The foundation model supports real-time bi-directional speech</h4> <p>Amazon has introduced a foundation model that claims to grasp not just what you&#39;re saying, but how you&#39;re saying it - tone, hesitation, and more.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/amazon_nova_sonic_speech_model/>
+
+---
+
+## M365 Family users wake up to notice 'Your subscription expired'
+
+date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
+
+<h4>License to freak out? El Reg Reader recommends reverting to pen, paper, pub</h4> <p><strong>Final update</strong>  Readers have flooded our mailboxes with reports that Microsoft 365 Family licensing has fallen over this morning, so those of you who provide tech support to relatives or those using the office suite for a small business, consider yourself warned.…</p> 
+
+<br> 
+
+<https://go.theregister.com/feed/www.theregister.com/2025/04/10/not_just_you_microsoft_365/>
+
+---
+
+## NASA Offers Free High School Engineering Program This Summer
+
+date: 2025-04-10, from: NASA breaking news
+
+NASA’s Glenn Research Center in Cleveland is launching the NASA Glenn High School Engineering Institute this summer. The free, work-based learning experience is designed to help high school students prepare for a future in the aerospace workforce. Rising high school juniors and seniors in Northeast Ohio can submit applications for this new, in-person summer program [&#8230;] 
+
+<br> 
+
+<https://www.nasa.gov/news-release/nasa-offers-free-high-school-engineering-program-this-summer/>
 
 ---
 
@@ -97,7 +301,7 @@ date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
 
 date: 2025-04-10, updated: 2025-04-10, from: The Register (UK I.T. News)
 
-<h4>Llama 4 Scout is just the right size to ingest a lifetime of Facebook and Insta posts</h4> <p>In the last twelve months generative AI has transformed from a helpful and cheeky tool into something more worrying.…</p> 
+<h4>Llama 4 Scout is just the right size to ingest a lifetime of Facebook and Insta posts</h4> <p><strong>Column</strong>  In the last twelve months generative AI has transformed from a helpful and cheeky tool into something more worrying.…</p> 
 
 <br> 
 
@@ -337,7 +541,7 @@ Data – and our ability to understand and use it – shapes nearly every aspect
 
 date: 2025-04-09, updated: 2025-04-10, from: The Register (UK I.T. News)
 
-<h4>Middle Kingdom gets 125%. So this is what it&#39;s like living in reality TV</h4> <p><strong>World War Fee</strong>  The EU voted Wednesday to introduce 25 percent import tariffs on American goods, with the first duties being collected from European consumers on April 15.…</p> 
+<h4>Middle Kingdom gets 145%. So this is what it&#39;s like living in reality TV</h4> <p><strong>World War Fee</strong>  The EU voted Wednesday to introduce 25 percent import tariffs on American goods, with the first duties being collected from European consumers on April 15.…</p> 
 
 <br> 
 
@@ -551,7 +755,7 @@ date: 2025-04-09, updated: 2025-04-09, from: The Register (UK I.T. News)
 
 ## Bad luck, Windows 10 users. No fix yet for ransomware-exploited bug
 
-date: 2025-04-08, updated: 2025-04-09, from: The Register (UK I.T. News)
+date: 2025-04-08, updated: 2025-04-10, from: The Register (UK I.T. News)
 
 <h4>A novel way to encourage upgrades? Microsoft would never stoop so low</h4> <p><strong>Patch Tuesday</strong>  Patch Tuesday has arrived, and Microsoft has revealed one flaw in its products under active exploitation and 11 critical issues in its code to fix.…</p> 
 

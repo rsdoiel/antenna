@@ -1,11 +1,23 @@
 ---
 title: retro computing
-updated: 2025-04-10 06:08:21
+updated: 2025-04-10 14:08:46
 ---
 
 # retro computing
 
-(date: 2025-04-10 06:08:21)
+(date: 2025-04-10 14:08:46)
+
+---
+
+## Servicing a Power Mac G5 Quad LCS – An A-Z Guide
+
+date: 2025-04-10, from: Happy Macs site
+
+The Achilles heel of most late 2005 Power Mac G5 Quads is the Liquid Cooling System (LCS). When it starts to fail, your G5 Quad will run louder and hotter and eventually will cease to operate entirely. This blog post concerns itself with servicing that LCS, so that your Quad remains a productive member of [&#8230;] 
+
+<br> 
+
+<https://happymacs.wordpress.com/2025/04/10/servicing-a-power-mac-g5-quad-lcs-an-a-z-guide/>
 
 ---
 

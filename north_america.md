@@ -1,11 +1,137 @@
 ---
 title: north america
-updated: 2025-04-10 06:08:14
+updated: 2025-04-10 14:08:39
 ---
 
 # north america
 
-(date: 2025-04-10 06:08:14)
+(date: 2025-04-10 14:08:39)
+
+---
+
+## Off the cliff
+
+date: 2025-04-10, from: The Contrarian
+
+A cartoon by RJ Matson. 
+
+<br> 
+
+<https://contrarian.substack.com/p/off-the-cliff>
+
+---
+
+## Why are the anti-Trump/Musk protests so white?
+
+date: 2025-04-10, from: The Contrarian
+
+Black people know the laws of this country, including the First Amendment, still don&#8217;t apply to all its citizens. 
+
+<br> 
+
+<https://contrarian.substack.com/p/why-are-the-anti-trumpmusk-protests>
+
+---
+
+## Rural America fights back! Jess Piper on Trump's impact in red states
+
+date: 2025-04-10, from: The Contrarian
+
+"There are cracks in the facade" 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161026767/e0b47853f2b62ec98d6f20383b7168ee.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161026767/e0b47853f2b62ec98d6f20383b7168ee.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/rural-america-fights-back-jess-piper>
+
+---
+
+## Trump’s twisted world: Where criminals are victims and public servants are villains
+
+date: 2025-04-10, from: The Contrarian
+
+His dangerous use of executive power to target perceived enemies comes with the weight of DOJ loyalists. 
+
+<br> 
+
+<https://contrarian.substack.com/p/trumps-twisted-world-where-criminals>
+
+---
+
+## USC Follows Amazon and Musk’s SpaceX in Calling Labor Board Unconstitutional
+
+date: 2025-04-10, from: Capital and Main
+
+<p>To block a union that would represent 2,500 faculty members, the private university echoed a corporate argument.</p>
+<p>The post <a href="https://capitalandmain.com/usc-follows-amazon-and-musks-spacex-in-calling-labor-board-unconstitutional">USC Follows Amazon and Musk’s SpaceX in Calling Labor Board Unconstitutional</a> appeared first on <a href="https://capitalandmain.com"></a>.</p>
+ 
+
+<br> 
+
+<https://capitalandmain.com/usc-follows-amazon-and-musks-spacex-in-calling-labor-board-unconstitutional>
+
+---
+
+##  Thanks To Trump’s Tax Scam, Death Isn’t The End For GOP Lawmakers’ Riches 
+
+date: 2025-04-10, from: The Lever News
+
+ A new report finds Republican lawmakers stand to massively financially benefit from Trump’s renewed push to end the “death tax.”  
+
+<br> 
+
+<https://www.levernews.com/thanks-to-trumps-tax-scam-death-isnt-the-end-for-gop-lawmakers-riches/>
+
+---
+
+## 80 years ago, FDR’s death ended one of nation’s most consequential presidencies
+
+date: 2025-04-10, from: The Contrarian
+
+Roosevelt led the nation through the Depression and World War II through a record 12 years in office. 
+
+<br> 
+
+<https://contrarian.substack.com/p/80-years-ago-fdrs-death-ended-one>
+
+---
+
+## The Contrarian covers the Democracy Movement
+
+date: 2025-04-10, from: The Contrarian
+
+Thursday: More posts from the Hands Off protests across the country, including in Florida, Michigan, Indiana, Texas, and more. 
+
+<br> 
+
+<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
+
+---
+
+## 80 years of good work gone in 80 days
+
+date: 2025-04-10, from: The Contrarian
+
+The United States has demonstrated to the world that it cannot fully be trusted. 
+
+<br> 
+
+<https://contrarian.substack.com/p/80-years-of-good-work-gone-in-80>
+
+---
+
+## Coffee with The Contrarians 04/10
+
+date: 2025-04-10, from: The Contrarian
+
+A recording from Coffee with The Contrarians LIVE 04/10 
+
+<audio crossorigin="anonymous" controls="controls">
+<source type="audio/mpeg" src="https://api.substack.com/feed/podcast/161017934/d24437941ef3f893f8d8257478271332.mp3"></source>
+</audio> <a href="https://api.substack.com/feed/podcast/161017934/d24437941ef3f893f8d8257478271332.mp3" target="_blank">download audio/mpeg</a><br> 
+
+<https://contrarian.substack.com/p/coffee-with-the-contrarians-0410>
 
 ---
 
@@ -108,18 +234,6 @@ Yesterday, SCOTUS delivered a 5-4 ruling allowing the Trump administration to co
 </audio> <a href="https://api.substack.com/feed/podcast/160950979/761048db4bbd27b1728e06ed6ea027a8.mp3" target="_blank">download audio/mpeg</a><br> 
 
 <https://contrarian.substack.com/p/steve-vladeck-and-jen-rubin-unpack>
-
----
-
-## The Contrarian covers the Democracy Movement
-
-date: 2025-04-09, from: The Contrarian
-
-Wednesday: More posts from the Hands Off protests across the country, including in Minnesota, Arizona, Oregon, Pennsylvania, Maine, and more. 
-
-<br> 
-
-<https://contrarian.substack.com/p/the-contrarian-covers-the-citizens>
 
 ---
 

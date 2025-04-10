@@ -1,11 +1,303 @@
 ---
 title: going electric
-updated: 2025-04-10 06:08:22
+updated: 2025-04-10 14:08:47
 ---
 
 # going electric
 
-(date: 2025-04-10 06:08:22)
+(date: 2025-04-10 14:08:47)
+
+---
+
+## Tesla unveils new cheaper, but nerfed ‘Long Range’ Cybertruck
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Screenshot-2025-04-10-at-4.41.14 PM.jpg?quality=82&#038;strip=all&#038;w=1137" /></div><p>Tesla has unveiled a new version of its previously announced RWD Cybertruck. It will have a longer range but be nerfed with a lesser suspension and fewer features.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla,tesla-cybertruck" data-layer-viewtype="unknown" data-post-id="410854" href="https://electrek.co/2025/04/10/tesla-unveils-cheaper-nerfed-long-range-cybertruck/#more-410854" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/tesla-unveils-cheaper-nerfed-long-range-cybertruck/>
+
+---
+
+## Hyundai’s new IONIQ 6 already looks like a major upgrade on the road [Video]
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Hyundais-new-IONIQ-6.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hyundai’s electric fastback is getting a fresh new look. Just a week after unveiling the redesigned <a href="https://electrek.co/guides/hyundai-ioniq-6/">IONIQ 6</a>, we are already getting our first look at it out in the real world. Hyundai’s new IONIQ 6 was spotted driving in Korea, and from the looks of it, this could be a major upgrade.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="hyundai,hyundai-ioniq-6" data-layer-viewtype="unknown" data-post-id="410848" href="https://electrek.co/2025/04/10/hyundais-stylish-new-ioniq-6-spotted-in-public-video/#more-410848" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/hyundais-stylish-new-ioniq-6-spotted-in-public-video/>
+
+---
+
+## How BYD's Porsche-Fighting Luxury EV Parallel Parks By Sliding
+
+date: 2025-04-10, from: Inside EVs News
+
+BYD's Denza Z9 GT makes parallel parking seamless by "crawling" on the ground.  
+
+<br> 
+
+<https://insideevs.com/news/756258/byd-denza-z9-gt-aparking/>
+
+---
+
+## The 2025 Dodge Charger Daytona EV now has a $6,500 rebate
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Dodge-Charger-Daytona-EV.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>The <a href="https://www.carsdirect.com/buildyourcar/style?make=dodge&amp;model=charger-daytona&amp;src=1001054&amp;lnk=subIDMichelle" target="_blank" rel="noreferrer noopener">2025 Dodge Charger Daytona EV</a> came in hot – and expensive – when it launched at the end of 2024 with no official rebate. But that’s just changed.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="dodge,dodge-charger-daytona,electric-dodge-charger,stellantis" data-layer-viewtype="unknown" data-post-id="410807" href="https://electrek.co/2025/04/10/2025-dodge-charger-daytona-ev-rebate/#more-410807" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/2025-dodge-charger-daytona-ev-rebate/>
+
+---
+
+## Check out the Kia EV2: This small electric SUV has a big personality
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Kia-EV2-interior-2.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Although <a href="https://electrek.co/guides/kia-ev2/">the EV2</a> is Kia’s smallest EV, it won’t feel so small when sitting in it. Kia designed the open interior to give you an escape from the city. After sharing new details at Milan Design Week on Thursday, Kia gave us a closer look at the EV2 inside and out. The new interior design could see its way into future Kia EV models.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="kia,kia-ev2" data-layer-viewtype="unknown" data-post-id="410767" href="https://electrek.co/2025/04/10/kia-ev2-small-electric-suv-big-personality/#more-410767" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/kia-ev2-small-electric-suv-big-personality/>
+
+---
+
+## China just won the EV race due to Trump – it’s now negotiating closer trade with EU
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2024/02/BYD-first-cargo-ship-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>China announced that it has resumed talks with the European Union to lower trade barriers and increase economic cooperation, with specific focus on electric vehicles, in response to US tariffs – showing another way that Trump’s actions will bring ruin to American manufacturing.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="" data-layer-viewtype="unknown" data-post-id="410778" href="https://electrek.co/2025/04/10/china-just-won-the-ev-race-due-to-trump-its-now-negotiating-closer-trade-with-eu/#more-410778" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/china-just-won-the-ev-race-due-to-trump-its-now-negotiating-closer-trade-with-eu/>
+
+---
+
+## Rocsys shows off its tech with a new self-charging, self-driving electric truck [Video]
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Self-charging-truck-Rocsys.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Hands-free EV charging specialist <a href="https://electrek.co/guides/rocsys/">Rocsys</a> demonstrated its encouraging progress in enabling automated driving and charging in the commercial EV segment. As part of the MAGPIE initiative in Europe, Rocsys held a demonstration event in The Netherlands earlier today that showcased a fully electric autonomous truck navigating a port in Rotterdam before self-driving itself to a Rocsys robotic device, which began charging it automatically. You’re going to want to see the video below; it’s pretty awesome. </p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="autonomous-truck,commercial-evs,ev-charging,rocsys" data-layer-viewtype="unknown" data-post-id="410808" href="https://electrek.co/2025/04/10/rocsys-shows-off-tech-self-charging-self-driving-electric-truck-video/#more-410808" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/rocsys-shows-off-tech-self-charging-self-driving-electric-truck-video/>
+
+---
+
+## Rad Power gives RadRover 6 Plus e-bike an extra battery at $1,399, Exclusive renewed Anker SOLIX F3800 at $1,999, EcoFlow, more
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Rad-Power-RadRover-6-Plus-Step-Thru-e-bike-outdoors-2.png?w=1200" /></div><p>Headlining today’s Green Deals is <a href="https://9to5toys.com/2025/04/10/rad-power-earth-day-sale-radrover-6-plus-extra-battery-1399-more/">Rad Power’s newly launched Earth Day Sale</a> with up to $699 in savings on a solid lineup of e-bikes, including returning accessory bundles on its latest models. One notable – and popular – standout is the brand’s <a href="https://9to5toys.com/2025/04/10/rad-power-earth-day-sale-radrover-6-plus-extra-battery-1399-more/">RadRover 6 Plus Step-Thru Fat Tire e-bike</a> that comes along with an extra battery for double the travel time at <a href="https://9to5toys.com/2025/04/10/rad-power-earth-day-sale-radrover-6-plus-extra-battery-1399-more/">$1,399</a>. We’ve also secured an exclusive $680 off deal on the <a href="https://9to5toys.com/2025/04/10/exclusive-refurbished-anker-solix-f3800-1999/">refurbished Anker SOLIX F3800</a> Portable Power Station that is down at <a href="https://9to5toys.com/2025/04/10/exclusive-refurbished-anker-solix-f3800-1999/">$1,999</a>. Lastly, we’ve got the latest flash offers from EcoFlow’s ongoing <a href="https://9to5toys.com/2025/04/01/ecoflow-easter-sale-from-169/">Easter Sale</a> and <a href="https://9to5toys.com/2025/04/04/ecoflow-members-mega-sale-from-113/">Mega Sale</a> for the rest of the day, which include a bundle for the <a href="https://9to5toys.com/2025/04/10/ecoflow-flash-sale-delta-2-with-bag-new-449-low-more/">DELTA 2 Portable Power Station</a> with a waterproof bag for <a href="https://9to5toys.com/2025/04/10/ecoflow-flash-sale-delta-2-with-bag-new-449-low-more/">$449</a>, as well as <a href="https://9to5toys.com/2025/04/10/ecoflow-flash-sale-delta-2-with-bag-new-449-low-more/">two DELTA Pro Ultra Extra Batteries</a> down at<a href="https://9to5toys.com/2025/04/10/ecoflow-flash-sale-delta-2-with-bag-new-449-low-more/"> $4,599</a>. Plus, all the other hangover Green Deals are in the links at the bottom of the page, like yesterday’s new low price on the <a href="https://9to5toys.com/2025/04/09/heybike-early-easter-flash-sale-alpha-e-bike-1499-low-more/">Heybike ALPHA e-bike</a>, and more.</p>
+
+
+
+<p>Head below for other New Green Deals we’ve found today and, of course, <a href="https://electrek.co/best-electric-vehicle-prices/"><em>Electrek</em>’s best EV buying </a>and <a href="https://electrek.co/best-electric-vehicle-leases/">leasing deals</a>. Also, check out the new <a href="https://electrek.co/shop/"><em>Electrek</em> Tesla Shop for the best deals on Tesla accessories</a>.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="green-deals" data-layer-viewtype="unknown" data-post-id="410772" href="https://electrek.co/2025/04/10/radrover-6-plus-e-bike-1399-exclusive-renewed-f3800-ecoflow-more/#more-410772" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/radrover-6-plus-e-bike-1399-exclusive-renewed-f3800-ecoflow-more/>
+
+---
+
+## Pennsylvania dairy farm powers its new electric tractor with biogas
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/volvo-_l120.jpg?quality=82&#038;strip=all&#038;w=1600" /></div><p>An 800-head dairy farm in central Pennsylvania is the first in the United States to create a truly circular energy cycle by using recovered biogas to generate the electricity needed to charge the electric wheel loader that pushes feed to its cattle.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-construction-equipment,farming,volvo" data-layer-viewtype="unknown" data-post-id="410786" href="https://electrek.co/2025/04/10/pennsylvania-dairy-farm-powers-its-new-electric-tractor-with-biogas/#more-410786" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/pennsylvania-dairy-farm-powers-its-new-electric-tractor-with-biogas/>
+
+---
+
+## Cracks are forming in Elon Musk’s armor of lies
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-OpenAi-XAI-Elon-Musk-crack-in-armor-of-lies.jpg?quality=82&#038;strip=all&#038;w=1438" /></div><p>As Elon Musk moves to dismiss a lawsuit from Tesla shareholders claiming he failed his fiduciary duties, OpenAI is now suing Musk and exposing lies, which could help Tesla shareholders.</p>
+
+
+
+<p>It looks like cracks are forming in Elon Musk’s armor of lies.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="elon-musk,openai,tesla,xai" data-layer-viewtype="unknown" data-post-id="410697" href="https://electrek.co/2025/04/10/cracks-are-forming-in-elon-musks-armor-of-lies/#more-410697" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/cracks-are-forming-in-elon-musks-armor-of-lies/>
+
+---
+
+## Mazda’s Tesla Model Y Rival Looks Slick, But There’s A Catch
+
+date: 2025-04-10, from: Inside EVs News
+
+The automaker revealed its EZ-60 electric crossover in China. Here’s why it might be one of the most cutting-edge Mazdas ever. 
+
+<br> 
+
+<https://insideevs.com/news/756222/mazda-ez60-tesla-model-y-rival/>
+
+---
+
+## GM is dropping this gas SUV sooner than expected, but a new luxury EV will step in
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/GM-SUV-luxury-EV.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p><a href="https://electrek.co/guides/gm/">GM</a> is ending production of the gas-powered Cadillac SUV XT6 sooner than expected, and a new luxury EV will replace it. The three-row electric SUV will be placed by a new luxury Cadillac EV at GM’s Spring Hill plant in Tennessee.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="cadillac,general-motors,gm" data-layer-viewtype="unknown" data-post-id="410742" href="https://electrek.co/2025/04/10/gm-dropping-gas-suv-new-luxury-ev-steps-in/#more-410742" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/gm-dropping-gas-suv-new-luxury-ev-steps-in/>
+
+---
+
+## Ford’s Tesla Charging Adapter: The Fascinating Tech That Powers It
+
+date: 2025-04-10, from: Inside EVs News
+
+Ford’s Tesla charging adapter survived all sorts of torture tests. Its supplier explains how it managed to do that. 
+
+<br> 
+
+<https://insideevs.com/news/756138/ford-lectron-tesla-adapter-explained/>
+
+---
+
+## Pebble begins production of its flagship Flow electric travel trailer, deliveries to follow soon
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Pebble-production-flow.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Three months after unveiling the production-intent design of its flagship Flow travel trailer,<a href="https://electrek.co/guides/pebble/"> Pebble</a> has commenced production in California. With Pebble Flow production now underway, the startup says it remains on track to begin initial deliveries very soon.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="electric-rv,pebble,pebble-flow,solar-electric-trailer" data-layer-viewtype="unknown" data-post-id="410546" href="https://electrek.co/2025/04/10/pebble-begins-production-flagship-flow-electric-travel-trailer-deliveries-follow/#more-410546" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/pebble-begins-production-flagship-flow-electric-travel-trailer-deliveries-follow/>
+
+---
+
+## Drivers To New Car Tech: Leave Me The Hell Alone, Please
+
+date: 2025-04-10, from: Inside EVs News
+
+Plus, Tesla's stock rebound doesn't mean its problems are solved. And the 7-year car loan era has begun. 
+
+<br> 
+
+<https://insideevs.com/news/756123/in-car-tech-nagging-survey/>
+
+---
+
+## Smartphone manufacturer Foxconn plans to bring two EV models to the US
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Foxconn-US.jpg?quality=82&#038;strip=all&#038;w=1400" /></div><p>Remember Foxconn? It’s been years since we’ve spoken the name, so it was a big surprise that the automotive division of <a href="https://electrek.co/guides/foxconn/">the behemoth electronics manufacturer</a> would be one of the first Chinese (technically Taiwanese) brands to come to the States. A Foxconn executive recently detailed a full offensive of new BEV models in the works, two of which will hit the US market and one as early as late 2025.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="china,foxconn,united-states" data-layer-viewtype="unknown" data-post-id="410704" href="https://electrek.co/2025/04/10/smartphone-manufacturer-foxconn-plans-to-bring-two-ev-models-to-the-us/#more-410704" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/smartphone-manufacturer-foxconn-plans-to-bring-two-ev-models-to-the-us/>
+
+---
+
+## These Electric Motors Keep Old EVs Running Longer For Less
+
+date: 2025-04-10, from: Inside EVs News
+
+The original Tesla Model S and Renault Zoe can get back on the road quicker and cheaper thanks to remanufactured motors. 
+
+<br> 
+
+<https://insideevs.com/news/756219/tesla-model-s-renault-zoe-redrive/>
+
+---
+
+## Mazda is finally about to launch a real electric SUV: Here’s our first look at the new EZ-60
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Mazda-EZ-60-electric-SUV-1.jpeg?quality=82&#038;strip=all&#038;w=1400" /></div><p>It’s about the size of a Tesla Model Y and surprisingly stylish. <a href="https://electrek.co/guides/mazda/">Mazda</a> revealed the new EZ-60 on Thursday, giving us our first look at the new electric SUV that will be sold globally.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="mazda" data-layer-viewtype="unknown" data-post-id="410696" href="https://electrek.co/2025/04/10/mazda-launch-real-electric-suv-first-look/#more-410696" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/mazda-launch-real-electric-suv-first-look/>
+
+---
+
+## Tesla turns to ‘edgy’ social media marketing amid brand damage
+
+date: 2025-04-10, from: Electrek Feed
+
+<div class="feat-image"><img src="https://electrek.co/wp-content/uploads/sites/3/2025/04/Tesla-edgy-social-media-posts.png?w=1600" /></div><p>Tesla has turned to using ‘edgy’ social media marketing amid a brand damage crisis caused by CEO Elon Musk.</p>
+
+
+
+ <a data-layer-pagetype="post" data-layer-postcategory="tesla" data-layer-viewtype="unknown" data-post-id="410693" href="https://electrek.co/2025/04/10/tesla-edgy-social-media-marketing-amid-brand-damage/#more-410693" class="more-link">more…</a> 
+
+<br> 
+
+<https://electrek.co/2025/04/10/tesla-edgy-social-media-marketing-amid-brand-damage/>
 
 ---
 
@@ -409,7 +701,7 @@ date: 2025-04-09, from: Electrek Feed
 
 ---
 
-## The New Tesla Model Y Is Now $11,000 Cheaper In The U.S.
+## The New Tesla Model Y Is Now $11,000 Cheaper
 
 date: 2025-04-09, from: Inside EVs News
 

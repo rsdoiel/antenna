@@ -1,11 +1,99 @@
 ---
 title: journalism
-updated: 2025-04-10 06:08:19
+updated: 2025-04-10 14:08:44
 ---
 
 # journalism
 
-(date: 2025-04-10 06:08:19)
+(date: 2025-04-10 14:08:44)
+
+---
+
+## Why Understanding Trigonometry Matters Beyond the Classroom
+
+date: 2025-04-10, from: The Sundail (CSUN Student Newspaper)
+
+You&#8217;re standing at the edge of a cliff, phone in hand, trying to measure the distance to the opposite side &#8211; no tape measure, no drone, just your brain. Now... 
+
+<br> 
+
+<https://sundial.csun.edu/192416/sundialbrandstudio/sundial-marketplace/why-understanding-trigonometry-matters-beyond-the-classroom/>
+
+---
+
+## Artificial Intelligence in Education: A Future Revolution Technology
+
+date: 2025-04-10, from: The Sundail (CSUN Student Newspaper)
+
+Key Takeaways AI in education is transforming the way we teach, learn, and interact in learning spaces. Personalized learning adjusts to the pace and requirements of each student, enhancing engagement... 
+
+<br> 
+
+<https://sundial.csun.edu/192410/sundialbrandstudio/sundial-marketplace/artificial-intelligence-in-education-a-future-revolution-technology/>
+
+---
+
+## Students Chalk Up Good Times at USU Billiards Tournament
+
+date: 2025-04-10, from: The Sundail (CSUN Student Newspaper)
+
+In the USU Student Rec Center Games Room, students of different majors and backgrounds gathered together for a billiards tournament. On April 3, participants gathered to compete to win a... 
+
+<br> 
+
+<https://sundial.csun.edu/192405/arts-entertainment/students-chalk-up-good-times-at-usu-billiards-tournament/>
+
+---
+
+## Outside Textbooks: 5 Ways to Paint Campus Life With Art
+
+date: 2025-04-10, from: The Sundail (CSUN Student Newspaper)
+
+University is a canvas, and you&#8217;re the artist.  Your major can be anything you want, but why not add some creative courses? Say goodbye to the constant stress of demanding... 
+
+<br> 
+
+<https://sundial.csun.edu/192402/sundialbrandstudio/sundial-marketplace/outside-textbooks-5-ways-to-paint-campus-life-with-art/>
+
+---
+
+## Former White House economic adviser named Price commencement speaker
+
+date: 2025-04-10, from: The Daily Trojan (USC Student Newspaper)
+
+<p>Cecilia Rouse was the first Black Chair of the Council of Economic Advisers.</p>
+<p>The post <a href="https://dailytrojan.com/2025/04/10/former-white-house-economic-adviser-named-price-commencement-speaker/">Former White House economic adviser named Price commencement speaker</a> appeared first on <a href="https://dailytrojan.com">Daily Trojan</a>.</p>
+ 
+
+<br> 
+
+<https://dailytrojan.com/2025/04/10/former-white-house-economic-adviser-named-price-commencement-speaker/>
+
+---
+
+## Nintendo Switch 2 unveiled – Innovative games, higher performance and higher pricing
+
+date: 2025-04-10, from: The Sundail (CSUN Student Newspaper)
+
+Nintendo and gaming fans have been eagerly anticipating the Nintendo Switch 2 Direct that occurred on April 2, as fans finally got new information about the successor to the original... 
+
+<br> 
+
+<https://sundial.csun.edu/192395/arts-entertainment/nintendo-switch-2-unveiled-innovative-games-higher-performance-and-higher-pricing/>
+
+---
+
+## Residents near Chiquita Canyon Landfill raise concerns over toxic gas emissions across the valley
+
+date: 2025-04-10, from: The Canyon News (COC Student Newspaper)
+
+<p>Since 2022, a burning underground fire at the Chiquita Canyon landfill has&#8230;</p>
+<p>The post <a href="https://canyonsnews.com/chiquita-landfill/">Residents near Chiquita Canyon Landfill raise concerns over toxic gas emissions across the valley</a> appeared first on <a href="https://canyonsnews.com">Canyons News</a>.</p>
+ 
+
+<br> 
+
+<https://canyonsnews.com/chiquita-landfill/>
 
 ---
 

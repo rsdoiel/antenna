@@ -1,11 +1,116 @@
 ---
 title: home
-updated: 2025-04-10 06:08:20
+updated: 2025-04-10 14:08:45
 ---
 
 # home
 
-(date: 2025-04-10 06:08:20)
+(date: 2025-04-10 14:08:45)
+
+---
+
+## From the Archive: An Experimental Firm Brought the Avant-Garde to Japan’s Factory-Made Houses
+
+date: 2025-04-10, from: Dwell
+
+When FOBA introduced a design-conscious alternative to the widely used "housemaker" market, they made a strong case for architecturally assertive standardized homes. 
+
+<br> 
+
+<https://www.dwell.com/article/from-the-archive-an-experimental-firm-brought-the-avant-garde-to-japans-factory-made-houses-b820bbae>
+
+---
+
+## This $1.3M Catskills Cabin Has a Giant, Glass-Wrapped Living Room
+
+date: 2025-04-10, from: Dwell
+
+The getaway is crafted from copper, wood, and stone—and comes with a hinoki soaking tub and 46 acres of woodlands. 
+
+<br> 
+
+<https://www.dwell.com/article/catskills-cabin-stone-copper-roof-callicoon-center-new-york-real-estate-34dcf24a>
+
+---
+
+## A Wedge-Shaped Cabin Braces for Wind on the Chilean Coast
+
+date: 2025-04-10, from: Dwell
+
+Its wood "skeleton" holds a series of indoor/outdoor spaces across three glass-enclosed levels. 
+
+<br> 
+
+<https://www.dwell.com/article/refugio-45-gonzalo-rufin-arquitectos-and-felipe-toro-9d98deca>
+
+---
+
+## Will Rocket Companies’s Recent Acquisitions Transform Home-buying—for the Better?
+
+date: 2025-04-10, from: Dwell
+
+The mortgage originator snatching up Redfin and Mr. Cooper for nearly $11 billion could reshape the consumer experience as a one-stop shop for purchasing a house. 
+
+<br> 
+
+<https://www.dwell.com/article/rocket-companies-mr-cooper-red-fin-acquisition-home-buying-f082985e-0e62cdbc>
+
+---
+
+## 19 of the Best Grapevine Varieties to Grow at Home
+
+date: 2025-04-10, from: The Gardener's Path
+
+<p>Grapevines are easy to cultivate and prized for their climbing, lush foliage and clusters of delicious, juicy fruits that are harvested late in the growing season. There are table varieties for fresh eating, jellies, and juice and those grown for winemaking. Learn about 19 of the best grapevine varieties in this guide.</p>
+<p>The post <a href="https://gardenerspath.com/plants/fruit/best-grape-varieties/">19 of the Best Grapevine Varieties to Grow at Home</a> appeared first on <a href="https://gardenerspath.com">Gardener&#039;s Path</a>.</p>
+ 
+
+<br> 
+
+<https://gardenerspath.com/plants/fruit/best-grape-varieties/>
+
+---
+
+## Do You Know What That Little Tab on Your Rearview Mirror Is For?
+
+date: 2025-04-10, from: Family Handyman Blog
+
+<p>Knowing how to best utilize your rearview mirror includes knowing which setting to use and when. We'll explain the day and night settings. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/day-night-rear-view-mirror/">Do You Know What That Little Tab on Your Rearview Mirror Is For?</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/day-night-rear-view-mirror/>
+
+---
+
+## If You Spot This Yellow Device on Your Windshield, You’ve Been Barnacled
+
+date: 2025-04-10, from: Family Handyman Blog
+
+<p>Parking enforcement and other vehicle control measures are evolving. There's now an alternative to the car boot: a Barnacle. </p>
+<p>The post <a href="https://www.familyhandyman.com/article/barnacle-parking-enforcement-device/">If You Spot This Yellow Device on Your Windshield, You’ve Been Barnacled</a> appeared first on <a href="https://www.familyhandyman.com">Family Handyman</a>.</p>
+ 
+
+<br> 
+
+<https://www.familyhandyman.com/article/barnacle-parking-enforcement-device/>
+
+---
+
+## 35 Types of Watermelon Plants (With Pictures and Names)
+
+date: 2025-04-10, from: Yard Life blog
+
+<p>Watermelon is one of the most iconic and refreshing fruits of summer, but many people don’t realize just how diverse ... </p>
+<p class="read-more-container"><a title="35 Types of Watermelon Plants (With Pictures and Names)" class="read-more button" href="https://ownyardlife.com/35-types-of-watermelon-plants-with-pictures-and-names/#more-26823" aria-label="Read more about 35 Types of Watermelon Plants (With Pictures and Names)">Read more</a></p>
+<p>The post <a href="https://ownyardlife.com/35-types-of-watermelon-plants-with-pictures-and-names/">35 Types of Watermelon Plants (With Pictures and Names)</a> appeared first on <a href="https://ownyardlife.com">Own Yard Life</a>.</p>
+ 
+
+<br> 
+
+<https://ownyardlife.com/35-types-of-watermelon-plants-with-pictures-and-names/>
 
 ---
 
@@ -80,6 +185,18 @@ date: 2025-04-10, from: The Gardener's Path
 
 ---
 
+## 15 Salad Recipes That Put the Taste of Spring Right onto Your Plate
+
+date: 2025-04-10, from: Sunset Magazine - Living in the West
+
+Use ingredients from your own garden or the farmer’s market to toss together an amazing spring salad. Check out our favorite recipes. 
+
+<br> 
+
+<https://www.sunset.com/food-wine/kitchen-assistant/spring-salads>
+
+---
+
 ## 58 Types of Trees with Yellow Flowers (Pictures and Identification)
 
 date: 2025-04-10, from: Yard Life blog
@@ -95,15 +212,15 @@ date: 2025-04-10, from: Yard Life blog
 
 ---
 
-## 15 Salad Recipes That Put the Taste of Spring Right onto Your Plate
+## 10 Stunning Architectural Feats—and How They Pulled Them Off
 
-date: 2025-04-10, from: Sunset Magazine - Living in the West
+date: 2025-04-09, from: Dwell
 
-Use ingredients from your own garden or the farmer’s market to toss together an amazing spring salad. Check out our favorite recipes. 
+Go behind the scenes of how ambitious design briefs became reality. 
 
 <br> 
 
-<https://www.sunset.com/food-wine/kitchen-assistant/spring-salads>
+<https://www.dwell.com/article/10-stunning-architectural-feats-and-how-they-pulled-it-off-4525e08e>
 
 ---
 

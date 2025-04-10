@@ -1,11 +1,423 @@
 ---
 title: snapshots
-updated: 2025-04-10 06:08:24
+updated: 2025-04-10 14:08:48
 ---
 
 # snapshots
 
-(date: 2025-04-10 06:08:24)
+(date: 2025-04-10 14:08:48)
+
+---
+
+## LLM pricing calculator (updated)
+
+date: 2025-04-10, updated: 2025-04-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://tools.simonwillison.net/llm-prices">LLM pricing calculator (updated)</a></strong></p>
+I <a href="https://github.com/simonw/tools/commit/07c91d8b4fd31f4d460e6b0cd9c225af7e211112">updated</a> my LLM pricing calculator this morning (<a href="https://claude.ai/share/5e0eebde-6204-4496-aa1a-fcc519df44b2">Claude transcript</a>) to show the prices of various hosted models in a sorted table, defaulting to lowest price first.</p>
+<p><img alt="A pricing table titled &quot;Model prices (per million tokens)&quot; showing AI model costs. Lists models including Amazon Nova Micro ($0.035 input/$0.14 output), Gemini 1.5 Flash-8B ≤128k ($0.04/$0.15), Ministral 3B 24.10 ($0.04/$0.04), Amazon Nova Lite ($0.06/$0.24), Gemini 2.0 Flash Lite ($0.075/$0.30), Gemini 1.5 Flash ≤128k ($0.075/$0.30), Gemini 1.5 Flash-8B &gt;128k ($0.075/$0.30), Gemini 2.0 Flash ($0.10/$0.40), Mistral Small 3.1 ($0.10/$0.30), Ministral 8B 24.10 ($0.10/$0.10), Gemini 1.5 Flash &gt;128k ($0.15/$0.60), and GPT-4o Mini ($0.15/$0.60)." src="https://static.simonwillison.net/static/2025/llm-prices-sorted.jpg" /></p>
+<p><a href="https://simonwillison.net/2024/Dec/4/amazon-nova/">Amazon Nova</a> and <a href="https://simonwillison.net/tags/gemini/">Google Gemini</a> continue to dominate the lower end of the table. The most expensive models currently are still OpenAI's o1-Pro ($150/$600 and GPT-4.5 ($75/$150).
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/claude">claude</a>, <a href="https://simonwillison.net/tags/llm-pricing">llm-pricing</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/vibe-coding">vibe-coding</a>, <a href="https://simonwillison.net/tags/ai-assisted-programming">ai-assisted-programming</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/tools">tools</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/10/llm-pricing-calculator/#atom-everything>
+
+---
+
+## Awaiting APIs
+
+date: 2025-04-10, from: Michael Tsai
+
+Tom&#225;&#x161; Kafka: So, this is the first time I am filling a bug report against a whole WWDC talk asking for its retraction for misleading info and describing unimplemented features. It&#8217;s the &#8220;Efficiency awaits: Background tasks in SwiftUI&#8221;. Well, they did say that it &#8220;awaits.&#8221; The talk describes .backgroundTask(.urlSession("...")) {} modifier, and leaves its body [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/10/awaiting-apis/>
+
+---
+
+## How Apple Fumbled Siri’s AI Makeover
+
+date: 2025-04-10, from: Michael Tsai
+
+Wayne Ma (article): Apple&#8217;s decision to delay new AI features in Siri came after years of dysfunction and clashes between the AI/ML and software engineering groups. Many blame Siri&#8217;s poor leadership for its slow progress. Hartley Charlton: Apple apparently weighed up multiple options for the backend of Apple Intelligence. One initial idea was to build [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/10/how-apple-fumbled-siris-ai-makeover/>
+
+---
+
+## Siri Product Knowledge
+
+date: 2025-04-10, from: Michael Tsai
+
+Joe Rosensteel: Thinking back to Apple&#8217;s statement to John Gruber boasting about Siri product knowledge, and Gruber rightfully pointing out on Mastodon that product knowledge isn&#8217;t very accurate, or helpful. I figured this was a time where I should at least try to use it. I already knew there was a support document, so it [&#8230;] 
+
+<br> 
+
+<https://mjtsai.com/blog/2025/04/10/siri-product-knowledge/>
+
+---
+
+## New 'Rape and Incest' Game Tests the Limits of Steam’s Sex Policy
+
+date: 2025-04-10, from: 404 Media Group
+
+“No Mercy” is shocking people who are not familiar with Steam’s adult game ecosystem, but it’s mostly just shovelware. 
+
+<br> 
+
+<https://www.404media.co/new-rape-and-incest-game-tests-the-limits-of-steams-sex-policy/>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-10, from: Robert's feed at BlueSky)
+
+I wonder when he'll start sporting is own gold face label pin?
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmi5gox4nc2o>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-10, from: Robert's feed at BlueSky)
+
+Is this indicating some insider stuff?
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmi5ejzz622o>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-10, from: Robert's feed at BlueSky)
+
+At first slowly then very fast as night falls in day light. 👇
+
+[contains quote post or other embedded content] 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmi5ann7gc2o>
+
+---
+
+**@Robert's feed at BlueSky** (date: 2025-04-10, from: Robert's feed at BlueSky)
+
+In the rabbit hole of RSS reading on language models led to this post, https://rsdoiel.github.io/blog/2025/04/10/New_Life_for_Fielded_Search.html 
+
+<br> 
+
+<https://bsky.app/profile/rsdoiel.bsky.social/post/3lmi53wcqgs2o>
+
+---
+
+## llm-docsmith
+
+date: 2025-04-10, updated: 2025-04-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://mathpn.com/posts/llm-docsmith/">llm-docsmith</a></strong></p>
+Matheus Pedroni released this neat plugin for LLM for adding docstrings to existing Python code. You can run it like this:</p>
+<pre><code>llm install llm-docsmith
+llm docsmith ./scripts/main.py -o
+</code></pre>
+<p>The <code>-o</code> option previews the changes that will be made - without <code>-o</code> it edits the files directly.</p>
+<p>It also accepts a <code>-m claude-3.7-sonnet</code> parameter for using an alternative model from the default (GPT-4o mini).</p>
+<p>The implementation uses the Python <a href="https://pypi.org/project/libcst/">libcst</a> "Concrete Syntax Tree" package to manipulate the code, which means there's no chance of it making edits to anything other than the docstrings.</p>
+<p>Here's <a href="https://github.com/mathpn/llm-docsmith/blob/v0.1/docsmith.py#L10-L30">the full system prompt</a> it uses.</p>
+<p>One neat trick is at the end of the system prompt it says:</p>
+<blockquote>
+<p><code>You will receive a JSON template. Fill the slots marked with &lt;SLOT&gt; with the appropriate description. Return as JSON.</code></p>
+</blockquote>
+<p>That template is actually provided JSON generated using these Pydantic classes:</p>
+<pre><span class="pl-k">class</span> <span class="pl-v">Argument</span>(<span class="pl-v">BaseModel</span>):
+    <span class="pl-s1">name</span>: <span class="pl-smi">str</span>
+    <span class="pl-s1">description</span>: <span class="pl-smi">str</span>
+    <span class="pl-s1">annotation</span>: <span class="pl-s1">str</span> <span class="pl-c1">|</span> <span class="pl-c1">None</span> <span class="pl-c1">=</span> <span class="pl-c1">None</span>
+    <span class="pl-s1">default</span>: <span class="pl-s1">str</span> <span class="pl-c1">|</span> <span class="pl-c1">None</span> <span class="pl-c1">=</span> <span class="pl-c1">None</span>
+
+<span class="pl-k">class</span> <span class="pl-v">Return</span>(<span class="pl-v">BaseModel</span>):
+    <span class="pl-s1">description</span>: <span class="pl-smi">str</span>
+    <span class="pl-s1">annotation</span>: <span class="pl-s1">str</span> <span class="pl-c1">|</span> <span class="pl-c1">None</span>
+
+<span class="pl-k">class</span> <span class="pl-v">Docstring</span>(<span class="pl-v">BaseModel</span>):
+    <span class="pl-s1">node_type</span>: <span class="pl-v">Literal</span>[<span class="pl-s">"class"</span>, <span class="pl-s">"function"</span>]
+    <span class="pl-s1">name</span>: <span class="pl-smi">str</span>
+    <span class="pl-s1">docstring</span>: <span class="pl-smi">str</span>
+    <span class="pl-s1">args</span>: <span class="pl-s1">list</span>[<span class="pl-smi">Argument</span>] <span class="pl-c1">|</span> <span class="pl-c1">None</span> <span class="pl-c1">=</span> <span class="pl-c1">None</span>
+    <span class="pl-s1">ret</span>: <span class="pl-v">Return</span> <span class="pl-c1">|</span> <span class="pl-c1">None</span> <span class="pl-c1">=</span> <span class="pl-c1">None</span>
+
+<span class="pl-k">class</span> <span class="pl-v">Documentation</span>(<span class="pl-v">BaseModel</span>):
+    <span class="pl-s1">entries</span>: <span class="pl-s1">list</span>[<span class="pl-smi">Docstring</span>]</pre>
+
+<p>The code adds <code>&lt;SLOT&gt;</code> notes to that in various places, so the template included in the prompt ends up looking like this:</p>
+<pre>{
+  <span class="pl-ent">"entries"</span>: [
+    {
+      <span class="pl-ent">"node_type"</span>: <span class="pl-s"><span class="pl-pds">"</span>function<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>create_docstring_node<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"docstring"</span>: <span class="pl-s"><span class="pl-pds">"</span>&lt;SLOT&gt;<span class="pl-pds">"</span></span>,
+      <span class="pl-ent">"args"</span>: [
+        {
+          <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>docstring_text<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"description"</span>: <span class="pl-s"><span class="pl-pds">"</span>&lt;SLOT&gt;<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"annotation"</span>: <span class="pl-s"><span class="pl-pds">"</span>str<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"default"</span>: <span class="pl-c1">null</span>
+        },
+        {
+          <span class="pl-ent">"name"</span>: <span class="pl-s"><span class="pl-pds">"</span>indent<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"description"</span>: <span class="pl-s"><span class="pl-pds">"</span>&lt;SLOT&gt;<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"annotation"</span>: <span class="pl-s"><span class="pl-pds">"</span>str<span class="pl-pds">"</span></span>,
+          <span class="pl-ent">"default"</span>: <span class="pl-c1">null</span>
+        }
+      ],
+      <span class="pl-ent">"ret"</span>: {
+        <span class="pl-ent">"description"</span>: <span class="pl-s"><span class="pl-pds">"</span>&lt;SLOT&gt;<span class="pl-pds">"</span></span>,
+        <span class="pl-ent">"annotation"</span>: <span class="pl-s"><span class="pl-pds">"</span>cst.BaseStatement<span class="pl-pds">"</span></span>
+      }
+    }
+  ]
+}</pre>
+
+    <p><small></small>Via <a href="https://twitter.com/pnmath/status/1909386592944292018">@pnmath</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/prompt-engineering">prompt-engineering</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/pydantic">pydantic</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/10/llm-docsmith/#atom-everything>
+
+---
+
+## How a $2,000 'Made in the USA' Phone Is Manufactured
+
+date: 2025-04-10, from: 404 Media Group
+
+"You could count the number of skilled electronics engineers on US soil, and there's probably a million in Shenzhen alone." 
+
+<br> 
+
+<https://www.404media.co/how-a-2-000-made-in-the-usa-liberty-phone-phone-is-manufactured/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+The 2025 Mini Countryman SE: Whimsy doesn’t make up for annoying. 
+
+<br> 
+
+<https://arstechnica.com/cars/2025/04/the-2025-mini-countryman-se-whimsy-doesnt-make-up-for-annoying/>
+
+---
+
+## Poor ROI for GenAI
+
+date: 2025-04-10, from: Gary Marcus blog
+
+61% in a recent survey report no ROI or disappointing ROI. 
+
+<br> 
+
+<https://garymarcus.substack.com/p/poor-roi-for-genai>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+The Sick Psychology Behind Trump’s Tariff Chaos. 
+
+<br> 
+
+<https://newrepublic.com/article/193834/trump-tariff-chaos-economy-crash?vgo_ee=KZ59RxRrrepIRgz3ko2ngH2lYwGBVHMrObbv3xKZriyo9a6V:E7okx8YLwS/4QjePn3b3m86DKXbDq4HR>
+
+---
+
+## Building Ultimate Trust
+
+date: 2025-04-10, from: Guy Kawasaki blog
+
+Volleyball coach John Cook's championship formula. 
+
+<br> 
+
+<https://guykawasaki.substack.com/p/building-ultimate-trust>
+
+---
+
+## Django: what’s new in 5.2
+
+date: 2025-04-10, updated: 2025-04-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/">Django: what’s new in 5.2</a></strong></p>
+Adam Johnson provides extremely detailed unofficial annotated release notes for the <a href="https://docs.djangoproject.com/en/5.2/releases/5.2/">latest Django</a>.</p>
+<p>I found his explanation and example of <a href="https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/#form-boundfield-customization">Form BoundField customization</a> particularly useful - here's the new pattern for customizing the <code>class=</code> attribute on the label associated with a <code>CharField</code>:</p>
+<blockquote>
+<pre><span class="pl-k">from</span> <span class="pl-s1">django</span> <span class="pl-k">import</span> <span class="pl-s1">forms</span>
+
+<span class="pl-k">class</span> <span class="pl-v">WideLabelBoundField</span>(<span class="pl-s1">forms</span>.<span class="pl-c1">BoundField</span>):
+    <span class="pl-k">def</span> <span class="pl-en">label_tag</span>(<span class="pl-s1">self</span>, <span class="pl-s1">contents</span><span class="pl-c1">=</span><span class="pl-c1">None</span>, <span class="pl-s1">attrs</span><span class="pl-c1">=</span><span class="pl-c1">None</span>, <span class="pl-s1">label_suffix</span><span class="pl-c1">=</span><span class="pl-c1">None</span>):
+        <span class="pl-k">if</span> <span class="pl-s1">attrs</span> <span class="pl-c1">is</span> <span class="pl-c1">None</span>:
+            <span class="pl-s1">attrs</span> <span class="pl-c1">=</span> {}
+        <span class="pl-s1">attrs</span>[<span class="pl-s">"class"</span>] <span class="pl-c1">=</span> <span class="pl-s">"wide"</span>
+        <span class="pl-k">return</span> <span class="pl-en">super</span>().<span class="pl-c1">label_tag</span>(<span class="pl-s1">contents</span>, <span class="pl-s1">attrs</span>, <span class="pl-s1">label_suffix</span>)
+
+<span class="pl-k">class</span> <span class="pl-v">NebulaForm</span>(<span class="pl-s1">forms</span>.<span class="pl-c1">Form</span>):
+    <span class="pl-s1">name</span> <span class="pl-c1">=</span> <span class="pl-s1">forms</span>.<span class="pl-c1">CharField</span>(
+        <span class="pl-s1">max_length</span><span class="pl-c1">=</span><span class="pl-c1">100</span>,
+        <span class="pl-s1">label</span><span class="pl-c1">=</span><span class="pl-s">"Nebula Name"</span>,
+        <span class="pl-s1">bound_field_class</span><span class="pl-c1">=</span><span class="pl-v">WideLabelBoundField</span>,
+    )</pre>
+</blockquote>
+
+<p>I'd also missed the new <a href="https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/#httpresponse-get-preferred-type">HttpResponse.get_preferred_type() method</a> for implementing HTTP content negotiation:</p>
+<pre><span class="pl-s1">content_type</span> <span class="pl-c1">=</span> <span class="pl-s1">request</span>.<span class="pl-c1">get_preferred_type</span>(
+    [<span class="pl-s">"text/html"</span>, <span class="pl-s">"application/json"</span>]
+)</pre>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/adam-johnson">adam-johnson</a>, <a href="https://simonwillison.net/tags/django">django</a>, <a href="https://simonwillison.net/tags/python">python</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/10/django-whats-new-in-52/#atom-everything>
+
+---
+
+## Getting Ready for Summer in Washington
+
+date: 2025-04-10, from: National Archives, Text Message blog
+
+Washington, DC, sitting as it does in the mid-Atlantic region, experiences hot and humid summers.&#160; Office buildings evolved to make the summertime work situation tolerable.&#160; By the early twentieth century, many government buildings had high ceilings, large windows, and opening/closing transoms over doors to allow air flow-through in an effort to make offices as comfortable &#8230; <a href="https://text-message.blogs.archives.gov/2025/04/10/getting-ready-for-summer-in-washington/" class="more-link">Continue reading <span class="screen-reader-text">Getting Ready for Summer in Washington</span></a> 
+
+<br> 
+
+<https://text-message.blogs.archives.gov/2025/04/10/getting-ready-for-summer-in-washington/>
+
+---
+
+## llm-fragments-go
+
+date: 2025-04-10, updated: 2025-04-10, from: Simon Willison’s Weblog
+
+<p><strong><a href="https://github.com/FiloSottile/mostly-harmless/tree/main/llm-fragments-go">llm-fragments-go</a></strong></p>
+Filippo Valsorda released the first plugin by someone other than me that uses LLM's new <a href="https://llm.datasette.io/en/stable/plugins/plugin-hooks.html#register-fragment-loaders-register">register_fragment_loaders()</a> plugin hook I announced <a href="https://simonwillison.net/2025/Apr/7/long-context-llm/">the other day</a>.</p>
+<p>Install with <code>llm install llm-fragments-go</code> and then:</p>
+<blockquote>
+<p>You can feed the docs of a Go package into LLM using the <code>go:</code> <a href="https://llm.datasette.io/en/stable/fragments.html">fragment</a> with the package name, optionally followed by a version suffix.</p>
+<p><code>llm -f go:golang.org/x/mod/sumdb/note@v0.23.0 "Write a single file command that generates a key, prints the verifier key, signs an example message, and prints the signed note."</code></p>
+</blockquote>
+<p>The implementation is <a href="https://github.com/FiloSottile/mostly-harmless/blob/44fb3e6e0b56decd72e893409e8085d88ad43e3d/llm-fragments-go/llm_fragments_go.py">just 33 lines of Python</a> and works by running these commands in a temporary directory:</p>
+<pre><code>go mod init llm_fragments_go
+go get golang.org/x/mod/sumdb/note@v0.23.0
+go doc -all golang.org/x/mod/sumdb/note
+</code></pre>
+
+    <p><small></small>Via <a href="https://bsky.app/profile/filippo.abyssdomain.expert/post/3lmhhqccp2c2i">@filippo.abyssdomain.expert</a></small></p>
+
+
+    <p>Tags: <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llm">llm</a>, <a href="https://simonwillison.net/tags/plugins">plugins</a>, <a href="https://simonwillison.net/tags/go">go</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/filippo-valsorda">filippo-valsorda</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/10/llm-fragments-go/#atom-everything>
+
+---
+
+**@Feed for Alt USDS** (date: 2025-04-10, from: Feed for Alt USDS)
+
+🔔 NEW! We've built a timeline tracking DOGE actions since inception—accessing sensitive data, unjustified staff removals, and reckless "efficiency" moves.
+
+Transparency matters. See how a scalpel beats a sledgehammer every time:
+ https://wethebuilders.org/timeline 
+
+<br> 
+
+<https://bsky.app/profile/altusds.bsky.social/post/3lmhsj2xyks2e>
+
+---
+
+## Scammers Used OpenAI to Flood the Web with SEO Spam
+
+date: 2025-04-10, from: 404 Media Group
+
+A new report from SentinelOne exposed the inner workings of AkiraBot, a program that bypassed CAPTCHAs and used AI-generated messages to target 420,000 websites. 
+
+<br> 
+
+<https://www.404media.co/scammers-used-openai-to-flood-the-web-with-seo-spam/>
+
+---
+
+**@Dave Winer's linkblog** (date: 2025-04-10, from: Dave Winer's linkblog)
+
+Trump&#39;s Psychological Vulnerability. 
+
+<br> 
+
+<https://snyder.substack.com/p/trumps-psychological-vulnerability?publication_id=310897&post_id=160967622&isFreemail=true&r=w33x&triedRedirect=true>
+
+---
+
+## Note on 10th April 2025
+
+date: 2025-04-10, updated: 2025-04-10, from: Simon Willison’s Weblog
+
+<p>These proposed API integrations where your LLM agent talks to someone else's LLM tool-using agent are the API version of that thing where someone uses ChatGPT to turn their bullets into an email and the recipient uses ChatGPT to summarize it back to bullet points.</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/apis">apis</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/ai-agents">ai-agents</a>, <a href="https://simonwillison.net/tags/ai">ai</a></p> 
+
+<br> 
+
+<https://simonwillison.net/2025/Apr/10/bullets/#atom-everything>
+
+---
+
+## Facebook Pushes Its Llama 4 AI Model to the Right, Wants to Present “Both Sides”
+
+date: 2025-04-10, from: 404 Media Group
+
+Meta’s Llama 4 model is worried about left leaning bias in the data, and wants to be more like Elon Musk’s Grok. 
+
+<br> 
+
+<https://www.404media.co/facebook-pushes-its-llama-4-ai-model-to-the-right-wants-to-present-both-sides/>
+
+---
+
+## Framework Laptop 12 is pre-orders begin, starting at $549/£499/€569/$719 CAD
+
+date: 2025-04-10, from: Liliputing
+
+<p>The Framework Laptop 12 is a modular, repairable, and upgradeable notebook computer that represents several firsts for Framework. It&#8217;s the company&#8217;s first laptop with a screen smaller than 13.5 inches. It&#8217;s the first with a touchscreen display and support for a pressure-sensitive style. It&#8217;s the first with a 360-degree hinge that lets you switch between [&#8230;]</p>
+<p>The post <a href="https://liliputing.com/framework-laptop-12-is-now-available-for-pre-order-for-e569-and-up-but-not-in-the-us/">Framework Laptop 12 is pre-orders begin, starting at $549/£499/€569/$719 CAD</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
+ 
+
+<br> 
+
+<https://liliputing.com/framework-laptop-12-is-now-available-for-pre-order-for-e569-and-up-but-not-in-the-us/>
+
+---
+
+## Ticker Tape’s Twirling Tail
+
+date: 2025-04-10, updated: 2025-04-10, from: Tedium site
+
+As inventions go, the stock ticker was a turning point for the real-time world in which we live. It also made trading floors significantly less chaotic. 
+
+<br> 
+
+<https://feed.tedium.co/link/15204/17003077/stock-ticker-history>
 
 ---
 
@@ -116,6 +528,22 @@ at
 <br> 
 
 <https://gitlab.inf.ethz.ch/felixf/oberon/-/commit/216a445e1a1e21dc1d6fa545a08627ce3d2cae06>
+
+---
+
+## New Life for Fielded Search
+
+date: 2025-04-10, from: Robert's Ramblings
+
+A day dreaming in response to a Simon Willison post on using language models
+to convert queries into fielded searches. In this post I extrapolate how this
+could result in a more private search experience and allow for an enhanced
+search experience for static websites.
+ 
+
+<br> 
+
+<https://rsdoiel.github.io/blog/2025/04/10/New_Life_for_Fielded_Search.html>
 
 ---
 
@@ -296,20 +724,6 @@ Trump says ‘I know what I’m doing’ before stepping back from global tariff
 <br> 
 
 <https://www.amacad.org/news/board-statement-values-april-2025>
-
----
-
-## Framework Laptop 12 is now available for pre-order for €569 and up (but not in the US)
-
-date: 2025-04-09, from: Liliputing
-
-<p>The Framework Laptop 12 is a modular, repairable, and upgradeable notebook computer that represents several firsts for Framework. It&#8217;s the company&#8217;s first laptop with a screen smaller than 13.5 inches. It&#8217;s the first with a touchscreen display and support for a pressure-sensitive style. It&#8217;s the first with a 360-degree hinge that lets you switch between [&#8230;]</p>
-<p>The post <a href="https://liliputing.com/framework-laptop-12-is-now-available-for-pre-order-for-e569-and-up-but-not-in-the-us/">Framework Laptop 12 is now available for pre-order for €569 and up (but not in the US)</a> appeared first on <a href="https://liliputing.com">Liliputing</a>.</p>
- 
-
-<br> 
-
-<https://liliputing.com/framework-laptop-12-is-now-available-for-pre-order-for-e569-and-up-but-not-in-the-us/>
 
 ---
 
@@ -701,6 +1115,22 @@ We don't know how they're defining an investigation, and we don't know if they w
 <br> 
 
 <https://bsky.app/profile/altusds.bsky.social/post/3lmdwkx2f222g>
+
+---
+
+## Made in America: Purism’s Liberty Phone and the Vision of Security, Privacy, and Independence
+
+date: 2025-04-09, from: Purism News and Events
+
+<p>In a world of pervasive adversarial nations building technology we all rely on, the importance of homegrown technology products and solutions cannot be overstated. At Purism, we are unapologetically committed to designing and manufacturing devices that are Made in America—not as a mere tagline but as a foundational principle. This commitment is not just about patriotism; it’s about ensuring security, privacy, and reliability for our customers at a cost that rivals overseas manufacturing.</p>
+<p>The post <a rel="nofollow" href="https://puri.sm/posts/made-in-america-purisms-liberty-phone-and-the-vision-of-security-privacy-and-independence/">Made in America: Purism’s Liberty Phone and the Vision of Security, Privacy, and Independence</a> appeared first on <a rel="nofollow" href="https://puri.sm/">Purism</a>.</p>
+ 
+
+<br><video crossorigin="anonymous" controls="controls" width="250">
+<source type="video/mp4" src="https://videos.puri.sm/librem5/us-manufacturing.mp4"></source>
+</video> <a href="https://videos.puri.sm/librem5/us-manufacturing.mp4" target="_blank">download video/mp4</a> 
+
+<https://puri.sm/posts/made-in-america-purisms-liberty-phone-and-the-vision-of-security-privacy-and-independence/>
 
 ---
 

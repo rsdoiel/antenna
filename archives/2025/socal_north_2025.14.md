@@ -1,11 +1,187 @@
 ---
 title: socal north
-updated: 2025-04-10 06:08:15
+updated: 2025-04-10 14:08:40
 ---
 
 # socal north
 
-(date: 2025-04-10 06:08:15)
+(date: 2025-04-10 14:08:40)
+
+---
+
+## Homeland Security agents attempted to enter 2 LAUSD schools. Here's what families should know
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+Federal agents were turned away from two South Los Angeles elementary schools this week, the district’s superintendent says. 
+
+<br> 
+
+<https://laist.com/news/education/homeland-security-immigration-lausd-schools-trump-administration>
+
+---
+
+## What you need to know as the May 7 Real ID deadline approaches
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+Driver's licenses and IDs that are not Real ID-compliant will no longer get you through U.S. airport security once the law takes effect in a few weeks, but full enforcement may not start right away. 
+
+<br> 
+
+<https://laist.com/news/real-id-deadline-may-7-what-you-need-to-know>
+
+---
+
+## Where the West Comes to Life: The 29th Annual Cowboy Festival
+
+date: 2025-04-10, from: City of Santa Clarita
+
+<p>By Mayor Pro Tem Laurene Weste The unmistakable sights, sounds and flavors of the Old West are making their way back to William S. Hart Park (24151 Newhall Avenue), and you do not have to wait long. That’s right, the 29th Annual FREE Santa Clarita Cowboy Festival is back this weekend, ready to transport you, [&#8230;]</p>
+<p>The post <a href="https://santaclarita.gov/blog/2025/04/10/where-the-west-comes-to-life-the-29th-annual-cowboy-festival/">Where the West Comes to Life: The 29th Annual Cowboy Festival</a> appeared first on <a href="https://santaclarita.gov">City of Santa Clarita</a>.</p>
+ 
+
+<br> 
+
+<https://santaclarita.gov/blog/2025/04/10/where-the-west-comes-to-life-the-29th-annual-cowboy-festival/>
+
+---
+
+## What we know about police shooting of Weezer bassist's wife, Jillian Lauren, in Eagle Rock
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+Jillian Lauren suffered a non-life-threatening injury this week when police shot her in her yard after they say she pointed a gun at them. Details about the incident in Los Angeles are still emerging. 
+
+<br> 
+
+<https://laist.com/news/criminal-justice/police-shooting-weezer-bassist-wife-eagle-rock-what-we-know>
+
+---
+
+## $10,000 grant available for restaurants affected by LA fires
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+The nonprofit California Restaurant Foundation says it has $2.42 million to help more than 200 restaurants. 
+
+<br> 
+
+<https://laist.com/news/food/10-000-grant-available-for-restaurants-affected-by-la-fires>
+
+---
+
+## Angelenos in unstable housing more likely to shelter wildfire evacuees, according to survey
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+A new USC survey finds people worried about losing their housing opened their doors to fire victims at higher rates than Angelenos with stable housing. 
+
+<br> 
+
+<https://laist.com/news/housing-homelessness/los-angeles-housing-fire-survey-la-barometer-usc-eviction-protections>
+
+---
+
+## Best fries in SoCal? Oh, you have some strong opinions
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+Where to find the perfect French fries in LA that are not too soggy or too crispy. 
+
+<br> 
+
+<https://laist.com/news/food/best-fries-in-socal-oh-you-have-some-strong-opinions>
+
+---
+
+## Trump targets California climate laws in new executive order
+
+date: 2025-04-10, from: Longbeach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Trump ordered his attorney general to move against state climate programs that clash with his energy agenda. Legal experts say his claims about the laws being unconstitutional are an overreach.</p>
+<p>The post <a href="https://lbpost.com/news/climate-change/trump-targets-california-climate-laws-in-new-executive-order">Trump targets California climate laws in new executive order</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/climate-change/trump-targets-california-climate-laws-in-new-executive-order>
+
+---
+
+## California needs transitional kindergarten teachers. Preschool teachers want in
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+California needs a lot more teachers and aides to fill transitional kindergarten classrooms, but advocates say early childhood educators who have the experience and desire to step into those jobs are deterred by the state’s credentialing system. 
+
+<br> 
+
+<https://laist.com/news/education/early-childhood-education-pre-k/california-transitional-kindergarten-preschool-teachers-credentials>
+
+---
+
+## Trio stole $200,000 worth of musical instruments in cargo train heist, police say
+
+date: 2025-04-10, from: Longbeach Post
+
+<figure><img width="1024" height="441" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1024x441.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1024x441.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-300x129.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-768x330.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-192x83.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1536x661.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1200x516.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1568x675.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-400x172.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW.png 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Long Beach man was among the three suspected thieves arrested by the LAPD this week.</p>
+<p>The post <a href="https://lbpost.com/news/crime/trio-stole-200000-worth-of-musical-instruments-in-cargo-train-heist-police-say">Trio stole $200,000 worth of musical instruments in cargo train heist, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/trio-stole-200000-worth-of-musical-instruments-in-cargo-train-heist-police-say>
+
+---
+
+## Best things to do this weekend in LA and SoCal: April 11 - 13
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+Bob Baker Day is back, jazz at the Getty, a crooner comedy at Dynasty Typewriter, Brian Stokes Mitchell in La Mirada, a Passover seder at JAR and more. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/best-things-to-do-weekend-los-angeles-southern-california-april-11-13>
+
+---
+
+## Here’s where you can monitor progress on Measure HLA
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+An online map that launched this week shows transit, pedestrian and bike projects throughout the city. 
+
+<br> 
+
+<https://laist.com/news/transportation/measure-hla-transportation-mobility-plan>
+
+---
+
+## Springtime heat brings more summer temps to SoCal
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+Expect temperatures between 10 and 20 degrees above average for inland areas today. 
+
+<br> 
+
+<https://laist.com/news/climate-environment/spring-heatwave-in-full-effect>
+
+---
+
+## ‘Gustavo’s mixtape’: LA Philharmonic to make Coachella debut
+
+date: 2025-04-10, updated: 2025-04-10, from: The LAist
+
+Saturday marks the first time a major orchestra has performed its own set at the Indio music festival. 
+
+<br> 
+
+<https://laist.com/news/arts-and-entertainment/gustavos-mixtape-la-philharmonic-to-make-coachella-debut>
 
 ---
 
@@ -81,9 +257,9 @@ The president announced he would raise tariffs on China to 125% "effective immed
 
 ---
 
-## Live in LA? Get ready for your trash fees to nearly double
+## LA trash fees could soon nearly double. Here's what you should know
 
-date: 2025-04-09, updated: 2025-04-09, from: The LAist
+date: 2025-04-09, updated: 2025-04-10, from: The LAist
 
 We could soon see the first collection fee increase in 15 years. 
 
@@ -109,7 +285,7 @@ Providence, the two-star Michelin restaurant on Melrose, offers a tableside marg
 
 date: 2025-04-09, from: Longbeach Post
 
-<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-300x170.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-768x435.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-400x227.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-300x170.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-768x435.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-400x227.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>City officials sent cease and desist orders and nuisance notices to a local owner and NFL receiver tied to the businesses.</p>
 <p>The post <a href="https://lbpost.com/news/city/4-shore-outlaw-nightclub-naples-long-beach-restaurant">A high-end steakhouse transformed into an outlaw nightclub, roiling one of Long Beach’s priciest neighborhoods</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

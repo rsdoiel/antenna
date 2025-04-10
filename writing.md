@@ -1,11 +1,80 @@
 ---
 title: writing
-updated: 2025-04-10 06:08:18
+updated: 2025-04-10 14:08:43
 ---
 
 # writing
 
-(date: 2025-04-10 06:08:18)
+(date: 2025-04-10 14:08:43)
+
+---
+
+## New Books Video for 04/08/2025 is Live!
+
+date: 2025-04-10, from: Locus Magazine
+
+<p>Welcome back for another exciting week of new book releases! We&#8217;re going over our picks for the top new releases in the SF, Fantasy, Horror, and YA genres! We have a new video every week, so come by and subscribe to not only support what we do, but also keep up-to-date on new releases!</p>
+<div class="fitvids-video">
+<div class="jetpack-video-wrapper"></div>
+</div> <a href="https://locusmag.com/2025/04/new-books-video-for-04-08-2025-is-live/" class="read-more">...Read More </a> 
+
+<br> 
+
+<https://locusmag.com/2025/04/new-books-video-for-04-08-2025-is-live/>
+
+---
+
+## ABA Shares Overview of New U.S. Tariffs
+
+date: 2025-04-10, from: Locus Magazine
+
+<p>The American Booksellers Association (ABA) has released an article that covers the U.S. &#8220;reciprocal tariffs&#8221; announced on April 2 and the expected effects on the publishing industry. A summary of the information follows:</p>
+<p>The April tariffs, which follow February tariffs on Mexico, Canada, and China, impose a 10% baseline tariff on goods from all countries starting April 5, and higher rates for specific countries starting April 9. Subsequently, these higher  <a href="https://locusmag.com/2025/04/aba-shares-overview-of-new-u-s-tariffs/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/aba-shares-overview-of-new-u-s-tariffs/>
+
+---
+
+## 381 Books Removed from Naval Academy Library
+
+date: 2025-04-10, from: Locus Magazine
+
+<p>The U.S. Naval Academy&#8217;s library has removed 381 books from its collection. The list largely consists of books that discuss race and gender. It includes several genre titles and authors, including <strong>A Psalm for the Wild-Built</strong> by Becky Chambers (Tordotcom), <strong>Sorrowland</strong> by Rivers Solomon (MCD), <strong>The Fire This Time: A New Generation Speaks about Race</strong> by Jesmyn Ward (Scribner), and <strong>The Genesis of Misery</strong> by Neon Yang (Tor).</p>
+<p>For the  <a href="https://locusmag.com/2025/04/381-books-removed-from-naval-academy-library/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/381-books-removed-from-naval-academy-library/>
+
+---
+
+## Paul Thomas Anderson’s Filmmaking Journey
+
+date: 2025-04-10, from: Final Draft blog
+
+<div class="hs-featured-image-wrapper"> 
+ <a href="https://blog.finaldraft.com/paul-thomas-andersons-filmmaking-journey" title="" class="hs-featured-image-link"> <img src="https://blog.finaldraft.com/hubfs/Leonardo%20DiCaprio%20in%20One%20Battle%20After%20Another.png" alt="Leonardo DiCaprio in One Battle After Another" class="hs-featured-image" style="width:auto !important; max-width:50%; float:left; margin:0 15px 15px 0;"> </a> 
+</div> 
+<p>With the trailer for Paul Thomas Anderson’s new film <a href="https://www.youtube.com/watch?v=Ap-j8e9J5U0"><em>One Battle After Another</em></a> hitting the internet, the veteran filmmaker shows he can still create a buzz. This is partially due to the film being his first collaboration with movie star Leonardo DiCaprio, but PTA’s films have also always generated excitement, especially from cinephiles who view him as a master of the craft and a true “auteur” (a filmmaker who both writes <span style="font-style: italic;">and</span> directs his films).&nbsp;<br><br>PTA is a writer-director with a distinct and unique <a href="https://blog.finaldraft.com/finding-your-voice">voice</a> and he has always followed his creative instincts throughout his filmmaking career. Even if your focus is on being <a href="https://blog.finaldraft.com/how-to-be-a-screenwriter-in-5-basic-steps">a screenwriter</a> and you don’t have directorial aspirations, there’s plenty to learn from PTA’s films — all of which are based on screenplays he has written — and from his integrity as an artist who never compromised. &nbsp;&nbsp;<br><br>PTA’s entire life has revolved around the love of movies and telling compelling stories. Like his peer <a href="https://blog.finaldraft.com/how-watching-movies-taught-quentin-tarantino-and-can-teach-screenwriters">Quentin Tarantino</a>, not only does he epitomize Gen X postmodernism, PTA’s enthusiasm for his vocation is evident in every meticulous frame and line of dialogue of his work. Not surprisingly, PTA never considered doing anything else but filmmaking, and he started making movies at an age when most kids are still playing with toys. &nbsp;</p> 
+
+<br> 
+
+<https://blog.finaldraft.com/paul-thomas-andersons-filmmaking-journey>
+
+---
+
+## Wake Up and Open Your Eyes by Clay McLeod Chapman: Review by Gabino Iglesias
+
+date: 2025-04-10, from: Locus Magazine
+
+<p><strong>Wake Up and Open Your Eyes</strong>, Clay McLeod Chapman (Quirk 978-1-68369-395-6, $24.99, 384pp, hc) January 2025. Cover by Andie Reid.</p>
+<p>Being a fan of an author and reading every­thing they publish is a lot of fun, and it’s even more fun when the author in question constantly changes what they do. Clay McLeod Chapman is a horror fiction chameleon, and his novels show that. <strong>Wake Up and Open Your </strong> <a href="https://locusmag.com/2025/04/wake-up-and-open-your-eyes-by-clay-mcleod-chapman-review-by-gabino-iglesias/" class="read-more">...Read More </a></p> 
+
+<br> 
+
+<https://locusmag.com/2025/04/wake-up-and-open-your-eyes-by-clay-mcleod-chapman-review-by-gabino-iglesias/>
 
 ---
 

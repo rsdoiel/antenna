@@ -1,11 +1,147 @@
 ---
 title: food
-updated: 2025-04-10 06:08:22
+updated: 2025-04-10 14:08:47
 ---
 
 # food
 
-(date: 2025-04-10 06:08:22)
+(date: 2025-04-10 14:08:47)
+
+---
+
+## Dubai Chocolate Basque Cheesecake
+
+date: 2025-04-10, from: Taste of Home
+
+This is my elevated version of a Basque cheesecake. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/dubai-chocolate-basque-cheesecake/>
+
+---
+
+## Hawaiian Garlic Shrimp
+
+date: 2025-04-10, from: Taste of Home
+
+This crispy, buttery, garlicky shrimp pineapple bowl will take you to a tropical island. —Lucy Wang, Los Angeles, California 
+
+<br> 
+
+<https://www.tasteofhome.com/recipes/hawaiian-garlic-shrimp/>
+
+---
+
+## The Best Countertop Ice Maker (2025) for Fancy Cocktails and Chilled Drinks
+
+date: 2025-04-10, from: Bon Appetet
+
+Whether you’re craving Sonic-style ice or you just need lots of extra ice quickly. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-countertop-ice-maker>
+
+---
+
+## Coffee Design: Heartwood Coffee of Northeast Ohio
+
+date: 2025-04-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. The updated bag design for Ohio's Heartwood Coffee Roasters. 
+
+<br> 
+
+<https://sprudge.com/coffee-design-heartwood-coffee-of-northeast-ohio-313287.html>
+
+---
+
+## Ceado Presents The New REV Series Of Grinders
+
+date: 2025-04-10, from: The Sprudge
+
+<strong>This article is from the coffee website <a href="http://sprudge.com">Sprudge</a> at <a href="http://sprudge.com">http://sprudge.com</a>. This is the RSS feed version. Ceado announces three new grinders as part of the REV line. 
+
+<br> 
+
+<https://sprudge.com/ceado-presents-the-new-rev-series-of-grinders-314139.html>
+
+---
+
+## The Best New Restaurants to Try This Spring
+
+date: 2025-04-10, from: Bon Appetet
+
+An Asian American diner in Houston, a swanky Afro-Caribbean restaurant in LA, and more reasons to dine out this season. 
+
+<br> 
+
+<https://www.bonappetit.com/story/best-new-restaurant-openings-spring-2025>
+
+---
+
+## April's Cook With Bon Appétit Box is Filled With Weeknight Winners
+
+date: 2025-04-10, from: Bon Appetet
+
+Creamy broccoli mac and cheese, one-pot salmon and rice, crispy sheet-pan chicken thighs, and more 
+
+<br> 
+
+<https://www.bonappetit.com/story/bon-appetit-box-9>
+
+---
+
+## 94-Year-Old William Shatner’s Muffin Recipe Is Out of This World
+
+date: 2025-04-10, from: Taste of Home
+
+<p>Captain Kirk knows his way around a kitchen.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/william-shatner-muffin-recipe/">94-Year-Old William Shatner&#8217;s Muffin Recipe Is Out of This World</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/william-shatner-muffin-recipe/>
+
+---
+
+## The 2025 Stanley Mother’s Day Cup Is Coming—And It’s Better Than a Bouquet
+
+date: 2025-04-10, from: Taste of Home
+
+<p>Don't saddle mom with the same old floral bouquet. Instead, snag her one of these limited-edition resort-ready Mother's Day Stanley cups.</p>
+<p>The post <a href="https://www.tasteofhome.com/article/stanley-mothers-day-cup/">The 2025 Stanley Mother&#8217;s Day Cup Is Coming—And It&#8217;s Better Than a Bouquet</a> appeared first on <a href="https://www.tasteofhome.com">Taste of Home</a>.</p>
+ 
+
+<br> 
+
+<https://www.tasteofhome.com/article/stanley-mothers-day-cup/>
+
+---
+
+## SCA Rebrands Flagship US Expo as ‘World of Coffee’ for 2026
+
+date: 2025-04-10, from: Daily Coffee News
+
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-620x414.jpg" class="attachment-large size-large wp-post-image" alt="SCA Expo" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/SCA-Expo.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>The Specialty Coffee Association (SCA) is rebranding its flagship United States event, Specialty Coffee Expo, as World of Coffee. Announced just ahead of the 2025 event taking place April 25-27... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/10/sca-rebrands-flagship-us-expo-as-world-of-coffee-for-2026/>
+
+---
+
+## The Coffee Futures Fund is Focused on Small Business Growth Right Now
+
+date: 2025-04-10, from: Daily Coffee News
+
+<div><img width="620" height="428" src="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-620x428.jpg" class="attachment-large size-large wp-post-image" alt="coffee" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-620x428.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-300x207.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-150x104.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1-768x530.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/03/coffee-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>All the anecdotal evidence in the world says that opening an independent coffee shop is a risky proposition, with relatively high five-year failure rates. A new small-scale coffee business accelerator... 
+
+<br> 
+
+<https://dailycoffeenews.com/2025/04/10/the-coffee-futures-fund-is-focused-on-small-business-growth-right-now/>
 
 ---
 
@@ -34,6 +170,18 @@ date: 2025-04-10, from: Closet Cooking
 <br> 
 
 <https://www.closetcooking.com/pasta-e-ceci-chickpea-pasta/>
+
+---
+
+## In the Swiss Alps, Gruyère Cheese Is a Way of Life
+
+date: 2025-04-10, from: Bon Appetet
+
+We visited Switzerland’s Fribourg canton, to learn what it takes to make Switzerland’s most famous cheese 
+
+<br> 
+
+<https://www.bonappetit.com/story/swiss-alps-gruyere-cheese-way-of-life>
 
 ---
 
@@ -185,7 +333,7 @@ Mayo is just oil and eggs, which actually works as an egg fat replacement in thi
 
 date: 2025-04-09, from: Daily Coffee News
 
-<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee in a grinder" style="margin-bottom: 15px;" decoding="async" fetchpriority="high" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>U.S. Representatives Jill Tokuda (D-HI) and William Timmons (R-SC) yesterday launched the Congressional Coffee Caucus, a first-of-its-kind caucus supporting the coffee industry. The Congressional Caucus, which has been months in... 
+<div><img width="620" height="414" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg" class="attachment-large size-large wp-post-image" alt="coffee in a grinder" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-620x414.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-300x200.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-150x100.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder-768x512.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/coffee-in-a-grinder.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>U.S. Representatives Jill Tokuda (D-HI) and William Timmons (R-SC) yesterday launched the Congressional Coffee Caucus, a first-of-its-kind caucus supporting the coffee industry. The Congressional Caucus, which has been months in... 
 
 <br> 
 
@@ -209,7 +357,7 @@ date: 2025-04-09, from: The Sprudge
 
 date: 2025-04-09, from: Daily Coffee News
 
-<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg" class="attachment-large size-large wp-post-image" alt="DiFluid AirWave purifier" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>Chinese coffee equipment and technology company DiFluid is launching a low-temperature electronic afterburner for small-scale roasters called the AirWave Smart Roasting Purifier. Revealed to the public on March 30 at... 
+<div><img width="620" height="420" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg" class="attachment-large size-large wp-post-image" alt="DiFluid AirWave purifier" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-620x420.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-300x203.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-150x102.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier-768x520.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/DiFluid-AirWave-purifier.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>Chinese coffee equipment and technology company DiFluid is launching a low-temperature electronic afterburner for small-scale roasters called the AirWave Smart Roasting Purifier. Revealed to the public on March 30 at... 
 
 <br> 
 
@@ -315,7 +463,7 @@ From avoiding crowds to asking the right questions, here are some tried-and-true
 
 date: 2025-04-08, from: Daily Coffee News
 
-<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg" class="attachment-large size-large wp-post-image" alt="adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash" style="margin-bottom: 15px;" decoding="async" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-768x545.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1.jpg 1240w" sizes="(max-width: 620px) 100vw, 620px" /></div>[Update, April 9, 2025: This story was originally published prior to U.S. President Donald Trump&#8217;s April 9 announcement that the U.S. would postpone most new tariffs for 90 days.] The... 
+<div><img width="620" height="440" src="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg" class="attachment-large size-large wp-post-image" alt="adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash" style="margin-bottom: 15px;" decoding="async" loading="lazy" srcset="https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-620x440.jpg 620w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-300x213.jpg 300w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-150x106.jpg 150w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1-768x545.jpg 768w, https://dailycoffeenews.com/wp-content/uploads/2025/04/adriaan-venner-scheepers-TZVJ6-s5yfo-unsplash-1.jpg 1240w" sizes="auto, (max-width: 620px) 100vw, 620px" /></div>[Update, April 9, 2025: This story was originally published prior to U.S. President Donald Trump&#8217;s April 9 announcement that the U.S. would postpone most new tariffs for 90 days.] The... 
 
 <br> 
 

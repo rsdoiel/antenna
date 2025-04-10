@@ -1,11 +1,146 @@
 ---
 title: pacific
-updated: 2025-04-10 06:08:16
+updated: 2025-04-10 14:08:41
 ---
 
 # pacific
 
-(date: 2025-04-10 06:08:16)
+(date: 2025-04-10 14:08:41)
+
+---
+
+## UH Mānoa Ballroom Dance Club defends national title
+
+date: 2025-04-10, from: University of Hawaiʻi News
+
+<p>This was just the second year the <abbr>UH</abbr> Mānoa team competed at the national competition since the formation of the club in September 2022.</p>
+The post <a href="https://www.hawaii.edu/news/2025/04/10/ballroom-dance-club-defends-title/"><abbr>UH</abbr> Mānoa Ballroom Dance Club defends national title</a> first appeared on <a href="https://www.hawaii.edu/news">University of Hawaiʻi System News</a>. 
+
+<br> 
+
+<https://www.hawaii.edu/news/2025/04/10/ballroom-dance-club-defends-title/>
+
+---
+
+## CNMI Corrections advances rehabilitation efforts with RSAT program
+
+date: 2025-04-10, updated: 2025-04-10, from: Marianas Variety
+
+THE Department of Corrections is reinforcing its commitment to rehabilitation by continuing the CNMI Residential Substance Abuse Treatment or RSAT Program. With funding secured by the Criminal Justice Planning Agency, Corrections is expanding its capacity to provide essential treatment for substance use disorders and mental health services to incarcerated individuals in need. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/cnmi-corrections-advances-rehabilitation-efforts-with-rsat-program/article_e671bc54-beed-456b-8d84-fa5b92cf17af.html>
+
+---
+
+## MANGO invites community to attend nonprofit toolkit workshop
+
+date: 2025-04-10, updated: 2025-04-10, from: Marianas Variety
+
+(MANGO) — The Marianas Alliance of Non-Governmental Organizations invites community members interested in starting or managing nonprofit organizations to attend their upcoming nonprofit toolkit workshop. The event will take place on Monday, April 21, 2025, from 9 a.m. to 11:30 in the MANGO office resource room. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/mango-invites-community-to-attend-nonprofit-toolkit-workshop/article_be6f7f89-9be4-490d-984f-0aca6da58d37.html>
+
+---
+
+## Smoke and dye testing and water meter verification for Gualo Rai
+
+date: 2025-04-10, updated: 2025-04-10, from: Marianas Variety
+
+(Commonwealth Utilities Corporation) — Dye tests, smoke tests, and water meter verifications will be conducted in Gualo Rai (Gualo Rai Rd, Chalan Pale Arnold, Pas Pl., Malta Ln., Veteran Dr., Liberation Ln., Towers Ln., Historia Pl., Mac Arthur Dr., and Earhart Dr.) from Saturday, April 12, 2025, to Saturday, April 19, 2025, from 8:30 a.m. to 3:30 p.m. These tests aim to identify leaks, breaks, and other connections in CUC’s sewer system, as well as to verify water meter accuracy. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/smoke-and-dye-testing-and-water-meter-verification-for-gualo-rai/article_9e1d7827-9f9d-4dc5-b6bb-f8d5ec7bafd0.html>
+
+---
+
+## Green flag on Tinian
+
+date: 2025-04-10, updated: 2025-04-10, from: Marianas Variety
+
+THE Bureau of Environmental and Coastal Quality analyzed water samples collected from Tinian’s recreational beaches and storm water drainages this week as part of the regularly scheduled sampling. None of the samples collected contained excessive concentration of fecal indicator bacteria nor did they exceed CNMI marine water quality standards.  Therefore, BECQ assigns all of the sampled beach sites a green flag.  Enjoy our waters! 
+
+<br> 
+
+<https://www.mvariety.com/news/local/green-flag-on-tinian/article_4b6d8705-6d2b-4c61-9dc1-00e29d3e0eda.html>
+
+---
+
+## Guam boosts vaccine drive amid US measles outbreak
+
+date: 2025-04-10, updated: 2025-04-10, from: Marianas Variety
+
+HAGÅTÑA (Pacific Island Times/Pacnews) — Amid a significant measles outbreak in the U.S., Guam’s Department of Public Health and Social Services has ramped up its immunization campaign, reassuring parents that measles, mumps and rubella vaccine is “93% effective.” 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/guam-boosts-vaccine-drive-amid-us-measles-outbreak/article_46a1467b-0c99-41d9-be6c-e99e0cda6490.html>
+
+---
+
+## Musk’s DOGE terminates $1.9M consultancy contract for Palau
+
+date: 2025-04-10, updated: 2025-04-10, from: Marianas Variety
+
+WASHINGTON (Island Times/Pacnews) — The United States Department of Government Efficiency, led by billionaire Elon Musk, has terminated a consulting contract with the State Department for the Republic of Palau. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/musk-s-doge-terminates-1-9m-consultancy-contract-for-palau/article_94e49197-5b30-4778-a363-6943c47f8c1b.html>
+
+---
+
+## 10 American Samoan residents charged with voter misconduct in Alaska
+
+date: 2025-04-10, updated: 2025-04-10, from: Marianas Variety
+
+ANCHORAGE (Alaska News/Pacnews) —Ten members of an American Samoan family residing in Whittier, Alaska, have been charged with voter misconduct and perjury, among other charges. 
+
+<br> 
+
+<https://www.mvariety.com/news/regional_world/10-american-samoan-residents-charged-with-voter-misconduct-in-alaska/article_5f6bd4b3-4f23-4383-8d5c-e0ca9240eabd.html>
+
+---
+
+## New dates and location for 79th Liberation Day festivities
+
+date: 2025-04-10, updated: 2025-04-10, from: Marianas Variety
+
+THE 2025 Liberation Day committee is excited to announce new dates and location for the 79th Liberation Day festivities. The celebrations will kick off on June 12, 2025, and run every Thursday to Sunday until July 6, 2025, at the Civic Center in Susupe. 
+
+<br> 
+
+<https://www.mvariety.com/news/local/new-dates-and-location-for-79th-liberation-day-festivities/article_d4e10b01-a5d9-4782-baa3-df1fd636dda1.html>
+
+---
+
+## For a Limited Time Only
+
+date: 2025-04-10, from: Hawai'i Pacific Review (HPU Literary Magazine)
+
+by Laurel DiGangi Nathan was restless. He’d been waiting far too long with nothing to occupy his mind. No phones, zines, or screens. No landscape either: just an endless grassy knoll and sluggish queues of naked people extending to the &#8230; <a href="https://hawaiipacificreview.org/2025/04/10/for-a-limited-time-only/">Continue reading <span class="meta-nav">&#8594;</span></a> 
+
+<br> 
+
+<https://hawaiipacificreview.org/2025/04/10/for-a-limited-time-only/>
+
+---
+
+## Rana’s arm is fixed
+
+date: 2025-04-10, from: Marshal Islands Journal
+
+<p>Nine-year-old Rana Widjaj from Arno is all smiles after having her dislocated elbow fixed by the Canvasback Mission orthopedic surgeons on March 28. The problem with her arm had been spotted in 2023 during an earlier orthopedic visit so Canvasback co-founder Jacque Spence and the team organized, with help from the Arno Mayor, transport to [&#8230;]</p>
+<p>The post <a href="https://marshallislandsjournal.com/ranas-arm-is-fixed/">Rana’s arm is fixed</a> appeared first on <a href="https://marshallislandsjournal.com">The Marshall Islands Journal</a>.</p>
+ 
+
+<br> 
+
+<https://marshallislandsjournal.com/ranas-arm-is-fixed/>
 
 ---
 

@@ -1,11 +1,41 @@
 ---
 title: small papers
-updated: 2025-04-10 06:08:23
+updated: 2025-04-10 14:08:48
 ---
 
 # small papers
 
-(date: 2025-04-10 06:08:23)
+(date: 2025-04-10 14:08:48)
+
+---
+
+## Trump targets California climate laws in new executive order
+
+date: 2025-04-10, from: Long Beach Post
+
+<figure><img width="1024" height="682" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1024x682.webp" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1024x682.webp 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-300x200.webp 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-768x512.webp 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-162x108.webp 162w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1536x1024.webp 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1200x800.webp 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-1568x1045.webp 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX-400x267.webp 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10072122/022124-chevron-richmond-le-cm-11-599786-f9j27aag-259067-smgYYroX.webp 2000w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>Trump ordered his attorney general to move against state climate programs that clash with his energy agenda. Legal experts say his claims about the laws being unconstitutional are an overreach.</p>
+<p>The post <a href="https://lbpost.com/news/climate-change/trump-targets-california-climate-laws-in-new-executive-order">Trump targets California climate laws in new executive order</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/climate-change/trump-targets-california-climate-laws-in-new-executive-order>
+
+---
+
+## Trio stole $200,000 worth of musical instruments in cargo train heist, police say
+
+date: 2025-04-10, from: Long Beach Post
+
+<figure><img width="1024" height="441" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1024x441.png" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1024x441.png 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-300x129.png 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-768x330.png 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-192x83.png 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1536x661.png 1536w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1200x516.png 1200w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-1568x675.png 1568w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW-400x172.png 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/04/10064346/screenshot-2025-04-10-at-63849am-625302-izrpdbz7-039371-lnn0iiuW.png 1920w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<p>A Long Beach man was among the three suspected thieves arrested by the LAPD this week.</p>
+<p>The post <a href="https://lbpost.com/news/crime/trio-stole-200000-worth-of-musical-instruments-in-cargo-train-heist-police-say">Trio stole $200,000 worth of musical instruments in cargo train heist, police say</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
+ 
+
+<br> 
+
+<https://lbpost.com/news/crime/trio-stole-200000-worth-of-musical-instruments-in-cargo-train-heist-police-say>
 
 ---
 
@@ -160,7 +190,7 @@ date: 2025-04-10, from: the San Fernando Valley Sun/el Sol de Valle San Fernando
 
 date: 2025-04-09, from: Long Beach Post
 
-<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-300x170.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-768x435.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-400x227.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
+<figure><img width="1024" height="580" src="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg" class="attachment-rss-image-size size-rss-image-size wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-1024x580.jpg 1024w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-300x170.jpg 300w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-768x435.jpg 768w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-192x108.jpg 192w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ-400x227.jpg 400w, https://img.lbpost.com/wp-content/uploads/sites/2/2025/03/20133149/19mar25-4shore-4-712599-dlypregt-692662-w5lNFhLZ.jpg 1200w" sizes="(max-width: 34.9rem) calc(100vw - 2rem), (max-width: 53rem) calc(8 * (100vw / 12)), (min-width: 53rem) calc(6 * (100vw / 12)), 100vw" /></figure>
 <p>City officials sent cease and desist orders and nuisance notices to a local owner and NFL receiver tied to the businesses.</p>
 <p>The post <a href="https://lbpost.com/news/city/4-shore-outlaw-nightclub-naples-long-beach-restaurant">A high-end steakhouse transformed into an outlaw nightclub, roiling one of Long Beach’s priciest neighborhoods</a> appeared first on <a href="https://lbpost.com/news">Long Beach Post News</a>.</p>
  

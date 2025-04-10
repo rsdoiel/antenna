@@ -1,11 +1,35 @@
 ---
 title: motorcycles
-updated: 2025-04-10 06:08:21
+updated: 2025-04-10 14:08:46
 ---
 
 # motorcycles
 
-(date: 2025-04-10 06:08:21)
+(date: 2025-04-10 14:08:46)
+
+---
+
+## Dave Richards, Bluebird / Versatran Team Hope to Have Lady Luck at NHRA Four-Wide Nationals
+
+date: 2025-04-10, from: Kickin the Tires blog
+
+LAS VEGAS (April 09, 2025) – SCAG Racing’s Dave Richards is set to take on the thrilling chaos of the NHRA Four-Wide Nationals this weekend at The Strip at Las&#8230;  
+
+<br> 
+
+<https://kickinthetires.net/nhra/dave-richards-bluebird-versatran-team-hope-to-have-lady-luck-at-nhra-four-wide-nationals/>
+
+---
+
+## Polaris Adventures Will Now Offer Weather Insurance for Your Off-Road Escapades
+
+date: 2025-04-10, from: Ride Apart, Electric Motorcycle News
+
+Unlike most, this insurance makes a lot of sense. 
+
+<br> 
+
+<https://www.rideapart.com/news/756146/polaris-adventure-weather-insurance/>
 
 ---
 
